@@ -1,0 +1,53 @@
+# Ejecuta el recolector una vez por semana y guarda los JSON actualizados.
+name: Recolectar datos de revistas
+
+on:
+  schedule:
+    # Los lunes a las 04:17 UTC.
+    - cron: "17 4 * * 1"
+  workflow_dispatch:
+    inputs:
+      limite:
+        description: "Número máximo de revistas (0 sin límite)"
+        required: false
+        default: "50"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: recolectar
+  cancel-in-progress: false
+
+jobs:
+  recolectar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Pruebas del recolector
+        run: python -m unittest discover -s recolector/pruebas
+
+      - name: Recolectar desde DOAJ, Crossref y OAI-PMH
+        env:
+          # Dirección de contacto para las peticiones a Crossref (opcional).
+          # Se define en Settings, Secrets and variables, Actions, Variables.
+          CONTACTO_EMAIL: ${{ vars.CONTACTO_EMAIL }}
+        run: python recolector/recolectar.py --limite "${{ github.event.inputs.limite || '50' }}"
+
+      - name: Guardar los cambios si los hay
+        run: |
+          git add -A data
+          if git diff --cached --quiet; then
+            echo "Los datos no han cambiado."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Actualizar datos de revistas ($(date -u +%Y-%m-%d))"
+          git push

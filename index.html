@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light dark">
+  <meta name="description" content="Explorador de revistas de sociología de acceso abierto publicadas en español, con sus números más recientes y sus artículos.">
+  <title>Revistas de sociología en acceso abierto</title>
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect x='4' y='3' width='24' height='26' rx='3' fill='%230a4fa3'/%3E%3Crect x='9' y='9' width='14' height='3' fill='%23fff'/%3E%3Crect x='9' y='15' width='14' height='3' fill='%23fff'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="assets/estilos.css">
+  <script src="assets/app.js" defer></script>
+</head>
+<body>
+  <a class="salto" href="#contenido" id="enlace-salto">Saltar al contenido principal</a>
+
+  <header class="cabecera">
+    <div class="contenedor cabecera__fila">
+      <p class="marca"><a href="#/" class="marca__enlace">Revistas de sociología en acceso abierto</a></p>
+
+      <div class="texto-tamano" role="group" aria-labelledby="texto-tamano-titulo">
+        <p class="texto-tamano__titulo" id="texto-tamano-titulo">Tamaño del texto: <span id="texto-tamano-valor">100 %</span></p>
+        <div class="texto-tamano__botones">
+          <button type="button" class="boton boton--secundario" data-tamano="reducir">Reducir<span class="solo-lector"> el texto</span></button>
+          <button type="button" class="boton boton--secundario" data-tamano="normal">Normal<span class="solo-lector">, tamaño original del texto</span></button>
+          <button type="button" class="boton boton--secundario" data-tamano="aumentar">Aumentar<span class="solo-lector"> el texto</span></button>
+        </div>
+      </div>
+    </div>
+
+    <div class="aviso-prueba" id="aviso-prueba" hidden>
+      <p class="contenedor"><strong>Datos de prueba.</strong> Las revistas, números y artículos que ves ahora son ficticios y sirven solo para probar la aplicación. No proceden de DOAJ ni de Crossref.</p>
+    </div>
+  </header>
+
+  <nav class="migas" aria-label="Ruta de navegación">
+    <ol class="contenedor migas__lista" id="migas"></ol>
+  </nav>
+
+  <main id="contenido" class="contenedor principal" tabindex="-1">
+    <noscript>
+      <h1>Esta aplicación necesita JavaScript</h1>
+      <p>Activa JavaScript en tu navegador y vuelve a cargar la página para explorar las revistas.</p>
+    </noscript>
+  </main>
+
+  <footer class="pie">
+    <div class="contenedor">
+      <p>Los datos proceden de <a href="https://doaj.org/" class="externo">DOAJ</a> (listado de revistas), <a href="https://www.crossref.org/" class="externo">Crossref</a> y los archivos OAI-PMH de cada revista (números y artículos). Cada artículo pertenece a su revista y se distribuye con la licencia indicada en su ficha; los enlaces llevan siempre a la publicación original.</p>
+      <p id="pie-actualizacion"></p>
+    </div>
+  </footer>
+
+  <div id="anuncios" class="solo-lector" aria-live="polite" aria-atomic="true"></div>
+</body>
+</html>

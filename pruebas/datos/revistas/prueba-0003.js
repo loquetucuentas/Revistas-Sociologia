@@ -1,0 +1,158 @@
+// Copia de revistas/prueba-0003.json para abrir la aplicación sin servidor.
+(window.DATOS_REVISTAS = window.DATOS_REVISTAS || {})["revistas/prueba-0003.json"] = {
+ "version": 1,
+ "generado": "2026-10-17T00:00:00+00:00",
+ "es_prueba": true,
+ "revista": {
+  "id": "prueba-0003",
+  "titulo": "Ánfora de Prueba: Sociología y Cultura",
+  "titulo_alternativo": null,
+  "idiomas": [
+   "es"
+  ],
+  "issn_impreso": null,
+  "issn_electronico": null,
+  "editorial": "Editorial de Ejemplo",
+  "pais": "ES",
+  "materias": [
+   "Sociología (datos de prueba)"
+  ],
+  "palabras_clave": [
+   "datos de prueba",
+   "sociología"
+  ],
+  "licencias": [
+   {
+    "nombre": "CC BY 4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+   }
+  ],
+  "url": "https://example.org/prueba-0003/",
+  "url_doaj": null,
+  "descripcion": "Revista ficticia creada solo para probar la interfaz. Ninguno de sus datos procede de DOAJ ni de Crossref.",
+  "fuente_ficha": "Datos de prueba",
+  "archivo": "revistas/prueba-0003.json",
+  "ultimo_numero": "Vol. 12, núm. 2 (2026)",
+  "fuente_numeros": "Datos de prueba"
+ },
+ "numeros": [
+  {
+   "id": "v12-n2-2026",
+   "volumen": "12",
+   "numero": "2",
+   "anio": 2026,
+   "fecha": "2026-12",
+   "etiqueta": "Vol. 12, núm. 2 (2026)",
+   "fuente": "Datos de prueba",
+   "articulos": [
+    {
+     "id": "10.0000/prueba-0003.0.1",
+     "titulo": "Artículo de prueba 1: una aproximación ficticia al estudio de trabajo de cuidados",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Persona Autora de Prueba 1",
+       "orcid": null
+      },
+      {
+       "nombre": "Otra Persona Ficticia",
+       "orcid": null
+      }
+     ],
+     "resumen": "Texto de prueba. Este resumen no corresponde a ningún artículo real. Sirve para comprobar cómo se presenta un resumen sobre trabajo de cuidados en la interfaz, con una longitud parecida a la de un resumen académico habitual y varias frases seguidas.",
+     "idioma_resumen": null,
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+     },
+     "url": "https://example.org/prueba-0003/articulo/0-1",
+     "doi": "10.0000/prueba-0003.0.1",
+     "paginas": "1-20",
+     "fuente": "Datos de prueba"
+    },
+    {
+     "id": "10.0000/prueba-0003.0.2",
+     "titulo": "Test article: a fictitious study of neighbourhood networks and social trust",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Persona Autora de Prueba 2",
+       "orcid": null
+      },
+      {
+       "nombre": "Otra Persona Ficticia",
+       "orcid": null
+      }
+     ],
+     "resumen": "Test data. This abstract does not belong to any real article. It is written in English to check that the interface marks its language so that screen readers switch voice.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+     },
+     "url": "https://example.org/prueba-0003/articulo/0-2",
+     "doi": "10.0000/prueba-0003.0.2",
+     "paginas": "21-40",
+     "fuente": "Datos de prueba"
+    },
+    {
+     "id": "10.0000/prueba-0003.0.3",
+     "titulo": "Artículo de prueba 3: una aproximación ficticia al estudio de participación juvenil",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Persona Autora de Prueba 3",
+       "orcid": null
+      },
+      {
+       "nombre": "Otra Persona Ficticia",
+       "orcid": null
+      }
+     ],
+     "resumen": null,
+     "idioma_resumen": null,
+     "licencia": null,
+     "url": "https://example.org/prueba-0003/articulo/0-3",
+     "doi": "10.0000/prueba-0003.0.3",
+     "paginas": "41-60",
+     "fuente": "Datos de prueba"
+    },
+    {
+     "id": "10.0000/prueba-0003.0.4",
+     "titulo": "Artículo de prueba 4: una aproximación ficticia al estudio de redes vecinales",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Persona Autora de Prueba 4",
+       "orcid": null
+      },
+      {
+       "nombre": "Otra Persona Ficticia",
+       "orcid": null
+      }
+     ],
+     "resumen": "Texto de prueba. Este resumen no corresponde a ningún artículo real. Sirve para comprobar cómo se presenta un resumen sobre redes vecinales en la interfaz, con una longitud parecida a la de un resumen académico habitual y varias frases seguidas.",
+     "idioma_resumen": null,
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+     },
+     "url": "https://example.org/prueba-0003/articulo/0-4",
+     "doi": "10.0000/prueba-0003.0.4",
+     "paginas": "61-80",
+     "fuente": "Datos de prueba"
+    }
+   ]
+  },
+  {
+   "id": "v12-n1-2026",
+   "volumen": "12",
+   "numero": "1",
+   "anio": 2026,
+   "fecha": "2026-06",
+   "etiqueta": "Vol. 12, núm. 1 (2026)",
+   "fuente": "Datos de prueba",
+   "articulos": []
+  }
+ ]
+};

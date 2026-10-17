@@ -62,7 +62,7 @@ R3.3. Vista 1, listado de revistas: buscador por nombre y orden alfabético.
 
 R3.4. Vista 2, ficha de revista: descripción, enlace a su web y los tres números más recientes.
 
-R3.5. Vista 3, número: índice de artículos con título, autores, resumen cuando exista, licencia y enlace claro a la web original del artículo, que se abre con aviso de que sale de la aplicación.
+R3.5. Vista 3, número: índice de artículos con título, autores, resumen cuando exista, licencia y enlace claro a la web original del artículo, que se abre con aviso de que sale de la aplicación. Decisión aprobada: el enlace se abre en una pestaña nueva y lo indica en su texto visible.
 
 R3.6. Cada vista tiene estados de carga, vacío y error accesibles.
 
@@ -82,6 +82,8 @@ R4.4. No se inventa ninguna revista, número ni artículo. Todo dato procede de 
 R4.5. Las revistas que no se puedan resolver se registran en un informe aparte para revisión humana.
 
 R4.6. Se respetan las licencias, se cita siempre a la revista y se enlaza al original.
+
+R4.7. Decisiones aprobadas: el recolector se escribe en Python con la biblioteca estándar, y la primera recolección se limita a 50 revistas para revisar los resultados antes de ampliar.
 
 ## 5. Entorno
 
