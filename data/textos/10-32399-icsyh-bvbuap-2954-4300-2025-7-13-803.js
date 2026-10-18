@@ -1,0 +1,1754 @@
+// Copia de textos/10-32399-icsyh-bvbuap-2954-4300-2025-7-13-803.json para abrir la aplicación sin servidor.
+(window.DATOS_REVISTAS = window.DATOS_REVISTAS || {})["textos/10-32399-icsyh-bvbuap-2954-4300-2025-7-13-803.json"] = {
+ "version": 1,
+ "recogido": "2026-10-18T11:50:51+00:00",
+ "doi": "10.32399/icsyh.bvbuap.2954-4300.2025.7.13.803",
+ "titulo": "participaciones políticas en el clientelismo político: el caso de Cuautitlán 2018-2021",
+ "revista": "2954-4300",
+ "numero": "2025",
+ "licencia": {
+  "codigo": "by-nc-sa",
+  "nombre": "CC BY-NC-SA 4.0",
+  "nombre_completo": "Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional",
+  "url": "https://creativecommons.org/licenses/by-nc-sa/4.0",
+  "url_legal": "https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.es"
+ },
+ "fuente": {
+  "url": "https://bajoelvolcanx.buap.mx/index.php/bajovolc/article/download/803/794?inline=1",
+  "formato": "HTML",
+  "plataforma": "ojs-galerada",
+  "pagina": "https://bajoelvolcanx.buap.mx/index.php/bajovolc/article/view/803"
+ },
+ "autores_cita": [
+  {
+   "apellidos": "Ramos López",
+   "nombre_pila": "Manuel Alejandro",
+   "nombre": null
+  }
+ ],
+ "avisos_derechos": [
+  "Derechos de autor 2025 Manuel Alejandro Ramos López",
+  "Licencia Derechos de autor 2025 Manuel Alejandro Ramos López Esta obra está bajo una licencia internacional Creative Commons Atribución-NoComercial-CompartirIgual 4.0. Las autoras y los autores conservan los derechos de autor sobre su obra y ceden a Bajo el Volcán. Revista del Posgrado de Sociología. BUAP únicamente el derecho de primera publicación. Revista de acceso abierto diamante: sin costo para autoras, autores ni personas lectoras."
+ ],
+ "idioma_principal": "es",
+ "indice": [
+  {
+   "id": "t-seccion-1",
+   "nivel": 2,
+   "texto": "Las participaciones políticas en el clientelismo político: el caso de Cuautitlán 2018-2021",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-2",
+   "nivel": 3,
+   "texto": "INTRODUCCIÓN",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-3",
+   "nivel": 3,
+   "texto": "1. MARCO ANALÍTICO PARA EL ESTUDIO DEL CLIENTELISMO POLÍTICO EN RELACIÓN CON LA PARTICIPACIÓN CONVENCIONAL Y NO CONVENCIONAL",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-4",
+   "nivel": 3,
+   "texto": "2. UN ESBOZO CONTEXTUAL DE CUAUTITLÁN 2018-2021",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-5",
+   "nivel": 3,
+   "texto": "3. CLIENTELISMO, PARTICIPACIÓN CONVENCIONAL Y NO CONVENCIONAL EN LOS CIUDADANOS DE CUAUTITLÁN (2018-2021)",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-6",
+   "nivel": 3,
+   "texto": "CONCLUSIÓN",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-7",
+   "nivel": 3,
+   "texto": "BIBLIOGRAFÍA",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-8",
+   "nivel": 3,
+   "texto": "NOTAS",
+   "lang": null
+  }
+ ],
+ "vueltas": {
+  "t-fnref1": "t-llamada-fnref1-1",
+  "t-fnref2": "t-llamada-fnref2-1",
+  "t-fnref3": "t-llamada-fnref3-1",
+  "t-fnref4": "t-llamada-fnref4-1",
+  "t-fnref5": "t-llamada-fnref5-1"
+ },
+ "contenido": [
+  "\n",
+  [
+   "section",
+   {},
+   "\n",
+   [
+    "strong",
+    {},
+    [
+     "em",
+     {},
+     "Bajo el Volcán. Revista del Posgrado de Sociología. BUAP"
+    ]
+   ],
+   ", Año 7, Núm. 13, noviembre de 2025 – abril de 2026, pp. 290-317.",
+   [
+    "br",
+    {}
+   ],
+   "e-ISSN 2954-4300 · ",
+   [
+    "a",
+    {
+     "href": "https://doi.org/10.32399/ICSYH.bvbuap.2954-4300.2025.7.13.803"
+    },
+    "https://doi.org/10.32399/ICSYH.bvbuap.2954-4300.2025.7.13.803"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Pensamiento crítico"
+   ],
+   "\n",
+   [
+    "h2",
+    {
+     "id": "t-seccion-1"
+    },
+    "Las participaciones políticas en el clientelismo político: el caso de Cuautitlán 2018-2021"
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Political participations in political clientelism: The case of Cuautitlán 2018-2021"
+   ],
+   "\n",
+   "\n",
+   [
+    "p",
+    {},
+    [
+     "span",
+     {},
+     "Manuel Alejandro Ramos López"
+    ],
+    [
+     "sup",
+     {},
+     [
+      "a",
+      {
+       "id": "t-fnref1",
+       "href": "#t-fn1"
+      },
+      "1"
+     ]
+    ],
+    [
+     "br",
+     {}
+    ],
+    [
+     "span",
+     {},
+     "Universidad Autónoma Metropolitana, Unidad Azcapotzalco, Departamento de Sociología, Ciudad de México, México"
+    ],
+    [
+     "br",
+     {}
+    ],
+    [
+     "span",
+     {},
+     "ORCID: ",
+     [
+      "a",
+      {
+       "href": "https://orcid.org/0000-0001-6941-1519"
+      },
+      "https://orcid.org/0000-0001-6941-1519"
+     ]
+    ]
+   ],
+   "\n",
+   "\n",
+   [
+    "p",
+    {},
+    "rlma@azc.uam.mx"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "RESUMEN"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "El presente tiene como objetivo describir el clientelismo político como proveedor de participaciones convencionales y no convencionales en Cuautitlán Estado de México durante el periodo 2018-2021, desde un enfoque cualitativo. Dicho municipio se caracteriza por ser de los punteros a nivel estatal en cuanto a indicadores socioeconómicos y por la alternancia partidaria en su estructura gubernamental. Aun así, es un municipio con arraigo clientelar, el cual se puede delimitar como una hibridación entre un clientelismo vertical y horizontal. Para el análisis, se parte de la teoría general de racionalización weberiana, quien establece que las instituciones estatales se van especializando, aunque de igual forma se pueden encontrar estructuras patrimonialistas propias de asociaciones tradicionales. El clientelismo político se tratará como una institución que se ha racionalizado y, a la vez, ha mantenido arraigos tradicionales en su interior. Una forma de observar dicha dualidad es con la participación de los ciudadanos mediante vías convencionales (universales), así como no convencionales (particulares). Para esto, se realizaron 15 entrevistas semiestructuradas a ciudadanos y funcionarios de distintos partidos políticos del municipio, de esa manera, se contrastaron los tipos ideales planteados y se hizo una tipología a la relación entre clientelismo y participaciones políticas del contexto trabajado."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    [
+     "em",
+     {},
+     "Palabras clave:"
+    ],
+    " Clientelismo político, democracia, hibridación, racionalización"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "ABSTRACT"
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "The objective of this article is to describe political clientelism as a provider of conventional and unconventional participations in Cuautitlán State of Mexico during the period 2018-2021, from a qualitative approach. This municipality is characterized by being one of the leaders at the state level in terms of socioeconomic indicators and by partisan alternation in its government structure. Even so, it is a municipality with clientelist roots, which can be delimited as a hybridization between vertical and horizontal clientelism. For the analysis, this is based on the general theory of Weberian rationalization, who establishes that state institutions are becoming more specialized, although patrimonial structures typical of traditional associations can also be found. Political clientelism will be treated as an institution that has been rationalized and, at the same time, has maintained traditional roots within it. One way to observe this duality is with the participation of citizens through conventional (universal) as well as non-conventional (particular) means. For this, 15 semi-structured interviews were carried out with citizens and officials from different political parties in the municipality, to contrast the ideal types proposed and typify the relationship between clientelism and political participation in the context worked. ",
+    [
+     "em",
+     {},
+     "Key words:"
+    ],
+    " Political clientelism, democracy, participation, hybridization, institutions."
+   ],
+   "\n",
+   [
+    "h3",
+    {
+     "id": "t-seccion-2"
+    },
+    "INTRODUCCIÓN "
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "El clientelismo político ha sido categorizado como un fenómeno que tiene repercusiones en la democracia, lo cual en un inicio fue considerado como una patología propia de sistemas autoritarios, sin embargo, este se adapta a los cambios de régimen y se puede presentar incluso en democracias consolidadas (Moreno Luzón, 1999; Fox, 2012; Combes, 2011; Ramos López, 2019). Las categorizaciones de clientelismo político tradicional y moderno han sido útiles para el análisis del tópico en contextos determinados, en especial aquellos en que las transiciones a la democracia se han prolongado y se halla un vacío normativo en el cual la dirección de la acción política no se establece ni desde lo tradicional o lo moderno, más bien se tiene una hibridación de ambos factores (Schröter, 2010; González Tule, 2019; Ramos López, 2022)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "El presente trabajo se instala como un estudio de caso instrumental siguiendo a Gundermann-Kröll (2013), el cual se enfoca en el contraste analítico de un conjunto de tipos ideales con el fin de encontrar sus congruencias y diferencias en un contexto determinado. Cabe recordar, que para Weber (2004) la realidad es inconmensurable para su interpretación y comprensión, por lo que apoyarse de herramientas analíticas como lo son tipologías utilizadas, como si las expectativas de funcionamiento de las acciones sociales fueran cumplidas tal cual, servirán para compararse en contextos determinados y, de esa forma, los hallazgos no se basan en comprobar el cúmulo de tipos ideales, sino de encontrar tanto congruencias como desviaciones."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "El contexto al cual se le hará dicho tratamiento de comparación es Cuautitlán Estado de México (2018-2021), municipio que es parte de la zona conurbada de la entidad y que converge con otros municipios en cuanto a historias políticas e indicadores socioeconómicos punteros; es decir, su primera transición se llevó a cabo en los años noventa, momentos en los que llega el PAN al gobierno, pero se van a principio de nuevo milenio y regresa el PRI hasta el año 2018, momentos en los que Morena logra ganar las elecciones, aunque en el año 2021 regresan al poder los dos partidos anteriores (PRI y PAN), pero esta vez junto al PRD como coalición (Ramos López, 2022; 2023; IEEM, 2023). En el entramado de variaciones políticas en el municipio, el objetivo del presente artículo es delimitar la influencia que el clientelismo político provee en las participaciones políticas de Cuautitlán 2018-2021. Para esto se realizaron 15 entrevistas en profundidad con el fin de contrastar los tipos ideales de clientelismo tradicional, clientelismo moderno, participación convencional y no convencional, esto para responder a la pregunta ¿Cómo influye la forma del clientelismo político en las participaciones de Cuautitlán 2018-2021?"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "El presente inicia con el enunciamiento teórico y metodológico que se utilizó para la investigación, de esta manera se definen los conceptos de clientelismo y participación política, como los tipos ideales base que se utilizaron, a la vez de presentar la teoría fundamentada como el método de construcción y análisis de información cualitativa que fue llevada a cabo. Después, se realiza un esbozo contextual general al municipio de Cuautitlán México, esto desde una visión meramente descriptiva, haciendo énfasis en la historia política de los años noventa y culminando en los resultados de las elecciones 2021. Finalmente, instalados en esa contienda electoral (así mismo, valiéndose de las vivencias del periodo 2018-2021) se presentan los principales hallazgos en voces de los entrevistados, los cuales fueron 10 clientes y 5 patrones/mediadores del municipio. En el apartado de conclusiones se harán una serie de reflexiones finales."
+   ],
+   "\n",
+   [
+    "h3",
+    {
+     "id": "t-seccion-3"
+    },
+    "1. MARCO ANALÍTICO PARA EL ESTUDIO DEL CLIENTELISMO POLÍTICO EN RELACIÓN CON LA PARTICIPACIÓN CONVENCIONAL Y NO CONVENCIONAL"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Con el fin de llevar a cabo la comparación típica ideal en el caso de Cuautitlán, el paso inicial, en este apartado, es delimitar conceptualmente una serie de tipos ideales que funjan como elementos de análisis. De esta manera, primero se necesita dejar en claro que por clientelismo político se tomará una definición que involucra dimensiones normativas e instrumentales, esto enfocado en la tipificación ideal weberiana y los trabajos de clientelismo político tanto iniciales como más recientes",
+    [
+     "sup",
+     {},
+     [
+      "a",
+      {
+       "id": "t-fnref2",
+       "href": "#t-fn2"
+      },
+      "2"
+     ]
+    ],
+    ". Ligado a ello, el concepto de participación se verá más allá de una participación resumen electoral (Cleary, 2003), por lo que su sentido analítico se basará tanto en modos formales como informales de posibilidad de influencia hacia el sistema político por parte de los ciudadanos, en otras palabras, la participación contará con instituciones formales e informales, por lo que el clientelismo puede converger en dicho dúo. (Helmke y Levitsky, 2012)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    [
+     "strong",
+     {},
+     "1.1. Clientelismo tradicional y moderno como insumos de análisis."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "El clientelismo político ha sido tipificado desde distintas disciplinas, corrientes teóricas y metodológicas y más que refutar una u otra, lo trascendental es considerarlas como distintas ideas de valor que pueden fungir como tipos ideales de análisis en un entramado complejo de acciones y relaciones sociales (Moreno Luzón, 1999; Schröter, 2010; Weber, 2012). Aun así, la otra cara de dicha riqueza analítica radica en el estiramiento conceptual que le puede llegar a suceder, un consenso inconcluso en cuanto a terminologías y, especialmente, la carga valorativa que el mismo término provoca en los análisis, dado que además de ser una categoría científica, es un término con carga valorativa dese posiciones políticas (Vommaro y Quiroz, 2011). Si se pretende utilizar la comparación típica ideal, es preciso delimitar claramente los tipos ideales que se van a utilizar, dado que son esas herramientas las que proveerán la construcción de conocimiento (Giner, 2004)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "De esta manera, la definición clásica de clientelismo político tiene que ver con su delimitación coercitiva, cerrada y relacionada con elementos afectivos y normativos (Serra, 2016). Cabe señalar, que, en dichas relaciones, los participantes son el patrón y el cliente, el primero ostenta bienes y servicios (patrimoniales) que el segundo necesita, y no cuenta con ellos, para su vida cotidiana, por lo que el intercambio se da en un ambiente de coerción y sin la posibilidad de que el cliente pueda decidir si se involucra o no en el trato clientelar (Fox, 1994; Moreno Luzón, 1999; Corzo, 2002). Para Schröter (2010), la característica principal de un clientelismo tradicional, por un lado, es la normatividad inmersa en valores tradicionales y afectos que incluyan la construcción de reciprocidades desde los clientes hacia el patrón, aunque, de igual forma, la coerción es un elemento que obliga que el intercambio clientelar se concluya, lo que ella define como clientelismo forzado."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "La relación con la teoría clásica weberiana se observa en la normatividad, tradición y afectos. Cabe recordar que la sociología interpretativa dichos elementos se presentan en contextos en que la racionalización de la política es precaria y el carisma del caudillo, así como su santidad tradicional se mezclan con el monopolio de la violencia (Weber, 2011). La norma de reciprocidad, por lo tanto, se basa, en primer lugar, en expectativas, dado que, si se reciben determinados insumos para su vida cotidiana, lo que el cliente carga en su sentido mentado es la reciprocidad como parte de un cálculo racional con arreglo a valores (Stokes, 2009; González Tule, 2019). En segundo lugar, los afectos que construyen se asemejan a un ideario de relaciones familiares, los que son parte del círculo clientelar recibirán la protección paternalista del patrón, diferenciándose de los excluidos que no contarán con ello, por lo que los afectos construidos son otro ingrediente a la hora de esa conclusión del trato. Finalmente, la tradición, es decir, costumbres de determinadas acciones sociales y políticas delimitan que el clientelismo se lleva a cabo dado que así ha sido a lo largo del tiempo, incluso los mismos clientes son los que pueden iniciar dichos intercambios (Tosoni, 2007, Müller, 2012)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Aun así, cabe recordar que Weber (2011) señala que una dominación política necesita ir más allá de la creencia tradicional, carismática o coercitiva, dado que dichos vínculos pueden llegar a ser débiles para la obediencia del mandato",
+    [
+     "sup",
+     {},
+     [
+      "a",
+      {
+       "id": "t-fnref3",
+       "href": "#t-fn3"
+      },
+      "3"
+     ]
+    ],
+    ", en este caso, para la conclusión clientelar. Por tal motivo, el proceso de racionalización de la política establece la profesionalización de esta misma, dado que lo patrimonial pasa a público; ya no son los bienes del patrón, sino determinados insumos estatales que utilizan profesionales cuya profesión es la política. Además, la democratización del régimen político permite que el voto sea libre al posibilitar diversas vías de participación, por lo que ese entorno, repercute en las estructuras y funcionamiento del clientelismo político (Tosoni, 2007)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "El concepto de clientelismo moderno surge de la no eliminación de dicha práctica en la política a pesar de la racionalización y democratización del régimen político (Combes, 2011). Sus características son, en primer lugar, una instrumentalidad de sus participantes, los cuales miden costos beneficios (una acción social con arreglo a fines) para inmiscuirse, pactar y culminar el trato clientelar (González Tule, 2019; Ramos López, 2021; 2024). En segundo lugar, derivado de lo anterior, hay una gran incertidumbre en la conclusión del trato, dado que la reciprocidad (producto de tradición, afectos y valores) se debilita y surge lo que se denomina clientelismo ilusionario tanto para clientes como para patrones, el intercambio no se realiza en tiempo real (pueden ser promesas a futuro) y el cliente puede incluso no darle el apoyo al patrón (Schröter, 2010). Finalmente, surge una división en los roles clientelares, la profesionalización de la política provoca que el clientelismo sea una herramienta para que las carreras de los profesionales políticos sen prolíficas, es decir, la obtención de clientes se traduce en votos y, por lo tanto, es una manera de obtener capital político (Auyero, 2001)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Lo anterior no se debe tomar como un marco teórico a comparar, sino como una serie de tipos ideales, que se van a contrastar en el contexto de Cuautitlán Estado de México. Por lo tanto, es difícil que se encuentren en forma pura y lo que se hallarán son estas tipificaciones combinadas unas con otras. Aun así, lo que se puede decir es que los conceptos de clientelismo político tradicional y moderno fueron prolíficos en determinados momentos de estudio del tópico y siguen vigentes al utilizarlos como tipos ideales."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    [
+     "strong",
+     {},
+     "1.2. Participación "
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "La relación entre clientelismo político y democracia regresa a la discusión que ha rondado en el presente. Para O’Donnell (2011) la transición a la democracia establecería la consolidación de instituciones políticas formales que sustituyeran la informalidad que quedaba como rezago de regímenes autoritarios, por su parte, para Fox (1994), en su estudio del caso mexicano, el clientelismo se iría transformando en las bases para lo que se constituiría como ciudadanía, dado que los círculos clientelares serian de donde emergería una sociedad civil fuerte que expresara sus demandas en forma participativa",
+    [
+     "sup",
+     {},
+     [
+      "a",
+      {
+       "id": "t-fnref4",
+       "href": "#t-fn4"
+      },
+      "4"
+     ]
+    ],
+    ". Aun así, lo que se tejió como un modelo a seguir de consolidación democrática no tuvo el fin esperado y, por ello, las consecuencias trajeron como resultado que el clientelismo sobreviviera."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Desde un elemento operativo, la participación política se establece como elemento fundamental para considerar a un régimen como democrático (Delfino y Zubieta, 2010). Para Dahl (1971) las instituciones poliárquicas establecen los lineamientos normativos formales para que los ciudadanos puedan expresar y que sean tomadas en cuenta sus demandas. Por su parte Nohlen (2004) distingue participación electoral como una de las formas de participación política entre las existentes, es decir, acciones en las que desde el emerger ciudadano se influye en las decisiones gubernamentales con el fin de que se respondan a determinadas demandas. Aun así, para Cleary (2003) la participación electoral resume las demandas ciudadanas, aunque detrás de esa síntesis se hallan un entramado más complejo de necesidades."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "El clientelismo político se presenta como una institución informal dentro de las democracias, dado que el intercambio, aunque sea desde parámetros legales, se reduce a determinados círculos. Para Auyero (2002) las redes clientelares construyen círculos internos y círculos externos, los primeros son aquellos que cuentan con normas de reciprocidad más fuertes y los intercambios se hacen de manera más constante, mientras que los segundos son más esporádicos y con incertidumbre en su conclusión, dada la reciprocidad débil."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "La participación política emerge como fin a lo electoral, pero las demandas pueden presentarse desde lo informal del clientelismo político (Ramos López, 2019). La gran pregunta es ¿Su relación es de convivencia o divergencia? La respuesta tiene que ser delimitada desde las particulares vivencias de los clientes o mediadores: El cliente puede considerar que sus demandas son resueltas al relacionarse con una red clientelar y su participación puede converger con el partido con el cual se relacionó o, en su caso, puede castigarlo (tanto electoral como con apoyo en determinados eventos políticos) si el trato clientelar no es exitoso. Por su parte, el mediador (a cargo de sus círculos de clientes) está construyendo una carrera política y su participación en campañas, en mítines o, incluso en acciones colectivas que emergen desde la red clientelar serán sus tipos de participación (Ramos López, 2022)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "De esta manera, el clientelismo puede incentivar la participación política tanto formal, la cual, siguiendo a Verba y Nie (1972) puede definirse como actividades de campaña política, actividades comunitarias, contacto con la administración y voto , mientras que la participación no convencional, como señala Sabucedo y Arce (1991), puede estar enfocada en la persuasión electoral, la cual es el convencimiento de un tercero para movilizarse por uno otro candidato, la protesta violenta y la confrontación pacífica. Si bien se puede decir que la participación no convencional se define como ilegal, lo cierto es que al ser su fin el influir en las decisiones gubernamentales, al final se realiza por vías legales, aunque las convencionales son las más sucedidas en comparación de las no convencionales."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Finalmente, es pertinente recuperar lo planteado por Susana Corzo (2002), quien establece que el clientelismo político puede incentivar la participación política, la organización societal, la rendición de cuentas y el establecimiento de canales de respuesta a demandas en democracias, llamado clientelismo extrínseco; o, por el contrario, puede estancar el funcionamiento democrático y establecer las relaciones clientelares como un intercambio vacío, sin proyectos políticos y sociales en su interior, lo que llama clientelismo intrínseco. De hecho, cada uno converge con los tipos ideales de clientelismo tradicional y moderno respectivamente, por lo que estas definiciones, que se vinculan con la participación, de igual forma se tomaran como tipos ideales."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "La respuesta que se quiere buscar es ¿Cómo se relaciona el clientelismo político con los distintos tipos de participaciones políticas en Cuautitlán? Así como ¿Pertenecer a un círculo interno o externo define las participaciones que el cliente desarrolla? Para esto se necesita contrastar lo ya definido en el contexto elegido, dado que los participantes y sus vivencias dentro del accionar clientelar pueden establecer hallazgos en función de la comparación del entramado conceptual que se acaba de presentar, tal cual como lo han hecho en otros momentos autores como Auyero (2001), Tosoni (2007), Müller (2012), Hagene (2015). ",
+    [
+     "strong",
+     {},
+     "1.3. Metodología"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Para el análisis, se utilizó la teoría fundamentada como una herramienta de comparación constante entre categorías ya construidas y lo que va emergiendo desde lo empírico. Según Coffey y Atkinson (2003), la metodología cualitativa tiene como fin la saturación teórica, lo cual se consigue mediante el diálogo entre los datos que se van construyendo con el análisis y la recolección de información. Cabe señalar, que por teoría fundamentada puede entenderse varias maneras de realizar la saturación, sin embargo, se retomó la metodología de Strauss y Corbin (2002), dado que se puede encontrar la posibilidad de utilizar categorías preconstruidas, esto comparación de Glasser y Strauss (1968), quienes propusieron una teoría fundamentada meramente inductiva."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Los insumos para la obtención de datos se realizan en tres momentos, los cuales se basan en codificaciones abierta, axial y selectiva. En la primera la información se codifica palabra por palabra, dándole nombre a dichos fragmentos, en la segunda se selecciona la categoría central y las que estarán alrededor de ella, en la tercera se constituyen las relaciones entre categorías hasta llegar al estado de saturación (Strauss y Corbin, 2002). En el caso del presente, la información que se codificó es producto de la aplicación de entrevistas en profundidad a 15 informantes, el guion de entrevista se construyó a partir de las categorías teóricas que ya se señalaron, es decir, clientelismo moderno, clientelismo tradicional, participación convencional y participación no convencional, con sus conceptos circundantes."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "De los 15 participantes, 10 fueron clientes (internos y externos) y 5 fueron lideres políticos de diversos partidos de Cuautitlán. Por cuestiones éticas, se usarán seudónimos al momento de mencionarlos en la parte del análisis. Además, cabe señalar que surgieron nuevas categorías al realizar las codificaciones, por lo que en la sección de conclusiones se establecerán preguntas y objetivos a futuro. Pero antes de entrar en materia de las vivencias que fueron narradas por los participantes en redes clientelares, es trascendental delintar contextualmente al municipio, algo que se hará a continuación."
+   ],
+   "\n",
+   [
+    "h3",
+    {
+     "id": "t-seccion-4"
+    },
+    "2. UN ESBOZO CONTEXTUAL DE CUAUTITLÁN 2018-2021 "
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "El municipio de Cuautitlán es incluido en el conjunto de municipios que se les denominó corredor azul, los cuales tuvieron procesos de alternancia a nivel municipal en los años noventa con las victorias electorales del PAN (por ello el nombre), sin embargo, ya entrados los años dos mil, y por irregularidades en el gobierno panista, regresan los gobiernos priistas, los cuales se mantienen hasta el año 2018, aunque para 2021 la victoria fue para la coalición PRI-PAN-PRD (Delgado, 2017). Lo trascendental es la perduración de clientelismo político durante todos esos periodos, que puede considerarse como una hibridación entre lo tradicional y lo moderno, pero antes de entrar a los resultados de la aplicación de entrevistas, se presenta un recuento general del trayecto político del municipio."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    [
+     "strong",
+     {},
+     "2.1. Un recuento histórico a partir de su primera alternancia "
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Hacia los años setenta Cuautitlán gozaba de un territorio considerablemente más grande, sin embargo, por decreto presidencial (de Luis Echeverría) este se fragmentó, dando como resultado el municipio de Cuautitlán Izcalli (Osorio, 1995). Una de las características de los gobiernos del régimen autoritario priista es el intercambio de reciprocidades que iban desde el gobierno federal, pasaban por las cupulas estatales y llegaban a nivel municipal; en el caso del Cuautitlán, los presidentes municipales se conformaron como mediadores clientelares tradicionales los cuales eran controlados por los gobernadores estatales y el ejemplo más claro es Hank González, mediador de Luis Echeverria y responsable del control clientelar hacia los años setenta e iniciador de los proyectos de urbanización en los municipios mencionados (Delgado, 2011)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Como señala Ramos López (2022), la conformación de oposiciones políticas surge con la conformación de elites empresariales locales y en el caso de Cuautitlán, su representante más notable es Francisco Covarrubias. Él representa dos caras de lo que se puede considerar como patrón clientelar, dado que, por un lado, echó mano de sus bienes patrimoniales para ir convergiendo su vida empresarial con la política, aunque pasando los tiempos se convertiría en político profesional (sin dejar de lado su otra faceta) (Osorio, 1995). El primer gobierno azul, precisamente dirigido por Covarrubias como jefe del ejecutivo en el ayuntamiento, data del año 1991, aunque intentó desde finales de los años setenta, pero sus victorias electorales no fueron legitimadas debido a movilizaciones autoritarias llevadas a cabo por círculos internos de la CTM",
+    [
+     "sup",
+     {},
+     [
+      "a",
+      {
+       "id": "t-fnref5",
+       "href": "#t-fn5"
+      },
+      "5"
+     ]
+    ],
+    " en el Estado de México, haciendo que el PRI perdurara en el poder."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "El PAN se mantuvo del año 1991 al 2003, el motivo de su salida fueron las prácticas de corrupción que se llevaron a cabo en su interior, además de la fragmentación a nivel interno del partido (Ramos López, 2024). Entre los más difundido se encentran una serie de tráfico de influencias y contratos ilícitos llevados a cabo por Covarrubias, lo cual casi culmina con el encarcelamiento del político. Esto derivó que se alejara del partido y se alienara con el PRD, el cual se benefició de los votos de círculos internos que siguieron a Covarrubias, colocándose como segundo lugar en las elecciones de 2003, pero sin la posibilidad de obtener la victoria frente al PRI (IEEM, 2023)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Del año 2003 al 2018 el Revolucionario Institucional se caracteriza por traer consigo su política tradicional con tintes clientelares, dado que el aumento de políticas y el reparto de bienes y servicios den eventos multitudinarios fueron prácticas cotidianas durante los ya mencionados quince años. Como señalan Mendoza, Ortega y Cadena (2012), los apoyos a adultos mayores, mejoramiento de vialidades y el desarrollo en el ámbito de transporte trajo consigo que el PRI se sostuviera a lo largo de dichos años. Aun así, las relaciones clientelares tradicionales se pudieron ver en actos como pactos con lideres transportistas para la construcción del tren suburbano hacia 2008 y las reciprocidades con el gobierno estatal igualmente priista, a tal grado que los gobernantes municipales se instalaron en puestos de diputación local o federal después de su mandato (Ramos López, 2024)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "En síntesis, el municipio ha transitado de un autoritarismo cerrado, en el cual la participación ciudadana era simulada, a un régimen con el mínimo de democracia, las alternancias evidencian que el número de partidos importantes se ha ido multiplicando tanto en poderío electoral, como en la posibilidad de que estos lleguen al poder; entre los años noventa (gobernados por el PAN) y la primera década y media del tercer milenio (gobernada por el PRI) el número efectivo de partidos fue de tres, considerando que el PRI y PAN estuvieron en disputa constante y el tercero se turnaban entre el PRD o, incluso, el PT (Ramos López, 2022). Aun así, para el año 2018, la principal fuerza fue Morena, quien obtuvo la victoria en las elecciones, tal como se enuncia en el siguiente apartado."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    [
+     "strong",
+     {},
+     "2.2. Las elecciones el periodo de gobierno de Morena como "
+    ],
+    " ",
+    [
+     "strong",
+     {},
+     "antesala de las elecciones 2021"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "No es de extraños delimitar que el año 2018 fue un punto de quiebre para la historia política y partidaria en México, Morena arrasó con victorias electorales a nivel federal y local. Cuautitlán, por su parte, no fue la excepción, en ambos niveles los votos que obtuvo dicho partido lo colocaron como puntero definitivo a nivel electoral. El presidente municipal electo fue Ariel Juárez, quien se sostuvo firme con el discurso de su partido en cuanto al combate de la corrupción y el clientelismo político (Ramos López, 2022; 2024). En cuanto al último, puede observarse que necesitó adaptarse al nuevo entorno, dado que las redes clientelares en el municipio fueron clave en la perduración de los gobiernos panistas y priistas anteriores, sin embargo, el morenista no pudo llevarlas a cabo."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Un ejemplo de esto fue la relación en un inicio exitosa, pero que culminaría como fracaso, con las redes de comerciantes, ya que en un principio establecieron una serie de acuerdos que al final no se cumplieron, por lo que dicho círculo de clientes terminaría apoyando a la coalición tripartita hacia las elecciones del año 2021. Hablando de dicha coalición, su cohesión, aunque señalarían los entrevistados del PRD que no es simétrica en cuanto a poder, permitió congregar votos pertenecientes a sus determinados círculos internos y sacar provecho de lo descuidado por el gobierno de Juárez para obtener votos de círculos externos; dichas cuestiones fueron desde el aumento de violencia, el nepotismo que se observó en los puestos de gobierno dirigidos por familiares del presidente (tales como el DIF) y el descuido de políticas a nivel municipal, ya que los entrevistados llegaron a mencionar que los apoyos sociales eran de nivel federal y no municipal (Ramos López, 2022)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "La estructura del sistema partidario de Cuautitlán, por lo tanto, se vería trastocada y según la tipología de Duverger (1957), los partidos grandes (es decir, aquellos que pueden conseguir mayorías con el apoyo de otros con menor nivel de poder electoral) son Morena y PRI; de hecho, las coaliciones son trascendentales para la competencia política en las elecciones del año 2021, y si se hubieran lanzado individualmente los partidos, Morena obtendría la victoria. El punto clave fue que el PRI estableció relación con un partido medio como lo es el PAN, el cual ha pasado de ser la segunda fuerza electoralmente hablando a tener una función secundaria y como complemento, y un partido chico como lo es el PRD, que pasó de ser la tercera fuerza partidaria a un partido más que nada satélite (IEEM, 2023)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Para las elecciones del año 2021, Aldo Ledezma consigue la victoria frente a Juana Carrillo, con una diferencia porcentual del 5%, lo cual fue un margen corto considerando que la victoria de Morena en 2018 tuvo más del 20% de diferencia frente al PRI (IEEM, 2023). Las primeras conclusiones que se pueden enunciar son, en primer lugar, la ruptura de expectativas entre lo que se espera y lo que se tuvo como resultado en el gobierno morenista, que, a pesar de ello, siguen siendo la primera fuerza electoral. De esto se deriva lo segundo, que es el juego político con las coaliciones como un punto determinante a la hora del conteo de votos, así la coalición PRI-PAN-PRD pudo aprovechar la insatisfacción ciudadana y la construcción de redes clientelares fue clave, especialmente en momentos electorales. La pregunta final es ¿Cómo se presentan clientelismo político y participación en este contexto de competencia política? Para su respuesta las percepciones y vivencias ciudadanas serán el principal insumo."
+   ],
+   "\n",
+   [
+    "h3",
+    {
+     "id": "t-seccion-5"
+    },
+    "3. CLIENTELISMO, PARTICIPACIÓN CONVENCIONAL Y NO CONVENCIONAL EN LOS CIUDADANOS DE CUAUTITLÁN (2018-2021)"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Las redes clientelares establecen maneras de relacionarse con la autoridad política con el fin de poder cubrir sus necesidades que, sin su ayuda, sería difícil hacerlo. El clientelismo tradicional en el municipio data, al igual que en otros contextos mexicanos, del régimen autoritario priista del siglo XX, dado que su estructura fue cerrada, coercitiva e involucraba afectos y costumbres en sus reciprocidades (Vommaro y Combes, 2016). Lo que se podría suponer es que el clientelismo llevado a cabo en momentos posteriores a los momentos de transición es un clientelismo moderno, el cual se estructura como abierto, instrumental e ilusionario, pero lo cierto es que este se presenta combinado con el tipo ideal anterior y una forma de observarlo es mediante la incentivación de distintas participaciones, pero a la vez el condicionamiento y la obstaculización de estas mismas."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    [
+     "strong",
+     {},
+     "3.1. Clientelismo y participaciones en los círculos "
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    [
+     "strong",
+     {},
+     "internos de mediadores "
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "La categoría con mayor saturación en las codificaciones hechas fue la referente a círculos internos de mediadores, establece que las diferenciaciones de quienes están dentro de la relación clientelar son determinantes frente a los que están fuera. En concordancia con Auyero (2001), los círculos internos cuentan con información clave que utilizarán los clientes en la transacción clientelar, dado que su cercanía define la exclusividad en los intercambios clientelares. Dicho esto, otra categoría que emergió como central es la de bien y servicio a intercambiar, ya Schröter (2010) anunciaba que estos son diferenciados en función del tipo de clientelismo desarrollado, pero en el caso de Cuautitlán, los círculos internos cuentan con expectativas de intercambio a futuro que convergen con los intercambios de bienes y servicios al momento, esto se puede evidenciar en palabras de Karina y Rocío:"
+   ],
+   "\n",
+   [
+    "blockquote",
+    {},
+    "\n",
+    [
+     "p",
+     {},
+     "El apoyar y el estar ahí y siempre tratando de estar cerca de Ariel y después de Juana tenía como meta conseguir el llamado “hueso” si llegaban a ganar. Pero, ni modo, ella [Juana] no ganó y tenemos que seguir en busca de oportunidades por aquí y por allá. Pero no pienses que es algo seguro, conozco casos que estuvieron cerca de otros y al final nada de nada, es bien difícil y nada es seguro. (Entrevista con Karina) Yo estuve en campaña con Ariel y trabajé con él de cerca, claro al mando de su hija (risas), y te puedo decir que la labor que haces dentro de campaña puede verse en un trabajo, un trabajo de tres años es el problema. Con Juana la labor siguió siendo el apoyo en campaña, la vigilancia de los votos indecisos. No ganamos, la gente estaba enojada, Ariel no pudo con todo lo que prometió, creo que ese es el problema (Entrevista con Rocío)."
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Los clientes internos tienen esa expectativa a futuro, sin embargo, su conclusión del trato es hasta cierto punto ilusoria, aun así, en ellos sigue cargando y desarrollando un cúmulo de participaciones políticas que responden a demandas, muchas veces individuales, como lo son lo que narran las informantes, es decir, trabajo de campaña, labor de persuasión con los electores de círculos externos y la acumulación de votos para la elección próxima. Podría considerarse que la labor del cliente interno es tal cual instrumental (otra de las categorías que sobresale en la saturación), dado que su vínculo no es afectivo, ni por costumbre, visto a simple vista, en su acción mentada, más bien es un medio para un fin y su dominación podría considerase por constelación de intereses (Weber, 2004; Auyero, 1996; Ramos López, 2022)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "La instrumentalidad es la contraparte de una norma de reciprocidad en el clientelismo tradicional, la cual es reforzada por valores, afectos y coerción. El clientelismo moderno, como se definió, no es coercitivo, dado que su estructura es flexible y hasta cierto punto abierta, aun así, se encontraron indicios de clientelismo forzado especialmente en los círculos internos de mediadores, lo que complementa la suposición de una hibridación clientelar entre lo tradicional y lo moderno. La coerción no es física, pero se basa en maneras de suprimir el apoyo presente y el trato futuro si es que los círculos internos no consiguen votantes indecisos:"
+   ],
+   "\n",
+   [
+    "blockquote",
+    {},
+    "\n",
+    [
+     "p",
+     {},
+     "Para que nos den nuestro apoyo hay que llevar 10 personas más al evento, yo les digo que nos van a dar de desayunar y a mí el desayuno y 100 o 200 pesos. Si uno no lleva a las personas, no nos dan el dinero, pero el desayuno sí. Yo voy por el dinero y para ver si en una de esas después conseguimos yo o mis hijas algo en el municipio (Entrevista con Rosalba)."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Siempre nos piden llevar a gente, es tu chamba para que te den la despensa o la ayuda (que es nuestro derecho al final) a la colonia, como pintura, pavimento, luces de alumbrado, bacheado. La última comida que hubo con el partido (PRI) llevamos como a 20 almas por persona para pedirles [a mediadores y patrones] que no se hagan con lo que en el inicio prometieron, sólo así podemos reclamar lo que necesitamos, o lo que nos falta en las colonias (Entrevista con Sergio)."
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "La intensificación de la labor clientelar desde los clientes coloca al clientelismo como una vía de participación política convencional en lo termino de Verba y Nie (1972). Lo no convencional puede resultar en cuanto a la persuasión de clientes internos frente a clientes externos y a determinadas protestas pacíficas, tal cual mencionó Sergio. Aun así, la coerción a la que se enfrentan constantemente es indicio del rezago tradicional especialmente en ese tópico, dado que los afectos o valores de reciprocidad son débiles y una manera para seguir con un trato que vele por la reciprocidad siguiendo la coerción, tal cual como lo menciona Alejandra:"
+   ],
+   "\n",
+   [
+    "blockquote",
+    {},
+    "\n",
+    [
+     "p",
+     {},
+     "Pues yo llegué con mis hijos y madre enferma hace más o menos diez años, fuimos a ver a esta señora [mediadora] para que nos apoyara. Yo cuento, digámoslo así con el oficio de estilista, entonces le ayudé con cursos y la gente nos seguía, me prometió meterme a trabajar en un proyecto para las personas, para que las mujeres aprendieron oficios, pero era mentira, solo quería más y más seguidores. Al final le dije que ya no podía estar en ese juego de engañar a la gente, porque les había dicho del proyecto, y me quitó todo, todos los apoyos. Al principio le ayudé por agradecimiento, pero mejor de lejitos, además su partido perdió y mejor me voy con los que pueden ganar, aunque es para ayudas pequeñas. (Entrevista con Alejandra)"
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Así, en un juego político competido, lo que se puede observar es, por un lado, un clientelismo instrumental por parte de los clientes internos, dado que la relación clientelar es un medio para un fin a futuro, por lo que el intercambio se convierte en una expectativa ilusoria. Por otro lado, las participaciones se conjugan tanto en lo convencional, siendo la asistencia a eventos políticos, el apoyo a campaña y el voto que puedan asegurar de los círculos externos; en esto último aparece la participación no convencional, enfocada en la persuasión de los clientes internos a los externos para apoyar al partido, lo que también convierte a dichos en medios para lograr sus metas instrumentales. Finalmente, la coerción sigue presente en forma de sanciones a quienes no cumplan con su parte del trato. ",
+    [
+     "strong",
+     {},
+     "3.2. Círculos externos, instrumentalidad clientelar y partici-"
+    ],
+    " ",
+    [
+     "strong",
+     {},
+     "pación electoral "
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "La lógica de los círculos externos, por su parte, es más apegada con el tipo ideal de clientelismo moderno y lo único que puede considerarse como elemento que converge con el clientelismo instrumental es la costumbre de realizar dicha acción. En primer lugar, la acción social con arreglo afines puede observarse que se desarrolla sin tener de por medio la norma de reciprocidad que los valores o afectos dirigen al cliente tradicional (incluso, dichas categorías obtuvieron poca saturación en las codificaciones) y al ser relaciones espontáneas, no hay mandatos de coerción que determinan su participación:"
+   ],
+   "\n",
+   [
+    "blockquote",
+    {},
+    "\n",
+    [
+     "p",
+     {},
+     "Yo agarro todo de todo, del PRI, PAN, Morena, Verde. A la hora de la hora [las elecciones] voto por quien a mí me parezca mejor. Lo que den no me cambia, no estoy obligado. Pero pues los que están más metidos [círculos internos] esos no tienen de otra, para que ni les den hueso (Entrevista con Miguel)."
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "La exclusión del intercambio pude observarse en su narración, además tiene presente la idea de utilizar al clientelismo político como un medio y la flexibilidad de la práctica moderna es lo que lo posibilita. En segundo lugar, las participaciones desde los clientes externos son tal cual convencional y se basa en la asistencia a eventos de campaña y el voto, aunque cabe señalar que, la asistencia a dicho eventos algunos clientes lo toman como una forma de expresar sus demandas a las autoridades, en el caso de los círculos externos su asistencia no se presenta como un elemento de disputa política y más bien se presentan porque es parte del trato. Aun así, su precepción hacia el clientelismo puede considerarse distinta dependiendo de la persona, tal cual lo señalan los siguientes testimonios:"
+   ],
+   "\n",
+   [
+    "blockquote",
+    {},
+    "\n",
+    [
+     "p",
+     {},
+     "La semana antes de la votación mi amiga que está metida ahí me dijo que vayamos por una despensa y le dije que sí. Fuimos al evento, llevamos a los niños para subirlos juegos que había y ya. Antes yo estaba muy metida en eso, por lo de la seguridad, las banquetas y para que los niños estén jugando en el fraccionamiento. No nos hicieron caso, yo me salí, pero una que otra sigue adentro y hasta carro trae, uno sabe que ahí adentro se hace todo bien chueco. Prefiero ir de lejitos y con varios y así no me ven como la ratera de la unidad. (Entrevista con Luisa)."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "El que me dé más y de mejor manera, a ese le doy mi voto, no por menos. El voto es mi derecho y es la única forma de tener para castigar a lo que va mal. Si ayudan bien entonces no habría problema, pero los que están con ellos [Círculos internos] primero ven por ellos. Yo estuve con esas personas y tienes que someterte y hacer su trabajo para que te den algo y de mala gana, yo por eso me fui y pues, es mejor que te den algo y tú estar tranquilo con las personas (Entrevista con Mario)."
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "La participación como resumen, por lo tanto, se expresa en el voto, pero la evaluación se basa en experiencias pasadas de estos clientes, en otras palabras, antes de ser clientes externos, fueron clientes internos con tratos rotos y, específicamente, con pugnas valorativas en su interior. Yendo más profundo en esto, la conducción no se realiza desde un cúmulo de valores recíprocos que aseguren el trato, aunque en sí existen valores que sirven como expectativas en los clientes para evaluar al mediador, quien es el actor más cercano. Esto concuerda con los hallazgos de Müller (2012), quien establece que el trato clientelar no expresa ni ignorancia, ni pobreza, dado que los clientes pueden aceptarlo, pero bajo un esquema complementario con la democracia, es decir un clientelismo extrínseco (Corzo, 2002)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "De esta manera, los referentes siempre son los círculos internos, los perciben como parte del problema al no cumplir las expectativas que el cliente externo carga. Aun así, como se puede observar en la parte de los círculos internos, estos están bajo el yugo de mediadores en una escala jerárquica. Lo que se puede delimitar, finalmente, es que el clientelismo desarrollado por círculos internos es determinado por la coerción para la construcción de reciprocidades, mientras que el círculo externo lo determina la flexibilidad del clientelismo moderno; lo que ambos comparten es la instrumentalidad propia de una acción social con arreglo a fines y, especialmente, la tradición como costumbre de llevar a cabo relaciones clientelares para cubrir las necesidades momentáneamente o a futuro."
+   ],
+   "\n",
+   [
+    "h3",
+    {
+     "id": "t-seccion-6"
+    },
+    "CONCLUSIÓN"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "El esbozo realizado presenta una serie de congruencias y hallazgos en función del marco analítico presentado. Con lo que se puede iniciar es tipificando al clientelismo político como híbrido, dado que cuenta con elementos de su morfología tanto tradicional y moderna, lo que puede representar que, en primer lugar, la transición democrática sigue en curso, su rezago autoritario (evidenciado en la coerción aun existente) representa una de las herramientas de control y legitimación del régimen priista que existió en el municipio durante el siglo XX. En segundo lugar, dichos rezagos en el régimen no quieren decir que la estructura de las relaciones clientelares sean una calca de su versión tradicional y autoritaria, se pudo observar la incentivación participativa de los clientes al estar inmiscuidos en relaciones clientelares, que van desde el sufragio hasta las demandas que pueden hacerse con la cercanía a las autoridades políticas."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Aun así, también cabe rescatar que la misma complejidad en la estatura clientelar es diferente en círculos internos y externos de mediadores. Los primeros son a quienes la coerción es más notoria, dado que la instrumentalidad (que de hecho atraviesa ambos tipos de clientes) provoca que mecanismos de coerción como el de separarlos de la relación, omitiendo los apoyos dados, sea la principal herramienta; aun así, un hallazgo trascendental es que los clientes internos al conectar a clientes externos carga consigo el mandato de vigilancia y hasta cierto punto generar coerción para asegurar el voto. Hablando de los clientes de círculos externos, su instrumentalidad está dada por su espontaneidad y la flexibilidad de clientelismo provoca que sus conclusiones del trato sean más ilusorias (por eso la vigilancia de los círculos internos) y sus participaciones llegan a ser más convencionales incluso que la de los círculos internos."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Por la naturaleza del trabajo, solo se esbozaron una serie de categorías, por lo que quedan pendientes tres tareas: en primer lugar, explorar las vivencias de los mediadores, ya que estos son los que dirigen los intercambios y los más cercanos tanto a las autoridades políticas como a los clientes ¿sus acciones cotidianas responden a repartos comunitarios o son medios para alcanzar fines propios? Dichas respuestas pueden converger con la estructura de clientelismo político que desarrollen en su sentido mentado. En segundo lugar, para explorar incluso más en profundidad la parte tradicional (la cual se tocó superficialmente en el análisis) podría relacionarse el tópico con temas como cultura política, la socialización de actitudes políticas puede evidenciar que prácticas informales sean medios legítimos en lo cognitivo, evaluativo y afectivo frente al sistema político. Finalmente, la insatisfacción política es un elemento hallado que motivó a clientes votar por la oposición en 2021, por lo que para 2024 queda observar qué es lo que sucede ¿Las coaliciones seguirán teniendo el peso electoral? ¿Los clientes responderán con voto de incentivo de castigo al gobierno 2021-2023? Todo lo anterior son tareas de análisis de la adaptación e hibridación de prácticas informales como el clientelismo político a futuro."
+   ],
+   "\n",
+   [
+    "h3",
+    {
+     "id": "t-seccion-7"
+    },
+    "BIBLIOGRAFÍA "
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Auyero, J. (2001). ",
+    [
+     "em",
+     {},
+     "La política de los pobres: las prácticas clientelistas del peronismo"
+    ],
+    ". Ediciones Manantial. ",
+    [
+     "a",
+     {
+      "href": "https://books.google.com/book"
+     },
+     "https://books.google.com/book"
+    ],
+    " s?hl=es&lr=&id=mskVBAAAQBAJ&oi=fnd&pg=PA7&ots=cv Okwnp87n&sig=_gSwt5jzQqm3TM6zVagh7xjZmFM"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Auyero, J. (2002). Clientelismo político en Argentina: doble vida y negación colectiva. ",
+    [
+     "em",
+     {},
+     "Perfiles Latinoamericanos: Revista de la Facultad Latinoamericana de Ciencias Sociales, Sede México"
+    ],
+    ", ",
+    [
+     "em",
+     {},
+     "10"
+    ],
+    "(20), 33-52. ",
+    [
+     "a",
+     {
+      "href": "https://dialnet.unirioja.es/descarga/articulo/2211519.pdf"
+     },
+     "https://dialnet.unirioja.es/descarga/articulo/2211519.pdf"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Auyero, J., Lapegna, P., & Page, F. (2008). Clientelismo político y acción colectiva contenciosa: una relación recursiva. ",
+    [
+     "em",
+     {},
+     "Studia politicae"
+    ],
+    ", (14), 7-40. ",
+    [
+     "a",
+     {
+      "href": "https://revistas.bibdigital.uccor.edu.ar/index.php/SP/article/view/455"
+     },
+     "https://revistas.bibdigital.uccor.edu.ar/index.php/SP/article/view/455"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Coffey, A., & Atkinson: (2003). Encontrar el sentido a los datos cualitativos: estrategias com-plementarias de investigación. ",
+    [
+     "em",
+     {},
+     "Medellín, Colombia: Universidad de Antioquia"
+    ],
+    ". ",
+    [
+     "a",
+     {
+      "href": "http://www.index-f.com/dce/15pdf/15-140.pdf"
+     },
+     "http://www.index-f.com/dce/15pdf/15-140.pdf"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Combes, H. (2011). ¿Dónde estamos con el estudio del clientelismo? ",
+    [
+     "em",
+     {},
+     "Desacatos"
+    ],
+    ", 36, 13-32. ",
+    [
+     "a",
+     {
+      "href": "https://www.scielo.org.mx/scielo.php?pid=S1607-050X2011000200002&script=sci_arttext"
+     },
+     "https://www.scielo.org.mx/scielo.php?pid=S1607-050X2011000200002&script=sci_arttext"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Corzo, S. (2002) El clientelismo político como intercambio. ",
+    [
+     "em",
+     {},
+     "Institut de Ciències Polítiques i Socials,"
+    ],
+    " 206, 2-66. ",
+    [
+     "a",
+     {
+      "href": "https://ddd.uab.cat/pub/worpap/2002/hdl_2072_1264/ICPS206.pdf"
+     },
+     "https://ddd.uab.cat/pub/worpap/2002/hdl_2072_1264/ICPS206.pdf"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Cleary, M. R. (2003). Competencia electoral, influencia ciudadana y desempeño del gobierno en los municipios mexicanos. ",
+    [
+     "em",
+     {},
+     "Política y gobierno"
+    ],
+    ", ",
+    [
+     "em",
+     {},
+     "10"
+    ],
+    "(1), 183-217. ",
+    [
+     "a",
+     {
+      "href": "http://www.politicaygobierno.cide.edu/index.php/pyg/article/view/350"
+     },
+     "http://www.politicaygobierno.cide.edu/index.php/pyg/article/view/350"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Dahl, R. (1971) ",
+    [
+     "em",
+     {},
+     "La poliarquía. Participación y oposición"
+    ],
+    ". Tecnos. ",
+    [
+     "a",
+     {
+      "href": "https://www.academia.edu/download/54238681/Robert_Dahl_Poliarquia_-_Participacion_y_Oposicion.pdf"
+     },
+     "https://www.academia.edu/download/54238681/Robert_Dahl_Poliarquia_-_Participacion_y_Oposicion.pdf"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Delfino, G. I., y Zubieta, E. M. (2010). Participación política: concepto y modalidades. ",
+    [
+     "em",
+     {},
+     "Anuario de investigaciones"
+    ],
+    ", ",
+    [
+     "em",
+     {},
+     "17"
+    ],
+    ", 211-220. ",
+    [
+     "a",
+     {
+      "href": "https://www.scielo.org.ar/scielo.php?pid=S1851-16862010000100020&script=sci_arttext"
+     },
+     "https://www.scielo.org.ar/scielo.php?pid=S1851-16862010000100020&script=sci_arttext"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Delgado, R. C. (2012). Las elecciones para gobernador del Estado de México en 2011 ¿Renovación sin cambio político? ",
+    [
+     "em",
+     {},
+     "El Cotidiano"
+    ],
+    ", 171, 17-28. ",
+    [
+     "a",
+     {
+      "href": "https://www.redalyc.org/pdf/325/32523116003.pdf"
+     },
+     "https://www.redalyc.org/pdf/325/32523116003.pdf"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Delgado, R. C. (2017). Cambio y continuidad en las elecciones municipales del Estado de México: 1996-2015. ",
+    [
+     "em",
+     {},
+     "Apuntes Electorales: revista del instituto electoral del estado de México"
+    ],
+    ", ",
+    [
+     "em",
+     {},
+     "16"
+    ],
+    "(56), 91-121. ",
+    [
+     "a",
+     {
+      "href": "https://aelectorales.ieem.org.mx/index.php/ae/article/view/86"
+     },
+     "https://aelectorales.ieem.org.mx/index.php/ae/article/view/86"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Duverger, M. (1957). ",
+    [
+     "em",
+     {},
+     "Los partidos políticos"
+    ],
+    ". México. Fondo de Cultura Económica."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Fox, J. (1994). The Difficult Transition from Clientelism to Citizenship: Lessons from Mexico. ",
+    [
+     "em",
+     {},
+     "World Politics"
+    ],
+    ", 46, 151-184. ",
+    [
+     "a",
+     {
+      "href": "https://www.cambridge.org/core/journals/world-politics/article/difficult-transition-from-clientelism-to-citizenship-lessons-from-mexico/7111EFB7501CA175F66672C62DE5DFDC"
+     },
+     "https://www.cambridge.org/core/journals/world-politics/article/difficult-transition-from-clientelism-to-citizenship-lessons-from-mexico/7111EFB7501CA175F66672C62DE5DFDC"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Fox, J. (2012). State power and clientelism: Eight propositions for discussion. In ",
+    [
+     "em",
+     {},
+     "Clientelism in everyday Latin American politics"
+    ],
+    " (pp. 187- 211). New York: Palgrave Macmillan US. ",
+    [
+     "a",
+     {
+      "href": "https://link.springer.com/content/pdf/10.1057/9781137275998_10?pdf=chapter%20toc"
+     },
+     "https://link.springer.com/content/pdf/10.1057/9781137275998_10?pdf=chapter%20toc"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Giner, S. (2004). ",
+    [
+     "em",
+     {},
+     "La teoría sociológica clásica."
+    ],
+    " Ariel Sociología."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Glaser, B. G. & Strauss, A. L. (1968). ",
+    [
+     "em",
+     {},
+     "The discovery of grounded theory: strategies for qualitative research"
+    ],
+    ". Aldine de Gruyter. ",
+    [
+     "a",
+     {
+      "href": "https://journals.lww.com/nursingresearchonline/citation/1968/07000/the_discovery_of_grounded_theory__strategies_for.14.aspx"
+     },
+     "https://journals.lww.com/nursingresearchonline/citation/1968/07000/the_discovery_of_grounded_theory__strategies_for.14.aspx"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "González Tule, L. A. (2019). ",
+    [
+     "em",
+     {},
+     "Clientelismo, patronazgo y corrupción en Colombia y México"
+    ],
+    ". Universidad del Norte. ",
+    [
+     "a",
+     {
+      "href": "https://books.google.com/books?hl=es&lr=&id=pNuZDwAAQBAJ&oi=fnd&pg=PP"
+     },
+     "https://books.google.com/books?hl=es&lr=&id=pNuZDwAAQBAJ&oi=fnd&pg=PP"
+    ],
+    " 1&dq=Clientelismo,+patronazgo+y+corrupci%C3%B3n+en+Co lombia+y+M%C3%A9xico.&ots=gEvSet8wFG&sig=dZyDMa3- dvEjJ19PDjjqZ-9PtrYI"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Gundermann-Kröll, H. (2013). El método de los estudios de caso. En M. L. Tarrés, ",
+    [
+     "em",
+     {},
+     "Observar, escuchar y comprender sobre la tradición cualitativa en la investigación"
+    ],
+    " (pp. 231-264). México: El Colegio de México-FLACSO México."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Hagene, T. (julio-diciembre, 2015) Debatiendo conceptos con metodología etnográfica: el caso del “clientelismo político” y la “compra de votos”. En ",
+    [
+     "em",
+     {},
+     "Nueva antropol,"
+    ],
+    " 86, 47-71. ",
+    [
+     "a",
+     {
+      "href": "https://www.scielo.org.mx/scielo.php?pid=S0185-06362015000200004&script=sci_abstract&tlng=en"
+     },
+     "https://www.scielo.org.mx/scielo.php?pid=S0185-06362015000200004&script=sci_abstract&tlng=en"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Helmke, G., & Levitsky, S. (2012). ",
+    [
+     "em",
+     {},
+     "Informal institutions and comparative politics: A research agenda"
+    ],
+    ". Edward Elgar Publishing. ",
+    [
+     "a",
+     {
+      "href": "https://www.elgaronline.com/downloadpdf/edcollchap/edcoll/9781848445611/9781848445611.00011.pdf"
+     },
+     "https://www.elgaronline.com/downloadpdf/edcollchap/edcoll/9781848445611/9781848445611.00011.pdf"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "IEEM (2023), en ",
+    [
+     "a",
+     {
+      "href": "https://portal.ieem.org.mx/numeralia/result_elect.html"
+     },
+     "https://portal.ieem.org.mx/numeralia/result_elect.html"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Moreno Luzón, J. (1999). El clientelismo político: historia de un concepto multidisciplinar. ",
+    [
+     "em",
+     {},
+     "Revista de estudios políticos"
+    ],
+    ", 105, 73-95. ",
+    [
+     "a",
+     {
+      "href": "https://dialnet.unirioja.es/descarga/articulo/27572.pdf"
+     },
+     "https://dialnet.unirioja.es/descarga/articulo/27572.pdf"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Mendoza, J., Ortega, B. y Cadena J. (2012). ",
+    [
+     "em",
+     {},
+     "Cuautitlán en la trayectoria de México."
+    ],
+    " Plaza y Valdez Editores. ",
+    [
+     "a",
+     {
+      "href": "http://ri.uaemex.mx/handle/20.500.11799/41212"
+     },
+     "http://ri.uaemex.mx/handle/20.500.11799/41212"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Müller, M. (2012). Transformaciones del clientelismo: democratización, (in)seguridad y políticas urbanas en el distrito federal. En ",
+    [
+     "em",
+     {},
+     "Foro Internacional"
+    ],
+    ", ",
+    [
+     "em",
+     {},
+     "LII"
+    ],
+    "(4), 836-863. ",
+    [
+     "a",
+     {
+      "href": "https://www.jstor.org/stable/41756368"
+     },
+     "https://www.jstor.org/stable/41756368"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Nohlen, D. (2004). Sistemas electorales y reforma electoral. ",
+    [
+     "em",
+     {},
+     "Quid Juris"
+    ],
+    ", ",
+    [
+     "em",
+     {},
+     "1"
+    ],
+    "(4), 7-58. ",
+    [
+     "a",
+     {
+      "href": "https://biblat.unam.mx/hevila/Quidiuris/2006/vol3/1.pdf"
+     },
+     "https://biblat.unam.mx/hevila/Quidiuris/2006/vol3/1.pdf"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "O’Donnell, G. (2011). Revisando la democracia delegativa. ",
+    [
+     "em",
+     {},
+     "Casa del tiempo"
+    ],
+    ", ",
+    [
+     "em",
+     {},
+     "31"
+    ],
+    ", 2-8. ",
+    [
+     "a",
+     {
+      "href": "https://www.uam.mx/difusion/casadeltiempo/31_iv_may_2010/casa_del_tiempo_eIV_num31_02_08.pdf"
+     },
+     "https://www.uam.mx/difusion/casadeltiempo/31_iv_may_2010/casa_del_tiempo_eIV_num31_02_08.pdf"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Osorio, J. L. (1995). “La lucha por el poder: el PAN en el municipio de Cuautitlán Mex”. Tesis de licenciatura. UAM-Azcapotzalco. ",
+    [
+     "a",
+     {
+      "href": "https://www.academia.edu/download/94516866/48391797.pdf"
+     },
+     "https://www.academia.edu/download/94516866/48391797.pdf"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Ramos López, M. A, (2019). Clientelismo político, la práctica adaptativa en la política mexicana: un acercamiento conceptual y empírico. ",
+    [
+     "em",
+     {},
+     "Ciencias Sociales. Revista Multidisciplinaria"
+    ],
+    ", ",
+    [
+     "em",
+     {},
+     "1"
+    ],
+    "(1), 37-59. ",
+    [
+     "a",
+     {
+      "href": "https://portal.amelica.org/ameli/journal/449/4492113002/4492113002.pdf"
+     },
+     "https://portal.amelica.org/ameli/journal/449/4492113002/4492113002.pdf"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Ramos López, M. A. (2021). El discurso de la corrupción en el clientelismo político mexicano como herramienta de disputa 2018- 2021. ",
+    [
+     "em",
+     {},
+     "El cotidiano"
+    ],
+    ", ",
+    [
+     "em",
+     {},
+     "37"
+    ],
+    "(229), 105-117. ",
+    [
+     "a",
+     {
+      "href": "https://search.proquest.com/openview/9b1907463af105213cb29edcdda123f0/1?pqorigsite=gscholar&cbl=28292"
+     },
+     "https://search.proquest.com/openview/9b1907463af105213cb29edcdda123f0/1?pqorigsite=gscholar&cbl=28292"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Ramos López, M. A. (2022). El sistema partidario de Cuautitlán (2003-2021): un análisis cuantitativo a su transición en curso. ",
+    [
+     "em",
+     {},
+     "El cotidiano"
+    ],
+    ", ",
+    [
+     "em",
+     {},
+     "38"
+    ],
+    "(235), 35-47. ",
+    [
+     "a",
+     {
+      "href": "https://search.proquest.com/openview/4cdc4f0fa382f9b1bc06127514250d91/1?pqorigsite=gscholar&cbl=28292"
+     },
+     "https://search.proquest.com/openview/4cdc4f0fa382f9b1bc06127514250d91/1?pqorigsite=gscholar&cbl=28292"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Ramos López, M. A. (2024). ",
+    [
+     "em",
+     {},
+     "La morfología del clientelismo político y sus consecuencias en la democracia de Cuautitlán 2018-2021"
+    ],
+    ". IEEM. ",
+    [
+     "a",
+     {
+      "href": "https://publicaciones.ieem.org.mx/index.php/publicacionesieem/catalog/book/269"
+     },
+     "https://publicaciones.ieem.org.mx/index.php/publicacionesieem/catalog/book/269"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Ramos López, M. A. (2025). Andrés Manuel López Obrador y su liderazgo: un acercamiento interpretativo desde la perspectiva weberiana. ",
+    [
+     "em",
+     {},
+     "Revista Multidisciplinar Epistemología de las Ciencias"
+    ],
+    ", ",
+    [
+     "em",
+     {},
+     "2"
+    ],
+    "(1), 88-118. ",
+    [
+     "a",
+     {
+      "href": "https://doi.org/10.71112/ycxz0n35"
+     },
+     "https://doi.org/10.71112/ycxz0n35"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Sabucedo, J.M. & Arce, C. (1991). Types of Political Participation: a multidimensional analysis. ",
+    [
+     "em",
+     {},
+     "European Journal of Political Research, 20"
+    ],
+    ", 93-102. ",
+    [
+     "a",
+     {
+      "href": "https://ejpr.onlinelibrary.wiley.com/doi/abs/10.1111/j.1475-6765.1991.tb00257.x"
+     },
+     "https://ejpr.onlinelibrary.wiley.com/doi/abs/10.1111/j.1475-6765.1991.tb00257.x"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Serra, G. (2016). Comprar, coaccionar y desinformar al votante Problemas duraderos de la democracia mexicana. ",
+    [
+     "em",
+     {},
+     "Política y gobierno, 23"
+    ],
+    "(2) 409-435. ",
+    [
+     "a",
+     {
+      "href": "https://www.scielo.org.mx/scielo.php?pid=S1665-20372016000200409&script=sci_arttext"
+     },
+     "https://www.scielo.org.mx/scielo.php?pid=S1665-20372016000200409&script=sci_arttext"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Schröter, B. (2010). Clientelismo político: ¿existe el fantasma y cómo se viste? ",
+    [
+     "em",
+     {},
+     "Revista mexicana de sociología"
+    ],
+    ", ",
+    [
+     "em",
+     {},
+     "72"
+    ],
+    "(1), 141-175. ",
+    [
+     "a",
+     {
+      "href": "https://www.scielo.org.mx/scielo.php?=sci_arttext&pid=s0188-25032010000100005"
+     },
+     "https://www.scielo.org.mx/scielo.php?=sci_arttext&pid=s0188-25032010000100005"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Stokes, S. (2009). Ofertas programáticas e intercambios particularistas: la compra de votos como vulneración de la democracia. En Gómez-Álvarez, David (Coord.), ",
+    [
+     "em",
+     {},
+     "Candados y contrapesos: la protección de los programas, políticas y derechos sociales en México y América Latina"
+    ],
+    " (pp. 49-70). ITESO. ",
+    [
+     "a",
+     {
+      "href": "https://biblioteca-repositorio.clacso.edu.ar/libreria_cm_archivos/pdf_1402.pdf"
+     },
+     "https://biblioteca-repositorio.clacso.edu.ar/libreria_cm_archivos/pdf_1402.pdf"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Strauss, A., y Corbin, J. (2002). ",
+    [
+     "em",
+     {},
+     "Bases de la investigación cualitativa: técnicas y procedimientos para desarrollar la teoría fundamentada"
+    ],
+    ". Universidad de Antioquia. ",
+    [
+     "a",
+     {
+      "href": "https://books.google.com/books?hl=es&lr"
+     },
+     "https://books.google.com/books?hl=es&lr"
+    ],
+    " =&id=0JPGDwAAQBAJ&oi=fnd&pg=PR17&dq=Bases+de+la+i nvestigaci%C3%B3n+cualitativa:+t%C3%A9cnicas+y+procedimi entos+para+desarrollar+la+teor%C3%ADa+fundamentada&ots= Ey3__gg_4e&sig=Qq7IoM6Hd8cR9GqHP8eypvocgU0"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Tosoni, M. (2007) Notas sobre el clientelismo político en la ciudad de México. ",
+    [
+     "em",
+     {},
+     "Perfiles Latinoamericanos"
+    ],
+    ", 29, 47-69. ",
+    [
+     "a",
+     {
+      "href": "https://www.scielo.org.mx/scielo.php?pid=S0188-76532007000100007&script=sci_arttext"
+     },
+     "https://www.scielo.org.mx/scielo.php?pid=S0188-76532007000100007&script=sci_arttext"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Verba, S., y Nie, N. H. (1971). ",
+    [
+     "em",
+     {},
+     "Participation in America: Political democracy and social equality"
+    ],
+    ". Chicago: University of Chicago Press. ",
+    [
+     "a",
+     {
+      "href": "https://books.google.com/books?hl=es&lr=&id=9K5fdvfmGREC&oi=fnd&pg=PR9&dq=Participation+in+America:+Political+democracy+and+social+equality.+&ots=EYRyFe-Li1S&sig=zfuRXuxZgfnJDVSRIkDqhSot91Y"
+     },
+     "https://books.google.com/books?hl=es&lr=&id=9K5fdvfmGREC&oi=fnd&pg=PR9&dq=Participation+in+America:+Political+democracy+and+social+equality.+&ots=EYRyFe-Li1S&sig=zfuRXuxZgfnJDVSRIkDqhSot91Y"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Vommaro, G. y Quirós, J. (mayo-agosto, 2011). Usted vino por su propia decisión: repensar el clientelismo en clave etnográfica. ",
+    [
+     "em",
+     {},
+     "Desacatos"
+    ],
+    ", 36, 65-84. ",
+    [
+     "a",
+     {
+      "href": "https://www.scielo.org.mx/scielo.php?pid=S1607-050X2011000200005&script=sci_arttext"
+     },
+     "https://www.scielo.org.mx/scielo.php?pid=S1607-050X2011000200005&script=sci_arttext"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Weber, M. (2004). ",
+    [
+     "em",
+     {},
+     "Economía y sociedad."
+    ],
+    " Fondo de Cultura Económica. ",
+    [
+     "a",
+     {
+      "href": "https://www.torrossa.com/it/resources/an/5434819"
+     },
+     "https://www.torrossa.com/it/resources/an/5434819"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Weber, M. (2011). ",
+    [
+     "em",
+     {},
+     "La política como vocación"
+    ],
+    ". Biblioteca Nueva. ",
+    [
+     "a",
+     {
+      "href": "https://books.google.com/books?hl=es&lr=&id=c8jGCwAAQBAJ&oi=fnd&pg=PT2&dq=La+pol%C3%ADtica+como+vocaci%C3%B3"
+     },
+     "https://books.google.com/books?hl=es&lr=&id=c8jGCwAAQBAJ&oi=fnd&pg=PT2&dq=La+pol%C3%ADtica+como+vocaci%C3%B3"
+    ],
+    " n&ots=Y5dPQ7-RcJ&sig=0AWWRDTicqhc9OD-F6UoksDzfCc"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Weber, M. (2012). ",
+    [
+     "em",
+     {},
+     "Ensayos sobre metodología sociológica."
+    ],
+    " Amorrortu. ",
+    [
+     "a",
+     {
+      "href": "https://metodologia2lecturas.files.wordpress.com/2012/02/max-weber-ensayos-sobre-metodologia-sociologica.pdf"
+     },
+     "https://metodologia2lecturas.files.wordpress.com/2012/02/max-weber-ensayos-sobre-metodologia-sociologica.pdf"
+    ]
+   ],
+   "\n",
+   [
+    "section",
+    {},
+    [
+     "h3",
+     {
+      "id": "t-seccion-8"
+     },
+     "NOTAS"
+    ],
+    [
+     "ol",
+     {},
+     "\n",
+     [
+      "li",
+      {
+       "id": "t-fn1"
+      },
+      "Profesor investigador Universidad Autónoma Metropolitana unidad Azcapotzalco, Departamento de Sociología. Licenciado en Sociología por la UAM Azcapotzalco, Maestro en Sociología Política por el Instituto de Investigaciones Dr. José María Luis Mora y Doctorando en Ciencias Sociales por la Universidad Autónoma de Tlaxcala. ",
+      [
+       "a",
+       {
+        "href": "#t-fnref1",
+        "id": "t-llamada-fnref1-1"
+       },
+       "↩"
+      ]
+     ],
+     "\n",
+     [
+      "li",
+      {
+       "id": "t-fn2"
+      },
+      "En este sentido es clave recordar las tipificaciones de Clientelismo, semi clientelismo y ciudadanía que Fox (1994) propone, así como los trabajos de Auyero con sus círculos internos y externos de mediadores (2000) y González Tule con la discusión del entramado conceptual de clientelismo tradicional y moderno (2019): en los tres casos se evidencian las dimensiones tanto instrumentales como normativas del clientelismo político. ",
+      [
+       "a",
+       {
+        "href": "#t-fnref2",
+        "id": "t-llamada-fnref2-1"
+       },
+       "↩"
+      ]
+     ],
+     "\n",
+     [
+      "li",
+      {
+       "id": "t-fn3"
+      },
+      "En Ramos López (2025) se puede observar un esbozo al liderazgo de Andrés Manuel López Obrador desde esas categorías de dominación weberianas y, aunque pueden localizarse todas ellas, lo cierto es que aparecen en determinados momentos unas más que otras. ",
+      [
+       "a",
+       {
+        "href": "#t-fnref3",
+        "id": "t-llamada-fnref3-1"
+       },
+       "↩"
+      ]
+     ],
+     "\n",
+     [
+      "li",
+      {
+       "id": "t-fn4"
+      },
+      "Cabe recordar que Linz y Stepan (1996) establecen que una de las principales áreas para la consolidación de una transición democrática es una espera publica fuerte, de la cual emergen determinadas demandas para que el sistema político las pueda responder. ",
+      [
+       "a",
+       {
+        "href": "#t-fnref4",
+        "id": "t-llamada-fnref4-1"
+       },
+       "↩"
+      ]
+     ],
+     "\n",
+     [
+      "li",
+      {
+       "id": "t-fn5"
+      },
+      "Para Auyero, Lapenga y Page (2008), la acción colectiva puede surgir de círculos clientelares precisamente por el vínculo instrumental y reciproco que tienen los clientes con el mediador. ",
+      [
+       "a",
+       {
+        "href": "#t-fnref5",
+        "id": "t-llamada-fnref5-1"
+       },
+       "↩"
+      ]
+     ],
+     "\n"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Cómo citar: ",
+    [
+     "em",
+     {},
+     "Bajo el Volcán. Revista del Posgrado de Sociología. BUAP"
+    ],
+    ", Año 7, Núm. 13, noviembre de 2025 – abril de 2026, pp. 290-317. https://doi.org/10.32399/ICSYH.bvbuap.2954-4300.2025.7.13.803"
+   ],
+   [
+    "p",
+    {},
+    [
+     "a",
+     {
+      "href": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
+     },
+     "Licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional"
+    ],
+    ". Publicación de acceso abierto diamante editada por la Benemérita Universidad Autónoma de Puebla."
+   ],
+   "\n"
+  ],
+  "\n"
+ ]
+};

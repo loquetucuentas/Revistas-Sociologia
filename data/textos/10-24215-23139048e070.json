@@ -1,0 +1,3162 @@
+{
+ "version": 1,
+ "recogido": "2026-10-18T11:52:09+00:00",
+ "doi": "10.24215/23139048e070",
+ "titulo": "“A nosotras no nos sirven los aplausos”",
+ "revista": "2313-9048",
+ "numero": "v16-n16-2022",
+ "licencia": {
+  "codigo": "by-nc-sa",
+  "nombre": "CC BY-NC-SA 4.0",
+  "nombre_completo": "Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional",
+  "url": "https://creativecommons.org/licenses/by-nc-sa/4.0",
+  "url_legal": "https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.es"
+ },
+ "fuente": {
+  "url": "https://perio.unlp.edu.ar/ojs/index.php/cps/article/download/7666/6796/32455?inline=1",
+  "formato": "HTML",
+  "plataforma": "ojs-galerada",
+  "pagina": "https://perio.unlp.edu.ar/ojs/index.php/cps/article/view/7666"
+ },
+ "autores_cita": [
+  {
+   "apellidos": "Alonso",
+   "nombre_pila": "Valeria",
+   "nombre": null
+  },
+  {
+   "apellidos": "Hoffmann",
+   "nombre_pila": "María Mercedes",
+   "nombre": null
+  },
+  {
+   "apellidos": "Romero",
+   "nombre_pila": "Paula M.",
+   "nombre": null
+  },
+  {
+   "apellidos": "Sánchez",
+   "nombre_pila": "Laura P.",
+   "nombre": null
+  },
+  {
+   "apellidos": "Posada Campoy",
+   "nombre_pila": "Paula",
+   "nombre": null
+  },
+  {
+   "apellidos": "Fuertes",
+   "nombre_pila": "Sonia",
+   "nombre": null
+  },
+  {
+   "apellidos": "Varela",
+   "nombre_pila": "Mariel S.",
+   "nombre": null
+  }
+ ],
+ "avisos_derechos": [
+  "Derechos de autor 2022 Cuadernos de H ideas",
+  "Licencia Derechos de autor 2022 Cuadernos de H ideas Esta obra está bajo una licencia internacional Creative Commons Atribución-NoComercial-CompartirIgual 4.0. La aceptación de un original por parte de la revista implica la cesión no exclusiva de los derechos patrimoniales de los/as autores/as en favor del editor, quien permite la reutilización, luego de su edición (postprint), bajo una Licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0) Acorde a estos términos, el material se puede compartir (copiar y redistribuir en cualquier medio o formato) y adaptar (remezclar, transformar y crear a partir del material otra obra), siempre que a) se cite la autoría y la fuente original de su publicación (revista y URL de la obra), b) no se use para fines comerciales y c) se mantengan los mismos términos de la licencia. La cesión de derechos no exclusivos implica que luego de su edición (postprint) en Cuadernos de H ideas las/os autoras/es pueden publicar su trabajo en cualquier idioma, medio y formato; en tales casos, se solicita que se consigne que el material fue publicado originalmente en esta revista. Tal cesión supone, también, la autorización de los/as autores/as para que el trabajo sea cosechado por SEDICI, el repositorio institucional de la Universidad Nacional de La Plata, y sea difundido en las bases de datos que el equipo editorial considere adecuadas para incrementar la visibilidad de la publicación y de sus autores/as. Asimismo, la revista incentiva a las/os autoras/es para que luego de su publicación en Cuadernos de H ideas depositen sus producciones en otros repositorios institucionales y temáticos, bajo el principio de que ofrecer a la sociedad la producción científica y académica sin restricciones contribuye a un mayor intercambio del conocimiento global."
+ ],
+ "idioma_principal": "es",
+ "indice": [],
+ "vueltas": {},
+ "contenido": [
+  [
+   "span",
+   {
+    "id": "t-MathJax_Message"
+   }
+  ],
+  "\n",
+  [
+   "span",
+   {
+    "id": "t-visor-cabecera"
+   },
+   "\n",
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-logo-institucion"
+    },
+    "\n",
+    [
+     "figura",
+     {}
+    ]
+   ],
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-logo-revista"
+    },
+    "\n",
+    [
+     "figura",
+     {}
+    ]
+   ],
+   "\n",
+   "\n"
+  ],
+  "\n",
+  [
+   "span",
+   {
+    "id": "t-articulo"
+   },
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-front"
+    },
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-articulo-categoria"
+     },
+     "\n",
+     [
+      "p",
+      {},
+      "Dossier"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-articulo-meta"
+     },
+     "\n",
+     [
+      "p",
+      {},
+      "\n",
+      [
+       "span",
+       {},
+       "“A nosotras no nos sirven los aplausos”. De la vocación a la visibilización de trabajadores de salud pública durante la pandemia en Mar del Plata, Argentina."
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "lang": "en"
+      },
+      "\n",
+      [
+       "span",
+       {},
+       "“Applause Is of No Use to Us”. From the\nVocation to the Visibility of Public Health Workers during the Pandemic in Mar Del\nPlata, Argentina."
+      ],
+      "\n"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-articulo-acerca"
+     },
+     "\n",
+     [
+      "span",
+      {
+       "id": "t-ficha-general"
+      },
+      "\n",
+      [
+       "span",
+       {
+        "id": "t-autores-articulo"
+       },
+       "\n",
+       "\n",
+       "\n",
+       [
+        "a",
+        {
+         "href": "https://orcid.org/0000-0002-5080-8986"
+        },
+        [
+         "figura",
+         {}
+        ]
+       ],
+       "  ",
+       [
+        "span",
+        {},
+        "Valeria"
+       ],
+       " ",
+       [
+        "span",
+        {},
+        "Alonso"
+       ],
+       " ",
+       [
+        "span",
+        {}
+       ],
+       [
+        "span",
+        {},
+        " valeria.alonso@gmail.com"
+       ],
+       "\n",
+       "\n",
+       "\n",
+       [
+        "span",
+        {},
+        "Instituto\nNacional de Epidemiología"
+       ],
+       ", ",
+       [
+        "span",
+        {},
+        "Argentina"
+       ],
+       "\n",
+       "\n",
+       "\n",
+       [
+        "span",
+        {},
+        "Universidad Nacional de Mar del Plata"
+       ],
+       ", ",
+       [
+        "span",
+        {},
+        "Argentina"
+       ],
+       "\n",
+       "\n",
+       "\n",
+       "\n",
+       "\n",
+       [
+        "a",
+        {
+         "href": "https://orcid.org/0000-0001-7181-7470"
+        },
+        [
+         "figura",
+         {}
+        ]
+       ],
+       "  ",
+       [
+        "span",
+        {},
+        "María Mercedes"
+       ],
+       " ",
+       [
+        "span",
+        {},
+        "Hoffmann"
+       ],
+       " ",
+       [
+        "span",
+        {}
+       ],
+       [
+        "span",
+        {},
+        " prof.mercedes.hoffmann@gmail.com"
+       ],
+       "\n",
+       "\n",
+       "\n",
+       [
+        "span",
+        {},
+        "Instituto Nacional de Epidemiología"
+       ],
+       ", ",
+       [
+        "span",
+        {},
+        "Argentina"
+       ],
+       "\n",
+       "\n",
+       "\n",
+       [
+        "span",
+        {},
+        "Universidad Nacional de Mar del Plata"
+       ],
+       ", ",
+       [
+        "span",
+        {},
+        "Argentina"
+       ],
+       "\n",
+       "\n",
+       "\n",
+       "\n",
+       "\n",
+       [
+        "a",
+        {
+         "href": "https://orcid.org/0000-0002-7302-771X"
+        },
+        [
+         "figura",
+         {}
+        ]
+       ],
+       "  ",
+       [
+        "span",
+        {},
+        "Paula M"
+       ],
+       " ",
+       [
+        "span",
+        {},
+        "Romero"
+       ],
+       " ",
+       [
+        "span",
+        {}
+       ],
+       [
+        "span",
+        {},
+        " paulamercedesromero@gmail.com"
+       ],
+       "\n",
+       "\n",
+       "\n",
+       [
+        "span",
+        {},
+        "Universidad Nacional de Mar del\nPlata"
+       ],
+       ", ",
+       [
+        "span",
+        {},
+        "Argentina"
+       ],
+       "\n",
+       "\n",
+       "\n",
+       "\n",
+       "\n",
+       [
+        "a",
+        {
+         "href": "https://orcid.org/0000-0003-0498-4855"
+        },
+        [
+         "figura",
+         {}
+        ]
+       ],
+       "  ",
+       [
+        "span",
+        {},
+        "Laura P."
+       ],
+       " ",
+       [
+        "span",
+        {},
+        "Sánchez"
+       ],
+       " ",
+       [
+        "span",
+        {}
+       ],
+       [
+        "span",
+        {},
+        " laurasanchez3296@gmail.com"
+       ],
+       "\n",
+       "\n",
+       "\n",
+       [
+        "span",
+        {},
+        "Instituto Nacional de Epidemiología"
+       ],
+       ", ",
+       [
+        "span",
+        {},
+        "Argentina"
+       ],
+       "\n",
+       "\n",
+       "\n",
+       "\n",
+       "\n",
+       [
+        "a",
+        {
+         "href": "https://orcid.org/0000-0003-1881-0100"
+        },
+        [
+         "figura",
+         {}
+        ]
+       ],
+       "  ",
+       [
+        "span",
+        {},
+        "Paula"
+       ],
+       " ",
+       [
+        "span",
+        {},
+        "Posada Campoy"
+       ],
+       " ",
+       [
+        "span",
+        {}
+       ],
+       [
+        "span",
+        {},
+        " paulaposadac@gmail.com"
+       ],
+       "\n",
+       "\n",
+       "\n",
+       [
+        "span",
+        {},
+        "Instituto Nacional de Epidemiología"
+       ],
+       ", ",
+       [
+        "span",
+        {},
+        "Argentina"
+       ],
+       "\n",
+       "\n",
+       "\n",
+       "\n",
+       "\n",
+       [
+        "a",
+        {
+         "href": "https://orcid.org/0000-0001-8999-7705"
+        },
+        [
+         "figura",
+         {}
+        ]
+       ],
+       "  ",
+       [
+        "span",
+        {},
+        "Sonia"
+       ],
+       " ",
+       [
+        "span",
+        {},
+        "Fuertes"
+       ],
+       " ",
+       [
+        "span",
+        {}
+       ],
+       [
+        "span",
+        {},
+        " sofuertes.sf@gmail.com"
+       ],
+       "\n",
+       "\n",
+       "\n",
+       [
+        "span",
+        {},
+        "Instituto Nacional de Epidemiología"
+       ],
+       ", ",
+       [
+        "span",
+        {},
+        "Argentina"
+       ],
+       "\n",
+       "\n",
+       "\n",
+       "\n",
+       "\n",
+       [
+        "a",
+        {
+         "href": "https://orcid.org/0000-0002-1409-5501"
+        },
+        [
+         "figura",
+         {}
+        ]
+       ],
+       "  ",
+       [
+        "span",
+        {},
+        "Mariel S."
+       ],
+       " ",
+       [
+        "span",
+        {},
+        "Varela"
+       ],
+       " ",
+       [
+        "span",
+        {}
+       ],
+       [
+        "span",
+        {},
+        " mariel.s.varela@gmail.com"
+       ],
+       "\n",
+       "\n",
+       "\n",
+       [
+        "span",
+        {},
+        "Instituto Nacional de Epidemiología"
+       ],
+       ", ",
+       [
+        "span",
+        {},
+        "Argentina"
+       ],
+       "\n",
+       "\n",
+       "\n"
+      ],
+      "\n",
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "Cuadernos de H ideas"
+       ],
+       "\n"
+      ],
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "Universidad Nacional de La Plata, Argentina"
+       ],
+       "\n"
+      ],
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "ISSN: "
+       ],
+       "2313-9048"
+      ],
+      "\n",
+      [
+       "p",
+       {}
+      ],
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "Periodicidad: "
+       ],
+       "Frecuencia continua"
+      ],
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "vol.  16, "
+       ],
+       "núm.  16, ",
+       [
+        "span",
+        {
+         "id": "t-elocation-id"
+        },
+        "e070, "
+       ],
+       [
+        "span",
+        {},
+        "2022"
+       ],
+       "\n"
+      ],
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       "cuadernosdehideas@perio.unlp.edu.ar",
+       "\n"
+      ],
+      "\n",
+      "\n",
+      [
+       "span",
+       {
+        "id": "t-articulo-product"
+       }
+      ],
+      "\n",
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "Recepción: "
+       ],
+       " 16 Febrero  2022"
+      ],
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "Aprobación: "
+       ],
+       " 15 Junio  2022"
+      ],
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "Publicación: "
+       ],
+       " 18 Octubre  2022"
+      ],
+      "\n",
+      [
+       "br",
+       {}
+      ],
+      "\n",
+      [
+       "br",
+       {}
+      ],
+      "\n",
+      "\n",
+      "\n",
+      [
+       "span",
+       {},
+       "URL: "
+      ],
+      [
+       "a",
+       {
+        "href": "http://portal.amelica.org/ameli/journal/31/313286013/"
+       },
+       "http://portal.amelica.org/ameli/journal/31/313286013/"
+      ],
+      "\n",
+      "\n",
+      "\n",
+      [
+       "span",
+       {},
+       "DOI: "
+      ],
+      [
+       "a",
+       {
+        "href": "https://doi.org/10.24215/23139048e070"
+       },
+       "https://doi.org/10.24215/23139048e070"
+      ],
+      "\n",
+      "\n",
+      "\n",
+      [
+       "p",
+       {}
+      ],
+      "\n",
+      "\n",
+      "\n",
+      "\n",
+      [
+       "a",
+       {
+        "href": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+       },
+       [
+        "figura",
+        {}
+       ],
+       [
+        "br",
+        {}
+       ],
+       "\n"
+      ],
+      "Esta obra está bajo una ",
+      [
+       "a",
+       {
+        "href": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+       },
+       "Licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional."
+      ],
+      "\n",
+      "\n",
+      "\n",
+      [
+       "p",
+       {}
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "\n",
+      [
+       "span",
+       {},
+       "Resumen:\n\t\t\t\t\t\t\t                           "
+      ],
+      [
+       "span",
+       {},
+       "La pandemia de la covid-19 irrumpió como un evento sin precedentes con especial impacto en las y los trabajadores de salud. El objetivo de este trabajo consistió en analizar en las narrativas de las y los trabajadores de salud pública de Mar del Plata y zonas rurales circundantes, las principales problemáticas y estrategias locales en la transición hacia la postpandemia. Con un diseño cualitativo, se realizaron entrevistas en profundidad entre marzo y diciembre de 2021. Los resultados revelaron el potencial de las y los trabajadores de salud pública como sujeto colectivo para la producción del cuidado en el marco de las tensiones que atraviesan el sistema sanitario. Se discute su capacidad instituyente para la salud colectiva desde la articulación del pensamiento crítico latinoamericano, la psicología social y el marxismo."
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "\n",
+      [
+       "span",
+       {},
+       "Palabras clave: "
+      ],
+      "salud pública, pandemias, narrativa personal, investigación cualitativa.\n\t\t                         "
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "lang": "en"
+      },
+      "\n",
+      [
+       "span",
+       {},
+       "Abstract:\n\t\t\t\t\t\t                           "
+      ],
+      [
+       "span",
+       {},
+       "The COVID-19 pandemic broke out as an unprecedented event with a special impact on health workers. The objective of this work was to analyze the narratives of public health workers in Mar del Plata and surrounding rural areas, the main problems and local strategies in the transition to the post-pandemic. With a qualitative design, in-depth interviews were conducted between March and December 2021. The results revealed the potential of public health workers as a collective subject for the production of care within the framework of the tensions that the health system is going through. Its instituting capacity for collective health is discussed from the articulation of Latin American critical thought, social psychology and Marxism."
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "\n",
+      [
+       "span",
+       {},
+       "Keywords: "
+      ],
+      "public health, pandemics, personal narrative, qualitative research.\n                                "
+     ],
+     "\n"
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-articulo-body"
+    },
+    "\n",
+    [
+     "p",
+     {},
+     "\n",
+     [
+      "span",
+      {},
+      "Introducción"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Transcurría el año 2020, el gobierno nacional decreta el aislamiento social preventivo obligatorio (ASPO) como medida para contener la pandemia de la covid-19 declarada en marzo por la Organización Mundial de la Salud (OMS). Las y los trabajadores de salud son considerados trabajadores esenciales, exceptuados del aislamiento con circulación por los espacios públicos para atender los servicios de salud. En las ciudades de la Argentina todas las noches a las 21 horas vecinos y vecinas sostienen un aplauso en reconocimiento a su labor en la atención de la emergencia.  La pandemia por la covid-19 constituye un evento disruptivo que provoca un giro en la vida cotidiana",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286013/html/index.html#fn1"
+      },
+      [
+       "sup",
+       {},
+       "1"
+      ]
+     ],
+     " e impacta de modo especial en las y los trabajadores y los servicios de salud en un contexto de precarización social y crisis económica alarmante. Esta irrupción pone en tensión al sistema de salud, emergen conflictos que cobran trascendencia pública. En su carácter de acontecimiento inesperado la pandemia abre oportunidades para instituir nuevos modos de producción del cuidado en salud, que incluyen la reorganización de los servicios y la transformación de las relaciones sociales entre las y los trabajadores y los grupos sociales. Este proceso puede contribuir a reconsiderar la participación social en salud y la democratización de la gestión en contextos sociales y epidemiológicos de complejidad creciente, atravesados por la desigualdad social, la discriminación étnica, de clase y de género, las condiciones de sindemia,",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286013/html/index.html#fn2"
+      },
+      [
+       "sup",
+       {},
+       "2"
+      ]
+     ],
+     " las complicaciones de la covid-19 y las enfermedades crónicas postergadas."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " La complejidad de la situación social y epidemiológica profundizada por la pandemia de la covid-19 pone de manifiesto la necesidad de trascender la mirada unívoca de la epidemiología convencional, fundamentada en el positivismo y el modelo biomédico. La recuperación del contexto social e histórico desde la epidemiología crítica latinoamericana y la epidemiología sociocultural",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286013/html/index.html#fn3"
+      },
+      [
+       "sup",
+       {},
+       "3"
+      ]
+     ],
+     " supone una ruptura epistemológica significativa con la epidemiología moderna. La epidemiología sociocultural permite replantear el estudio del proceso de salud y enfermedad, superar el modelo biomédico dominante y promover la ruptura del paradigma hegemónico en salud pública a través de la integración de los sujetos y las comunidades en las decisiones de salud colectiva (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286013/html/index.html#redalyc_313286013_ref23"
+      },
+      "Mata-Orozco y otros, 2016"
+     ],
+     "). Estos desafíos se articulan con la construcción de nuevos imaginarios colectivos sobre la salud y enfermedad, y la misma epidemiología. La noción de imaginario como capacidad imaginante y transformadora recupera la dimensión social e histórica de las producciones subjetivas.",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286013/html/index.html#fn4"
+      },
+      [
+       "sup",
+       {},
+       "4"
+      ]
+     ],
+     " En términos de Ana M. Fernández y Sebastián Stavisky (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286013/html/index.html#redalyc_313286013_ref15"
+      },
+      "2016"
+     ],
+     "), la imaginación coincide con la “capacidad creadora tanto del imaginario instituyente al nivel de lo histórico-social como de la imaginación radical del sujeto” (p. 4). Esta capacidad favorece la autonomía subjetiva y la institución histórico-social.",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286013/html/index.html#fn5"
+      },
+      [
+       "sup",
+       {},
+       "5"
+      ]
+     ],
+     " Pero los imaginarios sociales pueden ser instituyentes de nuevas formaciones sociales o reproductores de las relaciones sociales instituidas. Indagar los modos y potencialidades de esta dinámica en tensión desde las perspectivas y experiencias de las y los trabajadores de salud pública en el contexto de la pandemia de la covid-19, inspiró la generación del proyecto de investigación titulado “Transitar de la pandemia a la postpandemia, desafíos y posibilidades de los escenarios en la salud pública desde las narrativas de sus trabajadores/as”. El proyecto reúne a referentes de las ciencias sociales de universidades e institutos nacionales de distintas regiones de Argentina preocupadas por la producción de conocimiento social en salud en el desafío sanitario profundizado por la pandemia. En este artículo presentamos y discutimos resultados preliminares del estudio realizado por el nodo radicado en el Instituto Nacional de Epidemiología que tuvo como objetivo analizar en las narrativas de las y los trabajadores de la salud pública de Mar del Plata y zonas rurales circundantes, las principales problemáticas y estrategias locales en la transición hacia la postpandemia. "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Entre las condiciones de trabajo en el sector salud argentino destaca la gran presencia femenina y en los últimos años el aumento del sobre-empleo, la extensión de las jornadas de trabajo, la precarización de la contratación, remuneraciones variables, flexibilidad laboral y pérdida de calidad en la atención. Las tres formas principales de contratación en salud son la planta permanente del estado, con estabilidad laboral e ingreso por concurso, los contratos periódicos con protección social y los contratos sin relación de dependencia (Aspiazu, Baldi & Lanari, ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286013/html/index.html#redalyc_313286013_ref4"
+      },
+      "2011"
+     ],
+     "). A ellas se agrega una gran cantidad de becarios, pasantes y concurrentes además de las residencias del equipo de salud. A pesar de que las y los trabajadores de salud deben articular el derecho a huelga con la prestación de un servicio esencial, se registra un importante nivel de conflictividad laboral. Históricamente, los reclamos fueron salariales, mejoras en las condiciones ambientales de trabajo o en las modalidades de contratación, regularización de contratos y escasez de profesionales.",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286013/html/index.html#fn6"
+      },
+      [
+       "sup",
+       {},
+       "6"
+      ]
+     ],
+     " La enfermería es la actividad más feminizada del sector y soporta la mayor carga del cuidado directo. Sus integrantes se encuentran afectadas por condiciones laborales deficitarias como el pluriempleo, precariedad en las contrataciones, bajos salarios, escasez de personal y una posición subalterna en el equipo de salud (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286013/html/index.html#redalyc_313286013_ref3"
+      },
+      "Aspiazu, 2017"
+     ],
+     "). Un estudio del cuidado de enfermería en América Latina durante la pandemia por la covid-19, encontró que la mayor amenaza es la desmotivación del personal producida por falta de seguridad y protección en el entorno laboral y alto riesgo de contagio (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286013/html/index.html#redalyc_313286013_ref2"
+      },
+      "Arévalo Ipanaqué y otros, 2020"
+     ],
+     "). Desde nuestro enfoque, que reconoce como trabajadores de salud al personal de limpieza, mayoritariamente femenino, seguridad, intendencia y otras ocupaciones, el déficit de personal y la precarización laboral se extiende a estas actividades. Las problemáticas estructurales del trabajo en salud se vieron agravadas por la pandemia con impacto en los y las trabajadoras. Se incrementó la sobrecarga de trabajo, se redujeron los espacios de descanso y se generalizó el miedo por contagiar la enfermedad a los entornos familiares.  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "  La producción del cuidado en salud supone producir subjetividad, sin embargo observamos que las condiciones desubjetivantes de trabajo en el sector generan alienación, que alcanza grados extremos en el personal tercerizado de limpieza y seguridad. Pero también encontramos experiencias creativas, autónomas, productoras de subjetividad, que configuran líneas de vida en términos de Tulio Franco y Emerson Merhy (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286013/html/index.html#redalyc_313286013_ref17"
+      },
+      "2011"
+     ],
+     "). Según los autores, las redes de cuidado en salud se producen sobre la base que denominan el trabajo vivo en acto.",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286013/html/index.html#fn7"
+      },
+      [
+       "sup",
+       {},
+       "7"
+      ]
+     ],
+     " Para ellos:"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "p",
+     {},
+     "La libertad constitutiva del ‘trabajo vivo en acto’, asociada a los agenciamientos del deseo inmanentes a la actividad productiva de cada trabajador, van produciendo la realidad social inscripta en el mundo del cuidado. El trabajo en salud se producirá circunscripto a un determinado territorio existencial que opera en un referencial ético-político que los trabajadores adoptan como ‘plano de consistencia’ entre ellos y los usuarios (pp. 12-13)."
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " El trabajo vivo contiene una gran potencia instituyente para la formación de redes productoras de subjetividad, en una micropolítica que supere el lugar de la queja o la incomodidad para dar lugar a la acción colectiva.",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286013/html/index.html#fn8"
+      },
+      [
+       "sup",
+       {},
+       "8"
+      ]
+     ],
+     " La subjetividad entendida como emergencia del vínculo social es una concepción que trasciende la noción del deseo como resultado de una carencia (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286013/html/index.html#redalyc_313286013_ref13"
+      },
+      "Fernández, 2008"
+     ],
+     "). Se trata de subjetividades producidas en situación, de carácter social y expresadas en existencias singulares.",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286013/html/index.html#fn9"
+      },
+      [
+       "sup",
+       {},
+       "9"
+      ]
+     ],
+     " La subjetividad y el deseo como potencialidad creadora en el lugar social son retomados por ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286013/html/index.html#redalyc_313286013_ref17"
+      },
+      "Franco y Merhy (2011)"
+     ],
+     " para explicar las transformaciones en salud como procesos de desterritorialización o ruptura del modelo médico hegemónico, y movimientos de reterritorialización alrededor de nuevas prácticas de cuidado en procesos que pueden resultar conflictivos y sinuosos.",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286013/html/index.html#fn10"
+      },
+      [
+       "sup",
+       {},
+       "10"
+      ]
+     ],
+     " Según María Inés ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286013/html/index.html#redalyc_313286013_ref28"
+      },
+      "Mudrovcic (2021)"
+     ],
+     ", la pandemia por la covid-19 puede interpretarse como un evento sin precedentes que coloca la dimensión del sujeto en el centro del análisis, puesto que su impacto cobra dimensión en quienes lo experimentan. En este artículo nos preguntamos por las implicancias de la pandemia en tanto inesperada en la capacidad creadora de lo instituyente de las y los trabajadores de la salud pública, en nuestro caso en Mar del Plata y las áreas rurales circundantes. Pero no se trata de un acontecimiento puntual, sino que la pandemia puede entenderse como un evento de época con sensibilidad histórica,",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286013/html/index.html#fn11"
+      },
+      [
+       "sup",
+       {},
+       "11"
+      ]
+     ],
+     " especialmente para las y los trabajadores de salud que debieron enfrentarse a su contención desde los meses previos a su primera ola entre agosto y septiembre de 2020 en un contexto de incertidumbre.  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " El impacto de la covid-19 para las trabajadoras de salud en la Argentina fue significativo debido a la alta presencia de jefas de hogar a cargo de niñas, niños y adolescentes. Los efectos de la crisis en las mujeres trabajadoras de salud incluyen exposición al riesgo de contagio, aumento del volumen de trabajo, estrés y riesgo psicosocial, incremento de la carga de cuidado, pérdida de empleo e ingresos, discriminación social, falta de protección laboral. Como apoyo, se implementaron medidas de refuerzo del sistema sanitario, compensación económica, incorporación de la covid-19 como enfermedad profesional, el programa de protección al personal de salud (Ley Silvio),",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286013/html/index.html#fn12"
+      },
+      [
+       "sup",
+       {},
+       "12"
+      ]
+     ],
+     " el plan nacional de cuidados de trabajadores y trabajadoras de la salud, diálogo social y campañas de sensibilización (East, Laurence & López Mourelo, ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286013/html/index.html#redalyc_313286013_ref12"
+      },
+      "2020"
+     ],
+     "). Por otro lado, se alude a la vocación por el cuidado en salud como fundamento de la entrega personal y servicio a los demás. La vocación en salud sigue los estereotipos de género vinculados a la feminización del cuidado. Para Eliana ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286013/html/index.html#redalyc_313286013_ref3"
+      },
+      "Aspiazu (2017)"
+     ],
+     ":"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "p",
+     {},
+     "El carácter vocacional de una ocupación alude a la creencia de que es necesario ‘haber nacido para’, ‘tener el don’ o ‘sentir el llamado’ para ejercerla […]. Y eso la aleja de los saberes adquiridos a través de la capacitación y la experiencia laboral (p. 31)."
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Estas definiciones toman el modelo de la concepción de la enfermería como vocación, que naturaliza el cuidado del otro como una extensión del estereotipo doméstico femenino, y esta concepción entra en contradicción con el rol profesional y su retribución económica. Desde sus orígenes, se asoció a la enfermería con el amor, el cuidado y la entrega, valores que desde el modelo heteropatriarcal, son asociados a lo femenino. En este sentido, no es casual que sea una de las actividades con mayor índice de feminización. Según Karina ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286013/html/index.html#redalyc_313286013_ref29"
+      },
+      "Ramacciotti (2019)"
+     ],
+     ", “al considerar las intervenciones de las mujeres en el sistema sanitario como propias de sus condiciones naturales se produjo una desvalorización de sus tareas y, como consecuencia, un menosprecio a su capacitación y a sus derechos laborales” (p. 3). En cambio, la visibilización de las problemáticas de las y los trabajadores de salud relacionadas con las condiciones de trabajo y las reivindicaciones salariales da cuenta de procesos de profesionalización de las y los trabajadores de salud asumidos como sujetos de derecho.  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Como hipótesis de trabajo, planteamos que la vocación de servicio de las disciplinas no hegemónicas en salud, como enfermería, trabajo social, nutrición, fonoaudiología y otras ocupaciones fue trascendida por la visibilización de estas profesiones y actividades a través de reclamos por las condiciones de trabajo y salariales del sector.",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286013/html/index.html#fn13"
+      },
+      [
+       "sup",
+       {},
+       "13"
+      ]
+     ],
+     " Mientras se organizaba el sistema sanitario, en plena pandemia se visibilizaron reclamos históricamente postergados. En Mar del Plata, enfermeras y enfermeros reclamaron sus derechos a un sueldo digno y al reconocimiento de la profesión, a los que se sumaron otros profesionales, trabajadoras de limpieza y camilleros (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286013/html/index.html#redalyc_313286013_ref1"
+      },
+      "Alonso y otros, 2021"
+     ],
+     "). La emergencia de conflictos iniciados por el personal de enfermería y seguidos por otras y otros profesionales de salud formados en disciplinas no hegemónicas como trabajo social, nutrición, imágenes, y otros trabajadores, puede estar representando líneas de fuga en la dinámica de desterritorialización y reterritorialización en un sector fuertemente instituido con una estructura jerárquica y patriarcal como el de salud. Esta dinámica tiene el potencial instituyente de una posición ética y política que ubica al deseo entendido como agenciamiento colectivo en un lugar central para la producción del cuidado en términos relacionales entre trabajadores de salud y usuarios."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n",
+     [
+      "span",
+      {},
+      "La\nsituación en Mar del Plata: el conflicto de trabajadores y trabajadoras de\nsalud"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Mar del Plata es cabecera del Municipio de General Pueyrredón, ubicado en el sudeste de la Provincia de Buenos Aires. Con 620.000 habitantes, es una de las ciudades balnearias más importantes de la costa atlántica argentina; no obstante, hace décadas se destaca por su desigualdad social y como uno de los centros urbanos con mayor tasa de desempleo del país. Con la emergencia sanitaria por la covid-19, la desigualdad social se incrementó en 2020 y la tasa de desocupación alcanzó su valor récord e histórico. Con el transcurrir de la pandemia, aumentaron los índices de pobreza e indigencia (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286013/html/index.html#redalyc_313286013_ref21"
+      },
+      "INDEC, 2020"
+     ],
+     "). Desde que se conoció el primer caso local positivo de coronavirus el 12 de marzo de 2020, distintas organizaciones sociales y barriales advirtieron que ello traería aparejado una profundización de la crisis social. Así conformaron espacios novedosos para generar nuevas formas de asistencia que se transformaron en una red de contención sin precedentes: los comités barriales de emergencia (CBE), que llegaron a constituirse en trescientos setenta centros comunitarios y comedores con casi tres mil voluntarios, conformados por mujeres en su mayoría (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286013/html/index.html#redalyc_313286013_ref42"
+      },
+      "Qué Digital, 29/08/2020"
+     ],
+     "). El sistema público de salud en el municipio está compuesto por treinta y dos Centros de Atención Primaria de la Salud (CAPS) y un Centro de Especialidades Médicas Ambulatorias (CEMA). Funcionan además dos institutos nacionales y dos hospitales provinciales, a los que se sumaron un hospital modular para internación de pacientes con covid-19 y otro para diagnóstico de casos sospechosos. La pandemia dio lugar a nuevas estrategias locales como la habilitación de una línea de consultas, se preparó al Sistema de Atención Médica de Emergencia (SAME), se articularon acciones con Cruz Roja y la Universidad Nacional de Mar del Plata. Se crearon las ",
+     [
+      "span",
+      {},
+      "arcas de Noé"
+     ],
+     ", espacios habilitados en hoteles de la ciudad para el aislamiento de personas con síntomas leves o asintomáticos. Desde los niveles provincial y nacional se reorganizaron los servicios de salud que funcionan en la ciudad, el hospital provincial de agudos acondicionó un piso para la atención de covid-19 y alojó en su predio la construcción de un hospital modular. Los institutos nacionales aportaron confirmación diagnóstica por laboratorio y la rehabilitación de las complicaciones post covid.  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Trabajadores y trabajadoras de salud fueron trasladados o rotaron para atender en áreas covid en los primeros meses de pandemia, los CAPS restringieron la atención y se discontinuaron las actividades comunitarias. Profesionales de salud mental, trabajo social y nutrición fueron considerados no esenciales y se recomendó la atención telefónica de pacientes. Los seguimientos de enfermedades crónicas fueron discontinuados con la excepción de la entrega de medicamentos. Los protocolos fueron modificándose con el avance de la pandemia, de acuerdo a la nueva información que se obtenía del área metropolitana y en efectores municipales faltaron elementos de protección personal como barbijos y alcohol. Las excepciones y licencias del personal de salud generaron mecanismos de segregación e hicieron que gran parte del trabajo recaiga en menos personas, haciendo visible una problemática de larga data como la escasez de personal de salud en las instituciones. La exposición, el cansancio y la falta de reconocimiento hacia los trabajadores tensionó la situación del personal de salud. En Mar del Plata, a comienzos del año 2021, trabajadoras y trabajadores de la salud autoconvocados (principalmente enfermeras y enfermeros, aunque luego se sumarían otras profesiones y ocupaciones) se manifestaron y visibilizaron su lucha en defensa de los derechos laborales. Realizaron varias movilizaciones y un acampe en el predio del hospital provincial de agudos que se extendió por 21 días (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286013/html/index.html#gf1"
+      },
+      "Figura 1"
+     ],
+     "). Según los diarios locales, las y los trabajadores de salud lograron visibilizar la precariedad de sus condiciones laborales a causa de la falta de personal, inversión en infraestructura, algunos insumos básicos, la baja remuneración económica, la postergación de vacaciones o días de descanso, y por el pase a planta permanente y recategorización del personal, centralmente de enfermería, que reclama ser reconocido como profesional de la salud.",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286013/html/index.html#fn14"
+      },
+      [
+       "sup",
+       {},
+       "14"
+      ]
+     ],
+     " Los testimonios (en su mayoría de enfermeras y enfermeros) recopilados por los medios gráficos, reiteran su identificación como trabajadores asalariados e intentan correrse de una trama discursiva que históricamente los ligó al trabajo incondicional por amor a la profesión, es decir la vocación. Las pancartas exhibidas anunciaban: “basta de romantizar la explotación de enfermería en nombre de la vocación”, “esenciales para el pueblo, invisibles para el estado” y “personal agotado”, así como “no son héroes, son trabajadores”, “la peor pandemia es la precarización”, “enfermería le pone el cuerpo a la pandemia por $39.000” o “que mi vocación no justifique la explotación” (",
+     [
+      "span",
+      {}
+     ],
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286013/html/index.html#redalyc_313286013_ref40"
+      },
+      [
+       "span",
+       {},
+       "La Capital,"
+      ],
+      " 01/04/2021"
+     ],
+     "; ",
+     [
+      "span",
+      {}
+     ],
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286013/html/index.html#redalyc_313286013_ref41"
+      },
+      [
+       "span",
+       {},
+       "La Capital"
+      ],
+      ", 05/04/2021"
+     ],
+     ")."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "span",
+     {
+      "id": "t-gf1"
+     },
+     "\n",
+     [
+      "figura",
+      {
+       "alt": "Manifestación de\ntrabajadores de salud, Mar del Plata"
+      }
+     ],
+     [
+      "br",
+      {}
+     ],
+     "Figura 1",
+     [
+      "br",
+      {}
+     ],
+     "\n",
+     [
+      "span",
+      {},
+      "Manifestación de\ntrabajadores de salud, Mar del Plata"
+     ],
+     "\n",
+     [
+      "br",
+      {}
+     ],
+     "\n",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "(Rocío Talma, 2021)"
+      ]
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Desde la ciudadanía se observaron procesos y actitudes encontradas en relación con las y los trabajadores de la salud. En marzo de 2020, en los centros urbanos de la Argentina, comenzaba una ritualidad que se repetía todos los días a las 21 horas cuando sectores medios desde sus puertas, balcones y ventanas, aplaudían al personal de salud por la tarea desarrollada frente a los primeros casos de covid-19. El reconocimiento no se sostuvo en el tiempo; para el verano de 2021-2022 se repitieron aplausos pero de protesta. Diciembre de 2021 trajo nuevas variantes de coronavirus que desataron la tercera ola (la primera ola tuvo lugar entre los meses de agosto y septiembre de 2020 y la segunda entre marzo y abril de 2021): se multiplicaron los casos de covid-19 en un breve lapso y los centros de testeo se vieron colapsados por la alta demanda de personas con sospechas de padecer la enfermedad. En el nuevo contexto, se registraron episodios de violencia hacia el personal de salud. Frente a las largas esperas en los centros de testeo, se repitieron las agresiones hacia trabajadores, en su mayoría enfermeros y enfermeras. En la ciudad costera, la ansiedad generalizada por un diagnóstico antes de las reuniones de fin de año fue un condimento explosivo que tuvo sus consecuencias en maltratos, agresiones e insultos al personal de salud, desbordado por la demanda. Parte de la ciudadanía naturalizaba la sobrecarga laboral en las tareas relacionadas al cuidado de la salud, con implicancias en la vida cotidiana del personal que veía vulnerados sus derechos laborales por el trabajo excesivo y la baja retribución monetaria.",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286013/html/index.html#fn15"
+      },
+      [
+       "sup",
+       {},
+       "15"
+      ]
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n",
+     [
+      "span",
+      {},
+      "Metodología "
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Nuestro estudio se enmarca dentro del campo de la investigación cualitativa, desde el que se pretende comprender los fenómenos sociales a través de los significados que las personas les dan y la observación de los procesos en los escenarios en los que estos se desarrollan (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286013/html/index.html#redalyc_313286013_ref11"
+      },
+      "Denzin & Lincoln, 2011"
+     ],
+     "). Se realizó trabajo de campo entre los meses de marzo y diciembre de 2021, se entrevistaron trabajadoras y trabajadores que se desempeñan en los tres niveles de la atención pública de salud en Mar del Plata y zonas rurales circundantes. Las y los participantes fueron seleccionados con un muestreo teórico intencional y contactados inicialmente a través de redes profesionales y sindicales. Luego se utilizó la técnica de bola de nieve que permitió que los trabajadores y trabajadoras entrevistados contactaran a otros potenciales participantes. Se privilegió la modalidad presencial para la realización de entrevistas a las que se sumaron observaciones en los CAPS urbanos, periurbanos y rurales y el hospital provincial de agudos. Las entrevistas con trabajadores de uno de los hospitales nacionales se realizaron en forma virtual debido a las restricciones sanitarias aún vigentes. Se consideró la diversidad de profesiones y ocupaciones, así como la paridad de género. Se entrevistaron trabajadores y trabajadoras de enfermería, medicina, psicología, trabajo social, bioquímica, nutrición, fonoaudiología, administración, intendencia, limpieza y camilleros. "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Se utilizó la técnica de entrevista en profundidad para recuperar las narrativas de las y los participantes. Según José M. ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286013/html/index.html#redalyc_313286013_ref31"
+      },
+      "Siciliani (2014)"
+     ],
+     ", las narrativas constituyen el acto hermenéutico de todo ser humano a la vez que son “una forma de expresión humana que no busca describir las cosas en cuanto tal, sino el significado [la connotación] que pueden tener para las personas en una cultura determinada” (p. 51). Siguiendo a Jerome ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286013/html/index.html#redalyc_313286013_ref8"
+      },
+      "Bruner (2003)"
+     ],
+     ", los relatos que se desprenden de este estudio constituyen un arte connotativo-simbólico cultural que aquí se entiende como todas aquellas representaciones, usos y costumbres que tienen un significado para cada trabajador y trabajadora en la cotidianeidad de sus prácticas en salud pública. De allí que las narrativas para este trabajo se constituyen en el marco con el que se da sentido a las experiencias, haciéndolas significativas (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286013/html/index.html#redalyc_313286013_ref5"
+      },
+      "Bochner, 2002"
+     ],
+     "), pero también permiten recuperar la subjetividad de quien las comunica y conocer las prácticas en salud en tanto interiorización de esquemas cognitivos y perceptivos conformados al interior del grupo social en el que los sujetos se encuentran (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286013/html/index.html#redalyc_313286013_ref6"
+      },
+      "Bourdieu, 1999"
+     ],
+     "). "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Del análisis preliminar de las narrativas de las y los trabajadores de salud de Mar del Plata y zonas rurales para identificar las principales problemáticas, estrategias y prácticas de cuidado locales en la transición hacia la postpandemia, emergen dimensiones cualitativas que permiten construir un primer mapa, en base a las situaciones conflictivas y estrategias de resolución siguiendo el método cartográfico que, de acuerdo con ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286013/html/index.html#redalyc_313286013_ref16"
+      },
+      "Franco y Merhy (2009)"
+     ],
+     ", “nos obliga a tomar la realidad en su dinámica cotidiana para poder captar los movimientos continuos y discontinuos del trabajo vivo […], revelando también los afectos y las manifestaciones deseantes en la producción de la realidad” (p. 185). El conflicto reproduce cartografías que están operando en la escena de producción del cuidado a partir de lo narrado por las y los trabajadores. Se parte de la idea que el conflicto resulta un potente analizador de las relaciones porque expresa subjetividades que operan en la realidad y afectan a los miembros del equipo, generando líneas de fuga, desvíos. El método de análisis cartográfico permite la búsqueda de mapas que nos “abren la visibilidad hacia los espacios no estructurados” y permiten significar nuevos mundos del trabajo a sus constructores en un contexto de producción del cuidado (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286013/html/index.html#redalyc_313286013_ref16"
+      },
+      "Franco & Merhy, 2009"
+     ],
+     ", p. 187)."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Para la elaboración de este artículo se seleccionaron las narrativas de trabajadoras y trabajadores con formación en disciplinas no hegemónicas en salud, tales como enfermeras y enfermeros, trabajadores sociales y nutricionistas, así como administrativas, empleadas de limpieza, camilleros y trabajadores de intendencia. Estas profesiones y ocupaciones sumaron un total de veintidós entrevistas.",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286013/html/index.html#fn16"
+      },
+      [
+       "sup",
+       {},
+       "16"
+      ]
+     ],
+     " En relación con el género autopercibido y la edad, catorce corresponden a mujeres de 27 a 47 años y ocho a varones de 35 a 51 años. Tres participantes se reconocen pertenecientes o descendientes de pueblos originarios de América, toba, mapuche y guaraní. Uno de ellos comprende guaraní. Tratamos la hipótesis que plantea que la vocación de servicio de las disciplinas no hegemónicas en salud fue trascendida por la visibilización de estas profesiones a través de reclamos por las condiciones de trabajo y salariales del sector, expresados durante la pandemia. Este proceso puede pensarse como línea de fuga que, de un modo instituyente, “posibilitaría la acción de los sujetos-deseantes, que traen en sí la fuerza de producción de la realidad” (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286013/html/index.html#redalyc_313286013_ref16"
+      },
+      "Franco & Merhy, 2009"
+     ],
+     ", p. 184). Los relatos dieron lugar al acercamiento a las dinámicas y dimensiones personales, para construir un relato mayor que permita interpretar nuevas historias sobre las cuales inscribir las formas instituyentes. En este sentido, se prestó especial atención a las formas subjuntivas que dan cuenta de los elementos imaginarios e instituyentes en las narrativas.",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286013/html/index.html#fn17"
+      },
+      [
+       "sup",
+       {},
+       "17"
+      ]
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n",
+     [
+      "span",
+      {},
+      "Cuando\nlos aplausos no resultan suficientes: un mapeo de conflictos y cartografía del\ntrabajo de la pandemia a la pospandemia "
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Un primer análisis de las entrevistas permitió identificar conflictos emergentes o profundizados durante la pandemia entre trabajadores de salud de los centros municipales y de los hospitales nacionales y provinciales de Mar del Plata. El mapeo de estos conflictos consideró dos dimensiones de análisis: una transversal, común a todas las disciplinas y ocupaciones, y una específica propia de cada profesión. Un esquema de estas dimensiones se presenta en la ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286013/html/index.html#gf2"
+      },
+      "Figura 2"
+     ],
+     ". En la dimensión transversal, encontramos que la falta estructural de personal profundizó el conflicto entre quienes trabajaron en forma presencial en pandemia y quienes lo hicieron desde su hogar o solicitaron una licencia. Los relatos coinciden en que la sobrecarga laboral de quienes quedaron trabajando en forma presencial alimentó la magnitud de este conflicto. El agotamiento y el estrés fueron sus expresiones sintomáticas en la salud de las y los trabajadores. El malestar y agotamiento relatados por las y los trabajadores no encontraron contención en las instituciones de salud. Los dispositivos generados en algunos casos no llegaron a destino, trabajadoras y trabajadores de salud no accedieron a canales de contención o espacios de escucha de propuestas o inquietudes. A este proceso se sumó una concentración en el proceso de decisiones en salud profundizado por la emergencia de la pandemia. Los relatos señalan escasas o nulas posibilidades de participación en decisiones tales como la reorganización de los espacios de trabajo o de la organización y distribución de las tareas."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "span",
+     {
+      "id": "t-gf2"
+     },
+     "\n",
+     [
+      "figura",
+      {
+       "alt": "Mapa de conflictos,\ndimensiones transversal y específica por profesión/ocupación de salud. Mar del\nPlata 2021"
+      }
+     ],
+     [
+      "br",
+      {}
+     ],
+     "Figura 2",
+     [
+      "br",
+      {}
+     ],
+     "\n",
+     [
+      "span",
+      {},
+      "Mapa de conflictos,\ndimensiones transversal y específica por profesión/ocupación de salud. Mar del\nPlata 2021"
+     ],
+     "\n",
+     [
+      "br",
+      {}
+     ],
+     "\n",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Fuente: elaboración propia"
+      ]
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "En la dimensión específica, enfermeras y enfermeros coinciden en destacar la escasez de personal y de espacios de escucha del personal, pero agregan preocupaciones reiteradas por la ausencia de recategorizaciones profesionales y la falta de reconocimiento salarial y profesional. Estas condiciones deficitarias y precarizadas de trabajo se conjugan con el aumento de las responsabilidades y tareas vinculadas a la atención de la pandemia. Luciana, enfermera del hospital provincial nos dice:"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "p",
+     {},
+     "No había enfermeros, había falta de enfermeros. (...) Porque muchos tenían artículos, muchos enfermeros..., pensá que con la pandemia estuvo un código de que si sos enfermero con una patología de riesgo, tenías capeta, no venías. Entonces fue una suma de todo (Luciana, enfermera, 44 años)."
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " En relación con el reconocimiento salarial, María (41 años), licenciada en enfermería que trabaja en un CAPS urbano, relata: “Es que todos nosotros estamos pagos por algo que no somos. Yo soy licenciada 2, estoy paga por enfermera profesional 1. (...) O sea estoy como doce escalafones por abajo”. Trabajadores sociales y nutricionistas señalan su preocupación por no haber sido considerados trabajadores esenciales al comienzo de la pandemia en el nivel municipal, en un contexto de precarización social creciente. Las y los trabajadores sociales lograron revertir esta situación, gracias a la intervención colectiva a través del colegio profesional y la sección de trabajo social de la secretaría de salud municipal. Volvieron a los CAPS poco tiempo después y muchos de ellos consiguieron articular intersectorialmente la acción en salud con la tarea de los CBE. Natalia (36 años), trabajadora social en un CAPS periurbano, cuenta cómo en un primer momento su trabajo fue desde la distancia: “Nosotros no entrábamos, digamos, como esenciales, este término que este como fue proporcionado, no teníamos concurrencia a la sala… seguíamos haciendo nuestro trabajo de manera telefónica, cosa que en nuestra disciplina de verdad es abrumador.” Y cómo luego, a partir de la organización y gestión desde las y los mismos trabajadores lograron volver al trabajo presencial: “Hubo que problematizar la necesidad de la presencia de los trabajadores sociales en el centro de salud (...), se lo planteó a la secretaría de salud y pudimos volver a nuestros espacios”. "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Las y los nutricionistas comentan que también fueron retirados del territorio y se vieron obligados a atender consultas telefónicas desde sus hogares, en la mayor crisis alimentaria que se viene arrastrando desde los últimos años, junto con profesionales de la salud mental, psicólogos y fonoaudiólogos. Su desterritorialización junto a la de trabajadores sociales, así como la precarización del trabajo en enfermería encuentra fundamentación en un modelo biomédico privilegiado en la explicación de la pandemia, así como en la elaboración de las estrategias sanitarias predominantes. Romina (36 años), nutricionista de un CAPS periurbano, narra preocupada esta experiencia, en el marco de la crisis alimentaria y sus consecuencias:"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "p",
+     {},
+     "Acá en nutrición cuando empezó la pandemia, que sacaron muchas áreas de atención, dejaron lo básico, lo primordial digamos, ponele los nutricionistas no estuvieron asistiendo a los centros de salud porque era consulta como que… no era importante, ¿no?, entre comillas (...). Y en realidad ahora está muy asentado con esto de la pandemia todas las enfermedades crónicas. Viene gente con mucha obesidad, mucho sobrepeso, se le despertó la diabetes, se le despertó la hipertensión, estuvieron mucho tiempo sin atenderse, entonces es como que recién ahora se está haciendo la progresión digamos (Romina, nutricionista, 36 años)."
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Las narrativas de trabajadores y trabajadoras entrevistados muestran una reiteración de discursos que giran en torno a la caracterización de la pandemia como un fenómeno vivenciado en dos etapas o momentos; la fase inicial, revelada como la etapa del miedo, horror, incertidumbre, confusión y malestar, y una segunda etapa caracterizada por la adaptación activa a la situación en la que lograron generarse estrategias novedosas de producción del cuidado. La falta de insumos para trabajar en el marco de una emergencia sanitaria y los cambios abruptos de espacios de trabajo se entrecruzaron con los reclamos históricos por las deficitarias condiciones laborales, el aumento de tareas y la falta de reconocimiento de la categoría profesional. En ese primer momento de incertidumbre y miedo, las y los trabajadores se encontraban más sujetos a las reglas externas provenientes de decisiones verticales configurando un mapa que además de dejar por fuera del personal esencial a trabajadores sociales y nutricionistas, como dijimos, profundizó la estrucutura jerárquica que caracteriza al sistema de salud. Los testimonios dan cuenta de los modos en los que se experimentó esta concentración de las decisiones en salud. Gonzalo (51 años), licenciado en enfermería, realiza guardias nocturnas en un CAPS periurbano, al respecto señala: “Es que la voz de los trabajadores no fue escuchada y las directivas bajaban y había que hacer”. Desde el hospital provincial, Juan argumenta:"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "p",
+     {},
+     "A nosotros nos pusieron limitaciones, no podíamos entrar nosotros a la sala de neonatología porque estaban solamente médicos y enfermeros. Y entonces cambió la forma de trabajo completamente, entonces hubo que readecuarse (…), entonces al principio estuvimos mucho más apegados a las reglas, nosotros mismos, ¿no? Con nuestro propio cuidado (Juan, trabajador social, 47 años)."
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " María (41 años), licenciada en enfermería, destaca la soledad en la que trabajaron en el CAPS urbano: “Es que nunca vino nadie (…), malestar en principio, malestar, después de un tiempo nos terminamos acomodando”. Romina (36 años), nutricionista que cumple funciones en un CAPS periurbano, agrega: “Nos tuvieron medio en el aire, un día hacé esto, un día otro, un día así. Entonces como que el personal estaba medio ahí, viste, como un día sí, un día no, un día hacemos, un día no hacemos...”. "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " La enunciación de estas problemáticas fue atravesada por diferentes matices emocionales. Desde la angustia, la incertidumbre, la bronca hasta una entrega impregnada por la responsabilidad que implica una llamada vocación de servicio, ser trabajador de la salud, aún en condiciones de trabajo insalubres, inestables. La sobrecarga de trabajo fue un denominador común. Lucio (35 años), camillero del hospital provincial comenta: “Teníamos que hacer horas extras, se hacían porque no quedaba otra, si no, el hospital no tenía camilleros. Básicamente así fue en todos los puestos”. En ocasiones como las que relata Flavia (38 años), técnica de laboratorio que trabaja en un hospital nacional, en las que procesaba las muestras recibidas para diagnóstico: “Tenés todo eso (el equipo de protección), más el ruido del respirador, el ruido de las dos cabinas, el ruido de la centrífuga; yo no podía mover las manos. Ahora tengo principio de artrosis, de estar horas pipeteando”. A ello se suma la pérdida de noción de tiempo al ingresar al trabajo, la cual es referida como “entrar a un túnel”. María (41 años), licenciada en enfermería de un CAPS urbano, refiere la sobrecarga de trabajo y la falta de reconocimiento:"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "p",
+     {},
+     "Agotados, desconsiderados, maltratados. Pasaron un montón de cosas. Y sobre todo, lamentable caer siempre en lo mismo, pero el reconocimiento, a nosotros, los aplausos no nos sirvieron nunca. Nosotros lo que necesitábamos es que nos reconozcan económicamente y eso no sucedió, y todo lo que hicieron fue ridículo en cuanto al importe (María, licenciada en enfermería, 41 años)."
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Otra situación problemática emerge en relación a la escasez de recursos materiales. Al respecto Gustavo (51 años), licenciado en enfermería del CEMA, relata: “Teníamos irregularidad de la distribución; por momentos faltaba esto, faltaba aquello… compramos cosas nosotros, de nuestro bolsillo: máscaras por ejemplo”. Manuel (50 años), personal de intendencia del hospital provincial, cuenta la experiencia desde la incertidumbre del desconocimiento y la falta de elementos: “No teníamos información, no teníamos elementos cuando recién arrancamos, eran donaciones”, y las consecuencias y sobrecarga que esto conllevaba en el trabajo en la morgue: “Tirabas la bolsa, se rompía, eh, barbijo, este, N95, máscara, gafas, no podías respirar, se te volaban los barbijos, o sea, no se (…), se me rompieron 400, no sé si 500…”. La escasez de recursos derivó en el aumento de la frustración según el relato de María: “Un poco que casi los primeros seis meses, ocho, esto es muchísima confusión, muchísimo temor, muchísimo cuidado, un poco de alteración, de tratar de adaptarte (…), miedo, temor, de adaptar el laburo, de bueno, de frustración por los insumos” (licenciada en enfermería, 41 años). "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Uno de los hallazgos de este análisis consiste en la revisión del pluriempleo, característico en el sistema de salud. Los relatos evidenciaron que la pandemia demandó mayor trabajo en el puesto principal, ya sea el CAPS o el hospital, así como incrementó la demanda de cuidado familiar de niñas, niños y personas mayores, al cerrar las escuelas y centros de recreación en el contexto del ASPO, de modo que muchos trabajadores, especialmente las mujeres, debieron reducir las fuentes laborales y optar por el trabajo principal en el efector público. Romina señala: “No ahora, antes sí, antes de la pandemia sí. Pero afuera obviamente, ¿no? de nutricionista en el sector privado” (nutricionista, 36 años). Incluso el pluriempleo en pandemia es objetado por los trabajadores debido a la ampliación de las posibilidades de transmisión de la covid-19. Gonzalo, licenciado en enfermería de un CAPS periurbano, declara:"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "p",
+     {},
+     "Los médicos tienen trabajo en la municipalidad y unas horas en provincia y consultorio privado y así… entonces el pluriempleo en la pandemia quedó más que demostrado, que era un desastre porque dónde te contagiabas acá y tenías que aislar tres grupos: uno el consultorio privado, otro en el hospital provincial y otro en la salita donde trabajás (Gonzalo, licenciado en enfermería, 51 años)."
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Para la segunda etapa experimentada de la pandemia, las y los trabajadores relatan la aparición de mayor información sobre la enfermedad, la recepción de material e insumos y la llegada de vacunas. Sin embargo, este momento coincide con la adaptación por la frustración de aquello continuaba sin hacerse presente (aumentos, vacaciones, organización de la dinámica del trabajo, dispositivos de escucha). En esta segunda etapa se configuró la transición de un trabajo muerto al desarrollo paulatino de un trabajo vivo en acto que emergió de diversas maneras de esas ausencias y habilitó estrategias de cuidado en el personal de salud. El análisis de las herramientas y estrategias que las y los trabajadores desplegaron para atravesar, trascender y superar las principales problemáticas, dieron cuenta de que el mundo del trabajo se constituye en y desde acciones de micropolítica en la cotidianeidad de la práctica asumida en términos colectivos como proceso de producción del cuidado en salud. El sentido otorgado a la tarea, al cuidado del otro en una situaciòn de emergencia global se concretó en el propio territorio a través de acciones del trabajo vivo, en el que un sujeto colectivo, comprometido con su hacer, y desde un posicionamiento ético-político logró trascender las instancias de queja para construir alternativas instituyentes actuando y pensando desde la potencialidad creadora. La mirada crítica en torno a las condiciones de trabajo resulta necesaria, así como la lógica de la posibilidad para poder abrir caminos que superen la dualidad poder-no poder y volver consciente la potencia de las acciones colectivas (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286013/html/index.html#gf3"
+      },
+      "Figura 3"
+     ],
+     ")."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "span",
+     {
+      "id": "t-gf3"
+     },
+     "\n",
+     [
+      "figura",
+      {
+       "alt": "CAPS perirubano, Mar del\nPlata"
+      }
+     ],
+     [
+      "br",
+      {}
+     ],
+     "Figura 3",
+     [
+      "br",
+      {}
+     ],
+     "\n",
+     [
+      "span",
+      {},
+      "CAPS perirubano, Mar del\nPlata"
+     ],
+     "\n",
+     [
+      "br",
+      {}
+     ],
+     "\n",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "(Paula Posada Campoy, 2021)"
+      ]
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Ante la ausencia de contención al personal de salud, emergieron con fuerza estrategias de autocuidado y de cuidado del otro. Carlos, trabajador del hospital provincial, narra su experiencia como compañero, atento a las necesidades de quienes habían contraído covid: “Yo me encargué de todos mis compañeros que se contagiaron, de llamarlos todos los días a ver cómo se sentían, si precisaban algo, que le alcanzáramos algo, si estaba bien, si estaba mal”. Las estrategias de cuidado y contención emocional aparecen como una constante, tanto de sí, como para las y los compañeros y pacientes. La incertidumbre, falta de información y de protocolos se enfrentaron con propuestas concretas, como la redacción de protocolos desde las y los mismos trabajadores. Sigue relatando Carlos:"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "p",
+     {},
+     "Entonces yo veía todas las falencias que había y las corregí y armé un protocolo que después se lo presentamos a infectologia, infectologia dio el ok (...), se trabajó con ese protocolo. Eh, nada, después obviamente figuran los médicos, no figura el licenciado o el técnico que generó el protocolo… (Carlos, licenciado en imágenes, 47 años)."
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Las estrategias de producción del cuidado se extendieron en el territorio en algunos casos. Estela narra desde un CAPS rural las experiencias de articulación comunitaria que lograron impelemntarse en pandemia:"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "p",
+     {},
+     "Nosotros con el comité barrial de emergencia por ejemplo (...) gestionábamos más que nada el tema de los paracetamol, ibuprofeno para la fiebre, los dolores musculares y (...) la comisión de salud pasaron a hacer vacunaciones, entonces (...) nos acercábamos nosotros. Nosotros ahora lo que tenemos activo es una que se llama ‘Date cuenta hermane’ sobre salud sexual y reproductiva. Está abierta a todo el público, hicimos convocatorias en varias oportunidades, inclusive hicimos un vídeo completo con memes, está genial (...). Entonces la idea es tratar de hacerlo itinerante, digamos que nosotros vamos hacia la comunidad para ir acercando también anticonceptivos, cuando se hace necesario, digamos, y hacer un dispositivo que se mantenga en el tiempo... (Estela, licenciada en enfermería, 37 años)."
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Los relatos evidenciaron estrategias y acciones que pueden considerarse instituyentes en tanto confrontan la hegemonía médica en el sistema de salud y configuran posibilidades creativas para la salud colectiva. Entre ellas destacamos la revaloración del trabajo en equipo, interdisciplinario, por sobre las limitaciones del trabajo individual, el compromiso con el lugar de trabajo y la responsabilidad del cuidado en salud que atraviesa todas las profesiones y ocupaciones, la organización para la gestión de insumos de cuidado personal, las iniciativas para el acondicionamiento de los lugares de trabajo, la reorganización y reterritorialización de las prácticas de cuidado y atención a la comunidad. De acuerdo con los resultados preliminares de este trabajo observamos que la vocación de servicio resultó trascendida por reclamos preexistentes que, en contexto de pandemia, vuelven a quedar en la superficie, con la particularidad de que sus trabajadoras y trabajadores siguen cumpliendo horarios y configurando la primera línea de trabajo del sector salud instituido aunque sin perder de vista acciones colectivas de lucha, de organización del reclamo e incluso acciones novedosas e instituyentes de producción del cuidado. Concluimos con el testimonio de Sandra, trabajadora en el servicio de limpieza del hospital provincial. Durante la pandemia cumplió tareas en el hospital modular, de internación a pacientes con covid-19. Conmovida por la situación de las y los pacientes que convivían con la muerte en las salas del hospital relata cómo idearon una estrategia novedosa:"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "p",
+     {},
+     "Con unas compañeras se nos ocurrió armar la biblioteca y yo le pedí a amigos que me dieron un par de libros y traje de mi casa también (...). Con compañeras de limpieza, y se lo comentamos a un grupo de psicólogos (...), se lo comentamos y les pareció bárbaro, ellos también trajeron cosas (...). Eso fue relindo, (...) porque a pesar de las cosas duras, mismo esto que haya muertes todo el día, también estaban estas cosas lindas que bueno cuando alguien salía adelante, cuando alguien te contaba de su vida, o ver cómo se generaba amistad muchas veces entre los pacientes porque vivían cosas refuertes y de pronto se generaban vínculos porque uno empezaba a mejorar y empezaba a caminar y ayudaba a las enfermeras a repartir los desayunos y eso, poder dar una mano porque también nos veían que estábamos corriendo día y noche (Sandra, limpieza, 30 años)."
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n",
+     [
+      "span",
+      {},
+      "Discusión"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " En nuestra investigación observamos una concentración del proceso de toma de decisiones en salud en los niveles jerárquicos y un fortalecimiento del modelo médico hegemónico como abordaje explicativo y operativo de la pandemia. Las decisiones tomadas en pandemia implicaron traslados de personal, rotaciones para la atención de la covid-19, listados de trabajadores esenciales que introdujeron mecanismos de segregación, organización de los espacios y procesos de trabajo que provocaron la demanda generalizada de canales de escucha de los y las trabajadoras de salud. Uno de los rasgos del modelo médico hegemónico que se amplificó durante la pandemia es su biologismo. Este énfasis en el abordaje biologicista caracterizado por la negación de las determinaciones sociales, conlleva la naturalización e invisibilización de las desigualdades en salud (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286013/html/index.html#redalyc_313286013_ref26"
+      },
+      "Menéndez, 2005"
+     ],
+     "). El predominio de la tríada ecológica conformada por el agente, el huésped y el medio como modelo explicativo del proceso salud y enfermedad en covid-19 se tradujo, por ejemplo, en la exclusión de los y las trabajadoras sociales y nutricionistas, así como profesionales de la salud mental, del personal esencial del primer nivel de atención al inicio de la pandemia. Nuestro proyecto aconseja generar espacios de diálogo interdisciplinario e intersectorial entre los efectores de salud y las organizaciones de la comunidad en los niveles locales que tramiten la experiencia de la pandemia y se proyecten para garantizar el derecho a la salud en la postpandemia, con perspectiva crítica capaz de complejizar el modelo biomédico predominante en la explicación del proceso salud-enfermedad en contextos de sindemia. Fortalecer el primer nivel de atención y re-territorializar la atención en salud. Instituir modos democráticos e interdisciplinarios de decisión, capaces de alojar la autonomía necesaria de los y las trabajadoras para producir salud (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286013/html/index.html#redalyc_313286013_ref33"
+      },
+      "Sousa Campos, 2021"
+     ],
+     ") y mejorar las condiciones de trabajo y contratación. "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Los elementos subjuntivizadores, según el sentido potencial otorgado por Byron ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286013/html/index.html#redalyc_313286013_ref18"
+      },
+      "Good (2003)"
+     ],
+     ", en las narrativas de las y los trabajadores de salud poseen una dimensión histórica que se evidencia en la micropolítica del trabajo vivo en acto. Estos elementos expresan la presencia del deseo en los relatos y son la base de los imaginarios instituyentes desde una dimensión colectiva. Según Fernández (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286013/html/index.html#redalyc_313286013_ref13"
+      },
+      "2008"
+     ],
+     "), la lógica de las subjetividades corresponde a una lógica de multiplicidades, en la que las subjetividades son producidas en situación. De ahí emergen nuevos modos de subjetivación, históricos, colectivos, capaces de transformarse en el devenir, de instituir colectivamente otras formas de relación social, de imaginar otras realidades, de desafiar la fijeza de las instituciones y la cristalización del imaginario hegemónico. Desde esta perspectiva histórica, puede considerarse que la salud pública se proyecta como salud colectiva en las narrativas de la pandemia de sus trabajadores. Los eventos sin precedentes son capaces de producir un cambio radical en términos colectivos. Dependiendo de quienes los experimenten y de su duración pueden consistir en un evento de época que permite imaginar una nueva realidad de rasgos inconmensurables con la realidad previa. Según ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286013/html/index.html#redalyc_313286013_ref28"
+      },
+      "Mudrovcic (2021)"
+     ],
+     ", este cambio radical “supone un nuevo sujeto, un nuevo nosotros que va más allá de la comprensión humana tal como la conocemos” (p. 47). Pero si la pandemia se trata de un evento de época sin precedentes, se pregunta la autora, ¿quiénes son los sujetos que la experimentan, quién es el sujeto de la pandemia?. En nuestro trabajo planteamos que se trata de un sujeto colectivo atravesado por la pandemia y corresponde a las y los trabajadores de salud. Un sujeto colectivo que forma parte del proceso de proletarización de la humanidad observado con la globalización. Como señala Jorge ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286013/html/index.html#redalyc_313286013_ref35"
+      },
+      "Veraza (2005)"
+     ],
+     ", las guerras, el sida, el cólera, el hambre forman parte de la acumulación de capital y en tanto tal provocan la expropiación de la riqueza del sujeto. Aquí nos preguntamos si la pandemia de la covid-19 forma parte también de este proceso de expropiación y acumulación y cuál es el lugar que ocupan las y los trabajadores de salud en la complejidad de este proceso.  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " El sujeto histórico es una categoría teórica del marxismo vinculada con la conciencia de clase del proletariado para transformar el modo de producción del capital. Su definición clásica refiere a la lucha de clases pero, como señala Jaime ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286013/html/index.html#redalyc_313286013_ref10"
+      },
+      "Caycedo Turriago (1999)"
+     ],
+     ", el sujeto no puede reducirse a la clase, de modo que el sujeto social transformador no se define totalmente por su lugar en las relaciones de producción sino por el rol que asume en la historia real. Desde la psicología social, la relación entre pensamiento crítico, sujeto histórico y emancipación se analiza como una formación compenetrada. Según Mario ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286013/html/index.html#redalyc_313286013_ref22"
+      },
+      "Juárez Rodríguez (2015)"
+     ],
+     ", el sujeto histórico es aquel situado en el contexto social, que no se encuentra alienado, reconoce su posición en las relaciones de producción y actúa de acuerdo a ella. Afirma que “...todo cambio revolucionario comienza con la imaginación de algo distinto, por ello es importante el cuestionamiento” (p. 248). Para el pensamiento crítico, el sujeto histórico es aquel que busca la liberación no solamente en la lucha política sino también en la lucha simbólica por el significado. Las y los trabajadores de salud que se apartan del modelo médico hegemónico, colocaron en cuestión en Mar del Plata, la racionalidad jerárquica y autoritaria del sistema de salud, a través de la visibilización de sus reclamos gremiales y profesionales. Atravesaron durante la pandemia los mandatos de la vocación por el servicio y el sacrificio heroico, expresado en los aplausos de los sectores medios urbanos, y lograron visibilizar la condición asalariada de las profesiones de salud. En muchos casos generaron nuevas estrategias de producción del cuidado y articularon con los movimientos sociales, especialmente en el primer nivel de atención. Los próximos años dirán si estas experiencias serán capaces de instituir nuevos modos de gestión del cuidado en salud, con participación social y perspectiva de derechos para contribuir a la transformación social y la salud colectiva."
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-back"
+    },
+    "\n",
+    [
+     "p",
+     {},
+     "Agradecimientos"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "La red de investigación está\nconformada por la Universidad Nacional de Lanús, Universidad Nacional de\nCórdoba, Universidad Nacional de Santiago del Estero, Universidad Nacional de\nSalta, Universidad Nacional de Rosario, Instituto Nacional de Epidemiología de\nla Administración Nacional de Laboratorios e Institutos de Salud, Universidad\nNacional de Misiones, Universidad Nacional de la Patagonia Austral y\nUniversidad Nacional de Villa María, Argentina. El proyecto está financiado por\nla Agencia Nacional de Promoción de la Investigación, el Desarrollo Tecnológico\ny la Innovación, Argentina, Convocatoria PISAC COVID-19, año 2020. El protocolo\nde investigación fue aprobado por el Comité de Ética en Investigación de\nINE/ANLIS. Se tomó consentimiento informado a las y los participantes.\nAgradecemos a las y los trabajadores de salud que participaron de las\nentrevistas en Mar del Plata."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n",
+     [
+      "span",
+      {},
+      "Referencias"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286013_ref1"
+     },
+     "Alonso, V., Hoffmann, M. M., Romero, P. M., Fuertes, S., Posada Campoy, P., Sánchez, L. P. y Varela, M. S. (2021). Episodios de una pandemia inconmensurable: las mujeres en la gestión de la salud en Mar del Plata. ",
+     [
+      "span",
+      {},
+      "Revista Movimiento"
+     ],
+     ", (35), 98-101. Recuperado de ",
+     [
+      "a",
+      {
+       "href": "https://www.revistamovimiento.com/?p=5337"
+      },
+      "https://www.revistamovimiento.com/?p=5337"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286013_ref2"
+     },
+     "Arévalo Ipanaqué, J. M., Da Silva Tetzlaff, A., Tiscar Gonzalez, V., Sánchez, L. P., Lobos Rodríguez, R. A., Velasquez, L. R.,... Morales Ojeda, I. A. (2020). Análisis multipaís de la gestión del cuidado de enfermería durante la pandemia por COVID-19. ",
+     [
+      "span",
+      {},
+      "Revista Cubana de Enfermería"
+     ],
+     ", (36), 1-18. Recuperado de ",
+     [
+      "a",
+      {
+       "href": "http://www.revenfermeria.sld.cu/index.php/enf/article/view/3998"
+      },
+      "http://www.revenfermeria.sld.cu/index.php/enf/article/view/3998"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286013_ref3"
+     },
+     "Aspiazu, E. (2017). Las condiciones laborales de las y los enfermeros en Argentina: entre la profesionalización y la precariedad del cuidado en la salud. ",
+     [
+      "span",
+      {},
+      "Trabajo y sociedad"
+     ],
+     ", (28), 11-35. Recuperado de ",
+     [
+      "a",
+      {
+       "href": "http://www.scielo.org.ar/scielo.php?script=sci_arttext&pid=S1514-68712017000100002&lng=es&nrm=iso"
+      },
+      "http://www.scielo.org.ar/scielo.php?script=sci_arttext&pid=S1514-68712017000100002&lng=es&nrm=iso"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286013_ref4"
+     },
+     "Aspiazu, E., Baldi, L. y Lanari, M. E. (2011). Prestadores, prestatarios y pacientes: un análisis de las voces y silencios de los reclamos de los profesionales de la salud. 10mo. Congreso Nacional de Estudios del Trabajo. Asociación de Especialistas de Estudios del Trabajo (ASET), Buenos Aires. Recuperado de ",
+     [
+      "a",
+      {
+       "href": "https://www.argentina.gob.ar/sites/default/files/aspiazu-et-al-prestadores-prestatarios-pacientes-2011.pdf"
+      },
+      "https://www.argentina.gob.ar/sites/default/files/aspiazu-et-al-prestadores-prestatarios-pacientes-2011.pdf"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286013_ref5",
+      "lang": "en"
+     },
+     "Bochner, A. P. (2002). Perspectives on inquiry III: The moral of stories. En M. L. Knapp y J. A. Daly (Eds.), ",
+     [
+      "span",
+      {},
+      "Handbook of Interpersonal Communication"
+     ],
+     " (pp. 73-101). Thousand Oaks, United Sates: Sage."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286013_ref6"
+     },
+     "Bourdieu, P. (1999). ",
+     [
+      "span",
+      {},
+      "Meditaciones Pascalianas. "
+     ],
+     "Barcelona, España: Anagrama."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286013_ref7"
+     },
+     "Breilh, J. (2013). La determinación social de la salud como herramienta de transformación hacia una nueva salud pública (salud colectiva). ",
+     [
+      "span",
+      {},
+      "Rev. Fac. Nac. Salud Pública, 31"
+     ],
+     "(1), S13-S27. Recuperado de ",
+     [
+      "a",
+      {
+       "href": "http://www.scielo.org.co/pdf/rfnsp/v31s1/v31s1a02.pdf"
+      },
+      "http://www.scielo.org.co/pdf/rfnsp/v31s1/v31s1a02.pdf"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286013_ref8"
+     },
+     "Bruner, J. (2003). ",
+     [
+      "span",
+      {},
+      "La fábrica de historias. Derecho, literatura, vida"
+     ],
+     ". Ciudad Autónoma de Buenos Aires, Argentina: Fondo de Cultura Económica."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286013_ref9"
+     },
+     "Castoriadis, C. (2007). ",
+     [
+      "span",
+      {},
+      "La institución imaginaria de la sociedad"
+     ],
+     ". Ciudad Autónoma de Buenos Aires, Argentina: Tusquets."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286013_ref10"
+     },
+     "Caycedo Turriago, J. (1999). El sujeto\nhistórico y su complejidad. En J. Caycedo Turriago y J. E Álvarez (Comps.), ",
+     [
+      "span",
+      {},
+      "Marx Vive, Siglo y Medio\ndel Manifiesto Comunista ¿Superación, Vigencia o Reactualización?"
+     ],
+     " (pp. 277-292). Bogotá, Colombia:\nUnibiblos Universidad Nacional de Colombia. Recuperado de https://repositorio.unal.edu.co ›\nhandle › unal"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286013_ref11"
+     },
+     "Denzin, N. K. y Lincoln, Y. (2011). ",
+     [
+      "span",
+      {},
+      "Manual de investigación cualitativa"
+     ],
+     ". Barcelona, España: Gedisa."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286013_ref12"
+     },
+     "East, S., Laurence, T. y López Mourelo, E. (2020). COVID-19 y la situación de las trabajadoras de la salud en Argentina. Ciudad Autónoma de Buenos Aires, Argentina: OIT Argentina, ONU Mujeres Argentina, UNPFA Argentina. Recuperado de ",
+     [
+      "a",
+      {
+       "href": "https://www.ilo.org/buenosaires/publicaciones/WCMS_754614/lang--es/index.htm"
+      },
+      "https://www.ilo.org/buenosaires/publicaciones/WCMS_754614/lang--es/index.htm"
+     ],
+     "."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286013_ref13"
+     },
+     "Fernández, A. M.(2008). ",
+     [
+      "span",
+      {},
+      "Las lógicas colectivas. Imaginarios, cuerpos y multiplicidades"
+     ],
+     ". Ciudad Autónoma de Buenos Aires, Argentina: Biblos."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286013_ref14"
+     },
+     "Fernández, A. M. (2016). La imaginación colectiva y anónima. ",
+     [
+      "span",
+      {},
+      "Diferencia(S), 2"
+     ],
+     "(2), 194-213. Recuperado de ",
+     [
+      "a",
+      {
+       "href": "http://www.revista.diferencias.com.ar/index.php/diferencias/article/view/58"
+      },
+      "http://www.revista.diferencias.com.ar/index.php/diferencias/article/view/58"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286013_ref15"
+     },
+     "Fernández, A. M. y Stavisky, S. (2016). Cornelius Castoriadis: un problema y un deseo que persisten. ",
+     [
+      "span",
+      {},
+      "Diferencia(S), 2"
+     ],
+     "(2), 13-17. Recuperado de ",
+     [
+      "a",
+      {
+       "href": "http://www.revista.diferencias.com.ar/index.php/diferencias/article/view/56"
+      },
+      "http://www.revista.diferencias.com.ar/index.php/diferencias/article/view/56"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286013_ref16"
+     },
+     "Franco, T. B. y Merhy, E. E. (2009). Mapas analíticos: una mirada sobre la organización y sus procesos de trabajo. ",
+     [
+      "span",
+      {},
+      "Salud Colectiva, 5"
+     ],
+     "(2), 181-194. ",
+     [
+      "a",
+      {
+       "href": "https://doi.org/10.18294/sc.2009.259"
+      },
+      "https://doi.org/10.18294/sc.2009.259"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286013_ref17"
+     },
+     "Franco, T. B. y Merhy, E. E. (2011). El reconocimiento de la producción subjetiva del cuidado. ",
+     [
+      "span",
+      {},
+      "Salud Colectiva, 7"
+     ],
+     "(1), 9-20. ",
+     [
+      "a",
+      {
+       "href": "https://doi.org/10.18294/sc.2011.251"
+      },
+      "https://doi.org/10.18294/sc.2011.251"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286013_ref18"
+     },
+     "Good, B. 2003. ",
+     [
+      "span",
+      {},
+      "Medicina, racionalidad y experiencia"
+     ],
+     ". Barcelona, España: Anagrama."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286013_ref19"
+     },
+     "Guattari, F. y Rolnik, S. (2005). ",
+     [
+      "span",
+      {},
+      "Micropolítica y cartografías del deseo. "
+     ],
+     "Petropolis, Brasil: Vozes."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286013_ref20",
+      "lang": "en"
+     },
+     "Hyden, L. C. (1997). Illness and Narrative. ",
+     [
+      "span",
+      {},
+      "Sociology of Health & Illness, 19"
+     ],
+     "(1), 48-69. ",
+     [
+      "a",
+      {
+       "href": "https://doi.org/10.1111/j.1467-9566.1997.tb00015.x"
+      },
+      "https://doi.org/10.1111/j.1467-9566.1997.tb00015.x"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286013_ref21"
+     },
+     "Instituto Nacional de Estadísticas y Censos. (2020). ",
+     [
+      "span",
+      {},
+      "Mercado de trabajo. Tasas e indicadores socioeconómicos (EPH). Informes Técnicos, 4"
+     ],
+     "(174). Ciudad Autónoma de Buenos Aires, Argentina. Recuperado de ",
+     [
+      "a",
+      {
+       "href": "http://www.indec.gob.ar/"
+      },
+      "http://www.indec.gob.ar"
+     ],
+     "/"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286013_ref22"
+     },
+     "Juárez Rodríguez, M. (2015). Pensamiento crítico y sujeto histórico. Consideraciones en torno al concepto de liberación en psicología social. ",
+     [
+      "span",
+      {},
+      "Teoría y Crítica de la Psicología"
+     ],
+     ", (6), 237-257. Recuperado de ",
+     [
+      "a",
+      {
+       "href": "http://www.teocripsi.com/ojs"
+      },
+      "http://www.teocripsi.com/ojs"
+     ],
+     "/"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286013_ref23"
+     },
+     "Mata-Orozco, M., López-Caldera, M., Meza Palma, D., Labrador Parra, A., Sarco Lira, J., Pérez, H. y Escalona, E. (2016). Enfoques emergentes de la epidemiología: una mirada desde la transdisciplinariedad. ",
+     [
+      "span",
+      {},
+      "Comunidad y Salud, 14"
+     ],
+     "(2), 50-62. Recuperado de ",
+     [
+      "a",
+      {
+       "href": "https://www.redalyc.org/pdf/3757/375749517007.pdf"
+      },
+      "https://www.redalyc.org/pdf/3757/375749517007.pdf"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286013_ref24",
+      "lang": "pt"
+     },
+     "Menéndez, E. (1998). Antropologia Médica e Epidemiologia. En R. Barradas, N. Almeida Filho y R. Veras (Orgs), ",
+     [
+      "span",
+      {},
+      "Teoria epidemiológica hoje: fundamentos, interfaces, tendências "
+     ],
+     "(pp. 81-104). Rio de Janeiro, Brasil: FIOCRUZ. Recuperado de ",
+     [
+      "a",
+      {
+       "href": "https://static.scielo.org/scielobooks/5btwk/pdf/almeida-9788575412794.pdf"
+      },
+      "https://static.scielo.org/scielobooks/5btwk/pdf/almeida-9788575412794.pdf"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286013_ref25"
+     },
+     "Menéndez, E. (2003). Modelos de atención de los padecimientos: de exclusiones teóricas y articulaciones prácticas. ",
+     [
+      "span",
+      {},
+      "Ciencia & Saúde Colectiva, 8"
+     ],
+     "(1), 185-207. ",
+     [
+      "a",
+      {
+       "href": "https://doi.org/10.1590/S1413-81232003000100014"
+      },
+      "https://doi.org/10.1590/S1413-81232003000100014"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286013_ref26"
+     },
+     "Menéndez, E. (2005). El modelo médico y la salud de los trabajadores. ",
+     [
+      "span",
+      {},
+      "Salud Colectiva, 1"
+     ],
+     "(1), 9-32. ",
+     [
+      "a",
+      {
+       "href": "https://doi.org/10.18294/sc.2005.1"
+      },
+      "https://doi.org/10.18294/sc.2005.1"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286013_ref27"
+     },
+     "Merhy, E. E. (2021). ",
+     [
+      "span",
+      {},
+      "Salud: cartografía del trabajo vivo"
+     ],
+     ". Lanús, Argentina: Universidad Nacional de Lanús."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286013_ref28"
+     },
+     "Mudrovcic, M. I. (2021). El presente suspendido y la experiencia del evento sin precedentes: a propósito de la pandemia de COVID-19. ",
+     [
+      "span",
+      {},
+      "Cuadernos de Historia"
+     ],
+     ", (55), 37-58. Santiago, Chile: Universidad de Chile. ",
+     [
+      "a",
+      {
+       "href": "https://doi.org/10.4067/S0719-12432021000200037"
+      },
+      "https://doi.org/10.4067/S0719-12432021000200037"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286013_ref29"
+     },
+     "Ramacciotti, K. I. (2019). La profesionalización del cuidado sanitario: La enfermería en la historia argentina. ",
+     [
+      "span",
+      {},
+      "Trabajos y Comunicaciones"
+     ],
+     ", (49), e081. ",
+     [
+      "a",
+      {
+       "href": "https://doi.org/10.24215/23468971e081"
+      },
+      "https://doi.org/10.24215/23468971e081"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286013_ref30"
+     },
+     "Ramacciotti, K. I. (2020). Cuidar en tiempos de pandemia. ",
+     [
+      "span",
+      {},
+      "Descentrada, 4"
+     ],
+     "(2), e126. ",
+     [
+      "a",
+      {
+       "href": "https://doi.org/10.24215/25457284e126"
+      },
+      "https://doi.org/10.24215/25457284e126"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286013_ref31"
+     },
+     "Siciliani, J. M. (2014). Contar según Jerome Bruner. ",
+     [
+      "span",
+      {},
+      "Itinerario Educativo, XXVIII"
+     ],
+     "(63), 31-59. ",
+     [
+      "a",
+      {
+       "href": "https://doi.org/10.21500/01212753.1480"
+      },
+      "https://doi.org/10.21500/01212753.1480"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286013_ref32",
+      "lang": "en"
+     },
+     "Singer, M. C., Bulled, N. y Ostrach, B. (2012). Syndemics and human health: Implications for prevention and intervention. ",
+     [
+      "span",
+      {},
+      "Annals of Applied Anthropology, 36"
+     ],
+     "(2), 205-211. ",
+     [
+      "a",
+      {
+       "href": "https://doi.org/10.1111/napa.12000"
+      },
+      "https://doi.org/10.1111/napa.12000"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286013_ref33"
+     },
+     "Sousa Campos, G. W. (2021) [2001]. Gestión en salud: en defensa de la vida. Cuadernos del ISCo. ",
+     [
+      "span",
+      {},
+      "Salud Colectiva"
+     ],
+     ", (14). Recuperado de ",
+     [
+      "a",
+      {
+       "href": "http://isco.unla.edu.ar/edunla/cuadernos/catalog/view/15/26/63-1"
+      },
+      "http://isco.unla.edu.ar/edunla/cuadernos/catalog/view/15/26/63-1"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286013_ref34"
+     },
+     "Ulloa, F. (1995). ",
+     [
+      "span",
+      {},
+      "Novela Clínica Psicoanalítica. Historial de una práctica"
+     ],
+     ". Ciudad Autónoma de Buenos Aires, Argentina: Paidós."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286013_ref35"
+     },
+     "Veraza, J. (2005). El desarrollo paradójico del sujeto histórico en los siglos XX y XXI: clase y multitud. ",
+     [
+      "span",
+      {},
+      "Polis, I"
+     ],
+     "(2), 205-229. Recuperado de ",
+     [
+      "a",
+      {
+       "href": "http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S1870-23332005000200205&lng=es&nrm=iso"
+      },
+      "http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S1870-23332005000200205&lng=es&nrm=iso"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Fuentes"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286013_ref40"
+     },
+     "Enfermeras acamparán en el HIGA:\n“Ganamos por debajo de la canasta básica” (1 de\nabril de 2021). ",
+     [
+      "span",
+      {},
+      "La Capital"
+     ],
+     ".\nRecuperado de ",
+     [
+      "a",
+      {
+       "href": "https://www.lacapitalmdp.com/enfermeras-acamparan-en-el-higa-ganamos-por-debajo-de-la-canasta-basica/"
+      },
+      "https://www.lacapitalmdp.com/enfermeras-acamparan-en-el-higa-ganamos-por-debajo-de-la-canasta-basica/"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286013_ref41"
+     },
+     "Crece\nel conflicto laboral en el HIGA: paro, abrazo solidario y acampe por “salarios\ndignos”. (5 de abril de 2021b).\n",
+     [
+      "span",
+      {},
+      "La Capital"
+     ],
+     ". Recuperado de ",
+     [
+      "a",
+      {
+       "href": "https://www.lacapitalmdp.com/crece-el-conflicto-laboral-en-el-higa-paro-abrazo-solidario-y-acampe-por-salarios-dignos/"
+      },
+      "https://www.lacapitalmdp.com/crece-el-conflicto-laboral-en-el-higa-paro-abrazo-solidario-y-acampe-por-salarios-dignos/"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286013_ref42"
+     },
+     "Coronavirus\nen foco: La búsqueda de un enemigo invisible. La pandemia en Mar del Plata. (29\nde agosto de 2020). ",
+     [
+      "span",
+      {},
+      "Qué Digital"
+     ],
+     ". Recuperado de ",
+     [
+      "a",
+      {
+       "href": "https://quedigital.com.ar/coronavirus-en-foco-la-busqueda-de-un-enemigo-invisible/"
+      },
+      "https://quedigital.com.ar/coronavirus-en-foco-la-busqueda-de-un-enemigo-invisible/"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Notas"
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-fn1"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "1"
+     ],
+     "  La enfermedad como disrupción de la vida cotidiana fue planteada en 1980 con la emergencia de las enfermedades crónicas y luego aplicada a la epidemia de VIH sida (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286013/html/index.html#redalyc_313286013_ref20"
+      },
+      "Hyden, 1997"
+     ],
+     ")."
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-fn2"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "2"
+     ],
+     " Según Merryl Singer y otros (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286013/html/index.html#redalyc_313286013_ref32"
+      },
+      "2012"
+     ],
+     "), “la sindemia involucra la interacción adversa de enfermedades de todo tipo (ejemplo, infecciones, enfermedades crónicas no transmisibles, problemas de salud mental, exposición a tóxicos, desnutrición) y como resultado de tal interacción se produce un incremento en la carga de enfermedad en una población” (p. 206)."
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-fn3"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "3"
+     ],
+     " La determinación social de la salud constituye un concepto de ruptura con la epidemiología clásica que articula los modos de vivir, de enfermar y de morir de los grupos sociales con las formas de reproducción social (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286013/html/index.html#redalyc_313286013_ref7"
+      },
+      "Breilh, 2013"
+     ],
+     "). La epidemiología sociocultural estudia los significados y prácticas que los grupos sociales atribuyen a sus padecimientos, problemas, sentimientos mediante métodos etnográficos (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286013/html/index.html#redalyc_313286013_ref24"
+      },
+      "Menéndez, 1998"
+     ],
+     ")."
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-fn4"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "4"
+     ],
+     " De acuerdo con Cornelius ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286013/html/index.html#redalyc_313286013_ref9"
+      },
+      "Castoriadis (2007)"
+     ],
+     ", lo imaginario social consiste en la potencia de invención o creación."
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-fn5"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "5"
+     ],
+     " La capacidad como creación psíquica, social e histórica que produce significaciones colectivas define al modo de ser de las formaciones histórico-sociales (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286013/html/index.html#redalyc_313286013_ref14"
+      },
+      "Fernández, 2016"
+     ],
+     ")."
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-fn6"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "6"
+     ],
+     " En el nivel provincial, la CICOP (Asociación Sindical de Profesionales de la Salud de la Provincia de Buenos Aires) nuclea a las y los profesionales de salud y ATE (Asociación de Trabajadores del Estado) a las otras ocupaciones (Aspiazu, Baldi & Lanari, ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286013/html/index.html#redalyc_313286013_ref4"
+      },
+      "2011"
+     ],
+     "). En el municipal, la CICOP coexiste con el Sindicato de Trabajadores Municipales. En el nacional, dos sindicatos representan a los trabajadores de salud y otros sectores: ATE y UPCN (Unión del Personal Civil de la Nación)."
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-fn7"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "7"
+     ],
+     " El trabajo vivo en acto es un concepto definido por ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286013/html/index.html#redalyc_313286013_ref27"
+      },
+      "Merhy (2021)"
+     ],
+     " desde un análisis marxista de las relaciones de producción en salud."
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-fn8"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "8"
+     ],
+     " La queja como expresión de la encerrona trágica en las instituciones de salud fue señalada por ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286013/html/index.html#redalyc_313286013_ref34"
+      },
+      "Ulloa (1995)"
+     ],
+     " desde el análisis institucional con perspectiva psicoanalítica en Argentina. En la indagación de estos procesos el mapa de los conflictos contribuye con una cartografía del deseo con potencial transformador e instituyente (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286013/html/index.html#redalyc_313286013_ref16"
+      },
+      "Franco & Merhy, 2009"
+     ],
+     ")."
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-fn9"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "9"
+     ],
+     " La idea de subjetividad como esencialmente social, vivida por los sujetos en sus existencias particulares es planteada por ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286013/html/index.html#redalyc_313286013_ref19"
+      },
+      "Guattari y Rolnik (2005)"
+     ],
+     "."
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-fn10"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "10"
+     ],
+     " Según ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286013/html/index.html#redalyc_313286013_ref17"
+      },
+      "Franco y Merhy (2011)"
+     ],
+     ", “la desterritorialización presupone agenciamientos, es decir, procesos de cambio que son conflictivos, dolorosos, permeados por idas y vueltas en las que el sujeto está todo el tiempo enfrentándose a sí mismo y al nuevo territorio que se anuncia; es algo parecido a ‘perder el suelo’, a una muerte de sí, hacia la búsqueda de otro suelo y de sí mismo bajo nuevos referenciales de vida y producción” (p. 17)."
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-fn11"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "11"
+     ],
+     " La pandemia por la covid-19 como un mayor evento sin precedentes o un evento epocal es discutida por ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286013/html/index.html#redalyc_313286013_ref28"
+      },
+      "Mudrovcic (2021)"
+     ],
+     ", siguiendo los planteos de Derrida en filosofía y Simon en historia."
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-fn12"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "12"
+     ],
+     " La Ley Silvio fue sancionada el 21 de mayo de 2020 y toma su nombre del primer trabajador de la salud argentino que murió a causa de la covid-19."
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-fn13"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "13"
+     ],
+     " Se consideran disciplinas no hegemónicas en salud aquellas definidas como subalternizadas en relación con la biomedicina (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286013/html/index.html#redalyc_313286013_ref25"
+      },
+      "Menéndez, 2003"
+     ],
+     ")."
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-fn14"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "14"
+     ],
+     " ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286013/html/index.html#redalyc_313286013_ref29"
+      },
+      "Ramacciotti (2019)"
+     ],
+     " señala que “la enfermería, junto con otras profesiones sanitarias, fueron consideradas durante mucho tiempo como ‘auxiliares’ de la medicina y, en consecuencia, subordinadas a ella” (p. 11)."
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-fn15"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "15"
+     ],
+     " Según ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286013/html/index.html#redalyc_313286013_ref30"
+      },
+      "Ramacciotti (2020)"
+     ],
+     ", “la visibilidad de las tareas solo se percibe cuando no se realizan, de lo contrario se normalizan, pierden valor y por lo tanto son pasibles de no ser remuneradas” (p. 2)."
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-fn16"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "16"
+     ],
+     " El estudio realizado por el Nodo INE/ANLIS realizó un total de 42 entrevistas."
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-fn17"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "17"
+     ],
+     " Desde la perspectiva de Byron ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286013/html/index.html#redalyc_313286013_ref18"
+      },
+      "Good (2003)"
+     ],
+     ", “la representación de los elementos ‘subjuntivizadores’ de los relatos, en los elementos ‘imaginarios’ que sugieren la indeterminación, una apertura a la posibilidad y al potencial de cambio y superación en la vida de los pacientes” (p. 267). Esta posición es compatible con la idea de ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286013/html/index.html#redalyc_313286013_ref8"
+      },
+      "Bruner (2003)"
+     ],
+     " como los elementos subversivos, transformadores del relato."
+    ],
+    "\n"
+   ],
+   "\n"
+  ],
+  "\n",
+  [
+   "span",
+   {
+    "id": "t-creditos"
+   },
+   "\n",
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-logo-izquierda"
+    },
+    "\n",
+    [
+     "figura",
+     {}
+    ]
+   ],
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-mensaje"
+    },
+    "Modelo de publicación sin fines de lucro para conservar la naturaleza académica y abierta de la comunicación científica",
+    [
+     "br",
+     {}
+    ],
+    "HTML generado a partir de XML-JATS4R"
+   ],
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-logo-derecha"
+    },
+    "\n",
+    [
+     "figura",
+     {}
+    ]
+   ],
+   "\n",
+   "\n"
+  ],
+  "\n\n\n"
+ ]
+}

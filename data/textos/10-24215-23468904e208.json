@@ -1,0 +1,2952 @@
+{
+ "version": 1,
+ "recogido": "2026-10-18T11:40:42+00:00",
+ "doi": "10.24215/23468904e208",
+ "titulo": "Revisando el capitalismo de plataformas: rentismo, vigilancia y control social",
+ "revista": "2346-8904",
+ "numero": "n33-2026",
+ "licencia": {
+  "codigo": "by-nc-sa",
+  "nombre": "CC BY-NC-SA 4.0",
+  "nombre_completo": "Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional",
+  "url": "https://creativecommons.org/licenses/by-nc-sa/4.0",
+  "url_legal": "https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.es"
+ },
+ "fuente": {
+  "url": "https://www.cuestionessociologia.fahce.unlp.edu.ar/article/download/CSe208/21639?inline=1",
+  "formato": "HTML",
+  "plataforma": "ojs-galerada",
+  "pagina": "https://www.cuestionessociologia.fahce.unlp.edu.ar/article/view/CSe208"
+ },
+ "autores_cita": [
+  {
+   "apellidos": "Jara Villarroel",
+   "nombre_pila": "Natalia",
+   "nombre": null
+  }
+ ],
+ "avisos_derechos": [
+  "Derechos de autor 2026 ",
+  "Esta obra está bajo una licencia internacional Creative Commons Atribución-NoComercial-CompartirIgual 4.0. La cesión de derechos no exclusivos implica también la autorización por parte de los autores para que el trabajo sea alojado en los repositorios institucionales UNLP (Sedici y Memoria Académica) y difundido a través de las bases de datos que los editores consideren apropiadas para su indización, con miras a incrementar la visibilidad de la revista y sus autores."
+ ],
+ "idioma_principal": "es",
+ "indice": [],
+ "vueltas": {
+  "t-redalyc_775445006_ref23": "t-llamada-redalyc_775445006_ref23-1",
+  "t-redalyc_775445006_ref27": "t-llamada-redalyc_775445006_ref27-1",
+  "t-redalyc_775445006_ref29": "t-llamada-redalyc_775445006_ref29-1",
+  "t-redalyc_775445006_ref25": "t-llamada-redalyc_775445006_ref25-1",
+  "t-redalyc_775445006_ref14": "t-llamada-redalyc_775445006_ref14-1",
+  "t-redalyc_775445006_ref28": "t-llamada-redalyc_775445006_ref28-1",
+  "t-redalyc_775445006_ref21": "t-llamada-redalyc_775445006_ref21-1",
+  "t-redalyc_775445006_ref20": "t-llamada-redalyc_775445006_ref20-1",
+  "t-redalyc_775445006_ref1": "t-llamada-redalyc_775445006_ref1-1",
+  "t-redalyc_775445006_ref26": "t-llamada-redalyc_775445006_ref26-1",
+  "t-redalyc_775445006_ref3": "t-llamada-redalyc_775445006_ref3-1",
+  "t-redalyc_775445006_ref16": "t-llamada-redalyc_775445006_ref16-1",
+  "t-redalyc_775445006_ref22": "t-llamada-redalyc_775445006_ref22-1",
+  "t-redalyc_775445006_ref15": "t-llamada-redalyc_775445006_ref15-1",
+  "t-redalyc_775445006_ref24": "t-llamada-redalyc_775445006_ref24-1",
+  "t-redalyc_775445006_ref7": "t-llamada-redalyc_775445006_ref7-1",
+  "t-redalyc_775445006_ref11": "t-llamada-redalyc_775445006_ref11-1",
+  "t-redalyc_775445006_ref9": "t-llamada-redalyc_775445006_ref9-1",
+  "t-redalyc_775445006_ref19": "t-llamada-redalyc_775445006_ref19-1",
+  "t-redalyc_775445006_ref8": "t-llamada-redalyc_775445006_ref8-1",
+  "t-redalyc_775445006_ref2": "t-llamada-redalyc_775445006_ref2-1",
+  "t-redalyc_775445006_ref4": "t-llamada-redalyc_775445006_ref4-1",
+  "t-redalyc_775445006_ref5": "t-llamada-redalyc_775445006_ref5-1",
+  "t-redalyc_775445006_ref18": "t-llamada-redalyc_775445006_ref18-1",
+  "t-redalyc_775445006_ref6": "t-llamada-redalyc_775445006_ref6-1",
+  "t-redalyc_775445006_ref17": "t-llamada-redalyc_775445006_ref17-1",
+  "t-redalyc_775445006_ref13": "t-llamada-redalyc_775445006_ref13-1",
+  "t-redalyc_775445006_ref10": "t-llamada-redalyc_775445006_ref10-1"
+ },
+ "contenido": [
+  "\n",
+  [
+   "span",
+   {
+    "id": "t-visor-cabecera"
+   },
+   "\n",
+   "\n",
+   [
+    "span",
+    {},
+    "\n",
+    [
+     "a",
+     {
+      "href": "https://www.cuestionessociologia.fahce.unlp.edu.ar/"
+     },
+     "\nCuestiones de Sociología"
+    ],
+    ", núm. 33, e208, febrero - julio 2026. ISSN 2346-8904",
+    [
+     "br",
+     {}
+    ],
+    "Universidad Nacional de La Plata",
+    [
+     "br",
+     {}
+    ],
+    "Facultad de Humanidades y Ciencias de la Educación",
+    [
+     "br",
+     {}
+    ],
+    "Departamento de Sociología"
+   ],
+   "\n",
+   "\n"
+  ],
+  "\n",
+  [
+   "span",
+   {
+    "id": "t-articulo"
+   },
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-front"
+    },
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-articulo-categoria"
+     },
+     "\n",
+     [
+      "p",
+      {},
+      "Artículos"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-articulo-meta"
+     },
+     "\n",
+     [
+      "p",
+      {},
+      "Revisando el capitalismo de plataformas: rentismo, vigilancia y control social"
+     ],
+     "\n\n"
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-articulo-acerca"
+     },
+     "\n",
+     [
+      "span",
+      {
+       "id": "t-ficha-general"
+      },
+      "\n",
+      [
+       "span",
+       {
+        "id": "t-autores-articulo"
+       },
+       "\n",
+       "\n",
+       "\n",
+       [
+        "a",
+        {
+         "href": "https://orcid.org/0000-0002-7606-6351"
+        },
+        [
+         "figura",
+         {}
+        ]
+       ],
+       "  ",
+       [
+        "span",
+        {},
+        "Natalia"
+       ],
+       " ",
+       [
+        "span",
+        {},
+        "Jara Villarroel"
+       ],
+       [
+        "br",
+        {}
+       ],
+       [
+        "span",
+        {},
+        " njaravil7@doct.ub.edu"
+       ],
+       "\n",
+       "\n",
+       "\n",
+       [
+        "span",
+        {},
+        "Universidad de Barcelona"
+       ],
+       ", ",
+       [
+        "span",
+        {},
+        "España"
+       ],
+       "\n",
+       "\n",
+       "\n"
+      ],
+      "\n",
+      [
+       "span",
+       {},
+       "Cita sugerida:"
+      ],
+      "\n",
+      [
+       "span",
+       {},
+       "Jara Villarroel, N. (2026). Revisando el capitalismo de plataformas: rentismo, vigilancia y control social. ",
+       [
+        "i",
+        {},
+        "Cuestiones de Sociología, 33"
+       ],
+       ", e208. ",
+       [
+        "a",
+        {
+         "href": "https://doi.org/10.24215/23468904e208"
+        },
+        "https://doi.org/10.24215/23468904e208"
+       ]
+      ],
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "Resumen:\n\t\t\t\t\t\t\t                           "
+       ],
+       [
+        "span",
+        {},
+        "Este artículo reflexiona sobre cómo el capitalismo de plataformas ha redefinido las dinámicas sociales y económicas al convertir las interacciones cotidianas en datos monetizables. Para ello, se examina específicamente el modo en que las plataformas digitales, mediante la datavigilancia, no solo monitorean a los usuarios, sino que también predicen sus comportamientos, transformando los datos personales en herramientas de control. Este proceso de recopilación y análisis de información genera un nuevo modelo de negocios basado en el rentismo, ya que las plataformas digitales no crean valor por sí mismas, sino que usufructúan de su rol como intermediarias en la producción y consumo de bienes y servicios. Al hacerlo, se benefician de un sistema rentista que perpetúa la dependencia tecnológica y convierte las experiencias sociales en mercancía. Esto también reconfigura el tiempo de ocio en tiempo de trabajo a través del prosumo, desdibujando las fronteras entre ambas esferas. El estudio destaca la urgencia de repensar las relaciones entre tecnología y sociedad, y busca aportar al estado del arte en la comprensión del paisaje digital y su impacto en las prácticas cotidianas y la privacidad."
+       ],
+       "\n"
+      ],
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "Palabras clave: "
+       ],
+       "Plataformas digitales, Capitalismo de plataformas, Datavigilancia, Control social, Rentismo.\n\t\t                         "
+      ],
+      [
+       "p",
+       {
+        "lang": "en"
+       },
+       [
+        "span",
+        {},
+        "Revisiting Platform Capitalism: Rent-seeking, Surveillance, and Social Control"
+       ]
+      ],
+      "\n",
+      [
+       "p",
+       {
+        "lang": "en"
+       },
+       "\n",
+       [
+        "span",
+        {},
+        "Abstract:\n\t\t\t\t\t\t                           "
+       ],
+       [
+        "span",
+        {},
+        "This article reflects on how platform capitalism has redefined social and economic dynamics by turning everyday interactions into monetizable data. To this end, it specifically examines how digital platforms, through dataveillance, not only monitor users but also predict their behaviors, transforming personal data into tools of control. This process of data collection and analysis generates a new business model based on rent-seeking, as digital platforms do not create value per se, but rather profit from their role as essential intermediaries in the production and consumption of goods and services. In doing so, they benefit from a rentier system that perpetuates technological dependency and commodifies social experiences. This also reconfigures leisure time into work time through prosumption, blurring the traditional boundaries between these two spheres. The study underscores the urgency of rethinking the relationships between technology and society, aiming to contribute to the state of the art in understanding the digital landscape and its impact on everyday practices and privacy."
+       ],
+       "\n"
+      ],
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "Keywords: "
+       ],
+       "Digital Platforms, Platform Capitalism, Dataveillance, Social Control, Rent-seeking.\n                                "
+      ],
+      "\n"
+     ],
+     "\n"
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-articulo-body"
+    },
+    "\n",
+    [
+     "p",
+     {},
+     "\n",
+     [
+      "span",
+      {},
+      "1. Introducción"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "El capitalismo de plataformas ha sido el motor detrás de la revolución digital actual, marcada por el avance de las Tecnologías de la Información y la Comunicación (TIC). Estas plataformas han facilitado la masificación de dispositivos conectados a internet, expandiendo su alcance global. Según la International Telecommunication Union (ITU, 2023), actualmente más del 68 % de la población mundial tiene acceso a internet, con tasas de penetración que superan el 95 % en regiones como Europa, América y la Comunidad de Estados Independientes. Si bien persiste una brecha digital entre países y regiones, tanto la calidad de la conectividad como la cantidad de personas usuarias continúan en aumento. Este crecimiento sostenido se vincula directamente con la expansión de las plataformas digitales, que aprovechan la infraestructura de redes para consolidar el poder de los gigantes tecnológicos en la economía global. La continua ampliación de la banda ancha fija y móvil refuerza esta tendencia, posicionando a las plataformas como actores centrales en la creación de nuevos mercados y en la concentración de datos a escala planetaria."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Lo anterior supone un giro hacia un “capitalismo digital” o “capitalismo de plataformas” (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445006_ref23",
+       "id": "t-llamada-redalyc_775445006_ref23-1"
+      },
+      "Srnicek, 2018"
+     ],
+     "), cuya materia prima son los datos (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445006_ref27",
+       "id": "t-llamada-redalyc_775445006_ref27-1"
+      },
+      "Van Dijck, 2014"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445006_ref23",
+       "id": "t-llamada-redalyc_775445006_ref23-2"
+      },
+      "Srnicek, 2018"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445006_ref29",
+       "id": "t-llamada-redalyc_775445006_ref29-1"
+      },
+      "Zuboff, 2020"
+     ],
+     "), y donde las y los usuarios son su fuente natural. Frente al declive de la producción industrial, el capitalismo de plataformas busca reactivar la economía a través de la extracción y procesamiento de los datos de millones de usuarios y usuarias de diferentes lugares del mundo."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Para ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445006_ref23",
+       "id": "t-llamada-redalyc_775445006_ref23-3"
+      },
+      "Srnicek (2018)"
+     ],
+     ", el desarrollo histórico de este capitalismo digital deviene de las tres últimas grandes crisis macroeconómicas que cruzan la tecnología con las transformaciones capital-trabajo: la recesión de la década de 1970, la crisis de las “puntocom” de la década de 1990 y la crisis financiera de 2008: La crisis de los 70’ permitió la reestructuración de la economía y del trabajo, prevaleciendo la economía financiera en desmedro de la productiva y debilitando el sindicalismo y el empleo estable respectivamente. Por su parte, el ",
+     [
+      "span",
+      {},
+      "boom "
+     ],
+     "de las “puntocom” conllevó la implementación de una política monetaria laxa e impulsó una fuga de los grandes capitales hacia paraísos fiscales para resguardarlos. Por último, la crisis de 2008 propició la tendencia del keynesianismo financiero para salvaguardar el capital y junto con el establecimiento de medidas de austeridad gubernamentales para paliar la deuda pública, configuraron la política económica que prima hasta hoy en día. Todas estas crisis, posibilitaron el desarrollo de la economía de plataformas, que ha sido la manera que encontró el capitalismo, en sus constantes mutaciones, de continuar con sus procesos de acumulación."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445006_ref25",
+       "id": "t-llamada-redalyc_775445006_ref25-1"
+      },
+      "Törnberg (2023)"
+     ],
+     " concuerda con Srnicek, advirtiendo que la digitalización emergió como parte de las macrotendencias de reorganización capitalista, proporcionando la infraestructura para el sistema financiero global mediante datos y algoritmos que permiten la financiarización de nuevos aspectos sociales. Tras la crisis de 2008, surgió el modelo de negocio de las plataformas propiamente tal, que privatiza y regula mercados a través de tecnología digital, marcando una transformación fundamental del capitalismo. Este modelo combina tendencias posfordistas como la privatización, la financiarización y el uso del código digital para moldear instituciones sociales. Así, el capitalismo digital se entrelaza profundamente con la financiarización, dando lugar a nuevas formas de acumulación que transforman datos, interacciones y servicios cotidianos en fuentes de rentabilidad, al tiempo que reconfiguran las relaciones sociales bajo lógicas de especulación y vigilancia algorítmica."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Además de las crisis económicas mencionadas, la crisis producida por la pandemia de COVID-19 en 2020 terminó de consolidar el capitalismo de plataformas. Además de demostrar la fragilidad de los sistemas de seguridad social, mermado por las políticas de austeridad implementadas con especial fuerza desde la crisis del 2008, y poner en evidencia la desprotección del trabajo no cualificado; la crisis sanitaria comprobó la solidez de las redes tecnológicas y la rapidez con que fueron asumidas tanto para la continuidad laboral, como para la continuidad educativa y de la vida social, donde los espacios tradicionales de socialización fueron reemplazados por las redes sociales digitales (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445006_ref14",
+       "id": "t-llamada-redalyc_775445006_ref14-1"
+      },
+      "Jiménez y Rendueles, 2020"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445006_ref28",
+       "id": "t-llamada-redalyc_775445006_ref28-1"
+      },
+      "Walton y Nayak, 2021"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445006_ref21",
+       "id": "t-llamada-redalyc_775445006_ref21-1"
+      },
+      "Sánchez et al., 2022"
+     ],
+     ")."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "De esta forma, la colonización digital de la vida cotidiana se ha vuelto un hecho indiscutible (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445006_ref20",
+       "id": "t-llamada-redalyc_775445006_ref20-1"
+      },
+      "Sadowski, 2020"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445006_ref14",
+       "id": "t-llamada-redalyc_775445006_ref14-2"
+      },
+      "Jiménez y Rendueles, 2020"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445006_ref1",
+       "id": "t-llamada-redalyc_775445006_ref1-1"
+      },
+      "Barba del Horno, 2021"
+     ],
+     "), ya que la dependencia hacia las plataformas abarca cada vez más ámbitos de la realidad social. Si hace 20 años internet se utilizaba fundamentalmente para buscar información, comunicarse, y hacer intercambios comerciales, hoy en día las plataformas digitales han permeado en casi todos los espacios sociales y personales, sin contar la irrupción de los dispositivos “",
+     [
+      "span",
+      {},
+      "smart"
+     ],
+     "” que automatizan todo objeto de uso diario. El problema de esto, es que nos encontramos bajo vigilancia permanente gracias a la recolección de los datos que cedemos a las grandes corporaciones tecnológicas y que son mercantilizados por los corredores de datos o ",
+     [
+      "span",
+      {},
+      "data brokers"
+     ],
+     " (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445006_ref26",
+       "id": "t-llamada-redalyc_775445006_ref26-1"
+      },
+      "Urbano, 2022"
+     ],
+     "), financiarizando la vida privada y social, con un eficiente modelo que reduce los costes de transacción a través del rentismo."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "A partir de lo anterior, este artículo se plantea como una reconstrucción del estado del arte que ofrece una lectura crítica y sistematizada de los principales enfoques teóricos sobre la emergencia de las plataformas digitales y su papel en la redefinición de las dinámicas económicas y sociales del capitalismo contemporáneo. El análisis se centra especialmente en prácticas como la datavigilancia, la predicción del comportamiento de las y los usuarios, y la generación de valor a través de la comodificación de la información extraída. En este marco, no se propone una aproximación empírica, sino un ejercicio analítico orientado a delimitar y clarificar el campo conceptual en el que se inscribe el debate académico actual."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Para ello, en el primer apartado se repasan los conceptos clave relacionados con las plataformas digitales, los algoritmos y el manejo de datos, buscando clarificar cómo estos elementos interactúan y forman la base del funcionamiento del capitalismo digital. El segundo apartado, explora las implicaciones de la vigilancia de datos en la sociedad contemporánea, centrándose en cómo los datos recopilados se utilizan para la predicción del comportamiento de las y los usuarios y el control de sus acciones. Y, por último, se examina la forma en que las plataformas digitales se benefician gracias a su carácter rentista, creado un nuevo modelo económico que combina monopolio y dependencia tecnológica, transformando el tiempo de ocio en trabajo y convirtiendo a las y los prosumidores en fuentes de rentismo."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n",
+     [
+      "span",
+      {},
+      "2. Definiciones básicas: plataformas, algoritmos y datos"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Un enfoque simple para entender lo que son las plataformas digitales es visualizarlas como intermediarias de comunicación entre dos o más agentes: intermediarias entre consumidores y proveedores de bienes, productos o servicios (físicos o digitales), o intermediarias entre diferentes usuarias y usuarios que actúan como prosumidores, es decir como productores o proveedores y consumidores al mismo tiempo. Estas plataformas pueden ser móviles (aplicaciones o ",
+     [
+      "span",
+      {},
+      "apps"
+     ],
+     " de teléfonos móviles o ",
+     [
+      "span",
+      {},
+      "tablets)"
+     ],
+     " y/o sitios web a los que se ingresa a través de los diversos navegadores de internet. De acuerdo con este enfoque, el nivel de intermediación es variable, ya que mientras algunas operan como intermediarios “puros”, es decir solamente como medio entre consumidores y proveedores, como LinkedIn o InfoJobs, que sólo integran la oferta y demanda laboral que existen en el mercado sin incidir en los salarios o en las condiciones laborales ofrecidas por las empresas; otras plataformas intervienen en los servicios prestados por los proveedores, por ejemplo, aplicaciones como Uber o Cabify determinan el precio por los trayectos o las ganancias de las y los trabajadores."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "La crítica hacia este enfoque radica en que simplifica demasiado el funcionamiento real de las plataformas digitales, ya que toma como elemento central solo una característica de estas aplicaciones, obviando cuestiones fundamentales de su diseño. Como señala ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445006_ref23",
+       "id": "t-llamada-redalyc_775445006_ref23-4"
+      },
+      "Srnicek (2018)"
+     ],
+     ", una plataforma digital es la infraestructura digital que posibilita la interacción necesaria entre usuarios y usuarias de diversos lugares para la extracción de datos, para lo cual dependen del “efecto red”, es decir la necesidad de contar con una gran cantidad de usuarios para operar y requiere de utilización de algoritmos para definir las reglas de interacción y gestionar la recolección y el procesamiento de la información."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "En términos simples, un algoritmo es un conjunto finito de instrucciones bien definidas y no ambiguas que se utilizan para resolver un problema específico o realizar una tarea determinada, permitiendo la automatización de procesos y la toma de decisiones mediante la ejecución secuencial de operaciones (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445006_ref3",
+       "id": "t-llamada-redalyc_775445006_ref3-1"
+      },
+      "Beunza y Puertas, 2020"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445006_ref16",
+       "id": "t-llamada-redalyc_775445006_ref16-1"
+      },
+      "Mallamaci et al., 2020"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445006_ref22",
+       "id": "t-llamada-redalyc_775445006_ref22-1"
+      },
+      "Scasserra y Martínez, 2021"
+     ],
+     "). Los algoritmos pueden ser diseñados para una amplia gama de tareas, como clasificación, búsqueda, análisis, cálculos matemáticos, entre otros, y el proceso puede implicar una serie de pasos que se ejecutan secuencialmente o puede ser más complejo, involucrando decisiones condicionales, bucles y otros conceptos de programación, cuyo fin último es la obtención y el procesamiento de datos. En esencia, el tratamiento de datos con algoritmos implica tomar datos brutos, aplicar reglas y operaciones específicas, y generar datos de salida útiles o información procesada."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "A su vez, los algoritmos son programados para el aprendizaje automático o ",
+     [
+      "span",
+      {},
+      "machine learning"
+     ],
+     ", un campo de la inteligencia artificial (IA) que se centra en el desarrollo de algoritmos y técnicas que permiten a las tecnologías digitales aprender a partir de datos y realizar tareas específicas sin ser programadas explícitamente para cada tarea, e incluye distintos enfoques, aunque los más comunes son tres (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445006_ref3",
+       "id": "t-llamada-redalyc_775445006_ref3-2"
+      },
+      "Beunza y Puertas, 2020, pp. 35-39"
+     ],
+     "): el aprendizaje supervisado, donde el algoritmo utiliza datos etiquetados para aprender a predecir etiquetas correspondientes en nuevos datos, aplicando tareas de clasificación o regresión, como los usados por YouTube para analiza el comportamiento de visualización de las y los usuarios para recomendar videos relevantes, o el SMV (",
+     [
+      "span",
+      {},
+      "Support Vector Machine"
+     ],
+     " o Máquinas de Vectores de Soporte) utilizado por Facebook para etiquetar contenido. También está el aprendizaje no supervisado, donde el algoritmo se enfrenta a un conjunto de datos no etiquetados y debe encontrar patrones o estructuras interesantes dentro de los datos por sí mismo, usado, por ejemplo, por Uber para analizar datos de viajes y patrones de tráfico, así como para segmentar y clasificar tanto a conductores como a pasajeros y pasajeras en la ",
+     [
+      "span",
+      {},
+      "app"
+     ],
+     ". O el aprendizaje por refuerzo, donde el algoritmo aprende gracias a la interacción con el entorno, tomando toma decisiones secuenciales y recibiendo retroalimentación en forma de recompensas o penalizaciones según sus acciones, utilizado por algunas IA como DeepSeek."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "El “efecto red”, es decir la necesidad de una mayor cantidad de ",
+     [
+      "span",
+      {},
+      "users"
+     ],
+     " y por tanto de datos (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445006_ref23",
+       "id": "t-llamada-redalyc_775445006_ref23-5"
+      },
+      "Srnicek, 2018"
+     ],
+     "), posibilita el despliegue de nuevas y mejores capacidades algorítmicas que fortalecen el ",
+     [
+      "span",
+      {},
+      "deep learning"
+     ],
+     ", permitiendo procesar inmensos volúmenes de información con una rapidez cada vez mayor (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445006_ref16",
+       "id": "t-llamada-redalyc_775445006_ref16-2"
+      },
+      "Mallamaci et al., 2020"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445006_ref28",
+       "id": "t-llamada-redalyc_775445006_ref28-2"
+      },
+      "Walton y Nayak, 2021"
+     ],
+     "). Así, el aprendizaje automático utiliza una serie de algoritmos que deben ser entendidos como un músculo: mientras más se ejercita (más datos obtiene y más se “trabajan”) mayor es su tamaño y su fuerza (mayor es su capacidad algorítmica)."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Por su parte, los datos son unidades de información que describen algo concreto, ya sea una persona, un objeto, un hecho o cualquier otra cosa. Pueden ser números, palabras, imágenes, sonidos, símbolos, etc. Los datos por sí solos no tienen significado intrínseco, pero cuando se procesan y se les da contexto, se convierten en información que puede ser útil para tomar decisiones, realizar análisis o entender mejor el mundo que nos rodea. Los datos requeridos por las plataformas son diversos, pudiendo ser datos sobre patrones de movilidad urbana, densidad del tránsito, uso del transporte público o comportamiento peatonal, fundamentales para plataformas como Google Maps o Waze; así como datos sobre hábitos de consumo digital, interacciones en redes sociales, historial de navegación o preferencias audiovisuales, esenciales para empresas como Netflix, Spotify o Meta, que personalizan sus servicios en función del comportamiento del usuario."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "En esencia, los datos son la información que provee la huella o el rastro digital que deja cada acción que realizamos a través de las plataformas digitales (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445006_ref27",
+       "id": "t-llamada-redalyc_775445006_ref27-2"
+      },
+      "Van Dijck, 2014"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445006_ref16",
+       "id": "t-llamada-redalyc_775445006_ref16-3"
+      },
+      "Mallamaci et al., 2020"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445006_ref22",
+       "id": "t-llamada-redalyc_775445006_ref22-2"
+      },
+      "Scasserra y Martínez, 2021"
+     ],
+     ")., desde información personal (como nombre, sexo, ubicación, fecha de nacimiento, ocupación, etc.) o nuestra apariencia física (a través de fotografías o vídeos), etc., hasta datos más sutiles como preferencias literarias, musicales, artísticas, tendencias políticas y valóricas, o pasatiempos."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Como explica ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445006_ref26",
+       "id": "t-llamada-redalyc_775445006_ref26-2"
+      },
+      "Urbano (2022, p. 5)"
+     ],
+     ", los datos se recopilan de varias formas, como por ejemplo a través de la información que las y los usuarios proporcionan al usar aplicaciones, al registrarse en una plataforma o al comprar en el comercio electrónico; mediante la aceptación de ",
+     [
+      "span",
+      {},
+      "cookies"
+     ],
+     " que rastrean la actividad en línea; con Software Development Kits (SDKs  o Kits de Desarrollo de Software), que son un conjunto de herramientas y códigos que los desarrolladores integran en sus aplicaciones para añadir funciones específicas, como la recopilación de datos; por terceros, como proveedores de servicios o grandes plataformas que colaboran con corredores de datos; y también a partir de registros públicos, como certificados de nacimiento, licencias de conducir o censos. O por medio de técnicas automatizadas, como el ",
+     [
+      "span",
+      {},
+      "web scraping"
+     ],
+     " y el ",
+     [
+      "span",
+      {},
+      "data crawling"
+     ],
+     ", que recogen información de sitios web y otras fuentes, facilitando la explotación y el análisis de estos datos para diversos fines. Además, una gran parte de estos datos provienen de lo que se denomina ",
+     [
+      "span",
+      {},
+      "data exhaust "
+     ],
+     "o datos residuales, es decir, la información residual generada de manera involuntaria por las interacciones cotidianas de las y los usuarios con plataformas digitales, como por ejemplo los metadatos de los correos electrónicos que proporcionan dirección IP, dispositivos usados, fecha y hora exacta de las interacciones, etc., o el historial de buscadores como Google o Bing (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445006_ref15",
+       "id": "t-llamada-redalyc_775445006_ref15-1"
+      },
+      "Lyon, 2018"
+     ],
+     ")."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Todos estos datos son entregados por millones de usuarios y usuarias de distintos lugares del planeta a diferentes plataformas digitales, las cuales los obtienen y los procesan, o bien los venden en bruto a otras empresas para su procesamiento (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445006_ref24",
+       "id": "t-llamada-redalyc_775445006_ref24-1"
+      },
+      "Srnicek, 2020"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445006_ref29",
+       "id": "t-llamada-redalyc_775445006_ref29-2"
+      },
+      "Zuboff, 2020"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445006_ref7",
+       "id": "t-llamada-redalyc_775445006_ref7-1"
+      },
+      "Durand, 2021"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445006_ref11",
+       "id": "t-llamada-redalyc_775445006_ref11-1"
+      },
+      "Hualde, 2024"
+     ],
+     "). En general, son las grandes corporaciones tecnológicas las que obtienen, contextualizan y venden estos datos ya procesados con la promesa de publicidad dirigida y particularizada para cada individuo (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445006_ref24",
+       "id": "t-llamada-redalyc_775445006_ref24-2"
+      },
+      "Srnicek, 2020"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445006_ref29",
+       "id": "t-llamada-redalyc_775445006_ref29-3"
+      },
+      "Zuboff, 2020"
+     ],
+     "). Esto es gracias a lo que se denomina “excedente conductual” (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445006_ref29",
+       "id": "t-llamada-redalyc_775445006_ref29-4"
+      },
+      "Zuboff, 2020"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445006_ref22",
+       "id": "t-llamada-redalyc_775445006_ref22-3"
+      },
+      "Scasserra y Martínez, 2021"
+     ],
+     "), el caché o la huella digital que permite que los algoritmos nos ofrezcan de antemano lo que buscamos."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "La datificación, es decir el proceso de transformar diversas actividades, procesos y fenómenos humanos y sociales en datos digitales para su posterior análisis y utilización mercantil, se ha transformado en el fin último de las empresas tecnológicas. De acuerdo con ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445006_ref27",
+       "id": "t-llamada-redalyc_775445006_ref27-3"
+      },
+      "Van Dijck (2014)"
+     ],
+     ", la obnubilación por los datos permitió el surgimiento del dataísmo, ideología que sugiere que los datos y su análisis son la clave para comprender el mundo y tomar decisiones. Esta idea postula que los datos pueden proporcionar conocimientos profundos sobre prácticamente cualquier cosa, desde el comportamiento humano hasta los sistemas naturales y las dinámicas sociales. Según el dataísmo, los datos y los metadatos son la nueva moneda y la tecnología para recopilar, analizar y utilizar datos es fundamental para el progreso humano, siendo las plataformas sus facilitadores."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n",
+     [
+      "span",
+      {},
+      "3. Datavigilancia, predicción y control"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Wouter Weerkamp y Maarten de Rijke, dos investigadores reconocidos en el campo de la recuperación de información y la minería de datos, señalaron: “No nos interesan las actividades actuales o pasadas de las personas, sino sus planes futuros. Proponemos la tarea de predicción de actividad, que gira en torno a tratar de establecer un conjunto de actividades que probablemente sean populares en un momento posterior” (cit. por ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445006_ref27",
+       "id": "t-llamada-redalyc_775445006_ref27-4"
+      },
+      "Van Dijck, 2014"
+     ],
+     ", p. 200). En efecto, en esta etapa el capitalismo digital busca conocer y predecir el comportamiento humano como consumidores, la conducta como trabajadores y trabajadoras, y en el futuro las preferencias y comportamiento en tanto ciudadanos y ciudadanas (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445006_ref22",
+       "id": "t-llamada-redalyc_775445006_ref22-4"
+      },
+      "Scasserra y Martínez, 2021, p. 4"
+     ],
+     ")."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "En este contexto, es muy usual citar a George Orwell con su obra ",
+     [
+      "span",
+      {},
+      "1984"
+     ],
+     " para referirse al estado de vigilancia total. Sin embargo, en la actualidad, el Estado en este aspecto va muy por detrás de las grandes corporaciones privadas (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445006_ref15",
+       "id": "t-llamada-redalyc_775445006_ref15-2"
+      },
+      "Lyon, 2018"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445006_ref11",
+       "id": "t-llamada-redalyc_775445006_ref11-2"
+      },
+      "Hualde, 2024"
+     ],
+     "), por lo que la vigilancia del presente puede existir porque cedemos nuestros datos (incluso datos íntimos, como nuestro estado de salud, preferencias sexuales, o datos biométricos) a empresas privadas que luego los proporcionan (venden o intercambian) a agencias de seguridad o administraciones gubernamentales, convirtiéndose el ",
+     [
+      "span",
+      {},
+      "Big Brother"
+     ],
+     " en el ",
+     [
+      "span",
+      {},
+      "Big Data"
+     ],
+     " (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445006_ref9",
+       "id": "t-llamada-redalyc_775445006_ref9-1"
+      },
+      "Han, 2014"
+     ],
+     "). Como reflexiona ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445006_ref19",
+       "id": "t-llamada-redalyc_775445006_ref19-1"
+      },
+      "Ramonet (2016)"
+     ],
+     ", esta idea de la instalación de dispositivos de espionaje como micrófonos o cámaras en hogares o en objetos personales, como se mostró tantas veces en películas de la URSS, de la RDA o de la CIA, hoy resultan obsoletas y hasta irrisorias si se compara con la magnitud de la vigilancia actual. Por esta razón, Byung-Chul ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445006_ref9",
+       "id": "t-llamada-redalyc_775445006_ref9-2"
+      },
+      "Han (2014, p. 65)"
+     ],
+     " considera que las actividades de Facebook, Google o Acxiom no se distinguen de las actividades de un servicio secreto, pues operan como un servicio secreto mediante “el fisgoneo”; la diferencia radica en que este “fisgoneo” es consentido."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "El dataísmo descansa, precisamente, en la confianza ciega que depositan personas e instituciones a estas empresas al fiarle sus datos a corporaciones que no solo son pocas, sino que también operan con opacidad en sus transacciones, pues no se sabe mucho qué tipo de datos venden y a quiénes se los entregan (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445006_ref24",
+       "id": "t-llamada-redalyc_775445006_ref24-3"
+      },
+      "Srnicek, 2020"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445006_ref26",
+       "id": "t-llamada-redalyc_775445006_ref26-3"
+      },
+      "Urbano, 2022"
+     ],
+     "). De esta forma, a diferencia de la vigilancia por parte del Estado o de un servicio secreto que se realizaba para fines específicos, la datavigilancia supone un seguimiento permanente para propósitos desconocidos y no transparentados, que penetra “en cada fibra del tejido social” (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445006_ref27",
+       "id": "t-llamada-redalyc_775445006_ref27-5"
+      },
+      "Van Dijck, 2014, p. 205"
+     ],
+     ")."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445006_ref27",
+       "id": "t-llamada-redalyc_775445006_ref27-6"
+      },
+      "Van Dijck (2014)"
+     ],
+     " insiste en que en el dataísmo y la metáfora de la minería de datos en tanto materia prima subyace una búsqueda por parte de distintas instituciones (academia, empresa, Estado) de un nuevo paradigma científico social que concibe a los datos como fuentes objetivas y magnifica su validez solo por su tamaño, y que se basa fundamentalmente en la confianza en el ",
+     [
+      "span",
+      {},
+      "Big Data"
+     ],
+     ", obviando los sesgos algorítmicos, como la elaboración de perfiles basados en estereotipos (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445006_ref22",
+       "id": "t-llamada-redalyc_775445006_ref22-5"
+      },
+      "Scasserra y Martínez, 2021"
+     ],
+     "); la hipervigilancia y un debilitado sistema de derecho a la privacidad: “La popularización de la datificación como paradigma neutral, impulsada por la creencia en el dataísmo y respaldada por guardianes institucionales de la confianza, generó gradualmente una visión de la datavigilancia como una forma ‘normal’ de monitoreo social” (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445006_ref27",
+       "id": "t-llamada-redalyc_775445006_ref27-7"
+      },
+      "Van Dijck, 2014, p. 206"
+     ],
+     ")"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Esto es lo que ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445006_ref29",
+       "id": "t-llamada-redalyc_775445006_ref29-5"
+      },
+      "Zuboff (2020)"
+     ],
+     " denomina capitalismo de vigilancia, concepto que explica cómo las grandes empresas tecnológicas utilizan el control social como forma de obtener réditos económicos a través de la obtención de datos que son proporcionados voluntariamente por las y los usuarios de todo el mundo, donde la datavigilancia continua es el costo por el uso “gratuito” de internet."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Al igual que la metáfora del ",
+     [
+      "span",
+      {},
+      "Big Brother"
+     ],
+     ", es muy recurrente la idea del panóptico de Bentham que usa ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445006_ref8",
+       "id": "t-llamada-redalyc_775445006_ref8-1"
+      },
+      "Foucault (2002)"
+     ],
+     " en ",
+     [
+      "span",
+      {},
+      "Vigilar y castigar"
+     ],
+     " para referirse a este estado de vigilancia continua dada por la digitalidad (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445006_ref9",
+       "id": "t-llamada-redalyc_775445006_ref9-3"
+      },
+      "Han, 2014"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445006_ref19",
+       "id": "t-llamada-redalyc_775445006_ref19-2"
+      },
+      "Ramonet, 2016"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445006_ref29",
+       "id": "t-llamada-redalyc_775445006_ref29-6"
+      },
+      "Zuboff, 2020"
+     ],
+     "; Mallamaci et al., 2020). Si bien el panoptismo resulta útil para comprender la autodisciplina en las sociedades modernas (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445006_ref2",
+       "id": "t-llamada-redalyc_775445006_ref2-1"
+      },
+      "Bauman y Lyon, 2013"
+     ],
+     "), esta metáfora no es del todo acertada al usarla para la comprensión de la datavigilancia (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445006_ref4",
+       "id": "t-llamada-redalyc_775445006_ref4-1"
+      },
+      "Bigo, 2009"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445006_ref2",
+       "id": "t-llamada-redalyc_775445006_ref2-2"
+      },
+      "Bauman y Lyon, 2013"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445006_ref15",
+       "id": "t-llamada-redalyc_775445006_ref15-3"
+      },
+      "Lyon, 2018"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445006_ref29",
+       "id": "t-llamada-redalyc_775445006_ref29-7"
+      },
+      "Zuboff, 2020"
+     ],
+     "). En el panóptico se observa concentración de poder y una vigilancia jerarquizada, cuando, al contrario, la vigilancia digital tiene variadas ramificaciones y es preciso comprender el control con sus ambigüedades y complejidades, y no sólo de forma vertical. Por ejemplo, al analizar las redes sociales es posible dar cuenta de que efectivamente existe un control de datos jerarquizado desde las plataformas digitales, pero además se cruzan con otros fenómenos como el “exhibicionismo” y el “voyerismo” por parte de los propios usuarios y usuarias, que generan formas laterales de vigilancia y de control social sin los cuales las redes sociales no funcionarían (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445006_ref5",
+       "id": "t-llamada-redalyc_775445006_ref5-1"
+      },
+      "Brivot y Gendron, 2011"
+     ],
+     ")."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "En esta misma línea, según ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445006_ref8",
+       "id": "t-llamada-redalyc_775445006_ref8-2"
+      },
+      "Foucault (2002)"
+     ],
+     " el efecto más importante del panóptico es “inducir en el detenido un estado consciente y permanente de visibilidad que garantiza el funcionamiento automático del poder” (p. 185); es decir, la idea de un poder “omnipresente y omnisciente” que moldea la conducta humana con solo saber de su existencia, pero la vigilancia tecnológica no tiene tanto peso en el comportamiento de las personas como sí lo tiene la lógica de recompensas (",
+     [
+      "span",
+      {},
+      "likes"
+     ],
+     ", comentarios, “reposteos” o republicaciones, etc.) y sanciones (críticas, escarnios, “funas”, ",
+     [
+      "span",
+      {},
+      "ciberbullying"
+     ],
+     ", etc.) entre pares que ocupan las redes, o en otras palabras, en general moldea más la conducta el juicio social positivo o negativo de otros u otras usuarias de las redes sociales que la certeza de estar siendo espiados por sus teléfonos móviles. Así, la vigilancia actual por medio de la tecnología digital es ejecutada por un sinfín de actores con distintas agendas y con diversos objetivos de control (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445006_ref5",
+       "id": "t-llamada-redalyc_775445006_ref5-2"
+      },
+      "Brivot y Gendron, 2011"
+     ],
+     ")."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Y es que, como reflexionan ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445006_ref2",
+       "id": "t-llamada-redalyc_775445006_ref2-3"
+      },
+      "Bauman y Lyon (2013)"
+     ],
+     ", con el desarrollo de la tecnología digital se ha difuminado la frontera entre lo público y lo privado (lo que se manifiesta con el fenómeno del exhibicionismo y del voyerismo), demostrando, por un lado, la vigencia de la vieja estrategia panóptica que consiste en no saber cuándo se está siendo observado y por lo tanto sentirse constantemente observado, pero por otro lado, transformando la vieja pesadilla panóptica de pérdida de privacidad a la ilusión de inclusión y pertenencia: la pesadilla de “nunca estoy solo” a la felicidad de “nunca más voy a estar solo” (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445006_ref2",
+       "id": "t-llamada-redalyc_775445006_ref2-4"
+      },
+      "Bauman y Lyon, 2013, p. 32"
+     ],
+     "). El miedo al abandono y a la exclusión social y la ansiedad que provocan, convirtió a la vigilancia permanente en un deseo antes que una amenaza, por lo que cada persona lleva su panóptico personal expresado en un dispositivo móvil que permite el seguimiento continuo, pero ya no es un panóptico en su sentido tradicional. De esta forma, para ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445006_ref2",
+       "id": "t-llamada-redalyc_775445006_ref2-5"
+      },
+      "Bauman y Lyon (2013)"
+     ],
+     " el panóptico original sigue funcionando, pero solo en los espacios totales, como las cárceles o los psiquiátricos, el panóptico actual, o pospanóptico, no funciona con una construcción de vigilancia artificial, territorializada, sino que es extraterritorial, instantáneo, ubicuo y automatizado, expresándose de diferentes formas. Por ejemplo, los autores destacan el concepto de sinóptico, propuesto por Mathiesen, el cual invierte la lógica del panóptico: aquí son las mayorías las que observan a unos pocos a través de los medios masivos, transformando la vigilancia en un espectáculo que normaliza la exposición pública y ejerce control mediante la presión social, como sucede en los ",
+     [
+      "span",
+      {},
+      "reality shows"
+     ],
+     " o la cultura del escarnio digital."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "En contraste, el banóptico, desarrollado por Didier ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445006_ref4",
+       "id": "t-llamada-redalyc_775445006_ref4-2"
+      },
+      "Bigo (2009)"
+     ],
+     ", traslada el foco hacia la exclusión selectiva: “ban” (de donde viene ",
+     [
+      "span",
+      {},
+      "banoptismo"
+     ],
+     ") en alemán antiguo significa exclusión por arriba (el soberano que decide la excepción) y por abajo (el marginado, el migrante, el sospechoso), por lo que ya no se trata de reformar individuos a través de la disciplina como con el panoptismo, sino de filtrarlos mediante perfiles de riesgo, restringiendo movimientos y marcando quiénes son “desechables” bajo discursos de seguridad como ocurre con políticas migratorias o la marginación urbana (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445006_ref4",
+       "id": "t-llamada-redalyc_775445006_ref4-3"
+      },
+      "Bigo, 2009"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445006_ref2",
+       "id": "t-llamada-redalyc_775445006_ref2-6"
+      },
+      "Bauman y Lyon, 2013"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445006_ref15",
+       "id": "t-llamada-redalyc_775445006_ref15-4"
+      },
+      "Lyon, 2018"
+     ],
+     "). Juntos, estos conceptos revelan cómo la vigilancia ha mutado desde un mecanismo disciplinario y visible hacia formas líquidas, descentralizadas y a menudo voluntarias, donde el poder opera tanto mediante la seducción y la participación performática como mediante la exclusión violenta."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Por su parte, para Éric Sadin (2010) es importante distinguir los conceptos de control y de vigilancia. Control refiere a la capacidad de dirigir a las personas, incluso de moldear sus mentes; la vigilancia, en cambio, responde a una dimensión informativa que busca dar cuenta del cumplimiento o no del orden establecido. El seguimiento que se realiza a usuarios y usuarias por medio de las plataformas digitales no se realiza para detectar anomalías en el comportamiento, sino para elaborar complejos perfiles de las personas, de sus relaciones socioafectivas, laborales, y de su entorno en general, por lo que, según Sadin, el concepto correcto es rastreo (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445006_ref18",
+       "id": "t-llamada-redalyc_775445006_ref18-1"
+      },
+      "Quessada y Sadin, 2010, pp. 79-80"
+     ],
+     ")."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Por medio del rastreo los grandes capitales pueden conocer hasta los más mínimos detalles de las personas, no sólo sus gustos de consumo, sino también -como se ha insistido- sus percepciones políticas, sus círculos de amistades, sus estados anímicos, etc.; pero de acuerdo con ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445006_ref29",
+       "id": "t-llamada-redalyc_775445006_ref29-8"
+      },
+      "Zuboff (2020)"
+     ],
+     ", el fin de este rastreo no es sólo predecir sus comportamientos sino también inducir ciertas conductas por medio de complejos algoritmos conocidos como árboles de decisión que permiten anticipar elecciones, emociones y deseos. Es decir, para ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445006_ref29",
+       "id": "t-llamada-redalyc_775445006_ref29-9"
+      },
+      "Zuboff (2020, p. 370)"
+     ],
+     " no se trata sólo de predecir sino de controlar y ejercer lo que denomina “poder instrumentario”, que define como “la instrumentación e instrumentalización de la conducta a efectos de su modificación, predicción, monetización y control”, donde la instrumentación refiere a “la arquitectura material ubicuamente conectada de la computación sensible que transfiere, convierte, interpreta y acciona la experiencia humana”, a este dispositivo lo denomina Gran Otro (",
+     [
+      "span",
+      {},
+      "Big Other"
+     ],
+     ") y es el “títere” que vigila y absorbe con sus trillones de ojos a todos y todas; mientras que la instrumentalización “denota las relaciones sociales que orientan a los titiriteros hacia la experiencia humana cuando el capital de la vigilancia se vale de las máquinas para transformarnos en medios de los fines mercantiles de otros”, y el titiritero es este capitalismo digital. En el capitalismo de la vigilancia, entonces, “los medios de producción están al servicio de los medios de modificación conductual” (p. 369), para lo cual es preciso lograr que las predicciones se conviertan en certezas, con el fin de dirigir la conducta o controlarla en el sentido de Sadin."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "En este sentido, si la vigilancia tradicional se realiza para dar cuenta de actividades presentes, la vigilancia digital se realiza para predecir el comportamiento futuro (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445006_ref5",
+       "id": "t-llamada-redalyc_775445006_ref5-3"
+      },
+      "Brivot y Gendron, 2011"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445006_ref24",
+       "id": "t-llamada-redalyc_775445006_ref24-4"
+      },
+      "Srnicek, 2020"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445006_ref29",
+       "id": "t-llamada-redalyc_775445006_ref29-10"
+      },
+      "Zuboff, 2020"
+     ],
+     "). Con el desarrollo tecnológico y su acelerado avance esto ya es posible gracias al control algorítmico, es decir el uso de algoritmos para monitorear, regular o influir en el comportamiento humano o en sistemas automatizados, que puede manifestarse en diferentes formas, como la personalización de contenido en redes sociales, la recomendación de productos en plataformas de comercio electrónico o la vigilancia en línea. Este fenómeno se observa en los progresos de la Inteligencia Artificial y el Internet de las Cosas (IoT): Un refrigerador inteligente organiza los alimentos y sugiere dietas diarias, mientras que los ",
+     [
+      "span",
+      {},
+      "logjects"
+     ],
+     ", objetos equipados con sensores (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445006_ref15",
+       "id": "t-llamada-redalyc_775445006_ref15-5"
+      },
+      "Lyon, 2018"
+     ],
+     "), como los relojes inteligentes, monitorean datos biométricos sugiriendo metas basadas en la información del usuario (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445006_ref21",
+       "id": "t-llamada-redalyc_775445006_ref21-2"
+      },
+      "Sánchez et al., 2022"
+     ],
+     "), y los asistentes virtuales como Alexa (Amazon) o Siri (Apple), controlan hogares mediante comandos de voz, gestionan agendas y recomiendan productos según los datos proporcionados. Lo cierto es que, gracias al desarrollo tecnológico, actualmente cualquier objeto puede volverse “inteligente” y no es menor dar cuenta que si bien los actuales ",
+     [
+      "span",
+      {},
+      "logjects"
+     ],
+     " se mantienen separados del cuerpo, es bastante probable que en un futuro cercano se inserten en la piel perfeccionando el monitoreo y control (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445006_ref21",
+       "id": "t-llamada-redalyc_775445006_ref21-3"
+      },
+      "Sánchez et al., 2022, p. 256"
+     ],
+     ")."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Todo lo anterior se realiza gracias a complejos y sofisticados algoritmos que se caracterizan por su falta de transparencia. A esto ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445006_ref6",
+       "id": "t-llamada-redalyc_775445006_ref6-1"
+      },
+      "Clowes (2020, p. 17)"
+     ],
+     " lo denomina “opacidad reflexiva”, concepto que describe la dificultad de entender cómo operan los sistemas tecnológicos. Aunque estas tecnologías pueden ser transparentes en su uso, su funcionamiento interno es complejo y puede interferir en nuestra capacidad de autorregulación. Según ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445006_ref6",
+       "id": "t-llamada-redalyc_775445006_ref6-2"
+      },
+      "Clowes (2020)"
+     ],
+     ", cuando los sistemas son demasiado autónomos u opacos, es difícil regularlos conscientemente, lo que plantea la duda sobre si estas herramientas deberían considerarse ",
+     [
+      "span",
+      {},
+      "exoselfs"
+     ],
+     ", extensión externa del \"yo\" que actúa como una herramienta o sistema que apoya o complementa nuestras capacidades personales, o generar ",
+     [
+      "span",
+      {},
+      "doppelgängers"
+     ],
+     ", como una influencia externa no deseada sobre nuestra voluntad."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Así, para ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445006_ref29",
+       "id": "t-llamada-redalyc_775445006_ref29-11"
+      },
+      "Zuboff (2020)"
+     ],
+     " la fase extractiva que permite el rastreo es el comienzo de un proyecto mucho más ambicioso, que busca dar paso a una arquitectura de las máquinas que permita no solo hacer sino también conocer, combinando la “arquitectura extractiva” con la “arquitectura ejecutiva” para moldear la conducta con fines opacos e indescifrables. La modificación conductual no es, de este modo, imperativa como en 1984, sino más sutil, acorde al siglo XXI, pues debe “producir una conducta que, de un modo fiable, definitivo y libre de error, conduzca a los resultados comerciales deseados” (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445006_ref29",
+       "id": "t-llamada-redalyc_775445006_ref29-12"
+      },
+      "Zuboff, 2020, p. 216"
+     ],
+     "). En otras palabras, mientras más información obtienen, mientras más “nos conocen”, mejores son también los resultados que ofrecen y mejor es el funcionamiento de estas infraestructuras tecnológicas."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Al respecto, ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445006_ref23",
+       "id": "t-llamada-redalyc_775445006_ref23-6"
+      },
+      "Srnicek (2018)"
+     ],
+     " recalca que las plataformas no sólo extraen datos, sino que también los generan para influir en el mercado, pues al tener la capacidad de anticiparse a las necesidades y comportamientos de los consumidores, pueden ajustar precios y crear la percepción de una mayor disponibilidad de sus servicios, incluso si esa oferta es artificial, dándoles un control significativo sobre el entorno del mercado y sus interacciones con las y los usuarios (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445006_ref11",
+       "id": "t-llamada-redalyc_775445006_ref11-3"
+      },
+      "Hualde, 2024"
+     ],
+     ")."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Para resumir, con ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445006_ref29",
+       "id": "t-llamada-redalyc_775445006_ref29-13"
+      },
+      "Zuboff (2020)"
+     ],
+     " en la actualidad evidenciamos la pérdida de la vida privada por la vigilancia que ejercen las plataformas digitales a través de la acumulación de datos, pero ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445006_ref7",
+       "id": "t-llamada-redalyc_775445006_ref7-2"
+      },
+      "Durand (2021)"
+     ],
+     " es bastante crítico con esta postura, al considerarla como una visión liberal del problema que realmente se suscita relacionado con la privatización del control de lo social. Parafraseando a ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445006_ref17",
+       "id": "t-llamada-redalyc_775445006_ref17-1"
+      },
+      "Morozov (2019)"
+     ],
+     ", para el autor se observa en Zuboff una “santificación del individuo liberal frente a las derivas del capitalismo de vigilancia” (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445006_ref7",
+       "id": "t-llamada-redalyc_775445006_ref7-3"
+      },
+      "Durand, 2021, p. 144"
+     ],
+     "), y el problema se focaliza en la privacidad individual omitiendo las formas de acumulación capitalistas. En efecto, según ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445006_ref17",
+       "id": "t-llamada-redalyc_775445006_ref17-2"
+      },
+      "Morozov (2019)"
+     ],
+     " Zuboff normaliza el capitalismo propiamente tal, y no propone una ruptura con este sistema, ya que por un lado ignora las relaciones de poder estructurales, la explotación laboral y la dimensión productiva del capitalismo digital, centrando su crítica en los consumidores en lugar de en los trabajadores; y por otro lado, las soluciones presentadas por Zuboff, como un modelo corporativo más ético y respetuoso de la privacidad, no desafían las lógicas del capital."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Para ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445006_ref7",
+       "id": "t-llamada-redalyc_775445006_ref7-4"
+      },
+      "Durand (2021)"
+     ],
+     ", las plataformas digitales son una expresión del capitalismo digital, entendido como una forma de monopolización de los modos de coordinación económicos y sociales, lo que se traduce en dominación económica y política. Esta dominación se consigue con un doble movimiento: un movimiento ascendente de extracción de datos, donde los datos en sí mismos no son tan importantes como su potencia social, y un movimiento descendente donde esa potencia social retorna hacia el colectivo, pero bajo la dominación de las grandes corporaciones. “Este doble movimiento es una dominación porque la captura institucional está organizada por firmas que persiguen fines que le son propios, sin relación con aquellos que podrían darse las comunidades afectadas” (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445006_ref7",
+       "id": "t-llamada-redalyc_775445006_ref7-5"
+      },
+      "Durand, 2021, p. 148"
+     ],
+     "); es decir, es una dominación privada sobre la vida social, capaz de desplazar hasta el poder público, entiéndase del Estado o los gobiernos, o como ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445006_ref25",
+       "id": "t-llamada-redalyc_775445006_ref25-2"
+      },
+      "Törnberg (2023, p. 2)"
+     ],
+     " lo denomina: “privatización de la gobernanza a través de la economía digital”."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n",
+     [
+      "span",
+      {},
+      "4. Monopolización y rentismo en el capitalismo de plataformas"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Según ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445006_ref7",
+       "id": "t-llamada-redalyc_775445006_ref7-6"
+      },
+      "Durand (2021)"
+     ],
+     ", la promesa de un ciberespacio como un lugar horizontal y democrático, se diluye dada la tendencia monopólica de las plataformas digitales cuyo fin es el control de todo tipo de actividad humana, control que nos retrotrae a un feudalismo que se sirve de la tecnología para ejercer su función de dominación; es decir, un “tecnofeudalismo”. En la esfera económica se genera una “gleba digital”; es decir, se reproduce la dependencia con la gleba como unidad de producción: como los siervos de la gleba dependían de las tierras del señor feudal para su subsistencia económica, en la actualidad existe una dependencia con lo digital que prácticamente no tiene escapatoria, no sólo para individuos sino también para pequeñas, medianas y grandes empresas, la digitalización resulta inevitable para mantenerse en pie y para hacer crecer sus negocios."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "A su vez, las corporaciones compiten por tener el control de esos medios de coordinación desde una perspectiva monopolista, pues quien controla los procesos de digitalización controla los modos de coordinación del mercado, en una lógica de “",
+     [
+      "span",
+      {},
+      "the winner takes it all"
+     ],
+     "”. De esta manera, no se sólo se observa una dependencia con la digitalización en general, sino específicamente con ciertos productos o servicios que proveen ciertas empresas tecnológicas, por ejemplo, la dependencia que el mundo educativo tiene con Microsoft y la interfaz Office, o la necesidad de los locales comerciales de distintos rubros de georreferenciarse en Google Maps para volverse ubicables para sus posibles clientes. Esta dependencia se debe a la imposibilidad de “salirse” del ecosistema tecnológico, no por prohibición, sino porque implica altos costos, como la autoexclusión social, pero también educacional o laboral."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445006_ref20",
+       "id": "t-llamada-redalyc_775445006_ref20-2"
+      },
+      "Sadowski (2020)"
+     ],
+     " comparte la pretensión monopólica de estas empresas y por lo mismo concuerda con que sus tácticas recuerdan al feudalismo, donde las y los usuarios se equiparan a los siervos que pagan tributo a los señores de las plataformas. Sin embargo, critica la idea de que estas plataformas sean una regresión a tiempos pre-capitalistas, argumentando que son, en realidad, una evolución del capitalismo y del rentismo en la era digital. Ciertamente, todas las plataformas digitales forman parte de un modelo de negocios basado en controlar el acceso a bienes y servicios y extraer rentas por medio de ello. Al convertirse en infraestructuras cruciales para la sociedad penetrando cada espacio de la vida humana, se han transformado en intermediarios necesarios en la producción y el consumo, cobrando por cada interacción económica o social que ocurre en su entorno digital, y reduciendo los costes de transacción."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Por esta razón, el funcionamiento de las plataformas es comparable con el de los terratenientes, quienes obtienen ingresos sin crear valor directamente. Así, las plataformas son vistas como una nueva forma de rentismo, donde la propiedad y el control de activos, como datos y tecnologías, permiten capturar valor. A diferencia de los antiguos rentistas que generaban ingresos por la propiedad de tierras, estos nuevos rentistas lo hacen a través de plataformas digitales, controlando el acceso a bienes digitales y monetizando los datos de las y los usuarios como un valor en sí mismo. Este enfoque convierte las interacciones sociales y económicas en servicios ofrecidos en sus aplicaciones, como lo hace Uber con el transporte o Airbnb con el alojamiento."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "En efecto, como señala ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445006_ref25",
+       "id": "t-llamada-redalyc_775445006_ref25-3"
+      },
+      "Törnberg (2023)"
+     ],
+     ", el modelo de negocios de las plataformas se basa en empresas monopólicas que aprovechan nuevos mecanismos para reclamar el control de puntos estratégicos de acumulación, lo que les permite manipular el mercado y extraer rentas al controlar el acceso de los productores. De acuerdo con el autor, el capitalismo digital se apoya en una lógica rentista: no tanto en producir riqueza, sino en apropiarse de ella controlando el acceso a plataformas, datos y servicios estratégicos, forma que contrasta con el modelo fordista, centrado en la producción industrial y la eficiencia, y con el posfordismo, que priorizó la circulación financiera y la gestión de la riqueza existente. Esto significa que, dada la dependencia hacia la digitalidad, las empresas tecnológicas que brindan estos servicios se vuelven imprescindibles y se transforman, en el decir de ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445006_ref7",
+       "id": "t-llamada-redalyc_775445006_ref7-7"
+      },
+      "Durand (2021)"
+     ],
+     ", en los grandes controladores de los mecanismos de coordinación económicos y sociales."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "De acuerdo con ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445006_ref20",
+       "id": "t-llamada-redalyc_775445006_ref20-3"
+      },
+      "Sadowski (2020)"
+     ],
+     ", hay tres mecanismos básicos de rentismo en la economía de plataformas: a) La extracción de datos, principal fuente de la renta del capitalismo de plataformas. Como se ha insistido, los datos son la materia prima de esta nueva economía, he ahí la comparación con el petróleo. Para el autor, si bien esta analogía no es del todo correcta, lo cierto es que dado el auge de las plataformas digitales que operan en función de maximizar la extracción de datos, los servicios tecnológicos han superado a las industrias del petróleo y gas en términos de capitalización de mercado en la última década (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445006_ref20",
+       "id": "t-llamada-redalyc_775445006_ref20-4"
+      },
+      "Sadowski, 2020, p. 570"
+     ],
+     "). Sin embargo, el valor de los datos es incierto y su evaluación es compleja. Aunque las plataformas diseñan productos para extraer datos, a menudo no tienen un plan claro para monetizarlos de inmediato. Aun así, continúan invirtiendo en las multimillonarias industrias de corredores de datos (",
+     [
+      "span",
+      {},
+      "data brokers"
+     ],
+     "), actores fundamentales en su comodificación, ya que no solo los revenden, sino que crean grandes mercados de la información, fomentando la vigilancia entre diversas organizaciones y perpetuando la mercantilización de la vida privada (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445006_ref26",
+       "id": "t-llamada-redalyc_775445006_ref26-4"
+      },
+      "Urbano, 2022"
+     ],
+     "). De esta forma, las plataformas capturan rentas monetarias y de datos, y controlan tanto el acceso como la mediación de transacciones, creando así un ciclo que fortalece su poder en la economía."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "b) El cercamiento digital, se refiere a la expansión de las relaciones rentistas a través de la tecnología, mecanismo que permite a las plataformas capturar valor y mantener control sobre los objetos físicos de uso diario, integrando software y sensores en dichos objetos (como los SDKs). Estos dispositivos, que antes eran simplemente analógicos, ahora dependen de software para su funcionamiento, lo que significa que, aunque se posea el objeto físico, el software que lo controla está licenciado (no comprado), creando una relación de alquiler o ",
+     [
+      "span",
+      {},
+      "leasing"
+     ],
+     ", ya que la licencia de software permite que los fabricantes retengan control sobre el objeto incluso después de su venta. Este “cercamiento” es similar a las prácticas históricas de cercar tierras y cobrar renta por su uso, pero ahora aplicado al dominio digital."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Este fenómeno se extiende a muchos otros dispositivos conectados a Internet, desde teléfonos móviles hasta electrodomésticos, creando un sistema de vigilancia y renta en el que las y los usuarios no solo acceden a sus propios dispositivos, sino que también están sujetos a las condiciones impuestas por las licencias de software. En última instancia, este tipo de cercamiento digital amplifica el control de las plataformas sobre bienes que ya han sido comprados, creando una forma moderna de capitalismo rentista que persiste incluso en espacios y objetos que pertenecen a otros."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "c) La convergencia de capital implica, precisamente, la intersección entre capitales; en este caso, entre el capital de riesgo invertido en plataformas digitales y el capital inmobiliario invertido en propiedades físicas. A pesar de que las plataformas digitales y los bienes raíces podrían parecer sectores separados, están cada vez más interconectados. Esto se evidencia en fenómenos como el auge del llamado ",
+     [
+      "span",
+      {},
+      "PropTech"
+     ],
+     " (tecnología inmobiliaria), donde plataformas digitales median y facilitan las inversiones en bienes raíces a nivel global, haciendo que el mercado inmobiliario sea más accesible y líquido. Por un lado, estas plataformas ayudan en la compra, venta e inversión de propiedades como si fueran mercancías globales, eliminando barreras tradicionales y facilitando flujos de capital a través de ciudades y países. Empresas como Airbnb también se posicionan en esta convergencia, desafiando a hoteles tradicionales y cambiando la forma en que las propiedades se gestionan y alquilan. Por otro, las plataformas de gestión de activos inmobiliarios están diseñadas para grandes propietarios institucionales, como firmas de capital privado, que gestionan miles de propiedades. Estas plataformas automatizan tareas como la recolección de renta, mantenimiento, y desalojos, permitiendo a los propietarios maximizar la captura de valor de sus activos. En resumen, la convergencia del capital digital y el capital inmobiliario crea un sistema donde los rentistas pueden extraer valor de activos tanto físicos como digitales, consolidando su poder sobre la economía global."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Otra forma en que se expresa el rentismo de las plataformas digitales es la figura del “prosumidor”, que como es sabido es un término acuñado por Toffler, que conjuga los conceptos de productor y consumidor (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445006_ref1",
+       "id": "t-llamada-redalyc_775445006_ref1-2"
+      },
+      "Barba del Horno, 2021"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445006_ref11",
+       "id": "t-llamada-redalyc_775445006_ref11-4"
+      },
+      "Hualde, 2024"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445006_ref13",
+       "id": "t-llamada-redalyc_775445006_ref13-1"
+      },
+      "Jara, 2024"
+     ],
+     "). Ciertamente, en la economía digital las personas suelen jugar ambos roles, creando contenido y a la vez consumiéndolo, “son promotores de bienes y a la vez son los bienes que promueven. Son al mismo tiempo la mercancía y los agentes de marketing de esa mercancía, los bienes y sus transportistas” (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445006_ref2",
+       "id": "t-llamada-redalyc_775445006_ref2-7"
+      },
+      "Bauman y Lyon, 2013, p. 40"
+     ],
+     ")."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "El ",
+     [
+      "span",
+      {},
+      "prosumer"
+     ],
+     " crea valor en ambas direcciones: el contenido que millones de usuarios y usuarias cargan por cada minuto de forma gratuita a diferentes aplicaciones, permite mantener la atención y permanencia en la plataforma digital y atrae a nuevos ",
+     [
+      "span",
+      {},
+      "users"
+     ],
+     ", fomentando el efecto red y generando utilidades para las plataformas, y a su vez, el consumo de este contenido también es comodificado al transformarlo en datos y elaboración de perfiles (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445006_ref1",
+       "id": "t-llamada-redalyc_775445006_ref1-3"
+      },
+      "Barba del Horno, 2021"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445006_ref28",
+       "id": "t-llamada-redalyc_775445006_ref28-3"
+      },
+      "Walton y Nayak, 2021"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445006_ref13",
+       "id": "t-llamada-redalyc_775445006_ref13-2"
+      },
+      "Jara, 2024"
+     ],
+     "). Así, tanto las y los creadores de contenido como las y los consumidores de ese contenido están generando datos que son valiosos para estas empresas, por lo que, en lugar de generar capital a través de la inversión productiva tradicional, el capitalismo de plataformas se basa en la apropiación de ingresos y regalías derivadas del uso de información y redes. Esto indica el carácter rentista de este modelo de negocios, donde el capital se reproduce a través de la recopilación y el uso de datos (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445006_ref10",
+       "id": "t-llamada-redalyc_775445006_ref10-1"
+      },
+      "Harvey, 2014"
+     ],
+     ")."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Como ha sido reiterado, las plataformas digitales acumulan información que producen las y los propios usuarios de los distintos servicios digitales, los interpretan y luego los mercantilizan. Según ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445006_ref7",
+       "id": "t-llamada-redalyc_775445006_ref7-8"
+      },
+      "Durand (2021)"
+     ],
+     ", esto significa que las personas luego de vender su fuerza de trabajo en el mercado laboral, ceden voluntariamente sus datos a distintas plataformas digitales a las cuales acceden en sus tiempos de descanso trabajando de forma gratuita para las grandes corporaciones digitales, lo que se traduce en una nueva extracción de plusvalía. Este fenómeno transforma el tiempo de descanso en un período de producción de valor, donde las actividades que tradicionalmente se consideraban como ocio se convierten en contribuciones valiosas para las empresas tecnológicas."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "A esto se refiere ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445006_ref9",
+       "id": "t-llamada-redalyc_775445006_ref9-4"
+      },
+      "Han (2014)"
+     ],
+     " cuando señala que las nuevas tecnologías han transformado todo tiempo en tiempo de trabajo. Antes de la masificación de las plataformas digitales, existía un tiempo de no-trabajo dado por la inmovilidad de las máquinas, pero actualmente la separación entre trabajo y no-trabajo se vuelve cada más difusa, ya que hasta en los tiempos de ocio se está trabajando para las plataformas, aunque no se realice de modo consciente (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445006_ref9",
+       "id": "t-llamada-redalyc_775445006_ref9-5"
+      },
+      "Han, 2014, p. 37"
+     ],
+     "), puesto que las y los usuarios suelen estar motivados por la búsqueda de entretenimiento, conexión social o información, y no por la idea de que están generando un valor económico para las plataformas. Esta inconsciencia puede dificultar la crítica al sistema, ya que la explotación de datos ocurre en un contexto que no es inmediatamente reconocible como una forma de trabajo, lo que sucede especialmente con los datos residuales o ",
+     [
+      "span",
+      {},
+      "data exhaust"
+     ],
+     ", los cuales que emergen como un subproducto no intencionado de la interacción diaria de las personas con entornos digitales, pero que, sin embargo, son valiosos para la creación de perfiles, la publicidad dirigida y otros fines comerciales (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445006_ref15",
+       "id": "t-llamada-redalyc_775445006_ref15-6"
+      },
+      "Lyon, 2018"
+     ],
+     ")."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Además, los y las usuarias no conciben el uso de su tiempo en las plataformas digitales como trabajo, sino que ven el intercambio como un “proceso simbiótico” (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445006_ref1",
+       "id": "t-llamada-redalyc_775445006_ref1-4"
+      },
+      "Barba del Horno, 2021, p. 201"
+     ],
+     "), donde las utilidades que reciben las plataformas por los datos que se entregan, es compensado por la obtención de un servicio gratuito. Esto es lo que ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445006_ref23",
+       "id": "t-llamada-redalyc_775445006_ref23-7"
+      },
+      "Srnicek (2018)"
+     ],
+     " denomina esquema de subvenciones cruzadas; es decir, un modelo propio del sector digital donde las plataformas ofrecen servicios gratuitos para sus usuarios y usuarias a cambio de la extracción de datos y la publicidad dirigida que es financiada por las empresas propietarias del producto o servicio publicitado. Esta dinámica genera un ciclo de dependencia en el que las personas se sienten atraídas por los beneficios inmediatos que les ofrecen las plataformas, como la gratificación instantánea o el acceso a información y entretenimiento sin costo aparente. Sin embargo, esta percepción de gratuidad es engañosa, ya que el verdadero precio se paga en forma de datos personales que alimentan un modelo de negocio basado en la vigilancia y la monetización de la información. De acuerdo con ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445006_ref15",
+       "id": "t-llamada-redalyc_775445006_ref15-7"
+      },
+      "Lyon (2018)"
+     ],
+     ", esto se debe a la normalización de la vigilancia, producida por un lado por la conveniencia y comodidad de obtener recomendaciones personalizadas en cada plataforma utilizada, y por otro, debido a la hegemonía del dataísmo explicado por ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445006_ref27",
+       "id": "t-llamada-redalyc_775445006_ref27-8"
+      },
+      "Van Dijck (2014)"
+     ],
+     ", que oculta los riesgos de la datavigilancia y destaca, en cambio, la mayor eficiencia de los servicios digitales."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n",
+     [
+      "span",
+      {},
+      "5. Reflexiones finales"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "La era digital ha transformado radicalmente nuestra relación con la información, la privacidad y percepción del control social. La vigilancia y el rastreo sistemático de las y los individuos a través de la recopilación y el análisis de grandes volúmenes de datos personales que se otorgan voluntariamente a las plataformas digitales, ha dado lugar a un nuevo paradigma de control social, donde las grandes corporaciones tecnológicas operan como los nuevos guardianes que monitorean el quehacer de la población, superando incluso al Estado en términos de alcance y capacidad."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Los textos analizados han puesto de manifiesto la manera en que la vigilancia contemporánea se aleja de las formas tradicionales de control jerárquico y centralizado. En el pasado, el panóptico representaba un modelo de vigilancia donde el poder sobre las personas era ejercido desde una posición centralizada, permitiendo a un solo observador supervisar y controlar a muchos sin ser visto, creando así un estado constante de incertidumbre que promovía la autodisciplina y el conformismo entre los vigilados. En contraste, la vigilancia actual es más compleja, pues se caracteriza por la descentralización dada, por un lado, por la interacción con múltiples aplicaciones que, aunque compiten entre sí por la monopolización del control, no se excluyen mutuamente (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445006_ref28",
+       "id": "t-llamada-redalyc_775445006_ref28-4"
+      },
+      "Walton y Nayak, 2021"
+     ],
+     "), y por otro, por la participación activa de las y los usuarios en las tareas de vigilancia (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445006_ref15",
+       "id": "t-llamada-redalyc_775445006_ref15-8"
+      },
+      "Lyon, 2018"
+     ],
+     "), horizontalizando el control social (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445006_ref5",
+       "id": "t-llamada-redalyc_775445006_ref5-4"
+      },
+      "Brivot y Gendrón, 2011"
+     ],
+     "). En efecto, este nuevo panoptismo se manifiesta no solo a través de la vigilancia directa, sino también mediante un conjunto de dinámicas sociales que influyen en el comportamiento de las y los usuarios. Las redes sociales fomentan una cultura de visibilidad constante, donde la necesidad de validación social a través de ",
+     [
+      "span",
+      {},
+      "likes"
+     ],
+     " y comentarios conlleva prácticas de co-vigilancia que refuerzan el control social: las y los usuarios no solo son observados, también están constantemente siendo evaluados por sus pares, lo que afecta su comportamiento de maneras que a menudo no son evidentes."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Así, la noción de que el poder de la vigilancia tecnológica no radica únicamente en el conocimiento de la existencia del control, sino en la lógica de recompensas y sanciones sociales, tiene como consecuencia la naturalización de la supervisión social. Esta dinámica, donde la validación social puede ser más influyente que el miedo a la vigilancia (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445006_ref5",
+       "id": "t-llamada-redalyc_775445006_ref5-5"
+      },
+      "Brivot y Gendron, 2011"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445006_ref2",
+       "id": "t-llamada-redalyc_775445006_ref2-8"
+      },
+      "Bauman y Lyon, 2013"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445006_ref15",
+       "id": "t-llamada-redalyc_775445006_ref15-9"
+      },
+      "Lyon, 2018"
+     ],
+     "), plantea un nuevo desafío en la disputa por la privacidad y la autonomía personal."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "En este contexto, se invisibiliza el monitoreo que se realiza a través de las plataformas digitales. Esto se debe a la sutileza de la datavigilancia y el ",
+     [
+      "span",
+      {},
+      "data exhaust"
+     ],
+     ", que opera de manera imperceptible a través del uso de las plataformas, pero también a través de software y sensores integrados en los dispositivos inteligentes (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445006_ref15",
+       "id": "t-llamada-redalyc_775445006_ref15-10"
+      },
+      "Lyon, 2018"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445006_ref20",
+       "id": "t-llamada-redalyc_775445006_ref20-5"
+      },
+      "Sadowski, 2020"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445006_ref21",
+       "id": "t-llamada-redalyc_775445006_ref21-4"
+      },
+      "Sánchez et al., 2022"
+     ],
+     "), mercantilizando las interacciones cotidianas a través de la recopilación de importantes cantidades de datos que permiten elaborar sofisticados mapas y perfiles altamente personalizados, que cada vez abordan más ámbitos de nuestra vida. Hasta donde se sabe, el fin de esto es la posibilidad de crear publicidad dirigida e individualizada según los gustos, preferencias y características de las personas (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445006_ref23",
+       "id": "t-llamada-redalyc_775445006_ref23-8"
+      },
+      "Srnicek, 2018"
+     ],
+     "), sin embargo, parece ser que el proyecto es mucho más ambicioso y busca también moldear la conducta social (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445006_ref29",
+       "id": "t-llamada-redalyc_775445006_ref29-14"
+      },
+      "Zuboff, 2020"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445006_ref7",
+       "id": "t-llamada-redalyc_775445006_ref7-9"
+      },
+      "Durand, 2021"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445006_ref11",
+       "id": "t-llamada-redalyc_775445006_ref11-5"
+      },
+      "Hualde, 2024"
+     ],
+     ")."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "De esta forma, la evolución del capitalismo en la era digital ha generado un panorama donde las plataformas digitales juegan un papel central en la reconfiguración de las relaciones económicas y sociales. En este contexto, se observa que el ideal de un ciberespacio horizontal y democrático (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445006_ref7",
+       "id": "t-llamada-redalyc_775445006_ref7-10"
+      },
+      "Durand, 2021"
+     ],
+     ") se ha visto socavado por la tendencia monopólica de las grandes empresas tecnológicas. Este nuevo orden se articula en torno a un modelo de negocios rentista, que extrae valor mediante el control del acceso a bienes y servicios, posicionando a las plataformas como intermediarios centrales en los procesos de producción y consumo. Esta forma de proceder pone de relieve el carácter rentista del capitalismo de plataformas, en el que las empresas tecnológicas obtienen ingresos sin necesariamente generar valor añadido, principalmente a través de la captura de datos y la monetización de las interacciones que ocurren dentro de sus propios entornos digitales."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Por lo demás, como se ha insistido, no se tiene certeza quiénes usufructúan de los datos, quiénes los comercializan, cuáles datos son útiles y cuáles descartados, y con qué objetivos específicos. En este sentido, el rol de los ",
+     [
+      "span",
+      {},
+      "data brokers"
+     ],
+     " complejiza el monitoreo social (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445006_ref26",
+       "id": "t-llamada-redalyc_775445006_ref26-5"
+      },
+      "Urbano, 2022"
+     ],
+     "), ya que se ramifica en muchos tipos de entidades con agendas poco transparentes, lo que refuerza la “asimetría de privacidad”, donde los usuarios y las usuarias permanecen ignorantes sobre cómo se recopilan y utilizan sus datos, y donde incluso las iniciativas que promueven el empoderamiento del consumidor o consumidora han demostrado ser ineficaces en un entorno dominado por la vigilancia comercial, entre otras cosas por lo que se conoce como “paradoja de la privacidad”, que advierte que aunque muchas personas muestren preocupación por su privacidad, no actúan de forma coherente con dicha preocupación (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445006_ref15",
+       "id": "t-llamada-redalyc_775445006_ref15-11"
+      },
+      "Lyon, 2018"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445006_ref26",
+       "id": "t-llamada-redalyc_775445006_ref26-6"
+      },
+      "Urbano, 2022"
+     ],
+     "). Las plataformas, por su parte, tampoco cooperan en este proceso, por ejemplo, el Reglamento General de Protección de Datos de la Unión Europea, obliga a plataformas y sitios web a informar a las y los usuarios del uso de datos y dar la posibilidad de aceptar o rechazar las ",
+     [
+      "span",
+      {},
+      "cookies"
+     ],
+     ", no obstante, las aplicaciones suelen mostrar ",
+     [
+      "span",
+      {},
+      "banners"
+     ],
+     " con largos textos de difícil comprensión y con decenas de casillas que deben ser marcadas una por una, generando en las personas “fatiga de información”, lo que les impulsa a aceptar todo sin mayor cuestionamiento."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "No obstante, no se debe subestimar la capacidad de agencia y resistencia de las personas, tal como lo muestra David ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445006_ref15",
+       "id": "t-llamada-redalyc_775445006_ref15-12"
+      },
+      "Lyon (2018)"
+     ],
+     ", quien, a partir del marco teórico de Raymond Williams, analiza cómo las culturas digitalizadas contemporáneas se estructuran en torno a formas dominantes, emergentes y residuales. La cultura dominante está marcada por el papel central de las plataformas digitales en la economía y la vida cotidiana, consolidando un modelo de vigilancia basado en la recolección de datos. Sin embargo, emergen prácticas de resistencia -particularmente entre los y las jóvenes- que buscan evadir o transformar estos sistemas, lo que evidencia tensiones culturales latentes. Asimismo, persisten formas culturales residuales, reacias a las nuevas tecnologías, que optan por la comunicación cara a cara que, lejos de ser meramente nostálgicas, proponen alternativas críticas al dominio tecnológico, por lo que para ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445006_ref15",
+       "id": "t-llamada-redalyc_775445006_ref15-13"
+      },
+      "Lyon (2018)"
+     ],
+     " el futuro digital no es inevitablemente distópico, ya que las culturas están en constante transformación y abiertas a nuevas posibilidades democráticas."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "La estructura del capitalismo de plataformas, sustentada en el control, la explotación de datos y la transformación del ocio en trabajo invisible y no compensado, invita a la reflexión crítica sobre las implicaciones de estas prácticas que permean prácticamente todas las esferas de nuestra realidad social. Ciertamente, la datavigilancia y la monopolización del control social, presentan un desafío significativo para nuestra sociedad contemporánea, donde la necesidad de una mayor regulación y alternativas cooperativas resultan evidentes para buscar un equilibrio que permita a la ciudadanía a recuperar el control sobre sus datos y su participación en un sistema que, por su propia naturaleza, tiende a perpetuar la desigualdad."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "A medida que nos adentramos en un futuro cada vez más interconectado, es esencial forjar una comprensión crítica de cómo estos fenómenos afectan nuestra vida diaria, nuestras relaciones sociales y nuestro sentido de privacidad y autonomía, tanto a nivel individual como comunitario, para buscar alternativas que no impliquen la autoexclusión del desarrollo tecnológico y del disfrute de sus avances."
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-back"
+    },
+    "\n",
+    [
+     "p",
+     {},
+     "\n",
+     [
+      "span",
+      {},
+      "Referencias"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445006_ref1"
+     },
+     "Barba del Horno, M. (2021). Prosumo, alienación y explotación. Reflexiones en torno al trabajo digital. ",
+     [
+      "span",
+      {},
+      "Lan Harre-manak"
+     ],
+     ", 45, 184-207. ",
+     [
+      "a",
+      {
+       "href": "https://doi.org/10.1387/lan-harremanak.22812"
+      },
+      "https://doi.org/10.1387/lan-harremanak.22812"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445006_ref2"
+     },
+     "Bauman, Z. y Lyon, D. (2013). ",
+     [
+      "span",
+      {},
+      "Vigilancia líquida"
+     ],
+     ". Paidós."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445006_ref3"
+     },
+     "Beunza, J. y Puertas, E. (2020). Tipos de algoritmos. En J. Beunza, E. Puertas y E. Condés, ",
+     [
+      "span",
+      {},
+      "Manual práctico de Inteligencia Artificial en entornos sanitarios"
+     ],
+     " (pp. 35-39). Elsevier."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445006_ref4",
+      "lang": "fr"
+     },
+     "Bigo, D. (2009). Du panoptisme au Ban-optisme. Les micros logiques du contrôle dans la mondialisation. En P. A. Chardel y G. Rockhill (Dirs.). ",
+     [
+      "span",
+      {},
+      "Technologies de contrôle dans la mondialisation : enjeux politiques, éthiques et esthétiques"
+     ],
+     " (pp. 59-80). Editions Kimé."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445006_ref5",
+      "lang": "en"
+     },
+     "Brivot, M. y Gendron, Y. (2011). Beyond panopticism: On the ramifications of surveillance in a contemporary profesional setting. ",
+     [
+      "span",
+      {},
+      "Accounting, Organizations and Society"
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      "36"
+     ],
+     "(3), 135-155, ",
+     [
+      "a",
+      {
+       "href": "https://doi.org/10.1016/j.aos.2011.03.003"
+      },
+      "https://doi.org/10.1016/j.aos.2011.03.003"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445006_ref6",
+      "lang": "en"
+     },
+     "Clowes, R. (2020). The Internet extended person: Exoself or doppelganger? ",
+     [
+      "span",
+      {},
+      "Límite. Revista Interdisciplinaria de Filosofía y Psicología"
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      "15"
+     ],
+     "(22), 1-23."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445006_ref7"
+     },
+     "Durand, C. (2021). ",
+     [
+      "span",
+      {},
+      "Tecnofeudalismo: Crítica de la economía digital"
+     ],
+     ". La Cebra-Kaxilda."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445006_ref8"
+     },
+     "Foucault, M. (2002). ",
+     [
+      "span",
+      {},
+      "Vigilar y castigar: Nacimiento de la prisión"
+     ],
+     ". Siglo XXI Editores."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445006_ref9"
+     },
+     "Han, B-C. (2014). ",
+     [
+      "span",
+      {},
+      "En el enjambre"
+     ],
+     ". Herder."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445006_ref10"
+     },
+     "Harvey, D. (2014). ",
+     [
+      "span",
+      {},
+      "Diecisiete contradicciones y el fin del capitalismo"
+     ],
+     ". Traficante de Sueños."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445006_ref11"
+     },
+     "Hualde, A. (2024). No toda la inteligencia es artificial: viejas y nuevas formas de precarización en la economía digital. ",
+     [
+      "span",
+      {},
+      "Cuestiones de Sociología"
+     ],
+     ", (30), e171. ",
+     [
+      "a",
+      {
+       "href": "https://doi.org/10.24215/23468904e171"
+      },
+      "https://doi.org/10.24215/23468904e171"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445006_ref12",
+      "lang": "en"
+     },
+     "International Telecommunication Union (2023). ",
+     [
+      "span",
+      {},
+      "Measuring digital development. Facts and Figures 2023"
+     ],
+     ". International Telecommunication Union. ",
+     [
+      "a",
+      {
+       "href": "https://www.itu.int/%C2%ADhub/publication/d-ind-ict_mdd-2023-1"
+      },
+      "https://www.itu.int/­hub/publication/d-ind-ict_mdd-2023-1"
+     ],
+     "/"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445006_ref13"
+     },
+     "Jara, N. (2024). Reflexiones sobre la plataformización de la cultura y la creación independiente en la era digital. ",
+     [
+      "span",
+      {},
+      "Revista de Sociología"
+     ],
+     ", 39(1). ",
+     [
+      "a",
+      {
+       "href": "https://doi.org/10.5354/0719-529X.2024.75739"
+      },
+      "https://doi.org/10.5354/0719-529X.2024.75739"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445006_ref14"
+     },
+     "Jiménez, A. y Rendueles, C. (2020). Capitalismo digital: fragilidad social, explotación y solucionismo tecnológico. ",
+     [
+      "span",
+      {},
+      "Teknokultura"
+     ],
+     ",",
+     [
+      "span",
+      {},
+      " 17"
+     ],
+     "(2), 95-101. ",
+     [
+      "a",
+      {
+       "href": "https://doi.org/10.5209/tekn.70378"
+      },
+      "https://doi.org/10.5209/tekn.70378"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445006_ref15",
+      "lang": "en"
+     },
+     "Lyon, D. (2018). ",
+     [
+      "span",
+      {},
+      "The Culture of Surveillance: Watching as a Way of Life"
+     ],
+     ". Polity Press."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445006_ref16"
+     },
+     "Mallamaci, M, Gordon, P., Krepki, D., Mónaco, J., Guardia, E. y D’Alessio, H. (2020). ¿Qué puede un bit? Datos y algoritmos como relación social fundamental de la economía digital. ",
+     [
+      "span",
+      {},
+      "Sociológica"
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      "35"
+     ],
+     "(101), 215-247. ",
+     [
+      "a",
+      {
+       "href": "http://www.sociologicamexico.azc.mx/index.php%C2%AD/Sociologica/article/view/1650/1641"
+      },
+      "http://www.sociologicamexico.azc.mx/index.php­/Sociologica/article/view/1650/1641"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445006_ref17",
+      "lang": "en"
+     },
+     "Morozov, E. (4 de febrero de 2019). ",
+     [
+      "span",
+      {},
+      "Capitalism’s new clothes"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "The Baffler"
+     ],
+     ". ",
+     [
+      "a",
+      {
+       "href": "https://thebaffler.com/latest/capitalisms-new-clothes-morozov"
+      },
+      "https://thebaffler.com/latest/capitalisms-new-clothes-morozov"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445006_ref18",
+      "lang": "fr"
+     },
+     "Quessada, D. y Sadin, E. (2010). Big Brother n'existe pas, il est partout. ",
+     [
+      "span",
+      {},
+      "Multitudes"
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      "1"
+     ],
+     "(40), 78-87. ",
+     [
+      "a",
+      {
+       "href": "https://doi.org/10.3917/mult.040.0078"
+      },
+      "https://doi.org/10.3917/mult.040.0078"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445006_ref19"
+     },
+     "Ramonet, I. (2016). ",
+     [
+      "span",
+      {},
+      "El imperio de la vigilancia"
+     ],
+     ". Clave Intelectual."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445006_ref20",
+      "lang": "en"
+     },
+     "Sadowski, J. (2020). The Internet of Landlords: Digital Platforms and New Mechanisms of Rentier Capitalism. ",
+     [
+      "span",
+      {},
+      "Antipode"
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      "52"
+     ],
+     "(2), 562-580. ",
+     [
+      "a",
+      {
+       "href": "https://doi.org/10.1111/anti.12595"
+      },
+      "https://doi.org/10.1111/anti.12595"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445006_ref21"
+     },
+     "Sánchez, F., Martínez, J. E. y Téllez, A. (2022). La seguridad en el ciberespacio desde una perspectiva sociocultural. ",
+     [
+      "span",
+      {},
+      "Methaodos. Revista de Ciencias Sociales"
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      "10"
+     ],
+     "(2), 243-258. ",
+     [
+      "a",
+      {
+       "href": "https://doi.org/10.17502/mrcs.v10i2.577"
+      },
+      "https://doi.org/10.17502/mrcs.v10i2.577"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445006_ref22"
+     },
+     "Scasserra, S. y Martínez, C. (2021). ",
+     [
+      "span",
+      {},
+      "Digital colonialism. Analysis of Europe’s trade agenda"
+     ],
+     ". Transnational Institute, TNI. ",
+     [
+      "a",
+      {
+       "href": "https://www.tni.org/en/publication/digital-colonialism"
+      },
+      "https://www.tni.org/en/publication/digital-colonialism"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445006_ref23"
+     },
+     "Srnicek, N. (2018). ",
+     [
+      "span",
+      {},
+      "Capitalismo de Plataformas"
+     ],
+     ". Caja Negra Editora."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445006_ref24",
+      "lang": "en"
+     },
+     "Srnicek, N. (2020). Paths forward for the study of the Digital Economy. En J. Muldoon y W. Stronge (Eds.), ",
+     [
+      "span",
+      {},
+      "Platforming Equality: Policy Challenges for the Digital Economy"
+     ],
+     " (pp. 85-90). Autonomy."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445006_ref25",
+      "lang": "en"
+     },
+     "Törnberg, P. (2023). How platforms govern: Social regulation in digital capitalism. ",
+     [
+      "span",
+      {},
+      "Big Data & Society"
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      "10"
+     ],
+     "(1), 1-13. ",
+     [
+      "a",
+      {
+       "href": "https://doi.org/10.1177/20539517231153808"
+      },
+      "https://doi.org/10.1177/20539517231153808"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445006_ref26",
+      "lang": "en"
+     },
+     "Urbano, R. (2022). The untamed and discreet role of data brokers in surveillance capitalism: A transnational and interdisciplinary overview. ",
+     [
+      "span",
+      {},
+      "Internet Policy Review"
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      "11"
+     ],
+     "(3), 1-27. ",
+     [
+      "a",
+      {
+       "href": "https://doi.org/10.14763/2022.3.1670"
+      },
+      "https://doi.org/10.14763/2022.3.1670"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445006_ref27",
+      "lang": "en"
+     },
+     "Van Dijck, J. (2014). Datafication, dataism and dataveillance: Big Data between scientific paradigm and ideology. ",
+     [
+      "span",
+      {},
+      "Surveillance y Society"
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      "12"
+     ],
+     "(2), 197-208. ",
+     [
+      "a",
+      {
+       "href": "https://doi.org/10.24908/ss.v12i2.4776"
+      },
+      "https://doi.org/10.24908/ss.v12i2.4776"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445006_ref28",
+      "lang": "en"
+     },
+     "Walton, N. y Nayak, B. S. (2021). Rethinking of Marxist perspectives on big data, artificial intelligence (AI) and capitalist economic development. ",
+     [
+      "span",
+      {},
+      "Technological Forecasting & Social Change"
+     ],
+     ", 166, 1-8. ",
+     [
+      "a",
+      {
+       "href": "https://doi.org/10.1016/j.techfore.2021.120576"
+      },
+      "https://doi.org/10.1016/j.techfore.2021.120576"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445006_ref29"
+     },
+     "Zuboff, S. (2020). ",
+     [
+      "span",
+      {},
+      "La era del capitalismo de la vigilancia. La lucha por un futuro humano frente a las nuevas fronteras del poder"
+     ],
+     ". Paidós."
+    ],
+    "\n",
+    [
+     "br",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n",
+     [
+      "span",
+      {},
+      "Recepción: "
+     ],
+     " 10 enero  2025"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n",
+     [
+      "span",
+      {},
+      "Aprobación: "
+     ],
+     " 01 abril  2025"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n",
+     [
+      "span",
+      {},
+      "Publicación: "
+     ],
+     " 01 febrero  2026"
+    ],
+    "\n",
+    [
+     "br",
+     {}
+    ],
+    "\n",
+    [
+     "br",
+     {}
+    ],
+    "\n\n",
+    "\n",
+    [
+     "a",
+     {
+      "href": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+     },
+     " ",
+     [
+      "figura",
+      {
+       "alt": "Imagen"
+      }
+     ],
+     " Obra bajo Licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional"
+    ],
+    "\n",
+    [
+     "figura",
+     {
+      "alt": "Imagen"
+     }
+    ],
+    "\n",
+    "\n"
+   ],
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-logo-derecha"
+    },
+    "\n",
+    [
+     "a",
+     {
+      "href": "https://www.fahce.unlp.edu.ar/facultad/secretarias-y-prosecretarias/prosecretaria-de-gestion-editorial-y-difusion/ediciones-de-la-fahce"
+     },
+     " \n",
+     [
+      "figura",
+      {
+       "alt": "ediciones_fahce"
+      }
+     ],
+     "\n"
+    ],
+    "\n"
+   ],
+   "\n"
+  ],
+  "\n",
+  [
+   "span",
+   {
+    "id": "t-creditos"
+   },
+   "\n",
+   [
+    "span",
+    {},
+    [
+     "figura",
+     {}
+    ],
+    [
+     "sup",
+     {},
+     "Ediciones de la FaHCE utiliza"
+    ],
+    [
+     "a",
+     {
+      "href": "http://portal.amelica.org/ameli"
+     },
+     [
+      "figura",
+      {}
+     ]
+    ],
+    " ",
+    [
+     "figura",
+     {}
+    ]
+   ],
+   [
+    "br",
+    {}
+   ],
+   "\n",
+   "\n"
+  ],
+  "\n"
+ ]
+}

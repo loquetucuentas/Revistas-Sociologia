@@ -1,0 +1,6118 @@
+{
+ "version": 1,
+ "recogido": "2026-10-18T11:30:47+00:00",
+ "doi": "10.36615/f9w7v237",
+ "titulo": "Hablar del trabajo docente de cara al sufrimiento. La Sociología clínica como mediador de la palabra",
+ "revista": "3006-841X",
+ "numero": "v21-n1-2026",
+ "licencia": {
+  "codigo": "by",
+  "nombre": "CC BY 4.0",
+  "nombre_completo": "Creative Commons Atribución 4.0 Internacional",
+  "url": "https://creativecommons.org/licenses/by/4.0",
+  "url_legal": "https://creativecommons.org/licenses/by/4.0/legalcode.es"
+ },
+ "fuente": {
+  "url": "https://journals.uj.ac.za/index.php/csr/en/article/download/4218/2710",
+  "formato": "XML JATS",
+  "plataforma": "JATS",
+  "pagina": "https://journals.uj.ac.za/index.php/csr/article/view/4218"
+ },
+ "autores_cita": [
+  {
+   "apellidos": "Díaz Meza",
+   "nombre_pila": "Romina",
+   "nombre": null
+  },
+  {
+   "apellidos": "Guerrero",
+   "nombre_pila": "Patricia",
+   "nombre": null
+  }
+ ],
+ "avisos_derechos": [
+  "©Author(s)",
+  "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
+ ],
+ "idioma_principal": "en",
+ "indice": [
+  {
+   "id": "t-seccion-1",
+   "nivel": 2,
+   "texto": "La crisis de la educación pública chilena y su impacto en el trabajo docente",
+   "lang": "es"
+  },
+  {
+   "id": "t-seccion-2",
+   "nivel": 2,
+   "texto": "La historia de la comuna de Santiago y la comanda en salud laboral",
+   "lang": "es"
+  },
+  {
+   "id": "t-seccion-3",
+   "nivel": 3,
+   "texto": "Trayectoria, mérito y excelencia",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-4",
+   "nivel": 3,
+   "texto": "Condiciones de posibilidad para trabajar en la salud laboral",
+   "lang": "es"
+  },
+  {
+   "id": "t-seccion-5",
+   "nivel": 2,
+   "texto": "Investigar e intervenir en educación desde la sociología clínica",
+   "lang": "es"
+  },
+  {
+   "id": "t-seccion-6",
+   "nivel": 3,
+   "texto": "Sociología clínica e investigación-acción",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-7",
+   "nivel": 3,
+   "texto": "Calibrar pensamiento, emoción y acción: fundamentos epistemológicos para la experiencia",
+   "lang": "es"
+  },
+  {
+   "id": "t-seccion-8",
+   "nivel": 3,
+   "texto": "Metodología de sistematización",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-9",
+   "nivel": 3,
+   "texto": "Fases del ATR. Source: Elaboración propia",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-10",
+   "nivel": 2,
+   "texto": "Revisión del dispositivo de intervención “Nadie queda afuera”",
+   "lang": "es"
+  },
+  {
+   "id": "t-seccion-11",
+   "nivel": 3,
+   "texto": "Diseño ¿Cómo fue creado?",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-12",
+   "nivel": 3,
+   "texto": "Construcción de temas y enunciados",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-13",
+   "nivel": 3,
+   "texto": "Mecánica del juego ¿Cómo es el juego “Nadie queda afuera”?",
+   "lang": "es"
+  },
+  {
+   "id": "t-seccion-14",
+   "nivel": 2,
+   "texto": "¿A qué nos abrió la puerta el juego de mesa? Presentación de los hallazgos",
+   "lang": "es"
+  },
+  {
+   "id": "t-seccion-15",
+   "nivel": 3,
+   "texto": "Vínculo consigo mismo",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-16",
+   "nivel": 3,
+   "texto": "Vínculo con el conocimiento",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-17",
+   "nivel": 3,
+   "texto": "Vínculo con las autoridades",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-18",
+   "nivel": 3,
+   "texto": "Vínculo con los pares",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-19",
+   "nivel": 2,
+   "texto": "Consideraciones finales",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-20",
+   "nivel": 3,
+   "texto": "Lo que aprendimos",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-21",
+   "nivel": 3,
+   "texto": "Las limitaciones del dispositivo",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-22",
+   "nivel": 3,
+   "texto": "La proyección del trabajo",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-23",
+   "nivel": 2,
+   "texto": "Referencias bibliográficas",
+   "lang": null
+  }
+ ],
+ "vueltas": {
+  "t-r2": "t-llamada-r2-1",
+  "t-r12": "t-llamada-r12-1",
+  "t-r34": "t-llamada-r34-1",
+  "t-r35": "t-llamada-r35-1",
+  "t-r31": "t-llamada-r31-1",
+  "t-r15": "t-llamada-r15-1",
+  "t-r36": "t-llamada-r36-1",
+  "t-r11": "t-llamada-r11-1",
+  "t-r39": "t-llamada-r39-1",
+  "t-r27": "t-llamada-r27-1",
+  "t-r37": "t-llamada-r37-1",
+  "t-r26": "t-llamada-r26-1",
+  "t-r38": "t-llamada-r38-1",
+  "t-r6": "t-llamada-r6-1",
+  "t-r33": "t-llamada-r33-1",
+  "t-r30": "t-llamada-r30-1",
+  "t-r21": "t-llamada-r21-1",
+  "t-r7": "t-llamada-r7-1",
+  "t-r32": "t-llamada-r32-1",
+  "t-r9": "t-llamada-r9-1",
+  "t-r29": "t-llamada-r29-1",
+  "t-r8": "t-llamada-r8-1",
+  "t-r14": "t-llamada-r14-1",
+  "t-r1": "t-llamada-r1-1",
+  "t-r10": "t-llamada-r10-1",
+  "t-r19": "t-llamada-r19-1",
+  "t-r4": "t-llamada-r4-1",
+  "t-r22": "t-llamada-r22-1",
+  "t-r24": "t-llamada-r24-1",
+  "t-r18": "t-llamada-r18-1",
+  "t-r17": "t-llamada-r17-1",
+  "t-r40": "t-llamada-r40-1",
+  "t-r23": "t-llamada-r23-1",
+  "t-r13": "t-llamada-r13-1",
+  "t-r5": "t-llamada-r5-1",
+  "t-r3": "t-llamada-r3-1",
+  "t-r28": "t-llamada-r28-1",
+  "t-r16": "t-llamada-r16-1",
+  "t-r20": "t-llamada-r20-1"
+ },
+ "contenido": [
+  [
+   "section",
+   {
+    "id": "t-s1"
+   },
+   "\n",
+   [
+    "h2",
+    {
+     "lang": "es",
+     "id": "t-seccion-1"
+    },
+    "La crisis de la educación pública chilena y su impacto en el trabajo docente"
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "es"
+    },
+    "La educación pública en Chile ha enfrentado una crisis prolongada que ha impactado directamente en el trabajo docente. En un sistema educativo neoliberal (",
+    [
+     "a",
+     {
+      "href": "#t-r2",
+      "id": "t-llamada-r2-1"
+     },
+     "Assaél et al., 2011"
+    ],
+    "), el oficio se ha vuelto cada vez más complejo debido a la implementación de políticas de management educativo durante los últimos 30 años. Estas políticas han consolidado una lógica de estandarización, competencia y rendición de cuentas (",
+    [
+     "a",
+     {
+      "href": "#t-r12",
+      "id": "t-llamada-r12-1"
+     },
+     "Falabella, 2015"
+    ],
+    "; ",
+    [
+     "a",
+     {
+      "href": "#t-r34",
+      "id": "t-llamada-r34-1"
+     },
+     "Sisto, 2012"
+    ],
+    ", ",
+    [
+     "a",
+     {
+      "href": "#t-r35",
+      "id": "t-llamada-r35-1"
+     },
+     "2018"
+    ],
+    "), donde el incumplimiento de metas trae consecuencias financieras directas para los establecimientos, lo que limita la creatividad y la innovación pedagógica. Como resultado, las culturas escolares han sido transformadas en espacios que funcionan bajo una lógica empresarial, priorizando indicadores de desempeño sobre procesos educativos profundos."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "es"
+    },
+    "Este modelo, instalado durante la dictadura cívico-militar, ha mercantilizado la educación bajo la premisa de que las familias deben elegir el establecimiento, perpetuando la idea errónea de que “a mayor pago, mejor servicio educativo”. En la práctica, las escuelas compiten por matrícula porque su financiamiento depende de ella, haciendo que la retención de estudiantes sea clave para su supervivencia a largo plazo. En este contexto, el trabajo docente ha sido sistemáticamente desprofesionalizado (",
+    [
+     "a",
+     {
+      "href": "#t-r31",
+      "id": "t-llamada-r31-1"
+     },
+     "Rufinelli, 2016"
+    ],
+    "), no solo por la pérdida de autonomía, sino porque los problemas estructurales del sistema educativo —como el fracaso escolar— son atribuidos individualmente a los profesores, ignorando los factores sociales que los condicionan. Esta narrativa instala desconfianza hacia su labor y anula el reconocimiento de su ",
+    [
+     "i",
+     {},
+     "expertise"
+    ],
+    ". Para “mejorar” la educación, Chile ha adoptado un enfoque tecnocrático: expertos ajenos a las aulas diseñan políticas que reducen al docente a un mero ejecutor de protocolos, subordinando su saber pedagógico a mandatos burocráticos."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "es"
+    },
+    "La educación chilena funciona en una paradoja cotidiana, donde dos proyectos político-pedagógicos antagónicos coexisten en tensión permanente. Por un lado, el modelo managerial, que concibe al profesor como un agente eficiente cuyas prácticas deben ser estandarizadas y medidas. Por otro, un modelo que promueve una educación para la vida, basada en derechos humanos, formación ciudadana y justicia social. Estos proyectos encarnan visiones de sociedad irreconciliables: mientras el primero prioriza la competencia y los resultados, el segundo apuesta por la colaboración y el bien común. La paradoja radica en que esta disputa no está resuelta; por el contrario, se libra día a día en las escuelas, donde los docentes deben navegar entre mandatos contradictorios (",
+    [
+     "a",
+     {
+      "href": "#t-r15",
+      "id": "t-llamada-r15-1"
+     },
+     "Gaulejac & Guerrero, 2017"
+    ],
+    ")."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "es"
+    },
+    "La pandemia de COVID-19 (2020-2022) profundizó estas contradicciones. Por un lado, evidenció la precarización del trabajo docente, con un aumento del 300% en licencias médicas por salud mental (",
+    [
+     "a",
+     {
+      "href": "#t-r36",
+      "id": "t-llamada-r36-1"
+     },
+     "Tralma, 2022"
+    ],
+    ") y un déficit del 60% de profesores en el sistema (",
+    [
+     "a",
+     {
+      "href": "#t-r11",
+      "id": "t-llamada-r11-1"
+     },
+     "Elige Educar, 2022"
+    ],
+    "). Por otro, mostró la capacidad de agencia del profesorado, que asumió un rol protagónico en los procesos de enseñanza-aprendizaje (",
+    [
+     "a",
+     {
+      "href": "#t-r39",
+      "id": "t-llamada-r39-1"
+     },
+     "Villalobos et al., 2024"
+    ],
+    "), demostrando que, pese a las limitaciones estructurales, su saber-hacer es insustituible."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "es"
+    },
+    "Desde 2004, organismos internacionales como la ",
+    [
+     "a",
+     {
+      "href": "#t-r27",
+      "id": "t-llamada-r27-1"
+     },
+     "OCDE (2004)"
+    ],
+    ", ",
+    [
+     "a",
+     {
+      "href": "#t-r37",
+      "id": "t-llamada-r37-1"
+     },
+     "UNESCO (2017)"
+    ],
+    " y la ",
+    [
+     "a",
+     {
+      "href": "#t-r26",
+      "id": "t-llamada-r26-1"
+     },
+     "OIT-OMS (2022)"
+    ],
+    " han criticado a Chile por el abuso de políticas neoliberales en educación. En el escenario postpandemia, ",
+    [
+     "a",
+     {
+      "href": "#t-r38",
+      "id": "t-llamada-r38-1"
+     },
+     "UNESCO (2022)"
+    ],
+    " ha llamado a “imaginar juntos” el futuro de la educación. Chile enfrenta el desafío de reconstruir su sistema educativo, y el municipio de Santiago emerge como un espacio de innovación, buscando crear una educación pública construida con los docentes, no para ellos."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "es"
+    },
+    "Este es el cruce en el que nos situamos: entre lo macro político, lo social y lo local, en un sistema que, tras 50 años, ha demostrado su agotamiento. La estandarización, la desprofesionalización y la paradoja de modelos en pugna han llevado a una crisis profunda, donde cada vez menos jóvenes eligen estudiar pedagogía (",
+    [
+     "a",
+     {
+      "href": "#t-r6",
+      "id": "t-llamada-r6-1"
+     },
+     "CIAE, 2018"
+    ],
+    ") y los docentes recién egresados abandonan la profesión antes de dos años (",
+    [
+     "a",
+     {
+      "href": "#t-r11",
+      "id": "t-llamada-r11-2"
+     },
+     "Elige Educar, 2022"
+    ],
+    "). Urge repensar el modelo, devolviendo la confianza y la voz a los profesores, porque sin ellos, no hay transformación educativa posible."
+   ],
+   "\n"
+  ],
+  [
+   "section",
+   {
+    "id": "t-s2"
+   },
+   "\n",
+   [
+    "h2",
+    {
+     "lang": "es",
+     "id": "t-seccion-2"
+    },
+    "La historia de la comuna de Santiago y la comanda en salud laboral"
+   ],
+   "\n",
+   [
+    "section",
+    {
+     "id": "t-s2_1"
+    },
+    "\n",
+    [
+     "h3",
+     {
+      "id": "t-seccion-3"
+     },
+     "Trayectoria, mérito y excelencia"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "es"
+     },
+     "Todo lo anterior descrito acontece en el cotidiano de las escuelas y liceos de Santiago. Sumado a ello, la comuna porta un fuerte legado histórico que moldea su identidad y los relatos que en ella circulan. Como capital política y administrativa de Chile, la comuna de Santiago ha funcionado históricamente como el epicentro de las políticas educativas nacionales. Sus centros educativos, denominaos “emblemáticos” no solo han encarnado los ideales de excelencia académica y formación de élites, sino también han sido espacios de experimentación e intervención estatal (",
+     [
+      "a",
+      {
+       "href": "#t-r33",
+       "id": "t-llamada-r33-1"
+      },
+      "Serrano et al., 2012"
+     ],
+     "). Lo singular de la experiencia comunal es que a lo largo de su historia, la comuna, sus establecimientos y sus actores han sido campo de disputa donde convergen proyectos político-pedagógicos, tensiones sociales y narrativas identitarias ligadas al mérito, la excelencia, la calidad y la justicia social. Por mucho tiempo, existió la representación que asociaba de la misma manera la realidad local de las Escuelas y Liceos públicos de Santiago con la realidad de la educación chilena (",
+     [
+      "a",
+      {
+       "href": "#t-r30",
+       "id": "t-llamada-r30-1"
+      },
+      "Roco, 2024"
+     ],
+     "). Sus centros educativos han sido vanguardia al mismo momento que espejo de la realidad social (",
+     [
+      "a",
+      {
+       "href": "#t-r21",
+       "id": "t-llamada-r21-1"
+      },
+      "Insunza, 2024"
+     ],
+     ")."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "es"
+     },
+     "Existen hechos concretos que refuerzan este relato: el Instituto Nacional, fundado en 1813, se consolidó como un modelo educativo inspirado en los ideales de la ilustración francesa, basados en la instrucción laica, científica y republicana (",
+     [
+      "a",
+      {
+       "href": "#t-r7",
+       "id": "t-llamada-r7-1"
+      },
+      "Conejeros, 1999"
+     ],
+     "). Este proyecto, orientado a la formación de la élite política e intelectual del país, instauró una tradición de excelencia académica que, al mismo tiempo, generó mecanismos de exclusión hacia los sectores populares (",
+     [
+      "a",
+      {
+       "href": "#t-r30",
+       "id": "t-llamada-r30-2"
+      },
+      "Roco, 2024"
+     ],
+     "). Se trataba de una educación pública, pero profundamente selectiva. Con el paso del tiempo el Instituto Nacional ha dado sus frutos, por sus aulas han pasado ni más ni menos que 28 presidentes de la república. De igual modo podemos referirnos al Liceo 1 Javiera Carrera, de la cual la única presidenta que ha tenido el país fue formada en sus aulas. Las escuelas y liceos de la comuna llevan el nombre de grandes personajes de la historia del país. Sus proyectos escolares actuales reconocen y se inspiran en el legado de dichos personajes."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "es"
+     },
+     "Pese a lo anterior, los centros educativos de Santiago han sido más en su pasado que en su presente, la fuente de expansión de los imaginarios sobre la educación pública (",
+     [
+      "a",
+      {
+       "href": "#t-r30",
+       "id": "t-llamada-r30-3"
+      },
+      "Roco, 2024"
+     ],
+     "). Durante los siglos XIX y XX los liceos emblemáticos de Santiago ofrecían una formación rigurosa y prestigiosa, facilitando la movilidad social para quienes lograban superar sus exigentes filtros de admisión (",
+     [
+      "a",
+      {
+       "href": "#t-r30",
+       "id": "t-llamada-r30-4"
+      },
+      "Roco, 2024"
+     ],
+     "). El problema radicaba en que dicho modelo reproducía desigualdades estructurales, pues el acceso y la permanencia estaban condicionadas al capital cultural, económico o social suficiente para adaptarse a sus exigencias (",
+     [
+      "a",
+      {
+       "href": "#t-r32",
+       "id": "t-llamada-r32-1"
+      },
+      "Sandoval & vial, 2016"
+     ],
+     "). Así, la capacidad de adaptación estaba fortalecida en la idea de mérito (",
+     [
+      "a",
+      {
+       "href": "#t-r9",
+       "id": "t-llamada-r9-1"
+      },
+      "Cox, 2015"
+     ],
+     "). Esta dualidad es central para comprender la educación pública de la capital, aquella actúa como un determinante histórico cargado de tensiones entre el ideal meritocrático y las demandas por mayor justicia educativa."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "es"
+     },
+     "En paralelo, surgieron experiencias pedagógicas alternativas que desafiaron el modelo academicista. Entre 1929 y 1932 se crearon escuelas experimentales, las cuales apuntaron a democratizar la enseñanza, conectándola con la realidad de los sectores populares (",
+     [
+      "a",
+      {
+       "href": "#t-r29",
+       "id": "t-llamada-r29-1"
+      },
+      "Reyes, 2024"
+     ],
+     ")."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "es"
+     },
+     "Ahora bien, la municipalización de los años ochenta afectó profundamente las trayectorias de los establecimientos, fragmentando las nociones de calidad educativa que venían trabajando las escuelas (",
+     [
+      "a",
+      {
+       "href": "#t-r8",
+       "id": "t-llamada-r8-1"
+      },
+      "Contreras, 2024"
+     ],
+     "). El proyecto de educación neoliberal es contrario a la idea de una educación pública fuerte y robusta, y se observa en el fuerte desmantelamiento de lo público en educación. En 50 años, las escuelas y liceos de Santiago se han visto deteriorados en sus condiciones materiales, su matrícula y su legitimidad social. Actualmente atienden a una población socioeconómicamente más vulnerable que hace dos décadas, y una gran parte de su estudiantado proviene de comunas distintas a Santiago (",
+     [
+      "a",
+      {
+       "href": "#t-r30",
+       "id": "t-llamada-r30-5"
+      },
+      "Roco, 2024"
+     ],
+     ")."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "es"
+     },
+     "Por otro lado, los liceos emblemáticos de Santiago han sido históricamente semilleros de liderazgo social y político, destacándose por su activa participación en los movimientos estudiantiles chilenos (",
+     [
+      "a",
+      {
+       "href": "#t-r14",
+       "id": "t-llamada-r14-1"
+      },
+      "Garcés, 2012"
+     ],
+     "). Los dirigentes formados en estos establecimientos han demostrado capacidad de articulación política, formación crítica y compromiso social, contribuyendo en ciertos periodos específicos a impactar en las políticas educativas (",
+     [
+      "a",
+      {
+       "href": "#t-r1",
+       "id": "t-llamada-r1-1"
+      },
+      "Aguilera Chávez, 2023"
+     ],
+     "). Asimismo, el movimiento estudiantil secundario ha resquebrajado los cimientos de una institución diseñada originalmente para la exclusión (Serrano, 2018, citada en ",
+     [
+      "a",
+      {
+       "href": "#t-r29",
+       "id": "t-llamada-r29-2"
+      },
+      "Reyes, 2024"
+     ],
+     ")."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "es"
+     },
+     "La trayectoria de los liceos de Santiago sigue siendo un termómetro preciso para medir las tensiones no resueltas entre calidad y equidad, entre tradición e innovación, que atraviesan todo el sistema educativo nacional."
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "section",
+    {
+     "id": "t-s2_2"
+    },
+    "\n",
+    [
+     "h3",
+     {
+      "lang": "es",
+      "id": "t-seccion-4"
+     },
+     "Condiciones de posibilidad para trabajar en la salud laboral"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "es"
+     },
+     "La elección de Irací Hasler como alcaldesa de Santiago en junio de 2021 marcó un punto de inflexión en la política educativa municipal, por primera vez en su historia una comunista administraba el poder en la capital del país. Su programa de gobierno, plasmado en el PADEM (",
+     [
+      "a",
+      {
+       "href": "#t-r10",
+       "id": "t-llamada-r10-1"
+      },
+      "DEM, 2022"
+     ],
+     "), priorizó el análisis exhaustivo de las comunidades educativas con el objetivo de construir procesos administrativos basados en el diálogo permanente, fortaleciendo a su vez la cohesión social y el sentido de pertenencia institucional."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "es"
+     },
+     "Bajo ese mandato, el equipo de Gestión pedagógica del Departamento de Educación Municipal nos invita a participar del desarrollo del proyecto comunal. Para ello nos entrega la comanda de diagnosticar la salud laboral del profesorado de los 44 establecimientos bajo su jurisdicción, que abarcan educación primaria, secundaria, de adultos, especial y carcelaria."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "es"
+     },
+     "Como dupla académica aceptamos el desafío, entendiendo que el diagnóstico debía articularse a la propuesta de Modelo educativo comunal (MEC). El MEC definió que el bienestar de las comunidades era una condición estructural para la calidad educativa y la justicia social."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "es"
+     },
+     "En las condiciones basales de la comanda consideraban tres principios fundamentales:"
+    ],
+    "\n",
+    [
+     "ul",
+     {},
+     "\n",
+     [
+      "li",
+      {
+       "lang": "es"
+      },
+      [
+       "span",
+       {},
+       "–"
+      ],
+      [
+       "p",
+       {},
+       "Pertinencia operativa: la optimización de recursos humanos para su aplicación en el territorio comunal."
+      ]
+     ],
+     "\n",
+     [
+      "li",
+      {
+       "lang": "es"
+      },
+      [
+       "span",
+       {},
+       "–"
+      ],
+      [
+       "p",
+       {},
+       "Enfoque colaborativo: participación conjunta de profesionales municipales, equipos escolares, más nosotras como académicas."
+      ]
+     ],
+     "\n",
+     [
+      "li",
+      {
+       "lang": "es"
+      },
+      [
+       "span",
+       {},
+       "–"
+      ],
+      [
+       "p",
+       {},
+       "Perspectiva integral: debíamos superar la dicotomía entre lo socioemocional y lo estructural, examinando tanto la organización del trabajo como las dinámicas relacionales."
+      ]
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "es"
+     },
+     "La definición de la comanda evolucionó a partir de la implementación de estos principios. Inicialmente concebido para docentes, el tablero “Nadie queda afuera” -nombre que sintetiza el espíritu inclusivo del proyecto- se amplió progresivamente para incorporar a equipos directivos (para identificar y analizar los estilos de gestión) y asistentes de la educación (tras consultas con recursos humanos y sindicatos)."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "es"
+     },
+     "Era central comprender que el diagnóstico debía ser más que una metodología participativa, pues debía ser consciente de los elementos políticos que estaban en juego con su implementación y elaboración de resultados. También buscaba generar espacios seguros para la expresión del malestar acumulado tras años de incertidumbre, relaciones laborales deterioradas, polarización institucional e instrumentalización política de las comunidades educativas."
+    ],
+    "\n"
+   ],
+   "\n"
+  ],
+  [
+   "section",
+   {
+    "id": "t-s3"
+   },
+   "\n",
+   [
+    "h2",
+    {
+     "lang": "es",
+     "id": "t-seccion-5"
+    },
+    "Investigar e intervenir en educación desde la sociología clínica"
+   ],
+   "\n",
+   [
+    "section",
+    {
+     "id": "t-s3_1"
+    },
+    "\n",
+    [
+     "h3",
+     {
+      "id": "t-seccion-6"
+     },
+     "Sociología clínica e investigación-acción"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "es"
+     },
+     "La sociología clínica estudia procesos complejos que están situados en el entrecruce de las interacciones entre el individuo, el grupo y la sociedad, inscribiéndose a su vez, en trayectorias sociales, familiares y personales (",
+     [
+      "a",
+      {
+       "href": "#t-r19",
+       "id": "t-llamada-r19-1"
+      },
+      "Gratton, 2012"
+     ],
+     ")."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "es"
+     },
+     "Tanto la Sociología clínica como la Investigación-acción son aproximaciones que se circunscriben en proyectos políticos, sociales y comunitarios. Ambas cuestionan y reorientan las barreras entre el investigador y los participantes para llevar a cabo el estudio y la intervención. Desde ahí, buscan dar respuesta a las necesidades de la comunidad y favorecen la participación, donde el conocimiento creado es co-construido entre todos sus miembros (",
+     [
+      "a",
+      {
+       "href": "#t-r4",
+       "id": "t-llamada-r4-1"
+      },
+      "Blondel, 2012"
+     ],
+     ")."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "es"
+     },
+     "Entonces ¿Qué implica hacer una investigación-acción de aproximación socioclínica? En principio, implica la explicitación de un proceso dinámico, que se construye y se orienta en relación con algunos ejes:"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "es"
+     },
+     "Eje 1. El reconocimiento de los diferentes roles que se juegan en el proceso: están los roles de las investigadoras o interventoras en solitario, de los participantes, de las jefaturas que solicitan la investigación/intervención (",
+     [
+      "a",
+      {
+       "href": "#t-r4",
+       "id": "t-llamada-r4-2"
+      },
+      "Blondel, 2012"
+     ],
+     ")."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "es"
+     },
+     "Eje 2. El análisis de la comanda y la demanda: la comanda es la misión primaria que tiene el investigador o interventor de realizar la tarea con la comunidad. La comanda no está dada desde la comunidad a intervenir, sino que proviene desde la estructura jerárquica (",
+     [
+      "a",
+      {
+       "href": "#t-r22",
+       "id": "t-llamada-r22-1"
+      },
+      "Marcodoppido, 2019"
+     ],
+     "). En este estudio por ejemplo, la DEM de Santiago. La demanda por el contrario, son los problemas sociales, organizacionales y grupales que tienen los miembros de la comunidad a intervenir (",
+     [
+      "a",
+      {
+       "href": "#t-r22",
+       "id": "t-llamada-r22-2"
+      },
+      "Marcodoppido, 2019"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "#t-r24",
+       "id": "t-llamada-r24-1"
+      },
+      "Michelot, 2009"
+     ],
+     "). Su análisis requiere comprender las brechas entre una y otra, así como las condiciones reales de transformación. Este paso se realiza tanto en solitario como en colectivo, ya que es una negociación donde el investigador conduce este proceso y lo ajusta para que sea viable para todas las partes (",
+     [
+      "a",
+      {
+       "href": "#t-r24",
+       "id": "t-llamada-r24-2"
+      },
+      "Michelot, 2009"
+     ],
+     ")."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "es"
+     },
+     "Eje 3. La creación y desarrollo de un dispositivo complejo: el dispositivo debe ser pertinente y situado al contexto en cual será utilizado. Debe reconocer las dinámicas subyacentes así como los diferentes niveles de análisis (individual, organizacional, social) (",
+     [
+      "a",
+      {
+       "href": "#t-r4",
+       "id": "t-llamada-r4-3"
+      },
+      "Blondel, 2012"
+     ],
+     ")."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "es"
+     },
+     "Eje 4. El establecimiento y desarrollo del vínculo clínico entre los miembros: este eje está dado por los principios de la aproximación clínica (",
+     [
+      "a",
+      {
+       "href": "#t-r18",
+       "id": "t-llamada-r18-1"
+      },
+      "Guist-Desprairies, 2013"
+     ],
+     "); la escucha activa, el establecimiento de la confianza. El rol del sociólogo o socióloga clínica es de acompañar, sostener al grupo y facilitar la reflexión colectiva y colaborativa. El propósito del vínculo clínico es facilitar que los participantes se autoricen a pensar y tomar la palabra, de manera de construir las condiciones psicosociales óptimas para la exploración de las determinaciones sociopsíquicas que están a la base de los problemas que demandan resolver, así como los elementos de transferencia y contratransferencia que emergen en el proceso."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "es"
+     },
+     "Eje 5. La co-construcción del conocimiento: este es el primer momento del análisis socioclínico. Considera los intercambios entre los miembros del grupo, examinando las causas y efectos de los problemas que les aquejan. Del mismo modo, se contempla el análisis de la implicación del grupo. Tal como fue mencionado en el eje anterior, es la profundización de la comprensión en términos de examinar las dinámicas de transferencia y contratransferencia ligadas a los problemas (",
+     [
+      "a",
+      {
+       "href": "#t-r4",
+       "id": "t-llamada-r4-4"
+      },
+      "Blondel, 2012"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "#t-r17",
+       "id": "t-llamada-r17-1"
+      },
+      "Guist-Desprairies, 2011"
+     ],
+     ")."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "es"
+     },
+     "Eje 6. El análisis del sociólogo o socióloga clínica en solitario. Este análisis se realiza para objetivar los procesos desarrollados en el grupo. Se pone en juego la completitud del proceso de intervención, y sus diferentes capas analíticas. También, analiza su propia implicación con el proceso, haciendo explícita su no neutralidad con la investigación. De igual manera, en este eje se desarrolla la redacción del informe o reporte final (",
+     [
+      "a",
+      {
+       "href": "#t-r4",
+       "id": "t-llamada-r4-5"
+      },
+      "Blondel, 2012"
+     ],
+     ")."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "es"
+     },
+     "Ahora bien, los efectos de este tipo de trabajo es que permite reforzar el compromiso de los miembros con la organización, al mismo tiempo que la desvinculación con el sufrimiento. Hay un movimiento que facilita la toma de decisiones de parte de los participantes ligada al hacer con la problemática. Es por ello, que es posible sostener que este tipo de aproximación tiene aspiraciones emancipatorias (",
+     [
+      "a",
+      {
+       "href": "#t-r40",
+       "id": "t-llamada-r40-1"
+      },
+      "Yzaguirre, 2024"
+     ],
+     ")."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "es"
+     },
+     "Finalmente, la restitución a la comunidad es central a la hora de dar cierre a una investigación-acción desde la aproximación de la sociología clínica. La restitución no es exclusiva de la sociología clínica, sino que está presente en diferentes perspectivas de las ciencias sociales (",
+     [
+      "a",
+      {
+       "href": "#t-r23",
+       "id": "t-llamada-r23-1"
+      },
+      "Massa, 2013"
+     ],
+     "). Siguiendo a Ana Massa, la restitución tiene que ver con cómo el investigador equilibra la relación con los participantes a partir de la apertura al terreno y la entrega de información valiosa que le permite hacer su estudio. ",
+     [
+      "a",
+      {
+       "href": "#t-r19",
+       "id": "t-llamada-r19-2"
+      },
+      "Gratton (2012)"
+     ],
+     " describe dos tipos de restituciones, la primera, de orden ético; la segunda, de orden clínico."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "es"
+     },
+     "La restitución ética devuelve los resultados considerando el proceso global de la inmersión en el terreno. Se posiciona en los marcos del proyecto político o comunitario que le dieron su origen y examina una vez más con los miembros el conocimiento creado. La restitución clínica, por su parte, es el espacio que se le otorga a la comunidad en la difusión del conocimiento creado. ",
+     [
+      "a",
+      {
+       "href": "#t-r19",
+       "id": "t-llamada-r19-3"
+      },
+      "Gratton (2012)"
+     ],
+     " ofrece diferentes alternativas: desde una conversación privada o pública, una conferencia, un debate o una publicación. En definitiva es el ejercicio intelectual final que es compartido por todos los implicados."
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "section",
+    {
+     "id": "t-s3_2"
+    },
+    "\n",
+    [
+     "h3",
+     {
+      "lang": "es",
+      "id": "t-seccion-7"
+     },
+     "Calibrar pensamiento, emoción y acción: fundamentos epistemológicos para la experiencia"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "es"
+     },
+     "En el marco de la paradoja institucional que atraviesa el sistema educativo -donde promueve el bienestar mientras se profundizan condiciones laborales adversas- (",
+     [
+      "a",
+      {
+       "href": "#t-r15",
+       "id": "t-llamada-r15-2"
+      },
+      "Gaulejac & Guerrero, 2017"
+     ],
+     ") han emergido distintas formas de comprender la salud mental y el bienestar."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "es"
+     },
+     "Una primera perspectiva, coherente con la lógica del rendimiento, interpreta el malestar como una falla individual que debe ser gestionada mediante estrategias personales de autorregulación emocional. En este enfoque, tanto trabajadores como estudiantes deben adaptarse a las exigencias del sistema, desplazando las causas del sufrimiento hacia el ámbito privado, despolitizando sus raíces estructurales."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "es"
+     },
+     "Una segunda mirada, más crítica, entiende que las tensiones emocionales no son simples disfunciones individuales, sino la expresión de conflictos organizacionales y sociales. Desde esta óptica, el malestar indica la necesidad de transformar las condiciones estructurales del trabajo y de la vida escolar para permitir una experiencia más saludable y justa (",
+     [
+      "a",
+      {
+       "href": "#t-r13",
+       "id": "t-llamada-r13-1"
+      },
+      "Fardella & Sisto, 2014"
+     ],
+     ")."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "es"
+     },
+     "Desde nuestro enfoque, proponemos una tercera vía, pionera desde la Sociología clínica. Esta perspectiva concibe a los sujetos no solo como individuos, sino como seres corporales, relacionales y políticos. La salud laboral, en este marco, se construye colectivamente en la posibilidad de reflexionar con otros sobre qué significa hacer bien el trabajo. El malestar se reconoce como una forma legítima de conocimiento, que puede abrir preguntas fundamentales sobre el sentido del trabajo y las condiciones en que este se realiza."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "es"
+     },
+     "Por ello, nuestras intervenciones incorporan técnicas de exploración que median la emergencia de la palabra permitiendo que las experiencias sean narradas, compartidas y colectivamente resignificadas. No se trata solo de prevenir riesgos psicosociales o gestionar síntomas de desgaste, sino de construir condiciones para que el trabajo educativo recupere su dimensión ética, creativa y transformadora. Este enfoque pone en el centro la experiencia vivida, el reconocimiento de la subjetividad y la posibilidad de disputar colectivamente el sentido del trabajo y del cuidado como parte de la tarea educativa en las escuelas."
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "section",
+    {
+     "id": "t-s3_3"
+    },
+    "\n",
+    [
+     "h3",
+     {
+      "id": "t-seccion-8"
+     },
+     "Metodología de sistematización"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "es"
+     },
+     "Para el análisis de la información, se empleó el Análisis Temático Reflexivo (ATR), una variante específica del Análisis Temático (AT). El AT es un método popular y flexible para analizar datos cualitativos en múltiples disciplinas, que se centra en identificar patrones de significado (temas) y puede adaptarse a diversos marcos teóricos y preguntas de investigación. ",
+     [
+      "a",
+      {
+       "href": "#t-r5",
+       "id": "t-llamada-r5-1"
+      },
+      "Braun y Clarke (2013)"
+     ],
+     " desarrollaron un enfoque particular dentro del AT, al que denominaron Análisis Temático Reflexivo (ATR), caracterizado por enfatizar la subjetividad del investigador y por su flexibilidad para utilizarse en distinction marcos teóricos. Mientras que el AT en general engloba diversas aproximaciones con filosofías y procedimientos variables, el ATR constituye una metodología concreta y rigurosa que guía al investigador a través de fases específicas: familiarización con los datos, codificación, y desarrollo y revisión de temas. Su propósito es identificar dichos patrones de significado para responder a una pregunta de investigación específica, como la que orienta este artículo: ¿Qué temáticas y qué tipos de relaciones sociales generan mayor sobrecarga en la vivencia escolar de los docentes? En la siguiente figura se presentan las diferentes fases de este proceso."
+    ],
+    "\n",
+    [
+     "figure",
+     {
+      "id": "t-f1"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "Figura 1:"
+     ],
+     "\n",
+     [
+      "figcaption",
+      {},
+      [
+       "h3",
+       {
+        "id": "t-seccion-9"
+       },
+       [
+        "i",
+        {},
+        "Fases del ATR"
+       ],
+       ". Source: Elaboración propia"
+      ]
+     ],
+     "\n",
+     [
+      "figure",
+      {},
+      "\n",
+      [
+       "table",
+       {},
+       "\n",
+       "\n",
+       [
+        "tbody",
+        {},
+        "\n",
+        [
+         "tr",
+         {},
+         "\n",
+         [
+          "td",
+          {},
+          [
+           "b",
+           {},
+           "1"
+          ]
+         ],
+         "\n",
+         [
+          "td",
+          {},
+          "Familiarización con los datos"
+         ],
+         "\n"
+        ],
+        "\n",
+        [
+         "tr",
+         {},
+         "\n",
+         [
+          "td",
+          {},
+          [
+           "b",
+           {},
+           "2"
+          ]
+         ],
+         "\n",
+         [
+          "td",
+          {},
+          "Codificación"
+         ],
+         "\n"
+        ],
+        "\n",
+        [
+         "tr",
+         {},
+         "\n",
+         [
+          "td",
+          {},
+          [
+           "b",
+           {},
+           "3"
+          ]
+         ],
+         "\n",
+         [
+          "td",
+          {},
+          "Generación de temas iniciales"
+         ],
+         "\n"
+        ],
+        "\n",
+        [
+         "tr",
+         {},
+         "\n",
+         [
+          "td",
+          {},
+          [
+           "b",
+           {},
+           "4"
+          ]
+         ],
+         "\n",
+         [
+          "td",
+          {},
+          "Revisión de temas"
+         ],
+         "\n"
+        ],
+        "\n",
+        [
+         "tr",
+         {},
+         "\n",
+         [
+          "td",
+          {},
+          [
+           "b",
+           {},
+           "5"
+          ]
+         ],
+         "\n",
+         [
+          "td",
+          {},
+          "Definir y nombrar temas"
+         ],
+         "\n"
+        ],
+        "\n",
+        [
+         "tr",
+         {},
+         "\n",
+         [
+          "td",
+          {},
+          [
+           "b",
+           {},
+           "6"
+          ]
+         ],
+         "\n",
+         [
+          "td",
+          {},
+          "Escribir los resultados"
+         ],
+         "\n"
+        ],
+        "\n"
+       ],
+       "\n"
+      ],
+      "\n"
+     ],
+     "\n"
+    ],
+    "\n"
+   ],
+   "\n"
+  ],
+  [
+   "section",
+   {
+    "id": "t-s4"
+   },
+   "\n",
+   [
+    "h2",
+    {
+     "lang": "es",
+     "id": "t-seccion-10"
+    },
+    "Revisión del dispositivo de intervención “Nadie queda afuera”"
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "es"
+    },
+    "El juego de mesa “Nadie queda afuera” es un instrumento cualitativo diseñado para diagnosticar la salud laboral de las comunidades educativas, explorando las dinámicas relacionales y las experiencias subjetivas de los trabajadores de la educación. A través de su formato lúdico, este recurso permitió comprender la vivencia cotidiana del trabajo escolar, considerando aspectos emocionales, cognitivos, fisiológicos, conductuales y decisionales."
+   ],
+   "\n",
+   [
+    "section",
+    {
+     "id": "t-s4_1"
+    },
+    "\n",
+    [
+     "h3",
+     {
+      "id": "t-seccion-11"
+     },
+     "Diseño ¿Cómo fue creado?"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "es"
+     },
+     "El diseño del instrumento se fundamenta en la siguiente comprensión teórica de la escuela y sus integrantes. El trabajo en la escuela se crea y se sostiene gracias a la existencia del ámbito vincular dinámico. Este es entendido como una red de procesos psicosociales, organizacionales y sociológicos que configuran la vivencia de los actores en el espacio/tiempo escolar."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "es"
+     },
+     "Siguiendo a ",
+     [
+      "a",
+      {
+       "href": "#t-r3",
+       "id": "t-llamada-r3-1"
+      },
+      "Telma Barreiro (2009)"
+     ],
+     ", el ámbito vincular posee normas y una tonalidad afectiva. Su regulación no es perfecta, ni ideal, ya que se construye y deconstruye cotidianamente. Asimismo, permite el funcionamiento de la organización cuando hay niveles de reconocimiento de la autenticidad del vínculo. En contextos de crisis, estos vínculos se tensionan, afectando la vivencia subjetiva de la comunidad, siendo posible abordarlas en la medida que se reconocen los efectos que producen, pero comprendidas dentro de un contexto en el que son producidas."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "es"
+     },
+     "En la institución escolar, los vínculos tienen un propósito educativo, facilitan el aprendizaje, al mismo tiempo que favorecen el desarrollo de habilidades para la convivencia social. En ese sentido, el ámbito vincular es central para entender la salud y el bienestar de una comunidad escolar. Comprender su funcionamiento, permite explicar aquellas prácticas que favorecen la salud o por el contrario fomentan el malestar en el trabajo."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "es"
+     },
+     "Tanto Barreiro (2003) como ",
+     [
+      "a",
+      {
+       "href": "#t-r28",
+       "id": "t-llamada-r28-1"
+      },
+      "Pichón-Riviére (2000)"
+     ],
+     " sostienen la idea que para construir vínculos nutritivos en la comunidad habría que poder identificar (1) la confianza entre los sujetos, (2) el conocimiento sobre el contexto social y cultural en el que se desarrollan los vínculos de la comunidad, (3) el autoconocimiento de los sujetos sobre sus propias experiencias escolar, y (4) reflexionar sobre las formas actuales de vinculación con la comunidad."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "es"
+     },
+     "En el modelo de Barreiro, se proponen siete vínculos. Para el diseño situado del tablero, recogemos esos vínculos, pero adaptamos sus definiciones al contexto local, siendo enunciadas como:"
+    ],
+    "\n",
+    [
+     "ul",
+     {},
+     "\n",
+     [
+      "li",
+      {
+       "lang": "es"
+      },
+      [
+       "span",
+       {},
+       "–"
+      ],
+      [
+       "p",
+       {},
+       "Vínculo consigo mismo: es la articulación entre el pasado, presente y futuro ligado a la experiencia escolar. Si bien incorpora elementos de la formación disciplinar, va más allá de ella."
+      ]
+     ],
+     "\n",
+     [
+      "li",
+      {
+       "lang": "es"
+      },
+      [
+       "span",
+       {},
+       "–"
+      ],
+      [
+       "p",
+       {},
+       "Vínculo con el conocimiento: se estructura en torno a la teoría y al saber hacer. En la actualidad este vínculo es más que currículum-didáctica-evaluación, requiere conocimientos de protocolos escolares, teoría socioemocional y educación inclusiva."
+      ]
+     ],
+     "\n",
+     [
+      "li",
+      {
+       "lang": "es"
+      },
+      [
+       "span",
+       {},
+       "–"
+      ],
+      [
+       "p",
+       {},
+       "Vínculo con cada estudiante: es la relación uno a uno que se construye en el cruce del ideal, real y aquel que uno fue. Está mediada por las formas de comunicación, el tipo de lenguaje y las brechas de intereses generacionales (por ejemplo, el lenguaje no binario)."
+      ]
+     ],
+     "\n",
+     [
+      "li",
+      {
+       "lang": "es"
+      },
+      [
+       "span",
+       {},
+       "–"
+      ],
+      [
+       "p",
+       {},
+       "Vínculo con el grupo como un todo: corresponde a la forma de relación con el grupo de estudiantes, uso de estrategias, límites y mecanismos de relacionales que pongo en juego para crear un ambiente propicio para el aprendizaje."
+      ]
+     ],
+     "\n",
+     [
+      "li",
+      {
+       "lang": "es"
+      },
+      [
+       "span",
+       {},
+       "–"
+      ],
+      [
+       "p",
+       {},
+       "Vínculo con sus pares: es una relación basada en los principios de igualdad. Pueden operar mecanismos o estrategias de cooperación y/o competencia."
+      ]
+     ],
+     "\n",
+     [
+      "li",
+      {
+       "lang": "es"
+      },
+      [
+       "span",
+       {},
+       "–"
+      ],
+      [
+       "p",
+       {},
+       "Vínculo con las autoridades: con el conjunto de personas que están en una posición jerárquica superior. Va desde las jefaturas intermedias (coordinaciones de área), ha equipo directivo del centro educativo, Dirección de la educación Municipal, Ministerio de educación. La autoridad prescribe, evalúa y fiscaliza el trabajo."
+      ]
+     ],
+     "\n",
+     [
+      "li",
+      {
+       "lang": "es"
+      },
+      [
+       "span",
+       {},
+       "–"
+      ],
+      [
+       "p",
+       {},
+       "Vínculo con familias y/o cuidadores: se construye sobre valores como proximidad, compromiso y confianza. Es clave analizar sus bases: ¿se limita a lo disciplinario-punitivo, o incluye comunicación informativa, formación y reconocimiento de logros estudiantiles?"
+      ]
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "es"
+     },
+     "El diseño del tablero se desarrolló en cuatro etapas:"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "es"
+     },
+     "Etapa 1. Revisión teórica sobre el trabajo docente en Chile a la luz del ámbito vincular. Se identificaron temas comunes, tales como la sobrecarga emocional, enfermedades de los profesionales de la educación, relaciones de poder en la escuela, violencia y colaboración entre pares."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "es"
+     },
+     "Etapa 2. Construcción de temas y enunciados. A partir de la revisión, se definieron temas centrales que permitieron la redacción de enunciados, que tributaban hacia la vivencia subjetiva de los trabajadores de la educación. De este trabajo se crean 592 tarjetas agrupadas en tres mazos de cartas (docentes, directivos y asistentes de la educación). El mazo de docentes se compone de 212 tarjetas, donde cada carta tributa a los siete vínculos del ámbito vincular (presentados anteriormente)."
+    ],
+    "\n",
+    [
+     "figure",
+     {
+      "id": "t-T1"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "Tabla 1:"
+     ],
+     "\n",
+     [
+      "figcaption",
+      {},
+      [
+       "h3",
+       {
+        "id": "t-seccion-12"
+       },
+       "Construcción de temas y enunciados"
+      ]
+     ],
+     "\n",
+     [
+      "table",
+      {},
+      "\n",
+      [
+       "thead",
+       {},
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "th",
+         {},
+         "Dimensión de la vivencia subjetiva"
+        ],
+        "\n",
+        [
+         "th",
+         {},
+         "Definición"
+        ],
+        "\n",
+        [
+         "th",
+         {},
+         "Ejemplos de enunciados en las tarjetas"
+        ],
+        "\n"
+       ],
+       "\n"
+      ],
+      "\n",
+      [
+       "tbody",
+       {},
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {},
+         [
+          "b",
+          {},
+          "Dimensión emocional"
+         ]
+        ],
+        "\n",
+        [
+         "td",
+         {
+          "lang": "es"
+         },
+         "Refiere a las emociones y sentimientos que expresan los trabajadores según el tema"
+        ],
+        "\n",
+        [
+         "td",
+         {},
+         "“Me siento superado por”;",
+         [
+          "br",
+          {}
+         ],
+         "“Me molesta”; “Me incomoda”; “Me agota”"
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {},
+         [
+          "b",
+          {},
+          "Dimensión cognitiva"
+         ]
+        ],
+        "\n",
+        [
+         "td",
+         {
+          "lang": "es"
+         },
+         "Son ideas, pensamientos y creencias con las cuales el trabajador responde según el tema"
+        ],
+        "\n",
+        [
+         "td",
+         {
+          "lang": "es"
+         },
+         "“Creo que es muy complejo”; “Es contradictorio que”; “Me quedo en blanco cuando”"
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {},
+         [
+          "b",
+          {},
+          "Dimensión fisiológica"
+         ]
+        ],
+        "\n",
+        [
+         "td",
+         {},
+         "Refiere a la respuesta consciente o inconsciente del cuerpo frente a una temática que impide su trabajo."
+        ],
+        "\n",
+        [
+         "td",
+         {
+          "lang": "es"
+         },
+         "“Se me acelera el corazón cuando”; “Me falta el aire cuando”; “Me cuesta dormir porque”"
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {},
+         [
+          "b",
+          {},
+          "Dimensión conductual"
+         ]
+        ],
+        "\n",
+        [
+         "td",
+         {},
+         "Son conductas conscientes e inconscientes frente a una temática"
+        ],
+        "\n",
+        [
+         "td",
+         {
+          "lang": "es"
+         },
+         "“Tiendo a alejarme cuando”; “Tengo que forzar la voz cuando”; “Si no estoy de pie”"
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {},
+         [
+          "b",
+          {},
+          "Dimensión decisional"
+         ]
+        ],
+        "\n",
+        [
+         "td",
+         {
+          "lang": "es"
+         },
+         "Refiere al conjunto de decisiones que son tomadas por el trabajador frente a la temática."
+        ],
+        "\n",
+        [
+         "td",
+         {},
+         "“Antes me preocupaba, hoy no me interesa”; “Me falta compromiso para”"
+        ],
+        "\n"
+       ],
+       "\n"
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "aside",
+      {},
+      "\n",
+      [
+       "aside",
+       {
+        "rol": "fn"
+       },
+       [
+        "p",
+        {},
+        "Elaboración propia"
+       ]
+      ],
+      "\n"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "es"
+     },
+     "Etapa 3. Revisión de cartas con duplas técnico-pedagógicas y convivencia escolar. Los enunciados fueron evaluados por profesionales miembros de la Dirección de Educación Municipal para ajustar su pertinencia al contexto local. A su vez, esto aseguró que el lenguaje fuera accesible y que las situaciones representaran desafíos reales de las escuelas y liceos de la comuna."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "es"
+     },
+     "Etapa 4. Presentación y pilotaje del juego. El instrumento se socializó con las jefaturas que solicitaron el diagnóstico, más las duplas técnico-pedagógicas y de convivencia, que en su parte mayoritaria son docentes de la comuna que salieron del aula mediante comisión de servicio, para cumplir la labor de asesor técnico-pedagógico. En esta fase, se probó el formato del “juego de cartas”. El pilotaje permitió ajustar la claridad de las consigas, comprobar el uso del tiempo y la profundidad de los temas."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "es"
+     },
+     "Etapa 5. Diseño de estrategia de implementación del juego de mesa. La estrategia se diseñó colaborativamente entre las duplas técnico-pedagógicas, las jefaturas y nosotras. Para agrupar a los 44 centros educativos dependientes del municipio, solicitamos a las duplas priorizar a los establecimientos que tienen a cargo de acuerdo a estos tres criterios:"
+    ],
+    "\n",
+    [
+     "ol",
+     {},
+     "\n",
+     [
+      "li",
+      {},
+      [
+       "p",
+       {},
+       "Presencia de conflictos con/entre estudiantes"
+      ]
+     ],
+     "\n",
+     [
+      "li",
+      {},
+      [
+       "p",
+       {},
+       "Conflictos entre pares (profesionales de la educación)"
+      ]
+     ],
+     "\n",
+     [
+      "li",
+      {},
+      [
+       "p",
+       {},
+       "Conflictos con las autoridades"
+      ]
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "es"
+     },
+     "Con la priorización, se ordenaron los establecimientos educativos en cinco grupos que dieron curso a la implementación del tablero. Sumado a ello, se solicitó a cada establecimiento que eligiera entre sus propios miembros a sus participantes. Para que la implementación garantizará la diversidad de voces de la institución, se generaron cuatro criterios que se tenían que considerar para la selección de voluntarios y voluntarias:"
+    ],
+    "\n",
+    [
+     "ol",
+     {},
+     "\n",
+     [
+      "li",
+      {
+       "lang": "es"
+      },
+      [
+       "p",
+       {},
+       "Antigüedad laboral (diversidad de años al interior de la institución educativa)"
+      ]
+     ],
+     "\n",
+     [
+      "li",
+      {
+       "lang": "es"
+      },
+      [
+       "p",
+       {},
+       "Paridad de género (representación de todos los géneros)"
+      ]
+     ],
+     "\n",
+     [
+      "li",
+      {},
+      [
+       "p",
+       {},
+       "Diversidad de roles, funciones y disciplinas"
+      ]
+     ],
+     "\n",
+     [
+      "li",
+      {
+       "lang": "es"
+      },
+      [
+       "p",
+       {},
+       "Diferencia generacional (todas las edades y trayectorias presentes)"
+      ]
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "es"
+     },
+     "Respecto a la cantidad de participantes, el número fue establecido por estamento. En el caso de los docentes se estableció un rango entre ocho a 12 educadoras (aunque en algunos casos participaron hasta 16 personas), todo esto varió según la proporción de trabajadores al interior de la institución."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "es"
+     },
+     "Sobre los aspectos éticos, se resguardaron los siguientes criterios:"
+    ],
+    "\n",
+    [
+     "ol",
+     {},
+     "\n",
+     [
+      "li",
+      {
+       "lang": "es"
+      },
+      [
+       "p",
+       {},
+       "Participación voluntaria: nadie estuvo obligado a hablar o dar su opinión, se consideró la opción de participar como oyentes si la configuración del grupo no inspiraba confianza."
+      ]
+     ],
+     "\n",
+     [
+      "li",
+      {},
+      [
+       "p",
+       {},
+       "Anonimato: no se solicitaron nombres ni se les obligó a presentarse. Tampoco se demandaron listas oficiales de participantes. Solo realizamos conteo de personas por juego."
+      ]
+     ],
+     "\n",
+     [
+      "li",
+      {
+       "lang": "es"
+      },
+      [
+       "p",
+       {},
+       "Confidencialidad: se acordaba con cada grupo que la conversación era confidencial. Se faltaba a la palabra empeñada si la información compartida era difundida en otros espacios de la escuela."
+      ]
+     ],
+     "\n",
+     [
+      "li",
+      {
+       "lang": "es"
+      },
+      [
+       "p",
+       {},
+       "Espacio seguro: el dispositivo se planteó como un espacio seguro para emitir opiniones y apreciaciones que fuesen política y moralmente incorrectas. Se buscó comprender cómo ciertos temas dificultaban la tarea y/o producían sufrimiento en el trabajo."
+      ]
+     ],
+     "\n"
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "section",
+    {
+     "id": "t-s4_2"
+    },
+    "\n",
+    [
+     "h3",
+     {
+      "lang": "es",
+      "id": "t-seccion-13"
+     },
+     "Mecánica del juego ¿Cómo es el juego “Nadie queda afuera”?"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "es"
+     },
+     "El juego de mesa “Nadie queda afuera” se compone de los siguientes materiales:"
+    ],
+    "\n",
+    [
+     "ul",
+     {},
+     "\n",
+     [
+      "li",
+      {
+       "lang": "es"
+      },
+      [
+       "span",
+       {},
+       "–"
+      ],
+      [
+       "p",
+       {},
+       "Un tablero que tiene dos caras: la cara principal posee el esquema del ámbito vincular y espacios señalados para dejar los mazos de las cartas. En reverso, el tablero muestra una tabla que permite ordenar la discusión en torno a las causas sociales, organizacionales e individuales que estarían a la base de los temas seleccionados."
+      ]
+     ],
+     "\n",
+     [
+      "li",
+      {
+       "lang": "es"
+      },
+      [
+       "span",
+       {},
+       "–"
+      ],
+      [
+       "p",
+       {},
+       "Seis mazos de cartas: dos para docentes, dos para directivos y dos para asistentes de la educación. Cada par de mazos forma un juego independiente para trabajar con un estamento específico. En el caso de los docentes, incluye un mazo principal con enunciados vinculares y otro secundario con siete cartas de definiciones contextualizadas."
+      ]
+     ],
+     "\n",
+     [
+      "li",
+      {},
+      [
+       "span",
+       {},
+       "–"
+      ],
+      [
+       "p",
+       {},
+       "72 botones de colores: 24 morados, 24 rosados y 24 verdes."
+      ]
+     ],
+     "\n",
+     [
+      "li",
+      {},
+      [
+       "span",
+       {},
+       "–"
+      ],
+      [
+       "p",
+       {},
+       "Un cronómetro"
+      ]
+     ],
+     "\n",
+     [
+      "li",
+      {},
+      [
+       "span",
+       {},
+       "–"
+      ],
+      [
+       "p",
+       {},
+       "Post-it"
+      ]
+     ],
+     "\n",
+     [
+      "li",
+      {},
+      [
+       "span",
+       {},
+       "–"
+      ],
+      [
+       "p",
+       {},
+       "Lápiz para tomar notas."
+      ]
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "El tablero se juega en cuatro momentos:"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "es"
+     },
+     "Momento 1. Contextualización y encuadre. Se da la bienvenida a los participantes y se menciona la condigna."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "es"
+     },
+     "La consigna del juego es: ",
+     [
+      "i",
+      {},
+      "“hoy no vamos a hablar de aquello que resulta y sale bien, vamos a hablar de aquellos temas que impiden su trabajo, de todo aquello que hace que usted piense y sienta que no puede hacer bien su trabajo”."
+     ],
+     " Después se comentan las normas del juego (duración, criterios de participación y criterios éticos). Luego se realiza una breve descripción sobre la salud laboral. Se invita a los participantes a hacer una lectura de las cartas de definiciones del ámbito vincular y con ello establecer un marco común de conocimiento entre el conjunto de los participantes."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "es"
+     },
+     "Momento 2. Distribución y Selección de cartas. Se distribuyen 12 cartas por participante. Se da un tiempo de 5 minutos para la lectura. Se invita a los participantes a escoger aquellas cartas que refirieran a temáticas que impiden su trabajo cotidiano. Si entre sus 12 cartas no hay temas relevantes, puede devolverlas y sacar más hasta que se cumpla el tiempo. El mínimo de cartas a escoger es 1 y el máximo es 7. Al terminar el tiempo, los jugadores presentan sus cartas sobre la mesa para que todos puedan leerlas."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "es"
+     },
+     "Momento 3. Votación por las tarjetas que producen mayor malestar laboral. Los participantes reciben seis botones (dos de cada color) que utilizarán para votar por las tarjetas que reflejen su experiencia en la escuela. El color verde significa malestar bajo, morado malestar medio y rosado malestar alto. Durante 5 minutos, los participantes podían leer el conjunto de tarjetas seleccionadas y dejar los botones de colores según sus preferencias."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "es"
+     },
+     "Momento 4. Análisis de las causas y temporalidades de las tarjetas. Para este momento se trabaja con las tarjetas que han recibido mayor cantidad de botones, de preferencia de colores rosado, morado y verde (en ese orden). Para el análisis solo se seleccionan 3 cartas. Se invita a los participantes a dar vuelta el tablero, descubriendo la tabla que guía la conversación. Para profundizar en la conversación se interrogan a las tarjetas sobre dos preguntas, la primera es: Según vuestra experiencia cotidiana ¿ustedes consideran que las causas de la carta son sociales, organizacionales o individuales? Los participantes pueden decir que sus causas son múltiples o centrarse en un solo aspecto. La segunda pregunta es ¿hace cuánto tiempo ese tema está presente en el trabajo, “desde siempre”, “empezó con la pandemia (covid19), “con la implementación de X política educativa” “este problema es tan antiguo como la existencia de la escuela o liceo”, entre otros. El tablero no busca generar acuerdos, sino comprensiones sobre la complejidad del trabajo educativo en la actualidad, en ese sentido, el conjunto de participantes puede manifestar disensos y no alterar la dinámica."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "es"
+     },
+     "La duración total de la implementación del tablero de mesa es entre una 1h30 minutos a 2 horas."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "es"
+     },
+     "El rol del moderador(a) es poner en juego las estrategias socioclínicas, escucha activa, mediación de la palabra, co-interpretación de la vivencia escolar. Se busca que los participantes se involucren en el desarrollo del tablero, aun cuando su deseo sea la escucha."
+    ],
+    "\n"
+   ],
+   "\n"
+  ],
+  [
+   "section",
+   {
+    "id": "t-s5"
+   },
+   "\n",
+   [
+    "h2",
+    {
+     "lang": "es",
+     "id": "t-seccion-14"
+    },
+    "¿A qué nos abrió la puerta el juego de mesa? Presentación de los hallazgos"
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "es"
+    },
+    "Dos horas de conversación socioclínica con el profesorado, nos llevó directamente al corazón del malestar docente. En total, se realizaron 18 aplicaciones al profesorado, correspondiente a 16 establecimientos de la comuna. El tablero confirma la hipótesis que se manejaba al interior del equipo de Gestión Pedagógica comunal: “existe una cultura escolar comunal que daña a sus trabajadores y a sus comunidades”. ¿Cómo opera ese daño? La conversación nos permitió comprender las lógicas que entretejen esa cultura de maltrato."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Para el profesorado hay cuatro vínculos que están tensionados:"
+   ],
+   "\n",
+   [
+    "section",
+    {
+     "id": "t-s5_1"
+    },
+    "\n",
+    [
+     "h3",
+     {
+      "id": "t-seccion-15"
+     },
+     "Vínculo consigo mismo"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "es"
+     },
+     "La realidad supera la experiencia escolar y la formación disciplinar. El profesorado se encuentra confrontado a situaciones y temáticas que son desconocidas. La escuela, se percibe como un espacio hostil y extraño, siendo el vínculo consigo mismo un resorte de las hostilidades vividas cotidianamente. La tarjeta más votada en el juego fue ",
+     [
+      "i",
+      {},
+      "“siento que nunca descanso”"
+     ],
+     ", que tuvo botones de color rosado (malestar alto) y morado (malestar medio). Frente al enunciado de la tarjeta, el desgaste y agobio se grafican en los siguientes ejemplos:"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "es"
+     },
+     [
+      "i",
+      {},
+      "“Es un trabajo que no termina nunca, llego a soñar que corrijo”"
+     ],
+     ", señala el profesor de una escuela primaria. Situación que se intensifica a mediados y finales de semestre donde frecuentemente se calendarizan las evaluaciones. En otra escuela primaria, un profesor manifestaba ",
+     [
+      "i",
+      {},
+      "“Siento que cada vez me cuesta más dormir porque me quedo pensando”"
+     ],
+     ". El docente profundiza su relato al comentar lo difícil que es prepararse mentalmente para ir a trabajar a una clase donde los estudiantes tienen problemas de disciplina. Él complementa ",
+     [
+      "i",
+      {},
+      "“me quedo hasta tarde haciéndome el ánimo que tengo clases con ese curso, me duele el pecho, me da ansiedad, no me gusta ese curso y me pasa todas las noches antes de hacerles clases (respira profundo y hace una pausa mientras empuña sus manos) yo sé que esto no está bien, porque uno tiene que ser imparcial con los niños, pero estos niños no me agradan, y no me gusta estar con ellos, pero lo tengo que hacer igual, porque es mi trabajo” (Escuela primaria 3)"
+     ],
+     "."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "es"
+     },
+     "Las causas de estas dinámicas se alojan en la cultura de la rendición de cuentas y sus altas consecuencias. Planificaciones excesivas que cambian con cada administración, más la idea de calidad entendida como resultado de las evaluaciones, se interioriza en el cuerpo docente una relación entre cantidad de horas pedagógicas y número de evaluaciones por semestre."
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "section",
+    {
+     "id": "t-s5_2"
+    },
+    "\n",
+    [
+     "h3",
+     {
+      "id": "t-seccion-16"
+     },
+     "Vínculo con el conocimiento"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "es"
+     },
+     "En la conversación se constata que el vínculo es más que currículum-didáctica-evaluación, pues requiere de conocimientos de protocolos escolares, teoría socioemocional y educación inclusiva."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "es"
+     },
+     "Se conversa sobre la sensación de agobio que produce planificar las clases, aludiendo a que este se percibe como un mecanismo de control por parte de las autoridades, más que un instrumento que permita robustecer y mejorar la calidad de la enseñanza. Esto se corrobora en el sentido que las planificaciones son solicitadas, pero extrañamente retroalimentadas. Sumado a ello, se discute sobre los efectos que produce la proliferación excesiva de protocolos para la organización de la vida escolar. La tarjeta ",
+     [
+      "i",
+      {},
+      "“me agobia tanto protocolo que hay que usar”"
+     ],
+     " abre el reflexión de un profesor ",
+     [
+      "i",
+      {},
+      "“el problema, es que ahora hay protocolo para todo, antes ocupábamos criterio profesional y con eso bastaba”"
+     ],
+     ", pero es increpado por una docente que dice ",
+     [
+      "i",
+      {},
+      "“sí, ocupábamos criterio, pero a veces ese criterio dejaba harto que desear, porque acuérdate que teníamos colegas que eran ofensivos con los niños y por suerte ese tipo de cosas ahora son mal vistas, porque el protocolo vino a regularlas”"
+     ],
+     ". Entonces otra profesora complementa ",
+     [
+      "i",
+      {},
+      "“efectivamente antes no había garantía de derecho, pero yo creo que pasamos de un extremo a otro, desde no tener nada a ahora tener un cerro de protocolos, y no hay vida suficiente para aprendérselos todos”"
+     ],
+     " y otro profesor responde ",
+     [
+      "i",
+      {},
+      "“¡sí, sobre todo cuando se redactan por abogados, nadie entiende nada!” (Escuela primaria 1)"
+     ],
+     "."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "es"
+     },
+     "Lo que se co-construye en la conversación refiere a la idea de invisibilización del criterio profesional en la toma de decisiones respecto al funcionamiento de la institución. La enseñanza y el aprendizaje son eminentemente relacionales y afectivos. El protocolo, si bien es reconocido como un piso mínimo que orienta el deber-ser, en ciertas comunidades escolares actúa como imperativo, anulando la capacidad reflexiva y creativa del profesional."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "es"
+     },
+     "Con otro grupo de profesores y profesoras de primaria, se conversa sobre a la aplicación del criterio profesional respecto a las situaciones de indisciplina en aula. La profesora expone la situación al decir ",
+     [
+      "i",
+      {},
+      "“Antes, cuando tenías un niño que era disruptivo en aula, y hacía algo que estaba mal, tu resolvías rápidamente con el inspector general, pero desde que está convivencia, que hay impunidad, porque el problema se resolvía el mismo día, pero como ahora tu derivas, y tu ya no tomas la decisión, el niño no regula su conducta, y el problema sigue, porque convivencia trabaja con otras lógicas, y no está en aula con nosotros, entonces"
+     ],
+     " (mira hacia arriba y con tono sarcástico añade) ",
+     [
+      "i",
+      {},
+      "conoce la historia familiar de los niños, los protegen, y eso está bien, pero entre el evento de la sala, la derivación a convivencia y la resolución de inspectoría general pueden pasar, días, meses o el año completo, y eso no puede seguir así” (Escuela primaria 4)"
+     ],
+     "."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "es"
+     },
+     "La reflexión de la profesora es interesante porque muestra la fragmentación del trabajo docente y la distancia que existe entre la experiencia escolar (pasada), y la formación inicial."
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "section",
+    {
+     "id": "t-s5_3"
+    },
+    "\n",
+    [
+     "h3",
+     {
+      "id": "t-seccion-17"
+     },
+     "Vínculo con las autoridades"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "es"
+     },
+     "La relación con las jerarquías se vive por parte del profesorado desde la precariedad laboral y la opresión. Ambos fenómenos se dan en diferentes jerarquías que van desde las jefaturas directas, hasta la búsqueda de responsables a nivel ministerial."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "es"
+     },
+     "En la relación histórica con la dirección de educación municipal (DEM), el profesorado manifiesta su descontento a través de la tarjeta ",
+     [
+      "i",
+      {},
+      "“no me dan los materiales básicos para hacer bien mi trabajo”"
+     ],
+     ". Al profundizar en la conversación, el profesorado refiere a las carencias de materiales, que acarrean los establecimientos por décadas. Una profesora de liceo señala ",
+     [
+      "i",
+      {},
+      "“estamos mal acostumbrados a sacar plata de nuestro bolsillo para comprar los materiales para trabajar”"
+     ],
+     "."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "es"
+     },
+     "Por otro lado, respecto a la relación que construyen con sus equipos directivos, reconocen el desgaste de la relación, esto, se expresó en la selección de las siguientes tarjetas ",
+     [
+      "i",
+      {},
+      "“mis jefaturas valoran poco lo que se hace”, “mucha crítica y poca construcción”, “los consejos de profesores son informativos”, “las metas y objetivos no son reales para la realidad de la escuela”"
+     ],
+     ". Los docentes dialogan sobre la falta de empatía de las jefaturas para comprender el trabajo actual. Un profesor de liceo señala ",
+     [
+      "i",
+      {},
+      "“es que aquí te tratan como cabros chicos, cuando llegamos a los consejos, es para puro escuchar informaciones, además hay veces en que los directivos se ponen metas que son, francamente irreales para la escuela, no tenemos materiales, ni tampoco las capacidades, ni la formación y quieren que hagamos milagros (…) está bien que tengamos altas expectativas, pero mira bien donde estas y date cuenta de lo que puedes hacer” (Liceo 3)"
+     ],
+     ". Esta escena es ampliamente compartida por los docentes, donde existe una demanda por lograr aprendizajes de calidad, pero el vínculo se tensiona, porque no existen procesos deliberantes respecto a los propósitos de la escuela en el corto, mediano y largo plazo."
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "section",
+    {
+     "id": "t-s5_4"
+    },
+    "\n",
+    [
+     "h3",
+     {
+      "id": "t-seccion-18"
+     },
+     "Vínculo con los pares"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "es"
+     },
+     "En algunos establecimientos más que en otros, la aplicación del juego de mesa fue complejo dado el clima de hostilidad entre pares. Si bien jerárquicamente la relación se basa en los principios de igualdad, se observaron diferentes mecanismos de sabotaje y/o competencia."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "es"
+     },
+     "La tarjeta ",
+     [
+      "i",
+      {},
+      "“siento que hay colegas que se centran solo en lo malo que ocurre en la escuela y/o liceo y no proponen soluciones”"
+     ],
+     ", permitió la apertura a una conversación difícil que se complementó con ",
+     [
+      "i",
+      {},
+      "“tengo colegas que son muy violentos, no se saben expresar”"
+     ],
+     ". Una de las profesoras abre la discusión diciendo ",
+     [
+      "i",
+      {},
+      "“tenemos una colega que no se mide, y que cada vez que se abren espacios de conversación la colega se queja, se queja y se queja, y escucharla es agotador, porque podemos estar de acuerdo con sus ideas de base, pero sus formas son muy violentas"
+     ],
+     " (hace una pausa) ",
+     [
+      "i",
+      {},
+      "le hemos dicho en todos los tonos que su conducta está mal, pero sigue igual” (Escuela primaria, 8)"
+     ],
+     "."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "es"
+     },
+     "Finalmente, en cuatro escuelas y liceos aparece con fuerza el problema del rumor. Para el propósito de este artículo expondremos dos situaciones que relata el profesorado. La primera indica como el rumor instala la desconfianza entre pares, y menciona ",
+     [
+      "i",
+      {},
+      "“aquí en la comuna hay mucha rotación, a ti te cambian de una escuela a otra cuando los directores te ponen a disposición, como estas en el sistema público no te pueden echar, pero si te cambian de escuela, entonces, cuando llega alguien nuevo, lo primero que pensamos es que viene castigado”"
+     ],
+     ", cuando el profesor termina de hablar, una profesora comenta ",
+     [
+      "i",
+      {},
+      "“es que esto es como dice el dicho ‘pueblo chico, infierno grande’ porque las que estamos en el gremio, sabemos a quién mandaron castigado y a quién no, y eso se sabe, se sabe rápido, incluso antes que se informe administrativamente”"
+     ],
+     ". Luego una profesora más joven dice ",
+     [
+      "i",
+      {},
+      "“se acuerdan cuando llegó la secretaria este año, yo pensaba que era la hermana de la directora porque se parecen”"
+     ],
+     ", y una profesora la complementa ",
+     [
+      "i",
+      {},
+      "“¡ay si!, se parecen… ¿oye pero le preguntaste alguna vez?”"
+     ],
+     " le pregunta a su colega y ella responde ",
+     [
+      "i",
+      {},
+      "“no, porque eso fue lo que me contaron” (escuela primaria 5)."
+     ]
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "es"
+     },
+     "El rumor circula rápidamente entre las comunidades escolares, no hay control ni duda frente al rumor y se constata con ello que es una práctica que está profundamente arraigada en la cultura organizacional de la comuna. El rumor se alimenta tanto de la vida profesional como de la vida privada, pues los rumores pueden ser por el desempeño en el trabajo, por la vestimenta, el cuerpo, o lo que se realizó fuera de la escuela y se publicó en redes sociales. De acuerdo con el relato en un liceo, los rumores tienen un propósito y tiene que ver con el control que pueden ejercer las jefaturas sobre la dinámica de trabajo. Una profesora señala ",
+     [
+      "i",
+      {},
+      "“el rumor sirve para el ‘divide y vencerás’ porque tú puedes hablar con tu jefe para que el rumor se detenga, pero él no lo detiene, porque lo usa a su favor, y eso duele (hace una pausa) eso duele mucho, porque daña tu honra y tu confianza, yo ya no sé en quién puedo confiar”"
+     ],
+     ". Cuando se pregunta por las temporalidades del rumor, una profesora dice ",
+     [
+      "i",
+      {},
+      "“¡uff, yo llevo 25 años trabajando aquí y esto siempre ha sido igual, nadie le pone freno!” (liceo 6)"
+     ],
+     "."
+    ],
+    "\n"
+   ],
+   "\n"
+  ],
+  [
+   "section",
+   {
+    "id": "t-s6"
+   },
+   "\n",
+   [
+    "h2",
+    {
+     "id": "t-seccion-19"
+    },
+    "Consideraciones finales"
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "es"
+    },
+    "La implementación del juego de mesa diagnóstico “Nadie queda afuera” demostró ser un dispositivo efectivo para comprender el estado de la salud laboral de las comunidades educativas. A lo largo del escrito, hemos reconstruido escenas significativas de las conversaciones entre docentes, evidenciando tanto la dificultad estructural para hablar del trabajo educativo como la potencia transformadora de este tipo de espacios. Los resultados confirman el vínculo indisoluble entre investigación e intervención en sociología clínica, donde principios como la escucha activa y la co-construcción permiten no solo diagnosticar sino también transformar las prácticas. El diseño lúdico -con sus tiempos, reglas y movimientos definidos- logró ritualizar la palabra, catalizando la queja inicial en reflexión crítica situada."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "es"
+    },
+    "Cada sesión de implementación generó una intensa carga emocional. Como equipo moderador, culminábamos las intervenciones con sensaciones de angustia, tristeza o rabia -afectos que dan cuenta del peso de lo escuchado-. Tras cada encuentro, realizábamos un proceso inmediato de verbalización y registro de nuestras propias implicaciones, buscando de esta manera, preservar la frescura de la experiencia. Hoy, después de dos años de distancia reflexiva, emprendemos esta sistematización con mayor claridad analítica. El tiempo de reposo nos permitió identificar con precisión tres dimensiones claves: (1) los aprendizajes alcanzados, (2) las limitaciones del dispositivo, y (3) las proyecciones futuras. A ellas nos dedicaremos a lo largo de esta última sección."
+   ],
+   "\n",
+   [
+    "section",
+    {
+     "id": "t-s6_1"
+    },
+    "\n",
+    [
+     "h3",
+     {
+      "id": "t-seccion-20"
+     },
+     "Lo que aprendimos"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "es"
+     },
+     "Con la implementación, logramos sensibilizar al profesorado sobre las ideas de salud y trabajo como categorías que son construidas en permanencia, donde tienen características polisémicas, paradojales y bivalentes (",
+     [
+      "a",
+      {
+       "href": "#t-r16",
+       "id": "t-llamada-r16-1"
+      },
+      "Gaulejac & Hanique, 2015"
+     ],
+     "). Esta sensibilización significó salir de la dimensión individual y conectar la vivencia subjetiva con la comunidad, lo social y lo histórico. También, accedimos a la comprensión de nudos de sufrimiento, que están construidos por la pérdida del lazo social, la fragmentación del trabajo y la idea de una escuela que se ha precarizado. A su vez, observamos los efectos en el corto plazo del diagnóstico, por ejemplo, la posibilidad de compartir la experiencia entre pares significó el impulso para algunos docentes de atreverse a denunciar el maltrato institucional que recibían. Se percibió de buena manera el cambio de la administración y se estableció a las jefaturas de la DEM como aliadas en terminar con el clima de impunidad. Esto permitió juntar evidencias robustas para desplegar sumarios administrativos por malas prácticas."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "es"
+     },
+     "El trabajo realizado fue bien acogido por quienes lo demandaron, aun cuando los resultados fueron desoladores, existió la apertura para construir la restitución a nivel ético (porque se construyeron informes para cada escuela) y restitución socioclínica, aquella que respondió al proceso dialéctico con las jefaturas para preparar la devolución considerando los elementos socio-políticos del contexto y pensando en los mejores mecanismos de control de daño para cuidar y proteger tanto a las comunidades como al MEC (",
+     [
+      "a",
+      {
+       "href": "#t-r19",
+       "id": "t-llamada-r19-4"
+      },
+      "Gratton, 2012"
+     ],
+     ")."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "es"
+     },
+     "Por último, el tablero fue parte de una estrategia mayor de salud laboral, que acompañó la experiencia piloto en dos establecimientos y la aplicación del cuestionario que mide riesgos psicosociales. Como resultado de esa trayectoria, se propuso una definición específica de salud laboral en el ámbito educativo. Desde esta perspectiva, el bienestar no se reduce a la adaptación individual ni a la reparación emocional, sino que se construye en la capacidad colectiva de resistir a los mandatos contradictorios del sistema educativo y de deliberar, en comunidad, para responder a la pregunta de ¿cómo responder a dos paradigmas que hoy coexisten: el de la eficiencia y el control, versus el de la justicia, el cuidado y el aprendizaje integral?"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "es"
+     },
+     "Nombrar estas tensiones, analizarlas y hacerlas objeto de discusión colectiva, es el primer paso para transformar el trabajo educativo en un espacio digno, compartido y con sentido. En este marco, se comprende la salud laboral como un estado de bienestar psicológico, social y material que permite al conjunto de trabajadores desarrollar su labor con sentido, eficacia y reconocimiento. Esta definición no se basa en el bienestar como una sensación interna, sino en condiciones laborales objetivas y vínculos humanos significativos que permiten hacer el trabajo bien y con otros."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "es"
+     },
+     "En el sector educativo, esta visión cobra especial relevancia. A diferencia de otros sectores, los y las trabajadoras de la educación —docentes, directivos, orientadores, administrativos y auxiliares— comparten su jornada laboral con sus beneficiarios directos: niños, niñas y jóvenes. Esta convivencia convierte al vínculo humano en el eje estructurante del trabajo educativo y, por tanto, de su salud laboral."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "es"
+     },
+     "Cuidar a quienes enseñan no puede separarse del cuidado de quienes aprenden. La salud de las y los trabajadores se entrelaza con el bienestar infantil y juvenil, en una relación de mutua dependencia. De esta forma, no se puede pensar el cuidado del adulto en la escuela sin pensar también en el tipo de comunidad educativa que se construye."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "es"
+     },
+     "Junto con los vínculos, las condiciones materiales son otro pilar del bienestar. Salarios dignos, estabilidad contractual, infraestructura adecuada, tiempos razonables y recursos pedagógicos suficientes son elementos esenciales para el ejercicio saludable de cualquier profesión, pero resultan aún más críticos en contextos de alta exigencia emocional como la escuela. El desgaste vocal, los lumbagos y los cuadros de agotamiento extremo no son patologías personales, sino manifestaciones corporales de condiciones estructurales del trabajo (",
+     [
+      "a",
+      {
+       "href": "#t-r20",
+       "id": "t-llamada-r20-1"
+      },
+      "Guerrero et al., 2021"
+     ],
+     ")."
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "section",
+    {
+     "id": "t-s6_2"
+    },
+    "\n",
+    [
+     "h3",
+     {
+      "id": "t-seccion-21"
+     },
+     "Las limitaciones del dispositivo"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "es"
+     },
+     "La implementación del tablero enfrentó como principal limitación la imposibilidad de sostener un proceso de intervención longitudinal. Si bien el dispositivo logró movilizar transformaciones iniciales y entregar orientaciones valiosas, su impacto habría sido más profundo con dos condiciones adicionales: (1) la disponibilidad de más profesionales especializados para el acompañamiento continuo, y (2) mayores plazos temporales para trabajar sistemáticamente con las comunidades escolares. Esta restricción estructural revela una tensión frecuente en intervenciones psicosociales: la brecha entre los hallazgos diagnósticos y la capacidad institucional para darles continuidad operativa."
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "section",
+    {
+     "id": "t-s6_3"
+    },
+    "\n",
+    [
+     "h3",
+     {
+      "id": "t-seccion-22"
+     },
+     "La proyección del trabajo"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "es"
+     },
+     "Actualmente, el juego se encuentra en fase de revisión metodológica para su validación formal, tras demostrar su utilidad en un número significativo de establecimientos. Los ajustes contemplan:"
+    ],
+    "\n",
+    [
+     "ul",
+     {},
+     "\n",
+     [
+      "li",
+      {
+       "lang": "es"
+      },
+      [
+       "span",
+       {},
+       "–"
+      ],
+      [
+       "p",
+       {},
+       "Actualización de contenido: Incorporación de la evolución conceptual sobre salud laboral educativa desarrollada posteriormente a su creación."
+      ]
+     ],
+     "\n",
+     [
+      "li",
+      {
+       "lang": "es"
+      },
+      [
+       "span",
+       {},
+       "–"
+      ],
+      [
+       "p",
+       {},
+       "Rediseño mecánico: Optimización de sus dinámicas lúdicas basada en los aprendizajes de su aplicación inicial."
+      ]
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "es"
+     },
+     "Si bien el dispositivo tiene potencial para escalar a nivel nacional -dada su buena acogida-, este salto requiere:"
+    ],
+    "\n",
+    [
+     "ul",
+     {},
+     "\n",
+     [
+      "li",
+      {
+       "lang": "es"
+      },
+      [
+       "span",
+       {},
+       "–"
+      ],
+      [
+       "p",
+       {},
+       "El desarrollo de una estrategia de implementación más robusta"
+      ]
+     ],
+     "\n",
+     [
+      "li",
+      {
+       "lang": "es"
+      },
+      [
+       "span",
+       {},
+       "–"
+      ],
+      [
+       "p",
+       {},
+       "Mecanismos claros de articulación con las políticas públicas existentes"
+      ]
+     ],
+     "\n",
+     [
+      "li",
+      {},
+      [
+       "span",
+       {},
+       "–"
+      ],
+      [
+       "p",
+       {},
+       "Protocolos de formación para equipos facilitadores"
+      ]
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "es"
+     },
+     "En definitiva, esta experiencia de investigación-intervención reafirma la pertinencia de la sociología clínica como enfoque capaz de articular el malestar subjetivo con sus anclajes estructurales, abriendo caminos para resignificar colectivamente el trabajo educativo. El dispositivo lúdico-diagnóstico no solo operó como un medio para hacer visible aquello que el cotidiano escolar silencia, sino que se constituyó como un acto político al habitar la palabra y restituir, al menos parcialmente, el lazo social erosionado. Los aprendizajes y limitaciones aquí sistematizados invitan a sostener una vigilancia epistemológica constante: no basta con diagnosticar las fuentes del sufrimiento laboral si no se generan, al mismo tiempo, condiciones institucionales que permitan alojar los hallazgos y acompañar las transformaciones. En ese sentido, la validación del juego no puede desentenderse de una reflexión más amplia sobre las políticas de cuidado en el sistema educativo, pues la salud laboral de quienes enseñan es indisociable del bienestar de quienes aprenden y de la posibilidad de construir escuelas más justas, habitables y democráticas."
+    ],
+    "\n"
+   ],
+   "\n"
+  ],
+  [
+   "section",
+   {},
+   "\n",
+   [
+    "h2",
+    {
+     "id": "t-seccion-23"
+    },
+    "Referencias bibliográficas"
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r1",
+     "rol": "ref",
+     "lang": "es"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Aguilera Chávez"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "P."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "2023"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "La experiencia del liceo autogestionado Manuel barros Borgoño, autonomía y militancia"
+      ],
+      ". ",
+      [
+       "i",
+       {},
+       "(Santiago de chile 2011)"
+      ]
+     ],
+     ". [Tesis para optar al grado de Licenciado en Historia]. ",
+     [
+      "span",
+      {},
+      "Santiago"
+     ],
+     ": ",
+     [
+      "span",
+      {},
+      "Universidad de Chile"
+     ],
+     ". ",
+     [
+      "a",
+      {
+       "href": "https://repositorio.uchile.cl/bitstream/2250/197047/1/La-experiencia-del-liceo-autogestionado-Manuel-Barros-Borgono.pdf"
+      },
+      "https://repositorio.uchile.cl/bitstream/2250/197047/1/La-experiencia-del-liceo-autogestionado-Manuel-Barros-Borgono.pdf"
+     ]
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r2",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Assaél"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "J"
+      ]
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Cornejo"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "R"
+      ]
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "González"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "J"
+      ]
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Redondo"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "J"
+      ]
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Sánchez"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "R"
+      ]
+     ],
+     " & ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Sobarzo"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "M."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "2011"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "La empresa educativa chilena"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Educ Soc"
+      ]
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      "32"
+     ],
+     "(",
+     [
+      "span",
+      {},
+      "115"
+     ],
+     "):",
+     [
+      "span",
+      {},
+      "305"
+     ],
+     "–",
+     [
+      "span",
+      {},
+      "322"
+     ],
+     ". ",
+     [
+      "a",
+      {
+       "href": "https://doi.org/10.1590/S0101-73302011000200004"
+      },
+      "https://doi.org/10.1590/S0101-73302011000200004"
+     ]
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r3",
+     "rol": "ref",
+     "lang": "es"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Barreiro"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "T."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "2009"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Los del Fondo. Conflictos, vínculos e inclusión en el aula"
+      ]
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Buenos Aires"
+     ],
+     ": ",
+     [
+      "span",
+      {},
+      "Ediciones Novedades Educativas"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r4",
+     "rol": "ref",
+     "lang": "fr"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Blondel"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "F."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "2012"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "L’approche clinique dans les dispositifs de recherche-action"
+     ],
+     ". In: ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "V"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "De Gaulejac"
+      ]
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "F"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "Hanique"
+      ]
+     ],
+     " & ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "P"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "Roche"
+      ]
+     ],
+     " (eds). ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "La sociologie clinique"
+      ]
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Paris"
+     ],
+     ": ",
+     [
+      "span",
+      {},
+      "érès"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "226"
+     ],
+     "–",
+     [
+      "span",
+      {},
+      "243"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r5",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Braun"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "V"
+      ]
+     ],
+     " & ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Clarke"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "V."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "2013"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Successful qualitative research a practical guide for beginners"
+      ]
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "London"
+     ],
+     ": ",
+     [
+      "span",
+      {},
+      "SAGE"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r6",
+     "rol": "ref",
+     "lang": "es"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      "Centro de Investigación Avanzada en Educación (CIAE)"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "2018"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Deserción en carreras de pedagogía en Chile"
+      ]
+     ],
+     ". Informe OFD n°9. ",
+     [
+      "span",
+      {},
+      "Santiago"
+     ],
+     ": ",
+     [
+      "span",
+      {},
+      "CIAE"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r7",
+     "rol": "ref",
+     "lang": "es"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Conejeros"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "JP."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "1999"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "La influencia cultural francesa en la educación chilena, 1840–1880"
+      ]
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Santiago"
+     ],
+     ": ",
+     [
+      "span",
+      {},
+      "UCSH"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r8",
+     "rol": "ref",
+     "lang": "es"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Contreras"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "T."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "2024"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Liceos Históricos en tránsito: Desafíos en la construcción de una enseñanza media inclusiva"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Revista de experiencias pedagógicas"
+      ]
+     ],
+     ", (",
+     [
+      "span",
+      {},
+      "especial"
+     ],
+     "):",
+     [
+      "span",
+      {},
+      "70"
+     ],
+     "–",
+     [
+      "span",
+      {},
+      "72"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r9",
+     "rol": "ref",
+     "lang": "es"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Cox"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "C."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "2015"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Políticas educacionales en el cambio de siglo: La reforma del sistema escolar en Chile"
+      ]
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Santiago"
+     ],
+     ": ",
+     [
+      "span",
+      {},
+      "Ediciones UC"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r10",
+     "rol": "ref",
+     "lang": "es"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      "Dirección de Educación Municipal"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "2022"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Plan anual de desarrollo educativo municipal"
+      ]
+     ],
+     ". ",
+     [
+      "a",
+      {
+       "href": "https://documentos.munistgo.cl/plan-anual-de-desarrollo-educativo-municipal-padem-2022/"
+      },
+      "https://documentos.munistgo.cl/plan-anual-de-desarrollo-educativo-municipal-padem-2022/"
+     ]
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r11",
+     "rol": "ref",
+     "lang": "es"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Elige"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "Educar"
+      ]
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "2022"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Resumen ejecutivo: Retención, rotación, salidas de aula y reincorporación docente"
+      ]
+     ],
+     ". ",
+     [
+      "a",
+      {
+       "href": "https://eligeeducar.cl/content/uploads/2022/11/resumen-ejecutivo-estudio-retencioxxn-rotacioxxn-salidas-de-aula-y-reincorporacioxxn-docente.pdf"
+      },
+      "https://eligeeducar.cl/content/uploads/2022/11/resumen-ejecutivo-estudio-retencioxxn-rotacioxxn-salidas-de-aula-y-reincorporacioxxn-docente.pdf"
+     ]
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r12",
+     "rol": "ref",
+     "lang": "es"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Falabella"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "A."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "2015"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "El mercado escolar en Chile y el surgimiento de la Nueva Gestión Pública"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Educ Soc"
+      ]
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      "36"
+     ],
+     "(",
+     [
+      "span",
+      {},
+      "132"
+     ],
+     "):",
+     [
+      "span",
+      {},
+      "699"
+     ],
+     "–",
+     [
+      "span",
+      {},
+      "722"
+     ],
+     ". ",
+     [
+      "a",
+      {
+       "href": "https://doi.org/10.1590/ES0101-73302015152420"
+      },
+      "https://doi.org/10.1590/ES0101-73302015152420"
+     ]
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r13",
+     "rol": "ref",
+     "lang": "es"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Fardella"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "C"
+      ]
+     ],
+     " & ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Sisto"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "V."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "2014"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "La constitución de la profesión docente y su vínculo con la construcción de Estado y política educativa en Chile"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Práxis Educacional"
+      ]
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      "10"
+     ],
+     "(",
+     [
+      "span",
+      {},
+      "17"
+     ],
+     "):",
+     [
+      "span",
+      {},
+      "17"
+     ],
+     "–",
+     [
+      "span",
+      {},
+      "49"
+     ],
+     ". ",
+     [
+      "a",
+      {
+       "href": "https://periodicos2.uesb.br/praxis/article/view/776"
+      },
+      "https://periodicos2.uesb.br/praxis/article/view/776"
+     ]
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r14",
+     "rol": "ref",
+     "lang": "es"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Garcés"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "M."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "2012"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "El despertar de la sociedad: Los movimientos sociales en América Latina"
+      ]
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Santiago"
+     ],
+     ": ",
+     [
+      "span",
+      {},
+      "LOM"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r15",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Gaulejac"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "V"
+      ]
+     ],
+     " & ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Guerrero"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "P."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "2017"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Gestión paradojante del capitalismo actual: un sistema que nos está volviendo locos"
+     ],
+     ". In: ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "H"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "Foladori"
+      ]
+     ],
+     " & ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "P"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "Guerrero"
+      ]
+     ],
+     " (eds). ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Malestar en el trabajo. Desarrollo e intervención"
+      ]
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Santiago"
+     ],
+     ": ",
+     [
+      "span",
+      {},
+      "LOM"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "13"
+     ],
+     "–",
+     [
+      "span",
+      {},
+      "27"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r16",
+     "rol": "ref",
+     "lang": "fr"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Gaulejac"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "V"
+      ]
+     ],
+     " & ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Hanique"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "F."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "2015"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Le capitalisme paradoxant. Un système qui rend fou"
+      ]
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Paris"
+     ],
+     ": ",
+     [
+      "span",
+      {},
+      "Points"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r17",
+     "rol": "ref",
+     "lang": "fr"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Giust-Desprairies"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "F."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "2011"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Instaurer une démarche clinique d’analyse de practice aujourd’hui: un bras de fer épistémologique"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Nouvelle revue de psychosociologie"
+      ]
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      "11"
+     ],
+     "(",
+     [
+      "span",
+      {},
+      "1"
+     ],
+     "):",
+     [
+      "span",
+      {},
+      "67"
+     ],
+     "–",
+     [
+      "span",
+      {},
+      "83"
+     ],
+     ". ",
+     [
+      "a",
+      {
+       "href": "https://doi.org/10.3917/nrp.011.0067"
+      },
+      "https://doi.org/10.3917/nrp.011.0067"
+     ]
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r18",
+     "rol": "ref",
+     "lang": "fr"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Giust-Desprairies"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "F."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "2013"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "La clinique, une épistémologie pour les sciences de l’homme"
+     ],
+     ". In: ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "V"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "De Gaulejac"
+      ]
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "F"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "Giust-Desprairies"
+      ]
+     ],
+     " & ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "A"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "Massa"
+      ]
+     ],
+     " (eds). ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "La recherche clinique en sciences sociales"
+      ]
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Paris"
+     ],
+     ": ",
+     [
+      "span",
+      {},
+      "Érès"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "15"
+     ],
+     "–",
+     [
+      "span",
+      {},
+      "29"
+     ],
+     ". ",
+     [
+      "a",
+      {
+       "href": "https://doi.org/10.3917/eres.massa.2013.01.0015"
+      },
+      "https://doi.org/10.3917/eres.massa.2013.01.0015"
+     ]
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r19",
+     "rol": "ref",
+     "lang": "fr"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Gratton"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "E."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "2012"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Pour une co-construction socioclinique"
+     ],
+     ". In: ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "V"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "De Gaulejac"
+      ]
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "F"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "Hanique"
+      ]
+     ],
+     " & ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "P"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "Roche"
+      ]
+     ],
+     " (eds). ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "La sociologie clinique"
+      ]
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Paris"
+     ],
+     ": ",
+     [
+      "span",
+      {},
+      "érès"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "251"
+     ],
+     "–",
+     [
+      "span",
+      {},
+      "268"
+     ],
+     ". ",
+     [
+      "a",
+      {
+       "href": "https://doi.org/10.3917/eres.roche.2007.01.0251"
+      },
+      "https://doi.org/10.3917/eres.roche.2007.01.0251"
+     ]
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r20",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Guerrero"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "P"
+      ]
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Díaz Meza"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "R"
+      ]
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Roth-Eichin"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "N"
+      ]
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Castro"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "L"
+      ]
+     ],
+     " & ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Luna"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "L."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "2021"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "De clientes a colaboradores: Imaginarios colectivos de equipos directivos sobre familias en contexto de Pandemia"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Psicoperspectivas"
+      ]
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      "20"
+     ],
+     "(",
+     [
+      "span",
+      {},
+      "3"
+     ],
+     "):",
+     [
+      "span",
+      {},
+      "12"
+     ],
+     [
+      "a",
+      {
+       "href": "https://dx.doi.org/10.5027/psicoperspectivas-vol20-issue3-fulltext-2442"
+      },
+      "https://doi.org/10.5027/psicoperspectivas-Vol20-Issue3-fulltext-2442"
+     ]
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r21",
+     "rol": "ref",
+     "lang": "es"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Insunza"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "J."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "2024"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Recontrucción y construcción de la experiencia esoclar en contextos de conflictos"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Revista de experiencias pedagógicas"
+      ]
+     ],
+     ", (",
+     [
+      "span",
+      {},
+      "especial"
+     ],
+     "):",
+     [
+      "span",
+      {},
+      "73"
+     ],
+     "–",
+     [
+      "span",
+      {},
+      "75"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r22",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Marcodoppido"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "F."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "2019"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Demande"
+     ],
+     ". In: ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "A"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "Vandevelde-Rougale"
+      ]
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "P"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "Fugier"
+      ]
+     ],
+     " & ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "V"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "De Gaulejac"
+      ]
+     ],
+     " (eds). ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Dictionnaire de sociologie clinique"
+      ]
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Paris"
+     ],
+     ": ",
+     [
+      "span",
+      {},
+      "érès"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "183"
+     ],
+     "–",
+     [
+      "span",
+      {},
+      "186"
+     ],
+     ". ",
+     [
+      "a",
+      {
+       "href": "https://doi.org/10.3917/eres.vande.2019.01.0183"
+      },
+      "https://doi.org/10.3917/eres.vande.2019.01.0183"
+     ]
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r23",
+     "rol": "ref",
+     "lang": "fr"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Massa"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "A."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "2013"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "« Donner, recevoir, rendre » ou la « restitution » dans une recherche clinique"
+     ],
+     ". In: ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "V"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "De Gaulejac"
+      ]
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "F"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "Giust-Desprairies"
+      ]
+     ],
+     " & ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "A"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "Massa"
+      ]
+     ],
+     " (eds). ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "La recherche clinique en sciences sociales"
+      ]
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Paris"
+     ],
+     ": ",
+     [
+      "span",
+      {},
+      "érès"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "99"
+     ],
+     "–",
+     [
+      "span",
+      {},
+      "114"
+     ],
+     ". ",
+     [
+      "a",
+      {
+       "href": "https://doi.org/10.3917/eres.massa.2013.01.0099"
+      },
+      "https://doi.org/10.3917/eres.massa.2013.01.0099"
+     ]
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r24",
+     "rol": "ref",
+     "lang": "es"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Michelot"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "C."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "2009"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Demanda"
+     ],
+     ". In: ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "J"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "Barus-Michel"
+      ]
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "E"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "Enriquez"
+      ]
+     ],
+     " & ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "A"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "Lévy"
+      ]
+     ],
+     " (eds). ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Psicosociologia. Nociones y Autores fundamentales"
+      ]
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "ME"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "Tijoux"
+      ]
+     ],
+     " (transl). ",
+     [
+      "span",
+      {},
+      "Santiago"
+     ],
+     ": ",
+     [
+      "span",
+      {},
+      "Ediciones Universidad Católica Silva Henríquez"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r25",
+     "rol": "ref",
+     "lang": "es"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      "Ministerio de educación Chile"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "2022"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Impulsando el cambio de paradigma. Horizontes de transformación educativa para el Chile del siglo XXI"
+      ]
+     ],
+     ". ",
+     [
+      "a",
+      {
+       "href": "https://inclusionyparticipacion.mineduc.cl/wp-content/uploads/sites/113/2022/09/Impulsando-el-Cambio-de-Paradigma.pdf"
+      },
+      "https://inclusionyparticipacion.mineduc.cl/wp-content/uploads/sites/113/2022/09/Impulsando-el-Cambio-de-Paradigma.pdf"
+     ]
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r26",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      "OIT y OMS"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "2022"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Mental health at work: policy brief"
+      ]
+     ],
+     ". ",
+     [
+      "a",
+      {
+       "href": "https://www.who.int/publications/i/item/9789240057944"
+      },
+      "https://www.who.int/publications/i/item/9789240057944"
+     ]
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r27",
+     "rol": "ref",
+     "lang": "es"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      "Organización para la cooperación y el desarrollo económico (OCDE)"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "2004"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Revisión de Políticas Nacionales de Educación"
+      ]
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "París"
+     ],
+     ": ",
+     [
+      "span",
+      {},
+      "OCDE"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r28",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Pichon-Reviére"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "E."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "2000"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Teoría del vínculo"
+      ]
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Buenos Aires"
+     ],
+     ": ",
+     [
+      "span",
+      {},
+      "Nueva visión"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r29",
+     "rol": "ref",
+     "lang": "es"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Reyes"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "L."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "2024"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "La “crisis del liceo” y la construcción comunitaria de experimentación educativa"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Revista de experiencias pedagógicas"
+      ]
+     ],
+     ", (",
+     [
+      "span",
+      {},
+      "especial"
+     ],
+     "):",
+     [
+      "span",
+      {},
+      "76"
+     ],
+     "–",
+     [
+      "span",
+      {},
+      "78"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r30",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Roco"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "R."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "2024"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Liceos Públicos de Santiago"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Revista de experiencias pedagógicas"
+      ]
+     ],
+     ", (",
+     [
+      "span",
+      {},
+      "especial"
+     ],
+     "):",
+     [
+      "span",
+      {},
+      "62"
+     ],
+     "–",
+     [
+      "span",
+      {},
+      "69"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r31",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Rufinelli Vargas"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "A."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "2016"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Ley de desarrollo profesional docente en Chile"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Estudios pedagógicos (Valdivia)"
+      ]
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      "42"
+     ],
+     "(",
+     [
+      "span",
+      {},
+      "4"
+     ],
+     "):",
+     [
+      "span",
+      {},
+      "261"
+     ],
+     "–",
+     [
+      "span",
+      {},
+      "279"
+     ],
+     ". ",
+     [
+      "a",
+      {
+       "href": "https://doi.org/10.4067/s0718-07052016000500015"
+      },
+      "https://doi.org/10.4067/s0718-07052016000500015"
+     ]
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r32",
+     "rol": "ref",
+     "lang": "es"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Sandoval Díaz"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "RE"
+      ]
+     ],
+     " & ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Vial"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "MJ."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "2016"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Archivos escolares que construyen identidad: El liceo público, historia y patrimonio de los chilenos"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Revista Iberoamericana do Patrimônio Histórico-Educativo"
+      ]
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      "2"
+     ],
+     "(",
+     [
+      "span",
+      {},
+      "2"
+     ],
+     "):",
+     [
+      "span",
+      {},
+      "22"
+     ],
+     "–",
+     [
+      "span",
+      {},
+      "36"
+     ],
+     ". ",
+     [
+      "a",
+      {
+       "href": "https://doi.org/10.20888/ridphe_r.v2i2.7153"
+      },
+      "https://doi.org/10.20888/ridphe_r.v2i2.7153"
+     ]
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r33",
+     "rol": "ref",
+     "lang": "es"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Serrano"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "S"
+      ]
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Ponce de León"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "M"
+      ]
+     ],
+     " & ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Rengifo"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "F."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "2012"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Historia de la educación en Chile (1810–2010)"
+      ]
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Santiago"
+     ],
+     ": ",
+     [
+      "span",
+      {},
+      "Taurus"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r34",
+     "rol": "ref",
+     "lang": "es"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Sisto"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "V."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "2012"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Identidades desafiadas: Individualización, managerialismo y trabajo docente en el Chile actual"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Psyche"
+      ]
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      "21"
+     ],
+     "(",
+     [
+      "span",
+      {},
+      "2"
+     ],
+     "):",
+     [
+      "span",
+      {},
+      "35"
+     ],
+     "–",
+     [
+      "span",
+      {},
+      "46"
+     ],
+     ". ",
+     [
+      "a",
+      {
+       "href": "https://doi.org/10.7764/psykhe.21.2.542"
+      },
+      "https://doi.org/10.7764/psykhe.21.2.542"
+     ]
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r35",
+     "rol": "ref",
+     "lang": "es"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Sisto"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "V."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "2018"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Managerialismo, autoritarismo y la lucha por el alma de la gestión"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Rev FAEEBA – Ed e Contemp"
+      ]
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      "27"
+     ],
+     "(",
+     [
+      "span",
+      {},
+      "53"
+     ],
+     "):",
+     [
+      "span",
+      {},
+      "141"
+     ],
+     "–",
+     [
+      "span",
+      {},
+      "156"
+     ],
+     ". ",
+     [
+      "a",
+      {
+       "href": "https://doi.org/10.21879/faeeba2358-0194.2018.v27.n53.p141-156"
+      },
+      "https://doi.org/10.21879/faeeba2358-0194.2018.v27.n53.p141-156"
+     ]
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r36",
+     "rol": "ref",
+     "lang": "es"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Tralma"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "D."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "2022"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "La otra cara del regreso a clases: licencias médicas de profesores crecieron hasta un 353% en la Región Metropolitana"
+      ]
+     ],
+     ". ",
+     [
+      "a",
+      {
+       "href": "https://vergara240.udp.cl/licencias-medicas-de-profesores-crecieron-hasta-un-353-en-la-region-metropolitana/"
+      },
+      "https://vergara240.udp.cl/licencias-medicas-de-profesores-crecieron-hasta-un-353-en-la-region-metropolitana/"
+     ]
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r37",
+     "rol": "ref",
+     "lang": "es"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      "UNESCO"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "2017"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Rendir cuentas en el ámbito de la educación: cumplir nuestros compromisos"
+      ]
+     ],
+     ". ",
+     [
+      "a",
+      {
+       "href": "https://doi.org/10.54676/YGPR6571"
+      },
+      "https://doi.org/10.54676/YGPR6571"
+     ]
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r38",
+     "rol": "ref",
+     "lang": "es"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      "UNESCO"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "2022"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Reimaginar juntos nuestros futuros. Un nuevo contrato social para la educación"
+      ]
+     ],
+     ". ",
+     [
+      "a",
+      {
+       "href": "https://unesdoc.unesco.org/ark:/48223/pf0000379381_spa/PDF/379381spa.pdf.multi"
+      },
+      "https://unesdoc.unesco.org/ark:/48223/pf0000379381_spa/PDF/379381spa.pdf.multi"
+     ]
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r39",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Villalobos Vergara"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "PV"
+      ]
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Barria-Herrera"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "P"
+      ]
+     ],
+     " & ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Díaz Meza"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "RE"
+      ]
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "2024"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "La dimensión institucional de la resiliencia en profesores principiantes chilenos durante la pandemia"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Perfiles Educativos"
+      ]
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      "46"
+     ],
+     "(",
+     [
+      "span",
+      {},
+      "183"
+     ],
+     "):",
+     [
+      "span",
+      {},
+      "76"
+     ],
+     "–",
+     [
+      "span",
+      {},
+      "93"
+     ],
+     ". ",
+     [
+      "a",
+      {
+       "href": "https://doi.org/10.22201/iisue.24486167e.2024.183.61220"
+      },
+      "https://doi.org/10.22201/iisue.24486167e.2024.183.61220"
+     ]
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r40",
+     "rol": "ref",
+     "lang": "es"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Yzaguirre"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "F."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "2024"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Sociología clínica: sujeto y apropiación. Introducción a la perspectiva socioclínica en ciencias humanas, sociales y de la salud"
+      ]
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Madrid"
+     ],
+     ": ",
+     [
+      "span",
+      {},
+      "Editorial Sapere Aude"
+     ],
+     "."
+    ]
+   ],
+   "\n"
+  ]
+ ]
+}

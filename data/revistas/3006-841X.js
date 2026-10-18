@@ -68,7 +68,8 @@
      "url": "https://doi.org/10.36615/kvf96g06",
      "doi": "10.36615/kvf96g06",
      "paginas": null,
-     "fuente": "Crossref"
+     "fuente": "Crossref",
+     "texto_completo": "textos/10-36615-kvf96g06.json"
     },
     {
      "id": "10.36615/y7med626",
@@ -89,7 +90,8 @@
      "url": "https://doi.org/10.36615/y7med626",
      "doi": "10.36615/y7med626",
      "paginas": null,
-     "fuente": "Crossref"
+     "fuente": "Crossref",
+     "texto_completo": "textos/10-36615-y7med626.json"
     },
     {
      "id": "10.36615/e75xhy17",
@@ -110,7 +112,8 @@
      "url": "https://doi.org/10.36615/e75xhy17",
      "doi": "10.36615/e75xhy17",
      "paginas": null,
-     "fuente": "Crossref"
+     "fuente": "Crossref",
+     "texto_completo": "textos/10-36615-e75xhy17.json"
     },
     {
      "id": "10.36615/f9w7v237",
@@ -135,7 +138,8 @@
      "url": "https://doi.org/10.36615/f9w7v237",
      "doi": "10.36615/f9w7v237",
      "paginas": null,
-     "fuente": "Crossref"
+     "fuente": "Crossref",
+     "texto_completo": "textos/10-36615-f9w7v237.json"
     },
     {
      "id": "10.36615/fcpv4670",
@@ -156,7 +160,8 @@
      "url": "https://doi.org/10.36615/fcpv4670",
      "doi": "10.36615/fcpv4670",
      "paginas": null,
-     "fuente": "Crossref"
+     "fuente": "Crossref",
+     "texto_completo": "textos/10-36615-fcpv4670.json"
     },
     {
      "id": "10.36615/n1jads78",
@@ -177,7 +182,8 @@
      "url": "https://doi.org/10.36615/n1jads78",
      "doi": "10.36615/n1jads78",
      "paginas": null,
-     "fuente": "Crossref"
+     "fuente": "Crossref",
+     "texto_completo": "textos/10-36615-n1jads78.json"
     },
     {
      "id": "10.36615/c1k24t04",
@@ -198,7 +204,8 @@
      "url": "https://doi.org/10.36615/c1k24t04",
      "doi": "10.36615/c1k24t04",
      "paginas": "1-23",
-     "fuente": "Crossref"
+     "fuente": "Crossref",
+     "texto_completo": "textos/10-36615-c1k24t04.json"
     },
     {
      "id": "10.36615/6s58v140",
@@ -219,7 +226,8 @@
      "url": "https://doi.org/10.36615/6s58v140",
      "doi": "10.36615/6s58v140",
      "paginas": "55-93",
-     "fuente": "Crossref"
+     "fuente": "Crossref",
+     "texto_completo": "textos/10-36615-6s58v140.json"
     },
     {
      "id": "10.36615/hd6qz184",
@@ -240,7 +248,8 @@
      "url": "https://doi.org/10.36615/hd6qz184",
      "doi": "10.36615/hd6qz184",
      "paginas": "94-126",
-     "fuente": "Crossref"
+     "fuente": "Crossref",
+     "texto_completo": "textos/10-36615-hd6qz184.json"
     }
    ]
   },

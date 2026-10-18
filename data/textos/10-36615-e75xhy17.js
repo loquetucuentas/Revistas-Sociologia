@@ -1,0 +1,7887 @@
+// Copia de textos/10-36615-e75xhy17.json para abrir la aplicación sin servidor.
+(window.DATOS_REVISTAS = window.DATOS_REVISTAS || {})["textos/10-36615-e75xhy17.json"] = {
+ "version": 1,
+ "recogido": "2026-10-18T11:29:36+00:00",
+ "doi": "10.36615/e75xhy17",
+ "titulo": "Clinical Sociology of Activity : A Practical Theory of a Social Change and Subjectivation",
+ "revista": "3006-841X",
+ "numero": "v21-n1-2026",
+ "licencia": {
+  "codigo": "by",
+  "nombre": "CC BY 4.0",
+  "nombre_completo": "Creative Commons Atribución 4.0 Internacional",
+  "url": "https://creativecommons.org/licenses/by/4.0",
+  "url_legal": "https://creativecommons.org/licenses/by/4.0/legalcode.es"
+ },
+ "fuente": {
+  "url": "https://journals.uj.ac.za/index.php/csr/en/article/download/5142/2705",
+  "formato": "XML JATS",
+  "plataforma": "JATS",
+  "pagina": "https://journals.uj.ac.za/index.php/csr/article/view/5142"
+ },
+ "autores_cita": [
+  {
+   "apellidos": "DuJarier",
+   "nombre_pila": "Marie-Anne",
+   "nombre": null
+  }
+ ],
+ "avisos_derechos": [
+  "Copyright (c) 2026 Marie-Anne DuJarier",
+  "©Author(s)",
+  "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
+ ],
+ "idioma_principal": "en",
+ "indice": [
+  {
+   "id": "t-seccion-1",
+   "nivel": 2,
+   "texto": "Introduction",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-2",
+   "nivel": 2,
+   "texto": "Qu’est-ce qui fait que nous faisons ?",
+   "lang": "fr"
+  },
+  {
+   "id": "t-seccion-3",
+   "nivel": 3,
+   "texto": "Les théories de l’action en sciences humaines et sociales : éclatement problématique",
+   "lang": "fr"
+  },
+  {
+   "id": "t-seccion-4",
+   "nivel": 3,
+   "texto": "L’apport de la sociologie clinique latine : la multidétermination génère de l’indétermination",
+   "lang": "fr"
+  },
+  {
+   "id": "t-seccion-5",
+   "nivel": 3,
+   "texto": "Subjectivations",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-6",
+   "nivel": 2,
+   "texto": "Les multidéterminations sociales et psychiques",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-7",
+   "nivel": 3,
+   "texto": "La grande et la petite histoire : héritages, socialisations, nœuds",
+   "lang": "fr"
+  },
+  {
+   "id": "t-seccion-8",
+   "nivel": 3,
+   "texto": "Institutions : des rapports sociaux organisés",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-9",
+   "nivel": 3,
+   "texto": "Des situations d’interaction : les relations possibles",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-10",
+   "nivel": 2,
+   "texto": "Répondre de manière sensée de la multidétermination : l’activité",
+   "lang": "fr"
+  },
+  {
+   "id": "t-seccion-11",
+   "nivel": 3,
+   "texto": "Le « travail réel » ou l’activité, au-delà du prescrit",
+   "lang": "fr"
+  },
+  {
+   "id": "t-seccion-12",
+   "nivel": 3,
+   "texto": "Ouvrir la boîte noire de l’activité : méthode",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-13",
+   "nivel": 3,
+   "texto": "L’activité : une élaboration sensible et signifiante",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-14",
+   "nivel": 3,
+   "texto": "Ce que l’on fait au monde : enjeux politiques et de santé",
+   "lang": "fr"
+  },
+  {
+   "id": "t-seccion-15",
+   "nivel": 3,
+   "texto": "Résister, dégager ou s’adapter",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-16",
+   "nivel": 2,
+   "texto": "Posture, épistémologie et méthodologie cliniques",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-17",
+   "nivel": 3,
+   "texto": "« Clinique » ?",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-18",
+   "nivel": 3,
+   "texto": "Partir des savoirs expérientiels, pré-sociologiques",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-19",
+   "nivel": 3,
+   "texto": "Demandes et commande",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-20",
+   "nivel": 3,
+   "texto": "Premier temps : offrir des cadres de co-interprétation",
+   "lang": "fr"
+  },
+  {
+   "id": "t-seccion-21",
+   "nivel": 3,
+   "texto": "Le second temps de l’interprétation et sa mise à l’épreuve",
+   "lang": "fr"
+  },
+  {
+   "id": "t-seccion-22",
+   "nivel": 3,
+   "texto": "L’implication du chercheur comme ressource pour la recherche",
+   "lang": "fr"
+  },
+  {
+   "id": "t-seccion-23",
+   "nivel": 3,
+   "texto": "Comprendre pour transformer, transformer pour comprendre",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-24",
+   "nivel": 2,
+   "texto": "Conclusion",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-25",
+   "nivel": 2,
+   "texto": "Références",
+   "lang": null
+  }
+ ],
+ "vueltas": {
+  "t-fn1": "t-llamada-fn1-1",
+  "t-r65": "t-llamada-r65-1",
+  "t-r5": "t-llamada-r5-1",
+  "t-fn2": "t-llamada-fn2-1",
+  "t-r36": "t-llamada-r36-1",
+  "t-r64": "t-llamada-r64-1",
+  "t-r35": "t-llamada-r35-1",
+  "t-fn3": "t-llamada-fn3-1",
+  "t-fn4": "t-llamada-fn4-1",
+  "t-r53": "t-llamada-r53-1",
+  "t-fn5": "t-llamada-fn5-1",
+  "t-r24": "t-llamada-r24-1",
+  "t-r56": "t-llamada-r56-1",
+  "t-r7": "t-llamada-r7-1",
+  "t-r37": "t-llamada-r37-1",
+  "t-r8": "t-llamada-r8-1",
+  "t-r32": "t-llamada-r32-1",
+  "t-r23": "t-llamada-r23-1",
+  "t-r4": "t-llamada-r4-1",
+  "t-r46": "t-llamada-r46-1",
+  "t-fn6": "t-llamada-fn6-1",
+  "t-fn7": "t-llamada-fn7-1",
+  "t-r3": "t-llamada-r3-1",
+  "t-fn8": "t-llamada-fn8-1",
+  "t-r52": "t-llamada-r52-1",
+  "t-r60": "t-llamada-r60-1",
+  "t-r18": "t-llamada-r18-1",
+  "t-fn9": "t-llamada-fn9-1",
+  "t-r27": "t-llamada-r27-1",
+  "t-fn10": "t-llamada-fn10-1",
+  "t-r17": "t-llamada-r17-1",
+  "t-r19": "t-llamada-r19-1",
+  "t-r14": "t-llamada-r14-1",
+  "t-r12": "t-llamada-r12-1",
+  "t-r55": "t-llamada-r55-1",
+  "t-r51": "t-llamada-r51-1",
+  "t-fn11": "t-llamada-fn11-1",
+  "t-r11": "t-llamada-r11-1",
+  "t-r66": "t-llamada-r66-1",
+  "t-r62": "t-llamada-r62-1",
+  "t-fn12": "t-llamada-fn12-1",
+  "t-r57": "t-llamada-r57-1",
+  "t-fn13": "t-llamada-fn13-1",
+  "t-r50": "t-llamada-r50-1",
+  "t-r16": "t-llamada-r16-1",
+  "t-r30": "t-llamada-r30-1",
+  "t-r33": "t-llamada-r33-1",
+  "t-r70": "t-llamada-r70-1",
+  "t-r67": "t-llamada-r67-1",
+  "t-r26": "t-llamada-r26-1",
+  "t-r43": "t-llamada-r43-1",
+  "t-r34": "t-llamada-r34-1",
+  "t-r48": "t-llamada-r48-1",
+  "t-r2": "t-llamada-r2-1",
+  "t-r10": "t-llamada-r10-1",
+  "t-r68": "t-llamada-r68-1",
+  "t-r28": "t-llamada-r28-1",
+  "t-fn14": "t-llamada-fn14-1",
+  "t-fn15": "t-llamada-fn15-1",
+  "t-fn16": "t-llamada-fn16-1",
+  "t-fn17": "t-llamada-fn17-1",
+  "t-fn18": "t-llamada-fn18-1",
+  "t-r38": "t-llamada-r38-1",
+  "t-r39": "t-llamada-r39-1",
+  "t-r40": "t-llamada-r40-1",
+  "t-r25": "t-llamada-r25-1",
+  "t-r63": "t-llamada-r63-1",
+  "t-r1": "t-llamada-r1-1",
+  "t-r69": "t-llamada-r69-1",
+  "t-r47": "t-llamada-r47-1",
+  "t-r45": "t-llamada-r45-1",
+  "t-r31": "t-llamada-r31-1",
+  "t-r13": "t-llamada-r13-1",
+  "t-r58": "t-llamada-r58-1",
+  "t-r20": "t-llamada-r20-1",
+  "t-r21": "t-llamada-r21-1",
+  "t-r22": "t-llamada-r22-1",
+  "t-r61": "t-llamada-r61-1",
+  "t-r54": "t-llamada-r54-1",
+  "t-r49": "t-llamada-r49-1",
+  "t-r6": "t-llamada-r6-1"
+ },
+ "contenido": [
+  [
+   "section",
+   {
+    "id": "t-s1"
+   },
+   "\n",
+   [
+    "h2",
+    {
+     "id": "t-seccion-1"
+    },
+    "Introduction"
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "fr"
+    },
+    "Cet article présente l’approche de la sociologie clinique de l’activité (SCA) apparue en France au début du XXI",
+    [
+     "sup",
+     {},
+     "e"
+    ],
+    " siècle. Soucieuse de cumulativité scientifique, d’une part, et favorable à l’unité des sciences humaines et sociales, d’autre part, la SCA propose de dépasser les apparentes contradictions des théories de l’action existantes, à l’aide de la sociologie clinique de tradition française. Elle en propose un développement en précisant quels sont les déterminants de l’action, puis en spécifiant le processus de réponse à l’indétermination produite par leur rencontre, à l’aide des théories pluridisciplinaires de l’activité. Celles-ci ont montré, depuis 70 ans, qu’entre ce qu’on leur dit de faire (le prescrit) et ce que qui est fait finalement (le réalisé), les femmes et les hommes déploient une activité (le « travail réel ») qui engage l’intelligence sensible pour surmonter les obstacles qu’oppose le réel. La connaissance et reconnaissance de cette épaisseur de l’action permettent de préciser l’usage du concept de subjectivation. Celle-ci est dialectique, entre assujettissement et production de sens. L’article précise ensuite comment cette approche s’inscrit dans une posture, épistémologie et mobilise des méthodologies cliniques de recherche-action."
+   ],
+   "\n"
+  ],
+  [
+   "section",
+   {
+    "id": "t-s2"
+   },
+   "\n",
+   [
+    "h2",
+    {
+     "lang": "fr",
+     "id": "t-seccion-2"
+    },
+    "Qu’est-ce qui fait que nous faisons ?"
+   ],
+   "\n",
+   [
+    "section",
+    {
+     "id": "t-s2_3"
+    },
+    "\n",
+    [
+     "h3",
+     {
+      "lang": "fr",
+      "id": "t-seccion-3"
+     },
+     "Les théories de l’action en sciences humaines et sociales : éclatement problématique"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     "Qu’est-ce qui fait que les individus changent ou pas leurs pratiques professionnelles, consuméristes, leurs modes de vie, sexualité ou leurs engagements politiques ? Plus généralement, qu’est-ce qui détermine que, individu ou collectif, font quelque chose ou pas, et ce d’une certaine manière ? Qu’ils reproduisent ou changent l’ordre social ? Quel est à cet égard, le rapport entre la théorie et la pratique ? Entre l’action et les idées ? Entre ce que nous faisons et l’imaginaire, la volonté, le sens, la socialisation ou les institutions ? Est-ce le passé ou bien plutôt la projection dans le futur qui nous fait agir d’une certaine manière ? Et doit-on considérer que les « non humains », tels que les robots, les animaux ou les rivières, ont une agentivité propre ?"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     "À ces questions, les sciences humaines et sociales ont forgé des réponses variées. Et chaque théorie est porteuse de postulats sur ce que sont un être humain et les déterminants principaux de son action. Les approches holistes expliquent l’action humaine d’abord par les forces externes qui s’exercent sur l’individu. Mais selon les écoles de pensée, ces forces varient : il peut s’agir de l’Histoire et de la place dans les rapports de production pour les marxistes, des faits sociaux et institutions, dans une perspective durkheimienne, des fonctions chez Parsons, des structures pour Lévi-Strauss, de la socialisation d’après Bourdieu, par exemple."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     "Les théories relevant de l’individualisme méthodologique, elles, postulent que ce qui permet de comprendre ce que nous faisons relève plutôt des déterminants internes ; l’agrégation des comportements individuels produirait la société. Ici aussi, des hypothèses multiples sont avancées quant à ces forces : les économistes orthodoxes et quelques sociologues postulent que c’est le calcul rationnel conscient des intérêts. La tradition wébérienne affirme que c’est plutôt le sens donné à l’action qui permet de la comprendre. L’interactionnisme, lui, souligne le rôle des interactions ordinaires dans la production de « carrières » et de normes sociales. Les grandes enquêtes sur les idées, opinions, croyances, valeurs et représentations suggèrent, elles, par l’attention qu’elles leur portent, que ce sont ces forces idéelles préconscientes et individuelles qu’il s’agit de connaître afin de comprendre l’action et la formation de la vie sociale. La théorie psychanalytique, elle, met en évidence l’irruption incontrôlée de l’inconscient dans nos discours et actes. D’autres enfin, portent l’attention sur les caractéristiques biologiques, génétiques de l’espèce (bipédie, reproduction sexuée non saisonnière, à deux, accouchement difficile, viviparité, altricialité secondaire) pour expliquer les structures sociales."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     "Dans cette liste non exhaustive des principales théories de l’action, observons que les conflictualités sociales et psychiques y sont considérées comme centrales ou bien marginales, normales ou au contraire pathologiques. Enfin, les déterminants de l’action sont postulés comme étant plus ou moins conscients, volontaires et modifiables."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     "Ces diverses théories de l’action sont donc radicalement opposées en ce sens qu’à leur racine, les postulats sur ce que sont un être humain et ce qui explique son action, diffèrent. Or elles sont étayées empiriquement ; et elles n’ont pas été invalidées à ce jour. Nous nous trouvons donc face à un problème épistémologique : bien que ces théories divergent, voire se contredisent, chacune d’elles apporte un savoir pertinent. Elles proposent donc des explications valides et partielles. Elles sont vraies et fausses à la fois, en somme."
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "section",
+    {
+     "id": "t-s2_4"
+    },
+    "\n",
+    [
+     "h3",
+     {
+      "lang": "fr",
+      "id": "t-seccion-4"
+     },
+     "L’apport de la sociologie clinique latine : la multidétermination génère de l’indétermination"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     "Cette situation nous invite à monter d’un niveau : il s’agirait, plutôt que de continuer à opposer ces théories de l’action, de penser leurs apports respectifs et de les articuler. C’est ce que propose la sociologie clinique de tradition latine (Gaulejac de 1993)",
+     [
+      "a",
+      {
+       "href": "#t-fn1",
+       "id": "t-llamada-fn1-1"
+      },
+      [
+       "sup",
+       {},
+       "1"
+      ]
+     ],
+     ". Elle part du constat empirique que l’individu est produit par la société. Les socialisations primaire et secondaire le soumettent à une multiplicité de déterminations sociales et psychiques. Il est donc d’abord assujetti."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     "Or la multiplicité des déterminants génère, dans un paradoxe apparent, une indétermination. En effet, sauf cas exceptionnels, aucun déterminant n’emporte l’individu de manière inéluctable dans une direction univoque. « C'est parce que l'individu est multidéterminé et que ces déterminations ne poussent pas toutes dans le même sens, qu'il est ‘condamné’ à faire des choix. » (Gaulejac ",
+     [
+      "i",
+      {},
+      "Op. Cit"
+     ],
+     " p. 14). Cliniquement, ce jeu de tensions s’entend et s’éprouve corporellement (« ça prend la tête », « ça fait mal au ventre »), de manière encore plus nette au moment où il s’agit de prendre des décisions explicites."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     "Le sujet tente alors de répondre de ces nœuds sociopsychiques, non sans difficultés ni tâtonnements, pour devenir auteur de son existence. Cette théorie de l’action reprend donc volontiers à son compte l’aphorisme de ",
+     [
+      "a",
+      {
+       "href": "#t-r65",
+       "id": "t-llamada-r65-1"
+      },
+      "Sartre (1952)"
+     ],
+     " : « L’important ce n’est pas ce qu’on fait de nous, mais ce que nous faisons nous-mêmes de ce qu’on a fait de nous »."
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "section",
+    {
+     "id": "t-s2_5"
+    },
+    "\n",
+    [
+     "h3",
+     {
+      "id": "t-seccion-5"
+     },
+     "Subjectivations"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     "La sociologie clinique de tradition latine observe que l’individu est « le produit d’une histoire dont il tente de devenir le sujet » (",
+     [
+      "a",
+      {
+       "href": "#t-r5",
+       "id": "t-llamada-r5-1"
+      },
+      "Bonetti & Gaulejac de 1988"
+     ],
+     ", 55). Il est d’abord fabriqué par la société et le pouvoir, assujetti à lui : c’est le premier moment de subjectivation. Capable de réflexivité par rapport à ces déterminations, il tente d’en répondre par une action sensée, en partie consciente",
+     [
+      "a",
+      {
+       "href": "#t-fn2",
+       "id": "t-llamada-fn2-1"
+      },
+      [
+       "sup",
+       {},
+       "2"
+      ]
+     ],
+     " : c’est une seconde subjectivation (",
+     [
+      "a",
+      {
+       "href": "#t-r36",
+       "id": "t-llamada-r36-1"
+      },
+      "Gaulejac 2008"
+     ],
+     ", ",
+     [
+      "a",
+      {
+       "href": "#t-r64",
+       "id": "t-llamada-r64-1"
+      },
+      "Roche 2007"
+     ],
+     ", ",
+     [
+      "a",
+      {
+       "href": "#t-r35",
+       "id": "t-llamada-r35-1"
+      },
+      "Fugier 2025"
+     ],
+     ")",
+     [
+      "a",
+      {
+       "href": "#t-fn3",
+       "id": "t-llamada-fn3-1"
+      },
+      [
+       "sup",
+       {},
+       "3"
+      ]
+     ],
+     " qui fait de lui le sujet de ses actes. La théorie de l’action de la sociologie clinique épouse donc parfaitement les deux acceptions apparemment opposées du mot « sujet » en langue française : assujetti, d’une part, et auteur.e d’actions, de discours, de sens, qui le fait advenir comme sujet, et notamment comme sujet politique",
+     [
+      "a",
+      {
+       "href": "#t-fn4",
+       "id": "t-llamada-fn4-1"
+      },
+      [
+       "sup",
+       {},
+       "4"
+      ]
+     ],
+     ", d’autre part. Produit par la vie sociale, le sujet est mû par la quête de sens : il est, en somme, le produit d’une double subjectivation sans fin, entre assujettissement et construction d’une réponse sensée à celle-ci."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     "La théorie clinique du sujet l’aborde dans sa globalité bio-socio-psychique, comme un corps socialisé, sensible, pulsionnel, changeant. Le sujet est une histoire incorporée et en devenir, mû par le désir, mais aussi par des questions existentielles, de sens. Celles-ci se conjuguent et remanient le calcul conscient des intérêts autant que ses héritages inconscients. Vulnérable, interdépendant, symbolisant, actif et réflexif, le sujet déploie régulièrement des mécanismes de défense individuel et collectif pour tenter de réduire sa souffrance."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     "La SCA propose de développer cet apport majeur de la sociologie clinique afin d’équiper les chercheur.es pour l’étude de cette subjectivation dialectique."
+    ],
+    "\n"
+   ],
+   "\n"
+  ],
+  [
+   "section",
+   {
+    "id": "t-s3"
+   },
+   "\n",
+   [
+    "h2",
+    {
+     "id": "t-seccion-6"
+    },
+    "Les multidéterminations sociales et psychiques"
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "fr"
+    },
+    "Comment, concrètement, aborder la multidétermination ? La SCA, s’appuyant sur les acquis des sciences humaines et sociales, propose d’explorer méthodiquement l’histoire, les institutions et les situations d’interactions."
+   ],
+   "\n",
+   [
+    "section",
+    {
+     "id": "t-s3_4"
+    },
+    "\n",
+    [
+     "h3",
+     {
+      "lang": "fr",
+      "id": "t-seccion-7"
+     },
+     "La grande et la petite histoire : héritages, socialisations, nœuds"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     "L’histoire est première en ce qu’elle est un déjà là agissant, à tous les niveaux : écosystémique, génétique, institutionnel, organisationnel, groupal et subjectif. Il s’agit de la sédimentation matérielle (",
+     [
+      "a",
+      {
+       "href": "#t-r53",
+       "id": "t-llamada-r53-1"
+      },
+      "Leroi-Gourhan 1993"
+     ],
+     "), c’est-à-dire des choses, telles que des artefacts, des dispositifs et outils mais aussi des infrastructures (villes, lignes ferroviaires, routes, centrales et bombes nucléaires, usines…) et des technologies dont certains se présentent comme des héritages négatifs",
+     [
+      "a",
+      {
+       "href": "#t-fn5",
+       "id": "t-llamada-fn5-1"
+      },
+      [
+       "sup",
+       {},
+       "5"
+      ]
+     ],
+     ". Ils cadrent, équipent et orientent les manières de faire mais aussi de dire et de penser. Chaque génération est immergée dans des systèmes symboliques et langagiers, de catégories de pensée et de classement (",
+     [
+      "a",
+      {
+       "href": "#t-r24",
+       "id": "t-llamada-r24-1"
+      },
+      "Durkheim 2008"
+     ],
+     "). Récits, mythes et cosmogonies s’expriment aussi sous des formes picturales, musicales et gustatives normées. Des techniques du corps (",
+     [
+      "a",
+      {
+       "href": "#t-r56",
+       "id": "t-llamada-r56-1"
+      },
+      "Mauss 2013"
+     ],
+     ") et des savoir-faire sociaux sont aussi incorporés. Simultanément, l’histoire s’objective dans les institutions (",
+     [
+      "a",
+      {
+       "href": "#t-r7",
+       "id": "t-llamada-r7-1"
+      },
+      "Bourdieu 1990"
+     ],
+     "), nous le détaillerons."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     "Cette histoire sociale est articulée à l’histoire singulière (",
+     [
+      "a",
+      {
+       "href": "#t-r37",
+       "id": "t-llamada-r37-1"
+      },
+      "Gaulejac de 2012"
+     ],
+     ") : celle de sa famille et des proches signifiants – y compris dans leur absence. L’histoire psychoaffective singulière est ancrée dans une interdépendance fondamentale, caractéristique de notre espèce : dès la naissance, l’humain dépend totalement et longuement des autres, pour être nourri, réchauffé, logé, soigné, bercé, comme pour apprendre à parler et agir. Les liens d’interdépendance incontournables et longs sont tramés d’ambivalences affectives, imprégnés de projets (parentaux en particulier) et de rapports de force. Ils sont régulièrement marqués par des traumas (abandons, décès précoces, viols et violences, guerres, exils, racisme, déclassements, humiliations…). Ces histoires objectives s’entremêlent à celles qui sont racontées, avec leurs secrets, héroïsations, mythes et stigmatisations. Cette socialisation fondamentale dépose des ressources, des habitus, des langages, des interdits mais aussi des problèmes, c’est-à-dire des quêtes de sens singulières, toujours nouées à l’histoire sociale. Le sujet cherche à reproduire, justifier, réparer, arranger ou fuir, en actes, cette histoire et ses ambivalences constitutives."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     "Petite et grande histoire orientent l’action du sujet. Ces forces peuvent être conscientes ou non. Car si « l’inconscient c’est l’oubli de l’histoire », « les conditions sociales occultées, oubliées » (",
+     [
+      "a",
+      {
+       "href": "#t-r8",
+       "id": "t-llamada-r8-1"
+      },
+      "Bourdieu 1984"
+     ],
+     ", 81) elle agit sur et en nous, le plus souvent à notre insu (",
+     [
+      "a",
+      {
+       "href": "#t-r32",
+       "id": "t-llamada-r32-1"
+      },
+      "Freud 1991"
+     ],
+     ")."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     "Si l’histoire constitue une dimension déterminante de l’action, celle-ci n’est pourtant pas que répétition du même. D’autres forces sont donc à l’œuvre. En effet, l’histoire engendre des institutions, qui instaurent des rapports sociaux. Ils exercent une influence décisive sur l’action du sujet et constituent alors un autre faisceau de déterminants que l’on peut chercher à objectiver."
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "section",
+    {
+     "id": "t-s3_5"
+    },
+    "\n",
+    [
+     "h3",
+     {
+      "id": "t-seccion-8"
+     },
+     "Institutions : des rapports sociaux organisés"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     "Le mot institution, entendu ici au sens sociologique et conceptuel, comme « fait social », désigne « des manières d'agir, de penser et de sentir, extérieures à l'individu, et qui sont douées d'un pouvoir de coercition en vertu duquel ils s'imposent à lui » (",
+     [
+      "a",
+      {
+       "href": "#t-r23",
+       "id": "t-llamada-r23-1"
+      },
+      "Durkheim 2015"
+     ],
+     "). L’institution est repérable explicitement dans les lois et règles formelles comme dans les normes et mœurs qui disent, même implicitement, « ce qui se fait » et sanctionne les écarts."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     "Les institutions, si elles sont produites historiquement dans des rapports de force, ont pour particularité d’instaurer en retour des rapports sociaux formels, ici et maintenant : elles imposent des catégories de la pensée et de la pratique, un classement des choses et des populations (« humain / animal », « homme / femme », « blanc / autre », « jeunes/ vieux », par exemple). Elles les hiérarchisent selon les usages que l’on peut en faire, qu’il s’agisse de les protéger, maltraiter, exterminer, exploiter, manger, sauver ou aimer."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     "Abstraction agissante, l’institution est un « être sans corps » qui agit sur les corps, orienté vers « la construction de la réalité » (",
+     [
+      "a",
+      {
+       "href": "#t-r4",
+       "id": "t-llamada-r4-1"
+      },
+      "Boltanski 2009, 13"
+     ],
+     "). Elle qualifie les êtres et définit les épreuves. Aussi, l’administration et l’organisation sont ses moyens pour agir dans le monde des corps (",
+     [
+      "i",
+      {},
+      "Idem"
+     ],
+     ", 123). Les organisations formelles prescrivent des pratiques et comportements précis aux humains – au croisement de leur âge, classe, sexe, nationalité, apparence physique, niveau d’éducation, notamment. –, mais aussi aux autres animaux selon leur espèce, ainsi qu’aux écosystèmes. L’organisation formelle est prescriptive. Elle concrétise donc des forces institutionnelles et les rapports sociaux."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     "Si les institutions sont pérennes, leurs formes organisationnelles ne sont cependant pas immortelles : leur dynamique bute sur des contradictions internes ou externes qui provoquent des transformations. Leurs critiques sociales peuvent aussi mener, dans un mouvement instituant porté par des sujets collectifs, à des changements."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     "Outre l’exploration de ces forces historiques et institutionnelles, avec leurs formes organisationnelles, la SCA porte aussi l’attention à la force des interactions dans la fabrication de l’action et de son sens."
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "section",
+    {
+     "id": "t-s3_6"
+    },
+    "\n",
+    [
+     "h3",
+     {
+      "id": "t-seccion-9"
+     },
+     "Des situations d’interaction : les relations possibles"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     "Sociologues interactionnistes, ethnologues et psychosociologues ont montré que les interactions entre humains façonnaient l’orientation, le déroulement et le sens des pratiques. Tissées de conflits et de coopérations, d’identifications, de projections, stigmatisations et autres transferts affectifs, ces relations seraient donc elles aussi déterminantes des pratiques."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     "Si ces recherches pointent toutes que l’action qui résulte d’une interaction est relativement contingente, en revanche, la possibilité même que cette interaction ait lieu, est socialement conditionnée. Le fait que certains sujets aient l’occasion d’être en relation avec d’autres humains, loin d’être aléatoire, est le produit de forces sociales. Il nous faut donc penser sociologiquement les « conditions concrètes du rassemblement », ces situations de co-présence (",
+     [
+      "a",
+      {
+       "href": "#t-r46",
+       "id": "t-llamada-r46-1"
+      },
+      "Goffman, 1966"
+     ],
+     ")."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     "Prenant au sérieux nos interdépendances avec des écosystèmes, et la force des rencontres avec d’autres vivants et choses non humains, je propose d’élargir ce raisonnement en considérant aussi les rencontres avec des animaux, plantes, virus, paysages… ou encore avec des livres, infrastructures, objets, machines et robots, œuvres d’art, déchets, polluants, etc. Des rencontres peuvent induire des inflexions biographiques, et jouer un rôle dans la manière de penser, sentir et agir. Or la probabilité et possibilité de ces rencontres sont socialement façonnées, avec des variations amples selon les classes sociales et les pays."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     "Les contextes forment donc une troisième force sociale déterminante de l’action en ce qu’ils permettent (ou pas) aux sujets d’entrer en relation",
+     [
+      "a",
+      {
+       "href": "#t-fn6",
+       "id": "t-llamada-fn6-1"
+      },
+      [
+       "sup",
+       {},
+       "6"
+      ]
+     ],
+     ", en négociation, conflit et coopération avec d’autres que soi. Ces rencontres peuvent générer des collectifs (amitiés, cliques, mouvements, réseaux, syndicats, partis) même éphémères, capables de contester l’organisation formelle, de la subvertir, ou de la fuir pour construire des règles et organisations autonomes",
+     [
+      "a",
+      {
+       "href": "#t-fn7",
+       "id": "t-llamada-fn7-1"
+      },
+      [
+       "sup",
+       {},
+       "7"
+      ]
+     ],
+     ", plus ou moins instituantes. Elles peuvent inclure d’autres vivants que les humains (",
+     [
+      "a",
+      {
+       "href": "#t-r3",
+       "id": "t-llamada-r3-1"
+      },
+      "Balaud et Chopot 2021"
+     ],
+     ")."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     "En somme, prendre la mesure des déterminations sociales d’une pratique, consiste à interroger de manière approfondie ses dimensions historiques, institutionnelles et contextuelles. Le précipité de ces forces génère une indétermination dont les sujets, individuels ou collectifs, tentent de répondre"
+    ],
+    "\n"
+   ],
+   "\n"
+  ],
+  [
+   "section",
+   {
+    "id": "t-s4"
+   },
+   "\n",
+   [
+    "h2",
+    {
+     "lang": "fr",
+     "id": "t-seccion-10"
+    },
+    "Répondre de manière sensée de la multidétermination : l’activité"
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "fr"
+    },
+    "Acheter un vêtement, choisir un métier, faire des enfants, militer ou plus prosaïquement, préparer un repas, sont des pratiques prises dans un tissu serré de déterminations hétérogènes. Toute pratique est assujettie à des forces sociopsychiques en tension, qui tirent et poussent le sujet dans des directions distinctes et régulièrement opposées. Surmonter l’indétermination appelle donc l’élaboration d’une réponse : une seconde subjectivation, réalisée par le sujet assujetti qui cherche à devenir auteur de ses actes. Le second temps de l’analyse dans la démarche de la SCA porte donc sur « ce que l’on fait de ce qu’on a fait de nous », c’est-à-dire sur la seconde subjectivation comme réponse à l’indétermination."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "fr"
+    },
+    "Ce processus, en dépit de son importance pour comprendre et expliquer la vie psychique et sociale, se présente régulièrement comme une boîte noire dans les recherches en sciences sociales. Pour l’approcher, nous pouvons nous appuyer sur les apports des théories pluridisciplinaires cliniques de l’activité",
+    [
+     "a",
+     {
+      "href": "#t-fn8",
+      "id": "t-llamada-fn8-1"
+     },
+     [
+      "sup",
+      {},
+      "8"
+     ]
+    ],
+    " qui l’auscultent depuis 70 ans. Si leurs enquêtes sont centrées sur l’action dans l’emploi, leurs résultats s’avèrent pertinents au-delà de ce cadre, pour nourrir une théorie de l’action et de la subjectivation en général. Elles offrent de comprendre le réel de ce processus, d’en préciser les enjeux sociopsychiques comme de repérer les idéaux types de réponses."
+   ],
+   "\n",
+   [
+    "section",
+    {
+     "id": "t-s4_6"
+    },
+    "\n",
+    [
+     "h3",
+     {
+      "lang": "fr",
+      "id": "t-seccion-11"
+     },
+     "Le « travail réel » ou l’activité, au-delà du prescrit"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     "Les recherches empiriques en milieu salarié ont montré que, même dans ce rapport juridique de subordination et dans une organisation productive rationalisée, les humains n’exécutent pas exactement la tâche qui leur est prescrite. Tout d’abord, la prescription est toujours lacunaire et ne peut anticiper toutes les situations réelles (",
+     [
+      "a",
+      {
+       "href": "#t-r52",
+       "id": "t-llamada-r52-1"
+      },
+      "Laville, Teiger et Duraffourg 1973"
+     ],
+     "). Par exemple, « faire un nœud », « surveiller une classe », « éviter les conflits » ou « trier ses déchets » s’avère être très long, compliqué voire impossible à prescrire formellement, par écrit et de manière valable pour toutes les situations singulières."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     "Surtout, ce que chacun et chacune fait ",
+     [
+      "i",
+      {},
+      "réellement"
+     ],
+     " au moment de travailler, de consommer, de se déplacer ou d’élever ses enfants n’est pas une stricte exécution de la prescription sociale, même lorsqu’elle est assortie de sanctions. Les femmes et les hommes, et même sans doute les animaux domestiques (",
+     [
+      "a",
+      {
+       "href": "#t-r60",
+       "id": "t-llamada-r60-1"
+      },
+      "Porcher 2014"
+     ],
+     "), « y mettent du leur » afin d’assurer la continuité de la production, tout en favorisant la construction de leur sécurité et santé. Elles et ils déploient ingéniosité, coopération et mobilisation subjective (",
+     [
+      "a",
+      {
+       "href": "#t-r18",
+       "id": "t-llamada-r18-1"
+      },
+      "Dejours et Molinier 1994"
+     ],
+     "). Sans cet engagement corporel, sensible et cognitif, la production tousse voire est interrompue",
+     [
+      "a",
+      {
+       "href": "#t-fn9",
+       "id": "t-llamada-fn9-1"
+      },
+      [
+       "sup",
+       {},
+       "9"
+      ]
+     ],
+     ". Ce processus invisible d’élaboration de l’action, a été conceptuellement dénommé depuis 1955 (",
+     [
+      "a",
+      {
+       "href": "#t-r27",
+       "id": "t-llamada-r27-1"
+      },
+      "Faverge et Ombredanne 1955"
+     ],
+     "), « travail réel » ou « activité",
+     [
+      "a",
+      {
+       "href": "#t-fn10",
+       "id": "t-llamada-fn10-1"
+      },
+      [
+       "sup",
+       {},
+       "10"
+      ]
+     ],
+     " ». Cette subjectivation, pourtant banale et cruciale, a pour caractéristique d’être aujourd’hui déniée, tant dans les théories de l’action dominantes, que dans les pratiques ordinaires, notamment de management (",
+     [
+      "a",
+      {
+       "href": "#t-r17",
+       "id": "t-llamada-r17-1"
+      },
+      "Dejours 2003"
+     ],
+     " ; ",
+     [
+      "a",
+      {
+       "href": "#t-r19",
+       "id": "t-llamada-r19-1"
+      },
+      "Dujarier 2015"
+     ],
+     ")."
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "section",
+    {
+     "id": "t-s4_7"
+    },
+    "\n",
+    [
+     "h3",
+     {
+      "id": "t-seccion-12"
+     },
+     "Ouvrir la boîte noire de l’activité : méthode"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     "L’activité du sujet est un processus invisible qui vise à répondre « à une large gamme de déterminants internes et externes » (",
+     [
+      "a",
+      {
+       "href": "#t-r14",
+       "id": "t-llamada-r14-1"
+      },
+      "Daniellou 2005, 42"
+     ],
+     "), à répondre de l’indétermination par une action unique, visible et irrémédiable, parmi plusieurs possibles. Ce processus inclut « ce qui ne se fait pas, ce qu’on cherche à faire sans y parvenir – le drame des échecs –, ce qu’on aurait voulu ou pu faire, ce qu’on pense pouvoir faire ailleurs. Il faut y ajouter – paradoxe fréquent — ce qu’on fait pour ne pas faire ce qui est à faire ; ce qui est à refaire et tout autant ce qu’on a fait sans avoir voulu le faire » (",
+     [
+      "a",
+      {
+       "href": "#t-r12",
+       "id": "t-llamada-r12-1"
+      },
+      "Clot 2008, 89"
+     ],
+     ")."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     "Or, ce processus échappe en partie à la conscience, d’une part, et est invisible à un observateur extérieur, d’autre part. Pour tenter de le décrire malgré tout, nous pouvons utiliser une méthode qui, à la manière dont les sciences médicales approchent la santé par l’étude de la maladie, consiste à mettre en mots, avec une posture clinique, ce qui ne se passe pas quand la pratique se passe mal ou fait mal. Ce qui manque, en somme, et qui révèle en creux ce qui a lieu en situation non dégradée."
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "section",
+    {
+     "id": "t-s4_8"
+    },
+    "\n",
+    [
+     "h3",
+     {
+      "id": "t-seccion-13"
+     },
+     "L’activité : une élaboration sensible et signifiante"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     "Dans mes recherches cliniques, les sujets disent leur difficulté, mal-être, impuissance ou souffrance chaque fois qu’il ne leur est pas possible d’élaborer une direction à l’action, alors réduite à une routine ou à une dispersion et agitation sans pensée ni jugement ; mais aussi lorsqu’il ne leur est pas possible de compter sur leurs sensations, donnant alors le sentiment d’agir comme une « machine » ; et enfin, lorsqu’il est impossible de signifier ce que l’on (a) fait. Ces manques nous révèlent ce que serait « en plein », l’activité : une élaboration sensible et signifiante. Ces constats recoupent ce que les théories de l’activité concourent à démontrer également :"
+    ],
+    "\n",
+    [
+     "blockquote",
+     {
+      "lang": "fr"
+     },
+     "\n",
+     [
+      "p",
+      {},
+      "Premièrement, le sujet individuel ou collectif tente, dans l’activité, de construire une orientation à l’action, lui donnant une adresse principale parmi plusieurs possibles et concurrentes, mais aussi une forme, une temporalité, un rythme et une certaine qualité. Ce processus se déroule avec, contre et pour d’autres, et tisse des liens entre les diverses pratiques d’un même sujet (",
+      [
+       "a",
+       {
+        "href": "#t-r55",
+        "id": "t-llamada-r55-1"
+       },
+       "Lhuilier 2026"
+      ],
+      "). En outre il a le souci d’entretenir les conditions de la poursuite de l’action dans l’avenir : conditions sociales (la confiance, notamment), mais aussi psychiques et physiques. Dans l’activité se fabrique une représentation partagée de la situation avec les autres (Weick 1995). Dans la confrontation au réel, c’est-à-dire à ce qui résiste (",
+      [
+       "a",
+       {
+        "href": "#t-r18",
+        "id": "t-llamada-r18-2"
+       },
+       "Dejours et Molinier 1994"
+      ],
+      ") comme aux aléas, une dialectique entre les fins et les moyens s’opère, qui peut mener à modifier, raboter ou réorienter les finalités, dans un cheminement non linéaire. Elaborer l’action à faire, lui donner une orientation, est donc un processus complexe et riche de jugements et d’arbitrages."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "Deuxièmement, cette élaboration compte sur des sensations, à la fois extéroceptives (telles que les mouvements, les bruits, odeurs, textures, températures et les ambiances) et proprioceptives (fatigue, crampe, plaisir de bouger, crispations, rythme cardiaque, par exemple) et les émotions qu’elles génèrent (tels l’excitation ou la peur). Le corps comme réserve de compétences et moyens de sentir, évaluer et transformer les situations avec une rapidité et une finesse qui dépassent la conscience même (Davezies, 2016) est indispensable pour élaborer une action juste, et à temps. Sans ces sensations, elle est gauche, maladroite, cassante ou « à côté de la plaque »."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "Troisièmement, la possibilité de dire quelque chose avec et pour d’autres, de ce que l’on fait est aussi au cœur de l’activité. Faire une histoire qui tienne et qui nous tienne à propos de ce que l’on fait, donne une signification à l’action et à l’histoire qu’elle contribue à écrire."
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     "Chaque fois qu'un de ces trois piliers de l’activité fait défaut, les sujets disent que « ça n'a pas de sens ». C’est sans doute car ces trois dimensions – capacité à juger par la raison, capacité à sentir et relier une perception à un signe (signifier) –, sont précisément les trois principales significations qu’a prises le mot « sens » dans la langue française (Rey 1998) comme en philosophie (",
+     [
+      "a",
+      {
+       "href": "#t-r51",
+       "id": "t-llamada-r51-1"
+      },
+      "Lalande 1983"
+     ],
+     ")."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     "L’activité consisterait, en somme, à élaborer de manière sensible et signifiante une réponse à une situation multidéterminée par une action qui ",
+     [
+      "i",
+      {},
+      "fait"
+     ],
+     " alors plus ou moins sens. Et cette subjectivation fait advenir le sujet, auteur de ses actes."
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "section",
+    {
+     "id": "t-s4_9"
+    },
+    "\n",
+    [
+     "h3",
+     {
+      "lang": "fr",
+      "id": "t-seccion-14"
+     },
+     "Ce que l’on fait au monde : enjeux politiques et de santé"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     "Outre l’élaboration de l’action, du sens et du sujet, l’activité comporte deux autres enjeux. Ils concernent la construction de la santé et la participation à la vie politique ordinaire."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     "En effet, les sujets alertent avec régularité qu’agir durablement sans arriver à construire du sens est vécu comme une situation intenable, qui « rend fou », est « tuante ». Agir sans activité, c’est-à-dire vivre et réaliser des tâches « mécaniquement », « bêtement », sans y mettre du sien, ou pire, en violant ses valeurs, est en effet pathogène",
+     [
+      "a",
+      {
+       "href": "#t-fn11",
+       "id": "t-llamada-fn11-1"
+      },
+      [
+       "sup",
+       {},
+       "11"
+      ]
+     ],
+     ". Le sujet qui exécute une tâche s’exécute lui-même, en somme. Ce constat rappelle que produire des normes face à des normes antécédentes (plus que de s’y adapter), c’est-à-dire transformer l’environnement, peut être vu comme l'expression même de la santé (",
+     [
+      "a",
+      {
+       "href": "#t-r11",
+       "id": "t-llamada-r11-1"
+      },
+      "Canguilhem 1966"
+     ],
+     ", ",
+     [
+      "a",
+      {
+       "href": "#t-r66",
+       "id": "t-llamada-r66-1"
+      },
+      "Schwartz 1988"
+     ],
+     "). Celle-ci est alors comprise comme une construction qui se déroule au cœur de l'activité."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     "Faire (ou s’en abstenir), c’est aussi, donc, inévitablement, entrer dans des débats et arbitrages concernant les valeurs, les normes et les règles sociales : c’est participer à des « renormalisations » (",
+     [
+      "a",
+      {
+       "href": "#t-r66",
+       "id": "t-llamada-r66-2"
+      },
+      "Schwartz, 1988"
+     ],
+     ") et « régulations » sociales (",
+     [
+      "a",
+      {
+       "href": "#t-r62",
+       "id": "t-llamada-r62-1"
+      },
+      "Reynaud, 1988"
+     ],
+     "). L’activité est donc nécessairement une participation ordinaire, discrète et pourtant décisive à la vie politique, fut-ce au ras de l’action."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     "L’activité, « ce que l’on fait de ce qu’on a fait de nous », loin d’être une exécution ou un simple calcul d’intérêt, est donc en réalité une « aventure » (Mendel",
+     [
+      "a",
+      {
+       "href": "#t-fn12",
+       "id": "t-llamada-fn12-1"
+      },
+      [
+       "sup",
+       {},
+       "12"
+      ]
+     ],
+     " ",
+     [
+      "a",
+      {
+       "href": "#t-r57",
+       "id": "t-llamada-r57-1"
+      },
+      "1998"
+     ],
+     ") qui reproduit ou transforme notre monde matériel, social et psychique. Cette boîte noire comporte donc des enjeux écologiques, politiques et existentiels majeurs, ce que les sujets savent et vivent intensément."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     "L’activité, si elle peut soupeser de multiples possibles, engendre finalement une action réalisée unique. Trois réponses idéales typiques peuvent être repérées."
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "section",
+    {
+     "id": "t-s4_10"
+    },
+    "\n",
+    [
+     "h3",
+     {
+      "id": "t-seccion-15"
+     },
+     "Résister, dégager ou s’adapter"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     "Derrière le catalogue infini des réponses individuelles ou collectives face aux multidéterminations, trois idéaux types se dessinent cliniquement",
+     [
+      "a",
+      {
+       "href": "#t-fn13",
+       "id": "t-llamada-fn13-1"
+      },
+      [
+       "sup",
+       {},
+       "13"
+      ]
+     ],
+     ", qui peuvent équiper le moment de co-interprétation, avec les sujets, de ce qu’ils font de ce qu’on a fait d’eux. Il s’agit de la résistance, du dégagement ou de l’adaptation défensive."
+    ],
+    "\n",
+    [
+     "ul",
+     {},
+     "\n",
+     [
+      "li",
+      {
+       "lang": "fr"
+      },
+      [
+       "span",
+       {},
+       "–"
+      ],
+      [
+       "p",
+       {},
+       "Résister : ici, le sujet ambitionne de combattre et même de transformer en actes les forces qui l’oppressent. La palette des actions est immense et non finie. Elle peut viser des transformations à des niveaux relationnels, organisationnels ou institutionnels : arrangements locaux discrets, négociations, prises de parole revendicatives, pétitions, grèves, occupation de places, procès, action directe (tricher, hacker, désobéir, saboter, occuper des zones à défendre par exemple), émeutes ou révoltes."
+      ]
+     ],
+     "\n",
+     [
+      "li",
+      {
+       "lang": "fr"
+      },
+      [
+       "span",
+       {},
+       "–"
+      ],
+      [
+       "p",
+       {},
+       "Dégager : ici, le sujet quitte le rapport social sans chercher à le modifier. Plus que de changer le cours de l’histoire, il ou elle tente de construire une ",
+       [
+        "i",
+        {},
+        "autre"
+       ],
+       " histoire, individuelle : changer de fonction, d’emploi, de métier, de conjoint, de mode et lieu de vie. Cette fuite peut se faire politique lorsqu’un sujet collectif lui donne une visée instituante et bâtit une alternative aux institutions dominantes. Mais le dégagement peut aussi se faire par le bas, par la maladie (notamment mentale, schizoïde), voire le suicide."
+      ]
+     ],
+     "\n",
+     [
+      "li",
+      {
+       "lang": "fr"
+      },
+      [
+       "span",
+       {},
+       "–"
+      ],
+      [
+       "p",
+       {},
+       "S’adapter : ici le sujet s’adapte, sans lutte ni esquive, aux déterminants sociopsychiques ; et ce au risque de souffrir. La clinique psychanalytique apporte ici un savoir précieux et complémentaire aux sciences sociales, en montrant que cette adaptation génère des mécanismes de défense pour se protéger de la souffrance (",
+       [
+        "a",
+        {
+         "href": "#t-r50",
+         "id": "t-llamada-r50-1"
+        },
+        "Ionescu et al. 2020"
+       ],
+       "), tels que le déni, l’activisme (agitation pour ne pas penser), le refoulement, le clivage, la dissociation, l’humour ou la sublimation notamment. Largement inconscients, ils peuvent sembler irrationnels et desservir les intérêts objectifs du sujet. La psychodynamique du travail montre que face à l’ennui et à la peur, mais aussi à des conflits éthiques, des stratégies de défense collectives peuvent aussi être élaborées (",
+       [
+        "a",
+        {
+         "href": "#t-r16",
+         "id": "t-llamada-r16-1"
+        },
+        "Dejours, 1993"
+       ],
+       "). Si elles atténuent parfois la souffrance, c’est au prix d’une attrition ou d’une déviation de l’activité, notoirement lorsqu’elles consistent à arrêter de penser et à se rendre insensible, au risque de la bêtise et de la brutale indifférence."
+      ]
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     "Ces réponses sociopsychiques, dont les effets sont fort contrastés, ne sont pas figées ; le sujet circule entre elles. Dans tous les cas, ces réponses contribuent à écrire l’Histoire, à reproduire ou transformer les institutions comme les situations d’interaction, en retour."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     "La SCA propose donc une boîte à outils théorique pour mener des recherches sociologiques capables de mieux comprendre ce qui arrive aux sujets contemporains, et la manière d’en répondre. L’enquête sur la dialectique de la subjectivation suppose une certaine épistémologie et posture, que l’on qualifie de « clinique »."
+    ],
+    "\n"
+   ],
+   "\n"
+  ],
+  [
+   "section",
+   {
+    "id": "t-s5"
+   },
+   "\n",
+   [
+    "h2",
+    {
+     "id": "t-seccion-16"
+    },
+    "Posture, épistémologie et méthodologie cliniques"
+   ],
+   "\n",
+   [
+    "section",
+    {
+     "id": "t-s5_3"
+    },
+    "\n",
+    [
+     "h3",
+     {
+      "id": "t-seccion-17"
+     },
+     "« Clinique » ?"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     "La SCA s’inscrit dans la tradition clinique. La pratique et l’expression sont apparues à la fin du XVIII",
+     [
+      "sup",
+      {},
+      "e"
+     ],
+     " siècle dans le champ médical (",
+     [
+      "a",
+      {
+       "href": "#t-r30",
+       "id": "t-llamada-r30-1"
+      },
+      "Foucault 1994"
+     ],
+     "), pour désigner une approche enfin scientifique d’observation sensible, au chevet du patient, de ses symptômes. L’expression a migré dans le champ de la psychiatrie, des psychologies et notamment de la psychanalyse, qui met la casuistique en son centre et associe le sujet à la production de connaissances sur ses symptômes et leurs transformations (",
+     [
+      "a",
+      {
+       "href": "#t-r33",
+       "id": "t-llamada-r33-1"
+      },
+      "Freud et Breuer 2004"
+     ],
+     "), tout en théorisant le transfert. L’approche clinique a été utilisée ensuite dans les sciences sociales (histoire, anthropologie, linguistique) et notamment la sociologie (",
+     [
+      "a",
+      {
+       "href": "#t-r70",
+       "id": "t-llamada-r70-1"
+      },
+      "Wirth 1931"
+     ],
+     ", ",
+     [
+      "a",
+      {
+       "href": "#t-r67",
+       "id": "t-llamada-r67-1"
+      },
+      "Sévigny 1996"
+     ],
+     ", ",
+     [
+      "a",
+      {
+       "href": "#t-r26",
+       "id": "t-llamada-r26-1"
+      },
+      "Enriquez et al. 1993"
+     ],
+     ", ",
+     [
+      "a",
+      {
+       "href": "#t-r43",
+       "id": "t-llamada-r43-1"
+      },
+      "Gaulejac et al. 2014"
+     ],
+     ", ",
+     [
+      "a",
+      {
+       "href": "#t-r34",
+       "id": "t-llamada-r34-1"
+      },
+      "Fritz 2021"
+     ],
+     "). La clinique s’intéresse au réel et à sa complexité à partir de cas, en vue d’atteindre des processus généraux."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     "Si l’on veut comprendre les déterminations qui enserrent le sujet et la manière dont il en répond, nous avons besoin d’en passer lui, et de mener l’enquête dans le cadre d’un dispositif clinique. Par exemple, en vue de comprendre comment le sujet contemporain fait face à la situation écologique dans son emploi, j’ai mis en place, avec un collègue, des ateliers (Delva et Dujarier 2025). Ils offrent, sur une journée, d’analyser avec 3 à 5 participants, les forces historiques, institutionnelles et contextuelles qui les contraignent, puis la manière dont ils en répondent. L’échange sur les pratiques ouvre sur des alternatives et ressources pour agir. Ces petits collectifs décident généralement de poursuivre leurs échanges et entraide au-delà de l’atelier. Les savoirs explicités dans ces groupes, ainsi que ceux, réflexifs, réalisés par les cliniciens sur leur propre pratique écologique, nourrissent une recherche plus large, dont les résultats sont présentés et discutés avec les participants. Ce cas illustre que l’approche de la SCA est fondée sur six piliers méthodologiques, ci-dessous explicités."
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "section",
+    {
+     "id": "t-s5_4"
+    },
+    "\n",
+    [
+     "h3",
+     {
+      "id": "t-seccion-18"
+     },
+     "Partir des savoirs expérientiels, pré-sociologiques"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     "La recherche et l’intervention doivent faire avec une difficulté méthodologique importante qui est l’invisibilité des déterminants sociaux et psychiques, comme de celle de l’activité. Bien qu’expérimentés et intensément vécus, ils ne se donnent pas à observer. Les traces langagières ou comportementales ne nous donnent à voir que le réalisé, ce que le sujet a fait finalement ; mais il ne dit rien du réel de la double subjectivation. Comprendre dans quoi le sujet est pris, et comment il tente d’en répondre suppose donc d’en passer par le sujet lui-même, puisqu’il ou elle expérimente de l’intérieur ces processus sociopsychiques. La posture clinique est « une reconnaissance du sujet comme producteur de connaissances sur sa situation » (",
+     [
+      "a",
+      {
+       "href": "#t-r48",
+       "id": "t-llamada-r48-1"
+      },
+      "Hanique 2009"
+     ],
+     "). Cette connaissance, même si elle n’est généralement ni consciente ni sociologisée, est incontournable si l’on veut construire des hypothèses de recherche et générer une possibilité d’émancipation. Contrairement à une épistémologie du dévoilement qui prône une « rupture épistémologique » (",
+     [
+      "a",
+      {
+       "href": "#t-r2",
+       "id": "t-llamada-r2-1"
+      },
+      "Bachelard 1993"
+     ],
+     " ; ",
+     [
+      "a",
+      {
+       "href": "#t-r10",
+       "id": "t-llamada-r10-1"
+      },
+      "Bourdieu et al. 2021"
+     ],
+     ") et réserve l’interprétation sociologique à des professionnels, la recherche clinique part du vécu des sujets et œuvre avec elles et eux à comprendre ce qui leur arrive. En se mettant « à leur chevet », l’approche clinique cherche à décrire, comprendre et expliquer la dynamique des processus sociopsychiques vécus, pour arriver à en faire une sociologie par la co-interpération. Elle offre donc d’élaborer avec les sujets qui vivent les faits sociaux en interprétant avec eux les processus vécus, et non sur eux, malgré eux, ou sans eux."
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "section",
+    {
+     "id": "t-s5_5"
+    },
+    "\n",
+    [
+     "h3",
+     {
+      "id": "t-seccion-19"
+     },
+     "Demandes et commande"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     "Co-construire des savoirs avec les sujets à propos d’une problématique sociopsychologique suppose un désir, un intérêt, voire une nécessité de la penser ; ce que la clinique nomme « une demande »."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     "Observons que « la » demande est introuvable au singulier : il existe plutôt un foisonnement de demandes, plus ou moins explicites, cohérentes et régulièrement instables chez un sujet donné. Dans les collectifs, les demandes se multiplient. Les demandes sont alors l’objet d’une analyse et d’une co-interprétation. Trois cas se présentent."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     "Dans l’idéal, les demandes sont adressées au clinicien, qui peut la transformer en commande, c’est-à-dire en contrat - éventuellement rémunéré."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     "Mais plus fréquemment, la commande de formation ou d’intervention précède la demande. Un contrat est alors passé avec une personne commanditaire (directeurs d’une organisation, syndicat, représentants d’un quartier, par exemple). Or la commande recouvre rarement les demandes mouvantes et plurielles des sujets concernés par la recherche ou l’intervention. Cet écart plonge d’emblée dans les rapports sociaux que l’on cherche à comprendre : il est donc à saisir pour son fort potentiel heuristique."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     "Il arrive aussi que, le ou la chercheuse (étudiant.es, notamment) arrive avec sa propre problématique et sollicite des sujets qui n’ont (encore) rien demandé, pour réaliser sa recherche. Si la problématique les intéresse, il est probable qu’elle porte sur des processus sociopsychiques importants. Il est alors possible de compter sur le désir de penser ensemble. Dans le cas inverse, il faut envisager que la question de recherche passe à côté des enjeux vécus. Il arrive aussi qu’elle soit si juste qu’elle en devienne « brûlante » au point de générer des défenses et donc un refus de co-construire. Où l’on voit que la manière de présenter la recherche et d’analyser les réponses qu’elle génère est déjà la recherche-action."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     "L’approche clinique commence donc inévitablement par une tentative de clarification et de mise en rapport des demandes et l’éventuelle commande finalement passée. Ce processus, en explorant les rapports sociaux, les contradictions et enjeux, peut constituer une part importante de la recherche elle-même. Elle débouche sur la proposition d’un dispositif clinique sur mesure."
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "section",
+    {
+     "id": "t-s5_6"
+    },
+    "\n",
+    [
+     "h3",
+     {
+      "lang": "fr",
+      "id": "t-seccion-20"
+     },
+     "Premier temps : offrir des cadres de co-interprétation"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     "Les dispositifs cliniques cherchent à permettre la co-construction (",
+     [
+      "a",
+      {
+       "href": "#t-r68",
+       "id": "t-llamada-r68-1"
+      },
+      "Vandevelde-Rougale 2011"
+     ],
+     ") et co-interpréation des faits sociaux et psychiques dont les sujets sont les produits et producteurs. Partant de l’hypothèse qu’inviter à parler, écrire et représenter offre à penser, il s’agit de proposer des cadres dans lesquels les sujets puissent tendre à une objectivation des déterminations qui provoquent de l’engluement, du « malgré soi », de la répétition, de la sidération, d’une part, et de comprendre la manière dont ils les vivent et en répondent, d’autre part."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     "Pour réaliser cette co-construction d’hypothèses, à propos de cette dialectique de la subjectivation, le chercheur clinicien apporte, lors d’entretiens individuels et collectifs, ses outils conceptuels, mais aussi les savoirs scientifiques disponibles sur la pratique étudiée. Il ou elle pose un cadre d’interaction pour favoriser l’analyse des déterminants, du vécu et des réponses qu’en font et pourraient en faire les sujets, en favorisant l’échange de pratiques. Son rôle est aussi de bien tenir ce cadre – ou de rendre heuristique sa contestation voire abolition."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     "La posture du clinicien consiste à accueillir ce qui vient : les surgissements verbaux et non verbaux y compris en provenance de « l’autre scène », celle de l’inconscient. Dans ce cadre, le chercheur sait que ce que lui disent les sujets n’est pas « la vérité » : non seulement aucun humain n’est totalement conscient de tous les faits sociaux qui le traversent et de ce qui l’agit, mais, les processus bien connus de rationalisation et de justification (",
+     [
+      "a",
+      {
+       "href": "#t-r28",
+       "id": "t-llamada-r28-1"
+      },
+      "Festinger, 1957"
+     ],
+     ")",
+     [
+      "a",
+      {
+       "href": "#t-fn14",
+       "id": "t-llamada-fn14-1"
+      },
+      [
+       "sup",
+       {},
+       "14"
+      ]
+     ],
+     " sont inévitablement à l’œuvre dans les discours sur nos pratiques. En outre, les mécanismes de défense génèrent aussi des discours. S’ils offrent d’entendre comment le sujet tente de réduire sa souffrance, ils occultent celle-ci et ses déterminants. Partir de la demande et co-analyser ce type de discours afin de remonter à ce qu’ils tentent de dire en le cachant - qu’est-ce qu’un déni cache et donc révèle, par exemple ? - permet de réduire ces obstacles épistémologiques."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     "Dans l’approche de la SCA, la recherche se réalise donc surtout par entretiens cliniques. Ils peuvent être répétés dans le temps pour mieux saisir les dynamiques sociopsychiques à l’œuvre. Individuels, ils proposent, par l’échange, une objectivation de l’histoire, des institutions et des contextes à propos d’une pratique singularisée. Ils offrent ensuite de comprendre comment un sujet en répond de manière à faire sens. Des entretiens cliniques collectifs en petits groupes (2 à 5), dont la composition doit permettre la confiance mutuelle et être ajustés à la problématique, sont également mis en place pour favoriser l’échange à propos d’une pratique. Ici, le clinicien part d’une question partagée, pose un cadre d’interaction et écoute les échanges, désaccords et conflits, les reformule et s’assure que le groupe repart avec un savoir accru à propos des faits sociopsychiques qui trament leur pratique commune et la façon dont chacun.e en répond. Dans ces échanges, les conflits sont utilisés comme analyseurs des contradictions sociales et psychiques de la pratique."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     "Ces entretiens gagnent à être précédés d’une analyse des discours : ceux qui, explicites et publics, encadrent la pratique",
+     [
+      "a",
+      {
+       "href": "#t-fn15",
+       "id": "t-llamada-fn15-1"
+      },
+      [
+       "sup",
+       {},
+       "15"
+      ]
+     ],
+     ". Ils renseignent sur les rapports sociaux."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     "Une observation de la pratique est également utile, car elle offre au clinicien un savoir sur l’action réalisée, visible. L’observation devient un point d’appui pour « remonter » le processus de son élaboration (l’activité) et ses multiples déterminants, avec les sujets. À une personne que l’on voit hésiter au moment d’agir, par exemple, il est possible de lui demander : « comment se présentait la chose pour vous à ce moment-là ? Qu’est-ce qui était en tension, en débat interne ? », et donc tenter d’ouvrir la boîte noire de l’activité ensemble."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     "L’observation dialogante permet elle aussi d’explorer ces processus : elle consiste à suivre un sujet dans sa pratique ordinaire, et à lui demander, au fil de l’observation « comment » il ou elle a élaboré tel geste, prononcé telle phrase avec ce ton-là, ou s’est tue… l’invitant à explorer, là encore, à partir de l’action réalisée, le processus de son élaboration face à des forces déterminantes."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     "Ce premier temps de co-interprétation est prolongé par un second temps : il s’agit d’une interprétation par le clinicien de l’ensemble de ces co-productions, et sa mise à l’épreuve."
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "section",
+    {
+     "id": "t-s5_7"
+    },
+    "\n",
+    [
+     "h3",
+     {
+      "lang": "fr",
+      "id": "t-seccion-21"
+     },
+     "Le second temps de l’interprétation et sa mise à l’épreuve"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     "Le second moment de la recherche consiste à analyser avec recul ces diverses co-interprétations, afin de formuler des hypothèses sur les régularités et les variations, et donc de repérer les conditions de la transformation des pratiques. Les histoires singulières et les capitaux qu’elles ont déposés, la place occupée dans les rapports sociaux et la socialité des sujets, font varier les manières de répondre de situations sociales, dans la pratique. Les hypothèses et interprétations ainsi élaborées sont ensuite mises à l’épreuve auprès des sujets qui participent à la recherche, afin de tester leur solidité, les enrichir et les nuancer."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     "L’approche de la SCA n’a donc rien d’un « recueil de données",
+     [
+      "a",
+      {
+       "href": "#t-fn16",
+       "id": "t-llamada-fn16-1"
+      },
+      [
+       "sup",
+       {},
+       "16"
+      ]
+     ],
+     " », qui serait suivi d’une « restitution",
+     [
+      "a",
+      {
+       "href": "#t-fn17",
+       "id": "t-llamada-fn17-1"
+      },
+      [
+       "sup",
+       {},
+       "17"
+      ]
+     ],
+     " ». Elle cherche au contraire à éviter les écueils d’une interprétation experte, surplombante et supposément « neutre », qui serait élaborée solitairement dans un bureau de chercheur. En effet, cette lecture unilatérale prendrait le risque d’être doublement injuste en produisant des erreurs d’interprétation sur les pratiques d’autrui d’une part, et de la violence sociale par leur dénonciation, d’autre part. D’ailleurs, dans une perspective clinique, le rapport que le chercheur entretient avec l’objet étudié est lui aussi utilisé pour la recherche."
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "section",
+    {
+     "id": "t-s5_8"
+    },
+    "\n",
+    [
+     "h3",
+     {
+      "lang": "fr",
+      "id": "t-seccion-22"
+     },
+     "L’implication du chercheur comme ressource pour la recherche"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     "Dans une épistémologie clinique, la neutralité du chercheur est considérée comme un mythe. L’enjeu est plutôt de faire de son rapport singulier à l’objet une ressource pour la recherche (Gaulejac de & Giust-Desprairies 2019). Une démarche soucieuse de scientificité consiste à admettre que tout chercheur a une histoire sociopsychique avec l’objet d’étudié",
+     [
+      "a",
+      {
+       "href": "#t-fn18",
+       "id": "t-llamada-fn18-1"
+      },
+      [
+       "sup",
+       {},
+       "18"
+      ]
+     ],
+     " et qu’il ou elle est aussi inscrite dans des rapports sociaux et des situations d’interactions qui impriment un faisceau de forces sur sa pratique. Dans la SCA, la manière d’en répondre par une élaboration sensible et signifiante, est considérée comme un « cas » intéressant aussi. Sa sociologisation peut nourrir les hypothèses. Elle rappelle aussi au sociologue que ses émotions, convictions et autres certitudes ne peuvent être plaquées sur d’autres sujets qui ont d’autres histoires et places sociales."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     "L’écoute clinique, puisqu’elle consiste à se laisser affecter dans le processus de co-interprétation, suppose une attention particulière à l’analyse des transferts et contre-transferts dans l’échange, aux processus de projection, d’identification, mais aussi de défense lors des entretiens. Ces processus et leurs formes visibles (émotions, discours, langage corporel…) sont accueillis pour être heuristiques."
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "section",
+    {
+     "id": "t-s5_9"
+    },
+    "\n",
+    [
+     "h3",
+     {
+      "id": "t-seccion-23"
+     },
+     "Comprendre pour transformer, transformer pour comprendre"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "L’approche de la SCA génère trois résultats."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     "Premièrement, une meilleure connaissance des déterminants d’une pratique et la manière dont ils sont éprouvés, mais aussi l’activité déployée pour en répondre de manière sensée, et son aboutissement par des pratiques observables ; et ce, selon les caractéristiques sociopsychiques des sujets."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     "Deuxièmement, des déplacements émancipatoires sont à l’œuvre chez les sujets qui ont eu l’occasion de penser ce qui leur arrive et ce qu’ils en font. La réflexivité sur ses pratiques et leurs déterminants affecte nécessairement le rapport avec elles, et les transforme. L’approche de la SCA ne prétend pas ‘soigner’ les sujets – et encore moins les organisations ou institutions mais ambitionne plutôt de comprendre pour transformer et transformer pour comprendre. Elle s’inscrit ainsi dans le courant des recherches-actions qui articulent production de savoir et changement sociopsychique, dans une visée émancipatrice."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     "Enfin, le clinicien lui-même, qui pense et utilise son implication dans la recherche est aussi déplacé par ce processus."
+    ],
+    "\n"
+   ],
+   "\n"
+  ],
+  [
+   "section",
+   {
+    "id": "t-s6"
+   },
+   "\n",
+   [
+    "h2",
+    {
+     "id": "t-seccion-24"
+    },
+    "Conclusion"
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "fr"
+    },
+    "Afin de proposer une théorie pratique de l’action et du sujet, fondée empiriquement, la sociologie clinique de l’activité (SCA) relie les apports de la sociologie clinique française à ceux des sciences pluridisciplinaires de l’activité. Elle constitue donc un apport à ces deux champs :"
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "fr"
+    },
+    "Dépassant les oppositions usuelles entre holismes et individualismes, elle équipe les sociologues pour aborder ce qui est régulièrement éludé dans leur discipline : l’activité, c’est-à-dire ce que font vraiment les sujets pour arriver à faire ce qu’ils font. En ouvrant la boîte noire de l’activité, la SCA prend en compte le processus d’élaboration sensible et signifiant complexe qui est à l’œuvre, en réponse à une multidétermination. Que le sujet résiste, dégage ou s’adapte, son activité met en jeu, au-delà de l’action finalement réalisée et de son sens, la construction de sa santé, comme sa participation à la production ou reproduction de valeurs, normes et règles sociales. Elle le fait advenir aussi comme sujet politique. La prise en compte de cette épaisseur du réel dans la pratique, comme l’introduction maîtrisée de l’hypothèse de l’inconscient et de ses dynamiques – les mécanismes de défense individuels et collectifs, notoirement – dans l’action permet de mieux expliquer la formation et le maintien de faits sociaux."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "fr"
+    },
+    "La SCA propose, du côté des théories de l’activité, de les sociologiser davantage, en explorant méthodiquement les forces historiques, institutionnelles et contextuelles qui encadrent les pratiques ; et de considérer aussi la manière dont celles-ci produisent ou reproduisent en retour ces coordonnées sociales et psychiques, comme des sujets collectifs. La SCA articule donc un point de vue matérialiste à la prise en compte de la subjectivation individuelle et collective. Elle s'efforce de comprendre les dimensions matérielles, sociales et subjectives des faits sociaux, ensemble, en y incluant les non-humains. En outre, c’est une recherche intervenante, en ce qu’elle offre de coproduire ces connaissances avec les sujets en demande de mieux comprendre ce qui leur arrive et ce qu’ils en font."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "fr"
+    },
+    "Observons que la SCA met à distance les idéologies actuelles lorsqu’elles tendent à invisibiliser les déterminants sociaux des pratiques pour mieux « responsabiliser » et finalement culpabiliser celles et ceux qui échouent dans les épreuves sociales ; ou lorsqu’elles oublient l’épaisseur et les enjeux existentiels de l’activité. En cela, cette clinique de la double subjectivation est critique des modes de domination et d’exploitation contemporains."
+   ],
+   "\n"
+  ],
+  [
+   "section",
+   {},
+   "\n",
+   [
+    "aside",
+    {
+     "id": "t-fn1",
+     "rol": "fn"
+    },
+    [
+     "span",
+     {},
+     "1"
+    ],
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     "Le courant de la sociologie clinique française, né dans les années 1970 (",
+     [
+      "a",
+      {
+       "href": "#t-r38",
+       "id": "t-llamada-r38-1"
+      },
+      "Gaulejac de 2019"
+     ],
+     ", ",
+     [
+      "a",
+      {
+       "href": "#t-r39",
+       "id": "t-llamada-r39-1"
+      },
+      "2021"
+     ],
+     " et ",
+     [
+      "a",
+      {
+       "href": "#t-r40",
+       "id": "t-llamada-r40-1"
+      },
+      "2022"
+     ],
+     "), s’inscrit dans un triple héritage, phénoménologique, bourdieusien et freudien. Il se donne pour visée d’explorer la dimension existentielle des rapports sociaux, en portant l’attention à l’intrication des processus sociaux et psychiques dans la recherche comme dans l’intervention. Cette sociologie ouverte à la pluridisciplinarité s’est, depuis la fin du XXe siècle, développée en Europe (",
+     [
+      "a",
+      {
+       "href": "#t-r25",
+       "id": "t-llamada-r25-1"
+      },
+      "Enriquez 1997"
+     ],
+     ") et dans les Amériques du nord (",
+     [
+      "a",
+      {
+       "href": "#t-r63",
+       "id": "t-llamada-r63-1"
+      },
+      "Rhéaume 1997"
+     ],
+     ", Fortier 2018) et du sud, de langues latines (",
+     [
+      "a",
+      {
+       "href": "#t-r1",
+       "id": "t-llamada-r1-1"
+      },
+      "Araújo et Yzaguirre Garcia, 2021"
+     ],
+     " ; ",
+     [
+      "a",
+      {
+       "href": "#t-r69",
+       "id": "t-llamada-r69-1"
+      },
+      "Viana Braz et al. 2024"
+     ],
+     " ; ",
+     [
+      "a",
+      {
+       "href": "#t-r47",
+       "id": "t-llamada-r47-1"
+      },
+      "Guerrero Morales & Gaulejac 2017"
+     ],
+     "). L’expression « sociologie clinique » dans cette tradition a donc une histoire différente de celle des pays anglosaxons (",
+     [
+      "a",
+      {
+       "href": "#t-r45",
+       "id": "t-llamada-r45-1"
+      },
+      "Glassner & Freedman 1979"
+     ],
+     ", ",
+     [
+      "a",
+      {
+       "href": "#t-r34",
+       "id": "t-llamada-r34-2"
+      },
+      "Fritz 2021"
+     ],
+     ")."
+    ]
+   ],
+   "\n",
+   [
+    "aside",
+    {
+     "id": "t-fn2",
+     "rol": "fn"
+    },
+    [
+     "span",
+     {},
+     "2"
+    ],
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     "La clinique constate que la réponse que le sujet élabore face à l’indétermination n’est pas entièrement consciente. Ce point la distingue des théories de l’acteur-sujet de Touraine, Wiewiorka et Dubet notamment."
+    ]
+   ],
+   "\n",
+   [
+    "aside",
+    {
+     "id": "t-fn3",
+     "rol": "fn"
+    },
+    [
+     "span",
+     {},
+     "3"
+    ],
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     "Observons que M. ",
+     [
+      "a",
+      {
+       "href": "#t-r31",
+       "id": "t-llamada-r31-1"
+      },
+      "Foucault (1983)"
+     ],
+     ", à la même époque, post-structuraliste, proposait lui aussi de penser la subjectivation et le sujet dans cette double acception."
+    ]
+   ],
+   "\n",
+   [
+    "aside",
+    {
+     "id": "t-fn4",
+     "rol": "fn"
+    },
+    [
+     "span",
+     {},
+     "4"
+    ],
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     "Entendu dans les traditions foucaldiennes et marxistes de la philosophie politique notamment (voir ",
+     [
+      "a",
+      {
+       "href": "#t-r13",
+       "id": "t-llamada-r13-1"
+      },
+      "Cohen et al. 2025"
+     ],
+     ") : le sujet collectif se forme dans l’action commune (et non l’inverse)."
+    ]
+   ],
+   "\n",
+   [
+    "aside",
+    {
+     "id": "t-fn5",
+     "rol": "fn"
+    },
+    [
+     "span",
+     {},
+     "5"
+    ],
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     "Non seulement les déchets (",
+     [
+      "a",
+      {
+       "href": "#t-r58",
+       "id": "t-llamada-r58-1"
+      },
+      "Mies et Bennholdt-Thomsen, 2001"
+     ],
+     ") mais aussi les « ruines ruinées » et les « ruines ruinantes » « dont le maintien menace l’habitabilité de la planète» (Monnin, 2001, p. 60)."
+    ]
+   ],
+   "\n",
+   [
+    "aside",
+    {
+     "id": "t-fn6",
+     "rol": "fn"
+    },
+    [
+     "span",
+     {},
+     "6"
+    ],
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     "Soulignons la distinction entre « rapports sociaux » et les « relations sociales » (",
+     [
+      "a",
+      {
+       "href": "#t-r20",
+       "id": "t-llamada-r20-1"
+      },
+      "Dujarier, 2019"
+     ],
+     ") dans l’analyse : les interdépendances ne sont pas toujours relationnelles et inversement."
+    ]
+   ],
+   "\n",
+   [
+    "aside",
+    {
+     "id": "t-fn7",
+     "rol": "fn"
+    },
+    [
+     "span",
+     {},
+     "7"
+    ],
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     "L’instance « organisation » est donc le produit d’une prescription qui exprime des forces historiques et institutionnelles, qui sont renormalisée par des régulations autonomes (",
+     [
+      "a",
+      {
+       "href": "#t-r62",
+       "id": "t-llamada-r62-2"
+      },
+      "Reynaud, 1988"
+     ],
+     ")."
+    ]
+   ],
+   "\n",
+   [
+    "aside",
+    {
+     "id": "t-fn8",
+     "rol": "fn"
+    },
+    [
+     "span",
+     {},
+     "8"
+    ],
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     "Les apports séminaux de l’ergonomie de langue française ont été repris et développés en ergologie, psychologie et sociologie cliniques. Pour une présentation de ces théories en langue française par leurs auteurs, voir ",
+     [
+      "a",
+      {
+       "href": "#t-r21",
+       "id": "t-llamada-r21-1"
+      },
+      "Dujarier et al. (2016"
+     ],
+     " et ",
+     [
+      "a",
+      {
+       "href": "#t-r22",
+       "id": "t-llamada-r22-1"
+      },
+      "2021"
+     ],
+     ")."
+    ]
+   ],
+   "\n",
+   [
+    "aside",
+    {
+     "id": "t-fn9",
+     "rol": "fn"
+    },
+    [
+     "span",
+     {},
+     "9"
+    ],
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     "Ce retrait est même devenu une technique de résistance ouvrière, appelée « grève du zèle » (",
+     [
+      "a",
+      {
+       "href": "#t-r61",
+       "id": "t-llamada-r61-1"
+      },
+      "Pouget, 1969"
+     ],
+     ")."
+    ]
+   ],
+   "\n",
+   [
+    "aside",
+    {
+     "id": "t-fn10",
+     "rol": "fn"
+    },
+    [
+     "span",
+     {},
+     "10"
+    ],
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     "Bien que synonymes, nous gardons le terme activité plus que « travail réel », car celui-ci tend à limiter le concept à ce que l’on fait dans le cadre de l’emploi, là où au contraire, il nous aide à décrire et comprendre l’action en général."
+    ]
+   ],
+   "\n",
+   [
+    "aside",
+    {
+     "id": "t-fn11",
+     "rol": "fn"
+    },
+    [
+     "span",
+     {},
+     "11"
+    ],
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     "Sur ce point voir notamment ",
+     [
+      "a",
+      {
+       "href": "#t-r66",
+       "id": "t-llamada-r66-3"
+      },
+      "Schwartz 1988"
+     ],
+     ", Davezies 2016, ",
+     [
+      "a",
+      {
+       "href": "#t-r16",
+       "id": "t-llamada-r16-2"
+      },
+      "Dejours 1993"
+     ],
+     ", ",
+     [
+      "a",
+      {
+       "href": "#t-r54",
+       "id": "t-llamada-r54-1"
+      },
+      "Lhuilier 2016"
+     ],
+     ", ",
+     [
+      "a",
+      {
+       "href": "#t-r12",
+       "id": "t-llamada-r12-2"
+      },
+      "Clot 2008"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "aside",
+    {
+     "id": "t-fn12",
+     "rol": "fn"
+    },
+    [
+     "span",
+     {},
+     "12"
+    ],
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     "Mendel utilise le mot « acte » pour désigner ce que nous appelons ici « activité »."
+    ]
+   ],
+   "\n",
+   [
+    "aside",
+    {
+     "id": "t-fn13",
+     "rol": "fn"
+    },
+    [
+     "span",
+     {},
+     "13"
+    ],
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     "Ces constats cliniques recoupent en partie la tripartition proposée par l’économiste A.O. ",
+     [
+      "a",
+      {
+       "href": "#t-r49",
+       "id": "t-llamada-r49-1"
+      },
+      "Hirschman (1970)"
+     ],
+     " à propos de la consommation ",
+     [
+      "i",
+      {},
+      "(exit, voice, loyalty)"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "aside",
+    {
+     "id": "t-fn14",
+     "rol": "fn"
+    },
+    [
+     "span",
+     {},
+     "14"
+    ],
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     "Aussi le clinicien évite de questionner le « pourquoi » de l’action, pour explorer plutôt le « comment » (ça vous est arrivé, vous faites, vous vivez…)."
+    ]
+   ],
+   "\n",
+   [
+    "aside",
+    {
+     "id": "t-fn15",
+     "rol": "fn"
+    },
+    [
+     "span",
+     {},
+     "15"
+    ],
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     "Les prescriptions (politiques, managériales, patriarcales, etc.) et leurs catégories de pensée, présupposés, croyances, occultations, normes instituées (lois, règlements…) ou non, performent des rapports sociaux."
+    ]
+   ],
+   "\n",
+   [
+    "aside",
+    {
+     "id": "t-fn16",
+     "rol": "fn"
+    },
+    [
+     "span",
+     {},
+     "16"
+    ],
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     "Cette expression est doublement problématique puisque nous savons que toute information empirique est construite par le chercheur, d’une part, et qu’elle ne préexiste pas, tel un stock, au cadre de l’énonciation, d’autre part."
+    ]
+   ],
+   "\n",
+   [
+    "aside",
+    {
+     "id": "t-fn17",
+     "rol": "fn"
+    },
+    [
+     "span",
+     {},
+     "17"
+    ],
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     "Le clinicien ne vole pas, au contraire : il offre des cadres et étayages pour penser. Le sentiment de dette, en clinique est donc inversé par rapport à des approches procédant par extraction, voire extorsion des mal nommées « données », en réalité toutes construites."
+    ]
+   ],
+   "\n",
+   [
+    "aside",
+    {
+     "id": "t-fn18",
+     "rol": "fn"
+    },
+    [
+     "span",
+     {},
+     "18"
+    ],
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     "Le séminaire « Histoire de vie et choix théorique » du Laboratoire de Changement Social et Politique explore cette hypothèse avec des chercheurs confirmés (",
+     [
+      "a",
+      {
+       "href": "#t-r6",
+       "id": "t-llamada-r6-1"
+      },
+      "Bouilloud 2009"
+     ],
+     ")."
+    ]
+   ],
+   "\n"
+  ],
+  [
+   "section",
+   {},
+   "\n",
+   [
+    "h2",
+    {
+     "id": "t-seccion-25"
+    },
+    "Références"
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r1",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Araújo Felice"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "AM"
+      ]
+     ],
+     " & ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Yzaguirre García"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "F."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "2021"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Sociología clínica. Reflexiones e investigaciones hoy"
+      ]
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Sapere Aude"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r2",
+     "rol": "ref",
+     "lang": "fr"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Bachelard"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "G."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "1993 [1938]"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "La Formation de l’esprit scientifique"
+      ]
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Paris"
+     ],
+     ": ",
+     [
+      "span",
+      {},
+      "Librairie philosophique J. Vrin"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r3",
+     "rol": "ref",
+     "lang": "fr"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Balaud"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "L"
+      ]
+     ],
+     " & ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Chopot"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "A."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "2021"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Nous ne sommes pas seuls: Politique des soulèvements terrestres"
+      ]
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Paris"
+     ],
+     ": ",
+     [
+      "span",
+      {},
+      "Le Seuil"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r4",
+     "rol": "ref",
+     "lang": "fr"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Boltanski"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "L."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "2009"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "De la critique. Précis de sociologie de l’émancipation"
+      ]
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Paris"
+     ],
+     ": ",
+     [
+      "span",
+      {},
+      "Gallimard (NRF Essais)"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r5",
+     "rol": "ref",
+     "lang": "fr"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Bonetti"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "M"
+      ]
+     ],
+     " & ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Gaulejac"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "V."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "1988"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "L’individu, produit d’une histoire dont il cherche à devenir le sujet"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Espaces Temps"
+      ]
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      "37"
+     ],
+     ":",
+     [
+      "span",
+      {},
+      "55"
+     ],
+     "–",
+     [
+      "span",
+      {},
+      "63"
+     ],
+     ". ",
+     [
+      "a",
+      {
+       "href": "https://doi.org/10.3406/espat.1988.3405"
+      },
+      "https://doi.org/10.3406/espat.1988.3405"
+     ]
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r6",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      "Bouilloud JPh"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "2009"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Devenir sociologue"
+      ]
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Toulouse"
+     ],
+     ": ",
+     [
+      "span",
+      {},
+      "Érès"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r7",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Bourdieu"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "P."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "1990 [1980]"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "The Logic of Practice"
+      ]
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Stanford"
+     ],
+     ": ",
+     [
+      "span",
+      {},
+      "Stanford University Press"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r8",
+     "rol": "ref",
+     "lang": "fr"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Bourdieu"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "P."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "1984"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Questions de sociologie"
+      ]
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Paris"
+     ],
+     ": ",
+     [
+      "span",
+      {},
+      "Éditions de Minuit"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r9",
+     "rol": "ref",
+     "lang": "fr"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Bourdieu"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "P."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "1993"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "À propos de la famille comme catégorie réalisée"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Actes de la Recherche en Sciences Sociales"
+      ]
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      "100"
+     ],
+     ":",
+     [
+      "span",
+      {},
+      "32"
+     ],
+     "–",
+     [
+      "span",
+      {},
+      "36"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r10",
+     "rol": "ref",
+     "lang": "fr"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Bourdieu"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "P"
+      ]
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Chamboredon"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "JC"
+      ]
+     ],
+     " & ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Passeron"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "JC."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "2021 [1968]"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Le métier de sociologue"
+      ]
+     ],
+     ". Texte présenté par Paul Pasquali. ",
+     [
+      "span",
+      {},
+      "Paris"
+     ],
+     ": ",
+     [
+      "span",
+      {},
+      "EHESS"
+     ],
+     ", ISBN: 978-2-7132-2820-9."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r11",
+     "rol": "ref",
+     "lang": "fr"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Canguilhem"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "G."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "1966"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Le normal et le pathologique"
+      ]
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Paris"
+     ],
+     ": ",
+     [
+      "span",
+      {},
+      "PUF"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r12",
+     "rol": "ref",
+     "lang": "fr"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Clot"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "Y."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "2008"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Travail et pouvoir d’agir"
+      ]
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Paris"
+     ],
+     ": ",
+     [
+      "span",
+      {},
+      "P.U.F, Le Travail Humain"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r13",
+     "rol": "ref",
+     "lang": "fr"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Cohen"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "D"
+      ]
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Gay"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "V"
+      ]
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Matamoros"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "I"
+      ]
+     ],
+     " & ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Tarragoni"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "F"
+      ]
+     ],
+     " (eds). ",
+     [
+      "span",
+      {},
+      "2025"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "La subjectivation politique face à l’ordre social. Du concept à l’enquête"
+      ]
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Paris"
+     ],
+     ": ",
+     [
+      "span",
+      {},
+      "Le sens social"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r14",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Daniellou"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "F."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "2005"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "The French-speaking ergonomists’ approach to work activity: Cross-influences of field intervention and conceptual models"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Theoretical Issues in Ergonomics Science"
+      ]
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      "6"
+     ],
+     "(",
+     [
+      "span",
+      {},
+      "5"
+     ],
+     "):",
+     [
+      "span",
+      {},
+      "409"
+     ],
+     "–",
+     [
+      "span",
+      {},
+      "427"
+     ],
+     ". ",
+     [
+      "a",
+      {
+       "href": "https://doi.org/10.1080/14639220500078252"
+      },
+      "https://doi.org/10.1080/14639220500078252"
+     ]
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r15",
+     "rol": "ref",
+     "lang": "fr"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Davezies"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "Ph."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "2021"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "L’activité entre assujettissement et subjectivation"
+     ],
+     ". In: ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "MA"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "Dujarier"
+      ]
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "A"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "Gillet"
+      ]
+     ],
+     " & ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "P"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "Lénel"
+      ]
+     ],
+     " (eds) ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "L’activité en théories - Regards croisés sur le travail (Tome II)"
+      ]
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Toulouse"
+     ],
+     ": ",
+     [
+      "span",
+      {},
+      "Octarès"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "47"
+     ],
+     "–",
+     [
+      "span",
+      {},
+      "85"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r16",
+     "rol": "ref",
+     "lang": "fr"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Dejours"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "Ch."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "1993"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Travail, usure mentale. De la psychopathologie à la psychodynamique du travail"
+      ]
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Lonrai"
+     ],
+     ": ",
+     [
+      "span",
+      {},
+      "Bayard Éditions"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r17",
+     "rol": "ref",
+     "lang": "fr"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Dejours"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "Ch."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "2003"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "L’évaluation du travail à l’épreuve du réel. Critique des fondements de l’évaluation"
+      ]
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Dijon"
+     ],
+     ": ",
+     [
+      "span",
+      {},
+      "INRA Éditions"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r18",
+     "rol": "ref",
+     "lang": "fr"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Dejours"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "Ch"
+      ]
+     ],
+     " & ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Molinier"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "M."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "1994"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Le travail comme énigme"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Sociologie du travail"
+      ]
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      "Hors série"
+     ],
+     ":",
+     [
+      "span",
+      {},
+      "35"
+     ],
+     "–",
+     [
+      "span",
+      {},
+      "44"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r19",
+     "rol": "ref",
+     "lang": "fr"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Dujarier"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "MA."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "2015"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Le management désincarné. Enquête sur les nouveaux cadres du capitalisme"
+      ]
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Paris"
+     ],
+     ": ",
+     [
+      "span",
+      {},
+      "La Découverte"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r20",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Dujarier"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "MA."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "2019"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Rapports sociaux et relations sociales"
+     ],
+     ". In: ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "A"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "Vandevelde-Rougale"
+      ]
+     ],
+     " & ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "P"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "Fugier"
+      ]
+     ],
+     " (eds) ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Dictionnaire de sociologie clinique"
+      ]
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Toulouse"
+     ],
+     ": ",
+     [
+      "span",
+      {},
+      "Érès"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r21",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Dujarier"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "MA"
+      ]
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Gaudart"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "C"
+      ]
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Gillet"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "A"
+      ]
+     ],
+     " & ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Lénel"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "P"
+      ]
+     ],
+     " (eds). ",
+     [
+      "span",
+      {},
+      "2016"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "L’activité en théories - Regards croisés sur le travail (Tome I)"
+      ]
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Toulouse"
+     ],
+     ": ",
+     [
+      "span",
+      {},
+      "Octarès"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r22",
+     "rol": "ref",
+     "lang": "fr"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Dujarier"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "MA"
+      ]
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Gillet"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "A"
+      ]
+     ],
+     " & ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Lénel"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "P"
+      ]
+     ],
+     " (eds). ",
+     [
+      "span",
+      {},
+      "2021"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "L’activité en théories - Regards croisés sur le travail (Tome II)"
+      ]
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Toulouse"
+     ],
+     ": ",
+     [
+      "span",
+      {},
+      "Octarès"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r23",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Durkheim"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "E."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "2015 [1895]"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "The Rules of Sociological Method"
+      ]
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Nine Books"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r24",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Durkheim"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "E."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "2008 [1912]"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "The Elementary Forms of Religious Life"
+      ]
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Oxford"
+     ],
+     ": ",
+     [
+      "span",
+      {},
+      "Oxford World’s Classics"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r25",
+     "rol": "ref",
+     "lang": "fr"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Enriquez"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "E."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "1997"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "L’approche clinique: Genèse et développement en France et en Europe de l’Ouest"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "International Sociology"
+      ]
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      "12"
+     ],
+     ":",
+     [
+      "span",
+      {},
+      "151"
+     ],
+     "–",
+     [
+      "span",
+      {},
+      "164"
+     ],
+     ". ",
+     [
+      "a",
+      {
+       "href": "https://doi.org/10.1177/026858097012002003"
+      },
+      "https://doi.org/10.1177/026858097012002003"
+     ]
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r26",
+     "rol": "ref",
+     "lang": "fr"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Enriquez"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "E"
+      ]
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Houle"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "G"
+      ]
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Rhéaume"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "J"
+      ]
+     ],
+     " & ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Sévigny"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "R."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "1993"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "L’analyse clinique dans les sciences humaines"
+      ]
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Montréal"
+     ],
+     ": ",
+     [
+      "span",
+      {},
+      "Saint Martin"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r27",
+     "rol": "ref",
+     "lang": "fr"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Faverge"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "JM"
+      ]
+     ],
+     " & ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Ombredane"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "A."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "1955"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "L’analyse du travail"
+      ]
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Paris"
+     ],
+     ": ",
+     [
+      "span",
+      {},
+      "PUF"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r28",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Festinger"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "L."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "1957"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "A Theory of Cognitive Dissonance"
+      ]
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "California"
+     ],
+     ": ",
+     [
+      "span",
+      {},
+      "Stanford University Press"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r29",
+     "rol": "ref",
+     "lang": "fr"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Fortier"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "I"
+      ]
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Hamisultane"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "S"
+      ]
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Ruelland"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "I"
+      ]
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Rhéaume"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "J"
+      ]
+     ],
+     " & ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Beghdadi"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "S"
+      ]
+     ],
+     " (eds). ",
+     [
+      "span",
+      {},
+      "2018"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Clinique en sciences sociales. Sens et pratiques alternatives"
+      ]
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Québec"
+     ],
+     ": ",
+     [
+      "span",
+      {},
+      "Presses de l’Université du Québec"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r30",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Foucault"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "M."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "1994 [1963]"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "The Birth of the Clinic: An Archaeology of Medical Perception"
+      ]
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "New York"
+     ],
+     ": ",
+     [
+      "span",
+      {},
+      "Vintage"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r31",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Foucault"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "M."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "1983"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "The Subject and Power"
+     ],
+     ". In: ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "H"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "Dreyfus"
+      ]
+     ],
+     " & ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "P"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "Rabinow"
+      ]
+     ],
+     " (eds) ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Beyond Structuralism and Hermeneutics"
+      ]
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Chicago"
+     ],
+     ": ",
+     [
+      "span",
+      {},
+      "The University of Chicago Press"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "208"
+     ],
+     "–",
+     [
+      "span",
+      {},
+      "226"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r32",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Freud"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "S."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "1991 [1915]"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "On Metapsychology"
+      ]
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "London"
+     ],
+     ": ",
+     [
+      "span",
+      {},
+      "Penguin Books Ltd"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r33",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Freud"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "S"
+      ]
+     ],
+     " & ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Breuer"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "J."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "2004"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Studies in Hysteria"
+      ]
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "London"
+     ],
+     ": ",
+     [
+      "span",
+      {},
+      "Penguin Classics"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r34",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Fritz"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "JM"
+      ]
+     ],
+     " (ed). ",
+     [
+      "span",
+      {},
+      "2021"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "International clinical sociology"
+      ]
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Second"
+     ],
+     " edition. ",
+     [
+      "span",
+      {},
+      "Switzerland"
+     ],
+     ": ",
+     [
+      "span",
+      {},
+      "Springer"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r35",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Fugier"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "P."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "2025"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Subjectification: A central concept in clinical sociology"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Clinical Sociology Review"
+      ]
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      "20"
+     ],
+     "(",
+     [
+      "span",
+      {},
+      "1"
+     ],
+     "):",
+     [
+      "span",
+      {},
+      "69"
+     ],
+     "–",
+     [
+      "span",
+      {},
+      "105"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r36",
+     "rol": "ref",
+     "lang": "fr"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Gaulejac de"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "V."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "2008"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Qui est je? Sociologie clinique du sujet"
+      ]
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Paris"
+     ],
+     ": ",
+     [
+      "span",
+      {},
+      "Le Seuil"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r37",
+     "rol": "ref",
+     "lang": "fr"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Gaulejac de"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "V."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "2012"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "L’histoire en héritage. Roman familial et trajectoire sociale"
+      ]
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Paris"
+     ],
+     ": ",
+     [
+      "span",
+      {},
+      "Petite Bibliothèque Payot"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r38",
+     "rol": "ref",
+     "lang": "fr"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Gaulejac de"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "V."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "2019"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Histoire et enjeux contemporains de la sociologie clinique"
+     ],
+     ". In: ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Dictionnaire de sociologie clinique"
+      ]
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Toulouse"
+     ],
+     ": ",
+     [
+      "span",
+      {},
+      "Érès"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "15"
+     ],
+     "–",
+     [
+      "span",
+      {},
+      "30"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r39",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Gaulejac de"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "V."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "2021"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "On the origins of clinical sociology in France: Some milestones"
+     ],
+     ". In: ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "JM"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "Fritz"
+      ]
+     ],
+     " (ed) ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "International Clinical Sociology"
+      ]
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Second"
+     ],
+     " edition. ",
+     [
+      "span",
+      {},
+      "Switzerland"
+     ],
+     ": ",
+     [
+      "span",
+      {},
+      "Springer"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r40",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Gaulejac de"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "V."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "2022"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Theoretical foundations of socioclinical intervention in organizations"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Clinical Sociology Review"
+      ]
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      "17"
+     ],
+     "(",
+     [
+      "span",
+      {},
+      "1"
+     ],
+     "):",
+     [
+      "span",
+      {},
+      "30"
+     ],
+     "–",
+     [
+      "span",
+      {},
+      "49"
+     ],
+     ". ",
+     [
+      "a",
+      {
+       "href": "https://doi.org/10.36615/csr.v17i1.1301"
+      },
+      "https://doi.org/10.36615/csr.v17i1.1301"
+     ]
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r41",
+     "rol": "ref",
+     "lang": "fr"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Gaulejac de"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "V"
+      ]
+     ],
+     " & ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Roy"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "S"
+      ]
+     ],
+     " (eds). ",
+     [
+      "span",
+      {},
+      "1993"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Sociologies cliniques"
+      ]
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Paris"
+     ],
+     ": ",
+     [
+      "span",
+      {},
+      "Hommes et perspectives/Desclée de Brouwer"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r42",
+     "rol": "ref",
+     "lang": "fr"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Gaulejac de"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "V"
+      ]
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Hanique"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "F"
+      ]
+     ],
+     " & ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Roche"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "P."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "2007"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Sociologies cliniques. Enjeux théoriques et méthodologiques"
+      ]
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Toulouse"
+     ],
+     ": ",
+     [
+      "span",
+      {},
+      "Érès"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r43",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Gaulejac de"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "V"
+      ]
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Giust-Desprairies"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "F"
+      ]
+     ],
+     " & ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Massa"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "A."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "2014"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "La Recherche clinique en sciences sociales"
+      ]
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Toulouse"
+     ],
+     ": ",
+     [
+      "span",
+      {},
+      "Érès"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r44",
+     "rol": "ref",
+     "lang": "fr"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Giust-Desprairies"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "F"
+      ]
+     ],
+     " & ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Gaulejac de"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "V."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "2019"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "La recherche entre vécu et concept: Histoires de vie et choix théoriques en sciences sociales"
+      ]
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Paris"
+     ],
+     ": ",
+     [
+      "span",
+      {},
+      "L’Harmattan"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r45",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Glassner"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "B"
+      ]
+     ],
+     " & ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Freedman"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "JA."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "1979"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Clinical sociology"
+      ]
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "New York"
+     ],
+     ": ",
+     [
+      "span",
+      {},
+      "Longman"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r46",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Goffman"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "E."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "1966"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Behavior in Public Places: Notes on the Social Organization of Gatherings"
+      ]
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "New York"
+     ],
+     ": ",
+     [
+      "span",
+      {},
+      "Free Press"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r47",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Guerrero Morales"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "P"
+      ]
+     ],
+     " & ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Gaulejac de"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "V."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "2017"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Sociología Clínica del Trabajo"
+     ],
+     ". In: Zabala, Guerrero & Besoain (eds) ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Clínicas del Trabajo. Teorías e Intervenciones"
+      ]
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Santiago"
+     ],
+     ": ",
+     [
+      "span",
+      {},
+      "Universidad Alberto Hurtado"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r48",
+     "rol": "ref",
+     "lang": "fr"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Hanique"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "F."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "2009"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Enjeux théoriques et méthodologiques de la sociologie clinique"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Informations sociales"
+      ]
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      "156"
+     ],
+     "(",
+     [
+      "span",
+      {},
+      "6"
+     ],
+     "):",
+     [
+      "span",
+      {},
+      "32"
+     ],
+     "–",
+     [
+      "span",
+      {},
+      "40"
+     ],
+     ". ",
+     [
+      "a",
+      {
+       "href": "https://doi.org/10.3917/inso.156.0032"
+      },
+      "https://doi.org/10.3917/inso.156.0032"
+     ]
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r49",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Hirschman"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "AO."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "1970"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Exit, Voice, and Loyalty: Responses to Decline in Firms, Organizations, and States"
+      ]
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "London"
+     ],
+     ": ",
+     [
+      "span",
+      {},
+      "Harvard University Press"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r50",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Ionescu"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "S"
+      ]
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Jacquet"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "MM"
+      ]
+     ],
+     " & ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Lhote"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "C."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "2020"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Les mécanismes de défense: Théorie et clinique"
+      ]
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "3e"
+     ],
+     " éd. ",
+     [
+      "span",
+      {},
+      "Paris"
+     ],
+     ": ",
+     [
+      "span",
+      {},
+      "Dunod"
+     ],
+     ". ",
+     [
+      "a",
+      {
+       "href": "https://doi-org.ezproxy.u-paris.fr/10.3917/dunod.serba.2020.01"
+      },
+      "https://doi-org.ezproxy.u-paris.fr/10.3917/dunod.serba.2020.01"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r51",
+     "rol": "ref",
+     "lang": "fr"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Lalande"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "A."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "1983 [1926]"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Dictionnaire critique et technique de la philosophie"
+      ]
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Paris"
+     ],
+     ": ",
+     [
+      "span",
+      {},
+      "PUF"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r52",
+     "rol": "ref",
+     "lang": "fr"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Laville"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "A"
+      ]
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Teiger"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "C"
+      ]
+     ],
+     " & ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Duraffourg"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "J."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "1973"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Conséquences du travail répétitif sous cadence, sur la santé des travailleurs et les accidents"
+      ]
+     ],
+     ". Rapport n° 29 du Laboratoire de Physiologie du travail et ergonomie. ",
+     [
+      "span",
+      {},
+      "Paris"
+     ],
+     ": ",
+     [
+      "span",
+      {},
+      "CNAM"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r53",
+     "rol": "ref",
+     "lang": "it"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Leroi-Gourhan"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "A."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "1993 [1964]"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Gesture & Speech"
+      ]
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Cambridge, MA"
+     ],
+     ": ",
+     [
+      "span",
+      {},
+      "MIT Press"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r54",
+     "rol": "ref",
+     "lang": "fr"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Lhuilier"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "D."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "2016"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "L’activité, dans et au-delà du monde du travail"
+     ],
+     ". In: ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "MA"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "Dujarier"
+      ]
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "C"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "Gaudart"
+      ]
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "A"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "Gillet"
+      ]
+     ],
+     " & ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "P"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "Lénel"
+      ]
+     ],
+     " (eds) ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "L’activité en théories - Regards croisés sur le travail (Tome I)"
+      ]
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Toulouse"
+     ],
+     ": ",
+     [
+      "span",
+      {},
+      "Octarès"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r55",
+     "rol": "ref",
+     "lang": "fr"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Lhuilier"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "D."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "2026"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "La construction du sens du travail tout au long et tout au large de la vie"
+     ],
+     ". In: ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Travailler fait-il toujours sens?"
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "Toulouse"
+     ],
+     ": ",
+     [
+      "span",
+      {},
+      "Érès"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "281"
+     ],
+     "–",
+     [
+      "span",
+      {},
+      "292"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r56",
+     "rol": "ref",
+     "lang": "fr"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Mauss"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "M."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "2013"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Notion de technique du corps"
+     ],
+     ". In : ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Sociologie et anthropologie"
+      ]
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Paris"
+     ],
+     " : ",
+     [
+      "span",
+      {},
+      "Presses Universitaires de France"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "363"
+     ],
+     "–",
+     [
+      "span",
+      {},
+      "372"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r57",
+     "rol": "ref",
+     "lang": "fr"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Mendel"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "G."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "1998"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "L’acte est une aventure"
+      ]
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Paris"
+     ],
+     ": ",
+     [
+      "span",
+      {},
+      "La Découverte"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r58",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Mies"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "M"
+      ]
+     ],
+     " & ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Bennholdt-Thomsen"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "V."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "2001"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Defending, reclaiming and reinventing the commons"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Canadian Journal of Development Studies"
+      ]
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      "22"
+     ],
+     "(",
+     [
+      "span",
+      {},
+      "4"
+     ],
+     "):",
+     [
+      "span",
+      {},
+      "997"
+     ],
+     "–",
+     [
+      "span",
+      {},
+      "1023"
+     ],
+     ". ",
+     [
+      "a",
+      {
+       "href": "https://doi.org/10.1080/02255189.2001.9669952"
+      },
+      "https://doi.org/10.1080/02255189.2001.9669952"
+     ]
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r59",
+     "rol": "ref",
+     "lang": "fr"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Monnin"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "A."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "2021"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Les « communs négatifs ». Entre déchets et ruines"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Études"
+      ]
+     ],
+     ", (",
+     [
+      "span",
+      {},
+      "9"
+     ],
+     "):",
+     [
+      "span",
+      {},
+      "59"
+     ],
+     "–",
+     [
+      "span",
+      {},
+      "68"
+     ],
+     ". ",
+     [
+      "a",
+      {
+       "href": "https://doi.org/10.3917/etu.4285.0059"
+      },
+      "https://doi.org/10.3917/etu.4285.0059"
+     ]
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r60",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Porcher"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "J."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "2014"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "The work of animals: A challenge for social sciences"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Humanimalia: Journal of Human/Animal Interface Studies"
+      ]
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      "6"
+     ],
+     "(",
+     [
+      "span",
+      {},
+      "1"
+     ],
+     "):",
+     [
+      "span",
+      {},
+      "1"
+     ],
+     "–",
+     [
+      "span",
+      {},
+      "9"
+     ],
+     ". ",
+     [
+      "a",
+      {
+       "href": "https://doi.org/10.52537/humanimalia.9925"
+      },
+      "https://doi.org/10.52537/humanimalia.9925"
+     ]
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r61",
+     "rol": "ref",
+     "lang": "fr"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Pouget"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "E."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "2004 [1969]"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Le Sabotage. Comment péter un câble?"
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "Barcelone"
+     ],
+     ": ",
+     [
+      "span",
+      {},
+      "Mille et Une Nuits"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r62",
+     "rol": "ref",
+     "lang": "fr"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Reynaud"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "JD."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "1988"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Les régulations dans les organisations: Régulation de contrôle et régulation autonome"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Revue française de sociologie"
+      ]
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      "29"
+     ],
+     "(",
+     [
+      "span",
+      {},
+      "1"
+     ],
+     "):",
+     [
+      "span",
+      {},
+      "5"
+     ],
+     "–",
+     [
+      "span",
+      {},
+      "18"
+     ],
+     ". ",
+     [
+      "a",
+      {
+       "href": "https://doi.org/10.2307/3321884"
+      },
+      "https://doi.org/10.2307/3321884"
+     ]
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r63",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Rhéaume"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "J."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "1997"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "The project of clinical sociology in Quebec"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "International Sociology"
+      ]
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      "12"
+     ],
+     ":",
+     [
+      "span",
+      {},
+      "165"
+     ],
+     "–",
+     [
+      "span",
+      {},
+      "174"
+     ],
+     ". ",
+     [
+      "a",
+      {
+       "href": "https://doi.org/10.1177/026858097012002004"
+      },
+      "https://doi.org/10.1177/026858097012002004"
+     ]
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r64",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Roche"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "P."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "2007"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "La subjectivation"
+     ],
+     ". In: ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "V"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "Gaulejac de"
+      ]
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "F"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "Hanique"
+      ]
+     ],
+     " & ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "P"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "Roche"
+      ]
+     ],
+     " (eds) ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "La sociologie clinique"
+      ]
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Toulouse"
+     ],
+     ": ",
+     [
+      "span",
+      {},
+      "Érès"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "161"
+     ],
+     "–",
+     [
+      "span",
+      {},
+      "185"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r65",
+     "rol": "ref",
+     "lang": "fr"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Sartre"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "JP."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "1952"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Saint Genet, comédien et martyr"
+     ],
+     ". In: ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Œuvres complètes de Jean Genet I"
+      ]
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Paris"
+     ],
+     ": ",
+     [
+      "span",
+      {},
+      "Éditions Gallimard"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r66",
+     "rol": "ref",
+     "lang": "fr"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Schwartz"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "Y."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "1988"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Expérience et connaissance du travail"
+      ]
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Saint-Amand-Montrond"
+     ],
+     ": ",
+     [
+      "span",
+      {},
+      "Messidor"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r67",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Sévigny"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "R."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "1996"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "The clinical approach in the social sciences"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "International Sociology"
+      ]
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      "12"
+     ],
+     ":",
+     [
+      "span",
+      {},
+      "135"
+     ],
+     "–",
+     [
+      "span",
+      {},
+      "150"
+     ],
+     ". ",
+     [
+      "a",
+      {
+       "href": "https://doi.org/10.1177/026858097012002002"
+      },
+      "https://doi.org/10.1177/026858097012002002"
+     ]
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r68",
+     "rol": "ref",
+     "lang": "fr"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Vandevelde-Rougale"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "A."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "2011"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "La co-construction de la posture clinique dans une recherche sociologique"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "¿Interrogations? Revue pluridisciplinaire de sciences humaines et sociales"
+      ]
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      "13"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r69",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Viana Braz"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "M"
+      ]
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Isaac Silva"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "PH"
+      ]
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Cristina Carreteiro"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "T"
+      ]
+     ],
+     " & ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Girard Ferreira Nunes"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "C."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "2024"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Sociologia Clínica e Psicossociologia: Teorias e práticas"
+      ]
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Editora Fi"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r70",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Wirth"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "L."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "1931"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Clinical sociology"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "American Journal of Sociology"
+      ]
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      "37"
+     ],
+     "(",
+     [
+      "span",
+      {},
+      "1"
+     ],
+     "):",
+     [
+      "span",
+      {},
+      "49"
+     ],
+     "–",
+     [
+      "span",
+      {},
+      "66"
+     ],
+     ". ",
+     [
+      "a",
+      {
+       "href": "https://doi.org/10.1086/215618"
+      },
+      "https://doi.org/10.1086/215618"
+     ]
+    ]
+   ],
+   "\n"
+  ]
+ ]
+};

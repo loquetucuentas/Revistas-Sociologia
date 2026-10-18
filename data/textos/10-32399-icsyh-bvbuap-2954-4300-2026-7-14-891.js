@@ -1,0 +1,1479 @@
+// Copia de textos/10-32399-icsyh-bvbuap-2954-4300-2026-7-14-891.json para abrir la aplicación sin servidor.
+(window.DATOS_REVISTAS = window.DATOS_REVISTAS || {})["textos/10-32399-icsyh-bvbuap-2954-4300-2026-7-14-891.json"] = {
+ "version": 1,
+ "recogido": "2026-10-18T11:38:13+00:00",
+ "doi": "10.32399/icsyh.bvbuap.2954-4300.2026.7.14.891",
+ "titulo": "“Para escribir El Capital de nuevo, hay que volver a leer El Capital”. Entrevista con Paul North y Paul Reitter sobre la nueva traducción de Das Kapital al inglés",
+ "revista": "2954-4300",
+ "numero": "2026",
+ "licencia": {
+  "codigo": "by-nc-sa",
+  "nombre": "CC BY-NC-SA 4.0",
+  "nombre_completo": "Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional",
+  "url": "https://creativecommons.org/licenses/by-nc-sa/4.0",
+  "url_legal": "https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.es"
+ },
+ "fuente": {
+  "url": "https://bajoelvolcanx.buap.mx/index.php/bajovolc/article/download/891/775?inline=1",
+  "formato": "HTML",
+  "plataforma": "ojs-galerada",
+  "pagina": "https://bajoelvolcanx.buap.mx/index.php/bajovolc/article/view/891"
+ },
+ "autores_cita": [
+  {
+   "apellidos": "Jiménez Cea",
+   "nombre_pila": "Pablo",
+   "nombre": null
+  },
+  {
+   "apellidos": "García Vela",
+   "nombre_pila": "Alfonso Galileo",
+   "nombre": null
+  }
+ ],
+ "avisos_derechos": [
+  "Derechos de autor 2026 Pablo Ignacio Jiménez Cea, Alfonso Galileo García Vela",
+  "Licencia Derechos de autor 2026 Pablo Ignacio Jiménez Cea, Alfonso Galileo García Vela Esta obra está bajo una licencia internacional Creative Commons Atribución-NoComercial-CompartirIgual 4.0. Las autoras y los autores conservan los derechos de autor sobre su obra y ceden a Bajo el Volcán. Revista del Posgrado de Sociología. BUAP únicamente el derecho de primera publicación. Revista de acceso abierto diamante: sin costo para autoras, autores ni personas lectoras."
+ ],
+ "idioma_principal": "es",
+ "indice": [
+  {
+   "id": "t-seccion-1",
+   "nivel": 2,
+   "texto": "“Para escribir El Capital de nuevo, hay que volver a leer El Capital”. Entrevista con Paul North y Paul Reitter sobre la nueva traducción de Das Kapital al inglés",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-2",
+   "nivel": 3,
+   "texto": "INTRODUCCIÓN",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-3",
+   "nivel": 3,
+   "texto": "B. CARACTERÍSTICAS DE LA NUEVA TRADUCCIÓN, DIFERENCIAS CON RESPECTO A LAS VERSIONES ANTERIORES E IMPORTANCIA DE MEGA2 PARA ESTA NUEVA EDICIÓN",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-4",
+   "nivel": 3,
+   "texto": "C. IMPACTO POTENCIAL DE LA NUEVA EDICIÓN Y EL FUTURO DE EL CAPITAL",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-5",
+   "nivel": 3,
+   "texto": "REFERENCIAS",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-6",
+   "nivel": 3,
+   "texto": "NOTAS",
+   "lang": null
+  }
+ ],
+ "vueltas": {
+  "t-fnref1": "t-llamada-fnref1-1",
+  "t-fnref2": "t-llamada-fnref2-1",
+  "t-fnref3": "t-llamada-fnref3-1"
+ },
+ "contenido": [
+  "\n",
+  [
+   "section",
+   {},
+   "\n",
+   [
+    "strong",
+    {},
+    [
+     "em",
+     {},
+     "Bajo el Volcán. Revista del Posgrado de Sociología. BUAP"
+    ]
+   ],
+   ", Año 7, Núm. 14, mayo – octubre de 2026, pp. 388-407.",
+   [
+    "br",
+    {}
+   ],
+   "e-ISSN 2954-4300 · ",
+   [
+    "a",
+    {
+     "href": "https://doi.org/10.32399/ICSYH.bvbuap.2954-4300.2026.7.14.891"
+    },
+    "https://doi.org/10.32399/ICSYH.bvbuap.2954-4300.2026.7.14.891"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Reseñas e intervenciones"
+   ],
+   "\n",
+   [
+    "h2",
+    {
+     "id": "t-seccion-1"
+    },
+    "“Para escribir El Capital de nuevo, hay que volver a leer El Capital”. Entrevista con Paul North y Paul Reitter sobre la nueva traducción de Das Kapital al inglés"
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "“To Write Capital Anew, One Must Read Capital Again”: An Interview with Paul North and Paul Reitter on the New English Translation of Das Kapital"
+   ],
+   "\n",
+   "\n",
+   [
+    "p",
+    {},
+    [
+     "span",
+     {},
+     "Pablo Ignacio Jiménez Cea"
+    ],
+    [
+     "br",
+     {}
+    ],
+    [
+     "span",
+     {},
+     "Instituto de Ciencias Sociales y Humanidades “Alfonso Vélez Pliego”, Benemérita Universidad Autónoma de Puebla, Puebla, México"
+    ],
+    [
+     "br",
+     {}
+    ],
+    [
+     "span",
+     {},
+     "ORCID: ",
+     [
+      "a",
+      {
+       "href": "https://orcid.org/0000-0002-6977-9134"
+      },
+      "https://orcid.org/0000-0002-6977-9134"
+     ]
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    [
+     "span",
+     {},
+     "Alfonso Galileo García Vela"
+    ],
+    [
+     "br",
+     {}
+    ],
+    [
+     "span",
+     {},
+     "Instituto de Ciencias Sociales y Humanidades “Alfonso Vélez Pliego”, Benemérita Universidad Autónoma de Puebla, Puebla, México"
+    ],
+    [
+     "br",
+     {}
+    ],
+    [
+     "span",
+     {},
+     "ORCID: ",
+     [
+      "a",
+      {
+       "href": "https://orcid.org/0000-0002-9750-7005"
+      },
+      "https://orcid.org/0000-0002-9750-7005"
+     ]
+    ]
+   ],
+   "\n",
+   "\n",
+   [
+    "p",
+    {},
+    "pablo.jcea@gmail.com "
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "galileo.vela@correo.buap.mx"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Recibido: 10/01/2026 "
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Aceptado: 24/03/2026"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "RESUMEN"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "La entrevista, realizada a los editores y al traductor de la nueva edición al inglés de ",
+    [
+     "em",
+     {},
+     "El Capital"
+    ],
+    ", Paul North y Paul Reitter, aborda la vigencia teórica de la obra magna de Karl Marx en el siglo XXI, explorando su capacidad para explicar la opacidad del capitalismo contemporáneo frente a fenómenos como la crisis financiera global, la concentración extrema de la riqueza y el auge de movimientos de ultraderecha. Se discute el procedimiento metodológico de Marx como su aportación más duradera, así como la pertinencia actual de categorías como plusvalor, fetichismo, subsunción y abstracción real. La entrevista examina también las características distintivas de esta nueva traducción al inglés: la precisión en el vocabulario y los neologismos empleados por Marx en la exposición de la objetividad del valor, la fidelidad al estilo directo del alemán original y la incorporación del aparato filológico de la edición crítica MEGA2",
+    [
+     "sup",
+     {},
+     [
+      "a",
+      {
+       "id": "t-fnref1",
+       "href": "#t-fn1"
+      },
+      "1"
+     ]
+    ],
+    ". Se reflexiona asimismo sobre la recepción de la obra en distintos contextos, tanto académicos como los relacionados con las luchas sociales, el papel de corrientes teóricas como la teoría de la forma-valor, y la necesidad de una nueva crítica de la economía política que tenga como su fundamento al Marx histórico-crítico que proporciona la MEGA2. El texto concluye con una reflexión sobre la posibilidad de transformación radical y el rol de la relectura de ",
+    [
+     "em",
+     {},
+     "El capital"
+    ],
+    " para forjar nuevas herramientas críticas ante la crisis sistémica actual."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    [
+     "em",
+     {},
+     "Palabras clave: El capital"
+    ],
+    ", Karl Marx, nueva traducción, MEGA2, crítica de la economía política, capitalismo contemporáneo, transformación radical."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "ABSTRACT"
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "The interview examines the theoretical relevance of Karl Marx’s ",
+    [
+     "em",
+     {},
+     "Capital"
+    ],
+    " in the 21st century, exploring its ability to explain the opacity of contemporary capitalism in the face of phenomena such as the global financial crisis, the extreme concentration of wealth, and the rise of far-right movements. Marx’s methodological approach is discussed as his most enduring contribution, as well as the current relevance of categories such as surplus value, fetishism, subsumption, and real abstraction. The interview also examines the distinctive features of this new English translation: the precision in the vocabulary and neologisms employed by Marx in his exposition of the objectivity of value, the fidelity to the direct style of the original German, and the incorporation of the philological apparatus of the critical edition MEGA2. It further reflects on the reception of the work in various contexts—both academic and those related to social struggles—the role of theoretical currents such as value-form theory, and the need for a new critique of political economy grounded in the historical-critical Marx provided by MEGA2. The text concludes with a reflection on the possibility of radical transformation and the role of re-reading ",
+    [
+     "em",
+     {},
+     "Capital"
+    ],
+    " in forging new critical tools in the face of the current systemic crisis."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    [
+     "em",
+     {},
+     "Keywords: Capital"
+    ],
+    ", Karl Marx, new translation, MEGA2, critique of political economy, contemporary capitalism, radical transformation."
+   ],
+   "\n",
+   [
+    "h3",
+    {
+     "id": "t-seccion-2"
+    },
+    "INTRODUCCIÓN "
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "La publicación de una nueva traducción al inglés de ",
+    [
+     "em",
+     {},
+     "El capital"
+    ],
+    ", medio siglo después de la última versión disponible, constituye un hito histórico en la recepción editorial de la obra de Marx, que sin duda no dejará indiferentes a activistas, militantes y estudiosos en todo el mundo. En esta entrevista conversamos con Paul North, editor de la nueva edición, y con Paul Reitter, su traductor y editor."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "La entrevista se divide en tres secciones que abordan diversos temas relacionados con el impacto de esta nueva edición, por lo que dividiremos la entrevista en tres secciones que abarcan diversos temas relacionados con el impacto de esta nueva edición."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "A) La relevancia y vitalidad de la obra de Marx en la actualidad."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "B) Características de la nueva traducción, diferencias con"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "respecto a versiones anteriores e importancia de MEGA2"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "para esta edición."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "C) Impacto potencial de la nueva edición y futuro de ",
+    [
+     "em",
+     {},
+     "El Capital"
+    ],
+    "."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "A. LA RELEVANCIA DE ",
+    [
+     "em",
+     {},
+     "EL CAPITAL"
+    ],
+    " EN EL SIGLO XXI"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    [
+     "strong",
+     {},
+     "1. Ustedes saben que cualquiera que lea "
+    ],
+    [
+     "strong",
+     {},
+     [
+      "em",
+      {},
+      "Das Kapital"
+     ]
+    ],
+    [
+     "strong",
+     {},
+     " con aten-"
+    ],
+    " ",
+    [
+     "strong",
+     {},
+     "ción se encontrará con una obra que sigue siendo profun-"
+    ],
+    " ",
+    [
+     "strong",
+     {},
+     "damente relevante para explicar la dinámica de la sociedad "
+    ],
+    " ",
+    [
+     "strong",
+     {},
+     "capitalista contemporánea y su potencial de transformación "
+    ],
+    " ",
+    [
+     "strong",
+     {},
+     "emancipadora, especialmente relevante hoy en día a la luz "
+    ],
+    " ",
+    [
+     "strong",
+     {},
+     "de la dinámica de la crisis social y ecológica contemporánea. "
+    ],
+    " ",
+    [
+     "strong",
+     {},
+     "¿Cuáles consideran que son los aspectos más cruciales de la "
+    ],
+    " ",
+    [
+     "strong",
+     {},
+     "obra magna de Marx para los lectores de hoy?"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Tal y como ustedes dicen, el libro o los libros sirven para explicar. Dado que la explicación es una llamada a ir más allá de lo obvio, de hecho, llama a lo que no es evidente a primera vista, o implica que lo que busca y lo que necesitamos no es la primera apariencia, sino una segunda o tercera, el libro sigue hablándonos, ya que la sociedad capitalista es en gran medida opaca. En lugar de comprender, la economía intenta gestionarla. En lugar de comprender, la teoría crítica intenta eludirla. Los libros que componen el proyecto de ",
+    [
+     "em",
+     {},
+     "El capital"
+    ],
+    " están ingeniosamente elaborados para mostrarnos una primera apariencia, luego para mostrarnos lo que esa apariencia oculta y, por último, para revelar el funcionamiento real de la apariencia bajo las fuerzas del capital. Creemos que lo más importante del libro sigue siendo su procedimiento fenomenológico. Es «lo más importante» porque tiene el mayor potencial para despertar a la mayoría de la gente. Te muestra un capitalismo que puedes tener en tus manos. Usted ya lo tiene en sus manos todos los días bajo la forma de mercancía. Usted es eso todos los días en forma de trabajador asalariado o trabajador reproductivo no asalariado. Así que el libro, como clave de la experiencia más propia, da acceso a esa experiencia, a menudo por primera vez. Más que la experiencia más íntima, muestra esa experiencia para compartirla, pone la clase como base de lo más íntimo y un sistema altamente necesitario como la máquina que produce y reproduce las relaciones de clase, por lo que es una llave y un destapador. Abre al individuo para revelar sus entrañas sociales."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Hay mucho más que es vital en el libro, como ustedes señalan, pero la vitalidad con mayor impacto es esa transformación de nuestra percepción de las cosas más cercanas. De los conceptos marxistas de ",
+    [
+     "em",
+     {},
+     "El capital"
+    ],
+    ", los nodos principales siguen llenos de vida. Las principales categorías analíticas o constatativas, el plusvalor (volumen 1), las transformaciones de la forma-valor (volumen 2) y la tasa media de ganancia (volumen 3), siguen siendo los pilares para comprender todo el sistema. Las categorías críticas de fetiche, objetivación, explotación, apariencia y los diversos tipos de crisis aún no han perdido su relevancia en la sociedad. Por supuesto, hay mucho que revisar, dados los cambios en el sistema y algunos compromisos por parte de Marx que ahora tienen poco sentido, como la historia etapista y también la tendencia decreciente de la tasa de ganancia. De las categorías críticas que han sido relativamente poco exploradas, ahora nos interesan especialmente dos: la subsunción real y la abstracción real. La subsunción real denomina la forma en que el trabajo es absorbido por los procesos del capital, incluso cómo sus procesos se internalizan en el sentido del yo de un individuo. La abstracción real es una forma de hablar de los tipos peculiares de entidades en las que se basa el sistema, pero que no pueden entenderse a través del conocimiento natural. El dinero es la principal abstracción real en la época de Marx. Añadiríamos a eso el «activo» [asset] como la abstracción real más importante de nuestro tiempo",
+    [
+     "sup",
+     {},
+     [
+      "a",
+      {
+       "id": "t-fnref2",
+       "href": "#t-fn2"
+      },
+      "2"
+     ]
+    ],
+    ". Es abstracto porque se aleja de los casos concretos. Es real porque, aunque no es concreto, existe, en toda su homogeneidad, en todo su vacío, en situaciones sociales reales, no solo en la mente, y causa efectos reales, aunque, como decimos, es altamente abstracto."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    [
+     "strong",
+     {},
+     "2. No consideramos una mera coincidencia que esta nueva "
+    ],
+    " ",
+    [
+     "strong",
+     {},
+     "edición de El capital se haya publicado el mismo año en que "
+    ],
+    " ",
+    [
+     "strong",
+     {},
+     "Trump fue reelegido presidente de la mayor potencia capitalis-"
+    ],
+    " ",
+    [
+     "strong",
+     {},
+     "ta del mundo. ¿Cómo interpretan esta coincidencia temporal "
+    ],
+    " ",
+    [
+     "strong",
+     {},
+     "entre una nueva traducción importante de la obra principal de "
+    ],
+    " ",
+    [
+     "strong",
+     {},
+     "Marx y el ascenso de Trump al más alto cargo político?"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Una de las motivaciones para volver a traducir ",
+    [
+     "em",
+     {},
+     "El capital"
+    ],
+    " ahora fue la crisis financiera de 2007-2009 en Estados Unidos y la Gran Recesión mundial, cuyo efecto fue revelar de forma repentina, aunque no sorprendente, la podredumbre del sistema. Se podría contar la historia así: las finanzas necesitan mantener la tasa de crecimiento. Dado que la tasa ya no era naturalmente alta en las economías centrales, excepto en China, aunque ahora también ha caído, una táctica obvia es buscar instrumentos de inversión cada vez más exóticos. El lema de las finanzas es: todo vale, porque el dinero tiene que ir a alguna parte —a cualquier parte menos a los trabajadores—. Trump pertenece a este ",
+    [
+     "em",
+     {},
+     "ethos"
+    ],
+    ", como inversionista, como capitalista fracasado en realidad, que es una forma de entender a la gente de las finanzas —gente sin ideas—, pero siempre fue alguien que, debido a sus delirios, podía mantener la apariencia de éxito lo suficiente como para que el dinero de las inversiones fluyera hacia él de todos modos, porque todo vale, ya que el dinero tiene que ir a alguna parte, a cualquier parte menos a los trabajadores. Trump es un swap",
+    [
+     "sup",
+     {},
+     [
+      "a",
+      {
+       "id": "t-fnref3",
+       "href": "#t-fn3"
+      },
+      "3"
+     ]
+    ],
+    " de incumplimiento crediticio viviente, sin una economía real detrás que lo sostenga. La existencia de Trump puede ser, por tanto, un síntoma de la ralentización del crecimiento, lo que conlleva una expansión de la especulación a todas las áreas del crédito, la invención de instrumentos exóticos, el triunfo de charlatanes y estafadores, etcétera. El resultado de esto es aún más espectacular para los especuladores. Un fondo que no estaba al alcance de los especuladores era el fondo público, en Estados Unidos, y ahora ha sido completamente requisado para los libros de contabilidad de los multimillonarios. El ",
+    [
+     "em",
+     {},
+     "Capital"
+    ],
+    " de Marx no habla directamente de este efecto, pero el volumen III explica algunos de los factores que conducen a la desaceleración del crecimiento. Es decir, la concentración aún más extrema de la riqueza que estamos viendo, y los problemas que ello crea para la economía y la política, hacen que ahora sea indispensable releer ",
+    [
+     "em",
+     {},
+     "El Capital"
+    ],
+    "."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    [
+     "strong",
+     {},
+     "3. En este sentido, Marx insiste en muchos pasajes en el «ham-"
+    ],
+    " ",
+    [
+     "strong",
+     {},
+     "bre canina de plustrabajo» que caracteriza a la producción ca-"
+    ],
+    " ",
+    [
+     "strong",
+     {},
+     "pitalista. ¿Sigue siendo válida esta perspectiva hoy en día? "
+    ],
+    " ",
+    [
+     "strong",
+     {},
+     "¿Cómo pueden interpretarse los recientes acontecimientos "
+    ],
+    " ",
+    [
+     "strong",
+     {},
+     "históricos en Estados Unidos desde una perspectiva marxiana?"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Quizás la expresión «hambre insaciable de plustrabajo» sea engañosa. Sin duda, señala un aspecto del capital industrial en una de sus etapas. A medida que la producción industrial se expande, necesita cada vez más trabajo para producir el mayor número de mercancías; sin embargo, a medida que invierte cada vez más dinero en capital fijo, principalmente en maquinaria, necesita que aumente la cantidad de plusvalor, el trabajo impago, en relación con el trabajo necesario que tiene que pagar, para obtener ganancias. Plustrabajo equivale a plusvalor y, entonces, equivale a ganancia. Así pues, el capital industrial, que invierte cada vez más de su riqueza en maquinaria que absorbe valor, tiene efectivamente un apetito insaciable de trabajo excedente, tan insaciable como su apetito por la tecnología. Necesita cada vez más, ya que el capital fijo le da cada vez menos. Sin embargo, Estados Unidos sufrió una desindustrialización masiva de su economía entre la década de 1970 y la actualidad. Sin embargo, el país no olvidó de repente que necesitaba productos manufacturados. Más bien, externalizó y deslocalizó, globalizó la cadena de suministro y, en general, separó a los poseedores de riqueza de los productores de riqueza mediante fronteras nacionales, océanos y diferencias salariales. Estas empresas siguen teniendo un apetito insaciable, solo que ahora lo satisfacen con fuerza de trabajo en economías cuyos salarios en dólares estadounidenses son de unos pocos centavos por hora. Si el apetito insaciable de plustrabajo, ahora extendido por todo el planeta, está relacionado con el auge del fascismo trumpista, podría deberse a un par de razones. Una es obvia: los Trumpistas explotan el resentimiento por la deslocalización de los puestos de trabajo. La nostalgia por una época en la que un trabajo en la industria manufacturera ofrecía a toda una familia la entrada en la clase media es parte de la historia. Demonizar a los trabajadores internacionales en el extranjero y a los inmigrantes en el país como enemigos es otra parte. Pero, en gran medida, los grandes capitalistas que se benefician de la economía estadounidense no pueden ser tildados de barones ladrones o explotadores industriales, como se podía hacer en el siglo XIX, porque no explotan a los trabajadores estadounidenses; quedan fuera del circuito industrial."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    [
+     "strong",
+     {},
+     "4. Marx describió la fábrica como la «casa del terror» consumada "
+    ],
+    " ",
+    [
+     "strong",
+     {},
+     "del capital, el lugar donde el capital disciplina y explota el traba-"
+    ],
+    " ",
+    [
+     "strong",
+     {},
+     "jo para su propia valorización. Hoy en día, con la expansión del "
+    ],
+    " ",
+    [
+     "strong",
+     {},
+     "trabajo precario, la automatización y el capital financiero, ¿qué "
+    ],
+    " ",
+    [
+     "strong",
+     {},
+     "identificarían como las nuevas «casas del terror» del capitalismo?"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Una cosa en la que los marxistas, y los teóricos críticos en general, son buenos es en mirar de frente a las casas del terror, los pasillos del terror, sus calles y subterráneos, los claros no nacionales para el abuso, enfrentándolos de frente. Lo que nos falta en gran medida hoy en día son los honorables inspectores de fábricas, que son los héroes del volumen 1 de ",
+    [
+     "em",
+     {},
+     "El capital"
+    ],
+    ". Ellos fueron testigos de cómo niños de tan solo siete años, que apenas podían hablar con frases completas, dormían sobre la maquinaria, donde hacía más calor, para poder empezar a trabajar nada más despertarse. Anotaban meticulosamente las condiciones inhumanas que ponían en peligro la salud, minaban la energía vital de los trabajadores, los atrapaban en un ambiente con aire viciado y los obligaban a permanecer en la fábrica cada vez más tiempo hasta bien entrada la noche. ¿Dónde están hoy los periodistas que denuncian el terror laboral? Suponemos que Marx utiliza la palabra «terror» porque, además de las condiciones de trabajo degradadas y degradantes, existía una condición subyacente para el trabajo. Solo se sigue trabajando en condiciones horribles si hay una fuerza que te obliga a ello. Así pues, el terror que azota estas casas no solo se siente en ellas, sino que tiene su origen en otro lugar, en lo que Marx suele llamar «la relación capitalista». Esta es la situación básica del sistema capitalista, en la que los propietarios monopolizan los medios de producción y, por lo tanto, obligan a los trabajadores a rendirse para poder explotar su trabajo. En el capital, el terror está en todas partes y en todo momento. ¿Perderé mi trabajo?, ¿subirá o bajará mi salario?, ¿tendrán futuro mis hijos?, el tiempo libre sirve al tiempo de trabajo, la productividad debe aumentar sin cesar. Los capitalistas tampoco se libran: ¿completarán el pedido?, ¿bajarán los precios antes de que sus productos lleguen al mercado?, ¿seguirán abriendo el año que viene o caerán en desgracia? El terror es el aire que respiramos."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    [
+     "strong",
+     {},
+     "5. Una cuestión que se ha planteado desde hace tiempo en la re-"
+    ],
+    " ",
+    [
+     "strong",
+     {},
+     "cepción de El capital ha sido su uso e interpretación como manual "
+    ],
+    " ",
+    [
+     "strong",
+     {},
+     "de economía política, en lugar de como crítica radical de las pro-"
+    ],
+    " ",
+    [
+     "strong",
+     {},
+     "pias categorías del capital. ¿Cómo aborda esta nueva traducción "
+    ],
+    " ",
+    [
+     "strong",
+     {},
+     "esa interpretación típica del llamado «marxismo tradicional»?"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Este es un punto muy importante y no debe restársele importancia. El análisis sirve a la crítica en el proyecto marxiano de ",
+    [
+     "em",
+     {},
+     "El capital"
+    ],
+    ", o al menos así se supone. Imaginemos que tenemos un gran edificio que queremos demoler. Lo primero que hacemos es estudiar su estructura. ¿De qué se sostiene? ¿Qué partes son soportes y cuáles son decorativas? Esto es lo que Marx hizo durante unos veinte años. Quizás lo hizo de una manera peculiar. No miró primero el edificio en sí, sino las evaluaciones que otros ingenieros habían hecho de él, y las encontró interesantes y erróneas. Se trata, por supuesto, de los economistas políticos. Los estudiantes de marxismo pueden cometer el error de pensar que las categorías de Marx son constatativas en lugar de críticas, debido precisamente a este gesto. Sin embargo, cuando se propuso corregir las categorías de la economía política, no quería crear otras mejores. O más bien, sí quería, pero no simplemente para mejorar el conocimiento. Sin duda, Ricardo se equivocaba en algunas cosas y Marx tenía razón. Pero una imagen correcta de la sociedad económica bajo el capitalismo no es suficiente. La imagen correcta tiene que servir para su desmantelamiento, y esto es realmente una anomalía en la historia de la filosofía. Marx sí quiere decir «así es como funciona» y «estas son sus partes y sus operaciones». Pero para ello elige las partes y operaciones más contradictorias, las que están en mayor tensión consigo mismas, para que puedan ser eliminadas de la forma más directa y fácil. No se trata, pues, de una crítica positivista de las categorías, sino de una crítica práctica, si se quiere llamar así. Y no es una crítica de una forma de vida, como si pudiéramos, con mejores normas, vivir mejor en la misma casa. La crítica de las categorías es una radiografía de las fallas del edificio para que la utilice el equipo de demolición. Sin embargo, debemos tener cuidado, ya que, por supuesto, el edificio sigue estando habitado."
+   ],
+   "\n",
+   [
+    "h3",
+    {
+     "id": "t-seccion-3"
+    },
+    "B. CARACTERÍSTICAS DE LA NUEVA TRADUCCIÓN, DIFERENCIAS CON RESPECTO A LAS VERSIONES ANTERIORES E IMPORTANCIA DE MEGA2 PARA ESTA NUEVA EDICIÓN"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    [
+     "strong",
+     {},
+     "1. ¿Podría resumir las principales características que distin-"
+    ],
+    " ",
+    [
+     "strong",
+     {},
+     "guen esta nueva traducción al inglés de "
+    ],
+    [
+     "strong",
+     {},
+     [
+      "em",
+      {},
+      "El capital"
+     ]
+    ],
+    [
+     "strong",
+     {},
+     " de las ver-"
+    ],
+    " ",
+    [
+     "strong",
+     {},
+     "siones anteriores?"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Claro, hay varias. Empecemos por la traducción en sí, antes de hablar del aparato editorial. Entre las mil diferencias entre esta y las traducciones anteriores, creemos que hay dos que son las más importantes. Todo el mundo sabe que ",
+    [
+     "em",
+     {},
+     "El capital L.1"
+    ],
+    ", es formidable para los lectores. Su lógica es extraña y compleja, reinterpreta términos de otros discursos y, cuando es necesario, introduce neologismos para expresar cómo funciona el capital, presenta historias ocultas y revela aspectos de la experiencia de todos permanecían desconocidos. Pero en alemán, la prosa no es difícil en su mayor parte. Marx escribe en general de forma directa y comunicativa, con el impulso de hacer claro lo oscuro y comprensible lo complejo. Es interesante lo que hicieron con esto las dos principales traducciones anteriores al inglés. La de Moore-Aveling de 1886, que en realidad debería llamarse «Moore», ya que Aveling contribuyó muy poco a ella, a menudo hace que la prosa sea hipercoloquial, introduciendo giros populares que a veces oscurecen el argumento preciso. La traducción de Ben Fowkes hace lo contrario. Hace que la prosa sea más compleja y técnica. Por el contrario, la nueva traducción se mantiene fiel al estilo prosaico directo y comunicativo de Marx que predomina en la mayor parte del libro. Como nota al margen, dado que en esta traducción somos muy sensibles a los cambios de registro, estilo, tono y voz, intentamos captar muchos de estos cambios. Así, además de la forma muy directa y amigable que tiene Marx de dirigirse a los lectores, intentamos reproducir los vuelos de ironía, el tono exaltado cuando critica a un intelectual necio, las personificaciones y el discurso indirecto que Marx utiliza para enfatizar y enseñar las contradicciones del capital. Y, por supuesto, no olvidamos los densos pasajes dialécticos."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "La segunda característica que distingue a esta traducción es el enfoque en el vocabulario relacionado con el valor, que había quedado oscurecido en traducciones anteriores. En el capítulo 1, en particular, Marx busca una forma de expresar lo diferentes que son las cosas cotidianas en el sistema. Así que empieza a jugar con las palabras, para intentar extraer de ellas una nueva fisicalidad [physicality] y una nueva abstracción. Uno de esos términos se traduce aquí como «objetualidad del valor», mientras que en otra traducción se traduce simplemente como «realidad». Eso no mostraría lo que Marx quiere mostrar con el término neológico ",
+    [
+     "em",
+     {},
+     "Wertgegenständlichkeit"
+    ],
+    " en alemán, una palabra que él mismo construye. El valor es esta abstracción que, sin embargo, tiene vida como una especie de objeto, un objeto espectral que no se puede percibir directamente, pero que, no obstante, guía nuestras acciones. Marx insistía en que veamos, sintamos y pensemos la ontología perversa de esta sociedad económica. Nosotros insistimos en que este estatus mixto, un objeto no físico, una sensación de ser como un objeto, pero no directamente aprehensible, podía traducirse al inglés, ¡o al menos debía intentarse!"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Consideramos este volumen como una edición de lectura crítica. Está pensado para quienes lo leen por primera vez y, al mismo tiempo, para que sea útil a los estudiosos que no tienen acceso al alemán original. En la prosa, nuestro objetivo es que se puedan seguir los movimientos generales del argumento. En el aparato y las notas editoriales, nuestro objetivo es dar precisión filológica a los términos y al contexto histórico e intelectual de la forma de proceder de Marx. Además, es la primera traducción al inglés de la segunda edición alemana, y la primera que se realiza a partir de la edición crítica alemana MEGA."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    [
+     "strong",
+     {},
+     "2. ¿Qué ventajas ofrece esta nueva traducción en términos de "
+    ],
+    " ",
+    [
+     "strong",
+     {},
+     "claridad, precisión y contextualización histórica?"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "En general, esta traducción se beneficia de los últimos 150 años de estudios sobre el proyecto de Marx. Hemos revisado glosarios y guías; hemos analizado minuciosamente artículos sobre términos específicos, hemos seguido debates teóricos y nos hemos beneficiado enormemente de las reconstrucciones de los manuscritos y de los relatos genéticos sobre el surgimiento de la obra publicada. Un gran avance en cuanto a precisión son nuestras glosas editoriales sobre palabras alemanas difíciles. Por ejemplo, la nota iii de la página 792 ofrece una genealogía de los términos «abstracto» y «concreto» en el discurso filosófico desde Boecio hasta Marx. Esto debería ayudar a los lectores a ver el cambio de sentido que se produce cuando Marx utiliza este par conceptual. Un avance en la contextualización histórica es la restauración del subtexto literario. Marx suele jugar con una frase de la literatura en su propia sintaxis, o la cita directamente. En nuestras notas editoriales rastreamos un gran número de ellas hasta sus fuentes, e incluso señalamos los casos en los que Marx, en algunos casos, transcribió mal."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    [
+     "strong",
+     {},
+     "3. ¿Hubo algún descubrimiento o idea en particular durante "
+    ],
+    " ",
+    [
+     "strong",
+     {},
+     "el proceso de traducción que les sorprendiera o cambiara su "
+    ],
+    " ",
+    [
+     "strong",
+     {},
+     "interpretación de la obra?"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Sentados en las rodillas de gigantes, sabemos que muchos descubrimientos sobre el texto se hicieron durante el proceso editorial de la edición crítica alemana, la MEGA, siendo los más importantes los cambios genéticos en el argumento, cuando Marx modificó una opinión entre borradores o versiones publicadas. Señalamos algunas de las diferencias importantes en un apéndice sobre las versiones y ediciones. Un pequeño descubrimiento que hicimos durante la edición y la traducción es el siguiente. El libro de Marx no es en sí mismo un texto sobre la revolución; y en gran parte, ni siquiera es un texto sobre el sistema capitalista directamente. Es un libro académico, que debate con otros relatos y otros académicos. Se puede ver la forma en que Marx trataba a otros académicos y sus propias ideas sobre la erudición en su práctica de la cita y la referencia. Aproximadamente la mitad del volumen son citas. ¿Cómo citaba Marx? Como todos los académicos, selecciona cuidadosamente los pasajes que cita, pero también altera selectivamente lo que dicen y, a veces, intensifica su posición para hacerla parecer más escandalosa. Una de nuestras laboriosas tareas filológicas fue volver a las fuentes y ver dónde se desviaba Marx de la fuente y de qué manera lo hacía."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    [
+     "strong",
+     {},
+     "4. En sus agradecimientos, menciona a Regina Roth, editora "
+    ],
+    " ",
+    [
+     "strong",
+     {},
+     "de MEGA (Marx-Engels-Gesamtausgabe), como alguien que "
+    ],
+    " ",
+    [
+     "strong",
+     {},
+     "resolvió importantes dudas durante la traducción. ¿Podría ex-"
+    ],
+    " ",
+    [
+     "strong",
+     {},
+     "plicar con más detalle la importancia de MEGA2 para esta edi-"
+    ],
+    " ",
+    [
+     "strong",
+     {},
+     "ción? ¿Qué nuevos matices o perspectivas aportó?"
+    ],
+    " La MEGA fue crucial para nuestra edición. Nos basamos en gran medida en su profunda investigación y sus cuidadosas decisiones editoriales, y a menudo los citamos y les damos las gracias en nuestra edición. ",
+    [
+     "em",
+     {},
+     "El Capital"
+    ],
+    " después de la MEGA es algo totalmente diferente. No solo se plantean cuestiones de hecho, sino que a menudo se responden haciendo referencia a las fuentes de Marx u otros textos de Marx. Esto facilitó enormemente la búsqueda de materiales para nuestras notas. La MEGA ha tejido una red de referencias que cambia toda nuestra visión de ",
+    [
+     "em",
+     {},
+     "El Capital"
+    ],
+    ". Ya no es un libro, ni siquiera tres libros, sino una gran «aventura» que adoptó muchas formas y ocupó miles de páginas de cuadernos durante casi 40 años. Ahora es posible situar un extracto de este proceso, como ",
+    [
+     "em",
+     {},
+     "El Capital L1"
+    ],
+    ", en su lugar adecuado."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    [
+     "strong",
+     {},
+     "5. En la investigación actual de nuestro instituto, las inter-"
+    ],
+    " ",
+    [
+     "strong",
+     {},
+     "pretaciones contemporáneas de la teoría de Marx, como el "
+    ],
+    " ",
+    [
+     "strong",
+     {},
+     "marxismo abierto y las obras de David Harvey, Silvia Federi-"
+    ],
+    " ",
+    [
+     "strong",
+     {},
+     "ci, Moishe Postone, Robert Kurz, Roswitha Scholz y Michael "
+    ],
+    " ",
+    [
+     "strong",
+     {},
+     "Heinrich, han cobrado especial influencia. Nos alegró ver a "
+    ],
+    " ",
+    [
+     "strong",
+     {},
+     "Heinrich en el consejo editorial. ¿Podrían explicar con más "
+    ],
+    " ",
+    [
+     "strong",
+     {},
+     "detalle la influencia de estas lecturas en la nueva traducción? "
+    ],
+    " ",
+    [
+     "strong",
+     {},
+     "Además, ¿cómo describirían el panorama de la interpretación "
+    ],
+    " ",
+    [
+     "strong",
+     {},
+     "marxista contemporánea en Estados Unidos?"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Y podríamos añadir a su lista algunos otros nombres, vivos y muertos —Rosa Luxemburg, Isaak Rubin, Tithi Bhattacharya y otros—cuya labor interpretativa ha influido en nuestro trabajo editorial y de traducción. Vemos dos motivos principales en la lista que ha proporcionado, y también en la nuestra, que fueron cruciales. La teoría de la reproducción social identificó muchas lagunas, silencios y fragmentos incompletos en toda la obra ",
+    [
+     "em",
+     {},
+     "El capital"
+    ],
+    ", y tratamos de esclarecer algunos de ellos, prestando especial atención a los pocos pasajes en los que Marx se ocupa del trabajo reproductivo. Luego está la forma-valor, un descubrimiento que llevó a Marx a desarrollar este nuevo tipo de ciencia. Prestamos mucha atención a los argumentos sobre el valor y las formas de valor en la traducción, gracias al trabajo de Rubin, Backhaus, Heinrich, Kurz y otros."
+   ],
+   "\n",
+   [
+    "h3",
+    {
+     "id": "t-seccion-4"
+    },
+    "C. IMPACTO POTENCIAL DE LA NUEVA EDICIÓN Y EL FUTURO DE EL CAPITAL"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    [
+     "strong",
+     {},
+     "1. ¿Cómo anticipan que será recibida esta nueva edición en los "
+    ],
+    " ",
+    [
+     "strong",
+     {},
+     "círculos académicos y no académicos angloamericanos? ¿Qué "
+    ],
+    " ",
+    [
+     "strong",
+     {},
+     "impacto podría tener en la difusión de la obra de Marx?"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Necesitamos un nuevo ",
+    [
+     "em",
+     {},
+     "Capital"
+    ],
+    ", escrito desde una perspectiva global y planetaria, con una nueva crítica de la economía, que parta de Marx, pero del Marx real, el Marx de la MEGA, cuyos interminables borradores y revisiones acompañaron su lectura de los informes de los inspectores de fábricas (necesitamos nuevos inspectores de fábricas, pero ¿de dónde, de la ONU? ¿De una nueva Internacional?), pero sin quedarse con Marx, partiendo con él en su impulso de analizar y criticar, pero apartándose de él en su construcción del objeto, sin verlo ya dentro de una historia etapista o con posibilidades predeterminadas, incluso autónomas, de superarse a sí mismo desde dentro, una visión en la que no queda destino, y donde las finanzas entran en escena desde el principio, como siempre lo han hecho, aunque nunca antes en esta medida y con este fuego de creatividad, de tal manera que el nuevo ",
+    [
+     "em",
+     {},
+     "Capital"
+    ],
+    " no parte de la mercancía, sino del activo [asset], tal vez procediendo bajo una nueva dialéctica o dejando que esa forma lógica se deslice de su posición dogmática como líder entre las muchas lógicas del ",
+    [
+     "em",
+     {},
+     "El Capital"
+    ],
+    ": lógicas de la naturaleza, de las economías, ecología, todas ellas comprometidas por ironías y discrepancias, por no decir contradicciones, como la contradicción interna de que un futuro socialismo surgirá del capitalismo o, peor aún, que será capitalismo, de nuevo, con algunos de sus aspectos invertidos."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Para escribir ",
+    [
+     "em",
+     {},
+     "El capital"
+    ],
+    " de nuevo, hay que volver a leer ",
+    [
+     "em",
+     {},
+     "El capital"
+    ],
+    ", y es probable que ese nuevo proyecto surja de alguien que lo esté leyendo por primera vez. Por eso, hemos producido una edición que le permite leerlo como si fuera la primera vez, en inglés, sin preparación previa, o si la tiene, le permite deshacerse de algunas de las interpretaciones sedimentadas."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    [
+     "strong",
+     {},
+     "2. Dado el renovado interés por Marx en esta era de crisis sis-"
+    ],
+    " ",
+    [
+     "strong",
+     {},
+     "témica del capitalismo, ¿cree que esta nueva traducción puede "
+    ],
+    " ",
+    [
+     "strong",
+     {},
+     "ampliar el número de lectores de El capital entre la nueva ge-"
+    ],
+    " ",
+    [
+     "strong",
+     {},
+     "neración de público no especializado? ¿Qué mensaje les daría "
+    ],
+    " ",
+    [
+     "strong",
+     {},
+     "a los lectores que no están familiarizados con El capital, pero "
+    ],
+    " ",
+    [
+     "strong",
+     {},
+     "que tienen una visión crítica del orden social actual?"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "La publicación de la nueva versión ha recibido mucha atención en Estados Unidos, mucha en comparación con la economía tecnocapitalista de la atención, que se aleja mucho de los libros intelectuales como este. Por lo tanto, tenemos la esperanza de que llegue a nuevos públicos. Nuestros dos lectores imaginarios eran, por un lado, un joven de 20 años del centro del país, sin experiencia en teoría crítica, y, por otro, un lector académico de Marx sin acceso al alemán. Hay tantos recursos en el texto que quedan ocultos en ediciones anteriores que queremos que estén disponibles incluso para los lectores experimentados, porque la revolución, por lenta o fragmentada que sea, probablemente vendrá de los inexpertos y de la clase media."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    [
+     "strong",
+     {},
+     "3. Desde una perspectiva editorial y académica, ¿hay planes "
+    ],
+    " ",
+    [
+     "strong",
+     {},
+     "de continuar con nuevas traducciones o estudios críticos que "
+    ],
+    " ",
+    [
+     "strong",
+     {},
+     "complementen esta edición?"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "North está terminando una reinterpretación crítica del proyecto ",
+    [
+     "em",
+     {},
+     "El Capital"
+    ],
+    ", titulada «El punto de vista de ",
+    [
+     "em",
+     {},
+     "El Capital de Marx"
+    ],
+    "», que debería salir en 2026. El objetivo de su libro es encontrar recursos dentro de la obra de Marx que no sean conceptuales, para acercar la crítica del sistema a posibles acciones. North y Reitter están editando y Reitter está traduciendo actualmente el volumen 2, que también será publicado por Princeton University Press. Esta edición reproducirá la edición de Engels, pero con notas críticas añadidas y material de los manuscritos para completar la teorización de Marx sobre la circulación. Prevemos que el volumen 2 estará listo en 2028 y que el volumen 3 le seguirá varios años después."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    [
+     "strong",
+     {},
+     "4. Desde América Latina, seguimos de cerca los desarrollos "
+    ],
+    " ",
+    [
+     "strong",
+     {},
+     "de la teoría crítica en los centros de acumulación capitalista. "
+    ],
+    " ",
+    [
+     "strong",
+     {},
+     "¿Qué impacto prevé que tendrá esta edición en los activistas y "
+    ],
+    " ",
+    [
+     "strong",
+     {},
+     "académicos de las periferias globales?"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Solo podemos esperar que el libro sea leído y que ayude a los activistas a encontrar formas de contestar, resistir y organizarse."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    [
+     "strong",
+     {},
+     "5. "
+    ],
+    [
+     "strong",
+     {},
+     [
+      "em",
+      {},
+      "El Capital"
+     ]
+    ],
+    [
+     "strong",
+     {},
+     " ha sido crucial tanto en el ámbito académico como "
+    ],
+    " ",
+    [
+     "strong",
+     {},
+     "en las luchas sociales que critican profundamente la sociedad "
+    ],
+    " ",
+    [
+     "strong",
+     {},
+     "capitalista. ¿Qué impacto espera que tenga esta traducción en "
+    ],
+    " ",
+    [
+     "strong",
+     {},
+     "las luchas contemporáneas y en las teorías críticas que surgen "
+    ],
+    " ",
+    [
+     "strong",
+     {},
+     "en respuesta a la crisis actual?"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "La teoría crítica necesita reformularse constantemente, en vista de las circunstancias cambiantes. Lo curioso es que, para ello, es necesario releer ",
+    [
+     "em",
+     {},
+     "El Capital"
+    ],
+    ". Aunque parezca extraño, creemos que es obviamente cierto. A lo largo de la vida posterior de una obra, las verdades sobre ella quedan fijadas por las circunstancias, y sin embargo la obra sobrevive a esas circunstancias, y las verdades fijadas se confunden entonces con la obra misma. Nadie más ha explorado tantas lógicas posibles que podrían ayudarnos a analizar la coyuntura actual. Marx, en nuestra opinión, es un multiplicador de recursos. Va más allá de cualquier estudio disciplinario que no pueda cuestionar su lógica por temor a disolverse en la arbitrariedad y la opinión. Marx se pregunta cuál es la mejor lógica disponible para abordar este sistema sin precedentes, y prueba muchas diferentes. Era aventurero en ese sentido. Hay otra razón por la que ",
+    [
+     "em",
+     {},
+     "El capital"
+    ],
+    " es más grande que las verdades sobre él que se han fijado: obviamente, porque el capital con minúscula sufre sus propias revoluciones y necesita ser analizado una y otra vez. El libro nos dice por qué esto es así, tratando de identificar las pocas leyes que permanecen mientras todo lo demás cambia. Por lo tanto, no solo ofrece herramientas prefabricadas para la crítica, sino también una guía sobre cómo forjar esas herramientas una vez que el capital se ha transformado."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    [
+     "strong",
+     {},
+     "6. El anticomunismo ha resurgido a nivel mundial, a menudo "
+    ],
+    " ",
+    [
+     "strong",
+     {},
+     "alimentado por noticias falsas y distorsiones históricas en las "
+    ],
+    " ",
+    [
+     "strong",
+     {},
+     "redes sociales; el caso del líder de Alternative für Deutschland "
+    ],
+    " ",
+    [
+     "strong",
+     {},
+     "(AfD), que afirma que Hitler era comunista, es paradigmático "
+    ],
+    " ",
+    [
+     "strong",
+     {},
+     "en este sentido. ¿Qué esperaría que descubrieran los críticos o "
+    ],
+    " ",
+    [
+     "strong",
+     {},
+     "escépticos del marxismo al leer esta nueva edición?"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "La apertura de Marx, el carácter siempre en progreso, inquisitivo, indagador y reinventado de su obra, su rechazo al dogmatismo y su enorme talento para señalarlo en los demás (véase la sección «La última hora de Senior» en ",
+    [
+     "em",
+     {},
+     "El capital"
+    ],
+    ", y también la sección sobre el fetichismo): todo esto está ampliamente aceptado en los estudios sobre Marx hoy en día, hasta el punto de que la gente debería tener cuidado de no volverse dogmática sobre la ausencia de dogmatismo."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Pero, por supuesto, los críticos de Marx lo ven a él y a su obra de manera muy diferente. Nos gusta pensar que nuestra edición hace que este aspecto no dogmático y antidogmático sea más difícil de pasar por alto, entre otras cosas, al igualar el lenguaje creativo de ",
+    [
+     "em",
+     {},
+     "El Capital"
+    ],
+    " y conservar el humor y los cambios de registro, es decir, la movilidad de la prosa, mucho más que las ediciones anteriores. Para no pasarlo por alto, tienen que leer el libro. Y ya veremos si quienes actualmente rechazan o demonizan a Marx están dispuestos a hacerlo."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    [
+     "strong",
+     {},
+     "7. Por último, para concluir, nos gustaría conocer sus reflexio-"
+    ],
+    " ",
+    [
+     "strong",
+     {},
+     "nes sobre la posibilidad de una transformación radical en la "
+    ],
+    " ",
+    [
+     "strong",
+     {},
+     "actualidad. Es cierto que vivimos en tiempos oscuros, con el "
+    ],
+    " ",
+    [
+     "strong",
+     {},
+     "espectro de una nueva barbarie resurgiendo en diversas partes "
+    ],
+    " ",
+    [
+     "strong",
+     {},
+     "del mundo, incluso en el corazón del Estado-nación capitalista "
+    ],
+    " ",
+    [
+     "strong",
+     {},
+     "más avanzado. A pesar de las nuevas formas de reacción, ¿si-"
+    ],
+    " ",
+    [
+     "strong",
+     {},
+     "gue siendo posible hoy en día una transformación radical? ¿Qué "
+    ],
+    " ",
+    [
+     "strong",
+     {},
+     "alternativas se pueden ofrecer para abordar la crisis actual? ¿Y "
+    ],
+    " ",
+    [
+     "strong",
+     {},
+     "qué papel podría desempeñar una relectura de la obra de Marx "
+    ],
+    " ",
+    [
+     "strong",
+     {},
+     "en la configuración de alternativas a la crisis del sistema?"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Estas son precisamente las preguntas que debemos plantearnos, y añadiríamos una o dos más. En primer lugar, si la barbarie es nuestro antagonista o nuestro anticristo, sin especificar aún qué entienden por esa palabra, qué rasgos y actos pueden clasificarse bajo ella, si la barbarie, sea lo que sea lo que signifique, es su antagonista, ¿qué hacen con las barbaries de los marxismos anteriores, la barbarie de la razón marxista, podríamos llamarla, desvinculada de otras partes del enfoque más holístico de ",
+    [
+     "em",
+     {},
+     "El Capital"
+    ],
+    "? El hecho es que Marx no desempeña un papel directo, o digamos un papel positivo, en la configuración de alternativas. Su libro es analítico y crítico, y en consonancia con la prohibición autoimpuesta por él y Engels de crear imágenes de un futuro socialista, se abstiene de imaginar el futuro. Si allana el terreno para dar forma a alternativas, en la medida en que libera al mundo de la esperanza en el sistema capitalista, eso ya es una tarea enorme, todavía enorme, todavía por delante. No hay duda de que una transformación radical es posible: siempre lo es. Si no lo fuera, nunca habríamos terminado viviendo bajo el capitalismo. La cuestión es en qué escala temporal, con qué ajustes, bajo qué tipo de nuevas fuerzas dentro y contra el capital podría llegar a ser probable. Aparte de los gestos fatalistas, que son menos frecuentes en el proyecto ",
+    [
+     "em",
+     {},
+     "El capital"
+    ],
+    ", que dependen de una concepción etapista de la historia, Marx tiene una interesante visión, en el Volumen 1, y más tarde de nuevo en la ",
+    [
+     "em",
+     {},
+     "Crítica del programa de Gotha"
+    ],
+    ". La configuración de alternativas no preexistirá a la socialidad que quiere configurar. La sociedad no se construye como se construye un edificio a partir de un plano. Surge de las fuerzas que actúan en ella. Al igual que los trabajadores aprendieron a cooperar de una nueva manera en la planta de trabajo mecanizada, las formas de socialidad sobre las que se construirá el socialismo surgirán de las personas que trabajan juntas para superarlo. Las formas en que interactuamos cuando nos organizamos para un futuro mejor son los primeros materiales de ese futuro. Es decir, por un lado, no esperen a que surjan alternativas, háganlas interactuando entre ustedes. Y, por otro lado, un programa de investigación crucial sería rastrear las formas globales y planetarias de asociación que se están fusionando actualmente."
+   ],
+   "\n",
+   [
+    "h3",
+    {
+     "id": "t-seccion-5"
+    },
+    "REFERENCIAS"
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Marx, K. (2024). ",
+    [
+     "em",
+     {},
+     "Capital. Critique of political economy. Volume 1."
+    ],
+    " New Jersey: Princeton University Press. Traducido por Paul Reitter. Editado por Paul North & Paul Reitter."
+   ],
+   "\n",
+   [
+    "section",
+    {},
+    [
+     "h3",
+     {
+      "id": "t-seccion-6"
+     },
+     "NOTAS"
+    ],
+    [
+     "ol",
+     {},
+     "\n",
+     [
+      "li",
+      {
+       "id": "t-fn1"
+      },
+      "El término MEGA se refiere a la Marx-Engels-Gesamtausgabe, la edición académica integral e histórico-crítica más completa de las obras de Karl Marx y Friedrich Engels. Este proyecto monumental tiene como objetivo publicar absolutamente todo lo escrito por ambos autores, incluyendo manuscritos inéditos, borradores, correspondencia y notas marginales en los libros que leían ",
+      [
+       "a",
+       {
+        "href": "#t-fnref1",
+        "id": "t-llamada-fnref1-1"
+       },
+       "↩"
+      ]
+     ],
+     "\n",
+     [
+      "li",
+      {
+       "id": "t-fn2"
+      },
+      "El término “asset” se traduce literalmente como activo. Dependiendo del contexto, se refiere a recursos que poseen valor o utilidad para una persona, empresa o proyecto financiero. En el mundo de las finanzas y los negocios, un asset es cualquier recurso con valor económico que una entidad posee o controla con la expectativa de obtener una ganancia futura. ",
+      [
+       "a",
+       {
+        "href": "#t-fnref2",
+        "id": "t-llamada-fnref2-1"
+       },
+       "↩"
+      ]
+     ],
+     "\n",
+     [
+      "li",
+      {
+       "id": "t-fn3"
+      },
+      "El término swap significa literalmente “intercambio” y se utiliza en diversos campos para describir la sustitución de un elemento por otro. En finanzas se refiere principalmente a la permuta financiera, siendo un contrato derivado donde dos partes acuerdan intercambiar flujos de caja futuros. Se negocian de forma privada en mercados extrabursátiles (OTC) y sirven principalmente para gestionar riesgos. ",
+      [
+       "a",
+       {
+        "href": "#t-fnref3",
+        "id": "t-llamada-fnref3-1"
+       },
+       "↩"
+      ]
+     ],
+     "\n"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Cómo citar: ",
+    [
+     "em",
+     {},
+     "Bajo el Volcán. Revista del Posgrado de Sociología. BUAP"
+    ],
+    ", Año 7, Núm. 14, mayo – octubre de 2026, pp. 388-407. https://doi.org/10.32399/ICSYH.bvbuap.2954-4300.2026.7.14.891"
+   ],
+   [
+    "p",
+    {},
+    [
+     "a",
+     {
+      "href": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
+     },
+     "Licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional"
+    ],
+    ". Publicación de acceso abierto diamante editada por la Benemérita Universidad Autónoma de Puebla."
+   ],
+   "\n"
+  ],
+  "\n"
+ ]
+};

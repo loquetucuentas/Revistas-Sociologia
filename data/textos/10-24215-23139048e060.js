@@ -1,0 +1,2039 @@
+// Copia de textos/10-24215-23139048e060.json para abrir la aplicación sin servidor.
+(window.DATOS_REVISTAS = window.DATOS_REVISTAS || {})["textos/10-24215-23139048e060.json"] = {
+ "version": 1,
+ "recogido": "2026-10-18T11:49:59+00:00",
+ "doi": "10.24215/23139048e060",
+ "titulo": "Trabajar en enfermería durante la pandemia de la covid-19",
+ "revista": "2313-9048",
+ "numero": "v16-n16-2022",
+ "licencia": {
+  "codigo": "by-nc-sa",
+  "nombre": "CC BY-NC-SA 4.0",
+  "nombre_completo": "Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional",
+  "url": "https://creativecommons.org/licenses/by-nc-sa/4.0",
+  "url_legal": "https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.es"
+ },
+ "fuente": {
+  "url": "https://perio.unlp.edu.ar/ojs/index.php/cps/article/download/7515/6560/31444?inline=1",
+  "formato": "HTML",
+  "plataforma": "ojs-galerada",
+  "pagina": "https://perio.unlp.edu.ar/ojs/index.php/cps/article/view/7515"
+ },
+ "autores_cita": [
+  {
+   "apellidos": "Ramacciotti",
+   "nombre_pila": "Karina",
+   "nombre": null
+  }
+ ],
+ "avisos_derechos": [
+  "Derechos de autor 2022 Cuadernos de H ideas",
+  "Licencia Derechos de autor 2022 Cuadernos de H ideas Esta obra está bajo una licencia internacional Creative Commons Atribución-NoComercial-CompartirIgual 4.0. La aceptación de un original por parte de la revista implica la cesión no exclusiva de los derechos patrimoniales de los/as autores/as en favor del editor, quien permite la reutilización, luego de su edición (postprint), bajo una Licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0) Acorde a estos términos, el material se puede compartir (copiar y redistribuir en cualquier medio o formato) y adaptar (remezclar, transformar y crear a partir del material otra obra), siempre que a) se cite la autoría y la fuente original de su publicación (revista y URL de la obra), b) no se use para fines comerciales y c) se mantengan los mismos términos de la licencia. La cesión de derechos no exclusivos implica que luego de su edición (postprint) en Cuadernos de H ideas las/os autoras/es pueden publicar su trabajo en cualquier idioma, medio y formato; en tales casos, se solicita que se consigne que el material fue publicado originalmente en esta revista. Tal cesión supone, también, la autorización de los/as autores/as para que el trabajo sea cosechado por SEDICI, el repositorio institucional de la Universidad Nacional de La Plata, y sea difundido en las bases de datos que el equipo editorial considere adecuadas para incrementar la visibilidad de la publicación y de sus autores/as. Asimismo, la revista incentiva a las/os autoras/es para que luego de su publicación en Cuadernos de H ideas depositen sus producciones en otros repositorios institucionales y temáticos, bajo el principio de que ofrecer a la sociedad la producción científica y académica sin restricciones contribuye a un mayor intercambio del conocimiento global."
+ ],
+ "idioma_principal": "es",
+ "indice": [],
+ "vueltas": {},
+ "contenido": [
+  [
+   "span",
+   {
+    "id": "t-MathJax_Message"
+   }
+  ],
+  "\n",
+  [
+   "span",
+   {
+    "id": "t-visor-cabecera"
+   },
+   "\n",
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-logo-institucion"
+    },
+    "\n",
+    [
+     "figura",
+     {}
+    ]
+   ],
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-logo-revista"
+    },
+    "\n",
+    [
+     "figura",
+     {}
+    ]
+   ],
+   "\n",
+   "\n"
+  ],
+  "\n",
+  [
+   "span",
+   {
+    "id": "t-articulo"
+   },
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-front"
+    },
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-articulo-categoria"
+     },
+     "\n",
+     [
+      "p",
+      {},
+      "Dossier"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-articulo-meta"
+     },
+     "\n",
+     [
+      "p",
+      {},
+      "\n",
+      [
+       "span",
+       {},
+       "Trabajar en enfermería durante la pandemia de la covid-19"
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "Nursing during the Covid-19 Pandemic"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-articulo-acerca"
+     },
+     "\n",
+     [
+      "span",
+      {
+       "id": "t-ficha-general"
+      },
+      "\n",
+      [
+       "span",
+       {
+        "id": "t-autores-articulo"
+       },
+       "\n",
+       "\n",
+       "\n",
+       [
+        "a",
+        {
+         "href": "https://orcid.org/0000-0002-6724-3926"
+        },
+        [
+         "figura",
+         {}
+        ]
+       ],
+       "  ",
+       [
+        "span",
+        {},
+        "Karina"
+       ],
+       " ",
+       [
+        "span",
+        {},
+        "Ramacciotti"
+       ],
+       " ",
+       [
+        "span",
+        {}
+       ],
+       [
+        "span",
+        {},
+        " karinaramacciotti@gmail.com"
+       ],
+       "\n",
+       "\n",
+       "\n",
+       [
+        "span",
+        {},
+        "Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET). Universidad Nacional de Quilmes"
+       ],
+       ", ",
+       [
+        "span",
+        {},
+        "Argentina"
+       ],
+       "\n",
+       "\n",
+       "\n"
+      ],
+      "\n",
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "Cuadernos de H ideas"
+       ],
+       "\n"
+      ],
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "Universidad Nacional de La Plata, Argentina"
+       ],
+       "\n"
+      ],
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "ISSN: "
+       ],
+       "2313-9048"
+      ],
+      "\n",
+      [
+       "p",
+       {}
+      ],
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "Periodicidad: "
+       ],
+       "Frecuencia continua"
+      ],
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "vol.  16, "
+       ],
+       "núm.  16, ",
+       [
+        "span",
+        {
+         "id": "t-elocation-id"
+        },
+        "e060, "
+       ],
+       [
+        "span",
+        {},
+        "2022"
+       ],
+       "\n"
+      ],
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       "cuadernosdehideas@perio.unlp.edu.ar",
+       "\n"
+      ],
+      "\n",
+      "\n",
+      [
+       "span",
+       {
+        "id": "t-articulo-product"
+       }
+      ],
+      "\n",
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "Recepción: "
+       ],
+       " 12 Febrero  2022"
+      ],
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "Aprobación: "
+       ],
+       " 23 Febrero  2022"
+      ],
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "Publicación: "
+       ],
+       " 31 Mayo  2022"
+      ],
+      "\n",
+      [
+       "br",
+       {}
+      ],
+      "\n",
+      [
+       "br",
+       {}
+      ],
+      "\n",
+      "\n",
+      "\n",
+      [
+       "span",
+       {},
+       "URL: "
+      ],
+      [
+       "a",
+       {
+        "href": "http://portal.amelica.org/ameli/journal/31/313286003/"
+       },
+       "http://portal.amelica.org/ameli/journal/31/313286003/"
+      ],
+      "\n",
+      "\n",
+      "\n",
+      [
+       "span",
+       {},
+       "DOI: "
+      ],
+      [
+       "a",
+       {
+        "href": "https://doi.org/10.24215/23139048e060"
+       },
+       "https://doi.org/10.24215/23139048e060"
+      ],
+      "\n",
+      "\n",
+      "\n",
+      [
+       "p",
+       {}
+      ],
+      "\n",
+      "\n",
+      "\n",
+      "\n",
+      [
+       "a",
+       {
+        "href": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+       },
+       [
+        "figura",
+        {}
+       ],
+       [
+        "br",
+        {}
+       ],
+       "\n"
+      ],
+      "Esta obra está bajo una ",
+      [
+       "a",
+       {
+        "href": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+       },
+       "Licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional."
+      ],
+      "\n",
+      "\n",
+      "\n",
+      [
+       "p",
+       {}
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "\n",
+      [
+       "span",
+       {},
+       "Resumen:\n\t\t\t\t\t\t\t                           "
+      ],
+      [
+       "span",
+       {},
+       "La enfermería es un sector clave de los equipos de salud ya que tienen un vínculo estrecho y continuo con los pacientes. Ese rol insustituible de la enfermería no surgió con la pandemia de la covid-19, pero quedó mucho más visible dado su activo protagonismo en las tareas de rastreos, hisopados, cuidados durante las internaciones, comunicación con familiares y campañas de vacunación. En este artículo se estudiarán las representaciones del sector en lo que fue vivido como cambios en las rutinas laborales a partir de la pandemia de la covid. Se explorará en las actividades que se incrementaron y se modificaron a partir de la pandemia y se hará foco en dos cuestiones emergentes; las dudas, especialmente en el inicio de la pandemia, en torno a las medidas de bioseguridad y las incertidumbres en torno a los tratamientos a seguir. Luego revisaremos las estrategias implementadas, individuales y colectivas, para enfrentar momentos difíciles durante las internaciones tal como el acompañamiento de la muerte."
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "\n",
+      [
+       "span",
+       {},
+       "Palabras clave: "
+      ],
+      "enfermería, pandemia, rutinas laborales, acompañamiento de la muerte.\n\t\t                         "
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "lang": "en"
+      },
+      "\n",
+      [
+       "span",
+       {},
+       "Abstract:\n\t\t\t\t\t\t                           "
+      ],
+      [
+       "span",
+       {},
+       "Nursing is a key sector of health care teams as they have a close and continuous link with patients. This irreplaceable role of nurses did not emerge with the covid-19 pandemic, but it became much more visible given their active role in the tasks of tracing, covid testing, care during hospitalisations, communication with relatives and vaccination campaigns. This article will study the representations of the sector given the modifications in work routines after the covid pandemic. We will investigate the activities that have increased and changed since the pandemic and focus on two emerging issues: the doubts, especially at the beginning of the pandemic, about biosecurity measures and uncertainties about the treatments to be followed. We will then review the strategies implemented, individually and collectively, to cope with adversity during hospitalisation, such as palliative care."
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "\n",
+      [
+       "span",
+       {},
+       "Keywords: "
+      ],
+      "nursing, pandemic, work routines, palliative care.\n                                "
+     ],
+     "\n"
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-articulo-body"
+    },
+    "\n",
+    [
+     "p",
+     {},
+     "\n",
+     [
+      "span",
+      {},
+      "Introducción"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " La enfermería es un sector fundamental de los equipos de salud ya que tienen un vínculo estrecho y continuo con los pacientes en relación con los cuidados y las tareas de prevención. Ese rol insustituible de la enfermería no surgió con la pandemia de la covid-19, pero quedó mucho más visible dado su activo protagonismo en las tareas de rastreos, hisopados, cuidados durante las internaciones, comunicación con familiares y campañas de vacunación. Esta multiplicidad de tareas se realizó dentro de un contexto de una enfermedad, con una alta tasa de contagiosidad y signada, principalmente en el inicio, con altos niveles de incertidumbre en torno a las formas de contagio y los métodos de protección adecuados. Entonces, el interés principal de este artículo es analizar cómo la pandemia de la covid-19 modificó las prácticas de trabajo profesionales de la enfermería, agregó e intensificó rutinas laborales y se modificaron las relaciones con pacientes tanto en los procesos de asistencia, prevención y en el acompañamiento ante la muerte. Estas situaciones, potenciadas por la velocidad de contagios y la cantidad de fallecimientos generaron situaciones duales entre los profesionales. Por un lado, sentirse parte de un momento único y particular, y por otro lado vivir momentos de angustia, estrés, cansancio y desazón. "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Este artículo está basado en una estrategia metodológica cuantitativa y cualitativa, que nos permite comprender en profundidad los discursos, representaciones y percepciones de enfermeros y enfermeras durante la pandemia de la covid-19 a partir de entrevistas en profundidad y la realización de una encuesta autoadministrada. Los datos primarios de las entrevistas se basan en 44 entrevistas realizadas a enfermeros y enfermeras de los subsectores público y privado, en ejercicio durante la pandemia en la Ciudad Autónoma de Buenos Aires (CABA) y en la zona sur de la Provincia de Buenos Aires (Avellaneda y Quilmes). La Ciudad Autónoma de Buenos Aires y su conurbación conforman el Área Metropolitana de Buenos Aires (AMBA) que aglutina alrededor del 31,6% de la población total del país (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286003/html/index.html#redalyc_313286003_ref10"
+      },
+      "Pereyra & Micha, 2016"
+     ],
+     "). Estas 44 entrevistas son parte de un corpus más amplio compuesto por 274 entrevistas que se hicieron a nivel nacional, entre abril y julio de 2021, dentro del marco del Proyecto PISAC COVID-19 0022: “La enfermería y el cuidado sanitario profesional durante la pandemia y la postpandemia del COVID-19 (Argentina, S. XX y XXI)”, en el que participaron investigadores e investigadoras de 16 nodos (universidades nacionales y centros de investigación en diferentes regiones del país). "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Para determinar la cantidad y los perfiles de entrevistas y de la encuesta a realizar en cada región, se realizó un muestreo teórico por cuotas basado en los perfiles de la enfermería que describe el informe oficial realizado por el Ministerio de Salud de la Nación: ",
+     [
+      "span",
+      {},
+      "Estado de situación de la formación y el ejercicio profesional de la Enfermería julio 2020"
+     ],
+     " (Ministerio de Salud, 2020). Se definieron cuotas a partir de dos variables principales: el nivel de formación de las y los enfermeros (auxiliares, técnico/as, licenciadas/os) y el subsector del establecimiento donde trabajan (público y privado). Además, se buscó una distribución por edades y género que refleje la composición de la fuerza laboral de la ocupación.  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " El reclutamiento de participantes se realizó mediante la estrategia “bola de nieve” a partir de contactos del equipo de investigación y por medio de difusión en redes sociales. Para las entrevistas se utilizó una guía semiestructurada que, dado el contexto de las restricciones de la pandemia, se realizaron bajo formato virtual entre abril a julio de 2021, es decir en durante la segunda ola de contagios por coronavirus en la Argentina. Las entrevistas tuvieron una duración promedio de 60 minutos, fueron grabadas y desgrabadas previo consentimiento de la persona entrevistada. A continuación, brindaremos algunas características del perfil de las y los entrevistados que componen la muestra construida: las edades de las personas entrevistadas oscilan entre los 25 y los 64 años, y tienen un promedio de edad mayor a 42 años, predominan las mujeres (87% del total) en consonancia con el alto nivel de feminización de la ocupación. El 15 % de las entrevistadas tienen más de un trabajo que puede ser tanto en otra unidad hospitalaria (ya sea en la asistencia, en testeos o centros de vacunación), de forma particular, o impartiendo clases en el nivel terciario o universitario. Cuentan con una antigüedad en el ejercicio de la profesión entre 1 año a 44 años, es decir representa un promedio de 22 años de antigüedad. En relación con la inserción laboral, las personas entrevistadas trabajaron durante la pandemia en ámbitos de gestión pública tales como hospitales provinciales, sindicales, municipales, modulares de emergencia para contener la pandemia de covid-19, geriátricos, centros de testeo, postas de vacunación, y unidades febriles. También hemos entrevistado a enfermeras que trabajan en establecimientos de gestión privada tales como clínicas, sanatorios y empresas de cuidados domiciliarios. "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " La encuesta sobre condiciones laborales en enfermería se realizó durante los meses de mayo y junio de 2021. Se trata de una encuesta autoadministrada, de carácter nacional, anónima y confidencial. Se obtuvo una muestra no probabilística de 1483 casos, de enfermeros y enfermeras de todas las provincias del país. La base de datos contiene información sobre multiplicidad de indicadores, sobre los que se indagó a partir de 104 preguntas que se distribuyeron en núcleos temáticos: datos sociodemográficos, características de la inserción laboral, procesos, tiempos y organización del trabajo, condiciones de higiene y seguridad y medio ambiente laboral, aspectos psicosociales y emocionales vinculados al trabajo durante la pandemia. Los datos obtenidos mediante la encuesta fueron sistematizados y analizados utilizando el Software estadístico SPSS. Para este artículo se utilizarán las respuestas de la encuesta vinculadas al AMBA. Región que encierra grandes diferenciales en cobertura, complejidad y calidad de la oferta de servicios de salud. La Ciudad Autónoma de Buenos Aires se diferencia particularmente del conurbano, ya que concentra la mayor parte de la estructura de servicios y de recursos humanos en salud del AMBA.  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Los formularios de la encuesta y la entrevista fueron aprobados por el Comité de Ética del Hospital Nacional Posadas y se llevaron a cabo de acuerdo a las normativas y estándares éticos vigentes. "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " A partir del cruce de los datos cuantitativos y cualitativos y el relevamiento de prensa nacional entre marzo 2020 a julio 2021 se analizarán las representaciones del sector en lo que fue vivido como cambios en las rutinas laborales a partir de la pandemia de la covid-19. En función de este objetivo analizaremos cuales son las expectativas que habitualmente se esperan del sector para contrastarlas con las actividades que se incrementaron y se modificaron a partir de la pandemia. Se hará foco en dos cuestiones emergentes; las dudas, especialmente en el inicio de la pandemia, en torno a las medidas de bioseguridad y las incertidumbres en torno a los tratamientos a seguir. Luego revisaremos las estrategias implementadas, individuales y colectivas, para enfrentar momentos difíciles durante las internaciones tal como el acompañamiento de la muerte. En este escenario cambiante, en función de los momentos de la pandemia, se generaron situaciones conflictivas y de ayuda mutua en el interior de los servicios que promovieron instancias de resolución colectivas e individuales."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n",
+     [
+      "span",
+      {},
+      "Características de la formación\nen el trabajo de la Enfermería"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " En la Argentina la oferta formativa de enfermería se distribuye en tres tipos de titulaciones: los y las enfermeras/os que tienen como titulación la Licenciatura (16%), un programa de formación universitaria de gestión pública o privada de cinco años; las Tecnicaturas (52%), una formación de pregrado universitario (enfermera universitaria) o carrera corta en tecnicaturas en Enfermería (Técnicos/as en Enfermería) ambas de tres años de duración y las y los Auxiliares quienes tienen una formación de un año y pueden cursar sin tener estudios secundarios completos. La oferta formativa del auxiliarato se ha reducido notablemente, pero las personas con dicha titulación continúan en ejercicio (32%) (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286003/html/index.html#redalyc_313286003_ref31"
+      },
+      "Ministerio de Salud, 2020"
+     ],
+     "). Durante la pandemia, se han dado dos situaciones: algunas dejaron de trabajar por edad avanzada o por mayor riesgo de contagio, y otras fueron contratadas, a pesar de que, en muchas jurisdicciones, como el caso de la Ciudad Autónoma de Buenos Aires, su ejercicio no está reglamentado para las nuevas contrataciones y que el Ministerio de Salud dejó de otorgar matrículas a las auxiliares desde el año 2015. "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " A partir del 2013 la enfermería fue incorporada dentro del régimen del artículo N° 43 de la Ley de Educación Superior 24.521 (1995) esto implicó que se definiera como una profesión “estratégica” y de interés público. Desde entonces se impulsó la creación de las Licenciaturas en Enfermería, se apoyó a las facultades que contaban con dicha carrera y se impulsó el Programa Nacional de Formación de Técnicos en Enfermería (PRONAFE). Estas políticas de educación colaboraron para que en la Argentina pasara de un total 179.000 enfermeros/as en 2013 a 234.527 en 2019. Es decir, un crecimiento del 30 %. En 2019 el grupo de Licenciadas y Técnicos/as constituían el 68 % del total del sector. A partir de este escenario, en cuanto al estado de los recursos humanos en enfermería, la Argentina enfrentó la primera pandemia del siglo XXI (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286003/html/index.html#redalyc_313286003_ref31"
+      },
+      "Ministerio de Salud, 2020"
+     ],
+     ").  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " La enfermería está basada en un conjunto de técnicas y saberes que tienen como objetivo la cura, la rehabilitación, la promoción de la salud y porta, en el acompañamiento afectivo y en el cuidado, un eje central tanto para la vida como para el tránsito hacia la muerte. Pese al aumento de tareas administrativas y a los tratamientos de alta tecnología, el trabajo corporal, relacional y de interacción con la comunidad sigue siendo un eje destacado del personal que lleva adelante estas tareas, al mismo tiempo constituye una demanda de los pacientes y familiares. Entonces cuidar denota un fenómeno multidimensional, dinámico y complejo, con componentes científico-tecnológicos orientados hacia la dimensión biológica de la persona cuidada y componentes humanísticos orientados hacia la dimensión emocional, intelectual, social, cultural y espiritual de aquella (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286003/html/index.html#redalyc_313286003_ref10"
+      },
+      "Pereyra & Micha, 2016"
+     ],
+     "; Ferrero, 2020). "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Las incumbencias del sector de enfermería para la región AMBA se desarrollan dentro del marco de las leyes vigentes que avalan la profesión y que fueron sancionadas hace treinta años atrás. Estas son la Ley Nacional del Ejercicio de la Enfermería N° 24.004 (sancionada en 1991 y reglamentada en 1993); la Ley N°12.245 (1999) que comprende a Provincia de Buenos Aires, la Ley N° 298 (1999) de GCBA y, la Resolución Ministerial N°194 (1995). Este marco normativo reconoció a la profesión como autónoma y definió las incumbencias profesionales. A partir de las normativas de cada titulación y de las negociaciones concretas que se dan en los lugares de trabajo quedan estipuladas sus responsabilidades. Así pues, desde el ámbito de la gestión de los servicios de Enfermería se suelen dividir las tareas según las tareas necesarias y la cantidad de horas de atención directa que un individuo requiere en un día, por parte del personal de enfermería y, el grado de dependencia, autonomía o complejidad que tiene el individuo. Las intervenciones de enfermería están compuestas por una multiplicidad de tareas que llevan cierta cantidad de horas. Se clasifican como cuidados mínimos, moderados, intermedios, intensivos y especiales. Los tipos de cuidados llevan un tiempo estimado que van desde dos horas y media a diez horas por día por paciente según su complejidad. Al margen de estas planificaciones de la tarea que implican cuidar, asistir y prevenir, existen acuerdos que no están libres de reformulaciones constantes y en situaciones de crisis sanitarias son puestos en tensión. Según los datos de la encuesta en el AMBA, ante la pregunta si desde el inicio de la pandemia, se incrementaron actividades que antes no realizaba la respuesta fue contundente. Un 83 % contestó de manera afirmativa. "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " El aumento inesperado de la carga de trabajo en un contexto de miedo, incertidumbre e impotencia también fue un resultado de la investigación coordinada por Marta ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286003/html/index.html#redalyc_313286003_ref7"
+      },
+      "Novick (2020)"
+     ],
+     ",",
+     [
+      "span",
+      {},
+      " Impacto del COVID-19 en la salud del personal no médico de salud en el AMBA"
+     ],
+     ". Es decir, si bien la sobrecarga de tareas y la cantidad de tiempo que demanda la atención de un paciente ya era un tema de discusión al interior del sector antes de la pandemia, a partir de la covid-19 dicha situación se potenció y, a continuación, revisaremos este aspecto (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286003/html/index.html#redalyc_313286003_ref10"
+      },
+      "Pereyra & Micha, 2016"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286003/html/index.html#redalyc_313286003_ref1"
+      },
+      "Aspiazu, 2017"
+     ],
+     ")."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n",
+     [
+      "span",
+      {},
+      "«Era una cápsula viviente»"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Con estas palabras se refiere una de las enfermeras entrevistadas a describir su uniforme en tiempos de pandemia y condensa la sensación de autoprotección ante la aparición del primer caso de contagio de coronavirus. En la ciudad de Buenos Aires se confirmó el primer contagio el 3 de marzo de 2020 y el gobierno limitó el movimiento de personas a partir de diferentes campañas de concientización. Por ejemplo, el slogan #",
+     [
+      "span",
+      {},
+      "QuedateEnCasa"
+     ],
+     " fue difundido por redes sociales y medios de comunicación. Solamente los trabajadores “esenciales” podían movilizarse con autorización ya que desempeñan actividades laborales imprescindibles para enfrentar los efectos de la pandemia. El personal sanitario, de seguridad y de atención de comedores populares entró en dicha “esencialidad”. "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Dentro de un cierto consenso de las tareas que debe realizar el sector de enfermería, una vez que se difundieron las noticias internacionales y locales sobre los efectos del coronavirus sobre el sistema sanitario y se dieron las medidas de restricción en los ámbitos laborales, se generaron diferentes situaciones de conflictos dentro de las instituciones sanitarias, pero las tradicionales formas de protestas tales como marchas o manifestaciones estuvieron restringidas debido a las restricciones en la circulación. "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Desde la confirmación del primer caso, en el mes de marzo de 2020, y las restricciones impuestas; las unidades sanitarias del AMBA tuvieron una menor cantidad de pacientes ya que fueron suspendidas todas las cirugías programadas y sólo se atendieron las urgencias. Esta reducción en la circulación y en la atención de personas, con el fin de adecuar el sistema sanitario a las demandas que se vendrían y actualizar los conocimientos para conocer cómo actuar en cada situación, no devino en una situación de mayor tranquilidad para el personal de salud. Fueron días vertiginosos y de gran incertidumbre para los trabajadores de los equipos de salud dado que era una enfermedad nueva, en un escenario poco previsible, con el desconocimiento sobre cómo evolucionaría la pandemia en nuestro país y con las dudas sobre como el sistema sanitario del conurbano bonaerense podría enfrentar tal situación (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286003/html/index.html#redalyc_313286003_ref3"
+      },
+      "Freidin y otros, 2021"
+     ],
+     ", p. 147). "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Entre el personal surgieron dudas sobre los elementos de protección que se deberían usar, la escasez de los mismos en el mercado y ciertas reticencias, especialmente en los centros de dependencia privada, a proveer los insumos. Como demuestra el estudio liderado por Zulma Ortiz realizado durante la primera semana de abril de 2020 el personal de salud reconoce que su trabajo suele realizarse en condiciones adversas y muchas veces con insumos escasos, pero a partir de la situación de la covid-19 la falta de equipos de protección fue considerada inadmisible (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286003/html/index.html#redalyc_313286003_ref8"
+      },
+      "Ortiz y otros, 2020"
+     ],
+     ").  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Mariana, una enfermera de una clínica privada de rehabilitación en la ciudad de Buenos Aires, refirió a situaciones de conflicto acontecidas a fines del mes de marzo de 2020 ante el primer caso de contagio. Por entonces aún no contaban con elementos de protección personal y los momentos de tensión e incertidumbre incrementaban el miedo."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "p",
+     {},
+     "La clínica no había tomado ninguna medida de cuidados a pesar de tener pacientes complejos, crónicos y traqueotomizados. El virus les entraba directamente al pulmón, y los llevaba al cielo. Empiezo a pelear a la supervisora y le digo “Ustedes están equivocados, nos están mandando a una guerra sin armas. Nos tienen que cuidar, que somos el personal que más personas tiene -que es enfermería-. Nosotros necesitamos, por lo menos, un barbijo [...]. Porque estábamos todos cargadísimos de trabajo, yo iba a trabajar con miedo de contagiarme, traerlo a casa y matar a toda mi familia. Porque una cosa es que te pase a vos, pero en mi cabeza pensaba que si traía el virus mataba a toda mi familia. No quería llegar a mi casa. Iba a la clínica y cumplía todas mis funciones, pero no tenía ni siquiera un barbijo como para sentirme resguardada o cuidada por la institución [...]. Barbijos estaba pidiendo, todavía ni siquiera el equipo de protección."
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Frente a esta sensación de inseguridad y de falta de comunicación institucional se recurrió a consultar a una abogada. Se presentó un amparo judicial para reclamar a las autoridades de la clínica el equipo de protección y que la Aseguradora de Riesgo de Trabajo reconociera a la covid como enfermedad laboral. El reclamo judicial permitió, según las palabras de la enfermera, que «aparecieran los equipos de protección de repente, pero no eran los adecuados para trabajar en una pandemia, no son camisolines hemorrepelentes, son camisolines de tela».  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "La falta o escasez de Elementos de Protección Personal (EPP) motivó que, en varios centros de salud, de dependencia pública o privada, las enfermeras se organizaron para comprar a precio más conveniente los elementos que brindan mayor seguridad (Camisolines hemorrepelentes y máscaras tipo cápsula). Una enfermera de un hospital público de la Ciudad Autónoma de Buenos Aires, en una nota periodística publicada en el diario ",
+     [
+      "span",
+      {},
+      "La Nación"
+     ],
+     " en el mes de abril de 2020, señaló: «La indumentaria que nosotros tenemos no es la adecuada y la que nos entregan, tampoco. Por eso pusimos plata de nuestro bolsillo para protegernos». En su caso personal, la inversión fue de más de 5.000 pesos para sentirse segura a la hora de trabajar (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286003/html/index.html#redalyc_313286003_ref32"
+      },
+      "Pallaro, Rodríguez Altube & Arambillet, 23/04/2020"
+     ],
+     ")."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Según los datos de la encuesta en el AMBA, desde que comenzó la pandemia, 29% de las personas contestaron que “Nunca” tuvieron que gastar dinero de sus ingresos para proveerse de equipos de protección personal; 72% contestó “ocasionalmente”, “Frecuentemente” o “Siempre”."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "span",
+     {
+      "id": "t-gf1"
+     },
+     "\n",
+     [
+      "figura",
+      {
+       "alt": "Gastos en equipos de\nprotección durante la pandemia-AMBA"
+      }
+     ],
+     [
+      "br",
+      {}
+     ],
+     "Figura 1",
+     [
+      "br",
+      {}
+     ],
+     "\n",
+     [
+      "span",
+      {},
+      "Gastos en equipos de\nprotección durante la pandemia-AMBA"
+     ],
+     "\n",
+     [
+      "br",
+      {}
+     ],
+     "\n",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Fuente: elaboración propia sobre la base de datos de la Encuesta\nNacional a personal de enfermería de la República Argentina."
+      ]
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Sandra, una licenciada en enfermería que se desempeña en un hospital público de la ciudad de Buenos Aires, relata que tuvieron que «interponer un recurso de amparo al Gobierno de la Ciudad de Buenos Aires para que nos provean de material en cantidad y en la calidad correspondiente». El recurso salió en el mes de abril de 2020 y «somos uno de los pocos hospitales que tenía el material apropiado para la protección». En la medida cautelar difundida por el diario ",
+     [
+      "span",
+      {},
+      "Infobae"
+     ],
+     " se informó que se demandaba barbijos, camisolines, guantes y otros insumos básicos. En la misma sentencia judicial se señaló que «de nada sirve que el Gobierno dicte normas tendientes a incrementar la planta de enfermeros de los hospitales de la ciudad si no se les provee de los equipos adecuados para resguardar su salud e integridad» (",
+     [
+      "span",
+      {}
+     ],
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286003/html/index.html#redalyc_313286003_ref30"
+      },
+      [
+       "span",
+       {},
+       "Infobae"
+      ],
+      ", 16/06/2020"
+     ],
+     "). Las formas colectivas de organización, como las mencionadas anteriormente, o las estrategias individuales para compensar las ausencias de equipamiento fueron habituales. En este sentido, Laura, una técnica en enfermería, quien trabaja en dos lugares de gestión pública, refirió que, dado que en uno de los hospitales ubicado en la zona sur de la Provincia de Buenos Aires le daban los materiales para tres días, se organizaba para contar con el equipamiento que solía escasear más en el hospital de la Ciudad Autónoma de Buenos Aires: «Yo me llevo el mío y tengo uno siempre guardadito por ahí que me puede servir». Javier, un auxiliar de enfermería que trabaja en un geriátrico de dependencia pública de CABA, comentó que frente a la escasez de mascarillas N95, los indicados para trabajar en una pandemia, siente que la responsabilidad recae en él y trata de subsanar el inconveniente poniéndose doble barbijo y manteniendo la distancia. Las personas que están en el mencionado lugar son adultos mayores y presentan dificultades para respetar las normas de higiene y distanciamiento social por lo que el equipamiento adecuado al personal de salud toma una importancia aún más destacada. Asimismo, también se usaron las redes sociales para denunciar la escasez de insumos, la falta de calidad de los mismos y las precarias condiciones de trabajo. Se realizaron videos caseros para explicar a los colegas las formas de protección, aunar criterios y optimizar la utilización de los insumos (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286003/html/index.html#redalyc_313286003_ref26"
+      },
+      "Gioberchio, 05/04/2020"
+     ],
+     "). "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " La falta de comunicación institucional clara, precisa y sin un canal definido por las autoridades fue una constante en las entrevistas realizadas. Esta situación se agravó por la incesante circulación de información cruzada sobre la pandemia, vivida por el personal de salud como un “bombardeo” (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286003/html/index.html#redalyc_313286003_ref8"
+      },
+      "Ortiz y otros, 2020"
+     ],
+     "). La desinformación generó momentos en los que se abonaron argumentos contra la existencia de la covid. En un sanatorio privado de zona sur, al inicio de la pandemia, una de las autoridades decía que el tema de las mascarillas era marketing y que en realidad el virus no existía y que era todo mentira. Frente a los reclamos se rotaba al personal y se insistía en la no importancia en el uso de los barbijos y también se negaba la entrega de cofias. Laura refiere que uno de sus jefes argumentaba: «Fue una lucha muy grande que los enfermeros dejen de usar cofias como para que ahora se estipule como una “moda”». Cabe recordar que en otros tiempos el uso de la cofia en el uniforme de la enfermería era un símbolo del honor, de distinción y de responsabilidad y, desde el punto de vista epidemiológico, también protegía la cabellera de los contagios (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286003/html/index.html#redalyc_313286003_ref2"
+      },
+      "Cammarota, 2020"
+     ],
+     "). En esta apelación, realizada durante la pandemia, sólo se asocia el reclamo del personal a las ideas más tradicionales en torno a que su uso se asociaba a la honorabilidad o la responsabilidad. Es decir, se usaban argumentos de otros momentos de la historia de la enfermería para evitar la entrega del equipamiento indicado para hacer frente a una enfermedad con un alto poder de contagiosidad. "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Durante los dos primeros meses de la pandemia, no contar con los elementos de protección adecuados y la falta de comunicación institucional generó numerosas situaciones de inseguridad y tensión que se sumaron a las que tenían que atravesar por el mismo ritmo de trabajo. Ignacio, licenciado de enfermería quien trabaja en el sistema público y privado de CABA, señala: «Durante los primeros dos meses de la pandemia no hubo una comunicación sobre lo que deberíamos hacer ni qué elementos deberíamos usar con certeza». "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " En la prensa periódica nacional, el tema sobre la falta de insumos tomó protagonismo. Ante el contagio del jefe de Enfermería del Hospital Fernández en CABA, en mayo de 2020, los reclamos tuvieron mayor visibilidad mediática en los periódicos nacionales. Varios trabajadores se manifestaron cuestionando la falta de insumos de protección para atender a pacientes con coronavirus. Uno de los enfermeros quien estuvo presente en el reclamo advirtió: «No hay elementos de protección para el personal, y cualquiera se puede contagiar tocando algo o a alguien». Junto a él, otra enfermera denunció:"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "p",
+     {},
+     "La situación es crítica porque en el área de enfermería estamos cayendo uno a uno de a poco, y en algún momento vamos a tener que ver quién queda para atender a la comunidad. En el hospital, el covid-19 ya está en todos los servicios y tenemos mucha gente internada, faltan elementos de protección y llegamos al punto de lavar los camisolines. La mayoría tuvimos que comprar nuestros propios elementos de protección, porque nunca llegaron los que dijeron que nos iban a entregar (",
+     [
+      "span",
+      {},
+      "I"
+     ],
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286003/html/index.html#redalyc_313286003_ref24"
+      },
+      [
+       "span",
+       {},
+       "nfobae"
+      ],
+      ", 26/05/2020"
+     ],
+     ")."
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Los datos de la encuesta referidos a la disponibilidad de los EPP también indican la falta de insumos de bioseguridad. Ante la pregunta si «En su servicio, ¿cuentan con insumos descartables necesarios para desarrollar su trabajo?» El 50,2 % contestó “siempre”, ante la pregunta si «en su servicio, ¿cuentan con barbijos quirúrgicos?» el 68 % contestó “siempre”, sobre la provisión de guantes; un 74 % respondió “siempre”. Es decir, en estas y en otras de las preguntas que se hicieron en torno a los EPP, no se logró alcanzar el 100 % o un número cercano en torno a la provisión del equipamiento completo. Claro está que en una pandemia con la velocidad de contagio que porta dicha enfermedad y el lugar que ocupa el sector de enfermería en los cuidados sanitarios refuerza la idea que los miedos, en torno a las mayores posibilidades de contagios por no contar con insumos, tenían un asidero concreto."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "span",
+     {
+      "id": "t-gf2"
+     },
+     "\n",
+     [
+      "figura",
+      {
+       "alt": "Disposición de insumos descartables"
+      }
+     ],
+     [
+      "br",
+      {}
+     ],
+     "Figura\n2",
+     [
+      "br",
+      {}
+     ],
+     "\n",
+     [
+      "span",
+      {},
+      "Disposición de insumos descartables"
+     ],
+     "\n",
+     [
+      "br",
+      {}
+     ],
+     "\n",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Fuente: elaboración propia sobre la\nbase de datos de la Encuesta Nacional a personal de enfermería de la República\nArgentina."
+      ]
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " A partir de las variadas situaciones de conflictos en los lugares de trabajo, la presentación de amparos judiciales y el impacto que ocasionó el primer caso de fallecimiento de un enfermero el 8 de junio de 2020 se sancionó la llamada Ley Silvio, en homenaje a Silvio Cufre primer enfermero bonaerense fallecido por haberse contagiado de coronavirus. La Ley N°27.548 “Programa de Protección al Personal de Salud ante la pandemia de coronavirus COVID-19” estableció protocolos de bioseguridad, equipamiento y medidas preventivas, pero se reglamentó tres meses posteriores a su sanción. El Ministerio de Salud de la Nación quedó encargado de establecer un equipo permanente de asesoramiento digital en materia de protección del personal de salud, a los establecimientos que lo requieran ante la emergencia sanitaria y de establecer instrumentos, guías y recomendaciones para los equipos de salud.",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286003/html/index.html#fn1"
+      },
+      [
+       "sup",
+       {},
+       "1"
+      ]
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Asimismo, el Ministerio de Salud de la Nación creó el “Plan Nacional de Cuidado de Trabajadores y Trabajadoras de la Salud”, cuya resolución (N° 987) salió publicada el 8 de junio de 2020 en el Boletín Oficial. «La finalidad principal es reducir el número total y la proporción de trabajadores de la salud infectados por COVID-19, en base a una estrategia común en todas las jurisdicciones». El plan contó con una encuesta anónima y confidencial que buscó conocer el riesgo de contraer el virus durante el proceso laboral y aplicar las estrategias que fueran necesarias para reducirlo, como, por ejemplo, organizar el ingreso y el egreso del personal de salud por una puerta única y distinta del circuito de atención de paciente; evaluar triage de síntomas a todo personal de salud al ingreso a la institución; entre otras cosas. Entre sus recomendaciones, el plan sugiere a las instituciones armar equipos fijos de trabajo para minimizar los contactos. No obstante, el pluriempleo entre los trabajadores de la salud dificultó la puesta en práctica de dicha recomendación (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286003/html/index.html#redalyc_313286003_ref33"
+      },
+      "Ministerio de Salud, 08/06/2020"
+     ],
+     ")."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n",
+     [
+      "span",
+      {},
+      "Tratamientos inciertos"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Durante el año 2020 para evitar el contagio de este virus respiratorio las medidas que se podían adoptar fueron de índole preventiva; el uso de tapabocas o barbijo, la distancia social de 1,5 o 2 metros, la ventilación de los espacios cerrados y la higienización permanente de manos. Todas estas medidas sirvieron para la prevención de contagios, mientras avanzaban las investigaciones para obtener una vacuna eficaz, que para el caso de la Argentina llegó a fines de diciembre de 2020 en el marco de una intensa polémica en torno a las dudas de su efectividad. "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " En las entrevistas realizadas emergió la desazón por notar que las tareas que podían ser efectivas para el tratamiento de pacientes críticos no daban los resultados esperados ante pacientes con coronavirus. Momentos que nunca habían sido transitados en las trayectorias laborales. Daniela, licenciada en enfermería en un Hospital modular en la zona sur de la provincia de Buenos Aires, refiere:"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "p",
+     {},
+     " Un día el paciente puede desayunar con la máscara y no se desatura tanto, y decís “bien, va avanzando”. Al día siguiente, se desatura más y decís pero ¿por qué?, si se supone que está mejor, qué estamos haciendo todo lo posible para que esté mejor, ¿por qué no se ve un avance? O “un avance un día, al día siguiente vuelve para atrás, y al día siguiente otro avance. Entonces, no se sabe qué va a pasar. Está muy complicado, yo solo vi dos pacientes que intubaron y extubaron y que se fueron de alta; el resto, la verdad, es que está muy complicado, vuelven a intubarlos y ahí ya lamentablemente no salen”. "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Jacinta una licenciada en enfermería quien trabaja en un hospital público de la ciudad de Buenos Aires recuerda: “Antes el paciente en una terapia normal se recuperaba, se iba de alta y se retiraba de la terapia saludándote, después de haber estado 15 días con un tubo en la boca. Y ahora no”."
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Según las investigaciones llevadas adelante por la ",
+     [
+      "span",
+      {},
+      "Fundación Infant "
+     ],
+     "dirigida por el médico Fernando Polack el uso de plasma sanguíneo de pacientes ya recuperados generó ciertas expectativas sobre la posibilidad de encontrar un tratamiento efectivo si se administraba en las primeras etapas de la enfermedad (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286003/html/index.html#redalyc_313286003_ref23"
+      },
+      "Ansede, 16/01/2021"
+     ],
+     "). El tratamiento con plasma ya contaba con resultados exitosos en el MERS-CoV, ébola y en la epidemia de gripe H1N1. En el marco de la emergencia sanitaria por coronavirus en el país, la Resolución 783 del Ministerio de Salud de la Nación del 17 de abril estableció la creación de un “Plan Estratégico para regular el uso de plasma de pacientes recuperados de COVID-19 con fines terapéuticos” (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286003/html/index.html#redalyc_313286003_ref25"
+      },
+      [
+       "span",
+       {},
+       "Infobae"
+      ],
+      ", 14/07/2020"
+     ],
+     "). Una de las historias con final poco feliz fue la de una enfermera del Hospital Sanguinetti de Pilar, quien se contagió en agosto de 2020, recibió plasma, pero rápidamente evolucionó en una forma catastrófica con una respuesta inflamatoria sistémica (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286003/html/index.html#redalyc_313286003_ref27"
+      },
+      "Hernández Otaño, 13/08/2020"
+     ],
+     "). "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Los vínculos afectivos y la búsqueda de empatía a partir del contacto frecuente con el paciente es algo distintivo de la profesión. La velocidad del contagio de la covid-19 implicó la reducción de los momentos de contacto con los pacientes y sus familiares. Las modificaciones en los protocolos cambiaron los momentos de encuentro, conexión y vínculos entre las enfermeras y los pacientes. Diana, enfermera quien trabaja en un hospital modular de la zona sur de la Provincia de Buenos Aires, cuenta diferentes experiencias en las que pensaba con sus colegas estrategias para que esos momentos de soledad no fueran tan difíciles para los pacientes. Para aquellos que podían comenzar a beber y alimentarse por sus propios medios les escribían leyendas de estímulo en los vasos de telgopor para, según sus palabras, «seguir buscando formas de cuidados humanizado aun en pandemia». Gimena, una licenciada en enfermería de un hospital de gestión privada en CABA, hacía «muchas videollamadas» para «buscar otra forma de vincularse que permita la adecuación a los protocolos del hospital, pero que los pacientes no se sientan tan solos». Las consecuencias de la soledad en la internación se agudizan más en los pacientes que empiezan a sentirse confundidos, no saben dónde están, por qué no ven a la familia, se quejan de que se sienten muy solos. La sensación es de soledad y abandono. "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Las situaciones de pobreza y marginalidad quedan aún más reflejadas en una pandemia. Es sabido que dentro de los hospitales públicos se conocen historias de pacientes que, si bien están curados, se quedan un tiempo más por no disponer ni de los medios económicos ni de las redes familiares para continuar la rehabilitación en un lugar con mínimas condiciones de bienestar. Los servicios sociales y las redes solidarias suelen activarse en algunos casos para resolver estas situaciones. En una pandemia que una persona ya curada siga en el hospital incrementa el riesgo de exposición al virus y a otras bacterias intrahospitalarias. Daniela recuerda la historia de un paciente que estuvo entubado, que pasó a sala intermedia, pero no tenía donde volver."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "p",
+     {},
+     " Entonces estaban todos buscándole un lugar para que pueda salir de la sala y no continuar con la exposición al virus. Lo llamamos el Náufrago (en referencia a la imagen del protagonista del film) porque tenía la barba larga. Cuando le conseguimos un lugar para ir, mis compañeras lo afeitaron. Al día siguiente no lo reconocí en la cama y le dije en broma: “¿Qué hace en la cama de mi amigo Dani?”."
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Otro aspecto emergente de las entrevistas fue de índole ética en torno a quién darle prioridad en la atención. Irma, licenciada en enfermería con 44 años de antigüedad en la profesión y con trabajos en el ámbito privado y público, afirma que entre los momentos más tensos que le tocó vivir fueron «Decidir a quién atender» y «el estrés de no tener cama». Dada su experiencia pensaba que lo que se veía en otras latitudes en torno a las decisiones sobre a quién atender primero «no la íbamos a hacer nosotros, que en nuestro sanatorio no nos iba a pasar; pero lo tuvimos que hacer. El domingo pasado tuvimos que elegir a quién atendíamos porque no teníamos más lugar». "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Gimena, licenciada en enfermería en un hospital privado de CABA, señala:"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "p",
+     {},
+     "Es muy rápido todo. Es como que también te lleva a seguimos, seguimos, seguimos un paciente detrás del otro. Se libera una cama, se limpia y viene el próximo paciente. Yo ayer, de hecho, me fui y no había ninguna cama disponible. Lo que se está haciendo es quien tiene más posibilidades de sobrevivir, es a quien se le da la cama."
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Según Daniela, licenciada en enfermería en un hospital modular de zona sur del conurbano, la decisión era tomada por uno de los médicos en función de proteger al personal de salud."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "p",
+     {},
+     "Él, por ejemplo, es partidario de que cuando hacen un paro cardíaco los pacientes no pueden reanimarlos si tienen covid activo y cuando su cuadro es muy crítico. La verdad que es muy duro cuando te dicen “no, los médicos ya dijeron que no, que ya no lo reanimen porque ya está muy mal y si sigue vivo no va a volver a la calidad de vida que tenían antes. Él nos contaba que cuando se le hace un RCP a esos pacientes largan todo de adentro. Vos estás haciendo la técnica de reanimación y todos los virus, los bichos que tienen los larga, y vos estás arriba. Entonces él es partidario de cuidar al equipo de salud y dice: “No chicos, él no”."
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "En algunos centros de salud, esas normas están escritas. En otros no, pero suelen tomar como marco general las recomendaciones realizadas por el Comité de Ética y Derechos Humanos en Pandemia COVID-19. Se trata de un organismo autónomo, creado por la resolución 1092 del Ministerio de Salud de la Nación, del 23 de junio de 2020. Las recomendaciones están basadas en certezas científicas, pero también aborda cuestiones morales y éticas. Describe criterios, por ejemplo, de “respeto igualitario” y de “no discriminación” para los pacientes en igual oportunidad de sobrevida. Es decir que no se debería decidir si a un paciente se le asigna o no un respirador por su “raza”, credo, condición sexual o social, entre otras (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286003/html/index.html#redalyc_313286003_ref28"
+      },
+      "Klipphan, 24/04/2021"
+     ],
+     ")."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n",
+     [
+      "span",
+      {},
+      "La enfermedad de la soledad"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Fueron diferentes las voces que se refirieron de este modo a esta enfermedad. Ante la falta de tratamiento y la velocidad del contagio las recomendaciones ante la infección recomendaban un estricto aislamiento. Esto condujo a los centros de salud a modificar los contactos con personas contagiadas. Si bien para el personal de enfermería esto es imposible, se tomaron recaudos, se reacomodaron las rutinas para el ingreso de la habitación y se crearon nuevas estrategias vinculares como las que desarrollamos en el apartado anterior.  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Si bien el acompañamiento en la muerte es una de las tareas que debe afrontar el personal de salud y suelen estar entrenados para ello, la covid generó situaciones nunca vividas previamente. Quienes habían estado en servicio en otras epidemias tal como el cólera, VIH, H1N1, Dengue, nunca vivieron una experiencia similar. «Muchos estuvimos en el N1H1, pero esto no se compara», las referencias a las enormes diferencias son constantes en las entrevistas. Por un lado, por los cambios en los protocolos de visita de familiares, por otro lado, por tener que intervenir en la tarea de embolsar los cuerpos; difícil proceso acentuado por la cantidad de personas que fallecieron en los momentos de los picos de la pandemia. "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Liliana, una enfermera técnica quien trabaja en un Centro de Testeo en CABA, refirió a tres escenas que la marcaron durante la pandemia: el fallecimiento de un hombre en su lugar de trabajo, la crisis convulsiva de un niño y una llamada al Centro de Testeo:"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "p",
+     {},
+     "De hecho yo te puedo contar que una persona se murió por covid mientras que yo le sostenía la mano. Si bien lloré, y me pasó de todo, me reconforta pensar que, más allá que se murió solo, no en su casa, sino que se fue a hacer un análisis, lo tuvimos que bajar del auto y se murió apretándole la mano, por lo menos me reconforta que no se murió solo dentro de su auto. Por lo menos dos minutos después ahí estaba yo bajando del auto, dándole la mano, y había otras personas alrededor de él. Más allá de la desesperación de que se estaba muriendo porque se estaba asfixiando y le faltaba el aire. Pero ya no había más nada por hacer."
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Jacinta, una licenciada en enfermería, quien trabaja en una unidad de terapia intensiva covid de un sanatorio privado en CABA, señala: «Por suerte están todos con tubo». Es una jerga utilizada entre el personal de salud para indicar que, al tener el tubo de oxigenación, los pacientes no pueden hablar y referir sus sentimientos. Las muertes se despersonalizan, se trata de un fenómeno anónimo. Al referir esta expresión, habitual en los centros de salud, señala: «Es terrible lo que estoy diciendo, pero es una forma también de no involucrarte, porque cuando te involucras te duele». En línea con esta mirada, Daniela, licenciada en enfermería de un hospital modular de zona sur, refiere que en terapia intermedia «es más duro» ya que «ahí están lúcidos». Recuerda con tristeza: «Uno de los pacientes tenía un dibujito de la hija pegado, las cartas que le mandaban y lo tenían que saludar a través de un vidrio. Es super duro». "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " A partir de la covid también se modificaron las tareas que realizan las enfermeras cuando las personas fallecían. Dado que se trataba de limitar la circulación de personas, cuando un paciente fallecía, era el personal de enfermería quienes “embolsan” a los cuerpos. Gimena, licenciada en enfermería de un hospital privado en la ciudad de Buenos Aires, cuenta que"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "p",
+     {},
+     "Los metemos en las bolsas. Que también es una situación horrible, meter a una persona dentro de una bolsa. Pero bueno, uno se termina acostumbrando a esa situación, pero en el hospital público vos cerrabas la bolsa y ya está. En el hospital privado, ahora, uno tiene que ir a la morgue, meter al paciente en la heladera; entrar a la morgue y ver pilas de gente. Y es también una situación de “¿qué hago yo acá dentro?”."
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " En este relato el intento de reflexionar sobre la “naturalidad de la muerte” es sobrepasado por la práctica cotidiana y ante situaciones nunca vistas, en tanto la cantidad de fallecimientos en tan corto plazo, inesperadas, y que, además, se presumen contaminantes. Escenarios que impactan de manera negativa en los procesos subjetivos y sociales de comprensión, de aceptación y de adaptación a la situación de muerte de las personas por morir, sus allegados/as y en el personal de salud. "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " La muerte imprevisible, que no remite a situaciones similares en otros contextos y sin demasiadas alarmas previas, conduce a Diana a referir que durante la segunda ola «se ven personas que empeoran muy rápido. Ves morir gente y es muy fuerte porque en otra circunstancia no sería así». La emoción brota en muchas de las entrevistas realizadas ante reflexiones vinculadas al final de la vida. Diana señala:"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "p",
+     {},
+     "Voy a tratar de no emocionarme. Me impactó un paciente que estaba bastante bien internado en terapia intermedia. Un día lo vino a visitar la familia, yo hablaba y hacía chistes. “Deciles que soy la mejor enfermera”. Ese paciente empeoró, pasó a terapia intensiva y falleció. Yo, por suerte, no estaba el día que falleció, pero me shockeó porque no lo podía creer."
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " En esta misma línea, Mario ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286003/html/index.html#redalyc_313286003_ref9"
+      },
+      "Pecheny (2020)"
+     ],
+     " sostiene: «Las restricciones al acompañamiento y la comunicación en estadios finales, la soledad, los cuidados paliativos, el propio proceso de morir, así como las prácticas de duelo, son aspectos que la pandemia planteó en su urgencia y tragedia» (p. 211). El estrés post traumático ante estas muertes inesperadas impulsó a algunos centros de salud a organizar grupos de contención psicológica en los lugares de trabajo. En la provincia de Buenos Aires existía un programa denominado ",
+     [
+      "span",
+      {},
+      "Cuidar a los que Cuidan"
+     ],
+     " que tenía como objetivo acompañar y contener a los equipos de salud en su trabajo cotidiano. Según el sitio oficial del Ministerio de Salud de la Provincia de Buenos Aires, se trata de un equipo multidisciplinario que recorre hospitales para «poner en palabras el impacto emocional que atraviesa a los y las trabajadoras» (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286003/html/index.html#redalyc_313286003_ref29"
+      },
+      "“La provincia creó un programa para cuidar la salud mental del personal sanitario”, s/f"
+     ],
+     ").  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " No obstante, de existir algunas instancias institucionales de contención psicológica lo que primaron fueron las estrategias individuales y entre colegas para intentar resolver los estados anímicos. Gimena, licenciada en enfermería de 28 años quien trabaja en un hospital privado de CABA, refiere a la falta de espacios de contención psicológica en su lugar de trabajo y la emergencia tanto en ella como en sus colegas de síntomas de estrés y cansancio:"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "p",
+     {},
+     "Nadie viene a darte una contención en el laburo. “Che, ¿necesitas ver un psicólogo o un psiquiatra?” La mayoría de mis compañeras están con medicación para dormir. Yo no quiero llegar a eso todavía, pero no duermo. (...) hago terapia. Hace un tiempo que me está costando bastante dormir; duermo poco, estoy como hiperactiva todo el tiempo. (…) Lloro un montón, trato de desahogarme, de hablar con mis amigas, con mi familia, con mi novio. (…) bajé un montón de peso."
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Diana refiere que intenta «manejar con el humor situaciones complejas y realizar actividad deportiva como para tener un cable a tierra». Ornella, licenciada en enfermería del sistema público y privado de la ciudad de Buenos Aires realiza «Budismo, terapias alternativas, reiki, armonizaciones, lectura de metafísica, cuidado de plantas». Fernanda, licenciada de enfermería en un hospital público de la zona sur, muy enfáticamente, señala:"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "p",
+     {},
+     "Desde que empezó la pandemia, nunca hemos tenido reuniones para organizarnos con respecto al trabajo, para exponer nuestro sentir o nuestras ideas. Nunca, ni de parte de enfermería, ni de parte de los médicos, ni del director, que es lo más alto en la jerarquía."
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Joaquina, licenciada en enfermería en hospital público zona sur, refiere a la carencia de espacios institucionales: «Busqué ayuda psicológica por mi cuenta, porque una cosa es lo que figura que la institución te puede llegar a brindar y otra es lo que realmente te brinda». La falta de lugares de contención emocional y de resolución de conflictos también fue una de las conclusiones de la investigación de ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286003/html/index.html#redalyc_313286003_ref8"
+      },
+      "Ortiz (2020)"
+     ],
+     ". Allí se sostiene que «en relación a la cohesión y gestión de conflictos, aunque más de la mitad de las/os encuestadas/os refirieron funcionar como una unidad y tener confianza para manifestar preocupaciones frente a colegas y/o superiores, la mayor debilidad apareció ligada a la falta de espacios institucionales de escucha y contención del equipo de salud». "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "  La falta de espacios para la contención emocional se refuerza con los datos de la encuesta. En el AMBA ante la pregunta «Desde el inicio de la pandemia, ¿se han habilitado espacios institucionales de contención en su lugar de trabajo?», 64 % de las personas contestaron “nunca”; 23 %, ocasionalmente. Esta carencia de espacios de reflexión y puesta en común de situaciones emocionales nunca vividas anteriormente intentó ser resuelta, en los mejor de los casos por la contención entre colegas, familiares y amistades, pero en otros casos repercuten en situaciones de estrés y enfermedades."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "span",
+     {
+      "id": "t-gf3"
+     },
+     "\n",
+     [
+      "figura",
+      {
+       "alt": "Espacios institucionales\nde contención-AMBA"
+      }
+     ],
+     [
+      "br",
+      {}
+     ],
+     "Figura 3",
+     [
+      "br",
+      {}
+     ],
+     "\n",
+     [
+      "span",
+      {},
+      "Espacios institucionales\nde contención-AMBA"
+     ],
+     "\n",
+     [
+      "br",
+      {}
+     ],
+     "\n",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Fuente: elaboración propia sobre la base de datos de la\nEncuesta Nacional a personal de enfermería de la República Argentina"
+      ]
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "En la encuesta, ante la pregunta «¿desarrolló alguna de las siguientes estrategias personales para sobrellevar la pandemia?», les ofrecimos varias posibilidades de respuestas y la opción que tuvo 50 % de respuesta favorable fue “Hablar con mis colegas acerca de lo que siento”. La segunda opción más escogida, con 18 %, fue “planifico cómo resolver el problema”. Es decir, las formas de resolución entre pares, vistos como quienes suelen comprender mejor las situaciones que se viven dentro del sistema de salud, fue la opción más respondida y se vincula con la sensación de falta de empatía de otras personas sobre la experiencia atravesada. Suele pasar en grupos que están marginalizados o excluidos que sientan que solo ellos puedan comprender determinadas situaciones; esto conduce a potenciar su aislamiento social y limitar las posibilidades que dichas realidades se conozcan. Precisamente, Axel ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286003/html/index.html#redalyc_313286003_ref4"
+      },
+      "Honneth (1997)"
+     ],
+     " afirma que las experiencias morales de menosprecio social compartidas por grupos desposeídos de derechos por diversos motivos, son las que llevan a generar lazos de solidaridad entre semejantes, y, en ciertas ocasiones, luchar por su pleno reconocimiento social como colectivo. Además, el haber compartido más horas de trabajo en situaciones nunca vividas anteriormente potenció, en algunos casos, lógicas de trabajos más solidarias y prácticas espontáneas de cooperación."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n",
+     [
+      "span",
+      {},
+      "Reflexión final"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " La pandemia de la covid-19 evidenció, como nunca antes, la perdurabilidad de problemas de larga data dentro del sector de enfermería y las dificultades para poder resolverlos. La actividad profesional está regulada por normativas sancionadas hace más de treinta años en las que se estipulan las atribuciones y funciones según el tipo de titulación. Si bien el incremento de las ofertas educativas del sector con la creación de nuevas universidades en el conurbano produjo un incremento de egresadas del nivel técnico y universitario, este aumento de personal no está a la altura de las crecientes demandas que se generan a partir del desarrollo científico y tecnológico, los tratamientos más sofisticados y las mayores expectativas de vida. "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Antes de la pandemia ya existían estudios que demostraron la falta de recursos humanos y la sobrecarga de actividades. El desgaste físico y emocional derivado de las elevadas exigencias y la extensión de la jornada que en muchos casos impacta en el ausentismo, riesgos psicosociales y/o padecimientos mentales como el estrés o el burnout (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286003/html/index.html#redalyc_313286003_ref1"
+      },
+      "Aspiazu, 2017"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286003/html/index.html#redalyc_313286003_ref6"
+      },
+      "Neffa & Henry, 2017"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286003/html/index.html#redalyc_313286003_ref5"
+      },
+      "Malleville & Beliera, 2020"
+     ],
+     "). Sin lugar a dudas y como demostramos en este artículo desde un abordaje cuantitativo y cualitativo, esta situación quedó aún más visible a partir de la pandemia de coronavirus dado el incremento de tareas y la “esencialidad” de las mismas para el sostenimiento de la vida, la recuperación, la prevención y el acompañamiento en la muerte. Si bien se incorporaron a nuevas personas, por medio de contrataciones provisorias, las características contagiosas de la enfermedad y la incertidumbre biocientífica motivaron momentos de sobrecarga laboral, estrés y dudas frente a la falta de claridad en torno a las medidas de bioseguridad. Si bien existieron algunas políticas estatales que intentaron regular e intervenir ante situaciones tales como el equipamiento sanitario necesario para trabajar en una pandemia o la creación de espacios de contención emocional; el sector vivió estas medidas con ciertas demoras en su aplicación o en su implementación efectiva. La resolución de los conflictos vía estrategias de ayuda mutua entre el sector, la vía judicial y la denuncia en redes sociales fueron los mecanismos que se implementaron para intentar resolver las situaciones vividas."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n",
+     [
+      "span",
+      {},
+      "Agradecimientos"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Este artículo es parte de los resultados del Proyecto PISAC COVID-19 0022 “La enfermería y el cuidado sanitario profesional durante la pandemia y la postpandemia del COVID-19 (Argentina, S. XX y XXI)”, financiado por Agencia Nacional de Promoción de la Investigación, el Desarrollo Tecnológico y la Innovación. Agradezco la ayuda y las sugerencias de Guillermo Di Martinelli, Adriana Valobra, Carolina Ferrante, Joaquín Fernandez Vila y, muy especialmente, a las enfermeras y los enfermeros que hicieron posible nuestro trabajo compartiendo sus experiencias durante momentos tan difíciles de su vida laboral y personal."
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-back"
+    },
+    "\n",
+    [
+     "p",
+     {},
+     "\n",
+     [
+      "span",
+      {},
+      "Referencias"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286003_ref1"
+     },
+     "Aspiazu, E. (2017). Las condiciones laborales de las y los enfermeros en Argentina: entre la profesionalización y la precariedad del cuidado en la salud. ",
+     [
+      "span",
+      {},
+      "Trabajo y Sociedad"
+     ],
+     ", (28), 11-35. Recuperado de ",
+     [
+      "a",
+      {
+       "href": "http://www.scielo.org.ar/scielo.php?script=sci_abstract&pid=S1514-68712017000100002&lng=es&nrm=iso"
+      },
+      "http://www.scielo.org.ar/scielo.php?script=sci_abstract&pid=S1514-68712017000100002&lng=es&nrm=iso"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286003_ref2"
+     },
+     "Cammarota, A. (2020). Maestras y enfermeras: entre el cuidado y la enseñanza. En K. Ramacciotti (Dir.), ",
+     [
+      "span",
+      {},
+      "Historias de la enfermería en Argentina. Pasado y Presente de una profesión"
+     ],
+     ". José C. Paz, Argentina: Editorial de la Universidad Nacional de José C. Paz."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286003_ref3"
+     },
+     "Freidin, B. y otros (2021). Trabajadores de la salud en el primer nivel de atención durante la pandemia COVID-19 en el conurbano de Buenos Aires. ",
+     [
+      "span",
+      {},
+      "Población y Sociedad"
+     ],
+     ", 28(2), 138-167. Recuperado de ",
+     [
+      "a",
+      {
+       "href": "https://cerac.unlpam.edu.ar/index.php/pys/article/view/5788/6934"
+      },
+      "https://cerac.unlpam.edu.ar/index.php/pys/article/view/5788/6934"
+     ],
+     "."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286003_ref4"
+     },
+     "Honneth, A. (1997). ",
+     [
+      "span",
+      {},
+      "La lucha por el reconocimiento. Por una gramática moral de los conflictos sociales"
+     ],
+     ". Barcelona, España: Grijalbo."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286003_ref5"
+     },
+     "Malleville, S. y Beliera, A. (2020). El lugar del reconocimiento en el trabajo de enfermería. Repensando el concepto de precarización laboral. ",
+     [
+      "span",
+      {},
+      "Estudios del Trabajo"
+     ],
+     ". Ciudad Autónoma de Buenos Aires, Argentina: Asociación Argentina de Especialistas en Estudios del Trabajo (ASET)."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286003_ref6"
+     },
+     "Neffa, J. C. y Henry, M. L. (Coords.) (2017). ",
+     [
+      "span",
+      {},
+      "¿Quién cuida a los que cuidan? Los riesgos psicosociales en el trabajo en los establecimientos privados de salud"
+     ],
+     ". Documento de Trabajo, (1). La Plata, Argentina: Facultad de Ciencias Económicas, Universidad Nacional de La Plata."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286003_ref7"
+     },
+     "Novick, M. (Coord.) (2020). ",
+     [
+      "span",
+      {},
+      "Impacto del COVID-19 en la salud del personal no médico de salud en el AMBA"
+     ],
+     ". Informe ATSA y Friedrich Ebert Stiftung. Recuperado de ",
+     [
+      "a",
+      {
+       "href": "https://cutt.ly/HLcGsnv"
+      },
+      "https://cutt.ly/HLcGsnv"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286003_ref8"
+     },
+     "Ortiz, Z. y otros (2020). Preocupaciones y demandas frente a COVID-19. Encuesta al personal de salud. ",
+     [
+      "span",
+      {},
+      "Medicina Buenos Aires"
+     ],
+     ", 80, suplemento III. Recuperado de ",
+     [
+      "a",
+      {
+       "href": "https://www.medicinabuenosaires.com/indices-de-2020/volumen-80-ano-2020-s-3-indice/preocupaciones"
+      },
+      "https://www.medicinabuenosaires.com/indices-de-2020/volumen-80-ano-2020-s-3-indice/preocupaciones"
+     ],
+     "/"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286003_ref9"
+     },
+     "Pecheny, M. (2020). Derecho a la salud y COVID-19 desde la perspectiva latinoamericana de la vulnerabilidad y los derechos humanos. En J. P. Bohoslavsky (Ed.), ",
+     [
+      "span",
+      {},
+      "COVID-19 y Derechos humanos. La pandemia de la desigualdad"
+     ],
+     " (pp. 199-214). Ciudad Autónoma de Buenos Aires, Argentina: Biblos."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286003_ref10"
+     },
+     "Pereyra, F. y Micha, A. (2016). La configuración de las condiciones laborales de la enfermería en el Área Metropolitana de Buenos Aires: un análisis en el cruce del orden de género y la organización del sistema de salud. ",
+     [
+      "span",
+      {},
+      "Rev. De Salud Colectiva, 12"
+     ],
+     "(2), 221-238. ",
+     [
+      "a",
+      {
+       "href": "https://doi.org/10.18294/sc.2016.730"
+      },
+      "https://doi.org/10.18294/sc.2016.730"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n",
+     [
+      "span",
+      {},
+      "Fuentes analizadas"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286003_ref23"
+     },
+     "Ansede, M. (16 de enero de 2021). De\ndiscoteca a epicentro de la lucha contra la pandemia. ",
+     [
+      "span",
+      {},
+      "El País"
+     ],
+     ". Recuperado de ",
+     [
+      "a",
+      {
+       "href": "https://elpais.com/ciencia/2021-01-16/de-discoteca-a-epicentro-de-la-lucha-contra-la-pandemia.html"
+      },
+      "https://elpais.com/ciencia/2021-01-16/de-discoteca-a-epicentro-de-la-lucha-contra-la-pandemia.html"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286003_ref24"
+     },
+     "Coronavirus en Argentina: el jefe de\nenfermería del Hospital Fernández se contagió y está internado en grave estado\n(26 de mayo de 2020).",
+     [
+      "span",
+      {},
+      " Infobae"
+     ],
+     ". Recuperado\nde ",
+     [
+      "a",
+      {
+       "href": "https://www.infobae.com/sociedad/2020/05/27/coronavirus-en-argentina-el-jefe-de-enfermeria-del-hospital-fernandez-se-contagio-y-esta-internado-en-grave-estado/"
+      },
+      "https://www.infobae.com/sociedad/2020/05/27/coronavirus-en-argentina-el-jefe-de-enfermeria-del-hospital-fernandez-se-contagio-y-esta-internado-en-grave-estado/"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286003_ref25"
+     },
+     "El director del hospital de Quilmes\nestá internado con coronavirus y evalúan tratarlo con plasma de convaleciente\n(14 de julio de 2020). ",
+     [
+      "span",
+      {},
+      "Infobae"
+     ],
+     ".\nRecuperado de ",
+     [
+      "a",
+      {
+       "href": "https://www.infobae.com/coronavirus/2020/07/14/el-director-del-hospital-de-quilmes-esta-internado-con-coronavirus-y-evaluan-tratarlo-con-plasma-de-convalenciente/"
+      },
+      "https://www.infobae.com/coronavirus/2020/07/14/el-director-del-hospital-de-quilmes-esta-internado-con-coronavirus-y-evaluan-tratarlo-con-plasma-de-convalenciente/"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286003_ref26"
+     },
+     "Gioberchio, G. (5 de\nabril de 2020). Los enfermeros, el recurso humano imprescindible para la lucha\ncontra el coronavirus. ",
+     [
+      "span",
+      {},
+      "Infobae"
+     ],
+     ".\nRecuperado de ",
+     [
+      "a",
+      {
+       "href": "https://www.infobae.com/salud/2020/04/05/los-enfermeros-el-recurso-humano-imprescindible-para-la-lucha-contra-el-coronavirus/"
+      },
+      "https://www.infobae.com/salud/2020/04/05/los-enfermeros-el-recurso-humano-imprescindible-para-la-lucha-contra-el-coronavirus/"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286003_ref27"
+     },
+     "Hernández Otaño, C. (13 de agosto de 2020). La\nmuerte por coronavirus de la enfermera de 32 años: “Dio su vida intentando\nsalvar a los demás”.",
+     [
+      "span",
+      {},
+      " Infobae"
+     ],
+     ".\nRecuperado de ",
+     [
+      "a",
+      {
+       "href": "https://www.infobae.com/aquellos-que-hemos-perdido/2020/08/13/la-muerte-por-coronavirus-de-la-enfermera-de-32-anos-dio-su-vida-intentando-salvar-a-los-demas/"
+      },
+      "https://www.infobae.com/aquellos-que-hemos-perdido/2020/08/13/la-muerte-por-coronavirus-de-la-enfermera-de-32-anos-dio-su-vida-intentando-salvar-a-los-demas/"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286003_ref28"
+     },
+     "Klipphan, A. (24 de abril de 2021).\nÚltima cama: cómo son los protocolos que deberán seguir los médicos en\nArgentina si colapsa el sistema de salud. ",
+     [
+      "span",
+      {},
+      "Infobae"
+     ],
+     ".\nRecuperado de ",
+     [
+      "a",
+      {
+       "href": "https://www.infobae.com/politica/2021/04/24/ultima-cama-como-son-los-protocolos-que-deberan-seguir-los-medicos-en-argentina-si-colapsa-el-sistema-de-salud/"
+      },
+      "https://www.infobae.com/politica/2021/04/24/ultima-cama-como-son-los-protocolos-que-deberan-seguir-los-medicos-en-argentina-si-colapsa-el-sistema-de-salud/"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286003_ref29"
+     },
+     "La provincia creó un programa para\ncuidar la salud mental del personal sanitario (Sin fecha). Gobierno de la\nProvincia de Buenos Aires, Salud. Recuperado de ",
+     [
+      "a",
+      {
+       "href": "https://www.gba.gob.ar/saludprovincia/noticias/la_provincia_cre%C3%B3_un_programa_para_cuidar_la_salud_mental_del_personal"
+      },
+      "https://www.gba.gob.ar/saludprovincia/noticias/la_provincia_cre%C3%B3_un_programa_para_cuidar_la_salud_mental_del_personal"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286003_ref30"
+     },
+     "La Justicia le ordenó al gobierno\nporteño que garantice elementos de protección para los empleados del Hospital\nRamos Mejía (16 de junio de 2020).",
+     [
+      "span",
+      {},
+      " Infobae"
+     ],
+     ".\nRecuperado de ",
+     [
+      "a",
+      {
+       "href": "https://www.infobae.com/politica/2020/06/16/la-justicia-le-ordeno-al-gobierno-porteno-que-garantice-elementos-de-proteccion-para-los-empleados-del-hospital-ramos-mejia/"
+      },
+      "https://www.infobae.com/politica/2020/06/16/la-justicia-le-ordeno-al-gobierno-porteno-que-garantice-elementos-de-proteccion-para-los-empleados-del-hospital-ramos-mejia/"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286003_ref31"
+     },
+     "Ministerio de Salud de la Argentina\n(2020). Estado de situación de la formación y el ejercicio profesional de\nEnfermería en Argentina. Recuperado de ",
+     [
+      "a",
+      {
+       "href": "https://www.argentina.gob.ar/sites/default/files/estado_de_situacion_de_la_formacion_y_el_ejercicio_profesional_de_enfemeria_ano_2020.pdf"
+      },
+      "https://www.argentina.gob.ar/sites/default/files/estado_de_situacion_de_la_formacion_y_el_ejercicio_profesional_de_enfemeria_ano_2020.pdf"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286003_ref32"
+     },
+     "Pallaro, B., Rodríguez Altube, F. y\nArambillet, D. (23 de abril de 2020). Coronavirus: “Si nos contagiamos, ¿quién\ncuidará a los pacientes?”, el reclamo de los médicos por la falta de insumos.",
+     [
+      "span",
+      {},
+      " La Nación"
+     ],
+     ". Recuperado de ",
+     [
+      "a",
+      {
+       "href": "https://www.lanacion.com.ar/sociedad/coronavirus-miedo-contagiarse-enfermeros-medicos-denuncian-falta-nid2355345/"
+      },
+      "https://www.lanacion.com.ar/sociedad/coronavirus-miedo-contagiarse-enfermeros-medicos-denuncian-falta-nid2355345/"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286003_ref33"
+     },
+     "Plan Nacional de Cuidado de\nTrabajadores y Trabajadoras de la Salud (8 de junio de 2020). Ministerio de\nSalud. Recuperado de ",
+     [
+      "a",
+      {
+       "href": "https://www.argentina.gob.ar/noticias/se-creo-el-plan-nacional-de-cuidado-de-trabajadores-y-trabajadoras-de-la-salud"
+      },
+      "https://www.argentina.gob.ar/noticias/se-creo-el-plan-nacional-de-cuidado-de-trabajadores-y-trabajadoras-de-la-salud"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Notas"
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-fn1"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "1"
+     ],
+     " ",
+     [
+      "a",
+      {
+       "href": "http://servicios.infoleg.gob.ar/infolegInternet/anexos/335000-339999/338400/norma.htm"
+      },
+      "http://servicios.infoleg.gob.ar/infolegInternet/anexos/335000-339999/338400/norma.htm"
+     ],
+     "\n"
+    ],
+    "\n"
+   ],
+   "\n"
+  ],
+  "\n",
+  [
+   "span",
+   {
+    "id": "t-creditos"
+   },
+   "\n",
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-logo-izquierda"
+    },
+    "\n",
+    [
+     "figura",
+     {}
+    ]
+   ],
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-mensaje"
+    },
+    "Modelo de publicación sin fines de lucro para conservar la naturaleza académica y abierta de la comunicación científica",
+    [
+     "br",
+     {}
+    ],
+    "HTML generado a partir de XML-JATS4R"
+   ],
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-logo-derecha"
+    },
+    "\n",
+    [
+     "figura",
+     {}
+    ]
+   ],
+   "\n",
+   "\n"
+  ],
+  "\n\n\n"
+ ]
+};

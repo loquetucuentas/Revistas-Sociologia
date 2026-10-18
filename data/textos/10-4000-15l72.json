@@ -1,0 +1,4214 @@
+{
+ "version": 1,
+ "recogido": "2026-10-18T11:27:32+00:00",
+ "doi": "10.4000/15l72",
+ "titulo": "Challenging Growth Narratives in Organic Agricultural Policy: Case studies from Sikkim(India), Ndiob (Senegal), and Kauswagan (The Philippines)",
+ "revista": "2182-7427",
+ "numero": "v47-2025",
+ "licencia": {
+  "codigo": "by",
+  "nombre": "CC BY 4.0",
+  "nombre_completo": "Creative Commons Atribución 4.0 Internacional",
+  "url": "https://creativecommons.org/licenses/by/4.0/",
+  "url_legal": "https://creativecommons.org/licenses/by/4.0/legalcode.es"
+ },
+ "fuente": {
+  "url": "https://journals.openedition.org/sociologico/14185",
+  "formato": "HTML",
+  "plataforma": "openedition",
+  "pagina": "https://journals.openedition.org/sociologico/14185"
+ },
+ "autores_cita": [
+  {
+   "apellidos": "Schwemmlein",
+   "nombre_pila": "Kaya",
+   "nombre": null
+  }
+ ],
+ "avisos_derechos": [],
+ "idioma_principal": "pt",
+ "indice": [
+  {
+   "id": "t-seccion-1",
+   "nivel": 3,
+   "texto": "Texto integral",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-2",
+   "nivel": 2,
+   "texto": "Introduction",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-3",
+   "nivel": 2,
+   "texto": "Methodology",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-4",
+   "nivel": 3,
+   "texto": "Positionality",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-5",
+   "nivel": 3,
+   "texto": "Research Design",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-6",
+   "nivel": 3,
+   "texto": "Case Study Description",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-7",
+   "nivel": 2,
+   "texto": "Analysis",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-8",
+   "nivel": 3,
+   "texto": "Sikkim, India- Scaling up organic production",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-9",
+   "nivel": 3,
+   "texto": "Ndiob, Senegal- Multi-stakeholder formulation based on a territorial approach",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-10",
+   "nivel": 3,
+   "texto": "Kauswagan, The Philippines: conflict resolution based on food-system outputs",
+   "lang": "en"
+  },
+  {
+   "id": "t-seccion-11",
+   "nivel": 2,
+   "texto": "Conclusions",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-12",
+   "nivel": 2,
+   "texto": "Funding",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-13",
+   "nivel": 2,
+   "texto": "Conflict of interest",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-14",
+   "nivel": 2,
+   "texto": "Data availability",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-15",
+   "nivel": 2,
+   "texto": "Authors' contributions",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-16",
+   "nivel": 3,
+   "texto": "Notas",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-17",
+   "nivel": 3,
+   "texto": "Bibliografia",
+   "lang": null
+  }
+ ],
+ "vueltas": {},
+ "contenido": [
+  [
+   "span",
+   {
+    "id": "t-text"
+   },
+   "\n                  ",
+   [
+    "h3",
+    {
+     "id": "t-seccion-1"
+    },
+    [
+     "span",
+     {},
+     "Texto integral"
+    ]
+   ],
+   "\n                  ",
+   [
+    "span",
+    {
+     "id": "t-widgets"
+    },
+    [
+     "a",
+     {
+      "id": "t-wDownload"
+     },
+     [
+      "span",
+      {},
+      "PDF 356k"
+     ]
+    ],
+    " ",
+    [
+     "a",
+     {
+      "id": "t-wSend"
+     },
+     "Partilhar por e-mail"
+    ]
+   ],
+   "\n                  ",
+   "\n                    ",
+   [
+    "h2",
+    {
+     "id": "t-seccion-2"
+    },
+    [
+     "span",
+     {
+      "id": "t-tocto1n1"
+     },
+     "Introduction"
+    ]
+   ],
+   "\n                    ",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    [
+     "span",
+     {},
+     "1"
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "Colonial agricultural production played a pivotal role in establishing early imperial relations between the global North and South. As systems of appropriation and exploitation of both bodies "
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "and territories, colonial plantations relied on slave labor, human trafficking, and mechanisms of violence for capital accumulation "
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "(e."
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "g., Mintz, 1986; Marchant, 1943; Hvalkof, 1999)"
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     ". The plantation model fundamentally reshaped societies, contributing to enduring power imbalances "
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "(Moore et al., 2019)"
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     " and ecological extractivism "
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "(Li, 2018)"
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     ". Countries in the Global south continue to experience the effects of oppressive legacies that shape current socioenvironmental dynamics. Consider hunger as an example. According to the "
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "FAO (2025)"
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     ", 673 million people, or 8.2% of the world's population, went hungry in 2024. Global hunger (alongside significant disparities in wealth and health distribution) continues to rise only in Africa and western Asia, while decreasing elsewhere ("
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "FAO, 2025)"
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     ". Mainstream discourses tend to justify hunger and food insecurity by highlighting the need for financial security (more in the Global North) and food availability (primarily in the Global South) "
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "(Truninger et al., 2019)"
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     ". More recently, international attention have also been put on the relation of food insecurity, hunger and the effects of climate change, such as loss of productive land, flooding of coastal settlements and systemic changes in landscapes, ecosystems, and resource availability, as well as changes in the nature, distribution, frequency and severity of climate-related hazards like drought, heat waves, severe storms, and rainfall patterns "
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "(IPCC, 2022)"
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     ". This approach, however, does not address hunger as a lasting result of colonialism and plantation systems "
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "(Mohanty, 1988; Escobar, 2011; Li, 2018)"
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     ". In the context of climate change, Moore et al. (2019, p. n.d.) highlight: "
+    ]
+   ],
+   "\n                    ",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    [
+     "span",
+     {},
+     "2"
+    ],
+    [
+     "em",
+     {},
+     [
+      "span",
+      {
+       "lang": "en"
+      },
+      "(…) environmental problems cannot be decoupled from histories of colonialism, capitalism, and racism that have made some human beings more vulnerable than others to warming temperatures, rising seas, toxic exposures, and land dispossession occurring across the globe"
+     ]
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "."
+    ]
+   ],
+   "\n                    ",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    [
+     "span",
+     {},
+     "3"
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "Therefore, stimulating adaptive capacity, defined as the system’s ability to respond to the consequences of climate change "
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "(IPCC, 2014)"
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     ", requires a structural transformation of the agricultural sector through policy design that transcends the hegemonic production-consumption paradigm. "
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "McGreevy et al. (2022)"
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     " similarly argue that transforming global agrifood systems for sustainability necessitates moving beyond the growth paradigm. These authors argue that a transformation of the global food system is necessary, requiring a reconceptualization of society's food metabolism according to five key principles:"
+    ]
+   ],
+   "\n                    ",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    [
+     "span",
+     {},
+     "4"
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     ". Economic principles"
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     ": Sufficiency (in opposition to growth efficiency principles). Prioritizing subsistence needs, community well-being, respect for socio-ecological limits, and cultural sensitivity in food production and consumption. Recognizing intrinsic rights to non-human elements."
+    ]
+   ],
+   "\n                    ",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    [
+     "span",
+     {},
+     "5"
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     ". Social–ecological principles: Regeneration (in opposition to extraction principles associated with the growth paradigm). The concept addresses the need to produce and consume while respecting present and future natural cycles and ecosystem processes. It focuses on issues such as biocultural, biodiverse, agroecological food systems, fertile soils, stimulating agrobiodiversity, and enhancing social justice, fairness, equal land tenure, and community well-being. "
+    ]
+   ],
+   "\n                    ",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    [
+     "span",
+     {},
+     "6"
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     ". Allocative principles: Distribution (in opposition to accumulation, a central component of the growth paradigm). The concept defies the colonial and imperialistic notions of centralization and overaccumulation. The focus is on benefit sharing and redistribution of excess and knowledge. It also addresses trade and domestic policies. "
+    ]
+   ],
+   "\n                    ",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    [
+     "span",
+     {},
+     "7"
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     ". Institutional principles: Commons (in opposition to private ownership- a precondition for perpetual growth). Food as a commons, not a commodity, enables common stewardship and advocates reversing the trend of accumulation by re-commoning and promoting food democracy. "
+    ]
+   ],
+   "\n                    ",
+   "\n                      ",
+   [
+    "ul",
+    {},
+    "\n                        ",
+    [
+     "li",
+     {
+      "lang": "en"
+     },
+     [
+      "span",
+      {},
+      "1"
+     ],
+     " Food Sovereignty is a symbol containing many meanings (Edelman, 2014). However, it is commonly desc ",
+     [
+      "a",
+      {
+       "href": "#t-ftn1",
+       "id": "t-llamada-ftn1-1"
+      },
+      "(...)"
+     ]
+    ],
+    "\n                      "
+   ],
+   "\n                      ",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    [
+     "span",
+     {},
+     "8"
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     ". Relational principles: Care (in opposition to control). This concept moves away from the food security approach and focuses on the ethical foundations of food sovereignty"
+    ],
+    [
+     "a",
+     {
+      "id": "t-bodyftn1",
+      "href": "#t-ftn1"
+     },
+     "1"
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     ". It recognizes all the invisible workers in food systems, such as migrants and women, and highlights the interconnectedness of all living beings."
+    ]
+   ],
+   "\n                    ",
+   "\n                    ",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    [
+     "span",
+     {},
+     "9"
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "While the traditional sufficiency model of farming has been politically, financially, and technically marginalized "
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "(Horstink et al., 2023)"
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     ", the growth-oriented narrative and the belief that scientific knowledge can drive technological development to address agricultural challenges have become predominant. Additionally, trade agreements and neoliberal deregulation have principally undermined the livelihoods of poor smallholder farmers "
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "(Gonzalez, 2006)"
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     ", while benefiting transnational actors to exert significant influence over governments and international organizations in areas such as commerce, labor, property, and technology "
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "(Holt-Giménez, 2017)"
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     " and have the power to dictate the direction of related fields of science and policy "
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "(Williams & Nestle, 2017; Bonanno & Wolf, 2019)"
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     ". These dynamics, reinforced by technocratic ideologies and consolidated through initiatives such as the Green Revolution (1960–1988), have further entrenched the capitalist agrarian model in the global South under the guise of alleviating hunger and poverty "
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "(Sau, 1988; Shiva, 1991; Daño, 2007)"
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "."
+    ]
+   ],
+   "\n                    ",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    [
+     "span",
+     {},
+     "10"
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "Given that developmentalist narratives centered on food security, hunger alleviation, commodification and privatization have reportedly created oppressive conditions for already marginalized communities (principally small-scale, peasant, migrant, and women farmers) "
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "(e.g., Sau, 1988; Shiva, 1991; McCarthy & Prudham, 2004; Gonzalez, 2006; Ploeg, 2008; Daño, 2007; Ploeg, 2013; IPES-Food, 2017; Holt-Giménez, 2017; ETC Group, 2019)"
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     ", this paper critically examines whether the analyzed case studies represent genuine, sustainable, "
+    ],
+    [
+     "em",
+     {},
+     [
+      "span",
+      {
+       "lang": "en"
+      },
+      "transformative"
+     ]
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     " "
+    ],
+    [
+     "em",
+     {},
+     [
+      "span",
+      {
+       "lang": "en"
+      },
+      "change"
+     ]
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     ", as governments and international organizations have highlighted. Through the post-growth framework, it explicitly assesses whether these policies enable substantive transformation for the most vulnerable actors in the food system or extend private control over common resources, reinforcing (neo)colonial mechanisms under the guise of sustainability. "
+    ]
+   ],
+   "\n                    ",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    [
+     "span",
+     {},
+     "11"
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "A central argument of this paper is that sustainable "
+    ],
+    [
+     "em",
+     {},
+     [
+      "span",
+      {
+       "lang": "en"
+      },
+      "green"
+     ]
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     " agrarian policies (e.g., organic policies) must align with post-growth agrifood system principles and values to achieve transformational change. In contrast to the dominant paradigm of perpetual growth within the global industrial agricultural system, post-growth frameworks link the production of healthy food to the respect for planetary boundaries "
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "(Proença et al., 2025)"
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     ". "
+    ]
+   ],
+   "\n                    ",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    [
+     "span",
+     {},
+     "12"
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "The following section outlines the data collection and analysis methods, provides a concise overview of the case studies, and demonstrates the researchers' positionality. The third section examines Sikkim's strategy for expanding organic production, Ndiob's multi-stakeholder model for sustainable agriculture, and Kauswagan's food policy-driven conflict resolution. The paper concludes by offering critical insights into potential future developments."
+    ]
+   ],
+   "\n                    ",
+   [
+    "h2",
+    {
+     "id": "t-seccion-3"
+    },
+    [
+     "span",
+     {
+      "id": "t-tocto1n2"
+     },
+     [
+      "span",
+      {
+       "lang": "en"
+      },
+      "Methodology "
+     ]
+    ]
+   ],
+   "\n                    ",
+   [
+    "h3",
+    {
+     "id": "t-seccion-4"
+    },
+    [
+     "span",
+     {
+      "id": "t-tocto2n1"
+     },
+     "Positionality "
+    ]
+   ],
+   "\n                    ",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    [
+     "span",
+     {},
+     "13"
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "The development of new forms of knowledge and decolonizing methodologies (Denzin & Lincoln, 2018) demands a critical evaluation of the validity of knowledge produced through data analysis, primarily when researchers from the global north investigate contexts in the global South. Such reflection requires acknowledging the researcher's central role in shaping the study, as well as the influence of the European gaze on worldviews constructed by complex structures and power relations (Foucault, 1982)."
+    ]
+   ],
+   "\n                    ",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    [
+     "span",
+     {},
+     "14"
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "I do not hold an insider position within any of the contexts under analysis. I recognize that potential bias or misinterpretation may arise from my own linguistic ideologies and the limitations of my social context (Briggs, 1986). Furthermore, because not all relevant documents were readily available or accessible in a language I am proficient in, some errors cannot be excluded. "
+    ]
+   ],
+   "\n                    ",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    [
+     "span",
+     {},
+     "15"
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "I maintain that science should not be regarded as unbiased, objective, or value-free (Mayan, 2009). As Borras and Franco (2023, p. 1) emphasize, “social science scholarship can be rigorous, but it is difficult to think of how it can be politically neutral”."
+    ]
+   ],
+   "\n                    ",
+   [
+    "h3",
+    {
+     "id": "t-seccion-5"
+    },
+    [
+     "span",
+     {
+      "id": "t-tocto2n2"
+     },
+     [
+      "span",
+      {
+       "lang": "en"
+      },
+      "Research Design "
+     ]
+    ]
+   ],
+   "\n                    ",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    [
+     "span",
+     {},
+     "16"
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "When considering national and international policies aimed at fostering mitigation and adaptation to climate change, the agricultural sector is regarded as a crucial area of action by researchers, NGOs, and governments alike. This paper analyzes regional agricultural policies in Sikkim, India; Ndiob, Senegal; and Kauswagan, the Philippines. Within a post-growth metabolism framework (McGreevy et al., 2022), this paper evaluates specific political strategies implemented in these regions aimed at promoting organic and sustainable agricultural development while empowering local farmers. Since all case studies share this objective, they are here referred to as "
+    ],
+    [
+     "em",
+     {},
+     [
+      "span",
+      {
+       "lang": "en"
+      },
+      "transformative change agendas"
+     ]
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     ". "
+    ]
+   ],
+   "\n                    ",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    [
+     "span",
+     {},
+     "17"
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "All case studies were selected based on their notable international recognition, particularly through awards or mentions in international food policy competitions such as the FAO Future Policy Award. The selected cases are situated in diverse geographic regions to capture a range of socioecological characteristics. Despite these differences, each case shares the commonality that the farming sector remains a significant source of employment, with small-scale farming families, especially youth and women, serving as primary producers."
+    ]
+   ],
+   "\n                    ",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    [
+     "span",
+     {},
+     "18"
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "The data set comprises analyses of 15 regulatory and policy mechanisms (Figure 1) that establish the institutional and legal framework for each case study. In contrast to Sikkim and Ndiob, where additional policy documents enabled a more comprehensive contextual policy analysis, only the 2010 policy analysis was possible for Kauswagan due to limited available documentation. Documents from entities such as international platforms, associations, media outlets, and multi-donor initiatives provide broader contextual information and insights on topics including “development aid” and “climate change risk mitigation strategies”."
+    ]
+   ],
+   "\n                    ",
+   "\n                      ",
+   [
+    "p",
+    {},
+    [
+     "span",
+     {},
+     "Figure 1"
+    ],
+    ". Documental Data Collection and Analysis"
+   ],
+   [
+    "figura",
+    {
+     "alt": "Figure 1. Documental Data Collection and Analysis"
+    }
+   ],
+   "Aumentar",
+   " ",
+   "Original (jpeg, 96k)",
+   "\n                    ",
+   "\n                    ",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    [
+     "span",
+     {},
+     "19"
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "This analysis employs document analysis and a manual thematic coding approach to identify the main themes (i.e., the most recurring concepts or notions). The data emerging from content analysis was then subjected to the post-growth metabolism framework and its four principles stipulated by McGreevy et al. (2022). "
+    ]
+   ],
+   "\n                    ",
+   [
+    "h3",
+    {
+     "id": "t-seccion-6"
+    },
+    [
+     "span",
+     {
+      "id": "t-tocto2n3"
+     },
+     "Case Study Description"
+    ]
+   ],
+   "\n                    ",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    [
+     "span",
+     {},
+     "20"
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "The first case addressed is Sikkim (India), a small, decentralized Himalayan state located in the northeastern part of the country with a total geographical area of about 709,600 hectares and "
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "610,577 local inhabitants according to the last census "
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "(Badola et al., 2012)"
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     ". Given the predicted patterns of climate change, these events have intensified challenges related to regional territorial planning in Sikkim. Firstly, from a geographical standpoint, the region can be characterized by its mountains and weak geology, comprising sedimentary and low-grade metamorphic rocks, which are prone to landslides. Most of the region’s food system is based on small traditional farming systems managed through indigenous home garden agroforestry systems, including traditional farming instruments and knowledge "
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "(Sharma & Sharma, 2017)"
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     ". Agriculture is practiced in approximately 11% of the state's total area due to the geographical characteristics (84 glaciers and permanent snowfields cover a total area of 691 km²) "
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "(Tambe et al., 2020)"
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     ". Moreover, 58% of Sikkim’s surface is dry land, and 10% is “waste land”. Subsistence agriculture is dependent on natural rainfall and on spring water downstream, as irrigation infrastructure is limited or absent "
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "(Azhoni & Goyal, 2018)"
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     ". "
+    ]
+   ],
+   "\n                    ",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    [
+     "span",
+     {},
+     "21"
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "The second case study is the Municipality of Ndiob, Senegal. Ndiob is a small municipality in the Fatick region, with a population of 23,407 "
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "(ANSD, 2023)"
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     ", organized into five geographic groups. The municipality covers an area of 127 km² in the Diakhao district, approximately 160 km east of Dakar "
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "(Republique du Senegal, 2013)"
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     ". The agricultural sector was historically of central importance, serving as the primary source of income and local livelihood for up to 77% of the Senegalese workforce. Nonetheless, due to a complex range of social, economic, geopolitical, and environmental factors, including the severe droughts that occurred between 1960 and 1970, Senegal saw a rapid increase in its urban population "
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "(Khouma et al., 2013)"
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     ". While more than 90% of agriculture in Senegal depends on rainfall, authors argue that recurrent droughts are the primary drivers of climate insecurity "
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "(Dankelman et al., 2008)"
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     ". Similar to many African countries, a significant proportion of food production in Senegal is from subsistence agriculture, primarily practiced by small-scale family farmers who cultivate less than 2 hectares and generate minimal or no income. In Senegal, a"
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "bout 70% of the labor force in rural areas is female, and women account for 80% of agricultural production. In addition to operating with limited resources and a high dependence on natural resources, women in Senegal face multiple socioeconomic inequalities, including restricted access to land. Only 13.4% of women in Senegal own property (Dankelman et al., 2008). "
+    ]
+   ],
+   "\n                    ",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    [
+     "span",
+     {},
+     "22"
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "The final case study examines the municipality of Kauswagan, Lanao del Norte, situated on the Mindanao Islands in the Philippines. The Philippines has been heavily affected by climate change-related extreme weather events (such as typhoons, floods, and droughts), with devastating impacts on crop production and the livelihoods of rural villages "
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "(Escarcha et al., 2020)"
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     ". "
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "Heckelman et al. (2022)"
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     " characterize the Philippine agricultural sector as highly vulnerable to climate-related socio-environmental risks. The majority of agricultural holdings are managed by small-scale farmers, with farms of up to three hectares accounting for 90% of the total. The sector employs approximately one-third of the national labor force and is the second largest source of greenhouse gas emissions (GEE) in the Philippines, with rice cultivation identified as the largest emitter (Heckelman, 2022). Kauswagan municipality has been described as a “barometer of conflict and peace in Mindanao” "
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "(Tagupa, 2020)"
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     ", having experienced several significant waves of armed conflicts (such as 2001 and 2008). The conflict in Mindanao is highly complex and multilevel, dating back to the 16th century and colonial resistance and religious self-determination "
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "(Adriano & Parks, 2013)"
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     ". While the conflict involves the native Moro population, predominantly residing in the southern region, and the central government based in Manila, the precise causes of the conflict are varied and complex. However, the conflict has affected more than 6% of the national population "
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "(Adriano & Parks, 2013)"
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     " with violent dynamics that resulted in substantial loss of life and extensive property destruction—ultimately rendering Kauswagan a ghost municipality with a poverty incidence (PI) exceeding 79% in 2010 (Tagupa, 2020)."
+    ]
+   ],
+   "\n                    ",
+   [
+    "h2",
+    {
+     "id": "t-seccion-7"
+    },
+    [
+     "span",
+     {
+      "id": "t-tocto1n3"
+     },
+     "Analysis"
+    ]
+   ],
+   "\n                    ",
+   [
+    "h3",
+    {
+     "id": "t-seccion-8"
+    },
+    [
+     "span",
+     {
+      "id": "t-tocto2n4"
+     },
+     "Sikkim, India- Scaling up organic production"
+    ]
+   ],
+   "\n                    ",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    [
+     "span",
+     {},
+     "23"
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "India’s state planning has established, through partnerships between the central government and donor agencies, a multi-state program that incorporates capacity-building, the development of science-based policy, prioritization of sectoral and cross-sectoral initiatives, and financial assistance to create a “pipeline of investible projects” "
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "(Jogesh & Mridula, 2020)"
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     ". Additionally, the Government of Sikkim has facilitated collaboration among national research institutes, civil society organizations, and international experts "
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "(Tambe et al., 2020)"
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     ". Sikkim is the first state in the country to conduct a Climate Change Related Vulnerability Assessment of the Rural Communities at the Gram Panchayat Level. "
+    ]
+   ],
+   "\n                    ",
+   "\n                      ",
+   [
+    "ul",
+    {},
+    "\n                        ",
+    [
+     "li",
+     {
+      "lang": "en"
+     },
+     [
+      "span",
+      {},
+      "2"
+     ],
+     " Including the: National Solar Mission; National Mission for Enhanced Energy Efficiency; National Mi ",
+     [
+      "a",
+      {
+       "href": "#t-ftn2",
+       "id": "t-llamada-ftn2-1"
+      },
+      "(...)"
+     ]
+    ],
+    "\n                      "
+   ],
+   "\n                      ",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    [
+     "span",
+     {},
+     "24"
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "The analysis of Sikkim’s state policy shows us that the "
+    ],
+    [
+     "em",
+     {},
+     [
+      "span",
+      {
+       "lang": "en"
+      },
+      "transformational change agenda "
+     ]
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "for local food systems has primarily followed a top-down approach. After a preparatory phase (starting in 2003), the Sikkim Organic Mission was launched in August 2010 "
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "(Avasthe et al., 2019)"
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     ". The impetus for Sikkim to boost organic production is part of a national effort to combat climate change and to create policies towards sustainability and resilience, while achieving poverty alleviation and national growth. This is particularly evident in the National Programme for Organic Production (NPOP) or the National Mission for Sustainable Agriculture (NMSA). The prior was launched in 2001 and serves as India's primary initiative to establish a national framework for organic farming, including labelling and certification processes (e.g., the “India organic” logo). The latter was launched in 2014-2015 and is one of eight National Missions"
+    ],
+    [
+     "a",
+     {
+      "id": "t-bodyftn2",
+      "href": "#t-ftn2"
+     },
+     "2"
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     " established under the National Action Plan on Climate Change (NAPCC), which was formulated in 2008. When superficially analyzing these "
+    ],
+    [
+     "em",
+     {},
+     [
+      "span",
+      {
+       "lang": "en"
+      },
+      "transformational policies"
+     ]
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     " in Sikkim, this approach appears to be characterized by the development of public policies, programs, and projects aimed at organic agriculture, sustainable development, and capacity building. The concept of sustainability appears to be deeply linked to the interconnection between living socioecological systems and natural cycles, suggesting that the landscape should be managed in a precautionary and responsible manner to protect the health and well-being of society and the environment."
+    ]
+   ],
+   "\n                    ",
+   "\n                    ",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    [
+     "span",
+     {},
+     "25"
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "However, Sikkim's agenda also supports the Government's commitment to achieving sustainable economic growth by prioritizing the transformation of agriculture into a more productive, sustainable, remunerative, and climate-resilient sector "
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "(Government of India, 2008)"
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     ". The Organic Mission (2004) initiated by the Government of Sikkim aimed to improve farmers’ livelihood strategies, particularly in regions facing significant ecological, climatic, and economic challenges (Sharma & Sharma, 2017). Similarly, the Mission Poverty Free Sikkim (2010) addressed the underlying causes of poverty, emphasizing that many impoverished families experience a complex interplay of economic and environmental stressors. "
+    ]
+   ],
+   "\n                    ",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    [
+     "span",
+     {},
+     "26"
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "The policy set a target to certify 18,000 hectares of organic land annually over two years, with an additional 14,000 hectares in 2013, resulting in a total of 58,000 hectares of certified organic land "
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "(Tambe & Arrawatia, 2012)"
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     ". The government assigned responsibility for certification and quality control to service providers, which was implemented through an Internal Control System (ICS) for Organic Certification (Tambe & Arrawatia, 2012). By 2016, Sikkim had achieved 100% certified organic status."
+    ]
+   ],
+   "\n                    ",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    [
+     "span",
+     {},
+     "27"
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "Sikkim’s policy integrates mandatory measures, such as the gradual prohibition of chemical fertilizers and pesticides, with incentives to promote sustainable alternatives. The local government banned plastic bags in 1998 and prohibited the import of non-organic vegetables into the region. In 2016, Sikkim further excluded the use of packaged drinking water, Styrofoam, and thermocol disposable utensils from government offices and events "
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "(WFC, 2019b)"
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     ". "
+    ]
+   ],
+   "\n                    ",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    [
+     "span",
+     {},
+     "28"
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "The regional government made substantial investments in social sectors, particularly health and education, with 37% of total expenditures allocated to these areas in 2012–2013. A significant "
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "portion of the budget supported capacity building, soil health management, and the establishment of laboratories capable of conducting 40,000 soil tests annually (WFC, 2019). To support climate change adaptation and improve waste management, all registered farmers received rural or vermicompost pits during the first year of organic production, which increased on-farm organic manure production (Tambe & Arrawatia, 2012). By 2019, 66,227 farmers and 191 growing groups were engaged in organic cultivation "
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "(Chettri & Pradhan, 2020)"
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "."
+    ]
+   ],
+   "\n                    ",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    [
+     "span",
+     {},
+     "29"
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "Additional significant achievements include a) addressing gender inequalities by providing universal access to sanitation facilities; b) implementing participatory mechanisms such as measures to increase community involvement and enhancing environmental literacy through the establishment of a “Green School Program”; c) affirming local ecological characteristics by restoring indigenous flora and promoting the plantation of fast-growing native tree species; d) endorsing technical and material standards by promoting resource efficiency, for example, through the development of drip irrigation systems and the creation of a community water tank to address drought (Tambe & Arrawatia, 2012); e) and establishing climate-change centers to monitor and advance knowledge of local climate events "
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "(Rattani, 2018)"
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "."
+    ]
+   ],
+   "\n                    ",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    [
+     "span",
+     {},
+     "30"
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "Several scholars have commended Sikkim's approach for its effectiveness in building community capacity, its potential to integrate "
+    ],
+    [
+     "em",
+     {},
+     [
+      "span",
+      {
+       "lang": "en"
+      },
+      "green capacity-building"
+     ]
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     " concepts into policy design and territorial planning "
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "(Jogesh & Dubash, 2014)"
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     " and its promotion of strict conservation of natural resources through the prohibition of scaling sacred peaks, caves, rocks, lakes, chortens, and hot springs (Tambe & Arrawatia, 2012) while rising productivity in high-value crops "
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "(Chettri & Pradhan, 2020)"
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "."
+    ]
+   ],
+   "\n                    ",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    [
+     "span",
+     {},
+     "31"
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "In the context of climate change, the analyzed policies have likely reduced exposure and sensitivity to climate-related events by enhancing the capacity of individuals, institutions, and communities to withstand climate variability and its effects on food systems. At the community level, adaptive capacity appears to have increased, as government policies in Sikkim, such as the ban on agrochemicals, have led to a consistent reduction in emissions (i.e., GHGs, NH3) and may help prevent soil degradation while restoring carbon and phosphorus cycles. Social investments should enhance social capital, with capacity building serving as a central component of all analyzed policies."
+    ]
+   ],
+   "\n                    ",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    [
+     "span",
+     {},
+     "32"
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "Figure 2"
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     " "
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "critically evaluates the examined "
+    ],
+    [
+     "em",
+     {},
+     [
+      "span",
+      {
+       "lang": "en"
+      },
+      "transformational"
+     ]
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     " policies in relation to prevailing growth and development narratives, which are here regarded as primary drivers of unsustainable socio-economic and ecological dynamics (McGreevy et al., 2022). "
+    ]
+   ],
+   "\n                    ",
+   "\n                      ",
+   [
+    "p",
+    {},
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "Figure 2."
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     " "
+    ],
+    [
+     "em",
+     {},
+     [
+      "span",
+      {
+       "lang": "en"
+      },
+      "Transformational"
+     ]
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     " Policy under a post-growth metabolisms framework (Sikkim) "
+    ]
+   ],
+   [
+    "figura",
+    {
+     "alt": "Figure 2. Transformational Policy under a post-growth metabolisms framework (Sikkim)"
+    }
+   ],
+   "Aumentar",
+   " ",
+   "Original (jpeg, 88k)",
+   "\n                    ",
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    "As this analysis shows, in Sikkim, food policy, despite its emphasis on climate change mitigation and adaptation, remains grounded in the growth paradigm. This case study shows that while agrarian policies for climate change appear to have pure intentions, local-level enforcement of top-down policies can exacerbate social and economic inequalities, as these policies are not grounded in (re)distribution principles or in addressing structural power issues in governance mechanisms. If not "
+   ],
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    "oriented towards structural change based on post-growth principles, such as care or commons, food production continues to be driven by capitalist accumulation and the satisfaction of local food security (in opposition to food sovereignty). Community well-being, in this case, still depends on productivity and the maximization of efficiency for market purposes, rather than on “the aspirations and needs of those who produce, distribute and consume food” (LVC, 2021). Organic agriculture in Sikkim continues to replicate the dynamics of industrial agriculture: clustering up lands, monoculture farming, standardization, and technological and scientific knowledge provided to” the farmers through research and educational institutions. Self-sufficiency was not the primary objective; instead, these policies resulted in increased dependence on exports to European markets. Local demand for organic products did not significantly increase because the import of non-organic vegetables was not prohibited, contrary to the government's initial promises at the outset of the Organic Mission "
+   ],
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    "(FreshPlaza, 2018)"
+   ],
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    ". "
+   ],
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    "Thus, in contradiction to the food sovereignty model, Sikkim's model conceptualizes food as a commodity subject to free trade and market fluctuations, while hunger is viewed to persist due to low productivity. The analyzed policies"
+   ],
+   [
+    "em",
+    {},
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     " "
+    ]
+   ],
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    "continue to"
+   ],
+   [
+    "em",
+    {},
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     " "
+    ]
+   ],
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    "prioritize growth and productivity over community well-being and the conceptualization of food as a common good. By emphasizing green, sustainable, and climate-smart discourses, Sikkim's "
+   ],
+   [
+    "em",
+    {},
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "transformational agenda"
+    ]
+   ],
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    ", whether intentionally or not, generated further opportunities for capitalist enclosure, increasing "
+   ],
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    "corporate control in agriculture"
+   ],
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    " rather than genuinely valuing and conserving local ecosystems for local communities."
+   ],
+   [
+    "h3",
+    {
+     "id": "t-seccion-9"
+    },
+    [
+     "span",
+     {
+      "id": "t-tocto2n5"
+     },
+     [
+      "span",
+      {
+       "lang": "en"
+      },
+      "Ndiob, Senegal- Multi-stakeholder formulation based on a territorial approach"
+     ]
+    ]
+   ],
+   "\n                    ",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    [
+     "span",
+     {},
+     "33"
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "Ndiob’s Agriculture Development Program was established through a multi-stakeholder, permaculture-based approach that incorporated inclusive mechanisms, including extensive community consultations. Comparable to Sikkim's case, Ndiob’s policy reflects a goal-oriented agenda implemented by municipalities with the support of strategic partners. According to the policy, local communities participated throughout the policy-making process, from diagnosis and analysis to implementation. The process began in 2013 with decentralization mandated by the General Law of Local Entities (Code général des Collectivités Locales) "
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "(Republique du Senegal, 2013)"
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     ". It was revived through multistakeholder platforms that informed the direction of agricultural policies, ultimately resulting in the formulation of programs such as the National Agricultural Investment and Food and Nutrition Security Programme 2018–2022. "
+    ]
+   ],
+   "\n                    ",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    [
+     "span",
+     {},
+     "34"
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "A prevailing assumption within these policies is that such strategic mechanisms can strengthen local governance and promote sustainable development in the agricultural sector. These mechanisms are considered capable of enhancing and securing livelihoods, improving social protection systems, supporting organic food production, and ensuring adequate income and nutrition levels. Furthermore, food production and consumption are connected to the cultural context of Senegal, built on local self-subsistence, practiced through traditional methods, including crop rotation systems "
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "(Brandolini et al., 2021)"
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     ". Hence, the primary goal of Ndiobs' transformational agenda is to implement culturally accepted production methods to achieve food and seed self-sufficiency and to safeguard fundamental human rights, including access to financial, technical, and natural resources."
+    ]
+   ],
+   "\n                    ",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    [
+     "span",
+     {},
+     "35"
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "As in Sikkim, Ndiob’s policies integrated mandatory requirements with supportive measures and incentives, thereby offering "
+    ],
+    [
+     "em",
+     {},
+     [
+      "span",
+      {
+       "lang": "en"
+      },
+      "sustainable"
+     ]
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     " alternatives. The primary climate change adaptation measures identified in this case study include governmental support for seed production, agricultural equipment development, capacity-building initiatives, agricultural training programs, and the establishment of a credit fund for equipment acquisition. Additional measures involve capacity-building in agroecological practices, such as anti-erosion techniques, desalination, and composting. The distribution of 200 ewes to vulnerable households and the establishment of a credit fund to finance agricultural and processing projects for young people and women were also implemented."
+    ]
+   ],
+   "\n                    ",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    [
+     "span",
+     {},
+     "36"
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "In the context of climate change, outcomes of the analyzed documents established several priorities: food security, natural resource management, soil fertility, livestock breeding, and agricultural development "
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "(Brandolini et al., 2021)"
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     ", with the focus on organic agriculture, social investments, and regional adaptive capacity. Hence, Ndiob may have reduced community sensitivity, primarily through soil recovery initiatives, including composting, soil desalination, and anti-erosion measures that strengthen regional soil resilience to climate change. The adoption of organic agricultural practices could virtually reduce GEE and ammonia emissions, thereby decreasing the region's sensitivity to and reliance on fossil-fuel-based agricultural inputs. Equally, adaptive capacity has increased, albeit marginally, as specific policies have directly influenced the population’s ability to respond to climate change, principally due to improvements in the water sector and access to water resources (e.g., enhancements to valleys and ponds or the construction of water management systems), as well as job creation and financial diversification opportunities. "
+    ]
+   ],
+   "\n                    ",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    [
+     "span",
+     {},
+     "37"
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "Figure 3 provides a critical assessment of the transformational strategies in relation to prevailing growth and development narratives."
+    ]
+   ],
+   "\n                    ",
+   "\n                      ",
+   [
+    "p",
+    {},
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "Figure 3."
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     " "
+    ],
+    [
+     "em",
+     {},
+     [
+      "span",
+      {
+       "lang": "en"
+      },
+      "Transformational"
+     ]
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     " Policy under a post-growth metabolisms framework (Ndiob) "
+    ]
+   ],
+   [
+    "figura",
+    {
+     "alt": "Figure 3. Transformational Policy under a post-growth metabolisms framework (Ndiob)"
+    }
+   ],
+   "Aumentar",
+   " ",
+   "Original (jpeg, 116k)",
+   "\n                    ",
+   "\n                    ",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    [
+     "span",
+     {},
+     "38"
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "The case of Ndiob demonstrates that, despite a strong emphasis on climate change mitigation and adaptation, the approach to development, poverty alleviation, and food security remains grounded in the growth paradigm. Efficiency, intensification, and monoculture are promoted, this time, however, under a "
+    ],
+    [
+     "em",
+     {},
+     [
+      "span",
+      {
+       "lang": "en"
+      },
+      "green"
+     ]
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     " paradigm. Even if the transformational agenda of the analyzed agricultural would claim agroecology and permaculture, they are not clear when it comes to pest management. While PNIASAN emphasizes biopesticides, PRACAS stresses the importance of better seed quality and advanced pest management, including fertilizers"
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     ")"
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     ". "
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "(Government of Senegal., 2014; Brandolini et al., 2021)"
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     ". "
+    ]
+   ],
+   "\n                    ",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    [
+     "span",
+     {},
+     "39"
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "Also, in this case, the approach to environmental sustainability does not critically address growth and (neo)colonial power dynamics, such as economic exploitation or cultural impositions in the form of high vertical knowledge transfer and top-down developmentalist forms of assistance, brought about by guaranteeing “access” to commodities and building capacity for the improvement of “human capital”. This case study demonstrates how discourses of poverty alleviation and food insecurity under climate change may serve as entry points for further resource appropriation, while simultaneously advancing capitalist interests under the pretext of empowering farmers and promoting self-sufficiency."
+    ]
+   ],
+   "\n                    ",
+   [
+    "h3",
+    {
+     "lang": "en",
+     "id": "t-seccion-10"
+    },
+    [
+     "span",
+     {
+      "id": "t-tocto2n6"
+     },
+     "Kauswagan, The Philippines: conflict resolution based on food-system outputs"
+    ]
+   ],
+   "\n                    ",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    [
+     "span",
+     {},
+     "40"
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "The pursuit of peace and prosperity through agrarian reforms has a longstanding history in the country. One of the earliest significant efforts occurred in the mid-1980s, when 83% of farmland was concentrated among 5% of families. In 1988, the Comprehensive Agrarian Reform Program (CARP) facilitated the redistribution of 5.05 million hectares of agricultural land to approximately 2.6 million landless farmers "
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "(Suh, 2015)"
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     ". While this land reform addressed ongoing conflict and violence "
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "(Lanzona, 2019)"
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     ", research indicates that most of the benefits of agricultural in the county continued to be landowning elites, primarily due to their control over institutions, a phenomenon known as elite capture of institutions (Lanzona, 2019)."
+    ]
+   ],
+   "\n                    ",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    [
+     "span",
+     {},
+     "41"
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "Research suggests that conflict areas in the Philippines present the lowest growth and the highest poverty levels "
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "(Adriano & Parks, 2013)"
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     ". In response to the interconnected challenges of poverty and environmental degradation, various local entities and several non-governmental organizations (NGOs) began to promote organic agriculture as a solution to unsustainable development patterns "
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "(Heckelman et al., 2022)"
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     ". This movement led to the enactment of the Organic Agriculture Act of 2010 "
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "(Congress of the Philippines, 2010)"
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     ", which established a framework for national sustainable rural development across social, economic, and environmental dimensions (Suh, 2015; Heckelman, 2019). "
+    ]
+   ],
+   "\n                    ",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    [
+     "span",
+     {},
+     "42"
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "The Agricultural and Paths of Peace Program, known as Arms to Farms, was implemented under Resolution No. 148 in 2011 as a subcomponent of the Development SIKAD-PA (Sustainable and Integrated Kauswagan Area Development and Peace Agenda). This agenda integrated poverty eradication, urban management, and support for organic farming at both the municipal and city levels. SIKAD-PA was developed through a participatory process involving key stakeholders from both Muslim and Christian communities "
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "(Tagupa, 2020)"
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     ". The vision for sustainable agriculture laid out encompasses the recovery of soil and biodiversity in response to the impacts of decades of conflict. It also addresses the root causes of the conflict, specifically the lack of effective public services and persistent food insecurity (Tagupa, 2020). This strategy positions food security as a central element for conflict resolution. "
+    ]
+   ],
+   "\n                    ",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    [
+     "span",
+     {},
+     "43"
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "As in the previously mentioned case studies, capacity building and community development were central to enhancing scientific literacy and agricultural development. The municipality established a “School for Agriculture” "
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "(WFC, 2019a)"
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     " which provides support in areas such as organic fertilizers, seeds, and technical assistance (Tagupa, 2020). To facilitate trade and stimulate the organic supply chain, the local government created the “Organic Trading Post” and strengthened connections to external local markets. By 2018, the municipality’s Poverty Incidence (PI) had declined to 9.1% of the total population, a significant reduction from the 79% reported in 2010 (Tagupa, 2020). The recovery of 300 hectares of land appears to have contributed to a reduction in crime incidents related to armed conflict between religious groups (WFC, 2019a) and has supported increased food production, improved nutritional security for local consumption, and the growth of business establishments (WFC, 2019a; Tagupa, 2020)."
+    ]
+   ],
+   "\n                    ",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    [
+     "span",
+     {},
+     "44"
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "In 2013, the municipality was declared GMO- and chemical-free. The following year, the entire municipality of Kauswagan imposed restrictions on the use of synthetic inputs (WFC, 2019a). In addition to improvements in public health, this policy facilitated sustainable development by improving access to microcredit and increasing governmental support. Additional measures identified include providing farmers with free seeds, contingent upon returning double the amount at the end of the season for redistribution and establishing "
+    ],
+    [
+     "em",
+     {},
+     [
+      "span",
+      {
+       "lang": "en"
+      },
+      "Rebel Returnees Associations"
+     ]
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     " registered as agricultural cooperatives (WFC, 2019a)."
+    ]
+   ],
+   "\n                    ",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    [
+     "span",
+     {},
+     "45"
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "In the context of climate change, this case study shows how organic agriculture and targeted social investments designed to eradicate hunger (as a source of conflict) are improving the effectiveness of cross-sectoral policy development. Organic agriculture could be regarded as a convergence instrument that can promote justice within agrarian policies, particularly when directed toward the most vulnerable populations. In Kauswagan, the development of a strong sense of "
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "community demonstrated that strengthening socio-environmental linkages and addressing their complexity is essential for reducing sensitivity to climate change. Equally, adaptive capacity increased due to virtually reduced GHG and ammonia emissions from the agro-chemical ban, halted land abandonment, and enhanced capacity building and inclusive local governance."
+    ]
+   ],
+   "\n                    ",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    [
+     "span",
+     {},
+     "46"
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "This case study achieved the most significant poverty reduction, with a sustained 13% decrease in poverty incidence over nine years (2010-2019) (Tagupa, 2020). Local incomes increased and new economic opportunities developed. However, the program has not established a transparent certification mechanism, resulting in only 2% of the total agricultural area being classified as organic (Shu, 2015). As Heckelman (2019) emphasized, the green revolution paradigm continues to hinder progress of well-being, as specific institutional arrangements supporting organic transition remain entrenched in practices characterized by the monopolization of land and resources by powerful elites. Figure 4 provides a critical assessment of the transformational strategies in relation to prevailing growth and development narratives."
+    ]
+   ],
+   "\n                    ",
+   "\n                      ",
+   [
+    "p",
+    {},
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "Figure 4"
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     ". "
+    ],
+    [
+     "em",
+     {},
+     [
+      "span",
+      {
+       "lang": "en"
+      },
+      "Transformational"
+     ]
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     " Policy under a post-growth metabolisms framework (Kauswagan) "
+    ]
+   ],
+   [
+    "figura",
+    {
+     "alt": "Figure 4. Transformational Policy under a post-growth metabolisms framework (Kauswagan)"
+    }
+   ],
+   "Aumentar",
+   " ",
+   "Original (jpeg, 76k)",
+   "\n                    ",
+   "\n                    ",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    [
+     "span",
+     {},
+     "47"
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "This case study demonstrates that, even when violent fighters are successfully integrated and community well-being programs are highly effective, the development model remains partially rooted in the growth paradigm. Similar to other cases, mechanization and infrastructure development were regarded as essential factors for increasing productivity, which in turn can be considered a precondition for peace."
+    ]
+   ],
+   "\n                    ",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    [
+     "span",
+     {},
+     "48"
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "Similar to Senegal, (neo)colonial power dynamics, including strong vertical knowledge transfer and top-down developmentalist forms of aid, are sustained by an approach to environmental sustainability that does not critically challenge growth and capitalistic development in agriculture. Hence, under this policy, farmers must adopt the practices and mindset of businesspeople to achieve a stable and prosperous livelihood- a narrative not compatible with post-growth futures. "
+    ]
+   ],
+   "\n                    ",
+   [
+    "h2",
+    {
+     "id": "t-seccion-11"
+    },
+    [
+     "span",
+     {
+      "id": "t-tocto1n4"
+     },
+     "Conclusions "
+    ]
+   ],
+   "\n                    ",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    [
+     "span",
+     {},
+     "49"
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "This paper examined regional sustainable farming policies and their implementation in relation to climate change policy, adaptive capacity, and development based on the growth/post-growth principles. The analysis emphasized the interconnectedness of agricultural policies, food system management, territorial planning, climate change, and the broader national social, economic, political, and geopolitical context. "
+    ]
+   ],
+   "\n                    ",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    [
+     "span",
+     {},
+     "50"
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "In the context of climate change and environmental sustainability, "
+    ],
+    [
+     "em",
+     {},
+     [
+      "span",
+      {
+       "lang": "en"
+      },
+      "green"
+     ]
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     " and "
+    ],
+    [
+     "em",
+     {},
+     [
+      "span",
+      {
+       "lang": "en"
+      },
+      "smart"
+     ]
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     " agrarian policy coupled with organic food production could be said to further postpone the projected adverse effects of climate change in terms of more carbon sequestration and less emissions (e.g., ammonia or GHGs), principally associated with the reduction of chemicals and pesticides. However, in light of the post-growth principles outlined by McGreevy et al. (2022), these policies fail to facilitate substantive transformation for the most vulnerable actors in the food system and move away from "
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "production and consumption patterns based on the notion of perpetual growth. Instead, they extend private control over common resources and reinforce (neo)colonial mechanisms under the pretense of sustainability."
+    ]
+   ],
+   "\n                    ",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    [
+     "span",
+     {},
+     "51"
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "The agrarian policies under analysis have not prioritized the equitable redistribution of land, power, knowledge, and resources and fail to implement democratic governance models grounded in principles of care and sufficiency (Lanzona, 2019). "
+    ]
+   ],
+   "\n                    ",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    [
+     "span",
+     {},
+     "52"
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "Sikkim's case reveals that although these policies demonstrate a commitment to environmental sustainability through organic production, many of their objectives were not achieved. This reflects a national trend of "
+    ],
+    [
+     "em",
+     {},
+     [
+      "span",
+      {
+       "lang": "en"
+      },
+      "overpromising and underdelivering"
+     ]
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     ". As the National Mission for Sustainable Agriculture was introduced, Modi's government promised to double farmers' incomes by 2022 "
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "(Lal et al., 2017)"
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     ". Not only did the government fail to achieve promised numbers, but farmers' incomes actually stagnated during Modi's rule "
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "(Acharya & Singh, 2024)"
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     ". Concurrently, the Indian National Crime Records Bureau (NCRB) reported a constant increase in deaths among agricultural workers due to suicide: the 2022 numbers indicate that every hour, at least one farmer dies by suicide "
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "(Kulkarni, 2023; Down To Earth, 2024)"
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     ". Despite the gravity of these statistics, research and media reports have criticized the government for relying on inadequate data, thereby underrepresenting the severity of the crisis, notably as women farmers, Dalit, and Adivasi farmers are often excluded from official counts "
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "(Srivastava, 2020; Happy & Shivam, 2022)"
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     ". The incidence of farmer suicides in Sikkim reflects this trend, with rates reaching their highest levels in 2021 according to the latest available data "
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "(Devadiga et al., 2023)"
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     ". The causes for farmer suicide are complex and result from unequal power relations and socioeconomic patterns, as well as structural issues concerning international trade and governance "
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "(Kulkarni, 2023)"
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     ". These issues were also at the center of the farmers' protest that emerged in 2020. Over the course of a year, Indian farmers protested for a better livelihood and for policies that would hinder further neoliberalization, privatization, and commodification (e.g., Baviskar & Levien, 2021; Jodhka, 2021; Kumar, 2021). More recently, the farmers' protest has reignited because demands (such as minimum support prices, a loan debt waiver, and pensions) have not yet been accepted "
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "(Down To Earth, 2024; BBC, 2025)"
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     ". "
+    ]
+   ],
+   "\n                    ",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    [
+     "span",
+     {},
+     "53"
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "In the case of Ndiob, Senegal, local-level food insecurity is significantly influenced by macroeconomic arrangements, including global liberal trade agreements such as the Economic Partnership Agreements (EPAs) with the European Union (EU). These agreements demonstrate that macroeconomic policies often generate structural dynamics that remain unaddressed, such as (illegal) overfishing driven by European demand and Transnational Companies (TNCs) "
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "(London et al., 2024; EJF, 2025)"
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     ". Furthermore, this case study highlights how policy planning and investment plans were reviewed under a climate change risk management framework strongly influenced by developmentalist notions of assistance. The Platform for Agricultural Risk Management (PARM) was established within the G20 framework and includes key stakeholders such as the European Commission (EC), the Agence Française de Développement (AFD), the Italian Agency for Cooperation and Development (AICS), the International Fund for Agricultural Development (IFAD), the German Federal Ministry for Economic Cooperation and Development (BMZ), and KfW Development Bank, operating through the New Partnership for Africa’s Development (NEPAD) "
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "(PARM, 2024)"
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     ". Strategic partners also include the US multinational Cargill, the World Bank, GrowAfrica (a partnership of the World Economic Forum, the African Union (AU), and the New Partnership for Africa’s Development), and the Senegalese Government. "
+    ]
+   ],
+   "\n                    ",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    [
+     "span",
+     {},
+     "54"
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "Hence, capacity-building, climate change knowledge creation, and management mechanisms observed in Ndiob exemplify a multistakeholder process of agricultural policy design that is institutionalized by asymmetric power relations. Knowledge is not co-constructed; instead, it is imposed upon communities by “experts” from “developed” countries, who present a multi-stakeholder platform as a dialogue opportunity among the government, local institutions, and development partners. However, this approach does not acknowledge that the development model is fundamentally tied to perpetual growth, maintained through technical and financial assistance, as well as climate action, often provided in the form of loans. As an example, the National Agriculture Investment Plan (PNIA) was financed with €30 million, and the Program to accelerate the pace of "
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "agriculture in Senegal (PRACAS) with €15 million in credit "
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "(Brandolini et al., 2021)"
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     ". As a result, international climate finance mechanisms may ultimately trap countries in the Global South in recurring cycles of debt "
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "(Zagema et al., 2023)"
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     ". "
+    ]
+   ],
+   "\n                    ",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    [
+     "span",
+     {},
+     "55"
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "The final case study, Kauswagan, demonstrates that regions that adhere to international financial mechanisms and development assistance programs often face conditional requirements. These requirements often create sacrificial zones and sacrificial people (Borras & Franco, 2023). During the 1970s, Foreign aid to Mindanao was offset by leasing land to the American military for military bases (Adriano & Parks, 2013). Since than conflict resolution efforts have consistently emphasized the importance of modernizing the area through growth and development in strategic sectors such as agriculture. However, regardless of the sector, infrastructure development has been a primary objective. All multistakeholder collaborations between the Philippines and institutions such as USAID, the Japan Bank for International Cooperation (JBIC), the Japan International Cooperation Agency (JICA), the World Bank, the Asian Development Bank (ADB), the European Commission, and the Canadian International Development Agency (CIDA) featured infrastructure development (Adriano & Parks, 2013). "
+    ]
+   ],
+   "\n                    ",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    [
+     "span",
+     {},
+     "56"
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "In Kauswagan, the agrarian sector has undergone significant structural changes. As in all case studies, the country’s food systems were substantially altered by the mid-1960s Green Revolution, which led to a reliance on costly inputs such as chemical fertilizers. "
+    ]
+   ],
+   "\n                    ",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    [
+     "span",
+     {},
+     "57"
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "This shift produced serious consequences for rural small-scale farmers. During this period, farmers began to demand greater control over production to reduce dependence on fossil fuels, address food insecurity, and mitigate inequalities (Heckelman, 2019). However, the transition from traditional to high-input agriculture had already transformed the socio-economic landscape of food production and consumption. Achieving food security became increasingly dependent on imports, even as poverty levels rose sharply (Lanzona, 2019). Furthermore, "
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "Rosset (2008)"
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     " investigation into the 2007/2008 food crisis revealed that national pro-agrofuel crop policies allocated half of the rice-cultivated area—a staple food—to agrofuel crops. As a result, the incomes of many farmers declined, and a significant portion of the farming population could no longer sustain their livelihoods due to reduced surpluses (Lanzona, 2019). These developments led to rising food prices, increased food scarcity, and persistent poverty traps. "
+    ]
+   ],
+   "\n                    ",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    [
+     "span",
+     {},
+     "58"
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "Within a post-growth framework, the central roles of small-scale, peasant, migrant, and women farmers, as well as pastoralists and their communities, should be prioritized over empty decarbonization or sustainable intensification discourses. Future research should continue to assess post-growth pathways that align with post-colonial and post-extractivist contexts. "
+    ]
+   ],
+   "\n                    ",
+   [
+    "h2",
+    {
+     "id": "t-seccion-12"
+    },
+    [
+     "span",
+     {
+      "id": "t-tocto1n5"
+     },
+     [
+      "span",
+      {
+       "lang": "en"
+      },
+      "Funding"
+     ]
+    ]
+   ],
+   "\n                    ",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    [
+     "span",
+     {},
+     "59"
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "The author is funded by the Centre for Ecology, Evolution, and Environmental Changes, with the identification number "
+    ],
+    [
+     "a",
+     {
+      "href": "https://doi.org/10.54499/UID/00329/2025"
+     },
+     [
+      "span",
+      {
+       "lang": "en"
+      },
+      "https://doi.org/​10.54499/​UID/​00329/​2025"
+     ]
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     ". The author did not receive funding for the development of the present paper."
+    ]
+   ],
+   "\n                    ",
+   [
+    "h2",
+    {
+     "id": "t-seccion-13"
+    },
+    [
+     "span",
+     {
+      "id": "t-tocto1n6"
+     },
+     "Conflict of interest"
+    ]
+   ],
+   "\n                    ",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    [
+     "span",
+     {},
+     "60"
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "The author declares that there are no conflicts of interest."
+    ]
+   ],
+   "\n                    ",
+   [
+    "h2",
+    {
+     "id": "t-seccion-14"
+    },
+    [
+     "span",
+     {
+      "id": "t-tocto1n7"
+     },
+     "Data availability"
+    ]
+   ],
+   "\n                    ",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    [
+     "span",
+     {},
+     "61"
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "A complete set of data supporting the results of this study has been published directly in the paper."
+    ]
+   ],
+   "\n                    ",
+   [
+    "p",
+    {},
+    [
+     "span",
+     {},
+     "62"
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     " "
+    ]
+   ],
+   "\n                    ",
+   [
+    "h2",
+    {
+     "id": "t-seccion-15"
+    },
+    [
+     "span",
+     {
+      "id": "t-tocto1n8"
+     },
+     "Authors' contributions"
+    ]
+   ],
+   "\n                    ",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    [
+     "span",
+     {},
+     "63"
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "The conceptualization, development of the methodology, and curation of the data for this work were carried out by the author. The research and formal analysis enabled the collection and analysis of the data. The author is also responsible for writing the original draft, including visualization. The author was also responsible for managing and coordinating the planning of activities, editing, reviewing, and validating the results. The author did not receive funding for the development of this work."
+    ]
+   ],
+   "\n                  ",
+   [
+    "span",
+    {},
+    "Topo da página"
+   ]
+  ],
+  [
+   "span",
+   {
+    "id": "t-notes"
+   },
+   "\n                  ",
+   [
+    "h3",
+    {
+     "id": "t-seccion-16"
+    },
+    [
+     "span",
+     {},
+     "Notas"
+    ]
+   ],
+   "\n                  ",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    [
+     "a",
+     {
+      "id": "t-ftn1",
+      "href": "#t-bodyftn1"
+     },
+     "1"
+    ],
+    " Food Sovereignty is a symbol containing many meanings (Edelman, 2014). However, it is commonly described as “the right of peoples to healthy and culturally appropriate food produced through ecologically sound and sustainable methods, and their right to define their own food and agriculture. It puts the aspirations and needs of those who produce, distribute and consume food at the heart of food systems and policies rather than the demands of markets and corporations”(La Via Campesina, 2021). "
+   ],
+   "\n                  ",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    [
+     "a",
+     {
+      "id": "t-ftn2",
+      "href": "#t-bodyftn2"
+     },
+     "2"
+    ],
+    " Including the: National Solar Mission; National Mission for Enhanced Energy Efficiency; National Mission on Sustainable Habitat; National Water Mission; National Mission for Sustaining the Himalayan Eco-system; National Mission for a Green India; National Mission on Strategic Knowledge for Climate Change."
+   ],
+   [
+    "span",
+    {},
+    "Topo da página"
+   ]
+  ],
+  [
+   "span",
+   {
+    "id": "t-bibliography"
+   },
+   "\n                  ",
+   [
+    "h3",
+    {
+     "id": "t-seccion-17"
+    },
+    [
+     "span",
+     {},
+     "Bibliografia"
+    ]
+   ],
+   "\n                  ",
+   "                                                            \n                    ",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Acharya, S., & Singh, S. C. (2024, May 8). Exclusive: India’s Modi, chasing reform legacy, shifts income goals for struggling farmers. ",
+    [
+     "em",
+     {},
+     "Reuters"
+    ],
+    ". https://www.reuters.com/world/india/indias-modi-chasing-reform-legacy-shifts-income-goals-struggling-farmers-2024-05-08/"
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Adriano, F., & Parks, T. (2013). ",
+    [
+     "em",
+     {},
+     "The contested corners of Asia: Subnational conflict and international development assistance"
+    ],
+    ". The Asia Foundation."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "fr"
+    },
+    "ANSD. (2023). ",
+    [
+     "em",
+     {},
+     "Agence Nationale de la Statistique et de la Démographie (ANSD) du Sénégal | «Un centre d’excellence dans un Système statistique national fort»"
+    ],
+    ". ",
+    [
+     "span",
+     {},
+     "Agence Nationale de la Statistique et de la Démographie (ANSD) du Sénégal. https://www.ansd.sn/"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Avasthe, R., Singh, R., Babu, S., Pashte, V., & Sharma, P. (2019). ",
+    [
+     "em",
+     {},
+     "Organic farming for doubling farmers income by 2022: Sikkim model, Pathway and strategies"
+    ],
+    " (pp. 5–17)."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Azhoni, A., & Goyal, M. K. (2018). Diagnosing climate change impacts and identifying adaptation strategies by involving key stakeholder organisations and farmers in Sikkim, India: Challenges and opportunities. ",
+    [
+     "em",
+     {},
+     "Science of The Total Environment"
+    ],
+    ", ",
+    [
+     "em",
+     {},
+     "626"
+    ],
+    ", 468–477. https://doi.org/10.1016/j.scitotenv.2018.01.112"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Badola, H., Kholia, B. S., Lachungpa, U., Buffum, B., Iguchi, J., & SK, P. (2012). ",
+    [
+     "em",
+     {},
+     "Sikkim Biodiversity Action Plan 2012"
+    ],
+    "."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "BBC. (2025, March 28). ",
+    [
+     "em",
+     {},
+     "Jagjit Singh Dallewal: India farmer leader ends 123-day hunger strike"
+    ],
+    ". https://www.bbc.com/news/articles/cx2nzn0pyxyo"
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Bonanno, A., & Wolf, S. A. (Eds.). (2019). ",
+    [
+     "em",
+     {},
+     "Resistance to the Neoliberal Agri-Food Regime: A Critical Analysis"
+    ],
+    ". Routledge. https://doi.org/10.4324/9781315192437"
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Brandolini, G., Cissé, Ba, Samb, Dieng, Sada Sy, Floridi, & Floridi. (2021). ",
+    [
+     "em",
+     {},
+     "Impact assessment of the initiative “Sector Country Programme – Agriculture and Rural Development in Senegal (2014-2018).”"
+    ],
+    " https://www.aics.gov.it/wp-content/uploads/2023/10/Summary-SENEGAL_ENG.pdf"
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Chettri, D., & Pradhan, N. (2020). Agricultural diversification in Sikkim: A move towards organic high-value agriculture. ",
+    [
+     "em",
+     {},
+     "Indian Journal of Science and Technology"
+    ],
+    ", ",
+    [
+     "em",
+     {},
+     "13"
+    ],
+    "(44), 4500–4505. https://doi.org/10.17485/IJST/v13i44.1698"
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Congress of the Philippines. (2010). ",
+    [
+     "em",
+     {},
+     "Organic Agriculture Act of 2010. "
+    ],
+    [
+     "em",
+     {},
+     [
+      "span",
+      {},
+      "R.A. No. 10068"
+     ]
+    ],
+    [
+     "span",
+     {},
+     ". https://lawphil.net/statutes/repacts/ra2010/ra_10068_2010.html"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Dankelman, E., & et al. (2008). ",
+    [
+     "em",
+     {},
+     "Gender, Climate Change & Human Security:Lessons from Bangladesh, Ghana and Senegal"
+    ],
+    ". WEDO. https://repository.ubn.ru.nl/bitstream/handle/2066/72456/72456.pdf?sequence=1"
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Devadiga, A., Amith, S., & Diya, K. (2023, November 29). ",
+    [
+     "em",
+     {},
+     "Farmer Suicides in India and the Road to Resilience."
+    ],
+    " https://www.sdmimd.ac.in/iec2023/papers/IEC23103.pdf"
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Down To Earth. (2024, April 8). ",
+    [
+     "em",
+     {},
+     "One farmer/farm labourer dies by suicide every hour in India: NCRB data"
+    ],
+    ". https://web.archive.org/web/20240408180626/https://www.downtoearth.org.in/news/agriculture/one-farmer-farm-labourer-dies-by-suicide-every-hour-in-india-ncrb-data-93184"
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "EJF. (2025). ",
+    [
+     "em",
+     {},
+     "‘The Sea was Sold’: Fisheries crisis in Senegal drives forced…"
+    ],
+    ". Environmental Justice Foundation. https://ejfoundation.org/news-media/the-sea-was-sold-fisheries-crisis-in-senegal-drives-forced-migration-to-europe"
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    [
+     "span",
+     {},
+     "Escarcha, J. F., Lassa, J., Eric, P., & Zander, K. (2020). "
+    ],
+    "Livelihoods transformation and climate change adaptation: The case of smallholder water buffalo farmers in the Philippines. ",
+    [
+     "em",
+     {},
+     "Environmental Development"
+    ],
+    ", ",
+    [
+     "em",
+     {},
+     "33"
+    ],
+    "(100468), 1–13. https://doi.org/10.1016/j.envdev.2019.100468"
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "FAO. (2025). ",
+    [
+     "em",
+     {},
+     "The State of Food Security and Nutrition in the World"
+    ],
+    ". Publications. https://doi.org/10.4060/cd1254en"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "FreshPlaza. (2018, January 31). ",
+    [
+     "em",
+     {},
+     "Sikkim, India withdraws ban on non-organic produce"
+    ],
+    ". https://www.freshplaza.com/north-america/article/2188783/sikkim-india-withdraws-ban-on-non-organic-produce/"
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Gonzalez, C. (2006). Markets, Monocultures, and Malnutrition: Agricultural Trade Policy Through an Environmental Justice Lens. ",
+    [
+     "em",
+     {},
+     "MICH. ST. J. INT’L L."
+    ],
+    ", ",
+    [
+     "em",
+     {},
+     "14"
+    ],
+    ", 345."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Government of India. (2008). ",
+    [
+     "em",
+     {},
+     "National Action Plan on Climate Change (NAPCC)"
+    ],
+    ". https://cdn.climatepolicyradar.org/navigator/IND/2008/national-action-plan-on-climate-change_e519421f95914b49614d76d4d62f2456.pdf"
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "fr"
+    },
+    "Government of Senegal. (2014). ",
+    [
+     "em",
+     {},
+     "Programme d’accélération de la cadence de l’agriculture sénégalaise (PRACAS), 2014-2017"
+    ],
+    ". https://www.isra-bame.sn/wp-content/uploads/2025/04/10-1.pdf"
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Happy, H., & Shivam, M. (2022, October 14). ",
+    [
+     "em",
+     {},
+     "Farmer Suicides: What Field Data Shows and Union Government Data Shrouds"
+    ],
+    ". The Wire. https://thewire.in/agriculture/farmer-suicides-ncrb-data-versus-pau-data"
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Heckelman, A., Chappell, M. J., & Wittman, H. (2022). A polycentric food sovereignty approach to climate resilience in the Philippines. ",
+    [
+     "em",
+     {},
+     "Elementa: Science of the Anthropocene"
+    ],
+    ", ",
+    [
+     "em",
+     {},
+     "10"
+    ],
+    "(1), 00033. https://doi.org/10.1525/elementa.2020.00033"
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Holt-Giménez, E. (2017). ",
+    [
+     "em",
+     {},
+     "A foodie’s guide to capitalism: Understanding the political economy of what we eat"
+    ],
+    ". Monthly Review Press ; Food First Books."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Horstink, L., Schwemmlein, K., & Encarnação, M. F. (2023). Food systems in depressed and contested agro-territories: Participatory Rural Appraisal in Odemira, Portugal. ",
+    [
+     "em",
+     {},
+     "Frontiers in Sustainable Food Systems"
+    ],
+    ", ",
+    [
+     "em",
+     {},
+     "6"
+    ],
+    ". https://www.frontiersin.org/articles/10.3389/fsufs.2022.1046549"
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "IPCC. (2014). ",
+    [
+     "em",
+     {},
+     "Impacts, adaptation and vulnerability. Part A: global and sectoral aspects. Contribution of working group II to the fifth assessment report of the intergovernmental Panel on Climate Change, 1132."
+    ],
+    " https://www.ipcc.ch/report/ar5/wg2/"
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "IPCC. (2022). ",
+    [
+     "em",
+     {},
+     "Climate Change 2022: Impacts, Adaptation and Vulnerability. Contribution of Working Group II to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change."
+    ],
+    " (H.-O. Pörtner, D. C. Roberts, M. M. B. Tignor, E. S. Poloczanska, K. Mintenbeck, A. Alegría, M. Craig, S. Langsdorf, S. Löschke, V. Möller, A. Okem, & B. Rama, Eds.). Cambridge University Press, Cambridge, UK and New York, NY, US. https://www.ipcc.ch/report/ar6/wg2/"
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Jogesh, A., & Dubash, N. (2014). ",
+    [
+     "em",
+     {},
+     "MAINSTREAMING CLIMATE CHANGE IN STATE DEVELOPMENT PLANNING AN ANALYSIS OF THE SIKKIM ACTION PLAN ON CLIMATE CHANGE"
+    ],
+    ". https://idl-bnc-idrc.dspacedirect.org/server/api/core/bitstreams/c8efade8-314b-4484-bc92-c0ffff66ca4d/content"
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Jogesh, A., & Mridula, M. (2020). Ten Years After: Evaluating State Action Plans in India. ",
+    [
+     "em",
+     {},
+     "Science and Culture"
+    ],
+    ". https://doi.org/10.36094/SC.V86.2020.CLIMATE_CHANGE.JOGESH_AND_PAUL.38"
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Khouma, M., Jalloh, A., Thomas, T. S., & Nelson, G. C. (2013). ",
+    [
+     "em",
+     {},
+     "Senegal [In West African agriculture and climate change: A comprehensive analysis]"
+    ],
+    ". https://hdl.handle.net/10568/153461"
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Kulkarni, N. (2023, June 5). The Truth About Indian Farmer Suicides. ",
+    [
+     "em",
+     {},
+     "Fair Observer"
+    ],
+    ". https://www.fairobserver.com/world-news/india-news/the-truth-about-indian-farmer-suicides/"
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Lal, P., Kumari, B., Kumari, T., Thakur, A., & Das, J. (2017). Doubling farmers’ income by 2022: The thaumaturgy yet to befall. ",
+    [
+     "em",
+     {},
+     "Indian Journal of Economics and Development"
+    ],
+    ", ",
+    [
+     "em",
+     {},
+     "13"
+    ],
+    ", 48. https://doi.org/10.5958/2322-0430.2017.00038.5"
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Lanzona, L. (2019). Agrarian Reform and Democracy: Lessons from the Philippine Experience. ",
+    [
+     "em",
+     {},
+     "Economics Department Faculty Publications"
+    ],
+    ". https://archium.ateneo.edu/economics-faculty-pubs/4"
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Li, T. M. (2018). After the land grab: Infrastructural violence and the “Mafia System” in Indonesia’s oil palm plantation zones. ",
+    [
+     "em",
+     {},
+     [
+      "span",
+      {},
+      "Geoforum"
+     ]
+    ],
+    [
+     "span",
+     {},
+     ", "
+    ],
+    [
+     "em",
+     {},
+     [
+      "span",
+      {},
+      "96"
+     ]
+    ],
+    [
+     "span",
+     {},
+     ", 328–337. https://doi.org/10.1016/j.geoforum.2017.10.012"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    [
+     "span",
+     {},
+     "McCarthy, J., & Prudham, S. (2004). "
+    ],
+    "Neoliberal Nature and the Nature of Neoliberalism. ",
+    [
+     "em",
+     {},
+     "Geoforum"
+    ],
+    ", ",
+    [
+     "em",
+     {},
+     "35"
+    ],
+    ", 275–283. https://doi.org/10.1016/j.geoforum.2003.07.003"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "McGreevy, S. R., Rupprecht, C. D. D., Niles, D., Wiek, A., Carolan, M., Kallis, G., Kantamaturapoj, K., Mangnus, A., Jehlička, P., Taherzadeh, O., Sahakian, M., Chabay, I., Colby, A., Vivero-Pol, J.-L., Chaudhuri, R., Spiegelberg, M., Kobayashi, M., Balázs, B., Tsuchiya, K., … Tachikawa, M. (2022). Sustainable agrifood systems for a post-growth world. ",
+    [
+     "em",
+     {},
+     "Nature Sustainability"
+    ],
+    ", ",
+    [
+     "em",
+     {},
+     "5"
+    ],
+    "(12), 1011–1017. https://doi.org/10.1038/s41893-022-00933-5"
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Mintz, S. W. (1986). ",
+    [
+     "em",
+     {},
+     "Sweetness and Power: The Place of Sugar in Modern History"
+    ],
+    " (Reprint Edition). Penguin Books."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Mohanty, C. (1988). Under Western Eyes: Feminist Scholarship and Colonial Discourses. ",
+    [
+     "em",
+     {},
+     "Feminist Review"
+    ],
+    ", ",
+    [
+     "em",
+     {},
+     "30"
+    ],
+    "(1), 61–88. https://doi.org/10.1057/fr.1988.42"
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Moore, S., Allewaert, M., Gómez, P., & Mitman, G. (2019, January 22). ",
+    [
+     "em",
+     {},
+     "The Plantationocene and Plantation Legacies Today"
+    ],
+    ". Edge Effects. https://edgeeffects.net/plantation-legacies-plantationocene/"
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "PARM. (2024). ",
+    [
+     "em",
+     {},
+     "Managing risks to improve farmers’ livelihoods"
+    ],
+    ". https://parm.org/wp-content/uploads/2024/03/PARM_Final-Report_2014-2019_Dec2019.pdf"
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    [
+     "span",
+     {},
+     "Proença, L. C., Neira, J., Cardoso, V. A., Farley, J., Proença, L. C., Neira, J., Cardoso, V. A., & Farley, J. (2025). "
+    ],
+    "Post-Growth for the Global South: Reframing Agricultural Policies in Brazil. ",
+    [
+     "em",
+     {},
+     "Land"
+    ],
+    ", ",
+    [
+     "em",
+     {},
+     "14"
+    ],
+    "(4). https://doi.org/10.3390/land14040904"
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Rattani, V. (2018). ",
+    [
+     "em",
+     {},
+     "Coping with climate change: An analysis of India’s national action plan on climate change"
+    ],
+    ". https://cdn.cseindia.org/attachments/0.55359500_1519109483_coping-climate-change-NAPCC.pdf"
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "fr"
+    },
+    [
+     "span",
+     {},
+     "Republique du Senegal. (2013). "
+    ],
+    [
+     "em",
+     {},
+     [
+      "span",
+      {},
+      "Loi n° 2013-10 du 28 décembre 2013 portant Code général des Collectivités locales"
+     ]
+    ],
+    [
+     "span",
+     {},
+     ". https://www.au-senegal.com/IMG/pdf/code_general6119.pdf"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Rosset, P. (2008). Food Sovereignty and the Contemporary Food Crisis. ",
+    [
+     "em",
+     {},
+     "Development"
+    ],
+    ", ",
+    [
+     "em",
+     {},
+     "51"
+    ],
+    "(4), 460–463. https://doi.org/10.1057/dev.2008.48"
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Sharma, G., & Sharma, E. (2017). Agroforestry Systems as Adaptation Measures for Sustainable Livelihoods and Socio-economic Development in the Sikkim Himalaya. In ",
+    [
+     "em",
+     {},
+     "Agroforestry: Anecdotal to Modern Science"
+    ],
+    " (pp. 217–243). https://doi.org/10.1007/978-981-10-7650-3_8"
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Shiva, V. (1991). ",
+    [
+     "em",
+     {},
+     "The Violence of the Green Revolution: Third World Agriculture, Ecology and Politics"
+    ],
+    " (Illustrated Edition). Zed Books."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Suh, J. (2015). Community-Based Organic Agriculture in the Philippines. ",
+    [
+     "em",
+     {},
+     "Outlook on Agriculture"
+    ],
+    ", ",
+    [
+     "em",
+     {},
+     "44"
+    ],
+    ", 291–296. https://doi.org/10.5367/oa.2015.0222"
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Tagupa, V. (2020). Innovative cases of organic agriculture in Asia | FAO. In ",
+    [
+     "em",
+     {},
+     "IConquering Hunger and Poverty in War-ravaged Kauswagan Municipality of Mindanao, Philippines."
+    ],
+    " https://www.fao.org/family-farming/detail/en/c/1630535/"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Tambe, S., & Arrawatia, M. (2012). ",
+    [
+     "em",
+     {},
+     "Climate Change initiatives in sikkim"
+    ],
+    ". http://sikenvis.nic.in/writereaddata/22-Chapter_Climate_Change_Initiatives_in_Sikkim.pdf"
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Tambe, S., Rawat, G. S., Bhutia, N. T., Sherpa, P. N., Dhakal, S., Pradhan, S., Kulkarni, H., & Arrawatia, M. L. (2020). Building sustainability in the Eastern Himalaya: Linking evidence to action. ",
+    [
+     "em",
+     {},
+     "Environment, Development and Sustainability"
+    ],
+    ", ",
+    [
+     "em",
+     {},
+     "22"
+    ],
+    "(6), 5887–5903. https://doi.org/10.1007/s10668-019-00456-8"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Truninger, M., Horta, A. P. B., Cardoso, S., Augusto, F. R., Teixeira, J., & Fontes, A. (2019). ",
+    [
+     "em",
+     {},
+     [
+      "span",
+      {},
+      "Alimentação em tempos de crise: Consumo e segurança alimentar nas famílias portuguesas"
+     ]
+    ],
+    [
+     "span",
+     {},
+     " (1a edição). ICS, Imprensa de Ciências Sociais."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    [
+     "span",
+     {},
+     "WFC. (2019a, March 5). Kauswagan’s From Arms to Farms Programme. "
+    ],
+    [
+     "em",
+     {},
+     [
+      "span",
+      {},
+      "Futurepolicy.Org"
+     ]
+    ],
+    [
+     "span",
+     {},
+     ". https://www.futurepolicy.org/healthy-ecosystems/kauswagans-from-arms-to-farms-programme-the-philippines/"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "WFC. (2019b, March 5). Sikkim’s State Policy on Organic Farming, India. ",
+    [
+     "em",
+     {},
+     "Futurepolicy.Org"
+    ],
+    ". https://www.futurepolicy.org/healthy-ecosystems/sikkims-state-policy-on-organic-farming-and-sikkim-organic-mission-india/"
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Zagema, B., Kowalzig, J., Walsh, L., Hattle, A., Roy, C., & Dejgaard, H. P. (2023). ",
+    [
+     "em",
+     {},
+     "Climate Finance Shadow Report 2023: Assessing the delivery of the $100 billion commitment"
+    ],
+    ". ",
+    [
+     "span",
+     {},
+     "Oxfam International. https://doi.org/10.21201/2023.621500"
+    ]
+   ],
+   "\n                                                ",
+   [
+    "span",
+    {},
+    "Topo da página"
+   ]
+  ]
+ ]
+}

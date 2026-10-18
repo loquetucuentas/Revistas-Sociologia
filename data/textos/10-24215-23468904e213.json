@@ -1,0 +1,1877 @@
+{
+ "version": 1,
+ "recogido": "2026-10-18T11:44:00+00:00",
+ "doi": "10.24215/23468904e213",
+ "titulo": "Indicios para reconstruir una historia de la sociología en la Universidad Nacional de La Plata",
+ "revista": "2346-8904",
+ "numero": "n33-2026",
+ "licencia": {
+  "codigo": "by-nc-sa",
+  "nombre": "CC BY-NC-SA 4.0",
+  "nombre_completo": "Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional",
+  "url": "https://creativecommons.org/licenses/by-nc-sa/4.0",
+  "url_legal": "https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.es"
+ },
+ "fuente": {
+  "url": "https://www.cuestionessociologia.fahce.unlp.edu.ar/article/download/CSe213/21626?inline=1",
+  "formato": "HTML",
+  "plataforma": "ojs-galerada",
+  "pagina": "https://www.cuestionessociologia.fahce.unlp.edu.ar/article/view/CSe213"
+ },
+ "autores_cita": [
+  {
+   "apellidos": "Kiperszmid",
+   "nombre_pila": "Miguel",
+   "nombre": null
+  },
+  {
+   "apellidos": "Tortti",
+   "nombre_pila": "María Cristina",
+   "nombre": null
+  },
+  {
+   "apellidos": "Pis Diez",
+   "nombre_pila": "Nayla",
+   "nombre": null
+  }
+ ],
+ "avisos_derechos": [
+  "Derechos de autor 2026 ",
+  "Esta obra está bajo una licencia internacional Creative Commons Atribución-NoComercial-CompartirIgual 4.0. La cesión de derechos no exclusivos implica también la autorización por parte de los autores para que el trabajo sea alojado en los repositorios institucionales UNLP (Sedici y Memoria Académica) y difundido a través de las bases de datos que los editores consideren apropiadas para su indización, con miras a incrementar la visibilidad de la revista y sus autores."
+ ],
+ "idioma_principal": "es",
+ "indice": [],
+ "vueltas": {
+  "t-gt1": "t-llamada-gt1-1",
+  "t-gt2": "t-llamada-gt2-1",
+  "t-gt3": "t-llamada-gt3-1",
+  "t-fn1": "t-llamada-fn1-1",
+  "t-fn2": "t-llamada-fn2-1",
+  "t-fn3": "t-llamada-fn3-1"
+ },
+ "contenido": [
+  "\n",
+  [
+   "span",
+   {
+    "id": "t-visor-cabecera"
+   },
+   "\n",
+   "\n",
+   [
+    "span",
+    {},
+    "\n",
+    [
+     "a",
+     {
+      "href": "https://www.cuestionessociologia.fahce.unlp.edu.ar/"
+     },
+     "\nCuestiones de Sociología"
+    ],
+    ", núm. 33, e213, febrero - julio 2026. ISSN 2346-8904",
+    [
+     "br",
+     {}
+    ],
+    "Universidad Nacional de La Plata",
+    [
+     "br",
+     {}
+    ],
+    "Facultad de Humanidades y Ciencias de la Educación",
+    [
+     "br",
+     {}
+    ],
+    "Departamento de Sociología"
+   ],
+   "\n",
+   "\n"
+  ],
+  "\n",
+  [
+   "span",
+   {
+    "id": "t-articulo"
+   },
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-front"
+    },
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-articulo-categoria"
+     },
+     "\n",
+     [
+      "p",
+      {},
+      "Artículo institucional"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-articulo-meta"
+     },
+     "\n",
+     [
+      "p",
+      {},
+      "Indicios para reconstruir una historia de la sociología en la Universidad Nacional de La Plata"
+     ],
+     "\n\n"
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-articulo-acerca"
+     },
+     "\n",
+     [
+      "span",
+      {
+       "id": "t-ficha-general"
+      },
+      "\n",
+      [
+       "span",
+       {
+        "id": "t-autores-articulo"
+       },
+       "\n",
+       "\n",
+       "\n",
+       [
+        "span",
+        {},
+        "Miguel"
+       ],
+       " ",
+       [
+        "span",
+        {},
+        "Kiperszmid"
+       ],
+       " ",
+       [
+        "br",
+        {}
+       ],
+       [
+        "span",
+        {},
+        " mkiperszmid@fahce.unlp.edu.ar"
+       ],
+       "\n",
+       "\n",
+       "\n",
+       [
+        "span",
+        {},
+        "Instituto de Investigaciones en Humanidades y Ciencias Sociales (UNLP-CONICET), Facultad de Humanidades y Ciencias de la Educación, Universidad Nacional de La Plata"
+       ],
+       ", ",
+       [
+        "span",
+        {},
+        "Argentina"
+       ],
+       "\n",
+       "\n",
+       "\n",
+       "\n",
+       "\n",
+       [
+        "span",
+        {},
+        "María Cristina"
+       ],
+       " ",
+       [
+        "span",
+        {},
+        "Tortti"
+       ],
+       " ",
+       [
+        "br",
+        {}
+       ],
+       [
+        "span",
+        {},
+        " mctortti@gmail.com"
+       ],
+       "\n",
+       "\n",
+       "\n",
+       [
+        "span",
+        {},
+        "Instituto de Investigaciones en Humanidades y Ciencias Sociales (UNLP-CONICET), Facultad de Humanidades y Ciencias de la Educación, Universidad Nacional de La Plata"
+       ],
+       ", ",
+       [
+        "span",
+        {},
+        "Argentina"
+       ],
+       "\n",
+       "\n",
+       "\n",
+       "\n",
+       "\n",
+       [
+        "span",
+        {},
+        "Nayla"
+       ],
+       " ",
+       [
+        "span",
+        {},
+        "Pis Diez"
+       ],
+       " ",
+       [
+        "br",
+        {}
+       ],
+       [
+        "span",
+        {},
+        " nayla.pdiez@gmail.com"
+       ],
+       "\n",
+       "\n",
+       "\n",
+       [
+        "span",
+        {},
+        "Instituto de Investigaciones en Humanidades y Ciencias Sociales (UNLP-CONICET), Facultad de Humanidades y Ciencias de la Educación, Universidad Nacional de La Plata"
+       ],
+       ", ",
+       [
+        "span",
+        {},
+        "Argentina"
+       ],
+       "\n",
+       "\n",
+       "\n"
+      ],
+      "\n",
+      [
+       "span",
+       {},
+       "Cita sugerida:"
+      ],
+      "\n",
+      [
+       "span",
+       {},
+       "Kiperszmid, M., Tortti, M. C. y Pis Diez, N. (2026). Indicios para reconstruir una historia de la sociología en la Universidad Nacional de La Plata. ",
+       [
+        "i",
+        {},
+        "Cuestiones de Sociología, 33"
+       ],
+       ", e213. ",
+       [
+        "a",
+        {
+         "href": "https://doi.org/10.24215/23468904e213"
+        },
+        "https://doi.org/10.24215/23468904e213"
+       ]
+      ],
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "Resumen:\n\t\t\t\t\t\t\t                           "
+       ],
+       [
+        "span",
+        {},
+        "El Fondo Horacio José Pereyra, presentado en diciembre de 2024 en la Facultad de Humanidades y Ciencias de la Educación de la Universidad Nacional de La Plata, abre una vía privilegiada para pensar los lazos entre archivo, memoria e historia disciplinar. Este dossier reúne las intervenciones de Miguel Kiperszmid, Nayla Pis Diez y María Cristina Tortti, quienes, desde distintos registros, evocan la figura del profesor Pereyra y los múltiples sentidos que su trayectoria proyecta sobre la historia de la sociología platense. A través de los documentos personales y académicos conservados en el Fondo, se despliegan fragmentos de una historia colectiva: los inicios de la enseñanza de la sociología, los debates teóricos de los años sesenta y setenta, las interrupciones y exilios, y el proceso de reconstrucción institucional durante la posdictadura. El archivo aparece, así, como un aleph de la memoria universitaria, donde confluyen las huellas de una vida intelectual, la consolidación de una disciplina y los vaivenes de la historia reciente argentina."
+       ],
+       "\n"
+      ],
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "Palabras clave: "
+       ],
+       "Sociología en Argentina, Universidad Nacional de La Plata, Horacio José Pereyra, Historia disciplinar, Archivos personales.\n\t\t                         "
+      ],
+      [
+       "p",
+       {
+        "lang": "en"
+       },
+       [
+        "span",
+        {},
+        "Traces for reconstructing a history of sociology at the Universidad Nacional de La Plata"
+       ]
+      ],
+      "\n",
+      [
+       "p",
+       {
+        "lang": "en"
+       },
+       "\n",
+       [
+        "span",
+        {},
+        "Abstract:\n\t\t\t\t\t\t                           "
+       ],
+       [
+        "span",
+        {},
+        "The Horacio José Pereyra Collection, presented in December 2024 at the Faculty of Humanities and Education Sciences, National University of La Plata, offers a privileged lens on the ties between archives, memory, and disciplinary history. This dossier gathers  contributions from Miguel Kiperszmid, Nayla Pis Diez, and María Cristina Tortti, who, from different standpoints, evoke Professor Pereyra’s legacy and the many ways his trajectory illuminates the history of sociology in La Plata. Through the personal and academic documents preserved in the Collection, fragments of a collective history come into view: the early teaching of sociology, the theoretical debates of the 1960s and 1970s, the ruptures and exiles, and the institutional reconstruction during the democratic transition. The archive thus becomes an Aleph of university memory, where the traces of an intellectual life, the consolidation of a discipline, and the shifting tides of Argentina’s recent history converge."
+       ],
+       "\n"
+      ],
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "Keywords: "
+       ],
+       "Sociology in Argentina, Universidad Nacional de La Plata, Horacio José Pereyra, Disciplinary History, Personal Archives.\n                                "
+      ],
+      "\n"
+     ],
+     "\n"
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-articulo-body"
+    },
+    "\n",
+    [
+     "p",
+     {},
+     "\n",
+     [
+      "span",
+      {},
+      "Introducción"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Bajo el título “Indicios para reconstruir una historia de la sociología en la FaHCE” el 3 de diciembre de 2024 se realizó la presentación del ",
+     [
+      "span",
+      {},
+      "Fondo Horacio José Pereyra"
+     ],
+     ", realizada en el marco de las actividades pre-Jornadas correspondientes a las XII Jornadas de Sociología de la FaHCE-UNLP. El evento abrió un espacio singular para pensar los vínculos entre archivo, memoria e historia disciplinar."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "La presencia de Elsa Pereyra, hija del profesor, otorgó a su vez a la jornada una dimensión íntima, donde la evocación se entrelazó con la reflexión académica. En esa confluencia se hizo visible lo que un archivo encierra: no sólo documentos, sino huellas que enlazan generaciones, instituciones y proyectos colectivos."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "El Fondo Horacio Pereyra aparece, en este sentido, como un aleph: un punto donde conviven los rastros de una vida, las transformaciones de una disciplina y la memoria de una Universidad atravesada por agitados cambios sociales, políticos y culturales. Abrir sus cajas es volver a interrogar la historia y también evocar a aquellos que construyeron las instituciones que habitamos."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " En estas páginas se recuperan las intervenciones de aquella ocasión, apenas ajustadas en su forma, pero fieles a la cadencia oral con que fueron compartidas, con lo cual probablemente el lector encuentre alguna reiteración de la que seguro sabrá disculparnos. Las imágenes que acompañan las intervenciones pertenecen al Fondo ",
+     [
+      "a",
+      {
+       "href": "#t-gt1",
+       "id": "t-llamada-gt1-1"
+      },
+      "Horacio José Pereyra"
+     ],
+     " y a la Biblioteca de la FaHCE, y cuentan con el permiso de difusión correspondiente."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "span",
+     {
+      "id": "t-gt1"
+     },
+     "\n",
+     "\n",
+     [
+      "span",
+      {},
+      "Imagen 1"
+     ],
+     "\n",
+     "\n",
+     [
+      "figura",
+      {}
+     ],
+     [
+      "br",
+      {}
+     ],
+     "\n",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Fuente: Fondo Horacio José Pereyra."
+      ]
+     ],
+     "\n"
+    ],
+    "\n",
+    "\n",
+    [
+     "p",
+     {},
+     "\n",
+     [
+      "span",
+      {},
+      " El archivo Pereyra, un aleph para la memoria institucional de nuestra disciplina"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n",
+     [
+      "span",
+      {},
+      " Intervención de Miguel Kiperszmid"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Las instituciones universitarias y sus miembros, en el ejercicio de sus actividades, generan y reciben documentación. Con el transcurso del tiempo, este material no sólo se puede convertir en fuentes de primer orden, sino también constituir la memoria de nuestras instituciones y evidenciar cambios sociales, políticos y económicos de la sociedad. Entre sus múltiples funciones, BIBHUMA es depositaria de fondos personales e históricos. Se encarga de organizar, describir, conservar y garantizar el acceso a estos materiales, ya sea como fuentes para investigadores (como el caso de Nayla) o para difundir el material dentro de nuestra comunidad (por ejemplo a través de muestras)."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Dentro de este acervo, uno de los fondos más destacados es el Fondo Personal Horacio José Pereyra, el cual nos convoca hoy. A través de los documentos de este fondo se recorren diversos aspectos de su vida, su relevancia académica, la historia de nuestra disciplina en la facultad y, por supuesto, es posible explorar la historia social y política de nuestro país."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "El fondo está compuesto por ",
+     [
+      "span",
+      {},
+      "518 unidades documentales en soporte papel"
+     ],
+     ", conservadas en ",
+     [
+      "span",
+      {},
+      "12 cajas de archivo"
+     ],
+     [
+      "span",
+      {},
+      "y un contenedor de gran formato"
+     ],
+     ". Fue depositado en BIBHUMA en marzo de 2022, gracias a la generosidad de su hija, Elsa Beatriz Pereyra, y por intermediación del profesor Antonio Camou, docente de nuestra carrera."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n",
+     [
+      "span",
+      {},
+      " Breve recorrido por la vida y obra del profesor Pereyra"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Horacio José Pereyra se graduó como profesor de Historia y Geografía en nuestra facultad. Su carrera docente se desarrolló tanto en Humanidades como en la Facultad de Ciencias Económicas, donde llegó a ser decano entre 1973 y 1974. También ejerció la docencia, la investigación y la gestión institucional en la Universidad de Buenos Aires. Tuvo un rol preponderante en el crecimiento y renovación de la cátedra de Sociología General, transformaciones interrumpidas por la intervención de las universidades de 1974. A su regreso del exilio, retomó la docencia en Sociología General y asumió un papel clave como coordinador de la carrera de Sociología en la FaHCE, contribuyendo así a su institucionalización."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Además ejerció la consultoría y la asesoría técnica para diversos organismos nacionales e internacionales. Las temáticas de sus trabajos de investigación versan sobre historia social, política y económica argentina. "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n",
+     [
+      "span",
+      {},
+      "Estructura y contenido del archivo"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "El fondo es un reflejo fiel de su prolífica vida académica e intelectual."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Los documentos incluyen originales manuscritos y mecanografiados; correspondencia, apuntes para clases, notas y trabajos académicos, contiene también recortes de prensa, periódicos y folletos; fotocopias de artículos y libros; cianocopias, fotografías sueltas, resoluciones y notas académicas, documentación personal y papeles sueltos."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "El material se conserva agrupado en secciones, series y subseries identificadas durante el trabajo de clasificación. "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Voy a hacer una enumeración borgeana de cómo está organizado, aunque reducida para no abrumar, con el objetivo de cuenta de la diversidad documental propia del Archivo:  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n",
+     "\n"
+    ],
+    [
+     "ul",
+     {},
+     "\n",
+     [
+      "li",
+      {},
+      "\n",
+      [
+       "p",
+       {},
+       "Documentación personal: Acreditaciones, distinto tipo de correspondencia, tarjetas y documentos familiares. "
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "li",
+      {},
+      "\n",
+      [
+       "p",
+       {},
+       "Fotografías: tanto de registros personales como imágenes de actividades académicas"
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "li",
+      {},
+      "\n",
+      [
+       "p",
+       {},
+       "Documentos de actividades académicas y de gestión: Programas de estudio, apuntes, carpetas temáticas y material relacionado con su rol en instituciones académicas."
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "li",
+      {},
+      "\n",
+      [
+       "p",
+       {},
+       "Producción intelectual: Originales de sus escritos, materiales de trabajo y textos de otros autores."
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "li",
+      {},
+      "\n",
+      [
+       "p",
+       {},
+       "Colecciones documentales: \tRecortes de prensa, resoluciones institucionales y documentos hallados en su biblioteca personal."
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "li",
+      {},
+      "\n",
+      [
+       "p",
+       {},
+       "Poemas y varios: Completan el conjunto, ofreciendo una mirada a otras dimensiones  de su vida."
+      ],
+      "\n"
+     ],
+     "\n"
+    ],
+    "\n",
+    "\n",
+    [
+     "p",
+     {},
+     "Para la muestra, que podrán recorrer en Bibhuma hasta el 13 de diciembre, hemos seleccionado materiales de diverso tipo y formato, centrándonos en el paso del Prof. Pereyra por la cátedra de Sociología General pero incluyendo algunos materiales interesantes para dar cuenta de esta riqueza del fondo y el carácter multifacético de su figura. "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "También integran la muestra libros provenientes de su Biblioteca Personal, hoy parte de nuestra ",
+     [
+      "span",
+      {},
+      "Colección bibliográfica Pereyra"
+     ],
+     ". La selección incluye ejemplares que integran la bibliografía de Sociología General en el periodo 1967-73, así como otros que evidencian las lecturas de Horacio Pereyra durante este fructífero periodo. Muchos de estos libros contienen marcas, anotaciones e intervenciones realizadas por el propio Pereyra, lo que les otorga un valor adicional como testimonio de su pensamiento y método de trabajo."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Completamos la muestra una selección de currículas de Sociología General de nuestra colección de Programas. Elegimos una periodicidad más amplia, que nos brinda una perspectiva de la profundidad de los cambios curriculares durante el periodo."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Antes de cerrar esta intervención, quiero destacar la labor paciente y sostenida de les bibliotecaries y archivistas cuyo trabajo transforma estos documentos en un corpus; en archivos personales e históricos. Para poner en contexto, les cuento que la UNLP es la primera universidad argentina en contar con una red de archivos y catálogo en línea para todos sus fondos y colecciones archivísticas. En este proyecto, impulsado y coordinado por el Archivo Histórico de la UNLP, la Facultad de Humanidades y su biblioteca forman parte."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "El equipo encargado de la organización, preservación y custodia del Fondo, trabaja conforme a las más exigentes normas internacionales sobre estas cuestiones. Me refiero a Mariana Gaona, Marina Borrell, Victoria Calvente y Esteban Cuervo. Asimismo, reconocer a la curadora de nuestras muestras, Tamara Rutinelli, quien siempre hace lucir nuestro acervo. Quiero agradecer también la colaboración de Eugenia Orfini del Archivo de Mesa de Entradas, que hace un trabajo estupendo y ha colaborado también para esta muestra."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Para cerrar, ¿cuál es la importancia de resguardar estos materiales?"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Como decía Benjamin, ",
+     [
+      "span",
+      {},
+      "existe un misterioso punto de encuentro entre las generaciones pasadas y la nuestra. [...] El pasado lleva consigo un índice secreto que remite a la redención. "
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Conservar, estudiar y difundir este fondo no es solo un acto de memoria institucional o la preservación de una inestimable ",
+     [
+      "a",
+      {
+       "href": "#t-gt2",
+       "id": "t-llamada-gt2-1"
+      },
+      "fuente documental"
+     ],
+     ". Es la reafirmación de nuestro compromiso con la construcción de conocimiento crítico, colectivo y a contra pelo. También es un recurso invaluable para comprender cómo se insertan las trayectorias individuales en nuestra historia disciplinar. Es una invitación a reflexionar sobre cómo se construyeron las instituciones que habitamos y los desafíos que tuvieron que sortear quienes se cargaron al hombro esas responsabilidades. "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     ".."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "span",
+     {
+      "id": "t-gt2"
+     },
+     "\n",
+     "\n",
+     [
+      "span",
+      {},
+      "Imagen 2"
+     ],
+     "\n",
+     "\n",
+     "\n",
+     [
+      "span",
+      {},
+      "V Congreso Latinoamericano de Sociología, Montevideo, 1959"
+     ],
+     "\n",
+     "\n",
+     [
+      "figura",
+      {
+       "alt": "V Congreso Latinoamericano de Sociología, Montevideo, 1959"
+      }
+     ],
+     [
+      "br",
+      {}
+     ],
+     "\n",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Fuente: Fondo Horacio José Pereyra."
+      ]
+     ],
+     "\n"
+    ],
+    "\n",
+    "\n",
+    [
+     "p",
+     {},
+     "\n",
+     [
+      "span",
+      {},
+      "El Fondo y los trazos de la historia de la sociología en La Plata"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n",
+     [
+      "span",
+      {},
+      " Intervención de Nayla Pis Diez"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "El objetivo de mi intervención de esta tarde es compartir con ustedes en qué medida, el acceso al Fondo nos ha permitido conocer y reconstruir hechos/hitos/procesos (algunos exitosos, otros truncos) de la historia de la sociología en la UNLP previa al golpe de Estado de 1976. La intención con la que accedimos fue de pensar no solamente la trayectoria de Pereyra, la biografía personal, sino también, articular esa vida con una trayectoria colectiva e institucional que incluye espacios como la cátedra de Sociología General, la FAHCE, la Facultad de Ciencias Económicas de la UNLP donde fue decano y jefe del Departamento de Ciencias Sociales. Asimismo, esas trayectorias las pensamos insertas en procesos típicos de la época, como fueran la creciente politización de variados ámbitos sociales (el universitario e intelectual, entre ellos), los inicios de la masificación y más particularmente, la instalación de la sociología, las modernas Ciencias Sociales en La Plata y las disputas disciplinares.   "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Es importante decir que dichas historias tienen importancia en el campo de estudios sobre la sociología argentina donde sobre el caso platense no hay investigaciones sistemáticas. Esto podemos explicarlo por el hecho de que la carrera en la UNLP recién logró constituirse en su universidad pública en los años noventa; además de que el despliegue y los conflictos de la disciplina en Buenos Aires captaron la atención académica casi en su totalidad, de una forma que recién en los últimos años se ha comenzado a revertir. Ahora bien, frente a esta intención analítica y frente a este escenario histórico cabe preguntarnos ¿qué fuentes y qué testimonios escritos aparecen y contribuyen a esa tarea? ¿Qué fuentes encontramos en el Fondo que nos permiten dilucidar esa historia?"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "A continuación, dividiré mi intervención en tres, nombrando al mismo tiempo, tres hitos en la historia de la sociología platense que las fuentes escritas del Fondo visibilizan:"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n",
+     [
+      "span",
+      {},
+      " 1. La carrera que no fue y el Curso de Especialización Sociológica para graduados universitarios, 1965/1966"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "En abril de 1965 se presentó a debate la creación de un Curso de Especialización Sociológica para Graduados Universitarios, radicado en dicha Facultad aunque con una fuerte orientación económica. La primera presentación fue realizada por el Centro de Estudiantes de Humanidades, con la firma de José María Galli (su vice presidente). A su vez, los Fundamentos y el Plan de Estudios llevaban las firmas de dos integrantes de una cátedra de Sociología General que, desde 1963, encabezaba Horacio Pereyra y ex dirigentes estudiantiles de Estudiantes Reformistas, la agrupación que, ligada al comunismo, actuaba en la Facultad. El proyecto tenía una duración de dos años y estaba organizado a partir de siete materias obligatorias, tres optativas (a elegir entre trece) y doscientas horas de investigación. Además, si de las obligatorias solamente una se cursaba en la Facultad de Ciencias Económicas (FCE), de entre las Optativas, ocho de ellas estaban radicadas en esa Facultad. El curso del proyecto fue el siguiente: llegó al Consejo Superior e involucró a tres Facultades más. Antes se le pidió opinión a Norberto Rodríguez Bustamante, quien propició el debate en torno a la creación de la carrera y un Instituto de Sociología, consiguiendo fondos y articulando con organismos provinciales e internacionales: ",
+     [
+      "span",
+      {},
+      "Las humanidades clásicas han de complementarse con las modernas, incorporando la metodología científica al estudio de los problemas empíricos (…) no desplazan a las materias tradicionales, las complementan; al servicio de (…) los propósitos de asegurar la mayor eficacia en el análisis de los más complejos problemas de convivencia."
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "¿Qué sabemos de este debate? Tuvo su curso en el Consejo Superior, pero quedó archivado mediando 1967. Pero el curso sí se hizo, en 1966, involucrando a alrededor de 100 graduados. Esto lo dice Pereyra en una nota y lo encontramos en pedidos de la FAHCE al Colegio Nacional de dos aulas; a lo que sumamos la efectiva realización de dos seminarios que fueron suspendidos en diciembre de 1966, información vertida por una testimoniante. Pereyra, además, menciona esto en un debate en 1970 sobre la creación de una Licenciatura en Sociología en la Facultad de Ciencias Jurídicas."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n",
+     [
+      "span",
+      {},
+      "2. Los inicios de la universidad de masas"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Entre 1966 y 1974 la cantidad de estudiantes matriculados en la UNLP se duplicó, en sintonía con la tendencia nacional. Encontramos en el Fondo una primera traducción del crecimiento de la matrícula universitaria en la cátedra: se trata de los sucesivos pedidos de Pereyra de 1968 y 1969 para sumar cargos rentados. Los mismos correspondían a la necesidad de hacer frente a cursadas de entre 300 y 350 estudiantes, sumamente heterogéneas. La cátedra se dictaba en los primeros años de varias carreras, asistiendo a ella (de acuerdo a las notas) estudiantes de Psicología, Filosofía, Historia, Ciencias de la Educación, Educación Física y Antropología (la cursaban como Optativa). Hacia 1972 el crecimiento fue exponencial y llegó a tener 30 docentes, contando todos los rangos, incluidos los Ayudantes Alumnos. No todos pero en su mayoría, los cargos Diplomados eran no concursados y no pagos (o Ad Honorem). Han dicho protagonistas de la cátedra, en varios testimonios, que su camada, su generación fue protagonista del pasaje de una FAHCE chica, casi elitista, donde todos se conocían, a otra Facultad marcada por la masividad. Recordemos además que en 1970 empieza a construirse el edificio de Calle 48, y para 1972, ya hay testimonios de que se cursaba en los subsuelos. "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n",
+     [
+      "span",
+      {},
+      "3. Los debates intradisciplinares"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Finalmente, quiero agregar que lo que se encuentra en la muestra es también una serie histórica de ",
+     [
+      "a",
+      {
+       "href": "#t-gt3",
+       "id": "t-llamada-gt3-1"
+      },
+      "programas"
+     ],
+     " que va de 1967 a 1974. Pereyra estuvo al frente de la cátedra hasta comienzos de 1971; luego de esta fecha quedaron al frente Pucciarelli y Sazbón."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Al observar los programas como fuente histórica podemos notar varias cuestiones sobre la “racionalidad” de la época. Esto es, las formas cómo vivieron las y los actores el momento y las cuestiones que a su actividad correspondían. Enumero a continuación algunas cuestiones, para continuar pensado: 1. lo más evidente, está dado por los cambios al interior de la cátedra; y los grandes debates teórico-sociológicos de la época, en particular, desde el Marxismo con el Estructural Funcionalismo de T. Parsons y la Sociología Científica de G. Germani; 2. las novedades intelectuales y las corrientes por entonces en auge, en Europa (el Estructuralismo Francés) y América Latina (el Desarrollismo y la Teoría de la Dependencia); 3. la convivencia de todo con la politización de la vida universidad y la radicalización hacia la izquierda, de las ideas, las acciones y las militancias."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Ahora sí, para cerrar quisiera decir que 1973 es un año que condensa varios elementos antes desagregados: grandes desplazamientos teóricos, corrimiento más claro también de Pereyra y dedicación plena en la Facultad de Ciencias Económicas de la UNLP, donde era titular de Introducción a las Ciencias Sociales, fue Jefe del Departamento e iría a ser Decano durante la gestión de Rodolfo Agoglia en el Rectorado de la misma universidad."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "span",
+     {
+      "id": "t-gt3"
+     },
+     "\n",
+     "\n",
+     [
+      "span",
+      {},
+      "Imagen 3"
+     ],
+     "\n",
+     "\n",
+     "\n",
+     [
+      "span",
+      {},
+      "Programa de Sociología general, año 1967"
+     ],
+     "\n",
+     "\n",
+     [
+      "figura",
+      {
+       "alt": "Programa de Sociología general, año 1967"
+      }
+     ],
+     [
+      "br",
+      {}
+     ],
+     "\n",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Fuente: Colección Programas, Biblioteca de la Facultad de Humanidades y Cs. de la Educación, Universidad Nacional de La Plata."
+      ]
+     ],
+     "\n"
+    ],
+    "\n",
+    "\n",
+    [
+     "p",
+     {},
+     "\n",
+     [
+      "span",
+      {},
+      "Evocación de una trayectoria y de un estilo de construcción académica"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n",
+     [
+      "span",
+      {},
+      " Intervención de María Cristina Tortti"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n",
+     [
+      "span",
+      {},
+      "I-"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Con estas notas",
+     [
+      "sup",
+      {},
+      [
+       "a",
+       {
+        "href": "#t-fn1",
+        "id": "t-llamada-fn1-1"
+       },
+       "1"
+      ]
+     ],
+     ", en una suerte de continuidad con la reciente celebración, de los 30 años de la actual Licenciatura en Sociología, quisiera compartir algunas reflexiones sobre una primera exploración del ",
+     [
+      "span",
+      {},
+      "Archivo del Profesor Horacio José Pereyra"
+     ],
+     ", con el cual cuenta la Facultad gracias al generoso gesto de su hija ",
+     [
+      "span",
+      {},
+      "Elsa"
+     ],
+     "."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Seguramente, el comienzo de este buceo en sus papeles, nos permitirá ",
+     [
+      "span",
+      {},
+      "hallar indicios, y mucho más que indicios"
+     ],
+     ", relativos a la historia de la Sociología en esta Facultad, ya que el Prof. Pereyra estuvo íntimamente ligado a la ",
+     [
+      "span",
+      {},
+      "instalación e institucionalización de la disciplina"
+     ],
+     " entre nosotros."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n",
+     [
+      "span",
+      {},
+      "Por mi parte, no iré mucho más allá de una evocación"
+     ],
+     " organizada a partir de",
+     [
+      "span",
+      {},
+      " recuerdos de la “experiencia”"
+     ],
+     ", institucional y personal, de mi trabajo con él, sazonada con alguna ",
+     [
+      "span",
+      {},
+      "información dispersa"
+     ],
+     " -y no siempre muy precisa."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Respecto de la “experiencia” de haber trabajado con él, si bien no demasiado extendida en el tiempo, está ligada a momentos importantes para mí. En primer lugar, porque mi ",
+     [
+      "span",
+      {},
+      "inserción -real y formal- "
+     ],
+     "en la Facultad, se dio en la Cátedra de Sociología General en 1984, cuando después de la dictadura y durante la “normalización” universitaria, él retomaba su cargo de Profesor Titular. Pero además, porque ",
+     [
+      "span",
+      {},
+      "el trato y la atención"
+     ],
+     " que me brindó en ese momento inicial de mi carrera hizo que quedara ligada a él por un ",
+     [
+      "span",
+      {},
+      "fuerte lazo de gratitud"
+     ],
+     "."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "En relación con la muy general información que puedo brindar, quiero aclarar que no avanzaré mucho más allá de algunas menciones a su ",
+     [
+      "span",
+      {},
+      "trayectoria"
+     ],
+     " como profesor e investigador, y a ",
+     [
+      "span",
+      {},
+      "su aporte a la construcción de la Sociología"
+     ],
+     " en esta Facultad."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n",
+     [
+      "span",
+      {},
+      "II-"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Pasando a una rápida semblanza de su perfil intelectual, me limitaré a algunos aspectos de su ",
+     [
+      "span",
+      {},
+      "trayectoria"
+     ],
+     ". Comienzo recordando que, graduado como ",
+     [
+      "span",
+      {},
+      "Profesor de Historia"
+     ],
+     " en esta Facultad, desarrolló una perspectiva aperturista hacia las Ciencias Sociales, a partir de su inicial inclinación hacia la Historia Social y Económica -al igual que su amigo y colega, el Profesor José Panettieri."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "En cuanto a su ",
+     [
+      "span",
+      {},
+      "formación en Sociología"
+     ],
+     ", además de sus propias lecturas, ésta se nutrió del trabajo en común, desde fines de los años cincuenta, con figuras tales como Sergio Bagú - Universidad de Buenos Aires- y Norberto Rodríguez Bustamante en la Cátedra de Sociología Argentina de esta Facultad. En ambos casos alcanzó el grado de Profesor Adjunto."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "En la misma época mantenía vínculos con grupos e iniciativas que, desde diversos ámbitos políticos -él era peronista- hicieron florecer ",
+     [
+      "span",
+      {},
+      "los estudios sobre el “desarrollo” y el pensamiento de la CEPAL"
+     ],
+     ". Grupos e iniciativas que compartían un común interés por lo académico y lo político: diría, más bien, por las “políticas para el desarrollo” y la “planificación”. Uno de esos grupos fue el que, a fines de los años cincuenta, dio origen a la revista ",
+     [
+      "span",
+      {},
+      "Desarrollo Económico"
+     ],
+     ", radicada inicialmente en la Junta de Planificación Económica de la provincia de Buenos Aires, dependiente del ministro Aldo Ferrer, durante  la Gobernación del Dr. Oscar Alende.",
+     [
+      "sup",
+      {},
+      [
+       "a",
+       {
+        "href": "#t-fn2",
+        "id": "t-llamada-fn2-1"
+       },
+       "2"
+      ]
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Otro ámbito significativo en su formación se localizó en el ",
+     [
+      "span",
+      {},
+      "Consejo Federal de Inversiones"
+     ],
+     ", organismo destinado a la planificación, el desarrollo y la regionalización de las políticas públicas -también creado en aquellos años-, al cual dedicó muchos años de trabajo."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Finalmente cabe señalar que esos confluyentes focos de interés del Profesor Pereyra han quedado reflejados en varios de sus ",
+     [
+      "span",
+      {},
+      "trabajos publicados"
+     ],
+     " en la ",
+     [
+      "span",
+      {},
+      "Revista de la Universidad de La Plata"
+     ],
+     " -aunque no únicamente en ella.",
+     [
+      "sup",
+      {},
+      [
+       "a",
+       {
+        "href": "#t-fn3",
+        "id": "t-llamada-fn3-1"
+       },
+       "3"
+      ]
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n",
+     [
+      "span",
+      {},
+      "III-"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Más cercanamente a nosotros, vale recordar que en 1963 accedió al ",
+     [
+      "span",
+      {},
+      "Profesor Titular de Sociología General"
+     ],
+     " -Departamento de Filosofía-, cátedra inaugurada en 1955 por Gino Germani -sucedido luego por Norberto Rodríguez Bustamante y por Juan Carlos Marín durante 1962/63. De modo que el Profesor Pereyra fue el ",
+     [
+      "span",
+      {},
+      "primer Titular “local” de Sociología General"
+     ],
+     ", acompañado inicialmente por un Auxiliar Docente, Alfredo Pucciarelli, “heredado” de la cátedra de Marín."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Luego, en poco tiempo, esa pequeña cátedra empezó crecer al incorporar auxiliares y adjuntos -además de Pucciarelli-, entre los que se contaron Oscar Colman, José Sazbón, Julio Godio, Sofía Villarreal y Alejandro Ferreiroa, entre otros. Unos años después, los del tránsito hacia los años setenta y, a la vez, los de mayor crecimiento y politización, ",
+     [
+      "span",
+      {},
+      "Pereyra decide concentrar sus actividades en la Facultad de Ciencias Económicas"
+     ],
+     ", y dejar a Pucciarelli a cargo de la Cátedra."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Quienes recuerdan aquella Cátedra, coinciden en que, mientras Pereyra estuvo al frente, en ella convivían diversas perspectivas teóricas y políticas -germanianos, marxistas, peronistas diversos. Al decir de Pucciarelli, Pereyra se ubicaba políticamente en una ",
+     [
+      "span",
+      {},
+      "posición “nacional, desarrollista, modernizadora”, al tiempo que en sociología “siempre mantuvo una ´matriz germaniana´, aunque con permanente actitud de abrir y oxigenar”"
+     ],
+     "."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Por eso pienso que su principal huella en lo académico ha sido la del cultivo de la “pluralidad” y la convivencia de los “diverso”, en una Cátedra que ya era casi una “escuela” de formación de sociólogos."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Hacia 1973, mientras dura su licencia en Sociología General, Pereyra es designado ",
+     [
+      "span",
+      {},
+      "Decano Interventor de la Facultad de Ciencias Económicas"
+     ],
+     " (nota personal: 1973 es el año en que yo me incorporo a Sociología General, por lo cual entonces no lo conocí). Poco después, la otra Intervención a la Universidad, la de 1974, hizo que como muchos otros profesores -incluidos casi todos los de Sociología General- Pereyra ",
+     [
+      "span",
+      {},
+      "fuera cesanteado y debiera exiliarse"
+     ],
+     "."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n",
+     [
+      "span",
+      {},
+      "La historia recomienza diez años después, en 1984"
+     ],
+     ", cuando durante la “normalización” es ",
+     [
+      "span",
+      {},
+      "reincorporado a Sociología General"
+     ],
+     ", cátedra a la que muy pronto, se reintegrarán también Pucciarelli y Colman, en quienes iría delegando el dictado de la materia."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Al mismo tiempo, Pereyra ",
+     [
+      "span",
+      {},
+      "acompañaba el proyecto de creación de la Licenciatura en Sociología/Plan 1985"
+     ],
+     " -cuyo Coordinador era Pucciarelli-; no sólo se sumó al cuerpo de profesores, sino que durante 1988 se hizo cargo de su Coordinación."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Luego comenzaría otra historia, tanto para Sociología General como para la Licenciatura, cuando tanto Pereyra como Pucciarelli, Colman y otros profesores, van dejando esta Facultad para concentrar sus tareas en la Universidad de Buenos Aires."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n",
+     [
+      "span",
+      {},
+      "IV-"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Si se me permite, volvería un momento a mi “experiencia” personal con Pereyra, a quien como dije recién conocí en 1984, cuando me presenté al llamado a Selección de Auxiliares para Sociología General."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Allí comenzó a tejerse el lazo de “gratitud” del que hablé; por eso me gustaría mencionar ",
+     [
+      "span",
+      {},
+      "algunos episodios, y con ellos pintar lo que llamaría “el estilo Pereyra”"
+     ],
+     ":"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "-cuando me presenté a la selección, no sólo no puso ningún reparo al hecho de que yo proviniera de una universidad privada -reparos que otros sí tuvieron-, sino que además quiso que, en la organización de la Cátedra, ocupara el cargo de JTP (me había presentado sólo para el cargo de Ayudante). Pero, ¿cómo me enteré yo de eso? Ocurrió que unos días después de la selección, al cruzarnos en una de las escaleras del edificio de la calle 48, con voz estruendosa me larga:"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "p",
+     {},
+     "\n",
+     [
+      "span",
+      {},
+      " Ud. recién llega y ya me trae problemas! Yo quiero que sea JTP, pero como Ud. no se anotó, ahora estoy obligado a hacer un montón de papeles para designarla!."
+     ],
+     "\n"
+    ],
+    "\n",
+    "\n",
+    [
+     "p",
+     {},
+     "\n",
+     [
+      "span",
+      {},
+      "Típico de él: esconder un elogio en un reproche"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "-antes hablé de “gratitud” porque, sin conocerme, depositó ",
+     [
+      "span",
+      {},
+      "confianza"
+     ],
+     " en mí y me dio ",
+     [
+      "span",
+      {},
+      "libertad"
+     ],
+     " para trabajar, siendo que mi casi único contacto con él era el que se daba después de sus teóricos -a los que yo asistía religiosamente. Y si bien él no participaba de las reuniones de cátedra, que estaban a mi cargo, ",
+     [
+      "span",
+      {},
+      "no dejaba de marcar límites; era un Profesor con todas las letras"
+     ],
+     ". Cuando en una ocasión le comenté que “en reunión de cátedra habíamos pensado que en la bibliografía del programa de Trabajos Prácticos era necesario bla, bla, bla”, rápidamente me cortó:"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "p",
+     {},
+     "\n",
+     [
+      "span",
+      {},
+      "No se confunda, esto es una cátedra, no una asamblea."
+     ],
+     "\n"
+    ],
+    "\n",
+    "\n",
+    [
+     "p",
+     {},
+     "-debo decir también que se molestaba cuando “desde arriba” o por alguna “presión”, se tomaban decisiones sobre su cátedra: ",
+     [
+      "span",
+      {},
+      "creo que, además de otras cosas, heredé de él el gesto de la “autonomía”"
+     ],
+     "."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "-por otra parte, necesito agregar que, en esos mismos años, me alentó en mi trabajo de investigación como becaria -aunque no era mi director-, y que fue la primera persona que me ayudó a publicar: le entusiasmaba lo que yo escribía sobre los socialistas de los años treinta y la posterior adhesión obrera al peronismo. Pero, ",
+     [
+      "span",
+      {},
+      "fiel a su “estilo”"
+     ],
+     " -y riéndose a carcajadas- en un momento me suelta:"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "p",
+     {},
+     "\n",
+     [
+      "span",
+      {},
+      " No entiendo por qué, una chica seria, trabajadora y de barrio como usted no es peronista."
+     ],
+     "\n"
+    ],
+    "\n",
+    "\n",
+    [
+     "p",
+     {},
+     "elogio y chicana."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n",
+     [
+      "span",
+      {},
+      "V-"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Sólo me queda decir que, con estos comentarios anecdóticos quise transmitir algo de la imagen de una persona, no sólo muy “querible” y “generosa”, sino además, y lo subrayaría, ",
+     [
+      "span",
+      {},
+      "ajeno a toda postura “elitista”"
+     ],
+     "."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Quisiera cerrar sintetizando lo que considero lo mejor de su legado, para nosotros y para el desarrollo de la Sociología en la Facultad:"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "-en primer lugar, sin duda, ",
+     [
+      "span",
+      {},
+      "su largo trabajo de construcción de Sociología General, así como su aporte a la puesta en marcha de la primera Licenciatura en Sociología en la Facultad y en esta Universidad"
+     ],
+     "."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "-en segundo lugar, y no menos importante, su aporte a la ",
+     [
+      "span",
+      {},
+      "instalación de un “estilo” de conducción académica “abierto y plural”"
+     ],
+     ", estilo que esperamos haber sabido mantener."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "span",
+     {
+      "id": "t-gt5"
+     },
+     "\n",
+     "\n",
+     [
+      "span",
+      {},
+      "Imagen 4"
+     ],
+     "\n",
+     "\n",
+     "\n",
+     [
+      "span",
+      {},
+      "Borrador de carta a través de la que el Prof. Pereyra solicita al Jefe del Departamento el otorgamiento de dos cargos de ayudantes diplomados que estaban asignados con anterioridad a su cátedra, así como solicita que sean rentados o nombrados ad-honorem un grupo de personas cuyos nombres se mencionan en la carta"
+     ],
+     "\n",
+     "\n",
+     [
+      "figura",
+      {
+       "alt": "Borrador de carta a través de la que el Prof. Pereyra solicita al Jefe del Departamento el otorgamiento de dos cargos de ayudantes diplomados que estaban asignados con anterioridad a su cátedra, así como solicita que sean rentados o nombrados ad-honorem un grupo de personas cuyos nombres se mencionan en la carta"
+      }
+     ],
+     [
+      "br",
+      {}
+     ],
+     "\n",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Fuente: Fondo Horacio José Pereyra."
+      ]
+     ],
+     "\n"
+    ],
+    "\n",
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "span",
+     {
+      "id": "t-gt6"
+     },
+     "\n",
+     "\n",
+     [
+      "span",
+      {},
+      "Imagen 5"
+     ],
+     "\n",
+     "\n",
+     "\n",
+     [
+      "span",
+      {},
+      "Conservación del Fondo Pereyra"
+     ],
+     "\n",
+     "\n",
+     [
+      "figura",
+      {
+       "alt": "Conservación del Fondo Pereyra"
+      }
+     ],
+     [
+      "br",
+      {}
+     ],
+     "\n",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Fuente: fotografía propia."
+      ]
+     ],
+     "\n"
+    ],
+    "\n",
+    "\n"
+   ],
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-back"
+    },
+    "\n",
+    [
+     "p",
+     {},
+     "Notas"
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-fn1"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "1"
+     ],
+     " Estas notas constituyen una versión revisada de las palabras\tpronunciadas el 3 de diciembre de 2024, en el panel “Presentación del Fondo Documental ´Horacio Pereyra´: indicios para reconstruir una historia de la Sociología en la FAHCE”, realizado en el marco de las XII Jornadas de Sociología de la UNLP. Dicho Fondo contiene un valioso material (documentos oficiales, correspondencia, programas de asignaturas, informes, libros, folletos y fotografías), desde el cual es posible esbozar una biografía intelectual y, a la \tvez, reconstruir la historia de la disciplina en la UNLP. El Prof. Pereyra nació en La Plata en 1929 y falleció en 1992."
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-fn2"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "2"
+     ],
+     " En los primeros años de la década del sesenta, la revista pasó al recién creado IDES (Instituto de Desarrollo Económico y Social)."
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-fn3"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "3"
+     ],
+     " Entre otros: “Notas sobre la Economía del litoral argentino” (1960) y “¿Es la Argentina una sociedad de masas?” (1965), ambas en la Revista de la Universidad Nacional de La Plata; o “Algunas hipótesis para el análisis del peronismo. 1945-1955” (1988), Editorial Biblos."
+    ],
+    "\n\n",
+    [
+     "br",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n",
+     [
+      "span",
+      {},
+      "Recepción: "
+     ],
+     " 01 octubre  2025"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n",
+     [
+      "span",
+      {},
+      "Aprobación: "
+     ],
+     " 14 noviembre  2025"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n",
+     [
+      "span",
+      {},
+      "Publicación: "
+     ],
+     " 01 febrero  2026"
+    ],
+    "\n",
+    [
+     "br",
+     {}
+    ],
+    "\n",
+    [
+     "br",
+     {}
+    ],
+    "\n\n",
+    "\n",
+    [
+     "a",
+     {
+      "href": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+     },
+     " ",
+     [
+      "figura",
+      {
+       "alt": "Imagen"
+      }
+     ],
+     " Obra bajo Licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional"
+    ],
+    "\n",
+    [
+     "figura",
+     {
+      "alt": "Imagen"
+     }
+    ],
+    "\n",
+    "\n"
+   ],
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-logo-derecha"
+    },
+    "\n",
+    [
+     "a",
+     {
+      "href": "https://www.fahce.unlp.edu.ar/facultad/secretarias-y-prosecretarias/prosecretaria-de-gestion-editorial-y-difusion/ediciones-de-la-fahce"
+     },
+     " \n",
+     [
+      "figura",
+      {
+       "alt": "ediciones_fahce"
+      }
+     ],
+     "\n"
+    ],
+    "\n"
+   ],
+   "\n"
+  ],
+  "\n",
+  [
+   "span",
+   {
+    "id": "t-creditos"
+   },
+   "\n",
+   [
+    "span",
+    {},
+    [
+     "figura",
+     {}
+    ],
+    [
+     "sup",
+     {},
+     "Ediciones de la FaHCE utiliza"
+    ],
+    [
+     "a",
+     {
+      "href": "http://portal.amelica.org/ameli"
+     },
+     [
+      "figura",
+      {}
+     ]
+    ],
+    " ",
+    [
+     "figura",
+     {}
+    ]
+   ],
+   [
+    "br",
+    {}
+   ],
+   "\n",
+   "\n"
+  ],
+  "\n"
+ ]
+}

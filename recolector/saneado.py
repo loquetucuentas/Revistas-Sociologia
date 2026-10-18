@@ -265,7 +265,7 @@ _JATS_EN_LINEA = {"italic": "i", "bold": "b", "underline": "u", "sup": "sup", "s
                   "month": "span", "patent": "span", "part-title": "span", "data-title": "span",
                   "version": "span", "series": "span", "gov": "span", "std": "span", "annotation": "span",
                   "label": "span", "attrib": "cite", "sig": "span", "sig-block": "p", "x": "span"}
-_JATS_BLOQUES = {"p": "p", "disp-quote": "blockquote", "boxed-text": "aside", "def-list": "dl",
+_JATS_BLOQUES = {"p": "p", "disp-quote": "blockquote", "boxed-text": "aside", "table-wrap-foot": "aside", "def-list": "dl",
                  "term": "dt", "def": "dd", "verse-group": "blockquote", "verse-line": "p", "preformat": "pre",
                  "statement": "aside", "ack": "section", "app-group": "section", "app": "section",
                  "glossary": "section", "notes": "section", "fn-group": "section", "ref-list": "section",
@@ -293,8 +293,7 @@ def convertir_jats(raiz, idioma_pagina=None):
         raise NoConvertible("El XML JATS no incluye el cuerpo del artículo.")
     for elemento in raiz.iter():
         nombre = _local(elemento.tag)
-        if nombre in ("math", "tex-math", "inline-formula", "disp-formula", "media", "inline-graphic",
-                      "alternatives"):
+        if nombre in ("math", "tex-math", "inline-formula", "disp-formula", "media", "alternatives"):
             raise NoConvertible(f"El texto contiene un elemento que no se puede reproducir con fidelidad: <{nombre}>.")
 
     idioma_documento = normalizar_idioma(raiz.get(XML_LANG)) or idioma_pagina or "es"
@@ -319,7 +318,7 @@ def convertir_jats(raiz, idioma_pagina=None):
 
     def convertir(elemento, nivel):
         nombre = _local(elemento.tag)
-        if nombre in ("graphic",):
+        if nombre in ("graphic", "inline-graphic"):
             alt = elemento.find("alt-text")
             descripcion = (texto_xml(alt).strip() if alt is not None else "")
             return [["figura", {"alt": descripcion} if descripcion else {}]]

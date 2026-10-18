@@ -1,26 +1,1029 @@
 # Texto completo: artículos incluidos y excluidos
 
-Generado el 2026-10-18T09:54:08+00:00. Solo se muestra el texto completo de los artículos cuya licencia, declarada en
+Generado el 2026-10-18T11:53:56+00:00. Solo se muestra el texto completo de los artículos cuya licencia, declarada en
 Crossref y sin contradicción en la página del artículo, es CC BY, CC BY-SA, CC BY-NC o CC BY-NC-SA,
 y de los que la revista publica una versión HTML o XML JATS que se ha podido convertir con fidelidad.
 Los demás conservan su ficha, su resumen y el enlace al original.
 
 ## Resumen
 
-Con lectura completa en la aplicación: 0 artículos.
-Licencia admitida, pero solo hay PDF: 0 artículos.
-Excluidos: 913 artículos.
-Pendientes de un nuevo intento: 996 artículos.
+Con lectura completa en la aplicación: 133 artículos.
+Licencia admitida, pero solo hay PDF: 297 artículos.
+Excluidos: 1203 artículos.
+Pendientes de un nuevo intento: 276 artículos.
 
-Revistas con al menos un artículo legible en la aplicación: 0.
+Revistas con al menos un artículo legible en la aplicación: 9.
 
-## Motivos de exclusión
+## Motivos por los que no se muestra el texto
 
-1. Todavía no se ha intentado descargar el texto. 996 artículos.
-2. Crossref no declara ninguna licencia para el artículo. 532 artículos.
-3. La licencia no permite obras derivadas (ND). 381 artículos.
+1. Crossref no declara ninguna licencia para el artículo. 532 artículos.
+2. La licencia no permite obras derivadas (ND). 381 artículos.
+3. La revista solo ofrece el texto completo en PDF, que no se usa. 297 artículos.
+4. No se ha podido descargar la página del artículo. 276 artículos.
+5. El servidor de la revista ha denegado el acceso; no se ha insistido. 181 artículos.
+6. La página del artículo declara una licencia distinta a la de Crossref. 55 artículos.
+7. robots.txt de la revista no permite descargar la página. 31 artículos.
+8. El HTML o XML no se ha podido convertir con fidelidad. 23 artículos.
+
+## Servidores que no se han consultado o se han dejado de consultar
+
+journals.openedition.org: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+periodicos.ufpe.br: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+polipapers.upv.es: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+publicaciones.sociales.uba.ar: Sin conexión con el servidor: Remote end closed connection without response.
+revistas.ues.edu.sv: Sin conexión con el servidor: Tunnel connection failed: 502 Bad Gateway.
+revistas.uminho.pt: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+revistas.unal.edu.co: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+revistasacademicas.ucol.mx: No se ha podido leer robots.txt (respuesta 468); no se consulta el servidor.
+www.scielo.br: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+## Licencia admitida, pero solo hay PDF
+
+### Argumentos : Revista de Crítica Social
+
+10.62174/arg.2025.10818, «ChatGPT y educación. Adopción y usos por parte de estudiantes en la Argentina». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.62174/arg.2025.10819, «Barreras y facilitadores en los procesos educativos de estudiantes con discapacidad en las plataformas durante la pandemia de COVID-19». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.62174/arg.2025.10826, «Creación tecnológica situada y agencia feminista en plataformas digitales: el caso de She Taxi en Argentina». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.62174/arg.2025.10827, «Cacerolazos en la World Wide Web. Exploraciones de repertorios de protesta durante la web temprana en Argentina (2001-2002)». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.62174/arg.2025.10830, «Ciudad Inteligente y Estado eficiente: sueños y desvelos del caso cordobés». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.62174/arg.2025.10833, «Del test tripartito a los términos y condiciones: tensiones entre Brasil y X (2020-2024) en torno a la regulación y moderación del debate público». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.62174/arg.2025.10834, «Contingencia y determinación en la sociología histórica de Michael Mann. Los casos de la Primera Guerra Mundial y el ascenso del Fascismo». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.62174/arg.2025.10835, «Democracia y Política en F. A. Hayek. Debates y disyuntivas». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.62174/arg.2026.11206, «El dogma y el misterio: institución y discurso en un diálogo entre las obras de Ernesto Laclau y Emilio de Ípola». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.62174/arg.2026.11207, «Las Islas Malvinas, la Patagonia y la Antártida en la concepción de las élites gobernantes argentinas: un análisis desde la formación del estado nacional a la actualidad». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.62174/arg.2026.11209, «La estética audiovisual de La Libertad Avanza en la campaña por las elecciones legislativas 2021 (Buenos Aires, Argentina).Estudio de la corporeidad de Javier Milei». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.62174/arg.2026.11210, «Electromovilidad y transiciones digitales: el ascenso de China en el mercado global de vehículos eléctricos». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.62174/arg.2026.11211, «Ética y desarrollo capitalista: una perspectiva histórico-crítica de sus fundamentos y contradicciones». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.62174/arg.2026.11212, «La comparación en ciencias sociales: hacia nuevos objetos, enfoques, metodologías». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.62174/arg.2026.11213, «La comparación en ciencias sociales: hacia nuevos objetos, enfoques, metodologías». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.62174/arg.2026.11214, «Peras con manzanas: El método comparado y los desafíos de investigar desde la periferia». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.62174/arg.2026.11217, «Cruces Artivistas / Artivist Crossings. Experiencias interdisciplinarias en torno a la crisis socio-ambiental». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.62174/arg.2026.11219, «Percepciones sobre la tolerancia hacia la violencia sexual: un estudio comparativo entre España y Polonia». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.62174/arg.2026.11220, «Metodologías de la comparación subnacional y estudios locales en América Latina: tendencias analíticas y aplicaciones empíricas en Argentina». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.62174/arg.2026.11221, «Inseguridad y miedo al delito en Brasil y Chile: construcción social, datos cuantitativos y dimensión política». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.62174/arg.2026.11222, «Comparando agendas de investigación en torno a la relación migración, fronteras y desigualdad social en la Unión Europea y en Sud América. Bases para emprender el diálogo». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.62174/arg.2026.11223, «Las clases sociales en el ojo del huracán. Posicionamiento subjetivo de clase en 16 países latinoamericanos». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.62174/arg.2026.11224, «¿El fin de la Era de la Dualización? Un análisis comparado de cincuenta años de reformas laborales en España e Italia». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.62174/arg.2026.11225, «Políticas públicas en discapacidad en Argentina e Inglaterra: derechos en retroceso». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.62174/arg.2026.11230, «Tolerancia adaptativa del soborno en el sistema-mundo». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.62174/arg.2026.11233, «Análisis comparado de los cambios en la estructura socio-ocupacional en Bolivia y España (2001-2021)». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.62174/arg.2026.11234, «Tipos de trayectorias laborales del trabajo autónomo en Chile y España: itinerarios biográficos». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.62174/arg.2026.11235, «Las bases de la solidaridad en perspectiva comparada: Empresas recuperadas, MONDRAGON y la autogestión yugoslava». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.62174/arg.2026.11237, «Número 33, Equipo editorial». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.62174/arg.2026.11238, «Número 33». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+### Labor & Engenho
+
+10.20396/labore.v17i00.8671511, «O estatuto da cidade e seu potencial na implementação de infraestruturas verdes». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.20396/labore.v17i00.8671685, «Gestión y desarrollo del Parque Agrario Santa Fe Metropolitano (PASFM)». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.20396/labore.v17i00.8671698, «O plano diretor como uma conexão para a cidade saudável». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.20396/labore.v17i00.8671708, «Perception on the employment of treated sewage in concrete production». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.20396/labore.v17i00.8671852, «Socio-ecologies of Plastic Bottle Waste (PBW) and the Development of Ecoprenuerial Initiatives in Contemporary Nigerian Society». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.20396/labore.v17i00.8671897, «Desarrollo territorial a través del turismo en el norte del río Paraguay». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.20396/labore.v17i00.8671934, «Desigualdade ambiental e direito à moradia no entorno do aterro controlado do município de Guanambi [BA]». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.20396/labore.v17i00.8672777, «Redes urbanas e a cidade de Rio de Contas (BA) nos séculos XVIII e XIX». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.20396/labore.v17i00.8672789, «Utilização de sistemas construtivos alternativos». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.20396/labore.v17i00.8672816, «Estatística climatológica para a região do Norte Pioneiro do estado do Paraná». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.20396/labore.v17i00.8673218, «Avaliação da erodibilidade de áreas degradadas na faixa de domínio da DF-250 Brasil». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.20396/labore.v17i00.8673364, «Lectura Evolutiva». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.20396/labore.v17i00.8673375, «Precipitação de calcita induzida microbianamente em argamassas de reparo». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.20396/labore.v17i00.8673415, «De “palácio dos artistas” a “falso brilhante” das políticas patrimoniais». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.20396/labore.v17i00.8673642, «Evolución técnica del paisaje cultural cafetero colombiano». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.20396/labore.v17i00.8673846, «Artefato Qualilar». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.20396/labore.v17i00.8673911, «O cenário legislativo brasileiro no uso de tecnologias de 'Low Impact Development' (LID) em drenagem urbana». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.20396/labore.v17i00.8674022, «Paisagem da Produção». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.20396/labore.v17i00.8674358, «Otimização de funcionamento de bomba hidráulica e benefícios associados ao armazenamento de energia». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.20396/labore.v17i00.8674432, «Os asilos-colônia do Estado de São Paulo». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.20396/labore.v17i00.8674434, «Territorialidade elétrica na formação do espaço urbano no Noroeste paulista (1901-1927)». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.20396/labore.v17i00.8674473, «Effect of elevated atmospheric CO2 on spectral reflectance of coffee leaves of plants cultivated at face facility». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.20396/labore.v17i00.8675285, «Processo de escolha e aquisição de terrenos para incorporação imobiliária de edifícios residenciais de múltiplos pavimentos». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.20396/labore.v17i00.8675408, «Em 2023 a Labor & Engenho aparece na classe “A3” do Qualis Periódicos – Capes. A revista fecha o ano com 23 artigos publicados e uma Chamada L&E em andamento». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.20396/labore.v18i00.8672902, «Interlocking concrete paving blocks made with treated wastewater». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.20396/labore.v18i00.8673566, «Estimativa do Número da Curva (CN) e sua adaptação ao contexto das Paisagens Mineiras». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.20396/labore.v18i00.8673628, «Arquitetura de terra em perspectiva». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.20396/labore.v18i00.8674282, «Dinâmica espaço-temporal da expansão de pivôs centrais e da diversificação agrícola no município de Casa Branca (SP)». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.20396/labore.v18i00.8674436, «Las marcas del urbanismo industrial en San Antonio y El Triunfo: Huellas patrimoniales en Baja California Sur». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.20396/labore.v18i00.8674458, «Agricultura de Baixo Carbono no Brasil». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.20396/labore.v18i00.8675463, «Soluções Baseadas na Natureza (SbN)». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.20396/labore.v18i00.8675949, «Dinâmicas de ocupação e domínio no espaço público». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.20396/labore.v18i00.8676058, «Inovação no contexto do Monitoramento, Relato e Verificação (MRV)». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.20396/labore.v18i00.8676085, «Evaluation of the effect of curing conditions on compressive strength and microstructure of alkali-activated binders». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.20396/labore.v18i00.8676501, «Comparing disinfection efficiency of ozone and peroxone in water containing Giardia duodenalis cysts». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.20396/labore.v18i00.8676694, «Barreiras para projetos de drenagem em lotes urbanos». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.20396/labore.v18i00.8676738, «Estratégias de resiliência às mudanças climáticas». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.20396/labore.v18i00.8677381, «História e patrimônio arquitetônico rural». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.20396/labore.v18i00.8677588, «Tendencias temporales en la cobertura vegetal de la Cuenca Ramis: Generación de Índices espectrales mediante Google Earth Engine». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.20396/labore.v18i00.8677590, «Arquitetura de produção em uma propriedade cafeeira do início do século XX». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.20396/labore.v18i00.8677948, «Mapeamento geológico-geotécnico de uma obra de infraestrutura viária no Distrito Federal do Brasil». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.20396/labore.v18i00.8678184, «Avaliação de diferentes modelos de evaporação em um reservatório da costa semiárida, em Fortaleza, Ceará». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.20396/labore.v18i00.8678406, «Urban regeneration in Mexico city's historic center in the 21st century». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.20396/labore.v18i00.8678803, «Fronteiras entre o espaço rural e o urbano». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.20396/labore.v18i00.8678816, «Múltiplos enfoques sobre o rural e o urbano no volume 18 da Labor & Engenho sob o prisma de diferentes áreas da Engenharia». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.20396/labore.v19i00.8678349, «Sewage treatment using MBR and MABR processes in two parallel plants». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.20396/labore.v19i00.8678795, «Vestígios e reminiscências na cidade». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.20396/labore.v19i00.8679555, «Continuidade e ruptura no uso da argila para a produção de artefatos em cerâmica na paisagem mogiana». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.20396/labore.v19i00.8679697, «Construção com terra e sustentabilidade urbana». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.20396/labore.v19i00.8679890, «Macrodrenagem urbana da cidade de Poços de Caldas (MG)». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.20396/labore.v19i00.8679960, «Identificação e análise das centralidades e da estrutura espacial urbana em Trindade (GO) Brasil». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.20396/labore.v19i00.8680099, «Ferrovia São Paulo – Rio Grande». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.20396/labore.v19i00.8680191, «Modelo Multivariado de Vulnerabilidade Climática». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.20396/labore.v19i00.8681080, «Vacancia estructural en ciudades intermedias: el caso de Treinta y Tres, Uruguay». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.20396/labore.v19i00.8681215, «The commodity coffee layout drying process impact on the logistics and operationalization flow related to the time optimization in the coffee beans post-harvest drying process». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.20396/labore.v19i00.8681559, «O papel do cinturão verde na integração rural-urbano em Piracicaba (SP)». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.20396/labore.v19i00.8681595, «Ruralidad contemporánea». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.20396/labore.v19i00.8681598, «O Parque Linear da Billings e a criação da Praça de Aulas». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.20396/labore.v19i00.8681617, «A multifuncionalidade do meio rural metropolitano». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.20396/labore.v19i00.8681621, «Paisagem urbana desenhada». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.20396/labore.v19i00.8681624, «Política habitacional en grandes proyectos urbanos». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.20396/labore.v19i00.8681628, «Configuração espacial de vilas pesqueiras na foz do Rio Doce». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.20396/labore.v19i00.8681638, «Quilombo, um conceito necessário à compreensão das comunidades negras no Brasil». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.20396/labore.v19i00.8681947, «Arquitetura rural em territórios urbanos». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.20396/labore.v19i00.8681963, «Urbanismo, engenharia e arquitetura rural compõem o escopo do volume 19 da revista Labor &amp; Engenho». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+### Conjeturas Sociologicas
+
+10.66778/cs.v14n40.01, «MI LABOR Y “LA COMPLEJIDAD”». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+### Estudos de Sociologia
+
+10.51359/2317-5427.2026.265480, «Identidade e Representação na contemporaneidade: uma análise sociológica do filme Coringa». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.51359/2317-5427.2026.266126, «Inter-relações entre acesso às estruturas e equipamentos urbanos de esporte, prática de atividade física e legado dos megaeventos esportivos no Brasil.». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.51359/2317-5427.2026.268380, «Racismo e escolarização: desvantagens e privilégios raciais nas trajetórias de estudantes até a pós-graduação». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.51359/2317-5427.2026.268980, «“Gay Direito é de Direita?”: Uma Discussão Acerca da Identidade Conservadora no Movimento LGBTQIAPN+». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.51359/2317-5427.2026.269930, «Autoimagem profissional e transformações organizacionais contemporâneas: interfaces entre trabalho, reconhecimento e subjetividade». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.51359/2317-5427.2026.270639, «Cotas raciais na pós-graduação em geografia: vinte e três anos do sistema da UERJ e o tensionamento dos cânones disciplinares». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.51359/2317-5427.2026.270669, «As possibilidades de uma didática antirracista: análise curricular das disciplinas de didática no ensino superior». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.51359/2317-5427.2026.270722, «Escutar o conflito e desobedecer o racismo: ações afirmativas e descentramentos pedagógicos-epistêmicos nos Institutos Federais». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.51359/2317-5427.2026.270730, «Para além do acesso: permanência de indígenas estudantes, ações afirmativas e disputa por outros saberes na UFPA e na UFBA». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.51359/2317-5427.2026.270757, «Transição do ensino superior para o mercado de trabalho: trajetórias de estudantes cotistas no Rio de Janeiro». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.51359/2317-5427.2026.270793, «A judicialização da igualdade: uma análise das ações afirmativas nas instituições de justiça». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.51359/2317-5427.2026.272117, «Desigualdades, ações afirmativas, raça e ensino superior no Brasil». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+### Ambivalências
+
+10.21665/2318-3888.v13n25p121, «Heurística y cognición». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.21665/2318-3888.v13n25p145, «Os paradoxos do neoliberalismo no teatro de grupo». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.21665/2318-3888.v13n25p169, «Fernando Aguerre e o surfe olímpico». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.21665/2318-3888.v13n25p189, «Desafios para acesso ao dispositivo intrauterino (DIU) de cobre no município do Rio de Janeiro (RJ), Brasil». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.21665/2318-3888.v13n25p209, «Mandiocada e o circuito da dádiva». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.21665/2318-3888.v13n25p227, «Da ansiedade ao método no trabalho de campo antropológico». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.21665/2318-3888.v13n25p249, «O papel da ontogenia na evolução da cooperação humana». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.21665/2318-3888.v13n25p273, «O Carnaval como direito à cidade». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.21665/2318-3888.v13n25p33, «Mujeres indígenas, desarrollo y alternativas». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.21665/2318-3888.v13n25p51, «O cantor indígena e suas práticas culturais na Terra Indígena Mãe Maria». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.21665/2318-3888.v13n25p7, «Editorial». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.21665/2318-3888.v13n25p75, «Territórios, vulnerabilidade social e regularização fundiária». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.21665/2318-3888.v13n25p9, «“Civilização” com aspas». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.21665/2318-3888.v13n25p97, «Por uma escrita contra a natureza». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.21665/2318-3888.v13n26p103, «Habitando entre ancestros, espíritus y dioses». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.21665/2318-3888.v13n26p135, «La incrustación y el tatuaje en el culto a San La Muerte». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.21665/2318-3888.v13n26p15, «“Arreda, homem, que aí vem mulher”». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.21665/2318-3888.v13n26p159, «Com espumosa e água doce». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.21665/2318-3888.v13n26p183, «Ayahuasca e religiosidade». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.21665/2318-3888.v13n26p209, «Da iniciação ao caminho atual de Pai José Luiz de Logun Edé». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.21665/2318-3888.v13n26p225, «Os riscos compreendidos, gerenciados e, em certa medida, incorporados por instrutores de parapente no Parque da Cidade de Niterói/RJ». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.21665/2318-3888.v13n26p251, «O insólito como aliado na prática etnográfica». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.21665/2318-3888.v13n26p273, «Waldemar Valente e os silêncios da historiografia da antropologia afro-brasileira». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.21665/2318-3888.v13n26p35, «Xamanismo e religiosidades Terena». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.21665/2318-3888.v13n26p59, «O surgimento de uma “santa popular”». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.21665/2318-3888.v13n26p7, «Editorial». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.21665/2318-3888.v13n26p85, «Entre o cajado e o tempo». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.21665/2318-3888.v13n26p9, «Dossiê». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.21665/2318-3888.v14n27p119, «Língua, identidade e os “brasileirinhos”». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.21665/2318-3888.v14n27p143, «O que significa ser brasileiro?». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.21665/2318-3888.v14n27p169, «Infância, migração e escola». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.21665/2318-3888.v14n27p183, «Etnografia crítica de ação participativa com crianças e jovens migrantes transnacionais». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.21665/2318-3888.v14n27p19, «Cuerpos rotos y esperas burocráticas». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.21665/2318-3888.v14n27p209, «“A tia às vezes fala umas coisas que eu não sei...”». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.21665/2318-3888.v14n27p231, «Como chegaríamos lá e A cabuya». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.21665/2318-3888.v14n27p245, «Formas sociais da corporificação». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.21665/2318-3888.v14n27p267, «Políticas para combatir el feminicidio en España». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.21665/2318-3888.v14n27p285, «Da modernidade eurocêntrica aos estudos decoloniais». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.21665/2318-3888.v14n27p305, «Cierres de la incertidumbre en las Islas Canarias». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.21665/2318-3888.v14n27p33, «Agencia situada en contextos de vulneración transnacional». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.21665/2318-3888.v14n27p331, «Antroporrobótica, robótica de décima geração e habitar humano». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.21665/2318-3888.v14n27p57, «Niñas andinas en la frontera Brasil-Bolivia». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.21665/2318-3888.v14n27p7, «Editorial». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.21665/2318-3888.v14n27p75, «Cartografías escolares e infancias internacionales». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.21665/2318-3888.v14n27p9, «Dossiê». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.21665/2318-3888.v14n27p97, «Questioning privileged mixedness». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+### Cuestiones de Sociología
+
+10.24215/23468904e191, «Los Estudios Organizacionales en Latinoamérica. Un análisis del camino transitado y perspectivas de desarrollo». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.24215/23468904e192, «Género(s) y organizaciones: entre estigmas y transformaciones». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.24215/23468904e193, «Las organizaciones públicas en tiempos de Inteligencia Artificial: hacia la construcción de puentes analíticos». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.24215/23468904e194, «Historias de vida de trabajadores de cuello azul, blanco y digital». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.24215/23468904e195, «Desafíos y propuestas para un abordaje crítico de los Estudios Organizacionales en Argentina». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.24215/23468904e196, «Organizaciones y territorio: sobre posibles vasos comunicantes». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.24215/23468904e197, «Comprender, analizar e intervenir en las organizaciones: Notas metodológicas y pedagógicas sobre prácticas de enseñanza e investigación en la Sociología de las Organizaciones». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.24215/23468904e198, «La configuración de la sociedad civil organizada: aportes a su caracterización en la Argentina actual». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.24215/23468904e199, «El análisis organizacional desde el enfoque de la igualdad de género». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.24215/23468904e200, «Investigación en tiempo real. El procesamiento de información para la toma de decisiones en la Escuela de Oficios de la UNLP». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.24215/23468904e201, «La dimensión organizacional e institucional en la Gestión Local del Riesgo: reflexiones a partir de la Emergencia Socio Sanitaria por COVID 19 en Paraná, Entre Ríos». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.24215/23468904e202, «¿Cómo pensar a las Organizaciones de la Sociedad Civil en clave organizacional? Reseña de De Piero, Sergio (2020). Organizaciones de la sociedad civil. Tensiones de una agenda en construcción. Editorial UNAJ». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.24215/23468904e203, «Analizar las organizaciones “desde las orillas”. Reseña de Sanabria, M. et. al. (2024). En busca de los estudios organizacionales de Latinoamérica. Editorial Universidad del Rosario». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.24215/23468904e204, «Presentación: El arte de renunciar. Entrevista a Adriana Fassio». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+### La Colmena
+
+10.18800/lacolmena.202201.001, «Hacia nuevas formas de ser y pensarse varón en un grupo de jóvenes seguidores del k-pop en Lima: un análisis sobre la construcción de una masculinidad emergente». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.18800/lacolmena.202201.002, «Tres cineastas regionales del sur andino en el campo cinematográfico peruano». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.18800/lacolmena.202201.003, «La economía política de la ambigüedad del reconocimiento: derechos colectivos de los pueblos indígenas bajo el neoliberalismo à la peruana (1990-2000)». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.18800/lacolmena.202201.004, «Poderes empresariales y conflictos agrarios. Apuntes conceptuales desde el enfoque de los recursos de poder en estudios de caso: Ley Moratoria de Transgénicos (2011) y el conflicto del paro agrario de 2020». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.18800/lacolmena.202201.005, «Negritud, afrodescendencia y mestizaje: implicancias de la pregunta de autoidentificación étnica del Censo Nacional de 2017 en la población afroperuana». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.18800/lacolmena.202301.002, «Pachamama 5 estrellas: Análisis de las estrategias publicitarias digitales de venta de suelo periurbano en Urubamba - Cusco». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.18800/lacolmena.202301.003, «Trabajando bajo el control del algoritmo: El caso de los repartidores de Rappi en Lima Metropolitana en el contexto de pandemia». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.18800/lacolmena.202301.004, «El lugar de la mujer: La segregación ocupacional horizontal por razón de género en el mercado laboral peruano». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.18800/lacolmena.202301.005, «¿Por qué existen empresas y no solo mercados? Repensando a Ronald Coase en un mundo que se virtualiza». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.18800/lacolmena.202301.006, «Cine actual y representación queer: la heteronormativa fórmula de la industria cinematográfica». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.18800/lacolmena.202301.007, «Tu príncipe azul es un agresor: la idealización del amor romántico y su influencia en la violencia de género dentro del contexto latinoamericano». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.18800/lacolmena.202301.008, «Desde la red social Facebook: #NiUnaMenos en Lima 2016». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.18800/lacolmena.202301.009, «“Dios te diría ‘Yo no te hice esclava’”: percepciones del rol de la mujer en una iglesia cristiana de Lima». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.18800/lacolmena.202301.010, «La élite empresarial y la formación de la hegemonía neoliberal del Perú desde una perspectiva gramsciana». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.18800/lacolmena.202301.011, «El pensamiento sociológico aún vigente, el expertise en la actualidad». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.18800/lacolmena.202401.001, «Las dos caras de una ciudad: planificación y segregación urbana en el barrio de Monserrate». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.18800/lacolmena.202401.002, «Representación de Lima desde la crítica en la literatura de Ribeyro y Congrains (1940-1960) y su vigencia en el siglo XXI». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.18800/lacolmena.202401.003, «¿El nuevo Comas? Trayectorias residenciales de los residentes de los edificios multifamiliares de altura en El Retablo, Comas». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.18800/lacolmena.202401.004, «“Es un sentimiento, que lo llevo en el corazón, yo daría toda mi vida por ser campeón”: una aproximación a la expresión de la identidad de los hinchas de Sporting Cristal». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.18800/lacolmena.202401.005, «Una mirada a nuevas masculinidades online. Análisis de discurso: el caso de Mr. Misterios, Machos Alfa, y la Manósfera». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.18800/lacolmena.202401.006, «Sujetos deseantes: una aproximación teórica a las dinámicas del deseo gay». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+### Ciudad Paz-ando
+
+10.14483/2422278x.20414, «Desafíos en la Implementación del Acuerdo de Paz para el Presidente de Colombia Gustavo Petro (2022-2026)». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.14483/2422278x.21011, «Reconstrucción de Memoria Histórica y Desarrollo del Tejido Social en Comunidades Afrocolombianas Víctimas de la Masacre de Bojayá - Chocó». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.14483/2422278x.21012, «El derrotero de la población afromexicana en el ámbito social de México». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.14483/2422278x.21013, «Configuración de Subjetividades Políticas en “Mujeresnegras”». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.14483/2422278x.21195, «Manuel Zapata Olivella: Más Allá de la Conmemoración del Centenario». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.14483/2422278x.21209, «Prácticas de discriminación racial en la Universidad Distrital Francisco José De Caldas». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.14483/2422278x.21298, «Estado actual y percepciones ciudadanas sobre las entidades de salud en las localidades de Kennedy y Usme en Bogotá». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.14483/2422278x.21448, «Racismo Epistémico y Universidad: Desafíos Epistemológicos para un Programa en Estudios Afrocolombianos y Afrolatinoamericanos». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.14483/2422278x.21449, «Trayectorias, perspectivas y prospectivas de los movimientos no-violentos». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.14483/2422278x.21522, «Sobre los caminos de la paz en Colombia y las manos que los surcan». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.14483/2422278x.21694, «Paz Territorial y Ethos Barroco en el Sur Occidente de Colombia: La Universidad Intercultural de los Pueblos». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.14483/2422278x.21706, «Análisis Estadístico y Predictivo de los Datos de Eventos, Víctimas y Desminado Humanitario de las Minas Antipersonal (MAP) en Colombia». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.14483/2422278x.21734, «A la Señora Arnolfini: Teatralización del Dolor de las Víctimas en Fragmentos (Bogotá, 2021)». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.14483/2422278x.21819, «Sujeto Maestro, Formación Docente y Política Educativa en Colombia». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.14483/2422278x.21901, «Arauca: Educar en Escenarios de Triple Afectación». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.14483/2422278x.21913, «Un Abordaje “Indisciplinado” de la Guerra, la Violencia y la Paz en Colombia. Reseña de “Belicopedia”». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.14483/2422278x.21969, «Leer el Conflicto Armado en el Aula». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.14483/2422278x.22030, «El Catastro Multipropósito como Instrumento para la Verdad y la Memoria. Caso: Corregimiento de San José de Mulatos del Distrito de Turbo». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.14483/2422278x.22461, «Ecologías para la Construcción de Paz en Procesos Comunitarios de Ciudad Bolívar». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.14483/2422278x.22466, «Las Capacidades Institucionales para la Paz en los Municipios Colombianos: Aportes desde los Consejos Territoriales de Paz, Reconciliación y Convivencia». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.14483/2422278x.22502, «De Ejercicios de Poder a Ejercicios del Sentir: acerca de los Procesos Educativos en Clave Emocional». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.14483/2422278x.22559, «Conflicto y Paz: Acercamiento al Perdón en Colombia». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.14483/2422278x.22596, «Persecución a Periodistas y Prensa: la Censura en las Dictaduras de Marcos Pérez Jiménez y Gustavo Rojas Pinilla». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.14483/2422278x.22599, «Culturas de Paz en las Narrativas de Vida de Maestras y Maestros del Departamento del Meta en Colombia». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.14483/2422278x.22618, «Metáforas del Cuerpo y el Poder». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.14483/2422278x.23218, «De la Indignación a la Empatía: Urgencia y Compromiso con la Verdad Histórica.». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+### Con X
+
+10.24215/24690333e051, «Interpelar la ESI desde la noción de ciudadanía». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.24215/24690333e052, «Mujeres y uso de psicofármacos». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.24215/24690333e053, «trabajo que hace (a) un hombre». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.24215/24690333e055, «Mujeres rurales, demandas y feminismos». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.24215/24690333e056, «Malas como las Arañas (2007-2010): una historia local de activismo lésbico». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.24215/24690333e057, «Eso que se llama filetear es trabajo no pago». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.24215/24690333e058, «Accesibilidad juvenil a derechos sexuales y (no) reproductivos en la Argentina». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.24215/24690333e059, «Coproducción de tecnologías y derechos no reproductivos: activismo feminista, saberes clínicos y construcción del misoprostol como droga abortiva». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.24215/24690333e060, «Figuraciones sobre el suicidio femicida en medios de Córdoba: el caso de Luana Ludueña en <i>ElDoce.tv</i> y <i>El Resaltador</i>». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.24215/24690333e061, «La inclusión de mujeres en espacios masculinizados. Reconfiguraciones organizacionales y materiales en dos empresas industriales del centro y sudeste bonaerense (2015-2025)». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.24215/24690333e062, «El amor en tiempos de masculinidades en crisis». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+### Frontera Norte
+
+10.33679/rfn.v.e2453, «El linaje de los herederos. Narrativas estudiantiles y movilidad social en jóvenes profesionales de Baja California, México». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.33679/rfn.v.e2463, «La tecnología en la resiliencia de los refugiados centroamericanos durante su desplazamiento por México». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.33679/rfn.v.e2481, «Impacto del nearshoring y el tipo de cambio en las exportaciones mexicanas: un análisis insumo-producto para los estados de la frontera norte». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.33679/rfn.v.e2482, «Mercados de historias y experiencias durante contingencias migratorias en la frontera de Tijuana». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.33679/rfn.v.e2483, «Galantería Falsa: sexismo encubierto, humor y resistenciaen la frontera norte mexicana». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.33679/rfn.v.e2484, «Tiempo, familia y trabajo: la urdimbre de la vulnerabilidadde las mujeres en contextos rurales de México». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.33679/rfn.v.e2486, «A través de los ojos que han llorado: el artivismo como investigación en el proyecto mural fronterizo Stella Flumen». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.33679/rfn.v.e2490, «¿La IED de China en México es realmente una amenaza para Estados Unidos? Análisis de la industria automotriz». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.33679/rfn.v.e2491, «La salud financiera en la frontera norte: un análisis comparativo entre Baja California y California». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.33679/rfn.v.e2498, «Producción de coherencia y privilegio en la expansión socioespacial del Tecnológico de Monterrey». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.33679/rfn.v.e2502, «Textos gastronómicos festivos y continuidad cultural en contextos de frontera: una aproximación etnográfica en Chihuahua, México». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.33679/rfn.v.e2506, «Los vehículos blindados delincuenciales en México (2010-2025): Conceptualización y contexto». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.33679/rfn.v.e2508, «Atracción e integración económica de migración calificada: el papel estructural de la competitividad del talento en la OCDE». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+### Arquitek
+
+10.47796/ra.2026i29.1433, «Editorial». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.47796/ra.2026i29.1434, «Biodesign y confort térmico en fachadas vivas con micelio en edificaciones de Arequipa, Perú». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.47796/ra.2026i29.1435, «Análisis espacial de la calidad de la infraestructura deportiva en Tacna». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.47796/ra.2026i29.1436, «Aplicación del Pull Planning para mejorar la eficiencia constructiva en ejecución de módulos habitacionales rurales». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.47796/ra.2026i29.1437, «Arbolado urbano para optimizar el confort térmico en zonas cálidas de la Amazonía peruana». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.47796/ra.2026i29.1438, «Bloquetas térmicas, insonorizadas y ecológicas a base de sábila, cartón de huevo y fibra de cabuya». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.47796/ra.2026i29.1439, «Arquitectura y paisaje en la restauración ecológica del territorio: Una revisión sistemática». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.47796/ra.2026i29.1444, «Estrategias de drenaje urbano sostenible para ciudades sensibles al agua, Picota – Perú». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+### Bajo el Volcán: Revista del Posgrado de Sociología. BUAP
+
+10.32399/icsyh.bvbuap.2954-4300.2024.6.11.770, «Presentación». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.32399/icsyh.bvbuap.2954-4300.2024.6.11.771, «El desarrollo como terricidio: zonas de sacrificio y extractivismo como política de Es-tado en México». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.32399/icsyh.bvbuap.2954-4300.2024.6.11.772, «Elementos determinantes de las zonas de sacrificio en México». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.32399/icsyh.bvbuap.2954-4300.2024.6.11.775, «Conceptualizando lugares de devastación ambiental, hacia una geografía política de “regiones de emergencia sanitaria y ambiental”». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.32399/icsyh.bvbuap.2954-4300.2024.6.11.780, «Ecatepec y sus cuerpos (de agua) desaparecidos: territorio de esperanza y sacrificio». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.32399/icsyh.bvbuap.2954-4300.2024.6.11.781, «Necroterritorios y zonas del sacrificio: escenarios forenses en México contemporáneo». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.32399/icsyh.bvbuap.2954-4300.2024.6.11.782, «Nombrar la devastación radical de la vida. Hacia una lectura eco-política de las zonas de sacrificio desde la cuenca alta del río Santiago en México». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.32399/icsyh.bvbuap.2954-4300.2024.6.11.785, «Racionalizar la acumulación en una zona de sacrificio urbano-industrial: Nearshoring y otras contradicciones de ‘revivir’ el río Santiago, México.». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.32399/icsyh.bvbuap.2954-4300.2024.6.11.786, «Historia ambiental desde abajo: los habitantes ribereños de la Ciénega de Chapala y la afectación ambiental por la construCCión de las presas de Juanacatlán y Poncitlán en el río Santiago, Jalisco, México, 1893-1910». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.32399/icsyh.bvbuap.2954-4300.2024.6.11.788, «Revolución y liquidación de la transferencia. La destitución subjetiva como procedimiento de emancipación social». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.32399/icsyh.bvbuap.2954-4300.2024.6.11.789, «Sacrificio por ornato. Sobre el trabajo alienado desde una perspectiva fenomenológica». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.32399/icsyh.bvbuap.2954-4300.2024.6.11.790, «Introducción. La revolución teórica inacabada». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.32399/icsyh.bvbuap.2954-4300.2024.6.11.791, «Nota crítica del traductor». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.32399/icsyh.bvbuap.2954-4300.2024.6.11.792, «“Una muerte lenta”. Violencias y cuidados en contextos de zonas de sacrificio por explotación bananera». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.32399/icsyh.bvbuap.2954-4300.2024.6.11.793, «Gaza y el espíritu del capitalismo». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.32399/icsyh.bvbuap.2954-4300.2024.6.11.795, «Marxismo Abierto». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.32399/icsyh.bvbuap.2954-4300.2024.6.11.796, «Scholz, Roswitha (2019). Le sexe du capitalisme. “Masculinité” et “feminité” comme piliers du patriarcat producteur de marchandises. Éditions crise & critique». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.32399/icsyh.bvbuap.2954-4300.2024.6.11.797, «Zonas de sacrificio en el espacio urbano: el caso de la contaminación atmosférica en los barrios periféricos de la ciudad de Río de Janeiro». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.32399/icsyh.bvbuap.2954-4300.2024.6.11.798, «Habitar zonas de sacrificio: experiencias de comunidades afectadas por rellenos sanitarios en Costa Rica». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.32399/icsyh.bvbuap.2954-4300.2025.6.12.831, «Presentación. Una estrella roja llamada Simon Clarke». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.32399/icsyh.bvbuap.2954-4300.2025.6.12.832, «La relevancia de la crítica de Simon Clarke. Entrevista con John Holloway». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.32399/icsyh.bvbuap.2954-4300.2025.6.12.833, «La crítica de Simon Clarke al marxismo estructuralista». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.32399/icsyh.bvbuap.2954-4300.2025.6.12.835, «Una revisión de los textos de Simon Clarke sobre el Estado, el trabajo y la sociedad capitalista. Porque de lo que se trata es de la negación del capitalismo». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.32399/icsyh.bvbuap.2954-4300.2025.6.12.836, «Pour Clarke. La centralidad de las relaciones sociales de producción para la crítica marxista en el cuestionamiento a la visión del Estado de Nicos Poulantzas y la derivación». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.32399/icsyh.bvbuap.2954-4300.2025.6.12.837, «La forma-Estado en la síntesis de Clarke para pensar los límites de las políticas públicas de salud en Brasil». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.32399/icsyh.bvbuap.2954-4300.2025.6.12.840, «Moishe Postone y la crítica autorreflexiva del capital: crisis, límites y posibilidades de la transformación social radical». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.32399/icsyh.bvbuap.2954-4300.2025.6.12.841, «Capital, fracciones de capital y Estado. Análisis ‘neomarxista’ del Estado sudafricano». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.32399/icsyh.bvbuap.2954-4300.2025.6.12.842, «La teoría marxista de la sobreacumulación y la crisis». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.32399/icsyh.bvbuap.2954-4300.2025.6.12.844, «Revolución social y paradigma subjetivista en la obra de John Holloway». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.32399/icsyh.bvbuap.2954-4300.2025.6.12.845, «La racionalidad del proceso de individualización y sus afinidades electivas con el capitalismo». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.32399/icsyh.bvbuap.2954-4300.2025.6.12.846, «El texto hilvanado, porte y escritura textil. Puntadas simbólicas desde contextos latinoamericanos actuales». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.32399/icsyh.bvbuap.2954-4300.2025.6.12.847, «“A nosotros nos toca asumir la tarea de la transformación en un sistema político en el que sólo hemos alcanzado el control del ejecutivo”. Entrevista y conversación con el Dr. Bernardo Arévalo, Presidente de la República de Guatemala». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.32399/icsyh.bvbuap.2954-4300.2025.6.12.848, «Fenomenología y Sociología: un ensayo sobre la esencia de su relación». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.32399/icsyh.bvbuap.2954-4300.2025.6.12.849, «Futilidad marginal. Reflexiones sobre Marx, el marginalismo y la sociología moderna, de Simon Clarke». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.32399/icsyh.bvbuap.2954-4300.2025.6.12.850, «Maiso, Jordi (2022). Desde la vida dañada. La teoría crítica de Theodor W. Adorno. Siglo XXI editores». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+### Clinical Sociology Review
+
+10.36615/2pw1mb81, «Exploring the digital shift: Factors influencing the sustainable adoption of e-health tools for digital mental health services amidst the COVID-19 pandemic». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.36615/35wfdh40, «The Socio-Psychic Knots of Teacher Burnout in Brazil». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.36615/5mk88961, «Developing a Deliberative Researcher-Practitioner Relationship in Sociological Evaluation Research: A Practical Reflection on using Sociology in the Carer Café Evaluation Project in Hong Kong». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.36615/8q549527, «Book Review: "Dialogues with Eugène Enriquez: On the Work: "From the Horde to the State – Psychoanalysis of the Social Bond"». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.36615/c0p1bz47, «Community-Engaged Research in Teaching Research Methods». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.36615/em36kx11, «Feminist Practices and Experiential Pedagogies: Student Learning at the Commission on the Status of Women». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.36615/f91c1n14, «L'anthropologie clinique d'orientation psychanalytique : un dialogue inter-culturel». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.36615/fq833b78, «Eugène Enriquez: Memory, Thinking and Humanity». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.36615/fx5exd83, «Book Review: The Untold Story of Zama Zama Miners in South Africa: Unearthing Hope». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.36615/n3x8x469, «Hommage à Robert Sévigny, pionnier de la sociologie clinique au Québec». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.36615/np1vkw02, «Improving the Lives of Older Adults in South Korea». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.36615/qxc5p253, «Construire une recherche scientifique ancrée en s’appuyant sur les carnets de terrain». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.36615/rbg8n991, «La subjectivation : un concept central de la sociologie clinique». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.36615/szgbef02, «Un chercheur racisé face à une subjectivité raciale différenciée : approche clinique et réflexive du racisme». La revista solo ofrece el texto completo en PDF, que no se usa.
+
+10.36615/vy2zn259, «Absenteeism and Labour Precarity: A Quantitative Analysis of a South African Cleaning Services Company». La revista solo ofrece el texto completo en PDF, que no se usa.
 
 ## Excluidos
+
+### Cadernos de Pesquisa
+
+10.1590/1980531410065, «REFLEXIÓN COLABORATIVA DE DIDACTAS BASADA EN UN SELF-STUDY INTERINSTITUCIONAL». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531410073, «O TRABALHO COM FOTOGRAFIAS EM SALA DE AULA: UMA ANÁLISE MULTISSEMIÓTICA». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531410073_en, «WORKING WITH PHOTOGRAPHS IN THE CLASSROOM: A MULTISEMIOTIC ANALYSIS». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531410079, «PROGRAMA DE INOVAÇÃO EDUCAÇÃO CONECTADA: POLÍTICA DE AMPLIAÇÃO DO CAPITAL». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531410121, «RESIGNIFICACIÓN DEL EVALUAR-APRENDER COMO PRÁCTICA DE LIBERTAD». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531410125, «PESQUISA E INOVAÇÃO RESPONSÁVEIS NA ÁREA DA EDUCAÇÃO: UMA REVISÃO SISTEMÁTICA». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531410206, «AVALIAÇÃO DE CONTEXTO DA EDUCAÇÃO INFANTIL: INSTRUMENTOS, MÉTODOS, RESULTADOS E USOS». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531410206_en, «EARLY CHILDHOOD EDUCATION CONTEXT EVALUATION: INSTRUMENTS, METHODS, RESULTS, AND USES». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531410341, «ARTE-EDUCAÇÃO POR MEIO DA DEMOCRACIA NOS INSTITUTOS FEDERAIS». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531410358, «INNOVAR EN UNA ESCUELA VULNERABLE: UNA EXPERIENCIA DE INVESTIGACIÓN-ACCIÓN». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531410374, «EXPERIÊNCIA ESCOLAR NO ENSINO MÉDIO NOTURNO: UMA ANÁLISE COMPARATIVA». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531410374_en, «SCHOOL EXPERIENCE IN EVENING UPPER SECONDARY EDUCATION: A COMPARATIVE ANALYSIS». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531410394, «INTERSETORIALIDADE E TRANSVERSALIDADE: ANÁLISE DO BRASIL CARINHOSO (2012-2015)». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531410394_en, «INTERSECTORALITY AND GENDER MAINSTREAMING: AN ANALYSIS OF BRASIL CARINHOSO (2012-2015)». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531410424, «EXPLORANDO A LINGUAGEM NEUTRA COM LINGUISTAS, PROFESSORES E PESSOAS NÃO BINÁRIAS». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531410442, «EL CURRÍCULO COMO UN ESPACIO DE ACOGIDA». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531410460, «RETOS Y CONTROVERSIAS DE LA FORMACIÓN ÉTICA EN LAS UNIVERSIDADES DE BOGOTÁ». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531410473, «HABLEMOS DEL BINOMIO TEORÍA-PRÁCTICA EN LA ENSEÑANZA: MAPEANDO AUTORES Y POSTURAS». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531410476, «GRUPOS DE DIÁLOGO COMO METODOLOGIA DE PESQUISA EM EDUCAÇÃO». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531410528, «VIOLENCIA ESCOLAR EN CHILE: DESAFÍOS DESDE LA VISIÓN DOCENTE». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531410545, «PROFISSIONAL DE APOIO ESCOLAR E POLÍTICAS PÚBLICAS EM EDUCAÇÃO ESPECIAL». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531410605, «FACTORES QUE DIFICULTAN LA OBTENCIÓN DE POSGRADO A LAS MUJERES ACADÉMICAS». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531410610, «PESSOAS COM DEFICIÊNCIA E AS COTAS DO SISU: MAPEAMENTO DOS CRITÉRIOS DE ELEGIBILIDADE». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531410617, «AUTISMO E POLÍTICAS PÚBLICAS BRASILEIRAS: NOMEAÇÕES, REPRESENTAÇÕES E AUSÊNCIAS». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531410625, «HEURÍSTICOS PARA INVESTIGAR LA SOCIOGÉNESIS DE LAS DISCIPLINAS ESCOLARES». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531410634, «TOPOGRAFIA DA FORMAÇÃO DE PROFESSORES DE HISTÓRIA NA AMAZÔNIA BRASILEIRA». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531410649, «INEQUIDADES DE GÉNERO EN STEM: EL CASO DE ACADÉMICAS UNIVERSITARIAS EN CHILE». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531410685, «UNA APROXIMACIÓN AL VIDEO ANÁLISIS DEL CONOCIMIENTO CIENTÍFICO DEL DISCURSO DEL AULA». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531410689, «COMISSÃO DE HETEROIDENTIFICAÇÃO E CLASSIFICAÇÃO RACIAL DE ESTUDANTES PARDOS». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531410695, «ESTUDIAR… ¿Y DESPUÉS QUÉ? CONTEXTOS Y DILEMAS DE LA JUVENTUD RURAL ESPAÑOLA». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531410704, «TRANSPORTE ESCOLAR RURAL: LÍMITES Y OPORTUNIDADES PARA EL ARRAIGO POBLACIONAL». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531410710, «DIREITO LINGUÍSTICO-EDUCACIONAL PARA ALUNOS SURDOS E O “ALÉM-ACESSIBILIDADE”». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531410716, «CONDICIONES LABORALES DE LA JUVENTUD RURAL DE MÉXICO». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531410725, «CRIANÇAS E HISTÓRIA: O TEMPO COMO CONCEITO E A NARRATIVA DA TEMPORALIDADE». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531410727, «¿CHICOS DE CAMPO? PROYECTOS EDUCATIVOS Y LABORALES DE JÓVENES DE LA HORTICULTURA». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531410741, «ATIVISMO DAS TRABALHADORAS DOMÉSTICAS: DA COZINHA À ARENA NACIONAL E INTERNACIONAL». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531410741_en, «DOMESTIC WORKERS’ ACTIVISM: FROM THE KITCHEN TO THE NATIONAL AND INTERNATIONAL ARENA». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531410746, «“REGINALDO PRANDI”, TERCEIRA MULHER DE XANGÔ: LEITURAS ERRANTES DE NOMES PRÓPRIOS». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531410752, «ASESORES PEDAGÓGICOS EN EDUCACIÓN BÁSICA: QUIÉNES SON Y CÓMO ORGANIZAN SU TRABAJO». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531410773, «YVONNE JEAN: UM OLHAR SOBRE A ESCOLA REGIONAL DE MERITI, RJ, 1948». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531410773_en, «YVONNE JEAN: A LOOK AT ESCOLA REGIONAL DE MERITI, RJ, 1948». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531410778, «FORMACIÓN DOCENTE EN ESCRITURA Y DIDÁCTICA ESPECÍFICA: HACIA UN MODELO FORMATIVO». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531410786, «VISIBILIDADE E RECONHECIMENTO SOCIOPOLÍTICO: O POVO DE AXÉ NAS PÓS-GRADUAÇÕES». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531410796, «SEMPRE ELAS? VALORES E DIVISÃO DO TRABALHO DOMÉSTICO EM PERSPECTIVA COMPARADA». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531410796_en, «ALWAYS THE WOMEN? VALUES AND HOUSEWORK DIVISION IN A COMPARATIVE PERSPECTIVE». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531410797, «OS SENTIDOS DO AFETO NOS ESTUDOS SOBRE TRABALHO DOMÉSTICO». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531410797_en, «THE ROLE OF AFFECTION IN DOMESTIC WORK STUDIES». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531410798, «SERVIÇO DOMÉSTICO E EQUIPARAÇÃO LEGAL: DISPUTA ARGUMENTATIVA E FATORES ASSOCIADOS». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531410798_en, «DOMESTIC SERVICE AND LEGAL PARITY: ARGUMENTATIVE DISPUTE AND ASSOCIATED FACTORS». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531410851, «O SISTEMA PÚBLICO DE ENSINO FRENTE AO NEOLIBERALISMO NA ESPANHA E NO BRASIL». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531410852, «MULHERES QUE ORIENTAM MULHERES: A FILOSOFIA EM PERSPECTIVA COMPARADA». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531410855, «A PRODUÇÃO SOBRE EDUCAÇÃO ESCOLAR INDÍGENA EM TESES E DISSERTAÇÕES NO BRASIL». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531410855_en, «PRODUCTION ON INDIGENOUS SCHOOL EDUCATION IN THESES AND DISSERTATIONS IN BRAZIL». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531410859, «A SUBJETIVIDADE DA EXPERIÊNCIA DE SER NEGRO». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531410927, «FRONTEIRAS NO TRABALHO REMUNERADO EM DOMICÍLIO: DILEMAS ANALÍTICOS E IDENTITÁRIOS». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531410927_en, «FRONTIERS IN PAID DOMESTIC WORK: ANALYTICAL AND IDENTITY DILEMMAS». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531410937, «CLAVES DIDÁCTICAS Y ORGANIZATIVAS DE LAS PRÁCTICAS INNOVADORAS SEGÚN EL PROFESORADO». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531411085, «EDUCACIÓN INTERCULTURAL: MULTIPERSPECTIVA DEL CURRÍCULO DE LA EDUCACIÓN SUPERIOR». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531411093, «IMPACTOS DA COVID-19 NA EDUCAÇÃO DE JOVENS E ADULTOS: UMA REVISÃO DE LITERATURA». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531411093_en, «IMPACTS OF COVID-19 ON YOUTH AND ADULT EDUCATION: A LITERATURE REVIEW». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531411094, «CONCEPCIONES DE COLABORACIÓN DOCENTE EN POLÍTICAS EDUCATIVAS CHILENAS VIGENTES». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531411128, «PRODUÇÃO DA DIFERENÇA: EDUCAÇÃO ESCOLAR QUILOMBOLA E AS CIÊNCIAS SOCIAIS». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531411128_en, «CONSTRUCTING THE DIFFERENCE: QUILOMBOLA SCHOOL EDUCATION AND THE SOCIAL SCIENCES». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531411159, «ESCOLAS, SAÚDE E RISCOS NA ADOLESCÊNCIA: REFLEXÕES A PARTIR DO ESTUDO SP-PROSO». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531411162, «A LEI 10.639/03 E O ENSINO DE HISTóRIA E CULTURA AFRO-BRASILEIRA». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531411162_en, «LAW 10.639/03 AND THE TEACHING OF AFRO-BRAZILIAN HISTORY AND CULTURE». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531411188, «OS PÊNDULOS DO DIREITO À EDUCAÇÃO NO BRASIL». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531411191, «ENSINO MÉDIO: CRIANDO UM PROJETO MORAL PARA GERENCIAR O FUTURO DOS JOVENS». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531411191_en, «HIGH SCHOOL: CREATING A MORAL PROJECT TO MANAGE THE FUTURE OF YOUNG PEOPLE». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531411211, «Ample: Proposta metodológica para análise de práticas (multi)letradas na escola». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531411237, «COLONIZANDO OS SENTIDOS DE CRIANÇAS AMAZÔNIDAS: A FORMAÇÃO PROPOSTA EM A ESCOLA». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531411244, «Tendências da educação contextualizada para a convivência com o Semiárido». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531411257, «EM QUÊ O “ALFABETO DAS COLISÕES” PODE SERVIR A PESQUISADORAS EM EDUCAÇÃO?». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531411261, «LAS SIGNIFICACIONES SOBRE LAS MUJERES Y RELACIONES DE GÉNERO EN UNIVERSITARIOS». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531411266, «POLÍTICAS EDUCATIVAS Y ROL DOCENTE PARA LA INCLUSIÓN LGTBIQ+ EN AMÉRICA LATINA». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531411280, «AFETAMENTOS DA CULTURA DA ESCOLA NA INSERÇÃO PROFISSIONAL DOCENTE». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531411288, «DISCRIMINAÇÃO NO CONTEXTO ESCOLAR BRASILEIRO: PANORAMA DAS PESQUISAS». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531411288_en, «DISCRIMINATION IN THE BRAZILIAN SCHOOL CONTEXT: A RESEARCH OVERVIEW». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531411292, «L. S. VIGOTSKI NAS MONOGRAFIAS DE UM CURSO DE PEDAGOGIA (2012-2021)». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531411295, «QUALIDADE DA EDUCAÇÃO BÁSICA: PARA ALÉM DOS TESTES COGNITIVOS EM LARGA ESCALA». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531411295_en, «QUALITY OF BASIC EDUCATION: BEYOND LARGE-SCALE COGNITIVE TESTS». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531411324, «FORGER L’IDENTITÉ CITOYENNE : ANALYSE DU LE TOUR DE LA FRANCE PAR DEUX ENFANTS». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531411324_pt, «FORJAR A IDENTIDADE DE CIDADÃO: ANÁLISE DE LE TOUR DE LA FRANCE PAR DEUX ENFANTS». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531411328, «Desenvolvimento profissional de supervisores do Pibid: Planejar e experienciar». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531411330, «Renovação do ensino da escrita de 1940 a 1950 na fase inicial de escolarização». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531411334, «INTERSECCIONALIDAD: MÚLTIPLES MARGINALIZACIONES DE LAS ESTUDIANTES DESPLAZADAS». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531411338, «EDUCAÇÃO DE TRABALHADORES EM GRAMSCI (1917-1919): UMA ALTERNATIVA REVOLUCIONÁRIA». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531411342, «O ESTADO DA ARTE DO CAMPO DA DIDÁTICA NO BRASIL: AS PRODUÇÕES CIENTÍFICAS NO PERÍODO DE 2008 A 2018». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531411345, «POR UMA VIRADA ARTÍSTICO-ESTÉTICA DOS PROCESSOS FORMATIVOS PARA A DOCÊNCIA». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531411354, «RACISMO E REIVINDICAÇÃO DE RECONHECIMENTO NA EXPERIÊNCIA CURRICULAR». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531411354_en, «RACISM AND THE CLAIM FOR RECOGNITION IN CURRICULAR EXPERIENCE». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531411355, «CIDADANIA(S) EM OBRAS DIDÁTICAS DE PROJETO DE VIDA: (IM)POSSIBILIDADES DIDÁTICO-PEDAGÓGICAS». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531411359, «CONVIVÊNCIA ESCOLAR E NEOFASCISMO: APONTAMENTOS PARA PREVENIR OS ATAQUES ÀS ESCOLAS». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531411366, «TEMPOS DE DESMONTE DO ESTADO DE DIREITOS HUMANOS: TEMPOS DE IMPOSIÇÃO DE UM ESTADO DE MERCADO, DO CAPITAL». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531411371, «EDUCADORES NA ERA DA DIGITALIZAÇÃO: USO DE REDES SOCIAIS NA IBERO-AMÉRICA». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531411371_en, «TEACHERS IN THE ERA OF DIGITALIZATION: USE OF SOCIAL MEDIA IN LATIN-AMERICA». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531411377, «ACCESO A PEDAGOGÍAS EN CHILE: ANÁLISIS MULTINIVEL SEGÚN GÉNERO Y CONTEXTO URBANO-RURAL». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531411394, «A COOPERAÇÃO ENTRE OS AGENTES DA FORMAÇÃO NO ESTÁGIO CURRICULAR SUPERVISIONADO». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531411394_fr, «LA COOPÉRATION ENTRE LES AGENTS DE LA FORMATION DANS LE STAGE CURRICULAIRE SUPERVISÉ». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531411398, «MENTORAT ET PRATIQUES EN CLASSE : PERCEPTIONS DE STAGIAIRES». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531411398_pt, «MENTORIA E PRÁTICAS EM SALA DE AULA: PERCEPÇÕES DOS ESTAGIÁRIOS». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531411410, «RESISTÊNCIAS INSTITUCIONAIS E ANTIGÉNERO À IGUALDADE DE GÉNERO NA EDUCAÇÃO EM PORTUGAL». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531411412, «ACOMPANHAMENTO E DESENVOLVIMENTO DO ESTÁGIO NA FORMAÇÃO DOCENTE EM EAD». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531411412_fr, «L’ACCOMPAGNEMENT ET LE DÉVELOPPEMENT DU STAGE DANS LA FORMATION DES ENSEIGNANTS EN EAD». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531411414, «CARTAS ESCRITAS À MÃO: MEMÓRIAS, VIVÊNCIAS E REFLEXÕES NO ESTÁGIO SUPERVISIONADO». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531411414_fr, «DES LETTRES MANUSCRITES : MÉMOIRES, VÉCUS ET RÉFLEXIONS AU STAGE SUPERVISÉ». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531411425, «UNIVERSIDADE, ESCOLA E COMUNIDADE NA FORMAÇÃO DOCENTE: UM CASO NA AUSTRÁLIA». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531411434, «TRABALHO PEDAGÓGICO NO PROEJA: DISPUTAS, POLÍTICAS E EXPERIÊNCIAS NA EPT». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531411435, «CONTRIBUIÇÕES DAS DISSERTAÇÕES PARA FORMAÇÃO DE PROFESSORES DO ENSINO FUNDAMENTAL NA FRANÇA». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531411435_fr, «LES APPORTS DES MÉMOIRES DE MASTER POUR LA FORMATION DES INSTITUTEURS EN FRANCE». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531411441, «APRESENTAÇÃO: TRABALHO DOMéSTICO: REGISTRAR E (RE)PENSAR O BRASIL». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531411441_en, «PRESENTATION: DOMESTIC WORK: DOCUMENTING AND (RE)EVALUATING BRAZIL». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531411444, «LUCIE TANGUY (1937-2024)». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531411444_e, «ERRATA». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531411454, «DISPOSITIFS DE RECHERCHE-FORMATION POUR PROFESSIONNALISER LES ENSEIGNANT·E·S». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531411454_pt, «DISPOSITIVOS DE PESQUISA-FORMAÇÃO PARA PROFISSIONALIZAR OS(AS) PROFESSORES(AS)». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531411460, «The bright and dark faces of the school through students’ voice». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531411460_pt, «As faces luminosas e obscuras da escola através das vozes dos alunos». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531411518, «DIÁLOGO E CULTURA: UM OLHAR EDUCACIONAL INCLUSIVO». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531411545, «“O QUE TE TROUXE ATÉ AQUI?”: NARRATIVAS DE SI COMO RECURSO PEDAGÓGICO». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531411550, «A MUNICIPALIZAÇÃO DO ENSINO EM SANTO ANDRÉ-SP (2010/2021): IMPACTOS NA GESTÃO ESCOLAR». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531411586, «O DIÁLOGO INTERGERACIONAL EM UMA REDE COLABORATIVA ON-LINE DE FORMAÇÃO DE PROFESSORES». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531411599, «MÁS ALLÁ DE CELEBRAR: SIGNIFICADOS DE FORMACIÓN EN DIVERSIDAD EN EDUCACIÓN». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531411613, «Trayectorias de identidad docente al interior de un programa de Pedagogía Media». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531411646, «Gestão democrática: Contexto, atualização e aproximações teóricas». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531411647, «Efeitos do produtivismo acadêmico: Mapeamento e ampliações teóricas sobre o tema». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531411649, «ASSÉDIO SEXUAL NO ENSINO SUPERIOR EM PORTUGAL: EXPERIÊNCIAS DE VITIMAÇÃO». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531411652, «Escolarización en contextos de movilidad humana: Una lectura regional». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531411661, «SUPERVISÃO DE DOUTORADO: EVOLUÇÃO DAS PESQUISAS E TEMÁTICAS EMERGENTES». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531411679, «AGRADECIMENTOS A PARECERISTAS». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531411680, «NARRATIVAS DA PRÁXIS E A TRANSIÇÃO ENTRE PARADIGMAS EDUCACIONAIS NA SAÚDE». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531411680_fr, «RÉCITS DE LA PRAXIS ET TRANSITION ENTRE PARADIGMES ÉDUCATIFS EN SANTÉ». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531411716, «A GENEALOGIA DOS GRUPOS DE PESQUISA EM EJA: SUA FORMAÇÃO E SUA INTELECTUALIDADE». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531411747, «DESAFIOS E APRENDIZADOS DE NOVOS DIRETORES: ESTUDO DE CASO EM SãO PAULO». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531411749, «Ensinar sem Deus: Notas nietzschianas para educar quando a verdade não é um dado». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531411772, «SOBRE CARTEIRAS, IMPRESSOS E PARAFUSOS: POR UMA HISTÓRIA ECONÔMICA DA ESCOLA». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531411864, «LOS MARCOS EPISTÉMICOS EN EL CICLO METODOLÓGICO DE LA INVESTIGACIÓN PSICOLÓGICA DEL DESARROLLO». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531411867, «Violencia de género: Respuesta escolar y participación de las familias afectadas». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531411873, «PARCERIAS PÚBLICO-PRIVADAS EM MUNICÍPIOS CATARINENSES». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531411881, «NARRATION DU VÉCU ET FORMALISATION DU SAVOIR EXPÉRIENTIEL : UNE HISTOIRE D’ÉNONCÉS». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531411881_pt, «NARRAÇÃO DO VIVIDO E FORMALIZAÇÃO DO SABER EXPERIENCIAL: UMA HISTÓRIA DE ENUNCIADOS». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531411913, «A CIRCULAÇÃO DA PALAVRA NO CUIDADO À CRIANÇA EM VULNERABILIDADE PSÍQUICA». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531411913_fr, «LA CIRCULATION DE LA PAROLE DANS LA PRISE EN CHARGE DE L’ENFANT EN SITUATION DE VULNÉRABILITÉ PSYCHIQUE». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531411915, «SABERES EXPERIENCIAIS DE CRIANÇAS HOSPITALIZADAS: UM RECONHECIMENTO ÉTICO». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531411915_fr, «SAVOIRS EXPÉRIENTIELS DES ENFANTS HOSPITALISÉS : UNE RECONNAISSANCE ÉTHIQUE». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531411916, «PAROLES DE FUTUR·ES PATIENT·ES PARTENAIRES EN FORMATION : DE L‘EXPÉRIENCE À L‘EXPERTISE». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531411916_pt, «PALAVRAS DE FUTUROS PACIENTES PARCEIROS(AS) EM FORMAÇÃO: DA EXPERIÊNCIA À ESPECIALIZAÇÃO». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531411942, «MITOS, TENSÕES E DESIGUALDADES NA ESCRITA ACADÊMICA». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531411966, «Doutorados profissionais: Revisão da literatura sobre sua expansão internacional». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531412071, «INTERVENÇÃO PRECOCE E EDUCAÇÃO INCLUSIVA». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531412075, «FORMACIÓN Y REPRESENTACIONES DE LAS PRÁCTICAS DE LECTURA DE TEXTOS ESCOLARES». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531412075_pt, «FORMAÇÃO E REPRESENTAÇÕES DAS PRÁTICAS DE LEITURA DE TEXTOS ESCOLARES». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531412086, «Docência expandida: Etnografia das práticas de licenciados/as em ciências sociais». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531412088, «A LIDERANÇA ESCOLAR NO BRASIL: DESAFIOS E CAMINHOS EM DEBATE». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531412111, «IDENTIDAD PROFESIONAL EN EL PRÁCTICUM DE EDUCACIÓN INFANTIL: UNA REVISIÓN SISTEMÁTICA». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531412168, «Percepções raciais de crianças haitianas em um núcleo de educação infantil». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531412169, «Sensación de incomodidad y procesos de formación». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531412193, «EDUCACIÓN EN DERECHOS HUMANOS: DIGNIDAD, RECONOCIMIENTO Y NORMATIVIDAD». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531412197, «A produção de masculinidades híbridas de homens professores na educação infantil». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531412265, «Fotografia e direitos humanos na escola: Caminhos para a formação docente». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531412303, «APRESENTAÇÃO - FORMAR OS PROFESSORES NA UNIVERSIDADE: UM DESAFIO SEMPRE RENOVADO E ESTIMULANTE». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531412303_fr, «PRÉSENTATION - FORMER LES ENSEIGNANTS À L’UNIVERSITÉ: UN DÉFI TOUJOURS RENOUVELÉ ET STIMULANT». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531412308, «DA GESTÃO DEMOCRÁTICA À HIPERBUROCRACIA DIGITAL: ENTREVISTA COM LICÍNIO C. LIMA». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531412316, «Tertulias literarias dialógicas en estudiantes con necesidades educativas especiales». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531412351, «Quem tem medo do movimento negro? Movimento negro, educação e a Lei n. 10.639/2003». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531412366, «Concepciones, políticas y prácticas de inducción docente en el contexto latinoamericano». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531412389, «As mulheres e a educação física feminina nos congressos científicos internacionais». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531412455, «APRESENTAÇÃO: SABERES EXPERIENCIAIS SOB O PRISMA DAS NARRATIVAS DE SI EM EDUCAÇÃO E SAÚDE». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531412455_fr, «PRÉSENTATION: LES SAVOIRS EXPÉRIENTIELS AU PRISME DES RÉCITS DE SOI EN ÉDUCATION ET SANTÉ». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531412496, «PARA ALÉM DO ACESSO: CIÊNCIA ABERTA E EQUIDADE NA PRODUÇÃO DE CONHECIMENTO CIENTÍFICO». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531412504, «Racialidade, trajetórias e subjetividade: Retratos sociológicos na pós-graduação». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531412540, «Políticas neoliberais na educação de São Paulo: A quem elas servem?». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531412543, «Género en el desarrollo profesional docente: Percepciones directivas». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531412586, «AGRADECIMENTOS A PARECERISTAS». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531412617, «Um estudo sobre lideranças em uma escola de ensino integral». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531412634, «Infâncias negras: Lutas para a garantia de direitos e por uma vida justa». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531412652, «Memórias sobre a escolarização em uma comunidade ribeirinha (1930-1940)». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531412672, «O currículo no doutorado em educação e a constituição do habitus científico». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531412694, «Entre redes e saberes: Formação docente na era da cultura digital». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/1980531412720, «Filosofia, educação e formação humana: Diálogo com o professor Luís Manuel A. V. Bernardo». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
+
+10.1590/198053149671_e, «ERRATA». El servidor de la revista ha denegado el acceso; no se ha insistido. Detalle: El servidor ha denegado el acceso (respuesta 403). No se le hacen más peticiones en esta ejecución.
 
 ### EURE (Santiago) - Revista Latinoamericana de Estudios Urbano Regionales
 
@@ -74,9 +1077,43 @@ Revistas con al menos un artículo legible en la aplicación: 0.
 
 10.7764/eure.52.155.05, «Planeadores ciudadanos autodidactas: incidencia en la planeación a partir del conocimiento legal autogestionado». Crossref no declara ninguna licencia para el artículo.
 
+10.7764/eure.52.155.06, «Arriendos temporales como motores de desigualdad: Un análisis sociodemográfico de Airbnb en Río de Janeiro». La página del artículo declara una licencia distinta a la de Crossref. Detalle: Licencia en Crossref: https://creativecommons.org/licenses/by/4.0/. Licencias en el texto de la revista: https://creativecommons.org/licenses/by-nc/4.0/.
+
+10.7764/eure.52.155.07, «“Nosotros solo queremos respirar”: Conflictos ambientales y desigualdad en la cuenca Matanza Riachuelo en Buenos Aires». La página del artículo declara una licencia distinta a la de Crossref. Detalle: Licencia en Crossref: https://creativecommons.org/licenses/by/4.0/. Licencias en el texto de la revista: https://creativecommons.org/licenses/by-nc/4.0/.
+
+10.7764/eure.52.155.08, «Planificación urbana y redes de servicios en las Manzanas de Cuidado de Bogotá». La página del artículo declara una licencia distinta a la de Crossref. Detalle: Licencia en Crossref: https://creativecommons.org/licenses/by/4.0/. Licencias en el texto de la revista: https://creativecommons.org/licenses/by-nc/4.0/.
+
+10.7764/eure.52.155.09, «Satisfacción residencial posrelocalización de asentamientos informales: estudio comparativo de viviendas sociales en Colombia y Chile». La página del artículo declara una licencia distinta a la de Crossref. Detalle: Licencia en Crossref: https://creativecommons.org/licenses/by/4.0/. Licencias en el texto de la revista: https://creativecommons.org/licenses/by-nc/4.0/.
+
+10.7764/eure.52.155.10, «Renegociaciones cotidianas frente a la gentrificación y el desplazamiento en el espacio público: La vida urbana en la Alameda Central en el Centro Histórico de la Ciudad de México». La página del artículo declara una licencia distinta a la de Crossref. Detalle: Licencia en Crossref: https://creativecommons.org/licenses/by/4.0/. Licencias en el texto de la revista: https://creativecommons.org/licenses/by-nc/4.0/.
+
 10.7764/eure.52.155.11, «La potencia reveladora de las ruinas en Latinoamérica». Crossref no declara ninguna licencia para el artículo.
 
 10.7764/eure.52.155.12, «Insurgent Planning Practice? Cómo, dónde y por qué, y también para qué». Crossref no declara ninguna licencia para el artículo.
+
+10.7764/eure.52.156.01, «Más allá de los anfitriones: profesionalización, segmentación e hibridación en el mercado de alquileres temporarios de Buenos Aires». La página del artículo declara una licencia distinta a la de Crossref. Detalle: Licencia en Crossref: https://creativecommons.org/licenses/by/4.0/. Licencias en el texto de la revista: https://creativecommons.org/licenses/by-nc/4.0/.
+
+10.7764/eure.52.156.02, «Germinación sociopolítica de las huertas urbanas comunitarias en el siglo XXI: Estudios de casos en la zona central de Chile». La página del artículo declara una licencia distinta a la de Crossref. Detalle: Licencia en Crossref: https://creativecommons.org/licenses/by/4.0/. Licencias en el texto de la revista: https://creativecommons.org/licenses/by-nc/4.0/.
+
+10.7764/eure.52.156.03, «Los ODS en la Región de Antofagasta: descentralización, heterogeneidad y priorización de las experiencias locales de desarrollo». El HTML o XML no se ha podido convertir con fidelidad. Detalle: XML: El texto contiene un elemento que no se puede reproducir con fidelidad: <disp-formula>.
+
+10.7764/eure.52.156.04, «Estudiar la expansión urbana desde una perspectiva histórico-morfológica. El caso de Quito, Ecuador, 1908-1942». La página del artículo declara una licencia distinta a la de Crossref. Detalle: Licencia en Crossref: https://creativecommons.org/licenses/by/4.0/. Licencias en el texto de la revista: https://creativecommons.org/licenses/by-nc/4.0/.
+
+10.7764/eure.52.156.05, «Trayectorias habitacionales hacia la favela: narrativas, racionalidades, transversalidades». La página del artículo declara una licencia distinta a la de Crossref. Detalle: Licencia en Crossref: https://creativecommons.org/licenses/by/4.0/. Licencias en el texto de la revista: https://creativecommons.org/licenses/by-nc/4.0/.
+
+10.7764/eure.52.156.06, «Conflictos socioterritoriales y representación política en Uruguay (2005-2022): baja conflictividad en un caso tardío». La página del artículo declara una licencia distinta a la de Crossref. Detalle: Licencia en Crossref: https://creativecommons.org/licenses/by/4.0/. Licencias en el texto de la revista: https://creativecommons.org/licenses/by-nc/4.0/.
+
+10.7764/eure.52.156.07, «“Desde chica he escuchado eso”. Reproducción del estigma territorial en la perspectiva de jóvenes de tres territorios en Chile». La página del artículo declara una licencia distinta a la de Crossref. Detalle: Licencia en Crossref: https://creativecommons.org/licenses/by/4.0/. Licencias en el texto de la revista: https://creativecommons.org/licenses/by-nc/4.0/.
+
+10.7764/eure.52.156.08, «El impacto del tejido social urbano en la satisfacción con la vida. Análisis mediante técnicas de machine learning». El HTML o XML no se ha podido convertir con fidelidad. Detalle: XML: El texto contiene un elemento que no se puede reproducir con fidelidad: <disp-formula>.
+
+10.7764/eure.52.156.09, «Formas de conectar. Tipología de estaciones del Metro de Santiago». La página del artículo declara una licencia distinta a la de Crossref. Detalle: Licencia en Crossref: https://creativecommons.org/licenses/by/4.0/. Licencias en el texto de la revista: https://creativecommons.org/licenses/by-nc/4.0/.
+
+10.7764/eure.52.156.10, «Las desigualdades en la movilidad como producto de una urbanización excluyente: por una política de justicia territorial en la Ciudad de México». La página del artículo declara una licencia distinta a la de Crossref. Detalle: Licencia en Crossref: https://creativecommons.org/licenses/by/4.0/. Licencias en el texto de la revista: https://creativecommons.org/licenses/by-nc/4.0/.
+
+10.7764/eure.52.156.11, «Covid-19, nómadas digitales y la sexta ola de gentrificación». La página del artículo declara una licencia distinta a la de Crossref. Detalle: Licencia en Crossref: https://creativecommons.org/licenses/by/4.0/. Licencias en el texto de la revista: https://creativecommons.org/licenses/by-nc/4.0/.
+
+10.7764/eure.52.156.12, «Extractivismo y urbanización en países dependientes: viejos y nuevos conflictos del siglo XXI». La página del artículo declara una licencia distinta a la de Crossref. Detalle: Licencia en Crossref: https://creativecommons.org/licenses/by/4.0/. Licencias en el texto de la revista: https://creativecommons.org/licenses/by-nc/4.0/.
 
 ### Cultura-Hombre-Sociedad
 
@@ -673,6 +1710,40 @@ Revistas con al menos un artículo legible en la aplicación: 0.
 10.14244/contemp.v16.1498, «Como a indigeneidade molda os estados nacionais?». Crossref no declara ninguna licencia para el artículo.
 
 10.14244/contemp.v16.1500, «A Sinfonia Barroco-Pragmática». Crossref no declara ninguna licencia para el artículo.
+
+### Estudos de Sociologia
+
+10.51359/2317-5427.2025.266380, «Sergio Arouca sob a perspectiva do pensamento social brasileiro». El HTML o XML no se ha podido convertir con fidelidad. Detalle: Crossref: El XML no es un artículo JATS. xml: El XML no es un artículo JATS.
+
+10.51359/2317-5427.2025.267307, «Lógicas do autoritarismo digital: masculinidades, populismo religioso e políticas de controle no Brasil». El HTML o XML no se ha podido convertir con fidelidad. Detalle: Crossref: El XML no es un artículo JATS. xml: El XML no es un artículo JATS.
+
+10.51359/2317-5427.2025.267526, «Do desenvolvimento desigual à revolução teimosa». El HTML o XML no se ha podido convertir con fidelidad. Detalle: Crossref: El XML no es un artículo JATS. xml: El XML no es un artículo JATS.
+
+10.51359/2317-5427.2025.268331, «O habitus na acepção de Norbert Elias e Pierre Bourdieu». El HTML o XML no se ha podido convertir con fidelidad. Detalle: Crossref: El XML no es un artículo JATS. xml: El XML no es un artículo JATS.
+
+10.51359/2317-5427.2025.268478, «Genealogia e pensamentos decoloniais: colonialidade do poder/saber como teoria do assujeitamento». El HTML o XML no se ha podido convertir con fidelidad. Detalle: Crossref: El XML no es un artículo JATS. xml: El XML no es un artículo JATS.
+
+10.51359/2317-5427.2025.268785, «Apresentação do Dossiê - Do brado populista à retórica do ódio: estratégias discursivas da extrema direita no ambiente digital». El HTML o XML no se ha podido convertir con fidelidad. Detalle: Crossref: El XML no es un artículo JATS. xml: El XML no es un artículo JATS.
+
+10.51359/2317-5427.2026.267261, «Cinema, representação e sociedade: perspectivas a partir da sociologia da arte». El HTML o XML no se ha podido convertir con fidelidad. Detalle: xml: El XML no es un artículo JATS.
+
+10.51359/2317-5427.2026.268738, «Uma visão sistemática sobre o uso da história nos debates atuais em sociologia e sobre o potencial e os problemas de uma epistemologia histórica da sociologia». El HTML o XML no se ha podido convertir con fidelidad. Detalle: xml: El XML no es un artículo JATS.
+
+10.51359/2317-5427.2026.269040, «As diretrizes das Nações Unidas sobre a abolição dos castigos na vida escolar das crianças». El HTML o XML no se ha podido convertir con fidelidad. Detalle: xml: El XML no es un artículo JATS.
+
+10.51359/2317-5427.2026.269465, «Gerência hospitalar como lugar de fronteira: trabalho, subjetividade e contradições do gerencialismo no serviço público de saúde». El HTML o XML no se ha podido convertir con fidelidad. Detalle: xml: El XML no es un artículo JATS.
+
+10.51359/2317-5427.2026.269488, «Achille Mbembe e a perspectiva ontopolítica da democracia». El HTML o XML no se ha podido convertir con fidelidad. Detalle: xml: El XML no es un artículo JATS.
+
+10.51359/2317-5427.2026.269581, «Entre W.E.B. Du Bois e Durkheim: raça como chave interpretativa e categoria analítica da modernidade». El HTML o XML no se ha podido convertir con fidelidad. Detalle: xml: El XML no es un artículo JATS.
+
+10.51359/2317-5427.2026.269630, «Necrofania e fragmentação disciplinar: uma proposta de unidade analítica de terceira ordem para a teoria sociológica contemporânea». El HTML o XML no se ha podido convertir con fidelidad. Detalle: xml: El XML no es un artículo JATS.
+
+10.51359/2317-5427.2026.269637, «Ciências naturais e ciências sociais: as raízes filosóficas de Florestan Fernandes». El HTML o XML no se ha podido convertir con fidelidad. Detalle: xml: El XML no es un artículo JATS.
+
+10.51359/2317-5427.2026.269777, «Ensaio sobre fenomenologia e sociologia: ponderações acerca do pensamento disciplinar e dos métodos qualitativos». El HTML o XML no se ha podido convertir con fidelidad. Detalle: xml: El XML no es un artículo JATS.
+
+10.51359/2317-5427.2026.270271, «Apresentação do dossiê - A fragmentação disciplinar da sociologia: uma perspectiva histórica e teórica». El HTML o XML no se ha podido convertir con fidelidad. Detalle: xml: El XML no es un artículo JATS.
 
 ### Anduli
 
@@ -1592,6 +2663,16 @@ Revistas con al menos un artículo legible en la aplicación: 0.
 
 10.24275/zeez7858, «Antropología de los gobiernos locales y los procesos políticos en la Ciudad de México. Héctor Tejera Gaona y Emanuel Rodríguez Domínguez». Crossref no declara ninguna licencia para el artículo.
 
+### International Journal on Homelessness
+
+10.5206/ijoh.2026.2.22450, «Measuring Permanent Exits from Homeless Emergency Shelters in Toronto». robots.txt de la revista no permite descargar la página. Detalle: robots.txt no permite descargar esta página.
+
+10.5206/ijoh.2026.2.25467, «Editorial: Whose Fault is it? Looking Upstream to Solve Homelessness». robots.txt de la revista no permite descargar la página. Detalle: robots.txt no permite descargar esta página.
+
+10.5206/ijoh.2026.3.26780, «Editorial: Who Decides Where People Belong». robots.txt de la revista no permite descargar la página. Detalle: robots.txt no permite descargar esta página.
+
+10.5206/ijoh.2026.4.27016, «¿Por qué una edición especial sobre personas en situación de calle para América Latina?». robots.txt de la revista no permite descargar la página. Detalle: robots.txt no permite descargar esta página.
+
 ### Area
 
 10.62166/area.30.1.1829, «Activismos en arquitectura. Hacia una caracterización de los colectivos en Latinoamérica». La licencia no permite obras derivadas (ND).
@@ -1754,6 +2835,8 @@ Revistas con al menos un artículo legible en la aplicación: 0.
 
 10.33679/rfn.v.e2413, «Políticas públicas y tecnologías pilares en vehículos eléctricos: lecciones internacionales para México». La licencia no permite obras derivadas (ND).
 
+10.33679/rfn.v.e2422, «Análisis espacial bayesiano de la mortalidad infantily sus determinantes en municipios de México mediante INLA». El HTML o XML no se ha podido convertir con fidelidad. Detalle: Crossref: El texto contiene un elemento que no se puede reproducir con fidelidad: <disp-formula>. XML (Inglés): El texto contiene un elemento que no se puede reproducir con fidelidad: <disp-formula>. XML: El texto contiene un elemento que no se puede reproducir con fidelidad: <disp-formula>.
+
 10.33679/rfn.v.e2430, «Fiesta en La Misión: representar la nación y la comunidad en Baja California». La licencia no permite obras derivadas (ND).
 
 10.33679/rfn.v.e2431, «Municipios y condados de la frontera México-Estados Unidos: cambios en la población, 2000-2020». La licencia no permite obras derivadas (ND).
@@ -1764,7 +2847,15 @@ Revistas con al menos un artículo legible en la aplicación: 0.
 
 10.33679/rfn.v.e2448, «Desafíos del registro: niñas, niños y adolescentes migrantes en el Sistema Educativo Nacional mexicano». La licencia no permite obras derivadas (ND).
 
+10.33679/rfn.v.e2452, «Diferencias en el financiamiento del Banco de Desarrollode América del Norte en la región fronteriza». El HTML o XML no se ha podido convertir con fidelidad. Detalle: Crossref: El texto contiene un elemento que no se puede reproducir con fidelidad: <disp-formula>. XML: El texto contiene un elemento que no se puede reproducir con fidelidad: <disp-formula>. XML (Inglés): El texto contiene un elemento que no se puede reproducir con fidelidad: <disp-formula>.
+
+10.33679/rfn.v.e2454, «Sufrimiento climático, salud y género en población jornalera agrícola migrante en Sonora, México». El HTML o XML no se ha podido convertir con fidelidad. Detalle: Crossref: Elemento JATS no reconocido: <supplement>. XML: Elemento JATS no reconocido: <supplement>. XML (Inglés): Elemento JATS no reconocido: <supplement>.
+
 10.33679/rfn.v.e2460, «Mercado civil de armas de fuego en México, 2021-2023». La licencia no permite obras derivadas (ND).
+
+10.33679/rfn.v.e2465, «Desplazamiento forzado interno y retorno en el contextode la «guerra contra las drogas» en México». El HTML o XML no se ha podido convertir con fidelidad. Detalle: Crossref: Elemento JATS no reconocido: <conf-sponsor>. XML: Elemento JATS no reconocido: <conf-sponsor>. XML (Inglés): Elemento JATS no reconocido: <conf-sponsor>.
+
+10.33679/rfn.v.e2469, «Infraestructura de hidrocarburos y crecimiento económico en México: un análisis espacial, 1982-2021<b></b>». El HTML o XML no se ha podido convertir con fidelidad. Detalle: Crossref: El texto contiene un elemento que no se puede reproducir con fidelidad: <disp-formula>. XML: El texto contiene un elemento que no se puede reproducir con fidelidad: <disp-formula>. XML (Inglés): El texto contiene un elemento que no se puede reproducir con fidelidad: <disp-formula>.
 
 10.33679/rfn.v1i1.2375, «Planeación y calidad de áreas verdes en Ciudad Juárez, Chihuahua». La licencia no permite obras derivadas (ND).
 
@@ -1785,6 +2876,8 @@ Revistas con al menos un artículo legible en la aplicación: 0.
 10.33679/rfn.v1i1.2397, «Narrativas culturales en las películas fronterizas de México y Estados Unidos». La licencia no permite obras derivadas (ND).
 
 10.33679/rfn.v1i1.2399, «De agricultor a distribuidor. Upgrading funcional transfronterizo en el noroeste de México». La licencia no permite obras derivadas (ND).
+
+10.33679/rfn.v1i1.2403, «(Re)construyendo el sentido de pertenencia: personas mexicanas deportadas en la frontera con Estados Unidos». La página del artículo declara una licencia distinta a la de Crossref. Detalle: Licencias en la página: https://creativecommons.org/licenses/by-nc-nd/4.0/, http://creativecommons.org/licenses/by-nc-nd/4.0.
 
 10.33679/rfn.v1i1.2404, «Impacto del programa Jóvenes Construyendo el Futuro en los homicidios dolosos en México». La licencia no permite obras derivadas (ND).
 
@@ -1888,2044 +2981,710 @@ Revistas con al menos un artículo legible en la aplicación: 0.
 
 10.5209/cgen.99742, «Reseña de Ecoficciones. Cine para ‘sentipensar’ la crisis climática, de Asun Bernárdez, Valencia, Tirant lo Blanc, 2023». Crossref no declara ninguna licencia para el artículo.
 
-## Pendientes de un nuevo intento
-
-### Cadernos de Pesquisa
-
-10.1590/1980531410065, «REFLEXIÓN COLABORATIVA DE DIDACTAS BASADA EN UN SELF-STUDY INTERINSTITUCIONAL». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531410073, «O TRABALHO COM FOTOGRAFIAS EM SALA DE AULA: UMA ANÁLISE MULTISSEMIÓTICA». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531410073_en, «WORKING WITH PHOTOGRAPHS IN THE CLASSROOM: A MULTISEMIOTIC ANALYSIS». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531410079, «PROGRAMA DE INOVAÇÃO EDUCAÇÃO CONECTADA: POLÍTICA DE AMPLIAÇÃO DO CAPITAL». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531410121, «RESIGNIFICACIÓN DEL EVALUAR-APRENDER COMO PRÁCTICA DE LIBERTAD». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531410125, «PESQUISA E INOVAÇÃO RESPONSÁVEIS NA ÁREA DA EDUCAÇÃO: UMA REVISÃO SISTEMÁTICA». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531410206, «AVALIAÇÃO DE CONTEXTO DA EDUCAÇÃO INFANTIL: INSTRUMENTOS, MÉTODOS, RESULTADOS E USOS». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531410206_en, «EARLY CHILDHOOD EDUCATION CONTEXT EVALUATION: INSTRUMENTS, METHODS, RESULTS, AND USES». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531410341, «ARTE-EDUCAÇÃO POR MEIO DA DEMOCRACIA NOS INSTITUTOS FEDERAIS». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531410358, «INNOVAR EN UNA ESCUELA VULNERABLE: UNA EXPERIENCIA DE INVESTIGACIÓN-ACCIÓN». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531410374, «EXPERIÊNCIA ESCOLAR NO ENSINO MÉDIO NOTURNO: UMA ANÁLISE COMPARATIVA». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531410374_en, «SCHOOL EXPERIENCE IN EVENING UPPER SECONDARY EDUCATION: A COMPARATIVE ANALYSIS». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531410394, «INTERSETORIALIDADE E TRANSVERSALIDADE: ANÁLISE DO BRASIL CARINHOSO (2012-2015)». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531410394_en, «INTERSECTORALITY AND GENDER MAINSTREAMING: AN ANALYSIS OF BRASIL CARINHOSO (2012-2015)». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531410424, «EXPLORANDO A LINGUAGEM NEUTRA COM LINGUISTAS, PROFESSORES E PESSOAS NÃO BINÁRIAS». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531410442, «EL CURRÍCULO COMO UN ESPACIO DE ACOGIDA». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531410460, «RETOS Y CONTROVERSIAS DE LA FORMACIÓN ÉTICA EN LAS UNIVERSIDADES DE BOGOTÁ». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531410473, «HABLEMOS DEL BINOMIO TEORÍA-PRÁCTICA EN LA ENSEÑANZA: MAPEANDO AUTORES Y POSTURAS». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531410476, «GRUPOS DE DIÁLOGO COMO METODOLOGIA DE PESQUISA EM EDUCAÇÃO». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531410528, «VIOLENCIA ESCOLAR EN CHILE: DESAFÍOS DESDE LA VISIÓN DOCENTE». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531410545, «PROFISSIONAL DE APOIO ESCOLAR E POLÍTICAS PÚBLICAS EM EDUCAÇÃO ESPECIAL». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531410605, «FACTORES QUE DIFICULTAN LA OBTENCIÓN DE POSGRADO A LAS MUJERES ACADÉMICAS». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531410610, «PESSOAS COM DEFICIÊNCIA E AS COTAS DO SISU: MAPEAMENTO DOS CRITÉRIOS DE ELEGIBILIDADE». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531410617, «AUTISMO E POLÍTICAS PÚBLICAS BRASILEIRAS: NOMEAÇÕES, REPRESENTAÇÕES E AUSÊNCIAS». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531410625, «HEURÍSTICOS PARA INVESTIGAR LA SOCIOGÉNESIS DE LAS DISCIPLINAS ESCOLARES». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531410634, «TOPOGRAFIA DA FORMAÇÃO DE PROFESSORES DE HISTÓRIA NA AMAZÔNIA BRASILEIRA». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531410649, «INEQUIDADES DE GÉNERO EN STEM: EL CASO DE ACADÉMICAS UNIVERSITARIAS EN CHILE». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531410685, «UNA APROXIMACIÓN AL VIDEO ANÁLISIS DEL CONOCIMIENTO CIENTÍFICO DEL DISCURSO DEL AULA». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531410689, «COMISSÃO DE HETEROIDENTIFICAÇÃO E CLASSIFICAÇÃO RACIAL DE ESTUDANTES PARDOS». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531410695, «ESTUDIAR… ¿Y DESPUÉS QUÉ? CONTEXTOS Y DILEMAS DE LA JUVENTUD RURAL ESPAÑOLA». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531410704, «TRANSPORTE ESCOLAR RURAL: LÍMITES Y OPORTUNIDADES PARA EL ARRAIGO POBLACIONAL». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531410710, «DIREITO LINGUÍSTICO-EDUCACIONAL PARA ALUNOS SURDOS E O “ALÉM-ACESSIBILIDADE”». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531410716, «CONDICIONES LABORALES DE LA JUVENTUD RURAL DE MÉXICO». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531410725, «CRIANÇAS E HISTÓRIA: O TEMPO COMO CONCEITO E A NARRATIVA DA TEMPORALIDADE». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531410727, «¿CHICOS DE CAMPO? PROYECTOS EDUCATIVOS Y LABORALES DE JÓVENES DE LA HORTICULTURA». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531410741, «ATIVISMO DAS TRABALHADORAS DOMÉSTICAS: DA COZINHA À ARENA NACIONAL E INTERNACIONAL». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531410741_en, «DOMESTIC WORKERS’ ACTIVISM: FROM THE KITCHEN TO THE NATIONAL AND INTERNATIONAL ARENA». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531410746, «“REGINALDO PRANDI”, TERCEIRA MULHER DE XANGÔ: LEITURAS ERRANTES DE NOMES PRÓPRIOS». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531410752, «ASESORES PEDAGÓGICOS EN EDUCACIÓN BÁSICA: QUIÉNES SON Y CÓMO ORGANIZAN SU TRABAJO». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531410773, «YVONNE JEAN: UM OLHAR SOBRE A ESCOLA REGIONAL DE MERITI, RJ, 1948». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531410773_en, «YVONNE JEAN: A LOOK AT ESCOLA REGIONAL DE MERITI, RJ, 1948». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531410778, «FORMACIÓN DOCENTE EN ESCRITURA Y DIDÁCTICA ESPECÍFICA: HACIA UN MODELO FORMATIVO». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531410786, «VISIBILIDADE E RECONHECIMENTO SOCIOPOLÍTICO: O POVO DE AXÉ NAS PÓS-GRADUAÇÕES». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531410796, «SEMPRE ELAS? VALORES E DIVISÃO DO TRABALHO DOMÉSTICO EM PERSPECTIVA COMPARADA». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531410796_en, «ALWAYS THE WOMEN? VALUES AND HOUSEWORK DIVISION IN A COMPARATIVE PERSPECTIVE». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531410797, «OS SENTIDOS DO AFETO NOS ESTUDOS SOBRE TRABALHO DOMÉSTICO». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531410797_en, «THE ROLE OF AFFECTION IN DOMESTIC WORK STUDIES». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531410798, «SERVIÇO DOMÉSTICO E EQUIPARAÇÃO LEGAL: DISPUTA ARGUMENTATIVA E FATORES ASSOCIADOS». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531410798_en, «DOMESTIC SERVICE AND LEGAL PARITY: ARGUMENTATIVE DISPUTE AND ASSOCIATED FACTORS». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531410851, «O SISTEMA PÚBLICO DE ENSINO FRENTE AO NEOLIBERALISMO NA ESPANHA E NO BRASIL». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531410852, «MULHERES QUE ORIENTAM MULHERES: A FILOSOFIA EM PERSPECTIVA COMPARADA». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531410855, «A PRODUÇÃO SOBRE EDUCAÇÃO ESCOLAR INDÍGENA EM TESES E DISSERTAÇÕES NO BRASIL». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531410855_en, «PRODUCTION ON INDIGENOUS SCHOOL EDUCATION IN THESES AND DISSERTATIONS IN BRAZIL». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531410859, «A SUBJETIVIDADE DA EXPERIÊNCIA DE SER NEGRO». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531410927, «FRONTEIRAS NO TRABALHO REMUNERADO EM DOMICÍLIO: DILEMAS ANALÍTICOS E IDENTITÁRIOS». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531410927_en, «FRONTIERS IN PAID DOMESTIC WORK: ANALYTICAL AND IDENTITY DILEMMAS». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531410937, «CLAVES DIDÁCTICAS Y ORGANIZATIVAS DE LAS PRÁCTICAS INNOVADORAS SEGÚN EL PROFESORADO». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531411085, «EDUCACIÓN INTERCULTURAL: MULTIPERSPECTIVA DEL CURRÍCULO DE LA EDUCACIÓN SUPERIOR». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531411093, «IMPACTOS DA COVID-19 NA EDUCAÇÃO DE JOVENS E ADULTOS: UMA REVISÃO DE LITERATURA». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531411093_en, «IMPACTS OF COVID-19 ON YOUTH AND ADULT EDUCATION: A LITERATURE REVIEW». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531411094, «CONCEPCIONES DE COLABORACIÓN DOCENTE EN POLÍTICAS EDUCATIVAS CHILENAS VIGENTES». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531411128, «PRODUÇÃO DA DIFERENÇA: EDUCAÇÃO ESCOLAR QUILOMBOLA E AS CIÊNCIAS SOCIAIS». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531411128_en, «CONSTRUCTING THE DIFFERENCE: QUILOMBOLA SCHOOL EDUCATION AND THE SOCIAL SCIENCES». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531411159, «ESCOLAS, SAÚDE E RISCOS NA ADOLESCÊNCIA: REFLEXÕES A PARTIR DO ESTUDO SP-PROSO». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531411162, «A LEI 10.639/03 E O ENSINO DE HISTóRIA E CULTURA AFRO-BRASILEIRA». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531411162_en, «LAW 10.639/03 AND THE TEACHING OF AFRO-BRAZILIAN HISTORY AND CULTURE». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531411188, «OS PÊNDULOS DO DIREITO À EDUCAÇÃO NO BRASIL». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531411191, «ENSINO MÉDIO: CRIANDO UM PROJETO MORAL PARA GERENCIAR O FUTURO DOS JOVENS». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531411191_en, «HIGH SCHOOL: CREATING A MORAL PROJECT TO MANAGE THE FUTURE OF YOUNG PEOPLE». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531411211, «Ample: Proposta metodológica para análise de práticas (multi)letradas na escola». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531411237, «COLONIZANDO OS SENTIDOS DE CRIANÇAS AMAZÔNIDAS: A FORMAÇÃO PROPOSTA EM A ESCOLA». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531411244, «Tendências da educação contextualizada para a convivência com o Semiárido». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531411257, «EM QUÊ O “ALFABETO DAS COLISÕES” PODE SERVIR A PESQUISADORAS EM EDUCAÇÃO?». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531411261, «LAS SIGNIFICACIONES SOBRE LAS MUJERES Y RELACIONES DE GÉNERO EN UNIVERSITARIOS». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531411266, «POLÍTICAS EDUCATIVAS Y ROL DOCENTE PARA LA INCLUSIÓN LGTBIQ+ EN AMÉRICA LATINA». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531411280, «AFETAMENTOS DA CULTURA DA ESCOLA NA INSERÇÃO PROFISSIONAL DOCENTE». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531411288, «DISCRIMINAÇÃO NO CONTEXTO ESCOLAR BRASILEIRO: PANORAMA DAS PESQUISAS». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531411288_en, «DISCRIMINATION IN THE BRAZILIAN SCHOOL CONTEXT: A RESEARCH OVERVIEW». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531411292, «L. S. VIGOTSKI NAS MONOGRAFIAS DE UM CURSO DE PEDAGOGIA (2012-2021)». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531411295, «QUALIDADE DA EDUCAÇÃO BÁSICA: PARA ALÉM DOS TESTES COGNITIVOS EM LARGA ESCALA». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531411295_en, «QUALITY OF BASIC EDUCATION: BEYOND LARGE-SCALE COGNITIVE TESTS». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531411324, «FORGER L’IDENTITÉ CITOYENNE : ANALYSE DU LE TOUR DE LA FRANCE PAR DEUX ENFANTS». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531411324_pt, «FORJAR A IDENTIDADE DE CIDADÃO: ANÁLISE DE LE TOUR DE LA FRANCE PAR DEUX ENFANTS». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531411328, «Desenvolvimento profissional de supervisores do Pibid: Planejar e experienciar». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531411330, «Renovação do ensino da escrita de 1940 a 1950 na fase inicial de escolarização». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531411334, «INTERSECCIONALIDAD: MÚLTIPLES MARGINALIZACIONES DE LAS ESTUDIANTES DESPLAZADAS». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531411338, «EDUCAÇÃO DE TRABALHADORES EM GRAMSCI (1917-1919): UMA ALTERNATIVA REVOLUCIONÁRIA». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531411342, «O ESTADO DA ARTE DO CAMPO DA DIDÁTICA NO BRASIL: AS PRODUÇÕES CIENTÍFICAS NO PERÍODO DE 2008 A 2018». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531411345, «POR UMA VIRADA ARTÍSTICO-ESTÉTICA DOS PROCESSOS FORMATIVOS PARA A DOCÊNCIA». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531411354, «RACISMO E REIVINDICAÇÃO DE RECONHECIMENTO NA EXPERIÊNCIA CURRICULAR». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531411354_en, «RACISM AND THE CLAIM FOR RECOGNITION IN CURRICULAR EXPERIENCE». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531411355, «CIDADANIA(S) EM OBRAS DIDÁTICAS DE PROJETO DE VIDA: (IM)POSSIBILIDADES DIDÁTICO-PEDAGÓGICAS». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531411359, «CONVIVÊNCIA ESCOLAR E NEOFASCISMO: APONTAMENTOS PARA PREVENIR OS ATAQUES ÀS ESCOLAS». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531411366, «TEMPOS DE DESMONTE DO ESTADO DE DIREITOS HUMANOS: TEMPOS DE IMPOSIÇÃO DE UM ESTADO DE MERCADO, DO CAPITAL». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531411371, «EDUCADORES NA ERA DA DIGITALIZAÇÃO: USO DE REDES SOCIAIS NA IBERO-AMÉRICA». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531411371_en, «TEACHERS IN THE ERA OF DIGITALIZATION: USE OF SOCIAL MEDIA IN LATIN-AMERICA». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531411377, «ACCESO A PEDAGOGÍAS EN CHILE: ANÁLISIS MULTINIVEL SEGÚN GÉNERO Y CONTEXTO URBANO-RURAL». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531411394, «A COOPERAÇÃO ENTRE OS AGENTES DA FORMAÇÃO NO ESTÁGIO CURRICULAR SUPERVISIONADO». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531411394_fr, «LA COOPÉRATION ENTRE LES AGENTS DE LA FORMATION DANS LE STAGE CURRICULAIRE SUPERVISÉ». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531411398, «MENTORAT ET PRATIQUES EN CLASSE : PERCEPTIONS DE STAGIAIRES». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531411398_pt, «MENTORIA E PRÁTICAS EM SALA DE AULA: PERCEPÇÕES DOS ESTAGIÁRIOS». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531411410, «RESISTÊNCIAS INSTITUCIONAIS E ANTIGÉNERO À IGUALDADE DE GÉNERO NA EDUCAÇÃO EM PORTUGAL». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531411412, «ACOMPANHAMENTO E DESENVOLVIMENTO DO ESTÁGIO NA FORMAÇÃO DOCENTE EM EAD». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531411412_fr, «L’ACCOMPAGNEMENT ET LE DÉVELOPPEMENT DU STAGE DANS LA FORMATION DES ENSEIGNANTS EN EAD». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531411414, «CARTAS ESCRITAS À MÃO: MEMÓRIAS, VIVÊNCIAS E REFLEXÕES NO ESTÁGIO SUPERVISIONADO». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531411414_fr, «DES LETTRES MANUSCRITES : MÉMOIRES, VÉCUS ET RÉFLEXIONS AU STAGE SUPERVISÉ». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531411425, «UNIVERSIDADE, ESCOLA E COMUNIDADE NA FORMAÇÃO DOCENTE: UM CASO NA AUSTRÁLIA». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531411434, «TRABALHO PEDAGÓGICO NO PROEJA: DISPUTAS, POLÍTICAS E EXPERIÊNCIAS NA EPT». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531411435, «CONTRIBUIÇÕES DAS DISSERTAÇÕES PARA FORMAÇÃO DE PROFESSORES DO ENSINO FUNDAMENTAL NA FRANÇA». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531411435_fr, «LES APPORTS DES MÉMOIRES DE MASTER POUR LA FORMATION DES INSTITUTEURS EN FRANCE». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531411441, «APRESENTAÇÃO: TRABALHO DOMéSTICO: REGISTRAR E (RE)PENSAR O BRASIL». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531411441_en, «PRESENTATION: DOMESTIC WORK: DOCUMENTING AND (RE)EVALUATING BRAZIL». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531411444, «LUCIE TANGUY (1937-2024)». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531411444_e, «ERRATA». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531411454, «DISPOSITIFS DE RECHERCHE-FORMATION POUR PROFESSIONNALISER LES ENSEIGNANT·E·S». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531411454_pt, «DISPOSITIVOS DE PESQUISA-FORMAÇÃO PARA PROFISSIONALIZAR OS(AS) PROFESSORES(AS)». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531411460, «The bright and dark faces of the school through students’ voice». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531411460_pt, «As faces luminosas e obscuras da escola através das vozes dos alunos». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531411518, «DIÁLOGO E CULTURA: UM OLHAR EDUCACIONAL INCLUSIVO». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531411545, «“O QUE TE TROUXE ATÉ AQUI?”: NARRATIVAS DE SI COMO RECURSO PEDAGÓGICO». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531411550, «A MUNICIPALIZAÇÃO DO ENSINO EM SANTO ANDRÉ-SP (2010/2021): IMPACTOS NA GESTÃO ESCOLAR». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531411586, «O DIÁLOGO INTERGERACIONAL EM UMA REDE COLABORATIVA ON-LINE DE FORMAÇÃO DE PROFESSORES». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531411599, «MÁS ALLÁ DE CELEBRAR: SIGNIFICADOS DE FORMACIÓN EN DIVERSIDAD EN EDUCACIÓN». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531411613, «Trayectorias de identidad docente al interior de un programa de Pedagogía Media». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531411646, «Gestão democrática: Contexto, atualização e aproximações teóricas». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531411647, «Efeitos do produtivismo acadêmico: Mapeamento e ampliações teóricas sobre o tema». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531411649, «ASSÉDIO SEXUAL NO ENSINO SUPERIOR EM PORTUGAL: EXPERIÊNCIAS DE VITIMAÇÃO». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531411652, «Escolarización en contextos de movilidad humana: Una lectura regional». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531411661, «SUPERVISÃO DE DOUTORADO: EVOLUÇÃO DAS PESQUISAS E TEMÁTICAS EMERGENTES». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531411679, «AGRADECIMENTOS A PARECERISTAS». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531411680, «NARRATIVAS DA PRÁXIS E A TRANSIÇÃO ENTRE PARADIGMAS EDUCACIONAIS NA SAÚDE». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531411680_fr, «RÉCITS DE LA PRAXIS ET TRANSITION ENTRE PARADIGMES ÉDUCATIFS EN SANTÉ». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531411716, «A GENEALOGIA DOS GRUPOS DE PESQUISA EM EJA: SUA FORMAÇÃO E SUA INTELECTUALIDADE». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531411747, «DESAFIOS E APRENDIZADOS DE NOVOS DIRETORES: ESTUDO DE CASO EM SãO PAULO». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531411749, «Ensinar sem Deus: Notas nietzschianas para educar quando a verdade não é um dado». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531411772, «SOBRE CARTEIRAS, IMPRESSOS E PARAFUSOS: POR UMA HISTÓRIA ECONÔMICA DA ESCOLA». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531411864, «LOS MARCOS EPISTÉMICOS EN EL CICLO METODOLÓGICO DE LA INVESTIGACIÓN PSICOLÓGICA DEL DESARROLLO». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531411867, «Violencia de género: Respuesta escolar y participación de las familias afectadas». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531411873, «PARCERIAS PÚBLICO-PRIVADAS EM MUNICÍPIOS CATARINENSES». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531411881, «NARRATION DU VÉCU ET FORMALISATION DU SAVOIR EXPÉRIENTIEL : UNE HISTOIRE D’ÉNONCÉS». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531411881_pt, «NARRAÇÃO DO VIVIDO E FORMALIZAÇÃO DO SABER EXPERIENCIAL: UMA HISTÓRIA DE ENUNCIADOS». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531411913, «A CIRCULAÇÃO DA PALAVRA NO CUIDADO À CRIANÇA EM VULNERABILIDADE PSÍQUICA». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531411913_fr, «LA CIRCULATION DE LA PAROLE DANS LA PRISE EN CHARGE DE L’ENFANT EN SITUATION DE VULNÉRABILITÉ PSYCHIQUE». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531411915, «SABERES EXPERIENCIAIS DE CRIANÇAS HOSPITALIZADAS: UM RECONHECIMENTO ÉTICO». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531411915_fr, «SAVOIRS EXPÉRIENTIELS DES ENFANTS HOSPITALISÉS : UNE RECONNAISSANCE ÉTHIQUE». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531411916, «PAROLES DE FUTUR·ES PATIENT·ES PARTENAIRES EN FORMATION : DE L‘EXPÉRIENCE À L‘EXPERTISE». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531411916_pt, «PALAVRAS DE FUTUROS PACIENTES PARCEIROS(AS) EM FORMAÇÃO: DA EXPERIÊNCIA À ESPECIALIZAÇÃO». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531411942, «MITOS, TENSÕES E DESIGUALDADES NA ESCRITA ACADÊMICA». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531411966, «Doutorados profissionais: Revisão da literatura sobre sua expansão internacional». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531412071, «INTERVENÇÃO PRECOCE E EDUCAÇÃO INCLUSIVA». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531412075, «FORMACIÓN Y REPRESENTACIONES DE LAS PRÁCTICAS DE LECTURA DE TEXTOS ESCOLARES». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531412075_pt, «FORMAÇÃO E REPRESENTAÇÕES DAS PRÁTICAS DE LEITURA DE TEXTOS ESCOLARES». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531412086, «Docência expandida: Etnografia das práticas de licenciados/as em ciências sociais». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531412088, «A LIDERANÇA ESCOLAR NO BRASIL: DESAFIOS E CAMINHOS EM DEBATE». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531412111, «IDENTIDAD PROFESIONAL EN EL PRÁCTICUM DE EDUCACIÓN INFANTIL: UNA REVISIÓN SISTEMÁTICA». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531412168, «Percepções raciais de crianças haitianas em um núcleo de educação infantil». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531412169, «Sensación de incomodidad y procesos de formación». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531412193, «EDUCACIÓN EN DERECHOS HUMANOS: DIGNIDAD, RECONOCIMIENTO Y NORMATIVIDAD». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531412197, «A produção de masculinidades híbridas de homens professores na educação infantil». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531412265, «Fotografia e direitos humanos na escola: Caminhos para a formação docente». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531412303, «APRESENTAÇÃO - FORMAR OS PROFESSORES NA UNIVERSIDADE: UM DESAFIO SEMPRE RENOVADO E ESTIMULANTE». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531412303_fr, «PRÉSENTATION - FORMER LES ENSEIGNANTS À L’UNIVERSITÉ: UN DÉFI TOUJOURS RENOUVELÉ ET STIMULANT». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531412308, «DA GESTÃO DEMOCRÁTICA À HIPERBUROCRACIA DIGITAL: ENTREVISTA COM LICÍNIO C. LIMA». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531412316, «Tertulias literarias dialógicas en estudiantes con necesidades educativas especiales». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531412351, «Quem tem medo do movimento negro? Movimento negro, educação e a Lei n. 10.639/2003». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531412366, «Concepciones, políticas y prácticas de inducción docente en el contexto latinoamericano». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531412389, «As mulheres e a educação física feminina nos congressos científicos internacionais». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531412455, «APRESENTAÇÃO: SABERES EXPERIENCIAIS SOB O PRISMA DAS NARRATIVAS DE SI EM EDUCAÇÃO E SAÚDE». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531412455_fr, «PRÉSENTATION: LES SAVOIRS EXPÉRIENTIELS AU PRISME DES RÉCITS DE SOI EN ÉDUCATION ET SANTÉ». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531412496, «PARA ALÉM DO ACESSO: CIÊNCIA ABERTA E EQUIDADE NA PRODUÇÃO DE CONHECIMENTO CIENTÍFICO». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531412504, «Racialidade, trajetórias e subjetividade: Retratos sociológicos na pós-graduação». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531412540, «Políticas neoliberais na educação de São Paulo: A quem elas servem?». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531412543, «Género en el desarrollo profesional docente: Percepciones directivas». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531412586, «AGRADECIMENTOS A PARECERISTAS». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531412617, «Um estudo sobre lideranças em uma escola de ensino integral». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531412634, «Infâncias negras: Lutas para a garantia de direitos e por uma vida justa». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531412652, «Memórias sobre a escolarização em uma comunidade ribeirinha (1930-1940)». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531412672, «O currículo no doutorado em educação e a constituição do habitus científico». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531412694, «Entre redes e saberes: Formação docente na era da cultura digital». Todavía no se ha intentado descargar el texto.
-
-10.1590/1980531412720, «Filosofia, educação e formação humana: Diálogo com o professor Luís Manuel A. V. Bernardo». Todavía no se ha intentado descargar el texto.
-
-10.1590/198053149671_e, «ERRATA». Todavía no se ha intentado descargar el texto.
-
-### EURE (Santiago) - Revista Latinoamericana de Estudios Urbano Regionales
-
-10.7764/eure.52.155.06, «Arriendos temporales como motores de desigualdad: Un análisis sociodemográfico de Airbnb en Río de Janeiro». Todavía no se ha intentado descargar el texto.
-
-10.7764/eure.52.155.07, «“Nosotros solo queremos respirar”: Conflictos ambientales y desigualdad en la cuenca Matanza Riachuelo en Buenos Aires». Todavía no se ha intentado descargar el texto.
-
-10.7764/eure.52.155.08, «Planificación urbana y redes de servicios en las Manzanas de Cuidado de Bogotá». Todavía no se ha intentado descargar el texto.
-
-10.7764/eure.52.155.09, «Satisfacción residencial posrelocalización de asentamientos informales: estudio comparativo de viviendas sociales en Colombia y Chile». Todavía no se ha intentado descargar el texto.
-
-10.7764/eure.52.155.10, «Renegociaciones cotidianas frente a la gentrificación y el desplazamiento en el espacio público: La vida urbana en la Alameda Central en el Centro Histórico de la Ciudad de México». Todavía no se ha intentado descargar el texto.
-
-10.7764/eure.52.156.01, «Más allá de los anfitriones: profesionalización, segmentación e hibridación en el mercado de alquileres temporarios de Buenos Aires». Todavía no se ha intentado descargar el texto.
-
-10.7764/eure.52.156.02, «Germinación sociopolítica de las huertas urbanas comunitarias en el siglo XXI: Estudios de casos en la zona central de Chile». Todavía no se ha intentado descargar el texto.
-
-10.7764/eure.52.156.03, «Los ODS en la Región de Antofagasta: descentralización, heterogeneidad y priorización de las experiencias locales de desarrollo». Todavía no se ha intentado descargar el texto.
-
-10.7764/eure.52.156.04, «Estudiar la expansión urbana desde una perspectiva histórico-morfológica. El caso de Quito, Ecuador, 1908-1942». Todavía no se ha intentado descargar el texto.
-
-10.7764/eure.52.156.05, «Trayectorias habitacionales hacia la favela: narrativas, racionalidades, transversalidades». Todavía no se ha intentado descargar el texto.
-
-10.7764/eure.52.156.06, «Conflictos socioterritoriales y representación política en Uruguay (2005-2022): baja conflictividad en un caso tardío». Todavía no se ha intentado descargar el texto.
-
-10.7764/eure.52.156.07, «“Desde chica he escuchado eso”. Reproducción del estigma territorial en la perspectiva de jóvenes de tres territorios en Chile». Todavía no se ha intentado descargar el texto.
-
-10.7764/eure.52.156.08, «El impacto del tejido social urbano en la satisfacción con la vida. Análisis mediante técnicas de machine learning». Todavía no se ha intentado descargar el texto.
-
-10.7764/eure.52.156.09, «Formas de conectar. Tipología de estaciones del Metro de Santiago». Todavía no se ha intentado descargar el texto.
-
-10.7764/eure.52.156.10, «Las desigualdades en la movilidad como producto de una urbanización excluyente: por una política de justicia territorial en la Ciudad de México». Todavía no se ha intentado descargar el texto.
-
-10.7764/eure.52.156.11, «Covid-19, nómadas digitales y la sexta ola de gentrificación». Todavía no se ha intentado descargar el texto.
-
-10.7764/eure.52.156.12, «Extractivismo y urbanización en países dependientes: viejos y nuevos conflictos del siglo XXI». Todavía no se ha intentado descargar el texto.
-
-### Cultura-Hombre-Sociedad
-
-10.7770/cuhso.v30i2.1630, «La huella marca la montaña: movilidades y articulaciones del Territorio Pewenche en Alto Biobío, Wallmapu.». Todavía no se ha intentado descargar el texto.
-
-10.7770/cuhso.v30i2.1650, «Turismo Invasivo y Turismo Mapuche: territorio indígena y emprendimiento con identidad en Laguna Icalma, Alto Biobío». Todavía no se ha intentado descargar el texto.
-
-10.7770/cuhso.v30i2.1818, «En torno a los orígenes de la Gran Divergencia: debates recientes en historia económica (2000-2018)». Todavía no se ha intentado descargar el texto.
-
-10.7770/cuhso.v30i2.1842, «Retóricas de la cocina. La culinaria del discurso de Platón a Lévi-Strauss». Todavía no se ha intentado descargar el texto.
-
-10.7770/cuhso.v30i2.1850, «Costanera Center como escenario de las performatividades (del poder) de la resistencia». Todavía no se ha intentado descargar el texto.
-
-10.7770/cuhso.v30i2.1856, «Mujeres en el trabajo: persistencia de los condicionantes de género en el ámbito laboral». Todavía no se ha intentado descargar el texto.
-
-10.7770/cuhso.v30i2.1866, «Dispositivo de evaluación educacional y gubernamentalidad en Chile: los orígenes (1844-1970)». Todavía no se ha intentado descargar el texto.
-
-10.7770/cuhso.v30i2.1878, «La autonomía individual bajo la tutela del binomio médico-jurídico: hacia una conceptualización histórico-relacional». Todavía no se ha intentado descargar el texto.
-
-10.7770/cuhso.v30i2.1884, «El compromiso cultural en las identidades del profesorado de artes en Chile». Todavía no se ha intentado descargar el texto.
-
-10.7770/cuhso.v30i2.1931, «Activos, autónomos y contribuyentes: argumentos para la resignificación de las representaciones sociales sobre envejecimiento en Chile». Todavía no se ha intentado descargar el texto.
-
-10.7770/cuhso.v30i2.1939, «Representaciones sociales de pobreza: miradas de los apoyos familiares del programa familias de la provincia del Biobío, VIII región Chile». Todavía no se ha intentado descargar el texto.
-
-10.7770/cuhso.v30i2.1948, «ECOLOGICAL METAPHORS IN DEBATES OVER LANGUAGE AND LANGUAGE POLITICS IN CATALONIA (1999-2009)». Todavía no se ha intentado descargar el texto.
-
-10.7770/cuhso.v30i2.1949, «Conocimiento de la Rehabilitación Basada en la Comunidad por parte de fonoaudiólogos de la región de Valparaíso, Chile». Todavía no se ha intentado descargar el texto.
-
-10.7770/cuhso.v30i2.1952, «Arqueología en el valle inferior-medio del río Chubut. Resultados de los trabajos exploratorios en la localidad Las Chapas, dto. Alsina». Todavía no se ha intentado descargar el texto.
-
-10.7770/cuhso.v30i2.2000, «De madera y hormigón: hábitat residencial y habitar de migrantes latinoamericanos en la ciudad de Santiago». Todavía no se ha intentado descargar el texto.
-
-10.7770/cuhso.v30i2.2014, «¿Un psicoanálisis con los y las trabajadoras? Sobre el libro de Wlosko y Ros (Eds.) El Trabajo entre el placer y el sufrimiento: aportes desde la Psicodinámica del Trabajo». Todavía no se ha intentado descargar el texto.
-
-10.7770/cuhso.v30i2.2015, «Contesting hegemonies and centering the listening subject: the alternative processes of re-making a language». Todavía no se ha intentado descargar el texto.
-
-10.7770/cuhso.v30i2.2053, «El relato turístico mapuche: identidad, territorio y políticas públicas». Todavía no se ha intentado descargar el texto.
-
-10.7770/cuhso.v30i2.2086, «Las creencias del pueblo mapuche en el Archivo Secreto Vaticano». Todavía no se ha intentado descargar el texto.
-
-10.7770/cuhso.v30i2.2112, «El patrimonio cultural inmaterial de los pueblos indígenas: bienes comunes ligados a la identidad de la comunidad». Todavía no se ha intentado descargar el texto.
-
-10.7770/cuhso.v30i2.2129, «"Em beneficio do povo". Obras, governo e sociedade na cidade colonial Jorun Poettering, Gefferson Ramos Rodrigues (orgs.). Rio de Janeiro: Mauad, 2016, p. 384». Todavía no se ha intentado descargar el texto.
-
-10.7770/cuhso.v30i2.2140, «Construcciones sociopolíticas del territorio. Movimientos indígenas y políticas públicas, la configuración de los espacios locales». Todavía no se ha intentado descargar el texto.
-
-10.7770/cuhso.v30i2.2165, «Un cordial saludo le envía a ud., sr. profesor, su servidor fr. Félix José. Seis cartas de fray Félix José de Augusta a Rodolfo Lenz, 1910-1914. Introducción, texto íntegro, traducción y notas». Todavía no se ha intentado descargar el texto.
-
-10.7770/cuhso.v30i2.2206, «Conflicto y (re)producción de espacio en tierra pewenche: disputas en torno a la Reserva Nacional Alto Bío-Bío, Lonquimay». Todavía no se ha intentado descargar el texto.
-
-10.7770/cuhso.v30i2.2345, «Dinámicas territoriales mapuches en el cono sur americano: una bibliografía selectiva». Todavía no se ha intentado descargar el texto.
-
-10.7770/cuhso.v30i2.2398, «Witrampüramgetuael ta Wallmapu: pensar el territorio mapuche desde la praxis». Todavía no se ha intentado descargar el texto.
-
-10.7770/cuhso.v30i2.2401, «“Es el momento en que los mapuches debemos participar en CONAF”». Todavía no se ha intentado descargar el texto.
-
-10.7770/cuhso.v31i1.1970, «Repensando las movilidades en el Archipiélago de Chiloé». Todavía no se ha intentado descargar el texto.
-
-10.7770/cuhso.v31i1.1971, «Bifurcaciones biográficas en los escenarios laborales del Chile contemporáneo: una comparación entre trabajadores del retail y emprendedores sociales». Todavía no se ha intentado descargar el texto.
-
-10.7770/cuhso.v31i1.2003, «Precariedad, trabajo y reproducción: el trabajo de las mujeres en el sector exportador de uva en Chile y Brasil». Todavía no se ha intentado descargar el texto.
-
-10.7770/cuhso.v31i1.2048, «Raza y género en el marco de la diferencia ontológica colonial». Todavía no se ha intentado descargar el texto.
-
-10.7770/cuhso.v31i1.2049, «Políticas y marco jurídico de fomento a la lactancia materna exclusiva en el Perú». Todavía no se ha intentado descargar el texto.
-
-10.7770/cuhso.v31i1.2055, «Desencuentros entre el imaginario social occidental y el imaginario social indígena: elementos para una reflexión teórica sobre los imaginarios sociales nucleares en el marco del conflicto entre el estado-nación chileno y el pueblo mapuche». Todavía no se ha intentado descargar el texto.
-
-10.7770/cuhso.v31i1.2058, «Un problema no es sólo un problema. Posiciones, hermenéuticas y políticas públicas relativas a la salud de las abejas». Todavía no se ha intentado descargar el texto.
-
-10.7770/cuhso.v31i1.2130, «História, regiões e fronteiras». Todavía no se ha intentado descargar el texto.
-
-10.7770/cuhso.v31i1.2145, «El viaje del zorro al cielo y su tío el tigre: Texturas transculturales amerindias en dos repertorios de relatos mapuche del zorro». Todavía no se ha intentado descargar el texto.
-
-10.7770/cuhso.v31i1.2148, «Migración y trabajo, una revisión del contexto chileno actual». Todavía no se ha intentado descargar el texto.
-
-10.7770/cuhso.v31i1.2157, «Familias transnacionales desde el sur. Testimonios de la globalización en Chile. Javiera Cienfuegos Illanes (coord.). Ediciones Universidad Academia de Humanismo Cristiano». Todavía no se ha intentado descargar el texto.
-
-10.7770/cuhso.v31i1.2275, «Entre el prosperar colectivo de Ellas Hacen y la meritocracia individual del Hacemos Futuro Juntas». Todavía no se ha intentado descargar el texto.
-
-10.7770/cuhso.v31i1.2279, «Las paradojas del trabajo actoral en teatro independiente. Un estudio comparativo de las representaciones sociales sobre teatro independiente de actores y actrices de La Plata entre los orígenes y la actualidad». Todavía no se ha intentado descargar el texto.
-
-10.7770/cuhso.v31i1.2284, «El giro creativo en el trabajo contemporáneo: una mirada crítica desde las condiciones laborales del campo cultural de Santiago de Chile». Todavía no se ha intentado descargar el texto.
-
-10.7770/cuhso.v31i1.2285, «Las juventudes trabajadoras en el comercio minorista tradicional: gestión, control y resistencias». Todavía no se ha intentado descargar el texto.
-
-10.7770/cuhso.v31i1.2296, «Tácticas y estrategias de mujeres trabajadoras del sector servicios en Chile frente al conflicto: participación sindical, empleo y cuidados». Todavía no se ha intentado descargar el texto.
-
-10.7770/cuhso.v31i1.2411, «Inserción laboral en actividades por cuenta propia. Migrantes wixaritari y mazahuas en Aguascalientes, México, 1960-2020». Todavía no se ha intentado descargar el texto.
-
-10.7770/cuhso.v31i1.2412, «Mecanismos de control de la plataforma Uber sobre sus conductores asociados en la Región Metropolitana de Chile». Todavía no se ha intentado descargar el texto.
-
-10.7770/cuhso.v31i1.2413, «Desempleo y flexibilización: Alemania Federal y Chile frente a las transformaciones del capitalismo (Décadas de 1970 y 1980)». Todavía no se ha intentado descargar el texto.
-
-10.7770/cuhso.v31i1.2414, «Relaciones de reconocimiento en un trabajo feminizado. Ejes analíticos a partir del caso de mujeres operarias de la industria chilena del retail». Todavía no se ha intentado descargar el texto.
-
-10.7770/cuhso.v31i1.2415, «De la subordinación asalariada a la caridad neoliberal: análisis crítico de la ley de inclusión laboral de personas con discapacidad en Chile». Todavía no se ha intentado descargar el texto.
-
-10.7770/cuhso.v31i1.2450, «La CUT y los clivajes sindicales en Chile. Entre la pretensión transformadora y la estrategia defensiva». Todavía no se ha intentado descargar el texto.
-
-10.7770/cuhso.v31i1.2624, «Editorial». Todavía no se ha intentado descargar el texto.
-
-10.7770/cuhso.v31i1.2676, «La autonomía individual bajo la tutela del binomio médico-jurídico: hacia una conceptualización histórico-relacional». Todavía no se ha intentado descargar el texto.
-
-### Argumentos : Revista de Crítica Social
-
-10.62174/arg.2025.10350, «Editorial». Todavía no se ha intentado descargar el texto.
-
-10.62174/arg.2025.10351, «Equipo editorial». Todavía no se ha intentado descargar el texto.
-
-10.62174/arg.2025.10369, «Representación y popularidad: la soberanía y la cuestión de la democracia en el Leviatán de Hobbes». Todavía no se ha intentado descargar el texto.
-
-10.62174/arg.2025.10370, «Problemas metodológicos para la medición de la superpoblación relativa: las porciones encubiertas bajo la categoría de “inactivos” y el sesgo en los países de capitalismo avanzado». Todavía no se ha intentado descargar el texto.
-
-10.62174/arg.2025.10371, «El rol del agro frente a las crisis sociales. Representaciones de las/os argentinas/os durante la pandemia del Covid-19». Todavía no se ha intentado descargar el texto.
-
-10.62174/arg.2025.10372, «Redes socio-institucionales e innovación, una estrategia para el desarrollo del territorio. El caso del Centro de Investigación y Desarrollo en Iglesia, 2021-2024». Todavía no se ha intentado descargar el texto.
-
-10.62174/arg.2025.10374, «Frente al abismo. Estrategia sanitaria en Residencias para Personas Mayores durante la pandemia por COVID-19 en Argentina (2020)». Todavía no se ha intentado descargar el texto.
-
-10.62174/arg.2025.10375, «Modelos interpretativos de la discapacidad y formas de autonomía en normativas argentinas sobre la certificación de la discapacidad, la declaración de capacidad/incapacidad jurídica y la oferta de servicios y prestaciones». Todavía no se ha intentado descargar el texto.
-
-10.62174/arg.2025.10380, «Número 31». Todavía no se ha intentado descargar el texto.
-
-10.62174/arg.2025.10808, «Sociedad y Tecnologías Digitales: problemáticas, desafíos y nuevos debates en la era de las plataformas, los algoritmos y la Inteligencia Artificial». Todavía no se ha intentado descargar el texto.
-
-10.62174/arg.2025.10809, «La dataesfera como hiperobjeto: hacia una crítica de sus implicaciones ontoepistémicas.». Todavía no se ha intentado descargar el texto.
-
-10.62174/arg.2025.10810, «Las plataformas en el capitalismo contemporáneo: hacia una crítica de las transformaciones en la cultura, el trabajo y la producción». Todavía no se ha intentado descargar el texto.
-
-10.62174/arg.2025.10811, «Ser influencer. Cuerpos publicitarios, liderazgo y reconocimiento en el capitalismo global». Todavía no se ha intentado descargar el texto.
-
-10.62174/arg.2025.10812, «La constitución de subjetividad en Spotify. Plataforma de streaming, recomendaciones algorítmicas y escucha musical». Todavía no se ha intentado descargar el texto.
-
-10.62174/arg.2025.10813, «“Mujeres hechas y derechas”: La construcción político-identitaria de las influencers políticas de La Libertad Avanza en Instagram.». Todavía no se ha intentado descargar el texto.
-
-10.62174/arg.2025.10814, «Notas sobre la deconstrucción del “fandom digital” en/desde América Latina». Todavía no se ha intentado descargar el texto.
-
-10.62174/arg.2025.10815, «La idea de Mundo Común en la opinión pública juvenil del AMBA». Todavía no se ha intentado descargar el texto.
-
-10.62174/arg.2025.10816, «Los vínculos con las tecnologías entendidos como adicción. Primera parte: antes de la difusión del teléfono celular inteligente». Todavía no se ha intentado descargar el texto.
-
-10.62174/arg.2025.10817, «Hacia la apropiación creativa de tecnología en un centro socioeducativo ambulatorio de privación de la libertad». Todavía no se ha intentado descargar el texto.
-
-10.62174/arg.2025.10818, «ChatGPT y educación. Adopción y usos por parte de estudiantes en la Argentina». Todavía no se ha intentado descargar el texto.
-
-10.62174/arg.2025.10819, «Barreras y facilitadores en los procesos educativos de estudiantes con discapacidad en las plataformas durante la pandemia de COVID-19». Todavía no se ha intentado descargar el texto.
-
-10.62174/arg.2025.10821, «Personas mayores y uso de tecnologías digitales: las miradas de los y las asistentes a dos Centros de Día de CABA durante la pandemia y post pandemia». Todavía no se ha intentado descargar el texto.
-
-10.62174/arg.2025.10822, «Más allá de los repartidores: la gestión algorítmica ejercida por las plataformas de reparto de comida sobre los proveedores». Todavía no se ha intentado descargar el texto.
-
-10.62174/arg.2025.10823, «Las mujeres en el mercado de trabajo de software en Argentina: un mapeo de las brechas y barreras de género». Todavía no se ha intentado descargar el texto.
-
-10.62174/arg.2025.10824, «El yugo invisible de la gestión algorítmica. Un análisis comparado de la organización y condiciones de trabajo de trabajadores dependientes y unipersonales en Pedidos Ya, Uruguay». Todavía no se ha intentado descargar el texto.
-
-10.62174/arg.2025.10825, «Exploraciones preliminares sobre el trabajo sexual mediado por plataformas en la Argentina pospandemia». Todavía no se ha intentado descargar el texto.
-
-10.62174/arg.2025.10826, «Creación tecnológica situada y agencia feminista en plataformas digitales: el caso de She Taxi en Argentina». Todavía no se ha intentado descargar el texto.
-
-10.62174/arg.2025.10827, «Cacerolazos en la World Wide Web. Exploraciones de repertorios de protesta durante la web temprana en Argentina (2001-2002)». Todavía no se ha intentado descargar el texto.
-
-10.62174/arg.2025.10828, «Habermas y las transformaciones estructurales de la esfera pública: la digitalización de los medios como desilustración de la opinión pública». Todavía no se ha intentado descargar el texto.
-
-10.62174/arg.2025.10829, «Dilemas y trampas en la gobernanza urbana de plataformas: apuntes para salir del laberinto». Todavía no se ha intentado descargar el texto.
-
-10.62174/arg.2025.10830, «Ciudad Inteligente y Estado eficiente: sueños y desvelos del caso cordobés». Todavía no se ha intentado descargar el texto.
-
-10.62174/arg.2025.10831, «Tecnologías digitales, Estado y Movimiento Obrero: Transformaciones y desafíos bajo una gubernamentalidad algorítmica». Todavía no se ha intentado descargar el texto.
-
-10.62174/arg.2025.10832, «Lineamientos de política pública para el metaverso como proceso de convergencia tecnológica: un aporte desde el enfoque de redes de política pública». Todavía no se ha intentado descargar el texto.
-
-10.62174/arg.2025.10833, «Del test tripartito a los términos y condiciones: tensiones entre Brasil y X (2020-2024) en torno a la regulación y moderación del debate público». Todavía no se ha intentado descargar el texto.
-
-10.62174/arg.2025.10834, «Contingencia y determinación en la sociología histórica de Michael Mann. Los casos de la Primera Guerra Mundial y el ascenso del Fascismo». Todavía no se ha intentado descargar el texto.
-
-10.62174/arg.2025.10835, «Democracia y Política en F. A. Hayek. Debates y disyuntivas». Todavía no se ha intentado descargar el texto.
-
-10.62174/arg.2025.10836, «Norbert Elías y el cambio conceptual de la relación individuo-sociedad: una ilustración empírica en trabajadores y estudiantes universitarios en Argentina del siglo veintiuno». Todavía no se ha intentado descargar el texto.
-
-10.62174/arg.2025.10837, «Movilidad cotidiana y desigualdades sociales en áreas de expansión de Mar del Plata y La Plata. El impacto diferencial de la pandemia en barrios cerrados, populares y de clases medias». Todavía no se ha intentado descargar el texto.
-
-10.62174/arg.2025.10838, «Qué significa salir. Un análisis temático-narrativo de la salida del armario de varones gays con perspectiva intergeneracional». Todavía no se ha intentado descargar el texto.
-
-10.62174/arg.2025.10839, «Sociedad y tecnologías digitales: problemáticas, desafíos y nuevos debates en la era de las plataformas, los algoritmos y la inteligencia artificial». Todavía no se ha intentado descargar el texto.
-
-10.62174/arg.2026.11206, «El dogma y el misterio: institución y discurso en un diálogo entre las obras de Ernesto Laclau y Emilio de Ípola». Todavía no se ha intentado descargar el texto.
-
-10.62174/arg.2026.11207, «Las Islas Malvinas, la Patagonia y la Antártida en la concepción de las élites gobernantes argentinas: un análisis desde la formación del estado nacional a la actualidad». Todavía no se ha intentado descargar el texto.
-
-10.62174/arg.2026.11209, «La estética audiovisual de La Libertad Avanza en la campaña por las elecciones legislativas 2021 (Buenos Aires, Argentina).Estudio de la corporeidad de Javier Milei». Todavía no se ha intentado descargar el texto.
-
-10.62174/arg.2026.11210, «Electromovilidad y transiciones digitales: el ascenso de China en el mercado global de vehículos eléctricos». Todavía no se ha intentado descargar el texto.
-
-10.62174/arg.2026.11211, «Ética y desarrollo capitalista: una perspectiva histórico-crítica de sus fundamentos y contradicciones». Todavía no se ha intentado descargar el texto.
-
-10.62174/arg.2026.11212, «La comparación en ciencias sociales: hacia nuevos objetos, enfoques, metodologías». Todavía no se ha intentado descargar el texto.
-
-10.62174/arg.2026.11213, «La comparación en ciencias sociales: hacia nuevos objetos, enfoques, metodologías». Todavía no se ha intentado descargar el texto.
-
-10.62174/arg.2026.11214, «Peras con manzanas: El método comparado y los desafíos de investigar desde la periferia». Todavía no se ha intentado descargar el texto.
-
-10.62174/arg.2026.11217, «Cruces Artivistas / Artivist Crossings. Experiencias interdisciplinarias en torno a la crisis socio-ambiental». Todavía no se ha intentado descargar el texto.
-
-10.62174/arg.2026.11219, «Percepciones sobre la tolerancia hacia la violencia sexual: un estudio comparativo entre España y Polonia». Todavía no se ha intentado descargar el texto.
-
-10.62174/arg.2026.11220, «Metodologías de la comparación subnacional y estudios locales en América Latina: tendencias analíticas y aplicaciones empíricas en Argentina». Todavía no se ha intentado descargar el texto.
-
-10.62174/arg.2026.11221, «Inseguridad y miedo al delito en Brasil y Chile: construcción social, datos cuantitativos y dimensión política». Todavía no se ha intentado descargar el texto.
-
-10.62174/arg.2026.11222, «Comparando agendas de investigación en torno a la relación migración, fronteras y desigualdad social en la Unión Europea y en Sud América. Bases para emprender el diálogo». Todavía no se ha intentado descargar el texto.
-
-10.62174/arg.2026.11223, «Las clases sociales en el ojo del huracán. Posicionamiento subjetivo de clase en 16 países latinoamericanos». Todavía no se ha intentado descargar el texto.
-
-10.62174/arg.2026.11224, «¿El fin de la Era de la Dualización? Un análisis comparado de cincuenta años de reformas laborales en España e Italia». Todavía no se ha intentado descargar el texto.
-
-10.62174/arg.2026.11225, «Políticas públicas en discapacidad en Argentina e Inglaterra: derechos en retroceso». Todavía no se ha intentado descargar el texto.
-
-10.62174/arg.2026.11230, «Tolerancia adaptativa del soborno en el sistema-mundo». Todavía no se ha intentado descargar el texto.
-
-10.62174/arg.2026.11233, «Análisis comparado de los cambios en la estructura socio-ocupacional en Bolivia y España (2001-2021)». Todavía no se ha intentado descargar el texto.
-
-10.62174/arg.2026.11234, «Tipos de trayectorias laborales del trabajo autónomo en Chile y España: itinerarios biográficos». Todavía no se ha intentado descargar el texto.
-
-10.62174/arg.2026.11235, «Las bases de la solidaridad en perspectiva comparada: Empresas recuperadas, MONDRAGON y la autogestión yugoslava». Todavía no se ha intentado descargar el texto.
-
-10.62174/arg.2026.11237, «Número 33, Equipo editorial». Todavía no se ha intentado descargar el texto.
-
-10.62174/arg.2026.11238, «Número 33». Todavía no se ha intentado descargar el texto.
-
-### Bitácora Urbano Territorial
-
-10.15446/bitacora.v35n3.119756, «Dynamics of rural land conversion to urban land. Territorial analysis and prospective». Todavía no se ha intentado descargar el texto.
-
-10.15446/bitacora.v35n3.119773, «El Macroproyecto de Interés Social Nacional Buenaventura: disputas territoriales y urbanas». Todavía no se ha intentado descargar el texto.
-
-10.15446/bitacora.v35n3.120125, «Modelo habitacional participativo para comunidades kichwas amazónicas». Todavía no se ha intentado descargar el texto.
-
-10.15446/bitacora.v35n3.120130, «Habitar como cuidar. Espacialidades relacionales en un asentamiento informal de Coquimbo, Chile». Todavía no se ha intentado descargar el texto.
-
-10.15446/bitacora.v35n3.120138, «Inteligencia híbrida e innovación urbana. Análisis de Casos». Todavía no se ha intentado descargar el texto.
-
-10.15446/bitacora.v35n3.120142, «Densificación urbana en ciudades intermedias de zonas áridas. Interacciones forma-temperatura en el área metropolitana de Mendoza». Todavía no se ha intentado descargar el texto.
-
-10.15446/bitacora.v35n3.120146, «La relación centro-periferia en la planeación regional antioqueña». Todavía no se ha intentado descargar el texto.
-
-10.15446/bitacora.v35n3.120152, «Habitar el borde: políticas públicas y segregación socioespacial». Todavía no se ha intentado descargar el texto.
-
-10.15446/bitacora.v35n3.122005, «Deuda habitacional como mecanismo socioespacial. Aprendizajes desde Solanda y Carapungo». Todavía no se ha intentado descargar el texto.
-
-10.15446/bitacora.v35n3.122210, «Financiarización habitacional: hacia una economía política del hábitat y la justicia socioespacial en América Latina». Todavía no se ha intentado descargar el texto.
-
-10.15446/bitacora.v35n3.122418, «Renta inmobiliaria y negación del derecho a la vivienda: el caso del estado de Morelos (México)». Todavía no se ha intentado descargar el texto.
-
-10.15446/bitacora.v35n3.122452, «Mercado de aluguéis e acessibilidade habitacional em Curitiba (2014-2025)». Todavía no se ha intentado descargar el texto.
-
-10.15446/bitacora.v35n3.122465, «De ciudadelas a microapartamentos: Vivienda de Interés Social en Bogotá 2005-2022». Todavía no se ha intentado descargar el texto.
-
-10.15446/bitacora.v35n3.122521, «Nuestras viviendas en sus carteras de inversión. Centralización socioespacial del stock de Airbnb en Medellín». Todavía no se ha intentado descargar el texto.
-
-10.15446/bitacora.v35n3.122529, «Vivienda, trabajo y reproducción social en la urbanización popular. Hacer ciudad y sostener la vida». Todavía no se ha intentado descargar el texto.
-
-10.15446/bitacora.v35n3.122534, «La vivienda como artefacto socio-material en Manizales: aspiraciones, apropiación y mercado». Todavía no se ha intentado descargar el texto.
-
-10.15446/bitacora.v35n3.122565, «Vivienda adecuada e interseccionalidad en México. Etnicidad y género en zonas urbanas». Todavía no se ha intentado descargar el texto.
-
-10.15446/bitacora.v35n3.122787, «Concentración de capital para la producción de vivienda en el Borde Metropolitano de Bogotá: un enfoque multiescalar del oligopolio inmobiliario». Todavía no se ha intentado descargar el texto.
-
-10.15446/bitacora.v35n3.123123, «Financiarización de la vivienda y plataformas digitales en México: de la propiedad al alquiler». Todavía no se ha intentado descargar el texto.
-
-10.15446/bitacora.v35n3.124501, «La crítica, otra manera de pensar la vivienda». Todavía no se ha intentado descargar el texto.
-
-10.15446/bitacora.v36n1.120010, «Towards antifragile cities: a systematic literature review». Todavía no se ha intentado descargar el texto.
-
-10.15446/bitacora.v36n1.120060, «Dinámica espacial y uso del suelo en Villahermosa, Tabasco (México): un estudio de escenarios futuros y pasados». Todavía no se ha intentado descargar el texto.
-
-10.15446/bitacora.v36n1.120120, «Más que agua, análisis multidimensional del paisaje fluvial: hacia una rehabilitación integral en Fusagasugá, Colombia». Todavía no se ha intentado descargar el texto.
-
-10.15446/bitacora.v36n1.120121, «Resistencias a la foodificación urbana: comida al paso y venta nocturna en Temuco y Maipú, Chile». Todavía no se ha intentado descargar el texto.
-
-10.15446/bitacora.v36n1.120123, «Relación entre pobreza multidimensional y morfología urbana a partir de imágenes satelitales: un caso de estudio para Cúcuta, Colombia». Todavía no se ha intentado descargar el texto.
-
-10.15446/bitacora.v36n1.120182, «Desafíos de justicia hidroterritorial en la relación urbano-rural: El caso de Bogotá y Fómeque». Todavía no se ha intentado descargar el texto.
-
-10.15446/bitacora.v36n1.122006, «Tránsito migratorio y conflictividad urbana. Paz imperfecta en el norte de México». Todavía no se ha intentado descargar el texto.
-
-10.15446/bitacora.v36n1.122312, «Autoconstrucción, género y política habitacional en barrios populares argentinos: el Programa Mi Pieza (2021–2023)». Todavía no se ha intentado descargar el texto.
-
-10.15446/bitacora.v36n1.122364, «Habitat e habitar: a urgência de uma poética urbana. Henri Lefebvre e as práticas de apropriação no Brasil». Todavía no se ha intentado descargar el texto.
-
-10.15446/bitacora.v36n1.122460, «Revalorización inmobiliaria mediante la brecha de renta en barrios tradicionales de Santiago de Querétaro, México». Todavía no se ha intentado descargar el texto.
-
-10.15446/bitacora.v36n1.122530, «Gobernanza interna y desilusión en edificios de Santiago». Todavía no se ha intentado descargar el texto.
-
-10.15446/bitacora.v36n1.122542, «Vivienda crecedera en Bolivia: patrones espaciales y desencadenantes». Todavía no se ha intentado descargar el texto.
-
-10.15446/bitacora.v36n1.122543, «Modernidad y hábitat en Bogotá (1949-1972): una mirada crítica a 15 casos de vivienda colectiva». Todavía no se ha intentado descargar el texto.
-
-10.15446/bitacora.v36n1.122558, «Mazatlán, Sinaloa 2001-2021: expansión urbana y transformación territorial». Todavía no se ha intentado descargar el texto.
-
-10.15446/bitacora.v36n1.122566, «Viviendas campesinas adaptadas al cambio climático con bioingeniería». Todavía no se ha intentado descargar el texto.
-
-10.15446/bitacora.v36n1.123155, «New housing markets and affordability gaps in Mexico City». Todavía no se ha intentado descargar el texto.
-
-10.15446/bitacora.v36n1.126769, «Cuestión residencial: necesidades sociales, políticas de vivienda y alternativas para habitar». Todavía no se ha intentado descargar el texto.
-
-10.15446/bitacora.v36n2.122025, «Transporte público y desarrollo urbano sostenible en Paraguay». Todavía no se ha intentado descargar el texto.
-
-10.15446/bitacora.v36n2.122089, «La convivencia en espacios públicos de ciudades latinoamericanas: Validez y fiabilidad del cuestionario para su evaluación.». Todavía no se ha intentado descargar el texto.
-
-10.15446/bitacora.v36n2.122261, «Habitabilidad de la vivienda y vulnerabilidades urbanas. Dimensiones psicosociales y ambientales.». Todavía no se ha intentado descargar el texto.
-
-10.15446/bitacora.v36n2.122499, «Estrategias proyectuales y constructivas para la ampliación. Casas que crecen». Todavía no se ha intentado descargar el texto.
-
-10.15446/bitacora.v36n2.122527, «Enclaves verticales y formación de redes socioeconómicas: Torres residenciales de Estación Central en Santiago de Chile». Todavía no se ha intentado descargar el texto.
-
-10.15446/bitacora.v36n2.122537, «Cronología de las políticas habitacionales y transformaciones post-ocupacionales. Análisis de la vivienda social (General Pueyrredon, Argentina)». Todavía no se ha intentado descargar el texto.
-
-10.15446/bitacora.v36n2.122718, «Estado y mercado en la asignación de precios del suelo: la periferia sur de la Región Metropolitana de Buenos Aires, Argentina». Todavía no se ha intentado descargar el texto.
-
-10.15446/bitacora.v36n2.123759, «A emergência do habitar no Vale do Taquari: Crise climática e direito à moradia no sul do Brasil». Todavía no se ha intentado descargar el texto.
-
-10.15446/bitacora.v36n2.123801, «Relación entre vivienda colectiva y perfil urbano. Expresión en centro de Córdoba, Argentina». Todavía no se ha intentado descargar el texto.
-
-10.15446/bitacora.v36n2.123892, «El paisaje hídrico de la Represa Billings: renovación urbana, conflicto socioambiental y vulnerabilidad climática». Todavía no se ha intentado descargar el texto.
-
-10.15446/bitacora.v36n2.123912, «La conversión de oficinas a vivienda en España. Análisis comparativo de estudios de caso». Todavía no se ha intentado descargar el texto.
-
-10.15446/bitacora.v36n2.124010, «Quito, la vivienda imposible: especulación y desigualdad estructural». Todavía no se ha intentado descargar el texto.
-
-10.15446/bitacora.v36n2.124022, «Mujeres, autoproducción y precariedad: aprendizajes situados desde Monterrey». Todavía no se ha intentado descargar el texto.
-
-10.15446/bitacora.v36n2.129000, «Viviendas colectivas. Desafíos y alternativas contemporáneas». Todavía no se ha intentado descargar el texto.
-
-### Labor & Engenho
-
-10.20396/labore.v17i00.8671511, «O estatuto da cidade e seu potencial na implementação de infraestruturas verdes». Todavía no se ha intentado descargar el texto.
-
-10.20396/labore.v17i00.8671685, «Gestión y desarrollo del Parque Agrario Santa Fe Metropolitano (PASFM)». Todavía no se ha intentado descargar el texto.
-
-10.20396/labore.v17i00.8671698, «O plano diretor como uma conexão para a cidade saudável». Todavía no se ha intentado descargar el texto.
-
-10.20396/labore.v17i00.8671708, «Perception on the employment of treated sewage in concrete production». Todavía no se ha intentado descargar el texto.
-
-10.20396/labore.v17i00.8671852, «Socio-ecologies of Plastic Bottle Waste (PBW) and the Development of Ecoprenuerial Initiatives in Contemporary Nigerian Society». Todavía no se ha intentado descargar el texto.
-
-10.20396/labore.v17i00.8671897, «Desarrollo territorial a través del turismo en el norte del río Paraguay». Todavía no se ha intentado descargar el texto.
-
-10.20396/labore.v17i00.8671934, «Desigualdade ambiental e direito à moradia no entorno do aterro controlado do município de Guanambi [BA]». Todavía no se ha intentado descargar el texto.
-
-10.20396/labore.v17i00.8672777, «Redes urbanas e a cidade de Rio de Contas (BA) nos séculos XVIII e XIX». Todavía no se ha intentado descargar el texto.
-
-10.20396/labore.v17i00.8672789, «Utilização de sistemas construtivos alternativos». Todavía no se ha intentado descargar el texto.
-
-10.20396/labore.v17i00.8672816, «Estatística climatológica para a região do Norte Pioneiro do estado do Paraná». Todavía no se ha intentado descargar el texto.
-
-10.20396/labore.v17i00.8673218, «Avaliação da erodibilidade de áreas degradadas na faixa de domínio da DF-250 Brasil». Todavía no se ha intentado descargar el texto.
-
-10.20396/labore.v17i00.8673364, «Lectura Evolutiva». Todavía no se ha intentado descargar el texto.
-
-10.20396/labore.v17i00.8673375, «Precipitação de calcita induzida microbianamente em argamassas de reparo». Todavía no se ha intentado descargar el texto.
-
-10.20396/labore.v17i00.8673415, «De “palácio dos artistas” a “falso brilhante” das políticas patrimoniais». Todavía no se ha intentado descargar el texto.
-
-10.20396/labore.v17i00.8673642, «Evolución técnica del paisaje cultural cafetero colombiano». Todavía no se ha intentado descargar el texto.
-
-10.20396/labore.v17i00.8673846, «Artefato Qualilar». Todavía no se ha intentado descargar el texto.
-
-10.20396/labore.v17i00.8673911, «O cenário legislativo brasileiro no uso de tecnologias de 'Low Impact Development' (LID) em drenagem urbana». Todavía no se ha intentado descargar el texto.
-
-10.20396/labore.v17i00.8674022, «Paisagem da Produção». Todavía no se ha intentado descargar el texto.
-
-10.20396/labore.v17i00.8674358, «Otimização de funcionamento de bomba hidráulica e benefícios associados ao armazenamento de energia». Todavía no se ha intentado descargar el texto.
-
-10.20396/labore.v17i00.8674432, «Os asilos-colônia do Estado de São Paulo». Todavía no se ha intentado descargar el texto.
-
-10.20396/labore.v17i00.8674434, «Territorialidade elétrica na formação do espaço urbano no Noroeste paulista (1901-1927)». Todavía no se ha intentado descargar el texto.
-
-10.20396/labore.v17i00.8674473, «Effect of elevated atmospheric CO2 on spectral reflectance of coffee leaves of plants cultivated at face facility». Todavía no se ha intentado descargar el texto.
-
-10.20396/labore.v17i00.8675285, «Processo de escolha e aquisição de terrenos para incorporação imobiliária de edifícios residenciais de múltiplos pavimentos». Todavía no se ha intentado descargar el texto.
-
-10.20396/labore.v17i00.8675408, «Em 2023 a Labor & Engenho aparece na classe “A3” do Qualis Periódicos – Capes. A revista fecha o ano com 23 artigos publicados e uma Chamada L&E em andamento». Todavía no se ha intentado descargar el texto.
-
-10.20396/labore.v18i00.8672902, «Interlocking concrete paving blocks made with treated wastewater». Todavía no se ha intentado descargar el texto.
-
-10.20396/labore.v18i00.8673566, «Estimativa do Número da Curva (CN) e sua adaptação ao contexto das Paisagens Mineiras». Todavía no se ha intentado descargar el texto.
-
-10.20396/labore.v18i00.8673628, «Arquitetura de terra em perspectiva». Todavía no se ha intentado descargar el texto.
-
-10.20396/labore.v18i00.8674282, «Dinâmica espaço-temporal da expansão de pivôs centrais e da diversificação agrícola no município de Casa Branca (SP)». Todavía no se ha intentado descargar el texto.
-
-10.20396/labore.v18i00.8674436, «Las marcas del urbanismo industrial en San Antonio y El Triunfo: Huellas patrimoniales en Baja California Sur». Todavía no se ha intentado descargar el texto.
-
-10.20396/labore.v18i00.8674458, «Agricultura de Baixo Carbono no Brasil». Todavía no se ha intentado descargar el texto.
-
-10.20396/labore.v18i00.8675463, «Soluções Baseadas na Natureza (SbN)». Todavía no se ha intentado descargar el texto.
-
-10.20396/labore.v18i00.8675949, «Dinâmicas de ocupação e domínio no espaço público». Todavía no se ha intentado descargar el texto.
-
-10.20396/labore.v18i00.8676058, «Inovação no contexto do Monitoramento, Relato e Verificação (MRV)». Todavía no se ha intentado descargar el texto.
-
-10.20396/labore.v18i00.8676085, «Evaluation of the effect of curing conditions on compressive strength and microstructure of alkali-activated binders». Todavía no se ha intentado descargar el texto.
-
-10.20396/labore.v18i00.8676501, «Comparing disinfection efficiency of ozone and peroxone in water containing Giardia duodenalis cysts». Todavía no se ha intentado descargar el texto.
-
-10.20396/labore.v18i00.8676694, «Barreiras para projetos de drenagem em lotes urbanos». Todavía no se ha intentado descargar el texto.
-
-10.20396/labore.v18i00.8676738, «Estratégias de resiliência às mudanças climáticas». Todavía no se ha intentado descargar el texto.
-
-10.20396/labore.v18i00.8677381, «História e patrimônio arquitetônico rural». Todavía no se ha intentado descargar el texto.
-
-10.20396/labore.v18i00.8677588, «Tendencias temporales en la cobertura vegetal de la Cuenca Ramis: Generación de Índices espectrales mediante Google Earth Engine». Todavía no se ha intentado descargar el texto.
-
-10.20396/labore.v18i00.8677590, «Arquitetura de produção em uma propriedade cafeeira do início do século XX». Todavía no se ha intentado descargar el texto.
-
-10.20396/labore.v18i00.8677948, «Mapeamento geológico-geotécnico de uma obra de infraestrutura viária no Distrito Federal do Brasil». Todavía no se ha intentado descargar el texto.
-
-10.20396/labore.v18i00.8678184, «Avaliação de diferentes modelos de evaporação em um reservatório da costa semiárida, em Fortaleza, Ceará». Todavía no se ha intentado descargar el texto.
-
-10.20396/labore.v18i00.8678406, «Urban regeneration in Mexico city's historic center in the 21st century». Todavía no se ha intentado descargar el texto.
-
-10.20396/labore.v18i00.8678803, «Fronteiras entre o espaço rural e o urbano». Todavía no se ha intentado descargar el texto.
-
-10.20396/labore.v18i00.8678816, «Múltiplos enfoques sobre o rural e o urbano no volume 18 da Labor & Engenho sob o prisma de diferentes áreas da Engenharia». Todavía no se ha intentado descargar el texto.
-
-10.20396/labore.v19i00.8678349, «Sewage treatment using MBR and MABR processes in two parallel plants». Todavía no se ha intentado descargar el texto.
-
-10.20396/labore.v19i00.8678795, «Vestígios e reminiscências na cidade». Todavía no se ha intentado descargar el texto.
-
-10.20396/labore.v19i00.8679555, «Continuidade e ruptura no uso da argila para a produção de artefatos em cerâmica na paisagem mogiana». Todavía no se ha intentado descargar el texto.
-
-10.20396/labore.v19i00.8679697, «Construção com terra e sustentabilidade urbana». Todavía no se ha intentado descargar el texto.
-
-10.20396/labore.v19i00.8679890, «Macrodrenagem urbana da cidade de Poços de Caldas (MG)». Todavía no se ha intentado descargar el texto.
-
-10.20396/labore.v19i00.8679960, «Identificação e análise das centralidades e da estrutura espacial urbana em Trindade (GO) Brasil». Todavía no se ha intentado descargar el texto.
-
-10.20396/labore.v19i00.8680099, «Ferrovia São Paulo – Rio Grande». Todavía no se ha intentado descargar el texto.
-
-10.20396/labore.v19i00.8680191, «Modelo Multivariado de Vulnerabilidade Climática». Todavía no se ha intentado descargar el texto.
-
-10.20396/labore.v19i00.8681080, «Vacancia estructural en ciudades intermedias: el caso de Treinta y Tres, Uruguay». Todavía no se ha intentado descargar el texto.
-
-10.20396/labore.v19i00.8681215, «The commodity coffee layout drying process impact on the logistics and operationalization flow related to the time optimization in the coffee beans post-harvest drying process». Todavía no se ha intentado descargar el texto.
-
-10.20396/labore.v19i00.8681559, «O papel do cinturão verde na integração rural-urbano em Piracicaba (SP)». Todavía no se ha intentado descargar el texto.
-
-10.20396/labore.v19i00.8681595, «Ruralidad contemporánea». Todavía no se ha intentado descargar el texto.
-
-10.20396/labore.v19i00.8681598, «O Parque Linear da Billings e a criação da Praça de Aulas». Todavía no se ha intentado descargar el texto.
-
-10.20396/labore.v19i00.8681617, «A multifuncionalidade do meio rural metropolitano». Todavía no se ha intentado descargar el texto.
-
-10.20396/labore.v19i00.8681621, «Paisagem urbana desenhada». Todavía no se ha intentado descargar el texto.
-
-10.20396/labore.v19i00.8681624, «Política habitacional en grandes proyectos urbanos». Todavía no se ha intentado descargar el texto.
-
-10.20396/labore.v19i00.8681628, «Configuração espacial de vilas pesqueiras na foz do Rio Doce». Todavía no se ha intentado descargar el texto.
-
-10.20396/labore.v19i00.8681638, «Quilombo, um conceito necessário à compreensão das comunidades negras no Brasil». Todavía no se ha intentado descargar el texto.
-
-10.20396/labore.v19i00.8681947, «Arquitetura rural em territórios urbanos». Todavía no se ha intentado descargar el texto.
-
-10.20396/labore.v19i00.8681963, «Urbanismo, engenharia e arquitetura rural compõem o escopo do volume 19 da revista Labor &amp; Engenho». Todavía no se ha intentado descargar el texto.
-
-### Forum Sociológico
-
-10.4000/130um, «Introduction : interdisciplinarity, human ecology, the social and the environmental sciences». Todavía no se ha intentado descargar el texto.
-
-10.4000/130un, «Scientific reviewers (2023/2024)». Todavía no se ha intentado descargar el texto.
-
-10.4000/130uo, «Aproximación a los estudios transdisciplinares de Ecología Humana en Paraguay». Todavía no se ha intentado descargar el texto.
-
-10.4000/130up, «The importance of human ecology to the understanding of women´s homelessness». Todavía no se ha intentado descargar el texto.
-
-10.4000/130uq, «Saint Joan of the Stockyards meets the Chicago School : challenging the discussion of urban space in Human Ecology». Todavía no se ha intentado descargar el texto.
-
-10.4000/130ur, «A pluralidade de interesses e a sobreposição de instituições na gestão dos baldios do Parque Nacional da Peneda-Gerês». Todavía no se ha intentado descargar el texto.
-
-10.4000/130us, «O corpo múltiplo da Natureza : abordagens praxiológicas da crise ecológica». Todavía no se ha intentado descargar el texto.
-
-10.4000/130ut, «In search of human ecology : memories, insights, and wider points of view (a personal journey)». Todavía no se ha intentado descargar el texto.
-
-10.4000/130uu, «Humanos e paisagem das terras da Gândara.Uma climocrítica de Casa na Duna (1943) e Finisterra (1978)». Todavía no se ha intentado descargar el texto.
-
-10.4000/130uv, «Desafios interdisciplinares e intersetoriais da vigilância em saúde humana e animal». Todavía no se ha intentado descargar el texto.
-
-10.4000/14ri2, «Neoliberalismo urbano no século XXI: da exclusão e lutas pelo direito à cidade». Todavía no se ha intentado descargar el texto.
-
-10.4000/14ri3, «Gentrificação, turismo e a perda do direito à cidade: o caso do antigo Hospital da Marinha». Todavía no se ha intentado descargar el texto.
-
-10.4000/14ri4, «O neoliberalismo urbano e o direito das pessoas com deficiência ao usufruto à cidade». Todavía no se ha intentado descargar el texto.
-
-10.4000/14ri5, «Uma análise sobre a construção teórica, reivindicação e o direito à cidade em Moçambique». Todavía no se ha intentado descargar el texto.
-
-10.4000/14ri6, «Saliency lends a hand: the changing face of global squatters' social movements». Todavía no se ha intentado descargar el texto.
-
-10.4000/14ri7, «Lefebvre-Freire 1968 connections: crossing the right to the city with the Pedagogy of the Oppressed». Todavía no se ha intentado descargar el texto.
-
-10.4000/14ri8, «The struggle to gain access: a theoretical effort to contribute to the political programme of women's right to the city». Todavía no se ha intentado descargar el texto.
-
-10.4000/14ri9, «Dé[vide]alisation: Fanon et Lefebvre sur la gentrification urbaine». Todavía no se ha intentado descargar el texto.
-
-10.4000/14ria, «Um olhar sobre o envelhecimento e a participação das pessoas idosas na cidade do Porto». Todavía no se ha intentado descargar el texto.
-
-10.4000/15kxf, «De inter a transdisciplinar: um olhar sobre um projeto artístico». Todavía no se ha intentado descargar el texto.
-
-10.4000/15kxg, «Sair da “Casa” – A participação juvenil num projeto de intervenção comunitária». Todavía no se ha intentado descargar el texto.
-
-10.4000/15l28, «Conhecimento local e comunidades de pequena escala: saberes enraizados para futuros sustentáveis». Todavía no se ha intentado descargar el texto.
-
-10.4000/15l70, «Habitar la costa: territorialidades, conocimientos y autoctonía en transformación en una ciudad costera del Este de Uruguay». Todavía no se ha intentado descargar el texto.
-
-10.4000/15l71, «Considerações preliminares sobre etnoconservação a partir de narrativas quilombolas (Vale do Ribeira, Estado de São Paulo, Brasil)». Todavía no se ha intentado descargar el texto.
-
-10.4000/15l72, «Challenging Growth Narratives in Organic Agricultural Policy: Case studies from Sikkim(India), Ndiob (Senegal), and Kauswagan (The Philippines)». Todavía no se ha intentado descargar el texto.
-
-### 2i Revista de Estudos de Identidade e Intermedialidade
-
-10.21814/2i.6006, «absurdo desconcertante no conto “Os homens que se transformavam em barbantes” de Ignácio de Loyola Brandão». Todavía no se ha intentado descargar el texto.
-
-10.21814/2i.6009, «humor y lo fantástico en la reconstrucción del relato histórico de la Transición española». Todavía no se ha intentado descargar el texto.
-
-10.21814/2i.6124, «Game of Thrones, o último ponto de encontro televisivo». Todavía no se ha intentado descargar el texto.
-
-10.21814/2i.6148, «humor, o fantástico, a queda das máscaras e a crítica social em "Incidente em Antares", de Erico Verissimo». Todavía no se ha intentado descargar el texto.
-
-10.21814/2i.6151, «Entre o fantástico e o real maravilhoso». Todavía no se ha intentado descargar el texto.
-
-10.21814/2i.6175, «Rostos que questionam a identidade feminina». Todavía no se ha intentado descargar el texto.
-
-10.21814/2i.6195, «“The vixens, the she-wolves, the birds, the witches”». Todavía no se ha intentado descargar el texto.
-
-10.21814/2i.6199, «Nós, os Monstros». Todavía no se ha intentado descargar el texto.
-
-10.21814/2i.6211, «Asterion, the myth reinvented by Borges with burlesque overtones». Todavía no se ha intentado descargar el texto.
-
-10.21814/2i.6214, «humor no conto fantástico de Cortázar e de Lygia Fagundes Telles». Todavía no se ha intentado descargar el texto.
-
-10.21814/2i.6272, «cabeza borradora de Álvaro Cunqueiro». Todavía no se ha intentado descargar el texto.
-
-10.21814/2i.6279, «Representações fantásticas». Todavía no se ha intentado descargar el texto.
-
-10.21814/2i.6450, «Intersubjectivity and language in the clinical encounter». Todavía no se ha intentado descargar el texto.
-
-10.21814/2i.6492, «David Roas (org). Historia de lo fantástico en las narrativas latinoamericanas II (1940-2022)». Todavía no se ha intentado descargar el texto.
-
-10.21814/2i.6499, «A cultura da convergência e as relações intermidiáticas em 'Assassins's Creed'». Todavía no se ha intentado descargar el texto.
-
-10.21814/2i.6605, «How can creative writing and reading aloud transform the stories told by people in fertility treatment?». Todavía no se ha intentado descargar el texto.
-
-10.21814/2i.6615, «Medicine and Literature». Todavía no se ha intentado descargar el texto.
-
-10.21814/2i.6617, «Quando Werther vai à terapia». Todavía no se ha intentado descargar el texto.
-
-10.21814/2i.6627, «‘Cânceres, tumores, viados que proliferam’». Todavía no se ha intentado descargar el texto.
-
-10.21814/2i.6640, «Editorial». Todavía no se ha intentado descargar el texto.
-
-10.21814/2i.6641, «“O imaxinario é a materia da narración clásica"». Todavía no se ha intentado descargar el texto.
-
-10.21814/2i.6649, «Intermediality Sudies (an overview)». Todavía no se ha intentado descargar el texto.
-
-10.21814/2i.6687, «As práticas de conexão com a natureza como caminhos para o autocuidado e o bem-estar dos profissionais de saúde no Estado de São Paulo, Brasil». Todavía no se ha intentado descargar el texto.
-
-10.21814/2i.6727, «When the 'herstory' deconstructs the case of hysteria...». Todavía no se ha intentado descargar el texto.
-
-10.21814/2i.6731, «A presença que cura». Todavía no se ha intentado descargar el texto.
-
-10.21814/2i.6855, «Vida humana e completude». Todavía no se ha intentado descargar el texto.
-
-10.21814/2i.6900, «Former le regard, transformer le soin par la Littérature». Todavía no se ha intentado descargar el texto.
-
-10.21814/2i.7002, «A xeografía e a cultura inflúen moito en todos os ámbitos sociais e, dende sempre, na saúde». Todavía no se ha intentado descargar el texto.
-
-10.21814/2i.7012, «Jean-Nicolas Illouz. 'Mallarmé entre les arts'». Todavía no se ha intentado descargar el texto.
-
-10.21814/2i.7023, «Like a Fish, Like a Dog». Todavía no se ha intentado descargar el texto.
-
-10.21814/2i.7042, «Kaoutar Harchi. 'Ainsi l’animal et nous'». Todavía no se ha intentado descargar el texto.
-
-10.21814/2i.7043, «Vozes de burro não chegam ao céu?». Todavía no se ha intentado descargar el texto.
-
-10.21814/2i.7057, «Editorial». Todavía no se ha intentado descargar el texto.
-
-10.21814/2i.7115, «A mulher submissa». Todavía no se ha intentado descargar el texto.
-
-10.21814/2i.7159, «Considerações sobre o retrato na pintura». Todavía no se ha intentado descargar el texto.
-
-10.21814/2i.7163, «Identidades esvaziadas e espaços refratários». Todavía no se ha intentado descargar el texto.
-
-10.21814/2i.7167, «Quando a cigarra já não canta». Todavía no se ha intentado descargar el texto.
-
-10.21814/2i.7212, «“Mas a garra nunca era posta a trabalhar sem resultado”». Todavía no se ha intentado descargar el texto.
-
-10.21814/2i.7244, «Kafka’s Animals speak back. Zoopoetics, alterity, and the limits of the Human». Todavía no se ha intentado descargar el texto.
-
-10.21814/2i.7276, «Vice Versa : Human and Ape in Kafka.». Todavía no se ha intentado descargar el texto.
-
-10.21814/2i.7307, «Animal Construtor – Animal Lógico». Todavía no se ha intentado descargar el texto.
-
-10.21814/2i.7322, «“Eu também sei rir”». Todavía no se ha intentado descargar el texto.
-
-10.21814/2i.7522, «Editorial». Todavía no se ha intentado descargar el texto.
-
-### Conjeturas Sociologicas
-
-10.66778/10.66778/cs.v14n39.01, «Narrativas transnacionales». Todavía no se ha intentado descargar el texto.
-
-10.66778/10.66778/cs.v14n39.02, «Algunas reflexiones sobre los programas sociales destinados a jóvenes en Argentina durante 2024». Todavía no se ha intentado descargar el texto.
-
-10.66778/10.66778/cs.v14n39.03, «El Salvador». Todavía no se ha intentado descargar el texto.
-
-10.66778/10.66778/cs.v14n39.04, «La Sociología y las Ciencias Sociales en El Salvador». Todavía no se ha intentado descargar el texto.
-
-10.66778/10.66778/cs.v14n39.05, «El discurso de la salud mental desde la mirada de la Biopolítica y el Biopoder». Todavía no se ha intentado descargar el texto.
-
-10.66778/10.66778/cs.v14n39.06, «TikTok como espacio de reproducción del racismo: discursos contra los pueblos indígenas en el contexto de las protestas ecuatorianas de 2025». Todavía no se ha intentado descargar el texto.
-
-10.66778/10.66778/cs.v14n39.07, «La significancia de la paxko jöta o enramada para el pueblo yoreme». Todavía no se ha intentado descargar el texto.
-
-10.66778/10.66778/cs.v14n39.08, «Aproximación a la historia oral del Ejido Zeferino Paredes, Sinaloa, México. La importancia de la preservación de la memoria para las nuevas generaciones». Todavía no se ha intentado descargar el texto.
-
-10.66778/10.66778/cs.v14n39.09, «Análisis narratológico de “Bosquejo”, de Élmer Mendoza». Todavía no se ha intentado descargar el texto.
-
-10.66778/10.66778/cs.v14n39.10, «Teletrabajo durante la pandemia por COVID 19 en educación superior». Todavía no se ha intentado descargar el texto.
-
-10.66778/cs.v13n38.01, «Prácticas pedagógicas inclusivas en la modalidad virtual de aprendizaje para estudiantes con discapacidad auditiva». Todavía no se ha intentado descargar el texto.
-
-10.66778/cs.v13n38.02, «Asociación entre capacidades docentes, entornos familiares y prácticas vecinales con la asistencia del estudiantado en una unidad de un Colegio Militarizado». Todavía no se ha intentado descargar el texto.
-
-10.66778/cs.v13n38.03, «Rediseño curricular». Todavía no se ha intentado descargar el texto.
-
-10.66778/cs.v13n38.04, «Charangas de Bejucal, necesidad de su evaluación para la preservación como patrimonio cultural de la nación cubana». Todavía no se ha intentado descargar el texto.
-
-10.66778/cs.v13n38.05, «La migración México-Belice a partir del establecimiento de la frontera binacional». Todavía no se ha intentado descargar el texto.
-
-10.66778/cs.v13n38.06, «Migración irregular y política migratoria de México». Todavía no se ha intentado descargar el texto.
-
-10.66778/cs.v13n38.07, «Desinterés político y deterioro de la participación en acciones de protesta». Todavía no se ha intentado descargar el texto.
-
-10.66778/cs.v13n38.08, «La psicología de la víctima de un fraude financiero». Todavía no se ha intentado descargar el texto.
-
-10.66778/cs.v13n38.09, «Polarización sentimental». Todavía no se ha intentado descargar el texto.
-
-10.66778/cs.v13n38.10, «Condiciones alimentarias y comportamiento adolescente: efectos en la conducta, el aprendizaje y la interacción social desde un enfoque sociocultural». Todavía no se ha intentado descargar el texto.
-
-10.66778/cs.v13n38.11, «El Corredor Seco Centroamericano». Todavía no se ha intentado descargar el texto.
-
-10.66778/cs.v14n40.01, «MI LABOR Y “LA COMPLEJIDAD”». Todavía no se ha intentado descargar el texto.
-
-10.66778/cs.v14n40.02, «OSCILACIONES DE LA TEORÍA Y EL MUNDO DE LA VIDA». Todavía no se ha intentado descargar el texto.
-
-10.66778/cs.v14n40.03, «La economía política del signo». Todavía no se ha intentado descargar el texto.
-
-10.66778/cs.v14n40.04, «Subjetividades sociales y complejidad». Todavía no se ha intentado descargar el texto.
-
-10.66778/cs.v14n40.05, «El modo de relación gobernantes-gobernados». Todavía no se ha intentado descargar el texto.
-
-10.66778/cs.v14n40.06, «El valor heurístico de los patrones de interacción social propuesto por Pedro Luis Sotolongo Codina». Todavía no se ha intentado descargar el texto.
-
-10.66778/cs.v14n40.07, «Tetraléctica y pensamiento complejo». Todavía no se ha intentado descargar el texto.
-
-10.66778/cs.v14n40.08, «La vida cotidiana dentro del Leviatán, narrativa determinista de control frente a la resistencia social existencial en América Latina». Todavía no se ha intentado descargar el texto.
-
-10.66778/cs.v14n40.09, «Prácticas alimentarias, cuerpo y complejidad». Todavía no se ha intentado descargar el texto.
-
-10.66778/cs.v14n40.10, «El feminicidio como expresión extrema de la desigualdad». Todavía no se ha intentado descargar el texto.
-
-10.66778/cs.v14n40.11, «Operacionalizar la cotidianidad». Todavía no se ha intentado descargar el texto.
-
-10.66778/cs.v14n40.12, «Pedro Luis Sotolongo Codina y la construcción de una racionalidad compleja para el siglo XXI». Todavía no se ha intentado descargar el texto.
-
-10.66778/cs.v14n40.13, «La elección de especialidades médicas como práctica social situada». Todavía no se ha intentado descargar el texto.
-
-### Cuadernos de H Ideas
-
-10.24215/23139048e052, «Paro Nacional: El Memorial de Agravios para el gobierno Duque». Todavía no se ha intentado descargar el texto.
-
-10.24215/23139048e059, «Trabajadores de salud: representaciones en torno a la pandemia de COVID 19 en la Argentina». Todavía no se ha intentado descargar el texto.
-
-10.24215/23139048e060, «Trabajar en enfermería durante la pandemia de la covid-19». Todavía no se ha intentado descargar el texto.
-
-10.24215/23139048e061, «Representaciones sociales sobre la feminización de los cuidados en enfermería». Todavía no se ha intentado descargar el texto.
-
-10.24215/23139048e062, «Reinventar la enfermería en el Parque Sanitario Tecnópolis: la pandemia como oportunidad». Todavía no se ha intentado descargar el texto.
-
-10.24215/23139048e063, «De la casa al trabajo». Todavía no se ha intentado descargar el texto.
-
-10.24215/23139048e064, «enfermería en tiempos de crisis sanitaria.». Todavía no se ha intentado descargar el texto.
-
-10.24215/23139048e065, «Enfermería y subjetividades en Santa Fe durante la pandemia». Todavía no se ha intentado descargar el texto.
-
-10.24215/23139048e066, «Entre la necesidad y la virtud». Todavía no se ha intentado descargar el texto.
-
-10.24215/23139048e067, «Reseña a Adrián Cammarota (2021). Malas maestras. Educación, género y conflicto en el sistema escolar argentino». Todavía no se ha intentado descargar el texto.
-
-10.24215/23139048e068, «Reseña a Didier Fassin (2022). ¿Cuánto vale una vida? O cómo pensar la dignidad humana en un mundo desigual». Todavía no se ha intentado descargar el texto.
-
-10.24215/23139048e069, «No hay cuerpo con el que dar respuesta». Todavía no se ha intentado descargar el texto.
-
-10.24215/23139048e070, «“A nosotras no nos sirven los aplausos”». Todavía no se ha intentado descargar el texto.
-
-10.24215/23139048e071, «Protestas sociales del sector salud en pandemia: análisis de la enfermería en la prensa de Rosario, Argentina». Todavía no se ha intentado descargar el texto.
-
-10.24215/23139048e072, «No es lo que dijo, es cómo lo dijo». Todavía no se ha intentado descargar el texto.
-
-10.24215/23139048e073, «rol del conflicto en el discurso de campaña kirchnerista (2015)». Todavía no se ha intentado descargar el texto.
-
-10.24215/23139048e074, «La niñez en la prensa del conurbano bonaerense». Todavía no se ha intentado descargar el texto.
-
-10.24215/23139048e075, «Reseña a Ernesto Calvo y Natalia Aruguete (2020). Fake news, trolls y otros encantos. Cómo funcionan (para bien y para mal) las redes sociales». Todavía no se ha intentado descargar el texto.
-
-10.24215/23139048e076, «Algunos usos del meme en internet». Todavía no se ha intentado descargar el texto.
-
-10.24215/23139048e077, «¿La nueva era de los chatbots? Apuntes acerca de las determinaciones ideológicas y discursivas del caso «Boti» en la Ciudad de Buenos Aires». Todavía no se ha intentado descargar el texto.
-
-10.24215/23139048e078, «Reseña a Natalio Botana (2022). La libertad política y su historia». Todavía no se ha intentado descargar el texto.
-
-10.24215/23139048e079, «Mediatización de las intersecciones sobre religión y pobreza en la prensa escrita de la Argentina reciente». Todavía no se ha intentado descargar el texto.
-
-10.24215/23139048e080, «Reseña a Aldo Manucio (2021). De re impressoria. Cartas prologales del primer editor.». Todavía no se ha intentado descargar el texto.
-
-10.24215/23139048e081, «Reseña a Enzo Traverso (2022). Revolución: una historia intelectual». Todavía no se ha intentado descargar el texto.
-
-10.24215/23139048e082, «A Evolução do Estado-Providência e a sua Sustentabilidade». Todavía no se ha intentado descargar el texto.
-
-10.24215/23139048e083, «desigualdad en tiempos de pandemia: cólera e influenza española en México». Todavía no se ha intentado descargar el texto.
-
-10.24215/23139048e084, «Reseña a Enrique Quinteros (Comp.). (2023). Escritoras salteñas. Emma Solá de Solá». Todavía no se ha intentado descargar el texto.
-
-10.24215/23139048e085, «Historias del saber filosófico en la Argentina. Revisiones críticas, nuevas perspectivas y diferentes objetos». Todavía no se ha intentado descargar el texto.
-
-10.24215/23139048e086, «saber filosófico en la Facultad de Filosofía y Letras de la Universidad de Buenos Aires». Todavía no se ha intentado descargar el texto.
-
-10.24215/23139048e087, «Del antipositivismo a la historia de las ideas». Todavía no se ha intentado descargar el texto.
-
-10.24215/23139048e088, «Pensar desde el Noroeste Argentino: Orestes Di Lullo, folclore y filosofía». Todavía no se ha intentado descargar el texto.
-
-10.24215/23139048e089, «Contribuciones a la historiografía filosófica argentina». Todavía no se ha intentado descargar el texto.
-
-10.24215/23139048e090, «Lugares para pensar la historia de la filosofía: el II Congreso Nacional de Córdoba (1971)». Todavía no se ha intentado descargar el texto.
-
-### Estudos de Sociologia
-
-10.51359/2317-5427.2025.266380, «Sergio Arouca sob a perspectiva do pensamento social brasileiro». Todavía no se ha intentado descargar el texto.
-
-10.51359/2317-5427.2025.266657, «Gramáticas afetivas e a crise da mediação: a fragilização da democracia pelo contato direto entre Estado e sociedade». Todavía no se ha intentado descargar el texto.
-
-10.51359/2317-5427.2025.267307, «Lógicas do autoritarismo digital: masculinidades, populismo religioso e políticas de controle no Brasil». Todavía no se ha intentado descargar el texto.
-
-10.51359/2317-5427.2025.267380, «A sagrada família na propaganda digital de influenciadores da extrema direita brasileira». Todavía no se ha intentado descargar el texto.
-
-10.51359/2317-5427.2025.267414, «Deus, algoritmo e conflito político: estratégias discursivas de deputados evangélicos no Instagram». Todavía no se ha intentado descargar el texto.
-
-10.51359/2317-5427.2025.267475, «Ideologia em movimento: Olavo de Carvalho e as raízes digitais da extrema direita no Brasil». Todavía no se ha intentado descargar el texto.
-
-10.51359/2317-5427.2025.267505, «Crise orgânica, governo Bolsonaro e negacionismo científico: uma análise sobre o uso do Youtube durante a pandemia de COVID-19». Todavía no se ha intentado descargar el texto.
-
-10.51359/2317-5427.2025.267526, «Do desenvolvimento desigual à revolução teimosa». Todavía no se ha intentado descargar el texto.
-
-10.51359/2317-5427.2025.267720, «Vísceras neoliberais: resenha de Capitalismo Gore». Todavía no se ha intentado descargar el texto.
-
-10.51359/2317-5427.2025.268331, «O habitus na acepção de Norbert Elias e Pierre Bourdieu». Todavía no se ha intentado descargar el texto.
-
-10.51359/2317-5427.2025.268478, «Genealogia e pensamentos decoloniais: colonialidade do poder/saber como teoria do assujeitamento». Todavía no se ha intentado descargar el texto.
-
-10.51359/2317-5427.2025.268785, «Apresentação do Dossiê - Do brado populista à retórica do ódio: estratégias discursivas da extrema direita no ambiente digital». Todavía no se ha intentado descargar el texto.
-
-10.51359/2317-5427.2026.265480, «Identidade e Representação na contemporaneidade: uma análise sociológica do filme Coringa». Todavía no se ha intentado descargar el texto.
-
-10.51359/2317-5427.2026.266126, «Inter-relações entre acesso às estruturas e equipamentos urbanos de esporte, prática de atividade física e legado dos megaeventos esportivos no Brasil.». Todavía no se ha intentado descargar el texto.
-
-10.51359/2317-5427.2026.267261, «Cinema, representação e sociedade: perspectivas a partir da sociologia da arte». Todavía no se ha intentado descargar el texto.
-
-10.51359/2317-5427.2026.268380, «Racismo e escolarização: desvantagens e privilégios raciais nas trajetórias de estudantes até a pós-graduação». Todavía no se ha intentado descargar el texto.
-
-10.51359/2317-5427.2026.268738, «Uma visão sistemática sobre o uso da história nos debates atuais em sociologia e sobre o potencial e os problemas de uma epistemologia histórica da sociologia». Todavía no se ha intentado descargar el texto.
-
-10.51359/2317-5427.2026.268980, «“Gay Direito é de Direita?”: Uma Discussão Acerca da Identidade Conservadora no Movimento LGBTQIAPN+». Todavía no se ha intentado descargar el texto.
-
-10.51359/2317-5427.2026.269040, «As diretrizes das Nações Unidas sobre a abolição dos castigos na vida escolar das crianças». Todavía no se ha intentado descargar el texto.
-
-10.51359/2317-5427.2026.269465, «Gerência hospitalar como lugar de fronteira: trabalho, subjetividade e contradições do gerencialismo no serviço público de saúde». Todavía no se ha intentado descargar el texto.
-
-10.51359/2317-5427.2026.269488, «Achille Mbembe e a perspectiva ontopolítica da democracia». Todavía no se ha intentado descargar el texto.
-
-10.51359/2317-5427.2026.269581, «Entre W.E.B. Du Bois e Durkheim: raça como chave interpretativa e categoria analítica da modernidade». Todavía no se ha intentado descargar el texto.
-
-10.51359/2317-5427.2026.269630, «Necrofania e fragmentação disciplinar: uma proposta de unidade analítica de terceira ordem para a teoria sociológica contemporânea». Todavía no se ha intentado descargar el texto.
-
-10.51359/2317-5427.2026.269637, «Ciências naturais e ciências sociais: as raízes filosóficas de Florestan Fernandes». Todavía no se ha intentado descargar el texto.
-
-10.51359/2317-5427.2026.269777, «Ensaio sobre fenomenologia e sociologia: ponderações acerca do pensamento disciplinar e dos métodos qualitativos». Todavía no se ha intentado descargar el texto.
-
-10.51359/2317-5427.2026.269930, «Autoimagem profissional e transformações organizacionais contemporâneas: interfaces entre trabalho, reconhecimento e subjetividade». Todavía no se ha intentado descargar el texto.
-
-10.51359/2317-5427.2026.270271, «Apresentação do dossiê - A fragmentação disciplinar da sociologia: uma perspectiva histórica e teórica». Todavía no se ha intentado descargar el texto.
-
-10.51359/2317-5427.2026.270639, «Cotas raciais na pós-graduação em geografia: vinte e três anos do sistema da UERJ e o tensionamento dos cânones disciplinares». Todavía no se ha intentado descargar el texto.
-
-10.51359/2317-5427.2026.270669, «As possibilidades de uma didática antirracista: análise curricular das disciplinas de didática no ensino superior». Todavía no se ha intentado descargar el texto.
-
-10.51359/2317-5427.2026.270722, «Escutar o conflito e desobedecer o racismo: ações afirmativas e descentramentos pedagógicos-epistêmicos nos Institutos Federais». Todavía no se ha intentado descargar el texto.
-
-10.51359/2317-5427.2026.270730, «Para além do acesso: permanência de indígenas estudantes, ações afirmativas e disputa por outros saberes na UFPA e na UFBA». Todavía no se ha intentado descargar el texto.
-
-10.51359/2317-5427.2026.270757, «Transição do ensino superior para o mercado de trabalho: trajetórias de estudantes cotistas no Rio de Janeiro». Todavía no se ha intentado descargar el texto.
-
-10.51359/2317-5427.2026.270793, «A judicialização da igualdade: uma análise das ações afirmativas nas instituições de justiça». Todavía no se ha intentado descargar el texto.
-
-10.51359/2317-5427.2026.272117, «Desigualdades, ações afirmativas, raça e ensino superior no Brasil». Todavía no se ha intentado descargar el texto.
-
-### Ambivalências
-
-10.21665/2318-3888.v13n25p121, «Heurística y cognición». Todavía no se ha intentado descargar el texto.
-
-10.21665/2318-3888.v13n25p145, «Os paradoxos do neoliberalismo no teatro de grupo». Todavía no se ha intentado descargar el texto.
-
-10.21665/2318-3888.v13n25p169, «Fernando Aguerre e o surfe olímpico». Todavía no se ha intentado descargar el texto.
-
-10.21665/2318-3888.v13n25p189, «Desafios para acesso ao dispositivo intrauterino (DIU) de cobre no município do Rio de Janeiro (RJ), Brasil». Todavía no se ha intentado descargar el texto.
-
-10.21665/2318-3888.v13n25p209, «Mandiocada e o circuito da dádiva». Todavía no se ha intentado descargar el texto.
-
-10.21665/2318-3888.v13n25p227, «Da ansiedade ao método no trabalho de campo antropológico». Todavía no se ha intentado descargar el texto.
-
-10.21665/2318-3888.v13n25p249, «O papel da ontogenia na evolução da cooperação humana». Todavía no se ha intentado descargar el texto.
-
-10.21665/2318-3888.v13n25p273, «O Carnaval como direito à cidade». Todavía no se ha intentado descargar el texto.
-
-10.21665/2318-3888.v13n25p33, «Mujeres indígenas, desarrollo y alternativas». Todavía no se ha intentado descargar el texto.
-
-10.21665/2318-3888.v13n25p51, «O cantor indígena e suas práticas culturais na Terra Indígena Mãe Maria». Todavía no se ha intentado descargar el texto.
-
-10.21665/2318-3888.v13n25p7, «Editorial». Todavía no se ha intentado descargar el texto.
-
-10.21665/2318-3888.v13n25p75, «Territórios, vulnerabilidade social e regularização fundiária». Todavía no se ha intentado descargar el texto.
-
-10.21665/2318-3888.v13n25p9, «“Civilização” com aspas». Todavía no se ha intentado descargar el texto.
-
-10.21665/2318-3888.v13n25p97, «Por uma escrita contra a natureza». Todavía no se ha intentado descargar el texto.
-
-10.21665/2318-3888.v13n26p103, «Habitando entre ancestros, espíritus y dioses». Todavía no se ha intentado descargar el texto.
-
-10.21665/2318-3888.v13n26p135, «La incrustación y el tatuaje en el culto a San La Muerte». Todavía no se ha intentado descargar el texto.
-
-10.21665/2318-3888.v13n26p15, «“Arreda, homem, que aí vem mulher”». Todavía no se ha intentado descargar el texto.
-
-10.21665/2318-3888.v13n26p159, «Com espumosa e água doce». Todavía no se ha intentado descargar el texto.
-
-10.21665/2318-3888.v13n26p183, «Ayahuasca e religiosidade». Todavía no se ha intentado descargar el texto.
-
-10.21665/2318-3888.v13n26p209, «Da iniciação ao caminho atual de Pai José Luiz de Logun Edé». Todavía no se ha intentado descargar el texto.
-
-10.21665/2318-3888.v13n26p225, «Os riscos compreendidos, gerenciados e, em certa medida, incorporados por instrutores de parapente no Parque da Cidade de Niterói/RJ». Todavía no se ha intentado descargar el texto.
-
-10.21665/2318-3888.v13n26p251, «O insólito como aliado na prática etnográfica». Todavía no se ha intentado descargar el texto.
-
-10.21665/2318-3888.v13n26p273, «Waldemar Valente e os silêncios da historiografia da antropologia afro-brasileira». Todavía no se ha intentado descargar el texto.
-
-10.21665/2318-3888.v13n26p35, «Xamanismo e religiosidades Terena». Todavía no se ha intentado descargar el texto.
-
-10.21665/2318-3888.v13n26p59, «O surgimento de uma “santa popular”». Todavía no se ha intentado descargar el texto.
-
-10.21665/2318-3888.v13n26p7, «Editorial». Todavía no se ha intentado descargar el texto.
-
-10.21665/2318-3888.v13n26p85, «Entre o cajado e o tempo». Todavía no se ha intentado descargar el texto.
-
-10.21665/2318-3888.v13n26p9, «Dossiê». Todavía no se ha intentado descargar el texto.
-
-10.21665/2318-3888.v14n27p119, «Língua, identidade e os “brasileirinhos”». Todavía no se ha intentado descargar el texto.
-
-10.21665/2318-3888.v14n27p143, «O que significa ser brasileiro?». Todavía no se ha intentado descargar el texto.
-
-10.21665/2318-3888.v14n27p169, «Infância, migração e escola». Todavía no se ha intentado descargar el texto.
-
-10.21665/2318-3888.v14n27p183, «Etnografia crítica de ação participativa com crianças e jovens migrantes transnacionais». Todavía no se ha intentado descargar el texto.
-
-10.21665/2318-3888.v14n27p19, «Cuerpos rotos y esperas burocráticas». Todavía no se ha intentado descargar el texto.
-
-10.21665/2318-3888.v14n27p209, «“A tia às vezes fala umas coisas que eu não sei...”». Todavía no se ha intentado descargar el texto.
-
-10.21665/2318-3888.v14n27p231, «Como chegaríamos lá e A cabuya». Todavía no se ha intentado descargar el texto.
-
-10.21665/2318-3888.v14n27p245, «Formas sociais da corporificação». Todavía no se ha intentado descargar el texto.
-
-10.21665/2318-3888.v14n27p267, «Políticas para combatir el feminicidio en España». Todavía no se ha intentado descargar el texto.
-
-10.21665/2318-3888.v14n27p285, «Da modernidade eurocêntrica aos estudos decoloniais». Todavía no se ha intentado descargar el texto.
-
-10.21665/2318-3888.v14n27p305, «Cierres de la incertidumbre en las Islas Canarias». Todavía no se ha intentado descargar el texto.
-
-10.21665/2318-3888.v14n27p33, «Agencia situada en contextos de vulneración transnacional». Todavía no se ha intentado descargar el texto.
-
-10.21665/2318-3888.v14n27p331, «Antroporrobótica, robótica de décima geração e habitar humano». Todavía no se ha intentado descargar el texto.
-
-10.21665/2318-3888.v14n27p57, «Niñas andinas en la frontera Brasil-Bolivia». Todavía no se ha intentado descargar el texto.
-
-10.21665/2318-3888.v14n27p7, «Editorial». Todavía no se ha intentado descargar el texto.
-
-10.21665/2318-3888.v14n27p75, «Cartografías escolares e infancias internacionales». Todavía no se ha intentado descargar el texto.
-
-10.21665/2318-3888.v14n27p9, «Dossiê». Todavía no se ha intentado descargar el texto.
-
-10.21665/2318-3888.v14n27p97, «Questioning privileged mixedness». Todavía no se ha intentado descargar el texto.
-
-### Cuestiones de Sociología
-
-10.24215/23468904e191, «Los Estudios Organizacionales en Latinoamérica. Un análisis del camino transitado y perspectivas de desarrollo». Todavía no se ha intentado descargar el texto.
-
-10.24215/23468904e192, «Género(s) y organizaciones: entre estigmas y transformaciones». Todavía no se ha intentado descargar el texto.
-
-10.24215/23468904e193, «Las organizaciones públicas en tiempos de Inteligencia Artificial: hacia la construcción de puentes analíticos». Todavía no se ha intentado descargar el texto.
-
-10.24215/23468904e194, «Historias de vida de trabajadores de cuello azul, blanco y digital». Todavía no se ha intentado descargar el texto.
-
-10.24215/23468904e195, «Desafíos y propuestas para un abordaje crítico de los Estudios Organizacionales en Argentina». Todavía no se ha intentado descargar el texto.
-
-10.24215/23468904e196, «Organizaciones y territorio: sobre posibles vasos comunicantes». Todavía no se ha intentado descargar el texto.
-
-10.24215/23468904e197, «Comprender, analizar e intervenir en las organizaciones: Notas metodológicas y pedagógicas sobre prácticas de enseñanza e investigación en la Sociología de las Organizaciones». Todavía no se ha intentado descargar el texto.
-
-10.24215/23468904e198, «La configuración de la sociedad civil organizada: aportes a su caracterización en la Argentina actual». Todavía no se ha intentado descargar el texto.
-
-10.24215/23468904e199, «El análisis organizacional desde el enfoque de la igualdad de género». Todavía no se ha intentado descargar el texto.
-
-10.24215/23468904e200, «Investigación en tiempo real. El procesamiento de información para la toma de decisiones en la Escuela de Oficios de la UNLP». Todavía no se ha intentado descargar el texto.
-
-10.24215/23468904e201, «La dimensión organizacional e institucional en la Gestión Local del Riesgo: reflexiones a partir de la Emergencia Socio Sanitaria por COVID 19 en Paraná, Entre Ríos». Todavía no se ha intentado descargar el texto.
-
-10.24215/23468904e202, «¿Cómo pensar a las Organizaciones de la Sociedad Civil en clave organizacional? Reseña de De Piero, Sergio (2020). Organizaciones de la sociedad civil. Tensiones de una agenda en construcción. Editorial UNAJ». Todavía no se ha intentado descargar el texto.
-
-10.24215/23468904e203, «Analizar las organizaciones “desde las orillas”. Reseña de Sanabria, M. et. al. (2024). En busca de los estudios organizacionales de Latinoamérica. Editorial Universidad del Rosario». Todavía no se ha intentado descargar el texto.
-
-10.24215/23468904e204, «Presentación: El arte de renunciar. Entrevista a Adriana Fassio». Todavía no se ha intentado descargar el texto.
-
-10.24215/23468904e205, «Políticas públicas para juventudes y adolescencias en Argentina (2017-2023): alcances, limitaciones y violencias estatales». Todavía no se ha intentado descargar el texto.
-
-10.24215/23468904e206, «Casinos que cuiden a los pobres: la emergencia de un dispositivo de comercialización del juego en Santa Fe entre la crítica, el desarrollo y el pragmatismo». Todavía no se ha intentado descargar el texto.
-
-10.24215/23468904e207, «Efectos diferenciales del sector ocupacional en las inserciones laborales de calidad y en los ingresos, Argentina (2016-2023)». Todavía no se ha intentado descargar el texto.
-
-10.24215/23468904e208, «Revisando el capitalismo de plataformas: rentismo, vigilancia y control social». Todavía no se ha intentado descargar el texto.
-
-10.24215/23468904e209, «La configuración del universo de sujetos víctimas en las Leyes Reparatorias argentinas». Todavía no se ha intentado descargar el texto.
-
-10.24215/23468904e210, «El lado opuesto de la mira: los usos de pequeñas armas entre civiles». Todavía no se ha intentado descargar el texto.
-
-10.24215/23468904e211, «Las identidades de género de las travesti/trans andinas y las hostilidades de sus entornos». Todavía no se ha intentado descargar el texto.
-
-10.24215/23468904e212, «"Hacerse al dolor": Construcción del consentimiento en la confección de prendas de vestir en el Distrito Metropolitano de Quito (DMQ) 2019-2022». Todavía no se ha intentado descargar el texto.
-
-10.24215/23468904e213, «Indicios para reconstruir una historia de la sociología en la Universidad Nacional de La Plata». Todavía no se ha intentado descargar el texto.
-
-10.24215/23468904e214, «Los impactos silenciosos de la digitalización en el mundo marginal de América Latina. Reflexiones preliminares». Todavía no se ha intentado descargar el texto.
-
-10.24215/23468904e215, «Clase media bajadora. Experiencia, individualización e imaginación sociológica». Todavía no se ha intentado descargar el texto.
-
-10.24215/23468904e216, «Retribución, padecimiento y bienestar: economías morales de la política colectiva y constitución de subjetividades en periferias urbanas de Argentina». Todavía no se ha intentado descargar el texto.
-
-10.24215/23468904e217, «Dominio espacial y relaciones extractivas en la ciudad popular: despojo, mercantilización y violencia». Todavía no se ha intentado descargar el texto.
-
-10.24215/23468904e218, «Transformaciones de los ilegalismos plebeyos en el conurbano bonaerense». Todavía no se ha intentado descargar el texto.
-
-10.24215/23468904e219, «Valor(es) y la tríada tierra-trabajo-política. Una etnografía sobre vida urbana en el Gran Buenos Aires». Todavía no se ha intentado descargar el texto.
-
-10.24215/23468904e220, «Comer en tiempos de desigualdad. Sectores populares y modos de resolver las comidas». Todavía no se ha intentado descargar el texto.
-
-10.24215/23468904e221, «“Algo suprapolítico”: catolicismo, política e identidades en las organizaciones de la economía popular en la Argentina reciente». Todavía no se ha intentado descargar el texto.
-
-10.24215/23468904e222, «¿Dónde está el Estado? Indagaciones sobre el futuro del trabajo fabril en la Argentina de ahora». Todavía no se ha intentado descargar el texto.
-
-10.24215/23468904e223, «Las clases populares hoy. Una historia de cómo llegamos hasta acá». Todavía no se ha intentado descargar el texto.
-
-10.24215/23468904e224, «Desigualdades y agencias en clave relacional: pistas para mirar el mundo de la marginación Reseña de Pérez Sáinz, Juan Pablo (2019). La rebelión de los que nadie quiere ver. Respuestas para sobrevivir a las desigualdades extremas en América Latina. Siglo XXI». Todavía no se ha intentado descargar el texto.
-
-10.24215/23468904e225, «De peón a reina. La metamorfosis de una transa de barrio en dealer del jet-set. Reseña de Roldán, Nahuel (2024). Nunca la vi llorar. Una transa entre el barrio y el after office. Editorial de la Universidad Nacional de Quilmes.». Todavía no se ha intentado descargar el texto.
-
-10.24215/23468904e226, «“Sos parte del misterio”. Estar en el mundo, cultivar el oficio y elaborar artesanías intelectuales. Entrevista a Elizabeth Jelin». Todavía no se ha intentado descargar el texto.
-
-### La Colmena
-
-10.18800/lacolmena.202201.001, «Hacia nuevas formas de ser y pensarse varón en un grupo de jóvenes seguidores del k-pop en Lima: un análisis sobre la construcción de una masculinidad emergente». Todavía no se ha intentado descargar el texto.
-
-10.18800/lacolmena.202201.002, «Tres cineastas regionales del sur andino en el campo cinematográfico peruano». Todavía no se ha intentado descargar el texto.
-
-10.18800/lacolmena.202201.003, «La economía política de la ambigüedad del reconocimiento: derechos colectivos de los pueblos indígenas bajo el neoliberalismo à la peruana (1990-2000)». Todavía no se ha intentado descargar el texto.
-
-10.18800/lacolmena.202201.004, «Poderes empresariales y conflictos agrarios. Apuntes conceptuales desde el enfoque de los recursos de poder en estudios de caso: Ley Moratoria de Transgénicos (2011) y el conflicto del paro agrario de 2020». Todavía no se ha intentado descargar el texto.
-
-10.18800/lacolmena.202201.005, «Negritud, afrodescendencia y mestizaje: implicancias de la pregunta de autoidentificación étnica del Censo Nacional de 2017 en la población afroperuana». Todavía no se ha intentado descargar el texto.
-
-10.18800/lacolmena.202301.002, «Pachamama 5 estrellas: Análisis de las estrategias publicitarias digitales de venta de suelo periurbano en Urubamba - Cusco». Todavía no se ha intentado descargar el texto.
-
-10.18800/lacolmena.202301.003, «Trabajando bajo el control del algoritmo: El caso de los repartidores de Rappi en Lima Metropolitana en el contexto de pandemia». Todavía no se ha intentado descargar el texto.
-
-10.18800/lacolmena.202301.004, «El lugar de la mujer: La segregación ocupacional horizontal por razón de género en el mercado laboral peruano». Todavía no se ha intentado descargar el texto.
-
-10.18800/lacolmena.202301.005, «¿Por qué existen empresas y no solo mercados? Repensando a Ronald Coase en un mundo que se virtualiza». Todavía no se ha intentado descargar el texto.
-
-10.18800/lacolmena.202301.006, «Cine actual y representación queer: la heteronormativa fórmula de la industria cinematográfica». Todavía no se ha intentado descargar el texto.
-
-10.18800/lacolmena.202301.007, «Tu príncipe azul es un agresor: la idealización del amor romántico y su influencia en la violencia de género dentro del contexto latinoamericano». Todavía no se ha intentado descargar el texto.
-
-10.18800/lacolmena.202301.008, «Desde la red social Facebook: #NiUnaMenos en Lima 2016». Todavía no se ha intentado descargar el texto.
-
-10.18800/lacolmena.202301.009, «“Dios te diría ‘Yo no te hice esclava’”: percepciones del rol de la mujer en una iglesia cristiana de Lima». Todavía no se ha intentado descargar el texto.
-
-10.18800/lacolmena.202301.010, «La élite empresarial y la formación de la hegemonía neoliberal del Perú desde una perspectiva gramsciana». Todavía no se ha intentado descargar el texto.
-
-10.18800/lacolmena.202301.011, «El pensamiento sociológico aún vigente, el expertise en la actualidad». Todavía no se ha intentado descargar el texto.
-
-10.18800/lacolmena.202401.001, «Las dos caras de una ciudad: planificación y segregación urbana en el barrio de Monserrate». Todavía no se ha intentado descargar el texto.
-
-10.18800/lacolmena.202401.002, «Representación de Lima desde la crítica en la literatura de Ribeyro y Congrains (1940-1960) y su vigencia en el siglo XXI». Todavía no se ha intentado descargar el texto.
-
-10.18800/lacolmena.202401.003, «¿El nuevo Comas? Trayectorias residenciales de los residentes de los edificios multifamiliares de altura en El Retablo, Comas». Todavía no se ha intentado descargar el texto.
-
-10.18800/lacolmena.202401.004, «“Es un sentimiento, que lo llevo en el corazón, yo daría toda mi vida por ser campeón”: una aproximación a la expresión de la identidad de los hinchas de Sporting Cristal». Todavía no se ha intentado descargar el texto.
-
-10.18800/lacolmena.202401.005, «Una mirada a nuevas masculinidades online. Análisis de discurso: el caso de Mr. Misterios, Machos Alfa, y la Manósfera». Todavía no se ha intentado descargar el texto.
-
-10.18800/lacolmena.202401.006, «Sujetos deseantes: una aproximación teórica a las dinámicas del deseo gay». Todavía no se ha intentado descargar el texto.
-
-### Ciudad Paz-ando
-
-10.14483/2422278x.20414, «Desafíos en la Implementación del Acuerdo de Paz para el Presidente de Colombia Gustavo Petro (2022-2026)». Todavía no se ha intentado descargar el texto.
-
-10.14483/2422278x.21011, «Reconstrucción de Memoria Histórica y Desarrollo del Tejido Social en Comunidades Afrocolombianas Víctimas de la Masacre de Bojayá - Chocó». Todavía no se ha intentado descargar el texto.
-
-10.14483/2422278x.21012, «El derrotero de la población afromexicana en el ámbito social de México». Todavía no se ha intentado descargar el texto.
-
-10.14483/2422278x.21013, «Configuración de Subjetividades Políticas en “Mujeresnegras”». Todavía no se ha intentado descargar el texto.
-
-10.14483/2422278x.21195, «Manuel Zapata Olivella: Más Allá de la Conmemoración del Centenario». Todavía no se ha intentado descargar el texto.
-
-10.14483/2422278x.21209, «Prácticas de discriminación racial en la Universidad Distrital Francisco José De Caldas». Todavía no se ha intentado descargar el texto.
-
-10.14483/2422278x.21298, «Estado actual y percepciones ciudadanas sobre las entidades de salud en las localidades de Kennedy y Usme en Bogotá». Todavía no se ha intentado descargar el texto.
-
-10.14483/2422278x.21448, «Racismo Epistémico y Universidad: Desafíos Epistemológicos para un Programa en Estudios Afrocolombianos y Afrolatinoamericanos». Todavía no se ha intentado descargar el texto.
-
-10.14483/2422278x.21449, «Trayectorias, perspectivas y prospectivas de los movimientos no-violentos». Todavía no se ha intentado descargar el texto.
-
-10.14483/2422278x.21522, «Sobre los caminos de la paz en Colombia y las manos que los surcan». Todavía no se ha intentado descargar el texto.
-
-10.14483/2422278x.21694, «Paz Territorial y Ethos Barroco en el Sur Occidente de Colombia: La Universidad Intercultural de los Pueblos». Todavía no se ha intentado descargar el texto.
-
-10.14483/2422278x.21706, «Análisis Estadístico y Predictivo de los Datos de Eventos, Víctimas y Desminado Humanitario de las Minas Antipersonal (MAP) en Colombia». Todavía no se ha intentado descargar el texto.
-
-10.14483/2422278x.21734, «A la Señora Arnolfini: Teatralización del Dolor de las Víctimas en Fragmentos (Bogotá, 2021)». Todavía no se ha intentado descargar el texto.
-
-10.14483/2422278x.21819, «Sujeto Maestro, Formación Docente y Política Educativa en Colombia». Todavía no se ha intentado descargar el texto.
-
-10.14483/2422278x.21901, «Arauca: Educar en Escenarios de Triple Afectación». Todavía no se ha intentado descargar el texto.
-
-10.14483/2422278x.21913, «Un Abordaje “Indisciplinado” de la Guerra, la Violencia y la Paz en Colombia. Reseña de “Belicopedia”». Todavía no se ha intentado descargar el texto.
-
-10.14483/2422278x.21969, «Leer el Conflicto Armado en el Aula». Todavía no se ha intentado descargar el texto.
-
-10.14483/2422278x.22030, «El Catastro Multipropósito como Instrumento para la Verdad y la Memoria. Caso: Corregimiento de San José de Mulatos del Distrito de Turbo». Todavía no se ha intentado descargar el texto.
-
-10.14483/2422278x.22461, «Ecologías para la Construcción de Paz en Procesos Comunitarios de Ciudad Bolívar». Todavía no se ha intentado descargar el texto.
-
-10.14483/2422278x.22466, «Las Capacidades Institucionales para la Paz en los Municipios Colombianos: Aportes desde los Consejos Territoriales de Paz, Reconciliación y Convivencia». Todavía no se ha intentado descargar el texto.
-
-10.14483/2422278x.22502, «De Ejercicios de Poder a Ejercicios del Sentir: acerca de los Procesos Educativos en Clave Emocional». Todavía no se ha intentado descargar el texto.
-
-10.14483/2422278x.22559, «Conflicto y Paz: Acercamiento al Perdón en Colombia». Todavía no se ha intentado descargar el texto.
-
-10.14483/2422278x.22596, «Persecución a Periodistas y Prensa: la Censura en las Dictaduras de Marcos Pérez Jiménez y Gustavo Rojas Pinilla». Todavía no se ha intentado descargar el texto.
-
-10.14483/2422278x.22599, «Culturas de Paz en las Narrativas de Vida de Maestras y Maestros del Departamento del Meta en Colombia». Todavía no se ha intentado descargar el texto.
-
-10.14483/2422278x.22618, «Metáforas del Cuerpo y el Poder». Todavía no se ha intentado descargar el texto.
-
-10.14483/2422278x.23218, «De la Indignación a la Empatía: Urgencia y Compromiso con la Verdad Histórica.». Todavía no se ha intentado descargar el texto.
-
-### Con X
-
-10.24215/24690333e049, «El show porno en la universidad». Todavía no se ha intentado descargar el texto.
-
-10.24215/24690333e050, «La representación de mujeres cis viejas en El agente topo (2020)». Todavía no se ha intentado descargar el texto.
-
-10.24215/24690333e051, «Interpelar la ESI desde la noción de ciudadanía». Todavía no se ha intentado descargar el texto.
-
-10.24215/24690333e052, «Mujeres y uso de psicofármacos». Todavía no se ha intentado descargar el texto.
-
-10.24215/24690333e053, «trabajo que hace (a) un hombre». Todavía no se ha intentado descargar el texto.
-
-10.24215/24690333e054, «profanación del instinto: madres extraviadas en el cine clásico». Todavía no se ha intentado descargar el texto.
-
-10.24215/24690333e055, «Mujeres rurales, demandas y feminismos». Todavía no se ha intentado descargar el texto.
-
-10.24215/24690333e056, «Malas como las Arañas (2007-2010): una historia local de activismo lésbico». Todavía no se ha intentado descargar el texto.
-
-10.24215/24690333e057, «Eso que se llama filetear es trabajo no pago». Todavía no se ha intentado descargar el texto.
-
-10.24215/24690333e058, «Accesibilidad juvenil a derechos sexuales y (no) reproductivos en la Argentina». Todavía no se ha intentado descargar el texto.
-
-10.24215/24690333e059, «Coproducción de tecnologías y derechos no reproductivos: activismo feminista, saberes clínicos y construcción del misoprostol como droga abortiva». Todavía no se ha intentado descargar el texto.
-
-10.24215/24690333e060, «Figuraciones sobre el suicidio femicida en medios de Córdoba: el caso de Luana Ludueña en <i>ElDoce.tv</i> y <i>El Resaltador</i>». Todavía no se ha intentado descargar el texto.
-
-10.24215/24690333e061, «La inclusión de mujeres en espacios masculinizados. Reconfiguraciones organizacionales y materiales en dos empresas industriales del centro y sudeste bonaerense (2015-2025)». Todavía no se ha intentado descargar el texto.
-
-10.24215/24690333e062, «El amor en tiempos de masculinidades en crisis». Todavía no se ha intentado descargar el texto.
-
-### International Journal on Homelessness
-
-10.5206/ijoh.2026.2.22450, «Measuring Permanent Exits from Homeless Emergency Shelters in Toronto». Todavía no se ha intentado descargar el texto.
-
-10.5206/ijoh.2026.2.25467, «Editorial: Whose Fault is it? Looking Upstream to Solve Homelessness». Todavía no se ha intentado descargar el texto.
-
-10.5206/ijoh.2026.3.26780, «Editorial: Who Decides Where People Belong». Todavía no se ha intentado descargar el texto.
-
-10.5206/ijoh.2026.4.27016, «¿Por qué una edición especial sobre personas en situación de calle para América Latina?». Todavía no se ha intentado descargar el texto.
-
-### Frontera Norte
-
-10.33679/rfn.v.e2410, «Migraciones africanas contemporáneas a México, vistas desde su frontera norte». Todavía no se ha intentado descargar el texto.
-
-10.33679/rfn.v.e2416, «Trabajo e identidad de músicos concertistas en el noreste de México<b></b>». Todavía no se ha intentado descargar el texto.
-
-10.33679/rfn.v.e2422, «Análisis espacial bayesiano de la mortalidad infantily sus determinantes en municipios de México mediante INLA». Todavía no se ha intentado descargar el texto.
-
-10.33679/rfn.v.e2450, «Efectos del TLCAN/T-MEC en la gobernanza regional de la migración calificada<b></b>». Todavía no se ha intentado descargar el texto.
-
-10.33679/rfn.v.e2452, «Diferencias en el financiamiento del Banco de Desarrollode América del Norte en la región fronteriza». Todavía no se ha intentado descargar el texto.
-
-10.33679/rfn.v.e2453, «El linaje de los herederos. Narrativas estudiantiles y movilidad social en jóvenes profesionales de Baja California, México». Todavía no se ha intentado descargar el texto.
-
-10.33679/rfn.v.e2454, «Sufrimiento climático, salud y género en población jornalera agrícola migrante en Sonora, México». Todavía no se ha intentado descargar el texto.
-
-10.33679/rfn.v.e2456, «Impacto del COVID-19 en la salud mental: una comparación entre mexicanos en México y en Estados Unidos». Todavía no se ha intentado descargar el texto.
-
-10.33679/rfn.v.e2461, «Territorio y cohesión social: derecho fundamental a la igualdad y a la no discriminación». Todavía no se ha intentado descargar el texto.
-
-10.33679/rfn.v.e2462, «Navegando la incertidumbre: estrategias contra la dominación criminal en el Tapón del Darién, Colombia». Todavía no se ha intentado descargar el texto.
-
-10.33679/rfn.v.e2463, «La tecnología en la resiliencia de los refugiados centroamericanos durante su desplazamiento por México». Todavía no se ha intentado descargar el texto.
-
-10.33679/rfn.v.e2465, «Desplazamiento forzado interno y retorno en el contextode la «guerra contra las drogas» en México». Todavía no se ha intentado descargar el texto.
-
-10.33679/rfn.v.e2469, «Infraestructura de hidrocarburos y crecimiento económico en México: un análisis espacial, 1982-2021<b></b>». Todavía no se ha intentado descargar el texto.
-
-10.33679/rfn.v.e2481, «Impacto del nearshoring y el tipo de cambio en las exportaciones mexicanas: un análisis insumo-producto para los estados de la frontera norte». Todavía no se ha intentado descargar el texto.
-
-10.33679/rfn.v.e2482, «Mercados de historias y experiencias durante contingencias migratorias en la frontera de Tijuana». Todavía no se ha intentado descargar el texto.
-
-10.33679/rfn.v.e2483, «Galantería Falsa: sexismo encubierto, humor y resistenciaen la frontera norte mexicana». Todavía no se ha intentado descargar el texto.
-
-10.33679/rfn.v.e2484, «Tiempo, familia y trabajo: la urdimbre de la vulnerabilidadde las mujeres en contextos rurales de México». Todavía no se ha intentado descargar el texto.
-
-10.33679/rfn.v.e2486, «A través de los ojos que han llorado: el artivismo como investigación en el proyecto mural fronterizo Stella Flumen». Todavía no se ha intentado descargar el texto.
-
-10.33679/rfn.v.e2490, «¿La IED de China en México es realmente una amenaza para Estados Unidos? Análisis de la industria automotriz». Todavía no se ha intentado descargar el texto.
-
-10.33679/rfn.v.e2491, «La salud financiera en la frontera norte: un análisis comparativo entre Baja California y California». Todavía no se ha intentado descargar el texto.
-
-10.33679/rfn.v.e2498, «Producción de coherencia y privilegio en la expansión socioespacial del Tecnológico de Monterrey». Todavía no se ha intentado descargar el texto.
-
-10.33679/rfn.v.e2502, «Textos gastronómicos festivos y continuidad cultural en contextos de frontera: una aproximación etnográfica en Chihuahua, México». Todavía no se ha intentado descargar el texto.
-
-10.33679/rfn.v.e2506, «Los vehículos blindados delincuenciales en México (2010-2025): Conceptualización y contexto». Todavía no se ha intentado descargar el texto.
-
-10.33679/rfn.v.e2508, «Atracción e integración económica de migración calificada: el papel estructural de la competitividad del talento en la OCDE». Todavía no se ha intentado descargar el texto.
-
-10.33679/rfn.v1i1.2403, «(Re)construyendo el sentido de pertenencia: personas mexicanas deportadas en la frontera con Estados Unidos». Todavía no se ha intentado descargar el texto.
-
-### Arquitek
-
-10.47796/ra.2025i27.1194, «Editorial». Todavía no se ha intentado descargar el texto.
-
-10.47796/ra.2025i27.1195, «Intervención urbana del Centro Poblado de Pachabamba: Análisis de contexto y propuesta de espacios articulados». Todavía no se ha intentado descargar el texto.
-
-10.47796/ra.2025i27.1196, «Neuroarquitectura: Una revisión de la influencia del entorno en el cerebro y el comportamiento humano». Todavía no se ha intentado descargar el texto.
-
-10.47796/ra.2025i27.1197, «Regeneración urbana en espacios públicos para mejorar la calidad de vida en Villa María del Triunfo». Todavía no se ha intentado descargar el texto.
-
-10.47796/ra.2025i27.1198, «Principios neuroarquitectónicos aplicados a un centro geriátrico en la comuna 12, San Juan de Lurigancho, Lima - Perú». Todavía no se ha intentado descargar el texto.
-
-10.47796/ra.2025i27.1199, «Diseño arquitectónico basado en criterios de eficiencia energética en viviendas de Villa El Salvador». Todavía no se ha intentado descargar el texto.
-
-10.47796/ra.2025i27.1200, «Conexión natural, humana y tecnológica. Un estudio de mapeo y percepción sonora en la provincia de San Martín (2022- 2023)». Todavía no se ha intentado descargar el texto.
-
-10.47796/ra.2025i27.1201, «Refugios verdes: integrando la biofilia en los centros de emergencia para mujeres». Todavía no se ha intentado descargar el texto.
-
-10.47796/ra.2025i28.1291, «Editorial». Todavía no se ha intentado descargar el texto.
-
-10.47796/ra.2025i28.1292, «Estética, sentido de pertenencia y educación ecológica en el paisaje agrícola amazónico». Todavía no se ha intentado descargar el texto.
-
-10.47796/ra.2025i28.1293, «Artivismo muralista y sentido de pertenencia en los espacios públicos». Todavía no se ha intentado descargar el texto.
-
-10.47796/ra.2025i28.1294, «Parque biblioteca con integración social y cultural en la ciudad de Huánuco». Todavía no se ha intentado descargar el texto.
-
-10.47796/ra.2025i28.1295, «La Arquitectura como Relato de Identidad: la Memoria Atemporal del Espacio en el Habitar Contemporáneo». Todavía no se ha intentado descargar el texto.
-
-10.47796/ra.2025i28.1296, «Esculturas lumínico-sonoras: una aproximación sensorial al arte y el espacio desde la educación arquitectónica». Todavía no se ha intentado descargar el texto.
-
-10.47796/ra.2025i28.1297, «Tejidos históricos y expansión urbana: un análisis tipomorfológico de las capitales regionales del sur peruano». Todavía no se ha intentado descargar el texto.
-
-10.47796/ra.2025i28.1298, «Mejora de la accesibilidad y habitabilidad en el Parque Amauta, Cusco». Todavía no se ha intentado descargar el texto.
-
-10.47796/ra.2026i29.1433, «Editorial». Todavía no se ha intentado descargar el texto.
-
-10.47796/ra.2026i29.1434, «Biodesign y confort térmico en fachadas vivas con micelio en edificaciones de Arequipa, Perú». Todavía no se ha intentado descargar el texto.
-
-10.47796/ra.2026i29.1435, «Análisis espacial de la calidad de la infraestructura deportiva en Tacna». Todavía no se ha intentado descargar el texto.
-
-10.47796/ra.2026i29.1436, «Aplicación del Pull Planning para mejorar la eficiencia constructiva en ejecución de módulos habitacionales rurales». Todavía no se ha intentado descargar el texto.
-
-10.47796/ra.2026i29.1437, «Arbolado urbano para optimizar el confort térmico en zonas cálidas de la Amazonía peruana». Todavía no se ha intentado descargar el texto.
-
-10.47796/ra.2026i29.1438, «Bloquetas térmicas, insonorizadas y ecológicas a base de sábila, cartón de huevo y fibra de cabuya». Todavía no se ha intentado descargar el texto.
-
-10.47796/ra.2026i29.1439, «Arquitectura y paisaje en la restauración ecológica del territorio: Una revisión sistemática». Todavía no se ha intentado descargar el texto.
-
-10.47796/ra.2026i29.1444, «Estrategias de drenaje urbano sostenible para ciudades sensibles al agua, Picota – Perú». Todavía no se ha intentado descargar el texto.
-
 ### Journal of the Academy
 
-10.47058/joa13.1, «En la era de la IA y el Management Science: Un renacer de las Ciencias Sociales». Todavía no se ha intentado descargar el texto.
+10.47058/joa13.1, «En la era de la IA y el Management Science: Un renacer de las Ciencias Sociales». La página del artículo declara una licencia distinta a la de Crossref. Detalle: Licencias en la página: https://creativecommons.org/licenses/by/4.0/, https://creativecommons.org/licenses/by/4.0.
 
-10.47058/joa13.10, «La diplomacia pública de Donald Trump en X: Un análisis de encuadres y narrativas en redes sociales». Todavía no se ha intentado descargar el texto.
+10.47058/joa13.10, «La diplomacia pública de Donald Trump en X: Un análisis de encuadres y narrativas en redes sociales». La página del artículo declara una licencia distinta a la de Crossref. Detalle: Licencias en la página: https://creativecommons.org/licenses/by/4.0/, https://creativecommons.org/licenses/by/4.0.
 
-10.47058/joa13.11, «Inteligencia artificial y su rol en la transformación digital del sector financiero: revisión sistemática». Todavía no se ha intentado descargar el texto.
+10.47058/joa13.11, «Inteligencia artificial y su rol en la transformación digital del sector financiero: revisión sistemática». La página del artículo declara una licencia distinta a la de Crossref. Detalle: Licencias en la página: https://creativecommons.org/licenses/by/4.0/, https://creativecommons.org/licenses/by/4.0.
 
-10.47058/joa13.12, «Factores de Consumo de Alimentos Sostenibles: El Caso de Alimentos Orgánicos». Todavía no se ha intentado descargar el texto.
+10.47058/joa13.12, «Factores de Consumo de Alimentos Sostenibles: El Caso de Alimentos Orgánicos». La página del artículo declara una licencia distinta a la de Crossref. Detalle: Licencias en la página: https://creativecommons.org/licenses/by/4.0/, https://creativecommons.org/licenses/by/4.0.
 
-10.47058/joa13.13, «Institutional program for teaching initiation scholarships: impacts as public policy on the initial training of future teachers at a brazilian community university». Todavía no se ha intentado descargar el texto.
+10.47058/joa13.13, «Institutional program for teaching initiation scholarships: impacts as public policy on the initial training of future teachers at a brazilian community university». La página del artículo declara una licencia distinta a la de Crossref. Detalle: Licencias en la página: https://creativecommons.org/licenses/by/4.0/, https://creativecommons.org/licenses/by/4.0.
 
-10.47058/joa13.2, «Competencias digitales docentes y responsabilidad social universitaria: impacto de las tic en la facultad de ciencias políticas y relaciones internacionales – Universidad Autónoma De Nuevo León». Todavía no se ha intentado descargar el texto.
+10.47058/joa13.2, «Competencias digitales docentes y responsabilidad social universitaria: impacto de las tic en la facultad de ciencias políticas y relaciones internacionales – Universidad Autónoma De Nuevo León». La página del artículo declara una licencia distinta a la de Crossref. Detalle: Licencias en la página: https://creativecommons.org/licenses/by/4.0/, https://creativecommons.org/licenses/by/4.0.
 
-10.47058/joa13.3, «Adopción y percepción de ChatGPT en académicos como herramienta pedagógica e investigativa en la educación superior de Chile». Todavía no se ha intentado descargar el texto.
+10.47058/joa13.3, «Adopción y percepción de ChatGPT en académicos como herramienta pedagógica e investigativa en la educación superior de Chile». La página del artículo declara una licencia distinta a la de Crossref. Detalle: Licencias en la página: https://creativecommons.org/licenses/by/4.0/, https://creativecommons.org/licenses/by/4.0.
 
-10.47058/joa13.4, «Posibilidades y límites de la inteligencia artificial en el desarrollo de investigaciones en una universidad privada 2024». Todavía no se ha intentado descargar el texto.
+10.47058/joa13.4, «Posibilidades y límites de la inteligencia artificial en el desarrollo de investigaciones en una universidad privada 2024». La página del artículo declara una licencia distinta a la de Crossref. Detalle: Licencias en la página: https://creativecommons.org/licenses/by/4.0/, https://creativecommons.org/licenses/by/4.0.
 
-10.47058/joa13.5, «Modelos de gobernanza universitaria para microcredenciales: desafíos normativos e institucionales en Europa y América Latina». Todavía no se ha intentado descargar el texto.
+10.47058/joa13.5, «Modelos de gobernanza universitaria para microcredenciales: desafíos normativos e institucionales en Europa y América Latina». La página del artículo declara una licencia distinta a la de Crossref. Detalle: Licencias en la página: https://creativecommons.org/licenses/by/4.0/, https://creativecommons.org/licenses/by/4.0.
 
-10.47058/joa13.6, «Influencia del marketing sensorial en la decisión de compra: un estudio cuantitativo en panaderías y pastelerías de Arica». Todavía no se ha intentado descargar el texto.
+10.47058/joa13.6, «Influencia del marketing sensorial en la decisión de compra: un estudio cuantitativo en panaderías y pastelerías de Arica». La página del artículo declara una licencia distinta a la de Crossref. Detalle: Licencias en la página: https://creativecommons.org/licenses/by/4.0/, https://creativecommons.org/licenses/by/4.0.
 
-10.47058/joa13.7, «Intervención sistémica, multicultural para mejora de la salud mental en una residencia universitaria, desde un diseño basado en IAP.». Todavía no se ha intentado descargar el texto.
+10.47058/joa13.7, «Intervención sistémica, multicultural para mejora de la salud mental en una residencia universitaria, desde un diseño basado en IAP.». La página del artículo declara una licencia distinta a la de Crossref. Detalle: Licencias en la página: https://creativecommons.org/licenses/by/4.0/, https://creativecommons.org/licenses/by/4.0.
 
-10.47058/joa13.8, «Ciudadanía y creatividad: fortaleciendo lo común». Todavía no se ha intentado descargar el texto.
+10.47058/joa13.8, «Ciudadanía y creatividad: fortaleciendo lo común». La página del artículo declara una licencia distinta a la de Crossref. Detalle: Licencias en la página: https://creativecommons.org/licenses/by/4.0/, https://creativecommons.org/licenses/by/4.0.
 
-10.47058/joa13.9, «Factores de madurez digital de las PYMES de Nuevo León, México que inciden en su competitividad». Todavía no se ha intentado descargar el texto.
+10.47058/joa13.9, «Factores de madurez digital de las PYMES de Nuevo León, México que inciden en su competitividad». La página del artículo declara una licencia distinta a la de Crossref. Detalle: Licencias en la página: https://creativecommons.org/licenses/by/4.0/, https://creativecommons.org/licenses/by/4.0.
 
-10.47058/joa14.1, «La Inteligencia Humana (IH) y la Inteligencia Artificial (IA): retos de las Ciencias Sociales en tiempos de transformación». Todavía no se ha intentado descargar el texto.
+10.47058/joa14.1, «La Inteligencia Humana (IH) y la Inteligencia Artificial (IA): retos de las Ciencias Sociales en tiempos de transformación». La página del artículo declara una licencia distinta a la de Crossref. Detalle: Licencias en la página: https://creativecommons.org/licenses/by/4.0/, https://creativecommons.org/licenses/by/4.0.
 
-10.47058/joa14.10, «Monopsony and African Development: Structural Constraints, Curricular Silences, and Policy Implications». Todavía no se ha intentado descargar el texto.
+10.47058/joa14.10, «Monopsony and African Development: Structural Constraints, Curricular Silences, and Policy Implications». La página del artículo declara una licencia distinta a la de Crossref. Detalle: Licencias en la página: https://creativecommons.org/licenses/by/4.0/, https://creativecommons.org/licenses/by/4.0.
 
-10.47058/joa14.11, «Adaptación y resiliencia en la educación pospandemia: el aula invertida como estrategia pedagógica». Todavía no se ha intentado descargar el texto.
+10.47058/joa14.11, «Adaptación y resiliencia en la educación pospandemia: el aula invertida como estrategia pedagógica». La página del artículo declara una licencia distinta a la de Crossref. Detalle: Licencias en la página: https://creativecommons.org/licenses/by/4.0/, https://creativecommons.org/licenses/by/4.0.
 
-10.47058/joa14.12, «Gestión de herramientas tecnológicas para el aprendizaje de la lengua de señas». Todavía no se ha intentado descargar el texto.
+10.47058/joa14.12, «Gestión de herramientas tecnológicas para el aprendizaje de la lengua de señas». La página del artículo declara una licencia distinta a la de Crossref. Detalle: Licencias en la página: https://creativecommons.org/licenses/by/4.0/, https://creativecommons.org/licenses/by/4.0.
 
-10.47058/joa14.13, «Influencia de las diferencias socioculturales en la negociación en América Latina». Todavía no se ha intentado descargar el texto.
+10.47058/joa14.13, «Influencia de las diferencias socioculturales en la negociación en América Latina». La página del artículo declara una licencia distinta a la de Crossref. Detalle: Licencias en la página: https://creativecommons.org/licenses/by/4.0/, https://creativecommons.org/licenses/by/4.0.
 
-10.47058/joa14.2, «Gestión escolar y desempeño docente en una institución educativa pública de nivel secundaria, Apurímac, 2022». Todavía no se ha intentado descargar el texto.
+10.47058/joa14.2, «Gestión escolar y desempeño docente en una institución educativa pública de nivel secundaria, Apurímac, 2022». La página del artículo declara una licencia distinta a la de Crossref. Detalle: Licencias en la página: https://creativecommons.org/licenses/by/4.0/, https://creativecommons.org/licenses/by/4.0.
 
-10.47058/joa14.3, «Incidencia de los criterios de evaluación de políticas públicas en el crecimiento de microempresas: evidencia correlacional en un contexto urbano latinoamericano». Todavía no se ha intentado descargar el texto.
+10.47058/joa14.3, «Incidencia de los criterios de evaluación de políticas públicas en el crecimiento de microempresas: evidencia correlacional en un contexto urbano latinoamericano». La página del artículo declara una licencia distinta a la de Crossref. Detalle: Licencias en la página: https://creativecommons.org/licenses/by/4.0/, https://creativecommons.org/licenses/by/4.0.
 
-10.47058/joa14.4, «Influencia del liderazgo gerencial en el clima organizacional durante un proceso sucesorio: análisis mixto en una empresa familiar peruana». Todavía no se ha intentado descargar el texto.
+10.47058/joa14.4, «Influencia del liderazgo gerencial en el clima organizacional durante un proceso sucesorio: análisis mixto en una empresa familiar peruana». La página del artículo declara una licencia distinta a la de Crossref. Detalle: Licencias en la página: https://creativecommons.org/licenses/by/4.0/, https://creativecommons.org/licenses/by/4.0.
 
-10.47058/joa14.5, «Análisis de las principales dificultades de comprensión lectora en estudiantes de educación básica primaria: caso Institución Educativa Eusebio Septimio Mari». Todavía no se ha intentado descargar el texto.
+10.47058/joa14.5, «Análisis de las principales dificultades de comprensión lectora en estudiantes de educación básica primaria: caso Institución Educativa Eusebio Septimio Mari». La página del artículo declara una licencia distinta a la de Crossref. Detalle: Licencias en la página: https://creativecommons.org/licenses/by/4.0/, https://creativecommons.org/licenses/by/4.0.
 
-10.47058/joa14.6, «Acompañamiento y monitoreo pedagógico y su contribución al desarrollo de las competencias comunicacionales y matemáticas en estudiantes del II nivel de Educación Básica Regular». Todavía no se ha intentado descargar el texto.
+10.47058/joa14.6, «Acompañamiento y monitoreo pedagógico y su contribución al desarrollo de las competencias comunicacionales y matemáticas en estudiantes del II nivel de Educación Básica Regular». La página del artículo declara una licencia distinta a la de Crossref. Detalle: Licencias en la página: https://creativecommons.org/licenses/by/4.0/, https://creativecommons.org/licenses/by/4.0.
 
-10.47058/joa14.7, «Influencia de las actividades del aire libre en el desarrollo cognitivo de estudiantes de 3 y 4 años del nivel inicial Safpi, Orellana». Todavía no se ha intentado descargar el texto.
+10.47058/joa14.7, «Influencia de las actividades del aire libre en el desarrollo cognitivo de estudiantes de 3 y 4 años del nivel inicial Safpi, Orellana». La página del artículo declara una licencia distinta a la de Crossref. Detalle: Licencias en la página: https://creativecommons.org/licenses/by/4.0/, https://creativecommons.org/licenses/by/4.0.
 
-10.47058/joa14.8, «Relato de un programa de formación continua con orientadores educacionales en la red pública municipal de Sapucaia do Sul/RS». Todavía no se ha intentado descargar el texto.
+10.47058/joa14.8, «Relato de un programa de formación continua con orientadores educacionales en la red pública municipal de Sapucaia do Sul/RS». La página del artículo declara una licencia distinta a la de Crossref. Detalle: Licencias en la página: https://creativecommons.org/licenses/by/4.0/, https://creativecommons.org/licenses/by/4.0.
 
-10.47058/joa14.9, «La investigación en humanidades en Argentina y sus formas de intervención y contribución a la sociedad». Todavía no se ha intentado descargar el texto.
+10.47058/joa14.9, «La investigación en humanidades en Argentina y sus formas de intervención y contribución a la sociedad». La página del artículo declara una licencia distinta a la de Crossref. Detalle: Licencias en la página: https://creativecommons.org/licenses/by/4.0/, https://creativecommons.org/licenses/by/4.0.
 
-10.47058/joa15.1, «Publicar con integridad. La ética como fundamento del conocimiento científico». Todavía no se ha intentado descargar el texto.
+10.47058/joa15.1, «Publicar con integridad. La ética como fundamento del conocimiento científico». La página del artículo declara una licencia distinta a la de Crossref. Detalle: Licencias en la página: https://creativecommons.org/licenses/by/4.0/, https://creativecommons.org/licenses/by/4.0.
 
-10.47058/joa15.10, «Estudios de las necesidades regionales, nacionales e internacionales del programa de ingeniería de sistemas de la Corporación Universitaria Americana». Todavía no se ha intentado descargar el texto.
+10.47058/joa15.10, «Estudios de las necesidades regionales, nacionales e internacionales del programa de ingeniería de sistemas de la Corporación Universitaria Americana». La página del artículo declara una licencia distinta a la de Crossref. Detalle: Licencias en la página: https://creativecommons.org/licenses/by/4.0/, https://creativecommons.org/licenses/by/4.0.
 
-10.47058/joa15.11, «Sistemas silvopastoriles con eucalipto frente al cambio climático. Revisión narrativa de beneficios, riesgos y aplicabilidad en el contexto peruano». Todavía no se ha intentado descargar el texto.
+10.47058/joa15.11, «Sistemas silvopastoriles con eucalipto frente al cambio climático. Revisión narrativa de beneficios, riesgos y aplicabilidad en el contexto peruano». La página del artículo declara una licencia distinta a la de Crossref. Detalle: Licencias en la página: https://creativecommons.org/licenses/by/4.0/, https://creativecommons.org/licenses/by/4.0.
 
-10.47058/joa15.12, «Sistemas de gestión logística digital y su impacto en la optimización del servicio de abastecimiento de clase I en organizaciones militares: una revisión sistemática». Todavía no se ha intentado descargar el texto.
+10.47058/joa15.12, «Sistemas de gestión logística digital y su impacto en la optimización del servicio de abastecimiento de clase I en organizaciones militares: una revisión sistemática». La página del artículo declara una licencia distinta a la de Crossref. Detalle: Licencias en la página: https://creativecommons.org/licenses/by/4.0/, https://creativecommons.org/licenses/by/4.0.
 
-10.47058/joa15.13, «Metacultura, Progresismo y Colonialidad Epistémica: Un Análisis Decolonial Reflexivo para América Latina.». Todavía no se ha intentado descargar el texto.
+10.47058/joa15.13, «Metacultura, Progresismo y Colonialidad Epistémica: Un Análisis Decolonial Reflexivo para América Latina.». La página del artículo declara una licencia distinta a la de Crossref. Detalle: Licencias en la página: https://creativecommons.org/licenses/by/4.0/, https://creativecommons.org/licenses/by/4.0.
 
-10.47058/joa15.2, «Percepción sobre las estrategias docentes y la autopercepción de las destrezas de los estudiantes en la asignatura de Biología». Todavía no se ha intentado descargar el texto.
+10.47058/joa15.2, «Percepción sobre las estrategias docentes y la autopercepción de las destrezas de los estudiantes en la asignatura de Biología». La página del artículo declara una licencia distinta a la de Crossref. Detalle: Licencias en la página: https://creativecommons.org/licenses/by/4.0/, https://creativecommons.org/licenses/by/4.0.
 
-10.47058/joa15.3, «Inteligencia Artificial en el desarrollo socioemocional en estudiantes con necesidades específicas de apoyo emocional: estudio de caso en Tecnópolis Guayaquil – 2025.». Todavía no se ha intentado descargar el texto.
+10.47058/joa15.3, «Inteligencia Artificial en el desarrollo socioemocional en estudiantes con necesidades específicas de apoyo emocional: estudio de caso en Tecnópolis Guayaquil – 2025.». La página del artículo declara una licencia distinta a la de Crossref. Detalle: Licencias en la página: https://creativecommons.org/licenses/by/4.0/, https://creativecommons.org/licenses/by/4.0.
 
-10.47058/joa15.4, «Evaluación curricular y producción de textos en inglés en Educación Primaria Bilingüe». Todavía no se ha intentado descargar el texto.
+10.47058/joa15.4, «Evaluación curricular y producción de textos en inglés en Educación Primaria Bilingüe». La página del artículo declara una licencia distinta a la de Crossref. Detalle: Licencias en la página: https://creativecommons.org/licenses/by/4.0/, https://creativecommons.org/licenses/by/4.0.
 
-10.47058/joa15.5, «Educación intercultural y bilingüismo en estudiantes indígenas de la Universidad Nacional Intercultural de la Amazonía». Todavía no se ha intentado descargar el texto.
+10.47058/joa15.5, «Educación intercultural y bilingüismo en estudiantes indígenas de la Universidad Nacional Intercultural de la Amazonía». La página del artículo declara una licencia distinta a la de Crossref. Detalle: Licencias en la página: https://creativecommons.org/licenses/by/4.0/, https://creativecommons.org/licenses/by/4.0.
 
-10.47058/joa15.6, «Evaluación de tres colores de acolchado plástico en el crecimiento de plantones de mandarina (Citrus reticulata) variedad Nova – Cañete, Perú». Todavía no se ha intentado descargar el texto.
+10.47058/joa15.6, «Evaluación de tres colores de acolchado plástico en el crecimiento de plantones de mandarina (Citrus reticulata) variedad Nova – Cañete, Perú». La página del artículo declara una licencia distinta a la de Crossref. Detalle: Licencias en la página: https://creativecommons.org/licenses/by/4.0/, https://creativecommons.org/licenses/by/4.0.
 
-10.47058/joa15.7, «Propuesta conceptual de un modelo adaptativo basado en inteligencia artificial para la detección de fraude en transacciones internacionales: innovaciones, riesgos emergentes y aplicabilidad en PYMES de Latinoamérica». Todavía no se ha intentado descargar el texto.
+10.47058/joa15.7, «Propuesta conceptual de un modelo adaptativo basado en inteligencia artificial para la detección de fraude en transacciones internacionales: innovaciones, riesgos emergentes y aplicabilidad en PYMES de Latinoamérica». La página del artículo declara una licencia distinta a la de Crossref. Detalle: Licencias en la página: https://creativecommons.org/licenses/by/4.0/, https://creativecommons.org/licenses/by/4.0.
 
-10.47058/joa15.8, «Estudio de prospectiva de la Educación Superior en Medellín». Todavía no se ha intentado descargar el texto.
+10.47058/joa15.8, «Estudio de prospectiva de la Educación Superior en Medellín». La página del artículo declara una licencia distinta a la de Crossref. Detalle: Licencias en la página: https://creativecommons.org/licenses/by/4.0/, https://creativecommons.org/licenses/by/4.0.
 
-10.47058/joa15.9, «Tecnología en máquinas de venta automatizadas, retail automatizado y quioscos de autoservicio: análisis bibliométrico de la literatura científica desde 1994 hasta 2024». Todavía no se ha intentado descargar el texto.
-
-### Anuari d’Arquitectura i Societat
-
-10.4995/anuari.2023.19632, «Un centro formativo para una “nueva sociedad”: la consideración social en la arquitectura de la Universidad Laboral de Cheste». Todavía no se ha intentado descargar el texto.
-
-10.4995/anuari.2023.19653, «La ciudad como jardín. Elementos de una eutopía». Todavía no se ha intentado descargar el texto.
-
-10.4995/anuari.2023.19982, «Mid-Century Modern Exhibition Halls of Brno Exhibition Centre and Their Renovation». Todavía no se ha intentado descargar el texto.
-
-10.4995/anuari.2023.19984, «Hacia la rehabilitación de viviendas: demanda y necesidad social». Todavía no se ha intentado descargar el texto.
-
-10.4995/anuari.2023.20025, «Manuel: habitatge cooperatiu. Una experiència col·lectiva al voltant de les noves maneres d’habitar». Todavía no se ha intentado descargar el texto.
-
-10.4995/anuari.2023.20056, «Design urban climate-resilience with Nature-Based Solutions and Green Infrastructures. Challenges, issues, and best practices for neighborhood-scale regeneration». Todavía no se ha intentado descargar el texto.
-
-10.4995/anuari.2023.20118, «What Coast: resort or resource?». Todavía no se ha intentado descargar el texto.
-
-10.4995/anuari.2023.20132, «La cota cero como lugar de intercambio comunitario». Todavía no se ha intentado descargar el texto.
-
-10.4995/anuari.2023.20146, «How can we contribute to solving the sustainability puzzle with bioclimatic architecture?». Todavía no se ha intentado descargar el texto.
-
-10.4995/anuari.2023.20297, «Sostenibilidad y territorio. Una lectura según las categorías vitruvianas». Todavía no se ha intentado descargar el texto.
-
-10.4995/anuari.2023.20310, «Cabanyal. Año 0. Estrategias de futuro». Todavía no se ha intentado descargar el texto.
-
-10.4995/anuari.2023.20471, «Existential homelessness. Placeless and nostalgia in the age of mobility». Todavía no se ha intentado descargar el texto.
-
-10.4995/anuari.2023.20478, «To Form or Not to Form: What (to) Form? An Unabridged List of Sustainables». Todavía no se ha intentado descargar el texto.
-
-10.4995/anuari.2024.21151, «Cartography of Carioca environments: mapping Rio de Janeiro through the geolocation of consumption». Todavía no se ha intentado descargar el texto.
-
-10.4995/anuari.2024.22061, «Desarraigo, arquitectura y sociedad. La iglesia de Pueblica de Campeán (Zamora)». Todavía no se ha intentado descargar el texto.
-
-10.4995/anuari.2024.22078, «The architecture of the future: neuroscience and design for human spaces». Todavía no se ha intentado descargar el texto.
-
-10.4995/anuari.2024.22108, «Live in new normal. Space envision under post-pandemic». Todavía no se ha intentado descargar el texto.
-
-10.4995/anuari.2024.22118, «José Luis Romany, in memoriam. La actualidad de una pregunta irredenta». Todavía no se ha intentado descargar el texto.
-
-10.4995/anuari.2024.22120, «The fertility of urban ruins: Obsolete industrial cities as ecosystem holders to activate circular economy». Todavía no se ha intentado descargar el texto.
-
-10.4995/anuari.2024.22145, «Imperfect streetscapes. Design climate-adaptive nature-based urban regeneration». Todavía no se ha intentado descargar el texto.
-
-10.4995/anuari.2024.22160, «Geocrítica i maternitat: arquitectura distòpica en Mater (2022) i The Pod Generation (2023)». Todavía no se ha intentado descargar el texto.
-
-10.4995/anuari.2024.22190, «Políticas de vivienda y guetificación en el patrimonio público de la Comunidad Valenciana». Todavía no se ha intentado descargar el texto.
-
-10.4995/anuari.2024.22205, «El retorno del carbón. Experiencias de recuperación en las cuencas mineras asturianas y turolenses». Todavía no se ha intentado descargar el texto.
-
-10.4995/anuari.2024.22222, «Cinc consideracions sobre la ciutat imperfecta. El cas de València». Todavía no se ha intentado descargar el texto.
-
-10.4995/anuari.2025.23985, «Espais suggerits. Els dibuixos d’arquitectura de Joaquín Sorolla com a imaginari alternatiu.». Todavía no se ha intentado descargar el texto.
-
-10.4995/anuari.2025.24160, «Los asentamientos de la Línea P. De la mirada proyectual al valor patrimonial». Todavía no se ha intentado descargar el texto.
-
-10.4995/anuari.2025.24176, «Topping Up: Typologies of North American Urbanism». Todavía no se ha intentado descargar el texto.
-
-10.4995/anuari.2025.24188, «Ildefons Cerdà, els eixamples de Barcelona i València i les superilles». Todavía no se ha intentado descargar el texto.
-
-10.4995/anuari.2025.24206, «L’escola franquista en la narrativa catalana com a heterotopia». Todavía no se ha intentado descargar el texto.
-
-10.4995/anuari.2025.24221, «Ciutat per a qui? Lectures crítiques del paisatge urbà en la LIJ contemporània.». Todavía no se ha intentado descargar el texto.
-
-10.4995/anuari.2025.24223, «Al otro lado del bosque: Exploraciones cartográfi cas sobre la transformabilidad como respuesta a la vulnerabilidad a incendios forestales en paisajes suburbanos del Área Metropolitana de Barcelona». Todavía no se ha intentado descargar el texto.
-
-10.4995/anuari.2025.24224, «Cuerpo-tierra. Micropolítica de la relación en la Amazonía ecuatoriana». Todavía no se ha intentado descargar el texto.
-
-10.4995/anuari.2025.24226, «Las tecnologías y el desarrollo urbano de Cienfuegos durante el siglo XIX». Todavía no se ha intentado descargar el texto.
-
-10.4995/anuari.2025.24232, «Teaching sustainability in the built environment innovatively: An architectural technologist perspective». Todavía no se ha intentado descargar el texto.
-
-10.4995/anuari.2025.24237, «From performance to people: A salutogenic approach to retrofi t assessment». Todavía no se ha intentado descargar el texto.
-
-10.4995/anuari.2025.24249, «El urbanismo tactico, alternativa en la transformación urbana: Encarnación, una reflexión». Todavía no se ha intentado descargar el texto.
-
-10.4995/anuari.2025.24273, «Sobre el derecho al paisaje: resistencias silenciadas y maneras de habitar un territorio saqueado». Todavía no se ha intentado descargar el texto.
-
-10.4995/anuari.2025.24316, «ReclaiMEDlanD(scapes): An outsider design experiment for adaptive futures». Todavía no se ha intentado descargar el texto.
-
-10.4995/anuari.2025.24391, «Del parque infantil al paisaje cultural. Una visión humanista del entorno». Todavía no se ha intentado descargar el texto.
-
-10.4995/anuari.2025.24412, «Construir, habitar, cremar: matèria i pensament en les falles de La Punta». Todavía no se ha intentado descargar el texto.
-
-10.4995/anuari.2025.24565, «Procesos de expulsión espacial en la Plaza de Abastos de Santiago de Compostela». Todavía no se ha intentado descargar el texto.
-
-10.4995/anuari.2025.24818, «Autoconstrucción en Guinea Ecuatorial: revisión de la producción académica». Todavía no se ha intentado descargar el texto.
-
-### Bajo el Volcán: Revista del Posgrado de Sociología. BUAP
-
-10.32399/icsyh.bvbuap.2954-4300.2024.6.11.770, «Presentación». Todavía no se ha intentado descargar el texto.
-
-10.32399/icsyh.bvbuap.2954-4300.2024.6.11.771, «El desarrollo como terricidio: zonas de sacrificio y extractivismo como política de Es-tado en México». Todavía no se ha intentado descargar el texto.
-
-10.32399/icsyh.bvbuap.2954-4300.2024.6.11.772, «Elementos determinantes de las zonas de sacrificio en México». Todavía no se ha intentado descargar el texto.
-
-10.32399/icsyh.bvbuap.2954-4300.2024.6.11.775, «Conceptualizando lugares de devastación ambiental, hacia una geografía política de “regiones de emergencia sanitaria y ambiental”». Todavía no se ha intentado descargar el texto.
-
-10.32399/icsyh.bvbuap.2954-4300.2024.6.11.780, «Ecatepec y sus cuerpos (de agua) desaparecidos: territorio de esperanza y sacrificio». Todavía no se ha intentado descargar el texto.
-
-10.32399/icsyh.bvbuap.2954-4300.2024.6.11.781, «Necroterritorios y zonas del sacrificio: escenarios forenses en México contemporáneo». Todavía no se ha intentado descargar el texto.
-
-10.32399/icsyh.bvbuap.2954-4300.2024.6.11.782, «Nombrar la devastación radical de la vida. Hacia una lectura eco-política de las zonas de sacrificio desde la cuenca alta del río Santiago en México». Todavía no se ha intentado descargar el texto.
-
-10.32399/icsyh.bvbuap.2954-4300.2024.6.11.785, «Racionalizar la acumulación en una zona de sacrificio urbano-industrial: Nearshoring y otras contradicciones de ‘revivir’ el río Santiago, México.». Todavía no se ha intentado descargar el texto.
-
-10.32399/icsyh.bvbuap.2954-4300.2024.6.11.786, «Historia ambiental desde abajo: los habitantes ribereños de la Ciénega de Chapala y la afectación ambiental por la construCCión de las presas de Juanacatlán y Poncitlán en el río Santiago, Jalisco, México, 1893-1910». Todavía no se ha intentado descargar el texto.
-
-10.32399/icsyh.bvbuap.2954-4300.2024.6.11.788, «Revolución y liquidación de la transferencia. La destitución subjetiva como procedimiento de emancipación social». Todavía no se ha intentado descargar el texto.
-
-10.32399/icsyh.bvbuap.2954-4300.2024.6.11.789, «Sacrificio por ornato. Sobre el trabajo alienado desde una perspectiva fenomenológica». Todavía no se ha intentado descargar el texto.
-
-10.32399/icsyh.bvbuap.2954-4300.2024.6.11.790, «Introducción. La revolución teórica inacabada». Todavía no se ha intentado descargar el texto.
-
-10.32399/icsyh.bvbuap.2954-4300.2024.6.11.791, «Nota crítica del traductor». Todavía no se ha intentado descargar el texto.
-
-10.32399/icsyh.bvbuap.2954-4300.2024.6.11.792, «“Una muerte lenta”. Violencias y cuidados en contextos de zonas de sacrificio por explotación bananera». Todavía no se ha intentado descargar el texto.
-
-10.32399/icsyh.bvbuap.2954-4300.2024.6.11.793, «Gaza y el espíritu del capitalismo». Todavía no se ha intentado descargar el texto.
-
-10.32399/icsyh.bvbuap.2954-4300.2024.6.11.795, «Marxismo Abierto». Todavía no se ha intentado descargar el texto.
-
-10.32399/icsyh.bvbuap.2954-4300.2024.6.11.796, «Scholz, Roswitha (2019). Le sexe du capitalisme. “Masculinité” et “feminité” comme piliers du patriarcat producteur de marchandises. Éditions crise & critique». Todavía no se ha intentado descargar el texto.
-
-10.32399/icsyh.bvbuap.2954-4300.2024.6.11.797, «Zonas de sacrificio en el espacio urbano: el caso de la contaminación atmosférica en los barrios periféricos de la ciudad de Río de Janeiro». Todavía no se ha intentado descargar el texto.
-
-10.32399/icsyh.bvbuap.2954-4300.2024.6.11.798, «Habitar zonas de sacrificio: experiencias de comunidades afectadas por rellenos sanitarios en Costa Rica». Todavía no se ha intentado descargar el texto.
-
-10.32399/icsyh.bvbuap.2954-4300.2025.6.12.831, «Presentación. Una estrella roja llamada Simon Clarke». Todavía no se ha intentado descargar el texto.
-
-10.32399/icsyh.bvbuap.2954-4300.2025.6.12.832, «La relevancia de la crítica de Simon Clarke. Entrevista con John Holloway». Todavía no se ha intentado descargar el texto.
-
-10.32399/icsyh.bvbuap.2954-4300.2025.6.12.833, «La crítica de Simon Clarke al marxismo estructuralista». Todavía no se ha intentado descargar el texto.
-
-10.32399/icsyh.bvbuap.2954-4300.2025.6.12.835, «Una revisión de los textos de Simon Clarke sobre el Estado, el trabajo y la sociedad capitalista. Porque de lo que se trata es de la negación del capitalismo». Todavía no se ha intentado descargar el texto.
-
-10.32399/icsyh.bvbuap.2954-4300.2025.6.12.836, «Pour Clarke. La centralidad de las relaciones sociales de producción para la crítica marxista en el cuestionamiento a la visión del Estado de Nicos Poulantzas y la derivación». Todavía no se ha intentado descargar el texto.
-
-10.32399/icsyh.bvbuap.2954-4300.2025.6.12.837, «La forma-Estado en la síntesis de Clarke para pensar los límites de las políticas públicas de salud en Brasil». Todavía no se ha intentado descargar el texto.
-
-10.32399/icsyh.bvbuap.2954-4300.2025.6.12.840, «Moishe Postone y la crítica autorreflexiva del capital: crisis, límites y posibilidades de la transformación social radical». Todavía no se ha intentado descargar el texto.
-
-10.32399/icsyh.bvbuap.2954-4300.2025.6.12.841, «Capital, fracciones de capital y Estado. Análisis ‘neomarxista’ del Estado sudafricano». Todavía no se ha intentado descargar el texto.
-
-10.32399/icsyh.bvbuap.2954-4300.2025.6.12.842, «La teoría marxista de la sobreacumulación y la crisis». Todavía no se ha intentado descargar el texto.
-
-10.32399/icsyh.bvbuap.2954-4300.2025.6.12.844, «Revolución social y paradigma subjetivista en la obra de John Holloway». Todavía no se ha intentado descargar el texto.
-
-10.32399/icsyh.bvbuap.2954-4300.2025.6.12.845, «La racionalidad del proceso de individualización y sus afinidades electivas con el capitalismo». Todavía no se ha intentado descargar el texto.
-
-10.32399/icsyh.bvbuap.2954-4300.2025.6.12.846, «El texto hilvanado, porte y escritura textil. Puntadas simbólicas desde contextos latinoamericanos actuales». Todavía no se ha intentado descargar el texto.
-
-10.32399/icsyh.bvbuap.2954-4300.2025.6.12.847, «“A nosotros nos toca asumir la tarea de la transformación en un sistema político en el que sólo hemos alcanzado el control del ejecutivo”. Entrevista y conversación con el Dr. Bernardo Arévalo, Presidente de la República de Guatemala». Todavía no se ha intentado descargar el texto.
-
-10.32399/icsyh.bvbuap.2954-4300.2025.6.12.848, «Fenomenología y Sociología: un ensayo sobre la esencia de su relación». Todavía no se ha intentado descargar el texto.
-
-10.32399/icsyh.bvbuap.2954-4300.2025.6.12.849, «Futilidad marginal. Reflexiones sobre Marx, el marginalismo y la sociología moderna, de Simon Clarke». Todavía no se ha intentado descargar el texto.
-
-10.32399/icsyh.bvbuap.2954-4300.2025.6.12.850, «Maiso, Jordi (2022). Desde la vida dañada. La teoría crítica de Theodor W. Adorno. Siglo XXI editores». Todavía no se ha intentado descargar el texto.
-
-10.32399/icsyh.bvbuap.2954-4300.2025.7.13.801, «El mercado de trabajo durante la pandemia de Covid-19 en México». Todavía no se ha intentado descargar el texto.
-
-10.32399/icsyh.bvbuap.2954-4300.2025.7.13.803, «participaciones políticas en el clientelismo político: el caso de Cuautitlán 2018-2021». Todavía no se ha intentado descargar el texto.
-
-10.32399/icsyh.bvbuap.2954-4300.2025.7.13.807, «Escárzaga, F .N.; García, Y.; Sagal, Y .; Sánchez, M. Y carrillo, J.J.(coords.) (2020). Reflexiones sobre las violencias estatales y sociales en México y en América latina. México: UAM». Todavía no se ha intentado descargar el texto.
-
-10.32399/icsyh.bvbuap.2954-4300.2025.7.13.811, «Por un Pachukanis sin concesiones: la crítica de la forma jurídica y los errores de la lectura dependentista del derecho». Todavía no se ha intentado descargar el texto.
-
-10.32399/icsyh.bvbuap.2954-4300.2025.7.13.812, «Relación y norma jurídicas: los distintos niveles de abstracción en la crítica de E. B. Pachukanis a la teoría general del Derecho». Todavía no se ha intentado descargar el texto.
-
-10.32399/icsyh.bvbuap.2954-4300.2025.7.13.813, «(Re) Leer a Pashukanis hoy. A propósito de “Marxismo y Derecho. A un siglo de la Teoría general de Pashukanis” (Mariana Giaretto y Alberto Bonnet, Eds., Buenos Aires, Prometeo, 2024)». Todavía no se ha intentado descargar el texto.
-
-10.32399/icsyh.bvbuap.2954-4300.2025.7.13.814, «A un siglo de la Teoría general de Pashukanis». Todavía no se ha intentado descargar el texto.
-
-10.32399/icsyh.bvbuap.2954-4300.2025.7.13.815, «Decrecimientos situados: perspectivas críticas desde América Latina y el Sur Global». Todavía no se ha intentado descargar el texto.
-
-10.32399/icsyh.bvbuap.2954-4300.2025.7.13.819, «influencias de la realidad histórico-social en la creación artística desde la perspectiva de Lukács». Todavía no se ha intentado descargar el texto.
-
-10.32399/icsyh.bvbuap.2954-4300.2025.7.13.820, «Milei entre los poderes: la pregunta de Pashukanis y la discusión sobre la democracia en Argentina». Todavía no se ha intentado descargar el texto.
-
-10.32399/icsyh.bvbuap.2954-4300.2025.7.13.821, «derecho captado por la inteligencia artificial: una lectura edelmaniana de un debate jurídico contemporáneo». Todavía no se ha intentado descargar el texto.
-
-10.32399/icsyh.bvbuap.2954-4300.2025.7.13.822, «cuestión del punto de partida en el análisis marxista del Estado». Todavía no se ha intentado descargar el texto.
-
-10.32399/icsyh.bvbuap.2954-4300.2025.7.13.823, «La crítica marxista de Pashukanis sobre el sujeto de derecho y el fascismo: elementos esenciales para comprender la relación social entre alimentación, estado y crisis». Todavía no se ha intentado descargar el texto.
-
-10.32399/icsyh.bvbuap.2954-4300.2025.7.13.824, «Herrera Mejía, l. Y Figueroa Ibarra, C. (coords.) (2025). Yum Kimil camina entre nosotros. Sociedad, Estado y Violencia en México. Universidad del Valle de Puebla». Todavía no se ha intentado descargar el texto.
-
-10.32399/icsyh.bvbuap.2954-4300.2025.7.13.852, «Construyendo avances en colectivo: los procesos organizativos de las mujeres indígenas de Chimborazo, Ecuador». Todavía no se ha intentado descargar el texto.
-
-10.32399/icsyh.bvbuap.2954-4300.2025.7.13.858, «Pashukanis en el Edén de los derechos humanos». Todavía no se ha intentado descargar el texto.
-
-10.32399/icsyh.bvbuap.2954-4300.2025.7.13.859, «García Vela, A .y Bonnet, A. (Coords.) (2023). Revolución, crítica y emancipación. Debates sobre el pensamiento político de John Holloway. BUAP/Universidad Nacional de Quilmes». Todavía no se ha intentado descargar el texto.
-
-10.32399/icsyh.bvbuap.2954-4300.2025.7.13.879, «Presentación». Todavía no se ha intentado descargar el texto.
-
-10.32399/icsyh.bvbuap.2954-4300.2025.7.13.880, «Notas sobre Pashukanis: del sujeto jurídico a la crítica de la sociedad de clases». Todavía no se ha intentado descargar el texto.
-
-10.32399/icsyh.bvbuap.2954-4300.2025.7.13.882, «La cuestión del Estado proletario en Pashukanis». Todavía no se ha intentado descargar el texto.
-
-10.32399/icsyh.bvbuap.2954-4300.2025.7.13.884, «A veinticinco años de Bajo el Volcán: la actualidad del pensamiento crítico y las luchas por la emancipación». Todavía no se ha intentado descargar el texto.
-
-10.32399/icsyh.bvbuap.2954-4300.2026.7.14.855, «Acumulación por desposesión y resistencia territorial en el Valle del Mezquital en el estado de Hidalgo». Todavía no se ha intentado descargar el texto.
-
-10.32399/icsyh.bvbuap.2954-4300.2026.7.14.857, «Empoderando el pluriverso: posibilidades y retos para las transiciones energéticas decoloniales en la Sierra Norte de Puebla, México». Todavía no se ha intentado descargar el texto.
-
-10.32399/icsyh.bvbuap.2954-4300.2026.7.14.860, «Comunicación Afectiva Bio-Mediada. Cuerpo, Colonización y Morenitúd». Todavía no se ha intentado descargar el texto.
-
-10.32399/icsyh.bvbuap.2954-4300.2026.7.14.864, «Pensar la moda en clave juvenil». Todavía no se ha intentado descargar el texto.
-
-10.32399/icsyh.bvbuap.2954-4300.2026.7.14.866, «Juventudes rurales y diversidad sexual desde la experiencia de “Cuquío Pride” en Jalisco, México». Todavía no se ha intentado descargar el texto.
-
-10.32399/icsyh.bvbuap.2954-4300.2026.7.14.867, «Juventudes y desigualdades en la escuela secundaria: Tensiones y alcances de las políticas sociales de componente educativo en las trayectorias escolares». Todavía no se ha intentado descargar el texto.
-
-10.32399/icsyh.bvbuap.2954-4300.2026.7.14.868, «"Era una desesperación por no tener dinero”: precariedad afectiva y estrategias de vida digital de jóvenes nenis». Todavía no se ha intentado descargar el texto.
-
-10.32399/icsyh.bvbuap.2954-4300.2026.7.14.870, «Espacio urbano, precariedad laboral y agencia en el reparto de última milla en México: Jóvenes trabajando para Amazon Flex y Mercado Libre Envíos Extra». Todavía no se ha intentado descargar el texto.
-
-10.32399/icsyh.bvbuap.2954-4300.2026.7.14.875, «Certámenes de belleza y agencia juvenil. El caso de La Reina de las Fiestas Patrias en Iztacalco, CDMX». Todavía no se ha intentado descargar el texto.
-
-10.32399/icsyh.bvbuap.2954-4300.2026.7.14.876, «Necropolíticas y la precarización de la vida». Todavía no se ha intentado descargar el texto.
-
-10.32399/icsyh.bvbuap.2954-4300.2026.7.14.878, «La materialidad de la muerte ausente». Todavía no se ha intentado descargar el texto.
-
-10.32399/icsyh.bvbuap.2954-4300.2026.7.14.887, «Entre ruinas del Estado y constelaciones comunitarias: genealogías y posibilidades contemporáneas de la política no estatal». Todavía no se ha intentado descargar el texto.
-
-10.32399/icsyh.bvbuap.2954-4300.2026.7.14.889, «Juvenicidio y necropolítica en México». Todavía no se ha intentado descargar el texto.
-
-10.32399/icsyh.bvbuap.2954-4300.2026.7.14.891, «“Para escribir El Capital de nuevo, hay que volver a leer El Capital”. Entrevista con Paul North y Paul Reitter sobre la nueva traducción de Das Kapital al inglés». Todavía no se ha intentado descargar el texto.
-
-10.32399/icsyh.bvbuap.2954-4300.2026.7.14.892, «Reseña: Alliez, É. y Lazzarato, M. (2022). Guerras y capital. Buenos Aires: Traficantes de sueños/Tinta Limón/La Cebra». Todavía no se ha intentado descargar el texto.
-
-10.32399/icsyh.bvbuap.2954-4300.2026.7.14.901, «Respuestas juveniles a contextos de discriminación». Todavía no se ha intentado descargar el texto.
-
-### Clinical Sociology Review
-
-10.36615/2pw1mb81, «Exploring the digital shift: Factors influencing the sustainable adoption of e-health tools for digital mental health services amidst the COVID-19 pandemic». Todavía no se ha intentado descargar el texto.
-
-10.36615/35wfdh40, «The Socio-Psychic Knots of Teacher Burnout in Brazil». Todavía no se ha intentado descargar el texto.
-
-10.36615/5mk88961, «Developing a Deliberative Researcher-Practitioner Relationship in Sociological Evaluation Research: A Practical Reflection on using Sociology in the Carer Café Evaluation Project in Hong Kong». Todavía no se ha intentado descargar el texto.
-
-10.36615/6s58v140, «Faut-il écouter les personnes dominantes ? Connaissance située et recherche impliquée auprès des Françaises blanches employant des migrantes haïtiennes noires.». Todavía no se ha intentado descargar el texto.
-
-10.36615/8q549527, «Book Review: "Dialogues with Eugène Enriquez: On the Work: "From the Horde to the State – Psychoanalysis of the Social Bond"». Todavía no se ha intentado descargar el texto.
-
-10.36615/c0p1bz47, «Community-Engaged Research in Teaching Research Methods». Todavía no se ha intentado descargar el texto.
-
-10.36615/c1k24t04, «Pierre Bourdieu, un sociologue clinicien?». Todavía no se ha intentado descargar el texto.
-
-10.36615/e75xhy17, «Clinical Sociology of Activity : A Practical Theory of a Social Change and Subjectivation». Todavía no se ha intentado descargar el texto.
-
-10.36615/em36kx11, «Feminist Practices and Experiential Pedagogies: Student Learning at the Commission on the Status of Women». Todavía no se ha intentado descargar el texto.
-
-10.36615/f91c1n14, «L'anthropologie clinique d'orientation psychanalytique : un dialogue inter-culturel». Todavía no se ha intentado descargar el texto.
-
-10.36615/f9w7v237, «Hablar del trabajo docente de cara al sufrimiento. La Sociología clínica como mediador de la palabra». Todavía no se ha intentado descargar el texto.
-
-10.36615/fcpv4670, «The Beijing Declaration and Platform for Action’s Continuing Guidance for the Protection of Girls Before, During and After Armed Conflict». Todavía no se ha intentado descargar el texto.
-
-10.36615/fq833b78, «Eugène Enriquez: Memory, Thinking and Humanity». Todavía no se ha intentado descargar el texto.
-
-10.36615/fx5exd83, «Book Review: The Untold Story of Zama Zama Miners in South Africa: Unearthing Hope». Todavía no se ha intentado descargar el texto.
-
-10.36615/hd6qz184, «“Water Is There; But It Doesn’t Come”: Moral Narratives of Municipal Water Failure in Madibeng, South Africa». Todavía no se ha intentado descargar el texto.
-
-10.36615/kvf96g06, «Book Review: "Clinical sociology and psychosociology: theories and practices"». Todavía no se ha intentado descargar el texto.
-
-10.36615/n1jads78, «« Décoloniser l’Esprit », Le Début D’une Posture Épistémologique Décoloniale en Recherche Clinique?». Todavía no se ha intentado descargar el texto.
-
-10.36615/n3x8x469, «Hommage à Robert Sévigny, pionnier de la sociologie clinique au Québec». Todavía no se ha intentado descargar el texto.
-
-10.36615/np1vkw02, «Improving the Lives of Older Adults in South Korea». Todavía no se ha intentado descargar el texto.
-
-10.36615/qxc5p253, «Construire une recherche scientifique ancrée en s’appuyant sur les carnets de terrain». Todavía no se ha intentado descargar el texto.
-
-10.36615/rbg8n991, «La subjectivation : un concept central de la sociologie clinique». Todavía no se ha intentado descargar el texto.
-
-10.36615/szgbef02, «Un chercheur racisé face à une subjectivité raciale différenciée : approche clinique et réflexive du racisme». Todavía no se ha intentado descargar el texto.
-
-10.36615/vy2zn259, «Absenteeism and Labour Precarity: A Quantitative Analysis of a South African Cleaning Services Company». Todavía no se ha intentado descargar el texto.
-
-10.36615/y7med626, «Book Review: Goodbye: Creating a Good Exit Plan for When You Leave This Earth». Todavía no se ha intentado descargar el texto.
+10.47058/joa15.9, «Tecnología en máquinas de venta automatizadas, retail automatizado y quioscos de autoservicio: análisis bibliométrico de la literatura científica desde 1994 hasta 2024». La página del artículo declara una licencia distinta a la de Crossref. Detalle: Licencias en la página: https://creativecommons.org/licenses/by/4.0/, https://creativecommons.org/licenses/by/4.0.
 
 ### Estudios sobre las Culturas Contemporáneas
 
-10.53897/revescc.2025.4.01, «Defensa cultural y patrimonial ante megaproyectos energéticos: el caso de comunidades mayas en México». Todavía no se ha intentado descargar el texto.
+10.53897/revescc.2025.4.01, «Defensa cultural y patrimonial ante megaproyectos energéticos: el caso de comunidades mayas en México». robots.txt de la revista no permite descargar la página. Detalle: No se ha podido leer robots.txt (respuesta 468); no se consulta el servidor.
 
-10.53897/revescc.2025.4.02, «Gestión Cultural en el territorio de la Cuarta Colonia de Rio Grande do Sul: perspectivas y potencialidades de desarrollo». Todavía no se ha intentado descargar el texto.
+10.53897/revescc.2025.4.02, «Gestión Cultural en el territorio de la Cuarta Colonia de Rio Grande do Sul: perspectivas y potencialidades de desarrollo». robots.txt de la revista no permite descargar la página. Detalle: No se ha podido leer robots.txt (respuesta 468); no se consulta el servidor.
 
-10.53897/revescc.2025.4.03, «Conspiraciones en la era digital: ¿Del pensamiento mágico a una nueva episteme en el ecosistema mediático?». Todavía no se ha intentado descargar el texto.
+10.53897/revescc.2025.4.03, «Conspiraciones en la era digital: ¿Del pensamiento mágico a una nueva episteme en el ecosistema mediático?». robots.txt de la revista no permite descargar la página. Detalle: No se ha podido leer robots.txt (respuesta 468); no se consulta el servidor.
 
-10.53897/revescc.2025.4.04, «Manifestaciones pictóricas urbanas y su configuración informacional en la ciudad contemporánea. El caso de San Luis Potosí, México». Todavía no se ha intentado descargar el texto.
+10.53897/revescc.2025.4.04, «Manifestaciones pictóricas urbanas y su configuración informacional en la ciudad contemporánea. El caso de San Luis Potosí, México». robots.txt de la revista no permite descargar la página. Detalle: No se ha podido leer robots.txt (respuesta 468); no se consulta el servidor.
 
-10.53897/revescc.2025.4.05, «La ultraderecha estadounidense y las heridas de la globalización». Todavía no se ha intentado descargar el texto.
+10.53897/revescc.2025.4.05, «La ultraderecha estadounidense y las heridas de la globalización». robots.txt de la revista no permite descargar la página. Detalle: No se ha podido leer robots.txt (respuesta 468); no se consulta el servidor.
 
-10.53897/revescc.2025.4.06, «Desafíos de la política cultural en México: del modelo neoliberal al proyecto denominado “4T” (1988-2024)». Todavía no se ha intentado descargar el texto.
+10.53897/revescc.2025.4.06, «Desafíos de la política cultural en México: del modelo neoliberal al proyecto denominado “4T” (1988-2024)». robots.txt de la revista no permite descargar la página. Detalle: No se ha podido leer robots.txt (respuesta 468); no se consulta el servidor.
 
-10.53897/revescc.2025.4.07, «Genealogías comparadas. Análisis cultural del habitus educativo en familias de Oaxaca». Todavía no se ha intentado descargar el texto.
+10.53897/revescc.2025.4.07, «Genealogías comparadas. Análisis cultural del habitus educativo en familias de Oaxaca». robots.txt de la revista no permite descargar la página. Detalle: No se ha podido leer robots.txt (respuesta 468); no se consulta el servidor.
 
-10.53897/revescc.2025.4.08, «Mezcal en Oaxaca». Todavía no se ha intentado descargar el texto.
+10.53897/revescc.2025.4.08, «Mezcal en Oaxaca». robots.txt de la revista no permite descargar la página. Detalle: No se ha podido leer robots.txt (respuesta 468); no se consulta el servidor.
 
-10.53897/revescc.2025.4.09, «El camino de la investigación: enfoques cuantitativos, cualitativos y mixtos en el método científico». Todavía no se ha intentado descargar el texto.
+10.53897/revescc.2025.4.09, «El camino de la investigación: enfoques cuantitativos, cualitativos y mixtos en el método científico». robots.txt de la revista no permite descargar la página. Detalle: No se ha podido leer robots.txt (respuesta 468); no se consulta el servidor.
 
-10.53897/revescc.2026.5.01, «Representaciones sociales de escritores y autores en personas aficionadas a la escritura». Todavía no se ha intentado descargar el texto.
+10.53897/revescc.2026.5.01, «Representaciones sociales de escritores y autores en personas aficionadas a la escritura». robots.txt de la revista no permite descargar la página. Detalle: No se ha podido leer robots.txt (respuesta 468); no se consulta el servidor.
 
-10.53897/revescc.2026.5.02, «Es una casa portuguesa, sin duda. La construcción de familias en la comunidad de Santa Isabel a través de la memoria de los descendientes portugueses (1950-1970». Todavía no se ha intentado descargar el texto.
+10.53897/revescc.2026.5.02, «Es una casa portuguesa, sin duda. La construcción de familias en la comunidad de Santa Isabel a través de la memoria de los descendientes portugueses (1950-1970». robots.txt de la revista no permite descargar la página. Detalle: No se ha podido leer robots.txt (respuesta 468); no se consulta el servidor.
 
-10.53897/revescc.2026.5.03, «Diásporas contemporáneas: representaciones de la crisis migratoria en el cine». Todavía no se ha intentado descargar el texto.
+10.53897/revescc.2026.5.03, «Diásporas contemporáneas: representaciones de la crisis migratoria en el cine». robots.txt de la revista no permite descargar la página. Detalle: No se ha podido leer robots.txt (respuesta 468); no se consulta el servidor.
 
-10.53897/revescc.2026.5.04, «Entre analogías y traducciones: procesos semióticos de la interculturalidad en un «boteco japonés» en Brasil». Todavía no se ha intentado descargar el texto.
+10.53897/revescc.2026.5.04, «Entre analogías y traducciones: procesos semióticos de la interculturalidad en un «boteco japonés» en Brasil». robots.txt de la revista no permite descargar la página. Detalle: No se ha podido leer robots.txt (respuesta 468); no se consulta el servidor.
 
-10.53897/revescc.2026.5.05, «Mi experiencia en el museo: Protocolo para la mediación cultural en el museo de arte Pinacoteca Universitaria en Colima, México». Todavía no se ha intentado descargar el texto.
+10.53897/revescc.2026.5.05, «Mi experiencia en el museo: Protocolo para la mediación cultural en el museo de arte Pinacoteca Universitaria en Colima, México». robots.txt de la revista no permite descargar la página. Detalle: No se ha podido leer robots.txt (respuesta 468); no se consulta el servidor.
 
-10.53897/revescc.2026.5.06, «No soy un robot. La lectura y la sociedad digital de Juan Villoro». Todavía no se ha intentado descargar el texto.
+10.53897/revescc.2026.5.06, «No soy un robot. La lectura y la sociedad digital de Juan Villoro». robots.txt de la revista no permite descargar la página. Detalle: No se ha podido leer robots.txt (respuesta 468); no se consulta el servidor.
 
-10.53897/revescc.2026.5.07, «Grupos etarios y ciencias sociales: La edad como marcaje sociocultural y categoría de análisis». Todavía no se ha intentado descargar el texto.
+10.53897/revescc.2026.5.07, «Grupos etarios y ciencias sociales: La edad como marcaje sociocultural y categoría de análisis». robots.txt de la revista no permite descargar la página. Detalle: No se ha podido leer robots.txt (respuesta 468); no se consulta el servidor.
 
-10.53897/revescc.2026.6.01, «Apuntes para fomentar la cultura y las lenguas indígenas en jóvenes y niños». Todavía no se ha intentado descargar el texto.
+10.53897/revescc.2026.6.01, «Apuntes para fomentar la cultura y las lenguas indígenas en jóvenes y niños». robots.txt de la revista no permite descargar la página. Detalle: No se ha podido leer robots.txt (respuesta 468); no se consulta el servidor.
 
-10.53897/revescc.2026.6.02, «Personas mayores migrantes e itinerarios terapéuticos, cuidados y saberes de salud en la periferia bonaerense, Argentina». Todavía no se ha intentado descargar el texto.
+10.53897/revescc.2026.6.02, «Personas mayores migrantes e itinerarios terapéuticos, cuidados y saberes de salud en la periferia bonaerense, Argentina». robots.txt de la revista no permite descargar la página. Detalle: No se ha podido leer robots.txt (respuesta 468); no se consulta el servidor.
 
-10.53897/revescc.2026.6.03, «Tradwives y la nostalgia del hogar: Discursos conservadores como respuesta a la sobrecarga femenina». Todavía no se ha intentado descargar el texto.
+10.53897/revescc.2026.6.03, «Tradwives y la nostalgia del hogar: Discursos conservadores como respuesta a la sobrecarga femenina». robots.txt de la revista no permite descargar la página. Detalle: No se ha podido leer robots.txt (respuesta 468); no se consulta el servidor.
 
-10.53897/revescc.2026.6.04, «Prensa gay en Brasil: análisis narrativo y morfológico comparativo de cuatro periódicos». Todavía no se ha intentado descargar el texto.
+10.53897/revescc.2026.6.04, «Prensa gay en Brasil: análisis narrativo y morfológico comparativo de cuatro periódicos». robots.txt de la revista no permite descargar la página. Detalle: No se ha podido leer robots.txt (respuesta 468); no se consulta el servidor.
 
-10.53897/revescc.2026.6.05, «Memes, emociones y ciudadanía digital: percepciones juveniles sobre comunicación política y polarización en Monterrey, Nuevo León». Todavía no se ha intentado descargar el texto.
+10.53897/revescc.2026.6.05, «Memes, emociones y ciudadanía digital: percepciones juveniles sobre comunicación política y polarización en Monterrey, Nuevo León». robots.txt de la revista no permite descargar la página. Detalle: No se ha podido leer robots.txt (respuesta 468); no se consulta el servidor.
 
-10.53897/revescc.2026.6.06, «La teodicea incel: construcción moral del sufrimiento dentro del manifiesto de Elliot Rodger». Todavía no se ha intentado descargar el texto.
+10.53897/revescc.2026.6.06, «La teodicea incel: construcción moral del sufrimiento dentro del manifiesto de Elliot Rodger». robots.txt de la revista no permite descargar la página. Detalle: No se ha podido leer robots.txt (respuesta 468); no se consulta el servidor.
 
-10.53897/revescc.2026.6.07, «Hacia un análisis cronotópico en el estudio de la telenovela brasileña». Todavía no se ha intentado descargar el texto.
+10.53897/revescc.2026.6.07, «Hacia un análisis cronotópico en el estudio de la telenovela brasileña». robots.txt de la revista no permite descargar la página. Detalle: No se ha podido leer robots.txt (respuesta 468); no se consulta el servidor.
 
-10.53897/revescc.2026.6.08, «Investigación aplicada en comunicación: una experiencia metodológica en el campo de la interculturalidad». Todavía no se ha intentado descargar el texto.
+10.53897/revescc.2026.6.08, «Investigación aplicada en comunicación: una experiencia metodológica en el campo de la interculturalidad». robots.txt de la revista no permite descargar la página. Detalle: No se ha podido leer robots.txt (respuesta 468); no se consulta el servidor.
 
-10.53897/revescc.2026.6.09, «Los malos de la historia: Victoriano Huerta». Todavía no se ha intentado descargar el texto.
+10.53897/revescc.2026.6.09, «Los malos de la historia: Victoriano Huerta». robots.txt de la revista no permite descargar la página. Detalle: No se ha podido leer robots.txt (respuesta 468); no se consulta el servidor.
 
-10.53897/revescc.2026.6.10, «Trato ilícito. Matrimonio, sexualidad y delito en Colima a finales del Antiguo Régimen (1765-1821)». Todavía no se ha intentado descargar el texto.
+10.53897/revescc.2026.6.10, «Trato ilícito. Matrimonio, sexualidad y delito en Colima a finales del Antiguo Régimen (1765-1821)». robots.txt de la revista no permite descargar la página. Detalle: No se ha podido leer robots.txt (respuesta 468); no se consulta el servidor.
 
-10.53897/revescc.2026.6.11, «Ética en radio y televi-visión desde las defenso-rías de las audiecias». Todavía no se ha intentado descargar el texto.
+10.53897/revescc.2026.6.11, «Ética en radio y televi-visión desde las defenso-rías de las audiecias». robots.txt de la revista no permite descargar la página. Detalle: No se ha podido leer robots.txt (respuesta 468); no se consulta el servidor.
+
+## Pendientes de un nuevo intento
+
+### Cultura-Hombre-Sociedad
+
+10.7770/cuhso.v30i2.1630, «La huella marca la montaña: movilidades y articulaciones del Territorio Pewenche en Alto Biobío, Wallmapu.». No se ha podido descargar la página del artículo. Detalle: La página ha respondido con el código 404.
+
+10.7770/cuhso.v30i2.1650, «Turismo Invasivo y Turismo Mapuche: territorio indígena y emprendimiento con identidad en Laguna Icalma, Alto Biobío». No se ha podido descargar la página del artículo. Detalle: La página ha respondido con el código 404.
+
+10.7770/cuhso.v30i2.1818, «En torno a los orígenes de la Gran Divergencia: debates recientes en historia económica (2000-2018)». No se ha podido descargar la página del artículo. Detalle: La página ha respondido con el código 404.
+
+10.7770/cuhso.v30i2.1842, «Retóricas de la cocina. La culinaria del discurso de Platón a Lévi-Strauss». No se ha podido descargar la página del artículo. Detalle: La página ha respondido con el código 404.
+
+10.7770/cuhso.v30i2.1850, «Costanera Center como escenario de las performatividades (del poder) de la resistencia». No se ha podido descargar la página del artículo. Detalle: La página ha respondido con el código 404.
+
+10.7770/cuhso.v30i2.1856, «Mujeres en el trabajo: persistencia de los condicionantes de género en el ámbito laboral». No se ha podido descargar la página del artículo. Detalle: La página ha respondido con el código 404.
+
+10.7770/cuhso.v30i2.1866, «Dispositivo de evaluación educacional y gubernamentalidad en Chile: los orígenes (1844-1970)». No se ha podido descargar la página del artículo. Detalle: La página ha respondido con el código 404.
+
+10.7770/cuhso.v30i2.1878, «La autonomía individual bajo la tutela del binomio médico-jurídico: hacia una conceptualización histórico-relacional». No se ha podido descargar la página del artículo. Detalle: La página ha respondido con el código 404.
+
+10.7770/cuhso.v30i2.1884, «El compromiso cultural en las identidades del profesorado de artes en Chile». No se ha podido descargar la página del artículo. Detalle: La página ha respondido con el código 404.
+
+10.7770/cuhso.v30i2.1931, «Activos, autónomos y contribuyentes: argumentos para la resignificación de las representaciones sociales sobre envejecimiento en Chile». No se ha podido descargar la página del artículo. Detalle: La página ha respondido con el código 404.
+
+10.7770/cuhso.v30i2.1939, «Representaciones sociales de pobreza: miradas de los apoyos familiares del programa familias de la provincia del Biobío, VIII región Chile». No se ha podido descargar la página del artículo. Detalle: La página ha respondido con el código 404.
+
+10.7770/cuhso.v30i2.1948, «ECOLOGICAL METAPHORS IN DEBATES OVER LANGUAGE AND LANGUAGE POLITICS IN CATALONIA (1999-2009)». No se ha podido descargar la página del artículo. Detalle: La página ha respondido con el código 404.
+
+10.7770/cuhso.v30i2.1949, «Conocimiento de la Rehabilitación Basada en la Comunidad por parte de fonoaudiólogos de la región de Valparaíso, Chile». No se ha podido descargar la página del artículo. Detalle: La página ha respondido con el código 404.
+
+10.7770/cuhso.v30i2.1952, «Arqueología en el valle inferior-medio del río Chubut. Resultados de los trabajos exploratorios en la localidad Las Chapas, dto. Alsina». No se ha podido descargar la página del artículo. Detalle: La página ha respondido con el código 404.
+
+10.7770/cuhso.v30i2.2000, «De madera y hormigón: hábitat residencial y habitar de migrantes latinoamericanos en la ciudad de Santiago». No se ha podido descargar la página del artículo. Detalle: La página ha respondido con el código 404.
+
+10.7770/cuhso.v30i2.2014, «¿Un psicoanálisis con los y las trabajadoras? Sobre el libro de Wlosko y Ros (Eds.) El Trabajo entre el placer y el sufrimiento: aportes desde la Psicodinámica del Trabajo». No se ha podido descargar la página del artículo. Detalle: La página ha respondido con el código 404.
+
+10.7770/cuhso.v30i2.2015, «Contesting hegemonies and centering the listening subject: the alternative processes of re-making a language». No se ha podido descargar la página del artículo. Detalle: La página ha respondido con el código 404.
+
+10.7770/cuhso.v30i2.2053, «El relato turístico mapuche: identidad, territorio y políticas públicas». No se ha podido descargar la página del artículo. Detalle: La página ha respondido con el código 404.
+
+10.7770/cuhso.v30i2.2086, «Las creencias del pueblo mapuche en el Archivo Secreto Vaticano». No se ha podido descargar la página del artículo. Detalle: La página ha respondido con el código 404.
+
+10.7770/cuhso.v30i2.2112, «El patrimonio cultural inmaterial de los pueblos indígenas: bienes comunes ligados a la identidad de la comunidad». No se ha podido descargar la página del artículo. Detalle: La página ha respondido con el código 404.
+
+10.7770/cuhso.v30i2.2129, «"Em beneficio do povo". Obras, governo e sociedade na cidade colonial Jorun Poettering, Gefferson Ramos Rodrigues (orgs.). Rio de Janeiro: Mauad, 2016, p. 384». No se ha podido descargar la página del artículo. Detalle: La página ha respondido con el código 404.
+
+10.7770/cuhso.v30i2.2140, «Construcciones sociopolíticas del territorio. Movimientos indígenas y políticas públicas, la configuración de los espacios locales». No se ha podido descargar la página del artículo. Detalle: La página ha respondido con el código 404.
+
+10.7770/cuhso.v30i2.2165, «Un cordial saludo le envía a ud., sr. profesor, su servidor fr. Félix José. Seis cartas de fray Félix José de Augusta a Rodolfo Lenz, 1910-1914. Introducción, texto íntegro, traducción y notas». No se ha podido descargar la página del artículo. Detalle: La página ha respondido con el código 404.
+
+10.7770/cuhso.v30i2.2206, «Conflicto y (re)producción de espacio en tierra pewenche: disputas en torno a la Reserva Nacional Alto Bío-Bío, Lonquimay». No se ha podido descargar la página del artículo. Detalle: La página ha respondido con el código 404.
+
+10.7770/cuhso.v30i2.2345, «Dinámicas territoriales mapuches en el cono sur americano: una bibliografía selectiva». No se ha podido descargar la página del artículo. Detalle: La página ha respondido con el código 404.
+
+10.7770/cuhso.v30i2.2398, «Witrampüramgetuael ta Wallmapu: pensar el territorio mapuche desde la praxis». No se ha podido descargar la página del artículo. Detalle: La página ha respondido con el código 404.
+
+10.7770/cuhso.v30i2.2401, «“Es el momento en que los mapuches debemos participar en CONAF”». No se ha podido descargar la página del artículo. Detalle: La página ha respondido con el código 404.
+
+10.7770/cuhso.v31i1.1970, «Repensando las movilidades en el Archipiélago de Chiloé». No se ha podido descargar la página del artículo. Detalle: La página ha respondido con el código 404.
+
+10.7770/cuhso.v31i1.1971, «Bifurcaciones biográficas en los escenarios laborales del Chile contemporáneo: una comparación entre trabajadores del retail y emprendedores sociales». No se ha podido descargar la página del artículo. Detalle: La página ha respondido con el código 404.
+
+10.7770/cuhso.v31i1.2003, «Precariedad, trabajo y reproducción: el trabajo de las mujeres en el sector exportador de uva en Chile y Brasil». No se ha podido descargar la página del artículo. Detalle: La página ha respondido con el código 404.
+
+10.7770/cuhso.v31i1.2048, «Raza y género en el marco de la diferencia ontológica colonial». No se ha podido descargar la página del artículo. Detalle: La página ha respondido con el código 404.
+
+10.7770/cuhso.v31i1.2049, «Políticas y marco jurídico de fomento a la lactancia materna exclusiva en el Perú». No se ha podido descargar la página del artículo. Detalle: La página ha respondido con el código 404.
+
+10.7770/cuhso.v31i1.2055, «Desencuentros entre el imaginario social occidental y el imaginario social indígena: elementos para una reflexión teórica sobre los imaginarios sociales nucleares en el marco del conflicto entre el estado-nación chileno y el pueblo mapuche». No se ha podido descargar la página del artículo. Detalle: La página ha respondido con el código 404.
+
+10.7770/cuhso.v31i1.2058, «Un problema no es sólo un problema. Posiciones, hermenéuticas y políticas públicas relativas a la salud de las abejas». No se ha podido descargar la página del artículo. Detalle: La página ha respondido con el código 404.
+
+10.7770/cuhso.v31i1.2130, «História, regiões e fronteiras». No se ha podido descargar la página del artículo. Detalle: La página ha respondido con el código 404.
+
+10.7770/cuhso.v31i1.2145, «El viaje del zorro al cielo y su tío el tigre: Texturas transculturales amerindias en dos repertorios de relatos mapuche del zorro». No se ha podido descargar la página del artículo. Detalle: La página ha respondido con el código 404.
+
+10.7770/cuhso.v31i1.2148, «Migración y trabajo, una revisión del contexto chileno actual». No se ha podido descargar la página del artículo. Detalle: La página ha respondido con el código 404.
+
+10.7770/cuhso.v31i1.2157, «Familias transnacionales desde el sur. Testimonios de la globalización en Chile. Javiera Cienfuegos Illanes (coord.). Ediciones Universidad Academia de Humanismo Cristiano». No se ha podido descargar la página del artículo. Detalle: La página ha respondido con el código 404.
+
+10.7770/cuhso.v31i1.2275, «Entre el prosperar colectivo de Ellas Hacen y la meritocracia individual del Hacemos Futuro Juntas». No se ha podido descargar la página del artículo. Detalle: La página ha respondido con el código 404.
+
+10.7770/cuhso.v31i1.2279, «Las paradojas del trabajo actoral en teatro independiente. Un estudio comparativo de las representaciones sociales sobre teatro independiente de actores y actrices de La Plata entre los orígenes y la actualidad». No se ha podido descargar la página del artículo. Detalle: La página ha respondido con el código 404.
+
+10.7770/cuhso.v31i1.2284, «El giro creativo en el trabajo contemporáneo: una mirada crítica desde las condiciones laborales del campo cultural de Santiago de Chile». No se ha podido descargar la página del artículo. Detalle: La página ha respondido con el código 404.
+
+10.7770/cuhso.v31i1.2285, «Las juventudes trabajadoras en el comercio minorista tradicional: gestión, control y resistencias». No se ha podido descargar la página del artículo. Detalle: La página ha respondido con el código 404.
+
+10.7770/cuhso.v31i1.2296, «Tácticas y estrategias de mujeres trabajadoras del sector servicios en Chile frente al conflicto: participación sindical, empleo y cuidados». No se ha podido descargar la página del artículo. Detalle: La página ha respondido con el código 404.
+
+10.7770/cuhso.v31i1.2411, «Inserción laboral en actividades por cuenta propia. Migrantes wixaritari y mazahuas en Aguascalientes, México, 1960-2020». No se ha podido descargar la página del artículo. Detalle: La página ha respondido con el código 404.
+
+10.7770/cuhso.v31i1.2412, «Mecanismos de control de la plataforma Uber sobre sus conductores asociados en la Región Metropolitana de Chile». No se ha podido descargar la página del artículo. Detalle: La página ha respondido con el código 404.
+
+10.7770/cuhso.v31i1.2413, «Desempleo y flexibilización: Alemania Federal y Chile frente a las transformaciones del capitalismo (Décadas de 1970 y 1980)». No se ha podido descargar la página del artículo. Detalle: La página ha respondido con el código 404.
+
+10.7770/cuhso.v31i1.2414, «Relaciones de reconocimiento en un trabajo feminizado. Ejes analíticos a partir del caso de mujeres operarias de la industria chilena del retail». No se ha podido descargar la página del artículo. Detalle: La página ha respondido con el código 404.
+
+10.7770/cuhso.v31i1.2415, «De la subordinación asalariada a la caridad neoliberal: análisis crítico de la ley de inclusión laboral de personas con discapacidad en Chile». No se ha podido descargar la página del artículo. Detalle: La página ha respondido con el código 404.
+
+10.7770/cuhso.v31i1.2450, «La CUT y los clivajes sindicales en Chile. Entre la pretensión transformadora y la estrategia defensiva». No se ha podido descargar la página del artículo. Detalle: La página ha respondido con el código 404.
+
+10.7770/cuhso.v31i1.2624, «Editorial». No se ha podido descargar la página del artículo. Detalle: La página ha respondido con el código 404.
+
+10.7770/cuhso.v31i1.2676, «La autonomía individual bajo la tutela del binomio médico-jurídico: hacia una conceptualización histórico-relacional». No se ha podido descargar la página del artículo. Detalle: La página ha respondido con el código 404.
+
+### Argumentos : Revista de Crítica Social
+
+10.62174/arg.2025.10350, «Editorial». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: Remote end closed connection without response.
+
+10.62174/arg.2025.10351, «Equipo editorial». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: Remote end closed connection without response.
+
+10.62174/arg.2025.10369, «Representación y popularidad: la soberanía y la cuestión de la democracia en el Leviatán de Hobbes». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: Remote end closed connection without response.
+
+10.62174/arg.2025.10370, «Problemas metodológicos para la medición de la superpoblación relativa: las porciones encubiertas bajo la categoría de “inactivos” y el sesgo en los países de capitalismo avanzado». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: Remote end closed connection without response.
+
+10.62174/arg.2025.10371, «El rol del agro frente a las crisis sociales. Representaciones de las/os argentinas/os durante la pandemia del Covid-19». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: Remote end closed connection without response.
+
+10.62174/arg.2025.10372, «Redes socio-institucionales e innovación, una estrategia para el desarrollo del territorio. El caso del Centro de Investigación y Desarrollo en Iglesia, 2021-2024». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: Remote end closed connection without response.
+
+10.62174/arg.2025.10374, «Frente al abismo. Estrategia sanitaria en Residencias para Personas Mayores durante la pandemia por COVID-19 en Argentina (2020)». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: Remote end closed connection without response.
+
+10.62174/arg.2025.10375, «Modelos interpretativos de la discapacidad y formas de autonomía en normativas argentinas sobre la certificación de la discapacidad, la declaración de capacidad/incapacidad jurídica y la oferta de servicios y prestaciones». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: Remote end closed connection without response.
+
+10.62174/arg.2025.10380, «Número 31». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: Remote end closed connection without response.
+
+10.62174/arg.2025.10808, «Sociedad y Tecnologías Digitales: problemáticas, desafíos y nuevos debates en la era de las plataformas, los algoritmos y la Inteligencia Artificial». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: Remote end closed connection without response.
+
+10.62174/arg.2025.10809, «La dataesfera como hiperobjeto: hacia una crítica de sus implicaciones ontoepistémicas.». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: Remote end closed connection without response.
+
+10.62174/arg.2025.10810, «Las plataformas en el capitalismo contemporáneo: hacia una crítica de las transformaciones en la cultura, el trabajo y la producción». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: Remote end closed connection without response.
+
+10.62174/arg.2025.10811, «Ser influencer. Cuerpos publicitarios, liderazgo y reconocimiento en el capitalismo global». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: Remote end closed connection without response.
+
+10.62174/arg.2025.10812, «La constitución de subjetividad en Spotify. Plataforma de streaming, recomendaciones algorítmicas y escucha musical». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: Remote end closed connection without response.
+
+10.62174/arg.2025.10813, «“Mujeres hechas y derechas”: La construcción político-identitaria de las influencers políticas de La Libertad Avanza en Instagram.». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: Remote end closed connection without response.
+
+10.62174/arg.2025.10814, «Notas sobre la deconstrucción del “fandom digital” en/desde América Latina». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: Remote end closed connection without response.
+
+10.62174/arg.2025.10815, «La idea de Mundo Común en la opinión pública juvenil del AMBA». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: Remote end closed connection without response.
+
+10.62174/arg.2025.10816, «Los vínculos con las tecnologías entendidos como adicción. Primera parte: antes de la difusión del teléfono celular inteligente». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: Remote end closed connection without response.
+
+10.62174/arg.2025.10817, «Hacia la apropiación creativa de tecnología en un centro socioeducativo ambulatorio de privación de la libertad». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: Remote end closed connection without response.
+
+10.62174/arg.2025.10821, «Personas mayores y uso de tecnologías digitales: las miradas de los y las asistentes a dos Centros de Día de CABA durante la pandemia y post pandemia». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: Remote end closed connection without response.
+
+10.62174/arg.2025.10822, «Más allá de los repartidores: la gestión algorítmica ejercida por las plataformas de reparto de comida sobre los proveedores». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: Remote end closed connection without response.
+
+10.62174/arg.2025.10823, «Las mujeres en el mercado de trabajo de software en Argentina: un mapeo de las brechas y barreras de género». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: Remote end closed connection without response.
+
+10.62174/arg.2025.10824, «El yugo invisible de la gestión algorítmica. Un análisis comparado de la organización y condiciones de trabajo de trabajadores dependientes y unipersonales en Pedidos Ya, Uruguay». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: Remote end closed connection without response.
+
+10.62174/arg.2025.10825, «Exploraciones preliminares sobre el trabajo sexual mediado por plataformas en la Argentina pospandemia». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: Remote end closed connection without response.
+
+10.62174/arg.2025.10828, «Habermas y las transformaciones estructurales de la esfera pública: la digitalización de los medios como desilustración de la opinión pública». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: Remote end closed connection without response.
+
+10.62174/arg.2025.10829, «Dilemas y trampas en la gobernanza urbana de plataformas: apuntes para salir del laberinto». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: Remote end closed connection without response.
+
+10.62174/arg.2025.10831, «Tecnologías digitales, Estado y Movimiento Obrero: Transformaciones y desafíos bajo una gubernamentalidad algorítmica». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: Remote end closed connection without response.
+
+10.62174/arg.2025.10832, «Lineamientos de política pública para el metaverso como proceso de convergencia tecnológica: un aporte desde el enfoque de redes de política pública». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: Remote end closed connection without response.
+
+10.62174/arg.2025.10836, «Norbert Elías y el cambio conceptual de la relación individuo-sociedad: una ilustración empírica en trabajadores y estudiantes universitarios en Argentina del siglo veintiuno». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: Remote end closed connection without response.
+
+10.62174/arg.2025.10837, «Movilidad cotidiana y desigualdades sociales en áreas de expansión de Mar del Plata y La Plata. El impacto diferencial de la pandemia en barrios cerrados, populares y de clases medias». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: Remote end closed connection without response.
+
+10.62174/arg.2025.10838, «Qué significa salir. Un análisis temático-narrativo de la salida del armario de varones gays con perspectiva intergeneracional». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: Remote end closed connection without response.
+
+10.62174/arg.2025.10839, «Sociedad y tecnologías digitales: problemáticas, desafíos y nuevos debates en la era de las plataformas, los algoritmos y la inteligencia artificial». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: Remote end closed connection without response.
+
+### Bitácora Urbano Territorial
+
+10.15446/bitacora.v35n3.119756, «Dynamics of rural land conversion to urban land. Territorial analysis and prospective». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.15446/bitacora.v35n3.119773, «El Macroproyecto de Interés Social Nacional Buenaventura: disputas territoriales y urbanas». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.15446/bitacora.v35n3.120125, «Modelo habitacional participativo para comunidades kichwas amazónicas». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.15446/bitacora.v35n3.120130, «Habitar como cuidar. Espacialidades relacionales en un asentamiento informal de Coquimbo, Chile». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.15446/bitacora.v35n3.120138, «Inteligencia híbrida e innovación urbana. Análisis de Casos». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.15446/bitacora.v35n3.120142, «Densificación urbana en ciudades intermedias de zonas áridas. Interacciones forma-temperatura en el área metropolitana de Mendoza». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.15446/bitacora.v35n3.120146, «La relación centro-periferia en la planeación regional antioqueña». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.15446/bitacora.v35n3.120152, «Habitar el borde: políticas públicas y segregación socioespacial». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.15446/bitacora.v35n3.122005, «Deuda habitacional como mecanismo socioespacial. Aprendizajes desde Solanda y Carapungo». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.15446/bitacora.v35n3.122210, «Financiarización habitacional: hacia una economía política del hábitat y la justicia socioespacial en América Latina». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.15446/bitacora.v35n3.122418, «Renta inmobiliaria y negación del derecho a la vivienda: el caso del estado de Morelos (México)». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.15446/bitacora.v35n3.122452, «Mercado de aluguéis e acessibilidade habitacional em Curitiba (2014-2025)». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.15446/bitacora.v35n3.122465, «De ciudadelas a microapartamentos: Vivienda de Interés Social en Bogotá 2005-2022». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.15446/bitacora.v35n3.122521, «Nuestras viviendas en sus carteras de inversión. Centralización socioespacial del stock de Airbnb en Medellín». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.15446/bitacora.v35n3.122529, «Vivienda, trabajo y reproducción social en la urbanización popular. Hacer ciudad y sostener la vida». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.15446/bitacora.v35n3.122534, «La vivienda como artefacto socio-material en Manizales: aspiraciones, apropiación y mercado». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.15446/bitacora.v35n3.122565, «Vivienda adecuada e interseccionalidad en México. Etnicidad y género en zonas urbanas». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.15446/bitacora.v35n3.122787, «Concentración de capital para la producción de vivienda en el Borde Metropolitano de Bogotá: un enfoque multiescalar del oligopolio inmobiliario». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.15446/bitacora.v35n3.123123, «Financiarización de la vivienda y plataformas digitales en México: de la propiedad al alquiler». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.15446/bitacora.v35n3.124501, «La crítica, otra manera de pensar la vivienda». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.15446/bitacora.v36n1.120010, «Towards antifragile cities: a systematic literature review». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.15446/bitacora.v36n1.120060, «Dinámica espacial y uso del suelo en Villahermosa, Tabasco (México): un estudio de escenarios futuros y pasados». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.15446/bitacora.v36n1.120120, «Más que agua, análisis multidimensional del paisaje fluvial: hacia una rehabilitación integral en Fusagasugá, Colombia». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.15446/bitacora.v36n1.120121, «Resistencias a la foodificación urbana: comida al paso y venta nocturna en Temuco y Maipú, Chile». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.15446/bitacora.v36n1.120123, «Relación entre pobreza multidimensional y morfología urbana a partir de imágenes satelitales: un caso de estudio para Cúcuta, Colombia». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.15446/bitacora.v36n1.120182, «Desafíos de justicia hidroterritorial en la relación urbano-rural: El caso de Bogotá y Fómeque». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.15446/bitacora.v36n1.122006, «Tránsito migratorio y conflictividad urbana. Paz imperfecta en el norte de México». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.15446/bitacora.v36n1.122312, «Autoconstrucción, género y política habitacional en barrios populares argentinos: el Programa Mi Pieza (2021–2023)». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.15446/bitacora.v36n1.122364, «Habitat e habitar: a urgência de uma poética urbana. Henri Lefebvre e as práticas de apropriação no Brasil». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.15446/bitacora.v36n1.122460, «Revalorización inmobiliaria mediante la brecha de renta en barrios tradicionales de Santiago de Querétaro, México». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.15446/bitacora.v36n1.122530, «Gobernanza interna y desilusión en edificios de Santiago». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.15446/bitacora.v36n1.122542, «Vivienda crecedera en Bolivia: patrones espaciales y desencadenantes». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.15446/bitacora.v36n1.122543, «Modernidad y hábitat en Bogotá (1949-1972): una mirada crítica a 15 casos de vivienda colectiva». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.15446/bitacora.v36n1.122558, «Mazatlán, Sinaloa 2001-2021: expansión urbana y transformación territorial». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.15446/bitacora.v36n1.122566, «Viviendas campesinas adaptadas al cambio climático con bioingeniería». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.15446/bitacora.v36n1.123155, «New housing markets and affordability gaps in Mexico City». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.15446/bitacora.v36n1.126769, «Cuestión residencial: necesidades sociales, políticas de vivienda y alternativas para habitar». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.15446/bitacora.v36n2.122025, «Transporte público y desarrollo urbano sostenible en Paraguay». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.15446/bitacora.v36n2.122089, «La convivencia en espacios públicos de ciudades latinoamericanas: Validez y fiabilidad del cuestionario para su evaluación.». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.15446/bitacora.v36n2.122261, «Habitabilidad de la vivienda y vulnerabilidades urbanas. Dimensiones psicosociales y ambientales.». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.15446/bitacora.v36n2.122499, «Estrategias proyectuales y constructivas para la ampliación. Casas que crecen». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.15446/bitacora.v36n2.122527, «Enclaves verticales y formación de redes socioeconómicas: Torres residenciales de Estación Central en Santiago de Chile». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.15446/bitacora.v36n2.122537, «Cronología de las políticas habitacionales y transformaciones post-ocupacionales. Análisis de la vivienda social (General Pueyrredon, Argentina)». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.15446/bitacora.v36n2.122718, «Estado y mercado en la asignación de precios del suelo: la periferia sur de la Región Metropolitana de Buenos Aires, Argentina». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.15446/bitacora.v36n2.123801, «Relación entre vivienda colectiva y perfil urbano. Expresión en centro de Córdoba, Argentina». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.15446/bitacora.v36n2.123892, «El paisaje hídrico de la Represa Billings: renovación urbana, conflicto socioambiental y vulnerabilidad climática». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.15446/bitacora.v36n2.123912, «La conversión de oficinas a vivienda en España. Análisis comparativo de estudios de caso». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.15446/bitacora.v36n2.124010, «Quito, la vivienda imposible: especulación y desigualdad estructural». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+### Forum Sociológico
+
+10.4000/130um, «Introduction : interdisciplinarity, human ecology, the social and the environmental sciences». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.4000/130un, «Scientific reviewers (2023/2024)». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.4000/130uo, «Aproximación a los estudios transdisciplinares de Ecología Humana en Paraguay». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.4000/130up, «The importance of human ecology to the understanding of women´s homelessness». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.4000/130uq, «Saint Joan of the Stockyards meets the Chicago School : challenging the discussion of urban space in Human Ecology». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.4000/130ur, «A pluralidade de interesses e a sobreposição de instituições na gestão dos baldios do Parque Nacional da Peneda-Gerês». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.4000/130us, «O corpo múltiplo da Natureza : abordagens praxiológicas da crise ecológica». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.4000/130ut, «In search of human ecology : memories, insights, and wider points of view (a personal journey)». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.4000/130uu, «Humanos e paisagem das terras da Gândara.Uma climocrítica de Casa na Duna (1943) e Finisterra (1978)». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.4000/130uv, «Desafios interdisciplinares e intersetoriais da vigilância em saúde humana e animal». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.4000/14ri2, «Neoliberalismo urbano no século XXI: da exclusão e lutas pelo direito à cidade». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.4000/14ri3, «Gentrificação, turismo e a perda do direito à cidade: o caso do antigo Hospital da Marinha». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.4000/14ri4, «O neoliberalismo urbano e o direito das pessoas com deficiência ao usufruto à cidade». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.4000/14ri5, «Uma análise sobre a construção teórica, reivindicação e o direito à cidade em Moçambique». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.4000/14ri6, «Saliency lends a hand: the changing face of global squatters' social movements». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.4000/14ri7, «Lefebvre-Freire 1968 connections: crossing the right to the city with the Pedagogy of the Oppressed». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.4000/14ri8, «The struggle to gain access: a theoretical effort to contribute to the political programme of women's right to the city». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.4000/14ri9, «Dé[vide]alisation: Fanon et Lefebvre sur la gentrification urbaine». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.4000/14ria, «Um olhar sobre o envelhecimento e a participação das pessoas idosas na cidade do Porto». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.4000/15kxg, «Sair da “Casa” – A participação juvenil num projeto de intervenção comunitária». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+### 2i Revista de Estudos de Identidade e Intermedialidade
+
+10.21814/2i.6006, «absurdo desconcertante no conto “Os homens que se transformavam em barbantes” de Ignácio de Loyola Brandão». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.21814/2i.6009, «humor y lo fantástico en la reconstrucción del relato histórico de la Transición española». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.21814/2i.6124, «Game of Thrones, o último ponto de encontro televisivo». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.21814/2i.6148, «humor, o fantástico, a queda das máscaras e a crítica social em "Incidente em Antares", de Erico Verissimo». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.21814/2i.6151, «Entre o fantástico e o real maravilhoso». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.21814/2i.6175, «Rostos que questionam a identidade feminina». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.21814/2i.6195, «“The vixens, the she-wolves, the birds, the witches”». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.21814/2i.6199, «Nós, os Monstros». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.21814/2i.6211, «Asterion, the myth reinvented by Borges with burlesque overtones». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.21814/2i.6214, «humor no conto fantástico de Cortázar e de Lygia Fagundes Telles». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.21814/2i.6272, «cabeza borradora de Álvaro Cunqueiro». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.21814/2i.6279, «Representações fantásticas». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.21814/2i.6450, «Intersubjectivity and language in the clinical encounter». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.21814/2i.6492, «David Roas (org). Historia de lo fantástico en las narrativas latinoamericanas II (1940-2022)». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.21814/2i.6499, «A cultura da convergência e as relações intermidiáticas em 'Assassins's Creed'». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.21814/2i.6605, «How can creative writing and reading aloud transform the stories told by people in fertility treatment?». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.21814/2i.6615, «Medicine and Literature». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.21814/2i.6617, «Quando Werther vai à terapia». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.21814/2i.6627, «‘Cânceres, tumores, viados que proliferam’». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.21814/2i.6640, «Editorial». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.21814/2i.6641, «“O imaxinario é a materia da narración clásica"». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.21814/2i.6649, «Intermediality Sudies (an overview)». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.21814/2i.6687, «As práticas de conexão com a natureza como caminhos para o autocuidado e o bem-estar dos profissionais de saúde no Estado de São Paulo, Brasil». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.21814/2i.6727, «When the 'herstory' deconstructs the case of hysteria...». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.21814/2i.6731, «A presença que cura». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.21814/2i.6855, «Vida humana e completude». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.21814/2i.6900, «Former le regard, transformer le soin par la Littérature». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.21814/2i.7002, «A xeografía e a cultura inflúen moito en todos os ámbitos sociais e, dende sempre, na saúde». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.21814/2i.7012, «Jean-Nicolas Illouz. 'Mallarmé entre les arts'». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.21814/2i.7023, «Like a Fish, Like a Dog». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.21814/2i.7042, «Kaoutar Harchi. 'Ainsi l’animal et nous'». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.21814/2i.7043, «Vozes de burro não chegam ao céu?». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.21814/2i.7057, «Editorial». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.21814/2i.7115, «A mulher submissa». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.21814/2i.7159, «Considerações sobre o retrato na pintura». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.21814/2i.7163, «Identidades esvaziadas e espaços refratários». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.21814/2i.7167, «Quando a cigarra já não canta». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.21814/2i.7212, «“Mas a garra nunca era posta a trabalhar sem resultado”». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.21814/2i.7244, «Kafka’s Animals speak back. Zoopoetics, alterity, and the limits of the Human». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.21814/2i.7276, «Vice Versa : Human and Ape in Kafka.». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.21814/2i.7307, «Animal Construtor – Animal Lógico». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.21814/2i.7322, «“Eu também sei rir”». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.21814/2i.7522, «Editorial». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+### Conjeturas Sociologicas
+
+10.66778/10.66778/cs.v14n39.01, «Narrativas transnacionales». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: Tunnel connection failed: 502 Bad Gateway.
+
+10.66778/10.66778/cs.v14n39.02, «Algunas reflexiones sobre los programas sociales destinados a jóvenes en Argentina durante 2024». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: Tunnel connection failed: 502 Bad Gateway.
+
+10.66778/10.66778/cs.v14n39.03, «El Salvador». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: Tunnel connection failed: 502 Bad Gateway.
+
+10.66778/10.66778/cs.v14n39.04, «La Sociología y las Ciencias Sociales en El Salvador». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: Tunnel connection failed: 502 Bad Gateway.
+
+10.66778/10.66778/cs.v14n39.05, «El discurso de la salud mental desde la mirada de la Biopolítica y el Biopoder». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: Tunnel connection failed: 502 Bad Gateway.
+
+10.66778/10.66778/cs.v14n39.06, «TikTok como espacio de reproducción del racismo: discursos contra los pueblos indígenas en el contexto de las protestas ecuatorianas de 2025». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: Tunnel connection failed: 502 Bad Gateway.
+
+10.66778/10.66778/cs.v14n39.07, «La significancia de la paxko jöta o enramada para el pueblo yoreme». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: Tunnel connection failed: 502 Bad Gateway.
+
+10.66778/10.66778/cs.v14n39.08, «Aproximación a la historia oral del Ejido Zeferino Paredes, Sinaloa, México. La importancia de la preservación de la memoria para las nuevas generaciones». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: Tunnel connection failed: 502 Bad Gateway.
+
+10.66778/10.66778/cs.v14n39.09, «Análisis narratológico de “Bosquejo”, de Élmer Mendoza». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: Tunnel connection failed: 502 Bad Gateway.
+
+10.66778/10.66778/cs.v14n39.10, «Teletrabajo durante la pandemia por COVID 19 en educación superior». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: Tunnel connection failed: 502 Bad Gateway.
+
+10.66778/cs.v13n38.01, «Prácticas pedagógicas inclusivas en la modalidad virtual de aprendizaje para estudiantes con discapacidad auditiva». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: Tunnel connection failed: 502 Bad Gateway.
+
+10.66778/cs.v13n38.02, «Asociación entre capacidades docentes, entornos familiares y prácticas vecinales con la asistencia del estudiantado en una unidad de un Colegio Militarizado». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: Tunnel connection failed: 502 Bad Gateway.
+
+10.66778/cs.v13n38.03, «Rediseño curricular». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: Tunnel connection failed: 502 Bad Gateway.
+
+10.66778/cs.v13n38.04, «Charangas de Bejucal, necesidad de su evaluación para la preservación como patrimonio cultural de la nación cubana». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: Tunnel connection failed: 502 Bad Gateway.
+
+10.66778/cs.v13n38.05, «La migración México-Belice a partir del establecimiento de la frontera binacional». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: Tunnel connection failed: 502 Bad Gateway.
+
+10.66778/cs.v13n38.06, «Migración irregular y política migratoria de México». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: Tunnel connection failed: 502 Bad Gateway.
+
+10.66778/cs.v13n38.07, «Desinterés político y deterioro de la participación en acciones de protesta». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: Tunnel connection failed: 502 Bad Gateway.
+
+10.66778/cs.v13n38.08, «La psicología de la víctima de un fraude financiero». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: Tunnel connection failed: 502 Bad Gateway.
+
+10.66778/cs.v13n38.09, «Polarización sentimental». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: Tunnel connection failed: 502 Bad Gateway.
+
+10.66778/cs.v13n38.10, «Condiciones alimentarias y comportamiento adolescente: efectos en la conducta, el aprendizaje y la interacción social desde un enfoque sociocultural». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: Tunnel connection failed: 502 Bad Gateway.
+
+10.66778/cs.v13n38.11, «El Corredor Seco Centroamericano». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: Tunnel connection failed: 502 Bad Gateway.
+
+10.66778/cs.v14n40.02, «OSCILACIONES DE LA TEORÍA Y EL MUNDO DE LA VIDA». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: Tunnel connection failed: 502 Bad Gateway.
+
+10.66778/cs.v14n40.03, «La economía política del signo». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: Tunnel connection failed: 502 Bad Gateway.
+
+10.66778/cs.v14n40.04, «Subjetividades sociales y complejidad». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: Tunnel connection failed: 502 Bad Gateway.
+
+10.66778/cs.v14n40.05, «El modo de relación gobernantes-gobernados». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: Tunnel connection failed: 502 Bad Gateway.
+
+10.66778/cs.v14n40.06, «El valor heurístico de los patrones de interacción social propuesto por Pedro Luis Sotolongo Codina». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: Tunnel connection failed: 502 Bad Gateway.
+
+10.66778/cs.v14n40.07, «Tetraléctica y pensamiento complejo». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: Tunnel connection failed: 502 Bad Gateway.
+
+10.66778/cs.v14n40.08, «La vida cotidiana dentro del Leviatán, narrativa determinista de control frente a la resistencia social existencial en América Latina». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: Tunnel connection failed: 502 Bad Gateway.
+
+10.66778/cs.v14n40.09, «Prácticas alimentarias, cuerpo y complejidad». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: Tunnel connection failed: 502 Bad Gateway.
+
+10.66778/cs.v14n40.10, «El feminicidio como expresión extrema de la desigualdad». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: Tunnel connection failed: 502 Bad Gateway.
+
+10.66778/cs.v14n40.11, «Operacionalizar la cotidianidad». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: Tunnel connection failed: 502 Bad Gateway.
+
+10.66778/cs.v14n40.12, «Pedro Luis Sotolongo Codina y la construcción de una racionalidad compleja para el siglo XXI». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: Tunnel connection failed: 502 Bad Gateway.
+
+10.66778/cs.v14n40.13, «La elección de especialidades médicas como práctica social situada». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: Tunnel connection failed: 502 Bad Gateway.
+
+### Estudos de Sociologia
+
+10.51359/2317-5427.2025.266657, «Gramáticas afetivas e a crise da mediação: a fragilização da democracia pelo contato direto entre Estado e sociedade». No se ha podido descargar la página del artículo. Detalle: La respuesta supera el tamaño máximo admitido.
+
+10.51359/2317-5427.2025.267380, «A sagrada família na propaganda digital de influenciadores da extrema direita brasileira». No se ha podido descargar la página del artículo. Detalle: La respuesta supera el tamaño máximo admitido.
+
+10.51359/2317-5427.2025.267414, «Deus, algoritmo e conflito político: estratégias discursivas de deputados evangélicos no Instagram». No se ha podido descargar la página del artículo. Detalle: La respuesta supera el tamaño máximo admitido.
+
+10.51359/2317-5427.2025.267475, «Ideologia em movimento: Olavo de Carvalho e as raízes digitais da extrema direita no Brasil». No se ha podido descargar la página del artículo. Detalle: La respuesta supera el tamaño máximo admitido.
+
+10.51359/2317-5427.2025.267505, «Crise orgânica, governo Bolsonaro e negacionismo científico: uma análise sobre o uso do Youtube durante a pandemia de COVID-19». No se ha podido descargar la página del artículo. Detalle: La respuesta supera el tamaño máximo admitido.
+
+10.51359/2317-5427.2025.267720, «Vísceras neoliberais: resenha de Capitalismo Gore». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+### Arquitek
+
+10.47796/ra.2025i27.1200, «Conexión natural, humana y tecnológica. Un estudio de mapeo y percepción sonora en la provincia de San Martín (2022- 2023)». No se ha podido descargar la página del artículo. Detalle: La página ha respondido con el código 404.
+
+### Anuari d’Arquitectura i Societat
+
+10.4995/anuari.2023.19632, «Un centro formativo para una “nueva sociedad”: la consideración social en la arquitectura de la Universidad Laboral de Cheste». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.4995/anuari.2023.19653, «La ciudad como jardín. Elementos de una eutopía». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.4995/anuari.2023.19982, «Mid-Century Modern Exhibition Halls of Brno Exhibition Centre and Their Renovation». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.4995/anuari.2023.19984, «Hacia la rehabilitación de viviendas: demanda y necesidad social». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.4995/anuari.2023.20025, «Manuel: habitatge cooperatiu. Una experiència col·lectiva al voltant de les noves maneres d’habitar». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.4995/anuari.2023.20056, «Design urban climate-resilience with Nature-Based Solutions and Green Infrastructures. Challenges, issues, and best practices for neighborhood-scale regeneration». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.4995/anuari.2023.20118, «What Coast: resort or resource?». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.4995/anuari.2023.20132, «La cota cero como lugar de intercambio comunitario». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.4995/anuari.2023.20146, «How can we contribute to solving the sustainability puzzle with bioclimatic architecture?». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.4995/anuari.2023.20297, «Sostenibilidad y territorio. Una lectura según las categorías vitruvianas». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.4995/anuari.2023.20310, «Cabanyal. Año 0. Estrategias de futuro». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.4995/anuari.2023.20471, «Existential homelessness. Placeless and nostalgia in the age of mobility». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.4995/anuari.2023.20478, «To Form or Not to Form: What (to) Form? An Unabridged List of Sustainables». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.4995/anuari.2024.21151, «Cartography of Carioca environments: mapping Rio de Janeiro through the geolocation of consumption». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.4995/anuari.2024.22061, «Desarraigo, arquitectura y sociedad. La iglesia de Pueblica de Campeán (Zamora)». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.4995/anuari.2024.22078, «The architecture of the future: neuroscience and design for human spaces». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.4995/anuari.2024.22108, «Live in new normal. Space envision under post-pandemic». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.4995/anuari.2024.22118, «José Luis Romany, in memoriam. La actualidad de una pregunta irredenta». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.4995/anuari.2024.22120, «The fertility of urban ruins: Obsolete industrial cities as ecosystem holders to activate circular economy». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.4995/anuari.2024.22145, «Imperfect streetscapes. Design climate-adaptive nature-based urban regeneration». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.4995/anuari.2024.22160, «Geocrítica i maternitat: arquitectura distòpica en Mater (2022) i The Pod Generation (2023)». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.4995/anuari.2024.22190, «Políticas de vivienda y guetificación en el patrimonio público de la Comunidad Valenciana». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.4995/anuari.2024.22205, «El retorno del carbón. Experiencias de recuperación en las cuencas mineras asturianas y turolenses». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.4995/anuari.2024.22222, «Cinc consideracions sobre la ciutat imperfecta. El cas de València». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.4995/anuari.2025.23985, «Espais suggerits. Els dibuixos d’arquitectura de Joaquín Sorolla com a imaginari alternatiu.». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.4995/anuari.2025.24160, «Los asentamientos de la Línea P. De la mirada proyectual al valor patrimonial». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.4995/anuari.2025.24176, «Topping Up: Typologies of North American Urbanism». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.4995/anuari.2025.24188, «Ildefons Cerdà, els eixamples de Barcelona i València i les superilles». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.4995/anuari.2025.24206, «L’escola franquista en la narrativa catalana com a heterotopia». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.4995/anuari.2025.24221, «Ciutat per a qui? Lectures crítiques del paisatge urbà en la LIJ contemporània.». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.4995/anuari.2025.24223, «Al otro lado del bosque: Exploraciones cartográfi cas sobre la transformabilidad como respuesta a la vulnerabilidad a incendios forestales en paisajes suburbanos del Área Metropolitana de Barcelona». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.4995/anuari.2025.24224, «Cuerpo-tierra. Micropolítica de la relación en la Amazonía ecuatoriana». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.4995/anuari.2025.24226, «Las tecnologías y el desarrollo urbano de Cienfuegos durante el siglo XIX». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.4995/anuari.2025.24232, «Teaching sustainability in the built environment innovatively: An architectural technologist perspective». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.4995/anuari.2025.24237, «From performance to people: A salutogenic approach to retrofi t assessment». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.4995/anuari.2025.24249, «El urbanismo tactico, alternativa en la transformación urbana: Encarnación, una reflexión». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.4995/anuari.2025.24273, «Sobre el derecho al paisaje: resistencias silenciadas y maneras de habitar un territorio saqueado». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.4995/anuari.2025.24316, «ReclaiMEDlanD(scapes): An outsider design experiment for adaptive futures». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.4995/anuari.2025.24391, «Del parque infantil al paisaje cultural. Una visión humanista del entorno». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.4995/anuari.2025.24412, «Construir, habitar, cremar: matèria i pensament en les falles de La Punta». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.4995/anuari.2025.24565, «Procesos de expulsión espacial en la Plaza de Abastos de Santiago de Compostela». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.
+
+10.4995/anuari.2025.24818, «Autoconstrucción en Guinea Ecuatorial: revisión de la producción académica». No se ha podido descargar la página del artículo. Detalle: Sin conexión con el servidor: [Errno 104] Connection reset by peer.

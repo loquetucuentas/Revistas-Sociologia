@@ -1,0 +1,7015 @@
+{
+ "version": 1,
+ "recogido": "2026-10-18T11:39:55+00:00",
+ "doi": "10.24215/23468904e207",
+ "titulo": "Efectos diferenciales del sector ocupacional en las inserciones laborales de calidad y en los ingresos, Argentina (2016-2023)",
+ "revista": "2346-8904",
+ "numero": "n33-2026",
+ "licencia": {
+  "codigo": "by-nc-sa",
+  "nombre": "CC BY-NC-SA 4.0",
+  "nombre_completo": "Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional",
+  "url": "https://creativecommons.org/licenses/by-nc-sa/4.0",
+  "url_legal": "https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.es"
+ },
+ "fuente": {
+  "url": "https://www.cuestionessociologia.fahce.unlp.edu.ar/article/download/CSe207/21640?inline=1",
+  "formato": "HTML",
+  "plataforma": "ojs-galerada",
+  "pagina": "https://www.cuestionessociologia.fahce.unlp.edu.ar/article/view/CSe207"
+ },
+ "autores_cita": [
+  {
+   "apellidos": "Fachal",
+   "nombre_pila": "Maria Noel",
+   "nombre": null
+  }
+ ],
+ "avisos_derechos": [
+  "Derechos de autor 2026 ",
+  "Esta obra está bajo una licencia internacional Creative Commons Atribución-NoComercial-CompartirIgual 4.0. La cesión de derechos no exclusivos implica también la autorización por parte de los autores para que el trabajo sea alojado en los repositorios institucionales UNLP (Sedici y Memoria Académica) y difundido a través de las bases de datos que los editores consideren apropiadas para su indización, con miras a incrementar la visibilidad de la revista y sus autores."
+ ],
+ "idioma_principal": "es",
+ "indice": [],
+ "vueltas": {
+  "t-redalyc_775445003_ref31": "t-llamada-redalyc_775445003_ref31-1",
+  "t-redalyc_775445003_ref32": "t-llamada-redalyc_775445003_ref32-1",
+  "t-fn20": "t-llamada-fn20-1",
+  "t-fn21": "t-llamada-fn21-1",
+  "t-redalyc_775445003_ref13": "t-llamada-redalyc_775445003_ref13-1",
+  "t-redalyc_775445003_ref24": "t-llamada-redalyc_775445003_ref24-1",
+  "t-redalyc_775445003_ref20": "t-llamada-redalyc_775445003_ref20-1",
+  "t-fn22": "t-llamada-fn22-1",
+  "t-redalyc_775445003_ref45": "t-llamada-redalyc_775445003_ref45-1",
+  "t-redalyc_775445003_ref46": "t-llamada-redalyc_775445003_ref46-1",
+  "t-redalyc_775445003_ref26": "t-llamada-redalyc_775445003_ref26-1",
+  "t-redalyc_775445003_ref9": "t-llamada-redalyc_775445003_ref9-1",
+  "t-redalyc_775445003_ref4": "t-llamada-redalyc_775445003_ref4-1",
+  "t-redalyc_775445003_ref8": "t-llamada-redalyc_775445003_ref8-1",
+  "t-redalyc_775445003_ref15": "t-llamada-redalyc_775445003_ref15-1",
+  "t-redalyc_775445003_ref37": "t-llamada-redalyc_775445003_ref37-1",
+  "t-redalyc_775445003_ref22": "t-llamada-redalyc_775445003_ref22-1",
+  "t-redalyc_775445003_ref3": "t-llamada-redalyc_775445003_ref3-1",
+  "t-redalyc_775445003_ref11": "t-llamada-redalyc_775445003_ref11-1",
+  "t-redalyc_775445003_ref33": "t-llamada-redalyc_775445003_ref33-1",
+  "t-redalyc_775445003_ref1": "t-llamada-redalyc_775445003_ref1-1",
+  "t-redalyc_775445003_ref43": "t-llamada-redalyc_775445003_ref43-1",
+  "t-redalyc_775445003_ref35": "t-llamada-redalyc_775445003_ref35-1",
+  "t-redalyc_775445003_ref36": "t-llamada-redalyc_775445003_ref36-1",
+  "t-redalyc_775445003_ref14": "t-llamada-redalyc_775445003_ref14-1",
+  "t-redalyc_775445003_ref7": "t-llamada-redalyc_775445003_ref7-1",
+  "t-redalyc_775445003_ref34": "t-llamada-redalyc_775445003_ref34-1",
+  "t-redalyc_775445003_ref29": "t-llamada-redalyc_775445003_ref29-1",
+  "t-redalyc_775445003_ref44": "t-llamada-redalyc_775445003_ref44-1",
+  "t-fn23": "t-llamada-fn23-1",
+  "t-redalyc_775445003_ref28": "t-llamada-redalyc_775445003_ref28-1",
+  "t-redalyc_775445003_ref18": "t-llamada-redalyc_775445003_ref18-1",
+  "t-gt1": "t-llamada-gt1-1",
+  "t-fn24": "t-llamada-fn24-1",
+  "t-fn25": "t-llamada-fn25-1",
+  "t-fn26": "t-llamada-fn26-1",
+  "t-redalyc_775445003_ref41": "t-llamada-redalyc_775445003_ref41-1",
+  "t-fn27": "t-llamada-fn27-1",
+  "t-redalyc_775445003_ref21": "t-llamada-redalyc_775445003_ref21-1",
+  "t-redalyc_775445003_ref6": "t-llamada-redalyc_775445003_ref6-1",
+  "t-gt2": "t-llamada-gt2-1",
+  "t-redalyc_775445003_ref25": "t-llamada-redalyc_775445003_ref25-1",
+  "t-redalyc_775445003_ref19": "t-llamada-redalyc_775445003_ref19-1",
+  "t-gt3": "t-llamada-gt3-1",
+  "t-redalyc_775445003_ref38": "t-llamada-redalyc_775445003_ref38-1",
+  "t-redalyc_775445003_ref12": "t-llamada-redalyc_775445003_ref12-1",
+  "t-redalyc_775445003_ref2": "t-llamada-redalyc_775445003_ref2-1",
+  "t-fn28": "t-llamada-fn28-1",
+  "t-redalyc_775445003_ref17": "t-llamada-redalyc_775445003_ref17-1",
+  "t-gt4": "t-llamada-gt4-1",
+  "t-gt7": "t-llamada-gt7-1",
+  "t-redalyc_775445003_ref42": "t-llamada-redalyc_775445003_ref42-1",
+  "t-fn29": "t-llamada-fn29-1",
+  "t-gt5": "t-llamada-gt5-1",
+  "t-fn30": "t-llamada-fn30-1",
+  "t-redalyc_775445003_ref39": "t-llamada-redalyc_775445003_ref39-1",
+  "t-gt8": "t-llamada-gt8-1",
+  "t-gt6": "t-llamada-gt6-1",
+  "t-redalyc_775445003_ref16": "t-llamada-redalyc_775445003_ref16-1",
+  "t-redalyc_775445003_ref27": "t-llamada-redalyc_775445003_ref27-1",
+  "t-redalyc_775445003_ref23": "t-llamada-redalyc_775445003_ref23-1",
+  "t-redalyc_775445003_ref5": "t-llamada-redalyc_775445003_ref5-1",
+  "t-redalyc_775445003_ref30": "t-llamada-redalyc_775445003_ref30-1"
+ },
+ "contenido": [
+  "\n",
+  [
+   "span",
+   {
+    "id": "t-visor-cabecera"
+   },
+   "\n",
+   "\n",
+   [
+    "span",
+    {},
+    "\n",
+    [
+     "a",
+     {
+      "href": "https://www.cuestionessociologia.fahce.unlp.edu.ar/"
+     },
+     "\nCuestiones de Sociología"
+    ],
+    ", núm. 33, e207, febrero - julio 2026. ISSN 2346-8904",
+    [
+     "br",
+     {}
+    ],
+    "Universidad Nacional de La Plata",
+    [
+     "br",
+     {}
+    ],
+    "Facultad de Humanidades y Ciencias de la Educación",
+    [
+     "br",
+     {}
+    ],
+    "Departamento de Sociología"
+   ],
+   "\n",
+   "\n"
+  ],
+  "\n",
+  [
+   "span",
+   {
+    "id": "t-articulo"
+   },
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-front"
+    },
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-articulo-categoria"
+     },
+     "\n",
+     [
+      "p",
+      {},
+      "Artículos"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-articulo-meta"
+     },
+     "\n",
+     [
+      "p",
+      {},
+      "Efectos diferenciales del sector ocupacional en las inserciones laborales de calidad y en los ingresos, Argentina (2016-2023)"
+     ],
+     "\n\n"
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-articulo-acerca"
+     },
+     "\n",
+     [
+      "span",
+      {
+       "id": "t-ficha-general"
+      },
+      "\n",
+      [
+       "span",
+       {
+        "id": "t-autores-articulo"
+       },
+       "\n",
+       "\n",
+       "\n",
+       [
+        "a",
+        {
+         "href": "https://orcid.org/0009-0004-0610-4692"
+        },
+        [
+         "figura",
+         {}
+        ]
+       ],
+       "  ",
+       [
+        "span",
+        {},
+        "María Noel"
+       ],
+       " ",
+       [
+        "span",
+        {},
+        "Fachal"
+       ],
+       [
+        "br",
+        {}
+       ],
+       [
+        "span",
+        {},
+        " mnoelfachal@gmail.com"
+       ],
+       "\n",
+       "\n",
+       "\n",
+       [
+        "span",
+        {},
+        "Instituto de Investigaciones Gino Germani (UBA-CONICET), Facultad de Ciencias Sociales, Universidad de Buenos Aires"
+       ],
+       ", ",
+       [
+        "span",
+        {},
+        "Argentina"
+       ],
+       "\n",
+       "\n",
+       "\n"
+      ],
+      "\n",
+      [
+       "span",
+       {},
+       "Cita sugerida:"
+      ],
+      "\n",
+      [
+       "span",
+       {},
+       "Fachal, M. N. (2026). Efectos diferenciales del sector ocupacional en las inserciones laborales de calidad y en los ingresos, Argentina (2016-2023). ",
+       [
+        "i",
+        {},
+        "Cuestiones de Sociología, 33"
+       ],
+       ", e207. ",
+       [
+        "a",
+        {
+         "href": "https://doi.org/10.24215/23468904e207"
+        },
+        "https://doi.org/10.24215/23468904e207"
+       ]
+      ],
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "Resumen:\n\t\t\t\t\t\t\t                           "
+       ],
+       [
+        "span",
+        {},
+        "Este trabajo aborda el estudio de los cambios ocurridos en la estructura ocupacional de la sociedad argentina reciente entre 2016 y 2023 en clave de desigualdades sociolaborales –en materia de calidad del empleo y remuneraciones–. Se busca aportar a la comprensión de los procesos de divergencia sociolaboral que tienen lugar en países con modelos de desarrollo sometidos a desigualdades estructurales, tal como es el caso de la Argentina desde hace más de cuatro décadas. De esta forma, la hipótesis principal es que, dada la persistencia de un modelo de desarrollo económico-ocupacional heterogéneo que atraviesa de manera sistémica el funcionamiento de los mercados laborales urbanos, no habrían ocurrido convergencias sustantivas en la estructura social del trabajo en términos de la calidad de los empleos y las brechas de las remuneraciones al trabajo en los años bajo análisis, a la vez que los ciclos recesivos y de crisis operan acentuando estas desigualdades estructurales. Los hallazgos reflejan los efectos negativos de la segmentación en el mercado laboral. En los análisis se utilizan los micro-datos de la Encuesta Permanente de Hogares (EPH) del Instituto Nacional de Estadísticas y Censos (INDEC) en su modalidad continua."
+       ],
+       "\n"
+      ],
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "Palabras clave: "
+       ],
+       "Estructura sociolaboral, Regulación del empleo, Calificaciones ocupacionales, Remuneraciones.\n\t\t                         "
+      ],
+      [
+       "p",
+       {
+        "lang": "en"
+       },
+       [
+        "span",
+        {},
+        "Differential effects of the occupational sector on quality labor insertions and income, Argentina (2016-2023)"
+       ]
+      ],
+      "\n",
+      [
+       "p",
+       {
+        "lang": "en"
+       },
+       "\n",
+       [
+        "span",
+        {},
+        "Abstract:\n\t\t\t\t\t\t                           "
+       ],
+       [
+        "span",
+        {},
+        "This work addresses the study of the changes that have occurred in the occupational structure of recent Argentine society between 2016 and 2023 in terms of socio-labor inequalities –in matters of employment quality and remuneration-. It seeks to contribute to the understanding of the processes of socio-labor divergence that take place in countries with development models subject to structural inequalities, as has been the case in Argentina for more than four decades. In this way, the main hypothesis is that, given the persistence of a heterogeneous economic-occupational development model that systematically runs through the functioning of urban labor markets, no substantive convergences would have occurred in the social structure of work in terms of the quality of jobs and the gaps in remuneration for work in the years under analysis, while the cycles of recession and crisis operate to accentuate these structural inequalities. The findings reflect the negative effects of segmentation in the labor market. The analysis use micro-data from the Permanent Household Survey (EPH) of the National Institute of Statistics and Censuses (INDEC) in its continuous mode for certain control years."
+       ],
+       "\n"
+      ],
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "Keywords: "
+       ],
+       "Socio-labor Structure, Employment Regulation, Occupational Qualifications, Remunerations.\n                                "
+      ],
+      "\n"
+     ],
+     "\n"
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-articulo-body"
+    },
+    "\n",
+    [
+     "p",
+     {},
+     "\n",
+     [
+      "span",
+      {},
+      "1. Introducción: un breve recorrido por las principales características de la estructura económica-ocupacional de la Argentina reciente"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "En los años más recientes de la Argentina las tendencias regresivas en materia distributiva se consolidan rápidamente. En efecto, a partir de la segunda década del siglo XXI, el inicio de un proceso distributivo regresivo, en un contexto estanflacionario que contrae la demanda de empleo y genera paulatinamente una caída de los ingresos laborales, produce comportamientos que atraviesan a la dinámica socioeconómica (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445003_ref31",
+       "id": "t-llamada-redalyc_775445003_ref31-1"
+      },
+      "Poy, 2020"
+     ],
+     "). Estos pueden morigerar, o profundizar, dichas tendencias regresivas aun cuando la desigualdad estructural permanezca prácticamente igual a lo largo del tiempo.  En un contexto de claro estancamiento –cuyo inicio coincide con los últimos años de la fase heterodoxa a partir de 2012– (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445003_ref32",
+       "id": "t-llamada-redalyc_775445003_ref32-1"
+      },
+      "Poy y Salvia, 2019"
+     ],
+     "),  el deterioro que experimenta el mercado laboral en los años más recientes se expresa a través de la informalidad y de la precariedad.",
+     [
+      "a",
+      {
+       "href": "#t-fn20",
+       "id": "t-llamada-fn20-1"
+      },
+      [
+       "sup",
+       {},
+       "1"
+      ]
+     ],
+     " Aun cuando en 2017 se observan ciertas mejoras, principalmente en la tasa de empleo –al igual que una leve recuperación del PBI–,",
+     [
+      "a",
+      {
+       "href": "#t-fn21",
+       "id": "t-llamada-fn21-1"
+      },
+      [
+       "sup",
+       {},
+       "2"
+      ]
+     ],
+     " persiste la contracción de los puestos de trabajo en el sector dinámico que concentra los niveles más altos de ocupaciones de calidad (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445003_ref13",
+       "id": "t-llamada-redalyc_775445003_ref13-1"
+      },
+      "CIFRA-CTA, 2018"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445003_ref24",
+       "id": "t-llamada-redalyc_775445003_ref24-1"
+      },
+      "Medina, 2019"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445003_ref20",
+       "id": "t-llamada-redalyc_775445003_ref20-1"
+      },
+      "Jacovkis et al",
+      [
+       "span",
+       {},
+       "."
+      ],
+      ", 2021"
+     ],
+     ").",
+     [
+      "a",
+      {
+       "href": "#t-fn22",
+       "id": "t-llamada-fn22-1"
+      },
+      [
+       "sup",
+       {},
+       "3"
+      ]
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "En esta línea, a partir de 2016, las medidas de ajuste macroeconómico implementadas, la política anti-inflacionaria, y la escasa inversión privada y pública, profundizan las tendencias recesivas en el mercado de trabajo (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445003_ref45",
+       "id": "t-llamada-redalyc_775445003_ref45-1"
+      },
+      "Wainer, 2019"
+     ],
+     "). Entre 2017 y 2018 se suma al escenario anterior el impacto negativo de una nueva devaluación y el posterior incremento de la inflación. Esto último repercute negativamente sobre los ingresos y la capacidad de consumo de la población (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445003_ref46",
+       "id": "t-llamada-redalyc_775445003_ref46-1"
+      },
+      "Wainer, 2021"
+     ],
+     ")."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "A continuación, este escenario atravesado por tendencias regresivas generales se profundizada con la crisis sanitaria COVID-19. En América Latina, en los años previos a la irrupción de la pandemia, se asiste a una desaceleración del crecimiento económico y a un aumento de la desocupación producto de las dificultades por parte de los mercados laborales de la región para incorporar a la fuerza de trabajo (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445003_ref26",
+       "id": "t-llamada-redalyc_775445003_ref26-1"
+      },
+      "OIT, 2020a"
+     ],
+     "). Con la pandemia, lejos de revertirse el escueto dinamismo en la creación de empleo, se profundiza, y la tasa de desempleo se incrementa fuertemente. En efecto, en la segunda mitad de 2020, la tasa de desocupación en la región alcanzó el 11,4%, y aun cuando tres años después de la pandemia esta tasa regional se reduce casi 5 puntos porcentuales, la creación de empleo no sólo no ha sido dinámica, sino que se ha visto especialmente impulsada por los empleos informales (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445003_ref9",
+       "id": "t-llamada-redalyc_775445003_ref9-1"
+      },
+      "CEPAL, 2023"
+     ],
+     ")."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "En el caso de la Argentina, la crisis COVID-19 irrumpe en el marco de un escenario deteriorado, de estancamiento económico estructural y crisis en el empleo, caracterizados por un aumento leve, pero sostenido, en el empleo formal precario e informal, y caída en el poder adquisitivo de los ingresos laborales. Con la pandemia –y las medidas implementadas de aislamiento social- dicho escenario empeora, agudizando la pérdida de puestos de trabajo y la cantidad de horas destinadas a un empleo remunerado (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445003_ref4",
+       "id": "t-llamada-redalyc_775445003_ref4-1"
+      },
+      "Barrera et al., 2022"
+     ],
+     "). En suma, esta crisis arriba en un contexto ya debilitado, en donde la informalidad y la precariedad laboral se apoderan de la escena atravesando una parte significativa de los vínculos que la fuerza de trabajo teje con el mercado laboral (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445003_ref8",
+       "id": "t-llamada-redalyc_775445003_ref8-1"
+      },
+      "CEPAL, 2020"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445003_ref15",
+       "id": "t-llamada-redalyc_775445003_ref15-1"
+      },
+      "Donza, 2020"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445003_ref37",
+       "id": "t-llamada-redalyc_775445003_ref37-1"
+      },
+      "Robles y Fachal, 2022"
+     ],
+     "). Este mayor deterioro de las remuneraciones y de las condiciones laborales no se habrían revertido con la vuelta a la normalidad post-pandemia (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445003_ref46",
+       "id": "t-llamada-redalyc_775445003_ref46-2"
+      },
+      "Wainer, 2021"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445003_ref22",
+       "id": "t-llamada-redalyc_775445003_ref22-1"
+      },
+      "Kulfas, 2024"
+     ],
+     ")."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "En esta línea, el desempeño laboral habría evidenciado entre sus comportamientos más distintivos una dinámica claramente limitada y restringida en materia de absorción de fuerza de trabajo y generación de puestos con distintos perfiles, y el sostenimiento de brechas remunerativas y desigualdades en los componentes regulatorios del empleo, acentuando los desequilibrios estructurales y problemas no resueltos de la estructura económica-ocupacional del país (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445003_ref3",
+       "id": "t-llamada-redalyc_775445003_ref3-1"
+      },
+      "Arakaki et al., 2018"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445003_ref8",
+       "id": "t-llamada-redalyc_775445003_ref8-2"
+      },
+      "CEPAL, 2020"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445003_ref15",
+       "id": "t-llamada-redalyc_775445003_ref15-2"
+      },
+      "Donza, 2020"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445003_ref11",
+       "id": "t-llamada-redalyc_775445003_ref11-1"
+      },
+      "Ciaschi et al., 2021"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445003_ref33",
+       "id": "t-llamada-redalyc_775445003_ref33-1"
+      },
+      "Poy et al., 2021"
+     ],
+     ")."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "En este marco, el objetivo de este artículo es indagar en qué medida el ciclo de estancamiento iniciado en la segunda década del siglo XXI, la crisis sanitaria COVID-19 y su salida acentuaron la fragmentación sectorial y la segmentación del mercado de trabajo. De esta forma, la periodización propuesta incluye: a) el escenario pre-pandemia (2016-2019); y b) la transición de la pandemia y su salida (2019-2023). Así, el estudio focaliza en dos momentos significativos de la historia reciente que, en el caso de nuestro país, se ven acompañados por ciertos acontecimientos que hacen al interés de estos años para su estudio. La sucesión de bruscas devaluaciones, con efectos inflacionarios, seguido por el empeoramiento en los niveles de consumo y la retracción de la demanda doméstica (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445003_ref33",
+       "id": "t-llamada-redalyc_775445003_ref33-2"
+      },
+      "Poy, Robles y Salvia, 2021"
+     ],
+     "), que atraviesan al primer momento, instauran un marco de fragilidad en las condiciones de empleo y en el poder adquisitivo de los ingresos que acentúan procesos de larga data."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Asimismo, el presente trabajo se pregunta por el comportamiento en los ingresos laborales percibidos analizando las tendencias remunerativas de acuerdo con los aspectos regulatorios de las inserciones laborales y la estructura sectorial del empleo. La hipótesis que se encuentra por detrás de estas indagaciones sostiene que la estructura productiva y sectorial condiciona cada vez más el acceso al mercado laboral bajo condiciones de empleo pleno y mejores remuneraciones, a la vez que los ciclos recesivos y de crisis operan acentuando estas desigualdades estructurales. Por ello, a continuación, se analiza el papel de la regulación del empleo en el mercado de trabajo y en la desigualdad remunerativa, condicionado por los múltiples escenarios tecnológicos y productivos que atraviesan a los diversos sectores de la demanda de empleo, en un contexto de crisis y bajo desempeño económico."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "En paralelo, con el propósito de evaluar el papel de la estructura heterogénea como factor de segmentación del mercado de trabajo, las regulaciones y condiciones laborales, se estudia la incidencia del sector y del segmento de empleo en los ingresos laborales horarios de los trabajadores, y en las probabilidades de acceder a empleos de calidad. De este modo, se espera confirmar el rol explicativo significativo de los factores estructurales sobre las oportunidades de acceso al mercado laboral bajo condiciones laborales de calidad, y mejores remuneraciones, agravado por la realidad adversa que atraviesa a los años bajo estudio."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "El abordaje metodológico del estudio es cuantitativo y se utilizan los micro-datos de la Encuesta Permanente de Hogares (EPH) del Instituto Nacional de Estadísticas y Censos (INDEC) en su modalidad continua para ciertos años testigo entre 2016 y 2023."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n",
+     [
+      "span",
+      {},
+      "2. Heterogeneidad y segmentación laboral: contextualización teórica-metodológica "
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "El presente trabajo se enmarca en los debates sobre los procesos de convergencia económica, productiva o social, y los mecanismos que explican la desigualdad en las sociedades latinoamericanas, en general, y en la sociedad argentina, en particular. Recuperando la perspectiva estructuralista latinoamericana, se entiende que es importante observar el papel de los factores estructurales que se encuentran por detrás de los procesos de desigualdad, específicamente de aquellos asociados con la estructura social del trabajo que se expresan en el mercado laboral. Así, el estudio se pregunta por la incidencia de los factores que estructuran la demanda de empleo en la inserción y participación diferencial de la fuerza de trabajo en la estructura ocupacional y en la distribución del ingreso, contemplando los procesos de ",
+     [
+      "span",
+      {},
+      "heterogeneidad estructural"
+     ],
+     " y segmentación laboral que impactan en la dinámica del mercado de trabajo, indagando en el peso específico de estos factores frente a otros."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Mientras que en los países latinoamericanos se conjuga la proliferación de empleos atípicos con una elevada informalidad laboral, desigualdades estructurales en el empleo, y baja cobertura en término del sistema de protección laboral (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445003_ref1",
+       "id": "t-llamada-redalyc_775445003_ref1-1"
+      },
+      "Abramo, 2021"
+     ],
+     "), en los países desarrollados como los europeos principalmente se entrelaza el contexto de la globalización y de la automatización con relaciones laborales inestables y la erosión de derechos. En otros términos, la informalidad laboral, en la forma en que históricamente se ha pensado este fenómeno en América Latina, no sería un problema profundo y sistemático entre los países europeos, en donde la industrialización y la modernidad temprana habrían reconvertido la matriz productiva, sino que la principal problemática que emerge en esta región es el de la temporalidad e inestabilidad laboral, flexibilidad e ingresos bajos, a la que muchas personas se ven forzadas a aceptar. Esto último como producto del impacto que la globalización ha tenido en los procesos laborales, los que se reconfiguraron a partir del desarrollo de redes de producción global (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445003_ref43",
+       "id": "t-llamada-redalyc_775445003_ref43-1"
+      },
+      "Shin, Kalleberg y Hewison, 2023"
+     ],
+     ")."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Por su parte, la particularidad principal del capitalismo periférico latinoamericano es la insuficiencia en el ritmo de acumulación de capital y, consecuentemente, la dificultad para incorporar, a través de incrementos cada vez más grandes de productividad, a una fuerza de trabajo en aumento (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445003_ref35",
+       "id": "t-llamada-redalyc_775445003_ref35-1"
+      },
+      "Prebisch, 1976"
+     ],
+     "). Estas particularidades del patrón de crecimiento en la región conducen al concepto de ",
+     [
+      "span",
+      {},
+      "heterogeneidad estructural"
+     ],
+     ". Desde esta perspectiva se destaca la diferencia en los niveles de productividad según estratos entre los países con una capacidad de difusión tecnológica limitada, al igual que las variaciones en la importancia de las actividades que realizan y del volumen de empleo que difunden, y ello como producto de la persistencia de vínculos precarios entre dichos sectores (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445003_ref36",
+       "id": "t-llamada-redalyc_775445003_ref36-1"
+      },
+      "PREALC-OIT, 1978"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445003_ref14",
+       "id": "t-llamada-redalyc_775445003_ref14-1"
+      },
+      "Cimoli et al., 2005"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445003_ref7",
+       "id": "t-llamada-redalyc_775445003_ref7-1"
+      },
+      "CEPAL, 2012"
+     ],
+     ")."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "En los países con una estructura especializada y heterogénea, las diferencias referidas a las capacidades tecnológicas limitan y estructuran las actividades productivas generando estratos tecnológicamente modernos y otros inferiores en ese aspecto, acentuándose la fragmentación social en la medida en que las desigualdades entre estos estratos se profundizan y, por consiguiente, también la heterogeneidad de la estructura productiva (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445003_ref34",
+       "id": "t-llamada-redalyc_775445003_ref34-1"
+      },
+      "Prebisch, 1952"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445003_ref29",
+       "id": "t-llamada-redalyc_775445003_ref29-1"
+      },
+      "Pinto, 1976"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445003_ref44",
+       "id": "t-llamada-redalyc_775445003_ref44-1"
+      },
+      "Tokman, 1982"
+     ],
+     ")."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Esto último conduce a una estructura productiva con la presencia en simultáneo de: a) un sector económico que concentra las inversiones y el progreso técnico; b) otro conglomerado de unidades económicas con niveles de productividad intermedios, que participan con una intensidad menor en el proceso de acumulación y de los cambios tecnológicos; y c) un conjunto de actividades concentradas en unidades económicas de baja productividad y rezagadas en términos tecnológicos, que engloban actividades económicas de subsistencia e intensivas en mano de obra. Una estructura productiva con estas características tiene también su correlato en una estructura ocupacional determinada, en la que la presencia de un amplio Sector Informal se torna relevante sobre todo en el marco de las preocupaciones relacionadas con el progreso técnico y social (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445003_ref36",
+       "id": "t-llamada-redalyc_775445003_ref36-2"
+      },
+      "PREALC-OIT,1978"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445003_ref7",
+       "id": "t-llamada-redalyc_775445003_ref7-2"
+      },
+      "CEPAL, 2012"
+     ],
+     ").",
+     [
+      "a",
+      {
+       "href": "#t-fn23",
+       "id": "t-llamada-fn23-1"
+      },
+      [
+       "sup",
+       {},
+       "4"
+      ]
+     ],
+     " De este modo, la informalidad laboral y la organización productiva son aspectos sobresalientes de los sectores de baja productividad, generadores de importantes volúmenes de empleo en la región (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445003_ref1",
+       "id": "t-llamada-redalyc_775445003_ref1-2"
+      },
+      "Abramo, 2021"
+     ],
+     ")."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Enfoques recientes sobre la informalidad en América Latina postulan que factores tales como el de exclusión y escape son fundamentales para comprender el modo en que el Sector Informal se presenta regionalmente, enfatizando la conjunción en simultáneo de dos fenómenos: a) la tracción hacia la informalidad que experimentan los ocupados y los agentes económicos –o firmas- frente a la exclusión de beneficios sociales provenientes del estado o de la economía; y b) la evaluación de estos mismos actores del costo-beneficio entre ingresar o no a la formalidad (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445003_ref28",
+       "id": "t-llamada-redalyc_775445003_ref28-1"
+      },
+      "Perry et al., 2007"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445003_ref18",
+       "id": "t-llamada-redalyc_775445003_ref18-1"
+      },
+      "Espejo 2022"
+     ],
+     ")."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Los cambios experimentados en el mercado laboral y en la organización del sistema productivo, asociados a la revolución tecnológica y la digitalización de los procesos laborales, han repercutido en la forma en que se aborda la noción de informalidad, que a su vez conduce a la necesidad de conceptualizar otros fenómenos como el de empleo atípico, el que en gran medida se posiciona entre medio del empleo asalariado y cuentapropista, con rasgos propios de la informalidad laboral en los términos en que históricamente ha sido pensada esta última en la región. La expansión del empleo atípico en países desarrollados y en desarrollo desafía a la institucionalidad laboral, a los sistemas de protección del empleo y regulación de los vínculos laborales (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445003_ref1",
+       "id": "t-llamada-redalyc_775445003_ref1-3"
+      },
+      "Abramo, 2021"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445003_ref18",
+       "id": "t-llamada-redalyc_775445003_ref18-2"
+      },
+      "Espejo, 2022"
+     ],
+     ")."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Ahora bien, tal como fuera señalado al comienzo, en el marco del presente estudio se persigue abordar la relación entre la estructura productiva heterogénea y el mercado de trabajo. En la ",
+     [
+      "a",
+      {
+       "href": "#t-gt1",
+       "id": "t-llamada-gt1-1"
+      },
+      "Tabla 1"
+     ],
+     " se ofrece la definición operativa de los sectores",
+     [
+      "a",
+      {
+       "href": "#t-fn24",
+       "id": "t-llamada-fn24-1"
+      },
+      [
+       "sup",
+       {},
+       "5"
+      ]
+     ],
+     " y categorías económico-ocupacionales que recupera los aspectos centrales de la perspectiva teórica asumida, a través de la pertenencia de los trabajadores a estratos con determinados niveles de productividad y de las formas que adquieren las relaciones de producción en función de la categoría ocupacional.",
+     [
+      "a",
+      {
+       "href": "#t-fn25",
+       "id": "t-llamada-fn25-1"
+      },
+      [
+       "sup",
+       {},
+       "6"
+      ]
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Siendo que una de las características sobresalientes del Sector Informal –caracterizado por el rezago tecnológico y la baja productividad– es la alta concentración de trabajadores bajo condiciones precarias, se recupera el enfoque de los mercados segmentados,",
+     [
+      "a",
+      {
+       "href": "#t-fn26",
+       "id": "t-llamada-fn26-1"
+      },
+      [
+       "sup",
+       {},
+       "7"
+      ]
+     ],
+     " y se identifican tres segmentos de empleo en los que queda estratificada la demanda laboral, a saber, el segmento primario, secundario o terciario del mercado de trabajo. Mientras que el segmento primario engloba empleos estables, posicionados bajo las regulaciones de las normas laborales y la seguridad social, en el segmento secundario se concentran los empleos con altos niveles de extralegalidad laboral, y en el segmento terciario los empleos de indigencia (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445003_ref41",
+       "id": "t-llamada-redalyc_775445003_ref41-1"
+      },
+      "Salvia, Vera y Poy, 2015"
+     ],
+     ").",
+     [
+      "a",
+      {
+       "href": "#t-fn27",
+       "id": "t-llamada-fn27-1"
+      },
+      [
+       "sup",
+       {},
+       "8"
+      ]
+     ],
+     " En este punto, cabe señalar que en esta investigación se trabaja con la clasificación de dos segmentos de empleo: por un lado, el segmento primario, empleo pleno o regulado; y, por otro lado, el segmento secundario, empleo precario o no regulado. La escasa o nula protección social, la inestabilidad laboral, y la subocupación horaria, son indicadores que comúnmente están presentes en los estudios sobre precariedad ya sea con relación a los ocupados asalariados como a los autónomos (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445003_ref21",
+       "id": "t-llamada-redalyc_775445003_ref21-1"
+      },
+      "Kalleberg, 2013"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445003_ref6",
+       "id": "t-llamada-redalyc_775445003_ref6-1"
+      },
+      "Castelao Caruana, 2016"
+     ],
+     "). En la ",
+     [
+      "a",
+      {
+       "href": "#t-gt2",
+       "id": "t-llamada-gt2-1"
+      },
+      "Tabla 2"
+     ],
+     ", se ofrece la definición operativa correspondiente."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "span",
+     {
+      "id": "t-gt1"
+     },
+     "\n",
+     "\n",
+     [
+      "span",
+      {},
+      "Tabla 1"
+     ],
+     "\n",
+     "\n",
+     "\n",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       " Desglose de los sectores y categorías económico-ocupacionales"
+      ]
+     ],
+     "\n",
+     "\n",
+     "\n",
+     [
+      "table",
+      {
+       "id": "t-gt2-526564616c7963"
+      },
+      "\n",
+      [
+       "tbody",
+       {},
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {
+          "rowspan": "2"
+         },
+         [
+          "span",
+          {},
+          "Sector de empleo"
+         ]
+        ],
+        [
+         "td",
+         {
+          "colspan": "2"
+         },
+         [
+          "span",
+          {},
+          "Categoría de empleo "
+         ]
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {},
+         [
+          "span",
+          {},
+          "Asalariados"
+         ]
+        ],
+        [
+         "td",
+         {},
+         [
+          "span",
+          {},
+          "No asalariados"
+         ]
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {},
+         [
+          "span",
+          {},
+          "Sector Privado Formal"
+         ],
+         "   Actividades laborales de elevada productividad y altamente integradas   económicamente a los procesos de modernización. Se las define habitualmente   como aquellas que conforman el mercado más concentrado o estructurado."
+        ],
+        [
+         "td",
+         {},
+         "Obrero o empleado en establecimientos   con más de cinco ocupados."
+        ],
+        [
+         "td",
+         {},
+         "Cuenta propia profesional, patrones   profesionales o de establecimientos con más de cinco ocupados."
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {},
+         [
+          "span",
+          {},
+          "Sector Público"
+         ],
+         "   Actividades laborales vinculadas al desarrollo de la función estatal en sus   distintos niveles de gestión. Es decir, ocupaciones en el sector público   nacional, provincial o municipal."
+        ],
+        [
+         "td",
+         {},
+         "Obrero o empleado ocupado en el   sector público (que no pertenecen a un programa de empleo)."
+        ],
+        [
+         "td",
+         {},
+         "-"
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {},
+         [
+          "span",
+          {},
+          "Sector Micro-Informal"
+         ],
+         "   Actividades laborales dominadas por la baja productividad, alta rotación de   trabajadores, inestabilidad y su no funcionalidad al mercado formal o más   estructurado."
+        ],
+        [
+         "td",
+         {},
+         "Obrero o empleado no profesional que   trabaja en establecimientos con hasta cinco ocupados."
+        ],
+        [
+         "td",
+         {},
+         "Patrón no profesional en   establecimientos con hasta cinco ocupados. Cuenta propia no profesional.   Trabajador que presta servicios domésticos en hogares particulares."
+        ],
+        "\n"
+       ],
+       "\n"
+      ],
+      "\n"
+     ],
+     "\n",
+     "\n",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Fuente: Elaboración propia con base en datos de la EPH-INDEC procesados por el Programa Cambio Estructural y Desigualdad Social, Instituto de Investigaciones Gino Germani (IIGG)-FSC-UBA"
+      ]
+     ],
+     "\n"
+    ],
+    "\n",
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "span",
+     {
+      "id": "t-gt2"
+     },
+     "\n",
+     "\n",
+     [
+      "span",
+      {},
+      "Tabla 2"
+     ],
+     "\n",
+     "\n",
+     "\n",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       " Definiciones operacionales de los segmentos de empleo"
+      ]
+     ],
+     "\n",
+     "\n",
+     "\n",
+     [
+      "table",
+      {
+       "id": "t-gt3-526564616c7963"
+      },
+      "\n",
+      [
+       "tbody",
+       {},
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {},
+         [
+          "span",
+          {},
+          "Segmento Primario "
+         ]
+        ],
+        [
+         "td",
+         {},
+         [
+          "span",
+          {},
+          "Empleo pleno o regulado."
+         ],
+         " Incluye a los asalariados con   trabajo permanente e integrados a la Seguridad Social (con descuento   jubilatorio), y a los trabajadores independientes (patrones o cuenta propia),   regulados a través de las reglas formales o de hecho que organizan a los grupos   profesionales, que trabajan en esa ocupación hace más de tres meses, y que   trabajan más de 35 h y no desean trabajar más horas."
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {},
+         [
+          "span",
+          {},
+          "Segmento Secundario "
+         ]
+        ],
+        [
+         "td",
+         {},
+         [
+          "span",
+          {},
+          "Empleo precario o no regulado "
+         ],
+         "(contempla empleo de indigencia)",
+         [
+          "span",
+          {},
+          ". "
+         ],
+         "Incluye   a los asalariados sin jubilación o sin trabajo permanente, y a los   trabajadores independientes (patrones o cuenta propia), con un alto grado de extralegalidad laboral, que están hace menos de tres   meses en el empleo o que estando hace más de tres meses están subocupados (trabajan menos de 35 h) o no (trabajan más   de 35 h) y desean trabajar más horas. También incluye a los trabajadores   familiares sin salario y empleos cuyo ingreso horario percibido no alcanza el   nivel de ingreso horario necesario para cubrir los gastos alimentarios de una   familia tipo."
+        ],
+        "\n"
+       ],
+       "\n"
+      ],
+      "\n"
+     ],
+     "\n",
+     "\n",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Fuente: Elaboración propia con base en datos de la EPH-INDEC procesados por el Programa Cambio Estructural y Desigualdad Social, Instituto de Investigaciones Gino Germani (IIGG)-FSC-UBA"
+      ]
+     ],
+     "\n"
+    ],
+    "\n",
+    "\n",
+    [
+     "p",
+     {},
+     "Por detrás de la construcción de estos segmentos de empleo se encuentra el supuesto de que cada uno de ellos refleja modos distintos de inserción y relaciones laborales, que engloban, a su vez, diferentes niveles de calidad de los puestos a los que acceden los trabajadores, producto de que existen múltiples segmentos –en la estructura ocupacional–que actúan de acuerdo con marcos institucionales disímiles."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Finalmente, el trabajo también incorpora como parte del análisis, no sólo la incidencia de las brechas sectoriales, sino también de las brechas de calificación ocupacional, en los puestos precarios y en las remuneraciones, las que suelen ser perjudiciales entre los puestos de menor calificación y en los sectores de menor escala. En el abordaje de la calificación de la tarea se recurre a la clasificación internacional propuesta por la OIT, equiparando el Clasificador Nacional de Ocupaciones de INDEC –presente en los micro-datos de la EPH– y el clasificador internacional de ocupaciones 2008 (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445003_ref25",
+       "id": "t-llamada-redalyc_775445003_ref25-1"
+      },
+      "OIT, 2012"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445003_ref19",
+       "id": "t-llamada-redalyc_775445003_ref19-1"
+      },
+      "INDEC, 2018"
+     ],
+     "). En la construcción del indicador –presente en la ",
+     [
+      "a",
+      {
+       "href": "#t-gt3",
+       "id": "t-llamada-gt3-1"
+      },
+      "Tabla 3"
+     ],
+     "– se recupera la complejidad técnica y los requisitos propios de cada categoría para diferenciar las inserciones entre sí (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445003_ref38",
+       "id": "t-llamada-redalyc_775445003_ref38-1"
+      },
+      "Robles et al., 2024"
+     ],
+     "). Este tipo de esquemas, que contemplan diferenciaciones basadas en los atributos de los tipos de ocupaciones asociados al proceso productivo, pueden encontrarse también en estudios de movilidad, estratificación social y estructura ocupacional (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445003_ref12",
+       "id": "t-llamada-redalyc_775445003_ref12-1"
+      },
+      "Ciaschi, Gasparini y Neidhofer, 2024"
+     ],
+     ")."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "span",
+     {
+      "id": "t-gt3"
+     },
+     "\n",
+     "\n",
+     [
+      "span",
+      {},
+      "Tabla 3"
+     ],
+     "\n",
+     "\n",
+     "\n",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       " Clasificación de los niveles de calificación de los puestos de trabajo según el CIUO-08 a un dígito"
+      ]
+     ],
+     "\n",
+     "\n",
+     "\n",
+     [
+      "table",
+      {
+       "id": "t-gt4-526564616c7963"
+      },
+      "\n",
+      [
+       "tbody",
+       {},
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {},
+         "Código CIUO-08 (1 dígito)"
+        ],
+        [
+         "td",
+         {},
+         "Grupo ocupacional"
+        ],
+        [
+         "td",
+         {},
+         "Tipo de tareas"
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {},
+         "1"
+        ],
+        [
+         "td",
+         {},
+         "Directores y gerentes"
+        ],
+        [
+         "td",
+         {},
+         "Ocupaciones Directivas/Gerencia"
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {},
+         "2"
+        ],
+        [
+         "td",
+         {},
+         "Profesionales científicos e intelectuales"
+        ],
+        [
+         "td",
+         {},
+         "Ocupaciones profesionales"
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {},
+         "3"
+        ],
+        [
+         "td",
+         {},
+         "Técnicos y profesionales de nivel medio"
+        ],
+        [
+         "td",
+         {},
+         "Ocupaciones técnicas"
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {},
+         "4"
+        ],
+        [
+         "td",
+         {},
+         "Personal de apoyo administrativo"
+        ],
+        [
+         "td",
+         {
+          "rowspan": "5"
+         },
+         "Ocupaciones operativas"
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {},
+         "5"
+        ],
+        [
+         "td",
+         {},
+         "Trabajadores   de los servicios y vendedores de comercios y mercados"
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {},
+         "6"
+        ],
+        [
+         "td",
+         {},
+         "Agricultores   y trabajadores calificados agropecuarios, forestales y pesqueros"
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {},
+         "7"
+        ],
+        [
+         "td",
+         {},
+         "Oficiales,   operarios y artesanos de artes mecánicas y de otros oficios"
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {},
+         "8"
+        ],
+        [
+         "td",
+         {},
+         "Operadores   de instalaciones y máquinas y ensambladores"
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {},
+         "9"
+        ],
+        [
+         "td",
+         {},
+         "Ocupaciones   elementales"
+        ],
+        [
+         "td",
+         {},
+         "Ocupaciones   elementales"
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {
+          "colspan": "3"
+         }
+        ],
+        "\n"
+       ],
+       "\n"
+      ],
+      "\n"
+     ],
+     "\n",
+     "\n",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Fuente: Elaboración propia en base a datos de INDEC (",
+       [
+        "a",
+        {
+         "href": "#t-redalyc_775445003_ref19",
+         "id": "t-llamada-redalyc_775445003_ref19-2"
+        },
+        "2018"
+       ],
+       ") y OIT (",
+       [
+        "a",
+        {
+         "href": "#t-redalyc_775445003_ref25",
+         "id": "t-llamada-redalyc_775445003_ref25-2"
+        },
+        "2012"
+       ],
+       ") procesados por el Programa Cambio Estructural y Desigualdad Social, Instituto de Investigaciones Gino Germani (IIGG)-FSC-UBA"
+      ]
+     ],
+     "\n"
+    ],
+    "\n",
+    "\n",
+    [
+     "p",
+     {},
+     "\n",
+     [
+      "span",
+      {},
+      "3. Limitaciones persistentes y efectos diferenciales del sector en las inserciones laborales de calidad"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "En los años previos a la irrupción de la pandemia, crece la informalidad laboral y caen las inserciones formales privadas. Con la pandemia continúa la tendencia decreciente entre las inserciones formales –debido a un menor dinamismo en el crecimiento de los asalariados frente a los no asalariados–, a la vez que también cae la participación de las inserciones asalariadas informales, aunque los cuentapropistas no profesionales crecen (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445003_ref2",
+       "id": "t-llamada-redalyc_775445003_ref2-1"
+      },
+      "Alfageme et al., 2023"
+     ],
+     ").",
+     [
+      "a",
+      {
+       "href": "#t-fn28",
+       "id": "t-llamada-fn28-1"
+      },
+      [
+       "sup",
+       {},
+       "9"
+      ]
+     ],
+     " El saldo es el de una mayor incidencia del sector de baja productividad, que debe ser asumido como el resultado de procesos de desplazamiento y desempleo forzoso de la fuerza de trabajo en un contexto muy particular. En los primeros años posteriores a la crisis COVID-19, la estructura laboral habría retornado a la composición inmediatamente previa a la pandemia (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445003_ref38",
+       "id": "t-llamada-redalyc_775445003_ref38-2"
+      },
+      "Robles et al., 2024"
+     ],
+     ")."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "En general, el mercado laboral de la Argentina da cuenta de un estancamiento durante la última década y una caída en la previa de la pandemia. Si bien los efectos del COVID-19 y de las medidas que se implementaron en consecuencia fueron variadas según la rama de actividad, el tipo de ocupación y el tamaño de la empresa, el sector informal y las ocupaciones de menor calificación fueron las que experimentaron el impacto de la crisis con mayor intensidad. En este marco, la reducción en el volumen del empleo formal y el aumento de la salida del mercado laboral se podría traducir en un aumento del volumen de empleo en sectores de baja productividad o informales (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445003_ref17",
+       "id": "t-llamada-redalyc_775445003_ref17-1"
+      },
+      "Donza et al., 2022"
+     ],
+     ")."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Los datos presentados en la ",
+     [
+      "a",
+      {
+       "href": "#t-gt4",
+       "id": "t-llamada-gt4-1"
+      },
+      "Tabla 4"
+     ],
+     " confirman estas tendencias. En primer lugar, la composición de la estructura económico-ocupacional se mantiene a lo largo de los años bajo estudio, exhibiendo leves modificaciones que no alteran en términos estructurales la participación sectorial de las inserciones ocupacionales. En esta línea, los asalariados y no asalariados informales representan entre el 43% y 46% de los ocupados, a la vez que tienden a aumentar en períodos de crisis –pasando de 43,6% en 2016 a 46,3% en 2019 y de 43,8% en 2021 a 45% en 2023–. Por otro lado, en un contexto general en el que la incidencia de la no regulación del empleo es elevada, alcanzando hacia el 2023 el 49,8%, el peso de la regulación es significativamente más elevada entre las inserciones asalariadas públicas y privadas formales, y mucho menor entre las inserciones asalariadas y no asalariadas informales. Por su parte, la razón de participación de la regulación del empleo frente a la no regulación entre los no asalariados formales inicia un sendero decreciente a partir de 2016, llegando a ser la incidencia de ambos prácticamente igual en 2023."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "span",
+     {
+      "id": "t-gt4"
+     },
+     "\n",
+     "\n",
+     [
+      "span",
+      {},
+      "Tabla 4"
+     ],
+     "\n",
+     "\n",
+     "\n",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       " Composición de la estructura económico-ocupacional, evolución de la calidad del empleo y de la remuneración laboral horaria media por año seleccionado. Total de aglomerados urbanos EPH: Cuarto Trimestre 2016-2023."
+      ]
+     ],
+     "\n",
+     "\n",
+     "\n",
+     [
+      "table",
+      {
+       "id": "t-gt5-526564616c7963"
+      },
+      "\n",
+      [
+       "tbody",
+       {},
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {}
+        ],
+        [
+         "td",
+         {},
+         [
+          "span",
+          {},
+          "2016"
+         ]
+        ],
+        [
+         "td",
+         {},
+         [
+          "span",
+          {},
+          "2019"
+         ]
+        ],
+        [
+         "td",
+         {},
+         [
+          "span",
+          {},
+          "2021"
+         ]
+        ],
+        [
+         "td",
+         {},
+         [
+          "span",
+          {},
+          "2023"
+         ]
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {},
+         [
+          "span",
+          {},
+          "Composición   económico-ocupacional"
+         ]
+        ],
+        [
+         "td",
+         {}
+        ],
+        [
+         "td",
+         {}
+        ],
+        [
+         "td",
+         {}
+        ],
+        [
+         "td",
+         {}
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {},
+         "No asalariados formales"
+        ],
+        [
+         "td",
+         {},
+         "3,8%"
+        ],
+        [
+         "td",
+         {},
+         "4,0%"
+        ],
+        [
+         "td",
+         {},
+         "3,6%"
+        ],
+        [
+         "td",
+         {},
+         "3,6%"
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {},
+         "Asalariados Formales"
+        ],
+        [
+         "td",
+         {},
+         "35,2%"
+        ],
+        [
+         "td",
+         {},
+         "33,1%"
+        ],
+        [
+         "td",
+         {},
+         "35,1%"
+        ],
+        [
+         "td",
+         {},
+         "34,5%"
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {},
+         "Empleados del Sector Público"
+        ],
+        [
+         "td",
+         {},
+         "17,5%"
+        ],
+        [
+         "td",
+         {},
+         "16,7%"
+        ],
+        [
+         "td",
+         {},
+         "17,5%"
+        ],
+        [
+         "td",
+         {},
+         "16,9%"
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {},
+         "No asalariados informales"
+        ],
+        [
+         "td",
+         {},
+         "28,0%"
+        ],
+        [
+         "td",
+         {},
+         "30,2%"
+        ],
+        [
+         "td",
+         {},
+         "28,6%"
+        ],
+        [
+         "td",
+         {},
+         "29,1%"
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {},
+         "Asalariados informales"
+        ],
+        [
+         "td",
+         {},
+         "15,6%"
+        ],
+        [
+         "td",
+         {},
+         "16,1%"
+        ],
+        [
+         "td",
+         {},
+         "15,2%"
+        ],
+        [
+         "td",
+         {},
+         "15,9%"
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {},
+         "Total"
+        ],
+        [
+         "td",
+         {},
+         "100%"
+        ],
+        [
+         "td",
+         {},
+         "100%"
+        ],
+        [
+         "td",
+         {},
+         "100%"
+        ],
+        [
+         "td",
+         {},
+         "100%"
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {},
+         [
+          "span",
+          {},
+          "Calidad del empleo"
+         ]
+        ],
+        [
+         "td",
+         {}
+        ],
+        [
+         "td",
+         {}
+        ],
+        [
+         "td",
+         {}
+        ],
+        [
+         "td",
+         {}
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {},
+         "Empleo regulado"
+        ],
+        [
+         "td",
+         {},
+         "56,9%"
+        ],
+        [
+         "td",
+         {},
+         "53,7%"
+        ],
+        [
+         "td",
+         {},
+         "55,7%"
+        ],
+        [
+         "td",
+         {},
+         "50,2%"
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {},
+         "Empleo no regulado"
+        ],
+        [
+         "td",
+         {},
+         "43,1%"
+        ],
+        [
+         "td",
+         {},
+         "46,3%"
+        ],
+        [
+         "td",
+         {},
+         "44,3%"
+        ],
+        [
+         "td",
+         {},
+         "49,8%"
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {},
+         "Total"
+        ],
+        [
+         "td",
+         {},
+         "100%"
+        ],
+        [
+         "td",
+         {},
+         "100%"
+        ],
+        [
+         "td",
+         {},
+         "100%"
+        ],
+        [
+         "td",
+         {},
+         "100%"
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {},
+         [
+          "span",
+          {},
+          "Razón de   participación (Regulación/No regulación) "
+         ]
+        ],
+        [
+         "td",
+         {}
+        ],
+        [
+         "td",
+         {}
+        ],
+        [
+         "td",
+         {}
+        ],
+        [
+         "td",
+         {}
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {},
+         "No asalariados formales"
+        ],
+        [
+         "td",
+         {},
+         "1,975"
+        ],
+        [
+         "td",
+         {},
+         "1,794"
+        ],
+        [
+         "td",
+         {},
+         "1,254"
+        ],
+        [
+         "td",
+         {},
+         "1,021"
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {},
+         "Asalariados Formales"
+        ],
+        [
+         "td",
+         {},
+         "3,024"
+        ],
+        [
+         "td",
+         {},
+         "2,820"
+        ],
+        [
+         "td",
+         {},
+         "2,767"
+        ],
+        [
+         "td",
+         {},
+         "2,282"
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {},
+         "Empleados del Sector Público"
+        ],
+        [
+         "td",
+         {},
+         "6,440"
+        ],
+        [
+         "td",
+         {},
+         "6,506"
+        ],
+        [
+         "td",
+         {},
+         "6,588"
+        ],
+        [
+         "td",
+         {},
+         "5,180"
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {},
+         "No asalariados informales"
+        ],
+        [
+         "td",
+         {},
+         "0,480"
+        ],
+        [
+         "td",
+         {},
+         "0,423"
+        ],
+        [
+         "td",
+         {},
+         "0,491"
+        ],
+        [
+         "td",
+         {},
+         "0,332"
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {},
+         "Asalariados informales"
+        ],
+        [
+         "td",
+         {},
+         "0,322"
+        ],
+        [
+         "td",
+         {},
+         "0,260"
+        ],
+        [
+         "td",
+         {},
+         "0,279"
+        ],
+        [
+         "td",
+         {},
+         "0,229"
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {},
+         "Total"
+        ],
+        [
+         "td",
+         {},
+         "1,322"
+        ],
+        [
+         "td",
+         {},
+         "1,161"
+        ],
+        [
+         "td",
+         {},
+         "1,258"
+        ],
+        [
+         "td",
+         {},
+         "1,009"
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {},
+         [
+          "span",
+          {},
+          "Ingreso horario   medio (deflactado a 4T 2023)"
+         ]
+        ],
+        [
+         "td",
+         {}
+        ],
+        [
+         "td",
+         {}
+        ],
+        [
+         "td",
+         {}
+        ],
+        [
+         "td",
+         {}
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {},
+         "No asalariados formales"
+        ],
+        [
+         "td",
+         {},
+         "4.555,5"
+        ],
+        [
+         "td",
+         {},
+         "3.762,2"
+        ],
+        [
+         "td",
+         {},
+         "5.606,4"
+        ],
+        [
+         "td",
+         {},
+         "3.426,8"
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {}
+        ],
+        [
+         "td",
+         {},
+         "100"
+        ],
+        [
+         "td",
+         {},
+         "83"
+        ],
+        [
+         "td",
+         {},
+         "123"
+        ],
+        [
+         "td",
+         {},
+         "75"
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {},
+         "Asalariados Formales"
+        ],
+        [
+         "td",
+         {},
+         "2.372,2"
+        ],
+        [
+         "td",
+         {},
+         "2.067,9"
+        ],
+        [
+         "td",
+         {},
+         "2.119,0"
+        ],
+        [
+         "td",
+         {},
+         "1.844,5"
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {}
+        ],
+        [
+         "td",
+         {},
+         "100"
+        ],
+        [
+         "td",
+         {},
+         "87"
+        ],
+        [
+         "td",
+         {},
+         "89"
+        ],
+        [
+         "td",
+         {},
+         "78"
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {},
+         "Empleados del Sector Público"
+        ],
+        [
+         "td",
+         {},
+         "3.276,5"
+        ],
+        [
+         "td",
+         {},
+         "2.747,1"
+        ],
+        [
+         "td",
+         {},
+         "2.682,7"
+        ],
+        [
+         "td",
+         {},
+         "2.507,8"
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {}
+        ],
+        [
+         "td",
+         {},
+         "100"
+        ],
+        [
+         "td",
+         {},
+         "84"
+        ],
+        [
+         "td",
+         {},
+         "82"
+        ],
+        [
+         "td",
+         {},
+         "77"
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {},
+         "No asalariados informales"
+        ],
+        [
+         "td",
+         {},
+         "1.752,2"
+        ],
+        [
+         "td",
+         {},
+         "1.542,4"
+        ],
+        [
+         "td",
+         {},
+         "1.587,0"
+        ],
+        [
+         "td",
+         {},
+         "1.278,6"
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {}
+        ],
+        [
+         "td",
+         {},
+         "100"
+        ],
+        [
+         "td",
+         {},
+         "88"
+        ],
+        [
+         "td",
+         {},
+         "91"
+        ],
+        [
+         "td",
+         {},
+         "73"
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {},
+         "Asalariados informales"
+        ],
+        [
+         "td",
+         {},
+         "1.699,8"
+        ],
+        [
+         "td",
+         {},
+         "1.413,0"
+        ],
+        [
+         "td",
+         {},
+         "1.501,8"
+        ],
+        [
+         "td",
+         {},
+         "1.271,9"
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {}
+        ],
+        [
+         "td",
+         {},
+         "100"
+        ],
+        [
+         "td",
+         {},
+         "83"
+        ],
+        [
+         "td",
+         {},
+         "88"
+        ],
+        [
+         "td",
+         {},
+         "75"
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {},
+         "Total"
+        ],
+        [
+         "td",
+         {},
+         "2.329,6"
+        ],
+        [
+         "td",
+         {},
+         "1.979,2"
+        ],
+        [
+         "td",
+         {},
+         "2.092,0"
+        ],
+        [
+         "td",
+         {},
+         "1.752,3"
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {}
+        ],
+        [
+         "td",
+         {},
+         "100"
+        ],
+        [
+         "td",
+         {},
+         "85"
+        ],
+        [
+         "td",
+         {},
+         "90"
+        ],
+        [
+         "td",
+         {},
+         "75"
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {},
+         [
+          "span",
+          {},
+          "Ingreso horario   medio (deflactado a 4T 2023)"
+         ]
+        ],
+        [
+         "td",
+         {}
+        ],
+        [
+         "td",
+         {}
+        ],
+        [
+         "td",
+         {}
+        ],
+        [
+         "td",
+         {}
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {},
+         "Empleo regulado"
+        ],
+        [
+         "td",
+         {},
+         "2818,1"
+        ],
+        [
+         "td",
+         {},
+         "2455,2"
+        ],
+        [
+         "td",
+         {},
+         "2453,6"
+        ],
+        [
+         "td",
+         {},
+         "2263,6"
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {}
+        ],
+        [
+         "td",
+         {},
+         "100"
+        ],
+        [
+         "td",
+         {},
+         "87"
+        ],
+        [
+         "td",
+         {},
+         "87"
+        ],
+        [
+         "td",
+         {},
+         "80"
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {},
+         "Empleo no regulado"
+        ],
+        [
+         "td",
+         {},
+         "1697,0"
+        ],
+        [
+         "td",
+         {},
+         "1439,8"
+        ],
+        [
+         "td",
+         {},
+         "1649,1"
+        ],
+        [
+         "td",
+         {},
+         "1247,4"
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {}
+        ],
+        [
+         "td",
+         {},
+         "100"
+        ],
+        [
+         "td",
+         {},
+         "85"
+        ],
+        [
+         "td",
+         {},
+         "97"
+        ],
+        [
+         "td",
+         {},
+         "74"
+        ],
+        "\n"
+       ],
+       "\n"
+      ],
+      "\n"
+     ],
+     "\n",
+     "\n",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Fuente: Elaboración propia con base en la información procesada por el Programa Cambio Estructural y Desigualdad Social, IIGG-FCS-UBA a partir de la EPH, INDEC (cuartos trimestres de 2016, 2019, 2021 y 2023). *Excluye empleo público de asistencia"
+      ]
+     ],
+     "\n"
+    ],
+    "\n",
+    "\n",
+    [
+     "p",
+     {},
+     "La ",
+     [
+      "a",
+      {
+       "href": "#t-gt4",
+       "id": "t-llamada-gt4-2"
+      },
+      "Tabla 4"
+     ],
+     " también brinda información interesante sobre el comportamiento de los retornos laborales en estos años. Partiendo de un deterioro y pérdida del poder adquisitivo generalizado de los ingresos laborales, expresado en una caída del 25% en 2023 con respecto a 2016 –mayor entre los no asalariados formales e informales, y entre los asalariados informales–, la caída de los ingresos es aún mayor entre los empleos de baja calidad –quienes experimentan entre puntas del período una merma en sus ingresos del 26%, frente a la caída del 20% entre las inserciones laborales reguladas–. Asimismo, las inserciones informales se ubican muy por debajo de la media de ingreso registrada para cada año, a la vez que las inserciones del sector dinámico por encima de la media, siendo mucho más amplia la brecha entre los no asalariados formales, seguidos por los asalariados del Sector Público."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Nuevamente, estos datos también evidencian cómo los momentos de crisis tienen impactos significativos en la precariedad y en los retornos laborales, aun cuando la segmentación del mercado de trabajo se mantiene inalterada y la estructura sectorial del empleo sin cambios sustanciales (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445003_ref17",
+       "id": "t-llamada-redalyc_775445003_ref17-2"
+      },
+      "Donza et al., 2022"
+     ],
+     ")."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Ahora bien, el fenómeno de la precariedad laboral no se comporta de forma uniforme a lo largo de toda la estructura ocupacional, pues existe un vínculo entre la unidad productiva y la calidad de la inserción laboral. De allí que la ",
+     [
+      "a",
+      {
+       "href": "#t-gt7",
+       "id": "t-llamada-gt7-1"
+      },
+      "Figura 1"
+     ],
+     " ofrezca una serie de evidencias sobre lo ocurrido en la distribución de la población ocupada en empleos regulados y no regulados al interior de los distintos sectores de empleo, y a lo largo de los años estudiados, en términos de variaciones entre puntas de períodos. En general, entre 2016 y 2019 aumenta la no regulación (7,5 durante los tres años), cae entre 2019 y 2021 (-4,3 durante los dos años) y aumenta nuevamente entre 2021 y 2023 (12,4 durante los dos años). En este punto, cabe destacar que, frente al aumento de la no regulación del empleo en el Sector Micro-Informal (4,2 entre 2016 y 2019), se observa una leve recuperación expresada en un aumento de la regulación entre 2019 y 2021, que rápidamente es acompañada por una caída muy profunda evidenciada en un aumento de los empleos no regulados y una fuerte reducción de los ocupados del empleo regulado (8,9 y -21,8, respectivamente, entre 2021 y 2023)."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "span",
+     {
+      "id": "t-gt7"
+     },
+     "\n",
+     "\n",
+     [
+      "span",
+      {},
+      "Figura 1"
+     ],
+     "\n",
+     "\n",
+     "\n",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Variación promedio en la distribución de la población ocupada por segmento de empleo según sector de inserción y período de análisis. Total de aglomerados urbanos EPH: Cuarto Trimestre 2016-2023"
+      ]
+     ],
+     "\n",
+     "\n",
+     [
+      "figura",
+      {
+       "alt": "Variación promedio en la distribución de la población ocupada por segmento de empleo según sector de inserción y período de análisis. Total de aglomerados urbanos EPH: Cuarto Trimestre 2016-2023"
+      }
+     ],
+     [
+      "br",
+      {}
+     ],
+     "\n",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Fuente: Elaboración propia con base en la información procesada por el Programa Cambio Estructural y Desigualdad Social, IIGG-FCS-UBA a partir de la EPH, INDEC (cuartos trimestres de 2016, 2019, 2021 y 2023). *Excluye empleo público de asistencia."
+      ]
+     ],
+     "\n"
+    ],
+    "\n",
+    "\n",
+    [
+     "p",
+     {},
+     "\n",
+     [
+      "span",
+      {},
+      "4. El impacto de la inserción sectorial en las condiciones de empleo: un análisis sobre las probabilidades de acceder al segmento regulado del empleo"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Tomando en consideración las aproximaciones anteriores, y partiendo de la hipótesis de que la composición sectorial de la demanda de empleo influye en la posibilidad de acceder a empleos en el segmento primario, es decir, de calidad –pues la bibliografía sugiere que, en estos casos, opera como condicionante el sesgo tecnológico del capital al interior de la estructura económica-ocupacional (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445003_ref42",
+       "id": "t-llamada-redalyc_775445003_ref42-1"
+      },
+      "Salvia y Vera, 2016"
+     ],
+     ")–, se introducen los resultados de un ejercicio de regresión logística binomial. En un primer momento, se realiza este ejercicio considerando únicamente la posición económica-ocupacional del trabajador (X",
+     [
+      "sub",
+      {},
+      "1"
+     ],
+     "). En un segundo momento, se incorporan además de la posición ocupada en la estructura ocupacional (X",
+     [
+      "sub",
+      {},
+      "1"
+     ],
+     "), el tipo de ocupación (X",
+     [
+      "sub",
+      {},
+      "2"
+     ],
+     ") y los años bajo estudio (X",
+     [
+      "sub",
+      {},
+      "3"
+     ],
+     "). En un tercer momento, se replica este ejercicio, pero incorporando también como parte del modelo el máximo nivel educativo alcanzado por los ocupados (X",
+     [
+      "sub",
+      {},
+      "4"
+     ],
+     "). Cada una de las variables indicadas son variables “dummy”.",
+     [
+      "a",
+      {
+       "href": "#t-fn29",
+       "id": "t-llamada-fn29-1"
+      },
+      [
+       "sup",
+       {},
+       "10"
+      ]
+     ],
+     " En este punto, resulta pertinente señalar que el propósito de los modelos se orienta a predecir la probabilidad de acceder a un puesto de trabajo en el segmento primario –o empleo regulado– (",
+     [
+      "span",
+      {},
+      "y"
+     ],
+     " = 1), evaluando el peso de una serie de variables en el aumento o reducción de la posibilidad de que el fenómeno ocurra. La siguiente ecuación representa cada modelo:"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "span",
+     {
+      "id": "t-e1"
+     },
+     "\n",
+     [
+      "figura",
+      {}
+     ],
+     "[1]"
+    ],
+    "\n",
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "span",
+     {
+      "id": "t-e2"
+     },
+     "\n",
+     [
+      "figura",
+      {}
+     ],
+     "[2]"
+    ],
+    "\n",
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "span",
+     {
+      "id": "t-e3"
+     },
+     "\n",
+     [
+      "figura",
+      {}
+     ],
+     "[3]"
+    ],
+    "\n",
+    "\n",
+    [
+     "p",
+     {},
+     "En la ",
+     [
+      "a",
+      {
+       "href": "#t-gt5",
+       "id": "t-llamada-gt5-1"
+      },
+      "Tabla 5"
+     ],
+     " se despliegan los resultados correspondientes al ejercicio mencionado, alcanzado en todos los modelos una capacidad de predicción en torno al 75%. En este marco, se puede observar que las chances de pertenecer al segmento primario del empleo son significativamente menores entre los asalariados y no asalariados informales –con respecto a los asalariados formales–, pues entre ellos las probabilidades se reducen en un 80% y 90%, y esta tendencia se mantiene incluso al controlar por otras variables. Ahora bien, entre los no asalariados formales –frente a los empleados en el sector formal– las chances son menores en el primer modelo, pero cuando se contemplan otras variables como el tipo de ocupación, el efecto de los años, y el nivel educativo, tiende incluso a profundizarse, reduciéndose un 27% las chances de pertenecer al segmento primario con el primer modelo, y entre un 54% y un 57% en los modelos subsiguientes. Por su parte, los asalariados públicos son quienes mantienen altas probabilidades de pertenecer al segmento regulado del empleo en todos los modelos."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Asimismo, otros datos interesantes que se destacan de los modelos que se presentan en la ",
+     [
+      "a",
+      {
+       "href": "#t-gt5",
+       "id": "t-llamada-gt5-2"
+      },
+      "Tabla 5"
+     ],
+     " es que si bien –frente a las ocupaciones directivas, de gerencia o profesionales–",
+     [
+      "a",
+      {
+       "href": "#t-fn30",
+       "id": "t-llamada-fn30-1"
+      },
+      [
+       "sup",
+       {},
+       "11"
+      ]
+     ],
+     " en las ocupaciones técnicas, operativas y elementales son menores las probabilidades de pertenecer al segmento primario, mientras que entre las ocupaciones técnicas estas chances se reducen un 10%, entre las ocupaciones operativas un 22% y entre las elementales un 58%. En paralelo, el año 2023 se presenta como aquel en el que las chances de pertenecer al segmento regulado del empleo se reducen con mayor fuerza, ubicándose en torno al 35%."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Coincidentemente con otros hallazgos para el caso de la Argentina (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445003_ref39",
+       "id": "t-llamada-redalyc_775445003_ref39-1"
+      },
+      "Salvia, 2012"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445003_ref3",
+       "id": "t-llamada-redalyc_775445003_ref3-2"
+      },
+      "Arakaki et al., 2018"
+     ],
+     "), un dato relevante que se desprende de estos análisis es que el tamaño de los establecimientos en los que se posicionan los trabajadores y su ubicación en la escala productiva constituyen un componente clave en el entendimiento sobre las particularidades que asumen las inserciones precarias en el mercado de trabajo urbano."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "span",
+     {
+      "id": "t-gt5"
+     },
+     "\n",
+     "\n",
+     [
+      "span",
+      {},
+      "Tabla 5"
+     ],
+     "\n",
+     "\n",
+     "\n",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       " Regresión logística binomial sobre el acceso a puestos de trabajo de calidad según variables seleccionadas. Entre paréntesis, los Exp(B). Total aglomerados urbanos EPH: 2016-2023."
+      ]
+     ],
+     "\n",
+     "\n",
+     "\n",
+     [
+      "table",
+      {
+       "id": "t-gt6-526564616c7963"
+      },
+      "\n",
+      [
+       "tbody",
+       {},
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {},
+         [
+          "span",
+          {},
+          "Variables del   modelo"
+         ]
+        ],
+        [
+         "td",
+         {
+          "rowspan": "2"
+         },
+         [
+          "span",
+          {},
+          "MODELO 1"
+         ]
+        ],
+        [
+         "td",
+         {
+          "rowspan": "2"
+         },
+         [
+          "span",
+          {},
+          "MODELO 2"
+         ]
+        ],
+        [
+         "td",
+         {
+          "rowspan": "2"
+         },
+         [
+          "span",
+          {},
+          "MODELO 3"
+         ]
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {},
+         [
+          "span",
+          {},
+          "Posición   económica-ocupacional"
+         ]
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {
+          "rowspan": "2"
+         },
+         [
+          "span",
+          {},
+          "No asalariados   Formales"
+         ]
+        ],
+        [
+         "td",
+         {},
+         "-0,303***"
+        ],
+        [
+         "td",
+         {},
+         "-0,776***"
+        ],
+        [
+         "td",
+         {},
+         "-0,839***"
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {},
+         "(0,738)"
+        ],
+        [
+         "td",
+         {},
+         "(0,460)"
+        ],
+        [
+         "td",
+         {},
+         "(0,432)"
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {
+          "rowspan": "2"
+         },
+         [
+          "span",
+          {},
+          "Asalariados   Públicos"
+         ]
+        ],
+        [
+         "td",
+         {},
+         "1,044***"
+        ],
+        [
+         "td",
+         {},
+         "0,939***"
+        ],
+        [
+         "td",
+         {},
+         "0,867***"
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {},
+         "(2,839)"
+        ],
+        [
+         "td",
+         {},
+         "(2,558)"
+        ],
+        [
+         "td",
+         {},
+         "(2,380)"
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {
+          "rowspan": "2"
+         },
+         [
+          "span",
+          {},
+          "No asalariados   Micro-Informales"
+         ]
+        ],
+        [
+         "td",
+         {},
+         "-1,678***"
+        ],
+        [
+         "td",
+         {},
+         "-1,644***"
+        ],
+        [
+         "td",
+         {},
+         "-1,572***"
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {},
+         "(0,187)"
+        ],
+        [
+         "td",
+         {},
+         "(0,193)"
+        ],
+        [
+         "td",
+         {},
+         "(0,208)"
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {
+          "rowspan": "2"
+         },
+         [
+          "span",
+          {},
+          "Asalariados   Micro-Informales"
+         ]
+        ],
+        [
+         "td",
+         {},
+         "-2,212***"
+        ],
+        [
+         "td",
+         {},
+         "-2,144***"
+        ],
+        [
+         "td",
+         {},
+         "-2,109***"
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {},
+         "(0,109)"
+        ],
+        [
+         "td",
+         {},
+         "(0,117)"
+        ],
+        [
+         "td",
+         {},
+         "(0,121)"
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {},
+         [
+          "span",
+          {},
+          "Asalariados   Formales",
+          [
+           "sup",
+           {},
+           "1"
+          ]
+         ]
+        ],
+        [
+         "td",
+         {
+          "rowspan": "23"
+         }
+        ],
+        [
+         "td",
+         {
+          "rowspan": "2"
+         }
+        ],
+        [
+         "td",
+         {
+          "rowspan": "2"
+         }
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {},
+         [
+          "span",
+          {},
+          "Tipo de ocupación"
+         ]
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {
+          "rowspan": "2"
+         },
+         [
+          "span",
+          {},
+          "Técnicos"
+         ]
+        ],
+        [
+         "td",
+         {},
+         "-0,137***"
+        ],
+        [
+         "td",
+         {},
+         "-0,104***"
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {},
+         "(0,872)"
+        ],
+        [
+         "td",
+         {},
+         "(0,901)"
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {
+          "rowspan": "2"
+         },
+         [
+          "span",
+          {},
+          "Operativas"
+         ]
+        ],
+        [
+         "td",
+         {},
+         "-0,457***"
+        ],
+        [
+         "td",
+         {},
+         "-0,247***"
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {},
+         "(0,633)"
+        ],
+        [
+         "td",
+         {},
+         "(0,781)"
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {
+          "rowspan": "2"
+         },
+         [
+          "span",
+          {},
+          "Elementales"
+         ]
+        ],
+        [
+         "td",
+         {},
+         "-1,177***"
+        ],
+        [
+         "td",
+         {},
+         "-0,858***"
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {},
+         "(0,308)"
+        ],
+        [
+         "td",
+         {},
+         "(0,424)"
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {},
+         [
+          "span",
+          {},
+          "Directivas/Gerencia/Profesionales",
+          [
+           "sup",
+           {},
+           "1"
+          ]
+         ]
+        ],
+        [
+         "td",
+         {
+          "rowspan": "2"
+         }
+        ],
+        [
+         "td",
+         {
+          "rowspan": "2"
+         }
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {},
+         [
+          "span",
+          {},
+          "Años"
+         ]
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {
+          "rowspan": "2"
+         },
+         [
+          "span",
+          {},
+          "2023"
+         ]
+        ],
+        [
+         "td",
+         {},
+         "-0,396***"
+        ],
+        [
+         "td",
+         {},
+         "-0,434***"
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {},
+         "(0,673)"
+        ],
+        [
+         "td",
+         {},
+         "(0,648)"
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {
+          "rowspan": "2"
+         },
+         [
+          "span",
+          {},
+          "2021"
+         ]
+        ],
+        [
+         "td",
+         {},
+         "-0,157***"
+        ],
+        [
+         "td",
+         {},
+         "-0,185***"
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {},
+         "(0,854)"
+        ],
+        [
+         "td",
+         {},
+         "(0,831)"
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {
+          "rowspan": "2"
+         },
+         [
+          "span",
+          {},
+          "2019"
+         ]
+        ],
+        [
+         "td",
+         {},
+         "-0,168***"
+        ],
+        [
+         "td",
+         {},
+         "-0,190***"
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {},
+         "(0,845)"
+        ],
+        [
+         "td",
+         {},
+         "(0,827)"
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {},
+         [
+          "span",
+          {},
+          "2016",
+          [
+           "sup",
+           {},
+           "1"
+          ]
+         ]
+        ],
+        [
+         "td",
+         {
+          "rowspan": "7"
+         }
+        ],
+        [
+         "td",
+         {
+          "rowspan": "2"
+         }
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {},
+         [
+          "span",
+          {},
+          "Nivel educativo"
+         ]
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {
+          "rowspan": "2"
+         },
+         [
+          "span",
+          {},
+          "Terciario/Universitario   Completo"
+         ]
+        ],
+        [
+         "td",
+         {},
+         "0,682***"
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {},
+         "(1,977)"
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {
+          "rowspan": "2"
+         },
+         [
+          "span",
+          {},
+          "Secundario Completo   y Terciario/Universitario Incompleto"
+         ]
+        ],
+        [
+         "td",
+         {},
+         "0,443***"
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {},
+         "(1,557)"
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {},
+         [
+          "span",
+          {},
+          "Hasta Secundario   Incompleto",
+          [
+           "sup",
+           {},
+           "1"
+          ]
+         ]
+        ],
+        [
+         "td",
+         {}
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {
+          "rowspan": "2"
+         },
+         [
+          "span",
+          {},
+          "Constante"
+         ]
+        ],
+        [
+         "td",
+         {},
+         "0,887***"
+        ],
+        [
+         "td",
+         {},
+         "1,540***"
+        ],
+        [
+         "td",
+         {},
+         "1,030***"
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {},
+         "(2,428)"
+        ],
+        [
+         "td",
+         {},
+         "(4,664)"
+        ],
+        [
+         "td",
+         {},
+         "(2,802)"
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {},
+         [
+          "span",
+          {},
+          "R cuadrado de Cox y   Snell"
+         ]
+        ],
+        [
+         "td",
+         {},
+         "0,246"
+        ],
+        [
+         "td",
+         {},
+         "0,262"
+        ],
+        [
+         "td",
+         {},
+         "0,269"
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {},
+         [
+          "span",
+          {},
+          "R cuadrado de Nagelkerke"
+         ]
+        ],
+        [
+         "td",
+         {},
+         "0,328"
+        ],
+        [
+         "td",
+         {},
+         "0,351"
+        ],
+        [
+         "td",
+         {},
+         "0,360"
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {},
+         [
+          "span",
+          {},
+          "Porcentaje de   aciertos"
+         ]
+        ],
+        [
+         "td",
+         {},
+         "74,9"
+        ],
+        [
+         "td",
+         {},
+         "74,9"
+        ],
+        [
+         "td",
+         {},
+         "75,0"
+        ],
+        "\n"
+       ],
+       "\n"
+      ],
+      "\n"
+     ],
+     "\n",
+     "\n",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Fuente: Elaboración propia con base en la información procesada por el Programa Cambio Estructural y Desigualdad Social, IIGG-FCS-UBA a partir de la EPH, INDEC (cuartos trimestres de 2016, 2019, 2021 y 2023). 1 Categoría de referencia. *Nivel de significancia de p < 0,1 **Nivel de significancia de p < 0,05 ***Nivel de significancia de p < 0,01"
+      ]
+     ],
+     "\n"
+    ],
+    "\n",
+    "\n",
+    [
+     "p",
+     {},
+     "\n",
+     [
+      "span",
+      {},
+      "5. Efecto diferencial y peso relativo de los factores estructurales en los retornos laborales "
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Tal como fue señalado al comienzo del artículo, las inserciones ocupacionales informales son las que registran los niveles de ingreso laboral más bajos en relación con el promedio general registrado para cada año. Cuando se incorpora al análisis el segmento de empleo se agrega un componente más que aporta a evidenciar la situación de desventaja en la que se encuentran las inserciones laborales informales frente a las inserciones laborales del sector productivo más dinámico."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "De este modo, a través de la ",
+     [
+      "a",
+      {
+       "href": "#t-gt8",
+       "id": "t-llamada-gt8-1"
+      },
+      "Figura 2"
+     ],
+     " se puede observar con claridad que, si bien la precariedad repercute negativamente en los ingresos laborales de todas las posiciones, su impacto es incluso más fuerte en el Sector Micro-Informal, menor en el Sector Privado Formal y escaso en el Sector Público –en donde la concentración de empleo precario es baja–."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Aún en el momento previo a la crisis COVID-19, los trabajadores no regulados del sector informal mantienen una distancia remunerativa con respecto a la media muy marcada, ubicándose un 33% por debajo de la media general, mientras que, en el momento de estancamiento general de los ingresos y caída de finales del período, aumentan su brecha remunerativa un 5%. Por su parte, los ingresos laborales horarios medios del empleo informal regulado se ubican, en general, para todos los años, en torno al promedio del conjunto. En el Sector Privado Formal, las brechas remunerativas del empleo precario se reducen hasta 2021, posicionándose este año levemente por encima del promedio general, para luego caer nuevamente por debajo del promedio."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "En todos los casos, el empleo no regulado se encuentra en una clara posición de desventaja en términos remunerativos. Por su parte, el empleo regulado formal no necesariamente acompaña a la evolución del ingreso laboral horario medio del sector, pues en 2019 el ingreso promedio cae, pero la brecha remunerativa del segmento primario en este sector se amplía levemente, y esto último vuelve a replicarse en 2023, principalmente debido al impulso de la caída remunerativa en los segmentos secundarios del empleo formal."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "span",
+     {
+      "id": "t-gt8"
+     },
+     "\n",
+     "\n",
+     [
+      "span",
+      {},
+      "Figura 2"
+     ],
+     "\n",
+     "\n",
+     "\n",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Distancia de la retribución media de cada segmento de empleo respecto de la media general del ingreso laboral horario y evolución de la media de ingreso laboral horario según sector de inserción y año seleccionado. Total de aglomerados urbanos EPH: 2016-2023. En pesos del 4° trimestre de 2023"
+      ]
+     ],
+     "\n",
+     "\n",
+     [
+      "figura",
+      {
+       "alt": "Distancia de la retribución media de cada segmento de empleo respecto de la media general del ingreso laboral horario y evolución de la media de ingreso laboral horario según sector de inserción y año seleccionado. Total de aglomerados urbanos EPH: 2016-2023. En pesos del 4° trimestre de 2023"
+      }
+     ],
+     [
+      "br",
+      {}
+     ],
+     "\n",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Fuente: Elaboración propia con base en la información procesada por el Programa Cambio Estructural y Desigualdad Social, IIGG-FCS-UBA a partir de la EPH, INDEC (cuartos trimestres de 2016, 2019, 2021 y 2023). *Excluye empleo público de asistencia."
+      ]
+     ],
+     "\n"
+    ],
+    "\n",
+    "\n",
+    [
+     "p",
+     {},
+     "Siendo que, por detrás de las distancias remunerativas analizadas opera una matriz productiva heterogénea, a continuación, interesa observar el peso relativo de un conjunto de variables estructurales en la explicación de las primas remunerativas, pero contemplando en este caso el segmento de empleo. Para ello, se recurre a tres modelos de regresión lineal, en los que las variables consideradas son: la posición económica-ocupacional –que contempla la inserción sectorial, pero también la categoría ocupacional- (X",
+     [
+      "sub",
+      {},
+      "1"
+     ],
+     "), la calidad del empleo (X",
+     [
+      "sub",
+      {},
+      "2"
+     ],
+     "), el tipo de ocupación (X",
+     [
+      "sub",
+      {},
+      "3"
+     ],
+     "), los años bajo estudio (X",
+     [
+      "sub",
+      {},
+      "4"
+     ],
+     "), y el nivel educativo alcanzado (X",
+     [
+      "sub",
+      {},
+      "5"
+     ],
+     "). Estos modelos se aplican sobre el logaritmo natural de los ingresos laborales horarios de los trabajadores (",
+     [
+      "span",
+      {},
+      "Ln"
+     ],
+     " Y), habiendo transformado las variables independientes introducidas en variables \"dummy\". La siguiente ecuación representa cada modelo:"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "span",
+     {
+      "id": "t-e4"
+     },
+     "\n",
+     [
+      "figura",
+      {}
+     ],
+     "[4]"
+    ],
+    "\n",
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "span",
+     {
+      "id": "t-e5"
+     },
+     "\n",
+     [
+      "figura",
+      {}
+     ],
+     "[5]"
+    ],
+    "\n",
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "span",
+     {
+      "id": "t-e6"
+     },
+     "\n",
+     [
+      "figura",
+      {}
+     ],
+     "[6]"
+    ],
+    "\n",
+    "\n",
+    [
+     "p",
+     {},
+     "En la ",
+     [
+      "a",
+      {
+       "href": "#t-gt6",
+       "id": "t-llamada-gt6-1"
+      },
+      "Tabla 6"
+     ],
+     " se encuentran los resultados de los modelos, los que poseen una bondad de ajuste que pasa del 31% al 39% a medida que se incorporan las distintas variables de control."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "span",
+     {
+      "id": "t-gt6"
+     },
+     "\n",
+     "\n",
+     [
+      "span",
+      {},
+      "Tabla 6"
+     ],
+     "\n",
+     "\n",
+     "\n",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       " Evolución de la incidencia de las variables seleccionadas sobre el logaritmo natural de los ingresos horarios de los ocupados. Total aglomerados urbanos EPH: 2016-2023"
+      ]
+     ],
+     "\n",
+     "\n",
+     "\n",
+     [
+      "table",
+      {
+       "id": "t-gt7-526564616c7963"
+      },
+      "\n",
+      [
+       "tbody",
+       {},
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {},
+         [
+          "span",
+          {},
+          "Variables del   modelo"
+         ]
+        ],
+        [
+         "td",
+         {
+          "rowspan": "2"
+         },
+         [
+          "span",
+          {},
+          "MODELO 1"
+         ]
+        ],
+        [
+         "td",
+         {
+          "rowspan": "2"
+         },
+         [
+          "span",
+          {},
+          "MODELO 2"
+         ]
+        ],
+        [
+         "td",
+         {
+          "rowspan": "2"
+         },
+         [
+          "span",
+          {},
+          "MODELO 3"
+         ]
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {},
+         [
+          "span",
+          {},
+          "Posición   económica-ocupacional"
+         ]
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {
+          "rowspan": "2"
+         },
+         [
+          "span",
+          {},
+          "No asalariados   Formales"
+         ]
+        ],
+        [
+         "td",
+         {},
+         "0,541***"
+        ],
+        [
+         "td",
+         {},
+         "0,188***"
+        ],
+        [
+         "td",
+         {},
+         "0,163***"
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {},
+         "(0,127)"
+        ],
+        [
+         "td",
+         {},
+         "(0,044)"
+        ],
+        [
+         "td",
+         {},
+         "(0,038)"
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {
+          "rowspan": "2"
+         },
+         [
+          "span",
+          {},
+          "Asalariados   Públicos"
+         ]
+        ],
+        [
+         "td",
+         {},
+         "0,237***"
+        ],
+        [
+         "td",
+         {},
+         "0,146***"
+        ],
+        [
+         "td",
+         {},
+         "0,113***"
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {},
+         "(0,131)"
+        ],
+        [
+         "td",
+         {},
+         "(0,080)"
+        ],
+        [
+         "td",
+         {},
+         "(0,062)"
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {
+          "rowspan": "2"
+         },
+         [
+          "span",
+          {},
+          "No asalariados   Micro-Informales"
+         ]
+        ],
+        [
+         "td",
+         {},
+         "-0,272***"
+        ],
+        [
+         "td",
+         {},
+         "-0,268***"
+        ],
+        [
+         "td",
+         {},
+         "-0,241***"
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {},
+         "(-0,167)"
+        ],
+        [
+         "td",
+         {},
+         "(-0,164)"
+        ],
+        [
+         "td",
+         {},
+         "(-0,148)"
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {
+          "rowspan": "2"
+         },
+         [
+          "span",
+          {},
+          "Asalariados   Micro-Informales"
+         ]
+        ],
+        [
+         "td",
+         {},
+         "-0,152***"
+        ],
+        [
+         "td",
+         {},
+         "-0,118***"
+        ],
+        [
+         "td",
+         {},
+         "-0,103***"
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {},
+         "(-0,072)"
+        ],
+        [
+         "td",
+         {},
+         "(-0,056)"
+        ],
+        [
+         "td",
+         {},
+         "(-0,049)"
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {},
+         [
+          "span",
+          {},
+          "Asalariados   Formales",
+          [
+           "sup",
+           {},
+           "1"
+          ]
+         ]
+        ],
+        [
+         "td",
+         {
+          "rowspan": "2"
+         }
+        ],
+        [
+         "td",
+         {
+          "rowspan": "2"
+         }
+        ],
+        [
+         "td",
+         {
+          "rowspan": "2"
+         }
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {},
+         [
+          "span",
+          {},
+          "Calidad del empleo"
+         ]
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {
+          "rowspan": "2"
+         },
+         [
+          "span",
+          {},
+          "Empleo regulado"
+         ]
+        ],
+        [
+         "td",
+         {},
+         "0,561***"
+        ],
+        [
+         "td",
+         {},
+         "0,508***"
+        ],
+        [
+         "td",
+         {},
+         "0,491***"
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {},
+         "(0,372)"
+        ],
+        [
+         "td",
+         {},
+         "(0,337)"
+        ],
+        [
+         "td",
+         {},
+         "(0,325)"
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {},
+         [
+          "span",
+          {},
+          "Empleo no regulado",
+          [
+           "sup",
+           {},
+           "1"
+          ]
+         ]
+        ],
+        [
+         "td",
+         {
+          "rowspan": "23"
+         }
+        ],
+        [
+         "td",
+         {
+          "rowspan": "2"
+         }
+        ],
+        [
+         "td",
+         {
+          "rowspan": "2"
+         }
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {},
+         [
+          "span",
+          {},
+          "Tipo de ocupación"
+         ]
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {
+          "rowspan": "2"
+         },
+         [
+          "span",
+          {},
+          "Técnicos"
+         ]
+        ],
+        [
+         "td",
+         {},
+         "-0,163***"
+        ],
+        [
+         "td",
+         {},
+         "-0,124***"
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {},
+         "(-0,062)"
+        ],
+        [
+         "td",
+         {},
+         "(-0,047)"
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {
+          "rowspan": "2"
+         },
+         [
+          "span",
+          {},
+          "Operativas"
+         ]
+        ],
+        [
+         "td",
+         {},
+         "-0,427***"
+        ],
+        [
+         "td",
+         {},
+         "-0,314***"
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {},
+         "(-0,281)"
+        ],
+        [
+         "td",
+         {},
+         "(-0,206)"
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {
+          "rowspan": "2"
+         },
+         [
+          "span",
+          {},
+          "Elementales"
+         ]
+        ],
+        [
+         "td",
+         {},
+         "-0,484***"
+        ],
+        [
+         "td",
+         {},
+         "-0,337***"
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {},
+         "(-0,231)"
+        ],
+        [
+         "td",
+         {},
+         "(-0,161)"
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {},
+         [
+          "span",
+          {},
+          "Directivas/Gerencia/Profesionales",
+          [
+           "sup",
+           {},
+           "1"
+          ]
+         ]
+        ],
+        [
+         "td",
+         {
+          "rowspan": "2"
+         }
+        ],
+        [
+         "td",
+         {
+          "rowspan": "2"
+         }
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {},
+         [
+          "span",
+          {},
+          "Años"
+         ]
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {
+          "rowspan": "2"
+         },
+         [
+          "span",
+          {},
+          "2023"
+         ]
+        ],
+        [
+         "td",
+         {},
+         "-0,333***"
+        ],
+        [
+         "td",
+         {},
+         "-0,345***"
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {},
+         "(-0,189)"
+        ],
+        [
+         "td",
+         {},
+         "(-0,195)"
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {
+          "rowspan": "2"
+         },
+         [
+          "span",
+          {},
+          "2021"
+         ]
+        ],
+        [
+         "td",
+         {},
+         "-0,191***"
+        ],
+        [
+         "td",
+         {},
+         "-0,201***"
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {},
+         "(-0,108)"
+        ],
+        [
+         "td",
+         {},
+         "(-0,114)"
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {
+          "rowspan": "2"
+         },
+         [
+          "span",
+          {},
+          "2019"
+         ]
+        ],
+        [
+         "td",
+         {},
+         "-0,170***"
+        ],
+        [
+         "td",
+         {},
+         "-0,176***"
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {},
+         "(-0,100)"
+        ],
+        [
+         "td",
+         {},
+         "(-0,104)"
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {},
+         [
+          "span",
+          {},
+          "2016",
+          [
+           "sup",
+           {},
+           "1"
+          ]
+         ]
+        ],
+        [
+         "td",
+         {
+          "rowspan": "7"
+         }
+        ],
+        [
+         "td",
+         {
+          "rowspan": "2"
+         }
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {},
+         [
+          "span",
+          {},
+          "Nivel educativo"
+         ]
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {
+          "rowspan": "2"
+         },
+         [
+          "span",
+          {},
+          "Terciario/Universitario   Completo"
+         ]
+        ],
+        [
+         "td",
+         {},
+         "0,285***"
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {},
+         "(0,161)"
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {
+          "rowspan": "2"
+         },
+         [
+          "span",
+          {},
+          "Secundario Completo   y Terciario/Universitario Incompleto"
+         ]
+        ],
+        [
+         "td",
+         {},
+         "0,106***"
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {},
+         "(0,070)"
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {},
+         [
+          "span",
+          {},
+          "Hasta Secundario   Incompleto",
+          [
+           "sup",
+           {},
+           "1"
+          ]
+         ]
+        ],
+        [
+         "td",
+         {}
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {},
+         [
+          "span",
+          {},
+          "Constante"
+         ]
+        ],
+        [
+         "td",
+         {},
+         "7,019"
+        ],
+        [
+         "td",
+         {},
+         "7,578"
+        ],
+        [
+         "td",
+         {},
+         "7,388"
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {},
+         [
+          "span",
+          {},
+          "R",
+          [
+           "sup",
+           {},
+           "2"
+          ],
+          "   ajustada"
+         ]
+        ],
+        [
+         "td",
+         {},
+         "0,312"
+        ],
+        [
+         "td",
+         {},
+         "0,379"
+        ],
+        [
+         "td",
+         {},
+         "0,392"
+        ],
+        "\n"
+       ],
+       "\n"
+      ],
+      "\n"
+     ],
+     "\n",
+     "\n",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Fuente: Elaboración propia con base en la información procesada por el Programa Cambio Estructural y Desigualdad Social, IIGG-FCS-UBA a partir de la EPH, INDEC (cuartos trimestres de 2016, 2019, 2021 y 2023). 1Categoría de referencia. *Nivel de significancia de p < 0,1 **Nivel de significancia de p < 0,05 ***Nivel de significancia de p < 0,01"
+      ]
+     ],
+     "\n"
+    ],
+    "\n",
+    "\n",
+    [
+     "p",
+     {},
+     "En primer lugar, resulta pertinente señalar el deterioro que experimentan los retornos laborales, pues la elasticidad del ingreso siempre es negativa y cae fuertemente en 2023."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "En paralelo, así como pertenecer al Sector Público y Privado Formal premia en términos remunerativos, mientras que pertenecer al Sector Micro-Informal castiga, la regulación o no del empleo también incide en el mismo sentido, premiando en el primer caso, y castigando en el segundo. Ahora bien, un dato que sobresale en el pasaje de un modelo a otro es el fuerte deterioro que experimentan las posiciones no asalariadas formales –y en menor medida también las asalariadas públicas-, pues la caída en la elasticidad del ingreso de estas posiciones las aproxima a las posiciones asalariadas formales –que son la categoría de comparación–. Por su parte, las posiciones no asalariadas y asalariadas informales evidencian su deterioro a través de una elasticidad negativa en sus ingresos. Adicionalmente, la penalidad en los ingresos aumenta conforme se avanza en el tiempo, es mayor entre las ocupaciones elementales y operativas, y menor entre los ocupados con niveles de instrucción elevados."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "De esta forma, se puede afirmar que la segmentación de la estructura ocupacional, reflejada en el peso diferenciado entre las inserciones en el sector moderno, y las del sector menos estructurado, con mayor grado de regulación laboral entre las primeras, y menor grado de institucionalidad laboral entre las segundas, continúa siendo un factor explicativo importante a la hora de analizar la dinámica de las remuneraciones –incluso a pesar del impacto que los momentos de crisis puedan tener sobre los procesos ocupacionales en términos de exclusión laboral (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445003_ref17",
+       "id": "t-llamada-redalyc_775445003_ref17-3"
+      },
+      "Donza et al., 2022"
+     ],
+     ")–."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n",
+     [
+      "span",
+      {},
+      "6. Conclusiones"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "En suma, los hallazgos del artículo conducen a apreciar que los efectos negativos de la segmentación en el funcionamiento del mercado laboral, evidenciado en la persistencia de brechas sectoriales en la calidad de las inserciones laborales, se mantienen antes, durante y después de la pandemia. De esta forma, a partir de la información recabada y examinada, no se observa un proceso destinado a alterar la segmentación laboral. Si bien el saldo del deterioro económico reflejado en el período analizado, y su agudización con la irrupción de la pandemia, acentuaron los problemas estructurales existentes, su impacto no hace más que confirmar la fragilidad del modelo de producción dominante en nuestro país."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "En esta línea, el artículo evidenció que la precariedad laboral se mantiene de forma sostenida en niveles elevados a lo largo de todos los años analizados, reflejando el carácter estructural del fenómeno. En efecto, los datos muestran que las diferencias en la distribución de los empleos regulados se mantienen casi inalteradas a lo largo del tiempo, situación que conduce a pensar que sus variaciones no necesariamente responden a las particularidades del ciclo económico."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "En paralelo, no sólo las diferencias en la distribución de los empleos regulados y no regulados se sostienen a lo largo del tiempo, sino que las primas remunerativas reflejan un comportamiento segmentado en función de la estructura sectorial y de la regulación del empleo, pues el empleo no regulado se encuentra en una clara posición de desventaja en términos remunerativos en todos los sectores de empleo, pero aún más entre las inserciones informales. Incluso cuando se controla el posible efecto derivado de las características que asumen los ciclos económicos en cada caso, la segmentación de la estructura ocupacional continúa siendo un factor explicativo importante en el análisis de la dinámica remunerativa."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Entonces, si bien los vaivenes del período económico acompañan estos procesos, no los explican en su totalidad. Reconociendo que en los años más recientes se dan en simultáneo dos procesos, un contexto coyuntural recesivo agudizado por la pandemia, y el sostenimiento de problemas de larga data asociados con la insuficiencia del sistema productivo para generar empleos productivos en sectores competitivos, y reducir la incidencia de la informalidad y de la extralegalidad laboral, el saldo general es el de un mercado de trabajo más desigual y empobrecido, con notorias brechas sectoriales en la calidad del empleo y en los ingresos. Si bien la precarización y la caída remunerativa son fenómenos que atraviesan a la fuerza de trabajo en general, afectan en especial a los sectores más vulnerables, es decir, a las ocupaciones informales, menos competitivas y excluidas de los beneficios de la protección social."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n",
+     [
+      "span",
+      {},
+      "Financiamiento"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "El presente artículo se desarrolló en el marco del Programa Cambio Estructural y Desigualdad Social, y el proyecto UBACyT (20020220300162BA) “Heterogeneidad Estructural, brechas socioeconómicas y reproducción de la marginalidad en la sociedad argentina urbana frente a una nueva crisis sistémica: 2010-2023”, bajo la dirección de Agustín Salvia, y con sede en el Instituto de Investigaciones Gino Germani de la Universidad de Buenos Aires."
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-back"
+    },
+    "\n",
+    [
+     "p",
+     {},
+     "\n",
+     [
+      "span",
+      {},
+      "Referencias"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445003_ref1"
+     },
+     "Abramo, L. (2021). ",
+     [
+      "span",
+      {},
+      "Políticas para enfrentar los desafíos de las antiguas y nuevas formas de informalidad en América Latina"
+     ],
+     ". Santiago de Chile: CEPAL. Recuperado de ",
+     [
+      "a",
+      {
+       "href": "https://repositorio.cepal.org/server/api/core/bitstreams/9332d331-9c59-40c6-be67-18d3a3bcb769/content"
+      },
+      "https://repositorio.cepal.org/server/api/core/bitstreams/9332d331-9c59-40c6-be67-18d3a3bcb769/content"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445003_ref2"
+     },
+     "Alfageme, C., Poy, S. y Salvia, A. (2023). Subutilización de la fuerza de trabajo antes y después del escenario de covid-19 en la Argentina. ",
+     [
+      "span",
+      {},
+      "Realidad económica, 53"
+     ],
+     "(353), 73-100. ",
+     [
+      "a",
+      {
+       "href": "https://ojs.iade.org.ar/index.php/re/article/view/234/193"
+      },
+      "https://ojs.iade.org.ar/index.php/re/article/view/234/193"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445003_ref3"
+     },
+     "Arakaki, A., Graña, J. M., Kennedy, D. y Sánchez, M. A. (2018). El mercado laboral argentino en la posconvertibilidad (2003 - 2015): entre la crisis neoliberal y los límites estructurales de la economía. ",
+     [
+      "span",
+      {},
+      "Semestre Económico, 47"
+     ],
+     "(21",
+     [
+      "span",
+      {},
+      ")"
+     ],
+     ", 229-257."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445003_ref4"
+     },
+     "Barrera Insua, F., Noguera, D. y Busso, M. (2022). La pandemia y el empleo registrado en Argentina. Un análisis de la desigualdad salarial en clave regional y sectorial. ",
+     [
+      "span",
+      {},
+      "Cuestiones de Sociología, ("
+     ],
+     "26), 1-15. ",
+     [
+      "a",
+      {
+       "href": "https://www.cuestionessociologia.fahce.unlp.edu.ar/article/view/cse132/15564"
+      },
+      "https://www.cuestionessociologia.fahce.unlp.edu.ar/article/view/cse132/15564"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445003_ref5"
+     },
+     "Beccaria, L., Carpio, J. y Orsatti, A. (2000). Argentina: informalidad laboral en el nuevo modelo económico. En J. Carpio, E. Klein e I. Novacovsky (Comps.), ",
+     [
+      "span",
+      {},
+      "Informalidad y exclusión social"
+     ],
+     " (pp. 139-160). Buenos Aires: Fondo de Cultura Económica."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445003_ref6"
+     },
+     "Castelao Caruana, M. E. (2016). La formalización de los trabajadores por cuenta propia en Argentina: análisis del Programa Monotributo Social y de los factores que condicionan su alcance. ",
+     [
+      "span",
+      {},
+      "Equidad y Desarrollo, 1"
+     ],
+     "(26), 13-38. ",
+     [
+      "a",
+      {
+       "href": "https://equidad.lasalle.edu.co/article/view/717/637"
+      },
+      "https://equidad.lasalle.edu.co/article/view/717/637"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445003_ref7"
+     },
+     "CEPAL (2012). ",
+     [
+      "span",
+      {},
+      "Eslabones de la desigualdad, Heterogeneidad estructural, empleo y protección social"
+     ],
+     ". Naciones Unidas. ",
+     [
+      "a",
+      {
+       "href": "https://repositorio.cepal.org/server/api/core/bitstreams/36549f57-2cd3-4801-8521-6ebe25fab3d7/content"
+      },
+      "https://repositorio.cepal.org/server/api/core/bitstreams/36549f57-2cd3-4801-8521-6ebe25fab3d7/content"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445003_ref8",
+      "lang": "pt"
+     },
+     "CEPAL (2020). ",
+     [
+      "span",
+      {},
+      "Estudio Económico de América Latina y el Caribe"
+     ],
+     ". CEPAL. ",
+     [
+      "a",
+      {
+       "href": "https://repositorio.cepal.org/server/api/core/bitstreams/245e6e2d-7409-4a75-a59e-468da76d48fe/content"
+      },
+      "https://repositorio.cepal.org/server/api/core/bitstreams/245e6e2d-7409-4a75-a59e-468da76d48fe/content"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445003_ref9"
+     },
+     "CEPAL (2023). ",
+     [
+      "span",
+      {},
+      "Balance Preliminar de las Economías de América Latina y el Caribe 2023"
+     ],
+     ". CEPAL. ",
+     [
+      "a",
+      {
+       "href": "https://repositorio.cepal.org/server/api/core/bitstreams/ed6ce06e-f8ae-40d7-8b60-a390cf32cd07/content"
+      },
+      "https://repositorio.cepal.org/server/api/core/bitstreams/ed6ce06e-f8ae-40d7-8b60-a390cf32cd07/content"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445003_ref10"
+     },
+     "CEPAL (2024). ",
+     [
+      "span",
+      {},
+      "Estudio Económico de América Latina y el Caribe. Trampa de bajo crecimiento, cambio climático y dinámica de empleo"
+     ],
+     ". CEPAL. ",
+     [
+      "a",
+      {
+       "href": "https://repositorio.cepal.org/server/api/core/bitstreams/c196b300-7478-49a5-b69b-1a4e9e6f82f1/content"
+      },
+      "https://repositorio.cepal.org/server/api/core/bitstreams/c196b300-7478-49a5-b69b-1a4e9e6f82f1/content"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445003_ref11"
+     },
+     "Ciaschi, M., Galeano, L. y Gasparini, L. (2021). Estructura productiva y desigualdad salarial: evidencia para América Latina. ",
+     [
+      "span",
+      {},
+      "El Trimestre Económico, "
+     ],
+     "(349), 77-106. ",
+     [
+      "a",
+      {
+       "href": "https://www.eltrimestreeconomico.com.mx/index.php/te/article/view/1078/1299"
+      },
+      "https://www.eltrimestreeconomico.com.mx/index.php/te/article/view/1078/1299"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445003_ref12"
+     },
+     "Ciaschi, M., Gasparini, L. y Neidhofer, G. (2024). ",
+     [
+      "span",
+      {},
+      "Movilidad Ocupacional en América Latina"
+     ],
+     ". CEDLAS. ",
+     [
+      "a",
+      {
+       "href": "https://www.cedlas.econo.unlp.edu.ar/wp/wp-content/uploads/doc_cedlas334.pdf"
+      },
+      "https://www.cedlas.econo.unlp.edu.ar/wp/wp-content/uploads/doc_cedlas334.pdf"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445003_ref13"
+     },
+     "CIFRA-CTA (2018). ",
+     [
+      "span",
+      {},
+      "El balance laboral de los dos primeros años del gobierno de Cambiemos: menos empleo, menor registración, menores salarios"
+     ],
+     ". CIFRA-CTA. ",
+     [
+      "a",
+      {
+       "href": "https://repositorio.citra.org.ar/s/condiciones-trabajo/item/306"
+      },
+      "https://repositorio.citra.org.ar/s/condiciones-trabajo/item/306"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445003_ref14"
+     },
+     "Cimoli, M., Porcile, G., Primi, A. y Vergara, S. (2005). Cambio estructural, heterogeneidad productiva y tecnología en América Latina. En M. Cimoli (Ed.), ",
+     [
+      "span",
+      {},
+      "Heterogeneidad estructural, asimetrías tecnológicas y crecimiento en América Latina"
+     ],
+     " (pp. 9-37). Naciones Unidas. ",
+     [
+      "a",
+      {
+       "href": "https://repositorio.cepal.org/server/api/core/bitstreams/1cd8da00-9c35-4c31-a23f-341a19cafa63/content"
+      },
+      "https://repositorio.cepal.org/server/api/core/bitstreams/1cd8da00-9c35-4c31-a23f-341a19cafa63/content"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445003_ref15"
+     },
+     "Donza, E. (2020). La incidencia de la cuarentena en el escenario laboral del Área Metropolitana de Buenos Aires. Efectos del COVID‐19 en un contexto de precariedad estructural. ",
+     [
+      "span",
+      {},
+      "Revista Trabajo y Sociedad, "
+     ],
+     "23(36), 29-53. ",
+     [
+      "a",
+      {
+       "href": "https://www.unse.edu.ar/trabajoysociedad/36%20DD%20Donza.pdf"
+      },
+      "https://www.unse.edu.ar/trabajoysociedad/36%20DD%20Donza.pdf"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445003_ref16"
+     },
+     "Donza, E., Poy, S. y Salvia, A. (2019). ",
+     [
+      "span",
+      {},
+      "Heterogeneidad y fragmentación del mercado de trabajo (2010-2018)"
+     ],
+     ". EDUCA. ",
+     [
+      "a",
+      {
+       "href": "https://wadmin.uca.edu.ar/public/ckeditor/Observatorio%20Deuda%20Social/Documentos/2019/2019-OBSERVATORIO-DOCUMENTO-ESTADISTICO-HETEROGENEIDAD-FRAGMENTACION_.pdf"
+      },
+      "https://wadmin.uca.edu.ar/public/ckeditor/Observatorio%20Deuda%20Social/Documentos/2019/2019-OBSERVATORIO-DOCUMENTO-ESTADISTICO-HETEROGENEIDAD-FRAGMENTACION_.pdf"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445003_ref17"
+     },
+     "Donza, E., Poy, S. y Salvia, A. (2022). Segmentación del mercado de trabajo y trayectorias laborales ante el impacto del COVID-19 en la Argentina urbana. ",
+     [
+      "span",
+      {},
+      "Revista Entramados y Perspectivas, 12"
+     ],
+     "(12), 107-136. ",
+     [
+      "a",
+      {
+       "href": "https://publicaciones.sociales.uba.ar/index.php/entramadosyperspectivas/article/view/7865"
+      },
+      "https://publicaciones.sociales.uba.ar/index.php/entramadosyperspectivas/article/view/7865"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445003_ref18"
+     },
+     "Espejo, A. (2022). ",
+     [
+      "span",
+      {},
+      "Informalidad laboral en América Latina. Propuesta metodológica para su identificación a nivel subnacional"
+     ],
+     ". CEPAL. ",
+     [
+      "a",
+      {
+       "href": "https://repositorio.cepal.org/server/api/core/bitstreams/b5e5aa09-8dd9-4ddf-84af-c9412db19f20/content"
+      },
+      "https://repositorio.cepal.org/server/api/core/bitstreams/b5e5aa09-8dd9-4ddf-84af-c9412db19f20/content"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445003_ref19"
+     },
+     "INDEC (2018). ",
+     [
+      "span",
+      {},
+      "Clasificador Nacional de Ocupaciones"
+     ],
+     ". INDEC."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445003_ref20"
+     },
+     "Jacovkis, P., Masello, D., Granovsky, P. y Oliva, M. (2021). La pandemia desnuda nuestros problemas más estructurales: un análisis de los impactos del COVID-19 en el mercado de trabajo argentino. ",
+     [
+      "span",
+      {},
+      "Revista Trabajo y Sociedad, "
+     ],
+     "(36), 9-28. ",
+     [
+      "a",
+      {
+       "href": "https://www.unse.edu.ar/trabajoysociedad/36%20DD%20Jacovkis%20Masello%20Granovsky%20y%20Oliva.pdf"
+      },
+      "https://www.unse.edu.ar/trabajoysociedad/36%20DD%20Jacovkis%20Masello%20Granovsky%20y%20Oliva.pdf"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445003_ref21",
+      "lang": "en"
+     },
+     "Kalleberg, A. L. (2013). Globalization and Precarious Work. ",
+     [
+      "span",
+      {},
+      "Contemporary Sociology: A Journal of Reviews, 42"
+     ],
+     "(5), 700-706."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445003_ref22"
+     },
+     "Kulfas, M. (2024). ",
+     [
+      "span",
+      {},
+      "El eterno resplandor de una Argentina sin recuerdos. Argentina en un nuevo período presidencial y una nueva crisis económica"
+     ],
+     ". Fundación Carolina. ",
+     [
+      "a",
+      {
+       "href": "https://fundacioncarolina.es/wp-content/uploads/2024/01/DT_FC_93.pdf"
+      },
+      "https://fundacioncarolina.es/wp-content/uploads/2024/01/DT_FC_93.pdf"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445003_ref23"
+     },
+     "López, N. y Monza, A. (1995). Un intento de estimación del sector informal urbano en la Argentina. ",
+     [
+      "span",
+      {},
+      "Desarrollo Económico, 139"
+     ],
+     "(35), 467-474."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445003_ref24"
+     },
+     "Medina, L. (2019). De trabajadores a “costo laboral”. Las políticas laborales en la era macrista. En M. Nazareno, M. S. Segura y G. Vázquez (Eds.), ",
+     [
+      "span",
+      {},
+      "Pasaron cosas. Política y Políticas Públicas en el gobierno de Cambiemos"
+     ],
+     " (pp. 221-244). Editorial Brujas."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445003_ref25"
+     },
+     "OIT (2012). ",
+     [
+      "span",
+      {},
+      "International Standard Classification of Occupations. ISCO-08"
+     ],
+     ". OIT. ",
+     [
+      "a",
+      {
+       "href": "https://webapps.ilo.org/ilostat-files/ISCO/newdocs-08-2021/ISCO-08/ISCO-08%20EN%20Vol%201.pdf"
+      },
+      "https://webapps.ilo.org/ilostat-files/ISCO/newdocs-08-2021/ISCO-08/ISCO-08%20EN%20Vol%201.pdf"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445003_ref26"
+     },
+     "OIT (2020a). ",
+     [
+      "span",
+      {},
+      "Impactos en el mercado de trabajo y los ingresos en América Latina y el Caribe"
+     ],
+     ". OIT. ",
+     [
+      "a",
+      {
+       "href": "https://www.ilo.org/sites/default/files/wcmsp5/groups/public/@americas/@ro-lima/documents/publication/wcms_756694.pdf"
+      },
+      "https://www.ilo.org/sites/default/files/wcmsp5/groups/public/@americas/@ro-lima/documents/publication/wcms_756694.pdf"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445003_ref27"
+     },
+     "OIT (2020b). ",
+     [
+      "span",
+      {},
+      "Perspectivas sociales y del empleo en el mundo. Tendencias 2020"
+     ],
+     ". OIT. ",
+     [
+      "a",
+      {
+       "href": "https://www.ilo.org/sites/default/files/wcmsp5/groups/public/@dgreports/@dcomm/@publ/documents/publication/wcms_757163.pdf"
+      },
+      "https://www.ilo.org/sites/default/files/wcmsp5/groups/public/@dgreports/@dcomm/@publ/documents/publication/wcms_757163.pdf"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445003_ref28"
+     },
+     "Perry, G. E., Maloney, W. F., Arias, O. S., Fajnzylber, P., Mason, A. D. y Saavedra Chanduvi, J. (2007). ",
+     [
+      "span",
+      {},
+      "Informalidad: escape y exclusión"
+     ],
+     ". Banco Mundial. ",
+     [
+      "a",
+      {
+       "href": "https://documents1.worldbank.org/curated/zh/889371468313790669/pdf/400080PUB0SPAN101OFFICIAL0USE0ONLY1.pdf"
+      },
+      "https://documents1.worldbank.org/curated/zh/889371468313790669/pdf/400080PUB0SPAN101OFFICIAL0USE0ONLY1.pdf"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445003_ref29"
+     },
+     "Pinto, A. (1976). ",
+     [
+      "span",
+      {},
+      "Naturaleza e implicaciones de la heterogeneidad estructural de América Latina"
+     ],
+     ". Fondo de Cultura Económica."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445003_ref30",
+      "lang": "en"
+     },
+     "Piore, M. J. (1975). Notes for a theory of labor market stratification. En R. Edwards, M. Reich y D. Gordon (Eds.), ",
+     [
+      "span",
+      {},
+      "Labor Market Segmentation"
+     ],
+     " (pp. 125-150). Heath and Co."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445003_ref31"
+     },
+     "Poy, S. (2020). Heterogeneidad laboral y procesos de empobrecimiento de los hogares en Argentina (2003-2017). ",
+     [
+      "span",
+      {},
+      "Problemas Del Desarrollo, Revista Latinoamericana de Economía, 51"
+     ],
+     "(201), 3-28. ",
+     [
+      "a",
+      {
+       "href": "https://www.probdes.iiec.unam.mx/index.php/pde/article/view/69486/61485"
+      },
+      "https://www.probdes.iiec.unam.mx/index.php/pde/article/view/69486/61485"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445003_ref32"
+     },
+     "Poy, S. y Salvia, A. (2019). ",
+     [
+      "span",
+      {},
+      "Estratificación social, movilidad intergeneracional y distribución de resultados de bienestar en la Argentina"
+     ],
+     ". Fundación Universidad Católica Argentina. ",
+     [
+      "a",
+      {
+       "href": "https://wadmin.uca.edu.ar/public/ckeditor/Observatorio%20Deuda%20Social/Documentos/2019/2019-OBSERVATORIO-BOLETIN_ESTRATIFICACION_MOVILIDAD_BIENESTAR.pdf"
+      },
+      "https://wadmin.uca.edu.ar/public/ckeditor/Observatorio%20Deuda%20Social/Documentos/2019/2019-OBSERVATORIO-BOLETIN_ESTRATIFICACION_MOVILIDAD_BIENESTAR.pdf"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445003_ref33"
+     },
+     "Poy, S., Robles, R. y Salvia, A. (2021). ¿Una misma desigualdad? Heterogeneidad estructural, protección social y distribución del ingreso en clave comparada. ",
+     [
+      "span",
+      {},
+      "Revista Española de Sociología, 30"
+     ],
+     "(3), 1-21. ",
+     [
+      "a",
+      {
+       "href": "https://recyt.fecyt.es/index.php/res/article/view/78289/65679"
+      },
+      "https://recyt.fecyt.es/index.php/res/article/view/78289/65679"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445003_ref34"
+     },
+     "Prebisch, R. (1952). ",
+     [
+      "span",
+      {},
+      "Problemas teóricos y prácticos del crecimiento económico"
+     ],
+     ". Naciones Unidas."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445003_ref35"
+     },
+     "Prebisch, R. (1976). ",
+     [
+      "span",
+      {},
+      "Crítica al capitalismo periférico"
+     ],
+     ". CEPAL."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445003_ref36"
+     },
+     "PREALC-OIT (1978). ",
+     [
+      "span",
+      {},
+      "Sector Informal: funcionamiento y políticas"
+     ],
+     ". Oficina Internacional del Trabajo."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445003_ref37"
+     },
+     "Robles, R. y Fachal, M. N. (2022). Pobreza y desigualdad: el papel del mercado de trabajo y las políticas sociales. En A. Salvia, S. Poy y J. Pla (Comps.), ",
+     [
+      "span",
+      {},
+      "La sociedad argentina en la pospandemia"
+     ],
+     " (pp. 93-108). Siglo XXI."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445003_ref38"
+     },
+     "Robles, R., Passone Vece, M. V. y Salvia, A. (2024). Factores asociados a la precariedad laboral entre la mano de obra de la Argentina contemporánea bajo la heterogeneidad estructural (2013-2022). ",
+     [
+      "span",
+      {},
+      "Revista Realidad Económica, 367"
+     ],
+     "(54),",
+     [
+      "span",
+      {}
+     ],
+     "45-80. ",
+     [
+      "a",
+      {
+       "href": "https://ojs.iade.org.ar/index.php/re/article/view/308/264"
+      },
+      "https://ojs.iade.org.ar/index.php/re/article/view/308/264"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445003_ref39"
+     },
+     "Salvia, A. (2012). ",
+     [
+      "span",
+      {},
+      "La trampa neoliberal. Un estudio sobre los cambios en la heterogeneidad estructural y la distribución del ingreso en la Argentina: 1990-2003"
+     ],
+     ". Eudeba."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445003_ref40"
+     },
+     "Salvia, A. y Vera, J. (2015). Las desigualdades estructurales y el efecto de la educación sobre las oportunidades de empleo. En J. Lindenboim y A. Salvia (comps.), ",
+     [
+      "span",
+      {},
+      "Hora de balance: proceso de acumulación, mercado de trabajo y bienestar. Argentina, 2002-2014"
+     ],
+     " (pp. 211-243). Eudeba."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445003_ref41"
+     },
+     "Salvia, A., Vera, J. y Poy, S. (2015). Cambios y continuidades en la estructura ocupacional urbana argentina. En J. Lindenboim y A. Salvia (Comps.), ",
+     [
+      "span",
+      {},
+      "Hora de balance: proceso de acumulación, mercado de trabajo y bienestar. Argentina, 2002-2014"
+     ],
+     " (pp. 133-172). Eudeba."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445003_ref42"
+     },
+     "Salvia, A. y Vera, J. (2016). Calidad del empleo en Argentina (2004-2011). Una crítica al enfoque de las credenciales educativas. ",
+     [
+      "span",
+      {},
+      "Revista de Ciencias Sociales, 38"
+     ],
+     "(29), 37-58. ",
+     [
+      "a",
+      {
+       "href": "http://www.scielo.edu.uy/pdf/rcs/v29n38/v29n38a03.pdf"
+      },
+      "http://www.scielo.edu.uy/pdf/rcs/v29n38/v29n38a03.pdf"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445003_ref43"
+     },
+     "Shin, K-Y., Kalleberg, A. L. y Hewison, K. (2023). Precarious work: A global perspective. ",
+     [
+      "span",
+      {},
+      "Sociology Compass, 17"
+     ],
+     "(12), 1-14."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445003_ref44"
+     },
+     "Tokman, V. (1982). ",
+     [
+      "span",
+      {},
+      "Desarrollo desigual y absorción de empleo. América Latina 1950-1980"
+     ],
+     ". CEPAL. ",
+     [
+      "a",
+      {
+       "href": "https://repositorio.cepal.org/server/api/core/bitstreams/2a683579-9af9-4684-8dce-b2da12264a36/content"
+      },
+      "https://repositorio.cepal.org/server/api/core/bitstreams/2a683579-9af9-4684-8dce-b2da12264a36/content"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445003_ref45"
+     },
+     "Wainer, A. (2019). ¿Desarrollismo o neoliberalismo? Una economía política del macrismo. ",
+     [
+      "span",
+      {},
+      "Realidad Económica, "
+     ],
+     "(324), 33-68. ",
+     [
+      "a",
+      {
+       "href": "https://ojs.iade.org.ar/index.php/re/article/view/60/12"
+      },
+      "https://ojs.iade.org.ar/index.php/re/article/view/60/12"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445003_ref46"
+     },
+     "Wainer, A. (2021). Una nueva “década perdida” en la Argentina y su crónica crisis en el balance de pagos. ",
+     [
+      "span",
+      {},
+      "Cuadernos de Economía Crítica, 14"
+     ],
+     "(7), 53-79. ",
+     [
+      "a",
+      {
+       "href": "https://sociedadeconomiacritica.org/ojs/index.php/cec/article/view/221/656"
+      },
+      "https://sociedadeconomiacritica.org/ojs/index.php/cec/article/view/221/656"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Notas"
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-fn20"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "1"
+     ],
+     " En el tercer trimestre de 2018, el desempleo se ubica en torno al 9,9%, el 18,6% de los ocupados se encuentra bajo la figura del subempleo inestable, y el 27,2% posee un trabajo con un ingreso superior al de subsistencia, pero precario, es decir, por fuera del sistema de seguridad social (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445003_ref16",
+       "id": "t-llamada-redalyc_775445003_ref16-1"
+      },
+      "Donza et al., 2019"
+     ],
+     ")."
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-fn21"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "2"
+     ],
+     " En el año 2017, la actividad económica experimenta una recuperación alrededor del 2,9% debido a cierta mejora en el poder adquisitivo y al gasto social. La leve mejora en la tasa de empleo se asocia con este moderado crecimiento económico –a partir del que la actividad económica sólo se ubica un 0,5% por encima de los valores alcanzados en 2015– (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445003_ref13",
+       "id": "t-llamada-redalyc_775445003_ref13-2"
+      },
+      "CIFRA-CTA, 2018"
+     ],
+     ")."
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-fn22"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "3"
+     ],
+     " En dicho año aumenta, principalmente, el empleo autónomo –monotributo y monotributo social– y en el sector público (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445003_ref13",
+       "id": "t-llamada-redalyc_775445003_ref13-3"
+      },
+      "CIFRA-CTA, 2018"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445003_ref24",
+       "id": "t-llamada-redalyc_775445003_ref24-2"
+      },
+      "Medina, 2019"
+     ],
+     "). Este conjunto heterogéneo de actividades suele caracterizarse por los bajos ingresos a los que acceden, y la fata de estabilidad y seguridad en el empleo. De este modo, la información disponible sugiere que, entre 2015 y 2017, crece la cantidad de trabajadores independientes, baja la cantidad de trabajadores en relación de dependencia, aumenta la precariedad del empleo, y se contrae el tamaño del sector privado (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445003_ref13",
+       "id": "t-llamada-redalyc_775445003_ref13-4"
+      },
+      "CIFRA-CTA, 2018"
+     ],
+     "). El número de trabajadores empleados registrados y posicionados en el sector privado cae mensualmente, y de forma consecutiva, desde 2018 (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445003_ref27",
+       "id": "t-llamada-redalyc_775445003_ref27-1"
+      },
+      "OIT, 2020b"
+     ],
+     ")."
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-fn23"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "4"
+     ],
+     " El comportamiento de los ingresos laborales y de las brechas remunerativas operan como una variable proxy de las productividades diferenciales entre sectores de empleo y, consecuentemente, de la estructura ocupacional heterogénea. Distintos trabajos han aportado evidencia empírica respecto de la relativa invarianza de la estructura productiva heterogénea de nuestro país en donde sobresale una significativa participación del empleo informal a lo largo de los años, con escuetas variaciones, y con retornos laborales marcadamente menores a los del empleo formal –e incluso por debajo del promedio general según el año– (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445003_ref16",
+       "id": "t-llamada-redalyc_775445003_ref16-2"
+      },
+      "Donza et al., 2019"
+     ],
+     ")."
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-fn24"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "5"
+     ],
+     " En este punto, resulta significativo señalar que el umbral de cinco ocupados permite distinguir a las micro-empresas del sector informal de la pequeña, mediana y gran empresa, encontrando incluso en trabajos como el de López y Monza (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445003_ref23",
+       "id": "t-llamada-redalyc_775445003_ref23-1"
+      },
+      "1995"
+     ],
+     "), y Beccaria et al. (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445003_ref5",
+       "id": "t-llamada-redalyc_775445003_ref5-1"
+      },
+      "2000"
+     ],
+     "), antecedentes de gran valor para el caso argentino."
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-fn25"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "6"
+     ],
+     " En la actualidad, mientras que CEPAL utiliza el concepto de “sectores de baja productividad” para caracterizar al sector informal –a diferencia del formal–, OIT incorpora la distinción entre el sector informal, cuyo eje es la unidad de producción, el empleo informal, que se base en el puesto de trabajo, tomando en consideración el cumplimiento de la legislación laboral y la seguridad social, y la economía informal, que abarca a las actividades económicas que no están contempladas por los sistemas formales –o lo están de forma insuficiente– (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445003_ref1",
+       "id": "t-llamada-redalyc_775445003_ref1-4"
+      },
+      "Abramo, 2021"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445003_ref18",
+       "id": "t-llamada-redalyc_775445003_ref18-3"
+      },
+      "Espejo, 2022"
+     ],
+     "). En este contexto, el esquema aquí propuesto coincide con la versión de CEPAL al proponer una clasificación del mercado laboral según su fragmentación productiva, apoyada en las diferencias de tamaño del establecimiento según la cantidad de ocupados. Asimismo, el esquema también contempla la categoría ocupacional que permite dar cuenta de la heterogeneidad al interior de los sectores ocupacionales distinguiendo distintas posiciones en las relaciones de producción –patrón, trabajador por cuenta propia y empleado asalariado–."
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-fn26"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "7"
+     ],
+     " Según este enfoque, se distinguen distintos segmentos asociados a diferentes marcos institucionales, situación que se traduce en una estructura de relaciones laborales con inserciones de calidad disímiles (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445003_ref30",
+       "id": "t-llamada-redalyc_775445003_ref30-1"
+      },
+      "Piore, 1975"
+     ],
+     ")."
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-fn27"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "8"
+     ],
+     " A comparación de lo que sucede en el segmento primario, las remuneraciones tienden a ser más bajas en el segmento secundario y terciario."
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-fn28"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "9"
+     ],
+     " De acuerdo con la literatura, las repercusiones de la pandemia en el mercado laboral de la Argentina incluyeron: a) en el contexto de una economía claramente restringida, la salida del mercado de trabajo –reflejada en la caída del empleo y en el aumento del desempleo- fue la respuesta para muchos trabajadores, siendo los puestos de trabajo no registrados los que se vieron mayormente perjudicados-; b) no sólo los ocupados en empleos no regulados en general, sino también aquellos empleados en actividades de baja productividad –entre quienes también la incidencia de la precariedad laboral es muy alta- fueron seriamente afectados por las políticas de aislamiento del principio; c) a posteriori, con el relajamiento de las medidas restrictivas, el empleo comienza a reactivarse a la par que también lo hace la economía, pero teniendo como protagonista a las inserciones no asalariadas informales; d) hacia el final del primer año de la pandemia, cayeron los empleos privados, aumentaron las inserciones públicas y el trabajo autónomo que generalmente concentra altos niveles de precariedad (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445003_ref20",
+       "id": "t-llamada-redalyc_775445003_ref20-2"
+      },
+      "Jacovkis ",
+      [
+       "span",
+       {},
+       "et al."
+      ],
+      ", 2021"
+     ],
+     ";",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445003_ref4",
+       "id": "t-llamada-redalyc_775445003_ref4-2"
+      },
+      " Barrera ",
+      [
+       "span",
+       {},
+       "et al."
+      ],
+      ", 2022"
+     ],
+     "). En suma, el saldo de la irrupción de la pandemia fue de una acentuación de los problemas estructurales existentes en nuestro país, expresado en un crecimiento del empleo precario y de la informalidad estructural (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445003_ref20",
+       "id": "t-llamada-redalyc_775445003_ref20-3"
+      },
+      "Jacovkis ",
+      [
+       "span",
+       {},
+       "et al"
+      ],
+      "., 2021"
+     ],
+     ", p. 26)."
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-fn29"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "10"
+     ],
+     " Al igual que en los ejercicios de regresión lineal múltiple, aquí también se adoptó el criterio de transformar las categorías de cada variable independiente del modelo en variables \"dummy\" (0 para ausencia y 1 para presencia de la característica), excluyendo en cada caso una categoría de comparación (cuya incidencia estimada es representada de manera indiferenciada por la constante)."
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-fn30"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "11"
+     ],
+     " Por lo general, estas ocupaciones concentran los niveles educativos más elevados, los que a su vez concentran las probabilidades más altas de pertenecer al segmento regulado del empleo. De acuerdo con los datos de la ",
+     [
+      "a",
+      {
+       "href": "#t-gt5",
+       "id": "t-llamada-gt5-3"
+      },
+      "Tabla 5"
+     ],
+     ", estas probabilidades son de un 97% más entre los estratos educativos más altos, y de un 56% más entre los estratos educativos intermedios."
+    ],
+    "\n",
+    [
+     "br",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n",
+     [
+      "span",
+      {},
+      "Recepción: "
+     ],
+     " 01 noviembre  2024"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n",
+     [
+      "span",
+      {},
+      "Aprobación: "
+     ],
+     " 01 mayo  2025"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n",
+     [
+      "span",
+      {},
+      "Publicación: "
+     ],
+     " 01 febrero  2026"
+    ],
+    "\n",
+    [
+     "br",
+     {}
+    ],
+    "\n",
+    [
+     "br",
+     {}
+    ],
+    "\n\n",
+    "\n",
+    [
+     "a",
+     {
+      "href": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+     },
+     " ",
+     [
+      "figura",
+      {
+       "alt": "Imagen"
+      }
+     ],
+     " Obra bajo Licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional"
+    ],
+    "\n",
+    [
+     "figura",
+     {
+      "alt": "Imagen"
+     }
+    ],
+    "\n",
+    "\n"
+   ],
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-logo-derecha"
+    },
+    "\n",
+    [
+     "a",
+     {
+      "href": "https://www.fahce.unlp.edu.ar/facultad/secretarias-y-prosecretarias/prosecretaria-de-gestion-editorial-y-difusion/ediciones-de-la-fahce"
+     },
+     " \n",
+     [
+      "figura",
+      {
+       "alt": "ediciones_fahce"
+      }
+     ],
+     "\n"
+    ],
+    "\n"
+   ],
+   "\n"
+  ],
+  "\n",
+  [
+   "span",
+   {
+    "id": "t-creditos"
+   },
+   "\n",
+   [
+    "span",
+    {},
+    [
+     "figura",
+     {}
+    ],
+    [
+     "sup",
+     {},
+     "Ediciones de la FaHCE utiliza"
+    ],
+    [
+     "a",
+     {
+      "href": "http://portal.amelica.org/ameli"
+     },
+     [
+      "figura",
+      {}
+     ]
+    ],
+    " ",
+    [
+     "figura",
+     {}
+    ]
+   ],
+   [
+    "br",
+    {}
+   ],
+   "\n",
+   "\n"
+  ],
+  "\n"
+ ]
+}

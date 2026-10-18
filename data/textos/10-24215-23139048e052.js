@@ -1,0 +1,2477 @@
+// Copia de textos/10-24215-23139048e052.json para abrir la aplicación sin servidor.
+(window.DATOS_REVISTAS = window.DATOS_REVISTAS || {})["textos/10-24215-23139048e052.json"] = {
+ "version": 1,
+ "recogido": "2026-10-18T11:49:17+00:00",
+ "doi": "10.24215/23139048e052",
+ "titulo": "Paro Nacional: El Memorial de Agravios para el gobierno Duque",
+ "revista": "2313-9048",
+ "numero": "v16-n16-2022",
+ "licencia": {
+  "codigo": "by-nc-sa",
+  "nombre": "CC BY-NC-SA 4.0",
+  "nombre_completo": "Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional",
+  "url": "https://creativecommons.org/licenses/by-nc-sa/4.0",
+  "url_legal": "https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.es"
+ },
+ "fuente": {
+  "url": "https://perio.unlp.edu.ar/ojs/index.php/cps/article/download/7488/6518/31255?inline=1",
+  "formato": "HTML",
+  "plataforma": "ojs-galerada",
+  "pagina": "https://perio.unlp.edu.ar/ojs/index.php/cps/article/view/7488"
+ },
+ "autores_cita": [
+  {
+   "apellidos": "Casallas Duque",
+   "nombre_pila": "Shannon Estefannia",
+   "nombre": null
+  }
+ ],
+ "avisos_derechos": [
+  "Derechos de autor 2022 Cuadernos de H ideas",
+  "Licencia Derechos de autor 2022 Cuadernos de H ideas Esta obra está bajo una licencia internacional Creative Commons Atribución-NoComercial-CompartirIgual 4.0. La aceptación de un original por parte de la revista implica la cesión no exclusiva de los derechos patrimoniales de los/as autores/as en favor del editor, quien permite la reutilización, luego de su edición (postprint), bajo una Licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0) Acorde a estos términos, el material se puede compartir (copiar y redistribuir en cualquier medio o formato) y adaptar (remezclar, transformar y crear a partir del material otra obra), siempre que a) se cite la autoría y la fuente original de su publicación (revista y URL de la obra), b) no se use para fines comerciales y c) se mantengan los mismos términos de la licencia. La cesión de derechos no exclusivos implica que luego de su edición (postprint) en Cuadernos de H ideas las/os autoras/es pueden publicar su trabajo en cualquier idioma, medio y formato; en tales casos, se solicita que se consigne que el material fue publicado originalmente en esta revista. Tal cesión supone, también, la autorización de los/as autores/as para que el trabajo sea cosechado por SEDICI, el repositorio institucional de la Universidad Nacional de La Plata, y sea difundido en las bases de datos que el equipo editorial considere adecuadas para incrementar la visibilidad de la publicación y de sus autores/as. Asimismo, la revista incentiva a las/os autoras/es para que luego de su publicación en Cuadernos de H ideas depositen sus producciones en otros repositorios institucionales y temáticos, bajo el principio de que ofrecer a la sociedad la producción científica y académica sin restricciones contribuye a un mayor intercambio del conocimiento global."
+ ],
+ "idioma_principal": "es",
+ "indice": [],
+ "vueltas": {},
+ "contenido": [
+  [
+   "span",
+   {
+    "id": "t-MathJax_Message"
+   }
+  ],
+  "\n",
+  [
+   "span",
+   {
+    "id": "t-visor-cabecera"
+   },
+   "\n",
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-logo-institucion"
+    },
+    "\n",
+    [
+     "figura",
+     {}
+    ]
+   ],
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-logo-revista"
+    },
+    "\n",
+    [
+     "figura",
+     {}
+    ]
+   ],
+   "\n",
+   "\n"
+  ],
+  "\n",
+  [
+   "span",
+   {
+    "id": "t-articulo"
+   },
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-front"
+    },
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-articulo-categoria"
+     },
+     "\n",
+     [
+      "p",
+      {},
+      "Artículos"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-articulo-meta"
+     },
+     "\n",
+     [
+      "p",
+      {},
+      "Paro Nacional: ",
+      [
+       "span",
+       {},
+       "El Memorial de Agravios"
+      ],
+      " para el gobierno Duque"
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "lang": "en"
+      },
+      "National\nStrike:",
+      [
+       "span",
+       {},
+       " The Grievance Memorial"
+      ],
+      " for\nthe Duque government"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-articulo-acerca"
+     },
+     "\n",
+     [
+      "span",
+      {
+       "id": "t-ficha-general"
+      },
+      "\n",
+      [
+       "span",
+       {
+        "id": "t-autores-articulo"
+       },
+       "\n",
+       "\n",
+       "\n",
+       [
+        "a",
+        {
+         "href": "https://orcid.org/0000-0001-6255-7128"
+        },
+        [
+         "figura",
+         {}
+        ]
+       ],
+       "  ",
+       [
+        "span",
+        {},
+        "Shannon Estefannia"
+       ],
+       " ",
+       [
+        "span",
+        {},
+        "Casallas Duque"
+       ],
+       " ",
+       [
+        "span",
+        {}
+       ],
+       [
+        "span",
+        {},
+        " shannonecd@gmail.com"
+       ],
+       "\n",
+       "\n",
+       "\n",
+       [
+        "span",
+        {},
+        "Universidad Distrital Francisco José\nde Caldas"
+       ],
+       ", ",
+       [
+        "span",
+        {},
+        "Colombia"
+       ],
+       "\n",
+       "\n",
+       "\n"
+      ],
+      "\n",
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "Cuadernos de H ideas"
+       ],
+       "\n"
+      ],
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "Universidad Nacional de La Plata, Argentina"
+       ],
+       "\n"
+      ],
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "ISSN: "
+       ],
+       "2313-9048"
+      ],
+      "\n",
+      [
+       "p",
+       {}
+      ],
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "Periodicidad: "
+       ],
+       "Frecuencia continua"
+      ],
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "vol.  16, "
+       ],
+       "núm.  16, ",
+       [
+        "span",
+        {
+         "id": "t-elocation-id"
+        },
+        "e052, "
+       ],
+       [
+        "span",
+        {},
+        "2022"
+       ],
+       "\n"
+      ],
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       "cuadernosdehideas@perio.unlp.edu.ar",
+       "\n"
+      ],
+      "\n",
+      "\n",
+      [
+       "span",
+       {
+        "id": "t-articulo-product"
+       }
+      ],
+      "\n",
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "Recepción: "
+       ],
+       " 06 Octubre  2021"
+      ],
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "Aprobación: "
+       ],
+       " 04 Marzo  2022"
+      ],
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "Publicación: "
+       ],
+       " 07 Abril  2022"
+      ],
+      "\n",
+      [
+       "br",
+       {}
+      ],
+      "\n",
+      [
+       "br",
+       {}
+      ],
+      "\n",
+      "\n",
+      "\n",
+      [
+       "span",
+       {},
+       "URL: "
+      ],
+      [
+       "a",
+       {
+        "href": "http://portal.amelica.org/ameli/journal/31/313286001/"
+       },
+       "http://portal.amelica.org/ameli/journal/31/313286001/"
+      ],
+      "\n",
+      "\n",
+      "\n",
+      [
+       "span",
+       {},
+       "DOI: "
+      ],
+      [
+       "a",
+       {
+        "href": "https://doi.org/10.24215/23139048e052"
+       },
+       "https://doi.org/10.24215/23139048e052"
+      ],
+      "\n",
+      "\n",
+      "\n",
+      [
+       "p",
+       {}
+      ],
+      "\n",
+      "\n",
+      "\n",
+      "\n",
+      [
+       "a",
+       {
+        "href": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+       },
+       [
+        "figura",
+        {}
+       ],
+       [
+        "br",
+        {}
+       ],
+       "\n"
+      ],
+      "Esta obra está bajo una ",
+      [
+       "a",
+       {
+        "href": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+       },
+       "Licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional."
+      ],
+      "\n",
+      "\n",
+      "\n",
+      [
+       "p",
+       {}
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "\n",
+      [
+       "span",
+       {},
+       "Resumen:\n\t\t\t\t\t\t\t                           "
+      ],
+      [
+       "span",
+       {},
+       "Colombia completó dos meses en estado de Paro Nacional desde el primer llamado a la protesta, en abril 28/2021, para pedir el retiro de la Reforma Tributaria: ",
+       [
+        "span",
+        {},
+        "Ley de Solidaridad Sostenible"
+       ],
+       " 2021. Las movilizaciones terminaron la última semana de junio, cuando el Comité Nacional del Paro informó sobre la suspensión de las congregaciones debido a un acuerdo parcial con el gobierno nacional. Para entender el porqué del descontento y de la continuidad de un paro que ha sentado un precedente en la historia actual de Colombia por su consistencia y poder de convocatoria, es menester dar una mirada al contexto en el que surgió esta respuesta por parte de la población. Es así como este escrito tiene como objetivo identificar las posibles causas del estallido social y su precarización gradual hasta el momento actual desde tres ejes claves: económico, político, y condiciones sociales, durante gobierno de Iván Duque."
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "\n",
+      [
+       "span",
+       {},
+       "Palabras clave: "
+      ],
+      "protesta, economía, política, institucionalidad.\n\t\t                         "
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "lang": "en"
+      },
+      "\n",
+      [
+       "span",
+       {},
+       "Abstract:\n\t\t\t\t\t\t                           "
+      ],
+      [
+       "span",
+       {},
+       "Colombia completed two months in the state of National Strike since the first call to protest, on April 27-2021, to request the withdrawal of the Tax Reform: Sustainable Solidarity Law 2021. The mobilizations ended the last week of June when the National Committee del Paro reported on the suspension of the congregations due to a partial agreement with the national government. To understand the reason for the discontent and the continuity of a strike that has set a precedent in the current history of Colombia due to its consistency and convening power, it is necessary to take a look at the context in which this response emerged from the population. This is how this writing aims to identify the possible causes of the social outbreak and its gradual precariousness up to the present time from three key axes: economic, political, and social conditions, during the government of Iván Duque."
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "\n",
+      [
+       "span",
+       {},
+       "Keywords: "
+      ],
+      "protest, economy, politics, institutionality.\n                                "
+     ],
+     "\n"
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-articulo-body"
+    },
+    "\n",
+    [
+     "p",
+     {},
+     "\n",
+     [
+      "span",
+      {},
+      "Introducción"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " En 2016, la sociedad colombiana tuvo un momento de transición al firmar los Acuerdos de Paz con la guerrilla de las FARC-EP durante el gobierno de Juan Manuel Santos. Este hecho histórico permitió concebir la posibilidad de desarrollo para el país que, por un poco más de cinco décadas, giró en torno a la guerra y las dinámicas que esta implica, las cuales van más allá de las políticas públicas o el manejo económico, y afectan de forma directa a la población más vulnerable: campesinos, mujeres y niños, desplazados por la violencia, líderes sociales, población indígena, entre otros. Se presentó entonces una nueva perspectiva a los colombianos de terminar con un conflicto en degradación, para financiar sectores previamente abandonados como la salud, la educación, el campo, el agro, la cultura. Con esta promesa, la mayoría de los ciudadanos afectados decidieron dar un voto positivo hacia el perdón y la reconciliación. Como resultado, además de la paz, este Acuerdo implicó inversión y garantías económicas para los excombatientes y su brazo político, el crecimiento económico del país, el incremento del pago considerable de la deuda externa, la reducción del desempleo, el mejoramiento de las condiciones de vida, entre otras mejoras sustanciales en los ejes económico y social, que ofrecían una perspectiva prometedora para el futuro del país y su construcción.  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " No obstante, los partidos políticos tradicionales y sus líderes sostuvieron como banderas para la carrera presidencial en 2018 la llamada ",
+     [
+      "span",
+      {},
+      "paz sin impunidad"
+     ],
+     ", la generación de miedo contra los reinsertados, además del slogan ",
+     [
+      "span",
+      {},
+      "nos vamos a volver como Venezuela"
+     ],
+     ". Dichas estrategias políticas y publicitarias ahondaron en la polarización política, y terminaron por dejar como presidente un candidato poco conocido hasta 2017, cuya elección está relacionada con escándalos de corrupción (",
+     [
+      "span",
+      {},
+      "ñeñe política"
+     ],
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286001/html/index.html#fn3"
+      },
+      [
+       "sup",
+       {},
+       "1"
+      ]
+     ],
+     ") y compra de votos. Pareciera entonces que, los votantes, no dieron su voto por una propuesta política significativa y útil para la prosperidad del país, sino por la promesa de deshacer los Acuerdos de Paz y devolvernos al discurso de la guerra, dividiendo y polarizando aún más la población que se ve enfrentada entre ideas conservadoras y tradicionalistas de derecha, y escenarios idealistas de la izquierda.  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Pese al anterior panorama, resultado del análisis de las campañas políticas y los discursos que tomaron lugar para las elecciones de 2018, que se encuentran en estudios amplios y variados, es menester debido al momento coyuntural que enfrenta el país, analizar el origen del descontento social que en este caso involucra un escenario donde la población, anteriormente polarizada en sus perspectivas respecto a la construcción del país, ha decidido unirse para denunciar abusos de la clase dirigente y exigir garantías para una vida digna. Es así como, este estudio tiene como propósito identificar de forma más amplia el porqué de la situación actual en Colombia a partir del estudio y análisis de tres ejes: el eje económico, político, y social, teniendo en consideración las promesas de campaña de Iván Duque, y su progreso hasta el momento actual."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n",
+     [
+      "span",
+      {},
+      "Eje Económico"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Para iniciar la descripción del eje económico, se deben entender algunas generalidades de la economía colombiana. Para empezar, después de la separación de Panamá (1903), los conservadores llegaron al poder, y crearon el Banco de la República, pagaron los intereses de la deuda externa e intentaron abrir el país a la inversión extranjera. Durante una parte mayoritaria del siglo XX, el sostenimiento del poder entre los partidos Conservador y Liberal permitió la conservación de la política económica sin grandes cambios y cimentada en la ortodoxa, ofreciendo cifras consistentes de inflación, déficit fiscal y devaluación, dándole a Colombia estabilidad respecto al desempeño de otros países de la región, y teniendo caídas menores durante la crisis del 29 y la Segunda Guerra Mundial (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286001/html/index.html#redalyc_313286001_ref31"
+      },
+      "Pardo, 19/04/2021"
+     ],
+     "). "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Esta estabilidad económica constante permitió el crecimiento periódico e ininterrumpido de la economía, pero significó el estancamiento del desarrollo de proyectos de infraestructura al igual que poca consolidación de sistemas públicos de educación, trabajo y salud que beneficiaran a la población a lo largo del territorio (Meisel, 2017). De esta forma, al tener una economía mayormente conservadora que transmitía confianza a la inversión extranjera y el sostenimiento de préstamos internacionales, se redujeron las opciones progresistas, dando como resultado un Estado pequeño cuyo control se restringió a las urbes, que se volvieron los centros de poder y de mercados, perdiendo control del territorio, permitiendo que el narcotráfico se extendiera a zonas rurales con un incremento de la pobreza en regiones apartadas (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286001/html/index.html#redalyc_313286001_ref20"
+      },
+      "Kalmonovitz, 2010"
+     ],
+     "). Este manejo de la economía nacional a lo largo del siglo XX, y su continuidad durante el siglo XXI, incluso después de que los mercados extranjeros y nacionales se abrieron por medio de Tratados de Libre Comercio y las actividades económicas se diversificaron y proliferaron, ha determinado de forma negativa el estado de la economía actual a nivel nacional que beneficia la inversión extranjera y descuida la inyección de capital al mercado nacional.  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Para 2018, año en que inició el gobierno Duque, la economía de Colombia iba en aumento, la apertura de mercados extranjeros permitió la introducción de productos colombianos en economías más versátiles, a la vez que, leyes como la de Restitución de Tierras, y la propuesta de sustitución de cultivos de coca por productos diversos daba esperanzas a la mejoría de las condiciones de los campesinos y el fortalecimiento de la economía nacional con base en la producción interna. Empero, hasta el momento, el programa de sustitución se convirtió en un programa voluntario de erradicación, y la formalización de la tierra en Colombia es un proyecto fallido dado que sigue siendo informal en un 80 %, según explica Juan Carlos Garzón, director del Área de Dinámicas del Conflicto de la Fundación Ideas para la Paz (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286001/html/index.html#redalyc_313286001_ref28"
+      },
+      "Garzón, como se citó en Noguera & Triviño, 07/08/2020"
+     ],
+     ").  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Con este escenario, las propuestas de Duque para impulsar la economía se dividieron en nueve sectores: 1. Minas y energía; 2. Infraestructura y vivienda; 3. Comercio exterior; 4. Materia tributaria; 5. Sector empresarial y emprendimiento; 6. Agricultura; 7. Generación de empleo; 8. Educación, y 9. Salud. Todas estas propuestas establecieron pilares de gobierno sobre la legalidad, el emprendimiento y la equidad, dando una visión alentadora a la población con proyectos de emprendimiento y necesidad de inversión tanto en áreas urbanas como rurales. Sin embargo, poco después de llegar a la presidencia, proyectos como el de reducción de impuestos sobre la renta a empresas (del 33 % al 30 %), para así fomentar la inversión de capital extranjero y la contratación, con lo que se esperaba se redujera el desempleo, causó descontento y rechazo por parte de la población debido a que no hay estudios que justifiquen esta reducción tributaria, creando un hueco fiscal que tiene que ser asumido directamente por la población por medio del pago del IVA incrementado y el alza en el valor de los servicios públicos.  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Este tipo de estrategias caracterizan el modelo económico de este gobierno bajo la economía de la oferta, la cual afirma que la producción y la oferta de empleo están directamente relacionadas con los impuestos a las utilidades, la productividad y los costos salariales, de los insumos y del capital. Esto justifica que los impuestos se reduzcan para aumentar la inversión, lo cual incentivaría la producción, y aunque no hay pruebas empíricas del éxito de este modelo, el presidente optó por aplicarlo a la economía colombiana.  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Por estas razones principalmente, el inicio del gobierno de Duque causó preocupación y especulaciones respecto a la capacidad de cumplir de forma tangible las propuestas en el sector económico que prometían llevar a Colombia a un nivel más alto de desarrollo y competencia. "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Para 2019, el ritmo de crecimiento mejoró, pero los indicadores macroeconómicos estuvieron por debajo de las expectativas. Es así como el sector financiero creció un 6,1 %; el comercio aumentó en 4,9 %; la administración pública y defensa, educación y salud subieron un 3,8 %, y actividades profesionales, científicas y técnicas crecieron un 3,6 %, pero la depreciación de la moneda, el incremento reducido del salario mínimo superior a 2,8 puntos porcentuales a la inflación de 2018, y el Fenómeno del niño, contribuyeron a que la inflación se registrara para septiembre de ese año en 3,18 % según datos del Banco de la República. Esto quiere decir que, en Colombia, los productos, bienes y servicios aumentaron de valor, pero el valor del dinero para adquirirlos se redujo, lo que contribuye directamente a que el umbral de pobreza no solo se mantenga, sino que aumente. "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " A finales de 2019, en cifras ofrecidas por el DANE (Departamento Administrativo Nacional de Estadística) que plantea, implementa y evalúa los procesos de producción estadística a nivel nacional, el desempleo se ubicó en 9,8 %, la cifra más alta desde 2010, lo cual fue excusado por líderes de opinión y representantes del gobierno como resultado de la migración venezolana y el aumento de oferta en la mano de obra, así como del subempleo que aumentó al 27,1 %, pero una explicación más realista se debe a la reducción de puestos de trabajo debido al quiebre de empresas o la disminución de personal para evitar la liquidación. Además, las exportaciones disminuyeron entre 2018 y 2019 en 4,7 %, y las importaciones aumentaron en un 5,7 %, lo que contribuyó a generar un déficit en la balanza comercial, debilitó el sector productivo nacional perdiendo competitividad, y significó la disminución de recursos para el pago de obligaciones financieras como la deuda externa (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286001/html/index.html#redalyc_313286001_ref12"
+      },
+      "Cruz Cárdenas, 08/10/2021"
+     ],
+     "). "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Para el profesor de la Universidad Nacional, Jairo Villabona, además de los problemas a la economía que generan los Tratados de Libre Comercio, negociados inicialmente desde la presidencia de Uribe Vélez entre 2002 y 2010, la falta de inversión sustancial en el sector productivo, y la corrupción, que anualmente le quita a los colombianos 50 billones de pesos como reportó la ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286001/html/index.html#redalyc_313286001_ref10"
+      },
+      "Contraloría General de la Nación en 2018"
+     ],
+     ", con el informe: ",
+     [
+      "span",
+      {},
+      "Grandes Hallazgos"
+     ],
+     ", el inconveniente más grave es la evasión fiscal, no solo por parte de las empresas sino de las personas naturales y jurídicas con ingresos altos, a quienes por ley se les graba con mayor tributación para mantener el equilibrio tributario. Esta evasión profundiza el hueco fiscal que alcanza los 94 billones de pesos según cifras ofrecidas por el gobierno nacional en su Plan Financiero, presentado a inicios de 2021. "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Pese al anterior panorama, el 2020 prometía ser un año de crecimiento económico y cifras controladas de la inflación, pero la pandemia por el virus Covid-19 obligó a replantear y posponer nuevamente los planes de desarrollo e inversión económica. Es así como las acciones del gobierno Duque se enfocaron en dos propósitos: primero, la atención a las empresas, y segundo, la atención a personas naturales. Ambos propósitos pueden ser entendidos bajo las teorías económicas keynesiana y neoclásica. La primera sostiene que el gasto público debe estimular la demanda de bienes y servicios para que las empresas se animen a producir esos bienes y servicios (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286001/html/index.html#redalyc_313286001_ref21"
+      },
+      "Keynes, 1936"
+     ],
+     "). Por otro lado, la teoría neoclásica sostiene que la compra de bienes y servicios depende de que los trabajadores y otras personas reciban salarios o pago de las empresas por lo que la inversión del gasto público no aumenta realmente la actividad económica (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286001/html/index.html#redalyc_313286001_ref11"
+      },
+      "Cortés Durán & Pineda Jiménez, 15/06/2020"
+     ],
+     "). "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " En consecuencia, dichas acciones gubernamentales se dividieron en tres iniciativas: Atención a las empresas. Por medio de acciones que siguen promoviendo el cuidado del sector empresarial mediante beneficios fiscales, subsidios u otras ofertas para evitar la reducción de la producción. Es así como el gobierno anunció la entrega de subsidios destinados al pago de nóminas hasta agosto 2020. Además, el pago del 50 % de la prima de junio para trabajadores de empresas formales que tuvieron disminución del 20 % durante la pandemia. Finalmente, el gobierno nacional inyectó capital a los bancos, para que estos a su vez facilitaran préstamos a los trabajadores y proyectos empresariales, pero esta medida sólo contribuyó a que el sector bancario fuera el único con crecimiento positivo durante el 2020."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n",
+     [
+      "span",
+      {},
+      " Atención a los hogares"
+     ],
+     ". Para ayudar a la población colombiana, y los grupos en condición de vulnerabilidad, el gobierno decidió crear nuevos programas como el de Ingreso Solidario, con un beneficio de $160.000 mensuales para tres millones de hogares, el Programa de Apoyo al Empleo Formal-PAEF, y el Fondo de Mitigación de Emergencias con recursos adicionados por 25,5 billones de pesos. Adicionalmente, la entidad gubernamental Prosperidad Social ha distribuido incentivos por 1.998.794.414.965 a Familias en Acción, 534.894.944.000 para Jóvenes en Acción, y 112.393.725.000 a familias con el programa de Devolución del IVA, además del programa Colombia Mayor, destinado a ciudadanos de la tercera edad y con el que se beneficiaron cerca de dos millones de adultos mayores, los cuales fueron los primeros confinados cuando inició la pandemia. Todas estas cifras fueron publicadas en el informe de gestión de Duque al cumplirse dos años de mandato. Aunque el programa Ingreso Solidario presenta varias irregularidades expuestas en reportajes que denuncian el uso de cédulas de fallecidos, o números falsos para reclamar los ingresos, a lo que la organización Planeación Nacional respondió con la des habilitación del aplicativo online. Hasta la actualidad, la cifra de 5.600 millones de pesos, que se giraron a 35.000 cédulas irregulares no ha sido recuperada, y solo una depuración superficial a la Registraduría ha permitido dar espacio para aclarar las bases de datos y plantear la posible reactivación del programa.  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n",
+     [
+      "span",
+      {},
+      " Alivios tributarios"
+     ],
+     ". Para impulsar la confianza en el consumidor, y la reactivación de la economía, el gobierno apostó por alivios tributarios como la devolución automática del 100 % IVA en compras generales a las familias más pobres del territorio; tres días sin IVA en artículos de vestuario, electrodomésticos, elementos deportivos, artículos agropecuarios, entre otros, que por lo general es del 19 %; la exención del pago del impuesto 4x1000 a entidades sin ánimos de lucro; y la fijación de nuevas fechas para el pago de impuestos sobre la renta del año gravable 2019. Medidas criticadas por los empresarios y la población debido a las irregularidades de los procesos, y la dificultad de acceder a los alivios como la devolución total del IVA, ya que para esto se debe pagar con tarjetas de crédito, débito u otros mecanismos electrónicos que solo 9,2 millones de adultos en Colombia tienen, y que excluye a la población en municipios urbanos y rurales que no tienen estas facilidades."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Según cifras de la Confederación Colombiana de Cámaras de Comercio, no hay líneas de apoyo directo para empresas informales que suman alrededor de 1,3 millones de microempresas y representan el 92 % del total de empresas en el país y son las que más necesitan ayuda del gobierno. En consecuencia, hay registros de los esfuerzos gubernamentales, departamentales y locales, pero son insuficientes para responder ante la precariedad económica de la mayor parte de la población, la cual, eventualmente, tendrá que tributar para pagar los préstamos hechos por el Banco Mundial, el Banco Internacional de Reconstrucción y Fomento, la Asociación Internacional de Fomento, la Corporación Financiera Internacional, y el Organismo Multilateral de Garantía de Inversiones (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286001/html/index.html#redalyc_313286001_ref27"
+      },
+      "Murillo & Venegas, 2020"
+     ],
+     "). "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Con este panorama donde la extrema pobreza aumentó al 42,5 % en el territorio nacional, el 2021 empezó con la noticia de la octava reforma tributaria de este gobierno: ",
+     [
+      "span",
+      {},
+      "La Agenda de transformación social"
+     ],
+     ", que se une a siete proyectos de ley previos, aceptados y aplicados por el gobierno Duque, que se pueden también considerar reformas tributarias debido a las modificaciones que propusieron al sistema fiscal colombiano. "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Esta Reforma Tributaria buscaba la implementación ",
+     [
+      "span",
+      {},
+      "transitoria"
+     ],
+     " de la sobretasa de renta a las empresas, la prórroga de impuestos al patrimonio, el incremento de los impuestos a dividendos, y también la aplicación de la sobretasa de renta a las personas de ingresos mayores a tres salarios mínimos, por medio de la articulación de los siguientes instrumentos: a) Redefinición de la regla fiscal; b) Fortalecimiento y focalización del gasto social; c) Redistribución de las cargas tributarias y ambientales, y d) Adopción de medidas presupuestales para la adecuada aceptación de la propuesta. Por otro lado, proponía la profundización de los programas de austeridad del Estado. Esta última propuesta, deslegitimada por el plan fallido de renovación de la flota aérea militar por un costo aproximado de 4.000 millones de dólares, o la adquisición de camionetas blindadas para el esquema de seguridad de Duque por un costo de 9.600 millones de pesos al inicio de la pandemia, o los 3.500 millones de pesos invertidos para la estrategia digital de la Presidencia en el 2020, además de los 898 millones de pesos para comunicaciones del Ministerio de Defensa. Todos estos gastos fueron denunciados en su momento por el Congreso de la República y Transparencia por Colombia.  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " En este punto de tensión y ante la negativa del gobierno nacional de considerar la precariedad de las condiciones económicas de la población, vendiendo esta reforma como ayuda humanitaria financiada por la población para la población, además de demostrar por medio de sus acciones e instituciones el desconocimiento de las realidades nacionales y su falta de interés para contribuir a la solución definitiva que se prometió por medio de un plan de gobierno que, hasta el momento, no ha sido aplicado ni ejercido con éxito, era apenas lógico que el descontento de la población creciera y se concretará en un punto de inflexión que dio como resultado el Paro Nacional del 2021, el cual inició el 28 de abril y se prolongó por dos meses.  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Han sido ya casi tres años de desgobierno donde el país ha entrado en crisis financieras constantemente, sirviendo esto como excusa para plantear ajustes y reformas tributarias que no solo perjudican de forma directa a la población sino que prorrogan la complicidad de protección entre las elites empresariales y las política, además de promover un modelo de economía oligárquico que busca una estabilidad por medio de la defensa y cuidado de los grandes empresarios, promoviendo la desigualdad de oportunidades entre la población emprendedora e independiente, beneficiando así la economía conservadora que ha caracterizado el proceso de desarrollo económico del país (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286001/html/index.html#redalyc_313286001_ref31"
+      },
+      "Meisel, como se citó en Pard, 19/04/2021"
+     ],
+     ").  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Una reforma tributaria en este momento es necesaria, ya que el país necesita aumentar sus ingresos fiscales tras la contracción económica de 6,8 % del PIB en 2020, además de cumplir la obligación de pagar los préstamos hechos para financiar la crisis de la pandemia y la adquisición de vacunas. No obstante, esta nueva reforma debe plantearse de forma realista y minimalista, además de estar dirigida a refinanciar las finanzas públicas a partir de impuestos más altos a empresas y personas naturales, nacionales y extranjeros, con ingresos superiores al promedio, y entidades bancarias.  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Adicionalmente, el Consejero para la Gestión del Cumplimiento de la Presidencia de la República, el doctor Carlos Enrique Moreno (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286001/html/index.html#redalyc_313286001_ref26"
+      },
+      "02/05/2021"
+     ],
+     "), asegura que, parte de la reducción de la burocracia gubernamental está en la fusión de entidades que son complementarias, como el caso de la Agencia Nacional de Tierras y la Unidad de Restitución de Tierras, la Agencia de Renovación del Territorio y la Agencia de Desarrollo Rural, la Unidad Nacional para la Gestión del Riesgo de Desastres y el Fondo de Adaptación, entre otras, volviendo así a los focos misionales de dichas entidades y reduciendo la inversión de recursos en duplicidades. También se debe plantear la reducción de las importaciones en forma de productos terminados, materias primas y combustibles, e invertir en la producción nacional, mientras que se trabaja en la apertura más simplificada y provechosa del mercado extranjero por medio de estrategias que beneficien el mercado nacional en vez de someterlo a una competencia desigual desde los costos de producción y precios (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286001/html/index.html#redalyc_313286001_ref5"
+      },
+      "Barría, 13/05/2021"
+     ],
+     "). Finalmente, es de vital importancia inyectar capital a sectores como el turismo, la educación de alta calidad y la tecnología, lo que le permitirá dinamismo a la economía y un mejor posicionamiento competitivo del país a nivel regional e internacional. "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Las anteriores propuestas y otras gestionadas por la Asociación Nacional de Empresarios de Colombia (ANDI), los partidos políticos de oposición, y economistas de las universidades más importantes del país, tienen el potencial de solucionar de forma permanente la organización y administración de los recursos, permitiendo que la economía, al igual que las políticas en pro del desarrollo social, sean una cuestión de política de Estado, y no una política del gobierno de turno que, en el caso colombiano, siempre intenta desligarse y romper con la herencia política del gobernante anterior, afectando directamente los planes económicos de desarrollo para la población implementados en gestiones anteriores (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286001/html/index.html#redalyc_313286001_ref37"
+      },
+      "Ríos, 2018"
+     ],
+     "). "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " En el caso del gobierno Duque, el discurso durante campaña estuvo enfocado a la gestión de nuevas y prometedoras políticas de gobierno, rompiendo de forma definitiva con los programas de la gestión Santos, los cuales se proyectaban como políticas de Estado permanentes. Pero el gobierno actual se ha caracterizado por políticas deficientes, compromisos fallidos, falta de medidas contundentes y escasa claridad del rumbo político causando incertidumbre y debilitando la confianza de la nación en sus gobernantes, enfrentando más profundamente la ciudadanía, además de minimizar la posibilidad de llegar a consensos que beneficien a la mayor parte de la población, en un escenario político más polarizado y radical del que encontró en 2018 (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286001/html/index.html#redalyc_313286001_ref37"
+      },
+      "Ríos, 2018"
+     ],
+     ")."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n",
+     [
+      "span",
+      {},
+      "Eje Político"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Las últimas elecciones presidenciales mostraron la polarización del país entre el tradicionalismo y la oposición, teniendo como resultado una diferencia del 12,17 % en votos, la más reducida en la historia reciente de elecciones presidenciales, según cifras ofrecidas en informe de la ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286001/html/index.html#redalyc_313286001_ref25"
+      },
+      "Misión de Observación Electoral en 2018"
+     ],
+     ". Estos resultados muestran la polarización política que existe en Colombia, que es aún más marcada por la materialización de los Acuerdos de Paz, firmados durante el gobierno Santos en 2016. "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Este último tema fue una de las estrategias políticas más significativas durante la campaña presidencial por parte del candidato Duque, quien bajo los principios de hacer trizas la paz y la llamada ",
+     [
+      "span",
+      {},
+      "paz sin impunidad"
+     ],
+     ", sumó adeptos entre la población de extrema derecha que aún está en contra de la gestión de Santos al firmar la paz con la ex guerrilla de las FARC-EP. Además, y en contraposición con el discurso anterior, prometió unir al país para dejar de lado la división y sumar el trabajo en equipo desde todo el espectro político para luchar contra la corrupción, la politiquería y el clientelismo, dando la idea de un gobierno abierto al diálogo y la inclusión de la oposición, exaltando la participación en la construcción democrática del país, asegurando así, el principio de aceptación por parte de la población con el cual se asegura que, si toda la ciudadanía se siente incluida en el proceso de toma de decisiones, ésta estará más dispuesta a aceptar los resultados de dichos acuerdos, en vez de percibirlos como imposición (Bowman y Hampton, como se citan en ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286001/html/index.html#redalyc_313286001_ref40"
+      },
+      "Solozábal, 1981"
+     ],
+     "). Sin embargo, esta estrategia ha sido fallida a lo largo del mandato presidencial, que está por cumplir tres años el 7 de agosto de 2021, ya que según datos de la empresa Invamer, especializada en investigación y mercadeo, en su dossier oficial: ",
+     [
+      "span",
+      {},
+      "Colombia opina "
+     ],
+     "(2021), la desaprobación hacia el presidente ha subido hasta el 63,2 %, y el 77,5 % de los colombianos perciben que el país va en deterioro. "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Sin embargo, para iniciar este análisis del eje político, es necesario regresar a los primeros meses de gobierno, empezando por su elección de gabinete bajo tres principios: equidad de género, juventud, y estabilidad. Aunque debido a la elección particular de gerentes para estas carteras y, en otros puestos públicos como embajadas, Altas Consejerías en la Casa de Nariño, la Fiscalía, la Procuraduría, la Contraloría, la Defensoría del Pueblo, entre otros organismos de control, se han evidenciado los afectos políticos del mandatario, sentando un precedente en contra de la independencia de dichas instituciones respecto al gobierno de turno, lo que pone en juego la autonomía de los poderes. "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Estas elecciones centralistas de ministros y funcionarios públicos desvirtuó la promesa de campaña de incluir en el gabinete y otras instituciones públicas, miembros de diferentes regiones y partidos políticos en pro de la diversidad de representación, lo cual pone en evidencia la intención de constituir un gobierno centralista y autoritario, con poca intención de incluir otros sectores del espectro político y el territorio, que además planea y ejecuta para conservar el control mayoritario del ejecutivo (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286001/html/index.html#redalyc_313286001_ref9"
+      },
+      "Camargo Tovar & Acuña, 06/08/2018"
+     ],
+     "). La concentración de poderes se ha convocado entonces bajo el mando de una élite política y financiera, la cual tiene control sobre las instituciones públicas. Dichas ",
+     [
+      "span",
+      {},
+      "élites de poder"
+     ],
+     ", por medio de sus acciones buscan defender sus propios intereses y posiciones en ciclos que se retroalimentan, volviéndose endogámicos y excluyentes (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286001/html/index.html#redalyc_313286001_ref42"
+      },
+      "Wright, 1956"
+     ],
+     "). Ahora bien, el problema principal de la acumulación de poder es que los intereses particulares de las elites, predominan sobre los intereses generales, lo que deriva en una democracia ilusoria ya que las decisiones que suponen deben beneficiar a la ciudadanía, son en realidad decisiones que benefician particular y exclusivamente a los elegidos por votación popular y sus socios. Adicionalmente, se puede concluir que, la institucionalidad democrática durante este gobierno se ha mantenido desde el discurso del poder político y no desde la acción estatal, ya que se han presentado situaciones que registran una crisis en la división de poderes, en manos de un líder que busca ejecutar proyectos que sobrepasan su propósito, mientras viola las normatividades que regulan el ejercicio del poder (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286001/html/index.html#redalyc_313286001_ref6"
+      },
+      "Barrientos & Niño, 2017"
+     ],
+     ") "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Por otro lado, durante 2019, el escenario político del país no fue alentador debido no solo a las muestras de falta de autonomía del propio mandatario respecto a su partido, sino a denuncias en varios ámbitos y escenarios de la vida política y militar del país que afectaron de forma directa la población y generaron aún más cuestionamientos respecto a la actitud del gobierno, su gestión, y su compromiso con la protección de la ciudadanía.  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Para empezar, en junio de 2019, se conoció que el ministro de Defensa encubrió el asesinato del excombatiente Dimar Torres a manos de las Fuerzas Militares. Esto generó el rechazo de la ciudadanía frente a la reactivación de los ",
+     [
+      "span",
+      {},
+      "Falsos Positivos"
+     ],
+     ".",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286001/html/index.html#fn4"
+      },
+      [
+       "sup",
+       {},
+       "2"
+      ]
+     ],
+     " Luego, en septiembre, el presidente Duque presentó un dossier ante las Naciones Unidas donde se incluyeron fotos falsas de campamentos del ELN para apoyar las denuncias del apoyo de Venezuela a este grupo guerrillero, a los cuales Duque también inculpo por asesinato de líderes sociales, excombatientes, y el aumento de la violencia en territorios con corredores para el tránsito de ilícitos. Posteriormente, se desmintió esta información afectando no solo la credibilidad del mandatario sino las instituciones de protección de la ciudadanía.  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " En el escenario internacional, se descubrió que el entonces embajador en Uruguay Fernando Sanclemente tenía en funcionamiento en una de sus propiedades, un laboratorio de procesamiento de coca, lo cual el ex embajador negó con rotunda determinación, pero lo que más preocupó de este escándalo fue la negativa del presidente de dar declaraciones, pronunciarse sobre el hecho o exigir la renuncia inmediata de Sanclemente. Posteriormente, en junio de 2020, el portal ",
+     [
+      "span",
+      {},
+      "La Nueva Prensa"
+     ],
+     " dio a conocer documentos públicos del sistema judicial de Estados Unidos donde se registró la detención de Bernardo Ramírez, hermano de la vicepresidenta Marta Lucia Ramírez, por conspiración al intentar introducir heroína a ese país desde la isla de Aruba. Cuando se conoció la noticia, Duque respaldo a Ramírez sin considerar el rechazo de la ciudadanía ante estos hechos. "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Finalmente, en lo que respecta al narcotráfico y, en un escándalo que recuerda el proceso 8000 del gobierno Samper (1994-1998), durante marzo 2020, medios nacionales revelaron audios del narcotraficante alias el Ñeñe Hernández, donde se conocía información de la compra de votos para la elección presidencial del 2018 a favor de Duque, además de financiación con dineros del narcotráfico de las campanas de miembros y protegidos de clan Char, familia política de la región Caribe en Colombia. Como era de esperarse, todos los acusados negaron sus vínculos con el narcotraficante, pero las fotos publicadas en sus redes sociales durante las campañas electorales permiten que el registro de los sucesos no quede sepultado bajo el negacionismo.  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " En Colombia, el narcotráfico es un tema de relevancia histórica con significaciones profundas para la ciudadanía tanto en zonas urbanas como rurales debido a la violencia que se originó con este fenómeno y que se ha perpetuado a lo largo de las décadas, incluso después de la firma de los Acuerdos de Paz. La infiltración del narcotráfico en la política y el sistema judicial desde los años sesenta y setenta, afectó de manera permanente la posibilidad de una reforma efectiva en el país (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286001/html/index.html#redalyc_313286001_ref39"
+      },
+      "Semple, 14/10/1999"
+     ],
+     "). En los años ochenta, y principios de los noventa, las ganancias producto de negocios ilícitos permitieron a los narcotraficantes armar sus ejércitos privados (paramilitares), y sobornar tanto políticos como funcionarios públicos en todos los niveles, teniendo como resultado, un sistema político y judicial corrupto, clientelista, debilitado y rechazado por la ciudadanía. Para finales de los noventa, los políticos colombianos estaban comprados por el narcotráfico, relacionados con o investigados por negocios ilícitos, o asesinados por sus denuncias directas contra la corrupción del sistema político, amenazando así de forma permanente el proceso de reforma y democratización del país y profundizando la violencia política, la recesión económica y la crisis humanitaria (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286001/html/index.html#redalyc_313286001_ref4"
+      },
+      "Bagley, 2000"
+     ],
+     "). "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " La condición actual del gobierno Duque como un",
+     [
+      "span",
+      {},
+      " narcoestado"
+     ],
+     " vulnera de formas insondables la legitimidad del Estado colombiano representado por el gobierno nacional, las instituciones públicas y otros entes de control, así como sus funcionarios; fomentando la falta de confianza en el establecimiento y en el cumplimiento de la normatividad.  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Pero no es solamente el espectro político el que se ha corrompido y fortalecido como centralista, desfigurando la democracia y excluyendo la participación de la ciudadanía y la bancada de la oposición para tomar decisiones colectivas que, al final, es el propósito de la democracia (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286001/html/index.html#redalyc_313286001_ref7"
+      },
+      "Bobbio, 1985"
+     ],
+     ") sino que la muestra de ese debilitamiento y la corrupción que se da al interior de la política colombiana, se ha reflejado directamente con el deterioro de las instituciones públicas, en este caso, las de defensa y protección de la ciudadanía.  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " En un escenario que recuerda el escándalo de las",
+     [
+      "span",
+      {},
+      " chuzadas"
+     ],
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286001/html/index.html#fn2"
+      },
+      [
+       "sup",
+       {},
+       "3"
+      ]
+     ],
+     " del extinto Departamento Administrativo de Seguridad (DAS), en enero de 2020 se dio a conocer que el Ejército Nacional bajo la dirección del jefe del Ejército, el general Nicacio Martínez E., realizó interceptaciones ilegales a miembros de la oposición, periodistas nacionales y extranjeros en el territorio, magistrados, ONG nacionales, y otros oficiales que denunciaron irregularidades dentro de la institución. Este escándalo que se elevó a nivel internacional puso en evidencia la falta de control y veeduría sobre las Fuerzas Militares, sus funciones y lo imprescindible de reestructurar la institución.  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Durante estos tres años, las denuncias de violaciones y asesinatos por parte de las Fuerzas Militares y la Policía han dejado como resultado la completa falta de confianza en estas instituciones por parte de la ciudadanía, además de ser pruebas fehacientes de los círculos de corrupción al interior de las altas cúpulas que llegan hasta los soldados rasos. Por un lado, en junio 2020, por medio del reportaje publicado por ",
+     [
+      "span",
+      {},
+      [
+       "a",
+       {
+        "href": "http://portal.amelica.org/ameli/journal/31/313286001/html/index.html#redalyc_313286001_ref14"
+       },
+       "El Tiempo"
+      ]
+     ],
+     ", el diario más importante de Colombia, titulado “Las horas claves del caso por violación de niña embera por soldado”, se conocieron denuncias de una violación a una menor de edad de la comunidad Embera Chamí por parte de siete militares en Puerto Rico, Risaralda, lo que causó el rechazo de la opinión pública y la exigencia del accionar jurídico en el país. Subsecuentemente, en octubre de 2020, se conoció por parte del medio nacional ",
+     [
+      "span",
+      {},
+      [
+       "a",
+       {
+        "href": "http://portal.amelica.org/ameli/journal/31/313286001/html/index.html#redalyc_313286001_ref22"
+       },
+       "La FM"
+      ]
+     ],
+     ", en la noticia “En Colombia hay activas 300 investigaciones contra la Fuerza Pública, por abuso sexual”, la existencia de un informe realizado por el Ministerio de Defensa Nacional y enviado al Congreso, en el que se detallan desde 2014 al menos 288 investigaciones a miembros del Ejercito Nacional, 16 a miembros de la Armada Nacional y dos a miembros de la Fuerza Aérea, por violencia o abuso sexual. "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " La Policía Nacional también ha tenido una cuota de denuncias por exceso de fuerza en su accionar y constantes denuncias por corrupción, tortura y asesinato. Durante el gobierno Duque, han sido varios los hechos que han levantado a la ciudadanía en rechazo y para exigir la reestructuración de estas instituciones. Para empezar, durante las protestas del 21 de noviembre de 2019 al 25 de marzo de 2020, a causa del descontento general por la fallida gestión de Duque y el conocido ",
+     [
+      "span",
+      {},
+      "paquetazo"
+     ],
+     " propuesto para el 2020 que incluía una Reforma Laboral, una Reforma Pensional, la propuesta de crear un ",
+     [
+      "span",
+      {},
+      "Holding"
+     ],
+     " financiero, y la propuesta de criminalizar la protesta social por medio de su regulación en la legislatura nacional, entre otras propuestas, por consiguiente, la ciudadanía salió a las calles para manifestarse en contra de este adefesio político y exigir además el cumplimiento de los Acuerdos de Paz y la protección a excombatientes y líderes sociales; la disolución del ESMAD y la depuración de la Policía Nacional, y el trámite inmediato ante el Congreso de los proyectos de Ley Anticorrupción, pero se encontraron con el accionar represivo y violento por parte de la Policía Nacional, dirigida por la presidencia y el Ministerio de Defensa.  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Todas estas violaciones han sido denunciadas por la ciudadanía y la Comisión Interamericana de Derechos Humanos a lo largo del gobierno actual, aunque el presidente Duque ha hecho caso omiso de las recomendaciones presentadas por el ente de control en julio 2021. "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " En un análisis subsecuente de los hechos por parte del Instituto de Estudios para el Desarrollo y la Paz (Indepaz) se concluye que, tanto los heridos como los muertos que dejan las protestas por el abuso de policías y miembros del ESMAD, así como de la acción militar, son una muestra de la degradación de políticas mal llamadas de ",
+     [
+      "span",
+      {},
+      "Seguridad Ciudadana"
+     ],
+     ", que encuentran su origen en las políticas paramilitares de la seguridad democrática. Es así como, resultado de la doctrina del estado liberal que establece los límites de separación de poderes y los derechos para controlar los abusos de quienes representan el Estado, la presidencia tiene toda la capacidad no solo de condenar sino de judicializar todos los actos violentos en contra de la población civil (Téllez & Vásquez, 2019), pero en alocuciones y declaraciones de Duque, su discurso es contradictorio ya que en medios internacionales condena los abusos y promete investigaciones, mientras que en los medios nacionales generaliza y estigmatiza la protesta social usando el discurso manido: ",
+     [
+      "span",
+      {},
+      "terrorismo urbano "
+     ],
+     "y",
+     [
+      "span",
+      {},
+      " vandalismo"
+     ],
+     ". "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Más recientemente, durante las protestas que iniciaron el 28 de abril de 2021 con las que la población muestra su agotamiento por el gobierno Duque, denuncias por violación de Derechos Humanos entre los que se cuentan: violencia física; violencia homicida; detenciones arbitrarias; intervenciones violentas; violencia sexual; censura; exceso de fuerza letal, entre otros, tienen en una encrucijada al gobierno nacional que hasta finales de mayo de 2021, acepto que la Comisión Interamericana de Derechos Humanos visitara el país para ejercer veeduría en las protestas. La negativa a la solicitud de visita de la CIDH ha sentado un precedente negativo porque ha limitado la posibilidad de verificación de DDHH en un contexto en el que los organismos de control a cabeza del gobierno nacional han fallado en sus funciones.  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Para ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286001/html/index.html#redalyc_313286001_ref16"
+      },
+      "Gargarella (2011)"
+     ],
+     ", el hecho que las democracias mundiales, pero más especialmente las latinoamericanas, tengan que responder antes Tribunales Internacionales, independientemente de su denominación y función, es una amenaza grave a la independencia democrática entendida como la deliberación democrática y el consenso de la mayoría respecto a la legislatura nacional y su aplicación. Empero, la creación de dichos tribunales después de la Segunda Guerra Mundial tuvo como propósito evitar que los Estados se excedieran en el control de la ciudadanía y su intervención parcial, dando garantías para el Estado de Derecho (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286001/html/index.html#redalyc_313286001_ref36"
+      },
+      "Rey, 2012"
+     ],
+     ").  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " En su estudio sobre las democracias latinoamericanas y la crisis institucional, Pérez reflexiona sobre las consecuencias de la pérdida de confianza en las instituciones por parte de la ciudadanía y concluye que, cuando la democracia parece insalvable porque los ciudadanos conciben su funcionamiento como inmoral e injusto, la respuesta del Estado para perpetuarse es el uso de fuerzas coercitivas y disuasivas. Sin embargo, el uso de esas fuerzas hará que el Estado se torne totalitario, apartándose de su naturaleza democrática y sosteniendo su legitimidad en el poder mismo que es restrictivo, violento y dominante (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286001/html/index.html#redalyc_313286001_ref33"
+      },
+      "Pérez, 1994"
+     ],
+     "). En el caso colombiano, el uso de las fuerzas de policía, el ESMAD y los militares, demuestra la iniciativa del Estado de mantener el control sobre una ciudadanía que exige cambios de forma y de fondo respecto a la legislatura, la organización del Estado y las estructuras económicas que han prorrogado la desigualdad y profundizado la crisis. En el caso de Colombia, entre 2002 y 2015, el índice de Gini disminuyo en un 9 % debido a los intentos de redistribución de la riqueza y las cargas tributarias, empero, para 2018 según cifras del DANE (Departamento Administrativo Nacional de Estadística), el índice de Gini se ubicó en 0.52, haciendo de Colombia uno de los países mas desiguales de Latinoamérica como resultado de la regresividad fiscal y la deficiente estructura tributaria (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286001/html/index.html#redalyc_313286001_ref32"
+      },
+      "Pedrozo, 2020"
+     ],
+     ").  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Held propone dos teorías para entender la crisis del Estado Democrático: 1) El gobierno sobrecargado, la cual argumenta que la estructuración y el funcionamiento de las instituciones democráticas son disfuncionales para una administración eficiente en cuestiones económicas, sociales y políticas, razón por la que hay dificultades. 2) La crisis de legitimidad, la cual expresa que el estado centralista está deslegitimado por la forma de administrar los recursos, proponer políticas parciales y alentar la crisis social. Sin embargo, el autor propone que la crisis social tiene también un potencial transformador, ya que expone el desgaste organizativo de la sociedad, la destrucción de las relaciones sociales que determinan este ámbito, y los posibles cambios de la política y la economía de un país para salir de la crisis (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286001/html/index.html#redalyc_313286001_ref17"
+      },
+      "Held, 1992"
+     ],
+     "), lo cual podría aplicar a la situación de Colombia. "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Para concluir el eje político, es preciso resaltar que la confianza de la ciudadanía en las instituciones públicas tanto de gestión, como de administración, control y cuidado, es de vital importancia para la gobernanza y el desarrollo económico (Putnam, Leonardi & Nanetti, ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286001/html/index.html#redalyc_313286001_ref35"
+      },
+      "1993"
+     ],
+     "), además de ser una forma de tejido social que facilita el diseño e implementación de reformas en pro del crecimiento de la sociedad y el mejoramiento de la calidad de vida (Easterly, Ritzen & Woolcock, ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286001/html/index.html#redalyc_313286001_ref13"
+      },
+      "2006"
+     ],
+     "). Por consiguiente, el primer paso para reconstruir la cohesión en la sociedad es la reforma de las instituciones que han violentado a la ciudadanía, haciendo énfasis en la tipificación de los procedimientos en los que no hay claridad y que son categorizados como abusos en contra de la población, además de descentralizar el proceso de investigación y judicialización. "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Durante el gobierno Duque, en 2020 y 2021, los senadores y Representantes a la Cámara pertenecientes a la bancada de la oposición han presentado dos proyectos de reforma a la policía. El primero fue rechazado y el segundo ha sido aplazado en la Comisión Primera de la Cámara. Con el actual escenario político y social a puertas de un cambio desde abajo, la defensa de estos proyectos y el apoyo de la ciudadanía a las instituciones es una necesidad, además de ser la muestra de una sociedad democrática que significa y valora al mismo tiempo, el apoyo a los principios de la democracia participativa y horizontal (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286001/html/index.html#redalyc_313286001_ref34"
+      },
+      "Pharr & Putnam, 2000"
+     ],
+     "). "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " En el caso de Colombia, el problema respecto al descontento y falta de representación de la ciudadanía por parte de las instituciones, al igual que la falta de participación de la ciudadanía en los proyectos y procesos económicos, políticos y sociales después de las elecciones, encuentra su explicación en las teorías de Sartori, quien argumenta que, los sistemas representativos siguen por lo general dos patrones: el de tipo inglés, que sacrifica la representatividad por un gobierno eficiente, y el de tipo francés, que sacrifica la eficiencia del gobierno por la representatividad. En consecuencia, menciona el autor, que no es posible construir un sistema representativo que cumpla sus funciones de forma eficiente y, que, a la vez, represente a la población (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286001/html/index.html#redalyc_313286001_ref38"
+      },
+      "Sartori, 1994"
+     ],
+     "). Aunque la situación del gobierno Duque está en una encrucijada puesto que la percepción es que no funciona ni representa los intereses de la población, de ahí el estallido social que completó mas de dos meses, y que todavía tiene brotes de protesta a lo largo del país. "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Es fundamental entonces presentar en el último apartado las causas del malestar social que contribuyeron al Paro Nacional de 2021."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n",
+     [
+      "span",
+      {},
+      "Eje\nSocial"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " En la teoría sociológica de ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286001/html/index.html#redalyc_313286001_ref15"
+      },
+      "Esping-Andersen (1993)"
+     ],
+     " se menciona la necesidad de que la sociedad y los gobiernos definan y establezcan políticas públicas de protección a la ciudadanía. Esta protección a la ciudadanía puede ser definida bajo los conceptos de la Organización Internacional del Trabajo como un conjunto de políticas y programas diseñados para reducir y prevenir la pobreza y la vulnerabilidad en todo el ciclo de la vida. Estos programas, por lo tanto, son posibles por medio de la combinación de regímenes contributivos y de prestaciones no contributivas financiadas con impuestos (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286001/html/index.html#redalyc_313286001_ref30"
+      },
+      "OIT, 2017-2019"
+     ],
+     "). Como resultado, los gobiernos, elegidos de forma democrática, deben impulsar por medio de sus acciones, entendidas como proyectos y programas de inversión social, la protección a los ciudadanos independientemente de su edad, género, procedencia, creencias religiosas o políticas. "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Durante su candidatura, Duque esbozó un plan significativo de gobierno que incluyó 203 propuestas de gobernanza, distinguiendo en el aspecto social los temas de educación, salud, familia, cultura e innovación social con ejes transversales caracterizados por la creación de nuevos programas, desarrollo tecnológico para la aplicación de dichos programas, inversión de capital y modernización. En ningún momento se consideró la continuidad de los programas existentes o la renovación de aquellos por terminar, permitiendo convertir políticas de gobierno en políticas permanentes del Estado colombiano. Duque recibió de Santos un país con un crecimiento económico importante, una reducción de la desigualdad significativa, una ampliación de infraestructura, un potencial de menor endeudamiento, un Acuerdo de Paz con las FARC-EP y la entrada de Colombia en la Organización para la Cooperación y el Desarrollo Económico (OCDE) que podrían haber sido objeto de una política de continuidad en pro de la sociedad colombiana, dejando de lado la necesidad de desmarcarse de una herencia política en beneficio de la población civil (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286001/html/index.html#redalyc_313286001_ref37"
+      },
+      "Ríos, 2018"
+     ],
+     "). "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Majone (1989) propone una forma de entender las políticas públicas, en este caso, dirigidas hacia la protección social desde dos componentes: la estabilidad y la flexibilidad. Pero la población siempre es la más afectada con la formulación de nuevos programas sociales, y la desaparición de los existentes debido a la falta de compromiso, financiación y aplicabilidad tangible de dichos programas por lo que las condiciones económicas y sociales empeoran, y la calidad de vida se entorpece.  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Al iniciar su mandato en 2018, Duque concibió programas de ayuda a la población por medio de la inyección de capital a nuevos proyectos empresariales, así como la inversión en el campo, lo cual se puede considerar de primera necesidad porque la economía de Colombia es mayormente agraria. Sin embargo, los planteamientos de estos programas y estas propuestas no son suficientes si los recursos no se administran de forma adecuada, y si la falta de coordinación entre las políticas nacionales y regionales permiten que la corrupción y el clientelismo se hagan con los contratos y las inversiones.  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Durante el gobierno Duque, la desigualdad económica en Colombia ha crecido, lo que significa que se registró el incremento de la pobreza, la pobreza extrema y la pobreza multidimensional. Para el profesor de economía, Edgar Bejarano, la pobreza multidimensional es una muestra de que las políticas públicas como representación de la acción estatal están desconectadas de la realidad y entre sí, y no tienen el propósito de arreglar los problemas que acogen a la población de forma permanente, reduciendo las posibilidades de progreso y limitando el cierre de ciclos de pobreza (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286001/html/index.html#redalyc_313286001_ref8"
+      },
+      "Bejarano, como se citó en Brochero Sepúlveda, 14/07/2020"
+     ],
+     ").  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Por ejemplo, la afectación del campo colombiano puede explicarse desde la repartición de la tierra útil en el territorio. En cifras de 2018, el 70.8 % de los trabajadores del campo estaban vinculados a Unidades Productivas Agropecuarias (UPA) menores de 5 hectáreas. Mientras que las UPA de más de 1000 hectáreas ubicaron el 0,2 % de los productores, con el 59,5 % del área total. Las cifras a 2021 son parecidas y no muestran ninguna mejoría. En consecuencia, las iniciativas de protección social necesitan estructurarse y mantener lógicas de funcionamiento general para que sean útiles a su propósito particular, de lo contrario, serán sólo iniciativas limitadas e insustanciales que no contribuirán a arreglar la situación de los campesinos de forma definitiva. "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " El informe de 2018 de la Organización para la Cooperación y el Desarrollo Económico dio como resultado que Colombia es el país más desigual de América Latina, y se necesitarán de al menos 11 generaciones para salir de la pobreza actual debido a que abundan las promesas políticas de cantidad mas no de calidad, afectando de forma directa las posibilidades de progreso. En un país con índices de riqueza en aumento, pero un crecimiento igual de pobreza, es claro que la repartición es desigual y la población es la directamente afectada por la injusticia económica y las políticas poco exitosas en este campo (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286001/html/index.html#redalyc_313286001_ref29"
+      },
+      "OCDE y otros, 2019"
+     ],
+     ").  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Pero\nno es solo la desigualdad económica uno de los factores más urgentes que\nafectan a la población colombiana, el asesinato continuo e impune de líderes\nsociales y excombatientes ha ido en aumento durante el gobierno Duque y su\nnegativa a implementar medidas de emergencia para su protección ha suscitado el\nrechazo entre la población civil y los organismos de protección nacionales e\ninternacionales que cuestionan la actitud pasiva e irresponsable de este\ngobierno hacia esta población en condición de vulnerabilidad. En\ninvestigaciones de Indepaz (2019), las cifras de asesinatos mostraron un\naumento inaceptable durante los primeros años de gobierno: 282 líderes sociales\ny defensoras de derechos humanos fueron asesinados en Colombia en 2018, 250 en\nel año 2019, 182 en 2020, y 57 en lo que va de 2021, aunque las cifras podrían\nser mayores debido a que el cubrimiento de hechos de violencia en áreas\nlimítrofes es reducido y los procesos de denuncia e investigación son viciados\nen las entidades encargadas. Para Aguilar (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286001/html/index.html#redalyc_313286001_ref3"
+      },
+      "2016"
+     ],
+     "), estas acciones violentas\nsumadas a la falta de respuestas contundentes e inmediatas por parte del\ngobierno nacional, son una forma de incentivar el miedo como forma de control\nsobre la población, lo cual debilita el tejido social y fortalece el\nindividualismo en la población."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " La exigencia es entonces, la presencia estatal en forma de componente social, con educación, e iniciativas productivas y de desarrollo ya que estas poblaciones viven en condición de pobreza extrema, sin acceso a servicios públicos básicos, políticas de protección social, o figuras válidas y legítimas de justicia que hagan frente a la criminalidad y den garantías a la población mientras que grupos armados ilegales se disputan el control del territorio tras la desmovilización de las FARC, iniciando nuevos ciclos de violencia que se dejaron atrás con la firma del Acuerdo de Paz. "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Finalmente, además de la desigualdad, la pobreza y el asesinato de ciudadanos que son líderes de comunidades, indígenas, afrocolombianos, y desmovilizados, el incumplimiento de las promesas de campaña y de los compromisos adquiridos por parte del presidente de la República, se ha sumado al malestar que generó el más reciente levantamiento de la ciudadanía en abril 2021. Varias fueron las promesas de campaña de Duque con las que proyectó que su gobierno estaría enfocado en la inversión social para el mejoramiento de la calidad de vida, así como también la protección ambiental, y el estado categórico de su mandato respecto a la lucha contra la corrupción. Adicionalmente, la continuidad y aplicabilidad de los Acuerdos de Paz se sumaron a esas responsabilidades que, hasta ahora, han sido fallidas o contradichas por las acciones y proyectos desde presidencia. "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Por nombrar algunos de estos compromisos fallidos tenemos la promesa de campaña: ",
+     [
+      "span",
+      {},
+      "Menos impuestos"
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      "más salarios"
+     ],
+     " que, como se ha descrito anteriormente, es una falacia debido a las ocho reformas tributarias propuestas por el gobierno Duque. Seguidamente, las promesas de protección ambiental y de no al ",
+     [
+      "span",
+      {},
+      "fracking"
+     ],
+     " han sido ignoradas al proponer y respaldar en varias ocasiones proyectos ante el Congreso de la República para adoptar esta forma de extracción de petróleo, además de respaldar el retorno de las aspersiones con glifosato para reducir los cultivos ilícitos que han superado las 200.000 hectáreas, el cual es un problema más complejo que incluye también los desplazamientos forzados de campesinos y el daño ambiental que se genera por su uso. De igual forma, la negativa de Duque a proteger los páramos por medio de la creación de la Ley de Páramos, y de programas como ",
+     [
+      "span",
+      {},
+      "Familias Guardaparamos"
+     ],
+     ", con los cuales se incentiva la protección de estos ecosistemas por medio de la financiación de actividades de cultivo y pequeña industria agrícola de las familias que los habitan, es una forma de desligarse de toda responsabilidad ante promesas de campaña y mentir a la comunidad internacional solo para conseguir patrocinio para otros proyectos de índole privado. Finalmente, en lo respectivo al medio ambiente, en 2019 el gobierno manifestó su voluntad de ratificar el Acuerdo de Escazú, con el cual se favorece el desarrollo de proyectos e inversiones sostenible a largo plazo que protegen y benefician jurídicamente a personas y organizaciones que trabajan para la protección del medio ambiente, empero, hasta el momento, el gobierno Duque no ha ratificado este acuerdo y la decisión queda en las manos del Congreso, sin ningún respaldo significativo del presidente. "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Para continuar con los compromisos rotos, las promesas de terminar con la corrupción han sido claramente dejadas de lado para beneficiar las contrataciones de servidores públicos con claras preferencias políticas en cargos de alta relevancia administrativa, deslegitimando todo intento por presentar un gobierno transparente y en concordancia con las promesas de campaña. Por otro lado, los compromisos fallidos en el campo de educación y salud son constantes y no son exclusivos de este gobierno. Sin embargo, se esperaría que, al usarlos como iniciativas en sus campañas presidenciales, los mandatarios cumplieran sus promesas al garantizar no sólo la gratuidad sino la calidad en estos servicios, considerados los peores y más desfinanciados de la agenda nacional. Al mismo nivel de la educación, la salud es un negocio en Colombia, heredado a empresas con ánimo de lucro y servicios financieros que buscan tener un negocio rentable, en vez de concebirlos desde la prevención y el mejoramiento de la calidad de vida. Más aún, se podría concluir que, la concepción de salud desde los gobiernos ha sido errada debido a que la salud no se genera ni se mejora por medio de la construcción de más hospitales, clínicas, reformas al sistema de salud o inyección mínima a la seguridad social sino por medio de la generación de condiciones dignas para mantener la calidad de vida de la población ya que la pobreza es la causa principal de la enfermedad (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286001/html/index.html#redalyc_313286001_ref18"
+      },
+      "Herazo, 2010"
+     ],
+     ").  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Para concluir este ",
+     [
+      "span",
+      {},
+      "memorial de agravios"
+     ],
+     " para el actual gobierno, la negativa de Duque de reconocer la legitimidad de los Acuerdos de Paz firmados en la Habana y, con su gestión, continuar con los cometidos y cumplir con los compromisos tanto con los excombatientes como con la sociedad civil, dificulta de manera constante la superación de la narrativa de guerra y ejerce presión y señalamientos sobre aquellos que creen que la nueva etapa de posconflicto es posible desde el reconocimiento, el diálogo, la verdad, la reparación y la no repetición. Es una muestra de irrespeto a la ciudadanía que, en escenarios internacionales, el presidente muestre su apoyo y aprobación a la paz, además de asegurar que la gestión de su mandato es para el cumplimiento de los Acuerdos, razón por la cual pide financiación incrementando la deuda externa de Colombia, mientras que en sus alocuciones a nivel nacional, ataca constantemente a los desmovilizados, a los Acuerdos mismos y a la Jurisdicción Especial para la Paz (JEP) por medio de objeciones ya reconocidas por la Corte Constitucional previa creación de la entidad, que solo contribuyeron a polarizar la percepción de la población respecto a la implementación de los acuerdos. Además, el desfinanciamiento es uno de los obstáculos más conflictivos en la actualidad, debido a que la administración de los recursos ha quedado en manos del aparato tradicional Estatal en vez de las nuevas entidades creadas con propósitos específicos y bien definidos que contribuyen a la transición durante el posconflicto, para evitar el inicio de nuevos ciclos de violencia por falta de compromiso gubernamental (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286001/html/index.html#redalyc_313286001_ref41"
+      },
+      "Archila, en Soto, 07/09/2020"
+     ],
+     ")."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " El discurso del actual mandatario, sus acciones y la forma en cómo ha desgobernado el país está en directa oposición al sentir de la ciudadanía, mostrando no sólo su desconocimiento de las condiciones multidimensionales y complejas en las que sobrevive la población sino su desconexión con la ciudadanía que se supone debe dirigir. En Colombia, las élites políticas han gobernado, aunque no tienen conocimiento de primera mano sobre lo que ocurre en el día a día, lo que dificulta que tanto sus proyectos como sus acciones estén guiadas por el conocimiento verídico, desestabilizando la legitimidad de un orden social que depende de la capacidad del Estado de responder a las demandas de los ciudadanos (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286001/html/index.html#redalyc_313286001_ref24"
+      },
+      "Matheo, 07/05/2021"
+     ],
+     "). El gobierno Duque todavía ignora con actitudes displicentes esas demandas, incapaz de entender que las razones de la movilización van más allá de la propuesta de una Reforma Tributaria en un momento de crisis económica y social, y encuentran su génesis en un gobierno que no tiene un rumbo definido, que atropella a sus ciudadanos y que no tiene coherencia en sus discursos y sus acciones. "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n",
+     [
+      "span",
+      {},
+      "Reflexiones\nfinales"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Nuevamente, es necesario aclarar que la Reforma Tributaria propuesta por el ex ministro de Hacienda, Alberto Carrasquilla, en representación del gobierno Duque durante marzo de 2021, no es ni la causa principal ni la única razón que dio inicio al Paro Nacional del 28 de abril de 2021, el cual completó más de dos meses, convirtiéndose no solo en el paro sostenido más largo de la historia actual de Colombia sino el paro con mayor pluralidad de sectores en su convocatoria. La reforma fue el último ítem en la lista de detonantes que obligaron a la ciudadanía a salir a las calles y poner de explícito la condición de abandono por parte del gobierno nacional, así como recordarles a los gobernantes que su función es servirle a la población y no al contrario.  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " La suma de agravios en materia económica y el pésimo manejo de los recursos públicos, así como la negativa de reestructurar el sistema de tributación nacional para llenar de forma definitiva los huecos fiscales producto de la condonación constante de impuestos a los grandes contribuyentes de las campañas políticas e inversores extranjeros, contribuyó a este momento de quiebre que demanda acción inmediata y permanente, redistribuyendo las cargas tributarias y el corte inmediato del gasto público destinado a instituciones y empleados públicos en círculos políticos que son innecesarios y entorpecen la gestión efectiva de recursos públicos y programas de ayuda a la ciudadanía.  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Por otro lado, la incompetencia, los continuos escándalos y la poca gobernabilidad por parte de Iván Duque, sostenida mayormente con pago de favores políticos y clientelismo, llegó al punto de no solo generar malestar entre la opinión pública sino de deslegitimar la institucionalidad colombiana, debilitando las bases de la democracia y del Estado Social de Derecho, por la violación de principios fundamentales en las democracias como los mecanismos de chequeos y balanzas, la independencia de los poderes, la legitimidad política requerida para sostener un gobierno en pleno ejercicio de sus funciones, el derecho legítimo de la población civil de hacer seguimiento y evaluación del desempeño de sus gobernantes, etc., con lo cual deja ver su desconocimiento y desprecio de acuerdos sociales que sostienen una democracia representativa y participativa. "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Además, la legitimidad del descontento de la población civil hacia las instituciones que supone deben protegerlos y hacer valer sus derechos está arraigada a la clara fractura al interior de las mismas y las fallas estructurales. La ciudadanía, la oposición, y ahora, entes internacionales como el Human Right Watch, se han pronunciado incesantemente sobre la necesidad de reformar estas instituciones, y también separar a la Policía de las Fuerzas Militares para evitar la corrupción en las investigaciones, los tribunales y las sentencias, ofreciendo garantías reales de justicia y confiabilidad, aspectos que por un tiempo considerable han separado a la ciudadanía de las instituciones públicas en Colombia. Asimismo, es necesaria la separación de la Fuerza Militar del Ministerio de Defensa, para que actúe de forma independiente y deje de lado el discurso de guerra que terminó en 2016, pero que sigue siendo usado como estrategia política para ganar adeptos entre la población de extrema derecha debido a que sirve en sí mismo como contexto y objetivo de las acciones bélicas que toman lugar, el cual, eventualmente, termina por convertirse en un discurso con unidad y continuidad para mantenerse en el tiempo (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286001/html/index.html#redalyc_313286001_ref23"
+      },
+      "Leyton, 2013"
+     ],
+     ").  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Finalmente, la ciudadanía debe ser incluida de forma contundente y significativa en la toma de decisiones y la construcción de país, ya que su participación por medio de votaciones cada cuatro años no es suficiente, y las demandas de naturaleza social requieren de acción inmediata. Para Sergio Jaramillo (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286001/html/index.html#redalyc_313286001_ref19"
+      },
+      "16/05/2021"
+     ],
+     "), quien fuera hasta 2017 Alto Comisionado para la Paz, después de firmar los Acuerdos, era previsible que la ciudadanía se expresara por los problemas relegados por el conflicto armado, lo que requería una agenda abierta y permanente de parte del gobierno entrante con la voluntad de garantizar que todos tuvieran una voz, pero ni Duque ni su gabinete han sabido leer la realidad del país en el posconflicto y se empeñan en criminalizar el legítimo derecho a la protesta. Pero este momento coyuntural que enfrenta el país en la actualidad permite un proceso de diálogo creíble con métodos y garantías, ya que las crisis deben ser vistas también como una oportunidad de transformación, sin embargo, no puede ser de arriba hacia abajo, ya que estas transformaciones se quedan a mitad del camino, debe ser de abajo hacia arriba además de amplia e integradora.  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Por añadidura, el que fuera Alto Comisionado también propone dividir el problema actual en dos: espacio y tiempo. Espacio regional y nacional, retomando la concordancia entre las acciones de ambos niveles para mayor efectividad. Tiempo para tener una fase de resultados rápidos, y una fase de transformaciones profundas con las cuales se construye nuevamente la confianza entre la ciudadanía, las instituciones, y los mandatarios (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286001/html/index.html#redalyc_313286001_ref19"
+      },
+      "Lederach, como se citó en Jaramillo, 16/05/2021"
+     ],
+     "). "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Para concluir, esta protesta y descontento persistentes a raíz de una combinación de factores en estado de decadencia, en varios ejes como el económico, el político y el social, se presentan como el resultado de un agotamiento con el régimen de gobierno y dan la posibilidad de cambiar la política del país, una propuesta que surja desde el consenso y no las imposiciones caudillistas que caracterizan a Latinoamérica, heredadas de virreyes y caciques, los cuales han dejado consigo organizaciones sociales e institucionales verticales, corruptas y excluyentes apartadas de su labor social (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286001/html/index.html#redalyc_313286001_ref1"
+      },
+      "Abad, 16/05/2021"
+     ],
+     ")."
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-back"
+    },
+    "\n",
+    [
+     "p",
+     {},
+     "\n",
+     [
+      "span",
+      {},
+      "Referencias"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286001_ref1"
+     },
+     "Abad, H. (16 de mayo de 2021).\nCambiar el sistema. ",
+     [
+      "span",
+      {},
+      "El Espectador"
+     ],
+     ", p.\n42. Recuperado de ",
+     [
+      "a",
+      {
+       "href": "https://www.elespectador.com/opinion/columnistas/hector-abad-faciolince/cambiar-el-sistema-column/"
+      },
+      "https://www.elespectador.com/opinion/columnistas/hector-abad-faciolince/cambiar-el-sistema-column/"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286001_ref2"
+     },
+     "Ávila, A. y Martínez, J. (30 de\nseptiembre de 2021). El eslabón perdido de las chuzadas del DAS. ",
+     [
+      "span",
+      {},
+      "El Espectador"
+     ],
+     ". Recuperado de ",
+     [
+      "a",
+      {
+       "href": "https://www.elespectador.com/opinion/columnistas/ariel-avila/el-eslabon-perdido-de-las-chuzadas-del-das/"
+      },
+      "https://www.elespectador.com/opinion/columnistas/ariel-avila/el-eslabon-perdido-de-las-chuzadas-del-das/"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286001_ref3"
+     },
+     "Aguilar, N. (2020). Las cuatro CO de\nla acción colectiva juvenil. El caso del paro nacional de Colombia.",
+     [
+      "span",
+      {},
+      " Análisis Político"
+     ],
+     ", (98), 26-43. ",
+     [
+      "a",
+      {
+       "href": "https://doi.org/10.15446/anpol.v33n98.89408"
+      },
+      "https://doi.org/10.15446/anpol.v33n98.89408"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286001_ref4"
+     },
+     "Bagley, M. (2000). Narcotráfico,\nviolencia política y política exterior de Estados Unidos hacia Colombia en los\nnoventa (Trad. Marcela Londoño). ",
+     [
+      "span",
+      {},
+      "Revista\nColombia Internacional"
+     ],
+     ", (49-50). ",
+     [
+      "a",
+      {
+       "href": "https://doi.org/10.7440/colombiaint49-50.2000.01"
+      },
+      "https://doi.org/10.7440/colombiaint49-50.2000.01"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286001_ref5"
+     },
+     "Barría, C. (13 de mayo de 2021).\nProtestas en Colombia: por qué es tan importante una nueva reforma tributaria\nen el país. ",
+     [
+      "span",
+      {},
+      "BBC Mundo"
+     ],
+     ". Recuperado de ",
+     [
+      "a",
+      {
+       "href": "https://www.bbc.com/mundo/noticias-57066479"
+      },
+      "https://www.bbc.com/mundo/noticias-57066479"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286001_ref6"
+     },
+     "Barrientos, B. y Niño, R. (2017).\nConcentración del poder presidencial y crisis institucional: análisis de los\ngobiernos de Fujimori, Nemen y Uribe. ",
+     [
+      "span",
+      {},
+      "Revista\nVía Iuris"
+     ],
+     ", (23), 1-37. Recuperado de ",
+     [
+      "a",
+      {
+       "href": "https://revistas.libertadores.edu.co/index.php/ViaIuris/article/view/826"
+      },
+      "https://revistas.libertadores.edu.co/index.php/ViaIuris/article/view/826"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286001_ref7"
+     },
+     "Bobbio, N. (1985). ",
+     [
+      "span",
+      {},
+      "El Futuro de la Democracia. Hombre y\nSociedad"
+     ],
+     ". Barcelona, España: Plaza y Janés."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286001_ref8"
+     },
+     "Brochero Sepúlveda, D. (14 de julio\nde 2020). Imagínese usted. ",
+     [
+      "span",
+      {},
+      "Opinión. La\ncola de rata"
+     ],
+     ". Recuperado de ",
+     [
+      "a",
+      {
+       "href": "https://www.lacoladerata.co/opinion/imaginese-usted/"
+      },
+      "https://www.lacoladerata.co/opinion/imaginese-usted/"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286001_ref9"
+     },
+     "Camargo Tovar, J. y Acuña, F. (6 de\nagosto de 2018). ¿Los ministros de Duque quienes son y a quienes representan?\n[Informe]. ",
+     [
+      "span",
+      {},
+      "Razón Pública"
+     ],
+     ". Recuperado\nde ",
+     [
+      "a",
+      {
+       "href": "https://razonpublica.com/los-ministros-de-duque-quienes-son-y-a-quienes-representan/"
+      },
+      "https://razonpublica.com/los-ministros-de-duque-quienes-son-y-a-quienes-representan/"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286001_ref10"
+     },
+     "Contraloría General de la Nación.\n(2018). ",
+     [
+      "span",
+      {},
+      "Grandes hallazgos"
+     ],
+     ".\nBogotá, Colombia: Imprenta Nacional."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286001_ref11"
+     },
+     "Cortés Durán, L. y Pineda Jiménez,\nJ. (15 de junio de 2020). Qué ha hecho el gobierno Duque para sostener la\neconomía. ",
+     [
+      "span",
+      {},
+      "Razón Pública"
+     ],
+     ". Recuperado\nde ",
+     [
+      "a",
+      {
+       "href": "https://razonpublica.com/ha-hecho-gobierno-duque-sostener-la-economia/"
+      },
+      "https://razonpublica.com/ha-hecho-gobierno-duque-sostener-la-economia/"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286001_ref12"
+     },
+     "Cruz Cárdenas, L. (8 de octubre de 2021).\nEfectos de déficit comercial sobre\nsobre la economía colombina. ",
+     [
+      "span",
+      {},
+      "UdeA\nNoticias"
+     ],
+     ". Recuperado de ",
+     [
+      "a",
+      {
+       "href": "https://cutt.ly/eKvj2qy"
+      },
+      "https://cutt.ly/eKvj2qy"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286001_ref13"
+     },
+     "Easterly, W., Ritzen, J. y Woolcock, M. (2006). Cohesión\nsocial, instituciones y crecimiento. ",
+     [
+      "span",
+      {},
+      "Center for Global Development\nWorking Paper"
+     ],
+     ", (94)."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286001_ref14"
+     },
+     "El Tiempo. (28 de junio de 2020). Las horas claves del caso por violación de\nniña embera por soldados. Recuperado de ",
+     [
+      "a",
+      {
+       "href": "https://www.eltiempo.com/justicia/delitos/que-se-sabe-y-que-sigue-en-caso-de-nina-indigena-violada-por-soldados-del-ejercito-511918"
+      },
+      "https://www.eltiempo.com/justicia/delitos/que-se-sabe-y-que-sigue-en-caso-de-nina-indigena-violada-por-soldados-del-ejercito-511918"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286001_ref15"
+     },
+     "Esping-Andersen, G. (1993). ",
+     [
+      "span",
+      {},
+      "Los tres mundos del estado de\nbienestar"
+     ],
+     ". Madrid, España: Edicions Alfons El Magnanim."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286001_ref16"
+     },
+     "Gargarella, R. (2011). ",
+     [
+      "span",
+      {},
+      "5 comentarios sobre la Decisión de la Corte\nInteramericana en Gelman"
+     ],
+     ". Seminario de Teoría Constitucional y Filosofía\nPolítica. Recuperado\nde ",
+     [
+      "a",
+      {
+       "href": "http://seminariogargarella.blogspot.com/2011/06/5-comentarios-sobre-la-decision-de-la.html"
+      },
+      "http://seminariogargarella.blogspot.com/2011/06/5-comentarios-sobre-la-decision-de-la.html"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286001_ref17"
+     },
+     "Held, D. (1992).",
+     [
+      "span",
+      {},
+      " Modelos de Democracia. Ciencias Sociales"
+     ],
+     ".\nMadrid, España: Alianza."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286001_ref18"
+     },
+     "Herazo, B. (2010). Algunos problemas\nde la salud en Colombia.",
+     [
+      "span",
+      {},
+      " Univ Odontol"
+     ],
+     ",\n29(63), 37-39. Recuperado de ",
+     [
+      "a",
+      {
+       "href": "https://www.redalyc.org/pdf/2312/231216366005.pdf"
+      },
+      "https://www.redalyc.org/pdf/2312/231216366005.pdf"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286001_ref19"
+     },
+     "Jaramillo, S. (16 de mayo de 2021).\nUna nueva agenda nacional. ",
+     [
+      "span",
+      {},
+      "El Espectador"
+     ],
+     ",\npp. 2-4. Recuperado de ",
+     [
+      "a",
+      {
+       "href": "https://www.elespectador.com/politica/una-nueva-agenda-nacional-analisis-del-excomisionado-para-la-paz-sobre-el-paro/"
+      },
+      "https://www.elespectador.com/politica/una-nueva-agenda-nacional-analisis-del-excomisionado-para-la-paz-sobre-el-paro/"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286001_ref20"
+     },
+     "Kalmonovitz, L. (2010). ",
+     [
+      "span",
+      {},
+      "Nueva historia económica de Colombia"
+     ],
+     ".\nBogotá, Colombia: Universidad Jorge Tadeo Lozano / Taurus."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286001_ref21",
+      "lang": "en"
+     },
+     "Keynes, J. M. (1936). The general theory of employment.\n",
+     [
+      "span",
+      {},
+      "Quarterly Journal of Economics"
+     ],
+     ", 51(2), 209-223."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286001_ref22"
+     },
+     "La FM. (19 de octubre de 2020). En\nColombia hay activas 300 investigaciones contra la Fuerza Pública, por abuso\nsexual. ",
+     [
+      "span",
+      {},
+      "Weleytonb"
+     ],
+     ". Recuperado de ",
+     [
+      "a",
+      {
+       "href": "https://headtopics.com/co/en-colombia-hay-activas-300-investigaciones-contra-la-fuerza-p-blica-por-abuso-sexual-16360705"
+      },
+      "https://headtopics.com/co/en-colombia-hay-activas-300-investigaciones-contra-la-fuerza-p-blica-por-abuso-sexual-16360705"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286001_ref23"
+     },
+     "Leyton, T. (2013). Continuidades y\nrupturas en los discursos de la guerra de Afganistán: intelectuales, políticos\ny soldados. ",
+     [
+      "span",
+      {},
+      "Revista de Estudios Sociales"
+     ],
+     ",\n(47), 147-155. ",
+     [
+      "a",
+      {
+       "href": "http://dx.doi.org/10.7440/res47.2013.11"
+      },
+      "http://dx.doi.org/10.7440/res47.2013.11"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286001_ref24"
+     },
+     "Matheo, A. (7 de mayo de 2021). ¿Qué\nestá pasando en Colombia? ",
+     [
+      "span",
+      {},
+      "The Conversation"
+     ],
+     ". Recuperado de ",
+     [
+      "a",
+      {
+       "href": "https://theconversation.com/que-esta-pasando-en-colombia-160482"
+      },
+      "https://theconversation.com/que-esta-pasando-en-colombia-160482"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286001_ref25"
+     },
+     "Misión de Observación Electoral.\n(2018). ",
+     [
+      "span",
+      {},
+      "Resultados Electorales Elecciones\nPresidenciales 2018"
+     ],
+     " [Informe]. Recuperado de ",
+     [
+      "a",
+      {
+       "href": "https://www.moe.org.co/publicacion/resultados-electorales-elecciones-presidenciales-2018/"
+      },
+      "https://www.moe.org.co/publicacion/resultados-electorales-elecciones-presidenciales-2018/"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286001_ref26"
+     },
+     "Moreno, C. (2 de mayo de 2021).\nMenos Estado para más Estado.",
+     [
+      "span",
+      {},
+      " El\nEspectador"
+     ],
+     ", p. 37. Recuperado de ",
+     [
+      "a",
+      {
+       "href": "https://www.elespectador.com/opinion/columnistas/carlos-enrique-moreno/menos-estado-para-mas-estado-column/"
+      },
+      "https://www.elespectador.com/opinion/columnistas/carlos-enrique-moreno/menos-estado-para-mas-estado-column/"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286001_ref27"
+     },
+     "Murillo, A. y Venegas, O. (2020). ",
+     [
+      "span",
+      {},
+      "Créditos extranjeros a Colombia durante la\npandemia"
+     ],
+     ". Bogotá,\nColombia: Universidad Externado de Colombia."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286001_ref28"
+     },
+     "Noguera, S. y Triviño, M. (7 de\nagosto de 2020). Lo que deja la\ngestión de Iván Duque en sus primeros dos años como presidente de Colombia. ",
+     [
+      "span",
+      {},
+      "Agencia Anadolu"
+     ],
+     ". Recuperado de ",
+     [
+      "a",
+      {
+       "href": "https://cutt.ly/iKvOeJy"
+      },
+      "https://cutt.ly/iKvOeJy"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286001_ref29"
+     },
+     "OCDE y otros. (2019). ",
+     [
+      "span",
+      {},
+      "Perspectivas económicas de América Latina\n2019. Desarrollo en transición"
+     ],
+     ". Paris, Francia: OECDPublishing. ",
+     [
+      "a",
+      {
+       "href": "https://doi.org/10.1787/g2g9ff1a-es"
+      },
+      "https://doi.org/10.1787/g2g9ff1a-es"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286001_ref30"
+     },
+     "Organización Internacional del\nTrabajo. (2019). ",
+     [
+      "span",
+      {},
+      "Informe mundial sobre la\nprotección social 2017-2019. La protección universal para alcanzar los\nObjetivos de Desarrollo Sostenible"
+     ],
+     ". Ginebra, Suiza. Recuperado de ",
+     [
+      "a",
+      {
+       "href": "https://www.ilo.org/global/publications/books/WCMS_605075/lang--es/index.htm"
+      },
+      "https://www.ilo.org/global/publications/books/WCMS_605075/lang--es/index.htm"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286001_ref31"
+     },
+     "Pardo,\nD. (19 de abril de 2021). Reforma tributaria: por qué la economía de Colombia\nes tan conservadora. ",
+     [
+      "span",
+      {},
+      "BBC Mundo"
+     ],
+     ". Recuperado de ",
+     [
+      "a",
+      {
+       "href": "https://www.bbc.com/mundo/noticias-america-latina-56795320"
+      },
+      "https://www.bbc.com/mundo/noticias-america-latina-56795320"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286001_ref32"
+     },
+     "Pedrozo, D. (2020). ",
+     [
+      "span",
+      {},
+      "Desigualdad en Colombia: Una\nvisión a través del Índice de Gini y los indicadores de Pobreza económica y\nmultidimensional (2000-2019)"
+     ],
+     ".\nBogotá, Colombia: Universidad Militar Nueva Granada."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286001_ref33"
+     },
+     "Pérez, J. (1994). La crisis política\ndel Estado como quiebra de la legitimidad democrática en América Latina: la\ndescentralización educativa entre la eficacia democrática, la retórica, la\nimitación y la legitimación. Algunas categorías y tipologías para la\ncomparación y discusión. ",
+     [
+      "span",
+      {},
+      "Revista\nIberoamericana de Educación"
+     ],
+     ", (4)."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286001_ref34"
+     },
+     "Pharr, S. y Putnam, R. (2000). ",
+     [
+      "span",
+      {},
+      "Democracias desafectadas. ¿Qué está\nafectando a los países trilaterales?"
+     ],
+     " Nueva York, Estados Unidos: Princeton\nUniversity Press."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286001_ref35"
+     },
+     "Putnam, R., Leonardi, R. y Nanetti,\nR. (1993). ",
+     [
+      "span",
+      {},
+      "Cómo hacer funcionar la\ndemocracia: Capital social y tradiciones cívicas en la Italia moderna"
+     ],
+     ". Nueva\nYork, Estados Unidos: Princeton University Press."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286001_ref36"
+     },
+     "Rey, S. (2012). Derechos humanos,\nsoberanía estatal y legitimidad democrática de los tribunales internacionales.\n¿Tres conceptos incompatibles? ",
+     [
+      "span",
+      {},
+      "Revista\nDerechos Humanos"
+     ],
+     ", (1). Recuperado de ",
+     [
+      "a",
+      {
+       "href": "http://www.saij.gob.ar/doctrina/dacf120197-rey-derechos_humanos_soberania_estatal.htm"
+      },
+      "http://www.saij.gob.ar/doctrina/dacf120197-rey-derechos_humanos_soberania_estatal.htm"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286001_ref37"
+     },
+     "Ríos, J. (diciembre 2018). Iván\nDuque: Presidir sin gobernar. ",
+     [
+      "span",
+      {},
+      "Nueva\nSociedad"
+     ],
+     ". Recuperado de ",
+     [
+      "a",
+      {
+       "href": "https://www.nuso.org/articulo/ivan-duque-colombia-gobierno/"
+      },
+      "https://www.nuso.org/articulo/ivan-duque-colombia-gobierno/"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286001_ref38"
+     },
+     "Sartori, G. (1994). ",
+     [
+      "span",
+      {},
+      "La importancia de los sistemas electorales.\nIngeniería constitucional comparada"
+     ],
+     ". Ciudad de México, México: Fondo de\nCultura Económica."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286001_ref39"
+     },
+     "Semple,\nK. (14 de octubre de 1999). Major\nArrests Sabotage Colombian Drug Network. ",
+     [
+      "span",
+      {},
+      "The\nWashington Post"
+     ],
+     ". Recuperado de ",
+     [
+      "a",
+      {
+       "href": "https://www.washingtonpost.com/archive/politics/1999/10/14/major-arrests-sabotage-colombian-drug-network/157b6506-618e-4d08-8d62-88ecd0c25aff/"
+      },
+      "https://www.washingtonpost.com/archive/politics/1999/10/14/major-arrests-sabotage-colombian-drug-network/157b6506-618e-4d08-8d62-88ecd0c25aff/"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286001_ref40"
+     },
+     "Solozábal, J. (1981). Sobre el\nprincipio de la separación de poderes.\n",
+     [
+      "span",
+      {},
+      "Revista de estudios políticos (Nueva Época)"
+     ],
+     ", (24)."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286001_ref41"
+     },
+     "Soto, L. (7 de septiembre de 2020).\nLa implementación de la paz, cada vez más desfinanciada. ",
+     [
+      "span",
+      {},
+      "La silla vacía"
+     ],
+     ". Recuperado de ",
+     [
+      "a",
+      {
+       "href": "https://www.lasillavacia.com/historias/silla-nacional/la-implementacion-de-la-paz-cada-vez-mas-desfinanciada"
+      },
+      "https://www.lasillavacia.com/historias/silla-nacional/la-implementacion-de-la-paz-cada-vez-mas-desfinanciada"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286001_ref42"
+     },
+     "Wright, C. (1956). ",
+     [
+      "span",
+      {},
+      "La élite del poder"
+     ],
+     ". Madrid, España:\nFondo de Cultura Económica."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Notas"
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-fn3"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "1"
+     ],
+     " La ",
+     [
+      "span",
+      {},
+      "ñeñepolítica"
+     ],
+     " es el nombre con el que se conoce el escándalo de compra de votos para la campaña presidencial del 2018 del actual presidente de Colombia Iván Duque M. con el ganadero y narcotraficante colombiano José Guillermo, conocido como el “Ñeñe Hernández”. Es por este apodo que el escándalo fue bautizado de esta manera. Vincula directamente al presidente Duque, a María Claudia Daza, asesora personal del ex Presidente Álvaro Uribe Vélez, y a Nubia Stella Martínez, directora del Centro Democrático (partido del gobierno), de recibir aportes del narcotráfico para la campaña presidencial. Este escándalo político-judicial fue revelado en 2020 por los periodistas colombianos Gonzalo Guillén y Julián Martínez del medio La Nueva Prensa en la investigación “Interceptaciones al narcotraficante ´Ñeñe´ Hernández destapan compra de votos para Duque por orden de Uribe”."
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-fn4"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "2"
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "Falsos Positivos"
+     ],
+     " es el nombre con el que la prensa de Colombia denominó al involucramiento principalmente de miembros del Ejército Nacional de Colombia en el asesinato de civiles no beligerantes haciéndolos pasar como bajas en combate en el marco del Conflicto armado interno."
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-fn2"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "3"
+     ],
+     " En Colombia se conoce como escándalo de las ",
+     [
+      "span",
+      {},
+      "chuzadas"
+     ],
+     " el proceso judicial que acabó con el Departamento Administrativo de Seguridad (DAS). Esta entidad era la policía secreta del presidente de la República y tenía la misión constitucional de velar por la seguridad nacional del país. En febrero de 2009 fue descubierta ejecutando una operación ilegal de espionaje ordenada por el gobierno de Álvaro Uribe Vélez (2002-2010) en contra de las altas cortes, periodistas independientes, políticos de la oposición y defensores de derechos humanos. En ese momento, el gobierno llevaba siete años interceptando las llamadas de sus contradictores sin la aprobación de un juez. (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286001/html/index.html#redalyc_313286001_ref2"
+      },
+      "Ávila & Martínez, 30/09/2021"
+     ],
+     ")."
+    ],
+    "\n"
+   ],
+   "\n"
+  ],
+  "\n",
+  [
+   "span",
+   {
+    "id": "t-creditos"
+   },
+   "\n",
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-logo-izquierda"
+    },
+    "\n",
+    [
+     "figura",
+     {}
+    ]
+   ],
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-mensaje"
+    },
+    "Modelo de publicación sin fines de lucro para conservar la naturaleza académica y abierta de la comunicación científica",
+    [
+     "br",
+     {}
+    ],
+    "HTML generado a partir de XML-JATS4R"
+   ],
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-logo-derecha"
+    },
+    "\n",
+    [
+     "figura",
+     {}
+    ]
+   ],
+   "\n",
+   "\n"
+  ],
+  "\n\n\n"
+ ]
+};

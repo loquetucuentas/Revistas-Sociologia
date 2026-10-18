@@ -1,0 +1,2238 @@
+{
+ "version": 1,
+ "recogido": "2026-10-18T11:50:23+00:00",
+ "doi": "10.32399/icsyh.bvbuap.2954-4300.2025.7.13.823",
+ "titulo": "La crítica marxista de Pashukanis sobre el sujeto de derecho y el fascismo: elementos esenciales para comprender la relación social entre alimentación, estado y crisis",
+ "revista": "2954-4300",
+ "numero": "2025",
+ "licencia": {
+  "codigo": "by-nc-sa",
+  "nombre": "CC BY-NC-SA 4.0",
+  "nombre_completo": "Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional",
+  "url": "https://creativecommons.org/licenses/by-nc-sa/4.0",
+  "url_legal": "https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.es"
+ },
+ "fuente": {
+  "url": "https://bajoelvolcanx.buap.mx/index.php/bajovolc/article/download/823/793?inline=1",
+  "formato": "HTML",
+  "plataforma": "ojs-galerada",
+  "pagina": "https://bajoelvolcanx.buap.mx/index.php/bajovolc/article/view/823"
+ },
+ "autores_cita": [
+  {
+   "apellidos": "Dias da Silva Guerra",
+   "nombre_pila": "Lucia",
+   "nombre": null
+  },
+  {
+   "apellidos": "Carnut",
+   "nombre_pila": "Leonardo",
+   "nombre": null
+  }
+ ],
+ "avisos_derechos": [
+  "Derechos de autor 2025 Lucia Dias da Silva Guerra, Leonardo Carnut",
+  "Licencia Derechos de autor 2025 Lucia Dias da Silva Guerra, Leonardo Carnut Esta obra está bajo una licencia internacional Creative Commons Atribución-NoComercial-CompartirIgual 4.0. Las autoras y los autores conservan los derechos de autor sobre su obra y ceden a Bajo el Volcán. Revista del Posgrado de Sociología. BUAP únicamente el derecho de primera publicación. Revista de acceso abierto diamante: sin costo para autoras, autores ni personas lectoras."
+ ],
+ "idioma_principal": "es",
+ "indice": [
+  {
+   "id": "t-seccion-1",
+   "nivel": 2,
+   "texto": "La crítica marxista de Pashukanis sobre el sujeto de derecho y el fascismo: elementos esenciales para comprender la relación social entre alimentación, estado y crisis1",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-2",
+   "nivel": 3,
+   "texto": "INTRODUCCIÓN",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-3",
+   "nivel": 3,
+   "texto": "ALIMENTACIÓN Y AUTORITARISMO EN BRASIL: BREVES NOTAS",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-4",
+   "nivel": 3,
+   "texto": "ALIMENTACIÓN Y NEOFASCISMO EN EL BRASIL RECIENTE: EL USO POLÍTICO DEL HAMBRE COMO ARMA DE EXTERMINIO Y ASESINATO SOCIAL",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-5",
+   "nivel": 3,
+   "texto": "CONSIDERACIONES FINALES",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-6",
+   "nivel": 3,
+   "texto": "REFERENCIAS",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-7",
+   "nivel": 3,
+   "texto": "NOTAS",
+   "lang": null
+  }
+ ],
+ "vueltas": {
+  "t-fnref1": "t-llamada-fnref1-1",
+  "t-fnref2": "t-llamada-fnref2-1",
+  "t-fnref3": "t-llamada-fnref3-1",
+  "t-fnref4": "t-llamada-fnref4-1",
+  "t-fnref5": "t-llamada-fnref5-1",
+  "t-fnref6": "t-llamada-fnref6-1"
+ },
+ "contenido": [
+  "\n",
+  [
+   "section",
+   {},
+   "\n",
+   [
+    "strong",
+    {},
+    [
+     "em",
+     {},
+     "Bajo el Volcán. Revista del Posgrado de Sociología. BUAP"
+    ]
+   ],
+   ", Año 7, Núm. 13, noviembre de 2025 – abril de 2026, pp. 256-288.",
+   [
+    "br",
+    {}
+   ],
+   "e-ISSN 2954-4300 · ",
+   [
+    "a",
+    {
+     "href": "https://doi.org/10.32399/ICSYH.bvbuap.2954-4300.2025.7.13.823"
+    },
+    "https://doi.org/10.32399/ICSYH.bvbuap.2954-4300.2025.7.13.823"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Dossier temático"
+   ],
+   "\n",
+   [
+    "h2",
+    {
+     "id": "t-seccion-1"
+    },
+    "La crítica marxista de Pashukanis sobre el sujeto de derecho y el fascismo: elementos esenciales para comprender la relación social entre alimentación, estado y crisis",
+    [
+     "sup",
+     {},
+     [
+      "a",
+      {
+       "id": "t-fnref1",
+       "href": "#t-fn1"
+      },
+      "1"
+     ]
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Pashukanis’ Marxist critique of the subject of right and fascism: Essential elements for understanding the social relationship between food, the State, and crisis"
+   ],
+   "\n",
+   "\n",
+   [
+    "p",
+    {
+     "lang": "pt"
+    },
+    [
+     "span",
+     {},
+     "Lucia Dias da Silva Guerra"
+    ],
+    [
+     "br",
+     {}
+    ],
+    [
+     "span",
+     {},
+     "Facultad de Salud Pública, Universidade de São Paulo, São Paulo, Brasil"
+    ],
+    [
+     "br",
+     {}
+    ],
+    [
+     "span",
+     {},
+     "ORCID: ",
+     [
+      "a",
+      {
+       "href": "https://orcid.org/0000-0003-0093-2687"
+      },
+      "https://orcid.org/0000-0003-0093-2687"
+     ]
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "pt"
+    },
+    [
+     "span",
+     {},
+     "Leonardo Carnut"
+    ],
+    [
+     "br",
+     {}
+    ],
+    [
+     "span",
+     {},
+     "Facultad de Medicina, Universidade de São Paulo, São Paulo, Brasil"
+    ],
+    [
+     "br",
+     {}
+    ],
+    [
+     "span",
+     {},
+     "ORCID: ",
+     [
+      "a",
+      {
+       "href": "https://orcid.org/0000-0001-6415-6977"
+      },
+      "https://orcid.org/0000-0001-6415-6977"
+     ]
+    ]
+   ],
+   "\n",
+   "\n",
+   [
+    "p",
+    {},
+    "ludsguerra@gmail.com"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "leonardo.carnut@gmail.com"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "RESUMEN"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "La alimentación y la nutrición permiten reflexionar críticamente sobre la acción humana y el modelo hegemónico de producción (capitalismo), y sus tramas simbólicas capaces de producir servidumbre forzada. Este artículo busca construir un debate desde América Latina y el Caribe (ALC) para pensar la articulación entre alimentación y neofascismo a partir de la crisis de sociabilidad del capital, y cómo la crítica marxista de Pashukanis al sujeto de derechos como forma social e histórica es esencial para comprender las relaciones de producción de la sociedad capitalista (al analizar la forma mercancía y el proceso de intercambio). El artículo está organizado en dos partes: la primera expone el autoritarismo como un sistema recurrente de liderazgo en Brasil que tiene implicaciones directas en las cuestiones alimentarias; la segunda examina la relación entre alimentación y neofascismo en el Brasil reciente. Por último, dejamos unos breves comentarios sobre las formas de aprovechar la fuerza y producir una acción colectiva a través de sujetos revolucionarios."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    [
+     "em",
+     {},
+     "Palabras-clave:"
+    ],
+    " marxismo, hambre, nutrición, alimentación y dieta, capitalismo."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "ABSTRACT"
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Food and nutrition allow us to reflect critically on human action and the hegemonic model of production (capitalism), and its symbolic plots capable of producing forced servitude. This article seeks to build a debate from Latin America and the Caribbean (LAC) in order to think about the articulation between food and neo-fascism based on the crisis of capital’s sociability, and how Pashukanis’ Marxist critique of the subject of rights as a social and historical form is essential for understanding the relations of production of capitalist society (in analysing the commodity form and the exchange process). The article is organised into two parts: the first exposes authoritarianism as a recurring system of leadership in Brazil that has direct implications for food issues; the second looks at the relationship between food and neofascism in recent Brazil. Finally, we leave brief comments on ways to harness strength and produce collective action through revolutionary subjects."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    [
+     "em",
+     {},
+     "Keywords:"
+    ],
+    " marxism, hunger, diet, food, and nutrition, capitalism."
+   ],
+   "\n",
+   [
+    "h3",
+    {
+     "id": "t-seccion-2"
+    },
+    "INTRODUCCIÓN"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "La coyuntura del mundo (en guerra) demostró cómo el alimento, desde su producción, acceso, distribución y consumo, son centrales para comprender este escenario de policrisis del capitalismo,",
+    [
+     "sup",
+     {},
+     [
+      "a",
+      {
+       "id": "t-fnref2",
+       "href": "#t-fn2"
+      },
+      "2"
+     ]
+    ],
+    " donde convergen e se interconectan diversas crisis: geopolíticas (guerra y divisiones internacionales), económicas (inflación y recesión) y ambientales (clima y pandemia) (Roberts, 2023), en las que el virus del capital (Pavón-Cuéllar, 2021) y la agroindustria van de la mano (Wallace, 2020). Desde la producción de patógenos virulentos derivados de los métodos de producción de los sistemas agroalimentarios globales (Cieza, 2020; Carnut et al., 2020) hasta la falta de acceso a una alimentación y nutrición adecuadas, como en el contexto de Gaza (FAO, 2025), y los usos políticos del hambre, la destrucción de la naturaleza, de las culturas alimentarias -la alimentación develó su papel central en este debate."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "El ‘alimentarse’ ha sido productor y producto de ataques de diversa índole (Paschoa, 2009), hecho que justifica una mirada crítica a la articulación entre alimentación y neofascismo a partir de esta crisis de la sociabilidad del capital, y cómo la crítica marxista de Pashukanis al sujeto de derecho como forma social e histórica es esencial para comprender las relaciones de producción en la sociedad capitalista (en el análisis de la forma mercancía y del proceso de intercambio)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "En la sociabilidad capitalista, el hombre está separado de los medios de producción, carente de tierra, azada, arado o bosque, y mucho menos de arco y flecha. Así, le queda su fuerza de trabajo, con la que puede ofrecer su fuerza al mercado capitalista como elemento de intercambio para garantizar su existencia mediante otra mercancía: el “alimento” (el alimento-mercancía). Y, en este contexto, sólo puede ser obtenidos por medio de la forma-dinero, tanto por su valor de uso cuanto como por su valor de cambio (Alves, 2016)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Pashukanis, en ",
+    [
+     "em",
+     {},
+     "La teoría general del derecho y el marxismo"
+    ],
+    " (2017), deja muy claro que “la sociedad capitalista es, ante todo, una sociedad de propietarios de mercancías. Esto significa que las relaciones sociales entre las personas en el proceso de producción adquieren la forma reificada de los productos del trabajo, que se relacionan entre sí por el valor”. Y que “la mercancía es un objeto mediante el cual la diversidad concreta de propiedades útiles se convierte en una simple cáscara reificada de la propiedad abstracta del valor, que se manifiesta como la capacidad de ser intercambiada por otras mercancías a un precio determinado” (119)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "No cabe duda de que la alimentación y la nutrición humanas son cuestiones complejas y multidimensionales y, por certo, esenciales para la vida. Sin embargo, esto plantea inquietudes sobre cómo debemos pensar en la alimentación no solo como un acto de “alimentarse”, es decir, como una “secuencia diaria” de ingesta de alimentos en la que todo ser vivo requiere nutrientes y calorías, sino también como una reflexión sobre cómo este acto es estructurado ",
+    [
+     "em",
+     {},
+     "por"
+    ],
+    ", y arraiga ",
+    [
+     "em",
+     {},
+     "en"
+    ],
+    ", la construcción del sistema de producción alimentaria dentro del modo de producción capitalista. Es en este modo de producción donde tiene lugar la concentración de los medios de producción (quienes producen los alimentos no son quienes los consumen) y el fetiche de fomentar el consumo de “productos alimenticios”, como los alimentos ultraprocesados (Esteve, 2017), la mercancía-alimento de las masas. Es en este modo de producción capitalista que alimentos como el arroz, el maíz, el café, el frijol, la soya, el cacao, el azúcar, la carne y los jugos de frutas se han convertido en ",
+    [
+     "em",
+     {},
+     "commodities"
+    ],
+    " en la búsqueda constante e irracional de la valorización del valor (Alves, 2016) a través de la exportación de estas mercancías agrícolas y agropecuarias para la comercialización en el mercado internacional, buscando la expansión del capital."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "El sistema capitalista está muy bien articulado, en el cual la dominación por medio de la represión y de la explotación –la “violencia estructural” (Zamora, 2018)– es tan efectiva que crea una ilusión de libertad para el sujeto de derecho (¿libertad de elegir qué comer?). Esta articulación conduce al sujeto de derecho a trabajar y consumir sin darse cuenta de que su libertad se limita a “poner en circulación el alimento-mercancía” ya elegido por el oligopolio de la industria alimentaria global. La ilusión de la elección enmascara la libertad amplia –inherente al libre albedrío de la humanidad–, restringiéndola a la libertad liberal de consumir lo que ya se ofrece. En este sentido, entendemos la categoría de “sujeto de derechos” en Pashukanis –entendida como “átomo” de la sociabilidad capitalista y reflejo de la forma de la mercancía– como una categoría central para revelar la naturaleza mistificadora del derecho humano a una alimentación adecuada (DHAA), como igualdad para todos."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "El DHAA se entiende, a través de la categoría de “sujeto de derechos”, como una forma más sofisticada (más mediada) de servidumbre a la lógica del tránsito de los alimentos-mercancías, en lugar de como el “presagio” de una alimentación libre de la naturaleza mercantil, como propugnan sus ingenuos defensores. Al fin y al cabo, dado que el DHAA redirige el flujo de alimentos mercantilizados –ya sea a través de la agricultura familiar o de la realineación soberana de la cadena de producción de ",
+    [
+     "em",
+     {},
+     "commodities"
+    ],
+    " alimentarias–, esto no elimina ni en un milímetro su forma mercantil, sino que en realidad promueve cierta estabilidad necesaria para evitar que el hambre producida por la vil mercantilización (desregulada) diezme la mano de obra potencial, a la vez que permite que el capitalismo prospere ideológicamente (Pashukanis, 2017)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "En este sentido, la fructífera conexión entre el marxismo y la alimentación, en la búsqueda de una comprensión crítica de la relación social entre Estado y crisis, parece ser una interesante vía crítica, si pensamos en el alimento-mercancía para comprender el fenómeno de la alimentación intentando hacer el ejercicio de una aproximación y ampliación de los debates en torno de esa relación social a partir de la ",
+    [
+     "em",
+     {},
+     "La teoría general del derecho y el marxismo"
+    ],
+    " de Pashukanis (2017) y de la ",
+    [
+     "em",
+     {},
+     "La teoria de la crisis en Marx"
+    ],
+    " de Simon Clarke (2024). Mientras exista el capitalismo, Marx siempre será necesario, incluso para comprender este momento histórico del capitalismo contemporáneo, tanto por su proyecto político como por su método teórico y crítico. Foster (2016), en ",
+    [
+     "em",
+     {},
+     "Marx as a Food Theorist"
+    ],
+    ", enfatiza en cómo el régimen alimentario industrial ha dictado las reglas del mercado e impulsado la realización del valor en el proceso de intercambio, asegurando el dominio de los propietarios de mercancías."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Como proceso social, la alimentación se entrelaza con el orden económico, cultural, simbólico, sociohistórico y político. Estos se construyen relacionalmente, pero también impactan directamente las variables biológicas y nutricionales inherentes a este fenómeno (Daniel y Cravo, 2005). Si bien es fundamental para la vida humana, la alimentación se ha reconfigurado y adquirido nuevos contornos en el contexto contemporáneo. Sin embargo, especialmente en el campo de la “ciencia de la nutrición”, se observa que aún la producción de conocimiento únicamente enfatiza en, y se orienta hacia, la comprensión de la interacción “alimento-organismo”, “alimento-individuo” o, incluso, en cómo actúan y se utilizan biológicamente los nutrientes. Este hecho de enfocarse únicamente en los alimentos-fuentes, en los grupos de alimentos, manteniendo la centralidad de los nutrientes constituye, en sentido estricto, un ",
+    [
+     "em",
+     {},
+     "nutricionismo"
+    ],
+    " (Scrinis, 2021). Es necesario profundizar en el debate sobre la relación ‘alimento-sociedad’, ‘alimentación-Estado’ a través de los procesos históricos y sociales por medio de la dinámica entre capital, Estado y crisis, ya que el Estado juega un papel vital en el mantenimiento y reproducción del capital, como relación de dominación de clase (Holloway, 1994).",
+    [
+     "sup",
+     {},
+     [
+      "a",
+      {
+       "id": "t-fnref3",
+       "href": "#t-fn3"
+      },
+      "3"
+     ]
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "En este sentido, son desconocidas y, en ocasiones, negadas las bases teóricas y metodológicas construidas por Marx y Engels para la reflexión y la práctica de otro modo de vida en sociedad que trascienda la sociabilidad del sistema capitalista, en la cual la alimentación se inserta en un proyecto político y deja de ser solo un elemento relacionado con la nutrición de los cuerpos (lógica centrada en los aspectos biológicos, fisiológicos y autónomos del cuerpo, que valora las acciones individuales e individualizadoras de la alimentación y la ingestión, ignorando las dinámicas inherentes a la comensalidad",
+    [
+     "sup",
+     {},
+     [
+      "a",
+      {
+       "id": "t-fnref4",
+       "href": "#t-fn4"
+      },
+      "4"
+     ]
+    ],
+    "), para convertirse en un elemento central de la sociabilidad de los sujetos de derecho, que puede ser eficaz para pensar alternativas a la sociabilidad centrada en la forma monetaria."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Las personas se reúnen para comer o incluso para producir alimentos y en este acto socializan sin usar necesariamente el dinero, como en los modos de vida de los pueblos originarios, indígenas, ",
+    [
+     "em",
+     {},
+     "quilombolas"
+    ],
+    " y comunidades ribereñas. Y cuando usan el dinero (que sin duda ya es una captura ejercida por la violencia de la “ley del valor”), al cocinar y comer, la “socialización de la comida” es un proceso que beneficia al individuo, ayuda a construir y profundizar los lazos sociales y es una forma alternativa (y, por lo tanto, potencialmente radical) respecto de la sociabilidad restringida a las “formas” sociales capitalistas, como el dinero, el trabajo, el valor, el Estado, etc. Después de todo, cuando nos reunimos para comer, ¿quién puede negarle comida a otro?"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Es en este sentido que la explicación coherente, basada en Marx y Engels y enriquecida por Pashukanis, de por qué el sujeto de derecho responde a los ideales de las clases dominantes y, además, la búsqueda de alternativas para que el sujeto tenga la posibilidad de alguna acción frente a la opresión que se le impone, parece alcanzar una expresión necesaria y crítica en el ámbito de la alimentación y la nutrición."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Así, “el disfrute de la libertad”, que el trabajador asalariado experimenta en el mercado como libre vendedor de su fuerza de trabajo se distancia del ejercicio de la libertad. Simboliza una pasividad que no puede ser más que la subordinación de un individuo liberado dentro del sistema en el que se aliena. Cuando los individuos se convierten en piezas del sistema, cuando funcionan con el sistema y dejan de obstaculizar su funcionamiento, entonces el sistema se emancipa y funciona libremente, sin restricciones (Pashukanis, 2017). En este caso, los individuos experimentan la emancipación del sistema como si fuera su propia emancipación (Lara Junior, 2013)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Así pues, la alimentación y la nutrición, más allá de sus atributos biofisicoquímicos, desde una perspectiva marxista no son más que cuestiones globales y locales relevantes (generales, específicas y particulares) centradas en la emancipación de lo que ingerimos y, en particular, en la comprensión de la manera en la que el modo de producción capitalista determina lo que comemos. En el escenario contemporáneo, la alimentación se ha convertido en el ",
+    [
+     "em",
+     {},
+     "centro"
+    ],
+    " de los problemas emergentes del modo de producir (Cieza, 2020), volviendo cada vez más evidente que la alimentación es capaz de revelar las tensiones geopolíticas, las crisis climáticas y socioeconómicas, la aparición de nuevas enfermedades, como en el caso más reciente del coronavirus (COVID-19) y, por qué no, develando la necesidad de libertad más cotidianamente vivida de nuestras vidas, y la relación capital y Estado en tanto formas históricamente específicas de la dominación de clase."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "La alimentación y la nutrición nos permiten repensar y reflexionar, desde una perspectiva crítica, sobre la acción humana y el modelo hegemónico de producción (capitalismo) y sus tramas simbólicas capaces de producir una “servidumbre forzada” por la boca (Guerra, Carnut, 2022; Zúñiga-Olivares, 2023). Dado que la ilusión de libertad solo demuestra la naturaleza inconsciente de la opresión y su eficacia represiva, caracteriza a la libertad como una ilusión de la ideología burguesa, liberal e individualista moderna (Lara Junior, 2013). Esto permite los usos políticos de la alimentación y del hambre como armas de exterminio y asesinato social (Engels, 2010)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Así, el sistema requeriría una libertad ilusoria para garantizar nuestro “buen comportamiento compulsivo como trabajadores y consumidores”, lo cual constituye la “esclavitud moderna”, que considera a la alimentación como una forma de búsqueda compulsiva de cierto grado de placer dentro de la alienación capitalista. En este punto, el marxismo y la idea del sujeto económico como sujeto de derechos nos ayudan a comprender por qué nuestra libertad es “pasiva, manipulada, ilusoria y meramente simbólica”."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "La pregunta, formulada y respondida por David Pavon-Cuéllar, señala:"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "¿Por qué el ocultamiento de la ilusión de libertad garantizaría nuestro ‹buen comportamiento› en la sociabilidad capitalista?"
+   ],
+   "\n",
+   [
+    "blockquote",
+    {},
+    "\n",
+    [
+     "p",
+     {},
+     "Porque si nuestra verdadera libertad apareciera, si pudiéramos verla, entonces no querríamos trabajar ni consumir compulsivamente, y descubriríamos, asombrados, no solo nuestra infame esclavitud como trabajadores y consumidores, nuestra absoluta subordinación a la exterioridad aberrante del sistema simbólico del capitalismo, sino también toda la soberanía que podríamos ejercer de manera colectiva y directa, así como nuestro poder sobre el sistema (Pavon-Cuéllar, ",
+     [
+      "em",
+      {},
+      "apud"
+     ],
+     " Lara Junior, 2013: 134)."
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "En este sentido, este artículo busca construir un debate desde América Latina y el Caribe (ALC) para reflexionar sobre nuestra realidad, especialmente con el surgimiento de los movimientos de masas neofascistas (Carnut, 2023). Adopta una postura política atenta al avance del neofascismo en ALC y, al mismo tiempo, reclama organización colectiva para construir acciones concretas que se le opongan en el ámbito político, con un análisis crítico de este fenómeno."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Por lo tanto, este artículo busca analizar la alimentación y la nutrición desde una perspectiva marxista, utilizando el método materialista histórico-dialéctico para explorar los procesos históricos y sociales relacionados con el lugar de la alimentación en la sociabilidad del capital. Y, de una manera introductoriaensayística, busca tejer un diálogo crítico entre el fenómeno de la alimentación y la nutrición desde una perspectiva marxista y la crítica de Pashukanis al sujeto de derecho como forma social e histórica esencial para comprender las relaciones de producción en la sociedad capitalista. El artículo se organiza en dos partes: la primera presenta históricamente los tres regímenes autoritarios y sus características vigentes a lo largo de los 85 años de historia de Brasil (1937 a 2022) y las políticas económicas adoptadas durante ese período, demostrando que el autoritarismo es un sistema de liderazgo recurrente con implicaciones directas en las cuestiones alimentarias. La segunda explora la relación entre la alimentación y el neofascismo en el Brasil reciente, destacando sus usos políticos, que utilizan el hambre como arma de exterminio y asesinato social, en el contexto de la crisis política que expone la relación orgánica entre Estado y capital. Finalmente, ofrecemos algunos breves comentarios para pensar caminos a seguir partiendo del potencial que tienen la alimentación y la nutrición para movilizar fuerzas y producir acciones colectivas en manos de sujetos revolucionarios."
+   ],
+   "\n",
+   [
+    "h3",
+    {
+     "id": "t-seccion-3"
+    },
+    "ALIMENTACIÓN Y AUTORITARISMO EN BRASIL: BREVES NOTAS"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Desde la década de 1930, el diagnóstico del hambre, mapeado por Josué de Castro (Castro, 2008), ha revelado que los problemas alimentarios presentes en la población brasileña consisten en un complejo simultáneo de manifestaciones biológicas, económicas y sociales, mediadas por factores políticos, ya sea por la omisión del Estado o de la propia sociedad, que consienten esa situación. El hambre genera ganancia y es capaz de convertirse en estrategia política para la dominación."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Engels (2010) en su libro ",
+    [
+     "em",
+     {},
+     "La situación de la clase obrera en Inglaterra"
+    ],
+    ", en el capítulo sobre las “Grandes ciudades”, revela el potencial de destrucción y exterminio de la clase trabajadora a través de la muerte directa o indirecta por inanición, definida explícitamente por él como “asesinato social”:"
+   ],
+   "\n",
+   [
+    "blockquote",
+    {},
+    "\n",
+    [
+     "p",
+     {},
+     "[…] la falta sistemática de alimentación causa enfermedades mortales: las víctimas estaban tan debilitadas que enfermedades que, en otras circunstancias, podrían haber evolucionado favorablemente, en estos casos determinan la gravedad que condujo a la muerte. Los trabajadores ingleses llaman a esto ",
+     [
+      "em",
+      {},
+      "asesinato social"
+     ],
+     " y acusan a nuestra sociedad de practicarlo continuamente. ¿Se equivocan? [...] Pero, durante las investigaciones, rara vez se encontró un jurado con el valor de testificar esto públicamente [...] (Engels, 2010: 69)."
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "En la historia de los países latinoamericanos, especialmente en Brasil, el autoritarismo es un sistema de liderazgo recurrente. Según Carnut (2023), las propensiones internas a este tipo de liderazgo facilitan la degeneración del régimen político hacia un cierre (dictaduras) o suspensiones democráticas de carácter fascista."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Los gobiernos de los tres regímenes autoritarios de la historia reciente de Brasil son el ",
+    [
+     "em",
+     {},
+     "Estado-Novo"
+    ],
+    " de Get’úlio Vargas (1937- 1945), la Dictadura Militar (1964-1985) –gobernada por Pascoal Ranieri; Mazzilli, Humberto de Alencar Castelo Branco, Artur da Costa e Silva, Junta Militar, Emílio Garrastazu Médici, Ernesto Geisel y João Batista de Oliveira, Figueiredo–, y el gobierno instalado tras el Golpe Institucional de 2016 - liderado primero por Michel Temer y luego por Jair Messias Bolsonaro (Prestes, 2019)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Cabe mencionar que, en Brasil, la historia del autoritarismo es compleja, disfrazada por una educación que coloca cierta “armonía social” en la trayectoria política brasileña, mientras que está marcada por un enraizamiento histórico que naturaliza las estructuras autoritarias, detrás del racismo, el caciquismo, el coronelismo, la corrupción, la desigualdad social, la violencia, la desigualdad racial y de género y la intolerancia que permanecen en la estructura sociohistórica y se extienden política y económicamente hasta nuestros días (Enzweiler & Caregnato, 2020)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Para aclarar las confusiones ideológicas que favorecen exclusivamente al capitalismo, es necesaria una breve conceptualización del fascismo histórico, basada en Pashukanis (2020). La caracterización del fascismo, basada en las reflexiones de Evgeni Pashukanis (1981-1937) sobre el fascismo italiano, consiste en un régimen resultante del declive de la fase imperialista del capitalismo, que busca adaptarse a la creciente explotación del trabajo y la dominación de clase, representada por la conservación del derecho de propiedad y la incapacidad de la burguesía de implementar medidas financieras y administrativas de estabilización económica."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Así, el fascismo es una posibilidad que depende de la relación de fuerzas y la lucha entre las clases sociales. Pashukanis (2020) considera tres fuerzas sociales: a) la pequeña burguesía, formada por la intelectualidad técnica, los funcionarios públicos y los jóvenes académicos; b) la gran burguesía o gran capital; y c) la clase obrera, gravemente afectada por la crisis. Para el autor, el fascismo se establece mediante la exacerbación del conflicto entre la pequeña burguesía y los trabajadores y, por ende, la organización de un movimiento de masas, basado en organizaciones políticas de masas. En esta organización, la pequeña burguesía desempeña un papel significativo, ya que, a pesar de estar subordinada, es una fuerza social activa que apoya las políticas del gran capital. Estas masas se caracterizan por el reaccionarismo, que contradice los ideales democráticos y los principios liberales."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "En Brasil, a la dictadura implementada durante el ",
+    [
+     "em",
+     {},
+     "Estado Novo"
+    ],
+    " (período Vargas), a pesar de ser un régimen autoritario y de las controversias historiográficas, no se la considera como un régimen fascista. Este régimen dictatorial pretendía introducir al país en un proceso de “industrialización restringida”. Si bien se regía por la “doctrina Góis”, que proponía que las Fuerzas Armadas fueran un cuerpo esencialmente político y doctrinal, no fue una dictadura del capital financiero, sino una dictadura que favoreció los intereses de la industrialización, provenientes principalmente de la burguesía brasileña, aliada en aquel momento con representantes de las oligarquías agrarias. Así, el objetivo del “nacionalismo varguista” era crear una nación independiente mediante la industrialización intensiva y la intervención estatal en la economía (Prestes, 2019)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "En cuanto a la Dictadura Militar, el proceso se desarrolló en el contexto de los intereses del capital financiero internacional, sumado a los esfuerzos de políticos, militares y el gobierno estadounidense, lo que resultó en la represión contra la clase trabajadora, los sectores populares y los campesinos. El proceso de “fascistización” culminó con el Acto Institucional N.º 5 (AI-5) del 13 de diciembre de 1968, un intento de prohibir y reprimir las luchas populares. Incluso bajo el avance del fascismo, no hubo un movimiento de masas activo que apoyara la suspensión de las instituciones democráticas y no se experimentó un régimen fascista durante este período. Los sectores reaccionarios inhibieron y negaron derechos a la clase trabajadora en favor del capital financiero en medio de un régimen autoritario concebido como una dictadura militar (dictadura militar-cívico-empresarial) (Carnut, 2023)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Para Carnut (2023), esta fuerza posmoderna, que en esencia mantiene sus objetivos, el “desarrollo con seguridad” y “un despliegue de la interferencia de las potencias capitalistas hegemónicas y de las empresas multinacionales con vistas a garantizar la estabilidad política en la periferia” (5), es la clave del fascismo en la nueva era o, simplemente, del “neofascismo”."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "El autor advierte del peligro, en las características del neofascismo latinoamericano, de la “fascistización sin fascismo” –la fascistización de las clases sociales sin una dictadura fascista per se, entendida como un “fenómeno leve” porque no presentan respaldo social a las restricciones democráticas medidas en grandes movilizaciones o en grupos sociales expresivos o incluso partidos políticos institucionalizados con gran expresión electoral."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Esta nueva clave, que revela una forma oculta y enmascarada de fascismo capaz de transitar del estado de excepción a la “normalidad constitucional”, explica gran parte de la historia reciente de Brasil. Sin embargo, se atribuye el fenómeno a la “nueva derecha”, con explicaciones más sutiles, como la de que se trata de un movimiento que ya se expandía a nivel mundial, la manipulación pública mediante noticias falsas (",
+    [
+     "em",
+     {},
+     "fake news"
+    ],
+    "), la negación de la ciencia y los hechos, y la inversión histórica, atribuyendo enemigos al Estado, factores que fortalecieron la influencia de este ideal político en la sociedad (Pereira ",
+    [
+     "em",
+     {},
+     "et al"
+    ],
+    "., 2021)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "En Brasil, tras el Golpe de Estado Institucional de 2016, se intensificó el desarrollo de regímenes políticos de legitimidad limitada (las democracias “restringidas” típicas de los países latinoamericanos), que encontraron en el neofascismo un escenario propicio para el ascenso al poder del gobierno de Bolsonaro. Con la elección de Bolsonaro como presidente de Brasil, la categoría de neofascismo comenzó a moldear el comportamiento y las acciones políticas del gobierno, que se inscriben en la lógica de las políticas ultra-neoliberales y en el marco de una crisis capitalista sin precedentes (Mendes y Carnut, 2022)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Carnut (2022) elucida las características de este neofascismo latinoamericano como un movimiento político y social reaccionario que permite cuestionar la democracia, los sistemas parlamentarios, las libertades y el ámbito político, con el objetivo de garantizar que el capitalismo y la explotación burguesa permanezcan intactos. Se trata de un movimiento con raíces ideológicas que, en América Latina, es autodestructivo, adoptando una expresión aún peor que en los países capitalistas centrales. En el actual escenario político y económico internacional y nacional, es un movimiento político originado en la clase media, capaz de atraer como aliados a importantes segmentos de la población pobre marginada, precarizada, desinformada y políticamente desorganizada."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Dado el momento sociohistórico y el contexto político-económico mencionados, es evidente que las políticas públicas, en particular las centradas en la alimentación y la nutrición, están impulsadas por los intereses del capital financiero. Por lo tanto, el enfoque en el hambre y la alimentación sigue esta trayectoria. Las políticas alimentarias surgieron con la intención de reducir la importancia de los ",
+    [
+     "em",
+     {},
+     "déficits"
+    ],
+    " nutricionales, centrándose en el proceso de trabajo capitalista, así como en la liberalización económica, en particular de la industria alimentaria, que se alineó con las políticas públicas, sobre todo durante la dictadura militar brasileña. Esta forma de intervención estatal cumplió objetivos sociales, económicos e ideológicos de manera articulada (Vasconcelos, 2005). Sin embargo, Carnut ",
+    [
+     "em",
+     {},
+     "et al"
+    ],
+    ". (2025) realizan una revisión histórica de la discusión entre Estado y salud a partir de Simon Clarke, para comprender los límites de las políticas de salud en el curso de la acción de transformación social por vías institucionales, especialmente en el escenario de continuo desmantelamiento de las políticas públicas en esta área frente a la crisis del capitalismo contemporáneo, y revelan que la naturaleza capitalista del Estado es capaz de demostrar la fuerza que la relación social del capital ejerce sobre el trabajo y contra los derechos sociales."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "La coexistencia del hambre, la desnutrición y las deficiencias nutricionales con el sobrepeso y la obesidad no es simplemente un hallazgo de la epidemiología nutricional presente en documentos e informes de instituciones internacionales y en las políticas públicas alimentarias brasileñas, que en ocasiones han buscado validar la inseguridad alimentaria y nutricional (IAN) y diversas hambrunas como consecuencia de la superpoblación, la escasez de alimentos, la ubicación geográfica y los desastres naturales, en la historia reciente de Brasil. Es una expresión concreta de la lógica capitalista y su reproducción de las desigualdades y la pobreza, uno de cuyos instrumentos es la alimentación como mercancía y el hambre como arma de exterminio (Guerra y Carnut, 2021)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Si el capitalismo utiliza la alimentación para reproducirse como producto/mercancía y no como una “alimentación adecuada” para todos, no escatimará esfuerzos en emplear la tecnología para contrarrestar una “poción mágica” (sal, grasa y azúcar) y lograr una “palatabilidad estéril” de los alimentos (Guerra, Bezerra, Carnut, 2020) y en la subversión simbólica del consumismo como válvula de escape. Si este es el camino, sin duda ya se ha recorrido. Si el atractivo de satisfacer la libertad y los deseos de los consumidores (sujetos económicos) se ve reforzado por la persuasión de la publicidad alimentaria engañosa, el capitalismo ya está comprometido con esta tarea."
+   ],
+   "\n",
+   [
+    "h3",
+    {
+     "id": "t-seccion-4"
+    },
+    "ALIMENTACIÓN Y NEOFASCISMO EN EL BRASIL RECIENTE: EL USO POLÍTICO DEL HAMBRE COMO ARMA DE EXTERMINIO Y ASESINATO SOCIAL"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "El panorama político en América Latina, en particular en Brasil, se ve envuelto en la negación de la alimentación como necesidad humana esencial para la vida, así como en la negación de la cultura alimentaria y la falta de respeto a la comensalidad de la población. Esto también provoca la negación del hambre como problema estructural; es decir, la clara noción de que el enfoque de la burguesía hacia la alimentación causa daños irreparables e intencionales a generaciones de la clase trabajadora. Obligar a la población a pasar hambre y a consumir alimentos ultraprocesados (el alimento-mercancía de las masas) es una acción deliberada para forjar el uso político de la comida como una herramienta de los intereses burgueses dentro de esta sociabilidad que se ha utilizado siempre bajo el capitalismo."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Considerando al nazismo como una forma particular de fascismo que, en última instancia, expresa la forma más violenta de dominación política capitalista, la hambruna fue un instrumento eugenésico para gestionar la muerte de las clases subalternas. El “plan del hambre” implementado por Hitler era un programa que, además de la discriminación racial, también incluía la discriminación alimentaria, subdividiendo a las poblaciones en cuatro categorías o grupos: 1) la población “bien alimentada”, que tenía un papel en la conducción de la guerra; 2) la población “insuficientemente alimentada”, cuya satisfacción nutricional alcanzaba tan solo a 1000 calorías diarias por adulto; 3) los “hambrientos”, que eran personas que recibían alimentos por debajo del nivel de supervivencia con el simple objetivo de reducir la población, como era el caso de los residentes en los guetos judíos; y 4) los destinados a ser “exterminados por el hambre”, grupos a los que se les impuso la hambruna como medio de diezmarlos (Silva et al., 2018: 21)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "El período de entreguerras puso de relieve la paradoja entre la producción excesiva de alimentos y la pobreza y el hambre, que todavía afectan a una parte significativa de la población mundial (Minuzi y Pommer, 2020)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Tanto es así que, en 2022, aproximadamente 783 millones de personas padecían hambre en todo el mundo, mientras que 2400 millones experimentaban inseguridad alimentaria de moderada a grave, especialmente mujeres, niños y grupos socialmente discriminados por motivos de raza, etnia, religión, casta y otros factores (FAO, 2022). Al mismo tiempo, se ha producido un aumento alarmante del sobrepeso y la obesidad, que afectan a más de 1900 millones de personas a nivel mundial: respectivamente, 650 millones de adultos y 340 millones de adolescentes (OMS y OPS, 2022)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Los datos del Informe sobre el Estado de la Seguridad Alimentaria y Nutricional en el Mundo (SOFI, FAO, 2023) muestran que, a pesar de una ligera mejora en la incidencia del hambre en América Latina y el Caribe, la región sigue estando muy afectada y presenta importantes desigualdades subregionales (América del Sur, América Central y el Caribe). El informe también indica que, en 2022, 247,8 millones de personas en la región experimentaron inseguridad alimentaria moderada o grave, o sea, que se vieron obligadas a reducir la calidad o cantidad de alimentos que consumían, o incluso pasaron hambre y, en los casos más extremos, pasaron días sin comer, poniendo en serio riesgo su salud."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Además, la región también enfrenta el desafío de la mala nutrición, especialmente entre niños y adolescentes. Esto incluye tanto la desnutrición, que causa retraso en el crecimiento, emaciación infantil y deficiencias de vitaminas y minerales, como el sobrepeso y la obesidad. La incidencia del sobrepeso en niños y niñas menores de 5 años en 2022 fue del 9,7% en América del Sur, del 6,7% en América Central y del 6,6% en el Caribe. El sobrepeso y la obesidad siguen siendo un desafío creciente, responsables de aproximadamente 2,8 millones de muertes por enfermedades no transmisibles en las Américas en 2021. La desnutrición infantil también incide en la región, afectando principalmente a las poblaciones indígenas, afrodescendientes y rurales. Otro hallazgo importante es que América Latina y el Caribe tiene el mayor costo de la alimentación saludable en el mundo (OPS y OMS, 2023)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "El hambre ha sido un producto social del capitalismo desde sus inicios. Fue con el uso político de la comida como arma en el capitalismo, como medio para controlar la muerte masiva y la estratificación social artificial, que –tras las atrocidades cometidas entre la Primera y la Segunda Guerra Mundial– la defensa de la alimentación se convirtió en un sinónimo importante de la defensa de la humanidad. Así, al servir para garantizar el “restablecimiento de la paz” bajo los moldes capitalistas, la alimentación se convirtió en un derecho en el sistema internacional de protección de los derechos humanos que dio lugar a la Declaración Universal de los Derechos Humanos de 1948. Para Pashukanis, esta es la forma en que la civilización burguesa preserva su dominio sobre el planeta (2017: 123)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Los primeros análisis del alimento como mercancía y del hambre como forma de masacre de la clase obrera aparecen en Marx y Engels, en sus escritos sobre el capitalismo de su época. Marx describe el problema en los ",
+    [
+     "em",
+     {},
+     "Grundrisse"
+    ],
+    " (1857-1858), una versión temprana de los manuscritos económicos de la crítica de la economía política que precedieron a ",
+    [
+     "em",
+     {},
+     "El capital"
+    ],
+    "; y Engels (1845), en su libro ",
+    [
+     "em",
+     {},
+     "La situación de la clase obrera en Inglaterra"
+    ],
+    " (Engels, 2010), aborda el hambre y la escasez de alimentos como formas de “asesinato social” de la clase obrera. Las condiciones de vida de la sociedad (en aquel período histórico) llevaron al asesinato de la clase obrera y ni siquiera permitieron la legítima defensa; puede que no parezca asesinato, pero en realidad lo es. Disfrazada de “naturalidad”, la nutrición inadecuada es una de las principales causas del asesinato en masa (Engels, 2010)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "El capitalismo tiene una clara influencia en la nutrición humana, especialmente a través del agronegocio y la expansión de la industria alimentaria. La industria alimentaria y la red de distribución/comercialización, tal como se han organizado desde el siglo XX y su intensificación en el siglo XXI, plantean amenazas concretas a la situación alimentaria de los países, volviendo cada vez más necesaria la lucha por sistemas agroalimentarios sostenibles. La concentración del mercado de producción de semillas y el comercio de agrotóxicos han impactado sustancialmente en lo que se siembra, se cultiva y se consume, y sería imposible creer que no haya tenido implicancias para la calidad de los alimentos. La primera implicación es que los sistemas agroalimentarios se ven afectados por una lógica global de captura y homogeneización de las diversidades alimentarias presentes en cada cultivo (Machado, Oliveira y Mendes, 2016). Bombardi (2023) relata en su libro ",
+    [
+     "em",
+     {},
+     "Agrotóxicos e colonialismo químico"
+    ],
+    ", basado en el marco teórico de Marx (en ",
+    [
+     "em",
+     {},
+     "El capital"
+    ],
+    "), la deformación física impuesta al organismo humano como resultado de las condiciones de vida y trabajo de los campesinos expulsados de las tierras altas de Escocia."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "En las décadas de 1960 y 1970, la tecnología introducida por la llamada Revolución Verde, cuyo objetivo era aumentar la producción mediante el uso de nuevas variedades genéticas fuertemente dependientes de insumos químicos, se basaba en un modelo agrícola de monocultivo. Esto trajo consigo más tarde graves consecuencias ambientales, económicas y sociales, como la reducción de la biodiversidad, la menor resistencia a las plagas, el éxodo rural y la contaminación del suelo y los alimentos por agrotóxicos. Bombardi (2023) advierte sobre las formas actuales de violencia introducidas químicamente por la Revolución Verde, principalmente por agrotóxicos, a nivel celular y molecular."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Pashukanis (2017) nos reconecta con el momento histórico del capitalismo contemporáneo y nos llama a los caminos posibles que tienen el poder político como premisa indispensable para la clase revolucionaria del proletariado y para el socialismo:"
+   ],
+   "\n",
+   [
+    "blockquote",
+    {},
+    "\n",
+    [
+     "p",
+     {},
+     "En la medida en que esta masa de capital participa en la circulación de mercancías, lo que presupone la autonomía de sus diversas partes, estas emergen como propiedad de personas jurídicas. En realidad, su control está en manos de un grupo relativamente pequeño de grandes capitalistas, que actúan a través de sus representantes contratados o investidos de plenos poderes. Legalmente, la forma de la propiedad privada ya no refleja la realidad, ya que, con la ayuda de métodos de participación y de control, el dominio efectivo trasciende los límites puramente legales. Nos encontramos en un punto en el que la sociedad capitalista ha alcanzado la madurez suficiente para transformarse en su opuesto. Para ello, la premisa política indispensable es la clase revolucionaria del proletariado. [...] La toma del poder político por parte del proletariado es la premisa fundamental del socialismo (Pashukanis, 2017: 134 y 135)."
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "En 2016, Brasil sufrió un golpe institucional contra la Presidencia de la República. De 2019 a 2022, el gobierno de Bolsonaro reflejó sus posturas centrales: anticomunismo, negacionismo del cambio climático, cuestionamiento de los derechos humanos y ataques a las mujeres, las comunidades negras e indígenas y las minorías sexuales (Calil, 2020). Esto pone de relieve el escenario más reciente de Brasil, que ha presenciado innumerables crisis, además de la emergencia sanitaria, la destrucción de las políticas públicas sociales y la inestabilidad en la garantía de los derechos sociales y de la protección social, como hemos experimentado en los espectáculos del hambre, el desempleo y la falta de atención médica, exacerbado en el contexto de la pandemia de COVID-19."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Pero todo esto no comenzó en 2016. En 2011, Brasil experimentó una caída en su crecimiento económico debido a la prolongada crisis capitalista internacional y a las medidas políticas internas, que revelaron la naturaleza efímera de los logros basados en la inclusión a través del consumo y su alta dependencia del mercado externo. Este escenario proporcionó a las clases poderosas y resistentes un terreno fértil para la crisis política que estalló en 2015, con el desmantelamiento de un Estado que había depositado su fe en la burguesía industrial y en las alianzas político-partidarias realizadas (Singer, 2016)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Durante la pandemia, las precarias condiciones de vida, incluyendo la falta de acceso al agua y al saneamiento básico, y la fragilidad de los sistemas de salud (tensionados y desbordados por la pandemia) impactaron directamente la dimensión nutricional de la alimentación –el estado de salud de la población, especialmente entre los más vulnerables–. Esto limitó la utilización biológica de los nutrientes y expuso a las personas al riesgo de una mala nutrición (Ribeiro-Silva ",
+    [
+     "em",
+     {},
+     "et al"
+    ],
+    "., 2020): desnutrición, deficiencias de micronutrientes y también sobrepeso y obesidad debido al alto consumo de productos ultraprocesados. Considerando las diferentes dimensiones de la alimentación, tanto su componente alimentario (disponibilidad, producción, comercialización y acceso a los alimentos) como su componente nutricional (relacionado con las prácticas alimentarias y la utilización biológica de los alimentos), se observó que estas dimensiones empeoraron durante la pandemia. El distanciamiento social también impuso cambios socioculturales significativos, reducción de la actividad física y cambios en los hábitos alimentarios, condiciones que inciden directamente en la angustia y los trastornos emocionales, así como en el estado nutricional de las personas."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Durante este período de la pandemia, en Brasil, las acciones del Gobierno Federal en respuesta a la pandemia incluyeron la creación de arreglos institucionales para la gestión de crisis (Alpino ",
+    [
+     "em",
+     {},
+     "et al"
+    ],
+    "., 2020) que tuvieron profundas implicaciones para la alimentación. Un estudio de Gurgel ",
+    [
+     "em",
+     {},
+     "et al"
+    ],
+    "., (2020) muestra que las medidas implementadas para asegurar la disponibilidad y el acceso físico o financiero a los alimentos involucraron fundamentalmente la distribución y garantía de un ingreso mínimo. Se instituyeron los siguientes: el Ingreso Básico de Emergencia (Gobierno Federal); el Programa de Adquisición de Alimentos (PAA) y ayuda financiera de emergencia (Estados); programas de emergencia de donación de alimentos (Estados y Municipios); y las medidas existentes se adaptaron a la pandemia, como el Programa Nacional de Alimentación Escolar (PNAE), el Programa Nacional de Adquisición de Alimentos (PAA), la distribución de canastas básicas de alimentos, el Programa Bolsa Família (PBF), el Beneficio Monetario Continuo (BPC) y la distribución de alimentos a través de instalaciones públicas de SAN. Las estrategias identificadas para garantizar el acceso físico o financiero a los alimentos fueron, específicamente, las siguientes: ingreso mínimo, PNAE, Restaurantes Populares, comedores comunitarios, distribución/donación de canastas básicas de alimentos y PAA."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Si bien estas estrategias son sumamente importantes, el estudio concluye que tienen un alcance limitado y son insuficientes para garantizar la SAN, cuando el objetivo es garantizar una alimentación adecuada y saludable para toda la población, incluyendo a las personas en situación de calle, las personas que viven por debajo del umbral de pobreza, buena parte de la población rural y los pueblos y comunidades tradicionales. También se observó el predominio de acciones orientadas al consumo, sin modificar significativamente la producción alimentaria nacional o local (Ribeiro-Silva ",
+    [
+     "em",
+     {},
+     "et al"
+    ],
+    "., 2020)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Durante la pandemia de 2020 y 2021, surgieron muchas incertidumbres debido a las posibles consecuencias de la propagación del virus: el cierre de comercios y escuelas, la restricción de la movilidad de las personas. Con la reanudación de estas actividades, especialmente a principios del segundo semestre de 2021, se constató que los desmontes continuaron en la agricultura familiar, afectando a pueblos indígenas y tradicionales, mujeres negras, niños y niñas, entre otros. Por lo tanto, parece que los desafíos persisten; la pandemia solo ha expuesto y agravado la situación existente. Y es evidente que garantizar y hacer cumplir los derechos sociales en Brasil no fue una prioridad para el gobierno federal de Bolsonaro, con o sin pandemia."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Bajo el gobierno neofascista de Bolsonaro, presenciamos la liberación de más de 2182 agrotóxicos, entre 2019 y 2022, a un promedio de 545 por año. El 28 de noviembre de 2023, bajo la administración de Lula, el Senado aprobó el “Proyecto de Ley de Venenos” (Proyecto de Ley n.º 1459/2022), que flexibiliza las normas de aprobación, registro y comercialización de agrotóxicos. Entre las principales medidas y cambios propuestos se encuentra la concentración de las nuevas autorizaciones de registro de agrotóxicos en el Ministerio de Agricultura y Ganadería, dejando al Instituto Brasileño del Medio Ambiente y Recursos Naturales Renovables (IBAMA) y a la Agencia Nacional de Vigilancia Sanitaria (ANVISA) con un papel subordinado en la evaluación o aprobación de estas evaluaciones. Además, el proyecto de ley establece una fecha límite para obtener el registro de estos productos en Brasil, con la posibilidad de licencias temporales si los organismos competentes no cumplen con los plazos, y modifica la clasificación explícita de productos nocivos para la salud humana y el medio ambiente (Agência Senado, 2023). Los datos del “Atlas de Agrotóxicos” (2023) demuestran el potencial destructivo sobre los conflictos de tierras existentes en Brasil, el impacto en el cuerpo de las mujeres y el proceso de lactancia materna, y los riesgos significativos para la salud humana y la naturaleza, con la contaminación de la tierra, los alimentos, el agua, la biodiversidad y todos los seres vivos."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Estamos, pues, ante una “limpieza química” del campo, que se superpone a los procesos de violencia social y ambiental que se dan de forma física (deforestación, incendios, desalojos, expulsiones y asesinatos) y también biológica (exterminio de pueblos indígenas, destrucción de la biodiversidad), que, sumados al desarrollo tecnológico aplicado intensivamente al agronegocio por medio de la agricultura tecnificada y la monopolización del territorio, han producido una “violencia química” que a su vez subordina la agricultura al capital industrial (industrias de agroquímicos) y al capital financiero (modelo de producción financiado en gran medida por los bancos) (Bombardi, 2023; Boitempo, 2023)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "La reconstrucción histórica de este momento neofascista que se desarrolla actualmente en América Latina y el Caribe y en Brasil es crucial para comprender cómo el alimento se utiliza como arma de exterminio y asesinato social. Nuestro compromiso con una transformación real no pasa por la forma Estado ni por la forma jurídica (Pashukanis, 2020). Sin embargo, no podemos olvidar la primera medida (Medida Provisional MP n.º 870) adoptada en 2019 por el gobierno de Bolsonaro: la disolución del Consejo Nacional de Seguridad Alimentaria y Nutricional (CONSEA), un órgano importante de la sociedad civil (que nombraba a dos tercios de sus representantes) y asesor directo de la Presidencia de la República. El creciente aumento del hambre en Brasil en 2021 (19 millones) y 2022 (33,1 millones) (Rede Penssan, 2021, 2022), y el continuo genocidio",
+    [
+     "sup",
+     {},
+     [
+      "a",
+      {
+       "id": "t-fnref5",
+       "href": "#t-fn5"
+      },
+      "5"
+     ]
+    ],
+    " alimentario y nutricional",
+    [
+     "sup",
+     {},
+     [
+      "a",
+      {
+       "id": "t-fnref6",
+       "href": "#t-fn6"
+      },
+      "6"
+     ]
+    ],
+    " sistemático de los pueblos indígenas de diferentes grupos étnicos (por ejemplo, los yanomamis y los xavantes) que continua en Brasil. Esta forma de aniquilar e incluso matar a los seres humanos llega al nivel de deterioro del propio organismo a través de la desnutrición, la hipovitaminosis y todas las enfermedades relacionadas con la salud alimentaria y nutricional desde la formación fetal, la lactancia materna, la nutrición infantil, hasta la adolescencia, la edad adulta e incluso la vejez."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Carnut (2023) explica que el neofascismo es producto de la crisis del capital y no debe ser ignorado, ni siquiera por quienes creen que la preservación del capitalismo neoliberal es la solución a la crisis estructural que se ha prolongado desde 2007-2008. El capitalismo global atraviesa una profunda depresión y enfrenta dificultades para superarla, y es en este punto donde el neofascismo encuentra terreno fértil para germinar. Con el agravamiento de la crisis capitalista, este es un elemento que justifica la adopción de tácticas neofascistas como las que hemos visto a lo largo de la historia brasileña."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "El capitalismo también mata por la boca, ¡y eso es todo! Y comprender la alimentación y la nutrición desde una perspectiva marxista a través de sus usos políticos es un diálogo clave para el conocimiento y la acción política."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Vimos un indicio de esto durante la pandemia, con iniciativas comunitarias y de base que desempeñaron un papel importante en la “participación popular en la gestión de políticas públicas”, en particular en aquellas destinadas a combatir el hambre y promover una nutrición adecuada. Los arduos esfuerzos de la comunidad para combatir al COVID-19 fueron evidentes, con movimientos sociales, asociaciones comunitarias y grupos anónimos, organizaciones no gubernamentales e iglesias en la primera línea, especialmente en favelas y zonas donde las autoridades públicas no habían llegado, a menudo coordinando el desarrollo de cadenas locales de producción y suministro en un intento por integrar las zonas rurales y urbanas. Entre las acciones estructurales para combatir el hambre, que buscaron efectivamente interrumpir las prácticas tradicionales de producción y comercialización de alimentos, como se vio durante la pandemia, se encuentran: la producción y distribución de alimentos producidos por pequeños agricultores familiares a través del Programa de Adquisición de Alimentos (PAA), una herramienta importante para mitigar los impactos económicos y sociales de la pandemia del nuevo coronavirus, debido a su dinamismo en la economía local; el acceso a nuevos mercados; el aumento y la diversificación de los ingresos, la comercialización y la garantía de ventas; el acceso a alimentos de calidad; y el fomento del consumo de alimentos de calidad y de una mejor salud (IPEA, 2020a). Además de las donaciones de alimentos de movimientos sociales de reforma agraria, como el Movimiento de los Trabajadores Rurales Sin Tierra (MST), con canastas básicas de alimentos con diversos alimentos “reales”, ferias y loncheras para zonas y comunidades periféricas; la construcción de nuevas formas de sociabilidad para la comercialización y el abastecimiento local de alimentos, con una relación directa entre pequeños productores y pequeños comerciantes de las zonas periféricas, sin variación de precios y con calidad; la organización y creación de varios comedores comunitarios solidarios liderados por el Movimiento de los Trabajadores Rurales Sin Techo (MTST)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "En este contexto, una cuestión que merece ser destacada es la estandarización de las dietas, los desiertos alimentarios, la determinación del entorno alimentario, la expansión violenta de los ecosistemas y formas de vida, la normalización de los productos ultraprocesados, el control corporativo del marketing alimentario y la fuerza mediática masiva (Brand & Wissen, 2021) influenciada por la industria cultural (Chã, 2018)."
+   ],
+   "\n",
+   [
+    "h3",
+    {
+     "id": "t-seccion-5"
+    },
+    "CONSIDERACIONES FINALES"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Ante esto, es necesario impulsar una crítica radical de la producción alimentaria en este momento histórico del sistema capitalista, pues no podemos quedarnos estancados en la contrahegemonía del “consumo consciente”, la “reterritorialización de los alimentos”, la “cultura alimentaria”, la “re-civilización social del gusto” ni en la idea de la “soberanía alimentaria” (que aún está por construirse, pues no la tendremos en este modo de producción capitalista). La insistencia en esos discursos elude el punto clave, que es la crítica de la alimentación y la transición hacia una “alimentación crítica”. Por lo tanto, no basta con (des)colonizar; es necesario (re)radicalizar la alimentación y la nutrición construidas dentro de la sociabilidad capitalista. Es necesaria la comprensión de la relación social existente entre alimentación, Estado y crisis."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Es en este sentido que el deseo y la práctica revolucionarios son la búsqueda de algo verdadero, los verdaderos efectos de la interpretación analítica, capaz de dilucidar caminos basados en su potencial para movilizar fuerzas y generar acción colectiva revolucionaria."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "La lucha emancipadora por la alimentación y la soberanía alimentaria, y los usos políticos del hambre en este momento histórico, requieren un diagnóstico combinado con alternativas reales, como el modelo de producción agroecológico propuesto por el ecosocialismo."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Además, se necesita un cambio global para trascender el sociometabolismo del capital, forjando un “socialismo pos-capital” (más allá del capitalismo) que aspire a construir el desarrollo y la vida humana. Esta lucha implica reestructurar las fuerzas productivas para la clase trabajadora y construir una economía comunitaria capaz de generar permanentemente alimentos saludables, vida y trabajo rurales, cultura, educación, ciencia y tecnología para la soberanía alimentaria de todos."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "La crisis es la fisura en la que tenemos la mayor oportunidad de insertar nuestras luchas contra el capital y también de reflexionar sobre nuestras acciones sin caer en el institucionalismo, sin caer en la creencia ciega en que el Estado será nuestra protección. Es el momento que nos permite ver las contradicciones. Es la oportunidad de construir algo más."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Es nuestra tarea unir nuestros deseos y nuestro proyecto político para aunar fuerzas en acciones colectivas “comunizantes” capaces de ser la revuelta “contra el poder”, en un movimiento de autodeterminación (para comunizar) contra la determinación alienada que nos encierra en coagulaciones, barreras, regulaciones, fronteras y hábitos. Fuera de las formas sociales que conforman los moldes en los que se rigidiza la acción humana (Holloway, 2013)."
+   ],
+   "\n",
+   [
+    "h3",
+    {
+     "id": "t-seccion-6"
+    },
+    "REFERENCIAS"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Akamine Jr., O.; Batista, F. R.; Biondi, P.; Catini, C. R.; Mascio, C. Di; Furquim, G. M.; Kashiura Jr., C. N.; Naves, M. B. (2020). ",
+    [
+     "em",
+     {},
+     "Léxico Pashukaniano"
+    ],
+    ". Marília: Lutas Anticapital."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "pt"
+    },
+    "Agência Senado. (2023). ",
+    [
+     "em",
+     {},
+     "Senado aprova projeto que facilita registro de agrotóxicos"
+    ],
+    ". Brasília: Agência Senado. Consultado el 16 de enero 2024 en ",
+    [
+     "a",
+     {
+      "href": "https://www12.senado.leg.br/noticias/materias/2023/11/28/senado-aprova-projeto-que-facilita-registro-deagrotoxicos"
+     },
+     "https://www12.senado.leg.br/noticias/materias/2023/11/28/senado-aprova-projeto-que-facilita-registro-deagrotoxicos"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "pt"
+    },
+    "Alpino, T. M. A.; Barros, D. C.; Freitas, C. M. (2020). COVID-19 e (in)segurança alimentar e nutricional: ações do Governo Federal brasileiro na pandemia frente aos desmontes orçamentários e institucionais. ",
+    [
+     "em",
+     {},
+     "Cadernos de Saúde"
+    ],
+    " Pública, ",
+    [
+     "em",
+     {},
+     "36"
+    ],
+    "(8), e00161320."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "pt"
+    },
+    "Alves, A. J. L. (2016). O valor e suas formas na crítica marxiana da economia política. ",
+    [
+     "em",
+     {},
+     "Trans/Form/Ação"
+    ],
+    ", ",
+    [
+     "em",
+     {},
+     "39"
+    ],
+    "(1), 159-212."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "pt"
+    },
+    "Baca, A. S.; Lobera, G. I. B. (2018). Em busca da ordem do caos; a lógica do capital na determinação de que é bom para comer. ",
+    [
+     "em",
+     {},
+     "Geografares"
+    ],
+    ", 82-104."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "pt"
+    },
+    "Brito, F. R. dos S. de S., & Baptista, T. W. de F. (2021). Sentidos e usos da fome no debate político brasileiro: recorrência e atualidade. ",
+    [
+     "em",
+     {},
+     "Cadernos De Saúde Pública"
+    ],
+    ", ",
+    [
+     "em",
+     {},
+     "37"
+    ],
+    "(10), e00308220."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Boitempo. (2023). Terra Arrasada. Margem esquerda, 41. Consultado el 16 de enero 2024 en ",
+    [
+     "a",
+     {
+      "href": "https://www.travessa.com.br/margemesquerda-41-terra-arrasada-1-ed-2023/artigo/fe015f5f-f615-4bc5-825f-6222d74e67d4"
+     },
+     "https://www.travessa.com.br/margemesquerda-41-terra-arrasada-1-ed-2023/artigo/fe015f5f-f615-4bc5-825f-6222d74e67d4"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "pt"
+    },
+    "Bombardi, L. M. (2023). ",
+    [
+     "em",
+     {},
+     "Agrotóxicos e colonialismo químico"
+    ],
+    ". São Paulo: Elefante."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "pt"
+    },
+    "Brand, U.; Wissen, M. (2021). ",
+    [
+     "em",
+     {},
+     "Modo de vida imperial"
+    ],
+    ": ",
+    [
+     "em",
+     {},
+     "sobre a exploração dos seres humanos e da natureza no capitalismo global"
+    ],
+    ". São Paulo: Elefante."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "pt"
+    },
+    "Breda, T. (2021). ",
+    [
+     "em",
+     {},
+     "Bolsonaro Genocída"
+    ],
+    ". São Paulo: Editora Elefante."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Clarke, S. (2024). ",
+    [
+     "em",
+     {},
+     "La teoría de la crisis en Marx"
+    ],
+    ". España: Editorial Irrecuperables."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Calil, G. (2020). En Brasil, un reaccionario en la primera línea de la batalla de las ideas - El astrólogo que inspira a Jair Bolsonaro. ",
+    [
+     "em",
+     {},
+     "Le Monde Diplomatique em español"
+    ],
+    ". Consultado el 16 de enero 2024 en ",
+    [
+     "a",
+     {
+      "href": "https://mondiplo.com/el-astrologo-que-inspira-a-jair-bolsonaro"
+     },
+     "https://mondiplo.com/el-astrologo-que-inspira-a-jair-bolsonaro"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "pt"
+    },
+    "Carnut, L. (2020). Neofascismo como objeto de estudo: contribuições e caminhos para elucidar este fenômeno. ",
+    [
+     "em",
+     {},
+     "Semina. Ciências Sociais e Humanas (Online)"
+    ],
+    ", ",
+    [
+     "em",
+     {},
+     "41"
+    ],
+    "(1), 81-108."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "pt"
+    },
+    "Carnut, L. (2022). “O que o burguês faz lamentando... o fascista faz sorrindo”: neofascismo, capital internacional, burguesia associada e o Sistema Único de Saúde. ",
+    [
+     "em",
+     {},
+     "Civitas: revista de Ciências Sociais"
+    ],
+    ", 22, 1-11."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "pt"
+    },
+    "Carnut, L. (2023). Controvérsias sobre o neofascismo na América Latina: notas sobre crise, dependência e neoliberalismo. Anais do Colóquio Marx e o Marxismo 2023: Democracia contra capitalismo? Renovando o materialismo histórico. Mesa Coordenada 21. Imperialismo, geopolítica e ascensão global da extrema-direita. Niterói: ",
+    [
+     "em",
+     {},
+     "Núcleo Interdisciplinar de Estudos e Pesquisas sobre Marx e o Marxismo (NIEP-Marx)."
+    ],
+    " Consultado el 16 de enero 2024 en ",
+    [
+     "a",
+     {
+      "href": "https://niepmarx.blog.br/anais2021/"
+     },
+     "https://niepmarx.blog.br/anais2021/"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "pt"
+    },
+    "Carnut, L.; Mendes, A. (2022",
+    [
+     "em",
+     {},
+     "). Economia política da saúde: uma crítica marxista contemporânea"
+    ],
+    ". São Paulo: Hucitec."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Carnut, L.; Mendes, A.; Guerra, L. D. S. (2025) La forma Estado em la sínteses de Clarke para pensar los límites de las políticas públicas de salud em Brasil. ",
+    [
+     "em",
+     {},
+     "Revista Bajo el volcán, 12"
+    ],
+    "(6), 104-140."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "pt"
+    },
+    "Castro, J. (2008). ",
+    [
+     "em",
+     {},
+     "Geografia da Fome"
+    ],
+    ". Rio de Janeiro: Civilização Brasileira."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "pt"
+    },
+    "Chã, A. M. (2018). ",
+    [
+     "em",
+     {},
+     "Agronegócio e indústria cultural"
+    ],
+    ": ",
+    [
+     "em",
+     {},
+     "estratégias das empresas para a construção da hegemonia"
+    ],
+    ". São Paulo: Expressão Popular."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Cieza, G. (2020). Coronavirus, modo de producción agropecuario y crisis alimentaria. ",
+    [
+     "em",
+     {},
+     "Resumen Latinoamericano: La otra cara de las noticias de América y el tercer mundo"
+    ],
+    ". Consultado el 16 de enero 2024 en ",
+    [
+     "a",
+     {
+      "href": "https://www.resumenlatinoamericano.org/2020/04/30/coronavirus-modo-de-produccion-agropecuario-y-crisis-alimentaria/"
+     },
+     "https://www.resumenlatinoamericano.org/2020/04/30/coronavirus-modo-de-produccion-agropecuario-y-crisis-alimentaria/"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Cornejo, S. Q. Geografía del Hambre. ",
+    [
+     "em",
+     {},
+     "Investigaciones sociales"
+    ],
+    ", ",
+    [
+     "em",
+     {},
+     "4"
+    ],
+    "(5), 187-204."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "pt"
+    },
+    "Daniel, J. M. P.; Cravo, V. Z. (2005). Valor social e cultural da alimentação. En A. M. Canesqui; R. W. D. Garcia (Org",
+    [
+     "em",
+     {},
+     ".). Antropologia e nutrição: um diálogo possível"
+    ],
+    " (pp. 57-68). Rio de Janeiro: Fiocruz."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "pt"
+    },
+    "Engels, F. (2010). ",
+    [
+     "em",
+     {},
+     "A situação da classe trabalhadora na Inglaterra"
+    ],
+    ". São Paulo: Boitempo."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "pt"
+    },
+    "Enzweiler, D. A.; Caregnato, L. (2020). Sobre o autoritarismo brasileiro. ",
+    [
+     "em",
+     {},
+     "Revista Brasileira de História da Educação"
+    ],
+    ", ",
+    [
+     "em",
+     {},
+     "20"
+    ],
+    "(1)."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "pt"
+    },
+    "Esteve, E. V. (2017). ",
+    [
+     "em",
+     {},
+     "O negócio da comida: quem controla nossa alimentação"
+    ],
+    ". São Paulo: Expressão Popular."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Foster, J. B. (2016). Marx as a Food Theorist. ",
+    [
+     "em",
+     {},
+     "Monthly Review"
+    ],
+    ". ",
+    [
+     "a",
+     {
+      "href": "https://monthlyreview.org/2016/12/01/marx-as-a-food-theorist/"
+     },
+     "https://monthlyreview.org/2016/12/01/marx-as-a-food-theorist/"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Food and Agriculture Organization of the United Nations. (2025) ",
+    [
+     "em",
+     {},
+     "Protecting the right to adequate food and saving lives in the gaza strip: Briefing note on the Occupied Palestinian Territory"
+    ],
+    ". Roma: FAO-ONU. Consultado el 20 de septiembre 2025 en ",
+    [
+     "a",
+     {
+      "href": "https://openknowledge.fao.org/items/57a55282-62b2-4bd6-a3d2-4f12e457f6cd"
+     },
+     "https://openknowledge.fao.org/items/57a55282-62b2-4bd6-a3d2-4f12e457f6cd"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Food and Agriculture Organization of the United Nations – FAO",
+    [
+     "em",
+     {},
+     "."
+    ],
+    " (2022) ",
+    [
+     "em",
+     {},
+     "The State of Food Security and Nutrition in the World: Repurposing food and agricultural policies to make healthy diets more affordable"
+    ],
+    ". Rome: FAO. Consultado el 15 de enero 2024 en ",
+    [
+     "a",
+     {
+      "href": "https://www.fao.org/documents/card/es?details=cc0639en"
+     },
+     "https://www.fao.org/documents/card/es?details=cc0639en"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Food and Agriculture Organization of the United Nations – FAO",
+    [
+     "em",
+     {},
+     "."
+    ],
+    " (2023) ",
+    [
+     "em",
+     {},
+     "The State of Food Security and Nutrition in the World: Urbanization, agrifood systems transformation and healthy diets across the rural– urban continuum"
+    ],
+    ". Rome: FAO. Consultado el 15 de enero 2024 en ",
+    [
+     "a",
+     {
+      "href": "https://www.fao.org/documents/card/en/c/cc3017en"
+     },
+     "https://www.fao.org/documents/card/en/c/cc3017en"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "pt"
+    },
+    "Fundacao Heinrich Boll (2023). ",
+    [
+     "em",
+     {},
+     "Atlas dos Agrotóxicos: fatos e dados do uso dessas substâncias na agricultura"
+    ],
+    ". Brasil: Fundacao Heinrich Boll. Consultado el 16 de enero 2024 en ",
+    [
+     "a",
+     {
+      "href": "https://br.boell.org/sites/default/files/2023-12/atlas-do-agrotoxico-2023.pdf"
+     },
+     "https://br.boell.org/sites/default/files/2023-12/atlas-do-agrotoxico-2023.pdf"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "pt"
+    },
+    "Guerra, L. D. S., Carnut, L. (2023). O capitalismo também mata pela boca: alimentação e crítica marxista. Desafios contemporâneos para a luta contra a fome. ",
+    [
+     "em",
+     {},
+     "Crítica Revolucionária"
+    ],
+    ", ",
+    [
+     "em",
+     {},
+     "1"
+    ],
+    ", e02."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "pt"
+    },
+    "Guerra, L. D. S.; Bezerra, A. C. D.; Carnut, L. (2020). Da fome à palatabilidade estéril: ‘espessando’ ou ‘diluindo’ o Direito Humano à Alimentação Adequada no Brasil?. ",
+    [
+     "em",
+     {},
+     "Saúde em Debate"
+    ],
+    ", ",
+    [
+     "em",
+     {},
+     "44"
+    ],
+    "(127), 1225-1239."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "pt"
+    },
+    "Gurgel, A. do M.; Santos, C. C. S. dos.; Alves, K. P. de S.; Araujo, J. M. de.; Leal, V. S. (2020). Estratégias governamentais para a garantia do direito humano à alimentação adequada e saudável no enfrentamento à pandemia de Covid-19 no Brasil. ",
+    [
+     "em",
+     {},
+     "Ciência & Saúde Coletiva"
+    ],
+    ", ",
+    [
+     "em",
+     {},
+     "25"
+    ],
+    "(12), 4945-4956."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Holloway, J. (2013). ¡Comunicemos! Guadalajara, Jalisco, México: Grietas Editores."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Holloway, J. (1994). ",
+    [
+     "em",
+     {},
+     "Marxismo, estado y capital: la crisis como expresión del poder del trabajo"
+    ],
+    ". Buenos Aires, Argentina: Editorial Tierra del Fuego."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "pt"
+    },
+    "Instituto de Pesquisa Econômica Aplicada - IPEA. (2020). ",
+    [
+     "em",
+     {},
+     "Extinção do CONSEA"
+    ],
+    ". Brasília: Distrito Federal. Consultado el 16 de enero 2024 en ",
+    [
+     "a",
+     {
+      "href": "https://www.ipea.gov.br/participacao/destaques/161-noticias-destaques-grande/1796-extincao-do-consea"
+     },
+     "https://www.ipea.gov.br/participacao/destaques/161-noticias-destaques-grande/1796-extincao-do-consea"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "pt"
+    },
+    "Instituto de Pesquisas Econômicas Aplicadas – IPEA. (2020a). ",
+    [
+     "em",
+     {},
+     "O programa de aquisição de alimentos (PAA): instrumento de dinamismo econômico, combate à pobreza e promoção da segurança alimentar e nutricional em tempos de covid-19"
+    ],
+    ". Brasília: Nota Técnica nº 17."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "pt"
+    },
+    "Lara Junior, N.; Appio, A. J. (2013). A psicanálise lacaniana marxista: uma (pro)posição. Resenha de Pavon-Cuéllar, David. ",
+    [
+     "em",
+     {},
+     "A peste"
+    ],
+    ", ",
+    [
+     "em",
+     {},
+     "5"
+    ],
+    "(2), 129-138."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "pt"
+    },
+    "Lara Junior, N.; Dias, B.; Dunker, C. (2019). Apresentação do Dossiê Psicanálise e Marxismo. ",
+    [
+     "em",
+     {},
+     "Teoría y Crítica de la Psicología"
+    ],
+    ", 13, 1-3."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "pt"
+    },
+    "Machado: P.; Oliveira, N. R. F. de; Mendes, A. (2016). “O indigesto sistema do alimento mercadoria”. ",
+    [
+     "em",
+     {},
+     "Saúde e Sociedade"
+    ],
+    ", ",
+    [
+     "em",
+     {},
+     "25"
+    ],
+    "(2), 505-515."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "pt"
+    },
+    "Minuzi, G. A.; Pommer, R. (2020). A alimentação e as classes sociais: uma análise dialética: ações de pesquisa, ensino e extensão voltadas para sociedade. ",
+    [
+     "em",
+     {},
+     "Compartilhando Saberes"
+    ],
+    ", 1-10."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "pt"
+    },
+    "O Globo. (2019). ‘Passar fome no Brasil é uma grande mentira’, diz Bolsonaro. ",
+    [
+     "em",
+     {},
+     "2019"
+    ],
+    ". ",
+    [
+     "em",
+     {},
+     "Jornal O Globo"
+    ],
+    ". Consultado el 16 de enero 2024 en ",
+    [
+     "a",
+     {
+      "href": "https://oglobo.globo.com/brasil/passar-fome-no-brasil-umagrande-mentira-diz-bolsonaro-23818496"
+     },
+     "https://oglobo.globo.com/brasil/passar-fome-no-brasil-umagrande-mentira-diz-bolsonaro-23818496"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "pt"
+    },
+    "Organização Mundial de Saúde – OMS. Organização Pan-Americana de Saúde - OPAS. (2022). Dia Mundial da Obesidade 2022: acelerar ação para acabar com a obesidade. Consultado el 15 de enero 2024 en ",
+    [
+     "a",
+     {
+      "href": "https://www.paho.org/pt/noticias/4-3-2022-dia-mundial-da-obesidade-2022-acelerar-acao-para-acabar-com-obesidade"
+     },
+     "https://www.paho.org/pt/noticias/4-3-2022-dia-mundial-da-obesidade-2022-acelerar-acao-para-acabar-com-obesidade"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "pt"
+    },
+    "Organização Pan-Americana de Saúde - OPAS. Organização Mundial de Saúde – OMS. (2023). ",
+    [
+     "em",
+     {},
+     "Novo relatório da ONU: 43,2 milhões de pessoas sofrem de fome na América Latina e no Caribe e a região registra níveis de sobrepeso e obesidade superiores"
+    ],
+    " às ",
+    [
+     "em",
+     {},
+     "estimativas globais"
+    ],
+    ". Consultado el 15 de enero 2024 en ",
+    [
+     "a",
+     {
+      "href": "https://www.paho.org/pt/noticias/9-11-2023-novo-relatorio-da-onu-432-milhoespessoas-sofrem-fome-na-america-latina-e-no"
+     },
+     "https://www.paho.org/pt/noticias/9-11-2023-novo-relatorio-da-onu-432-milhoespessoas-sofrem-fome-na-america-latina-e-no"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "pt"
+    },
+    "Pashukanis, E. (2020). Fascismo. En: E. Pashukanis. ",
+    [
+     "em",
+     {},
+     "Fascismo"
+    ],
+    " (pp. 57-62). São Paulo: Boitempo."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "pt"
+    },
+    "Pashukanis, E. (2017). Teoria Geral do Direito e Marxismo. En: E. Pashukanis. ",
+    [
+     "em",
+     {},
+     "Mercadoria e Sujeito"
+    ],
+    " (pp. 117-137). São Paulo: Boitempo."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Paschoa, J. P. P. (2009). ",
+    [
+     "em",
+     {},
+     "Crise alimentar e financeira: a lógica especulativa atual do capital fictício"
+    ],
+    ". En: ",
+    [
+     "em",
+     {},
+     "XXVII Congreso de la Asociación Latinoamericana de Sociología. VIII Jornadas de Sociología de la Universidad de Buenos Aires"
+    ],
+    ". Buenos Aires: Asociación Latinoamericana de Sociología."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Pavón-Cuéllar, D. (2021). ",
+    [
+     "em",
+     {},
+     "Virus del Capital"
+    ],
+    ". Buenos Aires: La docta ignorância."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "pt"
+    },
+    "Pereira, C. P.; Duarte, J. L. Do N.; Santos, L. Dos R. S. (2021). Capitalismo dependente, Estado e autoritarismo no Brasil. ",
+    [
+     "em",
+     {},
+     "Textos & Contextos"
+    ],
+    ", ",
+    [
+     "em",
+     {},
+     "20"
+    ],
+    "(1)."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "pt"
+    },
+    "Pompeia, C. (2021). ",
+    [
+     "em",
+     {},
+     "Formação política do agronegócio"
+    ],
+    ". São Paulo: Elefante."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "pt"
+    },
+    "Prestes, A. L. (2019). Três regimes autoritários na história do Brasil Republicano: O Estado Novo (1937-1945), a ditadura militar (1964-1985) e o regime atual (a partir do golpe de 2,016). ",
+    [
+     "em",
+     {},
+     "Revista de História Comparada"
+    ],
+    ", 13."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "pt"
+    },
+    "Rede Brasileira de Pesquisa em Soberania e Segurança Alimentar e Nutricional – PENSSAN",
+    [
+     "em",
+     {},
+     "."
+    ],
+    " (2021). ",
+    [
+     "em",
+     {},
+     "VIGISAN: Inquérito Nacional sobre Insegurança Alimentar no Contexto da Pandemia da Covid-19 no Brasil"
+    ],
+    ". Brasil: Penssan."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "pt"
+    },
+    "Rede Brasileira de Pesquisa em Soberania e Segurança Alimentar e Nutricional – PENSSAN",
+    [
+     "em",
+     {},
+     "."
+    ],
+    " (2022). ",
+    [
+     "em",
+     {},
+     "VIGISAN: II Inquérito Nacional sobre Insegurança Alimentar no Contexto da Pandemia da Covid-19 no Brasil"
+    ],
+    ". Brasil: Penssan."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "pt"
+    },
+    "Ribeiro-Silva, R. C.; Pereira, M.; Campello, T.; Aragão, E.; Medeiros, J. M.; Ferreira, A. J. F.; Barreto, M. L.; dos Santos, S. M. C. (2020). Implicações da pandemia COVID-19 para a segurança alimentar e nutricional no Brasil. ",
+    [
+     "em",
+     {},
+     "Ciência e Saúde Coletiva"
+    ],
+    ", ",
+    [
+     "em",
+     {},
+     "25"
+    ],
+    "(9), 3421-3430."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Roberts, M. (2023). ",
+    [
+     "em",
+     {},
+     "Polycrisis and depression in the 21st century"
+    ],
+    ". Consultado el 15 de enero 2024 em ",
+    [
+     "a",
+     {
+      "href": "https://thenextrecession.wordpress.com/2023/01/05/polycrisis-and-depression-in-the-21st-century/"
+     },
+     "https://thenextrecession.wordpress.com/2023/01/05/polycrisis-and-depression-in-the-21st-century/"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Scrinis, G. (2021). ",
+    [
+     "em",
+     {},
+     "Nutricionismo"
+    ],
+    ". São Paulo: Elefante."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "pt"
+    },
+    "Silva, M. R. da; Pires, G. di L.; Pereira, R. S.; Silveira, J. (2018). Os ‘cães danados do fascismo’, neoliberalismo e as questões sociais: os ‘rastros de lama’ do Estado Pós-Democrático. ",
+    [
+     "em",
+     {},
+     "Motrivivência"
+    ],
+    ", ",
+    [
+     "em",
+     {},
+     "31"
+    ],
+    "(57), 1-16."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "pt"
+    },
+    "Singer, A. (2016). A. (falta de) base política para o ensaio desenvolvimentista. En: A. Singer; Loureiro, I. (pp. 21-54). ",
+    [
+     "em",
+     {},
+     "As contradições do Lulismo"
+    ],
+    ": ",
+    [
+     "em",
+     {},
+     "a que ponto chegamos?"
+    ],
+    " São Paulo: Boitempo."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "pt"
+    },
+    "Vasconcelos, F. de A. G. de. (2005). Combate à fome no Brasil: uma análise histórica de Vargas a Lula. ",
+    [
+     "em",
+     {},
+     "Revista De Nutrição"
+    ],
+    ", ",
+    [
+     "em",
+     {},
+     "18"
+    ],
+    " (4), 439-457."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Zúñiga-Olivares, M. A. (2023). Crisis alimentaria mundial en el capitalismo contemporáneo: Sociedad Una crítica marxista. ",
+    [
+     "em",
+     {},
+     "Revista Amauta Siglo XXI"
+    ],
+    ", 14, 53-61. Consultado el 16 de enero 2024 en ",
+    [
+     "a",
+     {
+      "href": "https://amautarevista.wordpress.com/2023/12/05/revistaamauta-n14-noviembre-2023/?fbclid=IwAR2MrFlUXHZOOhjXd"
+     },
+     "https://amautarevista.wordpress.com/2023/12/05/revistaamauta-n14-noviembre-2023/?fbclid=IwAR2MrFlUXHZOOhjXd"
+    ],
+    " ytY4PgIiMAqyXm5Enqcm2nKCmqJE4JawER5-E5fJ4Q"
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "pt"
+    },
+    "Wallace, R. (2020). ",
+    [
+     "em",
+     {},
+     "Pandemia e agronegócio: doenças infecciosas, capitalismo e ciência"
+    ],
+    ". São Paulo: Elefante."
+   ],
+   "\n",
+   [
+    "section",
+    {},
+    [
+     "h3",
+     {
+      "id": "t-seccion-7"
+     },
+     "NOTAS"
+    ],
+    [
+     "ol",
+     {},
+     "\n",
+     [
+      "li",
+      {
+       "id": "t-fn1"
+      },
+      "Traducción a cargo de Alberto Bonnet. ",
+      [
+       "a",
+       {
+        "href": "#t-fnref1",
+        "id": "t-llamada-fnref1-1"
+       },
+       "↩"
+      ]
+     ],
+     "\n",
+     [
+      "li",
+      {
+       "id": "t-fn2"
+      },
+      "Existe un debate dentro del marxismo contemporáneo sobre la comprensión de la “crisis” de este patrón de acumulación ultraneoliberal financiarizado, dada su complejidad y alcance global. Para Roberts (2023), usar solo la palabra “crisis” puede dar la impresión simplista de que la actual crisis capitalista se asemeja a crisis pasadas. Esta preocupación llevó al autor a optar por el término “policrisis”, en un intento de destacar las otras dimensiones de la crisis (geopolítica, económica, ambiental, entre otras, incluida la crisis alimentaria). Es en este sentido, es decir, para destacar la dimensión agroalimentaria –situada dentro de las cuestiones ambientales y económicas, y los usos políticos del hambre como arma de guerra en el contexto de los conflictos geopolíticos– que utilizamos el término “policrisis” de Roberts (2023). Sin embargo, es importante destacar que, desde el punto de vista de la coherencia metodológica, el debate derivacionista ofrece la mejor explicación de la crisis. Esta explicación se encuentra en Simon Clarke (2024) cuando se refiere a la teoría de la crisis de Marx. Clarke nos recuerda que la subordinación contradictoria de la producción de mercancías a la producción de valor es la causa subyacente de todas las crisis. Por lo tanto, metodológica y empíricamente hablando, ¡toda “crisis” es, ante todo, “social”! (Y, por lo tanto, es, al mismo tiempo, una crisis en todas las dimensiones de la vida: económica, política, jurídica, ideológica y, por consiguiente –como se destaca en nuestro texto– también una crisis alimentaria). ",
+      [
+       "a",
+       {
+        "href": "#t-fnref2",
+        "id": "t-llamada-fnref2-1"
+       },
+       "↩"
+      ]
+     ],
+     "\n",
+     [
+      "li",
+      {
+       "id": "t-fn3"
+      },
+      "Como explica Holloway (1994) en su libro ",
+      [
+       "em",
+       {},
+       "Marxismo, estado y capital"
+      ],
+      ", la crisis como expresión del poder del trabajo, la comprensión teórica y práctica de la crisis, y el papel jugado por el Estado, sólo pueden comprenderse concibiendo a la crisis no como una “crisis económica” sino como una crisis de la relación del capital, es decir, como una crisis de una forma históricamente específica de dominación de clase, una crisis de acumulación, que involucra la totalidad de las relaciones sociales capitalistas, y, por lo tanto, una lucha sostenida en todos los frentes y ejercida a través de todos los mecanismos, económicos, políticos, ideológicos, etc. ",
+      [
+       "a",
+       {
+        "href": "#t-fnref3",
+        "id": "t-llamada-fnref3-1"
+       },
+       "↩"
+      ]
+     ],
+     "\n",
+     [
+      "li",
+      {
+       "id": "t-fn4"
+      },
+      "La ",
+      [
+       "em",
+       {},
+       "comensalidad"
+      ],
+      " se entiende aquí como nuevas formas de organización colectiva que buscan construir un proyecto alimentario alternativo que conecte los saberes y experiencias de diversas personas, así como sus expresiones, conexiones y símbolos, con la comida y la alimentación. Así, la comensalidad reafirma la importancia histórica y social de la alimentación como pieza central de la vida humana y delimita los cambios continuos en las prácticas alimentarias, dados los ajustes económicos y políticos necesarios para mantener los alimentos como ",
+      [
+       "em",
+       {},
+       "commodities"
+      ],
+      " y agroenergía. ",
+      [
+       "a",
+       {
+        "href": "#t-fnref4",
+        "id": "t-llamada-fnref4-1"
+       },
+       "↩"
+      ]
+     ],
+     "\n",
+     [
+      "li",
+      {
+       "id": "t-fn5"
+      },
+      "Sustantivo masculino: destrucción metódica de un grupo étnico o religioso mediante el exterminio de sus miembros. Exterminio de una comunidad de individuos en un corto período de tiempo. Destrucción total o parcial de un grupo étnico o religión mediante métodos crueles. Eliminación de pueblos mediante la prevención de la natalidad, la desaparición de niños y condiciones de vida infrahumanas (Breda, 2021). ",
+      [
+       "a",
+       {
+        "href": "#t-fnref5",
+        "id": "t-llamada-fnref5-1"
+       },
+       "↩"
+      ]
+     ],
+     "\n",
+     [
+      "li",
+      {
+       "id": "t-fn6"
+      },
+      "El genocidio alimentario, mediante el uso del hambre, se identifica por el empeoramiento de la situación alimentaria debido a la falta de acceso, disponibilidad, producción y adquisición de alimentos. El genocidio nutricional, a su vez, se verifica a través del estado nutricional, mediante la utilización biológica de los alimentos/nutrientes por parte del cuerpo humano. ",
+      [
+       "a",
+       {
+        "href": "#t-fnref6",
+        "id": "t-llamada-fnref6-1"
+       },
+       "↩"
+      ]
+     ],
+     "\n"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Cómo citar: ",
+    [
+     "em",
+     {},
+     "Bajo el Volcán. Revista del Posgrado de Sociología. BUAP"
+    ],
+    ", Año 7, Núm. 13, noviembre de 2025 – abril de 2026, pp. 256-288. https://doi.org/10.32399/ICSYH.bvbuap.2954-4300.2025.7.13.823"
+   ],
+   [
+    "p",
+    {},
+    [
+     "a",
+     {
+      "href": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
+     },
+     "Licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional"
+    ],
+    ". Publicación de acceso abierto diamante editada por la Benemérita Universidad Autónoma de Puebla."
+   ],
+   "\n"
+  ],
+  "\n"
+ ]
+}

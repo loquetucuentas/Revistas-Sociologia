@@ -1,0 +1,5827 @@
+// Copia de textos/10-47796-ra-2025i27-1197.json para abrir la aplicación sin servidor.
+(window.DATOS_REVISTAS = window.DATOS_REVISTAS || {})["textos/10-47796-ra-2025i27-1197.json"] = {
+ "version": 1,
+ "recogido": "2026-10-18T11:45:02+00:00",
+ "doi": "10.47796/ra.2025i27.1197",
+ "titulo": "Regeneración urbana en espacios públicos para mejorar la calidad de vida en Villa María del Triunfo",
+ "revista": "2617-0892",
+ "numero": "n27-2025",
+ "licencia": {
+  "codigo": "by",
+  "nombre": "CC BY 4.0",
+  "nombre_completo": "Creative Commons Atribución 4.0 Internacional",
+  "url": "http://creativecommons.org/licenses/by/4.0",
+  "url_legal": "https://creativecommons.org/licenses/by/4.0/legalcode.es"
+ },
+ "fuente": {
+  "url": "https://revistas.upt.edu.pe/ojs/index.php/arquitek/article/download/1197/1185?inline=1",
+  "formato": "HTML",
+  "plataforma": "ojs-galerada",
+  "pagina": "https://revistas.upt.edu.pe/ojs/index.php/arquitek/article/view/1197"
+ },
+ "autores_cita": [
+  {
+   "apellidos": "Aguilar Zapata",
+   "nombre_pila": "César Leonardo",
+   "nombre": null
+  },
+  {
+   "apellidos": "Cotaquispe Aira",
+   "nombre_pila": "Maricielo Edith",
+   "nombre": null
+  },
+  {
+   "apellidos": "Villalba  Oliva",
+   "nombre_pila": "Renzo José",
+   "nombre": null
+  }
+ ],
+ "avisos_derechos": [
+  "Derechos de autor 2025 César Leonardo Aguilar Zapata, Maricielo Edith Cotaquispe Aira, Renzo José Villalba  Oliva",
+  "Licencia Derechos de autor 2025 César Leonardo Aguilar Zapata, Maricielo Edith Cotaquispe Aira, Renzo José Villalba Oliva Esta obra está bajo una licencia internacional Creative Commons Atribución 4.0."
+ ],
+ "idioma_principal": "es",
+ "indice": [],
+ "vueltas": {},
+ "contenido": [
+  "\r\n\r\n",
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "a",
+    {
+     "id": "t-_Hlk123178705"
+    }
+   ],
+   [
+    "span",
+    {},
+    "ARQUITEK"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "EDICIÓN N°27",
+    [
+     "span",
+     {},
+     "   "
+    ],
+    "| ",
+    [
+     "a",
+     {
+      "id": "t-_Hlk139134701"
+     },
+     "Enero - Junio 202"
+    ],
+    "4\r\n| Edición online ISSN-2617-0892"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    "DOI: "
+   ],
+   [
+    "a",
+    {
+     "id": "t-_Hlk139413149"
+    }
+   ],
+   [
+    "a",
+    {
+     "href": "https://doi.org/10.47796/ra.2025i27%0d"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {
+       "lang": "en"
+      },
+      "https://doi.org/10.47796/ra.2025i2"
+     ]
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "7"
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "a",
+    {
+     "id": "t-_heading-h-gjdgxs"
+    }
+   ],
+   [
+    "a",
+    {
+     "id": "t-_heading-h-z64p9x4yiaqu"
+    }
+   ],
+   [
+    "a",
+    {
+     "id": "t-_heading-h-happd81i949v"
+    }
+   ],
+   [
+    "b",
+    {},
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     [
+      "span",
+      {},
+      " "
+     ]
+    ]
+   ],
+   [
+    "b",
+    {},
+    [
+     "span",
+     {},
+     "Regeneración urbana en\r\nespacios públicos para mejorar la calidad de vida en Villa María del Triunfo"
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "en"
+   },
+   [
+    "b",
+    {},
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "Urban\r\nregeneration in public spaces to improve the quality of life in Villa María del\r\nTriunfo"
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "figura",
+    {}
+   ],
+   [
+    "b",
+    {},
+    [
+     "span",
+     {
+      "lang": "en"
+     }
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "DOI: "
+   ],
+   [
+    "u",
+    {},
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     [
+      "a",
+      {
+       "href": "https://doi.org/10.47796/ra.2025i27.1197"
+      },
+      [
+       "span",
+       {},
+       "10.47796/ra.2025i27.1197"
+      ]
+     ]
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    " "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "PRESENTADO :",
+    [
+     "span",
+     {},
+     "  "
+    ],
+    "28.11.24"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "ACEPTADO",
+    [
+     "span",
+     {},
+     "     "
+    ],
+    ":",
+    [
+     "span",
+     {},
+     "  "
+    ],
+    "30.04.25"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    " "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "CÉSAR LEONARDO AGUILAR ZAPATA"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Universidad Autónoma del Perú, Lima, Perú"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "ORCID: "
+   ],
+   [
+    "a",
+    {
+     "href": "https://orcid.org/0000-0000-5634-9496"
+    },
+    [
+     "span",
+     {},
+     "0000-0000-5634-9496"
+    ]
+   ],
+   [
+    "span",
+    {}
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "caguilarz@autonoma.edu.pe"
+   ],
+   [
+    "span",
+    {}
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    " "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "MARICIELO EDITH COTAQUISPE AIRA"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Universidad Autónoma del Perú, Lima, Perú"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "ORCID: "
+   ],
+   [
+    "a",
+    {
+     "href": "https://orcid.org/0000-0002-3607-3581"
+    },
+    [
+     "span",
+     {},
+     "0000-0002-3607-3581"
+    ]
+   ],
+   [
+    "span",
+    {}
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "mcotaquispea@autonoma.edu.pe"
+   ],
+   [
+    "span",
+    {}
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    " "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "RENZO JOSÉ VILLALBA OLIVA"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Universidad Autónoma del Perú, Lima, Perú"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "ORCID: "
+   ],
+   [
+    "a",
+    {
+     "href": "https://orcid.org/0009-0003-2941-5584"
+    },
+    [
+     "span",
+     {},
+     "0009-0003-2941-5584"
+    ]
+   ],
+   [
+    "span",
+    {}
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "vrenzoo@autonoma.edu.pe"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   " "
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   "RESUMEN"
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "El\r\nartículo presenta un diagnóstico sobre la brecha de espacios públicos que existe\r\nen el distrito de Villa María del Triunfo, la cual constituye una problemática\r\nsocial que afecta la calidad de vida de sus habitantes. El objetivo del estudio\r\nes analizar el impacto de la regeneración urbana en espacios públicos para\r\nmejorar la calidad de vida de los vecinos de Villa María del Triunfo; para\r\nello, se han tomado como referencia intervenciones exitosas en contextos\r\nsimilares, las cuales contribuyen al cumplimiento de la ODS 11: Ciudades y\r\nComunidades Sostenibles. "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "La\r\nmetodología se basó en una revisión documental de artículos publicados entre\r\n2020 y 2024, extraídos de bases de datos como Springer, Redalyc, Dialnet, entre\r\notros. Los resultados fueron siete casos que demuestran mejoras en la cohesión\r\nsocial y calidad de vida, los cuales confirman la viabilidad de aplicar\r\nestrategias similares en Villa María del Triunfo. Se concluye que la\r\nregeneración urbana de espacios públicos es crucial para mejorar la calidad de\r\nvida, fomentar la cohesión social, fortalecer la identidad comunitaria y promover\r\nuna integración con el entorno urbano."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "b",
+    {},
+    [
+     "i",
+     {},
+     [
+      "span",
+      {},
+      "Palabras\r\nclave"
+     ]
+    ]
+   ],
+   [
+    "i",
+    {},
+    [
+     "span",
+     {},
+     ":"
+    ]
+   ],
+   [
+    "span",
+    {},
+    " "
+   ],
+   [
+    "span",
+    {},
+    "regeneración\r\nurbana, espacio público, calidad de vida, cohesión social"
+   ],
+   [
+    "span",
+    {}
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   " "
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    "ABSTRACT"
+   ],
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    " "
+   ],
+   [
+    "span",
+    {
+     "lang": "en"
+    }
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "en"
+   },
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    "The article presents a\r\ndiagnosis of the existing gap in public spaces in the district of Villa María\r\ndel Triunfo, identifying it as a social problem that affects the quality of\r\nlife. The objective of the study is to analyze the impact of urban regeneration\r\nin public spaces to improve the quality of life in Villa María del Triunfo,\r\ntaking as reference successful interventions in similar contexts, in addition,\r\nit is in tune with ODS 11: Sustainable Cities and Communities. The methodology\r\nwas based on a documentary review of articles published between 2020 and 2024,\r\nextracted from databases such as Springer, Redalyc, Dialnet, among others. The\r\nresults were 7 cases that demonstrate improvements in social cohesion and\r\nquality of life, confirming the viability of applying similar strategies in\r\nVilla María del Triunfo. Concluding, the urban regeneration of public spaces is\r\ncrucial to improve the quality of life, promote social cohesion, strengthen\r\ncommunity identity and promote integration with the urban environment."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "en"
+   },
+   [
+    "b",
+    {},
+    [
+     "i",
+     {},
+     [
+      "span",
+      {
+       "lang": "en"
+      },
+      "Keywords"
+     ]
+    ]
+   ],
+   [
+    "i",
+    {},
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     ":"
+    ]
+   ],
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    " ",
+    [
+     "i",
+     {},
+     [
+      "span",
+      {},
+      "urban regeneration, public space, quality of\r\nlife, social cohesion"
+     ]
+    ],
+    [
+     "span",
+     {}
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "b",
+    {},
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     " "
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   "INTRODUCCIÓN"
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Actualmente,\r\nla brecha de espacios públicos representa un desafío crítico en el desarrollo\r\nurbanístico que, lejos de disminuir, se ha intensificado debido al constante\r\naumento de la población. Al respecto, Orillo (2023) —citando a la Organización\r\nde las Naciones Unidas (ONU)— manifestó que más de un tercio de la población\r\nque reside informalmente en centros urbanos no cuenta con acceso a los\r\nservicios básicos para su subsistencia ni dispone de acceso a los espacios\r\npúblicos o a las áreas verdes de su entorno. Este desafío está presente en\r\npaíses de todos los niveles de desarrollo, tanto avanzados como en proceso de\r\ncrecimiento."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "a",
+    {
+     "id": "t-_heading-h-8my8zpqtiazv"
+    }
+   ],
+   [
+    "span",
+    {},
+    "En este contexto, la regeneración puede ser clave\r\npara la transformación y mejora de los espacios públicos. Al respecto, Mutman\r\n(2020) señala que el concepto tiene sus raíces en el contexto de la\r\nreconstrucción de ciudades durante el siglo XX, especialmente tras la Segunda\r\nGuerra Mundial, cuando las áreas urbanas devastadas requerían una\r\nrehabilitación urgente. Por eso, originalmente, el enfoque consistía en\r\nrealizar intervenciones físicas orientadas a mejorar la infraestructura y las\r\ncondiciones de vida de los habitantes. Pero con el tiempo, el término\r\nevolucionó hacia un enfoque más integral que aborda dimensiones sociales,\r\neconómicas y ambientales, y se posiciona como una solución a problemas\r\ncontemporáneos como el deterioro urbano. "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "a",
+    {
+     "id": "t-_heading-h-hw1f3p8ailfs"
+    }
+   ],
+   [
+    "span",
+    {},
+    "El sector Virgen de Lourdes, ubicado en el\r\ndistrito de Villa María del Triunfo (Lima, Perú), enfrenta un deterioro urbano\r\nnotable que se refleja en la ausencia de áreas verdes y parques, lo que\r\nocasiona un impacto negativo en la calidad de vida de sus residentes. El diario\r\n",
+    [
+     "i",
+     {},
+     "El Comercio"
+    ],
+    " (2022) señala, además, que dicha zona carece de espacios\r\npúblicos de calidad, lo que ocasiona, por un lado, un aumento de la\r\ncontaminación del aire debido a la falta de áreas verdes y, por otro, genera\r\nuna sensación de inseguridad en la comunidad. Según la Unión Andina de Cementos\r\n(UNACEM, 2022), un esfuerzo reciente para solucionar estos problemas ha sido la\r\nrehabilitación de la Plaza de Armas de Virgen de Lourdes, la cual se realizó\r\ncon el objetivo de mejorar la calidad del aire y ofrecer un espacio público\r\nadecuado para la recreación y el disfrute familiar."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "a",
+    {
+     "id": "t-_heading-h-yxu4tgv6czzn"
+    }
+   ],
+   [
+    "span",
+    {},
+    "Al buscar casos similares en el ámbito\r\nlatinoamericano, Morcate et al. (2022) señalan que, en la ciudad Santiago de\r\nCuba, un mal planeamiento en la reubicación urbanística ha dado lugar a la presencia\r\nde espacios residuales abandonados. Lo que ha generado problemas\r\nsocio-urbanísticos como la fragmentación que experimenta el entorno y la falta\r\nde identidad colectiva de la población. Como medida de solución, se plantea una\r\npropuesta que busca aprovechar estos espacios para impulsar la regeneración\r\nurbana sostenible. El enfoque principal, en ese sentido, es el desarrollo de un\r\ncorredor público lineal que funcione como un punto clave en la conexión directa\r\nentre los barrios de San Pedrito y Los Pinos."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "a",
+    {
+     "id": "t-_heading-h-g2z3s0g6fbh1"
+    }
+   ],
+   [
+    "span",
+    {},
+    "Zumba et al. (2021) describen, por otra parte, que\r\nen la ciudad de Riobamba (Ecuador), la presencia de espacios urbanos\r\nabandonados en la zona ha dado origen a problemas sociales que provocan\r\nmolestias y limitaciones en la calidad de vida de los pobladores de la zona.\r\nPara hacer frente a dicha situación, proponen un proyecto de revitalización de\r\ntres espacios en desuso que habían quedado fragmentados por dos vías\r\nvehiculares. Estos espacios fueron integrados a través de un diseño que buscó\r\ncrear un espacio público lineal que se transformó en un boulevard. Este\r\ncorredor urbano facilita una circulación peatonal fluida y ofrece espacios para\r\nla interacción social, con lo cual se refuerza la cohesión con el entorno y se\r\nmejora la calidad de vida de los habitantes."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Casos\r\ncomo los descritos no son problemáticas exclusivas del ámbito internacional, en\r\nel contexto nacional también se evidencian situaciones similares. Orillo\r\n(2023), por ejemplo, —citando a la Sociedad Peruana de Derecho Ambiental\r\n(SPDA)— sostiene que, entre los departamentos del Perú, solo Lima, Arequipa y\r\nTacna alcanzan un promedio de 3 m² de área verde por habitante, cifra que está\r\npor debajo de los estándares establecidos por la Organización Mundial de la\r\nSalud (2015), que precisa 9 m2 de área verde por habitante. Esta brecha en el\r\nacceso a los espacios verdes es notable, considerando el crecimiento continuo\r\nde la población. Tomando como referencia, además, los datos del Instituto\r\nNacional de Estadística e Informática (INEI), Orillo (2023) presenta los\r\nindicadores de áreas verdes en Lima Metropolitana y observa que Villa María del\r\nTriunfo tiene un índice de 2.99 m² por habitante, lo que refleja una\r\ndeficiencia significativa en comparación con los estándares recomendados para\r\náreas urbanas."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "a",
+    {
+     "id": "t-_heading-h-b46trpcskgr4"
+    }
+   ],
+   [
+    "span",
+    {},
+    "Salas y Uscamayta (2024), por su parte, señalan\r\nque el complejo habitacional Gamarra del distrito del Cusco —construido como\r\nrespuesta al acelerado crecimiento urbano— presenta, en la actualidad,\r\ndeficiencias de diseño que se evidencian en la falta de mantenimiento y en la\r\npriorización de estacionamientos sobre el espacio público, lo que ha causado un\r\ndeterioro físico y social. Por ello, el proyecto de regeneración que proponen\r\nconsiste en la creación de una red interconectada a través de la\r\ninfraestructura peatonal existente, con un tratamiento unificado de pavimentos\r\ny mobiliario, iluminación adecuada y la reforestación de áreas verdes que han\r\nsido ocupadas por los estacionamientos. El diseño de estos espacios se basa en\r\nel comportamiento urbano y la sostenibilidad, integrando ambos elementos\r\nesenciales. "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "a",
+    {
+     "id": "t-_heading-h-7iyijj5bduli"
+    }
+   ],
+   [
+    "span",
+    {},
+    "De igual forma, Chumpitaz (2023) describe que, en\r\nel balneario de Barranca, ubicado en la región de Áncash, se evidencian dos\r\nproblemáticas: por un lado, la privatización inmobiliaria que restringe el\r\nacceso al mar y, por otro, la falta de protección estatal. Esto ha provocado\r\nque se desarrollen intervenciones inadecuadas y que la contaminación del\r\nespacio se haya incrementado —solo el 34% de las playas son aptas para uso\r\npúblico, lo que evidencia un gran descuido por parte de las autoridades—. Para\r\nabordar estos problemas se elaboraron estrategias de organización por medio de\r\nnodos accesibles, estos optimizan los espacios recreativos, aumentan las áreas\r\nverdes y recuperan la identidad cultural del distrito, creando un diseño\r\nsostenible que conecte a la comunidad con su entorno natural. "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Del mismo\r\nmodo, García y Rojas (2021) mencionan que el distrito de El Porvenir, en La\r\nLibertad, enfrenta problemas de accesibilidad debido a aceras deterioradas e\r\ninvadidas por el comercio ambulatorio, lo que dificulta el tránsito peatonal y\r\ngenera congestión vehicular, además de la acumulación de desechos que\r\ndeterioran la imagen urbana. Por ello, para regenerar el área, se propuso la\r\npeatonalización, la creación de espacios verdes y la formalización del comercio\r\nambulante mediante módulos de venta, junto con la instalación de contenedores\r\nque promueven la limpieza y la regulación de la publicidad para mejorar la\r\nestética de la ciudad. Estas acciones revitalizaron el espacio y optimizaron el\r\nmismo."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Los\r\nejemplos citados de regeneración urbana en las localidades de Cusco, Barranca y\r\nEl Porvenir ponen en evidencia que la falta de espacios públicos y la\r\nineficiente planificación han afectado negativamente a estas comunidades,\r\nlimitando la accesibilidad y la cohesión social que son esenciales para el\r\nbienestar comunitario. Qui et al. (2024) mencionan que la cohesión social es la\r\ninterdependencia y solidaridad entre los miembros de una comunidad, y es\r\nfundamental para el bienestar colectivo. Los espacios públicos, al ser lugares\r\nde encuentro y actividad social, tienen el potencial de fortalecer estos lazos\r\nsociales."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "a",
+    {
+     "id": "t-_heading-h-oq91rumal6m1"
+    }
+   ],
+   [
+    "span",
+    {},
+    "Retomando la problemática local, en el sector\r\nVirgen de Lourdes se evidencia una notable carencia de zonas destinadas a la\r\nrecreación y a la convivencia, a pesar de la importancia que tienen los\r\nespacios públicos en las ciudades. Al respecto, Raffo (2022), en una nota que\r\npublicó en el diario ",
+    [
+     "i",
+     {},
+     "El Comercio"
+    ],
+    ", señala que, según el Ministerio del\r\nAmbiente, esta zona no solo está desprovista de acceso al espacio público, sino\r\nque pertenece a uno de los lugares con peor calidad de aire; además, según\r\ntestimonios de los vecinos de la zona, la distancia es un problema que también\r\nlos aqueja, ya que tienen que caminar 40 minutos aproximadamente para llegar a\r\nun espacio público."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "a",
+    {
+     "id": "t-_heading-h-9ebut6381xrt"
+    }
+   ],
+   [
+    "span",
+    {},
+    "Este sector cuenta únicamente con un espacio\r\npúblico, el cual se encuentra cercado por todo su perímetro y solo es accesible\r\nen un intervalo de horas al día. Esta restricción en el acceso, y la falta de\r\nespacios públicos de integración genera en la comunidad sensaciones de\r\ninseguridad, rechazo y pérdida de la identidad, por lo que es necesario\r\nrealizar una intervención. Escalante y Díaz (2024) señalan, por ejemplo, que la\r\nausencia de espacios públicos e infraestructura constituyen también una\r\nproblemática que afecta a la comunidad de Santa Clara. Para dar solución a este\r\nproblema, emplearon un método histórico que ayudó a comprender el desarrollo de\r\nla comunidad y así valorar su identidad y memoria colectiva para, posteriormente,\r\ndiseñar un modelo de regeneración urbana que integra la colaboración de la\r\ncomunidad, políticos, equipos técnicos y agentes culturales, logrando así una\r\nmejora en la accesibilidad, la habitabilidad y la seguridad en la comunidad. "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "a",
+    {
+     "id": "t-_heading-h-re93ymsdmb6k"
+    }
+   ],
+   [
+    "span",
+    {},
+    "A partir de lo anterior, se destaca que la\r\ninsuficiencia de espacios públicos puede ocasionar conflictos sociales y\r\nlimitar las oportunidades para que la comunidad se reúna e interactúe, lo que\r\nimpacta negativamente en la calidad de vida de las personas. En esta línea, Shedid\r\ny Hefnawy (2021) sostienen que cualquier desconexión entre los usuarios y su\r\nentorno dará como resultado espacios urbanos ineficientes que no satisfacen\r\nnecesidades sociales, por lo que es importante la creación de espacios públicos\r\nconvivenciales para el aumento del bienestar social. Complementando la\r\nafirmación anterior, Benitez y Páramo (2021) precisan que parte de la\r\ndefinición o esencia de vivir dentro de una comunidad es permitirse convivir\r\ncon quien es diferente a uno mismo; en ese sentido, la incorporación de\r\nespacios públicos permite generar nuevas experiencias de interacción entre\r\nindividuos que no se conocen. "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "a",
+    {
+     "id": "t-_heading-h-ufn2j6bdfiea"
+    }
+   ],
+   [
+    "span",
+    {},
+    "A partir del contexto y la problemática descrita,\r\nsurge la siguiente pregunta de investigación: ¿cómo la regeneración urbana\r\naplicada en espacios públicos puede mejorar la calidad de vida en Villa María\r\ndel Triunfo? A partir de ella, el objetivo general de este estudio es analizar\r\ncómo la regeneración urbana en espacios públicos puede mejorar la calidad de\r\nvida de los pobladores del sector Virgen de Lourdes del distrito de Villa María\r\ndel Triunfo."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "a",
+    {
+     "id": "t-_heading-h-d4ng98z7ycc1"
+    }
+   ],
+   [
+    "span",
+    {},
+    [
+     "span",
+     {},
+     " "
+    ],
+    "La\r\ninvestigación se enmarca, por tanto, en el lineamiento urbano sostenible y se\r\narticula con lo propuesto en el Objetivo de Desarrollo Sostenible (ODS) 11:\r\nCiudades y Comunidades Sostenibles. Se alinea también con el espíritu del\r\npresente estudio, ya que aborda un problema crítico que afecta directamente a\r\nla calidad de vida de los habitantes del distrito de Villa María del Triunfo.\r\nEn esta misma línea, Azizi y Kouddane (2024) subrayan la importancia de su\r\ninvestigación en abordar esta problemática repensando el modelo de desarrollo\r\nurbano, y adoptando un enfoque sostenible que contemple la construcción de\r\nciudades a favor del confort de sus habitantes, la conservación de los recursos\r\nnaturales y una visión futura para enfrentar los desafíos urbanos\r\ncontemporáneos. Además de lo mencionado por los autores, los resultados de esta\r\ninvestigación documental pueden proporcionar evidencia sólida sobre los\r\nbeneficios de la regeneración de espacios públicos, lo que permitirá priorizar\r\nsu creación y mantenimiento en otras áreas con problemas similares."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "a",
+    {
+     "id": "t-_heading-h-ymbkkmqufd27"
+    }
+   ],
+   [
+    "span",
+    {},
+    "El presente artículo se fundamenta en el registro\r\nde escritos académicos. Para ello, se realizó una exhaustiva revisión de\r\nartículos científicos publicados entre los años 2020 y 2024, procedentes tanto\r\ndel contexto nacional como internacional. Todos los títulos seleccionados se\r\nextrajeron de bases de datos confiables como Google Académico, Scielo y\r\nDialnet. Para la selección de los artículos se consideraron criterios como el\r\ntema de investigación, el problema y las variables dependiente e independiente.\r\nAdemás, se eligieron aquellos estudios que contenían datos relevantes y\r\nsignificativos que contribuyeron al presente informe."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "a",
+    {
+     "id": "t-_heading-h-pvyux4eajty"
+    }
+   ],
+   [
+    "span",
+    {},
+    "En síntesis, para la presente investigación se\r\nrealizó un análisis de las variables ",
+    [
+     "i",
+     {},
+     "regeneración urbana"
+    ],
+    " y ",
+    [
+     "i",
+     {},
+     "espacio\r\npúblico"
+    ],
+    ". Se han planteado, también, una serie de estrategias de\r\nregeneración urbana, tomando como referencia la selección y posterior análisis\r\nde siete artículos científicos —cuyos autores han sido mencionados\r\nanteriormente—, de los cuales se extrajeron los resultados y hallazgos que han\r\nsido estructurados en tablas de análisis, atendiendo a criterios como\r\nflexibilidad, accesibilidad y adaptación de los espacios públicos a las necesidades\r\ncambiantes de la comunidad."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "MÉTODO"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Como ya\r\nse explicó anteriormente, para el desarrollo del presente artículo se realizó\r\nuna revisión documental integral que se centró en identificar, analizar y\r\nsintetizar información relevante relacionada con las variables de estudio, todo\r\nesto proveniente de diversas fuentes académicas y científicas. Martínez et al.\r\n(2023) mencionan que una revisión o análisis documental es un factor clave para\r\nel éxito de una investigación, ya que permite un estudio profundo del tema;\r\nademás, proporciona una base sólida para que los estudios se realicen con la\r\nrigurosidad científica necesaria, asegurando resultados de alta calidad."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "En todo\r\nel proceso de búsqueda, selección y redacción se utilizaron herramientas\r\ndigitales e informáticas que facilitaron el desarrollo de esta investigación.\r\nCasasempere y Vercher (2020) sostienen que el uso de herramientas informáticas\r\nfacilita el proceso de revisión eficiente de grandes volúmenes de documentos,\r\nya que enfocan la atención del investigador al propósito de investigación."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Selección\r\nde fuentes"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Para la\r\nselección de fuentes se consultaron las diversas bases de datos proporcionadas\r\npor la Universidad Autónoma del Perú y las que están disponibles en la web.\r\nEste proceso de selección se caracterizó por lo siguiente: "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    [
+     "span",
+     {},
+     "·",
+     [
+      "span",
+      {},
+      "        \r\n"
+     ]
+    ]
+   ],
+   [
+    "span",
+    {},
+    "Consulta\r\nde diversas bases de datos académicas reconocidas por su confiabilidad y\r\namplitud de contenido. "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    [
+     "span",
+     {},
+     "·",
+     [
+      "span",
+      {},
+      "        \r\n"
+     ]
+    ]
+   ],
+   [
+    "span",
+    {},
+    "Selección\r\nde aquellas bases de datos que ofrecieron un mayor número de artículos\r\nrelevantes al tema de investigación, tales como Google Académico, Redalyc,\r\nAlicia, La Referencia, Springer, DOAJ. "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    [
+     "span",
+     {},
+     "·",
+     [
+      "span",
+      {},
+      "        \r\n"
+     ]
+    ]
+   ],
+   [
+    "span",
+    {},
+    "Descarte\r\nde bases de datos que no proporcionaron información pertinente o que se\r\nespecializaban en otros campos."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Criterios\r\nde búsqueda y selección"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "La\r\nbúsqueda de artículos científicos se llevó a cabo utilizando palabras clave\r\nrelacionadas con el tema de estudio, y la selección se realizó teniendo en\r\ncuenta los siguientes criterios:"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    [
+     "span",
+     {},
+     "·",
+     [
+      "span",
+      {},
+      "        \r\n"
+     ]
+    ]
+   ],
+   [
+    "span",
+    {},
+    "Año\r\nde publicación y procedencia: Se tomaron en cuenta artículos publicados en los\r\núltimos cinco años, provenientes de países como Perú, España, Cuba, Ecuador,\r\nColombia, Rumania, Reino Unido, Egipto.",
+    [
+     "span",
+     {},
+     "  "
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    [
+     "span",
+     {},
+     "·",
+     [
+      "span",
+      {},
+      "        \r\n"
+     ]
+    ]
+   ],
+   [
+    "span",
+    {},
+    "Éxito\r\ny relevancia: Se seleccionaron los artículos que se caracterizaron por\r\npresentar casos exitosos aplicando estrategias de regeneración urbana, exponer\r\nuna metodología clara y ser accesibles. Se excluyeron aquellos que no cumplían\r\ncon estos criterios o que no aportaban información relevante al objetivo de la\r\ninvestigación."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Recopilación\r\ny organización de la información"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Se\r\nobtuvieron siete artículos, los cuales fueron leídos y analizados\r\ndetalladamente. Se extrajeron datos relevantes, como la problemática abordada y\r\nlos resultados enfocados en las estrategias utilizadas para resolver dicha\r\nproblemática. Para una mejor comprensión y organización de la información, los\r\ndatos extraídos se sistematizaron en tablas, estas incluían detalles como el\r\nautor, año de publicación, país de origen, resultados y hallazgos. Reyes (2022)\r\nindica que no es necesario leer cada trabajo en su totalidad, en su lugar, se\r\npuede emplear una lectura selectiva para destacar y apropiarse de los elementos\r\nrelevantes para la investigación, posteriormente, los datos pertinentes se\r\nrecopilan y organizan utilizando fichas, tablas o resúmenes."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Interpretación\r\nde datos"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Se\r\ninterpretaron los datos reunidos para integrarlos de manera coherente en la\r\nredacción del texto del presente artículo, resaltando los hallazgos más\r\nsignificativos y su relevancia en el contexto actual. Landinez (2022) sostiene\r\nque, como parte de la etapa de localización de investigaciones, el registro de\r\nlas variables es determinante, ya que permite su clasificación mediante\r\ncategorías. Por último, se efectuaron las conclusiones, que se traducen como\r\nlas reflexiones finales, que responden la pregunta de investigación. "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "ANÁLISIS\r\nE INTEGRACIÓN DE LA INFORMACIÓN"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Se\r\npresentan, a continuación, las siete tablas correspondientes a los artículos\r\nseleccionados previamente, los cuales fueron escogidos en función de su\r\nrelevancia, aportes significativos, éxito en la aplicación de estrategias de\r\nregeneración urbana, metodología clara y accesibilidad. Se excluyeron aquellos\r\nque no cumplían con estos criterios o que no aportaron información relevante al\r\nobjetivo de la investigación. Al respecto, Arias (2019) menciona que el\r\nanálisis crítico es crucial, ya que dirige la evaluación del proceso\r\nlógico-investigativo al resaltar los elementos esenciales del problema\r\nplanteado por el autor. Estos cuadros permiten sintetizar de manera clara y\r\nfundamentada los principales hallazgos de las investigaciones, lo que facilita\r\nla comprensión comparativa y aporta una base sólida para las conclusiones de\r\neste trabajo."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "i",
+    {},
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     " "
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  "\r\n\r\n",
+  [
+   "table",
+   {},
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {
+      "colspan": "6",
+      "lang": "en"
+     },
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {
+        "lang": "en"
+       },
+       "Tabla 1 "
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "i",
+       {},
+       [
+        "span",
+        {
+         "lang": "en"
+        },
+        "Análisis\r\n  del artículo Regeneration of urban space in Romania: A case study of Bistrita\r\n  municipality"
+       ]
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        " "
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "Autor"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "Año"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "Muestra"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {
+      "colspan": "2"
+     },
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "Medición"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "Intervención"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       [
+        "span",
+        {},
+        "·",
+        [
+         "span",
+         {},
+         "                  \r\n  "
+        ]
+       ]
+      ],
+      [
+       "span",
+       {},
+       "Tătar,\r\n  Alexandru"
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       " "
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       " "
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "2022"
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Territorios del municipio de Bistrita"
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {
+      "colspan": "2"
+     },
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Cualitativo y cuantitativo"
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Territorios del municipio de Bistrita, Bulgaria"
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {
+      "colspan": "4"
+     },
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Resultados"
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {
+      "colspan": "2"
+     },
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "Hallazgos"
+       ]
+      ],
+      [
+       "span",
+       {}
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {
+      "colspan": "4"
+     },
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Como parte\r\n  de una propuesta de revitalización de un espacio público en estado de\r\n  degradación, se desarrolló el proyecto Bosque Urbano, con el objetivo de\r\n  incorporar elementos y mobiliario urbano que se integren con un ecosistema\r\n  natural arbolado."
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {
+      "colspan": "2"
+     },
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Se plantea\r\n  una estrategia que introduce la idea paisajista de un bosque urbano como\r\n  punto de encuentro social para la población, integrando tanto áreas de\r\n  descanso como espacios para actividades físicas."
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {}
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {}
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {}
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {}
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {}
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {}
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   "\r\n"
+  ],
+  "\r\n\r\n",
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    [
+     "span",
+     {},
+     " "
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    [
+     "span",
+     {},
+     "Análisis:"
+    ]
+   ],
+   "\r\nEl proyecto define una estrategia mediante Ejes Urbanos Verdes que consiste en\r\nla inserción de un conjunto de espacios públicos, con el objetivo de ser parte\r\nde elementos locales capaces de centralizar un contexto urbano preestablecido,\r\ny también para garantizar su preservación frente a una posible expansión urbana\r\ndescontrolada. De esta manera, se busca planificar el crecimiento urbano de\r\nforma sostenible, asegurando la disponibilidad de áreas comunes que contribuyan\r\nal bienestar social y ambiental en el futuro."
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "i",
+    {},
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      " "
+     ],
+     [
+      "span",
+      {
+       "lang": "en"
+      }
+     ]
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  "\r\n\r\n",
+  [
+   "table",
+   {},
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {
+      "colspan": "5",
+      "lang": "en"
+     },
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {
+        "lang": "en"
+       },
+       "Tabla 2 "
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "i",
+       {},
+       [
+        "span",
+        {
+         "lang": "en"
+        },
+        "Análisis del artículo\r\n  Reclaiming urban lost spaces around elevated urban linkages: the case of El\r\n  Sawy Cultural Wheel, Egypt "
+       ]
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        " "
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "Autor"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "Año"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "Muestra"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "Medición"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "Intervención"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       [
+        "span",
+        {},
+        "●",
+        [
+         "span",
+         {},
+         "       "
+        ]
+       ]
+      ],
+      [
+       "span",
+       {},
+       "Ahmed, Nasrn"
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       [
+        "span",
+        {},
+        "●",
+        [
+         "span",
+         {},
+         "       "
+        ]
+       ]
+      ],
+      [
+       "span",
+       {},
+       "Temsahi, Ola El"
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       [
+        "span",
+        {},
+        "●",
+        [
+         "span",
+         {},
+         "       "
+        ]
+       ]
+      ],
+      [
+       "span",
+       {},
+       "Sarhan, Alaa El Din"
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "2024"
+      ],
+      [
+       "span",
+       {}
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Habitantes de la isla de Zamalek en Egipto"
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Teórico, Analítico y Práctico"
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Sawy Cultural Wheel"
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {
+      "colspan": "3"
+     },
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Resultados"
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {
+      "colspan": "2"
+     },
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "Hallazgos"
+       ]
+      ],
+      [
+       "span",
+       {}
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {
+      "colspan": "3"
+     },
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "La propuesta de intervención se centró en recuperar espacios urbanos\r\n  perdidos, que al no darle ninguna función, da paso a que se desarrollen\r\n  actividades informales. Por ello, "
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "la estrategia se basó en integrar los aspectos humanos para mejorar la\r\n  deseabilidad del espacio y la aplicación de principios de diseño\r\n  fundamentales tales como la accesibilidad, la funcionalidad en base a las\r\n  necesidades de los usuarios, la seguridad y la comodidad."
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {
+      "colspan": "2"
+     },
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "El modelo propuesto pretende\r\n  ser utilizado para evaluar la idoneidad de las intervenciones de diseño, la\r\n  cual ayudará a identificar áreas de mejora y que al final se conviertan en\r\n  espacios atractivos y multifuncionales, todo esto a favor de la mejora de la\r\n  calidad de vida de los usuarios."
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n"
+  ],
+  "\r\n\r\n",
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "i",
+    {},
+    [
+     "span",
+     {},
+     " "
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "b",
+    {},
+    [
+     "span",
+     {},
+     "Análisis:"
+    ]
+   ],
+   [
+    "span",
+    {},
+    " Como parte de las estrategias, en el artículo se\r\npresentaron tres tipos de diseño de regeneración: el primero se basó en la\r\nmejora del atractivo visual utilizando elementos para embellecer el espacio\r\nrelacionado con la vegetación, la iluminación y el arte; el segundo, en la\r\ncreación de espacios abiertos que incluyan actividades recreativas, como\r\nparques, áreas deportivas o la realización de eventos; y el tercero, en la\r\nadaptación de rellenos que varían desde espacios temporales hasta permanentes,\r\ncomo construcciones modulares. Sin embargo, para el proyecto en específico, se\r\naplicó el tercer tipo, rellenos permanentes, con la implementación de espacios\r\nabiertos. Esto permitió que haya una integración con el entorno y una mejora\r\nvisual que, finalmente, logró ofrecer confort social al tejido urbano."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "La\r\nadaptación de espacios de relleno, que varían desde soluciones temporales hasta\r\nestructuras permanentes, como construcciones modulares."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "i",
+    {},
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     " "
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  "\r\n\r\n",
+  [
+   "table",
+   {},
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {
+      "colspan": "5"
+     },
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {
+        "lang": "en"
+       },
+       "Tabla 3 "
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "i",
+       {},
+       [
+        "span",
+        {
+         "lang": "en"
+        },
+        "Análisis del artículo\r\n  Regeneración urbana de espacios residuales. Una propuesta para el canal La\r\n  Risueña, Santiago de Cuba"
+       ]
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        " "
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "Autor"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "Año"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "Muestra"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "Medición"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "Intervención"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       [
+        "span",
+        {},
+        "●",
+        [
+         "span",
+         {},
+         "      \r\n  "
+        ]
+       ]
+      ],
+      [
+       "span",
+       {},
+       "Morcate\r\n  Rizo, Sandra"
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       [
+        "span",
+        {},
+        "●",
+        [
+         "span",
+         {},
+         "      \r\n  "
+        ]
+       ]
+      ],
+      [
+       "span",
+       {},
+       "Morcate\r\n  Labrada, Flora"
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       [
+        "span",
+        {},
+        "●",
+        [
+         "span",
+         {},
+         "      \r\n  "
+        ]
+       ]
+      ],
+      [
+       "span",
+       {},
+       "Muñoz\r\n  Castillo, María"
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "2023"
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Habitantes de la zona Canal La Risueña,\r\n  Santiago de Cuba"
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Cualitativo y cuantitativo "
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Proyecto de regeneración urbana"
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {
+      "colspan": "3"
+     },
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Resultados"
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {
+      "colspan": "2"
+     },
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "Hallazgos"
+       ]
+      ],
+      [
+       "span",
+       {}
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {
+      "colspan": "3"
+     },
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "La\r\n  propuesta regenerativa en un área degradada residual ha permitido el\r\n  desarrollo de un espacio público lineal, facilitando la conexión entre los\r\n  barrios San Pedrito y Los Pinos. Este nuevo espacio no solo actúa como un\r\n  puente físico, sino que también promueve la cohesión social al dotar a la\r\n  comunidad de áreas destinadas a actividades tanto activas como pasivas,\r\n  fomentando el encuentro y la convivencia entre los vecinos."
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {
+      "colspan": "2"
+     },
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "La\r\n  implementación de un diseño integral de recorridos dentro del espacio\r\n  generará ejes organizadores que facilitarán la conexión entre el tejido\r\n  urbano y los grupos sociales ya establecidos en la zona. Estos ejes no solo\r\n  guiarán el flujo de personas y actividades, sino que también promoverán la\r\n  interacción entre los distintos sectores de la comunidad, fortaleciendo el\r\n  sentido de pertenencia y fomentando una mayor cohesión social.",
+       [
+        "b",
+        {}
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n"
+  ],
+  "\r\n\r\n",
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    " "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "b",
+    {},
+    "Análisis:"
+   ],
+   " La propuesta presenta una clara\r\nfactibilidad para implementar acciones regenerativas en zonas degradadas de\r\náreas urbanas, brindando la oportunidad de consolidar la cohesión entre\r\nsectores que experimentan fragmentación espacial debido al déficit de espacios\r\npúblicos. Al abordar esta problemática, se busca no solo revitalizar el\r\nentorno, sino también fomentar la interacción social y el sentido de comunidad,\r\ntransformando espacios olvidados en lugares vibrantes y accesibles para todos."
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    " "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "i",
+    {},
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     " "
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  "\r\n\r\n",
+  [
+   "table",
+   {},
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {
+      "colspan": "5"
+     },
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {
+        "lang": "en"
+       },
+       "Tabla 4"
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "i",
+       {},
+       "Análisis del artículo Propuesta de regeneración urbana participativa\r\n  para la comunidad “El Gigante”, ciudad de Santa Clara"
+      ],
+      [
+       "b",
+       {},
+       [
+        "span",
+        {}
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "Autor"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "Año"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "Muestra"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "Medición"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "Intervención"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       [
+        "span",
+        {},
+        "●",
+        [
+         "span",
+         {},
+         "      \r\n  "
+        ]
+       ]
+      ],
+      [
+       "span",
+       {},
+       "Escalante\r\n  Leiva, María Isabel "
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       [
+        "span",
+        {},
+        "●",
+        [
+         "span",
+         {},
+         "      \r\n  "
+        ]
+       ]
+      ],
+      [
+       "span",
+       {},
+       "Díaz\r\n  García, Rosaily "
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "2024"
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "La comunidad “El Gigante” en Santa Clara, Cuba"
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Cualitativas y cuantitativas"
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Comunidad “El Gigante”, Santa Clara, Cuba"
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {
+      "colspan": "3"
+     },
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Resultados"
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {
+      "colspan": "2"
+     },
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "Hallazgos"
+       ]
+      ],
+      [
+       "span",
+       {}
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {
+      "colspan": "3"
+     },
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "El modelo\r\n  de regeneración urbana participativa permitió la mejora de la accesibilidad,\r\n  habitabilidad y seguridad en la comunidad El Gigante. En el caso de los\r\n  espacios públicos, se restauraron zonas en desuso y se rehabilitaron espacios\r\n  en mal estado. Todo esto mediante una propuesta que integró la colaboración\r\n  de la comunidad, políticos, técnicos y agentes culturales."
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {
+      "colspan": "2"
+     },
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "La\r\n  propuesta de regeneración urbana se centra en mejorar la calidad de vida de\r\n  los residentes mediante una intervención que involucra a diversos actores\r\n  sociales, económicos, ambientales y culturales. Se enfatiza la importancia de\r\n  la participación para abordar los problemas detectados."
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n"
+  ],
+  "\r\n\r\n",
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    " "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "b",
+    {},
+    [
+     "span",
+     {},
+     "Análisis:"
+    ]
+   ],
+   [
+    "span",
+    {},
+    " La\r\nparticipación de diversos actores es clave para la regeneración urbana y, por\r\nende, para mejorar la calidad de vida en comunidades vulnerables; involucrar a\r\nla comunidad es esencial para abordar problemas y promover un desarrollo\r\ninclusivo y sostenible. Por ello, la propuesta presenta una metodología que\r\nincluye la colaboración entre la ciudadanía, los agentes públicos y técnicos\r\nquienes, en conjunto, tratan de revitalizar zonas en desuso, otorgándoles\r\nfuncionalidad a cada una de ellas, y así promover la creación de ciudades\r\ninclusivas, seguras y sostenibles."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    " "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "i",
+    {},
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     " "
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  "\r\n\r\n",
+  [
+   "table",
+   {},
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {
+      "colspan": "5"
+     },
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {
+        "lang": "en"
+       },
+       "Tabla 5"
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "i",
+       {},
+       [
+        "span",
+        {
+         "lang": "en"
+        },
+        "Análisis\r\n  del artículo Reactivación de espacios públicos desde la visión arquitectónica\r\n  urbanística"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "Autor"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "Año"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "Muestra"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "Medición"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "Intervención"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       [
+        "span",
+        {},
+        "●",
+        [
+         "span",
+         {},
+         "      \r\n  "
+        ]
+       ]
+      ],
+      [
+       "span",
+       {},
+       "Zumba\r\n  Llango, Edwin"
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       [
+        "span",
+        {},
+        "●",
+        [
+         "span",
+         {},
+         "      \r\n  "
+        ]
+       ]
+      ],
+      [
+       "span",
+       {},
+       "Ruiz\r\n  Ortiz, Fredy "
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       [
+        "span",
+        {},
+        "●",
+        [
+         "span",
+         {},
+         "      \r\n  "
+        ]
+       ]
+      ],
+      [
+       "span",
+       {},
+       "Cepde\r\n  Godoy, Hector"
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       [
+        "span",
+        {},
+        "●",
+        [
+         "span",
+         {},
+         "      \r\n  "
+        ]
+       ]
+      ],
+      [
+       "span",
+       {},
+       "Moreno\r\n  Estrada, Marco"
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "2021"
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Comunidad de la ciudad de Riobamba, Provincia Chimborazo"
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Cualitativas y cuantitativas"
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Comunidad de la ciudad de Riobamba, provincia\r\n  Chimborazo"
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {
+      "colspan": "3"
+     },
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Resultados"
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {
+      "colspan": "2"
+     },
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "Hallazgos"
+       ]
+      ],
+      [
+       "span",
+       {}
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {
+      "colspan": "3"
+     },
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "El\r\n  proyecto propone una intervención mediante estrategias de revitalización en\r\n  tres espacios en desuso, fragmentados por vías vehiculares que les restan\r\n  funcionalidad. Se plantea un eje referencial de circulación compuesto por\r\n  tres calles principales que forman parte del trazado original de la zona a\r\n  intervenir. Este eje funcionará como un boulevard, facilitando una\r\n  circulación continua de un punto a otro, y promoviendo la interacción social\r\n  a través de actividades pasivas y activas."
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {
+      "colspan": "2"
+     },
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Mediante\r\n  la unión de los tres espacios, se pretende proyectar una circulación peatonal\r\n  fluida de manera lineal, volviéndolo parte de un elemento articulador de\r\n  espacios públicos culturales del entorno."
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n"
+  ],
+  "\r\n\r\n",
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "b",
+    {},
+    [
+     "span",
+     {},
+     " "
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "b",
+    {},
+    [
+     "span",
+     {},
+     "Análisis: "
+    ]
+   ],
+   [
+    "span",
+    {},
+    "La propuesta\r\ntiene como objetivo integrar tres espacios fragmentados por la proyección de\r\nvías vehiculares, mediante una estrategia de regeneración espacial que permita\r\nuna conexión lineal. Esta integración busca vincular dos tipos de espacios\r\npúblicos con funciones diferentes, promoviendo una relación funcional y\r\ncoherente entre ellos. Con ello, responde a la necesidad de crear nuevos puntos\r\nde articulación clave dentro de la ciudad, favoreciendo la cohesión urbana.\r\nEsta intervención no solo pretende revitalizar áreas degradadas, sino también\r\nestablecer conexiones funcionales y sociales que promuevan un uso más integrado\r\ny dinámico del espacio público, fortaleciendo así el tejido urbano."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    " "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "i",
+    {},
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     " "
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  "\r\n\r\n",
+  [
+   "table",
+   {},
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {
+      "colspan": "5",
+      "lang": "en"
+     },
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {
+        "lang": "en"
+       },
+       "Tabla 6",
+       [
+        "i",
+        {}
+       ]
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "i",
+       {},
+       [
+        "span",
+        {
+         "lang": "en"
+        },
+        "Análisis del artículo\r\n  The Theory of the Mixing Of Uses in the Integral Urban Regeneration of\r\n  Historical Centers (2000-2019)"
+       ]
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        " "
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "Autor"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "Año"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "Muestra"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "Medición"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "Intervención"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       [
+        "span",
+        {},
+        "●",
+        [
+         "span",
+         {},
+         "      \r\n  "
+        ]
+       ]
+      ],
+      [
+       "span",
+       {},
+       "Huatuco\r\n  Jaimes, Cristhian "
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       " "
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "2021"
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Ciudadanos del distrito de Lima"
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Cualitativo y cuantitativo"
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "C. H. de\r\n  Lima, distrito de Lima "
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       " "
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {
+      "colspan": "3"
+     },
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Resultados",
+       [
+        "span",
+        {}
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {
+      "colspan": "2"
+     },
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "Hallazgos"
+       ]
+      ],
+      [
+       "span",
+       {}
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {
+      "colspan": "3"
+     },
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "La teoría\r\n  de la mezcla de usos se vincula directamente con la regeneración urbana, al\r\n  promover la revitalización de áreas históricas y espacios públicos mediante\r\n  la integración de funciones residenciales, comerciales, recreativas y de\r\n  servicios en un solo espacio. Mejorando de tal manera la interacción social y\r\n  fortaleciendo la identidad local. "
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {
+      "colspan": "2"
+     },
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "La fusión\r\n  de la regeneración urbana integral con la mezcla de usos de suelo muestra que\r\n  el desarrollo urbano sostenible requiere enfoques flexibles y multidimensionales,\r\n  orientados a necesidades locales y globales. Enfocándose en la capacidad de\r\n  transformar el enfoque tradicional, el cual se centra en solo aspectos\r\n  físicos y espaciales, hacia uno que considere de manera integral las\r\n  necesidades sociales, económicas y culturales de la comunidad."
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n"
+  ],
+  "\r\n\r\n",
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "i",
+    {},
+    [
+     "span",
+     {},
+     " "
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "b",
+    {},
+    [
+     "span",
+     {},
+     "Análisis: "
+    ]
+   ],
+   [
+    "span",
+    {},
+    "La\r\ninvestigación revela una tendencia que va más allá de la simple reorganización\r\ndel espacio público. La clave está en cómo la regeneración urbana, al\r\ninvolucrar múltiples agentes y considerar factores socioeconómicos, crea un\r\nmarco más efectivo para implementar la mezcla de usos. Esta sinergia responde a\r\nlas necesidades urbanísticas y sobre todo revitaliza el espacio del tejido\r\nsocial, asegurando la permanencia de la población residente y potenciando la\r\nidentidad local."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    " "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "i",
+    {},
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     " "
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  "\r\n\r\n",
+  [
+   "table",
+   {},
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {
+      "colspan": "5",
+      "lang": "en"
+     },
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {
+        "lang": "en"
+       },
+       "Tabla 7 ",
+       [
+        "span",
+        {}
+       ]
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "i",
+       {},
+       [
+        "span",
+        {
+         "lang": "en"
+        },
+        "Análisis\r\n  del artículo Tactical urbanism(s) in Lima-Peru. 2001-2021. Other forms of\r\n  production of public space"
+       ]
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        " "
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "Autor"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "Año"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "Muestra"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "Medición"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "Intervención"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       [
+        "span",
+        {},
+        "●",
+        [
+         "span",
+         {},
+         "      \r\n  "
+        ]
+       ]
+      ],
+      [
+       "span",
+       {},
+       "Collantes\r\n  Gabella, Ezequiel "
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       [
+        "span",
+        {},
+        "●",
+        [
+         "span",
+         {},
+         "      \r\n  "
+        ]
+       ]
+      ],
+      [
+       "span",
+       {},
+       "Vera\r\n  Cubas, Javier"
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "2023"
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Comunidad de la Calle San Lorenzo, Surquillo"
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Cualitativa y cuantitativa"
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Comunidad de la Calle San Lorenzo, Surquillo"
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {
+      "colspan": "3"
+     },
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Resultados"
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {
+      "colspan": "2"
+     },
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "Hallazgos"
+       ]
+      ],
+      [
+       "span",
+       {}
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {
+      "colspan": "3"
+     },
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "En el\r\n  marco de una propuesta regenerativa para un espacio ocupado informalmente por\r\n  comerciantes, se proyecta una intervención efímera con el fin de reordenar el\r\n  área y mejorar la calidad del entorno. La intervención contempla la\r\n  sectorización del espacio, creando zonas de interacción que estarán equipadas\r\n  con mobiliario urbano adaptable."
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {
+      "colspan": "2"
+     },
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Esta\r\n  estrategia busca no solo organizar el uso del suelo, sino también generar un\r\n  ecosistema urbano que promueva la convivencia, el dinamismo comercial y el\r\n  bienestar de la comunidad, todo dentro de un enfoque de sostenibilidad\r\n  temporal.",
+       [
+        "b",
+        {}
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n"
+  ],
+  "\r\n\r\n",
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "i",
+    {},
+    [
+     "span",
+     {},
+     " "
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "b",
+    {},
+    [
+     "span",
+     {},
+     "Análisis:"
+    ]
+   ],
+   [
+    "span",
+    {},
+    " La investigación revela la factibilidad de\r\nproyectar intervenciones efímeras y de bajo costo con el objetivo de\r\nexperimentar el impacto que una nueva concepción de espacio público puede\r\ngenerar en un entorno previamente deteriorado. Esta iniciativa tiene el\r\npotencial de promover la creación de un nuevo ecosistema social, donde la\r\npoblación no solo pueda integrarse activamente, sino también construir y\r\nconsolidar una identidad colectiva renovada. Esto se fundamenta en el hecho de\r\nque los espacios públicos bien diseñados y accesibles funcionan como\r\ncatalizadores de interacción social, cohesión comunitaria y sentido de\r\npertenencia, factores esenciales para el desarrollo de una sociedad más\r\ninclusiva y participativa."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "RESULTADOS "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Combinación de los resultados de diferentes fuentes\r\noriginales"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "En este apartado se identifican las similitudes y\r\ndiferencias significativas que permiten comprender los aspectos comunes y\r\ndistintivos de cada enfoque. Ardila et al. (2023) precisan que el acto de\r\nconfrontar información amplía la capacidad de evidenciar relaciones de\r\nequivalencia o discrepancia, lo que permite obtener una perspectiva más amplia\r\ny enriquecida en el desarrollo de la investigación. Esta comparación establece\r\nuna base sólida para la formulación de conclusiones, aportando una visión\r\nintegral y bien estructurada del tema."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    [
+     "span",
+     {},
+     "·",
+     [
+      "span",
+      {},
+      "        \r\n"
+     ]
+    ]
+   ],
+   [
+    "span",
+    {},
+    "En los artículos científicos de Marius (2022) y\r\nZumba et al. (2021), se comparte el objetivo de proponer un plan estratégico\r\nque garantice la accesibilidad y disponibilidad de los espacios públicos en\r\ncontextos de potencial expansión urbana. Ambos estudios enfatizan que asegurar\r\nla integración y preservación de estos espacios es fundamental para mantener el\r\nequilibrio entre el crecimiento urbano y la calidad de vida de los habitantes.\r\nLa planificación anticipada permite que los espacios públicos no solo se\r\nmantengan funcionales y accesibles, sino también puedan preservarse como\r\nrecursos esenciales para la cohesión social, la identidad comunitaria y el\r\nbienestar colectivo en un entorno en constante cambio."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    [
+     "span",
+     {},
+     "·",
+     [
+      "span",
+      {},
+      "        \r\n"
+     ]
+    ]
+   ],
+   [
+    "span",
+    {},
+    "Los estudios de Ahmed et al. (2024) y Collantes et\r\nal. (2023) coinciden en la necesidad de una intervención inmediata en entornos\r\nactivos que presentan grados de degradación. Ambos estudios destacan que,\r\nmediante esta intervención, es posible revitalizar estos espacios fomentando un\r\necosistema social renovado. Dicho ecosistema no solo busca mejorar la\r\nfuncionalidad y el acceso del entorno, sino también impulsar la integración de\r\nuna identidad colectiva que refleje la cultura y los valores de la comunidad\r\nlocal. Este enfoque permite que el espacio no solo sea accesible y útil, sino\r\ntambién actúe como un elemento de cohesión y pertenencia, esencial para su\r\nsostenibilidad y preservación a largo plazo."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    [
+     "span",
+     {},
+     "·",
+     [
+      "span",
+      {},
+      "        \r\n"
+     ]
+    ]
+   ],
+   [
+    "span",
+    {},
+    "En las investigaciones de Huatuco (2021) y\r\nCollantes et al. (2023) se precisa que la regeneración urbana es una\r\nherramienta para mejorar la calidad de vida. Sin embargo, difieren en sus\r\nmétodos: Huatuco, por su parte, propone una regeneración urbana permanente,\r\nintegrando usos residenciales, comerciales y recreativos a largo plazo;\r\nmientras que Collantes et al. se enfocan en intervenciones temporales y\r\nefímeras para reorganizar espacios informales, priorizando soluciones\r\ninmediatas y flexibles. El principal desacuerdo radica en la duración y enfoque\r\nde las intervenciones."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    " "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "DISCUSIÓN"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    [
+     "span",
+     {},
+     " "
+    ],
+    "En la\r\npresente investigación se analizó, en función de la literatura revisada, cómo\r\nla regeneración urbana aplicada a espacios públicos puede mejorar la calidad de\r\nvida en el sector Virgen de Lourdes del distrito de Villa María del Triunfo. Se\r\ndestacó que un aspecto clave de este estudio es la identificación de un vacío\r\nen la literatura existente, ya que no se encontraron referencias sobre el\r\ntratamiento de espacios públicos situados en terrenos con topografía compleja.\r\nPor ello, se plantea una serie de estrategias de regeneración urbana, enfocadas\r\nen abordar criterios como los de flexibilidad, accesibilidad y adaptación de\r\nlos espacios públicos a las necesidades cambiantes de la comunidad. Estas\r\nestrategias, al ser implementadas en el contexto del sector de Virgen de\r\nLourdes, tienen el potencial de mejorar la calidad del espacio público y\r\ncontribuir directamente al cumplimiento de la meta 11.7 del ODS 11."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Identificación de vacíos en la literatura"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Vacíos en la literatura sobre estrategias de\r\ndiseño y accesibilidad de espacios públicos en zonas con pendientes\r\npronunciadas"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Debido a la continua expansión urbana en áreas con\r\ncaracterísticas topográficas de pendientes pronunciadas, se han identificado\r\ndificultades significativas en la planificación de espacios públicos accesibles\r\npara la población. Estas zonas, que albergan asentamientos informales,\r\nexperimentan un crecimiento progresivo que resalta la necesidad de implementar\r\nestrategias regenerativas en los espacios públicos, garantizando que sean\r\naccesibles y adaptados al terreno. Sin embargo, la literatura existente carece\r\nde investigaciones que aborden propuestas urbanas específicas que respondan a\r\nlas necesidades y problemáticas propias de estos entornos. Por lo tanto, surge\r\nla oportunidad de desarrollar enfoques de diseño que se ajusten a los criterios\r\nde accesibilidad y sostenibilidad requeridos para estos espacios en terrenos\r\ninclinados."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Limitaciones inherentes al proceso de revisión\r\nde la literatura"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Se identificaron algunas limitaciones durante la\r\nrevisión de los artículos tales como:"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    [
+     "span",
+     {},
+     "·",
+     [
+      "span",
+      {},
+      "        \r\n"
+     ]
+    ]
+   ],
+   [
+    "span",
+    {},
+    "Fuentes disponibles y acceso a datos. Algunos\r\nartículos científicos no estaban disponibles debido a que requerían un pago\r\npara ser consultados, esto limitó la capacidad de incluir más estudios\r\npertinentes. "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    [
+     "span",
+     {},
+     "·",
+     [
+      "span",
+      {},
+      "        \r\n"
+     ]
+    ]
+   ],
+   [
+    "span",
+    {},
+    "Estudio de casos reales. La mayoría de los\r\nartículos encontrados se enfocaron más en una metodología teórica, dejando de\r\nlado la aplicación en casos reales, lo que para la investigación es importante,\r\nya que se necesita un conocimiento claro de estrategias específicas de\r\nregeneración aplicadas en espacios públicos. "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    [
+     "span",
+     {},
+     "·",
+     [
+      "span",
+      {},
+      "        \r\n"
+     ]
+    ]
+   ],
+   [
+    "span",
+    {},
+    "Marco temporal. Al centrarse en un intervalo de\r\ntiempo, se excluyeron artículos más antiguos que proporcionaban datos\r\nrelevantes al tema, pero que no pudieron ser utilizados en la presente investigación."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    " "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "CONCLUSIONES"
+   ],
+   [
+    "span",
+    {}
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   "De la revisión de los siete artículos científicos se\r\nconcluye lo siguiente:"
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    [
+     "span",
+     {},
+     "·",
+     [
+      "span",
+      {},
+      "        \r\n"
+     ]
+    ]
+   ],
+   [
+    "span",
+    {},
+    "La regeneración de espacios públicos es esencial\r\npara transformar comunidades y mejorar la calidad de vida en sectores\r\nvulnerables. En el caso del sector Virgen de Lourdes, donde actualmente se\r\nencuentran espacios vacíos o en desuso, se propone aplicar la estrategia de\r\nejes urbanos verdes, inspirado en el proyecto de regeneración del municipio de\r\nBistrita, Rumanía. Esta estrategia plantea integrar un bosque urbano que actúe\r\ncomo pulmón verde, y que se convierta en un punto de encuentro comunitario, lo\r\nque contribuye al cumplimiento de la ODS 11, que busca garantizar ciudades y\r\ncomunidades sostenibles."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    [
+     "span",
+     {},
+     "·",
+     [
+      "span",
+      {},
+      "        \r\n"
+     ]
+    ]
+   ],
+   [
+    "span",
+    {},
+    "Los espacios públicos de Virgen de Lourdes se encuentran\r\nactualmente en estado de abandono, reducidos a un terreno baldío sin vegetación\r\nni mobiliario urbano y con un uso limitado por parte de la comunidad. Esta\r\nsituación refleja una desconexión entre los habitantes y el espacio, una\r\nproblemática que puede abordarse inspirándose en los criterios presentados en\r\nla Tabla 3, la cual describe un modelo de regeneración urbana aplicado en la\r\nzona del Canal La Risueña, en Santiago de Cuba. Para ello, se proponen\r\ncriterios desde la dimensión urbano-ambiental, como la activación de zonas\r\nverdes, áreas de esparcimiento y espacios recreativos accesibles, con el\r\nobjetivo de fomentar la identidad social, la apropiación del espacio y el\r\nfortalecimiento del tejido social."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    [
+     "span",
+     {},
+     "·",
+     [
+      "span",
+      {},
+      "        \r\n"
+     ]
+    ]
+   ],
+   [
+    "span",
+    {},
+    "Los espacios públicos de Virgen de Lourdes, presentan\r\nuna oportunidad de regeneración donde la experiencia del usuario se vuelve\r\nesencial para generar un espacio útil, inclusivo y dinámico. Se tuvo en cuenta\r\nla teoría de la mezcla de usos en la tabla 6, donde el diseño flexible permite\r\nque los espacios evolucionen según las necesidades cambiantes de la comunidad.\r\nEsto promueve la interacción social y el uso constante del espacio público. Se\r\naplicaron estrategias a partir de los principios de flexibilidad, funcionalidad\r\ny adaptabilidad, una de ellas es la creación de zonas polivalentes, es decir,\r\ncrear áreas de uso múltiple que permitan adaptarse a diferentes actividades.\r\nPor ejemplo, un espacio que funcione como parque infantil durante el día, pero\r\nque se pueda transformar en un área para eventos culturales o reuniones\r\ncomunitarias por la noche. Estas intervenciones están orientadas en mejorar la\r\nexperiencia del usuario, la calidad de vida y que el espacio sea útil a lo\r\nlargo del tiempo."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   "REFERENCIAS BIBLIOGRÁFICAS"
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "pt"
+   },
+   [
+    "span",
+    {},
+    "Ardila,\r\nA., Ferreira, M. y Mattos, G. (2023). Espaços públicos em movimento: mobilidade\r\nnas manifestações em Belo Horizonte e Rio de Janeiro",
+    [
+     "i",
+     {},
+     ". Revista INVI"
+    ],
+    ", ",
+    [
+     "i",
+     {},
+     "38"
+    ],
+    "(107),\r\n181-204 ",
+    [
+     "u",
+     {},
+     [
+      "span",
+      {},
+      "http://dx.doi.org/10.5354/0718-8358.2023.67073"
+     ]
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Arias,\r\nF. (2019). ",
+    [
+     "i",
+     {},
+     "Mitos y errores en la\r\nelaboración de tesis y proyectos de investigación. "
+    ]
+   ],
+   [
+    "a",
+    {
+     "href": "https://biblioteca.isfodosu.edu.do/opac-tmpl/files/tc/MitosErroresElaboracionTesisProyectosInvestigacion.pdf"
+    },
+    [
+     "span",
+     {},
+     "https://biblioteca.isfodosu.edu.do/opac-tmpl/files/tc/MitosErroresElaboracionTesisProyectosInvestigacion.pdf"
+    ]
+   ],
+   [
+    "span",
+    {},
+    "\r\n",
+    [
+     "b",
+     {}
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "en"
+   },
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    "Azizi, L., y Kouddane, N. (2024). ",
+    [
+     "i",
+     {},
+     "The green city as a driver of sustainable\r\ndevelopment."
+    ],
+    " ",
+    [
+     "i",
+     {},
+     "Journal of Umm\r\nAl-Qura University for Engineering and Architecture"
+    ],
+    ". "
+   ],
+   [
+    "a",
+    {
+     "href": "https://doi.org/10.1007/s43995-024-00077-x"
+    },
+    [
+     "span",
+     {},
+     "https://doi.org/10.1007/s43995-024-00077-x"
+    ]
+   ],
+   [
+    "span",
+    {},
+    "\r\n"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Benitez,\r\nL. y Páramo, P. (2021). Espacio público en discusión: el caso del parque Japón\r\nen Bogotá Colombia. ",
+    [
+     "i",
+     {},
+     "Bitácora Urbano\r\nTerritorial,"
+    ],
+    " ",
+    [
+     "i",
+     {},
+     "31"
+    ],
+    "(2), 203–214. "
+   ],
+   [
+    "a",
+    {
+     "href": "https://doi.org/10.15446/bitacora.v31n2.86157"
+    },
+    [
+     "span",
+     {},
+     "https://doi.org/10.15446/bitacora.v31n2.86157"
+    ]
+   ],
+   [
+    "span",
+    {}
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Casasempere,\r\nA. y Vercher, M. (2020). Análisis documental bibliográfico. Aprovechar al\r\nmáximo la revisión de la literatura en la investigación cualitativa",
+    [
+     "i",
+     {},
+     "."
+    ],
+    " ",
+    [
+     "i",
+     {},
+     "Nuevas\r\ntendencias en investigación cualitativa, 4"
+    ],
+    ", 247–257. "
+   ],
+   [
+    "a",
+    {
+     "href": "https://doi.org/10.36367/ntqr.4.2020.247-257"
+    },
+    [
+     "span",
+     {},
+     "https://doi.org/10.36367/ntqr.4.2020.247-257"
+    ]
+   ],
+   [
+    "span",
+    {},
+    "\r\n"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Chumpitaz,\r\nM. (2023). ",
+    [
+     "i",
+     {},
+     "Regeneración urbana del\r\nmalecón costero, optimizando las funciones de recreación saludable y turismo\r\nlitoral del balneario del distrito de Barranca, Perú."
+    ],
+    " Universidad\r\nContinental.",
+    [
+     "span",
+     {},
+     "  "
+    ]
+   ],
+   [
+    "a",
+    {
+     "href": "https://hdl.handle.net/20.500.12394/13126"
+    },
+    [
+     "span",
+     {},
+     "https://hdl.handle.net/20.500.12394/13126"
+    ]
+   ],
+   [
+    "span",
+    {},
+    [
+     "span",
+     {},
+     "  "
+    ],
+    [
+     "i",
+     {}
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Collantes,\r\nE., y Vera, J. (2023). Urbanismo(s) táctico(s) en Lima-Perú, 2001-2021. Otras\r\nformas de producción del espacio público. ",
+    [
+     "i",
+     {},
+     "Arquitextos"
+    ],
+    ",\r\n(37). "
+   ],
+   [
+    "a",
+    {
+     "href": "https://doi.org/10.31381/arquitextos37.5474"
+    },
+    [
+     "span",
+     {},
+     "https://doi.org/10.31381/arquitextos37.5474"
+    ]
+   ],
+   [
+    "span",
+    {},
+    "\r\n"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Escalante,\r\nM. y Díaz, R. (2024). Propuesta de regeneración urbana participativa para la\r\ncomunidad “El Gigante”, ciudad de Santa Clara.",
+    [
+     "i",
+     {},
+     " Arquitectura y Urbanismo"
+    ],
+    ", ",
+    [
+     "i",
+     {},
+     "XLV"
+    ],
+    "\r\n(1), 102-110. "
+   ],
+   [
+    "a",
+    {
+     "href": "https://www.redalyc.org/articulo.oa?id=376877763002"
+    },
+    [
+     "span",
+     {},
+     "https://www.redalyc.org/articulo.oa?id=376877763002"
+    ]
+   ],
+   [
+    "span",
+    {}
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Garcia,\r\nJ. y Rojas, I. (2021). ",
+    [
+     "i",
+     {},
+     "La regeneración\r\nurbana como estrategia para la intervención de la imagen en la Av. Sánchez\r\nCarrión del distrito El Porvenir 2021"
+    ],
+    ". [Tesis de Bachiller]. Universidad\r\nCésar Vallejo, Trujillo. "
+   ],
+   [
+    "a",
+    {
+     "href": "https://hdl.handle.net/20.500.12692/81278"
+    },
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "https://hdl.handle.net/20.500.12692/81278"
+    ]
+   ],
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    " "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "en"
+   },
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    "Huatuco, C. (2021). The Theory of\r\nthe Mixing Of Uses in the Integral Urban Regeneration of Historical Centers\r\n(2000-2019).",
+    [
+     "i",
+     {},
+     [
+      "span",
+      {},
+      " "
+     ]
+    ]
+   ],
+   [
+    "i",
+    {},
+    [
+     "span",
+     {},
+     "Revista de estudios sobre\r\npatrimonio edificado"
+    ]
+   ],
+   [
+    "span",
+    {},
+    "."
+   ],
+   [
+    "span",
+    {},
+    [
+     "span",
+     {},
+     "   "
+    ]
+   ],
+   [
+    "a",
+    {
+     "href": "https://doi.org/10.21754/devenir.v8i16.1040"
+    },
+    [
+     "span",
+     {},
+     "https://doi.org/10.21754/devenir.v8i16.1040"
+    ]
+   ],
+   [
+    "span",
+    {},
+    "\r\n"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Landinez,\r\nM. (2022). ",
+    [
+     "i",
+     {},
+     "Revisión sistemática sobre\r\nespacio público y turismo en Iberoamérica "
+    ],
+    "[tesis de bachiller, Universidad\r\nColegio Mayor de Cundinamarca. Colombia]. "
+   ],
+   [
+    "a",
+    {
+     "href": "https://repositorio.unicolmayor.edu.co/handle/unicolmayor/5747"
+    },
+    [
+     "span",
+     {},
+     "https://repositorio.unicolmayor.edu.co/handle/unicolmayor/5747"
+    ]
+   ],
+   [
+    "span",
+    {},
+    "\r\n"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Martínez,\r\nJ., Palacios, G. y Oliva, D. (2023). Guía para la revisión y el análisis\r\ndocumental: propuesta desde el enfoque investigativo",
+    [
+     "i",
+     {},
+     "."
+    ],
+    " ",
+    [
+     "i",
+     {},
+     "Revista Ra Ximhai"
+    ],
+    ", ",
+    [
+     "i",
+     {},
+     "19"
+    ],
+    "(1), 67-83. "
+   ],
+   [
+    "a",
+    {
+     "href": "https://doi.org/10.35197/rx.19.01.2023.03.jm"
+    },
+    [
+     "span",
+     {},
+     "https://doi.org/10.35197/rx.19.01.2023.03.jm"
+    ]
+   ],
+   [
+    "span",
+    {},
+    "\r\n"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Morcate,\r\nS., Morcate, F., & Muñoz, M. (2022). Regeneración urbana de espacios\r\nresiduales. Una propuesta para el canal La Risueña, Santiago de Cuba. ",
+    [
+     "i",
+     {},
+     "Arquitectura y Urbanismo"
+    ],
+    ", ",
+    [
+     "i",
+     {},
+     "XLIII "
+    ],
+    "(3), 92-104. "
+   ],
+   [
+    "a",
+    {
+     "href": "https://www.redalyc.org/articulo.oa?id=376875103008"
+    },
+    [
+     "span",
+     {},
+     "https://www.redalyc.org/articulo.oa?id=376875103008"
+    ]
+   ],
+   [
+    "span",
+    {}
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "en"
+   },
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    "Mutman, D. (2020). Urban\r\nregenerations: Tool, catalyzors and the outcomes. ",
+    [
+     "i",
+     {},
+     "Regenerating Urban Core. Publications in the Center for Urban and\r\nRegional Studies"
+    ],
+    " C, 72, 26-43. "
+   ],
+   [
+    "a",
+    {
+     "href": "https://www.academia.edu/11842643/Urban_Regeneration_Tools_Catalyzors_and_the_Outcomes"
+    },
+    [
+     "span",
+     {},
+     "https://www.academia.edu/11842643/Urban_Regeneration_Tools_Catalyzors_and_the_Outcomes"
+    ]
+   ],
+   [
+    "span",
+    {}
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "en"
+   },
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    "Nasr, A., Temsahi, O., & Sarhan,\r\nA. (2024). Reclaiming urban lost spaces around elevated urban linkages: the\r\ncase of El Sawy Cultural Wheel, Egypt. ",
+    [
+     "i",
+     {},
+     "Journal\r\nof Engineering and Applied Science"
+    ],
+    ", ",
+    [
+     "i",
+     {},
+     "71"
+    ],
+    "(1), 164. "
+   ],
+   [
+    "a",
+    {
+     "href": "https://doi.org/10.1186/s44147-024-00494-8"
+    },
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "https://doi.org/10.1186/s44147-024-00494-8"
+    ]
+   ],
+   [
+    "span",
+    {
+     "lang": "en"
+    }
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    "ONU Hábitat (2015). Habitat III\r\nissue papers: 11-public space. "
+   ],
+   [
+    "span",
+    {},
+    "Nueva York: Naciones\r\nUnidas. Consultado en abril de 2024. "
+   ],
+   [
+    "a",
+    {
+     "href": "https://unhabitat.org/issue-papers-and-policy-units/"
+    },
+    [
+     "span",
+     {},
+     "https://unhabitat.org/issue-papers-and-policy-units/"
+    ]
+   ],
+   [
+    "u",
+    {},
+    [
+     "span",
+     {},
+     " "
+    ]
+   ],
+   [
+    "span",
+    {}
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Orrillo,\r\nJ. (2023). ",
+    [
+     "i",
+     {},
+     "Gestión para las\r\nintervenciones en espacios públicos desatendidos. El caso de las comunas 9 y 11\r\nde la zona 4 del distrito de San Juan de Lurigancho en Lima Metropolitana "
+    ],
+    "[tesis\r\nde Maestría, Universitat Politècnica de Catalunya]. "
+   ],
+   [
+    "a",
+    {
+     "href": "http://hdl.handle.net/2117/398925"
+    },
+    [
+     "span",
+     {},
+     "http://hdl.handle.net/2117/398925"
+    ]
+   ],
+   [
+    "span",
+    {},
+    "\r\n"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "en"
+   },
+   [
+    "span",
+    {},
+    "Qi,\r\nJ., Mazumdar, S., & Vasconcelos, A. (2024). "
+   ],
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    "Understanding the Relationship between Urban Public\r\nSpace and Social Cohesion: A Systematic Review. ",
+    [
+     "i",
+     {},
+     "International Journal of Community Well-Being"
+    ],
+    ", 7, 155-212. "
+   ],
+   [
+    "a",
+    {
+     "href": "https://doi.org/10.1007/s42413-024-00204-5"
+    },
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "https://doi.org/10.1007/s42413-024-00204-5"
+    ]
+   ],
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    " "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Raffo,\r\nF. (2022, julio 25). El drama de vivir en la zona de Lima con menos área verde\r\ny parques. ",
+    [
+     "i",
+     {},
+     "El Comercio"
+    ],
+    ". "
+   ],
+   [
+    "a",
+    {
+     "href": "https://elcomercio.pe/pasa-en-la-calle/el-drama-de-vivir-en-la-zona-de-lima-con-menos-areas-verdes-y-parques-de-lima-video-dron-y-fotos-villa-maria-del-triunfo-calidad-del-aire-contaminacion-minam-noticia/?ref=ecr#google_vignette"
+    },
+    [
+     "span",
+     {},
+     "https://elcomercio.pe/pasa-en-la-calle/el-drama-de-vivir-en-la-zona-de-lima-con-menos-areas-verdes-y-parques-de-lima-video-dron-y-fotos-villa-maria-del-triunfo-calidad-del-aire-contaminacion-minam-noticia/?ref=ecr#google_vignette"
+    ]
+   ],
+   [
+    "span",
+    {}
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Reyes,\r\nE. (2022). ",
+    [
+     "i",
+     {},
+     "Metodología de la\r\ninvestigación científica. "
+    ]
+   ],
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    "Page Publishing Inc. "
+   ],
+   [
+    "a",
+    {
+     "href": "https://books.google.com.pe/books?id=SmdxEAAAQBAJ&printsec=frontcover&hl=es&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false"
+    },
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "https://books.google.com.pe/books?id=SmdxEAAAQBAJ&printsec=frontcover&hl=es&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false"
+    ]
+   ],
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    " "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Salas,\r\nR.",
+    [
+     "span",
+     {},
+     "  "
+    ],
+    "y Uscamayta C. (2024).",
+    [
+     "span",
+     {},
+     "  "
+    ],
+    [
+     "i",
+     {},
+     "Regeneración\r\nUrbana Para Mejorar la Calidad de Espacios Públicos del C.H. Mariscal Gamarra\r\nSegunda Etapa– Cusco"
+    ],
+    " [tesis de bachiller, Universidad Andina del Cusco].\r\nRepositorio digital "
+   ],
+   [
+    "a",
+    {
+     "href": "https://hdl.handle.net/20.500.12557/6339"
+    },
+    [
+     "span",
+     {},
+     "https://hdl.handle.net/20.500.12557/6339"
+    ]
+   ],
+   [
+    "span",
+    {},
+    "\r\n"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "en"
+   },
+   [
+    "span",
+    {},
+    "Shedid,\r\nM., & Hefnawy, N. (2021). "
+   ],
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    "An approach to convivial urban spaces: a comparison between users’ and\r\nexperts’ perception of convivial urban spaces. ",
+    [
+     "i",
+     {},
+     "Journal of Engineering and Applied Science"
+    ],
+    ". ",
+    [
+     "i",
+     {},
+     "68"
+    ],
+    ", 1-13 "
+   ],
+   [
+    "a",
+    {
+     "href": "https://doi.org/10.1186/s44147-021-00021-z"
+    },
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "https://doi.org/10.1186/s44147-021-00021-z"
+    ]
+   ],
+   [
+    "span",
+    {
+     "lang": "en"
+    }
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Tătar,\r\nA. (2022). Regeneración del espacio urbano en Rumania: un estudio de caso del\r\nmunicipio de Bistrita. ",
+    [
+     "i",
+     {},
+     "Revista de la\r\nSociedad Geográfica Búlgara"
+    ],
+    " 46: 43-50. "
+   ],
+   [
+    "a",
+    {
+     "href": "https://doi.org/10.3897/jbgs.e87816"
+    },
+    [
+     "span",
+     {},
+     "https://doi.org/10.3897/jbgs.e87816"
+    ]
+   ],
+   [
+    "span",
+    {}
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "UNACEM.\r\n(2022). ",
+    [
+     "i",
+     {},
+     "Mejoramos y rehabilitamos la\r\nPlaza de Armas de Virgen de Lourdes en Villa María del Triunfo."
+    ],
+    " UNACEM. "
+   ],
+   [
+    "a",
+    {
+     "href": "https://asociacionunacem.org/mejoran-y-rehabilitan-plaza-de-armas-de-virgen-de-lourdes-en-villa-maria-del-triunfo/"
+    },
+    [
+     "span",
+     {},
+     "https://asociacionunacem.org/mejoran-y-rehabilitan-plaza-de-armas-de-virgen-de-lourdes-en-villa-maria-del-triunfo/"
+    ]
+   ],
+   [
+    "u",
+    {},
+    [
+     "span",
+     {},
+     " "
+    ]
+   ],
+   [
+    "span",
+    {}
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Zumba,\r\nE., Ruiz, F., Cepeda, H., & Moreno, M. (2021). Reactivación de espacios\r\npúblicos desde la visión arquitectónica urbanística. ",
+    [
+     "i",
+     {},
+     "Arquitectura y Urbanismo"
+    ],
+    ", ",
+    [
+     "i",
+     {},
+     "XLII\r\n"
+    ],
+    "(1), 127-145. "
+   ],
+   [
+    "a",
+    {
+     "href": "https://www.redalyc.org/articulo.oa?id=376868445004"
+    },
+    [
+     "span",
+     {},
+     "https://www.redalyc.org/articulo.oa?id=376868445004"
+    ]
+   ],
+   [
+    "span",
+    {},
+    "\r\n"
+   ],
+   [
+    "span",
+    {}
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    " "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "i",
+    {},
+    [
+     "span",
+     {},
+     " "
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  "\r\n\r\n"
+ ]
+};

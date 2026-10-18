@@ -1,0 +1,5448 @@
+// Copia de textos/10-33679-rfn-v-e2416.json para abrir la aplicación sin servidor.
+(window.DATOS_REVISTAS = window.DATOS_REVISTAS || {})["textos/10-33679-rfn-v-e2416.json"] = {
+ "version": 1,
+ "recogido": "2026-10-18T11:34:22+00:00",
+ "doi": "10.33679/rfn.v.e2416",
+ "titulo": "Trabajo e identidad de músicos concertistas en el noreste de México<b></b>",
+ "revista": "2594-0260",
+ "numero": "v38-2026",
+ "licencia": {
+  "codigo": "by",
+  "nombre": "CC BY 4.0",
+  "nombre_completo": "Creative Commons Atribución 4.0 Internacional",
+  "url": "https://creativecommons.org/licenses/by/4.0/",
+  "url_legal": "https://creativecommons.org/licenses/by/4.0/legalcode.es"
+ },
+ "fuente": {
+  "url": "https://fronteranorte.colef.mx/index.php/fronteranorte/article/download/2416/2532",
+  "formato": "XML JATS",
+  "plataforma": "JATS",
+  "pagina": "https://fronteranorte.colef.mx/index.php/fronteranorte/article/view/2416"
+ },
+ "autores_cita": [
+  {
+   "apellidos": "Garza Barrera González",
+   "nombre_pila": "Mónica",
+   "nombre": null
+  },
+  {
+   "apellidos": "Martínez Silva",
+   "nombre_pila": "Eleocadio",
+   "nombre": null
+  }
+ ],
+ "avisos_derechos": [
+  "Derechos de autor 2025 Monica Garza Barrera González, Eleocadio  Martínez Silva",
+  "Licencia Derechos de autor 2025 Monica Garza Barrera González, Eleocadio Martínez Silva Esta obra está bajo una licencia internacional Creative Commons Atribución 4.0. Todos los textos publicados por Frontera Norte –sin excepción– se distribuyen amparados bajo la licencia Creative Commons CC BY 4.0, que permite a terceros utilizar, reproducir, distribuir, compartir, adaptar y/o modificar los textos, así como desarrollar obras derivadas a partir de las que fueron publicadas, en cualquier medio o formato. Esta licencia permite, de igual forma, el uso con fines comerciales, siempre que se cumplan los siguientes requisitos: (i) que se reconozca de forma expresa la autoría a su creador, (ii) que se mencione claramente que el texto se publicó por primera vez en Frontera Norte, incluyendo la ficha bibliográfica correspondiente: Autor/es. Año. Título del artículo, volumen (número), pp. DOI. No obstante lo anterior, los autores/as podrán realizar otros acuerdos contractuales independientes y adicionales para la distribución no exclusiva de la versión del artículo publicado en esta revista (por ejemplo: incluirlo en un repositorio institucional, página web personal; o bien publicarlo en un libro) siempre que sea sin fines comerciales o exclusivos, bajo los términos de la licencia Creative Commons CC BY 4.0, indicando claramente que el documento se publicó por primera vez en Frontera Norte e incluyendo la ficha bibliográfica. En consecuencia, los autores/as deberán otorgar previamente su autorización por escrito a la revista, a título gratuito e irrevocable, para el uso de sus textos en cualquier forma, lo que comprende la fijación, reproducción, comunicación pública, puesta a disposición, distribución y divulgación, a través del formato de “Carta-Autorización” debidamente requisitado y firmado, así como permitir la traducción y/o adaptación de sus textos y la creación de obras derivadas por la revista y/o por terceros, su publicación, comunicación pública, puesta a disposición y/o distribución, incluso con fines comerciales, acorde con la licencia Creative Commons CC BY 4.0. La “Carta-Autorización” debe cargarse en formato PDF en archivos complementarios dentro de la plataforma OJS. Este obra se encuentra bajo una licencia de Creative Commons Atribución CC BY.",
+  "This is an open-access article distributed under the terms of the Creative Commons Attribution License"
+ ],
+ "idioma_principal": "en",
+ "indice": [
+  {
+   "id": "t-seccion-1",
+   "nivel": 2,
+   "texto": "INTRODUCTION",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-2",
+   "nivel": 3,
+   "texto": "The Research Problem",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-3",
+   "nivel": 2,
+   "texto": "THEORETICAL FRAMEWORK",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-4",
+   "nivel": 3,
+   "texto": "The Life-Course Perspective",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-5",
+   "nivel": 3,
+   "texto": "Social Identity as a Process",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-6",
+   "nivel": 3,
+   "texto": "Methodological Strategy",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-7",
+   "nivel": 2,
+   "texto": "ANALYSIS AND DISCUSSION",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-8",
+   "nivel": 3,
+   "texto": "The Effect of Place: The City of Monterrey",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-9",
+   "nivel": 3,
+   "texto": "Schooling and the Identity of Concert Musicians",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-10",
+   "nivel": 3,
+   "texto": "School Initiation",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-11",
+   "nivel": 3,
+   "texto": "Formal Musical Education",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-12",
+   "nivel": 3,
+   "texto": "Reflexivity and Professional Musicians’ Identity",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-13",
+   "nivel": 3,
+   "texto": "Transition from School to Work",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-14",
+   "nivel": 3,
+   "texto": "Job Instability and Identity",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-15",
+   "nivel": 3,
+   "texto": "Negotiating Professional Identity",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-16",
+   "nivel": 3,
+   "texto": "From Performer to Entrepreneur",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-17",
+   "nivel": 3,
+   "texto": "Identity Trajectories of Musicians",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-18",
+   "nivel": 2,
+   "texto": "CONCLUSIONS",
+   "lang": null
+  }
+ ],
+ "vueltas": {
+  "t-B30": "t-llamada-B30-1",
+  "t-B17": "t-llamada-B17-1",
+  "t-B25": "t-llamada-B25-1",
+  "t-B3": "t-llamada-B3-1",
+  "t-B31": "t-llamada-B31-1",
+  "t-B21": "t-llamada-B21-1",
+  "t-fn1": "t-llamada-fn1-1",
+  "t-B14": "t-llamada-B14-1",
+  "t-B22": "t-llamada-B22-1",
+  "t-B26": "t-llamada-B26-1",
+  "t-B23": "t-llamada-B23-1",
+  "t-fn2": "t-llamada-fn2-1",
+  "t-B19": "t-llamada-B19-1",
+  "t-B10": "t-llamada-B10-1",
+  "t-B34": "t-llamada-B34-1",
+  "t-B11": "t-llamada-B11-1",
+  "t-B18": "t-llamada-B18-1",
+  "t-B33": "t-llamada-B33-1",
+  "t-B2": "t-llamada-B2-1",
+  "t-B28": "t-llamada-B28-1",
+  "t-B16": "t-llamada-B16-1",
+  "t-B32": "t-llamada-B32-1",
+  "t-B15": "t-llamada-B15-1",
+  "t-B24": "t-llamada-B24-1",
+  "t-B29": "t-llamada-B29-1",
+  "t-B7": "t-llamada-B7-1",
+  "t-B35": "t-llamada-B35-1",
+  "t-B8": "t-llamada-B8-1",
+  "t-B9": "t-llamada-B9-1",
+  "t-B4": "t-llamada-B4-1",
+  "t-B6": "t-llamada-B6-1",
+  "t-B13": "t-llamada-B13-1",
+  "t-fn3": "t-llamada-fn3-1",
+  "t-B1": "t-llamada-B1-1",
+  "t-fn4": "t-llamada-fn4-1",
+  "t-B27": "t-llamada-B27-1",
+  "t-B12": "t-llamada-B12-1",
+  "t-B20": "t-llamada-B20-1",
+  "t-B5": "t-llamada-B5-1",
+  "t-fn5": "t-llamada-fn5-1",
+  "t-fn6": "t-llamada-fn6-1"
+ },
+ "contenido": [
+  [
+   "section",
+   {},
+   "\n         ",
+   [
+    "h2",
+    {
+     "id": "t-seccion-1"
+    },
+    "INTRODUCTION"
+   ],
+   "\n      ",
+   [
+    "p",
+    {},
+    "\n         The analysis of the identity trajectories of the concert musicians examined in this study is grounded in several assumptions. The primary assumption, which also represents the study’s main contribution in relation to previous research (\n         ",
+    [
+     "a",
+     {
+      "href": "#t-B30",
+      "id": "t-llamada-B30-1"
+     },
+     "Ulloa Pizarro, 2007"
+    ],
+    "\n         ; \n         ",
+    [
+     "a",
+     {
+      "href": "#t-B17",
+      "id": "t-llamada-B17-1"
+     },
+     "Guadarrama, 2019"
+    ],
+    "\n         ; \n         ",
+    [
+     "a",
+     {
+      "href": "#t-B25",
+      "id": "t-llamada-B25-1"
+     },
+     "Morales Cabrera, 2021"
+    ],
+    "\n         ), underscores the relevance of Monterrey’s spatial dimension and the effect of place (\n         ",
+    [
+     "a",
+     {
+      "href": "#t-B3",
+      "id": "t-llamada-B3-1"
+     },
+     "Bourdieu, 1993"
+    ],
+    "\n         ) in examining the production, distribution, and consumption of artistic objects. This perspective makes it possible to understand how these practices are articulated with the accumulation of capital within a social space (\n         ",
+    [
+     "a",
+     {
+      "href": "#t-B31",
+      "id": "t-llamada-B31-1"
+     },
+     "Zúñiga, 1993"
+    ],
+    "\n         ). The second assumption concerns the presence of a structural component, namely a labor market marked by instability and precariousness, characteristics of contemporary societies, as well as musicians’ capacity for agency in navigating these contingent work conditions and sustaining a professional identity.\n      "
+   ],
+   "\n      ",
+   [
+    "p",
+    {},
+    "\n         The final assumption underlying this inquiry concerns the institutionalization of musical activity as a profession, a process derived from the sociocultural effects produced by transformations in work and other processes of modernization in contemporary societies (\n         ",
+    [
+     "a",
+     {
+      "href": "#t-B21",
+      "id": "t-llamada-B21-1"
+     },
+     "Juárez Flores, 2018"
+    ],
+    "\n         ).\n         ",
+    [
+     "sup",
+     {},
+     "\n            ",
+     [
+      "a",
+      {
+       "href": "#t-fn1",
+       "id": "t-llamada-fn1-1"
+      },
+      "3"
+     ],
+     "\n         "
+    ],
+    "\n         This recognition shapes musicians’ life and professional trajectories, particularly in the construction of a professional identity linked to participation in the labor market.\n      "
+   ],
+   "\n      ",
+   [
+    "p",
+    {},
+    "The decision to focus on concert musicians, rather than on other professional groups within the musical field that constitute the majority in northeastern culture, is based solely on the fact that this group makes it possible to make observable the research questions guiding the present study. This choice does not diminish other artistic sensibilities that have flourished in the Northeastern region, particularly in Monterrey. Instead, it acknowledges the historical existence of adverse conditions for the development of concert music and other arts in that city."
+   ],
+   "\n      ",
+   [
+    "section",
+    {},
+    "\n         ",
+    [
+     "h3",
+     {
+      "id": "t-seccion-2"
+     },
+     "The Research Problem"
+    ],
+    "\n         ",
+    [
+     "p",
+     {},
+     "The sociological study of arts practitioners has received limited attention in Mexico. A review of the existing literature identified two studies focused on dance practitioners, two on professional concert musicians, and one examining musicians from various genres. Despite their differing analytical approaches, these investigations share, to varying degrees, reflections on the challenges faced by arts professionals in the labor market and in the construction of their professional identities."
+    ],
+    "\n         ",
+    [
+     "p",
+     {},
+     "\n            In the case of studies on dance professionals, \n            ",
+     [
+      "a",
+      {
+       "href": "#t-B21",
+       "id": "t-llamada-B21-2"
+      },
+      "Juárez Flores (2018)"
+     ],
+     "\n            analyzes the processes through which the identities of contemporary dance artists are configured in the cities of Monterrey and Tijuana. The study emphasizes the sociocultural factors that intervene in, and generate tensions around, the construction of forms of representation linked to personal aspirations and specific professional conditions, as well as the types of identifications that emerge from these dynamics. It examines the tension between vocation and the conditions inherent to contemporary dance as a profession, successfully integrating the experiences of female and male dancers as processes of identification through which individuals, by organizing and managing their own experiences, construct meanings regarding their place in the world.\n         "
+    ],
+    "\n         ",
+    [
+     "p",
+     {},
+     "\n            A second study on dance professionals is that of \n            ",
+     [
+      "a",
+      {
+       "href": "#t-B14",
+       "id": "t-llamada-B14-1"
+      },
+      "Garduño Bello (2019)"
+     ],
+     "\n            , which, drawing on academic training in Mexico City, identifies a typology of work trajectories within academia as a professional sphere. These trajectories are shaped both by institutional contexts and by the biographies of the interviewees, whether following the completion of their performance careers, concurrently with their activity as performers, or after choosing an academic path over a performance-focused one. Garduño Bello’s study is particularly relevant to the context of the present research due to its analytical approach, offering insights into the institutional factors and life-course elements that influence individuals’ capacity for agency in developing a career within the academic profession.\n         "
+    ],
+    "\n         ",
+    [
+     "p",
+     {},
+     "\n            Professional concert musicians in Mexico have been studied from two main perspectives: gender studies, exemplified by \n            ",
+     [
+      "a",
+      {
+       "href": "#t-B30",
+       "id": "t-llamada-B30-2"
+      },
+      "Ulloa Pizarro (2007)"
+     ],
+     "\n            , and the sociology of work, as in \n            ",
+     [
+      "a",
+      {
+       "href": "#t-B17",
+       "id": "t-llamada-B17-2"
+      },
+      "Guadarrama (2019)"
+     ],
+     "\n            and \n            ",
+     [
+      "a",
+      {
+       "href": "#t-B25",
+       "id": "t-llamada-B25-2"
+      },
+      "Morales Cabrera (2021)"
+     ],
+     "\n            . While Morales Cabrera addresses the broader spectrum of music workers, including concert musicians, her work contributes to understanding processes of identity formation. \n            ",
+     [
+      "a",
+      {
+       "href": "#t-B17",
+       "id": "t-llamada-B17-3"
+      },
+      "Guadarrama (2019)"
+     ],
+     "\n            , in contrast, examines the social conditions of musicians by analyzing their identities, working conditions, and the institutions that structure, organize, and hierarchize their professional field in Mexico, with particular focus on two cities: the border city of Tijuana and Mexico City.\n         "
+    ],
+    "\n         ",
+    [
+     "p",
+     {},
+     "\n            Her study provides a general overview of the social conditions of professional musicians through an analysis of their career trajectories. The findings indicate that the majority of professional musicians are men, that their numbers in Mexico have increased significantly in recent years, and that a growing proportion are engaged in other activities, whether related to music or not. The study also reveals that musicians’ salaries are below the national average for other professionals and provide fewer benefits, that approximately 30% of musicians are unemployed, and a similar proportion work in non-musical occupations. Among those employed, half are engaged in teaching (\n            ",
+     [
+      "a",
+      {
+       "href": "#t-B17",
+       "id": "t-llamada-B17-4"
+      },
+      "Guadarrama, 2019"
+     ],
+     "\n            ).\n         "
+    ],
+    "\n         ",
+    [
+     "p",
+     {},
+     "\n            Musicians’ engagement in multiple jobs functions either as a survival strategy in response to labor market instability or as a means of taking advantage of diverse economic opportunities. According to \n            ",
+     [
+      "a",
+      {
+       "href": "#t-B17",
+       "id": "t-llamada-B17-5"
+      },
+      "Guadarrama (2019)"
+     ],
+     "\n            , this pattern is closely connected to their overall professional situation, which is balanced between a primary occupation and an “unlimited” number of secondary jobs, enabling them to pursue their professional aspirations within a more stable and coherent work environment.\n         "
+    ],
+    "\n         ",
+    [
+     "p",
+     {},
+     "\n            ",
+     [
+      "a",
+      {
+       "href": "#t-B30",
+       "id": "t-llamada-B30-3"
+      },
+      "Ulloa Pizarro (2007)"
+     ],
+     "\n            , adopting a gender perspective, examines the professional lives of women in concert music in Mexico City, emphasizing the opportunities and challenges they encounter in their careers. The study shows that the professional development of the participants varies according to musical specialization, cohort, and historical context, while also being strongly shaped by cultural policies promoted by the Mexican State. Ulloa Pizarro found that the cultural sector is regarded by the federal government as a “subsector” of the national economy and consequently receives limited support as a labor market. As a result, women working in music must navigate informal employment, unemployment, and, more broadly, the deinstitutionalization, deregulation, and flexibilization of their professional environment.\n         "
+    ],
+    "\n         ",
+    [
+     "p",
+     {},
+     "\n            ",
+     [
+      "a",
+      {
+       "href": "#t-B25",
+       "id": "t-llamada-B25-3"
+      },
+      "Morales Cabrera (2021)"
+     ],
+     "\n            seeks to uncover the roots of labor precariousness among musicians by employing a configurational and structural approach to examine the experiences of those working in the city of Puebla, highlighting the tension between sustaining a professional identity, navigating labor instability, and ensuring survival within the music industry. The relevance of Morales Cabrera’s study for the present research lies in its illustration of how music workers can resist both precarious conditions and the pressures of the global capitalist economy.\n         "
+    ],
+    "\n         ",
+    [
+     "p",
+     {},
+     "This article makes three key contributions regarding the professional trajectories of concert musicians. First, it advances understanding of the labor conditions of career musicians by providing regional data that has not previously been studied, specifically in Monterrey. Second, it introduces a novel analytical perspective on the effect of place, demonstrating how Monterrey’s economic structure shapes sociocultural relationships that, in turn, influence the professional opportunities available to concert musicians. Finally, it contributes to the discussion by offering an analysis of how musicians negotiate their professional identity trajectories within a contingent labor market."
+    ],
+    "\n         ",
+    [
+     "p",
+     {},
+     "\n            Musical activity as a profession, like other artistic pursuits, is shaped by broader and significant debates. As \n            ",
+     [
+      "a",
+      {
+       "href": "#t-B21",
+       "id": "t-llamada-B21-3"
+      },
+      "Juárez Flores (2018)"
+     ],
+     "\n            observes in her study on the professionalization of dance in Mexico, two dimensions are particularly relevant: work as a structuring element of society and the professionalization of artistic activity. When considered together, these dimensions help define the professional identity of the musicians examined in this study.\n         "
+    ],
+    "\n         ",
+    [
+     "p",
+     {},
+     "\n            The classical conception of work is rooted in Marxist theory. \n            ",
+     [
+      "a",
+      {
+       "href": "#t-B22",
+       "id": "t-llamada-B22-1"
+      },
+      "Marx (2006)"
+     ],
+     "\n            approaches work from a relational perspective between humans and nature, in which labor not only performs, regulates, and controls the exchange of materials with the natural environment but also transforms human nature itself (\n            ",
+     [
+      "a",
+      {
+       "href": "#t-B26",
+       "id": "t-llamada-B26-1"
+      },
+      "Muñoz Flores, 2017"
+     ],
+     "\n            ). In the process of work, the activity of the acting subject is objectified in the product, gradually altering the world and the natural environment, which becomes increasingly shaped by cultural processes. For \n            ",
+     [
+      "a",
+      {
+       "href": "#t-B22",
+       "id": "t-llamada-B22-2"
+      },
+      "Marx (2006)"
+     ],
+     "\n            , as interpreted by \n            ",
+     [
+      "a",
+      {
+       "href": "#t-B26",
+       "id": "t-llamada-B26-2"
+      },
+      "Muñoz Flores (2017)"
+     ],
+     "\n            , the practical construction of an objective world and the manipulation of inorganic nature constitute an affirmation of humans as conscious generic beings. In this sense, work, in addition to serving as a prerequisite for human life through the exchange between labor and nature, functions as a form of free self-expression, enabling humans to create their world and develop interpretive frameworks.\n         "
+    ],
+    "\n         ",
+    [
+     "p",
+     {},
+     "\n            It is precisely work as a form of individual expression that allows it to be connected to the labor universe of artistic practice (Noguera, 2000, cited in \n            ",
+     [
+      "a",
+      {
+       "href": "#t-B21",
+       "id": "t-llamada-B21-4"
+      },
+      "Juárez Flores, 2018"
+     ],
+     "\n            ). Building on this idea, \n            ",
+     [
+      "a",
+      {
+       "href": "#t-B25",
+       "id": "t-llamada-B25-4"
+      },
+      "Morales Cabrera (2021)"
+     ],
+     "\n            conceptualizes the musician as a music worker, a recategorization that incorporates economic, social, political, and cultural dimensions, reflecting the inherently social nature of labor, which produces commodities that satisfy both subjective and symbolic needs. In \n            ",
+     [
+      "a",
+      {
+       "href": "#t-B26",
+       "id": "t-llamada-B26-3"
+      },
+      "Muñoz Flores’ (2017)"
+     ],
+     "\n            interpretation of Marx, the work process, by situating humans in relation to one another, enables the sharing of collective experience and grants workers the capacity to shape and transform the social sphere. In the case of concert musicians, who are the focus of this study, the experience of work is therefore inherently collective.\n         "
+    ],
+    "\n         ",
+    [
+     "p",
+     {},
+     "\n            Marx’s notion of work as a labor-nature relationship, developed for a nineteenth-century industrial society, became more complex as society diversified, yet it remains important as a fundamental means of social connection and individual fulfillment (\n            ",
+     [
+      "a",
+      {
+       "href": "#t-B23",
+       "id": "t-llamada-B23-1"
+      },
+      "Meda, 1996"
+     ],
+     "\n            ). Although work has lost some significance in the construction of individual and collective meaning, because experiences encountered in the workplace and potential conflicts arising from them are shaped, disrupted, and differentiated by interpretations acquired both within and outside of work, it continues to hold relevance relative to other spheres of the social world in specific sociohistorical contexts.\n            ",
+     [
+      "sup",
+      {},
+      "\n               ",
+      [
+       "a",
+       {
+        "href": "#t-fn2",
+        "id": "t-llamada-fn2-1"
+       },
+       "4"
+      ],
+      "\n            "
+     ],
+     "\n         "
+    ],
+    "\n         ",
+    [
+     "p",
+     {},
+     "\n            Another essential aspect in framing the research problem is the notion of the musician’s profession. A central question is whether the practice of the arts can be considered a profession, a matter that is particularly relevant to the discussion of identity addressed here (\n            ",
+     [
+      "a",
+      {
+       "href": "#t-B21",
+       "id": "t-llamada-B21-5"
+      },
+      "Juárez Flores, 2018"
+     ],
+     "\n            ). In the case of concert musicians, it is assumed, though not without tension, that their work constitutes a profession, given that it takes on an institutional form through the credentialing of professional degrees. The key issue is the social valuation assigned to this type of profession in contemporary societies, specifically within the industrial context of Monterrey. In other words, drawing on \n            ",
+     [
+      "a",
+      {
+       "href": "#t-B19",
+       "id": "t-llamada-B19-1"
+      },
+      "Honneth (2010)"
+     ],
+     "\n            , the way different social groups are recognized influences the valuation of their activities, qualities, and contributions, and shapes their access to the distribution of available material resources.\n         "
+    ],
+    "\n         ",
+    [
+     "p",
+     {},
+     "\n            What is known about the social valuation of professions, at least in the context of Mexico, is that rising educational attainment among the population, combined with the economic system’s inability to generate a sufficient supply of high-skilled jobs, has led to a general devaluation of formal education and credentials (\n            ",
+     [
+      "a",
+      {
+       "href": "#t-B10",
+       "id": "t-llamada-B10-1"
+      },
+      "De Ibarrolla, 2009"
+     ],
+     "\n            ). This situation has increasingly hindered higher education graduates in securing employment that aligns with their academic qualifications (Solís, 2007). In the case of arts professions, in a society such as Monterrey, which operates within a global neoliberal capitalist model, there is a well-founded concern that their recognition and prestige are relegated to the lower levels of professional hierarchies, being perceived as having lesser utility or value to society (\n            ",
+     [
+      "a",
+      {
+       "href": "#t-B21",
+       "id": "t-llamada-B21-6"
+      },
+      "Juárez Flores, 2018"
+     ],
+     "\n            ; \n            ",
+     [
+      "a",
+      {
+       "href": "#t-B25",
+       "id": "t-llamada-B25-5"
+      },
+      "Morales Cabrera, 2021"
+     ],
+     "\n            ).\n         "
+    ],
+    "\n         ",
+    [
+     "p",
+     {},
+     "\n            It is therefore essential to understand how the professional identity trajectories of concert musicians develop within a context of specific social relations, such as those in Monterrey, where productivist logics prevail and activities and professions are often evaluated according to practical or “useful” criteria. The present study aims to expand knowledge of these trajectories by examining the efforts musicians make to construct and sustain a professional identity. To this end, the study focuses on four areas: \n            ",
+     [
+      "i",
+      {},
+      "1)"
+     ],
+     "\n            a detailed analysis of the labor market available to career musicians in Monterrey; \n            ",
+     [
+      "i",
+      {},
+      "2)"
+     ],
+     "\n             the demands of formal education; \n            ",
+     [
+      "i",
+      {},
+      "3)"
+     ],
+     "\n             the transition from school to professional work; and \n            ",
+     [
+      "i",
+      {},
+      "4)"
+     ],
+     "\n             the musicians’ capacity for agency in navigating a contingent labor market.\n         "
+    ],
+    "\n         ",
+    [
+     "p",
+     {},
+     "\n            The study of concert musicians’ identity trajectories adopts an analytical perspective that rejects the notion of identity as fixed or permanent. Instead, it draws on approaches that understand identity as a process under construction, shaped by events occurring over the life courses of individuals and collectives within specific historical contexts (\n            ",
+     [
+      "a",
+      {
+       "href": "#t-B34",
+       "id": "t-llamada-B34-1"
+      },
+      "Dubet & Zapata, 1989"
+     ],
+     "\n            ; \n            ",
+     [
+      "a",
+      {
+       "href": "#t-B11",
+       "id": "t-llamada-B11-1"
+      },
+      "Dubar & Tripier, 1998"
+     ],
+     "\n            ). Professional identity is defined as the efforts and skills individuals employ to achieve alignment between their profession and employment, that is, a correspondence between one’s field of study and occupational practice. Accordingly, this research addresses the following questions: What sociocultural relationships shape the labor opportunities of professional concert musicians in Monterrey, and how do they maintain a professional identity within a contingent labor market?\n         "
+    ],
+    "\n         ",
+    [
+     "p",
+     {},
+     "\n            To address the research questions, the study is guided by two hypotheses. The first, drawing on \n            ",
+     [
+      "a",
+      {
+       "href": "#t-B31",
+       "id": "t-llamada-B31-2"
+      },
+      "Zúñiga (1993)"
+     ],
+     "\n            , proposes that Monterrey’s economic structure has shaped sociocultural relationships in ways that hinder artistic and cultural life in the city. The second, following \n            ",
+     [
+      "a",
+      {
+       "href": "#t-B18",
+       "id": "t-llamada-B18-1"
+      },
+      "Heinz (2003)"
+     ],
+     "\n            , suggests that the musicians in this study navigate the music labor market by developing self-reflexive strategies to adapt to changing work conditions. Together, these hypotheses indicate that maintaining a professional identity in concert music in Monterrey involves a complex process requiring personal assertion, skill, and access to employment opportunities.\n         "
+    ],
+    "\n      "
+   ],
+   "\n      "
+  ],
+  [
+   "section",
+   {},
+   "\n         ",
+   [
+    "h2",
+    {
+     "id": "t-seccion-3"
+    },
+    "THEORETICAL FRAMEWORK"
+   ],
+   "\n         ",
+   [
+    "p",
+    {},
+    "\n            Sociological analyses often reduce producers to broader, anonymous instances of differentiation, such as the market, habitus, the (artistic) field, or social classes, treating artistic activity as merely the product of objective conditions, as \n            ",
+    [
+     "a",
+     {
+      "href": "#t-B33",
+      "id": "t-llamada-B33-1"
+     },
+     "Becker (1982)"
+    ],
+    "\n            suggests. This study seeks to move beyond such limitations by posing a central question: What does it mean to make concert music in Monterrey? To explore this, the focus is placed on the social experiences of musicians.\n         "
+   ],
+   "\n         ",
+   [
+    "p",
+    {},
+    "\n            To examine the identity trajectories of professional concert musicians, two analytical approaches are employed. The first is \n            ",
+    [
+     "a",
+     {
+      "href": "#t-B18",
+      "id": "t-llamada-B18-2"
+     },
+     "Heinz’s (2003)"
+    ],
+    "\n            life-course perspective, which posits that an individual’s work life course is co-constructed by social agents through pathways and careers shaped by structural changes in their societies. The second draws on the concept of social identity from French sociology, which understands identity as a process, that is, as something not given a priori (\n            ",
+    [
+     "a",
+     {
+      "href": "#t-B34",
+      "id": "t-llamada-B34-2"
+     },
+     "Dubet & Zapata, 1989"
+    ],
+    "\n            ; \n            ",
+    [
+     "a",
+     {
+      "href": "#t-B11",
+      "id": "t-llamada-B11-2"
+     },
+     "Dubar & Tripier, 1998"
+    ],
+    "\n            ). Methodologically, the research adopts a qualitative approach, using the biographical method proposed by \n            ",
+    [
+     "a",
+     {
+      "href": "#t-B2",
+      "id": "t-llamada-B2-1"
+     },
+     "Bertaux (1981)"
+    ],
+    "\n            .\n         "
+   ],
+   "\n         ",
+   [
+    "section",
+    {},
+    "\n            ",
+    [
+     "h3",
+     {
+      "id": "t-seccion-4"
+     },
+     "\n               ",
+     [
+      "i",
+      {},
+      "The Life-Course Perspective"
+     ],
+     "\n            "
+    ],
+    "\n            ",
+    [
+     "p",
+     {},
+     "\n               ",
+     [
+      "a",
+      {
+       "href": "#t-B18",
+       "id": "t-llamada-B18-3"
+      },
+      "Heinz’s (2003)"
+     ],
+     "\n               conceptualization of contemporary society, characterized by a deregulated and unstable labor market, aligns closely with the social context of Mexico, and particularly Monterrey, where the musicians in this study operate. Heinz describes the contemporary labor market as contingent, reflecting its volatile and deregulated nature, which generates insecurity in ongoing professions and makes stable employment uncertain. This labor instability is a feature of postindustrial society, marked by the predominance of the service sector over manufacturing and agriculture, increasing credentialization driven by the expansion of higher education, and growing female participation in the workforce, all of which influence the trajectory of individuals’ working lives.\n            "
+    ],
+    "\n            ",
+    [
+     "p",
+     {},
+     "\n               For \n               ",
+     [
+      "a",
+      {
+       "href": "#t-B18",
+       "id": "t-llamada-B18-4"
+      },
+      "Heinz (2003)"
+     ],
+     "\n               , in a postindustrial society, mobility within the labor market depends not only on individual experiences and skills but also on the expansion or contraction of job openings within companies, as well as on the size and maturity of those companies. Entry into the labor market thus becomes a complex process requiring personal initiative, skill, and access to opportunities, effectively transforming it into a more individualized process of self-socialization. During periods of social transformation, self-socialization, which involves the development of self-reflexive strategies to adapt to changing work conditions and disruptions in one’s life course, becomes a dominant pattern, particularly for labor market entry (\n               ",
+     [
+      "a",
+      {
+       "href": "#t-B18",
+       "id": "t-llamada-B18-5"
+      },
+      "Heinz, 2003"
+     ],
+     "\n               ).\n            "
+    ],
+    "\n            ",
+    [
+     "p",
+     {},
+     "Heinz (2003) further argues that the various forms of non-standardized work present new challenges and obstacles to building a continuous career. They require individuals to develop competencies for negotiating short-term contracts and for alternating between periods of full-time work, part-time work, underemployment, and unemployment. These conditions lead to frequent negotiations and more flexible work identities, processes that accelerate especially in countries with highly deregulated labor markets."
+    ],
+    "\n         "
+   ],
+   "\n         ",
+   [
+    "section",
+    {},
+    "\n            ",
+    [
+     "h3",
+     {
+      "id": "t-seccion-5"
+     },
+     "\n               ",
+     [
+      "i",
+      {},
+      "Social Identity as a Process"
+     ],
+     "\n            "
+    ],
+    "\n            ",
+    [
+     "p",
+     {},
+     "\n               The broader theoretical debate on identity has focused on the tension between homogenization and fragmentation. The first, integrationist approach frames social conditioning within Parsonsian functional structuralism, interpreting it in terms of social and cultural determinism (\n               ",
+     [
+      "a",
+      {
+       "href": "#t-B28",
+       "id": "t-llamada-B28-1"
+      },
+      "Parsons, 1968"
+     ],
+     "\n               ). Within this perspective, socialization is inseparable from its effectiveness (\n               ",
+     [
+      "a",
+      {
+       "href": "#t-B34",
+       "id": "t-llamada-B34-3"
+      },
+      "Dubet & Zapata, 1989"
+     ],
+     "\n               ), which results in the exclusion of individual subjectivity, as the actor internalizes the roles and statuses imposed or acquired and aligns their personality accordingly. The second perspective, found in symbolic interactionism, treats identity, characterized as multiple and variable (\n               ",
+     [
+      "a",
+      {
+       "href": "#t-B16",
+       "id": "t-llamada-B16-1"
+      },
+      "Goffman, 1993"
+     ],
+     "\n               ), as the outcome of a negotiation process that unfolds through everyday interactions, giving identity a fluid and multifaceted character.\n            "
+    ],
+    "\n            ",
+    [
+     "p",
+     {},
+     "\n               ",
+     [
+      "a",
+      {
+       "href": "#t-B32",
+       "id": "t-llamada-B32-1"
+      },
+      "Bauman’s (2010)"
+     ],
+     "\n               contribution to the discussion of identity comes from a postmodern perspective. He describes contemporary society as characterized by what he calls liquid modernity, a condition that affects the construction of identities in increasingly changeable societies. According to Bauman, identity is constructed in a highly fluid manner, making it difficult to fully rely on the identities that individuals claim to hold. Consequently, everyday life is marked by ambiguity, uncertainty, and contingency, which renders sexual, cultural, and social identities unstable and transient (\n               ",
+     [
+      "a",
+      {
+       "href": "#t-B32",
+       "id": "t-llamada-B32-2"
+      },
+      "Bauman, 2010"
+     ],
+     "\n               ).\n            "
+    ],
+    "\n            ",
+    [
+     "p",
+     {},
+     "\n               An effort to move beyond the debate between the homogenization and fragmentation of identities, which guides the present study of concert musicians, is found in French sociology. \n               ",
+     [
+      "a",
+      {
+       "href": "#t-B34",
+       "id": "t-llamada-B34-4"
+      },
+      "Dubet and Zapata (1989)"
+     ],
+     "\n               emphasizes the importance of not confining the concept to any single perspective: identity can be understood as integration, as a strategic resource for action, or as conviction and commitment. From this viewpoint, actors share these identities to varying degrees of intensity. \n               ",
+     [
+      "a",
+      {
+       "href": "#t-B11",
+       "id": "t-llamada-B11-3"
+      },
+      "Dubar and Tripier (1998)"
+     ],
+     "\n               proposes examining the relationships between individuals and social institutions by analyzing the interactions between subjective, real identity and objective, virtual identity. This refers to the relationship an individual establishes with themselves and with others, as well as the connection between inherited and aspired identities, all of which are embedded within the contexts in which individuals operate.\n            "
+    ],
+    "\n            ",
+    [
+     "p",
+     {},
+     "\n               The contributions of Dubet and Zapata, and \n               ",
+     [
+      "a",
+      {
+       "href": "#t-B11",
+       "id": "t-llamada-B11-4"
+      },
+      "Dubar and Tripier (1998)"
+     ],
+     "\n               offer a dynamic concept of identity, with significant capacity for variation, internal rearrangement, and modulation. This framework allows the study of concert musicians’ identities as an active and complex process, historically situated and shaped by conflicts. These identities are constructed through the interweaving of past, present, and future experiences. \n               ",
+     [
+      "a",
+      {
+       "href": "#t-B19",
+       "id": "t-llamada-B19-2"
+      },
+      "Honneth’s (2010)"
+     ],
+     "\n               framework further enriches the analysis of identities by considering recognition as a manifestation of social acceptance, inclusion, and integration, making it both a fundamental necessity for individuals and a precondition for social life.\n            "
+    ],
+    "\n            ",
+    [
+     "p",
+     {},
+     "\n               Finally, with the aim of characterizing the transformations experienced by musicians, \n               ",
+     [
+      "a",
+      {
+       "href": "#t-B25",
+       "id": "t-llamada-B25-6"
+      },
+      "Morales Cabrera (2021, p. 139)"
+     ],
+     "\n               makes an important contribution regarding their reconfiguration within the context of global capitalism. She describes a recategorization of the musician, understood as a creative individual and a producer of subjectivities, into a music worker, situated within new imaginaries imposed by cultural hegemony, including the roles of innovator and entrepreneur.\n            "
+    ],
+    "\n         "
+   ],
+   "\n         ",
+   [
+    "section",
+    {},
+    "\n            ",
+    [
+     "h3",
+     {
+      "id": "t-seccion-6"
+     },
+     "\n               ",
+     [
+      "i",
+      {},
+      "Methodological Strategy"
+     ],
+     "\n            "
+    ],
+    "\n            ",
+    [
+     "p",
+     {},
+     "\n               The study followed the biographical methodology proposed by \n               ",
+     [
+      "a",
+      {
+       "href": "#t-B2",
+       "id": "t-llamada-B2-2"
+      },
+      "Bertaux (1981)"
+     ],
+     "\n               to construct a socio-structural narrative. Using the life story approach of the biographical method, it was possible to reconstruct the efforts of musicians to maintain a professional identity in contingent social contexts. For \n               ",
+     [
+      "a",
+      {
+       "href": "#t-B2",
+       "id": "t-llamada-B2-3"
+      },
+      "Bertaux (1981)"
+     ],
+     "\n               , life stories provide access to subjective reality, allowing the construction of descriptions and interpretations that approximate human knowledge and serve as tools to reintroduce the dimension of time and the multiple temporalities of activities.\n            "
+    ],
+    "\n            ",
+    [
+     "p",
+     {},
+     "\n               For the present study, conducted between 2021 and 2023, 29 biographical interviews were collected, varying in age at musical initiation, gender, and family histories, including parents’ occupations, educational levels, and musical training, with the aim of constructing a sample with the greatest possible variability. In designing the interviews, particular emphasis was placed on the beginning and development of the participants’ professional trajectories, and a grounded theory approach to interviews was employed (\n               ",
+     [
+      "a",
+      {
+       "href": "#t-B15",
+       "id": "t-llamada-B15-1"
+      },
+      "Glaser & Strauss, 1967"
+     ],
+     "\n               ). Rather than extracting a systematic sample in advance based on a specific design, the sample of musicians was constructed in two stages: initial pilot interviews were conducted, followed by a larger set of interviews until a total of 29 was reached. While the central focus was on analyzing the musicians’ identity-related career trajectories, information on family background, formal education, and labor market entry was also collected to highlight life trajectories shaped by diverse circumstances and the ways in which participants responded to them.\n            "
+    ],
+    "\n            ",
+    [
+     "p",
+     {},
+     "The pilot interviews were transcribed and initially analyzed from theoretical perspectives on labor precariousness. Upon subsequent review, however, they were examined from a new perspective using a new set of theoretical categories. The information was manually organized through the construction of family codes, which allowed for the reconstruction of both common and differentiated narratives. For analysis, the 29 biographical experiences were treated as a single analytical group, based on their shared experiences of musical training and professional work. This approach may introduce potential bias by not accounting for class and gender differences, but it is justified by other methodological gains. In addition, this decision reflects the fact that the study’s sample is not large enough to support reliable inferences between groups, making a homogeneous treatment of the participants’ experiences more appropriate."
+    ],
+    "\n         "
+   ],
+   "\n      "
+  ],
+  [
+   "section",
+   {},
+   "\n         ",
+   [
+    "h2",
+    {
+     "id": "t-seccion-7"
+    },
+    "ANALYSIS AND DISCUSSION"
+   ],
+   "\n         ",
+   [
+    "section",
+    {},
+    "\n            ",
+    [
+     "h3",
+     {
+      "id": "t-seccion-8"
+     },
+     "\n               ",
+     [
+      "i",
+      {},
+      "The Effect of Place: The City of Monterrey"
+     ],
+     "\n            "
+    ],
+    "\n            ",
+    [
+     "p",
+     {},
+     "\n               Accounting for the efforts made by professional concert musicians to begin a musical career and to sustain themselves in a contingent labor market requires situating their life trajectories within a broad structural framework, as recommended by \n               ",
+     [
+      "a",
+      {
+       "href": "#t-B24",
+       "id": "t-llamada-B24-1"
+      },
+      "Mills (1964)"
+     ],
+     "\n               in \n               ",
+     [
+      "i",
+      {},
+      "La imaginación sociológica"
+     ],
+     "\n               (The sociological imagination), which emphasizes the interconnection of biography and history. In his reading of Mills, \n               ",
+     [
+      "a",
+      {
+       "href": "#t-B29",
+       "id": "t-llamada-B29-1"
+      },
+      "Solís (2007, p. 53)"
+     ],
+     "\n               notes that structural and social conditions “form the backdrop that to a greater or lesser extent determines the structure of opportunities faced by men and women of each era in their pursuit of improved living conditions.”\n            "
+    ],
+    "\n            ",
+    [
+     "p",
+     {},
+     "\n               At the turn of the twentieth century, Monterrey developed an industrial identity that distinguished it from other major cities in Mexico (\n               ",
+     [
+      "a",
+      {
+       "href": "#t-B7",
+       "id": "t-llamada-B7-1"
+      },
+      "Cerutti, 2000"
+     ],
+     "\n               ; \n               ",
+     [
+      "a",
+      {
+       "href": "#t-B35",
+       "id": "t-llamada-B35-1"
+      },
+      "Flores Torres, 2000"
+     ],
+     "\n               ). For example, the city hosted the first integrated steel mill in Latin America, which triggered the emergence of other industries. The import substitution model implemented by the Mexican State in the second half of the twentieth century brought a second major wave of industrialization, resulting in significant economic growth and demographic expansion that shaped Monterrey’s metropolitan identity. Observers of the period noted that the city’s business groups successfully leveraged the opportunities provided by the import substitution model, achieving sustained growth over three decades, from 1940 to the late 1960s. By the following decade, Monterrey had become the second most important city in Mexico in terms of industrial development, after Mexico City, with a leading position in the heavy industry sector.\n            "
+    ],
+    "\n            ",
+    [
+     "p",
+     {},
+     "\n               According to Balán et al. (1977), cited in \n               ",
+     [
+      "a",
+      {
+       "href": "#t-B29",
+       "id": "t-llamada-B29-2"
+      },
+      "Solís (2007)"
+     ],
+     "\n               , Monterrey’s industrial and demographic growth did not produce a more sophisticated urban environment, as a middle-class demanding entertainment and service activities did not emerge. Similarly, \n               ",
+     [
+      "a",
+      {
+       "href": "#t-B31",
+       "id": "t-llamada-B31-3"
+      },
+      "Zúñiga (1993)"
+     ],
+     "\n               notes that institutions to promote cultural activities were not consolidated, and this institutional fragility limited the development of the fields for production and dissemination of the fine arts, highlighting a disconnect between capital accumulation and access to art in the city.\n            "
+    ],
+    "\n            ",
+    [
+     "p",
+     {},
+     "\n               ",
+     [
+      "a",
+      {
+       "href": "#t-B31",
+       "id": "t-llamada-B31-4"
+      },
+      "Zúñiga (1993)"
+     ],
+     "\n               emphasizes the importance of incorporating the spatial dimension to understand the promotion of the arts, drawing on a sociology of the production, distribution, and consumption of artistic objects within regional studies, in which the unit of observation is the social space. According to this author, between 1940 and 1960, artistic promotion in Monterrey had an autonomous character, independent of both the State and the Church. This perspective helps explain the “lags,” “gaps,” and “imbalances” that characterized the city during that period, which, despite already hosting the Universidad de Nuevo León and the ITESM, was home to only 16 schools of piano and singing (\n               ",
+     [
+      "a",
+      {
+       "href": "#t-B31",
+       "id": "t-llamada-B31-5"
+      },
+      "Zúñiga, 1993, p. 161"
+     ],
+     "\n               ).\n            "
+    ],
+    "\n            ",
+    [
+     "p",
+     {},
+     "\n               Between 1940 and 1945, visual arts were virtually nonexistent in Monterrey, and its “cultural life,” had an economic dimension to the extent that it was financed and supported by promoters (\n               ",
+     [
+      "a",
+      {
+       "href": "#t-B31",
+       "id": "t-llamada-B31-6"
+      },
+      "Zúñiga, 1993, p. 162"
+     ],
+     "\n               ). By the 1960s, with a population of 700 000, the city lacked artistic production, traditions, artist associations, and historical foundations, and the state of Nuevo León did not have institutions to establish cultural centers, museums, or institutes for these purposes, reflecting a fragile institutional reality (\n               ",
+     [
+      "a",
+      {
+       "href": "#t-B31",
+       "id": "t-llamada-B31-7"
+      },
+      "Zúñiga, 1993"
+     ],
+     "\n               ).\n            "
+    ],
+    "\n            ",
+    [
+     "p",
+     {},
+     "\n               In the last two decades of the twentieth century, Monterrey underwent a profound economic, social, and cultural transformation that conferred a new identity on the city. After successfully navigating the economic crisis of the 1980s, the city shifted from a predominantly industrial identity to one oriented toward services and commerce, while experiencing rapid population growth, from 1.99 million in 1980 to 3.4 million by 2000 (\n               ",
+     [
+      "a",
+      {
+       "href": "#t-B8",
+       "id": "t-llamada-B8-1"
+      },
+      "Consejo Nacional de Población [CONAPO], 1994"
+     ],
+     "\n               , \n               ",
+     [
+      "a",
+      {
+       "href": "#t-B9",
+       "id": "t-llamada-B9-1"
+      },
+      "2004"
+     ],
+     "\n               ). This service-oriented society demanded a cultural and artistic offering aligned with a more heterogeneous population that included a rising middle class.\n            "
+    ],
+    "\n            ",
+    [
+     "p",
+     {},
+     "\n               Culturally, Monterrey overcame the institutional fragility of the previous period, consolidating public and private institutions dedicated to the production and dissemination of the arts and “high culture.” For example, the Consejo para la Cultura y las Artes de Nuevo León was established, theaters and cultural centers were built, and the number of museums increased. In sum, the city experienced significant growth and diversification of its cultural life (\n               ",
+     [
+      "a",
+      {
+       "href": "#t-B29",
+       "id": "t-llamada-B29-3"
+      },
+      "Solís, 2007, p. 73"
+     ],
+     "\n               ).\n            "
+    ],
+    "\n            ",
+    [
+     "p",
+     {},
+     "The musicians in our sample participate in a wide variety of musical ensembles in Monterrey, including the Orquesta Sinfónica de la Universidad Autónoma de Nuevo León (OSUANL), the Súper Orquesta Filarmónica of the Escuela Superior de Música y Danza de Monterrey (ESMDM), the Orquesta de Cámara UANL, the Orquesta Filarmónica Regiomontana, the Orquesta Esperanza Azteca Nuevo León, the Orquesta Sinfónica of the Instituto Tecnológico y de Estudios Superiores de Monterrey (ITESM), the symphony orchestra Nosotras Sonamos, the Orquesta Sinfónica Juvenil de Nuevo León, the Orquesta Filarmónica del Desierto de Coahuila, the Coro Sinfónico de Nuevo León, the Big Band de la UANL, and the Banda de Música del Gobierno del Estado."
+    ],
+    "\n            ",
+    [
+     "p",
+     {},
+     "The city also hosts important venues and events in which professional concert musicians participate, such as the Festival Santa Lucía, Festival Alfonsino, Festival Internacional de Música Mexicana, Festival Internacional de Flauta de la Superior, as well as at the national orchestra gatherings organized by the Sistema Nacional de Fomento Musical. Additionally, various support and training programs offer scholarships and incentives for musicians through institutions such as: the Consejo Nacional de Ciencia y Tecnología-Fundación del Instituto Nacional de Bellas Artes (CONACYT-FINBA); the Centro de Investigación, Innovación y Desarrollo de las Artes (CEIIDA); the Centro de Compositores de Nuevo León of the Consejo para la Cultura y las Artes de Nuevo León (CONARTE); the Consejo Nacional para la Cultura y las Artes (CONACULTA); the Cultura San Pedro program; the Estímulo Fiscal a la Creación Artística (EFCA); the Financiarte program; the Fondo Nacional para la Cultura y las Artes (FONCA); and the Lab Cultural Ciudadano (LABNL)."
+    ],
+    "\n            ",
+    [
+     "p",
+     {},
+     "\n               Nonetheless, it is suggested that, despite efforts to institutionalize the arts and “high culture” in the state of Nuevo León, Monterrey’s sociocultural elements remain anchored even today in the social relations inherited from its industrial past, with the devaluation of the arts and humanities continuing in the city. An example of this is the low enrollment in schools and faculties dedicated to these disciplines. For instance, the Faculty of Music of the Universidad Autónoma de Nuevo León (UANL) has 185 undergraduate students enrolled; the Faculty of Philosophy and Letters (covering history, philosophy, and letters), has approximately 500 students; and in the School of Performing Arts, enrollment does not exceed 300 (E30, personal communication, August 21, 2020). This situation is further compounded by the ongoing threat of closing humanities programs at the three major universities in the city: the UANL, the ITESM, and the Universidad de Monterrey (\n               ",
+     [
+      "a",
+      {
+       "href": "#t-B4",
+       "id": "t-llamada-B4-1"
+      },
+      "Carrizales, 2005"
+     ],
+     "\n               ).\n            "
+    ],
+    "\n            ",
+    [
+     "p",
+     {},
+     "\n               Another example of the limited value placed on the arts and culture occurred in 2017, when the state government announced that the cultural radio station Opus 102 would stop broadcasting classical music, jazz, blues, and flamenco in order to “become more popular,” replacing these genres with other types of music and self-improvement programs (\n               ",
+     [
+      "a",
+      {
+       "href": "#t-B6",
+       "id": "t-llamada-B6-1"
+      },
+      "Cedillo, 2017"
+     ],
+     "\n               ). Since then, the city has strongly promoted popular music for commercial purposes through festivals such as Pa’l Norte and Wish (\n               ",
+     [
+      "a",
+      {
+       "href": "#t-B13",
+       "id": "t-llamada-B13-1"
+      },
+      "García, 2019"
+     ],
+     "\n               ). From this, it can be inferred that, although arts promotion in Monterrey has gained momentum, it has not been sufficient to consolidate either the arts or “high culture,” leaving the musicians in this study with unfavorable conditions for their professional practice. Some of the interviewees describe the situation as follows:\n            "
+    ],
+    "\n            ",
+    [
+     "blockquote",
+     {},
+     "\n               ",
+     [
+      "p",
+      {},
+      "Monterrey has a very limited audience, which explains why there are not many venues, because these spaces are opened based on demand. But the reality is that there is no longer an audience; the new generations are no longer interested in classical music. It is sad, but it is a reality, so there is increasingly less audience for this type of activity unless one gives it a commercial twist. Therefore, as a cultural center, the city of Monterrey does not really function; we are declining compared to other cities. For example, Mexico City still maintains a higher level of appreciation for concert music. (E15, personal communication, April 9, 2022)"
+     ],
+     "\n            "
+    ],
+    "\n            ",
+    [
+     "p",
+     {},
+     "Other professional musicians perceive the low social value attributed to music, encountering certain familial and social resistance. In their view, “as long as an individual’s artistic culture is not fully defined or established, it is difficult to achieve job stability in this field, because we depend on the direction the country takes” (E15, personal communication, April 9, 2022). Similarly, the state government shows little concern for promoting the development of concert music, as reflected in the absence of a state symphony orchestra. The only professional symphony is that of the UANL. By contrast, the city of Saltillo, the capital of the neighboring state of Coahuila, hosts the Orquesta Filarmónica del Desierto de Coahuila."
+    ],
+    "\n            ",
+    [
+     "blockquote",
+     {},
+     "\n               ",
+     [
+      "p",
+      {},
+      "It has already been attempted. In previous years, conductors from outside the state approached the government to request the formation of a state philharmonic orchestra, but none of these projects were realized under any governor. Let’s hope! (E16, personal communication, April 11, 2022)"
+     ],
+     "\n            "
+    ],
+    "\n         "
+   ],
+   "\n         ",
+   [
+    "section",
+    {},
+    "\n            ",
+    [
+     "h3",
+     {
+      "id": "t-seccion-9"
+     },
+     "\n               ",
+     [
+      "i",
+      {},
+      "Schooling and the Identity of Concert Musicians"
+     ],
+     "\n            "
+    ],
+    "\n            ",
+    [
+     "p",
+     {},
+     "\n               One of the central questions of this research is how concert musicians maintain a professional identity within a sociocultural context that is not particularly supportive of their profession. Addressing this question was not straightforward, as it depends not only on the researcher’s\n               ",
+     [
+      "sup",
+      {},
+      "\n                  ",
+      [
+       "a",
+       {
+        "href": "#t-fn3",
+        "id": "t-llamada-fn3-1"
+       },
+       "5"
+      ],
+      "\n               "
+     ],
+     "\n               analytical approach but also on continuous engagement with the data, returning to the field to gather additional information, and the lived experience of the researcher. One possible explanation lies in the process of socialization experienced from childhood.\n            "
+    ],
+    "\n         "
+   ],
+   "\n         ",
+   [
+    "section",
+    {},
+    "\n            ",
+    [
+     "h3",
+     {
+      "id": "t-seccion-10"
+     },
+     "\n               ",
+     [
+      "i",
+      {},
+      "School Initiation"
+     ],
+     "\n            "
+    ],
+    "\n            ",
+    [
+     "p",
+     {},
+     "\n               In \n               ",
+     [
+      "i",
+      {},
+      "La construcción social de la realidad"
+     ],
+     "\n               , \n               ",
+     [
+      "a",
+      {
+       "href": "#t-B1",
+       "id": "t-llamada-B1-1"
+      },
+      "Berger and Luckmann (1976)"
+     ],
+     "\n               identify socialization as the mechanism through which identity is produced and reproduced, since every society possesses a repertoire of identities that forms part of the objective knowledge of its members. According to these authors, as individuals are socialized, they internalize these identities. The first stage of socialization occurs within the family, where individuals internalize a set of norms, attitudes, and traditions through daily life. Subsequently, individuals experience a second stage of socialization, in which they are resocialized, although not with the same intensity as during the initial stage.\n            "
+    ],
+    "\n            ",
+    [
+     "p",
+     {},
+     "Fieldwork data highlight the existence of two clearly differentiated groups of professional musicians. One group acquires a hereditary musical identity, receiving musical training from a very early age with parents strongly involved in their development. The other group does not have a musical heritage, beginning their musical trajectory at a later age and with parents less engaged in their musical formation. Members of this latter group develop an appreciation for musical training through secondary socialization, primarily via interactions with peers."
+    ],
+    "\n            ",
+    [
+     "p",
+     {},
+     "“Raúl” is a typical case of musical initiation rooted in strong primary socialization. He comes from a maternal line of musicians spanning three generations: his great-grandfather and grandfather grew up in a rural community of violinists in the state of Guerrero, and later Raúl’s mother and uncles trained professionally in concert music, specifically violin and piano, in Monterrey. In short, he was raised in a family context that, from a very early age and perhaps even before his birth, shaped his professional trajectory. Raúl began attending music initiation schools at age four and continued his training until completing a bachelor’s degree in violin performance. Beyond being immersed in a family environment of musicians, his grandparents and parents devoted themselves entirely to supporting his education, accompanying him to music schools and overseeing his musical assignments."
+    ],
+    "\n            ",
+    [
+     "blockquote",
+     {},
+     "\n               ",
+     [
+      "p",
+      {},
+      "My parents tell me that I started violin lessons at the age of four. Honestly, my own memories begin around eight years old, when I attended classes every afternoon at the Escuela Superior de Música y Danza de Monterrey after my primary school lessons. My grandfather was the family member most invested in my musical training. After my music classes with him, I would practice every day, even before doing my homework. (E26, personal communication, November 17, 2023)"
+     ],
+     "\n            "
+    ],
+    "\n            ",
+    [
+     "p",
+     {},
+     "Cases of this first type of musical initiation also show that parents sometimes pursue, in addition to fostering a musician identity in their children, the possibility of securing a scholarship for them to study any degree program, even outside of music, at prestigious private schools and universities in the city, such as the Tecnológico de Monterrey (E27, personal communication, November 17, 2023)."
+    ],
+    "\n            ",
+    [
+     "p",
+     {},
+     "The second type of musical initiation observed in the interviews involves the child of a university professor. With a working-class father and a mother who is a university sociology professor, “David” began formal musical training in adolescence when he enrolled in the technical music program at the Faculty of Music of the UANL. In his case, the school, representing secondary socialization, became the space where he constructed his identity as a musician. It appears that having a mother who is a social sciences professional influenced his musical initiation in the same way it shaped the trajectory of his brother, who pursued a degree in philosophy: “My siblings and I grew up in a university environment. My mother is a professor at a humanities faculty, so we received an education connected to humanistic and artistic knowledge” (E27, personal communication, November 17, 2022)."
+    ],
+    "\n            ",
+    [
+     "p",
+     {},
+     "In some cases, parents aim for their children to receive an artistic education without necessarily intending for them to pursue a professional career; however, the children develop a genuine interest in music and build a career from that passion. This was the case of “Ernesto,” whose father was a business professional and whose mother was a homemaker, and who had hoped he would follow a more conventional career path."
+    ],
+    "\n            ",
+    [
+     "blockquote",
+     {},
+     "\n               ",
+     [
+      "p",
+      {},
+      "When I was young, music was part of my education, but as I got older, they did not think it was a very good idea. In my particular case, I was studying high school and a technical program at the same time, and since they saw I could handle both, they asked me to study a second degree alongside my music studies. I studied the second degree for a while, about two and a half years, but at some point, I realized I did not see myself working in that field, so I left the second program, which was in political science. (E6, personal communication, April 3, 2022)"
+     ],
+     "\n            "
+    ],
+    "\n            ",
+    [
+     "p",
+     {},
+     "Finally, other musical initiation experiences occur in spaces of secondary socialization, such as churches, where choirs or student music groups are common. This was the case of a 24-year-old guitarist who participated in her church choir for at least five years until she turned 15. She recounts: “It was there that I learned to play the guitar. I received my supplementary musical training from ages 13 to 15, and at 15 the opportunity arose to study a mid-level technical program in music” (E6, personal communication, April 3, 2022)."
+    ],
+    "\n         "
+   ],
+   "\n         ",
+   [
+    "section",
+    {},
+    "\n            ",
+    [
+     "h3",
+     {
+      "id": "t-seccion-11"
+     },
+     "\n               ",
+     [
+      "i",
+      {},
+      "Formal Musical Education"
+     ],
+     "\n            "
+    ],
+    "\n            ",
+    [
+     "p",
+     {},
+     "The formal curriculum for professional music training is considerably longer than that of most other undergraduate programs, spanning eight to nine years: one preparatory year, two to three years of technical music studies, and five years of a bachelor’s degree. This extended period has significant implications for professional identity, as students are immersed over a long duration in intense socialization through the institution and daily interaction with peers, sharing tastes, aspirations, and life projects. Some musicians described their experience of formalized musical education as follows:"
+    ],
+    "\n            ",
+    [
+     "blockquote",
+     {},
+     "\n               ",
+     [
+      "p",
+      {},
+      "If we count three years of technical studies and five years of the bachelor’s program, that makes a total of eight years, which is the case at the Faculty of Music. At the Superior School, it is one preparatory year plus eight years of study, totaling nine years. For many years, you spend time with friends, both in school and outside, sharing the same musical interests and tastes. (E6, personal communication, April 3, 2022)"
+     ],
+     "\n            "
+    ],
+    "\n            ",
+    [
+     "p",
+     {},
+     "Beyond the extended duration of formal schooling, the training of a musician, according to the interviewees, entails specific characteristics that differentiate it from other professional educations. Essential skills and virtues such as patience, discipline, and organization are indispensable for prioritizing and planning the hours of practice required to master an instrument. One musician explained, “Four or five hours daily, which is what is needed” (E4, personal communication, November 11, 2021)."
+    ],
+    "\n            ",
+    [
+     "p",
+     {},
+     "Musical activity demands continuous dedication and strong commitment. Another participant stated, “It requires investing an enormous amount of time. Another aspect is that the instruments and other tools we need for work are expensive, and we have to upgrade our instruments progressively, also to improve our musical performance” (E13, personal communication, April 8, 2022). A flutist interviewed added that as a music student, access to instruments is not always guaranteed, representing another challenge in this profession:"
+    ],
+    "\n            ",
+    [
+     "blockquote",
+     {},
+     "\n               ",
+     [
+      "p",
+      {},
+      "You have to plan your practice right there at the faculty. It is not as easy as some other fields where you can do your homework at home. In music, for example, I also studied piano for many years, so I had to arrive early to secure a piano and practice for class, and the same with the flute. For a long time, I did not have my own flute, so I had to arrive, ask if one of the available good flutes was free, request it, complete the borrowing procedure, and sometimes we were only allowed to use it on weekends. (E15, personal communication, April 9, 2022)"
+     ],
+     "\n            "
+    ],
+    "\n         "
+   ],
+   "\n         ",
+   [
+    "section",
+    {},
+    "\n            ",
+    [
+     "h3",
+     {
+      "id": "t-seccion-12"
+     },
+     "\n               ",
+     [
+      "i",
+      {},
+      "Reflexivity and Professional Musicians’ Identity"
+     ],
+     "\n            "
+    ],
+    "\n            ",
+    [
+     "p",
+     {},
+     "\n               The analysis of the interviews, following \n               ",
+     [
+      "a",
+      {
+       "href": "#t-B18",
+       "id": "t-llamada-B18-6"
+      },
+      "Heinz’s (2003)"
+     ],
+     "\n               perspective, reconstructs the complex process that musicians undergo, not only to enter an unstructured labor market but also to build and sustain their professional identity through the organization and management of their own experiences. This section seeks to examine the processes through which the subjects under study construct and maintain their professional identities.\n            "
+    ],
+    "\n         "
+   ],
+   "\n         ",
+   [
+    "section",
+    {},
+    "\n            ",
+    [
+     "h3",
+     {
+      "id": "t-seccion-13"
+     },
+     "\n               ",
+     [
+      "i",
+      {},
+      "Transition from School to Work"
+     ],
+     "\n            "
+    ],
+    "\n            ",
+    [
+     "p",
+     {},
+     "\n               The transition from school to work is increasingly challenging in contemporary societies (\n               ",
+     [
+      "a",
+      {
+       "href": "#t-B18",
+       "id": "t-llamada-B18-7"
+      },
+      "Heinz, 2003"
+     ],
+     "\n               ), requiring individuals to take an active role in entering the labor market. This makes the process more individualized and constitutes a form of self-socialization. For concert musicians, who develop technical skills from an early age, it is common to begin participating in the labor market while still in school.\n            "
+    ],
+    "\n            ",
+    [
+     "blockquote",
+     {},
+     "\n               ",
+     [
+      "p",
+      {},
+      "I was always a somewhat outstanding student, so I had a lot of contact with my teachers at the time, who are now my colleagues, and they saw my ability to understand the subjects a bit more and, at the same time, to be able to teach, so they started inviting me. (E6, personal communication, April 3, 2022)"
+     ],
+     "\n            "
+    ],
+    "\n            ",
+    [
+     "p",
+     {},
+     "Once their formal education is completed, as documented in previous studies, entry into the labor market takes on a volatile and unstable character, requiring musicians to actively shape their professional lives. As noted earlier, an increasing number of musicians engage in activities both related and unrelated to music, often earning salaries below the average of other professionals and receiving fewer benefits. Approximately 30% are unemployed, and a similar proportion work in non-musical fields."
+    ],
+    "\n            ",
+    [
+     "p",
+     {},
+     "Faced with this reality, the interviewed musicians demonstrate agency in pursuing a career in their profession. One 30-year-old violinist described his strategy to diversify opportunities and remain professionally active:"
+    ],
+    "\n            ",
+    [
+     "blockquote",
+     {},
+     "\n               ",
+     [
+      "p",
+      {},
+      "I will take a course to learn the viola, which will give me a better chance to be invited for freelance work. I also plan to pursue a master’s in music education, since at my age it is difficult to establish myself as a concert musician. (E27, personal communication, November 17, 2023)"
+     ],
+     "\n            "
+    ],
+    "\n            ",
+    [
+     "p",
+     {},
+     "Another similar case is observed in the following interview, which again highlights the musicians’ capacity for agency:"
+    ],
+    "\n            ",
+    [
+     "blockquote",
+     {},
+     "\n               ",
+     [
+      "p",
+      {},
+      "Always stay in shape, and by in shape I mean […] not because you already have a position in an orchestra does it mean you can stop practicing or studying. You must continue learning, constantly exploring new techniques and methods to keep developing your skills. (E10, personal communication, April 6, 2022)"
+     ],
+     "\n            "
+    ],
+    "\n            ",
+    [
+     "p",
+     {},
+     "Music graduates respond with self-reflexive strategies that adapt to changing labor conditions, both for those recently entering the labor market and for those with longer professional trajectories. This adaptability is evident in the adoption and use of technological advancements. One interviewee observed: “Right now, you can teach online, there are online workshops, on YouTube there are many people who discuss basic, intermediate, and advanced music theory, there are musical analyses online, there is a lot” (E7, personal communication, April 4, 2022). Similarly, another interview provides insight into the self-reflexive actions musicians take to remain active in the labor market:"
+    ],
+    "\n            ",
+    [
+     "blockquote",
+     {},
+     "\n               ",
+     [
+      "p",
+      {},
+      "Success requires formalizing your work by selling your content and ensuring that your musical material is protected online on platforms such as Spotify or YouTube. All these virtual environments require careful regulation. This will limit those who are unprepared or do not understand the importance of registering their authorship rights. I do not see this as an obstacle but rather as a necessity for proper preparation. (E8, personal communication, April 6, 2022)"
+     ],
+     "\n            "
+    ],
+    "\n            ",
+    [
+     "p",
+     {},
+     "Moreover, technological advancements, in addition to creating new employment opportunities for musicians, influence artistic expression by combining the ephemeral nature of musical performance with its permanence as a cultural product. One interviewee explained: “The art of musicians is ethereal; when we perform in a hall or theater, the art exists in that moment and ultimately disappears.” They added, “Only those who attended the concert experienced it. It is not like a painting or a film, which remains and can continue generating income for its creator. In our case, it does not.” In this regard, they observed:"
+    ],
+    "\n            ",
+    [
+     "blockquote",
+     {},
+     "\n               ",
+     [
+      "p",
+      {},
+      "Technology helped in one sense to reach further. During the COVID contingency, many of us who did not know how to set up a YouTube channel or promote ourselves there had to start uploading our performances. In one way, it helped make our art permanent, because now it is recorded on YouTube. People can watch it again, get to know me, and if they are interested in my work, they can see a video and evaluate my performance, even for scholarship purposes. (E15, personal communication, April 9, 2022)"
+     ],
+     "\n            "
+    ],
+    "\n            ",
+    [
+     "p",
+     {},
+     "\n               The use of technology, in addition to creating risks for employment due to the possibility of replacing musicians with pre-recorded tracks and in-person teachers with virtual instruction, also affects the social identity of musicians. Communal ties are weakened when colleagues are substituted by musical tracks. Consequently, the musician’s identity becomes oriented toward the individual as a solo virtuoso rather than toward peers, transforming musical practice into a more atomized experience.\n               ",
+     [
+      "sup",
+      {},
+      "\n                  ",
+      [
+       "a",
+       {
+        "href": "#t-fn4",
+        "id": "t-llamada-fn4-1"
+       },
+       "6"
+      ],
+      "\n               "
+     ],
+     "\n            "
+    ],
+    "\n            ",
+    [
+     "blockquote",
+     {},
+     "\n               ",
+     [
+      "p",
+      {},
+      "What we did was adapt technology in terms of computing, so that we could bring music in tracks and trigger them from the computer instead of bringing in a bassist, a drummer, and a guitarist. Now you just pay the laptop, and you replace the musicians. (E5, personal communication, March 31, 2022)"
+     ],
+     "\n            "
+    ],
+    "\n            ",
+    [
+     "p",
+     {},
+     "Changes have also occurred in the educational sector that have adversely affected musicians, driven by new technologies, including applications that allow individuals to learn from home through low-cost monthly subscriptions. Such innovations have led many to prefer downloading an app rather than hiring a private instructor. In this context, interviewees noted that music professionals face a series of labor contingencies, but despite these difficulties, they remain optimistic and proactive, pursuing their professional fulfillment. One participant observed: “One must always overcome challenges; every project has its complications, but that is part of the work” (E2, personal communication, November 11, 2021)."
+    ],
+    "\n            ",
+    [
+     "p",
+     {},
+     "The use of technology generates tensions within the music field, as software such as DeepBach or FlowMachines can contribute to increased unemployment, much as the industrial sector has experienced under the automation model known as Industry 4.0. At the same time, it can affect musicians’ creativity, who are conscious of the efforts required in their careers. As one interviewee stated: “So far, it has been stable; of course, there are always fluctuations, but I do believe that, as musicians, we must also possess a certain capacity to adapt” (E14, personal communication, April 8, 2022)."
+    ],
+    "\n         "
+   ],
+   "\n         ",
+   [
+    "section",
+    {},
+    "\n            ",
+    [
+     "h3",
+     {
+      "id": "t-seccion-14"
+     },
+     "\n               ",
+     [
+      "i",
+      {},
+      "Job Instability and Identity"
+     ],
+     "\n            "
+    ],
+    "\n            ",
+    [
+     "p",
+     {},
+     "\n               Drawing on \n               ",
+     [
+      "a",
+      {
+       "href": "#t-B27",
+       "id": "t-llamada-B27-1"
+      },
+      "Olivo Pérez’s (2005)"
+     ],
+     "\n               notion of precariousness, this study assumes that for music professionals, labor instability, as in other occupational sectors, does not fundamentally disrupt key aspects of their lives, provided they possess a reserve of practical knowledge to cope with it. Accordingly, following Olivo’s perspective, labor instability must be discussed from the perspective of the actors themselves, framing it as the pursuit of autonomy aimed at improving their living conditions.\n            "
+    ],
+    "\n            ",
+    [
+     "p",
+     {},
+     "In the life histories of the musicians in this study, job instability did not lead to a loss of professional identity. Regardless of the volatility of their career trajectories, they retain the capacity to enact forms of resistance, such as striving for status, pride, and professional recognition. On the other hand, labor instability does not hinder the accumulation of skills, knowledge, social recognition, or professional qualifications."
+    ],
+    "\n            ",
+    [
+     "blockquote",
+     {},
+     "\n               ",
+     [
+      "p",
+      {},
+      "Well, for me, it has been one of the most rewarding things, because I have the privilege of being able to play and do what I love, which not everyone can. Working in music, rather than merely pursuing stability as in many other careers, is meaningful. For me, it is work and requires professionalism, but performing music is enjoyable, it is something to be enjoyed. (E10, personal communication, April 6, 2022)"
+     ],
+     "\n            "
+    ],
+    "\n            ",
+    [
+     "p",
+     {},
+     "\n               Maintaining an identity as a professional musician partly relies on legitimate frameworks (\n               ",
+     [
+      "a",
+      {
+       "href": "#t-B12",
+       "id": "t-llamada-B12-1"
+      },
+      "Estrada Saavedra, 2000"
+     ],
+     "\n               ) that enable the preservation of such an identity under unfavorable circumstances. For example, the availability of scholarships and competitions provides social recognition both within and beyond the professional community, supporting these efforts. Similarly, the multiple activities and occupations that musicians undertake to earn income are interpreted in different ways. While some experience feelings of embarrassment, others view these practices as strategies to sustain their identity as concert musicians: “I auditioned for the Tec de Monterrey Orchestra, and the teacher immediately awarded me a scholarship” (E13, personal communication, April 8, 2022). One professor noted that she has experienced more successes than failures in her career: “I have attended an international course in Spanish music twice in Santiago de Compostela, I have also taken courses in Bulgaria, and I have visited some countries thanks to music” (E4, personal communication, November 11, 2021).\n            "
+    ],
+    "\n            ",
+    [
+     "blockquote",
+     {},
+     "\n               ",
+     [
+      "p",
+      {},
+      "I have to admit that I have applied for jobs that are, not that they are bad, they are dignified jobs. I mean that at some point in my life I worked in delivery, simply seeking an honest way to live, right? I have also taught in schools, that is, doing slightly different activities, which are not what we dream of doing professionally, but they are also a work option, ultimately. (E13, personal communication, April 8, 2022)"
+     ],
+     "\n            "
+    ],
+    "\n            ",
+    [
+     "blockquote",
+     {},
+     "\n               ",
+     [
+      "p",
+      {},
+      "On the occasions when I take on jobs not related to music, I have never abandoned music as my main activity. In the jobs I take with my friends, I introduce myself and I am recognized as a musician. (E11, personal communication, April 6, 2022)"
+     ],
+     "\n            "
+    ],
+    "\n         "
+   ],
+   "\n         ",
+   [
+    "section",
+    {},
+    "\n            ",
+    [
+     "h3",
+     {
+      "id": "t-seccion-15"
+     },
+     "\n               ",
+     [
+      "i",
+      {},
+      "Negotiating Professional Identity"
+     ],
+     "\n            "
+    ],
+    "\n            ",
+    [
+     "p",
+     {},
+     "\n               The scarcity of employment opportunities to sustain their profession leads musicians to negotiate their professional identity as a strategic resource for action (\n               ",
+     [
+      "a",
+      {
+       "href": "#t-B34",
+       "id": "t-llamada-B34-5"
+      },
+      "Dubet & Zapata, 1989"
+     ],
+     "\n               ). They accomplish this by training themselves to perform other activities within the field of music. Monterrey’s audience, with its limited engagement in concert music, creates additional challenges that require adaptation, while other musicians emphasize aspects of identity negotiation by exploring different musical genres.\n            "
+    ],
+    "\n            ",
+    [
+     "blockquote",
+     {},
+     "\n               ",
+     [
+      "p",
+      {},
+      "Developing different skills, for example. If you are a musician, sometimes we think, ‘I am a percussionist,’ but no, nowadays it really demands that you be multidisciplinary. That is, I know how to play different musical instruments, not just one. I know how to record the same instruments, I know how to produce, I know how to perform live, I know how to form ensembles, and I know how to organize concerts with music from major films like Star Wars. (E29, personal communication, November 27, 2023)"
+     ],
+     "\n            "
+    ],
+    "\n            ",
+    [
+     "blockquote",
+     {},
+     "\n               ",
+     [
+      "p",
+      {},
+      "Being flexible toward other ways of making or producing music, which may not necessarily belong to your area. For example, I have had to produce genres with which I am not very familiar, from pop, rock, reggaeton, and others. You have to be open to things that may not necessarily be to your taste or within your circle. Recently, with social media, you do not necessarily have to play the social media game, but you need to at least be aware that it exists, that it can be a tool for you, and understand how things are evolving. (E17, personal communication, September 20, 2022)"
+     ],
+     "\n            "
+    ],
+    "\n         "
+   ],
+   "\n         ",
+   [
+    "section",
+    {},
+    "\n            ",
+    [
+     "h3",
+     {
+      "id": "t-seccion-16"
+     },
+     "\n               ",
+     [
+      "i",
+      {},
+      "From Performer to Entrepreneur"
+     ],
+     "\n            "
+    ],
+    "\n            ",
+    [
+     "p",
+     {},
+     "\n               The socioeconomic transformation of Monterrey has opened new employment opportunities for younger generations through entrepreneurship. According to the Mexican Institute for Competitiveness (\n               ",
+     [
+      "a",
+      {
+       "href": "#t-B20",
+       "id": "t-llamada-B20-1"
+      },
+      "IMCO, 2015"
+     ],
+     "\n               ), the creative industry accounts for 7% of Mexico’s GDP. This sector is understood as the convergence of economic activity and cultural expression, and it has generated significant employment opportunities for professionals in culture and the arts.\n            "
+    ],
+    "\n            ",
+    [
+     "p",
+     {},
+     "\n               The dynamism of this industry contrasts with the labor conditions it offers, which include both subordinated and moderately stable work, alongside positions characterized by instability in terms of employment conditions (\n               ",
+     [
+      "a",
+      {
+       "href": "#t-B5",
+       "id": "t-llamada-B5-1"
+      },
+      "Castañeda Rivera & Garduño Bello, 2017"
+     ],
+     "\n               ; \n               ",
+     [
+      "a",
+      {
+       "href": "#t-B25",
+       "id": "t-llamada-B25-7"
+      },
+      "Morales Cabrera, 2021"
+     ],
+     "\n               ). At the same time, it creates job opportunities for musicians in Monterrey, shaping their professional identities, which increasingly shift from those of performing musicians to entrepreneurs, a transition that they actively pursue. \n               ",
+     [
+      "a",
+      {
+       "href": "#t-B25",
+       "id": "t-llamada-B25-8"
+      },
+      "Morales Cabrera (2021)"
+     ],
+     "\n               notes that this process involves the alienation of the musician’s labor, as commercial logic is introduced into production and consumption, resulting in the subsumption of arts workers under new imaginaries imposed by cultural hegemony.\n            "
+    ],
+    "\n            ",
+    [
+     "p",
+     {},
+     "For example, an orchestral musician emphasized that, as a professional, she is largely focused on developing her own company: “In 2017, I founded a musical services company together with a local composer; it is one of my main projects, as we handle musical arrangements for orchestras and chamber ensembles, artist representation, and several other areas” (E15, personal communication, April 9, 2022)."
+    ],
+    "\n            ",
+    [
+     "p",
+     {},
+     "\n               Similarly, another interviewee stated, “I have a percussion ensemble called Acusión. I am the founder and, so to speak, the artistic director” (E2, personal communication, November 11, 2021), while a third added, “Currently, this is my home studio; here I have my equipment, my computer, and my other instruments” (E13, personal communication, April 8, 2022). In this context, entrepreneurship within the creative industry shapes the professional identity of the musicians in our study, who must balance the artistic sensitivities of their profession with the social, cultural, and economic dynamics of Monterrey.\n               ",
+     [
+      "sup",
+      {},
+      "\n                  ",
+      [
+       "a",
+       {
+        "href": "#t-fn5",
+        "id": "t-llamada-fn5-1"
+       },
+       "7"
+      ],
+      "\n               "
+     ],
+     "\n            "
+    ],
+    "\n         "
+   ],
+   "\n         ",
+   [
+    "section",
+    {},
+    "\n            ",
+    [
+     "h3",
+     {
+      "id": "t-seccion-17"
+     },
+     "\n               ",
+     [
+      "i",
+      {},
+      "Identity Trajectories of Musicians"
+     ],
+     "\n            "
+    ],
+    "\n            ",
+    [
+     "p",
+     {},
+     "The biographies of the musicians interviewed reveal a diversity of identity trajectories closely linked to their family backgrounds and institutional histories: performer trajectories, academic music trajectories, and combined performer-academic trajectories. Across these professional paths, a common feature is the tremendous effort musicians exert to maintain continuity in their professional identity within a contingent labor market. Identity trajectories within orchestras and symphonies are generally reserved for those who have completed their undergraduate studies and obtained a professional degree, and they are also strongly influenced by the age at which musicians enter the field."
+    ],
+    "\n            ",
+    [
+     "blockquote",
+     {},
+     "\n               ",
+     [
+      "p",
+      {},
+      "I have had to learn to juggle and find ways to sometimes just get by, sometimes even push the limits, even skipping some classes, because the truth is that if I do not do it this way, I do not perform. Since I am truly a concert musician, everything else seems less relevant; the stage must be the initial premise for me. (E12, personal communication, April 6, 2022)"
+     ],
+     "\n            "
+    ],
+    "\n            ",
+    [
+     "p",
+     {},
+     "For his part, another interviewed musician emphasized the importance of obtaining a university degree to build a professional trajectory in music, noting that even those “without formal studies have had to enter this educational model of having the credential in order to position themselves; there are very skilled musicians who have the ability, but without the credential, they cannot access certain jobs.” This shift in perspective is rooted in a professionalizing environment: “Before, in the chamber orchestra and the symphony orchestra, auditions were held, and a person could enter as a musician. Now, yes, auditions are still held, but you also have to have the degree” (E15, personal communication, April 9, 2022)."
+    ],
+    "\n            ",
+    [
+     "p",
+     {},
+     "Within the group of musicians entering orchestras and symphonies, those who achieve concert soloist status are largely defined by personal drive, skill, and available opportunities. While “all of us who enter an undergraduate program, in my case in violin, have the idea of becoming a concert soloist,” they are also aware that “if you do not achieve it at an early age, say before 20, it becomes very complicated, both due to the skills acquired and the spaces available” (E27, personal communication, November 17, 2022)."
+    ],
+    "\n            ",
+    [
+     "p",
+     {},
+     "\n               Another clearly defined trajectory is the educational one. Although trained as instrumentalists, professional musicians often enter the labor market as music teachers, typically after attempting to join a symphony or chamber orchestra. Most begin by teaching in primary and secondary schools, private academies, or community cultural centers.\n               ",
+     [
+      "sup",
+      {},
+      "\n                  ",
+      [
+       "a",
+       {
+        "href": "#t-fn6",
+        "id": "t-llamada-fn6-1"
+       },
+       "8"
+      ],
+      "\n               "
+     ],
+     "\n               To remain competitive in the teaching market, unlike teachers of subjects such as physics, mathematics, or biology, these musicians strive to make themselves indispensable to the educational projects of the institutions where they work, often by organizing orchestras with their students:\n            "
+    ],
+    "\n            ",
+    [
+     "blockquote",
+     {},
+     "\n               ",
+     [
+      "p",
+      {},
+      "As a music teacher in a school, you are committed to ensuring that administrators and parents recognize the importance of musical instruction for the students, so you constantly try to generate projects, such as forming an orchestra or a musical quartet with the students. (E1, personal communication, November 11, 2021)"
+     ],
+     "\n            "
+    ],
+    "\n            ",
+    [
+     "p",
+     {},
+     "There are also trajectories that combine performance and teaching. These paths become possible when musicians hold positions in a symphony or chamber orchestra; however, given the low income associated with these positions, they often supplement it by offering private lessons or teaching in private schools. To teach at the undergraduate level, the UANL requires a master’s or doctoral degree, which most musicians do not possess, making entry into the university teaching market nearly impossible."
+    ],
+    "\n         "
+   ],
+   "\n      "
+  ],
+  [
+   "section",
+   {},
+   "\n         ",
+   [
+    "h2",
+    {
+     "id": "t-seccion-18"
+    },
+    "CONCLUSIONS"
+   ],
+   "\n         ",
+   [
+    "p",
+    {},
+    "The purpose of emphasizing the social experiences of musicians was to avoid reductionist approaches that treat artistic activity as merely the product of objective conditions, whether these are the art world, the market, or social class. Instead, the focus was placed on the musicians themselves, their interests, concerns, and the expectations that guide them as they engage with the labor market. This approach enabled a deeper understanding of how musicians construct knowledge of their professional identity and how this identity is enacted through interaction and practice within a social context characterized by institutional fragility and limited support for the arts and “high culture” in Monterrey, where labor conditions remain contingent."
+   ],
+   "\n         ",
+   [
+    "p",
+    {},
+    "\n            Based on the experiences of concert musicians, considered the first level of the construct, the active process of negotiating professional identity becomes observable. Some musicians take advantage of new opportunities offered by Monterrey’s creative industry, shaping their identity through musical entrepreneurship, while others exert considerable effort to maintain a professional identity through multiple employments, striving to sustain a career in concert music. In other words, following \n            ",
+    [
+     "a",
+     {
+      "href": "#t-B18",
+      "id": "t-llamada-B18-8"
+     },
+     "Heinz (2003)"
+    ],
+    "\n            , the sociocultural context of Monterrey, combined with a more flexible and deregulated labor market, entails frequent negotiations and work-related identities, a process that is not exempt from the alienation of artistic activity and labor precarity.\n         "
+   ],
+   "\n         ",
+   [
+    "p",
+    {},
+    "\n            Sociologically, employing the life-course analysis approach proposed by \n            ",
+    [
+     "a",
+     {
+      "href": "#t-B18",
+      "id": "t-llamada-B18-9"
+     },
+     "Heinz (2003)"
+    ],
+    "\n            made it possible to relate musicians’ expectations and perceptions to the structure of the labor market and the social context in which they are embedded. It also allowed for reflection on the mechanisms of reflexivity and self-socialization that musicians employ to navigate a contingent labor structure.\n         "
+   ],
+   "\n         ",
+   [
+    "p",
+    {},
+    "A key aspect in the development of this study was the thesis concerning the conditioning role of sociocultural relations in Monterrey, based on societal valuations of what is deemed worthy of respect. In this city, the recognition and prestige of the arts are relegated to the lower tiers of professional hierarchies, being considered of lesser utility or value to society. While this sociocultural constraint is not unique to Monterrey and has global relevance, the present analysis provides both analytical and empirical insight into the specific sociocultural relations of this metropolis and the challenges faced by concert musicians. This opens the door for future research that could draw on samples from multiple metropolitan areas to identify both commonalities and distinctive characteristics."
+   ],
+   "\n      "
+  ],
+  [
+   "section",
+   {},
+   "\n         ",
+   [
+    "p",
+    {
+     "id": "t-B32",
+     "rol": "ref",
+     "lang": "pl"
+    },
+    "\n            ",
+    [
+     "span",
+     {},
+     "Bauman, Z. (2010). Identidad (Trad. D. Sarasola). Losada."
+    ],
+    "\n            ",
+    [
+     "span",
+     {},
+     "\n               ",
+     [
+      "span",
+      {},
+      "2010"
+     ],
+     "\n               ",
+     [
+      "span",
+      {},
+      "\n                  ",
+      [
+       "span",
+       {},
+       "\n                     ",
+       [
+        "span",
+        {},
+        "Bauman"
+       ],
+       "\n                     ",
+       [
+        "span",
+        {},
+        "Z."
+       ],
+       "\n                  "
+      ],
+      "\n               "
+     ],
+     "\n               ",
+     [
+      "i",
+      {},
+      "\n                Identidad"
+     ],
+     "\n               ",
+     [
+      "span",
+      {},
+      "Sarasola"
+     ],
+     "\n            "
+    ],
+    "\n         "
+   ],
+   "\n         ",
+   [
+    "p",
+    {
+     "id": "t-B33",
+     "rol": "ref"
+    },
+    "\n            ",
+    [
+     "span",
+     {},
+     "\n               Becker, H. S. (1982). \n               ",
+     [
+      "i",
+      {},
+      "Art worlds"
+     ],
+     "\n               . University of California Press.\n            "
+    ],
+    "\n            ",
+    [
+     "span",
+     {},
+     "\n               ",
+     [
+      "span",
+      {},
+      "1982"
+     ],
+     "\n               ",
+     [
+      "span",
+      {},
+      "\n                  ",
+      [
+       "span",
+       {},
+       "\n                     ",
+       [
+        "span",
+        {},
+        "Becker"
+       ],
+       "\n                     ",
+       [
+        "span",
+        {},
+        "H. S."
+       ],
+       "\n                  "
+      ],
+      "\n               "
+     ],
+     "\n               ",
+     [
+      "i",
+      {},
+      "\n               Art worlds"
+     ],
+     "\n               ",
+     [
+      "span",
+      {},
+      "University of California Press"
+     ],
+     "\n            "
+    ],
+    "\n         "
+   ],
+   "\n         ",
+   [
+    "p",
+    {
+     "id": "t-B1",
+     "rol": "ref",
+     "lang": "es"
+    },
+    "\n            ",
+    [
+     "span",
+     {},
+     "\n               Berger, P. L., y Luckmann, T. (1976). \n               ",
+     [
+      "i",
+      {},
+      "La construcción social de la realidad"
+     ],
+     "\n               (Trad. S. Zuleta). Amorrortu Editores.\n            "
+    ],
+    "\n            ",
+    [
+     "span",
+     {},
+     "\n               ",
+     [
+      "span",
+      {},
+      "1976"
+     ],
+     "\n               ",
+     [
+      "span",
+      {},
+      "\n                  ",
+      [
+       "span",
+       {},
+       "\n                     ",
+       [
+        "span",
+        {},
+        "Berger"
+       ],
+       "\n                     ",
+       [
+        "span",
+        {},
+        "P. L."
+       ],
+       "\n                  "
+      ],
+      "\n                  ",
+      [
+       "span",
+       {},
+       "\n                     ",
+       [
+        "span",
+        {},
+        "Luckmann"
+       ],
+       "\n                     ",
+       [
+        "span",
+        {},
+        "y T."
+       ],
+       "\n                  "
+      ],
+      "\n               "
+     ],
+     "\n               ",
+     [
+      "i",
+      {},
+      "\n               La construcción social de la realidad"
+     ],
+     "\n               ",
+     [
+      "span",
+      {},
+      "Amorrortu Editores"
+     ],
+     "\n            "
+    ],
+    "\n         "
+   ],
+   "\n         ",
+   [
+    "p",
+    {
+     "id": "t-B2",
+     "rol": "ref",
+     "lang": "es"
+    },
+    "\n            ",
+    [
+     "span",
+     {},
+     "\n               Bertaux, D. (1981). El enfoque biográfico: su validez metodológica, sus potencialidades. \n               ",
+     [
+      "i",
+      {},
+      "Acta Sociológica"
+     ],
+     "\n               ,\n               ",
+     [
+      "i",
+      {},
+      " 1"
+     ],
+     "\n               (56), 61-93. https://doi.org/10.22201/fcpys.24484938e.2011.56.29458\n            "
+    ],
+    "\n            ",
+    [
+     "span",
+     {},
+     "\n               ",
+     [
+      "span",
+      {},
+      "1981"
+     ],
+     "\n               ",
+     [
+      "span",
+      {},
+      "El enfoque biográfico: su validez metodológica, sus potencialidades"
+     ],
+     "\n               ",
+     [
+      "span",
+      {},
+      "\n                  ",
+      [
+       "span",
+       {},
+       "\n                     ",
+       [
+        "span",
+        {},
+        "Bertaux"
+       ],
+       "\n                     ",
+       [
+        "span",
+        {},
+        "D."
+       ],
+       "\n                  "
+      ],
+      "\n               "
+     ],
+     "\n               ",
+     [
+      "i",
+      {},
+      "\n               Acta Sociológica"
+     ],
+     "\n               ",
+     [
+      "span",
+      {},
+      "1"
+     ],
+     "\n               ",
+     [
+      "span",
+      {},
+      "56"
+     ],
+     "\n               ",
+     [
+      "span",
+      {},
+      "61"
+     ],
+     "\n               ",
+     [
+      "span",
+      {},
+      "93"
+     ],
+     "\n               ",
+     [
+      "span",
+      {},
+      "10.22201/fcpys.24484938e.2011.56.29458"
+     ],
+     "\n            "
+    ],
+    "\n         "
+   ],
+   "\n         ",
+   [
+    "p",
+    {
+     "id": "t-B3",
+     "rol": "ref"
+    },
+    "\n            ",
+    [
+     "span",
+     {},
+     "\n               Bourdieu, P. (1993). Efectos del lugar. En P. Bourdieu (Coord.), \n               ",
+     [
+      "i",
+      {},
+      "La miseria del mundo"
+     ],
+     "\n               (pp. 119-121). Fondo de Cultura Económica.\n            "
+    ],
+    "\n            ",
+    [
+     "span",
+     {},
+     "\n               ",
+     [
+      "span",
+      {},
+      "1993"
+     ],
+     "\n               ",
+     [
+      "span",
+      {},
+      "Efectos del lugar"
+     ],
+     "\n               ",
+     [
+      "span",
+      {},
+      "\n                  ",
+      [
+       "span",
+       {},
+       "\n                     ",
+       [
+        "span",
+        {},
+        "Bourdieu"
+       ],
+       "\n                     ",
+       [
+        "span",
+        {},
+        "P."
+       ],
+       "\n                  "
+      ],
+      "\n               "
+     ],
+     "\n               ",
+     [
+      "span",
+      {},
+      "\n                  ",
+      [
+       "span",
+       {},
+       "\n                     ",
+       [
+        "span",
+        {},
+        "Bourdieu"
+       ],
+       "\n                     ",
+       [
+        "span",
+        {},
+        "P."
+       ],
+       "\n                  "
+      ],
+      "\n               "
+     ],
+     "\n               ",
+     [
+      "i",
+      {},
+      "\n               La miseria del mundo"
+     ],
+     "\n               ",
+     [
+      "span",
+      {},
+      "119"
+     ],
+     "\n               ",
+     [
+      "span",
+      {},
+      "121"
+     ],
+     "\n               ",
+     [
+      "span",
+      {},
+      "Fondo de Cultura Económica"
+     ],
+     "\n            "
+    ],
+    "\n         "
+   ],
+   "\n         ",
+   [
+    "p",
+    {
+     "id": "t-B4",
+     "rol": "ref",
+     "lang": "es"
+    },
+    "\n            ",
+    [
+     "span",
+     {},
+     "\n               Carrizales, D. (2005, 9 de febrero). Desaparecen las carreras de historia y filosofía en la UANL; el mercado, la causa. \n               ",
+     [
+      "i",
+      {},
+      "La Jornada."
+     ],
+     "\n               ",
+     [
+      "a",
+      {
+       "href": "https://www.jornada.com.mx/2005/02/09/index.php?section=sociedad&article=049n2soc"
+      },
+      "https://www.jornada.com.mx/2005/02/09/index.php?section=sociedad&article=049n2soc"
+     ],
+     "\n            "
+    ],
+    "\n            ",
+    [
+     "span",
+     {},
+     "\n               ",
+     [
+      "span",
+      {},
+      "2005"
+     ],
+     "\n               ",
+     [
+      "span",
+      {},
+      "Desaparecen las carreras de historia y filosofía en la UANL; el mercado, la causa"
+     ],
+     "\n               ",
+     [
+      "span",
+      {},
+      "\n                  ",
+      [
+       "span",
+       {},
+       "\n                     ",
+       [
+        "span",
+        {},
+        "Carrizales"
+       ],
+       "\n                     ",
+       [
+        "span",
+        {},
+        "D."
+       ],
+       "\n                  "
+      ],
+      "\n               "
+     ],
+     "\n               ",
+     [
+      "i",
+      {},
+      "\n               La Jornada"
+     ],
+     "\n               ",
+     [
+      "a",
+      {
+       "href": "https://www.jornada.com.mx/2005/02/09/index.php?section=sociedad&article=049n2soc"
+      },
+      "https://www.jornada.com.mx/2005/02/09/index.php?section=sociedad&article=049n2soc"
+     ],
+     "\n            "
+    ],
+    "\n         "
+   ],
+   "\n         ",
+   [
+    "p",
+    {
+     "id": "t-B5",
+     "rol": "ref",
+     "lang": "es"
+    },
+    "\n            ",
+    [
+     "span",
+     {},
+     "\n               Castañeda Rivera, E., y Garduño Bello, B. (2017). Mapa de las industrias creativas en México. Proyección para CENTRO. \n               ",
+     [
+      "i",
+      {},
+      "Economía Creativa"
+     ],
+     "\n               , \n               ",
+     [
+      "i",
+      {},
+      "7"
+     ],
+     "\n               , 117-166. https://doi.org/10.46840/ec.2017.07.05\n            "
+    ],
+    "\n            ",
+    [
+     "span",
+     {},
+     "\n               ",
+     [
+      "span",
+      {},
+      "2017"
+     ],
+     "\n               ",
+     [
+      "span",
+      {},
+      "Mapa de las industrias creativas en México. Proyección para CENTRO"
+     ],
+     "\n               ",
+     [
+      "span",
+      {},
+      "\n                  ",
+      [
+       "span",
+       {},
+       "\n                     ",
+       [
+        "span",
+        {},
+        "Castañeda Rivera"
+       ],
+       "\n                     ",
+       [
+        "span",
+        {},
+        "E."
+       ],
+       "\n                  "
+      ],
+      "\n                  ",
+      [
+       "span",
+       {},
+       "\n                     ",
+       [
+        "span",
+        {},
+        "Garduño Bello"
+       ],
+       "\n                     ",
+       [
+        "span",
+        {},
+        "y B."
+       ],
+       "\n                  "
+      ],
+      "\n               "
+     ],
+     "\n               ",
+     [
+      "i",
+      {},
+      "\n               Economía Creativa"
+     ],
+     "\n               ",
+     [
+      "span",
+      {},
+      "7"
+     ],
+     "\n               ",
+     [
+      "span",
+      {},
+      "117"
+     ],
+     "\n               ",
+     [
+      "span",
+      {},
+      "166"
+     ],
+     "\n               ",
+     [
+      "span",
+      {},
+      "10.46840/ec.2017.07.05"
+     ],
+     "\n            "
+    ],
+    "\n         "
+   ],
+   "\n         ",
+   [
+    "p",
+    {
+     "id": "t-B6",
+     "rol": "ref",
+     "lang": "es"
+    },
+    "\n            ",
+    [
+     "span",
+     {},
+     "\n               Cedillo, J. A. (2017, 30 de julio). Gobierno del Bronco elimina única estación de radio cultural en N. L. \n               ",
+     [
+      "i",
+      {},
+      "Proceso."
+     ],
+     "\n               ",
+     [
+      "a",
+      {
+       "href": "https://www.proceso.com.mx/nacional/estados/2017/7/30/gobierno-de-el-bronco-elimina-la-unica-estacion-de-radio-cultural-en-nuevo-leon-188611.html"
+      },
+      "https://www.proceso.com.mx/nacional/estados/2017/7/30/gobierno-de-el-bronco-elimina-la-unica-estacion-de-radio-cultural-en-nuevo-leon-188611.html"
+     ],
+     "\n            "
+    ],
+    "\n            ",
+    [
+     "span",
+     {},
+     "\n               ",
+     [
+      "span",
+      {},
+      "2017"
+     ],
+     "\n               ",
+     [
+      "span",
+      {},
+      "Gobierno del Bronco elimina única estación de radio cultural en N. L."
+     ],
+     "\n               ",
+     [
+      "span",
+      {},
+      "\n                  ",
+      [
+       "span",
+       {},
+       "\n                     ",
+       [
+        "span",
+        {},
+        "Cedillo"
+       ],
+       "\n                     ",
+       [
+        "span",
+        {},
+        "J. A."
+       ],
+       "\n                  "
+      ],
+      "\n               "
+     ],
+     "\n               ",
+     [
+      "i",
+      {},
+      "\n               Proceso"
+     ],
+     "\n               ",
+     [
+      "a",
+      {
+       "href": "https://www.proceso.com.mx/nacional/estados/2017/7/30/gobierno-de-el-bronco-elimina-la-unica-estacion-de-radio-cultural-en-nuevo-leon-188611.html"
+      },
+      "https://www.proceso.com.mx/nacional/estados/2017/7/30/gobierno-de-el-bronco-elimina-la-unica-estacion-de-radio-cultural-en-nuevo-leon-188611.html"
+     ],
+     "\n            "
+    ],
+    "\n         "
+   ],
+   "\n         ",
+   [
+    "p",
+    {
+     "id": "t-B7",
+     "rol": "ref",
+     "lang": "es"
+    },
+    "\n            ",
+    [
+     "span",
+     {},
+     "\n               Cerutti, M. (2000). \n               ",
+     [
+      "i",
+      {},
+      "Propietarios, empresarios y empresas en el norte de México. Monterrey: de 1884 a la globalización."
+     ],
+     "\n               Siglo XXI Editores.\n            "
+    ],
+    "\n            ",
+    [
+     "span",
+     {},
+     "\n               ",
+     [
+      "span",
+      {},
+      "2000"
+     ],
+     "\n               ",
+     [
+      "span",
+      {},
+      "\n                  ",
+      [
+       "span",
+       {},
+       "\n                     ",
+       [
+        "span",
+        {},
+        "Cerutti"
+       ],
+       "\n                     ",
+       [
+        "span",
+        {},
+        "M."
+       ],
+       "\n                  "
+      ],
+      "\n               "
+     ],
+     "\n               ",
+     [
+      "i",
+      {},
+      "\n               Propietarios, empresarios y empresas en el norte de México. Monterrey: de 1884 a la globalización"
+     ],
+     "\n               ",
+     [
+      "span",
+      {},
+      "Siglo XXI Editores"
+     ],
+     "\n            "
+    ],
+    "\n         "
+   ],
+   "\n         ",
+   [
+    "p",
+    {
+     "id": "t-B8",
+     "rol": "ref",
+     "lang": "es"
+    },
+    "\n            ",
+    [
+     "span",
+     {},
+     "\n               Consejo Nacional de Población (Conapo). (1994) \n               ",
+     [
+      "i",
+      {},
+      "Evolución de las ciudades en México, 1900-1990"
+     ],
+     "\n               . Secretaría de Gobernación. \n               ",
+     [
+      "a",
+      {
+       "href": "http://www.conapo.gob.mx/work/models/CONAPO/Resource/2538/2/images/40_Aniversario_CONAPO.pdf"
+      },
+      "http://www.conapo.gob.mx/work/models/CONAPO/Resource/2538/2/images/40_Aniversario_CONAPO.pdf"
+     ],
+     "\n            "
+    ],
+    "\n            ",
+    [
+     "span",
+     {},
+     "\n               ",
+     [
+      "span",
+      {},
+      "1994"
+     ],
+     "\n               ",
+     [
+      "span",
+      {},
+      "\n                  ",
+      [
+       "span",
+       {},
+       "Consejo Nacional de Población"
+      ],
+      "\n               "
+     ],
+     "\n               ",
+     [
+      "i",
+      {},
+      "\n               Evolución de las ciudades en México, 1900-1990"
+     ],
+     "\n               ",
+     [
+      "span",
+      {},
+      "Secretaría de Gobernación"
+     ],
+     "\n               ",
+     [
+      "a",
+      {
+       "href": "http://www.conapo.gob.mx/work/models/CONAPO/Resource/2538/2/images/40_Aniversario_CONAPO.pdf"
+      },
+      "http://www.conapo.gob.mx/work/models/CONAPO/Resource/2538/2/images/40_Aniversario_CONAPO.pdf"
+     ],
+     "\n            "
+    ],
+    "\n         "
+   ],
+   "\n         ",
+   [
+    "p",
+    {
+     "id": "t-B9",
+     "rol": "ref",
+     "lang": "es"
+    },
+    "\n            ",
+    [
+     "span",
+     {},
+     "\n               Consejo Nacional de Población (Conapo). (2004). \n               ",
+     [
+      "i",
+      {},
+      "Delimitaciones de las zonas metropolitanas de México."
+     ],
+     "\n               Secretaría de Desarrollo Social; Secretaría de Gobernación; Instituto Nacional de Estadística, Geografía e Informática. \n               ",
+     [
+      "a",
+      {
+       "href": "https://www.inegi.org.mx/contenidos/productos/prod_serv/contenidos/espanol/bvinegi/productos/historicos/1329/702825010048/702825010048.pdf"
+      },
+      "https://www.inegi.org.mx/contenidos/productos/prod_serv/contenidos/espanol/bvinegi/productos/historicos/1329/702825010048/702825010048.pdf"
+     ],
+     "\n            "
+    ],
+    "\n            ",
+    [
+     "span",
+     {},
+     "\n               ",
+     [
+      "span",
+      {},
+      "2004"
+     ],
+     "\n               ",
+     [
+      "span",
+      {},
+      "\n                  ",
+      [
+       "span",
+       {},
+       "Consejo Nacional de Población"
+      ],
+      "\n               "
+     ],
+     "\n               ",
+     [
+      "i",
+      {},
+      "\n               Delimitaciones de las zonas metropolitanas de México"
+     ],
+     "\n               ",
+     [
+      "span",
+      {},
+      "Secretaría de Desarrollo Social; Secretaría de Gobernación; Instituto Nacional de Estadística, Geografía e Informática"
+     ],
+     "\n               ",
+     [
+      "a",
+      {
+       "href": "https://www.inegi.org.mx/contenidos/productos/prod_serv/contenidos/espanol/bvinegi/productos/historicos/1329/702825010048/702825010048.pdf"
+      },
+      "https://www.inegi.org.mx/contenidos/productos/prod_serv/contenidos/espanol/bvinegi/productos/historicos/1329/702825010048/702825010048.pdf"
+     ],
+     "\n            "
+    ],
+    "\n         "
+   ],
+   "\n         ",
+   [
+    "p",
+    {
+     "id": "t-B10",
+     "rol": "ref",
+     "lang": "es"
+    },
+    "\n            ",
+    [
+     "span",
+     {},
+     "\n               De Ibarrola, M. (2009). El incremento de la escolaridad de la PEA en México y los efectos sobre su situación laboral y sus ingresos, 1992-2004. \n               ",
+     [
+      "i",
+      {},
+      "Revista Electrónica de Investigación Educativa"
+     ],
+     "\n               , \n               ",
+     [
+      "i",
+      {},
+      "11"
+     ],
+     "\n               (2), 1-19. \n               ",
+     [
+      "a",
+      {
+       "href": "https://redie.uabc.mx/redie/article/view/232"
+      },
+      "https://redie.uabc.mx/redie/article/view/232"
+     ],
+     "\n            "
+    ],
+    "\n            ",
+    [
+     "span",
+     {},
+     "\n               ",
+     [
+      "span",
+      {},
+      "2009"
+     ],
+     "\n               ",
+     [
+      "span",
+      {},
+      "El incremento de la escolaridad de la PEA en México y los efectos sobre su situación laboral y sus ingresos, 1992-2004"
+     ],
+     "\n               ",
+     [
+      "span",
+      {},
+      "\n                  ",
+      [
+       "span",
+       {},
+       "\n                     ",
+       [
+        "span",
+        {},
+        "De Ibarrola"
+       ],
+       "\n                     ",
+       [
+        "span",
+        {},
+        "M."
+       ],
+       "\n                  "
+      ],
+      "\n               "
+     ],
+     "\n               ",
+     [
+      "i",
+      {},
+      "\n               Revista Electrónica de Investigación Educativa"
+     ],
+     "\n               ",
+     [
+      "span",
+      {},
+      "11"
+     ],
+     "\n               ",
+     [
+      "span",
+      {},
+      "2"
+     ],
+     "\n               ",
+     [
+      "span",
+      {},
+      "1"
+     ],
+     "\n               ",
+     [
+      "span",
+      {},
+      "19"
+     ],
+     "\n               ",
+     [
+      "a",
+      {
+       "href": "https://redie.uabc.mx/redie/article/view/232"
+      },
+      "https://redie.uabc.mx/redie/article/view/232"
+     ],
+     "\n            "
+    ],
+    "\n         "
+   ],
+   "\n         ",
+   [
+    "p",
+    {
+     "id": "t-B11",
+     "rol": "ref"
+    },
+    "\n            ",
+    [
+     "span",
+     {},
+     "\n               Dubar, C., y Tripier, P. (1998). \n               ",
+     [
+      "i",
+      {},
+      "Sociologie des professions"
+     ],
+     "\n               . Armand Colin.\n            "
+    ],
+    "\n            ",
+    [
+     "span",
+     {},
+     "\n               ",
+     [
+      "span",
+      {},
+      "1998"
+     ],
+     "\n               ",
+     [
+      "span",
+      {},
+      "\n                  ",
+      [
+       "span",
+       {},
+       "\n                     ",
+       [
+        "span",
+        {},
+        "Dubar"
+       ],
+       "\n                     ",
+       [
+        "span",
+        {},
+        "C."
+       ],
+       "\n                  "
+      ],
+      "\n                  ",
+      [
+       "span",
+       {},
+       "\n                     ",
+       [
+        "span",
+        {},
+        "Tripier"
+       ],
+       "\n                     ",
+       [
+        "span",
+        {},
+        "y P."
+       ],
+       "\n                  "
+      ],
+      "\n               "
+     ],
+     "\n               ",
+     [
+      "i",
+      {},
+      "\n               Sociologie des professions"
+     ],
+     "\n               ",
+     [
+      "span",
+      {},
+      "Armand Colin"
+     ],
+     "\n            "
+    ],
+    "\n         "
+   ],
+   "\n         ",
+   [
+    "p",
+    {
+     "id": "t-B34",
+     "rol": "ref",
+     "lang": "es"
+    },
+    "\n            ",
+    [
+     "span",
+     {},
+     "\n               Dubet, F., y Zapata, F. (1989). De la sociología de la identidad a la sociología del sujeto. Estudios Sociológicos de El Colegio de México, 7(21), 519-545. \n               ",
+     [
+      "a",
+      {
+       "href": "https://estudiossociologicos.colmex.mx/index.php/es/article/view/1088"
+      },
+      "https://estudiossociologicos.colmex.mx/index.php/es/article/view/1088"
+     ],
+     "\n            "
+    ],
+    "\n            ",
+    [
+     "span",
+     {},
+     "\n               ",
+     [
+      "span",
+      {},
+      "1989"
+     ],
+     "\n               ",
+     [
+      "span",
+      {},
+      "De la sociología de la identidad a la sociología del sujeto"
+     ],
+     "\n               ",
+     [
+      "span",
+      {},
+      "\n                  ",
+      [
+       "span",
+       {},
+       "\n                     ",
+       [
+        "span",
+        {},
+        "Dubet"
+       ],
+       "\n                     ",
+       [
+        "span",
+        {},
+        "F."
+       ],
+       "\n                  "
+      ],
+      "\n                  ",
+      [
+       "span",
+       {},
+       "\n                     ",
+       [
+        "span",
+        {},
+        "Zapata"
+       ],
+       "\n                     ",
+       [
+        "span",
+        {},
+        "y F."
+       ],
+       "\n                  "
+      ],
+      "\n               "
+     ],
+     "\n               ",
+     [
+      "i",
+      {},
+      "\n               Estudios Sociológicos de El Colegio de México"
+     ],
+     "\n               ",
+     [
+      "span",
+      {},
+      "7"
+     ],
+     "\n               ",
+     [
+      "span",
+      {},
+      "21"
+     ],
+     "\n               ",
+     [
+      "span",
+      {},
+      "519"
+     ],
+     "\n               ",
+     [
+      "span",
+      {},
+      "545"
+     ],
+     "\n               ",
+     [
+      "a",
+      {
+       "href": "https://estudiossociologicos.colmex.mx/index.php/es/article/view/1088"
+      },
+      "https://estudiossociologicos.colmex.mx/index.php/es/article/view/1088"
+     ],
+     "\n            "
+    ],
+    "\n         "
+   ],
+   "\n         ",
+   [
+    "p",
+    {
+     "id": "t-B12",
+     "rol": "ref",
+     "lang": "es"
+    },
+    "\n            ",
+    [
+     "span",
+     {},
+     "\n               Estrada Saavedra, M. (2000). La vida y el mundo: distinción conceptual entre mundo de vida y vida cotidiana. \n               ",
+     [
+      "i",
+      {},
+      "Sociológica"
+     ],
+     "\n               ,\n               ",
+     [
+      "i",
+      {},
+      " 15"
+     ],
+     "\n               (43), 103-151. \n               ",
+     [
+      "a",
+      {
+       "href": "https://sociologicamexico.azc.uam.mx/index.php/Sociologica/article/view/483"
+      },
+      "https://sociologicamexico.azc.uam.mx/index.php/Sociologica/article/view/483"
+     ],
+     "\n            "
+    ],
+    "\n            ",
+    [
+     "span",
+     {},
+     "\n               ",
+     [
+      "span",
+      {},
+      "2000"
+     ],
+     "\n               ",
+     [
+      "span",
+      {},
+      "La vida y el mundo: distinción conceptual entre mundo de vida y vida cotidiana"
+     ],
+     "\n               ",
+     [
+      "span",
+      {},
+      "\n                  ",
+      [
+       "span",
+       {},
+       "\n                     ",
+       [
+        "span",
+        {},
+        "Estrada Saavedra"
+       ],
+       "\n                     ",
+       [
+        "span",
+        {},
+        "M."
+       ],
+       "\n                  "
+      ],
+      "\n               "
+     ],
+     "\n               ",
+     [
+      "i",
+      {},
+      "\n               Sociológica"
+     ],
+     "\n               ",
+     [
+      "span",
+      {},
+      "15"
+     ],
+     "\n               ",
+     [
+      "span",
+      {},
+      "43"
+     ],
+     "\n               ",
+     [
+      "span",
+      {},
+      "103"
+     ],
+     "\n               ",
+     [
+      "span",
+      {},
+      "151"
+     ],
+     "\n               ",
+     [
+      "a",
+      {
+       "href": "https://sociologicamexico.azc.uam.mx/index.php/Sociologica/article/view/483"
+      },
+      "https://sociologicamexico.azc.uam.mx/index.php/Sociologica/article/view/483"
+     ],
+     "\n            "
+    ],
+    "\n         "
+   ],
+   "\n         ",
+   [
+    "p",
+    {
+     "id": "t-B35",
+     "rol": "ref",
+     "lang": "pt"
+    },
+    "\n            ",
+    [
+     "span",
+     {},
+     "\n               Flores Torres, O. (2000). \n               ",
+     [
+      "i",
+      {},
+      "Monterrey industrial 1890-2000"
+     ],
+     "\n               . Universidad de Monterrey.\n            "
+    ],
+    "\n            ",
+    [
+     "span",
+     {},
+     "\n               ",
+     [
+      "span",
+      {},
+      "2000"
+     ],
+     "\n               ",
+     [
+      "span",
+      {},
+      "\n                  ",
+      [
+       "span",
+       {},
+       "\n                     ",
+       [
+        "span",
+        {},
+        "Flores Torres"
+       ],
+       "\n                     ",
+       [
+        "span",
+        {},
+        "O."
+       ],
+       "\n                  "
+      ],
+      "\n               "
+     ],
+     "\n               ",
+     [
+      "i",
+      {},
+      "\n               Monterrey industrial 1890-2000"
+     ],
+     "\n               ",
+     [
+      "span",
+      {},
+      "Universidad de Monterrey"
+     ],
+     "\n            "
+    ],
+    "\n         "
+   ],
+   "\n         ",
+   [
+    "p",
+    {
+     "id": "t-B13",
+     "rol": "ref"
+    },
+    "\n            ",
+    [
+     "span",
+     {},
+     "\n               García, D. (2019, 22 de marzo). Festivales musicales dejan una derrama de 508 mdp. \n               ",
+     [
+      "i",
+      {},
+      "Milenio. "
+     ],
+     "\n               ",
+     [
+      "a",
+      {
+       "href": "https://www.milenio.com/negocios/festivales-musicales-dejan-derrama-508-mdp"
+      },
+      "https://www.milenio.com/negocios/festivales-musicales-dejan-derrama-508-mdp"
+     ],
+     "\n            "
+    ],
+    "\n            ",
+    [
+     "span",
+     {},
+     "\n               ",
+     [
+      "span",
+      {},
+      "2019"
+     ],
+     "\n               ",
+     [
+      "span",
+      {},
+      "Festivales musicales dejan una derrama de 508 mdp"
+     ],
+     "\n               ",
+     [
+      "span",
+      {},
+      "\n                  ",
+      [
+       "span",
+       {},
+       "\n                     ",
+       [
+        "span",
+        {},
+        "García"
+       ],
+       "\n                     ",
+       [
+        "span",
+        {},
+        "D."
+       ],
+       "\n                  "
+      ],
+      "\n               "
+     ],
+     "\n               ",
+     [
+      "i",
+      {},
+      "\n               Milenio"
+     ],
+     "\n               ",
+     [
+      "a",
+      {
+       "href": "https://www.milenio.com/negocios/festivales-musicales-dejan-derrama-508-mdp"
+      },
+      "https://www.milenio.com/negocios/festivales-musicales-dejan-derrama-508-mdp"
+     ],
+     "\n            "
+    ],
+    "\n         "
+   ],
+   "\n         ",
+   [
+    "p",
+    {
+     "id": "t-B14",
+     "rol": "ref",
+     "lang": "es"
+    },
+    "\n            ",
+    [
+     "span",
+     {},
+     "\n               Garduño Bello, B. (2019)\n               ",
+     [
+      "i",
+      {},
+      ". La profesión académica en las escuelas profesionales de danza: narrativas biográficas de trayectorias complejas"
+     ],
+     "\n               . [Tesis doctoral, El Colegio de México]. \n               ",
+     [
+      "a",
+      {
+       "href": "https://repositorio.colmex.mx/concern/theses/v405s987h?locale=es"
+      },
+      "https://repositorio.colmex.mx/concern/theses/v405s987h?locale=es"
+     ],
+     "\n            "
+    ],
+    "\n            ",
+    [
+     "span",
+     {},
+     "\n               ",
+     [
+      "span",
+      {},
+      "2019"
+     ],
+     "\n               ",
+     [
+      "span",
+      {},
+      "\n                  ",
+      [
+       "span",
+       {},
+       "\n                     ",
+       [
+        "span",
+        {},
+        "Garduño Bello"
+       ],
+       "\n                     ",
+       [
+        "span",
+        {},
+        "B."
+       ],
+       "\n                  "
+      ],
+      "\n               "
+     ],
+     "\n               ",
+     [
+      "i",
+      {},
+      "\n               La profesión académica en las escuelas profesionales de danza: narrativas biográficas de trayectorias complejas"
+     ],
+     "\n               ",
+     [
+      "span",
+      {},
+      "Tesis doctoral"
+     ],
+     "\n               ",
+     [
+      "span",
+      {},
+      "El Colegio de México"
+     ],
+     "\n               ",
+     [
+      "a",
+      {
+       "href": "https://repositorio.colmex.mx/concern/theses/v405s987h?locale=es"
+      },
+      "https://repositorio.colmex.mx/concern/theses/v405s987h?locale=es"
+     ],
+     "\n            "
+    ],
+    "\n         "
+   ],
+   "\n         ",
+   [
+    "p",
+    {
+     "id": "t-B15",
+     "rol": "ref"
+    },
+    "\n            ",
+    [
+     "span",
+     {},
+     "\n               Glaser, B., y Strauss, A. (1967).\n               ",
+     [
+      "i",
+      {},
+      " The discovery of grounded theory: Strategies for qualitative research."
+     ],
+     "\n               Aldine.\n            "
+    ],
+    "\n            ",
+    [
+     "span",
+     {},
+     "\n               ",
+     [
+      "span",
+      {},
+      "1967"
+     ],
+     "\n               ",
+     [
+      "span",
+      {},
+      "\n                  ",
+      [
+       "span",
+       {},
+       "\n                     ",
+       [
+        "span",
+        {},
+        "Glaser"
+       ],
+       "\n                     ",
+       [
+        "span",
+        {},
+        "B."
+       ],
+       "\n                  "
+      ],
+      "\n                  ",
+      [
+       "span",
+       {},
+       "\n                     ",
+       [
+        "span",
+        {},
+        "Strauss"
+       ],
+       "\n                     ",
+       [
+        "span",
+        {},
+        "y A."
+       ],
+       "\n                  "
+      ],
+      "\n               "
+     ],
+     "\n               ",
+     [
+      "i",
+      {},
+      "\n               The discovery of grounded theory: Strategies for qualitative research"
+     ],
+     "\n               ",
+     [
+      "span",
+      {},
+      "Aldine"
+     ],
+     "\n            "
+    ],
+    "\n         "
+   ],
+   "\n         ",
+   [
+    "p",
+    {
+     "id": "t-B16",
+     "rol": "ref",
+     "lang": "es"
+    },
+    "\n            ",
+    [
+     "span",
+     {},
+     "\n               Goffman, E. (1993). \n               ",
+     [
+      "i",
+      {},
+      "La presentación de la persona en la vida cotidiana"
+     ],
+     "\n               (Trads. H. B. Torres Perrén y F. Setaro). Amorrortu Editores.\n            "
+    ],
+    "\n            ",
+    [
+     "span",
+     {},
+     "\n               ",
+     [
+      "span",
+      {},
+      "1993"
+     ],
+     "\n               ",
+     [
+      "span",
+      {},
+      "\n                  ",
+      [
+       "span",
+       {},
+       "\n                     ",
+       [
+        "span",
+        {},
+        "Goffman"
+       ],
+       "\n                     ",
+       [
+        "span",
+        {},
+        "E."
+       ],
+       "\n                  "
+      ],
+      "\n               "
+     ],
+     "\n               ",
+     [
+      "i",
+      {},
+      "\n               La presentación de la persona en la vida cotidiana"
+     ],
+     "\n               ",
+     [
+      "span",
+      {},
+      "Amorrortu Editores"
+     ],
+     "\n            "
+    ],
+    "\n         "
+   ],
+   "\n         ",
+   [
+    "p",
+    {
+     "id": "t-B17",
+     "rol": "ref",
+     "lang": "es"
+    },
+    "\n            ",
+    [
+     "span",
+     {},
+     "\n               Guadarrama, R. (2019). \n               ",
+     [
+      "i",
+      {},
+      "Vivir del arte: la condición social de los músicos profesionales en México."
+     ],
+     "\n               Universidad Autónoma Metropolitana-Cuajimalpa.\n            "
+    ],
+    "\n            ",
+    [
+     "span",
+     {},
+     "\n               ",
+     [
+      "span",
+      {},
+      "2019"
+     ],
+     "\n               ",
+     [
+      "span",
+      {},
+      "\n                  ",
+      [
+       "span",
+       {},
+       "\n                     ",
+       [
+        "span",
+        {},
+        "Guadarrama"
+       ],
+       "\n                     ",
+       [
+        "span",
+        {},
+        "R."
+       ],
+       "\n                  "
+      ],
+      "\n               "
+     ],
+     "\n               ",
+     [
+      "i",
+      {},
+      "\n               Vivir del arte: la condición social de los músicos profesionales en México"
+     ],
+     "\n               ",
+     [
+      "span",
+      {},
+      "Universidad Autónoma Metropolitana-Cuajimalpa"
+     ],
+     "\n            "
+    ],
+    "\n         "
+   ],
+   "\n         ",
+   [
+    "p",
+    {
+     "id": "t-B18",
+     "rol": "ref"
+    },
+    "\n            ",
+    [
+     "span",
+     {},
+     "\n               Heinz, W. (2003). From work trajectories to negotiated careers: The contingent work life course. En J. T. Mortimer y M. J. Shanahan (Eds.), \n               ",
+     [
+      "i",
+      {},
+      "Handbook of the life course"
+     ],
+     "\n               (pp. 184-204). Kluwer Academic; Plenum Publishers.\n            "
+    ],
+    "\n            ",
+    [
+     "span",
+     {},
+     "\n               ",
+     [
+      "span",
+      {},
+      "2003"
+     ],
+     "\n               ",
+     [
+      "span",
+      {},
+      "From work trajectories to negotiated careers: The contingent work life course"
+     ],
+     "\n               ",
+     [
+      "span",
+      {},
+      "\n                  ",
+      [
+       "span",
+       {},
+       "\n                     ",
+       [
+        "span",
+        {},
+        "Heinz"
+       ],
+       "\n                     ",
+       [
+        "span",
+        {},
+        "W."
+       ],
+       "\n                  "
+      ],
+      "\n               "
+     ],
+     "\n               ",
+     [
+      "span",
+      {},
+      "\n                  ",
+      [
+       "span",
+       {},
+       "\n                     ",
+       [
+        "span",
+        {},
+        "Mortimer"
+       ],
+       "\n                     ",
+       [
+        "span",
+        {},
+        "J. T."
+       ],
+       "\n                  "
+      ],
+      "\n                  ",
+      [
+       "span",
+       {},
+       "\n                     ",
+       [
+        "span",
+        {},
+        "Shanahan"
+       ],
+       "\n                     ",
+       [
+        "span",
+        {},
+        "M. J."
+       ],
+       "\n                  "
+      ],
+      "\n               "
+     ],
+     "\n               ",
+     [
+      "i",
+      {},
+      "\n               Handbook of the life course"
+     ],
+     "\n               ",
+     [
+      "span",
+      {},
+      "184"
+     ],
+     "\n               ",
+     [
+      "span",
+      {},
+      "204"
+     ],
+     "\n               ",
+     [
+      "span",
+      {},
+      "Kluwer Academic; Plenum Publishers"
+     ],
+     "\n            "
+    ],
+    "\n         "
+   ],
+   "\n         ",
+   [
+    "p",
+    {
+     "id": "t-B19",
+     "rol": "ref",
+     "lang": "es"
+    },
+    "\n            ",
+    [
+     "span",
+     {},
+     "\n               Honneth, A. (2010). \n               ",
+     [
+      "i",
+      {},
+      "Reconocimiento y menosprecio: sobre la fundamentación normativa de una teoría social"
+     ],
+     "\n               (Trad. J. Romeu Labayen). Katz Editores.\n            "
+    ],
+    "\n            ",
+    [
+     "span",
+     {},
+     "\n               ",
+     [
+      "span",
+      {},
+      "2010"
+     ],
+     "\n               ",
+     [
+      "span",
+      {},
+      "\n                  ",
+      [
+       "span",
+       {},
+       "\n                     ",
+       [
+        "span",
+        {},
+        "Honneth"
+       ],
+       "\n                     ",
+       [
+        "span",
+        {},
+        "A."
+       ],
+       "\n                  "
+      ],
+      "\n               "
+     ],
+     "\n               ",
+     [
+      "i",
+      {},
+      "\n               Reconocimiento y menosprecio: sobre la fundamentación normativa de una teoría social"
+     ],
+     "\n               ",
+     [
+      "span",
+      {},
+      "Katz Editores"
+     ],
+     "\n            "
+    ],
+    "\n         "
+   ],
+   "\n         ",
+   [
+    "p",
+    {
+     "id": "t-B20",
+     "rol": "ref",
+     "lang": "es"
+    },
+    "\n            ",
+    [
+     "span",
+     {},
+     "\n               Instituto Mexicano de Competitividad (IMCO). (2015). \n               ",
+     [
+      "i",
+      {},
+      "Compara carreras"
+     ],
+     "\n               [Conjunto de datos]\n               ",
+     [
+      "i",
+      {},
+      "."
+     ],
+     "\n               ",
+     [
+      "a",
+      {
+       "href": "http://imco.org.mx/comparacarreras/#!/"
+      },
+      "http://imco.org.mx/comparacarreras/#!/"
+     ],
+     "\n            "
+    ],
+    "\n            ",
+    [
+     "span",
+     {},
+     "\n               ",
+     [
+      "span",
+      {},
+      "2015"
+     ],
+     "\n               ",
+     [
+      "span",
+      {},
+      "\n                  ",
+      [
+       "span",
+       {},
+       "Instituto Mexicano de Competitividad"
+      ],
+      "\n               "
+     ],
+     "\n               ",
+     [
+      "i",
+      {},
+      "\n               Compara carreras"
+     ],
+     "\n               ",
+     [
+      "a",
+      {
+       "href": "http://imco.org.mx/comparacarreras/#!/"
+      },
+      "http://imco.org.mx/comparacarreras/#!/"
+     ],
+     "\n            "
+    ],
+    "\n         "
+   ],
+   "\n         ",
+   [
+    "p",
+    {
+     "id": "t-B21",
+     "rol": "ref",
+     "lang": "es"
+    },
+    "\n            ",
+    [
+     "span",
+     {},
+     "\n               Juárez Flores, P. (2018). \n               ",
+     [
+      "i",
+      {},
+      "Tensiones y distensiones: formas de identificación de la danza contemporánea. Los casos de Monterrey y Tijuana"
+     ],
+     "\n               . [Tesis de maestría, El Colegio de la Frontera Norte]. \n               ",
+     [
+      "a",
+      {
+       "href": "https://www.colef.mx/posgrado/tesis/20161321/"
+      },
+      "https://www.colef.mx/posgrado/tesis/20161321/"
+     ],
+     "\n            "
+    ],
+    "\n            ",
+    [
+     "span",
+     {},
+     "\n               ",
+     [
+      "span",
+      {},
+      "2018"
+     ],
+     "\n               ",
+     [
+      "span",
+      {},
+      "\n                  ",
+      [
+       "span",
+       {},
+       "\n                     ",
+       [
+        "span",
+        {},
+        "Juárez Flores"
+       ],
+       "\n                     ",
+       [
+        "span",
+        {},
+        "P."
+       ],
+       "\n                  "
+      ],
+      "\n               "
+     ],
+     "\n               ",
+     [
+      "i",
+      {},
+      "\n               Tensiones y distensiones: formas de identificación de la danza contemporánea. Los casos de Monterrey y Tijuana"
+     ],
+     "\n               ",
+     [
+      "span",
+      {},
+      "Tesis de maestría"
+     ],
+     "\n               ",
+     [
+      "span",
+      {},
+      "El Colegio de la Frontera Norte"
+     ],
+     "\n               ",
+     [
+      "a",
+      {
+       "href": "https://www.colef.mx/posgrado/tesis/20161321/"
+      },
+      "https://www.colef.mx/posgrado/tesis/20161321/"
+     ],
+     "\n            "
+    ],
+    "\n         "
+   ],
+   "\n         ",
+   [
+    "p",
+    {
+     "id": "t-B22",
+     "rol": "ref",
+     "lang": "ca"
+    },
+    "\n            ",
+    [
+     "span",
+     {},
+     "\n               Marx, K. (2006). \n               ",
+     [
+      "i",
+      {},
+      "El capital: crítica a la economía política"
+     ],
+     "\n               (tomo I). Fondo de Cultura Económica.\n            "
+    ],
+    "\n            ",
+    [
+     "span",
+     {},
+     "\n               ",
+     [
+      "span",
+      {},
+      "2006"
+     ],
+     "\n               ",
+     [
+      "span",
+      {},
+      "\n                  ",
+      [
+       "span",
+       {},
+       "\n                     ",
+       [
+        "span",
+        {},
+        "Marx"
+       ],
+       "\n                     ",
+       [
+        "span",
+        {},
+        "K."
+       ],
+       "\n                  "
+      ],
+      "\n               "
+     ],
+     "\n               ",
+     [
+      "i",
+      {},
+      "\n               El capital: crítica a la economía política"
+     ],
+     "\n               ",
+     [
+      "span",
+      {},
+      "I"
+     ],
+     "\n               ",
+     [
+      "span",
+      {},
+      "Fondo de Cultura Económica"
+     ],
+     "\n            "
+    ],
+    "\n         "
+   ],
+   "\n         ",
+   [
+    "p",
+    {
+     "id": "t-B23",
+     "rol": "ref"
+    },
+    "\n            ",
+    [
+     "span",
+     {},
+     "\n               Meda, D. (1996). El trabajo visto en perspectiva. \n               ",
+     [
+      "i",
+      {},
+      "Revista Internacional del Trabajo"
+     ],
+     "\n               , \n               ",
+     [
+      "i",
+      {},
+      "115"
+     ],
+     "\n               (6), 689-700. \n               ",
+     [
+      "a",
+      {
+       "href": "https://researchrepository.ilo.org/esploro/outputs/journalArticle/El-valor-trabajo-visto-en-perspectiva/995274866402676"
+      },
+      "https://researchrepository.ilo.org/esploro/outputs/journalArticle/El-valor-trabajo-visto-en-perspectiva/995274866402676"
+     ],
+     "\n            "
+    ],
+    "\n            ",
+    [
+     "span",
+     {},
+     "\n               ",
+     [
+      "span",
+      {},
+      "1996"
+     ],
+     "\n               ",
+     [
+      "span",
+      {},
+      "El trabajo visto en perspectiva"
+     ],
+     "\n               ",
+     [
+      "span",
+      {},
+      "\n                  ",
+      [
+       "span",
+       {},
+       "\n                     ",
+       [
+        "span",
+        {},
+        "Meda"
+       ],
+       "\n                     ",
+       [
+        "span",
+        {},
+        "D."
+       ],
+       "\n                  "
+      ],
+      "\n               "
+     ],
+     "\n               ",
+     [
+      "i",
+      {},
+      "\n               Revista Internacional del Trabajo"
+     ],
+     "\n               ",
+     [
+      "span",
+      {},
+      "115"
+     ],
+     "\n               ",
+     [
+      "span",
+      {},
+      "6"
+     ],
+     "\n               ",
+     [
+      "span",
+      {},
+      "689"
+     ],
+     "\n               ",
+     [
+      "span",
+      {},
+      "700"
+     ],
+     "\n               ",
+     [
+      "a",
+      {
+       "href": "https://researchrepository.ilo.org/esploro/outputs/journalArticle/El-valor-trabajo-visto-en-perspectiva/995274866402676"
+      },
+      "https://researchrepository.ilo.org/esploro/outputs/journalArticle/El-valor-trabajo-visto-en-perspectiva/995274866402676"
+     ],
+     "\n            "
+    ],
+    "\n         "
+   ],
+   "\n         ",
+   [
+    "p",
+    {
+     "id": "t-B24",
+     "rol": "ref"
+    },
+    "\n            ",
+    [
+     "span",
+     {},
+     "\n               Mills, C. W. (1964). \n               ",
+     [
+      "i",
+      {},
+      "La imaginación sociológica"
+     ],
+     "\n               . (Trad. F. M. Torner). Fondo de Cultura Económica.\n            "
+    ],
+    "\n            ",
+    [
+     "span",
+     {},
+     "\n               ",
+     [
+      "span",
+      {},
+      "1964"
+     ],
+     "\n               ",
+     [
+      "span",
+      {},
+      "\n                  ",
+      [
+       "span",
+       {},
+       "\n                     ",
+       [
+        "span",
+        {},
+        "Mills"
+       ],
+       "\n                     ",
+       [
+        "span",
+        {},
+        "C. W."
+       ],
+       "\n                  "
+      ],
+      "\n               "
+     ],
+     "\n               ",
+     [
+      "i",
+      {},
+      "\n               La imaginación sociológica"
+     ],
+     "\n               ",
+     [
+      "span",
+      {},
+      "Fondo de Cultura Económica"
+     ],
+     "\n            "
+    ],
+    "\n         "
+   ],
+   "\n         ",
+   [
+    "p",
+    {
+     "id": "t-B25",
+     "rol": "ref",
+     "lang": "es"
+    },
+    "\n            ",
+    [
+     "span",
+     {},
+     "\n               Morales Cabrera, A. A. (2021). \n               ",
+     [
+      "i",
+      {},
+      "El trabajo de las y los músicos en Puebla: entre la resistencia, la precariedad y la sobrevivencia a la industria musical"
+     ],
+     "\n               . [Tesis doctoral, Universidad Autónoma de Puebla]. \n               ",
+     [
+      "a",
+      {
+       "href": "https://hdl.handle.net/20.500.12371/15394"
+      },
+      "https://hdl.handle.net/20.500.12371/15394"
+     ],
+     "\n            "
+    ],
+    "\n            ",
+    [
+     "span",
+     {},
+     "\n               ",
+     [
+      "span",
+      {},
+      "2021"
+     ],
+     "\n               ",
+     [
+      "span",
+      {},
+      "\n                  ",
+      [
+       "span",
+       {},
+       "\n                     ",
+       [
+        "span",
+        {},
+        "Morales Cabrera"
+       ],
+       "\n                     ",
+       [
+        "span",
+        {},
+        "A. A."
+       ],
+       "\n                  "
+      ],
+      "\n               "
+     ],
+     "\n               ",
+     [
+      "i",
+      {},
+      "\n               El trabajo de las y los músicos en Puebla: entre la resistencia, la precariedad y la sobrevivencia a la industria musical"
+     ],
+     "\n               ",
+     [
+      "span",
+      {},
+      "Tesis doctoral"
+     ],
+     "\n               ",
+     [
+      "span",
+      {},
+      "Universidad Autónoma de Puebla"
+     ],
+     "\n               ",
+     [
+      "a",
+      {
+       "href": "https://hdl.handle.net/20.500.12371/15394"
+      },
+      "https://hdl.handle.net/20.500.12371/15394"
+     ],
+     "\n            "
+    ],
+    "\n         "
+   ],
+   "\n         ",
+   [
+    "p",
+    {
+     "id": "t-B26",
+     "rol": "ref",
+     "lang": "es"
+    },
+    "\n            ",
+    [
+     "span",
+     {},
+     "\n               Muñoz Flores, M. E. (2017). \n               ",
+     [
+      "i",
+      {},
+      "Identidad en movimiento: el proceso de construcción identitaria en los trabajadores subcontratados de la gran minería del Cobre en Chile"
+     ],
+     "\n               [Tesis doctoral, El Colegio de México]. \n               ",
+     [
+      "a",
+      {
+       "href": "https://repositorio.colmex.mx/concern/theses/0v838086x?f%5Bsubject_sim%5D%5B%5D=Industria+minera&locale=es"
+      },
+      "https://repositorio.colmex.mx/concern/theses/0v838086x?f%5Bsubject_sim%5D%5B%5D=Industria+minera&locale=es"
+     ],
+     "\n            "
+    ],
+    "\n            ",
+    [
+     "span",
+     {},
+     "\n               ",
+     [
+      "span",
+      {},
+      "2017"
+     ],
+     "\n               ",
+     [
+      "span",
+      {},
+      "\n                  ",
+      [
+       "span",
+       {},
+       "\n                     ",
+       [
+        "span",
+        {},
+        "Muñoz Flores"
+       ],
+       "\n                     ",
+       [
+        "span",
+        {},
+        "M. E."
+       ],
+       "\n                  "
+      ],
+      "\n               "
+     ],
+     "\n               ",
+     [
+      "i",
+      {},
+      "\n               Identidad en movimiento: el proceso de construcción identitaria en los trabajadores subcontratados de la gran minería del Cobre en Chile"
+     ],
+     "\n               ",
+     [
+      "span",
+      {},
+      "Tesis doctoral"
+     ],
+     "\n               ",
+     [
+      "span",
+      {},
+      "El Colegio de México"
+     ],
+     "\n               ",
+     [
+      "a",
+      {
+       "href": "https://repositorio.colmex.mx/concern/theses/0v838086x?f%5Bsubject_sim%5D%5B%5D=Industria+minera&locale=es"
+      },
+      "https://repositorio.colmex.mx/concern/theses/0v838086x?f%5Bsubject_sim%5D%5B%5D=Industria+minera&locale=es"
+     ],
+     "\n            "
+    ],
+    "\n         "
+   ],
+   "\n         ",
+   [
+    "p",
+    {
+     "id": "t-B27",
+     "rol": "ref",
+     "lang": "es"
+    },
+    "\n            ",
+    [
+     "span",
+     {},
+     "\n               Olivo Pérez, M. Á. (2005)\n               ",
+     [
+      "i",
+      {},
+      ". El trabajo lábil: inestabilidad laboral y familia en el noreste de la Ciudad de México."
+     ],
+     "\n               [Tesis doctoral, El Colegio de México] \n               ",
+     [
+      "a",
+      {
+       "href": "https://repositorio.colmex.mx/concern/theses/9880vr180?locale=es"
+      },
+      "https://repositorio.colmex.mx/concern/theses/9880vr180?locale=es"
+     ],
+     "\n            "
+    ],
+    "\n            ",
+    [
+     "span",
+     {},
+     "\n               ",
+     [
+      "span",
+      {},
+      "2005"
+     ],
+     "\n               ",
+     [
+      "span",
+      {},
+      "\n                  ",
+      [
+       "span",
+       {},
+       "\n                     ",
+       [
+        "span",
+        {},
+        "Olivo Pérez Á."
+       ],
+       "\n                     ",
+       [
+        "span",
+        {},
+        "M."
+       ],
+       "\n                  "
+      ],
+      "\n               "
+     ],
+     "\n               ",
+     [
+      "i",
+      {},
+      "\n               El trabajo lábil: inestabilidad laboral y familia en el noreste de la Ciudad de México"
+     ],
+     "\n               ",
+     [
+      "span",
+      {},
+      "Tesis doctoral"
+     ],
+     "\n               ",
+     [
+      "span",
+      {},
+      "El Colegio de México"
+     ],
+     "\n               ",
+     [
+      "a",
+      {
+       "href": "https://repositorio.colmex.mx/concern/theses/9880vr180?locale=es"
+      },
+      "https://repositorio.colmex.mx/concern/theses/9880vr180?locale=es"
+     ],
+     "\n            "
+    ],
+    "\n         "
+   ],
+   "\n         ",
+   [
+    "p",
+    {
+     "id": "t-B28",
+     "rol": "ref"
+    },
+    "\n            ",
+    [
+     "span",
+     {},
+     "\n               Parsons, T. (1968). The position of identity in the general theory of action. En C. Gordon, y K. Georgen (Eds.), \n               ",
+     [
+      "i",
+      {},
+      "The self in social interaction"
+     ],
+     "\n               (pp. 11-24). Wiley.\n            "
+    ],
+    "\n            ",
+    [
+     "span",
+     {},
+     "\n               ",
+     [
+      "span",
+      {},
+      "1968"
+     ],
+     "\n               ",
+     [
+      "span",
+      {},
+      "The position of identity in the general theory of action"
+     ],
+     "\n               ",
+     [
+      "span",
+      {},
+      "\n                  ",
+      [
+       "span",
+       {},
+       "\n                     ",
+       [
+        "span",
+        {},
+        "Parsons"
+       ],
+       "\n                     ",
+       [
+        "span",
+        {},
+        "T."
+       ],
+       "\n                  "
+      ],
+      "\n               "
+     ],
+     "\n               ",
+     [
+      "span",
+      {},
+      "\n                  ",
+      [
+       "span",
+       {},
+       "\n                     ",
+       [
+        "span",
+        {},
+        "Gordon"
+       ],
+       "\n                     ",
+       [
+        "span",
+        {},
+        "C."
+       ],
+       "\n                  "
+      ],
+      "\n                  ",
+      [
+       "span",
+       {},
+       "\n                     ",
+       [
+        "span",
+        {},
+        "Georgen"
+       ],
+       "\n                     ",
+       [
+        "span",
+        {},
+        "K."
+       ],
+       "\n                  "
+      ],
+      "\n               "
+     ],
+     "\n               ",
+     [
+      "i",
+      {},
+      "\n               The self in social interaction"
+     ],
+     "\n               ",
+     [
+      "span",
+      {},
+      "11"
+     ],
+     "\n               ",
+     [
+      "span",
+      {},
+      "24"
+     ],
+     "\n               ",
+     [
+      "span",
+      {},
+      "Wiley"
+     ],
+     "\n            "
+    ],
+    "\n         "
+   ],
+   "\n         ",
+   [
+    "p",
+    {
+     "id": "t-B29",
+     "rol": "ref",
+     "lang": "es"
+    },
+    "\n            ",
+    [
+     "span",
+     {},
+     "\n               Solís, P. (2007). \n               ",
+     [
+      "i",
+      {},
+      "Inequidad y movilidad social en Monterrey."
+     ],
+     "\n               El Colegio de México.\n            "
+    ],
+    "\n            ",
+    [
+     "span",
+     {},
+     "\n               ",
+     [
+      "span",
+      {},
+      "2007"
+     ],
+     "\n               ",
+     [
+      "span",
+      {},
+      "\n                  ",
+      [
+       "span",
+       {},
+       "\n                     ",
+       [
+        "span",
+        {},
+        "Solís"
+       ],
+       "\n                     ",
+       [
+        "span",
+        {},
+        "P."
+       ],
+       "\n                  "
+      ],
+      "\n               "
+     ],
+     "\n               ",
+     [
+      "i",
+      {},
+      "\n               Inequidad y movilidad social en Monterrey"
+     ],
+     "\n               ",
+     [
+      "span",
+      {},
+      "El Colegio de México"
+     ],
+     "\n            "
+    ],
+    "\n         "
+   ],
+   "\n         ",
+   [
+    "p",
+    {
+     "id": "t-B30",
+     "rol": "ref"
+    },
+    "\n            ",
+    [
+     "span",
+     {},
+     "\n               Ulloa Pizarro, C. (2007). \n               ",
+     [
+      "i",
+      {},
+      "Mujeres mexicanas en la música de concierto actual: Un estudio de su curso de vida"
+     ],
+     "\n               [Tesis de maestría, El Colegio de México]. \n               ",
+     [
+      "a",
+      {
+       "href": "https://repositorio.colmex.mx/concern/theses/jw827c07v?locale=es"
+      },
+      "https://repositorio.colmex.mx/concern/theses/jw827c07v?locale=es"
+     ],
+     "\n            "
+    ],
+    "\n            ",
+    [
+     "span",
+     {},
+     "\n               ",
+     [
+      "span",
+      {},
+      "2007"
+     ],
+     "\n               ",
+     [
+      "span",
+      {},
+      "\n                  ",
+      [
+       "span",
+       {},
+       "\n                     ",
+       [
+        "span",
+        {},
+        "Ulloa Pizarro"
+       ],
+       "\n                     ",
+       [
+        "span",
+        {},
+        "C."
+       ],
+       "\n                  "
+      ],
+      "\n               "
+     ],
+     "\n               ",
+     [
+      "i",
+      {},
+      "\n               Mujeres mexicanas en la música de concierto actual: Un estudio de su curso de vida"
+     ],
+     "\n               ",
+     [
+      "span",
+      {},
+      "Tesis de maestría"
+     ],
+     "\n               ",
+     [
+      "span",
+      {},
+      "El Colegio de México"
+     ],
+     "\n               ",
+     [
+      "a",
+      {
+       "href": "https://repositorio.colmex.mx/concern/theses/jw827c07v?locale=es"
+      },
+      "https://repositorio.colmex.mx/concern/theses/jw827c07v?locale=es"
+     ],
+     "\n            "
+    ],
+    "\n         "
+   ],
+   "\n         ",
+   [
+    "p",
+    {
+     "id": "t-B31",
+     "rol": "ref",
+     "lang": "es"
+    },
+    "\n            ",
+    [
+     "span",
+     {},
+     "\n               Zúñiga, V. (1993). Promover el arte en una ciudad del norte de México: los proyectos artísticos en Monterrey, 1940-1960. \n               ",
+     [
+      "i",
+      {},
+      "Estudios Sociológicos"
+     ],
+     "\n               , \n               ",
+     [
+      "i",
+      {},
+      "11"
+     ],
+     "\n               (31), 155-181. \n               ",
+     [
+      "a",
+      {
+       "href": "https://estudiossociologicos.colmex.mx/index.php/es/article/view/982"
+      },
+      "https://estudiossociologicos.colmex.mx/index.php/es/article/view/982"
+     ],
+     "\n            "
+    ],
+    "\n            ",
+    [
+     "span",
+     {},
+     "\n               ",
+     [
+      "span",
+      {},
+      "1993"
+     ],
+     "\n               ",
+     [
+      "span",
+      {},
+      "Promover el arte en una ciudad del norte de México: los proyectos artísticos en Monterrey, 1940-1960"
+     ],
+     "\n               ",
+     [
+      "span",
+      {},
+      "\n                  ",
+      [
+       "span",
+       {},
+       "\n                     ",
+       [
+        "span",
+        {},
+        "Zúñiga"
+       ],
+       "\n                     ",
+       [
+        "span",
+        {},
+        "V."
+       ],
+       "\n                  "
+      ],
+      "\n               "
+     ],
+     "\n               ",
+     [
+      "i",
+      {},
+      "\n               Estudios Sociológicos"
+     ],
+     "\n               ",
+     [
+      "span",
+      {},
+      "11"
+     ],
+     "\n               ",
+     [
+      "span",
+      {},
+      "31"
+     ],
+     "\n               ",
+     [
+      "span",
+      {},
+      "155"
+     ],
+     "\n               ",
+     [
+      "span",
+      {},
+      "181"
+     ],
+     "\n               ",
+     [
+      "a",
+      {
+       "href": "https://estudiossociologicos.colmex.mx/index.php/es/article/view/982"
+      },
+      "https://estudiossociologicos.colmex.mx/index.php/es/article/view/982"
+     ],
+     "\n            "
+    ],
+    "\n         "
+   ],
+   "\n      "
+  ],
+  [
+   "section",
+   {},
+   "\n         ",
+   [
+    "aside",
+    {
+     "id": "t-fn1",
+     "rol": "fn"
+    },
+    "\n            ",
+    [
+     "span",
+     {},
+     "3"
+    ],
+    "\n            ",
+    [
+     "p",
+     {},
+     "Understood—in a narrow sense—as a specialized activity that serves society."
+    ],
+    "\n         "
+   ],
+   "\n         ",
+   [
+    "aside",
+    {
+     "id": "t-fn2",
+     "rol": "fn"
+    },
+    "\n            ",
+    [
+     "span",
+     {},
+     "4"
+    ],
+    "\n            ",
+    [
+     "p",
+     {},
+     "\n               There is also a broader debate within Marxist thought regarding the artist’s labor and/or the artwork as productive versus unproductive, and use value versus exchange value, which the reader can consult in \n               ",
+     [
+      "a",
+      {
+       "href": "#t-B25",
+       "id": "t-llamada-B25-9"
+      },
+      "Morales Cabrera (2021)"
+     ],
+     "\n               .\n            "
+    ],
+    "\n         "
+   ],
+   "\n         ",
+   [
+    "aside",
+    {
+     "id": "t-fn3",
+     "rol": "fn"
+    },
+    "\n            ",
+    [
+     "span",
+     {},
+     "5"
+    ],
+    "\n            ",
+    [
+     "p",
+     {},
+     "The authors themselves have connections to concert music. One received formal musical training, while the other was raised in a family environment of classical musicians."
+    ],
+    "\n         "
+   ],
+   "\n         ",
+   [
+    "aside",
+    {
+     "id": "t-fn4",
+     "rol": "fn"
+    },
+    "\n            ",
+    [
+     "span",
+     {},
+     "6"
+    ],
+    "\n            ",
+    [
+     "p",
+     {},
+     "This is not to deny the significant creative possibilities for musical production arising from the use of new technologies."
+    ],
+    "\n         "
+   ],
+   "\n         ",
+   [
+    "aside",
+    {
+     "id": "t-fn5",
+     "rol": "fn"
+    },
+    "\n            ",
+    [
+     "span",
+     {},
+     "7"
+    ],
+    "\n            ",
+    [
+     "p",
+     {},
+     "\n               According to \n               ",
+     [
+      "a",
+      {
+       "href": "#t-B25",
+       "id": "t-llamada-B25-10"
+      },
+      "Morales Cabrera (2021)"
+     ],
+     "\n               , the creative industry, embedded within the so-called creative economy, seeks to exploit cultural and artistic goods. Within this context, artists are stripped of their basic labor rights in order to function as flexible workers or entrepreneurs.\n            "
+    ],
+    "\n         "
+   ],
+   "\n         ",
+   [
+    "aside",
+    {
+     "id": "t-fn6",
+     "rol": "fn"
+    },
+    "\n            ",
+    [
+     "span",
+     {},
+     "8"
+    ],
+    "\n            ",
+    [
+     "p",
+     {},
+     "Although music schools in Monterrey, including the Faculty of Music of the UANL and the ESMDM, do not specifically train students for careers in music education, nor is this the primary interest of incoming students, some graduates enter this field to supplement their income, while others do so to develop a professional trajectory. In both cases, they are able to sustain a professional identity as musicians through their work in music education."
+    ],
+    "\n         "
+   ],
+   "\n      "
+  ]
+ ]
+};

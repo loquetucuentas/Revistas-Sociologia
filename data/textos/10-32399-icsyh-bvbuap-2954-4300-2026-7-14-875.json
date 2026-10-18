@@ -1,0 +1,1656 @@
+{
+ "version": 1,
+ "recogido": "2026-10-18T11:31:28+00:00",
+ "doi": "10.32399/icsyh.bvbuap.2954-4300.2026.7.14.875",
+ "titulo": "Certámenes de belleza y agencia juvenil. El caso de La Reina de las Fiestas Patrias en Iztacalco, CDMX",
+ "revista": "2954-4300",
+ "numero": "2026",
+ "licencia": {
+  "codigo": "by-nc-sa",
+  "nombre": "CC BY-NC-SA 4.0",
+  "nombre_completo": "Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional",
+  "url": "https://creativecommons.org/licenses/by-nc-sa/4.0",
+  "url_legal": "https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.es"
+ },
+ "fuente": {
+  "url": "https://bajoelvolcanx.buap.mx/index.php/bajovolc/article/download/875/764?inline=1",
+  "formato": "HTML",
+  "plataforma": "ojs-galerada",
+  "pagina": "https://bajoelvolcanx.buap.mx/index.php/bajovolc/article/view/875"
+ },
+ "autores_cita": [
+  {
+   "apellidos": "Contreras Medina",
+   "nombre_pila": "Sonia Guadalupe",
+   "nombre": null
+  }
+ ],
+ "avisos_derechos": [
+  "Derechos de autor 2026 Sonia Guadalupe Contreras Medina",
+  "Licencia Derechos de autor 2026 Sonia Guadalupe Contreras Medina Esta obra está bajo una licencia internacional Creative Commons Atribución-NoComercial-CompartirIgual 4.0. Las autoras y los autores conservan los derechos de autor sobre su obra y ceden a Bajo el Volcán. Revista del Posgrado de Sociología. BUAP únicamente el derecho de primera publicación. Revista de acceso abierto diamante: sin costo para autoras, autores ni personas lectoras."
+ ],
+ "idioma_principal": "es",
+ "indice": [
+  {
+   "id": "t-seccion-1",
+   "nivel": 2,
+   "texto": "Certámenes de belleza y agencia juvenil. El caso de La Reina de las Fiestas Patrias en Iztacalco, CDMX",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-2",
+   "nivel": 3,
+   "texto": "CERTÁMENES DE BELLEZA",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-3",
+   "nivel": 3,
+   "texto": "GÉNERO, JUVENTUD Y AGENCIA",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-4",
+   "nivel": 3,
+   "texto": "IZTACALCO Y EL CERTAMEN REINA DE LAS FIESTAS PATRIAS",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-5",
+   "nivel": 4,
+   "texto": "TABLA 1 ACTITUDES QUE DEBEN MOSTRAR LAS PARTICIPANTES EN LA PASARELA SEGÚN LAS JÓVENES, TOMANDO EN CUENTA LA INSTRUCCIÓN DE LAS INTEGRANTES DEL COMITÉ ORGANIZADOR",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-6",
+   "nivel": 4,
+   "texto": "CUADRO 2 CARACTERÍSTICAS FÍSICAS QUE IDENTIFICAN LAS JÓVENES QUE",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-7",
+   "nivel": 4,
+   "texto": "LAS PARTICIPANTES Y LA AGENCIA JUVENIL",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-8",
+   "nivel": 3,
+   "texto": "REFLEXIONES FINALES",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-9",
+   "nivel": 3,
+   "texto": "BIBLIOGRAFÍA",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-10",
+   "nivel": 3,
+   "texto": "NOTAS",
+   "lang": null
+  }
+ ],
+ "vueltas": {
+  "t-fnref1": "t-llamada-fnref1-1",
+  "t-fnref2": "t-llamada-fnref2-1",
+  "t-fnref3": "t-llamada-fnref3-1",
+  "t-fnref4": "t-llamada-fnref4-1"
+ },
+ "contenido": [
+  "\n",
+  [
+   "section",
+   {},
+   "\n",
+   [
+    "strong",
+    {},
+    [
+     "em",
+     {},
+     "Bajo el Volcán. Revista del Posgrado de Sociología. BUAP"
+    ]
+   ],
+   ", Año 7, Núm. 14, mayo – octubre de 2026, pp. 101-126.",
+   [
+    "br",
+    {}
+   ],
+   "e-ISSN 2954-4300 · ",
+   [
+    "a",
+    {
+     "href": "https://doi.org/10.32399/ICSYH.bvbuap.2954-4300.2026.7.14.875"
+    },
+    "https://doi.org/10.32399/ICSYH.bvbuap.2954-4300.2026.7.14.875"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Dossier temático"
+   ],
+   "\n",
+   [
+    "h2",
+    {
+     "id": "t-seccion-1"
+    },
+    "Certámenes de belleza y agencia juvenil. El caso de La Reina de las Fiestas Patrias en Iztacalco, CDMX"
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Beauty competitions and youth agency. The case of the Queen of the Country Holidays in Iztacalco, Mexico City"
+   ],
+   "\n",
+   "\n",
+   [
+    "p",
+    {},
+    [
+     "span",
+     {},
+     "Sonia Guadalupe Contreras Medina"
+    ],
+    [
+     "br",
+     {}
+    ],
+    [
+     "span",
+     {},
+     "Escuela Nacional de Antropología e Historia, Ciudad de México, México"
+    ],
+    [
+     "br",
+     {}
+    ],
+    [
+     "span",
+     {},
+     "ORCID: ",
+     [
+      "a",
+      {
+       "href": "https://orcid.org/0000-0001-5182-8498"
+      },
+      "https://orcid.org/0000-0001-5182-8498"
+     ]
+    ]
+   ],
+   "\n",
+   "\n",
+   [
+    "p",
+    {},
+    "soniagpecm@gmail.com"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Recibido: 18/11/2025 "
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Aceptado: 24/03/2026"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "RESUMEN"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "El presente artículo tiene la intención de dar a conocer las voces de las mujeres jóvenes participantes del certamen ",
+    [
+     "em",
+     {},
+     "Reina de las Fiestas Patrias,"
+    ],
+    " que se lleva a cabo año con año en la Alcaldía Iztacalco, de la Ciudad de México. El análisis presentado se realiza desde la perspectiva de género y los estudios de la juventud, pues ambas miradas nos permiten dilucidar que, si bien los certámenes de belleza parten de una base androcéntrica y adultocéntrica, hay un espacio para la agencia de las jóvenes participantes al cuestionar y confrontar los estereotipos de género y los ideales de belleza femenina establecidos en dichos eventos. Además, enuncian que resultan ser espacios de encuentro, aprendizaje, participación comunitaria y socialización con sus pares, los cuales les permite desarrollar habilidades y capacidades que les parecen valiosas para aplicarlos en otros ámbitos de su vida social."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    [
+     "em",
+     {},
+     "Palabras clave"
+    ],
+    ": certámenes de belleza, estereotipos de género, mujeres jóvenes y agencia."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "ABSTRACT"
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "The purpose of this article is to make visible the voices of the young women who participate in the pageant known as Queen of the Patriotic Festivities, which is held annually in the Iztacalco Borough of Mexico City. The analysis is conducted from the perspectives of gender studies and youth studies, as both approaches allow us to elucidate that, although beauty pageants are grounded in androcentric and adult-centric, there is nevertheless room for the agency of the young participants as they question and confront gender stereotypes and the ideals of female beauty established in these events. In addition, the participants state that these pageants function as spaces for encounter, learning, community participation, and socialization with their peers, which enable them to develop skills and capacities that they consider valuable for application in other areas of their social lives."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    [
+     "em",
+     {},
+     "Keywords"
+    ],
+    ": beauty pageants, gender stereotypes, young women and agency."
+   ],
+   "\n",
+   [
+    "h3",
+    {
+     "id": "t-seccion-2"
+    },
+    "CERTÁMENES DE BELLEZA"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Los certámenes de belleza son eventos en donde las mujeres, especial-"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "mente las jóvenes han participado localmente de manera activa por siglos, pues es a través de estos que una sociedad específica transmitía y transmite estereotipos de género e ideales de belleza femenina establecidos, aceptados y valorados por una cultura determinada, asociados a una identidad local o nacional.",
+    [
+     "sup",
+     {},
+     [
+      "a",
+      {
+       "id": "t-fnref1",
+       "href": "#t-fn1"
+      },
+      "1"
+     ]
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Finol (1999) y Cortázar (2010), por su parte mencionan que la elección de reinas ha estado asociada a fiestas tradicionales en el mundo y en América Latina, y es en las dinámicas de las ferias, en las que se eligen las “reinas” por medio de votaciones en donde se califica la “belleza y la simpatía\", es decir la elección versa con relación a atributos físicos y cualidades morales principalmente. Fernández y Venegas, por su parte apuntan que no hay fiesta sin feria y, por lo tanto, feria sin reina y se plantean interrogantes como:"
+   ],
+   "\n",
+   [
+    "blockquote",
+    {},
+    "\n",
+    [
+     "p",
+     {},
+     "[…] ¿por qué una reina en medio de un suceso religioso, comercial, industrial, agrícola, ganadero, identitario, artístico y cultural? ... ¿Formará parte de una de las reglas de las sociedades modernas, que consiste en crear símbolos que deben ser dominantes y servir como referencia para la contaminación de todo el sistema? (2002:29)."
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "A lo que se podría dar una respuesta afirmativa, pues según los estudios existentes acerca del tema las figuras de las reinas a través de atributos físicos y cualidades morales, tienen como propósito instaurar ideales de belleza femenina, que establecen estereotipos de género en contextos determinados y retomando a Da Matta en González (1994), casualmente estos símbolos están asociados con “lo alto”, es decir con lo divino, lo sagrado, lo que representa características femeninas como la pureza, la pasividad, la delicadeza, la bondad, lo maternal, entre otras."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Por otro lado, Cortázar y Santamaría (2014), coinciden en que los concursos modernos de belleza internacionales y nacionales comienzan a celebrarse de manera continua en México en la década de los cincuenta, Santamaría, reflexiona por su parte que:"
+   ],
+   "\n",
+   [
+    "blockquote",
+    {},
+    "\n",
+    [
+     "p",
+     {},
+     "Es curioso que en México los primeros concursos de belleza al estilo de Miss América, es decir los certámenes de Miss México, también hayan coincidido con la obtención del derecho al sufragio en la misma década: en 1951 se organiza el primer certamen Miss México, y en 1953 se otorga el derecho al voto a las mujeres mexicanas… Vistas bien las cosas, no fue una mera coincidencia el logro del voto femenino y la aparición de los concursos de belleza en traje de baño, ambas fueron conquistas políticas y sociales de mujeres diferentes: la primera de las más intelectuales y politizadas; la segunda, de mujeres desafiantes del convencionalismo, deseosas de ser vistas, de romper con las riendas patriarcales y hogareñas y promoverse socialmente mediante su belleza. La opinión feminista podría ser otra, pero ni duda cabe que el movimiento femenino sufragista y la propagación de los concursos de belleza en la misma época…corresponden a un momento de desafío cultural de las mujeres … Cierto es que los concursos de belleza femeninos desde un principio estuvieron sujetos a intereses comerciales en manos masculinas, pero el hecho de que se exhibieran cuerpos semidesnudos, antes pertenecientes a la exclusiva esfera de lo privado, no dejaba de ser un hecho de ruptura (102-103)."
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Aun así, el movimiento feminista desde su presencia más contundente en los años 60 ha cuestionado la realización de los certámenes de belleza internacionales y nacionales a lo largo del globo. En México, una de las protestas más representativas en contra de ",
+    [
+     "em",
+     {},
+     "Miss México,"
+    ],
+    " se realizó en la edición de 1978 y ha sido un parteaguas para seguir cuestionando la realización de este tipo de eventos, no sólo a nivel nacional, también estatal y local, pues en las 32 entidades que conforman la República Mexicana se siguen eligiendo reinas en las festividades del calendario cívico y religioso de las localidades, principalmente en los pueblos originarios en donde se eligen reinas de carnavales, de fiestas patronales, de la producción, entre otras, sin quedar exenta la Ciudad de México y algunas de sus alcaldías, como es el caso de Iztacalco."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Lo anterior, nos permite identificar la relevancia de analizar los certámenes de belleza en diferentes dimensiones, pues aunque está claro que presentan y promueven estereotipos de género e ideales de belleza femenina, desde la visión androcéntrica y adultocéntrica, pues como se ha documentado y como lo veremos más adelante las personas adultas son quienes promueven y ejecutan el certamen bajo los supuesto de la dominación masculina y poco se ha explorado la posibilidad de mirar estas mujeres como sujetas activas."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Es fundamental, entonces, conocer qué es lo que las jóvenes participantes creen, sienten y reciben al estar en el evento, a través de sus historias personales y proyectos de vida propios que pueden corresponder o no, a lo esperado por la sociedad, reafirmando, cuestionando y tensionando estás imágenes y discursos dominantes a través de sus prácticas."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Es por eso por lo que el objetivo de este artículo es identificar los estereotipos de género y el ideal de belleza femenina que se promueve en el certamen ",
+    [
+     "em",
+     {},
+     "Reina de las Fiestas Patrias"
+    ],
+    " en Iztacalco, así como conocer la percepción que las jóvenes tienen al respecto, ubicando su uso, pero también su cuestionamiento y confrontación desde su capacidad de agencia, proponiendo el espacio como de encuentro, aprendizaje y socialización."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "El acercamiento que se propuso en dos vías, una para los elementos del certamen y la otra para la experiencias de las jóvenes fue de corte cualitativo basado en el método etnográfico; en donde las técnicas de investigación que resultaron pertinentes fueron la observación participante en todos los momentos que componen el concurso y por otro lado, la aplicación de un cuestionario de preguntas abiertas y la realización de entrevistas estructuradas a participantes y ganadoras de tres ediciones",
+    [
+     "sup",
+     {},
+     [
+      "a",
+      {
+       "id": "t-fnref2",
+       "href": "#t-fn2"
+      },
+      "2"
+     ]
+    ],
+    " del certamen, siendo el único requisito para su participación que quisieran ser parte de la investigación."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "En lo que compete a lo teórico, la perspectiva de género nos brinda elementos para analizar críticamente y cuestionar los certámenes, pero también nos da la posibilidad de observar la agencia de los sujetos en determinados contextos, en donde pareciera que no hay perímetro de acción, además esta propuesta acompañada de elementos teóricos sobre las juventudes nos permite igualmente escuchar la voz de las jóvenes y revelar las intenciones de participar y la valoración del evento."
+   ],
+   "\n",
+   [
+    "h3",
+    {
+     "id": "t-seccion-3"
+    },
+    "GÉNERO, JUVENTUD Y AGENCIA "
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Desde la Ciencias Sociales mucho se ha explorado cómo los estereotipos de género afectan la trayectoria de vida de mujeres y hombres, pues es a través del proceso de socialización en las diversas instituciones que adquieren conocimientos y aprendizajes con relación a lo femenino y a lo masculino respectivamente; para así, cada día desempeñar un rol de género que los conduzca a ser seres “funcionales” dentro de la sociedad. El problema radica en que estas formas de ser hombre y ser mujer, tienen contenidos distintos entre sí, que los colocan a unos y a otras en posiciones jerárquicas que marcan desigualdades, y que limitan el desarrollo de habilidades y capacidades, así como el acceso a espacios y oportunidades que les generen condiciones para tener una vida digna. Es así como:"
+   ],
+   "\n",
+   [
+    "blockquote",
+    {},
+    "\n",
+    [
+     "p",
+     {},
+     "Al conocer el sexo biológico de un recién nacido, los padres, los familiares y la sociedad suelen asignarles atributos creados por expectativas prefiguradas. Si es niña, esperan que sea bonita, tierna, delicada, entre otras características; y si es niño, que sea fuerte, valiente, intrépido, seguro y hasta conquistador (Delgado et al., 1998). A las niñas se les enseña a “jugar a la comidita” o a “las muñecas”, así desde pequeñas, se les involucra en actividades domésticas que más adelante reproducirán en el hogar. … En cambio, a los niños se les educa para que sean fuertes y no expresen sus sentimientos, porque “llorar es cosa de niñas”, además de prohibirles ser débiles. Estas son las bases sobre las que se construyen los estereotipos de género, reflejos simples de las creencias sociales y culturales sobre las actividades, los roles, rasgos, características o atributos que distinguen a las mujeres y a los hombres (Instituto Nacional de las Mujeres, s/f, pp, 1-2)."
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Por lo tanto, la propuesta de Scott es de utilidad para el presente análisis, pues propone la categoría de género como una “tentativa feminista para explicar la persistente desigualdad entre hombres y mujeres” (2003:287), pero además aborda la posibilidad de la agencia humana que permite cuestionar y resistir ante estas desigualdades. Su definición de género consta de dos partes y cuatro subpartes que están interrelacionadas y son analíticamente distintas, propone entonces que el género es:"
+   ],
+   "\n",
+   [
+    "blockquote",
+    {},
+    "\n",
+    [
+     "p",
+     {},
+     "[…] un elemento constitutivo de las relaciones sociales basadas en las diferencias que distinguen los sexos y el género es una forma primaria de las relaciones significantes de poder. […] el género comprende cuatro elementos interrelacionados: primero, símbolos culturalmente disponibles que evocan representaciones múltiples (y a menudo contradictorias) […]. Segundo, conceptos normativos que manifiestan las interpretaciones de los significados de los símbolos, en un intento de limitar y contener sus posibilidades metafóricas. Esos conceptos se expresan en doctrinas religiosas, educativas, científicas, legales y políticas que afirman categórica y unívocamente el significado de varón y mujer, masculino y femenino […]. Este tipo de análisis debe incluir nociones políticas y referencias a las instituciones y organizaciones sociales, tercer aspecto de las relaciones de género. […] El cuarto aspecto del género es la identidad subjetiva. (2003: 289-291)."
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Esta definición nos permite examinar como los certámenes de belleza imponen el “deber ser” femenino a través de ideas e imágenes, las cuales circulan en los discursos de las instituciones pertenecientes a una cultura y sociedad específica, en determinado espacio y tiempo, los cuales se convierten en estereotipos que regulan y controlan todos los aspectos de la vida de las mujeres, desde lo objetivo, hasta lo subjetivo."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Aun así, Scott nos brinda la posibilidad de pensar en la agencia humana, este concepto a la luz de los estudios de la juventud nos brinda la posibilidad de mirar a las jóvenes participantes como sujetas activas dentro del concurso a pesar de los estereotipos de género y los ideales de belleza femenina establecidos en este y por qué no decirlo, dentro de los espacios inmediatos que ellas habitan; ya que la agencia humana según Scott es:"
+   ],
+   "\n",
+   [
+    "blockquote",
+    {},
+    "\n",
+    [
+     "p",
+     {},
+     "[…] un intento (al menos parcialmente racional) de construir una identidad, una vida, un entramado de relaciones, una sociedad con ciertos límites y con un lenguaje, lenguaje conceptual que a la vez establece fronteras y contiene posibilidades de negación, resistencia, reinterpretación y el juego de la invención e imaginación metafórica (2003:289)"
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Esta definición de agencia, nos vincula directamente con la propuesta de Urteaga y Sáenz, quienes plantean que la juventud no es ni edad ni trayectoria, sino una identidad que es “agenciable, flexible y siempre cambiante” (2011: 294), es por eso que proponen un nuevo acercamiento teórico que capte la heterogeneidad juvenil contemporánea y establezca puentes de análisis para determinados grupos juveniles que han sido omitidos en las investigaciones sociales, consideramos que uno de ellos son las mujeres jóvenes en contextos de participación social “tradicional”. Es así como la propuesta de Urteaga es de utilidad, pues identifica:"
+   ],
+   "\n",
+   [
+    "blockquote",
+    {},
+    "\n",
+    [
+     "p",
+     {},
+     "[…] tres ámbitos en los que los jóvenes a través de la generación de prácticas específicas que los distinguen como tales han construido su presencia y desde los cuales proyectan sus representaciones imaginarias al conjunto de la sociedad mexicana: el de la socialidad con sus pares, el cultural y el político… (2011:38)."
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Para el caso de la socialidad con sus pares las personas jóvenes, a través del contacto y del afecto, anota Urteaga, crean nuevos “modos de estar juntos” (2011:39), es decir, de encontrarse u organizarse y es así como van constituyendo sus identidades individuales o colectivas, los factores que hacen que se integren pueden ser diversos, la autora menciona que puede ser por apariencia o estética y que no necesariamente todos los grupos de jóvenes llegan a crear una identidad o movimiento, pero sí pueden establecer prácticas específicas que ellos consideran enriquecedoras y educativas, como veremos será el caso de las jóvenes en cuestión."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Por otro lado, el concepto de condición juvenil propuesto por Rossana Reguillo es de utilidad ya que:"
+   ],
+   "\n",
+   [
+    "blockquote",
+    {},
+    "\n",
+    [
+     "p",
+     {},
+     "… alude a los mecanismos tanto estructurales como (especialmente) culturales que enmarcan los procesos de inserción de sujetos concretos, considerados jóvenes, en una dinámica sociocultural histórica y geopolíticamente configurada (2010:401)."
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Para la autora, el concepto de “condición juvenil” avanza en dos vías: nos ayuda a analizar los discursos que dicen lo que es “ser joven”, y las formas en las que los jóvenes resignifican y recrean dichos discursos configurando nuevas prácticas y formas de “ser joven” en diferentes contextos y momentos."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "En el presente, anota Reguillo, hay tres instancias para la “reinscripción” y la “reapropiación” del yo juvenil, la primera son las estructuras del crimen organizado y narcotráfico, la segunda la diversidad de ofertas y ofertadores de sentido, y la tercera el mercado a través de sus ofertas de identidad. Éstos tres espacios"
+   ],
+   "\n",
+   [
+    "blockquote",
+    {},
+    "\n",
+    [
+     "p",
+     {},
+     "[…] están conectados con tres cuestiones o dimensiones que resultan básicas para el análisis de las/los jóvenes mexicanos: a) La cuestión de la membresía o pertenencia. b) El papel de las creencias y la búsqueda de sentido. c) La relevancia del consumo como factor constituyente de las identidades juveniles (2010:404)."
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Con sus propuestas, Urteaga y Reguillo nos permiten mirar a la población joven como sujetos activos dentro de la sociedad. En este caso, posibilitan mirar de manera compleja como las jóvenes iztacalquenses en este sectores popular de la Ciudad de México se apropian del concurso, para reflexionar, cuestionar, confrontar, construir y recrear discursos de sí mismas y crear prácticas que ellas consideren significativas, por lo tanto, esta socialidad que crea “nuevas maneras de estar juntos” según Urteaga, les permite hacer frente desde su perímetro de acción a los estereotipos en los que se pretende sean encasilladas, enmarcados en una estructura de dominación masculina."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Por lo tanto, nuestra propuesta aquí es que el papel de las jóvenes en el concurso de belleza no se limita a su participación en la pasarela, sino a una serie de discursos y prácticas que se generan en este evento y que las define como jóvenes desde la particularidad de ser mujeres y pertenecer a un contexto específico. En este sentido, el concurso es un “espacio de socialidad” que ayuda a la configuración de las tres instancias a las que hace referencia Reguillo para la “reapropiación del yo juvesnil”: la pertenencia (a la comunidad iztacalquense), la búsqueda de sentido (del “ser joven”) y la importancia del consumo (en la configuración de lo juvenil desde las particularidades contextuales y desde su condición de género), como lo observaremos en el presente análisis."
+   ],
+   "\n",
+   [
+    "h3",
+    {
+     "id": "t-seccion-4"
+    },
+    "IZTACALCO Y EL CERTAMEN ",
+    [
+     "em",
+     {},
+     "REINA DE LAS"
+    ],
+    " ",
+    [
+     "em",
+     {},
+     "FIESTAS PATRIAS"
+    ],
+    " "
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Para poder ubicar el contexto en donde se lleva a cabo el concurso y de donde son habitantes las jóvenes es necesario definir Iztacalco, así como el certamen Reina de las Fiestas Patrias."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Iztacalco, es una alcaldía que se ubica geográficamente al oriente de la Ciudad de México, es la demarcación con menor extensión territorial y con la mayor densidad de población en la capital. A pesar de esto “... es el segundo lugar (11%) en cuanto al porcentaje de uso industrial, mezclado con habitación y servicios … también se realizan actividades primordiales como la manufactura y el comercio …” (Instituto para el Federalismo y el Desarrollo Municipal, Secretaría de Gobernación 2010, Enciclopedia de los Municipios y Delegaciones de México)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Por lo tanto, la alcaldía carece de parques y jardines, contando con sólo dos espacios considerados como grandes áreas verdes: la Ciudad Deportiva en la colonia Magdalena Mixiuhca y el Parque Ecológico, ubicado en la colonia Agrícola Oriental."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Asimismo, los espacios educativos, culturales, sociales y recreativos son escasos con relación al número de habitantes. En cuanto a la oferta educativa, los planteles de nivel básico son proporcionales con relación a la demanda que podría existir en la demarcación, pero a nivel medio y superior, los planteles son mínimos con relación a la población juvenil habitante de la alcaldía. Para el caso de la oferta cultural y recreativa, según el Programa Delegacional de Desarrollo Urbano de Iztacalco 1995-2000, en dicha demarcación:"
+   ],
+   "\n",
+   [
+    "blockquote",
+    {},
+    "\n",
+    [
+     "p",
+     {},
+     "Se presentan déficits importantes en espacios abiertos a nivel de colonia limitados en ocasiones a pequeños jardines y camellones; así mismo en recreación y deporte existe equipamiento muy especializado como el Palacio de los Deportes, la Sala de Armas, la Escuela Superior de Educación Física y el Autódromo sin embargo son limitados los espacios a nivel de colonia para este fin, así mismo son reducidos los locales para fines culturales y de esparcimiento, por lo que aún con la reducción tendencial de población, se requiere de fomentar la construcción de estos equipamientos en remanentes de suelo disponibles” (Gobierno del Distrito Federal, Secretaría de Desarrollo Urbano y Vivienda, Programa de Desarrollo Urbano de Iztacalco 1995- 2000)."
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Lo anterior no es distinto a más de 20 años, pues los espacios y la calidad de estos tanto educativos, sociales y recreativos son insuficientes, tan sólo en el 2015, se afirmaba que:"
+   ],
+   "\n",
+   [
+    "blockquote",
+    {},
+    "\n",
+    [
+     "p",
+     {},
+     "Iztacalco tiene 0.63 en el Índice de Desarrollo Social o de avance en los derechos sociales elaborado por el Consejo de Evaluación del Desarrollo Social del DF, en el que la delegación mejor calificada es Benito Juárez, con 1.78, y la más baja es Milpa Alta, con -0.56. La media en la ciudad es de 0.51, con lo que Iztacalco está por encima de este nivel (Expansión, 2015)."
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Considerando el contexto presentado, podemos ver que probablemente es por eso por lo que el certamen Reina de la Fiestas Patrias resulte atractivo para la población juvenil femenina de Iztacalco, como lo veremos después en los testimonios."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "De otra parte, el certamen es organizado y financiado por la alcaldía y un Comité Organizador conformado por vecinos de diferentes colonias. La organización del evento les lleva a las autoridades de la alcaldía y al Comité Organizado varios meses, pues la planeación empieza desde el mes de junio y su labor culmina en la verbena popular del 15 de septiembre, por lo que consideramos que el evento está compuesto por cinco momentos importantes."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "El primero es el lanzamiento de la convocatoria del certamen, el segundo los talleres impartidos a las jóvenes aspirantes en donde se reflexiona sobre autoestima y temáticas de género",
+    [
+     "sup",
+     {},
+     [
+      "a",
+      {
+       "id": "t-fnref3",
+       "href": "#t-fn3"
+      },
+      "3"
+     ]
+    ],
+    ", el tercero los ensayos que coordinan las mujeres del Comité Organizador en donde instruyen a las jóvenes para la competencia, el cuarto momento es el certamen que se realiza en una fiesta (cena-baile) y por último, la coronación de las ganadoras (la reina y “sus cuatro princesas”), en la verbena popular del 15 de septiembre en la explanada de la alcaldía."
+   ],
+   "\n",
+   [
+    "blockquote",
+    {},
+    "\n",
+    [
+     "p",
+     {},
+     "Si bien es cierto que la convocatoria no impone características fí-"
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "sicas rígidas para poder participar excepto que se debe contar con una edad entre los 17 y 21 años y en los talleres se reflexiona sobre temáticas de autopercepción y género, en los ensayos a la hora de la instrucción se les dirige hacía una cierta actitud “correcta” que debe presentar una mujer en la pasarela, del mismo modo sucede con las sugerencias respecto arreglo personal para el día del concurso y la coronación. Es así como las jóvenes identifican actitudes y características físicas que son apropiadas, valoradas y calificadas en el certamen",
+    [
+     "sup",
+     {},
+     [
+      "a",
+      {
+       "id": "t-fnref4",
+       "href": "#t-fn4"
+      },
+      "4"
+     ]
+    ],
+    ", como se muestra en las siguientes tablas."
+   ],
+   "\n",
+   [
+    "h4",
+    {
+     "id": "t-seccion-5"
+    },
+    "TABLA 1 ACTITUDES QUE DEBEN MOSTRAR LAS PARTICIPANTES EN LA PASARELA SEGÚN LAS JÓVENES, TOMANDO EN CUENTA LA INSTRUCCIÓN DE LAS INTEGRANTES DEL COMITÉ ORGANIZADOR"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "LO QUE DEBE"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Ser"
+   ],
+   "\n",
+   [
+    "blockquote",
+    {},
+    "\n",
+    [
+     "p",
+     {},
+     "Educada, moderada, carismática, humilde, amable, natural, sencilla, femenina, elegante, correcta, empática, sociable, señorita como tal, ejemplo a seguir."
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Tener"
+   ],
+   "\n",
+   [
+    "blockquote",
+    {},
+    "\n",
+    [
+     "p",
+     {},
+     "Porte, seguridad, buena conducta, bonita imagen."
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Hacer"
+   ],
+   "\n",
+   [
+    "blockquote",
+    {},
+    "\n",
+    [
+     "p",
+     {},
+     "Sonreír, caminar derecha, portarse bien."
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Mostrar"
+   ],
+   "\n",
+   [
+    "blockquote",
+    {},
+    "\n",
+    [
+     "p",
+     {},
+     "Felicidad, disfrute, diversión, [se] como es."
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "No deben ser"
+   ],
+   "\n",
+   [
+    "blockquote",
+    {},
+    "\n",
+    [
+     "p",
+     {},
+     "Envidiosas, exageradas, falsas, orgullosas, arrogantes."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Fuente: Elaboración propia con base en el trabajo de campo."
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Esto nos permite ver de manera muy clara la propuesta de Foucault (2005) de los cuerpos dóciles, en la cual el cuerpo es un objeto manipulable al que se le educa y se le da forma a través de la disciplina para llegar a la perfección. Por su parte Finol (1999) propone que en este tipo de eventos la técnica corporal lo que tiene que representar es prestigio, pero este prestigio que está vinculado como lo menciona Bolívar (2005), Cunin (2005) y Rutter-Jensen (2005), a la clase y la raza, la imagen que se tienen que lograr es de aire “aristócrata” según esta última autora."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Si bien esta conducción del cuerpo es fundamental, es importante mencionar que a pesar de que las jóvenes toman en cuenta a la hora de la competencia todo lo compartido por las señoras del Comité y ponen en juego todos los conocimientos que ellas poseen, que han adquirido a través del proceso de socialización respecto al género femenino, esto no resulta ser suficiente y las jóvenes lo saben, pues no sólo llevar el cuerpo de forma correcta es primordial, ese cuerpo debe poseer características específicas que marcan un ideal de belleza femenina que es efectivo para ganar o resultar princesa en el concurso, pues a través de la opiniones de las jóvenes y la observación participante se pudo constatar, y se presenta a continuación."
+   ],
+   "\n",
+   [
+    "h4",
+    {
+     "id": "t-seccion-6"
+    },
+    "CUADRO 2 CARACTERÍSTICAS FÍSICAS QUE IDENTIFICAN LAS JÓVENES QUE "
+   ],
+   "\n",
+   [
+    "blockquote",
+    {},
+    "\n",
+    [
+     "p",
+     {},
+     "SE VALORAN Y POSEEN LAS GANADORAS DEL CERTAMEN"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Piel"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Cabello"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Estatura"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Figura Blanca"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Media"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Rubio"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Delgada Clara"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Castaño"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Alta"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Curvilínea Negro"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Que no esté te-"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "ñido de colores"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Lacio"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Largo"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Fuente: Elaboración propia con base en el trabajo de campo."
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "A pesar de lo expuesto en el cuadro y de que la mayoría de las jóvenes no poseen las características físicas dominantes, la percepción de ellas es que son “atractivas”, “por el simple hecho de ser mujeres”, pues afirman que “todas las mujeres los son” y también porque son jóvenes, atributo que en el imaginario colectivo está íntimamente relacionado a la “belleza”, porque “se goza de buena salud” y “se está en plenitud”, ya que se caracteriza por tener mucha energía y vitalidad."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Es importante mencionar que esta visión respecto a la juventud y la belleza es estereotipada y está plasmada en discursos y representaciones que se crean a través de instituciones desde una visión androcéntrica y adultocéntrica. Es por eso por lo que las jóvenes entrevistadas la mencionan como una “etapa ideal”, la “más bonita de todas”, en donde se es “libre”, se “descubre” y se “aprende”, es la etapa de las “ilusiones” dicen, por lo tanto, es “única”."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Para las chicas, la juventud representa un bien invaluable, pues en esa etapa los seres humanos afirman “se comen el mundo” y para ellas es importante poder aprovechar todo lo que se les brinda y a lo que tienen acceso, echando mano de las habilidades, capacidades y cualidades con las que cuentan, pero reconocen que a pesar de esta aparente libertad hay cosas que son impuestas y que dictan cómo se deben ver y cómo deben ser."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Igual que en el concurso las jóvenes reconocen que en la sociedad y los espacios en los que se desenvuelven, así como en los medios de comunicación masiva, existen ideales de belleza femenina que les son impuestos, que se centran en el físico y en el exterior, los cuales observan y cuestionan desde su posición como mujeres jóvenes y desde sus contextos sociales y familiares, como lo veremos a continuación."
+   ],
+   "\n",
+   [
+    "h4",
+    {
+     "id": "t-seccion-7"
+    },
+    "LAS PARTICIPANTES Y LA AGENCIA JUVENIL"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "En las siguientes páginas se recuperan los testimonios de Brenda, Graciela, Michelle y Luisa, a través de sus voces es posible observar cómo este espacio funciona simultáneamente como un escenario de reproducción de estereotipos de género e ideales de belleza femenina, pero también como un lugar donde las participantes los cuestionan, negocian y confrontan. Asimismo, el certamen aparece como un espacio de encuentro, socialización y aprendizaje en el que desarrollan habilidades, fortalecen su autoestima y amplían sus horizontes personales."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Para las cuatro jóvenes, la motivación inicial para participar estuvo vinculada con la curiosidad, el deseo de “experimentar algo nuevo” y la búsqueda de crecimiento personal. Brenda, por ejemplo, decidió inscribirse movida por el interés de vivir una experiencia distinta y retarse a sí misma en un contexto de mayor competencia, pues ella nos comparte que ya había participado en el Reina de las Fiestas Patrias, pero de su colonia. Aunque no consideraba el certamen como algo “esencial”, sí lo valoraba como una experiencia divertida y formativa que le permitió aprender de otras jóvenes, distinguir amistades genuinas y ganar seguridad al enfrentarse a un público y a un jurado."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "En el caso de Graciela, la experiencia tuvo un impacto aún más profundo: el concurso significó una transformación en su autoestima en un momento de vulnerabilidad personal tras la maternidad. Participar le abrió puertas laborales en el modelaje y le permitió resignificar su imagen corporal y su valor personal. Aunque reconoce que el certamen puede asociarse con estándares de belleza, lo concibe también como una tradición local y un espacio que puede ayudar a otras jóvenes a “salir de un bache”, como ella lo hizo."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Luisa, por su parte, encontró en el concurso una oportunidad para adquirir experiencia, proyectar liderazgo como coordinadora de su colonia y posicionarse públicamente como una joven comprometida con su comunidad. La experiencia le permitió comprender que el certamen implicaba presión, preparación y desenvolvimiento público, desmontando la idea de que se trata únicamente de “pararse con un vestido bonito”."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Michelle subraya la dimensión comunicativa y comunitaria del evento. Para ella, el certamen acerca a las jóvenes a experiencias que usualmente parecen lejanas como los concursos televisados y las coloca en un espacio donde pueden modelar, aprender y convivir. Destaca especialmente el aprendizaje adquirido en los ensayos: “desde cómo caminar y sentarse, hasta cómo expresarse en público y relacionarse con desconocidas”."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "En conjunto, sus relatos muestran que el certamen no se reduce a una competencia estética, sino que funciona como un espacio de socialización juvenil donde se desarrollan habilidades sociales, expresivas y emocionales: “hablar en público”, “controlar los nervios”, desenvolverse ante audiencias, establecer redes de amistad, “ser extrovertida” y fortalecer la autoestima."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Por otro lado, las jóvenes también identifican con claridad la presencia de un ideal de belleza dominante, Graciela menciona la existencia de un “canon” que tiende a privilegiar ciertos rasgos físicos como ser alta, blanca o de determinadas características corporales en las ganadoras. Michelle coincide al señalar que el certamen busca proyectar a un “mujeronón”: alta, guapa, con vestido llamativo, bien maquillada y arreglada. Luisa considera que el ideal promovido es “muchísimo físicamente” y poco representativo de las jóvenes de Iztacalco."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Estas percepciones dan cuenta que las participantes no son ajenas a las jerarquías corporales que atraviesan el concurso, pues reconocen que la apariencia tiene un peso significativo y que, en ocasiones, las cualidades intelectuales o expresivas quedan relegadas frente a la imagen. Es en ese sentido que Michelle advierte que en la sociedad “como te ven, te tratan”, lo que confirma la eficacia social de estos estereotipos. Podemos afirmar entonces que la belleza funciona como capital simbólico que otorga reconocimiento y oportunidades, tal como lo vivió Graciela al integrarse al modelaje."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Podemos ver que, lejos de aceptar pasivamente estos ideales, las jóvenes los cuestionan y resignifican; en el caso de Brenda afirma no identificarse con la figura de la “mujer perfecta” promovida por los medios y rechaza la presión de ajustarse a estándares corporales impuestos. Para ella, la perfección radica en “sentirse bien consigo misma” y no en cumplir con expectativas externas, su postura muestra una agencia clara frente a los discursos normativos de feminidad."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Luisa también se distancia del ideal estético presentado en el certamen y señala que no representa a las jóvenes actuales, cuyos estilos y formas de expresión son distintos. Michelle, por su parte, plantea una crítica directa pues afirma que “en un certamen de belleza la apariencia es importante, pero no debería ser lo principal”, insiste en que la preparación intelectual y la capacidad de expresión deben acompañar a la imagen física. Su reflexión transforma el ideal: no basta con ser “bonita” dice, hay que “ser inteligente, informada y capaz de hablar con seguridad”."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Es por eso por lo que cuando Graciela reconoce la presencia del “ego” en el deseo de ganar, también señala la necesidad de mayor continuidad y compromiso institucional con las reinas electas, lo que cuestiona la superficialidad del reconocimiento otorgado, lo que nos permite observar que las jóvenes no niegan la importancia de la estética dentro del certamen, pero sí problematizan su centralidad exclusiva. Al hacerlo, amplían el significado de lo que implica “ser reina”: no sólo belleza física, sino también seguridad, preparación, inteligencia."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Por otro lado, más allá de la competencia, el certamen aparece como un espacio de encuentro entre pares, pues las participantes destacan la posibilidad de “hacer amigas”, “compartir experiencias”, “conocer otras formas de pensar” y “ampliar su mundo social”. Las dinámicas grupales, los ejercicios de psicología y la convivencia generan procesos de socialización consideramos que fortalecen habilidades emocionales y comunicativas."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Michelle relata con relación a esto cómo actividades aparentemente simples como “abrazar a desconocidas”, “decir palabras positivas”, “interactuar con el grupo” contribuyeron a que se volviera “más extrovertida y sociable”, por su parte Brenda habla de “aprender a distinguir amistades auténticas”; Luisa, de “enfrentar la presión y controlar los nervios” y Graciela, de “reconstruir su autoestima”."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "De este modo, podemos decir que el certamen funciona como un espacio pedagógico informal donde se desarrollan capacidades corporales (postura, caminar, presencia escénica), comunicativas (hablar en público, responder preguntas), sociales (establecer vínculos, trabajo en grupo) y subjetivas (seguridad, autoestima, autoimagen)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Los testimonios analizados permiten observar la complejidad del certamen Reina de las Fiestas Patrias en Iztacalco, pues si bien reproduce ciertos estereotipos de género e ideales de belleza femenina, también abre un margen de acción para que las jóvenes los cuestionen, negocien y resignifiquen."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Entonces, observamos que lejos de ser sujetas pasivas, las participantes muestran capacidad crítica frente a los ideales impuestos y redefinen el valor de la experiencia en términos de crecimiento personal, aprendizaje y fortalecimiento de su identidad. El certamen se convierte así en un espacio ambivalente: reproduce normas de feminidad, pero también habilita procesos de agencia juvenil, encuentro comunitario y desarrollo de habilidades. En esa tensión entre adaptación y cuestionamiento, las jóvenes no sólo desfilan en una pasarela; también construyen sentidos propios sobre la belleza, la feminidad y su lugar en el espacio público."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Gracias a estos relatos, ubicamos que los discursos y las imágenes de femineidad y belleza que circulan en el ",
+    [
+     "em",
+     {},
+     "Reina de las Fiestas Patrias"
+    ],
+    " está relacionado según Le Breton a:"
+   ],
+   "\n",
+   [
+    "blockquote",
+    {},
+    "\n",
+    [
+     "p",
+     {},
+     "Los valores cardinales de la modernidad, lo que la publicidad antepone, son los de la salud, de la juventud, de la seducción, de la suavidad, de la higiene. Son piedras angulares del relato moderno sobre el sujeto y su obligada relación con el cuerpo. (2002:133)."
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Por otro lado, también vemos lo propuesto por Muñiz (2011), quien afirma que en las sociedades contemporáneas las características de la belleza están relacionadas: “… a la piel blanca, al cabello rubio, a los ojos claros, la nariz ʹrespingadaʹ, la estatura y la delgadez extrema” (p. 54), asimismo plantea que:"
+   ],
+   "\n",
+   [
+    "blockquote",
+    {},
+    "\n",
+    [
+     "p",
+     {},
+     "La belleza y lo que actualmente se percibe como perfección está asociada al logro del éxito, a la posibilidad de ascenso social, a la obtención de mejores condiciones de vida y, en muchos casos, al beneficio de un empleo de prestigio o un matrimonio provechoso” (p.19)."
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "A pesar de esto destacamos el cuestionamiento que hacen estas jóvenes respecto a los discursos y las imágenes del concurso ",
+    [
+     "em",
+     {},
+     "Reina de las Fiestas Patrias,"
+    ],
+    " pues reconocen la diversidad de mujeres que habitan el territorio mexicano y el iztacalquense, así como los contextos y las situaciones a las que se enfrentan, pues hay una gama de posibilidades de ser mujer joven y que los estándares de belleza y feminidad son heterogéneos, según sus gustos y posibilidades."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "También es importante mencionar que, a diferencia de la generación anterior, las jóvenes ya no están expuestas sólo a la influencia del principal medio comunicación masiva: la televisión, ellas afirman que las redes se han vuelto espacio virtual del cual ellas pueden retomar ideas para crear sus formas de ser joven."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "No podemos negar que las jóvenes participantes del certamen reconocen y valoran ese ideal de belleza femenina, promovido y presentado en el concurso, pues saben que estas características físicas y actitudes pueden ayudarlas a ser aceptadas, a tener beneficios y poder acceder a diferentes espacios, pero están conscientes de que la juventud y la belleza no son suficientes, y que pareciera que las capacidades intelectuales para las jóvenes juegan un papel importante en su constitución como mujeres jóvenes exitosas, además algunas de ellas han conseguido oportunidades laborales, lo cual les permite tener una entrada de dinero propio, unas como modelos o edecanes y la posibilidad de participar en certámenes de otro nivel, lo que les proporciona prestigio dentro de sus grupos sociales."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Es importante hacer mención de la forma en la que ellas reconfiguran estos ideales y cómo los usan en diferentes espacios y situaciones, pues a pesar de que el concurso es un espacio feminizado y feminizante, estas chicas aprenden habilidades para su vida cotidiana que no habían desarrollado en otros espacios u otros momentos, por ejemplo, ganar seguridad para expresarse en público, tomar la riendas de una situación que parecía complicada, así como tomar decisiones acertadas, y todo esto a partir de mostrar sus atributos físicos y actitudes femeninas frente a un público."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Observamos que las jóvenes se apropian y reproducen el ideal de belleza femenina establecido institucionalmente desde la mirada masculina y reforzado por las personas adultas que organizan el certamen, así como los discursos y las imágenes del entorno social en general, pero también hemos visto cómo las jóvenes no los reconocen como absolutos, pues en la socialización con sus pares se crean discursos, imágenes y prácticas al margen de lo establecido, creando nuevas visiones de lo que se puede considerar una mujer joven, jugando con estas, mezclándolas, tomando un poco de aquí y un poco de allá, para construirse como sujetas."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Podemos afirmar, que en este momento es cuando se hace efectiva la agencia humana que plantea Scott, es decir, este intento parcial de construir una identidad, una existencia, así como relaciones con ciertos límites, negaciones, resistencias y reinterpretaciones, pues según la autora:"
+   ],
+   "\n",
+   [
+    "blockquote",
+    {},
+    "\n",
+    [
+     "p",
+     {},
+     "Los sujetos son constituidos discursivamente, pero existen conflictos entre los sistemas discursivos, contradicciones dentro de cualquiera de ellos, múltiples significados posibles para los conceptos que colocan. Y los sujetos tienen agencia. No son individuos unificados y autónomos que ejercen su libre albedrío, sino más bien sujetos cuya agencia se crea a través de las situaciones y estatus que se les confieren. Ser un sujeto significa estar “sujeto a condiciones definidas de existencia, condiciones de dotación de agentes y condiciones de ejercicio”. Estas condiciones hacen posibles elecciones, aunque éstas no son ilimitadas. Los sujetos son constituidos discursivamente, la experiencia es un evento lingüístico (no ocurre fuera de significados establecidos), pero tampoco está confinada a un orden fijo de significado...(Scott, 2001:66)."
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "h3",
+    {
+     "id": "t-seccion-8"
+    },
+    "REFLEXIONES FINALES "
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Gracias al análisis realizado a lo largo de estas páginas si bien compartimos con algunos autores que el cuerpo femenino en los certámenes de belleza encarna identidades nacionales y/o locales, así como normas sociales vinculadas al género, la clase, la raza, la etnia, la edad, entre otras, resultando en eventos promotores de ideales de belleza femenina y reguladores de relaciones de género en contextos específicos; nos adherimos más bien a las propuestas teóricas y analíticas en donde se hace presente la agencia de las concursantes, aunque esta sea limitada, como bien lo apunta Banet-Weiser (1999)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Pues como lo asientan Lorenzo, Rey y Tossounian en estos acontecimientos siempre se encuentran “[…] brechas y fisuras que representan inestabilidades constitutivas […] que subvierta la construcción de estas femineidades (2005: 39). Asimismo, Fernández y Venegas proponen ver la “[…] construcción de la subjetividad femenina participante y activa, con cierto discurso, en parte liberal, en parte ideal, y en parte fruto de su contexto social (2001:191)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Lo anterior, nos permite reconocer que las concursantes, así como las ganadoras van más allá de la función que les otorga el certamen y, por lo tanto, tienen la capacidad de valorar de diferentes formas el presentarse en este tipo de eventos, en el caso de las jóvenes iztacalquenses el certamen ",
+    [
+     "em",
+     {},
+     "Reina de las Fiestas Patrias"
+    ],
+    " resulta ser un ambiente de encuentro, de socialización y de aprendizaje. Es aquí, en donde vemos de manera clara la propuesta de la socialidad con sus pares de Urteaga, pues las jóvenes si bien no llegan a crear una identidad o movimiento, a través del contacto y el afecto sí establecen prácticas específicas que consideran enriquecedoras y educativas que se presentan en el proceso del ",
+    [
+     "em",
+     {},
+     "Reina de las Fiestas Patrias"
+    ],
+    "."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "A través de todo el proceso del certamen las jóvenes van experimentando diversas vivencias y experiencias sobre las cuales van reflexionando y aprendiendo, esto es sumamente importante analizarlos puesto que como lo mencionan Urteaga y Sáenz, a pesar de que el cuerpo generizado clasifica a los individuos, los disciplina y son sometidos a la “normalidad” con base en esquemas considerados “naturales” y “esenciales” a través de instituciones y discursos, también el cuerpo juvenil es un espacio cultural en disputa entre los adultos y los jóvenes, y es en los intersticios y las zonas porosas de la institucionalidad que pueden aparecer imágenes creadas por los propios jóvenes."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Si bien en esta revisión no tenemos imágenes claras de estas jóvenes creadas por ellas mismas, si observamos cuestionamientos, posiciones y críticas respecto a las imágenes y los discursos presentados en el concurso respecto a lo que es ser mujer y lo que se pretende presentar en relación con la belleza."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Por otro lado, considerando el contexto social iztacalquense con sus limitaciones proponemos el certamen como un espacio comunitario de la “reapropiación del yo juvenil” desde la propuesta de Reguillo, pues ante la imposibilidad como dice la autora de reinscribir sus biografía en contextos estables con certeza en lealtades, solidaridades y reconocimientos las jóvenes ven este espacio como una posibilidad de restituir el capital negado del que habla la autora, pues podemos observar en este certamen local que remite a una fiesta cívica nacional las tres cuestiones o dimensiones que marca la autora para las instancias de la “reapropiación del yo”."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Pues las jóvenes adquieren, a través de su participación en el concurso, primero membresía y pertenencia a un grupo, segundo, el sentido de estar realizando algo importante para ellas, pero también para su comunidad y favorece la construcción de una identidad local y nacional, aunque con marcas de género, de edad y de clase. Reconocer estos espacios desde la propuesta de Reguillo, nos permitirá en otros momentos como dice la autora, comprender los procesos que modulan, modelan y otorgan especificidad a la condición juvenil."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Acercarnos desde estas propuestas pretende visibilizar un espacio importante, en donde se promueven mandatos de género y en donde las mujeres jóvenes han participado en la vida social de sus comunidades de manera activa desde siglos anteriores, siendo lugares significativos de análisis puesto que para ellas son una oportunidad de encuentro con sus pares, de socialización, de reflexión, de debate, de discusión y cuestionamiento a su condición y a su situación a nivel local y/o nacional."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Lo que permite ver cómo desde la administración pública se crean y promueven espacios marcados por el sexismo, siendo más bien necesarias políticas públicas que tengan como eje rector la perspectiva de género y la perspectiva juvenil, que garanticen el pleno goce de los derechos de todas las personas jóvenes, desde donde se pueda aspirar al ejercicio de una ciudadanía plena."
+   ],
+   "\n",
+   [
+    "h3",
+    {
+     "id": "t-seccion-9"
+    },
+    "BIBLIOGRAFÍA"
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Banet-Weiser, S. (1999). ",
+    [
+     "em",
+     {},
+     "The most beautiful girl in the world: Beauty pageants and national identity"
+    ],
+    ". University of California Press."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Bolívar, I. (2005). El reinado de belleza: Descubrir la política en lo “natural”. En C. Rutter-Jensen (Ed.), ",
+    [
+     "em",
+     {},
+     "Pasarela paralela. Escenarios de la estética y el poder en los reinados de belleza"
+    ],
+    " (pp. 16–22). Universidad Javeriana."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Bourdieu, P. (2000). ",
+    [
+     "em",
+     {},
+     "La dominación masculina"
+    ],
+    ". Anagrama."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Cortázar, J. (2010). Cuerpos perfectos. Sociología de la construcción corporal en las reinas de belleza y físico-culturistas. ",
+    [
+     "em",
+     {},
+     "Actuel Marx Intervenciones"
+    ],
+    ", (9), 95–114."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Cunin, E. (2005). Del significado de lo nacional y de lo popular en Cartagena y los concursos de belleza. En C. Rutter-Jensen (Ed.), ",
+    [
+     "em",
+     {},
+     "Pasarela paralela. Escenarios de la estética y el poder en los reinados de belleza"
+    ],
+    " (pp. 23–32). Universidad Javeriana."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Da Matta, R. (2002). Carnavales, desfiles y procesiones. Recuperado el 6 de abril de 2017, de ",
+    [
+     "a",
+     {
+      "href": "http://aleph.org.mx/jspui/handle/56789/8464"
+     },
+     "http://aleph.org.mx/jspui/handle/56789/8464"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Expansión. (2015, abril 28). Iztacalco, la pequeña y transitada delegación en busca de gobernante. Recuperado el 3 de abril de 2017, de ",
+    [
+     "a",
+     {
+      "href": "http://expansion.mx/adnpolitico/2015/04/28/iztacalco-la-pequena-y-transitadadelegacion-en-busca-de-gobernante?internal_source=PLAYLIST"
+     },
+     "http://expansion.mx/adnpolitico/2015/04/28/iztacalco-la-pequena-y-transitadadelegacion-en-busca-de-gobernante?internal_source=PLAYLIST"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Fernández, A., & Venegas, L. (2010). Fiesta, identidad y estrategias de una minoría que se organiza: La reina de las flores de una comunidad latina en Texas. ",
+    [
+     "em",
+     {},
+     "Migraciones Internacionales"
+    ],
+    ", 5(3), 113–142."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Finol, J. (1999). Semiótica del cuerpo: El mito de la belleza contemporánea. ",
+    [
+     "em",
+     {},
+     "Opción"
+    ],
+    ", 15(28), 101–124."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Foucault, M. (2005). ",
+    [
+     "em",
+     {},
+     "Vigilar y castigar: Nacimiento de la prisión"
+    ],
+    ". Siglo XXI."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Gobierno del Distrito Federal, Secretaría de Desarrollo Urbano y Vivienda. (1995–2000). ",
+    [
+     "em",
+     {},
+     "Programa delegacional de desarrollo urbano de Iztacalco"
+    ],
+    ". Recuperado el 15 de abril de 2014, de ",
+    [
+     "a",
+     {
+      "href": "http://www.paot.org.mx/centro/programas/delegacion/iztacal.html#fundamentacionj"
+     },
+     "http://www.paot.org.mx/centro/programas/delegacion/iztacal.html#fundamentacionj"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "González, J. (1994). ",
+    [
+     "em",
+     {},
+     "En más culturas"
+    ],
+    ". Conaculta."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Instituto Nacional de las Mujeres. (s. f.). ",
+    [
+     "em",
+     {},
+     "El impacto de los estereotipos y los roles de género en México"
+    ],
+    " (pp. 1–16)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Instituto para el Federalismo y el Desarrollo Municipal, Secretaría de Gobernación. (2010). ",
+    [
+     "em",
+     {},
+     "Enciclopedia de los municipios y delegaciones de México"
+    ],
+    ". Recuperado el 30 de enero de 2014, de ",
+    [
+     "a",
+     {
+      "href": "http://www.elocal.gob.mx/work/templates/enciclo/EMM09DF/index.html"
+     },
+     "http://www.elocal.gob.mx/work/templates/enciclo/EMM09DF/index.html"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Le Breton, D. (2002). ",
+    [
+     "em",
+     {},
+     "Antropología del cuerpo y la modernidad"
+    ],
+    ". Nueva Visión."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Lobato, M.Z (2005). ",
+    [
+     "em",
+     {},
+     "Cuando las mujeres reinaban. Belleza, virtud y poder en la Argentina del siglo XX"
+    ],
+    " . Editorial Biblos"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Lorenzo, M., Rey, A., & Tossounian, C. (2005). Imágenes de mujeres virtuosas: Moralidad, género y poder en la Argentina de entre guerras. En M. Z. Lobato (Ed.), ",
+    [
+     "em",
+     {},
+     "Cuando las mujeres reinaban. Belleza, virtud y poder en la Argentina del siglo XX"
+    ],
+    " (pp. 19–43). Editorial Biblos."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Muñiz, E. (2011). ",
+    [
+     "em",
+     {},
+     "La cirugía cosmética: ¿Un desafío a la “naturaleza”? Belleza y perfección como norma"
+    ],
+    ". Universidad Autónoma Metropolitana-Azcapotzalco."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Pérez, A., & Masse, F. (2012). Concursos de belleza. ",
+    [
+     "em",
+     {},
+     "Algarabía"
+    ],
+    ", 1, 66–71."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Reguillo, R. (2001). La condición juvenil en el México contemporáneo: Biografías, incertidumbres y lugares. En R. Reguillo (Coord.), ",
+    [
+     "em",
+     {},
+     "Los jóvenes en México"
+    ],
+    " (pp. 395–429). FCE-CONACULTA."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Rutter-Jensen, C. (2005). Drag Queens. En C. Rutter-Jensen (Ed.), ",
+    [
+     "em",
+     {},
+     "Pasarela paralela. Escenarios de la estética y el poder en los reinados de belleza"
+    ],
+    " (pp. 68–77). Universidad Javeriana."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Santamaría, A. (2014). ",
+    [
+     "em",
+     {},
+     "De carnaval, reinas y narcos: El terrible poder de la belleza"
+    ],
+    ". Grijalbo."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Scott, J. (2001). Experiencia. ",
+    [
+     "em",
+     {},
+     "La Ventana"
+    ],
+    ", (13), 42–73."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Scott, J. (2003). El género: Una categoría útil para el análisis histórico. En M. Lamas (Comp.), ",
+    [
+     "em",
+     {},
+     "El género. La construcción social de la diferencia sexual"
+    ],
+    " (pp. 265–302). PUEG/UNAM-Miguel Ángel Porrúa."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Urteaga, M. (2011). ",
+    [
+     "em",
+     {},
+     "La construcción juvenil de la realidad. Jóvenes mexicanos contemporáneos"
+    ],
+    ". UAM-Juan Pablos Editores."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Urteaga, M., & Sáenz, M. (2011). Juventud, género y sexualidad. En D. Barrera & R. Arriaga (Eds.), ",
+    [
+     "em",
+     {},
+     "Género, cultura, discurso y poder"
+    ],
+    " (pp. 281–312). ENAH."
+   ],
+   "\n",
+   [
+    "section",
+    {},
+    [
+     "h3",
+     {
+      "id": "t-seccion-10"
+     },
+     "NOTAS"
+    ],
+    [
+     "ol",
+     {},
+     "\n",
+     [
+      "li",
+      {
+       "id": "t-fn1"
+      },
+      "Algunos estudios existentes acerca del tema que lo documentan: en Estados Unidos Banet-Weiser (1999), en México Fernández y Venegas (2002), en Colombia Rutter-Jensen (2005) y en Argentina Lobato (2005). ",
+      [
+       "a",
+       {
+        "href": "#t-fnref1",
+        "id": "t-llamada-fnref1-1"
+       },
+       "↩"
+      ]
+     ],
+     "\n",
+     [
+      "li",
+      {
+       "id": "t-fn2"
+      },
+      "Las ediciones fueron 2013, 2014 y 2016. ",
+      [
+       "a",
+       {
+        "href": "#t-fnref2",
+        "id": "t-llamada-fnref2-1"
+       },
+       "↩"
+      ]
+     ],
+     "\n",
+     [
+      "li",
+      {
+       "id": "t-fn3"
+      },
+      "En conversaciones informales con algunos miembros del Comité Organizador, se mencionó que el certamen estuvo a punto de desaparecer en la jefatura delegacional de Elena Tapia, pues al ser ella feminista consideraba que no era un espacio idóneo para que las jóvenes participaran, pero el Comité lo defendió y permaneció, lo que nos hace plantear aquí como una hipótesis que la introducción de los talleres con perspectiva de género que se imparten a las jóvenes fue una recomendación de la entonces delegada. ",
+      [
+       "a",
+       {
+        "href": "#t-fnref3",
+        "id": "t-llamada-fnref3-1"
+       },
+       "↩"
+      ]
+     ],
+     "\n",
+     [
+      "li",
+      {
+       "id": "t-fn4"
+      },
+      "Los datos presentados corresponden a la observación participante, los cuestionarios aplicados (35) y las entrevistas realizadas (7) en las ediciones 2013, 2015 y 2016 del certamen. ",
+      [
+       "a",
+       {
+        "href": "#t-fnref4",
+        "id": "t-llamada-fnref4-1"
+       },
+       "↩"
+      ]
+     ],
+     "\n"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Cómo citar: ",
+    [
+     "em",
+     {},
+     "Bajo el Volcán. Revista del Posgrado de Sociología. BUAP"
+    ],
+    ", Año 7, Núm. 14, mayo – octubre de 2026, pp. 101-126. https://doi.org/10.32399/ICSYH.bvbuap.2954-4300.2026.7.14.875"
+   ],
+   [
+    "p",
+    {},
+    [
+     "a",
+     {
+      "href": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
+     },
+     "Licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional"
+    ],
+    ". Publicación de acceso abierto diamante editada por la Benemérita Universidad Autónoma de Puebla."
+   ],
+   "\n"
+  ],
+  "\n"
+ ]
+}

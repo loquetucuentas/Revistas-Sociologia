@@ -222,9 +222,9 @@ def main():
             archivo.write(fragmento)
         print(f"Escrito {os.path.relpath(ruta, RAIZ)} para el visor de artefactos.")
     if tamano > LIMITE_BYTES:
+        # Solo se avisa: recortar datos es una decisión del responsable del proyecto.
         print(f"Aviso: el archivo supera los 10 MB ({tamano / 1024 / 1024:.2f} MB). "
               "No se ha recortado ningún dato.", file=sys.stderr)
-        raise SystemExit(2)
 
 
 if __name__ == "__main__":

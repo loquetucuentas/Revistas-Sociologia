@@ -20,6 +20,7 @@ import hashlib
 import json
 import os
 import re
+import ssl
 import time
 import urllib.error
 import urllib.parse
@@ -91,12 +92,24 @@ class Cliente:
                 self.detenidos[dominio] = motivo + ". No se le hacen más peticiones en esta ejecución."
                 self.tipos[dominio] = "limite"
                 raise Detenido(self.detenidos[dominio], dominio, "limite") from error
+            if error.code in (401, 403) and not url.endswith("/robots.txt"):
+                self.detenidos[dominio] = (f"El servidor ha denegado el acceso (respuesta {error.code}). "
+                                           "No se le hacen más peticiones en esta ejecución.")
+                self.tipos[dominio] = "denegado"
+                raise Detenido(self.detenidos[dominio], dominio, "denegado") from error
             return error.code, error.headers, b""
         except (urllib.error.URLError, TimeoutError, ConnectionError) as error:
-            tipo = "red" if es_bloqueo_de_red(error) else "servidor"
+            if es_bloqueo_de_red(error):
+                tipo, motivo = "red", "La red del entorno no permite este dominio."
+            elif isinstance(getattr(error, "reason", None), ssl.SSLCertVerificationError):
+                # Nunca se desactiva la verificación: el servidor queda pendiente.
+                tipo = "tls"
+                motivo = ("El certificado de seguridad del servidor no se puede verificar "
+                          f"({error.reason.verify_message}); no se desactiva la verificación.")
+            else:
+                tipo, motivo = "servidor", f"Sin conexión con el servidor: {getattr(error, 'reason', error)}."
             self.tipos[dominio] = tipo
-            self.detenidos[dominio] = ("La red del entorno no permite este dominio." if tipo == "red"
-                                       else f"Sin conexión con el servidor: {getattr(error, 'reason', error)}.")
+            self.detenidos[dominio] = motivo
             raise Detenido(self.detenidos[dominio], dominio, tipo) from error
 
     @staticmethod
@@ -132,6 +145,9 @@ class Cliente:
     def obtener(self, url):
         """Descarga una URL. Devuelve (url final, tipo, cuerpo o None si no ha cambiado)."""
         for _ in range(MAX_REDIRECCIONES + 1):
+            # Se usa siempre https: es la misma página por una conexión cifrada.
+            if url.lower().startswith("http://"):
+                url = "https://" + url[len("http://"):]
             if url.lower().split("?")[0].endswith(".pdf"):
                 raise Detenido("El enlace lleva a un PDF; no se usa.", "", "pdf")
             if not self.permitido(url):
@@ -235,10 +251,10 @@ def contenedor_html(texto, url):
     raiz = saneado.leer_html(texto)
     html_nodo = saneado.buscar(raiz, lambda n: n[0] == "html")
     idioma = normalizar_idioma((html_nodo or ["", {}])[1].get("lang") or (html_nodo or ["", {}])[1].get("xml:lang"))
-    marco = saneado.buscar(raiz, lambda n: n[0] == "iframe" and (n[1].get("id") == "htmlGalleyFrame"
-                                                                  or "htmlGalleyFrame" in (n[1].get("name") or "")))
+    marco = saneado.buscar(raiz, lambda n: n[0] == "iframe" and (
+        n[1].get("id") == "htmlGalleyFrame" or (n[1].get("name") or "") in ("htmlFrame", "htmlGalleyFrame")))
     if marco is not None:
-        return None, "ojs-visor", urllib.parse.urljoin(url, marco[1].get("src") or "")
+        return None, "ojs-visor", urllib.parse.urljoin(url, (marco[1].get("src") or "").strip())
     if "openedition.org" in url:
         partes = [saneado.buscar(raiz, lambda n, i=i: n[1].get("id") == i) for i in ("text", "notes", "bibliography", "appendix")]
         partes = [p for p in partes if p is not None]
@@ -246,9 +262,10 @@ def contenedor_html(texto, url):
             raise saneado.NoConvertible("No se encuentra el texto del artículo en la página de OpenEdition.")
         return ["#raiz", {}] + partes, "openedition", idioma
     if "/article/download/" in url:
-        cuerpo = saneado.buscar(raiz, lambda n: n[0] == "body")
-        if cuerpo is None:
-            raise saneado.NoConvertible("La galerada HTML no tiene cuerpo.")
+        # El archivo de la galerada es el artículo; si no trae body, lo es entero.
+        cuerpo = saneado.buscar(raiz, lambda n: n[0] == "body") or raiz
+        if not saneado.texto_html(cuerpo).strip():
+            raise saneado.NoConvertible("La galerada HTML está vacía.")
         return cuerpo, "ojs-galerada", idioma
     raise saneado.NoConvertible("No se reconoce la estructura de la página HTML; no se puede asegurar qué parte es el artículo.")
 
@@ -318,12 +335,16 @@ def procesar(cliente, carpeta, registro, revista, numero, articulo, fecha):
         galeradas, licencias_pagina, avisos = leer_pagina(decodificar(cuerpo), url_pagina)
         motivo = licencias.contradice(registro["licencia"], licencias_pagina, avisos)
         if motivo:
-            return {"estado": "excluido", "motivo": motivo}
+            return {"estado": "excluido", "motivo": motivo, "detalle": "Licencias en la página: " +
+                    (", ".join(licencias_pagina) or "ninguna") + "."}
         for enlace in registro.get("enlaces") or []:
             if enlace["tipo"] in ("text/xml", "application/xml", "application/jats+xml"):
                 galeradas.insert(0, {"url": enlace["url"], "formato": "xml", "etiqueta": "Crossref"})
             elif enlace["tipo"] in ("text/html", "application/xhtml+xml"):
                 galeradas.append({"url": enlace["url"], "formato": "html", "etiqueta": "Crossref"})
+        if "journals.openedition.org" in url_pagina:
+            # OpenEdition publica el texto completo en la propia página del artículo.
+            galeradas.insert(0, {"url": url_pagina, "formato": "html", "etiqueta": "Página de OpenEdition"})
         if not galeradas:
             return {"estado": "sin-texto", "motivo": "solo-pdf"}
         errores = []
@@ -342,9 +363,9 @@ def procesar(cliente, carpeta, registro, revista, numero, articulo, fecha):
             return {"estado": "sin-texto", "motivo": "solo-pdf", "detalle": errores}
         return {"estado": "excluido", "motivo": "no-convertible", "detalle": errores}
     except Detenido as error:
-        if error.tipo == "robots":
-            return {"estado": "excluido", "motivo": "robots", "detalle": error.motivo, "dominio": error.dominio}
-        motivo = {"limite": "limite-trafico", "red": "dominio-no-permitido"}.get(error.tipo, "servidor")
+        if error.tipo in ("robots", "denegado"):
+            return {"estado": "excluido", "motivo": error.tipo, "detalle": error.motivo, "dominio": error.dominio}
+        motivo = {"limite": "limite-trafico", "red": "dominio-no-permitido", "tls": "certificado-tls"}.get(error.tipo, "servidor")
         return {"estado": "pendiente", "motivo": motivo, "detalle": error.motivo, "dominio": error.dominio}
 
 
@@ -374,7 +395,8 @@ def convertir_galerada(cliente, carpeta, archivo, galerada, registro, revista, n
         formato = "HTML"
     motivo = licencias.contradice(registro["licencia"], licencias_texto, avisos)
     if motivo:
-        return {"estado": "excluido", "motivo": motivo}
+        return {"estado": "excluido", "motivo": motivo, "detalle": f"Licencia en Crossref: {registro['licencia']['url']}. "
+                f"Licencias en el texto de la revista: {', '.join(licencias_texto) or 'ninguna'}."}
     idioma_base = (declarado or idioma_de(saneado.texto_plano(["p", {}] + contenido)[:4000])
                    or articulo.get("idioma_titulo") or "es")
     contenido = saneado.marcar_idiomas(contenido, idioma_base)

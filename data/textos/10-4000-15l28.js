@@ -1,0 +1,1831 @@
+// Copia de textos/10-4000-15l28.json para abrir la aplicación sin servidor.
+(window.DATOS_REVISTAS = window.DATOS_REVISTAS || {})["textos/10-4000-15l28.json"] = {
+ "version": 1,
+ "recogido": "2026-10-18T11:28:52+00:00",
+ "doi": "10.4000/15l28",
+ "titulo": "Conhecimento local e comunidades de pequena escala: saberes enraizados para futuros sustentáveis",
+ "revista": "2182-7427",
+ "numero": "v47-2025",
+ "licencia": {
+  "codigo": "by",
+  "nombre": "CC BY 4.0",
+  "nombre_completo": "Creative Commons Atribución 4.0 Internacional",
+  "url": "https://creativecommons.org/licenses/by/4.0/",
+  "url_legal": "https://creativecommons.org/licenses/by/4.0/legalcode.es"
+ },
+ "fuente": {
+  "url": "https://journals.openedition.org/sociologico/13237",
+  "formato": "HTML",
+  "plataforma": "openedition",
+  "pagina": "https://journals.openedition.org/sociologico/13237"
+ },
+ "autores_cita": [
+  {
+   "apellidos": "Couto",
+   "nombre_pila": "Joana Sá",
+   "nombre": null
+  },
+  {
+   "apellidos": "Pereira",
+   "nombre_pila": "Cristiano",
+   "nombre": null
+  },
+  {
+   "apellidos": "Rêgo",
+   "nombre_pila": "Júlio Sá",
+   "nombre": null
+  }
+ ],
+ "avisos_derechos": [],
+ "idioma_principal": "pt",
+ "indice": [
+  {
+   "id": "t-seccion-1",
+   "nivel": 3,
+   "texto": "Texto integral",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-2",
+   "nivel": 2,
+   "texto": "Financiamento",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-3",
+   "nivel": 2,
+   "texto": "Conflito de interesses",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-4",
+   "nivel": 2,
+   "texto": "Disponibilidade de dados",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-5",
+   "nivel": 2,
+   "texto": "Contribuição das autoras/autores",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-6",
+   "nivel": 3,
+   "texto": "Bibliografia",
+   "lang": null
+  }
+ ],
+ "vueltas": {},
+ "contenido": [
+  [
+   "span",
+   {
+    "id": "t-text"
+   },
+   "\n                  ",
+   [
+    "h3",
+    {
+     "id": "t-seccion-1"
+    },
+    [
+     "span",
+     {},
+     "Texto integral"
+    ]
+   ],
+   "\n                  ",
+   [
+    "span",
+    {
+     "id": "t-widgets"
+    },
+    [
+     "a",
+     {
+      "id": "t-wDownload"
+     },
+     [
+      "span",
+      {},
+      "PDF 713k"
+     ]
+    ],
+    " ",
+    [
+     "a",
+     {
+      "id": "t-wSend"
+     },
+     "Partilhar por e-mail"
+    ]
+   ],
+   "\n                  ",
+   "\n                    ",
+   [
+    "p",
+    {},
+    [
+     "span",
+     {},
+     "1"
+    ],
+    "Perante os presentes desafios de índole ambiental, económica, política e social, o quotidiano dos humanos e não-humanos tem vindo a alterar-se profundamente. A expansão do capitalismo transformou profundamente não apenas as relações que guiam os modos de vida no planeta, mas o próprio sistema terrestre, através das alterações climáticas. Como colocado por Thomas Hylland Eriksen (Eriksen, 1995; 2016; Eriksen & Schober, 2016; Hoffman, Eriksen & Mendes, 2022) estamos perante um processo de ",
+    [
+     "em",
+     {},
+     "overheating "
+    ],
+    "(sobreaquecimento). Este conceito refere-se a uma condição de mudança global acelerada nas dimensões socioculturais, ambientais e económicas com consequências nos ecossistemas, levando a um desenvolvimento desigual e ao agravamento das disparidades socioeconómicas existentes. "
+   ],
+   "\n                    ",
+   [
+    "p",
+    {},
+    [
+     "span",
+     {},
+     "2"
+    ],
+    "O conceito de ",
+    [
+     "em",
+     {},
+     "sobreaquecimento"
+    ],
+    " permite um olhar crítico sobre alterações climáticas e os processos de modernização e globalização capitalista. Estes processos têm originado uma crise que se equaciona por meio de três distintas expressões: financeira, ambiental e cultural ou de identidade (Eriksen, 2016). Esta crise ilustrada pelas crescentes dificuldades em subsistir a nível financeiro, mesmo tendo um emprego; pela a degradação ambiental sem precedentes, seja direta através de processos extrativistas, ou indireta, através da emissão de gases com efeito de estufa, tornando inviáveis várias práticas e modos de vida mais tradicionais (Eriksen, 2016); e, por último, crises de identidade advindas das crises anteriormente anunciadas, sobre os quais estas alterações disruptivas alteram a sua própria identidade e como se pensam a si mesmos (Eriksen & Schober, 2016), relacionadas também com as crises de reprodução social e de perda de conhecimento local (Sá Couto, 2025)."
+   ],
+   "\n                    ",
+   [
+    "p",
+    {},
+    [
+     "span",
+     {},
+     "3"
+    ],
+    "Clifford Geertz em ",
+    [
+     "em",
+     {},
+     "Local Knowledge"
+    ],
+    " (1983), numa perspetiva interpretativista, chama a atenção para o conhecimento contextual e culturalmente específico, característico ao lugar onde as comunidades o desenvolvem. Para o autor, o conhecimento local refere-se às crenças e orientações emergentes das práticas sociais de uma comunidade através da sua história (Geertz, 1983). Também Foucault (1972) evidencia o modo como este tipo de conhecimento diverge do que está estabelecido ou legitimado nos paradigmas vigentes."
+   ],
+   "\n                    ",
+   [
+    "p",
+    {},
+    [
+     "span",
+     {},
+     "4"
+    ],
+    "Após as publicações influentes de Geertz (1983) várias investigações têm usado a noção de ",
+    [
+     "em",
+     {},
+     "conhecimento local"
+    ],
+    " para entender como formas negligenciadas ou suprimidas de conhecimento se tornam relevantes num contexto de crise ecológica (Cooper, 2007; Gelderloos, 2022; Klenk et al., 2017; Sá Rêgo, 2021; Sá Couto, 2025; Ana Patrícia Faria Pereira2026-01-25T20:27:00APThornton & Scheer, 2012; Vandebroek et al., 2011) colocando em evidência como comunidades e indivíduos têm práticas e conhecimentos não valorizados pelo conhecimento científico (Cooper, 2007; Pálsson, 1998), uma consequência histórica da forma evolucionista de pensamento e das visões imperialistas (Canagarajah, 2002). "
+   ],
+   "\n                    ",
+   [
+    "p",
+    {},
+    [
+     "span",
+     {},
+     "5"
+    ],
+    "O conhecimento local, porém, não está presente apenas nos contextos distantes do outro antropológico, enquanto o conhecimento ocidental é tido como um conhecimento universal – muito pelo contrário: todo o conhecimento surge localmente (Appadurai, 1996; Cooper, 2007). Na literatura são ainda mobilizados conceitos como conhecimento tradicional (Mustonen et al., 2023; Raymond-Yakoubian et al, 2017; Thornton & Scheer, 2012) ou conhecimento ecológico local/tradicional (Berkes, 1999; Hoeppe, 2007; Johannes, 1993; Schafer & Reis, 2008; Silvano & Begossi, 2010; Truchet et al., 2019) ou até mesmo conhecimento experimental (Santos et al., 2022) que são mobilizados de forma indiferenciada na literatura, principalmente em matérias de participação e integração destes diferentes conhecimento nos processos de governança (Antweiler, 1998; Boubekri et al., 2023; Delicado et al., 2012; Jentoft, 2017; Johannes, Freeman & Hamilton, 2000; Renck et al., 2023). Como refere Berkes (1999), não existe uma definição universalmente aceite de conhecimento ecológico tradicional, também pela ambiguidade das palavras que o definem. O conceito de conhecimento indígena também é mobilizado, porém, este tem implicações políticas uma vez que foi usado em narrativas comparativas com o conhecimento ocidental, resultando numa homogeneização do conhecimento de comunidades não-ocidentais tidas como estáticas (Antweiler, 1998; Ana Patrícia Faria Pereira2026-01-25T20:26:00APGoody, 2006; Sá Couto, 2025; Ana Patrícia Faria Pereira2026-01-25T20:26:00APThompson & Scoones, 1994)."
+   ],
+   "\n                    ",
+   [
+    "p",
+    {},
+    [
+     "span",
+     {},
+     "6"
+    ],
+    "No âmbito deste Dossier optou-se pela escolha da nomenclatura ",
+    [
+     "em",
+     {},
+     "conhecimento local "
+    ],
+    "uma vez que permite abranger toda a capacidade intelectual do conhecimento para lá do conhecimento ecológico, considerando que este integra inerentemente o conhecimento sobre o ambiente social (Hoeppe, 2007), e, neste sentido, integra tanto o conhecimento recente como o antigo, passado de geração em geração (Berkes, 1999). Paralelamente, a escolha do conceito ",
+    [
+     "em",
+     {},
+     "conhecimento local"
+    ],
+    " prende-se também com o afastamento das conceções evolucionistas que podem estar relacionadas com a utilização do termo tradicional (Vandebroek et al., 2011). Ademais, permite introduzir a noção de que o conhecimento é dinâmico, e se encontra em constante evolução."
+   ],
+   "\n                    ",
+   [
+    "p",
+    {},
+    [
+     "span",
+     {},
+     "7"
+    ],
+    "Como referido por Sillitoe (1998), a pesquisa focada no conhecimento local tem como objetivo introduzir uma perspetiva informada localmente, promovendo uma apreciação e valorização do conhecimento dos indivíduos de um determinado grupo, assim como “",
+    [
+     "em",
+     {},
+     "alguns argumentariam que já era muito necessário – introdução de uma perspetiva e consciência antropológicas mais evidentes no desenvolvimento, mobilizando a antropologia para lidar com os seus problemas urgentes"
+    ],
+    " ” (Sillitoe, 1998, p. 205 [tradução própria]). É neste sentido que surge este Dossier Temático, com origem num painel no VIII Congresso da Associação Portuguesa de Antropologia ",
+    [
+     "em",
+     {},
+     "Os Novos anos 20: Desafios, Incertezas e Resistências"
+    ],
+    " que aconteceu na cidade de Évora em 2022. "
+   ],
+   "\n                    ",
+   [
+    "p",
+    {},
+    [
+     "span",
+     {},
+     "8"
+    ],
+    "Neste sentido, neste dossier, autores de diferentes contextos tornam possível uma discussão que centra a sustentabilidade e o conhecimento local. Leticia D’Ambrosio Camarero analisa, a partir de uma abordagem etnográfica, as formas de habitar e se relacionar com o ambiente marítimo-costeiro na região de Maldonado e Punta del Este, no Uruguai, tendo como foco principal a prática do surf. No artigo “Territorialidades, conocimientos y autoctonía en transformación: maritimidades en una ciudad costera del Este de Uruguay”, a autora utiliza o conceito de maritimidade para compreender a relação dinâmica entre os seres humanos e o mar, problematizando o mar enquanto território social, simbólico e culturalmente construído. O estudo evidencia como as experiências, práticas, mobilidades e transformações tecnológicas moldam diferentes territorialidades e modos de vida associados ao ambiente costeiro."
+   ],
+   "\n                    ",
+   [
+    "p",
+    {},
+    [
+     "span",
+     {},
+     "9"
+    ],
+    "O conhecimento local é incorporado sobretudo através das narrativas, experiências e práticas quotidianas dos surfistas. O artigo valoriza saberes construídos na experiência direta com o mar, como o saber ler o mar, interpretar ventos, correntes, fundos de areia e condições climáticas específicas de cada praia. Estes conhecimentos são transmitidos de forma informal e coletiva, baseados na observação contínua, na convivência e na experiência empírica, revelando uma forma de aprendizagem profundamente enraizada no território e no contacto sensorial do corpo humano no ambiente."
+   ],
+   "\n                    ",
+   [
+    "p",
+    {},
+    [
+     "span",
+     {},
+     "10"
+    ],
+    "A importância do artigo reside na sua contribuição para a compreensão das relações entre sociedade, território e ambiente marinho-costeiro a partir de uma perspetiva antropológica. Ao destacar o surf como prática social, o texto mostra como atividades aparentemente recreativas são também formas de produção de conhecimento, identidade e territorialidade. Paralelamente, o estudo evidencia as transformações recentes provocadas pelas novas tecnologias e pela maior mobilidade, problematizando tensões entre saberes tradicionais e informação técnica globalizada. Assim, o artigo contribui para debates mais amplos sobre gestão costeira, uso do território e reconhecimento de saberes não científicos."
+   ],
+   "\n                    ",
+   [
+    "p",
+    {},
+    [
+     "span",
+     {},
+     "11"
+    ],
+    "No artigo “Considerações preliminares sobre etnoconservação a partir de narrativas quilombolas (Vale do Ribeira, Estado de São Paulo, Brasil)”, Manoela Olegário da Costa e Marcelo Nivert Schlindwein analisam dinâmicas sociais, territoriais e ambientais em contextos locais, destacando o papel das comunidades na construção de respostas a desafios contemporâneos, como as transformações socioeconómicas, o despovoamento e as questões de sustentabilidade. A partir de uma abordagem interdisciplinar, o texto explora a relação entre território, práticas sociais e conhecimento, enfatizando a importância das experiências locais na compreensão e gestão dos recursos naturais e sociais."
+   ],
+   "\n                    ",
+   [
+    "p",
+    {},
+    [
+     "span",
+     {},
+     "12"
+    ],
+    "Através da análise das práticas quotidianas das comunidades, o conceito de conhecimento local está presente nas formas de organização social e da maneira como interpretam e utilizam o território. Deste modo, o artigo valoriza os saberes construídos a partir da experiência, da memória coletiva e da relação direta com o meio envolvente, reconhecendo-os como fundamentais para compreender as dinâmicas locais. Estes conhecimentos são apresentados não apenas como heranças do passado, mas como saberes vivos, adaptáveis e relevantes para enfrentar desafios atuais."
+   ],
+   "\n                    ",
+   [
+    "p",
+    {},
+    [
+     "span",
+     {},
+     "13"
+    ],
+    "Este artigo evidencia ainda que as soluções para os problemas territoriais e ambientais não podem ser pensadas apenas a partir de modelos externos ou universais. Ao centrar-se nas realidades locais, o texto contribui para uma visão mais inclusiva e participativa do desenvolvimento, reforçando o papel das comunidades enquanto agentes ativos. O artigo é particularmente relevante para debates sobre governança local, planeamento territorial e políticas de sustentabilidade."
+   ],
+   "\n                    ",
+   [
+    "p",
+    {},
+    [
+     "span",
+     {},
+     "14"
+    ],
+    "Kaya Schwemmlein, no artigo “",
+    [
+     "span",
+     {},
+     "Challenging Growth Narratives in Organic Agricultural Policy: Case studies from Sikkim(India), Ndiob (Senegal), and Kauswagan (The Philippines)"
+    ],
+    "”, analisa criticamente as políticas de agricultura biológica, questionando a centralidade do crescimento económico e da expansão de mercado como principais objetivos dessas políticas. Partindo de estudos de caso, argumenta que, apesar do discurso sustentável associado à agricultura biológica, muitas estratégias institucionais continuam a reproduzir lógicas produtivistas e de crescimento, semelhantes às da agricultura convencional. O conhecimento local é incorporado no artigo através da valorização das experiências de agricultores biológicos, das práticas enraizadas nos territórios e das especificidades socioculturais e ambientais de cada contexto. O texto reconhece que os sistemas agrícolas não são homogéneos e que as políticas formuladas de forma centralizada tendem a ignorar saberes práticos acumulados localmente. Ao destacar a diversidade de práticas e racionalidades dos produtores, o artigo evidencia que o conhecimento local constitui uma fonte essencial para compreender as reais dinâmicas da agricultura biológica e para formular políticas mais adequadas às realidades locais."
+   ],
+   "\n                    ",
+   [
+    "p",
+    {},
+    [
+     "span",
+     {},
+     "15"
+    ],
+    "A importância do artigo reside na sua abordagem crítica às políticas públicas de sustentabilidade, mostrando que a simples expansão da agricultura biológica não garante, por si só, resultados sustentáveis. O texto contribui para o debate académico e político ao revelar as contradições entre os objetivos declarados das políticas ambientais e os seus efeitos práticos. Ao desafiar a ideia de crescimento como sinónimo de sucesso, o artigo abre espaço para repensar modelos de desenvolvimento agrícola, tornando-se particularmente relevante para investigadores, decisores políticos e atores envolvidos na transição agroecológica."
+   ],
+   "\n                    ",
+   [
+    "p",
+    {},
+    [
+     "span",
+     {},
+     "16"
+    ],
+    "Os diferentes artigos reunidos neste dossiê convergem na ideia de que o conhecimento local ocupa um lugar central na construção de práticas e estratégias de sustentabilidade. Seja no contexto agrícola, rural ou costeiro, os textos evidenciam que os saberes situados, produzidos na experiência quotidiana das comunidades, permitem uma adaptação mais fina às condições ecológicas, sociais e culturais de cada território. Estes conhecimentos, ancorados na observação contínua, na memória coletiva e na relação vivida com o ambiente, revelam-se fundamentais para lidar com a complexidade, a incerteza e a mudança."
+   ],
+   "\n                    ",
+   [
+    "p",
+    {},
+    [
+     "span",
+     {},
+     "17"
+    ],
+    "Em conjunto, os artigos demonstram que a sustentabilidade não pode ser pensada como um modelo universal, técnico ou imposto de forma vertical. Pelo contrário, emerge como um processo plural e relacional, construído através do diálogo entre diferentes formas de conhecimento, seja este científico, político e local. O reconhecimento dos agricultores, das comunidades rurais e dos utilizadores do mar como detentores de saberes legítimos contribui para práticas mais equilibradas, resilientes e socialmente justas, evitando soluções simplistas e descontextualizadas."
+   ],
+   "\n                    ",
+   [
+    "p",
+    {},
+    [
+     "span",
+     {},
+     "18"
+    ],
+    "Ao valorizar o envolvimento das comunidades e a integração dos seus conhecimentos nas políticas e estratégias de desenvolvimento, os textos alertam também para os riscos associados à desvalorização ou substituição dos saberes locais por visões externas. Tais processos podem gerar conflitos, exclusão social e formas de desenvolvimento insustentáveis. Assim, este conjunto de contributos reforça a importância da escala local e do conhecimento enraizado como pilares fundamentais para pensar a sustentabilidade dos territórios e as relações entre humanos e natureza."
+   ],
+   "\n                    ",
+   [
+    "h2",
+    {
+     "id": "t-seccion-2"
+    },
+    [
+     "span",
+     {
+      "id": "t-tocto1n1"
+     },
+     "Financiamento"
+    ]
+   ],
+   "\n                    ",
+   [
+    "p",
+    {},
+    [
+     "span",
+     {},
+     "19"
+    ],
+    "Não se aplica a este texto. "
+   ],
+   "\n                    ",
+   [
+    "h2",
+    {
+     "id": "t-seccion-3"
+    },
+    [
+     "span",
+     {
+      "id": "t-tocto1n2"
+     },
+     "Conflito de interesses"
+    ]
+   ],
+   "\n                    ",
+   [
+    "p",
+    {},
+    [
+     "span",
+     {},
+     "20"
+    ],
+    "Os/a autores/a declaram não existir conflito de interesses"
+   ],
+   "\n                    ",
+   [
+    "h2",
+    {
+     "id": "t-seccion-4"
+    },
+    [
+     "span",
+     {
+      "id": "t-tocto1n3"
+     },
+     "Disponibilidade de dados"
+    ]
+   ],
+   "\n                    ",
+   [
+    "p",
+    {},
+    [
+     "span",
+     {},
+     "21"
+    ],
+    "A partilha de dados não se aplica a este texto."
+   ],
+   "\n                    ",
+   [
+    "h2",
+    {
+     "id": "t-seccion-5"
+    },
+    [
+     "span",
+     {
+      "id": "t-tocto1n4"
+     },
+     "Contribuição das autoras/autores"
+    ]
+   ],
+   "\n                    ",
+   [
+    "p",
+    {},
+    [
+     "span",
+     {},
+     "22"
+    ],
+    "A conceptualização do Dossier foi feita em conjunto pelos editores/a, após um painel com o mesmo tema. Joana Sá Couto: Redação do rascunho original do texto Editorial. Cristiano Pereira e Júlio Sá Rego: Revisão e edição do texto editorial."
+   ],
+   "\n                  ",
+   [
+    "span",
+    {},
+    "Topo da página"
+   ]
+  ],
+  [
+   "span",
+   {
+    "id": "t-bibliography"
+   },
+   "\n                  ",
+   [
+    "h3",
+    {
+     "id": "t-seccion-6"
+    },
+    [
+     "span",
+     {},
+     "Bibliografia"
+    ]
+   ],
+   "\n                  ",
+   "                                                            \n                    ",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "Antweiler, C. (1998). Local knowledge and local knowing. An anthropological analysis of contested “cultural products” in the context of development. "
+    ],
+    [
+     "em",
+     {},
+     [
+      "span",
+      {
+       "lang": "en"
+      },
+      "Anthropos"
+     ]
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     ","
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     " "
+    ],
+    [
+     "em",
+     {},
+     [
+      "span",
+      {
+       "lang": "en"
+      },
+      "93"
+     ]
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "(4/6),"
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     " 469-494."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "Appadurai, A. (1996). "
+    ],
+    [
+     "em",
+     {},
+     [
+      "span",
+      {
+       "lang": "en"
+      },
+      "Modernity at large: Cultural dimensions of globalization (Vol. 1)"
+     ]
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     ". University of Minnesota Press. ISBN: 0-8166-2792-4."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "Berkes, F. (2017). "
+    ],
+    [
+     "em",
+     {},
+     [
+      "span",
+      {
+       "lang": "en"
+      },
+      "Sacred ecology (original work published 1999)"
+     ]
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     ". London: Routledge."
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     " "
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "https://doi.org/10.4324/9780203123843"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "Boubekri, I., Mazurek, H., Djebar, A. B., & Amara, R. (2023). Harnessing Fishers’ local knowledge and their perceptions: Opportunities to improve management of coastal fishing in Mediterranean marine protected areas. "
+    ],
+    [
+     "em",
+     {},
+     [
+      "span",
+      {
+       "lang": "en"
+      },
+      "Journal of Environmental Management"
+     ]
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     ", 344, 118456."
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     " "
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "https://doi.org/10.1016/j.jenvman.2023.118456"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "Canagarajah, S. (2002). Reconstructing Local Knowledge, "
+    ],
+    [
+     "em",
+     {},
+     [
+      "span",
+      {
+       "lang": "en"
+      },
+      "Journal of Language, Identity, and Education, "
+     ]
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "1:4, 243-259, DOI: 10.1207/S15327701JLIE0104_1"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "Cooper, A. (2007). "
+    ],
+    [
+     "em",
+     {},
+     [
+      "span",
+      {
+       "lang": "en"
+      },
+      "Inventing the Indigenous: Local Knowledge and Natural History in Early Modern Europe."
+     ]
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     " "
+    ],
+    "Cambridge University Press. ISBN:  9780521124010"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Delicado, A., Schmidt, L., Guerreiro, S., & Gomes, C. (2012). Pescadores, conhecimento local e mudanças costeiras no litoral Português. ",
+    [
+     "em",
+     {},
+     "Revista de Gestão Costeira Integrada-Journal of Integrated Coastal Zone Management,"
+    ],
+    " 12(4), 437-451. ",
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "E-ISSN: 1646-8872"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "Eriksen, T. H. (1995). "
+    ],
+    [
+     "em",
+     {},
+     [
+      "span",
+      {
+       "lang": "en"
+      },
+      "Small Places, Large Issues: An Introduction to Social and Cultural Anthropology"
+     ]
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     ". London: Pluto Press."
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     " "
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "ISBN: 9780745348193"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "Eriksen, T. H. (2016). "
+    ],
+    [
+     "em",
+     {},
+     [
+      "span",
+      {
+       "lang": "en"
+      },
+      "Overheating: an anthropology of Accelerated Change"
+     ]
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     ". London: Pluto Press."
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     " "
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "ISBN: 9780745336343"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "Eriksen, T. H., & Schober, E. (2016). "
+    ],
+    [
+     "em",
+     {},
+     [
+      "span",
+      {
+       "lang": "en"
+      },
+      "Identity Destabilised. Living in an Overheated World."
+     ]
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     " London: Pluto Press."
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     " "
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "ISBN: 9780745399126"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "Foucault, M. (1972). "
+    ],
+    [
+     "em",
+     {},
+     [
+      "span",
+      {
+       "lang": "en"
+      },
+      "The discourse on language"
+     ]
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     ". In M. Foucault (Ed.), The archeology of knowledge (pp. 215–237). "
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "New York: Pantheon. https://doi.org/10.4324/9780203604168"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "Geertz, C. (1983). "
+    ],
+    [
+     "em",
+     {},
+     [
+      "span",
+      {
+       "lang": "en"
+      },
+      "Local Knowledge. Further Essays in Interpretative Anthropology"
+     ]
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     ". New York: Basic Books Ed. ISNB: 0-465-04158-2."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "Gelderloos, P. (2022). "
+    ],
+    [
+     "em",
+     {},
+     [
+      "span",
+      {
+       "lang": "en"
+      },
+      "The Solutions are Already Here: Tactics for ecological revolution from below"
+     ]
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     ". "
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "London: Pluto Press. ISBN: 9780745345116"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "Goody, J. (2006"
+    ],
+    [
+     "em",
+     {},
+     [
+      "span",
+      {
+       "lang": "en"
+      },
+      "). The Theft Of History"
+     ]
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     ". Cambridge University Press. https://doi.org/10.1017/CBO9780511819841"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "Hoeppe, G. (2007). "
+    ],
+    [
+     "em",
+     {},
+     [
+      "span",
+      {
+       "lang": "en"
+      },
+      "Conversations on the beach: fishermen's knowledge, metaphor and environmental change in South India."
+     ]
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     " Berghahn Books."
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     " "
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "ISBN 978-1-84545-015-1"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "Hoffman, S., Eriksen, T. & Mendes, P. (2022). "
+    ],
+    [
+     "em",
+     {},
+     [
+      "span",
+      {
+       "lang": "en"
+      },
+      "Cooling Down. Local Responses to Global Climate Change."
+     ]
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     " New York: Berghahn Books."
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     " "
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "ISBN 978-1-80073-189-9"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "Jentoft, S. (2017). Small-scale fisheries within maritime spatial planning: knowledge integration and power. "
+    ],
+    [
+     "em",
+     {},
+     [
+      "span",
+      {
+       "lang": "en"
+      },
+      "Journal of Environmental Policy & Planning,"
+     ]
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     " 19(3), 266-278. https://doi.org/10.1080/1523908X.2017.1304210"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "Johannes, R. E. (1993). Integrating traditional ecological knowledge and management with environmental impact assessment. Inglis, J (Editor). "
+    ],
+    [
+     "em",
+     {},
+     [
+      "span",
+      {
+       "lang": "en"
+      },
+      "Traditional ecological knowledge: concepts and cases"
+     ]
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     " (33-39). International Program on Traditional Ecological Knowledge and International Development Research Centre. ISNB: 1-895926-00-9. "
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "Johannes, R. E., Freeman, M. M., & Hamilton, R. J. (2000). Ignore fishers’ knowledge and miss the boat. "
+    ],
+    [
+     "em",
+     {},
+     [
+      "span",
+      {
+       "lang": "en"
+      },
+      "Fish and Fisheries"
+     ]
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     ", 1(3), 257-271 "
+    ],
+    [
+     "a",
+     {
+      "href": "https://doi.org/10.1111/j.1467-2979.2000.00019.x"
+     },
+     [
+      "span",
+      {
+       "lang": "en"
+      },
+      "https://doi.org/10.1111/j.1467-2979.2000.00019.x"
+     ]
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "Klenk, N., Fiume, A., Meehan, K., & Gibbes, C. (2017). Local knowledge in climate adaptation research: moving knowledge frameworks from extraction to co‑production. "
+    ],
+    [
+     "em",
+     {},
+     [
+      "span",
+      {
+       "lang": "en"
+      },
+      "Wiley Interdisciplinary Reviews: Climate Change"
+     ]
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     ", 8(5), e475. https://doi.org/10.1002/wcc.475"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "Mustonen, T., Scherer, A., Van Dam, B., Milkowski, S., & Huusari, N. (2023). Traditional knowledge in special fisheries: the case of Puruvesi vendace and seining. "
+    ],
+    [
+     "em",
+     {},
+     [
+      "span",
+      {
+       "lang": "en"
+      },
+      "Reviews in Fish Biology and Fisheries,"
+     ]
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     " 33(3), 649-667. https://doi.org/10.1007/s11160-022-09728-5"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "Pálsson, G. (1998b). Learning by fishing: practical engagement and environmental concerns. In F. Berkes and C. Folke (eds) "
+    ],
+    [
+     "em",
+     {},
+     [
+      "span",
+      {
+       "lang": "en"
+      },
+      "Linking Social and Ecological Systems: Management Practices and Social Mechanisms for Building Resilience"
+     ]
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     ". Cambridge University."
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     " "
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "ISBN: 9780521785624"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "Raymond-Yakoubian, J., Raymond-Yakoubian, B., & Moncrieff, C. (2017). The incorporation of traditional knowledge into Alaska federal fisheries management. "
+    ],
+    [
+     "em",
+     {},
+     [
+      "span",
+      {
+       "lang": "en"
+      },
+      "Marine Policy,"
+     ]
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     " 78, 132-142."
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     " "
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "https://doi.org/10.1016/j.marpol.2016.12.024"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "Renck, V., Ludwig, D., Bollettin, P., Reis-Filho, J. A., Poliseli, L., & El-Hani, C. N. (2023). Taking fishers’ knowledge and its implications to fisheries policy seriously. "
+    ],
+    [
+     "em",
+     {},
+     [
+      "span",
+      {
+       "lang": "en"
+      },
+      "Ecology and Society"
+     ]
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     ", 28(2). https://doi.org/10.5751/ES-14104-280207"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "Sá Couto, J. (2025). "
+    ],
+    [
+     "em",
+     {},
+     "Ecologias do trabalho da pesca: uma etnografia com pescadores de Setúbal e Sesimbra"
+    ],
+    " (Tese de Doutoramento, Instituto de Ciências Sociais da Universidade de Lisboa). http://hdl.handle.net/10400.5/116587"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Sá Rego, J. (2021). ",
+    [
+     "em",
+     {},
+     "De sol a sol\": dois estudos pastoris de prevenção de incêndios rurais"
+    ],
+    " [Tese de doutoramento, Iscte - Instituto Universitário de Lisboa]. Repositório do Iscte. ",
+    [
+     "a",
+     {
+      "href": "http://hdl.handle.net/10071/24159"
+     },
+     [
+      "span",
+      {},
+      "http://hdl.handle.net/10071/24159"
+     ]
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Santos, R.; Casal-Ribeiro, M.; Peixoto, U.I.; Medeiros-Leal,W.; Nova-Pabon, A. & Pinho, M. (2022), Fishers’ Experiential Knowledge about Biological Traits of Commercial Marine Species in the Azores. ",
+    [
+     "em",
+     {},
+     [
+      "span",
+      {
+       "lang": "en"
+      },
+      "Biol. Life Sci. "
+     ]
+    ],
+    [
+     "em",
+     {},
+     "Forum"
+    ],
+    " 2022, 13, 15. https:// doi.org/10.3390/blsf2022013015"
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "Schafer, A. G., & Reis, E. G. (2008). "
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "Artisanal fishing areas and traditional ecological knowledge: The case study of the artisanal fisheries of the Patos Lagoon estuary (Brazil). "
+    ],
+    [
+     "em",
+     {},
+     [
+      "span",
+      {
+       "lang": "en"
+      },
+      "Marine policy"
+     ]
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     ", 32(3), 283-292. https://doi.org/10.1016/j.marpol.2007.06.001"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "Sillitoe, P. (1998). What, know natives? Local knowledge in development. "
+    ],
+    [
+     "em",
+     {},
+     [
+      "span",
+      {
+       "lang": "en"
+      },
+      "Social Anthropology/Anthropologie sociale"
+     ]
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     ", 6(2), 203-220."
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     " "
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "https://doi.org/10.1111/j.1469-8676.1998.tb00356.x"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Silvano, R. A. M., & Begossi, A. (2010). ",
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "What can be learned from fishers? An integrated survey of fishers’ local ecological knowledge and bluefish (Pomatomus saltatrix) biology on the Brazilian coast. "
+    ],
+    [
+     "em",
+     {},
+     [
+      "span",
+      {
+       "lang": "en"
+      },
+      "Hydrobiologia"
+     ]
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     ", 637, 3-18."
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     " "
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "DOI: 10.1007/s10750-009-9979-2"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "Thompson, J., & Scoones, I. (1994). Challenging the populist perspective: Rural people's knowledge, agricultural research, and extension practice. "
+    ],
+    [
+     "em",
+     {},
+     [
+      "span",
+      {
+       "lang": "en"
+      },
+      "Agriculture and human values"
+     ]
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     ", 11, 58-76."
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     " "
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "DOI: 10.1007/BF01530446"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "Thornton, T. F., & Scheer, A. M. (2012). Collaborative engagement of local and traditional knowledge and science in marine environments: a review. "
+    ],
+    [
+     "em",
+     {},
+     [
+      "span",
+      {
+       "lang": "en"
+      },
+      "Ecology and Society,"
+     ]
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     " 17(3)."
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     " "
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "http://dx.doi.org/10.5751/ES-04714-170308"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "Truchet, D. M., Noceti, M. B., Villagrán, D. M., Orazi, M. M., Medrano, M. C., & Buzzi, N. S. (2019). "
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "Fishers' ecological knowledge about marine pollution: what can FEK contribute to ecological and conservation studies of a southwestern Atlantic estuary?. "
+    ],
+    [
+     "em",
+     {},
+     [
+      "span",
+      {
+       "lang": "en"
+      },
+      "Journal of Ethnobiology"
+     ]
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     ", 39(4), 584-606."
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     " "
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "DOI: 10.2993/0278-0771-39.4.584"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "Vandebroek, I., Reyes-García, V., de Albuquerque, U. P., Bussmann, R., & Pieroni, A. (2011). "
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "Local knowledge: Who cares?. "
+    ],
+    [
+     "em",
+     {},
+     [
+      "span",
+      {
+       "lang": "en"
+      },
+      "Journal of ethnobiology and ethnomedicine, "
+     ]
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "7, 1-7. DOI: 10.1186/1746-4269-7-35"
+    ]
+   ],
+   "\n                                                ",
+   [
+    "span",
+    {},
+    "Topo da página"
+   ]
+  ]
+ ]
+};

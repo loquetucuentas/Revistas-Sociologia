@@ -81,7 +81,8 @@
      "url": "https://doi.org/10.15446/bitacora.v36n2.129000",
      "doi": "10.15446/bitacora.v36n2.129000",
      "paginas": "7-16",
-     "fuente": "Crossref"
+     "fuente": "Crossref",
+     "texto_completo": "textos/10-15446-bitacora-v36n2-129000.json"
     },
     {
      "id": "10.15446/bitacora.v36n2.124022",
@@ -102,7 +103,8 @@
      "url": "https://doi.org/10.15446/bitacora.v36n2.124022",
      "doi": "10.15446/bitacora.v36n2.124022",
      "paginas": "17-33",
-     "fuente": "Crossref"
+     "fuente": "Crossref",
+     "texto_completo": "textos/10-15446-bitacora-v36n2-124022.json"
     },
     {
      "id": "10.15446/bitacora.v36n2.123759",
@@ -131,7 +133,8 @@
      "url": "https://doi.org/10.15446/bitacora.v36n2.123759",
      "doi": "10.15446/bitacora.v36n2.123759",
      "paginas": "34-46",
-     "fuente": "Crossref"
+     "fuente": "Crossref",
+     "texto_completo": "textos/10-15446-bitacora-v36n2-123759.json"
     },
     {
      "id": "10.15446/bitacora.v36n2.123801",

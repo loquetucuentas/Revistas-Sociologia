@@ -205,7 +205,7 @@ Generada el 18 de octubre de 2026 con herramientas/empaquetar.py para revisar la
 
 ## 6. Vista de lectura del texto completo
 
-Estado a 18 de octubre de 2026: la vista de lectura está construida y probada con un artículo ficticio de pruebas/datos. Los textos reales todavía no se han recogido, porque la red del entorno no permite aún los dominios de las revistas (ver data/textos/dominios.json).
+Estado a 18 de octubre de 2026: la vista de lectura está probada con un artículo ficticio de pruebas/datos y con los 133 textos reales recogidos (118 de galeradas HTML y 15 de XML JATS), de 9 revistas. El detalle de incluidos y excluidos está en data/informe-texto-completo.md.
 
 ### 6.1. Comprobado de forma automática (pruebas/lectura.spec.js)
 
@@ -225,7 +225,14 @@ Estado a 18 de octubre de 2026: la vista de lectura está construida y probada c
 
 Resultado de axe en GitHub Actions (flujo Pruebas, ejecución 39117520310, commit 32f9cb8): pasan las 170 pruebas, con 0 errores de axe en todas las vistas, incluida la de lectura. La ejecución anterior encontró dos problemas que se corrigieron: las notas se pintaban como regiones complementarias (aside) dentro de otra región, y a 320 píxeles con el texto al 200 por ciento la indicación «Lectura completa disponible» y la última miga provocaban scroll horizontal con la fuente DejaVu Sans. Ahora hay una prueba de reflujo con esa fuente.
 
-### 6.2. Pendiente de revisión manual con VoiceOver
+### 6.2. Comprobado con los textos reales
+
+1. Cada uno de los 133 textos se abre en las pruebas: un único h1 con el título, la licencia en la atribución, el atributo lang del texto según su idioma (111 en español, 14 en inglés, 7 en portugués y 1 en francés), ninguna imagen, script ni marco, y sin scroll horizontal a 320 píxeles.
+2. El recolector comprobó que el texto convertido es idéntico al original en todos ellos; 23 artículos se excluyeron por no superar esa comprobación o por contener fórmulas u otros elementos que no se pueden reproducir con fidelidad.
+3. Los textos tienen 665 figuras, de las que 480 no traen descripción de la revista: todas muestran el aviso visible y el enlace al original.
+4. 76 textos no tienen encabezados en el original (son documentos de procesador de texto exportados con párrafos en negrita), así que no tienen tabla de contenidos. No se han inventado encabezados para no modificar el texto.
+
+### 6.3. Pendiente de revisión manual con VoiceOver
 
 1. Recorrer con el rotor los encabezados de un artículo largo y comprobar que la jerarquía se entiende.
 2. Activar una llamada a nota, escuchar la nota y volver con «Volver al texto» en Mac y en iPhone; confirmar que VoiceOver sigue el foco.
@@ -233,4 +240,6 @@ Resultado de axe en GitHub Actions (flujo Pruebas, ejecución 39117520310, commi
 4. Comprobar que el aviso de figura sin descripción se entiende sin ver la pantalla.
 5. Recorrer una tabla ancha con los gestos de tabla de VoiceOver.
 6. Volver con el botón atrás desde la lectura en iPhone y confirmar que el foco queda en el enlace del artículo leído.
-7. Revisar con los textos reales que el cambio de voz en párrafos en otro idioma es correcto.
+7. Revisar con los textos reales que el cambio de voz en párrafos en otro idioma es correcto, sobre todo en los 14 textos en inglés y los 7 en portugués.
+8. Recorrer alguno de los 76 textos sin encabezados para valorar si se puede leer cómodamente sin tabla de contenidos.
+9. Escuchar varias figuras sin descripción para comprobar que el aviso no resulta repetitivo en los textos con muchas figuras.

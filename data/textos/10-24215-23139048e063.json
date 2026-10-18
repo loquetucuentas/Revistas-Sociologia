@@ -1,0 +1,2565 @@
+{
+ "version": 1,
+ "recogido": "2026-10-18T11:50:39+00:00",
+ "doi": "10.24215/23139048e063",
+ "titulo": "De la casa al trabajo",
+ "revista": "2313-9048",
+ "numero": "v16-n16-2022",
+ "licencia": {
+  "codigo": "by-nc-sa",
+  "nombre": "CC BY-NC-SA 4.0",
+  "nombre_completo": "Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional",
+  "url": "https://creativecommons.org/licenses/by-nc-sa/4.0",
+  "url_legal": "https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.es"
+ },
+ "fuente": {
+  "url": "https://perio.unlp.edu.ar/ojs/index.php/cps/article/download/7609/6716/32090?inline=1",
+  "formato": "HTML",
+  "plataforma": "ojs-galerada",
+  "pagina": "https://perio.unlp.edu.ar/ojs/index.php/cps/article/view/7609"
+ },
+ "autores_cita": [
+  {
+   "apellidos": "Campusano",
+   "nombre_pila": "Marina",
+   "nombre": null
+  },
+  {
+   "apellidos": "Castelo",
+   "nombre_pila": "Nahuel",
+   "nombre": null
+  },
+  {
+   "apellidos": "Gutniski",
+   "nombre_pila": "Lara",
+   "nombre": null
+  }
+ ],
+ "avisos_derechos": [
+  "Derechos de autor 2022 Cuadernos de H ideas",
+  "Licencia Derechos de autor 2022 Cuadernos de H ideas Esta obra está bajo una licencia internacional Creative Commons Atribución-NoComercial-CompartirIgual 4.0. La aceptación de un original por parte de la revista implica la cesión no exclusiva de los derechos patrimoniales de los/as autores/as en favor del editor, quien permite la reutilización, luego de su edición (postprint), bajo una Licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0) Acorde a estos términos, el material se puede compartir (copiar y redistribuir en cualquier medio o formato) y adaptar (remezclar, transformar y crear a partir del material otra obra), siempre que a) se cite la autoría y la fuente original de su publicación (revista y URL de la obra), b) no se use para fines comerciales y c) se mantengan los mismos términos de la licencia. La cesión de derechos no exclusivos implica que luego de su edición (postprint) en Cuadernos de H ideas las/os autoras/es pueden publicar su trabajo en cualquier idioma, medio y formato; en tales casos, se solicita que se consigne que el material fue publicado originalmente en esta revista. Tal cesión supone, también, la autorización de los/as autores/as para que el trabajo sea cosechado por SEDICI, el repositorio institucional de la Universidad Nacional de La Plata, y sea difundido en las bases de datos que el equipo editorial considere adecuadas para incrementar la visibilidad de la publicación y de sus autores/as. Asimismo, la revista incentiva a las/os autoras/es para que luego de su publicación en Cuadernos de H ideas depositen sus producciones en otros repositorios institucionales y temáticos, bajo el principio de que ofrecer a la sociedad la producción científica y académica sin restricciones contribuye a un mayor intercambio del conocimiento global."
+ ],
+ "idioma_principal": "es",
+ "indice": [],
+ "vueltas": {},
+ "contenido": [
+  [
+   "span",
+   {
+    "id": "t-MathJax_Message"
+   }
+  ],
+  "\n",
+  [
+   "span",
+   {
+    "id": "t-visor-cabecera"
+   },
+   "\n",
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-logo-institucion"
+    },
+    "\n",
+    [
+     "figura",
+     {}
+    ]
+   ],
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-logo-revista"
+    },
+    "\n",
+    [
+     "figura",
+     {}
+    ]
+   ],
+   "\n",
+   "\n"
+  ],
+  "\n",
+  [
+   "span",
+   {
+    "id": "t-articulo"
+   },
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-front"
+    },
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-articulo-categoria"
+     },
+     "\n",
+     [
+      "p",
+      {},
+      "Dossier"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-articulo-meta"
+     },
+     "\n",
+     [
+      "p",
+      {},
+      "De la casa al trabajo. Imágenes de la cotidianeidad de las enfermeras y enfermeros en Chaco y Corrientes durante la pandemia de covid-19 (2020- 2021)"
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "lang": "en"
+      },
+      "From Home to Job. Everyday Images\nfrom Nurses in Chaco and Corrientes during the Covid-19 Pandemic (2020-2021) \n\n "
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-articulo-acerca"
+     },
+     "\n",
+     [
+      "span",
+      {
+       "id": "t-ficha-general"
+      },
+      "\n",
+      [
+       "span",
+       {
+        "id": "t-autores-articulo"
+       },
+       "\n",
+       "\n",
+       "\n",
+       [
+        "a",
+        {
+         "href": "https://orcid.org/0000-0002-5857-9858"
+        },
+        [
+         "figura",
+         {}
+        ]
+       ],
+       "  ",
+       [
+        "span",
+        {},
+        "Marina"
+       ],
+       " ",
+       [
+        "span",
+        {},
+        "Campusano"
+       ],
+       " ",
+       [
+        "span",
+        {}
+       ],
+       [
+        "span",
+        {},
+        " marinacampusa@gmail.com"
+       ],
+       "\n",
+       "\n",
+       "\n",
+       [
+        "span",
+        {},
+        "Instituto de Investigaciones Geohistóricas.\nCONICET. Universidad Nacional del Nordeste"
+       ],
+       ", ",
+       [
+        "span",
+        {},
+        "Argentina"
+       ],
+       "\n",
+       "\n",
+       "\n",
+       "\n",
+       "\n",
+       [
+        "a",
+        {
+         "href": "https://orcid.org/0000-0001-7903-6142"
+        },
+        [
+         "figura",
+         {}
+        ]
+       ],
+       "  ",
+       [
+        "span",
+        {},
+        "Nahuel"
+       ],
+       " ",
+       [
+        "span",
+        {},
+        "Castelo"
+       ],
+       " ",
+       [
+        "span",
+        {}
+       ],
+       [
+        "span",
+        {},
+        " leandronahuelcastelo@gmail.com"
+       ],
+       "\n",
+       "\n",
+       "\n",
+       [
+        "span",
+        {},
+        "Instituto de Investigaciones Geohistóricas.\nCONICET.\n\nUniversidad Nacional del Nordeste"
+       ],
+       ", ",
+       [
+        "span",
+        {},
+        "Argentina"
+       ],
+       "\n",
+       "\n",
+       "\n",
+       "\n",
+       "\n",
+       [
+        "a",
+        {
+         "href": "https://orcid.org/0000-0003-3645-9780"
+        },
+        [
+         "figura",
+         {}
+        ]
+       ],
+       "  ",
+       [
+        "span",
+        {},
+        "Lara"
+       ],
+       " ",
+       [
+        "span",
+        {},
+        "Gutniski"
+       ],
+       " ",
+       [
+        "span",
+        {}
+       ],
+       [
+        "span",
+        {},
+        " lara.gutniski@gmail.com"
+       ],
+       "\n",
+       "\n",
+       "\n",
+       [
+        "span",
+        {},
+        "Instituto de Investigaciones Geohistóricas.\nCONICET.\n\nUniversidad Nacional del Nordeste"
+       ],
+       ", ",
+       [
+        "span",
+        {},
+        "Argentina"
+       ],
+       "\n",
+       "\n",
+       "\n"
+      ],
+      "\n",
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "Cuadernos de H ideas"
+       ],
+       "\n"
+      ],
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "Universidad Nacional de La Plata, Argentina"
+       ],
+       "\n"
+      ],
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "ISSN: "
+       ],
+       "2313-9048"
+      ],
+      "\n",
+      [
+       "p",
+       {}
+      ],
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "Periodicidad: "
+       ],
+       "Frecuencia continua"
+      ],
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "vol.  16, "
+       ],
+       "núm.  16, ",
+       [
+        "span",
+        {
+         "id": "t-elocation-id"
+        },
+        "e063, "
+       ],
+       [
+        "span",
+        {},
+        "2022"
+       ],
+       "\n"
+      ],
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       "cuadernosdehideas@perio.unlp.edu.ar",
+       "\n"
+      ],
+      "\n",
+      "\n",
+      [
+       "span",
+       {
+        "id": "t-articulo-product"
+       }
+      ],
+      "\n",
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "Recepción: "
+       ],
+       " 26 Febrero  2022"
+      ],
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "Aprobación: "
+       ],
+       " 15 Mayo  2022"
+      ],
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "Publicación: "
+       ],
+       " 07 Julio  2022"
+      ],
+      "\n",
+      [
+       "br",
+       {}
+      ],
+      "\n",
+      [
+       "br",
+       {}
+      ],
+      "\n",
+      "\n",
+      "\n",
+      [
+       "span",
+       {},
+       "URL: "
+      ],
+      [
+       "a",
+       {
+        "href": "http://portal.amelica.org/ameli/journal/31/313286006/"
+       },
+       "http://portal.amelica.org/ameli/journal/31/313286006/"
+      ],
+      "\n",
+      "\n",
+      "\n",
+      [
+       "span",
+       {},
+       "DOI: "
+      ],
+      [
+       "a",
+       {
+        "href": "https://doi.org/10.24215/23139048e063"
+       },
+       "https://doi.org/10.24215/23139048e063"
+      ],
+      "\n",
+      "\n",
+      "\n",
+      [
+       "p",
+       {}
+      ],
+      "\n",
+      "\n",
+      "\n",
+      "\n",
+      [
+       "a",
+       {
+        "href": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+       },
+       [
+        "figura",
+        {}
+       ],
+       [
+        "br",
+        {}
+       ],
+       "\n"
+      ],
+      "Esta obra está bajo una ",
+      [
+       "a",
+       {
+        "href": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+       },
+       "Licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional."
+      ],
+      "\n",
+      "\n",
+      "\n",
+      [
+       "p",
+       {}
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "\n",
+      [
+       "span",
+       {},
+       "Resumen:\n\t\t\t\t\t\t\t                           "
+      ],
+      [
+       "span",
+       {},
+       "Las y los trabajadores de enfermería son actores claves en la contingencia por el virus de covid-19. No obstante, el sistema de salud que integran presenta rasgos heterogéneos y segmentados que anteceden a la crisis sanitaria y que favorecieron la flexibilización y la precarización laboral, con la pandemia, estas desigualdades se profundizaron. En este artículo, siguiendo un diseño cualitativo y cuantitativo analizamos las condiciones en que las y los enfermeros de Chaco y Corrientes atravesaron el primer año pandémico, atendiendo a los aspectos que hicieron a su cotidianeidad."
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "\n",
+      [
+       "span",
+       {},
+       "Palabras clave: "
+      ],
+      "enfermería, cotidianeidad, condiciones laborales, pandemia.\n\t\t                         "
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "lang": "en"
+      },
+      "\n",
+      [
+       "span",
+       {},
+       "Abstract:\n\t\t\t\t\t\t                           "
+      ],
+      [
+       "span",
+       {},
+       "Nurses were key actors during the Covid-19 crisis. The health system that they were part of can be characterized as an heterogenous and segmented since before the health crisis which favored the development of the flexibilization and the precariousness of the working conditions. With the begging of the pandemic these traits and the inequality went even further the conditions. In this article we applied cuantatives and cualitatives strategies in order to analyze the conditions in which the nurses of Chaco and Corrientes went through the first year of the pandemic with special attention to the different aspects that change their everyday life."
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "\n",
+      [
+       "span",
+       {},
+       "Keywords: "
+      ],
+      "nursing, everyday life, labor conditions, pandemic.\n                                "
+     ],
+     "\n"
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-articulo-body"
+    },
+    "\n",
+    [
+     "p",
+     {},
+     "Introducción"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " La pandemia de covid-19 en la Argentina tuvo un desarrollo diferenciado a lo largo de todo el territorio, que obedeció en parte, a la circulación del virus más o menos anticipada en determinadas ciudades. Las medidas para gestionar la emergencia sanitaria se efectuaron a través de disposiciones del Poder Ejecutivo Nacional elaboradas bajo el asesoramiento de un Comité de Crisis integrado por agentes del Ministerio de Salud de la Nación y asesores especializados. No obstante, estas decisiones debieron ser acordadas con las distintas provincias que, amparadas en el principio de autonomía, y dadas las características del sistema de salud descentralizado, fueron adhiriendo a las directivas nacionales y/o generando normativas propias adaptadas a cada contexto. En este marco, cada una de estas disposiciones afectó directamente la labor y la rutina del personal de salud en general y de enfermería en particular, acentuando aspectos del trabajo de cuidado profesional que precedieron a la pandemia –como las demandas por la precarización laboral– a la vez que se generaron nuevas realidades.  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " En este artículo nos ocuparemos de analizar el impacto que tuvo la pandemia de covid-19 en las y los trabajadores de enfermería de las provincias de Chaco y Corrientes, colocando el énfasis en sus respectivas capitales (Resistencia y Corrientes). El objetivo es analizar las condiciones en las que desempeñaron su trabajo durante el primer año de la pandemia (2020-2021) y el modo en que ésta repercutió en la dimensión cotidiana. Exploraremos los cambios que operaron en los entornos laborales y en las relaciones interpersonales, a la vez que revisaremos algunos factores de tensión y sus percepciones sobre el impacto en la salud emocional.  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " A fin de abordar tales problemáticas este artículo se basa en una estrategia metodológica cualitativa y cuantitativa, cuya principal fuente de información son las entrevistas semi estructuradas realizadas a enfermeras y enfermeros de instituciones privadas y públicas del Gran Resistencia",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286006/html/index.html#fn1"
+      },
+      [
+       "sup",
+       {},
+       "1"
+      ]
+     ],
+     " y la ciudad de Corrientes. Se trata de un total de 15 entrevistas llevadas adelante entre los meses de abril y julio de 2021 en el marco de la “segunda ola” de contagios, coincidente con el momento de su realización.  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " En cuanto al perfil de las y los entrevistados que componen la muestra, estos poseen entre 27 y 59 años de edad, con un promedio de 39 años. El 53% son mujeres y el 47% restante varones, de los cuales una mitad trabaja en Resistencia y la otra en Corrientes. Más del 90% presta servicios en hospitales de gestión provincial, como el Hospital Perrando de Resistencia o el Hospital de Campaña y el Hospital Vidal de Corrientes. Un número menor realiza labores en centros de salud privados, de gestión municipal o en el marco de programas específicos –como el Programa Detectar–. Los niveles de formación, las tareas y los tipos de contratación son variados: en cuanto a lo primero, se encuentran licenciadas y licenciados, técnicas y técnicos superiores y auxiliares en enfermería, así como una técnica en emergencias médicas y enfermeras y enfermeros profesionales. Los tipos de contratación oscilan entre la planta permanente, los contratos de servicio o los realizados mediante convenios de los estados provinciales con asociaciones profesionales –que en ambos casos conlleva la inscripción como monotributistas–, las becas de programas especiales y el trabajo informal.  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Los testimonios forman parte de un corpus más amplio compuesto por 274 entrevistas que se hicieron a nivel nacional dentro del marco del Proyecto PISAC COVID-19 0022: “La enfermería y el cuidado sanitario profesional durante la pandemia y la postpandemia del COVID 19 (Argentina, siglo XX y XXI)”, en el que participaron investigadores e investigadoras de 16 nodos de universidades nacionales y centros de investigación en diferentes regiones del país.  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Además, recuperamos los datos recolectados mediante una encuesta sobre condiciones laborales en enfermería que se realizó durante los meses de mayo y junio de 2021. Se trata de una encuesta autoadministrada, de carácter nacional, anónimo y confidencial. Se obtuvo una muestra no probabilística de 1.483 casos, de enfermeros y enfermeras de todas las provincias del país. La base de datos contiene información sobre multiplicidad de indicadores, sobre los que se indagó a partir de 104 preguntas que se distribuyeron en núcleos temáticos: datos sociodemográficos, características de la inserción laboral, procesos, tiempos y organización del trabajo, condiciones de higiene y seguridad y medio ambiente laboral, aspectos psicosociales y emocionales vinculados al trabajo durante la pandemia. Los datos obtenidos mediante la encuesta fueron sistematizados y analizados utilizando el Software estadístico SPSS. Para este artículo se utilizaron las respuestas de la encuesta vinculadas a las provincias de Chaco y Corrientes. Asimismo, se recuperan artículos de prensa de medios digitales de ambas provincias y de organismos oficiales. "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "  El trabajo se encuentra organizado en tres apartados, en el primero nos detenemos en las medidas internas y externas que influyeron en la conformación de nuevas rutinas para el personal de enfermería. En el segundo avanzamos sobre las formas de organizar el trabajo deteniéndonos en las características de las condiciones laborales y los principales factores de precarización laboral. Finalmente, analizamos sus sensaciones en torno al agotamiento, los miedos y estigmas que aparecieron alrededor de las y los trabajadores de salud y las estrategias que delinearon para poder hacerle frente."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n",
+     [
+      "span",
+      {},
+      "Etapa\ninicial: entre la preparación y la incertidumbre"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Las ciudades de Resistencia y Corrientes, si bien están delimitadas por el río Paraná, conforman una gran área metropolitana –conectada por el puente Gral. Manuel Belgrano– con una enorme continuidad funcional, económica, social y cultural. Se trata de un ámbito políticamente fragmentado dado que ambas provincias asumen administraciones y recursos diferentes, por un lado, Chaco está gobernada de manera ininterrumpida por el Partido Justicialista (PJ) desde 2007.",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286006/html/index.html#fn2"
+      },
+      [
+       "sup",
+       {},
+       "2"
+      ]
+     ],
+     " Mientras que, del otro lado de la orilla, Corrientes está liderada por la coalición ECO-Cambiemos cuya fuerza política de mayor peso es la Unión Cívica Radical (UCR). Cabe destacar que esta coalición de gobierno si bien fue adoptando distintas denominaciones y fue variando en sus alianzas, gobierna la provincia desde 2001. A su vez, a nivel municipal, al ser ambas ciudades capitales, presentan una atomización de autoridades estatales de diversos niveles de gobierno, situación que representa una importante dificultad a la hora de lograr una gobernabilidad coherente y con la coordinación que una zona tan vinculada demanda (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286006/html/index.html#redalyc_313286006_ref10"
+      },
+      "Scornik y otros, 2012"
+     ],
+     "). "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " En ese contexto, las gestiones de la pandemia en cada provincia tuvieron sus diferencias. El rápido advenimiento del virus en Chaco motivó que allí las decisiones sean de las más anticipadas del territorio nacional. El 17 de marzo de 2020 fue la segunda provincia en anunciar el aislamiento social y obligatorio incluyendo el cierre de fronteras y la declaración de etapa de ",
+     [
+      "span",
+      {},
+      "mitigación"
+     ],
+     " a causa de un posible estado de circulación viral (Decreto provincial 432/2020), adelantándose así a la medida nacional de Aislamiento Social, Preventivo y Obligatorio (ASPO) que se efectivizó por decreto de necesidad y urgencia (297/2020) en todo el país a partir del 20 de marzo de 2020, al cual Corrientes adhirió como el resto de los distritos.  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " De esta forma cada provincia fue tomando decisiones que significaron, en una primera instancia, el fortalecimiento y mejoramiento del sistema de salud, ya sea en cuanto a infraestructura y equipamiento de los hospitales o en insumos y preparación del personal de salud. Es así que ambas centralizaron la atención de pacientes con covid-19 en una sola institución. En el caso de la provincia de Corrientes, en un principio, quienes transitaban la enfermedad y necesitaban atención de salud eran derivados al Hospital Ángela Llano y Vidal, sin embargo, con el paulatino aumento de los casos, el Comité de Crisis local estableció la necesidad de contar con un hospital de campaña que centralizara los casos de la provincia en la ciudad capital (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286006/html/index.html#redalyc_313286006_ref6"
+      },
+      "Gómez y Almirón, 2021"
+     ],
+     "). Es así que decidieron la refuncionalización de una parte del Hogar Escuela.",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286006/html/index.html#fn3"
+      },
+      [
+       "sup",
+       {},
+       "3"
+      ]
+     ],
+     " Las obras del Hospital de Campaña iniciaron en el mes de marzo y culminaron con su inauguración en mayo del 2020 (",
+     [
+      "span",
+      {}
+     ],
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286006/html/index.html#redalyc_313286006_ref17"
+      },
+      [
+       "span",
+       {},
+       "El Litoral"
+      ],
+      ", 5 de mayo de 2020"
+     ],
+     "). A este centro se derivaron todos los pacientes moderados y graves de la provincia. "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " En Resistencia, por su parte, se creó el Hospital Modular construido en el Hospital Julio Perrando, principal nosocomio de alta complejidad de la provincia. Asimismo, el sistema sanitario chaqueño dividió paulatinamente sus áreas de atención compleja en las ciudades de Resistencia, Sáenz Peña y Castelli, con centros de atención covid-19 de complejidad media y leve en las ciudades cabeceras de departamentos (",
+     [
+      "span",
+      {}
+     ],
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286006/html/index.html#redalyc_313286006_ref12"
+      },
+      [
+       "span",
+       {},
+       "El Litoral"
+      ],
+      ", 27 de junio de 2020"
+     ],
+     "). Estas medidas significaron la reorientación presupuestaria al sector de salud (a fin de incorporar mayor personal y recursos) y dotación de recursos técnicos para el manejo de información, con el fin de controlar las restricciones impuestas. A su vez, se conformaron Comités de Crisis que fueron asesorando y definiendo los protocolos de atención y funcionamiento de las instituciones de salud pública abocadas a la atención de los pacientes y se promovieron capacitaciones articuladas entre distintas instituciones (las áreas de formación de los Ministerios de Salud con las escuelas de salud pública) sobre los avances en el conocimiento del virus y su manejo, las herramientas de bioseguridad y los procedimientos de atención a los pacientes.  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " De esta manera, el personal de enfermería de ambas provincias organizó deprisa su trabajo en función de protocolos que se fijaron de manera jerárquica. Se resolvieron recuperando los parámetros delineados a nivel nacional y cada institución los discutía con los Comité de Crisis creados ad hoc y los jefes de cada sector. Los mismos indicaban los requerimientos de bioseguridad del personal (qué materiales usar y sus formas de utilización), las etapas y formas de ingreso de los pacientes de acuerdo con el sistema ",
+     [
+      "span",
+      {},
+      "triage"
+     ],
+     ",",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286006/html/index.html#fn4"
+      },
+      [
+       "sup",
+       {},
+       "4"
+      ]
+     ],
+     " los momentos de testeo y las maneras de proceder ante casos positivos del virus.  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " En la definición de los mismos, siguiendo las entrevistas, las y los enfermeros parecen haber tenido escasa injerencia, “se bajó desde arriba”, situación común en otros puntos del país (Freidin, Wilner, Krause & Ballesteros, ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286006/html/index.html#redalyc_313286006_ref4"
+      },
+      "2021"
+     ],
+     "). Sin embargo, su participación fue importante en la puesta en práctica ya que fueron quienes los iban adaptando a las características de las instituciones, los recursos, la cantidad de pacientes y el personal con el que contaban. Es de destacar que las y los enfermeros señalan que en tales momentos fue muy valioso el trabajo en equipo que permitió adecuar dichos protocolos a las dinámicas internas y, principalmente, recuperar la experiencia de las y los enfermeros que estaban más expuestos. Sabrina, una enfermera de un hospital público de Resistencia, comentó al respecto:"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "p",
+     {},
+     " […] nosotros somos los que estamos en la primera línea. Los jefes están arriba y no tienen contacto directo con el paciente. Por ahí ellos nos quieren decir cómo trabajar y somos nosotros los que estamos todos los días, ocho horas con el paciente. "
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Durante esta etapa, al estar concentrado todo lo referido a covid-19 en los hospitales públicos (Campaña y Modular), es difícil reconstruir cómo se organizó el sector privado. En los testimonios recabados, las y los enfermeros expresaron que no contaron con capacitaciones previas y, en cuanto a la discusión de protocolos, se trataron de disposiciones que se delimitaron en base a las establecidas a nivel nacional y se aplicaron jerárquicamente desde las direcciones sin mucho margen de cambio. "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " A su vez, los protocolos iban cambiando conforme con los avances de las investigaciones a nivel nacional e internacional, al igual que la incorporación de nuevas tecnologías en la parte administrativa y en el seguimiento de los pacientes. Este proceso de adaptación y aprendizaje constante fue atravesado por las y los trabajadores de manera angustiante al estar viviendo una situación que nunca hubieran imaginado (",
+     [
+      "span",
+      {}
+     ],
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286006/html/index.html#redalyc_313286006_ref18"
+      },
+      [
+       "span",
+       {},
+       "El Litoral"
+      ],
+      ", 2 de mayo de 2020"
+     ],
+     "). Es importante mencionar que el Hospital de Campaña de Corrientes fue una institución nueva que se creó ante la emergencia, por lo tanto, no contaba con personal propio y su ",
+     [
+      "span",
+      {},
+      "staff "
+     ],
+     "fue conformado afectando a profesionales de planta permanente de otros hospitales públicos y centros de salud provinciales. María, una las enfermeras que fue trasladada desde su lugar de trabajo al Campaña durante 2020, resalta:"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "p",
+     {},
+     " […] fue una super experiencia, todos los días era algo nuevo. Aprendimos a manejar los aparatos y la parte de informática, porque es todo computarizado: los registros, los informes, las indicaciones médicas, la parte de farmacia. También aprender a convivir con gente que no es de tu entorno o de tu hospital, porque a medida que fueron aumentando los pacientes aumentó el personal. Yo comencé cuando había cuatro pacientes el 1 de agosto y terminé el 1 de diciembre con noventa."
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Por su parte, Sabrina, da cuenta del momento de incertidumbre y la presión que tuvieron que atravesar:"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "p",
+     {},
+     "Sí, primero fue difícil porque no estábamos acostumbrados a trabajar de esta forma. Semana a semana iban cambiando los protocolos. Una semana nos mandaban a leer algo. Lo leíamos y a la siguiente nos decían: “No, a eso hay que agregarle esto y sacarle esto”. Después, con los días, uno va adquiriendo práctica y es más llevadero, no sé si más fácil, pero uno lo va implementando. Lo que resalto es que nunca nos imaginamos, ni estudiando ni trabajando, que íbamos a estar en un contexto así. Una pandemia que arrasó. Cuando estudiamos las pandemias lo veíamos a años luz, como algo que nunca iba a llegar, hasta que llegó y de golpe estaban todos muy encima nuestro."
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "En este momento, las restricciones que se fijaron a nivel nacional y que a escala local implementaron el ASPO, si bien fueron efectivas para regular y reducir la circulación de las personas, al personal de salud le significó un gran problema para poder llegar de su hogar al trabajo y viceversa. La organización de los turnos y jornadas de trabajo chocaban en algunos casos con los horarios de circulación de los colectivos, que estuvieron reducidos. Estos obstáculos perjudicaron principalmente a quienes vivían más alejados. Frente a tales situaciones, las y los enfermeros cuentan que tuvieron que organizarse. Roberto, enfermero que trabaja en un hospital público de Corrientes, comentó: “Nos pusimos de acuerdo con una compañera y nos manejamos en remis”, lo que permitía compartir el gasto. Otra de las formas fue pedir a familiares que puedan ir a buscarlos y así abaratar los costos, como describe Sabrina:"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "p",
+     {},
+     "[…] mi hermano me iba a buscar, pero se necesitaban muchos permisos. Si bien el hospital nos dio una constancia, la situación no dio para más porque nos paraban en todos lados. Es así que con mi pareja hicimos un esfuerzo y compramos una moto para poder manejarnos. Si no era llegar tarde, no tener en qué volver a casa, tener que cambiar guardias y demás […]."
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Otras formas de organización colectiva se dieron en el Hospital Vidal de Corrientes, donde durante la etapa de mayor restricción (Fase 1) entre las y los trabajadores acordaron realizar el traslado por grupos en vehículos particulares que iban rotando.  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Además, en el marco de estas medidas, una de las cuestiones más controversiales estuvo dada por las restricciones establecidas sobre el puente interprovincial Gral. Manuel Belgrano –por el cual transitan constantemente los residentes de ambas provincias–, que enfrentó a Jorge Capitanich, gobernador del Chaco, y a Gustavo Valdés, gobernador de Corrientes. Las discusiones alrededor de las restricciones de circulación del puente dejaron en evidencia las diferencias y la ausencia de acuerdos entre las políticas sanitarias de los gobiernos provinciales. Esto afectó particularmente a los trabajadores esenciales residentes de una ciudad pero que llevaban a cabo sus actividades laborales en la otra. La detección y el incremento temprano de casos positivos en el Chaco –en comparación con otros distritos– generó que las miradas de los funcionarios, medios de comunicación y gran parte de la sociedad –sobre todo la correntina– esté puesta en estos profesionales que fueron fuertemente estigmatizados (",
+     [
+      "span",
+      {}
+     ],
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286006/html/index.html#redalyc_313286006_ref16"
+      },
+      [
+       "span",
+       {},
+       "Infobae"
+      ],
+      ", 3 de abril de 2020"
+     ],
+     "). En este sentido, hubo avances por parte del gobierno de Corrientes para restringir el cruce diario de aquellos que trabajaban en centros sanitarios de Resistencia, algo que fue resuelto luego por la vía judicial",
+     [
+      "sup",
+      {},
+      [
+       "a",
+       {
+        "href": "http://portal.amelica.org/ameli/journal/31/313286006/html/index.html#fn5"
+       },
+       "5"
+      ]
+     ],
+     " pero que incluyó la estricta advertencia de las autoridades sobre la obligatoriedad del confinamiento en sus hogares al regresar de la jornada, tal como lo expresó el gobernador de Corrientes:"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "p",
+     {},
+     "No tengo problema que los médicos vayan al Chaco, pero acá tienen que estar absolutamente aislados. Lamentablemente, el Chaco no tomó las mismas medidas que tomamos nosotros de darle licencia al personal de su salud pública que tiene domicilio en Corrientes, y hoy tenemos esta consecuencia (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286006/html/index.html#redalyc_313286006_ref20"
+      },
+      "Portal Oficial del Gobierno de la Provincia de Corrientes, 28 de marzo de 2020"
+     ],
+     ")."
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Cabe destacar que estas diferencias entre los gobiernos provinciales se profundizaron conforme avanzaron los meses de gestión de la pandemia. Las posturas que fue adoptando cada uno estuvieron en estrecha vinculación con las posiciones de los referentes de los frentes políticos del que forman parte a nivel nacional, esto es, el “Frente de Todos” (oficialismo) en el caso de Chaco, y “Juntos” (oposición), en el caso de Corrientes. Ejemplos claros de esta confrontación se observaron durante la primera mitad de 2021",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286006/html/index.html#fn6"
+      },
+      [
+       "sup",
+       {},
+       "6"
+      ]
+     ],
+     " en el marco de las discusiones por el retorno a la presencialidad en el ámbito educativo y el posible regreso de medidas restrictivas ante el aumento de casos positivos. Es así que el gobernador Capitanich se mantuvo en una línea cercana a las medidas del Ejecutivo Nacional y, por su parte, el gobernador Valdés se acopló a las decisiones y reclamos que esgrimieron, entre otros, el Jefe de Gobierno de la ciudad de Buenos Aires, Horacio Rodríguez Larreta (PRO) y el gobernador de Jujuy, Gerardo Morales (UCR) (",
+     [
+      "span",
+      {}
+     ],
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286006/html/index.html#redalyc_313286006_ref21"
+      },
+      [
+       "span",
+       {},
+       "El Litoral"
+      ],
+      ", 7 de abril de 2021"
+     ],
+     "). "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " En paralelo a este ida y vuelta, destacamos dos hechos. El primero de ellos refiere al contagio de una enfermera correntina, residente del barrio San Marcos de la Capital, que trabaja en una clínica privada de la ciudad chaqueña. Este caso, al ser uno de los primeros, derivó en el cierre total del barrio por parte de las autoridades, que incluso indicaron la vigilancia policial en las entradas al mismo (",
+     [
+      "span",
+      {}
+     ],
+     [
+      "span",
+      {}
+     ],
+     [
+      "span",
+      {}
+     ],
+     [
+      "span",
+      {}
+     ],
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286006/html/index.html#redalyc_313286006_ref22"
+      },
+      [
+       "span",
+       {},
+       "El Litoral"
+      ],
+      ", 11 de abril de 2020"
+     ],
+     "). El segundo, refiere a una nota de tapa de un diario de Corrientes,",
+     [
+      "span",
+      {},
+      " Época"
+     ],
+     ", que en medio del pánico por el aumento de casos tituló “Chaco exportó la maldita enfermedad a Corrientes” (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286006/html/index.html#redalyc_313286006_ref14"
+      },
+      [
+       "span",
+       {},
+       "Época"
+      ],
+      ", 28 de marzo de 2020"
+     ],
+     "), acto repudiado luego por diversos sectores de ambas ciudades. "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Esta situación marcó fuertemente a los y las trabajadoras, quienes comenzaron a ser identificados como amenaza durante los momentos iniciales de la pandemia, es decir, cuando aún existía mucho desconocimiento y el miedo era más acentuado. Sin duda estas medidas alteraron las rutinas laborales, tratando de instaurar patrones a través de los cuales construir una “nueva cotidianeidad” que les permitiera organizar y realizar mejor su trabajo ante la crisis. Las transformaciones más significativas para las y los enfermeros estuvieron relacionadas al cambio del vínculo con sus pacientes y a la profundización de la precarización de las condiciones laborales, aspecto en el que nos detenemos en el siguiente apartado. "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n",
+     [
+      "span",
+      {},
+      "Organizar\nel trabajo: la rutina en pandemia"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " El conjunto de medidas de gestión de la pandemia se asentó sobre un escenario heterogéneo y ello contribuyó a consolidar desigualdades y fragmentar el sistema de salud en el país. Para Cendali, Lohigorry, Marzoaa, Quelle y Villalba (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286006/html/index.html#redalyc_313286006_ref1"
+      },
+      "2020"
+     ],
+     ") las mismas se dieron “en el marco de un Estado debilitado para lo público, pero fortalecido en los últimos 40 años en el sostenimiento de un modelo de mercado de la salud por procesos de precarización y flexibilización laboral” (pp. 15-16). En relación a esto, el sector enfermería comprende un área que se presenta segmentada, en principio, en función de las distintas titulaciones y formas de contratación laboral que, si bien pueden llevarnos a considerar una subdivisión de tareas de acuerdo a la formación, en la práctica constituyen mecanismos que profundizan la precarización, desprotección e inestabilidad en el trabajo.  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Desde el inicio de la pandemia, distintos sindicatos, asociaciones gremiales y trabajadoras y trabajadores de la salud autoconvocados de ambas provincias expusieron sus demandas por modificaciones en las condiciones laborales, el abastecimiento de los materiales de protección personal y mejoras salariales –un conjunto de peticiones existente desde tiempos previos a la pandemia– (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286006/html/index.html#redalyc_313286006_ref19"
+      },
+      [
+       "span",
+       {},
+       "Norte"
+      ],
+      ", 14 de marzo de 2020"
+     ],
+     "; ",
+     [
+      "span",
+      {}
+     ],
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286006/html/index.html#redalyc_313286006_ref13"
+      },
+      [
+       "span",
+       {},
+       "El Litoral"
+      ],
+      ", 4 de abril de 2020"
+     ],
+     "). En este punto, destacan los reclamos a funcionarios estatales y a la sociedad en general por el reconocimiento como trabajadoras y trabajadores de salud frente a la emergencia de discursos que asimilaron la pandemia a un conflicto bélico (como las constantes referencias al “frente de batalla” del que serían parte) y su desempeño profesional en términos de heroicidad: “No somos héroes ni mártires, somos trabajadores que debemos ser cuidados por el Estado” (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286006/html/index.html#redalyc_313286006_ref15"
+      },
+      "Chaco día por día, 15"
+     ],
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286006/html/index.html#redalyc_313286006_ref15"
+      },
+      "de abril de 2020"
+     ],
+     "). "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Al momento de analizar las transformaciones en la organización del trabajo del sector de enfermería consideramos distintos factores: las horas de la jornada laboral, las tareas y actividades asignadas, las formas de contratación, los ingresos y los puntos de tensión, como las demandas laborales o los conflictos surgidos en sus relaciones de trabajo. Una primera aproximación a los datos obtenidos de las encuestas,",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286006/html/index.html#fn7"
+      },
+      [
+       "sup",
+       {},
+       "7"
+      ]
+     ],
+     " nos revela algunos rasgos compartidos. Se trata de 51 participantes de ambas provincias (21 corresponden a Chaco y 30 a Corrientes), de los cuales el 80% son mujeres y el 20% restante varones, reflejo de la feminización de la profesión. Más del 90% de las y los encuestados declaró que la enfermería es su ocupación principal, es decir, de donde obtiene la mayor parte de sus ingresos. Respecto a la formación, en la provincia del Chaco, un 28% expresó tener título de auxiliar en enfermería, otro 28% una tecnicatura universitaria, un 17% una licenciatura y, el 17% restante, realizó estudios de posgrado en la disciplina. A su vez, en Corrientes, el 11% posee título de auxiliar en enfermería, el 56% una tecnicatura universitaria, el 26% concluyó la licenciatura en dicha disciplina y un 7% realizó estudios de posgrado. "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " En ambas provincias, los trabajadores que se desempeñan en el sector de salud pública superan el 80%, seguidos por un 12% que trabajan tanto en el ámbito público como privado y, en un porcentaje menor, exclusivamente en el sector privado. Alrededor de un 90% de las instituciones donde se desempeñan son de gestión provincial. Ahora bien, en lo que respecta al tipo de contratación, en el Chaco más de la mitad (53%) afirmó que trabaja en relación de dependencia en planta permanente, un 18% trabaja en relación de dependencia mediante contrato o como monotributista, otro 18% lo hace en el marco de una beca y el 11% por cuenta propia. En Corrientes la situación se invierte, ya que es significativamente menor el porcentaje (21%) que aseguró trabajar en relación de dependencia (planta permanente) y el mayor porcentaje (52%) que trabaja en relación de dependencia mediante contrato o como monotributista. El cupo restante se distribuye en un 24% que expresó trabajar en el marco de una beca y un 3% por cuenta propia.  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Este personal de enfermería tuvo que enfrentar nuevas formas de organizar el trabajo trastocado por la pandemia, mientras los protocolos marcaron líneas claras para generar seguridad en el ingreso y atención de pacientes, a nivel de condiciones laborales se prolongaron las horas de trabajo y las guardias, profundizando las desigualdades y agotando a las y los trabajadores. Durante la primera etapa, en el caso del Chaco, el decreto provincial 432/2020, y en Corrientes, el 531/2020, establecieron las licencias para el personal público que presentaba factores de riesgo o estaban a cargo de familiares con dichos factores, situación que en principio generó para muchas instituciones la baja de profesionales especializados en determinadas áreas; para el personal de enfermería representó en algunos establecimientos hasta el 50% de sus recursos humanos. Carlos, un enfermero que trabaja en un cargo de gestión en un hospital público de Corrientes, expresó:"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "p",
+     {},
+     "El recurso humano nunca fue suficiente. Durante la pandemia se fue el 50% de nuestro personal, ya sea por ser considerado como persona de riesgo o por convivir con familiares con algún factor de riesgo. Las cien personas que ingresaron no alcanzaron para cubrir el total del personal que se fue durante toda la pandemia."
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Una de las medidas principales para hacer frente al aumento de casos fue, como comenta Carlos, la contratación de más personal, pero ante la baja por licencias ello no significó un alivio para quienes siguieron en el servicio. Al contrario, como mencionó Roberto, también enfermero con cargo jerárquico en un hospital público de Corrientes, la reducción del personal representó el incremento de la cantidad de guardias y por lo tanto mayor desgaste:"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "p",
+     {},
+     "[…] previo a la pandemia ya había un déficit bastante importante de enfermeros en la institución y, sumado a los 24 que fueron afectados al Hospital de Campaña, el desequilibrio fue total. A nosotros nos impactó negativamente. Por ejemplo, existe un sistema de guardias activas y se cobra un plus por cada una que se hace. Se trata de que se hagan el día de franco, que al final de cuentas no es tal porque hay que trabajar. Debido a la falta de personal, en un principio eran 50 guardias y ahora son 112 que debemos cubrirlas con la misma gente."
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Entonces, las y los enfermeros que estuvieron desde el inicio no pudieron tomar licencias y en algunos casos duplicaron sus horas de trabajo. En Corrientes, además, se debe tener en cuenta que los traslados del personal de planta permanente de distintos centros de salud pública al Hospital de Campaña contribuyeron aún más a la sobrecarga debido a la falta de nuevas contrataciones en las instituciones “de origen”.  En esta misma línea el testimonio de Juana, enfermera de una clínica privada de Resistencia, demuestra el nivel de intensidad que adquirió el trabajo cuando ante una situación de contagios del personal de la institución:"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "p",
+     {},
+     "[…] un grupo voluntariamente decidió quedarse en la clínica, es decir, no regresar a la casa. Es como que se licenció a la mitad del personal y la otra mitad trabajó en la clínica sin ir al domicilio. Eso lo hicimos aproximadamente por veinte días."
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "A este escenario de sobrecarga laboral se sumó que gran parte del personal que ingresó con la pandemia no contaba con la experiencia suficiente, por lo tanto, también se les agregó la tarea de entrenamiento de las y los nuevos enfermeros. Las referencias al cansancio y agotamiento están presentes en cada entrevista. En efecto, si observamos los datos de la encuesta –ver ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286006/html/index.html#gf1"
+      },
+      "Gráfico 1"
+     ],
+     "– la mayoría de las y los enfermeros (88% para Corrientes y 100% para Chaco) afirma haber sentido el incremento de la presión laboral. Similares resultados se observan ante las preguntas por la reducción de los tiempos de descanso, casi la totalidad respondió afirmativamente (92% en Corrientes y 100% en Chaco), y el aumento la intensidad laboral (se observa nuevamente un 92% afirmativo en Corrientes y un 100% en Chaco)."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "span",
+     {
+      "id": "t-gf1"
+     },
+     "\n",
+     [
+      "figura",
+      {
+       "alt": "Percepción de\ncambios en las condiciones laborales del sector enfermería desde el inicio de\nla pandemia a julio 2021."
+      }
+     ],
+     [
+      "br",
+      {}
+     ],
+     "Gráfico 1",
+     [
+      "br",
+      {}
+     ],
+     "\n",
+     [
+      "span",
+      {},
+      "Percepción de\ncambios en las condiciones laborales del sector enfermería desde el inicio de\nla pandemia a julio 2021."
+     ],
+     "\n",
+     [
+      "br",
+      {}
+     ],
+     "\n",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "(Fuente: Elaboración en base a datos de la Encuesta\nNacional a personal de enfermería de la República Argentina. Proyecto Pisac\nCOVID-19 «La enfermería y los cuidados sanitarios profesionales durante la\npandemia y la postpandemia del COVID 19», Agencia Nacional de Promoción de la\nInvestigación, el Desarrollo Tecnológico y la Innovación)."
+      ]
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Es preciso remarcar que, si bien el Hospital de Campaña de Corrientes no tuvo impactos negativos por las licencias debido a que su personal fue afectado considerando los factores de riesgo,",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286006/html/index.html#fn8"
+      },
+      [
+       "sup",
+       {},
+       "8"
+      ]
+     ],
+     " sí perjudicó a otros centros de salud –como hemos mencionado más arriba–. No obstante, las designaciones de los traslados fueron vividas inicialmente con cierta reticencia. Para Roberto, en el hospital donde trabaja la “fricción más grande” se dio justamente cuando se asignó al personal para el Campaña. Aquí entran en juego diversos elementos, por un lado, estaba presente el miedo de enfrentarse a una enfermedad poco conocida que ya había provocado la muerte de miles de personas en el mundo. Además, según las entrevistas, las y los enfermeros incluidos en las listas de traslado no fueron consultados de manera previa, por el contrario, fueron directamente notificados para dicha tarea por ser personal “de planta” dependiente del Ministerio de Salud provincial. Otra cuestión no menor es que la actividad en el Campaña era muy intensa ya que se conformaron equipos que en muchos casos no tenían experiencia de trabajo conjunto y menos aún en situación de pandemia. María, expresó al respecto:"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "p",
+     {},
+     "Costó mucho encontrar el ritmo porque a medida que fueron aumentando los pacientes aumentaba personal de salud. Todos los días te encontrabas con gente nueva. Era un constante recomenzar, ver con quién trabajar, cómo trabaja cada uno, con quién te llevas mejor, etc., y así poder atender a la mayor cantidad posible de pacientes en el menor tiempo."
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Para María, una profesional con más de 15 años de antigüedad y en constante formación a lo largo de su carrera, la intensidad del trabajo fue tal que tras cuatro meses de su designación solicitó el traslado a su hospital de origen, dado que se encontraba bajo mucho estrés y agotamiento.  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " El personal de enfermería, como mencionamos, es heterogéneo, ya sea de acuerdo a las titulaciones –auxiliares, técnicos y licenciados– o las formas de contratación, que varían desde “estar en blanco” a las distintas “escalas de grises” que se desprenden de las diferentes modalidades contractuales. Las y los enfermeros pueden iniciar su trabajo a través de los contratos de obra o de servicio, de convenios con colegios profesionales y asociaciones gremiales –como el caso del Colegio de Enfermeros con el Ministerio de Salud de Corrientes–,",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286006/html/index.html#fn9"
+      },
+      [
+       "sup",
+       {},
+       "9"
+      ]
+     ],
+     " por medio de programas de becas –como el “Programa Expertos”",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286006/html/index.html#fn10"
+      },
+      [
+       "sup",
+       {},
+       "10"
+      ]
+     ],
+     " del Ministerio de Salud de la Provincia del Chaco– hasta llegar a los trabajos “en negro”, es decir, sin que medie ningún tipo de contratación ni registro. "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " En principio las titulaciones y tipos de contratación delimitan diferencias con relación a las capacidades, al registro laboral y de remuneraciones. Sin embargo, en las entrevistas señalan que las tareas no se dividen siguiendo esas jerarquías. Así describe Sabrina su situación de becaria en comparación con el personal de planta:"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "p",
+     {},
+     "Yo tengo la beca ",
+     [
+      "span",
+      {},
+      "Programa Expertos"
+     ],
+     " que consiste 30 horas semanales de servicio. El año pasado (2020) el monto de la beca era de $15.000 aproximadamente y ahora (2021) aumentó a poco más de $18.000. Dentro de nuestro memo –nuestro contrato por así decirlo– figura que tenemos que trabajar de lunes a viernes y no realizar ni horarios nocturnos ni fines de semana, pero eso nunca se cumple debido a la demanda. No solamente en pandemia. Desde siempre nos hacen cumplir 8 horas más. Tenemos francos, obviamente, pero no tenemos obra social, no tenemos seguro, nada de eso. Es un reclamo continuo, trabajamos a la par de personal de planta, no hay diferencia. Estamos con las mismas responsabilidades, la misma cantidad de horas, la misma cantidad de pacientes. Somos precarizados. Y no nos queda otra, por eso sigo trabajando. Aparte la enfermería me gusta, obviamente, pero no hay otra opción y no queda más que aceptar estas condiciones."
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " De acuerdo con Francisco ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286006/html/index.html#redalyc_313286006_ref3"
+      },
+      "Favieri (2021)"
+     ],
+     " existen ciertos elementos que permiten definir un trabajo precario. Recuperando la definición de la Oficina de Actividades para los Trabajadores de la Organización Internacional del Trabajo (OIT), se entiende al mismo “como un abaratamiento de costos que los empleadores aplican al trasladar responsabilidades y riesgos a sus trabajadores […] un trabajo que se caracteriza por niveles variables y grados de particularidades objetivas (situación legal) y subjetivas (sensación de incertidumbre e inseguridad)” (p. 132). De esta manera se delimita al trabajo precario atravesando situaciones como: bajos salarios, inestabilidad e incertidumbre (contratos a término, eventuales, subcontratación, tercerización, registro parcial, etc.), empleadores difusos, sin goce de protección social ni beneficios relacionados al empleo registrado, con dificultad de organización sindical. "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " El trabajo en el sector de enfermería en las provincias de Chaco y Corrientes presenta un escenario con distintos grados de precarización. En un extremo podemos ubicar a las y los trabajadores registrados (en planta/en blanco) quienes no están exentos de atravesar situaciones de precariedad –extensión de guardias y de horas de trabajo, cambio de actividades, situaciones de presión–. En el otro extremo, las y los trabajadores no registrados (en negro), quienes directamente no existen para el sistema y, por lo tanto, se encuentran sujetos a mayores limitaciones. En el medio de estos grupos, podemos ubicar las diferentes contrataciones en calidad de monotributistas. Uno de los mayores reclamos del sector es, precisamente, la mejora salarial y de los tipos de contratación y, si bien durante la pandemia una de las compensaciones estuvo dada por el otorgamiento de bonos provinciales y nacionales, estos no fueron otorgados a todos por igual, acentuando las desigualdades entre los grupos con diferentes tipos de registro laboral. De igual modo que las nuevas contrataciones que se realizaron en mejores condiciones, sin atender o revisar la situación de quienes ya se encontraban con mayor antigüedad.  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Ante estas situaciones, es de destacar que solo alrededor del 25% de las personas entrevistadas se encuentra afiliada a un gremio.",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286006/html/index.html#fn11"
+      },
+      [
+       "sup",
+       {},
+       "11"
+      ]
+     ],
+     " Este bajo nivel de sindicalización también se observa en las encuestas. Pese a ello, algunos trabajadores lograron agruparse bajo el rótulo de “Autoconvocados”, sobre todo, aquellos que se encuentran prestando servicios en el marco del ",
+     [
+      "span",
+      {},
+      "Programa Expertos"
+     ],
+     " en la provincia del Chaco o los denominados “conveniados”",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286006/html/index.html#fn12"
+      },
+      [
+       "sup",
+       {},
+       "12"
+      ]
+     ],
+     " correntinos que de esta manera buscaron formalizar los reclamos que aún están sin resolución. "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Podemos identificar así lo que los autores refieren como la persistencia en la precariedad (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286006/html/index.html#redalyc_313286006_ref9"
+      },
+      "Salas, 2012"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286006/html/index.html#redalyc_313286006_ref8"
+      },
+      "Ortega, 2019"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286006/html/index.html#redalyc_313286006_ref11"
+      },
+      "Vejar, 2020"
+     ],
+     "). En el sector de enfermería esta situación está asegurada en primera instancia por el acceso al trabajo –tanto público como privado– a través de un registro parcial (becados, monotributistas) y/o directamente no registrados (en negro) como norma. De esta condición se desprenden las características que hacen a un trabajo precario (salarios bajos, desprotección social e incumplimiento de los derechos laborales) y le sigue la demora prolongada en el paso a un registro pleno (trabajo en blanco). La percepción de las y los trabajadores es que en el sistema de salud son limitadas las oportunidades laborales en mejores condiciones. "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " En este escenario la participación del Estado para regular e intervenir en la resolución de la situación es parcial y nula. En tanto, la acción de los sindicatos se presenta de manera compleja dada su representación fragmentada –público, privado y obras sociales– desdibujando los reclamos de fondo y limitándose a la coyuntura. Este es un aspecto central para comprender el agotamiento de las y los enfermeros, quienes dado los bajos salarios realizan una mayor cantidad de guardias y/o aceptan determinadas condiciones de trabajo para percibir una remuneración que les permita cubrir sus necesidades básicas."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n",
+     [
+      "span",
+      {},
+      "Trabajar\nen enfermería: los miedos, estigmas y estrategias de cuidado"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " En los primeros meses de la pandemia el personal de salud se vio completamente afectado en un contexto de demanda laboral creciente donde la incertidumbre frente a un virus poco conocido fue la nota predominante. En este apartado buscaremos presentar algunas particularidades que los y las profesionales vivieron y que se repitieron en otras latitudes, entre las que destacan la estigmatización, el temor –tanto por la propia vida como la de sus familiares–, el deterioro de vínculos sociales y el impacto en la salud mental y emocional (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286006/html/index.html#redalyc_313286006_ref5"
+      },
+      "García-Iglesias y otros, 2020"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286006/html/index.html#redalyc_313286006_ref2"
+      },
+      "Condori, 2020"
+     ],
+     ").  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " En los relatos sobre las primeras fases de mayor restricción, la constante fue la sensación de miedo ante lo desconocido que cada vez cobraba dimensiones más alarmantes. El aumento de los contagios y las muertes a nivel mundial implicó, a su vez, el temor por ser quienes podrían “llevar el virus” a sus seres queridos. Amanda, enfermera de un hospital público de Corrientes, relata que"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "p",
+     {},
+     "[…] pensar en la familia fue lo más fuerte que tuvimos que afrontar con la pandemia. Ser personal de salud se convirtió en una mochila y en una gran responsabilidad, porque por culpa de nuestro trabajo podemos contagiar a nuestras familias. Eso es lo más pesado."
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Esta percepción que al principio sentían a nivel personal fue reforzada en la mirada ",
+     [
+      "span",
+      {},
+      "de los otros"
+     ],
+     ", de los medios de comunicación, figuras públicas, funcionarios y vecinos. Como referíamos en el primer apartado, en los primeros meses de pandemia, ",
+     [
+      "span",
+      {},
+      "el estigma de"
+     ],
+     [
+      "span",
+      {},
+      "trabajar en salud"
+     ],
+     " y representar una amenaza para los demás estuvo muy presente. En su testimonio, María cuenta que tras iniciar sus tareas en el Hospital de Campaña tuvo que lidiar con estos prejuicios, lo que la llevó a situaciones de aislamiento y a concentrarse cada vez más en el trabajo:"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "p",
+     {},
+     "[…] ese estigma de “¡Ah no! vos trabajas en el Campaña. ¡No vengas, no pises, no visites, no salgas!”. Entonces salía a caminar o andar en bici sola. Así no veía ni me cruzaba a nadie y evitaba que digan “¡Ah! ¡Me vino a visitar y me contagió!”. Dos o tres meses fue ir del hospital a casa y de casa al hospital. Nada de amigos o parientes, nada."
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " La situación se complicó aún más cuando las miradas de sospecha se trasladaron a las y los integrantes de la propia familia. De acuerdo con las entrevistas, esto se evidenció más en quienes estaban en pareja, tenían hijos o convivían con alguien. Por ejemplo, Pedro, enfermero de una clínica privada de Resistencia que comparte la casa con sus hermanos y su mamá, expresó que éstos le remarcaban “si nos contagiamos va a ser por vos”. En este sentido, es notable que alrededor del 80% de las y los enfermeros encuestados de ambas provincias percibió algún tipo malestar en sus relaciones personales o con familiares desde el inicio de la pandemia (ver ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286006/html/index.html#gf2"
+      },
+      "Gráfico 2"
+     ],
+     ").  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Ante estas presiones fueron claves las medidas de cuidado. Las más comunes incluyeron estrictos protocolos de higiene al momento de llegar a la casa: quitarse toda la ropa, pasar directo al baño sin tener contacto con los integrantes del hogar, lavar la ropa inmediatamente, entre otros. Además, cuando ya comenzaron a flexibilizarse algunas medidas, continuaron evitando las visitas a amigos y familiares, en este sentido, Amanda cuenta que se acostumbró a “saludar de lejos” a su abuela. En algunos casos, se tomaron medidas más drásticas como vivir en casas separadas o mudar a sus hijos con parientes cercanos. Camila, enfermera de un hospital público de Puerto Tirol, localidad ubicada a menos de 20 kilómetros de Resistencia, fue enfática en el sacrificio que implicó para ella enviar a su hijo a vivir con sus abuelos, dado que su esposo también era personal esencial: “Uno sacrifica tanto en no ver a su familia. Prácticamente estuve un año con mi hijo aislado en casa de sus abuelos. Recién volvió a casa a vivir conmigo en febrero”. "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Es de resaltar que, en las entrevistas, más allá de las condiciones laborales precarias, el miedo y el estrés, las y los enfermeros expresaron la necesidad de seguir con su trabajo en función de la responsabilidad que les demandaba el momento. No obstante, el sentimiento de vocación no los liberó de las situaciones de agotamiento físico y emocional. Como bien describe Hernán, enfermero del Hospital de Campaña, al hablar de la “montaña rusa de sensaciones” que le provocó su trabajo:"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "p",
+     {},
+     "Sentí felicidad, orgullo, tristeza, angustia. Fue variando a medida que pasó el tiempo. Ahora miro hacia atrás y estoy más tranquilo. Estoy contento, pero en su momento era un bajón, era muy feo estar ahí. No sabías con qué te podías encontrar, no sabías si volvías a tu casa y si volvías contagiado o no."
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "En consonancia con esto, como observamos en el ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286006/html/index.html#gf2"
+      },
+      "Gráfico 2"
+     ],
+     " a partir de las respuestas obtenidas en la encuesta, un valor ampliamente superior al 80% de las y los enfermeros de ambas provincias sintió desaliento y/o frustración asociada al trabajo que llevaron adelante desde el inicio de la pandemia. A su vez, como contrapartida y a pesar de los prejuicios mencionados en párrafos anteriores, la percepción respecto a la valoración social de la enfermería es elevada. En efecto, un 83% de las y los encuestados en Chaco y un 96% de las y los encuestados en Corrientes expresaron sensaciones de valoración hacia su profesión. "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "span",
+     {
+      "id": "t-gf2"
+     },
+     "\n",
+     [
+      "figura",
+      {
+       "alt": "Percepciones\nasociadas al trabajo en el sector enfermería desde el inicio de la pandemia a\njulio 2021."
+      }
+     ],
+     [
+      "br",
+      {}
+     ],
+     "Gráfico 2",
+     [
+      "br",
+      {}
+     ],
+     "\n",
+     [
+      "span",
+      {},
+      "Percepciones\nasociadas al trabajo en el sector enfermería desde el inicio de la pandemia a\njulio 2021."
+     ],
+     "\n",
+     [
+      "br",
+      {}
+     ],
+     "\n",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "(Fuente: Elaboración en base a datos de la Encuesta Nacional a\npersonal de enfermería de la República Argentina. Proyecto Pisac COVID-19 «La\nenfermería y los cuidados sanitarios profesionales durante la pandemia y la\npostpandemia del COVID 19», Agencia Nacional de Promoción de la Investigación,\nel Desarrollo Tecnológico y la Innovación)."
+      ]
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " La cotidianeidad de las y los enfermeros fueron las jornadas extensas, intensivas y consecutivas de trabajo. El resultado fue una elevada carga de estrés laboral generada por el desconocimiento sobre lo que les deparaba el día siguiente y las horas de insomnio en las que “la cabeza no paraba de pensar”. Sus preocupaciones iban desde la disponibilidad de los materiales de seguridad hasta el aumento de los pacientes positivos, pasando por el posible contagio y la posterior transmisión a sus seres queridos. No obstante, es de destacar que las redes que fueron tejiendo para afrontar las situaciones de estrés y angustia, dan cuenta de la solidaridad y el apoyo que emergió entre compañeras y compañeros.  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " En principio, dado que no contaban con espacios adecuados de contención o debido al desconocimiento de los gabinetes de asistencia psicológica –en los lugares donde los hubo–, una de las estrategias más elegidas para sobrellevar la pandemia fue la de “hablar con sus colegas”. Esto, incluso, era visto como preferible antes que hacerlo con sus familiares a fin de evitar transmitirles preocupación o sobrecargarlos con “sus problemas”. En palabras de Sabrina, la relación entre colegas se hacía más fácil dado que “hablábamos el mismo idioma, manejábamos el mismo miedo. Charlábamos y hablábamos de nuestros problemas en el momento que estábamos de guardia. Ese fue el mayor sostén entre nosotros”."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "span",
+     {
+      "id": "t-gf3"
+     },
+     "\n",
+     [
+      "figura",
+      {
+       "alt": "Espacios\ninstitucionales de contención."
+      }
+     ],
+     [
+      "br",
+      {}
+     ],
+     "Gráfico 3",
+     [
+      "br",
+      {}
+     ],
+     "\n",
+     [
+      "span",
+      {},
+      "Espacios\ninstitucionales de contención."
+     ],
+     "\n",
+     [
+      "br",
+      {}
+     ],
+     "\n",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "(Fuente: Elaboración en base a datos de la\nEncuesta Nacional a personal de enfermería de la República Argentina. Proyecto\nPisac COVID-19 «La enfermería y los cuidados sanitarios profesionales durante\nla pandemia y la postpandemia del COVID 19», Agencia Nacional de Promoción de\nla Investigación, el Desarrollo Tecnológico y la Innovación)."
+      ]
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Ahora bien, si contrastamos los testimonios de las y los entrevistados con los datos de la encuesta, podemos observar cierta correlación en las estrategias de las y los enfermeros para sobrellevar la pandemia. Como se puede observar en el ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286006/html/index.html#gf3"
+      },
+      "Gráfico 3"
+     ],
+     ", de la totalidad de los participantes de Chaco, un valor que supera el 90% expresó que “nunca” se habilitaron espacios institucionales de contención en el lugar de trabajo desde el inicio de la pandemia. En cuanto a Corrientes, si bien la incidencia en esa respuesta disminuye al 55%, corresponde a más de la mitad de las personas.  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " La falta de espacios adecuados para el cuidado de la salud mental y emocional del personal sanitario contribuye a explicar otros datos de la encuesta. Por ejemplo, más de la mitad de las y los enfermeros de ambas provincias expresó que tuvo que recurrir a sus propios colegas como primera medida para sobrellevar las consecuencias emocionales de la pandemia. Esta estrategia, entre las y los participantes de Chaco, es seguida por la de “evitar pensar en el problema” (18%) y luego por “planificar cómo resolverlo”, “tomar el problema como un desafío” y “automedicarse” (todas estas comparten un 9% cada una). Por su parte, en Corrientes, la estrategia de “hablar con los colegas” es seguida por “planificar cómo resolver el problema” (14%), acudir a “psicoterapias” (10%), “evitar pensar” (9%), “tratar de llegar a acuerdos” o “refugiarse en la fe” (ambas un 5% cada una).  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Al contrario de lo que algunos trabajos académicos sugieren (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286006/html/index.html#redalyc_313286006_ref7"
+      },
+      "Melendi, 2021"
+     ],
+     "), la protección de la salud, en este caso la mental, no parece haber constituido una prioridad en las políticas provinciales. El hecho de que optar por acudir psicoterapias se limite a un 10% para Corrientes y a un valor nulo para Chaco, nos lleva a considerar la necesidad de una intervención más directa por parte de las autoridades estatales y sanitarias que habilite tales espacios y posibilite afrontar de un modo integral las consecuencias físicas y mentales vinculadas al estrés laboral generado en un contexto pandémico."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n",
+     [
+      "span",
+      {},
+      "Palabras\nfinales"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " En este trabajo nos propusimos reconstruir la cotidianeidad de las y los enfermeros de las provincias de Chaco y Corrientes, recuperando los impactos que tuvieron las distintas medidas que las coyunturas local, nacional e internacional fueron marcando. Respecto a ello, dimos cuenta que, en una primera instancia, las y los trabajadores de enfermería no tuvieron injerencia en el diseño de los protocolos de abordaje de covid-19, no obstante, los agentes fueron centrales en la adaptación de los mismos a la dinámica de trabajo de cada institución.  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Por otro lado, las restricciones impuestas a la movilidad y la correspondiente reducción de frecuencias y horarios de circulación del transporte público y privado, representaron importantes obstáculos para el personal esencial, quienes plantearon la necesidad de elaborar estrategias para el traslado al trabajo. Un ejemplo contundente de los problemas y limitaciones en cuanto a esta serie de medidas se observó en el conflicto alrededor de las restricciones a la circulación sobre el puente Gral. Manuel Belgrano. Quedaron expuestas las diferencias políticas entre gobernantes quienes a medida que avanzó la emergencia fueron alineándose a las posturas de sus respectivas fuerzas políticas a nivel nacional. A su vez quedaron en evidencia discursos estigmatizantes sobre las y los trabajadores de salud.  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " A lo largo del artículo hemos observado que, en lo referido a las condiciones laborales, el sector de enfermería se encontraba en una situación crítica desde antes de la pandemia. Esta, en efecto, no hizo más que profundizar y exponer las desigualdades y condiciones de precariedad debido a que el contexto las colocó en el centro de la escena, donde las intervenciones del Estado se limitaron a ser paliativas sin resolver los problemas estructurales. De un modo paralelo, a medida que esto sucedía, cobró fuerza la circulación de discursos de heroicidad y vocación de servicio para referirse a las y los enfermeros por sobre su condición de trabajadores y trabajadoras de la salud. "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Por otra parte, ante la falta de estructuras institucionales adecuadas, la resolución de problemas cotidianos, conflictos interpersonales y los impactos emocionales del trabajo en pandemia se dieron a través del apoyo entre compañeras y compañeros. Las redes de solidaridad y acompañamiento les permitieron sobrellevar las situaciones de estrés y agotamiento.  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " La contención de la crisis sanitaria se apoyó, en gran medida, en el esfuerzo del personal de enfermería que rápidamente se encontró acorralado por múltiples factores: el aumento de la intensidad y la extensión de las horas de trabajo, el temor y el agotamiento, las situaciones de presión y estrés laboral, la urgencia del momento histórico que estaban viviendo y, también, la necesidad económica de que todo ello involucraba a su principal fuente de ingresos. Las y los trabajadores que soportaron y continúan soportando estas situaciones de precarización, estuvieron y están expuestos a la falta de políticas estatales que aborden estructuralmente las problemáticas del sector. "
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-back"
+    },
+    "\n",
+    [
+     "p",
+     {},
+     "\n",
+     [
+      "span",
+      {},
+      "Referencias"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286006_ref1"
+     },
+     "Cendali, F., Lohigorry, J., Marzoaa,\nC., Quelle, A. y Villalba, N. (2020). La pandemia que puso en agenda de los\ngobiernos a la salud pública. ",
+     [
+      "span",
+      {},
+      "Red\nSociales. Revista del Departamento de Ciencias Sociales"
+     ],
+     ", 7(2),\n12-17. Recuperado de ",
+     [
+      "a",
+      {
+       "href": "http://ri.unlu.edu.ar/xmlui/handle/rediunlu/742"
+      },
+      "http://ri.unlu.edu.ar/xmlui/handle/rediunlu/742"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286006_ref2"
+     },
+     "Condori, Y. (2020). Asociación entre la exposición al COVID-19 y\nla presencia de síntomas de depresión, ansiedad e insomnio en el personal médico\nque labora en los hospitales de la región Arequipa (Tesis de Grado).\nRecuperado de ",
+     [
+      "a",
+      {
+       "href": "http://repositorio.unsa.edu.pe/handle/UNSA/11070"
+      },
+      "http://repositorio.unsa.edu.pe/handle/UNSA/11070"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286006_ref3"
+     },
+     "Favieri, F. N. (2021). ",
+     [
+      "span",
+      {},
+      "Lidiar con la precariedad: experiencias,\nestrategias y alternativas. El caso de jóvenes trabajadores del comercio\nminorista del Gran San Juan"
+     ],
+     ". Ciudad Autónoma de Buenos Aires, Argentina:\nEstudios Sociológicos Editora."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286006_ref4"
+     },
+     "Freidin, B., Wilner, A., Krause, M.\ny Ballesteros, M. S. (2021). Trabajadores de la salud en el primer nivel de\natención durante la pandemia COVID-19 en el conurbano de Buenos Aires.",
+     [
+      "span",
+      {},
+      " Población & sociedad"
+     ],
+     ", 28(2), 138-167. ",
+     [
+      "a",
+      {
+       "href": "http://dx.doi.org/10.19137/pys-2021-280208"
+      },
+      "http://dx.doi.org/10.19137/pys-2021-280208"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286006_ref5"
+     },
+     "García-Iglesias, J. J. y otros\n(2020). Impacto del SARS-CoV-2 (COVID-19) en la salud mental de los\nprofesionales sanitarios: una revisión sistemática. ",
+     [
+      "span",
+      {},
+      "Rev. Esp. Salud Pública"
+     ],
+     ", (94), 23-24. Recuperado de ",
+     [
+      "a",
+      {
+       "href": "http://hdl.handle.net/10045/108234"
+      },
+      "http://hdl.handle.net/10045/108234"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286006_ref6"
+     },
+     "Gómez, G. J. y Almirón, A. M. O.\n(2021). Hospitales de campaña en contextos de pandemia de la COVID-19. El caso\nde la ciudad de Corrientes. ",
+     [
+      "span",
+      {},
+      "ADNea"
+     ],
+     ",\n(9), 7-23. ",
+     [
+      "a",
+      {
+       "href": "http://dx.doi.org/10.30972/adn.095789"
+      },
+      "http://dx.doi.org/10.30972/adn.095789"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286006_ref7"
+     },
+     "Melendi, J. (2021). Esbozos sobre\nlos trastornos mentales relacionados con el estrés del personal de salud\ndurante la pandemia COVID-19 en Argentina. ",
+     [
+      "span",
+      {},
+      "Revista MERCOSUR de políticas\nsociales"
+     ],
+     ", 5(1),\n74-103. ",
+     [
+      "a",
+      {
+       "href": "https://doi.org/10.28917/ism.2020-v5-1-74"
+      },
+      "https://doi.org/10.28917/ism.2020-v5-1-74"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286006_ref8"
+     },
+     "Ortega, J. (2019). Trabajos de(s)cuidados. ",
+     [
+      "span",
+      {},
+      "Athenea digital"
+     ],
+     ", 19(3). 23-33. Recuperado de ",
+     [
+      "a",
+      {
+       "href": "https://raco.cat/index.php/Athenea/article/view/364139"
+      },
+      "https://raco.cat/index.php/Athenea/article/view/364139"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286006_ref9"
+     },
+     "Salas, M. M. (2012). La medición de\nla precariedad laboral: problemas metodológicos y alternativas de solución. ",
+     [
+      "span",
+      {},
+      "Revista\nTrabajo"
+     ],
+     ", 1(9),\n89-122."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286006_ref10"
+     },
+     "Scornik, C.\nO.y otros (2012). Consideraciones sobre el proceso de\nmetropolización del Gran Corrientes-Gran Resistencia. ",
+     [
+      "span",
+      {},
+      "Cuaderno urbano"
+     ],
+     ", 13(13),\n175-191. ",
+     [
+      "a",
+      {
+       "href": "http://dx.doi.org/10.30972/crn.1313538"
+      },
+      "http://dx.doi.org/10.30972/crn.1313538"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286006_ref11"
+     },
+     "Vejar, D. J. (2020). Precariedad\ncomo gobierno de la pandemia. La experiencia de la precariedad laboral en\nChile. ",
+     [
+      "span",
+      {},
+      "HYBRIS, Revista de Filosofía"
+     ],
+     ", 11(2), 125-149. ",
+     [
+      "a",
+      {
+       "href": "https://doi.org/10.5281/zenodo.4060500"
+      },
+      "https://doi.org/10.5281/zenodo.4060500"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n",
+     [
+      "span",
+      {},
+      "Fuentes"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286006_ref22"
+     },
+     "Enfermera del San Marcos: “Es mentira que anduve paseando por el barrio” (11 de abril 2020). ",
+     [
+      "span",
+      {},
+      "El Litoral"
+     ],
+     ". Recuperado de ",
+     [
+      "a",
+      {
+       "href": "https://www.ellitoral.com.ar/corrientes/2020-4-11-8-41-0-enfermera-del-san-marcos-es-mentira-que-anduve-paseando-por-el-barrio"
+      },
+      "https://www.ellitoral.com.ar/corrientes/2020-4-11-8-41-0-enfermera-del-san-marcos-es-mentira-que-anduve-paseando-por-el-barrio"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286006_ref12"
+     },
+     "¿Qué pasó en Gran Resistencia? Tres\nmeses de COVID-19 en la política chaqueña (27 de junio de 2020). ",
+     [
+      "span",
+      {},
+      "El Litoral"
+     ],
+     ". Recuperado de ",
+     [
+      "a",
+      {
+       "href": "https://www.ellitoral.com.ar/corrientes/2020-6-27-15-36-0--que-paso-en-gran-resistencia-tres-meses-de-COVID-19-en-la-politica-chaquena"
+      },
+      "https://www.ellitoral.com.ar/corrientes/2020-6-27-15-36-0--que-paso-en-gran-resistencia-tres-meses-de-COVID-19-en-la-politica-chaquena"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286006_ref13"
+     },
+     "ATE entregó elementos de protección\na trabajadores de la salud del sistema público (4 de abril de 2020).",
+     [
+      "span",
+      {},
+      " El Litoral"
+     ],
+     ". Recuperado de ",
+     [
+      "a",
+      {
+       "href": "https://www.ellitoral.com.ar/corrientes/2020-4-4-1-0-0-ate-entrego-elementos-de-proteccion-a-trabajadores-de-la-salud-del-sistema-publico"
+      },
+      "https://www.ellitoral.com.ar/corrientes/2020-4-4-1-0-0-ate-entrego-elementos-de-proteccion-a-trabajadores-de-la-salud-del-sistema-publico"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286006_ref14"
+     },
+     "Chaco exportó la maldita enfermedad\na Corrientes (28 de marzo de 2020). ",
+     [
+      "span",
+      {},
+      "Época"
+     ],
+     ",\np. 1."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286006_ref15"
+     },
+     "COVID-19: preocupación de la APTASCh\npor el número de contagiados en salud (15 de abril de 2020). ",
+     [
+      "span",
+      {},
+      "Chaco Día por Día"
+     ],
+     ". Recuperado de ",
+     [
+      "a",
+      {
+       "href": "https://www.chacodiapordia.com/2020/04/15/COVID-19-preocupacion-de-la-aptasch-por-el-numero-de-contagiados-en-salud/"
+      },
+      "https://www.chacodiapordia.com/2020/04/15/COVID-19-preocupacion-de-la-aptasch-por-el-numero-de-contagiados-en-salud/"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286006_ref16"
+     },
+     "Delirios de pandemia: el coronavirus\ndesata una guerrita entre Corrientes y Chaco (3 de abril de 2020). ",
+     [
+      "span",
+      {},
+      "Infobae"
+     ],
+     ". Recuperado de ",
+     [
+      "a",
+      {
+       "href": "https://www.infobae.com/sociedad/2020/04/03/delirios-de-pandemia-el-coronavirus-desata-una-guerrita-entre-corrientes-y-chaco/"
+      },
+      "https://www.infobae.com/sociedad/2020/04/03/delirios-de-pandemia-el-coronavirus-desata-una-guerrita-entre-corrientes-y-chaco/"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286006_ref17"
+     },
+     "Habilitan mañana el nuevo hospital y\nhoy el camión sanitario del Vidal (5 de mayo de 2020). ",
+     [
+      "span",
+      {},
+      "El Litoral"
+     ],
+     ". Recuperado de ",
+     [
+      "a",
+      {
+       "href": "https://www.ellitoral.com.ar/corrientes/2020-5-5-1-0-0-habilitan-manana-el-nuevo-hospital-y-hoy-el-camion-sanitario-del-vidal"
+      },
+      "https://www.ellitoral.com.ar/corrientes/2020-5-5-1-0-0-habilitan-manana-el-nuevo-hospital-y-hoy-el-camion-sanitario-del-vidal"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286006_ref18"
+     },
+     "Ollas populares y pedidos\nrelacionados con la pandemia, en el Día del Trabajador (2 de mayo de 2020). ",
+     [
+      "span",
+      {},
+      "El Litoral"
+     ],
+     ". Recuperado de ",
+     [
+      "a",
+      {
+       "href": "https://www.ellitoral.com.ar/corrientes/2020-5-2-1-0-0-ollas-populares-y-pedidos-relacionados-con-la-pandemia-en-el-dia-del-trabajador"
+      },
+      "https://www.ellitoral.com.ar/corrientes/2020-5-2-1-0-0-ollas-populares-y-pedidos-relacionados-con-la-pandemia-en-el-dia-del-trabajador"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286006_ref19"
+     },
+     "Trabajadores de la sanidad exigen\nlos medios y materiales para atención al paciente (14 de marzo de 2020). ",
+     [
+      "span",
+      {},
+      "Norte"
+     ],
+     ". Recuperado de ",
+     [
+      "a",
+      {
+       "href": "https://www.diarionorte.com/189754-trabajadores-de-la-sanidad-exigen-los-medios-y-materiales-para-atencion-al-paciente-"
+      },
+      "https://www.diarionorte.com/189754-trabajadores-de-la-sanidad-exigen-los-medios-y-materiales-para-atencion-al-paciente-"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286006_ref20"
+     },
+     "Valdés: “Tenemos la obligación de\npreservar la salud de los correntinos y no voy a dar el brazo a torcer” (27 de\nmarzo de 2020). ",
+     [
+      "span",
+      {},
+      "Portal del Gobierno de la\nProvincia de Corrientes"
+     ],
+     ". Recuperado de ",
+     [
+      "a",
+      {
+       "href": "https://www.corrientes.gob.ar/noticia/valdes-tenemos-la-obligacion-de-preservar-la-salud-de-los-correntinos-y-no-voy-a-dar-el-brazo-a-torcer"
+      },
+      "https://www.corrientes.gob.ar/noticia/valdes-tenemos-la-obligacion-de-preservar-la-salud-de-los-correntinos-y-no-voy-a-dar-el-brazo-a-torcer"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286006_ref21"
+     },
+     "Valdés y Macri en la cumbre\nopositora en contra de las nuevas restricciones (7 de abril de 2021). ",
+     [
+      "span",
+      {},
+      "El\nLitoral"
+     ],
+     ". Recuperado de ",
+     [
+      "a",
+      {
+       "href": "https://www.ellitoral.com.ar/corrientes/2021-4-7-2-33-0-valdes-y-macri-en-la-cumbre-opositora-en-contra-de-las-nuevas-restricciones"
+      },
+      "https://www.ellitoral.com.ar/corrientes/2021-4-7-2-33-0-valdes-y-macri-en-la-cumbre-opositora-en-contra-de-las-nuevas-restricciones"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Notas"
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-fn1"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "1"
+     ],
+     " El Gran Resistencia comprende las ciudades de Resistencia, Barranqueras y Puerto Vilelas."
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-fn2"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "2"
+     ],
+     " El período está compuesto por las gestiones de Jorge Milton Capitanich 2007-2011/2011-2013, cuando éste pasa a ser Jefe del Gabinete de Ministros de la Presidenta Cristina Fernández y en su remplazo asume su vicegobernador Carlos Bacileff Ivanoff hasta 2015, continúa Domingo Peppo 2015-2019, y nuevamente Capitanich quien está hasta la actualidad."
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-fn3"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "3"
+     ],
+     " El Hogar Escuela Juan Domingo Perón fue construido en 1952 por la Fundación Eva Perón y brinda hasta la actualidad una tarea educativa completa, alimentación, cuidados sanitarios, actividades sociales, culturales y deportivas a cientos de alumnos, muchos de ellos del interior provincial que se encuentran en condición de internos."
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-fn4"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "4"
+     ],
+     " Es un sistema de identificación y selección de pacientes en los servicios de urgencia hospitalaria. Con él se busca que los pacientes que requieren de atención médica inmediata sean tratados en primer lugar, privilegiándolos sobre aquellos que sufren trastornos de menor gravedad."
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-fn5"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "5"
+     ],
+     " Ante la medida del gobierno de la provincia de Corrientes de indicar el aislamiento obligatorio bajo pena de arresto al personal de salud residente de Corrientes y que trabaje en Chaco, la Asociación de Clínicas y Sanatorios de Resistencia presentó a la justicia una medida cautelar obteniendo un fallo favorable que les permitió la circulación de aquellos profesionales que no presenten la enfermedad."
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-fn6"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "6"
+     ],
+     " En preciso tener en cuenta que 2021 fue particular a nivel político, ya que en la segunda mitad se llevarían a cabo elecciones legislativas nacionales y, en el caso de Corrientes, elecciones a gobernador, donde Gustavo Valdés buscaría su reelección."
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-fn7"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "7"
+     ],
+     " A lo largo del trabajo, nos enfocamos específicamente en el porcentaje de respuestas válidas y prescindimos de aquellas que informaron “n/s n/r”."
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-fn8"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "8"
+     ],
+     " De esta manera está integrado por un personal joven y que en cuanto a sus condiciones de contratación son personal de la planta de Ministerio de Salud de la Provincia."
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-fn9"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "9"
+     ],
+     " Este convenio entre el Colegio de Enfermeros y el Ministerio de Salud es uno de los puntos más controversiales para los trabajadores ya que, según expresan, establece un vínculo entre los enfermeros y el propio Colegio (al cual deben facturar como monotributistas) y no una relación de dependencia con el Ministerio, quedando exentos de los derechos correspondientes a los empleados “de planta” y percibiendo remuneraciones inferiores."
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-fn10"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "10"
+     ],
+     " El Programa Experto fue creado por Decreto 2549/15 que incluyó a distintos trabajadores de Salud Pública que percibían montos muy precarios como forma de regularización. Tenía por propósito la formación de recursos humanos capacitados para la cubrir los cargos de personal que demandara el ministerio y con la promesa de ir incorporándolos a planta."
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-fn11"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "11"
+     ],
+     " Todas las personas que declararon estar sindicalizadas expresaron estar afiliadas a la Asociación de Trabajadores de la Sanidad Argentina (ATSA). Sin embargo, prácticamente la totalidad de ellas indicó que su vínculo se había dado por las facilidades que le brindó la misma en el pasado para completar trayectos formativos en enfermería pero que actualmente no tenía “mucha noción” de las actividades gremiales."
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-fn12"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "12"
+     ],
+     "  Denominación que hace referencia al convenio entre el Colegio de Enfermeros y la cartera de salud de Corrientes."
+    ],
+    "\n"
+   ],
+   "\n"
+  ],
+  "\n",
+  [
+   "span",
+   {
+    "id": "t-creditos"
+   },
+   "\n",
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-logo-izquierda"
+    },
+    "\n",
+    [
+     "figura",
+     {}
+    ]
+   ],
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-mensaje"
+    },
+    "Modelo de publicación sin fines de lucro para conservar la naturaleza académica y abierta de la comunicación científica",
+    [
+     "br",
+     {}
+    ],
+    "HTML generado a partir de XML-JATS4R"
+   ],
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-logo-derecha"
+    },
+    "\n",
+    [
+     "figura",
+     {}
+    ]
+   ],
+   "\n",
+   "\n"
+  ],
+  "\n\n\n"
+ ]
+}

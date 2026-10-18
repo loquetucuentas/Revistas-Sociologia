@@ -1,0 +1,2341 @@
+// Copia de textos/10-24215-23468904e212.json para abrir la aplicación sin servidor.
+(window.DATOS_REVISTAS = window.DATOS_REVISTAS || {})["textos/10-24215-23468904e212.json"] = {
+ "version": 1,
+ "recogido": "2026-10-18T11:43:22+00:00",
+ "doi": "10.24215/23468904e212",
+ "titulo": "\"Hacerse al dolor\": Construcción del consentimiento en la confección de prendas de vestir en el Distrito Metropolitano de Quito (DMQ) 2019-2022",
+ "revista": "2346-8904",
+ "numero": "n33-2026",
+ "licencia": {
+  "codigo": "by-nc-sa",
+  "nombre": "CC BY-NC-SA 4.0",
+  "nombre_completo": "Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional",
+  "url": "https://creativecommons.org/licenses/by-nc-sa/4.0",
+  "url_legal": "https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.es"
+ },
+ "fuente": {
+  "url": "https://www.cuestionessociologia.fahce.unlp.edu.ar/article/download/CSe212/21653?inline=1",
+  "formato": "HTML",
+  "plataforma": "ojs-galerada",
+  "pagina": "https://www.cuestionessociologia.fahce.unlp.edu.ar/article/view/CSe212"
+ },
+ "autores_cita": [
+  {
+   "apellidos": "Carrión Sánchez",
+   "nombre_pila": "Diego",
+   "nombre": null
+  }
+ ],
+ "avisos_derechos": [
+  "Derechos de autor 2026 ",
+  "Esta obra está bajo una licencia internacional Creative Commons Atribución-NoComercial-CompartirIgual 4.0. La cesión de derechos no exclusivos implica también la autorización por parte de los autores para que el trabajo sea alojado en los repositorios institucionales UNLP (Sedici y Memoria Académica) y difundido a través de las bases de datos que los editores consideren apropiadas para su indización, con miras a incrementar la visibilidad de la revista y sus autores."
+ ],
+ "idioma_principal": "es",
+ "indice": [],
+ "vueltas": {
+  "t-redalyc_775445002_ref5": "t-llamada-redalyc_775445002_ref5-1",
+  "t-redalyc_775445002_ref29": "t-llamada-redalyc_775445002_ref29-1",
+  "t-redalyc_775445002_ref8": "t-llamada-redalyc_775445002_ref8-1",
+  "t-redalyc_775445002_ref9": "t-llamada-redalyc_775445002_ref9-1",
+  "t-redalyc_775445002_ref18": "t-llamada-redalyc_775445002_ref18-1",
+  "t-redalyc_775445002_ref15": "t-llamada-redalyc_775445002_ref15-1",
+  "t-redalyc_775445002_ref30": "t-llamada-redalyc_775445002_ref30-1",
+  "t-redalyc_775445002_ref14": "t-llamada-redalyc_775445002_ref14-1",
+  "t-redalyc_775445002_ref31": "t-llamada-redalyc_775445002_ref31-1",
+  "t-redalyc_775445002_ref23": "t-llamada-redalyc_775445002_ref23-1",
+  "t-redalyc_775445002_ref12": "t-llamada-redalyc_775445002_ref12-1",
+  "t-redalyc_775445002_ref4": "t-llamada-redalyc_775445002_ref4-1",
+  "t-redalyc_775445002_ref25": "t-llamada-redalyc_775445002_ref25-1",
+  "t-redalyc_775445002_ref19": "t-llamada-redalyc_775445002_ref19-1",
+  "t-gt2": "t-llamada-gt2-1",
+  "t-redalyc_775445002_ref16": "t-llamada-redalyc_775445002_ref16-1",
+  "t-redalyc_775445002_ref11": "t-llamada-redalyc_775445002_ref11-1",
+  "t-redalyc_775445002_ref24": "t-llamada-redalyc_775445002_ref24-1",
+  "t-redalyc_775445002_ref2": "t-llamada-redalyc_775445002_ref2-1",
+  "t-redalyc_775445002_ref26": "t-llamada-redalyc_775445002_ref26-1",
+  "t-redalyc_775445002_ref10": "t-llamada-redalyc_775445002_ref10-1",
+  "t-redalyc_775445002_ref6": "t-llamada-redalyc_775445002_ref6-1",
+  "t-redalyc_775445002_ref7": "t-llamada-redalyc_775445002_ref7-1",
+  "t-redalyc_775445002_ref27": "t-llamada-redalyc_775445002_ref27-1",
+  "t-redalyc_775445002_ref13": "t-llamada-redalyc_775445002_ref13-1",
+  "t-redalyc_775445002_ref22": "t-llamada-redalyc_775445002_ref22-1",
+  "t-redalyc_775445002_ref1": "t-llamada-redalyc_775445002_ref1-1",
+  "t-redalyc_775445002_ref3": "t-llamada-redalyc_775445002_ref3-1",
+  "t-redalyc_775445002_ref17": "t-llamada-redalyc_775445002_ref17-1",
+  "t-redalyc_775445002_ref20": "t-llamada-redalyc_775445002_ref20-1",
+  "t-redalyc_775445002_ref28": "t-llamada-redalyc_775445002_ref28-1",
+  "t-redalyc_775445002_ref21": "t-llamada-redalyc_775445002_ref21-1"
+ },
+ "contenido": [
+  "\n",
+  [
+   "span",
+   {
+    "id": "t-visor-cabecera"
+   },
+   "\n",
+   "\n",
+   [
+    "span",
+    {},
+    "\n",
+    [
+     "a",
+     {
+      "href": "https://www.cuestionessociologia.fahce.unlp.edu.ar/"
+     },
+     "\nCuestiones de Sociología"
+    ],
+    ", núm. 33, e212, febrero - julio 2026. ISSN 2346-8904",
+    [
+     "br",
+     {}
+    ],
+    "Universidad Nacional de La Plata",
+    [
+     "br",
+     {}
+    ],
+    "Facultad de Humanidades y Ciencias de la Educación",
+    [
+     "br",
+     {}
+    ],
+    "Departamento de Sociología"
+   ],
+   "\n",
+   "\n"
+  ],
+  "\n",
+  [
+   "span",
+   {
+    "id": "t-articulo"
+   },
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-front"
+    },
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-articulo-categoria"
+     },
+     "\n",
+     [
+      "p",
+      {},
+      "Artículos"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-articulo-meta"
+     },
+     "\n",
+     [
+      "p",
+      {},
+      "\"Hacerse al dolor\": Construcción del consentimiento en la confección de prendas de vestir en el Distrito Metropolitano de Quito (DMQ) 2019-2022"
+     ],
+     "\n\n"
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-articulo-acerca"
+     },
+     "\n",
+     [
+      "span",
+      {
+       "id": "t-ficha-general"
+      },
+      "\n",
+      [
+       "span",
+       {
+        "id": "t-autores-articulo"
+       },
+       "\n",
+       "\n",
+       "\n",
+       [
+        "a",
+        {
+         "href": "https://orcid.org/0000-0003-1919-125X"
+        },
+        [
+         "figura",
+         {}
+        ]
+       ],
+       "  ",
+       [
+        "span",
+        {},
+        "Diego"
+       ],
+       " ",
+       [
+        "span",
+        {},
+        "Carrión Sánchez"
+       ],
+       " ",
+       [
+        "br",
+        {}
+       ],
+       [
+        "span",
+        {},
+        " dacarrion@uce.edu.ec"
+       ],
+       "\n",
+       "\n",
+       "\n",
+       [
+        "span",
+        {},
+        "Observatorio del Trabajo y el Pensamiento Crítico, Instituto de Investigaciones Económicas, Universidad Central del Ecuador"
+       ],
+       ", ",
+       [
+        "span",
+        {},
+        "Ecuador"
+       ],
+       "\n",
+       "\n",
+       "\n"
+      ],
+      "\n",
+      [
+       "span",
+       {},
+       "Cita sugerida:"
+      ],
+      "\n",
+      [
+       "span",
+       {},
+       "Carrión Sánchez, D. (2026). \"Hacerse al dolor\": Construcción del consentimiento en la confección de prendas de vestir en el Distrito Metropolitano de Quito (DMQ) 2019-2022. ",
+       [
+        "i",
+        {},
+        "Cuestiones de Sociología, 33"
+       ],
+       ", e212. ",
+       [
+        "a",
+        {
+         "href": "https://doi.org/10.24215/23468904e212"
+        },
+        "https://doi.org/10.24215/23468904e212"
+       ]
+      ],
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "Resumen:\n\t\t\t\t\t\t\t                           "
+       ],
+       [
+        "span",
+        {},
+        "El artículo busca responder la pregunta sobre la construcción del consentimiento en el trabajo, en un contexto de precarización laboral, mediante una investigación cualitativa basada en historias de vida y entrevistas semiestructuradas a costureras del circuito textil del Distrito Metropolitano de Quito, Ecuador. Se caracteriza el circuito de producción de prendas de vestir signado por la externalización productiva y luego, se analizan formas distintas de organización del trabajo en el circuito y las maneras de construir consentimiento en cada una. Se concluye que diversas formas de fuerza y consenso intervienen en distintos grados en la construcción de consentimiento. Además, se abre la pregunta sobre la dimensión multiescalar del conflicto entre capital y trabajo: ¿cómo incide la estructura del mercado de trabajo, la organización de la unidad productiva y la experiencia personal en la implicación y compromisos de las trabajadoras en la producción?"
+       ],
+       "\n"
+      ],
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "Palabras clave: "
+       ],
+       "Consentimiento en el trabajo, Proceso hegemónico, Organización del trabajo, Externalización productiva, Régimen socio técnico.\n\t\t                         "
+      ],
+      [
+       "p",
+       {
+        "lang": "en"
+       },
+       [
+        "span",
+        {},
+        "Grin and Bear the Pain: The Construction of Consent in Clothing Manufacturing in the Metropolitan District of Quito (DMQ) 2019-2022"
+       ]
+      ],
+      "\n",
+      [
+       "p",
+       {
+        "lang": "en"
+       },
+       "\n",
+       [
+        "span",
+        {},
+        "Abstract:\n\t\t\t\t\t\t                           "
+       ],
+       [
+        "span",
+        {},
+        "The article aims to address the question of how consent is constructed in the workplace within a context of labor precariousness, through a qualitative study based on life stories and semi-structured interviews with seamstresses from the textile circuit in the Metropolitan District of Quito, Ecuador. First, the clothing production circuit, marked by productive outsourcing, i characterized, and then, different forms of work organization within the circuit and the ways in which consent is constructed in each one of them are analyzed. The conclusion is that various forms of force and consensus intervene to varying degrees in the construction of consent. Furthermore, it raises the question of the multilevel dimension of the conflict between capital and labor: how do the structure of the labor market, the organization of the productive unit, and each worker’s biographical experience influence the involvement and commitments of workers in production?"
+       ],
+       "\n"
+      ],
+      "\n",
+      [
+       "p",
+       {
+        "lang": "en"
+       },
+       "\n",
+       [
+        "span",
+        {},
+        "Keywords: "
+       ],
+       "Consent In The Workplace, Hegemonic Process, Work Organization, Productive Outsourcing, Socio-Technical Regime.\n                                "
+      ],
+      "\n"
+     ],
+     "\n"
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-articulo-body"
+    },
+    "\n",
+    [
+     "p",
+     {},
+     "\n",
+     [
+      "span",
+      {},
+      "Introducción"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Uno de los disparadores de la presente investigación fueron las respuestas de las trabajadoras del sector textil en Quito a la pregunta sobre satisfacción en el trabajo en la encuesta oficial de empleo. El 83% de las costureras dicen estar contentas con su trabajo, pero el 96% de ellas no logra cubrir con sus ingresos siquiera el valor de la Canasta Básica Familiar (CBF). Más allá de la fiabilidad de esos datos, por los problemas técnicos detectados en su relevamiento y construcción, se intuyó de manera temprana que estos problemas de medición estadística pueden estar señalando nuevas áreas de investigación (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445002_ref5",
+       "id": "t-llamada-redalyc_775445002_ref5-1"
+      },
+      "Becker, 2018"
+     ],
+     ")."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Los encuestados no son entes pasivos frente al cuestionario, sino que están construyendo sentido, aunque el soporte estadístico no parece suficiente para dar cuenta de todos los matices y la amplitud de significados que construyen con sus respuestas. Hay un cierto exceso de sentido, una subjetividad referida al proceso de trabajo implicada, pero no expresada de manera suficiente: las trabajadoras colaboran en la producción, dicen estar contentas, pero al mismo tiempo resisten en la cotidianidad de formas diversas."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Sobre esta subjetividad, difícil de delimitar, existen en la literatura especializada dos miradas polares. Desde la gestión de las organizaciones de inspiración taylorista se trataría de una tendencia “natural” a la pereza y al engaño (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445002_ref29",
+       "id": "t-llamada-redalyc_775445002_ref29-1"
+      },
+      "Taylor, 1969"
+     ],
+     "). En el otro polo del arco político se la lee como conciencia de clase mecánicamente generada por la experiencia de la explotación (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445002_ref8",
+       "id": "t-llamada-redalyc_775445002_ref8-1"
+      },
+      "Braverman, 1981"
+     ],
+     "). Michael Burawoy (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445002_ref9",
+       "id": "t-llamada-redalyc_775445002_ref9-1"
+      },
+      "1989"
+     ],
+     ") se sitúa en otro lugar para cuestionar a los conservadores y al optimismo mecanicista, se pregunta sobre las maneras de construcción de subjetividad en el proceso de trabajo y con ello cambió el eje de la pregunta. En vez de preguntar “¿cómo hacer que trabajen más?” se pregunta “¿Por qué trabajan tanto y de manera tan comprometida?”"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "El cambio de eje político de Burawoy, sin dejar de ser importante, sigue atado a la dimensión económica, le interesa el hecho técnico de convertir la fuerza de trabajo en trabajo. En esta investigación se busca ir un poco más allá, para reflexionar sobre los grados de implicación crecientes que demandan ciertos trabajos y cómo las trabajadoras se ven implicadas directamente en la construcción de consentimiento. Es lo que Durand (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445002_ref18",
+       "id": "t-llamada-redalyc_775445002_ref18-1"
+      },
+      "2011"
+     ],
+     ") ha llamado «implicación forzada» por el régimen socio técnico."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "La pregunta es cómo se construye el consentimiento en el trabajo de las costureras del circuito textil en Quito, Ecuador. Se propone varias respuestas debido a la diversidad del caso de estudio: dos subgrupos de trabajadoras (talleristas y maquiladoras) y diversas formas de organizar el trabajo en el circuito textil. Son respuestas situadas, donde no se trata de elegir entre polos o dimensiones discretas entre sí (fuerza-consenso, escalas micro-meso-macro), sino más bien, entender la articulación de estas dimensiones en el sentido configuracional propuesto, entre otros, por de la Garza (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445002_ref15",
+       "id": "t-llamada-redalyc_775445002_ref15-1"
+      },
+      "2018"
+     ],
+     ")."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "En la siguiente sección se resume la metodología de la investigación, luego se describe el caso de estudio mediante la caracterización del circuito textil en Quito. Finalmente se muestran los principales resultados: las distintas formas de construcción de consentimiento según los modos de organizar el proceso de trabajo: taller por bulto, taller formal, taller informal y maquila textil."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Si bien el taller por bulto es el más cercano a las formas tradicionales o artesanales de la producción textil, convive con los otros regímenes socio técnicos, a veces dentro de la misma planta maquiladora o de los talleres textiles modernizados. Por tanto, no se trata de una progresión cronológica, sino de la descripción de distintas formas de organizar el trabajo combinadas según los vaivenes de la relación conflictiva entre capital y trabajo."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n",
+     [
+      "span",
+      {},
+      "Metodología"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Las fuentes del presente estudio son las historias de vida y entrevistas semiestructuradas a talleristas, maquiladoras (25), expertos (8) y otros trabajadores del circuito textil (12). En total cuarenta y cinco informantes, con un núcleo de veinticinco costureras que constituyen los casos centrales. También se hizo un trabajo estadístico con las fuentes oficiales para la construcción de población objetivo y la producción de un índice de precariedad laboral, con la finalidad de caracterizar al circuito textil y sus condiciones laborales."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Las veinticinco entrevistadas constituyen la muestra teórica de la investigación, cumpliendo criterios de heterogeneidad y tipicidad en sus rasgos sociodemográficos (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445002_ref30",
+       "id": "t-llamada-redalyc_775445002_ref30-1"
+      },
+      "Valles, 1999"
+     ],
+     "), además de estar distribuidas a lo largo del Distrito Metropolitano de Quito. El trabajo de campo tuvo dos fases, la primera inició en 2019, cuando primó la gestión personal para pactar entrevistas con diversos tipos de trabajadores del circuito textil. Luego las entrevistas se fueron centrando en costureras mediante la técnica «bola de nieve». Fue un trabajo de muestreo secuencial animado por la necesidad de conocer las diferentes formas de organización del trabajo en el sector entre otras particularidades subjetivas y sociodemográficas."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "La pandemia marcó el fin de esta primera fase. El trabajo de campo tuvo que suspenderse durante ocho meses y sólo fue retomado en modalidad virtual en noviembre de 2020. En ese contexto se optó por realizar entrevistas semiestructuradas, algunas de las cuales fueron ampliadas hasta construir historias de vida una vez finalizado el confinamiento obligatorio. Durante estas fases se llevó un cuaderno de campo, las entrevistas fueron transcritas íntegramente y codificadas en el programa N VIVO en tres fases:1. Apegado a los temas tratados en la entrevista (codificación estructural); 2. Reconocimiento de nuevos temas o enfoques (codificación emergente) y 3. Reorganización en torno de categorías más amplias (codificación axial). El análisis arrojó varias matrices de resumen (meta matriz y matriz de marco de trabajo)."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n",
+     [
+      "span",
+      {},
+      "Caracterización del circuito textil en el DMQ"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "La industria textil fue una de las primeras en desarrollarse en un país primario exportador y con escaso desarrollo industrial como Ecuador. Surge como herencia colonial en la Sierra centro norte y su desarrollo intensivo se da en la ciudad de Quito (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445002_ref14",
+       "id": "t-llamada-redalyc_775445002_ref14-1"
+      },
+      "Cuvi, 2011"
+     ],
+     "). En la actualidad se organiza como un conjunto de unidades productivas que se encadenan desde la fase de producción de la materia prima (hilo y tela) hasta la comercialización de bienes finales, es decir, constituyen un circuito productivo (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445002_ref31",
+       "id": "t-llamada-redalyc_775445002_ref31-1"
+      },
+      "Varesi, 2013"
+     ],
+     "). El circuito está constituido por dos nodos de acumulación ubicados a los extremos del encadenamiento. Por un lado, la industria de tejeduría e hilatura y por otro las cadenas de comercialización de ropa al detalle, que se sirven de una densa pirámide de subcontratación laboral con varias modalidades de trabajo."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "La población objetivo de este estudio son las costureras que trabajan en la pirámide de subcontratación en talleres o maquilas domiciliarias. Hay tres modalidades de talleres: por bulto, formal e informal, en los cuales existe una relación reconocida de dependencia, aunque no se cumpla con todos los derechos laborales. Las talleristas constituyen un 14% de los trabajadores del circuito textil en la escala nacional, y el 32% en el DMQ (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445002_ref23",
+       "id": "t-llamada-redalyc_775445002_ref23-1"
+      },
+      "INEC, 2019"
+     ],
+     ")"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Las maquilas textiles, por otro lado, son unidades productivas domiciliarias, donde las costureras son dueñas de sus máquinas, el trabajo se remunera a destajo y la relación laboral no es reconocida por el empleador, constituyendo un caso de encubrimiento de la relación de dependencia tras la figura de externalización o deslocalización productiva. Las maquiladoras son el 43% de las trabajadoras del circuito a escala nacional y el 45% en el DMQ (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445002_ref23",
+       "id": "t-llamada-redalyc_775445002_ref23-2"
+      },
+      "INEC, 2019"
+     ],
+     ")."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Si se considera sólo el personal de confección a escala nacional el 25% trabaja en talleres y el 75% en la maquila, esa es la dimensión de la externalización productiva en circuito. Se trata de un sector fuertemente feminizado, el 78% de trabajadores operativos de la confección son mujeres (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445002_ref23",
+       "id": "t-llamada-redalyc_775445002_ref23-3"
+      },
+      "INEC, 2019"
+     ],
+     ") La mayoría tiene hijos u otras cargas familiares, se encargan de todo el trabajo reproductivo y de cuidado además de trabajar en la confección, la mayoría dispone de formación secundaria y provienen de familias humildes, conocen la pobreza, el abandono y la vulnerabilidad (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445002_ref12",
+       "id": "t-llamada-redalyc_775445002_ref12-1"
+      },
+      "Carrión Sánchez, 2024"
+     ],
+     ")."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Ellas trabajan para capitales de diferente calado, dentro de la pirámide de subcontratación laboral y valorizan inversiones industriales y comerciales de las empresas que apalancan el circuito hacia adelante y hacia atrás respectivamente. Este circuito produce principalmente para el consumo interno: el 68% del consumo intermedio (insumos, materia prima) y el 78% del consumo final de los hogares de ropa y textiles son de fabricación nacional (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445002_ref4",
+       "id": "t-llamada-redalyc_775445002_ref4-1"
+      },
+      "BCE, 2020"
+     ],
+     ")."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "La importación de ropa barata en el marco de la «moda rápida» y la presencia de tiendas internacionales de venta de ropa al detalle, presionan a la baja las remuneraciones y ponen en vilo las ya precarias condiciones laborales. Esto se nota en declaraciones de empresarios textiles que amenazan llevar su producción al Asia cuando hablan de la necesidad de flexibilizar las normas legales y de una reforma laboral. Pero como sostiene Montero Bressán (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445002_ref25",
+       "id": "t-llamada-redalyc_775445002_ref25-1"
+      },
+      "2020"
+     ],
+     ") para el caso argentino, parece que en Ecuador resulta más caro deslocalizar la producción al extranjero que usar la ya precarizada fuerza de trabajo local, para reducir costos de producción."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Para la presente investigación se construyó un índice que mide el grado de precariedad de las relaciones laborales. Se consideraron tres indicadores: 1. Salario del trabajador o ingreso del cuentapropista, tomando como umbral de ingreso adecuado el Salario Básico Unificado (SBU); 2 La jornada laboral, el umbral adecuado se considera: 8 horas y más, siempre que el exceso sea remunerado como horas suplementarias; 3. El registro del trabajador, medido por la afiliación al Instituto Ecuatoriano de Seguridad Social (IESS), entidad encargada de constituir un fondo de pensiones, dar atención de salud y brindar créditos hipotecarios y quirografarios a los y las trabajadoras."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Según este Índice de Precariedad Laboral (IPL), el 87% de las trabajadoras de la confección se encuentran precarizada por una o varias razones: reciben salarios menores al básico, trabajan jornadas inadecuadas, o no están reconocidas por sus patrones en relación de dependencia.Puede caracterizarse como sobrepoblación relativa estancada, es decir, subocupada u ocupada, pero de manera informal o en el cuentapropismo (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445002_ref19",
+       "id": "t-llamada-redalyc_775445002_ref19-1"
+      },
+      "Féliz y Neffa, 2006"
+     ],
+     ")"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "span",
+     {
+      "id": "t-gt2"
+     },
+     "\n",
+     "\n",
+     [
+      "span",
+      {},
+      "Figura 1"
+     ],
+     "\n",
+     "\n",
+     "\n",
+     [
+      "span",
+      {},
+      "Porcentaje de trabajadores precarios y estables en la confección textil. Quito, 2018"
+     ],
+     "\n",
+     "\n",
+     [
+      "figura",
+      {
+       "alt": "Porcentaje de trabajadores precarios y estables en la confección textil. Quito, 2018"
+      }
+     ],
+     [
+      "br",
+      {}
+     ],
+     "\n",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Fuente: ENEMDU 2018 anualizada, INEC / Elaboración propia."
+      ]
+     ],
+     "\n"
+    ],
+    "\n",
+    "\n",
+    [
+     "p",
+     {},
+     "Como se muestra en la ",
+     [
+      "a",
+      {
+       "href": "#t-gt2",
+       "id": "t-llamada-gt2-1"
+      },
+      "Figura 1"
+     ],
+     ", el 66% de las talleristas se encuentran en condiciones de precariedad laboral y el 95% de las maquiladoras. Además, se vulnera de manera sistemática el valor de la fuerza de trabajo: el 95% de las talleristas y el 97% de las maquiladoras, no logran comprar la Canasta Básica Familiar con sus ingresos mensuales (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445002_ref23",
+       "id": "t-llamada-redalyc_775445002_ref23-4"
+      },
+      "INEC, 2019"
+     ],
+     ")."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Existe una clara incompatibilidad entre oferta y demanda de trabajo: existen muchas costureras que ofertan su fuerza de trabajo, pero muy poca demanda formal de empleo. La mayoría de los puestos disponibles son informales o externalizados, por lo que existe una sensación generalizada de carencia o dificultad para conseguir trabajo. Esta condición de desventaja en el mercado de trabajo y la vulnerabilidad de las costureras las lleva a aceptar condiciones a la baja con tal de sostener el vínculo laboral."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "La productividad del capital se basa en altos grados de precariedad laboral y sobreexplotación de la fuerza de trabajo. Sin embargo, el consentimiento no se construye sólo desde la necesidad inmediata de trabajar para sobrevivir, las empresas demandan cada vez más creatividad, inventiva y compromiso con la producción, por eso la organización socio técnica del trabajo, formas de reciprocidad desigual, y la organización de las condiciones previas de la acción, cobran importancia en el marco del conflicto cotidiano en el centro de trabajo. Se revisa a continuación las distintas formas de construcción de consentimiento en los regímenes socio técnicos identificados en el circuito textil quiteño."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n",
+     [
+      "span",
+      {},
+      "El consentimiento en el taller por bulto: gritos y dones"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "El taller por bulto es la modalidad de organización del trabajo más cercano a la artesanía en el circuito textil. No hay un encadenamiento, ni división estricta de tareas en la producción: cada costurera se hace cargo de un conjunto de actividades y amontona a un costado las prendas que va terminando; el bulto completo pasa a la siguiente costurera que realiza otro conjunto de tareas y así sucesivamente. Esta forma de organización productiva genera stocks de productos finales y en proceso, que frenan la reproducción del capital. Además, el flujo de trabajo está lleno de tiempos muertos dado el control obrero del ritmo de producción. Se encontraron varias de estas formas de resistencia al trabajo."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "p",
+     {},
+     "...a veces sí nos ponemos a conversar, y como habían personas que trabajaban cerca de la ventana, ya cuando le mirábamos al jefe que bajaba, entonces: «¡chicas, el jefe!» y todas nos quedábamos calladas (...) una vez sí nos encontró así, porque no nos dimos cuenta, en la conversa, en la risa, todo; tan solo lo que nos dijo fue: «¿qué fue chicas?, trabajen, no estén en la fiesta» es todo lo que nos dijo, entonces ya, nosotros también, ya teníamos un poquito más de recelo de estar conversando... (MGUE, tallerista de confección de ropa para cadenas de comercialización minorista, comunicación personal, 7 de marzo de 2021)"
+    ],
+    "\n",
+    "\n",
+    [
+     "p",
+     {},
+     "En la organización por bulto la división de trabajo es mínima, lo que permite a las trabajadoras imponer el ritmo de la producción y además controlar el saber del oficio. Esto genera una correlación de fuerzas favorable para las trabajadoras: ellas conversan, preparan comida en horario de trabajo o hacen uso prolongado de las instalaciones higiénicas, deambulan por la planta, realizan actividades por fuera del proceso productivo, generando tiempos muertos."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Para incrementar el ritmo de trabajo se utiliza medidas de fuerza, en primer lugar, la amenaza de despido, creíble y cotidiana por la laxitud normativa auspiciada desde el Estado. Pero también otras formas de violencia."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "p",
+     {},
+     "De ahí, te digo: el ambiente fatal. O sea, la mamá [de la jefa], igual, era groserísima. A veces subía y nos gritoneaba verás, y nosotros así… ni conversábamos, ni nada; y ya a veces en la tarde venía y «¡ya están conversando!», así de la nada, venía, entraba y así grosera, y nosotros... [gesto de asombro] Igual, de las telas, ¿yo qué sé?, desperdiciaba el cortador: gritaba. Y una se sentía… o sea, no era que a una le gritaban, pero igual se sentía mal, el ambiente era como que ya... (GA, extallerista y maquiladora; entrevista personal, 31 de agosto de 2019)"
+    ],
+    "\n",
+    "\n",
+    [
+     "p",
+     {},
+     "Sin embargo, la coerción no es suficiente para construir el grado de implicación que se requiere en el trabajo de confección donde la creatividad y el compromiso con la tarea son claves para superar la brecha entre la concepción de la prenda y su ejecución (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445002_ref16",
+       "id": "t-llamada-redalyc_775445002_ref16-1"
+      },
+      "Dejours, 2012"
+     ],
+     "). Por eso también se utiliza formas de reciprocidad desigual para construir consentimiento: los patrones dan regalos o concesiones a sus trabajadoras, esperando a cambio trabajo más comprometido a pesar de las condiciones laborales precarias. Fiestas, comidas, formación especializada en la producción de ciertas prendas, permisos de salida; buscan generar una deuda a las trabajadoras, que sienten la obligación de devolver esos dones al patrón. El dar se origina en la necesidad de sanar, conservar o ahondar el vínculo social: dar es proponer el vínculo o proponer reconstruirlo, recibir es aceptar la propuesta, pero para que el vínculo efectivamente se sostenga, quien recibe también tienen que devolver, en ese sentido el don es interesado y generoso al mismo tiempo (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445002_ref11",
+       "id": "t-llamada-redalyc_775445002_ref11-1"
+      },
+      "Caillé, 2010"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445002_ref24",
+       "id": "t-llamada-redalyc_775445002_ref24-1"
+      },
+      "Mauss, 1979"
+     ],
+     "). Las trabajadoras que reciben del patrón devuelven incrementando el ritmo de trabajo y aceptando condiciones laborales poco favorables."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "El compromiso de las trabajadoras en la ejecución de las tareas se construye como parte de una cadena de favores y deudas recíprocas dentro de la empresa. La constatación de este tipo de relación recíproca de dones en los andes ecuatorianos, no pretenden sostener el tipo de rasgo cultural que justifica modalidades de dominación contemporáneas, como ha sucedido, por ejemplo, en los talleres textiles de bolivianos en Buenos Aires  (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445002_ref2",
+       "id": "t-llamada-redalyc_775445002_ref2-1"
+      },
+      "Arcos, 2020"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445002_ref26",
+       "id": "t-llamada-redalyc_775445002_ref26-1"
+      },
+      "Colectivo Simbiosis Cultural, 2011"
+     ],
+     "). Busca más bien fundamentar la hipótesis de Mauss y los antiutilitaristas de que la economía del don se encuentra en todo intercambio entre personas incluso en las sociedades contemporáneas (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445002_ref24",
+       "id": "t-llamada-redalyc_775445002_ref24-2"
+      },
+      "Mauss, 1979"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445002_ref10",
+       "id": "t-llamada-redalyc_775445002_ref10-1"
+      },
+      "Caillé, 1996"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445002_ref6",
+       "id": "t-llamada-redalyc_775445002_ref6-1"
+      },
+      "Bey, 2011"
+     ],
+     "). Discute con ciertas corrientes que reconocen el don, pero lo reducen al puro interés; lo que resulta de una colonización total de la solidaridad por parte de la razón económica (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445002_ref7",
+       "id": "t-llamada-redalyc_775445002_ref7-1"
+      },
+      "Bourdieu, 1999"
+     ],
+     "), o la idea de que no pueden existir intercambios simétricos (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445002_ref10",
+       "id": "t-llamada-redalyc_775445002_ref10-2"
+      },
+      "Caillé, 1996"
+     ],
+     "). La historia de Los Andes muestra que el don es un híbrido entre generosidad e interés, y que cada relación de intercambio puede tener distintos grados de combinación de ambos aspectos."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Por ejemplo, en un taller por bulto, un jefe dadivoso con sus trabajadoras, que se había ganado su favor y respeto con regalos, decide externalizar la producción del taller para evitar el pago de la afiliación al seguro social: “...el señor nos dio a trabajar por obra, porque él decía que era de gana; que si nos aseguraba entonces él ya no nos daba a trabajar (...) y hay veces que por obra se sacaba un poco más.” (JPLTN, extallerista y maquiladora; entrevista personal, 2 de junio de 2022). «Dar» un trabajo es un regalo o favor importante en un mercado de trabajo con déficit de demanda, ese don fundamental permite al patrón para plantear un escenario sin salida: o todas se convierten en maquiladoras destajistas o ya no puede «darles» trabajo. De esa manera se libera todo compromiso legal con sus trabajadoras y evita pagar despidos y jubilaciones. El intercambio fue asimétrico, develando un mayor grado de interés en el dar del patrón que en el recibir y devolver de las trabajadoras."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "El régimen socio técnico en el taller por bulto construye consentimiento mediante la coerción que implica la amenaza de despido y un violento ambiente de trabajo, lo que comporta aspectos de la estructura del mercado de trabajo y la organización interna de la unidad productiva. Esto se matiza y complementa con formas de reciprocidad desigual que apaciguan el conflicto y hacen viable el vínculo en favor del patrono. Se nota la presencia de un proceso hegemónico, es decir, la tensión entre formas de resistencia cotidiana al trabajo (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445002_ref27",
+       "id": "t-llamada-redalyc_775445002_ref27-1"
+      },
+      "Scott, 1985"
+     ],
+     ") y las formas inestables y temporales cómo se organiza la dominación, combinando fuerza y consenso (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445002_ref13",
+       "id": "t-llamada-redalyc_775445002_ref13-1"
+      },
+      "Crehan, 2004"
+     ],
+     ")."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     ".."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n",
+     [
+      "span",
+      {},
+      "Taller formal: la supervisora reemplaza al patrón"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "La forma como se organiza el trabajo en el taller por bulto tiene dos efectos: 1- Stocks de bienes no terminados que pueden resultar un lastre improductivo para las finanzas de la empresa y 2- Abundancia de tiempos muertos. Por ello, en un afán de incrementar la productividad del capital se implementa el taller formal, un régimen socio técnico en el que se busca implementar la organización modular del trabajo con una estricta división de tareas y cadena de producción."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "span",
+     {
+      "id": "t-gt1"
+     },
+     "\n",
+     "\n",
+     [
+      "span",
+      {},
+      "Figura 2"
+     ],
+     "\n",
+     "\n",
+     "\n",
+     [
+      "span",
+      {},
+      "Taller por bulto y sistema modular"
+     ],
+     "\n",
+     "\n",
+     [
+      "figura",
+      {
+       "alt": "Taller por bulto y sistema modular"
+      }
+     ],
+     [
+      "br",
+      {}
+     ],
+     "\n",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Fuente: Elaboración propia."
+      ]
+     ],
+     "\n"
+    ],
+    "\n",
+    "\n",
+    [
+     "p",
+     {},
+     "En el módulo la primera trabajadora inicia la confección de la prenda y esta pasa de mano en mano (en zigzag) hasta que la última trabajadora de la cadena la termina. Se denomina formal porque en este tipo de talleres se cumple con los derechos laborales de las trabajadoras, hay contratos de trabajo y se pagan todas las prestaciones correspondientes a una relación de dependencia. Con esta modalidad de trabajo se logra eliminar los stocks de bienes intermedios o en proceso, porque se implementa el modelo «justo a tiempo». Pero no se consigue eliminar los tiempos muertos, por fallas en el sistema de incentivos o castigos."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "p",
+     {},
+     "...hay veces que dicen: «bueno, pasan del 100% [de la tarea diaria] y les pago 1 dólar» (...) se supone que, si son dos módulos, ellos [camisas de color negro] empezaron a sacar al 120%, claro, entonces, obviamente necesitaban ya pagarles. Pero sólo un módulo, el otro [camisas de color plomo] sacaron 100%. (…) y ya como ya vieron que el otro módulo no saca más del 100%, bueno pues, ahí fue la maña y dijeron: «no, es que los dos módulos tienen que sacarme…», ¡chuta!, o sea: «tanto camisas negras como plomas, tienen que sacar porque, si no, no hay paga...» (...) eso es maña, eso es maña, porque no quieren pagar… (DH, entrevista personal, 21 de abril de 2021)"
+    ],
+    "\n",
+    "\n",
+    [
+     "p",
+     {},
+     "Para animar el flujo los patrones ofrecen premios que no cumplen y amenazan con castigos que tampoco ejecutan: “...siempre hay esa amenaza de la supervisora general, que les va a descontar las eficiencias. Pero llegado al hecho, nunca han descontado, entonces, uno como que también dice: «ah bueno, si no descuentan, qué me importa»” (DH, entrevista personal, 21 de abril de 2021). Cuando hay incertidumbre o falta de control sobre el resultado final, tanto incentivos económicos como castigos pierden efectividad (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445002_ref9",
+       "id": "t-llamada-redalyc_775445002_ref9-2"
+      },
+      "Burawoy, 1989"
+     ],
+     "). Esa estrategia de los patrones busca eludir el conflicto vertical al mismo tiempo que promueve el conflicto lateral: son las supervisoras las encargadas de construir implicación y consentimiento en el módulo."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Para hacerlo la amenaza de despido o coerción estructural es la herramienta más fuerte, mientras tienen impacto medio la violencia (insultos y denigración). La agresión sistemática es matizada por la presencia de otras supervisoras que utilizan más bien la reciprocidad desigual con las trabajadoras para construir consenso: la supervisora no informa de ciertas falencias de las costureras, les enseña con paciencia y dedicación el oficio, se identifica con ellas, hace vocería frente a los jefes y en contraprestación demanda compromiso y mayor productividad en el trabajo. A pesar de ello los tiempos muertos siguen siendo un espacio de resistencia al trabajo y de alivio frente al peso del flujo productivo."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "La “modernización” productiva en el taller modular formal busca disminuir la importancia de las formas de intercambio recíproco e intenta fortalecer, sin mucho éxito, formas despersonalizadas de construcción de consentimiento. La economía del don persiste, sin embargo, como una forma de sostener el vínculo ante las formas agresivas de disciplinamiento, y como una herramienta de construcción de consentimiento en manos de las supervisoras ante el fallido sistema de premios y castigos implementado por la dirección. La relación recíproca se traslada de la relación vertical (dirección-trabajadoras) a la lateral (entre trabajadoras)."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "La coerción estructural con la amenaza de despido es fuerte en la construcción del consentimiento en el taller formal, impacto medio tiene la violencia verbal en la unidad productiva, en igual medida que las formas de reciprocidad desigual. Se intenta implementar mecanismos que organizan las condiciones previas a la acción, a través del módulo con tareas fragmentadas y flujo continuo de la producción, pero tienen impacto bajo en la construcción de consentimiento por el deficiente sistema de premios y castigos. Cabe mencionar que el carácter formal de la relación laboral disuade el uso de mecanismos ilegales de castigo para incrementar la productividad y eliminar tiempos muertos, mecanismos propios de las relaciones informales, como se verá más adelante."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Aquí el proceso hegemónico implica el desplazamiento de la figura del patrón por el de la supervisora, como una forma de apaciguar el conflicto vertical, esquivándolo y volviéndolo lateral, los resultados no alcanzan las expectativas de los empleadores por lo que hay fuerte rotación de personal y tendencia a externalizar o volver informal el vínculo laboral."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n",
+     [
+      "span",
+      {},
+      "Módulo informal: «el policía está en el flujo»"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Para eliminar los tiempos muertos del taller formal se implementa el módulo informal. Se denomina así porque mediante la vulneración de los derechos laborales y la creación de relaciones laborales atípicas o informales, logran implementar mecanismos ilegales para la eliminación de tiempos muertos."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Constituyen el grueso de los talleres textiles, suelen ser más pequeños que los talleres formales y varios tienen su propia marca, aparte de ser subcontratados por talleres o empresas más grandes. Subcontratan a su vez maquiladoras cuando su capacidad productiva no logra abastecer la demanda. Son el eslabón intermedio entre la formalidad y la entera informalidad de la maquila."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Como no hay contratos de trabajo ni formalización alguna de la relación de dependencia, el miedo al despido sigue siendo un aspecto fuerte que condiciona el compromiso de las trabajadoras con su labor. Pero lo decisivo no es la pura coerción sino una forma mixta entre fuerza y consenso. La forma consensual es la adecuación de las condiciones previas a la acción, es decir, se organizan de tal manera las prácticas dentro del taller que conceden espacios mínimos de decisión a las trabajadoras, sin vulnerar los objetivos de la empresa, con lo que se logra la «implicación forzada» (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445002_ref18",
+       "id": "t-llamada-redalyc_775445002_ref18-2"
+      },
+      "Durand, 2011"
+     ],
+     "), un fuerte compromiso con la producción y las necesidades empresariales que aparentemente surge de la voluntad propia de las costureras."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "p",
+     {},
+     "...en «Hoja Verde» ponte, ahí era la presión, ahí no es que te esperan: ahí toman la hora, dicen: «tantas prendas por hora», nos tomaban la tarea individual, decía: «tienes que cerrarme tantos costados, tienes que pespuntarme todo esto», decían. Y si no sacabas, pues, ahí sí, ya no se ganaba horas extra. Ahí te timbraban la tarjeta, decía «verá usted me debe tanto: es una, dos horas». A veces nos quedábamos hasta las siete, como entrábamos de siete de la mañana a tres y media de la tarde y ahí si ya: las dos horas que te quedabas era para pagar, para terminar lo que no se cumplió... (GA, extallerista y maquiladora, entrevista personal, 21 de septiembre de 2019)"
+    ],
+    "\n",
+    "\n",
+    [
+     "p",
+     {},
+     "El testimonio describe la implementación de las «deudas de tiempo»: se establece una tarea diaria, un número de prendas que debe ser confeccionada por el grupo de trabajo en cada módulo, si al finalizar la jornada de ocho horas no se ha cumplido la tarea se entiende que las trabajadoras le deben tiempo a la empresa, deben timbrar tarjeta como si ya terminara su jornada y volver a sus puestos a seguir trabajando sin pago de horas extra hasta terminar la tarea prefijada."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "La mayoría de las costureras necesita volver a sus casas para ver a sus hijos y asumir las tareas de cuidado, quedarse después de la jornada perjudica a todas, por lo que la presión para incrementar la implicación y los ritmos en el trabajo provienen de las necesidades propias. Se constituye así un flujo tenso de trabajo (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445002_ref18",
+       "id": "t-llamada-redalyc_775445002_ref18-3"
+      },
+      "Durand, 2011"
+     ],
+     "): eslabón tras eslabón de la cadena productiva, las costureras se demandan mutuamente rapidez y calidad en el trabajo para no retrasar la producción de todo el grupo. Todas tienen la sensación que incrementan el ritmo de trabajo por decisión propia y en atención a sus propios intereses. El módulo reemplaza a la supervisora, el empleador ahorra gastos de control de personal y el conflicto se vuelve enteramente lateral. La despersonalización de la relación vertical vuelve menos importante la presencia de dones y vínculos recíprocos."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Podría verse en el esfuerzo colectivo para alcanzar la meta una suerte de juego que acarrea «satisfacciones relativas» para las trabajadoras, un juego colectivo donde consiguen juntas alcanzar una meta inaccesible hasta entonces. Sin embargo, estas satisfacciones relativas podrían entenderse más bien como «satisfacciones represivas», como sugiere Burawoy (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445002_ref9",
+       "id": "t-llamada-redalyc_775445002_ref9-3"
+      },
+      "1989"
+     ],
+     ", p. 107) citando a Marcuse, porque cuando las costureras alcanzan una intensidad suficiente para cumplir la tarea establecida en la jornada de ocho horas, las empleadoras aumentan la presión estableciendo una tarea mayor:"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "p",
+     {},
+     "...hay una empresa llamada «Cornejo», ahí te juro que nunca vi una hora extra y eso que nos sacaban el aire, a veces nos atajaba yo qué sé, hasta las diez de la noche o una de la mañana, a veces nos quedábamos a dormir ahí mismo y así mismo al otro día a levantarse y a seguir; ¿rol de pagos? ni una hora extra... (GA, extallerista y maquiladora, entrevista personal, 21 de septiembre de 2019)"
+    ],
+    "\n",
+    "\n",
+    [
+     "p",
+     {},
+     "En este sentido los juegos “...se desarrollan dentro de límites definidos por la necesidad de salarios mínimos y márgenes aceptables de beneficios. (...) no solo reproducen la sumisión voluntaria (el consentimiento), sino también una mayor riqueza material.” (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445002_ref9",
+       "id": "t-llamada-redalyc_775445002_ref9-4"
+      },
+      "Burawoy, 1989, p. 107"
+     ],
+     "). El costo del juego sería la apropiación y acrecentamiento de la plusvalía generada."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "El flujo tenso se implementa como una mezcla de formas post tayloristas de organizar el trabajo (módulo de flujo tenso) junto al mecanismo ilegal de prolongar de manera indefinida la jornada mediante las «deudas de tiempo». El resultado es trabajar más, de manera más intensa, con implicación y compromiso renovado en el cumplimiento de la tarea."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "p",
+     {},
+     "...el asalariado atrapado en el torbellino del flujo tenso, se moviliza y se implica porque no tiene elección (...) estos imperativos parecen naturales a los ojos del asalariado (...) no están ya mediados por una persona (el jefe) sino que se inscriben en la necesidad de mantener la tensión del flujo productivo (...) los imperativos aparecen como exteriores al mundo social o económico. (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445002_ref18",
+       "id": "t-llamada-redalyc_775445002_ref18-4"
+      },
+      "Durand, 2011, p. 75"
+     ],
+     ")"
+    ],
+    "\n",
+    "\n",
+    [
+     "p",
+     {},
+     "Si el imperativo es externo a la relación social, no se la siente como coercitiva, pero al mismo tiempo que se cierran las alternativas de elección, se fomenta la sensación de estar eligiendo:"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "p",
+     {},
+     "...es tu decisión si te demoras [en el baño] o no te demoras. Pero si te demoras pues ya está ahí abultado lo que tienes que hacer; ahora, si estas atrasada, pues, a lo que es necesario y córrete de una...o te aguantas un rato hasta acabar. (GA, entrevista personal, 21 de septiembre de 2019)"
+    ],
+    "\n",
+    "\n",
+    [
+     "p",
+     {},
+     "Es clara la implicación de la voluntad de la trabajadora en la eliminación de los tiempos muertos, ir al baño se vuelve una «decisión» enmarcada y limitada por el imperativo productivista. Las relaciones interpersonales juegan un papel menor, mientras las formas impersonales como el temor al despido y la presión propia del flujo tenso son centrales en la construcción de consentimiento."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "En ese contexto las relaciones de intercambio recíproco pierden importancia relativa en el vínculo vertical (dirección - trabajadoras), pero persisten en los vínculos laterales, pues de la reciprocidad en el flujo de trabajo, es decir: de la cooperación mutua depende el cumplimiento de la tarea. Estos vínculos, sin embargo, está marcados por un grado mayor de interés que por la solidaridad, en tanto cada compañera de módulo asume el papel de supervisora del trabajo de las otras, exigiendo calidad y rapidez en la tarea parcial. La despersonalización del vínculo laboral implica también una despolitización de la vida en la planta de producción. Las trabajadoras no tienen formas de organización colectiva, los sindicatos son perseguidos y anulados, la amenaza de despido en estas condiciones de inestabilidad laboral es suficiente para desincentivar cualquier tipo de manifestación organizada de las trabajadoras. Y sin embargo persisten formas mínimas y esporádicas de resistencia."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "p",
+     {},
+     "...le digo, «de ¿dónde sacan los tiempos?» y a veces me decían, «pero tú eres peleona». «No me enojo, pero es que sólo dime», le digo: «sé consiente ¿cuántas personas estamos? (…) sólo miraba al ojo y decía: «mmm, póngale tanto» ... o sea, ¡póngale el tiempo al ojo!, y digo «¿cómo va ser el tiempo al ojo?», si se supone que tiene que ver, medir, cronometrar. (GA, extallerista y maquiladora, entrevista personal, 21 de septiembre de 2019)"
+    ],
+    "\n",
+    "\n",
+    [
+     "p",
+     {},
+     "Los tiempos muertos como forma de resistencia desaparecen y apenas hay un atisbo crítico en la forma cómo las trabajadoras reclaman por la forma de cálculo de los tiempos en los que se debe realizar cada actividad fragmentada para la confección de una pieza. En todo el trabajo de campo sólo se logró registrar una acción colectiva de resistencia explícita a las directrices de la patronal en un taller informal:"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "p",
+     {},
+     "Sí, se extiende [la jornada], a veces, hasta el sábado. De tanto pelear, se reducía hasta las cuatro y treinta. Decíamos: «todos nos levantamos a las cuatro y treinta», «ninguna se queda en la máquina, ¡verás!». Nos organizábamos todos, porque a veces querían que nos quedemos hasta más tiempo (...) querían incluso ponerse de acuerdo para trabajar domingos, pero ya no aceptamos (...) o sea, la familia ya se le deja aparte o sea ya no se la ve. (…) Se levantaron toditas y el ingeniero, «¿por qué no siguen trabajando?» y se enojó, pero nosotras no hicimos caso y nos salimos. (GA, extallerista y maquiladora, entrevista personal, 21 de septiembre de 2019)"
+    ],
+    "\n",
+    "\n",
+    [
+     "p",
+     {},
+     "Las trabajadoras desafían juntas la intensión de aumentar la jornada del sábado más allá de las 16:30 h y contra la idea de trabajar los domingos. Priman las responsabilidades de cuidado, la misma razón que vuelve efectivo el mecanismo impersonal de la deuda de tiempo. Es claro que todo proceso hegemónico tiene su límite, y puede encontrarlo incluso en aquello que usa para ser efectivo, en este caso, la necesidad de las costureras de tener tiempo para cuidar a sus familias."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n",
+     [
+      "span",
+      {},
+      "Maquila: encubrir la relación laboral"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "A pesar de la eficiencia del módulo de flujo tenso para reducir tiempos muertos y eliminar stock mediante el «justo a tiempo», las condiciones estructurales del mercado de trabajo textil permiten a las patronas reducir aún más sus costos e incluso trasladar algunos de ellos a las trabajadoras mediante la producción deslocalizada. Muchos patrones presionan por convertir a sus talleristas en maquiladoras domiciliarias pagadas a destajo."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "p",
+     {},
+     "...me embaracé y entonces ya no podía trabajar en la empresa, así que, como mis patrones me liquidaron, mi jefe me dio una opción, dice: «te vamos a liquidar y mira si te compras la maquinaria, para que te lleves el trabajo a la casa». Y entonces como ya no podía trabajar con el bebé; se me hizo difícil pues no tenía con quién dejarle; entonces dije «bueno» y acepté eso. Entonces desde ahí trabajo aquí en la casa. (MC, extallerista y maquiladora, entrevista personal, 3 de junio 2022)"
+    ],
+    "\n",
+    "\n",
+    [
+     "p",
+     {},
+     "A primera vista parece una decisión voluntaria y conveniente para la trabajadora. Pero encubre la costumbre de despedir a las mujeres embarazadas, usan esa coyuntura para externalizar a la trabajadora. Hasta ese momento ella era reconocida como parte de la planta, el embarazo permite colocarla en una situación en la que sigue haciendo el mismo trabajo, pero ahora sin contrato, sin reconocimiento de ningún derecho laboral y con salario por pieza. En el testimonio parece que el empleador le está haciendo un favor al facilitar su tránsito al trabajo domiciliario."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "En otras ocasiones este tránsito no es amigable:"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "p",
+     {},
+     "...conozco una señora, que ella es antigua, más antigua que yo, creo que trabaja como 10 años; y ahorita, bueno, ahorita han cogido tema de que vamos a hacer la vida imposible a todos los antiguos y bueno pues, vamos a hacer despechar para no pagar liquidaciones, y así. (DH, supervisora, entrevista personal, 21 de abril de 2021)"
+    ],
+    "\n",
+    "\n",
+    [
+     "p",
+     {},
+     "Hay una consigna clara desde la dirección de la empresa a las supervisoras, para que a través de un comportamiento agresivo fuercen a las trabajadoras a separarse «voluntariamente» de la empresa. Este mandato responde a la necesidad de eludir el pago de indemnizaciones en el corto plazo, pero de manera central, buscan eludir el pago de la jubilación patronal que se hace efectiva a los veinte años de servicio, por ello la política es no mantener bajo relación de dependencia a costureras más de diez años."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "span",
+     {
+      "id": "t-gt3"
+     },
+     "\n",
+     "\n",
+     [
+      "span",
+      {},
+      "Figura 3"
+     ],
+     "\n",
+     "\n",
+     "\n",
+     [
+      "span",
+      {},
+      "Composición etaria de talleristas y maquiladoras en la confección textil. Quito, 2018"
+     ],
+     "\n",
+     "\n",
+     [
+      "figura",
+      {
+       "alt": "Composición etaria de talleristas y maquiladoras en la confección textil. Quito, 2018"
+      }
+     ],
+     [
+      "br",
+      {}
+     ],
+     "\n",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Fuente: ENEMDU acumulada 2018, INEC. Elaboración propia."
+      ]
+     ],
+     "\n"
+    ],
+    "\n",
+    "\n",
+    [
+     "p",
+     {},
+     "La figura3 muestra la tendencia a emplear en los talleres textiles a mujeres jóvenes, mientras que la maquila emplea a costureras maduras que ya han trabajado antes en talleres textiles con los cuales mantienen aún relaciones laborales. Lo que en principio aparece como dos modalidades distintas de trabajo en la confección textil, el taller y la maquila, se reveló en el estudio de las trayectorias laborales de las costureras, como dos fases por las que circulaban todas las trabajadoras indistintamente de sus diferencias socio demográficas."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "p",
+     {},
+     "...a veces mandan a la casa, ahí en la casa es peor que la empresa. Yo sé que la empresa hago una sola cosa y vuelta en la casa, hago todo. (...) Más cansado, trabajaba veces desde las cinco de la mañana hasta las once de la noche, bien, bien explotado en la casa. No, casi no les atendía a mis hijos, ni a mi marido... (LT, extallerista y maquiladora, entrevista personal, 11 de mayo de 2022)"
+    ],
+    "\n",
+    "\n",
+    [
+     "p",
+     {},
+     "A la presión patronal para abandonar el taller (que a veces toma la forma de crédito para comprar las máquinas y ofrecimiento de contratos continuados de maquila), se suma el deseo de las costureras de tener más tiempo para cuidar a sus hijos,",
+     [
+      "sup",
+      {},
+      "1"
+     ],
+     " e incluso romper con el vínculo opresivo con supervisoras y patrones en el taller.",
+     [
+      "sup",
+      {},
+      "2"
+     ],
+     " Sin embargo, ambas promesas: autonomía y tiempo para la familia son promesas incumplidas para la mayoría de ellas. Ellas cuentan que tienen jornadas más largas, auto presión para incrementar la intensidad del trabajo, relación redoblada de arbitrariedad patronal (multas, rechazo del trabajo, obligación de pagar el material que según el empleador fue dañado por la trabajadora), y escaso tiempo para atender a los hijos."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "La maquila, en cambio, trae una serie de ventajas para los patrones 1. Al no trabajar en la planta de la empresa sino en sus casas, los patrones no asumen el pago de arriendo, electricidad, agua y lo trasladan a las trabajadoras, 2. La inversión en maquinaria industrial, mantenimiento y renovación es trasladado a la trabajadora; 3. Al no tener un vínculo físico con la empresa es más fácil encubrir la relación de dependencia laboral y por tanto eludir los pagos correspondientes por derechos laborales; 4. Las costureras consienten pagos atrasados con varios meses con lo que asumen o comparten los riesgos comerciales y financieros de sus patronos; 5. Los costos administrativos y de construcción de consentimiento son trasladados a las costureras, ya no hay personal de supervisión, ni esfuerzos técnico administrativos para organizar el trabajo."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Se rompe toda responsabilidad del patrón con la trabajadora, aunque esta sigue valorizando al mismo capital. La costurera es convertida en una empresa unipersonal supuestamente \"autónoma\" que asume costos, riesgos y renuncia a todo derecho laboral. Se diseña las condiciones previas de la acción, es decir, el consentimiento de las maquiladoras se construye principalmente a través de la forma como se organiza su vínculo laboral."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "p",
+     {},
+     "...tengo que tratar de sacar más cantidad, para poder ver el valor; y para ver más producción uno se amanece, se va «dale y dale». (...) Cuando yo cojo maquila, a veces hasta me desvelo, o sea, le doy, le doy, sin descansar. A veces me quedo dormida dos horitas y sigo. Como le digo, por mí misma, por ganarse un poco más. Entonces, ahí uno se ve algo de dinero, de ahí de hacer de poco en poco, y por lo poco que nos pagan, no sale. (...) en la maquila, ya tenemos que ver nosotros cómo sacar la producción, y si queremos ganar más, ya es cuestión de nosotras. (SCSZ, maquiladora y extallerista, entrevista personal, 17 de noviembre de 2020)"
+    ],
+    "\n",
+    "\n",
+    [
+     "p",
+     {},
+     "Los ritmos y la jornada laboral se incrementan mediante el salario a destajo (mientras más se produce más se gana): “...te ponen plazo de entrega, si no entregas tal día, te jodes, te multan. Y a veces te reciben o no te reciben, y ya ahí, tienes que pagar tú [el valor del material desperdiciado en la prenda rechazada].” (GA, extallerista y maquiladora, entrevista personal, 5 de septiembre de 2019). La intensidad e implicación en el trabajo se refuerzan mediante la devolución de prendas, cobro de multas, o del valor íntegro de la prenda si no pasa los estrictos controles de calidad. El trabajo a destajo es una variante de la implicación forzada por deuda de tiempo. Mientras más impersonal es la relación laboral, tanto más actúan las formas de voluntad forzada por las condiciones previas de la acción: la ausencia de la figura del patrono en la remuneración a destajo, internaliza el mandato productivista."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Tiene un peso importante también en la construcción de consentimiento la coerción estructural, que aquí toma la forma de la pérdida de clientes, equivalente a la amenaza de despido. La dificultad de conseguir trabajo en los talleres a determinada edad, y la precariedad del vínculo con los empleadores de maquila condiciona conductas favorables a trabajar más y en condiciones poco adecuadas."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Si bien Burawoy no considera que la experiencia biográfica de los trabajadores en su caso de estudio sea relevante en la construcción de consentimiento, porque este se organiza dentro de la unidad productiva y con una incidencia menor de la estructura del mercado de trabajo, también sostienen que:"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "p",
+     {},
+     "En los procesos productivos menos protegidos (…), hay un margen mayor para que los factores externos ejerzan influencias sobre el comportamiento de los trabajadores (…) en épocas de crisis, locales o generales, en las que el sistema hegemónico entra en quiebra, la conciencia de las personas y la personalidad que han adquirido cobran una importancia decisiva en la determinación de sus actitudes. (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445002_ref9",
+       "id": "t-llamada-redalyc_775445002_ref9-5"
+      },
+      "Burawoy, 1989"
+     ],
+     ", pp. 245-246)"
+    ],
+    "\n",
+    "\n",
+    [
+     "p",
+     {},
+     "Como la responsabilidad completa sobre la producción recae en cada costurera, los rasgos biográficos son relevantes pues la experiencia previa marca la forma como, en soledad, la trabajadora enfrenta la producción."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "p",
+     {},
+     "...nos castigaban a veces cuando no dábamos las lecciones bien, nos arrodillaban, nos poníamos unos ladrillitos en las manos, [para] que estén ahí arrodilladas, durante la hora de la clase (...) Frente de todos los compañeros nos sabían poner las orejas de burro [risas], nos sabían decir «el burro» y nos hacían como las señas de las orejas de burro. (MGUE, tallerista, entrevista personal, 15 de marzo de 2021)"
+    ],
+    "\n",
+    "\n",
+    [
+     "p",
+     {},
+     "La mayoría de las costureras entrevistadas sufrieron violencia en la escuela primaria, fueron golpeadas en sus casas como correctivo por sus propios padres, vivieron situaciones de pobreza en barrios precarios y en casas que no contaban siquiera con los servicios básicos. Se registraron varias formas de abandono temprano, desde niñas «regaladas» a otras familias, hasta la ausencia paterna y materna por largas horas dedicadas al trabajo. La vida adulta les propone un mercado de trabajo precario, un nulo sistema de protección social y un contexto vital marcado por la violencia de las bandas delictivas que, en los barrios que habitan, controlan el tráfico de drogas, la extorsión y el uso de la fuerza."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "¿Cómo incide la experiencia personal en mujeres que trabajan solas en su domicilio, sin una relación de dependencia reconocida, sin derechos laborales ni contrato de trabajo, cuyo salario está inmediatamente atado a su productividad?  El dolor, sea este físico o subjetivo, es una señal del cuerpo dirigida al propio sujeto con un mensaje urgente: buscar una solución para evitarlo (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445002_ref22",
+       "id": "t-llamada-redalyc_775445002_ref22-1"
+      },
+      "Heller, 2004"
+     ],
+     "). Parece que la experiencia vital de las costureras les enseñó tempranamente a evitar pensamientos o conductas por fuera de las reglas de la relación de subordinación que habitaban: con sus padres, en la escuela, el barrio y posteriormente en el lugar de trabajo. Evitar lo que causa dolor es fundamental para preservar la vida en contextos violentos, sea en sentido físico, verbal o económico. El dolor cumple una función social que es construir la sujeción «voluntaria» a la norma que garantiza la estabilidad de las relaciones de dominación y explotación (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445002_ref1",
+       "id": "t-llamada-redalyc_775445002_ref1-1"
+      },
+      "Ahmed, 2015"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445002_ref3",
+       "id": "t-llamada-redalyc_775445002_ref3-1"
+      },
+      "Ariza, 2016"
+     ],
+     ")."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Frente a un mercado de trabajo deficitario, a relaciones laborales precarizadas, las trabajadoras construyen vías subjetivas para vivir el dolor: “...me conformo porque por lo menos tengo trabajito. (JPLTN, extallerista y maquiladora; entrevista personal, 2 de junio de 2022). “Es que cuando hay trabajo, pues, hay que hacerlo, no toca de otra” (LT, extallerista y maquiladora, entrevista personal, 11 de mayo de 2022). “... [E]stamos aquí es porque ya somos, creo, ¿cómo se dice?… hechas al dolor” [risas]. (DH, supervisora, entrevista personal, 21 de abril de 2021)."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Lejos de una mera reacción mecánica a la estructura o la organización del trabajo en la unidad productiva, las costureras refieren actos de elaboración del dolor: «hacerse al dolor» es una actividad. Implica edulcorar los recuerdos de una infancia dura y precaria, u «olvidar» el dolor propio y ajeno del presente, que podría paralizar la producción en el día a día (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445002_ref17",
+       "id": "t-llamada-redalyc_775445002_ref17-1"
+      },
+      "Dejours, 2013"
+     ],
+     "). Un conjunto de estrategias individuales y colectivas que buscan “…ocultar una cierta dimensión del trabajo para poder seguir realizándolo” (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445002_ref20",
+       "id": "t-llamada-redalyc_775445002_ref20-1"
+      },
+      "Gaignard, 2022"
+     ],
+     "). Elaborar el dolor es el grado de agencialidad que su situación material permite."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "La relación despersonalizada en el trabajo urge una gestión individual de los afectos implicados en la producción, pero al mismo tiempo reposiciona el conflicto vertical entre trabajadora y un empleador."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "p",
+     {},
+     "…estaba habiendo una injusticia en el trabajo, estaban pagándonos a un precio que no se debía pagar, entonces, yo hablé con los patronos, les dije: «¿saben qué?, a mí no me conviene» y entonces, las otras señoras maquiladoras, que recién entraban a la empresa, se opusieron, dijeron «nosotras estamos satisfechas del trabajo, porque hay trabajo». Y yo les digo: «yo estoy satisfecha por lo que trabajo, pero por la paga de esas prendas, no estoy satisfecha». Entonces a mis jefes les dije eso, y dijo: «pero sólo usted se queja», «mire las señoras delante de usted me dijeron, yo de mi parte estoy satisfecha y agradecida, dijeron». (MC, extallerista y maquiladora, entrevista personal, 3 de junio 2022)"
+    ],
+    "\n",
+    "\n",
+    [
+     "p",
+     {},
+     "La maquiladora del testimonio anterior reclama por las tarifas reducidas, pero no encuentra apoyo en sus compañeras. Ella distingue entre “estar contenta por tener un trabajo” y “estar contenta con las condiciones de ese trabajo”, de ahí su reclamo. Pero sus compañeras presionadas por el desempleo estructural prefieren aceptar las condiciones precarias antes que perder la posibilidad de trabajar. La dificultad de organización entre las trabajadoras para realizar acciones colectivas, surge de la aparente diferencia de intereses entre ellas."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "La relación laboral en la maquila aparece marcada por la coerción directa, sin embargo, esta no es suficiente para lograr el grado de implicación técnica, creatividad y resolución de contingencias en la producción que se requiere, mucho menos en el trabajo a domicilio donde el proceso de ejecución está enteramente en manos de la costurera y le demanda mayores grados de inventiva y compromiso. En este tipo de relación laboral, la más despersonalizada de las aquí descritas, retornan las formas de reciprocidad desigual para la construcción de consentimiento."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "p",
+     {},
+     "Sí, siento gratitud, (...), sí siempre, toda la vida he sentido gratitud porque son unas personas… ¿cómo digo?: mis jefes son demasiado buenos. Cuando yo di a luz a mi hijito, me llamaron a la empresa, me dijo: «¿qué va a ser el bebé?», le digo: «es varón» y dice: «ya, bueno, baje». Y me faltaba dos días para dar a luz, así que me habían tenido tres costales, así de esos saquillos grandes de ropa, ¡tres!... (MC, extallerista y maquiladora, entrevista personal, 3 de junio 2022)"
+    ],
+    "\n",
+    "\n",
+    [
+     "p",
+     {},
+     "Quienes emplean maquila tienden a dar regalos a sus trabajadoras, el don retorna como forma de reconstruir el vínculo dañado por la relación coercitiva y despersonalizada. En una defensa de la flexibilización de las relaciones laborales Sennett (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445002_ref28",
+       "id": "t-llamada-redalyc_775445002_ref28-1"
+      },
+      "2005"
+     ],
+     "), sostiene que los lazos débiles son beneficiosos para los trabajadores, vínculos marcados por el desapego y la despersonalización, permiten mayor circulación y acceso a la información de mercado, así como mayor capacidad de incidir en la conducta del otro. Siguiendo a Granovetter (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445002_ref21",
+       "id": "t-llamada-redalyc_775445002_ref21-1"
+      },
+      "2000"
+     ],
+     ") sostiene que los lazos fuertes de amistad o familiaridad que implican compromiso de cuidado mutuo, encierran a las personas en un círculo estrecho, restándole opciones y recursos en el mercado. Sin embargo, Granovetter sostiene esta idea para “…vínculos positivos y simétricos…” (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445002_ref21",
+       "id": "t-llamada-redalyc_775445002_ref21-2"
+      },
+      "Granoveter, 2000"
+     ],
+     ", p. 53), por lo que resulta inaplicable a la mayoría de vínculos laborales que son negativos y asimétricos, en tanto implican desigualdad de acceso a recursos, explotación económica y dominación política."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Lejos de la promoción de los lazos débiles, en la relación entre maquiladora y empleador, se busca el espesor de las relaciones mediante el don recíproco, lo que redunda en gratitud y devolución en trabajo esforzado."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "p",
+     {},
+     "...una sí siente gratitud a esas personas, el día de la mujer nos traían pastel, en Navidad me acuerdo que nos daban quintal de arroz, uno de azúcar, en Navidad siempre tenemos la comidita en la empresa, maquiladoras y trabajadoras. Igual, a veces nos llevan de paseo. (MC, extallerista y maquiladora, entrevista personal, 3 de junio 2022)"
+    ],
+    "\n",
+    "\n",
+    [
+     "p",
+     {},
+     "Los lazos fuertes en la maquila construidos mediante la reciprocidad asimétrica entre patronas y trabajadoras, alivia la angustia de falta de control directo de parte de algunos empleadores. En otros casos el dar se vuelve una manera de aliviar el sufrimiento moral (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445002_ref17",
+       "id": "t-llamada-redalyc_775445002_ref17-2"
+      },
+      "Dejours, 2013"
+     ],
+     ")de las patronas conscientes del proceso de explotación laboral al que someten a las costureras:"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "p",
+     {},
+     "...en realidad todo lo que yo tengo es por ellas [las maquiladoras], entonces yo me debo a ellas, saber que la comodidad de la que yo disfruto, mis hijas, es por ellas. Yo sé, ellas cobran su trabajo y yo les pago, pero ese trabajo es el que nos ha hecho crecer... (NM, empleadora, entrevista personal, 16 de mayo de 2019)"
+    ],
+    "\n",
+    "\n",
+    [
+     "p",
+     {},
+     "El don comporta diferentes grados de interés y solidaridad combinados, es necesario evaluar caso por caso. Sin embargo, en las relaciones laborales descritas el interés de asegurar y encubrir la extracción de plusvalía, así como de incrementar el compromiso e intensidad del trabajo, subordina la solidaridad en la relación recíproca. Los patrones se sienten en la obligación de dar como forma de conservar el vínculo: el trabajo especializado que las maquiladoras realizan y el vínculo de confianza que han construido durante su estancia en el taller, lleva a que los patrones cuiden la relación. Las maquiladoras, por su parte, sienten obligación de recibir los regalos o atenciones de sus patrones para no generar disgusto en ellos; luego de recibido el don, tienen la obligación de devolver con trabajo esforzado. Se cumplen las tres obligaciones de las relaciones recíprocas según el esquema de Mauss (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445002_ref24",
+       "id": "t-llamada-redalyc_775445002_ref24-3"
+      },
+      "1979"
+     ],
+     "): dar, recibir y devolver."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "En la maquila se construye el consentimiento en un contexto de alta individualización causada por la externalización productiva. Con el encubrimiento de la relación de dependencia las trabajadoras domiciliarias se ven presionadas por la lógica despersonalizada del mercado laboral, el miedo a perder el trabajo; pero también por la presión económica del trabajo a destajo, es decir, una organización de la producción con arreglo previo de las condiciones de la acción, lo que reduce al máximo sus alternativas. El producto es una forma coercitiva de consentimiento que reactiva el conflicto vertical en condiciones poco favorables para las trabajadoras. En tales circunstancias la experiencia biográfica podría jugar un papel en la forma como se resiste a las presiones psicológicas que infringe el dolor para continuar trabajando. La reciprocidad desigual actúa como un medio para reconstruir el vínculo humano roto por la presión laboral, habilitando lazos fuertes que dan más seguridad a los empleadores y resultan relativamente más duraderos para las maquiladoras."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n",
+     [
+      "span",
+      {},
+      "Conclusiones"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "La construcción del consentimiento en el trabajo se parece más a un proceso hegemónico, antes que a un logro permanente y duradero. Hay resistencia de parte de las trabajadoras y una renovación constante de los regímenes socio técnicos por parte de los patrones en busca de construir condiciones de mayor compromiso, creatividad e intensidad en la ejecución de las tareas."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Se detectaron cuatro herramientas socio técnicas usadas para ese fin: 1. Coerción estructural: la amenaza creíble de despido debido al carácter deficitario del mercado de trabajo; 2. Violencia dentro de la unidad productiva: gritos, insultos, amenazas reiteradas; 3. Formas de reciprocidad desigual, donde los dones entregados por los empleadores buscan reconstituir el vínculo roto por la violencia personal y estructural, en busca de mayor implicación en el trabajo; 4. Organización previa de las condiciones de la acción, mecanismos de organizar el proceso de trabajo que abren la puerta a espacios mínimos de decisión de los trabajadores, sin vulnerar los objetivos empresariales, más bien dando viabilidad a su cumplimiento irrestricto."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Se combinan para construir consentimiento tanto medios coercitivos como formas consensuales. En este sentido, hegemonía no refiere solo a la construcción pacífica de acuerdos, sino a la combinación en distintos grados de fuerza y consenso, los cuales, se concretan en formas alternativas o combinadas de organizar la producción: taller por bulto, taller formal, taller informal y maquila."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Los distintos regímenes socio técnicos tienden a individualizar la producción, siendo el punto culminante la externalización o deslocalización de las trabajadoras. En este sentido la individualización es un producto de la forma cómo se organiza el trabajo y no un mero fenómeno subjetivo, cuyo efecto es la fragmentación de los colectivos laborales y por tanto un obstáculo más para la acción colectiva."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "El proceso hegemónico en el vínculo laboral, inacabado y en constante movimiento, es también una muestra de cómo el interés convive con la solidaridad, en lazos que no se disuelven del todo en ningún momento. Toda relación humana, al estilo de Mauss (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445002_ref24",
+       "id": "t-llamada-redalyc_775445002_ref24-4"
+      },
+      "1979"
+     ],
+     "), es un híbrido entre el cálculo económico y el dar generoso."
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-back"
+    },
+    "\n",
+    [
+     "p",
+     {},
+     "\n",
+     [
+      "span",
+      {},
+      "Referencias"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445002_ref1"
+     },
+     "Ahmed, S. (2015).",
+     [
+      "span",
+      {},
+      "La política cultural de las emociones"
+     ],
+     ". Programa Universitario de Estudios de Género, Universidad Nacional Autónoma de México."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445002_ref2"
+     },
+     "Arcos, A. (2020). El incendio de “Luis Viale”: Un caso sobre migración y organización de la producción en los talleres de costura. En A. Matta y J. Montero Bressán (Eds.), ",
+     [
+      "span",
+      {},
+      "¿Quién hace tu ropa? Estudios sobre la industria de la indumentaria en Argentina"
+     ],
+     " (pp. 131–156). Prometeo Libros."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445002_ref3"
+     },
+     "Ariza, M. (Coord.). (2016).",
+     [
+      "span",
+      {},
+      "Emociones, afectos y sociología. Diálogos desde la investigación social y la interdisciplina"
+     ],
+     ". Instituto de Investigaciones Sociales, Universidad Nacional Autónoma de México."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445002_ref4"
+     },
+     "BCE (2020).",
+     [
+      "span",
+      {},
+      "Tabla Oferta Utilización 2019"
+     ],
+     ". Banco Central del Ecuador."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445002_ref5"
+     },
+     "Becker, H. (2018). ",
+     [
+      "span",
+      {},
+      "Datos, pruebas e ideas"
+     ],
+     ". Siglo Veintiuno Editores S.A."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445002_ref6"
+     },
+     "Bey, M. (2011). Relaciones sociales: ¿don o intercambio? ",
+     [
+      "span",
+      {},
+      "Desacatos"
+     ],
+     ", (36), 201–208."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445002_ref7"
+     },
+     "Bourdieu, P. (1999).",
+     [
+      "span",
+      {},
+      "Meditaciones pascalianas"
+     ],
+     ". Ediciones Anagrama, S.A."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445002_ref8"
+     },
+     "Braverman, H. (1981).",
+     [
+      "span",
+      {},
+      "Trabajo y capital monopolista"
+     ],
+     " (4.ª ed.). Editorial Nuestro Tiempo, S.A."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445002_ref9"
+     },
+     "Burawoy, M. (1989).",
+     [
+      "span",
+      {},
+      "El consentimiento en la producción: Los cambios del proceso productivo en el capitalismo monopólico"
+     ],
+     ". Ministerio de Trabajo y Seguridad Social."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445002_ref10"
+     },
+     "Caillé, A. (1996). Salir de la economía. ",
+     [
+      "span",
+      {},
+      "Cuadernos de Trabajo Social, ("
+     ],
+     "9), 143–152."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445002_ref11"
+     },
+     "Caillé, A. (2010).",
+     [
+      "span",
+      {},
+      "Teoría anti-utilitarista de la acción: Fragmentos de una sociología general"
+     ],
+     ". Waldhuter Editores."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445002_ref12"
+     },
+     "Carrión Sánchez, D. (2024).",
+     [
+      "span",
+      {},
+      "“Hacerse al dolor”. Organización del trabajo y construcción del consentimiento en la confección de prendas de vestir: Costureras del Distrito Metropolitano de Quito 2019-2022"
+     ],
+     " (Tesis doctoral). Universidad Nacional de La Plata."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445002_ref13"
+     },
+     "Crehan, K. (2004). Gramsci y la antropología. En ",
+     [
+      "span",
+      {},
+      "Gramsci, cultura y antropología"
+     ],
+     " (pp. 185–233). Ediciones Bellaterra, S.L."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445002_ref14"
+     },
+     "Cuvi, N. (2011). Auge y decadencia de la Fábrica de Hilados y Tejidos de Algodón La Industrial, 1935-1999. ",
+     [
+      "span",
+      {},
+      "Procesos: Revista Ecuatoriana de Historia, 33"
+     ],
+     "(I Semestre), 63–95."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445002_ref15"
+     },
+     "de la Garza, E. (2018).",
+     [
+      "span",
+      {},
+      "La metodología configuracionista para la investigación"
+     ],
+     ". Editorial Gedisa, S.A."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445002_ref16"
+     },
+     "Dejours, C. (2012).",
+     [
+      "span",
+      {},
+      "Trabajo vivo. Tomo I: Sexualidad y trabajo"
+     ],
+     ". Topía Editorial."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445002_ref17"
+     },
+     "Dejours, C. (2013).",
+     [
+      "span",
+      {},
+      "La banalización de la injusticia social"
+     ],
+     ". Topía Editorial."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445002_ref18"
+     },
+     "Durand, J.-P. (2011).",
+     [
+      "span",
+      {},
+      "La cadena invisible: Flujo tenso y servidumbre voluntaria"
+     ],
+     ". Fondo de Cultura Económica, Universidad Autónoma Metropolitana."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445002_ref19"
+     },
+     "Féliz, M., y Neffa, J. C. (2006). Acumulación de capital, empleo y desocupación: Una introducción a la economía del trabajo en las obras de Marx. En ",
+     [
+      "span",
+      {},
+      "Teorías económicas sobre el mercado de trabajo. Marxistas y keynesianos"
+     ],
+     " (pp. 15–73). Fondo de Cultura Económica."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445002_ref20"
+     },
+     "Gaignard, L. (2022).",
+     [
+      "span",
+      {},
+      "El trabajo no es una cuestión personal. El psicoanálisis, tampoco"
+     ],
+     ". Topía Editorial."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445002_ref21"
+     },
+     "Granovetter, M. (2000). La fuerza de los vínculos débiles. ",
+     [
+      "span",
+      {},
+      "Política y Sociedad, ("
+     ],
+     "33), 41–56."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445002_ref22"
+     },
+     "Heller, Á. (2004).",
+     [
+      "span",
+      {},
+      "Teoría de los sentimientos"
+     ],
+     ". Ediciones Coyoacan."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445002_ref23"
+     },
+     "INEC (2019).",
+     [
+      "span",
+      {},
+      "ENEMDU anualizada 2018"
+     ],
+     " [Base de datos]. INEC. ",
+     [
+      "a",
+      {
+       "href": "https://aplicaciones3.ecuadorencifras.gob.ec/BIINEC-war/index.xhtml"
+      },
+      "https://aplicaciones3.ecuadorencifras.gob.ec/BIINEC-war/index.xhtml"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445002_ref24"
+     },
+     "Mauss, M. (1979). Ensayo sobre los dones: Razón y forma del cambio en las sociedades primitivas. En ",
+     [
+      "span",
+      {},
+      "Sociología y antropología"
+     ],
+     " (pp. 155–268). Editorial Tecnos, S.A."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445002_ref25"
+     },
+     "Montero Bressán, J. (2020). Producción y comercio internacional de indumentaria: Las condiciones laborales en Argentina y en el mundo. En ",
+     [
+      "span",
+      {},
+      "¿Quién hace tu ropa? Estudios sobre la industria de la indumentaria en Argentina"
+     ],
+     " (pp. 23–43). Prometeo Libros."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445002_ref26"
+     },
+     "Colectivo Simbiosis Cultural; Colectivo Situaciones.(2011). ",
+     [
+      "span",
+      {},
+      "De chuequistas y overlockas. Una discusión en torno de los talleres textiles"
+     ],
+     ". Tinta Limón."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445002_ref27"
+     },
+     "Scott, J. (1985). Explotación normal, resistencia normal. En G. Millan (Trad.), ",
+     [
+      "span",
+      {},
+      "Las armas de los débiles: Formas cotidianas de resistencia campesina"
+     ],
+     ". Yale University Press. ",
+     [
+      "a",
+      {
+       "href": "https://vertov14.files.wordpress.com/2016/08/scott_james_-_weapons_of_the_weak_traduc.pdf"
+      },
+      "https://vertov14.files.wordpress.com/2016/08/scott_james_-_weapons_of_the_weak_traduc.pdf"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445002_ref28"
+     },
+     "Sennett, R. (2005). ",
+     [
+      "span",
+      {},
+      "La corrosión del carácter: Las consecuencias personales del trabajo en el nuevo capitalismo"
+     ],
+     ". Editorial Anagrama."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445002_ref29"
+     },
+     "Taylor, F. (1969). Principios de la administración científica. En ",
+     [
+      "span",
+      {},
+      "La organización y administración de empresas"
+     ],
+     " (pp. 7–124). Herrero Hermanos, Sucs., S.A."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445002_ref30"
+     },
+     "Valles, M. (1999).",
+     [
+      "span",
+      {},
+      "Técnicas cualitativas de investigación social: Reflexión metodológica y práctica profesional"
+     ],
+     ". Editorial Síntesis, S.A."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445002_ref31"
+     },
+     "Varesi, G. (2013). El análisis regional en la Argentina: Enfoque teórico-metodológico y aportes para su profundización. ",
+     [
+      "span",
+      {},
+      "Revista de Estudios Regionales, ("
+     ],
+     "9), 25–56."
+    ],
+    "\n",
+    [
+     "br",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n",
+     [
+      "span",
+      {},
+      "Recepción: "
+     ],
+     " 01 septiembre  2024"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n",
+     [
+      "span",
+      {},
+      "Aprobación: "
+     ],
+     " 01 febrero  2025"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n",
+     [
+      "span",
+      {},
+      "Publicación: "
+     ],
+     " 01 febrero  2026"
+    ],
+    "\n",
+    [
+     "br",
+     {}
+    ],
+    "\n",
+    [
+     "br",
+     {}
+    ],
+    "\n\n",
+    "\n",
+    [
+     "a",
+     {
+      "href": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+     },
+     " ",
+     [
+      "figura",
+      {
+       "alt": "Imagen"
+      }
+     ],
+     " Obra bajo Licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional"
+    ],
+    "\n",
+    [
+     "figura",
+     {
+      "alt": "Imagen"
+     }
+    ],
+    "\n",
+    "\n"
+   ],
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-logo-derecha"
+    },
+    "\n",
+    [
+     "a",
+     {
+      "href": "https://www.fahce.unlp.edu.ar/facultad/secretarias-y-prosecretarias/prosecretaria-de-gestion-editorial-y-difusion/ediciones-de-la-fahce"
+     },
+     " \n",
+     [
+      "figura",
+      {
+       "alt": "ediciones_fahce"
+      }
+     ],
+     "\n"
+    ],
+    "\n"
+   ],
+   "\n"
+  ],
+  "\n",
+  [
+   "span",
+   {
+    "id": "t-creditos"
+   },
+   "\n",
+   [
+    "span",
+    {},
+    [
+     "figura",
+     {}
+    ],
+    [
+     "sup",
+     {},
+     "Ediciones de la FaHCE utiliza"
+    ],
+    [
+     "a",
+     {
+      "href": "http://portal.amelica.org/ameli"
+     },
+     [
+      "figura",
+      {}
+     ]
+    ],
+    " ",
+    [
+     "figura",
+     {}
+    ]
+   ],
+   [
+    "br",
+    {}
+   ],
+   "\n",
+   "\n"
+  ],
+  "\n"
+ ]
+};

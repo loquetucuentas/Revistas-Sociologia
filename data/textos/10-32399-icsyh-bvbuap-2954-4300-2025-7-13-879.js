@@ -1,0 +1,425 @@
+// Copia de textos/10-32399-icsyh-bvbuap-2954-4300-2025-7-13-879.json para abrir la aplicación sin servidor.
+(window.DATOS_REVISTAS = window.DATOS_REVISTAS || {})["textos/10-32399-icsyh-bvbuap-2954-4300-2025-7-13-879.json"] = {
+ "version": 1,
+ "recogido": "2026-10-18T11:41:45+00:00",
+ "doi": "10.32399/icsyh.bvbuap.2954-4300.2025.7.13.879",
+ "titulo": "Presentación",
+ "revista": "2954-4300",
+ "numero": "2025",
+ "licencia": {
+  "codigo": "by-nc-sa",
+  "nombre": "CC BY-NC-SA 4.0",
+  "nombre_completo": "Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional",
+  "url": "https://creativecommons.org/licenses/by-nc-sa/4.0",
+  "url_legal": "https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.es"
+ },
+ "fuente": {
+  "url": "https://bajoelvolcanx.buap.mx/index.php/bajovolc/article/download/879/780?inline=1",
+  "formato": "HTML",
+  "plataforma": "ojs-galerada",
+  "pagina": "https://bajoelvolcanx.buap.mx/index.php/bajovolc/article/view/879"
+ },
+ "autores_cita": [
+  {
+   "apellidos": "Bonnet",
+   "nombre_pila": "Alberto",
+   "nombre": null
+  },
+  {
+   "apellidos": "Giaretto",
+   "nombre_pila": "Mariana",
+   "nombre": null
+  },
+  {
+   "apellidos": "Pereira",
+   "nombre_pila": "Bárbara Leite",
+   "nombre": null
+  }
+ ],
+ "avisos_derechos": [
+  "Derechos de autor 2025 Alberto Bonnet, Mariana Giaretto, Bárbara Leite Pereira",
+  "Licencia Derechos de autor 2025 Alberto Bonnet, Mariana Giaretto, Bárbara Leite Pereira Esta obra está bajo una licencia internacional Creative Commons Atribución-NoComercial-CompartirIgual 4.0. Las autoras y los autores conservan los derechos de autor sobre su obra y ceden a Bajo el Volcán. Revista del Posgrado de Sociología. BUAP únicamente el derecho de primera publicación. Revista de acceso abierto diamante: sin costo para autoras, autores ni personas lectoras."
+ ],
+ "idioma_principal": "es",
+ "indice": [
+  {
+   "id": "t-seccion-1",
+   "nivel": 2,
+   "texto": "Presentación",
+   "lang": null
+  }
+ ],
+ "vueltas": {},
+ "contenido": [
+  "\n",
+  [
+   "section",
+   {},
+   "\n",
+   [
+    "strong",
+    {},
+    [
+     "em",
+     {},
+     "Bajo el Volcán. Revista del Posgrado de Sociología. BUAP"
+    ]
+   ],
+   ", Año 7, Núm. 13, noviembre de 2025 – abril de 2026, pp. 14-19.",
+   [
+    "br",
+    {}
+   ],
+   "e-ISSN 2954-4300 · ",
+   [
+    "a",
+    {
+     "href": "https://doi.org/10.32399/ICSYH.bvbuap.2954-4300.2025.7.13.879"
+    },
+    "https://doi.org/10.32399/ICSYH.bvbuap.2954-4300.2025.7.13.879"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Dossier temático"
+   ],
+   "\n",
+   [
+    "h2",
+    {
+     "id": "t-seccion-1"
+    },
+    "Presentación"
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Introduction"
+   ],
+   "\n",
+   "\n",
+   [
+    "p",
+    {},
+    [
+     "span",
+     {},
+     "Alberto Bonnet"
+    ],
+    [
+     "br",
+     {}
+    ],
+    [
+     "span",
+     {},
+     "Universidad Nacional de Quilmes - Universidad de Buenos Aires, Buenos Aires, Argentina"
+    ],
+    [
+     "br",
+     {}
+    ],
+    [
+     "span",
+     {},
+     "ORCID: ",
+     [
+      "a",
+      {
+       "href": "https://orcid.org/0009-0005-5056-2321"
+      },
+      "https://orcid.org/0009-0005-5056-2321"
+     ]
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    [
+     "span",
+     {},
+     "Mariana Giaretto"
+    ],
+    [
+     "br",
+     {}
+    ],
+    [
+     "span",
+     {},
+     "Universidad Nacional del Comahue, Neuquén, Argentina"
+    ],
+    [
+     "br",
+     {}
+    ],
+    [
+     "span",
+     {},
+     "ORCID: ",
+     [
+      "a",
+      {
+       "href": "https://orcid.org/0009-0000-2632-8117"
+      },
+      "https://orcid.org/0009-0000-2632-8117"
+     ]
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    [
+     "span",
+     {},
+     "Bárbara Leite Pereira"
+    ],
+    [
+     "br",
+     {}
+    ],
+    [
+     "span",
+     {},
+     "Escuela Superior de Ciencias de la Santa Casa de Misericordia de Vitória, Vitória, Brasil"
+    ]
+   ],
+   "\n",
+   "\n",
+   [
+    "p",
+    {},
+    "El año pasado se cumplió un siglo de la publicación en ruso de la primera edición de ",
+    [
+     "em",
+     {},
+     "La teoría general del derecho y el marxismo"
+    ],
+    " de Pashukanis. Este dossier es un homenaje a él y a su pensamiento."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Comencemos presentando a Pashukanis. Evgeny Bronislávovich Pashukanis nació el 23 de febrero de 1891 a orillas del Volga, en la pequeña ciudad de Stáritza, provincia de Tver, Rusia, en el seno de una familia de origen lituano que se trasladó a San Petersburgo en 1906. Después de graduarse en 1909, ingresó en la Facultad de Derecho de la Universidad de San Petersburgo. Sin embargo, como consecuencia de su participación activa en el naciente movimiento revolucionario, fue apresado en 1910 y forzado a exiliarse en Alemania, donde se graduó en derecho en la ",
+    [
+     "em",
+     {},
+     "Ludwig- Maximilians Universität"
+    ],
+    " de Munich. Regresó a Rusia en 1914, colaboró con la fracción bolchevique de la Duma y, cuatro años más tarde, se afilió al Partido Comunista Ruso. En 1918, después de la Revolución de Octubre, se desempeñó como juez en la región de Moscú y, en 1919-20, como Jefe del Departamento de Justicia del Comité Ejecutivo Central. Entre 1920 y 1923 trabajó en el Comisariado del Pueblo para Asuntos Exteriores y, enviado a Berlín como consejero de la embajada soviética, participó en la redacción del Tratado de Rapallo entre Rusia y Alemania de abril de 1922. También en 1922 organizó, junto con Pyotr Stucka, otro eminente jurista marxista de la época, la sección de Teoría General del Derecho y del Estado de la Academia Comunista. Entre 1925 y 1927, en colaboración con Stucka y Adoratsky, contribuyó a la redacción de la primera Enciclopedia Jurídica Marxista en tres volúmenes. Desde 1927 se convirtió en miembro de pleno derecho de la Academia Comunista y fue nombrado vicepresidente y posteriormente presidente del Instituto para la Construcción del Derecho Soviético."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Pashukanis, durante el quinquenio que se extiende entre 1924, año de publicación de la ",
+    [
+     "em",
+     {},
+     "Teoría general"
+    ],
+    ", y 1929, año en que se vio forzado a realizar su primera autocrítica, ejerció una notable influencia sobre el pensamiento soviético. Sin embargo, en los años siguientes, a esa autocrítica forzada sucederían otras dos, mientras Vyshinski se consolidaba como jurista de Stalin. Aún en 1936 fue nombrado vice comisario popular de Justicia de la URSS y jefe del Consejo Científico y Metodológico, así como miembro de pleno derecho del grupo encargado de redactar los trabajos preparatorios de la “Constitución de Stalin” de 1936. Pero su concepción de la extinción del derecho y del Estado en la transición hacia una sociedad comunista y su insistencia en la imposibilidad de edificar un “derecho proletario”, en aquel contexto stalinista de fortalecimiento del derecho y del Estado, signarían su suerte. Pashukanis fue detenido como “espía y saboteador” el 20 de enero de 1937 y nunca se supo con certeza su destino posterior. Algunos consideraron que fue asesinado inmediatamente; otros afirman hoy que fue encerrado hasta el 4 de septiembre, fecha en la que se le dictó sentencia de muerte por fusilamiento, por “haber participado en una organización terrorista contrarrevolucionaria”, sentencia que se cumplió ese mismo día. En 1956, tras la muerte de Stalin y en medio del presunto “proceso de desestalinización” iniciado por Nikita Jruschov, fue rehabilitado por falta de pruebas, pero su pensamiento siguió siendo ignorado en la ex URSS."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Ahora bien, ",
+    [
+     "em",
+     {},
+     "La teoría general del derecho y el marxismo"
+    ],
+    " (así como algunos de sus artículos de mediados de los años veinte, previos a aquellas autocríticas) son decisivos en tres terrenos. El primero es, naturalmente, el de la teoría pura del derecho. Pashukanis suele ser reconocido por sus comentaristas (incluyendo a sus críticos no marxistas, como Kelsen o Schlesinger) como uno de los máximos exponentes de la crítica marxista del derecho. El segundo, es el terreno de la teoría del Estado. Pashukanis, por cierto, no desarrolló una teoría específica sobre el Estado capitalista. Pero, en el quinto capítulo de su ",
+    [
+     "em",
+     {},
+     "Teoría general"
+    ],
+    ", planteó con notable precisión la pregunta de la que debía partir dicha teoría, como reconocerían medio siglo después varios de los intervinientes en el debate alemán de la ",
+    [
+     "em",
+     {},
+     "derivación del Estado"
+    ],
+    ". Y el tercero acaso sea el terreno menos explorado de la teoría crítica de la sociedad en un sentido más amplio, puesto que, si asumimos que el intercambio de mercancías desempeña un papel clave en la socialización capitalista, fue Pashukanis quien mejor conceptualizó su expresión jurídica."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "El pensamiento de Pashukanis, sin embargo, es relativamente poco conocido en nuestro medio. Nos referimos a América Latina en su conjunto, a excepción de Brasil. Ni siquiera son de fácil acceso, en versión impresa, las dos únicas traducciones al español existentes por ahora de su ",
+    [
+     "em",
+     {},
+     "Teoría general"
+    ],
+    ". Este desconocimiento del pensamiento de Pashukanis acaso se deba al escaso desarrollo de la crítica marxista del derecho entre nosotros, combinada con la orientación estructuralista (y más tarde posestructuralista) que tendió a dominar este campo del pensamiento crítico entre nosotros. En este dossier de ",
+    [
+     "em",
+     {},
+     "Bajo el Volcán"
+    ],
+    ", reunimos una serie de artículos que recuperan algunos aspectos importantes de su crítica del derecho o intentan analizar, inspirados en ella, nuevas problemáticas. Incluimos en el dossier artículos de autores de distintos orígenes (brasileños, argentinos, mexicanos) y diversas perspectivas (derivacionistas, estructuralistas) con la intención de reunir un conjunto de contribuciones significativas y a la vez variadas sobre su pensamiento."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Comenzamos con la recuperación crítica de Pashukanis realizada por Werner Bonefeld en su artículo “Notas sobre Pashukanis: del sujeto jurídico a la crítica de la sociedad de clases”, traducido por Mariana Giaretto. El autor reconstruye los argumentos de Pashukanis reconociendo su radicalidad y el carácter revolucionario de sus conclusiones. En esa dirección, Bonefeld se detiene en la crítica que Pashukanis despliega contra las posibilidades de un derecho proletario y para ello vuelve a Marx y a su análisis de la relación entre la compraventa de fuerza de trabajo y la explotación. Desde Marx, Bonefeld reconoce el mérito de Pashukanis en advertir que el Estado de derecho es la forma jurídica que reviste a la sociedad burguesa, pero abre la polémica acerca de lo poco que aporta este análisis de la forma jurídica a la comprensión de explotación del trabajo asalariado."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Antonio Ugá Netto y Vítor Bartoletti Sartori, en “Relación y norma jurídicas: los distintos niveles de abstracción en la crítica de E. B. Pashukanis a la teoría general del derecho”, exponen con solvencia varios de los principales conceptos y argumentos de la ",
+    [
+     "em",
+     {},
+     "Teoría general"
+    ],
+    ". Nos referimos, entre otros, al vínculo entre las relaciones de intercambio y las relaciones jurídicas, a través de la figura del contrato, o al vínculo entre sujeto del intercambio y sujeto jurídico. Uno de los principales aportes de la exposición de Ugá Netto y Sartori, además, es la rigurosa distinción que trazan entre los distintos niveles de abstracción en los que se desarrolla la argumentación de Pashukanis -por ejemplo, en la prelación entre relación jurídica y norma jurídica-, algo poco común entre los lectores de Pashukanis."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "La propuesta de Adrián Piva, en su artículo “La cuestión del punto de partida en el análisis marxista del Estado ¿Pashukanis contra Poulantzas o Marx contra Marx?”, retoma las implicancias del encuentro de los aportes de Pashukanis y Poulantzas en las obras de Jessop y Hirsch, para profundizar en el análisis de sus contribuciones a la comprensión del Estado capitalista. El contrapunto central entre Pashukanis y Poulantzas analizado por Piva radica en la escisión entre las esferas de la circulación y la producción. Para restituir su unidad y reconectar las implicancias de la explotación del trabajo y la extracción del plusvalor con el problema del Estado, el autor vuelve a Marx y analiza sus contribuciones acerca del Estado en ",
+    [
+     "em",
+     {},
+     "La ideología alemana"
+    ],
+    " y en ",
+    [
+     "em",
+     {},
+     "El capital."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "También Napoleón Conde Gaxiola, en “A un siglo de la ",
+    [
+     "em",
+     {},
+     "Teoría general"
+    ],
+    " de Pashukanis”, vuelve sobre algunas de las categorías y argumentos centrales de Pashukanis, aunque en diálogo con las corrientes positivistas y post-positivistas de la teoría del derecho y con referencias a los debates jurídicos latinoamericanos. Conde Gaxiola enfatiza en los aspectos metodológicos de la ",
+    [
+     "em",
+     {},
+     "Teoría general"
+    ],
+    " y, en particular, en su vinculación con el método de la crítica marxiana de la economía política. Este énfasis en el método le permite, entre otras cosas, situar en el centro de su lectura de Pashukanis el concepto de forma, que indudablemente desempeña un papel decisivo en el pensamiento de Pashukanis."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Marcus Orione, en “Pashukanis en el edén de los derechos humanos”, traducido por Bárbara Leite Pereira, argumenta a la vez en los terrenos de la filosofía y la teoría jurídica. Parte del proceso de empobrecimiento de la razón burguesa que identifica en el pasaje desde su concepción kantiana clásica hacia el positivismo. Y, a partir de aquí, tomando como eje el sujeto jurídico y los derechos humanos universales, explora la posibilidad de proyectar la crítica de Pashukanis al positivismo de Kelsen, hacia el pospositivismo de Alexy."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "En “La cuestión del Estado proletario en Pashukanis”, también traducido por Bárbara Leite Pereira, Márcio Bilharinho Naves aborda una de las dimensiones teórica y políticamente centrales del pensamiento de Pashukanis, que no es abordada en otros artículos del dossier. Nos referimos a sus perspectivas acerca de la extinción del derecho y del Estado en la sociedad comunista. Recordemos que fue precisamente la negativa de Pashukanis a reconciliarse con la idea de un derecho y un Estado proletarios la que lo condenó a mediados de los treinta. En este sentido, Naves no sólo expone exhaustivamente los argumentos de Pashukanis, sino que además identifica algunos de sus límites, especialmente en materia de organización del trabajo y de la naturaleza de clase del nuevo Estado soviético."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Regiane de Moura Macedo y Deise Lilian Lima Martins, en “Por un Pashukanis sin concesiones: la crítica de la forma jurídica y los errores de la lectura dependentista del derecho”, exploran algunos debates sobre el legado de Evgeny Pashukanis en América Latina (en particular en Brasil, inspirados en la teoría de la dependencia) y aporta como contribución la defensa de una lectura crítica, sobre todo a partir de Althusser, del legado “pashukaniano-edelmaniano” para la comprensión de la forma jurídica y la ideología jurídica como centrales en la reproducción de las relaciones capitalistas, refutando el humanismo teórico y enfatizando la primacía de la lucha de clases sobre las apariencias jurídicas."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Flávio Roberto Batista y Murilo Amadio Cipollone, en “El derecho captado por la inteligencia artificial: una lectura edelmaniana de un debate jurídico contemporáneo”, nos proponen un interesante ejercicio de interpretación, a partir de Pashukanis y del estudio de Edelman sobre los derechos de propiedad de las fotografías, del uso comercial de las imágenes generadas en nuestros días a través de la Inteligencia Artificial."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "En su artículo “Milei entre los poderes: la pregunta de Pashukanis y la discusión sobre la democracia en Argentina”, los Iván Horowicz, Federico Manzone y Mateo Rodríguez Cocco presentan un análisis de coyuntura del actual gobierno de Milei desde los aportes de Pashukanis. La propuesta se centra en el análisis de situaciones concretas entre los diferentes poderes ejecutivo, legislativo y judicial en las que se expresan tensiones entre democracia y autoritarismo. Desde las implicancias conceptuales de la forma jurídica y de la forma Estado, los autores sostienen que el avance autoritario convive con la democracia en la medida que garantiza la recomposición de las relaciones capitalistas, dinerarias y jurídicas."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Finalmente, Leonardo Carnut y Lúcia Dias da Silva Guerra, en “La crítica marxista de Pashukanis sobre el sujeto de derecho y el fascismo: elementos esenciales para comprender la relación social entre alimentación, Estado y crisis”, traducido por Alberto Bonnet, recuperan el pensamiento de Pashukanis (no sólo su ",
+    [
+     "em",
+     {},
+     "Teoría general"
+    ],
+    ", sino también sus escritos sobre el fascismo) para pensar el problema de la alimentación en una sociedad donde los alimentos son meras mercancías subsumidas en el proceso de acumulación capitalista. Complementa el dossier, en la sección de reseñas, el comentario escrito por Rodolfo Gómez sobre nuestra compilación previa de las principales interpretaciones y discusiones del pensamiento de Pashukanis (M. Giaretto y A. Bonnet, Eds., ",
+    [
+     "em",
+     {},
+     "Marxismo y derecho. A un siglo de la"
+    ],
+    " Teoría general ",
+    [
+     "em",
+     {},
+     "de Pashukanis"
+    ],
+    ", Prometeo, 2024), a la que el lector puede recurrir para ampliar su conocimiento sobre el jurista ruso."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Esperamos haber reunido, en este dossier de ",
+    [
+     "em",
+     {},
+     "Bajo el Volcán"
+    ],
+    ", un conjunto de artículos que rinden cuenta de algunas de las principales dimensiones del pensamiento de Pashukanis y, a la vez, proponen interpretaciones de nuevos problemas a la luz de su pensamiento. A partir de ahora, queda en manos de sus lectores."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Alberto Bonnet, Mariana Giaretto y Bárbara Leite Pereira"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Cómo citar: ",
+    [
+     "em",
+     {},
+     "Bajo el Volcán. Revista del Posgrado de Sociología. BUAP"
+    ],
+    ", Año 7, Núm. 13, noviembre de 2025 – abril de 2026, pp. 14-19. https://doi.org/10.32399/ICSYH.bvbuap.2954-4300.2025.7.13.879"
+   ],
+   [
+    "p",
+    {},
+    [
+     "a",
+     {
+      "href": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
+     },
+     "Licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional"
+    ],
+    ". Publicación de acceso abierto diamante editada por la Benemérita Universidad Autónoma de Puebla."
+   ],
+   "\n"
+  ],
+  "\n"
+ ]
+};

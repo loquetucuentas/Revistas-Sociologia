@@ -1,0 +1,1700 @@
+// Copia de textos/10-32399-icsyh-bvbuap-2954-4300-2026-7-14-870.json para abrir la aplicación sin servidor.
+(window.DATOS_REVISTAS = window.DATOS_REVISTAS || {})["textos/10-32399-icsyh-bvbuap-2954-4300-2026-7-14-870.json"] = {
+ "version": 1,
+ "recogido": "2026-10-18T11:28:11+00:00",
+ "doi": "10.32399/icsyh.bvbuap.2954-4300.2026.7.14.870",
+ "titulo": "Espacio urbano, precariedad laboral y agencia en el reparto de última milla en México: Jóvenes trabajando para Amazon Flex y Mercado Libre Envíos Extra",
+ "revista": "2954-4300",
+ "numero": "2026",
+ "licencia": {
+  "codigo": "by-nc-sa",
+  "nombre": "CC BY-NC-SA 4.0",
+  "nombre_completo": "Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional",
+  "url": "https://creativecommons.org/licenses/by-nc-sa/4.0",
+  "url_legal": "https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.es"
+ },
+ "fuente": {
+  "url": "https://bajoelvolcanx.buap.mx/index.php/bajovolc/article/download/870/760?inline=1",
+  "formato": "HTML",
+  "plataforma": "ojs-galerada",
+  "pagina": "https://bajoelvolcanx.buap.mx/index.php/bajovolc/article/view/870"
+ },
+ "autores_cita": [
+  {
+   "apellidos": "Cerón Hernádez",
+   "nombre_pila": "José",
+   "nombre": null
+  }
+ ],
+ "avisos_derechos": [
+  "Derechos de autor 2026 José Cerón Hernández",
+  "Licencia Derechos de autor 2026 José Cerón Hernández Esta obra está bajo una licencia internacional Creative Commons Atribución-NoComercial-CompartirIgual 4.0. Las autoras y los autores conservan los derechos de autor sobre su obra y ceden a Bajo el Volcán. Revista del Posgrado de Sociología. BUAP únicamente el derecho de primera publicación. Revista de acceso abierto diamante: sin costo para autoras, autores ni personas lectoras."
+ ],
+ "idioma_principal": "es",
+ "indice": [
+  {
+   "id": "t-seccion-1",
+   "nivel": 2,
+   "texto": "Espacio urbano, precariedad laboral y agencia en el reparto de última milla en México: Jóvenes trabajando para Amazon Flex y Mercado Libre Envíos Extra1",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-2",
+   "nivel": 3,
+   "texto": "1. INTRODUCCIÓN",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-3",
+   "nivel": 3,
+   "texto": "2. MARCO CONCEPTUAL",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-4",
+   "nivel": 3,
+   "texto": "3. METODOLOGÍA",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-5",
+   "nivel": 3,
+   "texto": "4. RESULTADOS Y DISCUSIÓN",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-6",
+   "nivel": 3,
+   "texto": "5.2. AGENCIA TERRITORIALIZADA Y SUBJETIVIDADES BAJO FRICCIÓN URBANA Y CONTROL ALGORÍTMICO",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-7",
+   "nivel": 3,
+   "texto": "6. CONCLUSIONES",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-8",
+   "nivel": 3,
+   "texto": "BIBLIOGRAFÍA",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-9",
+   "nivel": 3,
+   "texto": "NOTAS",
+   "lang": null
+  }
+ ],
+ "vueltas": {
+  "t-fnref1": "t-llamada-fnref1-1"
+ },
+ "contenido": [
+  "\n",
+  [
+   "section",
+   {},
+   "\n",
+   [
+    "strong",
+    {},
+    [
+     "em",
+     {},
+     "Bajo el Volcán. Revista del Posgrado de Sociología. BUAP"
+    ]
+   ],
+   ", Año 7, Núm. 14, mayo – octubre de 2026, pp. 17-43.",
+   [
+    "br",
+    {}
+   ],
+   "e-ISSN 2954-4300 · ",
+   [
+    "a",
+    {
+     "href": "https://doi.org/10.32399/ICSYH.bvbuap.2954-4300.2026.7.14.870"
+    },
+    "https://doi.org/10.32399/ICSYH.bvbuap.2954-4300.2026.7.14.870"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Dossier temático"
+   ],
+   "\n",
+   [
+    "h2",
+    {
+     "id": "t-seccion-1"
+    },
+    "Espacio urbano, precariedad laboral y agencia en el reparto de última milla en México: Jóvenes trabajando para Amazon Flex y Mercado Libre Envíos Extra",
+    [
+     "sup",
+     {},
+     [
+      "a",
+      {
+       "id": "t-fnref1",
+       "href": "#t-fn1"
+      },
+      "1"
+     ]
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Urban space, job insecurity, and agency in last-mile delivery in Mexico: Young people working for Amazon Flex and Mercado Libre Envíos Extra"
+   ],
+   "\n",
+   "\n",
+   [
+    "p",
+    {},
+    [
+     "span",
+     {},
+     "José A. Cerón Hernández"
+    ],
+    [
+     "br",
+     {}
+    ],
+    [
+     "span",
+     {},
+     "El Colegio de México, Ciudad de México, México"
+    ],
+    [
+     "br",
+     {}
+    ],
+    [
+     "span",
+     {},
+     "ORCID: ",
+     [
+      "a",
+      {
+       "href": "https://orcid.org/0000-0003-3473-0821"
+      },
+      "https://orcid.org/0000-0003-3473-0821"
+     ]
+    ]
+   ],
+   "\n",
+   "\n",
+   [
+    "p",
+    {},
+    "jceron_sociologia@hotmail.com"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Recibido: 15/11/2025 "
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Aceptado: 24/03/2026"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "RESUMEN"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "El artículo aborda la experiencia de trabajo en el trabajo de reparto de última milla en la Ciudad de México, a través de los casos de Amazon Flex y Mercado Libre Envíos Extra, así como sus formas subcontratadas. Desde una perspectiva que acerca algunos aspectos de lo urbano al ámbito laboral de análisis, se muestra que el trabajo desempeñado en espacios urbanos puede añadir una capa adicional a la precariedad laboral. La morfología urbana, las fricciones de acceso y la inseguridad convierten lo urbano en una condición material que externaliza costos, tiempos no pagados y riesgos hacia las personas jóvenes repartidoras, mientras el control algorítmico individualiza estas fallas como “incidencias”. Frente a esto, emerge una agencia territorial juvenil basada en saberes espaciales, reordenamiento táctico de rutas y redes digitales de cuidado, que amortigua, pero no revierte la asimetría estructural dado por la organización del trabajo plataformizado."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    [
+     "em",
+     {},
+     "Palabras clave"
+    ],
+    ": Precariedad laboral, experiencia juvenil, espacio urbano, control algoritmico"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "ABSTRACT"
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "The article examines the experience of last-mile delivery work in Mexico City through the cases of Amazon Flex and Mercado Libre Envíos Extra, as well as their subcontracted arrangements. From a perspective that brings key urban dimensions into labor analysis, it argues that work performed in urban spaces adds an additional layer to labor precariousness. Urban morphology, access frictions, and insecurity turn the city into a material condition that externalizes costs, unpaid time, and risks onto young delivery workers, while algorithmic control individualizes these constraints as “incidents.” In response, a form of youth territorial agency emerges, grounded in spatial knowledge, tactical route reordering, and digital networks of mutual care. These practices mitigate—but do not overturn—the structural asymmetry produced by the organization of platform-mediated work."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    [
+     "em",
+     {},
+     "Keywords:"
+    ],
+    " Labor precarity, youth experience, urban space, algorithmic control"
+   ],
+   "\n",
+   [
+    "h3",
+    {
+     "id": "t-seccion-2"
+    },
+    "1. INTRODUCCIÓN"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Con el auge del comercio electrónico y la expansión de los servicios bajo demanda, la última milla se ha colocado paulatinamente como un nodo importante de la organización contemporánea del trabajo urbano mediado por plataformas (Atzeni y Filipetto, 2025). Por “última milla” entiendo el tramo final del proceso de entrega en el que un envío (que fue procesado en un gran almacén a causa de un pedido por internet), ya concentrado en un centro, hub o estación de despacho, se asigna a un trabajador para su traslado y entrega efectiva al destinatario en un punto urbano específico como puede ser un domicilio, comercio o edificio. Es el eslabón donde la coordinación digital se vuelve circulación física situada y verificable cuando la entrega es “completada”."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Esto se vuelve problemático al encontrar que esto se puede realizar por vías de relación laboral dispares como lo es: (a) trabajo por contrato directo con la empresa logística (Amazon o Mercado Libre, por ejemplo); (b) empleo mediante una empresa subcontratista que trabaja para el gran almacén (Fedex, DHL, por mencionar algunos) y, por último, (c) los trabajadores que se laboran mediante contratos estilo “Uber” en el cual se dan de alta en una aplicación en el cual colocan sus propios medios para realizar las entregas como lo son Amazon Flex o Mercado Libre Envíos Extra. Este artículo situará su atención en estas dos últimas modalidades."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Lo anterior conlleva a estudiar la última milla no únicamente como un problema logístico con los componentes de “eficiencia” u “optimización”, porque esa lectura tiende a oscurecer que, para el trabajo desempeñado en ámbitos urbanos, la ciudad no opera como telón de fondo, sino como condición de posibilidad y, al mismo tiempo, como parte del control del proceso de trabajo. La organización del proceso de trabajo en las plataformas de reparto sucede en infraestructuras desiguales (como baches, pavimento, iluminación), de acceso (casetas, escaleras, elevadores), tránsitos congestionados, climas extremos y tramas de inseguridad que median, y en muchos casos reconfiguran, el control algorítmico, la precarización y las formas de agencia de quienes reparten."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Esa mediación urbana se monta sobre la capa de las relaciones laborales y los esquemas de contratación (subcontratación, prestación de servicios, “socio repartidor”), que ya introducen asimetrías en derechos, estabilidad, ingresos, protección ante riesgos y capacidad real de reclamar. Es por ello por lo que sugiero que a la desigualdad y precariedad producidas por el tipo de vínculo laboral, se añaden y se intensifican las fricciones materiales de la ciudad como parte constitutiva de la jornada. Proponemos, por tanto, situar el trabajo plataformizado de reparto en una perspectiva urbano-laboral que trate a la ciudad como espacio en el cual, junto con otros actores no necesariamente laborales, co-produce tiempos de entrega, métricas de desempeño y riesgos."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Con este enfoque puedo destacar la relevancia de las personas jóvenes en el sostenimiento de estos circuitos, cuyas trayectorias laborales se caracterizan por transiciones inestables, ausencia de protecciones y necesidad de articular ingresos en un mercado segmentado (Serrano Pascual, 1995). En el caso mexicano, evidencia reciente muestra que el trabajo en plataformas tiene un rostro marcadamente juvenil: en la Ciudad de México, una proporción significativa de trabajadores de plataforma se ubica entre los 18 y 29 años (Alba, Bensusán y Vega, 2024). Sin embargo, la “entrada” juvenil a estas ocupaciones suele estar narrada bajo un imaginario de autonomía que se sustenta en afirmaciones como “conéctate cuando quieras” o “sé tu propio jefe”, que oscurecen el modo en que el trabajo se reorganiza como un régimen de precarización (Ros y Linne, 2023; Mora Salas y Recinas, 2025) que tienen por particularidad a los ingresos variables, transferencia de costos, intensificación bajo demanda y sanciones opacas, en un entorno urbano desigual."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Para comprender este desplazamiento es útil leer la plataformización como un régimen de organización del trabajo y no solo como un conjunto de aplicaciones. Desde la discusión sobre capitalismo de plataformas, su potencia no radica únicamente en “intermediar” oferta y demanda, sino en controlar infraestructuras digitales y datos capaces de capturar valor sin asumir los costos clásicos de la relación laboral (Srnicek, 2017). En esta configuración, el trabajo por encargo y las modalidades “justo a tiempo” problematizan el reconocimiento de la relación laboral y administran estratégicamente la ambigüedad entre autonomía formal y subordinación práctica (De Stefano, 2016; López de la Fuente, 2019). De ahí que tenga por particular ser un modo de organización que combina subordinación indirecta, externalización de riesgos y debilitamiento de garantías en contextos donde la informalidad y la debilidad institucional ya constituyen un terreno fértil para la desprotección (Atzeni, 2023; Mora-Salas, 2021)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "En este régimen, la gestión algorítmica funciona como forma de control del proceso de trabajo y que tiene implicaciones en aspectos como las calificaciones en los perfiles de la mano de obra, las relaciones laborales y la cultura del trabajo. Desde la Labour Process Theory, el control no se reduce a supervisión humana pues se organiza como un conjunto de técnicas para extraer rendimiento y asegurar subordinación; en plataformas, esto se informatiza mediante asignación, puntuación, reputación y sanción que operan como un “jefe” silencioso (Gandini, 2018). Sistemas de ratings y rankings, tasas de aceptación y cancelación, evidencias de entrega y protocolos de cumplimiento estructuran el acceso a oportunidades y la continuidad laboral, al tiempo que vuelven difícil la auditoría individual de decisiones automatizadas (García Ruiz, 2023). En términos de la OIT, el reparto es un trabajo “located-based”, es decir, que la valorización de esta ocupación depende de la circulación física acelerada y coordinación con picos de demanda, por lo que el “tiempo muerto” que está compuesto por esperas y traslados sin pedido se vuelve parte constitutiva de la jornada sin ser necesariamente remunerado (OIT, 2021)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "La hipótesis central que guía este artículo es que, en la última milla, el control algorítmico no puede entenderse sin su ensamblaje con la ciudad. Tres procesos, en particular, se vuelven visibles cuando se adopta este anclaje:"
+   ],
+   "\n",
+   [
+    "ul",
+    {},
+    "\n",
+    [
+     "li",
+     {},
+     [
+      "em",
+      {},
+      "Convergencia entre control algorítmico y gamificación"
+     ],
+     ": puntuaciones, bloques, rachas y rankings descansan en supuestos temporales que chocan con ritmos urbanos desiguales; la gamificación funciona como mecanismo de consentimiento y autogestión, pero también intensifica presión y ansiedad cuando las relaciones sociales en la ciudad, así como de las condiciones estructurales de ésta, no cumplen con el flujo del trabajo (Patella-Rey, 2015; van Doorn y Chen, 2021; DeWinter et al., 2014)."
+    ],
+    "\n",
+    [
+     "li",
+     {},
+     [
+      "em",
+      {},
+      "Vigilancia y opacidad"
+     ],
+     ": GPS, fotografías de entrega y evaluaciones automáticas se articulan con dispositivos locales (guardias, cámaras, apps de acceso) para producir un régimen híbrido de control difícil de impugnar individualmente (Gandini, 2018; García Ruiz, 2023)."
+    ],
+    "\n",
+    [
+     "li",
+     {},
+     [
+      "em",
+      {},
+      "Precarización como “flexibilidad” sensible al territorio"
+     ],
+     ": el ingreso se vuelve dependiente de estacionalidades, zonas, clima y “suerte” en la asignación, mientras costos y riesgos se transfieren al trabajador (Abílio, 2020; López de la Fuente, 2019)."
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "A partir de este marco, el artículo se pregunta: ¿de qué manera la morfología urbana y las relaciones sociales que suceden en ella median las lógicas de control, evaluación y remuneración en plataformas de última milla, y cómo esa mediación se traduce en precarización juvenil? Asimismo, indaga qué repertorios de agencia y capacidades comunitarias emergen para gestionar riesgo, tiempo y acceso, tomando en cuenta sus límites, frente a la opacidad y la asimetría informacional que caracteriza a la gestión algorítmica."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Para responder estas preguntas, proponemos una comparación entre Amazon Flex y Mercado Libre Envíos Extra, esto porque sus arquitecturas logísticas y márgenes de maniobra aunque similares, no son idénticos: varían en la asignación y reordenamiento de paquetes, y en las formas de evaluación y sanción. Además, en la práctica, los trabajadores configuran su propio mercado de trabajo transitando entre estas empresas y estableciendo patrones de selección ya sea por elegir la favorita” o la que, racionalmente, supone mayor beneficio. Este ejercicio comparativo permite identificar qué parte de la experiencia se explica por el diseño de plataforma y cuál por la mediación urbana, mostrando expresiones concretas de control, precarización y agencia en territorios diferenciados."
+   ],
+   "\n",
+   [
+    "h3",
+    {
+     "id": "t-seccion-3"
+    },
+    "2. MARCO CONCEPTUAL"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Para robustecer el componente empírico sin perder densidad explicativa, este artículo propone leer el reparto de última milla como un ensamblaje urbano-algorítmico donde se acoplan tres dimensiones: (1) una racionalidad logística que convierte la circulación urbana en cálculo (tiempos, rutas, ventanas); (2) un régimen laboral plataformizado que organiza la desprotección mediante subcontratación, pago por tarea y transferencia de costos; y (3) un entorno urbano desigual que introduce fricciones materiales (condiciones infraestructurales, congestión, inseguridad) que no son “contexto”, sino parte constitutiva del proceso de trabajo (Srnicek, 2017; De Stefano, 2016; OIT, 2021; Theodore y Gutelius, 2025; Barnes, O’Neill y Kelly, 2025)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "En primer lugar, la última milla se inscribe en un régimen de trabajo del e-commerce en el que la producción de valor depende de la coordinación “en tiempo real” entre centros de distribución, plataformas digitales y circulación localizada. La “optimización” no se reduce a un problema técnico ya que reconfigura la organización del trabajo al imponer estándares de rapidez y disponibilidad que desplazan el riesgo hacia la fuerza de trabajo, especialmente en formas justo a tiempo y bajo demanda donde la protección laboral queda erosionada o difuminada (De Stefano, 2016; OIT, 2021; Theodore y Gutelius, 2025). Como parte del capitalismo de plataformas (Srnicek, 2017) este tipo de mercado de trabajo se caracteriza por controlar infraestructuras digitales y datos, habilitando formas de captura de valor que no requieren asumir plenamente los costos clásicos de la relación laboral."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "En segundo lugar, desde una perspectiva de proceso de trabajo, la plataformización reorganiza el control como gestión algorítmica: asignación de tareas en tiempo real, seguimiento y evaluación automatizada, reputación y sanción. La subordinación se desplaza hacia métricas y mecanismos de acceso a oportunidades (prioridad de pedidos, disponibilidad de “bloques”, bonos), haciendo que la continuidad laboral dependa de un rendimiento cuantificado y comparativo (Gandini, 2018; García Ruiz, 2023). En empresas como Mercado Libre, además, el juego regulatorio puede contribuir a “ocultar” explotación mediante arreglos institucionales y de derechos que no neutralizan la asimetría del proceso laboral (Atzeni, 2023). En la Ciudad de México, este núcleo problemático ha sido señalado por diagnósticos que buscan reconocer derechos laborales para trabajadores por plataformas y confrontar la desprotección jurídica y material que atraviesa la ocupación (Alba Vega, Bensusán y Vega, 2024)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "En tercer lugar, donde pongo atención para este artículo, la ciudad no opera como escenario neutro pues en ella se co-produce el proceso de trabajo. Cuando las estimaciones algorítmicas de tiempo y ruta se enfrentan a fricciones urbanas (tráfico, accesos restringidos, esperas, reubicaciones), el desfase se registra en la interfaz como “retraso”, “incidencia”, “cancelación” o “entrega fallida”, es decir, como responsabilidad individualizada. Esa atribución alimenta métricas de evaluación y decisiones de asignación/ reputación, con efectos materiales (pérdida de bonos o bloques, menor prioridad, suspensión o desactivación), frecuentemente en condiciones de baja transparencia y limitada posibilidad efectiva de apelación (OIT, 2021; Gandini, 2018; García Ruiz, 2023). Lo crucial es que este mecanismo opera sobre una base contractual desprotegida: la precariedad asociada a la forma de contratación y a la transferencia de costos (vehículo, gasolina, datos, mantenimiento, tiempos muertos) se intensifica al acoplarse con desigualdades infraestructurales y territoriales."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Este ensamblaje adquiere rasgos particulares en trayectorias juveniles. La inserción joven en plataformas suele presentarse como “autonomía”, pero en la práctica aparece como ",
+    [
+     "em",
+     {},
+     "autonomía negociada"
+    ],
+    " (Mora Salas y Recinas, 2025) que pueden verse expresado mediante márgenes de agencia reales como podría ser la selección de zonas y horarios o estrategias para maximizar ingresos, coexistiendo con una arquitectura de control algorítmico que limita la capacidad de decisión (López de la Fuente, 2019; Haidar, 2023)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Con todo lo anterior sugiero que la agencia de este sujeto trabajador no se encuentra romantizada por la intención del investigador de situarla como una potencia transformadora. Por el contrario reconozco un conjunto de posibilidades para la acción en un margen dado por las condiciones estructurales en el cual existe siempre negociación, micro resistencias y actos de colaboración. Esto lo sostengo a partir de plantear que la última milla exige saberes territoriales subvalorados por algunos marcos analíticos (mapear accesos, anticipar fricciones con otros actores no laborales como los guardias, gestionar riesgo al observar las zonas de entras), que operan como conocimiento práctico indispensable para sostener el rendimiento, aun cuando su productividad sea capturada por la plataforma sin reconocimiento como calificación (Fagioli, 2022). Esa agencia cotidiana se organiza también mediante repertorios afectivos del territorio que son expresadas por preferencias, evitaciones, que estructuran la jornada y el cálculo práctico del riesgo (Tuan, 1980; 1990; Lindón Villoria, 2006). En paralelo, emergen prácticas de apoyo y coordinación entre pares como formas cotidianas de microresistencia que pueden amortiguar fricciones y opacidades sin revertir la asimetría estructural de poder plataforma-trabajador (Bonini y Treré, 2024)."
+   ],
+   "\n",
+   [
+    "h3",
+    {
+     "id": "t-seccion-4"
+    },
+    "3. METODOLOGÍA"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "El estudio adopta un diseño cualitativo y comparativo centrado en dos empresas dedicadas el e-commerce y realizan reparto de última milla: Amazon y Mercado Libre (Meli). A ello se le añade una distinción en código de relaciones laborales en el que se distinguen por ocupación a los trabajadores pertenecientes a una empresa subcontratista y a los cuentapropistas que representan la modalidad de Amazon Flex y Mercado Libre Envíos Extra. Estas distinciones tienen por objetivo el de comprender cómo la morfología urbana y la gestión algorítmica median el proceso de trabajo, la precarización y las formas situadas de agencia y subjetividad. El enfoque analítico es abductivo, es decir, que alterna entre marcos de la sociología del trabajo, los estudios urbanos y la investigación sobre plataformas, y la evidencia empírica producida en campo, para refinar categorías y construir explicaciones situadas (Timmermans y Tavory, 2012)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Para atender el carácter urbano del fenómeno, el trabajo de campo se realizó en la Ciudad de México durante marzo a septiembre del año 2025, con observaciones principalmente en la zona norte de la ciudad, en el entorno inmediato del CEDIS (centro de distribución) conocido como “El Bondojito” perteneciente a Mercado Libre. Este punto funcionó como un observatorio para documentar tiempos invisibles como las filas, procesos de verificación, reorganización de carga fuera del almacén y espera por liberación; microfricciones territoriales como la fila de estacionamiento, los locales a los alrededores que atienden a los repartidores y transeúntes, los acompañantes no oficiales que esperan fuera del CE- DIS; y, finalmente, negociaciones cotidianas que articulan plataforma, logística y ciudad."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "En coherencia con el argumento del artículo la observación se diseñó para capturar la interacción del repartidor con actores y dispositivos urbanos que inciden directamente en el proceso de trabajo como lo son el personal del almacén, guardias, otros conductores, clientes, y agentes no laborales como autoridades de tránsito. Esta estrategia permitió documentar cómo el rendimiento vigilado por la plataforma se construye en un espacio donde el acceso, la movilidad y el riesgo son variables decisivas que el algoritmo tiende a traducir en métricas de desempeño que habilitan a las sanciones laborales como suspensiones o eliminaciones de cuentas."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Se realizaron 15 entrevistas semiestructuradas (marzo–septiembre de 2025) con personas repartidoras vinculadas a empresas subcontratistas, así como a quienes se encuentran en el esquema Amazon Flex y Mercado Libre Envíos Extra, dado que la investigación asume que la precarización no proviene únicamente del diseño algorítmico, sino también de relaciones laborales y formas de contratación que producen desigualdad en derechos, estabilidad e ingreso."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Se utilizó un muestreo intencional por máxima variación (Patton, 2015), buscando heterogeneidad seleccionando casos que reconozcan diferencias por plataforma, tipo de vehículo, zonas de operación, género y trayectorias laborales previas. Se priorizó el contacto con personas jóvenes con trayectorias fragmentadas, intermitentes o ligadas a economías informales, porque en este segmento tienden a hacerse más visibles las formas de precariedad estructural y las estrategias para “hacer viable” el trabajo en la ciudad. El criterio de cierre del muestreo fue la saturación temática, entendida como el punto en que los nuevos casos dejan de aportar variación sustantiva a los patrones analíticos ya identificados (Guest, Bunce y Johnson, 2006)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Con esas consideraciones del establecimiento de directrices de observación articuladas por conceptos ordenadores, el conjunto de la información empírica construida combina cuatro fuentes, trianguladas de manera sistemática:"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "1. Entrevistas semiestructuradas (n=15) con guía flexible"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "orientada a: trayectorias laborales; organización del día;"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "asignación, evaluación y sanciones; fricciones urbanas;"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "riesgos y episodios críticos; redes de apoyo; emociones; y"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "estrategias para reducir la intensificación del trabajo. Se"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "incorporó un bloque específico para indagar posibilidades"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "de acción individual o coordinada para amortiguar san-"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "ciones, reorganizar tiempos o disputar decisiones opacas."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "2. Observación de campo en el entorno del CEDIS. Cuando fue"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "posible y seguro, se solicitaron descripciones detalladas de"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "rutas, esperando acompañar en algunas de ellas además"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "de revisión de material audiovisual en redes sociodigita-"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "les que documentaban este proceso, privilegiando situa-"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "ciones donde se hacen visibles los elementos sugeridos en"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "el análisis. La observación se concentró deliberadamente"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "en “tiempos no reconocidos” por la contabilidad formal del"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "trabajo: esperas, verificaciones, elevadores, reubicaciones,"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "negociación de acceso y resolución de incidencias."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "fr"
+    },
+    "3. Etnografía digital (Pink et al., 2016; Hine, 2015) en gru-"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "pos y espacios donde circula conocimiento laboral: Face-"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "book, WhatsApp, YouTube y TikTok. Se registraron hilos"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "y materiales relacionados con pagos y opacidad, “truqui-"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "llos” de ruta, zonas de riesgo, conflictos con clientes/"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "guardias, y formas de coordinación o protesta como apa-"
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "pt"
+    },
+    "gones, paros o boicots, así como capturas de elementos"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "técnicos relevantes como lo son pantallazos de app, co-"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "municaciones, reglamentos y tutoriales."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "4. Documentos públicos para triangulación contextual: no-"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "tas periodísticas, ordenanzas locales y comunicados vin-"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "culados a logística urbana, seguridad y regulación labo-"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "ral, usados para contrastar y contextualizar la evidencia"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "producida en las entrevistas y la observación."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "El análisis se realizó mediante análisis temático con codificación mixta (Braun y Clarke, 2006) que empleó en primera instancia un núcleo deductivo que contempló elementos como el control algorítmico, asignación, evaluación, sanciones, fricciones urbanas, costos y tiempos no pagados o riesgos y una capa inductiva que permitió incorporar códigos emergentes relevantes para el argumento urbano-laboral. Se elaboró un libro de códigos iterativo con asistencia de inteligencia artificial de OpenAI para la tareas referidas a la transcripción de entrevistas, ordenamiento de información por categorías, y búsqueda de recurrencias, para identificar patrones por tipo de fuente y por plataforma, reforzando la comparabilidad entre configuraciones de última milla."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "La triangulación se implementó en dos niveles (Denzin, 1978): (a) triangulación de fuentes para validar patrones y detectar contradicciones productivas; y (b) triangulación teórica para evitar que un solo marco “absorba” la interpretación. Se consideró, haciendo un ejercicio de reflexividad, que el acceso a campo y la producción de evidencia estuvieron condicionados por (i) la naturaleza móvil y riesgosa del trabajo; (ii) la sensibilidad de información sobre zonas, rutas y episodios de violencia; y (iii) la asimetría de poder entre plataformas y trabajadores, que puede generar autocensura o temor a represalias."
+   ],
+   "\n",
+   [
+    "h3",
+    {
+     "id": "t-seccion-5"
+    },
+    "4. RESULTADOS Y DISCUSIÓN"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "El argumento empírico se articula en torno a un problema recurrente: las estimaciones de tiempo de entrega (ETA) y el trazado de las rutas dadas por el algoritmo, pensadas, según, con la mayor eficiencia y considerando la mayor cantidad de variables posibles, chocan con congestión, esperas, casetas, elevadores, verificación de acceso o riesgo como asaltos o accidentes. Estos elementos pueden causar desfases en el cumplimiento de las tareas que son registrados como “retraso”, “entrega fallida” o “incidencia”, y se imputa a la persona repartidora, aun cuando la causa inmediata provenga de la ciudad teniendo consecuencias tales como sanciones, menor acceso a rutas, o despidos."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "En los dos apartados siguientes se muestra: (i) cómo las condiciones materiales y la morfología urbana producen tiempos invisibles y costos no reconocidos; (ii) cómo las fricciones se individualizan en la interfaz como desempeño; y (iii) cómo, en ese mismo terreno, emergen estrategias de agencia (reordenamientos, negociaciones, redes de apoyo) que amortiguan pero no revierten la asimetría informacional y contractual del régimen de trabajo plataformizado."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    [
+     "strong",
+     {},
+     "5.1. Condiciones materiales y espacio urbano"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Las condiciones materiales del reparto no pueden separarse de la geografía urbana en la que se ejecuta el trabajo. La evidencia empírica muestra tres nudos que se repiten y que permiten entender por qué la ciudad se vuelve una mediación central del control algorítmico: (1) tiempos invisibles en CEDIS y en accesos; (2) costos externalizados y desgaste (vehículo, gasolina, datos, mantenimiento, tiempos no pagados); y (3) microfricciones socioespaciales (edificios sin elevador, casetas, verificación, tráfico, marchas, inseguridad) que el sistema termina traduciendo como incidencias atribuibles a la persona trabajadora."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "En Mercado Libre, incluso para repartidores independientes con auto propio, la operación del CEDIS introduce un primer cuello de botella que consiste en cargar tarde, y por tanto salir a repartir tarde, debido a las filas de espera y la priorización operativa hacia flotas empresariales subcontratistas. Hasel, trabajador por cuenta propia, describe que en temporadas altas los independientes quedan al final del orden de carga: ",
+    [
+     "em",
+     {},
+     "hasta el último cargamos los que somos externos… en temporadas altas sí son horas de espera de 2, 3 hasta 4 horas"
+    ],
+    " y esa espera ocurre ",
+    [
+     "em",
+     {},
+     "bajo el calor"
+    ],
+    ", a menudo dentro del automóvil, con el costo de enfriar y ventilar como parte del gasto privado del reparto al encender el auto y activar el aire acondicionado (Hasel, Meli Envíos Extra, comunicación personal, marzo de 2025)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "La espera no es solo tiempo “antes de trabajar”, sino un tiempo que reorganiza el resto de la jornada. Brenda, repartidora de Meli Envíos Extra, relata que la ruta se define con ventanas rígidas pues ",
+    [
+     "em",
+     {},
+     "empezaba a las 4 am y terminaba a las 10 pm"
+    ],
+    ", pero por el proceso de carga ",
+    [
+     "em",
+     {},
+     "salimos a las casi 8"
+    ],
+    "; el efecto inmediato es que ya no se alcanza a completar entregas y se multiplican intentos fallidos por horario e inseguridad pues ",
+    [
+     "em",
+     {},
+     "pasada de las 9… ya no quiere salir a recibir"
+    ],
+    " (Brenda, Meli Envíos Extra, comunicación personal, marzo de 2025). En términos analíticos, la ciudad y la operación se acoplan en una tendencia laboral que tiende a la vía baja caracterizada por una organización deficiente del CEDIS que empuja entregas hacia horas de mayor riesgo priorizando la atención a sus propios repartidores relegando a los cuentapropistas al final y menor disposición a recibir los paquetes por la hora en que se realiza la entrega, elevando la probabilidad de “incidencia”."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "En los circuitos subcontratados que operan para Mercado Libre, aparece un patrón similar a los cuentapropistas y que consiste en el tiempo de espera institucionalizado como parte del “arranque” de la ruta. Emilio, operador de van para la empresa 99 minutos, resume que ",
+    [
+     "em",
+     {},
+     "tardan mucho… una hora, una hora y media te quedabas ahí esperando nada más"
+    ],
+    ", y subraya la presión inmediata de cierre, ",
+    [
+     "em",
+     {},
+     "tenemos que acabar"
+    ],
+    ", porque devolver la unidad o regresar incompleto desencadena problemas operativos (Emilio Nava, subcontratado para Meli, comunicación personal, abril de 2025). En la práctica, el tiempo muerto se incorpora como requisito del trabajo, pero no necesariamente como tiempo reconocido y remunerado."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "En Amazon (y en los arreglos de última milla que operan “como Amazon”), el tiempo invisible también se manifiesta como extensión de jornada por reintentos y disponibilidad del cliente. José Luis narra que, si no se entrega en la primera visita al cliente, el circuito obliga a un retorno según acuerdo con el destinatario: ",
+    [
+     "em",
+     {},
+     "voy a estar a las 10:00 de la noche aquí… teníamos que regresar a las 10:00 de la noche"
+    ],
+    " para intentar de nuevo; por eso la jornada puede cerrar a las 5–6 pm o estirarse hasta la noche (José Luis, subcontratado Amazon, comunicación personal, abril de 2025). El punto es que la temporalidad de la entrega se decide en un triángulo entre plataforma–cliente–ciudad, pero la presión de cumplimiento recae en el trabajador."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Estos tiempos invisibles se vuelven más incisivos porque se montan sobre un régimen que traslada costos. Las entrevistas muestran que las personas trabajadoras aprenden a “hacer cuentas” no con el pago bruto, sino con el ingreso neto después de descontar gasolina, desgaste y comida. Belén, con experiencia en Amazon y Meli, lo formula como regla práctica. Si la promesa de ingresos es de 24–30 mil pesos mensuales (1,500 USD), ",
+    [
+     "em",
+     {},
+     "quítale lo de la gasolina, quítale lo de las cosas del carro, quítale hasta lo de tus comidas"
+    ],
+    "; incluso menciona la necesidad de otro celular y el plan de internet como parte del equipamiento (Belén Luna, subcontratada y cuentapropista Amazon, comunicación personal, marzo de 2025). En clave de precarización, esto significa que el ingreso no se entiende como salario por tiempo, sino como remuneración por tarea donde el trabajador asume la incertidumbre del costo real."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Brenda lo expresa desde la experiencia del costo que tiene esperar en el cálculo global de la ganancia. (…) ",
+    [
+     "em",
+     {},
+     "perdí mi tiempo… gasolina, todo"
+    ],
+    ", insistiendo en que los cuellos de botella del CEDIS no se pagan, pero sí consumen recursos y energía (Brenda, Meli Envíos Extra, comunicación personal, marzo de 2025). Aquí la precarización no solo se compone por salarios bajos o la incertidumbre de continuidad en la contratación, sino estructura de pago que invisibiliza tiempo y traslada costos de producción al trabajador."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "El tercer nudo se observa cuando la entrega se vuelve un problema de acceso por las condiciones estructurales del espacio de entrega y de negociaciones con otros actores no laborales que inciden directamente en sus trabajos. En zonas densas o con edificios sin elevador, el trabajo se materializa como carga física y negociación con dispositivos de control. José Luis describe cómo, ante marchas o cierres, la entrega exige caminar varias cuadras con ",
+    [
+     "em",
+     {},
+     "bolsas llenas de paquetes"
+    ],
+    " y luego ",
+    [
+     "em",
+     {},
+     "subir un edificio 3, 4 pisos"
+    ],
+    "; y añade un elemento clave de negociación cotidiana por el espacio pues ",
+    [
+     "em",
+     {},
+     "muchas veces no nos daba chance de usar el elevador… a las puras escaleras"
+    ],
+    " (José Luis, subcontratado Amazon, comunicación personal, abril de 2025). Aquí la ciudad no es tránsito abstracto, sino que aspectos como la infraestructura (o ausencia de ella) así como las relaciones sociales o negociación que suceden en ese espacio."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "El tráfico y las contingencias metropolitanas aparecen como fricción estructural que, sin embargo, se procesa como problema individual cuando se activa la lógica de evidencias para justificar interrupciones en el flujo de tareas. José Luis lo sintetiza: ",
+    [
+     "em",
+     {},
+     "hay muchísimo tráfico, no puedo avanzar… mandábamos fotografías y ubicación"
+    ],
+    "; es decir, la experiencia urbana obliga a producir pruebas para justificar retrasos ante la subcontratista, reforzando una relación asimétrica donde el trabajador documenta y la empresa decide (José Luis, subcontratado Amazon, comunicación personal, abril de 2025). La fricción urbana se convierte en “incidencia” administrable, y el reparto se vuelve un trabajo de entrega, documentación y justificación."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Este conjunto de relaciones laborales y organización productiva también pasa por el trato y por mediaciones de diferenciación que puede expresarse en discriminación en accesos custodiados. Emilio, al relatar entregas en zonas como Polanco, subraya que ",
+    [
+     "em",
+     {},
+     "los policías… te tratan peor"
+    ],
+    " cuando anuncian ",
+    [
+     "em",
+     {},
+     "ya llegó el Mercado Libre"
+    ],
+    " y controlan el acceso al edificio (Emilio, subcontratado Meli, comunicación personal marzo de 2025). Muestra que el control del trabajo no proviene solo del algoritmo, sino que se acopla con agentes urbanos como policías, guardias o conserjes por mencionar algunos que ordenan quién entra, cuándo y bajo qué sospecha de manera unilateral y que impactan en la intensificación de su trabajo."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "En el mismo registro, Brenda muestra cómo el acceso al CE- DIS y la espera se viven corporalmente: ",
+    [
+     "em",
+     {},
+     "yo afuera entumida, con frío, no te dejan estar adentro… si te dejan pasar al baño, ya es ganancia"
+    ],
+    " (Brenda, Meli Envíos Extra, comunicación personal, marzo de 2025). La estación aparece como espacio de trabajo sin reconocimiento pleno pues se exige presencia y cumplimiento, pero con condiciones de intemperie y poco acceso a servicios."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "En otra tesitura, y en el tono en que este artículo está planteado, el riesgo urbano no aparece solo como “inseguridad general”, sino como condición concreta que estructura decisiones y emociones. Por ejemplo, Belén relata que, al iniciar entregas en ciertas zonas, la experiencia quedó marcada por la noticia de una agresión letal a un repartidor; su formulación expresa el horizonte de riesgo que acompaña el trabajo y que no se compensa proporcionalmente en la estructura de pago (Belén, subcontratada y cuentapropista Amazon, comunicación personal, marzo de 2025). Esto atraviesa la subjetividad de otros trabajadores que construyen narrativas, posicionamientos y que articulan su disposición para la acción."
+   ],
+   "\n",
+   [
+    "h3",
+    {
+     "id": "t-seccion-6"
+    },
+    "5.2. AGENCIA TERRITORIALIZADA Y SUBJETIVIDADES BAJO FRICCIÓN URBANA Y CONTROL ALGORÍTMICO"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Bajo las condiciones materiales descritas en 5.1 como lo son los tiempos invisibles, costos externalizados y microfricciones urbanas, la continuidad del trabajo en la última milla depende menos de “seguir la app” que de producir agencia situada. Es decir, un conjunto de tácticas espaciales, comunicacionales y probatorias que permiten sostener la jornada pese a la variabilidad del territorio y la opacidad de la evaluación. Estas tácticas no revierten la asimetría estructural del régimen plataformizado (la plataforma conserva el monopolio de los criterios de desempeño y de los umbrales de sanción), pero sí constituyen un repertorio práctico para amortiguar pérdidas de tiempo, reducir exposición a riesgo y evitar incidencias. Al mismo tiempo, esas tácticas no son “solo técnicas” ya que producen y reorganizan subjetividades como lo es la ansiedad, orgullo práctico, frustración, vigilancia permanente por mencionar algunas, moduladas por la zona, el tipo de vehículo, la experiencia y el trato recibido en puntos de acceso."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "De esta manera sintetizamos en cuatro vías posibles de estrategias de acción orientada a resistir y aliviar el control ejercido por la plataforma, las interacciones con otros actores y las condiciones morfológicas de la ciudad. En primer lugar se encuentra el reordenamiento de las rutas a partir de una cartografía vivida; en segundo, redes digitales que funcionan como infraestructuras informales de aprendizaje, coordinación y cuidado; por último, negociación y prueba como forma de expresión de relaciones sociales en el proceso de trabajo."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Una primera familia de estrategias consiste en reordenar la secuencia impuesta por la plataforma y reconstruir la ruta en clave territorial. En Amazon (Flex y subcontratistas), el problema recurrente es que la numeración y el orden “oficial” no siempre siguen una lógica espacial eficiente; esto obliga a los trabajadores a recodificar paquetes, reacomodarlos y diseñar una secuencia propia para evitar traslados redundantes. Belén lo sintetiza así: ",
+    [
+     "em",
+     {},
+     "yo los acomodaba conforme a las direcciones"
+    ],
+    " y, de forma más operativa, explica que ",
+    [
+     "em",
+     {},
+     "los vas acomodando conforme a la distancia"
+    ],
+    ", incluso marcando manualmente paquetes para que el orden de entrega responda a la ciudad real y no al ",
+    [
+     "em",
+     {},
+     "número"
+    ],
+    " de la aplicación (Belén, subcontratada y cuentapropista Amazon, comunicación personal, marzo de 2025)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "En esta práctica se observa que la ruta no es solo un trayecto, sino una cartografía vivida que integra densidad de entregas, edificios, topografía y tiempos de acceso basados en experiencias previas y mapas mentales que construyen y comparten en el tiempo. En esa tesitura, reordenar no es un “truco”, sino que se trata de trabajo adicional de coordinación espacial que la plataforma presupone, pero no remunera directamente. Es también un primer punto de subjetivación pues el trabajador “vale” en la medida en que logra convertir las desavenencias de la jornada de trabajo en rendimiento medible."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "En Mercado Libre Envíos Extra, la reconfiguración espacial aparece con un lenguaje similar, aunque suele expresarse como “estrategia” para hacer viable la jornada. Brenda lo formula con economía: ",
+    [
+     "em",
+     {},
+     "generando una ruta como más estratégica"
+    ],
+    " (Brenda, Meli Envíos Extra, comunicación personal, marzo de 2025). En el caso de Hasel, la autonomía práctica se vuelve explícita: “como independiente tú planeas tu ruta… ",
+    [
+     "em",
+     {},
+     "lo hago por zona"
+    ],
+    "”, especialmente cuando las entregas se dispersan o la topografía empeora (calles empinadas, terracería, asentamientos periféricos), lo que obliga a anticipar costos de tiempo, riesgo y desgaste (Hasel, Meli Envíos Extra, comunicación personal, marzo de 2025)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Una segunda familia de estrategias se organiza en torno a redes digitales que funcionan como infraestructuras informales de aprendizaje, coordinación y cuidado. El ingreso al reparto no llega con manuales completos; por eso, la preparación se desplaza hacia tutoriales y consejos entre pares. Hasel describe su entrada al oficio como un proceso deliberado de búsqueda: ",
+    [
+     "em",
+     {},
+     "me fui informando más… en YouTube y en TikTok… cada conductor daba sus consejos"
+    ],
+    " (Hasel, Meli Envíos Extra, comunicación personal, marzo de 2025). Brenda, de modo más directo, reconoce que ciertas técnicas se adoptan porque “la verdad lo vimos en un TikTok” (Brenda, Meli Envíos Extra, comunicación personal, marzo de 2025)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "WhatsApp, entendida como una red sociodigital, cumple una doble función para este proceso. Primero, como espacio de sociabilidad, Brenda relata que en ciertos CEDIS ",
+    [
+     "em",
+     {},
+     "tenían un grupo de WhatsApp de todos"
+    ],
+    ", lo que facilita integración, circulación de avisos y resolución de contingencias (Brenda, Meli Envíos Extra, comunicación personal, marzo de 2025). Segundo, como herramienta de resolución de fricciones urbanas y de “normalización” de incidencias (domicilios mal marcados, referencias incorrectas). Hasel explica que, ante direcciones confusas, una salida pragmática es pedir ubicación y resolver por mensajería: ",
+    [
+     "em",
+     {},
+     "le voy a mandar un mensaje de WhatsApp a ver si me puede enviar su ubicación… y te das cuenta que no es ni siquiera ahí"
+    ],
+    " (Hasel, Meli Envíos Extra, comunicación personal, marzo de 2025)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Si bien estas redes de apoyo o sociabilidad no eliminan opacidad algorítmica, pueden ser un espacio en donde se producen una inteligencia práctica compartida que reduce el costo individual del error urbano (direcciones mal punteadas, calles sin número, referencias falsas). A nivel subjetivo, también estabilizan un modo de “habitar” el trabajo ya que la incertidumbre se vuelve gestionable a través de repertorios colectivos."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Una tercera familia de estrategias se despliega en el corazón de las interacciones en el entorno urbano tales como accesos custodiados, vigilancia privada y reglas de edificio. Allí, la agencia es negociación y es prueba. José Luis describe que, para acelerar entregas masivas, a veces ",
+    [
+     "em",
+     {},
+     "sí les podemos dejar los paquetes a los guardias de seguridad en la recepción… era más rápido"
+    ],
+    ", incluso cuando se trata de ",
+    [
+     "em",
+     {},
+     "10, 15 o 20 paquetes en un solo edificio"
+    ],
+    "; pero el mismo relato muestra el reverso del acceso: ",
+    [
+     "em",
+     {},
+     "no nos dejaban pasar"
+    ],
+    " y, en ocasiones, tampoco ",
+    [
+     "em",
+     {},
+     "usar el elevador"
+    ],
+    ", forzando a cargar y subir escaleras con presión de tiempo (",
+    [
+     "em",
+     {},
+     "ya es tarde"
+    ],
+    ") (José Luis, subcontratado Amazon, comunicación personal, abril de 2025). Esta escena muestra cómo la ciudad produce el cuello de botella, y cómo la plataforma suele contabilizar el efecto como desempeño."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "En paralelo, el trabajo se densifica como producción de evidencias. Emilio lo formula sin ambigüedad: ",
+    [
+     "em",
+     {},
+     "tenías que tomar foto de todo"
+    ],
+    ", y el alcance de ese “todo” no es únicamente la entrega; incluye inspeccionar y fotografiar el vehículo para evitar cargos por daños (",
+    [
+     "em",
+     {},
+     "ese rayoncito… te lo cobran"
+    ],
+    ") (Emilio, subcontratado Meli, comunicación personal, marzo de 2025). La prueba, entonces, es un componente estructural del proceso laboral: documentar para protegerse de sanción, de cobro, de reclamo o de disputa por responsabilidad."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Aquí se materializa con nitidez la asimetría informacional ya que el trabajador produce evidencia en tiempo real, pero la decisión final como si vale como justificación, si procede sanción o si se activa penalización permanece del lado de la plataforma o del intermediario. La “prueba” es, a la vez, tecnología de defensa y tecnología de disciplinamiento."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    [
+     "strong",
+     {},
+     "5.2.1.- Subjetividades: miedo, agravio y “autonomía vigilada”"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Estas estrategias se sostienen en un trasfondo afectivo que varía por territorio y experiencia. La subjetividad no aparece como un “extra” psicológico, sino como condición de posibilidad de la agencia: sin vigilancia atencional, sin cálculo del riesgo, sin tolerancia a la incertidumbre y sin disposición a negociar, el trabajo se vuelve inviable. Brenda lo ejemplifica al narrar una ruta enviada “a un cerro”: ",
+    [
+     "em",
+     {},
+     "me dio mucho miedo… calles sin pavimentar… nos mandaban a zonas rojas"
+    ],
+    ", y vincula ese miedo con el resultado operativo (no completar entregas, regresar paquetes) (Brenda, Meli Envíos Extra, comunicación personal, marzo de 2025). Hasel, por su parte, al describir zonas difíciles por topografía y dispersión, muestra que la ruta se decide también por afectos territoriales pues hay áreas “peores” donde el costo físico y el riesgo aumentan, por lo que la “autonomía” se reduce a escoger el mal menor dentro de lo disponible (Hasel, Meli Envíos Extra, comunicación personal, marzo de 2025)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Lo que resulta de este análisis es la articulación de una experiencia de ",
+    [
+     "em",
+     {},
+     "autonomía vigilada"
+    ],
+    " ya que existe margen para reorganizar rutas, negociar accesos y construir heurísticas, pero ese margen está continuamente condicionado por métricas, evidencias, umbrales de “incidencia” y el riesgo territorial. La subjetividad resultante oscila entre orgullo práctico dado por el saber hacer, ansiedad por cumplir bajo incertidumbre y lograr las métricas establecidas, frustración por el trato y tiempos no reconocidos, y finalmente, cálculo defensivo mediante probar, documentar, evitar zonas reconocidas como peligrosas. En esa tensión, la agencia resultante es el recurso ordinario para “hacer habitable” el trabajo en ciudades desiguales (Valenzuela Aguilar, 2016), aun cuando la plataforma capture el valor de ese saber territorial sin reconocerlo como calificación."
+   ],
+   "\n",
+   [
+    "h3",
+    {
+     "id": "t-seccion-7"
+    },
+    "6. CONCLUSIONES"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "A partir del análisis comparativo de repartidores de Amazon y Mercado Libre, tanto subcontratados o por cuenta propia en la Ciudad de México, este artículo sostiene que la última milla no puede comprenderse como un problema meramente logístico sin tomar en cuenta que se desarrolla en un entorno urbano que tiene un impacto significativo en su contenido. La evidencia muestra que en la ciudad se estructura la jornada, se definen fricciones materiales y dispositivos de acceso, se producen riesgos diferenciales y, en esa medida, media el control algorítmico y la precarización. Con ello, propongo una lectura urbano-laboral del trabajo plataformizado que tiene por particular una ciudad latinoamericana como lo es la Ciudad de México ya que la precariedad no se explica solo por la aplicación o por el “mercado”, sino por el acoplamiento entre régimen laboral desprotegido, gestión por métricas y morfologías urbanas desiguales (Valenzuela Aguilar, 2016)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "El primer hallazgo es que la precariedad juvenil se amplifica cuando se intersectan las formas de contratación que tienden a la deslaboralización debido a la flexibilización mediada por las plataformas con las fricciones de la ciudad. En ambos circuitos, el modelo de negocio descansa en la externalización de costos y en la normalización de tiempos no pagados. A ese sustrato laboral se añade el peso específico de la ciudad tales como el tráfico, topografías hostiles, zonas con inseguridad, casetas, elevadores y seguridad privada. El efecto no es solamente “más esfuerzo”, sino un mecanismo de precarización observable cuando el cálculo algorítmico choca con fricciones urbanas, el desfase tiende a registrarse como incidencia atribuible al repartidor como lo es el retraso, entrega fallida o la cancelación, desplazando la responsabilidad desde la infraestructura y la gobernanza urbana hacia el desempeño individual. Para una generación que ingresa al mercado laboral en condiciones de flexibilización y trayectorias fragmentadas, el reparto aparece como ingreso inmediato, pero también como un dispositivo de vulnerabilidad: la promesa de autonomía se traduce en una forma de control indirecto que privatiza riesgos y costos, mientras mantiene opacos los criterios de evaluación y sanción."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "El segundo hallazgo es que la experiencia juvenil en la última milla produce una subjetividad algorítmico-territorial, es decir, en la que aprendizajes dados por el trabajo por fuera del diseño de la plataforma son aplicadas para llenar los huecos productivos y hacer más eficiente el desempeño de las tareas. Las y los repartidores desarrollan saberes situados que son indispensables para que el trabajo funcione como cartografías prácticas de riesgo, negociación de accesos, reordenamientos tácticos de ruta, anticipación de puntos conflictivos y uso de heurísticas para reducir tiempos muertos. Estos saberes constituyen una forma de calificación práctica articulado por un conocimiento de la ciudad y de sus reglas informales que se moviliza cotidianamente para sostener el rendimiento. Sin embargo, su valor no se reconoce como calificación remunerable: tiende a ser capturado por la plataforma como trazas, datos y patrones de desempeño, reforzando una asimetría en la que el trabajador aporta inteligencia territorial mientras la empresa monopoliza los criterios de evaluación. En ese proceso se intensifica una carga cognitiva y emocional en el cual intervienen vigilancia permanente, ansiedad por el rendimiento, frustración ante la opacidad de sanciones y, de manera decisiva, miedo urbano como principio organizador de la jornada. La ciudad se interioriza como mapa afectivo en el que aparecen zonas evitables (topofobias) o zonas posibles (topofilias) que no solo ordenan la movilidad, sino que delimitan lo que es viable laboralmente."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "El tercer hallazgo es que, frente a esta doble condición (precariedad laboral y precariedad territorial) emergen formas de agencia juvenil que son a la vez pragmáticas y situadas. Los repertorios observados incluyen reordenamiento de paquetes y secuencias para adaptarse a edificios y accesos; rutas alternas; estrategias de “prueba” (capturas, fotos, ubicaciones) para defenderse ante disputas; y uso de redes digitales (WhatsApp, TikTok, YouTube) como infraestructuras informales de aprendizaje, coordinación y cuidado. Estas prácticas permiten amortiguar los efectos más lesivos del control algorítmico y de la fricción urbana, y revelan capacidades comunitarias mínimas que desafían la pretensión de la plataforma de operar como sistema deslocalizado. No obstante, es importante subrayar su límite pues la agencia existe en un marco de ",
+    [
+     "em",
+     {},
+     "autonomía vigilada"
+    ],
+    ". Puede mejorar la supervivencia cotidiana del trabajo, pero no revierte la asimetría estructural dado por lo informacional, contractual y disciplinaria que define el régimen de trabajo desempeñado en la entrega de última milla. Este análisis es clave para evitar dos reduccionismos: ni todo se explica por el “algoritmo” (sin ciudad), ni todo se explica por la “ciudad difícil” (sin plataforma). Lo que aparece es un ensamblaje en el que el cálculo logístico se vuelve control, y ese control se concreta territorialmente con fricciones y dispositivos locales."
+   ],
+   "\n",
+   [
+    "h3",
+    {
+     "id": "t-seccion-8"
+    },
+    "BIBLIOGRAFÍA"
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "pt"
+    },
+    "Abílio, L.. (2020). Uberização: a era do trabalhador just-in-time?. Estudos Avançados 34(98). ",
+    [
+     "a",
+     {
+      "href": "https://doi.org/10.1590/s0103-4014.2020.3498.008"
+     },
+     "https://doi.org/10.1590/s0103-4014.2020.3498.008"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Alba Vega, C., Bensusán, G. y Vega, G. (Coords.) (2024). ",
+    [
+     "em",
+     {},
+     "El trabajo del futuro con derechos laborales. Diagnóstico y estrategia de política pública para el reconocimiento de derechos laborales de las personas trabajadoras por plataformas digitales en la Ciudad de México"
+    ],
+    ". México: El Colegio de México."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Atzeni, M. (2023). The labour process and workers’ rights at Mercado Libre: hiding exploitation through regulation in the digital economy. ",
+    [
+     "em",
+     {},
+     "Work in the Global Economy"
+    ],
+    ", 3(2), 181–200. ",
+    [
+     "a",
+     {
+      "href": "https://doi.org/10.1332/27324176Y2023D000000003"
+     },
+     "https://doi.org/10.1332/27324176Y2023D000000003"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Atzeni, M., y Filipetto, S. (2025). Mercado Libre y el uso de nuevas tecnologías en el E-commerce: ¿qué consecuencias tiene para los trabajadores?. ",
+    [
+     "em",
+     {},
+     "Observatorio Económico"
+    ],
+    ", (203), 6-9."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Barnes, T., O’Neill, C., y Kelly, L. (2025). New worlds of logistical labour: Spaces, places, technologies, workers. Work Organisation, Labour & Globalisation, 19(2), 127–139. ",
+    [
+     "a",
+     {
+      "href": "https://www.jstor.org/stable/48834452"
+     },
+     "https://www.jstor.org/stable/48834452"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Bonini, T., y Treré, E. (2024). ",
+    [
+     "em",
+     {},
+     "Algorithms of resistance: The everyday fight against platform power"
+    ],
+    ". The MIT Press. ",
+    [
+     "a",
+     {
+      "href": "https://doi.org/10.7551/mitpress/14329.001.0001"
+     },
+     "https://doi.org/10.7551/mitpress/14329.001.0001"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Braun, V., y Clarke, V. (2006). Using thematic analysis in psychology. ",
+    [
+     "em",
+     {},
+     "Qualitative Research in Psychology, 3"
+    ],
+    "(2), 77–101. ",
+    [
+     "a",
+     {
+      "href": "https://doi.org/10.1191/1478088706qp063oa"
+     },
+     "https://doi.org/10.1191/1478088706qp063oa"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Dardot, Pierre y Laval, Christian (2013). La nueva razón del mundo: ensayo sobre la sociedad neoliberal. Barcelona: Gedisa."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "De Stefano, V. (2016). ",
+    [
+     "em",
+     {},
+     "The rise of the “just-in-time workforce”: On-demand work, crowdwork and labour protection in the “gig-economy”"
+    ],
+    " (Conditions of Work and Employment Series No. 71). International Labour Office."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Denzin, N. K. (1978). ",
+    [
+     "em",
+     {},
+     "The research act: A theoretical introduction to sociological methods"
+    ],
+    " (2nd ed.). McGraw-Hill."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Dewinter, J.; Kocurek, C. A.; Nichols, R. Taylorism 2.0: Gamification, Scientific Management and the Capitalist Appropriation of Play. ",
+    [
+     "em",
+     {},
+     "Journal of Gaming & Virtual Worlds"
+    ],
+    ", v. 6, n. 2, p. 109-127, 2014. ",
+    [
+     "a",
+     {
+      "href": "https://digitalcommons.tacoma.uw.edu/ias_pub/531"
+     },
+     "https://digitalcommons.tacoma.uw.edu/ias_pub/531"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "fr"
+    },
+    "Durand, J.P. (2017). ",
+    [
+     "em",
+     {},
+     "La Fabrique de l’homme nouveau. Travailler, consommer et se taire"
+    ],
+    ". Paris: Éditions Le bord de l’eau"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Fagioli, A. (2022). El general intellect en bicicleta: Un análisis marxista del trabajo de reparto en Argentina. ",
+    [
+     "em",
+     {},
+     "Razón Crítica"
+    ],
+    ", (12). ",
+    [
+     "a",
+     {
+      "href": "https://doi.org/10.21789/25007807.1750"
+     },
+     "https://doi.org/10.21789/25007807.1750"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Gandini, A. (2018). Labour process theory and the gig econ- ",
+    [
+     "em",
+     {},
+     "Human Relations"
+    ],
+    ", omy. 72(6), 1039–1056. ",
+    [
+     "a",
+     {
+      "href": "https://doi.org/10.1177/0018726718790002"
+     },
+     "https://doi.org/10.1177/0018726718790002"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "García Ruiz, P. (2023). Ratings y rankings: el vínculo consumidor-trabajador y la transformación del trabajo digital. ",
+    [
+     "em",
+     {},
+     "Revista Española de Sociología"
+    ],
+    ", 32(3), a174. ",
+    [
+     "a",
+     {
+      "href": "https://doi.org/10.22325/fes/res.2023.174"
+     },
+     "https://doi.org/10.22325/fes/res.2023.174"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Guest, G., Bunce, A., y Johnson, L. (2006). How many interviews are enough? An experiment with data saturation and variability. ",
+    [
+     "em",
+     {},
+     "Field Methods, 18"
+    ],
+    "(1), 59–82. ",
+    [
+     "a",
+     {
+      "href": "https://doi.org/10.1177/1525822X05279903"
+     },
+     "https://doi.org/10.1177/1525822X05279903"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Haidar, J. (2023). La dimensión olvidada en los estudios sobre trabajo de plataformas: la subjetividad de quienes trabajan. ",
+    [
+     "em",
+     {},
+     "Estudios Sociológicos de El Colegio de México"
+    ],
+    ", 42, 1–22. ",
+    [
+     "a",
+     {
+      "href": "https://doi.org/10.24201/es.2024v42.e2336"
+     },
+     "https://doi.org/10.24201/es.2024v42.e2336"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Hine, C. (2015). ",
+    [
+     "em",
+     {},
+     "Ethnography for the internet: Embedded, embodied and everyday"
+    ],
+    ". Bloomsbury Academic."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Lindón Villoria, A. (2006). Cotidianidad y espacialidad: La experiencia de la precariedad laboral. En C. C. Delgado y A. B. N. Tijerina (Coords.), ",
+    [
+     "em",
+     {},
+     "La experiencia de la ciudad y el trabajo como espacios de vida"
+    ],
+    ". Plaza y Valdés."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "López de la Fuente, G. (2019). El trabajador joven en la economía de las plataformas ¿juventud divino tesoro?. ",
+    [
+     "em",
+     {},
+     "International Journal of Software Engineering for Big Companies (IJISEBC)"
+    ],
+    ", 6(1), 133–141."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Mora Salas, M., y Recinas, S. (2025). Autonomía negociada: agencia y control en el trabajo contemporáneo. ",
+    [
+     "em",
+     {},
+     "Estudios Sociológicos de El Colegio de México"
+    ],
+    ", 43, 1–25. ",
+    [
+     "a",
+     {
+      "href": "https://doi.org/10.24201/es.2025v43.e2848"
+     },
+     "https://doi.org/10.24201/es.2025v43.e2848"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Mora-Salas, M. (2021). The Sociology of Inequality in Latin America. En X. Bada y L. Rivera-Sánchez (Eds.), ",
+    [
+     "em",
+     {},
+     "The Oxford Handbook of the Sociology of Latin America"
+    ],
+    ". Oxford University Press."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "OIT (2021). ",
+    [
+     "em",
+     {},
+     "World Employment and Social Outlook: The Role of Digital Labour Platforms in Transforming the World of Work"
+    ],
+    ". ",
+    [
+     "a",
+     {
+      "href": "https://www.ilo.org/global/research/global-reports/weso/2021/WCMS_771749/lang–en/index.htm"
+     },
+     "https://www.ilo.org/global/research/global-reports/weso/2021/WCMS_771749/lang–en/index.htm"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Patella-Rey, P. J. (2015). Gamification and post-Fordist capitalism21. En MIT Press (Ed.), Gamification and post-Fordist capialism. ",
+    [
+     "a",
+     {
+      "href": "https://doi.org/10.7551/mitpress/9788.003.0019"
+     },
+     "https://doi.org/10.7551/mitpress/9788.003.0019"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Patton, M. Q. (2015). ",
+    [
+     "em",
+     {},
+     "Qualitative research & evaluation methods: Integrating theory and practice"
+    ],
+    " (4th ed.). SAGE Publications."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Pink, S., Horst, H. A., Postill, J., Hjorth, L., Lewis, T., y Tacchi, J. (2016). ",
+    [
+     "em",
+     {},
+     "Digital ethnography: Principles and practice"
+    ],
+    ". SAGE Publications."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Ros, C., y Linne, J. (2023). Jóvenes trabajadores de empresas digitales de reparto: Sentidos del trabajo, percepción de derechos y formas de participación. ",
+    [
+     "em",
+     {},
+     "Hipertextos"
+    ],
+    ", ",
+    [
+     "em",
+     {},
+     "11"
+    ],
+    "(19), 066-066."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Serrano Pascual, A. (1995). Procesos paradójicos de construcción de la transición juvenil. ",
+    [
+     "em",
+     {},
+     "Revista Española de Investigaciones Sociológicas, 71/72"
+    ],
+    ", 177–199."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Srnicek, N. (2017). ",
+    [
+     "em",
+     {},
+     "Platform Capitalism"
+    ],
+    ". Polity Press."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Theodore, N., y Gutelius, B. (2025). The e-commerce labour regime: Amazon and beyond. Work Organisation, Labour & Globalisation, 19(2), 291–305."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Timmermans, S., y Tavory, I. (2012). Theory construction in qualitative research: From grounded theory to abductive analysis. ",
+    [
+     "em",
+     {},
+     "Sociological Theory, 30"
+    ],
+    "(3), 167–186. ",
+    [
+     "a",
+     {
+      "href": "https://doi.org/10.1177/0735275112457914"
+     },
+     "https://doi.org/10.1177/0735275112457914"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Tuan, Yi-Fu (1980). Landscapes offear, Blackwell’s, Oxford"
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "____ (1990). Topophifia: a study of environmental perception, attitudes and values, Prentice Hall, Nueva Jersey."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Valenzuela Aguilar, A. (2016). Construcción espacial del miedo. Morelos: UAEM, Juan Pablos Editor"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "van Doorn, N., & Chen, J. Y. (2021). Odds stacked against workers: datafied gamification on Chinese and American food delivery platforms. Socio-Economic Review, 19(4), 1345–1367. ",
+    [
+     "a",
+     {
+      "href": "https://doi.org/10.1093/ser/mwab028"
+     },
+     "https://doi.org/10.1093/ser/mwab028"
+    ]
+   ],
+   "\n",
+   [
+    "section",
+    {},
+    [
+     "h3",
+     {
+      "id": "t-seccion-9"
+     },
+     "NOTAS"
+    ],
+    [
+     "ol",
+     {},
+     "\n",
+     [
+      "li",
+      {
+       "id": "t-fn1"
+      },
+      "Este artículo fue elaborado como parte del proyecto Concepciones de justicia y transformaciones de ciudadanía laboral: el caso de los repartidores digitales en México IH-2025-G-397 (Secihti). ",
+      [
+       "a",
+       {
+        "href": "#t-fnref1",
+        "id": "t-llamada-fnref1-1"
+       },
+       "↩"
+      ]
+     ],
+     "\n"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Cómo citar: ",
+    [
+     "em",
+     {},
+     "Bajo el Volcán. Revista del Posgrado de Sociología. BUAP"
+    ],
+    ", Año 7, Núm. 14, mayo – octubre de 2026, pp. 17-43. https://doi.org/10.32399/ICSYH.bvbuap.2954-4300.2026.7.14.870"
+   ],
+   [
+    "p",
+    {},
+    [
+     "a",
+     {
+      "href": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
+     },
+     "Licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional"
+    ],
+    ". Publicación de acceso abierto diamante editada por la Benemérita Universidad Autónoma de Puebla."
+   ],
+   "\n"
+  ],
+  "\n"
+ ]
+};

@@ -163,6 +163,8 @@ MOTIVOS_TEXTO = {
     "limite-trafico": "El servidor de la revista ha pedido reducir el tráfico; se volverá a intentar en otra ejecución.",
     "dominio-no-permitido": "La red del entorno no permite el dominio de la revista.",
     "servidor": "No se ha podido descargar la página del artículo.",
+    "denegado": "El servidor de la revista ha denegado el acceso; no se ha insistido.",
+    "certificado-tls": "El certificado de seguridad de la web de la revista no se puede verificar; no se ha consultado.",
 }
 
 

@@ -1,0 +1,1103 @@
+// Copia de textos/10-24215-23139048e084.json para abrir la aplicación sin servidor.
+(window.DATOS_REVISTAS = window.DATOS_REVISTAS || {})["textos/10-24215-23139048e084.json"] = {
+ "version": 1,
+ "recogido": "2026-10-18T11:41:15+00:00",
+ "doi": "10.24215/23139048e084",
+ "titulo": "Reseña a Enrique Quinteros (Comp.). (2023). Escritoras salteñas. Emma Solá de Solá",
+ "revista": "2313-9048",
+ "numero": "v18-n18-2025",
+ "licencia": {
+  "codigo": "by-nc-sa",
+  "nombre": "CC BY-NC-SA 4.0",
+  "nombre_completo": "Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional",
+  "url": "https://creativecommons.org/licenses/by-nc-sa/4.0",
+  "url_legal": "https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.es"
+ },
+ "fuente": {
+  "url": "https://perio.unlp.edu.ar/ojs/index.php/cps/article/download/8005/7463/36461?inline=1",
+  "formato": "HTML",
+  "plataforma": "ojs-galerada",
+  "pagina": "https://perio.unlp.edu.ar/ojs/index.php/cps/article/view/8005"
+ },
+ "autores_cita": [
+  {
+   "apellidos": "Ortuño",
+   "nombre_pila": "Leonor",
+   "nombre": null
+  }
+ ],
+ "avisos_derechos": [
+  "Derechos de autor 2025 Cuadernos de H ideas",
+  "Licencia Derechos de autor 2025 Cuadernos de H ideas Esta obra está bajo una licencia internacional Creative Commons Atribución-NoComercial-CompartirIgual 4.0. La aceptación de un original por parte de la revista implica la cesión no exclusiva de los derechos patrimoniales de los/as autores/as en favor del editor, quien permite la reutilización, luego de su edición (postprint), bajo una Licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0) Acorde a estos términos, el material se puede compartir (copiar y redistribuir en cualquier medio o formato) y adaptar (remezclar, transformar y crear a partir del material otra obra), siempre que a) se cite la autoría y la fuente original de su publicación (revista y URL de la obra), b) no se use para fines comerciales y c) se mantengan los mismos términos de la licencia. La cesión de derechos no exclusivos implica que luego de su edición (postprint) en Cuadernos de H ideas las/os autoras/es pueden publicar su trabajo en cualquier idioma, medio y formato; en tales casos, se solicita que se consigne que el material fue publicado originalmente en esta revista. Tal cesión supone, también, la autorización de los/as autores/as para que el trabajo sea cosechado por SEDICI, el repositorio institucional de la Universidad Nacional de La Plata, y sea difundido en las bases de datos que el equipo editorial considere adecuadas para incrementar la visibilidad de la publicación y de sus autores/as. Asimismo, la revista incentiva a las/os autoras/es para que luego de su publicación en Cuadernos de H ideas depositen sus producciones en otros repositorios institucionales y temáticos, bajo el principio de que ofrecer a la sociedad la producción científica y académica sin restricciones contribuye a un mayor intercambio del conocimiento global."
+ ],
+ "idioma_principal": "es",
+ "indice": [],
+ "vueltas": {
+  "t-fn1": "t-llamada-fn1-1",
+  "t-redalyc_314964007_ref8": "t-llamada-redalyc_314964007_ref8-1",
+  "t-fn2": "t-llamada-fn2-1",
+  "t-redalyc_314964007_ref5": "t-llamada-redalyc_314964007_ref5-1",
+  "t-fn3": "t-llamada-fn3-1",
+  "t-fn4": "t-llamada-fn4-1",
+  "t-fn5": "t-llamada-fn5-1",
+  "t-fn6": "t-llamada-fn6-1",
+  "t-redalyc_314964007_ref2": "t-llamada-redalyc_314964007_ref2-1",
+  "t-redalyc_314964007_ref3": "t-llamada-redalyc_314964007_ref3-1",
+  "t-redalyc_314964007_ref9": "t-llamada-redalyc_314964007_ref9-1",
+  "t-redalyc_314964007_ref4": "t-llamada-redalyc_314964007_ref4-1",
+  "t-redalyc_314964007_ref7": "t-llamada-redalyc_314964007_ref7-1",
+  "t-redalyc_314964007_ref6": "t-llamada-redalyc_314964007_ref6-1",
+  "t-redalyc_314964007_ref1": "t-llamada-redalyc_314964007_ref1-1"
+ },
+ "contenido": [
+  "\n",
+  [
+   "span",
+   {
+    "id": "t-visor-cabecera"
+   },
+   "\n",
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-logo-institucion"
+    },
+    "\n",
+    [
+     "figura",
+     {}
+    ]
+   ],
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-logo-revista"
+    },
+    "\n",
+    [
+     "figura",
+     {}
+    ]
+   ],
+   "\n",
+   "\n"
+  ],
+  "\n",
+  [
+   "span",
+   {
+    "id": "t-articulo"
+   },
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-front"
+    },
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-articulo-categoria"
+     },
+     "\n",
+     [
+      "p",
+      {},
+      "Reseñas"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-articulo-meta"
+     },
+     "\n",
+     [
+      "p",
+      {},
+      "Reseña a Enrique Quinteros (Comp.). (2023). ",
+      [
+       "span",
+       {},
+       "Escritoras salteñas. Emma Solá de Solá"
+      ],
+      ". La Aparecida / Instituto de Investigación en Ciencias Sociales y Humanidades (ICSOH-CONICET). 110 pp."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "Review to Enrique Quinteros (Comp.). (2023). ",
+      [
+       "span",
+       {},
+       "Escritoras salteñas. Emma Solá de Solá"
+      ],
+      ". La Aparecida / Instituto de Investigación en Ciencias Sociales y Humanidades (ICSOH-CONICET). 110 pp."
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-articulo-acerca"
+     },
+     "\n",
+     [
+      "span",
+      {
+       "id": "t-ficha-general"
+      },
+      "\n",
+      [
+       "span",
+       {
+        "id": "t-autores-articulo"
+       },
+       "\n",
+       "\n",
+       "\n",
+       [
+        "a",
+        {
+         "href": "https://orcid.org/0000-0002-8457-3222"
+        },
+        [
+         "figura",
+         {}
+        ]
+       ],
+       "  ",
+       [
+        "span",
+        {},
+        "Leonor"
+       ],
+       " ",
+       [
+        "span",
+        {},
+        "Ortuño"
+       ],
+       " ",
+       [
+        "span",
+        {}
+       ],
+       [
+        "span",
+        {},
+        " le.ortuno@hotmail.com"
+       ],
+       "\n",
+       "\n",
+       "\n",
+       [
+        "span",
+        {},
+        "Universidad Nacional de Jujuy"
+       ],
+       ", ",
+       [
+        "span",
+        {},
+        "Argentina"
+       ],
+       "\n",
+       "\n",
+       "\n"
+      ],
+      "\n",
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "Cuadernos de H ideas"
+       ],
+       "\n"
+      ],
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "Universidad Nacional de La Plata, Argentina"
+       ],
+       "\n"
+      ],
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "ISSN: "
+       ],
+       "1851-8206"
+      ],
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "ISSN-e: "
+       ],
+       "2313-9048"
+      ],
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "Periodicidad: "
+       ],
+       "Frecuencia continua"
+      ],
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "vol.  18, "
+       ],
+       "núm.  18, ",
+       [
+        "span",
+        {
+         "id": "t-elocation-id"
+        },
+        "e084, "
+       ],
+       [
+        "span",
+        {},
+        "2024"
+       ],
+       "\n"
+      ],
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       "direccion.publicaciones@perio.unlp.edu.ar",
+       "\n"
+      ],
+      "\n",
+      "\n",
+      [
+       "span",
+       {
+        "id": "t-articulo-product"
+       },
+       "\n",
+       [
+        "table",
+        {},
+        "\n",
+        [
+         "tr",
+         {},
+         "\n",
+         [
+          "th",
+          {},
+          [
+           "span",
+           {},
+           [
+            "figura",
+            {}
+           ]
+          ]
+         ],
+         [
+          "th",
+          {},
+          [
+           "span",
+           {},
+           "Quinteros E. (Comp.). Escritoras salteñas. Emma Solá de Solá. 2023. La Aparecida / Instituto de Investigación en Ciencias Sociales y Humanidades (ICSOH-CONICET). 110 pp."
+          ]
+         ],
+         "\n"
+        ],
+        "\n"
+       ],
+       "\n"
+      ],
+      "\n",
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "Recepción: "
+       ],
+       " 21 marzo  2024"
+      ],
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "Aprobación: "
+       ],
+       " 30 abril  2024"
+      ],
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "Publicación: "
+       ],
+       " 07 octubre  2024"
+      ],
+      "\n",
+      [
+       "br",
+       {}
+      ],
+      "\n",
+      [
+       "br",
+       {}
+      ],
+      "\n",
+      "\n",
+      "\n",
+      [
+       "span",
+       {},
+       "URL: "
+      ],
+      [
+       "a",
+       {
+        "href": "https://portal.amelica.org/ameli/journal/31/314964007/"
+       },
+       "https://portal.amelica.org/ameli/journal/31/314964007/"
+      ],
+      "\n",
+      "\n",
+      "\n",
+      [
+       "span",
+       {},
+       "DOI: "
+      ],
+      [
+       "a",
+       {
+        "href": "https://doi.org/10.24215/23139048e084"
+       },
+       "https://doi.org/10.24215/23139048e084"
+      ],
+      "\n",
+      "\n",
+      "\n",
+      [
+       "p",
+       {}
+      ],
+      "\n",
+      "\n",
+      "\n",
+      "\n",
+      [
+       "a",
+       {
+        "href": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+       },
+       [
+        "figura",
+        {}
+       ],
+       [
+        "br",
+        {}
+       ],
+       "\n"
+      ],
+      "Esta obra está bajo una ",
+      [
+       "a",
+       {
+        "href": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+       },
+       "Licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional."
+      ],
+      "\n",
+      "\n",
+      "\n",
+      [
+       "p",
+       {}
+      ],
+      "\n"
+     ],
+     "\n"
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-articulo-body"
+    },
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "p",
+     {
+      "lang": "en"
+     },
+     "The strong emphasis on the importance of the body to women’s past   has consistently been framed as a body from the shoulders down;   women’s minds have been excluded from this body. This emphasis has been enhanced   by the links between the body and the history of sexuality which have each strongly influenced the field over the last twenty years. Other emphases have contributed to the slighting of women’s ideas and their own assessments of the societies in which they lived […].",
+     [
+      "sup",
+      {},
+      [
+       "a",
+       {
+        "href": "#t-fn1",
+        "id": "t-llamada-fn1-1"
+       },
+       "1"
+      ]
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "(",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964007_ref8",
+       "id": "t-llamada-redalyc_314964007_ref8-1"
+      },
+      "Smith, 2008, p. 26"
+     ],
+     ")"
+    ],
+    "\n",
+    "\n",
+    [
+     "p",
+     {},
+     "El fragmento de Hilda Smith (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964007_ref8",
+       "id": "t-llamada-redalyc_314964007_ref8-2"
+      },
+      "2008"
+     ],
+     ") constituye uno de los argumentos de su artículo: “Women’s History as Intellectual History. A Perspective on the Journal of Women’s History”, publicado, en 2008, en el ",
+     [
+      "span",
+      {},
+      "Journal of Women's History"
+     ],
+     ". A partir de un detenimiento en la trayectoria de la revista, la autora pretende demostrar el lugar marginal que han recibido en las entregas de la publicación los estudios en torno a la historia de las mujeres y la historia intelectual. La mención considera que una de las razones se vincula, estrechamente, con la preeminencia de los trabajos que asocian el estudio de las mujeres al cuerpo y la sexualidad, y en los que pareciera existir una inclinación a mirar y a interrogar a las mujeres del pasado “de los hombros para abajo”, es decir, como sujetos desprovistos de cabeza, de pensamiento y de ideas."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Este pasaje funge así, como una ventana de interpretación, en el sentido que nos sitúa e intenta mostrar desde qué prisma estamos leyendo y comentando: ",
+     [
+      "span",
+      {},
+      "Escritoras salteñas. Emma Solá de Solá"
+     ],
+     " (2023). Este libro, compilado por Enrique Quinteros, forma parte de la producción del Instituto de Investigaciones en Ciencias Sociales y Humanidades (ICSOH-CONICET) (",
+     [
+      "a",
+      {
+       "href": "https://www.icsoh.unsa.edu.ar"
+      },
+      "https://www.icsoh.unsa.edu.ar"
+     ],
+     "/) de la Universidad Nacional de Salta, en esfuerzo conjunto con el Museo Histórico “Prof. Eduardo Ashur” (",
+     [
+      "a",
+      {
+       "href": "https://museohistoriconacional.cultura.gob.ar"
+      },
+      "https://museohistoriconacional.cultura.gob.ar"
+     ],
+     "/) de la misma universidad."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "La compilación de trabajos reunidos por Quinteros (2023) se nutre y se vincula (de modo oblicuo) con un reciente y renovado interés de las ciencias sociales y humanas, en general, y de la historiografía, en particular, por dar cuenta de acercamientos atentos a descentrar la mirada en el estudio de los escenarios culturales de la región latinoamericana. Algunos, con clara vocación de reivindicación de espacios y de productores culturales olvidados y/o menos explorados (cuestión que, entendemos, puede suscitar ciertas inquietudes e interrogantes necesarios de saldar con mayor amplitud). Y otros, con el propósito explícito de complejizar y de crear nuevos mapas culturales, a partir del rastreo analítico y crítico de “otros” agentes, formaciones, bienes culturales, redes y circulaciones.",
+     [
+      "a",
+      {
+       "href": "#t-fn2",
+       "id": "t-llamada-fn2-1"
+      },
+      [
+       "sup",
+       {},
+       "2"
+      ]
+     ],
+     " Por su parte, en ambas formas de interrogar el pasado, y con la intencionalidad de dicho descentramiento, se encuentran los recortes analíticos que tienen un marcado interés en integrar el género como categoría analítica e que intentan, en el mejor de los casos, “una relectura llamativa a partir del género con el objeto de intervenir, fisurar e interpelar lecturas instituidas” (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964007_ref5",
+       "id": "t-llamada-redalyc_314964007_ref5-1"
+      },
+      "Molloy, 2002, p. 161"
+     ],
+     ")."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "La obra se estructura en seis capítulos, que pueden ser leídos de manera separada. Sin embargo, la lectura conjunta nos otorga una visión integral de la figura de Emma Solá de Solá y de un contexto histórico de producción y de condiciones de posibilidad específicas. En concordancia con el autor, este trabajo colectivo es “una puerta de acceso a la trayectoria multifacética de una mujer que se hizo un lugar y un nombre […] al calor de los efectos de la modernidad” (p. 8). Cada uno de los apartados alumbra una zona de su biografía y su itinerario, que puede ser leído no como un recorrido lineal, sino como un conjunto de fragmentos que fisuran ciertas construcciones históricas y, a su vez, tensionan binarismos interpretativos (lo mundano y lo espiritual, lo público y lo privado) con los que se han intentado abordar las figuras femeninas, en general, y la de la autora en cuestión, de modo particular."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "El capítulo con el que da inicio el texto está a cargo de Víctor Enrique Quinteros y se centra en “El apostolado femenino en los escritos de Emma Solá de Solá”. El autor sitúa su objeto de estudio en el plexo de reconfiguraciones que emergieron en el seno de la iglesia católica argentina frente a las transformaciones del paisaje moderno en las primeras décadas del siglo XX. Concentra su análisis en la Acción Católica de Salta, como “una nueva forma y estructura asociativa que constituyó uno de los principales instrumentos de batalla del catolicismo ante los llamados embates de la secularización” (p. 13). Su detenimiento en la relación de las mujeres y el catolicismo, le da pie a enfocarse en la rama femenina de dicho espacio y, puntualmente, en la recuperación de la labor y la voz de Emma. El trabajo de indagación de sus escritos es operativizado a partir de un recorrido por la articulación de diversos tópicos en torno a la religión, que le permitieron a la autora “definir los contornos de una legítima religiosidad”. Este ejercicio muestra dos aportes interesantes: por un lado, la reconstrucción de la figura de Solá de Solá, como “intelectual católica” y su actuación como mediadora cultural",
+     [
+      "a",
+      {
+       "href": "#t-fn3",
+       "id": "t-llamada-fn3-1"
+      },
+      [
+       "sup",
+       {},
+       "3"
+      ]
+     ],
+     " entre la institución eclesiástica y un público amplio, mayormente conformado por mujeres laicas; por otro lado, a partir de la biografía recortada de la escritora, nos ofrece un acercamiento a interrogantes más amplios en torno al lugar de las labores de evangelización y de promoción de valores católicos llevados adelante por mujeres laicas en el contexto salteño de principios del siglo XX."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "El siguiente texto, escrito por Carlos Hernán Sosa, nos invita a reflexionar en torno a las “materialidades discursivas” (p. 29) con las que es posible reconstruir y escribir historias. Valiéndose de borradores de relatos de viaje, en tanto materiales inéditos y conservados en el archivo personal de la autora, el investigador busca e intenta complejizar el perfil de la intelectual. La conservación, el acceso y la disponibilidad de estos registros, habilita nuevas preguntas, temas y abordajes, considerando que pueden ser pensados y problematizados más allá de meras fuentes.",
+     [
+      "a",
+      {
+       "href": "#t-fn4",
+       "id": "t-llamada-fn4-1"
+      },
+      [
+       "sup",
+       {},
+       "4"
+      ]
+     ],
+     " A su vez, permite matizarlos y contrastarlos con otros registros para dinamizar una compresión compleja de sus ideas, su quehacer como productora intelectual y los ecos que se pueden trazar con la tradición de relatos de viajeras y viajeros en el XIX y en la primera mitad del siglo XX."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "En “Emma Solá de Solá, una portavoz en los albores de la modernidad”, su autora, Verónica Rosario Pavón, articula su trabajo en torno al lugar de la radio y la fotografía como dispositivos y tecnologías de la época que permitieron amplificar la proyección de los productores culturales en el espacio público. Enfocándose en la figura de Emma, como “referente intelectual” del escenario cultural salteño, y a partir de un corpus conformado por conferencias radiales y fotografías, el capítulo nos sumerge en las posibilidades y las tensiones presentes en la participación pública de las mujeres en el laicado católico local, considerando la emergencia y los usos de nuevos artefactos culturales en los escenarios públicos y privados. A partir de especificar la existencia de un público lector conformado por mujeres cristianas, el análisis se detiene en los posicionamientos discursivos de Solá de Solá en el marco más amplio del debate modernizador. El rastreo en sus alocuciones y en sus escritos, y el cruce con los registros fotográficos, revelan dos cuestiones a resaltar: las tensiones en el nudo crítico que atraviesa su discursividad y la forma en la que dicha discursividad narrativa y visual habilita su legitimación y su autolegitimación autoral."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Es decir, en primer lugar, se resalta el rechazo a las “teorías disolventes”, las cuales, en consonancia con los ideologemas socialistas y anarquistas, discutían los valores asociados a la mujer cristiana, la familia y la educación moral, como tópicos articuladores de la defensa de una “religiosidad ilustrada”. En segunda instancia, la reconstrucción de parte de su itinerario permite ver las formas en que la voz autoral de Emma se vio amplificada y, a su vez, autolegitimada. Cuestión que se vislumbra en la defensa y la encarnación de aquellos valores y “elementos sanos” de la sociedad que se veían tensionados por la prédica modernizadora."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Desde un acercamiento de corte literario, Gloria Quispe recorta su análisis en un texto inédito de Emma Solá de Solá: ",
+     [
+      "span",
+      {},
+      "Chango y Mancha. Aventuras de un escolar del Norte Argentino"
+     ],
+     ". Tal como lo enuncia la autora, el trabajo intenta recorrer los “avatares de una publicación que no fue…”, y delinea, en primer lugar, las coordenadas contextuales de producción de la versión en inglés y en castellano del texto. En una lectura cruzada con el archivo epistolar de Solá y Solá, reconstruye el derrotero de caminos fallidos para dar luz a la publicación.",
+     [
+      "a",
+      {
+       "href": "#t-fn5",
+       "id": "t-llamada-fn5-1"
+      },
+      [
+       "sup",
+       {},
+       "5"
+      ]
+     ],
+     " Esto le permite, a su vez, leer ciertos rastros de autopercepción y de autolegitimación de la autora como escritora profesional, más allá de los límites geográficos en los que se circunscribe su labor."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "En un recorrido lineal por los capítulos de la ",
+     [
+      "span",
+      {},
+      "nouvelle"
+     ],
+     ", el análisis se detiene en los tópicos que articulan el argumento narrativo. El detenimiento en la figura del gaucho y su reivindicación por el canon nacionalista durante los años del Centenario abre la puerta a un análisis intertextual con la literatura salteña. Esto da paso a un segundo aporte que arroja el capítulo en torno a la diversificación de los públicos lectores, al identificar que el texto analizado puede ser circunscripto a la literatura para niños. Considerando que estos se irán constituyendo en un público destinatario que se hará visible desde fines del siglo XIX."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "El trabajo de Sofía Guantay Estrabis se acerca a la estación de los años iniciales en la trayectoria de Emma, los cuales se desenvuelven en el escenario de la Argentina de entreguerras (1920-1930). A partir de su abordaje metodológico es posible ver el intento de dos operaciones analíticas interesantes. Por un lado, a partir de la reconstrucción de ciertos episodios de la vida de la autora",
+     [
+      "a",
+      {
+       "href": "#t-fn6",
+       "id": "t-llamada-fn6-1"
+      },
+      [
+       "sup",
+       {},
+       "6"
+      ]
+     ],
+     " es posible hacerse preguntas más amplias en torno a “la comprensión del universo de las élites, a sus construcciones identitarias, a los cambios en la condición femenina, a las representaciones sociales y a la cultura política del siglo XX” (p. 76)."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Por otro lado, el segundo punto a destacar abre dos cuestiones que nos acercan a un campo de trabajo con novedosas vetas aun a explorar. La primera está asociada a pensar el lugar de los “intelectuales de provincia” en el marco de los mapas culturales regionales y nacionales. Aquí, la autora ubica la producción de Solá de Solá y su paso por diversos ámbitos de sociabilidad en la constelación de intelectuales que configuraron la élite política y cultural salteña. La siguiente cuestión también alude a un intento de descentrar la mirada, ya que por fuera de la categoría de “excepcionalidad” con la que usualmente se aborda a las “mujeres ilustres”, su apuesta es “(re) categorizarla como una intelectual” (p. 89). Sobre este último punto, resulta interesante preguntarse y adentrarse en cuáles fueron los tópicos y los lenguajes que articularon en sus narrativas, las poses y loas usos estratégicos que pusieron en juego y cómo esto habilitó, no sin tensiones, su tarea como productoras en múltiples espacios de la vida pública."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Cierra esta compilación el trabajo de Luciana Sofía Dimarco, quien con el foco puesto en el Club 20 de Febrero, ámbito de sociabilidad destinado a la “culta y tradicional sociedad salteña” (p. 93), alumbra otras zonas de la participación de la vida pública de la autora en cuestión. Valiéndose, mayormente, de fuentes hemerográficas, la autora de este capítulo busca reconstruir las prácticas y ciertos imaginarios en torno a una serie de tópicos que atraviesan la subjetividad y las construcciones narrativas de Emma. Estas aristas permiten matizar el acercamiento a la figura de Solá de Solá y las redes que logró entretejer a partir de un capital social y simbólico en el campo cultural de la época."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Si retomamos las palabras de ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964007_ref8",
+       "id": "t-llamada-redalyc_314964007_ref8-3"
+      },
+      "Smith (2008)"
+     ],
+     ", podríamos pensar que tal ausencia viene siendo reconsiderada en los últimos años desde diversos escenarios historiográficos. En este sentido, y con sus matices, podríamos decir que los artículos reunidos por Quinteros en ",
+     [
+      "span",
+      {},
+      "Escritoras salteñas. Emma Solá de Solá"
+     ],
+     " (2023) intentan ofrecer nuevas preguntas en torno al diagnóstico sobre la labor intelectual de las mujeres y sus mundos sociales (sobre todo, si pensamos en aquellas de finales del siglo XIX y los primeros años del XX). Ahora bien, sabemos, y no es una novedad, que hay un recorrido que se viene trazando; sin embargo, vale continuar pensando cuáles y cómo se construyen las claves de interrogación (fuentes, registros y perspectivas teórico metodológicas) y cómo tales indagaciones, más allá de caer en dicotomías interpretativas, permiten complejizar el campo cultural y político de la región. Imaginar e ir hacia la búsqueda de nuevas cartografías políticas y culturales."
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-back"
+    },
+    "\n",
+    [
+     "p",
+     {},
+     "Referencias"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964007_ref1"
+     },
+     "Bruno, P. (2016). Biografía, historia biográfica, biografía-problema. ",
+     [
+      "span",
+      {},
+      "Prismas. Revista de Historia Intelectual"
+     ],
+     ", (20), 267-272."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964007_ref2"
+     },
+     "Cormick, S. (Ed.). (2022). ",
+     [
+      "span",
+      {},
+      "Mujeres intelectuales en América Latina"
+     ],
+     ". Sb Editorial."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964007_ref3"
+     },
+     "Martínez, A. T. (2013). Intelectuales de provincia: entre lo local y lo periférico. ",
+     [
+      "span",
+      {},
+      "Prismas. Revista de Historia Intelectual"
+     ],
+     ", (17), 169-180."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964007_ref4"
+     },
+     "Miseres, V. (2017). ",
+     [
+      "span",
+      {},
+      "Mujeres en tránsito: viaje, identidad y escritura en Sudamérica (1810-1930)"
+     ],
+     ". University of North Carolina."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964007_ref5"
+     },
+     "Molloy, S. (2002). La flexión del género en el texto cultural latinoamericano. ",
+     [
+      "span",
+      {},
+      "Cuadernos de Literatura, 8"
+     ],
+     "(15)."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964007_ref6"
+     },
+     "Moraes Medina, M. (2018). Escritura de viaje, peronismo y ficcionalización: Ezequiel Martínez Estrada en Suiza. ",
+     [
+      "span",
+      {},
+      "Lo que los archivos cuentan"
+     ],
+     ", (6), 85-110."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964007_ref7"
+     },
+     "Moraes Medina, M. (2020). ",
+     [
+      "span",
+      {},
+      "Turistas intelectuales. Viaje, política y utopía en María Rosa Oliver y Ezequiel Martínez Estrada"
+     ],
+     ". Universidad Nacional Autónoma de México."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964007_ref8",
+      "lang": "en"
+     },
+     "Smith, H. (2008). Women Intellectuals and Intellectual History: their paradigmatic separation. ",
+     [
+      "span",
+      {},
+      "Journal of Women's History"
+     ],
+     ", (20), 26-32."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964007_ref9"
+     },
+     "Szurmuk, M. (2007). ",
+     [
+      "span",
+      {},
+      "Miradas cruzadas: narrativas de viaje de mujeres en Argentina, 1850-1930"
+     ],
+     ". Instituto Mora."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Notas"
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-fn1"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "1"
+     ],
+     " Traducción de la autora: “El fuerte énfasis en la importancia del cuerpo para el pasado de las mujeres se ha enmarcado sistemáticamente como un cuerpo de los hombros para abajo; las mentes de las mujeres han quedado excluidas de este cuerpo. Este énfasis se ha visto reforzado por los vínculos entre el cuerpo y la historia de la sexualidad, que han influido fuertemente en este campo durante los últimos veinte años. Otros énfasis han aportado a menospreciar las ideas de las mujeres y sus propias valoraciones de las sociedades en las que vivían […]” (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964007_ref8",
+       "id": "t-llamada-redalyc_314964007_ref8-4"
+      },
+      "Smith, 2008, p. 28"
+     ],
+     ")."
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-fn2"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "2"
+     ],
+     " En torno a trabajos que apuestan a complejizar los mapas culturales de la región, podemos considerar la reciente publicación de la obra colectiva editada por Silvina Cormick (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964007_ref2",
+       "id": "t-llamada-redalyc_314964007_ref2-1"
+      },
+      "2022"
+     ],
+     "). En clave de historia intelectual, los capítulos de la obra recorren los itinerarios de una serie de mujeres intelectuales, ubicadas en los grandes centros urbanos. A través del detenimiento en sus trayectorias, en muchos de los casos, los análisis no pueden ser circunscriptos a los cercos de las fronteras nacionales, ya que, a través de sus obras, conferencias, participación en revistas y/o publicaciones periódicas, movilizaron más allá sus ideas y estrategias en la construcción y tejido de sus capitales simbólicos."
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-fn3"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "3"
+     ],
+     " Siguiendo el planteo de Ana Teresa Martínez (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964007_ref3",
+       "id": "t-llamada-redalyc_314964007_ref3-1"
+      },
+      "2013"
+     ],
+     ") en torno a los intelectuales de provincia, si se toma en consideración el “el rol mediador de algunos agentes centrales de la reproducción y circulación en el campo de la cultura, su lugar en ciertas condiciones puede resultar dominante sobre productores e intelectuales” (p. 170). En este sentido, hace un llamamiento metodológico que no puede ser soslayado si buscamos interrogar críticamente las condiciones de producción de un lugar y un momento específico: “Las categorías producción, reproducción, circulación, mediación, recepción, sólo son útiles si las pensamos como no excluyentes […] para comprender dinámicas de intercambio entre lugares diferenciales del espacio social” (pp. 172-173)."
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-fn4"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "4"
+     ],
+     " Si bien la literatura de viajes ha constituido un registro visitado para el estudio de mapas culturales, sus agentes, bienes, redes y circulaciones, en los últimos años encontramos una interesante renovación y aproximación en torno a los usos de estos materiales (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964007_ref9",
+       "id": "t-llamada-redalyc_314964007_ref9-1"
+      },
+      "Szurmuk, 2007"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964007_ref4",
+       "id": "t-llamada-redalyc_314964007_ref4-1"
+      },
+      "Miseres, 2017"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964007_ref7",
+       "id": "t-llamada-redalyc_314964007_ref7-1"
+      },
+      "Moraes Medina, 2020"
+     ],
+     ")."
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-fn5"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "5"
+     ],
+     " Pensar y articular un análisis a partir de una génesis textual abre un desafío metodológico, en tanto permite abrir nuevas interrogantes. Siguiendo el planteo de Mariana Moraes Medina (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964007_ref6",
+       "id": "t-llamada-redalyc_314964007_ref6-1"
+      },
+      "2018"
+     ],
+     "), en su análisis de Martínez Estrada, la génesis textual queda “doblemente abierta: por un lado, inacabada en lo que refiere a su escritura y por otro, indefinida en su edición, proceso este último que hubiera terminado de definir las controvertidas condiciones de su recepción” (p. 91)."
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-fn6"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "6"
+     ],
+     " Si bien la autora no hace mención explícita al trabajo de la historiadora Paula Bruno (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964007_ref1",
+       "id": "t-llamada-redalyc_314964007_ref1-1"
+      },
+      "2016"
+     ],
+     "), tal vez su mirada podría resultar operativa para este trabajo o para próximas indagaciones, si consideramos la modulación de la biografía como recurso, excusa, ventana para el acercamiento a una época, a un proceso, “se utilizan perfiles, semblanzas o trayectorias como un medio para explicar procesos históricos o cuestiones más generales, más que como un fin” (p. 270)."
+    ],
+    "\n"
+   ],
+   "\n"
+  ],
+  "\n",
+  [
+   "span",
+   {
+    "id": "t-creditos"
+   },
+   "\n",
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-logo-izquierda"
+    },
+    "\n",
+    [
+     "figura",
+     {}
+    ]
+   ],
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-mensaje"
+    },
+    "Modelo de publicación sin fines de lucro para conservar la naturaleza académica y abierta de la comunicación científica",
+    [
+     "br",
+     {}
+    ],
+    "HTML generado a partir de XML-JATS4R"
+   ],
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-logo-derecha"
+    },
+    "\n",
+    [
+     "figura",
+     {}
+    ]
+   ],
+   "\n",
+   "\n"
+  ],
+  "\n"
+ ]
+};

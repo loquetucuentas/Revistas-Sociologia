@@ -1,0 +1,2171 @@
+// Copia de textos/10-24215-23139048e076.json para abrir la aplicación sin servidor.
+(window.DATOS_REVISTAS = window.DATOS_REVISTAS || {})["textos/10-24215-23139048e076.json"] = {
+ "version": 1,
+ "recogido": "2026-10-18T11:47:14+00:00",
+ "doi": "10.24215/23139048e076",
+ "titulo": "Algunos usos del meme en internet",
+ "revista": "2313-9048",
+ "numero": "v17-n17-2023",
+ "licencia": {
+  "codigo": "by-nc-sa",
+  "nombre": "CC BY-NC-SA 4.0",
+  "nombre_completo": "Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional",
+  "url": "https://creativecommons.org/licenses/by-nc-sa/4.0",
+  "url_legal": "https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.es"
+ },
+ "fuente": {
+  "url": "https://perio.unlp.edu.ar/ojs/index.php/cps/article/download/7847/6986/33672?inline=1",
+  "formato": "HTML",
+  "plataforma": "ojs-galerada",
+  "pagina": "https://perio.unlp.edu.ar/ojs/index.php/cps/article/view/7847"
+ },
+ "autores_cita": [
+  {
+   "apellidos": "Sosa Toranzo",
+   "nombre_pila": "Rodrigo",
+   "nombre": null
+  }
+ ],
+ "avisos_derechos": [
+  "Derechos de autor 2023 Cuadernos de H ideas",
+  "Licencia Derechos de autor 2023 Cuadernos de H ideas Esta obra está bajo una licencia internacional Creative Commons Atribución-NoComercial-CompartirIgual 4.0. La aceptación de un original por parte de la revista implica la cesión no exclusiva de los derechos patrimoniales de los/as autores/as en favor del editor, quien permite la reutilización, luego de su edición (postprint), bajo una Licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0) Acorde a estos términos, el material se puede compartir (copiar y redistribuir en cualquier medio o formato) y adaptar (remezclar, transformar y crear a partir del material otra obra), siempre que a) se cite la autoría y la fuente original de su publicación (revista y URL de la obra), b) no se use para fines comerciales y c) se mantengan los mismos términos de la licencia. La cesión de derechos no exclusivos implica que luego de su edición (postprint) en Cuadernos de H ideas las/os autoras/es pueden publicar su trabajo en cualquier idioma, medio y formato; en tales casos, se solicita que se consigne que el material fue publicado originalmente en esta revista. Tal cesión supone, también, la autorización de los/as autores/as para que el trabajo sea cosechado por SEDICI, el repositorio institucional de la Universidad Nacional de La Plata, y sea difundido en las bases de datos que el equipo editorial considere adecuadas para incrementar la visibilidad de la publicación y de sus autores/as. Asimismo, la revista incentiva a las/os autoras/es para que luego de su publicación en Cuadernos de H ideas depositen sus producciones en otros repositorios institucionales y temáticos, bajo el principio de que ofrecer a la sociedad la producción científica y académica sin restricciones contribuye a un mayor intercambio del conocimiento global."
+ ],
+ "idioma_principal": "es",
+ "indice": [],
+ "vueltas": {},
+ "contenido": [
+  [
+   "span",
+   {
+    "id": "t-MathJax_Message"
+   }
+  ],
+  "\n",
+  [
+   "span",
+   {
+    "id": "t-visor-cabecera"
+   },
+   "\n",
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-logo-institucion"
+    },
+    "\n",
+    [
+     "figura",
+     {}
+    ]
+   ],
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-logo-revista"
+    },
+    "\n",
+    [
+     "figura",
+     {}
+    ]
+   ],
+   "\n",
+   "\n"
+  ],
+  "\n",
+  [
+   "span",
+   {
+    "id": "t-articulo"
+   },
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-front"
+    },
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-articulo-categoria"
+     },
+     "\n",
+     [
+      "p",
+      {},
+      "Artículos"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-articulo-meta"
+     },
+     "\n",
+     [
+      "p",
+      {},
+      "Algunos usos del meme en internet"
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "lang": "en"
+      },
+      "A Few Uses of the Meme on Internet"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-articulo-acerca"
+     },
+     "\n",
+     [
+      "span",
+      {
+       "id": "t-ficha-general"
+      },
+      "\n",
+      [
+       "span",
+       {
+        "id": "t-autores-articulo"
+       },
+       "\n",
+       "\n",
+       "\n",
+       [
+        "a",
+        {
+         "href": "https://orcid.org/0000-0003-4158-0980"
+        },
+        [
+         "figura",
+         {}
+        ]
+       ],
+       "  ",
+       [
+        "span",
+        {},
+        "Rodrigo"
+       ],
+       " ",
+       [
+        "span",
+        {},
+        "Sosa Toranzo"
+       ],
+       " ",
+       [
+        "span",
+        {}
+       ],
+       [
+        "span",
+        {},
+        " rodri.sosat@gmail.com"
+       ],
+       "\n",
+       "\n",
+       "\n",
+       [
+        "span",
+        {},
+        "Universidad Nacional de San Luis"
+       ],
+       ", ",
+       [
+        "span",
+        {},
+        "Argentina"
+       ],
+       "\n",
+       "\n",
+       "\n"
+      ],
+      "\n",
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "Cuadernos de H ideas"
+       ],
+       "\n"
+      ],
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "Universidad Nacional de La Plata, Argentina"
+       ],
+       "\n"
+      ],
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "ISSN: "
+       ],
+       "2313-9048"
+      ],
+      "\n",
+      [
+       "p",
+       {}
+      ],
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "Periodicidad: "
+       ],
+       "Frecuencia continua"
+      ],
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "vol.  17, "
+       ],
+       "núm.  17, ",
+       [
+        "span",
+        {
+         "id": "t-elocation-id"
+        },
+        "e076, "
+       ],
+       [
+        "span",
+        {},
+        "2023"
+       ],
+       "\n"
+      ],
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       "cuadernosdehideas@perio.unlp.edu.ar",
+       "\n"
+      ],
+      "\n",
+      "\n",
+      [
+       "span",
+       {
+        "id": "t-articulo-product"
+       }
+      ],
+      "\n",
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "Recepción: "
+       ],
+       " 28 Febrero  2023"
+      ],
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "Aprobación: "
+       ],
+       " 15 Mayo  2023"
+      ],
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "Publicación: "
+       ],
+       " 31 Mayo  2023"
+      ],
+      "\n",
+      [
+       "br",
+       {}
+      ],
+      "\n",
+      [
+       "br",
+       {}
+      ],
+      "\n",
+      "\n",
+      "\n",
+      [
+       "span",
+       {},
+       "URL: "
+      ],
+      [
+       "a",
+       {
+        "href": "http://portal.amelica.org/ameli/journal/31/313799005/"
+       },
+       "http://portal.amelica.org/ameli/journal/31/313799005/"
+      ],
+      "\n",
+      "\n",
+      "\n",
+      [
+       "span",
+       {},
+       "DOI: "
+      ],
+      [
+       "a",
+       {
+        "href": "https://doi.org/10.24215/23139048e076"
+       },
+       "https://doi.org/10.24215/23139048e076"
+      ],
+      "\n",
+      "\n",
+      "\n",
+      [
+       "p",
+       {}
+      ],
+      "\n",
+      "\n",
+      "\n",
+      "\n",
+      [
+       "a",
+       {
+        "href": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+       },
+       [
+        "figura",
+        {}
+       ],
+       [
+        "br",
+        {}
+       ],
+       "\n"
+      ],
+      "Esta obra está bajo una ",
+      [
+       "a",
+       {
+        "href": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+       },
+       "Licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional."
+      ],
+      "\n",
+      "\n",
+      "\n",
+      [
+       "p",
+       {}
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "\n",
+      [
+       "span",
+       {},
+       "Resumen:\n\t\t\t\t\t\t\t                           "
+      ],
+      [
+       "span",
+       {},
+       "El presente artículo no busca ser una muestra representativa del fenómeno de los memes en internet. Sin embargo, nos proponemos indagar en la utilización que hacen los usuarios de ciertos memes en redes sociales. Para esto decidimos analizar algunos ejemplos a la luz de la teoría multimodal y la narrativa, con el fin de poder dilucidar las estrategias argumentativas y retoricas que utilizan los sujetos a la hora de producir y utilizar los memes en redes."
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "\n",
+      [
+       "span",
+       {},
+       "Palabras clave: "
+      ],
+      "memes, retórica, multimodalidad, discurso.\n\t\t                         "
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "lang": "en"
+      },
+      "\n",
+      [
+       "span",
+       {},
+       "Abstract:\n\t\t\t\t\t\t                           "
+      ],
+      [
+       "span",
+       {},
+       "This article does not want to be a representative sample of the meme’s phenomena on the internet. However, we want to enquire into the use of some memes in the social media. For this, we decided to analyse a few examples with the multimodal theory and the narratology, in order to elucidate the argumentative and rhetoric strategies used by the subjects in the production and uses of these memes."
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "\n",
+      [
+       "span",
+       {},
+       "Keywords: "
+      ],
+      "memes, rhetoric, multimodality, discourse.\n                                "
+     ],
+     "\n"
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-articulo-body"
+    },
+    "\n",
+    [
+     "p",
+     {},
+     "Introducción"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Las formas en que se comunican los sujetos han cambiado con el correr de los años. Estos cambios se deben, en gran medida, a la evolución de las tecnologías y los medios que afectan la materialidad misma de la comunicación (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799005/html/index.html#redalyc_313799005_ref4"
+      },
+      "Briggs & Burke, 2002"
+     ],
+     "). En la actualidad, uno de los fenómenos más llamativos es el de los denominados memes. Popularizados en la vorágine de las redes sociales, estos mensajes ganan cada vez más espacio en las interacciones que realizan los sujetos. Lejos de ser meras “imágenes chistosas”, los memes adquieren gran relevancia en las discusiones de todo tipo y, sobre todo, en aquellas que se dan mediante las ya mencionadas redes sociales. Lejos de permanecer en su ámbito primario (el de internet), traspasan todas las esferas de la vida social al conformarse en discursos que se replican y se actualizan en el habla de los sujetos que los consumen."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "p",
+     {},
+     "Más allá de su aparente trivialidad (que se da), los memes están contribuyendo a articular el discurso público en la actualidad, y sirven para conformar y reflejar estados de opinión, no solo en una dimensión meramente lúdica (lo que, por otra parte, no deja de tener su importancia en nuestras sociedad del entretenimiento y el espectáculo), sino también, y de manera especial, en el ámbito ideológico: los memes contribuyen a la discusión política pública (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799005/html/index.html#redalyc_313799005_ref13"
+      },
+      "Ruiz Martínez, 2018"
+     ],
+     ", p. 996)."
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Al mismo tiempo, la utilización y la creación de memes corresponde, en el plano comunicativo, a determinadas intenciones o funciones que los sujetos perciben y/o buscan al momento de interactuar con otros sujetos. Es por eso que, en la medida de lo posible, nos proponemos realizar una reflexión acerca de los usos y las estrategias discursivas que se emplean en las comunicaciones que recurren al meme."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Breve historia del meme"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Los estudios sobre el tema recurren sin faltas a la explicación del concepto en sí. A pesar de que, en la mayoría de los trabajos, esta recapitulación del concepto de meme no aporta nada nuevo; pareciera que es necesaria para que tanto lector como investigador puedan dialogar en igualdad de condiciones acerca del mencionado fenómeno.  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " El término meme aparece por primera vez en la obra ",
+     [
+      "span",
+      {},
+      "El gen egoísta"
+     ],
+     " (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799005/html/index.html#redalyc_313799005_ref7"
+      },
+      "[1976] 2018"
+     ],
+     "), de Richard Dawkins (etólogo, zoólogo y biólogo británico). En esta publicación, el autor plantea la idea de que así como en la biología la información genética se transmite de un espécimen a otro mediante los genes; en el plano social la cultura se transmite de un individuo a otro mediante el meme.",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799005/html/index.html#fn1"
+      },
+      [
+       "sup",
+       {},
+       "1"
+      ]
+     ],
+     " Este concepto, claramente inspirado en la teoría de la evolución de Darwin, reduce la complejidad de lo social a la simplicidad de las ciencias biológicas.",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799005/html/index.html#fn2"
+      },
+      [
+       "sup",
+       {},
+       "2"
+      ]
+     ],
+     " Al mismo tiempo, encasilla a la cultura bajo el paradigma del positivismo. Si los memes evolucionan al igual que las especies, esto quiere decir que “la cultura” actual es la más apta: la más evolucionada. Por lo tanto, la cultura no tiene más remedio que progresar en línea recta (seguir evolucionando) hasta el fin de la historia; y, por ende, ciertas culturas serían (debido a las características de sus entornos) menos evolucionadas que otras.  A pesar de su clara desconexión con el campo de las ciencias sociales, el término y algunos de los postulados planteados por Dawkins ([1976] 2018) han sido retomados para explicar ciertas cualidades que posee el meme en la actualidad. Este es el caso del trabajo de da ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799005/html/index.html#redalyc_313799005_ref6"
+      },
+      "Cunha Recuero (2007)"
+     ],
+     " quien propone una clasificación de los diferentes tipo de memes y, para ello, recurre a las categorías de fidelidad, fecundidad, longevidad (planteadas ya en la obra de Dawkins) y alcance (esta última, incorporada por la misma autora). Estas cualidades que poseen los memes son posibles de ser interpretadas como características que, en cierta medida, permiten y explican su fuerte vinculación con las dinámicas de internet. La fidelidad hace referencia a que, en el momento de ser replicado, un meme no pierda sus elementos originales/característicos. La fecundidad da cuenta de la velocidad y la amplitud con la que un memes circula. La longevidad remite a la permanencia (en el tiempo) de un meme dentro de un acervo cultural determinado. El alcance, por último, demuestra que no todos los memes se insertan de la misma manera en diferentes comunidades; puede suceder que un meme sea usado a nivel masivo (y que, a su vez, sea tomado y reformulado por comunidades particulares) o que sea de uso particular dentro de una determinada comunidad (como veremos más adelante).  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " A pesar de los reiterados intentos para tratar de explicar el concepto de meme por medio de los conceptos biológicos (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799005/html/index.html#redalyc_313799005_ref7"
+      },
+      "Dawkins [1976] 2018"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799005/html/index.html#redalyc_313799005_ref8"
+      },
+      "Dennet, 1995"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799005/html/index.html#redalyc_313799005_ref3"
+      },
+      "Blackmore, 1999"
+     ],
+     "), la mayoría de los estudios actuales coinciden en que intentar entender el meme fuera de su dimensión social, abstraído de las sociedades modernas y sin dar cuenta de su entorno digital es caer en un concepto tan amplio que, al abarcar todo, no dice nada. “El meme fue lanzado al espacio por Dawkins, pero no fue él quien lo convirtió en un concepto manejable y fértil, fueron los mismos usuarios de la red. El meme, fuera de Internet, es un pez agonizante” (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799005/html/index.html#redalyc_313799005_ref1"
+      },
+      "Alonso Enguita, 2018"
+     ],
+     ", p. 165). "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Usuarios y usos"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "La lógica de internet ha producido cambios radicales en las formas de comunicación que ejercen los sujetos. La aparición de las redes sociales (desde las más antiguas como el email, hasta las más nuevas como Instagram) ha propiciado un tipo de comprensión y de producción de mensajes ligados a las lógicas de lo hipertextual (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799005/html/index.html#redalyc_313799005_ref9"
+      },
+      "Genette, 1989"
+     ],
+     ") y de lo hipermedia (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799005/html/index.html#redalyc_313799005_ref14"
+      },
+      "Scolari, 2008"
+     ],
+     "). En ellas se funden, además, los diferentes lenguajes (verbal, visual, sonoro, etc.), lo que produce cada vez más textos de alta complejidad. Al mismo tiempo, se promueve la fugacidad de la lectura (en términos tradicionales) y, por ende, una suerte de síntesis de los mensajes: estos deben ser claros, cortos y concisos para fomentar la dinámica de la red social; la de la velocidad. En tanto, los medios por los que se accede a este tipo de comunicaciones implican, en cierto grado, un cambio en la materialidad del discurso. Diferentes soportes implican para los lectores/productores diferentes capacidades que necesitan aprender y dominar para interactuar con otros a través del medio en cuestión. Por último, los sujetos deben aprender la retórica propia de las redes para poder llevar a cabo sus objetivos comunicativos específicos. En resumen, creemos que la comunicación en internet se caracteriza, en principio, por los siguientes aspectos:"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n",
+     "\n"
+    ],
+    [
+     "ol",
+     {},
+     "\n",
+     [
+      "li",
+      {},
+      "\n",
+      [
+       "p",
+       {},
+       "- Una fuerte presencia de intertextualidad (sobre todo lo hipertextual) y de diferentes géneros, formatos y lenguajes\nque convergen en el entramado hipermediático que\nfomenta internet."
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "li",
+      {},
+      "\n",
+      [
+       "p",
+       {},
+       "- La rapidez de la comunicación, en la que, aun cuando se realiza por\nescrito, predominan las características de la conversación oral",
+       [
+        "sup",
+        {},
+        [
+         "a",
+         {
+          "href": "http://portal.amelica.org/ameli/journal/31/313799005/html/index.html#fn3"
+         },
+         "3"
+        ]
+       ],
+       " condicionada por la\ndinámica del medio (la velocidad) y que, por lo tanto, hace mayor hincapié en\nlas capacidades interpretativas de los partícipes (",
+       [
+        "a",
+        {
+         "href": "http://portal.amelica.org/ameli/journal/31/313799005/html/index.html#redalyc_313799005_ref2"
+        },
+        "Berlanga Fernández, Victoria\nMás & Alberich Pascual, 2016"
+       ],
+       ")."
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "li",
+      {},
+      "\n",
+      [
+       "p",
+       {},
+       "- La necesidad de que los sujetos conozcan y manejen las diferentes\nredes/plataformas con el fin de que puedan adaptar sus mensajes según\ncorresponda."
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "li",
+      {},
+      "\n",
+      [
+       "p",
+       {},
+       "- El conocimiento de los diferentes recursos retóricos y argumentativos que\nse emplean en las diversas redes, y con los que los sujetos persiguen y\npresuponen las intencionalidades propias y ajenas (",
+       [
+        "a",
+        {
+         "href": "http://portal.amelica.org/ameli/journal/31/313799005/html/index.html#redalyc_313799005_ref15"
+        },
+        "Yus,\n2001"
+       ],
+       ")."
+      ],
+      "\n"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Estas características de la comunicación en internet son fundamentales para entender cómo el meme se inserta en este tipo de interacciones y los usos que los hablantes realizan."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Producir memes, entender la interacción"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Como ya mencionamos, la producción de memes, ya sea desde cero o mediante la reformulación de los ya existentes, es una tarea central en la vida misma de este fenómeno. Algunas de estas producciones se limitan a pequeñas modificaciones que permiten mantener el necesario y constante flujo de memes que circula en las redes sociales. Mientras que otras demuestran un profundo entendimientos de diversos aspectos del lenguaje y de las dinámicas comunicativas en las que se insertarán. Un caso ejemplar de estas dos prácticas se puede encontrar en el meme del “perro grande y el perro chiquito” [",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799005/html/index.html#gf1"
+      },
+      "Figura 1"
+     ],
+     "]. En su forma primaria el meme responde a una comparación entre dos figuras representadas por dos perros famosos de internet.",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799005/html/index.html#fn4"
+      },
+      [
+       "sup",
+       {},
+       "4"
+      ]
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "span",
+     {
+      "id": "t-gf1"
+     },
+     "\n",
+     [
+      "figura",
+      {
+       "alt": "Memes del\nperro grande vs. perro chico"
+      }
+     ],
+     [
+      "br",
+      {}
+     ],
+     "Figura 1",
+     [
+      "br",
+      {}
+     ],
+     "\n",
+     [
+      "span",
+      {},
+      " Memes del\nperro grande vs. perro chico"
+     ],
+     "\n",
+     [
+      "br",
+      {}
+     ],
+     "\n",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Fuente: Facebook"
+      ]
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Una lectura multimodal (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799005/html/index.html#redalyc_313799005_ref11"
+      },
+      "Kress & van Leeuwen, 2006"
+     ],
+     ") de este meme permite afirmar que el sentido se construye mediante un contraste entre ambos personajes. La imagen configura una semiótica del espacio visual en la que el perro de la izquierda adquiere, por su ubicación en este segmento del campo visual, el sentido de lo conocido, el pasado, lo que debe ser (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799005/html/index.html#redalyc_313799005_ref10"
+      },
+      "Kress, Leite-García & van Leeuwen, 2001"
+     ],
+     "). Mientras que el perro de la derecha adquiere la significación de lo nuevo, lo problemático, lo que se cuestiona. Al mismo tiempo, el diseño de los personajes remite a representaciones sociales que indican una carga valorativa en cada uno de ellos. Mientras que Doge (el perro de la izquierda) es alto, musculoso y de pelaje rubio; Chems (el perro de la derecha) es pequeño, se encuentra sentado (en una postura de menor agencia) y tiene el pelo más oscuro. Así, se ligan ciertos sentidos comunes ligados a la estética de “lo bueno” (ser lindo, alto, fornido, etc.), por oposición a “lo malo” en cada uno de los personajes. Por último, los elementos lingüísticos (el texto) que acompañan a la imagen sirven como apoyo de lo visual; se utilizan para ubicar la comparación en diferentes situaciones de la vida diaria. En resumen, el sentido detrás del meme es que “todo tiempo pasado fue mejor”, lo que implica, a su vez, un rechazo al cambio y a las nuevas formas de lo social que se han suscitado con el paso de los años. "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Mientras que algunos usuarios se limitan a replicar este meme con ligeras modificaciones [",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799005/html/index.html#gf2"
+      },
+      "Figura 2"
+     ],
+     "]; otros deciden modificar el sentido de la imagen [",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799005/html/index.html#gf3"
+      },
+      "Figura 3"
+     ],
+     "]."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "span",
+     {
+      "id": "t-gf2"
+     },
+     "\n",
+     [
+      "figura",
+      {
+       "alt": "Doge\nabraza a Chems"
+      }
+     ],
+     [
+      "br",
+      {}
+     ],
+     "Figura 2",
+     [
+      "br",
+      {}
+     ],
+     "\n",
+     [
+      "span",
+      {},
+      "Doge\nabraza a Chems"
+     ],
+     "\n",
+     [
+      "br",
+      {}
+     ],
+     "\n",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Fuente: Facebook"
+      ]
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "span",
+     {
+      "id": "t-gf3"
+     },
+     "\n",
+     [
+      "figura",
+      {
+       "alt": "Baby Boomers vs. Millenials"
+      }
+     ],
+     [
+      "br",
+      {}
+     ],
+     "Figura 3",
+     [
+      "br",
+      {}
+     ],
+     "\n",
+     [
+      "span",
+      {},
+      "Baby Boomers vs. Millenials"
+     ],
+     "\n",
+     [
+      "br",
+      {}
+     ],
+     "\n",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Fuente: Facebook"
+      ]
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " En las figuras 2 y 3 se aprecia una clara modificación del meme original. En la ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799005/html/index.html#gf2"
+      },
+      "figura 2"
+     ],
+     ", Doge abraza a un Chems que llora y a él se le atribuye el texto en la parte superior (por el contenido de lo dicho y por la acción de contención que realiza en el plano visual). De este modo, se percibe que ciertos sujetos, lejos de solo consumir este tipo de contenidos, realizan lecturas críticas de los mensajes y las implicaciones que en ellos aparecen; además de ser conscientes de ciertas problemáticas sociales como puede ser, en este caso, el ",
+     [
+      "span",
+      {},
+      "bullying"
+     ],
+     " en redes. "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " En la ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799005/html/index.html#gf3"
+      },
+      "figura 3"
+     ],
+     ", en cambio, se aprecia una reformulación del mensaje principal del meme. En esta producción se observa una alteración en el orden de los elementos: Doge posee el cuerpo de Chems (es el perro chiquito), mientras que Chems se encuentra en el cuerpo de Doge (es el perro grande). En el elemento lingüístico, que posee aquí una mayor relevancia, además de una mayor extensión, se puede apreciar la temática central del meme. El texto remarca las ventajas que ha tenido la generación de los ",
+     [
+      "span",
+      {},
+      "Baby Boomers"
+     ],
+     " (1935-1960) frente a la de los ",
+     [
+      "span",
+      {},
+      "Millenials"
+     ],
+     " (1980-2000), lo que pone en cuestión la idea romántica del pasado: el texto remarca el hecho de que las generaciones anteriores fueron “mejores” porque han percibido los beneficios sociales, económicos, políticos de la época y no debido a una cualidad inherente de los sujetos o a una falta de iniciativa por parte de la nuevas generaciones."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Narrativa en los memes"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Otro aspecto interesante de los memes son las pequeñas historias que en ellos se narran. Esto no es algo nuevo, ya en los primeros memes realizados con paint (software de computadoras) se puede apreciar micro narraciones que, al estilo de los chistes verbales, presentan una introducción a alguna situación de la vida cotidiana para luego rematar con una acción/ frase graciosa [",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799005/html/index.html#gf4"
+      },
+      "Figura 4"
+     ],
+     "]."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "span",
+     {
+      "id": "t-gf4"
+     },
+     "\n",
+     [
+      "figura",
+      {
+       "alt": "Un meme viejo relata una\nsituación común en clases"
+      }
+     ],
+     [
+      "br",
+      {}
+     ],
+     "Figura 4",
+     [
+      "br",
+      {}
+     ],
+     "\n",
+     [
+      "span",
+      {},
+      " Un meme viejo relata una\nsituación común en clases"
+     ],
+     "\n",
+     [
+      "br",
+      {}
+     ],
+     "\n",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Fuente: Twitter"
+      ]
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Con el paso del tiempo, este tipo de narraciones se han hecho cada vez más profesionales. Desde la utilización de softwares más elaborados como Photoshop, hasta mejoras en la calidad de las imágenes y plantillas de memes que permiten su fácil edición; los memes son cada vez más elaborados en sus aspectos técnicos. Al mismo tiempo, las historias y las formas de narrar en ellos también se han complejizado. Un ejemplo es el caso del meme “Are you wining son?” o “¿Estás ganando hijo?”, en su versión en español [",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799005/html/index.html#gf5"
+      },
+      "Figura 5"
+     ],
+     "]. Este meme representa (en su sentido más primario) una situación hogareña en la que un padre de familia ingresa a la habitación de su hijo adolescente y pregunta: «¿Estás ganando hijo?», para luego comprobar que este se encuentra en una situación cómica como puede ser viendo porno."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "span",
+     {
+      "id": "t-gf5"
+     },
+     "\n",
+     [
+      "figura",
+      {
+       "alt": "Dos ejemplos del meme “Are you wining son?”"
+      }
+     ],
+     [
+      "br",
+      {}
+     ],
+     "Figura 5",
+     [
+      "br",
+      {}
+     ],
+     "\n",
+     [
+      "span",
+      {},
+      "Dos ejemplos del meme “Are you wining son?”"
+     ],
+     "\n",
+     [
+      "br",
+      {}
+     ],
+     "\n",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "\nFuente: comunicación personal"
+      ]
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " El “¿Estás ganando hijo?” es un meme que por su simplicidad y su facilidad para editarlo",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799005/html/index.html#fn5"
+      },
+      [
+       "sup",
+       {},
+       "5"
+      ]
+     ],
+     " promueve que los usuarios lo intervengan y lo reformulen con diferentes situaciones. En él, la creatividad desborda. Las ediciones van desde múltiples situaciones como que el hijo esté viendo una novela, haciendo un tiktok, vestido con ropa de mujer, etc., hasta algunos más rebuscados, como el de la ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799005/html/index.html#gf5"
+      },
+      "figura 5"
+     ],
+     ", en el que aparece una clara referencia a la metamorfosis, de Kafka. Ahora bien, lo más interesante del meme no es esto; sino el hecho de que los usuarios han decidido utilizarlo para elaborar pequeñas historias con alto contenido dramático y, en algunos casos, pequeñas dosis de crítica social. "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " En estas reformulaciones se puede apreciar un gran dominio de las técnicas para narrar en viñetas. Al mismo tiempo que una gran capacidad de resumen, que permite disminuir al mínimo los elementos necesarios para contar la historia (las más extensas poseen seis viñetas, mientras que las más cortas solo dos). "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Algunas ediciones del meme se alejan del humor para contar una experiencia más humana y cercana como es la de la muerte [",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799005/html/index.html#gf6"
+      },
+      "Figura 6"
+     ],
+     "]. En la tercera imagen de esta figura (ubicada abajo a la derecha) se ofrece un micro relato en su máxima expresión. El padre ingresa a la habitación y dice su frese característica pero, está vez, en lugar de decir algo cómico, su hijo le contesta que ya han pasado doce años desde el accidente y que debe superarlo. En la viñeta siguiente, el padre, con expresión de tristeza y lágrimas en sus ojos, se encuentra en la misma habitación pero su hijo ya no está. En tan solo dos viñetas este meme cuenta una historia con introducción, nudo y desenlace. Al mismo tiempo, juega con las inferencias que el espectador puede hacer al leer la historia: cuál será el accidente que se menciona; si el padre aún no ha podido superarlo, es acaso porque fue su culpa que el accidente sucediera; el hijo que aparece para hablar con su padre es producto de la misma psique del padre que, en un momento de lucidez, le recuerda lo inevitable o es realmente el espíritu de su hijo que vuelve para darle un último mensaje a su atormentado padre. Todas estas preguntas quedan a libre interpretación de los lectores, para que cada uno complete los huecos del relato como mejor le parezca."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "span",
+     {
+      "id": "t-gf6"
+     },
+     "\n",
+     [
+      "figura",
+      {
+       "alt": "Una historia trágica de un\npadre y su hijo"
+      }
+     ],
+     [
+      "br",
+      {}
+     ],
+     "Figura 6",
+     [
+      "br",
+      {}
+     ],
+     "\n",
+     [
+      "span",
+      {},
+      "Una historia trágica de un\npadre y su hijo"
+     ],
+     "\n",
+     [
+      "br",
+      {}
+     ],
+     "\n",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Fuente: Reddit"
+      ]
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Otras reformulaciones de este meme apelan a una crítica sobre el contenido en internet [",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799005/html/index.html#gf7"
+      },
+      "Figura 7"
+     ],
+     "]. En redes suele ser común el uso del humor negro; así, en varias versiones de este meme se puede ver al hijo muerto con algún tipo de elemento (una pistola, una soga, etc.) que indica que se ha suicidado. Conscientes de este hecho, los usuarios deciden modificar este aspecto: en los ejemplos antes mencionados se ofrecen breves historias en las que los personajes disfrutan de una tranquila vida en familia. Al mismo tiempo, estos memes refutan la brecha entre generaciones (como vimos en los memes de los perros, este tema es habitual en aquellos que realizan comparaciones): el padre se muestra interesado en los hobbies de su hijo y este último le agradece que lo entienda y no lo juzgue por sus gustos."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "span",
+     {
+      "id": "t-gf7"
+     },
+     "\n",
+     [
+      "figura",
+      {
+       "alt": "Memes de “Are you wining son?”\ncon finales felices"
+      }
+     ],
+     [
+      "br",
+      {}
+     ],
+     "Figura 7",
+     [
+      "br",
+      {}
+     ],
+     "\n",
+     [
+      "span",
+      {},
+      "Memes de “Are you wining son?”\ncon finales felices"
+     ],
+     "\n",
+     [
+      "br",
+      {}
+     ],
+     "\n",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Fuente: comunicación personal"
+      ]
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Otro caso llamativo, aunque más escaso, es el de la ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799005/html/index.html#gf8"
+      },
+      "figura 8"
+     ],
+     ", donde se observa un claro juego con el lenguaje de la narración grafica (el cómic, la historieta, etc.). Los autores proponen un juego entre las viñetas de la historia que demuestra un profundo entendimiento del medio. Como menciona ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799005/html/index.html#redalyc_313799005_ref12"
+      },
+      "McCloud (1995)"
+     ],
+     ", en el cómic cada viñeta funciona, en principio, como un momento concreto en el tiempo y el espacio de una historia. Pero, al mismo tiempo, la narración secuencial permite jugar con estas divisiones."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "p",
+     {},
+     "Al revés que en otros medios, en el cómic el pasado es algo más que recuerdos y el futuro es algo más que un puñado de posibilidades. Puesto que tanto el pasado como el futuro son reales y visibles a nuestro alrededor (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799005/html/index.html#redalyc_313799005_ref12"
+      },
+      "McCloud, 1995"
+     ],
+     ", p. 104)."
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Esta característica es propia de la historieta: presente, pasado y futuro conviven en una misma página y solo la lectura del sujeto diferencia a uno del otro. Esto permite crear el juego con el espacio tiempo, esta suerte de “paradoja temporal” que vemos en los memes, y demuestra que ciertos usuarios son capaces de comprender en profundidad las formas narrativas que consumen y practican; y hasta logran, en algunos casos, jugar con este metalenguaje para hacer a sus memes más creativos. Como menciona ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799005/html/index.html#redalyc_313799005_ref1"
+      },
+      "Alonso Enguita (2018)"
+     ],
+     ", la “creatividad” es fundamental para que el meme sobreviva en la lógica de internet: estar en permanente transformación, llamar la atención de los demás sujetos que circulan en la red y, al mismo tiempo, disputar la atención en un mar de mensajes, de contenidos y de memes."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "span",
+     {
+      "id": "t-gf8"
+     },
+     "\n",
+     [
+      "figura",
+      {
+       "alt": "Bucles temporales en meme"
+      }
+     ],
+     [
+      "br",
+      {}
+     ],
+     "Figura 8",
+     [
+      "br",
+      {}
+     ],
+     "\n",
+     [
+      "span",
+      {},
+      "Bucles temporales en meme"
+     ],
+     "\n",
+     [
+      "br",
+      {}
+     ],
+     "\n",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "\nFuente: Twitter"
+      ]
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Quedé y las discusiones en redes"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Como hemos visto hasta ahora, los memes presentan lenguajes complejos que se articulan a la lógica y las dinámicas de las redes sociales. Pero existen también otros memes que funcionan con una marcada función argumentativa. Estos buscan incidir, directa o indirectamente, en la conversación en cuestión que se lleva a cabo en redes sociales.  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Un ejemplo de esto son los memes de “mucho texto” que se utilizan para responder algún comentario o intervención demasiado extensa. O el “qué buen dato…”, que consiste en un audio acompañado de una imagen estática de algún grupo musical o personalidad con una voz reconocible. Lo que se busca es hacer que la frase [",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799005/html/index.html#gf9"
+      },
+      "Figura 9"
+     ],
+     "] coincida con la música elegida y, al mismo tiempo, tratar de imitar lo mejor posible la voz del cantante, personalidad o grupo en cuestión. En ambos casos, los memes son utilizados para desacreditar el derecho a la palabra",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799005/html/index.html#fn6"
+      },
+      [
+       "sup",
+       {},
+       "6"
+      ]
+     ],
+     " (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799005/html/index.html#redalyc_313799005_ref5"
+      },
+      "Charaudeau, 2005"
+     ],
+     ") de algún interlocutor y excluir, así, su argumento y, en última instancia, a él de la conversación."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "span",
+     {
+      "id": "t-gf9"
+     },
+     "\n",
+     [
+      "figura",
+      {
+       "alt": "El meme “mucho texto” y “qué\nbuen dato…”"
+      }
+     ],
+     [
+      "br",
+      {}
+     ],
+     "Figura 9",
+     [
+      "br",
+      {}
+     ],
+     "\n",
+     [
+      "span",
+      {},
+      "El meme “mucho texto” y “qué\nbuen dato…”"
+     ],
+     "\n",
+     [
+      "br",
+      {}
+     ],
+     "\n",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Fuente: Twitter"
+      ]
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Un caso aún más interesante es el del meme “quedé” [",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799005/html/index.html#gf10"
+      },
+      "Figura 10"
+     ],
+     "]. Este meme nace en la comunidad LGBT+ de internet para demostrar una sensación de asombro o de perplejidad ante algún hecho o situación. Se cree que esta frase se utilizó ante la muerte de la cantante Whitney Houston, en 2012, debido a la repercusión que tuvo el hecho entre sus fanáticos. Luego, el meme sería utilizado por la comunidad LGBT+ como una forma de expresar su reacción ante la situación típica de tener que discutir/interactuar con personas heterosexuales. Lo interesante, aquí, es que este meme funciona como una estrategia retórica que permite romper con la situación de comunicación entablada. Al responder solo con un “quedé” [",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799005/html/index.html#gf11"
+      },
+      "Figura 11"
+     ],
+     "], el otro sujeto que participa de la interacción se encuentra con los pies en el aire: no sabe de qué se está hablando, desconoce qué connotaciones puede poseer el término y tampoco puede inferir una actitud de su interlocutor (no puede saber si se trata de una agresión, un argumento, un contra argumento, etc.)."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "span",
+     {
+      "id": "t-gf10"
+     },
+     "\n",
+     [
+      "figura",
+      {
+       "alt": "Ejemplos del meme “quedé”"
+      }
+     ],
+     [
+      "br",
+      {}
+     ],
+     "Figura 10",
+     [
+      "br",
+      {}
+     ],
+     "\n",
+     [
+      "span",
+      {},
+      " Ejemplos del meme “quedé”"
+     ],
+     "\n",
+     [
+      "br",
+      {}
+     ],
+     "\n",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Fuente: Twitter"
+      ]
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "span",
+     {
+      "id": "t-gf11"
+     },
+     "\n",
+     [
+      "figura",
+      {
+       "alt": "Otros ejemplos del meme\n“quedé”"
+      }
+     ],
+     [
+      "br",
+      {}
+     ],
+     "Figura 11",
+     [
+      "br",
+      {}
+     ],
+     "\n",
+     [
+      "span",
+      {},
+      "Otros ejemplos del meme\n“quedé”"
+     ],
+     "\n",
+     [
+      "br",
+      {}
+     ],
+     "\n",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Fuente: comunicación personal \n\n "
+      ]
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "De este modo, el sujeto LGBT+ puede eludir, mediante la utilización de un código no compartido, una discusión que entiende como improductiva y/o no deseable. Con el tiempo, este meme salió de la esfera LGBT+ y comenzó a ser usado por todo tipo de usuarios, lo que ha llevado a que el meme sea parodiado por la comunidad hetero conservadora de internet. Esta parodia implica un descrédito de sus usuarios (los progres) y, en última instancia, repercute en la utilización del meme “quedé” por parte de la comunidad LGBT+. De manera directa (mediante la ridiculización del meme y de sus usuarios) o de manera indirecta",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799005/html/index.html#fn7"
+      },
+      [
+       "sup",
+       {},
+       "7"
+      ]
+     ],
+     "(mediante su reformulación y su utilización indiscriminada) el empleo del meme por fuera de su comunidad de origen lo despoja de la cualidad retórica que le permitía romper con la situación de comunicación. Hecho que reduce, drásticamente, la longevidad del meme."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Conclusiones"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Como hemos podido ver, el meme se presenta muchas veces como un discurso que replica las visiones propias de la época, al mismo tiempo que varios memes o versiones de un mismo meme presentan las luchas en torno a los sentidos socialmente compartidos. En este proceso, los sujetos no son pasivos, al contrario, muchos son capaces de elaborar lecturas críticas y producir contra-discursos. Algunos de estos hablantes demuestran, incluso, un profundo entendimiento de los lenguajes y las dinámicas de las redes sociales y la comunicación en internet. Es fundamental, por lo tanto, estudiar y analizar cómo se produce sentido a través de los memes teniendo en cuenta el uso sistemático que se hace de ellos, los lenguajes implicados y las posibles finalidades que tienen los sujetos. En el meme, los usuarios despliegan importantes y novedosas estrategias de argumentación y retórica."
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-back"
+    },
+    "\n",
+    [
+     "p",
+     {},
+     "Referencias"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313799005_ref1"
+     },
+     "Alonso Enguita, A.A. (2018). El meme en su temporalidad. ",
+     [
+      "span",
+      {},
+      "Ekisia: revista de filosofía, 82"
+     ],
+     ", 161-177. ",
+     [
+      "a",
+      {
+       "href": "https://www.revistadefilosofia.org/82-06.pdf"
+      },
+      "https://www.revistadefilosofia.org/82-06.pdf"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313799005_ref2"
+     },
+     "Berlanga Fernández, I., Victoria Mas, J. S. y Alberich Pascual, J. (2016). Facebook y la metáfora. La comunicación retórica en las redes sociales digitales. ",
+     [
+      "span",
+      {},
+      "Signa. Revista de la Asociación Española de Semiótica, 25"
+     ],
+     ", 413-431. ",
+     [
+      "a",
+      {
+       "href": "https://doi.org/10.5944/signa.vol25.2016.16945"
+      },
+      "https://doi.org/10.5944/signa.vol25.2016.16945"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313799005_ref3"
+     },
+     "Blackmore, S. (1999). ",
+     [
+      "span",
+      {},
+      "La máquina de los memes"
+     ],
+     ". Paidós."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313799005_ref4"
+     },
+     "Briggs, A. y Burke, P. (2002). ",
+     [
+      "span",
+      {},
+      "De Gutenberg a internet: una historia social de los medios de comunicación"
+     ],
+     ". Taurus."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313799005_ref5"
+     },
+     "Charaudeau, P. (2005). Un análisis semiolingüístico del discurso. ",
+     [
+      "span",
+      {},
+      "Polifonía, 5"
+     ],
+     "(6), 9-28. ",
+     [
+      "a",
+      {
+       "href": "http://www.patrick-charaudeau.com/Un-analisis-semiolinguistico-del.html"
+      },
+      "http://www.patrick-charaudeau.com/Un-analisis-semiolinguistico-del.html"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313799005_ref6",
+      "lang": "pt"
+     },
+     "Cunha Recuero, R. (2007). Memes en weblogs: proposta de uma taxonomia. ",
+     [
+      "span",
+      {},
+      "Revista FAMECOS, 32"
+     ],
+     ", 23-31. ",
+     [
+      "a",
+      {
+       "href": "https://www.academia.edu/483126/Memes_em_weblogs_proposta_de_uma_taxonomia"
+      },
+      "https://www.academia.edu/483126/Memes_em_weblogs_proposta_de_uma_taxonomia"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313799005_ref7"
+     },
+     "Dawkins, R. [1976] (2018). ",
+     [
+      "span",
+      {},
+      "El gen egoísta: las bases biológicas de nuestra conducta"
+     ],
+     ". Salvat."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313799005_ref8",
+      "lang": "en"
+     },
+     "Dennett, D. C. (1995). ",
+     [
+      "span",
+      {},
+      "Darwin´s dangerous idea: evolution and the meaning of life"
+     ],
+     ". Penguin Books."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313799005_ref9"
+     },
+     "Genette, G. (1989). ",
+     [
+      "span",
+      {},
+      "Palimpsestos: la literatura en segundo grado"
+     ],
+     ". Taurus."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313799005_ref10"
+     },
+     "Kress, G., Leite-García, R. y van Leeuwen, T. (2001). Semiótica discursiva. En T. A. van Dijk (Comp.), ",
+     [
+      "span",
+      {},
+      "El discurso como estructura y proceso "
+     ],
+     "(pp. 373-416). Gedisa."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313799005_ref11",
+      "lang": "en"
+     },
+     "Kress, G. y van Leeuwen, T. (2006). ",
+     [
+      "span",
+      {},
+      "Reading images: the grammar of visual design"
+     ],
+     ". Routledge."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313799005_ref12"
+     },
+     "McCloud, S. (1995). ",
+     [
+      "span",
+      {},
+      "Cómo se hace un cómic: el arte invisible"
+     ],
+     ". Ediciones B."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313799005_ref13"
+     },
+     "Ruiz Martínez, J. M. (2018). Una aproximación retórica a los memes de internet. ",
+     [
+      "span",
+      {},
+      "Signa. Revista de la Asociación Española de Semiótica, 27"
+     ],
+     ", 995-1021. ",
+     [
+      "a",
+      {
+       "href": "https://doi.org/10.5944/signa.vol27.2018.21856"
+      },
+      "https://doi.org/10.5944/signa.vol27.2018.21856"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313799005_ref14"
+     },
+     "Scolari, C. (2008). ",
+     [
+      "span",
+      {},
+      "Hipermediaciones: elementos para una teoría de la comunicación digital interactiva"
+     ],
+     ". Gedisa."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313799005_ref15"
+     },
+     "Yus, F. (2001). ",
+     [
+      "span",
+      {},
+      "Ciberpragmática: el uso del lenguaje en internet"
+     ],
+     ". Ariel."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Notas"
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-fn1"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "1"
+     ],
+     " El meme es, entonces, el equivalente cultural de un gen en la biología."
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-fn2"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "2"
+     ],
+     " No nos referimos, aquí, a que una ciencia o tipo de ciencia sea necesaria y objetivamente más compleja que la otra, sino al hecho de que trasladar un concepto de un campo disciplinar a otro, sin tener en cuenta las implicaciones que ello supone, es un acto reduccionista."
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-fn3"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "3"
+     ],
+     " ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799005/html/index.html#redalyc_313799005_ref15"
+      },
+      "Yus (2001)"
+     ],
+     " menciona que la conversación en internet posee características similares a la oralidad."
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-fn4"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "4"
+     ],
+     " Tanto Doge (a la izquierda) como Chems (a la derecha) son perros que tienen una importante cantidad de memes."
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-fn5"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "5"
+     ],
+     " La simplicidad del meme dividido en dos viñetas permite que se modifique la segunda mitad sin mayores problemas."
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-fn6"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "6"
+     ],
+     " Para este autor, todo sujeto interviniente en una comunicación debe saber cómo ocupar el espacio discursivo. Para ello, despliega una serie de estrategias que justifican su uso de la palabra. Estas pueden estar relacionadas con el conocimiento de la temática, con la propia identidad del sujeto o con su finalidad respecto al acto de lenguaje que se lleva a cabo."
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-fn7"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "7"
+     ],
+     " Cabe remarcar que muchos usuarios participan de este proceso de manera inconsciente, sin la intención manifiesta de atacar al grupo LGBT+."
+    ],
+    "\n"
+   ],
+   "\n"
+  ],
+  "\n",
+  [
+   "span",
+   {
+    "id": "t-creditos"
+   },
+   "\n",
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-logo-izquierda"
+    },
+    "\n",
+    [
+     "figura",
+     {}
+    ]
+   ],
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-mensaje"
+    },
+    "Modelo de publicación sin fines de lucro para conservar la naturaleza académica y abierta de la comunicación científica",
+    [
+     "br",
+     {}
+    ],
+    "HTML generado a partir de XML-JATS4R"
+   ],
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-logo-derecha"
+    },
+    "\n",
+    [
+     "figura",
+     {}
+    ]
+   ],
+   "\n",
+   "\n"
+  ],
+  "\n\n\n"
+ ]
+};

@@ -1,0 +1,2446 @@
+// Copia de textos/10-24215-24690333e050.json para abrir la aplicación sin servidor.
+(window.DATOS_REVISTAS = window.DATOS_REVISTAS || {})["textos/10-24215-24690333e050.json"] = {
+ "version": 1,
+ "recogido": "2026-10-18T11:36:20+00:00",
+ "doi": "10.24215/24690333e050",
+ "titulo": "La representación de mujeres cis viejas en El agente topo (2020)",
+ "revista": "2469-0333",
+ "numero": "n9-2024",
+ "licencia": {
+  "codigo": "by-nc-sa",
+  "nombre": "CC BY-NC-SA 4.0",
+  "nombre_completo": "Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional",
+  "url": "http://creativecommons.org/licenses/by-nc-sa/4.0",
+  "url_legal": "https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.es"
+ },
+ "fuente": {
+  "url": "https://perio.unlp.edu.ar/ojs/index.php/conequis/article/download/7905/7085/34127?inline=1",
+  "formato": "HTML",
+  "plataforma": "ojs-galerada",
+  "pagina": "https://perio.unlp.edu.ar/ojs/index.php/conequis/article/view/7905"
+ },
+ "autores_cita": [
+  {
+   "apellidos": "Gramajo Graña",
+   "nombre_pila": "Camila",
+   "nombre": null
+  }
+ ],
+ "avisos_derechos": [
+  "Derechos de autor 2023 Camila  Gramajo Graña",
+  "Licencia Derechos de autor 2023 Camila Gramajo Graña Esta obra está bajo una licencia internacional Creative Commons Atribución-NoComercial-CompartirIgual 4.0. Del número 1 (2015) al número 3 (2017) los materiales se publicaron bajo una licencia BY-NC-ND.A partir del número 4 (2018), los materiales se publican bajo una licencia BY-NC-SA. Acorde a estos términos, el material se puede compartir (copiar y redistribuir en cualquier medio o formato) y adaptar (remezclar, transformar y crear a partir del material otra obra), siempre que a) se cite la autoría y la fuente original de su publicación (revista y URL de la obra), b) no se use para fines comerciales y c) se mantengan los mismos términos de la licencia."
+ ],
+ "idioma_principal": "es",
+ "indice": [],
+ "vueltas": {},
+ "contenido": [
+  [
+   "span",
+   {
+    "id": "t-MathJax_Message"
+   }
+  ],
+  "\n",
+  [
+   "span",
+   {
+    "id": "t-visor-cabecera"
+   },
+   "\n",
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-logo-institucion"
+    },
+    "\n",
+    [
+     "figura",
+     {}
+    ]
+   ],
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-logo-revista"
+    },
+    "\n",
+    [
+     "figura",
+     {}
+    ]
+   ],
+   "\n",
+   "\n"
+  ],
+  "\n",
+  [
+   "span",
+   {
+    "id": "t-articulo"
+   },
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-front"
+    },
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-articulo-categoria"
+     },
+     "\n",
+     [
+      "p",
+      {},
+      "Artículos"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-articulo-meta"
+     },
+     "\n",
+     [
+      "p",
+      {},
+      "\n",
+      [
+       "span",
+       {},
+       "La representación de mujeres cis viejas en ",
+       [
+        "span",
+        {},
+        "El agente topo"
+       ],
+       " (2020)"
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "lang": "en"
+      },
+      "The Representation of Old Cis Women in ",
+      [
+       "span",
+       {},
+       "El agente topo"
+      ],
+      "\n(2020)"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-articulo-acerca"
+     },
+     "\n",
+     [
+      "span",
+      {
+       "id": "t-ficha-general"
+      },
+      "\n",
+      [
+       "span",
+       {
+        "id": "t-autores-articulo"
+       },
+       "\n",
+       "\n",
+       "\n",
+       [
+        "a",
+        {
+         "href": "https://orcid.org/0000-0001-7866-5318"
+        },
+        [
+         "figura",
+         {}
+        ]
+       ],
+       "  ",
+       [
+        "span",
+        {},
+        "Camila"
+       ],
+       " ",
+       [
+        "span",
+        {},
+        "Gramajo Graña"
+       ],
+       " ",
+       [
+        "span",
+        {}
+       ],
+       [
+        "span",
+        {},
+        " gramajocamila@gmail.com"
+       ],
+       "\n",
+       "\n",
+       "\n",
+       [
+        "span",
+        {},
+        "Universidad Nacional de Avellaneda, Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET)"
+       ],
+       ", ",
+       [
+        "span",
+        {},
+        "Argentina"
+       ],
+       "\n",
+       "\n",
+       "\n"
+      ],
+      "\n",
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "Con X"
+       ],
+       "\n"
+      ],
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "Universidad Nacional de La Plata, Argentina"
+       ],
+       "\n"
+      ],
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "ISSN: "
+       ],
+       "2469-0333"
+      ],
+      "\n",
+      [
+       "p",
+       {}
+      ],
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "Periodicidad: "
+       ],
+       "Frecuencia continua"
+      ],
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {}
+       ],
+       "núm.  9, ",
+       [
+        "span",
+        {
+         "id": "t-elocation-id"
+        },
+        "e050, "
+       ],
+       [
+        "span",
+        {},
+        "2023"
+       ],
+       "\n"
+      ],
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       "revistaconequis@gmail.com",
+       "\n"
+      ],
+      "\n",
+      "\n",
+      [
+       "span",
+       {
+        "id": "t-articulo-product"
+       }
+      ],
+      "\n",
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "Recepción: "
+       ],
+       " 19 Diciembre  2022"
+      ],
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "Aprobación: "
+       ],
+       " 11 Mayo  2023"
+      ],
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "Publicación: "
+       ],
+       " 16 Junio  2023"
+      ],
+      "\n",
+      [
+       "br",
+       {}
+      ],
+      "\n",
+      [
+       "br",
+       {}
+      ],
+      "\n",
+      "\n",
+      "\n",
+      [
+       "span",
+       {},
+       "URL: "
+      ],
+      [
+       "a",
+       {
+        "href": "http://portal.amelica.org/ameli/journal/160/1604398003/"
+       },
+       "http://portal.amelica.org/ameli/journal/160/1604398003/"
+      ],
+      "\n",
+      "\n",
+      "\n",
+      [
+       "span",
+       {},
+       "DOI: "
+      ],
+      [
+       "a",
+       {
+        "href": "https://doi.org/10.24215/24690333e050"
+       },
+       "https://doi.org/10.24215/24690333e050"
+      ],
+      "\n",
+      "\n",
+      "\n",
+      [
+       "p",
+       {}
+      ],
+      "\n",
+      "\n",
+      "\n",
+      "\n",
+      [
+       "a",
+       {
+        "href": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+       },
+       [
+        "figura",
+        {}
+       ],
+       [
+        "br",
+        {}
+       ],
+       "\n"
+      ],
+      "Esta obra está bajo una ",
+      [
+       "a",
+       {
+        "href": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+       },
+       "Licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional."
+      ],
+      "\n",
+      "\n",
+      "\n",
+      [
+       "p",
+       {}
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "\n",
+      [
+       "span",
+       {},
+       "Resumen:\n\t\t\t\t\t\t\t                           "
+      ],
+      [
+       "span",
+       {},
+       "En el artículo se analiza la representación sobre las mujeres cis mayores en el documental chileno ",
+       [
+        "span",
+        {},
+        "El agente topo"
+       ],
+       " (2020), a partir de la siguiente premisa: el discurso que se construye sobre la mujer vieja, ¿reproduce narrativas estereotipantes o aporta a visibilizar sus problemáticas, sentires y vivencias? Desde un análisis del discurso multimodal, con enfoque multiescalar, se observa que el documental refuerza la idea de infantilización, soledad, enfermedad, decadencia e improductividad que existe sobre la vejez, vulnera la intimidad de estas mujeres y produce una homogenización, al reducir su rol a abuelas y madres."
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "\n",
+      [
+       "span",
+       {},
+       "Palabras clave: "
+      ],
+      "vejez, envejecimiento, discursos, documental.\n\t\t                         "
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "lang": "en"
+      },
+      "\n",
+      [
+       "span",
+       {},
+       "Abstract:\n\t\t\t\t\t\t                           "
+      ],
+      [
+       "span",
+       {},
+       "The article analyzes the representation of older cis women in the Chilean documentary ",
+       [
+        "span",
+        {},
+        "El agente topo"
+       ],
+       " (2020), based on the following premise: does the discourse that it builds on the old woman reproduce stereotyped narratives or does it contribute to making visible their problems, feelings and experiences? From an analysis of the multimodal discourse, through the multiscale approach, it was observed that the documentary reflects the idea of infantilization, loneliness, illness, decadence and unproductiveness that exists about old age, violates the intimacy of these women and produces a homogenization, reducing their role to that of grandmothers and mothers."
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "\n",
+      [
+       "span",
+       {},
+       "Keywords: "
+      ],
+      "old age, aging, speeches, documentary.\n                                "
+     ],
+     "\n"
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-articulo-body"
+    },
+    "\n",
+    [
+     "p",
+     {},
+     "Introducción"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " A lo largo de 2020, la pandemia por la covid-19 hizo que las miradas estuvieron dirigidas en gran parte a las personas mayores. En este contexto, la llegada del documental chileno ",
+     [
+      "span",
+      {},
+      "El agente topo"
+     ],
+     " (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/160/1604398003/html/index.html#redalyc_1604398003_ref28"
+      },
+      "2020"
+     ],
+     ") a los premios Oscar, contribuyó a poner en agenda a un grupo mayormente invisibilizado.",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/160/1604398003/html/index.html#fn1"
+      },
+      [
+       "sup",
+       {},
+       "1"
+      ]
+     ],
+     " A mediados de ese año, la película comenzó a circular por diferentes redes sociales y las recomendaciones eran muchas: «excelente», «muy real», «necesaria». "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " En la película se narra la estadía de Sergio como espía en el Hogar San Francisco en la localidad de El Monte, Chile. La historia es relatada a través de cinco mujeres y su relación con Sergio: Sonia, Berta, Marta, Rubina y Zoila. El agente topo es reclutado durante tres meses para investigar cómo es tratada la primera de ellas por el personal del establecimiento. Su principal conclusión es que el lugar cuida muy bien de sus residentes y que la mayor problemática que atraviesan las personas institucionalizadas es la soledad y la falta de cuidados por parte de los familiares.  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " En el resumen que ofrece Netflix (",
+     [
+      "a",
+      {
+       "href": "https://www.netflix.com/ar"
+      },
+      "https://www.netflix.com/ar"
+     ],
+     ") la plataforma que la reproduce,",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/160/1604398003/html/index.html#fn2"
+      },
+      [
+       "sup",
+       {},
+       "2"
+      ]
+     ],
+     " la película se presenta como un «emotivo documental que muestra a un viudo de 83 años en una misión encubierta que lo lleva a infiltrarse en un hogar de ancianos para ver si maltratan a una de sus residentes». Las personas que viven allí desconocen la misión de Sergio, así como las intenciones del equipo de dirección de grabar un documental sobre su estadía. «Escuchan todo, y tienen unos oídos […]. Yo creo que están filmando una película pero no creo que estén espiando lo que uno habla», se escucha decir a dos mujeres de la residencia que no saben que las están grabando (",
+     [
+      "span",
+      {}
+     ],
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/160/1604398003/html/index.html#redalyc_1604398003_ref28"
+      },
+      [
+       "span",
+       {},
+       "El agente topo"
+      ],
+      ", 2020"
+     ],
+     ", min. 11:10).  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Sergio es uno de los pocos hombres mayores cis",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/160/1604398003/html/index.html#fn3"
+      },
+      [
+       "sup",
+       {},
+       "3"
+      ]
+     ],
+     " que aparece en la película. «Somos cuarenta mujeres y cuatro hombres en el hogar, incluido yo», menciona. Esta sobrerrepresentación de mujeres mayores cis responde a su sobrevivencia tanto en Chile como en el resto del mundo. Él es quien las escucha, las acompaña, las cuida. Un hombre viudo, educado, respetuoso y buen mozo, según las protagonistas. Ellas, solas, abandonadas y perdidas en el tiempo, se muestran gustosas de sus atenciones. "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Durante una entrevista, la directora y guionista del documental, Maite Alberdi,",
+     [
+      "sup",
+      {},
+      [
+       "a",
+       {
+        "href": "http://portal.amelica.org/ameli/journal/160/1604398003/html/index.html#fn4"
+       },
+       "4"
+      ]
+     ],
+     "menciona que la película fue grabada sin que las mujeres supieran los fines últimos del documental ni la misión de Sergio.",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/160/1604398003/html/index.html#fn5"
+      },
+      [
+       "sup",
+       {},
+       "5"
+      ]
+     ],
+     " ¿Qué lugar otorga el documental a la vejez si no parte del supuesto sobre el derecho de las personas a decidir si quieren participar de la producción sin que se les oculten los fines del documental? ¿Bajo qué criterios se mira y se muestra a estas mujeres? ¿Se respeta lo establecido por la Convención Interamericana sobre la Protección de los Derechos Humanos de las Personas Mayores (2015) a la que Chile suscribe y que las reconoce como sujetos de derechos? "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Raúl García Aguilar y José García Ancira (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/160/1604398003/html/index.html#redalyc_1604398003_ref9"
+      },
+      "2018"
+     ],
+     ") señalan que en el género documental puede haber tantos acercamientos a una historia como intencionalidades creativas. En ese sentido, es importante advertir que el tono, la elección de los personajes y la selección de imágenes conforman un discurso, expectativas y sensaciones; en este caso, sobre la vida en las residencias pero, también, sobre las personas mayores, principalmente, mujeres cis viejas. "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Como se aborda en las páginas siguientes, la producción repite y abona a las construcciones negativas sobre las personas mayores. Reproduce las desigualdades de género, al presentar a las mujeres cis viejas como frágiles y necesitadas de afecto; invisibiliza las relaciones que estas mujeres puedan construir en ese espacio; y posiciona a Sergio como la persona que llega para «cambiarles la vida». De este modo, las aparta de la categoría mujeres, las encasilla en el rol de «abuelitas» y las infantiliza reproduciendo un discurso que subyace en la sociedad occidental sobre el ser vieja: las mujeres cis mayores no son mujeres."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Los estudios sobre la vejez:\nun cambio de paradigma"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " La vejez y el envejecimiento han sido ampliamente estudiados tanto desde la medicina, como desde la sociología, la gerontología y la psicología. En ocasiones, ambos conceptos se confunden y ello deriva en el supuesto de que las personas comienzan a envejecer en la edad adulta. Sin embargo, el envejecimiento ha sido definido como un proceso que se da durante todo el curso de vida, desde que la persona nace hasta que muere (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/160/1604398003/html/index.html#redalyc_1604398003_ref27"
+      },
+      "Zamora Monge, 2010"
+     ],
+     "). La vejez, en cambio, ha sido definida como la construcción social de la última etapa vital; aquellos significados sociales, discursos y sentidos que hemos otorgado a esta etapa.  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Durante décadas, las ciencias médicas, en vinculación con los estudios del envejecimiento, han estado ocupadas en las problemáticas que afectan a las personas mayores desde una perspectiva biologicista, habilitando una medicalización de la vejez que no tiene en cuenta los contextos socioculturales y cómo estos afectan el proceso de envejecimiento de las personas. Ello ha derivado en que socialmente se relacione a esta etapa con la enfermedad, el deterioro, la decadencia, el dolor y, en último término, la muerte.  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Las representaciones sociales construidas en torno al ser viejo muestran a las personas mayores como dependientes, improductivas e incapaces de contribuir al desarrollo de la sociedad (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/160/1604398003/html/index.html#redalyc_1604398003_ref1"
+      },
+      "Aguado & Rodríguez, 2018"
+     ],
+     "), lo que anula las distintas maneras de transitar esta etapa. Se trata de la perspectiva teórico-metodológico que propone el enfoque de Curso de Vida (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/160/1604398003/html/index.html#redalyc_1604398003_ref7"
+      },
+      "Elder, 2001"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/160/1604398003/html/index.html#redalyc_1604398003_ref3"
+      },
+      "Blanco, 2011"
+     ],
+     "), desde el cual se reflexiona sobre el modo en que las estructuras macro y micro sociales afectan los procesos de envejecimiento, a partir de cinco principios: el desarrollo a lo largo de la vida, el principio de ",
+     [
+      "span",
+      {},
+      "agency"
+     ],
+     ",",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/160/1604398003/html/index.html#fn6"
+      },
+      [
+       "sup",
+       {},
+       "6"
+      ]
+     ],
+     " el principio de vidas interconectadas, el principio de tiempo y espacio, y el ",
+     [
+      "span",
+      {},
+      "timing"
+     ],
+     ".",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/160/1604398003/html/index.html#fn7"
+      },
+      [
+       "sup",
+       {},
+       "7"
+      ]
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Por medio de estos principios, podemos comprender que ningún proceso de envejecimiento es igual a otro y que existen tantas formas de transitar la vejez como personas mayores en el mundo. La concepción de que la vida es un ciclo que culmina en la última etapa se contrarresta con el pensarla como un curso, continuo y en capacidad de desarrollo constante; con sus limitaciones pero con posibilidad de adaptación frente a las distintas situaciones que se presenten. Todo ello, condicionado por los entornos en los que dichas vidas se desarrollen.  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " En el inicio, el documental aborda, brevemente, los estereotipos construidos en torno a la vejez cuando los hombres cis mayores responden al anuncio publicado en el diario ",
+     [
+      "span",
+      {},
+      "El Mercurio"
+     ],
+     ", en el que se solicitan hombres de entre 80 y 90 años para el trabajo de agente topo. Durante la entrevista, los candidatos cuentan la discriminación que sufren en el ambiente laboral por ser considerados improductivos socialmente. Pese a esto, durante el intercambio, el entrevistador se ríe de su falta de conocimiento sobre la tecnología, en complicidad con el resto de las personas presentes en el escenario que recrea la entrevista.  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Aunque esta problemática sea abordada desde una perspectiva que podríamos considerar tierna, se sostiene sobre estereotipos construidos socialmente sobre las vejeces. En el caso de las mujeres cis mayores, las referencias son más explícitas: la enfermedad, el deterioro y la decadencia son relatos que construyen a las protagonistas principales de la película, pero también a las demás mujeres que habitan el espacio.  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " En el documental se reproducen escenas grabadas por Sergio con su cámara oculta en la habitación de mujeres con altos grados de demencia. Pudiendo retirarse frente al hallazgo, el protagonista se queda y relata la situación. Incluso, muestra a una de las habitantes intentando ir al baño en uno de los pasillos. Las imágenes, no solo resultan revictimizantes, sino que refuerzan estereotipos negativos sobre la vejez, al tiempo que apelan al morbo y a la situación de incomodidad que generan en las audiencias las personas con padecimientos en su salud mental. Aunque pueden pensarse como formas de visibilizar la situación de algunas personas mayores, ¿acaso socialmente se propone un imaginario distinto sobre esa etapa de la vida? ¿O simplemente es una reproducción de lo que suponemos es llegar a la vejez?"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Las mujeres cis viejas no son mujeres"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " De acuerdo con Marta ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/160/1604398003/html/index.html#redalyc_1604398003_ref19"
+      },
+      "Lamas (2015)"
+     ],
+     ", el género constituye «la construcción cultural de la diferencia sexual», es decir, «la construcción simbólica que se establece sobre los datos biológicos de la diferencia sexual» (p. 31). Al adjudicar género a las personas mediante el binomio establecido por la construcción del sexo –macho / hembra– (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/160/1604398003/html/index.html#redalyc_1604398003_ref4"
+      },
+      "Butler, [1990] 2007"
+     ],
+     "), imponemos conductas y roles esperables con base en esa clasificación, por lo que es fundamental en la organización de la estructura social.  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " La edad tampoco es una mera variable y contempla distintos significados: la edad cronológica, la edad fisiológica y la edad social."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "p",
+     {},
+     "La edad cronológica (o de calendario) es esencialmente biológica y se manifiesta en niveles de trastorno funcional. La edad social alude a las actitudes y conductas que se consideran adecuadas para una determinada edad cronológica y que, a su vez, se relacionan trasversalmente con el género […]. La edad fisiológica se relaciona con las capacidades funcionales y con la gradual reducción de la densidad ósea, el tono muscular y la fuerza que produce el paso de los años. Sin embargo, la velocidad y la distribución temporal de estos cambios fisiológicos varía según la posición que ocupen los sujetos en la estructura social, en especial la relativa al género y a la clase social (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/160/1604398003/html/index.html#redalyc_1604398003_ref2"
+      },
+      "Arber & Ginn, 1996"
+     ],
+     ", p. 22)."
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Como mencionan Sara Arber y Jay Ginn (1996), el género, la clase y también la sexualidad (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/160/1604398003/html/index.html#redalyc_1604398003_ref10"
+      },
+      "Gramajo Graña, 2021"
+     ],
+     ") condicionan el envejecimiento de las personas. Por lo tanto, en los estudios sobre vejez y envejecimiento es preciso abordar una perspectiva interseccional que permita comprender cómo estas categorías afectan los cursos de vida en determinados contextos sociales, históricos y culturales.  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " A partir del concepto de ",
+     [
+      "span",
+      {},
+      "edadismo"
+     ],
+     ", desarrollado por Robert ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/160/1604398003/html/index.html#redalyc_1604398003_ref5"
+      },
+      "Butler (1969)"
+     ],
+     ", Leopoldo ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/160/1604398003/html/index.html#redalyc_1604398003_ref22"
+      },
+      "Salvarezza (1994)"
+     ],
+     " define el",
+     [
+      "span",
+      {},
+      " viejismo"
+     ],
+     " como la discriminación que socialmente se produce hacia las personas mayores, y que implica la estereotipación, la expulsión, la desaprobación y la negación de las vejeces. Son las mujeres cis y las disidencias sexuales quienes sufren una doble o una múltiple discriminación en su vejez: por su edad y por su género, identidad",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/160/1604398003/html/index.html#fn8"
+      },
+      [
+       "sup",
+       {},
+       "8"
+      ]
+     ],
+     " u orientación sexual.  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " La identidad se construye a través de distintos aspectos, entre los cuales el cuerpo, la sexualidad y el género juegan un papel fundamental. El cuerpo es construido a través de distintos discursos, que suponen y constituyen características que se deben cumplir para ser consideradx normal: «[…] el cuerpo se normaliza desde el género (Butler, 2008), pero también desde lo medicalizado (Pfeiffer, 1998), ya que se construye una noción de lo que debe ser el cuerpo correcto versus el cuerpo incorrecto que no se ajusta a la heteronormatividad» (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/160/1604398003/html/index.html#redalyc_1604398003_ref25"
+      },
+      "Vivero Marín, 2015"
+     ],
+     ", p. 60). Txetxu Aguado y María Pilar Rodríguez (2018) sostienen que asociar este modelo a la productividad y a la reproducción genera que se desprecien los cuerpos que ya no resultan útiles para dichos propósitos.  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " En ese sentido, enunciar que las mujeres cis viejas no son mujeres no tiene una intencionalidad política en los términos que proponen Monique ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/160/1604398003/html/index.html#redalyc_1604398003_ref26"
+      },
+      "Wittig (1992)"
+     ],
+     " y el existir lesbiano como sujeto de los feminismos, sino que pretende denunciar cómo socialmente se despoja a las adultas mayores de esa categoría y del rol que históricamente han ocupado, invisibilizando sus corporalidades, deseos, sentires y aportes a la sociedad. En ese arrebato, la identidad también se ve fragmentada."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "p",
+     {},
+     "Las variaciones en la identidad, relativas a las diversas posiciones que enfrente el sujeto ante el otro o lo otro, promueven experiencias de fragilización de las figuraciones identitarias. Estas variaciones tienen una particular gravitación en las crisis vitales, donde el pasaje a una nueva etapa pone en cuestión la continuidad de la figuración del sí mismo, pudiendo producir una «ruptura biográfica» o narrativa debido a que el sujeto siente que su nueva identidad es desconocida, negativa o estigmatizada (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/160/1604398003/html/index.html#redalyc_1604398003_ref12"
+      },
+      "Iacub, 2010"
+     ],
+     ", p. 300)."
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " La proposición «las mujeres viejas no son mujeres» se sostiene a partir de su expulsión del sistema productor / reproductor adoptado por el capitalismo. Las mujeres mayores se presuponen una carga para las familias (sobre todo, para sus pares más jóvenes), incluso, aunque sigan contribuyendo con parte de las tareas de cuidado que se realizan en el hogar (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/160/1604398003/html/index.html#redalyc_1604398003_ref2"
+      },
+      "Arber & Ginn, 1996"
+     ],
+     "). Esta percepción genera una homogenización sobre el ser vieja que impide abordar la diversidad y las distintas maneras de atravesar esta etapa del curso de vida. "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " En palabras de Ricardo Iacub (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/160/1604398003/html/index.html#redalyc_1604398003_ref13"
+      },
+      "[2011] 2015"
+     ],
+     "), «el desarrollo y el envejecimiento se deben entender como procesos simultáneos y permanentes durante la vida, en los cuales se conjugan ganancias y pérdidas, así como múltiples influencias y orientaciones» (p. 46). De este modo, tanto la experiencia acumulada en los cursos de vida de las mujeres mayores como la continuidad del desarrollo durante la vejez son parte de las ganancias que menciona el autor, las cuales responden a los contextos socioculturales e históricos en los que las personas desarrollan su curso vital.  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Sin embargo, los discursos ",
+     [
+      "span",
+      {},
+      "viejistas"
+     ],
+     " limitan la posibilidad de visibilizar dicha diversidad, así como la complejidad y las particularidades que implican el envejecimiento y la vejez (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/160/1604398003/html/index.html#redalyc_1604398003_ref13"
+      },
+      "Iacub, [2011] 2015"
+     ],
+     "). Asimismo, limitan en lxs sujetxs la posibilidad de identificarse con ese grupo que es estigmatizado socialmente.  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Históricamente, las industrias culturales han sido parte de esa construcción que desplaza aquello que escapa a la norma; en este caso, mediante la reproducción del cuerpo «normal»: joven, delgado, blanco, cis, que burla e invisibiliza a quienes no responden a esa concepción hegemónica. En ese sentido, las mujeres mayores son representadas como personas tiernas, asexuadas o abuelas. Como sostiene Mónica ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/160/1604398003/html/index.html#redalyc_1604398003_ref21"
+      },
+      "Roqué (2019)"
+     ],
+     ", la representación que circula socialmente sobre la mujer cis vieja no contempla a aquellas que responden a estándares de belleza asociados a la juventud. En este marco, la carrera ",
+     [
+      "span",
+      {},
+      "antiage"
+     ],
+     " –tal como la enuncian diversas publicidades de productos– es posible para un mínimo porcentaje de personas:"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "p",
+     {},
+     "[…] después de los cincuenta o de la menopausia toda mujer cruza un umbral hacia la tercera fase de su vida, entrando de este modo en un territorio desconocido. Para un patriarcado orientado sobre todo hacia la juventud, convertirse en una mujer mayor es convertirse en alguien invisible, en una no-entidad (Bolen, 2011, tomado de ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/160/1604398003/html/index.html#redalyc_1604398003_ref25"
+      },
+      "Vivero Marín, 2015"
+     ],
+     ", p. 67)."
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "La forma en la que vemos a los cuerpos viejos está atravesada por sensibilidades y por subjetividades construidas a través de distintos discursos sociales sobre la vejez, que apelan a la lástima o a la ternura frente a imágenes que se construyen como conmovedoras, o al desprecio, cuando vemos cuerpos arrugados, gordos, flacos, caídos o dementes. Ambas representaciones invisibilizan las distintas formas de habitar estos cuerpos, formas que están atravesadas por el deseo, la sexualidad, los miedos, la aceptación, la negación y el rechazo, entre otras emociones."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Texto y contexto, un\ncruce de sentidos"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Para el análisis de esta producción, se adopta el enfoque multiescalar desarrollado por Robert ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/160/1604398003/html/index.html#redalyc_1604398003_ref11"
+      },
+      "Hodge (2017)"
+     ],
+     ", ya que permite analizar el texto en sus distintos niveles de sentido. A partir de la idea de que el sentido se construye a través de las imágenes, los sonidos, las gestualidades y los diálogos en relación con el contexto social, cultural, histórico y político en el que se produce, el autor propone ir de lo general a lo particular, o viceversa, con la finalidad de comprender cómo lo que sucede fuera del texto es parte de lo que el texto construye y de los sentidos que genera en las audiencias. "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Enmarcado en la semiótica social, ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/160/1604398003/html/index.html#redalyc_1604398003_ref11"
+      },
+      "Hodge (2017)"
+     ],
+     " sostiene que las relaciones y las intersecciones que se producen entre las esferas del lenguaje, el sentido y la sociedad «se entienden como innumerables redes multiescalares, que parten de los detalles de la vida cotidiana y, en última instancia, conectan con fuerzas y movimientos sociales invisibles como el capitalismo, el racismo y la injusticia» (p. 4), así como también con el patriarcado o el ",
+     [
+      "span",
+      {},
+      "viejismo"
+     ],
+     "."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " En este caso, el análisis se lleva adelante en dos niveles que van de lo general a lo particular. Se parte del contexto sociocultural en el que este documental es producido –en particular, la situación de las mujeres mayores en Chile–, como también desde qué perspectiva y con qué intencionalidad se lo produce; para arribar a los sentidos que el texto genera: los discursos se construyen sobre la mujer vieja.  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Para el análisis específico del texto audiovisual, nos enfocamos en tres personajes: Marta, Sonia y Berta, mujeres que interaccionan con el agente topo desde diferentes lugares y que representan distintos sentidos sobre lo que implica ser mujer vieja."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Situación de las mujeres en Chile"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Las mujeres cis viejas se encuentran atravesadas por múltiples violencias, a las que se suman el territorio que habitan, el nivel socioeconómico, educativo y de dependencia. En promedio, las mujeres chilenas ganan 29,7 % menos que los hombres (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/160/1604398003/html/index.html#redalyc_1604398003_ref21"
+      },
+      "Roqué, 2019"
+     ],
+     "). Esta brecha salarial no solo afecta sus trayectorias de vida, sino también el proceso de envejecimiento y, por lo tanto, su vejez. Son muy pocas las que pueden alcanzar un trabajo de mayor categoría y, en consecuencia, una jubilación que les permita transitar esta etapa dignamente (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/160/1604398003/html/index.html#redalyc_1604398003_ref21"
+      },
+      "Roqué, 2019"
+     ],
+     "). Viven más, pero en peores condiciones, debido a las desigualdades de género sufridas durante su curso de vida (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/160/1604398003/html/index.html#redalyc_1604398003_ref21"
+      },
+      "Roqué, 2019"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/160/1604398003/html/index.html#redalyc_1604398003_ref8"
+      },
+      "Freixas, 1996"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/160/1604398003/html/index.html#redalyc_1604398003_ref2"
+      },
+      "Arber & Ginn, 1996"
+     ],
+     ").  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " La imposibilidad, en muchos casos, de acceder a una pensión, la violencia, las tareas de cuidado –ejercidas de manera ininterrumpida– son condicionantes que configuran vejeces desiguales. En el envejecimiento femenino, como señalan Sol Scavino Solari y Rosario Aguirre Cuns (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/160/1604398003/html/index.html#redalyc_1604398003_ref23"
+      },
+      "2016"
+     ],
+     "), «se cristalizan las desigualdades de género y sociales acumuladas a lo largo de la vida, y las mismas están íntimamente vinculadas a la organización social del cuidado y a la ausencia de reconocimiento de las trayectorias de trabajo de cuidado femenino» (p. 3). "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Según la CEPAL (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/160/1604398003/html/index.html#redalyc_1604398003_ref6"
+      },
+      "2016"
+     ],
+     "), las mujeres mayores cis constituyen el 60 % de la población de 60 años y más en América Latina. Con base en el censo 2017, el Instituto Nacional de Estadística (INE, 2019) chileno proyectó para 2019 una población de personas mayores de 11,8 % y para 2035 una población de 18,9 %. Para 2019, la esperanza de vida para los hombres cis es de 77,9 años y para las mujeres de 83,4 años. Para 2035, las cifras apuntan a 80,9 y 86,0, respectivamente (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/160/1604398003/html/index.html#redalyc_1604398003_ref17"
+      },
+      "INE, 2019"
+     ],
+     ").  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Asimismo, el porcentaje de mujeres cis en residencias de larga estadía es de 52,3 % y, de ese porcentaje, un 40,4 % tiene más de 80 años (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/160/1604398003/html/index.html#redalyc_1604398003_ref15"
+      },
+      "Instituto Nacional de Derechos Humanos, 2018"
+     ],
+     "). Las mujeres que habitan estos espacios poseen algún grado de dependencia, por lo que, muchas veces, la institucionalización se debe a la imposibilidad de las familias de asumir las tareas de cuidado que, en numerosos casos, son realizadas por otras mujeres mayores (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/160/1604398003/html/index.html#redalyc_1604398003_ref23"
+      },
+      "Scavino Solari & Aguirre Cuns, 2016"
+     ],
+     ").  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " En ese sentido, cabe remarcar la importancia de entender los cuidados como una política de Estado y no recluirlos a la esfera privada de las familias. Los feminismos han discutido y problematizado esto por décadas, pero la vejez no ha formado parte de estos debates sino solo como una carga extra en los cuidados (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/160/1604398003/html/index.html#redalyc_1604398003_ref2"
+      },
+      "Arber & Ginn, 1996"
+     ],
+     "). En la situación global actual, que nos presenta una población mundial envejecida, ponemos el foco en las familias y no en los Estados. El documental ",
+     [
+      "span",
+      {},
+      "El agente topo"
+     ],
+     " (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/160/1604398003/html/index.html#redalyc_1604398003_ref28"
+      },
+      "2020"
+     ],
+     ") hace énfasis en la soledad que viven las personas mayores en las residencias debido al abandono familiar, pero no complejiza esta situación, solo la condena.  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Pero las residencias son, también, lugares de sociabilidad, de acompañamiento, de creación de nuevos vínculos y de cuidados que no siempre las familias (principalmente, las mujeres) pueden proporcionar:"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "p",
+     {},
+     "[…] existe un grupo –en general, de escasos recursos y sin familia– que ven el ingreso a la residencia como una alternativa para incrementar sus relaciones sociales […]. En algunos adultos mayores su red de apoyo social se genera al momento de ingresar a la residencia, nombrando en todos los tipos de apoyo que conforman la red sólo a profesionales de la salud (Jáuregui, Lazarte & Lazarte, ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/160/1604398003/html/index.html#redalyc_1604398003_ref18"
+      },
+      "2018"
+     ],
+     ", p. 36)."
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Según el ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/160/1604398003/html/index.html#redalyc_1604398003_ref24"
+      },
+      "Servicio Nacional del Adulto Mayor (SENAMA)"
+     ],
+     ", Chile cuenta con diecisiete establecimientos de larga estadía en funcionamiento, administrados por municipios o por fundaciones sin fines de lucro, de carácter público o privado, mediante los cuales se sostiene la política de atención centrada en la persona. En el sitio de SENAMA,",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/160/1604398003/html/index.html#fn9"
+      },
+      [
+       "sup",
+       {},
+       "9"
+      ]
+     ],
+     " el Hogar San Francisco se presenta como un espacio para quienes necesitan atención y cuidados constantes, y como una alternativa para aquellas familias que no pueden llevar adelante esa tarea. La película permite apreciar que es un espacio ameno, amplio (cuenta con jardines, capilla, habitaciones individuales y compartidas, salas de recreación, comedor) y que ofrece la posibilidad de realizar distintas actividades. "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Es necesario repensar esos espacios, no como lugares de abandono, sino como ámbitos de pertenencia, de comunidad y de oportunidad para aquellas vejeces que no cuentan con redes familiares, no poseen casa propia o presentan altos niveles de dependencia. Para ello, comprender que las personas mayores son sujetos de derecho es fundamental."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Sonia, «el blanco»"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " El agente topo ingresa al hogar con la intención de recabar información sobre Sonia, una de las internas del lugar cuya hija decidió contratar a un detective privado para que investigue si su madre sufre maltratos en la institución. Al inicio de la película, le muestran a Sergio una imagen de Sonia y le piden que la memorice. Ya en el lugar, el espía comienza la búsqueda.  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " En uno de los informes diarios que Sergio presenta a su jefe, señala: «Estuve en la sala grande, mirando a ver si descubría al blanco. Tenía como cuatro candidatas, pero todas las señoras me parecen iguales» (",
+     [
+      "span",
+      {}
+     ],
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/160/1604398003/html/index.html#redalyc_1604398003_ref28"
+      },
+      [
+       "span",
+       {},
+       "El agente topo"
+      ],
+      ", 2020"
+     ],
+     ", min. 22:10). Mientras el detective infiltrado relata estas anotaciones, las imágenes muestran figuras de mujeres sentadas en una sala común, con hombros caídos, cabello corto y blanco/grisáceo, las manos cruzadas, la mirada perdida en algún punto y una expresión reflexiva, como esperando que algo ocurra. Esas tomas, junto con el relato que el espía realiza en ",
+     [
+      "span",
+      {},
+      "off"
+     ],
+     ", reproducen figuras estereotipantes y abonan a la idea de pobres viejitas que socialmente tenemos sobre las mujeres mayores (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/160/1604398003/html/index.html#redalyc_1604398003_ref21"
+      },
+      "Roqué, 2019"
+     ],
+     "). Asimismo, construye una mirada homogeneizante sobre estas personas al mencionar que «todas [le] parecen iguales». "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " A pesar de su edad, el agente topo no se reconoce como parte de esta población. El hecho de ser autovalente le permite correrse de esa representación y trasladar la imagen de la vejez hacia quienes presentan dificultades cognitivas o distintos grados de dependencia. El uso del término «abuelita» para dirigirse a Sonia es recurrente en Sergio, quien se asume frente a ella como el cuidador. «Permiso, abuelita. Permiso, ¿cómo está? ¿Cómo está el almuercito? […] Usted está súper bien, muy linda, una abuelita linda. Todos los días la voy a ver» (",
+     [
+      "span",
+      {}
+     ],
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/160/1604398003/html/index.html#redalyc_1604398003_ref28"
+      },
+      [
+       "span",
+       {},
+       "El agente topo"
+      ],
+      ", 2020"
+     ],
+     ", min. 29).  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Sacramento ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/160/1604398003/html/index.html#redalyc_1604398003_ref20"
+      },
+      "Pinazo-Hernadis (2013)"
+     ],
+     " define a esta forma de comunicarse como acomodación del habla. Dicho concepto implica que las personas cambian su forma de hablar frente a interlocutores sobre los que realizan una evaluación estereotipada sobre la base de su funcionalidad, estatus social, género, edad. «En consecuencia, el patrón de habla que uno usa en la comunicación da muestra de la evaluación que hace sobre la competencia del otro» (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/160/1604398003/html/index.html#redalyc_1604398003_ref20"
+      },
+      "Pinazo-Hernadis, 2013"
+     ],
+     ", p. 264).  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Hablarle en diminutivo, introducirse al cuarto sin permiso, inclinarse en su cama y tocarle las manos sin que ella diera su consentimiento supone una vulneración de su intimidad. Asimismo, es un avasallamiento de su autonomía y una falta de reconocimiento como igual, es decir, una infantilización sobre Sonia. "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Entender a la vejez como asexual supone considerar que sus cuerpos no son objeto de deseo y que las personas no son deseantes, por lo que tocarlos sin permiso o violentar su intimidad sea una práctica habitual en los hogares. En el marco de la infantilización que se produce hacia la vejez, la concepción adultocentrista de propiedad sobre el cuerpo infante se traslada hacia los cuerpos viejos, porque socialmente, estas etapas del curso de vida son comparables. "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Sonia se opone a estas situaciones. En tomas posteriores, se niega a conocer a Sergio y marca ciertos límites a que se le acerquen o la toquen, reivindicando de esa manera su autonomía. Producto de esta actitud, Sonia pierde protagonismo en la película, ya que no se somete a la violencia cultural",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/160/1604398003/html/index.html#fn10"
+      },
+      [
+       "sup",
+       {},
+       "10"
+      ]
+     ],
+     " que a lo largo de la película se ejerce hacia otras residentes.",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/160/1604398003/html/index.html#fn11"
+      },
+      [
+       "sup",
+       {},
+       "11"
+      ]
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "«Lleveme caballeroooo, dueño de la propiedad»"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Marta es uno de los personajes que se mantiene a lo largo de la trama. Al principio y al final, aparece exigiendo lo mismo: que la lleven a algún lado. Las tomas que la muestran frente a la reja, pidiendo a personas que no vemos que le abran la puerta, son recurrentes, así como las supuestas conversaciones que mantiene con su madre por teléfono en las que, una y otra vez, le pide que la vaya a buscar. En el documental, Marta es vista como una niña. Siempre se muestra cerca de Sergio y sus conversaciones refieren a desvaríos, excepto al final, cuando le dice al agente topo que es su único amigo. "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " A diferencia de Sonia, Marta busca constantemente las manos y el contacto con Sergio. Durante la fiesta de su cumpleaños, le canta al oído que lo quiere y se encuentra a su lado en casi todas las imágenes. Sin embargo, al comparar su figura con la de una niña, este tipo de emociones pasan desapercibidas a los ojos de la cámara, desde la cual se opta por hacer foco en sus momentos de desvarío. Esa equiparación constante del cuerpo viejo y demente con la infancia se genera principalmente en su caso, ya que es quien se muestra más osada, pícara y desvergonzada frente a las cámaras.  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Debido a su demencia, Marta sufre distintas vulneraciones, que si bien se asocian a situaciones divertidas resultan revictimizantes. Una de ellas es que las cuidadoras se hagan pasar por su madre al teléfono para que no se sienta sola, porque «nadie la visita», como menciona Sergio. Desconocemos si tiene familia, pero la insistencia hacia su madre o bien ha sido alimentada por el personal del Hogar, o bien denota que si tiene familia esta no la registra. Marta menciona ciertas cuestiones que resultan impactantes si pensamos cómo pudo haber sido el curso de vida de una mujer que, por su edad, atravesó uno de los periodos más crueles de la historia chilena como fue la dictadura militar en ese país. Por ejemplo, cuando le dice a Sonia: «Ay, por qué se enoja que la toque […]. ¿Quién te compró? Te compré yo. Yo te compré, con la plata mía» (",
+     [
+      "span",
+      {}
+     ],
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/160/1604398003/html/index.html#redalyc_1604398003_ref28"
+      },
+      [
+       "span",
+       {},
+       "El agente topo"
+      ],
+      ", 2020"
+     ],
+     ", min. 46), o cuando menciona que se la llevaron los carabineros, pero se escapó."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Como mencionamos, poco se sabe de esta mujer. Sus diálogos son una repetición constante en relación con su madre, la plata y el fugarse, situaciones que narradas a través de música simpática, y bajo la sonrisa y el desconcierto del resto de los internos, resultan estigmatizantes y despersonalizantes de las personas con demencia. Como señala Cándida ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/160/1604398003/html/index.html#redalyc_1604398003_ref25"
+      },
+      "Vivero Marín (2015)"
+     ],
+     ", Marta se transforma en una no-entidad: no es mujer, no es abuela y tampoco es reconocida como una igual frente a sus interlocutores; es despojada de cualquier rol social que quiere asumir o que le fuera asignado. Marta es una carga, es el objeto de burla o sobre quien se deposita cierta mirada de lástima, es ese imaginario sobre la vejez que no queremos ser."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "«Me quiere mucho, poquito, nada»"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " En una de las imágenes que se construye como más tierna o conmovedora Berta se encuentra en el jardín deshojando una margarita junto a otra compañera que muestra cierta alegría frente al resultado que arrojan los pétalos a la pregunta. Según la flor, Sergio la «quiere mucho». Esta escena nos remite al pasado, a nuestra infancia, a ciertos juegos de niñxs/adolescentes representados en la corporalidad de dos mujeres de más de 80 años. "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Las imágenes sobre la llegada de Sergio al Hogar muestran a varias mujeres que comentan, durante el almuerzo, el ingreso del nuevo caballero. Las conversaciones no son infantiles; por el contrario, denotan la atracción que sienten hacia este hombre nuevo, que está lúcido y autovalente, a diferencia de los otros tres que habitan en el hogar: «Es un caballero […]. Lúcido […]. A mí me gusta porque lo veo muy caballero, muy [quien habla hace un gesto con la mano indicando pulcritud]. Todo lo que converso… del uno […] ¿Por qué no lo traemos acá? [Se ríen] Acá hay cupo para dos (",
+     [
+      "span",
+      {}
+     ],
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/160/1604398003/html/index.html#redalyc_1604398003_ref28"
+      },
+      [
+       "span",
+       {},
+       "El agente topo"
+      ],
+      ", 2020"
+     ],
+     ", min. 18). "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Berta le confiesa a la directora del Hogar que Sergio le gusta cuando va a pedirle que lo deje salir con ella para ir al banco, que está a una cuadra de la residencia. A través de esa charla, se dan a conocer algunos datos sobre su trayectoria sexual/amorosa:"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "p",
+     {},
+     "[…] porque si una persona me gusta… Yo he sido bien regodeona en mi vida […]. Pololie, pero besos y abrazos no sacan pedazos. Y he sido bien terca para mis cosas [hace un gesto con su mano recta hacia el frente de forma vertical que denota firmeza], porque yo me podría considerar que a dios le daría mi virginidad por medio de la persona con la que yo me casara (",
+     [
+      "span",
+      {}
+     ],
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/160/1604398003/html/index.html#redalyc_1604398003_ref28"
+      },
+      [
+       "span",
+       {},
+       "El agente topo"
+      ],
+      ", 2020"
+     ],
+     ", min. 38)."
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " En una entrevista realizada por la Cadena CNN al personal del establecimiento, las cuidadoras comentan que tuvieron que frenar esa situación porque Berta se había enamorado. ¿Por qué se vieron en la necesidad de intervenir las personas que gestionan el hogar en una relación entre dos personas mayores y autovalentes? ¿Qué percepción tenemos lxs adultxs sobre la vejez que nos habilita a interceder en situaciones como esta?  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " El deseo y la sexualidad se piensan en relación con la conformación de la familia cisheteronormativa, el coito y la penetración, reduciéndolos a una etapa particular de la vida: la reproductiva. Cuando la reproducción no es una posibilidad, socialmente se cancelan el deseo y la sexualidad, sobre todo, en las mujeres cis mayores, porque el hombre cis puede cumplir esta función durante más tiempo. "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " En el caso específico del documental, durante la hora y media de grabación editada, la sexualidad queda relegada y los vínculos afectivos se muestran como relaciones amistosas o coqueteos adolescentes, lo que representa una cancelación del deseo de los cuerpos viejos de las mujeres cis, a pesar de que en reiteradas ocasiones ellas demuestren lo contrario."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Conclusiones"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Las situaciones que se narran en el documental ",
+     [
+      "span",
+      {},
+      "El agente topo"
+     ],
+     " (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/160/1604398003/html/index.html#redalyc_1604398003_ref28"
+      },
+      "2020"
+     ],
+     ") representan una de las múltiples realidades que atraviesan la vejez. Desde el discurso de la soledad, el documental produce una generalización sobre esta etapa del curso de vida. A esto se suma que la historia se cuenta, a través de la figura de un hombre mayor, que actúa como irruptor de esa realidad (haciendo de confesor, cuidador, acompañante y objeto de deseo) y provoca en las mujeres distintas emociones.  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " El documental busca abordar la temática de la vejez –una problemática en auge debido al envejecimiento poblacional– desde una perspectiva de denuncia sobre las situaciones de abandono que viven las personas mayores en los hogares. Sin embargo, lo hace a través de la reproducción de estereotipos negativos, que refuerzan la idea de infantilización, soledad, improductividad, enfermedad y decadencia de esta etapa.  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Asimismo, resulta revictimizante y vulnera la intimidad de las mujeres. Produce una homogenización, reduciendo su rol a abuelas y madres, que al ser despojadas de esa función mediante el abandono, sus días se reducen a esperar una visita que no llega. En el caso de Marta, no solo se la despoja de esos roles, sino también del ser mujer, convirtiéndola en una no entidad y acentuando la estigmatización de la demencia (Bolen, 2011, en ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/160/1604398003/html/index.html#redalyc_1604398003_ref25"
+      },
+      "Vivero Marín, 2015"
+     ],
+     "). "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Esto último habilita a Sergio a relacionarse con el cuerpo de las mujeres de una forma que podemos caracterizar como violencia cultural, pues no respeta su autonomía y se justifica a través del cuidado hacia la persona. Como se describió, en una de las escenas el agente topo ingresa al cuarto de Sonia, se sienta a su lado, le toma las manos y se inclina sobre su cama a pesar de que ella, que no lo conoce ni lo ha visto antes, diera su consentimiento. Esta forma de avasallamiento sobre el cuerpo y la intimidad, que sería condenable si ella tuviera cuarenta años menos, aquí se muestra como un acto de cuidado.  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " A lo largo de la película, las personas mayores son vistas como sujetos de cuidado, no como sujetos de derecho, no respetándose así la Convención Interamericana sobre la Protección de los Derechos Humanos de las Personas Mayores (2015). El documental vulnera y viola sus derechos al mostrar imágenes denigrantes como las que graba Sergio con su cámara oculta cuando ingresa a una habitación de dos mujeres con alto grado de demencia. Por esto, aunque pretende denunciar la situación que atraviesan muchas personas mayores, el documental reproduce los discursos sobre los que se sostienen el viejismo y la discriminación hacia esta población, porque se construye desde la revictimización, desconociendo el avance en materia de derechos y la normativa internacional a la que Chile adhiere.  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " La sexualidad de estas mujeres se remite, únicamente, al vínculo heterosexual normado y se presenta semejante al de otra etapa de la vida, la adolescencia. Las miradas, los murmullos, la intención del tacto o la imagen de desojar una margarita –que interpreta Berta– son las formas mediante las cuales en la película se representan los vínculos afectivos de las mujeres cis mayores.  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Por último, en la película se construye el discurso de la soledad desde una perspectiva sesgada, con un recorte intencionado que potencia ese aspecto sin problematizar la importancia de los cuidados y el papel del Estado en esa tarea. Se culpabiliza a las familias de no hacerse cargo y se desconoce que son también mujeres mayores –principalmente– quienes cuidan a las personas de 80 años y más.  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Desde la película se adopta una perspectiva individualista sobre esta problemática y se desconoce que es necesario un abordaje integral y en comunidad del problema. Asimismo, cabe destacar que la producción habilita estos debates y la necesidad de abordar la vejez desde un enfoque interseccional, que problematice las tareas de cuidado, lo que entendemos por residencias y el papel de los Estados frente al envejecimiento poblacional."
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-back"
+    },
+    "\n",
+    [
+     "p",
+     {},
+     "Referencias"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_1604398003_ref1"
+     },
+     "Aguado, T. y Rodríguez, M. P. (2018). Representaciones del envejecimiento en el arte la cultura y la sociedad. En T. Aguado y M. P. Rodríguez (Eds.), ",
+     [
+      "span",
+      {},
+      "Representaciones sociales y artísticas del envejecimiento"
+     ],
+     " (pp. 9-26). Dyckinson. ",
+     [
+      "a",
+      {
+       "href": "http://dx.doi.org/10.2307/j.ctv301f4f"
+      },
+      "http://dx.doi.org/10.2307/j.ctv301f4f"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_1604398003_ref2"
+     },
+     "Arber, S. y Ginn, J. (1996). “Mera conexión”. Relaciones de género y envejecimiento. En S. Arber y J. Ginn (Eds.), ",
+     [
+      "span",
+      {},
+      "Relación entre género y envejecimiento. Enfoque Sociológico"
+     ],
+     " (pp. 17-34). Narcea."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_1604398003_ref3"
+     },
+     "Blanco, M. (2011). El enfoque de curso de vida: orígenes y desarrollo. ",
+     [
+      "span",
+      {},
+      "Revista latinoamericana de población, 5"
+     ],
+     "(8), 5-31. ",
+     [
+      "a",
+      {
+       "href": "https://doi.org/10.31406/relap2011.v5.i1.n8.1"
+      },
+      "https://doi.org/10.31406/relap2011.v5.i1.n8.1"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_1604398003_ref4"
+     },
+     "Butler, J. (2007) [1990]. ",
+     [
+      "span",
+      {},
+      "El género en disputa. El feminismo y la subversión de la identidad"
+     ],
+     ". Paidós."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_1604398003_ref5",
+      "lang": "en"
+     },
+     "Butler, R. N. (1969). Age-ism: Another form of Bigotry. ",
+     [
+      "span",
+      {},
+      "The Gerontologist, 9"
+     ],
+     "(4), 243-246."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_1604398003_ref6"
+     },
+     "Comisión Económica para América Latina y el Caribe y Naciones Unidas (CEPAL) (2016). ",
+     [
+      "span",
+      {},
+      "Envejecimiento e institucionalidad pública en América Latina y el Caribe: conceptos, métodos y casos prácticos"
+     ],
+     ". CEPAL."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_1604398003_ref7",
+      "lang": "en"
+     },
+     "Elder, G. (2001). “Life course: sociological aspects”. En N. Smelser y P. Baltes (Eds.), ",
+     [
+      "span",
+      {},
+      "International Encyclopedia of the Social and Behavioral Sciences"
+     ],
+     ", vol. 13. Elsevier."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_1604398003_ref8"
+     },
+     "Freixas, A. (1996). Prólogo. En S. Arber y J. Ginn (Eds.), ",
+     [
+      "span",
+      {},
+      "Relación entre género y envejecimiento. Enfoque Sociológico"
+     ],
+     " (pp. 7-10). Narcea."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_1604398003_ref9"
+     },
+     "García Aguilar, R. R. y García Ancira, J. A. (2018). Cine de memoria: del cine militante a ",
+     [
+      "span",
+      {},
+      "Seré millones. De Raíz Diversa, 5"
+     ],
+     "(9), 175-194. ",
+     [
+      "a",
+      {
+       "href": "https://doi.org/10.22201/ppela.24487988e.2018.9.64764"
+      },
+      "https://doi.org/10.22201/ppela.24487988e.2018.9.64764"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_1604398003_ref10"
+     },
+     "Gramajo Graña, N. C. (2021). La representación de la vejez de lesbianas, gays y trans en las series Grace and Frankie y Transparent desde un enfoque multiescalar (Tesis de Maestría). Universidad Nacional de México, México. ",
+     [
+      "a",
+      {
+       "href": "https://ru.dgb.unam.mx/handle/20.500.14330/TES01000814878"
+      },
+      "https://ru.dgb.unam.mx/handle/20.500.14330/TES01000814878"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_1604398003_ref11"
+     },
+     "Hodge, R. (2017). ",
+     [
+      "span",
+      {},
+      "Social Semiotics for a Complex Worl: Analyzing Language and Social Meaning"
+     ],
+     " [Semiótica social para un mundo complejo: analizar el lenguaje y el significado social]. Polity Press."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_1604398003_ref12"
+     },
+     "Iacub, R. (2010). El envejecimiento desde la identidad narrativa. ",
+     [
+      "span",
+      {},
+      "VERTEX. Revista Argentina de Psiquiatria, XXI"
+     ],
+     ", 298-305. ",
+     [
+      "a",
+      {
+       "href": "https://revistavertex.com.ar/ojs/index.php/vertex/index"
+      },
+      "https://revistavertex.com.ar/ojs/index.php/vertex/index"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_1604398003_ref13"
+     },
+     "Iacub, R. (2015) [2011]. ",
+     [
+      "span",
+      {},
+      "Identidad y envejecimiento"
+     ],
+     ". Paidós."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_1604398003_ref14"
+     },
+     "Iacub, R. (14 de junio de 2019). El derecho a una vejez digna. ",
+     [
+      "span",
+      {},
+      "Red latinoamericana de gerontología"
+     ],
+     [
+      "a",
+      {
+       "href": "https://www.gerontologia.org/portal/information/showInformation.php?idinfo=4295"
+      },
+      "https://www.gerontologia.org/portal/information/showInformation.php?idinfo=4295"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_1604398003_ref15"
+     },
+     "Instituto Nacional de Derechos Humanos\n(2018). ",
+     [
+      "span",
+      {},
+      "Situación de los Derechos Humanos \n\nen Chile 2018. Informe anual"
+     ],
+     ". Instituto Nacional de Derechos Humanos. ",
+     [
+      "a",
+      {
+       "href": "https://bibliotecadigital.indh.cl/server/api/core/bitstreams/c70220b7-99ae-439f-9025-125bbbc87b1b/content"
+      },
+      "https://bibliotecadigital.indh.cl/server/api/core/bitstreams/c70220b7-99ae-439f-9025-125bbbc87b1b/content"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_1604398003_ref17"
+     },
+     "Instituto Nacional de Estadísticas (INE) (2019). ",
+     [
+      "span",
+      {},
+      "Estimaciones y proyecciones de la población de Chile 2002-2035. Totales regionales, población urbana y rural"
+     ],
+     ". Instituto Nacional de Estadísticas. ",
+     [
+      "a",
+      {
+       "href": "https://www.ine.cl/docs/default-source/proyecciones-de-poblacion/publicaciones-y-anuarios/base-2017/ine_estimaciones-y-proyecciones-2002-2035_base-2017_reg_%C3%A1rea_s%C3%ADntesis.pdf?sfvrsn=aaeb88e7_5"
+      },
+      "https://www.ine.cl/docs/default-source/proyecciones-de-poblacion/publicaciones-y-anuarios/base-2017/ine_estimaciones-y-proyecciones-2002-2035_base-2017_reg_%C3%A1rea_s%C3%ADntesis.pdf?sfvrsn=aaeb88e7_5"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_1604398003_ref18"
+     },
+     "Jáuregui, A. P., Lazarte, D. C. y Lazarte, L. G. (2018). Características de red de apoyo social, pérdidas y generación de nuevos vínculos en adultos mayores que viven en residencias y en hogares particulares (Tesis de grado). ",
+     [
+      "a",
+      {
+       "href": "http://rpsico.mdp.edu.ar/handle/123456789/695"
+      },
+      "http://rpsico.mdp.edu.ar/handle/123456789/695"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_1604398003_ref19"
+     },
+     "Lamas, M. (2015). Introducción. En M. Lamas (Ed.), ",
+     [
+      "span",
+      {},
+      "La construcción social de la diferencia sexual"
+     ],
+     ", Vol. 1 (pp. 111-140). Bonilla Artigas Editores."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_1604398003_ref20"
+     },
+     "Pinazo-Hernadis, S. (2013). Infantilización en los cuidados a las personas mayores en el contexto residencial. ",
+     [
+      "span",
+      {},
+      "Sociedad y Utopía, 41"
+     ],
+     ", 252-282. ",
+     [
+      "a",
+      {
+       "href": "https://roderic.uv.es/handle/10550/36786"
+      },
+      "https://roderic.uv.es/handle/10550/36786"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_1604398003_ref21"
+     },
+     "Roqué, M. (2019). Políticas públicas en la vejez con enfoque de género. En Red trandisciplinaria sobre envejecimiento (Ed.), ",
+     [
+      "span",
+      {},
+      "Género y políticas públicas: una mirada necesaria de la vejez"
+     ],
+     " (pp. 15-26). RedesTD y Universidad de Chile."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_1604398003_ref22"
+     },
+     "Salvarezza, L. (1994). Vejez, medicina y prejuicios. ",
+     [
+      "span",
+      {},
+      "Área 3. Cuadernos de temas grupales e institucionales, 1"
+     ],
+     ", 1-13. ",
+     [
+      "a",
+      {
+       "href": "http://www.area3.org.es/sp/item/255/Vejez%20medicina%20y%20prejuicios.%20Leopoldo%20Salvarezza"
+      },
+      "http://www.area3.org.es/sp/item/255/Vejez%20medicina%20y%20prejuicios.%20Leopoldo%20Salvarezza"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_1604398003_ref23"
+     },
+     "Scavino Solari, S. y Aguirre Cuns, R. (2016). Cuidar en la vejez: desigualdades de género en Uruguay. ",
+     [
+      "span",
+      {},
+      "Papeles del CEIC, 150"
+     ],
+     ", 2-41. ",
+     [
+      "a",
+      {
+       "href": "http://dx.doi.org/10.1387/pceic.15449"
+      },
+      "http://dx.doi.org/10.1387/pceic.15449"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_1604398003_ref24"
+     },
+     "Servicio Nacional del Adulto Mayor (SENAMA) (2017). ",
+     [
+      "span",
+      {},
+      "Condiciones de vida de las personas mayores al interior de los Establecimientos de Larga Estadía para Adultos Mayores de SENAMA"
+     ],
+     ". Ediciones Servicio Nacional del Adulto Mayor."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_1604398003_ref25"
+     },
+     "Vivero Marín, C. (2015). El cuerpo viejo femenino: una reflexión. ",
+     [
+      "span",
+      {},
+      "Géneros, 2"
+     ],
+     "(16), 59-75. ",
+     [
+      "a",
+      {
+       "href": "http://bvirtual.ucol.mx/consultaxcategoria.php?categoria=1&id=7542"
+      },
+      "http://bvirtual.ucol.mx/consultaxcategoria.php?categoria=1&id=7542"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_1604398003_ref26"
+     },
+     "Wittig, M. (1992). ",
+     [
+      "span",
+      {},
+      "El pensamiento heterosexual y otros ensayos"
+     ],
+     ". Egales."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_1604398003_ref27"
+     },
+     "Zamora Monge, G. (2010). Expectativas de cuidados en la vejez y comportamientos de salud en procesos de envejecimiento no normativos (Tesis de maestría). Universidad Pública de Navarra, España. ",
+     [
+      "a",
+      {
+       "href": "https://academica-e.unavarra.es/handle/2454/5263"
+      },
+      "https://academica-e.unavarra.es/handle/2454/5263"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Fuentes"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_1604398003_ref28"
+     },
+     "Alberdi, M. (2020). ",
+     [
+      "span",
+      {},
+      "El agente topo\n"
+     ],
+     "[Documental]. Netflix."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_1604398003_ref29"
+     },
+     "Flores, S. (24 de abril de 2021). Sonia ‘el\nblanco’ murió durante la pandemia: 7 cosas que quizás no sabías de ‘El Agente\nTopo’. CNN Chile. ",
+     [
+      "a",
+      {
+       "href": "https://www.cnnchile.com/cultura/7-cosas-quizas-no-sabias-el-agente-topo_20210424/"
+      },
+      "https://www.cnnchile.com/cultura/7-cosas-quizas-no-sabias-el-agente-topo_20210424/"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Notas"
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-fn1"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "1"
+     ],
+     " El informe de la Defensoría del Público de Servicios de Comunicación Audiovisual (",
+     [
+      "a",
+      {
+       "href": "https://defensadelpublico.gob.ar/"
+      },
+      "https://defensadelpublico.gob.ar"
+     ],
+     ") sobre la representación de personas mayores en los noticieros de la Ciudad Autónoma de Buenos Aires, Argentina, arroja que durante 2020 las noticias referidas a esa población alcanzó un 2,5 % en el total de noticias analizadas, superando por más de un punto los monitoreos anteriores e, incluso, el de 2021."
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-fn2"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "2"
+     ],
+     " Netflix es la plataforma que lo reproduce y la productora es Micromundos Producciones."
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-fn3"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "3"
+     ],
+     " El término cis refiere a aquellas personas cuya autopercepción de género coincide con el género asignado al nacer."
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-fn4"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "4"
+     ],
+     " Maite Alberdi (1983) es una documentalista chilena reconocida por ser una autora de mirada sensible. Fue premiada en distintas ocasiones por los documentales ",
+     [
+      "span",
+      {},
+      "La once"
+     ],
+     " (2014) y ",
+     [
+      "span",
+      {},
+      "Los niños"
+     ],
+     " (2016)."
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-fn5"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "5"
+     ],
+     " En una entrevista con el periódico chileno ",
+     [
+      "span",
+      {},
+      "La tercera"
+     ],
+     ", Alberdi contó que si bien fueron pedidos los permisos de imagen a las personas mayores o a sus tutores, ni las autoridades ni lxs residentes sabían de la presencia de Sergio como espía, sino que creían que era un residente más. Ese dato fue revelado al término de la grabación."
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-fn6"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "6"
+     ],
+     " Este principio refiere a la capacidad de agencia de las personas, al libre albedrío (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/160/1604398003/html/index.html#redalyc_1604398003_ref3"
+      },
+      "Blanco, 2011"
+     ],
+     ")."
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-fn7"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "7"
+     ],
+     " Este principio refiere al momento en que sucede un evento en el curso de vida de una persona. En palabras de Mercedes ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/160/1604398003/html/index.html#redalyc_1604398003_ref3"
+      },
+      "Blanco (2011)"
+     ],
+     ", «un mismo acontecimiento (por ejemplo, la muerte de los padres) repercutirá de manera muy diferente en la vida de un individuo dependiendo de la edad (y de las circunstancias) que tenga al ocurrir dicho suceso. Además, el momento en el que se presentan las transiciones puede tener consecuencias a largo plazo por los efectos que cause tanto en las propias transiciones subsecuentes como en las de otras personas. […] Así, este principio postula que las repercusiones de una transición o una sucesión de transiciones en el desarrollo de una persona son contingentes y dependen de en qué momento de su vida ocurren» (p. 14)."
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-fn8"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "8"
+     ],
+     " Entendida como identidad política en los términos que lesbianas, travestis y maricas sudamericanas la han definido."
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-fn9"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "9"
+     ],
+     " Durante la realización de este artículo la página del SENAMA funcionaba sin inconvenientes (www.senama.gob.cl).\nSin embargo, hacia el final del proceso de revisión se encontraba dada de baja,\nsin\nque pudiera establecerse si de forma permanente o por actualizaciones."
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-fn10"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "10"
+     ],
+     " Ricardo Iacub (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/160/1604398003/html/index.html#redalyc_1604398003_ref14"
+      },
+      "14/06/2019"
+     ],
+     ") sostiene que la violencia cultural en la vejez «es la resultante de una mirada negativa que sostiene nuestra sociedad en base a consideraciones muchas veces prejuiciosas y estereotipadas que la reducen a una etapa carente de valores y de sentidos, y la presentan como una mera cuestión de deterioro biológico. De esta manera el “viejismo” expresa ese conjunto de lecturas que se sostienen en una sociedad limitando expresiones, sentimientos, actitudes y hasta derechos, por el simple factor de ser mayores. Muchas de estas creencias dan lugar a prácticas sociales que suceden con los viejos y que en otros grupo humano resultarían escandalosas» (párr. 6)."
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-fn11"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "11"
+     ],
+     " Sonia falleció durante la pandemia del coronavirus (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/160/1604398003/html/index.html#redalyc_1604398003_ref29"
+      },
+      "Flores, 24/04/2021"
+     ],
+     ")."
+    ],
+    "\n"
+   ],
+   "\n"
+  ],
+  "\n",
+  [
+   "span",
+   {
+    "id": "t-creditos"
+   },
+   "\n",
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-logo-izquierda"
+    },
+    "\n",
+    [
+     "figura",
+     {}
+    ]
+   ],
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-mensaje"
+    },
+    "Modelo de publicación sin fines de lucro para conservar la naturaleza académica y abierta de la comunicación científica",
+    [
+     "br",
+     {}
+    ],
+    "HTML generado a partir de XML-JATS4R"
+   ],
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-logo-derecha"
+    },
+    "\n",
+    [
+     "figura",
+     {}
+    ]
+   ],
+   "\n",
+   "\n"
+  ],
+  "\n\n\n"
+ ]
+};

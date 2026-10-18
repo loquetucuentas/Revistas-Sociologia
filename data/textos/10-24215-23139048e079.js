@@ -1,0 +1,4338 @@
+// Copia de textos/10-24215-23139048e079.json para abrir la aplicación sin servidor.
+(window.DATOS_REVISTAS = window.DATOS_REVISTAS || {})["textos/10-24215-23139048e079.json"] = {
+ "version": 1,
+ "recogido": "2026-10-18T11:48:30+00:00",
+ "doi": "10.24215/23139048e079",
+ "titulo": "Mediatización de las intersecciones sobre religión y pobreza en la prensa escrita de la Argentina reciente",
+ "revista": "2313-9048",
+ "numero": "v17-n17-2023",
+ "licencia": {
+  "codigo": "by-nc-sa",
+  "nombre": "CC BY-NC-SA 4.0",
+  "nombre_completo": "Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional",
+  "url": "https://creativecommons.org/licenses/by-nc-sa/4.0",
+  "url_legal": "https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.es"
+ },
+ "fuente": {
+  "url": "https://perio.unlp.edu.ar/ojs/index.php/cps/article/download/7966/7116/34465?inline=1",
+  "formato": "HTML",
+  "plataforma": "ojs-galerada",
+  "pagina": "https://perio.unlp.edu.ar/ojs/index.php/cps/article/view/7966"
+ },
+ "autores_cita": [
+  {
+   "apellidos": "Diéguez",
+   "nombre_pila": "Facundo",
+   "nombre": null
+  }
+ ],
+ "avisos_derechos": [
+  "Derechos de autor 2023 Cuadernos de H ideas",
+  "Licencia Derechos de autor 2023 Cuadernos de H ideas Esta obra está bajo una licencia internacional Creative Commons Atribución-NoComercial-CompartirIgual 4.0. La aceptación de un original por parte de la revista implica la cesión no exclusiva de los derechos patrimoniales de los/as autores/as en favor del editor, quien permite la reutilización, luego de su edición (postprint), bajo una Licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0) Acorde a estos términos, el material se puede compartir (copiar y redistribuir en cualquier medio o formato) y adaptar (remezclar, transformar y crear a partir del material otra obra), siempre que a) se cite la autoría y la fuente original de su publicación (revista y URL de la obra), b) no se use para fines comerciales y c) se mantengan los mismos términos de la licencia. La cesión de derechos no exclusivos implica que luego de su edición (postprint) en Cuadernos de H ideas las/os autoras/es pueden publicar su trabajo en cualquier idioma, medio y formato; en tales casos, se solicita que se consigne que el material fue publicado originalmente en esta revista. Tal cesión supone, también, la autorización de los/as autores/as para que el trabajo sea cosechado por SEDICI, el repositorio institucional de la Universidad Nacional de La Plata, y sea difundido en las bases de datos que el equipo editorial considere adecuadas para incrementar la visibilidad de la publicación y de sus autores/as. Asimismo, la revista incentiva a las/os autoras/es para que luego de su publicación en Cuadernos de H ideas depositen sus producciones en otros repositorios institucionales y temáticos, bajo el principio de que ofrecer a la sociedad la producción científica y académica sin restricciones contribuye a un mayor intercambio del conocimiento global."
+ ],
+ "idioma_principal": "es",
+ "indice": [],
+ "vueltas": {},
+ "contenido": [
+  [
+   "span",
+   {
+    "id": "t-MathJax_Message"
+   }
+  ],
+  "\n",
+  [
+   "span",
+   {
+    "id": "t-visor-cabecera"
+   },
+   "\n",
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-logo-institucion"
+    },
+    "\n",
+    [
+     "figura",
+     {}
+    ]
+   ],
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-logo-revista"
+    },
+    "\n",
+    [
+     "figura",
+     {}
+    ]
+   ],
+   "\n",
+   "\n"
+  ],
+  "\n",
+  [
+   "span",
+   {
+    "id": "t-articulo"
+   },
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-front"
+    },
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-articulo-categoria"
+     },
+     "\n",
+     [
+      "p",
+      {},
+      "Artículos"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-articulo-meta"
+     },
+     "\n",
+     [
+      "p",
+      {},
+      "Mediatización de las intersecciones sobre religión y pobreza en la prensa escrita de la Argentina reciente. De las Mesas del Diálogo Argentino a la Asignación Universal por Hijo, 2001-2010"
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "lang": "en"
+      },
+      "Mediatization\nof the Intersections between Religion and Poverty in the Written Press of\nRecent Argentina. From the Mesas del Diálogo Argentino to the Asignación Universal por Hijo,\n2001-2010"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-articulo-acerca"
+     },
+     "\n",
+     [
+      "span",
+      {
+       "id": "t-ficha-general"
+      },
+      "\n",
+      [
+       "span",
+       {
+        "id": "t-autores-articulo"
+       },
+       "\n",
+       "\n",
+       "\n",
+       [
+        "a",
+        {
+         "href": "https://orcid.org/0000-0001-5431-5508"
+        },
+        [
+         "figura",
+         {}
+        ]
+       ],
+       "  ",
+       [
+        "span",
+        {},
+        "Facundo"
+       ],
+       " ",
+       [
+        "span",
+        {},
+        "Diéguez"
+       ],
+       " ",
+       [
+        "span",
+        {}
+       ],
+       [
+        "span",
+        {},
+        " facundodieguez@gmail.com"
+       ],
+       "\n",
+       "\n",
+       "\n",
+       [
+        "span",
+        {},
+        "Universidad Nacional de La Plata"
+       ],
+       ", ",
+       [
+        "span",
+        {},
+        "Argentina"
+       ],
+       "\n",
+       "\n",
+       "\n",
+       [
+        "span",
+        {},
+        "Consejo Nacional de Investigaciones Científicas y Técnicas\n(CONICET)"
+       ],
+       ", ",
+       [
+        "span",
+        {},
+        "Argentina"
+       ],
+       "\n",
+       "\n",
+       "\n"
+      ],
+      "\n",
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "Cuadernos de H ideas"
+       ],
+       "\n"
+      ],
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "Universidad Nacional de La Plata, Argentina"
+       ],
+       "\n"
+      ],
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "ISSN: "
+       ],
+       "2313-9048"
+      ],
+      "\n",
+      [
+       "p",
+       {}
+      ],
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "Periodicidad: "
+       ],
+       "Frecuencia continua"
+      ],
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "vol.  17, "
+       ],
+       "núm.  17, ",
+       [
+        "span",
+        {
+         "id": "t-elocation-id"
+        },
+        "e079, "
+       ],
+       [
+        "span",
+        {},
+        "2023"
+       ],
+       "\n"
+      ],
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       "cuadernosdehideas@perio.unlp.edu.ar",
+       "\n"
+      ],
+      "\n",
+      "\n",
+      [
+       "span",
+       {
+        "id": "t-articulo-product"
+       }
+      ],
+      "\n",
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "Recepción: "
+       ],
+       " 08 Junio  2023"
+      ],
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "Aprobación: "
+       ],
+       " 29 Septiembre  2023"
+      ],
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "Publicación: "
+       ],
+       " 26 Octubre  2023"
+      ],
+      "\n",
+      [
+       "br",
+       {}
+      ],
+      "\n",
+      [
+       "br",
+       {}
+      ],
+      "\n",
+      "\n",
+      "\n",
+      [
+       "span",
+       {},
+       "URL: "
+      ],
+      [
+       "a",
+       {
+        "href": "http://portal.amelica.org/ameli/journal/31/313799008/"
+       },
+       "http://portal.amelica.org/ameli/journal/31/313799008/"
+      ],
+      "\n",
+      "\n",
+      "\n",
+      [
+       "span",
+       {},
+       "DOI: "
+      ],
+      [
+       "a",
+       {
+        "href": "https://doi.org/10.24215/23139048e079"
+       },
+       "https://doi.org/10.24215/23139048e079"
+      ],
+      "\n",
+      "\n",
+      "\n",
+      [
+       "p",
+       {}
+      ],
+      "\n",
+      "\n",
+      "\n",
+      "\n",
+      [
+       "a",
+       {
+        "href": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+       },
+       [
+        "figura",
+        {}
+       ],
+       [
+        "br",
+        {}
+       ],
+       "\n"
+      ],
+      "Esta obra está bajo una ",
+      [
+       "a",
+       {
+        "href": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+       },
+       "Licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional."
+      ],
+      "\n",
+      "\n",
+      "\n",
+      [
+       "p",
+       {}
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "\n",
+      [
+       "span",
+       {},
+       "Resumen:\n\t\t\t\t\t\t\t                           "
+      ],
+      [
+       "span",
+       {},
+       "En este artículo nos proponemos reflexionar, a partir de un enfoque sociosemiótico, acerca de la mediatización de las informaciones noticiosas sobre religión, pobreza y política en los principales medios de comunicación de prensa escrita argentinos (lanacion.com, pagina12.com, clarin.com) en sus sitios web, entre 2001 y 2010. En ese contexto mediático destacó la visibilidad pública del cardenal católico y arzobispo de Buenos Aires, Jorge Bergoglio, electo en 2013 como Papa Francisco. Los medios de comunicación indagados enfatizaron su rol de liderazgo en la inicial Mesa del Diálogo, a partir de la crisis argentina de 2001."
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "\n",
+      [
+       "span",
+       {},
+       "Palabras clave: "
+      ],
+      "mediatizaciones, asistencia social, religiones, Papa Francisco.\n\t\t                         "
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "lang": "en"
+      },
+      "\n",
+      [
+       "span",
+       {},
+       "Abstract:\n\t\t\t\t\t\t                           "
+      ],
+      [
+       "span",
+       {},
+       "In this article we propose to reflect on the media coverage of the news information about religion, poverty and politics by the main Argentine written press (lanacion.com, pagina12.com, clarin.com) on their websites, between 2001 and 2010. In this media context, the public visibility of the Catholic cardinal and archbishop of Buenos Aires, Jorge Bergoglio, elected in 2013 as Pope Francis, stood out. The media investigated highlighted his leadership role in the initial Mesa del Diálogo, starting with the 2001 argentine crisis."
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "\n",
+      [
+       "span",
+       {},
+       "Keywords: "
+      ],
+      "mediatizations, social assistance, religions, Francis Pope.\n                                "
+     ],
+     "\n"
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-articulo-body"
+    },
+    "\n",
+    [
+     "p",
+     {},
+     "Introducción.\nReligiones, pobrezas y políticas en sus visibilidades mediáticas"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "El objeto de estudio de este artículo aborda desde un punto de vista socio-semiótico, con métodos cualitativos de interpretación y análisis discursivo, la mediatización de las relaciones entre política y religión en intersección con ciertas problemáticas referidas al tratamiento noticioso de la pobreza en la Argentina posterior a la crisis de 2001."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "La recurrencia de noticias sobre esta temática en los principales medios de prensa escrita argentinos indica los diversos aspectos desde la que es construida por la acción de sus mediatizaciones: el aspecto del clientelismo, de las estadísticas acerca de la pobreza, de las exhortaciones de la Iglesia Católica, de la ayuda social de organizaciones religiosas y de la asistencia social estatal."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Las informaciones periodísticas de actualidad que tratan fenómenos de religiosidad, y que la sociedad reconoce y denomina noticias sobre religión, constituyen parte de los insumos regulares de los periódicos impresos y digitales argentinos. A la hora de construir las noticias, los acontecimientos serán reconstruidos por sus mediatizaciones,",
+     [
+      "sup",
+      {},
+      [
+       "a",
+       {
+        "href": "http://portal.amelica.org/ameli/journal/31/313799008/html/index.html#fn1"
+       },
+       [
+        "sup",
+        {},
+        "1"
+       ]
+      ]
+     ],
+     " las de las redes sociodigitales y las del sistema de los medios de comunicación (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799008/html/index.html#redalyc_313799008_ref28"
+      },
+      "Luhmann, 2000"
+     ],
+     ").",
+     [
+      "sup",
+      {},
+      [
+       "a",
+       {
+        "href": "http://portal.amelica.org/ameli/journal/31/313799008/html/index.html#fn2"
+       },
+       [
+        "sup",
+        {},
+        "2"
+       ]
+      ]
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "En el caso de los fenómenos relativos a la religiosidad, luego de los cuestionamientos a las teorías de la secularización (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799008/html/index.html#redalyc_313799008_ref24"
+      },
+      "Hervieu-Léger, 2005"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799008/html/index.html#redalyc_313799008_ref12"
+      },
+      "Casanova, 1994"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799008/html/index.html#redalyc_313799008_ref14"
+      },
+      "Cipriani, 2011"
+     ],
+     ";",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799008/html/index.html#redalyc_313799008_ref49"
+      },
+      " Mallimaci, 1993"
+     ],
+     ", ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799008/html/index.html#redalyc_313799008_ref52"
+      },
+      "2015"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799008/html/index.html#redalyc_313799008_ref4"
+      },
+      "Ameigeiras, 2008"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799008/html/index.html#redalyc_313799008_ref21"
+      },
+      "Esquivel, 2008"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799008/html/index.html#redalyc_313799008_ref8"
+      },
+      "Blancarte, 2008"
+     ],
+     "), podemos decir que también en los espacios de los medios de prensa escrita argentinos insiste con vitalidad una parte del discurso público religioso; es decir, aquel que hace a la construcción enunciativa de informaciones periodísticas de actualidad religiosa (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799008/html/index.html#redalyc_313799008_ref19"
+      },
+      "Diéguez, 2018"
+     ],
+     "). Al mismo tiempo, esas informaciones presentan una visibilidad pública en aumento, con un correlato en la consideración creciente de la religión como actor de peso institucional en nuestra sociedad, y no así en la regulación de la moral y la vida privada."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Si bien en los últimos años, en particular desde 2001, la presencia pública y mediática de las manifestaciones de conservadurismo religioso lejos de extinguirse han crecido –al menos en el espacio de los medios de comunicación y en los de las redes sociodigitales (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799008/html/index.html#redalyc_313799008_ref18"
+      },
+      "Diéguez, 2015"
+     ],
+     ")–, el discurso y las instituciones religiosas no guardan ya posibilidades de imponer una “verdad absoluta” sobre la moral, las costumbres, el dogma, ni de regular la mayor parte de las prácticas en las sociedades contemporáneas (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799008/html/index.html#redalyc_313799008_ref12"
+      },
+      "Casanova, 1994"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799008/html/index.html#redalyc_313799008_ref24"
+      },
+      "Hervieu-Léger, 2005"
+     ],
+     ")."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Con matices y diferentes acentuaciones, las religiones siguen formando parte de la vida pública social como uno de los sectores presentes en las luchas por el sentido y por el poder (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799008/html/index.html#redalyc_313799008_ref30"
+      },
+      "Mallimaci y otros, 2019"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799008/html/index.html#redalyc_313799008_ref50"
+      },
+      "Mallimaci, 2008"
+     ],
+     ", ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799008/html/index.html#redalyc_313799008_ref51"
+      },
+      "2013"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799008/html/index.html#redalyc_313799008_ref21"
+      },
+      "Esquivel, 2008"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799008/html/index.html#redalyc_313799008_ref22"
+      },
+      "Esquivel & Vaggione 2015"
+     ],
+     ")."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Focalizaremos algunas noticias del período 2001-2010, en particular, en el apartado que trata sobre el “escándalo de la pobreza” analizamos como ",
+     [
+      "span",
+      {},
+      "Clarín"
+     ],
+     " y Clarin.com actúa de manera sociopolítica en las estrategias de construcción y visibilidad de acontecimientos públicos y, en general, como ",
+     [
+      "span",
+      {},
+      "diario de referencia dominante"
+     ],
+     ".",
+     [
+      "sup",
+      {},
+      [
+       "a",
+       {
+        "href": "http://portal.amelica.org/ameli/journal/31/313799008/html/index.html#fn3"
+       },
+       [
+        "sup",
+        {},
+        "3"
+       ]
+      ]
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "En los tres medios de comunicación indagados, centraremos la atención en aquellas noticias que van desde el lanzamiento de los Planes Jefes y Jefas de Hogar para paliar los efectos de la crisis de 2001, hasta los cambios incorporados en las políticas sociales que culminan en la implementación de la Asignación Universal por Hijo, para observar las mediatizaciones de las relaciones entre religión y política."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Si bien tuvimos en cuenta el papel de Cáritas en la mediatización de la crisis de 2001 y en los años posteriores, profundizaremos este aspecto en otro artículo."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "2001: el lugar crucial de lo religioso en la crisis\nargentina"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "La crisis económica, social e institucional que provocó la caída del gobierno de Fernando de la Rúa hizo que la Argentina tuviera cinco presidentes en una semana y 39 muertos por la represión de la protesta social del 19 y 20 de diciembre de 2001. También desencadenó una caótica salida del heredado régimen cambiario de la Convertibilidad, una de las causas principales de la crisis argentina de 2001."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "El mecanismo de la convertibilidad fue ideado por el gobierno de Carlos Menem y sostenido durante toda la década de 1990. Por ley, la moneda nacional equivaldría a un dólar. Con esta sobrevaluación del peso argentino se intentaba controlar la inflación, que desde la década de 1980 tenía altos índices con picos de hiperinflación. Las tensiones y diferencias cambiarias durante la década de 1990 las cubriría el Banco Central con sus reservas."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Al mismo tiempo, el Estado argentino inició una desregulación de los mercados laborales, una privatización de los bienes nacionales, financió el gasto público y las corridas cambiarias sobre el peso argentino con deuda externa de organismos internacionales como el Fondo Monetario Internacional y el Banco Mundial, entre otros. Las vulnerabilidades de una economía prácticamente dolarizada, endeudada, con alto desempleo y recesión, que fugaba el capital fuera del país, estallaron en 2001."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "En ese contexto, el Episcopado católico argentino asumió un rol protagónico en la inicial Mesa del Diálogo Argentino, en febrero de 2002.",
+     [
+      "sup",
+      {},
+      [
+       "a",
+       {
+        "href": "http://portal.amelica.org/ameli/journal/31/313799008/html/index.html#fn4"
+       },
+       [
+        "sup",
+        {},
+        "4"
+       ]
+      ]
+     ],
+     " Los principales referentes de la institución católica argentina fueron convocados por el poder político para la mediación pública de la crisis de 2001, sin realizar ningún tipo de autocrítica por su propia participación institucional, ni como actor social ni como actor político en esa crisis.",
+     [
+      "sup",
+      {},
+      [
+       "a",
+       {
+        "href": "http://portal.amelica.org/ameli/journal/31/313799008/html/index.html#fn5"
+       },
+       [
+        "sup",
+        {},
+        "5"
+       ]
+      ]
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Como otras veces en el pasado, los medios de comunicación argentinos refractaron esta situación con el prisma que ya le habían colocado los líderes católicos y los dirigentes peronistas: el acuerdo en la conformación de un gobierno provisorio para estabilizar la crisis y convocar a elecciones presidenciales."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "A partir de ese contexto inicial, entre 2001 y 2010 las noticias sobre religión relacionadas con la asistencia social y la pobreza reunieron una diversidad de contenidos temáticos específicos de los que trataremos de señalar sus recurrencias y diferencias en los medios de comunicación de prensa escrita argentina indagados."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Al comienzo de la década, las noticias sobre religión trataron sobre la participación pública de la Iglesia Católica en la Mesa del Diálogo Argentino. Junto con el Programa de las Naciones Unidas para el Desarrollo (PNUD) conformaron “una instancia en la cual ninguna otra institución o grupo religioso había sido convocado e invitado a participar” (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799008/html/index.html#redalyc_313799008_ref4"
+      },
+      "Ameigeiras, 2008"
+     ],
+     ", p. 201)."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Esa convocatoria legitimadora por parte del gobierno de transición de Eduardo Duhalde en 2002 fue motivo de críticas desde otros sectores, dado que reprodujo la ilusión de hegemonía y monopolio del catolicismo al presentar a este culto como “reserva moral” del país y al opacar la diversidad existente en la Argentina en el terreno espiritual:"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "p",
+     {},
+     "Un aspecto sobre el que se generaron cuestionamientos en relación a la participación de la Iglesia Católica en la Mesa [fueron los] referidos en particular a su participación de carácter “especial”, en vez de hacerlo como una integrante más del diálogo, que debía asumir sus responsabilidades en la crisis como las otras instituciones y, sobre todo, que debía estar dispuesta a una reflexión crítica de ella misma en el contexto del país (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799008/html/index.html#redalyc_313799008_ref4"
+      },
+      "Ameigeiras, 2008"
+     ],
+     ", p. 216)."
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "La etapa inicial de la Mesa culminó con críticas de los dirigentes de la Iglesia Católica argentina a los sectores políticos que no facilitaban el acuerdo y privilegiaban los reclamos sectoriales. De la inicial Mesa del Diálogo se había pasado a una convocatoria social amplia y, sin embargo, el gobierno se retiró de esa Mesa del Diálogo Ampliada:"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "p",
+     {},
+     " Se inaugura entonces la etapa denominada “Mesa del Diálogo Ampliada”. Ya no es la conformada por la Iglesia Católica y el PNUD más el Gobierno, sino una Mesa conformada por representantes de los credos fundamentales (de las comunidades judía, cristiana evangélica, islámica y católica), a los que se sumaron los de distintas instituciones y organizaciones de la sociedad civil: desde la Central de los Trabajadores Argentinos (CTA) y la Asociación Cristiana de Dirigentes Empresariales (ACDE), pasando por la Asociación Mutual Israelita Argentina (AMIA), la Delegación de Asociaciones Israelitas Argentina (DAIA) y Poder Ciudadano, hasta Conciencia, el Foro del Sector Social o la Red Solidaria. Un ámbito donde se manifiesta un amplio espectro de instituciones que intenta convertirse en espacio cívico articulador de consensos, constituido especialmente desde la sociedad civil pero ya sin una presencia directa del gobierno (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799008/html/index.html#redalyc_313799008_ref4"
+      },
+      "Ameigeiras, 2008"
+     ],
+     ", p. 213)."
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "La salida de los funcionarios del gobierno provisorio que abandonaron esta Mesa ampliada reforzaba aún más el lugar de privilegio que se le había dado a algunos líderes del Episcopado católico argentino, en particular al arzobispo de Buenos Aires, Jorge Bergoglio, actual papa Francisco. Sin embargo, los medios de comunicación no presentaban este aspecto de manera crítica, sino como etapas en las que se iban publicando documentos y declaraciones, con la aceptación del reclamo de ampliación de la Mesa a otros sectores."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Mientras tanto, en los años 2002, 2003, 2004 hubo una rápida e incipiente reactivación de los sectores productivos luego de la devaluación de la moneda nacional, tras abandonar el esquema cambiario de la Convertibilidad. El 25 de mayo de 2003 finalizó el período de transición y de gobiernos provisorios cuando asumió como presidente Néstor Kirchner, elegido por el voto popular en un ballotage del que bajó su candidatura el ex presidente, Carlos Menem. En ese momento Néstor Kirchner era poco conocido y gobernaba una de las provincias patagónicas más australes del país, Santa Cruz. Cristina Fernández de Kirchner, en cambio, había tenido una mayor visibilidad mediática por sus funciones como senadora nacional."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Otras noticias recurrentes en el período indagado fueron las que referían a colectas anuales, como la Colecta Más por Menos que realiza Cáritas,  las procesiones católicas anuales a la Basílica de la Virgen de Luján y a la iglesia de San Cayetano en Liniers, donde los fieles acuden a pedir por pan y trabajo cada año. El manejo de fondos y subsidios estatales, la presencia de manifestaciones religiosas en los barrios populares, el reclamo y la implementación en 2009 de la Asignación Universal por Hijo, fueron algunas otras temáticas mediatizadas."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Con fuerte anclaje en la provincia de Buenos Aires y en la Ciudad Autónoma de Buenos Aires (CABA), la mediatización construida por estos medios de comunicación describía un paisaje de intercambios y circulación entre CABA y el Conurbano. Un conurbano necesitado y dependiente, donde se concentra la mayor parte de los barrios populares y carenciados, frente a la autonomía y la riqueza de la ciudad de Buenos Aires, capital política, económica y administrativa del país.",
+     [
+      "sup",
+      {},
+      [
+       "a",
+       {
+        "href": "http://portal.amelica.org/ameli/journal/31/313799008/html/index.html#fn6"
+       },
+       [
+        "sup",
+        {},
+        "6"
+       ]
+      ]
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "“El escándalo de la pobreza” y sus mediatizaciones:\ncronología de un anacronismo en Clarín y clarin.com"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Durante 2008, el segundo año del primer gobierno de Cristina Fernández de Kirchner, el Episcopado católico argentino, liderado por el entonces cardenal y arzobispo de Buenos Aires, Jorge Bergoglio, reclamó al gobierno nacional destinar un aumento de fondos para la ayuda social. En uno de los viajes de Bergoglio a Roma, el entonces papa Benedicto XVI (a quien luego sucediera el mismo Bergoglio como Francisco I) aludió a la pobreza."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "En coincidencia con el Episcopado, el diario ",
+     [
+      "span",
+      {},
+      "Clarín"
+     ],
+     " y su edición digital construyeron noticias donde la atribución de Benedicto XVI figuraba como parte de las declaraciones públicas en referencia a la pobreza en nuestro país, cuando en su contexto original fueron declaraciones generales acerca de la pobreza en el mundo:"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "span",
+     {
+      "id": "t-gf1"
+     },
+     "\n",
+     [
+      "figura",
+      {
+       "alt": "Clarin.com, 06/08/2009"
+      }
+     ],
+     [
+      "br",
+      {}
+     ],
+     "Imagen\n1",
+     [
+      "br",
+      {}
+     ],
+     "\n",
+     [
+      "span",
+      {},
+      "Clarin.com, 06/08/2009"
+     ],
+     "\n",
+     [
+      "br",
+      {}
+     ],
+     "\n",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Fuente: ",
+       [
+        "a",
+        {
+         "href": "https://www.clarin.com/ediciones-anteriores/papa-pidio-reducir-pais-escandalo-pobreza_0_SyNzHfKA6Ke.html"
+        },
+        "https://www.clarin.com/ediciones-anteriores/papa-pidio-reducir-pais-escandalo-pobreza_0_SyNzHfKA6Ke.html"
+       ]
+      ]
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "En el cuerpo del texto de esta última noticia se señala: “Por lo pronto, (Néstor) Kirchner",
+     [
+      "sup",
+      {},
+      [
+       "a",
+       {
+        "href": "http://portal.amelica.org/ameli/journal/31/313799008/html/index.html#fn7"
+       },
+       [
+        "sup",
+        {},
+        "7"
+       ]
+      ]
+     ],
+     " reafirmó que la pobreza ‘ronda el 22 ó 23 %’, contra el ‘casi 40 %’ que manejan los obispos en base a las mediciones que está procesando el Observatorio Social de la Universidad Católica”."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Estas cifras contradecían los índices oficiales del Indec y otras mediciones efectuadas:"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "span",
+     {
+      "id": "t-gf2"
+     },
+     "\n",
+     [
+      "figura",
+      {
+       "alt": "Clarin.com, 07/08/2009"
+      }
+     ],
+     [
+      "br",
+      {}
+     ],
+     "Imagen\n2",
+     [
+      "br",
+      {}
+     ],
+     "\n",
+     [
+      "span",
+      {},
+      "Clarin.com, 07/08/2009"
+     ],
+     "\n",
+     [
+      "br",
+      {}
+     ],
+     "\n",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Fuente: ",
+       [
+        "a",
+        {
+         "href": "https://www.clarin.com/ediciones-anteriores/papa-bergoglio-sostuvo-pobreza-escandalosa_0_BJGZXMtR6tg.html"
+        },
+        "https://www.clarin.com/ediciones-anteriores/papa-bergoglio-sostuvo-pobreza-escandalosa_0_BJGZXMtR6tg.html"
+       ]
+      ]
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "La observación de la cronología de las noticias demuestra que esas palabras acerca del “escándalo de la pobreza” eran una insistencia previa del Episcopado católico argentino; al menos desde 2008, Clarín y clarin.com ya las habían publicado como declaraciones del sumo pontífice. Así este medio de comunicación, en su edición impresa y en la digital, repetía otra vez una de sus estrategias mediáticas institucionales: la capacidad de autorrepresentarse en la construcción de la agenda temática de los medios nacionales como diario de referencia dominante. Incluso habían elegido publicar el mismo término “escándalo” con el que se presentaba la noticia, en una estrategia de visibilidad pública y de construcción lexical y temática compartida en las informaciones relativas al Episcopado católico argentino."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "El periodista de ",
+     [
+      "span",
+      {},
+      "Clarín"
+     ],
+     " y clarin.com especializado en noticias sobre religión, Sergio Rubín, encaraba esta información de otro modo:"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "span",
+     {
+      "id": "t-gf3"
+     },
+     "\n",
+     [
+      "figura",
+      {
+       "alt": "Clarin.com, 18/08/2009"
+      }
+     ],
+     [
+      "br",
+      {}
+     ],
+     "Imagen\n3",
+     [
+      "br",
+      {}
+     ],
+     "\n",
+     [
+      "span",
+      {},
+      "Clarin.com, 18/08/2009"
+     ],
+     "\n",
+     [
+      "br",
+      {}
+     ],
+     "\n",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Fuente: ",
+       [
+        "a",
+        {
+         "href": "https://www.clarin.com/ediciones-anteriores/pobreza-ronda-40-insiste-iglesia_0_BJbzyWFApYl.html"
+        },
+        "https://www.clarin.com/ediciones-anteriores/pobreza-ronda-40-insiste-iglesia_0_BJbzyWFApYl.html"
+       ]
+      ]
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Desde un primer momento, el periodista Rubín le otorga en su nota cierta voluntad política a la Iglesia Católica en las palabras “insiste”, “sigue firme en su propósito”. En el primer párrafo del texto decía:"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "p",
+     {},
+     "La Iglesia sigue firme en su propósito de convertir al combate contra la pobreza en un tema central del Gobierno, la oposición y de todos los sectores de cara a la celebración del Bicentenario de la Argentina. […] Si bien no se anticipó cuál podría ser, no se descarta que consista en un proyecto de universalización del subsidio para los menores pobres, que miembros de la oposición vienen impulsando, pero que el Gobierno rechaza."
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "El reclamo del Episcopado argentino que estaba en discusión parecía apuntar al plan de asistencia social del gobierno que, después, se llamó Asignación Universal por Hijo, y que se implementó recién en octubre de 2009."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "En la nota firmada por el periodista Rubín se explica por qué el Episcopado católico argentino insistía en la visibilización mediática del tema de la pobreza, más allá de las discusiones por las cifras:"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "p",
+     {},
+     " Además, Oesterheld informó que el Episcopado decidió realizar en 2011 un Congreso sobre Doctrina Social para analizar el tema de la pobreza a la luz de las enseñanzas católicas. Y que, con vistas a ese encuentro, procurará ir creando un clima de preparación para que sea muy participativo y fructífero."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Es evidente que la Iglesia quiere mostrar que su preocupación por la pobreza no es coyuntural, además de asegurarse que –como lo dijo en un documento en 2008– figure en la agenda del Bicentenario (2010/2016). "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Por lo demás, Oesterheld aclaró que la Iglesia “no quiere entrar en una polémica sobre las cifras de la pobreza porque, sea cual fuere (el porcentaje), igual es escandalosa”. Pero subrayó que, sobre esa consideración, la posición de los obispos “es unánime”, en consonancia con lo dicho por el Papa con motivo de la [colecta] Más por Menos del Episcopado, que se hará en setiembre. Benedicto XVI había denunciado días atrás “el escándalo de la pobreza” en el país, lo que suscitó un gran debate y una reacción por parte de funcionarios del Gobierno. "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " “Lo importante es tomar como eje el documento de la Iglesia del año pasado, donde se alentaba al diálogo y encontrar cuatro o cinco políticas de Estado para combatir la pobreza”, dijo."
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "En esta última nota se hace patente la contradicción existente en afirmar que las declaraciones del Papa en 2009 precedieron a las preocupaciones de los obispos, cuando existía el documento del Episcopado argentino de 2008."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "La publicación de las declaraciones de la Iglesia Católica argentina y, en particular del cardenal Bergoglio, podían parecer una reafirmación y relocalización en nuestro contexto de lo que había dicho Benedicto XVI acerca de la pobreza en uno de sus mensajes papales, y varias veces los medios de comunicación lo presentaron así -al menos, por economía de la sintaxis periodística en sus titulares."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "En definitiva, al revisar el orden y las fechas de publicación de las noticias se puede observar que el Episcopado argentino ya había advertido sobre la pobreza en el documento de diciembre de 2008."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "span",
+     {
+      "id": "t-gf4"
+     },
+     "\n",
+     [
+      "figura",
+      {
+       "alt": "Clarin.com, 15/08/2009"
+      }
+     ],
+     [
+      "br",
+      {}
+     ],
+     "Imagen\n4",
+     [
+      "br",
+      {}
+     ],
+     "\n",
+     [
+      "span",
+      {},
+      "Clarin.com, 15/08/2009"
+     ],
+     "\n",
+     [
+      "br",
+      {}
+     ],
+     "\n",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Fuente: ",
+       [
+        "a",
+        {
+         "href": "https://www.clarin.com/ediciones-anteriores/iglesia-instalo-debate-puso-aprietos-oficialismo_0_B1cMNWY0Ttg.html"
+        },
+        "https://www.clarin.com/ediciones-anteriores/iglesia-instalo-debate-puso-aprietos-oficialismo_0_B1cMNWY0Ttg.html"
+       ]
+      ]
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "En el cuerpo del texto de esta última nota, el periodista Atilio Bleta hacía la cronología de lo ocurrido:"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "p",
+     {},
+     " Un Obispo influyente como monseñor José [Jorge] Pedro Casaretto advirtió el 19 de diciembre del año pasado que hay en el país un “recrudecimiento de la pobreza”, al que no se veía desde principios de 2007. Dijo también que estamos “en una situación de alerta y preocupación”.  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " El 14 de marzo de este año, el cardenal primado de la Argentina Jorge Bergoglio le entregó en Roma un documento al Papa que puso de relieve la preocupación por “el escándalo de la pobreza y la exclusión social”. "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Y Benedicto XVI, el jueves 7 de este mes, conmovió al Gobierno al llamar a “reducir el escándalo de la pobreza y la inequidad social”. Las palabras del Papa son casi las mismas del documento de Bergoglio y se conocieron el día en que la Iglesia lanzó la tradicional colecta “Más por Menos”, curiosa coincidencia que ayudó a instalar como prioritaria la discusión sobre el número de pobres."
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Luego del viaje del cardenal Bergoglio al Vaticano, en 2009, Benedicto XVI incluyó en uno de sus mensajes la referencia al “escándalo de la pobreza” y desde el Episcopado católico argentino, en sintonía con lo publicado por ",
+     [
+      "span",
+      {},
+      "Clarín"
+     ],
+     " y Clarin.com, insistieron en que esas declaraciones referían a la Argentina."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Incluso, ",
+     [
+      "span",
+      {},
+      "Clarín"
+     ],
+     " y Clarin.com utilizaban la misma palabra en referencia al otro escándalo, el de la pedofilia, que implicaba al Vaticano y que, según los medios de comunicación indagados, el gobierno recriminaba en declaraciones ",
+     [
+      "span",
+      {},
+      "off the record"
+     ],
+     ": que el Papa no condenara los escándalos del gobierno de Silvio Berlusconi en Italia. En definitiva, había acusaciones cruzadas de “escándalos” mutuos, al menos según los titulares de ",
+     [
+      "span",
+      {},
+      "Clarín"
+     ],
+     " y Clarin.com."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "En el siguiente editorial se justificó el mensaje papal y la preocupación de la conducción de la Iglesia Católica argentina por “la crisis” y por la supuesta falta de estadísticas confiables:"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "span",
+     {
+      "id": "t-gf5"
+     },
+     "\n",
+     [
+      "figura",
+      {
+       "alt": "Clarin.com, 08/08/2009"
+      }
+     ],
+     [
+      "br",
+      {}
+     ],
+     "Imagen 5",
+     [
+      "br",
+      {}
+     ],
+     "\n",
+     [
+      "span",
+      {},
+      "Clarin.com, 08/08/2009"
+     ],
+     "\n",
+     [
+      "br",
+      {}
+     ],
+     "\n",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Fuente: ",
+       [
+        "a",
+        {
+         "href": "https://web.archive.org/web/20090811093205/http://www.clarin.com/diario/2009/08/09/opinion/o-01974814.htm"
+        },
+        "https://web.archive.org/web/20090811093205/http://www.clarin.com/diario/2009/08/09/opinion/o-01974814.htm"
+       ]
+      ]
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "La argumentación que se hacía en el editorial periodístico era la siguiente:"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "p",
+     {},
+     " Estas expresiones están en línea con el mensaje tradicional de la Iglesia sobre los problemas sociales, aquí y en el resto del mundo. Sin embargo, en este caso, los mensajes resonaron con una intensidad especial y causaron preocupación en el Gobierno argentino, porque según las estadísticas oficiales, la pobreza, lejos de constituir un escándalo, viene reduciéndose desde 2003. Esta tendencia que no habría cesado a pesar de la caída del empleo y de los ingresos debidos a la crisis, y a fines de 2008 afectaría a un 15% de la población. "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Esta curiosidad se debe a que las estadísticas oficiales subestiman el incremento de los precios con los que se miden el valor de la canasta que determina el nivel de pobreza. Si esa canasta se evaluara tomando en cuenta la inflación que informan las evaluaciones privadas, o la que surge de organismos estadísticos provinciales que no modificaron sus sistemas de cálculo en los últimos dos años y medio, se encontraría que la pobreza comenzó a subir a partir de fines de 2006, y alcanzaría en la actualidad a un 30% de la población. Notablemente, el propio ex presidente Néstor Kirchner, bajo cuya administración comenzaron a alterarse los cálculos de los precios al consumidor, acaba de afirmar que la pobreza sería en la actualidad de un 20% o un 23%."
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "En un destacado del texto, se resumía así:"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "p",
+     {},
+     "El Papa y el cardenal Bergoglio se refirieron al escándalo de la pobreza en la Argentina, una preocupación habitual de la Iglesia.",
+     [
+      "span",
+      {},
+      " Causó preocupación oficial porque las estadísticas públicas no dan cuenta del nivel real de la misma"
+     ],
+     ". La distorsión de las estadísticas es causa de falta de credibilidad en la política oficial, lo cual retrasa la inversión necesaria para reactivar la economía y reducir la pobreza (El subrayado es nuestro)."
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Es una argumentación frecuente en el estilo periodístico de ",
+     [
+      "span",
+      {},
+      "Clarín"
+     ],
+     " y Clarin.com: bajo una aparente claridad y sencillez de lenguaje, se entremezclan las causas con las consecuencias, se reúne a los actores políticos en el espacio del editorial, según el cual, la preocupación del gobierno se debía a que las estadísticas públicas sobre pobreza no fueran veraces cuando el gobierno mismo era el que las elaboraba (véase el subrayado nuestro en el texto). En esta argumentación, pareciera que las estadísticas son la causa de la pobreza, un círculo vicioso en el cual los medios de comunicación estarían implicados porque son los que hacen circular esas estadísticas en el espacio público."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "En cambio, según el editorial las estadísticas no oficiales sobre pobreza a las que se refería la Iglesia Católica argentina eran un producto de su propia universidad, la Universidad Católica Argentina (UCA). Por supuesto que los modos de realizar ambas estadísticas no eran los mismos, ni siquiera similares y existía (todavía existe) una puja por los “números públicos” (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799008/html/index.html#redalyc_313799008_ref17"
+      },
+      "Daniel, 2013"
+     ],
+     ") y sus significaciones técnicas y sociales. De todos modos, la relación que establece la noticia entre pobreza y credibilidad es la que le permitía al medio periodístico criticar al gobierno y justificar los reclamos de la Iglesia Católica argentina."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "span",
+     {
+      "id": "t-gf6"
+     },
+     "\n",
+     [
+      "figura",
+      {
+       "alt": "Clarin.com,\n09/03/2009"
+      }
+     ],
+     [
+      "br",
+      {}
+     ],
+     "Imagen 6",
+     [
+      "br",
+      {}
+     ],
+     "\n",
+     [
+      "span",
+      {},
+      "Clarin.com,\n09/03/2009"
+     ],
+     "\n",
+     [
+      "br",
+      {}
+     ],
+     "\n",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Fuente: ",
+       [
+        "a",
+        {
+         "href": "https://web.archive.org/web/20090312024216/http://www.clarin.com/diario/2009/03/10/elpais/p-01873858.htm"
+        },
+        "https://web.archive.org/web/20090312024216/http://www.clarin.com/diario/2009/03/10/elpais/p-01873858.htm"
+       ]
+      ]
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "span",
+     {
+      "id": "t-gf7"
+     },
+     "\n",
+     [
+      "figura",
+      {
+       "alt": "Clarin.com,\n01/03/2009"
+      }
+     ],
+     [
+      "br",
+      {}
+     ],
+     "Imagen 7",
+     [
+      "br",
+      {}
+     ],
+     "\n",
+     [
+      "span",
+      {},
+      "Clarin.com,\n01/03/2009"
+     ],
+     "\n",
+     [
+      "br",
+      {}
+     ],
+     "\n",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Fuente: ",
+       [
+        "a",
+        {
+         "href": "https://www.clarin.com/ediciones-anteriores/obispos-llevan-papa-informe-critico-pais_0_Hkx7mF5R6Yl.html"
+        },
+        "https://www.clarin.com/ediciones-anteriores/obispos-llevan-papa-informe-critico-pais_0_Hkx7mF5R6Yl.html"
+       ]
+      ]
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Como parte de la visibilidad pública de las relaciones entre las iglesias de distintos credos y el Estado, las informaciones periodísticas de actualidad sobre asistencia social demuestran las superposiciones entre religión y política, entre actores políticos y actores religiosos. En estas vinculaciones entre iglesias y Estado, en la construcción de los espacios públicos mediáticos, es posible observar la presencia de la política en el campo de lo religioso y la presencia de la religión en el campo de lo político. Además ha sido señalado cómo los discursos, las prácticas y las creencias que involucran a la religión y a la política se hallan superpuestos en nuestro país, como en gran parte de América Latina (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799008/html/index.html#redalyc_313799008_ref21"
+      },
+      "Esquivel, 2008"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799008/html/index.html#redalyc_313799008_ref8"
+      },
+      "Blancarte, 2008"
+     ],
+     ")."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Estas imbricaciones, en definitiva, muestran cuán impregnadas están las creencias religiosas con los modos en que se concibe la organización sociopolítica; en especial, en el andamiaje y funcionamiento de las áreas de políticas públicas para la implementación de la asistencia social del Estado (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799008/html/index.html#redalyc_313799008_ref48"
+      },
+      "Carbonelli, 2015"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799008/html/index.html#redalyc_313799008_ref22"
+      },
+      "Esquivel & Vaggione, 2015"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799008/html/index.html#redalyc_313799008_ref31"
+      },
+      "Mallimaci & Villa, 2007"
+     ],
+     ")."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Las tensiones entre la asistencia social estatal y el\n“clientelismo”"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Si se define la asistencia social como un derecho ciudadano que debe garantizar el Estado, entonces, la perspectiva de la caridad con que las religiones suelen enfocar la ayuda social se transforma en la necesaria participación estatal para la protección y la consecución de los derechos ciudadanos (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799008/html/index.html#redalyc_313799008_ref1"
+      },
+      "Alayon, 1992"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799008/html/index.html#redalyc_313799008_ref32"
+      },
+      "Manrique Castro, 1982"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799008/html/index.html#redalyc_313799008_ref9"
+      },
+      "Carballeda, 2006"
+     ],
+     ", ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799008/html/index.html#redalyc_313799008_ref10"
+      },
+      "2008"
+     ],
+     ") que, además, prescriben la Constitución Nacional y los tratados internacionales a los que adhiere la Argentina."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Las imbricaciones del asistencialismo y sus relaciones con la política, en particular, han originado una perspectiva peyorativa en el mal llamado clientelismo (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799008/html/index.html#redalyc_313799008_ref5"
+      }
+     ],
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799008/html/index.html#redalyc_313799008_ref5"
+      },
+      "Auyero, 1997"
+     ],
+     ", ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799008/html/index.html#redalyc_313799008_ref6"
+      },
+      "2001"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799008/html/index.html#redalyc_313799008_ref15"
+      },
+      "Colabella, 2009"
+     ],
+     ", ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799008/html/index.html#redalyc_313799008_ref16"
+      },
+      "2010"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799008/html/index.html#redalyc_313799008_ref53"
+      },
+      "Vommaro, 2009"
+     ],
+     ", ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799008/html/index.html#redalyc_313799008_ref46"
+      },
+      "2011"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799008/html/index.html#redalyc_313799008_ref39"
+      },
+      "Soprano, 2002"
+     ],
+     ", ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799008/html/index.html#redalyc_313799008_ref40"
+      },
+      "2005"
+     ],
+     ") que, como término despectivo, califica una parte de la ayuda social que se distribuye desde organizaciones, en especial, los partidos políticos, y a partir de los cuales se suele hablar de “favores por votos” (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799008/html/index.html#redalyc_313799008_ref5"
+      },
+      "Auyero, 1997"
+     ],
+     ") o votos por comida u otras prebendas.",
+     [
+      "sup",
+      {},
+      [
+       "a",
+       {
+        "href": "http://portal.amelica.org/ameli/journal/31/313799008/html/index.html#fn8"
+       },
+       [
+        "sup",
+        {},
+        "8"
+       ]
+      ]
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799008/html/index.html#redalyc_313799008_ref46"
+      },
+      "Vommaro y Quirós (2011)"
+     ],
+     " critican el término “puntero” por su uso peyorativo y prefieren hablar de referente en el barrio para los intermediarios en la asistencia social:"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "p",
+     {},
+     "En los universos que estudiamos, el término ",
+     [
+      "span",
+      {},
+      "referente barrial"
+     ],
+     " es utilizado para denominar a los principales animadores de esas organizaciones territoriales. El",
+     [
+      "span",
+      {},
+      " referente"
+     ],
+     " tiene relación directa y cotidiana con los vecinos, al mismo tiempo que trabaja ",
+     [
+      "span",
+      {},
+      "con "
+     ],
+     "o",
+     [
+      "span",
+      {},
+      " para"
+     ],
+     " algún candidato, figura política, línea partidaria o movimiento social, moviliza bases y recluta votantes (p. 69)."
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Sin embargo, en el caso de Caritas no se considera que la ayuda social de organizaciones religiosas sean “prebendas” de los religiosos hacia los pobres."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "span",
+     {
+      "id": "t-gf8"
+     },
+     "\n",
+     [
+      "figura",
+      {
+       "alt": "Clarin.com,\n03/01/2004"
+      }
+     ],
+     [
+      "br",
+      {}
+     ],
+     "Imagen 8",
+     [
+      "br",
+      {}
+     ],
+     "\n",
+     [
+      "span",
+      {},
+      "Clarin.com,\n03/01/2004"
+     ],
+     "\n",
+     [
+      "br",
+      {}
+     ],
+     "\n",
+     [
+      "span",
+      {}
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "span",
+     {
+      "id": "t-gf9"
+     },
+     "\n",
+     [
+      "figura",
+      {
+       "alt": "Clarin.com,\n26/12/2003"
+      }
+     ],
+     [
+      "br",
+      {}
+     ],
+     "Imagen 9",
+     [
+      "br",
+      {}
+     ],
+     "\n",
+     [
+      "span",
+      {},
+      "Clarin.com,\n26/12/2003"
+     ],
+     "\n",
+     [
+      "br",
+      {}
+     ],
+     "\n",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Fuente: ",
+       [
+        "a",
+        {
+         "href": "https://web.archive.org/web/20040609083319/http://www.clarin.com/diario/2003/12/27/p-00901.htm"
+        },
+        "https://web.archive.org/web/20040609083319/http://www.clarin.com/diario/2003/12/27/p-00901.htm"
+       ]
+      ]
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "En lanacion.com, el planteo de la nota tomaba distancia y jerarquizaba el lugar de autoridad de la organización religiosa Caritas para el tratamiento crítico del tema:"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "span",
+     {
+      "id": "t-gf10"
+     },
+     "\n",
+     [
+      "figura",
+      {
+       "alt": "Lanacion.com,\n17/06/2005"
+      }
+     ],
+     [
+      "br",
+      {}
+     ],
+     "Imagen 10",
+     [
+      "br",
+      {}
+     ],
+     "\n",
+     [
+      "span",
+      {},
+      "Lanacion.com,\n17/06/2005"
+     ],
+     "\n",
+     [
+      "br",
+      {}
+     ],
+     "\n",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Fuente: ",
+       [
+        "a",
+        {
+         "href": "https://www.lanacion.com.ar/economia/critican-el-plan-jefes-y-jefas-de-hogar-nid713638/"
+        },
+        "https://www.lanacion.com.ar/economia/critican-el-plan-jefes-y-jefas-de-hogar-nid713638/"
+       ]
+      ]
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "span",
+     {
+      "id": "t-gf11"
+     },
+     "\n",
+     [
+      "figura",
+      {
+       "alt": "Lanacion.com,\n24/12/2004"
+      }
+     ],
+     [
+      "br",
+      {}
+     ],
+     "Imagen 11",
+     [
+      "br",
+      {}
+     ],
+     "\n",
+     [
+      "span",
+      {},
+      "Lanacion.com,\n24/12/2004"
+     ],
+     "\n",
+     [
+      "br",
+      {}
+     ],
+     "\n",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Fuente: ",
+       [
+        "a",
+        {
+         "href": "https://www.lanacion.com.ar/cultura/caritas-es-un-freno-al-clientelismo-nid665951/"
+        },
+        "https://www.lanacion.com.ar/cultura/caritas-es-un-freno-al-clientelismo-nid665951/"
+       ]
+      ]
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "span",
+     {
+      "id": "t-gf12"
+     },
+     "\n",
+     [
+      "figura",
+      {
+       "alt": "Lanacion.com,\n20/11/2003"
+      }
+     ],
+     [
+      "br",
+      {}
+     ],
+     "Imagen 12",
+     [
+      "br",
+      {}
+     ],
+     "\n",
+     [
+      "span",
+      {},
+      "Lanacion.com,\n20/11/2003"
+     ],
+     "\n",
+     [
+      "br",
+      {}
+     ],
+     "\n",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Fuente: ",
+       [
+        "a",
+        {
+         "href": "https://www.lanacion.com.ar/politica/fomenta-una-cultura-de-la-vagancia-nid546953/"
+        },
+        "https://www.lanacion.com.ar/politica/fomenta-una-cultura-de-la-vagancia-nid546953/"
+       ]
+      ]
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "span",
+     {
+      "id": "t-gf13"
+     },
+     "\n",
+     [
+      "figura",
+      {
+       "alt": "Lanacion.com,\n10/11/2006"
+      }
+     ],
+     [
+      "br",
+      {}
+     ],
+     "Imagen 13",
+     [
+      "br",
+      {}
+     ],
+     "\n",
+     [
+      "span",
+      {},
+      "Lanacion.com,\n10/11/2006"
+     ],
+     "\n",
+     [
+      "br",
+      {}
+     ],
+     "\n",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Fuente: ",
+       [
+        "a",
+        {
+         "href": "https://www.lanacion.com.ar/cultura/la-iglesia-reclama-no-olvidar-la-pobreza-nid857427/"
+        },
+        "https://www.lanacion.com.ar/cultura/la-iglesia-reclama-no-olvidar-la-pobreza-nid857427/"
+       ]
+      ]
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "span",
+     {
+      "id": "t-gf14"
+     },
+     "\n",
+     [
+      "figura",
+      {
+       "alt": "Lanacion.com,\n30/10/2009"
+      }
+     ],
+     [
+      "br",
+      {}
+     ],
+     "Imagen 14",
+     [
+      "br",
+      {}
+     ],
+     "\n",
+     [
+      "span",
+      {},
+      "Lanacion.com,\n30/10/2009"
+     ],
+     "\n",
+     [
+      "br",
+      {}
+     ],
+     "\n",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Fuente: ",
+       [
+        "a",
+        {
+         "href": "https://www.lanacion.com.ar/politica/para-caritas-se-trata-de-un-avance-extraordinario-nid1192407/"
+        },
+        "https://www.lanacion.com.ar/politica/para-caritas-se-trata-de-un-avance-extraordinario-nid1192407/"
+       ]
+      ]
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n",
+     [
+      "span",
+      {},
+      " La Nación"
+     ],
+     ", en su edición impresa, publicaba cada día, entre 2001 y 2010, el Santoral católico entre los anuncios sociales.  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "En pagina12.com, la voz de Caritas también tuvo lugar y tratamiento:"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "span",
+     {
+      "id": "t-gf15"
+     },
+     "\n",
+     [
+      "figura",
+      {
+       "alt": "Página 12.com, 29/10/2009"
+      }
+     ],
+     [
+      "br",
+      {}
+     ],
+     "Imagen 15",
+     [
+      "br",
+      {}
+     ],
+     "\n",
+     [
+      "span",
+      {},
+      "Página 12.com, 29/10/2009"
+     ],
+     "\n",
+     [
+      "br",
+      {}
+     ],
+     "\n",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Fuente: ",
+       [
+        "a",
+        {
+         "href": "https://www.pagina12.com.ar/diario/ultimas/subnotas/134326-43346-2009-10-29.html"
+        },
+        "https://www.pagina12.com.ar/diario/ultimas/subnotas/134326-43346-2009-10-29.html"
+       ]
+      ]
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "span",
+     {
+      "id": "t-gf16"
+     },
+     "\n",
+     [
+      "figura",
+      {
+       "alt": "Página 12.com, 21/10/2009"
+      }
+     ],
+     [
+      "br",
+      {}
+     ],
+     "Imagen 16",
+     [
+      "br",
+      {}
+     ],
+     "\n",
+     [
+      "span",
+      {},
+      "Página 12.com, 21/10/2009"
+     ],
+     "\n",
+     [
+      "br",
+      {}
+     ],
+     "\n",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Fuente: ",
+       [
+        "a",
+        {
+         "href": "https://www.pagina12.com.ar/diario/ultimas/subnotas/134326-43346-2009-10-29.html"
+        },
+        "https://www.pagina12.com.ar/diario/ultimas/subnotas/134326-43346-2009-10-29.html"
+       ]
+      ]
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Opera una naturalización en el modo como se presenta en el escenario público de lo social, en cuyas construcciones narrativas las mediatizaciones que realizan los diversos medios de comunicación son en gran medida responsables acerca de la imagen pública de la Iglesia Católica argentina como supuesta ",
+     [
+      "span",
+      {},
+      "participante legítima y desinteresada"
+     ],
+     " en el reparto de la asistencia social y que pone de manifiesto el titular de lanacion.com que citábamos: “Caritas es un freno al clientelismo”."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Los bienes de salvación se mezclan en estos casos con los bienes económicos:"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "p",
+     {},
+     "[…] la asistencia social del Estado, según algunos analistas, adolece de problemas recurrentes y de difícil resolución. Si la ayuda gratuita (alimentos, planes de trabajo, medicamentos, subsidios, créditos, viviendas, etc.) que supone la asistencia social son utilizadas, por parte de sus intermediarios, con fines partidarios o personalistas se dice que eso no es asistencia sino “asistencialismo” o “clientelismo”. Es decir, constituyen formas “corruptas” e inmorales de concentrar poder por medio de bienes estatales gratuitos (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799008/html/index.html#redalyc_313799008_ref47"
+      },
+      "Zapata, 2005"
+     ],
+     ", p. 21)."
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Y también en la concepción de la figura de los voluntarios aparece ese argumento diferenciador de la ayuda social:"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "p",
+     {},
+     "Mujeres como Elena y Daniela son reconocidas como voluntarias de Caritas, personas que en esa organización de la Iglesia Católica ejercitan una virtud teologal: la caridad, el amor gratuito, no interesado, brindado al prójimo. “Dar sin esperar nada a cambio” no es una virtud que se desarrolle espontáneamente. La caridad de una voluntaria es una propiedad expresamente cultivada y perfeccionada. Como suelen explicarles los sacerdotes a las voluntarias: si la caridad no es gratuita y desinteresada, si ella busca recompensas en el beneficiado, lo que allí en verdad se generan son “lazos de dependencia” y no la “promoción liberadora de los pobres”. Es por eso que el carácter genuino y legítimo de la caridad de la voluntaria es puesto permanentemente en duda y sometido a controles y autoconstricciones estrictas (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799008/html/index.html#redalyc_313799008_ref47"
+      },
+      "Zapata, 2005"
+     ],
+     ", p. 20)."
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "En este sentido, la periodista Mariana Carbajal en una nota de pagina12.com daba lugar al planteo de investigadores de la Universidad de Córdoba sobre la concepción de la pobreza que tiene Cáritas:"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "span",
+     {
+      "id": "t-gf17"
+     },
+     "\n",
+     [
+      "figura",
+      {
+       "alt": "Página 12.com, 11/08/2009"
+      }
+     ],
+     [
+      "br",
+      {}
+     ],
+     "Imagen 17",
+     [
+      "br",
+      {}
+     ],
+     "\n",
+     [
+      "span",
+      {},
+      "Página 12.com, 11/08/2009"
+     ],
+     "\n",
+     [
+      "br",
+      {}
+     ],
+     "\n",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Fuente: ",
+       [
+        "a",
+        {
+         "href": "https://www.pagina12.com.ar/diario/sociedad/3-129768-2009-08-11.html"
+        },
+        "https://www.pagina12.com.ar/diario/sociedad/3-129768-2009-08-11.html"
+       ]
+      ]
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "La nota reafirma el estilo periodístico que este medio de comunicación construye cuando se autoproclama pluralista y progresista al establecer este planteo argumentativo. En cambio, en ",
+     [
+      "span",
+      {},
+      "Clarín"
+     ],
+     " y clarin.com tanto como en ",
+     [
+      "span",
+      {},
+      "La Nación"
+     ],
+     " y lanacion.com alguna notas plantearon leves críticas en que esa ayuda social sea distribuida solo por la Iglesia Católica y el debate para dar participación a otros cultos, en particular, a algunos sectores evangélicos:"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "span",
+     {
+      "id": "t-gf18"
+     },
+     "\n",
+     [
+      "figura",
+      {
+       "alt": "Lanacion.com,\n18/11/2002"
+      }
+     ],
+     [
+      "br",
+      {}
+     ],
+     "Imagen 18",
+     [
+      "br",
+      {}
+     ],
+     "\n",
+     [
+      "span",
+      {},
+      "Lanacion.com,\n18/11/2002"
+     ],
+     "\n",
+     [
+      "br",
+      {}
+     ],
+     "\n",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Fuente: ",
+       [
+        "a",
+        {
+         "href": "https://www.lanacion.com.ar/sociedad/lanzaron-en-pergamino-el-plan-solidagro-nid450929/"
+        },
+        "https://www.lanacion.com.ar/sociedad/lanzaron-en-pergamino-el-plan-solidagro-nid450929/"
+       ]
+      ]
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Otra de las estrategias institucionales de la Iglesia Católica argentina, cuya visibilidad pública han propiciado los medios de comunicación de prensa escrita, ha sido la alianza interreligiosa en la organización de las colectas para ayuda social. Por ejemplo, tras la crisis de 2001:"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "span",
+     {
+      "id": "t-gf19"
+     },
+     "\n",
+     [
+      "figura",
+      {
+       "alt": "Clarin.com,\n29/08/2003"
+      }
+     ],
+     [
+      "br",
+      {}
+     ],
+     "Imagen 19",
+     [
+      "br",
+      {}
+     ],
+     "\n",
+     [
+      "span",
+      {},
+      "Clarin.com,\n29/08/2003"
+     ],
+     "\n",
+     [
+      "br",
+      {}
+     ],
+     "\n",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Fuente: ",
+       [
+        "a",
+        {
+         "href": "https://www.clarin.com/politica/piden-tener-control-planes-sociales_0_rJ8X3IllRFx.html"
+        },
+        "https://www.clarin.com/politica/piden-tener-control-planes-sociales_0_rJ8X3IllRFx.html"
+       ]
+      ]
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "span",
+     {
+      "id": "t-gf20"
+     },
+     "\n",
+     [
+      "figura",
+      {
+       "alt": "Clarin.com,\n19/12/2001"
+      }
+     ],
+     [
+      "br",
+      {}
+     ],
+     "Imagen 20",
+     [
+      "br",
+      {}
+     ],
+     "\n",
+     [
+      "span",
+      {},
+      "Clarin.com,\n19/12/2001"
+     ],
+     "\n",
+     [
+      "br",
+      {}
+     ],
+     "\n",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Fuente: ",
+       [
+        "a",
+        {
+         "href": "https://www.clarin.com/sociedad/campana-solidaria-distincion-credos_0_SJngVr8xRKe.html"
+        },
+        "https://www.clarin.com/sociedad/campana-solidaria-distincion-credos_0_SJngVr8xRKe.html"
+       ]
+      ]
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Sin embargo, las noticias sobre la asistencia social en relación con otras religiones que no sean cristianas suelen ser escasas en los medios seleccionados. El diálogo interreligioso y las situaciones límite como momentos de crisis o catástrofes aportan, a veces, algún tipo de noticia sobre la presencia pública de organizaciones como la Delegación de Asociaciones Israelitas Argentinas (DAIA) en conjunto con la Asociación Mutual Israelita Argentina (AMIA), o del Centro Islámico de la República Argentina (CIRA), pese a que el trabajo social de estas entidades se desarrolla durante todo el año."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Algunos de los sectores o líderes religiosos como Abraham Skorka y Omar Abud se reunieron en varias ocasiones con Jorge Bergoglio en Buenos Aires, y luego se hizo una famosa foto de un abrazo entre los tres, como símbolo del diálogo interreligioso y la convivencia de las religiones."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Como dijimos antes, la ayuda social que no está relacionada con la institucionalidad católica y estatal no fue de presencia significativa en la información periodística de actualidad. Ni siquiera el trabajo del Ejército de Salvación o de instituciones de larga data como la Asociación Mutual Israelita Argentina aparecen representadas de un modo comparativo con las noticias sobre Caritas."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Tampoco suelen publicarse con regular frecuencia noticias acerca del trabajo barrial de los evangélicos en la provincia de Buenos Aires (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799008/html/index.html#redalyc_313799008_ref48"
+      },
+      "Carbonelli, 2015"
+     ],
+     "), ni informaciones periodísticas relacionadas con la prevención del consumo de drogas y del delito, o noticias sobre la amplia experiencia de los pabellones evangélicos en las cárceles del país (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799008/html/index.html#redalyc_313799008_ref3"
+      },
+      "Algranti, 2010"
+     ],
+     ")."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "De vez en cuando, los medios de comunicación tematizan estos fenómenos pero lo hacen con una mirada distanciada, donde el componente de “rareza” transforma la noticia en relato o crónica de fenómenos sociales excepcionales o novedosos. No hay una continuidad informativa en el tratamiento de estos acontecimientos, ni una aceptación de estos fenómenos que tienen sus regularidades en el territorio social, ligados a la religiosidad, o, por lo menos, no se sabe aún cómo ubicarlos o clasificarlos en el conjunto de las representaciones mediáticas."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Conclusiones "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "A partir de este recorrido, puede advertirse que desde la crisis de 2001, en la Argentina se profundizó la preocupación pública por las estadísticas acerca de la pobreza, por sus temáticas y diversos aspectos."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Por supuesto, hay múltiples representaciones del país: la Argentina que elabora productos de agroexportación, la Argentina que vive en las grandes ciudades y la Argentina marginal, asociada con la pobreza estructural y persistente de las villas miserias del Conurbano."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "p",
+     {},
+     "En 1955, 80 mil personas las habitaban. En 1970, cálculos conservadores estimaban su población en 800 mil. Para mucha gente, incluidos ciertos “importantes matutinos”, las inventó Perón y “por razones políticas”. Lo cierto es que preexistían al período peronista y que crecieron cuando concluyó éste. Nadie ha aventurado todavía la hipótesis de que las inventó la Revolución Libertadora. Eso sí, es a partir de ésta cuando se las estudia con mayor ahínco y con mayor inutilidad. Sus viejos y hasta entonces casi únicos habitués, los vendedores ambulantes, ven pasar a su lado ejércitos de sociólogos, asistentes sociales, sacerdotes, damas de beneficencia, instituciones oficiales y privadas, partidos políticos, diversas confesiones religiosas lo apadrinan… Sociológicamente, las villas son las sucesoras del conventillo. Como éstos, albergan el exceso de población que envía el campo sobre la ciudad (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799008/html/index.html#redalyc_313799008_ref36"
+      },
+      "Ratier, 1985"
+     ],
+     ", p. 11)."
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Tal vez por eso el peronismo tiene un rol fundamental en el trabajo de la asistencia social estatal: a la percepción de la existencia de las clases populares del otro lado del Riachuelo,",
+     [
+      "sup",
+      {},
+      [
+       "a",
+       {
+        "href": "http://portal.amelica.org/ameli/journal/31/313799008/html/index.html#fn9"
+       },
+       [
+        "sup",
+        {},
+        "9"
+       ]
+      ]
+     ],
+     " sumó políticas gubernamentales inexistentes en la primera mitad del siglo XX, dominada por la filantropía o la beneficencia de organizaciones sociales y religiosas, ya que el Estado se mostró más interesado en el higienismo y el control de las enfermedades por el miedo a las epidemias (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799008/html/index.html#redalyc_313799008_ref41"
+      },
+      "Suriano, 2001"
+     ],
+     ")."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Otra de las conclusiones es que la presencia de lo religioso en relación con la pobreza y la asistencia social tuvo una amplia y continua visibilidad en el espacio público mediático durante la década de 2001-2010. La naturalización creciente de “la gestión de la pobreza” como algo pertinente a organizaciones religiosas (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799008/html/index.html#redalyc_313799008_ref37"
+      },
+      "Riveiro, 2013"
+     ],
+     "), a sus modos de hacer como más adecuados y preferibles que los de la política, ha sido producto de una construcción representacional que antes no se encontraba entre las opiniones mayoritarias en el espacio público argentino.",
+     [
+      "sup",
+      {},
+      [
+       "a",
+       {
+        "href": "http://portal.amelica.org/ameli/journal/31/313799008/html/index.html#fn10"
+       },
+       [
+        "sup",
+        {},
+        "10"
+       ]
+      ]
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "En este sentido, la Asignación Universal por Hijo, que es una erogación monetaria ",
+     [
+      "span",
+      {},
+      "directa"
+     ],
+     " a la cuenta del beneficiario, produce sentido en ese lugar de desprestigio de la política argentina después de la crisis de 2001 y trata de reponer una herramienta democrática de participación ciudadana, dado que requiere cumplimentar el plan escolar y de salud de las niñas y niños para ser recibido. Esto no suele ser destacado en las construcciones mediáticas que acentúan el estigma del clientelismo en la relación asistencial del Estado."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Otra de las conclusiones a la que llegamos es que la diversidad religiosa, en relación con la asistencia social, aparece poco visibilizada en los medios de comunicación indagados. Hay algunas referencias, en las noticias, al trabajo evangélico en barrios carenciados pero en una proporción muy minoritaria respecto a las que remiten al catolicismo. En este sentido, la figura de los líderes católicos es hegemónica en estos medios de prensa escrita (por ejemplo, las de los líderes religiosos Bergoglio y Casaretto, entre otros). Sin embargo, en el período indagado, los medios de comunicación no destacan el cambio de los planes sociales a las políticas públicas",
+     [
+      "sup",
+      {},
+      [
+       "a",
+       {
+        "href": "http://portal.amelica.org/ameli/journal/31/313799008/html/index.html#fn11"
+       },
+       [
+        "sup",
+        {},
+        "11"
+       ]
+      ]
+     ],
+     " ni siquiera con referencia a la situación de 2001."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "En cuanto a las mediatizaciones de lo social, podemos concluir que los fenómenos sociales, en tanto acontecimientos abordados por la prensa escrita argentina pasan a convertirse en noticias no sin antes ser transformados por la propia acción mediatizadora de los medios de comunicación. Muchas veces el sistema mediático vuelve a trabajar con las noticias previas de otros medios de comunicación como la radio o la televisión, y otras veces retoma noticias anteriores en el tiempo."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Así, pensar cuál fue el acontecimiento original, el “texto fuente” o la experiencia “real”, se vuelve una proeza filosófica. Niklas ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799008/html/index.html#redalyc_313799008_ref28"
+      },
+      "Luhmann (2000)"
+     ],
+     " ha hecho de esta cuestión uno de los núcleos de su teoría sociológica, donde la construcción y reconstrucción de la realidad social por los medios es uno de sus puntos interesantes. ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799008/html/index.html#redalyc_313799008_ref28"
+      },
+      "Luhmann (2000)"
+     ],
+     " dirá que los medios son autopoiéticos: en este sentido, cada noticia refiere a noticias anteriores y cada mediatización es también parte de la interacción de los medios de comunicación con los mundos y redes sociales (sean digitales o no) ya previamente construidos, pero también con el mundo de los propios medios de comunicación que una y otra vez se retroalimentan en las relaciones entre sistema y entorno en una espiral múltiple de ida y vuelta."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Finalmente, podemos agregar que veinte años después de 2001, en la información de actualidad periodística argentina se debate la posibilidad de implementar un ingreso básico universal o ingreso complementario, a modo de salario o renta universal, como parte de la ampliación de derechos sociales."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Esta renta universal está propiciada por sectores afines al Papa Francisco, en lo que se denominó como el proyecto del movimiento Techo, Tierra y Trabajo (",
+     [
+      "a",
+      {
+       "href": "https://movpop.org/"
+      },
+      "https://movpop.org"
+     ],
+     "/) y en las consignas de algunos líderes de los trabajadores de la llamada economía social y popular: sectores que se dedican al reciclaje y a la producción agrícola en cooperativas, entre otros trabajos."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "La transformación e inclusión de estos sectores de la economía “informal” también es objeto de debate en la mediatización de las intersecciones entre religión y pobreza en la Argentina reciente realizada por los principales medios de prensa escrita."
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-back"
+    },
+    "\n",
+    [
+     "p",
+     {},
+     "Referencias"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313799008_ref1"
+     },
+     "Alayon, N. (1992). ",
+     [
+      "span",
+      {},
+      "Historia del Trabajo Social en Argentina"
+     ],
+     ". Espacio Editorial."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313799008_ref2"
+     },
+     "Albornoz, L. (2006). ",
+     [
+      "span",
+      {},
+      "Periodismo digital: los grandes diarios en la Red"
+     ],
+     ". La Crujía."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313799008_ref3"
+     },
+     "Algranti, J. M. (2010). ",
+     [
+      "span",
+      {},
+      "Política y religión en los márgenes. Nuevas formas de participación social de las mega-iglesias en la Argentina"
+     ],
+     ". Ciccus."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313799008_ref4"
+     },
+     "Ameigeiras, A. (2008). La participación de la Iglesia Católica en la Mesa del Diálogo Argentino: pujas y tensiones en un “espacio espiritual”. En A. Ameigeiras y J. P. Martin (Eds.), ",
+     [
+      "span",
+      {},
+      "Religión, política y sociedad: pujas y transformaciones en la historia argentina reciente"
+     ],
+     " (pp. 199-219). Prometeo."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313799008_ref5"
+     },
+     "Auyero, J. (Comp.) (1997). ",
+     [
+      "span",
+      {},
+      "¿Favores por votos? Estudios sobre clientelismo político contemporáneo"
+     ],
+     ". Losada."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313799008_ref6"
+     },
+     "Auyero, J. (2001). ",
+     [
+      "span",
+      {},
+      "La política de los pobres. Las prácticas clientelares del peronismo"
+     ],
+     ". Manantial."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313799008_ref7"
+     },
+     "Bateson, G. (1991). ",
+     [
+      "span",
+      {},
+      "Pasos hacia una ecología de la mente"
+     ],
+     ". Planeta-Carlos Lohlé."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313799008_ref8"
+     },
+     "Blancarte, R. (2008). ",
+     [
+      "span",
+      {},
+      "Los retos de la laicidad y la secularización en el mundo contemporáneo"
+     ],
+     ". El Colegio de México."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313799008_ref9"
+     },
+     "Carballeda, A. (2006). ",
+     [
+      "span",
+      {},
+      "El trabajo social desde una mirada histórica centrada en la intervención"
+     ],
+     ". Espacio Editorial."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313799008_ref10"
+     },
+     "Carballeda, A. (2008). ",
+     [
+      "span",
+      {},
+      "Los cuerpos fragmentados. La intervención en lo social en los escenarios de la exclusión y el desencanto"
+     ],
+     ". Paidós."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313799008_ref48"
+     },
+     "Carbonelli, M. (2015). Pan y palabras. La inserción evangélica en la gestión pública en Argentina. ",
+     [
+      "span",
+      {},
+      "Religião e Sociedade, 35"
+     ],
+     "(2), 73-95. ",
+     [
+      "a",
+      {
+       "href": "http://dx.doi.org/10.1590/0100-85872015v35n2cap03"
+      },
+      "http://dx.doi.org/10.1590/0100-85872015v35n2cap03"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313799008_ref11"
+     },
+     "Carlón, M. (2014). ",
+     [
+      "span",
+      {},
+      "¿Del arte contemporáneo a una era contemporánea? Estado actual de las investigaciones sobre mediatizaciones"
+     ],
+     ". UNR Editora."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313799008_ref12"
+     },
+     "Casanova, J. (1994). ",
+     [
+      "span",
+      {},
+      "Religiones públicas en el mundo moderno"
+     ],
+     ". PPC."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313799008_ref13"
+     },
+     "Cattogio, S. (2016). ",
+     [
+      "span",
+      {},
+      "Los desaparecidos de la Iglesia Católica: el clero contestatario frente a la dictadura"
+     ],
+     ". Siglo XXI."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313799008_ref14"
+     },
+     "Cipriani, R. (2011). ",
+     [
+      "span",
+      {},
+      "Manual de sociología de la religión"
+     ],
+     ". Siglo Veintiuno."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313799008_ref15",
+      "lang": "pt"
+     },
+     "Colabella, L. (2009). Fazer política ou lutar pelo social. Uma etnografia das formas de redistribuição da Grande Buenos Aires [Tese de Doutorado]. Universidade Federal do Rio de Janeiro. ",
+     [
+      "a",
+      {
+       "href": "http://www.dominiopublico.gov.br/pesquisa/DetalheObraForm.do?select_action=&co_obra=135102"
+      },
+      "http://www.dominiopublico.gov.br/pesquisa/DetalheObraForm.do?select_action=&co_obra=135102"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313799008_ref16",
+      "lang": "pt"
+     },
+     "Colabella, L. (2010). Patrões e clientes ou redistribuição entre iguais? Uma reflexão sobre clientelismo e suas transposições contextuais. ",
+     [
+      "span",
+      {},
+      "Mana. Estudos de Antropologia Social, 16"
+     ],
+     "(2), 287-310. ",
+     [
+      "a",
+      {
+       "href": "https://www.scielo.br/j/mana/a/fgVds6ksbXPgGYFs5cY7HDK/?lang=pt"
+      },
+      "https://www.scielo.br/j/mana/a/fgVds6ksbXPgGYFs5cY7HDK/?lang=pt"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313799008_ref17"
+     },
+     "Daniel, C. (2013). ",
+     [
+      "span",
+      {},
+      "Números públicos: las estadísticas en Argentina (1990-2010)"
+     ],
+     ". Fondo de Cultura Económica."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313799008_ref18"
+     },
+     "Diéguez, F. (2015). El conservadorismo religioso en los comentarios de lectores del diario digital lanacion.com. En J. M. Vaggiones y J. C. Esquivel (Dirs.), ",
+     [
+      "span",
+      {},
+      "Permeabilidades activas. Religión, política y sexualidad en la Argentina democrática"
+     ],
+     " (pp. 97-108). Biblos."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313799008_ref19"
+     },
+     "Diéguez, F. (2018). ",
+     [
+      "span",
+      {},
+      "Noticias sobre religión: Las construcciones enunciativas de las informaciones periodísticas de actualidad religiosa en la prensa escrita argentina. 2001-2010"
+     ],
+     " [Tesis de Doctorado]. Universidad Nacional de La Plata. ",
+     [
+      "a",
+      {
+       "href": "http://sedici.unlp.edu.ar/handle/10915/72328"
+      },
+      "http://sedici.unlp.edu.ar/handle/10915/72328"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313799008_ref20"
+     },
+     "Esquivel, J. C. (2004). ",
+     [
+      "span",
+      {},
+      "Detrás de los muros: La Iglesia católica en tiempos de Alfonsín y Menem (1983-1999)"
+     ],
+     ". Universidad Nacional de Quilmes."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313799008_ref21"
+     },
+     "Esquivel, J. C. (2008). La presencia pública de la Iglesia Católica durante los gobiernos de Carlos Menem (1989-1999). En A. Ameigeiras y J. P. Martín (Eds.), ",
+     [
+      "span",
+      {},
+      "Religión, política y sociedad"
+     ],
+     " (pp. 171-198). Prometeo."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313799008_ref22"
+     },
+     "Esquivel, J. C. y Vaggione, J. M. (Comps.) (2015). ",
+     [
+      "span",
+      {},
+      "Permeabilidades activas"
+     ],
+     ". Biblos."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313799008_ref23"
+     },
+     "Fernández, J. L. (2018). ",
+     [
+      "span",
+      {},
+      "Plataformas mediáticas"
+     ],
+     ". La Crujía."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313799008_ref24"
+     },
+     "Hervieu-Léger, D. (2005). ",
+     [
+      "span",
+      {},
+      "La religión, hilo de la memoria"
+     ],
+     ". Herder."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313799008_ref25",
+      "lang": "en"
+     },
+     "Hjarvard, S. (6-9 July 2006). The Mediatization of Religion. A Theory of the Media as an Agent of Religious Change. Paper presented to the 5th International Conference on Media, Religion and Culture. Sweden."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313799008_ref26"
+     },
+     "Hjarvard, S. (2016). Mediatización: la lógica mediática de las dinámicas cambiantes de la interacción social. ",
+     [
+      "span",
+      {},
+      "La trama de la comunicación, 20"
+     ],
+     "(1), 235-252. ",
+     [
+      "a",
+      {
+       "href": "http://www.scielo.org.ar/scielo.php?script=sci_arttext&pid=S1668-56282016000100013"
+      },
+      "http://www.scielo.org.ar/scielo.php?script=sci_arttext&pid=S1668-56282016000100013"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313799008_ref27",
+      "lang": "en"
+     },
+     "Luhmann, N. (1994). How can the mind participate in communication? In H. U. Gumbrecht (Ed.), ",
+     [
+      "span",
+      {},
+      "Materialities of Communication"
+     ],
+     " (pp. 371-387). Stanford University Press."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313799008_ref28"
+     },
+     "Luhmann, N. (2000). ",
+     [
+      "span",
+      {},
+      "La realidad de los medios de masas"
+     ],
+     ". Anthropos."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313799008_ref29"
+     },
+     "Mallimaci, F. (1988). ",
+     [
+      "span",
+      {},
+      "Catolicismo integral 1930-1945"
+     ],
+     ". Biblos."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313799008_ref49"
+     },
+     "Mallimaci, F. (1993). Religión, modernidad y catolicismo integral en la Argentina. ",
+     [
+      "span",
+      {},
+      "Perfiles Latinoamericanos"
+     ],
+     ", (2), 105-131."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313799008_ref50"
+     },
+     "Mallimaci, F. (Comp.) (2008). ",
+     [
+      "span",
+      {},
+      "Modernidad, religión y memoria"
+     ],
+     ". Colihue."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313799008_ref51"
+     },
+     "Mallimaci, F. (Dir.) (2013). ",
+     [
+      "span",
+      {},
+      "Atlas de las creencias religiosas en la Argentina"
+     ],
+     ". Biblos."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313799008_ref52"
+     },
+     "Mallimaci, F. (2015). ",
+     [
+      "span",
+      {},
+      "El mito de la Argentina laica"
+     ],
+     ". Capital Intelectual."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313799008_ref30"
+     },
+     "Mallimaci, F., Giménez Beliveau, V., Esquivel, J. C. e Irrazabal, G. (2019). Sociedad y Religión en Movimiento. Segunda Encuesta Nacional sobre Creencias y Actitudes Religiosas en la Argentina. Informe de Investigación, 25. CEIL-CONICET."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313799008_ref31"
+     },
+     "Mallimaci, F. y Villa, M. (2007). ",
+     [
+      "span",
+      {},
+      "Las comunidades eclesiales de base y el mundo de los pobres en la Argentina"
+     ],
+     ". CEIL-PIETTE."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313799008_ref32"
+     },
+     "Manrique Castro, M. (1982). ",
+     [
+      "span",
+      {},
+      "De apóstoles a agentes de cambio. El trabajo social en la historia de América Latina"
+     ],
+     ". Centro Latinoamericano de Trabajo Social (CELATS)."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313799008_ref33"
+     },
+     "Martin, J. P. (1995). ",
+     [
+      "span",
+      {},
+      "Movimiento de sacerdotes para el Tercer Mundo"
+     ],
+     ". Guadalupe."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313799008_ref34"
+     },
+     "Maturana, H. y Varela, F. (1996). ",
+     [
+      "span",
+      {},
+      "El árbol del conocimiento"
+     ],
+     ". Debate."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313799008_ref35"
+     },
+     "Mignone, E. (1986). ",
+     [
+      "span",
+      {},
+      "Iglesia y dictadura"
+     ],
+     ". Ediciones del Pensamiento Nacional."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313799008_ref36"
+     },
+     "Ratier, H. (1985). ",
+     [
+      "span",
+      {},
+      "Villeros y villas miseria"
+     ],
+     ". CEAL."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313799008_ref37"
+     },
+     "Riveiro, L. (2013). La intervención de Caritas en la “cuestión social” durante la crisis post 2001. El caso de la diócesis de San Isidro. ",
+     [
+      "span",
+      {},
+      "Revista de Trabajo Social, 6"
+     ],
+     "(10). ",
+     [
+      "a",
+      {
+       "href": "https://ri.conicet.gov.ar/handle/11336/28728"
+      },
+      "https://ri.conicet.gov.ar/handle/11336/28728"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313799008_ref38"
+     },
+     "Soneira, A. J. (1989). ",
+     [
+      "span",
+      {},
+      "Las estrategias institucionales de la Iglesia Católica (1880-1976)"
+     ],
+     ". Centro Editor de América Latina (CEAL)."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313799008_ref39"
+     },
+     "Soprano, G. (2002). A favor de una etnografía sobre clientelismo político y peronismo. ",
+     [
+      "span",
+      {},
+      "Desarrollo Económico. Revista de Ciencias Sociales"
+     ],
+     ", (42), 483-488."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313799008_ref40"
+     },
+     "Soprano, G. (2005). La producción de actores e identidades políticas en el peronismo durante una campaña electoral. En S. Frederic y G. Soprano (Comps.), ",
+     [
+      "span",
+      {},
+      "Cultura y política en etnografías sobre la Argentina"
+     ],
+     " (pp. 161-196). Universidad de Quilmes."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313799008_ref41"
+     },
+     "Suriano, J. (2001). La cuestión social y el complejo proceso de construcción inicial de las políticas sociales en la Argentina moderna. ",
+     [
+      "span",
+      {},
+      "Ciclos"
+     ],
+     ", 11(21)."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313799008_ref42"
+     },
+     "Varela, F. (2005). ",
+     [
+      "span",
+      {},
+      "Conocer"
+     ],
+     ". Gedisa."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313799008_ref43"
+     },
+     "Verón, E. (1987). ",
+     [
+      "span",
+      {},
+      "Construir el acontecimiento"
+     ],
+     ". Gedisa."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313799008_ref44"
+     },
+     "Verón, E. (1993). ",
+     [
+      "span",
+      {},
+      "La semiosis social"
+     ],
+     ". Gedisa."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313799008_ref45"
+     },
+     "Verón, E. (2013). ",
+     [
+      "span",
+      {},
+      "La semiosis social 2"
+     ],
+     ". Paidós."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313799008_ref53"
+     },
+     "Vommaro, G. (2009). Diez años de ¿favores por votos? El clientelismo como concepto y como etiqueta moral. En E. Rinesi, G. Vommaro y M. Muraca (Comps.), ",
+     [
+      "span",
+      {},
+      "¿Si éste no es el pueblo? Hegemonía, populismo y democracia en Argentina"
+     ],
+     " (pp. 161-177). Universidad Nacional de General Sarmiento."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313799008_ref46"
+     },
+     "Vommaro, G. y Quirós, J. (2011). “Usted vino por su propia decisión”: repensar el clientelismo en clave etnográfica. ",
+     [
+      "span",
+      {},
+      "Revista Desacatos"
+     ],
+     ", (36), 65-84. ",
+     [
+      "a",
+      {
+       "href": "https://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S1607-050X2011000200005"
+      },
+      "https://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S1607-050X2011000200005"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313799008_ref47"
+     },
+     "Zapata, L. (2005). ",
+     [
+      "span",
+      {},
+      "La mano que acaricia la pobreza: etnografía del voluntariado católico"
+     ],
+     ". Antropofagia."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Notas"
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-fn1"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "1"
+     ],
+     " Con mediatización aludimos, por una parte, al cambio de escala que implica el proceso de la acción social de hacer público “algo” en y por medios o dispositivos de comunicación social; por otra parte, el término mediatización abarca la comprensión del conjunto de fenómenos históricos que transformaron a las sociedades pre-mediáticas en mediáticas, primero, y luego en mediatizadas (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799008/html/index.html#redalyc_313799008_ref45"
+      },
+      "Verón, 2013"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799008/html/index.html#redalyc_313799008_ref26"
+      },
+      "Hjarvard, 2016"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799008/html/index.html#redalyc_313799008_ref11"
+      },
+      "Carlón, 2014"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799008/html/index.html#redalyc_313799008_ref23"
+      },
+      "Fernández, 2018"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799008/html/index.html#redalyc_313799008_ref19"
+      },
+      "Diéguez, 2018"
+     ],
+     "). También hay debates sobre la hipermediatización y lo transmedial en que aquí no abordaremos. No trataremos, tampoco, el caso de las redes digitales de forma puntual ya que excede este artículo, aunque es interesante y hemos tenido en cuenta sus interrelaciones con los medios de prensa escrita en el entorno en línea."
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-fn2"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "2"
+     ],
+     " Las consideraciones teóricas sobre el hiato existente entre la experiencia personal vivida (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799008/html/index.html#redalyc_313799008_ref27"
+      },
+      "Luhmann 1994"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799008/html/index.html#redalyc_313799008_ref7"
+      },
+      "Bateson, 1991"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799008/html/index.html#redalyc_313799008_ref34"
+      },
+      "Maturana & Varela, 1996"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799008/html/index.html#redalyc_313799008_ref42"
+      },
+      "Varela, 2005"
+     ],
+     ") y el proceso de la mediatización que se produce en la construcción de acontecimientos (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799008/html/index.html#redalyc_313799008_ref43"
+      },
+      "Verón, 1987"
+     ],
+     ", ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799008/html/index.html#redalyc_313799008_ref44"
+      },
+      "1993"
+     ],
+     ", ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799008/html/index.html#redalyc_313799008_ref45"
+      },
+      "2013"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799008/html/index.html#redalyc_313799008_ref25"
+      },
+      "Hjarvard, 2006"
+     ],
+     ", ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799008/html/index.html#redalyc_313799008_ref26"
+      },
+      "2016"
+     ],
+     ") y en la reconstrucción de las noticias están planteadas en la teoría de Niklas Luhmann (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799008/html/index.html#redalyc_313799008_ref28"
+      },
+      "2000"
+     ],
+     ", ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799008/html/index.html#redalyc_313799008_ref27"
+      },
+      "1994"
+     ],
+     "), en particular, en las relaciones sistema-entorno de los medios."
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-fn3"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "3"
+     ],
+     " El criterio de pertinencia se justificó no sólo por la circulación nacional de las ediciones impresas y por la existencia de los sitios web de las ediciones digitales, sino también por los factores políticos, sociales y culturales de los ",
+     [
+      "span",
+      {},
+      "diarios de referencia dominante"
+     ],
+     " (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799008/html/index.html#redalyc_313799008_ref2"
+      },
+      "Albornoz, 2006"
+     ],
+     ") representativos de los sectores sociales en el espacio público argentino: pagina12.com interpela a posibles lectores “progresistas”, lanacion.com lo hace con los “neoconservadores” y clarin.com suele apelar a una amplia clase media “popular”. Los llamamos diarios de referencia dominante dado que con las ediciones digitales otra de sus reconfiguraciones es la de su “alcance”: nacional, regional, local, al hacer difusas esas fronteras espaciales que estaban asociadas a la distribución física de los impresos en el país. Además, esos diarios cuentan con la figura de periodistas especializados en el tema religioso (entrevistamos a algunos de ellos), que firman sus notas y que realizan un seguimiento sistemático de las relaciones entre religión y política en sentido amplio."
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-fn4"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "4"
+     ],
+     " Ya había habido una Mesa en 1990, luego del traspaso anticipado del gobierno de Raúl Alfonsín, quien finalizó su mandato unos meses antes y entregó el gobierno al presidente electo Carlos Menem: “Desde el mismo inicio de la gestión menemista pudo advertirse el contraste en el modo de interpelar a la Iglesia Católica en comparación con el período alfonsinista. Menem reconoció permanentemente en sus discursos la impronta católica que envuelve a la nación argentina y la legitimidad moral y espiritual de los máximos responsables de la Iglesia Católica. Esa retórica se operacionalizaba en una incidencia concreta de la élite eclesiástica a la hora de elegir a los ministros de Educación […] El gobierno sentó las bases de una mesa de concertación y de negociación con la jerarquía eclesiástica tal como lo hacía con una cámara empresarial o con la central sindical, sin atender las especificidades de la institución religiosa” (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799008/html/index.html#redalyc_313799008_ref20"
+      },
+      "Esquivel, 2004"
+     ],
+     ", pp. 148-149)."
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-fn5"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "5"
+     ],
+     " Sobre las estrategias institucionales de la Iglesia Católica Argentina y sus diversas actuaciones, en complicidad con el catolicismo integral de principios de siglo XX y, luego, con los gobiernos de facto y la dictadura de 1976-1982, hay abundante bibliografía, entre ella: ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799008/html/index.html#redalyc_313799008_ref35"
+      },
+      "Mignone 1986"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799008/html/index.html#redalyc_313799008_ref29"
+      },
+      "Mallimaci, 1988"
+     ],
+     ", 2015; ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799008/html/index.html#redalyc_313799008_ref38"
+      },
+      "Soneira, 1989"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799008/html/index.html#redalyc_313799008_ref33"
+      },
+      "Martin, 1995"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799008/html/index.html#redalyc_313799008_ref20"
+      },
+      "Esquivel, 2004"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799008/html/index.html#redalyc_313799008_ref13"
+      },
+      "Cattogio 2016"
+     ],
+     "."
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-fn6"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "6"
+     ],
+     " Se denomina Conurbano a las 24 jurisdicciones que rodean a la Ciudad Autónoma de Buenos Aires (CABA). Existen diferentes denominaciones, algunas más amplias como Gran Buenos Aires (GBA) y Área Metropolitana de Buenos Aires (AMBA), que incluye 40 localidades que forman tres cordones alrededor de CABA. El AMBA es la mayor concentración urbana de la Argentina en la que residen 15 millones de personas. Los criterios de inclusión en esta clasificación cambian a lo largo del tiempo y de acuerdo a quiénes y para qué los establezcan. Las leyes, normas y regulaciones también difieren en las consideraciones según el alcance y los objetivos de esas regulaciones; por ejemplo, para el Fondo del Conurbano Bonaerense, un fondo nacional de ayuda económica creado por la Ley 24.073, en 1992, que asigna el 10 % de lo recaudado en el Impuesto a las Ganancias para ser destinado a obras en la provincia de Buenos Aires, el criterio suele incluir el AMBA pero excluye a CABA que, en general, es incluido en la clasificación de AMBA."
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-fn7"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "7"
+     ],
+     "  Néstor Kirchner asumió la presidencia por el voto popular, luego del mandato interino de Eduardo Duhalde entre 2001 y 2002. Fue uno de los líderes del partido peronista y presidente de 2003 a 2007. Falleció en 2010."
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-fn8"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "8"
+     ],
+     " Entre sus acepciones, prebenda significa la renta anexa a un oficio eclesiástico (",
+     [
+      "a",
+      {
+       "href": "http://dle.rae.es/?id=TuMD5FX"
+      },
+      "http://dle.rae.es/?id=TuMD5FX"
+     ],
+     "). Si bien el recurso etimológico no demuestra nada en sí mismo, es indicativo de que algunas significaciones del término se han desplazado del campo religioso al campo político en sus acepciones contemporáneas así como, veremos, no se considera clientelar la ayuda estatal canalizada por organizaciones religiosas (por ejemplo, Caritas y comedores parroquiales) pero sí se llama de ese modo a la ayuda de referentes barriales ligados a partidos políticos. El argumento, al menos en los medios de comunicación indagados, es que la ayuda religiosa resulta “desinteresada” y, en cambio, la ayuda de referentes populares ligados a la política es coercitiva."
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-fn9"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "9"
+     ],
+     " Límite sur entre la Ciudad Autónoma de Buenos Aires y la provincia de Buenos Aires."
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-fn10"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "10"
+     ],
+     " Esto ha dado lugar a caracterizaciones mediáticas condensadas en el término “pobrismo”, principalmente enunciadas por el senador Miguel Ángel Pichetto, y referidas a ideologías en defensa de los pobres como la Teología del Pueblo, representada –según este senador– por el Papa Francisco y algunos de sus seguidores, como Juan Grabois, uno de los líderes de la Confederación de Trabajadores de la Economía popular (CTEP). En 2021, la editorial Sudamericana publicó una larga entrevista a Miguel Angel Pichetto en el libro titulado ",
+     [
+      "span",
+      {},
+      "Capitalismo o pobrismo"
+     ],
+     "."
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-fn11"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "11"
+     ],
+     " El Instituto en que desarrollamos este trabajo, el Centro de Estudios e Investigaciones Laborales perteneciente al CONICET tiene una larga trayectoria en el análisis de las políticas de empleo en Argentina: ",
+     [
+      "a",
+      {
+       "href": "https://ri.conicet.gov.ar/bitstream/handle/11336/8715/CONICET_Digital_Nro.8175_A.pdf?sequence=2&isAllowed=y"
+      },
+      "https://ri.conicet.gov.ar/bitstream/handle/11336/8715/CONICET_Digital_Nro.8175_A.pdf?sequence=2&isAllowed=y"
+     ],
+     "\n"
+    ],
+    "\n"
+   ],
+   "\n"
+  ],
+  "\n",
+  [
+   "span",
+   {
+    "id": "t-creditos"
+   },
+   "\n",
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-logo-izquierda"
+    },
+    "\n",
+    [
+     "figura",
+     {}
+    ]
+   ],
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-mensaje"
+    },
+    "Modelo de publicación sin fines de lucro para conservar la naturaleza académica y abierta de la comunicación científica",
+    [
+     "br",
+     {}
+    ],
+    "HTML generado a partir de XML-JATS4R"
+   ],
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-logo-derecha"
+    },
+    "\n",
+    [
+     "figura",
+     {}
+    ]
+   ],
+   "\n",
+   "\n"
+  ],
+  "\n\n\n"
+ ]
+};

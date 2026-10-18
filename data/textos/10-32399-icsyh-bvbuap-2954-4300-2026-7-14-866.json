@@ -1,0 +1,1843 @@
+{
+ "version": 1,
+ "recogido": "2026-10-18T11:32:12+00:00",
+ "doi": "10.32399/icsyh.bvbuap.2954-4300.2026.7.14.866",
+ "titulo": "Juventudes rurales y diversidad sexual desde la experiencia de “Cuquío Pride” en Jalisco, México",
+ "revista": "2954-4300",
+ "numero": "2026",
+ "licencia": {
+  "codigo": "by-nc-sa",
+  "nombre": "CC BY-NC-SA 4.0",
+  "nombre_completo": "Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional",
+  "url": "https://creativecommons.org/licenses/by-nc-sa/4.0",
+  "url_legal": "https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.es"
+ },
+ "fuente": {
+  "url": "https://bajoelvolcanx.buap.mx/index.php/bajovolc/article/download/866/765?inline=1",
+  "formato": "HTML",
+  "plataforma": "ojs-galerada",
+  "pagina": "https://bajoelvolcanx.buap.mx/index.php/bajovolc/article/view/866"
+ },
+ "autores_cita": [
+  {
+   "apellidos": "Sánchez Sánchez",
+   "nombre_pila": "David",
+   "nombre": null
+  },
+  {
+   "apellidos": "Rodriguez Esparza",
+   "nombre_pila": "Manuel Fernando",
+   "nombre": null
+  }
+ ],
+ "avisos_derechos": [
+  "Derechos de autor 2026 David Sánchez Sánchez, Manuel Fernando Rodríguez Esparza",
+  "Licencia Derechos de autor 2026 David Sánchez Sánchez, Manuel Fernando Rodríguez Esparza Esta obra está bajo una licencia internacional Creative Commons Atribución-NoComercial-CompartirIgual 4.0. Las autoras y los autores conservan los derechos de autor sobre su obra y ceden a Bajo el Volcán. Revista del Posgrado de Sociología. BUAP únicamente el derecho de primera publicación. Revista de acceso abierto diamante: sin costo para autoras, autores ni personas lectoras."
+ ],
+ "idioma_principal": "es",
+ "indice": [
+  {
+   "id": "t-seccion-1",
+   "nivel": 2,
+   "texto": "Juventudes rurales y diversidad sexual desde la experiencia de “Cuquío Pride” en Jalisco, México",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-2",
+   "nivel": 3,
+   "texto": "INTRODUCCIÓN",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-3",
+   "nivel": 3,
+   "texto": "CONSIDERACIONES METODOLÓGICAS",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-4",
+   "nivel": 3,
+   "texto": "LA CONDICIÓN JUVENIL RURAL PARA COMPRENDER EL CONTEXTO DE LA MARCHA “CUQUÍO PRIDE”",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-5",
+   "nivel": 3,
+   "texto": "ANTECEDENTES DE LA MARCHA",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-6",
+   "nivel": 3,
+   "texto": "PARTICIPACIÓN OBSERVANTE: PONIENDO EL CUERPO Y LA MIRADA EN EL DÍA DE LA MARCHA",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-7",
+   "nivel": 3,
+   "texto": "¿QUÉ DECIR CUANDO ESTEMOS AHÍ? CONSTRUYENDO EL PRIMER DISCURSO POLÍTICO DE LA DIVERSIDAD EN CUQUÍO",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-8",
+   "nivel": 3,
+   "texto": "DE LA EXPERIENCIA LOCAL A LA ARTICULACIÓN REGIONAL: LA RED JALISCO PRIDES",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-9",
+   "nivel": 3,
+   "texto": "CONCLUSIONES",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-10",
+   "nivel": 3,
+   "texto": "REFERENCIAS",
+   "lang": null
+  }
+ ],
+ "vueltas": {},
+ "contenido": [
+  "\n",
+  [
+   "section",
+   {},
+   "\n",
+   [
+    "strong",
+    {},
+    [
+     "em",
+     {},
+     "Bajo el Volcán. Revista del Posgrado de Sociología. BUAP"
+    ]
+   ],
+   ", Año 7, Núm. 14, mayo – octubre de 2026, pp. 127-163.",
+   [
+    "br",
+    {}
+   ],
+   "e-ISSN 2954-4300 · ",
+   [
+    "a",
+    {
+     "href": "https://doi.org/10.32399/ICSYH.bvbuap.2954-4300.2026.7.14.866"
+    },
+    "https://doi.org/10.32399/ICSYH.bvbuap.2954-4300.2026.7.14.866"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Dossier temático"
+   ],
+   "\n",
+   [
+    "h2",
+    {
+     "id": "t-seccion-1"
+    },
+    "Juventudes rurales y diversidad sexual desde la experiencia de “Cuquío Pride” en Jalisco, México"
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Rural youth and sexual diversity from the experience of “Cuquío Pride” in Jalisco, Mexico"
+   ],
+   "\n",
+   "\n",
+   [
+    "p",
+    {},
+    [
+     "span",
+     {},
+     "David Sánchez Sánchez"
+    ],
+    [
+     "br",
+     {}
+    ],
+    [
+     "span",
+     {},
+     "Universidad de Guadalajara, Guadalajara, México"
+    ],
+    [
+     "br",
+     {}
+    ],
+    [
+     "span",
+     {},
+     "ORCID: ",
+     [
+      "a",
+      {
+       "href": "https://orcid.org/0000-0002-8725-2053"
+      },
+      "https://orcid.org/0000-0002-8725-2053"
+     ]
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    [
+     "span",
+     {},
+     "Manuel Fernando Rodríguez Esparza"
+    ],
+    [
+     "br",
+     {}
+    ],
+    [
+     "span",
+     {},
+     "Tecnológico Superior de Jalisco, Unidad Académica Cuquío, Cuquío, México"
+    ]
+   ],
+   "\n",
+   "\n",
+   [
+    "p",
+    {},
+    "david.sanchez@academicos.udg.mx"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "fernandorodsparza@gmail.com"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Recibido: 15/11/2025 "
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Aceptado: 23/03/2026"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "RESUMEN"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "El artículo presenta una reflexión analítica sobre la experiencia de la primera marcha de la diversidad sexual realizada en el municipio rural de Cuquío, Jalisco, México, en junio de 2021. A partir de un enfoque cualitativo que articula autoetnografía, participación observante y escritura colaborativa entre los autores, se recupera el proceso organizativo y los significados construidos en torno a este acontecimiento. El análisis muestra las implicaciones de abrir un espacio de posicionamiento público para la visibilidad de la diversidad sexual en un contexto rural ranchero históricamente conservador, donde juventudes locales se atreven a cuestionar los roles de género tradicionales y el lugar marginal asignado a las identidades sexo-genéricas disidentes. Desde el concepto de condición juvenil rural, se argumenta que, aunque las trayectorias juveniles están atravesadas por condiciones estructurales y territoriales específicas, experiencias como esta permiten observar cómo las juventudes pueden constituirse como actores sociales capaces de disputar sentidos culturales, abrir espacios de visibilidad y reconfigurar simbólicamente el espacio público en sus territorios de origen."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    [
+     "em",
+     {},
+     "Palabras clave:"
+    ],
+    " Juventudes rurales, diversidad sexual, acción colectiva juvenil, condición juvenil rural, autoetnografía"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "ABSTRACT"
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "This article presents an analytical reflection on the experience of the first sexual diversity march held in the rural municipality of Cuquío, Jalisco, Mexico, in June 2021. Drawing on a qualitative approach that combines autoethnography, observant participation, and collaborative writing between the authors, the paper reconstructs the organizational process and the meanings built around this event. The analysis highlights the implications of opening a space for public positioning and visibility of sexual diversity in a historically conservative ranchero context, where local youth dare to challenge traditional gender roles and the marginal place historically assigned to sex-gender dissident identities. From the perspective of the concept of rural youth condition, the article argues that although youth trajectories are shaped by specific structural and territorial conditions, experiences such as this one reveal how young people can constitute themselves as social actors capable of disputing cultural meanings, opening spaces of visibility, and symbolically reconfiguring public space within their territories of origin."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    [
+     "em",
+     {},
+     "Keywords:"
+    ],
+    " Rural youth, sexual diversity, youth collective action, rural youth condition, autoethnography."
+   ],
+   "\n",
+   [
+    "h3",
+    {
+     "id": "t-seccion-2"
+    },
+    "INTRODUCCIÓN "
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "En la mayoría de contextos latinoamericanos, las juventudes enfrentan múltiples formas de discriminación, exclusión y precarización que atraviesan sus cuerpos, territorios y posibilidades de vida. Entre estas tensiones se encuentran aquellas relacionadas con la diversidad sexual, cuya visibilidad ha ganado presencia en distintos espacios públicos y movimientos sociales durante las últimas décadas. No obstante, gran parte de estas expresiones han sido documentadas y analizadas principalmente en contextos urbanos, mientras que las experiencias que emergen en territorios rurales continúan siendo menos visibles en la literatura académica. En el caso de las juventudes de la diversidad sexual que habitan espacios rurales, estas tensiones suelen intensificarse debido a marcos culturales conservadores, dinámicas comunitarias estrechas y limitadas condiciones para la visibilidad pública. En este escenario, resulta particularmente relevante explorar el papel que las juventudes desempeñan en la emergencia de nuevas formas de organización, visibilidad y disputa simbólica en torno a la diversidad sexual en territorios rurales, así como las respuestas colectivas que desarrollan para enfrentar dichos contextos de exclusión."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "En este contexto, el presente artículo recupera y analiza la experiencia de la primera marcha de la diversidad sexual realizada en el municipio rural de Cuquío, Jalisco, México, en junio de 2021, conocida como “Cuquío Pride”. A partir de este caso se exploran las formas en que juventudes rurales articulan prácticas de visibilidad, organización colectiva y disputa simbólica del espacio público en un contexto cultural marcado por lo que se conoce como sociedades rancheras."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Este artículo es una construcción colaborativa entre un investigador y un joven activista, quienes, junto con otros jóvenes de espacios rurales, organizaron la primera marcha del orgullo en el municipio de Cuquío, Jalisco, en junio de 2021. Reconociendo nuestra implicación en el tema —pues, como señalan los feminismos, lo personal es político— y retomando los planteamientos sobre conocimiento situado (Cruz, Reyes, y Cornejo, 2012), explicitamos nuestro lugar de enunciación y optamos por escribir en primera persona del plural. Esta decisión busca reconocer tanto los alcances como las limitaciones de lo aquí expuesto, y permite aproximarnos a la experiencia desde una perspectiva reflexiva que recupera las respuestas juveniles frente a contextos de discriminación y exclusión en territorios rurales."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Quienes escribimos somos: por un lado, un hombre adulto gay dedicado al trabajo comunitario con juventudes en espacios rurales y a la investigación académica en estudios rurales con perspectiva psicosocial, territorial, de género y generacional, quien en los últimos años ha asumido públicamente su identidad y ha desarrollado activismo en redes sociales a través de publicaciones de apoyo a la diversidad sexual en su comunidad de origen, así como cuestionamientos al patriarcado presente en este contexto agroindustrial (Sánchez, 2022). Por otra parte, un joven rural trans, egresado de ingeniería en sistemas computacionales, quien asumió públicamente su identidad de género en 2020 después de haber vivido libremente su experiencia fuera del país, cuando migró a Toronto, Canadá. Desde entonces ha tenido influencia entre otros jóvenes a través de redes sociales mediante publicaciones de apoyo, información y reconocimiento hacia la comunidad trans. Junto con otros amigos de la diversidad sexual decidió impulsar la primera marcha de la diversidad sexual en el municipio, solicitando el acompañamiento del investigador mencionado debido a su postura pública respecto al tema y a su trabajo previo con juventudes rurales en la región."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Ambos coincidimos en la necesidad de abrir espacios para la visibilidad del sector LGBTTIQ+ en los territorios rurales de los que somos originarios. Reconocemos, tanto por experiencia propia como por las amistades y vínculos cercanos que mantenemos, que la diversidad sexual continúa siendo un aspecto difícil de abordar en un contexto tan conservador como el que vivimos. Asimismo, consideramos importante la posibilidad de vivir la diversidad sexual en las comunidades de origen y no únicamente a través de la migración hacia otros espacios como las ciudades."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "El objetivo de este artículo es recuperar reflexivamente la experiencia de organización de esta marcha de la diversidad sexual, mostrando este evento como una expresión de la acción colectiva que pueden generar las juventudes rurales organizadas, así como una respuesta juvenil frente a contextos de discriminación, precarización simbólica y control social. Para analizar esta experiencia recurrimos a algunos conceptos provenientes de la propuesta de Condición Juvenil Rural (Sánchez, 2020), así como a aportes relacionados con la acción social y colectiva, las teorías de género, los feminismos y la diversidad sexual. Se trata de un artículo de carácter exploratorio, ya que las juventudes rurales —y particularmente aquellas que forman parte de la diversidad sexual— han sido históricamente invisibilizadas tanto en el campo académico como en las políticas públicas, lo que ha dificultado que se reconozcan como actores sociales específicos (Kessler, 2005). No obstante, existen experiencias juveniles significativas que merecen ser estudiadas en su complejidad, y estamos convencidos de que esta es una de ellas."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "El texto se estructura de la siguiente manera. En primer lugar, se presentan algunas nociones metodológicas sobre la forma en que realizamos este ejercicio reflexivo. Posteriormente, retomamos la propuesta de Condición Juvenil Rural para recuperar algunos conceptos que permiten interpretar y situar la experiencia en un contexto más amplio. Después se reconstruyen los días previos a la organización de la marcha a partir de una narración autoetnográfica. A continuación, se ofrece una descripción del día del evento. Más adelante se recupera el discurso político leído en la plaza municipal como expresión pública del significado de la marcha para quienes participaron. Asimismo, se presentan brevemente algunos de los efectos que tuvo esta experiencia y su articulación con una red más amplia de defensa de los derechos humanos de las diversidades en el estado de Jalisco. Finalmente, se proponen algunas reflexiones que cruzan el tema de las juventudes rurales organizadas con el de la diversidad sexual, entendida como una arena desde la cual las juventudes pueden asumirse como actores sociales concretos en la transformación de su propio territorio."
+   ],
+   "\n",
+   [
+    "h3",
+    {
+     "id": "t-seccion-3"
+    },
+    "CONSIDERACIONES METODOLÓGICAS"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Para la construcción de este artículo se recurrió a un enfoque cualitativo orientado a comprender los significados y sentidos de la marcha “Cuquío Pride” desde una perspectiva situada. El análisis se construyó a partir de la experiencia directa del investigador en el proceso organizativo y del acompañamiento al joven rural trans, quien aceptó participar en la escritura colaborativa de este artículo como una forma de dar seguimiento y sentido a su propia experiencia. Si bien el joven no cuenta con formación académica en investigación social, su voz constituye un eje central del texto, permitiendo articular vivencias juveniles, reflexividad investigativa y condiciones comunitarias y territoriales, reconociendo la implicación de quien investiga como parte del propio proceso analítico."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Ambos autores, como parte de la comunidad LGBTTIQ+ y habitantes de la región, contábamos con trayectorias previas de participación y sabíamos de la relevancia política y simbólica de una marcha del orgullo en un contexto rural. Desde una postura reflexiva (Sánchez, 2012; Preissle & DeMarrais, 2019), asumimos nuestro posicionamiento como participantes activos del proceso, lo que implicó acompañamiento al comité organizador, participación en reuniones de planeación, mediación con actores institucionales y registro sistemático de interacciones comunitarias antes, durante y después del evento."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Las reflexiones aquí presentadas se sustentan en lo que Guber (2004) denomina “participación observante”, así como en prácticas etnográficas entendidas como un espacio de coteorización entre investigadores y actores sociales (Rappaport, 2007). De manera complementaria, nos aproximamos a la autoetnografía (Ellis, Adams, & Bochner, 2010), entendida como un enfoque que busca “describir y analizar sistemáticamente la experiencia personal para comprender la experiencia cultural” (citada en Bénard, 2019). Desde esta perspectiva, la autoetnografía se concibe tanto como proceso como producto, y como una práctica que reta las formas canónicas de investigación y representación de los otros, al asumirse como un acto político, socialmente justo y consciente. Esta mirada permitió articular experiencia vivida, escritura y análisis social desde una postura reflexiva y situada."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Asumimos también nuestra presencia corporal en las prácticas (Puglisi, 2019), reconociendo que participar en la marcha implicó no solo organizarla, sino poner el propio cuerpo en una acción que desafiaba normas locales profundamente arraigadas. Esta exposición generó emociones como miedo y ansiedad ante posibles reacciones violentas, conectándonos con memorias previas de rechazo y confusión vividas desde la infancia, las cuales fueron incorporadas como parte del análisis."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Finalmente, el trabajo se inscribe en una perspectiva colaborativa y horizontal (Corona y Kaltmeier, 2012), desde la cual se convocó a la escritura conjunta del artículo como ejercicio de reflexión situada. Para el análisis retomamos la propuesta de Reguillo (2012), quien plantea leer las prácticas juveniles desde una doble perspectiva: situacional y contextual-relacional. La primera implica el análisis intragrupal de colectivos específicos y de los elementos extragrupales relevantes para comprender su conformación, así como la exploración de las distintas adscripciones identitarias que se expresan en un contexto sociocultural particular. La segunda supone ubicar los elementos políticos, económicos, culturales y sociales como condiciones para la emergencia, expresión y sostenimiento de ciertas identidades sociales, además de dialogar con la memoria histórica de los procesos para comprender continuidades y rupturas, evitando lecturas descontextualizadas que separan los eventos de las trayectorias sociales que les dan sentido. Esta doble mirada orienta la lectura del Cuquío Pride tanto en su emergencia concreta como en su inscripción en tramas comunitarias, generacionales y territoriales más amplias, funcionando también como clave interpretativa para el conjunto del artículo."
+   ],
+   "\n",
+   [
+    "h3",
+    {
+     "id": "t-seccion-4"
+    },
+    "LA CONDICIÓN JUVENIL RURAL PARA COMPRENDER EL CONTEXTO DE LA MARCHA “CUQUÍO PRIDE”"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "En este apartado recuperamos algunos elementos de la propuesta de Condición Juvenil Rural (Sánchez, 2020) que permiten situar el contexto social y cultural en el que se desarrolla la experiencia que analizamos. Aunque se presenta como marco conceptual, estos elementos se irán articulando con aspectos concretos de la organización de la marcha, pues nuestro interés no es separar estrictamente teoría y experiencia, sino utilizar estos conceptos como una lente para interpretar el proceso vivido."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Hablar de juventudes rurales continúa siendo un tema relativamente marginal en las ciencias sociales. Los procesos hegemónicos de urbanización han situado el centro de gravedad del conocimiento en los fenómenos que ocurren en las grandes ciudades, mientras que en los estudios de juventud han predominado análisis sobre tribus y culturas juveniles urbanas (Reguillo, 2012). Diversos trabajos han señalado la invisibilización histórica de las juventudes rurales (Durston, 1998; Kessler, 2005; Pacheco, 2010), e incluso se llegó a plantear que en estos contextos la juventud como etapa diferenciada apenas existía, debido a la ausencia de moratoria social y a la incorporación temprana de niños y niñas a las labores productivas (López, 2010)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Sin embargo, en las últimas décadas se han producido transformaciones importantes en los territorios rurales latinoamericanos. En el caso de la región que analizamos, desde los años ochenta comenzó un proceso creciente de escolarización y agroindustrialización que abrió nuevas dinámicas para las y los jóvenes. A inicios de este siglo el acceso a la educación media superior y universitaria se amplió, lo que permitió la emergencia de nuevas aspiraciones y trayectorias juveniles. En este contexto fue configurándose una condición juvenil rural particular (Caggiani, 2004), caracterizada por mayor movilidad social, incremento de la migración y acceso a mayores niveles de educación. En pocas generaciones, estas transformaciones contribuyeron a la consolidación social de la juventud rural en la región (Sánchez, 2020)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Para comprender esta condición juvenil en lo rural se ha propuesto abordarla a partir de tres dimensiones interrelacionadas. La dimensión estructural se refiere a los cambios asociados a los procesos de desarrollo rural y posteriormente al neoliberalismo. La dimensión territorial permite observar cómo esos procesos estructurales se expresan de manera particular en cada contexto rural, en relación con su medio ambiente y con las prácticas culturales que emergen de la interacción entre las personas y su territorio. Finalmente, la dimensión intersubjetiva permite comprender los sentidos que se construyen en la interacción social y las formas en que las juventudes reaccionan frente a estas condiciones, pudiendo constituirse como actores sociales en sus propios contextos (Sánchez, 2020)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "La zona que analizamos está conformada por los municipios de Cuquío e Ixtlahuacán del Río. Desde las dimensiones estructural y territorial, se trata de un territorio profundamente transformado por el desarrollo rural hegemónico, que impulsó un sistema agroindustrial basado principalmente en el monocultivo de maíz. Este proceso ha tenido diversas consecuencias socioambientales, entre ellas la contaminación por agroquímicos, y también efectos sociales como el incremento de la migración debido a la exclusión de parte de la población de los trabajos agrícolas tradicionales. Estos cambios socioeconómicos tienen también un correlato cultural y simbólico que articula lo estructural, lo territorial y lo intersubjetivo, y que se relaciona con lo que antropológicamente se ha denominado sociedades rancheras."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Las sociedades rancheras presentan características distintas a otras formas de ruralidad presentes en México, como la campesina o la indígena (Barragán, 1997). Históricamente se han asociado a formas de producción agrícola y ganadera que, desde narrativas regionales y nacionales, fueron diferenciadas —no pocas veces de manera racializada— de las comunidades indígenas del centro y sur del país (Fábregas, 1986). En estas regiones la vida social suele organizarse en torno a unidades familiares más que comunitarias (Shadow, 1994), lo que se combina con una fuerte impronta patriarcal y una presencia significativa del catolicismo en la vida cotidiana."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Desde la dimensión intersubjetiva, estas sociedades también han sido representadas simbólicamente a través de diversas narrativas culturales. En particular, el cine mexicano de la llamada época de oro contribuyó a consolidar la figura del ranchero como imagen emblemática de la masculinidad nacional (Pérez Montfort, 2013). A través de películas, música y otros imaginarios culturales, se difundió un modelo de hombría asociado al charro, que reforzó estereotipos de género profundamente arraigados. Expresiones como “Jalisco no se raja” condensan esta representación simbólica de una masculinidad considerada fuerte y valiente, mientras que la exaltación de la belleza femenina en concursos locales refuerza la construcción de roles de género tradicionales (Palomar, 2005). En conjunto, estos elementos permiten entender la configuración cultural de las sociedades rancheras como espacios marcados por fuertes rasgos patriarcales, conservadurismo moral y apego a la religión católica."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Este recuento histórico del territorio permite dimensionar la carga simbólica que implica que un grupo de jóvenes de distintas comunidades rurales se organice para realizar una marcha de la diversidad sexual. En este sentido, Lourdes Pacheco señala que las juventudes rurales atraviesan una transición desde formas tradicionales de organización social hacia escenarios donde las formas de participación deben reinventarse:"
+   ],
+   "\n",
+   [
+    "blockquote",
+    {},
+    "\n",
+    [
+     "p",
+     {},
+     "La transformación principal que experimentan los jóvenes rurales en cuanto a la construcción de sociedad es el tránsito de la sociedad autoritaria tradicional […] a una sociedad donde el propio sentido de convivencia local rural cambia el sentido de aquella […] Son los jóvenes rurales los que tienen que hacer los ajustes en las nuevas formas de participación para lograr acomodarse a las nuevas situaciones (Pacheco, 2010: 134)."
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Esta reflexión permite comprender por qué prácticas como las marchas del orgullo, asociadas principalmente a contextos urbanos, adquieren significados distintos cuando se realizan en localidades rurales. Mientras que en las ciudades estos eventos pueden desarrollarse en contextos de anonimato, en pueblos pequeños como Cuquío implican exponerse públicamente frente a familiares, vecinos y conocidos. De este modo, el acto de marchar adquiere un carácter particularmente visible y contestatario."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Desde la dimensión intersubjetiva de la condición juvenil rural, las relaciones intergeneracionales en estos contextos suelen estar atravesadas por jerarquías asociadas tanto al patriarcado como al adultocentrismo. Como señala Amaia Pérez Orozco (2014), el sujeto político ideal del sistema capitalista puede resumirse en la figura del “BBVAh” (Blanco, Burgués, Varón, Adulto y heterosexual). Quienes quedan fuera de ese ideal —por edad, género, sexualidad o condición social— tienden a ocupar posiciones subordinadas dentro del orden social."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "En territorios rurales como el que analizamos, estas jerarquías se expresan en relaciones familiares y comunitarias donde los adultos buscan preservar determinados órdenes sociales. El adultocentrismo puede entenderse, en este sentido, como una matriz sociocultural que organiza las relaciones sociales estableciendo la subordinación de quienes son considerados menores o dependientes (Duarte, 2006). La exploración y expresión pública de la diversidad sexual por parte de jóvenes rurales interpela directamente estas jerarquías, generando tensiones intergeneracionales y cuestionando los roles de género tradicionales."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Al mismo tiempo, las transformaciones recientes en las sociedades rurales también han abierto espacios para cambios en estas relaciones. El aumento de la escolarización ha permitido que cada vez más mujeres y jóvenes accedan a nuevas experiencias y perspectivas sobre el género y la sexualidad (Núñez, 2017; Bautista, 2018). Asimismo, la migración y el acceso a contextos urbanos han permitido a algunos jóvenes explorar con mayor libertad su sexualidad, generando procesos de cuestionamiento y negociación de los roles familiares y comunitarios (Hernández- Guerrero et al., 2014)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Desde esta perspectiva, la expresión pública de la diversidad sexual por parte de las juventudes rurales puede entenderse como parte de estos procesos de transformación. Las juventudes no sólo experimentan las condiciones estructurales de sus territorios, sino que también despliegan formas de acción social que les permiten disputar sentidos y abrir nuevos espacios de participación. En palabras de Reguillo (2010), se trata de reconocer los dispositivos de apropiación o resistencia mediante los cuales las juventudes encaran los órdenes sociales que las interpelan."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Desde esta mirada, la primera marcha de la diversidad sexual Cuquío Pride puede entenderse como uno de estos dispositivos desplegados por las juventudes rurales del territorio. A través de esta acción colectiva, un grupo de jóvenes decidió disputar simbólicamente el espacio público y abrir un lugar de visibilidad para la diversidad sexual en un contexto cultural históricamente conservador. A continuación, pasaremos a narrar el proceso que dio origen a esta experiencia."
+   ],
+   "\n",
+   [
+    "h3",
+    {
+     "id": "t-seccion-5"
+    },
+    "ANTECEDENTES DE LA MARCHA"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "En esta sección recuperamos la serie de situaciones que antecedieron a la organización de la marcha, la cual fue impulsada de manera emergente a inicios de junio de 2021. Interpelados por la pregunta planteada por Spivak acerca de si el subalterno puede hablar (Spivak, 1988), buscamos generar un espacio donde la experiencia no sea narrada únicamente desde la voz del investigador, sino también desde quien vivió y protagonizó el proceso organizativo, reconociendo la autoría en el texto."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "En este sentido, retomamos la clave metodológica propuesta por Rufer (2012), quien plantea que la horizontalidad en el trabajo etnográfico implica asumir la escucha como una decisión política y una toma de posición, capaz de incorporar la diferencia, la ambivalencia y la contradicción como parte constitutiva del registro y la escritura. Desde esta perspectiva, consideramos que la narración en primera persona del joven activista no funciona únicamente como testimonio, sino como una forma de interpretación situada del proceso vivido."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Por ello, en los siguientes párrafos retomamos su voz a manera de narrativa experiencial, recuperando su papel como activista e iniciador del movimiento:"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Una noche, ya iniciado el mes del orgullo, en medio de una conversación muy cotidiana entre mi amigo Emmanuel Rubio (quien fue una parte importante para que sucediera el evento), añorábamos la libertad que tuvimos cuando vivimos en Toronto, Canadá. Entonces nació la inquietud del por qué era tan difícil o lejano que existiera una marcha del orgullo en el pueblo, a lo cual le dije: pues hay que hacerlo nosotros, hay que organizarnos y hagámoslo, no es imposible. Él dijo: sí, hagámoslo."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Entonces, en ese mismo momento, a pesar de ser un poco tarde, como a las 11 p.m. creamos el primer grupo en WhatsApp de personas LGBTTIQ+ que conocíamos y eran del municipio y sus alrededores. Agregamos alrededor de 30 jóvenes. Les escribimos nuestras propuestas y todo mundo resultó encantado con la idea, todos querían que pasara y, en ese momento, nos sentimos con el valor de hacerlo no solo por nosotros sino por todos aquellos que estaban compartiendo emociones y vivencias con nosotros. Poco a poco llegaron muchas más personas al grupo diciendo lo emocionados que se sentían con la idea. Para que las cosas se pudieran hacer oficiales y más formales, decidimos, junto con Emmanuel, ir al Ayuntamiento de Cuquío para hablar con el presidente municipal y solicitar su apoyo en cuanto a la seguridad y respaldo necesarios en un evento de este tipo. Para nuestra sorpresa, se mostró totalmente comprensivo y cooperativo con nuestra causa, en un primer momento."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Al salir de esa oficina realizamos un pequeño video para oficializar a las personas que eran parte del grupo de WhatsApp acerca del apoyo para efectuar la marcha el 19 de junio. Para ese momento ya eran más de 80 personas integrantes."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Las reacciones fueron eufóricas y todos aportaban ideas y deseos para la marcha. Fue entonces cuando se creó el comité del colectivo Cuquío Pride. Se convocó a jóvenes activistas de otras localidades, tanto del municipio como aquellas aledañas ubicadas en Ixtlahuacán del Río y Yahualica."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Posteriormente, se tomaron acciones para difundir la marcha. Se creó en Facebook la página oficial de Cuquío Pride, la cual sirvió como vía de comunicación con el comité de organización. En tal espacio se recibieron muestras de apoyo, mensajes de reconocimiento, negocios que se sumaban a la causa y de más acciones que le dieron fuerza e impulso al proyecto. En tal medio se puso en contacto con nosotros la directiva del colectivo de Guadalajara Pride, para notificarnos que contábamos con el respaldo de todxs los colectivos y organizaciones que forman parte de una red de diversidad, a la cual nos invitaron a sumarnos."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Reconocemos que, gracias a las redes sociales el impacto y alcance de audiencia fue mayor, y favoreció que se sumaran más personas a la marcha. Asimismo, fue un espacio desde el cual nos motivamos para resistir ante los comentarios y actitudes homófobas que empezaron a recibirse. En determinado punto quisimos ",
+    [
+     "em",
+     {},
+     "tirar la toalla"
+    ],
+    " debido a que encontramos resistencia constante de parte de la comunidad religiosa del municipio y fuimos blanco de ataque en sermones de misas, publicaciones de Facebook e incluso de una petición al ayuntamiento para detener nuestro evento. Tal situación nos hizo recordar que aun la iglesia tiene mucho poder sobre los ideales de las personas en zonas rurales. Afortunadamente no tanto como para detenernos, encontramos más apoyo y muestras de afecto, mensajes de lucha de nuestra comunidad LGBTTIQ+."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Escribir estas palabras para nombrar la experiencia vivida constituye un ejercicio de diálogo y horizontalidad (Corona y Kaltmeier, 2012), que ha marcado el vínculo entre los dos autores de este texto. Se trata de un espacio construido desde la honestidad y el acompañamiento, donde el investigador reconoce y valora la experiencia del joven rural trans como parte central del proceso analítico. Esta apuesta implica no sólo recuperar su vivencia, sino también posibilitar que sea narrada en primera persona, evitando que quede mediada exclusivamente por la voz académica. En ese sentido, el artículo se construye como un ejercicio enunciado a dos voces, que busca articular experiencia juvenil y reflexión investigativa desde una perspectiva colaborativa."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Siguiendo en la narrativa etnográfica de los antecedentes de la marcha, unas semanas antes de la marcha de la diversidad ya se había dado otro evento sin precedentes. Ante el feminicidio de una joven del pueblo a manos de su pareja y las recientes desapariciones de otras, algunas mujeres jóvenes del municipio de Cuquío organizaron la primera manifestación feminista en este lugar. Ésta se da en un contexto donde a través de Facebook se exhibía una fuerte polarización en los comentarios de otras manifestaciones feministas realizadas en otras partes del país y del mundo, pero a pesar de ello, las mujeres jóvenes rurales se manifestaron. Incluso una de las organizadoras fue también impulsora y parte del comité de la marcha de la diversidad. Ello puede hablarnos de la relación estrecha entre las luchas feministas y las de la diversidad sexual, por el antagonismo en común con el machismo."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Como parte del acompañamiento brindado por el autor investigador, se hizo contacto con la Dirección Estatal de Diversidad Sexual, para fortalecer la capacidad organizativa de la incipiente iniciativa, contactando a los jóvenes con otras instancias. Esta dirección, de reciente creación, contaba con una campaña de sensibilización llamada “Jalisco de Iguales” y nos proporcionaron su apoyo y algunos carteles alusivos a la temática para difundir en el municipio. Estos posters facilitados por la institución fueron pegados en distintos puntos de la cabecera municipal de Cuquío unos días antes de la marcha. Algunos jóvenes fueron testigos de adultos que los arrancaban y tiraban a la basura, e inmediatamente compartieron el hecho en redes sociales, lo que generó una reacción positiva, pues tendió a viralizarse la publicación y comenzaron a darse mensajes de apoyo. Como se muestra en la figura 1, hubo ahí un posicionamiento frente a esas acciones que tensó las relaciones intergeneracionales, jóvenes y adultos enfrentándose. Este episodio evidenció una disputa abierta por el espacio público y por el sentido moral del municipio, tensando las relaciones intergeneracionales y visibilizando el conflicto entre juventudes que buscaban reconocimiento y adultos que defendían un orden tradicional."
+   ],
+   "\n",
+   [
+    "figure",
+    {},
+    [
+     "figura",
+     {
+      "alt": "Figura 1"
+     }
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Figura 1. Captura de la publicación viralizada. Fuente: página de Face-"
+   ],
+   "\n",
+   [
+    "blockquote",
+    {},
+    "\n",
+    [
+     "p",
+     {},
+     "book Cuquío Pride"
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "figure",
+    {},
+    [
+     "figura",
+     {
+      "alt": "Figura 2"
+     }
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Figura 2. Evolución de los logotipos propuestos en la marcha. Fuente:"
+   ],
+   "\n",
+   [
+    "blockquote",
+    {},
+    "\n",
+    [
+     "p",
+     {},
+     "Elaboración propia a partir de chat de WhatsApp de Cuquío Pride"
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Otro aspecto importante, propuesto por el investigador al grupo coordinador, fue la generación de una imagen de la marcha, se les interpelaba a la búsqueda de apropiarse de símbolos de la identidad ranchera y del municipio, como ejemplo el maíz, dada la tradición agrícola del municipio, o tomar el significado de Cuquío, como lugar de sapos, de manera que surgieron algunas propuestas de imágenes para acompañar la marcha como se puede apreciar en la Figura 2."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Durante la organización de la marcha, en el grupo de WhatsApp surgió una idea que estuvo rondando durante varios días. Algunas y algunos jóvenes plantearon la posibilidad de que la marcha fuera encabezada por alguien vestido como charro o vaquero, montado en un caballo; incluso se mencionó la opción de que participara una escaramuza, es decir, una mujer ataviada con el traje charro femenino."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "La sola idea generó mucha emoción entre las y los participantes, pero también abrió un debate. Algunas personas pensaban que un gesto así podría provocar o incomodar a “los machos” del pueblo, mientras que otras advertían que también podía generar rechazo o incluso reacciones violentas."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Más allá de si la propuesta se concretaba o no, lo que estaba en juego era la posibilidad de subvertir uno de los símbolos más representativos de la identidad ranchera. Apropiarse de la figura del charro o de la escaramuza implicaba una forma de irreverencia frente a un emblema profundamente asociado con la masculinidad tradicional y el orden social local, poniendo en tensión un símbolo histórico cargado de significados culturales y de poder."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "La figura del charro, emblema de la masculinidad ranchera y del honor tradicional, se convertía así en un terreno de resignificación. La posibilidad de que encabezara la marcha un cuerpo disidente montado a caballo implicaba disputar simbólicamente uno de los emblemas más arraigados de la identidad local. La idea finalmente no se pudo realizar, pero su aparición en las discusiones del grupo organizador nos habla de los sentidos subversivos que implicaba la marcha para estas juventudes, lo cual muestra cómo se va constituyendo la dimensión intersubjetiva en el intercambio de sentidos con otras generaciones y en el asumirse actores sociales (Sánchez, 2020)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Otra estrategia interesante desarrollada por los jóvenes de manera espontánea, fue la de publicar en la página de Facebook los distintos patrocinadores del evento, con su logotipo intervenido con los colores de la bandera de la diversidad. Los días previos a la marcha fueron sumándose más negocios locales con algún apoyo material o simbólico. Ejemplo de ello, la Figura 3."
+   ],
+   "\n",
+   [
+    "figure",
+    {},
+    [
+     "figura",
+     {
+      "alt": "Figura 3"
+     }
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Figura 3. Logotipos de algunos emprendimientos locales que apoyaron y patrocinaron la marcha intervenidos con la bandera de la diversidad"
+   ],
+   "\n",
+   [
+    "blockquote",
+    {},
+    "\n",
+    [
+     "p",
+     {},
+     "sexual. Fuente: Página de Facebook Cuquío Pride."
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Esta acción simbólica tuvo al menos dos efectos, primero despertó el interés de más negocios por apoyar el evento y promocionarse, ya que algunos negocios locales buscaron contacto con la organización y se ofrecieron espontáneamente a ayudar; mientras que por el lado de las juventudes el ver que había cada vez más negocios sumándose fue vivido como un respaldo que se festejaba colectivamente cada que, por el chat, se compartía un nuevo patrocinador."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Todo lo anteriormente narrado se dio en menos de tres semanas, tiempo en el cual las y los jóvenes se fueron involucrando de variadas maneras en la organización del evento, mostrando cada vez más afectividad e involucramiento. Resaltamos que son tres semanas de organización, porque nos parece poco tiempo si lo ponemos en contraste con la tradición conservadora histórica del pueblo. Sabemos que Cuquío es un pueblo pequeño de tradiciones y culturas arraigadas y muy patriarcales, machistas y a veces muy doble moral. Constantemente nos hacen vivir con el miedo a ser juzgados o rechazados, o violentados de alguna manera, invalidando nuestras identidades o preferencias. Muchas veces nos detenemos de hacer ciertas cosas preocupados por la reacción que pueda tener la sociedad en el pueblo, caminar de la mano con tu pareja, darle un beso, ciertas maneras de vestir, etc. Por ejemplo, el temor que se tenía a hacer el Pride y la preocupación constante que hemos tenido de vivirnos en nuestros territorios, por eso sentimos al igual que en otros lugares que"
+   ],
+   "\n",
+   [
+    "blockquote",
+    {},
+    "\n",
+    [
+     "p",
+     {},
+     "a veces, la vida rural es dura: llena de sacrificios, normas asfixiantes y aislamiento social. Es aún más difícil ser homosexual, trans, bisexual, queer o cualquier otra identidad sexual o de género (in)imaginable que disida del cisheteropatriarcado. El miedo arraigado a ser juzgadxs, rechazadxs, agredidxs y asesinadxs nos empuja a permanecer en silencio. Esa sensación paralizadora y la falta de referentes nos hacen interiorizar la vergüenza y nos empujan hacia la desexualización, la alienación y la soledad, que a menudo culminan con el éxodo rural. (ECVC, 2021)"
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "De ahí que consideramos que es valiosa la experiencia analizada en este artículo, porque el atrevimiento de las juventudes rurales contrasta con lo típico, y hace que nos cuestionemos y que expresemos algunas de nuestras realidades y la necedad de no querer resignarnos a ellas, tomando las calles y haciendo pública nuestra postura. Este posicionamiento nos sitúa como actores sociales juveniles rurales que no solo expresan una identidad, sino que disputan activamente el sentido del territorio y del espacio público. La marcha no fue únicamente un evento simbólico, sino un ejercicio de agencia colectiva que cuestionó la tradición dominante y abrió posibilidades concretas para reconfigurar las relaciones sociales locales."
+   ],
+   "\n",
+   [
+    "h3",
+    {
+     "id": "t-seccion-6"
+    },
+    "PARTICIPACIÓN OBSERVANTE: PONIENDO EL CUERPO Y LA MIRADA EN EL DÍA DE LA MARCHA"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Durante esta sección del artículo, mostramos una recuperación del día del evento, a manera de descripción etnográfica, a partir de las notas de campo que recolectó uno de los autores y la reconstrucción en conjunto que realizamos para la escritura de este artículo. Por ello, para reconstruir la experiencia de la jornada, decidimos seguir la escritura de manera narrativa."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "El día de la marcha comenzó con un clima que amenazaba con obligarnos a cancelarla, pues llovía con fuerza debido a un huracán que entraba por el Pacífico. Conforme pasaban las horas comenzamos a considerar la posibilidad de realizar una caravana de autos si el temporal no mejoraba. Mientras tanto, en el grupo de Whats- App empezaron a circular mensajes con comentarios que algunos integrantes recibían, como: “está lloviendo porque Dios los castiga para que no hagan sus locuras” o “Dios no quiere que lo hagan”. Estas reacciones nos resultaban particularmente llamativas porque, paradójicamente, desde hace tiempo es común escuchar en las comunidades de la región frases como: “en este rancho no llueve porque hay muchos jotos”, expresiones que más de uno dentro de la comunidad LGBTTIQ+ ha escuchado en distintos momentos. De modo que, en esa ocasión, para el catolicismo ranchero parecía operar un nuevo castigo divino: pasar de no llover a llover demasiado."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Más tarde el clima mejoró y nos permitió hacer la marcha a la cual asistieron en su arranque un aproximado de 20 personas, pero pudimos darnos cuenta de que a medida que avanzábamos las personas salían a las calles a vernos y aplaudir nuestra valentía, muchas de ellas con mensajes de admiración y respeto, en ningún momento fuimos agredidos como se temía que pudiera pasar."
+   ],
+   "\n",
+   [
+    "figure",
+    {},
+    [
+     "figura",
+     {
+      "alt": "Figura 4"
+     }
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Figura 4. Arranque de la marcha. Fuente: Archivo de Cuquío Pride."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Muchos de los que marchamos fuimos acompañados por personas de nuestra familia, en mi caso (joven activista) tuve el honor de ir con mis hermanas, otros chavos fueron con sus mamas y hermanos, sus amigos quienes no eran personas LGBTTIQ+ pero alguien a quien aman sí."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "La marcha fue algo silenciosa, a diferencia de los Prides en las grandes ciudades, solo se gritaron algunas consignas, pero en realidad lo importante fue el acto de tomar conscientemente la calle y hacerse visibles. La pura presencia ya estaba diciendo el mensaje y algunas familias salieron a ver, a pesar del clima lluvioso. Las y los jóvenes repartían algunos volantes de información básica sobre cada una de las letras LGBTTIQ+, y las personas los recibieron de buena manera. Una de las participantes de la marcha lo relataba de esta manera “Me sentía súper feliz, porque además de mí, había un montón de personas que se sentían identificadas, sentía que encajaba en ese grupo social, me llamó mucho la atención que hay much@s que está fuera del clóset y que no tienen miedo demostrar quiénes son realmente, los admiro.”"
+   ],
+   "\n",
+   [
+    "figure",
+    {},
+    [
+     "figura",
+     {
+      "alt": "Figura 5"
+     }
+    ]
+   ],
+   "\n",
+   [
+    "figure",
+    {},
+    [
+     "figura",
+     {
+      "alt": "Figura 6"
+     }
+    ]
+   ],
+   "\n",
+   [
+    "blockquote",
+    {},
+    "\n",
+    [
+     "p",
+     {},
+     "Figura 5 detalles de la marcha. Fuente: Archivo Cuquío Pride"
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "El marchar por una causa que es tan importante y vivida para uno, teniendo el apoyo y respaldo de las personas que más quieres y con las que vives día a día es el sentimiento más vitalizante. Por parte de un autor, mi masculinidad como hombre trans no estaba en cuestión y por primera vez olvide por un momento que tenía ciertas diferencias. El respeto a identidades, preferencias y gustos hace un espacio seguro. Por parte del otro autor, asumirme como hombre adulto gay profesionista que apoya y acompaña la causa fue fortalecedor."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Pudimos observar que cuando nos juntamos o estuvimos ya reunidos para empezar la marcha, estábamos felices y eufóricos, había toda esta “buena vibra”, juntos nos sentíamos fuertes, protegidos y respaldados, a cualquiera que miraras tenía una sonrisa y portaban orgullosos sus artículos LGBTTIQ+, una camisa o una bandera, o un maquillaje, etc. Reconociendo con ello que la afectividad nos fortalecía como actores sociales que se posicionaban intersubjetivamente."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "El poder vivir en conjunto una marcha significó el poder decir sin temor qué eres y qué te gusta al menos un día, cuando estas rodeado de más personas que son como tú, por fin puedes sentir que encajas en algo o que perteneces. Te hace sentir que eres parte de una familia en la cual nada sobre ti es juzgado, sino que eso te hace sobresalir y es motivo de admiración."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Un aspecto que pudimos observar fue que la mayor parte de las personas asistentes a la marcha eran jóvenes menores de 25 años. Esto resultaba llamativo si consideramos que conocemos a varias personas adultas de la diversidad sexual en el municipio —algunas de ellas incluso profesionistas que participan en marchas en Guadalajara—, pero que prácticamente no estuvieron presentes en esta ocasión. Una posible explicación es que las marchas en las ciudades ofrecen mayores niveles de anonimato, mientras que en el pueblo la exposición pública implica desafiar relaciones más cercanas, como las laborales o familiares, algo que muchas personas adultas de la diversidad sexual de origen rural no siempre están dispuestas a asumir. En contraste, la generación más joven parece mostrarse más contestataria frente a los mandatos tradicionales de género. Curiosamente, en la fiesta posterior a la marcha sí se observó una mayor presencia de personas adultas e incluso de algunos hombres heterosexuales. Esto sugiere que la marcha constituye una postura política que interpela directamente a la sociedad ranchera de Cuquío, y que no es asumida de la misma manera por todas las generaciones. En este sentido, la experiencia se relaciona con el eje intergeneracional de la dimensión intersubjetiva planteada en la condición juvenil rural (Sánchez, 2020), donde las generaciones más jóvenes tienden a mostrar mayor irreverencia frente a estos temas, mientras que en generaciones mayores la vivencia de la sexualidad suele desplazarse hacia espacios más discretos o marginalizados."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "La marcha terminó en la plaza municipal de la cabecera municipal de Cuquío, a pesar de los rumores de que la iglesia rechazaba la marcha y no permitiría tal evento en horarios de misa. Aun así, se leyó un discurso que resultó emotivo para alrededor de 40 espectadores que ya había en la plaza, y cerca, en el atrio de la iglesia un círculo de hombres adultos, salidos del templo observaban todo junto con un sacerdote."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Posterior a la marcha, se organizó una fiesta en una discoteca cercana. En dicha fiesta hubo más asistencia, y la euforia de saberse en el día del orgullo de Cuquío estuvo presente todas las horas que duró el evento a través de bailes, encuentros, socialización, flirteos, sorpresa de encontrarse."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "En la fiesta pudimos conocer a distintas personas, entre ellas llamó la atención una chica trans de origen indígena, que asistió al evento y nos estuvo conversando de su salida de la comunidad donde vivía, para dedicarse a ser jornalera agrícola, lo cual le representó una mayor libertad para la expresión de su sexualidad. Ahí nuevamente aparece la experiencia migratoria, llamada por algunos autores como “sexilio” (Zuñiga, 2020), haciendo referencia a la migración por las dificultades que enfrentan las personas diversas para poder ejercer su sexualidad que desafía lo heteronormativo en sus lugares de origen."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "La fiesta fue un ejercicio de desahogo colectivo, como un carnaval, permitió vivir experiencias que antes no se habían vivido en el municipio, una de las asistentes lo expresaba así “fue de los momentos más divertidos y empoderadores que he vivido, es muy emocionante ver tanta diversidad y me sentí muy feliz.”; otro asistente coincide y dice “Realmente me sentí súper feliz. Espero y se siga realizando. Conocí a varias personas.”"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "En esta narración de corte etnográfico se pretendió resaltar los distintos elementos que conforman la condición juvenil rural, desde la cual las y los jóvenes de Cuquío llevaron a cabo este acto que les volvió por una temporada, actores sociales y políticos en una sociedad adultocéntrica que les dificulta expresar su identidad y expresiones sexuales. De acuerdo con la propuesta de condición juvenil rural, reconocer, escuchar y comprender estos fenómenos es parte de comprender a las juventudes rurales como actores sociales con posibilidades de tomar este y otros temas que les interesan y confrontar el contexto social que les rodea."
+   ],
+   "\n",
+   [
+    "h3",
+    {
+     "id": "t-seccion-7"
+    },
+    "¿QUÉ DECIR CUANDO ESTEMOS AHÍ? CONSTRUYENDO EL PRIMER DISCURSO POLÍTICO DE LA DIVERSIDAD EN CUQUÍO"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "El ejercicio de escribir el discurso que sería leído en la plaza pública al llegar la marcha tuvo un carácter principalmente narrativo y recayó en los dos autores de este artículo, por acuerdo de los demás integrantes del comité organizador. Existía la necesidad de clarificar qué queríamos decir en una fecha que sabíamos sería significativa para quienes participábamos en la marcha. Comenzamos entonces a elaborar algunas ideas que fuimos compartiendo y discutiendo en línea durante los días previos al evento. Se trató de un proceso de escritura desde nuestras propias experiencias, pero también con la intención de incorporar las voces y preocupaciones de otras personas de la comunidad con las que hemos convivido."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "En ese sentido, la elaboración del discurso fue un ejercicio colaborativo y horizontal. Siguiendo los planteamientos de Rufer (2012), la construcción de este texto implicó reconocer, por parte del investigador, el lugar de privilegio desde el cual se produce el trabajo de campo, el registro y la escritura, y trabajar reflexivamente a partir de él. Como señala el autor, se trata de “asumir y explicitar en los procedimientos de escritura […] el lugar que habitamos: el del privilegio que condiciona el diálogo” (Rufer, 2012)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Antes incluso de pensar en la escritura de este artículo, lo que existía entre nosotros era una postura política de involucramiento y apoyo, así como la decisión de ejercer “la escucha como un registro de la diferencia: entrenarse en la complejidad para escuchar la hibridez y su dimensión política” (Rufer, 2012). Antes de reconocernos como coautores, nos asumimos primero como compañeros de una lucha común, aunque la enfrentáramos desde trayectorias y posiciones distintas, intentando decir algo que nos representara a nosotros y también a otras personas de la diversidad sexual que conocemos en la región. En ese proceso, el investigador mantuvo una vigilancia constante para “no ocultar lo que se oye cuando esto contradice y torsiona eso que suponíamos de un sujeto que resolvía fácilmente nuestras inquietudes académicas sobre identidad, cultura y poder” (Rufer, 2012)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Por estas razones consideramos importante reproducir aquí el discurso leído durante la marcha. En primer lugar, porque constituye una voz colectiva sobre el sentido mismo de esta movilización: aunque los autores redactamos el texto inicial, éste fue leído, comentado y corregido en conjunto dentro del grupo de WhatsApp del comité organizador. En segundo lugar, porque nos interesa que este pronunciamiento quede registrado en un espacio como el de este artículo, como un acto político de memoria y resistencia que pueda dialogar con otras experiencias de diversidad sexual en territorios rurales. En tercer lugar, porque responde a una decisión metodológica y ética orientada a reconocer la agencia de los sujetos involucrados en el proceso."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "A continuación se reproduce íntegramente el discurso leído en la plaza pública:"
+   ],
+   "\n",
+   [
+    "blockquote",
+    {},
+    "\n",
+    [
+     "p",
+     {},
+     "“Buenas tardes tengan todos los presentes. Agradecemos su presencia, participación y apoyo a todos los asistentes a este primer evento de Cuquío Pride."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "En Cuquío, Ixtlahuacán y Yahualica, nuestros pueblos y comunidades han sido ambientes difíciles para vivir nuestros amores y nuestras identidades, pues la violencia machista"
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "que nos rodea nos ha orillado a escondernos, a simular, a tratar de agradar, a fingir ser quienes no somos, por ignorancia o por miedo, a veces caemos en la trampa de querer esconder nuestra forma de ser, a pesar de que no dañamos a nadie."
+   ],
+   "\n",
+   [
+    "blockquote",
+    {},
+    "\n",
+    [
+     "p",
+     {},
+     "Pero aquí estamos, formamos parte de las escuelas,"
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "de los grupos juveniles religiosos, organizamos eventos, coronaciones, desfiles, concursos, maquillamos, bailamos, jugamos futbol, estudiamos, nos involucramos en actividades culturales, cuidamos a nuestros familiares enfermos, escuchamos a nuestras amigas, estamos por todos lados, a veces más vistosos a veces más escondidos, y a nuestras espaldas hablan de nosotros, se preguntan sobre nuestras intimidades, pero hoy queremos hablar por nosotros y desde nosotros mismos."
+   ],
+   "\n",
+   [
+    "blockquote",
+    {},
+    "\n",
+    [
+     "p",
+     {},
+     "Reconocernos y aceptarnos forma parte de la diversi-"
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "dad, es un proceso personal pero también es colectivo, si lo vivimos en soledad nos da miedo, pero si lo compartimos nos damos cuenta que no somos los únicos y nos da poder. No necesitamos pedir permiso para ser libres, queremos un mundo donde quepan muchos mundos, es urgente construirlo y sin diversidad no es posible."
+   ],
+   "\n",
+   [
+    "blockquote",
+    {},
+    "\n",
+    [
+     "p",
+     {},
+     "Durante mucho tiempo hemos dejado que la lucha por"
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "nuestros derechos y nuestra libertad fuera comandada por otros activistas de la comunidad y sobre todo en las ciudades donde varios de nosotros encontramos un respiro para expresarnos, pero el día de hoy somos nosotros mismos quienes hemos decidido protagonizar nuestras propias luchas aquí en nuestro lugar de origen. Luchas contra nuestra familia, contra nuestros conocidos, nuestro pueblo, nuestra sociedad y quizá hasta con nosotros mismos. Porque salir a la calle y hacerte visible es un acto de valentía. El primer paso para ser libre es aceptarte a ti mismo, abrazar tus diferencias y tu diversidad, aún cuando muchas veces serás señalado o juzgado, pero déjame decirte que no estás solo tan solo mira a tu alrededor, mira que nos tienes a todos nosotros que al igual que tú somos diversos."
+   ],
+   "\n",
+   [
+    "blockquote",
+    {},
+    "\n",
+    [
+     "p",
+     {},
+     "Y eso no nos hace una minoría ni menos valiosos, visi-"
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "bles o importantes."
+   ],
+   "\n",
+   [
+    "blockquote",
+    {},
+    "\n",
+    [
+     "p",
+     {},
+     "Una vez alguien especial me dijo que las personas no"
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "tienen miedo de nuestras diferencias, sino que tienen miedo a no poder controlarnos."
+   ],
+   "\n",
+   [
+    "blockquote",
+    {},
+    "\n",
+    [
+     "p",
+     {},
+     "Y es por eso que el día de hoy quiero invitarte a que si-"
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "gamos saliendo a las calles, sigamos alzando la voz, sigamos saliendo del closet y mostrando aquello que nos hace diversos y diferentes. Esta es mi lucha, es tu lucha y es la lucha de todos aquellos que aún no son libres de ser ni de amar."
+   ],
+   "\n",
+   [
+    "blockquote",
+    {},
+    "\n",
+    [
+     "p",
+     {},
+     "Por eso hoy nos hacemos visibles y caminamos con"
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "orgullo, levantando la cara, dejando que nos vean, a pesar de las voces que nos quieren callar, el día de hoy salimos y decimos que aquí estamos, que somos parte de la diversidad humana, y tenemos derecho a vivir, una vida digna, una vida sin miedo, una vida fuera del closet."
+   ],
+   "\n",
+   [
+    "blockquote",
+    {},
+    "\n",
+    [
+     "p",
+     {},
+     "Estamos sumamente orgullosos de poder estar aquí"
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Dando la cara por la comunidad y por todos aquellos que aun no están listos para salir."
+   ],
+   "\n",
+   [
+    "blockquote",
+    {},
+    "\n",
+    [
+     "p",
+     {},
+     "Es un verdadero honor para mí el día de hoy estar pa-"
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "rado en este escenario frente a todos ustedes celebrando juntos el mes del orgullo."
+   ],
+   "\n",
+   [
+    "blockquote",
+    {},
+    "\n",
+    [
+     "p",
+     {},
+     "Quiero dar las gracias a cada uno de mis compañeros"
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "que forman parte de Cuquío Pride y a cada uno de los patrocinadores que hicieron posible que el día de hoy marcháramos juntos por la Diversidad."
+   ],
+   "\n",
+   [
+    "blockquote",
+    {},
+    "\n",
+    [
+     "p",
+     {},
+     "Damos un paso adelante hacía la transformación de este"
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "pueblo en la sensibilidad, la libertad y la comprensión sobre todo comprensión del espectro que es la sexualidad humana."
+   ],
+   "\n",
+   [
+    "blockquote",
+    {},
+    "\n",
+    [
+     "p",
+     {},
+     "Es también un gusto para mí decirles que Cuquío Pride"
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "no solo es una organización que se encargará de hacer marchas sino que en conjunto con la red de diversidad Jalisco la cual está conformada por muchas otras organizaciones como lo es impulso trans, Guadalajara Pride, Chapala Pride, Impulse y muchas otras, seguiremos trabajando para brindarles a ustedes todo el apoyo, la mejor atención y"
+   ],
+   "\n",
+   [
+    "blockquote",
+    {},
+    "\n",
+    [
+     "p",
+     {},
+     "orientación que necesiten en cuanto a temas de diversidad sexual e identidades de género."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Hoy tengo el corazón conmovido por ver lo grande y maravillosa qué es esta comunidad, por ver el apoyo y el amor que le dieron a este proyecto que inició como una idea pequeña llena de miedos y la cual pensamos que fracasaría pero el día de hoy todos ustedes demuestran que somos más que rivalidades, más que sólo desorden, más que sólo promiscuidad y todas esas etiquetas que normalmente nos son impuestos por pertenecer a la comunidad LGBTTIQ+ y que cuando uno hace las cosas con el corazón se nota y les puedo asegurar que cada uno de nosotros ha dejado el corazón en esto."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Gracias a cada uno de ustedes que hoy con orgullo y la frente en alto caminaron mostrando al mundo quien realmente son, me llena de orgullo hacer historia junto con ustedes. Gracias por formar parte de este sueño que hoy comienza."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Creo que es una gran forma de vivir luchar por ti, luchar por tus amigos, luchar por una comunidad o individuos que comparten tu experiencia, ¡luchar por dignidad y una mejor vida!"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "No dejen que nada ni nadie los haga sentir menos valiosos, válidos o importantes. Que nadie apague su brillo, ni quiera quitarles sus colores. Siéntanse orgullosos por representar una de las letras de este acrónimo de la Diversidad. Quiérete gay, acéptate lesbiana, enorgullécete bisexual, abrázate trans… Y sobre todo ámate humano. Gracias.”"
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Este discurso fue transmitido en vivo por algunos asistentes a través de la red social Facebook, donde generó diversos comentarios positivos. Un día después fue publicado en la página oficial de Cuquío Pride (https://www.facebook.com/100068847237106/videos/350417619764291) y ampliamente compartido por distintos jóvenes, ampliando el eco de lo que había ocurrido durante la marcha."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Si observamos su contenido, el discurso expresa un reconocimiento de la diversidad sexual como parte de la vida cotidiana de los pueblos. Sin haberlo planteado inicialmente de manera explícita, el texto buscaba mostrar cómo la diversidad sexual forma parte de una sociedad ranchera que suele ser representada estereotípicamente por su conservadurismo y machismo (Barragán, 1997; Fábregas, 1986; Palomar, 2005)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "La posibilidad de narrarse a sí mismos y de expresar públicamente estas experiencias frente a otros actores sociales —incluso en medio de tensiones sociales e intergeneracionales— contribuye a la emergencia de nuevos actores sociales (Osorio, 2016). En ese mismo sentido, la experiencia de Cuquío Pride se fue conectando con iniciativas similares impulsadas por jóvenes en otros municipios del estado de Jalisco, con quienes comenzamos a establecer vínculos durante este proceso organizativo."
+   ],
+   "\n",
+   [
+    "h3",
+    {
+     "id": "t-seccion-8"
+    },
+    "DE LA EXPERIENCIA LOCAL A LA ARTICULACIÓN REGIONAL: LA RED JALISCO PRIDES"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "El contacto con la Dirección Estatal de Diversidad Sexual, establecido durante la organización de la marcha, nos permitió conocer a otras juventudes que también comenzaban a organizarse en contextos rurales del estado. En menos de un mes de haber conformado el colectivo, entramos en contacto con la Red de Prides de Jalisco, lo que nos permitió reconocer que la experiencia de Cuquío formaba parte de un proceso más amplio en el estado. Ese mismo año también se organizaron por primera vez marchas de la diversidad en municipios como Ameca, Tepatitlán de Morelos, El Grullo, Atotonilco el Alto, Cocula, Poncitlán, Autlán y Arandas."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "En ese proceso se creó la página Red Jalisco Prides, que comenzó a funcionar como un espacio común para difundir información sobre las marchas y las actividades de los distintos colectivos."
+   ],
+   "\n",
+   [
+    "figure",
+    {},
+    [
+     "figura",
+     {
+      "alt": "Figura 7"
+     }
+    ]
+   ],
+   "\n",
+   [
+    "blockquote",
+    {},
+    "\n",
+    [
+     "p",
+     {},
+     "Figura 6. Imágenes de la Red Jalisco Prides."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Fuente: página de Facebook de la red."
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Esta articulación permitió ampliar el alcance y la visibilidad de los distintos colectivos, y comenzó a constituirse como un espacio emergente de encuentro entre juventudes diversas que, desde distintos municipios, buscaban abrir espacios de reconocimiento y visibilidad en sus territorios de origen. Aunque se trata de una organización aún incipiente, ha contribuido a fortalecer a jóvenes que intentan impulsar iniciativas similares en sus comunidades."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Un año después, al actualizar la información para este artículo, la red ",
+    [
+     "strong",
+     {},
+     "Jalisco Pride"
+    ],
+    " contabilizaba alrededor de 30 marchas en el estado, muchas de ellas realizadas en municipios rurales o en localidades consideradas ciudades pequeñas o medias."
+   ],
+   "\n",
+   [
+    "figure",
+    {},
+    [
+     "figura",
+     {
+      "alt": "Figura 8"
+     }
+    ]
+   ],
+   "\n",
+   [
+    "blockquote",
+    {},
+    "\n",
+    [
+     "p",
+     {},
+     "Figura 7. Imágenes de la Red Jalisco Prides sobre marchas en 2022. Fuente: página de Facebook de la red"
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Este proceso permite observar cómo la condición juvenil se configura como una construcción sociocultural dinámica y relacional, atravesada por disputas y negociaciones entre representaciones sociales e identidades juveniles (Pico M y Vanegas G, 2014, pág. 13). En este sentido, las redes emergentes de organización juvenil muestran también la capacidad de las juventudes para apropiarse, resistir y disputar los órdenes sociales existentes (Reguillo, 2010), así como la “capacidad de participación —como ser y hacerse parte de un proceso— que despliega cada sujeto/a en su experiencia [la cual] es vital para potenciar este sentido de pertenencia a una cierta comunidad” (Duarte, 2013: 178)."
+   ],
+   "\n",
+   [
+    "h3",
+    {
+     "id": "t-seccion-9"
+    },
+    "CONCLUSIONES"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "A la luz de la propuesta de ",
+    [
+     "strong",
+     {},
+     "Condición Juvenil Rural"
+    ],
+    " (Sánchez, 2020), la experiencia de la marcha “Cuquío Pride” permite observar cómo las transformaciones estructurales, territoriales e intersubjetivas que atraviesan a las juventudes rurales pueden dar lugar a formas emergentes de acción colectiva y disputa simbólica en los espacios comunitarios. A lo largo de este artículo buscamos recuperar reflexivamente la organización de esta primera marcha de la diversidad sexual en Cuquío, no sólo como un evento puntual, sino como un proceso que permitió a varias juventudes rurales asumir públicamente su presencia en el espacio social del municipio."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Para quienes participamos en su organización, la marcha significó abrir un momento de visibilidad de la diversidad sexual en un territorio donde, por mucho tiempo, estos temas habían permanecido en silencio o en la esfera de lo privado. En ese sentido, el Cuquío Pride puede entenderse como un acto colectivo que disputó simbólicamente el espacio público y cuestionó mandatos de género arraigados en un contexto ranchero históricamente conservador. Las reacciones provenientes de sectores religiosos, los comentarios homofóbicos en redes sociales y las dudas que surgieron incluso dentro del propio grupo organizador muestran que estas iniciativas se desarrollan en escenarios de tensión, donde la visibilidad puede generar tanto reconocimiento como conflicto. Sin embargo, esas tensiones también fortalecieron el sentido de comunidad entre quienes participamos y reafirmaron la necesidad de abrir espacios de expresión y reconocimiento para las juventudes de la diversidad sexual en nuestros territorios."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Con el paso del tiempo, hemos podido observar que la experiencia de “Cuquío Pride” no quedó solamente en la realización de una marcha. La articulación con otros colectivos y marchas de diversidad sexual que comenzaron a surgir en distintos municipios del estado de Jalisco permitió ir tejiendo vínculos y redes de colaboración que amplían las posibilidades de acción más allá del municipio. A través de estos espacios se comparten aprendizajes, se generan acompañamientos y se construye una base organizativa que, en un mediano plazo, puede fortalecer capacidades de incidencia local y regional en torno a derechos, atención y reconocimiento de las diversidades."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Desde nuestra experiencia, consideramos que este tipo de iniciativas abren caminos para transformaciones graduales: por ejemplo, procesos de sensibilización en espacios educativos y comunitarios, estrategias de acompañamiento entre pares y articulaciones con instancias institucionales que ayuden a enfrentar la discriminación cotidiana. Si bien estas acciones no transforman por sí mismas las estructuras que sostienen la exclusión, sí amplían los márgenes de lo posible y producen nuevas formas de reconocimiento dentro de los contextos rurales."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "En este sentido, la experiencia analizada también permite observar cómo las juventudes rurales de la diversidad sexual no sólo migran o se repliegan hacia espacios urbanos para vivir sus identidades, sino que comienzan a disputar simbólicamente sus territorios de origen. Iniciativas como la marcha “Cuquío Pride” muestran prácticas colectivas mediante las cuales las juventudes diversas se hacen visibles en el espacio público rural, reconfigurando sentidos culturales y relaciones sociales en contextos históricamente conservadores. Finalmente, esperamos que este trabajo contribuya a abrir nuevas preguntas y líneas de investigación sobre las maneras en que las juventudes organizadas continúan disputando sentidos, derechos y espacios de reconocimiento en los territorios rurales de América Latina."
+   ],
+   "\n",
+   [
+    "h3",
+    {
+     "id": "t-seccion-10"
+    },
+    "REFERENCIAS"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Barragán, E. (1997). ",
+    [
+     "em",
+     {},
+     "Con un pie en el estribo: Formación y deslizamientos de las sociedades rancheras en la construcción del México moderno"
+    ],
+    ". El Colegio de Michoacán."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Bautista, E. (2018). Reflexiones acerca de la diversidad sexual entre jóvenes indígenas en México. ",
+    [
+     "em",
+     {},
+     "Revista de Estudios Sociales"
+    ],
+    ", (63), 100–109. ",
+    [
+     "a",
+     {
+      "href": "https://doi.org/10.7440/res63.2018.08"
+     },
+     "https://doi.org/10.7440/res63.2018.08"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Bénard, S. (2019). ",
+    [
+     "em",
+     {},
+     "Autoetnografía: Una metodología cualitativa"
+    ],
+    ". Universidad Autónoma de Aguascalientes / El Colegio de San Luis. ",
+    [
+     "a",
+     {
+      "href": "https://editorial.uaa.mx/docs/autoetnografia2.pdf"
+     },
+     "https://editorial.uaa.mx/docs/autoetnografia2.pdf"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Caggiani Hardoy, M. E. (2004). ",
+    [
+     "em",
+     {},
+     "Heterogeneidad en la condición juvenil rural: Aportes para una definición sociológica de la juventud rural"
+    ],
+    " (Tesis de maestría). Universidad de la República. ",
+    [
+     "a",
+     {
+      "href": "https://www.colibri.udelar.edu.uy/jspui/bitstream/20.500.12008/8273/1/TMS_CaggianiHardoyMariaEugenia.pdf"
+     },
+     "https://www.colibri.udelar.edu.uy/jspui/bitstream/20.500.12008/8273/1/TMS_CaggianiHardoyMariaEugenia.pdf"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Corona, S., & Kaltmeier, O. (2012). ",
+    [
+     "em",
+     {},
+     "En diálogo: Metodologías horizontales en ciencias sociales y culturales"
+    ],
+    ". Gedisa."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Cruz, M., Reyes, M., & Cornejo, M. (2012). Conocimiento situado y el problema de la subjetividad del/de la investigador/a. ",
+    [
+     "em",
+     {},
+     "Cinta de Moebio"
+    ],
+    ", (45), 253-274. ",
+    [
+     "a",
+     {
+      "href": "https://doi.org/10.4067/S0717-554X2012000300005"
+     },
+     "https://doi.org/10.4067/S0717-554X2012000300005"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Duarte, K. (2006). ",
+    [
+     "em",
+     {},
+     "Discursos de resistencias juveniles en sociedades adultocéntricas"
+    ],
+    ". Departamento Ecuménico de Investigaciones."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Duarte, K. (2013). Acción comunitaria con jóvenes: Desafíos generacionales. ",
+    [
+     "em",
+     {},
+     "Última Década"
+    ],
+    ", 21(39), 169-195."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Durston, J. (1998). ",
+    [
+     "em",
+     {},
+     "Juventud rural en Brasil y México: Reduciendo la invisibilidad"
+    ],
+    ". CEPAL."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "ECVC – Coordinadora Europea Vía Campesina. (2021). ",
+    [
+     "em",
+     {},
+     "Abrazar la diversidad rural: Géneros y sexualidades en el movimiento campesino"
+    ],
+    ". ",
+    [
+     "a",
+     {
+      "href": "https://www.eurovia.org/wp-content/uploads/2021/06/MEP_ESP_web.pdf"
+     },
+     "https://www.eurovia.org/wp-content/uploads/2021/06/MEP_ESP_web.pdf"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Ellis, C., Adams, T. E., & Bochner, A. P. (2010). Autoethnography: An overview. ",
+    [
+     "em",
+     {},
+     "Forum Qualitative Sozialforschung / Forum: Qualitative Social Research"
+    ],
+    ", 12(1). ",
+    [
+     "a",
+     {
+      "href": "https://doi.org/10.17169/fqs-12.1.1589"
+     },
+     "https://doi.org/10.17169/fqs-12.1.1589"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Fábregas Puig, A. (1986). ",
+    [
+     "em",
+     {},
+     "La formación histórica de una región: Los Altos de Jalisco"
+    ],
+    ". CIESAS."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Hernández-Guerrero, M. T., Alberti-Manzanares, P., Pérez-Nasser, E., Pérez-Olvera, M. A., Olivera-Méndez, A., & Talavera-Magaña, D. (2014). Relaciones, género y sexualidad entre jóvenes rurales de Salinas de Hidalgo, San Luis Potosí, México. ",
+    [
+     "em",
+     {},
+     "Ra Ximhai"
+    ],
+    ", 10(1), 115-130."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Kessler, G. (2005). ",
+    [
+     "em",
+     {},
+     "Estado del arte de la investigación sobre juventud rural en América Latina"
+    ],
+    ". EHESS-UNGS."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "López, J. (2010). Perentoriedad social y moratoria social rural: Aproximaciones a la comprensión de juventud rural. ",
+    [
+     "em",
+     {},
+     "Universitas Humanística"
+    ],
+    ", (69), 163-184."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Núñez, G. (2017). Masculinidad, ruralidad y hegemonías regionales: Reflexiones desde el norte de México. ",
+    [
+     "em",
+     {},
+     "Región y Sociedad"
+    ],
+    ", 29(68), 75–113."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Osorio, F. E. (2016). Juventudes rurales e identidades territoriales. En M. Gutiérrez & J. Tatis (Eds.), ",
+    [
+     "em",
+     {},
+     "Jóvenes, territorios y territorialidades"
+    ],
+    " (pp. 17-44). Pontificia Universidad Javeriana."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Pacheco, L. (2010). Los últimos guardianes. En R. Reguillo (Ed.), ",
+    [
+     "em",
+     {},
+     "Los jóvenes en México"
+    ],
+    " (pp. 124-153). Fondo de Cultura Económica / Conaculta."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Palomar, C. (2005). ",
+    [
+     "em",
+     {},
+     "El orden discursivo de género en Los Altos de Jalisco"
+    ],
+    ". Universidad de Guadalajara."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Pérez-Montfort, R. (2013). Los campesinos en los primeros cuarenta años del cine mexicano, 1896-1936. En T. Padilla (Ed.), ",
+    [
+     "em",
+     {},
+     "El campesinado y su persistencia en la actualidad mexicana"
+    ],
+    ". Fondo de Cultura Económica."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Pérez Orozco, A. (2014). ",
+    [
+     "em",
+     {},
+     "Subversión feminista de la economía: Aportes para un debate sobre el conflicto capital-vida"
+    ],
+    ". Traficantes de Sueños."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Pico, M. E. & Vanegas, J. (2014). Condición juvenil contemporánea: Reflexiones frente a las realidades del contexto sociohistórico y laboral actual. ",
+    [
+     "em",
+     {},
+     "Polis"
+    ],
+    ", 13(39). ",
+    [
+     "a",
+     {
+      "href": "https://doi.org/10.4067/S0718-65682014000300018"
+     },
+     "https://doi.org/10.4067/S0718-65682014000300018"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Preissle, J. & DeMarrais, K. (2019). Enseñar la reflexividad en la investigación cualitativa: Acoger un estilo de vida de investigación. En S. Bénard (Ed.), ",
+    [
+     "em",
+     {},
+     "Autoetnografía: Una metodología cualitativa"
+    ],
+    ". Universidad Autónoma de Aguascalientes / El Colegio de San Luis."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Puglisi, R. (2019). Etnografía y participación corporal: Contribuciones metodológicas para el trabajo de campo. ",
+    [
+     "em",
+     {},
+     "Revista Latinoamericana de Metodología de la Investigación Social"
+    ],
+    " (17), 20–35."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Rappaport, J. (2007). Más allá de la escritura: La epistemología de la etnografía en colaboración. ",
+    [
+     "em",
+     {},
+     "Revista Colombiana de Antropología"
+    ],
+    ", 43, 197–229."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Reguillo, R. (2010). La condición juvenil en el México contemporáneo: Biografías, incertidumbres y lugares. En R. Reguillo (Ed.), ",
+    [
+     "em",
+     {},
+     "Los jóvenes en México"
+    ],
+    " (pp. 395–429). Fondo de Cultura Económica / CONACULTA."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Reguillo, R. (2012). ",
+    [
+     "em",
+     {},
+     "Culturas juveniles: Formas políticas del desencanto"
+    ],
+    ". Siglo XXI."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Rueda, L. (2006). La expansión ranchera en San Felipe de Cuquío, 1662–1809. En R. Fernández (Ed.), ",
+    [
+     "em",
+     {},
+     "El mundo ranchero"
+    ],
+    " (pp. 13– 37). Universidad de Guadalajara."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Rufer, M. (2012). El habla, la escucha y la escritura: Subalternidad y horizontalidad desde la crítica poscolonial. En S. Corona & O. Kaltmeier (Eds.), ",
+    [
+     "em",
+     {},
+     "En diálogo: Metodologías horizontales en ciencias sociales"
+    ],
+    " (pp. 1–25). Gedisa."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Sánchez, D. (2012). ",
+    [
+     "em",
+     {},
+     "Comunidad–migración: Interpretando la construcción de una relación compleja"
+    ],
+    " (Tesis de maestría). Universidad Autónoma de Querétaro."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Sánchez, D. (2020). ",
+    [
+     "em",
+     {},
+     "Palos Altos entre la muchachada y la juventud: La condición juvenil rural en una comunidad ranchera de Jalisco"
+    ],
+    " (Tesis doctoral). Universidad Autónoma Metropolitana Xochimilco."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Sánchez, D. (2022). Devenir joto antiagroindustrial contra el monocultivo patriarcal. ",
+    [
+     "em",
+     {},
+     "Heterotopías"
+    ],
+    ", 2(4). ",
+    [
+     "a",
+     {
+      "href": "https://revistas.unc.edu.ar/index.php/heterotopias/article/view/38165"
+     },
+     "https://revistas.unc.edu.ar/index.php/heterotopias/article/view/38165"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Shadow, R. (1994). Los rancheros de occidente: Hacia un modelo de su organización comunitaria. En R. Ávila (Ed.), ",
+    [
+     "em",
+     {},
+     "El occidente de México en el tiempo"
+    ],
+    " (pp. 159–188). Universidad de Guadalajara."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Spivak, G. C. (1988). Can the subaltern speak? In C. Nelson & L. Grossberg (Eds.), ",
+    [
+     "em",
+     {},
+     "Marxism and the interpretation of culture"
+    ],
+    " (pp. 271–313). University of Illinois Press."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Zúñiga, N. (2020). ",
+    [
+     "em",
+     {},
+     "Salir del pueblo: Algunos relatos en torno a las causas y consecuencias del sexilio"
+    ],
+    " (Tesis de maestría). Universidad del País Vasco."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Cómo citar: ",
+    [
+     "em",
+     {},
+     "Bajo el Volcán. Revista del Posgrado de Sociología. BUAP"
+    ],
+    ", Año 7, Núm. 14, mayo – octubre de 2026, pp. 127-163. https://doi.org/10.32399/ICSYH.bvbuap.2954-4300.2026.7.14.866"
+   ],
+   [
+    "p",
+    {},
+    [
+     "a",
+     {
+      "href": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
+     },
+     "Licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional"
+    ],
+    ". Publicación de acceso abierto diamante editada por la Benemérita Universidad Autónoma de Puebla."
+   ],
+   "\n"
+  ],
+  "\n"
+ ]
+}

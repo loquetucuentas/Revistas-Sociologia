@@ -1,0 +1,980 @@
+// Copia de textos/10-32399-icsyh-bvbuap-2954-4300-2025-7-13-819.json para abrir la aplicación sin servidor.
+(window.DATOS_REVISTAS = window.DATOS_REVISTAS || {})["textos/10-32399-icsyh-bvbuap-2954-4300-2025-7-13-819.json"] = {
+ "version": 1,
+ "recogido": "2026-10-18T11:51:41+00:00",
+ "doi": "10.32399/icsyh.bvbuap.2954-4300.2025.7.13.819",
+ "titulo": "influencias de la realidad histórico-social en la creación artística desde la perspectiva de Lukács",
+ "revista": "2954-4300",
+ "numero": "2025",
+ "licencia": {
+  "codigo": "by-nc-sa",
+  "nombre": "CC BY-NC-SA 4.0",
+  "nombre_completo": "Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional",
+  "url": "https://creativecommons.org/licenses/by-nc-sa/4.0",
+  "url_legal": "https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.es"
+ },
+ "fuente": {
+  "url": "https://bajoelvolcanx.buap.mx/index.php/bajovolc/article/download/819/796?inline=1",
+  "formato": "HTML",
+  "plataforma": "ojs-galerada",
+  "pagina": "https://bajoelvolcanx.buap.mx/index.php/bajovolc/article/view/819"
+ },
+ "autores_cita": [
+  {
+   "apellidos": "Zafra Romero",
+   "nombre_pila": "Ari",
+   "nombre": null
+  },
+  {
+   "apellidos": "Martínez Ganem",
+   "nombre_pila": "Julieta",
+   "nombre": null
+  }
+ ],
+ "avisos_derechos": [
+  "Derechos de autor 2025 Ari Zafra Romero, Julieta Martínez Ganem",
+  "Licencia Derechos de autor 2025 Ari Zafra Romero, Julieta Martínez Ganem Esta obra está bajo una licencia internacional Creative Commons Atribución-NoComercial-CompartirIgual 4.0. Las autoras y los autores conservan los derechos de autor sobre su obra y ceden a Bajo el Volcán. Revista del Posgrado de Sociología. BUAP únicamente el derecho de primera publicación. Revista de acceso abierto diamante: sin costo para autoras, autores ni personas lectoras."
+ ],
+ "idioma_principal": "es",
+ "indice": [
+  {
+   "id": "t-seccion-1",
+   "nivel": 2,
+   "texto": "Las influencias de la realidad histórico-social en la creación artística desde la perspectiva de Lukács",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-2",
+   "nivel": 3,
+   "texto": "INTRODUCCIÓN",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-3",
+   "nivel": 3,
+   "texto": "LA CREACIÓN ARTÍSTICA Y LA REALIDAD HISTÓRICO-SOCIAL",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-4",
+   "nivel": 3,
+   "texto": "INFLUENCIAS DE LAS INSTITUCIONES SOCIOCULTURALES EN LA CREACIÓN ARTÍSTICA",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-5",
+   "nivel": 3,
+   "texto": "LA ALIENACIÓN CAPITALISTA EN LA CREACIÓN ARTÍSTICA",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-6",
+   "nivel": 3,
+   "texto": "ENFRENTAR LA HOSTILIDAD CAPITALISTA HACIA EL ARTE",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-7",
+   "nivel": 3,
+   "texto": "CONCLUSIÓN",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-8",
+   "nivel": 3,
+   "texto": "BIBLIOGRAFÍA CITADA",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-9",
+   "nivel": 3,
+   "texto": "NOTAS",
+   "lang": null
+  }
+ ],
+ "vueltas": {
+  "t-fnref1": "t-llamada-fnref1-1"
+ },
+ "contenido": [
+  "\n",
+  [
+   "section",
+   {},
+   "\n",
+   [
+    "strong",
+    {},
+    [
+     "em",
+     {},
+     "Bajo el Volcán. Revista del Posgrado de Sociología. BUAP"
+    ]
+   ],
+   ", Año 7, Núm. 13, noviembre de 2025 – abril de 2026, pp. 349-367.",
+   [
+    "br",
+    {}
+   ],
+   "e-ISSN 2954-4300 · ",
+   [
+    "a",
+    {
+     "href": "https://doi.org/10.32399/ICSYH.bvbuap.2954-4300.2025.7.13.819"
+    },
+    "https://doi.org/10.32399/ICSYH.bvbuap.2954-4300.2025.7.13.819"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Pensamiento crítico"
+   ],
+   "\n",
+   [
+    "h2",
+    {
+     "id": "t-seccion-1"
+    },
+    "Las influencias de la realidad histórico-social en la creación artística desde la perspectiva de Lukács"
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Influences of historical-social reality on artistic creation from Lukács’s perspective"
+   ],
+   "\n",
+   "\n",
+   [
+    "p",
+    {},
+    [
+     "span",
+     {},
+     "Ari Zafra Romero"
+    ],
+    [
+     "br",
+     {}
+    ],
+    [
+     "span",
+     {},
+     "Benemérita Universidad Autónoma de Puebla, Puebla, México"
+    ],
+    [
+     "br",
+     {}
+    ],
+    [
+     "span",
+     {},
+     "ORCID: ",
+     [
+      "a",
+      {
+       "href": "https://orcid.org/0009-0003-9665-6249"
+      },
+      "https://orcid.org/0009-0003-9665-6249"
+     ]
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    [
+     "span",
+     {},
+     "Julieta Martínez Ganem"
+    ],
+    [
+     "br",
+     {}
+    ],
+    [
+     "span",
+     {},
+     "Benemérita Universidad Autónoma de Puebla, Puebla, México"
+    ],
+    [
+     "br",
+     {}
+    ],
+    [
+     "span",
+     {},
+     "ORCID: ",
+     [
+      "a",
+      {
+       "href": "https://orcid.org/0009-0005-3195-4557"
+      },
+      "https://orcid.org/0009-0005-3195-4557"
+     ]
+    ]
+   ],
+   "\n",
+   "\n",
+   [
+    "p",
+    {},
+    "arizafra2013@gmail.com"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "julsganem@gmail.com"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "RESUMEN"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "En este artículo nos proponemos retomar a Lukács y lo que podríamos llamar como su sociología del arte. Para él, los artistas deben crear obras que reflejen y respondan a la realidad histórico-social en la que se encuentran inmersos, pero la base económica influye en las temáticas y las representaciones, llegando a restringir la libertad creativa. Sin embargo, el arte realista puede ser una herramienta de educación artística. A su vez, el arte, como reflejo de la sociedad, desempeña un papel crucial en la expresión cultural y la construcción de la identidad individual y colectiva ya que el artista no crea en un vacío, sino que su obra se ve influenciada y mediada por la realidad social y cultural en la que está inmerso. Por ello, Lukács nos invita a romper con las estructuras de poder y dominación que caracterizan a la sociedad capitalista y es lo que intentaremos demostrar aquí."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    [
+     "em",
+     {},
+     "Palabras claves:"
+    ],
+    " Lukács, estética, Marx, marxismo, enajenación."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "ABSTRACT"
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "In this article, we explore Lukács and what we might call his sociology of art. For him, artists must create works that reflect and respond to the historical and social reality in which they find themselves, but the economic foundation influences themes and representations, eventually restricting creative freedom. However, realist art can be a tool for artistic education. In turn, art, as a reflection of society, plays a crucial role in cultural expression and the construction of individual and collective identity, since artists do not create in a vacuum; rather, their work is influenced and mediated by the social and cultural reality in which they are immersed. Therefore, Lukács invites us to break with the structures of power and domination that characterize capitalist society, and this is what we will attempt to demonstrate here."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    [
+     "em",
+     {},
+     "Keywords:"
+    ],
+    " Lukács, aesthetic, Marx, Critical theory, reification"
+   ],
+   "\n",
+   [
+    "h3",
+    {
+     "id": "t-seccion-2"
+    },
+    "INTRODUCCIÓN"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "La realidad histórico-social ejerce una influencia fundamental en el desarrollo de la actividad artística, abarcando los programas educativos, las experiencias formales e informales, las temáticas, los estilos, las técnicas, las normas estéticas y las tendencias. A su vez, el arte, como reflejo de la sociedad, desempeña un papel crucial en la expresión cultural y la construcción de la identidad individual y colectiva ya que el artista no crea en un vacío, sino que su obra se ve influenciada y mediada por la realidad social y cultural en la que está inmerso."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "De esta manera, el objetivo de este artículo será comprender y analizar los patrones socioculturales fundamentales que influyen en los significados y funciones del arte en la sociedad. Para lograrlo, nos basaremos en el pensamiento del filósofo húngaro György Lukács. Los patrones socioculturales conceptualizan lo que es el arte dentro de una comunidad en específico, en especial dentro de nuestras sociedades capitalistas. Esto resulta relevante porque como demostraron pensadores de la escuela de Frankfurt, la industria cultural, realiza un proceso de reificación en las masas. Aunque en este artículo nos limitaremos a abordar la temática únicamente desde Lukács, aportando así a la discusión desde dicho autor."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Es importante contextualizar la estética de Lukács, la cual se centra en la literatura. Asimismo, conviene recordar que el objetivo que la modernidad asignó al arte, consagrar al artista como aquel que guía hacia la verdad mediante la expresión sensible, nunca llegó a cumplirse plenamente. Como señala Herbert Marcuse en ",
+    [
+     "em",
+     {},
+     "La dimensión estética"
+    ],
+    ", el arte puede contribuir a la revolución, aunque esta solo podrá realizarse de manera efectiva a través de la praxis."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "En el pensamiento de Lukács, hay que conocer la evolución de su fase “joven” hasta convertirse en un el Lukács ",
+    [
+     "em",
+     {},
+     "marxista"
+    ],
+    ". Estas dos etapas filosóficas representan un cambio significativo en su enfoque intelectual, pasando de una orientación romántica a una perspectiva completamente marxista. Por lo tanto, el texto ",
+    [
+     "em",
+     {},
+     "Historia y conciencia de clase"
+    ],
+    " de 1923 juega un papel fundamental como punto de transición en la evolución de Lukács. Por ello, a través de este artículo, también podremos explorar la relación entre el pensamiento de Marx y Hegel, y comprender cómo la dialéctica se convierte en una herramienta esencial para comprender y transformar la realidad."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Para contextualizar, retomamos las palabras de Ignacio López Soria, quien señala respecto a esta etapa de György Lukács: “[...] la obra del Lukács marxista [...] se desarrolla a partir de la década de 1920” (López, 2021: 11). Además, que Lukács mismo nos ofrece su propia perspectiva en el prólogo de la edición castellana de ",
+    [
+     "em",
+     {},
+     "Historia y conciencia de clase"
+    ],
+    ", publicada en 1969, donde nos indica que: “",
+    [
+     "em",
+     {},
+     "Historia y Conciencia de Clase"
+    ],
+    " era en cierto sentido resumen y conclusión del período de [su] evolución que empezó en 1918-1919” (Lukács, 1969: XXIX). Mencionando que: “[e]l libro [le] ha llegado a ser completamente ajeno y extraño” (Lukács, 1969: XXXIX). Por ello, conscientes de la necesidad de evitar un relato inexistente, erróneo o incoherente sobre la estética del Lukács marxista, en este ensayo nos centraremos en los textos que corresponden a la segunda etapa intelectual del filósofo húngaro. De esta manera, podremos abordar de manera coherente y precisa tales aspectos clave de su pensamiento."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Aunque no abordaremos la obra más importante del autor húngaro, la ",
+    [
+     "em",
+     {},
+     "Estética"
+    ],
+    ", un material monumental de más de dos mil páginas, ya que actualmente no contamos con los recursos necesarios para tomar por asalto un trabajo de tal envergadura. En ese sentido, este artículo retoma, parte del pensamiento estético de Lukács desde que dejó sus romanticismos de juventud hasta el período previo a la redacción de la ",
+    [
+     "em",
+     {},
+     "Estética"
+    ],
+    "."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Por último, cabe destacar la importancia que adquiere en este ensayo el destacar en qué etapa de su producción se hallaba el autor, ya que en este período el autor experimenta un cambio significativo en su enfoque, dejando de oponer la vida y el arte, como lo hacía en sus escritos tempranos, y comienza a desarrollar el comportamiento estético a partir del comportamiento en la vida cotidiana (Bollenbeck, 2007: 133). Es por ello, que los textos del Lukács marxista nos proporcionarán una perspectiva valiosa para reflexionar sobre la relación entre las instituciones y la creación artística dentro del contexto histórico-social."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "A su vez, como sabemos, tanto la estética como la política se encuentran entrelazadas en Lukács. Miguel Vedda nos recuerda que: “[l]a lucha contra el fascismo está en la base de cada uno de los escritos compuestos por Lukács durante la década de 1930, aun cuando, a primera vista, parezca estar hablándose “tan solo” de problemas estéticos o filosóficos” (2012: 18). Los escritos estéticos de Lukács siempre han estado comprometidos con la política y en su etapa marxista con la lucha de clases. La estética de Lukács resulta sumamente útil para esta tarea debido a que nos permite comprender cómo el arte y la sociedad se interrelacionan y cómo éste también desempeña un papel fundamental en la construcción de significados y la transformación de la realidad. Ahora:"
+   ],
+   "\n",
+   [
+    "blockquote",
+    {},
+    "\n",
+    [
+     "p",
+     {},
+     "su planteamiento apunta al comportamiento estético dentro de la totalidad de las actividades humanas, a sus fundamentos en el plano de la historia de los géneros y a sus condiciones sociohistóricas […] para comprender en un concepto, uniendo entre sí lo lógico y lo histórico, el proceso real del surgimiento y diferenciación del comportamiento estético en sus determinaciones histórico-sistémicas (Bollenbeck, 2007: 132)."
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "h3",
+    {
+     "id": "t-seccion-3"
+    },
+    "LA CREACIÓN ARTÍSTICA Y LA REALIDAD HISTÓRICO-SOCIAL"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "En primer lugar, es importante señalar que el arte, como forma de expresión, desempeña un papel fundamental en la construcción de la identidad tanto individual como colectiva. La actividad artística se adquiere a través de la educación formal e informal, la experiencia práctica y la interacción con el entorno sociocultural. De acuerdo con Lukács, la creatividad artística no se trata de un talento innato o algo exclusivamente individual, sino que es un proceso que se aprende y se moldea mediante la influencia de la sociedad y la cultura en las que se desarrolla. Lukács sostiene esta idea a partir de su teoría del reflejo y del concepto de realismo. En relación con la teoría del reflejo, Silvia Durán Payán explica que:"
+   ],
+   "\n",
+   [
+    "blockquote",
+    {},
+    "\n",
+    [
+     "p",
+     {},
+     "[e]s bien sabido que Lukács tomó como punto inicial la teoría del reflejo a fin de establecer una diferencia entre modos del conocimiento: conocimiento científico, conocimiento estético y conocimiento cotidiano como formas del conocer. […] Aparte de las diferencias que Lukács establece entre la forma científica y la estética quisiera subrayar que el reflejo estético de la realidad la reproduce para de ahí construir la realidad de la obra artística (Durán, 1968: 175)."
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "En segundo lugar, Durán proporciona una explicación del concepto de realismo al que Lukács se refiere, explica que:"
+   ],
+   "\n",
+   [
+    "blockquote",
+    {},
+    "\n",
+    [
+     "p",
+     {},
+     "[...] el dogmatismo lukacsiano se originaría en el hecho de postular como único criterio de valor esas condiciones que sólo el realismo puede satisfacer. […] Lukács entiende que el arte, el gran arte, el que ha perdurado, es el arte realista. […] Para Lukács, el realismo no significa una determinada técnica o técnicas de producción artística; no significa un estancamiento en una sola forma; tampoco un retrato de la realidad (Durán, 1968: 175)."
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Así:"
+   ],
+   "\n",
+   [
+    "blockquote",
+    {},
+    "\n",
+    [
+     "p",
+     {},
+     "[l]as acusaciones en contra de Lukács, en el sentido de que plantea una sola técnica, una forma por excelencia, parte de un malentendido de la proposición lukacsiana. Lukács establece su concepto de realismo desde una proposición filosófica y no desde la descriptiva de técnicas o modos de hacer, sugeridas en algunas historias de arte (Durán, 1968: 176)."
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "De ahí, que pueda llegar a ser común para historiadores del arte, que no estén muy enterados de discusiones filosóficas, pensar que cuando Lukács habla sobre realismo se está refiriendo a un arte que nos presenta directamente a la realidad de una manera mimética. Pero gracias a Durán, entendemos que Lukács realmente hace referencia a un concepto filosófico que habla sobre la aprehensión de la realidad, en un sentido estético. A este respecto, cabe agregar que para Lukács:"
+   ],
+   "\n",
+   [
+    "blockquote",
+    {},
+    "\n",
+    [
+     "p",
+     {},
+     "[…] el realismo crítico y el realismo socialista libran en general la misma lucha contra la reacción política y cultural. Lenin ha insistido una y otra vez que no hay una muralla de la China que separe la revolución democrática-burguesa de la del proletariado (Lukács, 1984: 129)."
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "A su vez, Lukács también señala que: “[e]l “triunfo del realismo” es siempre el triunfo de la realidad: su triunfo sobre opiniones y prejuicios erróneamente preconcebidos, sobre representaciones incompletas, etc. El verdadero escritor posee siempre este talento para la imparcialidad artística […]” (Lukács, 2011: 116). Nos detuvimos en esta discusión, porque nuestro interés era aclarar en primera instancia cuál es la teoría del reflejo y el concepto de realismo en Lukács. Ahora bien, refiriéndonos al modo específico de aprehensión de la realidad, en su sentido estético, para Lukács:"
+   ],
+   "\n",
+   [
+    "blockquote",
+    {},
+    "\n",
+    [
+     "p",
+     {},
+     "El sujeto que produce arte asimila estéticamente la realidad para luego proceder a crear otra realidad; la realidad artística, que el artista crea y produce de acuerdo a sus intereses, necesidades, proyectos, etcétera. Esta realidad, la artística, se va conformando a través de la producción del arte. Dice Lukács que este reflejo artístico debe reflejar fiel y objetivamente la realidad. Al expresar la tesis anterior, Lukács establece que ese reflejo fiel y objetivo se refiere a construir la realidad artística de acuerdo a la legalidad de la realidad histórico-social (Durán, 1968: 175)."
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "De esta manera, entendemos que para Lukács el arte y la creatividad no son actividades aisladas de la realidad social, sino que están intrínsecamente conectados con ella. Durán profundiza desde Lukács este aspecto:"
+   ],
+   "\n",
+   [
+    "blockquote",
+    {},
+    "\n",
+    [
+     "p",
+     {},
+     "[e]l arte es, pues, una de las formas por las cuales el mundo, la realidad se descubre al hombre. Esta realidad, por supuesto, se halla en proceso constante de cambio, y de ahí la necesidad de que varíen los medios de expresión. La historicidad de la realidad objetiva impone, a su vez, una historicidad de los medios expresivos, y, con ello, determina el movimiento mismo del arte (Durán, 1968: 176)."
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Así, entendida desde el marco conceptual desarrollado por Karl Marx, la realidad histórico-social en Lukács se concibe como la totalidad concreta de las relaciones sociales de producción. Desde esta perspectiva, Lukács desarrolla una sociología del arte en la que la obra artística no se limita a expresar valores o creencias, sino que refleja y transmite mensajes sobre la sociedad, la historia, las relaciones interpersonales y otras dimensiones de la vida social. Todo ello está condicionado por la realidad histórico-social en la que se encuentra inmerso el artista —en este caso, la dominada por la economía capitalista— donde los sujetos viven bajo la lógica de la cosificación. No obstante, el buen artista puede crear un arte verdadero que revele las contradicciones del capitalismo."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Lukács argumenta que los artistas adquieren su capacidad creativa a través de un proceso de socialización y educación. Por ello, la educación artística desempeña un papel fundamental en el aprendizaje de habilidades artísticas y el desarrollo de la creatividad de los creadores. Los programas educativos formales proporcionan a los artistas un conjunto de conocimientos técnicos y teóricos, así como una comprensión de la historia y la apreciación artística. Estos programas están influenciados por la realidad histórico-social del capitalismo que, en términos de Lukács, se encuentra regida por la cosificación; es decir, un sistema en el que todo gira en torno al mercado y en el que las relaciones sociales se reducen a relaciones económicas, reflejando las valoraciones y preferencias estéticas de su comunidad, como explicamos con Durán. Además, el aprendizaje artístico también se da de manera informal, a través de la observación, la participación en actividades comunitarias y la interacción con artistas y mentores. Según Lukács, el arte realista no sería simplemente una expresión subjetiva del artista, sino que reflejaría y representaría la realidad social en la que se encuentra inmerso. Lukács no estaría de acuerdo entonces, con los significados y funciones del arte qué desprenden al artista de la sociedad, es decir, el arte que no es realista (Durán, 1968: 183)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "En ese sentido, podemos deducir que el arte no es una expresión puramente individual o una habilidad que alguien posee desde el nacimiento, sino que es el resultado de un proceso de socialización y educación dentro de un contexto sociocultural específico: “[c]ómo producción, el arte como trabajo, el arte como producto social, etcétera, [es fundamental] ubicar al arte en su territorio natural: el de la realidad social” (Durán, 1968: 186). Con esto enfatizamos que el desarrollo y la realización plena de la creatividad artística requieren un proceso de aprendizaje y adquisición de conocimientos sobre la historia y las convenciones artísticas dadas en un lugar y tiempo específico. Entendiéndose como el “más allá del genio aislado”. Lukács explica esto retomando a Hegel:"
+   ],
+   "\n",
+   [
+    "blockquote",
+    {},
+    "\n",
+    [
+     "p",
+     {},
+     "En una de esas lecciones se pone a hablar Hegel del genio artístico. Y en abierta polémica con la divinización y la mistificación románticas del genio ofrece un sobrio análisis de la interacción entre la actividad individual del genio y el movimiento social en su conjunto, la vida del pueblo. Aquellos a los que llamamos genios han conquistado alguna especial habilidad en la que convierten en obra propia las imágenes generales del pueblo, como otros hacen con otras cosas. Lo que produce no es invención suya, sino invención del pueblo entero, o el descubrimiento de que el pueblo ha descubierto su esencia. La que pertenece al artista como tal artista particular es su actividad formal, su especial habilidad, su modo de exposición, e incluso para esto ha sido educado en la habilidad general (Lukács, 1972: 353)."
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Desde esta perspectiva, concluimos que los artistas adquieren su capacidad creativa a través de un proceso de aprendizaje continuo. Es por ello, que para Lukács (y Hegel) los artistas deben ser capaces de trascender las limitaciones impuestas por la educación y la formación, para buscar nuevas formas de expresión y contribuir al desarrollo y evolución del arte y la sociedad, logrando realizar un arte realista, qué supere la reificación, abriendo la posibilidad de entender la realidad capitalista cítricamente, superando a su vez, la ideología capitalista."
+   ],
+   "\n",
+   [
+    "h3",
+    {
+     "id": "t-seccion-4"
+    },
+    "INFLUENCIAS DE LAS INSTITUCIONES SOCIOCULTURALES EN LA CREACIÓN ARTÍSTICA"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Históricamente, podemos apuntar que las instituciones socioculturales han desempeñado un papel crucial en el desarrollo, promoción y preservación del arte, y han ejercido influencia tanto en la producción como en la educación y promoción de los artistas. Tal es el caso de los mecenas, ya sean nobles, reyes o iglesias, estos han financiado y promovido la producción artística. A su vez, dichos mecenas han establecido encargos y han definido las temáticas y los propósitos de las obras de arte, lo que ha influido en la formación de los artistas, en la dirección que toma su producción e incluso en la recepción que se tiene de las obras por parte del público al que va dirigido."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Por su parte, las instituciones dedicadas a la formación de los artistas también han tenido un impacto significativo: no sólo proporcionan un marco formal de educación para los artistas, sino que también enseñan técnicas, teorías y, sobre todo, transmiten las convenciones establecidas en su tiempo y espacio. Por ello, es fácil deducir que estas instituciones han tenido, y siguen teniendo, gran influencia en la formación de los artistas y en la definición de los cánones y hegemonías del arte en cada época. Desde esta perspectiva, Lukács nos puede explicar que:"
+   ],
+   "\n",
+   [
+    "blockquote",
+    {},
+    "\n",
+    [
+     "p",
+     {},
+     "Hegel reconoce también que los géneros artísticos [son] productos del proceso histórico, como expresiones adecuadas de algún sentimiento vital nacido de concretas situaciones histórico-sociales. De ello se sigue además que, aunque es posible y hasta teoréticamente necesario establecer un sistema de las diversas artes y géneros artísticos, esas artes y esos géneros no sólo se presentan diversamente en los diversos períodos, sino que, además, cada período posee un género o unos géneros artísticos, tipos artísticos dominantes que corresponden a su situación histórica (Lukács, 1966: 145)."
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Por lo tanto, estos tipos artísticos dominantes podrían ser los conjuntos de convenciones, normas y valores que definen y guían la producción artística en una determinada sociedad o período. En ese sentido Lukács, sostiene nuevamente, a partir de Hegel, que: “[l] as formas de los géneros artísticos no son arbitrarias. Nacen, por el contrario, de la concreta determinación de cada estado social e histórico (estado del mundo). Su carácter, su peculiaridad, se determinan por su capacidad de expresar los rasgos esenciales de la fase histórico-social dada” (Lukács, 1966: 136). También debemos recordar que tales convenciones no son estáticas, sino que evolucionan a lo largo del tiempo. Así: “[…] el desarrollo del estilo, de los géneros artísticos, pierde plenamente de este modo su carácter estático, de museo, por así decirlo, puramente comparativo, y se nos presenta más bien como el fenómeno combativo y contradictorio de la sociedad humana” (Lukács, 1966: 162). Es decir, a medida que las sociedades cambian y se desarrollan, las convenciones también se transforman. Y nuevas instituciones, influencias culturales, avances tecnológicos y cambios sociales pueden desafiar y redefinir los tipos establecidos, dando lugar a nuevas formas de producción artística y, por lo tanto, a la creación de nuevas convenciones."
+   ],
+   "\n",
+   [
+    "h3",
+    {
+     "id": "t-seccion-5"
+    },
+    "LA ALIENACIÓN CAPITALISTA EN LA CREACIÓN ARTÍSTICA"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Retomando lo que hemos venido argumentando, entendemos que las relaciones entre los artistas y las instituciones en la realidad histórico-social han generado una serie de influencias e interacciones que moldean el desarrollo y posicionamiento de las obras y los artistas. Las instituciones dominantes establecen, generalmente, las normas estéticas, definiendo las corrientes artísticas que predominarán y también tienen el poder de seleccionar qué obras se exhiben y promueven, lo que puede influir en la dirección y el reconocimiento de los artistas. A su vez, no se puede dejar de lado que el público que interactúa con una obra de arte también influye en su creación, pues su respuesta implica una retroalimentación. Y a su vez, la interpretación de los espectadores puede abrir nuevos caminos, desafiar al artista e incluso llegar a marginarlo. De esta manera, se deduce que las convenciones artísticas pueden ser tanto libertadoras como limitantes para la creación, pues: “[l]a idea de que el artista es observador, no afectado por esos procesos, situado por encima de todo movimiento social es en el mejor de los casos una ilusión, un autoengaño, y la mayoría de las veces una simple huida ante las grandes cuestiones de la vida y del arte” (Lukács, 1966: 252). Así, por un lado, las convenciones y las expectativas sociales ofrecen un marco de referencia que el artista suele utilizar como punto de partida para su propia exploración creativa, y por otro, esas mismas convenciones restringen su libertad y limitan su capacidad para cuestionar las normas establecidas."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Profundizando en este aspecto, explicaremos que para Lukács la mayoría de las instituciones del arte son instituciones burguesas. Y con relación a la ideología burguesa, nos expone que el “hombre burgués” vive en la confusión de los conceptos que tiene acerca de sí mismo y su posición en el mundo debido a la complejidad de la realidad en la que vive. Es decir, el hombre burgués se encuentra enajenado. De esta manera, tales instituciones burguesas también enajenan al proletario, pues su enajenación se relaciona con lo que explica Lukács en ",
+    [
+     "em",
+     {},
+     "Aportaciones a la historia de la estética"
+    ],
+    ", cuando cita a Marx: “[e]l hombre angustiado y menesteroso no tiene ningún sentido para percibir el más hermoso espectáculo; el modesto trapero que trafica con minerales no ve más que el valor mercantil del mineral; no su belleza ni su peculiar naturaleza: no tiene sensibilidad de mineralogista” (Lukács, 1966: 235). En ese sentido, el proletario se encuentra enajenado a causa de la explotación ejercida por el burgués y, por ende, de las instituciones burguesas. Es decir, tanto el proletario o el trapero como el burgués sólo ven el valor mercantil de sus creaciones. De esta manera, podemos deducir que existe una separación entre el hombre burgués y lo que Marx llama “naturaleza”, la cual hace alusión a la esencia humana. Por ello, Lukács reitera que la economía marxista enfoca las relaciones económicas y sociales entre personas y cómo éstas se relacionan con esa “naturaleza”. Sin embargo, en el capitalismo, estas relaciones se cosifican y ocultan su verdadera esencia. Por ejemplo, en el caso de la fetichización propia de las sociedades capitalistas, Marx; retomando el término fetichismo del imaginario colonialista; señala que la mercancía es un “[…] objeto endemoniado, rico en sutilezas metafísicas y reticencias teológicas. […] El carácter mítico de la mercancía no deriva, por tanto, de su valor de uso. Tampoco proviene del contenido de las determinaciones de valor” (Marx, 1975: 87). En este sentido, los objetos o mercancías se presentan de manera distorsionada y no reflejan la realidad. Para comprender la verdadera esencia de las instituciones burguesas que median en la interpretación estética de las personas, se requiere un trabajo intelectual y de praxis específico que permita desvelar el proceso de fetichización."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "La verdadera esencia sería la relación social entre personas (Lukács, 1966: 239). Por todo esto, es casi imposible no considerar que las relaciones económicas ejercidas por la burguesía y la dominación de los grupos que rigen los entornos culturales y artísticos tienen una influencia negativa en la creación y producción artística. A menudo, las personas y las instituciones que detentan el poder económico y político ejercen un papel de mecenazgo en el arte. Han financiado y apoyado a artistas y han influenciado su producción a través de sus preferencias, gustos y agendas. En estos casos, los artistas pueden verse presionados a adaptar su trabajo a las expectativas de las instituciones burguesas para obtener su apoyo y reconocimiento y por ello es por lo que el arte ha sido utilizado recurrentemente como herramienta ideológica de los grupos dominantes, por ejemplo, el nazismo, legitimando y perpetuando el sistema hegemónico. Podemos relacionar esto cuando Lukács habla acerca del “arte llamado tendencioso”:"
+   ],
+   "\n",
+   [
+    "blockquote",
+    {},
+    "\n",
+    [
+     "p",
+     {},
+     "[…] para poder desenredar esta contradicción tenemos que aludir brevemente a la cuestión del arte llamado tendencioso, para ver su interpretación marxista y la relación del mismo con nuestra estética. ¿Qué quiere decir tendencia? En un sentido superficial, quiere significar cualquier esfuerzo o moción política, social, del artista, que éste se propone probar, propagar o ilustrar con sus obras (Lukács, 1966: 252)."
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Y en casos más extremos, también se ha utilizado el poder para censurar o reprimir el arte que desafía su autoridad o crítica. Se han impuesto restricciones sobre la libertad de expresión y se han prohibido o destruido obras de arte que se consideran subversivas o peligrosas para los valores burgueses. Esta represión limita la libertad creativa y dificulta la expresión de ideas y perspectivas alternativas. Como explica Lukács: “[a]quel límite invisible en este ámbito que separa lo permitido de lo prohibido, lo tolerable de lo intolerable para la burguesía, lo opuesto –desde una perspectiva objetiva– solo en apariencia a lo auténticamente revolucionario, se convierte en límite de la tolerancia material por parte de la burguesía, en cuestión de existencia material para este sector intelectual” (Lukács, 1972: 38). De esta manera, deducimos aquí, que la fetichización y la enajenación son elementos de esta realidad social y el arte, como una expresión de esta realidad, refleja y representa estas relaciones asimétricas."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "La forma en que las instituciones y los sistemas de legitimación del arte privilegian ciertos estilos, temas y perspectivas, mientras marginan o ignoran otras formas de expresión artística que cuestionan las convenciones. Lukács nos dice que en las sociedades capitalistas “[u]na clase acostumbrada por la tradición de muchas generaciones al poder y al disfrute de los privilegios no puede nunca aceptar fácilmente el mero hecho de una derrota y dejar sin más que el nuevo orden de cosas pase por encima de ella” (Durán, 1968: 278). Así, las personas que pertenecen a grupos marginados o excluidos a menudo han quedado fuera de la historia del arte. Las narrativas dominantes han minimizado las voces y las experiencias de las diversidades, lo que sólo lleva a perpetuar los cánones aceptables en la representación artística. Por lo tanto, Lukács nos diría que es importante que tanto el teórico como el artista aspiren “a cimentar el reflejo de la misma realidad infinita, tanto en extensión como en intensidad, y en plantear lo descubierto con claridad; de este modo, los puntos de vista más diversos pueden aquí como allá esclarecer lo desconocido, iluminar hasta lo más insignificante, cumpliendo así su misión” (Lukács, 1984: 119). Por lo tanto, las obras de arte pueden contribuir a la desenajenación al promover una conciencia crítica. En este sentido, el artista asume una responsabilidad social al enfrentar fenómenos como la industria cultural de masas o la propaganda nazi, donde estética y política se entrelazan. Lukács criticó duramente estas manifestaciones, especialmente durante su estancia en Moscú, ciudad a la que llegó en 1933."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Lukács nos diría entonces que: “[u]na vez más, hay que poner de relieve que uno no se convierte en un hombre nuevo sino en la medida en que contribuye activamente a modificar la realidad” (Lukács, 1984: 131). Por lo tanto, los artistas deben utilizar el arte como una forma de ayudarnos a ver la realidad histórico-social alejándonos de: “[l]a deformidad [que] aparece como el estado normal del hombre, como el principio determinante de la forma, como único contenido adecuado al arte” (Lukács, 1984: 40). Es decir, “la objetivación de la esencia humana, tanto en el respecto, teorético como en lo práctico, es necesaria para hacer humano el sentido del hombre y así mismo para crear sentido humano que responda a la eterna riqueza del ser humano y natural” (Lukács, 1966: 235)."
+   ],
+   "\n",
+   [
+    "h3",
+    {
+     "id": "t-seccion-6"
+    },
+    "ENFRENTAR LA HOSTILIDAD CAPITALISTA HACIA EL ARTE"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Aunque el arte puede reflejar y perpetuar estructuras de poder y desigualdad social, también puede desafiarlas y dar voz a aquellos que han sido excluidos o marginados. De esta manera, desde Lukács se podría argumentar que el arte debe romper también con la lógica del mercado y las relaciones de poder dominantes, buscando representar la realidad social en su totalidad. Así, a través de la representación de experiencias subalternas y la exploración de otras alternativas, el arte puede ayudarnos a plantear preguntas incómodas y desafiar las normas establecidas. Lukács expone el caso del realismo ruso:"
+   ],
+   "\n",
+   [
+    "blockquote",
+    {},
+    "\n",
+    [
+     "p",
+     {},
+     "[d]esde el punto de vista moral, considero la época entera condenable y al arte, auténtico solo cuando se contrapone a este estado de cosas. Es aquí donde, desde la perspectiva de mi evolución, adquiere significado el realismo ruso. Por cierto, fueron Tolstoi y Dostoievski quienes nos hicieron ver cómo desde la literatura se puede condenar en bloque todo un sistema. Para ellos no se trata de […] que el capitalismo tenga este o aquel defecto, sino […] de que el sistema entero tal como es, es inhumano.",
+     [
+      "sup",
+      {},
+      [
+       "a",
+       {
+        "id": "t-fnref1",
+        "href": "#t-fn1"
+       },
+       "1"
+      ]
+     ]
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "En este sentido, es una necesidad de primer orden que los artistas nos ayuden a pensar la realidad histórico-social pues para Lukács, retomando el ejemplo anterior, la perspectiva socialista creó también en la literatura la posibilidad de examinar la vida históricosocial como una conciencia no falsa. Por ello, el arte como herramienta de liberación y emancipación, debe ser capaz de promover una conciencia crítica y transformadora de la sociedad. Lukács lo aborda en la siguiente cuestión:"
+   ],
+   "\n",
+   [
+    "blockquote",
+    {},
+    "\n",
+    [
+     "p",
+     {},
+     "¿Cuáles son esas tendencias básicas ante las cuales tiene que tomar posición el creador […] si quiere ser un auténtico artista? Son las grandes cuestiones del progreso humano. Ningún gran [creador] puede pasarlas por alto con indiferencia; no hay auténtica creación de tipos, ni ningún realismo profundo sin una apasionada toma de posición respecto de esas cuestiones. Ni un gran [creador] puede distinguir sin ella entre lo esencial y lo inesencial (Lukács, 1966: 254)."
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Esto implicaría tomar consciencia de las dinámicas de poder y las desigualdades inherentes a la sociedad capitalista desde el punto inicial de la creación de arte. Así, los artistas deben ser conscientes de cómo su trabajo puede ser moldeado por las fuerzas del mercado y las expectativas de las instituciones artísticas. Al mismo tiempo, el público debe ser crítico en su apreciación y evaluación del arte, cuestionando las narrativas dominantes y buscando formas de arte que desafíen las desigualdades y den voz a las experiencias marginales. Por lo tanto, el arte verdadero muestra la realidad y Lukács resalta que:"
+   ],
+   "\n",
+   [
+    "blockquote",
+    {},
+    "\n",
+    [
+     "p",
+     {},
+     "[…] importa ante todo la honradez estética de los […] artistas realmente grandes, honradez insobornable y libre de toda vanidad. Para ellos la realidad, tal como es, tal como se les revela su esencia al cabo de laboriosa y profunda consideración, está por encima de sus más íntimos, queridos y acariciados deseos personales. La honradez del gran artista consiste precisamente en dejar desarrollarse hasta sus últimas consecuencias cualquier figura, aunque destruya con su despliegue las concepciones e ilusiones por las cuales se formó en su fantasía, y en no preocuparse de que con ello se dispersen y disuelvan sus más profundas convicciones, por entrar en contradicción con la auténtica y profunda dialéctica de la realidad (Lukács, 1966: 256)."
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Entonces, ¿cómo logra el artista aquello que Lukács busca, si “[l] a tendencia del modo capitalista de producción, hostil al arte y a la cultura, significa por el contrario la fragmentación del hombre […]”? Inspirado probablemente en los Manuscritos económico-filosóficos de 1844 de Marx, Lukács reflexiona sobre la enajenación del hombre en el trabajo capitalista, donde se produce su fragmentación en especialidades abstractas. Al respecto señala: “[t]ambién la crítica romántica anticapitalista contempla ese hecho. Pero esta crítica no ve en él sino un hado, una desgracia, razón por la cual los románticos intentaron –emocional y mentalmente al menos– refugiarse en sociedades más primitivas […]”. Se trata de una contradicción, pues como sabemos Marx y Engels, aun reconociendo la inhumanidad del capitalismo, no negaban su carácter progresivo (1966: 241)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Para el Marx de 1844, la organización del trabajo y el desarrollo de las máquinas abrían la posibilidad de liberar al hombre del trabajo y, con ello, permitirle tiempo para producir cultura (2024: 183). En este sentido, Marx aparece como un pensador favorable a la tecnología. No obstante, conviene matizar: en Miseria de la filosofía advierte que el progreso tecnológico también genera desempleo, y que las propias huelgas obreras han contribuido indirectamente a ese desarrollo. Así, la tecnología capitalista no solo incrementa la productividad, sino que al mismo tiempo despoja a los trabajadores del salario que les permite subsistir. De ahí la necesidad de abolir la división de clases y reapropiarnos de la tecnología en beneficio común."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "En consecuencia, la tecnología, liberada de las condiciones capitalistas, podría emancipar al ser humano del trabajo enajenante y abrir el camino a la creación cultural y artística. La revolución, entonces, nos conduciría verdaderamente a la cultura –y no a la inversa–, aunque en el presente el arte verdadero puede ser un aliado en esa lucha."
+   ],
+   "\n",
+   [
+    "h3",
+    {
+     "id": "t-seccion-7"
+    },
+    "CONCLUSIÓN"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Los artistas adquieren habilidades técnicas y conocimientos que les permiten expresarse y crear obras que reflejen y respondan a la realidad histórico-social en la que se encuentran inmersos, pero para ello es importante ser consciente de la comprensión del contexto institucional del arte y cómo éste ha contribuido en la formación y evolución de las expresiones artísticas a lo largo de la historia, siendo una de estas corrientes: la producción del arte realista. A su vez, no se puede dejar de lado que la base económica tiene una influencia compleja que determinan las oportunidades de financiamiento y apoyo para los artistas, influyen en las temáticas y las representaciones, llegando a restringir la libertad creativa. Sin embargo, el arte realista puede ser una herramienta de resistencia y crítica que desafía la desvirtuación de la naturaleza y ofrece nuevas perspectivas. La lucha contra la exclusión y la marginación en el arte implica imponerse a las normas establecidas, promoviendo la representación de aquellos que no forman parte de los grupos dominantes. Lukács busca en el arte algo más que el goce estético, él promueve la idea de verlo como una herramienta para la transformación social, buscando romper con la enajenación de las sociedades capitalistas."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Por último, hay que reconsiderar las nociones de arte verdadero o arte realista de Lukács desde una perspectiva contemporánea. Se trataría de repensarlas en función del presente, con respecto a la eliminación de la reificación y fortalecer la conciencia crítica."
+   ],
+   "\n",
+   [
+    "h3",
+    {
+     "id": "t-seccion-8"
+    },
+    "BIBLIOGRAFÍA CITADA"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Bollenbeck, G. (2007). Una estética que merecía más atención. En M. Vedda y A. Infranca (Comps.), ",
+    [
+     "em",
+     {},
+     "György Lukács, Ética, Estética y Ontología"
+    ],
+    " (pp. 127-137). Ediciones Colihue."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Duayer, J. (2013). La arquitectura en la estética de Lukács. En M. Vedda (Comp.), ",
+    [
+     "em",
+     {},
+     "Años de peregrinaje filosófico"
+    ],
+    " (pp. 187-196). Herramienta."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Durán, S. (1968). Hacia una estética marxista. En G. Borja Sarmiento (Comp.), ",
+    [
+     "em",
+     {},
+     "Memoria del Simposio Internacional György Lukács"
+    ],
+    " (pp. 189-187). Universidad Autónoma Metropolitana."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "López Soria, J. I. (2021). ",
+    [
+     "em",
+     {},
+     "El joven Lukács"
+    ],
+    ". Editorial Ande."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Lukács, G. (1966). ",
+    [
+     "em",
+     {},
+     "Aportaciones a la historia de la estética"
+    ],
+    ". Grijalbo."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Lukács, G. (1969). ",
+    [
+     "em",
+     {},
+     "Historia y conciencia de clase"
+    ],
+    ". Grijalbo."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Lukács, G. (1972). ",
+    [
+     "em",
+     {},
+     "El joven Hegel y los problemas de la sociedad capitalista"
+    ],
+    ". Grijalbo."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Lukács, G. (1984). ",
+    [
+     "em",
+     {},
+     "Significación actual del realismo crítico"
+    ],
+    ". Ediciones Era."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Lukács, G. (2011). Confusión sobre el “triunfo del realismo. En ",
+    [
+     "em",
+     {},
+     "Escritos de Moscú: Estudios sobre política y literatura"
+    ],
+    " (M. Koval y M. Vedda, Trads., pp. 113-123). Editorial Gorla."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Marx, K. (1975). ",
+    [
+     "em",
+     {},
+     "El Capital, Crítica de la economía política, Tomo 1, Vol. 1"
+    ],
+    ". Siglo XXI."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Marx, K. (2024). ",
+    [
+     "em",
+     {},
+     "Marx: textos de filosofía, política y economía"
+    ],
+    ". Gredos."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Vedda, M. (2012). Estudio preliminar. En György Lukacs, ",
+    [
+     "em",
+     {},
+     "Sobre Lenin y Marx"
+    ],
+    " (pp. 5-34). Editorial Gorla."
+   ],
+   "\n",
+   [
+    "section",
+    {},
+    [
+     "h3",
+     {
+      "id": "t-seccion-9"
+     },
+     "NOTAS"
+    ],
+    [
+     "ol",
+     {},
+     "\n",
+     [
+      "li",
+      {
+       "id": "t-fn1",
+       "lang": "pt"
+      },
+      "Lukács, G. “Marx e o problema da decadencia ideológica en Marxismo e teoría da literatura”, Cfr",
+      [
+       "em",
+       {},
+       "."
+      ],
+      " Juarez Duayer, “La arquitectura en la estética de Lukács”, en ",
+      [
+       "em",
+       {},
+       "Gyorgy Lukács, Años de peregrinaje filosófico"
+      ],
+      ". ",
+      [
+       "a",
+       {
+        "href": "#t-fnref1",
+        "id": "t-llamada-fnref1-1"
+       },
+       "↩"
+      ]
+     ],
+     "\n"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Cómo citar: ",
+    [
+     "em",
+     {},
+     "Bajo el Volcán. Revista del Posgrado de Sociología. BUAP"
+    ],
+    ", Año 7, Núm. 13, noviembre de 2025 – abril de 2026, pp. 349-367. https://doi.org/10.32399/ICSYH.bvbuap.2954-4300.2025.7.13.819"
+   ],
+   [
+    "p",
+    {},
+    [
+     "a",
+     {
+      "href": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
+     },
+     "Licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional"
+    ],
+    ". Publicación de acceso abierto diamante editada por la Benemérita Universidad Autónoma de Puebla."
+   ],
+   "\n"
+  ],
+  "\n"
+ ]
+};
