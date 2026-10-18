@@ -157,6 +157,18 @@ def recolectar(limite, carpeta_final):
         "total": len(resueltas), "revistas": resueltas})
     escribir_informe(temporal, informe, avisos, fecha)
 
+    # Los textos completos se recogen aparte (texto_completo.py): se conservan
+    # y se vuelven a enlazar desde los artículos que siguen en los datos.
+    textos_anteriores = os.path.join(carpeta_final, "textos")
+    if os.path.isdir(textos_anteriores):
+        shutil.copytree(textos_anteriores, os.path.join(temporal, "textos"))
+        import texto_completo  # noqa: E402
+        indice = texto_completo.leer_json(os.path.join(temporal, "textos", "indice.json"), {})
+        texto_completo.aplicar_indice(temporal, indice)
+    for informe_textos in ("informe-texto-completo.md", "informe-texto-completo.json", "informe-texto-completo.js"):
+        if os.path.exists(os.path.join(carpeta_final, informe_textos)):
+            shutil.copy2(os.path.join(carpeta_final, informe_textos), temporal)
+
     # Sustitución de los datos anteriores solo cuando todo ha ido bien.
     if os.path.isdir(carpeta_final):
         shutil.rmtree(carpeta_final)

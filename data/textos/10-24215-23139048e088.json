@@ -1,0 +1,3708 @@
+{
+ "version": 1,
+ "recogido": "2026-10-18T11:43:54+00:00",
+ "doi": "10.24215/23139048e088",
+ "titulo": "Pensar desde el Noroeste Argentino: Orestes Di Lullo, folclore y filosofía",
+ "revista": "2313-9048",
+ "numero": "v18-n18-2025",
+ "licencia": {
+  "codigo": "by-nc-sa",
+  "nombre": "CC BY-NC-SA 4.0",
+  "nombre_completo": "Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional",
+  "url": "https://creativecommons.org/licenses/by-nc-sa/4.0",
+  "url_legal": "https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.es"
+ },
+ "fuente": {
+  "url": "https://perio.unlp.edu.ar/ojs/index.php/cps/article/download/8110/7477/36507?inline=1",
+  "formato": "HTML",
+  "plataforma": "ojs-galerada",
+  "pagina": "https://perio.unlp.edu.ar/ojs/index.php/cps/article/view/8110"
+ },
+ "autores_cita": [
+  {
+   "apellidos": "Herrero Jaime",
+   "nombre_pila": "Susana Inés",
+   "nombre": null
+  }
+ ],
+ "avisos_derechos": [
+  "Derechos de autor 2025 Cuadernos de H ideas",
+  "Licencia Derechos de autor 2025 Cuadernos de H ideas Esta obra está bajo una licencia internacional Creative Commons Atribución-NoComercial-CompartirIgual 4.0. La aceptación de un original por parte de la revista implica la cesión no exclusiva de los derechos patrimoniales de los/as autores/as en favor del editor, quien permite la reutilización, luego de su edición (postprint), bajo una Licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0) Acorde a estos términos, el material se puede compartir (copiar y redistribuir en cualquier medio o formato) y adaptar (remezclar, transformar y crear a partir del material otra obra), siempre que a) se cite la autoría y la fuente original de su publicación (revista y URL de la obra), b) no se use para fines comerciales y c) se mantengan los mismos términos de la licencia. La cesión de derechos no exclusivos implica que luego de su edición (postprint) en Cuadernos de H ideas las/os autoras/es pueden publicar su trabajo en cualquier idioma, medio y formato; en tales casos, se solicita que se consigne que el material fue publicado originalmente en esta revista. Tal cesión supone, también, la autorización de los/as autores/as para que el trabajo sea cosechado por SEDICI, el repositorio institucional de la Universidad Nacional de La Plata, y sea difundido en las bases de datos que el equipo editorial considere adecuadas para incrementar la visibilidad de la publicación y de sus autores/as. Asimismo, la revista incentiva a las/os autoras/es para que luego de su publicación en Cuadernos de H ideas depositen sus producciones en otros repositorios institucionales y temáticos, bajo el principio de que ofrecer a la sociedad la producción científica y académica sin restricciones contribuye a un mayor intercambio del conocimiento global."
+ ],
+ "idioma_principal": "es",
+ "indice": [],
+ "vueltas": {
+  "t-fn1": "t-llamada-fn1-1",
+  "t-fn2": "t-llamada-fn2-1",
+  "t-fn3": "t-llamada-fn3-1",
+  "t-redalyc_314964010_ref28": "t-llamada-redalyc_314964010_ref28-1",
+  "t-redalyc_314964010_ref27": "t-llamada-redalyc_314964010_ref27-1",
+  "t-redalyc_314964010_ref10": "t-llamada-redalyc_314964010_ref10-1",
+  "t-redalyc_314964010_ref1": "t-llamada-redalyc_314964010_ref1-1",
+  "t-fn4": "t-llamada-fn4-1",
+  "t-redalyc_314964010_ref6": "t-llamada-redalyc_314964010_ref6-1",
+  "t-fn5": "t-llamada-fn5-1",
+  "t-fn6": "t-llamada-fn6-1",
+  "t-redalyc_314964010_ref30": "t-llamada-redalyc_314964010_ref30-1",
+  "t-redalyc_314964010_ref38": "t-llamada-redalyc_314964010_ref38-1",
+  "t-redalyc_314964010_ref45": "t-llamada-redalyc_314964010_ref45-1",
+  "t-redalyc_314964010_ref37": "t-llamada-redalyc_314964010_ref37-1",
+  "t-redalyc_314964010_ref2": "t-llamada-redalyc_314964010_ref2-1",
+  "t-fn7": "t-llamada-fn7-1",
+  "t-fn8": "t-llamada-fn8-1",
+  "t-redalyc_314964010_ref39": "t-llamada-redalyc_314964010_ref39-1",
+  "t-redalyc_314964010_ref40": "t-llamada-redalyc_314964010_ref40-1",
+  "t-fn9": "t-llamada-fn9-1",
+  "t-fn10": "t-llamada-fn10-1",
+  "t-redalyc_314964010_ref7": "t-llamada-redalyc_314964010_ref7-1",
+  "t-fn11": "t-llamada-fn11-1",
+  "t-redalyc_314964010_ref12": "t-llamada-redalyc_314964010_ref12-1",
+  "t-redalyc_314964010_ref32": "t-llamada-redalyc_314964010_ref32-1",
+  "t-fn12": "t-llamada-fn12-1",
+  "t-fn13": "t-llamada-fn13-1",
+  "t-fn14": "t-llamada-fn14-1",
+  "t-redalyc_314964010_ref11": "t-llamada-redalyc_314964010_ref11-1",
+  "t-redalyc_314964010_ref16": "t-llamada-redalyc_314964010_ref16-1",
+  "t-fn15": "t-llamada-fn15-1",
+  "t-redalyc_314964010_ref36": "t-llamada-redalyc_314964010_ref36-1",
+  "t-fn16": "t-llamada-fn16-1",
+  "t-redalyc_314964010_ref18": "t-llamada-redalyc_314964010_ref18-1",
+  "t-redalyc_314964010_ref17": "t-llamada-redalyc_314964010_ref17-1",
+  "t-redalyc_314964010_ref41": "t-llamada-redalyc_314964010_ref41-1",
+  "t-redalyc_314964010_ref42": "t-llamada-redalyc_314964010_ref42-1",
+  "t-fn17": "t-llamada-fn17-1",
+  "t-fn18": "t-llamada-fn18-1",
+  "t-redalyc_314964010_ref48": "t-llamada-redalyc_314964010_ref48-1",
+  "t-redalyc_314964010_ref49": "t-llamada-redalyc_314964010_ref49-1",
+  "t-redalyc_314964010_ref25": "t-llamada-redalyc_314964010_ref25-1",
+  "t-redalyc_314964010_ref24": "t-llamada-redalyc_314964010_ref24-1",
+  "t-redalyc_314964010_ref13": "t-llamada-redalyc_314964010_ref13-1",
+  "t-redalyc_314964010_ref14": "t-llamada-redalyc_314964010_ref14-1",
+  "t-fn19": "t-llamada-fn19-1",
+  "t-redalyc_314964010_ref9": "t-llamada-redalyc_314964010_ref9-1",
+  "t-redalyc_314964010_ref23": "t-llamada-redalyc_314964010_ref23-1",
+  "t-fn20": "t-llamada-fn20-1",
+  "t-redalyc_314964010_ref5": "t-llamada-redalyc_314964010_ref5-1",
+  "t-fn24": "t-llamada-fn24-1",
+  "t-fn21": "t-llamada-fn21-1",
+  "t-redalyc_314964010_ref29": "t-llamada-redalyc_314964010_ref29-1",
+  "t-fn22": "t-llamada-fn22-1",
+  "t-redalyc_314964010_ref46": "t-llamada-redalyc_314964010_ref46-1",
+  "t-redalyc_314964010_ref8": "t-llamada-redalyc_314964010_ref8-1",
+  "t-redalyc_314964010_ref15": "t-llamada-redalyc_314964010_ref15-1",
+  "t-redalyc_314964010_ref22": "t-llamada-redalyc_314964010_ref22-1",
+  "t-redalyc_314964010_ref26": "t-llamada-redalyc_314964010_ref26-1",
+  "t-redalyc_314964010_ref34": "t-llamada-redalyc_314964010_ref34-1",
+  "t-redalyc_314964010_ref33": "t-llamada-redalyc_314964010_ref33-1",
+  "t-redalyc_314964010_ref4": "t-llamada-redalyc_314964010_ref4-1",
+  "t-redalyc_314964010_ref47": "t-llamada-redalyc_314964010_ref47-1",
+  "t-redalyc_314964010_ref3": "t-llamada-redalyc_314964010_ref3-1",
+  "t-redalyc_314964010_ref19": "t-llamada-redalyc_314964010_ref19-1",
+  "t-redalyc_314964010_ref20": "t-llamada-redalyc_314964010_ref20-1",
+  "t-redalyc_314964010_ref31": "t-llamada-redalyc_314964010_ref31-1",
+  "t-redalyc_314964010_ref43": "t-llamada-redalyc_314964010_ref43-1",
+  "t-redalyc_314964010_ref44": "t-llamada-redalyc_314964010_ref44-1",
+  "t-redalyc_314964010_ref35": "t-llamada-redalyc_314964010_ref35-1",
+  "t-redalyc_314964010_ref21": "t-llamada-redalyc_314964010_ref21-1"
+ },
+ "contenido": [
+  [
+   "span",
+   {
+    "id": "t-MathJax_Message"
+   }
+  ],
+  "\r\n",
+  [
+   "span",
+   {
+    "id": "t-visor-cabecera"
+   },
+   "\r\n",
+   "\r\n",
+   [
+    "span",
+    {
+     "id": "t-logo-institucion"
+    },
+    "\r\n",
+    [
+     "figura",
+     {}
+    ]
+   ],
+   "\r\n",
+   [
+    "span",
+    {
+     "id": "t-logo-revista"
+    },
+    "\r\n",
+    [
+     "figura",
+     {}
+    ]
+   ],
+   "\r\n",
+   "\r\n"
+  ],
+  "\r\n",
+  [
+   "span",
+   {
+    "id": "t-articulo"
+   },
+   "\r\n",
+   [
+    "span",
+    {
+     "id": "t-front"
+    },
+    "\r\n",
+    [
+     "span",
+     {
+      "id": "t-articulo-categoria"
+     },
+     "\r\n",
+     [
+      "p",
+      {},
+      "Dossier"
+     ],
+     "\r\n"
+    ],
+    "\r\n",
+    [
+     "span",
+     {
+      "id": "t-articulo-meta"
+     },
+     "\r\n",
+     [
+      "p",
+      {},
+      "Pensar desde el Noroeste Argentino: Orestes Di Lullo, folclore y filosofía"
+     ],
+     "\r\n",
+     [
+      "p",
+      {
+       "lang": "en"
+      },
+      "Thinking from the Noroeste Argentino: Orestes Di Lullo, Folklore and Philosophy"
+     ],
+     "\r\n"
+    ],
+    "\r\n",
+    [
+     "span",
+     {
+      "id": "t-articulo-acerca"
+     },
+     "\r\n",
+     [
+      "span",
+      {
+       "id": "t-ficha-general"
+      },
+      "\r\n",
+      [
+       "span",
+       {
+        "id": "t-autores-articulo"
+       },
+       "\r\n",
+       "\r\n",
+       "\r\n",
+       [
+        "a",
+        {
+         "href": "https://orcid.org/0000-0002-9414-7294"
+        },
+        [
+         "figura",
+         {}
+        ]
+       ],
+       "  ",
+       [
+        "span",
+        {},
+        "Susana Inés"
+       ],
+       " ",
+       [
+        "span",
+        {},
+        "Herrero Jaime"
+       ],
+       " ",
+       [
+        "span",
+        {}
+       ],
+       [
+        "span",
+        {},
+        " herrerojaimesusana@gmail.com"
+       ],
+       "\r\n",
+       "\r\n",
+       "\r\n",
+       [
+        "span",
+        {},
+        "Universidad Nacional de Tucumán, Instituto de \r\nInvestigaciones sobre el Lenguaje y la Cultura / Consejo Nacional de \r\nInvestigaciones Científicas y Técnicas (CONICET)"
+       ],
+       ", ",
+       [
+        "span",
+        {},
+        "Argentina"
+       ],
+       "\r\n",
+       "\r\n",
+       "\r\n"
+      ],
+      "\r\n",
+      "\r\n",
+      [
+       "p",
+       {},
+       "\r\n",
+       [
+        "span",
+        {},
+        "Cuadernos de H ideas"
+       ],
+       "\r\n"
+      ],
+      "\r\n",
+      [
+       "p",
+       {},
+       "\r\n",
+       [
+        "span",
+        {},
+        "Universidad Nacional de La Plata, Argentina"
+       ],
+       "\r\n"
+      ],
+      "\r\n",
+      [
+       "p",
+       {},
+       "\r\n",
+       [
+        "span",
+        {},
+        "ISSN: "
+       ],
+       "1851-8206"
+      ],
+      "\r\n",
+      [
+       "p",
+       {},
+       "\r\n",
+       [
+        "span",
+        {},
+        "ISSN-e: "
+       ],
+       "2313-9048"
+      ],
+      "\r\n",
+      [
+       "p",
+       {},
+       "\r\n",
+       [
+        "span",
+        {},
+        "Periodicidad: "
+       ],
+       "Frecuencia continua"
+      ],
+      "\r\n",
+      [
+       "p",
+       {},
+       "\r\n",
+       [
+        "span",
+        {},
+        "vol.  18, "
+       ],
+       "núm.  18, ",
+       [
+        "span",
+        {
+         "id": "t-elocation-id"
+        },
+        "e088, "
+       ],
+       [
+        "span",
+        {},
+        "2024"
+       ],
+       "\r\n"
+      ],
+      "\r\n",
+      [
+       "p",
+       {},
+       "\r\n",
+       "direccion.publicaciones@perio.unlp.edu.ar",
+       "\r\n"
+      ],
+      "\r\n",
+      "\r\n",
+      [
+       "span",
+       {
+        "id": "t-articulo-product"
+       }
+      ],
+      "\r\n",
+      "\r\n",
+      [
+       "p",
+       {},
+       "\r\n",
+       [
+        "span",
+        {},
+        "Recepción: "
+       ],
+       " 02 mayo  2024"
+      ],
+      "\r\n",
+      [
+       "p",
+       {},
+       "\r\n",
+       [
+        "span",
+        {},
+        "Aprobación: "
+       ],
+       " 01 octubre  2024"
+      ],
+      "\r\n",
+      [
+       "p",
+       {},
+       "\r\n",
+       [
+        "span",
+        {},
+        "Publicación: "
+       ],
+       " 17 diciembre  2024"
+      ],
+      "\r\n",
+      [
+       "br",
+       {}
+      ],
+      "\r\n",
+      [
+       "br",
+       {}
+      ],
+      "\r\n",
+      "\r\n",
+      "\r\n",
+      [
+       "span",
+       {},
+       "URL: "
+      ],
+      [
+       "a",
+       {
+        "href": "https://portal.amelica.org/ameli/journal/31/314964010/"
+       },
+       "https://portal.amelica.org/ameli/journal/31/314964010/"
+      ],
+      "\r\n",
+      "\r\n",
+      "\r\n",
+      [
+       "span",
+       {},
+       "DOI: "
+      ],
+      [
+       "a",
+       {
+        "href": "https://doi.org/10.24215/23139048e088"
+       },
+       "https://doi.org/10.24215/23139048e088"
+      ],
+      "\r\n",
+      "\r\n",
+      "\r\n",
+      [
+       "p",
+       {}
+      ],
+      "\r\n",
+      "\r\n",
+      "\r\n",
+      "\r\n",
+      [
+       "a",
+       {
+        "href": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+       },
+       [
+        "figura",
+        {}
+       ],
+       [
+        "br",
+        {}
+       ],
+       "\r\n"
+      ],
+      "Esta obra está bajo una ",
+      [
+       "a",
+       {
+        "href": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+       },
+       "Licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional."
+      ],
+      "\r\n",
+      "\r\n",
+      "\r\n",
+      [
+       "p",
+       {}
+      ],
+      "\r\n"
+     ],
+     "\r\n",
+     [
+      "p",
+      {},
+      "\r\n",
+      [
+       "span",
+       {},
+       "Resumen:\r\n\t\t\t\t\t\t\t                           "
+      ],
+      [
+       "span",
+       {},
+       "En el \r\npresente artículo nos preguntamos por la posibilidad de incluir al \r\nensayista santiagueño Orestes Di Lullo entre los pensadores del noroeste\r\n argentino. Para ello realizamos dos operaciones. Por un lado, indagamos\r\n el sentido de un conjunto de expresiones orgánicas que utilizó para \r\nhablar del sujeto popular y su cultura y por otro, recuperamos las \r\ntensiones que atravesó su interpretación. El análisis nos conduce hacia \r\nel proyecto cultural de los intelectuales del Centenario y nos ubica en \r\nun espacio fronterizo, entre el folclore y la filosofía."
+      ],
+      "\r\n"
+     ],
+     "\r\n",
+     [
+      "p",
+      {},
+      "\r\n",
+      [
+       "span",
+       {},
+       "Palabras clave: "
+      ],
+      "NOA, cultura, pensamiento, folclore.\r\n\t\t                         "
+     ],
+     "\r\n",
+     [
+      "p",
+      {
+       "lang": "en"
+      },
+      "\r\n",
+      [
+       "span",
+       {},
+       "Abstract:\r\n\t\t\t\t\t\t                           "
+      ],
+      [
+       "span",
+       {},
+       "In this \r\narticle we investigate the possibility of including the contributions of\r\n the Santiago essayist Orestes Di Lullo among the thinkers of northwest \r\nArgentina. To do this we do two operations. Firstly, we investigate the \r\nmeaning of a set of organic expressions that he used to talk about the \r\npopular subject and its culture. Secondly, we recover the tensions of \r\nhis interpretation. The analysis takes us to the cultural project of the\r\n intellectuals of the Centennial, between folklore and philosophy."
+      ],
+      "\r\n"
+     ],
+     "\r\n",
+     [
+      "p",
+      {},
+      "\r\n",
+      [
+       "span",
+       {},
+       "Keywords: "
+      ],
+      "NOA, culture, thought, folklore.\r\n                                "
+     ],
+     "\r\n"
+    ],
+    "\r\n"
+   ],
+   "\r\n",
+   [
+    "span",
+    {
+     "id": "t-articulo-body"
+    },
+    "\r\n",
+    [
+     "p",
+     {},
+     "\r\n"
+    ],
+    [
+     "p",
+     {},
+     "Lo nuevo llama de continuo a nuestras puertas."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Si lo queremos percibir […] de continuo también debemos crear   y transformar conceptos, labor esta que se materializa […]"
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "en palabras nuevas, en nuevos significados de palabras conocidas"
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "(Rougés, 1926)"
+    ],
+    "\r\n",
+    [
+     "p",
+     {}
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Presentación"
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "El epígrafe recuperado pertenece a una carta del filósofo tucumano Alberto Rougés (1926),",
+     [
+      "a",
+      {
+       "href": "#t-fn1",
+       "id": "t-llamada-fn1-1"
+      },
+      [
+       "sup",
+       {},
+       "1"
+      ]
+     ],
+     "\r\n en la que le explica a Francisco Romero cómo entiende la actividad del \r\nespíritu. Allí, define su vitalidad en relación con el esfuerzo por \r\nbuscar la inteligibilidad de las cosas a través de las palabras, bajo \r\nuna concepción dinámica de la realidad y la cultura."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Esta comprensión del pensamiento nos remitió a los \r\ntrabajos del intelectual santiagueño Orestes Di Lullo, que, a pesar de \r\nhaber sido médico y de integrar diferentes espacios políticos y \r\nculturales, se destacó como investigador y ensayista.",
+     [
+      "a",
+      {
+       "href": "#t-fn2",
+       "id": "t-llamada-fn2-1"
+      },
+      [
+       "sup",
+       {},
+       "2"
+      ]
+     ],
+     "\r\n Las cualidades de ese género le permitieron esbozar ideas, crear \r\ntérminos y resignificar otros con el fin de responder a los problemas de\r\n su tiempo y de su medio, lo que fue dando a su discurso una tonalidad \r\nfilosófica.",
+     [
+      "a",
+      {
+       "href": "#t-fn3",
+       "id": "t-llamada-fn3-1"
+      },
+      [
+       "sup",
+       {},
+       "3"
+      ]
+     ],
+     " A partir del trabajo de \r\ncampo, la observación y la reflexión, Di Lullo elaboró un conjunto de \r\nexpresiones para hablar del sujeto popular y su cultura. Estas tuvieron \r\nla singularidad de acercar lo humano a lo orgánico y de mostrar, a \r\npartir de ello, su evidente otredad respecto de la cultura “oficial”."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "En este trabajo, nos preguntamos si esas ideas –y la \r\nconsideración de su autor– pueden formar parte de una investigación más \r\namplia que se pregunta por la existencia de un pensamiento filosófico \r\nsituado en el noroeste argentino (en adelante, NOA). Esta inquietud nos \r\nobliga a ampliar la noción misma de filosofía, motivo por el cual nos \r\nacercamos a pensadores que discutieron sus límites y las singularidades \r\nque adopta cuando se hace desde América Latina."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Entre ellos, se ubican Arturo Andrés ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964010_ref28",
+       "id": "t-llamada-redalyc_314964010_ref28-1"
+      },
+      "Roig (1993)"
+     ],
+     "\r\n y Eduardo Devés-Valdés y Andrés Kozel (2018), autores que dedicaron \r\nparte de su obra a considerar problemas metodológicos específicos de \r\neste campo del saber. El primero, abrió la filosofía hacia otras \r\ndisciplinas; recuperó la dimensión histórica del sujeto pensante y la \r\nconflictividad social implicada en su discurso como un elemento propio \r\nde la investigación (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964010_ref27",
+       "id": "t-llamada-redalyc_314964010_ref27-1"
+      },
+      "Roig, 1981"
+     ],
+     ", ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964010_ref28",
+       "id": "t-llamada-redalyc_314964010_ref28-2"
+      },
+      "1993"
+     ],
+     ").\r\n Los segundos, desarrollaron modos alternativos de historiar el \r\npensamiento, y presentaron las nociones de “entidad” y de “sistema \r\neidético” para abordar las ideas en un marco interdisciplinario (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964010_ref10",
+       "id": "t-llamada-redalyc_314964010_ref10-1"
+      },
+      "Devés-Valdés & Kozel, 2018"
+     ],
+     ")."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Siguiendo sus propuestas, recuperamos las expresiones\r\n de Di Lullo para hablar del sujeto popular y exploramos su sentido en \r\nel marco de la obra y los intereses del autor. Usamos las categorías de \r\n“entidad eidética” y de “sistema eidético”, de ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964010_ref10",
+       "id": "t-llamada-redalyc_314964010_ref10-2"
+      },
+      "Devés-Valdés y Kozel (2018)"
+     ],
+     ",\r\n para evaluar la capacidad de estas expresiones para describir, para \r\nexplicar y para programar acciones, operaciones que según los autores \r\ndefinen a los “sistemas”. La identificación de metáforas vegetales en \r\notros intelectuales del NOA, o vinculados a esa región, nos sugiere la \r\nposibilidad de abrir nuevas exploraciones con el fin de problematizar \r\nsus distancias y continuidades en un marco más amplio de comunicaciones y\r\n de intercambios. En este caso, solo mencionamos algunos ejemplos que \r\npodrían integrar ese linaje, y esperamos avanzar en este punto en \r\npróximos trabajos. Junto al sentido de las categorías utilizadas por Di \r\nLullo nos interesan las tensiones que atraviesa su interpretación. Por \r\nese motivo, retomamos el camino que va del discurso al momento de su \r\nproducción y que ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964010_ref28",
+       "id": "t-llamada-redalyc_314964010_ref28-3"
+      },
+      "Roig (1993)"
+     ],
+     " \r\nllama “retroceso metodológico” (p. 172), con el fin de recuperar el \r\nmarco en el que fueron formuladas. Este derrotero nos conduce al espacio\r\n interior y nos ubica entre las provincias de Santiago del Estero y de \r\nTucumán. Nos instala, además, entre el folclore y la filosofía, ámbitos \r\ndisciplinares que se organizaron en la universidad tucumana entre las \r\ndécadas de 1930 a 1950."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Filosofía “terruñera”"
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "El título de esta sección recupera una expresión que usó el historiador santiagueño Luis ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964010_ref1",
+       "id": "t-llamada-redalyc_314964010_ref1-1"
+      },
+      "Alén Lascano (1999)"
+     ],
+     " para indicar el interés de Di Lullo en el ",
+     [
+      "span",
+      {},
+      "volkgeist"
+     ],
+     "\r\n nativo. Esa cuestión –que ocupó a los románticos a fines del XIX en \r\nEuropa e impulsó el desarrollo del folclore como disciplina–, nos \r\npermite ubicarlo entre los intelectuales que entre 1930 y 1950 indagaron\r\n el “alma” o los rasgos de la “personalidad” del pueblo argentino."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Bajo ese objetivo, el Di Lullo buscó fortalecer su \r\ntrayectoria y conseguir financiamiento a través del vínculo con los \r\nindustriales azucareros de Tucumán, y estableció una estrecha amistad \r\ncon Ernesto Padilla. El ex gobernador de la provincia fue uno de los \r\nprincipales promotores de esos estudios en la región e integró al \r\nescritor al proyecto de recopilación de los antiguos cantares \r\ntradicionales del NOA.",
+     [
+      "a",
+      {
+       "href": "#t-fn4",
+       "id": "t-llamada-fn4-1"
+      },
+      [
+       "sup",
+       {},
+       "4"
+      ]
+     ],
+     "\r\n"
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Al igual que Juan Alfonzo Carrizo y los folcloristas \r\n“de provincia”, el ensayista recorrió el interior y llenó sus cuadernos \r\nde anotaciones sobre coplas y rimas populares que recuperó de la \r\ntradición oral (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964010_ref6",
+       "id": "t-llamada-redalyc_314964010_ref6-1"
+      },
+      "Cheín, 2010"
+     ],
+     "). \r\nObservó con dedicación las diferentes danzas nativas, y transcribió \r\ncuentos, mitos y leyendas. Visitó cada pueblo de Santiago; conversó con \r\nlos vecinos y participó de fiestas y de rituales que luego ordenó, \r\nclasificó e interpretó, dando lugar a su cancionero o a trabajos como ",
+     [
+      "span",
+      {},
+      "El folklore de Santiago del Estero"
+     ],
+     " (1943). Con ello, no solo buscó legitimar su experticia en el nuevo campo (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964010_ref6",
+       "id": "t-llamada-redalyc_314964010_ref6-2"
+      },
+      "Cheín, 2010"
+     ],
+     "), sino profundizar sobre un tema que lo había sensibilizado desde su juventud: la situación de los sectores populares."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "En primer lugar, y de la mano de la militancia, el \r\nautor identificó al pueblo con los vecinos de los barrios más \r\ncarenciados y, como médico rural, con el sujeto del interior.",
+     [
+      "a",
+      {
+       "href": "#t-fn5",
+       "id": "t-llamada-fn5-1"
+      },
+      [
+       "sup",
+       {},
+       "5"
+      ]
+     ],
+     "\r\n Se interesó, en particular, por el “hachero”, al que se refirió en su \r\njuventud como “obrero del bosque”, y por el “campesino” (Di Lullo, 1937 \r\n[1999], p. 8). Se trató, en ambos casos, de sujetos subalternos, pues no\r\n poseían las herramientas para revertir una situación presentada en \r\ntérminos de fatalidad, sea por la imposibilidad de salir del sistema \r\nexplotador o por la desintegración social a la que conducía el éxodo. \r\nExpresiones como “el paria de los obrajes” o el “campesino de antaño” \r\nreferían a uno y a otro caso, pero mientras el primero operó como una \r\nfigura idealizada, o una suerte de arquetipo, el segundo era su \r\nantítesis y representaba al sujeto corrompido por las condiciones de \r\nhabitabilidad de la selva. El punto de inflexión entre uno y otro fue \r\npara Di Lullo el proceso modernizador, o, más específicamente, las \r\nresonancias locales del ingreso del país al orden capitalista. Esta \r\nsituación se visibilizó a los ojos del autor y de otros compañeros de \r\ngeneración a través del ferrocarril y la organización de los obrajes.",
+     [
+      "a",
+      {
+       "href": "#t-fn6",
+       "id": "t-llamada-fn6-1"
+      },
+      [
+       "sup",
+       {},
+       "6"
+      ]
+     ],
+     "\r\n"
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Si bien lo señalado conduce a pensar que estas \r\nfiguraciones corresponden a dos momentos específicos de la historia \r\nprovincial, algunos pasajes superponen ambas construcciones. Esto da \r\nlugar a una descripción imprecisa, frente a la que el autor se mueve con\r\n ambigüedad, alternando una mirada que gravita entre la admiración y la \r\ncondena de las prácticas populares. Esta posición puede advertirse en \r\nobras tempranas y en documentos íntimos, y deja traslucir la tensión \r\nentre “lo culto y lo popular” que experimentaron otros autores del \r\nperíodo. En el caso del pensador que indagamos, esta actitud guardaba \r\nrelación con su pertenencia social y su inserción en la oligarquía \r\ntucumana, así como también con el discurso médico que adquirió en la \r\nUniversidad de Buenos Aires, en un ambiente marcadamente positivista (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964010_ref30",
+       "id": "t-llamada-redalyc_314964010_ref30-1"
+      },
+      "Tasso, 2011"
+     ],
+     ")."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "La mirada ambivalente del ensayista tuvo su origen en\r\n la dimensión mestiza del campesino, condición que entendió \r\nconflictivamente. En sintonía con las ideas que Bernardo Canal Feijóo \r\npresentó en ",
+     [
+      "span",
+      {},
+      "Ensayos sobre la expresión popular artística en Santiago del Estero"
+     ],
+     " (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964010_ref38",
+       "id": "t-llamada-redalyc_314964010_ref38-1"
+      },
+      "1937 [2012a]"
+     ],
+     "), y distanciándose como él de Ricardo Rojas y ",
+     [
+      "span",
+      {},
+      "Eurindia"
+     ],
+     " (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964010_ref45",
+       "id": "t-llamada-redalyc_314964010_ref45-1"
+      },
+      "1980 [1924]"
+     ],
+     "),\r\n señaló que las herencias recibidas –la indígena y una versión impura de\r\n la española– gravitaban en la genética del sujeto, condicionaban su \r\ncultura y orientaban su carácter hacia un perfil esquizoide (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964010_ref37",
+       "id": "t-llamada-redalyc_314964010_ref37-1"
+      },
+      "Di Lullo, 1983"
+     ],
+     ").\r\n De esa manera, se iba perfilando la “otredad” de ese sujeto rural \r\nrespecto del citadino o letrado, incluyendo entre estos al propio \r\ninvestigador, que se convertía en un traductor o mediador entre ambos. \r\nEn una carta a Padilla, el ensayista reflexiona sobre este punto de la \r\nsiguiente manera: “",
+     [
+      "span",
+      {},
+      "Es muy difícil suponer que exista en el alma del pueblo un mundo distinto al nuestro y sin embargo es así"
+     ],
+     ".\r\n Lo han formado los temores diarios a través de los tiempos, el miedo a \r\nlo desconocido, a lo que no comprende por ignorancia o por torpeza” (Di \r\nLullo, comunicación personal con Ernesto Padilla, 18 de enero de 1937)."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Ese sujeto y su mundo fue lo que Di Lullo intentó \r\ncomprender y explicar, y para ello necesitó, también, nombrar. Por ese \r\nmotivo, formuló un conjunto de expresiones que agrupamos bajo la noción \r\nde “metáforas vegetales”, pues operan tomando figuras e imágenes que \r\nprovienen de un ámbito conocido –el mundo natural– para acceder a otro \r\nmenos conocido –el modo de ser del sujeto rural– (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964010_ref2",
+       "id": "t-llamada-redalyc_314964010_ref2-1"
+      },
+      "Canclini, 2020, p. 135"
+     ],
+     ").",
+     [
+      "a",
+      {
+       "href": "#t-fn7",
+       "id": "t-llamada-fn7-1"
+      },
+      [
+       "sup",
+       {},
+       "7"
+      ]
+     ],
+     "\r\n Si bien es posible ver allí el señalamiento de las consecuencias \r\nsubjetivas y sociales de la tragedia forestal, también nos hace pensar \r\nen una comprensión singular del indígena, al que ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964010_ref37",
+       "id": "t-llamada-redalyc_314964010_ref37-2"
+      },
+      "Di Lullo (1983)"
+     ],
+     "\r\n describió como “esclavo de la tierra” (p. 16), o en una relación de \r\n“connaturalidad” con ella (p. 223). Este último punto es el que, \r\nfinalmente, articula los diferentes sentidos de nuestra indagación."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Sujeto vegetal"
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Entre las expresiones que el ensayista formuló para \r\ndar cuenta del sujeto popular, aparecen un conjunto de términos que \r\nremiten al mundo natural y orgánico. Estas metáforas operan en un \r\nsentido doble. Por un lado, acercan lo humano a lo vegetal; por otro \r\nlado, realizan la operación inversa, es decir, “humanizan” lo orgánico."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Entre las primeras, encontramos en ",
+     [
+      "span",
+      {},
+      "El bosque sin leyenda"
+     ],
+     " (1937 [1999]) y en ",
+     [
+      "span",
+      {},
+      "La razón del folklore"
+     ],
+     "\r\n (1983) la identificación de la vida del campesino con el ritmo vegetal y\r\n su necesidad de adherencia al suelo. De esa manera, se habla del sujeto\r\n y de “la tierra donde vegeta” (1937, p. 52); se describe a una \r\npoblación que vive “adherida al suelo” (1937, p. 48), se afirma su \r\n“enclavamiento vegetativo” (1983, p. 29) y, también, que el campesino \r\n“no vive, vegeta” (p. 208). Una reformulación de esta idea aparece en el\r\n siguiente pasaje, en donde se compara al campesino con un árbol y las \r\nconsecuencias del éxodo, con su desraizamiento: “Alguna vez tuvo fuerza o\r\n necesidad de ",
+     [
+      "span",
+      {},
+      "arrancarse a su terruño. "
+     ],
+     "Más",
+     [
+      "span",
+      {},
+      " sintió como si le descuajaran de raíz, como sienten las plantas que las arrancan"
+     ],
+     ". Y no pudo ser, lejos del paisaje amado, el mismo que era. Fue otro siempre…” (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964010_ref37",
+       "id": "t-llamada-redalyc_314964010_ref37-3"
+      },
+      "Di Lullo, 1983, p. 20"
+     ],
+     ")."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Esta imagen también está en ",
+     [
+      "span",
+      {},
+      "El bosque sin leyenda"
+     ],
+     " (1937 [1999], pp. 19; 42-43); se repite en otra oportunidad en ",
+     [
+      "span",
+      {},
+      "La razón del folklore"
+     ],
+     "\r\n (1983, p. 208), y en ese mismo libro vuelve a reformularse bajo el \r\nseñalamiento de la “unción” de la vida de ambos en la faena del bosque \r\n(p. 92)."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Un segundo conjunto de metáforas acerca ambos \r\ncorrelatos pero en el sentido contrario, es decir, humanizando lo \r\norgánico. La referencia a la “tierra” como “madre”, y su profunda \r\nresonancia prehispánica, se amplifica en algunos pasajes, donde el autor\r\n presenta una suerte de animismo del sustrato mineral o vegetal, como en\r\n el siguiente caso: “[El campesino] ama al terruño que le mima con sus \r\ndulces afluencias, que le rehace sus fuerzas perdidas y le arrulla con \r\nmaternales cantos” (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964010_ref37",
+       "id": "t-llamada-redalyc_314964010_ref37-4"
+      },
+      "Di Lullo, 1983, p. 32"
+     ],
+     ")."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "En la misma sintonía, en el ensayo de 1937 se afirma \r\nque los golpes de hacha dejan al descubierto la “carne roja” del árbol \r\n(Di Lullo, 1937, p. 21|); que los mismos son “asesinados” en el obraje; \r\nque sangran como animales o como personas y, cuando finalmente caen \r\nabatidos, son transportados en “camillas” (pp. 21-24).",
+     [
+      "a",
+      {
+       "href": "#t-fn8",
+       "id": "t-llamada-fn8-1"
+      },
+      [
+       "sup",
+       {},
+       "8"
+      ]
+     ],
+     "\r\n Se dice, además, que el bosque “muere” cuando pasa a ser “una pila de \r\nleña, nada más” (p. 22) y cuando su restos se queman en la parva para \r\nhacer carbón, se habla de un “sacrificio” (p. 28). También, que antes de\r\n este proceso la selva se “estremecía” de germinación (p. 72); que \r\n“duerme” (p. 82) y “respira” (p. 83), y que “devora” las caravanas que \r\nse internan en sus profundidades (p. 40). Se trata de un paisaje que \r\nabsorbe o “fagocita” al sujeto que vive inmerso en él (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964010_ref37",
+       "id": "t-llamada-redalyc_314964010_ref37-5"
+      },
+      "Di Lullo, 1983, p. 19"
+     ],
+     "),\r\n pero que también sufre con su ausencia: “El éxodo es la lágrima sin \r\nconsuelo del campo; de ese campo que se queda con su órbita vacía de \r\nmirar el regreso tardío del hombre” (Di Lullo, 1937, p. 20)."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "¿Qué sentido tienen estas expresiones? ¿Qué nos dicen\r\n del sujeto popular? ¿Por qué Di Lullo elije estas comparaciones y no \r\notras para describirlo? ¿Qué singularidades evidencian?"
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Por un lado, podemos decir que el estrecho vínculo \r\nentre la vida campesina y la vida vegetativa nos conduce a pensar en la \r\nidealización de Di Lullo sobre el pasado agropastoril de la provincia. \r\nEl autor veía en esa economía la potencia que en el pasado había \r\ndisciplinado el nomadismo indígena, condición que habría heredado el \r\ncampesino actual a través del mestizaje, y que restituía y que avivaba \r\nla dinámica del éxodo (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964010_ref37",
+       "id": "t-llamada-redalyc_314964010_ref37-6"
+      },
+      "Di Lullo, 1983"
+     ],
+     ").\r\n Por ese motivo, el autor consideraba que la agremiación y el \r\nsedentarismo podían restituir el entramado poblacional que la dinámica \r\nforestal había interrumpido. Podríamos considerar, entonces, como una \r\nprimera síntesis, que estas expresiones denotan que el pueblo “es” \r\ncuando entra en vínculo con la tierra, aunque su relación con ella no es\r\n la de la posesión individual como pensó Canal Feijóo (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964010_ref39",
+       "id": "t-llamada-redalyc_314964010_ref39-1"
+      },
+      "1937 [2012b]"
+     ],
+     ", ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964010_ref40",
+       "id": "t-llamada-redalyc_314964010_ref40-1"
+      },
+      "1944 [2012c]"
+     ],
+     "), sino la que se establece a través del trabajo y la subsistencia comunal."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Por otro lado, la dependencia de la vida del sujeto y\r\n la del mundo natural o, más específicamente, la del campesino y el \r\nbosque o el árbol, nos remite a las consecuencias sociales y culturales \r\ndel obraje. La deforestación o la muerte del bosque es también la muerte\r\n del sujeto, no solo porque esa actividad lo deshumaniza, sino también \r\nporque su consecuencia es la ruptura del entramado social que lo \r\ncontiene. Así lo describe el autor en el libro citado:"
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "\r\n"
+    ],
+    [
+     "p",
+     {},
+     "La tala […] es una actividad sistematizada que \r\ndespuebla las selvas después de despoblar de hombres los campos, y cuya \r\nenergía se consume, al fin, cuando queda la tierra despoblada de vida. \r\nEl hachero también muere. Llorando el sudor de todos sus poros, \r\ntranspirando la sangre de infinitas jornadas. Y muere su familia \r\nconsumida en la espera vana (Di Lullo, 1937, p. 22)."
+    ],
+    "\r\n",
+    [
+     "p",
+     {}
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "De esa manera, se desprende la idea de que ambos \r\ndestinos están inextricablemente unidos, algo de lo que intentó dar \r\ncuenta al describir la actividad forestal en términos de “guerra” entre \r\nel hombre y el árbol, señalando así su peligro recíproco (Di Lullo, \r\n1937, pp. 80-86). Hay también en este punto un pálpito ecologista pues \r\nel ensayista se muestra preocupado por señalar la importancia del bosque\r\n en relación a la renovación y a la perpetuación de la vida, aspecto que\r\n no le impide proponer otra forma de aprovechar su riqueza. Por el \r\ncontrario, reivindica el desarrollo de una industria sustentable, \r\nadvierte la rentabilidad del bosque y señala el derecho de la provincia a\r\n realizar una explotación racional de sus recursos, sin olvidar la \r\nnecesidad de una legislación que proteja al trabajador.",
+     [
+      "a",
+      {
+       "href": "#t-fn9",
+       "id": "t-llamada-fn9-1"
+      },
+      [
+       "sup",
+       {},
+       "9"
+      ]
+     ],
+     "\r\n"
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Otros sentidos se abren en torno a estas metáforas si\r\n prestamos atención a la representación del autor sobre el indígena, a \r\nsu descripción como un sujeto pasivo que se “adecua” a la naturaleza (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964010_ref37",
+       "id": "t-llamada-redalyc_314964010_ref37-7"
+      },
+      "Di Lullo, 1983, p. 44"
+     ],
+     ").\r\n Esta relación parece continuarse en su heredero el campesino, cuyo \r\nvínculo con ella fue señalado con el término “connaturalidad” (p.13).",
+     [
+      "a",
+      {
+       "href": "#t-fn10",
+       "id": "t-llamada-fn10-1"
+      },
+      [
+       "sup",
+       {},
+       "10"
+      ]
+     ],
+     "\r\n Si bien gravita en este punto una comprensión de signo peyorativo, pues\r\n acercar estos correlatos da cuenta de una mayor indiferenciación entre \r\nlo natural y lo cultural y por ello, de una distancia mayor con la \r\ncultura “occidental”, también nos abre hacia la comprensión de las \r\nrelaciones entre la cultura y el suelo que se habita. Ese vínculo posee \r\nuna dimensión “coercitiva”, de la que da cuenta la noción de \r\nfagocitación, como explica Lucas ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964010_ref7",
+       "id": "t-llamada-redalyc_314964010_ref7-1"
+      },
+      "Cosci (2015, p. 71)"
+     ],
+     ",\r\n pero también aparece referida con rasgos nativistas, como una \r\ngravitación que impregna el espíritu del sujeto y que deja su huella en \r\nla expresión popular."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Sobre lo primero, el autor referido explica que la \r\nfagocitación del sujeto por el paisaje habría generado en su carácter \r\nuna actitud de “sumisión” frente a cualquier relación asimétrica, sea \r\nesta con la naturaleza, con el invasor o frente al sistema del obraje (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964010_ref7",
+       "id": "t-llamada-redalyc_314964010_ref7-2"
+      },
+      "Cosci, 2015, p. 71"
+     ],
+     ").\r\n La consecuencia de esta situación es no poder establecer con ella una \r\nrelación de “dominación”, pues para el campesino la naturaleza “es solo \r\nun refugio conseguido, más nunca conquistado” (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964010_ref37",
+       "id": "t-llamada-redalyc_314964010_ref37-8"
+      },
+      "Di Lullo, 1983, p. 19"
+     ],
+     ").\r\n El ensayista santiagueño afirma su condición de “espectador” antes que \r\nactor (p. 170), y señala que en esa posición el sujeto no solo observa, \r\nsino que también aprende, y, a través de la experiencia, resuelve sus \r\nnecesidades vitales (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964010_ref37",
+       "id": "t-llamada-redalyc_314964010_ref37-9"
+      },
+      "Di Lullo, 1983"
+     ],
+     ")."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Esa falta de intervención en la naturaleza es lo que \r\nsubyace a ciertas expresiones culturales y lo que puede explicarlas. \r\nEstá en la base de las técnicas populares de construcción y en el modo \r\nde asumir el trabajo, así como también en un amplio conjunto de saberes \r\nque, con cierta imprecisión, el autor llama “filosofía”.",
+     [
+      "a",
+      {
+       "href": "#t-fn11",
+       "id": "t-llamada-fn11-1"
+      },
+      [
+       "sup",
+       {},
+       "11"
+      ]
+     ],
+     " En ",
+     [
+      "span",
+      {},
+      "La razón del folklore"
+     ],
+     "\r\n (1983), el santiagueño afirma que el sujeto popular “toma lo que le \r\nofrece la naturaleza para transformarlo en directivas éticas o \r\nestéticas, o puramente formales del espíritu” (p. 169), y traduce una de\r\n ellas como la tendencia a “vivir con el menor esfuerzo” o, por lo \r\nmenos, con el esfuerzo estrictamente necesario (p. 71)."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "En este punto, vemos cómo el modo de ser campesino se\r\n explica, en buena medida, sobre la base de su vínculo con la \r\nnaturaleza, y que Di Lullo puede nombrarlo a través de sus metáforas \r\nvegetales. Consideramos que hay en esta comprensión una recuperación de \r\nlas consecuencias culturales que se entretejen en la relación del sujeto\r\n con el suelo o con el paisaje, y que de ese vínculo se desprenden una \r\nserie de singularidades caracterológicas. La referencia a la actitud \r\n“estoica” del santiagueño ante la fatalidad de su destino tiene su base \r\nen la subyugación del paisaje. Así como también es ese mismo principio \r\nel que lo empuja a adoptar una actitud de “burla”, de engaño o de \r\npicardía, frente a situaciones opresivas (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964010_ref37",
+       "id": "t-llamada-redalyc_314964010_ref37-10"
+      },
+      "Di Lullo, 1983"
+     ],
+     ")."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Debemos ahondar, también, en los pasajes en los que \r\nse hace referencia a la tierra como “madre” (Di Lullo, 1937, p. 79), o \r\ndonde lo natural u orgánico adquiere características animistas. \r\nApoyándonos en otros estudios, diremos que hay una resonancia indígena \r\ntanto en esa comparación, como en la relación “casi simbiótica” que se \r\nestablece entre el sujeto con el ambiente (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964010_ref12",
+       "id": "t-llamada-redalyc_314964010_ref12-1"
+      },
+      "Fabermann, 2010, p. 75"
+     ],
+     ").\r\n En los escritos del ensayista esta condición tensiona los límites entre\r\n lo humano y lo no humano, y también entre lo humano y lo animal."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Lo primero aparece en el campo de la medicina \r\npopular, donde ciertas entidades espirituales e, incluso, posesiones \r\npueden ser la causa de diferentes enfermedades. Por ese motivo, los \r\nexorcismos, la apelación a determinadas oraciones u otras prácticas de \r\nnaturaleza religiosa o sugestiva, forman parte de la terapéutica \r\npopular. A estos aspectos se refirió el autor en ",
+     [
+      "span",
+      {},
+      "La medicina popular en Santiago del Estero"
+     ],
+     " (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964010_ref32",
+       "id": "t-llamada-redalyc_314964010_ref32-1"
+      },
+      "1929"
+     ],
+     "), y en ",
+     [
+      "span",
+      {},
+      "La razón del folklore"
+     ],
+     " (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964010_ref37",
+       "id": "t-llamada-redalyc_314964010_ref37-11"
+      },
+      "1983"
+     ],
+     ")\r\n recuperó un conjunto de interacciones simbólicas de carácter preventivo\r\n que el sujeto establecía con entidades no humanas para evitar males \r\ncomo el ",
+     [
+      "span",
+      {},
+      "paaj"
+     ],
+     ", o “mal del quebracho” (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964010_ref37",
+       "id": "t-llamada-redalyc_314964010_ref37-12"
+      },
+      "Di Lullo, 1983, p. 118"
+     ],
+     ").",
+     [
+      "a",
+      {
+       "href": "#t-fn12",
+       "id": "t-llamada-fn12-1"
+      },
+      [
+       "sup",
+       {},
+       "12"
+      ]
+     ],
+     "\r\n"
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Lo segundo fue desarrollado en el último capítulo de ",
+     [
+      "span",
+      {},
+      "La razón del folklore "
+     ],
+     "(1983).\r\n Es allí donde el autor señala la antigua reminiscencia indígena que \r\nsubyace en la relación de “reciprocidad” que se establece entre el \r\ncampesino y algunos animales (p. 232). Especialmente, con el perro y el \r\ncaballo, en el espacio doméstico y privado, y se justifica en la \r\nnecesidad de subsistencia.",
+     [
+      "a",
+      {
+       "href": "#t-fn13",
+       "id": "t-llamada-fn13-1"
+      },
+      [
+       "sup",
+       {},
+       "13"
+      ]
+     ],
+     " El vínculo \r\nentre el sujeto rural y sus animales no es solo instrumental, aunque se \r\nafirme que son sus “herramientas de trabajo” o se destaque la \r\n“racionalidad” que existe en su empleo para tareas específicas (p. 230).\r\n Son también sus “amigos” o sus “auxiliares afectivos”, individuos de \r\nlos que aprende y a los que ha enseñado (p. 229).",
+     [
+      "a",
+      {
+       "href": "#t-fn14",
+       "id": "t-llamada-fn14-1"
+      },
+      [
+       "sup",
+       {},
+       "14"
+      ]
+     ],
+     " Se trata de una relación en la que, insistimos, se achican las distancias:"
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "\r\n"
+    ],
+    [
+     "p",
+     {},
+     "El santiagueño, el caballo y el perro forman un \r\ntrío de mutua comprensión. Afinados, se complementan y encajan en un \r\nsimple esquema vital de necesidades recíprocas para el común de la \r\ngente, pero de extraordinaria plusvalía para el que percibe en la \r\nhondura ",
+     [
+      "span",
+      {},
+      "ese ingrediente de humanidad que los une"
+     ],
+     " […] cuando se integran y se abrazan por encima de los géneros y de las especies (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964010_ref37",
+       "id": "t-llamada-redalyc_314964010_ref37-13"
+      },
+      "Di Lullo, 1983, p. 231"
+     ],
+     ")."
+    ],
+    "\r\n",
+    [
+     "p",
+     {}
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Este punto es sugerente si pensamos en los estudios \r\nque identifican la noción de “reciprocidad” como un principio del \r\npensamiento andino (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964010_ref11",
+       "id": "t-llamada-redalyc_314964010_ref11-1"
+      },
+      "Estermann, 2006"
+     ],
+     ") y los que señalan la importancia del vínculo entre el sujeto, el espacio que habita y su pensamiento (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964010_ref16",
+       "id": "t-llamada-redalyc_314964010_ref16-1"
+      },
+      "Kusch, 1976"
+     ],
+     "). En el caso del campesino santiagueño, ese entramado se construyó, según ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964010_ref37",
+       "id": "t-llamada-redalyc_314964010_ref37-14"
+      },
+      "Di Lullo (1983)"
+     ],
+     ",\r\n a través de la intuición, la observación, la pasión y la experiencia, \r\nfacultades que habilitaron diferentes estrategias de subsistencia. \r\nTambién con base en las negociaciones que, como todo grupo humano, \r\nestableció con su medio, con los otros sujetos y con lo sagrado. Una de \r\nlas consecuencias de esa investigación fue la conmoción que generó en el\r\n ensayista, quien termina por preguntarse sobre la validez de los \r\nprincipios de la cultura “oficial”:"
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "\r\n"
+    ],
+    [
+     "p",
+     {},
+     "Este tríptico de una sola humanidad está desplazado\r\n de la actual vida móvil estrepitosa y veloz, ¿o es la vida la que \r\nperdió la brújula y no sabe adónde se encamina? ¿Se han quedado atrás el\r\n hombre santiagueño, su caballo y su perro? ¿O señalan el verdadero \r\nrumbo de los que han extraviado el camino, y han de volver a la \r\npaciencia, al sentimiento y a la mansedumbre? (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964010_ref37",
+       "id": "t-llamada-redalyc_314964010_ref37-15"
+      },
+      "Di Lullo, 1983, p. 232"
+     ],
+     ")."
+    ],
+    "\r\n",
+    [
+     "p",
+     {}
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Entidades y sistemas eidéticos"
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Luego de este análisis, podemos observar que las \r\nmetáforas vegetales no constituyen solamente un recurso estético o \r\nliterario. Por el contrario, denotan también ideas sobre el sujeto \r\npopular y su cultura. Lo que queremos señalar es que la mirada conjunta o\r\n relacional de esas expresiones nos permite ahondar en la perspectiva de\r\n Di Lullo, e inferir un conjunto de razones o de principios que \r\ncondicionan la manera de ser y de estar de ese sujeto. Insistimos en \r\nseñalar que si bien esta indagación guardó motivos personales y \r\ncognoscitivos, tuvo también otros de índole práctica, por la voluntad \r\npolítica del autor. Esto quiere decir que hay una realidad diferenciada \r\nque el santiagueño debía conocer porque quería intervenir en ella, y el \r\nprimer paso en ese proceso era poder nombrarla."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "El acento en la dimensión práctica del pensamiento y su relación con lo social fue una de las inquietudes que llevó a ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964010_ref10",
+       "id": "t-llamada-redalyc_314964010_ref10-3"
+      },
+      "Devés-Valdés y Kozel (2018)"
+     ],
+     "\r\n a proponer las nociones de “entidad” y de “sistema eidético”, y a los \r\n“estudios eidéticos” como su espacio de consideración. Esta propuesta se\r\n justifica en la imposibilidad de contener la vitalidad del quehacer \r\nintelectual en una sola disciplina, en la voluntad de animar el diálogo y\r\n el encuentro entre los saberes que se ocupan de las “ideas”, y de \r\ninvitar al investigador o investigadora a que disponga creativamente de \r\nesos recursos (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964010_ref10",
+       "id": "t-llamada-redalyc_314964010_ref10-4"
+      },
+      "Devés-Valdés & Kozel, 2018"
+     ],
+     ").\r\n La noción de “entidad eidética” les permite a estos autores separar su \r\ncomprensión de una perspectiva platónica o psicologista y señalar su \r\nexpresión a través del lenguaje (p. 67).",
+     [
+      "a",
+      {
+       "href": "#t-fn15",
+       "id": "t-llamada-fn15-1"
+      },
+      [
+       "sup",
+       {},
+       "15"
+      ]
+     ],
+     "\r\n Asimismo, explican que la “entidad eidética” es “un conjunto de \r\nnociones articulables como frases […] que apuntan a describir y/o \r\nexplicar y/o analizar y/o programar” un fenómeno o estado de cosas (p. \r\n65). Estas pueden articularse entre sí y formar estructuras más amplias,\r\n los “sistemas eidéticos”, que constituyen un grupo organizado de \r\nproposiciones. Sus partes interesan en la medida en que integran un \r\nconjunto articulado, bajo la intención de “entender una parte de la \r\nexistencia-realidad” (p. 67) y, también, de ofrecer criterios para \r\nactuar en relación a ella."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Consideramos que el conjunto de términos y de \r\nexpresiones usados por Di Lullo habilitan estas operaciones. A través de\r\n ellas, es posible nombrar o describir un fenómeno –en este caso, el \r\nmodo de ser del campesino santiagueño–, así como explicar y analizar su \r\ncomportamiento. En relación con esto, es la connaturalidad del indígena y\r\n su pervivencia en la genética del campesino lo que explica y justifica \r\nsu modo de ser. Da cuenta de las contradicciones de su personalidad o \r\n“carácter”, su tendencia a la sumisión frente a las situaciones de \r\nexplotación y su manera de resistirla. Le permiten señalar el daño que \r\nopera el éxodo en la subjetividad campesina, en la medida en que aviva \r\nla vieja tendencia indígena al nomadismo y favorece la disgregación. \r\nTambién puede explicar aspectos de su cultura. No solo la dimensión \r\nsugestiva de la medicina sino también de su “filosofía”, término que el \r\nautor entiende desde un sentido próximo al de “sabiduría”, y que es \r\nresultado de una larga experiencia que lo instala en el mundo de una \r\ndeterminada manera, y cuya complejidad no se agota con lo descripto."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Entendemos que, en este marco comprensivo, también \r\npuede inferirse cierta normatividad en relación con lo que es un pueblo,\r\n problema que, como ya señalamos, interesó al santiagueño, no solo por \r\nrazones intelectuales sino también políticas. Podríamos decir que las \r\nmetáforas vegetales forman parte de los términos utilizados para hacer \r\nel diagnóstico de la situación del campesino y pensar su recuperación. \r\nQuizás pueda interpretarse bajo esas luces la dimensión programática de \r\nun libro como ",
+     [
+      "span",
+      {},
+      "La agonía de los pueblos"
+     ],
+     " (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964010_ref36",
+       "id": "t-llamada-redalyc_314964010_ref36-1"
+      },
+      "Di Lullo, 1946"
+     ],
+     "),\r\n donde el autor realizó una serie de propuestas para favorecer la \r\ninstalación y el desarrollo del pueblo santiagueños, y que fue publicado\r\n unos años antes de su postulación a gobernador de la provincia."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Hasta aquí, podríamos afirmar que el marco facilitado por ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964010_ref10",
+       "id": "t-llamada-redalyc_314964010_ref10-5"
+      },
+      "Devés-Valdés y Kozel (2018)"
+     ],
+     "\r\n nos ayudó a pensar en la dimensión “eidética” del trabajo de Di Lullo. \r\nSin embargo, la presencia de nociones similares en trabajos de otros \r\nintelectuales de la región nos invita a ampliar un poco más la \r\nperspectiva. Esto se justifica en la posibilidad de pensar estas \r\nexpresiones en conjunto, bajo la noción de “sistema eidético” y, a \r\npartir de ello, identificar las aristas de un pensamiento situado en el \r\nNOA y en algunos de sus referentes.",
+     [
+      "a",
+      {
+       "href": "#t-fn16",
+       "id": "t-llamada-fn16-1"
+      },
+      [
+       "sup",
+       {},
+       "16"
+      ]
+     ],
+     " \r\nPara ello, las nociones vegetales deberían satisfacer las condiciones \r\nque enunciamos en páginas anteriores, que caracterizan a un sistema y \r\nque habilitan la comprensión de un fenómeno específico, en este caso, la\r\n indagación del sujeto popular y su cultura. Lejos de proponernos un \r\ndesarrollo exhaustivo, nos interesa señalar algunas relaciones a partir \r\nde ciertas nociones orgánicas, y la coincidencia entre ensayistas y \r\nfilósofos que las formularon y que trabajaron más cerca o más lejos del \r\námbito del folclore o de la filosofía. Bernardo Canal Feijóo \r\n(1897-1982), Rodolfo Kusch (1922-1979) o el filósofo tucumano Gaspar \r\nRisco Fernández (1933-2021), podrían ser pensadores de ese linaje, \r\naunque formularon su pensamiento en diferentes contextos y se \r\nrelacionaron con esos ámbitos de manera diversa."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Canal Feijóo se destacó en la escena local y nacional\r\n por su temprano reconocimiento como poeta y ensayista, y por la acción \r\ncultural que llevó adelante en su provincia a través de La Brasa. Entre \r\n1930 y 1950, publicó una serie de trabajos orientados al campo del \r\nfolclore, pero bajo una perspectiva diferente a la de Di Lullo y los \r\nreferentes de la casa de estudios tucumana. Esto se debió a que sus \r\ninterpretaciones se alimentaron de una temprana recepción del \r\npsicoanálisis y del pensamiento de Gustav Jung, fuentes que también \r\nutilizará Kusch en América profunda (1962). Como señala Mailhe (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964010_ref18",
+       "id": "t-llamada-redalyc_314964010_ref18-1"
+      },
+      "2013b"
+     ],
+     "),\r\n estas le permitieron develar el fondo indígena forcluido que perduraba \r\nen las prácticas del pueblo, en los bienes y los valores del presente. \r\nEn algunos trabajos, el autor insistió en cómo esas prácticas procesaban\r\n las relaciones de dominación, acercándose de esa manera a la noción de \r\n“fagocitación” que luego utilizó Kusch para señalar los procesos que \r\npermitían la apropiación por parte de los sectores populares de los \r\nconceptos foráneos (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964010_ref17",
+       "id": "t-llamada-redalyc_314964010_ref17-1"
+      },
+      "Mailhe, 2013b, p. 23"
+     ],
+     ")."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Canal Feijóo definió al indígena como un sujeto que vivía en “connaturalidad” con la naturaleza en textos como ",
+     [
+      "span",
+      {},
+      "Proposiciones en torno al problema de una cultura nacional argentina"
+     ],
+     " (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964010_ref40",
+       "id": "t-llamada-redalyc_314964010_ref40-2"
+      },
+      "1944 [2012c]"
+     ],
+     ")\r\n y cuando se ocupó de Santiago identificó en el arraigo la condición de \r\nposibilidad de la existencia de un pueblo que como consecuencia del \r\néxodo, había “desaparecido” (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964010_ref41",
+       "id": "t-llamada-redalyc_314964010_ref41-1"
+      },
+      "1951 [2012d]"
+     ],
+     ",\r\n p. 81). La noción de “vegetalidad” que compartió con Di Lullo, y luego \r\ncon Kusch, remite a ese vínculo, aunque el ensayista no solo destacó la \r\ndimensión simbólica entre el sujeto y su medio sino también el problema \r\nde su posesión. De esa manera, el sentido de esa noción se complejiza al\r\n incluir el problema de la tierra. ",
+     [
+      "span",
+      {},
+      "Pasión y muerte"
+     ],
+     " de Silverio Leguizamón (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964010_ref39",
+       "id": "t-llamada-redalyc_314964010_ref39-2"
+      },
+      "1937 [2012b]"
+     ],
+     ") giró en torno a este problema que en un ensayo como ",
+     [
+      "span",
+      {},
+      "Teoría de la ciudad argentina"
+     ],
+     " (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964010_ref41",
+       "id": "t-llamada-redalyc_314964010_ref41-2"
+      },
+      "1951 [2012d]"
+     ],
+     ")\r\n adquirió tenor analítico. Allí se ubica el problema en un marco más \r\namplio que considera las tensiones entre el “interior” y la ciudad \r\ncapital. Las nociones de “ser” y “estar”, que tendrán una carga \r\nontológica importante en el planteo posterior de Kusch y que con \r\nborrosidad se habrían esbozado también en ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964010_ref37",
+       "id": "t-llamada-redalyc_314964010_ref37-16"
+      },
+      "Di Lullo (1983, p. 135)"
+     ],
+     ", develan un modo de ser que ya no se circunscribe solo al sujeto local sino al nacional. Su sentido en Canal Feijóo (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964010_ref42",
+       "id": "t-llamada-redalyc_314964010_ref42-1"
+      },
+      "1954 [2007]"
+     ],
+     ")\r\n proviene de una reflexión sobre la lengua española y de la distinción \r\ndel verbo “ser”. Lo interesante en ese punto es la relación que \r\nestablece entre esa singularidad idiomática y la condición escindida del\r\n pueblo argentino, situación que habría imposibilitado la formulación de\r\n una cultura nacional “auténtica” (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964010_ref42",
+       "id": "t-llamada-redalyc_314964010_ref42-2"
+      },
+      "Canal Feijóo, 1954 [2007]"
+     ],
+     ").",
+     [
+      "a",
+      {
+       "href": "#t-fn17",
+       "id": "t-llamada-fn17-1"
+      },
+      [
+       "sup",
+       {},
+       "17"
+      ]
+     ],
+     "\r\n"
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Los contactos entre Canal Feijóo y Kusch fueron \r\nabordados en diferentes estudios, pero en menor medida, los que acercan a\r\n este último con Di Lullo.",
+     [
+      "a",
+      {
+       "href": "#t-fn18",
+       "id": "t-llamada-fn18-1"
+      },
+      [
+       "sup",
+       {},
+       "18"
+      ]
+     ],
+     " Aunque Kusch\r\n desarrolló toda su formación en Buenos Aires, mantuvo un intenso \r\nvínculo biográfico, afectivo e intelectual con el NOA y sus autores. La \r\nregión ocupó un lugar destacado en su pensamiento por su potencia para \r\namericanizar el país. Con esa perspectiva, el autor de ",
+     [
+      "span",
+      {},
+      "América profunda"
+     ],
+     " (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964010_ref48",
+       "id": "t-llamada-redalyc_314964010_ref48-1"
+      },
+      "1962"
+     ],
+     "),\r\n retomó una larga tradición que valoraba esa región cultural por la \r\ncosmovisión prehispánica que habría sobrevivido en su folclore y por su \r\nconexión cultural con el espacio andino (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964010_ref18",
+       "id": "t-llamada-redalyc_314964010_ref18-2"
+      },
+      "Mailhe, 2013b"
+     ],
+     ").\r\n Las nociones de “vegetalidad”, de “fagocitación” o el señalamiento del \r\n“mero estar” como modo existencial específico del sujeto americano, \r\nfueron nociones utilizadas para señalar su diferencia del modelo \r\noccidental, ya que no podía ser comprendido desde categorías europeas (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964010_ref17",
+       "id": "t-llamada-redalyc_314964010_ref17-2"
+      },
+      "Mailhe, 2013b, p. 22"
+     ],
+     ").\r\n La posibilidad de pensar a Kusch en diálogo con otros ensayistas y \r\nfolcloristas del NOA visibiliza los ribetes de un linaje que sobre otros\r\n tópicos presentó Alejandra Mailhe (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964010_ref18",
+       "id": "t-llamada-redalyc_314964010_ref18-3"
+      },
+      "2013b"
+     ],
+     "),\r\n y acompaña su interpretación, al ver otros aspectos que van más allá de\r\n la recepción de Heidegger o del pensamiento europeo. Desde este marco, \r\nes posible pensar la inquietud del filósofo por una filosofía \r\npropiamente americana y la singularidad de su metodología, cercana a la \r\nvoluntad etnográfica que movió a los folcloristas unas décadas antes."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Por último, el teólogo y filósofo Gaspar Risco \r\nFernández, mantuvo un espíritu orgánico similar para pensar y para \r\nhablar del pueblo. Si bien pueden rastrearse de manera esporádica las \r\nnociones de “vegetalidad” o de “fagocitación” en los trabajos reunidos \r\nen ",
+     [
+      "span",
+      {},
+      "Cultura y región"
+     ],
+     " (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964010_ref49",
+       "id": "t-llamada-redalyc_314964010_ref49-1"
+      },
+      "1991"
+     ],
+     "),\r\n también propone otros nuevos. Tal es el caso de las nociones de “humus”\r\n o de “levadura” para hacer referencia a la presencia indígena y popular\r\n del subsuelo cultural, y su fertilidad para proyectar el futuro de la \r\nNación (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964010_ref25",
+       "id": "t-llamada-redalyc_314964010_ref25-1"
+      },
+      "Risco Fernández, 1994, p. 9"
+     ],
+     ").\r\n A pesar de la existencia de cierta distancia contextual entre su \r\ntrabajo y el de los autores considerados, mantuvo una representación en \r\nla que acercó al indígena al mundo natural (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964010_ref24",
+       "id": "t-llamada-redalyc_314964010_ref24-1"
+      },
+      "Risco Fernández, 1986"
+     ],
+     "), posición que fue matizando a partir de la organización de las Jornadas Culturales del Valle Calchaquí (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964010_ref13",
+       "id": "t-llamada-redalyc_314964010_ref13-1"
+      },
+      "Herrero Jaime, 2022"
+     ],
+     ").\r\n Risco Fernández mantuvo la confianza en las posibilidades simbólicas \r\ndel NOA para repensar la Nación, y se apoyó en la tradición del \r\nCentenario Tucumano, en el pensamiento de Rojas y en el de Canal Feijóo \r\npara formular una serie de propuestas que desde el campo cultural \r\npretendían intervenir en su desarrollo y contrarrestar la potencia \r\ncentrífuga de Buenos Aires. También se ocupó de estudiar el pensamiento \r\nde los ensayistas y folcloristas del NOA como Di Lullo o Juan Alfonso \r\nCarrizo, impulsado por la voluntad de pensar la identidad regional –y \r\nnacional– desde sus propias fuentes (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964010_ref14",
+       "id": "t-llamada-redalyc_314964010_ref14-1"
+      },
+      "Herrero Jaime, 2024"
+     ],
+     ")."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Podemos ver cómo al margen de sus diferencias estas \r\nexpresiones se asientan en la supuesta relación de connaturalidad que \r\naproxima al indígena con el mundo natural o permiten explicar el lazo \r\nsimbólico que se articula entre el sujeto y su tierra –o paisaje– a \r\ntravés de la cultura. Develan una temporalidad singular, cierto modo de \r\nser o, más precisamente, de “estar” en el mundo. Con ello, se habilita \r\nel señalamiento de una diferencia, la existencia de un ethos cultural \r\nsingular, como dirá ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964010_ref49",
+       "id": "t-llamada-redalyc_314964010_ref49-2"
+      },
+      "Risco Fernández (1991)"
+     ],
+     ",\r\n que no se condice con el habitante citadino o que se aleja, en ciertos \r\naspectos, del paradigma occidental de humanidad. Estas nociones les \r\npermiten explicar un fenómeno o un estado de cosas, y establecer cierta \r\nnormatividad al definir y al distinguir lo que es un pueblo, operación \r\nque habilitó, en algunos casos, la formulación de proyectos de \r\nintervención.",
+     [
+      "a",
+      {
+       "href": "#t-fn19",
+       "id": "t-llamada-fn19-1"
+      },
+      [
+       "sup",
+       {},
+       "19"
+      ]
+     ],
+     "\r\n"
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "A partir de las relaciones que esbozamos, intentamos \r\ndestacar lo aires de familia terminológicos y eidéticos que, a pesar de \r\nsus matices diferenciales, articulan una perspectiva para pensar lo \r\nhumano. Lo interesante del marco de ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964010_ref10",
+       "id": "t-llamada-redalyc_314964010_ref10-6"
+      },
+      "Devés-Valdés y Kozel (2018)"
+     ],
+     "\r\n es que sus diferencias no inhabilitan la posibilidad de interpretarlas \r\nen conjunto, propuesta que los autores desarrollaron al tomar los \r\nmodelos orgánicos para pensar los sistemas. De esta manera, las ideas \r\nsufren transformaciones y mutaciones que permiten su permanencia, como \r\nlos organismos vivos renuevan partes de su estructura para pervivir. Se \r\nintenta pensar, así, en “la vida de las ideas” (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964010_ref10",
+       "id": "t-llamada-redalyc_314964010_ref10-7"
+      },
+      "Devés-Valdés & Kozel, 2018, p. 107"
+     ],
+     ")\r\n o en su durabilidad y en las transformaciones que lo permiten. Esto \r\núltimo, parece justificarse en su potencialidad para describir, para \r\ncomprender y para actuar sobre un fenómeno concreto, que en este caso es\r\n el sujeto popular y su cultura."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Conceptos y contexto"
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Hacia el final de ",
+     [
+      "span",
+      {},
+      "Historia de las ideas, teoría del discurso y pensamiento latinoamericano"
+     ],
+     " (1993), Arturo Andrés Roig se pregunta lo siguiente:"
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "\r\n"
+    ],
+    [
+     "p",
+     {},
+     "¿Por qué los hombres de nuestra América han cobrado\r\n conciencia de su tiempo con determinadas categorías y no con otras […] y\r\n qué tiempos son los que se han mostrado a ese hombre con esas \r\ncategorías? […] ¿Hasta qué punto se ha tomado conciencia, por parte de \r\nesos hombres […] de que no solo han construido la “objetividad”, sino \r\nque también son agentes de la realidad social –aun cuando de modo \r\ndeficitario– que ellos mismos objetivan? (p. 171)."
+    ],
+    "\r\n",
+    [
+     "p",
+     {}
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Lo que el filósofo señala es el vínculo entre los \r\nconceptos y la temporalidad entendida como tiempo humano e histórico. \r\nDicha relación nos permite conectar un discurso singular –el de Di \r\nLullo, en este caso– con un marco lingüístico más amplio con el que \r\ndialoga o confronta. Siguiendo estas ideas, debemos preguntarnos qué nos\r\n dicen sus “metáforas vegetales” del tiempo en el que las utilizó, \r\nimpulsado por la voluntad de comprender un fenómeno que señaló como \r\n“propiamente santiagueño” (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964010_ref37",
+       "id": "t-llamada-redalyc_314964010_ref37-17"
+      },
+      "Di Lullo, 1983, p. 3"
+     ],
+     ")."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "En este punto, vemos un doble marco de tensiones o de\r\n singularidades que se articulan en su perspectiva. Por un lado, las que\r\n responden a la constitución de un problema específico y la respuesta \r\nsingular de Di Lullo y, por otro lado, el marco disciplinar o \r\ncomprensivo desde el que fue abordado. Ambas nos ubican entre las \r\ndécadas de 1930 a 1950, período en el que el folclore y la filosofía se \r\nfueron desarrollando como espacios disciplinares diferenciados."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Según indican ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964010_ref9",
+       "id": "t-llamada-redalyc_314964010_ref9-1"
+      },
+      "Devés-Valdés (1997)"
+     ],
+     " o Lucía ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964010_ref23",
+       "id": "t-llamada-redalyc_314964010_ref23-1"
+      },
+      "Piossek Prebisch (2008)"
+     ],
+     ",\r\n en ese período el pensamiento nacional puso énfasis en la cuestión \r\nidentitaria, problema que en algunos casos fue pensado desde el campo de\r\n la cultura.",
+     [
+      "a",
+      {
+       "href": "#t-fn20",
+       "id": "t-llamada-fn20-1"
+      },
+      [
+       "sup",
+       {},
+       "20"
+      ]
+     ],
+     " La filósofa se refiere al \r\ninterés que despertó el tema en los pensadores del Centenario del NOA, \r\ncomo Rougés o Rojas, y por eso los llamó “filósofos de la nacionalidad”.\r\n El chileno coincide con ella al señalar, desde un esquema dialéctico, \r\nque el problema de la identidad se articuló de manera compleja con los \r\nefectos de la modernización, aspecto que en el caso de nuestros autores,\r\n adquirió rasgos singulares por el carácter marginal del NOA. Podemos \r\ncruzar esa inquietud con la de los estudios del folclore, en la medida \r\nen que su preocupación también fue indagar el “espíritu” del pueblo, su \r\n“alma” o “personalidad” singular, términos que utilizó ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964010_ref23",
+       "id": "t-llamada-redalyc_314964010_ref23-2"
+      },
+      "Piossek Prebisch (2008, p. 29)"
+     ],
+     "\r\n para referirse a ese problema en el ámbito de la filosofía, y que \r\ntambién usó Di Lullo para definir el objetivo de sus investigaciones."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Una serie de singularidades orientaron el pensamiento hacia esa zona problemática. ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964010_ref9",
+       "id": "t-llamada-redalyc_314964010_ref9-2"
+      },
+      "Devés-Valdés (1997)"
+     ],
+     "\r\n señala la influencia del arielismo a principios del siglo XX y el \r\ntránsito operado desde el positivismo hacia un vitalismo espiritualista.\r\n A nivel nacional, la presencia inmigratoria (que se percibía con fuerza\r\n en Buenos Aires), y la emergencia progresiva de una masa popular que \r\ndesde la ley Sáenz Peña hasta el primer peronismo fue ganando \r\nprotagonismo, fueron elementos que también empujaron la reinstalación de\r\n ese tópico en las décadas siguientes."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "En Tucumán, el tema adquirió una coloración singular,\r\n pues la indagación de la verdadera Argentina se articuló con objetivos \r\npolíticos y económicos muy específicos, los de la clase industrial \r\nazucarera. Estos terminaron por hibridarse en un ambicioso proyecto \r\ncultural de alcance regional, que incluyó una serie de proyectos \r\norientados al desarrollo del folclore y, también, a la fundación de la \r\nuniversidad, que a fines de los años treinta abriría la carrera de \r\nfilosofía."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Como señaló Oscar ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964010_ref5",
+       "id": "t-llamada-redalyc_314964010_ref5-1"
+      },
+      "Chamosa (2012)"
+     ],
+     ",\r\n la elaboración de los cancioneros populares fue parte de una estrategia\r\n que buscó proteger el azúcar a través de un argumento racial, motivo \r\nque llevó a Carrizo a formular una perspectiva sobre el sujeto popular \r\nque favorecía a la industria, pero que también marcaba una diferencia \r\nrespecto del afluente poblacional que germinaba en Buenos Aires.",
+     [
+      "a",
+      {
+       "href": "#t-fn24",
+       "id": "t-llamada-fn24-1"
+      },
+      [
+       "sup",
+       {},
+       "21"
+      ]
+     ],
+     "\r\n De esa manera, al obrero de la ciudad y de la fábrica, socialista o \r\nanarquista pero sobre todo conflictivo, se contraponía el sujeto rural y\r\n campesino, el trabajador de los ingenios, caracterizado en la \r\nrepresentación norteña por su cultura de raíz ibérica y por su profunda \r\nsensibilidad católica."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Esa primera tensión, articulada entre la capital y el\r\n interior (o, más específicamente, entre la capital y Tucumán, sobre la \r\nbase de influencia en el NOA), puede mostrarnos la primera singularidad a\r\n la que queremos referirnos en relación con el trabajo de Di Lullo. Si \r\nbien el santiagueño presentó un sujeto popular que coincidía, en buena \r\nmedida, con el arquetipo que impulsó Carrizo bajo las indicaciones de \r\nRougés y de Padilla, por su catolicismo y por la resonancia cultural de \r\nla vieja metrópolis, también se distanciaba de aquel. A diferencia del \r\nestudio del catamarqueño y del cancionero de Tucumán, el autor de ",
+     [
+      "span",
+      {},
+      "La razón del folklore"
+     ],
+     " (1983) recuperó la presencia indígena en Santiago y su huella en la cultura.",
+     [
+      "a",
+      {
+       "href": "#t-fn21",
+       "id": "t-llamada-fn21-1"
+      },
+      [
+       "sup",
+       {},
+       "22"
+      ]
+     ],
+     "\r\n Incluso, cabría indagar cierto señalamiento crítico sobre la zafra, que\r\n si bien hasta lo que pudimos indagar no parece visible en los libros \r\npublicados por la universidad tucumana, sí está en estudios previos y \r\nposteriores, y, aparentemente, fue conocida por Padilla."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "En relación con la cuestión disciplinar, proponemos \r\npensar a Di Lullo como un autor que se ubicó entre el folclore y la \r\nfilosofía, en la medida en la que sus estudios le permitieron \r\nencontrarse con ella en un doble sentido. No solo identificó un conjunto\r\n de saberes que señaló con la expresión “filosofía popular”, sino que \r\npara llegar a ella tuvo que dar cuenta de un sujeto singular, y elaboró \r\nun conjunto de términos y de expresiones que se lo permitieron. En este \r\npunto, no solo vemos cumplirse lo que Rougés señalaba al principio sobre\r\n la actividad del espíritu, sino también el esfuerzo por comprender esa \r\nrealidad y actuar sobre ella, operaciones que tienen los discursos de \r\ncontenido eidético, o dicho de otro modo, cualidad que vuelve el \r\ndiscurso de Di Lullo susceptible de esa investigación."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Quizás sobre este punto tenga sentido recuperar la \r\nfigura de Rougés y sus ideas sobre el desarrollo del campo cultural de \r\nla provincia y la región. Ya señalamos el impulso que dio la Generación \r\ndel Centenario tucumana al desarrollo de la cultura y a ambos núcleos \r\ndel saber, proceso en el que el filósofo tuvo una actuación destacada. \r\nEn relación con la organización de la carrera de filosofía, diremos que \r\ntuvo lugar a partir de la apertura de su Departamento, en 1939, y que \r\npara la organización de su campo fue fundamental el desarrollo de la \r\nrevista Sustancia (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964010_ref29",
+       "id": "t-llamada-redalyc_314964010_ref29-1"
+      },
+      "Ruvituso & Sosa, 2018"
+     ],
+     ").\r\n Dirigida por el filósofo Alfredo Coviello, esta publicación supo \r\ncobijar tanto a filósofos como a folcloristas. De esta manera, mientras \r\nRougés coordinaba con Padilla los estudios sobre folclore, y acompañaba a\r\n Carrizo en la formulación de sus interpretaciones sobre el sujeto \r\npopular, mantenía contacto con los grandes pensadores del momento \r\n–quienes estimaban profundamente su labor–; formaba un plantel docente \r\nde primer nivel para la carrera que se abría en Tucumán, y seguía de \r\ncerca proyectos como la revista mencionada, sin descuidar los asuntos \r\ninherentes a sus cargos políticos y a la industria familiar."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Lo que resulta interesante de este proceso es la \r\npreocupación que Rougés desarrolló en algunos ensayos sobre la tarea del\r\n intelectual (Perilli de Colombres Garmendia & Elba Romero de \r\nEspinosa, 2005). En ",
+     [
+      "span",
+      {},
+      "El filósofo"
+     ],
+     " (1916), \r\nseñaló la incompatibilidad que surge al intentar dar cuenta de la vida \r\nespiritual y sus objetos, a partir de nociones formuladas para describir\r\n la realidad material. En ",
+     [
+      "span",
+      {},
+      "La filosofía que se ve"
+     ],
+     " (1921) señaló la existencia de una filosofía “vulgar” e inherente a todo sujeto y en ",
+     [
+      "span",
+      {},
+      "Educación y tradición"
+     ],
+     "\r\n (1937), trabajo que antecede a la versión escolar del cancionero \r\npopular de Carrizo, problematizó la situación de una educación “oficial”\r\n que no incluía el saber popular.",
+     [
+      "a",
+      {
+       "href": "#t-fn22",
+       "id": "t-llamada-fn22-1"
+      },
+      [
+       "sup",
+       {},
+       "23"
+      ]
+     ],
+     " La \r\nfilosofía, como un ámbito que privilegió cierto tipo de conocimiento y \r\nde profesionalización, no admitió en la ideación de uno de sus primeros \r\nprogramas la cuestión cultural, local o popular (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964010_ref46",
+       "id": "t-llamada-redalyc_314964010_ref46-1"
+      },
+      "Programas, 1941"
+     ],
+     ").\r\n A mismo tiempo, estos temas quedaron circunscriptos a otras \r\ndisciplinas, al espacio de las letras o a los estudios de folclore, \r\nsegún pudimos observar en el diagnóstico que realizó Coviello en su ",
+     [
+      "span",
+      {},
+      "Geografía intelectual de la República Argentina"
+     ],
+     " (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964010_ref8",
+       "id": "t-llamada-redalyc_314964010_ref8-1"
+      },
+      "1941"
+     ],
+     ").\r\n En ese sentido, el proceso de organización disciplinar en Tucumán \r\nparece haber profundizado las distancias entre el folclore y la \r\nfilosofía, a partir de la especificidad de cada espacio."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Conclusiones"
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Una de las singularidades de la filosofía, en relación con otras disciplinas, es la dificultad que supone definirla (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964010_ref15",
+       "id": "t-llamada-redalyc_314964010_ref15-1"
+      },
+      "Jaspers, 1975"
+     ],
+     ").\r\n Diferentes autores latinoamericanos advirtieron el signo colonialista \r\nde ese problema y exhortaron a filosofar “sin más”. En algunos casos, \r\nesto significó tomar como tema de investigación los modos que fue \r\nadoptando ese quehacer, los sujetos que lo asumieron y las condiciones \r\nhistóricas en las que lo llevaron adelante. En esa línea de tonalidad \r\nemancipadora se ubicaron las propuestas de Roig y de Devés-Valdéz, \r\nfilósofos que enmarcaron nuestra lectura de Di Lullo y la pregunta por \r\nla posibilidad de su inserción entre los/las pensadores/as del NOA. La \r\npreocupación del santiagueño por responder a las preguntas que se abrían\r\n en su horizonte cultural y epocal, así como la formulación de términos y\r\n de expresiones específicas para aprehenderlas, fueron las razones que \r\nnos sugirieron esa posibilidad."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Di Lullo articuló un conjunto de expresiones, \r\nimágenes y categorías para nombrar a un “otro” que en tanto “otro” se \r\npresentaba como problemático y fascinante. El modelo de los contenidos \r\neidéticos nos permitió evaluar las posibilidades sistémicas de su \r\npropuesta, en relación con su capacidad para describir, para explicar y \r\npara programar acciones, operaciones que para Devés-Valdéz y Kozel \r\n(2018) los definen. Sugerimos, además, la posibilidad que abre esta \r\nperspectiva, en la medida en que hallamos vinculaciones y resonancias en\r\n otros intelectuales del período y posteriores, como Canal Feijóo, Kusch\r\n y Risco Fernández."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Por último, la indagación de estos conceptos nos \r\ncondujo a pensar en el contexto en el que fueron formulados. Descubrimos\r\n allí que Di Lullo, si bien se incorporó al proyecto de la élite \r\ntucumana y siguió en buena medida su perspectiva sobre el sujeto \r\npopular, abrió una distinción con Carrizo al señalar la herencia \r\nindígena del sujeto popular y su huella en la cultura. De esta última \r\npudimos dar cuenta a través de la interpretación de sus metáforas \r\nvegetales."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "En relación con este punto, señalamos cómo la \r\nindagación y las respuestas del santiagueño se articulan en un espacio \r\nfronterizo entre el folclore y la filosofía, visible en el gesto de \r\ncrear términos y de describir un fenómeno específico del NOA. Por \r\núltimo, vinculamos esta cuestión con las preocupaciones de Rougés por la\r\n articulación entre el saber académico y el popular, y llegamos a \r\nsugerir que el desarrollo de los campos del folclore y de la filosofía, \r\nlejos de favorecer esa articulación, pareció operar en el sentido \r\ncontrario."
+    ],
+    "\r\n"
+   ],
+   "\r\n",
+   [
+    "span",
+    {
+     "id": "t-back"
+    },
+    "\r\n",
+    [
+     "p",
+     {},
+     "Referencias"
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964010_ref1"
+     },
+     "Alén Lascano, L. (1999). Biobibliografía del académico correspondiente Doctor Orestes Di Lullo. ",
+     [
+      "span",
+      {},
+      "Boletín de la Academia Nacional de Historia (1997-1998)"
+     ],
+     ". ",
+     [
+      "a",
+      {
+       "href": "http://repositorio.anh.org.ar/jspui/handle/anh/299"
+      },
+      "http://repositorio.anh.org.ar/jspui/handle/anh/299"
+     ],
+     "\r\n"
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964010_ref2"
+     },
+     "Canclini, R. (2020). La metáfora vegetal en Rodolfo Kusch: algunas consideraciones. En A. Zagari (Coord.), ",
+     [
+      "span",
+      {},
+      "Rodolfo Kusch. Esbozos filosóficos situados"
+     ],
+     " (pp. 135-144). CICCUS."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964010_ref3"
+     },
+     "Carreras, G. (2007). ",
+     [
+      "span",
+      {},
+      "Autoafirmación y autocomprensión del sujeto argentino en la obra de Bernardo Canal Feijóo"
+     ],
+     ". Intercambio Cultural Alemán Latinoamericano (ICALA)."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964010_ref4"
+     },
+     "Carreras, G. (2019).\r\n El trauma forestal. El ensayo santiagueño y la explotación forestal. En\r\n F. Orquera y R. Sánchez Patzy (Coords.), ",
+     [
+      "span",
+      {},
+      "La selva, la pampa, el ande. Vías interiores de la cultura argentina"
+     ],
+     " (pp. 199-236). EDUNSE."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964010_ref5",
+      "lang": "pt"
+     },
+     "Chamosa, O. (2012). ",
+     [
+      "span",
+      {},
+      "Breve historia del folclore argentino"
+     ],
+     ". Edhasa."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964010_ref6"
+     },
+     "Cheín, D. (2010). \r\nProvincianos y porteños. La trayectoria de Juan Alfonso Carrizo en el \r\nperíodo de emergencia y consolidación del campo nacional de la \r\nfolklorología (1935-1955). En F. Orquera (Coord.), ",
+     [
+      "span",
+      {},
+      "Ese ardiente jardín de la república. Formación y desarticulación de un \"campo\" cultural: Tucumán, 1880-1975 "
+     ],
+     "(pp. 161-189). Alción Editora."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964010_ref7"
+     },
+     "Cosci, L. (2015). ",
+     [
+      "span",
+      {},
+      "El telar de la trama. Orestes Di Lullo, narrativa e identidad"
+     ],
+     ". EDUNSE."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964010_ref8"
+     },
+     "Coviello, A. (1941). ",
+     [
+      "span",
+      {},
+      "Geografía intelectual de la República Argentina"
+     ],
+     ". La Raza."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964010_ref9"
+     },
+     "Devés-Valdés, E. (1997). El pensamiento latinoamericano a comienzos del siglo XX. La reivindicación de la identidad. ",
+     [
+      "span",
+      {},
+      "CUYO. Anuario de Filosofía Argentina y Americana"
+     ],
+     ", (14). ",
+     [
+      "a",
+      {
+       "href": "https://bdigital.uncu.edu.ar/1626"
+      },
+      "https://bdigital.uncu.edu.ar/1626"
+     ],
+     "\r\n"
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964010_ref10"
+     },
+     "Devés-Valdés, E. y Kozel, A. (2018). ",
+     [
+      "span",
+      {},
+      "Estudios eidéticos. Una conversación desde el sur sobre la vida de las ideas y la reconfiguración de un espacio disciplinar"
+     ],
+     ". Ariadna. ",
+     [
+      "a",
+      {
+       "href": "https://ri.conicet.gov.ar/handle/11336/114246"
+      },
+      "https://ri.conicet.gov.ar/handle/11336/114246"
+     ],
+     "\r\n"
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964010_ref47"
+     },
+     "Di Lullo, O. y Garay, L. (1969). ",
+     [
+      "span",
+      {},
+      "La vivienda popular de Santiago del Estero"
+     ],
+     ". Universidad Nacional de Tucumán."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964010_ref11"
+     },
+     "Estermann, J. (2006). ",
+     [
+      "span",
+      {},
+      "Filosofía andina. Sabiduría indígena para un mundo nuevo"
+     ],
+     ". Instituto Superior Ecuménico Andino de Teología (ISEAT)."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964010_ref12"
+     },
+     "Fabermann, J. (2010). Tres miradas sobre paisaje, identidad regional y cultura folclórica en Santiago del Estero. ",
+     [
+      "span",
+      {},
+      "Prismas. Revista de Historia intelectual, 14"
+     ],
+     "(1), 71-93. ",
+     [
+      "a",
+      {
+       "href": "https://prismas.unq.edu.ar/OJS/index.php/Prismas/article/view/Farberman_prismas14"
+      },
+      "https://prismas.unq.edu.ar/OJS/index.php/Prismas/article/view/Farberman_prismas14"
+     ],
+     "\r\n"
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964010_ref13"
+     },
+     "Herrero Jaime, S. \r\n(2022). Jornadas Culturales del Valle Calchaquí: reconstrucción de una \r\nexperiencia en el ámbito cultural de los “cerros altos”. ",
+     [
+      "span",
+      {},
+      "Andes"
+     ],
+     ", 31(2). ",
+     [
+      "a",
+      {
+       "href": "https://portalderevistas.unsa.edu.ar/index.php/Andes/article/view/1708"
+      },
+      "https://portalderevistas.unsa.edu.ar/index.php/Andes/article/view/1708"
+     ],
+     "\r\n"
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964010_ref14"
+     },
+     "Herrero Jaime, S. \r\n(2024). Fiesta y mestizaje en el análisis de la Fiesta de San Esteban en\r\n Bernardo Canal Feijóo y Gaspar Risco Fernández. En A. Mailhe, I. López y\r\n S. Martínez Zuccardi (Coords.), ",
+     [
+      "span",
+      {},
+      "La selva, la pampa, el ande. Vías interiores de la cultura argentina "
+     ],
+     "(pp. 115-138). Teseo."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964010_ref15"
+     },
+     "Jaspers, K. (1975). ",
+     [
+      "span",
+      {},
+      "La filosofía desde el punto de vista de la existencia"
+     ],
+     ". Fondo de la Cultura Económica."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964010_ref48"
+     },
+     "Kusch, R. (1962). ",
+     [
+      "span",
+      {},
+      "América profunda"
+     ],
+     ". Hachette."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964010_ref16"
+     },
+     "Kusch, R. (1976). ",
+     [
+      "span",
+      {},
+      "Geocultura del hombre americano"
+     ],
+     ". Fernando García Cambeiro."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964010_ref17"
+     },
+     "Mailhe, A. (2013a). Inconsciente y folklore en el ensayismo de Bernardo Canal Feijóo. ",
+     [
+      "span",
+      {},
+      "Latinoamérica. Revista de Estudios Latinoamericanos"
+     ],
+     ", (56). ",
+     [
+      "a",
+      {
+       "href": "http://dx.doi.org/10.1016/S1665-8574(13)71701-0"
+      },
+      "http://dx.doi.org/10.1016/S1665-8574(13)71701-0"
+     ],
+     "\r\n"
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964010_ref18"
+     },
+     "Mailhe, A. (2013b). Derivas de la americanización de la Argentina en ",
+     [
+      "span",
+      {},
+      "América profunda "
+     ],
+     "de Rodolfo Kusch. ",
+     [
+      "span",
+      {},
+      "Cuadernos de Humanidades. "
+     ],
+     [
+      "a",
+      {
+       "href": "https://portalderevistas.unsa.edu.ar/index.php/cdh/article/view/3777"
+      },
+      "https://portalderevistas.unsa.edu.ar/index.php/cdh/article/view/3777"
+     ],
+     "\r\n"
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964010_ref19"
+     },
+     "Mailhe, A. (2019). El mestizaje en América Latina durante la primera mitad del siglo XX. ",
+     [
+      "span",
+      {},
+      "Antíteses, 12"
+     ],
+     "(24). ",
+     [
+      "a",
+      {
+       "href": "https://doi.org/10.5433/1984-3356.2019v12n24p402"
+      },
+      "https://doi.org/10.5433/1984-3356.2019v12n24p402"
+     ],
+     "\r\n"
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964010_ref20"
+     },
+     "Orquera, F. (2015).\r\n El proyecto musical de Leda Valladares: del sustrato romántico a una \r\nconcepción ancestral-vanguardista de la argentinidad. ",
+     [
+      "span",
+      {},
+      "Corpus, 5"
+     ],
+     "(2). ",
+     [
+      "a",
+      {
+       "href": "https://doi.org/10.4000/corpusarchivos.1479"
+      },
+      "https://doi.org/10.4000/corpusarchivos.1479"
+     ],
+     "\r\n"
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964010_ref21"
+     },
+     "Perilli de Colombres Garmendia, E. y Romero, E. (2005). ",
+     [
+      "span",
+      {},
+      "Alberto Rougés. Ensayos (1905-1945)"
+     ],
+     ". Centro Cultural Alberto Rougés / Fundación Miguel Lillo."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964010_ref22"
+     },
+     "Perilli de Colombres Garmendia, E., Aizicson de Franco, C. y Romero de Espinosa, E. (Comps.). (1999). ",
+     [
+      "span",
+      {},
+      "Alberto Rougés, Correspondencia (1905-1945)"
+     ],
+     ". Centro Cultural Alberto Rougés / Fundación Miguel Lillo."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964010_ref23"
+     },
+     "Piossek Prebisch, L. (2008). ",
+     [
+      "span",
+      {},
+      "Argentina: identidad y utopía"
+     ],
+     ". EDUNT."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964010_ref24"
+     },
+     "Risco Fernández, G. (1986). Descripción de un modelo de cultura argentina. En S. Walsh (Coord.), ",
+     [
+      "span",
+      {},
+      "Educar con el pueblo desde su cultura "
+     ],
+     "(pp. 65-83). Docencia."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964010_ref49"
+     },
+     "Risco Fernández, G. (1991).",
+     [
+      "span",
+      {},
+      " Cultura y región"
+     ],
+     ". Centro de Estudios Regionales. Instituto Internacional Jacques Maritain."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964010_ref25"
+     },
+     "Risco Fernández, G. (1994). ",
+     [
+      "span",
+      {},
+      "Tucumán: mito, aventura y misterio. Los otros testigos II"
+     ],
+     ". Dirección General de Cultura de Tucumán."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964010_ref26"
+     },
+     "Risco Fernández, G. (2011). El “ser en el mundo” del campesinado santiagueño. En G. Carreras (Coord.), ",
+     [
+      "span",
+      {},
+      "Orestes Di Lullo, el pensamiento y la obra "
+     ],
+     "(pp. 87-99). Viamonte."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964010_ref27"
+     },
+     "Roig, A. (1981). ",
+     [
+      "span",
+      {},
+      "Teoría y crítica del pensamiento latinoamericano"
+     ],
+     ". Fondo de la Cultura Económica."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964010_ref28"
+     },
+     "Roig, A. (1993). ",
+     [
+      "span",
+      {},
+      "Historia de las ideas, teoría del discurso y pensamiento latinoamericano."
+     ],
+     " Universidad Santo Tomás."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964010_ref29"
+     },
+     "Ruvituso, C. y \r\nSosa, J. (2018). La constitución del campo filosófico en La Plata y \r\nTucumán: un estudio comparado de grupos académicos entre la Reforma \r\nUniversitaria y el primer peronismo (1920-1946). ",
+     [
+      "span",
+      {},
+      "Revista de Filosofía y Teoría Política"
+     ],
+     ". ",
+     [
+      "a",
+      {
+       "href": "https://doi.org/10.24215/23142553e021"
+      },
+      "https://doi.org/10.24215/23142553e021"
+     ],
+     "\r\n"
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964010_ref30"
+     },
+     "Tasso, A. (2011). Orestes Di Lullo: el hombre, el escritor, el pensador social. En G. Carreras (Coord.), ",
+     [
+      "span",
+      {},
+      "Orestes Di Lullo, el pensamiento y la obra"
+     ],
+     " (pp. 45-55). Viamonte."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964010_ref31"
+     },
+     "Zurita, C. (2016). Evocación de un maestro y amigo. En F. Santucho (Coord.), ",
+     [
+      "span",
+      {},
+      "Francisco René Santucho. Obras completas "
+     ],
+     "(pp. 391-395). Las Cuarenta."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Fuentes"
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964010_ref32"
+     },
+     "Di Lullo, O. (1929). ",
+     [
+      "span",
+      {},
+      "La medicina popular de Santiago del Estero"
+     ],
+     ". El Liberal."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964010_ref33"
+     },
+     "Di Lullo, O. (1935). ",
+     [
+      "span",
+      {},
+      "La alimentación popular de Santiago del Estero"
+     ],
+     ". Talleres el gráfico."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964010_ref34"
+     },
+     "Di Lullo, O. (1999). ",
+     [
+      "span",
+      {},
+      "El bosque sin leyenda. Ensayo económico social."
+     ],
+     " Universidad Católica de Santiago del Estero. (Trabajo original publicado en 1937)."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964010_ref35"
+     },
+     "Di Lullo, O. (1943).",
+     [
+      "span",
+      {},
+      " El folklore de Santiago del Estero"
+     ],
+     ". Universidad Nacional de Tucumán."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964010_ref36"
+     },
+     "Di Lullo, O. (1946). ",
+     [
+      "span",
+      {},
+      "La agonía de los pueblos"
+     ],
+     ". López."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964010_ref37"
+     },
+     "Di Lullo, O. (1983). ",
+     [
+      "span",
+      {},
+      "La razón del folklore"
+     ],
+     ". El Liberal."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964010_ref38"
+     },
+     "Canal Feijóo, B. (2012a).",
+     [
+      "span",
+      {},
+      " Ensayo sobre la expresión popular artística en Santiago del Estero"
+     ],
+     ". Visión gráfica. (Trabajo original publicado en 1937)."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964010_ref39"
+     },
+     "Canal Feijóo, B. (2012b). ",
+     [
+      "span",
+      {},
+      "Pasión y muerte de Silverio Leguizamón"
+     ],
+     ". Franco Rossi. (Trabajo original publicado en 1937)."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964010_ref40"
+     },
+     "Canal Feijóo, B. (2012c). ",
+     [
+      "span",
+      {},
+      "Proposiciones en torno al problema de una cultura nacional argentina"
+     ],
+     ". Franco Rossi. (Trabajo original publicado en 1944)."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964010_ref41"
+     },
+     "Canal Feijóo, B. (2012d). ",
+     [
+      "span",
+      {},
+      "Teoría de la ciudad argentina"
+     ],
+     ". Franco Rossi. (Trabajo original publicado en 1951)."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964010_ref42"
+     },
+     "Canal Feijóo, B. (2007). ",
+     [
+      "span",
+      {},
+      "Confines de Occidente"
+     ],
+     ". Las cuarenta. (Trabajo original publicado en 1954)."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964010_ref43"
+     },
+     "Franco, L. (1953). ",
+     [
+      "span",
+      {},
+      "Biografías animales"
+     ],
+     ". Peuser."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964010_ref44"
+     },
+     "Franco, L. (2021). ",
+     [
+      "span",
+      {},
+      "Nuestro padre el árbol."
+     ],
+     " Maíz rojo. (Trabajo original publicado en 1978)."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964010_ref45"
+     },
+     "Rojas, R. (1980). ",
+     [
+      "span",
+      {},
+      "Eurindia"
+     ],
+     ". Capítulo. (Trabajo original publicado en 1924)."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964010_ref46"
+     },
+     "Programas. Cursos de 1941. (1941). Universidad Nacional de Tucumán."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Notas"
+    ],
+    "\r\n",
+    [
+     "span",
+     {
+      "id": "t-fn1"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "1"
+     ],
+     " La carta fue publicada en el volumen de \r\nElena Perilli de Colombres Garmendia, Celia Aizicson de Franco y Estela \r\nRomero de Espinosa (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964010_ref22",
+       "id": "t-llamada-redalyc_314964010_ref22-1"
+      },
+      "1999"
+     ],
+     "), y las ideas referidas pertenecen a un artículo titulado ",
+     [
+      "span",
+      {},
+      "La vejez del espíritu"
+     ],
+     "\r\n (1927). Allí se vincula la actividad creadora con lo artístico y con la\r\n forma que adopta la meditación o el pensamiento. La dimensión \r\ncomprensiva de la realidad también parece ser parte de la actividad \r\nfilosófica. En sus ensayos, el autor señala que “volver comprensible lo \r\nsensible” es uno de sus problemas y también que constituye una actividad\r\n “aclaratoria” (Rougés, ",
+     [
+      "span",
+      {},
+      "La filosofía que se ve"
+     ],
+     ", 1921, p. 47)."
+    ],
+    "\r\n",
+    [
+     "span",
+     {
+      "id": "t-fn2"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "2"
+     ],
+     " Orestes Di Lullo (1898-1983) perteneció a \r\nuna familia italiana que se instaló en Santiago a fines del XIX. Estudió\r\n medicina en Buenos, se especializó en dermatología y en su tesis \r\ndoctoral estudió el ",
+     [
+      "span",
+      {},
+      "paaj"
+     ],
+     ", enfermedad que \r\nafectaba al campesinado forestal. Bajo la dirección de Salvador Mazza, \r\npublicó estudios sobre dolencias y tratamientos locales y su primer \r\nlibro, ",
+     [
+      "span",
+      {},
+      "De la Medicina y de los Médicos en Santiago del Estero "
+     ],
+     "(1928).\r\n Integró el grupo cultural La Brasa, que lideró Bernardo Canal Feijóo, \r\ncreó y dirigió el Museo Histórico de Santiago y, posteriormente, el \r\nInstituto de Lingüística, Folklore y Arqueología. En 1945, fue \r\nintendente de la capital por designación del interventor federal Pascual\r\n A. Semberoiz y, en 1949, candidato a gobernador por el peronismo (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964010_ref1",
+       "id": "t-llamada-redalyc_314964010_ref1-2"
+      },
+      "Alén Lascano, 1999"
+     ],
+     ")."
+    ],
+    "\r\n",
+    [
+     "span",
+     {
+      "id": "t-fn3"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "3"
+     ],
+     " Este juicio corresponde, especialmente, a ",
+     [
+      "span",
+      {},
+      "La razón del folklore"
+     ],
+     " (1983), obra póstuma, considerada por ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964010_ref26",
+       "id": "t-llamada-redalyc_314964010_ref26-1"
+      },
+      "Risco Fernández (2011)"
+     ],
+     " y por ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964010_ref7",
+       "id": "t-llamada-redalyc_314964010_ref7-3"
+      },
+      "Cosci (2015)"
+     ],
+     "\r\n como la más “filosófica”. Los términos que aquí consideramos y la \r\nperspectiva general del autor ya habían sido publicados en obras de la \r\njuventud, según iremos indicando."
+    ],
+    "\r\n",
+    [
+     "span",
+     {
+      "id": "t-fn4"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "4"
+     ],
+     " Ernesto Eudoro de Jesús Padilla (1873-1951)\r\n y Alberto Rougés (1880-1945) pertenecieron a la oligarquía industrial \r\nde Tucumán. El primero participó activamente de la política como \r\nlegislador, diputado provincial en 1897 y cuatro veces más entre 1902 y \r\n1928. Presidió el Centro Azucarero Argentino, en 1905 y 1906, y gobernó \r\nla provincia entre 1913 y 1917. La universidad fue fundada durante su \r\ngestión. Rougés se ocupó del ingenio Santa Rosa que pertenecía a su \r\nfamilia. Estudió abogacía en Buenos Aires al igual que Padilla, pero se \r\ndedicó a la filosofía. Integró el Consejo Provincial de Educación y fue \r\nrepresentante en la asamblea constituyente de la provincia en 1907. Fue \r\nelegido rector de la UNT, cargo desempeñó durante su último año de vida (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964010_ref6",
+       "id": "t-llamada-redalyc_314964010_ref6-3"
+      },
+      "Cheín, 2010, pp. 162-163"
+     ],
+     ")."
+    ],
+    "\r\n",
+    [
+     "span",
+     {
+      "id": "t-fn5"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "5"
+     ],
+     " El interés de Di Lullo por lo popular se desarrolló tempranamente y se instrumentó de diferentes maneras. En ",
+     [
+      "span",
+      {},
+      "El bosque sin leyenda"
+     ],
+     " (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964010_ref34",
+       "id": "t-llamada-redalyc_314964010_ref34-1"
+      },
+      "1937 [1999]"
+     ],
+     "),\r\n señaló el vínculo entre el conocimiento de la “psicología popular” y el\r\n desarrollo de una buena legislación (pp. 47-50). A través de sus cartas\r\n con Rojas tomamos conocimiento de sus acciones sociales dentro del \r\ngrupo “Acción”. Antes de su vínculo con Padilla había publicado una \r\nserie de investigaciones de matiz etnográfico. Nos referimos a ",
+     [
+      "span",
+      {},
+      "La medicina popular en Santiago del Estero "
+     ],
+     "(",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964010_ref32",
+       "id": "t-llamada-redalyc_314964010_ref32-2"
+      },
+      "1929"
+     ],
+     ") y a ",
+     [
+      "span",
+      {},
+      "La alimentación popular en Santiago del Estero "
+     ],
+     "(",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964010_ref33",
+       "id": "t-llamada-redalyc_314964010_ref33-1"
+      },
+      "1935"
+     ],
+     ")."
+    ],
+    "\r\n",
+    [
+     "span",
+     {
+      "id": "t-fn6"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "6"
+     ],
+     " El primero era un sujeto cargado de \r\ncualidades: poseía una ética y una estética de inspiración católica y \r\nuna sabiduría popular articulada sobre el conocimiento del mundo \r\nnatural. El segundo era el resto de humanidad que duraba en el interior \r\nprovincial, entre el trabajo a destajo y la dinámica del éxodo (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964010_ref34",
+       "id": "t-llamada-redalyc_314964010_ref34-2"
+      },
+      "Di Lullo, 1937"
+     ],
+     ")."
+    ],
+    "\r\n",
+    [
+     "span",
+     {
+      "id": "t-fn7"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "7"
+     ],
+     " Rebeca ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964010_ref2",
+       "id": "t-llamada-redalyc_314964010_ref2-2"
+      },
+      "Canclini (2020)"
+     ],
+     "\r\n uso está expresión para analizar un conjunto de categorías similares en\r\n Kusch. La autora no alude a la metáfora como una operación lingüística \r\nparticular o como un recurso estético del discurso. Por el contrario, \r\nconsidera que su estudio permite acceder a “la estructura conceptual que\r\n subyace tras el texto” (p. 135)."
+    ],
+    "\r\n",
+    [
+     "span",
+     {
+      "id": "t-fn8"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "8"
+     ],
+     " Como señaló Gustavo ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964010_ref4",
+       "id": "t-llamada-redalyc_314964010_ref4-1"
+      },
+      "Carreras (2019)"
+     ],
+     ", estas expresiones también remiten a Rojas, quien compara un quebracho volteado con “un enorme cadáver en ",
+     [
+      "span",
+      {},
+      "El país de la selva"
+     ],
+     "” (p. 188)."
+    ],
+    "\r\n",
+    [
+     "span",
+     {
+      "id": "t-fn9"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "9"
+     ],
+     " Al respecto el autor afirma lo siguiente: \r\n“En el bosque nacen, viven y se reproducen los animales, que son parte \r\nde la alimentación del hombre. Allí fructifican excelentes manjares, se \r\nforman las nubes y se remansa y aquietan los vientos. Son como inmensos \r\ndepósitos naturales donde se almacena la vida para la vida. La materia \r\nprima, el refugio, el alimento y el clima, son parte del bosque. Y el \r\nhombre mismo, que no podría pensarse sin él” (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964010_ref37",
+       "id": "t-llamada-redalyc_314964010_ref37-18"
+      },
+      "Di Lullo, 1983, p. 16"
+     ],
+     ")."
+    ],
+    "\r\n",
+    [
+     "span",
+     {
+      "id": "t-fn10"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "10"
+     ],
+     " La noción de “connaturalidad” aparece, también, en Canal Feijóo (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964010_ref40",
+       "id": "t-llamada-redalyc_314964010_ref40-3"
+      },
+      "1944 [2012c]"
+     ],
+     ", p. 18)."
+    ],
+    "\r\n",
+    [
+     "span",
+     {
+      "id": "t-fn11"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "11"
+     ],
+     " Di Lullo desarrolla en el libro de 1983 una interpretación que ya había aparecido en un libro de 1960, ",
+     [
+      "span",
+      {},
+      "La vivienda popular santiagueña "
+     ],
+     "(",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964010_ref47",
+       "id": "t-llamada-redalyc_314964010_ref47-1"
+      },
+      "Di Lullo & Garay, 1969"
+     ],
+     ").\r\n Allí, afirma que las características del rancho o de la capilla de \r\nbarro o de “suncho” responden a la voluntad de no querer superar a la \r\nnaturaleza, prefiriendo “mimetizarse” con ella (p. 35). Este principio \r\nopera, también, en su idea sobre el trabajo. Según la descripción del \r\nensayista, la “maña” era lo que le permitía al sujeto obtener de la \r\nnaturaleza lo que necesitaba, pues “trabajar no significa siempre \r\nhacer”. El hombre de campo “trabaja como si jugara”: mientras pasea a \r\ncaballo encuentra leña, no sube a los árboles a buscar pichones porque \r\nsabe, por determinados signos del nido, si han emplumado o no etc. (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964010_ref37",
+       "id": "t-llamada-redalyc_314964010_ref37-19"
+      },
+      "Di Lullo, 1983, pp. 69-71"
+     ],
+     ")."
+    ],
+    "\r\n",
+    [
+     "span",
+     {
+      "id": "t-fn12"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "12"
+     ],
+     " Según explica ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964010_ref37",
+       "id": "t-llamada-redalyc_314964010_ref37-20"
+      },
+      "Di Lullo (1983)"
+     ],
+     ",\r\n saludar al árbol con sombrero en mano u ofrendarle una tortilla de \r\nceniza atada con un hilo rojo, eran prácticas utilizadas para prevenir \r\nla dermatitis que generaba."
+    ],
+    "\r\n",
+    [
+     "span",
+     {
+      "id": "t-fn13"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "13"
+     ],
+     " El autor lo afirma de la siguiente manera:\r\n “Era frecuente –y aún lo es– la inclinación del aborigen a convivir \r\nfísica y espiritualmente con los animales” (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964010_ref37",
+       "id": "t-llamada-redalyc_314964010_ref37-21"
+      },
+      "Di Lullo, 1983, p. 229"
+     ],
+     ")."
+    ],
+    "\r\n",
+    [
+     "span",
+     {
+      "id": "t-fn14"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "14"
+     ],
+     " La raíz del vínculo parece construirse a \r\ntravés su “educación”, donde el campesino sigue las normas de “una \r\nantigua experiencia” que incluye también elementos rituales: “Una buena \r\ncomida para el perro cabrero es la de maíz entero o molido que se hace \r\nal amanecer, en agua, al sereno, y al que se añade leche no bien sale el\r\n sol” (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964010_ref37",
+       "id": "t-llamada-redalyc_314964010_ref37-22"
+      },
+      "Di Lullo, 1983, p. 230"
+     ],
+     ")."
+    ],
+    "\r\n",
+    [
+     "span",
+     {
+      "id": "t-fn15"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "15"
+     ],
+     " El lenguaje de los gestos, los sonidos no \r\nvocalizados, la plástica y la cultura material también permiten o \r\ncontribuyen a expresar entidades eidéticas, aunque de manera “menos \r\napropiada”, según indican ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964010_ref10",
+       "id": "t-llamada-redalyc_314964010_ref10-8"
+      },
+      "Devés-Valdés y Kozel (2018, p. 65)"
+     ],
+     "."
+    ],
+    "\r\n",
+    [
+     "span",
+     {
+      "id": "t-fn16"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "16"
+     ],
+     " Alejandra ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964010_ref17",
+       "id": "t-llamada-redalyc_314964010_ref17-3"
+      },
+      "Mailhe (2013b)"
+     ],
+     "\r\n investigó las continuidades y las diferencias que permiten vincular la \r\nperspectiva de Kusch con una tradición discursiva sostenida por \r\ndiferentes intelectuales del NOA. Se trata de autores que fueron previos\r\n y contemporáneos al autor, como Joaquín V. González, Henri Girgois, \r\nAdán Quiroga, Ricardo Rojas y Canal Feijóo. El análisis se articula \r\nentre otros puntos, en la valoración del NOA como vía privilegiada para \r\namericanizar la Argentina."
+    ],
+    "\r\n",
+    [
+     "span",
+     {
+      "id": "t-fn17"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "17"
+     ],
+     " ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964010_ref3",
+       "id": "t-llamada-redalyc_314964010_ref3-1"
+      },
+      "Carreras (2007)"
+     ],
+     "\r\n señaló que en el caso de Canal Feijóo la utilización de esos términos \r\nse debe a Jorge Kalnay, uno de los participantes del Primer Congreso de \r\nPlanificación Integral del NOA (PINOA)."
+    ],
+    "\r\n",
+    [
+     "span",
+     {
+      "id": "t-fn18"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "18"
+     ],
+     " Mailhe (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964010_ref19",
+       "id": "t-llamada-redalyc_314964010_ref19-1"
+      },
+      "2019"
+     ],
+     ", ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964010_ref17",
+       "id": "t-llamada-redalyc_314964010_ref17-4"
+      },
+      "2013a"
+     ],
+     ", ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964010_ref17",
+       "id": "t-llamada-redalyc_314964010_ref17-5"
+      },
+      "2013b"
+     ],
+     ") y ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964010_ref3",
+       "id": "t-llamada-redalyc_314964010_ref3-2"
+      },
+      "Carreras (2007)"
+     ],
+     "\r\n abordaron las relaciones conceptuales entre Canal Feijóo y Kusch. El \r\npropio pensador discutió con Canal a través de sus textos y tuvo una \r\nversión de ",
+     [
+      "span",
+      {},
+      "Confines de occidente "
+     ],
+     "que aún se conservaba en Maimará con la firma del santiagueño. Por otro parte, Fabiola ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964010_ref20",
+       "id": "t-llamada-redalyc_314964010_ref20-1"
+      },
+      "Orquera (2015)"
+     ],
+     ",\r\n a partir de una entrevista realizada a Florencia Kusch, hija del \r\nfilósofo, señaló que Velia Hada Pesce fue su primera esposa y era una \r\nactriz santiagueña que cantaba con caja. Por ese motivo conocía a Leda y\r\n a María Elena Walsh. Era, además, pariente de los Santucho y afirmó que\r\n Roberto los visitaba. Carlos ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964010_ref31",
+       "id": "t-llamada-redalyc_314964010_ref31-1"
+      },
+      "Zurita (2016)"
+     ],
+     " señaló que el filósofo fue a Santiago invitado por Francisco, hermano de Roberto y editor de la revista ",
+     [
+      "span",
+      {},
+      "Dimensión"
+     ],
+     ". El vínculo entre Di Lullo y Kusch fue considerado por ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964010_ref7",
+       "id": "t-llamada-redalyc_314964010_ref7-4"
+      },
+      "Cosci (2015)"
+     ],
+     ", quien ahondó en relaciones conceptuales, especialmente, en las nociones de “vegetalidad”, “miedo” y “fagocitación”."
+    ],
+    "\r\n",
+    [
+     "span",
+     {
+      "id": "t-fn19"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "19"
+     ],
+     " Si quisiéramos ampliar este linaje, \r\npodríamos incorporar, por ejemplo, al catamarqueño Luis Franco. Su \r\ntrabajo incluyó la reflexión sobre el mundo natural, su dimensión \r\nestética, la religación del ser humano a ese ámbito y la tensión con el \r\nproceso modernizador. En trabajos como ",
+     [
+      "span",
+      {},
+      "Biografías animales"
+     ],
+     " (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964010_ref43",
+       "id": "t-llamada-redalyc_314964010_ref43-1"
+      },
+      "1953"
+     ],
+     ") o ",
+     [
+      "span",
+      {},
+      "Nuestro padre el árbol"
+     ],
+     " (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964010_ref44",
+       "id": "t-llamada-redalyc_314964010_ref44-1"
+      },
+      "1978 [2021]"
+     ],
+     ")\r\n aparecen expresiones orgánicas para hablar del sujeto y su experiencia \r\ndel mundo natural, aunque su perspectiva se radicaliza y adquiere rasgos\r\n universalistas. El poeta llega a subvertir la jerarquía entre lo humano\r\n y lo animal, y alimenta su posición desde cierta versión del panteísmo \r\ngriego."
+    ],
+    "\r\n",
+    [
+     "span",
+     {
+      "id": "t-fn20"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "20"
+     ],
+     " Por ese motivo, la autora señala que se trata del problema de la “identidad cultural” (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964010_ref23",
+       "id": "t-llamada-redalyc_314964010_ref23-3"
+      },
+      "Piossek Prebisch, 2008"
+     ],
+     "). "
+    ],
+    "\r\n",
+    [
+     "span",
+     {
+      "id": "t-fn24"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "21"
+     ],
+     " La aplicación de la Ley Sáenz Peña, \r\ncombinada con la recesión provocada durante la Primera Guerra, significó\r\n una pérdida de poder para las élites provinciales y siguió afectando \r\nlas economías regionales a lo largo de las décadas siguientes. En ese \r\nperiodo, los industriales azucareros fueron desplazados por los \r\nradicales en el gobierno provincial, en lo económico perdieron \r\ncompetitividad frente a los ingenios de Salta y de Jujuy, y tuvieron que\r\n enfrentar la organización gremial de los pequeños cañeros (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964010_ref5",
+       "id": "t-llamada-redalyc_314964010_ref5-2"
+      },
+      "Chamosa, 2012"
+     ],
+     ")."
+    ],
+    "\r\n",
+    [
+     "span",
+     {
+      "id": "t-fn21"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "22"
+     ],
+     " La cuestión indígena aparece en los \r\nprimeros escritos de Di Lullo y se mantiene en los trabajos que publicó \r\nbajo la influencia de los mecenas tucumanos. A modo de ejemplo, podemos \r\nmencionar el ",
+     [
+      "span",
+      {},
+      "Cancionerillo Quechua"
+     ],
+     " de su compilación (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964010_ref36",
+       "id": "t-llamada-redalyc_314964010_ref36-2"
+      },
+      "Di Lullo, 1946"
+     ],
+     ") o las fiestas indígenas y mestizas de las que dio cuenta en su estudio sobre el folclore santiagueño (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964010_ref35",
+       "id": "t-llamada-redalyc_314964010_ref35-1"
+      },
+      "Di Lullo, 1943"
+     ],
+     ")."
+    ],
+    "\r\n",
+    [
+     "span",
+     {
+      "id": "t-fn22"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "23"
+     ],
+     " Los ensayos de Rougés, a los que hacemos \r\nreferencia, fueron publicados en diferentes medios de la región. \r\nAfortunadamente, fueron compilados en Elena Perilli de Colombres \r\nGarmendia y Elba Romero de Espinosa (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964010_ref21",
+       "id": "t-llamada-redalyc_314964010_ref21-1"
+      },
+      "2005"
+     ],
+     "), bajo la coordinación de la filósofa tucumana María Eugenia Valentié."
+    ],
+    "\r\n"
+   ],
+   "\r\n"
+  ],
+  "\r\n",
+  [
+   "span",
+   {
+    "id": "t-creditos"
+   },
+   "\r\n",
+   "\r\n",
+   [
+    "span",
+    {
+     "id": "t-logo-izquierda"
+    },
+    "\r\n",
+    [
+     "figura",
+     {}
+    ]
+   ],
+   "\r\n",
+   [
+    "span",
+    {
+     "id": "t-mensaje"
+    },
+    "Modelo de publicación sin fines de lucro para conservar la naturaleza académica y abierta de la comunicación científica",
+    [
+     "br",
+     {}
+    ],
+    "HTML generado a partir de XML-JATS4R"
+   ],
+   "\r\n",
+   [
+    "span",
+    {
+     "id": "t-logo-derecha"
+    },
+    "\r\n",
+    [
+     "figura",
+     {}
+    ]
+   ],
+   "\r\n",
+   "\r\n"
+  ],
+  "\r\n\r\n\r\n"
+ ]
+}

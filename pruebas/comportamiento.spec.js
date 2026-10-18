@@ -46,7 +46,7 @@ test('al cambiar de vista se mueve el foco, cambia el título y se anuncia', asy
   await page.getByRole('link', { name: 'Vol. 12, núm. 2 (2026)' }).click();
   await expect(h1).toContainText('Vol. 12, núm. 2 (2026)');
   await expect(h1).toBeFocused();
-  await expect(page.locator('#anuncios')).toHaveText('Índice del número cargado. 4 artículos.');
+  await expect(page.locator('#anuncios')).toHaveText('Índice del número cargado. 4 artículos. Uno se puede leer completo en esta aplicación.');
   await expect(page.locator('nav [aria-current="page"]')).toHaveText('Vol. 12, núm. 2 (2026)');
 });
 

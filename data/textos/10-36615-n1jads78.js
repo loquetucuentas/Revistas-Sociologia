@@ -1,0 +1,6626 @@
+// Copia de textos/10-36615-n1jads78.json para abrir la aplicación sin servidor.
+(window.DATOS_REVISTAS = window.DATOS_REVISTAS || {})["textos/10-36615-n1jads78.json"] = {
+ "version": 1,
+ "recogido": "2026-10-18T11:32:18+00:00",
+ "doi": "10.36615/n1jads78",
+ "titulo": "« Décoloniser l’Esprit », Le Début D’une Posture Épistémologique Décoloniale en Recherche Clinique?",
+ "revista": "3006-841X",
+ "numero": "v21-n1-2026",
+ "licencia": {
+  "codigo": "by",
+  "nombre": "CC BY 4.0",
+  "nombre_completo": "Creative Commons Atribución 4.0 Internacional",
+  "url": "https://creativecommons.org/licenses/by/4.0",
+  "url_legal": "https://creativecommons.org/licenses/by/4.0/legalcode.es"
+ },
+ "fuente": {
+  "url": "https://journals.uj.ac.za/index.php/csr/en/article/download/3022/2701",
+  "formato": "XML JATS",
+  "plataforma": "JATS",
+  "pagina": "https://journals.uj.ac.za/index.php/csr/article/view/3022"
+ },
+ "autores_cita": [
+  {
+   "apellidos": "Tran",
+   "nombre_pila": "Julie Quynh Nhi",
+   "nombre": null
+  }
+ ],
+ "avisos_derechos": [
+  "©Author(s)",
+  "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
+ ],
+ "idioma_principal": "fr",
+ "indice": [
+  {
+   "id": "t-seccion-1",
+   "nivel": 2,
+   "texto": "Introduction",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-2",
+   "nivel": 2,
+   "texto": "Une posture réflexive qui tend vers une épistémologie décoloniale en recherche",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-3",
+   "nivel": 3,
+   "texto": "L’usage de l’histoire de soi pour une perspective décoloniale",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-4",
+   "nivel": 2,
+   "texto": "Produire du savoir sous le regard du voyeurisme académique du travail social",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-5",
+   "nivel": 2,
+   "texto": "Décoloniser soi-même",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-6",
+   "nivel": 3,
+   "texto": "L’usage d’un prénom colonial",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-7",
+   "nivel": 3,
+   "texto": "« Le français est la langue commune qui nous sépare »7",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-8",
+   "nivel": 2,
+   "texto": "L’auto-ethnographie comme levier de réflexivité décoloniale en recherche clinique",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-9",
+   "nivel": 2,
+   "texto": "Conclusion",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-10",
+   "nivel": 2,
+   "texto": "Bibliographie",
+   "lang": null
+  }
+ ],
+ "vueltas": {
+  "t-fn1": "t-llamada-fn1-1",
+  "t-fn2": "t-llamada-fn2-1",
+  "t-r57": "t-llamada-r57-1",
+  "t-r42": "t-llamada-r42-1",
+  "t-r6": "t-llamada-r6-1",
+  "t-fn3": "t-llamada-fn3-1",
+  "t-r45": "t-llamada-r45-1",
+  "t-r22": "t-llamada-r22-1",
+  "t-r23": "t-llamada-r23-1",
+  "t-r30": "t-llamada-r30-1",
+  "t-r14": "t-llamada-r14-1",
+  "t-r19": "t-llamada-r19-1",
+  "t-r39": "t-llamada-r39-1",
+  "t-r56": "t-llamada-r56-1",
+  "t-r7": "t-llamada-r7-1",
+  "t-r54": "t-llamada-r54-1",
+  "t-r1": "t-llamada-r1-1",
+  "t-r8": "t-llamada-r8-1",
+  "t-r37": "t-llamada-r37-1",
+  "t-r17": "t-llamada-r17-1",
+  "t-fn4": "t-llamada-fn4-1",
+  "t-r25": "t-llamada-r25-1",
+  "t-r27": "t-llamada-r27-1",
+  "t-r12": "t-llamada-r12-1",
+  "t-r40": "t-llamada-r40-1",
+  "t-r13": "t-llamada-r13-1",
+  "t-r20": "t-llamada-r20-1",
+  "t-r18": "t-llamada-r18-1",
+  "t-r21": "t-llamada-r21-1",
+  "t-r5": "t-llamada-r5-1",
+  "t-r31": "t-llamada-r31-1",
+  "t-r38": "t-llamada-r38-1",
+  "t-r4": "t-llamada-r4-1",
+  "t-r52": "t-llamada-r52-1",
+  "t-fn5": "t-llamada-fn5-1",
+  "t-r28": "t-llamada-r28-1",
+  "t-r47": "t-llamada-r47-1",
+  "t-r49": "t-llamada-r49-1",
+  "t-r24": "t-llamada-r24-1",
+  "t-fn6": "t-llamada-fn6-1",
+  "t-r44": "t-llamada-r44-1",
+  "t-r34": "t-llamada-r34-1",
+  "t-r29": "t-llamada-r29-1",
+  "t-r16": "t-llamada-r16-1",
+  "t-r46": "t-llamada-r46-1",
+  "t-fn7": "t-llamada-fn7-1",
+  "t-r3": "t-llamada-r3-1",
+  "t-r11": "t-llamada-r11-1",
+  "t-fn8": "t-llamada-fn8-1",
+  "t-r48": "t-llamada-r48-1",
+  "t-fn9": "t-llamada-fn9-1",
+  "t-r53": "t-llamada-r53-1",
+  "t-r32": "t-llamada-r32-1",
+  "t-r43": "t-llamada-r43-1",
+  "t-r33": "t-llamada-r33-1",
+  "t-fn10": "t-llamada-fn10-1",
+  "t-r2": "t-llamada-r2-1",
+  "t-r10": "t-llamada-r10-1",
+  "t-r41": "t-llamada-r41-1",
+  "t-r35": "t-llamada-r35-1",
+  "t-r50": "t-llamada-r50-1",
+  "t-r26": "t-llamada-r26-1",
+  "t-r36": "t-llamada-r36-1",
+  "t-r55": "t-llamada-r55-1",
+  "t-r15": "t-llamada-r15-1",
+  "t-r9": "t-llamada-r9-1",
+  "t-r51": "t-llamada-r51-1"
+ },
+ "contenido": [
+  [
+   "section",
+   {
+    "id": "t-s1"
+   },
+   "\n",
+   [
+    "h2",
+    {
+     "id": "t-seccion-1"
+    },
+    "Introduction"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Devenir une chercheuse, dans une posture épistémologique décoloniale, était probablement la profession la plus inattendue et improbable dans ce fameux projet « d’immigrer pour une vie meilleure » de ma mère vietnamienne, arrivée sur l’île de la Tortue",
+    [
+     "a",
+     {
+      "href": "#t-fn1",
+      "id": "t-llamada-fn1-1"
+     },
+     [
+      "sup",
+      {},
+      "1"
+     ]
+    ],
+    " vers la fin des années 1990. Ce fameux mythe relève pourtant d’un discours eurocentrique",
+    [
+     "a",
+     {
+      "href": "#t-fn2",
+      "id": "t-llamada-fn2-1"
+     },
+     [
+      "sup",
+      {},
+      "2"
+     ]
+    ],
+    " qui maintient cette vision de ",
+    [
+     "i",
+     {},
+     "modernité/colonialité"
+    ],
+    " – le terme raccourci du concept ",
+    [
+     "i",
+     {},
+     "colonial matrix of power"
+    ],
+    " (2000) par le sociologue péruvien Aníbal Quijano – afin de nommer les structures de pouvoir, de contrôle et d’hégémonie. Ces structures se sont constituées et gérées durant l’ère moderniste et du colonialisme, qui se sont ensuite transformées du 16",
+    [
+     "sup",
+     {},
+     "e"
+    ],
+    " siècle jusqu’à aujourd’hui (",
+    [
+     "a",
+     {
+      "href": "#t-r57",
+      "id": "t-llamada-r57-1"
+     },
+     "Walsh & Mignolo, 2018"
+    ],
+    "). Selon ",
+    [
+     "a",
+     {
+      "href": "#t-r42",
+      "id": "t-llamada-r42-1"
+     },
+     "Quijano (2000)"
+    ],
+    ", la notion de « colonialité » n’est pas synonyme de « colonialisme », mais elle consiste à porter une attention sur les continuités historiques entre l’époque coloniale et celle dite « post-coloniale » dans les systèmes sociaux et les savoirs actuels. Dès lors, il faut réfléchir à analyser les dynamiques coloniales en termes de dimension de domination épistémique, plutôt que de seulement les réduire à la domination économico-politique et juridico-administrative (",
+    [
+     "a",
+     {
+      "href": "#t-r6",
+      "id": "t-llamada-r6-1"
+     },
+     "Catro-Gomez & Gosfoguel, 2019"
+    ],
+    "). Si les balises de cette vision se font sur un rapport eurocentrique et colonial, nous avons alors l’impression, dans notre image collective, que les personnes racisées",
+    [
+     "a",
+     {
+      "href": "#t-fn3",
+      "id": "t-llamada-fn3-1"
+     },
+     [
+      "sup",
+      {},
+      "3"
+     ]
+    ],
+    " du Sud immigrent dans une société où elles peuvent « réussir » dans un monde « meilleur » pour elles, leurs enfants et leurs générations futures. Or, le danger de cette image collective dans ce discours colonial est la négation de tout le parcours migratoire forcé, dû à l’instabilité notamment financière au sein des pays globaux du Sud, par les politiques (néo)coloniales."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "D’ailleurs, la production des connaissances et des recherches scientifiques s’inscrit dans l’héritage historique du colonialisme. Selon la chercheure Célia ",
+    [
+     "a",
+     {
+      "href": "#t-r45",
+      "id": "t-llamada-r45-1"
+     },
+     "Romulus (2018)"
+    ],
+    ", la recherche s’est construite à partir d’un système eurocentrée qui a légitimé et reproduit des rapports de pouvoir inégaux. Dans ce contexte, la science n’est pas neutre : elle continue à participer activement au projet colonial. Or, elle peut être également une avenue pour identifier les modes de pensées coloniaux et de les déconstruire. C’est ici que les projets décoloniaux de production de savoir permettent de (re)contextualiser les enjeux sociaux et politiques envers les communautés racisées. Dès lors, la démarche de ma recherche doctorale a comme finalité de m’orienter vers cette communauté de penseurs·euses intellectuel·le·s, particulièrement dans l’épistémologie décoloniale, et ce, pour « engendrer des libérations en ce qui concerne la pensée, l’être, le savoir, la compréhension et la vie » [Traduction libre] (",
+    [
+     "a",
+     {
+      "href": "#t-r57",
+      "id": "t-llamada-r57-2"
+     },
+     "Walsh & Mignolo, 2018, p. 4"
+    ],
+    "). En effet, « la décolonialité est née en réponse aux promesses de la modernité et aux réalités de la colonialité pour amener un point de vue situé, une analyse, une option, un projet, une pratique et une praxis » [Traduction libre] (",
+    [
+     "a",
+     {
+      "href": "#t-r57",
+      "id": "t-llamada-r57-3"
+     },
+     "Walsh & Mignolo, 2018, p. 5"
+    ],
+    ")."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Cependant, lorsque la posture du chercheur·e appartient à celle de l’objet interrogé, il est nécessaire de réfléchir à sa propre relation et les effets que cela produit pour amener à une objectivation dans la recherche (",
+    [
+     "a",
+     {
+      "href": "#t-r22",
+      "id": "t-llamada-r22-1"
+     },
+     "Hamisultane, 2014"
+    ],
+    "). Puis, la perspective décoloniale en recherche, notamment par les écrits de Ngũgĩ wa Thiongʼo, Frantz Fanon et d’autres intellectuel·le·s, implique souvent de commencer par « la décolonisation de l’esprit » et développer « une conscientisation critique ». En travail social, cette écriture de réflexivité est exercée dans la forme d’une ",
+    [
+     "i",
+     {},
+     "autoréflexion critique"
+    ],
+    " (",
+    [
+     "a",
+     {
+      "href": "#t-r23",
+      "id": "t-llamada-r23-1"
+     },
+     "Hamisultane, 2022"
+    ],
+    "; ",
+    [
+     "a",
+     {
+      "href": "#t-r30",
+      "id": "t-llamada-r30-1"
+     },
+     "Lee et al., 2017"
+    ],
+    "). Qu’en est-il pour la recherche clinique, particulièrement dans une perspective décoloniale ?"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Dans cet article, je vise à présenter ma démarche à l’aide de données réflexives pour analyser mon rapport avec mon objet de recherche – dans mon cas, les femmes descendantes de parents migrant·e·s vietnamien·ne·s au Québec. Pour mener une telle réflexivité, je propose d’articuler la sociologie clinique en tant qu’approche épistémologique de la posture conjuguée avec la démarche d’auto-ethnographie en recherche. Cette posture épistémologique émergente de la sociologie clinique articulée avec l’auto-ethnographie est pertinente pour articuler la question décoloniale en recherche. Ceci permet alors une prise d’implication dans mon analyse d’objet de recherche lors de mon projet de thèse doctorale."
+   ],
+   "\n"
+  ],
+  [
+   "section",
+   {
+    "id": "t-s2"
+   },
+   "\n",
+   [
+    "h2",
+    {
+     "id": "t-seccion-2"
+    },
+    "Une posture réflexive qui tend vers une épistémologie décoloniale en recherche"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "La perspective décoloniale permet de réinterpréter nos savoirs et nos axes d’analyse comme une alternative pour penser à partir d’une relecture critique de la matrice onto-épistémique dominante (",
+    [
+     "a",
+     {
+      "href": "#t-r14",
+      "id": "t-llamada-r14-1"
+     },
+     "Escobar, 2019"
+    ],
+    "). Selon l’anthropologue colombien Arturo ",
+    [
+     "a",
+     {
+      "href": "#t-r14",
+      "id": "t-llamada-r14-2"
+     },
+     "Escobar (2019)"
+    ],
+    ", le colonialisme intellectuel renvoie à l’imposition des cadres de pensée occidentaux comme universels, lesquels marginalisent d’autres ontologies et épistémologies, tout en reproduisant les rapports de domination hérités de la modernité coloniale. La visée décoloniale est donc de s’éloigner des idéologies universalistes et dualistes où des catégories binaires sont créées pour conceptualiser nos savoirs (",
+    [
+     "a",
+     {
+      "href": "#t-r19",
+      "id": "t-llamada-r19-1"
+     },
+     "Godrie & Dos Santos, 2017"
+    ],
+    "; ",
+    [
+     "a",
+     {
+      "href": "#t-r39",
+      "id": "t-llamada-r39-1"
+     },
+     "Nadeau, 2020"
+    ],
+    "). Comme le mentionne Quijano, le dualisme structure « une lecture binaire du monde qui a permis aux Occidentaux de s’arroger la supériorité, l’universalité, le global, le scientifique et le productif et de renvoyer les habitants des pays du Sud à l’ignorance, au résiduel, à l’inférieur, au local/particulier et à l’improductif » (",
+    [
+     "a",
+     {
+      "href": "#t-r19",
+      "id": "t-llamada-r19-2"
+     },
+     "dans Godrie & Dos Santos, 2017"
+    ],
+    ", p. 14)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "L’utilisation d’une « praxis décoloniale » signifie alors à réfléchir à de nouvelles actions, notamment en mettant une pratique de désapprentissage (",
+    [
+     "a",
+     {
+      "href": "#t-r56",
+      "id": "t-llamada-r56-1"
+     },
+     "Walia, 2012"
+    ],
+    "). Dans ce sens, une praxis décoloniale vise à se déconnecter des pratiques de recherche issues des héritages du modèle eurocentrique et colonial de la construction des savoirs. Cette forme d’actions est aussi de la résistance aux injustices épistémiques, c’est-à-dire contrer les processus de discréditation des savoirs minoritaires (",
+    [
+     "a",
+     {
+      "href": "#t-r19",
+      "id": "t-llamada-r19-3"
+     },
+     "Godrie & Dos Santos, 2017"
+    ],
+    "). Pour ce faire, cela demande de développer des ressources herméneutiques collectives afin de pouvoir réinterpréter et de créer des outils permettant d’appréhender et de comprendre le monde (",
+    [
+     "a",
+     {
+      "href": "#t-r7",
+      "id": "t-llamada-r7-1"
+     },
+     "Chung, 2018"
+    ],
+    ")."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "La perspective décoloniale en recherche vise, d’une part, à ébranler l’impérialisme épistémique, en tant que champ discursif du savoir, en mettant au jour la domination et l’imposition des systèmes cognitifs, des méthodologies et des concepts occidentaux (",
+    [
+     "a",
+     {
+      "href": "#t-r54",
+      "id": "t-llamada-r54-1"
+     },
+     "Tuhiwai Smith, 2021"
+    ],
+    "). D’autre part, elle ébranle l’eurocentrisme épistémologique, défini comme « the enunciation of European ways of doing, knowing, and being as standards and norms » (",
+    [
+     "a",
+     {
+      "href": "#t-r1",
+      "id": "t-llamada-r1-1"
+     },
+     "Allard-Tremblay, 2023"
+    ],
+    "). Autrement dit, la perspective décoloniale en recherche interroge la centralité et la prétention universaliste des épistémologies européennes et occidentales qui prévaut encore largement dans nos universités en Amérique du Nord ainsi que dans le milieu de la recherche (",
+    [
+     "a",
+     {
+      "href": "#t-r39",
+      "id": "t-llamada-r39-2"
+     },
+     "Nadeau, 2020"
+    ],
+    "). En reconnaissant que « la naturalisation de la colonialité du pouvoir a permis l’installation d’une culture universelle basée sur la classification sociale et la racialisation des rapports de pouvoir » (Quijano, 2009 dans ",
+    [
+     "a",
+     {
+      "href": "#t-r8",
+      "id": "t-llamada-r8-1"
+     },
+     "Coenga-Oliveira, 2019, p. 66"
+    ],
+    "), cela nous permettra à titre de chercheure de rompre avec les pensées hégémoniques et cette vision d’infériorité des personnes du Sud global (",
+    [
+     "a",
+     {
+      "href": "#t-r37",
+      "id": "t-llamada-r37-1"
+     },
+     "Mohanty, 2003"
+    ],
+    "). Pour s’en défaire, nous devons enlever les lunettes coloniales pour plutôt construire une pluriversalité de savoirs sur les expériences sociales subjectives pour penser simultanément les rapports sociaux, historiques, politiques et économiques (",
+    [
+     "a",
+     {
+      "href": "#t-r8",
+      "id": "t-llamada-r8-2"
+     },
+     "Coenga-Oliveira, 2019"
+    ],
+    "; ",
+    [
+     "a",
+     {
+      "href": "#t-r45",
+      "id": "t-llamada-r45-2"
+     },
+     "Romulus, 2018"
+    ],
+    "). Mon rôle de chercheure, dans ce projet décolonial, vise donc à établir une pensée non-dérivée des épistémologies occidentales, c’est-à-dire de me défaire des discours et des savoirs qui promeuvent des pensées dualistes pour plutôt proposer un projet historique-éthique-épistémique décolonial qui met au cœur l’émancipation et la résistance épistémiques des savoirs, notamment celles des personnes descendantes de parents migrant·e·s vietnamien·ne·s dont je m’inscris."
+   ],
+   "\n",
+   [
+    "section",
+    {
+     "id": "t-s2_8"
+    },
+    "\n",
+    [
+     "h3",
+     {
+      "id": "t-seccion-3"
+     },
+     "L’usage de l’histoire de soi pour une perspective décoloniale"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "La sociologie clinique telle qu’expliquée par Vincent de ",
+     [
+      "a",
+      {
+       "href": "#t-r17",
+       "id": "t-llamada-r17-1"
+      },
+      "Gaulejac (1992)"
+     ],
+     " :"
+    ],
+    "\n",
+    [
+     "blockquote",
+     {},
+     "\n",
+     [
+      "p",
+      {},
+      [
+       "i",
+       {},
+       "[…] est une démarche à la fois socio-psychologique, visant à analyser comment des facteurs et des transformations socio-structurelles conditionnent les attitudes et les comportements des individus, et psycho-sociologique, qui analyse la façon dont un sujet intervient en tant qu’acteur et invente des pratiques pour affronter des conflits et faire face aux situations sociales qu’il rencontre (p. 18)"
+      ],
+      "."
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Cette approche clinique souligne l’interaction et la relation entre le·la chercheur·e et la population visée par la recherche (de ",
+     [
+      "a",
+      {
+       "href": "#t-r17",
+       "id": "t-llamada-r17-2"
+      },
+      "Gaulejac, 1992"
+     ],
+     "). Certains écrits parleront de ",
+     [
+      "i",
+      {},
+      "point de vue situé"
+     ],
+     [
+      "a",
+      {
+       "href": "#t-fn4",
+       "id": "t-llamada-fn4-1"
+      },
+      [
+       "sup",
+       {},
+       "4"
+      ]
+     ],
+     " du chercheur·e lorsqu’il·elle pose un regard sur son objet de recherche. Dès lors, on suppose que le·la chercheur·e est engagé·e auprès de la population et possède des ressources pour comprendre et interpréter des situations, et ce, à partir de ses expériences de vie, de ses connaissances accumulées (",
+     [
+      "a",
+      {
+       "href": "#t-r25",
+       "id": "t-llamada-r25-1"
+      },
+      "Hanique, 2009"
+     ],
+     "). En effet, dès son émergence, la sociologie clinique réinterroge les critères scientifiques dominants de la sociologie, afin de mettre la subjectivité du chercheur·e au cœur du processus de production de connaissance (",
+     [
+      "a",
+      {
+       "href": "#t-r25",
+       "id": "t-llamada-r25-2"
+      },
+      "Hanique, 2009"
+     ],
+     "). Dans cette perspective, le fait d’être touché·e de près par le sujet étudié ne constitue pas un obstacle épistémologique, mais un élément à mobiliser dans la construction même de l’objet de recherche (",
+     [
+      "a",
+      {
+       "href": "#t-r27",
+       "id": "t-llamada-r27-1"
+      },
+      "Joseph, 2013"
+     ],
+     "). Selon la chercheure Rose-Myrlie ",
+     [
+      "a",
+      {
+       "href": "#t-r27",
+       "id": "t-llamada-r27-2"
+      },
+      "Joseph (2013)"
+     ],
+     ", pour la sociologie clinique, les chercheur·e·s sont toujours impliqué·e·s dans leur recherche, et c’est précisément l’analyse de cette implication qui permet d’atteindre une certaine objectivation. Ainsi, laisser place à la subjectivité du·de la chercheur·e ouvre un espace de compréhension, sans pour autant « penser à la place du sujet » (Bourdieu, 1993, dans ",
+     [
+      "a",
+      {
+       "href": "#t-r25",
+       "id": "t-llamada-r25-3"
+      },
+      "Hanique, 2009, p. 105"
+     ],
+     ")."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Ceci fait également écho aux ancrages des théories décoloniales où elles dénoncent la suppression de multiples savoirs propres aux peuples et aux nations (ex-)colonisés (",
+     [
+      "a",
+      {
+       "href": "#t-r57",
+       "id": "t-llamada-r57-4"
+      },
+      "Walsh & Mignolo, 2018"
+     ],
+     "). En effet, il existe une pluralité de mode de connaissances et de savoirs au-delà des connaissances scientifiques dites universelles et « indépendantes des contextes » (",
+     [
+      "a",
+      {
+       "href": "#t-r8",
+       "id": "t-llamada-r8-3"
+      },
+      "Coenga-Oliveira, 2019"
+     ],
+     "). La décolonialité des savoirs propose d’échapper notamment à la pensée occidentale et mettre en lumière la pluralité des connaissances hétérogènes afin de mener à un changement des rapports au savoir et de pouvoir. Or, comment peut-on articuler la sociologie clinique avec ces perspectives épistémologiques décoloniales ?"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "C’est ici que la sociologie clinique articulée avec l’auto-ethnographie semble être une avenue intéressante pour soutenir cette perspective décoloniale en recherche. En effet, l’auto-ethnographie est « une méthodologie de la proximité, une manière normale, spontanée, naturelle, quasi instinctive d’approcher le monde, de l’interroger et de le comprendre » (Paillé, 2007, p. 409 dans ",
+     [
+      "a",
+      {
+       "href": "#t-r12",
+       "id": "t-llamada-r12-1"
+      },
+      "Dubé, 2016"
+     ],
+     "). Ainsi, les dimensions d’une telle approche en recherche s’engagent dans une réflexivité, un engagement, une analyse et une interprétation des contextes sociohistoriques par le·la chercheur·e à l’aide de son histoire personnelle (",
+     [
+      "a",
+      {
+       "href": "#t-r12",
+       "id": "t-llamada-r12-2"
+      },
+      "Dubé, 2016"
+     ],
+     "). L’usage de l’auto-ethnographie en recherche est alors une narration de soi qui situe l’expérience vécue du chercheur·e pour, d’une part, rattacher le personnel sur le plan culturel, social et politique dans la démarche d’analyse (",
+     [
+      "a",
+      {
+       "href": "#t-r40",
+       "id": "t-llamada-r40-1"
+      },
+      "Nguyen, 2015"
+     ],
+     "). D’autre part, il tient en compte de la relation avec son entourage et des contextes socio-culturels (",
+     [
+      "a",
+      {
+       "href": "#t-r12",
+       "id": "t-llamada-r12-3"
+      },
+      "Dubé, 2016"
+     ],
+     "). Dès son émergence, l’auto-ethnographie résiste aux méthodes positivistes qui exigent une théorisation et une objectivité de la recherche à tout prix pour obtenir une vérité singulière (",
+     [
+      "a",
+      {
+       "href": "#t-r13",
+       "id": "t-llamada-r13-1"
+      },
+      "Ellis, Adams & Bochner, 2011"
+     ],
+     "). Ainsi, ce nouveau courant propose plutôt que le·la chercheur·e en soi est un élément manquant dans le processus de recherche afin d’étudier le monde social à partir de ses perspectives et ses interactions (",
+     [
+      "a",
+      {
+       "href": "#t-r12",
+       "id": "t-llamada-r12-4"
+      },
+      "Dubé, 2016"
+     ],
+     "). De cette façon, en recherche auto-ethnographique, « [le·la chercheur·e] constitue le centre épistémologique et ontologique autour duquel tourne la recherche (Spry, 2001 dans ",
+     [
+      "a",
+      {
+       "href": "#t-r12",
+       "id": "t-llamada-r12-5"
+      },
+      "Dubé, 2016"
+     ],
+     ", p. 3). Selon Carolyn Ellis et ses collègues (2011), en critiquant sur son propre positionnement à titre de chercheur·e par rapport à son environnement, cela incite le lectorat à critiquer sur sa propre expérience de vie, sa construction de soi et ses interactions avec les autres."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Ainsi, si la sociologie clinique mobilise à la fois la réflexivité du·de la chercheur·e et une approche autobiographique, l’auto-ethnographie se distingue surtout par l’importance accordée à la relation avec le lectorat. Dans une telle approche, cette relation devient centrale puisqu’elle favorise une auto-réflexion critique nourrie par les interactions sociopolitiques (",
+     [
+      "a",
+      {
+       "href": "#t-r12",
+       "id": "t-llamada-r12-6"
+      },
+      "Dubé, 2016"
+     ],
+     "). Dès lors, la narration de soi transcende davantage vers une analyse profonde dans l’interprétation et l’analyse culturelle de nos données de recherche. Dans les prochaines sections de ce présent article, j’offrirais mes réflexions pour me situer épistémologiquement – à l’aide de mes propres expériences vécues à titre de femme descendantes de parents migrant·e·s vietnamien·ne·s – tout en soulignant les convergences des perspectives de la sociologie clinique liée à la décolonialité."
+    ],
+    "\n"
+   ],
+   "\n"
+  ],
+  [
+   "section",
+   {
+    "id": "t-s3"
+   },
+   "\n",
+   [
+    "h2",
+    {
+     "id": "t-seccion-4"
+    },
+    "Produire du savoir sous le regard du voyeurisme académique du travail social"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Ma recherche doctorale se situe dans le champ du travail social. Elle s’ancre aussi dans mon histoire personnelle, puisque je partage des expériences personnelles et sociales avec les personnes que je souhaite m’entretenir. Dans le cadre de cette recherche, j’utilise le terme « femme descendante de parents migrant·e·s vietnamien·ne·s » pour parler de nos postures, plutôt que « seconde génération » ou « deuxième génération issue de l’immigration ». Ce choix conceptuel vise à opérer une rupture épistémologique avec l’idée que nos identités se réduisent uniquement à la migration, tout en reconnaissant l’influence de cet héritage migratoire dans nos trajectoires sociales."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Plus précisément, je m’intéresse à la manière dont les femmes descendantes de parents migrant·e·s vietnamien·ne·s vivant au Québec comprennent leur histoire familiale ainsi que les influences des circonstances historico-socio-politiques du colonialisme – auxquelles leurs parents et elles-mêmes ont été confrontés – dans la formation de leurs expériences sociales et leurs subjectivités. Historiquement, la population vietnamienne a vécu divers envahissements impérialistes et coloniaux qui ont influencé les structures sociales. Ce vestige colonial et impérialiste imprègne également les « conflits internes » liés à l’héritage colonial au sein de la famille et le processus de racisation dans les sociétés occidentales (",
+    [
+     "a",
+     {
+      "href": "#t-r20",
+      "id": "t-llamada-r20-1"
+     },
+     "Hamisultane, 2024"
+    ],
+    "). Or, les femmes descendantes de parents migrant·e·s vietnamien·ne·s sont de plus en plus conscientisées face à ces enjeux et elles désirent de mettre en place des stratégies pour se défendre et protéger les générations futures (",
+    [
+     "a",
+     {
+      "href": "#t-r20",
+      "id": "t-llamada-r20-2"
+     },
+     "Hamisultane, 2024"
+    ],
+    "). Cela peut se traduire par une aspiration à mener une reprise de pouvoir et une réappropriation de leur narratif personnel. Ceci mène alors à m’interroger sous quelles formes s’incarnent les stratégies de réappropriation de leur héritage et transmission familiale ainsi que le sens qu’elles y offrent. Cette avenue vise à sortir de cette vision victimaire des sujets racisés en recherche (",
+    [
+     "a",
+     {
+      "href": "#t-r37",
+      "id": "t-llamada-r37-2"
+     },
+     "Mohanty, 2003"
+    ],
+    ")."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "De plus, c’est dans cette perspective décoloniale que s’inscrit ma méthodologie de recherche où je mobilise le « ",
+    [
+     "i",
+     {},
+     "Roman familial et trajectoire sociale"
+    ],
+    " » provenant de la sociologie clinique (de ",
+    [
+     "a",
+     {
+      "href": "#t-r18",
+      "id": "t-llamada-r18-1"
+     },
+     "Gaulejac, 2013"
+    ],
+    "). À l’aide d’entretiens auprès de plus d’une vingtaine de femmes descendantes de parents migrant·e·s vietnamien·ne·s, cet outil méthodologique permet de mieux cerner les liens entre l’histoire et l’identité du sujet avec l’environnement social dans lequel elles évoluent (de ",
+    [
+     "a",
+     {
+      "href": "#t-r18",
+      "id": "t-llamada-r18-2"
+     },
+     "Gaulejac, 2013"
+    ],
+    "). Enfin, ce support facilite le contact avec ce récit personnel, car « parler de soi n’est pas dans les habitus » au sein des modalités culturelles vietnamiennes (",
+    [
+     "a",
+     {
+      "href": "#t-r21",
+      "id": "t-llamada-r21-1"
+     },
+     "Hamisultane, 2013, p. 144"
+    ],
+    ")."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Une telle méthodologie implique d’ailleurs une réflexivité en recherche. Dans la perspective bourdieusienne, la praxis en recherche – c’est-à-dire articulant analyse et action – se concrétise à travers la réflexivité, laquelle constitut un élément indispensable lorsque le·la chercheur·e est engagé·e dans une posture critique. En ignorant sa propre histoire sociale, ses positions et ses expériences, ceci risque d’instaurer une distance avec les personnes rencontrées sur le terrain de recherche. Puis, ce manque de lucidité risque de déformer l’analyse des enjeux étudiés (",
+    [
+     "a",
+     {
+      "href": "#t-r5",
+      "id": "t-llamada-r5-1"
+     },
+     "Bourdieu, 2003"
+    ],
+    "). La réflexivité devient ainsi un exercice critique par lequel le·la chercheur·e interroge ses biais, ses ",
+    [
+     "i",
+     {},
+     "a priori"
+    ],
+    ", ses appartenances et les effets sur les expériences reliées à cette position (",
+    [
+     "a",
+     {
+      "href": "#t-r31",
+      "id": "t-llamada-r31-1"
+     },
+     "Lefebvre, 2022"
+    ],
+    "). Car nos trajectoires sociales ne peuvent être envisagées comme fixes et uniformes; au contraire, elles se construisent à partir de multiples vécus, traversés par des interprétations et des représentations diverses. Dès lors, cette réflexivité critique exige également de se défaire de la socialisation du discours occidental auquel je suis exposée quotidiennement, autant dans ma pratique professionnelle que dans ma vie quotidienne."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Enfin, les chercheur·e·s ",
+    [
+     "a",
+     {
+      "href": "#t-r38",
+      "id": "t-llamada-r38-1"
+     },
+     "Andrea Murray-Lichtman et Siham Elkassem (2021)"
+    ],
+    " suggèrent que les pratiques institutionnalisées de la recherche en travail social relèvent d’un voyeurisme académique, soit une posture où les corps racisés ne sont envisagés qu’à titre d’objets d’observation à des fins scientifiques, plutôt que reconnus comme des sujets dotés d’un statut de producteur·trice de savoir. Ainsi, réaliser une recherche doctorale dans le milieu universitaire québécois amène tout son lot de questionnements éthiques lorsqu’il est question de soulever la perspective décoloniale en recherche. En effet, je dois reconnaitre qu’il y a un rapport de pouvoir indélibéré, malgré moi, entre les participantes et ma posture de chercheure. Leurs savoirs et expériences partagés me permettront de joindre à cette catégorie d’érudits, à obtenir des bourses, d’enseigner, me déplacer dans des congrès scientifiques ; bref, d’exercer ma profession. Néanmoins, dans la mesure du possible, nous devons viser à réduire les écarts hiérarchiques de cet univers scientifique (",
+    [
+     "a",
+     {
+      "href": "#t-r31",
+      "id": "t-llamada-r31-2"
+     },
+     "Lefebvre, 2022"
+    ],
+    "). C’est précisément à partir de ces tensions qu’une question centrale s’impose : comment mener une réflexivité sur sa propre posture de recherche en mobilisant une perspective décoloniale au croisement de la sociologie clinique et de l’auto-ethnographie ?"
+   ],
+   "\n"
+  ],
+  [
+   "section",
+   {
+    "id": "t-s4"
+   },
+   "\n",
+   [
+    "h2",
+    {
+     "id": "t-seccion-5"
+    },
+    "Décoloniser soi-même"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "L’une des avenues envisagées pour mener le projet de recherche décrit ci-dessus repose sur la nécessité d’entreprendre une analyse réflexive de moi-même en lien avec cet objet de recherche. À cette fin, je mobiliserai une démarche auto-ethnographique afin d’analyser mes expériences vécues, en tant que sujet situé, à la lumière des influences des circonstances historico-socio-politiques du colonialisme auxquelles j’ai été confrontée dans la construction de mes expériences sociales et de ma subjectivité. En effet, rappelons que la sociologie clinique prend en compte la question de la subjectivité et la pose au centre de sa réflexion (",
+    [
+     "a",
+     {
+      "href": "#t-r25",
+      "id": "t-llamada-r25-4"
+     },
+     "Hanique, 2009"
+    ],
+    "). Par le biais du récit de vie, cela offre une perspective de l’histoire personnelle, familiale et sociale avec le contexte social dans lequel elle s’inscrit (",
+    [
+     "a",
+     {
+      "href": "#t-r17",
+      "id": "t-llamada-r17-3"
+     },
+     "de Gaujelac, 1992"
+    ],
+    "). Puis, l’articulation du vécu individuel et collectif offre des dispositifs pour approfondir sur le vécu individuel tout en mettant en perspective chaque récit des personnes partageant les conditions sociales similaires (",
+    [
+     "a",
+     {
+      "href": "#t-r17",
+      "id": "t-llamada-r17-4"
+     },
+     "de Gaujelac, 1992"
+    ],
+    "). Ainsi, pour étudier les phénomènes sociaux, il importe autant d’étudier la dimension subjective du·de la chercheur·e afin de saisir le sens de la conscience individuelle (",
+    [
+     "a",
+     {
+      "href": "#t-r17",
+      "id": "t-llamada-r17-5"
+     },
+     "de Gaujelac, 1992"
+    ],
+    "). Cependant, au-delà de simplement raconter son histoire, l’auto-ethnographie invite à puiser dans nos souvenirs afin de nourrir l’analyse et l’interprétation du phénomène. En réalisant une recherche de soi, cela offre également un dispositif au chercheur·e pour atteindre le lectorat (",
+    [
+     "a",
+     {
+      "href": "#t-r4",
+      "id": "t-llamada-r4-1"
+     },
+     "Barus-Michel, 2013"
+    ],
+    ")."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "En lien avec cet article, je propose une écriture qui vise à faire une relation avec ma mémoire afin de comprendre, de clarifier, mais aussi de témoigner et (re)tracer l’histoire collective telle que présentée par Annemarie ",
+    [
+     "a",
+     {
+      "href": "#t-r52",
+      "id": "t-llamada-r52-1"
+     },
+     "Trekker (2008)"
+    ],
+    ", et ce, dans une perspective décoloniale. Pour ce faire, je partagerai deux enjeux souvent touchés par les femmes descendantes de parents migrant·e·s vietnamien·ne·s, soit l’usage d’un prénom à consonance québécoise francophone (ou non) et l’usage de la langue française. En effet, comme le souligne la chercheure Odome Angone, les langues coloniales, telles que l’anglais et le français, marquent profondément les héritier·ère·s provenant d’un pays anciennement colonisé, en influençant leur manière d’habiter et de lire leur environnement social. Dans cette même lignée, Ngũgĩ wa Thiongʼo appelle à rompre avec les langues coloniales afin de déconditionner le regard porté sur soi-même et de favoriser l’émergence de savoirs produits à partir de nos propres perspectives, en tant que peuples anciennement colonisés. Revenir sur ces rapports de pouvoir et sur les oppressions vécues permet ainsi de repérer les traces persistantes de la colonisation dans nos formes d’épistémologie; c’est à partir de cette reconnaissance que peuvent se tracer les conditions nécessaires pour s’en distancier dans l’analyse de notre objet de recherche."
+   ],
+   "\n",
+   [
+    "section",
+    {
+     "id": "t-s4_6"
+    },
+    "\n",
+    [
+     "h3",
+     {
+      "id": "t-seccion-6"
+     },
+     "L’usage d’un prénom colonial"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Le prénom est intrinsèquement relié à notre identité au sein de la société. Cela répond en partie à la question : ",
+     [
+      "i",
+      {},
+      "Qui es-tu ?"
+     ],
+     " Pour certain·e·s d’entre nous, enfant descendant·e·s de parents migrant·e·s vietnamien·ne·s, le prénom choisi peut être un héritage culturel ou encore le lien d’appartenance à un clan, une tribu, un lien avec la descendance de nos ancêtres. Dans les cultures en Asie du Sud-Est, le choix du prénom est réfléchi et sélectionné par un membre important au sein de la famille, souvent en haute position hiérarchique comme les grands-parents, une grand-tante (ou oncle), l’aîné·e de la famille, afin d’assurer la bénédiction du futur de l’enfant. Pour ma part, je suis née avec le prénom « Quỳnh Nhi",
+     [
+      "a",
+      {
+       "href": "#t-fn5",
+       "id": "t-llamada-fn5-1"
+      },
+      [
+       "sup",
+       {},
+       "5"
+      ]
+     ],
+     " » qui signifie « petite fleur » en vietnamien."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Fière de mon héritage culturel, je n’hésitais pas à faire savoir que j’ai un prénom spécial et unique durant mon enfance. Jusqu’au jour où je commence à être intimidée par des camarades de classe en utilisant mon prénom pour se moquer de mon apparence et de mon phénotype asiatique, particulièrement mes yeux avec des paupières à capuchon (",
+     [
+      "i",
+      {},
+      "hooded eyes"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "#t-r28",
+       "id": "t-llamada-r28-1"
+      },
+      "Kiranantawat et al., 2015"
+     ],
+     "). C’est ainsi qu’à l’âge de 8 ans, j’ai décidé de changer mon prénom légalement en ajoutant le prénom « Julie » afin d’assurer « mon insertion » au sein de la société québécoise. Ce choix a été longuement discuté avec ma mère, dans le temps où elle était encore peu consciente des dynamiques identitaires pour une enfant vietnamienne-québécoise. Or, à cette époque, nous avons jugé qu’en employant un prénom à consonance francophone, cela me permettrait d’être acceptée plus facilement par mes pairs, et donc de surcroit, par la nation québécoise blanche d’ascendance catholique et francophone."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Le choix du prénom ",
+     [
+      "i",
+      {},
+      "Julie"
+     ],
+     " est inspiré de l’émission ",
+     [
+      "i",
+      {},
+      "Le Banquier"
+     ],
+     " (l’adaptation québécoise de l’émission ",
+     [
+      "i",
+      {},
+      "Deal or no Deal"
+     ],
+     ") animée par Julie Snyder, une émission le plus écoutée au Québec chaque dimanche où les participant·e·s ont la chance de remporter un gros lot de 500 000 $. En y réfléchissant, je pense que ce choix de prénom par ma mère était notamment son désir que je puisse, d’une certaine façon, avoir accès à une ascension sociale au sein de la société qui est censée être la mienne. De plus, à ses yeux, l’image symbolique de Julie Snyder correspondait à celle d’une femme « indépendante », « libre », « épanouie », « agentive » ; autrement dit, le contraire de l’image collective apposée sur le corps des femmes provenant du Sud-Est de l’Asie. Pourtant, ce discours qui célèbre l’émancipation des corps féminins blancs s’appuie sur une construction coloniale qui a historiquement exotisé et sursexualisé les corps racisés (",
+     [
+      "a",
+      {
+       "href": "#t-r47",
+       "id": "t-llamada-r47-1"
+      },
+      "Stoler, 1989"
+     ],
+     "). Ce narratif normalise l’idée que le corps des femmes descendantes de l’Asie est dénué de droits, d’humanité et d’agentivité, empêchant leur reconnaissance sociale comme sujets politiques à part entière (",
+     [
+      "a",
+      {
+       "href": "#t-r49",
+       "id": "t-llamada-r49-1"
+      },
+      "Tran, 2025"
+     ],
+     ")."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Ainsi, changer mon prénom vietnamien pour un prénom francisé ne relève pas seulement d’un choix pragmatique : il participe à un processus de blanchiment identitaire qui efface la trace visible de mon ascendance asiatique. La philosophe Naïma Hamrouni explique que la notion de « blanchité » ne fait pas référence au phénotype tel que la couleur de peau. Plutôt, celle-ci est forgée pour désigner « la positionnalité sociale privilégiée produite par le système de pouvoir racial […] Ce système est à la fois producteur des catégories de race, de leur hiérarchisation et des inégalités matérielles, politiques et symboliques/représentationnelles qui en découlent. » (",
+     [
+      "a",
+      {
+       "href": "#t-r24",
+       "id": "t-llamada-r24-1"
+      },
+      "Hamrouni, 2025, p. 41"
+     ],
+     "). Autrement dit, ce geste (changer le prénom) présenté comme une adaptation pragmatique, repose en réalité sur une hiérarchie raciale qui relève d’une structure coloniale au Québec. Pour être audible, il faut se rapprocher de la blanchité, c’est-à-dire « de l’adhérer – consciemment ou non – aux avantages et protections sociales inhérentes à une positionnalité privilégiée dans l’ordre social du monde » (",
+     [
+      "a",
+      {
+       "href": "#t-r24",
+       "id": "t-llamada-r24-2"
+      },
+      "Hamrouni, 2025, p. 41"
+     ],
+     ")."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Ce changement de prénom ne peut se faire sans sacrifice. Dans les bureaux du Gouvernement du Canada, à l’âge de 11 ans, un fonctionnaire me demanda quelle partie de mon nom je désire supprimer, car je possédais un nom « beaucoup trop long » pour mes cartes d’identité du gouvernement. Avec hésitation, j’ai décidé d’enlever le nom de famille de mon côté paternel, Dương (楊). C’est ainsi que « Trần Dương Quỳnh Nhi » est devenu « Trần ",
+     [
+      "s",
+      {},
+      "Dương"
+     ],
+     " Quỳnh Nhi Julie ». Le changement officiel de mon nom dans la sphère sociale québécoise s’est fait à la sixième année primaire. D’ailleurs, une de mes enseignantes s’est exprimée sur le fait que mon changement de prénom était l’objet d’une conversation durant leur heure de dîner. Intrigués à la suite de ses propos, mes camarades de classe, la plupart des enfants blancs, m’ont alors demandé si ",
+     [
+      "i",
+      {},
+      "Julie"
+     ],
+     " était la traduction équivalente de ",
+     [
+      "i",
+      {},
+      "Quỳnh Nhi"
+     ],
+     ". À l’âge de 12 ans, j’étais encore très peu consciente que cette question découle d’un eurocentrisme par mes pairs. C’est ainsi que peu à peu, mes amies qui m’appelaient avec mon surnom ",
+     [
+      "i",
+      {},
+      "Nhi"
+     ],
+     " ont commencé simplement à nommer le prénom ",
+     [
+      "i",
+      {},
+      "Julie"
+     ],
+     ", sans aucune difficulté ni aucun questionnement sur la raison d’un tel changement majeur. J’ai partagé ce récit à plusieurs personnes descendantes de parents migrant·e·s provenant de l’Asie, mais cela semblait être la norme d’avoir un prénom québécois francisé. Pour certaines, elles avaient ajouté un prénom social",
+     [
+      "a",
+      {
+       "href": "#t-fn6",
+       "id": "t-llamada-fn6-1"
+      },
+      [
+       "sup",
+       {},
+       "6"
+      ]
+     ],
+     " pour éviter le même fardeau que le mien ; pour d’autres, elles sont nées avec un prénom québécois avec ou sans prénom vietnamien. Il est alors possible de se demander : cet acte de changer notre prénom, est-ce alors une forme de reprise de pouvoir sur notre vie ou plutôt une forme d’abandon de notre héritage culturel ?"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Un jour, sur un plateau de tournage à titre de chroniqueuse, après avoir partagé cette histoire à une maquilleuse d’origine haïtienne, celle-ci me rappela que l’effacement d’un nom est une tactique esclavagiste, impérialiste et coloniale. Celle-ci avait raison : durant l’époque esclavagiste, le changement de nom était quasi-courant par les maîtres d’esclave en utilisant leur propre nom de famille, des noms évangéliques, géographiques, temporels, hébreux, grecs, latins ou des noms divers (",
+     [
+      "a",
+      {
+       "href": "#t-r44",
+       "id": "t-llamada-r44-1"
+      },
+      "Reddy & Sundaravalli, 2020"
+     ],
+     "). Cette tactique d’assimilation a légué la perte et la privation de l’héritage culturel pour plusieurs descendant·e·s d’esclaves (",
+     [
+      "a",
+      {
+       "href": "#t-r34",
+       "id": "t-llamada-r34-1"
+      },
+      "Mahon, 2022"
+     ],
+     ") et de la colonisation via les pensionnats autochtones (",
+     [
+      "a",
+      {
+       "href": "#t-r29",
+       "id": "t-llamada-r29-1"
+      },
+      "La Presse Canadienne, 2021"
+     ],
+     "). C’est cette même tactique qui s’est immiscée chez la plupart des enfants descendants de migrant·e·s vivant au sein des sociétés coloniales ; une tactique qui nous unit pour plusieurs d’entre nous dans ce projet colonial. Dans le même ordre d’idées, le changement d’un prénom colonial peut également faire référence aux injustices épistémiques (",
+     [
+      "a",
+      {
+       "href": "#t-r16",
+       "id": "t-llamada-r16-1"
+      },
+      "Fricker, 2007"
+     ],
+     "), voire à l’épistémicide qui signifie une subordination et une marginalisation des savoirs des subalternes en les niant en tant que porteur·euse·s et producteur·trice·s de connaissance (de Sousa Santos, 2005). En fait, cette notion d’injustice épistémique a été soulevée par la philosophe anglaise Miranda ",
+     [
+      "a",
+      {
+       "href": "#t-r16",
+       "id": "t-llamada-r16-2"
+      },
+      "Fricker (2007)"
+     ],
+     " pour expliquer l’inégalité quant à l’accès, la reconnaissance, et la production des savoirs, produits par les institutions et par la recherche. En ce qui concerne à l’épistémicide par le sociologue ",
+     [
+      "a",
+      {
+       "href": "#t-r46",
+       "id": "t-llamada-r46-1"
+      },
+      "Boaventura de Sousa Santo (2015)"
+     ],
+     ", ce concept correspond à la subordination, à la dévalorisation, à la marginalisation, à la négation et à l’exclusion des savoirs subalternes et de la culture des peuples (ex-)colonisés. D’ailleurs, l’épistémicide agit conjointement avec l’idéologie du blanchiment au sein des populations colonisées où il y a une perpétuation du classement des valeurs de la culture occidentale blanche à titre de supérieure hiérarchique (",
+     [
+      "a",
+      {
+       "href": "#t-r8",
+       "id": "t-llamada-r8-4"
+      },
+      "Coenga-Oliveira, 2019"
+     ],
+     ")."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Dès lors, l’usage du prénom québécois francisé, c’est-à-dire une identité conforme à la nation québécoise blanche d’ascendance catholique et francophone, me permet d’avoir cette crédibilité et validité vu que je réponds aux codes exigés par la société coloniale, tandis qu’une identité vietnamienne est non reconnue, voire non acceptée par le groupe dominant. Plusieurs auteurs·trices des études décoloniales constatent que notre interprétation et perception du monde est structurée par des catégories conceptuelles issues du groupe dominant qui nous empêchent, quelle que soit notre position sociale, de penser d’autres rapports entre les savoirs (",
+     [
+      "a",
+      {
+       "href": "#t-r19",
+       "id": "t-llamada-r19-4"
+      },
+      "Godrie & Dos Santos, 2017"
+     ],
+     "). Peut-on alors se demander si cette logique coloniale ne traverse pas également les pratiques linguistiques, où la maîtrise du français tendrait à devenir un marqueur de « crédibilité » et de « respectabilité » chez les personnes descendantes de parents migrant·e·s vietnamien·ne·s ? Cette interrogation invite à déplacer le regard vers l’usage des langues coloniales comme un espace où s’inscrivent et se rejouent les rapports de pouvoir coloniaux, une dimension qui sera explorée dans la section suivante."
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "section",
+    {
+     "id": "t-s4_7"
+    },
+    "\n",
+    [
+     "h3",
+     {
+      "id": "t-seccion-7"
+     },
+     "« Le français est la langue commune qui nous sépare »",
+     [
+      "a",
+      {
+       "href": "#t-fn7",
+       "id": "t-llamada-fn7-1"
+      },
+      [
+       "sup",
+       {},
+       "7"
+      ]
+     ]
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "« Les immigrant·e·s décident de venir au Québec, c’est la moindre des choses qu’ils·elles apprennent le français dans leur terre d’accueil » est une phrase avec laquelle je me suis souvent débattue auprès des camarades, blanc·he·s et racisé·e·s, académicien·ne·s ou non. À vrai dire, je considère que cette décision de ne pas apprendre la langue française est une pratique de résistance contre ce processus d’assimilation coloniale auquel la plupart des personnes du Sud global ont déjà goûté durant leur tendre enfance. En effet, avant la colonisation française, soit au 19",
+     [
+      "sup",
+      {},
+      "e"
+     ],
+     " siècle, le peuple vietnamien utilisait l’idéogramme. Or, dû au ravage de la colonisation française, les personnes colonisatrices ont imposé l’alphabet latin dans leur système d’écriture (",
+     [
+      "a",
+      {
+       "href": "#t-r3",
+       "id": "t-llamada-r3-1"
+      },
+      "Anh, 2018"
+     ],
+     ") pour déposséder un attribut essentiel de la culture vietnamienne. Aujourd’hui, ce sont seulement les érudits qui sont aptes à lire les idéogrammes, ce qui signifie que la majorité de la population ne peut lire les caractères idéographiques sur les tombes de leurs ancêtres (",
+     [
+      "a",
+      {
+       "href": "#t-r11",
+       "id": "t-llamada-r11-1"
+      },
+      "Diallo & Ly, 2022"
+     ],
+     "). Cette reproduction de la violence coloniale s’est perdurée, malgré l’indépendance vietnamienne, jusqu’à la chute de Saigon",
+     [
+      "a",
+      {
+       "href": "#t-fn8",
+       "id": "t-llamada-fn8-1"
+      },
+      [
+       "sup",
+       {},
+       "8"
+      ]
+     ],
+     " en 1975 où de nombreuses personnes se sont exilées et réfugiées vers les pays du Nord global. On peut donc comprendre que non seulement, nous avons perdu notre pays à plusieurs reprises, nous avons aussi été exilés de notre langue. En effet, Ngũgĩ wa ",
+     [
+      "a",
+      {
+       "href": "#t-r48",
+       "id": "t-llamada-r48-1"
+      },
+      "Thiongʼo (2011, p. 39)"
+     ],
+     " souligne que « [l]a soumission de l’univers mental du colonisé ne pouvait aller sans la soumission des langues des peuples colonisés aux langues des nations colonisatrices. » Cette coupure linguistique est donc non seulement envers la langue vietnamienne, mais notamment de son héritage."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "La langue est souvent un prolongement de notre identité : être francophone, anglophone, unilingue, bilingue, trilingue, etc. Pour plusieurs parents vietnamiens, leur langue est demeurée figée dans le temps, c’est-à-dire en 1975 (",
+     [
+      "a",
+      {
+       "href": "#t-r11",
+       "id": "t-llamada-r11-2"
+      },
+      "Diallo & Ly, 2022"
+     ],
+     "). À les entendre simplement, cela nous permet de connaître leur histoire et de leur époque qu’ils·elles proviennent (",
+     [
+      "a",
+      {
+       "href": "#t-r11",
+       "id": "t-llamada-r11-3"
+      },
+      "Diallo & Ly, 2022"
+     ],
+     "). Du côté des enfants descendants de parents migrant·e·s vietnamien·ne·s, certain·e·s d’entre nous ont l’opportunité de préserver cet héritage culturel. En devenant le pont entre la société d’accueil et celle du pays d’origine de nos parents, nous sommes plusieurs à être, ce que je nommerais, la génération des ",
+     [
+      "i",
+      {},
+      "enfants traducteurs"
+     ],
+     ". Bien qu’il ait cette croyance populaire qu’un enfant descendant de migrant·e·s maîtrise automatiquement la langue d’origine de leur parent, ce ne sont pas tous les enfants qui ont l’opportunité d’avoir eu cette transmission culturelle. Car le colonialisme a brisé l’harmonie établie entre l’enfant et sa langue natale, c’est-à-dire le monde intérieur de l’enfant avec son environnement social et naturel (",
+     [
+      "a",
+      {
+       "href": "#t-r48",
+       "id": "t-llamada-r48-2"
+      },
+      "Thiongʼo, 2011"
+     ],
+     "). Ce processus (in)conscient d’assimilation (ou encore d’aliénation coloniale",
+     [
+      "a",
+      {
+       "href": "#t-fn9",
+       "id": "t-llamada-fn9-1"
+      },
+      [
+       "sup",
+       {},
+       "9"
+      ]
+     ],
+     "; voir ",
+     [
+      "a",
+      {
+       "href": "#t-r48",
+       "id": "t-llamada-r48-3"
+      },
+      "Thiongʼo, 2011"
+     ],
+     ") des enfants par les parents a conséquemment amené les nouvelles générations à enterrer la langue de leur terre natale (",
+     [
+      "a",
+      {
+       "href": "#t-r11",
+       "id": "t-llamada-r11-4"
+      },
+      "Diallo & Ly, 2022"
+     ],
+     ") et mettre l’Occident au centre de l’univers (",
+     [
+      "a",
+      {
+       "href": "#t-r48",
+       "id": "t-llamada-r48-4"
+      },
+      "Thiongʼo, 2011"
+     ],
+     ")."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Pour ma part, ma situation linguistique se résume par le fait que j’ai été (et encore actuellement) un enfant traducteur : je devais penser et parler dans la langue de ma mère qui est le vietnamien et vivre une alphabétisation forcée, c’est-à-dire lire, écrire, parler et traduire dans la langue sociale qui est le français. Par chance, le vietnamien était la langue courante dans notre appartement de quatre et demi à Tio’tia:ke/Montréal. Comme l’expérience de l’autrice et journaliste Doan Bui (",
+     [
+      "a",
+      {
+       "href": "#t-r11",
+       "id": "t-llamada-r11-5"
+      },
+      "dans Diallo & Ly, 2022"
+     ],
+     "), cette langue est de l’ordre de l’intimité et de l’enfance ; un univers intime où je maintiens un lien significatif avec mon héritage vietnamien, car mon univers social consistait à principalement utiliser la langue française. À l’inverse, pour d’autres enfants descendants de parents migrant·e·s vietnamien·ne·s, c’est cette langue coloniale qui s’est ingérée dans leur univers intime, les amenant à méconnaitre, voire à renier, leur langue maternelle. En effet, pour plusieurs, la langue française, parfois entremêlée de certains vocabulaires de base vietnamienne, a été au cœur de la relation avec leurs parents, menant à une division linguistique. Néanmoins, la transmission culturelle s’est opérée autrement, puisque le langage ne relève pas uniquement de l’oralité, mais également par l’entremise de la corporalité (",
+     [
+      "a",
+      {
+       "href": "#t-r53",
+       "id": "t-llamada-r53-1"
+      },
+      "Trinh, 2023"
+     ],
+     "[1989]). En ce sens, celui-ci se déploie de différentes façons afin de combler ce fossé relationnel et linguistique, en résistant aux effets de la langue dominante tout en préservant des coutumes issues de leur héritage culturel. À cet égard, ",
+     [
+      "a",
+      {
+       "href": "#t-r53",
+       "id": "t-llamada-r53-2"
+      },
+      "Trinh Thi Minh-Ha (2023[1989])"
+     ],
+     " montre que la parole des sujets minorisés est toujours située, définie par des structures de pouvoir, mais néanmoins capable de se redéfinir à partir de ses propres conditions d’énonciation."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Ainsi, la transmission culturelle peut s’opérer par des gestes quotidiens apparemment ordinaires, tels que l’expression de l’affection parentale à travers le fait de couper des fruits pour l’enfant, ou encore par des formules relationnelles, comme lui demander s’il·elle a faim (",
+     [
+      "a",
+      {
+       "href": "#t-r32",
+       "id": "t-llamada-r32-1"
+      },
+      "Ly & Ung, 2023"
+     ],
+     "). Bien qu’elles ne prennent pas la forme d’un langage verbal explicite, ces pratiques relèvent d’actes de langage incarnés, porteurs de significations culturelles, affectives et sociales. La corporalité de la langue devient alors un espace privilégié de continuité culturelle, où se conjuguent transmission, relation et résistance silencieuse aux normes linguistiques dominantes (",
+     [
+      "a",
+      {
+       "href": "#t-r43",
+       "id": "t-llamada-r43-1"
+      },
+      "Rao, 2022"
+     ],
+     ")."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Dans la continuité de ces réflexions sur la langue, la transmission et les rapports de pouvoir, l’obligation de maîtriser la langue de Molière pour ce projet de thèse s’impose comme inévitable dans mon parcours académique. Dès lors comment peut-on assurer la décolonisation de l’univers académique par l’utilisation de l’un de ses outils coloniaux ? S’agit-il d’une forme d’ironie que d’adopter une posture épistémologique critique tout en sachant que « les outils du maître ne détruiront jamais la maison du maître », comme le rappelle l’afro-féministe lesbienne et poétesse Audre Lorde ?"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Je ne présume pas avoir la réponse infaillible pour une telle conciliation dans mon travail de chercheure. Toutefois, afin de composer avec cette contradiction, j’ai choisi de « reconquérir » cette langue de l’intimité et de l’enfance, en laissant l’espace à cette langue, avec toutes ses subtilités, dans mon récit et de celle de mes participantes. À cet égard, Doan Bui évoque, lors de son passage au balado ",
+     [
+      "i",
+      {},
+      "Kiff ta race"
+     ],
+     " animé par ",
+     [
+      "a",
+      {
+       "href": "#t-r11",
+       "id": "t-llamada-r11-6"
+      },
+      "Rokhaya Diallo et Grace Ly (2022)"
+     ],
+     ", que :"
+    ],
+    "\n",
+    [
+     "blockquote",
+     {},
+     "\n",
+     [
+      "p",
+      {},
+      [
+       "i",
+       {},
+       "[…] en fait, cette langue, elle est restée coincer pour moi. À cette espace de l’enfance et même de la petite enfance. […] Je me rends même compte que même ma façon d’écrire est influencée par le vietnamien, sans même que je m’en rends compte. Parce que, par exemple, en vietnamien, il n’y a pas de conjugaison. Il n’y a pas de temps. Et souvent, mon éditrice me disait : “C’est bizarre là. Tu es passé du présent au passé et au re-présent. Pourquoi tu ne fais pas que tout au présent ou tout au passé.” Et je ne comprenais même pas la question ! J’ai dit : “Ben… j’sais pas là. Ça me semblait bien au présent, puis ça me semblait bien passé. Je ne sais pas trop.” Et je pense que c’est parce que j’ai toujours entendu ça. J’ai toujours entendu dans ma tête quand mes parents parlaient en vietnamien, cette espèce de langue fluide qui passe du présent au passé. Donc oui, évidemment, ça m’a énormément influencé dans mon écriture, puis certainement dans ma façon de voir le monde"
+      ],
+      "."
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Ainsi, laisser place à ",
+     [
+      "i",
+      {},
+      "l’atemporalité"
+     ],
+     ", qui désigne le fait de ne pas être concerné par la logique d’un temps linéaire, et donc, d’accepter ce constant va-et-vient dans les récits recueillis (",
+     [
+      "a",
+      {
+       "href": "#t-r33",
+       "id": "t-llamada-r33-1"
+      },
+      "Madavane, 2002"
+     ],
+     "), constitue une transgression aux normes uniformes du milieu académique. Puis, écrire dans nos langues natales, tout en légitimant leurs cosmovisions",
+     [
+      "a",
+      {
+       "href": "#t-fn10",
+       "id": "t-llamada-fn10-1"
+      },
+      [
+       "sup",
+       {},
+       "10"
+      ]
+     ],
+     ", est un premier pas à la décolonisation, mais il faut y faire attention, car cela ne suffira pas à faire renaître nos cultures si nos écrits ne luttent pas contre l’impérialisme (",
+     [
+      "a",
+      {
+       "href": "#t-r48",
+       "id": "t-llamada-r48-5"
+      },
+      "Thiongʼo, 2011"
+     ],
+     "). Cette résistance au discours colonial consiste à mettre en valeur un mode de vie et de pensée de la population vietnamienne. Cette logique s’inscrit notamment « aux pratiques décoloniales de résistance, d’affiliation, et de créativité qui ne sont pas conventionnellement archivées ou même archivables » (Schechter, 2017, p. 647 dans ",
+     [
+      "a",
+      {
+       "href": "#t-r57",
+       "id": "t-llamada-r57-5"
+      },
+      "Walsh & Mignolo, 2018"
+     ],
+     "). Car il faut se remémorer que « le français [est devenu] concomitamment le prolongement d’un système répressif » (p. 6) ; et donc « [p]our le dire, à haute voix, [comme toutes les langues des empires coloniaux, oui le français est la langue commune qui nous sépare]. » (",
+     [
+      "a",
+      {
+       "href": "#t-r2",
+       "id": "t-llamada-r2-1"
+      },
+      "Angone, 2020, p. 28"
+     ],
+     "). C’est alors notre devoir d’y résister et de démanteler ce rapport ethnolinguistique inégalitaire (",
+     [
+      "a",
+      {
+       "href": "#t-r2",
+       "id": "t-llamada-r2-2"
+      },
+      "Angone, 2020"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "#t-r48",
+       "id": "t-llamada-r48-6"
+      },
+      "Thiongʼo, 2011"
+     ],
+     ") en projetant la voix des personnes racisées intellectuelles. Ces voix qui sont perpétuellement effacées, et historiquement silencées dans l’univers de la recherche scientifique."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "L’écrivain Bernard Assiniwi, issu de la nation cri, a choisi de s’exprimer dans la langue de la majorité dominante dans ses œuvres littéraires. Ce choix délibéré est une tentative à « corriger les inepties » du discours blanc, car si ses œuvres s’avéraient être en cri ou en montagnais, le public auquel il s’adressait n’aurait pas pu faire acte de décolonisation due à leur méconnaissance linguistique de sa langue natale (",
+     [
+      "a",
+      {
+       "href": "#t-r10",
+       "id": "t-llamada-r10-1"
+      },
+      "Destrempes, 2002, p. 401"
+     ],
+     "). Dans le cas des textes qui sont d’habitude rédigés dans une langue non coloniale, ceux-ci sont systématiquement pour la plupart traduits en version unilingue (française ou anglaise) ; ou encore bilingue, avec une page en langue non coloniale et l’autre traduite avec une des langues coloniales (",
+     [
+      "a",
+      {
+       "href": "#t-r10",
+       "id": "t-llamada-r10-2"
+      },
+      "Destrempes, 2002"
+     ],
+     "). Sachant qu’il faut adhérer à certaines règles du milieu scientifique pour se faire publier, ",
+     [
+      "a",
+      {
+       "href": "#t-r41",
+       "id": "t-llamada-r41-1"
+      },
+      "Porra (2002)"
+     ],
+     " propose le concept du ",
+     [
+      "i",
+      {},
+      "code-mixing"
+     ],
+     " qui consiste à opter pour l’hybridation des langues dans le but de rejeter le monologue d’assimilation auquel le français prône unanimement. En découvrant cette forme d’écriture, j’ai compris qu’elle offrait un espace où nos identités hybrides peuvent dialoguer. Elle met en lumière une littérature située aux frontières des langues et des voix multiples (",
+     [
+      "a",
+      {
+       "href": "#t-r41",
+       "id": "t-llamada-r41-2"
+      },
+      "Porra, 2002"
+     ],
+     "), dans mon cas, en intégrant notamment la pensée et la langue vietnamienne."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Pour les femmes descendantes de parents migrant·e·s vietnamien·ne·s, il ne serait pas bénéfique d’écrire seulement en vietnamien tel que proposé par le projet décolonial de Ngũgĩ wa ",
+     [
+      "a",
+      {
+       "href": "#t-r48",
+       "id": "t-llamada-r48-7"
+      },
+      "Thiongʼo (2011)"
+     ],
+     ", car cela ne mettra pas en lumière leurs réalités. De même, l’avenue d’une traduction littéraire des terminologies vietnamiennes utilisées dans les récits de vie des participantes dans ma recherche doctorale n’est pas non plus préconisée. Concrètement, en traduisant, cela risque de reperpétuer cette vision « d’une critique eurocentrique de l’eurocentrisme » (Grosfoguel, 2009 dans ",
+     [
+      "a",
+      {
+       "href": "#t-r8",
+       "id": "t-llamada-r8-5"
+      },
+      "Coenga-Oliveira, 2019"
+     ],
+     "), car cela ne permet pas de décoloniser – donc de se défaire – de l’épistémologie occidentale moderne. Pour mettre en avant la voix des subalternes, des voix historiquement délégitimées et rendues invisibles, il faut porter une attention particulière à la préservation de l’héritage culturel et linguistique, car ces récits issus de la tradition orale sont un prolongement de la mémoire collective de la population vietnamienne (",
+     [
+      "a",
+      {
+       "href": "#t-r53",
+       "id": "t-llamada-r53-3"
+      },
+      "Trinh, 2023"
+     ],
+     "[1989]). En m’inspirant de l’auteur cri Bernard Assiniwi, mon choix du français comme langue d’écriture pour ma recherche doctorale a comme objectif de me réapproprier un espace de création de savoirs pour introduire suffisamment d’éléments qui met en lumière les codes opacifiés par le discours colonial envers nos réalités, créant ainsi des visions erronées."
+    ],
+    "\n"
+   ],
+   "\n"
+  ],
+  [
+   "section",
+   {
+    "id": "t-s5"
+   },
+   "\n",
+   [
+    "h2",
+    {
+     "id": "t-seccion-8"
+    },
+    "L’auto-ethnographie comme levier de réflexivité décoloniale en recherche clinique"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Ce travail réflexif de « décoloniser l’esprit » (dont je parle de « décoloniser soi-même ») est ainsi primordial afin de désapprendre les discours et les pratiques de domination pour les remplacer par des discours et pratiques d’émancipation. Il s’agit de s’engager à la fois dans un processus de désapprentissage et d’apprentissage de nos propres jugements teintés du colonialisme et de la supériorité de l’Occident. Concrètement, je perçois cette posture comme se traduisant dans ma démarche par un premier mouvement de décentration, fondé sur la connaissance de soi et la reconnaissance de mon implication dans la production du savoir. Ce mouvement s’inscrit dans ce que la chercheure en travail social Jennifer ",
+    [
+     "a",
+     {
+      "href": "#t-r35",
+      "id": "t-llamada-r35-1"
+     },
+     "Matsunaga (2024)"
+    ],
+    " conceptualise comme une réflexivité anti-coloniale, soit un exercice critique par lequel le·la chercheur·e retourne le regard vers soi afin de comprendre comment les héritages coloniaux continuent de façonner ses cadres d’analyse, ses jugements et ses pratiques. En ce sens, la réflexivité anti-coloniale ne vise pas une neutralité illusoire, mais une prise de conscience située des rapports de pouvoir qui traversent la recherche, permettant ainsi de réduire la dépersonnalisation du passé colonial et d’en reconnaître les effets persistants dans le présent. Alors que la ",
+    [
+     "i",
+     {},
+     "perspective anti-coloniale"
+    ],
+    " s’inscrit dans une posture de résistance et de dénonciation de la domination coloniale (",
+    [
+     "a",
+     {
+      "href": "#t-r35",
+      "id": "t-llamada-r35-2"
+     },
+     "Matsunaga, 2024"
+    ],
+    "), la ",
+    [
+     "i",
+     {},
+     "perspective décoloniale"
+    ],
+    " vise à transformer en profondeur les cadres de pensée, les épistémologies et les pratiques de production hors du paradigme colonial (",
+    [
+     "a",
+     {
+      "href": "#t-r45",
+      "id": "t-llamada-r45-3"
+     },
+     "Romulus, 2018"
+    ],
+    "; ",
+    [
+     "a",
+     {
+      "href": "#t-r54",
+      "id": "t-llamada-r54-2"
+     },
+     "Tuhiwai Smith, 2021"
+    ],
+    ")."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Ainsi, l’usage de la décentration pour une perspective décoloniale ne relève pas d’un simple déplacement épistémique, mais consiste à reconnaître la réciprocité asymétrique afin de rendre intelligible une nouvelle grille d’analyse de l’enjeu étudié (",
+    [
+     "a",
+     {
+      "href": "#t-r49",
+      "id": "t-llamada-r49-2"
+     },
+     "Tran, 2025"
+    ],
+    "). Puis, l’auto-analyse de mon rapport à l’objet de recherche, notamment à travers une réflexion critique sur mon nom et sur l’usage d’une langue coloniale, ainsi que sur les héritages, assignations et rapports de pouvoir qu’ils charrient, me permet de situer ma parole et de réfléchir à mon apport à l’objet de recherche. Cette prise de conscience constitue un levier méthodologique pour une réflexivité sur soi, permettant de reconfigurer l’accueil des paroles des participant·e·s. Leurs paroles sont donc reconnues comme des savoirs situés, produits à partir de leurs trajectoires et positions sociales, plutôt que comme de simples données à extraire."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "En effet, écrire sur la réalité des femmes de ma communauté d’appartenance est une tâche que je ne peux pas prendre à la légère. Car, dans la même lignée stipulée par les réflexions de la sociologue Magalie ",
+    [
+     "a",
+     {
+      "href": "#t-r31",
+      "id": "t-llamada-r31-3"
+     },
+     "Lefebvre (2022)"
+    ],
+    ", en tant que femme racisée, il y a cette crainte réelle que nos voix et nos témoignages puissent être interprétés, invalidés et instrumentalisés contre nous afin de nous pathologiser davantage et renforcer des stéréotypes raciaux découlant du racisme systémique. De plus, en écrivant sur des récits traumatiques, c’est également s’exposer à des formes « d’exotisation de nos souffrances » et « au voyeurisme de nos douleurs » (",
+    [
+     "a",
+     {
+      "href": "#t-r31",
+      "id": "t-llamada-r31-4"
+     },
+     "Lefebvre, 2022, p. 58"
+    ],
+    ") par les lecteur·trice·s. Après avoir lu ce passage de ses réflexions, cette image de voyeurisme a énormément fait écho en moi : c’est cette idée que nos récits douloureux provenant des traumatismes historiques et collectifs ne deviennent que de simples anecdotes sous le regard de chercheur·e·s inscrit·e·s dans la blanchité, lorsque celui-ci est animé par une forme de curiosité malsaine. L’expérience d’être considéré comme une simple donnée de recherche plutôt que comme un sujet actif peut être appliquée dans le domaine des sciences humaines et sociales, où l’utilisation des récits traumatiques répond aux exigences et aux attentes des universités, plutôt qu’aux besoins et aux aspirations des communautés elles-mêmes (",
+    [
+     "a",
+     {
+      "href": "#t-r50",
+      "id": "t-llamada-r50-1"
+     },
+     "Traoré, 2015"
+    ],
+    "). Chandra Talpade ",
+    [
+     "a",
+     {
+      "href": "#t-r37",
+      "id": "t-llamada-r37-3"
+     },
+     "Mohanty (2003)"
+    ],
+    " nomme ces types de narrations des « rescue narratives » de la part de ce désir de « sauver les pauvres femmes de couleur ». C’est dans ce sentiment d’aliénation persistante que s’inscrit mon travail d’écriture des récits de vie, lequel exige une négociation constante afin de me distancier des cadres de pensée imposés par l’Occident, dans le but de m’en distancier, de les questionner et d’en saisir les effets."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Malgré les balises éthiques qu’offre la recherche en contexte universitaire, ces considérations demeurent insuffisantes pour abolir les structures oppressives qui traversent l’institution, notamment à l’égard des identités marginalisées (",
+    [
+     "a",
+     {
+      "href": "#t-r26",
+      "id": "t-llamada-r26-1"
+     },
+     "hooks, 2019"
+    ],
+    "[1994]). En effet, la recherche scientifique et académique s’inscrit historiquement dans des projets impérialistes et coloniaux, dans la mesure où « la nécessité d’étudier l’Autre [pour la production des savoirs] a été à la fois moteur, moyen et effet de l’entreprise coloniale » (",
+    [
+     "a",
+     {
+      "href": "#t-r50",
+      "id": "t-llamada-r50-2"
+     },
+     "Traoré, 2015, p. 29"
+    ],
+    "). La recherche a longuement – et dans certains cas, elle continue encore – à accumuler du savoir en observant des peuples par les colonisateur·tice·s en administrant une position de subalterne sur les colonisé·e·s. Ce legs a contribué à l’imposition d’un discours hégémonique du savoir, tout en légitimant l’extraction et l’appropriation des connaissances non européennes, produisant ainsi des formes d’injustice épistémique, voire d’épistémicide. Reconnaître les rapports de pouvoir à l’œuvre au sein même de la recherche scientifique universitaire constitue dès lors une condition essentielle pour se défaire de ce que Valentin Mudimbe nomme l’",
+    [
+     "i",
+     {},
+     "ethnocentrisme épistémologique"
+    ],
+    ", soit des cadres de pensée et des catégories de savoir qui placent l’Occident au centre du monde, au détriment d’autres épistémologies (dans ",
+    [
+     "a",
+     {
+      "href": "#t-r36",
+      "id": "t-llamada-r36-1"
+     },
+     "Mills, 1997"
+    ],
+    ")."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Dans cette continuité, il importe de se soustraire aux tactiques méthodologiques coloniales qui ont historiquement contribué à détruire, marginaliser ou s’approprier des savoirs non européens (",
+    [
+     "a",
+     {
+      "href": "#t-r36",
+      "id": "t-llamada-r36-2"
+     },
+     "Mills, 1997"
+    ],
+    "; ",
+    [
+     "a",
+     {
+      "href": "#t-r39",
+      "id": "t-llamada-r39-3"
+     },
+     "Nadeau, 2020"
+    ],
+    "). Ces pratiques s’inscrivent également dans un cadre institutionnel qui demeure socialement sélectif. En effet, l’institution universitaire constitue un espace où « les normes ",
+    [
+     "i",
+     {},
+     "strictement scientifiques"
+    ],
+    " […] sont de bon aloi, scrutés, décortiqués, disséqués, dépiécés voire dépiautés par les pairs […] » (",
+    [
+     "a",
+     {
+      "href": "#t-r2",
+      "id": "t-llamada-r2-3"
+     },
+     "Angone, 2020, p. 7"
+    ],
+    "), faisant de cette institution un point d’entrée majeur pour la reproduction des mécanismes de marginalisation (",
+    [
+     "a",
+     {
+      "href": "#t-r57",
+      "id": "t-llamada-r57-6"
+     },
+     "Walsh & Mignolo, 2018"
+    ],
+    "). Cette reconnaissance des rapports de pouvoir m’amène à adopter une épistémologie relationnelle, dans laquelle mon regard de chercheure se construit en dialogue avec celui des personnes concernées, comme une démarche décoloniale visant à soutenir une perspective émancipatrice et une justice épistémique. Conceptualisé par l’anthropologue indien Shiv ",
+    [
+     "a",
+     {
+      "href": "#t-r55",
+      "id": "t-llamada-r55-1"
+     },
+     "Visvanathan (2016)"
+    ],
+    ", la justice épistémique (ou justice cognitive) renvoie au principe selon lequel l’ensemble des formes de savoir (scientifiques, spirituelles, traditionnelles et populaires) doivent être reconnues et valorisées de manière équitable dans les processus de production, de légitimation et de circulation des connaissances."
+   ],
+   "\n"
+  ],
+  [
+   "section",
+   {
+    "id": "t-s6"
+   },
+   "\n",
+   [
+    "h2",
+    {
+     "id": "t-seccion-9"
+    },
+    "Conclusion"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "C’est dans ce contexte que, à travers cet article, ma démarche réflexive vise à expliciter la pertinence de l’articulation entre la sociologie clinique et l’auto-ethnographie comme approche décoloniale pour appréhender les enjeux vécus par les femmes descendantes de parents migrant·e·s vietnamien·ne·s au Québec. L’analyse de l’usage d’un prénom québécois francisé, de même que celle du rapport à la langue française comme langue coloniale, a permis de mettre en lumière la manière dont des pratiques présentées comme neutres ou pragmatiques s’inscrivent en réalité dans des rapports de pouvoir hérités de la colonialité. En mobilisant une narration au « je », soit à la première personne à titre de chercheur·e, l’auto-ethnographie rend visibles ces tensions vécues dans les trajectoires sociales, tout en permettant de les inscrire dans une lecture sociopolitique plus large. Ainsi, en recherche clinique, analyser ce « je » savant est nécessaire pour produire des connaissances plus justes et plus proches du vécu des personnes concernées (",
+    [
+     "a",
+     {
+      "href": "#t-r27",
+      "id": "t-llamada-r27-3"
+     },
+     "Joseph, 2013"
+    ],
+    "). Cette démarche met ainsi l’accent sur la relation, l’engagement, l’accessibilité à la langue et la complexité des expériences, et s’inscrit de ce fait comme une approche décoloniale (",
+    [
+     "a",
+     {
+      "href": "#t-r39",
+      "id": "t-llamada-r39-4"
+     },
+     "Nadeau, 2020"
+    ],
+    ") attentive aux savoirs situés et aux formes de justice épistémique."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "En somme, la perspective décoloniale permet de rompre avec les cadres de pensées occidentaux qui structurent la production des savoirs, perpétuant le colonialisme intellectuel et invisibilisent les ontologies et les épistémologies hors du paradigme colonial. L’articulation de la sociologie clinique à l’auto-ethnographie m’a permis de montrer que les expériences, souvent perçues comme individuelles ou anecdotiques, relèvent en réalité de dynamiques sociales, historiques et épistémiques plus larges. De même, sur le plan méthodologique, cette démarche souligne l’importance d’une posture réflexive et relationnelle en recherche, où l’analyse de sa posture, grâce à la réflexivité dans une perspective décoloniale, devient une condition pour éviter le voyeurisme académique et la reproduction de formes d’injustice épistémique. En ce sens, l’auto-ethnographie en recherche clinique constitue une avenue décoloniale en ce qu’elle exige un travail réflexif préalable sur soi comme chercheur·e, permettant de reconnaître le caractère situé des savoirs. À partir de cette démarche, j’avance qu’un tel décentrement rend alors possible une posture moins aveuglée par les cadres épistémiques coloniaux, et ouvre la voie à une reconnaissance accrue de l’agentivité des personnes concernées dans la production des savoirs."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Il importe toutefois de reconnaître certaines limites inhérentes à l’usage de l’auto-ethnographie, notamment en ce qui concerne la portée et la généralisation des données issues d’un travail réflexif situé. Cette approche ne vise pas une généralisation au sens positiviste en recherche, mais une compréhension approfondie des conditions sociales, historiques et épistémologiques de production du savoir. Comme le souligne ",
+    [
+     "a",
+     {
+      "href": "#t-r15",
+      "id": "t-llamada-r15-1"
+     },
+     "Elizabeth Ettore (2017)"
+    ],
+    ", qui mobilise l’auto-ethnographie féministe, le recours au « je » peut être critiqué lorsqu’il est perçu comme relevant d’une démarche narcissique. Or, dans le cadre de la sociologie clinique et d’une perspective décoloniale, l’usage de l’auto-ethnographie constitue davantage un levier pour renforcer une objectivation dans le processus de recherche."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Enfin, la démarche réflexive développée dans cet article ouvre ainsi plusieurs pistes de réflexion quant à une avenue possible d’une approche épistémologique de la posture en recherche clinique, inscrite dans une perspective décoloniale, attentive aux rapports de pouvoir qui traversent la production des savoirs au sein de l’université ou de la recherche. Plus particulièrement, ce travail met en lumière les enjeux spécifiques qui émergent lorsque la personne qui mène la recherche appartient également au groupe social interrogé, comme c’est le cas ici des femmes descendantes de parents migrant·e·s vietnamien·ne·s. En ce sens, cet article invite à poursuivre la réflexion sur les conditions éthiques, méthodologiques et épistémiques d’une telle posture, tout en ouvrant la voie à l’exploration de ces dynamiques auprès d’autres communautés issues de pays anciennement colonisés et au développement de méthodologies décoloniales en travail social."
+   ],
+   "\n"
+  ],
+  [
+   "section",
+   {},
+   "\n",
+   [
+    "aside",
+    {
+     "id": "t-fn1",
+     "rol": "fn"
+    },
+    [
+     "span",
+     {},
+     "1"
+    ],
+    [
+     "p",
+     {},
+     "L’île de la Tortue est le terme référé par les communautés autochtones au Canada pour parler du continent de l’Amérique du Nord. Selon la légende provenant de l’histoire orale des aînés autochtones, le continent est situé sur le dos d’une tortue qui a offert sa carapace pour que la terre puisse grandir et laisser des habitants y vivre dessus."
+    ]
+   ],
+   "\n",
+   [
+    "aside",
+    {
+     "id": "t-fn2",
+     "rol": "fn"
+    },
+    [
+     "span",
+     {},
+     "2"
+    ],
+    [
+     "p",
+     {},
+     "Particulièrement dans le domaine du travail social, les pratiques eurocentriques consistent notamment à mettre l’accent sur les croyances et la création des savoirs du groupe dominant. Ceci risque donc de dénier les réalités sociales des autres groupes telles que racisés, des minorités culturelles, etc."
+    ]
+   ],
+   "\n",
+   [
+    "aside",
+    {
+     "id": "t-fn3",
+     "rol": "fn"
+    },
+    [
+     "span",
+     {},
+     "3"
+    ],
+    [
+     "p",
+     {},
+     "La race est un concept qui met en évidence que la race en termes biologiques n’existe pas, mais il constitue bien un construction sociale où les gens vivent de la discrimination en fonction de leur couleur de peau, de leur appartenance réelle ou supposée à un groupe ayant subi un processus de racisation. Le terme « personne racisée » renvoie au processus de racialisation négative d’une personne considérée comme non-blanche. Toutefois, ce ne sont pas tous les individus qui acceptent cette terminologie puisque ce terme peut soulever un risque d’essentialisation."
+    ]
+   ],
+   "\n",
+   [
+    "aside",
+    {
+     "id": "t-fn4",
+     "rol": "fn"
+    },
+    [
+     "span",
+     {},
+     "4"
+    ],
+    [
+     "p",
+     {},
+     "L’épistémologie du positionnement (appelé aussi le ",
+     [
+      "i",
+      {},
+      "standpoint theory/"
+     ],
+     "la théorie du positionnement situé) est davantage mobilisée dans les savoirs féministes de nos jours. Or, la mobilisation du savoir expérientiel comme des savoirs ancrés a longtemps été exercée par les féministes Noires et les féministes « subalternes » dans leur agenda politique. Ancré dans l’idée que le partage d’expériences permet d’éveiller les consciences, les résistances et ultimement l’émancipation des femmes Noires et marginalisées, l’objectif est d’offrir une autre voie vers la vérité en ce qui concerne « ",
+     [
+      "i",
+      {},
+      "truthful identity of what it is"
+     ],
+     " » (",
+     [
+      "a",
+      {
+       "href": "#t-r9",
+       "id": "t-llamada-r9-1"
+      },
+      "Collins, 2009"
+     ],
+     ", p. 288), et ce, en reconnaissant l’expérience personnelle comme critère de validité et de production de connaissances ainsi que d’outil de validation des connaissances."
+    ]
+   ],
+   "\n",
+   [
+    "aside",
+    {
+     "id": "t-fn5",
+     "rol": "fn"
+    },
+    [
+     "span",
+     {},
+     "5"
+    ],
+    [
+     "p",
+     {},
+     "Selon la traduction ethnolinguistique, la fleur de ",
+     [
+      "i",
+      {},
+      "Quỳnh"
+     ],
+     " correspond à l’Épiphyllum oxypetalum, communément appelée « reine de la nuit ». L’attribution du prénom Quỳnh Nhi vise ainsi à transmettre à l’enfant des qualités associées à la grâce et à la douceur."
+    ]
+   ],
+   "\n",
+   [
+    "aside",
+    {
+     "id": "t-fn6",
+     "rol": "fn"
+    },
+    [
+     "span",
+     {},
+     "6"
+    ],
+    [
+     "p",
+     {},
+     "J’emploie l’expression « prénom social » pour désigner le prénom que l’on choisit ou utilise dans l’espace public ou relationnel. Plus précisément, j’entends par là une stratégie d’utiliser un prénom social visant à faciliter une intégration sociale, notamment chez les personnes migrantes et/ou racisées."
+    ]
+   ],
+   "\n",
+   [
+    "aside",
+    {
+     "id": "t-fn7",
+     "rol": "fn"
+    },
+    [
+     "span",
+     {},
+     "7"
+    ],
+    [
+     "p",
+     {},
+     "Citation d’Odome Angone dans son livre ",
+     [
+      "i",
+      {},
+      "Femmes Noires Francophones : une réflexion sur le patriarcat et le racisme aux XX"
+     ],
+     [
+      "sup",
+      {},
+      [
+       "i",
+       {},
+       "e"
+      ]
+     ],
+     [
+      "i",
+      {},
+      "-XXI"
+     ],
+     [
+      "sup",
+      {},
+      [
+       "i",
+       {},
+       "e"
+      ]
+     ],
+     " ",
+     [
+      "i",
+      {},
+      "siècles"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "aside",
+    {
+     "id": "t-fn8",
+     "rol": "fn"
+    },
+    [
+     "span",
+     {},
+     "8"
+    ],
+    [
+     "p",
+     {},
+     "La chute de Saigon est l’événement appelé par les peuples vietnamiens du Sud exilés pour indiquer la chute du régime Sud-vietnamien lors de la Guerre Américaine-Vietnamien."
+    ]
+   ],
+   "\n",
+   [
+    "aside",
+    {
+     "id": "t-fn9",
+     "rol": "fn"
+    },
+    [
+     "span",
+     {},
+     "9"
+    ],
+    [
+     "p",
+     {},
+     "Ngũgĩ wa ",
+     [
+      "a",
+      {
+       "href": "#t-r48",
+       "id": "t-llamada-r48-8"
+      },
+      "Thiongʼo (2011)"
+     ],
+     " explique que l’aliénation coloniale est l’enseignement des enfants de l’histoire européenne, sa géographie et sa culture. Ainsi, l’enfant apprend que la langue et la culture de son peuple natale sont inférieures socialement et humiliant. « L’aliénation coloniale se met en place dès que la langue de la conceptualisation, de la pensée, de l’éducation scolaire, du développement intellectuel, se trouve dissociée de la langue des échanges domestiques quotidiens; elle revient à séparer l’esprit du corps et à leur assigner deux sphères séparées. » (p. 61)."
+    ]
+   ],
+   "\n",
+   [
+    "aside",
+    {
+     "id": "t-fn10",
+     "rol": "fn"
+    },
+    [
+     "span",
+     {},
+     "10"
+    ],
+    [
+     "p",
+     {},
+     "Selon la professeure-chercheuse en travail social Diahara ",
+     [
+      "a",
+      {
+       "href": "#t-r51",
+       "id": "t-llamada-r51-1"
+      },
+      "Traoré (2025)"
+     ],
+     ", les cosmovisions renvoient aux manières de concevoir la vie, la communauté ainsi que les relations entre le visible et l’invisible, lesquelles structurent les rapports au monde et aux savoirs."
+    ]
+   ],
+   "\n"
+  ],
+  [
+   "section",
+   {},
+   "\n",
+   [
+    "h2",
+    {
+     "id": "t-seccion-10"
+    },
+    "Bibliographie"
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r1",
+     "rol": "ref",
+     "lang": "en"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Allard-Tremblay"
+      ],
+      ", ",
+      [
+       "span",
+       {},
+       "Y."
+      ]
+     ],
+     " (",
+     [
+      "span",
+      {},
+      "2023"
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      "25"
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "avril"
+     ],
+     "). ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "“Reviewer 2 must be stopped”; ongoing challenges to publishing Indigenous contributions in political science and sociology"
+      ]
+     ],
+     " [présentation d’un conférencier invité]. ",
+     [
+      "span",
+      {},
+      "Symposium “Race and Epistemologies of Ignorance”, Centre de recherche en éthique (CRÉ)"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r2",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Angone"
+      ],
+      ", ",
+      [
+       "span",
+       {},
+       "O."
+      ]
+     ],
+     " (",
+     [
+      "span",
+      {},
+      "2020"
+     ],
+     "). ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Femmes Noires Francophones : une réflexion sur le patriarcat et le racisme aux XX"
+      ],
+      [
+       "sup",
+       {},
+       [
+        "i",
+        {},
+        "e"
+       ]
+      ],
+      [
+       "i",
+       {},
+       "-XXI"
+      ],
+      [
+       "sup",
+       {},
+       [
+        "i",
+        {},
+        "e"
+       ]
+      ],
+      " ",
+      [
+       "i",
+       {},
+       "siècles"
+      ]
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Kala Hermann"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r3",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      "Anh"
+     ],
+     ". (",
+     [
+      "span",
+      {},
+      "2018"
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      "18"
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "avril"
+     ],
+     "). ",
+     [
+      "span",
+      {},
+      "Introduction à la langue vietnamienne : Alphabet, Intonation et Écriture"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Tour du monde 5 continents"
+      ]
+     ],
+     ". ",
+     [
+      "a",
+      {
+       "href": "https://www.tourdumonde5continents.com/introduction-a-la-langue-vietnamienne-alphabet-intonation-et-ecriture/"
+      },
+      "https://www.tourdumonde5continents.com/introduction-a-la-langue-vietnamienne-alphabet-intonation-et-ecriture/"
+     ]
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r4",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Barus-Michel"
+      ],
+      ", ",
+      [
+       "span",
+       {},
+       "J."
+      ]
+     ],
+     " (",
+     [
+      "span",
+      {},
+      "2013"
+     ],
+     "). ",
+     [
+      "span",
+      {},
+      "Un objet peut en cacher un autre"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "La recherche clinique en sciences sociales"
+      ]
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      "219"
+     ],
+     "‐",
+     [
+      "span",
+      {},
+      "1"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r5",
+     "rol": "ref",
+     "lang": "en"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Bourdieu"
+      ],
+      ", ",
+      [
+       "span",
+       {},
+       "P."
+      ]
+     ],
+     " (",
+     [
+      "span",
+      {},
+      "2003"
+     ],
+     "). ",
+     [
+      "span",
+      {},
+      "Participant objectivation"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Journal of the royal anthropological institute"
+      ]
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      [
+       "i",
+       {},
+       "9"
+      ]
+     ],
+     "(",
+     [
+      "span",
+      {},
+      "2"
+     ],
+     "), ",
+     [
+      "span",
+      {},
+      "281"
+     ],
+     "-",
+     [
+      "span",
+      {},
+      "294"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r6",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Catro-Gomez"
+      ],
+      ", ",
+      [
+       "span",
+       {},
+       "S"
+      ]
+     ],
+     ", & ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Gosfoguel"
+      ],
+      ", ",
+      [
+       "span",
+       {},
+       "R."
+      ]
+     ],
+     " (",
+     [
+      "span",
+      {},
+      "2019"
+     ],
+     "). ",
+     [
+      "span",
+      {},
+      "Tournant décolonial, théorie critique et pensée hétérarchique"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      "Dans ",
+      [
+       "i",
+       {},
+       "Savoirs féministes au Sud. Expertes en genre et tournant décolonial. Cahiers genre et développement, n 11"
+      ],
+      "(Dir.) C. Verschuur"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "81"
+     ],
+     "-",
+     [
+      "span",
+      {},
+      "97"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Paris"
+     ],
+     " : ",
+     [
+      "span",
+      {},
+      "L’Harmattan"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r7",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Chung"
+      ],
+      ", ",
+      [
+       "span",
+       {},
+       "R."
+      ]
+     ],
+     " (",
+     [
+      "span",
+      {},
+      "2018"
+     ],
+     "). ",
+     [
+      "span",
+      {},
+      "Les études féministes pour résister aux injustices épistémiques genrées"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Dans S."
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "Lamour"
+      ]
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "D."
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "Côté"
+      ]
+     ],
+     ", & ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "D."
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "Alexis"
+      ]
+     ],
+     ", ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Déjouer le silence : Contre-discours sur les femmes haïtiennes"
+      ]
+     ],
+     " (p. ",
+     [
+      "span",
+      {},
+      "25"
+     ],
+     "‑",
+     [
+      "span",
+      {},
+      "34"
+     ],
+     "). ",
+     [
+      "span",
+      {},
+      "Les éditions du remue-ménage, Mémoire d’encrier, PressuniQ"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r8",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Coenga-Oliveira"
+      ],
+      ", ",
+      [
+       "span",
+       {},
+       "D."
+      ]
+     ],
+     " (",
+     [
+      "span",
+      {},
+      "2019"
+     ],
+     "). ",
+     [
+      "span",
+      {},
+      "Épistémologies du Sud, pensées et féminismes décoloniaux latino-américains"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Revue Possibles"
+      ]
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      [
+       "i",
+       {},
+       "43"
+      ]
+     ],
+     "(",
+     [
+      "span",
+      {},
+      "2"
+     ],
+     "), ",
+     [
+      "span",
+      {},
+      "7"
+     ],
+     "-",
+     [
+      "span",
+      {},
+      "7"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r9",
+     "rol": "ref",
+     "lang": "en"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Collins"
+      ],
+      ", ",
+      [
+       "span",
+       {},
+       "P. H."
+      ]
+     ],
+     " (",
+     [
+      "span",
+      {},
+      "2009"
+     ],
+     "). ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Black Feminist Thought: Knowledge, consciousness, and the politics of empowerment"
+      ]
+     ],
+     " (",
+     [
+      "span",
+      {},
+      "2e"
+     ],
+     " éd.). ",
+     [
+      "span",
+      {},
+      "Routledge Classics"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r10",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Destrempes"
+      ],
+      ", ",
+      [
+       "span",
+       {},
+       "H."
+      ]
+     ],
+     " (",
+     [
+      "span",
+      {},
+      "2002"
+     ],
+     "). ",
+     [
+      "span",
+      {},
+      "Plurilinguisme et stratégies identitaires dans la littérature autochtone d’expression française au québec"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Dans R."
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "Dion"
+      ]
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "H.-J."
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "Lüsebrink"
+      ]
+     ],
+     " & ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "J."
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "Riesz"
+      ]
+     ],
+     " (dir.), ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Écrire en langue étrangère : Interférences de langues et de cultures dans le monde francophone"
+      ]
+     ],
+     " (p. ",
+     [
+      "span",
+      {},
+      "395"
+     ],
+     "-",
+     [
+      "span",
+      {},
+      "416"
+     ],
+     "). ",
+     [
+      "span",
+      {},
+      "Éditions Nota bene"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r11",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Diallo"
+      ],
+      ", ",
+      [
+       "span",
+       {},
+       "R."
+      ]
+     ],
+     " & ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Ly"
+      ],
+      ", ",
+      [
+       "span",
+       {},
+       "G."
+      ]
+     ],
+     " (animatrices). (",
+     [
+      "span",
+      {},
+      "2022"
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      "14"
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "juin"
+     ],
+     "). ",
+     [
+      "span",
+      {},
+      "Épisode #93 - Du journalisme à la fiction, que faire de sa subjectivité?"
+     ],
+     " [Épisode balado audio]. ",
+     [
+      "i",
+      {},
+      "Dans ",
+      [
+       "i",
+       {},
+       "Kiff ta race"
+      ]
+     ],
+     ". Binge Audio. ",
+     [
+      "a",
+      {
+       "href": "https://www.binge.audio/podcast/kiffetarace/du-journalisme-a-la-fiction-que-faire-de-sa-subjectivite"
+      },
+      "https://www.binge.audio/podcast/kiffetarace/du-journalisme-a-la-fiction-que-faire-de-sa-subjectivite"
+     ]
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r12",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Dubé"
+      ],
+      ", ",
+      [
+       "span",
+       {},
+       "G."
+      ]
+     ],
+     " (",
+     [
+      "span",
+      {},
+      "2016"
+     ],
+     "). ",
+     [
+      "span",
+      {},
+      "L’autoethonographie, une méthode de recherche inclusive"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Revue transdisciplinaire d’étude des pratiques psychosociales"
+      ]
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      [
+       "i",
+       {},
+       "9"
+      ]
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      "1"
+     ],
+     "‐",
+     [
+      "span",
+      {},
+      "20"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r13",
+     "rol": "ref",
+     "lang": "en"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Ellis"
+      ],
+      ", ",
+      [
+       "span",
+       {},
+       "C."
+      ]
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Adams"
+      ],
+      ", ",
+      [
+       "span",
+       {},
+       "T. E."
+      ]
+     ],
+     ", & ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Bochner"
+      ],
+      ", ",
+      [
+       "span",
+       {},
+       "A. P."
+      ]
+     ],
+     " (",
+     [
+      "span",
+      {},
+      "2011"
+     ],
+     "). ",
+     [
+      "span",
+      {},
+      "Autoethnography: An Overview"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      "Historical Social Research / Historische Sozialforschung"
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      "36"
+     ],
+     "(",
+     [
+      "span",
+      {},
+      "4 (138)"
+     ],
+     "), ",
+     [
+      "span",
+      {},
+      "273"
+     ],
+     "–",
+     [
+      "span",
+      {},
+      "290"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r14",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Escobar"
+      ],
+      ", ",
+      [
+       "span",
+       {},
+       "A."
+      ]
+     ],
+     " (",
+     [
+      "span",
+      {},
+      "2019"
+     ],
+     "). ",
+     [
+      "span",
+      {},
+      "Quelques réflexions sur le colonilaisme intellectuel et les dilemmes auxquels fait face la théorie sociale latino-américaine"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      "Dans ",
+      [
+       "i",
+       {},
+       "Savoirs féministes au Sud. Expertes en genre et tournant décolonial. Cahiers genre et développement, n 11"
+      ],
+      "(Dir.) C. Verschuur"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "41"
+     ],
+     "-",
+     [
+      "span",
+      {},
+      "52"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Paris"
+     ],
+     " : ",
+     [
+      "span",
+      {},
+      "L’Harmattan"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r15",
+     "rol": "ref",
+     "lang": "en"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Ettorre"
+      ],
+      ", ",
+      [
+       "span",
+       {},
+       "E."
+      ]
+     ],
+     " (",
+     [
+      "span",
+      {},
+      "2017"
+     ],
+     "). ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Autoethnography as feminist method: sensitising the feminist ‘I’"
+      ]
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Routledge"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r16",
+     "rol": "ref",
+     "lang": "en"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Fricker"
+      ],
+      ", ",
+      [
+       "span",
+       {},
+       "M."
+      ]
+     ],
+     " (",
+     [
+      "span",
+      {},
+      "2007"
+     ],
+     "). ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Epistemic injustice: Power and the ethics of knowing"
+      ]
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Oxford University Press"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r17",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Gaulejac"
+      ],
+      ", ",
+      [
+       "span",
+       {},
+       "V. de"
+      ]
+     ],
+     " (",
+     [
+      "span",
+      {},
+      "1992"
+     ],
+     "). ",
+     [
+      "span",
+      {},
+      "La sociologie et le vécu"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "International Review of Community Development / Revue internationale d’action communautaire"
+      ]
+     ],
+     ", (",
+     [
+      "span",
+      {},
+      "27"
+     ],
+     "), ",
+     [
+      "span",
+      {},
+      "15"
+     ],
+     "–",
+     [
+      "span",
+      {},
+      "20"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r18",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Gaulejac"
+      ],
+      ", ",
+      [
+       "span",
+       {},
+       "V. de"
+      ]
+     ],
+     " (",
+     [
+      "span",
+      {},
+      "2013"
+     ],
+     "). ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "L’histoire en héritage : Roman familial et trajectoire sociale"
+      ]
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Éditions Payot"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r19",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Godrie"
+      ],
+      ", ",
+      [
+       "span",
+       {},
+       "B."
+      ]
+     ],
+     ", & ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Dos Santos"
+      ],
+      ", ",
+      [
+       "span",
+       {},
+       "M."
+      ]
+     ],
+     " (",
+     [
+      "span",
+      {},
+      "2017"
+     ],
+     "). ",
+     [
+      "span",
+      {},
+      "Présentation : Inégalités sociales, production des savoirs et de l’ignorance"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Sociologie et sociétés"
+      ]
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      [
+       "i",
+       {},
+       "49"
+      ]
+     ],
+     "(",
+     [
+      "span",
+      {},
+      "1"
+     ],
+     "), ",
+     [
+      "span",
+      {},
+      "7"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r20",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Hamisultane"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "S."
+      ]
+     ],
+     " (",
+     [
+      "span",
+      {},
+      "2024"
+     ],
+     "). ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Mieux appréhender la santé mentale des femmes descendantes de migrant·e·s asiatiques : héritages migratoires et traumatismes"
+      ]
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Recherche CRSH- publication Institut Universitaire Sherpa"
+     ],
+     ". ",
+     [
+      "a",
+      {
+       "href": "https://sherpa-recherche.com/wp-content/uploads/2024/10/sante-mentale-femmes-descendantes-migrants-asiatiques.pdf"
+      },
+      "https://sherpa-recherche.com/wp-content/uploads/2024/10/sante-mentale-femmes-descendantes-migrants-asiatiques.pdf"
+     ]
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r21",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Hamisultane"
+      ],
+      ", ",
+      [
+       "span",
+       {},
+       "S."
+      ]
+     ],
+     " (",
+     [
+      "span",
+      {},
+      "2013"
+     ],
+     "). ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "La construction de soi de descendants de migrants vietnamiens dans le pays d’accueil (France, Canada-Québec). Approche psychosociale clinique"
+      ]
+     ],
+     " [Université Paris VII – Paris Diderot]. ",
+     [
+      "a",
+      {
+       "href": "https://tel.archives-ouvertes.fr/tel-01436979v2"
+      },
+      "https://tel.archives-ouvertes.fr/tel-01436979v2"
+     ]
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r22",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Hamisultane"
+      ],
+      ", ",
+      [
+       "span",
+       {},
+       "S."
+      ]
+     ],
+     " (",
+     [
+      "span",
+      {},
+      "2014"
+     ],
+     "). ",
+     [
+      "span",
+      {},
+      "La nécessaire distanciation du chercheur par l’analyse de son implication"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Interrogations"
+      ]
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      "18"
+     ],
+     ", [en ligne], ",
+     [
+      "a",
+      {
+       "href": "http://www.revue-interrogations.org/La-necessaire-distanciation-du"
+      },
+      "http://www.revue-interrogations.org/La-necessaire-distanciation-du"
+     ],
+     " Consulté le 7 juin 2022."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r23",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Hamisultane"
+      ],
+      ", ",
+      [
+       "span",
+       {},
+       "S."
+      ]
+     ],
+     " (",
+     [
+      "span",
+      {},
+      "2022"
+     ],
+     "). ",
+     [
+      "span",
+      {},
+      "Sociologie clinique et approche anti-oppressive : la posture dans la rencontre de recherche en travail social en contexte d’interculturalité au Canada"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Sociologies"
+      ]
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      [
+       "i",
+       {},
+       "17"
+      ]
+     ],
+     "(",
+     [
+      "span",
+      {},
+      "1"
+     ],
+     "), p. ",
+     [
+      "span",
+      {},
+      "83"
+     ],
+     "-",
+     [
+      "span",
+      {},
+      "103"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r24",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Hamrouni"
+      ],
+      ", ",
+      [
+       "span",
+       {},
+       "N."
+      ]
+     ],
+     " (",
+     [
+      "span",
+      {},
+      "2025"
+     ],
+     "). ",
+     [
+      "span",
+      {},
+      "Pourquoi le féminisme blanc est un piège et comment en sortir"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Dans N."
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "Hamrouni"
+      ]
+     ],
+     " & ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "C."
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "Maillé"
+      ]
+     ],
+     ", ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Le sujet du féminisme est-il blanc? Luttes et savoirs actuels"
+      ]
+     ],
+     " (p. ",
+     [
+      "span",
+      {},
+      "39"
+     ],
+     "-",
+     [
+      "span",
+      {},
+      "58"
+     ],
+     "). ",
+     [
+      "span",
+      {},
+      "Les éditions du remue-ménage"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r25",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Hanique"
+      ],
+      ", ",
+      [
+       "span",
+       {},
+       "F."
+      ]
+     ],
+     " (",
+     [
+      "span",
+      {},
+      "2009"
+     ],
+     "). ",
+     [
+      "span",
+      {},
+      "Enjeux théoriques et méthodologiques de la sociologie clinique"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Informations sociales"
+      ]
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      [
+       "i",
+       {},
+       "156"
+      ]
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      "32"
+     ],
+     "‐",
+     [
+      "span",
+      {},
+      "40"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r26",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "hooks"
+      ],
+      ", ",
+      [
+       "span",
+       {},
+       "b."
+      ]
+     ],
+     " (",
+     [
+      "span",
+      {},
+      "2019[1994]"
+     ],
+     "). ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Apprendre à transgresser : l’éducation comme pratique de la liberté"
+      ]
+     ],
+     " (trad. ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "M."
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "Portron"
+      ]
+     ],
+     "). ",
+     [
+      "span",
+      {},
+      "Montréal"
+     ],
+     ": ",
+     [
+      "span",
+      {},
+      "M Éditeur"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r27",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Joseph"
+      ],
+      ", ",
+      [
+       "span",
+       {},
+       "R.-M."
+      ]
+     ],
+     " (",
+     [
+      "span",
+      {},
+      "2013"
+     ],
+     "). ",
+     [
+      "span",
+      {},
+      "Implication dans la recherche : Des points communs aux points de rencontre"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Dans V."
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "de Gaulejac"
+      ]
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "F."
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "Giust-Desprairies"
+      ]
+     ],
+     ", & ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "A."
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "Massa"
+      ]
+     ],
+     " (Eds.), ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "La recherche clinique en sciences sociales"
+      ]
+     ],
+     " (p. ",
+     [
+      "span",
+      {},
+      "133"
+     ],
+     "-",
+     [
+      "span",
+      {},
+      "150"
+     ],
+     "). ",
+     [
+      "span",
+      {},
+      "Érès"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r28",
+     "rol": "ref",
+     "lang": "en"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Kiranantawat"
+      ],
+      ", ",
+      [
+       "span",
+       {},
+       "K."
+      ]
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Suhk"
+      ],
+      ", ",
+      [
+       "span",
+       {},
+       "J. H."
+      ]
+     ],
+     ", & ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Nguyen"
+      ],
+      ", ",
+      [
+       "span",
+       {},
+       "A. H."
+      ]
+     ],
+     " (",
+     [
+      "span",
+      {},
+      "2015"
+     ],
+     "). ",
+     [
+      "span",
+      {},
+      "The Asian Eyelid: Relevant Anatomy"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Seminars in plastic surgery"
+      ]
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      [
+       "i",
+       {},
+       "29"
+      ]
+     ],
+     "(",
+     [
+      "span",
+      {},
+      "3"
+     ],
+     "), ",
+     [
+      "span",
+      {},
+      "158"
+     ],
+     "–",
+     [
+      "span",
+      {},
+      "164"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r29",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      "La Presse Canadienne"
+     ],
+     ". (",
+     [
+      "span",
+      {},
+      "2021"
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      "15"
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "juin"
+     ],
+     "). ",
+     [
+      "span",
+      {},
+      "Les Autochtones pourront reprendre leurs noms traditionnels sur les passeports"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Le Devoir"
+      ]
+     ],
+     ". Tiré de ",
+     [
+      "a",
+      {
+       "href": "https://www.ledevoir.com/societe/610740/les-autochtones-pourront-reprendre-leurs-noms-traditionnels-sur-les-passeports"
+      },
+      "https://www.ledevoir.com/societe/610740/les-autochtones-pourront-reprendre-leurs-noms-traditionnels-sur-les-passeports"
+     ]
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r30",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Lee"
+      ],
+      ", ",
+      [
+       "span",
+       {},
+       "O. J. E."
+      ]
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Macdonald"
+      ],
+      ", ",
+      [
+       "span",
+       {},
+       "S.-A."
+      ]
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Caron"
+      ],
+      ", ",
+      [
+       "span",
+       {},
+       "R. et"
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Fontaine"
+      ],
+      ", ",
+      [
+       "span",
+       {},
+       "A."
+      ]
+     ],
+     " (",
+     [
+      "span",
+      {},
+      "2017"
+     ],
+     "). ",
+     [
+      "span",
+      {},
+      "Promouvoir une perspective anti-oppressive dans la formation en travail social"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Revue Intervention"
+      ]
+     ],
+     ", (",
+     [
+      "span",
+      {},
+      "145"
+     ],
+     "), ",
+     [
+      "span",
+      {},
+      "7"
+     ],
+     "-",
+     [
+      "span",
+      {},
+      "19"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r31",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Lefebvre"
+      ],
+      ", ",
+      [
+       "span",
+       {},
+       "M."
+      ]
+     ],
+     " (",
+     [
+      "span",
+      {},
+      "2022"
+     ],
+     "). ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Entre racialisation et subjectivité. Analyse critique de la construction identitaire chez des femmes biraciales francophones au Québec"
+      ]
+     ],
+     " [thèse de maîtrise]. ",
+     [
+      "span",
+      {},
+      "Université d’Ottawa"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r32",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Ly"
+      ],
+      ", ",
+      [
+       "span",
+       {},
+       "G."
+      ]
+     ],
+     ", & ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Ung"
+      ],
+      ", ",
+      [
+       "span",
+       {},
+       "M."
+      ]
+     ],
+     " (",
+     [
+      "span",
+      {},
+      "2023"
+     ],
+     "). ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Est-ce que tu as faim? Une recette d’amour"
+      ]
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "On Ne Compte Pas Pour Du Beurre"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r33",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Madavane"
+      ],
+      ", ",
+      [
+       "span",
+       {},
+       "K."
+      ]
+     ],
+     " (",
+     [
+      "span",
+      {},
+      "2002"
+     ],
+     "). ",
+     [
+      "span",
+      {},
+      "Penser dans la langue de la mère. Écrire dans la langue du père. Vivre le mythe"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Dans R."
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "Dion"
+      ]
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "H.-J."
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "Lüsebrink"
+      ]
+     ],
+     " & ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "J."
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "Riesz"
+      ]
+     ],
+     " (dir.), ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Écrire en langue étrangère : Interférences de langues et de cultures dans le monde francophone"
+      ]
+     ],
+     " (p. ",
+     [
+      "span",
+      {},
+      "505"
+     ],
+     "-",
+     [
+      "span",
+      {},
+      "524"
+     ],
+     "). ",
+     [
+      "span",
+      {},
+      "Éditions Nota bene"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r34",
+     "rol": "ref",
+     "lang": "en"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Mahon"
+      ],
+      ", ",
+      [
+       "span",
+       {},
+       "L."
+      ]
+     ],
+     " (",
+     [
+      "span",
+      {},
+      "2022"
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      "8"
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "août"
+     ],
+     "). ",
+     [
+      "span",
+      {},
+      "‘Changing my slave name allowed me to find myself’: People who have taken on new African names talk about the mental emancipation it brings"
+     ],
+     ". The Voice. ",
+     [
+      "a",
+      {
+       "href": "https://www.voice-online.co.uk/news/features-news/2022/08/08/changing-my-slave-name-allowed-me-to-find-myself/"
+      },
+      "https://www.voice-online.co.uk/news/features-news/2022/08/08/changing-my-slave-name-allowed-me-to-find-myself/"
+     ]
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r35",
+     "rol": "ref",
+     "lang": "en"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Matsunaga"
+      ],
+      ", ",
+      [
+       "span",
+       {},
+       "J."
+      ]
+     ],
+     " (",
+     [
+      "span",
+      {},
+      "2024"
+     ],
+     "). ",
+     [
+      "span",
+      {},
+      "Anti-colonial Reflexivity in Social Work: Re-personalizing the settler colonial past and present as settlers"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Canadian Social Work Review"
+      ]
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      "67"
+     ],
+     "-",
+     [
+      "span",
+      {},
+      "85"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r36",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Mills"
+      ],
+      ", ",
+      [
+       "span",
+       {},
+       "C. W."
+      ]
+     ],
+     " (",
+     [
+      "span",
+      {},
+      "1997"
+     ],
+     "). ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "The Racial Contract"
+      ]
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Cornell University Press"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r37",
+     "rol": "ref",
+     "lang": "en"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Mohanty"
+      ],
+      ", ",
+      [
+       "span",
+       {},
+       "C. T."
+      ]
+     ],
+     " (",
+     [
+      "span",
+      {},
+      "2003"
+     ],
+     "). ",
+     [
+      "span",
+      {},
+      "“Under western eyes” revisited : Feminist solidarity through anticapitalist struggles"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Signs: Journal of Women in culture and Society"
+      ]
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      [
+       "i",
+       {},
+       "28"
+      ]
+     ],
+     "(",
+     [
+      "span",
+      {},
+      "2"
+     ],
+     "), ",
+     [
+      "span",
+      {},
+      "499"
+     ],
+     "‐",
+     [
+      "span",
+      {},
+      "535"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r38",
+     "rol": "ref",
+     "lang": "en"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Murray-Lichtman"
+      ],
+      ", ",
+      [
+       "span",
+       {},
+       "A."
+      ]
+     ],
+     ", & ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Elkassem"
+      ],
+      ", ",
+      [
+       "span",
+       {},
+       "S."
+      ]
+     ],
+     " (",
+     [
+      "span",
+      {},
+      "2021"
+     ],
+     "). ",
+     [
+      "span",
+      {},
+      "Academic voyeurism: The white gaze in social work"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Canadian Social Work Review"
+      ]
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      [
+       "i",
+       {},
+       "38"
+      ]
+     ],
+     "(",
+     [
+      "span",
+      {},
+      "2"
+     ],
+     "), ",
+     [
+      "span",
+      {},
+      "179"
+     ],
+     "-",
+     [
+      "span",
+      {},
+      "205"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r39",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Nadeau"
+      ],
+      ", ",
+      [
+       "span",
+       {},
+       "D. M."
+      ]
+     ],
+     " (",
+     [
+      "span",
+      {},
+      "2020"
+     ],
+     "). ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Unsettling Spirit: A Journey Into Decolonization (Décoloniser les relations, décoloniser l’esprit)"
+      ]
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Montreal & Kingston, McGill-Queen’s University Press"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r40",
+     "rol": "ref",
+     "lang": "en"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Nguyen"
+      ],
+      ", ",
+      [
+       "span",
+       {},
+       "V."
+      ]
+     ],
+     " (",
+     [
+      "span",
+      {},
+      "2015"
+     ],
+     "). ",
+     [
+      "span",
+      {},
+      "Mẹ-search, hauntings, and critical distance"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Life Writing"
+      ]
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      [
+       "i",
+       {},
+       "12"
+      ]
+     ],
+     "(",
+     [
+      "span",
+      {},
+      "4"
+     ],
+     "), ",
+     [
+      "span",
+      {},
+      "467"
+     ],
+     "-",
+     [
+      "span",
+      {},
+      "477"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r41",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Porra"
+      ],
+      ", ",
+      [
+       "span",
+       {},
+       "V."
+      ]
+     ],
+     " (",
+     [
+      "span",
+      {},
+      "2002"
+     ],
+     "). ",
+     [
+      "span",
+      {},
+      "Quand les « passeurs de langue » deviennent « passeurs de culture » : intégration des auteurs étrangers originaires d’espaces non francophone en France"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Dans R."
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "Dion"
+      ]
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "H.-J."
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "Lüsebrink"
+      ]
+     ],
+     " & ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "J."
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "Riesz"
+      ]
+     ],
+     " (dir.), ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Écrire en langue étrangère : Interférences de langues et de cultures dans le monde francophone"
+      ]
+     ],
+     " (p. ",
+     [
+      "span",
+      {},
+      "129"
+     ],
+     "-",
+     [
+      "span",
+      {},
+      "151"
+     ],
+     "). ",
+     [
+      "span",
+      {},
+      "Éditions Nota bene"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r42",
+     "rol": "ref",
+     "lang": "en"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Quijano"
+      ],
+      ", ",
+      [
+       "span",
+       {},
+       "A."
+      ]
+     ],
+     " (",
+     [
+      "span",
+      {},
+      "2000"
+     ],
+     "). ",
+     [
+      "span",
+      {},
+      "‘Coloniality of Power, Eurocentrism, and Latin America.’"
+     ],
+     " ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Nepantla"
+      ]
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      [
+       "i",
+       {},
+       "1"
+      ]
+     ],
+     "(",
+     [
+      "span",
+      {},
+      "3"
+     ],
+     "), p. ",
+     [
+      "span",
+      {},
+      "533"
+     ],
+     "-",
+     [
+      "span",
+      {},
+      "580"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r43",
+     "rol": "ref",
+     "lang": "en"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Rao"
+      ],
+      ", ",
+      [
+       "span",
+       {},
+       "S."
+      ]
+     ],
+     " (",
+     [
+      "span",
+      {},
+      "2022"
+     ],
+     "). ",
+     [
+      "span",
+      {},
+      "Exploring Foodways as Embodied Knowledge and Multisensory Storytelling: A First Generation Canadian Making an Andhra Pradesh Thali"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Cultural and Pedagogical Inquiry"
+      ]
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      [
+       "i",
+       {},
+       "13"
+      ]
+     ],
+     "(",
+     [
+      "span",
+      {},
+      "1"
+     ],
+     "), ",
+     [
+      "span",
+      {},
+      "60"
+     ],
+     "-",
+     [
+      "span",
+      {},
+      "76"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r44",
+     "rol": "ref",
+     "lang": "en"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Reddy"
+      ],
+      ", ",
+      [
+       "span",
+       {},
+       "C. S."
+      ]
+     ],
+     ", & ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Sundaravalli"
+      ],
+      ", ",
+      [
+       "span",
+       {},
+       "G. M."
+      ]
+     ],
+     " (",
+     [
+      "span",
+      {},
+      "2020"
+     ],
+     "). ",
+     [
+      "span",
+      {},
+      "Problems of Identity with the Usurp of Slaves’ Names"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Contemporary Literary Review India"
+      ]
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      [
+       "i",
+       {},
+       "7"
+      ]
+     ],
+     "(",
+     [
+      "span",
+      {},
+      "3"
+     ],
+     ")."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r45",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Romulus"
+      ],
+      ", ",
+      [
+       "span",
+       {},
+       "C."
+      ]
+     ],
+     " (",
+     [
+      "span",
+      {},
+      "2018"
+     ],
+     "). ",
+     [
+      "span",
+      {},
+      "Le potentiel d’une recherche féministe décoloniale pour déconstruire le récit de l’État fragile haïtien"
+     ],
+     ". In ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Déjouer le silence. Contre-discours sur les femmes haïtiennes"
+      ]
+     ],
+     " (p. ",
+     [
+      "span",
+      {},
+      "35"
+     ],
+     "-",
+     [
+      "span",
+      {},
+      "51"
+     ],
+     "). ",
+     [
+      "span",
+      {},
+      "Les éditions remue-ménage"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r46",
+     "rol": "ref",
+     "lang": "en"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Sousa Santos"
+      ],
+      ", ",
+      [
+       "span",
+       {},
+       "B. de"
+      ]
+     ],
+     " (",
+     [
+      "span",
+      {},
+      "2015"
+     ],
+     "). ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Epistemologies of the South: Justice against epistemicide"
+      ]
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Routledge"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r47",
+     "rol": "ref",
+     "lang": "en"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Stoler"
+      ],
+      ", ",
+      [
+       "span",
+       {},
+       "A. L."
+      ]
+     ],
+     " (",
+     [
+      "span",
+      {},
+      "1989"
+     ],
+     "). ",
+     [
+      "span",
+      {},
+      "Making empire respectable: the politics of race and sexual morality in 20th‐century colonial cultures"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "American ethnologist"
+      ]
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      [
+       "i",
+       {},
+       "16"
+      ]
+     ],
+     "(",
+     [
+      "span",
+      {},
+      "4"
+     ],
+     "), ",
+     [
+      "span",
+      {},
+      "634"
+     ],
+     "-",
+     [
+      "span",
+      {},
+      "660"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r48",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Thiongʼo"
+      ],
+      ", ",
+      [
+       "span",
+       {},
+       "N. W."
+      ]
+     ],
+     " (",
+     [
+      "span",
+      {},
+      "2011"
+     ],
+     "). ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Décoloniser l’esprit"
+      ]
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "La Fabrique Éditions"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r49",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Tran"
+      ],
+      ", ",
+      [
+       "span",
+       {},
+       "J. Q. N."
+      ]
+     ],
+     " (",
+     [
+      "span",
+      {},
+      "2025"
+     ],
+     "). ",
+     [
+      "span",
+      {},
+      "Fétichisme racial et corps asiatiques : héritage d’imaginaires coloniaux, socle de violences sexuelles"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Dans N."
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "Hamrouni"
+      ]
+     ],
+     " & ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "C."
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "Maillé"
+      ]
+     ],
+     " (dir.), ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Le sujet du féminisme est-il blanc? Luttes et savoirs actuels"
+      ]
+     ],
+     " (p. ",
+     [
+      "span",
+      {},
+      "231"
+     ],
+     "-",
+     [
+      "span",
+      {},
+      "240"
+     ],
+     "). ",
+     [
+      "span",
+      {},
+      "Les éditions du remue-ménage"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r50",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Traoré"
+      ],
+      ", ",
+      [
+       "span",
+       {},
+       "D."
+      ]
+     ],
+     " (",
+     [
+      "span",
+      {},
+      "2015"
+     ],
+     "). ",
+     [
+      "span",
+      {},
+      "Les théories postcoloniales et leurs enjeux pour une anthropologie racisée : quelques éléments de réflexivité"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Dans N."
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "Hamrouni"
+      ]
+     ],
+     " & ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "C."
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "Maillé"
+      ]
+     ],
+     " (dir.), ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Le sujet du féminisme est-il blanc? Femmes racisées et recherche féministe"
+      ]
+     ],
+     " (p. ",
+     [
+      "span",
+      {},
+      "25"
+     ],
+     "-",
+     [
+      "span",
+      {},
+      "39"
+     ],
+     "). ",
+     [
+      "span",
+      {},
+      "Les éditions du remue-ménage"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r51",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Traoré"
+      ],
+      ", ",
+      [
+       "span",
+       {},
+       "D."
+      ]
+     ],
+     " (",
+     [
+      "span",
+      {},
+      "2025"
+     ],
+     "). ",
+     [
+      "span",
+      {},
+      "Les chemins d’Ubuntu: spiritualité, communauté et résistances féministes afrocentrés"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Dans N."
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "Hamrouni"
+      ]
+     ],
+     " & ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "C."
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "Maillé"
+      ]
+     ],
+     " (dir.), ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Le sujet du féminisme est-il blanc? ome 2 Luttes et savoirs actuels"
+      ]
+     ],
+     " (p. ",
+     [
+      "span",
+      {},
+      "177"
+     ],
+     "-",
+     [
+      "span",
+      {},
+      "187"
+     ],
+     "). ",
+     [
+      "span",
+      {},
+      "Les éditions du remue-ménage"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r52",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Trekker"
+      ],
+      ", ",
+      [
+       "span",
+       {},
+       "A."
+      ]
+     ],
+     " (",
+     [
+      "span",
+      {},
+      "2008"
+     ],
+     "). ",
+     [
+      "span",
+      {},
+      "Écrire pour (re)tracer son histoire de vie"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Dans V."
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "de Gaulejac"
+      ]
+     ],
+     " (Éd.), ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Intervenir par le récit de vie"
+      ]
+     ],
+     " (p. ",
+     [
+      "span",
+      {},
+      "235‐"
+     ],
+     [
+      "span",
+      {},
+      "260"
+     ],
+     "). ",
+     [
+      "span",
+      {},
+      "Érès"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r53",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Trinh"
+      ],
+      ", ",
+      [
+       "span",
+       {},
+       "T. M."
+      ]
+     ],
+     " (",
+     [
+      "span",
+      {},
+      "2023[1989]"
+     ],
+     "). ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Femme, indigène, autre : Écrire le féminisme et la postcolonialité"
+      ]
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "B42"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r54",
+     "rol": "ref",
+     "lang": "en"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Tuhiwai Smith"
+      ],
+      ", ",
+      [
+       "span",
+       {},
+       "L."
+      ]
+     ],
+     " (",
+     [
+      "span",
+      {},
+      "2021"
+     ],
+     "). ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Decolonizing Methodologies: Research and Indigenous Peoples"
+      ]
+     ],
+     " (",
+     [
+      "span",
+      {},
+      "Third"
+     ],
+     " edition). ",
+     [
+      "span",
+      {},
+      "Zed Books"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r55",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Visvanathan"
+      ],
+      ", ",
+      [
+       "span",
+       {},
+       "S."
+      ]
+     ],
+     " (",
+     [
+      "span",
+      {},
+      "2016"
+     ],
+     "). ",
+     [
+      "span",
+      {},
+      "La quête de justice cognitive (traduction de ",
+      [
+       "i",
+       {},
+       "The Search for Cognitive Justice"
+      ],
+      ", 2009). Dans F. Piron, S. Régulus, & M. S. Dibounje Madiba (Dirs.)"
+     ],
+     ", ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Justice cognitive, libre accès et savoirs locaux. Pour une science ouverte juste, au service du développement local durable"
+      ]
+     ],
+     " (pp. [numéros de pages]). ",
+     [
+      "span",
+      {},
+      "Québec, Canada"
+     ],
+     " : ",
+     [
+      "span",
+      {},
+      "Éditions science et bien commun"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r56",
+     "rol": "ref",
+     "lang": "en"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Walia"
+      ],
+      ", ",
+      [
+       "span",
+       {},
+       "H."
+      ]
+     ],
+     " (",
+     [
+      "span",
+      {},
+      "2012"
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      "1"
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "janvier"
+     ],
+     "). ",
+     [
+      "span",
+      {},
+      "Decolonize Together. Moving Beyond a Politics of Solidarity Towards a Practice of Decolonization"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Briarpatch Magazine"
+      ]
+     ],
+     ". ",
+     [
+      "a",
+      {
+       "href": "https://briarpatchmagazine.com/articles/view/decolonizing-together"
+      },
+      "https://briarpatchmagazine.com/articles/view/decolonizing-together"
+     ]
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r57",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Walsh"
+      ],
+      ", ",
+      [
+       "span",
+       {},
+       "C. E."
+      ]
+     ],
+     ", & ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Mignolo"
+      ],
+      ", ",
+      [
+       "span",
+       {},
+       "W. D."
+      ]
+     ],
+     " (",
+     [
+      "span",
+      {},
+      "2018"
+     ],
+     "). ",
+     [
+      "span",
+      {},
+      "Introduction"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Dans W. D."
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "Mignolo"
+      ]
+     ],
+     " & ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "C. E."
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "Walsh"
+      ]
+     ],
+     " (dir.), ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "On decoloniality: concepts, analytics, praxis"
+      ]
+     ],
+     " (p. ",
+     [
+      "span",
+      {},
+      "1"
+     ],
+     "-",
+     [
+      "span",
+      {},
+      "12"
+     ],
+     "). ",
+     [
+      "span",
+      {},
+      "Duke University Press"
+     ],
+     "."
+    ]
+   ],
+   "\n"
+  ]
+ ]
+};

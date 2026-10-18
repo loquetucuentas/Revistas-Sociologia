@@ -1,0 +1,2015 @@
+{
+ "version": 1,
+ "recogido": "2026-10-18T11:33:53+00:00",
+ "doi": "10.32399/icsyh.bvbuap.2954-4300.2026.7.14.889",
+ "titulo": "Juvenicidio y necropolítica en México",
+ "revista": "2954-4300",
+ "numero": "2026",
+ "licencia": {
+  "codigo": "by-nc-sa",
+  "nombre": "CC BY-NC-SA 4.0",
+  "nombre_completo": "Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional",
+  "url": "https://creativecommons.org/licenses/by-nc-sa/4.0",
+  "url_legal": "https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.es"
+ },
+ "fuente": {
+  "url": "https://bajoelvolcanx.buap.mx/index.php/bajovolc/article/download/889/767?inline=1",
+  "formato": "HTML",
+  "plataforma": "ojs-galerada",
+  "pagina": "https://bajoelvolcanx.buap.mx/index.php/bajovolc/article/view/889"
+ },
+ "autores_cita": [
+  {
+   "apellidos": "Hernández Cruz",
+   "nombre_pila": "Diego Armando",
+   "nombre": null
+  },
+  {
+   "apellidos": "Núñez González",
+   "nombre_pila": "Marco Alejandro",
+   "nombre": null
+  }
+ ],
+ "avisos_derechos": [
+  "Derechos de autor 2026 Diego Hernández, Marco Nuñez",
+  "Licencia Derechos de autor 2026 Diego Hernández, Marco Nuñez Esta obra está bajo una licencia internacional Creative Commons Atribución-NoComercial-CompartirIgual 4.0. Las autoras y los autores conservan los derechos de autor sobre su obra y ceden a Bajo el Volcán. Revista del Posgrado de Sociología. BUAP únicamente el derecho de primera publicación. Revista de acceso abierto diamante: sin costo para autoras, autores ni personas lectoras."
+ ],
+ "idioma_principal": "es",
+ "indice": [
+  {
+   "id": "t-seccion-1",
+   "nivel": 2,
+   "texto": "Juvenicidio y necropolítica en México",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-2",
+   "nivel": 3,
+   "texto": "INTRODUCCIÓN",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-3",
+   "nivel": 3,
+   "texto": "JUVENICIDIO: UNA HERIDA ABIERTA",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-4",
+   "nivel": 3,
+   "texto": "MÉTODO",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-5",
+   "nivel": 3,
+   "texto": "RESULTADOS",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-6",
+   "nivel": 4,
+   "texto": "FIGURA 1 HOMICIDIOS EN MÉXICO POR SEXENIOS",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-7",
+   "nivel": 4,
+   "texto": "FIGURA 2 DESAPARECIDOS EN MÉXICO",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-8",
+   "nivel": 4,
+   "texto": "FIGURA 3 JUVENICIDIO POR SEXENIOS",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-9",
+   "nivel": 4,
+   "texto": "FIGURA 4 JUVENICIDIOS POR GRUPOS DE EDAD",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-10",
+   "nivel": 3,
+   "texto": "DISCUSIÓN",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-11",
+   "nivel": 3,
+   "texto": "REFERENCIAS",
+   "lang": null
+  }
+ ],
+ "vueltas": {},
+ "contenido": [
+  "\n",
+  [
+   "section",
+   {},
+   "\n",
+   [
+    "strong",
+    {},
+    [
+     "em",
+     {},
+     "Bajo el Volcán. Revista del Posgrado de Sociología. BUAP"
+    ]
+   ],
+   ", Año 7, Núm. 14, mayo – octubre de 2026, pp. 196-226.",
+   [
+    "br",
+    {}
+   ],
+   "e-ISSN 2954-4300 · ",
+   [
+    "a",
+    {
+     "href": "https://doi.org/10.32399/ICSYH.bvbuap.2954-4300.2026.7.14.889"
+    },
+    "https://doi.org/10.32399/ICSYH.bvbuap.2954-4300.2026.7.14.889"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Dossier temático"
+   ],
+   "\n",
+   [
+    "h2",
+    {
+     "id": "t-seccion-1"
+    },
+    "Juvenicidio y necropolítica en México"
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Juvenicide and necropolitics in Mexico"
+   ],
+   "\n",
+   "\n",
+   [
+    "p",
+    {},
+    [
+     "span",
+     {},
+     "Diego Armando Hernández Cruz"
+    ],
+    [
+     "br",
+     {}
+    ],
+    [
+     "span",
+     {},
+     "Universidad Nacional Rosario Castellanos, Ciudad de México, México"
+    ],
+    [
+     "br",
+     {}
+    ],
+    [
+     "span",
+     {},
+     "ORCID: ",
+     [
+      "a",
+      {
+       "href": "https://orcid.org/0000-0002-6697-4495"
+      },
+      "https://orcid.org/0000-0002-6697-4495"
+     ]
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    [
+     "span",
+     {},
+     "Marco Alejandro Núñez González"
+    ],
+    [
+     "br",
+     {}
+    ],
+    [
+     "span",
+     {},
+     "Universidad Autónoma de Sinaloa, Culiacán, México"
+    ],
+    [
+     "br",
+     {}
+    ],
+    [
+     "span",
+     {},
+     "ORCID: ",
+     [
+      "a",
+      {
+       "href": "https://orcid.org/0000-0001-8212-1778"
+      },
+      "https://orcid.org/0000-0001-8212-1778"
+     ]
+    ]
+   ],
+   "\n",
+   "\n",
+   [
+    "p",
+    {},
+    "di3gohdz@gmail.com"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "marconunez@uas.edu.mx"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Recibido: 19/11/2026 "
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Aceptado: 24/03/2026"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Resumen"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "los asesinados no consumen, no producen, se encuentran en el abismo económico del capital y por tanto sus vidas no importan y no merecen el luto nacional."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Este trabajo ofrece una mirada estadística e histórica sobre los homicidios y las desapariciones forzadas de jóvenes en México durante el periodo 2006-2024. A través del estudio documental y estadístico, se presentan y analizan tres sexenios y los escenarios necropolíticos y juvenicidas, proponiendo replantear las estrategias fallidas de seguridad, fortalecer la lucha por la justica y avanzar hacia la construcción de sociedades de paz y posnarcotráfico."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    [
+     "em",
+     {},
+     "Palabras clave"
+    ],
+    ": jóvenes; narcotráfico; violencia; desaparecidos; juvenicidio; necropolítica. (Tesauro de Ciencias sociales de la UNESCO)"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "ABSTRACT"
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "The murder of people in Mexico, perpretated by drug trafficking organization operating across the country and by national security forces, has generated a profound civilizational and social crisis, resulting in more than 500,000 deaths and 120,000 disappearances over the past nineteen years. Young people constitute a fundamental component in the vital reproduction of both capital and armed groups. In this sense, the murders of young people go hand in hand with material and living conditions; these contradictions are expressed not only in precarity but also in the legitimization of young death, because those murdered do not consume, do not produce, they are in the economic abyss of capital and therefore their lives do not matter and do not deserve national mourning. This work offers a statistical and historical overview of the murders and forced disappearances of young people in Mexico between 2006 and 2024. Through documentary and statistical analysis, it examines three presidential administrations and the corresponding necropolitical and juvenicidal contexts. The study proposes the need to rethink failed security strategies, strenghten the pursuit of justice, and advance toward the construction of peaceful, post-drug trafficking societies."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    [
+     "em",
+     {},
+     "Keywords"
+    ],
+    ": youth; drug trafficking; violence; missing persons; juvenicide; necropolitics; (UNESCO Social Sciences Thesaurus)"
+   ],
+   "\n",
+   [
+    "h3",
+    {
+     "id": "t-seccion-2"
+    },
+    "INTRODUCCIÓN"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "La historia de México con respecto al narcotráfico inicia hace más de cien años. Los primeros registros documentados refieren el cultivo de amapola para la extracción de goma de opio y también de marihuana. La evolución de las formas organizativas para la producción pasó de redes familiares a clanes regionales y familiares, hasta llegar a la actualidad, donde existen múltiples conjuntos de organizaciones que colaboran entre sí y que se han denominado cárteles. No hay que olvidar que México comparte una extensa frontera con Estados Unidos de América, uno de los principales países en materia económica y de consumo de drogas."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "El mercado de drogas ha sido enfrentado por el gobierno mexicano mediante políticas prohibicionistas y punitivas. Desde la prohibición hasta las estrategias de corte bélico, se ha buscado confrontar directamente a los grupos armados del narcotráfico a través de enfrentamientos con armas de fuego y demás equipo sofisticado. En este contexto, durante el periodo de gobierno de Felipe Calderón Hinojosa (2006-2012), se emprendió como estrategia central de seguridad lo que se denominó “guerra contra el narcotráfico”, incrementándose exponencialmente desde ese momento el número de homicidios relacionados con esta actividad declarada ilegal. Con el paso del tiempo. se han observado indicadores alarmantes en torno a la inseguridad y la violencia en el país, derivados de una histórica industria ilegal del tráfico de drogas."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "La crisis del sistema capitalista y sus contradicciones en México pueden comprenderse a partir del problema de inseguridad y violencia que vive el país en las últimas dos décadas. El número de homicidios ha superado el medio millón, y existen más de 120 mil personas desaparecidas, lo que evidencia una grave crisis social, humanitaria y civilizatoria. En este entorno, los jóvenes constituyen, en su gran mayoría, quienes incrementan estas cifras; incluso, son ellos quienes engrosan las células y estructuras del narcotráfico, atraídos por mejores condiciones de vida, dinero y poder, en una sociedad altamente excluyente hacia este sector de la población (Hernández, 2019)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Aunado a ello, conviene reflexionar que la reproducción del capital busca a toda costa incrementar sus ganancias y ha encontrado en el narcotráfico una ruta de salida fundamental, no solo en la producción y distribución de drogas, sino en toda su estructura de redes económicas que abarcan desde la trata de personas, la extorsión, la venta de órganos, la venta de armas y el lavado de dinero. La lucha contra el narcotráfico también se ha convertido en un negocio estratégico para contrarrestar la caída de la tasa de ganancia. Impulsada desde los gobiernos de la Casa Blanca, esta dinámica ha promovido la comercialización de aviones, armas, helicópteros, drones y todo lo relacionado con la industria de la guerra. El capitalismo industrial ha mutado: ahora se caracteriza por estos elementos de guerra y muerte. La etapa del ",
+    [
+     "em",
+     {},
+     "necrocapitalismo"
+    ],
+    " susurra a las espaldas de quienes, con jóvenes sueños, han visto su futuro truncado en una batalla, en una emboscada, en una redada y, por consecuencia, en un arresto. El ",
+    [
+     "em",
+     {},
+     "necrocapitalismo"
+    ],
+    " no solo desaparece, explota y asesina jóvenes; también provoca olvido, repugnancia, acoso, justificación de la muerte y señalamientos hacia ellos y sus familiares."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "La violencia está atravesada, como menciona Galano (2019), por procesos sociales, culturales y políticos complejos de la vida precaria y de la eliminación de la vida en la proximidad de barrios y espacios sociales focalizados, en los cuales coexisten entramados disruptivos que se entrelazan a diario con la muerte. Por lo tanto, es importante analizar: ¿quiénes son estos jóvenes acribillados o desaparecidos?, ¿bajo qué contextos y relaciones desarrollan su condición juvenil?, ¿cómo debemos acercarnos a los fenómenos juvenicidas en contextos específicos?"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "En este contexto, nos planteamos como objetivo central avanzar en la comprensión de los homicidios de jóvenes en el país, a partir de su relación con las condiciones del ",
+    [
+     "em",
+     {},
+     "necrocapitalismo,"
+    ],
+    " las políticas del Estado mexicano en torno al narcotráfico y la situación de precariedad en la que viven los jóvenes. Para lograrlo, el trabajo se organiza en cuatro secciones principales. En la primera se presenta el contexto histórico y conceptual que articula los enfoques de ",
+    [
+     "em",
+     {},
+     "necropolítica"
+    ],
+    " y ",
+    [
+     "em",
+     {},
+     "juvenicidio"
+    ],
+    " como marcos interpretativos de la violencia en México. La segunda sección describe la estrategia metodológica mixta, precisando las fuentes estadísticas, los criterios de selección de casos y los procedimientos de análisis cuantitativo y cualitativo. La tercera expone los resultados comparativos por sexenio y los hallazgos interpretativos derivados del estudio de casos. Finalmente, la discusión sintetiza los principales aportes del artículo, identifica sus limitaciones y plantea líneas futuras de investigación orientadas a la construcción de políticas públicas de seguridad y justicia con enfoque juvenil y de derechos humanos."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Se concluye que es necesario replantear la estrategia de militarización y el apoyo a las Fuerzas Armadas, caracterizados por el incremento presupuestal y la impunidad de la que gozan los cuerpos castrenses. Además, se propone la reconstrucción del tejido social, la lucha por la verdad y la justicia, y la reparación del daño, con el fin de comenzar a construir sociedades pacíficas y ",
+    [
+     "em",
+     {},
+     "posnarcotráfico,"
+    ],
+    " que incluyan mejores condiciones de vida para la población, justicia y esclarecimiento para quienes buscan a sus desaparecidos, y sobre todo, un alto a las agresiones contra los jóvenes, sea cual fuere su condición social, modificando las rígidas estructuras que promueven la violencia, la explotación y la impunidad."
+   ],
+   "\n",
+   [
+    "h3",
+    {
+     "id": "t-seccion-3"
+    },
+    "JUVENICIDIO: UNA HERIDA ABIERTA"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Los juvenicidios se han analizado en la literatura latinoamericana desde diferentes ángulos, pero este fenómeno tiene su antecedente en el asesinato de mujeres. El origen de la categoría ",
+    [
+     "em",
+     {},
+     "juvenicidio"
+    ],
+    " se encuentra precisamente en el estudio de los asesinatos de mujeres. Ya en la década de los setenta, Russell (1976) denominó ",
+    [
+     "em",
+     {},
+     "femicidio"
+    ],
+    " a este fenómeno, al igual que Radford (1992), planteando que el asesinato de mujeres constituye la forma extrema de violencia patriarcal en su contra. Por su parte, Segato (2003) aborda este fenómeno desde una visión antropológica y decolonial, mientras que Lagarde (2005) resignifica el concepto como ",
+    [
+     "em",
+     {},
+     "feminicidio"
+    ],
+    ", desde una perspectiva latinoamericana y en contextos específicos. En consecuencia, Valenzuela (2012), retoma el feminicidio e incluye la muerte de jóvenes, colocando el tema del juvenicidio en la mesa de análisis. Estos sujetos juveniles, precarizados, son el resultado de sus condiciones materiales y de vida en un contexto altamente violento, como lo es la guerra contra el narcotráfico. Berlanga (2015), por su parte, relaciona el feminicidio con el juvenicidio, destacando su coexistencia con las dimensiones de clase, género y raza."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Valenzuela (2015) construye y profundiza la categoría de ",
+    [
+     "em",
+     {},
+     "juvenicidio"
+    ],
+    ", tomando como referencia los acontecimientos de Ayotzinapa y las condiciones de vida y materiales de los jóvenes, reconstruyendo y analizando el tipo de juventud que es asesinada en América Latina. Núñez (2016) coincide en que se trata de jóvenes precarizados y empobrecidos, que no merecen el luto nacional; por el contrario, son objeto de la criminalización ejercida por las élites para justificar tales actos de violencia. Algo que Urteaga y Moreno (2020) conceptualizan como ",
+    [
+     "em",
+     {},
+     "desciudadanización"
+    ],
+    ", entendida como un proceso de criminalización y pérdida de derechos."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Por otro lado, existen estudios cuantitativos sobre el uso de armas de fuego contra este sector de la población. Se pueden mencionar trabajos como el de Otamendi (2019), quien destaca a Brasil, Venezuela y México como los principales países en este rubro. Asimismo, el aporte de Chacón (2020) sobre el ",
+    [
+     "em",
+     {},
+     "juvenicidio encarnado"
+    ],
+    " analiza a los jóvenes lesionados por arma de fuego que, antes, durante y después de los hechos, han sido invisibilizados por el Estado, convirtiéndose en meras cifras de la violencia, sobre todo en el caso de México."
+   ],
+   "\n",
+   [
+    "h3",
+    {
+     "id": "t-seccion-4"
+    },
+    "MÉTODO"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    [
+     "strong",
+     {},
+     "Diseño"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Este estudio se inscribe en un enfoque mixto de tipo interpretativo, sustentado en la tradición de la indagación social constructivista. Se optó por un diseño secuencial explicativo mixto, en el cual el componente cuantitativo —centrado en el análisis de las tendencias de homicidios y desapariciones de jóvenes entre 2006 y 2024— sirvió como base para seleccionar y contextualizar casos cualitativos que ilustran la dimensión necropolítica y juvenicida de la violencia."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "En una primera etapa, la investigación fue cuantitativa, lo que permitió identificar generalidades, especialmente los procesos sociohistóricos a lo largo del tiempo en cada uno de los sexenios. Los datos posibilitaron establecer líneas de análisis y las tendencias desarrollas durante el periodo de estudio. Posteriormente, se retomó la perspectiva cualitativa, detallando de manera descriptiva las particularidades de los jóvenes asesinados, sus condiciones y circunstancias. El análisis de contenido permitió profundizar en el fenómeno de estudio y comprender su contexto."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    [
+     "strong",
+     {},
+     "Selección de fuentes y recolección de datos"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "La recolección consistió en la compilación de datos estadísticos correspondientes a los tres últimos sexenios (2006-2024), considerando las variables de homicidios dolosos y desapariciones forzadas, y estableciendo cortes de edad para determinar el número de jóvenes asesinados y desaparecidos en México. Asimismo, se recabaron —a partir de una revisión documental—historias descriptivas de carácter juvenicida y algunos casos documentados en informes de derechos humanos o publicados en medios de comunicación tanto nacionales como internacionales. De igual forma, se organizaron los datos sobre personas jóvenes desaparecidas: algunas de ellas relacionadas con la violencia sistémica que se desarrolla en México y los grupos del crimen organizado; otras, vinculadas a instancias de seguridad como las policías locales, la Guardia Nacional, y especialmente, el Ejército Mexicano."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Las estadísticas de homicidios dolosos fueron obtenidas del Instituto Nacional de Estadística y Geografía (INEGI) para el periodo 2006-2022, dado que constituyen las cifras oficiales disponibles sobre estos delitos. No obstante, se corroboró la información en la página de ",
+    [
+     "em",
+     {},
+     "Tresearch"
+    ],
+    ", donde se lleva un conteo diario de los homicidios. Esta fuente se eligió porque permitió complementar los datos correspondientes a 2024, que aún no estaban disponibles en el INEGI al momento de elaborar la investigación. En cuanto a las desapariciones forzadas, los datos se obtuvieron de la Secretaria de Gobernación, específicamente de la Comisión Nacional de Búsqueda."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Por otro lado, la información cualitativa relativa a los casos y testimonios fue recuperada de notas periodísticas, informes de derechos humanos y reportajes de investigación. La selección de notas se basó en dos criterios principales: el número de personas asesinadas en un mismo evento y la brutalidad del hecho, especialmente en barrios pobres de México. En una segunda etapa, se consideraron los homicidios de jóvenes perpetrados por cuerpos militares y por la Guardia Nacional, con el propósito de abrir una línea de investigación que enfatiza la escasa preparación de los cuerpos castrenses para atender situaciones relacionadas con la seguridad pública."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Para el análisis, se recurrió a nociones del proceso interpretativo y hermenéutico, a fin de comprender la serie de relaciones entre los datos cuantitativos y cualitativos recopilados. Estos elementos se integraron para fortalecer la comprensión de la realidad social en un contexto sociohistórico específico. Desde esta perspectiva, el enfoque epistémico se fundamenta en la construcción de realidades sociales, las cuales se transforman según las circunstancias y condiciones que configuran el entramado del fenómeno de estudio."
+   ],
+   "\n",
+   [
+    "h3",
+    {
+     "id": "t-seccion-5"
+    },
+    "RESULTADOS"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    [
+     "strong",
+     {},
+     "México y la guerra perdida contra el narcotráfico "
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Como parte del proceso de legitimación del gobierno de Felipe Calderón (2006-2012) y de la estrategia belicista impulsada por la Casa Blanca en México, en diciembre de 2006 se inició la llamada ",
+    [
+     "em",
+     {},
+     "guerra contra el narcotráfico"
+    ],
+    ", con un amplio despliegue militar, siendo el estado de Michoacán el primer laboratorio de dicha operación. A nivel nacional, el Ejército posicionó cerca de 48 mil 500 efectivos, quienes realizaron funciones policiales, establecieron retenes y ejecutaron operativos. Entre los objetivos de los militares y la Policía Federal se encontraba “desarticular” las células del crimen organizado, cortar los centros de producción y distribución de drogas hacia los Estados Unidos y pacificar los territorios."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Sin embargo, esto sólo provocó un aumento de la violencia y la multiplicación de nuevas organizaciones criminales, con el llamado ",
+    [
+     "em",
+     {},
+     "efecto cucaracha"
+    ],
+    ", que consiste en la dispersión y reproducción de grupos delictivos. Dichos grupos incrementaron su equipamiento, financiamiento, armamento y organización para hacer frente no solo a las fuerzas armadas, sino también a otros grupos antagónicos surgidos de su fragmentación. Así, los grupos del narcotráfico pasaron de 6 a más de 175 organizaciones, carteles, células y agrupaciones por todo el país (Flores, 2018; Pardo e Iñigo, 2021; El Universal, 2023)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Al igual que las campañas militares en Sudamérica, como el Plan Colombia (1999), México subscribió acuerdos de seguridad con los Estados Unidos. El denominado Plan Mérida fue firmado el 3 de diciembre de 2008, mediante el cual ambas partes se comprometieron a incrementar la cooperación en materia de seguridad. Esto implicó impulsar el combate al tráfico de enervantes y al flujo de armas a lo largo de la frontera, fortalecer la persecución interna de los cárteles en México como en los Estados Unidos, y profundizar la cooperación bilateral y regional para combatir la delincuencia trasnacional. La Iniciativa Mérida entregó más de 1,600 millones de dólares al gobierno mexicano, además de equipos de inspección, ",
+    [
+     "em",
+     {},
+     "software"
+    ],
+    ", escáneres, armas de fuego, helicópteros, aviones y adiestramiento a las fuerzas de seguridad en México (Senado, 2010)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Desde el inicio de la guerra contra el narcotráfico en 2006 y hasta el final del gobierno de Andrés Manuel López Obrador (2024), la violencia y los asesinatos han aumentado año con año y sexenio tras sexenio, con un promedio de 97 homicidios diarios. La guerra contra el narcotráfico ha cobrado la vida de cerca de medio millón de personas en 19 años de conflicto. Para efectos de este estudio, se consideran los últimos tres gobiernos: durante el de Calderón (2006-2012) fueron asesinadas 121 mil 613 personas; bajo Peña Nieto (2012-2018) se registraron 156 mil 212 ejecuciones; y durante la administración de López Obrador (2018-2024) se documentaron 199 mil 977 muertes, sumando un total de 477 mil 801 personas asesinadas (Crawford, 2021; Arista, 2022; Delgado, 2022; Tresearch, 2024)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Cada uno de los tres gobiernos analizados presenta características similares en cuanto al apoyo a las fuerzas militares y su relación con grupos específicos del narcotráfico. En el caso del gobierno de Calderón, diversos medios e investigaciones vincularon a este grupo político con el Cártel de Sinaloa, al que se le habría otorgado protección, rutas y respaldo desde las fuerzas armadas y la Policía Federal. Durante el sexenio de Peña Nieto, se fortalecieron grupos como el Cártel Jalisco Nueva Generación (CJNG), que se expandió por todo el país desplazando al Cártel de Sinaloa. Por su parte, López Obrador fortaleció al Ejército y a la Guardia Nacional, desplegando más efectivos y asignando un mayor presupuesto a las fuerzas armadas año con año. Cabe destacar que fue en este sexenio cuando se registró el mayor número de homicidios y desapariciones forzadas."
+   ],
+   "\n",
+   [
+    "h4",
+    {
+     "id": "t-seccion-6"
+    },
+    "FIGURA 1 HOMICIDIOS EN MÉXICO POR SEXENIOS"
+   ],
+   "\n",
+   [
+    "figure",
+    {},
+    [
+     "figura",
+     {
+      "alt": "Figura 1"
+     }
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Calderón (2006-2012) Peña Nieto (2012-2018) AMLO (2018-2024)"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Fuente: elaboración propia."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    [
+     "strong",
+     {},
+     "La muerte como política pública"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Bajo este contexto de violencia, se recurre al término ",
+    [
+     "em",
+     {},
+     "necropolítica"
+    ],
+    ", acuñado por Mbembe (2006), en el cual se expresa la decisión de dar vida o muerte a ciudadanos que han sido desciudadanizados es decir, privados del derecho a vivir. Se trata de muertes “justificables”, que deben seguir siendo combatidas desde las instituciones de seguridad. La ",
+    [
+     "em",
+     {},
+     "necropolítica"
+    ],
+    ", por tanto, representa el poder de dar muerte o dejar vivir; es el ejercicio de quien domina la vida del otro. En México, desde el inicio de la guerra —y aún antes de ella — el Ejército ha servido como instrumento para dar muerte. En el contexto de la guerra contra el narcotráfico, fue pieza fundamental para sostener la narrativa del enemigo interno y justificar la fuerza y la letalidad de las armas."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "La multiplicación de la violencia ha consolidado un ejercicio sistemático de toma de vidas ajenas, de desaparición y de borramiento del otro de la vida pública y cotidiana. La desaparición forzada en México se ha convertido en un punto de partida para comprender el poder ejercido sobre el cuerpo y la vida del otro: las múltiples formas de matar, desaparecer, exterminar y borrar la existencia, incluso mediante el uso de ácido para disolver los huesos, fragmentos dentales y toda partícula corporal."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Desaparecer personas implica no solo la ausencia del otro, sino también el ejercicio de poder sobre su vida, su cuerpo y su memoria. Los desaparecidos han aumentado año con año y sexenio tras sexenio. Datos oficiales en México indican que, durante el gobierno de Calderón (2006-2012), desaparecieron 15 mil 950 personas; bajo la administración de Peña Nieto (2012-2018) fueron 31 mil 867; y durante el mandato de López Obrador (2018-2024) desaparecieron 54 mil 220 personas. En total, hasta el momento, se registran más de 102 mil 037 personas desaparecidas, sin incluir los casos de la ",
+    [
+     "em",
+     {},
+     "guerra sucia"
+    ],
+    " de las décadas de 1970 y 1980, durante el cual el gobierno mexicano, en conjunto con el Ejército, desapareció a 905 personas por motivos políticos. Aquellos desaparecidos eran opositores, luchadores sociales, guerrilleros y activistas de la época (Pérez-Laurrabaquio, 2023; Tresearch, 2024; RNPDNO, 2025)."
+   ],
+   "\n",
+   [
+    "h4",
+    {
+     "id": "t-seccion-7"
+    },
+    "FIGURA 2 DESAPARECIDOS EN MÉXICO"
+   ],
+   "\n",
+   [
+    "figure",
+    {},
+    [
+     "figura",
+     {
+      "alt": "Figura 2"
+     }
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Fuente: elaboración propia. ",
+    [
+     "strong",
+     {},
+     "La condición juvenil en medio de la guerra contra el narcotráfico "
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "En México, la población juvenil alcanza los 39 millones de personas, y una parte significativa de ella vive en condiciones de pobreza. Según estimaciones de Naciones Unidas, uno de cada dos niños y jóvenes en México se encuentra en situación de pobreza; en términos precisos, el 52.6% vive bajo esta condición, es decir, alrededor de 19.5 millones de personas (UNICEF, 2020). Cabe resaltar que los estados con mayor índice de pobreza son los del centro-sur del país: Chiapas (77.5%), Guerrero (68.6%), Puebla (64.6%) y Oaxaca (62.1%) (IMJUVE, 2021)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "En lo que respecta a las actividades del sector primario —como la agricultura, la pesca, la ganadería y la silvicultura —, el ingreso promedio de los jóvenes se reduce a $2,967 pesos mexicanos al mes, equivalentes a 174 USD mensuales (IMJUVE, 2021). En términos generales, y de acuerdo con el informe del Instituto Mexicano de la Juventud, gran parte de los jóvenes en México no perciben ingresos suficientes para acceder a la canasta básica: específicamente, el 53.9% de ellos. La tasa de desocupación es del 6.2%, y uno de cada dos jóvenes que trabajan lo hacen en la informalidad, lo que provoca que el 32.1% no cuentan con servicios de salud y que seis de cada diez carezcan de seguridad social."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Para Valenzuela (2022), la precarización no solo alude a la ausencia, escasez, la inestabilidad o insuficiencia, sino también a la pobreza económica, la precarización social, urbana y laboral, el desplazamiento, las migraciones forzadas, la desciudadanización, la desubjetivación y la ausencia de estructuras eficientes de justicia. Estas condiciones recaen sobre un tipo específico de joven o persona: aquellos que Goffman (1998) denomina ",
+    [
+     "em",
+     {},
+     "identidades desacreditas"
+    ],
+    " o que Butler (2009) conceptualiza como ",
+    [
+     "em",
+     {},
+     "vidas precarias"
+    ],
+    ", es decir, vidas que no importan."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "De acuerdo con Butler (2009) los jóvenes asediados por la violencia comparten características de precariedad; se encuentran deshumanizados y desciudadanizados. En ese mismo sentido, Young (2003) se refiere a la construcción de la ",
+    [
+     "em",
+     {},
+     "otredad"
+    ],
+    " a partir de subjetividades desacreditadas, sobre las cuales se depositan la ansiedad, las frustraciones y los miedos sociales. Para Kessler y Dimarco (2013), las formas de violencia y hostigamiento por parte de las fuerzas policiales hacia los sujetos jóvenes precarizados son toleradas e incluso aprobadas por buena parte de la población, generando una normalización de la violencia. Esta reprobación del ",
+    [
+     "em",
+     {},
+     "otro"
+    ],
+    " y la consecuente aprobación de los márgenes violentos se inscriben en relaciones complejas de poder e ideología, pues se instala la necesidad de acabar con “el mal” y con todo aquello que lo simboliza: en este caso, tanto el narcotráfico como quienes en él participan, ignorando contextos, trayectorias o circunstancias."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Con la profundización de la crisis neoliberal en México, la condición juvenil se ha visto gravemente afectada. Cada vez más jóvenes que no estudian ni trabajan han encontrado refugio en el consumo de drogas, la integración a pandillas, la deserción escolar o la venta de estupefacientes. Según estimaciones de la Red por los Derechos de la Infancia en México, existen cerca de 35 mil niños, niñas y adolescentes involucrados con grupos delictivos (Reinserta, 2020)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Este tipo de joven representa características específicas: color de piel, origen étnico, condición económica, nivel de escolaridad y zona de residencia. Es en este sentido que se ejecutan acciones de odio, rechazo y exclusión, fenómenos que Valenzuela (2022) denomina ",
+    [
+     "em",
+     {},
+     "expresiones intermedias"
+    ],
+    ", evidentes en el racismo, la aporofobia, la homofobia, la transfobia, la exclusión sexual y la desigualdad de género, entre otras."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Esas expresiones intermedias constituyen la antesala justificativa del homicidio de personas jóvenes. Según Valenzuela (2015), el ",
+    [
+     "em",
+     {},
+     "juvenicidio"
+    ],
+    " no solo se refiere al incremento de los asesinatos cometidos contra jóvenes, sino también a sus condiciones reales de precariedad en los ámbitos económico, laboral, educativo, sanitario, recreativo y habitacional. Como menciona Nateras (2015, p. 111):"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Hay una declarada criminalización y persecución selectiva"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "hacia estos agrupamientos identitarios, de tal suerte que"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "han pasado de ser los supuestos únicos sujetos de violen-"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "cias a ser los que más las padecen como objetos de violen-"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "cias: ejecuciones extrajudiciales y exterminio en su contra."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "En ese sentido, Nateras (2015) argumenta que la violencia contra los jóvenes posee una carga tanto objetiva como simbólica, en la cual se busca borrar el imaginario del otro mediante mensajes de crueldad que crean escenarios de muerte, o lo que Valenzuela (2022) denomina ",
+    [
+     "em",
+     {},
+     "necrozonas"
+    ],
+    ". Se puede afirmar, entonces, que el ",
+    [
+     "em",
+     {},
+     "juvenicidio"
+    ],
+    " constituye la condición límite de diversos procesos de vida, caracterizados por la “precarización económica, social, cultural, simbólica, e identidades estigmatizadas que producen vidas vulnerables, vidas proscritas” (Valenzuela, 2022, p. 31)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Algunos datos indican que, en México, la tasa bruta de defunción por homicidio de jóvenes es de 34 por cada 100 mil habitantes, siendo los estados de Colima (96), Baja California (77), Chihuahua (75) y Guerrero (73) las entidades con mayores cifras (IMJUVE, 2021)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    [
+     "strong",
+     {},
+     "El juvenicidio en México "
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "El ",
+    [
+     "em",
+     {},
+     "juvenicidio"
+    ],
+    ", como afirma Valenzuela (2022), tiene su antecedente en el asesinato de mujeres en México y en América Latina —el feminicidio—, entendido como el poder de dar muerte por la condición de ser mujer. En este fenómeno intervienen factores como la condición de vida, el género, la raza, y de manera estructural, la cultura de violencia sobre la cual se ha erigido el poder de dominación sobre el otro, o en este caso, sobre la otra."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "En el caso del ",
+    [
+     "em",
+     {},
+     "juvenicidio"
+    ],
+    ", se analiza no solo la violencia o el asesinato de jóvenes, sino que también las condiciones materiales, simbólicas y espirituales en las que nacen, crecen y se desarrollan. Estos contextos se caracterizan por la pobreza de sus calles, barrios y comunidades, la ausencia de servicios básicos, y la presencia cotidiana de la violencia, los robos y los asaltos. En tales entornos, el consumo de drogas y alcohol forma parte de la vida diaria, pero también se recrean esquemas valorativos de resistencia y desconfianza hacia las instituciones de seguridad gubernamental —ya sea la policía, el ejército o el propio gobierno—, que en muchos casos ejecutan cateos, detenciones arbitrarias, ejecuciones o desapariciones contra este sector de la población (Hernández, 2019)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Los resultados estadísticos indican que los homicidios de personas jóvenes de 15 a 29 años, durante el periodo 2006- 2023 ascienden a 168 mil 188 víctimas. Este contexto refleja que la guerra ha provocado violencias extremas: decapitaciones, cuerpos colgados, desollamientos y disoluciones en ácido. En medio de este escenario, el ",
+    [
+     "em",
+     {},
+     "juvenicidio"
+    ],
+    ", desde una perspectiva estadística, muestra una tendencia ascendente. Durante el sexenio de Felipe Calderón (2006-2012), se registraron 49 mil 746 muertes de jóvenes menores de 30 años; en el de Enrique Peña Nieto (2012-2018), las cifras aumentaron a 56 mil 718; y en el de Andrés Manuel López Obrador (2018-2024), se documentaron a 61 mil 724 asesinatos. El grupo de edad con mayor número de víctimas corresponde al de 24 a 29 años, con 69 mil 629 homicidios en el periodo analizado."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Muchos de estos asesinatos de jóvenes están relacionados con drogas, pandillas, conflictos barriales y narcotráfico. En la mayoría de los casos, las condiciones sociales y económicas de los jóvenes implican una relación directa con el consumo de sustancias, derivada de la falta de oportunidades laborales y de ingresos dignos. Ante esta realidad, muchos jóvenes optan por el consumo de alcohol o drogas, espacios donde la socialidad del barrio funciona como un medio de pertenencia e identificación. Así surgen grupos que socializan en torno al consumo de marihuana, cocaína, cristal, fentanilo y alcohol. Se puede afirmar que el consumo de drogas también genera un elemento identitario entre los jóvenes, quienes, poco a poco, se sumergen en realidades complejas y se vinculan con pandillas o grupos del crimen organizado."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "En este sentido, es necesario analizar el narcotráfico como una empresa capitalista, que se nutre de mano de obra juvenil, su principal recurso humano. Debe señalarse que las formas de reclutamiento son diversas: algunas se realizan mediante volantes o anuncios en redes sociales dirigidos a jóvenes de barrios marginados; otras, a través de amigos o familiares; y en casos más extremos, mediante el reclutamiento forzado."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Las actividades que desempeñan los jóvenes dentro de los grupos delictivos son variadas: halcones (vigilantes de calles y movimientos), repartidores de droga, extorsionadores, sicarios (asesinos a sueldo), mulas (transportistas de droga, sobre todo hacia Estados Unidos) o secuestradores. También existen quienes se encargan del lavado del dinero proveniente del narcotráfico, fungiendo como administradores o responsables de negocios, casinos, bares o cantinas."
+   ],
+   "\n",
+   [
+    "h4",
+    {
+     "id": "t-seccion-8"
+    },
+    "FIGURA 3 JUVENICIDIO POR SEXENIOS"
+   ],
+   "\n",
+   [
+    "figure",
+    {},
+    [
+     "figura",
+     {
+      "alt": "Figura 3"
+     }
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Fuente: elaboración propia."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Son diversas las razones por las cuales los jóvenes ingresan a los grupos delictivos. Las relaciones de amistad o familiares son una de las causas más constantes; otras se derivan de secuestros, algunos de los cuales ocurren en agencias de colocación o de empleo, donde los jóvenes son obligados a permanecer en centros clandestinos de adiestramiento. En estos lugares se les instruye en el uso de armas, las responsabilidades y jerarquías dentro de las células delictivas, así como en el tráfico y la distribución drogas. Para aquellos jóvenes que intentan abandonar los grupos delictivos, el desenlace suele ser la muerte propia o la de sus familiares, ya que dicho acto es considerado una traición dentro de los códigos de la mafia (Hernández, 2019)."
+   ],
+   "\n",
+   [
+    "h4",
+    {
+     "id": "t-seccion-9"
+    },
+    "FIGURA 4 JUVENICIDIOS POR GRUPOS DE EDAD"
+   ],
+   "\n",
+   [
+    "figure",
+    {},
+    [
+     "figura",
+     {
+      "alt": "Figura 4"
+     }
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Fuente: elaboración propia."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    [
+     "strong",
+     {},
+     "Historias juvenicidas que dejan de ser números"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Existen diversos acontecimientos juvenicidas que han sido noticia a nivel nacional e internacional por su magnitud y violencia. En este apartado se han seleccionado solo algunos casos dentro del amplio espectro de notas y muertes arteras de jóvenes en México. Se trata de las formas de matar en su magnitud y trascendencia, pero también de la cotidianidad de la muerte, el asesinato, el levantón y la desaparición. Son tipos de muerte cada vez más sofisticadas, más cruentos, y al mismo tiempo, más cotidianas, cuyo objetivo parece ser eliminar los vestigios de dignidad del ser humano: descuartizar el cuerpo, mutilar la memoria, destruir la dignidad y extinguir la aspiración de esperanza de mantenerse con vida. Algunos homicidios de jóvenes son trasmitidos en vivo a través de plataformas digitales, o bien difundidos y esparcidos como pólvora por redes sociales, medios masivos de comunicación y páginas especializadas en narcoviolencia, mediante teléfonos móviles."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "La cotidianidad de la violencia en la sociedad capitalista conlleva una ",
+    [
+     "em",
+     {},
+     "necrografía"
+    ],
+    ", entendida como la descripción visual de la muerte: la identificación corpórea y mutilada de cuerpos en contextos específicos. Es la relación del cuerpo muerto con la actividad del narcotráfico y su violencia continua, que se vuelve parte de la cultura general, representada a partir de lo visual, lo bizarro, lo sangriento y lo impactante; un lenguaje que no es lenguaje cotidiano, sino aquel que las mafias van dictando a una sociedad expectante y atemorizada."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "La ",
+    [
+     "em",
+     {},
+     "necrografía"
+    ],
+    " constituye una descripción detallada de la muerte, en la que la audiencia, a pesar de reconocer la tragedia que presencia, no puede dejar de observar las ejecuciones difundidas por redes sociales o en sus teléfonos celulares. Las vidas de los jóvenes no son cifras, como pareciera mostrarse; detrás de cada número existen historias, contextos y relaciones en los que muchos han perdido la vida, y en la mayoría de los casos no se ha encontrado justicia. Existen muertes de jóvenes que merecen el luto nacional, el duelo social y el llanto colectivo, pero también hay muertes que parecen no importar, que dividen opiniones y que no merecen, según la narrativa, ni duelo ni memoria. ",
+    [
+     "strong",
+     {},
+     "Muertes e historias juveniles"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "La muerte en México se ha convertido en un hecho cotidiano: 97 homicidios diarios posicionan al país como uno de los más violentos del mundo. En este apartado se exponen tragedias y muertes de jóvenes, algunas perpetradas por organizaciones del narcotráfico y otras por los propios militares y cuerpos de seguridad."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Una de las tragedias más recordadas es la masacre ocurrida en las inmediaciones de La Marquesa en 2008, donde 24 jóvenes, atados de pies y manos, fueron rematados con tiro de gracia (El País, 2008). Otro caso estremecedor ocurrió el 27 de octubre de 2010, en el estado de Nayarit, donde, según autoridades y medios nacionales e internacionales como la BBC de Londres, “quince jóvenes fueron asesinados en un lavado de autos en el oeste de México” (BBC, 2010). De acuerdo con el informe, dos camionetas se estacionaron frente al establecimiento y los atacantes descargaron sus armas contra los jóvenes trabajadores y algunos clientes presentes. Según la nota, varios de los jóvenes pertenecían a centros de rehabilitación contra las adicciones."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Otro episodio fue el ocurrido en Ciudad Juárez, donde 13 jóvenes que se encontraban en un espacio festivo fueron acribillados por un grupo armado; las víctimas eran estudiantes de bachillerato (La Prensa, 2010). De igual forma, se registró la masacre de 17 jóvenes en Torreón, en circunstancias similares (BBC, 2010)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "En 2014, fueron ejecutadas 20 personas en circunstancias poco claras dentro de una bodega en el municipio de Tlatlaya, Estado de México. En este acontecimiento participó de manera directa el 102.° Batallón de Infantería del Ejército Mexicano, que, según informes de la propia institución castrense, se encontraba realizando actividades de reconocimiento cuando detectó a personas armadas —jóvenes en su mayoría, de entre 15 y 23 años—, quienes presuntamente mantenían a varias personas secuestradas dentro de la bodega. Diez minutos después de iniciado el enfrentamiento, el saldo fue de siete personas muertas y un militar herido. Sin embargo, medios nacionales reportaron que el Ejército solicitó la rendición de los jóvenes y, posteriormente, según los testimonios de las personas secuestradas, los detenidos fueron ejecutados uno a uno con tiro de gracia. De las cinco personas privadas de la libertad —dos hombres y tres mujeres—, los hombres fueron también ejecutados, mientras que las tres mujeres fueron recluidas en un penal federal, obligadas a declararse culpables de acopio de armas y posesión de cartuchos de uso exclusivo del Ejército, tras ser amenazadas y torturadas. El caso continúa en investigación (SDP Noticias, 2018; Made of Minds, 2021)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Es esa misma línea, la tragedia de Lagos de Moreno, Jalisco, destaca por su nivel de violencia. Cinco jóvenes fueron reportados como desaparecidos en dicho municipio. Al día siguiente, uno de los vehículos en los que viajaban fue encontrado calcinado en las inmediaciones de la ciudad. Tres días después, circuló un video que se volvió viral en cuestión de minutos. En él se observan sujetos jóvenes con características físicas similares a las de los desaparecidos, arrodillados, amordazados y con huellas de golpes y tortura. En otra parte del video, tres de los cinco jóvenes aparecen con manchas de sangre y tendidos boca abajo, aparentemente sin vida. Sin embargo, otro de los jóvenes aparece sin amarras, con un cuchillo en la mano, mientras presuntos integrantes del crimen organizado lo obligan a asesinar a su compañero que permanece inmovilizado. El video muestra la crueldad extrema, el poder sobre la vida del otro y la deshumanización total. El filo del cuchillo atraviesa una y otra vez la garganta del joven que no puede defenderse. La grabación, explícita y desgarradora, retrata la barbarie y crueldad de una sociedad que continúa desangrándose cada día (El Universal, 2023)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    [
+     "strong",
+     {},
+     "El ejercicio necropolítico del ejército "
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Uno de los acontecimientos más reconocidos por la magnitud de personas desaparecidas y el grado de violencia ejecutada desde distintas esferas de poder fue el del 26 de septiembre de 2014, en Iguala, Guerrero, con los estudiantes de la Escuela Normal Rural de Ayotzinapa. Estos jóvenes tomaron dos autobuses para trasladarse, días después, a la Ciudad de México y participar en la marcha conmemorativa del 2 de octubre de 1968, cuando militares asesinaron y desaparecieron estudiantes en la antesala de los Juegos Olímpicos de ese año."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Según testimonios periodísticos, los autobuses que abordaron los normalistas transbordaban droga con destino a los Estados Unidos; este hecho habría provocado la movilización de las corporaciones policiales municipales, estatales y federales, coludidas con el crimen organizado, específicamente con el grupo Guerreros Unidos, quienes abrieran fuego contra los estudiantes y los camiones retenidos. En ese primer enfrentamiento murieron al menos seis jóvenes, entre ellos integrantes de un equipo de fútbol que fue interceptado y baleado. Otros resultaron heridos por arma de fuego; uno de ellos fue hallado sin vida al día siguiente, con el rostro desollado."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "La conocida “Noche de Iguala” culminó con la desaparición de 43 estudiantes normalistas, cuyo paradero sigue sin esclarecerse. Los familiares continúan exigiendo justicia y verdad. Se presume la colusión entre grupos del narcotráfico e instituciones de seguridad, incluyendo policías locales y el 27.° Batallón de Infantería del Ejército Mexicano, situado en Iguala, Guerrero (Jornada, 2014)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Una de las características del actual gobierno de López Obrador ha sido el fortalecimiento de la institución castrense y la continuación del proceso de militarización del país. Se pasó de 48 mil efectivos durante el sexenio de Calderón a 53 mil con Peña Nieto; en el caso de López Obrador, se desplegaron 98 mil efectivos del Ejército, además de un número similar perteneciente a la policía militarizada conocida como Guardia Nacional. Ambas instituciones recibieron apoyo y confianza por parte del presidente de la República, quien no solo incrementó su presupuesto, sino que también les otorgó la responsabilidad de proyectos emblemáticos como la construcción del Aeropuerto Internacional Felipe Ángeles y tramos del Tren Maya. Asimismo, el Ejército asumió el control de aduanas, puertos y aeropuertos."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "El ejercicio de violencia por parte de las fuerzas castrenses durante el gobierno de López Obrador contra ciertos sectores de la población se ha evidenciado en ejecuciones extrajudiciales registradas en distintas ciudades del país. Entre ellas, destaca el asesinato de un estudiante de la Universidad de Guanajuato, a manos del Ejército, en abril de 2022 (Expansión, 2023). También la muerte de dos jóvenes, uno de 24 años y otro de 20, en Jiménez, Chihuahua, quienes fueron rafagueados por la Guardia Nacional el 1 de enero de 2023, tras no detenerse en un retén militar."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Otro caso fue la ejecución de cinco jóvenes que salían de un bar en Nuevo Laredo, Tamaulipas, en febrero de 2023, alcanzados por las balas del Ejército. Según un reporte de Expansión (2023), “de acuerdo con los primeros reportes, el grupo de jóvenes viajaba durante la madrugada del domingo en una camioneta tipo Chevrolet Silverado color blanco, misma que recibió más de veinte disparos”. El informe de la Comisión Estatal de Derechos Humanos detalla que testigos aseguraron que dos de las víctimas fueron ultimadas con disparos en la nuca cuando se encontraban tendidas sobre el pavimento."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Otro episodio de brutalidad ocurrió el 18 de mayo de 2023, también en Nuevo Laredo, Tamaulipas. Tras una persecución a plena luz del día, una camioneta fue alcanzada por ráfagas del Ejército y chocó contra un muro. Segundos después, los militares hicieron descender a los presuntos sicarios, desarmándolos. Las cámaras de seguridad registraron el momento en que los soldados dispararon en diversas direcciones, siembran armas en la escena y colocan a los detenidos contra una pared para fusilarlos a quemarropa (Índigo, 2023)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "El ejercicio necropolítico del Ejército Mexicano se ha caracterizado por la impunidad y la ausencia de justicia para las familias de las víctimas. Bajo la justificación de la “guerra contra las drogas”, buena parte de la población civil se ha convertido en objetivo de caza, ya sea por parte de los grupos del narcotráfico o de las propias fuerzas castrenses."
+   ],
+   "\n",
+   [
+    "h3",
+    {
+     "id": "t-seccion-10"
+    },
+    "DISCUSIÓN"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    [
+     "strong",
+     {},
+     "La tragedia de la muerte juvenil y la lucha por la vida"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "El objetivo del sistema capitalista es el cuerpo joven, ya sea para ser explotado en los centros de trabajo o en las empresas de subcontratación. Siendo más precisos, el cuerpo joven se construye como un imaginario mercantil, expuesto en las mamparas del mercado narco. Cada vez, el promedio de edad de los chicos que ingresan al narcotráfico se reduce: son casi niños, muestran orgullosos sus armas —que muchas veces doblan su peso—. En esas fotografías, los adolescentes portan chalecos y armas tácticas; con una mirada desafiante, saben que en poco tiempo irán al combate."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "El narcotráfico es la expresión más sádica y bárbara del capitalismo contemporáneo. Los narcotraficantes son producto del propio sistema: su esfera de producción y distribución conlleva un riesgo extremo que se paga con la vida o con la cárcel. El narcotráfico, por tanto, representa la expresión más cruda del ",
+    [
+     "em",
+     {},
+     "necrocapitalismo"
+    ],
+    ", pues no solo envenena a la especie humana con drogas, sino que también la mata, extorsiona, levanta, desaparece, tortura, descuartiza y viraliza en videos."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "El ",
+    [
+     "em",
+     {},
+     "juvenicidio"
+    ],
+    " va de la mano con las condiciones de vida de los jóvenes, las posibilidades reales de existencia precaria y la búsqueda de salidas que, en ocasiones, resultan dañinas para el propio cuerpo. El consumo de drogas y alcohol proporciona rutas de escape momentáneas. Finalmente, ¿quién quiere vivir en una realidad en la que un joven gana lo necesario para sobrevivir un día más?"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "En futuras investigaciones será necesario preguntar: ¿por qué pelean estos jóvenes?, ¿qué bandera defienden?, ¿en qué territorio anclan sus vidas y su idiosincrasia?, ¿a qué se aferran ideológicamente?, ¿cómo construyen sus códigos, sus valores, su moral, su conciencia?, ¿son meras máquinas de matar, sin sentimientos, que solo obedecen órdenes?"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "El ",
+    [
+     "em",
+     {},
+     "juvenicidio"
+    ],
+    " abre la posibilidad de adentrarse en el corazón del capitalismo, esa máquina de carne que expulsa jóvenes desmembrados, sin cabeza, quemados, suplicantes en su último aliento, quizá imaginando otros caminos. El capitalismo tiene rostro de muerte. México y otros países de América Latina lo han vivido en carne propia. El sistema se alimenta de jóvenes precarizados, aunque también existen homicidios de jóvenes provenientes de clases altas y acomodadas: aquellos que nacieron en cuna de narco, en cuna de oro, cuyo mundo está hecho de pistolas, fiestas, mujeres, casas y corridos. Para ellos, las armas y la muerte son una posibilidad inminente, aceptada con naturalidad y hasta celebrada. Estos ",
+    [
+     "em",
+     {},
+     "narcojuniors"
+    ],
+    " tampoco conocen el alba de otros caminos ni futuros; el ",
+    [
+     "em",
+     {},
+     "juvenicidio"
+    ],
+    " también los abraza, aunque sus funerales se acompañen con banda, norteño, flores y canciones en su nombre."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Hay, entonces, muertes de arriba y muertes de abajo: las precarizadas, las de barrio, las que terminan con una procesión improvisada y un último adiós. La muerte joven, la despedida del joven del barrio que fue acribillado por la policía, el ejército o el narco. Estas muertes no salen en los noticieros, ni las instancias gubernamentales emiten disculpas o reconocimientos a los familiares. Son alimento para el ",
+    [
+     "em",
+     {},
+     "necrocapitalismo"
+    ],
+    ", ese capitalismo obeso que absorbe no solo vidas, sino también memorias, humanidad y destinos. Solo deja un sendero: el del narco."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "La estrategia belicista en México es una guerra perdida. Se ha echado más gasolina al fuego, provocando la multiplicación de los grupos del narcotráfico, la impunidad, la violencia, la falta de justicia, las muertes, las extorsiones, los secuestros y las desapariciones. El narcotráfico ha corrompido a las instancias gubernamentales y de seguridad. Entonces, ¿quién cuida a los que nos cuidan?"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Es necesario repensar las violencias desde un análisis crítico desde las ciencias sociales, y desde lo que Valenzuela (2022) denomina desde la ",
+    [
+     "em",
+     {},
+     "biocultura,"
+    ],
+    " como un elemento de resistencia basado en la identificación bioidentitaria. Esta perspectiva busca rescatar el cuerpo como espacio simbólico, emocional y político de resistencia y lucha, una emoción de vida capaz de revertir las tendencias de muerte del sistema capitalista. Estas bioresistencias deben dirigir sus esfuerzos a la lucha por la vida y la supervivencia de la especie; de lo contrario, estaremos condenados a seguir caminando y dibujando trazos necropolíticos por los siglos de los siglos, hasta la desaparición de especie humana."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "La bioresistencia debe ir de la mano con la construcción de nuevos horizontes fuera del alcance del capitalismo de muerte. Se trata de repensar las formas de vida, los caminos trazados, la construcción de sociedades de paz y culturas de paz, estableciendo nuevos métodos para erradicar la violencia. Es necesario construir, desde el poder y las instancias gubernamentales, nuevos contextos de vida que incluyan a mujeres, niños, jóvenes, ancianos y clase trabajadora, sacando a millones de seres humanos de los extractos precarios de existencia. Es imperativo fomentar su participación en el arte y la cultura como formas de resistencia y construcción social: el derecho a la lectura, al ocio, al deporte, al estudio y a la aspiración de mejorar sus condiciones de vida."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "La cultura de paz implica el fin de la sociedad capitalista tal como la conocemos. La paz social y la justicia deben de ir de la mano: justicia para las víctimas, para los familiares de los desaparecidos, para los luchadores sociales y los buscadores de personas. La bioresistencia debe acompañar la construcción de vida, cultura y relaciones humanas —entre personas y entre especies— que cambien la balanza de muerte que hasta ahora sigue ganando el capital."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "La lucha por la vida como un anhelo inmediato: con paz, con justicia, con entornos distintos a la vorágine de explotación del capital. Implica repensar lo que llamamos vida, recursos naturales, mano de obra juvenil y empleos precarios. Pensar en una sociedad ",
+    [
+     "em",
+     {},
+     "posnarcotráfico"
+    ],
+    " implica imaginar una sociedad ",
+    [
+     "em",
+     {},
+     "postcapitalista"
+    ],
+    ", donde la ganancia, el poder y la muerte dejen de ser los pilares de un sistema que hoy se consume en el abismo de su propia destrucción."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Entre las principales limitaciones de esta investigación se reconoce la dificultad para acceder a fuentes oficiales actualizadas y homogéneas sobre homicidios y desapariciones de jóvenes, debido a los desfases en los registros estadísticos nacionales y a la opacidad de ciertas instituciones de seguridad. Asimismo, la selección de casos cualitativos se vio restringida por la disponibilidad de testimonios verificados y la sensibilidad ética que implica abordar experiencias de violencia extrema."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "No obstante, el estudio presenta como fortaleza su diseño mixto e interpretativo, que permite articular el análisis históricoestadístico con la dimensión simbólica y social del juvenicidio, ofreciendo una mirada integral sobre la necropolítica y sus impactos en la juventud mexicana. Esta articulación contribuye a visibilizar el papel de los jóvenes en el entramado de la violencia estructural y abre rutas de investigación para futuras aproximaciones con trabajo de campo más amplio y colaborativo."
+   ],
+   "\n",
+   [
+    "h3",
+    {
+     "id": "t-seccion-11"
+    },
+    "REFERENCIAS"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Arista, L. (2022, 20 de junio). Gobierno de AMLO supera los 120 mil homicidios del comportamiento de Calderón. ",
+    [
+     "em",
+     {},
+     "Expansión."
+    ],
+    " ",
+    [
+     "a",
+     {
+      "href": "https://politica.expansion.mx/presidencia/2022/06/20/gobierno-amlosupera-los-homicidios-del-sexenio-de-calderon"
+     },
+     "https://politica.expansion.mx/presidencia/2022/06/20/gobierno-amlosupera-los-homicidios-del-sexenio-de-calderon"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "BBC. (2010a, 18 de julio). México: asesinan a 17 jóvenes en una fiesta. ",
+    [
+     "em",
+     {},
+     "BBC Mundo."
+    ],
+    " ",
+    [
+     "a",
+     {
+      "href": "https://www.bbc.com/mundo/america_latina/2010/07/100718_mexico_torreon_muertos_narcotrafico_az"
+     },
+     "https://www.bbc.com/mundo/america_latina/2010/07/100718_mexico_torreon_muertos_narcotrafico_az"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "BBC. (2010b, 27 de octubre). México: asesinan a 15 jóvenes en el estado de Nayarit. ",
+    [
+     "em",
+     {},
+     "BBC Mundo."
+    ],
+    " ",
+    [
+     "a",
+     {
+      "href": "https://www.bbc.com/mundo/ultimas_noticias/2010/10/101027_ultnot_mexico_asesinato_jovenes_lavado_autos_jrg"
+     },
+     "https://www.bbc.com/mundo/ultimas_noticias/2010/10/101027_ultnot_mexico_asesinato_jovenes_lavado_autos_jrg"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Berlanga Gayón, M. (2015). El espectáculo de la violencia en el México actual: del feminicidio al juvenicidio. ",
+    [
+     "em",
+     {},
+     "Athenea Digital, 15"
+    ],
+    "(4), 105–128. ",
+    [
+     "a",
+     {
+      "href": "https://doi.org/10.5565/rev/athenea.1556"
+     },
+     "https://doi.org/10.5565/rev/athenea.1556"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Butler, J. (2009). ",
+    [
+     "em",
+     {},
+     "Vida precaria: El poder del duelo y la violencia."
+    ],
+    " Buenos Aires: Paidós."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Chacón, A. (2020). El juvenicidio encarnado: jóvenes lesionados por armas de fuego en México. ",
+    [
+     "em",
+     {},
+     "CONfines, 17"
+    ],
+    "(32), 11–36. Tecnológico de Monterrey."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "CNB. (2022). ",
+    [
+     "em",
+     {},
+     "Personas desaparecidas y no localizadas en México desde 1964 hasta el 22 de septiembre del 2022."
+    ],
+    "Comisión Nacional de Búsqueda. ",
+    [
+     "a",
+     {
+      "href": "https://versionpublicarnpdno.segob.gob.mx/Dashboard/ContextoGeneral"
+     },
+     "https://versionpublicarnpdno.segob.gob.mx/Dashboard/ContextoGeneral"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Crawford, N. (2021, 13 de septiembre). 20 años de guerra contra el terror en 20 cifras. ",
+    [
+     "em",
+     {},
+     "Ethic."
+    ],
+    " ",
+    [
+     "a",
+     {
+      "href": "https://ethic.es/2021/09/20-anos-deguerra-contra-el-terror-en-20-cifras/"
+     },
+     "https://ethic.es/2021/09/20-anos-deguerra-contra-el-terror-en-20-cifras/"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Delgado, A. (2022, 22 de agosto). Homicidios a lo largo de los sexenios: Con Calderón repuntó, una montaña rusa con Peña y con AMLO, una meseta. ",
+    [
+     "em",
+     {},
+     "El Universal."
+    ],
+    " ",
+    [
+     "a",
+     {
+      "href": "https://www.eluniversal.com.mx/nacion/homicidio-lo-largo-de-los-sexenios-con-calderon-repunto"
+     },
+     "https://www.eluniversal.com.mx/nacion/homicidio-lo-largo-de-los-sexenios-con-calderon-repunto"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "El País. (2008, 13 de septiembre). Hallados en México 24 jóvenes rematados a tiros. ",
+    [
+     "em",
+     {},
+     "El País."
+    ],
+    [
+     "a",
+     {
+      "href": "https://elpais.com/diario/2008/09/14/internacional/1221343203_850215.html"
+     },
+     "https://elpais.com/diario/2008/09/14/internacional/1221343203_850215.html"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "El País. (2023, 6 de marzo). López Obrador condena la propuesta del Congreso de EE. UU. para que su ejército actúe contra el tráfico de fentanilo en México. ",
+    [
+     "em",
+     {},
+     "El País."
+    ],
+    " ",
+    [
+     "a",
+     {
+      "href": "https://elpais.com/mexico/2023-03-06/lopez-obrador-condena-la-propuesta-del-congreso-de-ee-uu-para-que-su-ejercito-actue-contra-el-trafico-de-fentanilo-en-mexico.html"
+     },
+     "https://elpais.com/mexico/2023-03-06/lopez-obrador-condena-la-propuesta-del-congreso-de-ee-uu-para-que-su-ejercito-actue-contra-el-trafico-de-fentanilo-en-mexico.html"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "El Universal. (2023a, 19 de junio). Crimen organizado cubre el 81 por ciento de México: Estudio. ",
+    [
+     "em",
+     {},
+     "El Universal."
+    ],
+    " ",
+    [
+     "a",
+     {
+      "href": "https://www.eluniversal.com.mx/nacion/crimen-organizado-cubre-81-de-mexico-estudio"
+     },
+     "https://www.eluniversal.com.mx/nacion/crimen-organizado-cubre-81-de-mexico-estudio"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "El Universal. (2023b, 16 de agosto). Lo que sabemos a cinco días de la desaparición de los cinco jóvenes de Lagos de Moreno. ",
+    [
+     "em",
+     {},
+     "El Universal."
+    ],
+    " ",
+    [
+     "a",
+     {
+      "href": "https://www.eluniversal.com.mx/estados/lo-que-sabemos-a-5-dias-de-la-desaparicion-de-los-5-jovenes-de-lagos-de-moreno"
+     },
+     "https://www.eluniversal.com.mx/estados/lo-que-sabemos-a-5-dias-de-la-desaparicion-de-los-5-jovenes-de-lagos-de-moreno"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Expansión. (2023, 27 de febrero). Militares asesinan a jóvenes en Nuevo Laredo. ",
+    [
+     "em",
+     {},
+     "Expansión."
+    ],
+    " ",
+    [
+     "a",
+     {
+      "href": "https://politica.expansion.mx/estados/2023/02/27/militares-asesinan-a-jovenes-nuevo-laredo"
+     },
+     "https://politica.expansion.mx/estados/2023/02/27/militares-asesinan-a-jovenes-nuevo-laredo"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Flores, N. (2018, 28 de marzo). 3.6 billones de pesos: ganancias del narcotráfico mexicano. ",
+    [
+     "em",
+     {},
+     "Contralínea."
+    ],
+    " ",
+    [
+     "a",
+     {
+      "href": "https://www.contralinea.com.mx/archivo-revista/2018/03/28/3-6-billones-de-pesos-ganancias-del-narcotrafico-mexicano"
+     },
+     "https://www.contralinea.com.mx/archivo-revista/2018/03/28/3-6-billones-de-pesos-ganancias-del-narcotrafico-mexicano"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Galano, N. (2019). Muerte joven y vidas precarias: Notas sobre el juvenicidio. En D. Beretta, F. Laredo, P. Núñez & P. Vommaro (Eds.), ",
+    [
+     "em",
+     {},
+     "Políticas de juventudes y participación política"
+    ],
+    " (pp. 229– 248). CLACSO."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Goffman, E. (1998). ",
+    [
+     "em",
+     {},
+     "Estigma: La identidad deteriorada."
+    ],
+    " Buenos Aires: Amorrortu."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Hernández, D. (2019). ",
+    [
+     "em",
+     {},
+     "Socialidad y significación de la narcocultura en jóvenes de la ciudad de Tepic y Xalisco, Nayarit"
+    ],
+    "[Tesis de doctorado, Universidad Autónoma de Nayarit]. ",
+    [
+     "a",
+     {
+      "href": "http://192.100.162.123:8080/handle/123456789/2266/statistics"
+     },
+     "http://192.100.162.123:8080/handle/123456789/2266/statistics"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Índigo. (2023, 7 de junio). Video revela que militares alteraron la escena en la que murieron cinco jóvenes en Nuevo Laredo. ",
+    [
+     "em",
+     {},
+     "Reporte Índigo."
+    ],
+    " ",
+    [
+     "a",
+     {
+      "href": "https://www.reporteindigo.com/reporte/video-revela-que-militaresalteraron-escena-en-la-que-murieron-5-jovenes-en-nuevo-laredotamaulipas"
+     },
+     "https://www.reporteindigo.com/reporte/video-revela-que-militaresalteraron-escena-en-la-que-murieron-5-jovenes-en-nuevo-laredotamaulipas"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "IMJUVE. (2021). ",
+    [
+     "em",
+     {},
+     "Situación de las personas adolescentes y jóvenes en México."
+    ],
+    " Fondo de Población de las Naciones Unidas en México."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "INEGI. (2023). ",
+    [
+     "em",
+     {},
+     "Defunciones por homicidio, 1990–2021."
+    ],
+    [
+     "a",
+     {
+      "href": "https://www.inegi.org.mx/sistemas/olap/consulta/general_ver4/MDX-QueryDatos.asp"
+     },
+     "https://www.inegi.org.mx/sistemas/olap/consulta/general_ver4/MDX-QueryDatos.asp"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Kessler, G., & Dimarco, S. (2013). Jóvenes, policía y estigmatización territorial en la periferia de Buenos Aires. ",
+    [
+     "em",
+     {},
+     "Revista Espacio Abierto, 22"
+    ],
+    "(2), 185–204. Universidad del Zulia."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Lagarde, M. (2005). ",
+    [
+     "em",
+     {},
+     "Los cautiverios de las mujeres: Madresposas, monjas, putas, presas y locas."
+    ],
+    " México: UNAM."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "La Jornada. (2014, 28 de septiembre). Policías balean a normalistas de Ayotzinapa en Iguala; al menos cinco muertos. ",
+    [
+     "em",
+     {},
+     "La Jornada."
+    ],
+    " ",
+    [
+     "a",
+     {
+      "href": "https://www.jornada.com.mx/2014/09/28/politica/005n1pol"
+     },
+     "https://www.jornada.com.mx/2014/09/28/politica/005n1pol"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "La Prensa. (2010, 1 de febrero). Masacran a jóvenes estudiantes en México. ",
+    [
+     "em",
+     {},
+     "La Prensa."
+    ],
+    " ",
+    [
+     "a",
+     {
+      "href": "https://www.laprensani.com/2010/02/01/internacionales/14957-masacran-a-jovenes-estudiantes-en-mexico"
+     },
+     "https://www.laprensani.com/2010/02/01/internacionales/14957-masacran-a-jovenes-estudiantes-en-mexico"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Made of Minds. (2021, 2 de abril). México: arrestan de nuevo a soldados por masacre de Tlatlaya. ",
+    [
+     "em",
+     {},
+     "DW Made of Minds."
+    ],
+    [
+     "a",
+     {
+      "href": "https://www.dw.com/es/m%C3%A9xico-arrestan-de-nuevo-a-soldados-pormasacre-de-tlatlaya/a-57083950"
+     },
+     "https://www.dw.com/es/m%C3%A9xico-arrestan-de-nuevo-a-soldados-pormasacre-de-tlatlaya/a-57083950"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Mbembe, A. (2006). Necropolitique: En traversées, diasporas, modernités. ",
+    [
+     "em",
+     {},
+     "Raisons Politiques, 21,"
+    ],
+    " 29–60."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Nateras, A. (2015). El aniquilamiento identitario infanto-juvenil en Centroamérica: El caso de la mara salvatrucha (MS-13) y la “pandilla” del barrio 18 (B-18). En J. M. Valenzuela (Coord.), ",
+    [
+     "em",
+     {},
+     "Juvenicidio: Ayotzinapa y las vidas precarias en América Latina y España"
+    ],
+    " (pp. 201–217). Barcelona: Ned Ediciones; Guadalajara: ITESO."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Núñez, L. (2016). Juvenicidio en México y Colombia: Un bosquejo comparativo. ",
+    [
+     "em",
+     {},
+     "Veredas, 32,"
+    ],
+    " 201–217. Universidad Autónoma Metropolitana, Unidad Xochimilco."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Otamendi, M. (2019). “Juvenicidio armado”: Homicidios de jóvenes y armas de fuego en América Latina. ",
+    [
+     "em",
+     {},
+     "Salud Colectiva, 15,"
+    ],
+    " 1690. ",
+    [
+     "a",
+     {
+      "href": "https://doi.org/10.18294/sc.2019.1690"
+     },
+     "https://doi.org/10.18294/sc.2019.1690"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Pardo, L., & Iñigo, A. (2021, 14 de junio). Una guerra inventada y 350 mil muertos en México. ",
+    [
+     "em",
+     {},
+     "The Washington Post."
+    ],
+    [
+     "a",
+     {
+      "href": "https://www.washingtonpost.com/es/post-opinion/2021/06/14/mexico-guerra-narcotrafico-calderon-homicidios-desaparecidos"
+     },
+     "https://www.washingtonpost.com/es/post-opinion/2021/06/14/mexico-guerra-narcotrafico-calderon-homicidios-desaparecidos"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Pérez-Laurrabaquio, O. (2023, 23 de febrero). Acercamiento estadístico a la desaparición de personas en México: Guerra sucia y guerra contra el narcotráfico. ",
+    [
+     "em",
+     {},
+     "Revista Nexos."
+    ],
+    " ",
+    [
+     "a",
+     {
+      "href": "https://datos.nexos.com.mx/acercamiento-estadistico-a-la-desaparicion-de-personas-en-mexico-guerra-sucia-y-guerra-contra-el-narcotrafico"
+     },
+     "https://datos.nexos.com.mx/acercamiento-estadistico-a-la-desaparicion-de-personas-en-mexico-guerra-sucia-y-guerra-contra-el-narcotrafico"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Radford, J., & Russell, D. (Eds.). (1992). ",
+    [
+     "em",
+     {},
+     "Femicide: The politics of woman killing."
+    ],
+    " New York: Twayne Publishers."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Reinserta. (2020). ",
+    [
+     "em",
+     {},
+     "Niñas, niños y adolescentes reclutados por la delincuencia organizada."
+    ],
+    " Agencia de los Estados Unidos para el Desarrollo Internacional (USAID)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "RNPDNO. (2025, 14 de julio). ",
+    [
+     "em",
+     {},
+     "Registro Nacional de Personas Desaparecidas y No Localizadas."
+    ],
+    [
+     "a",
+     {
+      "href": "https://versionpublicarnpdno.segob.gob.mx/Dashboard/Sociodemografico"
+     },
+     "https://versionpublicarnpdno.segob.gob.mx/Dashboard/Sociodemografico"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Russell, D. (1977). ",
+    [
+     "em",
+     {},
+     "The politics of rape: The victim’s perspective."
+    ],
+    " New York: Stein and Day."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Segato, R. L. (2003). ",
+    [
+     "em",
+     {},
+     "Las estructuras elementales de la violencia: Ensayos sobre género entre la antropología, el psicoanálisis y los derechos humanos."
+    ],
+    " Buenos Aires: Universidad Nacional de Quilmes."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Senado de la República. (2010). ",
+    [
+     "em",
+     {},
+     "Punto de acuerdo sobre el Plan Mérida."
+    ],
+    " ",
+    [
+     "em",
+     {},
+     "Gaceta del Senado."
+    ],
+    [
+     "a",
+     {
+      "href": "https://www.senado.gob.mx/65/gaceta_del_senado/documento/28064"
+     },
+     "https://www.senado.gob.mx/65/gaceta_del_senado/documento/28064"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "SDP Noticias. (2014, 26 de octubre). Testimonios de supervivientes constatan ejecución extrajudicial en Tlatlaya. ",
+    [
+     "em",
+     {},
+     "SDP Noticias."
+    ],
+    " ",
+    [
+     "a",
+     {
+      "href": "https://web.archive.org/web/20181002020028/https://www.sdpnoticias.com/local/edomex/2014/10/26/testimonios-de-supervivientes-constatan-ejecucion-extrajudicial-en-tlatlaya"
+     },
+     "https://web.archive.org/web/20181002020028/https://www.sdpnoticias.com/local/edomex/2014/10/26/testimonios-de-supervivientes-constatan-ejecucion-extrajudicial-en-tlatlaya"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Tresearch. (2024, 29 de julio). ",
+    [
+     "em",
+     {},
+     "La guerra en números."
+    ],
+    " ",
+    [
+     "a",
+     {
+      "href": "https://www.tresearch.mx/inseguridad"
+     },
+     "https://www.tresearch.mx/inseguridad"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "UNICEF. (2020). ",
+    [
+     "em",
+     {},
+     "Informe anual: Romper el ciclo de pobreza que afecta a la infancia y la adolescencia."
+    ],
+    [
+     "a",
+     {
+      "href": "https://www.unicef.org/mexico/comunicados-prensa/informe-anual-de-unicef-romper-el-ciclo-depobreza-que-afecta-infancia-y"
+     },
+     "https://www.unicef.org/mexico/comunicados-prensa/informe-anual-de-unicef-romper-el-ciclo-depobreza-que-afecta-infancia-y"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Urteaga, M., & Moreno, H. (2020). Jóvenes mexicanos: Violencias estructurales y criminalización. ",
+    [
+     "em",
+     {},
+     "Revista de Estudios Sociales, 73,"
+    ],
+    " 44–57."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Valenzuela, J. M. (2012). ",
+    [
+     "em",
+     {},
+     "Sed de mal: Feminicidio, jóvenes y exclusión social."
+    ],
+    " Tijuana & Monterrey: El Colegio de la Frontera Norte / Universidad Autónoma de Nuevo León."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Valenzuela, J. M. (2015). ",
+    [
+     "em",
+     {},
+     "Juvenicidio: Ayotzinapa y las vidas precarias en América Latina y España."
+    ],
+    " Barcelona: Ned Ediciones; Guadalajara: ITESO; Tijuana: El Colegio de la Frontera Norte."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Valenzuela, J. M. (2022). ",
+    [
+     "em",
+     {},
+     "La danza de los extintos."
+    ],
+    " Tijuana: El Colegio de la Frontera Norte; Guadalajara: Universidad de Guadalajara."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Young, J. (2003). ",
+    [
+     "em",
+     {},
+     "La sociedad excluyente: Exclusión social, delito y diferencia en la modernidad tardía."
+    ],
+    " Madrid: Marcial Pons."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Cómo citar: ",
+    [
+     "em",
+     {},
+     "Bajo el Volcán. Revista del Posgrado de Sociología. BUAP"
+    ],
+    ", Año 7, Núm. 14, mayo – octubre de 2026, pp. 196-226. https://doi.org/10.32399/ICSYH.bvbuap.2954-4300.2026.7.14.889"
+   ],
+   [
+    "p",
+    {},
+    [
+     "a",
+     {
+      "href": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
+     },
+     "Licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional"
+    ],
+    ". Publicación de acceso abierto diamante editada por la Benemérita Universidad Autónoma de Puebla."
+   ],
+   "\n"
+  ],
+  "\n"
+ ]
+}

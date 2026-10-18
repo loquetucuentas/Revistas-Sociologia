@@ -1,0 +1,4605 @@
+{
+ "version": 1,
+ "recogido": "2026-10-18T11:44:37+00:00",
+ "doi": "10.24215/23139048e089",
+ "titulo": "Contribuciones a la historiografía filosófica argentina",
+ "revista": "2313-9048",
+ "numero": "v18-n18-2025",
+ "licencia": {
+  "codigo": "by-nc-sa",
+  "nombre": "CC BY-NC-SA 4.0",
+  "nombre_completo": "Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional",
+  "url": "https://creativecommons.org/licenses/by-nc-sa/4.0",
+  "url_legal": "https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.es"
+ },
+ "fuente": {
+  "url": "https://perio.unlp.edu.ar/ojs/index.php/cps/article/download/8117/7480/36517?inline=1",
+  "formato": "HTML",
+  "plataforma": "ojs-galerada",
+  "pagina": "https://perio.unlp.edu.ar/ojs/index.php/cps/article/view/8117"
+ },
+ "autores_cita": [
+  {
+   "apellidos": "Sosa",
+   "nombre_pila": "Paula Jimena",
+   "nombre": null
+  }
+ ],
+ "avisos_derechos": [
+  "Derechos de autor 2025 Cuadernos de H ideas",
+  "Licencia Derechos de autor 2025 Cuadernos de H ideas Esta obra está bajo una licencia internacional Creative Commons Atribución-NoComercial-CompartirIgual 4.0. La aceptación de un original por parte de la revista implica la cesión no exclusiva de los derechos patrimoniales de los/as autores/as en favor del editor, quien permite la reutilización, luego de su edición (postprint), bajo una Licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0) Acorde a estos términos, el material se puede compartir (copiar y redistribuir en cualquier medio o formato) y adaptar (remezclar, transformar y crear a partir del material otra obra), siempre que a) se cite la autoría y la fuente original de su publicación (revista y URL de la obra), b) no se use para fines comerciales y c) se mantengan los mismos términos de la licencia. La cesión de derechos no exclusivos implica que luego de su edición (postprint) en Cuadernos de H ideas las/os autoras/es pueden publicar su trabajo en cualquier idioma, medio y formato; en tales casos, se solicita que se consigne que el material fue publicado originalmente en esta revista. Tal cesión supone, también, la autorización de los/as autores/as para que el trabajo sea cosechado por SEDICI, el repositorio institucional de la Universidad Nacional de La Plata, y sea difundido en las bases de datos que el equipo editorial considere adecuadas para incrementar la visibilidad de la publicación y de sus autores/as. Asimismo, la revista incentiva a las/os autoras/es para que luego de su publicación en Cuadernos de H ideas depositen sus producciones en otros repositorios institucionales y temáticos, bajo el principio de que ofrecer a la sociedad la producción científica y académica sin restricciones contribuye a un mayor intercambio del conocimiento global."
+ ],
+ "idioma_principal": "es",
+ "indice": [],
+ "vueltas": {
+  "t-redalyc_314964011_ref32": "t-llamada-redalyc_314964011_ref32-1",
+  "t-redalyc_314964011_ref52": "t-llamada-redalyc_314964011_ref52-1",
+  "t-redalyc_314964011_ref16": "t-llamada-redalyc_314964011_ref16-1",
+  "t-redalyc_314964011_ref39": "t-llamada-redalyc_314964011_ref39-1",
+  "t-redalyc_314964011_ref9": "t-llamada-redalyc_314964011_ref9-1",
+  "t-redalyc_314964011_ref10": "t-llamada-redalyc_314964011_ref10-1",
+  "t-redalyc_314964011_ref26": "t-llamada-redalyc_314964011_ref26-1",
+  "t-redalyc_314964011_ref4": "t-llamada-redalyc_314964011_ref4-1",
+  "t-redalyc_314964011_ref27": "t-llamada-redalyc_314964011_ref27-1",
+  "t-fn1": "t-llamada-fn1-1",
+  "t-redalyc_314964011_ref20": "t-llamada-redalyc_314964011_ref20-1",
+  "t-redalyc_314964011_ref29": "t-llamada-redalyc_314964011_ref29-1",
+  "t-fn2": "t-llamada-fn2-1",
+  "t-fn3": "t-llamada-fn3-1",
+  "t-fn4": "t-llamada-fn4-1",
+  "t-fn5": "t-llamada-fn5-1",
+  "t-redalyc_314964011_ref55": "t-llamada-redalyc_314964011_ref55-1",
+  "t-redalyc_314964011_ref53": "t-llamada-redalyc_314964011_ref53-1",
+  "t-redalyc_314964011_ref54": "t-llamada-redalyc_314964011_ref54-1",
+  "t-fn6": "t-llamada-fn6-1",
+  "t-redalyc_314964011_ref65": "t-llamada-redalyc_314964011_ref65-1",
+  "t-fn7": "t-llamada-fn7-1",
+  "t-fn8": "t-llamada-fn8-1",
+  "t-fn9": "t-llamada-fn9-1",
+  "t-redalyc_314964011_ref24": "t-llamada-redalyc_314964011_ref24-1",
+  "t-fn10": "t-llamada-fn10-1",
+  "t-fn11": "t-llamada-fn11-1",
+  "t-redalyc_314964011_ref2": "t-llamada-redalyc_314964011_ref2-1",
+  "t-redalyc_314964011_ref14": "t-llamada-redalyc_314964011_ref14-1",
+  "t-fn12": "t-llamada-fn12-1",
+  "t-fn13": "t-llamada-fn13-1",
+  "t-fn14": "t-llamada-fn14-1",
+  "t-redalyc_314964011_ref38": "t-llamada-redalyc_314964011_ref38-1",
+  "t-fn15": "t-llamada-fn15-1",
+  "t-fn16": "t-llamada-fn16-1",
+  "t-fn17": "t-llamada-fn17-1",
+  "t-fn18": "t-llamada-fn18-1",
+  "t-fn19": "t-llamada-fn19-1",
+  "t-redalyc_314964011_ref21": "t-llamada-redalyc_314964011_ref21-1",
+  "t-fn29": "t-llamada-fn29-1",
+  "t-redalyc_314964011_ref5": "t-llamada-redalyc_314964011_ref5-1",
+  "t-redalyc_314964011_ref37": "t-llamada-redalyc_314964011_ref37-1",
+  "t-redalyc_314964011_ref3": "t-llamada-redalyc_314964011_ref3-1",
+  "t-redalyc_314964011_ref22": "t-llamada-redalyc_314964011_ref22-1",
+  "t-redalyc_314964011_ref23": "t-llamada-redalyc_314964011_ref23-1",
+  "t-redalyc_314964011_ref11": "t-llamada-redalyc_314964011_ref11-1",
+  "t-fn20": "t-llamada-fn20-1",
+  "t-fn21": "t-llamada-fn21-1",
+  "t-fn22": "t-llamada-fn22-1",
+  "t-redalyc_314964011_ref33": "t-llamada-redalyc_314964011_ref33-1",
+  "t-fn23": "t-llamada-fn23-1",
+  "t-redalyc_314964011_ref17": "t-llamada-redalyc_314964011_ref17-1",
+  "t-redalyc_314964011_ref35": "t-llamada-redalyc_314964011_ref35-1",
+  "t-redalyc_314964011_ref31": "t-llamada-redalyc_314964011_ref31-1",
+  "t-fn24": "t-llamada-fn24-1",
+  "t-fn25": "t-llamada-fn25-1",
+  "t-fn26": "t-llamada-fn26-1",
+  "t-redalyc_314964011_ref15": "t-llamada-redalyc_314964011_ref15-1",
+  "t-fn27": "t-llamada-fn27-1",
+  "t-fn28": "t-llamada-fn28-1",
+  "t-redalyc_314964011_ref1": "t-llamada-redalyc_314964011_ref1-1",
+  "t-redalyc_314964011_ref28": "t-llamada-redalyc_314964011_ref28-1",
+  "t-redalyc_314964011_ref30": "t-llamada-redalyc_314964011_ref30-1",
+  "t-redalyc_314964011_ref40": "t-llamada-redalyc_314964011_ref40-1",
+  "t-redalyc_314964011_ref41": "t-llamada-redalyc_314964011_ref41-1",
+  "t-redalyc_314964011_ref6": "t-llamada-redalyc_314964011_ref6-1",
+  "t-redalyc_314964011_ref7": "t-llamada-redalyc_314964011_ref7-1",
+  "t-redalyc_314964011_ref8": "t-llamada-redalyc_314964011_ref8-1",
+  "t-redalyc_314964011_ref58": "t-llamada-redalyc_314964011_ref58-1",
+  "t-redalyc_314964011_ref57": "t-llamada-redalyc_314964011_ref57-1",
+  "t-redalyc_314964011_ref56": "t-llamada-redalyc_314964011_ref56-1",
+  "t-redalyc_314964011_ref18": "t-llamada-redalyc_314964011_ref18-1",
+  "t-redalyc_314964011_ref60": "t-llamada-redalyc_314964011_ref60-1",
+  "t-redalyc_314964011_ref36": "t-llamada-redalyc_314964011_ref36-1",
+  "t-redalyc_314964011_ref34": "t-llamada-redalyc_314964011_ref34-1",
+  "t-redalyc_314964011_ref25": "t-llamada-redalyc_314964011_ref25-1",
+  "t-redalyc_314964011_ref19": "t-llamada-redalyc_314964011_ref19-1",
+  "t-redalyc_314964011_ref62": "t-llamada-redalyc_314964011_ref62-1",
+  "t-redalyc_314964011_ref12": "t-llamada-redalyc_314964011_ref12-1",
+  "t-redalyc_314964011_ref61": "t-llamada-redalyc_314964011_ref61-1",
+  "t-redalyc_314964011_ref63": "t-llamada-redalyc_314964011_ref63-1",
+  "t-redalyc_314964011_ref64": "t-llamada-redalyc_314964011_ref64-1",
+  "t-redalyc_314964011_ref13": "t-llamada-redalyc_314964011_ref13-1"
+ },
+ "contenido": [
+  [
+   "span",
+   {
+    "id": "t-MathJax_Message"
+   }
+  ],
+  "\r\n",
+  [
+   "span",
+   {
+    "id": "t-visor-cabecera"
+   },
+   "\r\n",
+   "\r\n",
+   [
+    "span",
+    {
+     "id": "t-logo-institucion"
+    },
+    "\r\n",
+    [
+     "figura",
+     {}
+    ]
+   ],
+   "\r\n",
+   [
+    "span",
+    {
+     "id": "t-logo-revista"
+    },
+    "\r\n",
+    [
+     "figura",
+     {}
+    ]
+   ],
+   "\r\n",
+   "\r\n"
+  ],
+  "\r\n",
+  [
+   "span",
+   {
+    "id": "t-articulo"
+   },
+   "\r\n",
+   [
+    "span",
+    {
+     "id": "t-front"
+    },
+    "\r\n",
+    [
+     "span",
+     {
+      "id": "t-articulo-categoria"
+     },
+     "\r\n",
+     [
+      "p",
+      {},
+      "Dossier"
+     ],
+     "\r\n"
+    ],
+    "\r\n",
+    [
+     "span",
+     {
+      "id": "t-articulo-meta"
+     },
+     "\r\n",
+     [
+      "p",
+      {},
+      "Contribuciones a la historiografía filosófica argentina. Un análisis de ",
+      [
+       "span",
+       {},
+       "Cuadernos de Filosofía"
+      ],
+      " (1948-1954)"
+     ],
+     "\r\n",
+     [
+      "p",
+      {
+       "lang": "en"
+      },
+      "Contributions to Argentine Philosophical Historiography. An Analysis of ",
+      [
+       "span",
+       {},
+       "Cuadernos de Filosofía"
+      ],
+      " (1948-1954)"
+     ],
+     "\r\n"
+    ],
+    "\r\n",
+    [
+     "span",
+     {
+      "id": "t-articulo-acerca"
+     },
+     "\r\n",
+     [
+      "span",
+      {
+       "id": "t-ficha-general"
+      },
+      "\r\n",
+      [
+       "span",
+       {
+        "id": "t-autores-articulo"
+       },
+       "\r\n",
+       "\r\n",
+       "\r\n",
+       [
+        "a",
+        {
+         "href": "https://orcid.org/0000-0002-0652-2382"
+        },
+        [
+         "figura",
+         {}
+        ]
+       ],
+       "  ",
+       [
+        "span",
+        {},
+        "Paula Jimena"
+       ],
+       " ",
+       [
+        "span",
+        {},
+        "Sosa"
+       ],
+       " ",
+       [
+        "span",
+        {}
+       ],
+       [
+        "span",
+        {},
+        " jimenasosa89@gmail.com"
+       ],
+       "\r\n",
+       "\r\n",
+       "\r\n",
+       [
+        "span",
+        {},
+        "Universidad Nacional de La Plata, Instituto de Investigaciones en Humanidades y Ciencias Sociales-CONICET"
+       ],
+       ", ",
+       [
+        "span",
+        {},
+        "Argentina"
+       ],
+       "\r\n",
+       "\r\n",
+       "\r\n"
+      ],
+      "\r\n",
+      "\r\n",
+      [
+       "p",
+       {},
+       "\r\n",
+       [
+        "span",
+        {},
+        "Cuadernos de H ideas"
+       ],
+       "\r\n"
+      ],
+      "\r\n",
+      [
+       "p",
+       {},
+       "\r\n",
+       [
+        "span",
+        {},
+        "Universidad Nacional de La Plata, Argentina"
+       ],
+       "\r\n"
+      ],
+      "\r\n",
+      [
+       "p",
+       {},
+       "\r\n",
+       [
+        "span",
+        {},
+        "ISSN: "
+       ],
+       "1851-8206"
+      ],
+      "\r\n",
+      [
+       "p",
+       {},
+       "\r\n",
+       [
+        "span",
+        {},
+        "ISSN-e: "
+       ],
+       "2313-9048"
+      ],
+      "\r\n",
+      [
+       "p",
+       {},
+       "\r\n",
+       [
+        "span",
+        {},
+        "Periodicidad: "
+       ],
+       "Frecuencia continua"
+      ],
+      "\r\n",
+      [
+       "p",
+       {},
+       "\r\n",
+       [
+        "span",
+        {},
+        "vol.  18, "
+       ],
+       "núm.  18, ",
+       [
+        "span",
+        {
+         "id": "t-elocation-id"
+        },
+        "e089, "
+       ],
+       [
+        "span",
+        {},
+        "2024"
+       ],
+       "\r\n"
+      ],
+      "\r\n",
+      [
+       "p",
+       {},
+       "\r\n",
+       "direccion.publicaciones@perio.unlp.edu.ar",
+       "\r\n"
+      ],
+      "\r\n",
+      "\r\n",
+      [
+       "span",
+       {
+        "id": "t-articulo-product"
+       }
+      ],
+      "\r\n",
+      "\r\n",
+      [
+       "p",
+       {},
+       "\r\n",
+       [
+        "span",
+        {},
+        "Recepción: "
+       ],
+       " 19 agosto  2024"
+      ],
+      "\r\n",
+      [
+       "p",
+       {},
+       "\r\n",
+       [
+        "span",
+        {},
+        "Aprobación: "
+       ],
+       " 01 noviembre  2024"
+      ],
+      "\r\n",
+      [
+       "p",
+       {},
+       "\r\n",
+       [
+        "span",
+        {},
+        "Publicación: "
+       ],
+       " 17 diciembre  2024"
+      ],
+      "\r\n",
+      [
+       "br",
+       {}
+      ],
+      "\r\n",
+      [
+       "br",
+       {}
+      ],
+      "\r\n",
+      "\r\n",
+      "\r\n",
+      [
+       "span",
+       {},
+       "URL: "
+      ],
+      [
+       "a",
+       {
+        "href": "https://portal.amelica.org/ameli/journal/31/314964011/"
+       },
+       "https://portal.amelica.org/ameli/journal/31/314964011/"
+      ],
+      "\r\n",
+      "\r\n",
+      "\r\n",
+      [
+       "span",
+       {},
+       "DOI: "
+      ],
+      [
+       "a",
+       {
+        "href": "https://doi.org/10.24215/23139048e089"
+       },
+       "https://doi.org/10.24215/23139048e089"
+      ],
+      "\r\n",
+      "\r\n",
+      "\r\n",
+      [
+       "p",
+       {}
+      ],
+      "\r\n",
+      "\r\n",
+      "\r\n",
+      "\r\n",
+      [
+       "a",
+       {
+        "href": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+       },
+       [
+        "figura",
+        {}
+       ],
+       [
+        "br",
+        {}
+       ],
+       "\r\n"
+      ],
+      "Esta obra está bajo una ",
+      [
+       "a",
+       {
+        "href": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+       },
+       "Licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional."
+      ],
+      "\r\n",
+      "\r\n",
+      "\r\n",
+      [
+       "p",
+       {}
+      ],
+      "\r\n"
+     ],
+     "\r\n",
+     [
+      "p",
+      {},
+      "\r\n",
+      [
+       "span",
+       {},
+       "Resumen:\r\n\t\t\t\t\t\t\t                           "
+      ],
+      [
+       "span",
+       {},
+       "La revista ",
+       [
+        "span",
+        {},
+        "Cuadernos de Filosofía"
+       ],
+       "\r\n se publica, desde el Instituto de Filosofía de la Universidad de Buenos\r\n Aires, a lo largo de tres períodos. El presente trabajo atiende al \r\nprimero de estos momentos de edición, centrándose fundamentalmente en su\r\n publicación durante el primer peronismo, bajo la dirección de Carlos \r\nAstrada. En especial, nos detendremos en las intervenciones de Coriolano\r\n Alberini y Luis Farré, en la medida en que ambos intentan dar \r\ncoordenadas para una historiografía filosófica nacional, estableciendo \r\nlazos de tensión y complementariedad con otros agentes y revistas de \r\ndiferentes perfiles filosófico-políticos pertenecientes al mismo \r\nperíodo."
+      ],
+      "\r\n"
+     ],
+     "\r\n",
+     [
+      "p",
+      {},
+      "\r\n",
+      [
+       "span",
+       {},
+       "Palabras clave: "
+      ],
+      "Revistas, redes intelectuales, historia de la filosofía, recepciones filosóficas.\r\n\t\t                         "
+     ],
+     "\r\n",
+     [
+      "p",
+      {
+       "lang": "en"
+      },
+      "\r\n",
+      [
+       "span",
+       {},
+       "Abstract:\r\n\t\t\t\t\t\t                           "
+      ],
+      [
+       "span",
+       {},
+       "The journal ",
+       [
+        "span",
+        {},
+        "Cuadernos de Filosofía"
+       ],
+       "\r\n is published, from the Institute of Philosophy of the University of \r\nBuenos Aires, over three periods. The present work addresses the first \r\nof these edition moments, focusing fundamentally on its publication \r\nduring the first Peronism, under the direction of Carlos Astrada. In \r\nparticular, we will stop at the interventions of Coriolano Alberini and \r\nLuis Farré, to the extent that both try to provide coordinates for a \r\nnational philosophical historiography, establishing ties of tension and \r\ncomplementarity with other agents and journals with different \r\nphilosophical-political profiles belonging to the same period."
+      ],
+      "\r\n"
+     ],
+     "\r\n",
+     [
+      "p",
+      {
+       "lang": "en"
+      },
+      "\r\n",
+      [
+       "span",
+       {},
+       "Keywords: "
+      ],
+      "Journal, intellectual networks, history of philosophy, philosophical receptions.\r\n                                "
+     ],
+     "\r\n"
+    ],
+    "\r\n"
+   ],
+   "\r\n",
+   [
+    "span",
+    {
+     "id": "t-articulo-body"
+    },
+    "\r\n",
+    [
+     "p",
+     {},
+     "Introducción"
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Durante el primer peronismo, el espacio de las \r\nrevistas vinculadas a la disciplina filosófica experimenta un impulso \r\nque algunos autores identificaron como una verdadera “explosión” (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964011_ref32",
+       "id": "t-llamada-redalyc_314964011_ref32-1"
+      },
+      "Ruvituso, 2015"
+     ],
+     "). En el presente trabajo, indagaremos en torno a ",
+     [
+      "span",
+      {},
+      [
+       "a",
+       {
+        "href": "#t-redalyc_314964011_ref52",
+        "id": "t-llamada-redalyc_314964011_ref52-1"
+       },
+       "Cuadernos de Filosofía"
+      ]
+     ],
+     ",\r\n una de las revistas más significativas de esta etapa, publicada en la \r\nUniversidad de Buenos Aires (UBA), bajo la dirección de Carlos Astrada, \r\nentre 1948 y 1954. Con tal fin, nos valdremos de dos marcos teóricos: \r\npor un lado, desde los estudios de revistas, analizaremos los objetivos,\r\n los años de edición y el equipo de agentes intervinientes; por otro \r\nlado, desde análisis del discurso, atenderemos al modo en que se \r\nconstruyen algunos discursos –vinculados a la historiografía filosófica–\r\n en esta etapa. Sobre este segundo aspecto se monta el principal \r\nobjetivo del presente trabajo: la reconstrucción de las miradas de \r\nCoriolano Alberini y De Luis Farré en torno de la historiografía \r\nfilosófica argentina."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Algunas consideraciones sobre ",
+     [
+      "span",
+      {},
+      "Cuadernos de Filosofía"
+     ],
+     "\r\n"
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Buena parte de la bibliografía que aborda el primer \r\nperonismo coincide en mostrar que en esta etapa el campo intelectual se \r\nencuentra dividido entre agentes que adhieren al gobierno de Perón y sus\r\n adversarios (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964011_ref16",
+       "id": "t-llamada-redalyc_314964011_ref16-1"
+      },
+      "Fiorucci, 2011"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964011_ref39",
+       "id": "t-llamada-redalyc_314964011_ref39-1"
+      },
+      "Terán, 2008"
+     ],
+     "),\r\n por lo general, liberales y de izquierda. En una línea que intenta \r\nrecuperar los matices en las posiciones filosófico-política de los \r\nagentes intervinientes en el campo filosófico nacional, encontramos las \r\ncontribuciones de Guillermo David (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964011_ref9",
+       "id": "t-llamada-redalyc_314964011_ref9-1"
+      },
+      "2004"
+     ],
+     ", ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964011_ref10",
+       "id": "t-llamada-redalyc_314964011_ref10-1"
+      },
+      "2014"
+     ],
+     "), Gerardo Oviedo (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964011_ref26",
+       "id": "t-llamada-redalyc_314964011_ref26-1"
+      },
+      "2005"
+     ],
+     "), Clara Ruvituso (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964011_ref32",
+       "id": "t-llamada-redalyc_314964011_ref32-2"
+      },
+      "2015"
+     ],
+     "), Lucía Belloro (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964011_ref4",
+       "id": "t-llamada-redalyc_314964011_ref4-1"
+      },
+      "2021"
+     ],
+     ") y Martín Prestía (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964011_ref27",
+       "id": "t-llamada-redalyc_314964011_ref27-1"
+      },
+      "2018"
+     ],
+     ")."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "En particular en la UBA, el recambio del plantel \r\ndocente vinculado al área de filosofía se observa a partir de 1946 \r\n(momento en el que renuncia Francisco Romero a la cátedra de Gnoseología\r\n y Metafísica, en clara oposición al gobierno y en solidaridad con los \r\ncolegas separados de sus puestos).",
+     [
+      "a",
+      {
+       "href": "#t-fn1",
+       "id": "t-llamada-fn1-1"
+      },
+      [
+       "sup",
+       {},
+       "1"
+      ]
+     ],
+     " Desde entonces, se producen fuertes recambios en el plantel docente de esta universidad (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964011_ref20",
+       "id": "t-llamada-redalyc_314964011_ref20-1"
+      },
+      "Halperín Donghi, 1962"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964011_ref29",
+       "id": "t-llamada-redalyc_314964011_ref29-1"
+      },
+      "Pronko, 1999"
+     ],
+     "),\r\n consolidándose Carlos Astrada como director del Instituto de Filosofía.\r\n Este último no solo se hace cargo de la cátedra que deja vacante \r\nRomero, sino que mejora su posición en cátedras en las que ya se \r\ndesempeñaba –como por ejemplo, concursando y ganando el puesto de \r\ntitular de Historia de la Filosofía Moderna y Contemporánea–,",
+     [
+      "a",
+      {
+       "href": "#t-fn2",
+       "id": "t-llamada-fn2-1"
+      },
+      [
+       "sup",
+       {},
+       "2"
+      ]
+     ],
+     " al tiempo que crea y que asume la dirección de ",
+     [
+      "span",
+      {},
+      "Cuadernos de Filosofía."
+     ],
+     [
+      "a",
+      {
+       "href": "#t-fn3",
+       "id": "t-llamada-fn3-1"
+      },
+      [
+       "sup",
+       {},
+       "3"
+      ]
+     ],
+     "\r\n"
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Entre los profesores que estrechan lazos con Astrada \r\n–tanto en el Instituto de Filosofía como en su órgano de difusión– se \r\nencuentran los profesores Francisco González Ríos y Andrés Mercado Vera,\r\n pero también Rodolfo Agoglia y, desde Tucumán, Luis Farré.",
+     [
+      "a",
+      {
+       "href": "#t-fn4",
+       "id": "t-llamada-fn4-1"
+      },
+      [
+       "sup",
+       {},
+       "4"
+      ]
+     ],
+     "\r\n Además, a raíz del Primer Congreso Nacional de Filosofía (CNF), se \r\nreactiva y se fortalece el vínculo entre Astrada y Coriolano Alberini",
+     [
+      "a",
+      {
+       "href": "#t-fn5",
+       "id": "t-llamada-fn5-1"
+      },
+      [
+       "sup",
+       {},
+       "5"
+      ]
+     ],
+     " (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964011_ref32",
+       "id": "t-llamada-redalyc_314964011_ref32-3"
+      },
+      "Ruvituso, 2015"
+     ],
+     "). Entre otros colaboradores de ",
+     [
+      "span",
+      {},
+      "Cuadernos"
+     ],
+     ",\r\n que ocupan puestos destacados en la Universidad, se encuentran Miguel \r\nÁngel Virasoro, Rafael Virasoro, Luis Juan Guerrero, L. F. García de \r\nOnrubía y José R. Destéfano."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Frente a esta agrupación, entre las figuras que se \r\nmanifiestan en franca oposición al liderazgo de Astrada se encuentran \r\nintelectuales provenientes del sector católico como Octavio Nicolás \r\nDerisi, Hernán Benítez, Juan Ramón Sepich, Tomás Cásares y Héctor \r\nLlambías."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Durante el peronismo, el campo de las revistas de filosofía puede dividirse en publicaciones académicas (como ",
+     [
+      "span",
+      {},
+      [
+       "a",
+       {
+        "href": "#t-redalyc_314964011_ref55",
+        "id": "t-llamada-redalyc_314964011_ref55-1"
+       },
+       "Revista de Filosofía"
+      ]
+     ],
+     ", de la UNLP; ",
+     [
+      "span",
+      {},
+      "Revista de Historia de las Ideas"
+     ],
+     ", de la UNT; ",
+     [
+      "span",
+      {},
+      "Philosophía"
+     ],
+     ", de la UNCuyo; y ",
+     [
+      "span",
+      {},
+      "Arkhé"
+     ],
+     ", de la UNC), extra-académicas laicas (como",
+     [
+      "span",
+      {},
+      [
+       "a",
+       {
+        "href": "#t-redalyc_314964011_ref53",
+        "id": "t-llamada-redalyc_314964011_ref53-1"
+       },
+       "Notas y estudios de Filosofía"
+      ]
+     ],
+     " y ",
+     [
+      "span",
+      {},
+      [
+       "a",
+       {
+        "href": "#t-redalyc_314964011_ref54",
+        "id": "t-llamada-redalyc_314964011_ref54-1"
+       },
+       "Realidad"
+      ]
+     ],
+     ", ambas conducidas por figuras del campo filosófico), y católicas (como ",
+     [
+      "span",
+      {},
+      "Sapientia"
+     ],
+     ", bajo la dirección de Octavio Derisi).",
+     [
+      "a",
+      {
+       "href": "#t-fn6",
+       "id": "t-llamada-fn6-1"
+      },
+      [
+       "sup",
+       {},
+       "6"
+      ]
+     ],
+     "\r\n"
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Asimismo, ",
+     [
+      "span",
+      {},
+      "Cuadernos"
+     ],
+     " \r\ncuenta con contribuciones de importantes contactos de Astrada, tejidos a\r\n lo largo de su trayectoria intelectual, tanto en la Argentina como en \r\nsus viajes de juventud, cuando reside en Colonia y en Friburgo, y se \r\nconvierte en una figura clave entre los discípulos de Max Scheler y de \r\nMartin Heidegger (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964011_ref32",
+       "id": "t-llamada-redalyc_314964011_ref32-4"
+      },
+      "Ruvituso, 2015"
+     ],
+     ").\r\n Entre esos vínculos –que le dan legitimidad internacional– se encuentra\r\n el profesor húngaro (también discípulo de Heidegger) Wilhem Szilasi, \r\nquien le expresa a ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964011_ref65",
+       "id": "t-llamada-redalyc_314964011_ref65-1"
+      },
+      "Astrada (2022)"
+     ],
+     "\r\n que “hace unos días Heidegger dio una conferencia sobre ‘la Cosa’. Sí, \r\nhe hablado con él de usted, le conté que usted y su revista serían \r\nrealmente lo más importante de toda Sudamérica y él me ha pedido que lo \r\nsalude en repetidas oportunidades” (p. 432)."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Asimismo, se suman como colaboradores los filósofos italianos –también intervinientes en el CNF– Nicola Abbagnano,",
+     [
+      "a",
+      {
+       "href": "#t-fn7",
+       "id": "t-llamada-fn7-1"
+      },
+      [
+       "sup",
+       {},
+       "7"
+      ]
+     ],
+     "\r\n Ernesto Grassi y Ugo Spirito, los alemanes Thure von Uexküll y Walter \r\nBruning, y el pensador suizo Gustav E. Müller, entre otros. Sin duda, \r\neste significativo plantel de colaboradores extranjeros revela el \r\nintento de Astrada por convertir ",
+     [
+      "span",
+      {},
+      "Cuadernos"
+     ],
+     " \r\nen un espacio de circulación internacional de las ideas, en la medida en\r\n que habilita intercambios con publicaciones periódicas europeas.",
+     [
+      "a",
+      {
+       "href": "#t-fn8",
+       "id": "t-llamada-fn8-1"
+      },
+      [
+       "sup",
+       {},
+       "8"
+      ]
+     ],
+     "\r\n"
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Al interior de la UBA, ",
+     [
+      "span",
+      {},
+      "Cuadernos"
+     ],
+     " se edita junto con publicaciones previas como ",
+     [
+      "span",
+      {},
+      "Logos"
+     ],
+     " –que se imprime desde 1941– y con otras conducidas por el sector católico, como la antes mencionada ",
+     [
+      "span",
+      {},
+      "Revista de la Universidad de Buenos Aires"
+     ],
+     ".\r\n Además, por entonces, en esta Universidad se imprimen otras revistas de\r\n fuerte perfil internacionalista, que intentan consolidar otros campos \r\ndisciplinarios, tal es el caso de ",
+     [
+      "span",
+      {},
+      "Runa"
+     ],
+     ", editada bajo la dirección de José Imbelloni, entre 1948 y 1955,",
+     [
+      "a",
+      {
+       "href": "#t-fn9",
+       "id": "t-llamada-fn9-1"
+      },
+      [
+       "sup",
+       {},
+       "9"
+      ]
+     ],
+     " desde el Instituto de Antropología (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964011_ref24",
+       "id": "t-llamada-redalyc_314964011_ref24-1"
+      },
+      "Lazzari, 2022"
+     ],
+     ")."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Por fuera de las universidades, el director de",
+     [
+      "span",
+      {},
+      " Cuadernos"
+     ],
+     " establece redes con Marcos Fingerit, director de la revista ",
+     [
+      "span",
+      {},
+      "Cultura. "
+     ],
+     "Allí\r\n no solo publican artículos Astrada y sus colaboradores argentinos, sino\r\n que también se establecen redes de cara a la publicación de trabajos \r\npor parte de intelectuales extranjeros que intervienen también en ",
+     [
+      "span",
+      {},
+      "Cuadernos"
+     ],
+     ". Para consolidar estos vínculos, ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964011_ref65",
+       "id": "t-llamada-redalyc_314964011_ref65-2"
+      },
+      "Astrada (1950 [2022])"
+     ],
+     " le escribe a Fingerit:"
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "\r\n"
+    ],
+    [
+     "p",
+     {},
+     "Recibí ",
+     [
+      "span",
+      {},
+      "Cultura"
+     ],
+     ". Lo \r\nfelicito por su óptima presentación: seria, elegante y sobria. Le auguro\r\n éxito; el que merece. Si le es posible hacerme remitir tres ejemplares,\r\n se lo agradeceré. Quiero hacer llegar uno a Szilasi, otro a Otto \r\nFriedrich Bollnow y el tercero a Thure von Uexküll. Los dos últimos, si \r\nUd. lo desea, podrían colaborar en ",
+     [
+      "span",
+      {},
+      "Cultura"
+     ],
+     " (p .421)."
+    ],
+    "\r\n",
+    [
+     "p",
+     {}
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "En definitiva, a lo largo de sus primeros ocho fascículos, editados bajo la dirección de Astrada, entre 1948 y 1954, ",
+     [
+      "span",
+      {},
+      "Cuadernos"
+     ],
+     "\r\n publica textos filosóficos, traducciones de autores, por entonces muy \r\nconsolidados, y comentarios de libros. De acuerdo a las cartas enviadas \r\npor Astrada al decano de la Facultad de Filosofía y Letras de la UBA, se\r\n trata de una publicación pensada para profesionalizar el campo \r\nfilosófico académico, exponiendo el alto rigor con que llevan a cabo la \r\nlabor filosófica los miembros del Instituto de Filosofía, y los \r\ncolaborares externos, nacionales y extranjeros."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "La historiografía filosófica nacional"
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "\r\n",
+     [
+      "span",
+      {},
+      "Cuadernos"
+     ],
+     " es una de las revistas más destacadas en el marco de profesionalización de los estudios filosóficos en el país.",
+     [
+      "a",
+      {
+       "href": "#t-fn10",
+       "id": "t-llamada-fn10-1"
+      },
+      [
+       "sup",
+       {},
+       "10"
+      ]
+     ],
+     "\r\n En ella se despliegan recepciones de modelos filosóficos centrales como\r\n los propuestos por Martin Heidegger, Georg Wilhelm Friedrich Hegel, Max\r\n Scheler y otros. Aunque son predominantes los trabajos en torno a \r\ntextos, a temas y a autores europeos, estos no son los únicos allí. A lo\r\n largo de la edición de este órgano de difusión, las firmas de los \r\nagentes asociados al Instituto de Filosofía se vuelven centrales entre \r\nlos títulos destacados.",
+     [
+      "a",
+      {
+       "href": "#t-fn11",
+       "id": "t-llamada-fn11-1"
+      },
+      [
+       "sup",
+       {},
+       "11"
+      ]
+     ],
+     " Por ejemplo, el\r\n número 7 –publicado en 1953– cuenta con contribuciones poco usuales en \r\nlas revistas especializadas del período, concentrándose en la historia \r\nde las ideas filosóficas en la Argentina. En esta línea se inscribe el \r\naporte de Alberini, “Génesis y evolución del pensamiento filosófico \r\nargentino” (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964011_ref2",
+       "id": "t-llamada-redalyc_314964011_ref2-1"
+      },
+      "1953"
+     ],
+     "), y el de Luis Farré, “Introducción a ",
+     [
+      "span",
+      {},
+      "Cincuenta años de filosofía en Argentina"
+     ],
+     "” (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964011_ref14",
+       "id": "t-llamada-redalyc_314964011_ref14-1"
+      },
+      "1953"
+     ],
+     "). De hecho, ambos trabajos funcionan respectivamente como prólogo e introducción al libro de Farré titulado ",
+     [
+      "span",
+      {},
+      "Cincuenta años de filosofía en Argentina"
+     ],
+     ",",
+     [
+      "a",
+      {
+       "href": "#t-fn12",
+       "id": "t-llamada-fn12-1"
+      },
+      [
+       "sup",
+       {},
+       "12"
+      ]
+     ],
+     " de modo que ambas intervenciones abordan la historiografía filosófica nacional."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Como observamos en otros escritos, la inclusión de un texto de Alberini en ",
+     [
+      "span",
+      {},
+      "Cuadernos"
+     ],
+     "\r\n puede pensarse como un gesto de inscripción –por parte de Astrada y de \r\nsu grupo– en una tradición filosófica nacional. Si a principios de siglo\r\n la paternidad del campo",
+     [
+      "a",
+      {
+       "href": "#t-fn13",
+       "id": "t-llamada-fn13-1"
+      },
+      [
+       "sup",
+       {},
+       "13"
+      ]
+     ],
+     " se disputa \r\nentre Alejandro Korn y Coriolano Alberini, los reacomodamientos, a la \r\nluz del primer peronismo, pueden leerse como un reordenamiento de redes \r\nde discipulazgo entre figuras con posiciones políticas antagónicas. Así,\r\n mientras Romero hereda la cátedra de su maestro Korn, promoviendo en \r\nsus intervenciones su consolidación en el canon filosófico nacional,",
+     [
+      "a",
+      {
+       "href": "#t-fn14",
+       "id": "t-llamada-fn14-1"
+      },
+      [
+       "sup",
+       {},
+       "14"
+      ]
+     ],
+     "\r\n Astrada parece recurrir a la figura de Alberini, con quien refuerza \r\nlazos filosóficos, políticos y afectivos, que remiten a experiencias de \r\nsociabilidad previas (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964011_ref38",
+       "id": "t-llamada-redalyc_314964011_ref38-1"
+      },
+      "Sosa, 2024"
+     ],
+     ").",
+     [
+      "a",
+      {
+       "href": "#t-fn15",
+       "id": "t-llamada-fn15-1"
+      },
+      [
+       "sup",
+       {},
+       "15"
+      ]
+     ],
+     "\r\n"
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Ahora bien, al momento de escribir su “Prólogo” (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964011_ref2",
+       "id": "t-llamada-redalyc_314964011_ref2-2"
+      },
+      "1953"
+     ],
+     "),\r\n Alberini se encuentra retirado desde hace varios años de su labor como \r\ndocente en la UBA y en la UNLP. Sin embargo, en el contexto de las \r\nactividades vinculadas al CNF –celebrado en Mendoza en 1949–, el \r\nprofesor estrecha lazos con Astrada, para traccionar en favor del sector\r\n laico, que, finalmente, le arrebata la conducción del CNF a los \r\nintelectuales católicos y a Juan Ramón Sepich, en particular (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964011_ref32",
+       "id": "t-llamada-redalyc_314964011_ref32-5"
+      },
+      "Ruvituso, 2015"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964011_ref4",
+       "id": "t-llamada-redalyc_314964011_ref4-2"
+      },
+      "Belloro, 2021"
+     ],
+     ")."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "En un contexto de revinculación de Alberini con la \r\nUBA, por la mediación de Astrada, el antiguo profesor y decano de la \r\nFacultad de Filosofía y Letras es nombrado miembro honorario del \r\nInstituto de Filosofía –hecho que queda registrado en la solapa de ",
+     [
+      "span",
+      {},
+      "Cuadernos"
+     ],
+     "– y el Instituto de Filosofía inicia tareas para adquirir su biblioteca.",
+     [
+      "a",
+      {
+       "href": "#t-fn16",
+       "id": "t-llamada-fn16-1"
+      },
+      [
+       "sup",
+       {},
+       "16"
+      ]
+     ],
+     "\r\n En este sentido, es posible pensar que, en el contexto del primer \r\nperonismo, intelectuales afines al gobierno que permanecen en la \r\nUniversidad apoyan a Alberini, contribuyendo a su confirmación como \r\nfigura de autoridad en el campo filosófico nacional desde diferentes \r\nlugares (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964011_ref38",
+       "id": "t-llamada-redalyc_314964011_ref38-2"
+      },
+      "Sosa, 2024"
+     ],
+     ")."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Entre las funciones que tiene el texto de Alberini, \r\npodemos conjeturar que, por un lado, intenta demostrar, al igual que en \r\nescritos previos, la legitimidad del campo filosófico nacional, teniendo\r\n en cuenta el afianzamiento de una práctica de la filosofía que, desde \r\nsu perspectiva, es fuertemente productiva de cara a la \r\nprofesionalización del campo disciplinario. En este punto, narra una \r\nhistoria en términos de “evolución” y de “maduración”, sobre todo, en la\r\n primera mitad del siglo XX."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Otra de las funciones del texto puede pensarse en \r\nsentido político. Si bien la historiografía filosófica tradicional \r\n–construida por los propios agentes del campo– tiende a despolitizar el \r\nrelato histórico, el texto de ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964011_ref2",
+       "id": "t-llamada-redalyc_314964011_ref2-3"
+      },
+      "Alberini (1953)"
+     ],
+     "\r\n no evade totalmente la cuestión política. De hecho, como señalamos \r\nanteriormente, su relato deja entrever la simpatía hacia la generación \r\nde 1837, por su implicancia tanto en la construcción de la patria como \r\nasí también en su propio contexto político, al tiempo que manifiesta una\r\n valoración positiva del gobierno de Perón, a través del elogio del CNF,\r\n celebrado en 1949 con importante apoyo estatal (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964011_ref38",
+       "id": "t-llamada-redalyc_314964011_ref38-3"
+      },
+      "Sosa, 2024"
+     ],
+     ")."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "El autor muestra la consolidación de un campo \r\ndisciplinario y declara, a la vez, su fe en el futuro de la disciplina \r\nen el país. En este sentido, la intervención busca dar razones para \r\nconfiar en que la filosofía tiende a expandirse, dialogando no solo con \r\nauditorios letrados, sino también con lectorados más amplios.",
+     [
+      "a",
+      {
+       "href": "#t-fn17",
+       "id": "t-llamada-fn17-1"
+      },
+      [
+       "sup",
+       {},
+       "17"
+      ]
+     ],
+     "\r\n"
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "En cuanto al modo en el que ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964011_ref2",
+       "id": "t-llamada-redalyc_314964011_ref2-4"
+      },
+      "Alberini (1953)"
+     ],
+     "\r\n se propone narrar la historia del campo filosófico argentino, es \r\nposible identificar algunas estrategias. Por ejemplo, en el inicio de su\r\n relato, el autor se posiciona como un narrador testigo de los cincuenta\r\n años de filosofía que se propone abordar el libro de Farré. Así, al \r\nrelatar la historia como testigo de lo que denomina “formación del \r\nespíritu filosófico en la Argentina” (p. 7), no deja de insistir en su \r\nrol como como “patriarca cronológico” (p. 7), al tiempo que advierte \r\nacerca de los beneficios y de las dificultades de su vínculo con ese \r\nperíodo histórico. De allí que exprese:"
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "\r\n"
+    ],
+    [
+     "p",
+     {},
+     "[…] por ser yo contemporáneo absoluto del tema, \r\ncorro el riesgo de comprometer la objetividad histórica. Estoy demasiado\r\n cerca de los hechos y podría faltarme perspectiva. Por otra parte, \r\ntiene también sus ventajas. Gozo, por ejemplo, del privilegio de haber \r\nsorprendido a no pocos de nuestros filósofos con las manos en la masa, \r\nespecialmente en los primeros tiempos. No en vano he sido y soy amigo de\r\n la mayoría de nuestros filósofos, surgidos de cincuenta años a esta \r\nparte (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964011_ref2",
+       "id": "t-llamada-redalyc_314964011_ref2-5"
+      },
+      "Alberini, 1953, p. 7"
+     ],
+     ")."
+    ],
+    "\r\n",
+    [
+     "p",
+     {}
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Buscando reivindicar los testimonios como fuente importante para la reconstrucción del relato histórico, ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964011_ref2",
+       "id": "t-llamada-redalyc_314964011_ref2-6"
+      },
+      "Alberini (1953)"
+     ],
+     "\r\n destaca que en la “génesis del espíritu filosófico elevado” (p. 7) un \r\nelemento central es la oralidad, es decir, los diálogos filosóficos que \r\nse llevan a cabo en grupos universitarios de los que él mismo forma \r\nparte. Sobre la importancia de lo que percibe como un comienzo para la \r\ndisciplina, anclado en estos intercambios filosóficos, ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964011_ref2",
+       "id": "t-llamada-redalyc_314964011_ref2-7"
+      },
+      "Alberini (1953)"
+     ],
+     " declara que"
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "\r\n"
+    ],
+    [
+     "p",
+     {},
+     "Tienen mucha importancia las fuentes no \r\ndocumentadas, vale decir, el testimonio de los que actuaron, máxime en \r\nlos comienzos del siglo, cuando todo se reducía a vivaces diálogos entre\r\n muy contadas personas, asistentes a las tertulias celebradas en la \r\nFacultad de Filosofía y Letras de Buenos Aires. Esta pequeña \r\nefervescencia oral tuvo, sin embargo, singular significado. Antes de \r\nescribir, mucho, muchísimo, se habló (p. 8)."
+    ],
+    "\r\n",
+    [
+     "p",
+     {}
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "La reivindicación de su rol como testigo en la construcción del campo filosófico nacional le permite a ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964011_ref2",
+       "id": "t-llamada-redalyc_314964011_ref2-8"
+      },
+      "Alberini (1953)"
+     ],
+     "\r\n posicionarse como patriarca de la disciplina, y, eventualmente, \r\ndisimular una de las debilidades que le solían atribuir sus \r\ncontemporáneos: su poca dedicación a la escritura.",
+     [
+      "a",
+      {
+       "href": "#t-fn18",
+       "id": "t-llamada-fn18-1"
+      },
+      [
+       "sup",
+       {},
+       "18"
+      ]
+     ],
+     " De allí que defienda la validez del relato histórico oral, más allá de los documentos tradicionales:"
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "\r\n"
+    ],
+    [
+     "p",
+     {},
+     "El historiador sabe muchas cosas, todas sobre la \r\nbase de los documentos y de fichas editas, pero la historia sin \r\ndocumentos también es historia. Por eso la obra debe ser completada con \r\nmemorias personales, aun cuando cabe reconocer que el género es \r\npeligroso, pero indispensable. Basta con buena memoria y honradez \r\nmental. De semejante modo humilde, comenzó el sentido filosófico elevado\r\n […] imperfecta y todo, la memoria exacta es también un documento. La \r\ncrítica, en todo caso, pondrá las cosas en su lugar. El historiador \r\ncientífico ignora documentos esenciales y abusa, fatalmente, de la \r\nabstracción y del esquema (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964011_ref2",
+       "id": "t-llamada-redalyc_314964011_ref2-9"
+      },
+      "Alberini, 1953, p. 8"
+     ],
+     ")."
+    ],
+    "\r\n",
+    [
+     "p",
+     {}
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Ahora bien, a partir de este comienzo, anclado en sus experiencias de juventud, ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964011_ref2",
+       "id": "t-llamada-redalyc_314964011_ref2-10"
+      },
+      "Alberini (1953)"
+     ],
+     "\r\n se detiene en grandes etapas de la historia de este campo, con base en \r\ndiversas recepciones filosóficas de algunos modelos teóricos centrales, y\r\n a la vez se centra en anécdotas que cristalizan etapas significativas \r\nde este proceso."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "En efecto, el autor escande cinco períodos, desde la \r\népoca colonial hasta el presente, considerando la escolástica, el \r\niluminismo (vinculado a la época de los procesos de independencia), el \r\nromanticismo (asociado a la generación de 1837), el positivismo (de \r\nfines de siglo XIX) y el “idealismo” que le es contemporáneo (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964011_ref38",
+       "id": "t-llamada-redalyc_314964011_ref38-4"
+      },
+      "Sosa, 2024"
+     ],
+     ").",
+     [
+      "a",
+      {
+       "href": "#t-fn19",
+       "id": "t-llamada-fn19-1"
+      },
+      [
+       "sup",
+       {},
+       "19"
+      ]
+     ],
+     "\r\n En principio, el modelo etapista coincide con el de otros autores \r\nvinculados a la disciplina filosófica, a principios de siglo XX; también\r\n Alejandro Korn, en ",
+     [
+      "span",
+      {},
+      "Influencias filosóficas en la evolución nacional"
+     ],
+     " (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964011_ref21",
+       "id": "t-llamada-redalyc_314964011_ref21-1"
+      },
+      "1940"
+     ],
+     "),",
+     [
+      "a",
+      {
+       "href": "#t-fn29",
+       "id": "t-llamada-fn29-1"
+      },
+      [
+       "sup",
+       {},
+       "20"
+      ]
+     ],
+     " divide en etapas la historia de la disciplina, aunque estas no coincidan plenamente con las propuestas por Alberini (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964011_ref5",
+       "id": "t-llamada-redalyc_314964011_ref5-1"
+      },
+      "Bethencourt, 2020"
+     ],
+     ")."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Otro rasgo destacado en el relato historiográfico de \r\nAlberini es el punto de partida de la práctica de la disciplina, porque \r\npara este autor la filosofía comienza con la colonización, gracias a la \r\ntransmisión de la escolástica. En este punto, Alberini coincide con Korn\r\n y con otros autores que tienden a invisibilizar el componente \r\nfilosófico de las culturas prehispánicas (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964011_ref37",
+       "id": "t-llamada-redalyc_314964011_ref37-1"
+      },
+      "Sosa, 2022"
+     ],
+     ").\r\n Más aun, estos autores confirman y defienden una filosofía centrada en \r\nlos modelos europeos y americanos, con un sesgo marcadamente \r\nanti-indigenista, recuperado por Romero hacia mediados del siglo XX, que\r\n será reevaluado incipientemente por autores como Astrada, sobre todo en\r\n la segunda edición de ",
+     [
+      "span",
+      {},
+      "El mito gaucho"
+     ],
+     " (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964011_ref3",
+       "id": "t-llamada-redalyc_314964011_ref3-1"
+      },
+      "1964"
+     ],
+     "), y por Rodolfo Kusch, su discípulo, a partir de ",
+     [
+      "span",
+      {},
+      "La seducción de la barbarie"
+     ],
+     " (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964011_ref22",
+       "id": "t-llamada-redalyc_314964011_ref22-1"
+      },
+      "1953"
+     ],
+     ") y, sobre todo, de ",
+     [
+      "span",
+      {},
+      "América profunda"
+     ],
+     " (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964011_ref23",
+       "id": "t-llamada-redalyc_314964011_ref23-1"
+      },
+      "1962 [1999]"
+     ],
+     ")."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Si bien el punto de partida, en términos de “etapas”,\r\n es la escolástica, existe en el texto una suerte de segundo comienzo al\r\n que el autor denomina filosofía “en serio”, inscribiéndolo no ya en un \r\npasado remoto, sino más bien reciente. De hecho, él mismo forma parte de\r\n este inicio y lo promueve, en las primeras décadas del siglo XX, cuando\r\n se produce una renovación de los temas, los problemas, los textos y los\r\n autores considerados en la nueva agenda filosófica, fuertemente \r\nvinculados con la recepción del idealismo y el espiritualismo. \r\nCelebrando el éxito del anti-positivismo, ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964011_ref2",
+       "id": "t-llamada-redalyc_314964011_ref2-11"
+      },
+      "Alberini (1953)"
+     ],
+     "\r\n destaca la importancia de la metafísica, la gnoseología y la axiología,\r\n en tanto áreas de la filosofía capaces de potenciar la \r\nprofesionalización disciplinar. Así, su relato se construye sobre la \r\nbase de un binarismo simplificador, en donde el positivismo es pensado \r\ncomo “pobre”, “enfermo”, “endémico” y “frío”, mientras que las \r\nvertientes anti-positivistas –vinculadas a la metafísica– son \r\nconceptualizadas como “vitales”, asociadas a la “luz” y al “calor”."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Esas grandes etapas se combinan con algunos \r\nacontecimientos puntuales, que enfatizan las categorías generales, \r\nentendidos como cristalizaciones de un cambio de época. En este juego de\r\n ángulos y perspectivas históricas, Alberini construye un relato en el \r\nque conecta una mirada “panorámica”, pensada en términos de “etapas”, y \r\nun microanálisis descriptivo de episodios concretos que apuntan a \r\nrespaldar la primera perspectiva, deteniéndose en detalles y en hechos \r\nque parecen apuntar dialécticamente hacia un fin, ligado a la \r\nconsolidación y la autonomía del saber filosófico en el país. Además, \r\nindirectamente, Alberini se autolegitima a través de esa periodización \r\ndialéctica, en la medida en que él mismo aparece formando parte de la \r\njuventud que le da, a la filosofía argentina, un nuevo comienzo, más \r\nauténtico y vocacional que el desplegado por los profesores asociados al\r\n positivismo."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Entre los acontecimientos que se desprenden de este punto de inflexión respecto del “positivismo”, y que forman parte de lo que ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964011_ref2",
+       "id": "t-llamada-redalyc_314964011_ref2-12"
+      },
+      "Alberini (1953)"
+     ],
+     "\r\n denomina “idealismo”, se encuentran varios elementos que dejan entrever\r\n un modo de practicar la filosofía, con rasgos fuertemente marcados. \r\nAsí, por ejemplo, el profesor sostiene:"
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "\r\n"
+    ],
+    [
+     "p",
+     {},
+     "Repudiábamos el positivismo cultivado por filósofos\r\n intermitentes, no sólo por ser filosofía sin problemas, sino porque \r\nfomentaba la pereza de la mentalidad nacional. Nuestro esfuerzo, más \r\nimportante de lo que se cree, era entonces asaz confuso. Pasaron los \r\naños, muchos. Ya podemos ver mejor cuán fecundo fue ese importantísimo \r\nentusiasmo estudiantil para el porvenir de la filosofía argentina, libre\r\n ya de todo diletantismo (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964011_ref2",
+       "id": "t-llamada-redalyc_314964011_ref2-13"
+      },
+      "Alberini, 1953, p. 8"
+     ],
+     ")."
+    ],
+    "\r\n",
+    [
+     "p",
+     {}
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Este relato se ofrece como síntesis entre las grandes\r\n etapas y los pequeños eventos, y, a la vez, pone de relieve su modo de \r\nentender una filosofía “en serio”, como aquella que se opone a la \r\npráctica “intermitente”, y que debe ejercitarse con dedicación \r\nexclusiva. Esto último connota no solo la mayor cantidad de tiempo \r\ndedicado a la disciplina, sino también la mayor rigurosidad en el \r\nanálisis de temas, de textos y de autores específicos, sin perder de \r\nvista el abordaje de cuestiones más amplias, como el compromiso con la \r\n“patria”."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Tal como señala Mauro ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964011_ref11",
+       "id": "t-llamada-redalyc_314964011_ref11-1"
+      },
+      "Donnantuoni Moratto (2014)"
+     ],
+     ",\r\n en los discursos de Alberini gravita la dicotomía entre dos tipos de \r\nintelectuales vinculados a la filosofía: el “diletante” –asociado a los \r\nprofesores positivistas con los que se forma–, que se dedica a la \r\ndisciplina de forma discontinua y de medio tiempo, y el especialista, \r\nque procede de una generación posterior. En este punto, pareciera como \r\nsi ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964011_ref2",
+       "id": "t-llamada-redalyc_314964011_ref2-14"
+      },
+      "Alberini (1953)"
+     ],
+     " reprodujera \r\n–como forma de auto-legitimación– un contrapunto entre la juventud de \r\nprincipios de siglo (cargándola de heroicidad), como la encargada de \r\n“liberar” la filosofía del yugo positivista, y la de los viejos \r\nprofesores positivistas. El contraste generacional, y el modo de \r\ndedicarse a lo que considera como filosofía “prima”, puede verse en las \r\nsiguientes palabras:"
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "\r\n"
+    ],
+    [
+     "p",
+     {},
+     "Ciertos profesores, cuando abandonaron el \r\npositivismo, se limitaron a una incipiente gnoseología, tales como \r\nRodolfo Rivarola, primero, y después Alejandro Korn. No en vano llegaron\r\n tarde a la filosofía. Los jóvenes, en cambio, teníamos desde los \r\ncomienzos, amor a los principios cardinales metafísicos, gnoseológicos y\r\n axiológicos. Nos gustaba la aventura metafísica (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964011_ref2",
+       "id": "t-llamada-redalyc_314964011_ref2-15"
+      },
+      "Alberini, 1953, p. 11"
+     ],
+     ")."
+    ],
+    "\r\n",
+    [
+     "p",
+     {}
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Con estas palabras, ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964011_ref2",
+       "id": "t-llamada-redalyc_314964011_ref2-16"
+      },
+      "Alberini (1953)"
+     ],
+     "\r\n deja entrever la legitimidad de la juventud frente a las generaciones \r\nprevias, visible en la agilidad para apropiarse de modelos teóricos \r\nrelacionados con la metafísica, la gnoseología y la axiología. Esta \r\nrapidez, en la recepción de ideas, parece conferir a la juventud un halo\r\n de autenticidad con el que no cuentan sus predecesores, enfatizando el \r\ncorte generacional, probablemente incentivado por el juvenilismo propio \r\ndel reformismo universitario (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964011_ref39",
+       "id": "t-llamada-redalyc_314964011_ref39-2"
+      },
+      "Terán, 2008"
+     ],
+     ").\r\n Además, construye un relato histórico en el que los jóvenes son los \r\nprotagonistas de la “aventura metafísica”, adquiriendo un rol heroico en\r\n la narrativa sobre los comienzos de la disciplina. En este punto, el \r\nrelato histórico se cruza con la ficción, permitiendo la construcción de\r\n un “nosotros” (los jóvenes anti-positivistas) que, sin tener plena \r\nconciencia del impacto de sus intervenciones, modifican el rumbo del \r\nfilosofar en el país, creando las condiciones para una transformación \r\ndefinitiva de los estudios filosóficos, en donde confluye el perfil \r\nantipositivista con la búsqueda de profesionalización disciplinaria.",
+     [
+      "a",
+      {
+       "href": "#t-fn20",
+       "id": "t-llamada-fn20-1"
+      },
+      [
+       "sup",
+       {},
+       "21"
+      ]
+     ],
+     "\r\n"
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Entre otros aspectos, el prestigio creciente de la filosofía en la academia se presenta, en el discurso se ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964011_ref2",
+       "id": "t-llamada-redalyc_314964011_ref2-17"
+      },
+      "Alberini (1953)"
+     ],
+     ",\r\n como la marca de la “evolución” disciplinar. En este sentido, el autor \r\ndestaca, por ejemplo, episodios relacionados con las universidades \r\nnacionales, en general, y con la UBA, en particular, reivindicando la \r\ncreación de algunas cátedras, incluyendo su lugar de vanguardia asumido \r\nen el debate de ideas filosóficas novedosas, y el rol de los \r\nintelectuales extranjeros, enfatizando, en especial, el papel de José \r\nOrtega y Gasset.",
+     [
+      "a",
+      {
+       "href": "#t-fn21",
+       "id": "t-llamada-fn21-1"
+      },
+      [
+       "sup",
+       {},
+       "22"
+      ]
+     ],
+     "\r\n"
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Aunque Alberini no reflexiona en profundidad sobre la\r\n categoría de “etapa idealista”, deja entrever que esta se presenta como\r\n oposición al “materialismo” positivista, recuperando otro de los \r\nbinomios que atraviesan ese debate. Para el autor, este “idealismo” \r\nconnota “grandeza”, “singularidad”, “auténtica vocación” y “progreso”. \r\nTodos estos aspectos parecen estar respaldados por una multiplicación de\r\n sucesos, que van desde la creación de instituciones filosóficas, o la \r\nproliferación de editoriales, hasta el mayor número de intervenciones en\r\n congresos internacionales, la abundancia de textos filosóficos pensados\r\n para la enseñanza, los viajes intelectuales realizados por profesores, o\r\n la creación de una mayor cantidad de diarios y de revistas de \r\nfilosofía. Incluso la realización del CNF se percibe como cristalización\r\n de un momento de auge para la disciplina (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964011_ref38",
+       "id": "t-llamada-redalyc_314964011_ref38-5"
+      },
+      "Sosa, 2024"
+     ],
+     ").",
+     [
+      "a",
+      {
+       "href": "#t-fn22",
+       "id": "t-llamada-fn22-1"
+      },
+      [
+       "sup",
+       {},
+       "23"
+      ]
+     ],
+     "\r\n"
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Sin embargo, para demostrar la legitimidad y la expansión de la disciplina filosófica en el país, ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964011_ref2",
+       "id": "t-llamada-redalyc_314964011_ref2-18"
+      },
+      "Alberini (1953)"
+     ],
+     "\r\n no se basa en la simple multiplicidad o en la acumulación de hechos, \r\nsino que este proceso también es interpretado en términos cualitativos, \r\npues supone un cambio de perfil. En este sentido, el autor rescata la \r\nidea de “vocación” –como marca de los legítimos profesores de filosofía–\r\n y el compromiso nacional, asumiendo un tono más ensayístico que \r\nacadémico. Además, hacia el final de su texto, el término “evolución” \r\nadquiere el sentido de “progreso”."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "\r\n"
+    ],
+    [
+     "p",
+     {},
+     "Progresó la filosofía en nuestro país, como mucho \r\navanzaron todos los demás valores nacionales, y, también, como es \r\nlógico, el ascenso fuertemente voluntario del pensamiento filosófico, \r\ndirigido por un núcleo de personas fieles a su vocación. Por suerte \r\nlógrese conservar el impulso creador, pues estos estudios suelen \r\ninspirar un interés esporádico más que verdadera y permanente \r\ndedicación. Surgió una juventud capaz de resistir el prestigio de las \r\ncomunes pasiones gruesamente prácticas, esto es, la lucha económica, \r\npolítica, etcétera. Ahora ya se tenía el culto lírico de las grandes \r\npasiones espirituales y, en modo especial, el de la filosofía prima y de\r\n la verdad en sí (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964011_ref2",
+       "id": "t-llamada-redalyc_314964011_ref2-19"
+      },
+      "Alberini, 1953, p. 14"
+     ],
+     ")."
+    ],
+    "\r\n",
+    [
+     "p",
+     {}
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Manteniendo el tono ensayístico, ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964011_ref2",
+       "id": "t-llamada-redalyc_314964011_ref2-20"
+      },
+      "Alberini (1953)"
+     ],
+     "\r\n traza un balance sobre uno de los temas que, con el correr de los años,\r\n se manifiesta como un síntoma del campo filosófico, a saber, la \r\npregunta por la posibilidad de una filosofía argentina y por su \r\n“originalidad” (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964011_ref33",
+       "id": "t-llamada-redalyc_314964011_ref33-1"
+      },
+      "Ruvituso, 2022"
+     ],
+     "). Preguntándose si existe una filosofía argentina, se detiene en las antologías latinoamericanas y declara que estas"
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "\r\n"
+    ],
+    [
+     "p",
+     {},
+     "Prueban el carácter rudimentario del valor \r\nfilosófico de los pensadores de estos países, salvo algunas excepciones.\r\n La originalidad tiene muchas formas, pero, en este caso, no cabe \r\nhablar, precisamente, de novedades fundamentales. De cualquier manera, \r\nse trata de un comienzo indispensable, tal como lo cultivaron esos \r\nbeneméritos precursores (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964011_ref2",
+       "id": "t-llamada-redalyc_314964011_ref2-21"
+      },
+      "Alberini, 1953, p. 15"
+     ],
+     ")."
+    ],
+    "\r\n",
+    [
+     "p",
+     {}
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Más tarde agrega: “Nos atreveríamos a sostener, si \r\nbien se nos comprende, que los más difícil en materia filosófica, puede \r\nestar en la iniciación y no en la originalidad” (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964011_ref2",
+       "id": "t-llamada-redalyc_314964011_ref2-22"
+      },
+      "Alberini, 1953, p. 16"
+     ],
+     ").\r\n En este pasaje, puede entreverse una crítica velada al sector liberal, \r\nsi se considera que hasta entonces estas son figuras provenientes del \r\ngrupo liderado por Romero, quienes atienden a la historia de las ideas \r\nfilosóficas, negando –a veces de forma indirecta– la idea de \r\noriginalidad en la filosofía iberoamericana o latinoamericana. En este \r\nsentido, durante el peronismo, quizá como evasión de la cuestión \r\nnacional, Risieri Frondizi",
+     [
+      "a",
+      {
+       "href": "#t-fn23",
+       "id": "t-llamada-fn23-1"
+      },
+      [
+       "sup",
+       {},
+       "24"
+      ]
+     ],
+     " publica en la revista ",
+     [
+      "span",
+      {},
+      "Realidad"
+     ],
+     " “¿Hay una filosofía iberoamericana?” (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964011_ref17",
+       "id": "t-llamada-redalyc_314964011_ref17-1"
+      },
+      "1948"
+     ],
+     "); Aníbal Sánchez Reulet escribe ",
+     [
+      "span",
+      {},
+      "La Filosofía latinoamericana contemporánea"
+     ],
+     " (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964011_ref35",
+       "id": "t-llamada-redalyc_314964011_ref35-1"
+      },
+      "1949"
+     ],
+     "), y Francisco Romero publica ",
+     [
+      "span",
+      {},
+      "Sobre la filosofía en América"
+     ],
+     " (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964011_ref31",
+       "id": "t-llamada-redalyc_314964011_ref31-1"
+      },
+      "1952"
+     ],
+     ").",
+     [
+      "a",
+      {
+       "href": "#t-fn24",
+       "id": "t-llamada-fn24-1"
+      },
+      [
+       "sup",
+       {},
+       "25"
+      ]
+     ],
+     "\r\n Sus diagnósticos negativos en torno a la cuestión de la originalidad \r\napuntan, en el mejor de los casos, a pensar una filosofía “en” \r\nIberoamérica o Latinoamérica, y no en una filosofía latinoamericana o \r\n“de” Latinoamérica.",
+     [
+      "a",
+      {
+       "href": "#t-fn25",
+       "id": "t-llamada-fn25-1"
+      },
+      [
+       "sup",
+       {},
+       "26"
+      ]
+     ],
+     "\r\n"
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Frente al delicado tema de la originalidad, ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964011_ref2",
+       "id": "t-llamada-redalyc_314964011_ref2-23"
+      },
+      "Alberini (1953)"
+     ],
+     "\r\n no duda en plantear la cuestión en términos nacionales y, desde el \r\ncomienzo, propone la idea de una filosofía argentina. Además, disloca \r\nsutilmente el eje de la cuestión de la originalidad, centrándose en la \r\nimportancia de que en el país haya un “comienzo” para los estudios \r\nfilosóficos profesionales. Como señalamos previamente, la preocupación \r\npor el inicio de la disciplina remite,",
+     [
+      "a",
+      {
+       "href": "#t-fn26",
+       "id": "t-llamada-fn26-1"
+      },
+      [
+       "sup",
+       {},
+       "27"
+      ]
+     ],
+     " \r\nen la primera parte de su intervención, a un pasado reciente heroico, \r\ndesplegado por la juventud a principios del siglo XX, y, hacia el final \r\ndel texto, desemboca en el presente del peronismo y en su proyección \r\nhacia el futuro. Sobre este aspecto, afirma:"
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "\r\n"
+    ],
+    [
+     "p",
+     {},
+     "[…] No tenemos tradición filosófica. Nada más \r\ndifícil que estudiar la filosofía latinoamericana. Antes de 1920, era \r\ntodo un rasgo de verdadero heroísmo dedicarse a esta clase de estudios, \r\ntildados de inútiles. Se impone, pues, crear una tradición. Apenas \r\nempezamos a salir de la colonia filosófica en el sentido espiritual del \r\ntérmino. Lo que se ha hecho durante los últimos años no es sino, en \r\ngeneral, una manera de trasplantar el pensamiento europeo. Hemos estado,\r\n diremos, en pleno esfuerzo exógeno, o sea, de absorción de lo puramente\r\n externo. Solo ahora ese esfuerzo empieza a entreverarse con inquietud \r\nendógena. Así la tradición filosófica argentina será creadora, selectiva\r\n y universal. Más, para ello, habría de ser ante todo espíritu crítico \r\n[…] en medio de tanto incipiente bregar, a veces ingenuo, se ha ido \r\ndestacando, poco a poco, la silueta de un pensamiento filosófico \r\noriginal, muy superior, por cierto, a la producción de las épocas \r\nanteriores. Bien puede afirmarse, pues, que ahora estamos en plena \r\nmadurez filosófica (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964011_ref2",
+       "id": "t-llamada-redalyc_314964011_ref2-24"
+      },
+      "Alberini, 1953, p. 16"
+     ],
+     ")."
+    ],
+    "\r\n",
+    [
+     "p",
+     {}
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Celebrando este estado de madurez de la disciplina, ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964011_ref2",
+       "id": "t-llamada-redalyc_314964011_ref2-25"
+      },
+      "Alberini (1953)"
+     ],
+     "\r\n no solo no encuentra una fractura entre la búsqueda de una filosofía \r\nargentina y la conservación de elementos universales como marca del \r\ndiscurso filosófico, sino que además piensa –quizá por la recepción \r\nactiva del romanticismo– que los elementos universales se refuerzan \r\nsobre la base de los particulares o los nacionales. En este punto, \r\nconsidera que la “cultura filosófica argentina” se fortalece a través \r\ndel talento y la dedicación absoluta de las nuevas generaciones, \r\npermitiendo adelantar que “[…] cabe esperar que algún día el fuego \r\nsagrado de la filosofía argentina alcance esplendor y magnitud \r\nextraordinarios” (pp. 17-18)."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "La propuesta de Luis Farré para una historia de las ideas filosóficas argentinas"
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Luego de la inclusión del trabajo de Alberini, ",
+     [
+      "span",
+      {},
+      "Cuadernos"
+     ],
+     "\r\n cuenta con un aporte de Luis Farré. El vínculo entre Astrada y Farré se\r\n visibiliza en la correspondencia, en donde, desde 1950, el autor de ",
+     [
+      "span",
+      {},
+      "El mito gaucho"
+     ],
+     " (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964011_ref3",
+       "id": "t-llamada-redalyc_314964011_ref3-2"
+      },
+      "1964"
+     ],
+     ") manifiesta su deseo de incorporarlo tanto al ",
+     [
+      "span",
+      {},
+      "staff"
+     ],
+     "\r\n de la revista como al Instituto de Filosofía. Buscando aproximarse al \r\ngrupo de Astrada, Farré (que por entonces vive en Tucumán) solicita \r\nayuda a Alberini, manifestándole: “Astrada desea mi traslado a Buenos \r\nAires […] En realidad yo también lo deseo. Si Ud. puede hacer algo, ya \r\nhablando con Agoglia u otros, le estaría sumamente agradecido. En Buenos\r\n Aires tendría un mayor campo de acción con mis inquietudes culturales” (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964011_ref14",
+       "id": "t-llamada-redalyc_314964011_ref14-2"
+      },
+      "Farré, 1953, p. 39"
+     ],
+     ")."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Farré es de los pocos intelectuales que, en esta \r\netapa, publica en revistas de filosofía que presentan un variado perfil \r\npolítico. Así, por ejemplo, encontramos trabajos en publicaciones \r\nconducidas por intelectuales peronistas como ",
+     [
+      "span",
+      {},
+      "Norte"
+     ],
+     ", antiperonistas como ",
+     [
+      "span",
+      {},
+      "Notas y estudios de filosofía y Realidad"
+     ],
+     ", católicas como la ",
+     [
+      "span",
+      {},
+      "Revista de la Universidad de Buenos Aires"
+     ],
+     " y laicas como ",
+     [
+      "span",
+      {},
+      "Cuadernos de Filosofía"
+     ],
+     ". Sin embargo, ",
+     [
+      "span",
+      {},
+      "Cincuenta años de filosofía en Argentina"
+     ],
+     " (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964011_ref15",
+       "id": "t-llamada-redalyc_314964011_ref15-1"
+      },
+      "1958"
+     ],
+     ") refuerza los compromisos en favor del sector laico, generando hostilidades con los católicos."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Con respecto a los adversarios de su libro, Farré \r\ndeclara que las polémicas se deben a su indiferencia ante las presiones \r\nde colegas para incluir menciones. Sin embargo, el autor defiende la \r\nautonomía de su trabajo respecto de las demandas externas, reconociendo \r\ndesde allí el trabajo de Astrada."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "\r\n"
+    ],
+    [
+     "p",
+     {},
+     "Le concedo mucha extensión en el libro y espero \r\npoder hacerle justicia. Por tratarse de un libro de plena actualidad, sé\r\n que provocará muchas críticas. Algunos han tenido la frescura de \r\nhacerme llegar sugestiones, y hasta amenazas para que los elogie. \r\nNaturalmente, ninguna de estas cosas me moverá de mi primer propósito: \r\nexpresar sinceramente mi opinión, sin compromisos con nadie, y con \r\nninguna escuela. Posiblemente, tendrá muchas apreciaciones discutibles o\r\n equivocadas, pero he procurado escribirlo a plena conciencia (Farré a \r\nAstrada, en ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964011_ref65",
+       "id": "t-llamada-redalyc_314964011_ref65-3"
+      },
+      "Astrada, 2022"
+     ],
+     ", p. 524)."
+    ],
+    "\r\n",
+    [
+     "p",
+     {}
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "En el afán de construir una historia de las ideas \r\nfilosóficas de corte laico, el autor despliega su pensamiento no solo en\r\n intervenciones escritas, sino también de forma oral. Esto se observa, \r\npor ejemplo, en una conferencia dada en la Universidad Nacional de \r\nMendoza, cuyo propósito fue reconstruir algunas hipótesis de su libro. \r\nDe allí que el autor le exprese a Astrada:"
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "\r\n"
+    ],
+    [
+     "p",
+     {},
+     "El 11 de setiembre viajo a Mendoza para dar una \r\nconferencia en la Universidad. El tema que he elegido es: “La \r\nargentinidad en los filósofos argentinos contemporáneos”. Es un tópico \r\nque puede herir muchas susceptibilidades, y de seguro que algunos se \r\nsentirán desagradablemente afectados. Pero conviene despertar \r\ninquietudes, para que se vayan formando un pensamiento filosófico serio \r\n(Farré a Astrada, en ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964011_ref65",
+       "id": "t-llamada-redalyc_314964011_ref65-4"
+      },
+      "Astrada, 2022"
+     ],
+     ", p. 531)."
+    ],
+    "\r\n",
+    [
+     "p",
+     {}
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Ahora bien, la contribución de Farré a ",
+     [
+      "span",
+      {},
+      "Cuadernos"
+     ],
+     "\r\n es significativa si se tiene en cuenta que, a lo largo de su \r\nintervención, no solo intenta establecer diagnósticos sobre el estado \r\ndel campo filosófico nacional, sino también determinar el sentido de ese\r\n quehacer, al tiempo que define su concepción de la filosofía, \r\ndefendiendo un tono programático con respecto a la actitud que deben \r\ntener los filósofos locales. En este sentido, ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964011_ref14",
+       "id": "t-llamada-redalyc_314964011_ref14-3"
+      },
+      "Farré (1953)"
+     ],
+     "\r\n sostiene que la práctica de la filosofía supone sinceridad y búsqueda \r\nde una visión “limpia” (p. 20). Apoyándose en el valor de una actitud \r\ncrítica y en la independencia, defiende la autonomía intelectual, \r\ninsistiendo en mostrar el rechazo a la autoridad –y a cualquier \r\nrepetición automática de ideas– y a cualquier otro tipo de adhesión que \r\nno sea por el estricto “convencimiento”."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Intentando apegarse a un paradigma de objetividad, \r\nmás allá de reconocer las limitaciones de toda interpretación (sobre \r\ntodo, por la cercanía con su objeto de estudio), el autor declara que \r\n–aunque no sabe hasta qué punto podrá lograrlo–, su meta es respaldar \r\nsus juicios desde su “fondo racional”, independizándose de simpatías o \r\nde antipatías previas. De esta forma, oponiéndose a los dogmatismos, \r\ndefiende su posición como aficionado de la filosofía, entendiéndolo como\r\n aquel intelectual dispuesto a aprender."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Al mismo tiempo, ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964011_ref14",
+       "id": "t-llamada-redalyc_314964011_ref14-4"
+      },
+      "Farré (1953)"
+     ],
+     "\r\n reconoce la existencia de “bandos” que tensionan el campo intelectual, \r\nprobablemente, refiriéndose a los antagonismos entre laicos y católicos,\r\n y entre peronistas y antiperonistas. En este punto, ocultando \r\nestratégicamente su afinidad hacia el sector laico, expresa su deseo de \r\n“no tomar partido”, pero a la vez no deja de señalar que existe un \r\nsector que lo apoya, al manifestar:"
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "\r\n"
+    ],
+    [
+     "p",
+     {},
+     "Pueden caer sobre mí dardos de uno y de otro bando.\r\n Esto ya me ha acontecido, aunque no me falta el consuelo de hermosas \r\ncartas que me han animado en la propuesta tarea de ser imparcial e \r\nindependiente, única actitud desde la cual creo que el libro puede tener\r\n algún mérito (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964011_ref14",
+       "id": "t-llamada-redalyc_314964011_ref14-5"
+      },
+      "Farré, 1953, p. 21"
+     ],
+     ")."
+    ],
+    "\r\n",
+    [
+     "p",
+     {}
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "En este sentido, más allá de su intento de mitigar \r\nlas tensiones que atraviesan el campo intelectual, en la intervención de\r\n Farré el conflicto frente a los católicos reaparece de diferentes \r\nformas. Por ejemplo, cuando construye una representación de lo que \r\nconsidera debe ser un filósofo “ideal”, tal representación se despliega \r\npor la vía negativa, ya que el filósofo legítimo se presenta como lo \r\nopuesto al religioso. Esta dicotomía –religión versus filosofía– deja \r\nentrever, indirectamente, su simpatía por el sector laico, por entonces,\r\n fuertemente enfrentado en la UBA al católico, si se consideran las \r\ncríticas de Astrada a los profesores católicos (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964011_ref9",
+       "id": "t-llamada-redalyc_314964011_ref9-2"
+      },
+      "David, 2004"
+     ],
+     ").",
+     [
+      "a",
+      {
+       "href": "#t-fn27",
+       "id": "t-llamada-fn27-1"
+      },
+      [
+       "sup",
+       {},
+       "28"
+      ]
+     ],
+     " En sintonía con respecto al anticlericalismo astradiano, ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964011_ref14",
+       "id": "t-llamada-redalyc_314964011_ref14-6"
+      },
+      "Farré (1953)"
+     ],
+     "\r\n sostiene que el filósofo connota “valor”, “virilidad” y capacidad de \r\nafrontar dificultades, mientras que el arquetipo del religioso es \r\npensado con la imagen de un “niño mimado”, que busca refugio en la fe, \r\npersonificada en una madre protectora. En este sentido, con tono \r\naleccionador, advierte:"
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "\r\n"
+    ],
+    [
+     "p",
+     {},
+     "Que no se comporte como un niño mimado que se \r\nabraza a una madre cariñosa en cuyo regazo encuentra calor y nutrición; \r\nque como varón salga a la palestra y se las tenga con los presuntos \r\nendriagos. Naturalmente que se dedica a la filosofía para consolarse, no\r\n le convienen tales arrebatos; pero entonces que se consagre a la vida \r\nmística, y renuncie a la gloria de ser considerado filósofo (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964011_ref14",
+       "id": "t-llamada-redalyc_314964011_ref14-7"
+      },
+      "Farré, 1953, p. 24"
+     ],
+     ")."
+    ],
+    "\r\n",
+    [
+     "p",
+     {}
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Es probable que los numerosos ataques contra el \r\nsector católico provengan de su reacción ante los comentarios suscitados\r\n en la revista ",
+     [
+      "span",
+      {},
+      "Sapientia"
+     ],
+     ", en donde M. N. Torres denuncia a Farré como opositor de los intelectuales tomistas más radicalizados.",
+     [
+      "a",
+      {
+       "href": "#t-fn28",
+       "id": "t-llamada-fn28-1"
+      },
+      [
+       "sup",
+       {},
+       "29"
+      ]
+     ],
+     "\r\n Incluso, esta tensión con el espectro clerical se confirma en la \r\ncorrespondencia entre Farré y Astrada, cuando el primero manifiesta su \r\nmalestar:"
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "\r\n"
+    ],
+    [
+     "p",
+     {},
+     "Por otra parte, habrá leído en ",
+     [
+      "span",
+      {},
+      "Sapientia "
+     ],
+     "cómo me tratan; naturalmente que hay críticas que resultan un elogio. Y creo que ",
+     [
+      "span",
+      {},
+      "Sapientia"
+     ],
+     "\r\n me ha hecho un favor. Cuando aparezca el libro, los tomistas se van a \r\nponer furiosos, pues los conozco demasiado para que me calle la falta de\r\n auténtico espíritu filosófico en la mayoría de los que, en nuestro \r\npaís, creen hacer filosofía con sinceridad (Farré a Astrada, en ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964011_ref65",
+       "id": "t-llamada-redalyc_314964011_ref65-5"
+      },
+      "Astrada, 2022"
+     ],
+     ", p. 467)."
+    ],
+    "\r\n",
+    [
+     "p",
+     {}
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Frente a esta situación con los católicos, Farré alienta a Astrada a llevar adelante la revista ",
+     [
+      "span",
+      {},
+      "Cuadernos"
+     ],
+     ", manifestando: “[…] si mis palabras pueden servir para algo me atrevería a pedirle que siga adelante con ",
+     [
+      "span",
+      {},
+      "Cuadernos de Filosofía"
+     ],
+     ".\r\n No tenemos que cejar en sostener la autenticidad filosófica contra los \r\nque de continuo trabajan para imponernos una determinada doctrina” \r\n(Farré a Astrada, en ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964011_ref65",
+       "id": "t-llamada-redalyc_314964011_ref65-6"
+      },
+      "Astrada, 2022"
+     ],
+     ", pp. 467-468)."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Sin embargo, en su texto, ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964011_ref14",
+       "id": "t-llamada-redalyc_314964011_ref14-8"
+      },
+      "Farré (1953)"
+     ],
+     "\r\n no solo se enfrenta al sector católico, sino que además aborda temas \r\nsensibles para los intelectuales liberales, quienes denuncian, por \r\nentonces, la falta de libertad que el gobierno impone sobre su labor \r\nintelectual. Ante estas impugnaciones, ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964011_ref14",
+       "id": "t-llamada-redalyc_314964011_ref14-9"
+      },
+      "Farré (1953)"
+     ],
+     "\r\n declara: “[…] felizmente en Argentina se ha filosofado bajo el signo de\r\n la libertad; y la intransigencia ha sido solo fruto esporádico y \r\nextraño” (p. 24)."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Por otra parte, el autor reflexiona sobre las \r\ntradiciones filosóficas, intentando que lo que parece ser una carencia \r\n(a menudo juzgada negativamente, en otras publicaciones de la época de \r\nperfil liberal) adquiera un valor positivo. En este sentido, en clara \r\ncoincidencia con Alberini, ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964011_ref14",
+       "id": "t-llamada-redalyc_314964011_ref14-10"
+      },
+      "Farré (1953)"
+     ],
+     "\r\n considera que, ante la falta de una sólida tradición, existen muchas \r\noportunidades para la filosofía local; además, prolonga la crítica al \r\npositivismo, añadiendo la desestimación de la escolástica. De hecho, \r\nambas corrientes son presentadas como parte de una imposición de ideas, \r\ny, por ende, como opuestas a su concepción de una filosofía crítica y \r\nautónoma. Por eso declara:"
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "\r\n"
+    ],
+    [
+     "p",
+     {},
+     "Tal vez sea una suerte que carezcamos de sólida \r\ntradición en el particular, pues, como en campo casi virgen, se disputan\r\n preferencia las más diversas tendencias. Hasta ahora han fracasado y \r\nojalá que fracasen siempre, los intentos de querer imponer determinados \r\nsistemas en nuestros altos centros de estudios. Lo pretendieron algunos \r\npositivistas y escolásticos; pero tropezaron con personas que defendían \r\nsu derecho a ser filósofos. La luz sale de la lucha; y la verdad, si \r\nalguien cree haberla encontrado, que la imponga con buenos argumentos (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964011_ref14",
+       "id": "t-llamada-redalyc_314964011_ref14-11"
+      },
+      "Farré, 1953, p. 24"
+     ],
+     ")."
+    ],
+    "\r\n",
+    [
+     "p",
+     {}
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Asimismo, entre los objetivos destaca también no solo\r\n la “contemplación” de las ideas, sino la posibilidad de abrir debates. \r\nDe allí que, con un tono imperativo, el autor exprese la necesidad de \r\nintervenir en el campo filosófico, usando expresiones residuales del \r\ndebate antipositivista, tales como “reacción” y “vitalidad”, como ejes \r\npara mantener la dinámica del pensamiento filosófico (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964011_ref11",
+       "id": "t-llamada-redalyc_314964011_ref11-2"
+      },
+      "Donnantuoni Moratto, 2014"
+     ],
+     ").\r\n Sobre este punto, el autor sentencia: “Debemos reaccionar, expresarnos \r\nvitalmente. Es una dialéctica interminable que, fiel a lo presente, se \r\nmueve hacia el futuro […]. Una filosofía que nunca se termine, porque el\r\n día que se detenga anquilosada, estará muy próxima a la muerte (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964011_ref14",
+       "id": "t-llamada-redalyc_314964011_ref14-12"
+      },
+      "Farré, 1953, p. 25"
+     ],
+     ")."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "En la segunda parte de su texto, impresa en 1958, ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964011_ref14",
+       "id": "t-llamada-redalyc_314964011_ref14-13"
+      },
+      "Farré (1953)"
+     ],
+     "\r\n introduce elementos autobiográficos, incorporando datos sobre su \r\nformación, sus inclinaciones, sus preferencias y sus simpatías, como \r\ntambién sus disidencias con “ciertas formas de pensamiento” (p. 29). En \r\nesta reformulación, destaca algunos intereses filosóficos de su \r\njuventud, por ejemplo de la época en la que se dedicaba a estudiar \r\nfilosofía clásica, y las filosofías contemporáneas vinculadas al \r\nexistencialismo."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "\r\n"
+    ],
+    [
+     "p",
+     {},
+     "En artículos y estudios que he dedicado al \r\nexistencialismo y otras tendencias actuales, sin negar originalidad \r\ndonde parece que ella exista, he querido sobre todo ver en qué medida \r\nreflejan las ideas de autores menos estudiados por los fanáticos de lo \r\nmoderno. Así he podido contemplar la filosofía, como una continuidad \r\njamás interrumpida, con ideas que predominan en una determinada época, \r\nocasionalmente oscurecidas, para volver a resurgir en un período \r\nposterior (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964011_ref15",
+       "id": "t-llamada-redalyc_314964011_ref15-2"
+      },
+      "Farré, 1958, p. 32"
+     ],
+     ")."
+    ],
+    "\r\n",
+    [
+     "p",
+     {}
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Frente a los debates existencialistas emergentes en \r\nel campo filosófico local durante el peronismo el autor parece tomar \r\ndistancia, defendiendo un espiritualismo cercano al propuesto por \r\nAlberini, que lo lleva evaluar positivamente lo que define como \r\n“trascendentalismo intelectual y moral”, en relación con una \r\nespiritualidad moderada que anhela la “eternidad” o la “trascendencia”, \r\nevadiendo las polarizaciones existencialistas entre sartreanos y \r\nheideggerianos. En este punto, declara:"
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "\r\n"
+    ],
+    [
+     "p",
+     {},
+     "Me desagrada instintivamente una filosofía, si es \r\nque puede denominarse tal, que se demora y queda en la finitud. Es, a mi\r\n parecer, un pensamiento inconcluso, que se niega a someterse a los \r\nriesgos intelectuales que supone la auténtica meditación metafísica. No \r\nnegaré que hay valiosos aportes en las reflexiones de los positivistas y\r\n existencialistas de la temporalidad; pero me parece que, sin razón que \r\nlo justifique, se han quedado muy ahí, sin entrar en profundidades (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964011_ref15",
+       "id": "t-llamada-redalyc_314964011_ref15-3"
+      },
+      "Farré, 1958, p. 34"
+     ],
+     ")."
+    ],
+    "\r\n",
+    [
+     "p",
+     {}
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Por otra parte, un tema clave es el recorte temporal \r\npropuesto por Farré. Al seleccionar los primeros cincuenta años de \r\nfilosofía en la Argentina, indirectamente deja entrever su coincidencia \r\ncon el diagnóstico de “comienzo” propuesto por Alberini, autor para \r\nquien, como vimos, la filosofía comienza a desplegarse “en serio” a \r\npartir de las primeras siglo XX, cuando la juventud interpela a los \r\nprofesores positivistas en la UBA."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Prolongando análisis previos, tanto de Korn como de \r\nAlberini, Farré adjudica la falta de desarrollo de una filosofía en el \r\npaís a que se trata de una nación “joven”, lo cual obliga a los \r\npensadores del siglo XIX a dedicar gran parte de su tiempo a resolver \r\ncuestiones políticas, económicas y pedagógicas urgentes, y a posponer el\r\n desarrollo de un pensamiento especulativo. Asimismo, coincidiendo con \r\nla historiografía desplegada por Alberini, ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964011_ref15",
+       "id": "t-llamada-redalyc_314964011_ref15-4"
+      },
+      "Farré (1958)"
+     ],
+     "\r\n sentencia: “Agréguese a ello que Europa, continente que adoptaron como \r\nmodelo, fue muy pobre en ideas durante los últimos decenios del siglo \r\nXIX. Predominaba un positivismo práctico, casero, inclinado hacia los \r\nbienes de la tierra, sin arrastres metafísicos” (p. 34). Asimismo, en un\r\n claro gesto de confrontación de los enfoques que tienden desvalorizar \r\nlos desarrollos filosóficos locales, realiza una defensa de la historia \r\nde las ideas argentinas, celebrando el impulso filosófico desplegado en \r\nel siglo XX."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "\r\n"
+    ],
+    [
+     "p",
+     {},
+     "Solo en nuestra época hase despertado en Argentina \r\nuna preocupación directa por la filosofía… No me toca ahora hacer su \r\napología ni su defensa; aunque se ha dicho en demasía que no somos sino \r\nun trasunto y reflejo de lo que se enseña o piensa en Europa. De todas \r\nmaneras no se nos podrá negar que aquí ha habido diversidad y \r\nmultiplicidad de tendencias y libertad de selección, pues que \r\ngenerosamente se han abierto las puertas a todas las ideologías, \r\nconfiados en que el buen criterio sabría elegir y estructurar. Creo que \r\nlas esperanzas no han resultado fallidas. Ha habido lugar para el \r\ndiálogo filosófico que es mucho más eficaz y fructífero, si supone \r\ndisidencia y divergencia. Y no se ha permitido que se durmieran en los \r\nlaureles los que se consideraban poseedores de una filosofía perenne (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964011_ref14",
+       "id": "t-llamada-redalyc_314964011_ref14-14"
+      },
+      "Farré, 1953, p. 26"
+     ],
+     ")."
+    ],
+    "\r\n",
+    [
+     "p",
+     {}
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Ahora bien, tal como señalamos previamente, entre el artículo publicado en ",
+     [
+      "span",
+      {},
+      "Cuadernos "
+     ],
+     "y\r\n la publicación del libro de Farré transcurren varios años. De hecho, el\r\n texto incluido en la revista es modificado cuando se publica como \r\n“Introducción”. En esta última, el autor incluye una serie de párrafos \r\nen los que apunta algunas ideas sobre su relato historiográfico, \r\ndestacando nuevamente la necesidad de no centrarse tanto en la vida de \r\nlos filósofos abordados, y poniendo en valor el hecho de que algunas de \r\nlas figuras tratadas meditaron sobre la “realidad argentina”."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Aunque Farré prolonga la tradición antipositivista, \r\nespiritualista, anticlerical y nacionalista, insiste en señalar que su \r\ntrabajo descansa en el contacto con las fuentes, sin mediaciones de \r\notros intérpretes. Es probable que esta insistencia en su autonomía \r\nrespecto de tradiciones previas le permita evadir las críticas de sus \r\nadversarios, aunque no deja de manifestar su agradecimiento para con \r\nAlberini, reconociéndolo como maestro y como figura clave en la lucha \r\ncontra el positivismo."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "\r\n"
+    ],
+    [
+     "p",
+     {},
+     "Quiero finalmente expresar mi gratitud al doctor \r\nCoriolano Alberini, que ha tenido la amabilidad de prologar mi libro. \r\nNinguna firma de mayor prestigio para ello, pues el doctor Alberini no \r\nsólo es pensador profundo e ínclito maestro, sino un entusiasta \r\nprotector de la empresa filosófica. Además, es quien mejor conoce la \r\népoca que reseño, pues participó activamente en la lucha contra el \r\npositivismo. Pude hoy ver, y espero que este libro ayude a comprobarlo, \r\nque aquellos esfuerzos no resultaron vanos, pues tenemos un pensamiento \r\nfilosófico más libre, más amplio, más hondo y más espiritual (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964011_ref15",
+       "id": "t-llamada-redalyc_314964011_ref15-5"
+      },
+      "Farré, 1958, p. 39"
+     ],
+     ")."
+    ],
+    "\r\n",
+    [
+     "p",
+     {}
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Así, frente a una tradición que tiende a pensar a \r\nKorn como padre de la disciplina en la Argentina, colocándolo en el \r\ngrupo de los “fundadores”, Alberini se posiciona como maestro para una \r\nhistoriografía filosófica nacional que tiende a ganar relevancia en la \r\nsegunda mitad del siglo XX."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Este gesto de reubicarlo como referente en los \r\nestudios historiográficos se consolida en la década de 1960, por \r\nejemplo, con las contribuciones de Rodolfo Agoglia –discípulo de Astrada\r\n y de Alberini–, quien le dedica un texto titulado “Coriolano Alberini \r\nen la cultura y el pensamiento argentinos” (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964011_ref1",
+       "id": "t-llamada-redalyc_314964011_ref1-1"
+      },
+      "1963"
+     ],
+     "); con Diego Pró, que edita sus trabajos historiográficos y su epistolario, además de escribir una obra titulada ",
+     [
+      "span",
+      {},
+      "Coriolano Alberini "
+     ],
+     "(",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964011_ref28",
+       "id": "t-llamada-redalyc_314964011_ref28-1"
+      },
+      "1960"
+     ],
+     "),\r\n y también con Arturo Roig, quien le concede un lugar central en sus \r\nreflexiones, escribiendo trabajos como “El concepto de ‘Historia de las \r\nideas’ en Coriolano Alberini” (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964011_ref30",
+       "id": "t-llamada-redalyc_314964011_ref30-1"
+      },
+      "1968"
+     ],
+     ")."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Sin embargo, la tarea de continuar pensando una \r\nhistoria de las ideas filosóficas argentinas no se agota en los trabajos\r\n arriba mencionados. Por el contrario, se prolonga en la segunda mitad \r\ndel siglo XX, cuando aparecen ambiciosas propuestas de historización, \r\ndesplegadas por autores de diferentes perfiles político-filosóficos. \r\nAsí, por ejemplo, mientras en una línea afín al sector liberal, Juan \r\nCarlos Torchia Estrada escribe ",
+     [
+      "span",
+      {},
+      "La filosofía en Argentina "
+     ],
+     "(",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964011_ref40",
+       "id": "t-llamada-redalyc_314964011_ref40-1"
+      },
+      "1961"
+     ],
+     "), publicado por la Unión Panamericana, y Juan Adolfo Vázquez compila la ",
+     [
+      "span",
+      {},
+      "Antología filosófica argentina del siglo XX "
+     ],
+     "(",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964011_ref41",
+       "id": "t-llamada-redalyc_314964011_ref41-1"
+      },
+      "1965"
+     ],
+     "), desde el espectro católico Alberto Caturelli escribe ",
+     [
+      "span",
+      {},
+      "La filosofía en la Argentina actual"
+     ],
+     " (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964011_ref6",
+       "id": "t-llamada-redalyc_314964011_ref6-1"
+      },
+      "1962 [1972]"
+     ],
+     "), ",
+     [
+      "span",
+      {},
+      "Presente y futuro de la filosofía argentina"
+     ],
+     " (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964011_ref7",
+       "id": "t-llamada-redalyc_314964011_ref7-1"
+      },
+      "1972"
+     ],
+     ") y, más tarde, una extensa obra titulada ",
+     [
+      "span",
+      {},
+      "Historia de la Filosofía en Argentina (1600-2000)"
+     ],
+     " (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964011_ref8",
+       "id": "t-llamada-redalyc_314964011_ref8-1"
+      },
+      "2001"
+     ],
+     ")."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Consideraciones finales"
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Los editores de ",
+     [
+      "span",
+      {},
+      "Cuadernos "
+     ],
+     "llevan\r\n a cabo un importante proyecto de circulación internacional de las \r\nideas, realizado por figuras clave del campo académico de este período \r\ncomo Astrada, González Ríos y Mercado Vera, quienes por entonces \r\nintentan mantener un proceso de profesionalización disciplinaria, desde \r\nel Instituto de Filosofía de la UBA."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "La agrupación de ",
+     [
+      "span",
+      {},
+      "Cuadernos "
+     ],
+     "cuenta\r\n con el apoyo de buena parte del plantel docente de la carrera de \r\nFilosofía de la UBA, y con redes internacionales trazadas por el editor,\r\n tanto en viajes como en el CNF, asegurando así el rigor y la calidad \r\ndel material editado en la revista."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Con respecto a los aportes historiográficos difundidos en",
+     [
+      "span",
+      {},
+      " Cuadernos"
+     ],
+     ",\r\n aunque no sean centrales, resultan significativos, sobre todo, si se \r\nconsidera que en esta etapa la historia de las ideas filosóficas en el \r\npaís no es abordada en otras publicaciones especializadas (como ",
+     [
+      "span",
+      {},
+      "Notas y estudios de Filosofía"
+     ],
+     ", o la ",
+     [
+      "span",
+      {},
+      "Revista de Filosofía"
+     ],
+     ",\r\n que evaden la cuestión nacional, centrándose en la dimensión \r\nlatinoamericana). Frente a estas publicaciones, los aportes de Luis \r\nFarré y de Coriolano Alberini sitúan a ",
+     [
+      "span",
+      {},
+      "Cuadernos "
+     ],
+     "como\r\n una publicación en la que prevalece una historiografía filosófica \r\nanti-positivista, laica y nacionalista. Desde esta perspectiva, se \r\nconstruye un nuevo “comienzo” para la filosofía, ya no centrado en la \r\nColonia sino en los inicios del siglo XX, para legitimar, además, la \r\nobra de Alberini, hasta entonces, menos difundida que la de Korn, desde \r\nun punto de vista que se consolidará en los estudios historiográficos \r\nposteriores."
+    ],
+    "\r\n"
+   ],
+   "\r\n",
+   [
+    "span",
+    {
+     "id": "t-back"
+    },
+    "\r\n",
+    [
+     "p",
+     {},
+     "Referencias"
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964011_ref1"
+     },
+     "Agoglia, R. (1963). Coriolano Alberini en la cultura y el pensamiento argentinos. ",
+     [
+      "span",
+      {},
+      "Revista de Filosofía"
+     ],
+     ", (12-13), 75-82."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964011_ref60"
+     },
+     "Alberini, C. (1921). Introducción a la axiogenia. ",
+     [
+      "span",
+      {},
+      "Humanidades"
+     ],
+     ", (1), 107-149."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964011_ref2"
+     },
+     "Alberini, C. (1953). Génesis y evolución del pensamiento filosófico argentino. ",
+     [
+      "span",
+      {},
+      "Cuadernos de Filosofía"
+     ],
+     ", (7), 7-18."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964011_ref61"
+     },
+     "Alberini, C. (1981). ",
+     [
+      "span",
+      {},
+      "Epistolario. Tomo II"
+     ],
+     ". Universidad Nacional de Cuyo."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964011_ref3"
+     },
+     "Astrada, C. (1964). ",
+     [
+      "span",
+      {},
+      "El mito gaucho"
+     ],
+     ". Cruz del sur."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964011_ref65"
+     },
+     "Astrada, C. (2022). ",
+     [
+      "span",
+      {},
+      "Epistolario"
+     ],
+     ". Introducción y notas de Martín Prestía. Tomos I y II. Biblioteca Nacional Mariano Moreno."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964011_ref4",
+      "lang": "fr"
+     },
+     "Belloro, L. (2021). ",
+     [
+      "span",
+      {},
+      "Intellectuels et philosophes dans l’Argentine péroniste"
+     ],
+     ". Chrysalides."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964011_ref5"
+     },
+     "Bethencourt, V. \r\n(2020). ¿Qué es la ilustración? Un análisis en la historiografía de la \r\nfilosofía: los casos de Alejandro Korn y Coriolano Alberini. En ",
+     [
+      "span",
+      {},
+      "Filosofía e Historia de la Ciencia del Cono Sur, Selección de trabajos del XI Encuentro de Filosofía e Historia de la Ciencia"
+     ],
+     " (pp. 91-101). Afhic."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964011_ref6"
+     },
+     "Caturelli, A. (1972).",
+     [
+      "span",
+      {},
+      " La filosofía en la Argentina actual."
+     ],
+     " Sudamericana. (Trabajo original publicado en 1962)."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964011_ref7"
+     },
+     "Caturelli, A. (1972). ",
+     [
+      "span",
+      {},
+      "Presente y futuro de la filosofía en Argentina"
+     ],
+     ". Universidad Nacional de Córdoba."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964011_ref8"
+     },
+     "Caturelli, A. (2001). ",
+     [
+      "span",
+      {},
+      "Historia de la filosofía argentina (1600-2000)."
+     ],
+     " Universidad del Salvador."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964011_ref62"
+     },
+     "Coviello, A. (1941). La influencia de Bergson en América. ",
+     [
+      "span",
+      {},
+      "Sustancia. Revista de cultura superior"
+     ],
+     ", (7-8), 375-393."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964011_ref9"
+     },
+     "David, G. (2004). ",
+     [
+      "span",
+      {},
+      "Carlos Astrada. La filosofía argentina"
+     ],
+     ". El cielo por asalto."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964011_ref10"
+     },
+     "David, G. (2014). Los ",
+     [
+      "span",
+      {},
+      "Cuadernos de filosofía"
+     ],
+     " y la modernización filosófica. En G. Korn y C. Panella (Coords.), ",
+     [
+      "span",
+      {},
+      "Ideas y debates para la nueva Argentina "
+     ],
+     "(pp. 171-180). EPC."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964011_ref11"
+     },
+     "Donnantuoni Moratto, M. (2014). El antipositivismo y la formación de un nuevo discurso filosófico en Coriolano Alberini.",
+     [
+      "span",
+      {},
+      " Revista de Filosofía y Teoría Política"
+     ],
+     ", (45). ",
+     [
+      "a",
+      {
+       "href": "https://www.rfytp.fahce.unlp.edu.ar/article/view/RFyTPn45a01"
+      },
+      "https://www.rfytp.fahce.unlp.edu.ar/article/view/RFyTPn45a01"
+     ],
+     "\r\n"
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964011_ref12"
+     },
+     "Donnantuoni Moratto, M. (2016). La categoría de “normalidad filosófica” en Francisco Romero y su dimensión histórica. ",
+     [
+      "span",
+      {},
+      "Cuyo. Anuario de filosofía argentina y americana"
+     ],
+     ", (33), 93-115. ",
+     [
+      "a",
+      {
+       "href": "https://revistas.uncu.edu.ar/ojs3/index.php/anuariocuyo/article/view/2134"
+      },
+      "https://revistas.uncu.edu.ar/ojs3/index.php/anuariocuyo/article/view/2134"
+     ],
+     "\r\n"
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964011_ref13"
+     },
+     "Fares, C. (2021). Los itinerarios de un clérigo intelectual. Juan Ramón Sepich Lange y las modulaciones del hispanismo. ",
+     [
+      "span",
+      {},
+      "Estudios de Filosofía Práctica e Historia de las Ideas"
+     ],
+     ", (23). ",
+     [
+      "a",
+      {
+       "href": "https://qellqasqa.com.ar/ojs/index.php/estudios/article/view/433"
+      },
+      "https://qellqasqa.com.ar/ojs/index.php/estudios/article/view/433"
+     ],
+     "\r\n"
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964011_ref14"
+     },
+     "Farré, L. (1953). Cincuenta años de filosofía en Argentina. ",
+     [
+      "span",
+      {},
+      "Cuadernos de Filosofía"
+     ],
+     ", (7), 19-26."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964011_ref15"
+     },
+     "Farré, L. (1958). ",
+     [
+      "span",
+      {},
+      "Cincuenta años de filosofía en Argentina"
+     ],
+     ". Peuser."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964011_ref16"
+     },
+     "Fiorucci, F. (2011). ",
+     [
+      "span",
+      {},
+      "Intelectuales y peronismo, 1945-1955"
+     ],
+     ". Biblós."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964011_ref17"
+     },
+     "Frondizi, R. (1948). ¿Hay una filosofía iberoamericana?",
+     [
+      "span",
+      {},
+      "Realidad. Revista de ideas"
+     ],
+     ", (8), 158-170. ",
+     [
+      "a",
+      {
+       "href": "https://ahira.com.ar/ejemplares/realidad-no-8"
+      },
+      "https://ahira.com.ar/ejemplares/realidad-no-8"
+     ],
+     "/"
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964011_ref18"
+     },
+     "Gabrielides de Luna, A. (1980). ",
+     [
+      "span",
+      {},
+      "El pensamiento del Doctor Luis Farré"
+     ],
+     ". Universidad Nacional de Cuyo."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964011_ref19"
+     },
+     "Galfione, C. (2021). Variaciones sobre un canon: En torno al comienzo de la filosofía. ",
+     [
+      "span",
+      {},
+      "Estudios de Filosofía práctica e Historia de las ideas"
+     ],
+     ", (23), 1-16. ",
+     [
+      "a",
+      {
+       "href": "https://qellqasqa.com.ar/ojs/index.php/estudios/article/view/434"
+      },
+      "https://qellqasqa.com.ar/ojs/index.php/estudios/article/view/434"
+     ],
+     "\r\n"
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964011_ref20"
+     },
+     "Halperín Donghi, T. (1962). ",
+     [
+      "span",
+      {},
+      "Historia de la Universidad de Buenos Aires"
+     ],
+     ". Eudeba."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964011_ref21"
+     },
+     "Korn, A. (1940). ",
+     [
+      "span",
+      {},
+      "Influencias filosóficas en la evolución nacional"
+     ],
+     ". Universidad Nacional de La Plata."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964011_ref22"
+     },
+     "Kusch, R. (1953). ",
+     [
+      "span",
+      {},
+      "La seducción de la barbarie"
+     ],
+     ". Raigal."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964011_ref23"
+     },
+     "Kusch, R. (1999). ",
+     [
+      "span",
+      {},
+      "América profunda"
+     ],
+     ". Biblos. (Trabajo original publicado en 1962)."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964011_ref24"
+     },
+     "Lazzari, A. (2022). “Una gran revista mundial”. ",
+     [
+      "span",
+      {},
+      "Runa"
+     ],
+     " y las prácticas de internacionalización de la Antropología argentina en tiempos de nacionalismo peronista (1948-1955). ",
+     [
+      "span",
+      {},
+      "RUNA, Archivo para las Ciencias del Hombre, 43"
+     ],
+     "(3), 99-140. ",
+     [
+      "a",
+      {
+       "href": "https://doi.org/10.34096/runa.v43i3.8711"
+      },
+      "https://doi.org/10.34096/runa.v43i3.8711"
+     ],
+     "\r\n"
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964011_ref25"
+     },
+     "Mailhe, A. (2017). José Imbelloni y la formación de un lectorado americanistas. ",
+     [
+      "span",
+      {},
+      "Prismas, 22"
+     ],
+     "(1), 75-95. ",
+     [
+      "a",
+      {
+       "href": "https://prismas.unq.edu.ar/OJS/index.php/Prismas/article/view/Mailhe_prismas22"
+      },
+      "https://prismas.unq.edu.ar/OJS/index.php/Prismas/article/view/Mailhe_prismas22"
+     ],
+     "\r\n"
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964011_ref26"
+     },
+     "Oviedo, G. (2005). \r\nHistoria autóctona de las ideas filosóficas y autonomismo intelectual: \r\nsobre las herencias argentinas del siglo XX. En ",
+     [
+      "span",
+      {},
+      "La Biblioteca. ¿Existe una filosofía argentina?"
+     ],
+     " (pp. 86-111). Biblioteca Nacional Argentina."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964011_ref27"
+     },
+     "Prestía, M. (2018).\r\n Del Año del Libertador a la Campaña Echeverría: las figuras de Carlos \r\nAstrada y Héctor P. Agosti en la disputa por la historia nacional. ",
+     [
+      "span",
+      {},
+      "Monograma"
+     ],
+     ", (3), 101-120. ",
+     [
+      "a",
+      {
+       "href": "http://revistamonograma.com/ano-libertador-campana-echeverria-carlos-astrada-hector-agosti"
+      },
+      "http://revistamonograma.com/ano-libertador-campana-echeverria-carlos-astrada-hector-agosti"
+     ],
+     "/"
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964011_ref28"
+     },
+     "Pró, D. (1960). ",
+     [
+      "span",
+      {},
+      "Coriolano Alberini"
+     ],
+     ". López."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964011_ref29"
+     },
+     "Pronko, M. (1999).",
+     [
+      "span",
+      {},
+      " El peronismo en la universidad"
+     ],
+     ". EUDEBA."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964011_ref30"
+     },
+     "Roig, A. (1968). El concepto de ‘Historia de las ideas’ en Coriolano Alberini. ",
+     [
+      "span",
+      {},
+      "Cuyo"
+     ],
+     ", (4), 147-157."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964011_ref31"
+     },
+     "Romero, F. (1952). ",
+     [
+      "span",
+      {},
+      "Sobre la filosofía en América"
+     ],
+     ". Raigal."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964011_ref32"
+     },
+     "Ruvituso, C. (2015).",
+     [
+      "span",
+      {},
+      " Diálogos existenciales. La filosofía alemana en la Argentina peronista (1946-1955)"
+     ],
+     ". Iberoamericana."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964011_ref33"
+     },
+     "Ruvituso, C. (2022). El dilema de la originalidad la filosofía latinoamericana y la condición periférica.",
+     [
+      "span",
+      {},
+      "Ideas. Revista de Filosofía Moderna y Contemporánea, 7"
+     ],
+     "(15-16), 97-101. ",
+     [
+      "a",
+      {
+       "href": "https://revistaideas.com.ar/ojs/index.php/ideas/article/view/40"
+      },
+      "https://revistaideas.com.ar/ojs/index.php/ideas/article/view/40"
+     ],
+     "\r\n"
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964011_ref34"
+     },
+     "Ruvituso, C. y \r\nSosa, P. J. (2022). El primer peronismo (1946-1955): rupturas y \r\ncontinuidades en las trayectorias y la producción de revistas. En F. J. \r\nMiguel Talento Cutrin (Comp.),",
+     [
+      "span",
+      {},
+      " 100 años de reforma universitaria. Principales apelaciones a la universidad argentina"
+     ],
+     ". CONEAU."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964011_ref63"
+     },
+     "Salazar Bondy, A. (1968).",
+     [
+      "span",
+      {},
+      " ¿Existe una filosofía de nuestra América?"
+     ],
+     " Siglo XXI."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964011_ref35"
+     },
+     "Sánchez Reulet, A. (1949). ",
+     [
+      "span",
+      {},
+      "La Filosofía latinoamericana contemporánea"
+     ],
+     ". Unión panamericana."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964011_ref36"
+     },
+     "Sosa, P. J. (2020). La recepción de Bergson en la Argentina. La mediación española y la generación de 1910. ",
+     [
+      "span",
+      {},
+      "Ideas"
+     ],
+     ", (12). ",
+     [
+      "a",
+      {
+       "href": "https://revistaideas.com.ar/ojs/index.php/ideas/article/view/111"
+      },
+      "https://revistaideas.com.ar/ojs/index.php/ideas/article/view/111"
+     ],
+     "\r\n"
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964011_ref37"
+     },
+     "Sosa, P. J. (2022). La revista ",
+     [
+      "span",
+      {},
+      "Sustancia"
+     ],
+     " en la constitución de los estudios filosóficos de Tucumán. ",
+     [
+      "span",
+      {},
+      "Estudios Sociales Del NOA"
+     ],
+     ", (25). ",
+     [
+      "a",
+      {
+       "href": "https://doi.org/10.34096/esnoa.n25.12898"
+      },
+      "https://doi.org/10.34096/esnoa.n25.12898"
+     ],
+     "\r\n"
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964011_ref38"
+     },
+     "Sosa, P. J. (2024). El papel de ",
+     [
+      "span",
+      {},
+      "Cuadernos de Filosofía"
+     ],
+     " en el campo filosófico durante el primer peronismo.",
+     [
+      "span",
+      {},
+      " Cuadernos de humanidades"
+     ],
+     ", (39), 70-86. ",
+     [
+      "a",
+      {
+       "href": "https://portalderevistas.unsa.edu.ar/index.php/cdh/article/view/4341"
+      },
+      "https://portalderevistas.unsa.edu.ar/index.php/cdh/article/view/4341"
+     ],
+     "\r\n"
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964011_ref39"
+     },
+     "Terán, O. (2008). ",
+     [
+      "span",
+      {},
+      "Historia de las ideas en la Argentina: diez lecciones iniciales, 1810-1980"
+     ],
+     ". Siglo XXI."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964011_ref40"
+     },
+     "Torchia Estrada, J. C. (1961).",
+     [
+      "span",
+      {},
+      " La filosofía en Argentina"
+     ],
+     ". Unión panamericana."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964011_ref41"
+     },
+     "Vázquez, J. A. (1965). ",
+     [
+      "span",
+      {},
+      "Antología filosófica argentina del siglo XX"
+     ],
+     ". Eudeba."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964011_ref64"
+     },
+     "Zea, L. (1969). ",
+     [
+      "span",
+      {},
+      "La filosofía americana como filosofía sin más"
+     ],
+     ". Siglo XXI."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Fuentes"
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964011_ref52"
+     },
+     "AA.VV. ",
+     [
+      "span",
+      {},
+      "Cuadernos de filosofía "
+     ],
+     "(1948-1954). Universidad de Buenos Aires."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964011_ref53"
+     },
+     "AA.VV. ",
+     [
+      "span",
+      {},
+      "Notas y estudios de Filosofía"
+     ],
+     " (1949-1954). Miguel Violeto."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964011_ref54"
+     },
+     "AA.VV. ",
+     [
+      "span",
+      {},
+      "Realidad. Revista de ideas "
+     ],
+     "(1946-1949). López."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964011_ref55"
+     },
+     "AA.VV. ",
+     [
+      "span",
+      {},
+      "Revista de filosofía "
+     ],
+     "(1950-1955). Universidad Nacional de La Plata."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964011_ref56"
+     },
+     "Archivo de la Facultad de Filosofía y Letras, UBA, Mesa de entradas, número 20, letra G, Caja C-7-5."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964011_ref57"
+     },
+     "Archivo de la Facultad de Filosofía y Letras UBA, Mesa de entradas, número 87, letra RN, Caja C-7-3."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964011_ref58"
+     },
+     "Archivo de la Facultad de Filosofía y Letras UBA, Mesa de entradas, número 402, letra P, Caja C-7-1."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Notas"
+    ],
+    "\r\n",
+    [
+     "span",
+     {
+      "id": "t-fn1"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "1"
+     ],
+     " Se conserva la constancia de la carta \r\nremitida el 6 de diciembre de 1946 por Francisco Romero a Enrique \r\nFrançois, delegado interventor de la Facultad de Filosofía y Letras de \r\nla UBA: “Presento a UD. la renuncia de la cátedra de Gnoseología y \r\nmetafísica que desempeño en esa facultad. Saludo a Usted con distinguida\r\n consideración” (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964011_ref58",
+       "id": "t-llamada-redalyc_314964011_ref58-1"
+      },
+      "Archivo de la Facultad de Filosofía y Letras UBA, Mesa de entradas, núm. 402, letra P, Caja C-7-1"
+     ],
+     ").\r\n Además, recordemos que en esta etapa es separado de su cargo José Luis \r\nRomero, hermano de Francisco, por “incitación pública a la huelga de \r\nalumnos” (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964011_ref57",
+       "id": "t-llamada-redalyc_314964011_ref57-1"
+      },
+      "Archivo de la Facultad de Filosofía y Letras UBA, Mesa de entradas, núm. 87, letra RN, Caja C-7-3"
+     ],
+     ")."
+    ],
+    "\r\n",
+    [
+     "span",
+     {
+      "id": "t-fn2"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "2"
+     ],
+     " Este concurso es ganado por Astrada frente a\r\n Miguel Ángel Virasoro –quien obtiene el segundo lugar– y al católico \r\nJuan Ramón Sepich (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964011_ref56",
+       "id": "t-llamada-redalyc_314964011_ref56-1"
+      },
+      "Archivo de la Facultad de Filosofía y Letras, UBA, Mesa de entradas, núm. 20, letra G, Caja C-7-5"
+     ],
+     ")."
+    ],
+    "\r\n",
+    [
+     "span",
+     {
+      "id": "t-fn3"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "3"
+     ],
+     " En adelante, nos referiremos a ",
+     [
+      "span",
+      {},
+      "Cuadernos de Filosofía "
+     ],
+     "solo con la palabra ",
+     [
+      "span",
+      {},
+      "Cuadernos."
+     ],
+     "\r\n"
+    ],
+    "\r\n",
+    [
+     "span",
+     {
+      "id": "t-fn4"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "4"
+     ],
+     " Luis Farré proviene de una familia \r\nespañola. Durante su formación inicial y secundaria, el autor asiste a \r\ninstituciones franciscanas. Al momento de realizar su formación \r\nsuperior, se inscribe en las carreras de Filosofía de las universidades \r\nde Barcelona y de Madrid. Más tarde, realiza su viaje a la Argentina, \r\nradicándose en Córdoba, en donde se desempeña como profesor en colegios y\r\n en la Universidad Nacional de Córdoba. En esta etapa, obtiene el título\r\n de Doctor en Filosofía y construye lazos de solidaridad con destacadas \r\nfiguras a nivel internacional como el filósofo Rodolfo Mondolfo. Años \r\nmás tarde, se instala en Tucumán, para dictar las asignaturas de \r\nEstética e Historia de la filosofía antigua y medieval, en la \r\nUniversidad Nacional de Tucumán. En esta etapa, Farré interviene en la \r\nrevista",
+     [
+      "span",
+      {},
+      " Cuadernos de Filosofía"
+     ],
+     ". Por último,\r\n se instala en La Plata, para dictar clases de Filosofía Antigua y \r\nMedieval y Antropología filosófica, en la Universidad Nacional de La \r\nPlata. Para profundizar en la trayectoria vital e intelectual de Farré, \r\nver Angélica ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964011_ref18",
+       "id": "t-llamada-redalyc_314964011_ref18-1"
+      },
+      "Gabrielides de Luna (1980)"
+     ],
+     "."
+    ],
+    "\r\n",
+    [
+     "span",
+     {
+      "id": "t-fn5"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "5"
+     ],
+     " Coriolano Alberini proviene de una familia \r\nde inmigrantes italianos. Tras su llegada a la Argentina, se inscribe en\r\n la carrera de Filosofía de la Universidad de Buenos Aires y tiende \r\nlazos con importantes figuras del claustro docente, entre ellos, \r\nFrancisco Quesada, Juan Chiabra y Alejandro Korn. Asimismo, se vincula \r\ncon los miembros del Colegio novecentista, en donde pronuncia \r\nconferencias, y con los hacedores de la revista ",
+     [
+      "span",
+      {},
+      "Nosotros "
+     ],
+     "y de la ",
+     [
+      "span",
+      {},
+      "Revista de la Universidad de Buenos Aires."
+     ],
+     " En sus primeros años como docente, interviene en distintas publicaciones periódicas y escribe ensayos como",
+     [
+      "span",
+      {},
+      " Introducción a la axiogenia "
+     ],
+     "(",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964011_ref60",
+       "id": "t-llamada-redalyc_314964011_ref60-1"
+      },
+      "1921)"
+     ],
+     ".\r\n Asimismo, realiza viajes de estudio por Europa y por EE.UU.; en \r\nespecial, sus estadías en Italia, en Francia y en Alemania tienen un \r\nsignificativo impacto en su trayectoria. En estos viajes, Alberini entra\r\n en contacto con figuras que resultan clave en la incorporación de la \r\nnueva agenda anti-positivista, como Henri Bergson, Emile Meyerson, \r\nBenedetto Croce, Giovani Gentile y, más tarde, con Edmund Husserl y \r\nMartin Heidegger. Para profundizar, ver ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964011_ref32",
+       "id": "t-llamada-redalyc_314964011_ref32-6"
+      },
+      "Ruvituso (2015)"
+     ],
+     " y ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964011_ref36",
+       "id": "t-llamada-redalyc_314964011_ref36-1"
+      },
+      "Sosa 2020"
+     ],
+     "."
+    ],
+    "\r\n",
+    [
+     "span",
+     {
+      "id": "t-fn6"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "6"
+     ],
+     " Para profundizar, ver ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964011_ref34",
+       "id": "t-llamada-redalyc_314964011_ref34-1"
+      },
+      "Ruvituso y Sosa (2022)"
+     ],
+     "."
+    ],
+    "\r\n",
+    [
+     "span",
+     {
+      "id": "t-fn7"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "7"
+     ],
+     " Nicola Abbagnano es un filósofo italiano \r\nque adhiere al existencialismo y tiende lazos fuertes con Astrada luego \r\ndel CNF, expresándole que conserva “un magnífico recuerdo de la \r\nhospitalidad argentina. Estoy particularmente feliz de haberlo conocido y\r\n de establecer con usted relaciones de amistad, que espero duren por \r\nsiempre” (Abbagnano a Astrada, en ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964011_ref65",
+       "id": "t-llamada-redalyc_314964011_ref65-7"
+      },
+      "Astrada, 2022"
+     ],
+     ", p. 410). Este pensador no solo participa en ",
+     [
+      "span",
+      {},
+      "Cuadernos"
+     ],
+     ", sino que publica textos de Astrada en ",
+     [
+      "span",
+      {},
+      "Revista de Filosofia"
+     ],
+     ", luego de que el filósofo argentino pronunciara unas conferencias muy elogiadas en Turín."
+    ],
+    "\r\n",
+    [
+     "span",
+     {
+      "id": "t-fn8"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "8"
+     ],
+     " Para un estudio pormenorizado de los diálogos con profesores extranjeros, ver ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964011_ref10",
+       "id": "t-llamada-redalyc_314964011_ref10-2"
+      },
+      "David (2014)"
+     ],
+     "."
+    ],
+    "\r\n",
+    [
+     "span",
+     {
+      "id": "t-fn9"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "9"
+     ],
+     " Algunas interpretaciones muestran la \r\ntensión entre José Imbelloni y Carlos Astrada –ambos intelectuales \r\nfuertemente vinculados con las políticas universitarias durante el \r\ngobierno peronista– en la disputa por la identidad nacional. Al \r\nrespecto, ver ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964011_ref25",
+       "id": "t-llamada-redalyc_314964011_ref25-1"
+      },
+      "Mailhe (2017)"
+     ],
+     "."
+    ],
+    "\r\n",
+    [
+     "span",
+     {
+      "id": "t-fn10"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "10"
+     ],
+     " La calidad, en términos de \r\nprofesionalización disciplinaria, es similar a una revista que aparece \r\npoco tiempo después en Tucumán: ",
+     [
+      "span",
+      {},
+      "Notas y estudios de filosofía"
+     ],
+     ", dirigida por Juan Adolfo Vázquez."
+    ],
+    "\r\n",
+    [
+     "span",
+     {
+      "id": "t-fn11"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "11"
+     ],
+     " Por ejemplo, en el número 6, los primeros \r\ntrabajos son de Astrada, Francisco González Ríos, Andrés Mercado Vera y \r\nArmando Asti Vera. Además, en la sección “Relatos críticos”, hay \r\ncontribuciones de Miguel Ángel Virasoro."
+    ],
+    "\r\n",
+    [
+     "span",
+     {
+      "id": "t-fn12"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "12"
+     ],
+     " El libro de Farré es publicado varios años\r\n después, en 1958, por la editorial Peuser; por ende, pasa un lustro \r\nentre la publicación en ",
+     [
+      "span",
+      {},
+      "Cuadernos"
+     ],
+     " y la \r\nimpresión como libro. En ese sentido, es posible pensar que, aunque los \r\ntextos son los mismos, los sentidos y las funciones que adquieren en sus\r\n contextos enunciativos respectivos son bastante distintos. Es posible \r\nconjeturar que si para 1953 Alberini toma partido en favor del \r\nperonismo, en un contexto altamente politizado, con el advenimiento de \r\nla “Revolución Libertadora” y los reacomodamientos del sector liberal \r\nnuevamente en la Universidad el mismo documento pierde parte de su \r\nfuerza política inicial."
+    ],
+    "\r\n",
+    [
+     "span",
+     {
+      "id": "t-fn13"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "13"
+     ],
+     " Sobre el mito que circula en torno a las paternidades del campo filosófico nacional, sugiero ver ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964011_ref19",
+       "id": "t-llamada-redalyc_314964011_ref19-1"
+      },
+      "Galfione (2021)"
+     ],
+     "."
+    ],
+    "\r\n",
+    [
+     "span",
+     {
+      "id": "t-fn14"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "14"
+     ],
+     " Para dimensionar el modo en el que Romero intenta consolidar a Korn como maestro y padre del campo filosófico argentino, ver ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964011_ref37",
+       "id": "t-llamada-redalyc_314964011_ref37-2"
+      },
+      "Sosa (2022)"
+     ],
+     "."
+    ],
+    "\r\n",
+    [
+     "span",
+     {
+      "id": "t-fn15"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "15"
+     ],
+     " Astrada entra en contacto con Alberini \r\ndurante el viaje de este último a Alemania en 1930, y colabora para \r\nacercarlo a sus redes de contactos. La correspondencia da cuenta de \r\nhasta qué punto es significativo este encuentro para ambos profesores. \r\nPara profundizar, ver el epistolario de ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964011_ref65",
+       "id": "t-llamada-redalyc_314964011_ref65-8"
+      },
+      "Astrada (2022)"
+     ],
+     " y ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964011_ref32",
+       "id": "t-llamada-redalyc_314964011_ref32-7"
+      },
+      "Ruvituso (2015)"
+     ],
+     "\r\n"
+    ],
+    "\r\n",
+    [
+     "span",
+     {
+      "id": "t-fn16"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "16"
+     ],
+     " Sin embargo, este proyecto no tiene éxito y la Biblioteca de Alberini no es adquirida por el Instituto de Filosofía de la UBA."
+    ],
+    "\r\n",
+    [
+     "span",
+     {
+      "id": "t-fn17"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "17"
+     ],
+     " Esto se observa, por ejemplo, cuando \r\nrefiere a las intervenciones de Ortega y Gasset durante sus \r\nconferencias, en 1916. Allí celebra que el profesor español, a través de\r\n distintos recursos, intentara mostrar la legitimidad y la función \r\nsocial de la filosofía, en términos amplios."
+    ],
+    "\r\n",
+    [
+     "span",
+     {
+      "id": "t-fn18"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "18"
+     ],
+     " Por ejemplo, Alfredo Coviello (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964011_ref62",
+       "id": "t-llamada-redalyc_314964011_ref62-1"
+      },
+      "1941"
+     ],
+     "), en la revista ",
+     [
+      "span",
+      {},
+      "Sustancia"
+     ],
+     ",\r\n señala esta limitación en Alberini, mientras lo compara con Alejandro \r\nKorn, al manifestar que: “En la trilogía que se disputaba la posición \r\nargentina Korn fue el factor intermedio más querido y respetado, en vida\r\n y en ausencia, mientras Alberini, quizá por sus expresiones \r\nsistemáticamente cáusticas, es frecuentemente negado […], es el que más \r\nha hablado y el que menos ha escrito. Para ser consecuente, esto último \r\nlo difundió con avaricia en idiomas ajenos al lenguaje de su cátedra” \r\n(p. 388)."
+    ],
+    "\r\n",
+    [
+     "span",
+     {
+      "id": "t-fn19"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "19"
+     ],
+     " Cabe destacar que, en relatos previos, Alberini no llega a clasificar su tiempo presente."
+    ],
+    "\r\n",
+    [
+     "span",
+     {
+      "id": "t-fn29"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "20"
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "Influencias filosóficas en la evolución nacional"
+     ],
+     " (1940) se imprime, por primera vez, en revistas. La primera parte se edita en 1912, en la ",
+     [
+      "span",
+      {},
+      "Revista de la Universidad de Buenos Aires"
+     ],
+     "; los capítulos segundo y tercero son publicados en 1913 y 1914, respectivamente, en los ",
+     [
+      "span",
+      {},
+      "Anales de la Facultad de Derecho de Buenos Aires"
+     ],
+     "; el cuarto, en un volumen editado por Claridad."
+    ],
+    "\r\n",
+    [
+     "span",
+     {
+      "id": "t-fn20"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "21"
+     ],
+     " En este punto, cabe pensar, nuevamente, en\r\n la recepción activa por parte de Alberini de las lecciones de Ortega y \r\nGasset en 1916, pues allí el filósofo español construye un relato acerca\r\n de los orígenes del saber filosófico, como gran epopeya occidental \r\nllevada a cabo por los filósofos griegos."
+    ],
+    "\r\n",
+    [
+     "span",
+     {
+      "id": "t-fn21"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "22"
+     ],
+     " En especial, ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964011_ref2",
+       "id": "t-llamada-redalyc_314964011_ref2-26"
+      },
+      "Alberini (1953)"
+     ],
+     "\r\n señala, por ejemplo, la importancia de la epistemología en la carrera \r\nde filosofía de la UBA, al manifestar que “la epistemología se enseñó, \r\npor primera vez de forma oficial, en la Facultad de Filosofía y Letras \r\nde la Universidad de Buenos Aires. Luego se extendió a otras facultades,\r\n formándose fuertes grupos de estudiosos que pertenecen a esta \r\ndisciplina” (p. 14)."
+    ],
+    "\r\n",
+    [
+     "span",
+     {
+      "id": "t-fn22"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "23"
+     ],
+     " Es posible ver que la estrategia de \r\nmostrar la cantidad de pruebas del estado actual de la filosofía –en \r\ntérminos de profesionalización– es similar a la desplegada por Romero \r\npara dar cuenta de un estado de “normalización” del campo filosófico. \r\nPara profundizar en esta categoría, ver ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964011_ref12",
+       "id": "t-llamada-redalyc_314964011_ref12-1"
+      },
+      "Donnantuoni Moratto (2016)"
+     ],
+     "."
+    ],
+    "\r\n",
+    [
+     "span",
+     {
+      "id": "t-fn23"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "24"
+     ],
+     " De hecho, Alberini es fuertemente crítico \r\ncon un trabajo de Frondizi al respecto. Sobre la devolución negativa de \r\nAlberini, Frondizi expresa: “Lamento que esté Ud. en total desacuerdo \r\ncuando con mi bosquejo de la filosofía latinoamericana. Como no conozco \r\nlas razones que Ud. tiene para ello, prefiero, siguiendo su ejemplo, \r\nreservar la cuestión para cuando viaje a Buenos Aires y tenga el placer \r\nde conversar personalmente con Ud.” (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964011_ref61",
+       "id": "t-llamada-redalyc_314964011_ref61-1"
+      },
+      "Frondizi a Alberini, 1941 [1981]"
+     ],
+     ", p. 61)."
+    ],
+    "\r\n",
+    [
+     "span",
+     {
+      "id": "t-fn24"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "25"
+     ],
+     " Recordemos que, aunque el tema de \r\n“originalidad” de la filosofía latinoamericana se presenta de forma \r\nconstante entre los autores latinoamericanos, es recién en la década de \r\n1960 que adquiere mayor relevancia y cristalización. Esto se observa, \r\nsobre todo, en el debate suscitado por Augusto Salazar-Bondy en su obra ",
+     [
+      "span",
+      {},
+      "¿Existe una filosofía de nuestra América?"
+     ],
+     " (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964011_ref63",
+       "id": "t-llamada-redalyc_314964011_ref63-1"
+      },
+      "1968"
+     ],
+     "), a la cual responde Leopoldo Zea con su ensayo ",
+     [
+      "span",
+      {},
+      "Filosofía americana como filosofía sin más"
+     ],
+     " (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964011_ref64",
+       "id": "t-llamada-redalyc_314964011_ref64-1"
+      },
+      "1969"
+     ],
+     ")."
+    ],
+    "\r\n",
+    [
+     "span",
+     {
+      "id": "t-fn25"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "26"
+     ],
+     " Para profundizar, ver ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964011_ref31",
+       "id": "t-llamada-redalyc_314964011_ref31-2"
+      },
+      "Romero (1952)"
+     ],
+     "."
+    ],
+    "\r\n",
+    [
+     "span",
+     {
+      "id": "t-fn26"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "27"
+     ],
+     " O como segundo inicio, según los términos etapistas que propone en la primera parte de trabajo."
+    ],
+    "\r\n",
+    [
+     "span",
+     {
+      "id": "t-fn27"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "28"
+     ],
+     " Para ver un caso ejemplificador de la \r\ncrítica de Astrada al sector católico, y sus consecuencias en la \r\nUniversidad, sugiero ver la carta enviada por Astrada el 8 de febrero de\r\n 1950 al, por entonces, decano de la Facultad de Filosofía y Letras, \r\nFederico Alberto Dauss (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964011_ref65",
+       "id": "t-llamada-redalyc_314964011_ref65-9"
+      },
+      "Astrada, Tomo II, 2022"
+     ],
+     ")."
+    ],
+    "\r\n",
+    [
+     "span",
+     {
+      "id": "t-fn28"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "29"
+     ],
+     " Recordemos que los intelectuales católicos intervinientes en ",
+     [
+      "span",
+      {},
+      "Sapientia"
+     ],
+     "\r\n defienden la idea de que la filosofía nacional es de origen tomista. \r\nPara profundizar sobre los distintos tipos de tomismo en esta etapa \r\nsugiero ver ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964011_ref32",
+       "id": "t-llamada-redalyc_314964011_ref32-8"
+      },
+      "Ruvituso (2015)"
+     ],
+     ", ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964011_ref4",
+       "id": "t-llamada-redalyc_314964011_ref4-3"
+      },
+      "Belloro (2021)"
+     ],
+     " y ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964011_ref13",
+       "id": "t-llamada-redalyc_314964011_ref13-1"
+      },
+      "Fares (2021)"
+     ],
+     "."
+    ],
+    "\r\n"
+   ],
+   "\r\n"
+  ],
+  "\r\n",
+  [
+   "span",
+   {
+    "id": "t-creditos"
+   },
+   "\r\n",
+   "\r\n",
+   [
+    "span",
+    {
+     "id": "t-logo-izquierda"
+    },
+    "\r\n",
+    [
+     "figura",
+     {}
+    ]
+   ],
+   "\r\n",
+   [
+    "span",
+    {
+     "id": "t-mensaje"
+    },
+    "Modelo de publicación sin fines de lucro para conservar la naturaleza académica y abierta de la comunicación científica",
+    [
+     "br",
+     {}
+    ],
+    "HTML generado a partir de XML-JATS4R"
+   ],
+   "\r\n",
+   [
+    "span",
+    {
+     "id": "t-logo-derecha"
+    },
+    "\r\n",
+    [
+     "figura",
+     {}
+    ]
+   ],
+   "\r\n",
+   "\r\n"
+  ],
+  "\r\n\r\n\r\n"
+ ]
+}

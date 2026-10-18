@@ -80,7 +80,8 @@
      "url": "https://doi.org/10.32399/icsyh.bvbuap.2954-4300.2026.7.14.901",
      "doi": "10.32399/icsyh.bvbuap.2954-4300.2026.7.14.901",
      "paginas": "9-16",
-     "fuente": "Crossref"
+     "fuente": "Crossref",
+     "texto_completo": "textos/10-32399-icsyh-bvbuap-2954-4300-2026-7-14-901.json"
     },
     {
      "id": "10.32399/icsyh.bvbuap.2954-4300.2026.7.14.870",
@@ -101,7 +102,8 @@
      "url": "https://doi.org/10.32399/icsyh.bvbuap.2954-4300.2026.7.14.870",
      "doi": "10.32399/icsyh.bvbuap.2954-4300.2026.7.14.870",
      "paginas": "17-43",
-     "fuente": "Crossref"
+     "fuente": "Crossref",
+     "texto_completo": "textos/10-32399-icsyh-bvbuap-2954-4300-2026-7-14-870.json"
     },
     {
      "id": "10.32399/icsyh.bvbuap.2954-4300.2026.7.14.868",
@@ -122,7 +124,8 @@
      "url": "https://doi.org/10.32399/icsyh.bvbuap.2954-4300.2026.7.14.868",
      "doi": "10.32399/icsyh.bvbuap.2954-4300.2026.7.14.868",
      "paginas": "44-71",
-     "fuente": "Crossref"
+     "fuente": "Crossref",
+     "texto_completo": "textos/10-32399-icsyh-bvbuap-2954-4300-2026-7-14-868.json"
     },
     {
      "id": "10.32399/icsyh.bvbuap.2954-4300.2026.7.14.864",
@@ -143,7 +146,8 @@
      "url": "https://doi.org/10.32399/icsyh.bvbuap.2954-4300.2026.7.14.864",
      "doi": "10.32399/icsyh.bvbuap.2954-4300.2026.7.14.864",
      "paginas": "72-100",
-     "fuente": "Crossref"
+     "fuente": "Crossref",
+     "texto_completo": "textos/10-32399-icsyh-bvbuap-2954-4300-2026-7-14-864.json"
     },
     {
      "id": "10.32399/icsyh.bvbuap.2954-4300.2026.7.14.875",
@@ -164,7 +168,8 @@
      "url": "https://doi.org/10.32399/icsyh.bvbuap.2954-4300.2026.7.14.875",
      "doi": "10.32399/icsyh.bvbuap.2954-4300.2026.7.14.875",
      "paginas": "101-126",
-     "fuente": "Crossref"
+     "fuente": "Crossref",
+     "texto_completo": "textos/10-32399-icsyh-bvbuap-2954-4300-2026-7-14-875.json"
     },
     {
      "id": "10.32399/icsyh.bvbuap.2954-4300.2026.7.14.866",
@@ -189,7 +194,8 @@
      "url": "https://doi.org/10.32399/icsyh.bvbuap.2954-4300.2026.7.14.866",
      "doi": "10.32399/icsyh.bvbuap.2954-4300.2026.7.14.866",
      "paginas": "127-163",
-     "fuente": "Crossref"
+     "fuente": "Crossref",
+     "texto_completo": "textos/10-32399-icsyh-bvbuap-2954-4300-2026-7-14-866.json"
     },
     {
      "id": "10.32399/icsyh.bvbuap.2954-4300.2026.7.14.867",
@@ -214,7 +220,8 @@
      "url": "https://doi.org/10.32399/icsyh.bvbuap.2954-4300.2026.7.14.867",
      "doi": "10.32399/icsyh.bvbuap.2954-4300.2026.7.14.867",
      "paginas": "164-195",
-     "fuente": "Crossref"
+     "fuente": "Crossref",
+     "texto_completo": "textos/10-32399-icsyh-bvbuap-2954-4300-2026-7-14-867.json"
     },
     {
      "id": "10.32399/icsyh.bvbuap.2954-4300.2026.7.14.889",
@@ -239,7 +246,8 @@
      "url": "https://doi.org/10.32399/icsyh.bvbuap.2954-4300.2026.7.14.889",
      "doi": "10.32399/icsyh.bvbuap.2954-4300.2026.7.14.889",
      "paginas": "196-226",
-     "fuente": "Crossref"
+     "fuente": "Crossref",
+     "texto_completo": "textos/10-32399-icsyh-bvbuap-2954-4300-2026-7-14-889.json"
     },
     {
      "id": "10.32399/icsyh.bvbuap.2954-4300.2026.7.14.876",
@@ -260,7 +268,8 @@
      "url": "https://doi.org/10.32399/icsyh.bvbuap.2954-4300.2026.7.14.876",
      "doi": "10.32399/icsyh.bvbuap.2954-4300.2026.7.14.876",
      "paginas": "227-252",
-     "fuente": "Crossref"
+     "fuente": "Crossref",
+     "texto_completo": "textos/10-32399-icsyh-bvbuap-2954-4300-2026-7-14-876.json"
     },
     {
      "id": "10.32399/icsyh.bvbuap.2954-4300.2026.7.14.887",
@@ -281,7 +290,8 @@
      "url": "https://doi.org/10.32399/icsyh.bvbuap.2954-4300.2026.7.14.887",
      "doi": "10.32399/icsyh.bvbuap.2954-4300.2026.7.14.887",
      "paginas": "254-275",
-     "fuente": "Crossref"
+     "fuente": "Crossref",
+     "texto_completo": "textos/10-32399-icsyh-bvbuap-2954-4300-2026-7-14-887.json"
     },
     {
      "id": "10.32399/icsyh.bvbuap.2954-4300.2026.7.14.860",
@@ -302,7 +312,8 @@
      "url": "https://doi.org/10.32399/icsyh.bvbuap.2954-4300.2026.7.14.860",
      "doi": "10.32399/icsyh.bvbuap.2954-4300.2026.7.14.860",
      "paginas": "276-304",
-     "fuente": "Crossref"
+     "fuente": "Crossref",
+     "texto_completo": "textos/10-32399-icsyh-bvbuap-2954-4300-2026-7-14-860.json"
     },
     {
      "id": "10.32399/icsyh.bvbuap.2954-4300.2026.7.14.855",
@@ -327,7 +338,8 @@
      "url": "https://doi.org/10.32399/icsyh.bvbuap.2954-4300.2026.7.14.855",
      "doi": "10.32399/icsyh.bvbuap.2954-4300.2026.7.14.855",
      "paginas": "305-336",
-     "fuente": "Crossref"
+     "fuente": "Crossref",
+     "texto_completo": "textos/10-32399-icsyh-bvbuap-2954-4300-2026-7-14-855.json"
     },
     {
      "id": "10.32399/icsyh.bvbuap.2954-4300.2026.7.14.857",
@@ -372,7 +384,8 @@
      "url": "https://doi.org/10.32399/icsyh.bvbuap.2954-4300.2026.7.14.857",
      "doi": "10.32399/icsyh.bvbuap.2954-4300.2026.7.14.857",
      "paginas": "338-386",
-     "fuente": "Crossref"
+     "fuente": "Crossref",
+     "texto_completo": "textos/10-32399-icsyh-bvbuap-2954-4300-2026-7-14-857.json"
     },
     {
      "id": "10.32399/icsyh.bvbuap.2954-4300.2026.7.14.891",
@@ -397,7 +410,8 @@
      "url": "https://doi.org/10.32399/icsyh.bvbuap.2954-4300.2026.7.14.891",
      "doi": "10.32399/icsyh.bvbuap.2954-4300.2026.7.14.891",
      "paginas": "388-407",
-     "fuente": "Crossref"
+     "fuente": "Crossref",
+     "texto_completo": "textos/10-32399-icsyh-bvbuap-2954-4300-2026-7-14-891.json"
     },
     {
      "id": "10.32399/icsyh.bvbuap.2954-4300.2026.7.14.878",
@@ -418,7 +432,8 @@
      "url": "https://doi.org/10.32399/icsyh.bvbuap.2954-4300.2026.7.14.878",
      "doi": "10.32399/icsyh.bvbuap.2954-4300.2026.7.14.878",
      "paginas": "408-437",
-     "fuente": "Crossref"
+     "fuente": "Crossref",
+     "texto_completo": "textos/10-32399-icsyh-bvbuap-2954-4300-2026-7-14-878.json"
     },
     {
      "id": "10.32399/icsyh.bvbuap.2954-4300.2026.7.14.892",
@@ -439,7 +454,8 @@
      "url": "https://doi.org/10.32399/icsyh.bvbuap.2954-4300.2026.7.14.892",
      "doi": "10.32399/icsyh.bvbuap.2954-4300.2026.7.14.892",
      "paginas": "438-442",
-     "fuente": "Crossref"
+     "fuente": "Crossref",
+     "texto_completo": "textos/10-32399-icsyh-bvbuap-2954-4300-2026-7-14-892.json"
     }
    ]
   },
@@ -471,7 +487,8 @@
      "url": "https://doi.org/10.32399/icsyh.bvbuap.2954-4300.2025.7.13.884",
      "doi": "10.32399/icsyh.bvbuap.2954-4300.2025.7.13.884",
      "paginas": "8-12",
-     "fuente": "Crossref"
+     "fuente": "Crossref",
+     "texto_completo": "textos/10-32399-icsyh-bvbuap-2954-4300-2025-7-13-884.json"
     },
     {
      "id": "10.32399/icsyh.bvbuap.2954-4300.2025.6.12.831",
@@ -529,7 +546,8 @@
      "url": "https://doi.org/10.32399/icsyh.bvbuap.2954-4300.2025.7.13.879",
      "doi": "10.32399/icsyh.bvbuap.2954-4300.2025.7.13.879",
      "paginas": "14-19",
-     "fuente": "Crossref"
+     "fuente": "Crossref",
+     "texto_completo": "textos/10-32399-icsyh-bvbuap-2954-4300-2025-7-13-879.json"
     },
     {
      "id": "10.32399/icsyh.bvbuap.2954-4300.2025.6.12.832",
@@ -575,7 +593,8 @@
      "url": "https://doi.org/10.32399/icsyh.bvbuap.2954-4300.2025.7.13.880",
      "doi": "10.32399/icsyh.bvbuap.2954-4300.2025.7.13.880",
      "paginas": "20-38",
-     "fuente": "Crossref"
+     "fuente": "Crossref",
+     "texto_completo": "textos/10-32399-icsyh-bvbuap-2954-4300-2025-7-13-880.json"
     },
     {
      "id": "10.32399/icsyh.bvbuap.2954-4300.2025.6.12.833",
@@ -621,7 +640,8 @@
      "url": "https://doi.org/10.32399/icsyh.bvbuap.2954-4300.2025.7.13.812",
      "doi": "10.32399/icsyh.bvbuap.2954-4300.2025.7.13.812",
      "paginas": "39-69",
-     "fuente": "Crossref"
+     "fuente": "Crossref",
+     "texto_completo": "textos/10-32399-icsyh-bvbuap-2954-4300-2025-7-13-812.json"
     },
     {
      "id": "10.32399/icsyh.bvbuap.2954-4300.2025.6.12.835",
@@ -663,7 +683,8 @@
      "url": "https://doi.org/10.32399/icsyh.bvbuap.2954-4300.2025.7.13.822",
      "doi": "10.32399/icsyh.bvbuap.2954-4300.2025.7.13.822",
      "paginas": "70-102",
-     "fuente": "Crossref"
+     "fuente": "Crossref",
+     "texto_completo": "textos/10-32399-icsyh-bvbuap-2954-4300-2025-7-13-822.json"
     },
     {
      "id": "10.32399/icsyh.bvbuap.2954-4300.2025.6.12.836",
@@ -705,7 +726,8 @@
      "url": "https://doi.org/10.32399/icsyh.bvbuap.2954-4300.2025.7.13.814",
      "doi": "10.32399/icsyh.bvbuap.2954-4300.2025.7.13.814",
      "paginas": "103-124",
-     "fuente": "Crossref"
+     "fuente": "Crossref",
+     "texto_completo": "textos/10-32399-icsyh-bvbuap-2954-4300-2025-7-13-814.json"
     },
     {
      "id": "10.32399/icsyh.bvbuap.2954-4300.2025.6.12.837",
@@ -755,7 +777,8 @@
      "url": "https://doi.org/10.32399/icsyh.bvbuap.2954-4300.2025.7.13.858",
      "doi": "10.32399/icsyh.bvbuap.2954-4300.2025.7.13.858",
      "paginas": "125-144",
-     "fuente": "Crossref"
+     "fuente": "Crossref",
+     "texto_completo": "textos/10-32399-icsyh-bvbuap-2954-4300-2025-7-13-858.json"
     },
     {
      "id": "10.32399/icsyh.bvbuap.2954-4300.2025.6.12.841",
@@ -805,7 +828,8 @@
      "url": "https://doi.org/10.32399/icsyh.bvbuap.2954-4300.2025.7.13.882",
      "doi": "10.32399/icsyh.bvbuap.2954-4300.2025.7.13.882",
      "paginas": "145-161",
-     "fuente": "Crossref"
+     "fuente": "Crossref",
+     "texto_completo": "textos/10-32399-icsyh-bvbuap-2954-4300-2025-7-13-882.json"
     },
     {
      "id": "10.32399/icsyh.bvbuap.2954-4300.2025.7.13.811",
@@ -830,7 +854,8 @@
      "url": "https://doi.org/10.32399/icsyh.bvbuap.2954-4300.2025.7.13.811",
      "doi": "10.32399/icsyh.bvbuap.2954-4300.2025.7.13.811",
      "paginas": "162-191",
-     "fuente": "Crossref"
+     "fuente": "Crossref",
+     "texto_completo": "textos/10-32399-icsyh-bvbuap-2954-4300-2025-7-13-811.json"
     },
     {
      "id": "10.32399/icsyh.bvbuap.2954-4300.2025.6.12.842",
@@ -884,7 +909,8 @@
      "url": "https://doi.org/10.32399/icsyh.bvbuap.2954-4300.2025.7.13.821",
      "doi": "10.32399/icsyh.bvbuap.2954-4300.2025.7.13.821",
      "paginas": "192-223",
-     "fuente": "Crossref"
+     "fuente": "Crossref",
+     "texto_completo": "textos/10-32399-icsyh-bvbuap-2954-4300-2025-7-13-821.json"
     },
     {
      "id": "10.32399/icsyh.bvbuap.2954-4300.2025.6.12.840",
@@ -934,7 +960,8 @@
      "url": "https://doi.org/10.32399/icsyh.bvbuap.2954-4300.2025.7.13.820",
      "doi": "10.32399/icsyh.bvbuap.2954-4300.2025.7.13.820",
      "paginas": "224-255",
-     "fuente": "Crossref"
+     "fuente": "Crossref",
+     "texto_completo": "textos/10-32399-icsyh-bvbuap-2954-4300-2025-7-13-820.json"
     },
     {
      "id": "10.32399/icsyh.bvbuap.2954-4300.2025.6.12.844",
@@ -980,7 +1007,8 @@
      "url": "https://doi.org/10.32399/icsyh.bvbuap.2954-4300.2025.7.13.823",
      "doi": "10.32399/icsyh.bvbuap.2954-4300.2025.7.13.823",
      "paginas": "256-288",
-     "fuente": "Crossref"
+     "fuente": "Crossref",
+     "texto_completo": "textos/10-32399-icsyh-bvbuap-2954-4300-2025-7-13-823.json"
     },
     {
      "id": "10.32399/icsyh.bvbuap.2954-4300.2025.6.12.845",
@@ -1022,7 +1050,8 @@
      "url": "https://doi.org/10.32399/icsyh.bvbuap.2954-4300.2025.7.13.803",
      "doi": "10.32399/icsyh.bvbuap.2954-4300.2025.7.13.803",
      "paginas": "290-317",
-     "fuente": "Crossref"
+     "fuente": "Crossref",
+     "texto_completo": "textos/10-32399-icsyh-bvbuap-2954-4300-2025-7-13-803.json"
     },
     {
      "id": "10.32399/icsyh.bvbuap.2954-4300.2025.6.12.846",
@@ -1068,7 +1097,8 @@
      "url": "https://doi.org/10.32399/icsyh.bvbuap.2954-4300.2025.7.13.852",
      "doi": "10.32399/icsyh.bvbuap.2954-4300.2025.7.13.852",
      "paginas": "318-348",
-     "fuente": "Crossref"
+     "fuente": "Crossref",
+     "texto_completo": "textos/10-32399-icsyh-bvbuap-2954-4300-2025-7-13-852.json"
     },
     {
      "id": "10.32399/icsyh.bvbuap.2954-4300.2025.6.12.847",
@@ -1114,7 +1144,8 @@
      "url": "https://doi.org/10.32399/icsyh.bvbuap.2954-4300.2025.7.13.819",
      "doi": "10.32399/icsyh.bvbuap.2954-4300.2025.7.13.819",
      "paginas": "349-367",
-     "fuente": "Crossref"
+     "fuente": "Crossref",
+     "texto_completo": "textos/10-32399-icsyh-bvbuap-2954-4300-2025-7-13-819.json"
     },
     {
      "id": "10.32399/icsyh.bvbuap.2954-4300.2025.6.12.848",
@@ -1213,7 +1244,8 @@
      "url": "https://doi.org/10.32399/icsyh.bvbuap.2954-4300.2025.7.13.815",
      "doi": "10.32399/icsyh.bvbuap.2954-4300.2025.7.13.815",
      "paginas": "369-414",
-     "fuente": "Crossref"
+     "fuente": "Crossref",
+     "texto_completo": "textos/10-32399-icsyh-bvbuap-2954-4300-2025-7-13-815.json"
     },
     {
      "id": "10.32399/icsyh.bvbuap.2954-4300.2025.6.12.850",
@@ -1255,7 +1287,8 @@
      "url": "https://doi.org/10.32399/icsyh.bvbuap.2954-4300.2025.7.13.813",
      "doi": "10.32399/icsyh.bvbuap.2954-4300.2025.7.13.813",
      "paginas": "416-425",
-     "fuente": "Crossref"
+     "fuente": "Crossref",
+     "texto_completo": "textos/10-32399-icsyh-bvbuap-2954-4300-2025-7-13-813.json"
     },
     {
      "id": "10.32399/icsyh.bvbuap.2954-4300.2025.7.13.859",
@@ -1276,7 +1309,8 @@
      "url": "https://doi.org/10.32399/icsyh.bvbuap.2954-4300.2025.7.13.859",
      "doi": "10.32399/icsyh.bvbuap.2954-4300.2025.7.13.859",
      "paginas": "426-436",
-     "fuente": "Crossref"
+     "fuente": "Crossref",
+     "texto_completo": "textos/10-32399-icsyh-bvbuap-2954-4300-2025-7-13-859.json"
     },
     {
      "id": "10.32399/icsyh.bvbuap.2954-4300.2025.7.13.801",
@@ -1297,7 +1331,8 @@
      "url": "https://doi.org/10.32399/icsyh.bvbuap.2954-4300.2025.7.13.801",
      "doi": "10.32399/icsyh.bvbuap.2954-4300.2025.7.13.801",
      "paginas": "437-442",
-     "fuente": "Crossref"
+     "fuente": "Crossref",
+     "texto_completo": "textos/10-32399-icsyh-bvbuap-2954-4300-2025-7-13-801.json"
     },
     {
      "id": "10.32399/icsyh.bvbuap.2954-4300.2025.7.13.807",
@@ -1318,7 +1353,8 @@
      "url": "https://doi.org/10.32399/icsyh.bvbuap.2954-4300.2025.7.13.807",
      "doi": "10.32399/icsyh.bvbuap.2954-4300.2025.7.13.807",
      "paginas": "443-449",
-     "fuente": "Crossref"
+     "fuente": "Crossref",
+     "texto_completo": "textos/10-32399-icsyh-bvbuap-2954-4300-2025-7-13-807.json"
     },
     {
      "id": "10.32399/icsyh.bvbuap.2954-4300.2025.7.13.824",
@@ -1339,7 +1375,8 @@
      "url": "https://doi.org/10.32399/icsyh.bvbuap.2954-4300.2025.7.13.824",
      "doi": "10.32399/icsyh.bvbuap.2954-4300.2025.7.13.824",
      "paginas": "450-454",
-     "fuente": "Crossref"
+     "fuente": "Crossref",
+     "texto_completo": "textos/10-32399-icsyh-bvbuap-2954-4300-2025-7-13-824.json"
     }
    ]
   },

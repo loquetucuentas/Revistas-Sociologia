@@ -1,0 +1,2813 @@
+{
+ "version": 1,
+ "recogido": "2026-10-18T11:33:12+00:00",
+ "doi": "10.36615/c1k24t04",
+ "titulo": "Pierre Bourdieu, un sociologue clinicien?",
+ "revista": "3006-841X",
+ "numero": "v21-n1-2026",
+ "licencia": {
+  "codigo": "by",
+  "nombre": "CC BY 4.0",
+  "nombre_completo": "Creative Commons Atribución 4.0 Internacional",
+  "url": "https://creativecommons.org/licenses/by/4.0",
+  "url_legal": "https://creativecommons.org/licenses/by/4.0/legalcode.es"
+ },
+ "fuente": {
+  "url": "https://journals.uj.ac.za/index.php/csr/en/article/download/4717/2708",
+  "formato": "XML JATS",
+  "plataforma": "JATS",
+  "pagina": "https://journals.uj.ac.za/index.php/csr/article/view/4717"
+ },
+ "autores_cita": [
+  {
+   "apellidos": "de Gaulejac",
+   "nombre_pila": "Vincent",
+   "nombre": null
+  }
+ ],
+ "avisos_derechos": [
+  "©Author(s)",
+  "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
+ ],
+ "idioma_principal": "en",
+ "indice": [
+  {
+   "id": "t-seccion-1",
+   "nivel": 2,
+   "texto": "Vous avez dit clinique?",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-2",
+   "nivel": 2,
+   "texto": "Histoire de vie et choix théoriques",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-3",
+   "nivel": 2,
+   "texto": "L’être humain, un objet qui parle et/ou un sujet qui pense?",
+   "lang": "fr"
+  },
+  {
+   "id": "t-seccion-4",
+   "nivel": 2,
+   "texto": "Les agents sociaux sont aussi des « sujets qui pensent »",
+   "lang": "fr"
+  },
+  {
+   "id": "t-seccion-5",
+   "nivel": 2,
+   "texto": "L’inconscient entre sociologie et psychanalyse",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-6",
+   "nivel": 2,
+   "texto": "Chacun de nous est encombré de son passé, plus ou moins",
+   "lang": "fr"
+  },
+  {
+   "id": "t-seccion-7",
+   "nivel": 2,
+   "texto": "Entre posture critique et posture clinique",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-8",
+   "nivel": 2,
+   "texto": "La névrose de classe de Pierre Bourdieu",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-9",
+   "nivel": 2,
+   "texto": "Épilogue :« Je m’efforce d’encourager les lectures cliniques… »",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-10",
+   "nivel": 2,
+   "texto": "Références",
+   "lang": null
+  }
+ ],
+ "vueltas": {
+  "t-fn1": "t-llamada-fn1-1",
+  "t-fn2": "t-llamada-fn2-1",
+  "t-fn3": "t-llamada-fn3-1",
+  "t-fn4": "t-llamada-fn4-1",
+  "t-fn5": "t-llamada-fn5-1",
+  "t-fn6": "t-llamada-fn6-1",
+  "t-fn7": "t-llamada-fn7-1",
+  "t-r11": "t-llamada-r11-1",
+  "t-fn8": "t-llamada-fn8-1",
+  "t-r7": "t-llamada-r7-1",
+  "t-fn9": "t-llamada-fn9-1",
+  "t-fn10": "t-llamada-fn10-1",
+  "t-r18": "t-llamada-r18-1",
+  "t-r10": "t-llamada-r10-1",
+  "t-r5": "t-llamada-r5-1",
+  "t-fn11": "t-llamada-fn11-1",
+  "t-r8": "t-llamada-r8-1",
+  "t-r13": "t-llamada-r13-1"
+ },
+ "contenido": [
+  [
+   "section",
+   {
+    "id": "t-s1"
+   },
+   "\n",
+   [
+    "p",
+    {
+     "lang": "fr"
+    },
+    "La sociologie de Pierre Bourdieu est une référence incontournable bien que d’un accès pas facile. Son écriture est savante, pour ne pas dire abrupte. Elle est difficilement accessible pour un lecteur non spécialiste des sciences sociales. Son ouvrage sur ",
+    [
+     "i",
+     {},
+     "Le métier de sociologue"
+    ],
+    " (1969) écrit avec J.C. Passeron et J.C. Chamboredon, défend un parti pris de scientificité assumé par les auteurs. Une phrase retient particulièrement l’attention : ",
+    [
+     "i",
+     {},
+     "«"
+    ],
+    " C’est peut-être la malédiction des sciences de l’homme que d’avoir affaire à ",
+    [
+     "i",
+     {},
+     "un objet qui parle. »"
+    ],
+    " (Ce sont les auteurs qui soulignent ",
+    [
+     "i",
+     {},
+     "p."
+    ],
+    " ",
+    [
+     "i",
+     {},
+     "64)."
+    ],
+    " Une sentence qui condamne toute tentative de chercher dans le discours de l’acteur le sens de sa conduite, proposition sur laquelle les sociologues ne peuvent être qu’en accord, mais qui stigmatise cette parole comme une « malédiction », ouvrant un procès contre toute forme de subjectivité et réduisant l’homme à un objet passif socialement déterminé. C’est la raison pour laquelle J’avais hésité à lui demander de participer à mon jury de thèse sur « ",
+    [
+     "i",
+     {},
+     "La névrose de classe"
+    ],
+    " » (1986). Je craignais ses critiques sur les multiples illusions - biographique, empirique, rétrospective, subjectiviste – dans lesquelles je risquais de sombrer dans ma défense d’une sociologie « clinique ». J’avais alors demandé à Robert Castel, que je sentais plus compréhensif à l’endroit de mon projet, de venir me soutenir. Il était un compagnon de route amical, attentif bien que dubitatif face à mes tentatives d’introduire la clinique dans la sociologie. Sa critique du « psychanalysme » (1973) que je partage en grande partie, ne le conduisait pas à rejeter mes tentatives de connecter le social et le psychique dans l’analyse des conflits d’identité liés à un changement de position sociale."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "fr"
+    },
+    "Quelques années plus tard, j’ai réalisé que mes préventions vis-à-vis de P. Bourdieu n’étaient pas toutes justifiées. Quelques signes me laissaient penser qu’il était plus ouvert sur les rapports avec la psychanalyse, l’importance de la subjectivité, de l’affectivité, de l’intrapsychique, des enjeux de transferts et contretransfert. Au début des années 1990 lors d’un colloque rassemblant l’ensemble des chercheurs concernés par l’évaluation de la mise en place du Revenu Minimum d’Insertion. Il était chargé de faire une synthèse de leurs travaux. J’ai été sidéré et enchanté de l’entendre dire, dans son ouverture : « ",
+    [
+     "i",
+     {},
+     "J’ai mis du temps à comprendre que la sociologie s’était construite contre le personnel, contre l’existentiel, contre le singulier, et que c’est sans doute l’une des raisons majeures de l’incapacité d’un bon nombre de sociologues de comprendre quoi que ce soit sur la souffrance humaine"
+    ],
+    ". » Ces mots ont été pour moi un baume de légitimité, une reconnaissance du combat que je menais pour défendre la posture clinique face à des sociologues soit indifférents, soit critiques, ou encore méprisants, considérant que la subjectivité était l’affaire des psychologues, que le vécu était une notion empirique insupportable, et que la psychanalyse était une approche psychologisante non scientifique. Face à ces polémiques, celui qui incarnait une sociologie scientifique, objectiviste, rigoureuse, reconnaissait qu’il convenait de laisser une place aux registres du personnel, des sentiments, de l’éprouvé, de la souffrance dans l’analyse des conduites humaines."
+   ],
+   "\n"
+  ],
+  [
+   "section",
+   {
+    "id": "t-s2"
+   },
+   "\n",
+   [
+    "h2",
+    {
+     "id": "t-seccion-1"
+    },
+    "Vous avez dit clinique?"
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "fr"
+    },
+    "Les années 1990 ont été propices au développement de la recherche en sciences sociales en France. La MIRE (Mission Interministérielle Recherche et Expérimentation) finançait par de nombreux travaux sur la pauvreté, le chômage, les phénomènes d’exclusion, d’insertion, de précarité, de souffrance au travail. Dans ce contexte, j’avais mené une recherche sur ",
+    [
+     "i",
+     {},
+     "Le coût de l’excellence"
+    ],
+    " (1991) avec Nicole Aubert, et dirigé un programme sur le thème « Honte et pauvreté », Deux publications suivront, ",
+    [
+     "i",
+     {},
+     "La lutte des places"
+    ],
+    ", avec Isabelle Taboada-Léonetti et Frédéric Blondel (1994), et ",
+    [
+     "i",
+     {},
+     "Les Sources de la honte"
+    ],
+    " (1996). À la même époque, Pierre Bourdieu dirigeait une vaste étude sur « ",
+    [
+     "i",
+     {},
+     "La misère du monde"
+    ],
+    " » (1993), dans lequel il reconnaissait que les acteurs sociaux sont aussi des sujets qui parlent, qui pensent et qui agissent, prenant ainsi une distance avec « la malédiction des objets qui parlent ». Il me confira que cette formule était de J.C. Passeron, non pour s’en désolidariser, mais pour justifier une posture commune contre la domination de la sociologie américaine, ce qu’il appelait « la triade capitoline, Parsons, Lazarsfeld, Merton ». Trois auteurs en vogue dans les années 1960 qui incarnaient à ses yeux une sociologie empirique, scientiste et positiviste."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "fr"
+    },
+    "Dans une conférence à l’INRA, de 1997, Pierre Bourdieu utilise pour la première foi à ma connaissance, le terme de ",
+    [
+     "i",
+     {},
+     "sociologie cliniq"
+    ],
+    "ue.",
+    [
+     "a",
+     {
+      "href": "#t-fn1",
+      "id": "t-llamada-fn1-1"
+     },
+     [
+      "sup",
+      {},
+      "1"
+     ]
+    ],
+    " Cet article a pu laisser croire qu’il devenait un soutien à notre projet de développer la sociologie clinique avec Robert Sévigny, Eugène Enriquez, Jan Fritz, Jacques Rhéaume et quelques autres. En fait, il y avait là un malentendu. Dans ce texte, Pierre Bourdieu n’évoque à aucun moment ce qu’il entend par « une sociologie clinique du champ scientifique ». Il évoque son intention de susciter une réflexion pour « déclencher un processus ",
+    [
+     "i",
+     {},
+     "d’auto-analyse collective (…)"
+    ],
+    " d’un type nouveau. Il s’agit, pour cela, de mobiliser un collectif, autour d’interrogations relativement élaborées, dans des conditions telles qu’il soit en mesure de produire une vérité sur soi-même. » (§1).",
+    [
+     "a",
+     {
+      "href": "#t-fn2",
+      "id": "t-llamada-fn2-1"
+     },
+     [
+      "sup",
+      {},
+      "2"
+     ]
+    ],
+    " Dans cette conférence, le terme « clinique » semble désigner un diagnostic sociologique sur les enjeux de pouvoirs dans le champ scientifique, Il décrit longuement comment l’activité scientifique est surdéterminé par des forces dont les agents eux-mêmes n’ont pas conscience. « Contrairement à ce que laisse croire un constructivisme idéaliste, les agents font les faits scientifiques et, même, pour une part, le champ scientifique, mais à partir d’une position dans ce champ qu’ils n’ont pas faite et qui contribue à définir leurs possibilités et leurs impossibilités. » (§18) Il décrypte en particulier comment les chercheurs développent un rapport paradoxal à leur propre intérêt : « l’intérêt pur, désintéressé, est un intérêt au désintéressement, forme d’intérêt qui convient dans toutes les économies des biens symboliques, économies anti-économiques où, en quelque sorte, c’est le désintéressement qui « paie ». (C’est là une des différences les plus radicales entre le « capitaliste scientifique » et le capitaliste tout court). Il s’ensuit que les stratégies des agents sont en quelque sorte toujours à double face, ambiguës, intéressées et désintéressées, puisque inspirées par une sorte d’intérêt au désintéressement » (§26,). La science est un champ de forces, de stratégies, de pouvoirs, au même titre que les champs politiques, artistiques ou religieux ou les agents luttent pour imposer leurs représentations, leur système de valeurs, qui déterminent les principes de classement et de reconnaissance par lesquels ils acquièrent des positions de pouvoir."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "fr"
+    },
+    "Dans ce texte, on perçoit une définition implicite de la clinique comme analyse approfondie des enjeux de reconnaissance et de pouvoir d’un champ social. Un autre article est très éclairant pour analyser les convergences et des divergences entre la conception de la clinique chez Pierre Bourdieu et celle que nous défendons en sociologie clinique.",
+    [
+     "a",
+     {
+      "href": "#t-fn3",
+      "id": "t-llamada-fn3-1"
+     },
+     [
+      "sup",
+      {},
+      "3"
+     ]
+    ],
+    " P. Fugier montre que ces deux sociologies mettent l’accent sur l’étude de la subjectivité. « Ce n’est pas la prise en compte de la subjectivité, écrit Pascal Fugier, mais plus précisément celle de la subjectivation et des capacités d’historicité des individus qui suscite la controverse entre la sociologie clinique et celle de Pierre Bourdieu. » Les démarches de la sociologie clinique visent à développer une clinique de l’historicité, c’est-à-dire les capacités du sujet à analyser les contradictions du passé pour mieux comprendre les conflits du présent et se projeter dans un avenir qui ne les reproduise pas. Pierre Bourdieu diverge sur se point sans être pour autant dans une franche opposition, « en ramenant les capacités d’historicité des individus à ce qui serait de l’ordre du sens pratique entendu comme improvisations réglées et anticipations » souligne Pascal Fugier. La divergence la plus importante réside dans la difficulté de P. Bourdieu de reconnaître une réalité psychologique irréductible et donc pour une part autonome aux réalité biologiques et sociologiques. La dimension psychique constitue un point aveugle, quand bien même il avait un intérêt pour la psychanalyse."
+   ],
+   "\n"
+  ],
+  [
+   "section",
+   {
+    "id": "t-s3"
+   },
+   "\n",
+   [
+    "h2",
+    {
+     "id": "t-seccion-2"
+    },
+    "Histoire de vie et choix théoriques"
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "fr"
+    },
+    "Au Laboratoire de Changement Social, au début années 1990, j’avais initié un séminaire sur le thème « Histoire de vie et choix théoriques ». Ce séminaire propose de réfléchir entre chercheurs sur les rapports entre d’une part l’histoire personnelle, familiale, sociale de chacun et, d’autre part, les options épistémologiques, disciplinaires, méthodologiques, le choix de devenir enseignant-chercheur, la construction de nos objets de recherche… À l’époque, notre collègue Pierre Ansart avait publié un ouvrage sur « Les sociologies contemporaines » (1990) dans lequel il décrivait cinq courants autour de Georges Balandier, Michel Crozier, Alain Touraine, René Boudon et Pierre Bourdieu. Avec son aide et celle d’Eugène Enriquez, nous avons invités ces cinq collègues qui ont tous accepté. Je craignais un refus de Pierre Bourdieu, je me trompais. Il est venu le 25 avril 2001, 9 mois avant sa mort le 22 janvier 2002. Lors de cette séance, nous avons fait connaissance, au sens premier du terme, d’abord dans une conversation en tête à tête lors d’un déjeuner, suivid’une rencontre collective avec l’ensemble des membres du Laboratoire de changement social. Cette rencontre a été filmée et enregistrée.",
+    [
+     "a",
+     {
+      "href": "#t-fn4",
+      "id": "t-llamada-fn4-1"
+     },
+     [
+      "sup",
+      {},
+      "4"
+     ]
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "fr"
+    },
+    "Dans l’introduction du séminaire, je l’ai d’emblé questionné sur ses réserves vis-à-vis de l’approche biographique et des récits de vie."
+   ],
+   "\n",
+   [
+    "blockquote",
+    {
+     "lang": "fr"
+    },
+    "\n",
+    [
+     "p",
+     {},
+     "« ",
+     [
+      "i",
+      {},
+      "Bonjour cher Pierre Bourdieu. Nous sommes très honorés de vous accueillir et impatients de vous entendre. Comment penser les relations entre vos choix théoriques, votre façon de faire de la sociologie, et votre histoire personnelle, familiale, sociale? Vous avez souvent exprimé vos réserves vis-à-vis de « l’échange réglé des narcissismes et la complaisance des évocations nostalgiques ». Dans les Méditations pascaliennes (1997), vous écrivez « Je n’ai pas l’intention de livrer des souvenirs dits personnels qui forment la toile de fond grisâtre des autobiographies universitaires : rencontres émerveillées avec des maîtres éminents, choix intellectuels entrelacés avec des choix de carrière. Ce qui a été présenté récemment sous l’étiquette d’Ego histoire"
+     ],
+     [
+      "a",
+      {
+       "href": "#t-fn5",
+       "id": "t-llamada-fn5-1"
+      },
+      [
+       "sup",
+       {},
+       "5"
+      ]
+     ],
+     " ",
+     [
+      "i",
+      {},
+      "me paraît encore très éloigné d’une véritable sociologie réflexive. Les universitaires heureux, les seuls à qui on demande cet exercice d’école, n’ont pas d’histoire. Et ce n’est pas nécessairement leur rendre service, ni à l’histoire, que de leur demander de raconter sans méthode des vies sans histoire ». On connaît par ailleurs vos critiques sur « l’illusion biographique ». En même temps vous souhaitez que les sociologues appliquent la socioanalyse à eux-mêmes et vous préconisez une forme d’auto thérapie définie comme le « recours à la sociologie pour essayer de débarrasser mon travail des déterminismes sociaux qui pèsent ordinairement sur les sociologues. » Nous sommes impatients de vous écouter et intéressés de vous entendre répondre aux nombreuses questions que les chercheurs ici présents ne manqueront pas de vous poser"
+     ],
+     ". »"
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "fr"
+    },
+    "Son intervention première durera une heure, suivie de nombreuses questions. À la suite de cette séance « officielle » nous poursuivrons nos échanges dans un café pendant plusieurs heures illustration du plaisir partagé dans une rencontre informelle et amicale. Sa réponse initiale évoque une tension entre le sujet réflexif qui tente de s’analyser lui-même et le sociologue qui interroge les conditions même de sa réflexivité, déterminé par le système universitaire dont il est le produit."
+   ],
+   "\n",
+   [
+    "blockquote",
+    {
+     "lang": "fr"
+    },
+    "\n",
+    [
+     "p",
+     {},
+     "« ",
+     [
+      "i",
+      {},
+      "Merci beaucoup. Je vais m’appuyer sur ce que vous avez dit à l’instant, et très bien dit. La réflexivité j’essaye de l’expliquer brièvement. Le mot est surchargé d’un tas de connotations liées à l’histoire. Je l’emploie dans un sens assez paradoxal qui contredit la représentation ordinaire selon laquelle un acte réflexif est un acte dans lequel le cogito se prend lui-même comme objet. C’est une cogitation, une pensée qui a pour objet une cogitation. Cette réflexivité-là n’est pas celle qui m’intéresse. Celle que doivent pratiquer, me semble-t-il, le sociologue et la sociologie se définit de manière très simple, c’est un acte scientifique qui consiste à appliquer au sujet individuel ou collectif de la science les instruments scientifiques ordinaires. Il s’agit de faire une recherche sociologique à propos des producteurs du discours sociologique. Un exemple de réflexivité, c’est mon livre Homo academicus. C’est un livre où je ne dis jamais « je » où je ne parle pratiquement jamais de moi et où, pourtant, selon moi, je fais une analyse visant à découvrir une vérité qui peut m’échapper, dans la mesure où elle est inscrite dans l’objectivité du système universitaire dont je suis le produit et dans lequel je travaille, dans lequel je suis pris"
+     ],
+     ". »"
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "fr"
+    },
+    "Pour autant, la suite de son propos est une réhabilitation de l’expérience subjective à laquelle il souhaite donner toute sa place. « ",
+    [
+     "i",
+     {},
+     "C’est une des choses que j’ai contribué à faire en sociologie. La sociologie était positiviste, elle était objectiviste. Cette opposition entre l’objectivisme et le subjectivisme est une fausse opposition qui était liée à des traditions intellectuelles. Il faut la dépasser. Une sociologie respectable doit intégrer l’objectif et le subjectif"
+    ],
+    ". » (p. 44). Il conteste la réputation qui lui est faite de condamner la subjectivité, condamnation d’autant plus injuste qu’il estime, bien au contraire l’avoir réhabilité. Par exemple sur l’analyse du travail, il ne suffit pas d’évoquer l’expérience du travail pour comprendre les rapports de force. Pour autant, l’analyse des rapports de domination, ne suffit pas à comprendre l’expérience subjective, comment chacun vit sa situation, ses relations au travail. « ",
+    [
+     "i",
+     {},
+     "Même chose pour le don, si on ne prend que l’expérience subjective, je te fais un don sans retour, ça ne va pas. Si on prend le truc objectif, don contre don, ça ne va pas non plus. Il faut prendre les deux à la fois et construire des modèles qui prennent en compte les deux. Me dire que la subjectivité, dans mon esprit, ce n’est pas bien, ce n’est pas juste parce que s’il y a quelqu’un qui a réhabilité la subjectivité…"
+    ],
+    " » (p. 44)",
+    [
+     "a",
+     {
+      "href": "#t-fn6",
+      "id": "t-llamada-fn6-1"
+     },
+     [
+      "sup",
+      {},
+      "6"
+     ]
+    ],
+    " Je cite ce verbatim dans lequel il s’exprime sans retenu, dans un langage « ordinaire », chargé d’émotions, pour se dégager de l’image de l’intellectuel insensible et distant partisan d’une sociologie objective, rigoureuse, pour ne pas dire « frigide »."
+   ],
+   "\n"
+  ],
+  [
+   "section",
+   {
+    "id": "t-s4"
+   },
+   "\n",
+   [
+    "h2",
+    {
+     "lang": "fr",
+     "id": "t-seccion-3"
+    },
+    "L’être humain, un objet qui parle et/ou un sujet qui pense?"
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "fr"
+    },
+    "Ces propos liminaires illustrent un paradoxe. À propos de l’",
+    [
+     "i",
+     {},
+     "Homo academicus"
+    ],
+    " (1984), il dit qu’il ne parle pas de lui, mais c’est bien lui qui parle et c’est lui qui pense. La disparition du « Je » est plus que relative. Le sujet réapparaît, malgré lui. Par exemple lorsqu’il constate que bien que ne parlant jamais de lui il propose « ",
+    [
+     "i",
+     {},
+     "une analyse visant à découvrir une vérité qui peut m’échapper…"
+    ],
+    " » En définitive il cherche à concilier une posture sociologique, scientifique, objective, rationnelle, et une posture clinique, sensible, intégrant une dimension affective et subjective. Une conciliation proche de ce que la sociologie clinique propose dans les groupes d’implication et de recherche,",
+    [
+     "a",
+     {
+      "href": "#t-fn7",
+      "id": "t-llamada-fn7-1"
+     },
+     [
+      "sup",
+      {},
+      "7"
+     ]
+    ],
+    " entre un travail centré sur soi, sur l’histoire de chacun, sa trajectoire, son vécu, et un travail collectif d’analyse sociologique de ce vécu, de ces trajectoires, des conflits et des contradictions que chaque histoire révèle. Lorsqu’il se présente comme un sociologue produit du système universitaire dont il cherche à devenir le sujet réflexif, Il rejoind une hypothèse fondatrice de la clinique de l’historicité : « L’individu est le produit d’une histoire dont il cherche à devenir le sujet »."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "fr"
+    },
+    "Sa posture illustre également une seconde hypothèse : « Le sujet advient dans les réponses qu’il tente d’apporter aux contradictions auxquelles il est confronté dans son existence. » (Gaulejac, 2013) Par exemple, comment un jeune béarnais né à la campagne, qui ne fait pas parti des « héritiers » va-t-il « produire » un parcours scolaire qui le conduit à intégrer l’École Normale Supérieure, et rejoindre ainsi l’élite de l’élite universitaire ? Ou encore comment va-t-il acquérir les habitus nécessaires à cette réussite alors qu’ils ne lui ont pas été transmis dans son enfance et qu’il ne dispose pas des différents capitaux social, culturel, économique, nécessaires à leurs acquisitions ? À la fin de son « ",
+    [
+     "i",
+     {},
+     "Esquisse pour une auto-analyse"
+    ],
+    " » (2004) il évoque comment ce décalage entre une haute consécration sociale et une basse extraction sociale a produit chez lui un ",
+    [
+     "i",
+     {},
+     "habitus clivé"
+    ],
+    " produit par des tensions contradictoires. Cette « coïncidence des contraires a sans doute contribué à instituer durablement un rapport ambivalent, contradictoire à l’institution scolaire, fait de rébellion et de soumission, de rupture et d’attente qui peut-être à la racine d’un rapport à soi lui aussi ambivalent et contradictoire : comme si la certitude de soi liée au fait de se sentir consacré était rongée en son principe même par l’incertitude plus radicale à propos de l’institution de consécration, sorte de mauvaise mère trompeuse. » (",
+    [
+     "a",
+     {
+      "href": "#t-r11",
+      "id": "t-llamada-r11-1"
+     },
+     "Bourdieu 2004"
+    ],
+    ":128) D’un côté le bon élève assoiffé de connaissance et de reconnaissance se soumet totalement aux exigences de l’institution ; de l’autre il est habité par une révolte radicale contre un système de concours, de distribution des prix, de leçons inaugurales, de jurys de thèse, de défense de candidatures, chacun de ses rites réveillant chez lui une « envie de dissidence » et un besoin de casser un jeu dont les règles ont été institués par les dominants. Il cite à ce propos Kafka : « Ne te présente pas devant un tribunal dont tu ne reconnais pas le verdict ».",
+    [
+     "a",
+     {
+      "href": "#t-fn8",
+      "id": "t-llamada-fn8-1"
+     },
+     [
+      "sup",
+      {},
+      "8"
+     ]
+    ],
+    " Il évoque à ce propos la haine de soi que provoque la tentation de fréquenter malgré tout ce club. « Je dois confesser que beaucoup de mes choix ont été déterminés, dès l’École Normale, par une forme d’aristocratisme, moins arrogant que désespéré, parce que fondé sur la honte rétrospective d’avoir été pris au jeu du concours. » (op cit. p. 130) Honte d’avoir ainsi céder à la tentation de l’excellence, ce qu’il nomme « le bon-élèvisme », et d’être devenu l’incarnation de l’",
+    [
+     "i",
+     {},
+     "homo academicus"
+    ],
+    "."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "fr"
+    },
+    "À ce propos, il nous livre une belle analyse de son ambivalence vis-à-vis de l’institution scolaire à laquelle il doit tout, de laquelle il doit tout, et dont il n’a de cesse de dénoncer la duplicité."
+   ],
+   "\n",
+   [
+    "blockquote",
+    {
+     "lang": "fr"
+    },
+    "\n",
+    [
+     "p",
+     {},
+     "« ",
+     [
+      "i",
+      {},
+      "Je parle toujours des oblats, ce sont les gens que, dans l’ancien temps, les familles pauvres donnaient à l’Église et qui devenaient souvent les évêques. L’Église leur donnait tout parce qu’ils avaient tout donné à l’Église. Moi, je suis un oblat typique qui attend tout de l’Église, qui est forcément ou bien comblé, et beaucoup de gens qui ont ma trajectoire sont comblés, le système scolaire est formidable puisqu’il m’a reconnu. Et comme je ne dois qu’à moi-même, puisque je viens de si bas, mon succès, donc à mon intelligence, donc le système scolaire est formidable. Et moi, ça n’a jamais marché avec moi. Donc je pense que c’est dans la relation entre mon origine sociale, mon expérience du système scolaire et ma position dans le système scolaire aujourd’hui, qu’on doit trouver le début de l’interprétation de cette intolérance exaspérée à l’évaluation scolaire, qui a sans doute été un des moteurs de ma recherche"
+     ],
+     ". » (29)."
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "fr"
+    },
+    "L’œuvre de Pierre Bourdieu est traversé par une bipolarité entre une posture théorique - qui le conduit à analyser les rapports sociaux comme des rapports de dominations et de contraintes, incorporés dans des ",
+    [
+     "i",
+     {},
+     "habitus"
+    ],
+    " qui déterminent les conduites des individus - et une posture dénonciatrice des détenteurs des positions dominantes dans un système dont ils fixent et maîtrisent les règles. Ces derniers sont pour lui d’autant plus illégitimes qu’ils occultent les fondements de leur pouvoir et la violence symbolique qu’ils exercent. Sa vie et sa pensée sont traversées par une contradiction entre une trajectoire ascensionnelle remarquable qui conduit à devenir Professeur au Collège de France, et une colère contre les processus de reproduction qui met en échec la majorité des enfants issus des milieux populaires. Malgré sa notoriété, il conservera une rage contre un système qui lui a pourtant permis d’échapper aux déterminismes qu’il analyse."
+   ],
+   "\n"
+  ],
+  [
+   "section",
+   {
+    "id": "t-s5"
+   },
+   "\n",
+   [
+    "h2",
+    {
+     "lang": "fr",
+     "id": "t-seccion-4"
+    },
+    "Les agents sociaux sont aussi des « sujets qui pensent »"
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "fr"
+    },
+    "La question du sujet est délicate pour Pierre Bourdieu. On le perçoit dans une réponse à Loïc Wacquant pour savoir à quelle condition les agents sociaux se font complices de l’action des déterminismes en eux et donc à quelle condition ils peuvent se dégager de cette action : « Les agents sociaux sont déterminés seulement dans la mesure où ils ",
+    [
+     "i",
+     {},
+     "se"
+    ],
+    " déterminent (…) On peut se servir de la connaissance de ces mécanismes pour leur échapper (… Les agents n’ont quelques chances de devenir des “",
+    [
+     "i",
+     {},
+     "sujets"
+    ],
+    "” que dans la mesure, et dans la mesure seulement, où ils maîtrisent consciemment la relation qu’ils entretiennent avec leurs dispositions, choisissant de les laisser agir ou au contraire de les inhiber, ou, mieux, de les soumettre (…) Mais ce travail de gestion de ses propres dispositions n’est possible qu’au prix d’un travail constant et méthodique d’explicitation. Faute d’une analyse de ces déterminations subtiles qui opèrent au travers des dispositions, on se fait complice de l’action inconsciente des dispositions, qui est elle-même complice du déterminisme. » (",
+    [
+     "a",
+     {
+      "href": "#t-r7",
+      "id": "t-llamada-r7-1"
+     },
+     "Bourdieu & Wacquant 1992"
+    ],
+    "). Il met le terme « sujet » entre guillemet pour souligner combien le concept est à manier avec d’infinies précautions. Chacun est pris de l’intérieur par les déterminismes qui le conduisent à intérioriser des façons d’être, de penser et de faire, illustrant la façon dont l’histoire est agissante en soi. La prise de conscience doit être accompagné d’un travail approfondi sur soi qui combine la prise de conscience réflexive et la perlaboration psychique.",
+    [
+     "a",
+     {
+      "href": "#t-fn9",
+      "id": "t-llamada-fn9-1"
+     },
+     [
+      "sup",
+      {},
+      "9"
+     ]
+    ],
+    " Ce travail de ",
+    [
+     "i",
+     {},
+     "socioanalyse"
+    ],
+    " est un combat permanent, un corps à corps entre l’individu et ses habitus, une bataille interne farouche du sujet avec cette partie de lui-même qui est le produit de l’histoire incorporée.",
+    [
+     "a",
+     {
+      "href": "#t-fn10",
+      "id": "t-llamada-fn10-1"
+     },
+     [
+      "sup",
+      {},
+      "10"
+     ]
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "fr"
+    },
+    "Comment mener cette lutte? Dans quel cadre? Avec quelles armes? Comment effectuer ce travail méthodique d’explicitation ? Il était conscient des difficultés à répondre à ces questions. Il me disait, lors de notre entretien préalable: ",
+    [
+     "i",
+     {},
+     "« j’ai longtemps été comme le jeune Freud, j’ai longtemps pensé que la prise de conscience suffisait"
+    ],
+    ". » La socioanalyse a pour objectif d’accompagner théoriquement ce travail de dégagement vis-à-vis de ses habitus incorporés, mais l’explicitation est-elle suffisante pour se dégager de l’incorporation ? Lui-même en doutait. Il disait qu’il passait l’essentiel de son temps à faire de la « thérapie » auprès de ses collègues afin de les aider à mieux comprendre dans quelle mesure leur activité de chercheur était influencée par l’action inconsciente des déterminations sociales. Il trouvait ce travail épuisant, difficile, et il regrettait de n’avoir pas pu former d’autres pour le faire."
+   ],
+   "\n"
+  ],
+  [
+   "section",
+   {
+    "id": "t-s6"
+   },
+   "\n",
+   [
+    "h2",
+    {
+     "id": "t-seccion-5"
+    },
+    "L’inconscient entre sociologie et psychanalyse"
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "fr"
+    },
+    "« J’utilise le mot inconscience délibérément parce que je pense que ce ne serait pas bien de dire qu’il y a l’inconscient, le vrai, que Freud décrit, et puis il y a celui que décrit Bourdieu, qui n’est pas un vrai. C’est un vrai inconscient qui a toutes les propriétés de répression, refoulement, retour du refoulé, déplacement, transfert. Tout y est. C’est un inconscient complet, avec tous les effets et les méfaits qu’on peut attendre d’un inconscient. » (",
+    [
+     "a",
+     {
+      "href": "#t-r7",
+      "id": "t-llamada-r7-2"
+     },
+     "Bourdieu & Wacquant 1992"
+    ],
+    ":24). Il insiste sur l’aveuglement des « héritiers » et des dominants quant aux principes qui fondent leur domination. L’auto réflexivité bute sur le déni de reconnaître l’influence des appartenances de classe sur les réussites et les échecs scolaires ou professionnels. La scène inconsciente est ici clairement désignée du côté des processus de pouvoir et des pesanteurs actives de l’histoire de l’individu, de son éducation, des habitudes liées à son milieu d’origine, de son capital social et culturel. L’ensemble des déterminants qui conditionnent la production de la connaissance et sa transmission sont ignorés, occultés, refoulés. Par exemple la façon dont les professeurs émettent des jugements sur la tenue de leurs élèves fondés sur des jugements sociaux et moraux plutôt que sur les qualités effectives de leur travail scolaire."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "fr"
+    },
+    "La réflexivité objective nécessite d’intégrer le point de vue de celui qui l’effectue en analysant les “intérêts” matériels et immatériels, objectifs et subjectifs, manifestes et latents, qu’il peut défendre dans le processus d’objectivation. Ce processus d’élucidation se heurte à de multiples résistances de la part du chercheur et de la communauté à laquelle il appartient. Il évoque à ce propos les critiques acerbes que lui ont valu son ouvrage ",
+    [
+     "i",
+     {},
+     "l’Homo academicus"
+    ],
+    " dans lequel il dénonce les ressorts du pouvoir dans le champ universitaire. La socioanalyse révèle les effets de pouvoir et des processus de domination refoulés par ceux qui les produisent, en particulier lorsqu’ils en bénéficient. En définitive l’accès à l’inconscient « sociologique » se heurte à des résistances similaires que l’accès à l’inconscient intrapsychique. « La psychanalyse révèle des choses par rigolotes du tout, mais c’est peut-être en faisant ce travail que l’on se donne une petite chance d’être un peu plus sujet, c’est-à-dire d’être un peu plus à l’origine vraiment de ce que l’on fait. » (op. cit. p. 45). L’exercice de réflexivité qu’il propose n’est pas un exercice purement intellectuel. Il concerne les couches affectives les plus profondes de chacun de nous. Il conduit à explorer des sentiments intimes comme l’humiliation, l’envie, la honte, la culpabilité, la colère, le ressentiment, la rage… Autant de violences et de souffrances issues d’expériences qui peuvent avoir l’air intellectuelles, mais qui touchent aux profondeurs de la psyché."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "fr"
+    },
+    "Freud cherche la clé explicative des comportements humains du côté du registre intra psychique, alors que Bourdieu la cherche du côté de l’intériorisation des structures sociales. Pourtant à partir de prémisses différentes leurs approches respectives se rejoignent. Loin d’être hostile à la psychanalyse, le sociologue estimait qu’il n’y avait pas de différence fondamentale entre sa conception de l’inconscient et celle de Freud : « c’est le même, face à l’action inconsciente des dispositions, on constate des résistances, des déplacements, du refoulement, des dénégations… » La différence tient à la méthode d’investigation et de traitement. Freud a inventé la psychanalyse comme théorie du psychisme humain et comme pratique thérapeutique. Bourdieu invente la socioanalyse pour pratiquer une sociologie réflexive, sans indiquer les moyens opératoires pour la mener, au-delà d’une simple réflexibilité."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "fr"
+    },
+    "Il y a une convergence entre Freud et Bourdieu sur deux points essentiels : 1) une méfiance vis-à-vis des conceptions d’un sujet conscient, volontaire, capable de maîtriser son destin; 2) l’idée que le sujet peut effectuer un travail sur lui-même face aux contradictions qui déterminent ses conduites pour se dégager des effets de ces déterminismes. Il ne suffit pas de prendre conscience des conflits pour les résoudre. La prise de conscience doit être complétée par un travail permettant de « lever les résistances qui entravent la communication entre les systèmes inconscients et préconscients et capable d’établir une liaison de plus en plus étroite entre les traces mnésiques inconscientes et leur verbalisation » (",
+    [
+     "a",
+     {
+      "href": "#t-r18",
+      "id": "t-llamada-r18-1"
+     },
+     "Laplanche et Pontalis 1967"
+    ],
+    ":98). Si la psychanalyse fournit le cadre, la démarche et la méthode pour effectuer ce travail, il n’en va pas de même pour la socioanalyse."
+   ],
+   "\n"
+  ],
+  [
+   "section",
+   {
+    "id": "t-s7"
+   },
+   "\n",
+   [
+    "h2",
+    {
+     "lang": "fr",
+     "id": "t-seccion-6"
+    },
+    "Chacun de nous est encombré de son passé, plus ou moins"
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "fr"
+    },
+    "Un autre point de convergence existe entre les deux auteurs. La conception freudienne de la permanence du passé dans la vie psychique rejoint la définition de l’habitus comme produit de toute l’expérience biographique. Le psychanalyste et le sociologue considèrent que l’histoire est agissante en soi dans la mesure où elle conditionne les comportements, les façons d’être, les attitudes et la personnalité. Il considère l’histoire de l’individu comme un poids dont il doit se libérer : « chacun de nous est encombré d’un passé, de son passé et ce passé social, qu’il soit « populaire » ou « bourgeois » (…) toujours étroitement entrelacé avec celui qu’explore la psychanalyse, est particulièrement pesant et embarrassant quand il s’agit de faire des sciences sociales » (",
+    [
+     "a",
+     {
+      "href": "#t-r10",
+      "id": "t-llamada-r10-1"
+     },
+     "Bourdieu 2000"
+    ],
+    ":55). Ainsi l’histoire est analysée comme un ensemble de déterminations pesantes, encombrantes, contraignantes, et surtout masquées."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "fr"
+    },
+    "Si le destin d’un individu est déterminé par l’histoire, celle-ci n’est pas réductible à l’histoire des relations affectives entre l’enfant et les adultes qui ont accompagné ses premiers apprentissages. Ces relations sont elles-mêmes portées par une série de rapports qui les déterminent. Elles sont porteuses d’enjeux non seulement affectifs, mais également idéologiques, culturels, sociaux et économiques, chacun de ces niveaux ne pouvant être dissocié des autres dans la mesure où c’est leur intrication qui produit la structure de programmation, l’héritage, le cadre référentiel sur lesquels l’enfant va étayer sa propre histoire. Comprendre le poids de l’histoire en chaque individu, c’est comprendre l’articulation entre l’histoire personnelle, l’histoire familiale et l’histoire sociale."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "fr"
+    },
+    "L’habitus est le résultat d’un ensemble de pratiques qui se constituent au fil du temps. Capitalisées en fonction de leur capacité à apporter des réponses aux conditions concrètes d’existence à un moment donné, elles se transmettent de génération en génération. Ce sont des programmes historiquement montés qui indiquent à l’individu des manières d’être et de se comporter dans les situations sociales. « L’inconscient n’est jamais que l’oubli de l’histoire que l’histoire elle-même produit en réalisant les structures objectives qu’elle engendre dans ces quasi-natures que sont les habitus. Histoire incorporée faite nature et par là oubliée en tant que telle, l’habitus est la présence agissante de tout le passé dont il est le produit » (Bourdieu 1980:94). Dans cette perspective la notion d’inconscient désigne l’ensemble des processus à l’œuvre dans la fabrication sociale des individus et dont ceux-ci n’ont pas conscience."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "fr"
+    },
+    "Cette conception de l’inconscient ne renvoie pas à une théorie de l’appareil psychique mais plutôt à l’ensemble des structures cognitives, en particulier celles imputables au système scolaire, qui déterminent l’organisation mentale de l’individu. La psychologie implicite de référence est de type cognitiviste, très éloigné de la psychanalyse. L’individu intériorise de façon mécanique des schèmes d’appréciation, de perception et de cognition, issus du milieu scolaire, familial et social dans lequel il baigne. Il s’agit là de structures sociales incorporées que l’individu considère comme innées alors qu’elles sont acquises. Cette méconnaissance de ce qui lui permet de penser, de parler et d’agir est la caractéristique majeure de l’inconscient selon Bourdieu. Mais cet inconscient n’a pas d’étayage psychique. S’il décrit l’importance des déterminismes socio-institutionnels dans la fabrication sociale des individus, on peut regretter qu’il ne se soit pas inspiré de la théorie psychanalytique pour mieux saisir les processus d’incorporation. Comment se fait l’intériorisation ? Par quels canaux ? Il lui manque une théorie de l’intériorité pour aller plus loin sur ce point. Il n’explore pas l’analyse des processus qui permettraient de rendre compte de l’incorporation des habitus. Il postule des correspondances entre les structures sociales et les structures mentales sans expliciter ces processus d’étayage réciproque."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "fr"
+    },
+    "Cette difficulté apparaît lorsqu’on s’interroge sur le statut du mental chez Bourdieu, terme qui n’est jamais vraiment défini si ce n’est comme « structure cognitive » ou « chaîne de perception, d’appréciation et d’action ». En fait, le mental tend à se réduire à du social intériorisé. Dans ",
+    [
+     "i",
+     {},
+     "La Noblesse d’État"
+    ],
+    " (1989), il développe sa conception de l’inconscient en ces termes: “les structures subjectives de l’inconscient sont le produit d’un long et lent processus d’incorporation des structures objectives. L’agent est guidé par un inconscient que l’on est en droit de dire ",
+    [
+     "i",
+     {},
+     "aliéné"
+    ],
+    ", puisqu’il n’est qu’extériorité intériorisée”. L’agent est agi par un inconscient, résultant de l’action des structures sociales et de la position qu’il y occupe : « il accepte de se faire le sujet apparent d’actions qui ont pour sujet la structure » (",
+    [
+     "a",
+     {
+      "href": "#t-r5",
+      "id": "t-llamada-r5-1"
+     },
+     "Bourdieu 1989"
+    ],
+    ":47). Le sujet est donc le produit des structures objectives. Les processus psychiques sont considérés comme le relais, sinon le simple reflet, de processus sociaux et institutionnels."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "fr"
+    },
+    "P. Bourdieu considère l’appareil psychique comme une boîte noire sur laquelle vient s’imprimer l’empreinte des structures sociales. En définitive le mental n’a pas d’existence propre. C’est un inconscient « mou » orchestré de l’extérieur. Les schèmes d’appréciation, de perception, de pensée et d’action de chaque individu sont déterminés du dehors par son éducation, sa position sociale, les intérêts objectifs qu’il défend, les organisations auxquelles il appartient et, en dernier ressort, par les rapports de domination du champ social et/ou institutionnel considéré. Les notions d’investissement, d’inculcation et d’incorporation, qu’il utilise pour rendre compte de l’intériorisation par les agents des processus sociaux, ne désignent pas en fait des processus concrets. Faute d’une compréhension et d’une conceptualisation des processus psychiques, la circularité dialectique et la réciprocité des influences entre le social et le psychique ne sont pas analysées. La construction théorique ne fonctionne que sur un registre, le raisonnement est univoque faute de dévoiler, à côté des racines sociales, les racines psychiques inconscientes des conduites humaines."
+   ],
+   "\n"
+  ],
+  [
+   "section",
+   {
+    "id": "t-s8"
+   },
+   "\n",
+   [
+    "h2",
+    {
+     "id": "t-seccion-7"
+    },
+    "Entre posture critique et posture clinique"
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "fr"
+    },
+    "Au tout début de sa carrière de chercheur, Il avait déposé un projet de thèse avec Canguilhem, sur la ",
+    [
+     "i",
+     {},
+     "Phénoménologie de la vie affective"
+    ],
+    ". Une de ses fiertés est de n’avoir jamais fait de thèse pour ne pas se présenter devant un jury dont il contestait la légitimité et de ne pas cautionner un pouvoir d’évaluation qu’il condamnait. Pour autant, il était intéressé par l’exploration phénoménologique des émotions et des affects. « ",
+    [
+     "i",
+     {},
+     "C’est un aspect resté très présent dans mon travail"
+    ],
+    " », nous dira-t-il à la fin de son intervention."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "fr"
+    },
+    "Je rappelle pour mémoire que Max Pagès, le fondateur du Laboratoire de changement social, a écrit à la même époque un bel ouvrage sur « La vie affective des groupes » (1967). Cette référence à Max Pagès n’est pas anodine. La recherche qu’il a dirigé sur ",
+    [
+     "i",
+     {},
+     "l’emprise de l’organisation"
+    ],
+    ",",
+    [
+     "a",
+     {
+      "href": "#t-fn11",
+      "id": "t-llamada-fn11-1"
+     },
+     [
+      "sup",
+      {},
+      "11"
+     ]
+    ],
+    " s’inscrit parfaitement dans les attentes de Bourdieu : « ",
+    [
+     "i",
+     {},
+     "Je pense qu’une des tâches les plus importantes pour une sociologie clinique, ce serait, selon moi, d’étudier cette espèce d’échange permanent entre les attentes des institutions et celles des individus, en particulier les attentes affectives"
+    ],
+    ". » Les institutions sont pleines d’appétence, de désir. « ",
+    [
+     "i",
+     {},
+     "Ne parlons pas de l’Église. L’Église est pleine de sexe"
+    ],
+    " » (p. 28) Ce qui est intéressant ce sont les transactions entre les désirs, les libidos individuelles et les libidos institutionnelles. Comment un pervers peut se servir d’une institution pour accomplir sa perversion. Et inversement, comment une institution peut se servir d’un pervers pour remplir ses fins. » Il m’avait confié avoir lu « Le coût de l’excellence » (1991). Il exprimait son accord abattre la « ",
+    [
+     "i",
+     {},
+     "frontière absurde entre le sociologique et le psychologique, et faire apparaître que les institutions travaillent les affects et que les affects travaillent les institutions"
+    ],
+    " » (p. 29). Pour autant il était conscient du décalage entre l’importance d’abattre cette frontière, alors que cette intention n’était pas franchement visible dans son travail. « Il se pourrait que ça ne se voie pas » avouait-il. Effectivement, cela ne se voit pas beaucoup !"
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "fr"
+    },
+    "Dans son ",
+    [
+     "i",
+     {},
+     "Esquisse pour une auto-analyse"
+    ],
+    " (2004), il écrit en exergue « Analyse sociologique excluant la psychologie, sauf quelques mouvements d’humeur ». Ce radicalisme sociologique conduit à exclure de la socioanalyse toutes les dimensions non sociologiques, ce qui en limite évidemment la portée. On retrouve ici son ambivalence entre la défense d’une orthodoxie sociologique, afin de la protéger des risques d’une dérive idéaliste, philosophique, psychologique, et la prise de conscience des impasses de cette posture, en particulier du risque d’une réification de l’action des déterminations structurelles. L’ambiguïté de la socioanalyse réside dans cette tentative non aboutie de concilier « une analyse qui peut être appelée structuraliste, qui tend à recueillir des relations objectives, indépendantes des consciences et des volontés individuelles (…) et une procédure phénoménologique, interactionniste ou ethno méthodologique, qui tend à recueillir l’expérience que les agents font réellement des interactions, des contacts sociaux et de la contribution qu’ils apportent à la construction mentale et pratique des réalités sociales » (Bourdieu 1987). La socioanalyse propose, sans vraiment y arriver, de dépasser les tensions entre l’analyse des structures et la prise en compte de l’expérience, entre ce que la société produit et les contributions des individus à cette production, entre les conditions objectives et les conditions subjectives qui déterminent les relations sociales."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "fr"
+    },
+    "Il hésitait constamment entre une posture critique de dénonciation et une posture clinique de compréhension. La posture guerrière est souvent celle qu’il adopte en premier lieu: la connaissance est une conquête contre les résistances, les intérêts, les habitudes ; il faut forcer les consciences, dénoncer les aveuglements, dévoiler les errements des collègues ; l’écoute doit être « armée » pour éviter tous les pièges de l’empathie (Bourdieu 1993). Il était trop sensible aux enjeux de domination et aux multiples illusions qu’elle entraîne, en particulier dans le champ de la production du savoir, pour croire qu’une posture empathique et une neutralité bienveillante puissent être de mise en ce domaine."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "fr"
+    },
+    "L’occultation des processus de domination est au fondement de leur efficacité. L’attitude combative pour en dévoiler la violence, effective et symbolique, est parfaitement compréhensible. Mais le chercheur se fait alors militant et adopte une position offensive perçue comme partisane. Il incarne celui qui va libérer l’homme de la méconnaissance en lui faisant découvrir l’action néfaste des déterminations sociales. S’il ne peut y avoir de neutralité dans ce domaine, la posture dénonciatrice à des conséquences contre productives dans la mesure où elle conduit à prendre parti alors qu’il s’agit d’abord de décrire les mécanismes de la domination, d’en démonter les fondements et de laisser aux sujets le soin d’en tirer les conséquences. Si le chercheur récuse la posture de l’expert, détenteur de la vérité, il doit accepter que ses analyses soient soumises à la double épreuve de l’évaluation par la communauté scientifique et par les acteurs concernés. L’ambivalence de Bourdieu sur ce point est présente tout au long de son œuvre dans la mesure où il était partagé entre l’ambition d’imposer la sociologie comme discipline scientifique et le projet de l’utiliser comme une arme critique contre les dominants."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "fr"
+    },
+    "Le sociologue peut penser qu’il doit choisir son camp et se donner bonne conscience en s’identifiant au combat des opprimés contre les oppresseurs. Dans ce combat, il renforce l’image d’une sociologie militante, plus portée à la dénonciation et l’indignation qu’à l’explication et la compréhension. La démarche clinique nous apprend qu’en la matière, l’empathie est préférable à la dénonciation, la co-construction à l’affrontement des points de vue, l’élaboration commune à l’opposition frontale. C’est d’ailleurs ce qui est implicite dans la position de Bourdieu lorsqu’il préconise une socioanalyse du rapport du sociologue à son histoire."
+   ],
+   "\n"
+  ],
+  [
+   "section",
+   {
+    "id": "t-s9"
+   },
+   "\n",
+   [
+    "h2",
+    {
+     "id": "t-seccion-8"
+    },
+    "La névrose de classe de Pierre Bourdieu"
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "fr"
+    },
+    "Dans son auto-analyse, Il évoque sa propre histoire, le rejet de son milieu d’origine qu’il considérait comme attardé, archaïque, qu’il avait été « porté (ou poussé) à mépriser et à renier ou pire, à refouler ». Le choix de la sociologie lui a permis de transformer ce regard de haine en « regard professionnel, à la fois compréhensif et objectivant » et de se dégager de « la violence d’une relation ambivalente où se mêlent la familiarité et la distance, la sympathie et l’horreur, voire le dégoût » (",
+    [
+     "a",
+     {
+      "href": "#t-r10",
+      "id": "t-llamada-r10-2"
+     },
+     "Bourdieu 2000"
+    ],
+    ":56). Les contradictions liées à son changement de classe sociale, le poussent vers la sociologie. Elles déterminent sa façon de faire de la recherche. L’analyse de la violence symbolique est une forme de sublimation de la honte et du rejet vis-à-vis de son milieu d’origine, à partir du moment où il fréquente d’autres milieux, où il accède à la culture « légitime » et se trouve confronté aux multiples humiliations que cette ascension provoque."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "fr"
+    },
+    "Quelques jours après son décès, Emmanuel Poncet écrit un article du journal ",
+    [
+     "i",
+     {},
+     "Libération"
+    ],
+    " en février 2002 intitulé « ",
+    [
+     "i",
+     {},
+     "La Névrose de classe de Bourdieu"
+    ],
+    "”. Le journaliste, en me citant, rappelle les symptômes de cette « névrose » en particulier le surinvestissement dans le travail et dans l’écriture, la révolte devant les inégalités, les conflits de loyauté vis-à-vis de son milieu familial, les réactions défensives contre la honte sociale originelle qui rend solidaire de toutes les exclusions et de toutes les injures faites aux minorités. Il termine son article en remarquant : « finalement, les cruels jeux de cour du lycée de Pau sont peu ou prou les mêmes que ceux du campus intello médiatique parisien où les clivages restent souvent les mêmes, où les logiques d’ascension ou de préservation sociale perdurent, s’accentuent, et dont les membres ne supportent pas d’être démasqués, objectivés, ramenés à leur détermination sociale… surtout lorsqu’ils sont en position de force. La névrose de classe de Pierre Bourdieu avait les défauts de toutes les névroses dont on fait brillamment quelque chose : créatrice, productrice, libératrice mais aussi imposante, figeante, énervante. Son œuvre a pu libérer autant que bloquer, faciliter les déplacements sociaux comme les inhiber. »"
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "fr"
+    },
+    "Déchiré par l’ambivalence vis-à-vis des institutions scolaires, il entre en guerre contre les héritiers et les dominants. La haine de classe se transforme en travail universitaire et en position militante pour dévoiler les processus de domination et les ressorts de la violence symbolique dans l’éducation. Pour autant, la socioanalyse ne permet pas de comprendre les entrelacements entre d’une part, les enjeux de pouvoir et de distinction, les violences humiliantes, la révolte contre les dominants, l’envie et, d’autre part, les effets psychiques de son ambivalence vis-à-vis de ses parents, le travail de la culpabilité, les conflits d’identification, la dévalorisation narcissique d’appartenir à un milieu mal loti, les multiples facettes du sentiment de honte qu’il a éprouvé face à ces situations. Il affirme pourtant que l’inconscient social (l’action des déterminations sociales en soi) est “toujours étroitement entrelacé avec celui qu’explore la psychanalyse” (",
+    [
+     "a",
+     {
+      "href": "#t-r10",
+      "id": "t-llamada-r10-3"
+     },
+     "Bourdieu 2000"
+    ],
+    ":55), sans en tirer les conclusions qui s’imposent."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "fr"
+    },
+    "Sur les questions du sujet, des « entrelacs entre sociologie et psychanalyse », de la prise en compte de l’expérience vécue des acteurs, de l’attention à la subjectivité, ses positions alternent en permanence entre une résistance forte à tout ce qui pourrait dénaturer la posture sociologique (analyser le social par le social) et une ouverture à une approche plus clinique, qui dialectise les rapports entre l’action des déterminismes sociaux et le travail du sujet sur la façon dont l’histoire est agissante en lui."
+   ],
+   "\n"
+  ],
+  [
+   "section",
+   {
+    "id": "t-s10"
+   },
+   "\n",
+   [
+    "h2",
+    {
+     "id": "t-seccion-9"
+    },
+    "Épilogue :« Je m’efforce d’encourager les lectures cliniques… »"
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "fr"
+    },
+    "Lors de son intervention au LCS, nous avions convenu de poursuivre nos débats en organisant une journée sur le thème « socioanalyse et sociologie clinique ». Sa maladie ne permettra pas de réaliser ce projet. Il nous avait dit qu’il, était fatigué, mais nous ne pouvions imaginer la gravité de son état. Au-delà de l’auteur, nous avons rencontré un homme tout en contraste, intellectuel brillant et pétris de doute, militant combatif et collègue plein d’empathie, conférencier sérieux ayant envie de rire jusqu’à se moquer de lui-même. Il était soucieux de corriger l’image d’une sociologie intellectualiste, objectiviste et un peu « frigide » que nous pouvions avoir."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "fr"
+    },
+    "Je me souviendrai longtemps de sa tirade contre l’univers scolastique et sa violence se terminant par un aveu : « ",
+    [
+     "i",
+     {},
+     "Je pense que si on fait de la sociologie clinique, je pourrai y venir, aujourd’hui, mon hypothèse serait que dans 95 % des cas, à l’origine du meurtre, il y a un prof, un prof totalement innocent qui, lui-même victime, a intériorisé ces catégories d’entendement, et tue d’autant plus consciencieusement, lâchement qu’il a été lui-même victime"
+    ],
+    ". » Il considérait évidemment qu’il était lui-même victime et bourreau, dans ce système, conscient de son rôle de modèle tout en gardant au fond de lui l’enfant béarnais, indiscipliné, révolté, impertinent… mais bon élève."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "fr"
+    },
+    "D’où ses tentatives pour concilier la critique et la clinique, la dénonciation et la compréhension, la pensée scientifique et l’implication personnelle. “On peut toujours faire deux usages différents de l’analyse sociologique: des usages que l’on peut appeler cliniques, tels que la socioanalyse, qui consistent à aller chercher dans les acquis de la science les instruments d’une compréhension de soi sans complaisance; et des usages que l’on peut dire cyniques, et qui consistent à chercher dans l’analyse des mécanismes sociaux des instruments pour “réussir” dans le monde social. Il va de soi que je m’efforce constamment de décourager les lectures cyniques et d’encourager les lectures cliniques.” (",
+    [
+     "a",
+     {
+      "href": "#t-r7",
+      "id": "t-llamada-r7-3"
+     },
+     "Bourdieu & Wacquant 1992"
+    ],
+    ":182)."
+   ],
+   "\n"
+  ],
+  [
+   "section",
+   {},
+   "\n",
+   [
+    "aside",
+    {
+     "id": "t-fn1",
+     "rol": "fn"
+    },
+    [
+     "span",
+     {},
+     "1"
+    ],
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     [
+      "a",
+      {
+       "href": "#t-r8",
+       "id": "t-llamada-r8-1"
+      },
+      "Bourdieu, P. (1997)"
+     ],
+     ". Les usages sociaux de la science: pour une sociologie clinique du champ scientifique. Paris: INRA Éditions, collection « Sciences en question »."
+    ]
+   ],
+   "\n",
+   [
+    "aside",
+    {
+     "id": "t-fn2",
+     "rol": "fn"
+    },
+    [
+     "span",
+     {},
+     "2"
+    ],
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     [
+      "a",
+      {
+       "href": "https://books.openedition.org/quae/40627"
+      },
+      "https://books.openedition.org/quae/40627"
+     ],
+     ". Dans l’article en référence les paragraphes sont numérotés, numérotation que j’indique dans les citations qui suivent."
+    ]
+   ],
+   "\n",
+   [
+    "aside",
+    {
+     "id": "t-fn3",
+     "rol": "fn"
+    },
+    [
+     "span",
+     {},
+     "3"
+    ],
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     [
+      "a",
+      {
+       "href": "#t-r13",
+       "id": "t-llamada-r13-1"
+      },
+      "Fugier, P. (2013)"
+     ],
+     ". *La position de la clinique dans la sociologie de Pierre Bourdieu*. In *La recherche clinique en sciences sociales* (pp. 43-56). Erès"
+    ]
+   ],
+   "\n",
+   [
+    "aside",
+    {
+     "id": "t-fn4",
+     "rol": "fn"
+    },
+    [
+     "span",
+     {},
+     "4"
+    ],
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     "La vidéo est accessible sur le site <",
+     [
+      "a",
+      {
+       "href": "https://vincentdegaulejac.com"
+      },
+      "vincentdegaulejac.com"
+     ],
+     ">."
+    ]
+   ],
+   "\n",
+   [
+    "aside",
+    {
+     "id": "t-fn5",
+     "rol": "fn"
+    },
+    [
+     "span",
+     {},
+     "5"
+    ],
+    [
+     "p",
+     {},
+     "Pierre Nora (dir.), ",
+     [
+      "i",
+      {},
+      "Essais d’ego-histoire"
+     ],
+     ", Paris, Gallimard, 1987."
+    ]
+   ],
+   "\n",
+   [
+    "aside",
+    {
+     "id": "t-fn6",
+     "rol": "fn"
+    },
+    [
+     "span",
+     {},
+     "6"
+    ],
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     "Les numéros de pages renvoient au texte de son intervention également accessible sur le site <",
+     [
+      "a",
+      {
+       "href": "https://vincentdegaulejac.com"
+      },
+      "vincentdegaulejac.com"
+     ],
+     ">."
+    ]
+   ],
+   "\n",
+   [
+    "aside",
+    {
+     "id": "t-fn7",
+     "rol": "fn"
+    },
+    [
+     "span",
+     {},
+     "7"
+    ],
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     "CF la notice dans ",
+     [
+      "i",
+      {},
+      "le Dictionnaire de sociologie clinique"
+     ],
+     ", sous la direction d’Agnès Vandevelde et Pascal Fugier, Toulouse, ÉRÈS, 2019."
+    ]
+   ],
+   "\n",
+   [
+    "aside",
+    {
+     "id": "t-fn8",
+     "rol": "fn"
+    },
+    [
+     "span",
+     {},
+     "8"
+    ],
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     "Mot repris par Groucho Marx : « Que voulez-vous que j’aille faire dans un club qui m’accepterait comme membre ? »."
+    ]
+   ],
+   "\n",
+   [
+    "aside",
+    {
+     "id": "t-fn9",
+     "rol": "fn"
+    },
+    [
+     "span",
+     {},
+     "9"
+    ],
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     "Le terme désigne le travail psychique qui permet au sujet d’accepter certains éléments refoulés et de se dégager de l’emprise de mécanisme répétitifs (J. Laplanche et J.B. Pontalis, Vocabulaire de psychanalyse, PUF, 1967.)"
+    ]
+   ],
+   "\n",
+   [
+    "aside",
+    {
+     "id": "t-fn10",
+     "rol": "fn"
+    },
+    [
+     "span",
+     {},
+     "10"
+    ],
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     "« La sociologie est un sport de combat », documentaire sorti en 2001, réalisé par Pierre Carles pour faire connaître au grand public les travaux de Pierre Bourdieu."
+    ]
+   ],
+   "\n",
+   [
+    "aside",
+    {
+     "id": "t-fn11",
+     "rol": "fn"
+    },
+    [
+     "span",
+     {},
+     "11"
+    ],
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     "Max Pagès, Michel Bonetti, Daniel Descendres, Vincent de Gaulejac, ",
+     [
+      "i",
+      {},
+      "L’emprise de l’organisation"
+     ],
+     ", PUF, 1979."
+    ]
+   ],
+   "\n"
+  ],
+  [
+   "section",
+   {},
+   "\n",
+   [
+    "h2",
+    {
+     "id": "t-seccion-10"
+    },
+    "Références"
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r1",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Ansart"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "P."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "1990"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Les sociologies contemporaines"
+      ]
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Paris"
+     ],
+     ": ",
+     [
+      "span",
+      {},
+      "Points-Seuil"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r2",
+     "rol": "ref",
+     "lang": "fr"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Aubert"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "N"
+      ]
+     ],
+     " & ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Gaulejac"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "V. de"
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "1991"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Le Coût de l’excellence"
+      ]
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Paris"
+     ],
+     ": ",
+     [
+      "span",
+      {},
+      "Seuil"
+     ],
+     ". (Spanish translation, 2016, Madrid: Sapere Aude)."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r3",
+     "rol": "ref",
+     "lang": "fr"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Bourdieu"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "P."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "1984"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "L’Homo Académicus"
+      ]
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Paris"
+     ],
+     ": ",
+     [
+      "span",
+      {},
+      "Les éditions de Minuit"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r4",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Bourdieu"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "P."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "1986"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "L’illusion biographique"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Actes de la recherche en sciences sociales"
+      ]
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      "62/63"
+     ],
+     ":",
+     [
+      "span",
+      {},
+      "69"
+     ],
+     "–",
+     [
+      "span",
+      {},
+      "72"
+     ],
+     ". ",
+     [
+      "a",
+      {
+       "href": "https://doi.org/10.3406/arss.1986.2317"
+      },
+      "https://doi.org/10.3406/arss.1986.2317"
+     ]
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r5",
+     "rol": "ref",
+     "lang": "fr"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Bourdieu"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "P."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "1989"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "La Noblesse d’État"
+      ]
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Paris"
+     ],
+     ": ",
+     [
+      "span",
+      {},
+      "Les éditions de Minuit"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r6",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Bourdieu"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "P"
+      ]
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Chamboredon"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "JC"
+      ]
+     ],
+     " & ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Passeron"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "JC."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "1969"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Le métier de sociologue"
+      ]
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Paris"
+     ],
+     ": ",
+     [
+      "span",
+      {},
+      "Mouton/Bordas"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r7",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Bourdieu"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "P"
+      ]
+     ],
+     " & ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Wacquant"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "L."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "1992"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Réponses"
+      ]
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Paris"
+     ],
+     ": ",
+     [
+      "span",
+      {},
+      "Seuil"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r8",
+     "rol": "ref",
+     "lang": "fr"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Bourdieu"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "P."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "1997"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Les usages sociaux de la science. Pour une sociologie clinique du champ scientifique"
+      ]
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Paris"
+     ],
+     ": ",
+     [
+      "span",
+      {},
+      "INRA Éditions"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r9",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Bourdieu"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "P."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "1997"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Méditations pascaliennes"
+      ]
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Paris"
+     ],
+     ": ",
+     [
+      "span",
+      {},
+      "Seuil"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r10",
+     "rol": "ref",
+     "lang": "fr"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Bourdieu"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "P."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "2000"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Conférence prononcée à l’Anthropological Institute de Londres, le 6 décembre 2000, à propos de “l’objectivation participante”"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Actes de la Recherche en Sciences sociales"
+      ]
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      "150"
+     ],
+     ":",
+     [
+      "span",
+      {},
+      "43"
+     ],
+     "–",
+     [
+      "span",
+      {},
+      "58"
+     ],
+     ". ",
+     [
+      "a",
+      {
+       "href": "https://doi.org/10.3406/arss.2003.2770"
+      },
+      "https://doi.org/10.3406/arss.2003.2770"
+     ]
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r11",
+     "rol": "ref",
+     "lang": "fr"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Bourdieu"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "P."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "2004"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Esquisse pour une auto-analyse"
+      ]
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Paris"
+     ],
+     ": ",
+     [
+      "span",
+      {},
+      "Raisons d’Agir"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r12",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Castel"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "R."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "1973"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Le psychanalysme"
+      ]
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Paris"
+     ],
+     ": ",
+     [
+      "span",
+      {},
+      "Maspero"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r13",
+     "rol": "ref",
+     "lang": "fr"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Fugier"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "P."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "2013"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "La position de la clinique dans la sociologie de Pierre Bourdieu"
+     ],
+     ". In: ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "V"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "de Gaulejac"
+      ]
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "F"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "Giust-Desprairies"
+      ]
+     ],
+     " & ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "A"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "Massa"
+      ]
+     ],
+     " (eds). ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "La recherche clinique en sciences sociales"
+      ]
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Toulouse"
+     ],
+     ": ",
+     [
+      "span",
+      {},
+      "ÉRÈS"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r14",
+     "rol": "ref",
+     "lang": "fr"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Gaulejac"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "V de."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "1987"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "La névrose de classe"
+      ]
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Paris"
+     ],
+     ": ",
+     [
+      "span",
+      {},
+      "Hommes et Groupe"
+     ],
+     ". (Spanish translation, 2019, Madrid: Sapere Aude; English translation, 2026, Montréal: Philobia)."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r15",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Gaulejac"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "V de."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "1996"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Les sources de la honte"
+      ]
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Paris"
+     ],
+     ": ",
+     [
+      "span",
+      {},
+      "Desclée de Brouwer"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r16",
+     "rol": "ref",
+     "lang": "fr"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Gaulejac"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "V de."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "2009"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Qui est « JE »?"
+      ]
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Paris"
+     ],
+     ": ",
+     [
+      "span",
+      {},
+      "Seuil"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r17",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Gaulejac"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "V de"
+      ]
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Blondel"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "F"
+      ]
+     ],
+     " & ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Taboada-Leonetti"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "I."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "1993"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "La lutte des Places"
+      ]
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Paris"
+     ],
+     ": ",
+     [
+      "span",
+      {},
+      "Desclée de Brouwer"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r18",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Laplanche"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "J"
+      ]
+     ],
+     " & ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Pontalis"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "JB."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "1967"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Vocabulaire de psychanalyse"
+      ]
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Paris"
+     ],
+     ": ",
+     [
+      "span",
+      {},
+      "PUF"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r19",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Nora"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "P"
+      ]
+     ],
+     " (ed). ",
+     [
+      "span",
+      {},
+      "1987"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Essais d’ego-histoire"
+      ]
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Paris"
+     ],
+     ": ",
+     [
+      "span",
+      {},
+      "Gallimard"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r20",
+     "rol": "ref",
+     "lang": "fr"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Pagès"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "M."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "1967"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "La vie affective des groupes"
+      ]
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Paris"
+     ],
+     ": ",
+     [
+      "span",
+      {},
+      "Dunod"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r21",
+     "rol": "ref",
+     "lang": "fr"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Pagès"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "M"
+      ]
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Bonetti"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "M"
+      ]
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Descendres"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "D"
+      ]
+     ],
+     " & ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Gaulejac"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "V de."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "1979"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "L’emprise de l’organisation"
+      ]
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Paris"
+     ],
+     ": ",
+     [
+      "span",
+      {},
+      "PUF"
+     ],
+     "."
+    ]
+   ],
+   "\n"
+  ]
+ ]
+}

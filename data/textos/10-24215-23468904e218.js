@@ -1,0 +1,2540 @@
+// Copia de textos/10-24215-23468904e218.json para abrir la aplicación sin servidor.
+(window.DATOS_REVISTAS = window.DATOS_REVISTAS || {})["textos/10-24215-23468904e218.json"] = {
+ "version": 1,
+ "recogido": "2026-10-18T11:31:43+00:00",
+ "doi": "10.24215/23468904e218",
+ "titulo": "Transformaciones de los ilegalismos plebeyos en el conurbano bonaerense",
+ "revista": "2346-8904",
+ "numero": "n34-2026",
+ "licencia": {
+  "codigo": "by-nc-sa",
+  "nombre": "CC BY-NC-SA 4.0",
+  "nombre_completo": "Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional",
+  "url": "https://creativecommons.org/licenses/by-nc-sa/4.0",
+  "url_legal": "https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.es"
+ },
+ "fuente": {
+  "url": "https://www.cuestionessociologia.fahce.unlp.edu.ar/article/download/CSe218/22744?inline=1",
+  "formato": "HTML",
+  "plataforma": "ojs-galerada",
+  "pagina": "https://www.cuestionessociologia.fahce.unlp.edu.ar/article/view/CSe218"
+ },
+ "autores_cita": [
+  {
+   "apellidos": "Roldán",
+   "nombre_pila": "Nahuel",
+   "nombre": null
+  },
+  {
+   "apellidos": "Rodríguez Alzueta",
+   "nombre_pila": "Esteban",
+   "nombre": null
+  }
+ ],
+ "avisos_derechos": [
+  "Derechos de autor 2026 ",
+  "Esta obra está bajo una licencia internacional Creative Commons Atribución-NoComercial-CompartirIgual 4.0. La cesión de derechos no exclusivos implica también la autorización por parte de los autores para que el trabajo sea alojado en los repositorios institucionales UNLP (Sedici y Memoria Académica) y difundido a través de las bases de datos que los editores consideren apropiadas para su indización, con miras a incrementar la visibilidad de la revista y sus autores."
+ ],
+ "idioma_principal": "es",
+ "indice": [],
+ "vueltas": {
+  "t-redalyc_775646005_ref47": "t-llamada-redalyc_775646005_ref47-1",
+  "t-redalyc_775646005_ref45": "t-llamada-redalyc_775646005_ref45-1",
+  "t-redalyc_775646005_ref46": "t-llamada-redalyc_775646005_ref46-1",
+  "t-redalyc_775646005_ref23": "t-llamada-redalyc_775646005_ref23-1",
+  "t-redalyc_775646005_ref6": "t-llamada-redalyc_775646005_ref6-1",
+  "t-redalyc_775646005_ref12": "t-llamada-redalyc_775646005_ref12-1",
+  "t-redalyc_775646005_ref36": "t-llamada-redalyc_775646005_ref36-1",
+  "t-redalyc_775646005_ref7": "t-llamada-redalyc_775646005_ref7-1",
+  "t-redalyc_775646005_ref3": "t-llamada-redalyc_775646005_ref3-1",
+  "t-fn1": "t-llamada-fn1-1",
+  "t-redalyc_775646005_ref1": "t-llamada-redalyc_775646005_ref1-1",
+  "t-redalyc_775646005_ref29": "t-llamada-redalyc_775646005_ref29-1",
+  "t-redalyc_775646005_ref30": "t-llamada-redalyc_775646005_ref30-1",
+  "t-redalyc_775646005_ref8": "t-llamada-redalyc_775646005_ref8-1",
+  "t-redalyc_775646005_ref15": "t-llamada-redalyc_775646005_ref15-1",
+  "t-redalyc_775646005_ref26": "t-llamada-redalyc_775646005_ref26-1",
+  "t-redalyc_775646005_ref10": "t-llamada-redalyc_775646005_ref10-1",
+  "t-redalyc_775646005_ref21": "t-llamada-redalyc_775646005_ref21-1",
+  "t-fn2": "t-llamada-fn2-1",
+  "t-fn3": "t-llamada-fn3-1",
+  "t-redalyc_775646005_ref31": "t-llamada-redalyc_775646005_ref31-1",
+  "t-redalyc_775646005_ref13": "t-llamada-redalyc_775646005_ref13-1",
+  "t-redalyc_775646005_ref32": "t-llamada-redalyc_775646005_ref32-1",
+  "t-redalyc_775646005_ref48": "t-llamada-redalyc_775646005_ref48-1",
+  "t-redalyc_775646005_ref25": "t-llamada-redalyc_775646005_ref25-1",
+  "t-redalyc_775646005_ref2": "t-llamada-redalyc_775646005_ref2-1",
+  "t-redalyc_775646005_ref43": "t-llamada-redalyc_775646005_ref43-1",
+  "t-redalyc_775646005_ref22": "t-llamada-redalyc_775646005_ref22-1",
+  "t-redalyc_775646005_ref27": "t-llamada-redalyc_775646005_ref27-1",
+  "t-redalyc_775646005_ref4": "t-llamada-redalyc_775646005_ref4-1",
+  "t-redalyc_775646005_ref11": "t-llamada-redalyc_775646005_ref11-1",
+  "t-redalyc_775646005_ref20": "t-llamada-redalyc_775646005_ref20-1",
+  "t-redalyc_775646005_ref28": "t-llamada-redalyc_775646005_ref28-1",
+  "t-redalyc_775646005_ref44": "t-llamada-redalyc_775646005_ref44-1",
+  "t-redalyc_775646005_ref5": "t-llamada-redalyc_775646005_ref5-1",
+  "t-fn4": "t-llamada-fn4-1",
+  "t-fn5": "t-llamada-fn5-1",
+  "t-redalyc_775646005_ref42": "t-llamada-redalyc_775646005_ref42-1",
+  "t-redalyc_775646005_ref19": "t-llamada-redalyc_775646005_ref19-1",
+  "t-redalyc_775646005_ref33": "t-llamada-redalyc_775646005_ref33-1",
+  "t-redalyc_775646005_ref39": "t-llamada-redalyc_775646005_ref39-1",
+  "t-redalyc_775646005_ref35": "t-llamada-redalyc_775646005_ref35-1",
+  "t-redalyc_775646005_ref41": "t-llamada-redalyc_775646005_ref41-1",
+  "t-redalyc_775646005_ref34": "t-llamada-redalyc_775646005_ref34-1",
+  "t-redalyc_775646005_ref38": "t-llamada-redalyc_775646005_ref38-1",
+  "t-redalyc_775646005_ref37": "t-llamada-redalyc_775646005_ref37-1",
+  "t-redalyc_775646005_ref40": "t-llamada-redalyc_775646005_ref40-1",
+  "t-redalyc_775646005_ref14": "t-llamada-redalyc_775646005_ref14-1",
+  "t-redalyc_775646005_ref9": "t-llamada-redalyc_775646005_ref9-1"
+ },
+ "contenido": [
+  "\n",
+  [
+   "span",
+   {
+    "id": "t-visor-cabecera"
+   },
+   "\n",
+   "\n",
+   [
+    "span",
+    {},
+    "\n",
+    [
+     "a",
+     {
+      "href": "https://www.cuestionessociologia.fahce.unlp.edu.ar/"
+     },
+     "\n",
+     [
+      "figura",
+      {
+       "alt": "CS"
+      }
+     ],
+     "\nCuestiones de Sociología"
+    ],
+    ", núm. 34, e218, agosto 2026 - enero 2027. ISSN 2346-8904",
+    [
+     "br",
+     {}
+    ],
+    "Universidad Nacional de La Plata",
+    [
+     "br",
+     {}
+    ],
+    "Facultad de Humanidades y Ciencias de la Educación",
+    [
+     "br",
+     {}
+    ],
+    "Departamento de Sociología"
+   ],
+   "\n",
+   "\n"
+  ],
+  "\n",
+  [
+   "span",
+   {
+    "id": "t-articulo"
+   },
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-front"
+    },
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-articulo-categoria"
+     },
+     "\n",
+     [
+      "p",
+      {},
+      "Artículos"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-articulo-meta"
+     },
+     "\n",
+     [
+      "p",
+      {},
+      "\n",
+      [
+       "span",
+       {},
+       "Transformaciones de los ilegalismos plebeyos en el conurbano bonaerense"
+      ],
+      "\n"
+     ],
+     "\n\n"
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-articulo-acerca"
+     },
+     "\n",
+     [
+      "span",
+      {
+       "id": "t-ficha-general"
+      },
+      "\n",
+      [
+       "span",
+       {
+        "id": "t-autores-articulo"
+       },
+       "\n",
+       "\n",
+       "\n",
+       [
+        "a",
+        {
+         "href": "https://orcid.org/0000-0001-7121-2850"
+        },
+        [
+         "figura",
+         {}
+        ]
+       ],
+       "  ",
+       [
+        "span",
+        {},
+        "Nahuel"
+       ],
+       " ",
+       [
+        "span",
+        {},
+        "Roldán"
+       ],
+       " ",
+       [
+        "span",
+        {}
+       ],
+       "\n",
+       "\n",
+       [
+        "br",
+        {}
+       ],
+       "\n",
+       "\n",
+       [
+        "span",
+        {},
+        "Laboratorio de Estudios Sociales y Culturales. Universidad Nacional de Quilmes / Universidad Nacional de La Plata"
+       ],
+       ", ",
+       [
+        "span",
+        {},
+        "Argentina"
+       ],
+       "\n",
+       "\n",
+       [
+        "span",
+        {},
+        " nroldan@jursoc.unlp.edu.ar"
+       ],
+       "\n",
+       "\n",
+       "\n",
+       "\n",
+       [
+        "a",
+        {
+         "href": "https://orcid.org/0000-0003-2736-4341"
+        },
+        [
+         "figura",
+         {}
+        ]
+       ],
+       "  ",
+       [
+        "span",
+        {},
+        "Esteban"
+       ],
+       " ",
+       [
+        "span",
+        {},
+        "Rodríguez Alzueta"
+       ],
+       " ",
+       [
+        "span",
+        {}
+       ],
+       "\n",
+       "\n",
+       [
+        "br",
+        {}
+       ],
+       "\n",
+       "\n",
+       [
+        "span",
+        {},
+        "Laboratorio de Estudios Sociales y Culturales. Universidad Nacional de Quilmes / Universidad Nacional de La Plata"
+       ],
+       ", ",
+       [
+        "span",
+        {},
+        "Argentina"
+       ],
+       "\n",
+       "\n",
+       [
+        "span",
+        {},
+        " e.rodriguez.alzueta@gmail.com"
+       ],
+       "\n",
+       "\n"
+      ],
+      "\n\n\n",
+      [
+       "span",
+       {},
+       "Cita recomendada:"
+      ],
+      "\n",
+      [
+       "span",
+       {},
+       "Roldán, N. y Rodríguez Alzueta, E. (2026). Transformaciones de los ilegalismos plebeyos en el conurbano bonaerense. ",
+       [
+        "i",
+        {},
+        "Cuestiones de Sociología"
+       ],
+       ", (34), e218. ",
+       [
+        "a",
+        {
+         "href": "https://doi.org/10.24215/23468904e218"
+        },
+        "https://doi.org/10.24215/23468904e218"
+       ]
+      ],
+      "\n\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "Resumen:\n\t\t\t\t\t\t\t                           "
+       ],
+       [
+        "span",
+        {},
+        "Este artículo analiza las transformaciones recientes de los ilegalismos plebeyos en el conurbano bonaerense a partir de la noción de “universo transa” como ensamblaje social que articula mercado, trabajo, prestigio, protección y violencia. Lejos de reducir el fenómeno a la expansión de organizaciones verticalizadas o a la mera dinámica de oferta y demanda, el trabajo muestra cómo el narcomenudeo se inscribe en procesos más amplios de precarización laboral, fragmentación comunitaria y debilitamiento de las mediaciones estatales y políticas. A partir de evidencia territorial y diálogo con la literatura comparada, se argumenta que la mutación actual no se caracteriza por la consolidación de grandes estructuras centralizadas sino por la proliferación horizontal y rizomática de actores cuentapropistas, lo que altera los dispositivos tradicionales de regulación policial y reconfigura la vida barrial. El artículo examina las dinámicas internas del mercado —división del trabajo, control del dinero, reemplazabilidad en la base— y sus efectos en la economía moral del reconocimiento, el derrame local de recursos y la transformación de los códigos de convivencia. Asimismo, aborda la relación entre consumo desigual, erosión de horizontes de ascenso social y migración juvenil hacia tareas del universo transa, destacando la tensión entre promesas de movilidad inmediata y precariedad estructural. Finalmente, se sostiene que estas transformaciones no producen un orden alternativo coherente, sino un escenario ambivalente donde regulación y desregulación coexisten, y donde la expansión del mercado ilegal reorganiza, de manera inestable, las condiciones de la convivencia en los barrios plebeyos bonaerenses."
+       ],
+       "\n"
+      ],
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "Palabras clave: "
+       ],
+       "Ilegalismos plebeyos, Narcomenudeo, Economía moral, Gobernanza criminal, Conurbano bonaerense.\n\t\t                         "
+      ],
+      "\n\t\t\t\t\t\t\t\t ",
+      [
+       "p",
+       {
+        "lang": "en"
+       },
+       [
+        "span",
+        {},
+        "Transformations of plebeian illegalisms in Greater Buenos Aires"
+       ]
+      ],
+      "\n",
+      [
+       "p",
+       {
+        "lang": "en"
+       },
+       "\n",
+       [
+        "span",
+        {},
+        "Abstract:\n\t\t\t\t\t\t                           "
+       ],
+       [
+        "span",
+        {},
+        "This article examines recent transformations of plebeian illegalisms in the Buenos Aires metropolitan periphery through the concept of the “transa universe” as a social assemblage that articulates market dynamics, labor, prestige, protection, and violence. Rather than reducing the phenomenon to the expansion of vertically organized criminal structures or to supply-and-demand explanations, the study situates retail drug markets within broader processes of labor precarization, community fragmentation, and the weakening of state and political mediations. Drawing on territorial evidence and comparative scholarship, it argues that the current mutation is characterized not by the consolidation of centralized cartels but by the horizontal, rhizomatic proliferation of self-employed actors, which challenges traditional policing arrangements and reshapes neighborhood life. The article explores the internal dynamics of the market—division of labor, control of money flows, replaceability at the lower levels—and their impact on moral economies of recognition, local redistribution of resources, and the transformation of informal codes of coexistence. It further analyzes the link between unequal consumption patterns, the erosion of upward mobility narratives, and youth migration into low-level drug market roles, highlighting the tension between promises of immediate mobility and structural precariousness. The paper concludes that these transformations do not produce a coherent alternative order but rather an ambivalent landscape in which regulation and deregulation coexist, and where the expansion of illegal markets reconfigures—unevenly and contingently—the conditions of everyday life in Buenos Aires’ marginalized neighborhoods."
+       ],
+       "\n"
+      ],
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "Keywords: "
+       ],
+       "Plebeian Illegalisms, Retail Drug Markets, Moral Economy, Criminal Governance, Buenos Aires Metropolitan Periphery.\n                                "
+      ],
+      "\n"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-articulo-body"
+     },
+     "\n",
+     [
+      "p",
+      {},
+      "\n",
+      [
+       "span",
+       {},
+       "Introducción"
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "La mercantilización de drogas ilegalizadas es un mercado que hay que leer al lado de los mercados legales y de otros mercados ilegales que se han ido expandiendo en los últimos años en los barrios plebeyos. Pero esa lectura pierde espesor si no se la coloca sobre su telón de fondo: por un lado, la expansión sostenida de la informalidad y la precariedad laboral, la fragilidad creciente de la vida económica en general; por el otro, el declive de la mano izquierda del Estado, su incapacidad para estar cerca y cuidar a los sectores más vulnerables con políticas públicas de largo aliento. No estamos frente a una anomalía coyuntural sino ante un proceso de larga duración que fue sedimentando una forma particular de marginalidad estructural. Como ha señalado Loïc Wacquant (",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646005_ref47",
+        "id": "t-llamada-redalyc_775646005_ref47-1"
+       },
+       "2007"
+      ],
+      "), la estigmatización territorial no es simplemente una etiqueta simbólica sino una inscripción de la pobreza en el futuro: barrios desconectados funcionalmente de la economía más amplia, fragmentación del trabajo asalariado, reconfiguración del Estado social. En ese contexto, el narcomenudeo aparece menos como “desviación” que como oportunidad laboral precaria y coercitiva, como estrategia para permanecer a flote en economías deprimidas donde la reproducción cotidiana de la vida se volvió un ejercicio incierto."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "Frente a estas circunstancias, los mercados ilegalizados son referenciados por algunos residentes como una oportunidad concreta para permanecer en la línea de flotación. Los ilegalismos vinculados a estos mercados forman parte del pluriempleo y compensan la carestía económica. Pero si queremos evitar tanto la caricatura del “narco invasor externo” como la del “barrio víctima pasiva” —caricaturas ya discutidas en la literatura comparada (",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646005_ref45",
+        "id": "t-llamada-redalyc_775646005_ref45-1"
+       },
+       "Thoumi, 2001"
+      ],
+      "; ",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646005_ref46",
+        "id": "t-llamada-redalyc_775646005_ref46-1"
+       },
+       "Venkatesh, 2008"
+      ],
+      "; ",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646005_ref23",
+        "id": "t-llamada-redalyc_775646005_ref23-1"
+       },
+       "Hernández et al., 2014"
+      ],
+      "; ",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646005_ref6",
+        "id": "t-llamada-redalyc_775646005_ref6-1"
+       },
+       "Auyero y Sobering, 2021"
+      ],
+      ")— necesitamos un punto de partida analítico que permita captar simultáneamente economía, política y sociabilidad. Por eso venimos trabajando con la noción de ",
+      [
+       "span",
+       {},
+       "universo transa"
+      ],
+      " (",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646005_ref12",
+        "id": "t-llamada-redalyc_775646005_ref12-1"
+       },
+       "Colectivo Revista Crisis, 2012"
+      ],
+      "; ",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646005_ref36",
+        "id": "t-llamada-redalyc_775646005_ref36-1"
+       },
+       "Rodríguez Alzueta, 2022"
+      ],
+      "), una categoría que elegimos no por efecto retórico sino para resolver problemas teóricos y metodológicos que arrastran muchos estudios sobre drogas: o bien se concentran exclusivamente en el consumo, o bien describen estructuras verticalizadas de narcotráfico sin atender a la textura micro-territorial de la venta minorista."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "La literatura de campo de los últimos veinte años muestra que el narcomenudeo no es un acto aislado sino un ",
+      [
+       "span",
+       {},
+       "ensamblaje "
+      ],
+      "compuesto por al menos tres dimensiones que se entrelazan: un mercado minorista con logística y división del trabajo; un régimen de protección—policial, político, comunitario—que hace posible vender a cielo abierto o semicerrado; y una forma de gobernanza local criminalizada que regula disputas, acceso al territorio y relaciones con los vecinos (",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646005_ref7",
+        "id": "t-llamada-redalyc_775646005_ref7-1"
+       },
+       "Barnes, 2025"
+      ],
+      "; ",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646005_ref3",
+        "id": "t-llamada-redalyc_775646005_ref3-1"
+       },
+       "Arias, 2006"
+      ],
+      "). Nicholas Barnes (",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646005_ref7",
+        "id": "t-llamada-redalyc_775646005_ref7-2"
+       },
+       "2025"
+      ],
+      ") propone dejar de preguntarse únicamente cómo venden para interrogar cómo y por qué gobiernan: por qué ciertas bandas terminan resolviendo conflictos, organizando ayudas o promoviendo actividades culturales, y por qué esa gobernanza varía según la relación con policías y bandas rivales. Esa perspectiva obliga a desplazar la mirada desde la transacción puntual hacia la arquitectura territorial que la sostiene."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "\n",
+      [
+       "span",
+       {},
+       "Universo transa: regenteos y ",
+       [
+        "span",
+        {},
+        "deliveries"
+       ]
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "En ese marco, la figura del transa adquiere espesor. ",
+      [
+       "span",
+       {},
+       "Transa "
+      ],
+      "es la persona que vende drogas, a veces para poder seguir consumiendo, otras como actividad esporádica o relativamente permanente que le permite obtener recursos extras para encarar problemas materiales concretos o continuar tallando una identidad vinculada a la dureza y al reconocimiento. No se trata solamente del ",
+      [
+       "span",
+       {},
+       "dealer"
+      ],
+      ", la figura excede a ese actor y abarca a todos aquellos que comercializan al por menor con modalidades muy diversas: en la calle, regenteando un kiosco, articulando ",
+      [
+       "span",
+       {},
+       "deliveries "
+      ],
+      "a través de plataformas. El ",
+      [
+       "span",
+       {},
+       "narco"
+      ],
+      ", en cambio, designa otra escala: proveedor, importador o elaborador con infraestructura y capacidad de expansión territorial y reinversión. Mientras los ",
+      [
+       "span",
+       {},
+       "universos narcos"
+      ],
+      " tienden a articularse verticalmente y a orientarse hacia circuitos más amplios, los ",
+      [
+       "span",
+       {},
+       "universos transas"
+      ],
+      " son heterogéneos, muchas veces caóticos, compuestos por una miríada de emprendedores que raramente trascienden el ámbito local.",
+      [
+       "sup",
+       {},
+       [
+        "a",
+        {
+         "href": "#t-fn1",
+         "id": "t-llamada-fn1-1"
+        },
+        "1"
+       ]
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "Nos importa repetir que el ",
+      [
+       "span",
+       {},
+       "universo transa"
+      ],
+      " no constituye un mundo aparte ni clandestino en sentido fuerte. No es una realidad paralela separada del barrio. Sus economías están imbricadas al resto de la economía barrial y laten con el resto de la ciudad que demanda drogas para divertirse, para tener estatus, para circular en determinados circuitos de consumo. Esa imbricación es la que explica que muchas veces la familia funcione como marco organizativo. No hablamos de “clanes” —categoría moral que degrada antes que comprender— sino de repertorios familiares disponibles para organizar la reproducción de la vida en contextos de precariedad. La misma familia que regentea una despensa puede organizar la venta o guarda de drogas sin que eso implique estructuras permanentes o alianzas de por vida (",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646005_ref1",
+        "id": "t-llamada-redalyc_775646005_ref1-1"
+       },
+       "Adler Lommitz, 1977"
+      ],
+      "; ",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646005_ref29",
+        "id": "t-llamada-redalyc_775646005_ref29-1"
+       },
+       "Moser, 1998"
+      ],
+      "; ",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646005_ref30",
+        "id": "t-llamada-redalyc_775646005_ref30-1"
+       },
+       "Moser y McIlwaine, 2000"
+      ],
+      "; ",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646005_ref8",
+        "id": "t-llamada-redalyc_775646005_ref8-1"
+       },
+       "Bayat, 2010"
+      ],
+      ")."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "Cuando desplazamos la mirada hacia el conurbano bonaerense, las transformaciones recientes introducen una variación significativa respecto de otros contextos como Rosario. Allí donde la expansión tendió a verticalizarse y concentrarse en pocos grupos con mayor centralización organizativa (",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646005_ref15",
+        "id": "t-llamada-redalyc_775646005_ref15-1"
+       },
+       "Cozzi, 2020"
+      ],
+      "), en la provincia de Buenos Aires asistimos a una proliferación horizontal de actores. No negamos la existencia de emprendimientos de mayor escala, pero lo que se multiplica es otra cosa: transas-cuentapropistas, organizaciones rústicas, jóvenes que compran a un proveedor mayorista y montan su propio punto de venta con relativa autonomía, actores que entran y salen del negocio según temporadas y oportunidades, dealers enredados con consumos problemáticos que venden drogas para garantizarse sus dosis diarias."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "La expansión de la frontera urbana —nuevas tomas de tierra, crecimiento del tercer cordón en Moreno, Merlo, General Rodríguez, Florencio Varela, Presidente Perón, Don Orione, Virrey del Pino, González Catán, así como en la ciudad de La Plata— generó nuevos mercados potenciales y, por tanto, mayor concurrencia de oferentes (",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646005_ref47",
+        "id": "t-llamada-redalyc_775646005_ref47-2"
+       },
+       "Wacquant, 2007"
+      ],
+      "). Cada nuevo asentamiento representa una oportunidad para quienes encuentran en los mercados ilegalizados una forma de resolver su reproducción cotidiana o de aspirar a una movilidad que el mercado laboral formal no garantiza. En un mismo barrio pueden convivir veinte o treinta personas dedicadas a la venta, junto a una miríada de formas de entrega e intercambio que aprovechan la opacidad de redes sociales y plataformas de mensajería. Esa configuración rizomática tensiona cualquier intento de regulación centralizada: no basta con negociar con un proveedor mayorista para ordenar el territorio completo."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "Pero esa proliferación no es solamente un dato organizativo. Tiene implicancias en la estructura interna del mercado y en sus dinámicas de violencia. Cuando el mercado escala y logra continuidad territorial, aparecen segmentaciones de tareas, control de caja, disciplina interna, gestión de riesgos, como lo muestran tanto la etnografía de Cozzi (",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646005_ref15",
+        "id": "t-llamada-redalyc_775646005_ref15-2"
+       },
+       "2020"
+      ],
+      ") en Rosario como los trabajos clásicos de Levitt y Venkatesh (",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646005_ref26",
+        "id": "t-llamada-redalyc_775646005_ref26-1"
+       },
+       "2000"
+      ],
+      "), Bourgois (",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646005_ref10",
+        "id": "t-llamada-redalyc_775646005_ref10-1"
+       },
+       "2010"
+      ],
+      ") o Venkatesh (",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646005_ref46",
+        "id": "t-llamada-redalyc_775646005_ref46-2"
+       },
+       "2008"
+      ],
+      "). Sin embargo, cuando predominan cohortes rústicas, con trayectorias discontinuas y sin tradición organizativa consolidada, esa racionalidad administrativa se vuelve frágil, incierta. La coexistencia entre micro-organización y cuentapropismo disperso no es una contradicción sino una característica constitutiva del proceso actual, el impacto de la nueva racionalidad neoliberal en las formas de reproducción social en barrios plebeyos (",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646005_ref21",
+        "id": "t-llamada-redalyc_775646005_ref21-1"
+       },
+       "Gago, 2014"
+      ],
+      ")."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "En este punto, la expansión del ",
+      [
+       "span",
+       {},
+       "universo transa"
+      ],
+      " en el conurbano no puede separarse del trasfondo estructural: territorios desiguales, economías deprimidas, fragmentación comunitaria, desarticulación política, debilitamiento de redes sociales. Allí donde la economía se desfonda y el Estado retrocede o se vuelve ineficiente y cada vez más impotente, los mercados ilegalizados encuentran terreno fértil para germinar. No como irrupción externa sino como forma de reorganización interna de la sobrevivencia. Y es precisamente en esa reorganización donde comienzan a jugar, de manera cada vez más visible, las dinámicas del dinero, el prestigio, la protección y la violencia que abordaremos en la siguiente sección."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "\n",
+      [
+       "span",
+       {},
+       "Dinámicas del dinero: cuentapropismo y micro-organización"
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "Si el universo transa es un ensamblaje social y político, como venimos sosteniendo, entonces comprender sus transformaciones exige detenerse en aquello que lo mantiene en movimiento cotidiano: ",
+      [
+       "span",
+       {},
+       "las dinámicas del dinero"
+      ],
+      ". No se trata solamente de cuánto se gana ni de cuánto se pierde, sino de cómo circula, quién lo controla, qué jerarquías organiza y qué formas de violencia habilita o contiene. La literatura comparada muestra que, cuando un circuito de narcomenudeo logra sostener continuidad territorial y volumen de venta, la escena deja de parecer un intercambio simple para adoptar rasgos de micro-organización. Lo que desde afuera puede observarse como un punto de venta informal, al mirarse de cerca revela una arquitectura interna: fraccionamiento, turnos, delegación de tareas, mecanismos de supervisión, control de caja. La “jerarquía” rara vez es un organigrama rígido, pero sí se traduce en una distribución diferenciada de riesgos y retribuciones.",
+      [
+       "sup",
+       {},
+       [
+        "a",
+        {
+         "href": "#t-fn2",
+         "id": "t-llamada-fn2-1"
+        },
+        "2"
+       ]
+      ],
+      " Separar roles no es una cuestión ornamental sino una tecnología práctica para gobernar la incertidumbre: limitar lo que cada actor sabe, reducir vulnerabilidad frente a detenciones o delaciones, evitar que los niveles superiores se “quemen” en tareas de alta exposición. De todas maneras, conviene no exagerar: muchos de los actores protagonistas del universo transa entran y salen, o están presente de manera discontinua, dependiendo de los días o los meses, alternando el ocio con el narcomenudeo, pero también con otras actividades que despliegan para conseguir dinero."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "Levitt y Venkatesh (",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646005_ref26",
+        "id": "t-llamada-redalyc_775646005_ref26-2"
+       },
+       "2000"
+      ],
+      ")",
+      [
+       "sup",
+       {},
+       [
+        "a",
+        {
+         "href": "#t-fn3",
+         "id": "t-llamada-fn3-1"
+        },
+        "3"
+       ]
+      ],
+      " mostraron que incluso en mercados ilegales de base barrial aparece una lógica contable explícita: ingresos, egresos, pagos diferenciales y diferidos, incentivos y promesas de ascenso que sostienen disciplina aun cuando la base reciba remuneraciones bajas. Bourgois (",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646005_ref10",
+        "id": "t-llamada-redalyc_775646005_ref10-2"
+       },
+       "2010"
+      ],
+      ") y Venkatesh (",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646005_ref46",
+        "id": "t-llamada-redalyc_775646005_ref46-3"
+       },
+       "2008"
+      ],
+      ") subrayaron que esa racionalidad económica convive con una dimensión moral y corporal del trabajo ilegal: reputación, control del miedo, gobierno de trayectorias. Debemos observar estas competencias como capital callejero: saber moverse, sostener presencia, gestionar riesgos interpersonales como recursos que se traducen en posición dentro del mercado (",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646005_ref31",
+        "id": "t-llamada-redalyc_775646005_ref31-1"
+       },
+       "Sandberg, 2008"
+      ],
+      "). Leído desde esta perspectiva, el narcomenudeo no es simplemente “criminalidad” sino trabajo —quién hace qué, con qué riesgos y con qué promesas— y política —quién autoriza, tolera o recauda—, tal como sugieren también los informes de la European Union Drugs Agency al insistir en analizar procesos y actores a lo largo de la cadena. Pero es un trabajo donde la relación de dependencia se confunde con el trabajo por cuenta propia, donde los transas se saben emprendedores que participan al mismo tiempo de distintas actividades que les permite entrar y salir, actividades inestables."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "Sin embargo, cuando trasladamos este lente al conurbano bonaerense actual, la imagen se complejiza. La proliferación rizomática de transas-cuentapropistas que describimos en la sección anterior tensiona la consolidación de esa racionalidad administrativa. Muchas de las nuevas cohortes carecen de saber organizativo acumulado; aprenden sobre la marcha, improvisan, rotan. La división del trabajo puede existir, pero es más frágil; la disciplina interna es menos estable; el control de la caja no siempre está blindado por lealtades sólidas. Y allí donde la organización es más rústica, el dinero circula con menor mediación y mayor exposición a disputas internas o malos entendidos, lo que no pocas veces deriva en violencias desproporcionadas y absurdas. No estamos frente a una oposición tajante entre racionalidad empresarial y desorden improvisado; estamos ante una coexistencia desigual que varía según la escala, el territorio y el grado de consolidación del punto de venta (",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646005_ref46",
+        "id": "t-llamada-redalyc_775646005_ref46-4"
+       },
+       "Venkatesh, 2008"
+      ],
+      "; ",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646005_ref13",
+        "id": "t-llamada-redalyc_775646005_ref13-1"
+       },
+       "Contreras, 2013"
+      ],
+      "; ",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646005_ref32",
+        "id": "t-llamada-redalyc_775646005_ref32-1"
+       },
+       "Skarbek, 2014"
+      ],
+      "; ",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646005_ref48",
+        "id": "t-llamada-redalyc_775646005_ref48-1"
+       },
+       "Willis, 2015"
+      ],
+      "; ",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646005_ref25",
+        "id": "t-llamada-redalyc_775646005_ref25-1"
+       },
+       "Lessing, 2020"
+      ],
+      ")."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "Pero el dinero no organiza únicamente la estructura interna del mercado; organiza también su inscripción en el barrio. Reducirlo a ganancia sería un error; romantizarlo como “cultura” desconectada de la economía es otro. El dinero opera simultáneamente como recurso material y como ",
+      [
+       "span",
+       {},
+       "signo"
+      ],
+      ". Paga consumo, sí, pero también compra respeto, tiempo, alianzas, silencios. Produce agencia en vidas donde el trabajo formal e informal suele percibirse como inestable, humillante o incapaz de otorgar estatus. En barrios atravesados por desigualdad y exposición constante a la violencia, el reconocimiento no es un adorno simbólico sino una forma de seguridad (",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646005_ref2",
+        "id": "t-llamada-redalyc_775646005_ref2-1"
+       },
+       "Anderson, 1999"
+      ],
+      "). El narcomenudeo compite con el mercado laboral no solo por la cantidad de dinero que promete sino por la cualidad del lugar que habilita: pertenecer a una red o alardear formar parte de ese universo, “ser alguien”, no depender de la espera burocrática ni de la precariedad rutinaria. Bourgois (",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646005_ref10",
+        "id": "t-llamada-redalyc_775646005_ref10-3"
+       },
+       "2010"
+      ],
+      ") mostró con crudeza cómo la búsqueda de respeto puede volverse motor tan potente como la necesidad económica, y cómo la vida del mercado ilegal organiza aspiraciones y masculinidades."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "En el conurbano, esta economía moral del prestigio se entrelaza con el ",
+      [
+       "span",
+       {},
+       "derrame barrial"
+      ],
+      ". Los vecinos se debaten entre aceptar y rechazar a los transas porque saben que las drogas impactan en la salud y en las trayectorias juveniles, pero también porque reconocen que esos mercados ponen plata en circulación. Los transas financian comercios, cubren gastos de traslado, pagan medicamentos, aportan a velorios, prestan dinero. La plata de la droga se derrama en la familia y en el comercio local, alivianando presiones acumuladas. Ese derrame no es altruismo puro; persigue aceptación, lealtades, amortiguación de conflictos en un contexto tomado por la fragmentación o debilitamiento de los vínculos. Pero su efecto concreto es introducir recursos en territorios donde el Estado llega tarde o llega mal. Allí se vuelve visible lo que denominamos ",
+      [
+       "span",
+       {},
+       "economía política"
+      ],
+      [
+       "span",
+       {},
+       "de la protección"
+      ],
+      ": la venta sostenida rara vez existe en el vacío; necesita algún régimen de regulación que combine negociación comunitaria, tolerancia selectiva y formas variables de arreglo estatal."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "No queremos quedarnos en la premisa simplista que señala: las economías ilegales avanzan solo en los espacios que abandona el Estado o allí donde el Estado o sus agencias policiales se vuelven corruptas (Dewey, 2015) o pactan para enriquecerse y no haya ruidos o crisis de gobernabilidad (",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646005_ref43",
+        "id": "t-llamada-redalyc_775646005_ref43-1"
+       },
+       "Sain, 2015"
+      ],
+      "). La teoría clásica de la ",
+      [
+       "span",
+       {},
+       "protección privada"
+      ],
+      " (",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646005_ref22",
+        "id": "t-llamada-redalyc_775646005_ref22-1"
+       },
+       "Gambetta, 1993"
+      ],
+      ") ayuda a entender que no se trata solo de “corrupción” sino de un mercado de servicios donde se ofrecen garantías de no interrupción o interrupción selectiva. Desde esa perspectiva, la provisión de seguridad deja de ser un desvío moral o una oportunidad política y se convierte en un servicio estructurado, con reglas, reputaciones y costos diferenciados (",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646005_ref22",
+        "id": "t-llamada-redalyc_775646005_ref22-2"
+       },
+       "Gambetta, 1993"
+      ],
+      "). En ese entramado, la protección, la información y la capacidad de ejercer violencia no circulan como atributos difusos sino como bienes transables que articulan economías ilícitas con rutinas institucionales, produciendo zonas de interpenetración antes que fronteras nítidas (",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646005_ref27",
+        "id": "t-llamada-redalyc_775646005_ref27-1"
+       },
+       "Misse, 2007"
+      ],
+      "). Lo que emerge, entonces, no es un campo dividido entre Estado e ilegalismos, sino un espacio relacional en el que redes sociales, organizaciones armadas y segmentos del policiamiento se entrelazan, alternando confrontación y cooperación según coyunturas y equilibrios locales (",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646005_ref3",
+        "id": "t-llamada-redalyc_775646005_ref3-2"
+       },
+       "Arias, 2006"
+      ],
+      "). Estas configuraciones no son homogéneas: varían en su forma de gobernanza, oscilando entre esquemas centrados casi exclusivamente en la coerción y otros que combinan violencia con provisión de bienestar, mediación de conflictos y gestión cotidiana del orden para asegurar legitimidad vecinal (",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646005_ref7",
+        "id": "t-llamada-redalyc_775646005_ref7-3"
+       },
+       "Barnes, 2025"
+      ],
+      "). Sin embargo, ese orden no es universal ni imparcial; se distribuye de manera selectiva y personalista, beneficiando a quienes poseen mayores conexiones sociales y dejando más expuestos a los sectores marginales. Así, la sensación de “seguridad personal” opera como una estrategia emocional y política de supervivencia, pero al mismo tiempo reproduce jerarquías y desigualdades al interior de los propios territorios (",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646005_ref4",
+        "id": "t-llamada-redalyc_775646005_ref4-1"
+       },
+       "Arias y Rodrigues, 2018"
+      ],
+      ")."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "Ahora bien, si en ciertos contextos la consolidación territorial permite formas de gobernanza relativamente estables, la proliferación cuentapropista del conurbano introduce un elemento de desregulación. Las policías estaban acostumbradas a negociar con organizaciones centralizadas que colaboraban en “poner en caja” el resto de los negocios y hacían una gestión de la violencia. Hoy enfrentan multiplicación de actores que no necesariamente reconocen autoridad común ni articulan entre sí. Regular al proveedor mayorista ya no implica regular el barrio completo. Esta mutación explica, en parte, la sensación de pérdida de control institucional y la dificultad para encuadrar el territorio bajo esquemas tradicionales de intervención (",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646005_ref11",
+        "id": "t-llamada-redalyc_775646005_ref11-1"
+       },
+       "Brodeur, 2010"
+      ],
+      "; ",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646005_ref48",
+        "id": "t-llamada-redalyc_775646005_ref48-2"
+       },
+       "Willis, 2015"
+      ],
+      "; ",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646005_ref20",
+        "id": "t-llamada-redalyc_775646005_ref20-1"
+       },
+       "Fassin, 2016"
+      ],
+      "; ",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646005_ref25",
+        "id": "t-llamada-redalyc_775646005_ref25-2"
+       },
+       "Lessing, 2020"
+      ],
+      "). La fragmentación del mercado minorista altera los mecanismos tradicionales de regulación informal entre policía y actores criminales, erosionando la capacidad de intervención indirecta y aumentando la imprevisibilidad territorial (",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646005_ref28",
+        "id": "t-llamada-redalyc_775646005_ref28-1"
+       },
+       "Moncada, 2016"
+      ],
+      ")."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "La violencia, en este escenario, no puede leerse ni como simple expresión de maldad individual o cargarse a la cuenta de la rusticidad de los actores (",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646005_ref44",
+        "id": "t-llamada-redalyc_775646005_ref44-1"
+       },
+       "Sain, 2023"
+      ],
+      "), ni como una consecuencia lineal de la pobreza. Debe leerse como producto de ensamblajes contingentes entre mercado, protección y fragilidad institucional. Willis (",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646005_ref48",
+        "id": "t-llamada-redalyc_775646005_ref48-3"
+       },
+       "2015"
+      ],
+      "), en su análisis sobre São Paulo, mostró cómo la regulación de la vida y la muerte puede descansar en consensos implícitos entre Estado y organización criminal; cuando esos consensos se rompen, la violencia escala. Auyero y Berti (",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646005_ref5",
+        "id": "t-llamada-redalyc_775646005_ref5-1"
+       },
+       "2013"
+      ],
+      "), al estudiar los márgenes urbanos de Buenos Aires, demostraron que las distintas formas de violencia —criminal, doméstica, institucional— se solapan y se vuelven rutina. El Estado no está simplemente ausente; en muchos casos es cómplice o productor de daño."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "En el conurbano actual, junto a la expansión del universo transa, asistimos a la emergencia de nuevas cohortes rústicas que emplean la violencia de manera expresiva y desmesurada. No siempre se trata de cálculo instrumental; a veces la violencia busca enviar mensajes, ganar cartel, inspirar temor, afirmarse ante pares. Una violencia que es el eco de otras transformaciones al interior de la cultura criminal plebeya. Este fenómeno no puede generalizarse a todo el universo transa, pero su presencia es significativa. Y se combina con otro dato que a veces desorienta: el descenso de homicidios —cuando ocurre— no implica necesariamente disminución de violencias altamente lesivas. Balaceras, extorsiones, circulación de armas, picas juveniles que se resuelven a los tiros, ostentación de armas en el espacio público: prácticas que reconfiguran la experiencia cotidiana del miedo y que muchas veces quedan fuera del radar estadístico."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "La expansión y diversificación del consumo se inscribe en este escenario. La droga es omnipresente en los barrios plebeyos, pero no es patrimonio exclusivo de ellos.",
+      [
+       "sup",
+       {},
+       [
+        "a",
+        {
+         "href": "#t-fn4",
+         "id": "t-llamada-fn4-1"
+        },
+        "4"
+       ]
+      ],
+      " El consumo se ha extendido en todos los sectores sociales,",
+      [
+       "sup",
+       {},
+       [
+        "a",
+        {
+         "href": "#t-fn5",
+         "id": "t-llamada-fn5-1"
+        },
+        "5"
+       ]
+      ],
+      " aunque sus modos y calidades varían de manera desigual. En los territorios plebeyos, el inicio temprano, la combinación con delito predatorio y la falta de redes de contención amplifican efectos acumulativos. El compromiso con las drogas no se limita al consumo; vincularse como soldadito o ayudante puede representar ingresos superiores a los trabajos disponibles, aunque la promesa de movilidad social sea frágil y de corta duración. El trabajo o los emprendimientos ilegales reproducen rasgos del trabajo formal precario: división fragmentada, tareas repetitivas, alta rotación, bajo salario en la base. Cuando el transa declina, los jóvenes inexpertos se convierten en el eslabón desechable."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "En este punto, el universo transa aparece como espacio simultáneo de agencia y explotación, de derrame y desorden, de reconocimiento y precariedad. No es un sistema jurídico alternativo ni un orden paralelo coherente; es un ensamblaje inestable que articula mercado, prestigio, protección y violencia en contextos de marginalidad estructural. Su expansión en el conurbano bonaerense no responde a la consolidación de grandes carteles o clanes familiares sino a la proliferación horizontal de actores cuentapropistas que reconfiguran códigos tradicionales y descolocan a las agencias estatales. Comprender esa mutación exige abandonar explicaciones lineales y asumir la ambivalencia constitutiva del fenómeno: oportunidad y amenaza, regulación y desregulación, gobierno y fragmentación coexistiendo en un mismo territorio."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "\n",
+      [
+       "span",
+       {},
+       "Zona gris, derrame y violencia: la reconfiguración del territorio plebeyo"
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "La expansión del universo transa en el conurbano bonaerense no solo diversificó actores, puntos de venta y modalidades de circulación; también reordenó —por saturación— las condiciones mismas de la convivencia. En el mismo movimiento en que el narcomenudeo se volvió más ubicuo y más entrelazado con economías de subsistencia, se alteraron códigos prácticos que durante años funcionaron como reguladores informales del daño: umbrales tácitos sobre a quién no se roba, qué no se hace en el barrio, qué violencias se consideran inadmisibles aun dentro de la ilegalidad. No se trata de idealizar una “delincuencia adulta” como si fuese portadora de una ética superior: se trata de reconocer que esos códigos operaban como una tecnología social mínima para limitar conflictos, evitar escaladas y sostener una cierta previsibilidad local. Lo que aparece en el período más reciente —y esto es central para entender la densidad del cambio— es que la proliferación de transas-cuentapropistas, la circulación de consumidores más diversos, y la presión competitiva por capturar mercados nuevos erosionan esas barreras y vuelven más porosa la frontera entre oportunismo, intimidación y violencia."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "En ese proceso, el mercado funciona como una fuerza corrosiva no porque “mercantilice” en abstracto, sino porque instala una regla simple y brutal:",
+      [
+       "span",
+       {},
+       " la transacción"
+      ],
+      [
+       "span",
+       {},
+       "no pregunta por el origen del dinero"
+      ],
+      " (",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646005_ref42",
+        "id": "t-llamada-redalyc_775646005_ref42-1"
+       },
+       "Rotman Zelizer, 1995"
+      ],
+      "; ",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646005_ref19",
+        "id": "t-llamada-redalyc_775646005_ref19-1"
+       },
+       "Fassin, 2009"
+      ],
+      "). Esa indiferencia—que en el consumo legal se naturaliza y pasa inadvertida—en el barrio tiene efectos específicos, porque desautoriza jerarquías morales previas y facilita que se mezclen circuitos: dinero de trabajo precario, dinero de robo fuera del barrio, dinero de robo dentro del barrio, dinero de economías familiares, dinero de microextorsión. Allí donde esa mezcla se vuelve cotidiana, se vuelve también más probable que crezcan prácticas que tensionan la convivencia: ",
+      [
+       "span",
+       {},
+       "ventajeo"
+      ],
+      ", ",
+      [
+       "span",
+       {},
+       "apretadas "
+      ],
+      "a vecinos, consumo ostensible en el espacio público, administración intimidatoria de conflictos pequeños, y circulación performática de armas como recurso expresivo. El punto no es que “antes no pasaba”, sino que ahora esas prácticas tienden a estabilizarse como repertorio disponible de interacción, y eso altera el clima social: menos intervención vecinal, más repliegue doméstico, más prudencia en el uso del espacio público, más administración individual del miedo (",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646005_ref33",
+        "id": "t-llamada-redalyc_775646005_ref33-1"
+       },
+       "Rodríguez Alzueta, 2014"
+      ],
+      ")."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "Este desplazamiento se asienta, además, sobre un telón de fondo que en los barrios plebeyos ya no puede leerse como “crisis” pasajera sino como ",
+      [
+       "span",
+       {},
+       "desplome"
+      ],
+      ": acumulación de desigualdades, fragmentación comunitaria, fragilidad institucional y debilitamiento de mediaciones políticas territoriales. En ese contexto, el narcomenudeo y sus negocios satélite (prestamismo usurario, apuestas ilegales, “seguridad” extorsiva, reducción de robado, financiamiento de delito predatorio) no “entran” como un cuerpo extraño, sino que ",
+      [
+       "span",
+       {},
+       "germinan "
+      ],
+      "porque ofrecen respuestas—interesadas y ambivalentes—allí donde otras redes ya no sostienen la vida cotidiana, y porque se adecuan mejor a las nuevas racionalidades de la economía neoliberal. De ahí que la figura del transa aparezca, simultáneamente, como fuente de daño y como ",
+      [
+       "span",
+       {},
+       "resolvedor de problemas"
+      ],
+      ": prestar dinero para un medicamento, cubrir los costos de un velorio o un mural, financiar un traslado, pagar al abogado, “rescatar” una deuda. Ese gesto no es altruismo: compra tolerancia, disciplina o silencio. Pero su eficacia concreta depende de algo más estructural: que el barrio está materialmente fatigado, y que la política territorial muchas veces llega tarde, llega poco o llega solo en clave punitiva."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "La expansión y diversificación del consumo desigual profundiza esta escena. La droga es omnipresente en los barrios, pero el consumo no es patrimonio exclusivo de los sectores plebeyos: lo que cambia es la visibilidad, la calidad, la forma de uso, el acceso a redes de cuidado y el costo social de caer (",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646005_ref39",
+        "id": "t-llamada-redalyc_775646005_ref39-1"
+       },
+       "Roldan, 2024a"
+      ],
+      "). En barrios populares, la socialización juvenil incorpora con más frecuencia consumos tempranos y prácticas de “joda” donde la sustancia funciona como dispositivo de pertenencia y de manejo del tedio, la soledad o el aburrimiento; y a la vez se vuelve más probable que el consumo se articule con estrategias de obtención rápida de recursos que empujan hacia delito predatorio o hacia tareas menores del universo transa (",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646005_ref35",
+        "id": "t-llamada-redalyc_775646005_ref35-1"
+       },
+       "Rodríguez Alzueta, 2020"
+      ],
+      "). En esa clave, el informe ",
+      [
+       "span",
+       {},
+       "La narrativa rota del ascenso social"
+      ],
+      " (CIAS–Fundar) no interesa como “dato” aislado, sino por la interpretación que propone: debilitamiento de expectativas de ascenso, presentismo, erosión del horizonte de futuro, y desplazamiento de la promesa educativa-laboral como narrativa ordenadora. Ese clima cultural y material vuelve más verosímil que la droga y la economía ilegal aparezcan como una oportunidad concreta —aunque frágil— de “ser alguien” en el corto plazo."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "En ese marco se entiende mejor la ",
+      [
+       "span",
+       {},
+       "migración del delito"
+      ],
+      ". No es un tránsito lineal ni universal, pero se vuelve observable: jóvenes que vienen del “boleo” y de formas visibles de delito callejero incorporan el universo transa como escalón de oportunidad; otros entran por tareas de baja calificación —patear, vigilar, alcanzar, ocultar, repartir— y descubren que el mercado de drogas funciona como un régimen laboral precario, con monotoneidad, largas horas y remuneraciones bajas en la base. Vincenzo Ruggiero propuso pensar ciertas economías criminales con metáforas del mundo del trabajo: formas ",
+      [
+       "span",
+       {},
+       "fordistas "
+      ],
+      "(segmentación, repetición, disciplina) y, en otros escenarios, desplazamientos hacia modelos más flexibles y descentralizados. Esa intuición nos es útil no para “economizar” el fenómeno, sino para subrayar un punto incómodo: el narcomenudeo no solo compra mano de obra, ",
+      [
+       "span",
+       {},
+       "administra reemplazabilidad"
+      ],
+      ", y en coyunturas de disputa o declive los eslabones jóvenes e inexpertos tienden a volverse desechables, “perejiles” entregables."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "Una consecuencia de esa reorganización es el lugar que ocupa la violencia —en particular, la violencia desmesurada— en ciertas cohortes nuevas. No se trata de postular que el universo transa sea inherentemente más violento “que antes”, ni de generalizar el rasgo a todo el mercado. Se trata de describir un mecanismo: cuando la organización es rústica, flexible o inconsistente, la autoridad es inestable, la pericia criminal es incompleta y la competencia es intensa, la violencia puede operar menos como instrumento calibrado y más como recurso expresivo (mensaje a rivales, demostración pública, fanfarroneo ante pares, búsqueda de cartel, entretenimiento cruel). Ese uso expresivo desborda la proporcionalidad medio–fin y, por tanto, reconfigura la vida cotidiana de los vecinos aun sin traducirse necesariamente en un aumento equivalente de homicidios. La escena barrial se puebla de prácticas altamente lesivas que las estadísticas clásicas capturan mal: ostentación de armas en espacios públicos, balaceras, extorsiones violentas, broncas entre grupos juveniles que “se resuelven a los tiros”, bullicio de motos y amenazas que vacían esquinas y plazas (",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646005_ref41",
+        "id": "t-llamada-redalyc_775646005_ref41-1"
+       },
+       "Roldan, Bover y Rodríguez Alzueta, 2025"
+      ],
+      ")."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "Aquí aparece, finalmente, un problema político-institucional específico del conurbano bonaerense: la dificultad estatal para intervenir en un territorio donde el mercado minorista se multiplica por debajo del radar y se vuelve difícil de “encuadrar” mediante arreglos con pocos nodos (",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646005_ref34",
+        "id": "t-llamada-redalyc_775646005_ref34-1"
+       },
+       "Rodríguez Alzueta, 2018"
+      ],
+      ", ",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646005_ref38",
+        "id": "t-llamada-redalyc_775646005_ref38-1"
+       },
+       "2025"
+      ],
+      "). Hay una tensión que debe leerse menos como inconsistencia que como desplazamiento histórico y de escala. La regulación policial que en un período logró contener la expansión vertical de ciertos actores y evitar concentraciones excesivas funcionaba en un mercado más centralizado, con nodos relativamente identificables y cadenas menos fragmentadas. La mutación reciente hacia configuraciones rizomáticas, cuentapropistas y de alta rotación altera las condiciones mismas de esa regulación: lo que podía encuadrarse negociando con pocos actores pierde eficacia cuando el mercado se dispersa en múltiples puntos autónomos que operan por debajo del radar institucional. En ese sentido, no se trata de una policía que “antes regulaba bien y ahora no”, sino de un cambio en la morfología del mercado que desajusta los dispositivos históricos de control."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "A esa dificultad policial se suma una crisis de mediaciones políticas. La política territorial tiende a reivindicar una capacidad de control que ya no tiene: funcionarios que dicen “este barrio es mío” para cotizarse electoralmente, punteros convertidos en mediadores residuales, redes partidarias debilitadas y un Estado social con menor capacidad de sostener presencia cotidiana. En ese vacío, la gestión de la violencia se vuelve más errática y la gobernabilidad local más precaria. La insistencia gubernamental en leer el éxito únicamente mediante el descenso de homicidios (cuando ocurre) puede convivir, entonces, con una expansión de violencias no letales, pero altamente desorganizadoras, que les agregan nuevas dificultades e incertidumbres a los vecinos de esos barrios. El resultado es un barrio más prudente, más replegado, con espacios públicos que pierden densidad juvenil cotidiana —no por pacificación, sino por desplazamiento del riesgo hacia zonas “candentes”—, y con una convivencia regulada por microdecisiones defensivas antes que por tramas colectivas de cuidado."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "\n",
+      [
+       "span",
+       {},
+       "Conclusión"
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "La evidencia nos dice que los mercados ilegalizados no irrumpen en el vacío ni se explican únicamente por decisiones individuales o por fallas policiales. Se expanden, mutan y se sedimentan allí donde confluyen transformaciones estructurales más profundas: precarización laboral persistente, debilitamiento de mediaciones políticas, fragmentación comunitaria y retracción del Estado social. En ese escenario, el narcomenudeo no es un paréntesis anómalo dentro de la vida barrial sino una forma de reorganización de la sobrevivencia y, en algunos casos, de la pertenencia, un mercado que se entrelaza con otros mercados —legales e ilegales—, y otras economías morales, y que encuentra en la cotidianeidad de los barrios su soporte material y simbólico."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "Es importante comprender que reducir el fenómeno a una cuestión de oferta y demanda resulta insuficiente. De la misma manera que insistir en cargar el narcomenudeo a la corrupción o connivencia policial. El universo transa no es solo un circuito de compraventa de sustancias; es un ensamblaje que articula trabajo, emprendedurismo, prestigio, protección y violencia. Allí donde el mercado logra cierta estabilidad territorial, emergen formas rudimentarias de organización: división de tareas, control de caja, segmentación de riesgos. Pero cuando la expansión adopta configuraciones rizomáticas, con actores cuentapropistas, alta rotación y aprendizajes incompletos, la regulación se vuelve frágil y la violencia puede desplazarse hacia formas expresivas que desbordan el cálculo instrumental. No es que el mercado sea intrínsecamente más violento, sino que las condiciones organizativas y generacionales modifican los umbrales de contención. Acaso por eso mismo estamos siendo testigos en la provincia de Buenos Aires de procedimientos policiales aleatorios, muchas veces iniciado con las denuncias de los vecinos, que no tienen la capacidad ni la vocación de intervenir en el mercado como antes, cuando negociaba con los empresarios de las economías ilegales."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "Al mismo tiempo, la circulación del dinero produce efectos ambivalentes. Funciona como recurso material que alivia urgencias en territorios fatigados, pero también como tecnología de reconocimiento que reorganiza jerarquías y expectativas. El derrame barrial no elimina el daño, pero explica parte de la tolerancia pragmática que el fenómeno encuentra entre vecinos que habitan la tensión entre necesidad y rechazo. El mercado no sustituye al Estado, pero se superpone con él en una zona gris donde protección, negociación y selectividad institucional conviven con confrontación y castigo."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "No alcanza con describir estructuras cuando lo que está en juego también son deseos. El consumo desigual y la migración de jóvenes y adultos hacia tareas del universo transa no se explican únicamente por carencias materiales, sino por la transformación de las expectativas íntimas que organizan la vida cotidiana. Cuando la promesa educativa-laboral pierde verosimilitud y el futuro deja de ofrecer un camino reconocible de ascenso, el presente se vuelve la única temporalidad tangible. Y en ese presente los jóvenes y adultos no buscan solamente ingresos: buscan enamorarse, alquilar una pieza propia, comprarse zapatillas nuevas, invitar a salir al pibe o la piba que le gusta, sostener una imagen de éxito frente a sus pares, no depender eternamente de la casa familiar, viajar más allá de las fronteras barriales. La economía ilegal aparece entonces como una oportunidad inmediata —aunque frágil— de movilidad y pertenencia, como un atajo para construir una biografía que parezca avanzar (",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646005_ref37",
+        "id": "t-llamada-redalyc_775646005_ref37-1"
+       },
+       "Rodríguez Alzueta, 2023"
+      ],
+      "; ",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646005_ref40",
+        "id": "t-llamada-redalyc_775646005_ref40-1"
+       },
+       "Roldan, 2024b"
+      ],
+      "). Sin embargo, esa promesa encierra su propia trampa: el mercado ofrece reconocimiento rápido, pero administra precariedad estructural. En la base, la reemplazabilidad es regla, la exposición al riesgo está desigualmente distribuida y la posibilidad de convertirse en ",
+      [
+       "span",
+       {},
+       "pieza sacrificable"
+      ],
+      " nunca desaparece. Lo que se presenta como aceleración biográfica puede transformarse, con la misma rapidez, en interrupción abrupta."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "Si desplazamos ahora la mirada hacia el conurbano bonaerense, estas dinámicas generales adquieren rasgos particulares. No asistimos a la consolidación de grandes carteles con capacidad hegemónica de regulación, sino a una proliferación horizontal de actores que operan con autonomía relativa y alta dispersión territorial. Esa morfología fragmentada tensiona los dispositivos históricos de regulación policial: negociar con pocos nodos deja de ser suficiente cuando el mercado se multiplica en puntos pequeños y móviles. La policía que en un momento logró impedir concentraciones excesivas enfrenta ahora un escenario más opaco, donde la regulación requiere otras herramientas y donde la selectividad se vuelve más visible."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "En paralelo, la transformación del espacio público y de las pautas de convivencia en los barrios plebeyos bonaerenses evidencia que el problema no es solo criminal sino social. La erosión de códigos informales, la visibilidad de prácticas intimidatorias, la circulación ostentosa de armas, el desplazamiento del uso cotidiano de plazas y esquinas no siempre se traducen en estadísticas letales, pero sí en una experiencia ampliada de prudencia y repliegue. La gobernabilidad territorial se vuelve más precaria cuando la política local pierde densidad y el Estado social reduce su presencia sostenida."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "Nada de esto autoriza lecturas simplistas. El universo transa no es pura devastación ni pura oportunidad; es una forma de organización ambivalente que emerge en territorios donde la desigualdad se ha vuelto estructura y donde las mediaciones tradicionales han perdido capacidad de articulación. La pregunta que queda abierta no es si el mercado ilegal debe o no ser reprimido —esa discusión excede el alcance de este trabajo— sino qué transformaciones sociales lo hicieron posible y qué mutaciones en la morfología del mercado están desafiando los dispositivos institucionales existentes."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "En el conurbano bonaerense, comprender esas transformaciones implica abandonar tanto la narrativa del ",
+      [
+       "span",
+       {},
+       "narco como invasor externo"
+      ],
+      " como la del ",
+      [
+       "span",
+       {},
+       "barrio como víctima pasiva"
+      ],
+      ". Implica reconocer que los ilegalismos plebeyos son parte constitutiva de una economía urbana desigual que se reconfigura en tiempo real. Y exige, sobre todo, mirar el territorio no como escenario fijo sino como espacio en disputa donde mercado, Estado y comunidad negocian —de manera inestable— los límites de la convivencia."
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-back"
+     },
+     "\n",
+     [
+      "p",
+      {},
+      "\n",
+      [
+       "span",
+       {},
+       "Referencias bibliográficas"
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "id": "t-redalyc_775646005_ref1",
+       "lang": "en"
+      },
+      "Adler Lommitz, L. (1977). ",
+      [
+       "span",
+       {},
+       "Networks and Marginality: Life in a Mexican Shantytown"
+      ],
+      ". Academic Press."
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "id": "t-redalyc_775646005_ref2",
+       "lang": "en"
+      },
+      "Anderson, E. (1999). ",
+      [
+       "span",
+       {},
+       "Code of the street: Decency, violence, and the moral life of the inner city."
+      ],
+      " W. W. Norton."
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "id": "t-redalyc_775646005_ref3",
+       "lang": "en"
+      },
+      "Arias, E. (2006). ",
+      [
+       "span",
+       {},
+       "Drugs & Democracy in Rio de Janeiro. Trafficking, Social Networks, & Public Security"
+      ],
+      ". The University of North Carolina Press."
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "id": "t-redalyc_775646005_ref4",
+       "lang": "en"
+      },
+      "Arias, E. y Rodrigues, C. (2018). The Myth of Personal Security: Criminal Gangs, Dispute Resolution, and Identity in Rio de Janeiro’s Favelas. ",
+      [
+       "span",
+       {},
+       "Latin American Politics and Society"
+      ],
+      ", ",
+      [
+       "span",
+       {},
+       "48"
+      ],
+      "(4), 53-81."
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "id": "t-redalyc_775646005_ref5"
+      },
+      "Auyero, J. y Berti, M. F. (2013). ",
+      [
+       "span",
+       {},
+       "La violencia en los márgenes. Una maestra y un sociólogo en el conurbano bonaerense"
+      ],
+      ". Katz."
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "id": "t-redalyc_775646005_ref6"
+      },
+      "Auyero, J. y Sobering, K. (2021). ",
+      [
+       "span",
+       {},
+       "Entre narcos y policías: las relaciones clandestinas entre el estado y el delito, y su impacto violento en la vida de las personas"
+      ],
+      ". Siglo XXI."
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "id": "t-redalyc_775646005_ref7",
+       "lang": "en"
+      },
+      "Barnes, N. (2025). ",
+      [
+       "span",
+       {},
+       "Inside Criminalized Governance. How and Why Gangs Rule the Streets of Rio de Janeiro"
+      ],
+      ". Cambridge University Press."
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "id": "t-redalyc_775646005_ref8"
+      },
+      "Bayat, A. (2010). ",
+      [
+       "span",
+       {},
+       "Life as Politics"
+      ],
+      ". Amsterdam University Press."
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "id": "t-redalyc_775646005_ref9",
+       "lang": "en"
+      },
+      "Berry, M. (2020). ",
+      [
+       "span",
+       {},
+       "Organised crimen in Red City: An Ethnographic Study of Drugs, Vice and Violence"
+      ],
+      " [PhD Thesis]. Cardiff University."
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "id": "t-redalyc_775646005_ref10"
+      },
+      "Bourgois, P. (2010). ",
+      [
+       "span",
+       {},
+       "En busca del respeto: vendiendo crack en Harlem"
+      ],
+      ". Siglo XXI."
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "id": "t-redalyc_775646005_ref11",
+       "lang": "en"
+      },
+      "Brodeur, J. P. (2010).",
+      [
+       "span",
+       {},
+       "The policing web"
+      ],
+      ". Oxford University Press."
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "id": "t-redalyc_775646005_ref12"
+      },
+      "Colectivo Editorial Crisis (2012). Economía política de las zonas liberadas. ",
+      [
+       "span",
+       {},
+       "Revista Crisis."
+      ],
+      [
+       "a",
+       {
+        "href": "https://revistacrisis.com.ar/notas/economia-politica-de-las-zonas-liberadas/"
+       },
+       "https://revistacrisis.com.ar/notas/economia-politica-de-las-zonas-liberadas/"
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "id": "t-redalyc_775646005_ref13",
+       "lang": "en"
+      },
+      "Contreras, R. (2013). ",
+      [
+       "span",
+       {},
+       "The Stickup Kids: Race, Drugs, Violence, and the American Dream"
+      ],
+      ". University of California Press."
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "id": "t-redalyc_775646005_ref14",
+       "lang": "en"
+      },
+      "Coomber, R. y Moyle, L. (2018). The Changing Shape of Street-Level Heroin and Crack Supply in England: Commuting, Holidaying and Cuckooing Drug Dealers Across “County Lines”. ",
+      [
+       "span",
+       {},
+       "The British Journal of Criminology"
+      ],
+      ", ",
+      [
+       "span",
+       {},
+       "58"
+      ],
+      "(6), 1323-1342."
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "id": "t-redalyc_775646005_ref15"
+      },
+      "Cozzi, E. (2020). “Nosotros éramos una cooperativa de distribución”: algunas transformaciones en el mercado de drogas ilegalizadas en un barrio popular de Rosario, del cuenta-propismo a una comercialización a mayor escala. ",
+      [
+       "span",
+       {},
+       "Dilemas"
+      ],
+      ", ",
+      [
+       "span",
+       {},
+       "13"
+      ],
+      "(2), 463-484."
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "id": "t-redalyc_775646005_ref16"
+      },
+      "Cozzi, E., Font, E. y Mistura, M. E. (2014). Desprotegidos y sobrecriminalizados. Interacciones entre jóvenes de sectores populares, policía provincial y una fuerza de seguridad nacional en un barrio de la ciudad de Rosario. ",
+      [
+       "span",
+       {},
+       "Derechos Humanos"
+      ],
+      ", ",
+      [
+       "span",
+       {},
+       "III"
+      ],
+      "(8), 3-30."
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "id": "t-redalyc_775646005_ref17"
+      },
+      "Dewey, M. (2025). ",
+      [
+       "span",
+       {},
+       "El orden clandestino. Política, fuerzas de seguridad y mercados ilegales en la Argentina. "
+      ],
+      "Katz."
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "id": "t-redalyc_775646005_ref18"
+      },
+      "Escobedo, R., Ramírez, B. y Sarmiento, P. (2017). ",
+      [
+       "span",
+       {},
+       "Bogotá sin el Bronx: Expendios y habitantes de calle"
+      ],
+      ". FIP."
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "id": "t-redalyc_775646005_ref19"
+      },
+      "Fassin, D. (2009). Moral Economies Revisited. ",
+      [
+       "span",
+       {},
+       "Annales"
+      ],
+      ", ",
+      [
+       "span",
+       {},
+       "64"
+      ],
+      "(6), 1237-1266."
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "id": "t-redalyc_775646005_ref20"
+      },
+      "Fassin, D. (2016). ",
+      [
+       "span",
+       {},
+       "La fuerza del orden: una etnografía del accionar policial en las periferias urbanas"
+      ],
+      ". Siglo XXI."
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "id": "t-redalyc_775646005_ref21"
+      },
+      "Gago, V. (2014). ",
+      [
+       "span",
+       {},
+       "La razón neoliberal: economías barrocas y pragmática popular."
+      ],
+      " Tinta Limón."
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "id": "t-redalyc_775646005_ref22",
+       "lang": "en"
+      },
+      "Gambetta, D. (1993). ",
+      [
+       "span",
+       {},
+       "The Sicilian Mafia: The business of private protection"
+      ],
+      ". Harvard University Press."
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "id": "t-redalyc_775646005_ref23",
+       "lang": "en"
+      },
+      "Hernández, F., Kellett, P. y Allen, L. (2014). ",
+      [
+       "span",
+       {},
+       "Rethinking the informal city: Critical perspectives from Latin America"
+      ],
+      ". Berghahn Books."
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "id": "t-redalyc_775646005_ref24"
+      },
+      "Koonings, K. y Kruijt, D. (Eds.) (2017). ",
+      [
+       "span",
+       {},
+       "Violence and resilience in Latin American cities"
+      ],
+      ". Zed Books."
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "id": "t-redalyc_775646005_ref25"
+      },
+      "Lessing, B. (2020). ",
+      [
+       "span",
+       {},
+       "Violencia y paz en la guerra contra las drogas: ofensivas estatales y carteles en América Latina"
+      ],
+      ". Universidad de los Andes."
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "id": "t-redalyc_775646005_ref26",
+       "lang": "en"
+      },
+      "Levitt, S. y Venkatesh, S. (2000). An Economic Analysis of Drug-Selling Gang’s Finances. ",
+      [
+       "span",
+       {},
+       "The Quarterly Journal of Economics"
+      ],
+      ", ",
+      [
+       "span",
+       {},
+       "115"
+      ],
+      "(3), 755-789."
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "id": "t-redalyc_775646005_ref27",
+       "lang": "pt"
+      },
+      "Misse, M. (2007). Mercados ilegais, redes de proteção e organização local do crime no Rio de Janeiro. ",
+      [
+       "span",
+       {},
+       "Estudos Avançados"
+      ],
+      ", ",
+      [
+       "span",
+       {},
+       "21"
+      ],
+      "(61), 139-157."
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "id": "t-redalyc_775646005_ref28",
+       "lang": "en"
+      },
+      "Moncada, E. (2016). ",
+      [
+       "span",
+       {},
+       "Cities, Business, and the Politics of Urban Violence in Latin America"
+      ],
+      ". Stanford University Press."
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "id": "t-redalyc_775646005_ref29",
+       "lang": "en"
+      },
+      "Moser, C. (1998). The Asset Vulnerability Framework: Reassessing Urban Poverty Reduction Strategies. ",
+      [
+       "span",
+       {},
+       "World Development"
+      ],
+      ", ",
+      [
+       "span",
+       {},
+       "26"
+      ],
+      "(1), 1-19."
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "id": "t-redalyc_775646005_ref30",
+       "lang": "en"
+      },
+      "Moser, C. y McIlwaine, C. (2000). ",
+      [
+       "span",
+       {},
+       "Urban Poor Perceptions of Violence and Exclusion in Colombia. "
+      ],
+      "World Bank Publications."
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "id": "t-redalyc_775646005_ref33"
+      },
+      "Rodríguez Alzueta, E. (2014). La violenta regulación del territorio en el capitalismo criminal. En",
+      [
+       "span",
+       {},
+       "Tiempos violentos: barbarie y decadencia civilizatoria"
+      ],
+      ". Herramienta."
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "id": "t-redalyc_775646005_ref34"
+      },
+      "Rodríguez Alzueta, E. (2018). La desmonopolización de la violencia en el capitalismo criminal. ",
+      [
+       "span",
+       {},
+       "Nuestrapraxis"
+      ],
+      ", ",
+      [
+       "span",
+       {},
+       "1"
+      ],
+      "(2), 100-120."
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "id": "t-redalyc_775646005_ref35"
+      },
+      "Rodríguez Alzueta, E. (2020). ¿Existen los pibes chorros? Preguntas complejas, respuestas apresuradas. En A. J. Lacchini, R. Casajus y M. E. Manuele (Coords.), ",
+      [
+       "span",
+       {},
+       "Socio/logía: algunos recorridos por la teoría social "
+      ],
+      "(pp",
+      [
+       "span",
+       {},
+       ". "
+      ],
+      "107-117). Universidad Nacional de La Plata."
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "id": "t-redalyc_775646005_ref36"
+      },
+      "Rodríguez Alzueta, E. (2022). Universos transas: ilegalismos y reproducción social. ",
+      [
+       "span",
+       {},
+       "Revista Cordón"
+      ],
+      ", UNLZ, 27 de mayo de 2022. ",
+      [
+       "a",
+       {
+        "href": "http://cordon.unlz.edu.ar/universos-transas-ilegalismos-y-reproduccion-social/"
+       },
+       "http://cordon.unlz.edu.ar/universos-transas-ilegalismos-y-reproduccion-social/"
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "id": "t-redalyc_775646005_ref37"
+      },
+      "Rodríguez Alzueta, E. (2023). ",
+      [
+       "span",
+       {},
+       "Desarmar al pibe chorro"
+      ],
+      ". Didot."
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "id": "t-redalyc_775646005_ref38"
+      },
+      "Rodríguez Alzueta, E. (2025). Desmesura del universo transa. ",
+      [
+       "span",
+       {},
+       "El Cohete a la Luna"
+      ],
+      ", 12 de octubre de 2025. ",
+      [
+       "a",
+       {
+        "href": "https://www.elcohetealaluna.com/desmesura-de-la-violencia/"
+       },
+       "https://www.elcohetealaluna.com/desmesura-de-la-violencia/"
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "id": "t-redalyc_775646005_ref39"
+      },
+      "Roldan, N. (2024a). ",
+      [
+       "span",
+       {},
+       "Nunca la vi llorar: una transa entre la calle y el afteroffice"
+      ],
+      ". Universidad Nacional de Quilmes."
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "id": "t-redalyc_775646005_ref40"
+      },
+      "Roldan, N. (2024b). Tener un propósito: ¿por qué desistimos de seguir delinquiendo? ",
+      [
+       "span",
+       {},
+       "Cuestiones Criminales"
+      ],
+      ",",
+      [
+       "span",
+       {},
+       " 7"
+      ],
+      "(13/14), 29-54."
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "id": "t-redalyc_775646005_ref41"
+      },
+      "Roldan, N., Bover, T. y Rodríguez Alzueta, E. (2025). ¿Son los homicidios dolosos un indicador para pensar las violencias en el país? ",
+      [
+       "span",
+       {},
+       "Revista Cordón"
+      ],
+      ", UNLZ, 28 de noviembre de 2025. ",
+      [
+       "a",
+       {
+        "href": "http://cordon.unlz.edu.ar/son-los-homicidios-dolosos-un-indicador-para-pensar-las-violencias-en-el-pais/"
+       },
+       "http://cordon.unlz.edu.ar/son-los-homicidios-dolosos-un-indicador-para-pensar-las-violencias-en-el-pais/"
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "id": "t-redalyc_775646005_ref42",
+       "lang": "en"
+      },
+      "Rotman Zelizer, V. (1995).",
+      [
+       "span",
+       {},
+       "The social meaning of money"
+      ],
+      ". Basic Books."
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "id": "t-redalyc_775646005_ref43"
+      },
+      "Sain, M. F. (2015). ",
+      [
+       "span",
+       {},
+       "La regulación policial en la provincia de Buenos Aires."
+      ],
+      " UNET."
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "id": "t-redalyc_775646005_ref44"
+      },
+      "Sain, M. F. (2023). ",
+      [
+       "span",
+       {},
+       "Cuidad de pobres corazones. Estado, crimen y violencia narco en Rosario."
+      ],
+      " Prohistoria ediciones."
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "id": "t-redalyc_775646005_ref31",
+       "lang": "en"
+      },
+      "Sandberg, S. (2008). Black drug dealers in a white welfare state: Cannabis dealing and street capital in Norway. ",
+      [
+       "span",
+       {},
+       "The British Journal of Criminology"
+      ],
+      ", ",
+      [
+       "span",
+       {},
+       "48"
+      ],
+      "(5), 604-619."
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "id": "t-redalyc_775646005_ref32",
+       "lang": "en"
+      },
+      "Skarbek, D. (2014). ",
+      [
+       "span",
+       {},
+       "The Social Order of the Underworld: How Prison Gangs Govern the American Penal System"
+      ],
+      ". Oxford University Press."
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "id": "t-redalyc_775646005_ref45",
+       "lang": "en"
+      },
+      "Thoumi, F. (2001). ",
+      [
+       "span",
+       {},
+       "Illegal drugs, economy, and society in the Andes"
+      ],
+      ". Woodrow Wilson Center Press."
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "id": "t-redalyc_775646005_ref46",
+       "lang": "en"
+      },
+      "Venkatesh, S. (2008). ",
+      [
+       "span",
+       {},
+       "Gang Leader for a Day. A Rogue Sociologist Takes to the Streets"
+      ],
+      ". The Penguin Press."
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "id": "t-redalyc_775646005_ref47",
+       "lang": "en"
+      },
+      "Wacquant, L. (2007). Territorial Stigmatization in the Age of Advanced Marginality.",
+      [
+       "span",
+       {},
+       "Thesis Eleven"
+      ],
+      ", (91), 66-77."
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "id": "t-redalyc_775646005_ref48",
+       "lang": "en"
+      },
+      "Willis, G. D. (2015). ",
+      [
+       "span",
+       {},
+       "The Killing Consensus: Police, Organized Crime, and the Regulation of Life and Death in Urban Brazil"
+      ],
+      ". University of California Press."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "Notas"
+     ],
+     "\n",
+     [
+      "span",
+      {
+       "id": "t-fn1"
+      },
+      "\n",
+      [
+       "span",
+       {},
+       "1"
+      ],
+      " A pesar de esto, la comparación internacional muestra algo todavía más incómodo: muchos de estos mercados operan como ",
+      [
+       "span",
+       {},
+       "regímenes laborales"
+      ],
+      " que explotan vulnerabilidad. En Inglaterra, el análisis de Ross Coomber y Leah Moyle (",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646005_ref14",
+        "id": "t-llamada-redalyc_775646005_ref14-1"
+       },
+       "2018"
+      ],
+      ") sobre “county lines” identifica un modelo minorista de “outreach” desde grandes ciudades a localidades satélite, con explotación de poblaciones vulnerables para maximizar ganancia. Lo importante, para nuestras preguntas y análisis, no es el slogan mediático sino el cambio estructural: como incipientemente comienzan a señalar algunas investigaciones el narcomenudeo ya no es necesariamente “hiperlocal”; puede ser una red móvil que usa ciertas lógicas territoriales como infraestructura de ventas."
+     ],
+     "\n",
+     [
+      "span",
+      {
+       "id": "t-fn2"
+      },
+      "\n",
+      [
+       "span",
+       {},
+       "2"
+      ],
+      " Cozzi (",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646005_ref15",
+        "id": "t-llamada-redalyc_775646005_ref15-3"
+       },
+       "2020"
+      ],
+      "), en su etnografía situada en un barrio popular de Rosario, describe con precisión ese pasaje desde intercambios cara a cara hacia formas más escaladas asociadas a delegación: unos venden, otros cobran, otros cuentan el dinero, otros supervisan. El acceso a la caja, más que la mera presencia en el punto, se vuelve criterio decisivo de autoridad."
+     ],
+     "\n",
+     [
+      "span",
+      {
+       "id": "t-fn3"
+      },
+      "\n",
+      [
+       "span",
+       {},
+       "3"
+      ],
+      " Este artículo de Levitt y Venkatesh es uno de los pocos estudios que presenta “libros contables” reales de bandas vendedoras de drogas, con estimaciones de gastos y ganancias. Presenta un detalle administrativo inusual que le permite a los autores llegar a ciertas conclusiones únicas: el salario de un joven que comienza a vender drogas—o ingresa a la banda como “foot soldier”—está por debajo del salario mínimo y muchos de ellos continúan trabajando simultáneamente en empleos formales; lo que implica que el narcomenudeo no es extraordinariamente lucrativo para la mayoría y que el riesgo es desproporcionado respecto del retorno."
+     ],
+     "\n",
+     [
+      "span",
+      {
+       "id": "t-fn4"
+      },
+      "\n",
+      [
+       "span",
+       {},
+       "4"
+      ],
+      " No podemos dejar de señalar un importante sesgo: la bibliografía suele tener menos “voz directa” de actores involucrados que lo que creemos. No por falta de interés sino por acceso y riesgos. La tesis etnográfica de Mark Berry (",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646005_ref9",
+        "id": "t-llamada-redalyc_775646005_ref9-1"
+       },
+       "2020"
+      ],
+      ") lo plantea directamente: hay pocas investigaciones contemporáneas sobre organización de la oferta y todavía menos sobre vendedores activos; y justamente por eso su trabajo realizado en Inglaterra busca observar y entrevistar para corregir estereotipos oficiales y mediáticos sobre “crimen organizado” y “ventas de drogas”."
+     ],
+     "\n",
+     [
+      "span",
+      {
+       "id": "t-fn5"
+      },
+      "\n",
+      [
+       "span",
+       {},
+       "5"
+      ],
+      " Para una etnografía de intercambio y consumo de drogas en las clases altas bonaerenses, ver: Roldan (",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646005_ref39",
+        "id": "t-llamada-redalyc_775646005_ref39-2"
+       },
+       "2024a"
+      ],
+      ")."
+     ],
+     "\n",
+     "\n",
+     [
+      "p",
+      {},
+      "\n",
+      [
+       "span",
+       {},
+       "Recepción: "
+      ],
+      " 01 marzo  2026"
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "\n",
+      [
+       "span",
+       {},
+       "Aprobación: "
+      ],
+      " 01 abril  2026"
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "\n",
+      [
+       "span",
+       {},
+       "Publicación: "
+      ],
+      " 01 agosto  2026"
+     ],
+     "\n",
+     [
+      "br",
+      {}
+     ],
+     "\n",
+     [
+      "br",
+      {}
+     ],
+     "\n",
+     "\n",
+     [
+      "a",
+      {
+       "href": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      " ",
+      [
+       "figura",
+       {
+        "alt": "Imagen"
+       }
+      ],
+      " Obra bajo Licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional"
+     ],
+     "\n",
+     [
+      "figura",
+      {
+       "alt": "Imagen"
+      }
+     ],
+     "\n",
+     "\n",
+     "\n",
+     [
+      "span",
+      {
+       "id": "t-logo-derecha"
+      },
+      "\n",
+      [
+       "a",
+       {
+        "href": "https://www.fahce.unlp.edu.ar/facultad/secretarias-y-prosecretarias/prosecretaria-de-gestion-editorial-y-difusion/ediciones-de-la-fahce"
+       },
+       " \n",
+       [
+        "figura",
+        {
+         "alt": "ediciones_fahce"
+        }
+       ],
+       "\n"
+      ],
+      "\n"
+     ],
+     "\n\n",
+     [
+      "span",
+      {
+       "id": "t-creditos"
+      },
+      "\n",
+      [
+       "span",
+       {},
+       [
+        "figura",
+        {}
+       ],
+       [
+        "sup",
+        {},
+        "Ediciones de la FaHCE utiliza"
+       ],
+       [
+        "a",
+        {
+         "href": "http://portal.amelica.org/ameli"
+        },
+        [
+         "figura",
+         {}
+        ]
+       ],
+       " ",
+       [
+        "figura",
+        {}
+       ]
+      ],
+      [
+       "br",
+       {}
+      ],
+      "\n",
+      "\n"
+     ],
+     "\n"
+    ]
+   ]
+  ]
+ ]
+};

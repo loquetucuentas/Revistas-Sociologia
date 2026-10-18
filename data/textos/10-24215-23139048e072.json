@@ -1,0 +1,1661 @@
+{
+ "version": 1,
+ "recogido": "2026-10-18T11:45:39+00:00",
+ "doi": "10.24215/23139048e072",
+ "titulo": "No es lo que dijo, es cómo lo dijo",
+ "revista": "2313-9048",
+ "numero": "v17-n17-2023",
+ "licencia": {
+  "codigo": "by-nc-sa",
+  "nombre": "CC BY-NC-SA 4.0",
+  "nombre_completo": "Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional",
+  "url": "https://creativecommons.org/licenses/by-nc-sa/4.0",
+  "url_legal": "https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.es"
+ },
+ "fuente": {
+  "url": "https://perio.unlp.edu.ar/ojs/index.php/cps/article/download/7690/6818/32643?inline=1",
+  "formato": "HTML",
+  "plataforma": "ojs-galerada",
+  "pagina": "https://perio.unlp.edu.ar/ojs/index.php/cps/article/view/7690"
+ },
+ "autores_cita": [
+  {
+   "apellidos": "Pereiro",
+   "nombre_pila": "Julio",
+   "nombre": null
+  }
+ ],
+ "avisos_derechos": [
+  "Derechos de autor 2023 Cuadernos de H ideas",
+  "Licencia Derechos de autor 2023 Cuadernos de H ideas Esta obra está bajo una licencia internacional Creative Commons Atribución-NoComercial-CompartirIgual 4.0. La aceptación de un original por parte de la revista implica la cesión no exclusiva de los derechos patrimoniales de los/as autores/as en favor del editor, quien permite la reutilización, luego de su edición (postprint), bajo una Licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0) Acorde a estos términos, el material se puede compartir (copiar y redistribuir en cualquier medio o formato) y adaptar (remezclar, transformar y crear a partir del material otra obra), siempre que a) se cite la autoría y la fuente original de su publicación (revista y URL de la obra), b) no se use para fines comerciales y c) se mantengan los mismos términos de la licencia. La cesión de derechos no exclusivos implica que luego de su edición (postprint) en Cuadernos de H ideas las/os autoras/es pueden publicar su trabajo en cualquier idioma, medio y formato; en tales casos, se solicita que se consigne que el material fue publicado originalmente en esta revista. Tal cesión supone, también, la autorización de los/as autores/as para que el trabajo sea cosechado por SEDICI, el repositorio institucional de la Universidad Nacional de La Plata, y sea difundido en las bases de datos que el equipo editorial considere adecuadas para incrementar la visibilidad de la publicación y de sus autores/as. Asimismo, la revista incentiva a las/os autoras/es para que luego de su publicación en Cuadernos de H ideas depositen sus producciones en otros repositorios institucionales y temáticos, bajo el principio de que ofrecer a la sociedad la producción científica y académica sin restricciones contribuye a un mayor intercambio del conocimiento global."
+ ],
+ "idioma_principal": "es",
+ "indice": [],
+ "vueltas": {},
+ "contenido": [
+  [
+   "span",
+   {
+    "id": "t-MathJax_Message"
+   }
+  ],
+  "\n",
+  [
+   "span",
+   {
+    "id": "t-visor-cabecera"
+   },
+   "\n",
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-logo-institucion"
+    },
+    "\n",
+    [
+     "figura",
+     {}
+    ]
+   ],
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-logo-revista"
+    },
+    "\n",
+    [
+     "figura",
+     {}
+    ]
+   ],
+   "\n",
+   "\n"
+  ],
+  "\n",
+  [
+   "span",
+   {
+    "id": "t-articulo"
+   },
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-front"
+    },
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-articulo-categoria"
+     },
+     "\n",
+     [
+      "p",
+      {},
+      "Artículos"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-articulo-meta"
+     },
+     "\n",
+     [
+      "p",
+      {},
+      "\n",
+      [
+       "span",
+       {},
+       "No es lo que dijo, es cómo lo dijo. La percepción del paralenguaje en el discurso político"
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "lang": "en"
+      },
+      "\n",
+      [
+       "span",
+       {},
+       "It's Not What He Said, It's How He Said It. The Perception\nof Paralanguage in Political Discourse"
+      ],
+      "\n"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-articulo-acerca"
+     },
+     "\n",
+     [
+      "span",
+      {
+       "id": "t-ficha-general"
+      },
+      "\n",
+      [
+       "span",
+       {
+        "id": "t-autores-articulo"
+       },
+       "\n",
+       "\n",
+       "\n",
+       [
+        "a",
+        {
+         "href": "https://orcid.org/0000-0003-2731-2971"
+        },
+        [
+         "figura",
+         {}
+        ]
+       ],
+       "  ",
+       [
+        "span",
+        {},
+        "Julio"
+       ],
+       " ",
+       [
+        "span",
+        {},
+        "Pereiro"
+       ],
+       " ",
+       [
+        "span",
+        {}
+       ],
+       [
+        "span",
+        {},
+        " juliopereiro@hotmail.com"
+       ],
+       "\n",
+       "\n",
+       "\n",
+       [
+        "span",
+        {},
+        "Facultad\nde Ciencias Sociales de Olavarría, Universidad\nNacional del Centro de la Provincia de Buenos Aires"
+       ],
+       ", ",
+       [
+        "span",
+        {},
+        "Argentina"
+       ],
+       "\n",
+       "\n",
+       "\n"
+      ],
+      "\n",
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "Cuadernos de H ideas"
+       ],
+       "\n"
+      ],
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "Universidad Nacional de La Plata, Argentina"
+       ],
+       "\n"
+      ],
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "ISSN: "
+       ],
+       "2313-9048"
+      ],
+      "\n",
+      [
+       "p",
+       {}
+      ],
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "Periodicidad: "
+       ],
+       "Frecuencia continua"
+      ],
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "vol.  17, "
+       ],
+       "núm.  17, ",
+       [
+        "span",
+        {
+         "id": "t-elocation-id"
+        },
+        "e072, "
+       ],
+       [
+        "span",
+        {},
+        "2023"
+       ],
+       "\n"
+      ],
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       "cuadernosdehideas@perio.unlp.edu.ar",
+       "\n"
+      ],
+      "\n",
+      "\n",
+      [
+       "span",
+       {
+        "id": "t-articulo-product"
+       }
+      ],
+      "\n",
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "Recepción: "
+       ],
+       " 11 Julio  2022"
+      ],
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "Aprobación: "
+       ],
+       " 04 Noviembre  2022"
+      ],
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "Publicación: "
+       ],
+       " 13 Febrero  2023"
+      ],
+      "\n",
+      [
+       "br",
+       {}
+      ],
+      "\n",
+      [
+       "br",
+       {}
+      ],
+      "\n",
+      "\n",
+      "\n",
+      [
+       "span",
+       {},
+       "URL: "
+      ],
+      [
+       "a",
+       {
+        "href": "http://portal.amelica.org/ameli/journal/31/313799001/"
+       },
+       "http://portal.amelica.org/ameli/journal/31/313799001/"
+      ],
+      "\n",
+      "\n",
+      "\n",
+      [
+       "span",
+       {},
+       "DOI: "
+      ],
+      [
+       "a",
+       {
+        "href": "https://doi.org/10.24215/23139048e072"
+       },
+       "https://doi.org/10.24215/23139048e072"
+      ],
+      "\n",
+      "\n",
+      "\n",
+      [
+       "p",
+       {}
+      ],
+      "\n",
+      "\n",
+      "\n",
+      "\n",
+      [
+       "a",
+       {
+        "href": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+       },
+       [
+        "figura",
+        {}
+       ],
+       [
+        "br",
+        {}
+       ],
+       "\n"
+      ],
+      "Esta obra está bajo una ",
+      [
+       "a",
+       {
+        "href": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+       },
+       "Licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional."
+      ],
+      "\n",
+      "\n",
+      "\n",
+      [
+       "p",
+       {}
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "\n",
+      [
+       "span",
+       {},
+       "Resumen:\n\t\t\t\t\t\t\t                           "
+      ],
+      [
+       "span",
+       {},
+       "La voz es considerada como el recurso por excelencia en la comunicación, y su empleo en el discurso político constituye un elemento que si bien reviste gran importancia, ha sido objeto de un menor grado de estudios en comparación con otras áreas de dicha temática. El objetivo del presente estudio fue analizar la percepción que poseen los jóvenes entre 16 y 18 años de edad de los elementos del paralenguaje, es decir aquellos que acompañan la voz en la comunicación oral, por parte de los funcionarios públicos y candidatos políticos con la finalidad de persuadir al electorado. La investigación se llevó adelante desde un enfoque metodológico del análisis del contenido por medio de entrevistas grupales (",
+       [
+        "span",
+        {},
+        "focus groups"
+       ],
+       ")."
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "\n",
+      [
+       "span",
+       {},
+       "Palabras clave: "
+      ],
+      "comunicación no verbal, percepción, discurso político, juventud.\n\t\t                         "
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "lang": "en"
+      },
+      "\n",
+      [
+       "span",
+       {},
+       "Abstract:\n\t\t\t\t\t\t                           "
+      ],
+      [
+       "span",
+       {},
+       "The voice is considered as the resource par excellence in communication, and its use in political discourse constitutes an element that, although it is of great importance, has been the subject of a lesser degree of study compared to other areas of this subject. The objective of this study was to analyze the perception that young people between 16 and 18 years of age have of the elements of paralanguage, that is, those that accompany the voice in oral communication, by public officials and political candidates with the aim of to persuade the electorate. The research was carried out from a methodological approach of content analysis through focus groups."
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "\n",
+      [
+       "span",
+       {},
+       "Keywords: "
+      ],
+      "non-verbal communication, perception, political discourse, youth.\n                                "
+     ],
+     "\n"
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-articulo-body"
+    },
+    "\n",
+    [
+     "p",
+     {},
+     "\n",
+     [
+      "span",
+      {},
+      "Introducción"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " La voz es considerada como el instrumento por excelencia en los procesos de comunicación, tanto en los niveles interpersonal, público o masivo. La voz le aporta al lenguaje aspectos que van más allá del significado de las palabras. La complementan, la enriquecen, trasmiten valores, sentimientos y emociones. O no. Y es que la ausencia también comunica. La falta de pasión en un discurso político por ejemplo, es percibida como algo negativo, independientemente del contenido semántico del mensaje. Del mismo modo, la voz puede contradecir a las palabras, informar una emoción que no es congruente con lo que se está trasmitiendo, o mejor dicho, con lo que se quiere comunicar. "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " En los sistemas de democracia representativa modernos,",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799001/html/index.html#fn1"
+      },
+      [
+       "sup",
+       {},
+       "1"
+      ]
+     ],
+     " los políticos -ya sean funcionarios públicos en ejercicio o candidatos a un determinado cargo-, necesitan emplear todos los recursos disponibles para convencer al electorado. En tal sentido, el uso de los diferentes elementos que acompañan la voz es esencial para persuadir al electorado. "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " En el presente artículo se analizará la percepción del empleo de los diferentes componentes de la voz –el cual se denomina paralenguaje– en el discurso político, por parte de jóvenes entre 16 y 18 años de edad. La investigación se realizó a partir de una serie de entrevistas grupales (",
+     [
+      "span",
+      {},
+      "focus groups"
+     ],
+     "), enmarcadas dentro del campo del análisis de contenido. "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " A continuación, se presentan los principales aportes teóricos al campo de la paralingüística, para luego desarrollar el encuadre metodológico y el análisis y discusión de los resultados obtenidos."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n",
+     [
+      "span",
+      {},
+      "¿Qué es el paralenguaje?"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " En ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799001/html/index.html#redalyc_313799001_ref7"
+      },
+      "1972"
+     ],
+     ", Albert Mehrabian realizó un estudio cuyos resultados han generado grandes controversias en el campo de la comunicación no verbal, puesto que a partir del mismo se afirmó que solo 7 % de lo que se comunica es por el canal verbal, mientras que 93 % restante pertenecería al área de lo no verbal. Ahora bien, sin entrar en la polémica de los alcances de esta investigación, lo cual no es objeto de este artículo, resulta interesante destacar que el 38 % corresponde a lo que se denomina paralenguaje, es decir los componentes vocales no semánticos, tales como las cualidades de la voz así como sus posibles modificaciones.  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " En tal sentido, la paralingüística –disciplina que estudia el paralenguaje– constituye una de las tres grandes áreas de investigación de la comunicación no verbal, aunque la misma ha quedado relegada en importancia frente a las otras dos, la kinésica y la proxémica (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799001/html/index.html#redalyc_313799001_ref6"
+      },
+      "Knapp, 1997"
+     ],
+     "). El campo de análisis de la paralingüística abarca no solo las cualidades primarias de la voz, sino también los diferenciadores emocionales, las pausas y los silencios, así como la prosodia. Sin lugar a dudas, es el profesor Fernando ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799001/html/index.html#redalyc_313799001_ref12"
+      },
+      "Poyatos (1994)"
+     ],
+     " –principal referente a nivel mundial sobre la disciplina– quien nos brinda la conceptualización más completa del paralenguaje al definirlo como"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "p",
+     {},
+     "las cualidades no verbales de la voz y sus modificadores y las emisiones independientes cuasiléxicas, producidas o condicionadas en las zonas comprendidas en las cavidades supraglóticas (desde los labios y nares hasta la faringe), la cavidad laríngea y las cavidades infraglóticas (pulmones y esófago) hasta los músculos abdominales, así como los silencios momentáneos, que utilizamos consciente o inconscientemente para apoyar o contradecir los signos verbales, kinésicos, proxémicos, químicos, dérmicos y térmicos, simultáneamente o alternando con ellos, tanto en la interacción como en la no-interacción (p. 28)."
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " De este modo, el paralenguaje es el componente vocal de un discurso que se encuentra más allá del lenguaje; refiere al",
+     [
+      "span",
+      {},
+      " cómo"
+     ],
+     ", a la forma. El mismo se encuentra estrechamente ligado al mensaje verbal, ya sea para confirmarlo o para contradecirlo, y en él se manifiesta el estado de ánimo del hablante, sus emociones y sentimientos.  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Al respecto, Saundra Hybels y Richard Weaver (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799001/html/index.html#redalyc_313799001_ref5"
+      },
+      "1978"
+     ],
+     ") consideran que prevalece una clara distinción entre la comunicación verbal, es decir la manera que una persona emplea las palabras, y cómo utiliza su voz. En tal sentido, el paralenguaje incluye características como la velocidad, inflexión, tono y volumen. Estos elementos coexisten de forma simultánea con las palabras y sirven para modificarlas de diferentes maneras, lo cual expresa la enorme capacidad del paralenguaje para influir el significado del mensaje verbal del orador tal como es interpretado por el oyente (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799001/html/index.html#redalyc_313799001_ref11"
+      },
+      "Pereiro, 2019"
+     ],
+     "). Planteado en otros términos, el paralenguaje no hace referencia al contenido propiamente dicho del discurso (esto quedaría comprendido en el ámbito de la comunicación verbal), sino al modo en que el mismo se enuncia. Es el cómo se dice que acompaña indefectiblemente al qué se dice."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n",
+     [
+      "span",
+      {},
+      "Elementos del paralenguaje"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Antes de comenzar a desarrollar los diferentes elementos que componen el paralenguaje es necesario realizar una breve explicación sobre cómo se produce la voz en el ser humano. La voz es el sonido que se origina por la vibración de las cuerdas vocales ubicadas en la laringe, por el paso del aire proveniente de la caja torácica. En tal sentido, la voz es una de las acciones más complejas que puede realizar el cuerpo humano (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799001/html/index.html#redalyc_313799001_ref14"
+      },
+      "Torres Gallardo, 2013"
+     ],
+     "). La voz humana se produce voluntariamente por medio del aparato fonador; el mismo está compuesto por estructuras del aparato respiratorio y digestivo: los pulmones como fuente de energía en la forma de un flujo de aire, la laringe, que contiene las cuerdas vocales, la faringe, las cavidades oral y nasal, y un conjunto de elementos articulatorios, tales como los labios, los dientes, el paladar y la lengua. Las cuerdas vocales son dos membranas dentro de la laringe, y la abertura entre ambas cuerdas se denomina glotis. Cuando las cuerdas vocales se encuentran separadas, el aire pasa libremente y no se produce sonido (como cuando respiramos). Al cerrarse la glotis, las cuerdas vocales empiezan a vibrar como si fueran lengüetas, produciendo de esta manera un sonido, cuya frecuencia depende, entre otros factores, del tamaño de las cuerdas vocales, (a mayor tamaño, menor frecuencia de vibración, de la tensión que se les aplique (a mayor tensión la frecuencia aumenta, siendo los sonidos más agudo) y de la velocidad del flujo del aire proveniente de los pulmones (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799001/html/index.html#redalyc_313799001_ref9"
+      },
+      "Miyara, 2011"
+     ],
+     "). De este modo, la voz constituye una potente herramienta de comunicación, no solo por su enorme capacidad para emitir una amplia gamas de sonidos, sino también por su potencial para comunicar (voluntariamente o no) tanto con el lenguaje (comunicación verbal) como con el paralenguaje.  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Los elementos paralingüísticos refieren al conjunto de componentes vocales no lingüísticos, que se producen con los mismos órganos del aparato fonador humano, pero que no forman parte del sistema verbal. ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799001/html/index.html#redalyc_313799001_ref12"
+      },
+      "Poyatos (1994)"
+     ],
+     " propone una sistematización de los elementos que conforman el paralenguaje,",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799001/html/index.html#fn2"
+      },
+      [
+       "sup",
+       {},
+       "2"
+      ]
+     ],
+     " a los cuales clasifica en cuatro grandes categorías: cualidades primarias de la voz, calificadores, diferenciadores y alternantes. En primer lugar, se denominan cualidades primarias a los rasgos distintivos de la voz, es decir aquellas características que nos diferencian como individuos, como timbre, resonancia, intensidad, volumen, tempo, registro, campo entonativo, duración silábica y ritmo. Dentro de estas cualidades, destacan el tono, el volumen y el ritmo. El tono varía de acuerdo a la tensión que se ejerza en las cuerdas vocales, y es el principal indicar de los estados emocionales. Por ejemplo, una persona cansada o deprimida posee un tono bajo, ya que para hablar las cuerdas vocales se relajan, mientras que un sujeto en un estado eufórico o enojado las cuerdas se tensan y se eleva el tono de voz.  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Por otra parte, el volumen es la intensidad con la que se propaga la voz, ya sea en una conversación o en un discurso. El volumen se encuentra directamente relacionado con el contexto, por lo cual a menudo se habla de un volumen inapropiado, es decir inapropiado para el contexto. El empleo de un volumen elevado durante una conversación puede indicar una intención de demostrar autoridad y ejercer dominio sobre los demás interlocutores y/o ser señal de agresividad. Por el contrario, alguien que habla con un volumen bajo se asocia a personas tímidas, con un carácter introvertido o bien incómoda con la situación o con alguno de los interlocutores. Nuevamente, al igual que el tono, el volumen es un buen indicador del estado emocional del hablante. "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Ahora bien, para poder analizar el volumen resulta imprescindible situarlo en el contexto, tanto micro como macro en que se produce el acto de comunicación, así como las características particulares del hablante, ya que por ejemplo, en las grandes áreas urbanas, la contaminación auditiva es muy alta, lo cual obliga a los sujetos a elevar el volumen de su voz en sus interacciones diarias. Del mismo modo, una persona con dificultades en la audición es muy probable que emplee un volumen de voz más alto.  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Finalmente, el ritmo refiere a la cadencia con que se expresan los signos verbales, es decir a la velocidad a la que se habla. En promedio, un adulto emite 150 palabras por minutos; si la persona habla muy lento (100 palabras por minuto o menos) puede ser interpretado como aburrimiento, apatía o bien un deseo de retirada, es decir de no querer permanecer en la conversación, así como falta de interés en la misma o en los interlocutores. Por el contrario, un sujeto que habla demasiado rápido (200 palabras o más por minuto) tiende a agobiar e irritar.  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Por otra parte, los calificadores refieren a los diferentes tipos de voz. Estos son"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "p",
+     {},
+     "modificadores de la voz determinados por factores biológicos y fisiológicos, estos últimos afectados a su vez por variables psicológicas y emocionales, y su verdadera importancia reside en sus funciones socioculturales, ya que constituyen una complejísima serie de efectos de voz, controlables o no, percibidas y juzgadas socialmente según valores establecidos universalmente (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799001/html/index.html#redalyc_313799001_ref12"
+      },
+      "Poyatos, 1994"
+     ],
+     " p. 50)."
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Lo citado refiere a que por medio de los calificadores las personas son capaces de utilizar su voz de acuerdo al mensaje o al contexto, como por ejemplo una voz susurrada en un contexto de intimidad. Cabe destacar que ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799001/html/index.html#redalyc_313799001_ref12"
+      },
+      "Poyatos (1994)"
+     ],
+     " propone una clasificación de más de cincuenta tipos de voces diferentes, de acuerdo al control respiratorio, control laríngeo, control labial entre otros. "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " En tercer lugar se encuentran los diferenciadores, los cuales modifican el mensaje verbal; son indicadores sonoros de reacciones fisiológicas y emocionales y pueden emitirse consciente como inconscientemente. En cuanto a su empleo, los diferenciadores poseen un amplio espectro funcional. Quizás el ejemplo más claro sobre esto lo constituye la risa, la cual puede ser tanto un signo de alegría, resignación o miedo. Lo mismo sucede con el llanto o un grito. Otros diferenciadores son el bostezo, un suspiro, el carraspeo o el castañeo de dientes. "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Finalmente, los alternantes son todos aquellos sonidos que emite el ser humano, conscientemente o no, y que funcionan como “cuasipalabras”. El ejemplo más conocido son las onomatopeyas, pero también se incluyen las interjecciones, los gemidos, el chistar así como un amplio conjunto de sonidos, los cuales son empleados cotidianamente y que si bien no tienen un contenido semántico, sí poseen un importante valor comunicacional."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n",
+     [
+      "span",
+      {},
+      "Prosodia"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Directamente relacionado con los elementos del paralenguaje se encuentra la prosodia, la cual remite a la entonación general de una frase así como a la acentuación local de las palabras. De esta manera, “la prosodia o, más concreto, la entonación, es el recurso más común y el más elemental del enunciado: puede haber enunciados sin forma gramatical, pero sin entonación, no” (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799001/html/index.html#redalyc_313799001_ref15"
+      },
+      "Quilis, 1993"
+     ],
+     ", p. 426). Planteado en otros términos, la prosodia es el componente del lenguaje que se vincula con los procesos necesarios tanto para expresar como para comprender las intenciones comunicativas más allá del uso de las palabras, y hasta un punto, de manera independiente del significado de las mismas, como es el caso de la ironía, el sarcasmo, los sobreentendidos y en general de los comentarios con un doble sentido. Asimismo, por medio de la prosodia es posible introducir contenido emocional en el mensaje, lo que no solo facilita la comprensión del mismo, sino que además permite realizar un intercambio verbal coherente, dotando plenamente de intencionalidad al discurso. De este modo, por medio de la prosodia las personas son capaces de comunicarse en un nivel emocional, como por ejemplo a partir de la generación de empatía lo que la convierte en un excelente recurso para la persuasión o la motivación.  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Los principales elementos que se analizan dentro de la prosodia son la duración de un enunciado, la velocidad del habla, el ritmo, el uso de las pausas y los silencios, el énfasis, las inflexiones de la voz y la elocución. Por otra parte, cabe destacar que la prosodia se combina con diferentes elementos de la comunicación no verbal, y no solo con el paralenguaje. A modo de ejemplo, en el transcurso de un intercambio verbal, si una persona se enoja es probable que eleve el tono de voz, pero que al mismo tiempo empiece a realizar gestos ilustradores más amplios (kinesia) e incluso que se acerque hacia su interlocutor (proxémica), de forma tal que la separación entre los diferentes elementos de la CNV es solo con fines analíticos puesto que en la realidad se producen de forma simultánea y entrelazada. "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " En síntesis, al recibir un mensaje, las personas somos capaces no solo de decodificar el significado de las palabras, sino también de entender las emociones e intenciones que subyacen en este, y que se vinculan más con el contexto que con el texto en sí mismo, lo cual es posible gracias a la presencia de la prosodia. "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n",
+     [
+      "span",
+      {},
+      "Pausas y silencios"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Como ya se mencionó, todo comunica. Comunica la palabra y también comunica la ausencia de ésta. A las interrupciones voluntarias que realiza el emisor en la comunicación verbal podemos clasificarlas en pausas o silencios de acuerdo a la duración de las mismas. De este modo, las interrupciones breves a lo largo del discurso son consideradas como pausas y las mismas tienen una duración de alrededor de un segundo. En cuanto a su función en el proceso de comunicación, la pausa"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "p",
+     {},
+     "está asociada, fundamentalmente, con la percepción de la fluidez discursiva por parte del receptor. Un emisor que realiza demasiadas pausas puede dar la sensación de que no sabe qué decir; si los silencios se hacen muy largos o se producen muchas pausas de relleno como",
+     [
+      "span",
+      {},
+      " eee, esteee, mmm"
+     ],
+     ", provocan que el receptor entienda que el emisor está improvisando o no conoce a fondo el tema que trata. Por el contrario, un emisor que posea alta fluidez puede ser percibido como bueno o con conocimiento del tema, aunque no diga gran cosa al respecto (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799001/html/index.html#redalyc_313799001_ref1"
+      },
+      "Carrocio, 2010"
+     ],
+     ", p.6)."
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " En tal sentido, las pausas pueden ser clasificadas como vacías o rellenas (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799001/html/index.html#redalyc_313799001_ref6"
+      },
+      "Knapp, 1997"
+     ],
+     "). En el primero de los casos, no se emite sonido alguno, mientras que en el segundo, las pausas se rellenan con alguna fonación, como por ejemplo hmm, ehh, falsos comienzos o tartamudeos. Las pausas rellenas pueden ser empleadas en una conversación para mantener el canal abierto, es decir para informar al interlocutor que aún no es su turno para hablar –es decir empleando la función fática del lenguaje que propone Roman Jakobson– así como para corroborar que el canal funcione correctamente. Sin embargo, si se las utiliza de forma recurrente denotan inseguridad, nerviosismo o ansiedad, o bien desconocimiento o desinterés sobre la temática a tratar. "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " De esta manera, puede observarse como las pausas desempeñan un rol importante en la comunicación, independientemente del contenido que se esté abordando. Asimismo, las pausas funcionan también como reguladores de cambio de turno para hablar, señalando el final de uno y el posible comienzo de otro. Finalmente, una tercera función de las pausas refiere a un interlocutor cansado. En este caso, las pausas son producidas por una necesidad fisiológica, como por ejemplo luego de un discurso prolongado, el emisor puede notar como su aparato fonador se encuentra exhausto y es preciso realizar breves pausas para recuperarse y continuar.  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Por otra parte, se encuentran los silencios, los cuales con frecuencia son complejos de analizar ya que poseen una cantidad mayor –y más variada– de funciones que las pausas. En primer lugar, es importante no considerar a los silencios como ‘ausencia de comunicación’, ya que por el contrario, los mismos están cargados de significado y en determinadas ocasiones resultan más claros y elocuentes que el discurso verbal. Como sostiene ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799001/html/index.html#redalyc_313799001_ref13"
+      },
+      "Poyatos (2003)"
+     ],
+     ", “la ausencia de algo puede ser tan elocuente como su presencia” (p. 82). En tal sentido, los silencios pueden ser una respuesta, tanto negativa como positiva, frente a una pregunta o al discurso del otro. Asimismo, el silencio puede denotar duda o reflexión, así como asombro o contemplación, o bien desconocimiento sobre lo que se habla, o simplemente deseo de no participar de la conversación; puede usarse también para enfatizar algo que se haya dicho, invitando a los demás interlocutores a reflexionar sobre lo expuesto. En todos los casos, y del mismo modo que con el resto de los elementos del paralenguaje, la interpretación del silencio no puede estar separada del contexto en el que se produce.  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " En síntesis, las pausas y los silencios constituyen un elemento importante dentro del paralenguaje. El empleo correcto de las mismas en el discurso demuestra competencias en el uso del lenguaje, brindando matices entre lo verbal y lo no verbal, al mismo tiempo que favorecen la comprensión del mensaje."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n",
+     [
+      "span",
+      {},
+      "Signos paralingüísticos de la\nrespiración"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Dentro de la clasificación que propone ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799001/html/index.html#redalyc_313799001_ref12"
+      },
+      "Poyatos (1994)"
+     ],
+     ", los signos paralingüísticos de la respiración pertenecen a la categoría de los diferenciadores o reacciones fisiológicas y emocionales. Dentro de los mismos destacan los suspiros y el carraspeo. El suspiro es una ingesta prolongada de aire, seguida por una exhalación más prolongada aún. La inhalación y exhalación se conocen respectivamente como primera y segunda fase del suspiro. En cuanto a su ejecución, se puede producir tanto voluntaria como involuntariamente, ya que, al igual que los gestos emblemas, el significado de un suspiro es compartido socialmente, de forma tal que con frecuencia puede ser realizado de forma intencional para transmitir un mensaje claro sin emplear el discurso verbal, o bien limitando el uso del mismo. De este modo, “el suspiro siempre comunica un mensaje y puede modificar el mensaje verbal simultáneo o contiguo; por eso la ambigüedad semántica de una expresión como ‘bueno’ desaparece cuando se le superpone un suspiro que comunica ‘bueno, haz lo que quieras’ (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799001/html/index.html#redalyc_313799001_ref12"
+      },
+      "Poyatos, 1994"
+     ],
+     " p. 121). Al igual que cualquier otro elemento de la CNV, los suspiros solo pueden ser interpretados en el contexto en que se producen. De este modo, y a grandes rasgos, podemos encontrarnos con un suspiro que represente sentimientos negativos, como desagrado, dolor físico, aburrimiento, cansancio, frustración, tristeza, confusión, temor e irritación. Y por otro, se encuentran los suspiros vinculados con sensaciones placenteras, como anhelo, alivio, tanto físico como psicológico, satisfacción y felicidad.  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Por otra parte, el carraspeo es una tos leve que se realiza para limpiar la garganta o aclarar la voz; al igual que el suspiro también puede ser voluntario o involuntario. El carraspeo tiene varias funciones. En primer lugar se encuentran las funciones interactivas, en las cuales destaca una en particular, y es la de ",
+     [
+      "span",
+      {},
+      "anunciarse"
+     ],
+     ", es decir darle a conocer al interlocutor –o bien recordarle si se comporta como si no lo supiese– de nuestra presencia o bien de nuestra postura ante determinada situación. También se emplea a menudo como un elemento prediscursivo, en especial si lo que se va a expresar es considerado importante, lo cual denota nerviosismo o duda. Una tercera función es interrumpir la comunicación verbal o una acción por parte de un tercero. Finalmente, el carraspeo puede utilizarse como una táctica para ganar tiempo en una conversación. Asimismo, el carraspeo es asociado con la incertidumbre así como con la ansiedad social, especialmente aquella en que se hace presente relaciones asimétricas de poder (por ejemplo, un subalterno frente a un superior, o un estudiante frente a un docente en una instancia de evaluación) y estas se expresan por lo general como relleno de las pausas o los silencios, o al iniciar el intercambio verbal."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n",
+     [
+      "span",
+      {},
+      "Metodología"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "La metodología empleada para realizar la presente investigación pertenece al campo del análisis de contenido, el cual"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "p",
+     {},
+     "Nos ayuda a conocer, analizar e interpretar y confrontar las dimensiones (lo manifiesto, lo latente, etc.) de los contenidos dentro de un mensaje o de los comportamientos sociales. Bajo esta perspectiva, se puede afirmar que en el análisis del contenido importan más las significaciones de los mensajes o comportamientos que los mensajes mismos (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799001/html/index.html#redalyc_313799001_ref16"
+      },
+      "Van Dijk y Mendizábal, 1999"
+     ],
+     " p. 110)."
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Cabe destacar que el análisis de contenido posee un carácter interdisciplinario, en el cual confluyen elementos conceptuales de múltiples procedencias, tales como la lingüística, la comunicación, la ciencia política, la psicología social, entre otras. De este modo, esta metodología de análisis posee un enfoque cualitativo, por lo que el énfasis se encuentra en el tipo de datos que se obtienen y no necesariamente en la cantidad de los mismos. En cuanto a la selección de la muestra, Stubbs (1987, en ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799001/html/index.html#redalyc_313799001_ref16"
+      },
+      "Van Dijk y Mendizábal, 1999"
+     ],
+     ") sostiene que se debe “escoger deliberada y explícitamente una muestra que pueda proporcionarnos datos especiales sobre lo que deseamos estudiar” (p. 151), de manera tal que se prioriza la calidad por sobre la cantidad, al mismo tiempo que se optimizan los tiempos. Como sostiene Dafine ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799001/html/index.html#redalyc_313799001_ref4"
+      },
+      "García Lucero (2010)"
+     ],
+     ", “el análisis de contenido, no puede ser sino cualitativo, porque ninguna metodología de análisis de contenido puede dejar de afincarse en un marco teórico que especifique las categorías analíticas empleadas” (p. 186). Asimismo, este enfoque cualitativo implica que el análisis trasciende la mera descripción de las partes del discurso y se focaliza en la interrelación de las mismas; de este modo, el análisis comprende el todo desde una concepción sinérgica. "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " La técnica de recolección de datos empleada fue el ",
+     [
+      "span",
+      {},
+      "focus group"
+     ],
+     ", denominado también como “grupo de discusión” o “entrevistas de grupo” la cual constituye una técnica de investigación cualitativa en la que la recolección de datos se realiza a través de la interacción grupal sobre un tema presentado por el investigador (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799001/html/index.html#redalyc_313799001_ref10"
+      },
+      "Morgan, 1996"
+     ],
+     "). En tal sentido, esta técnica ubica la interacción en la discusión del grupo como fuente de datos, al mismo tiempo que reconoce el papel activo del investigador en la dinamización de la discusión grupal. "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799001/html/index.html#redalyc_313799001_ref2"
+      },
+      "Edmunds (1999)"
+     ],
+     " define a los ",
+     [
+      "span",
+      {},
+      "focus group"
+     ],
+     " como discusiones, con niveles variables de estructuración, orientadas a un tema particular de interés o relevancia, tanto para el grupo participante como para el investigador. Respecto a su implementación, consiste en reunir a un grupo de personas para indagar acerca de actitudes y reacciones frente a un tema. El modelo clásico implica un grupo de entre seis y doce participantes, y la presencia de un moderador, encargado de guiar la interacción del grupo e ir cumplimentando los pasos previstos para la indagación. El objetivo es que las preguntas sean respondidas en el marco de la interacción entre los participantes del grupo, de forma tal que se produzca una dinámica donde éstos se sientan cómodos y libres de manifestar sus opiniones. "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Asimismo, ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799001/html/index.html#redalyc_313799001_ref2"
+      },
+      "Edmunds (1999)"
+     ],
+     " también afirma que el principal aporte de la técnica del ",
+     [
+      "span",
+      {},
+      "focus group"
+     ],
+     " reside en ser una poderosa herramienta de investigación sobre cómo las personas atribuyen significados respecto de un tema, idea o concepto; y el amplio abanico de información que ofrece, permite que esta técnica funcione como una excelente herramienta en estudios preliminares o investigaciones de carácter exploratorio. "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " En cuanto a la organización de los ",
+     [
+      "span",
+      {},
+      "focus groups"
+     ],
+     ", de los mismos participaron jóvenes entre 16 y 18 años de edad, organizados en tres grupos, de seis, ocho y nueve miembros cada uno. "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Para el análisis de los elementos del paralenguaje de los políticos se han seleccionado un corpus de dos mensajes audiovisuales para cada uno: una entrevista televisiva y un fragmento de un discurso. La elección del formato ‘entrevista televisada’ no fue azarosa, ya que como afirma Lorena ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799001/html/index.html#redalyc_313799001_ref3"
+      },
+      "García Barroso (2015)"
+     ],
+     ", “si bien el uso de elementos no verbales es relevante en cualquier tipo de intercambio comunicativo, en el discurso televisivo de las entrevistas estos mecanismos ocupan un papel más destacado por el impacto visual y el poder que producen en la audiencia” (p. 28), al mismo tiempo que en la interacción que se produce en la entrevista, es posible vislumbrar la espontaneidad de los elementos de la comunicación no verbal, lo que quizás no suceda en un discurso político, el cual es elaborado con anterioridad, y con frecuencia ensayado."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n",
+     [
+      "span",
+      {},
+      "Percepción del paralenguaje"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " En primer lugar, se analizó la variable volumen de la voz. En este caso, la mayoría de los jóvenes coincidieron que un volumen de voz elevado demuestra seguridad, tanto en el discurso como en las respuestas en las entrevistas. Un volumen alto de la voz le aporta al mensaje verbal una serie de rasgos positivos, tales como idoneidad, autoridad y dominio de la situación. Ahora bien, si el volumen es demasiado alto, como si gritara, justamente se logra lo opuesto, demostrando un escaso control, ya sea de las propias emociones o de la situación en general.  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Por el contrario, un volumen bajo refleja timidez, poca energía y falta de seguridad, y es asociado con la incompetencia, lo cual generó una disminución en la credibilidad del hablante.  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " En síntesis, las variaciones en el volumen, entre un nivel medio y alto, pero sin llegar a gritar, fueron consideradas como las más eficientes para trasmitir seguridad y sinceridad en el mensaje. Al mismo tiempo, el aumento paulatino en el volumen de la voz fue percibido como una señal de autoridad y control sobre la situación, es decir una forma de dominio sobre los demás interlocutores.  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Al igual que el empleo de un volumen de voz bajo, el uso de las pausas y los silencios reflexivos fueron interpretados por los jóvenes como una señal de duda y falta de idoneidad. A pesar de que reconocieron que los mensajes eran grabados y editados (en el caso de los discursos) y que probablemente hayan sido también ensayados, afirmaron que las pausas prolongadas indicarían que “no saben bien qué decir”. Asimismo, si las frases son cortas y con pausas frecuentes, el político es percibido como nervioso, poco asertivo y emisor de un discurso que ha sido memorizado; “parece como si estuviera al frente [de una clase] dando un examen oral”. Por el contrario, el discurso verborrájico, sin pausas y con un ritmo acelerado, se asoció con una mayor energía e idoneidad. “Cuando vos tenés algo que decir, lo decís de una, no dudas ni te lo tenés que estar acordando de memoria”, sentenció uno de los jóvenes.  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Asimismo, un ritmo acelerado trasmite la idea de urgencia, es decir que el mensaje se percibe como más importante, aún cuando no se llegue a comprender de forma global la totalidad del sentido de lo que se expresa. "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " De este modo, un político que habla deprisa es percibido como más inteligente: “Si habla rápido es que piensa rápido”, manifestó una de las jóvenes. No obstante, el ritmo no debe ser demasiado acelerado, ya que se corre el riesgo de que parte del contenido no llegue a ser comprendido, al punto tal que dificulte la comprensión del mensaje verbal. Esto se percibió especialmente durante los fragmentos de entrevistas, en los cuales las figuras políticas debían responder preguntas que en muchos casos no estaban pactadas con antelación. De este modo, como ejemplo, uno de los candidatos durante una de las entrevistas promediaba una velocidad de 142 palabras por minuto (cerca del límite de 150 por minuto para ser considerado como taquilalia), lo cual dificultó a los jóvenes comprender no solo el contenido global del mensaje, sino también la pronunciación de algunos fragmentos.  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Respecto a la prosodia, los jóvenes reconocieron que en algunos casos, el discurso se asemejaba a un relato recitado de memoria, ya que notaban una entonación monótona, sin variaciones en ninguna de las cualidades primarias de la voz. De esta forma, al no percibirse alteraciones ni en el ritmo, el volumen o el tono, el discurso se percibe como carente de emociones, y por lo tanto poco sincero; “se nota que lo estudió de memoria” y que “ni siquiera lo escribió él”, en referencia a uno de los candidatos, manifestando de esta forma una disociación entre el contenido del mensaje y el autor del mismo.  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Por otra parte, las alteraciones en el ritmo, combinadas con el uso de pausas breves al finalizar de pronunciar una idea, fueron asociadas por lo jóvenes que participaron de la investigación como características de un político que “sabe comunicar lo que quiere”.  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Puede observarse un patrón que se reitera en la percepción de los jóvenes vinculado a la inmediatez. Planteado en otros términos, un ritmo pausado en el discurso y el uso correcto de las pausas y silencios, eran considerados como características de una buena oratoria, una que era capaz de persuadir al electorado (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799001/html/index.html#redalyc_313799001_ref8"
+      },
+      "Messina Fajardo, 2016"
+     ],
+     "). No obstante, para los jóvenes, tales características son percibidas de forma negativa. Al respecto, Cecilia Vázquez y Javier Fernández Mouján (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799001/html/index.html#redalyc_313799001_ref17"
+      },
+      "2016"
+     ],
+     ") plantean que como consecuencia del aumento en la velocidad de los procesos de comunicación, mediados por la tecnología, “las acciones ahora nos llevan tan poco tiempo, que el concepto proceso de a poco es sustituido por el de instantaneidad, nada más ni nada menos que la supresión del tiempo mediante” (p. 43). De esta forma, esta nueva forma de percepción del tiempo implica que en la sociedad actual, y en particular para los jóvenes, todo aquello que no puede resolverse de forma instantánea, es considerado en muchos casos como imposible. "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Respecto a la potencialidad para trasmitir emociones y estados anímicos de forma paralela al mensaje verbal, se destaca la indignación como la emoción más presente en los discursos, la cual apela a generar en la mayoría de los casos emociones negativas, para luego redirigirlas, generalmente direccionadas hacia otro candidato o sector del gobierno. "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Por otra parte, el mensaje verbal –que apela en algunos casos al agravio– es acompañado por un tono de voz agresivo, el cual se caracteriza por un volumen elevado así como un tono de voz que tiende al agudo y con poca variación tonal. El empleo de las pausas es escaso –las necesarias para respirar y continuar con el mensaje– y las mismas son muy cortas. Las frases tienden a ser más largas y articuladas entre sí, con una construcción más compleja, y se pronuncia a una cadencia elevada. Y, aunque no fue objeto directo del estudio de esta investigación, cabe remarcar que el mensaje iba acompañado por gestos de las manos y una postura autoritaria y agresiva (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799001/html/index.html#redalyc_313799001_ref6"
+      },
+      "Knapp, 1997"
+     ],
+     "). "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " En este punto, es destacable que la mayoría de los jóvenes coincidió en que prefieren un tono de voz más agresivo, en especial cuando responden a preguntas que consideran “incómodas”, independientemente del mensaje verbal, ya que cuando se les preguntó sobre el contenido, en varias oportunidades no lograron comprender a qué refería, pero sí intuyeron por el tono de voz que las figuras políticas lograron rebatir los argumentos planteados por quienes las entrevistaban. De igual modo, cuando el mensaje verbal propone un cambio radical en determinadas políticas, y el mismo se pronuncia de forma enérgica, logró en la mayoría de los jóvenes que participaron de la investigación, un alto grado de persuasión."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n",
+     [
+      "span",
+      {},
+      "Conclusión"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " El empleo de la voz es un recurso sumamente valioso en la comunicación persuasiva, parte esencial de la comunicación política. Se busca generar empatía con la audiencia a partir de trasmitir emociones y estados anímicos percibidos como positivos. A lo largo del estudio pudo observarse cómo el paralenguaje guarda una estrecha relación con el mensaje verbal, tanto para reafirmarlo o bien para contradecirlo, y que en todos los casos, el mismo complementa al contenido verbal del mensaje. Por medio de la voz, las personas son capaces de comunicarse en un nivel emocional, lo cual es un valioso recurso para la persuasión o la motivación.  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " De este modo, para los jóvenes de entre 16 y 18 años, el tono agresivo, el uso de un ritmo acelerado (sin llegar a ser demasiado rápido) y el empleo de un volumen por encima de la media pero sin gritar, fueron los elementos del paralenguaje que más destacaron como positivos, y que fueron asociados con una imagen de autoridad, competencia y sinceridad. "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Por otra parte, el ritmo lento, pausado, sumado a un volumen de voz entre normal y bajo de lo enunciado, se asocia con falta de idoneidad e incompetencia, características no deseadas frente a un electorado. "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Cabría preguntarse si la percepción de un discurso acelerado como algo positivo se vincula con un cambio de la percepción del tiempo de los jóvenes, en la cual se prioriza lo instantáneo, y las demoras, en el caso de los discursos, atentarían contra la lógica de la inmediatez. Del mismo modo, las pausas y silencios, en el caso de los mensajes verbales, imprescindibles para poder comunicar con mayor claridad, pasan a ser consideradas no solo como innecesarias, sino como poco adecuadas. "
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-back"
+    },
+    "\n",
+    [
+     "p",
+     {},
+     "\n",
+     [
+      "span",
+      {},
+      "Referencias"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313799001_ref1"
+     },
+     "Carrocio, M. (2010). ",
+     [
+      "span",
+      {},
+      "Las pausas y su función retórica en el discurso político"
+     ],
+     ". Facultad de Humanidades y Ciencias de la Educación, Universidad de la República."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313799001_ref2",
+      "lang": "en"
+     },
+     "Edmunds, H. (1999). ",
+     [
+      "span",
+      {},
+      "The focus group research handbook"
+     ],
+     ". Chicago, United States: NTC/Contemporary Publishing Group."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313799001_ref3"
+     },
+     "García Barroso, L. (2015). Lo que las palabras no dicen: discurso no verbal en entrevistas televisadas. ",
+     [
+      "span",
+      {},
+      "Estudios interlingüísticos"
+     ],
+     ", (3), 27-46. Recuperado de ",
+     [
+      "a",
+      {
+       "href": "https://estudiosinterlinguisticos.com/numeros-publicados/numero-3-2015"
+      },
+      "https://estudiosinterlinguisticos.com/numeros-publicados/numero-3-2015"
+     ],
+     "/"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313799001_ref4"
+     },
+     "García Lucero, D. (2010). Herramientas teórico-metodológicas para el estudio de los medios masivos: el análisis de contenido. ",
+     [
+      "span",
+      {},
+      "Estudios"
+     ],
+     ", número especial, 183-198. Recuperado de ",
+     [
+      "a",
+      {
+       "href": "http://hdl.handle.net/11086/6087"
+      },
+      "http://hdl.handle.net/11086/6087"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313799001_ref5"
+     },
+     "Hybels, S. y Weaver, R. (1978). ",
+     [
+      "span",
+      {},
+      "La comunicación"
+     ],
+     ". Ciudad de México, México: Logos."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313799001_ref6"
+     },
+     "Knapp, M. (1997). ",
+     [
+      "span",
+      {},
+      "La comunicación no verbal. El cuerpo y el"
+     ],
+     " entorno. Ciudad de México, México: Paidós."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313799001_ref7",
+      "lang": "en"
+     },
+     "Mehrabian, A. (1972). ",
+     [
+      "span",
+      {},
+      "Silent messages: Implicit communication of emotions and attitudes"
+     ],
+     ". Belmont, United States: Wadsworth."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313799001_ref8"
+     },
+     "Messina Fajardo, L. (2016). ",
+     [
+      "span",
+      {},
+      "Lenguaje político. Características y análisis del discurso político con ejercicios y clave"
+     ],
+     ". Milán, Italia: Maggioli Editore."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313799001_ref9"
+     },
+     "Miyara, F. (2001). La voz humana [apunte de cátedra]. Procesamiento Digital de Señales de Voz. Facultad de Ciencias Exactas, Ingeniería y Agrimensura. Universidad Nacional de Rosario. Recuperado de ",
+     [
+      "a",
+      {
+       "href": "http://www.fceia.unr.edu.ar/prodivoz/fonatorio.pdf"
+      },
+      "http://www.fceia.unr.edu.ar/prodivoz/fonatorio.pdf"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313799001_ref10"
+     },
+     "Morgan, D. (1996). Focus group. ",
+     [
+      "span",
+      {},
+      "Annual Review Sociology"
+     ],
+     ", (22), 129-152. Recuperado de ",
+     [
+      "a",
+      {
+       "href": "https://www.annualreviews.org/doi/full/10.1146/annurev.soc.22.1.129"
+      },
+      "https://www.annualreviews.org/doi/full/10.1146/annurev.soc.22.1.129"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313799001_ref11"
+     },
+     "Pereiro, J. (2019). Sin palabras: génesis y desarrollos de los estudios sobre la comunicación no verbal. ",
+     [
+      "span",
+      {},
+      "Question, 1"
+     ],
+     "(64), e205. ",
+     [
+      "a",
+      {
+       "href": "https://doi.org/10.24215/16696581e205"
+      },
+      "https://doi.org/10.24215/16696581e205"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313799001_ref12"
+     },
+     "Poyatos, F. (1994). ",
+     [
+      "span",
+      {},
+      "La comunicación no verbal II. Paralenguaje, kinésica e interacción"
+     ],
+     ". Madrid, España: Istmo."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313799001_ref13"
+     },
+     "Poyatos, F. (2003). La comunicación no verbal: algunas de sus perspectivas de estudio e investigación. ",
+     [
+      "span",
+      {},
+      "Lenguaje y comunicación, 6"
+     ],
+     "(2), 67- 83. Recuperado de ",
+     [
+      "a",
+      {
+       "href": "https://revistas.um.es/ril/article/view/5741"
+      },
+      "https://revistas.um.es/ril/article/view/5741"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313799001_ref14"
+     },
+     "Torres Gallardo, B. (2013). La voz y nuestro cuerpo: un análisis funcional. ",
+     [
+      "span",
+      {},
+      "Revista de Investigaciones en Técnica Vocal"
+     ],
+     ", 1(1). Recuperado de ",
+     [
+      "a",
+      {
+       "href": "https://revistas.unlp.edu.ar/RITeV/article/view/2059"
+      },
+      "https://revistas.unlp.edu.ar/RITeV/article/view/2059"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313799001_ref15"
+     },
+     "Quilis, A. (1993). ",
+     [
+      "span",
+      {},
+      "Tratado de fonología y fonética españolas"
+     ],
+     ". Madrid, España: Gredos."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313799001_ref16"
+     },
+     "Van Dijk, T. y Mendizábal, I. (1999). ",
+     [
+      "span",
+      {},
+      "Análisis del discurso social y político"
+     ],
+     ". Quito, Ecuador: Abya Yala."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313799001_ref17"
+     },
+     "Vázquez, C., y Fernández Mouján, J. (2016). Adolescencia y sociedad. La construcción de identidad en tiempos de inmediatez. ",
+     [
+      "span",
+      {},
+      "{PSOCIAL}, 2"
+     ],
+     "(1), 38-55. Recuperado de ",
+     [
+      "a",
+      {
+       "href": "https://publicaciones.sociales.uba.ar/index.php/psicologiasocial/article/view/1477"
+      },
+      "https://publicaciones.sociales.uba.ar/index.php/psicologiasocial/article/view/1477"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Notas"
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-fn1"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "1"
+     ],
+     " Aunque existen estudios del uso de la voz por parte de dictadores en regímenes totalitarios, los cuales, si bien no permanecían en el cargo público por elección del pueblo, si necesitaban el apoyo de las masas para construir y mantener la gobernabilidad."
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-fn2"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "2"
+     ],
+     " En su obra ",
+     [
+      "span",
+      {},
+      "La comunicación no verbal II. Paralengaje, kinésica e interacción"
+     ],
+     " (1994), Fernando Poyatos realiza un análisis pormenorizado de cada uno de los elementos que conforman el paralenguaje, por lo que constituye una lectura obligada para cualquier persona interesada en la temática."
+    ],
+    "\n"
+   ],
+   "\n"
+  ],
+  "\n",
+  [
+   "span",
+   {
+    "id": "t-creditos"
+   },
+   "\n",
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-logo-izquierda"
+    },
+    "\n",
+    [
+     "figura",
+     {}
+    ]
+   ],
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-mensaje"
+    },
+    "Modelo de publicación sin fines de lucro para conservar la naturaleza académica y abierta de la comunicación científica",
+    [
+     "br",
+     {}
+    ],
+    "HTML generado a partir de XML-JATS4R"
+   ],
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-logo-derecha"
+    },
+    "\n",
+    [
+     "figura",
+     {}
+    ]
+   ],
+   "\n",
+   "\n"
+  ],
+  "\n\n\n"
+ ]
+}

@@ -1,0 +1,1592 @@
+// Copia de textos/10-32399-icsyh-bvbuap-2954-4300-2025-7-13-811.json para abrir la aplicación sin servidor.
+(window.DATOS_REVISTAS = window.DATOS_REVISTAS || {})["textos/10-32399-icsyh-bvbuap-2954-4300-2025-7-13-811.json"] = {
+ "version": 1,
+ "recogido": "2026-10-18T11:48:25+00:00",
+ "doi": "10.32399/icsyh.bvbuap.2954-4300.2025.7.13.811",
+ "titulo": "Por un Pachukanis sin concesiones: la crítica de la forma jurídica y los errores de la lectura dependentista del derecho",
+ "revista": "2954-4300",
+ "numero": "2025",
+ "licencia": {
+  "codigo": "by-nc-sa",
+  "nombre": "CC BY-NC-SA 4.0",
+  "nombre_completo": "Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional",
+  "url": "https://creativecommons.org/licenses/by-nc-sa/4.0",
+  "url_legal": "https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.es"
+ },
+ "fuente": {
+  "url": "https://bajoelvolcanx.buap.mx/index.php/bajovolc/article/download/811/787?inline=1",
+  "formato": "HTML",
+  "plataforma": "ojs-galerada",
+  "pagina": "https://bajoelvolcanx.buap.mx/index.php/bajovolc/article/view/811"
+ },
+ "autores_cita": [
+  {
+   "apellidos": "Macedo",
+   "nombre_pila": "Regiane de Moura",
+   "nombre": null
+  },
+  {
+   "apellidos": "Lima Martins",
+   "nombre_pila": "Deise Lilian",
+   "nombre": null
+  }
+ ],
+ "avisos_derechos": [
+  "Derechos de autor 2025 Regiane de Moura Macedo, Deise Lilian Lima Martins",
+  "Licencia Derechos de autor 2025 Regiane de Moura Macedo, Deise Lilian Lima Martins Esta obra está bajo una licencia internacional Creative Commons Atribución-NoComercial-CompartirIgual 4.0. Las autoras y los autores conservan los derechos de autor sobre su obra y ceden a Bajo el Volcán. Revista del Posgrado de Sociología. BUAP únicamente el derecho de primera publicación. Revista de acceso abierto diamante: sin costo para autoras, autores ni personas lectoras."
+ ],
+ "idioma_principal": "es",
+ "indice": [
+  {
+   "id": "t-seccion-1",
+   "nivel": 2,
+   "texto": "Por un Pachukanis sin concesiones: la crítica de la forma jurídica y los errores de la lectura dependentista del derecho",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-2",
+   "nivel": 3,
+   "texto": "INTRODUCCIÓN",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-3",
+   "nivel": 3,
+   "texto": "1. EL MÉTODO EN LA TEORÍA MARXISTA DE LA DEPENDENCIA",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-4",
+   "nivel": 3,
+   "texto": "2. LA LLAMADA FORMA O RELACIÓN JURÍDICA DEPENDIENTE",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-5",
+   "nivel": 3,
+   "texto": "3. FORMA JURÍDICA, IDEOLOGÍA JURÍDICA Y ESTADO",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-6",
+   "nivel": 3,
+   "texto": "CONSIDERACIONES FINALES: REVISIONISMO, HUMANISMO TEÓRICO Y NEUTRALIZACIÓN DE LA CRÍTICA DE LA FORMA JURÍDICA",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-7",
+   "nivel": 3,
+   "texto": "REFERENCIAS",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-8",
+   "nivel": 3,
+   "texto": "NOTAS",
+   "lang": null
+  }
+ ],
+ "vueltas": {},
+ "contenido": [
+  "\n",
+  [
+   "section",
+   {},
+   "\n",
+   [
+    "strong",
+    {},
+    [
+     "em",
+     {},
+     "Bajo el Volcán. Revista del Posgrado de Sociología. BUAP"
+    ]
+   ],
+   ", Año 7, Núm. 13, noviembre de 2025 – abril de 2026, pp. 162-191.",
+   [
+    "br",
+    {}
+   ],
+   "e-ISSN 2954-4300 · ",
+   [
+    "a",
+    {
+     "href": "https://doi.org/10.32399/ICSYH.bvbuap.2954-4300.2025.7.13.811"
+    },
+    "https://doi.org/10.32399/ICSYH.bvbuap.2954-4300.2025.7.13.811"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Dossier temático"
+   ],
+   "\n",
+   [
+    "h2",
+    {
+     "id": "t-seccion-1"
+    },
+    "Por un Pachukanis sin concesiones: la crítica de la forma jurídica y los errores de la lectura dependentista del derecho"
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "For a Pashukanis without concessions: The critique of legal form and the errors of the dependency reading of law"
+   ],
+   "\n",
+   "\n",
+   [
+    "p",
+    {
+     "lang": "pt"
+    },
+    [
+     "span",
+     {},
+     "Regiane de Moura Macedo"
+    ],
+    [
+     "br",
+     {}
+    ],
+    [
+     "span",
+     {},
+     "Facultad de Derecho, Universidade de São Paulo, São Paulo, Brasil"
+    ],
+    [
+     "br",
+     {}
+    ],
+    [
+     "span",
+     {},
+     "ORCID: ",
+     [
+      "a",
+      {
+       "href": "https://orcid.org/0009-0006-2254-3796"
+      },
+      "https://orcid.org/0009-0006-2254-3796"
+     ]
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "pt"
+    },
+    [
+     "span",
+     {},
+     "Deise Lilian Lima Martins"
+    ],
+    [
+     "br",
+     {}
+    ],
+    [
+     "span",
+     {},
+     "Facultad de Derecho, Universidade de São Paulo, São Paulo, Brasil"
+    ],
+    [
+     "br",
+     {}
+    ],
+    [
+     "span",
+     {},
+     "ORCID: ",
+     [
+      "a",
+      {
+       "href": "https://orcid.org/0000-0001-8811-4827"
+      },
+      "https://orcid.org/0000-0001-8811-4827"
+     ]
+    ]
+   ],
+   "\n",
+   "\n",
+   [
+    "p",
+    {},
+    "regianemmadv@gmail.com"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "deisellmartins@gmail.com"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "RESUMEN"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Brasil y América Latina atraviesan un intenso debate sobre el legado de Evgeni Pashukanis. Este diálogo cobró fuerza en 2017, cuando se publicaron casi simultáneamente dos traducciones de La teoría general del derecho y el marxismo, su obra fundamental, cuyo centenario inspira este dossier. Este artículo tiene como objetivo sistematizar y profundizar dicho debate, confrontando dos perspectivas: la lectura dependentista del derecho, basada en el diálogo entre Marini y Pashukanis, que da lugar a la propuesta de la categoría “forma jurídica dependiente” y del derecho insurgente como resolución política. El análisis fundamentado en la crítica marxista de la forma jurídica, combinado con la teoría althusseriana de las ideologías, que concibe el derecho como un elemento estructural de la reproducción del capitalismo, articulando conceptos como forma jurídica, ideología jurídica y conformación de la forma jurídica en distintas formaciones sociales. Al eliminar el falso eje de la polémica –que reduce la discusión a una supuesta dicotomía entre el “uso táctico” o el “rechazo” de la lucha jurídica–, demostramos que las verdaderas diferencias son de orden teórico, metodológico y político, con implicaciones directas para la lucha de la clase trabajadora en su esfuerzo por superar el capitalismo. Estas diferencias abarcan desde la comprensión del Estado hasta la estrategia de transformación social."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    [
+     "em",
+     {},
+     "Palabras clave:"
+    ],
+    " derecho insurgente, forma jurídica dependiente, ideología jurídica, humanismo teórico, reproducción."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "ABSTRACT"
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Brazil and Latin America are experiencing an intense debate on the legacy of Evgeny Pashukanis. This dialogue gained momentum in 2017, when two translations of The General Theory of Law and Marxism, his seminal work, whose centenary inspires this Dossier, were published almost simultaneously. This article seeks to organize and deepen that debate, confronting two perspectives: 1. the dependentist reading of law, based on the dialogue between Marini and Pashukanis, resulting in the proposal of the category “dependent legal form” and of insurgent law as a political resolution; 2. the analysis based on the Marxist critique of the juridical form, combined with the Althusserian theory of ideologies, which understands law as a structural element of the reproduction of capitalism, articulating concepts such as juridical form, juridical ideology and the shaping of juridical form in different social formations. Eliminating the false axis of the polemic - which reduces the discussion to a supposed dichotomy between “tactical use” or “rejection” of the juridical struggle - we demonstrate that the real differences are theoretical, methodological and political. They have direct implications for the struggle of the working class to overcome capitalism, since they involve from the understanding of the State to the strategy of social transformation."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    [
+     "em",
+     {},
+     "Keywords:"
+    ],
+    " insurgent law, dependent legal form, legal ideology, theoretical humanism, reproduction."
+   ],
+   "\n",
+   [
+    "h3",
+    {
+     "id": "t-seccion-2"
+    },
+    "INTRODUCCIÓN"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "El objetivo de este artículo es arrojar luz sobre la actual disputa en Brasil y América Latina en torno a la crítica pashukaniana del derecho. Su propósito central es, además de delimitar posiciones, disipar falsas polémicas e iniciar el proceso de identificación y confrontación de las diferencias reales, posibilitando así avances en el campo teórico, entendido como un espacio de lucha de clases."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Hasta el momento, las divergencias han sido tratadas públicamente como la expresión de una dicotomía en torno al uso táctico del derecho. Esto es lo que identificamos en Ricardo Prestes Pazello (2016), para quien la lectura pashukaniana en Brasil se divide entre el llamado “absentismo jurídico (no hay nada que hacer, ¡así que simplemente abandona el campo del derecho!)” y el “adhesivismo jurídico (no hay nada que hacer, así que apuesta totalmente por él, ¡ya que no hay nada más allá!)” (110). Esta formulación ha sido retomada y desarrollada recientemente en la propuesta del “Pashukanis insurgente”, presentada por Moisés Alves Soares (2024: 85)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Sostenemos que situar esta dicotomía como el eje central de la controversia constituye un enfoque equivocado que obstaculiza el debate. Después de todo, ¿cómo podríamos abstenernos de la defensa jurídica de los intereses de la clase trabajadora en una sociedad en la que las relaciones sociales adoptan la forma de relaciones jurídicas?"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Nuestra contribución consiste en intentar identificar la raíz del desacuerdo. Para ello, abordaremos lo que identificamos como una lectura dependentista del derecho, en particular la noción de “forma jurídica dependiente” (Pazello, 2014), sistematizando brevemente sus fundamentos. A continuación, presentaremos el enfoque desarrollado por el Grupo de Investigación Derechos Humanos, Centralidad del Trabajo y Marxismo (DHCTEM), vinculado al Departamento de Derecho del Trabajo y de la Seguridad Social de la Universidad de São Paulo, considerando los avances teóricos realizados en los últimos años,",
+    [
+     "sup",
+     {},
+     [
+      "a",
+      {
+       "id": "t-fnref1",
+       "href": "#t-fn1"
+      },
+      "1"
+     ]
+    ],
+    " con el fin de exponer lo que consideramos la lectura más fructífera del legado pashukaniano."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Al final, esperamos contribuir al debate demostrando por qué rechazamos la dicotomía entre “adhesión” y “abstencionismo”, así como el equívoco teórico y metodológico que sustenta el revisionismo de Pashukanis. Concluimos que sus aportes, al igual que la teoría del valor de Marx, trascienden una lectura particularizada y coyuntural."
+   ],
+   "\n",
+   [
+    "h3",
+    {
+     "id": "t-seccion-3"
+    },
+    "1. EL MÉTODO EN LA TEORÍA MARXISTA DE LA DEPENDENCIA"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Antes de abordar la lectura dependentista del derecho, vale la pena hacer algunos breves comentarios sobre la llamada Teoría Marxista de la Dependencia (TMD), lo cual haremos sin pretender agotar el tema, sino únicamente arrojando luz sobre ciertos aspectos metodológicos de mayor relevancia en el marco de la crítica a dicha lectura."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Resulta curioso constatar que la lectura dependentista del derecho ha dado lugar a interpretaciones que se distancian de las elaboraciones más rigurosas sobre el fenómeno jurídico, basadas en la aplicación del método materialista histórico-dialéctico. Una de sus consecuencias para la acción política es el reconocimiento de que la abolición de la sociedad de clases implica la abolición del Estado, de las relaciones jurídicas y del derecho. En contraste, observamos un movimiento que retoma los debates en torno a la obra de Piotr Stutchka y al denominado “derecho de clase”, así como un intento de aproximación entre los autores que, al menos desde la publicación de La teoría general del derecho y el marxismo ([1924] 2017) de Pashukanis, representa un claro retroceso tanto en términos teóricos como en la lucha de la clase trabajadora por abolir la sociedad de clases."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Examinar la TMD en la actualidad plantea, con frecuencia, dificultades adicionales, debido al giro teórico que ha implicado el abandono de categorías centrales del marxismo –en particular, las clases sociales y el carácter global de la reproducción del capital–, sustituidas por enfoques centrados en identidades, lo cual se ve reforzado por elaboraciones que postulan vías epistemológicas específicas a partir de la identidad regional."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Asimismo, las categorías de la TMD son a menudo utilizadas de manera imprecisa para explicar situaciones concretas, sin la reflexión necesaria sobre su alcance. Así, la “superexplotación” –al igual que otras categorías de la TMD– se ha convertido en un término común, incluso en el ámbito académico, ampliamente difundido y raramente cuestionado."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Desde la perspectiva que aquí nos interesa, cabe destacar que Marini inicia su obra de referencia, Dialéctica de la dependencia (2000), con una crítica metodológica a las desviaciones en las que, según él, han incurrido los teóricos marxistas que se han dedicado al análisis de las relaciones sociales de producción en América Latina. Estas desviaciones consisten en la “sustitución del hecho concreto por el concepto abstracto o la adulteración del concepto en nombre de una realidad rebelde a aceptarlo en su formulación pura” (Marini, 2000: 105), lo que ha resultado en ortodoxia por un lado y eclecticismo por el otro, debido a las dificultades analíticas impuestas por las peculiaridades de la economía latinoamericana en relación “al parámetro del modo de producción capitalista puro” (Marini, 2000: 105). En este contexto, Marini postula un capitalismo sui generis, en oposición a la “noción de ‘precapitalismo’” (Marini, 2000: 106), que, según él, se refiere a “aspectos de una realidad que, por su estructura global y funcionamiento”, nunca será nuestra, de modo que el capitalismo latinoamericano debe entenderse “si lo contemplamos tanto a nivel nacional como, principalmente, a nivel internacional” (Marini, 2000: 106)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "El autor propone una inversión metodológica que sacrifica el procedimiento de búsqueda de las categorías más simples –es decir, aquellas con menor grado de determinaciones dentro de una formación social– y adopta el análisis relacional entre naciones-economías."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Este procedimiento, a nuestro juicio, favorece el análisis de la circulación, base de sus categorías fundamentales o “leyes tendenciales”, como el intercambio desigual, la superexplotación y el desdoblamiento del ciclo del capital, siempre en una dinámica relacional con el “capitalismo central” (Marini, 2000: 153). Este enfoque resulta más pertinente para analizar la dependencia, en la medida en que su aspecto central son las repercusiones de la inserción subordinada de los países dependientes en la dinámica de acumulación de los países industriales, “a tal punto que es en función [...] de la manera en que se expresa allí [en los países industriales] la acumulación del capital, que ese desarrollo [de los países dependientes] puede ser explicado” (Marini, 2000: 154)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "La cuestión que se plantea, en nuestra opinión, ha sido bien formulada por Cueva (1979), para quien “queda, sin embargo, la inquietud de saber si entre el capitalismo llamado clásico y el dependiente existe realmente una diferencia ",
+    [
+     "em",
+     {},
+     "cualitativa"
+    ],
+    " que autorice a formular leyes específicas para uno y otro” (99; énfasis en el original). Las especificidades de los países periféricos, como formaciones sociales capitalistas, no desafían la lógica inherente al modo de producción dominante, aunque sí pueden expresar particularidades de su proceso histórico. Según Astarita (2010):"
+   ],
+   "\n",
+   [
+    "blockquote",
+    {},
+    "\n",
+    [
+     "p",
+     {},
+     "A partir de este enfoque, las desventajas en tecnología, por ejemplo, que afectan con frecuencia a las empresas de países dependientes, se pueden integrar de manera relativamente sencilla en los estudios, sin necesidad de postular otra lógica, distinta de la que rige en los países avanzados (75)."
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Además, la TMD emplea una lectura basada en la circulación, una esfera en la que prevalecen las apariencias de las relaciones sociales, lo que impide acceder a su esencia: las formas sociales que estas asumen, determinadas en última instancia por la producción material de la vida. En lugar de comprender las particularidades del desarrollo de nuestra formación social, de entender qué huellas han dejado las formas sociales menos complejas en la dinámica de las relaciones de producción ya capitalistas, la TMD expresa un tono desarrollista (presente en la comparación entre desarrollado y subdesarrollado), cuyo vástago teórico, en lo que respecta a la interpretación del fenómeno jurídico, ha sido la “forma jurídica dependiente”."
+   ],
+   "\n",
+   [
+    "h3",
+    {
+     "id": "t-seccion-4"
+    },
+    "2. LA LLAMADA FORMA O RELACIÓN JURÍDICA DEPENDIENTE "
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Existen diversas contribuciones sobre las especificidades del derecho en América Latina. Hemos optado por destacar la propuesta de Pazello debido a la resonancia que ha tenido en los medios académicos, los aspectos metodológicos que plantea en relación con las categorías presentes en la obra marxiana y pashukaniana, y la sugerida “rehabilitación” del derecho insurgente, condensando, a nuestro juicio, de manera más explícita, las contradicciones teóricas y metodológicas que informan la lectura particularista de la forma jurídica."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "En síntesis, esta perspectiva propone un camino metodológico dentro de la demarcación de una “crítica decolonial” o una epistemología crítica de la colonialidad, atribuyendo limitaciones a las elaboraciones “eurocéntricas” por no considerar las particularidades de los países periféricos. Sugiere una posición dialógica entre la TMD y la crítica marxista del derecho, sobre la base de que “hay un déficit empírico en los análisis marxistas del derecho” y “una infravaloración del contexto periférico –que es necesario para comprender la totalidad y no para entender las tesis particularistas sobre el derecho” (Pazello, 2016: 542)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "A partir de su lectura de la TMD, Pazello (2014) propone la categoría de forma jurídica dependiente, argumentando que “la formación jurídica periférica no tiene el mismo desarrollo que la formación jurídica central, del mismo modo que el capitalismo desarrollado de esta sociedad no es el mismo que el capitalismo subdesarrollado de esa sociedad” (477). El marco teórico postulado por Pazello puede encontrarse en Mascaro (2008), concretamente en la tesis que defiende la existencia de “formas atípicas de la instancia jurídica” al analizar la legalidad brasileña. Para Pazello (2014), “la atipicidad (o no plena autonomía o imposibilidad técnica) tiene su base en la historia colonial, primero, y dependiente, después, que el país (y podríamos decir el continente) vivenció” (477)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "La forma jurídica dependiente expresaría el diálogo entre Marini y Pashukanis, con el argumento de que la relación jurídica se refleja en la relación de dependencia, que subordina naciones formalmente equivalentes, determinando una doble especificidad, basada en la “igualación superexplotadora” (Pazello, 2014: 478)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Postulando la contribución de la metodología adoptada por los dependentistas a la crítica marxista del derecho, el autor sostiene que, además de orientarse por el materialismo histórico-dialéctico y por la teoría del valor, la TMD apunta a la afirmación de una “metodología personalizable”, capaz de orientar los estudios sobre la dependencia y los fenómenos relacionados que son específicos de las estructuras sociales dependientes (Pazello, 2016: 547)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "A partir de la caracterización que hace Marini del capitalismo sui generis, sostiene una perspectiva relacional, es decir, valor, dependencia y derecho como fenómenos relacionales (Pazello, 2016: 554), lo que autorizaría una comprensión de la forma jurídica en el continente latinoamericano a partir de los impactos de la subsunción del trabajo al capital, particularizada por la relación de dependencia que caracterizaría la inserción del continente en la división internacional del trabajo. “Así pues, la división internacional del trabajo condiciona las relaciones jurídicas que tienen lugar en la periferia del capitalismo, no sólo en el nivel inmediato de las relaciones entre los trabajadores y otras clases sociales, sino también en el contexto de las relaciones internacionales” (Pazello, 2016: 556)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Partiendo de la categoría de superexplotación, el autor subraya que el trabajador superexplotado, a la luz del método dependiente, debe conocerse en las particularidades del intercambio desigual, que implican “un derecho deficiente para expresar la libre voluntad de sus sujetos o, si se quiere, una forma jurídica ‘dependiente’” (Pazello, 2016: 557-558)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "La comprensión del fenómeno jurídico en el continente tendría lugar, por lo tanto, a la luz de los efectos de los mecanismos de superexplotación, que resultan en el desdoblamiento del ciclo del capital entre producción y circulación, ya que no se produce para el consumo interno de los trabajadores. El impacto de las cuestiones presentes en la metodología dependiente en el derecho sería “la historización de la formación jurídica del continente más allá de ",
+    [
+     "em",
+     {},
+     "historicismos a-históricos"
+    ],
+    " que ven nuestra formación jurídica como una proyección de los grandes sistemas jurídicos europeos (...)” (Pazello, 2016: 559; énfasis en el original) y la necesaria recuperación de las características de la superexplotación del trabajo para “estudiar el derecho a partir de lo que él es, en niveles más concretos de aprehensión” (Pazello, 2016: 560)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "El autor delimita dependencia y derecho como relaciones sociales, sugiriendo desde este supuesto que Marini y Pashukanis parten del mismo método y llegan a conclusiones similares (Pazello, 2016: 566), destacando aspectos supuestamente convergentes entre la teoría marxista del derecho y las elaboraciones de Marini:"
+   ],
+   "\n",
+   [
+    "blockquote",
+    {},
+    "\n",
+    [
+     "p",
+     {},
+     "Entendemos que Marini expone aspectos que convergen con la teoría marxista del derecho: a) en primer lugar, el énfasis en el carácter relacional; b) además, la afirmación de que las relaciones sociales se dan entre sujetos formalmente iguales (en este caso, las naciones, lo que no circunscribe la idea únicamente a la frontera del Estado-nación, sino que se extiende a las relaciones entre propietarios a nivel internacional, según la división del trabajo); c) la garantía de la reproducción de las relaciones de producción; y d) la liquidación de las relaciones capitalistas de producción implica la extinción de la relación de dependencia. Reflejando esta cuestión en el marco de la teoría pashukaniana, observamos el derecho como: a) una relación social, b) entre sujetos de derecho iguales y formalmente libres, c) garante de la circulación de mercancías, d) cuya ontología se encuentra en las relaciones de producción del capital que, al ser suprimidas, suprimen también al propio derecho (Pazello, 2016: 566)."
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "En el ensayo ",
+    [
+     "em",
+     {},
+     "Acumulación originaria del capital y derecho"
+    ],
+    " (2017), Pazello sostiene que en las dimensiones geopolíticas periféricas o más allá del centro capitalista “la forma jurídica —protagonizada por el sujeto de derecho en el contexto de la subsunción real del trabajo al capital— nunca se presentó de forma pura”, reclamando la necesidad de una antropología jurídica marxista (104). Para el autor, la existencia de una “forma jurídica dependiente está vinculada a las características del proceso de subsunción del trabajo al capital en la periferia del capitalismo”, que sigue las tendencias generales, pero está contaminada por la dinámica de las transferencias de capital, de modo que “los procesos de legalización/legitimación de los métodos de apropiación violenta de recursos naturales y riquezas de todo tipo (desde la tierra hasta el futuro) dan contornos especiales al fenómeno jurídico en la periferia del capital” (Pazello, 2017: 110)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "La forma jurídica dependiente da lugar a una “propuesta transitoria, en contextos geopolíticos como el del continente latinoamericano, para el uso táctico de los fenómenos jurídicos” (Pazello, 2018: 1557), o “derecho insurgente”, que se basa en el “giro decolonial del poder”, como una síntesis de las teorías críticas latinoamericanas, considerando la “colonialidad como relaciones políticas y epistémicas” (Pazello, 2018: 1559). En resumen, se argumenta que el derecho insurgente es “la posible mediación para una crítica marxista y marxiana de la estructura de la forma jurídica, admitiendo, desde una perspectiva dependentista, decolonial y comprometida con los movimientos populares, usos tácticos para el derecho en contextos donde la revolución social aún no ha tenido lugar” (Pazello, 2018: 1593)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "La dimensión fundamental o filosófica de la insurgencia “se refiere a la articulación entre la positividad posible que explica el mundo actual y las negatividades que se derivan de ella y dan lugar a una intervención práctica” (Pazello, 2014: 348), traduciéndola en una dinámica relacional, de “fundamento procesal, que pasa por los siguientes aspectos: a) trabajo de origen; b) lucha; c) organización; y d) sensibilización” (Pazello, 2014, pp. 348–349)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "La dependencia implicaría la adopción de mediaciones “que diferencian la crítica del derecho en el capitalismo central o periférico en situaciones revolucionarias (como Rusia en 1917) o no revolucionarias (como Brasil hoy)” (Pazello, 2014: 323). Las situaciones revolucionarias darían lugar a un derecho insurgente, o como se ha propuesto, a un “Pashukanis insurgente” (Soares, 2024: 84), es decir, un Pashukanis que pudiera ser aceptado por la realidad latinoamericana, y no uno “demasiado ruso” (Soares, 2024: 84), reivindicando su traducibilidad a otros contextos (Soares, 2024: 84), lo que se ha hecho a través de la aproximación gradual de los trabajos de Stutchka y Pashukanis, con el pretexto de superar una supuesta “desafortunada dicotomía entre la figura de un practicante (Stutchka) en antagonismo con un teórico minucioso del Capital (Pashukanis)” (Soares, 2024: 84)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Habiendo presentado los aspectos centrales de la lectura dependentista del derecho y su expresión política, el “Pashukanis insurgente”, pasemos a la lectura oponente."
+   ],
+   "\n",
+   [
+    "h3",
+    {
+     "id": "t-seccion-5"
+    },
+    "3. FORMA JURÍDICA, IDEOLOGÍA JURÍDICA Y ESTADO"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Creemos que adoptar el marco teórico y metodológico de la Teoría Marxista de la Dependencia (TMD) para comprender el fenómeno jurídico, con la primacía de la circulación, implica mistificar la centralidad de la producción (y de la lucha de clases), lo que resulta en importantes limitaciones para el abordaje del derecho y del Estado."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Los avances teóricos de los investigadores del grupo DHCTEM reflejan, en nuestra opinión, la lectura más fructífera de la cuestión, basada en: a) la centralidad de la forma jurídica para la constitución y reproducción de las relaciones sociales capitalistas, a través de la práctica social; b) la plasticidad de la forma jurídica, entendida a partir de la categoría de conformación, capaz de denotar el cumplimiento de las exigencias de la reproducción en cada formación social, sin perder de vista la totalidad; c) la refutación del humanismo teórico."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    [
+     "strong",
+     {},
+     "3.1 Forma jurídica y reproducción capitalista"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Pashukanis (2017) demuestra por qué, en condiciones históricamente determinadas, las relaciones sociales adoptan la forma de relaciones jurídicas. Mercancía y derecho “son dos formas fundamentales que difieren entre sí en principio, pero que, al mismo tiempo, están estrechamente relacionadas y se condicionan mutuamente” (141). Esto resulta evidente cuando reconocemos que el aspecto que distingue al modo de producción capitalista de otros modos históricamente conocidos es la producción mediante la mercantilización de la fuerza de trabajo."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "La forma jurídica es una envoltura que opera a través del núcleo del sujeto de derecho. Funciona preservando este núcleo, caracterizado por la dotación a individuos concretos de los atributos de las mercancías: propiedad (de sí mismo), libertad (para enajenarse) y equivalencia (subjetiva, ya que el intercambio “volitivo” sólo tiene lugar entre iguales). Esta es la génesis de la consolidación del Estado moderno. “A medida que crecen las fuerzas reguladoras sociales, el individuo pierde su tangibilidad material. Su energía personal es sustituida por el poder de la organización social, es decir, de la clase, que encuentra su máxima expresión en el Estado”, de modo que “al sujeto impersonal y abstracto le corresponde, como reflejo, el poder abstracto e impersonal del Estado, que actúa con regularidad y continuidad ideales en el espacio y en el tiempo” (Pashukanis, 2017: 147)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Así, el desarrollo de la sociedad mercantil implica “la contraposición entre vida pública y vida privada” (Pashukanis, 2017: 167), con la centralización del poder político burgués en una entidad “separada” de la clase, lo que se traduce en subyugación ideológica doble del trabajador."
+   ],
+   "\n",
+   [
+    "blockquote",
+    {},
+    "\n",
+    [
+     "p",
+     {},
+     "En la misma medida en que la relación de explotación se lleva a cabo formalmente como una relación entre dos poseedores de mercancías “independientes” e “iguales”, uno de los cuales, el proletario, vende su fuerza de trabajo, y el otro, el capitalista, la compra, el poder político de clase puede adoptar la forma de poder público. (Pashukanis, 2017: 172)."
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Podemos considerar entonces, a partir del trabajo de Pashukanis, que el derecho es una forma social históricamente determinada, cuyo funcionamiento, nucleado por el sujeto de derecho, está vinculado a la mercantilización de la fuerza de trabajo, aspecto central para la producción de valor. Esto implica, al mismo tiempo, la escisión entre lo público y lo privado, con la consolidación de una esfera “extraclase”: el Estado."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Edelman (1976) señala que la obra de Pashukanis alcanza su mayor potencia a través de su articulación con la teoría de las ideologías de Althusser (2008). En el capitalismo, dada la universalización de los atributos indispensables para la mercantilización de la fuerza de trabajo como aspecto central para la producción de valor, el sujeto interpelado es el sujeto de derecho, de modo que el centro de reproducción de las relaciones sociales capitalistas es la ideología jurídica, que se manifiesta en la juridización de las relaciones sociales."
+   ],
+   "\n",
+   [
+    "blockquote",
+    {},
+    "\n",
+    [
+     "p",
+     {},
+     "La sujeción del sujeto de derecho al Sujeto le permite simultáneamente legitimar su poder fuera de sí, y operar el regreso al poder. Esta doble “estructura especular de la ideología” (Althusser), esto es, esta estructura de espejo doble, asegura el funcionamiento de la ideología jurídica de un lado, el sujeto de derecho en nombre del derecho, esto es, el Derecho le da su poder; aún mejor: él da al Derecho el poder de darle un poder; por otro lado, el poder que él dio al Derecho regresa a él: el poder de derecho no es sino el poder de los sujetos de derecho: el Sujeto se reconoce a sí mismo en los sujetos. El poder (la propiedad) en el Poder (el Estado) ocupa, ideológicamente, este lugar, atribuido en la Edad Media a la Iglesia. La Constitución de un Estado sujeto de derecho asegura el funcionamiento de la ideología jurídica (Edelman, 1976: 34, 35)."
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Según Althusser (2008), la “",
+    [
+     "em",
+     {},
+     "ideología burguesa del ‘trabajo’"
+    ],
+    "” (65; énfasis en el original), implica una dinámica de reproducción basada en la “ilusión jurídica burguesa según la cual ‘el trabajo es pagado según su valor’”; en la “ideología jurídico-moral correspondiente de que es necesario ‘respetar su contrato’ de trabajo y, a través de él, las reglas del orden interno de la empresa”; y en la “ideología economicista-tecnicista de que ‘es necesario que existan puestos diferentes en la división del trabajo’ y tales individuos para ocuparlos”. Esta ideología es más eficaz y “contribuye mucho más que la represión a ‘convencer a los obreros con palabras’” (65), lo que no excluye las formas represivas (violencia), sino que las redimensiona como parte de la dinámica de reproducción de la explotación capitalista."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "La ideología de Estado determina las prácticas llevadas a cabo en los Aparatos Ideológicos de Estado (AIE), produciendo la ideología que les corresponde (o los sistemas que les corresponden, como el sistema escolar, el sistema político, el sistema religioso), que el autor denomina ideología secundaria o subordinada. Las relaciones entre formas ideológicas primarias y secundarias “se realizan bajo la intervención de otra realidad […]: ",
+    [
+     "em",
+     {},
+     "es la lucha de clases y sus efectos ideológicos"
+    ],
+    "” (Althusser, 2008: 108; énfasis en el original)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "El autor propone que el derecho y la ideología jurídico-moral sean pensados desde el punto de vista de los AIE, en la medida en que cumplen un papel peculiar, funcionando predominantemente a través de la ideología y asegurando directamente el funcionamiento de las relaciones de producción, contribuyendo a su reproducción de manera subordinada. El papel decisivo del AIE jurídico es articular la superestructura desde y en la infraestructura (Althusser, 2008: 189). Según Batista (2023):"
+   ],
+   "\n",
+   [
+    "blockquote",
+    {},
+    "\n",
+    [
+     "p",
+     {},
+     "Althusser concluye, de manera muy próxima a Pashukanis, que las características de abstracción, formalidad y universalidad del derecho constituyen el reconocimiento oficial del funcionamiento de las relaciones de producción capitalistas. Sin embargo, no hay una identidad plena entre sus formulaciones, ya que Althusser explicita que está tratando el derecho como normatividad, sin alcanzar la perspectiva pashukaniana de la forma social jurídica. Esta diferencia refuerza, por tanto, la ya anunciada necesidad de una lectura pashukaniana-edelmaniana de Althusser. Aun así, esta normatividad que él aún identifica con el derecho, en sus propias palabras, no puede ser considerada “por sí sola, sino como la pieza de un sistema que comporta el derecho, el aparato represivo especializado y la ideología jurídico-moral” (Althusser, 2008: 191). Así, el derecho está necesariamente vinculado a un aparato represivo, como ya establece la teoría descriptiva, pero también a la ideología jurídico-moral que se manifiesta por medio de un aparato ideológico (167)."
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Althusser (2008) postula el “primado de la lucha de clases sobre las funciones y el funcionamiento del aparato de Estado, de los aparatos ideológicos de Estado” (237). La ideología dominante es el producto de la lucha de clases para superar (o mantener) los viejos aparatos e ideologías pertinentes al modo de producción que se pretende (o no) superar. La necesidad de inculcar la ideología dominante a través de las prácticas de los AIE pone de relieve la resistencia, la lucha que “es, en última instancia, el eco directo o indirecto, a veces cercano o, con frecuencia, lejano de la lucha de clases” (239)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "La tesis de la primacía de la lucha de clases se despliega, como señala Batista (2023: 179), en una segunda tesis según la cual “los aparatos ideológicos de Estado son necesariamente el lugar y el objeto de una lucha de clases que, en los aparatos de la ideología dominante, prolonga la lucha de clases general que domina la formación social” (Althusser, 2008: 239)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "A partir del debate sobre las críticas a la teoría de las ideologías, Batista (2023) señala que en ",
+    [
+     "em",
+     {},
+     "Sobre la reproducción"
+    ],
+    " (2008) “Althusser aborda la ideología desde una doble perspectiva: el punto de vista de la reproducción y la perspectiva de la teoría del Estado” (Batista, 2023: 180). Según el autor, “en la lectura althusseriana, se estudia la ideología en el contexto del Estado, y se postula la necesidad de una superación de la teoría descriptiva del Estado hacia una lectura del Estado en tanto tal”, lo que Althusser realiza a partir de la “crítica inmanente de la separación entre lo público y lo privado (...) demostrando que esa separación es burguesa, inherente a las necesidades de la reproducción del modo de producción capitalista” (Batista, 2023: 181), lo que nuevamente dialoga con las elaboraciones de Pashukanis, como ya se ha mencionado. “",
+    [
+     "em",
+     {},
+     "El Estado no puede entenderse bajo el disfraz necesario que se le da en el modo de producción capitalista, “sino a partir de los presupuestos de su crítica, tratándolo como la mediación necesaria para la reproducción de la fuerza de trabajo y de las relaciones de producción, y no como poder político organizado"
+    ],
+    "” (Batista, 2023: 181; énfasis añadido)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "El tratamiento dirigido a superar las apariencias aún presentes en la distinción entre los AIE y el aparato represivo –por el funcionamiento predominante que orienta la dicotomía violencia versus ideología– es realizado por Batista (2023) a partir de la lectura pashukaniana de Althusser, mediante la propuesta de “articular el tratamiento althusseriano de los aparatos de Estado con el tratamiento de Pashukanis acerca del Estado” (204)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Batista (2014) analizó el uso de la palabra ideología en ",
+    [
+     "em",
+     {},
+     "La teoría general del derecho y el marxismo"
+    ],
+    ", señalando que Pashukanis utiliza el término en tres sentidos diferentes, expresando el bagaje teórico disponible en la época, concluyendo:"
+   ],
+   "\n",
+   [
+    "blockquote",
+    {},
+    "\n",
+    [
+     "p",
+     {},
+     "Una lectura simplista del concepto pashukaniano de ideología “(...) puede llevar a interpretaciones psicologizantes e individualizantes que no se corresponden con el propósito desarrollado en la crítica de la forma jurídica, que puede, por sí misma, constituir otra teoría de la ideología jurídica y, en cierto sentido, incluso una anticipación de la teoría de los aparatos ideológicos de Estado” (Batista, 2014: 104)."
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "De hecho, la articulación de las tesis pashukaniana y althusseriana enfatiza el aspecto de la reproducción del poder burgués, lo que orienta la demostración de los efectos de la práctica jurídica sobre la lucha obrera. Al analizar el hecho sindical, la demostración de Edelman sobre los mecanismos de apoderamiento de la clase obrera no deja lugar a dudas: “capturada en las categorías jurídicas, aplastada por la ideología, la tecnicidad, el economicismo, ella [la clase obrera] se ve obligada a negociar, a expresarse en el lenguaje de la ‘moderación’, del orden y del derecho. En suma, se le exige la más bella de las cualidades burguesas: la ",
+    [
+     "em",
+     {},
+     "pasividad"
+    ],
+    "” (Edelman, 2016: 141; énfasis en el original)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "La forma jurídica determina, por tanto, un conjunto de prácticas que colocan a la clase obrera “en el campo” y “bajo el lenguaje” de la burguesía. Este hecho fundamental corrobora las caracterizaciones de Pashukanis, revelando la fuerza de su teoría, cuyo carácter revolucionario se opuso a la política del período estalinista, lo que le llevó a la cárcel y a la muerte."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Siguiendo la estela de Orione (Correia, 2022) y Batista (2023), entendemos que la crítica de la forma jurídica en todos sus componentes –el derecho como forma social históricamente determinada, nucleada por el sujeto de derecho, cuya autonomización posibilitada por la creciente juridización de las relaciones sociales permite la consolidación del sujeto abstracto de derecho y del Estado– apunta a la centralidad de la forma jurídica en la reproducción de la sociabilidad capitalista y en la formulación de la teoría marxista revolucionaria del Estado. Postulamos, por lo tanto, “la lectura de Althusser [...] a partir de los presupuestos de la subjetividad jurídica –por lo tanto, una lectura pashukanianaedelmaniana” como el método que “conduce a los resultados teóricos más fructíferos” (Batista, 2023: 144)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Debemos añadir también, según Batista (2023), que para demostrar las relaciones entre las clases y el Estado que están en la base de la génesis y de las transformaciones de la filosofía, Althusser se centra en las condiciones de reproducción de las relaciones capitalistas, refutando, como Marx, el concepto abstracto de sociedad y adoptando, en cambio, el de formación social, que es “un concepto científico en tanto forma parte de un ",
+    [
+     "em",
+     {},
+     "sistema teórico"
+    ],
+    " de conceptos” y “designa toda ‘sociedad concreta’ históricamente existente, y que es ",
+    [
+     "em",
+     {},
+     "individualizada"
+    ],
+    ", por lo tanto, distinta de sus contemporáneas y de su propio pasado, por el modo de producción que domina allí” (Althusser, 2008: 41; énfasis en el original). En otras palabras, la “sociedad concreta” corresponde a un conjunto de relaciones particularizadas por el modo de producción dominante."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "La categoría de formación social ayuda a identificar los problemas que observamos en la TMD y en la lectura dependentista del derecho, en la medida en que se afirma a través de la sobredeterminación de la producción, descartando interpretaciones basadas en la desviación circulacionista. Las formas sociales se configuran según las exigencias de la reproducción de la acumulación capitalista, pero no están determinadas por la circulación de mercancías ni por las relaciones interestatales. Un modo de producción está determinado por la unidad entre las fuerzas productivas y las relaciones de producción (Althusser, 2008: 42). Las relaciones de producción, “con base y en los límites materiales de las fuerzas productivas existentes, son determinantes” (Althusser, 2008: 43) en el contexto de su unidad."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Las relaciones de producción y las fuerzas productivas constituyen lo que Marx, en ",
+    [
+     "em",
+     {},
+     "Contribución a la crítica de la economía política"
+    ],
+    ", llamó la estructura económica (Althusser, 2008: 47), en compleja unidad con la superestructura (Derecho, Estado e ideologías). La “infraestructura económica es determinante en ‘",
+    [
+     "em",
+     {},
+     "última instancia’"
+    ],
+    "” (Althusser, 2008: 43; énfasis en el original)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Lo que ocurre en una formación social capitalista “",
+    [
+     "em",
+     {},
+     "está arraigado en la base material de las relaciones de producción capitalistas"
+    ],
+    "”, y estas son “",
+    [
+     "em",
+     {},
+     "las relaciones de la explotación capitalista en un sistema de explotación en el que la propia producción está subordinada a la explotación y, por lo tanto, a la producción ampliada del capital"
+    ],
+    "” (Althusser, 2008: 56; énfasis en el original). En las formaciones sociales, las formas sociales se desarrollan y articulan guiadas por el movimiento de la reproducción ampliada del capital, y bajo la determinación última de las relaciones de producción. Entendemos que la variabilidad del contenido normativo, en el caso de la forma jurídica, puede ser interpretada a través de la lente de la conformación, como será discutido a continuación. ",
+    [
+     "strong",
+     {},
+     "3.2 Conformación de la forma jurídica"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Con relación a las particularidades del desarrollo y consolidación de las formas sociales correspondientes al modo de producción predominante en cada formación social específica, entendemos que las singularidades de las relaciones jurídicas son determinadas por las exigencias de la reproducción de las relaciones capitalistas, lo que puede ser comprendido a través de la lectura de la conformación o condicionamiento de la forma jurídica propuesta por Júlia Lenzi Silva (2021)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "La autora investiga la ",
+    [
+     "em",
+     {},
+     "forma jurídica de la previsión social"
+    ],
+    ", un tema estrechamente vinculado al Estado, cuyo tratamiento, a partir del legado de Marx, requiere un cuidado adicional, teniendo en cuenta lo incompleto de su obra de madurez al respecto, lo que se acentúa “cuando el análisis tiene como contexto histórico la realidad de un país situado en la periferia del capitalismo con un pasado colonial, como es el caso de Brasil (...), lo que exige un mayor esfuerzo por comprender los periodos de transición” (Silva, 2021: 116). Hechas estas consideraciones, Silva propone lo que creemos que está en el centro de la comprensión de la forma jurídica y de las relaciones jurídicas en el contexto de los países periféricos:"
+   ],
+   "\n",
+   [
+    "blockquote",
+    {},
+    "\n",
+    [
+     "p",
+     {},
+     "Es fundamental tener en cuenta que, dado que la forma jurídica es una forma social específica del modo de producción capitalista (...), se modifica según las determinaciones históricas, es decir, se plasma y se adapta según las necesidades de supervivencia del capitalismo. Es importante señalar que este movimiento de ",
+     [
+      "em",
+      {},
+      "conformación de la forma"
+     ],
+     " no es un movimiento lineal, como, por ejemplo, el de una supresión continua de los contenidos protectores o, por el contrario, una ampliación progresiva de las bases de la protección social. Muy al contrario: de forma dialéctica y de acuerdo con las necesidades de la etapa de desarrollo del modo de producción capitalista y la intensidad de las luchas de clases, la forma jurídica de la seguridad social puede abarcar un mayor o menor contenido relacionado con la protección social, aquí sí, efectivamente relacionado con la tarea de mantener y reproducir la fuerza de trabajo del obrero y su familia, sin que haya que indagar sobre un ‘sentido (único)’ en este constante proceso de condicionamiento de la forma, como explica Pashukanis.” (Silva, 2021: 117; énfasis en el original)"
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Para nosotros, es relevante destacar que la autora demuestra cómo la aplicación del método materialista histórico-dialéctico permite delimitar las manifestaciones de la forma jurídica en el proceso histórico e identificarla como forma, a pesar del contenido aparentemente contradictorio (Silva, 2021: 119). En la formación social brasileña, la incipiente forma jurídica de la previsión social, como lo demuestra la autora, surge en el contexto de transición al capitalismo, vinculada al proceso de afirmación del Estado como esfera pública, lo que determina su contenido destinado a conferir la posibilidad de constitución y reproducción del cuerpo de funcionarios estatales. Esto se expresa en la constitución de los Regímenes Propios de Previsión Social (RPPS), basados en parámetros diferentes al Régimen General de Previsión Social (RGPS) y que solo en apariencia contradicen la equivalencia jurídica (Silva, 2021: 121), siendo: “",
+    [
+     "em",
+     {},
+     "un negativo que no niega"
+    ],
+    ", es decir, como negativo que, al negar, afirma, es decir, como verdadero refuerzo de la equivalencia manifiesta en el principio de igualdad entre los ",
+    [
+     "em",
+     {},
+     "sujetos de derecho"
+    ],
+    ".” (Silva, 2021: 121; énfasis en el original). El tratamiento diferenciado que otorga el RPPS no lo excluye de la forma jurídica de la previsión social; por el contrario, resalta el papel de los derechos sociales en la consolidación del modo de producción capitalista, aquí específicamente, como un paso decisivo hacia la construcción del Estado fundado en la legalidad, la impersonalidad y la moral, expresando la conformación de la forma jurídica planteada por la autora, su condicionamiento."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "El análisis basado en el método permite a Silva (2021) demostrar que, en su proceso de constitución, la forma jurídica de la previsión social pasa del carácter de derecho social privado a la universalización, a medida que la dinámica de subsunción del trabajo al capital se profundiza y se torna más compleja."
+   ],
+   "\n",
+   [
+    "blockquote",
+    {},
+    "\n",
+    [
+     "p",
+     {},
+     "Las disposiciones que se incorporan en este momento histórico [...] ya no sufrirán modificaciones constitutivas, como ocurrió en fases anteriores, sino que se someterán a un proceso continuo de ",
+     [
+      "em",
+      {},
+      "conformación o condicionamiento de la forma"
+     ],
+     ", con el fin de satisfacer las necesidades apremiantes de la etapa de acumulación capitalista (175, 176)."
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "No existe, pues, una forma jurídica atípica o incompleta respecto a los países centrales, sino una forma social que se establece y se configura según los condicionamientos que impone el modo de producción. Los cambios en el régimen de acumulación capitalista imponen nuevas conformaciones a la forma jurídica para responder a sus demandas, manteniendo intacto el sentido de la contractualidad."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Para Orione (Correia, 2022), la plasticidad a la que se refiere Silva expresa la naturaleza flexible de la forma jurídica dentro del propio modo de producción, lo que remite “su adaptabilidad a las nuevas determinaciones del capitalismo a lo largo de su historia” (114):"
+   ],
+   "\n",
+   [
+    "blockquote",
+    {},
+    "\n",
+    [
+     "p",
+     {},
+     "Para que la reproducción de la alienación de la fuerza de trabajo funcione con éxito, promoviendo un aumento de la plusvalía y la concentración típica de la lógica del capital, es importante que la forma sea siempre la misma, que se presente tan ‘moderna’ como las correspondientes ‘modernidades’ introducidas por el capital. Aunque en esencia sea siempre la misma, con todos los aspectos antes destacados, necesita presentar nuevos rasgos, especialmente en la ideología jurídica, para hacer soportar la idea de que se necesita una renovación de las condiciones materiales necesarias para que funcione la igualdad y, con ella, la libertad. Aquí vale el manido discurso de que el mundo ya no es el mismo, aunque el capitalismo se base en una relación contractual constante y única. De ahí su carácter no estático, ya que responde a una relación dialéctica, entre el sujeto de derecho y la ideología jurídica, del capitalismo en curso. Será, pues, dinámica, tendiendo a responder reflexivamente a impulsos contrarios a la reproducción de las condiciones de sociabilidad capitalistas (114)."
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Continuando su análisis, Silva (2021) arroja luz sobre el proceso de configuración de la forma jurídica desde la perspectiva del aparato ideológico operado a través de la universalización del sujeto de derecho de la previsión social, una abstracción con fuerza en la realidad porque está determinada “en última instancia, por la propia producción específicamente capitalista” (206)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Considerando que el individuo amparado por la subjetividad jurídica previsional es la base de sustentación de la ideología jurídica de la previsión social “que, mediante su funcionamiento (...), convierte la forma jurídica de la seguridad social en ‘autoevidente’, ‘ahistórica’, ‘eterna’, en definitiva, en una obviedad”, la autora propone analizar la universalidad de la subjetividad jurídica previsional como movimiento de interpelación, señalando “la estrecha conexión entre la crítica pashukaniana al derecho y la teoría de la ideología de Althusser”, guiada por la necesaria doble función del derecho: “por un lado, hacer eficaces las relaciones de producción mediante la categoría de ",
+    [
+     "em",
+     {},
+     "sujeto de derecho"
+    ],
+    " y, por otro, ",
+    [
+     "em",
+     {},
+     "reflejar"
+    ],
+    " concretamente y ",
+    [
+     "em",
+     {},
+     "sancionar"
+    ],
+    " las ideas que las personas tienen de sus relaciones sociales, mediante la ",
+    [
+     "em",
+     {},
+     "ideología jurídica"
+    ],
+    "” (Silva, 2021: 207-208; énfasis en el original)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Silva tiene razón al identificar que “las batallas legales, consideradas como el camino evidente para satisfacer las necesidades humanas, constituyen, en esencia, una sucesión de actos de reconocimiento ritualizados por el AIE”. Según la autora, “son, en resumen, no la superación, sino el ",
+    [
+     "em",
+     {},
+     "efecto ideológico"
+    ],
+    " más inmediato que se deriva de la evidencia primaria de que todos somos siempre sujetos de derecho” (Silva, 2021: 249; énfasis en el original)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Hechas las consideraciones más esenciales respecto de las lecturas confrontadas, es necesario sistematizar lo que creemos son las divergencias teóricas y metodológicas fundamentales, abriendo el debate."
+   ],
+   "\n",
+   [
+    "h3",
+    {
+     "id": "t-seccion-6"
+    },
+    "CONSIDERACIONES FINALES: REVISIONISMO, HUMANISMO TEÓRICO Y NEUTRALIZACIÓN DE LA CRÍTICA DE LA FORMA JURÍDICA"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Presentamos, de manera general, los fundamentos que orientan las interpretaciones divergentes en torno a la crítica de la forma jurídica. La comparación entre dichas interpretaciones pone de relieve diferencias metodológicas y teóricas significativas, que se traducen en perspectivas políticas radicalmente distintas, lo que motiva la necesidad de su elucidación y debate. Si bien no es posible agotarlas en este momento, nos proponemos señalar algunos aspectos que consideramos centrales, con el propósito de estimular la discusión."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "El primer aspecto que destacamos se refiere al marco metodológico. A pesar de reconocer la relevancia de las preocupaciones que orientan la Teoría Marxista de la Dependencia (TMD), entendemos que existen desvíos metodológicos que comprometen sus resultados, expresados especialmente en el descuido del análisis concreto de la formación social, a través de una interpretación de carácter relacional y de comparación paradigmática, que se desdobla en una orientación desarrollista."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "En síntesis, refutamos la propuesta del capitalismo ",
+    [
+     "em",
+     {},
+     "sui generis"
+    ],
+    ", entendiendo que las especificidades de la formación social pueden ser adecuadamente comprendidas a través de las categorías ya establecidas por el materialismo histórico y, principalmente, considerando que el capital tiene una dinámica de acumulación y reproducción global, proceso cuyos saltos, retrocesos y contradicciones expresan la dinámica de la competencia intra e interclases. Por lo tanto, la perspectiva relacional implica distorsiones respecto del papel del Estado."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Consideramos que la aproximación entre Pashukanis y Marini, en la forma sugerida, no tiene sustento teórico, y el despliegue de la adopción de la TMD en el ámbito de la crítica marxista del derecho revela sus imprecisiones metodológicas, resultando en una lectura que se distancia radicalmente de los marcos pashukanianos, incurriendo en desviaciones normativas y en el carácter superlativo de la política."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "La crítica pashukaniana, al igual que la marxiana, es una crítica de las formas sociales. Su referencia no es la especificidad de cada formación social, sino las formas sociales presentes y que caracterizan el modo de producción capitalista. Al trasladar la metodología particularista de la TMD a la crítica del derecho, Pazello sacrifica el salto expresado en la identificación del derecho como una forma social capitalista, lo que está en la base de la comprensión de que es necesario “traducir” a Pashukanis a otras realidades más allá de la rusa."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "La oposición teórica entre Stutchka y Pashukanis en el tratamiento científico del derecho tiene un origen metodológico, como demuestra con contundencia Batista (2013). Según el autor, al identificar el derecho con un sistema de relaciones sociales correspondiente a los intereses de la clase dominante y protegido por la fuerza organizada de la clase, Stutchka “vincula el derecho al núcleo del modo de producción”; sin embargo, la definición propuesta por Stutchka admite la relevancia del derecho para cualquier modo de producción (158-159):"
+   ],
+   "\n",
+   [
+    "blockquote",
+    {},
+    "\n",
+    [
+     "p",
+     {},
+     "Definir el derecho como un aparato de dominación de clase implica aceptar una definición formal y universalmente válida del derecho [...]. La contrapartida de tal constatación se encuentra en que la inserción del derecho en el sistema de relaciones de producción está vinculada a su contenido. En otras palabras, la forma jurídica es perenne: constituye un sistema coercitivo de normas impositivas, asegurado por el monopolio de la violencia que detenta el Estado (Batista, 2013: 160)."
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Es pues esencial volver al centro de la crítica de Pashukanis al derecho, que es absolutamente incompatible con el fundamento del pensamiento de Stutchka: el derecho y el Estado son formas sociales históricamente determinadas, que se afirman con un sentido de universalidad en el modo de producción guiado por la oposición de intereses privados a través de relaciones mercantiles que ocultan relaciones de explotación. “Según Pashukanis, por lo tanto, la crítica del derecho debe seguir la metodología de la crítica marxista de la economía política, que es una crítica de la forma” (Batista, 2013: 164)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Al tratarse de las formas sociales, el derecho y el Estado están en una relación de sobredeterminación con las relaciones de producción, de modo que la propiedad del poder estatal (hipotéticamente variable, en la democracia burguesa) no altera su naturaleza. Más explícitamente, como lo demostró ampliamente Edelman (1976; 2016), el contenido normativo no altera la forma jurídica. Los efectos de la forma jurídica, y de la práctica que a ella corresponde, se mantienen sustancialmente, pese a su conformación, a través de la variación normativa (de contenido), adoptada, por regla general, en respuesta a las determinaciones y exigencias de la lucha de clases en la reproducción capitalista."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "El acercamiento entre los autores se basa en el adelgazamiento de la crítica pashukaniana, con el sacrificio de su método y, en consecuencia, de su radicalidad y potencia."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Todavía en este contexto, la traducibilidad gramsciana es completamente incompatible con la fundamentación teórica de la crítica pashukaniana, que se da a través de la aplicación del método, en el ámbito de las formas sociales."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "En otras palabras, la forma mercancía, como categoría central de la teoría del valor, está investida de los mismos atributos en cualquier país capitalista y actúa considerando el movimiento global del capital (¿o sería Marx demasiado alemán?). En el mismo sentido, la forma jurídica conserva sus atributos en todas estas realidades, impulsada por el movimiento universalizador del derecho. Sigue promoviendo la equivalencia típica de la producción capitalista —y no sólo de la circulación—, moviéndose de acuerdo con la reproducción de las relaciones capitalistas."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Entendemos que no existe contradicción alguna entre afirmar el carácter históricamente determinado del derecho y reconocer su centralidad en la reproducción de las relaciones capitalistas. Asimismo, en el contexto de la lucha cotidiana, no hay incompatibilidad entre articular métodos antisistémicos y recurrir a la defensa jurídica de trabajadores, colectivos y sectores explotados. Esta articulación se realiza constantemente, incluso mediante la resistencia frente a la precarización de las condiciones de reproducción de la clase trabajadora. Sin embargo, ello no autoriza la supresión de la crítica ni la renuncia a la búsqueda, con centralidad, de prácticas que se opongan al horizonte legal."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "En este marco, sostenemos que la supuesta dicotomía entre el uso táctico del derecho y el denominado antinormativismo constituye un recurso que obstaculiza el debate, encubriendo la verdadera polémica, la cual se inscribe en el ámbito de la teoría del Estado –herramienta indispensable en la disputa por el poder– y del humanismo teórico, sin desconocer la centralidad de la lucha de clases."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Es necesario expresar esto con claridad: suponer (y difundir) que el llamado antinormativismo implica un mero desprecio por la defensa del mantenimiento o la mejora de las condiciones materiales de vida de la clase trabajadora –condiciones que, como regla general, se disputan en el terreno jurídico– constituye una ilusión propagada, queremos creer, por falta de comprensión. El núcleo de la divergencia no reside en el uso táctico del derecho. “Los marxistas saben que no es posible ninguna táctica que no se base en una estrategia, ni ninguna estrategia que no se base en la teoría.” (Althusser, 2015: 201). Consideramos que esta tensión manifiesta de forma evidente una divergencia teórica que puede incidir en: (i) el alcance y la comprensión de la teoría pashukaniana como crítica de las formas sociales; (ii) la crítica de la forma jurídica como sustrato de la teoría marxista del Estado; y (iii) la centralidad de la práctica jurídica como acción ideológica en la reproducción de las relaciones capitalistas. De ahí la relación entre forma e ideología jurídica “explorada” en la obra de Pashukanis, y desarrollada en su mejor expresión mediante la lectura pashukaniana de Althusser. Los aspectos aquí proyectados reflejan divergencias centrales que remiten a: (i) el método, es decir, una lectura basada en la sobredeterminación del modo de producción; y (ii) el humanismo teórico, o el “",
+    [
+     "em",
+     {},
+     "antihumanismo teórico de Marx"
+    ],
+    "” (Althusser, 2015: 190; énfasis en el original)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "El humanismo teórico criticado por Althusser es, en nuestra perspectiva, un elemento central en la obra de Marx, quien, en lugar de postular la existencia de un “hombre en general” o una “naturaleza humana” actuando teleológicamente en la historia, adopta como eje de comprensión histórica la materialidad de la vida, las relaciones de producción y reproducción de la vida material. Según Althusser (1973), la historia no tiene un sujeto, sino un motor: la lucha de clases, la dinámica de la explotación mediante la apropiación del excedente, la apropiación de la ganancia y la resistencia."
+   ],
+   "\n",
+   [
+    "blockquote",
+    {},
+    "\n",
+    [
+     "p",
+     {},
+     "No se puede conocer nada de los hombres sin la condición absoluta de reducir a cenizas el mito filosófico (teórico) del hombre. Todo pensamiento que recurriera entonces a Marx para restaurar de una u otra manera una antropología o un humanismo teórico sería ",
+     [
+      "em",
+      {},
+      "teóricamente"
+     ],
+     " solo cenizas. Pero, en la práctica, podría construir un monumento a la ideología premarxista, que pesaría sobre la historia real y correría el riesgo de llevarla a un punto muerto. Porque el antihumanismo marxista teórico tiene como corolario el reconocimiento y el conocimiento del propio humanismo: como ideología. Marx nunca cayó en la ilusión idealista de creer que el conocimiento de un objeto podría, en última instancia, sustituir a ese objeto o disipar su existencia. [...] El antihumanismo teórico no suprime en modo alguno la existencia del humanismo. [...] El antihumanismo teórico de Marx reconoce, relacionándolo con sus condiciones de existencia, una necesidad del humanismo como ideología, una necesidad bajo ciertas condiciones. El reconocimiento de esta necesidad no es meramente especulativo. Es únicamente sobre esta base que el marxismo puede fundar una política relativa a las formas ideológicas existentes, sean cuales sean: religión, moral, arte, filosofía, derecho y, en primer lugar, humanismo. (Althusser, 2015: 190-191; énfasis en el original)."
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Irene Guimarães (2023), en su crítica a la noción de sujeto revolucionario contenida en ",
+    [
+     "em",
+     {},
+     "Historia y conciencia de clase"
+    ],
+    " de Lukács, demuestra que “ese sujeto todopoderoso que se apropia del mundo es propio del humanismo, que parte precisamente del sujeto, de la persona, del ‘hombre’”, y continúa:"
+   ],
+   "\n",
+   [
+    "blockquote",
+    {},
+    "\n",
+    [
+     "p",
+     {},
+     "Esta noción humanista (de la historia como producción del hombre por el hombre, que posee una interioridad transhistórica cuya esencia es el trabajo, y que se enfrenta a las diferentes determinaciones históricas externas) conlleva consigo un par necesario, a saber, el economicismo, y con él, una determinada concepción de la historia que nos parece anunciada por Lukács en su filosofía. [...] (181)."
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Las consecuencias del humanismo teórico se evidencian en las tensiones que emergen en la lectura dependiente del derecho, especialmente considerando que este constituye el fundamento inicial del denominado derecho insurgente: el uso táctico del derecho como herramienta de organización, formación y concientización (Pazello, 2014: 352)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Como se observa, las diferencias no se inscriben en la dicotomía entre uso táctico o no uso del derecho, sino que reflejan divergencias de orden metodológico y teórico, comprendidas principalmente a través del humanismo teórico. Además, no es posible alcanzar resultados adecuados cuando el análisis se desvincula de la producción y se orienta por la circulación. La forma jurídica no es un mero mediador de las relaciones capitalistas, sino una forma social fundante del sistema de explotación, que se produce mediante la mediación contractual y genera un complejo de relaciones basadas en la equivalencia, relaciones que reflejan –o espejan– la contractualidad."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "No se trata, por tanto, de desatender la dimensión táctica del uso del derecho, sino de señalar la necesidad estratégica de superar las prácticas guiadas por la forma jurídica, lo cual solo puede lograrse mediante la superación del problema humanista y la admisión de la centralidad de la lucha de clases. “Y que no me digan que no debemos confundir las victorias legales con el proyecto de los partidos políticos; que, por un lado, la clase obrera puede avanzar dentro de la legalidad, pero, por otro, está preparada para el socialismo.” (Edelman, 2016: 22; énfasis añadido)."
+   ],
+   "\n",
+   [
+    "h3",
+    {
+     "id": "t-seccion-7"
+    },
+    "REFERENCIAS"
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "pt"
+    },
+    "Althusser, Louis. (1973). ",
+    [
+     "em",
+     {},
+     "Resposta a John Lewis: a questão do humanismo"
+    ],
+    ". Editora Estampa."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "pt"
+    },
+    "Althusser, Louis. (2008). ",
+    [
+     "em",
+     {},
+     "Sobre a reprodução"
+    ],
+    ". 2 ed. Editora Vozes."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Althusser, Louis. (2015). ",
+    [
+     "em",
+     {},
+     "Por Marx"
+    ],
+    ". Editora da Unicamp."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Astarita, Rolando. (2010). ",
+    [
+     "em",
+     {},
+     "Economía política de la dependencia y el subdesarrollo: tipo de cambio y venta agraria en la Argentina"
+    ],
+    ". Universidad Nacional de Quilmes."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "pt"
+    },
+    "Batista, Flávio Roberto. (2013). ",
+    [
+     "em",
+     {},
+     "Crítica da tecnologia dos direitos sociais"
+    ],
+    ". Outras Expressões, Dobra Editorial."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "pt"
+    },
+    "Batista, Flávio Roberto. (2014). O conceito de ideologia jurídica em Teoria geral do direito e marxismo: uma crítica a partir da perspectiva da materialidade das ideologias. ",
+    [
+     "em",
+     {},
+     "Verinotio"
+    ],
+    ", v. X, n. 19: 91-105."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "pt"
+    },
+    "Batista, Flávio Roberto. (2023). ",
+    [
+     "em",
+     {},
+     "A realidade do contrato: o direito do trabalho na teoria da ideologia"
+    ],
+    ". [Tese de Livre-Docência em Direito do Trabalho e da Seguridade Social]. Faculdade de Direito da Universidade de São Paulo."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "pt"
+    },
+    "Correia, Marcus Orione Gonçalves. (2022). ",
+    [
+     "em",
+     {},
+     "A invenção da classe trabalhadora brasileira: o direito do trabalho na constituição da forma jurídica no Brasil"
+    ],
+    " [Tese de titularidade em Direito do Trabalho e da Seguridade Social]. Faculdade de Direito da Universidade de São Paulo, 2022."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Cueva, Agustín. (1979). Problemas y perspectivas de la teoría de la dependencia. In ",
+    [
+     "em",
+     {},
+     "Teoría social y procesos políticos en América Latina"
+    ],
+    ". Edicol."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "pt"
+    },
+    "Edelman, Bernard. (1976). ",
+    [
+     "em",
+     {},
+     "O direito captado pela fotografia. Elementos para uma teoria marxista do direito."
+    ],
+    " Centelha."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "pt"
+    },
+    "Edelman, Bernard. (2016). ",
+    [
+     "em",
+     {},
+     "A legalização da classe operária"
+    ],
+    ". Boitempo."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "pt"
+    },
+    "Guimarães, Irene Maestro Sarrión dos Santos. (2023). ",
+    [
+     "em",
+     {},
+     "O sujeito revolucionário em História e Consciência de Classe"
+    ],
+    ": uma crítica marxista a partir da forma jurídica. Lutas Anticapital."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "pt"
+    },
+    "Macedo, Regiane de Moura (2024)",
+    [
+     "em",
+     {},
+     ". Dependência, forma jurídica e sindicatos"
+    ],
+    " [Tese de Doutorado em Direito do Trabalho] Faculdade de Direito, Universidade de São Paulo, São Paulo, 2024. doi:10.11606/T.2.2024.tde-09122024-111917."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "pt"
+    },
+    "Mascaro, Alysson L. (2008). ",
+    [
+     "em",
+     {},
+     "Crítica da legalidade e do direito brasileiro"
+    ],
+    ". 2 ed. Quartier Latin."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "pt"
+    },
+    "Marini, Ruy Mauro. (2000). ",
+    [
+     "em",
+     {},
+     "Dialética da dependência: uma antologia da obra de Ruy Mauro Marini"
+    ],
+    ". Vozes; CLACSO."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Marini, Ruy Mauro; Artega Garcia, Arnulfo; Sotelo Valencia, Adrián. (1983). ",
+    [
+     "em",
+     {},
+     "Análisis de los mecanismos de protección al salario en la esfera de la producción."
+    ],
+    " Secretaría del Trabajo y Previsión Social; Fondo Nacional de Estudios y Proyectos."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "pt"
+    },
+    "Pashukanis, Evgeni. (2017). ",
+    [
+     "em",
+     {},
+     "A teoria geral do direito e o marxismo e ensaios escolhidos (1921-1929)."
+    ],
+    " Coord. Marcus Orione. Trad. Lucas Simone. Sundermann."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "pt"
+    },
+    "Pazello, Ricardo Prestes. (2014). ",
+    [
+     "em",
+     {},
+     "Direito Insurgente e Movimentos Populares: o giro descolonial do poder e a crítica marxista do direito"
+    ],
+    " [Tese de doutorado em direito]. Universidade Federal do Paraná."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "pt"
+    },
+    "Pazello, Ricardo Prestes. (2016). Contribuições metodológicas da teoria marxista da dependência para a crítica marxista ao direito. ",
+    [
+     "em",
+     {},
+     "Revista Direito e Práxis"
+    ],
+    ", ",
+    [
+     "em",
+     {},
+     "7"
+    ],
+    "(1), 540-574. <",
+    [
+     "a",
+     {
+      "href": "https://www.e-publicacoes.uerj.br/index.php/revistaceaju/article/view/21633>"
+     },
+     "https://www.e-publicacoes.uerj.br/index.php/revistaceaju/article/view/21633>"
+    ],
+    ";."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "pt"
+    },
+    "Pazello, Ricardo Prestes. (2017). Acumulação originária do capital e direito. ",
+    [
+     "em",
+     {},
+     "InSURgência: revista de direitos e movimentos sociais"
+    ],
+    ", v. 2, n. 1: 66–116. <",
+    [
+     "a",
+     {
+      "href": "https://periodicos.unb.br/index.php/insurgencia/article/view/19044>"
+     },
+     "https://periodicos.unb.br/index.php/insurgencia/article/view/19044>"
+    ],
+    ";."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "pt"
+    },
+    "Pazello, Ricardo Prestes. (2018). Direito Insurgente: Fundamentações Marxistas desde a América Latina. ",
+    [
+     "em",
+     {},
+     "Revista Direito e Práxis"
+    ],
+    ", [S.l.], ",
+    [
+     "em",
+     {},
+     "9"
+    ],
+    "(3): 1555-1597. <",
+    [
+     "a",
+     {
+      "href": "https://www.e-publicacoes.uerj.br/index.php/revistaceaju/article/view/36564/26065>"
+     },
+     "https://www.e-publicacoes.uerj.br/index.php/revistaceaju/article/view/36564/26065>"
+    ],
+    ";."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "pt"
+    },
+    "Pazello, Ricardo Prestes; Soares, Moisés Alves. (2020). Stutchka e as contribuições para a cultura jurídica soviética revolucionária. ",
+    [
+     "em",
+     {},
+     "Revista Culturas Jurídicas"
+    ],
+    ", ",
+    [
+     "em",
+     {},
+     "7"
+    ],
+    "(16), jan./abr. p. 73-96."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "pt"
+    },
+    "Silva, Júlia Lenzi. (2021). ",
+    [
+     "em",
+     {},
+     "Forma jurídica e previdência social no Brasil"
+    ],
+    ". Lutas Anticapital."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "pt"
+    },
+    "Soares, Moisés Alves. (2024). Por um Pashukanis Insurgente: um ensaio sobre uma outra recepção de Teoria Geral do Direito e Marxismo no Brasil. ",
+    [
+     "em",
+     {},
+     "InSURgência: revista de direitos e movimentos sociais"
+    ],
+    ", v. 10, n. 2: 77-88. ",
+    [
+     "a",
+     {
+      "href": "https://periodicos.unb.br/index.php/insurgencia/article/view/55043"
+     },
+     "https://periodicos.unb.br/index.php/insurgencia/article/view/55043"
+    ],
+    "."
+   ],
+   "\n",
+   [
+    "section",
+    {},
+    [
+     "h3",
+     {
+      "id": "t-seccion-8"
+     },
+     "NOTAS"
+    ],
+    [
+     "ol",
+     {},
+     "\n",
+     [
+      "li",
+      {
+       "id": "t-fn1",
+       "lang": "pt"
+      },
+      "Algunos ejemplos son la tesis de la profesora Júlia Lenzi Silva (2019. “Para uma crítica além da universalidade: forma jurídica e previdência social no Brasil”. Tese (Doutorado em Direito do Trabalho e da Seguridade Social) Faculdade de Direito, Universidade de São Paulo, São Paulo. doi:10.11606/T.2.2019.tde-28082020-030856. ",
+      [
+       "a",
+       {
+        "href": "https://www.teses.usp.br/teses/disponiveis/2/2138/tde-28082020-030856/publico/9593562_Tese_Original.pdf"
+       },
+       "https://www.teses.usp.br/teses/disponiveis/2/2138/tde-28082020-030856/publico/9593562_Tese_Original.pdf"
+      ],
+      "); la tesis del profesor Flávio Roberto Batista (2023. “A realidade do contrato: o direito do trabalho na teoria da ideologia”. Tese (Livre-docência – Departamento de Direito do Trabalho e Seguridade Social) Faculdade de Direito, Universidade de São Paulo); y la tesis del profesor Marcus Orione(2022. “A invenção da classe trabalhadora brasileira: o direito do trabalho na constituição da forma jurídica no Brasil”. 631 f. Tese (Titularidade em direito) Faculdade de Direito). ",
+      [
+       "a",
+       {
+        "href": "#t-fnref1",
+        "id": "t-llamada-fnref1-1"
+       },
+       "↩"
+      ]
+     ],
+     "\n"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Cómo citar: ",
+    [
+     "em",
+     {},
+     "Bajo el Volcán. Revista del Posgrado de Sociología. BUAP"
+    ],
+    ", Año 7, Núm. 13, noviembre de 2025 – abril de 2026, pp. 162-191. https://doi.org/10.32399/ICSYH.bvbuap.2954-4300.2025.7.13.811"
+   ],
+   [
+    "p",
+    {},
+    [
+     "a",
+     {
+      "href": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
+     },
+     "Licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional"
+    ],
+    ". Publicación de acceso abierto diamante editada por la Benemérita Universidad Autónoma de Puebla."
+   ],
+   "\n"
+  ],
+  "\n"
+ ]
+};

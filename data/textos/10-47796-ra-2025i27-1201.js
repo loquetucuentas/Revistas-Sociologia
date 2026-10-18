@@ -1,0 +1,4785 @@
+// Copia de textos/10-47796-ra-2025i27-1201.json para abrir la aplicación sin servidor.
+(window.DATOS_REVISTAS = window.DATOS_REVISTAS || {})["textos/10-47796-ra-2025i27-1201.json"] = {
+ "version": 1,
+ "recogido": "2026-10-18T11:44:23+00:00",
+ "doi": "10.47796/ra.2025i27.1201",
+ "titulo": "Refugios verdes: integrando la biofilia en los centros de emergencia para mujeres",
+ "revista": "2617-0892",
+ "numero": "n27-2025",
+ "licencia": {
+  "codigo": "by",
+  "nombre": "CC BY 4.0",
+  "nombre_completo": "Creative Commons Atribución 4.0 Internacional",
+  "url": "http://creativecommons.org/licenses/by/4.0",
+  "url_legal": "https://creativecommons.org/licenses/by/4.0/legalcode.es"
+ },
+ "fuente": {
+  "url": "https://revistas.upt.edu.pe/ojs/index.php/arquitek/article/download/1201/1190?inline=1",
+  "formato": "HTML",
+  "plataforma": "ojs-galerada",
+  "pagina": "https://revistas.upt.edu.pe/ojs/index.php/arquitek/article/view/1201"
+ },
+ "autores_cita": [
+  {
+   "apellidos": "Coronado Rivera",
+   "nombre_pila": "Rosangela Yanet",
+   "nombre": null
+  },
+  {
+   "apellidos": "Martinez Valdivia",
+   "nombre_pila": "Ana Noelia",
+   "nombre": null
+  }
+ ],
+ "avisos_derechos": [
+  "Derechos de autor 2025 Rosangela Yanet Coronado Rivera, Ana Noelia Martinez Valdivia ",
+  "Licencia Derechos de autor 2025 Rosangela Yanet Coronado Rivera, Ana Noelia Martinez Valdivia Esta obra está bajo una licencia internacional Creative Commons Atribución 4.0."
+ ],
+ "idioma_principal": "es",
+ "indice": [],
+ "vueltas": {},
+ "contenido": [
+  "\r\n\r\n",
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "a",
+    {
+     "id": "t-_Hlk123178705"
+    }
+   ],
+   [
+    "span",
+    {},
+    "ARQUITEK"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "EDICIÓN N°27",
+    [
+     "span",
+     {},
+     "   "
+    ],
+    "| ",
+    [
+     "a",
+     {
+      "id": "t-_Hlk139134701"
+     },
+     "Enero - Junio 202"
+    ],
+    "4\r\n| Edición online ISSN-2617-0892"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    "DOI: "
+   ],
+   [
+    "a",
+    {
+     "id": "t-_Hlk139413149"
+    }
+   ],
+   [
+    "a",
+    {
+     "href": "https://doi.org/10.47796/ra.2025i27%0d"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {
+       "lang": "en"
+      },
+      "https://doi.org/10.47796/ra.2025i2"
+     ]
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "7"
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "a",
+    {
+     "id": "t-_heading-h-gjdgxs"
+    }
+   ],
+   [
+    "a",
+    {
+     "id": "t-_heading-h-z64p9x4yiaqu"
+    }
+   ],
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    [
+     "span",
+     {},
+     " "
+    ]
+   ],
+   [
+    "span",
+    {},
+    "Refugios verdes: Integrando la biofilia en los centros de emergencia\r\npara mujeres"
+   ],
+   [
+    "a",
+    {
+     "id": "t-_ftnref1",
+     "href": "#t-_ftn1"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       [
+        "span",
+        {},
+        [
+         "b",
+         {},
+         [
+          "span",
+          {},
+          "[1]"
+         ]
+        ]
+       ]
+      ]
+     ]
+    ]
+   ],
+   [
+    "span",
+    {}
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    " "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    "Green shelters:\r\nIntegrating biophilia into women's emergency centers"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    " "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "figura",
+    {}
+   ],
+   [
+    "b",
+    {},
+    [
+     "span",
+     {
+      "lang": "en"
+     }
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "DOI: "
+   ],
+   [
+    "u",
+    {},
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     [
+      "a",
+      {
+       "href": "https://doi.org/10.47796/ra.2025i27.1201"
+      },
+      [
+       "span",
+       {},
+       "10.47796/ra.2025i27.1201"
+      ]
+     ]
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    " "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "PRESENTADO :",
+    [
+     "span",
+     {},
+     "  "
+    ],
+    "04.12.24"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "ACEPTADO",
+    [
+     "span",
+     {},
+     "     "
+    ],
+    ":",
+    [
+     "span",
+     {},
+     "  "
+    ],
+    "23.05.25"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    " "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "ROSANGELA YANET CORONADO RIVERA"
+   ],
+   [
+    "a",
+    {
+     "id": "t-_ftnref2",
+     "href": "#t-_ftn2"
+    },
+    [
+     "b",
+     {},
+     [
+      "sup",
+      {},
+      [
+       "span",
+       {},
+       [
+        "span",
+        {},
+        [
+         "b",
+         {},
+         [
+          "sup",
+          {},
+          [
+           "span",
+           {},
+           "[2]"
+          ]
+         ]
+        ]
+       ]
+      ]
+     ]
+    ]
+   ],
+   [
+    "b",
+    {},
+    [
+     "span",
+     {}
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Universidad Católica Santo Toribio de Mogrovejo, Lambayeque, Perú"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "ORCID: "
+   ],
+   [
+    "a",
+    {
+     "href": "https://orcid.org/0009-0006-0233-8808"
+    },
+    [
+     "span",
+     {},
+     "0009-0006-0233-8808"
+    ]
+   ],
+   [
+    "span",
+    {}
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "rosangeacoronadorivera@gmail.com"
+   ],
+   [
+    "span",
+    {}
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    " "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "ANA NOELIA MARTINEZ VALDIVIA"
+   ],
+   [
+    "a",
+    {
+     "id": "t-_ftnref3",
+     "href": "#t-_ftn3"
+    },
+    [
+     "b",
+     {},
+     [
+      "sup",
+      {},
+      [
+       "span",
+       {},
+       [
+        "span",
+        {},
+        [
+         "b",
+         {},
+         [
+          "sup",
+          {},
+          [
+           "span",
+           {},
+           "[3]"
+          ]
+         ]
+        ]
+       ]
+      ]
+     ]
+    ]
+   ],
+   [
+    "b",
+    {},
+    [
+     "span",
+     {}
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Universidad Privada de Tacna. Tacna, Perú"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "ORCID: "
+   ],
+   [
+    "a",
+    {
+     "href": "https://orcid.org/0000-0002-6867-3979"
+    },
+    [
+     "span",
+     {},
+     "0000-0002-6867-3979"
+    ]
+   ],
+   [
+    "span",
+    {}
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "anamartinezv@upt.pe"
+   ],
+   [
+    "span",
+    {}
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    " "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   " "
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   " "
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   "RESUMEN"
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   "El diseño biofílico, conceptualizado como la\r\nintegración sistemática de elementos naturales y la recreación de experiencias\r\nsensoriales que fortalecen la conexión entre los seres humanos y la naturaleza,\r\nse posiciona como una estrategia multidimensional para optimizar la calidad de\r\nvida de los usuarios en espacios habitables, especialmente en albergues. Este\r\nenfoque incorpora la maximización de la luz natural, la inclusión de áreas\r\nverdes, la utilización de materiales naturales y la facilitación de vínculos\r\nperceptivos con el entorno, con el propósito de generar ambientes que fomenten\r\nseguridad, tranquilidad y bienestar emocional. Desde la perspectiva de la\r\narquitectura y el diseño urbano, la consideración de estos principios resulta\r\nesencial para el desarrollo de espacios que no solo mejoren la experiencia del usuario,\r\nsino que también contribuyan a la sostenibilidad ambiental y al equilibrio\r\nsocioambiental de las comunidades. En este estudio se analizan las directrices\r\ncontemporáneas del diseño biofílico, evaluando su aplicación en diversos\r\nproyectos arquitectónicos y urbanos, y se identifican tanto sus beneficios como\r\nlos retos asociados a su implementación. El objetivo principal es profundizar\r\nen el entendimiento del diseño biofílico como una herramienta clave para\r\nafrontar los desafíos actuales en arquitectura y urbanismo, promoviendo una\r\nintegración armónica y funcional entre los individuos y su entorno construido."
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "b",
+    {},
+    [
+     "i",
+     {},
+     [
+      "span",
+      {},
+      "Palabras\r\nclave"
+     ]
+    ]
+   ],
+   [
+    "i",
+    {},
+    [
+     "span",
+     {},
+     ":"
+    ]
+   ],
+   [
+    "span",
+    {},
+    " "
+   ],
+   [
+    "span",
+    {},
+    "biofilia, naturaleza, conexión, interacción,\r\nrefugio"
+   ],
+   [
+    "span",
+    {}
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    " "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    "ABSTRACT"
+   ],
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    " "
+   ],
+   [
+    "span",
+    {
+     "lang": "en"
+    }
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "en"
+   },
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    "Biophilic design,\r\nconceptualized as the systematic integration of natural elements and the\r\nrecreation of sensory experiences that strengthen the connection between humans\r\nand nature, is positioned as a multidimensional strategy to optimize the\r\nquality of life of users in living spaces, especially in shelters. This approach\r\nincorporates the maximization of natural light, the inclusion of green areas,\r\nthe use of natural materials, and the facilitation of perceptual connections\r\nwith the environment, with the aim of generating environments that foster\r\nsafety, tranquility, and emotional well-being. From the perspective of\r\narchitecture and urban design, considering these principles is essential for\r\nthe development of spaces that not only improve the user experience but also\r\ncontribute to environmental sustainability and the socio-environmental balance\r\nof communities. This study analyzes contemporary guidelines for biophilic\r\ndesign, assessing its application in various architectural and urban projects,\r\nand identifies both its benefits and the challenges associated with its implementation.\r\nThe main objective is to deepen the understanding of biophilic design as a key\r\ntool for addressing current challenges in architecture and urban planning,\r\npromoting a harmonious and functional integration between individuals and their\r\nbuilt environment."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "b",
+    {},
+    [
+     "i",
+     {},
+     [
+      "span",
+      {
+       "lang": "en"
+      },
+      "Keywords"
+     ]
+    ]
+   ],
+   [
+    "i",
+    {},
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     ":"
+    ]
+   ],
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    " ",
+    [
+     "span",
+     {},
+     "biophilia, nature, connection, interaction,\r\nshelter"
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "b",
+    {},
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     " "
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   " "
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   "INTRODUCCIÓN"
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   "En las últimas décadas, la incorporación de\r\nelementos naturales en el diseño arquitectónico y urbano ha emergido como una\r\ntendencia significativa, sustentada en sus beneficios comprobados para la salud\r\ny el bienestar de los usuarios. Este enfoque, conocido como diseño biofílico,\r\nse fundamenta en la hipótesis de que los seres humanos mantienen una conexión\r\ninnata con la naturaleza, la cual puede ser estimulada y potenciada a través de\r\nla arquitectura ",
+   [
+    "b",
+    {},
+    "("
+   ],
+   "Simaika &\r\nSamways, 2010). El diseño biofílico integra componentes como la iluminación\r\nnatural, la vegetación, el agua y los materiales orgánicos, configurando\r\nentornos que no solo optimizan la estética, sino que también promueven la salud\r\nfísica y mental de sus ocupantes (Kellert et al., 2015)."
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   "La relevancia del diseño biofílico trasciende sus\r\nefectos directos sobre los usuarios, extendiéndose a la transformación de\r\nespacios que tradicionalmente han priorizado la funcionalidad y la seguridad en\r\ndetrimento del bienestar integral. La adopción de principios biofílicos permite\r\nconcebir ambientes holísticos y terapéuticos que apoyan procesos de\r\nrecuperación y mejoran la calidad de vida, particularmente en contextos\r\nsensibles como la atención a mujeres en situación de crisis. En la región de\r\nLambayeque, caracterizada por su riqueza cultural y biodiversidad, el diseño\r\nbiofílico representa una oportunidad estratégica para la reinvención y\r\nrevitalización de espacios de atención, como los Centros de Emergencia Mujer\r\n(en adelante, CEM)."
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   "La evidencia científica respalda la eficacia del\r\ndiseño biofílico. Ulrich (1984) demostró que pacientes hospitalizados con\r\nvistas a entornos naturales experimentan una recuperación postoperatoria más\r\nrápida, mientras que Kaplan et al. (1989) destacaron la capacidad de los\r\nespacios naturales para mitigar el estrés y mejorar el estado anímico. Ejemplos\r\nemblemáticos, como el Bosco Verticale en Milán, diseñado por Stefano Boeri, y\r\nel Aeropuerto Changi en Singapur, con sus jardines interiores y cascadas,\r\nilustran la integración exitosa de la biofilia en contextos urbanos para\r\ngenerar espacios saludables y sostenibles."
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   "No obstante, pese a la creciente documentación sobre\r\nlos beneficios del diseño biofílico en ámbitos hospitalarios y centros de\r\nbienestar, su aplicación en los CEM del departamento de Lambayeque permanece\r\nlimitada y escasamente explorada. Estos centros, que brindan refugio y apoyo a\r\nmujeres víctimas de violencia, podrían beneficiarse significativamente de un\r\ndiseño que fomente la sanación emocional y psicológica mediante la conexión con\r\nelementos naturales."
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   "Actualmente, los CEM suelen priorizar criterios\r\nfuncionales y de seguridad, relegando la consideración del entorno físico como\r\nfactor clave en la recuperación emocional y psicológica de las usuarias\r\n(González, 2019). Además, la literatura arquitectónica carece de estudios\r\nespecíficos que aborden la integración de la biofilia en estos espacios y su\r\nimpacto en el bienestar de las mujeres atendidas."
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   "Esta brecha investigativa representa una oportunidad\r\npara analizar cómo la incorporación de directrices biofílicas en el diseño de\r\nlos CEM en Lambayeque puede elevar la calidad espacial y favorecer el proceso\r\nde recuperación de las usuarias. La exploración de esta temática no solo\r\nenriquecerá el conocimiento interdisciplinario en arquitectura y salud, sino\r\nque también contribuirá de manera directa a mejorar la experiencia y calidad de\r\nvida de las mujeres que buscan refugio en estos centros. En este contexto, la\r\npresente investigación tiene como objetivo determinar las pautas de diseño\r\nbiofílico aplicables a los CEM en Lambayeque, desde una perspectiva\r\narquitectónica, con el fin de potenciar la calidad espacial y la experiencia de\r\nlas usuarias en estos espacios de atención y protección."
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "b",
+    {},
+    [
+     "span",
+     {},
+     "MATERIALES Y MÉTODOS"
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Esta\r\ninvestigación se desarrolló bajo un enfoque cualitativo mediante el diseño de\r\nestudio de caso, orientado a realizar un análisis preliminar y exhaustivo de\r\nlas características específicas de una población y un contexto determinados. La\r\nselección de este enfoque responde a la necesidad de comprender en profundidad\r\nlas particularidades del fenómeno arquitectónico en los CEM del departamento de\r\nLambayeque, a partir de la evaluación de variables clave que estructuran el\r\nestudio."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Se\r\nidentificaron dos variables principales que sustentan el marco analítico de la\r\ninvestigación: "
+   ],
+   [
+    "i",
+    {},
+    [
+     "span",
+     {},
+     "las ",
+     [
+      "b",
+      {},
+      [
+       "span",
+       {},
+       [
+        "span",
+        {
+         "id": "t-121354498"
+        }
+       ]
+      ]
+     ],
+     [
+      "span",
+      {},
+      "directrices de diseño biofílico"
+     ]
+    ]
+   ],
+   [
+    "span",
+    {},
+    " y "
+   ],
+   [
+    "i",
+    {},
+    [
+     "span",
+     {},
+     "el ",
+     [
+      "b",
+      {},
+      [
+       "span",
+       {},
+       [
+        "span",
+        {
+         "id": "t-995696058"
+        }
+       ]
+      ]
+     ],
+     [
+      "span",
+      {},
+      "espacio arquitectónico"
+     ]
+    ]
+   ],
+   [
+    "span",
+    {},
+    ". La primera variable se centra en la\r\nintegración sistemática de elementos naturales —como luz natural, vegetación y\r\nmateriales orgánicos— en los entornos construidos, con el propósito de\r\npotenciar el bienestar y la conexión emocional de los usuarios con la\r\nnaturaleza. La segunda variable aborda la configuración espacial y la\r\norganización funcional de los ambientes construidos, considerando criterios de\r\nfuncionalidad, estética y sostenibilidad ambiental."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Estas\r\nvariables resultan fundamentales para abordar los retos específicos que\r\nenfrentan los CEM en Lambayeque, donde las deficiencias en el diseño espacial y\r\nla ausencia de elementos biofílicos pueden impactar negativamente en el\r\nbienestar psicológico de las usuarias y en la eficacia de los servicios\r\nbrindados."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "La\r\ninvestigación se estructuró en tres fases secuenciales, cada una de las cuales\r\naporta insumos esenciales para el desarrollo de la siguiente, garantizando un\r\nproceso riguroso y coherente. La primera fase consistió en el diagnóstico y\r\nanálisis de las condiciones actuales de los tres CEM seleccionados: CEM\r\nComisaría José Leonardo Ortiz, CEM Regular Chiclayo y CEM Regular La Victoria.\r\nLa segunda fase implicó la revisión y sistematización de directrices biofílicas\r\naplicables al contexto arquitectónico de los centros de emergencia. Finalmente,\r\nla tercera fase se orientó a la formulación de una propuesta de lineamientos\r\nbiofílicos adaptados a las particularidades de los CEM estudiados, con miras a\r\nmejorar la calidad espacial y la experiencia de las usuarias."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "DESARROLLO"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "La presente\r\ninvestigación se desarrolló en tres fases consecutivas, orientadas a evaluar y\r\nproponer mejoras arquitectónicas basadas en el diseño biofílico para los\r\nCentros de Emergencia Mujer (CEM) del departamento de Lambayeque. En la primera\r\nfase de análisis espacial y funcional de las infraestructuras existentes, se\r\nrealizó una revisión exhaustiva de las condiciones espaciales de tres\r\ninfraestructuras correspondientes a los CEM ubicados en Chiclayo, José Leonardo\r\nOrtiz y La Victoria. El objetivo principal fue evaluar el grado de conformidad\r\nde dichas instalaciones con la normativa vigente, así como la presencia y\r\nadecuación de los espacios específicos requeridos para la atención de usuarias."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Para\r\nestructurar el análisis, se adoptaron dos dimensiones conceptuales\r\nfundamentadas en el estudio de Aliaga y Ayuque (2016) aplicado al CEM en\r\nHuancayo: criterios funcionales y criterios contextuales. La dimensión\r\nfuncional se evaluó mediante indicadores específicos como distribución\r\nespacial, zonificación y circulación interna, mientras que la dimensión\r\ncontextual consideró variables urbanas tales como el sistema vial y el uso del\r\nsuelo circundante. Esta aproximación permitió establecer una relación integral\r\nentre el contexto urbano y la configuración arquitectónica de las\r\ninstalaciones."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "La\r\nrecolección de datos se efectuó mediante fichas técnicas de observación, que\r\nincorporaron listas de verificación diseñadas para documentar y analizar\r\naspectos arquitectónicos relevantes. Se emplearon planos arquitectónicos y\r\nregistros fotográficos para sustentar el análisis espacial y funcional.\r\nPosteriormente, se utilizó una ficha técnica de síntesis para contrastar y\r\nconsolidar la información obtenida con respecto a los indicadores definidos.\r\nEste proceso permitió identificar tres hallazgos clave: el porcentaje de\r\naccesibilidad en función de los usos, el nivel de integración vial y los usos\r\npredominantes en el entorno, así como la accesibilidad del área a través de la\r\nred vial circundante."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "En la\r\nsegunda fase de análisis comparativo de infraestructuras análogas con enfoque\r\nbiofílico, se realizó un análisis contrastivo de tres infraestructuras análogas\r\norientadas a la acogida y protección de mujeres: la Casa Albergue Kwieco\r\n(Tanzania), la Casa Albergue en Ecuador y el Refugio para Víctimas de Violencia\r\nen México. El propósito fue identificar directrices de diseño biofílico\r\naplicables a edificaciones de acogida, con el fin de fundamentar propuestas de\r\nmejora para los CEM estudiados."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Este\r\nanálisis se estructuró con base en el marco teórico propuesto por Browning\r\n(2008) en su obra ",
+    [
+     "i",
+     {},
+     "Diseño biofílico"
+    ],
+    ", que conceptualiza la\r\nintegración de la naturaleza en los entornos construidos como medio para\r\noptimizar el bienestar humano y la sostenibilidad ambiental. Se definieron tres\r\ndimensiones analíticas: naturaleza en el espacio, naturaleza del espacio y\r\nanalogías naturales, orientadas a explorar la aplicabilidad efectiva de estos\r\nconceptos en el diseño arquitectónico contemporáneo."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "La\r\nrecopilación y análisis de datos se realizaron mediante fichas técnicas de\r\nestudio causal, evaluando biofílicamente las infraestructuras seleccionadas.\r\nEste proceso permitió identificar estrategias específicas que potencian la\r\nconexión con la naturaleza en los entornos construidos, contribuyendo a la\r\ngeneración de espacios más saludables, inspiradores y sostenibles. La\r\ntriangulación de datos mediante fichas de observación facilitó la\r\nidentificación de tres hallazgos relevantes: la correlación entre percepción\r\nespacial y presencia de elementos naturales; la correspondencia entre uso\r\nfuncional de los espacios interiores y la incorporación adecuada de elementos\r\nbiofílicos; y la influencia del diseño espacial en la sensación térmica y el\r\nconfort ambiental de los usuarios."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "En la fase\r\nfinal, se desarrollaron directrices de diseño biofílico orientadas a fortalecer\r\nlos criterios funcionales y ambientales en los tres CEM del departamento de\r\nLambayeque, con el objetivo de generar entornos que impacten positivamente en\r\nel bienestar físico, emocional y psicológico de las usuarias. Para fundamentar\r\nestas propuestas, se consideraron las conceptualizaciones que Kellert et al.\r\n(2011) brinda en su artículo “Biophilia, Salud y Bienestar”, donde analiza\r\nestrategias para la incorporación de elementos naturales en el diseño\r\narquitectónico y urbano. Entre estas estrategias se incluyen la maximización de\r\nla iluminación natural, la generación de vistas hacia entornos naturales, el\r\nuso de materiales orgánicos y la creación de espacios verdes. Heerwagen (2009)\r\nconcluye que el diseño biofílico constituye una herramienta eficaz para\r\nreconectar a las personas con la naturaleza, promoviendo un bienestar integral\r\ny una mejor calidad de vida, especialmente en contextos urbanos densamente\r\npoblados."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "La\r\nrecolección y análisis de datos en esta fase se realizó mediante observación\r\nestructurada, utilizando hojas de observación adaptadas que incorporaron listas\r\nde verificación, cartografía y registros fotográficos. Estas herramientas\r\npermitieron una comprensión profunda y visual de los espacios estudiados,\r\nfacilitando la identificación de patrones, características y oportunidades\r\nespecíficas para la integración de elementos biofílicos en las infraestructuras\r\nanalizadas."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "RESULTADOS\r\nY DISCUSIÓN"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "El análisis\r\nintegral de las infraestructuras que conforman la red de Centros de Emergencia\r\nMujer (CEM) en el departamento de Lambayeque permitió evaluar el estado actual\r\nde estas instalaciones, así como comprender su funcionamiento y la distribución\r\nespacial de sus ambientes. Este diagnóstico facilitó la identificación de las\r\nnecesidades específicas de las usuarias. Se determinó que los tres CEM cumplen\r\nparcialmente con las características arquitectónicas y funcionales requeridas.\r\nEntre ellos, el Centro de Emergencia Mujer de La Victoria presenta la mayor\r\nconformidad, destacando por su mejor accesibilidad tanto vehicular como\r\npeatonal, siendo esta última de especial relevancia para las usuarias. Además,\r\nel entorno del CEM La Victoria se caracteriza por una mayor presencia de áreas\r\nresidenciales y recreativas, lo que contribuye a un ambiente más propicio para\r\nel bienestar y la recuperación emocional de las víctimas atendidas."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    " "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "i",
+    {},
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     " "
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  "\r\n\r\n",
+  [
+   "table",
+   {},
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {
+      "colspan": "4"
+     },
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {
+        "lang": "en"
+       },
+       "Tabla 1",
+       [
+        "i",
+        {},
+        "\r\n  "
+       ]
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "i",
+       {},
+       [
+        "span",
+        {
+         "lang": "en"
+        },
+        "Cuadro\r\n  de doble entrada de los Centros de Emergencia Mujer analizados"
+       ]
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        " "
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       " "
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "C"
+       ]
+      ],
+      [
+       "span",
+       {},
+       "E"
+      ],
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "M\r\n  JLO"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "CEM CHICLAYO"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "CEM LA VICTORIA"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Fortalezas "
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "La ubicación de la infraestructura permite mejor\r\n  accesibilidad. "
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "La ubicación de la infraestructura permite mejor\r\n  accesibilidad. "
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "La ubicación de la infraestructura\r\n  permite accesibilidad peatonal. "
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Oportunidades "
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Está ubicado dentro de una institución policial. "
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Trabaja de manera independiente y se basa en las\r\n  necesidades del usuario. "
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Trabaja de manera independiente y se basa en las\r\n  necesidades del usuario. "
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Debilidades "
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "No cuenta con espacios adecuados para resguardar\r\n  personas. "
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Infraestructura inadecuada para albergar a los\r\n  usuarios. "
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Infraestructura inadecuada para albergar a los usuarios.\r\n  "
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Amenazas "
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Situado en un entorno comercial y muy ruidoso. "
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Situado en un entorno comercial y muy ruidoso. "
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Situado en un entorno recreativo cercano, no\r\n  brinda tranquilidad al usuario. "
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {
+      "colspan": "4"
+     },
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "i",
+       {},
+       [
+        "span",
+        {},
+        "Nota."
+       ]
+      ],
+      [
+       "span",
+       {},
+       "\r\n  Elaborado a partir de los instrumentos aplicados de ficha de campo. "
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n"
+  ],
+  "\r\n\r\n",
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "i",
+    {},
+    [
+     "span",
+     {},
+     " "
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "i",
+    {},
+    [
+     "span",
+     {},
+     " "
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Aliaga y\r\nAyuque (2016) sostienen que el Estado no proporciona un respaldo adecuado a los\r\nCEM, limitando su función principalmente a la resolución de aspectos legales y\r\na la orientación psicológica. Según estos autores, los recursos disponibles\r\nresultan insuficientes e inapropiados para atender integralmente a las\r\nvíctimas. Esta afirmación se corrobora con los resultados obtenidos en el\r\npresente estudio, específicamente en el análisis de las instalaciones de los\r\nCEM en el departamento de Lambayeque, donde se evidencia un déficit\r\nsignificativo en infraestructuras que cuenten con áreas adecuadas para la\r\npronta recuperación física y emocional de las usuarias. En este sentido, es fundamental\r\nque dichas edificaciones ofrezcan un ambiente de tranquilidad, lo cual implica\r\nsu ubicación preferente en zonas residenciales con entornos seguros y\r\naccesibilidad adecuada."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Por otro\r\nlado, Parsaee (2021) enfatiza la importancia de la conexión visual entre los\r\nocupantes y el entorno natural exterior, destacando que la distribución\r\nespacial y el acceso visual a través de ventanas influyen directamente en la\r\npercepción y bienestar de los usuarios. Este enfoque resalta la relevancia de\r\nun diseño arquitectónico que facilite dicha relación para promover la\r\nrecuperación emocional. En concordancia con este planteamiento, el análisis de\r\nlos CEM en Lambayeque revela diferencias significativas en cuanto a su\r\nubicación y entorno inmediato: los CEM ubicados en José Leonardo Ortiz y\r\nChiclayo se encuentran en sectores comerciales y de alta dinámica vial, lo que\r\nlimita la interacción positiva entre el espacio interior y el entorno exterior,\r\nafectando potencialmente la experiencia de las usuarias. En contraste, el CEM\r\nde La Victoria está situado en una zona predominantemente residencial y\r\nrecreativa, lo que contribuye a generar un ambiente más propicio para el\r\nbienestar y la estadía adecuada de las víctimas. Estos hallazgos subrayan la\r\nnecesidad de considerar tanto la ubicación estratégica como el diseño biofílico\r\nen la planificación y mejora de los CEM, con el fin de optimizar las\r\ncondiciones físicas y emocionales de las personas atendidas."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "El análisis\r\nde modelos análogos en los que se ha implementado el diseño biofílico ha\r\npermitido identificar y comprender los lineamientos aplicados en\r\ninfraestructuras destinadas a la atención de personas vulnerables. Este enfoque\r\nfacilitó establecer una relación directa entre las necesidades específicas de\r\nlos usuarios y los espacios arquitectónicos requeridos para el desarrollo\r\nóptimo de sus actividades. Para ello, se emplearon fichas de análisis\r\ncomparativo de referentes, que sistematizan y describen casos relevantes,\r\npermitiendo una evaluación rigurosa de los elementos biofílicos presentes. "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "La revisión\r\ndetallada de cada referente arquitectónico posibilitó la identificación de\r\ncomponentes esenciales para la integración de la naturaleza en el entorno\r\nconstruido, lo cual es fundamental para promover el bienestar físico y\r\nemocional de los ocupantes. En particular, se seleccionaron edificaciones con\r\nfunción de refugio para personas en situación de vulnerabilidad, donde se\r\nevidenció la aplicación efectiva de lineamientos biofílicos. Estos casos serán\r\npresentados y analizados a continuación, con el propósito de fundamentar\r\npropuestas de mejora para los CEM en Lambayeque. Este análisis comparativo no\r\nsolo contribuye a validar la pertinencia del diseño biofílico en contextos de\r\nacogida, sino que también ofrece una base sólida para adaptar y contextualizar\r\ndichas estrategias en función de las condiciones y necesidades locales. Así, se\r\nevidencia que la incorporación consciente de elementos naturales y la\r\nconfiguración espacial orientada a la conexión con el entorno pueden potenciar\r\nsignificativamente la calidad de los espacios y la experiencia de sus usuarios."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    " "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "i",
+    {},
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      " "
+     ]
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  "\r\n\r\n",
+  [
+   "table",
+   {},
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {
+      "colspan": "2"
+     },
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Tabla 2",
+       [
+        "i",
+        {},
+        "\r\n  "
+       ]
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "i",
+       {},
+       [
+        "span",
+        {},
+        "Patrones de diseño biofílico "
+       ]
+      ],
+      [
+       "span",
+       {
+        "lang": "en"
+       }
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {
+      "colspan": "2"
+     },
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "Patrones de diseño biofílico",
+        [
+         "span",
+         {}
+        ]
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {
+      "rowspan": "8"
+     },
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "Naturaleza en el espacio"
+       ]
+      ],
+      [
+       "span",
+       {}
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        " "
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Conexión\r\n  visual con la naturaleza ",
+       [
+        "b",
+        {},
+        [
+         "span",
+         {}
+        ]
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Conexión\r\n  no visual con la naturaleza ",
+       [
+        "b",
+        {},
+        [
+         "span",
+         {}
+        ]
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Estímulos\r\n  sensoriales no rítmicos ",
+       [
+        "b",
+        {},
+        [
+         "span",
+         {}
+        ]
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Variaciones\r\n  térmicas y de corrientes de aire ",
+       [
+        "b",
+        {},
+        [
+         "span",
+         {}
+        ]
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Presencia\r\n  de Agua ",
+       [
+        "b",
+        {},
+        [
+         "span",
+         {}
+        ]
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Luz\r\n  dinámica difusa ",
+       [
+        "b",
+        {},
+        [
+         "span",
+         {}
+        ]
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Conexión\r\n  con sistemas naturales ",
+       [
+        "b",
+        {},
+        [
+         "span",
+         {}
+        ]
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Conexión\r\n  visual con la naturaleza ",
+       [
+        "b",
+        {},
+        [
+         "span",
+         {}
+        ]
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {
+      "rowspan": "2"
+     },
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "Analogías naturales"
+       ]
+      ],
+      [
+       "span",
+       {}
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        " "
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Conexión\r\n  de los materiales con la naturaleza ",
+       [
+        "b",
+        {},
+        [
+         "span",
+         {}
+        ]
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Complejidad\r\n  y orden ",
+       [
+        "b",
+        {},
+        [
+         "span",
+         {}
+        ]
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {
+      "rowspan": "4"
+     },
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "Naturaleza del espacio "
+       ]
+      ],
+      [
+       "span",
+       {}
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        " "
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Panorama ",
+       [
+        "b",
+        {},
+        [
+         "span",
+         {}
+        ]
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Refugio ",
+       [
+        "b",
+        {},
+        [
+         "span",
+         {}
+        ]
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Misterio ",
+       [
+        "b",
+        {},
+        [
+         "span",
+         {}
+        ]
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Riesgo /\r\n  Peligro ",
+       [
+        "b",
+        {},
+        [
+         "span",
+         {}
+        ]
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {
+      "colspan": "2"
+     },
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "i",
+       {},
+       [
+        "span",
+        {},
+        " "
+       ]
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "i",
+       {},
+       [
+        "span",
+        {},
+        "Nota."
+       ]
+      ],
+      [
+       "span",
+       {},
+       " Elaborado a partir de los\r\n  instrumentos aplicados de ficha de campo. "
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n"
+  ],
+  "\r\n\r\n",
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    " "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Estos\r\npatrones constituyen un marco integral para el diseño biofílico, orientado a\r\ngenerar entornos construidos que potencien la conexión física, visual y\r\nemocional con la naturaleza, favoreciendo así la salud, el bienestar y la\r\nresiliencia de sus ocupantes. A partir de estos patrones, se establecieron\r\nlineamientos específicos de diseño biofílico aplicables a los CEM del\r\ndepartamento de Lambayeque. En este proceso, se consideraron todos los\r\nindicadores previamente presentados, realizando una selección juiciosa en\r\nfunción de las características y requerimientos de la nueva infraestructura\r\ndonde serán implementados. Finalmente, los lineamientos de diseño biofílico\r\npropuestos para estas instalaciones se resumen en la siguiente tabla."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    " "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "i",
+    {},
+    [
+     "span",
+     {},
+     " "
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  "\r\n\r\n",
+  [
+   "table",
+   {},
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Tabla 3",
+       [
+        "i",
+        {},
+        "\r\n  "
+       ]
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "i",
+       {},
+       [
+        "span",
+        {},
+        "Síntesis de los lineamientos del diseño biofílico"
+       ]
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        " "
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "Presencia\r\n  de elementos naturales y áreas verdes"
+       ]
+      ],
+      [
+       "span",
+       {},
+       " "
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Disminuye la tensión emocional, melancolía,\r\n  enojo, cansancio, presión arterial y frecuencia cardiaca; fomenta la agudeza\r\n  mental y genera un efecto beneficioso en la disposición al mejorar el ánimo, la\r\n  autoestima, la concentración y la recuperación de un individuo; y proporciona\r\n  sensaciones de felicidad (Ryan et al. 2014)."
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "Presencia\r\n  de cuerpos de agua"
+       ]
+      ],
+      [
+       "span",
+       {},
+       " "
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Reduce la frecuencia cardiaca, la presión\r\n  arterial y el nivel de estrés; proporciona calma, serenidad y paz; optimiza\r\n  la concentración y revitaliza la memoria, aclara la mente en momento de\r\n  confusión, purifica los pensamientos y genera emociones y sensaciones\r\n  positivas (Ryan et al. 2014)."
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "Ventilación\r\n  e iluminación natural"
+       ]
+      ],
+      [
+       "span",
+       {},
+       " "
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Disminuye la tensión, la monotonía, la\r\n  irritabilidad y la sensación de cansancio; proporciona una sensación de\r\n  seguridad y mejora la comodidad de los entornos (Ryan et al. 2014). "
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "Espacios\r\n  sensoriales"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Facilita el proceso de recuperación psicológica y\r\n  fisiológica, potencia el rendimiento cognitivo; proporciona vitalidad y\r\n  disminuye la presencia de hormonas "
+      ],
+      [
+       "span",
+       {},
+       "relacionadas",
+       [
+        "span",
+        {},
+        " con el estrés, la fatiga y la percepción del dolor.\r\n  Promueve la relajación a nivel físico, mental y espiritual, optimizando así\r\n  los mecanismos de curación y las funciones inmunológicas del usuario "
+       ]
+      ],
+      [
+       "span",
+       {},
+       "(Ryan et al. 2014)."
+      ],
+      [
+       "span",
+       {}
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "Formas\r\n  y patrones biomorfos"
+       ]
+      ],
+      [
+       "span",
+       {},
+       " "
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Optimiza el rendimiento cognitivo, disminuye la\r\n  tensión; suscita experiencias emocionales y sensaciones positivas al\r\n  proporcionar entornos cómodos, atractivos y cautivadores"
+      ],
+      [
+       "span",
+       {},
+       " (Ryan et al. 2014)."
+      ],
+      [
+       "span",
+       {}
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n"
+  ],
+  "\r\n\r\n",
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    " "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "La\r\npropuesta de lineamientos de diseño biofílico para la Red de Centros de\r\nEmergencia Mujer (CEM) del departamento de Lambayeque se orienta a fortalecer\r\ntanto los criterios funcionales como los medioambientales de estas\r\ninfraestructuras. Se definieron directrices concretas que resultan apropiadas\r\npara su implementación en los distintos entornos y áreas que conforman la red\r\nde CEM, con el objetivo de garantizar un confort óptimo para las usuarias y\r\nfacilitar su proceso de recuperación integral. Es fundamental que estas\r\nrecomendaciones trasciendan la mera funcionalidad y estética, enfocándose en la\r\ncapacidad de los espacios para promover el bienestar físico, emocional y\r\npsicológico de las mujeres que buscan asistencia y resguardo. En este sentido,\r\nestudios como el de Determan et al. (2019), quienes evaluaron durante un año\r\nespacios diseñados bajo principios biofílicos, evidencian que estos ambientes\r\npresentan una calidad superior hasta tres veces mayor en comparación con\r\nentornos convencionales, reflejándose en una reducción significativa del estrés\r\ny una mejora general en el bienestar de sus ocupantes."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Para\r\nalcanzar este objetivo, se estableció un proceso metodológico que incluye el\r\nanálisis arquitectónico de infraestructuras nacionales e internacionales, así\r\ncomo de modelos análogos previamente estudiados. Posteriormente, se realizó una\r\nsíntesis integral del análisis arquitectónico que permitió la formulación de\r\nlineamientos específicos de diseño biofílico adaptados a las condiciones\r\nlocales. Este enfoque garantiza que las propuestas estén sólidamente\r\nfundamentadas en la investigación y que las infraestructuras resultantes sean\r\nfuncionales, sostenibles y respetuosas con el entorno. En suma, la\r\nincorporación del diseño biofílico en los CEM representa una estrategia clave\r\npara mejorar la calidad de los espacios destinados a la atención de mujeres en\r\nsituación de vulnerabilidad, contribuyendo a su recuperación y bienestar\r\nintegral mediante entornos que conecten a las personas con la naturaleza."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    " "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "i",
+    {},
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      " "
+     ]
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  "\r\n\r\n",
+  [
+   "table",
+   {},
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {
+      "colspan": "2"
+     },
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "Tabla 4"
+       ]
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "i",
+       {},
+       [
+        "span",
+        {},
+        "Lineamientos\r\n  del diseño biofílico en la red de Centros de Emergencia Mujer en el\r\n  departamento de Lambayeque "
+       ]
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        " "
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {
+      "colspan": "2"
+     },
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "Lineamientos de diseño biofílico en los Centros de Emergencia Mujer"
+       ]
+      ],
+      [
+       "b",
+       {},
+       [
+        "i",
+        {},
+        [
+         "span",
+         {}
+        ]
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {
+      "rowspan": "3"
+     },
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "Accesibilidad"
+       ]
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "i",
+        {},
+        [
+         "span",
+         {},
+         " "
+        ]
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Seleccionar\r\n  ubicaciones cercanas a zonas residenciales para facilitar el acceso de las\r\n  personas que necesitan utilizar los servicios del Centro de Emergencia Mujer.\r\n  ",
+       [
+        "i",
+        {}
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Evitar la\r\n  ubicación de los Centros de Emergencia Mujer en áreas cercanas a vías\r\n  principales o de alto tráfico, ya que esto puede aumentar los niveles de\r\n  ruido y contaminación, afectando el bienestar de los usuarios. ",
+       [
+        "i",
+        {}
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Priorizar\r\n  ubicaciones cercanas a parques o áreas verdes, que ofrecen un entorno\r\n  tranquilo y naturalmente terapéutico para las personas que buscan refugio y\r\n  apoyo. ",
+       [
+        "i",
+        {}
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {
+      "rowspan": "3"
+     },
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "Circulaciones /"
+       ]
+      ],
+      [
+       "span",
+       {}
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "rutas"
+       ]
+      ],
+      [
+       "i",
+       {},
+       [
+        "span",
+        {}
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Establecer\r\n  ejes de circulación bien definidos para organizar el flujo de personas y\r\n  orientarlas fácilmente hacia diferentes áreas y servicios dentro del Centro\r\n  de Emergencia Mujer.",
+       [
+        "i",
+        {}
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Establecer\r\n  ejes de circulación bien definidos para organizar el flujo de personas y\r\n  orientarlas fácilmente hacia diferentes áreas y servicios dentro del Centro\r\n  de Emergencia Mujer.",
+       [
+        "i",
+        {}
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Incorporar\r\n  elementos biofílicos en las circulaciones internas, como vistas al exterior,\r\n  paredes verdes o iluminación natural, para promover una experiencia conectada\r\n  con la naturaleza y mejorar el bienestar de los usuarios.",
+       [
+        "i",
+        {}
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {
+      "rowspan": "3"
+     },
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "Configuración espacial"
+       ]
+      ],
+      [
+       "span",
+       {}
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "i",
+       {},
+       [
+        "span",
+        {},
+        " "
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Planificar\r\n  una disposición coherente y funcional de los volúmenes arquitectónicos,\r\n  asegurando una distribución eficiente de los espacios interiores y una\r\n  estética armoniosa en el conjunto del proyecto. ",
+       [
+        "i",
+        {}
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Incorporar\r\n  patios o espacios verdes que envuelvan el proyecto, proporcionando áreas al\r\n  aire libre para el descanso, la recreación y la conexión con la naturaleza. ",
+       [
+        "i",
+        {}
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Diseñar la\r\n  infraestructura de manera que haya una integración armoniosa entre las áreas\r\n  libres y construidas, creando una transición fluida entre el interior y el\r\n  exterior. ",
+       [
+        "i",
+        {}
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {
+      "rowspan": "3"
+     },
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "Relación"
+       ]
+      ],
+      [
+       "span",
+       {}
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "interior "
+       ]
+      ],
+      [
+       "span",
+       {},
+       "- ",
+       [
+        "b",
+        {},
+        "exterior"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Planificar la distribución de los\r\n  espacios de manera que se maximicen las conexiones visuales y sensoriales\r\n  entre los espacios interiores y exteriores, creando una sensación de\r\n  continuidad y expansión. "
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "i",
+       {},
+       [
+        "span",
+        {},
+        " "
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Diseñar\r\n  espacios interiores y exteriores con adaptabilidad en mente, permitiendo que\r\n  puedan ser reconfigurados según las necesidades y actividades de los\r\n  usuarios. ",
+       [
+        "i",
+        {}
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Integrar\r\n  elementos arquitectónicos, como puertas corredizas, ventanas panorámicas o\r\n  terrazas, que se puedan abrir hacia el exterior, permitiendo que los usuarios\r\n  accedan fácilmente a los espacios al aire libre y disfruten de vistas\r\n  panorámicas. ",
+       [
+        "i",
+        {}
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {
+      "rowspan": "2"
+     },
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "Iluminación"
+       ]
+      ],
+      [
+       "span",
+       {}
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "i",
+       {},
+       [
+        "span",
+        {},
+        " "
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Utilizar\r\n  tragaluces y ventanas estratégicamente ubicadas para maximizar la luz natural\r\n  y reducir la dependencia de la iluminación artificial. ",
+       [
+        "i",
+        {}
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Garantizar\r\n  la iluminación adecuada en áreas específicas como zonas de espera,\r\n  consultorios y pasillos para mantener un ambiente seguro y confortable en\r\n  todo momento. ",
+       [
+        "i",
+        {}
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {
+      "rowspan": "3"
+     },
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "Ventilación"
+       ]
+      ],
+      [
+       "span",
+       {}
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "i",
+       {},
+       [
+        "span",
+        {},
+        " "
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Priorizar\r\n  la ventilación natural en todos los espacios para mejorar la calidad del aire\r\n  y el bienestar de las mujeres. ",
+       [
+        "i",
+        {}
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Utilizar\r\n  materiales de construcción ecoamigables que permitan la transpiración de los\r\n  muros y contribuyan a mantener un ambiente fresco y confortable. ",
+       [
+        "i",
+        {}
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Diseñar\r\n  ventanas estratégicamente ubicadas para permitir la entrada de aire fresco y\r\n  promover la circulación natural. ",
+       [
+        "i",
+        {}
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {
+      "rowspan": "3"
+     },
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "programa "
+       ]
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "arquitectónico - social"
+       ]
+      ],
+      [
+       "span",
+       {}
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "i",
+       {},
+       [
+        "span",
+        {},
+        " "
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Diseñar\r\n  espacios multifuncionales que puedan adaptarse a diferentes actividades y\r\n  necesidades, como áreas de asesoramiento, atención médica, actividades\r\n  recreativas y espacios para los distintos usuarios. ",
+       [
+        "i",
+        {}
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Priorizar\r\n  la privacidad y la seguridad en el diseño de los espacios sociales,\r\n  asegurando que las mujeres se sientan cómodas y protegidas en todo momento. ",
+       [
+        "i",
+        {}
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Incorporar\r\n  elementos biofílicos como patios internos o jardines para crear entornos\r\n  tranquilos y relajantes que promuevan el bienestar emocional. ",
+       [
+        "i",
+        {}
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {
+      "rowspan": "3"
+     },
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "Programa "
+       ]
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "arquitectónico - servicios"
+       ]
+      ],
+      [
+       "span",
+       {}
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "i",
+       {},
+       [
+        "span",
+        {},
+        " "
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Diseñar\r\n  espacios de servicio eficientes y funcionales para actividades como\r\n  almacenamiento, lavandería y mantenimiento. ",
+       [
+        "i",
+        {}
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Priorizar\r\n  la accesibilidad y la seguridad en el diseño de los espacios de servicio,\r\n  asegurando que sean fáciles de usar y estén protegidos de intrusiones. ",
+       [
+        "i",
+        {}
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Integrar\r\n  elementos biofílicos como paredes verdes o techos verdes en los espacios de\r\n  servicio para mejorar la calidad del aire y crear un ambiente saludable. ",
+       [
+        "i",
+        {}
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {
+      "rowspan": "3"
+     },
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "Programa "
+       ]
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "arquitectónico - privado"
+       ]
+      ],
+      [
+       "span",
+       {}
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "i",
+       {},
+       [
+        "span",
+        {},
+        " "
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Diseñar\r\n  espacios privados, como dormitorios y salas de consulta, que ofrezcan\r\n  privacidad y comodidad a las mujeres que buscan refugio y apoyo. ",
+       [
+        "i",
+        {}
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Priorizar\r\n  la seguridad y la accesibilidad en el diseño de los espacios privados,\r\n  asegurando que sean seguros y fáciles de usar para todas las mujeres,\r\n  incluidas aquellas con necesidades especiales. ",
+       [
+        "i",
+        {}
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Integrar\r\n  elementos biofílicos, como plantas y luz natural, en los espacios privados\r\n  para crear ambientes tranquilos y relajantes. ",
+       [
+        "i",
+        {}
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n"
+  ],
+  "\r\n\r\n",
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    " "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    " "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "CONCLUSIONES\r\n"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "a",
+    {
+     "id": "t-_heading-h-30j0zll"
+    }
+   ],
+   [
+    "span",
+    {},
+    "Esta investigación ha identificado la\r\npresencia de tres Centros de Emergencia Mujer en el departamento de Lambayeque:\r\nun CEM Regular en Chiclayo, otro en La Victoria y un CEM Comisaría en José\r\nLeonardo Ortiz. El análisis arquitectónico detallado revela que ninguno de\r\nestos centros cumple integralmente con los estándares arquitectónicos\r\nnecesarios para optimizar la atención y el confort de las usuarias. Se evidencian\r\ndeficiencias significativas en la organización espacial, con circulaciones\r\nindirectas que dificultan la movilidad y accesibilidad; ambientes insuficientes\r\npara el desarrollo adecuado de las actividades diarias; y la carencia de patios\r\no espacios exteriores que faciliten la conexión con la naturaleza, un factor\r\nclave para el bienestar emocional de las mujeres atendidas. Estas limitaciones\r\narquitectónicas impactan negativamente en la eficacia del servicio, a pesar de\r\nla importancia social y funcional que estos centros desempeñan bajo la gestión\r\ndel Ministerio de la Mujer y Poblaciones Vulnerables."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "El estudio\r\ncomparativo con modelos análogos de refugios que incorporan diseño biofílico\r\n—como la Casa Albergue Kwieco en la selva, la Casa Albergue en Ecuador y el\r\nRefugio para Mujeres Víctimas de la Violencia en México— permitió identificar\r\nlineamientos de diseño que integran la conexión visual y no visual con la\r\nnaturaleza, estímulos sensoriales no rítmicos, variaciones térmicas, presencia\r\nde agua, luz dinámica difusa, patrones biomorfos y materiales naturales, entre\r\notros. Estos lineamientos no solo configuran los espacios físicos, sino que\r\ntambién modulan las experiencias sensoriales y emocionales de las ocupantes,\r\nfavoreciendo estados de calma, bienestar y recuperación psicoemocional."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "A partir de\r\nestos hallazgos, se propone un conjunto de lineamientos biofílicos específicos\r\npara su aplicación en los CEM de Lambayeque. Estos lineamientos constituyen una\r\noportunidad para mejorar sustancialmente tanto la calidad del tratamiento como\r\nla experiencia de las usuarias durante su estancia. Se enfatiza la creación de\r\nentornos que promuevan el bienestar integral, priorizando el confort físico y\r\nemocional, y reconociendo la conexión con la naturaleza como un elemento fundamental\r\nen el diseño arquitectónico de refugios. La incorporación de elementos\r\nnaturales —como vegetación, vistas exteriores maximizadas y materiales\r\nsostenibles—, junto con el diseño sensible a las emociones y sensaciones de las\r\nusuarias, permitirá generar espacios que no solo sean seguros y funcionales,\r\nsino que también inspiren calma, esperanza y resiliencia."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Finalmente,\r\nla implementación de lineamientos biofílicos en los CEM se proyecta como un\r\nmecanismo para elevar la calidad del servicio ofrecido, proporcionando un apoyo\r\nintegral y compasivo a mujeres en situación de vulnerabilidad en Lambayeque. Se\r\nrecomienda que futuras intervenciones arquitectónicas consideren estos\r\ncriterios para optimizar la funcionalidad, habitabilidad y dimensión emocional\r\nde los espacios, contribuyendo así a la eficacia social y terapéutica de los\r\ncentros."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "REFERENCIAS\r\nBIBLIOGRÁFICAS"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Aliaga, M., & Ayuque, F. (2016). Complejo para la atención de la\r\nmujer en estado de vulnerabilidad en la región de Huancavelica. "
+   ],
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    "Lima."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "en"
+   },
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    "Browning, S. R.\r\n(2008). Missing data imputation and haplotype phase inference for genome-wide\r\nassociation studies. ",
+    [
+     "i",
+     {},
+     "Human genetics"
+    ],
+    ", ",
+    [
+     "i",
+     {},
+     "124"
+    ],
+    ", 439-450."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    "Demers, C. M. H.,\r\n& Potvin, A. (2018). Erosion in architecture: a tactile design process\r\nfostering biophilia.  ",
+    [
+     "i",
+     {},
+     "Architectural Science Review"
+    ],
+    ", ",
+    [
+     "i",
+     {},
+     "60"
+    ],
+    "(4),\r\n325-342. "
+   ],
+   [
+    "a",
+    {
+     "href": "https://doi.org/10.1080/00038628.2017.1336982"
+    },
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "https://doi.org/10.1080/00038628.2017.1336982"
+    ]
+   ],
+   [
+    "span",
+    {
+     "lang": "en"
+    }
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "en"
+   },
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    "Determan, J., Akers,\r\nM. A., Albright, T., Browning, B., Martin-Dunlop, C., Archibald, P., &\r\nCaruolo, V. (2019). The impact of biophilic learning spaces on student\r\nsuccess. ",
+    [
+     "i",
+     {},
+     "American Institute of Architecture, Building Research\r\nKnowledgebase"
+    ],
+    "."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Gili, R. (2020). Biofilia, impacto y aplicación en arquitectura\r\nsanitaria. Escola Tècnica Superior d’Arquitectura de Barcelona - Grau En\r\nEstudis d’Arquitectura, 19. "
+   ],
+   [
+    "a",
+    {
+     "href": "https://upcommons.upc.edu/handle/2117/188618"
+    },
+    [
+     "span",
+     {},
+     "https://upcommons.upc.edu/handle/2117/188618"
+    ]
+   ],
+   [
+    "span",
+    {}
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Gonzáles, M. (2019). Abrigo para víctimas de violencia doméstica.\r\nArchdaily. Consultado el 03 de abril del 2024. "
+   ],
+   [
+    "a",
+    {
+     "href": "https://www.archdaily.com.br/br/895789/abrigo-paravitimas-de-violencia-domestica-amos-goldreich-architecture-plus-jacobs-yaniv-architects"
+    },
+    [
+     "span",
+     {},
+     "https://www.archdaily.com.br/br/895789/abrigo-paravitimas-de-violencia-domestica-amos-goldreich-architecture-plus-jacobs-yaniv-architects"
+    ]
+   ],
+   [
+    "span",
+    {},
+    "."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "en"
+   },
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    "Heerwagen, J.\r\n(2009). Biophilia, health, and well-being. ",
+    [
+     "i",
+     {},
+     "Restorative commons: Creating\r\nhealth and well-being through urban landscapes"
+    ],
+    ", 39-57."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "en"
+   },
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    "Kaplan, R., Kaplan,\r\nS., & Brown, T. (1989). Environmental preference: A comparison of four\r\ndomains of predictors. ",
+    [
+     "i",
+     {},
+     "Environment and behavior"
+    ],
+    ", ",
+    [
+     "i",
+     {},
+     "21"
+    ],
+    "(5),\r\n509-530."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "en"
+   },
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    "Kayıhan, K. S.,\r\nGüney, S. Ö., & Ünal, F. C. (2018). Biophilia as the Main Design Question\r\nin Architectural Design Studio Teaching. ",
+    [
+     "i",
+     {},
+     "Megaron"
+    ],
+    ", ",
+    [
+     "i",
+     {},
+     "13"
+    ],
+    "(1), 1–12."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "en"
+   },
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    "Kellert, S., &\r\nCalabrese, E. (2015). The practice of biophilic design. ",
+    [
+     "i",
+     {},
+     "London:\r\nTerrapin Bright LLC"
+    ],
+    ", ",
+    [
+     "i",
+     {},
+     "3"
+    ],
+    "(21), 2021-09."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "en"
+   },
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    "Kellert, S. R.,\r\nHeerwagen, J., & Mador, M. (2011). ",
+    [
+     "i",
+     {},
+     "Biophilic design: the theory,\r\nscience and practice of bringing buildings to life"
+    ],
+    ". John Wiley & Sons."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "en"
+   },
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    "Newman, P. (2018).\r\nBiophilic urbanism: a case study on Singapore. ",
+    [
+     "i",
+     {},
+     "Australian Planner"
+    ],
+    ", ",
+    [
+     "i",
+     {},
+     "51"
+    ],
+    "(1),\r\n47–65. "
+   ],
+   [
+    "a",
+    {
+     "href": "https://doi.org/10.1080/07293682.2013.790832"
+    },
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "https://doi.org/10.1080/07293682.2013.790832"
+    ]
+   ],
+   [
+    "span",
+    {
+     "lang": "en"
+    }
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "en"
+   },
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    "Parsaee, M., Demers,\r\nC. M. H., Potvin, A., Hébert, M., & Lalonde, J. F. (2021). Window View\r\nAccess in Architecture: Spatial Visualization and Probability Evaluations Based\r\non Human Vision Fields and Biophilia. "
+   ],
+   [
+    "i",
+    {},
+    [
+     "span",
+     {},
+     "Buildings"
+    ]
+   ],
+   [
+    "span",
+    {},
+    ", ",
+    [
+     "i",
+     {},
+     "11"
+    ],
+    "(627),\r\n627. "
+   ],
+   [
+    "a",
+    {
+     "href": "https://doi.org/10.3390/BUILDINGS11120627"
+    },
+    [
+     "span",
+     {},
+     "https://doi.org/10.3390/BUILDINGS11120627"
+    ]
+   ],
+   [
+    "span",
+    {}
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Ministerio de Vivienda, Construcción y Saneamiento. (2021). Guía de\r\nDiseño de Albergues Accesibles [Resolución Ministerial N.° 179-2021]. "
+   ],
+   [
+    "a",
+    {
+     "href": "https://cdn.www.gob.pe/uploads/document/file/1962492/Gu%C3%ADa%20de%20Dise%C3%B1o%20de%20Albergues%20Accesibles.pdf?v=1624651804"
+    },
+    [
+     "span",
+     {},
+     "https://cdn.www.gob.pe/uploads/document/file/1962492/Gu%C3%ADa%20de%20Dise%C3%B1o%20de%20Albergues%20Accesibles.pdf?v=1624651804"
+    ]
+   ],
+   [
+    "span",
+    {}
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Ministerio de la Mujer y Poblaciones Vulnerables. (2005). Ley que crea\r\nhogares de refugio temporal para las víctimas de violencia familiar [Resolución\r\nN.º 28236]. "
+   ],
+   [
+    "a",
+    {
+     "href": "https://www.mimp.gob.pe/files/direcciones/dgfc/diff/normatividad_nacional_violfamiliar_y_sexual/4_DSupremo_007-2005-MIMDES.pdf"
+    },
+    [
+     "span",
+     {},
+     "https://www.mimp.gob.pe/files/direcciones/dgfc/diff/normatividad_nacional_violfamiliar_y_sexual/4_DSupremo_007-2005-MIMDES.pdf"
+    ]
+   ],
+   [
+    "span",
+    {},
+    ". "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "en"
+   },
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    "Ryan, C. O.,\r\nBrowning, W. D., Clancy, J. O., Andrews, S. L., & Kallianpurkar, N. B.\r\n(2014). Biophilic design patterns: emerging nature-based parameters for health\r\nand well-being in the built environment. ",
+    [
+     "i",
+     {},
+     "ArchNet-IJAR: International\r\nJournal of Architectural Research"
+    ],
+    ", ",
+    [
+     "i",
+     {},
+     "8"
+    ],
+    "(2), 62."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "en"
+   },
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    "Simaika, J. P.,\r\n& Samways, M. J. (2010). Biophilia as a universal ethic for conserving\r\nbiodiversity. ",
+    [
+     "i",
+     {},
+     "Conservation Biology"
+    ],
+    ", ",
+    [
+     "i",
+     {},
+     "24"
+    ],
+    "(3), 903-906."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "en"
+   },
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    "Trachana, A., &\r\nSerbanoiu, I. G. (2020). Violence, memory and architecture. The\r\nmemoryobjectification approach into space of the last century’s violent events.\r\n"
+   ],
+   [
+    "span",
+    {},
+    "Arte, Individuo y Sociedad,\r\n32(3), 603–624. "
+   ],
+   [
+    "a",
+    {
+     "href": "https://doi.org/10.5209/ARIS.63557"
+    },
+    [
+     "span",
+     {},
+     "https://doi.org/10.5209/ARIS.63557"
+    ]
+   ],
+   [
+    "span",
+    {}
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "en"
+   },
+   [
+    "span",
+    {},
+    "Ulrich, G. D. (1984). "
+   ],
+   [
+    "i",
+    {},
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "A guide to chemical engineering process\r\ndesign and economics"
+    ]
+   ],
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    " (p. 295). "
+   ],
+   [
+    "span",
+    {},
+    "New York: Wiley."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    " "
+   ]
+  ],
+  "\r\n\r\n",
+  "\r\n\r\n",
+  [
+   "br",
+   {}
+  ],
+  "\r\n\r\n",
+  "\r\n\r\n",
+  "\r\n\r\n",
+  [
+   "span",
+   {
+    "id": "t-ftn1"
+   },
+   "\r\n\r\n",
+   [
+    "p",
+    {},
+    [
+     "a",
+     {
+      "id": "t-_ftn1",
+      "href": "#t-_ftnref1"
+     },
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       [
+        "span",
+        {},
+        [
+         "span",
+         {},
+         [
+          "span",
+          {},
+          "[1]"
+         ]
+        ]
+       ]
+      ]
+     ]
+    ],
+    [
+     "span",
+     {},
+     " "
+    ],
+    [
+     "span",
+     {},
+     "Investigación derivada de la tesis realizada para el título de\r\narquitecto."
+    ],
+    [
+     "span",
+     {}
+    ]
+   ],
+   "\r\n\r\n"
+  ],
+  "\r\n\r\n",
+  [
+   "span",
+   {
+    "id": "t-ftn2"
+   },
+   "\r\n\r\n",
+   [
+    "p",
+    {},
+    [
+     "a",
+     {
+      "id": "t-_ftn2",
+      "href": "#t-_ftnref2"
+     },
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       [
+        "span",
+        {},
+        [
+         "span",
+         {},
+         [
+          "span",
+          {},
+          "[2]"
+         ]
+        ]
+       ]
+      ]
+     ]
+    ],
+    [
+     "span",
+     {},
+     " "
+    ],
+    [
+     "span",
+     {},
+     "Bachiller\r\nen arquitectura de la Escuela de Arquitectura, Universidad Católica Santo\r\nToribio de Mogrovejo, Chiclayo, Lambayeque, Perú."
+    ],
+    [
+     "span",
+     {}
+    ]
+   ],
+   "\r\n\r\n"
+  ],
+  "\r\n\r\n",
+  [
+   "span",
+   {
+    "id": "t-ftn3"
+   },
+   "\r\n\r\n",
+   [
+    "p",
+    {},
+    [
+     "a",
+     {
+      "id": "t-_ftn3",
+      "href": "#t-_ftnref3"
+     },
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       [
+        "span",
+        {},
+        [
+         "span",
+         {},
+         [
+          "span",
+          {},
+          "[3]"
+         ]
+        ]
+       ]
+      ]
+     ]
+    ],
+    [
+     "span",
+     {},
+     " "
+    ],
+    [
+     "span",
+     {},
+     "Arquitecta,\r\nDoctora en Arquitectura y dinámicas urbanas, Docente de la Facultad de\r\nArquitectura y Urbanismo de la Universidad Privada de Tacna, Perú."
+    ]
+   ],
+   "\r\n\r\n",
+   [
+    "p",
+    {},
+    [
+     "span",
+     {},
+     " "
+    ]
+   ],
+   "\r\n\r\n"
+  ],
+  "\r\n\r\n",
+  "\r\n\r\n"
+ ]
+};

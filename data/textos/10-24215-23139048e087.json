@@ -1,0 +1,2748 @@
+{
+ "version": 1,
+ "recogido": "2026-10-18T11:43:17+00:00",
+ "doi": "10.24215/23139048e087",
+ "titulo": "Del antipositivismo a la historia de las ideas",
+ "revista": "2313-9048",
+ "numero": "v18-n18-2025",
+ "licencia": {
+  "codigo": "by-nc-sa",
+  "nombre": "CC BY-NC-SA 4.0",
+  "nombre_completo": "Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional",
+  "url": "https://creativecommons.org/licenses/by-nc-sa/4.0",
+  "url_legal": "https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.es"
+ },
+ "fuente": {
+  "url": "https://perio.unlp.edu.ar/ojs/index.php/cps/article/download/8093/7474/36497?inline=1",
+  "formato": "HTML",
+  "plataforma": "ojs-galerada",
+  "pagina": "https://perio.unlp.edu.ar/ojs/index.php/cps/article/view/8093"
+ },
+ "autores_cita": [
+  {
+   "apellidos": "Galfione",
+   "nombre_pila": "María Carla",
+   "nombre": null
+  }
+ ],
+ "avisos_derechos": [
+  "Derechos de autor 2025 Cuadernos de H ideas",
+  "Licencia Derechos de autor 2025 Cuadernos de H ideas Esta obra está bajo una licencia internacional Creative Commons Atribución-NoComercial-CompartirIgual 4.0. La aceptación de un original por parte de la revista implica la cesión no exclusiva de los derechos patrimoniales de los/as autores/as en favor del editor, quien permite la reutilización, luego de su edición (postprint), bajo una Licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0) Acorde a estos términos, el material se puede compartir (copiar y redistribuir en cualquier medio o formato) y adaptar (remezclar, transformar y crear a partir del material otra obra), siempre que a) se cite la autoría y la fuente original de su publicación (revista y URL de la obra), b) no se use para fines comerciales y c) se mantengan los mismos términos de la licencia. La cesión de derechos no exclusivos implica que luego de su edición (postprint) en Cuadernos de H ideas las/os autoras/es pueden publicar su trabajo en cualquier idioma, medio y formato; en tales casos, se solicita que se consigne que el material fue publicado originalmente en esta revista. Tal cesión supone, también, la autorización de los/as autores/as para que el trabajo sea cosechado por SEDICI, el repositorio institucional de la Universidad Nacional de La Plata, y sea difundido en las bases de datos que el equipo editorial considere adecuadas para incrementar la visibilidad de la publicación y de sus autores/as. Asimismo, la revista incentiva a las/os autoras/es para que luego de su publicación en Cuadernos de H ideas depositen sus producciones en otros repositorios institucionales y temáticos, bajo el principio de que ofrecer a la sociedad la producción científica y académica sin restricciones contribuye a un mayor intercambio del conocimiento global."
+ ],
+ "idioma_principal": "es",
+ "indice": [],
+ "vueltas": {
+  "t-redalyc_314964008_ref17": "t-llamada-redalyc_314964008_ref17-1",
+  "t-fn1": "t-llamada-fn1-1",
+  "t-redalyc_314964008_ref1": "t-llamada-redalyc_314964008_ref1-1",
+  "t-redalyc_314964008_ref4": "t-llamada-redalyc_314964008_ref4-1",
+  "t-redalyc_314964008_ref24": "t-llamada-redalyc_314964008_ref24-1",
+  "t-fn2": "t-llamada-fn2-1",
+  "t-fn3": "t-llamada-fn3-1",
+  "t-fn4": "t-llamada-fn4-1",
+  "t-redalyc_314964008_ref11": "t-llamada-redalyc_314964008_ref11-1",
+  "t-fn5": "t-llamada-fn5-1",
+  "t-fn6": "t-llamada-fn6-1",
+  "t-redalyc_314964008_ref3": "t-llamada-redalyc_314964008_ref3-1",
+  "t-fn7": "t-llamada-fn7-1",
+  "t-fn8": "t-llamada-fn8-1",
+  "t-fn9": "t-llamada-fn9-1",
+  "t-redalyc_314964008_ref10": "t-llamada-redalyc_314964008_ref10-1",
+  "t-fn10": "t-llamada-fn10-1",
+  "t-redalyc_314964008_ref12": "t-llamada-redalyc_314964008_ref12-1",
+  "t-redalyc_314964008_ref9": "t-llamada-redalyc_314964008_ref9-1",
+  "t-fn11": "t-llamada-fn11-1",
+  "t-redalyc_314964008_ref5": "t-llamada-redalyc_314964008_ref5-1",
+  "t-fn12": "t-llamada-fn12-1",
+  "t-redalyc_314964008_ref8": "t-llamada-redalyc_314964008_ref8-1",
+  "t-redalyc_314964008_ref2": "t-llamada-redalyc_314964008_ref2-1",
+  "t-redalyc_314964008_ref14": "t-llamada-redalyc_314964008_ref14-1",
+  "t-redalyc_314964008_ref23": "t-llamada-redalyc_314964008_ref23-1",
+  "t-fn13": "t-llamada-fn13-1",
+  "t-redalyc_314964008_ref25": "t-llamada-redalyc_314964008_ref25-1",
+  "t-fn14": "t-llamada-fn14-1",
+  "t-redalyc_314964008_ref19": "t-llamada-redalyc_314964008_ref19-1",
+  "t-redalyc_314964008_ref20": "t-llamada-redalyc_314964008_ref20-1",
+  "t-fn15": "t-llamada-fn15-1",
+  "t-redalyc_314964008_ref21": "t-llamada-redalyc_314964008_ref21-1",
+  "t-redalyc_314964008_ref16": "t-llamada-redalyc_314964008_ref16-1",
+  "t-fn16": "t-llamada-fn16-1",
+  "t-redalyc_314964008_ref6": "t-llamada-redalyc_314964008_ref6-1",
+  "t-fn17": "t-llamada-fn17-1",
+  "t-fn18": "t-llamada-fn18-1",
+  "t-fn19": "t-llamada-fn19-1",
+  "t-redalyc_314964008_ref26": "t-llamada-redalyc_314964008_ref26-1",
+  "t-redalyc_314964008_ref18": "t-llamada-redalyc_314964008_ref18-1",
+  "t-redalyc_314964008_ref7": "t-llamada-redalyc_314964008_ref7-1",
+  "t-redalyc_314964008_ref15": "t-llamada-redalyc_314964008_ref15-1",
+  "t-redalyc_314964008_ref13": "t-llamada-redalyc_314964008_ref13-1",
+  "t-redalyc_314964008_ref22": "t-llamada-redalyc_314964008_ref22-1",
+  "t-redalyc_314964008_ref27": "t-llamada-redalyc_314964008_ref27-1",
+  "t-redalyc_314964008_ref28": "t-llamada-redalyc_314964008_ref28-1"
+ },
+ "contenido": [
+  [
+   "span",
+   {
+    "id": "t-MathJax_Message"
+   }
+  ],
+  "\r\n",
+  [
+   "span",
+   {
+    "id": "t-visor-cabecera"
+   },
+   "\r\n",
+   "\r\n",
+   [
+    "span",
+    {
+     "id": "t-logo-institucion"
+    },
+    "\r\n",
+    [
+     "figura",
+     {}
+    ]
+   ],
+   "\r\n",
+   [
+    "span",
+    {
+     "id": "t-logo-revista"
+    },
+    "\r\n",
+    [
+     "figura",
+     {}
+    ]
+   ],
+   "\r\n",
+   "\r\n"
+  ],
+  "\r\n",
+  [
+   "span",
+   {
+    "id": "t-articulo"
+   },
+   "\r\n",
+   [
+    "span",
+    {
+     "id": "t-front"
+    },
+    "\r\n",
+    [
+     "span",
+     {
+      "id": "t-articulo-categoria"
+     },
+     "\r\n",
+     [
+      "p",
+      {},
+      "Dossier"
+     ],
+     "\r\n"
+    ],
+    "\r\n",
+    [
+     "span",
+     {
+      "id": "t-articulo-meta"
+     },
+     "\r\n",
+     [
+      "p",
+      {},
+      "Del antipositivismo a la historia de las ideas. Benedetto Croce en la renovación conceptual de la filosofía en la Argentina"
+     ],
+     "\r\n",
+     [
+      "p",
+      {
+       "lang": "en"
+      },
+      "From Anti-Positivism to the History of Ideas. Benedetto Croce in the Conceptual Renewal of Philosophy in Argentina"
+     ],
+     "\r\n"
+    ],
+    "\r\n",
+    [
+     "span",
+     {
+      "id": "t-articulo-acerca"
+     },
+     "\r\n",
+     [
+      "span",
+      {
+       "id": "t-ficha-general"
+      },
+      "\r\n",
+      [
+       "span",
+       {
+        "id": "t-autores-articulo"
+       },
+       "\r\n",
+       "\r\n",
+       "\r\n",
+       [
+        "a",
+        {
+         "href": "https://orcid.org/0000-0002-1037-4925"
+        },
+        [
+         "figura",
+         {}
+        ]
+       ],
+       "  ",
+       [
+        "span",
+        {},
+        "María Carla"
+       ],
+       " ",
+       [
+        "span",
+        {},
+        "Galfione"
+       ],
+       " ",
+       [
+        "span",
+        {}
+       ],
+       [
+        "span",
+        {},
+        " carlagalfione@yahoo.com.ar"
+       ],
+       "\r\n",
+       "\r\n",
+       "\r\n",
+       [
+        "span",
+        {},
+        "Universidad Nacional de Córdoba / Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET)"
+       ],
+       ", ",
+       [
+        "span",
+        {},
+        "Argentina"
+       ],
+       "\r\n",
+       "\r\n",
+       "\r\n"
+      ],
+      "\r\n",
+      "\r\n",
+      [
+       "p",
+       {},
+       "\r\n",
+       [
+        "span",
+        {},
+        "Cuadernos de H ideas"
+       ],
+       "\r\n"
+      ],
+      "\r\n",
+      [
+       "p",
+       {},
+       "\r\n",
+       [
+        "span",
+        {},
+        "Universidad Nacional de La Plata, Argentina"
+       ],
+       "\r\n"
+      ],
+      "\r\n",
+      [
+       "p",
+       {},
+       "\r\n",
+       [
+        "span",
+        {},
+        "ISSN: "
+       ],
+       "1851-8206"
+      ],
+      "\r\n",
+      [
+       "p",
+       {},
+       "\r\n",
+       [
+        "span",
+        {},
+        "ISSN-e: "
+       ],
+       "2313-9048"
+      ],
+      "\r\n",
+      [
+       "p",
+       {},
+       "\r\n",
+       [
+        "span",
+        {},
+        "Periodicidad: "
+       ],
+       "Frecuencia continua"
+      ],
+      "\r\n",
+      [
+       "p",
+       {},
+       "\r\n",
+       [
+        "span",
+        {},
+        "vol.  18, "
+       ],
+       "núm.  18, ",
+       [
+        "span",
+        {
+         "id": "t-elocation-id"
+        },
+        "e087, "
+       ],
+       [
+        "span",
+        {},
+        "2024"
+       ],
+       "\r\n"
+      ],
+      "\r\n",
+      [
+       "p",
+       {},
+       "\r\n",
+       "direccion.publicaciones@perio.unlp.edu.ar",
+       "\r\n"
+      ],
+      "\r\n",
+      "\r\n",
+      [
+       "span",
+       {
+        "id": "t-articulo-product"
+       }
+      ],
+      "\r\n",
+      "\r\n",
+      [
+       "p",
+       {},
+       "\r\n",
+       [
+        "span",
+        {},
+        "Recepción: "
+       ],
+       " 30 abril  2024"
+      ],
+      "\r\n",
+      [
+       "p",
+       {},
+       "\r\n",
+       [
+        "span",
+        {},
+        "Aprobación: "
+       ],
+       " 26 septiembre  2024"
+      ],
+      "\r\n",
+      [
+       "p",
+       {},
+       "\r\n",
+       [
+        "span",
+        {},
+        "Publicación: "
+       ],
+       " 17 diciembre  2024"
+      ],
+      "\r\n",
+      [
+       "br",
+       {}
+      ],
+      "\r\n",
+      [
+       "br",
+       {}
+      ],
+      "\r\n",
+      "\r\n",
+      "\r\n",
+      [
+       "span",
+       {},
+       "URL: "
+      ],
+      [
+       "a",
+       {
+        "href": "https://portal.amelica.org/ameli/journal/31/314964008/"
+       },
+       "https://portal.amelica.org/ameli/journal/31/314964008/"
+      ],
+      "\r\n",
+      "\r\n",
+      "\r\n",
+      [
+       "span",
+       {},
+       "DOI: "
+      ],
+      [
+       "a",
+       {
+        "href": "https://doi.org/10.24215/23139048e087"
+       },
+       "https://doi.org/10.24215/23139048e087"
+      ],
+      "\r\n",
+      "\r\n",
+      "\r\n",
+      [
+       "p",
+       {}
+      ],
+      "\r\n",
+      "\r\n",
+      "\r\n",
+      "\r\n",
+      [
+       "a",
+       {
+        "href": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+       },
+       [
+        "figura",
+        {}
+       ],
+       [
+        "br",
+        {}
+       ],
+       "\r\n"
+      ],
+      "Esta obra está bajo una ",
+      [
+       "a",
+       {
+        "href": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+       },
+       "Licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional."
+      ],
+      "\r\n",
+      "\r\n",
+      "\r\n",
+      [
+       "p",
+       {}
+      ],
+      "\r\n"
+     ],
+     "\r\n",
+     [
+      "p",
+      {},
+      "\r\n",
+      [
+       "span",
+       {},
+       "Resumen:\r\n\t\t\t\t\t\t\t                           "
+      ],
+      [
+       "span",
+       {},
+       "La década\r\n de 1920 marca un quiebre contundente en el modo cómo se definió la \r\nfilosofía en la Argentina. Lo que entonces comenzaba a llamarse \r\n“filosofía” en las cátedras de la reciente Facultad de Filosofía y \r\nLetras de la Universidad de Buenos Aires, buscaba desmarcarse del modelo\r\n de las ciencias naturales para desplegar un perfil propio. Aunque antes\r\n pudiera hablarse ya de “filosofía”, fue recién entonces cuando comenzó a\r\n delinearse la posibilidad de postular su autonomía epistemológica. Ello\r\n suponía un profundo cambio conceptual."
+      ],
+      "\r\n"
+     ],
+     "\r\n",
+     [
+      "p",
+      {},
+      "\r\n",
+      [
+       "span",
+       {},
+       "Palabras clave: "
+      ],
+      "antipositivismo, filosofía argentina, universidad, Benedetto Croce.\r\n\t\t                         "
+     ],
+     "\r\n",
+     [
+      "p",
+      {
+       "lang": "en"
+      },
+      "\r\n",
+      [
+       "span",
+       {},
+       "Abstract:\r\n\t\t\t\t\t\t                           "
+      ],
+      [
+       "span",
+       {},
+       "The 1920s \r\nmarked a decisive break in the way philosophy was defined in Argentina. \r\nWhat was then beginning to be called “philosophy” in the chairs of the \r\nrecent Faculty of Philosophy and Letters of the University of Buenos \r\nAires, sought to dissociate itself from the model of the natural \r\nsciences to deploy a profile of its own. Although it was already \r\npossible to speak of “philosophy” before, it was only then that the \r\npossibility of postulating its epistemological autonomy began to be \r\noutlined. This implied a profound conceptual change."
+      ],
+      "\r\n"
+     ],
+     "\r\n",
+     [
+      "p",
+      {},
+      "\r\n",
+      [
+       "span",
+       {},
+       "Keywords: "
+      ],
+      "antipostivism, argentine philosophy, university, Benedetto Croce.\r\n                                "
+     ],
+     "\r\n"
+    ],
+    "\r\n"
+   ],
+   "\r\n",
+   [
+    "span",
+    {
+     "id": "t-articulo-body"
+    },
+    "\r\n",
+    [
+     "p",
+     {},
+     "Coriolano Alberini ubica el nombre de Benedetto Croce\r\n en lo que entiende es el inicio de la filosofía universitaria en \r\nArgentina, un momento, aunque más un proceso, signado por el \r\ncuestionamiento y abandono del positivismo como lógica a partir de la \r\ncual se define el saber filosófico. En sintonía con eso, suele contarse \r\nel nombre de Croce, junto con otros entre los que se destaca Bergson, \r\ncuando se historiza la filosofía en el país, sin embargo, no disponemos \r\nde indagaciones en las que se profundice esa presencia entre los autores\r\n y profesores de entonces. Hacia allí avanzamos en lo que sigue, aunque \r\nsin concentrarnos en un análisis en términos de recepción, ni intentando\r\n rastrear filológicamente qué pasajes de nuestros autores son \r\nreproducción o inspiración de la filosofía del italiano. Si nos interesa\r\n reparar en el modo en que Croce y sus definiciones fueron mencionadas y\r\n recuperadas por los intelectuales de esa época, ello se debe a que ese \r\ncontexto intelectual y filosófico en particular ayuda a comprender \r\nalgunos sentidos aún poco esclarecidos de esa definición que se \r\npretendía renovaba entonces el estudio y la producción filosófica."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "En función de la mención de Alberini, partimos del \r\nsupuesto de que ese aporte teórico operó como uno de los elementos \r\nprincipales de la novedad y nos concentramos en analizar cómo sucedió \r\nese proceso en términos conceptuales. Confiamos en que considerar qué se\r\n decía a partir de Croce, en qué contexto intelectual y en qué marco de \r\ndebates, permite comprender el perfil de esas definiciones. En esta \r\nlínea, ensayamos aquí un rastreo conceptual que nos permite dar sentido a\r\n algunas posiciones que se van instalando entre los profesores de la \r\nfilosofía de la Facultad de Filosofía y Letras (FFyL) de la Universidad \r\nde Buenos Aires (UBA) en el marco de una disputa teórica, que se traduce\r\n en un movimiento de la planta docente, algo a lo que nos hemos referido\r\n en otros trabajos (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964008_ref17",
+       "id": "t-llamada-redalyc_314964008_ref17-1"
+      },
+      "Galfione, 2021"
+     ],
+     ")."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Si la figura central que tomamos en lo que sigue es \r\nla de Coriolano Alberini, ello abreva en dos razones que responden a \r\nnuestro doble interés: por una parte, es uno de los profesores con mayor\r\n pregnancia a nivel institucional en su tiempo, y uno de los \r\nprotagonistas más destacados del recambio teórico que se da en la \r\ncarrera,",
+     [
+      "a",
+      {
+       "href": "#t-fn1",
+       "id": "t-llamada-fn1-1"
+      },
+      [
+       "sup",
+       {},
+       "1"
+      ]
+     ],
+     " pero además es el autor más \r\nrecuperado por las historias de la filosofía argentina escritas en el \r\npaís cuando tratan el período, sobre todo por las que buscan marcas \r\nlocales o regionales en el despliegue de este saber. En este último \r\nsentido, cabe notar que son varias las historias, e historizaciones \r\nparciales, de la filosofía argentina que señalan sostenidamente que en \r\nlos veinte y con Alberini se reconoce el momento fundacional de este \r\nsaber, con el desplazamiento de lo que se denomina “positivismo”. Esos \r\nrelatos, haciéndose eco de las aseveraciones de los actores estudiados, \r\naunque de la mano de los intentos de problematizar los modos de \r\nhistorización del saber filosófico en nuestro suelo, advierten que es \r\nentonces cuando pueden comenzar a percibirse ciertos rasgos identitarios\r\n para la filosofía y su historización. El abandono del positivismo, o el\r\n triunfo operado sobre él por las corrientes “antipositivistas”, \r\ncoincide en estas lecturas con la posibilidad de elaborar una filosofía \r\nya no deudora del original europeo, o, lo que es lo mismo, con el \r\ncomienzo de una ",
+     [
+      "span",
+      {},
+      "filosofía argentina"
+     ],
+     ", en un marco latinoamericano."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Sin reparar en que, de reconocer la influencia de \r\nCroce, el marco europeo seguiría operando aunque con otro tono, y sin \r\ndetenernos en el repaso de las múltiples cuestiones que se derivan de \r\nesta visión, lo que buscamos es, en cambio, preguntarnos cómo fue \r\nposible teóricamente correr el eje, poniendo en el centro de la escena \r\ndel saber filosófico la historicidad o situación de la que se deduce, \r\ncon quizás excesiva naturalidad, aquella idea de “filosofía argentina”. \r\nCuál es la operación teórica y la torsión lógica que habilita a pensar \r\nen estos nuevos términos que tanta influencia han ejercido en formas \r\nfilosóficas alternativas y críticas al canon occidental, y qué tan \r\npresente se vuelve al buscar modos otros de historizar este pensamiento."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Volviendo a la lectura que se hizo y aún se hace de \r\neste momento de la filosofía en el país –aunque cuesta dejar de notar la\r\n exclusividad que en esa consideración se da a lo que ocurría en la \r\nciudad capital y en La Plata–, se nota el predominio de un tono \r\ncelebratorio en los relatos, debido en parte a que quienes historizan se\r\n reconocen en la misma línea de los autores que sostienen la crítica al \r\npositivismo y se saben sus deudores, precisamente, en el modo de pensar \r\nla filosofía en el país. Entre ellos, varios son convocados en la \r\nedición de las obras de Alberini que hicieron las universidades de Cuyo y\r\n La Plata, ofreciendo allí una semblanza del autor. Al hacerlo, dejan en\r\n claro el lugar central que ocupó Alberini, que de algún modo sintetiza y\r\n habilita una mirada que lo excede. Así lo dice Rodolfo ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964008_ref1",
+       "id": "t-llamada-redalyc_314964008_ref1-1"
+      },
+      "Agoglia (1966)"
+     ],
+     " en el prólogo a ",
+     [
+      "span",
+      {},
+      "Problemas de la historia de las ideas filosóficas en la Argentina"
+     ],
+     " (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964008_ref4",
+       "id": "t-llamada-redalyc_314964008_ref4-1"
+      },
+      "Alberini, 1966"
+     ],
+     "):"
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "\r\n"
+    ],
+    [
+     "p",
+     {},
+     "La figura de Coriolano Alberini (1886-1960) abarca,\r\n y en buena medida domina con su presencia intelectual, más de un cuarto\r\n de siglo de vida universitaria argentina, desde el año 1918 en que \r\ninicia su actuación en la Facultad de Filosofía y Letras de la \r\nUniversidad de Buenos Aires, hasta su última aparición pública, como \r\nsecretario del Primer Congreso nacional de Filosofía celebrado en la \r\nciudad de Mendoza en el año 1949 (p. 7)."
+    ],
+    "\r\n",
+    [
+     "p",
+     {}
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Esa presencia intelectual se concentra en la carrera \r\nde filosofía, de la que fue egresado y profesor, aunque con importantes \r\nresonancias, tanto en otros ámbitos de producción y de definición \r\nfilosófica, cuanto en la facultad y en la universidad en general. Esto \r\núltimo quedaría evidenciado con su sostenido paso por el decanato de esa\r\n facultad y por el vice rectorado de la universidad. Aquel dominio se \r\ntraduce en lo que se considera “madurez de la filosofía argentina, como \r\nestudio serio y responsable, y marca el comienzo de una promoción \r\nintelectual que busca un cultivo riguroso y metódico de la disciplina” (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964008_ref1",
+       "id": "t-llamada-redalyc_314964008_ref1-2"
+      },
+      "Agoglia, 1966, p. 9"
+     ],
+     ").\r\n Esa idea de “comienzo” reaparece con insistencia, presentándose en el \r\nmarco de la disputa con la línea reinante hasta entonces. Norberto ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964008_ref24",
+       "id": "t-llamada-redalyc_314964008_ref24-1"
+      },
+      "Rodríguez Bustamante (1966)"
+     ],
+     ",\r\n por su parte, inscribe a Alberini en “un grupo destacado de cultores de\r\n la filosofía” que habría librado la batalla contra el positivismo (p. \r\n13).",
+     [
+      "a",
+      {
+       "href": "#t-fn2",
+       "id": "t-llamada-fn2-1"
+      },
+      [
+       "sup",
+       {},
+       "2"
+      ]
+     ],
+     "\r\n"
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Con la centralidad de Alberini, los historiadores \r\nacuerdan en ubicar allí un momento singular de nuestra filosofía, que en\r\n general es presentado como ciclo inaugural, y con ello destacan mucho \r\nmás el primado de ese espíritu de reacción contra el positivismo, que \r\nlas particularidades y matices internos al grupo o al conjunto de \r\nindividuos que llevaron adelante esta redefinición. Para profundizar en \r\nla compresión de lo que se entendió que era una renovación, retomamos \r\nese aspecto de la iniciativa, sin advertir matices particulares, en \r\nparte porque no confiamos en que ellos hagan aportes sustanciales. Nos \r\npermitimos, entonces, en lo que sigue, tomar los posicionamientos \r\nespecíficos de los diversos autores como partes que dialogan con el \r\nconjunto, generando un lenguaje común, aunque solo sea sistematizado por\r\n unos pocos. Junto con el nombre de Alberini, encontraremos el de \r\nJacinto Cuccaro, muy próximo a Alberini, también egresado de allí, en \r\n1921, con una presencia constante como docente de la facultad desde \r\n1923.",
+     [
+      "a",
+      {
+       "href": "#t-fn3",
+       "id": "t-llamada-fn3-1"
+      },
+      [
+       "sup",
+       {},
+       "3"
+      ]
+     ],
+     "\r\n"
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Tanto Alberini como Cuccaro son contundentes en la \r\nvaloración que hacen de la obra de Croce y de su significación \r\nhistórica. Como mencionamos, según el primero, el italiano no solo fue \r\nuna fuente de inspiración y de seducción personal, sino que tuvo \r\ndefinitiva influencia sobre toda una generación. No importaba ser \r\ncroceano, sino hacer filosofía, dice, identificando ambos términos. \r\nJunto con él, otros nombres colaboraron en la renovación, Bergson y \r\nRenouvier se destacan, pero es el de Croce el más recurrente y es \r\ntambién a este a quien se recurre al momento de elaborar una lectura \r\ncrítica de la filosofía de Bergson.",
+     [
+      "a",
+      {
+       "href": "#t-fn4",
+       "id": "t-llamada-fn4-1"
+      },
+      [
+       "sup",
+       {},
+       "4"
+      ]
+     ],
+     " Con el italiano, dice ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964008_ref11",
+       "id": "t-llamada-redalyc_314964008_ref11-1"
+      },
+      "Cuccaro (1918)"
+     ],
+     ",\r\n se formaba un “noble y profundo espíritu filosófico”, se encontraba \r\nallí el “culto a la verdad” que se estaba buscando (p. 45). Del mismo \r\nmodo, Cuccaro (2021) se aboca al estudio del pensamiento de Croce al \r\nrealizar su tesis para obtener el título de Doctor en Filosofía \r\n–entonces, título de grado–. Ese extenso trabajo, que cuenta con casi \r\ndoscientas páginas, se organiza en función de las diversas materias a \r\nlas que se abocó el italiano, intentando reconstruir su sistema. \r\nAsimismo, Cuccaro le dedica a este autor algunos artículos en revistas \r\nde la época, tales como ",
+     [
+      "span",
+      {},
+      "Verbum"
+     ],
+     " (1918) y ",
+     [
+      "span",
+      {},
+      "Humanidades"
+     ],
+     "\r\n (1922). En este caso particular, anotamos que Croce parece llegar de la\r\n mano de Gentile, pero también de Windelband y de Ruggiero. Los tres, \r\nlos dos últimos más como historiadores de la filosofía, son figuras muy \r\npróximas en sus lecturas.",
+     [
+      "a",
+      {
+       "href": "#t-fn5",
+       "id": "t-llamada-fn5-1"
+      },
+      [
+       "sup",
+       {},
+       "5"
+      ]
+     ],
+     "\r\n"
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Condiciones conceptuales para la filosofía"
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Siguiendo esas sugerencias, cabe reconocer el lugar \r\nsingular que ocupa el pensamiento de Croce entre los autores que \r\nmencionamos, siendo una base importante en el intento de torcer el \r\nsentido de la filosofía disponible entonces en la primera facultad de \r\nfilosofía del país. Lo que había que desplazar era tanto los resabios \r\ndel planteo moderno, cuanto las torsiones posteriores que se \r\nconcentraban en la articulación de este saber con el conocimiento \r\ncientífico, en el modelo que se fue gestando como propio de las ciencias\r\n biológicas. Las razones argüidas de tal necesidad eran epistemológicas,\r\n pero en última instancia teórico-prácticas. Probablemente aquellas se \r\npusieran al servicio de estas."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "En esa línea, uno de los motivos más recurrentes es \r\nla tematización de la relación entre libertad y necesidad, que se vuelve\r\n motivo fundante. Alberini reconoce la influencia de Croce precisamente \r\nen este punto. En 1955 publica un trabajo en que se ocupa de su \r\npensamiento y en el que pasa prolijamente en limpio lo que considera más\r\n significativo de aquella doctrina, subrayando la particularidad de su \r\naporte en este punto. Se trata de una tensión entre dos términos que \r\ncobran sentido de la mano de preocupaciones atinentes a la vida práctica\r\n y a la filosofía que la tematiza, pero que no pueden resolverse sin \r\nconsideraciones de tipo ontológico o metafísico y que se articulan \r\ncontundentemente en un planteo epistemológico. Al ponerlo en esos \r\ntérminos parece regresar de algún modo al pensamiento de Kant. Si bien \r\nCroce encontraba en Hegel a su interlocutor preferido, el marco del \r\ndebate, el modo cómo se llegaba al planteo y el escenario intelectual \r\nlocal conducen más la mirada al autor de la ",
+     [
+      "span",
+      {},
+      "Crítica de la razón pura"
+     ],
+     ".\r\n Este entonces oficiaba como el arquetipo de una filosofía que se \r\nimponía pensar su rol y su perfil, probablemente, gracias a la impronta \r\nque daba Alejandro Korn a la disciplina.",
+     [
+      "sup",
+      {},
+      [
+       "a",
+       {
+        "href": "#t-fn6",
+        "id": "t-llamada-fn6-1"
+       },
+       "6"
+      ]
+     ],
+     "Poner\r\n el foco del desarrollo en aquella dupla conceptual con largo despliegue\r\n en la filosofía occidental, libertad-necesidad, era también un modo de \r\nrevisar el dualismo kantiano y de reconciliar los términos de cara a un \r\nmovimiento que se esperaba ofreciera resultados contundentes para el \r\námbito de la filosofía práctica. Y en eso se encuentran los argentinos \r\ncon Croce, pero también con buena parte del neokantismo alemán, un \r\ndiálogo que el mismo Croce habilitaba."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "“Para Croce –dice ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964008_ref3",
+       "id": "t-llamada-redalyc_314964008_ref3-1"
+      },
+      "Alberini (1955)"
+     ],
+     "– el hombre no es un autómata, pero repudia la vieja doctrina arbitrista. Prefiere reemplazarla por su doctrina de la ",
+     [
+      "span",
+      {},
+      "unidad dialéctica"
+     ],
+     ",\r\n esto es, el hombre es libre sí, pero merced a su colaboración con la \r\n‘necesidad’” (p. 48), resolver ese meollo, comprender cómo y a costa de \r\nqué se logra la articulación, parece ser una de las preocupaciones \r\ncentrales de estos autores, haciendo de eso, no ya un asunto de Croce, \r\nsino de la filosofía misma. La filosofía, aquí, se ubica sobre la \r\nbicondicionalidad que se establece entre necesidad y libertad. La \r\ncuestión es, entonces, lograr conciliar, en la historia, la libertad con\r\n el hombre o, quizás sea más preciso decir, con la vida del hombre. Cómo\r\n hacer de la libertad, en la historia, algo no abstracto y, sin embargo,\r\n persistente y consistente. Cómo hacer, más aún, para que la libertad, \r\nen tanto condición de la vida y de la historia, pueda verse operando \r\ncomo la razón última, pero efectiva e histórica, de la moral. Cómo, en \r\ndefinitiva, liberar la libertad de los marcos aparentemente \r\nirreductibles a los que la termina constriñendo la necesidad, sin \r\nrecluirla al plano de lo trascendente. La solución parecía requerir \r\nsituar en la mira los dos términos, pero no enfrentados, sino \r\nreconciliados y con pesos equivalentes e irreductibles."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Si bien en términos conceptuales resulta claro que \r\naquella posibilidad depende de una operación de la filosofía, que viene a\r\n salvar la libertad del confinamiento kantiano, no resulta desatinado \r\ndecir que aquí esa intervención también se reclama en términos \r\nhistóricos y prácticos. Lo que mueve o convoca esta reflexión es de ese \r\norden. La filosofía tiene, efectivamente, algo que hacer en la historia \r\n–usamos “historia” en un sentido laxo o acotado todavía–, y eso es parte\r\n de la misma dilución de las fronteras que se estaría buscando."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Si la reconciliación entre libertad y necesidad \r\nsupone la posibilidad de que los hechos, o lo dado, puedan ser \r\ninscriptos en el nivel de la libertad, evitando tanto la explicación \r\ncausal de lo fenoménico, cuanto la abstracción de una libertad sin \r\nasidero en lo concreto, la filosofía queda definida de tal modo que \r\npuede servir de puente entre ambos términos. Allí podía hablar Croce, y \r\nrepetir los argentinos, de una “filosofía de la inmanencia”, esa que, a \r\njuicio de ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964008_ref11",
+       "id": "t-llamada-redalyc_314964008_ref11-2"
+      },
+      "Cuccaro (1918)"
+     ],
+     ", parte del principio “de la identidad del objeto con el sujeto, de la afirmación del sujeto en el objeto” (p. 37).",
+     [
+      "a",
+      {
+       "href": "#t-fn7",
+       "id": "t-llamada-fn7-1"
+      },
+      [
+       "sup",
+       {},
+       "7"
+      ]
+     ],
+     "\r\n"
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "De acuerdo con eso, parados sobre el terreno de la \r\nnecesidad, conocer es otorgar sentido a un objeto y, al hacerlo, la \r\ncondición de necesidad comienza a articularse con su negación. Aunque \r\npueda reconocerse la consideración, sin mucha precisión, de marcos \r\nespacio-temporales en los que los objetos devienen, conocer es aquí \r\nsiempre abstraer. En el nivel de la reflexión sobre el conocimiento, \r\nesto se traduce en una contundente valoración de la percepción, el medio\r\n a través del cual nos informamos sobre los objetos. No hay pensamiento \r\nsin percepción. Y ese vínculo mantiene la reflexión en el plano de la \r\ninmanencia, pero si lo singular puede nombrarse es por la posibilidad de\r\n desprenderlo de esas condiciones. Conocer, dice ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964008_ref3",
+       "id": "t-llamada-redalyc_314964008_ref3-2"
+      },
+      "Alberini (1955)"
+     ],
+     ", es alejarnos de las “realidades cronotópicas” (p. 64), aunque siempre partamos de ellas, que son insoslayable."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "El interés principal se concentra en el conocimiento \r\nfilosófico que, por intermedio de dicha abstracción se va alejando cada \r\nvez más de esas condiciones. De manera articulada con esta primera \r\nabstracción, aunque sin negar la particularidad del origen, el sentido \r\nde lo que es termina de aparecer cuando puede divisarse otro plano en \r\nque esas particularidades quedan contenidas. Hay un todo universal que \r\nlas alberga. Si en un primer término se da protagonismo al espacio y al \r\ntiempo como condición del objeto, su “situacionalidad”, apenas se avance\r\n en su significación estaremos ante el primer círculo de un espiral. El \r\nrecorrido de sucesivas abstracciones nos permite conectar aquella \r\ncondición espacio-temporal con un todo universal, al que no casualmente \r\nse denomina “historia”.",
+     [
+      "a",
+      {
+       "href": "#t-fn8",
+       "id": "t-llamada-fn8-1"
+      },
+      [
+       "sup",
+       {},
+       "8"
+      ]
+     ],
+     "\r\n"
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Si, por un lado, no hay pensamiento sin percepción, \r\ninmediatamente se advierte que solo puede reconocerse lo individual y \r\nconcreto a través del pensamiento y este remite a un universal. Como si \r\n“pensamiento” significara, más que una capacidad o una operación, un \r\nmarco de referencia, un nivel o dimensión diferente al de la percepción,\r\n capaz de conectar las diversas significaciones de lo concreto. \r\nConceptualizar es universalizar, cada vez un poco más hasta llegar al \r\nconcepto propiamente dicho, el filosófico."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Una cuestión central aquí es apreciar correctamente \r\nqué se dice con “universal” –también, “espiritual”– porque con ello se \r\nconstruye un sentido más específico de “historia”. El universal es el \r\ntodo que alberga los particulares, sin ser otra cosa respecto de estos. \r\nEs el devenir que se moldea y produce a través del conocimiento de los \r\nparticulares. Un todo que no preexiste, tampoco como objeto o como fin, \r\nsino que solo es por los particulares, por ellos cambia, se renueva, se \r\nactualiza. Por ellos se llega a él. El juego dialéctico es constante. \r\nCroce se mueve con comodidad allí, haciendo de la contradicción y la \r\ntensión la regla, y sus discípulos argentinos siguen el mismo camino."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Uno de los trabajos más detallados de Croce sobre este asunto es ",
+     [
+      "span",
+      {},
+      "Teoría e historia de la historiografía"
+     ],
+     " (1965) y parece necesario regresar sobre él para reconstruir algunos de conceptos que serán retomados por nuestros autores.",
+     [
+      "a",
+      {
+       "href": "#t-fn9",
+       "id": "t-llamada-fn9-1"
+      },
+      [
+       "sup",
+       {},
+       "9"
+      ]
+     ],
+     "\r\n Allí Croce plantea la tensión a partir de la diferencia entre hecho e \r\nhistoria, haciendo de esa tematización una parte muy relevante del \r\nsistema. En la historia, dice negando toda finalidad y causalidad, nos \r\nencontramos con “hechos toscos y desligados”, ¿qué hace la filosofía con\r\n ellos? Hasta aquí, la filosofía los ha negado, incluso el naturalismo, \r\nque pretende hablar de ellos. La filosofía ",
+     [
+      "span",
+      {},
+      "ha matado los hechos"
+     ],
+     ",\r\n dice, y llama a volver a ellos. “Al volver y permanecer, o sea, al \r\nmovernos en el hecho concreto, o mejor aún, haciéndonos pensamiento que \r\npiensa concretamente el hecho, experimentamos la continua formación y \r\nprogreso de nuestro pensamiento histórico” (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964008_ref10",
+       "id": "t-llamada-redalyc_314964008_ref10-1"
+      },
+      "Croce, 1965, p. 61"
+     ],
+     "). La historia es el pensamiento de lo concreto.",
+     [
+      "a",
+      {
+       "href": "#t-fn10",
+       "id": "t-llamada-fn10-1"
+      },
+      [
+       "sup",
+       {},
+       "10"
+      ]
+     ],
+     "\r\n “La historia es pensamiento y, como tal, pensamiento de lo universal, \r\nde lo universal en su concreción, y, por ello, siempre particularmente \r\ndeterminado” (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964008_ref10",
+       "id": "t-llamada-redalyc_314964008_ref10-2"
+      },
+      "Croce, 1965, p. 48"
+     ],
+     ").\r\n El hecho puede decirse “hecho histórico”, ya no de manera laxa, cuando \r\nha pasado por esa criba y se sabe particular y universal a la vez. De \r\neste modo, podemos comprender qué se dice cuando se dice “situación” y \r\nqué cuando se dice “historia” y sus derivados semánticos."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Si en el siglo XIX la historia definida por la \r\nfilosofía quedó lejos de la condición humana, el nuevo planteo busca la \r\nreconciliación y con ello disputa tanto en el terreno de aquella \r\nfilosofía cuanto en el de la historiografía. La historia que se busca \r\ninaugurar ahora parte de lo concreto. Los hechos, lo dado, no responden a\r\n ningún sentido u orden previo y presupuesto, son partes de un todo que \r\nsolo deviene a partir de estas. Afirmar que los hechos son partes del \r\nuniversal, sin que haya nada que preexista a esas partes, es sostener \r\nque cada una es tanto como y, al mismo tiempo, nada más que eso. Es el \r\nrechazo de la hipostaciación de la parte como todo, algo que Croce \r\ndenuncia como la base de las filosofías de la historia en todas sus \r\nversiones. Reconocer esa relación entre el hecho y la historia, es \r\nmantener la tensión que garantiza que la rueda siga girando, que haya \r\nsiempre novedad. Y con ello Croce puede decir también que por fin \r\nencontramos la verdadera posibilidad de hablar de libertad. Esa novedad,\r\n así pensada, abre la vía para la libertad que se estaba buscando."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "El devenir queda abierto. Y esto conlleva, dijimos, \r\nuna redefinición en el campo de la historia como saber. El hecho, como \r\nhecho histórico, pasa a pensarse en esa condición de necesaria \r\narticulación. Por eso va a insistirse con la noción de “síntesis”; el \r\nhecho no significa, y no es “histórico”, hasta tanto no cobre sentido en\r\n esa unidad. Así la historia que se invoca aquí, no señala la \r\nconsideración de lo particular en tanto particular, \r\nespacio-temporalmente situado, ni un proceso uniforme y progresivo que \r\navanza con la sucesión del tiempo de los acontecimientos. Es, en cambio,\r\n la inscripción de aquello en el ",
+     [
+      "span",
+      {},
+      "acaecer"
+     ],
+     ", algo que persiste."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "\r\n",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964008_ref11",
+       "id": "t-llamada-redalyc_314964008_ref11-3"
+      },
+      "Cuccaro (1918)"
+     ],
+     " es insistente con \r\nlas referencias a lo “eterno” y, citando al italiano, precisa lo que \r\nvenimos diciendo: “La eternidad y el tiempo real coinciden, porque en \r\ncada instante está lo eterno y lo eterno es el instante y ‘no existe una\r\n naturaleza frente a una historia humana que invoque su unidad de un \r\nprincipio que abrace y trascienda a ambas’” (p. 32). Desde allí se \r\nconstruye una definición para la filosofía, sus problemas tienen que ver\r\n con lo eterno y son eternos, aunque se construyen en el instante. La \r\nhistoria, en su devenir, es la individuación de un proceso que es eterno\r\n y con ello es la posibilidad de nuevas respuestas a esos problemas. En \r\nsu tesis, ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964008_ref12",
+       "id": "t-llamada-redalyc_314964008_ref12-1"
+      },
+      "Cuccaro (1921)"
+     ],
+     " define \r\nla filosofía como el grado más elevado de reflexión, pero también como \r\n“la realidad toda”, porque alberga los extremos; es expresión o momento \r\nde la conceptualización, pero que no tiene lugar sin lo concreto, “es la\r\n determinación del espíritu universal en ese momento histórico […], no \r\nes más que la eternidad que se concreta en una nueva forma, es el verbum\r\n hecho carne por la esencia misma de su naturaleza que vive en esa \r\nencarnación” (p. 50). La filosofía gana condición de universal y posee \r\nel valor de ser la ciencia por excelencia, “la ciencia de lo que la \r\nrealidad tiene de universal” (p. 55)."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Con una mirada de mayor alcance y pretensiones que \r\nlos argentinos, y con una obra bastante más basta, Croce se ocupa de \r\nesta cuestión de manera recurrente y, en particular, sus remisiones a la\r\n historia como disciplina definen un suelo sobre el que nuestros autores\r\n parecen moverse, aunque no ahonden en estas disquisiciones. La \r\nhistoriografía no los convoca de la misma manera que al italiano, \r\naunque, como dice ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964008_ref9",
+       "id": "t-llamada-redalyc_314964008_ref9-1"
+      },
+      "Croce (1959)"
+     ],
+     ", la historia nos interpela y nos importa como seres morales.",
+     [
+      "a",
+      {
+       "href": "#t-fn11",
+       "id": "t-llamada-fn11-1"
+      },
+      [
+       "sup",
+       {},
+       "11"
+      ]
+     ],
+     "\r\n De acuerdo con su definición, la historia, como disciplina, es \r\ninterpretación, el sentido que le damos a los hechos. Si estos pueden \r\nconvocar la particularidad, por su origen empírico, su consideración es \r\ntanto la renuncia a esa empiria, cuanto la posibilidad de ubicarlos en \r\nun marco que les permita alcanzar su estatus ",
+     [
+      "span",
+      {},
+      "histórico"
+     ],
+     ". Entre ambos se ubica la filosofía, su sentido convoca conceptos y allí encuentra su lugar la filosofía."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Al decir aquí “interpretación”, parece necesario \r\naclararlo, se dice mucho más del carácter histórico de los hechos, en \r\nsentido estricto, que de la subjetividad o relatividad hermenéutica de \r\nquien los conoce. Se nombra así la exigencia de que el hecho pase de la \r\nignorancia al conocimiento, de que el hecho pase por el cedazo de la \r\nconciencia para volverse historia. Al decir “interpretación” es claro \r\nque no se abandona el carácter universal como referente y posibilidad de\r\n sentido, sino todo lo contrario: la interpretación es el medio, la \r\ncondición, gracias a la cual el hecho pasa a existir como ",
+     [
+      "span",
+      {},
+      "hecho histórico."
+     ],
+     "\r\n Nuevamente, estamos ante el constante ir y venir de lo particular a lo \r\nuniversal, de la necesidad a la libertad, ese incansable movimiento en \r\nel que nada escapa “al mar del pensamiento”, como dicen nuestros \r\nautores, esa superficie que lo traga todo para darle realidad y que se \r\nrenueva permanentemente en la oscilación provocada por el hallazgo de \r\nnuevos objetos. Volvemos a encontrarnos, aunque por otra vía, con la \r\nlibertad."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Hacia una ",
+     [
+      "span",
+      {},
+      "filosofía de la práctica"
+     ],
+     "\r\n"
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "La centralidad que se le da al pensamiento nos sitúa \r\nen el plano de la cultura, de los significados atribuidos al mundo y \r\neste deviene el material específico a la hora de hablar de la historia, \r\nya como acaecer, ya como saber. “Unidad orgánica de la cultura” llaman \r\nnuestros autores al territorio que reúne lo decible acerca del mundo. \r\nSobre este se mueve la filosofía, ayudando a tomar conciencia de la \r\nabstracción en que vivimos y de sus rasgos más propios. Al igual que \r\ntodo conocimiento, si se asienta en lo concreto y precisa de lo \r\nparticular, no es porque sea su descripción, sino, en cambio, porque \r\nofrece su significación, su “síntesis”, dicen. Aquello que señalamos \r\ncomo un espiral de sucesivas abstracciones encuentra en la filosofía un \r\nestadio elevado, aunque nunca final, una conciencia reflexiva."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Una muy recordada expresión de ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964008_ref5",
+       "id": "t-llamada-redalyc_314964008_ref5-1"
+      },
+      "Alberini (1919 [1973b])"
+     ],
+     "\r\n sintetiza parte central del movimiento conceptual que se ensaya: “Vivir\r\n es, pues, evaluar” (p. 117), algo que en Croce llega como inquietud \r\nante lo que aparece, proximidad con los hechos. Aquí “vida”, una noción \r\nque hasta entonces denotaba una existencia fisiológica, se aleja de ese \r\nsentido para quedar asociada a un acto interpretativo. Vivir, podríamos \r\ndecir, ya no es sobrevivir o adaptarse, sino simbolizar.",
+     [
+      "a",
+      {
+       "href": "#t-fn12",
+       "id": "t-llamada-fn12-1"
+      },
+      [
+       "sup",
+       {},
+       "12"
+      ]
+     ],
+     "\r\n Los hechos en particular, aún no históricos, o históricos en un sentido\r\n laxo, pueden ser, efectivamente, valorados en función de las \r\ncircunstancias en las que surgen, las acciones pueden ser consideradas \r\npor su utilidad específica, porque la vida consiste en un constante \r\nvalorar el mundo tal como es para nosotros, eso es significarlos. Ese es\r\n un primer nivel de significación, como adelantamos. Ahora bien, con la \r\nhistoria, entendida como la síntesis devenida de la abstracción, estamos\r\n frente a necesidad de suspender el juicio valorativo. El pensamiento ya\r\n no es valorativo, trabaja sobre lo valorativo, pero no es del mismo \r\norden. “La filosofía no juzga, entiende”, dice ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964008_ref8",
+       "id": "t-llamada-redalyc_314964008_ref8-1"
+      },
+      "Croce (1926, p. 84)"
+     ],
+     "."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "La abstracción y la síntesis, la especulación, queda \r\nvinculada a los hechos o a los objetos singulares. Por más que se \r\nsucedan las abstracciones que van desde la valoración a la síntesis, no \r\npuede pensarse sin la singularidad como elemento inicial. Cualquier idea\r\n remite, en última instancia a aquella, del mismo modo que aquella no \r\npuede evocarse sin la simbolización. Y es por eso que, al describir lo \r\nque es de este modo, queda allí subsumido también todo lo relativo al \r\ndeber ser. Nos encontramos ante enunciados que se despliegan en las \r\nantípodas de aquel dualismo estructurante del pensamiento moderno que \r\nseñalamos inicialmente, el que distingue entre objeto y sujeto, pero \r\ntambién entre ser y deber ser y entre necesidad y libertad. Aquí la \r\nhistoria, en esa definición tensionada que se mueve entre extremos, lo \r\ndevora todo y no cabe distinción."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Aunque los argentinos vean en esas formulaciones de \r\nCroce cierto exceso historicista que parece no convencerlos, las \r\ndiferencias son escasas y la base del planteo retumba también en las \r\nconsideraciones sobre la filosofía. El modo cómo define la tarea de la \r\nfilosofía y lo que se propone respecto de su historización ubican la \r\ncuestión de la axiología o la valoración en el centro, que es también el\r\n terreno de la historia como conocimiento. Si, a juicio de Alberini, la \r\nvida es un constante valorar, esa evaluación o valoración, siendo el \r\nmodo de vincularse de los seres vivos con su medio, incluso cuando aún \r\nno haya conciencia desarrollada, es la base para comprender lo que ha \r\nsido el pasado. La tarea historiográfica no puede sino atender al \r\ndevenir valorativo. Las consideraciones históricas se enfrentan, en \r\nprimera instancia, a esas valoraciones sin grado de reflexividad \r\n(“apriorismo vital”). Estas, con el desarrollo onto y filogenético, \r\ncomienzan a manifestarse articuladamente con la conciencia (“idealismo \r\nvital”). De ahí que reconozca dos estadios del desarrollo de la ",
+     [
+      "span",
+      {},
+      "vida"
+     ],
+     ":\r\n primero deontológicamente vivida, luego concientemente pensada. Y esa \r\ndescripción, presentada como definición de lo que naturalmente ocurre, \r\nno solo contrasta con el racionalismo, que necesitaba suponer la \r\nconciencia para referirse a una axiología, sino, en el otro extremo, con\r\n las posiciones que hacían de la conciencia un epifenómeno. Al postular \r\nel ",
+     [
+      "span",
+      {},
+      "apriorismo vital"
+     ],
+     ", Alberini señala la \r\ncentralidad de las ideas-valores atravesando el suceder empírico. Lo que\r\n hacemos frente al mundo, el modo en que el mundo es para nosotros, es \r\nexclusivamente del orden de la valoración. Todo movimiento o reacción de\r\n los seres vivos supone una consideración axiológica, por eso ",
+     [
+      "span",
+      {},
+      "vivir es evaluar"
+     ],
+     ".\r\n No hay realidad objetiva, externa y ajena o residuo de esa valoración. A\r\n menudo, dice este autor, partidarios del realismo o del objetivismo, \r\ntienden a volver realidad objetiva lo que no es otra cosa que valor, una\r\n pretensión de objetividad que no es sino “degeneración ontológica del \r\nvalor” (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964008_ref2",
+       "id": "t-llamada-redalyc_314964008_ref2-1"
+      },
+      "Alberini, 1921 [1973a]"
+     ],
+     ", p. 148)."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "En la posición de nuestros autores, la evolución \r\nnatural de los seres vivos, que no es sino mayor potencia del \r\npensamiento, desarrolla en ese devenir un estadio superior signado por \r\nla posibilidad del predominio de la conciencia; una “evolución en \r\nventaja de la vida” (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964008_ref2",
+       "id": "t-llamada-redalyc_314964008_ref2-2"
+      },
+      "Alberini, 1921 [1973a]"
+     ],
+     ",\r\n p. 138). Así, la conciencia allí reconocida trabaja con los datos de \r\naquellas valoraciones, pero no queda encerrada en ellos. Con posibilidad\r\n de revisar las valoraciones, esta alcanza, ahora sí, un grado de \r\nobjetividad. La conciencia así desplegada, dice, es criterio de verdad."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Otro modo de presentarlo, aunque sin referencia a la \r\ndimensión axiológica, es distinguiendo “intuición” de “conocimiento”, y \r\nasí lo plantea Cuccaro en su tesis. La intuición atiende a los \r\nfenómenos, al mundo espacio-temporal, el conocimiento, en cambio, se \r\neleva hasta el concepto. A su juicio, entre la voluntad y la \r\ninteligencia se agota lo real, y es preciso problematizar el vínculo \r\nentre actividad práctica y actividad teórica. Al hacerlo, se hace eco de\r\n Croce: un dualismo irreductible, pero que no dice sino sobre momentos \r\nde lo mismo. Ahora bien, el modo en que ambas disposiciones, la \r\nintuición y el conocimiento, se despliegan es diferente y aquí es donde \r\nvolvemos a encontrarnos con la axiología. Croce sostenía que el juicio \r\natiende a la utilidad del acto y a la voluntad. Los juicios sobre el \r\nbien o el ideal son relativos a la voluntad y es imposible generalizar \r\nlos hechos que se derivan de esta en modelos de acción. Si el juicio \r\npráctico se detiene en esa singularidad, y no puede salir de ella, la \r\nfilosofía, en cambio, como reflexión según los lineamientos que ya \r\nrepasamos, se despliega en un terreno diferente y no puede ya valorar, \r\nni determinar los ideales. ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964008_ref8",
+       "id": "t-llamada-redalyc_314964008_ref8-2"
+      },
+      "Croce (1926)"
+     ],
+     "\r\n incluso propone hablar de “filosofía de la práctica”, en vez de \r\n“filosofía práctica”, porque la filosofía no interviene en la acción, es\r\n solo su toma de conciencia."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Sobre lo que es, lo que ha sido, el “acaecimiento”, \r\nya no hay juicio valorativo. De este modo, la reflexión en términos de \r\naxiología, la “axiogenia”, como le llama ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964008_ref2",
+       "id": "t-llamada-redalyc_314964008_ref2-3"
+      },
+      "Alberini (1921 [1973a])"
+     ],
+     ",\r\n repara en el juicio práctico, ese que se elabora para seguir actuando, \r\nhabla de la voluntad que interviene en la situación y no, en cambio, de \r\nun juicio sobre la historia. En esta lógica que se despliega, en la que \r\nlo que es es, solo cabe tomar conciencia de lo que ha sido, nunca \r\nvalorarlo. Dice ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964008_ref8",
+       "id": "t-llamada-redalyc_314964008_ref8-3"
+      },
+      "Croce (1926)"
+     ],
+     ": “Lo que ha sido debía ser, y lo que es verdaderamente real, es verdaderamente racional” (p. 77)."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Mauro ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964008_ref14",
+       "id": "t-llamada-redalyc_314964008_ref14-1"
+      },
+      "Donnantuoni Moratto (2014)"
+     ],
+     ",\r\n al referirse a Alberini, recupera la distinción entre “psiquis” y \r\n“conciencia”. La primera se ocupa de la evaluación, el juicio, la \r\nconciencia, en cambio, es el escenario del acaecer, en que se constata, \r\nen pose reflexiva, qué fue. De este modo, dice el investigador, la \r\npropuesta escapa a los marcos del psicologismo positivista porque \r\nmantiene la conciencia a salvo de sus reglas. Sin embargo, al mismo \r\ntiempo, en ese juego de equilibrios que observábamos, puede verse cómo \r\nse libra al valor, y con ello el plano de la vida moral, del \r\nracionalismo abstracto. Aquí es dónde con más énfasis podemos pensar que\r\n se busca el lugar de la libertad. Si algún resquicio le queda en \r\nrelación con la acción humana, este se encuentra en la posibilidad de \r\nreconocer cómo se pasa del ser al deber ser y no al revés. No se \r\nuniversaliza lo contingente, como podría verse, según cómo estos autores\r\n la entienden, en una explicación causalista, pero sí se lo hace \r\nnecesario, contra el racionalismo. La acción supone una valoración en \r\nfunción de una situación específica y un resultado esperado, lo hecho se\r\n hace necesario, y recién entonces puede elaborarse una mirada que \r\nresguarde el cambio y la libertad. Solo al verlo como un momento más de \r\nlo que se sintetiza, el hecho cobra su estatus sin pretender, no \r\nobstante, avanzar como norma sobre lo que vendrá. El círculo podrá \r\ncomenzar a rodar otra vez. Volviendo a la sugerencia de ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964008_ref14",
+       "id": "t-llamada-redalyc_314964008_ref14-2"
+      },
+      "Donnantuoni Moratto (2014)"
+     ],
+     ",\r\n el tránsito de un momento a otro supone, efectivamente, un cambio \r\nevolutivo, supone la intervención de la conciencia reflexiva, pero su \r\nsuceder no es un salto, como sugiere este autor, sino parte de la misma \r\ncontinuidad de la espiral."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Como corolario de esto, la filosofía no se compromete\r\n con los hechos. El peor error de la filosofía, a juicio de Croce y de \r\nnuestros autores, se produce cuando pretende entrar en el terreno de las\r\n cuestiones empíricas para tomar partido, o para decir el deber ser. Al \r\ntomar partido la filosofía se pierde, abandona su serenidad y dignidad (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964008_ref8",
+       "id": "t-llamada-redalyc_314964008_ref8-4"
+      },
+      "Croce, 1926, p. 102"
+     ],
+     ").\r\n La filosofía, en cambio, debe limitarse a constatar lo que ha sido. Es \r\nla voz que sabe y puede contar la historia de la humanidad, ve el \r\nacaecer y no lo juzga, lo dice. Los filósofos, dice ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964008_ref4",
+       "id": "t-llamada-redalyc_314964008_ref4-2"
+      },
+      "Alberini (1966)"
+     ],
+     ",\r\n “tienen el deber de no dejarse perturbar por las pasiones colectivas de\r\n un momento determinado”, el filósofo “reconoce la forma universal de \r\nlos valores particulares” (p. 114), no se inmiscuye en ellos."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Primera consecuencia: la “historia de las ideas”"
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "La distinción de la filosofía y sus quehaceres \r\nconvoca dos asuntos más que se entrelazan permanentemente con aquellos \r\ndesarrollos. Por una parte, las referencias de nuestros autores al \r\ncarácter nacional de la filosofía. De acuerdo con lo dicho, lo nacional \r\nes un modo de darse de lo universal. Alberini se refiere a aquella \r\n“unidad orgánica de la cultura”, el modo cómo en un determinado tiempo y\r\n lugar se valoró, se juzgó el mundo. Y, sin lugar a dudas, en su esquema\r\n esto ubica un lugar singular. Con él, estamos ante la posibilidad de \r\nhablar de un pensamiento nacional, de acotar y definir un conjunto \r\nlimitado de valoraciones que constituyen una expresión cultural que se \r\nllama “nacional”. Estamos frente a ciertas condiciones, incluso, aunque \r\nsea más tímida su referencia –probablemente, porque no resulta del todo \r\ncoherente con el sistema general– de hablar de “filosofía nacional”. Y \r\nese ha sido uno de los aspectos más celebrados de los lectores y deudos \r\nde esta ",
+     [
+      "span",
+      {},
+      "renovación filosófica"
+     ],
+     ". Tal como lo lee Diego ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964008_ref23",
+       "id": "t-llamada-redalyc_314964008_ref23-1"
+      },
+      "Pró (1973)"
+     ],
+     ",\r\n se habilitaría en esta propuesta un lugar especial para las expresiones\r\n nacionales en tanto expresiones particulares en el marco del universal \r\nhumanidad, y sin las cuales el universal no tiene posibilidades de ser. \r\nEl espíritu nacional, reflejado en esa filosofía nacional, es el \r\nparticular axiológico en que aparece la vida de la humanidad; el \r\nuniversal se encarna en lo nacional, mientras este, como particular, se \r\neleva en ese diálogo.",
+     [
+      "a",
+      {
+       "href": "#t-fn13",
+       "id": "t-llamada-fn13-1"
+      },
+      [
+       "sup",
+       {},
+       "13"
+      ]
+     ],
+     "\r\n"
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "No obstante, al respecto, ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964008_ref4",
+       "id": "t-llamada-redalyc_314964008_ref4-3"
+      },
+      "Alberini (1966)"
+     ],
+     " no deja de señalar un problema en el que quizás algunos de sus lectores prefirieron no detenerse:"
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "\r\n"
+    ],
+    [
+     "p",
+     {},
+     "Si la filosofía es forma universal del pensamiento,\r\n ¿en qué sentido cabe calificar de nacional a la filosofía? Carácter \r\nnacional de una filosofía solo significa que la meditación sobre los \r\nproblemas de lo real y de lo ideal puede, en muchos casos, estar movida \r\npor determinados modos del sentimiento colectivo. En otros términos: la \r\nnacionalidad de una filosofía reside en los motivos psicológicos de la \r\nreflexión, pero el resultado de esta solo será filosófico en virtud de \r\nla objetividad lograda (p. 113)."
+    ],
+    "\r\n",
+    [
+     "p",
+     {}
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Queda presentada la objetividad como trasfondo y \r\ncondición de la filosofía, y queda presentada como condición de las \r\nrespuestas que ensaya la filosofía; aunque su móvil, se asume, pueda ser\r\n el de los sentimientos o representaciones colectivas."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Esto se articula con la segunda deriva. Es en los \r\nveinte, y de la mano de los autores que visitamos aquí, que comienza a \r\nhablarse en términos de “historia de las ideas”. Tal como Alberini lo \r\ndefine, este saber se despliega en relación con la posibilidad de \r\nconocer y decir algo sobre aquella dimensión histórico-axiológica, sobre\r\n el modo cómo en el pasado se valoró el mundo que rodeaba a los hombres \r\nen un contexto específico. Las ideas son expresión de esto. Arturo ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964008_ref25",
+       "id": "t-llamada-redalyc_314964008_ref25-1"
+      },
+      "Roig (1968)"
+     ],
+     " lo presenta con mucha claridad:"
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "\r\n"
+    ],
+    [
+     "p",
+     {},
+     "El historiador de las ideas tiene pues por delante \r\nde sí un apasionante y vital tema de estudio: la investigación de las \r\nvaloraciones colectivas, inconscientes o conscientes, sobre la base de \r\nla observación de las costumbres y mirando hacia aquella ciencia o saber\r\n fundante, que trascendiendo lo histórico, sin salirse de él, da en \r\núltima instancia sentido a lo humano (p. 153)."
+    ],
+    "\r\n",
+    [
+     "p",
+     {}
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Al decirlo de este modo, el filósofo mendocino logra \r\ncaptar, entre el “historiador” y lo “histórico”, el juego en el que \r\nestos autores condensaban aquella tensión entre sujeto-objeto, \r\nlibertad-necesidad. Hacer historia, ",
+     [
+      "span",
+      {},
+      "historia de las ideas"
+     ],
+     ",\r\n significa elaborar la síntesis por medio de la cual la conciencia \r\nreflexiva inscribe lo particular en lo universal. De alguna manera, \r\narticulando ambos elementos, pareciera que hacer historia de las ideas \r\nde una nación es reconocer su parte de universal, volver “históricas” \r\nesas ideas, como cualquier hecho, ya lo dijimos, es sacarlo del espacio y\r\n el tiempo. Hacer historia, en última instancia, es decir lo particular \r\nen lo universal.",
+     [
+      "a",
+      {
+       "href": "#t-fn14",
+       "id": "t-llamada-fn14-1"
+      },
+      [
+       "sup",
+       {},
+       "14"
+      ]
+     ],
+     "\r\n"
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Terminamos habitando un suelo paradojal. Porque si, \r\nen principio, esa tensión latente entre lo universal y lo particular \r\ngarantiza la presencia constante de la novedad, la imposible \r\nhipostaciación de los particulares, que son solo una parte del universal\r\n –y es esa vigilancia el modo por excelencia como se invoca la tarea \r\ncrítica entre estos autores–, inmediatamente notamos que lo particular \r\nque se busca sostener, gracias a la guardia que puede montarse en \r\nfunción de una definición específica de lo universal, al volverse \r\nhistoria, queda despojado de sus condiciones más propias. Para que algo \r\nsea historia en sentido estricto es preciso, lo decimos una vez más, \r\nconsiderarlo a partir de sus condiciones espacio-temporales pero más \r\nallá de estas. En ese sentido, al decir “historia” es probable que \r\nestemos apelando a una síntesis anacrónica, sin tiempo, que nos habla \r\nmucho más del universal que reúne que de las condiciones específicas del\r\n particular que subsume."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Tanto en Croce como en los autores argentinos puede \r\nnotarse sin forzamiento la importante posición en que ubican al pasado. \r\nTodos insisten destacando la necesidad de volverse al pasado, porque \r\nsolo allí está lo que es necesariamente. Despejando el terreno del \r\nfantasma de la filosofía de la historia y de su lógica teleológica, en \r\nesa indagación sobre el pasado media la tarea de la ",
+     [
+      "span",
+      {},
+      "crítica"
+     ],
+     " para resguardar la parte como tal, “contra la torcida conversión de las reglas empíricas en principios filosóficos” (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964008_ref8",
+       "id": "t-llamada-redalyc_314964008_ref8-5"
+      },
+      "Croce, 1926, p. 85"
+     ],
+     ").\r\n En un sentido positivo, esa crítica cuida el lugar reservado a lo \r\nuniversal. Mirado así, el historiador y el filósofo –reunidos desde el \r\nmomento en que, en esta lógica, ya no distinguimos entre el ser y el \r\ndeber ser, verdades de hechos y verdades de razón– se dirigen al pasado \r\npara reconocer el modo cómo el universal deviene en lo particular. La \r\nhistoria trabaja con hechos porque no puede perder de vista que es \r\nconcreción. Concreción de un hecho pasado que no puede desprenderse de \r\nesta condición sino a riesgo de convertirse en misticismo."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Con Croce, decía ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964008_ref19",
+       "id": "t-llamada-redalyc_314964008_ref19-1"
+      },
+      "Korn (1925)"
+     ],
+     ",\r\n “es ocioso postular finalidades” (p. 386). Y, efectivamente, al definir\r\n de este modo esa historia-filosofía se hace patente la imposibilidad de\r\n referirnos a la dimensión de futuro. Toda mirada que intente prever o \r\nanticipar el curso de la historia no es sino la negación de la historia \r\nmisma. A juicio de ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964008_ref20",
+       "id": "t-llamada-redalyc_314964008_ref20-1"
+      },
+      "Korn (2012)"
+     ],
+     ", \r\nla impugnación de los saberes científicos que ensaya el italiano de la \r\nmano de la dialéctica, y que se explica por “su ignorancia absoluta de \r\nlas ciencias” (p. 189), nos inhibe de la posibilidad de prever:"
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "\r\n"
+    ],
+    [
+     "p",
+     {},
+     "La ley dialéctica parece clara aplicada al pasado \r\nhistórico, o interpretamos y vemos como los hombres han obedecido a lo \r\nbueno y a lo malo, al error ya a la verdad […]; pero cuando queremos \r\ndeterminar el desenvolvimiento para el futuro, esos elementos no pueden \r\nservirnos (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964008_ref20",
+       "id": "t-llamada-redalyc_314964008_ref20-2"
+      },
+      "Korn, 2012, p. 191"
+     ],
+     ")."
+    ],
+    "\r\n",
+    [
+     "p",
+     {}
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Es sobre esta base que se convoca el presente. La tan\r\n remanida frase del italiano, de la que el mismo Alberini hace uso, \r\nquizás descuidadamente, según la cual la historia es siempre \r\ncontemporánea, hace referencia específicamente a esto que venimos \r\ndiciendo. A una condición de la temporalidad operante en esta lógica, \r\nsegún la cual, hacer historia es inscribir el hecho en el todo, tal como\r\n solo puede ser pensado en el presente, aunque quizás decir “presente” \r\ntenga algunos riesgos, a sabiendas de que la situacionalidad se \r\ndesvanece como objeto de conciencia. Si la historia es “conocimiento del\r\n eterno presente, esta se revela en total coincidencia con la filosofía \r\nque, por su parte, es siempre el pensamiento del eterno presente”, \r\nafirma ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964008_ref10",
+       "id": "t-llamada-redalyc_314964008_ref10-3"
+      },
+      "Croce (1965, p. 49)"
+     ],
+     ". El \r\n“sentido histórico” por el que tanto se abogaba entre nuestros autores, \r\nla “conciencia histórica”, habla de esto y parece necesario reconocer el\r\n rotundo cambio conceptual que esto supone respecto de la lógica \r\nreinante hasta entonces en nuestras academias."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Segunda consecuencia: la filosofía en la universidad"
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Antes nos referimos a la “unidad orgánica de la \r\ncultura”, la vida de una sociedad o de un pueblo se presenta en esa \r\nunidad, la mirada reflexiva puede describirla, pero también puede \r\nimpulsarla, y eso es lo que vuelve a la universidad y los saberes que \r\nimparte y fomenta un lugar de disputa. Y esto es importante para esta ",
+     [
+      "span",
+      {},
+      "renovación filosófica"
+     ],
+     ".\r\n Esta tiene consecuencias contundentes a la hora de definir el rol mismo\r\n de las universidades y de las facultades en su interior. El vínculo \r\nentre cultura y universidad, sumado al rol protagónico que se le otorga a\r\n la cultura como manifestación de los valores de un grupo social, una \r\nnación, en una época, son componentes que se articulan para reclamar una\r\n dirección. Si la crítica al profesionalismo reinante, a la puesta de la\r\n universidad al servicio del lucro y los intereses particulares, es una \r\nconstante entre los intelectuales del momento, a pesar incluso de sus \r\ndiferentes posturas teóricas y políticas, aquí esa crítica va de la mano\r\n del intento de hacer de la Facultad de Filosofía la unidad rectora, en \r\ntanto se ha establecido la prioridad que tiene esta filosofía-historia \r\nen la configuración de lo real. El carácter reflexivo que le cabe por \r\nexcelencia la vuelve capaz de entrever lo que hay que conocer: los \r\nsignos particulares de la cultura, como expresiones de un curso más \r\ngeneral. Esta facultad puede decir lo que es y, por lo tanto, también lo\r\n que debe ser.",
+     [
+      "a",
+      {
+       "href": "#t-fn15",
+       "id": "t-llamada-fn15-1"
+      },
+      [
+       "sup",
+       {},
+       "15"
+      ]
+     ],
+     "\r\n"
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Y no está de más notar que otra cara de la tensión \r\ncon el positivismo es el lugar y perfil que se le daba a las ciencias \r\nque se consideraban atentas a los fenómenos sociales, tales como a \r\npsicología y la sociología. Estas, de la mano de los saberes \r\ncientíficos, exactos, pujaban por avanzar sobre el terreno del \r\ncomportamiento y la legislación. Sobre la psicología, la tensión es \r\nmucho más explícita, y algo puede verse en los debates que generó la \r\ninstalación del segundo curso de psicología en la carrera de filosofía \r\nde la Universidad de Buenos Aires, que enfrentaban a aquellos que \r\nproponían continuar con la línea fisiologista del primer curso y quienes\r\n entendían la necesidad de aprovechar este espacio para diversificar \r\nposiciones. Con el paso del tiempo, la materia pasará por diferentes \r\nmanos, primero próximas a las líneas cientificistas, hasta llegar, por \r\nfin, a las de Alberini, que dará un rotundo giro en el programa. Con \r\nsociología pasa algo similar, aunque el profesor de la materia fue \r\nErnesto Quesada por muchos años. Lo que se ve en este caso es más un \r\ndesplazamiento en la posición del mismo Quesada (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964008_ref21",
+       "id": "t-llamada-redalyc_314964008_ref21-1"
+      },
+      "Mailhe, 2020"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964008_ref16",
+       "id": "t-llamada-redalyc_314964008_ref16-1"
+      },
+      "Galfione, 2020"
+     ],
+     ").\r\n En ese contexto, es sintomático cómo Cuccaro retoma las críticas que \r\nCroce hacía al naturalismo, que posicionaba a la sociología y a la \r\npsicología como saberes de lo social. Nuestro autor reproduce \r\nextensamente las palabras de Croce y fusiona con ellas su propia \r\nlectura; citándolo, acusa a"
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "\r\n"
+    ],
+    [
+     "p",
+     {},
+     "los nuevos directores de la vida social (que) son \r\ncompletamente insensibles para el arte, ignoran la historia, sonríen \r\ncomo patanes borrachos frente a la filosofía, y satisfacen, tal vez, su \r\nnecesidad religiosa en esos agrados lugares que son las logias masónicas\r\n y los comités electorales (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964008_ref12",
+       "id": "t-llamada-redalyc_314964008_ref12-2"
+      },
+      "Cuccaro, 1921, pp. 22-23"
+     ],
+     ").",
+     [
+      "a",
+      {
+       "href": "#t-fn16",
+       "id": "t-llamada-fn16-1"
+      },
+      [
+       "sup",
+       {},
+       "16"
+      ]
+     ],
+     "\r\n"
+    ],
+    "\r\n",
+    [
+     "p",
+     {}
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "En el marco general de los saberes universitarios y de la filosofía que cobra sentido entre ellos, ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964008_ref5",
+       "id": "t-llamada-redalyc_314964008_ref5-2"
+      },
+      "Alberini (1973b)"
+     ],
+     "\r\n destaca, como dijimos al comienzo, el lugar de la epistemología en \r\ntanto “revela la índole profunda del conocimiento científico” (p. 237), y\r\n allí reconoce los elementos de la ciencia que permiten dar cuenta de la\r\n cultura en que se despliega; es, agrega, “el primer paso hacia la \r\nunidad orgánica de la cultura” (p. 238). La epistemología se presenta \r\ncomo herramienta teórica que tiende un puente entre las ciencias \r\nparticulares y la cultura, inscribiéndolas en un camino que conduce a la\r\n universalidad. Pero esta es un capítulo de la filosofía y Alberini es \r\nconciente de ello. Por eso, la filosofía no se agota allí, la \r\nepistemología es presentada solo como “un primer paso”."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "La universidad se funda sobre la",
+     [
+      "span",
+      {},
+      " unidad de la cultura"
+     ],
+     ",\r\n es su símbolo. Universidad es unidad, es condensación de lo que la \r\nvariedad tiene en común. En una escala diferente, al hablar de \r\nuniversidad invocamos nuevamente el diálogo entre lo particular y lo \r\nuniversal; la cultura, en esa unidad, es la síntesis y la universidad es\r\n su órgano, “órgano de los problemas cardinales de la cultura suprema” (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964008_ref5",
+       "id": "t-llamada-redalyc_314964008_ref5-3"
+      },
+      "Alberini, 1973b, p. 239"
+     ],
+     "), y reparemos en que “nacional” ha sido reemplazo por “suprema”."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Eso mismo era lo que se proponía el Colegio \r\nNovecentista, tan próximo a Alberini, y que este recordará en 1928 al \r\ncumplirse la primera década de la Reforma Universitaria: ocuparse del \r\nadvenimiento de una cultura que reemplace los resabios caducos de la \r\ngeneración del 80, aún hegemónicos, “socavar el mentado anacronismo \r\ncultural” (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964008_ref6",
+       "id": "t-llamada-redalyc_314964008_ref6-1"
+      },
+      "Alberini, 1973c"
+     ],
+     ", p. \r\n89). Lo notable allí es que, al decirlo, tal como aparece en el \r\nManifiesto del grupo, se invocan motivos que ya hemos visto: se reclama \r\nla creación del “sentido histórico” para atender al pasado del \r\npensamiento occidental y, entre otras cosas, se habla del “surgimiento \r\nde una cultura nacional rica de universalidad”."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Todo este texto vinculado a la Reforma Universitaria \r\ngira, como es de esperar, sobre el perfil que debe tener la universidad y\r\n allí, entre una importante variedad de motivos que denotan influencias \r\nteóricas variadas, la argumentación conduce hacia lo que comprendimos \r\naquí como el eje de una reflexión renovada en términos históricos y \r\nfilosóficos, subrayando la necesidad de que la universidad se asuma como\r\n protagonista en la generación de un pensamiento crítico. En efecto, si \r\nbien no se utiliza aquí el concepto, su sentido se percibe en el tono \r\nque evoca la crítica del dogmatismo y el rol que la academia juega allí.\r\n Solo así, dicen, puede ocurrir la esperada renovación cultural que esta\r\n tiene en sus manos. Contra universidades dogmáticas, cuyos ejemplos \r\nhistóricos se repasan, se señala la “irrestañable fluencia espiritual \r\ndel hombre” (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964008_ref6",
+       "id": "t-llamada-redalyc_314964008_ref6-2"
+      },
+      "Alberini, 1973c"
+     ],
+     ", p. \r\n94), una fuerza creadora persistente, irrenunciable, que hace que la \r\nuniversidad sea expresión y posibilidad de “una libre cultura”. Si esta \r\nlibertad se contrapone al dogmatismo, al mostrar sus posibilidades \r\ncontemporáneas y sus enemigos, se hace patente que el terreno de \r\ndisputas se instala sobre la arena político-ideológica. En el marco de \r\nla reforma universitaria, de los variados posicionamientos e \r\ninterpretaciones que convoca, el llamado a esa universidad libre se \r\npresenta, centralmente, como un llamado a un saber no politizado. En \r\neste punto, quizás presuponiendo excesiva coherencia en el planteo, \r\npuede entenderse que su posibilidad conceptual está atada a la \r\nafirmación de la universalidad y a aquel resguardo que garantizaba la \r\nobjetividad: partir de lo concreto para inscribirlo en un todo permitía \r\nliberarlo de las pasiones colectivas, citamos arriba, al tiempo que \r\ninhibir proposiciones atinentes al futuro. En el plano de los hechos, la\r\n renovación de la filosofía se instaló institucionalmente y se impulsó \r\nun modelo de filosofía distante de la política y de las preocupaciones \r\nsociales.",
+     [
+      "sup",
+      {},
+      [
+       "a",
+       {
+        "href": "#t-fn17",
+        "id": "t-llamada-fn17-1"
+       },
+       "17"
+      ]
+     ],
+     "\r\n"
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Finalmente"
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "El recorrido que nos propusimos abre una variedad de \r\ntópicos sobre los que hay que continuar indagando. En términos \r\ngenerales, lo dicho hasta aquí parece ofrecer una lectura diferente de \r\nlas que se ensayan desde los marcos de la historia de las ideas \r\nargentinas y latinoamericanas usualmente más disponibles. Si estas \r\ntienen la virtud de haber ofrecido entre nosotros las primeras \r\naproximaciones de una línea teórica bastante escurridiza, así como de \r\nimpulsar la sistematización y publicación de la obra de sus \r\nrepresentantes, tal como ocurrió con Alberini, todavía esa lectura se \r\nformula sin tomar distancia del objeto que se estudia, dificultando una \r\nmirada historizada y crítica, atenta a reconocer el carácter preciso y \r\nacotado de aquellas definiciones conceptuales y, en cambio, reproduce \r\nlos lineamientos generales de la historiografía que allí se propone para\r\n pensar aún hoy la historia de nuestro pensamiento. Quizás ello se deba,\r\n precisamente, a los supuestos que comparte."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Al tomar distancia, reconocemos algunas \r\ncaracterísticas y consecuencias, así como la lógica que sostiene el \r\nplanteo. En sus formulaciones, buscando liberar a los fenómenos \r\nhistóricos y sociales de condiciones que los constriñan en explicaciones\r\n deterministas o en una causalidad necesaria, logran que el sentido de \r\nestos, y con ello la posibilidad de pensarlos, se ligue a un nivel que, \r\nsi tiene mucho de transcendente no lo es porque precisa de aquellos. Lo \r\nuniversal es tan condición de posibilidad de lo individual, como \r\nviceversa. Aunque, en el plano de la verdad, es el sentido el que \r\ntermina por dar la última palabra. Del mismo modo, con las lecturas de \r\nCroce, se arrasa con una manera de comprender los hechos, su sucesión y \r\nsu articulación, en que se hace imposible inscribir los acontecimientos \r\nen una línea de mayor alcance que suponga una sucesión temporal ordenada\r\n y también progresiva. La historia es ese sucederse que se va \r\narticulando en el acontecer, suponiendo necesidad y libertad al mismo \r\ntiempo. Un suceder que, por tal, es necesario, pero que se despliega en \r\nun discurrir sin condiciones, ni sentidos. Un acontecer que pretende \r\nsintetizarse a posteriori, sin prejuicios o supuestos. Una historia que,\r\n en cuanto tal, en “sentido estricto” hemos dicho, ya no requiere ni del\r\n tiempo cronológico, ni admite un ordenamiento progresivo presupuesto, \r\nuna historia que es libre en su despliegue."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "La crítica a la causalidad de las explicaciones \r\nnaturalistas que, por fin, daría lugar a la libertad, ataca todos los \r\nfrentes. No puede establecerse un tipo de relación lógica anterior a los\r\n hechos, tampoco una relación necesaria entre estos; no puede, \r\nconsecuentemente, preverse un comportamiento o sucesión. Pero al mismo \r\ntiempo, se afirma la unidad como condición de los fenómenos, en su \r\namplia variedad, aunque sus consecuencias importen en relación a la vida\r\n humana. Y se logra así rescatar los hechos de las fauces de la \r\ncontingencia."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "El materialismo positivista, tal como es leído, \r\ndependía de una filosofía de la historia que no era sino la \r\nuniversalización forzada de condiciones particulares. Y en función de \r\nestas, establecía, del mismo modo que podría haber hecho la escolástica,\r\n un deber ser. Al hacerlo, podía fijar un curso de la historia. Aquí, en\r\n cambio, si el futuro está sostenido por un devenir constante, se \r\ndesdibuja como dimensión sustantiva, es posibilidad impensable. Contra \r\nla causalidad y la previsión, Croce se jacta de recordar que la historia\r\n es improvisación y los argentinos reproducen con insistencia esa idea. \r\nPero la improvisación puede interpretarse a posteriori. Allí, por fin, \r\nla historia llega a ser tal en su sentido estricto. La historia está \r\nhecha de pasado presentificado, de pasado despojado de su tiempo \r\nespecífico en un presente que no puede arriesgar porvenires."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Si vinculamos la preocupación por esta renovación \r\nconceptual con lo relativo a la universidad, a la definición e impulso \r\nde una concepción renovada de la universidad y el conocimiento que esta \r\nproduce, no solo encontramos la centralidad que se le otorga a la \r\nFacultad de Filosofía y Letras, apoyándose en razones teóricas bien \r\ndefinidas, sino incluso que esto tiene efectos contundentes en su \r\ninterior. La universidad se convierte en la voz autorizada para decir lo\r\n que es y, por ello, lo que debe ser. La universidad, pero esta facultad\r\n en particular, capaz de interpretar, se vuelve instancia de \r\nlegitimación de una descripción de la sociedad y sus marcas \r\nidentitarias. La universidad, espacio consagrado al despliegue del \r\nconocimiento propiamente dicho, condensa la descripción más autorizada \r\ndel deber ser. Y cuando decimos más autorizada incluimos también la \r\njustificación conceptual de la posibilidad de una \r\nuniversalidad-objetividad que, ya no situada, se presenta como la cara \r\nopuesta de un posicionamiento político o ideológico."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Pareciera entonces factible la articulación del \r\n“eterno presente”, como nueva dimensión de la temporalidad, con la \r\ndespolitización de los saberes. El anacronismo quizás sea la garantía de\r\n la verdad.",
+     [
+      "a",
+      {
+       "href": "#t-fn18",
+       "id": "t-llamada-fn18-1"
+      },
+      [
+       "sup",
+       {},
+       "18"
+      ]
+     ],
+     "\r\n"
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Ahora bien, luego de este recorrido podemos \r\npreguntarnos acerca de las diversas recuperaciones que se hicieron de \r\nesta posición en los relatos que valoran el avance del espiritualismo o \r\nidealismo como corriente que, viniendo a destronar el positivismo, ponía\r\n por fin como sujeto y objeto de reflexión filosófica cuestiones \r\nlocales, nacionales y regionales, contribuyendo en la definición de una \r\nidentidad; nos referimos a la sincronía que pretende constatarse entre \r\nel avance de las corrientes espiritualistas y las posibilidades de \r\nexpresión filosófica nacional o latinoamericana a la que nos referimos \r\nal comienzo. Allí, cabe señalar que, si Alberini y otros autores del \r\nllamado antipositivismo pueden ser señalados como comienzo de ",
+     [
+      "span",
+      {},
+      "nuestra"
+     ],
+     "\r\n filosofía –sin desconocer que hay mojones previos que se tiende a \r\nintentar valorar, entre los que el caso de Alberdi es el más \r\nrepresentativo–, ello es a condición del establecimiento de ciertos \r\ncriterios historiográficos y conceptuales que encuentran allí mismo su \r\nfuente. En ese universo, si la filosofía puede pensarse ahora como algo \r\ndiverso a una abstracción, como expresión histórica e historizada, como \r\nexpresión inmanente, y si la historia de las ideas tiene por objeto una \r\nrealidad particular, ello debe ser comprendido en el marco de \r\ncontinuidad que se fija aquí entre lo universal y lo particular. Y \r\nprecisamente, lo hemos dicho, decir “historia” en esta lógica no es \r\nreferirse a un proceso material o empírico; aquí “historia” nombra \r\nsiempre, necesariamente, la articulación interpretativa entre dos \r\nobjetos que comparten el mismo suelo ontológico, ideas (o valores) y \r\nespíritu. El historiador es ese ser estrábico, que mira más acá y más \r\nallá al mismo tiempo. Del mismo modo que el filósofo puede reconocer la \r\naxiología inconciente porque sabe del valor como conciencia."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "La pregunta que queda planteada tiene que ver con la operación que se reclama a la hora de buscar ",
+     [
+      "span",
+      {},
+      "lo propio"
+     ],
+     ",\r\n cuando con el concepto de “situación histórica”, redefinido con esta \r\nlógica, renunciamos a esa historia hecha de materialidad y cambio, de \r\ntiempos y espacios diversos, de aporías, de incomprensiones, de luchas y\r\n quizás de sorpresas."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Desde allí, también cabe preguntarse por el cambio y \r\nla contingencia. Si los aportes de estas corrientes fueron contundentes \r\nen tanto denuncia de las filosofías de la historia y sus implicancias en\r\n lo que hace al trabajo historiográfico en este campo, nos atrevemos a \r\npreguntar, como hacía Gramsci con Croce,",
+     [
+      "a",
+      {
+       "href": "#t-fn19",
+       "id": "t-llamada-fn19-1"
+      },
+      [
+       "sup",
+       {},
+       "19"
+      ]
+     ],
+     "\r\n si, efectivamente, la solución pergeñada avanzó ofreciendo una \r\nalternativa. Porque si lo que hemos dicho hasta aquí es correcto, parece\r\n que este aparato conceptual no puede desprenderse de alguno de los \r\nrasgos de aquellas filosofías. “Problemas eternos” le adjudicaban a la \r\nfilosofía los autores en los veinte, respuestas variadas, pero \r\nrespuestas que se encuentran con un tema común, una constante que puede \r\nreunirlas y que es su condición, incluso cuando solo se trate de \r\nexpectativas. Si lo eterno se refiere a la renovación ilimitada, también\r\n señala al suelo sobre el que esa renovación se legitima como tal. La \r\npregunta entonces es ¿cómo dar cuenta de la historicidad y contingencia \r\ndel cambio conceptual cuando “concepto” nombra lo universal?"
+    ],
+    "\r\n"
+   ],
+   "\r\n",
+   [
+    "span",
+    {
+     "id": "t-back"
+    },
+    "\r\n",
+    [
+     "p",
+     {},
+     "Referencias"
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964008_ref1"
+     },
+     "Agoglia, R. (1966). Prólogo. En C. Alberini, ",
+     [
+      "span",
+      {},
+      "Problemas de la historia de las ideas en la Argentina"
+     ],
+     ". Instituto de pensamiento argentino, Universidad Nacional de La Plata."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964008_ref3"
+     },
+     "Alberini, C. (1955). Croce y la metafísica de la verdad histórica. En G. Marone (Comp.), ",
+     [
+      "span",
+      {},
+      "Benedetto Croce, 1866-1952: conmemoración, ensayos, testimonios, bibliografía"
+     ],
+     ". Instituto de Literatura Italiana."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964008_ref4"
+     },
+     "Alberini, C. (1966). ",
+     [
+      "span",
+      {},
+      "Problemas de la historia de las ideas en la Argentina"
+     ],
+     ". Instituto de pensamiento argentino, Universidad Nacional de La Plata."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964008_ref2"
+     },
+     "Alberini, C. (1973a). ",
+     [
+      "span",
+      {},
+      "Escritos de Ética"
+     ],
+     ". Instituto de Filosofía, Universidad Nacional de Cuyo."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964008_ref5"
+     },
+     "Alberini, C. (1973b). ",
+     [
+      "span",
+      {},
+      "Escritos de metafísica"
+     ],
+     ". Instituto de Filosofía, Universidad Nacional de Cuyo."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964008_ref6"
+     },
+     "Alberini, C. (1973c). ",
+     [
+      "span",
+      {},
+      "Escritos de filosofía de la educación y pedagogía"
+     ],
+     ". Instituto de Filosofía, Universidad Nacional de Cuyo."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964008_ref7"
+     },
+     "Bustelo, N. (2015). ",
+     [
+      "span",
+      {},
+      "La\r\n Reforma Universitaria desde sus grupos y revistas. Una reconstrucción \r\nde los proyectos y las disputas del movimiento estudiantil porteño de \r\nlas primeras décadas del siglo XX (1914-1928)"
+     ],
+     ". [Tesis de Doctorado, Universidad Nacional de La Plata]. ",
+     [
+      "a",
+      {
+       "href": "https://doi.org/10.35537/10915/56898"
+      },
+      "https://doi.org/10.35537/10915/56898"
+     ],
+     "\r\n"
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964008_ref8"
+     },
+     "Croce, B. (1926). ",
+     [
+      "span",
+      {},
+      "Filosofía práctica en sus aspectos económico y ético"
+     ],
+     ". Francisco Beltrán."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964008_ref9"
+     },
+     "Croce, B. (1959). ",
+     [
+      "span",
+      {},
+      "El carácter de la filosofía moderna"
+     ],
+     ". Imán."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964008_ref10"
+     },
+     "Croce, B. (1965). ",
+     [
+      "span",
+      {},
+      "Teoría e historia de la historiografía"
+     ],
+     ". Eudeba."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964008_ref11"
+     },
+     "Cuccaro, J. (1918). La religión en la filosofía contemporánea. ",
+     [
+      "span",
+      {},
+      "Verbum"
+     ],
+     ", (12), 39-40."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964008_ref12"
+     },
+     "Cuccaro, J. (1921). ",
+     [
+      "span",
+      {},
+      "Ensayo sobre la filosofía de Benedetto Croce"
+     ],
+     ". Universidad de Buenos Aires."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964008_ref13"
+     },
+     "Cuccaro, J. (1922). De consolatione philosophiae. ",
+     [
+      "span",
+      {},
+      "Humanidades"
+     ],
+     ", (3), 249-266."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964008_ref14"
+     },
+     "Donnantuoni Moratto, M. (2014). El antipositivismo y la formación de un nuevo discurso filosófico en Coriolano Alberini. ",
+     [
+      "span",
+      {},
+      "Revista de Filosofía y Teoría Política"
+     ],
+     ", (45). ",
+     [
+      "a",
+      {
+       "href": "https://www.rfytp.fahce.unlp.edu.ar/article/view/RFyTPn45a01"
+      },
+      "https://www.rfytp.fahce.unlp.edu.ar/article/view/RFyTPn45a01"
+     ],
+     "\r\n"
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964008_ref15"
+     },
+     "Dotti, J. (1991). ",
+     [
+      "span",
+      {},
+      "La letra gótica. Recepción de Kant en la Argentina, desde el romanticismo hasta el treinta"
+     ],
+     ". Universidad de Buenos Aires."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964008_ref16"
+     },
+     "Galfione, M. C. \r\n(2020). Sentidos del americanismo: debates en torno a Spengler y sus \r\naportes para pensar el lugar de América en la historia. ",
+     [
+      "span",
+      {},
+      "Humanidades"
+     ],
+     ", (8). ",
+     [
+      "a",
+      {
+       "href": "https://doi.org/10.25185/8.9"
+      },
+      "https://doi.org/10.25185/8.9"
+     ],
+     "\r\n"
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964008_ref17"
+     },
+     "Galfione, M. C. (2021). Variaciones sobre un canon. En torno al ",
+     [
+      "span",
+      {},
+      "comienzo"
+     ],
+     " de la filosofía. ",
+     [
+      "span",
+      {},
+      "Estudios. Filosofía práctica e Historia de las ideas"
+     ],
+     ", (23), 1-16. ",
+     [
+      "a",
+      {
+       "href": "http://qellqasqa.com.ar/ojs/index.php/estudios/article/view/434"
+      },
+      "http://qellqasqa.com.ar/ojs/index.php/estudios/article/view/434"
+     ],
+     "\r\n"
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964008_ref27"
+     },
+     "Galfione, M. C. \r\n(2024). Por una historia profesional y cívicamente responsable: los \r\nprimeros años de la Nueva Escuela Histórica. ",
+     [
+      "span",
+      {},
+      "Práticas da História"
+     ],
+     ", (17). ",
+     [
+      "a",
+      {
+       "href": "https://doi.org/10.48487/pdh.2023.n17.31189"
+      },
+      "https://doi.org/10.48487/pdh.2023.n17.31189"
+     ],
+     "\r\n"
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964008_ref18"
+     },
+     "Galfione, M. C. y \r\nMoine, F. (2022). El saber filosófico y sus definiciones \r\ninstitucionales. Una lectura a través de la revista Verbum. ",
+     [
+      "span",
+      {},
+      "Palimpsesto"
+     ],
+     ", (20), 1-22. ",
+     [
+      "a",
+      {
+       "href": "https://doi.org/10.35588/pa.v12i20.5451"
+      },
+      "https://doi.org/10.35588/pa.v12i20.5451"
+     ],
+     "\r\n"
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964008_ref28"
+     },
+     "Gramsci, A. (1984). ",
+     [
+      "span",
+      {},
+      "El materialismo histórico y la filosofía de Benedetto Croce"
+     ],
+     ". Nueva visión."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964008_ref19"
+     },
+     "Korn, A. (1925). Croce. ",
+     [
+      "span",
+      {},
+      "Revista de Filosofía. Cultura, ciencia, educación"
+     ],
+     ", (XI). Tomo XXI."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964008_ref20"
+     },
+     "Korn, A. (2012). ",
+     [
+      "span",
+      {},
+      "Lecciones inéditas 1925"
+     ],
+     ". Universidad Nacional de La Plata."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964008_ref21"
+     },
+     "Mailhe, A. (2020). El impacto de ",
+     [
+      "span",
+      {},
+      "La decadencia de Occidente"
+     ],
+     " de Oswald Spengler en los indigenismos latinoamericanos: el caso de Ernesto Quesada. En L. Dávila y P. Arenas (Eds.), ",
+     [
+      "span",
+      {},
+      "El americanismo germano en la antropología argentina de fines del siglo XIX al siglo XX"
+     ],
+     " (pp. 391-422). CICCUS, CLACSO."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964008_ref22"
+     },
+     "Martínez, B. \r\n(1987). Los fundamentos filosóficos de la nueva escuela histórica a \r\ntravés de la polémica Ravignani-Carbia (1925-1927). ",
+     [
+      "span",
+      {},
+      "Anuario de Estudios Americanos"
+     ],
+     ", (44), 1-31."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964008_ref23"
+     },
+     "Pró, D. (1973).",
+     [
+      "span",
+      {},
+      " Escritos de ética"
+     ],
+     ". Instituto de Filosofía, Universidad Nacional de Cuyo."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964008_ref24"
+     },
+     "Rodríguez Bustamante, N. (1966). Introducción. En C. Alberini, ",
+     [
+      "span",
+      {},
+      "Problemas de la historia de las ideas en la Argentina"
+     ],
+     ". Instituto de pensamiento argentino, Universidad Nacional de La Plata."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964008_ref25"
+     },
+     "Roig, A. (1968). El concepto de Historia de las ideas en Coriolano Alberini. ",
+     [
+      "span",
+      {},
+      "Cuyo"
+     ],
+     ", (4), Primera época, 147-157."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964008_ref26"
+     },
+     "Ruvituso, C. (2015). ",
+     [
+      "span",
+      {},
+      "Diálogos existenciales. La filosofía alemana en la Argentina peronista (1946-1955)"
+     ],
+     ". Iberoamericana-Veuvert."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Notas"
+    ],
+    "\r\n",
+    [
+     "span",
+     {
+      "id": "t-fn1"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "1"
+     ],
+     " Alberini es el primer egresado de la \r\ncarrera que llega a ser profesor, y eso es recordado como un signo del \r\nproceso de autonomización de la filosofía en el país. Asume por primera \r\nvez como profesor suplente de Historia de la filosofía, en 1919, desde \r\nentonces es vertiginoso el ritmo con el que va ocupando otros cargos \r\ndocentes, pero también de gestión. Lo encontramos en ese mismo año \r\noficiando de consejero docente en el Consejo de la FFyL de la UBA y en \r\n1921 acompaña a Ricardo Rojas como vice decano de esa misma Facultad, \r\npara asumir en 1925 como decano, cargo que ocupará en dos oportunidades \r\nmás en la década siguiente. Del mismo modo, fue vicerrector de esa \r\nUniversidad en 1928 y 1940."
+    ],
+    "\r\n",
+    [
+     "span",
+     {
+      "id": "t-fn2"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "2"
+     ],
+     " Interesantes descripciones y análisis pueden encontrarse en Clara ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964008_ref26",
+       "id": "t-llamada-redalyc_314964008_ref26-1"
+      },
+      "Ruvituso (2015)"
+     ],
+     " y Mauro ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964008_ref14",
+       "id": "t-llamada-redalyc_314964008_ref14-3"
+      },
+      "Donnantuoni Moratto (2014)"
+     ],
+     "."
+    ],
+    "\r\n",
+    [
+     "span",
+     {
+      "id": "t-fn3"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "3"
+     ],
+     " Encontramos a Cuccaro, desde 1923 a cargo \r\nde Historia de la filosofía, aunque como profesor suplente, en reemplazo\r\n de Alejandro Korn. Hacia fines de 1926 es designado por concurso \r\nprofesor titular de Filosofía contemporánea. Jacinto Cuccaro es un \r\nferviente opositor a la línea más proclive al cientificismo en la \r\nFacultad desde sus años de estudiante y esa diferencia teórica se \r\narticula con manifiestas diferencias políticas. Si su opción teórica \r\npuede observarse en las páginas de ",
+     [
+      "span",
+      {},
+      "Verbum"
+     ],
+     ", \r\nla revista del Centro de estudiantes, sus diferencias políticas pueden \r\nreconocerse en su disputa con Gregorio Bermann por el centro de \r\nestudiantes de la Facultad en 1917 (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964008_ref18",
+       "id": "t-llamada-redalyc_314964008_ref18-1"
+      },
+      "Galfione & Moine (2022)"
+     ],
+     " y Natalia ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964008_ref7",
+       "id": "t-llamada-redalyc_314964008_ref7-1"
+      },
+      "Bustelo (2015)"
+     ],
+     "."
+    ],
+    "\r\n",
+    [
+     "span",
+     {
+      "id": "t-fn4"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "4"
+     ],
+     " Sobre este punto, que puede resultar \r\npolémico, conviene revisar el texto escrito por Alberini en 1925, “El \r\nproblema ético en la filosofía de Bergson” (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964008_ref2",
+       "id": "t-llamada-redalyc_314964008_ref2-4"
+      },
+      "Alberini, 1973a"
+     ],
+     ")."
+    ],
+    "\r\n",
+    [
+     "span",
+     {
+      "id": "t-fn5"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "5"
+     ],
+     " Un rápido visionado de los programas de las\r\n materias de la carrera de filosofía en la FFyL de la UBA revela la \r\nrecurrencia del nombre de Croce en la bibliografía de estudio. Desde \r\n1916, en el programa que Rodolfo Rivarola presenta para Ética y \r\nmetafísica se consigna su libro ",
+     [
+      "span",
+      {},
+      "Filosofía Práctica"
+     ],
+     " (1926), en su edición en italiano: ",
+     [
+      "span",
+      {},
+      "Filosofía délia pratica económica e morale"
+     ],
+     ". Ese texto será bibliografía recurrente en diversas materias, complementándose con otros como ",
+     [
+      "span",
+      {},
+      "Lógica, Estética, Materialismo histórico y economía marxista"
+     ],
+     " (1990) y, en menor medida, ",
+     [
+      "span",
+      {},
+      "Teoría e historia de la historiografía "
+     ],
+     "(1971),\r\n que aparecerá recién en 1929, en el programa de León Dujovne de \r\nIntroducción a la filosofía. Con Croce, Windelband y de Ruggiero, sus \r\nhistorias de la filosofía, son también de lectura obligada según varios \r\nprogramas. Quizás sea interesante señalar que esos textos, en sus \r\nprimeras y segundas ediciones en su idioma original, se conservan en la \r\nbiblioteca de la Facultad, lo que sugiere una presencia no solo nominal \r\nen los programas. En este mismo sentido, aunque Alberini insista \r\nretrospectivamente en ubicar a Croce en el centro de su formación, puede\r\n reconocerse que la presencia del autor italiano fue cada vez más \r\nrecurrente a medida que avanzaba la década de 1920. Si en 1919 lo \r\nencontramos solo referenciado en el programa de Rivarola, hacia 1925 lo \r\nencontramos en los de Korn, Chiabra, Alberini, Cuccaro y Levene, por \r\ncitar algunos ejemplos."
+    ],
+    "\r\n",
+    [
+     "span",
+     {
+      "id": "t-fn6"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "6"
+     ],
+     " Sobre la lectura que hace Alberini de Kant conviene revisar el trabajo de Jorge ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964008_ref15",
+       "id": "t-llamada-redalyc_314964008_ref15-1"
+      },
+      "Dotti (1991, pp. 187-192)"
+     ],
+     "."
+    ],
+    "\r\n",
+    [
+     "span",
+     {
+      "id": "t-fn7"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "7"
+     ],
+     " Subrayamos el hecho de que el mismo ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964008_ref11",
+       "id": "t-llamada-redalyc_314964008_ref11-4"
+      },
+      "Cuccaro (1918)"
+     ],
+     " se refiere allí a la filosofía como “filosofía de la inmanencia”."
+    ],
+    "\r\n",
+    [
+     "span",
+     {
+      "id": "t-fn8"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "8"
+     ],
+     " Quizás sea pertinente anotar que esta \r\nnoción no invoca la idea de “historia universal”. Atento a los sentidos \r\ndisponibles, el mismo ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964008_ref10",
+       "id": "t-llamada-redalyc_314964008_ref10-4"
+      },
+      "Croce (1965)"
+     ],
+     " elabora una fuerte crítica a ese término, precaviéndose de posibles confusiones (pp. 44-47)."
+    ],
+    "\r\n",
+    [
+     "span",
+     {
+      "id": "t-fn9"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "9"
+     ],
+     " Como hemos dicho, este no es un artículo \r\nfocalizado en un análisis de recepción; regresar a los trabajos de Croce\r\n sirve aquí para obtener alguna precisión en la lectura que ensayamos de\r\n los autores argentinos, y no para contrastar su interpretación."
+    ],
+    "\r\n",
+    [
+     "span",
+     {
+      "id": "t-fn10"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "10"
+     ],
+     " Notamos de paso, porque tiene \r\nsignificación importante para la lectura de nuestros autores, que este, \r\nel del lugar asignado a los hechos, es lo que ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964008_ref10",
+       "id": "t-llamada-redalyc_314964008_ref10-5"
+      },
+      "Croce (1965)"
+     ],
+     " mismo destaca como diferencia fundamental con la noción de historia propuesta por Hegel."
+    ],
+    "\r\n",
+    [
+     "span",
+     {
+      "id": "t-fn11"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "11"
+     ],
+     " Cabe notar, sin embargo, que ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964008_ref5",
+       "id": "t-llamada-redalyc_314964008_ref5-4"
+      },
+      "Alberini (1973b)"
+     ],
+     "\r\n recuerda haber sido impulsor de la cátedra de Epistemología e Historia \r\nde la Ciencia, y subraya, con ello, tanto su interés por este capítulo \r\nde la filosofía, cuanto la necesidad de ocuparse de un asunto que \r\nenriquecería la formación tanto de filósofos cuanto de científicos. Del \r\nmismo modo, ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964008_ref13",
+       "id": "t-llamada-redalyc_314964008_ref13-1"
+      },
+      "Cuccaro (1922)"
+     ],
+     " \r\ninsiste con el carácter metodológico de la filosofía frente a la \r\nhistoria, aquella es historiografía que viene a renovar este saber. A \r\npesar de la pretendida delimitación de los campos, es evidente la \r\nfamiliaridad conceptual que puede hallarse entre estos planteos y los de\r\n quienes llevan adelante la delimitación del saber histórico en estas \r\nuniversidades del país, aunque constituye aún un tema pendiente de \r\nexploración. La cercanía de Alberini con Ravignani, así como la intensa y\r\n articulada participación de ambos en cargos de gobierno de la Facultad \r\nde Filosofía y Letras de la UBA, es un aspecto importante a tener \r\npresente. En relación con la historiografía, pueden explorarse los \r\ntrabajos de Beatriz ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964008_ref22",
+       "id": "t-llamada-redalyc_314964008_ref22-1"
+      },
+      "Martínez (1987)"
+     ],
+     " y de María Carla ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964008_ref27",
+       "id": "t-llamada-redalyc_314964008_ref27-1"
+      },
+      "Galfione (2024)"
+     ],
+     "."
+    ],
+    "\r\n",
+    [
+     "span",
+     {
+      "id": "t-fn12"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "12"
+     ],
+     " Es evidente que, para quienes se inscriben\r\n en esta línea, la supervivencia o la adaptación están también mediadas \r\npor la interpretación. La gran diferencia se plantea en el modo de \r\ncomprender los fenómenos psíquicos, en un caso reacciones fisiológicas \r\nnaturales con caracteres específicos propios, en el otro, producto de un\r\n mecanismo ya no fisiológico, sino espiritual, con particularidades que \r\nlo ligan a las ",
+     [
+      "span",
+      {},
+      "situaciones"
+     ],
+     " más que a la especie."
+    ],
+    "\r\n",
+    [
+     "span",
+     {
+      "id": "t-fn13"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "13"
+     ],
+     " ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964008_ref24",
+       "id": "t-llamada-redalyc_314964008_ref24-2"
+      },
+      "Rodríguez Bustamante (1966)"
+     ],
+     "\r\n lo dice de un modo particular, usando una frase de Alberini, aunque sin\r\n ofrecer precisiones: “[…] ni absoluto nominalismo nacionalista, ni \r\ninternacionalismo abstracto” (p. 16). Más allá de que esta expresión \r\npuede entenderse de manera más específica en este marco conceptual que \r\npresentamos, es interesante cómo se introduce aquí una dimensión que \r\nsugiere un campo de tensiones de orden político que también atraviesan \r\nel tema."
+    ],
+    "\r\n",
+    [
+     "span",
+     {
+      "id": "t-fn14"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "14"
+     ],
+     " Es importante señalar que, en el planteo \r\nde Alberini, la diferencia y la relación entre historia de las ideas e \r\nhistoria de la filosofía no está resuelta y creemos que esto, en parte, \r\nse relaciona con aquello que anotábamos de la mano del autor al \r\nreferirnos a la filosofía nacional. En el esquema de comprensión que lo \r\ninscribimos, al decir “filosofía” nos ubicamos en el terreno de lo \r\nuniversal, con lo cual “historia de la filosofía” vendría a significar \r\nhistoria de los momentos reflexivos de universalización. Lo importante \r\naquí es advertir que la definición y el rol de la historia de las ideas y\r\n la filosofía quedan superpuestas, en tanto, como queda claro en el \r\nmodelo croceano, historia y filosofía se encuentran en un mismo objeto. \r\nLa historia de las ideas aparece como el gesto reflexivo de dar sentido,\r\n logrando articular lo particular, también nacional, con lo universal."
+    ],
+    "\r\n",
+    [
+     "span",
+     {
+      "id": "t-fn15"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "15"
+     ],
+     " ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964008_ref24",
+       "id": "t-llamada-redalyc_314964008_ref24-3"
+      },
+      "Rodríguez Bustamante (1966)"
+     ],
+     "\r\n lo dice a su manera: Alberini, con el despliegue de la historia de las \r\nideas, habría establecido las “bases metódicas y los enfoques capitales \r\npara proporcionarnos aquella conciencia reflexiva de nuestra cultura, \r\nsin la cual la nación no podría existir” (p. 13)."
+    ],
+    "\r\n",
+    [
+     "span",
+     {
+      "id": "t-fn16"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "16"
+     ],
+     " La cita remite a ",
+     [
+      "span",
+      {},
+      "Cultura e vita morale"
+     ],
+     ", en su edición en italiano, que probablemente sea la que data de 1914."
+    ],
+    "\r\n",
+    [
+     "span",
+     {
+      "id": "t-fn17"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "17"
+     ],
+     " Tal como lo dice ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964008_ref20",
+       "id": "t-llamada-redalyc_314964008_ref20-3"
+      },
+      "Korn (2012)"
+     ],
+     ", en relación con el capítulo de la ",
+     [
+      "span",
+      {},
+      "Lógica"
+     ],
+     " en el que Croce se refiere al “consuelo de la filosofía” –aquel que da nombre el artículo que Cuccaro publicara, en 1922, en ",
+     [
+      "span",
+      {},
+      "Humanidades"
+     ],
+     "–, “el ",
+     [
+      "span",
+      {},
+      "consuelo"
+     ],
+     "\r\n se reduce a una actitud contemplativa, a la convicción de que las cosas\r\n han de suceder así forzosamente; y a nosotros no nos quedaría más que \r\nla resignación estática en presencia de este proceso” (p. 191). Y en \r\nrelación con esto, puede notarse el silencio de nuestros autores \r\nrespecto de la vida política del país, que entonces atraviesa las \r\nprimeras experiencias democráticas, con la sucesiva asunción de \r\npresidentes por la ley de sufrago universal recientemente aprobada. Ese \r\nsilencio, nos animamos a decir, resulta coherente con el planteo, porque\r\n la filosofía, como tal, se aleja de las condiciones circunstanciales. \r\nEstas no pueden condicionar su pensamiento, incluso cuando este tenga en\r\n ellas su origen y sobre ellas también vuelva para decir lo que ",
+     [
+      "span",
+      {},
+      "debe ser"
+     ],
+     "."
+    ],
+    "\r\n",
+    [
+     "span",
+     {
+      "id": "t-fn18"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "18"
+     ],
+     " Ampliando los márgenes de lectura, esto recuerda la lectura y el cuestionamiento que hacía ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964008_ref28",
+       "id": "t-llamada-redalyc_314964008_ref28-1"
+      },
+      "Gramsci (1984)"
+     ],
+     "\r\n del pensamiento de Croce. A su juicio, esta concepción de la historia \r\nquedaba presa de “un terror pánico ante los movimientos jacobinos y ante\r\n toda intervención activa de las grandes masas populares como factor de \r\nprogreso histórico” (p. 185). Según ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964008_ref28",
+       "id": "t-llamada-redalyc_314964008_ref28-2"
+      },
+      "Gramsci (1984)"
+     ],
+     ",\r\n Croce expresaría, contra la “filosofía de la praxis”, un racionalismo \r\nantihistórico que prioriza a los intelectuales como “árbitros y \r\nmediadores de las luchas políticas”. Aunque el recorrido y la \r\nprofundización estén aún pendientes, entre los argentinos encontramos \r\nreferencias a ese escenario de debates. Probablemente, parte de las \r\ncríticas al positivismo se entrecruce con ese clima de época en que \r\ndesplegaba la primera “crisis del marxismo”."
+    ],
+    "\r\n",
+    [
+     "span",
+     {
+      "id": "t-fn19"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "19"
+     ],
+     " “Es preciso reconocer los esfuerzos de \r\nCroce por vincular la filosofía idealista a la vida […]. Pero que Croce \r\nhaya logrado éxito plenamente en su intento, no es posible admitirlo” (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964008_ref28",
+       "id": "t-llamada-redalyc_314964008_ref28-3"
+      },
+      "Gramsci, 1984"
+     ],
+     ", p. 190)."
+    ],
+    "\r\n"
+   ],
+   "\r\n"
+  ],
+  "\r\n",
+  [
+   "span",
+   {
+    "id": "t-creditos"
+   },
+   "\r\n",
+   "\r\n",
+   [
+    "span",
+    {
+     "id": "t-logo-izquierda"
+    },
+    "\r\n",
+    [
+     "figura",
+     {}
+    ]
+   ],
+   "\r\n",
+   [
+    "span",
+    {
+     "id": "t-mensaje"
+    },
+    "Modelo de publicación sin fines de lucro para conservar la naturaleza académica y abierta de la comunicación científica",
+    [
+     "br",
+     {}
+    ],
+    "HTML generado a partir de XML-JATS4R"
+   ],
+   "\r\n",
+   [
+    "span",
+    {
+     "id": "t-logo-derecha"
+    },
+    "\r\n",
+    [
+     "figura",
+     {}
+    ]
+   ],
+   "\r\n",
+   "\r\n"
+  ],
+  "\r\n\r\n\r\n"
+ ]
+}

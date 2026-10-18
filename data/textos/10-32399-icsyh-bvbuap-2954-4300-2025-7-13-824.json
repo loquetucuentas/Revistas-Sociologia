@@ -1,0 +1,324 @@
+{
+ "version": 1,
+ "recogido": "2026-10-18T11:53:04+00:00",
+ "doi": "10.32399/icsyh.bvbuap.2954-4300.2025.7.13.824",
+ "titulo": "Herrera Mejía, l. Y Figueroa Ibarra, C. (coords.) (2025). Yum Kimil camina entre nosotros. Sociedad, Estado y Violencia en México. Universidad del Valle de Puebla",
+ "revista": "2954-4300",
+ "numero": "2025",
+ "licencia": {
+  "codigo": "by-nc-sa",
+  "nombre": "CC BY-NC-SA 4.0",
+  "nombre_completo": "Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional",
+  "url": "https://creativecommons.org/licenses/by-nc-sa/4.0",
+  "url_legal": "https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.es"
+ },
+ "fuente": {
+  "url": "https://bajoelvolcanx.buap.mx/index.php/bajovolc/article/download/824/789?inline=1",
+  "formato": "HTML",
+  "plataforma": "ojs-galerada",
+  "pagina": "https://bajoelvolcanx.buap.mx/index.php/bajovolc/article/view/824"
+ },
+ "autores_cita": [
+  {
+   "apellidos": "Luna Santiago",
+   "nombre_pila": "Francisco Dwayne",
+   "nombre": null
+  }
+ ],
+ "avisos_derechos": [
+  "Derechos de autor 2025 Francisco Dwayne Luna Santiago",
+  "Licencia Derechos de autor 2025 Francisco Dwayne Luna Santiago Esta obra está bajo una licencia internacional Creative Commons Atribución-NoComercial-CompartirIgual 4.0. Las autoras y los autores conservan los derechos de autor sobre su obra y ceden a Bajo el Volcán. Revista del Posgrado de Sociología. BUAP únicamente el derecho de primera publicación. Revista de acceso abierto diamante: sin costo para autoras, autores ni personas lectoras."
+ ],
+ "idioma_principal": "es",
+ "indice": [
+  {
+   "id": "t-seccion-1",
+   "nivel": 2,
+   "texto": "Herrera Mejía, L. y Figueroa Ibarra, C. (coords.) (2025). Yum Kimil camina entre nosotros. Sociedad, Estado y violencia en México. Universidad del Valle de Puebla",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-2",
+   "nivel": 3,
+   "texto": "VIOLENCIA JUVENIL Y SICARIATO COMO PRECARIEDAD LABORAL",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-3",
+   "nivel": 3,
+   "texto": "VIOLENCIA SIMBÓLICA EN EL PERIODISMO Y EL ÁMBITO LABORAL",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-4",
+   "nivel": 3,
+   "texto": "VIOLENCIA INSTITUCIONAL Y EXCLUSIÓN SOCIAL",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-5",
+   "nivel": 3,
+   "texto": "IMPACTO DE LA VIRTUALIZACIÓN EN LAS FORMAS CONTEMPORÁNEAS DE VIOLENCIA",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-6",
+   "nivel": 3,
+   "texto": "RESISTENCIA COMUNITARIA Y CRIMINALIZACIÓN DE LA PROTESTA EN OAXACA",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-7",
+   "nivel": 3,
+   "texto": "CONCLUSIÓN",
+   "lang": null
+  }
+ ],
+ "vueltas": {},
+ "contenido": [
+  "\n",
+  [
+   "section",
+   {},
+   "\n",
+   [
+    "strong",
+    {},
+    [
+     "em",
+     {},
+     "Bajo el Volcán. Revista del Posgrado de Sociología. BUAP"
+    ]
+   ],
+   ", Año 7, Núm. 13, noviembre de 2025 – abril de 2026, pp. 450-454.",
+   [
+    "br",
+    {}
+   ],
+   "e-ISSN 2954-4300 · ",
+   [
+    "a",
+    {
+     "href": "https://doi.org/10.32399/ICSYH.bvbuap.2954-4300.2025.7.13.824"
+    },
+    "https://doi.org/10.32399/ICSYH.bvbuap.2954-4300.2025.7.13.824"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Reseñas e intervenciones"
+   ],
+   "\n",
+   [
+    "h2",
+    {
+     "id": "t-seccion-1"
+    },
+    "Herrera Mejía, L. y Figueroa Ibarra, C. (coords.) (2025). Yum Kimil camina entre nosotros. Sociedad, Estado y violencia en México. Universidad del Valle de Puebla"
+   ],
+   "\n",
+   "\n",
+   [
+    "p",
+    {},
+    [
+     "span",
+     {},
+     "Francisco Dwayne Luna Santiago"
+    ],
+    [
+     "br",
+     {}
+    ],
+    [
+     "span",
+     {},
+     "Universidad del Valle de Puebla, Puebla, México"
+    ]
+   ],
+   "\n",
+   "\n",
+   [
+    "p",
+    {},
+    "ec48172@uvp.edu.mx"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "INTRODUCCIÓN"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    [
+     "em",
+     {},
+     "Yum Kimil camina entre nosotros. Sociedad, estado y violencia en México"
+    ],
+    " es un libro que analiza la violencia en México como un fenómeno multidimensional, vinculándola con la modernidad capitalista y la dominación estatal en América Latina; desde la introducción, Leonardo Herrera Mejía y Carlos Figueroa Ibarra toman como punto de partida a Yum Kimil, deidad maya de la muerte, para simbolizar la omnipresencia de la violencia en el país. A partir de esta metáfora, los autores cuestionan su posible erradicación y proponen un análisis epistemológico que explora sus raíces sistémicas."
+   ],
+   "\n",
+   [
+    "h3",
+    {
+     "id": "t-seccion-2"
+    },
+    "VIOLENCIA JUVENIL Y SICARIATO COMO PRECARIEDAD LABORAL"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "En este apartado central se aborda la violencia en relación con la población joven, examinando cómo los jóvenes son víctimas y perpetradores simultáneos en un contexto social que aprueba la violencia velada o abiertamente; se analiza específicamente la incorporación de jóvenes en las filas de organizaciones delincuenciales, a menudo en roles como sicarios o halcones, destacando que esto puede ser una alternativa laboral ante la falta de oportunidades formales o institucionales (incluso en el sistema educativo), así como una forma de obtener reconocimiento, pertenencia, respeto y poder."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Esta participación se ve influenciada por la presión de los grupos criminales y por trayectorias de vida marcadas por la violencia o la falta de atención institucional. Contrario a una asociación simple entre pobreza y delincuencia, que criminaliza la pobreza, las fuentes sugieren que la disponibilidad para unirse se amplifica en zonas marginadas, y la pobreza no es solo económica, sino también de sentido, afectando a distintas clases sociales, aunque con mayor perjuicio en las más empobrecidas."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "La noción de “sicariato” se propone como un trabajo precario, donde el riesgo, especialmente la muerte, es la principal cualidad y flexibiliza la mano de obra; el sicario es visto como un trabajador desechable, un sujeto de castigo y exterminio, cuya identidad es devaluada y criminalizada más allá de la ley, llegando a ser considerado un enemigo total de la sociedad y perdiendo el derecho al debido proceso. Esta dinámica lleva a los jóvenes a ejercer la violencia, descrita como “post-estructural”, donde se convierten en victimarios para mejorar su vida, pero permanecen como víctimas de las condiciones sociales que no les ofrecen alternativas reales. Repensar al sicario como un trabajador peligroso y denigrante, que es al mismo tiempo víctima y victimario, ayuda a oponerse a la criminalización sistemática."
+   ],
+   "\n",
+   [
+    "h3",
+    {
+     "id": "t-seccion-3"
+    },
+    "VIOLENCIA SIMBÓLICA EN EL PERIODISMO Y EL ÁMBITO LABORAL"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "A partir del marco conceptual de Pierre Bourdieu desde los conceptos de ",
+    [
+     "em",
+     {},
+     "habitus"
+    ],
+    ", ",
+    [
+     "em",
+     {},
+     "capital"
+    ],
+    " e ",
+    [
+     "em",
+     {},
+     "ilusio"
+    ],
+    " (creencia en el juego), el libro enfatiza los diversos tipos de violencia, como la violencia simbólica, que lo menciona particularmente en el periodismo mexicano; lo hace para explicar cómo se ejerce la violencia simbólica dentro del gremio periodístico en la búsqueda de prestigio y posición, a menudo desacreditando ciertas áreas de cobertura como “social” en comparación con otras consideradas más “serias”, como son la política o la policía."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "También se da énfasis en la violencia laboral, explorado a través de un estudio de caso en la industria del vestido y la confección de Tehuacán, Puebla, el cual presentan resultados de investigación de campo que detallan las formas de violencia laboral y las violaciones a los derechos laborales que allí ocurren. Relacionado con esto, el texto infiere sobre cómo los discursos contemporáneos tienden a normalizar la precariedad laboral, incluso presentando el “emprendimiento” como superior al trabajo asalariado tradicional (Godínez), lo cual puede manifestarse como discriminación y violencia cotidiana en el ámbito del trabajo. Para así mencionar la violencia institucional que es examinada, destacando la “brecha de implementación” en la aplicación de políticas públicas, como la NOM-046 para la atención a víctimas de violencia en el sector salud en México."
+   ],
+   "\n",
+   [
+    "h3",
+    {
+     "id": "t-seccion-4"
+    },
+    "VIOLENCIA INSTITUCIONAL Y EXCLUSIÓN SOCIAL"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Esta sección se centra en la agresión, el sesgo y las experiencias de las personas identificadas con el VIH/SIDA; basándose en estudios cualitativos, las primeras reacciones al diagnóstico, la exclusión y un tratamiento injusto, se presenta la idea de “daño de conocimiento” para explicar cómo los centros de aprendizaje, como el centro de salud, pueden desplazar la comprensión de la comunidad mediante el uso de un lenguaje técnico, causando desconcierto y angustia. Se ve cómo los individuos forman métodos para lidiar con la enfermedad, incluso aceptando su presencia."
+   ],
+   "\n",
+   [
+    "h3",
+    {
+     "id": "t-seccion-5"
+    },
+    "IMPACTO DE LA VIRTUALIZACIÓN EN LAS FORMAS CONTEMPORÁNEAS DE VIOLENCIA"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "El impacto de la virtualización y tecnologización de la vida social en la violencia también es apoyado en las ideas de Franco Berardi; discute la “hipermodernidad”, la “infósfera” y el “semiocapitalismo”; se plantea que la fragilización de la empatía y la dificultad para la elaboración crítica de la información en la generación postalfabética, criada en parte por máquinas, pueden contribuir a patologías de aceleración y comportamientos violentos masivos; se abordan fenómenos de violencia digital como la sextorsión y el ciberacoso, agravados por la pandemia, y se menciona el marco legal como la Ley Olimpia en Puebla para sancionarlos."
+   ],
+   "\n",
+   [
+    "h3",
+    {
+     "id": "t-seccion-6"
+    },
+    "RESISTENCIA COMUNITARIA Y CRIMINALIZACIÓN DE LA PROTESTA EN OAXACA"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "En México, la violencia presenta manifestaciones particulares en diversas regiones; un ejemplo de la intersección entre política, sociedad y violencia se observa en Oaxaca, donde la defensa de la autonomía municipal y de las formas de elección por usos y costumbres frente a la injerencia de los partidos políticos tradicionales ha catalizado conflictos sociales."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Estas resistencias, como la Asamblea Popular de los Pueblos de Oaxaca (APPO), a menudo están vinculadas a la oposición contra proyectos extractivos o de despojo territorial impulsados por la acumulación neoliberal, y han resultado en la criminalización de activistas y en la emergencia de presos políticos cuya lucha no siempre se adscribe a ideologías partidistas convencionales."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Esto subraya cómo una estructura estatal que falla en construir mediaciones recurre a la coacción, impactando profundamente en la vida social y la organización comunitaria, y mostrando la ineficacia de la gestión de la clase política mexicana que privilegia sus intereses; esta criminalización de la resistencia comunitaria y la defensa de la autonomía en lugares como Oaxaca es presentada en el libro como una manifestación particular de la violencia sistémica y multifacética abordada, que revela una estructura estatal deficiente."
+   ],
+   "\n",
+   [
+    "h3",
+    {
+     "id": "t-seccion-7"
+    },
+    "CONCLUSIÓN"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "La violencia en México se presenta como un fenómeno sistémico y multifacético que va más allá de episodios aislados y se manifiesta en contextos regionales y locales particulares, como la criminalización de la resistencia comunitaria y la defensa de la autonomía y los usos y costumbres en lugares como Oaxaca; Yum Kimil como figura, simboliza esa omnipresencia que se extiende desde la juventud y el ámbito laboral hasta los medios de comunicación, revelando cómo la modernidad capitalista y una estructura estatal deficiente, que ha fallado en sus promesas de productividad y resolución de la pobreza/desigualdad, han instaurado un clima de exclusión y precariedad. Por ello, enfrentar la violencia requiere una transformación integral que replantee la relación entre el sujeto y el Estado, fortaleciendo redes comunitarias y promoviendo discursos y prácticas sociales inclusivas. Solo mediante este cambio estructural se podrá superar la violencia, dejando de ser un reflejo de la marginalidad para convertirse en el impulso de profundas transformaciones sociales."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Cómo citar: ",
+    [
+     "em",
+     {},
+     "Bajo el Volcán. Revista del Posgrado de Sociología. BUAP"
+    ],
+    ", Año 7, Núm. 13, noviembre de 2025 – abril de 2026, pp. 450-454. https://doi.org/10.32399/ICSYH.bvbuap.2954-4300.2025.7.13.824"
+   ],
+   [
+    "p",
+    {},
+    [
+     "a",
+     {
+      "href": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
+     },
+     "Licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional"
+    ],
+    ". Publicación de acceso abierto diamante editada por la Benemérita Universidad Autónoma de Puebla."
+   ],
+   "\n"
+  ],
+  "\n"
+ ]
+}

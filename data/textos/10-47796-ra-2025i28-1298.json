@@ -1,0 +1,3507 @@
+{
+ "version": 1,
+ "recogido": "2026-10-18T11:34:34+00:00",
+ "doi": "10.47796/ra.2025i28.1298",
+ "titulo": "Mejora de la accesibilidad y habitabilidad en el Parque Amauta, Cusco",
+ "revista": "2617-0892",
+ "numero": "n28-2025",
+ "licencia": {
+  "codigo": "by",
+  "nombre": "CC BY 4.0",
+  "nombre_completo": "Creative Commons Atribución 4.0 Internacional",
+  "url": "http://creativecommons.org/licenses/by/4.0",
+  "url_legal": "https://creativecommons.org/licenses/by/4.0/legalcode.es"
+ },
+ "fuente": {
+  "url": "https://revistas.upt.edu.pe/ojs/index.php/arquitek/article/download/1298/1166?inline=1",
+  "formato": "HTML",
+  "plataforma": "ojs-galerada",
+  "pagina": "https://revistas.upt.edu.pe/ojs/index.php/arquitek/article/view/1298"
+ },
+ "autores_cita": [
+  {
+   "apellidos": "Aramburú Naveda",
+   "nombre_pila": "Lena",
+   "nombre": null
+  },
+  {
+   "apellidos": "Muñoz Avendaño",
+   "nombre_pila": "Scherezade Hadit",
+   "nombre": null
+  },
+  {
+   "apellidos": "Palma Quispe",
+   "nombre_pila": "Melissa Katheryn",
+   "nombre": null
+  }
+ ],
+ "avisos_derechos": [
+  "Derechos de autor 2025 Lena Aramburú Naveda, Scherezade Hadit Muñoz Avendaño, Melissa Katheryn Palma Quispe",
+  "Licencia Derechos de autor 2025 Lena Aramburú Naveda, Scherezade Hadit Muñoz Avendaño, Melissa Katheryn Palma Quispe Esta obra está bajo una licencia internacional Creative Commons Atribución 4.0."
+ ],
+ "idioma_principal": "es",
+ "indice": [],
+ "vueltas": {},
+ "contenido": [
+  "\r\n\r\n",
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "a",
+    {
+     "id": "t-_Hlk123178705"
+    }
+   ],
+   [
+    "span",
+    {},
+    "ARQUITEK"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "EDICIÓN N°28",
+    [
+     "span",
+     {},
+     "   "
+    ],
+    "| ",
+    [
+     "a",
+     {
+      "id": "t-_Hlk139134701"
+     },
+     "Julio - Diciembre\r\n202"
+    ],
+    "5 | Edición online ISSN-2617-0892"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    "DOI: "
+   ],
+   [
+    "a",
+    {
+     "id": "t-_Hlk139413149"
+    }
+   ],
+   [
+    "a",
+    {
+     "href": "https://doi.org/10.47796/ra.2025i28%0d"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {
+       "lang": "en"
+      },
+      "https://doi.org/10.47796/ra.2025i2"
+     ]
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "8"
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "a",
+    {
+     "id": "t-_heading-h-gjdgxs"
+    }
+   ],
+   [
+    "a",
+    {
+     "id": "t-_heading-h-z64p9x4yiaqu"
+    }
+   ],
+   [
+    "b",
+    {},
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     [
+      "span",
+      {},
+      " "
+     ]
+    ]
+   ],
+   [
+    "b",
+    {},
+    [
+     "span",
+     {
+      "lang": "en"
+     }
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "b",
+    {},
+    [
+     "span",
+     {},
+     "Mejora\r\nde la accesibilidad y habitabilidad en el parque Amauta (Cusco)",
+     [
+      "a",
+      {
+       "id": "t-_ftnref1",
+       "href": "#t-_ftn1"
+      },
+      [
+       "span",
+       {},
+       [
+        "span",
+        {},
+        [
+         "span",
+         {},
+         [
+          "b",
+          {},
+          [
+           "span",
+           {},
+           "[1]"
+          ]
+         ]
+        ]
+       ]
+      ]
+     ]
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "b",
+    {},
+    [
+     "span",
+     {},
+     " "
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "en"
+   },
+   [
+    "b",
+    {},
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "Improving accessibility and\r\nlivability in Amauta park (Cusco)"
+    ]
+   ],
+   [
+    "span",
+    {
+     "lang": "en"
+    }
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "\r\n\r\n",
+    [
+     "table",
+     {},
+     "\r\n ",
+     [
+      "tr",
+      {},
+      "\r\n  ",
+      [
+       "td",
+       {}
+      ],
+      "\r\n "
+     ],
+     "\r\n ",
+     [
+      "tr",
+      {},
+      "\r\n  ",
+      [
+       "td",
+       {}
+      ],
+      "\r\n  ",
+      [
+       "td",
+       {},
+       [
+        "figura",
+        {}
+       ]
+      ],
+      "\r\n "
+     ],
+     "\r\n"
+    ],
+    "\r\n\r\n"
+   ],
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    " "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "br",
+   {}
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "DOI: "
+   ],
+   [
+    "u",
+    {},
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     [
+      "a",
+      {
+       "href": "https://doi.org/10.47796/ra.2025i28.1298"
+      },
+      [
+       "span",
+       {},
+       "10.47796/ra.2025i28.1298"
+      ]
+     ]
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    " "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "PRESENTADO:",
+    [
+     "span",
+     {},
+     "  "
+    ],
+    "10.06.25"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "ACEPTADO:",
+    [
+     "span",
+     {},
+     "  "
+    ],
+    "24.10.25"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    " "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "LENA ARAMBURÚ NAVEDA",
+    [
+     "a",
+     {
+      "id": "t-_ftnref2",
+      "href": "#t-_ftn2"
+     },
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       [
+        "span",
+        {},
+        [
+         "span",
+         {},
+         "[2]"
+        ]
+       ]
+      ]
+     ]
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Universidad Andina del Cusco, Perú"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    "ORCID "
+   ],
+   [
+    "a",
+    {
+     "href": "https://orcid.org/0000-0003-2633-9558"
+    },
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "0000-0003-2633-9558"
+    ]
+   ],
+   [
+    "span",
+    {
+     "lang": "en"
+    }
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    "laramburun@uandina.edu.pe"
+   ],
+   [
+    "span",
+    {
+     "lang": "en"
+    }
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    " "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    "SCHEREZADE HADIT\r\nMUÑOZ AVENDAÑO"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Universidad Andina del Cusco, Perú"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "ORCID "
+   ],
+   [
+    "a",
+    {
+     "href": "https://orcid.org/0000-0002-7517-9194"
+    },
+    [
+     "span",
+     {},
+     "0000-0002-7517-9194"
+    ]
+   ],
+   [
+    "span",
+    {}
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "smunoz@uandina.edu.pe"
+   ],
+   [
+    "span",
+    {}
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    " "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "MELISSA KATHERYN PALMA QUISPE"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Universidad Nacional San Antonio Abad\r\ndel Cusco, Perú"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "ORCID "
+   ],
+   [
+    "a",
+    {
+     "href": "https://orcid.org/0000-0003-2983-3308"
+    },
+    [
+     "span",
+     {},
+     "0000-0003-2983-3308"
+    ]
+   ],
+   [
+    "span",
+    {}
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "melissapalq@gmail.com"
+   ],
+   [
+    "span",
+    {}
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    " "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    " "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    " "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   "RESUMEN "
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Este\r\nestudio evalúa la accesibilidad en el Parque Amauta, Cusco, identificando\r\nbarreras arquitectónicas que limitan la inclusión de personas con movilidad\r\nreducida. Mediante un enfoque cualitativo, se analizaron normativas de\r\naccesibilidad y se propusieron soluciones basadas en el diseño universal. Se\r\nelaboró una matriz de verificación de 20 criterios de la Norma Técnica A.120, y\r\nse obtuvo un cumplimiento global del 15 %. Este valor se calculó considerando\r\nla presencia, adecuación y funcionalidad de rampas, pavimentos, señalización,\r\nmobiliario y baños, con doble verificación interevaluador. Se detallan las\r\nlimitaciones metodológicas encontradas y la necesidad de operacionalizar\r\nindicadores más precisos. Los resultados muestran la urgencia de intervenciones\r\ninclusivas. Se recomiendan mejoras como rutas accesibles, señalización\r\nmultisensorial y mobiliario adaptado para garantizar la habitabilidad y\r\npromover la igualdad en espacios públicos."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "b",
+    {},
+    [
+     "i",
+     {},
+     [
+      "span",
+      {},
+      "Palabras\r\nclave"
+     ]
+    ]
+   ],
+   [
+    "b",
+    {},
+    [
+     "i",
+     {},
+     [
+      "span",
+      {},
+      ":"
+     ]
+    ]
+   ],
+   [
+    "span",
+    {},
+    " "
+   ],
+   [
+    "span",
+    {},
+    "Accesibilidad universal, arquitectura\r\ninclusiva, espacios públicos, discapacidad, diseño universal"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    " "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    "ABSTRACT"
+   ],
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    " "
+   ],
+   [
+    "span",
+    {
+     "lang": "en"
+    }
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "en"
+   },
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    [
+     "span",
+     {},
+     " "
+    ],
+    "This study assesses accessibility in Amauta Park, Cusco, identifying\r\narchitectural barriers that hinder inclusion for people with reduced mobility.\r\nUsing a qualitative approach, accessibility regulations were analyzed, and\r\nsolutions based on universal design were proposed. A verification matrix with\r\n20 criteria from Technical Standard A.120 was applied, resulting in a global\r\ncompliance of 15%, calculated through itemized evaluation and double\r\ninter-rater validation. The methodological limitations are also acknowledged,\r\nhighlighting the need for clearer operational metrics. Results underscore the\r\nneed for inclusive interventions. Recommendations include accessible routes,\r\nmultisensory signage, and adapted furniture to ensure habitability and promote\r\nequality in public spaces."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "b",
+    {},
+    [
+     "i",
+     {},
+     [
+      "span",
+      {
+       "lang": "en"
+      },
+      "Keywords"
+     ]
+    ]
+   ],
+   [
+    "i",
+    {},
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     ":"
+    ]
+   ],
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    " ",
+    [
+     "span",
+     {},
+     "Universal accessibility, inclusive\r\narchitecture, public spaces, disability, universal design."
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    " "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "i",
+    {},
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     " "
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "a",
+    {
+     "id": "t-_Hlk213631049"
+    },
+    "INTRODUCCIÓN"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "La\r\naccesibilidad en los espacios públicos es un pilar fundamental que permite\r\ngarantizar la inclusión social, especialmente para personas con movilidad\r\nreducida. Sin embargo, muchos parques recreativos, como el Parque Amauta en\r\nCusco, presentan barreras arquitectónicas que restringen su uso, perpetuando la\r\nexclusión social. Este estudio evalúa las condiciones de accesibilidad en el\r\nParque Amauta y propone soluciones basadas en el diseño universal, un enfoque\r\nque promueve entornos accesibles para todos (Mace, 1985)."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "A nivel\r\ninternacional, la Convención sobre los Derechos de las Personas con\r\nDiscapacidad (ONU, 2006) reconoce la accesibilidad como un derecho humano. En\r\nPerú, la Ley N.º 29973, el Reglamento Nacional de Edificaciones (RNE) y la\r\nNorma Técnica A.120 establecen estándares para eliminar barreras\r\narquitectónicas. Pese a ello, la implementación efectiva en el espacio público\r\nsigue siendo limitada. Estudios previos en Puno (Mamani, 2017), Murcia (García,\r\n2019) y, más recientes, en Santiago de Chile (Pérez y Soto, 2021) evidencian\r\nproblemas recurrentes y permiten comparaciones regionales."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Este\r\nestudio es relevante porque aborda un problema social urgente y contribuye al\r\nObjetivo de Desarrollo Sostenible (ODS) 10. Los objetivos incluyen evaluar el\r\ncumplimiento de la Norma Técnica A.120, identificar barreras arquitectónicas y\r\nproponer soluciones prácticas priorizadas y viables para mejorar la\r\nhabitabilidad."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "MATERIALES\r\nY MÉTODOS"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    [
+     "i",
+     {},
+     "Enfoque\r\ndel estudio:"
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "La\r\ninvestigación adoptó un enfoque cualitativo aplicado, de carácter descriptivo,\r\npara analizar condiciones físicas del Parque Amauta y recoger percepciones de\r\nlos usuarios."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    [
+     "i",
+     {},
+     "Diseño\r\nde investigación:"
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Se\r\nemplearon las siguientes técnicas:"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      "§",
+      [
+       "span",
+       {},
+       "    \r\n"
+      ]
+     ]
+    ],
+    "Observación directa: evaluación sistemática de\r\nrampas, pavimentos y señalización mediante guía estructurada con criterios\r\nexplícitos de la Norma A.120."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      "§",
+      [
+       "span",
+       {},
+       "    \r\n"
+      ]
+     ]
+    ],
+    "Entrevistas semiestructuradas: realizadas a diez\r\nusuarios del parque (cinco con discapacidad y cinco sin discapacidad),\r\nseleccionados según criterios de uso frecuente y disponibilidad."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      "§",
+      [
+       "span",
+       {},
+       "    \r\n"
+      ]
+     ]
+    ],
+    "Revisión documental: análisis de normativas\r\nnacionales (Ley 29973, RNE, Norma Técnica A.120), internacionales y literatura\r\nindexada (Scopus, Latindex)."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    [
+     "i",
+     {},
+     "Matriz\r\nde verificación y cálculo:"
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Se elaboró\r\nuna matriz con 20 ítems de la Norma Técnica A.120. Cada ítem fue evaluado con\r\nescala de 0 a 2, en función de cumplimiento parcial o total. El puntaje global\r\nse calculó como proporción del máximo posible. Para asegurar la confiabilidad,\r\ndos evaluadores independientes aplicaron la matriz, alcanzando un 92 % de\r\ncoincidencia. Se reconoce como limitación que algunos ítems presentan criterios\r\ninterpretativos que requieren mayor estandarización."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "RESULTADOS"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "El análisis\r\nreveló un cumplimiento del 15 % con la Norma Técnica A.120. Las principales\r\nbarreras identificadas fueron las siguientes:"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      "§",
+      [
+       "span",
+       {},
+       "   \r\n"
+      ]
+     ]
+    ],
+    "Rampas: Pendientes superiores al 8 %, ausencia\r\nde barandas de seguridad (cumplimiento: 10 %)."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      "§",
+      [
+       "span",
+       {},
+       "   \r\n"
+      ]
+     ]
+    ],
+    "Pavimentos: Superficies irregulares y sin\r\npavimentos táctiles (20 %)."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      "§",
+      [
+       "span",
+       {},
+       "   \r\n"
+      ]
+     ]
+    ],
+    "Señalización: Inexistencia de señales visuales y\r\ntáctiles (5 %)."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      "§",
+      [
+       "span",
+       {},
+       "   \r\n"
+      ]
+     ]
+    ],
+    "Mobiliario: Asientos y mesas no adaptados (15\r\n%)."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      "§",
+      [
+       "span",
+       {},
+       "   \r\n"
+      ]
+     ]
+    ],
+    "Baños: Sin instalaciones accesibles (0 %)."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Las\r\nentrevistas confirmaron que estas barreras reducen la autonomía de personas con\r\nmovilidad reducida. Los relatos subrayaron dificultades para desplazarse y la\r\nnecesidad de acompañantes para acceder a ciertas áreas del parque."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    [
+     "i",
+     {},
+     [
+      "span",
+      {
+       "lang": "en"
+      },
+      " "
+     ]
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  "\r\n\r\n",
+  [
+   "table",
+   {},
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {
+      "colspan": "3"
+     },
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       [
+        "span",
+        {
+         "lang": "en"
+        },
+        "Tabla 1 "
+       ]
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       [
+        "i",
+        {},
+        "Cumplimiento por componente según la Norma\r\n  A.120"
+       ]
+      ],
+      [
+       "span",
+       {},
+       [
+        "span",
+        {}
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "span",
+     {}
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       [
+        "span",
+        {},
+        "Aspecto evaluado"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "span",
+     {}
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       [
+        "span",
+        {},
+        "Cumplimiento (%)"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "span",
+     {}
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       [
+        "span",
+        {},
+        "Barreras identificadas"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "span",
+     {}
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       [
+        "span",
+        {},
+        "Rampas"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "span",
+     {}
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       [
+        "span",
+        {},
+        "10 %"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "span",
+     {}
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       [
+        "span",
+        {},
+        "Pendientes\r\n  excesivas, falta de barandas"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "span",
+     {}
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       [
+        "span",
+        {},
+        "Pavimentos"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "span",
+     {}
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       [
+        "span",
+        {},
+        "20 %"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "span",
+     {}
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       [
+        "span",
+        {},
+        "Superficies\r\n  irregulares, sin pavimentos táctiles"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "span",
+     {}
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       [
+        "span",
+        {},
+        "Señalización"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "span",
+     {}
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       [
+        "span",
+        {},
+        "5 %"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "span",
+     {}
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       [
+        "span",
+        {},
+        "Ausencia\r\n  de señales visuales y táctiles"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "span",
+     {}
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       [
+        "span",
+        {},
+        "Mobiliario"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "span",
+     {}
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       [
+        "span",
+        {},
+        "15 %"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "span",
+     {}
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       [
+        "span",
+        {},
+        "Asientos\r\n  y mesas inaccesibles"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "span",
+     {}
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       [
+        "span",
+        {},
+        "Baños"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "span",
+     {}
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       [
+        "span",
+        {},
+        "0 %"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "span",
+     {}
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       [
+        "span",
+        {},
+        "Sin\r\n  instalaciones adaptadas"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "span",
+     {}
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {
+      "colspan": "3"
+     },
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       [
+        "i",
+        {},
+        [
+         "span",
+         {
+          "lang": "en"
+         },
+         "Nota"
+        ]
+       ]
+      ],
+      [
+       "span",
+       {},
+       [
+        "span",
+        {
+         "lang": "en"
+        },
+        ". Elaboración\r\n  propia (2025)"
+       ]
+      ]
+     ],
+     "\r\n  ",
+     [
+      "span",
+      {}
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       [
+        "span",
+        {},
+        " "
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "span",
+     {}
+    ],
+    "\r\n "
+   ],
+   "\r\n"
+  ],
+  "\r\n\r\n",
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    [
+     "i",
+     {},
+     [
+      "span",
+      {},
+      " "
+     ]
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    " "
+   ]
+  ],
+  "\r\n\r\n",
+  "\r\n\r\n",
+  [
+   "table",
+   {},
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       [
+        "span",
+        {
+         "lang": "en"
+        },
+        "Figura 1"
+       ]
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       [
+        "i",
+        {},
+        [
+         "span",
+         {
+          "lang": "en"
+         },
+         "Ficha de\r\n  observación y análisis del Parque Amauta"
+        ]
+       ]
+      ]
+     ],
+     "\r\n  ",
+     [
+      "span",
+      {}
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       [
+        "b",
+        {},
+        [
+         "span",
+         {},
+         " "
+        ]
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "span",
+     {}
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       [
+        "b",
+        {},
+        [
+         "span",
+         {},
+         [
+          "figura",
+          {}
+         ]
+        ]
+       ]
+      ],
+      [
+       "span",
+       {},
+       [
+        "b",
+        {},
+        [
+         "span",
+         {}
+        ]
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "span",
+     {}
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       [
+        "a",
+        {
+         "id": "t-_Hlk213799489"
+        },
+        [
+         "i",
+         {},
+         [
+          "span",
+          {
+           "lang": "en"
+          },
+          "Nota."
+         ]
+        ]
+       ]
+      ],
+      [
+       "span",
+       {},
+       [
+        "span",
+        {},
+        [
+         "span",
+         {
+          "lang": "en"
+         },
+         " Elaboración propia (2025)"
+        ]
+       ]
+      ],
+      [
+       "span",
+       {},
+       [
+        "span",
+        {
+         "lang": "en"
+        }
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "span",
+     {}
+    ],
+    "\r\n "
+   ],
+   "\r\n"
+  ],
+  "\r\n\r\n",
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    [
+     "b",
+     {},
+     [
+      "span",
+      {},
+      " "
+     ]
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    [
+     "i",
+     {},
+     [
+      "span",
+      {
+       "lang": "en"
+      },
+      " "
+     ]
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    [
+     "i",
+     {},
+     [
+      "span",
+      {
+       "lang": "en"
+      },
+      " "
+     ]
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  "\r\n\r\n",
+  [
+   "table",
+   {},
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       [
+        "span",
+        {
+         "lang": "en"
+        },
+        "Figura 2"
+       ]
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       [
+        "i",
+        {},
+        [
+         "span",
+         {
+          "lang": "en"
+         },
+         "Análisis del\r\n  perfil urbano del Parque Amauta"
+        ]
+       ]
+      ]
+     ],
+     "\r\n  ",
+     [
+      "span",
+      {}
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       [
+        "i",
+        {},
+        [
+         "span",
+         {
+          "lang": "en"
+         },
+         " "
+        ]
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "span",
+     {}
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       [
+        "i",
+        {},
+        [
+         "span",
+         {},
+         [
+          "figura",
+          {}
+         ]
+        ]
+       ]
+      ],
+      [
+       "span",
+       {},
+       [
+        "i",
+        {},
+        [
+         "span",
+         {
+          "lang": "en"
+         }
+        ]
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "span",
+     {}
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       [
+        "i",
+        {},
+        [
+         "span",
+         {
+          "lang": "en"
+         },
+         "Nota."
+        ]
+       ]
+      ],
+      [
+       "span",
+       {},
+       [
+        "span",
+        {
+         "lang": "en"
+        },
+        " Elaboración\r\n  propia (2025)"
+       ]
+      ]
+     ],
+     "\r\n  ",
+     [
+      "span",
+      {}
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       [
+        "i",
+        {},
+        [
+         "span",
+         {
+          "lang": "en"
+         },
+         " "
+        ]
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "span",
+     {}
+    ],
+    "\r\n "
+   ],
+   "\r\n"
+  ],
+  "\r\n\r\n",
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    [
+     "i",
+     {},
+     [
+      "span",
+      {
+       "lang": "en"
+      },
+      " "
+     ]
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    [
+     "i",
+     {},
+     [
+      "span",
+      {
+       "lang": "en"
+      },
+      " "
+     ]
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     " "
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "DISCUSIÓN"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Los\r\nresultados muestran una brecha amplia entre normativa y realidad, lo que\r\ncoincide con el modelo social de la discapacidad (Oliver, 1990). El 15 % de\r\ncumplimiento evidencia deficiencias estructurales y de gestión. La ausencia de\r\nuna planificación urbana con enfoque inclusivo perpetúa desigualdades."
+   ]
+  ],
+  "\r\n\r\n",
+  "\r\n\r\n",
+  [
+   "table",
+   {},
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       [
+        "span",
+        {
+         "lang": "en"
+        },
+        "Figura 3"
+       ]
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       [
+        "i",
+        {},
+        [
+         "span",
+         {},
+         "Propuesta de intervención para el diseño de un\r\n  espacio inclusive"
+        ]
+       ]
+      ]
+     ],
+     "\r\n  ",
+     [
+      "span",
+      {}
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       " "
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "span",
+     {}
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       [
+        "span",
+        {},
+        [
+         "figura",
+         {}
+        ]
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "span",
+     {}
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       [
+        "i",
+        {},
+        [
+         "span",
+         {
+          "lang": "en"
+         },
+         "Nota."
+        ]
+       ]
+      ],
+      [
+       "span",
+       {},
+       [
+        "span",
+        {
+         "lang": "en"
+        },
+        " Elaboración\r\n  propia (2025)"
+       ]
+      ]
+     ],
+     "\r\n  ",
+     [
+      "span",
+      {}
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       " "
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "span",
+     {}
+    ],
+    "\r\n "
+   ],
+   "\r\n"
+  ],
+  "\r\n\r\n",
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    " "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    [
+     "i",
+     {},
+     [
+      "span",
+      {},
+      " "
+     ]
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  "\r\n\r\n",
+  [
+   "table",
+   {},
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       [
+        "span",
+        {},
+        "Figura 4"
+       ]
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       [
+        "i",
+        {},
+        [
+         "span",
+         {},
+         "Propuesta de intervención\r\n  para el diseño de un espacio inclusivo"
+        ]
+       ]
+      ]
+     ],
+     "\r\n  ",
+     [
+      "span",
+      {}
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       [
+        "i",
+        {},
+        [
+         "span",
+         {},
+         " "
+        ]
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "span",
+     {}
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       [
+        "i",
+        {},
+        [
+         "span",
+         {},
+         [
+          "figura",
+          {}
+         ]
+        ]
+       ]
+      ],
+      [
+       "span",
+       {},
+       [
+        "i",
+        {},
+        [
+         "span",
+         {}
+        ]
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "span",
+     {}
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       [
+        "i",
+        {},
+        [
+         "span",
+         {},
+         "Nota."
+        ]
+       ]
+      ],
+      [
+       "span",
+       {},
+       [
+        "span",
+        {},
+        "\r\n  Elaboración propia (2025)"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "span",
+     {}
+    ],
+    "\r\n "
+   ],
+   "\r\n"
+  ],
+  "\r\n\r\n",
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    [
+     "i",
+     {},
+     [
+      "span",
+      {},
+      " "
+     ]
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    [
+     "i",
+     {},
+     [
+      "span",
+      {},
+      " "
+     ]
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  "\r\n\r\n",
+  [
+   "table",
+   {},
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       [
+        "span",
+        {},
+        "Figura 5"
+       ]
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       [
+        "i",
+        {},
+        [
+         "span",
+         {},
+         "Propuesta de intervención\r\n  para el diseño de un espacio inclusivo"
+        ]
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "span",
+     {}
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       [
+        "span",
+        {},
+        [
+         "figura",
+         {}
+        ]
+       ]
+      ],
+      [
+       "span",
+       {},
+       [
+        "span",
+        {}
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "span",
+     {}
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       [
+        "i",
+        {},
+        [
+         "span",
+         {},
+         "Nota."
+        ]
+       ]
+      ],
+      [
+       "span",
+       {},
+       [
+        "span",
+        {},
+        "\r\n  Elaboración propia (2025)"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "span",
+     {}
+    ],
+    "\r\n "
+   ],
+   "\r\n"
+  ],
+  "\r\n\r\n",
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    [
+     "span",
+     {},
+     " "
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    [
+     "i",
+     {},
+     [
+      "span",
+      {},
+      " "
+     ]
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    [
+     "i",
+     {},
+     [
+      "span",
+      {},
+      " "
+     ]
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    [
+     "span",
+     {},
+     " "
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Comparado\r\ncon estudios en Murcia (García, 2019), Santiago de Chile (Pérez y Soto, 2021) y\r\nMéxico (Martínez, 2022), el caso de Cusco refleja problemas comunes de falta de\r\nseñalización y mobiliario inclusivo. A diferencia de estos casos, el Parque\r\nAmauta muestra un déficit mayor en baños accesibles."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Las\r\npropuestas de rutas accesibles, señalización multisensorial y mobiliario\r\nadaptado son coherentes con los estándares internacionales y las\r\nrecomendaciones de la Asociación Española de Parques y Jardines Públicos. Se\r\nrecomienda jerarquizar intervenciones: inmediatas y de bajo costo (señalización\r\ntáctil, pavimentos), intermedias (mobiliario), estructurales y de mayor\r\ninversión (baños, rampas). Asimismo, se sugiere estimar costos referenciales y\r\ncronogramas para orientar a los gestores municipales."
+   ],
+   [
+    "span",
+    {},
+    [
+     "b",
+     {},
+     [
+      "span",
+      {}
+     ]
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "CONCLUSIONES"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "El análisis\r\ndel Parque Amauta en Cusco evidencia un nivel crítico de accesibilidad del 15%\r\nconforme a la Norma Técnica A.120, lo que refleja una brecha estructural\r\nsignificativa entre la normativa vigente y la realidad urbana. Las principales\r\ndeficiencias se concentran en rampas inadecuadas, pavimentos irregulares,\r\nseñalización inexistente y mobiliario no adaptado, factores que restringen el\r\nuso equitativo de los espacios públicos y reproducen dinámicas de exclusión\r\nsocial en personas con discapacidad."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "La\r\ninvestigación demuestra que la implementación de un enfoque de diseño universal\r\nno solo permite superar barreras físicas, sino que promueve la habitabilidad,\r\nla autonomía y el sentido de pertenencia en la población usuaria. Las\r\npropuestas de rutas accesibles, señalización multisensorial y mobiliario\r\nadaptado son intervenciones viables, escalonables y coherentes con los\r\nestándares internacionales de accesibilidad."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Se\r\nrecomienda a las autoridades municipales y regionales institucionalizar la\r\nevaluación periódica de accesibilidad mediante matrices verificables,\r\ngarantizando la aplicación efectiva de la Norma Técnica A.120 en parques,\r\nplazas y demás espacios públicos. Asimismo, resulta indispensable incorporar la\r\naccesibilidad universal en la planificación urbana y paisajística como eje\r\ntransversal de los proyectos de infraestructura pública, con presupuestos y\r\ncronogramas definidos."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Finalmente,\r\neste estudio resalta la necesidad de fortalecer la cultura de inclusión desde\r\nla gestión local, la formación profesional en arquitectura y la participación\r\nciudadana, de modo que Cusco avance hacia un modelo urbano verdaderamente\r\ninclusivo, habitable y sostenible, acorde con los Objetivos de Desarrollo\r\nSostenible 10 y 11."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    " "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "REFERENCIAS\r\nBIBLIOGRÁFICAS"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "García,\r\nJ. (2019). Accesibilidad en espacios públicos urbanos: Caso Murcia. ",
+    [
+     "i",
+     {},
+     "Revista de Urbanismo"
+    ],
+    ", 12(3), 78-92."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Mamani,\r\nD. (2017). Accesibilidad en espacios públicos de Puno. ",
+    [
+     "i",
+     {},
+     "Revista de Arquitectura"
+    ],
+    ", 10(2), 45-60."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Martínez,\r\nL. (2022). Inclusión urbana en parques metropolitanos de México. "
+   ],
+   [
+    "span",
+    {},
+    [
+     "i",
+     {},
+     [
+      "span",
+      {
+       "lang": "en"
+      },
+      "Arquitectura y Sociedad"
+     ]
+    ]
+   ],
+   [
+    "span",
+    {},
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     ", 8(1), 55-70."
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "en"
+   },
+   [
+    "span",
+    {},
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "Oliver, M. (1990). ",
+     [
+      "i",
+      {},
+      "The politics of disablement"
+     ],
+     ". Macmillan\r\nEducation."
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "ONU.\r\n(2006). Convención Internacional sobre los Derechos de las Personas con\r\nDiscapacidad. Naciones Unidas. "
+   ],
+   [
+    "a",
+    {
+     "href": "https://www.un.org/disabilities/documents/convention/convoptprot-s.pdf"
+    },
+    [
+     "span",
+     {},
+     "https://www.un.org/disabilities/documents/convention/convoptprot-s.pdf"
+    ]
+   ],
+   [
+    "span",
+    {}
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Pérez,\r\nR., y Soto, V. (2021). Diseño universal en espacios públicos de Chile. ",
+    [
+     "i",
+     {},
+     "Revista Hábitat y Sociedad"
+    ],
+    ", 13(2),\r\n101-120."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Norma\r\nTécnica A.120. (2018). ",
+    [
+     "i",
+     {},
+     "Accesibilidad para\r\npersonas con discapacidad"
+    ],
+    ". Instituto Nacional de Normalización."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Reglamento\r\nNacional de Edificaciones (RNE). (2019). Ministerio de Vivienda, Construcción y\r\nSaneamiento del Perú."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Ley N° 29973. (2013). Ley que promueve la\r\naccesibilidad universal de las personas con discapacidad. Congreso de la\r\nRepública del Perú. "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    [
+     "span",
+     {},
+     "          "
+    ]
+   ],
+   [
+    "a",
+    {
+     "href": "http://www.leyes.congreso.gob.pe/Documentos/Leyes/29973.pdf"
+    },
+    [
+     "span",
+     {},
+     "http://www.leyes.congreso.gob.pe/Documentos/Leyes/29973.pdf"
+    ]
+   ],
+   [
+    "span",
+    {}
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    [
+     "b",
+     {},
+     [
+      "span",
+      {},
+      " "
+     ]
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    [
+     "b",
+     {},
+     [
+      "span",
+      {},
+      " "
+     ]
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    [
+     "span",
+     {},
+     " "
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "span",
+   {}
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "i",
+    {},
+    [
+     "span",
+     {},
+     " "
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  "\r\n\r\n",
+  [
+   "br",
+   {}
+  ],
+  "\r\n\r\n",
+  "\r\n\r\n",
+  "\r\n\r\n",
+  [
+   "span",
+   {
+    "id": "t-ftn1"
+   },
+   "\r\n\r\n",
+   [
+    "p",
+    {},
+    [
+     "a",
+     {
+      "id": "t-_ftn1",
+      "href": "#t-_ftnref1"
+     },
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       [
+        "span",
+        {},
+        [
+         "span",
+         {},
+         [
+          "span",
+          {},
+          "[1]"
+         ]
+        ]
+       ]
+      ]
+     ]
+    ],
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      " "
+     ]
+    ],
+    [
+     "span",
+     {},
+     "Este\r\nartículo analiza las barreras arquitectónicas en el Parque Amauta de Cusco\r\n(Perú) y propone soluciones inclusivas basadas en diseño universal para mejorar\r\nla accesibilidad y habitabilidad de espacios públicos recreativos,\r\ncontribuyendo a la inclusión social y al cumplimiento de normativas nacionales\r\ne internacionales."
+    ],
+    [
+     "span",
+     {}
+    ]
+   ],
+   "\r\n\r\n"
+  ],
+  "\r\n\r\n",
+  [
+   "span",
+   {
+    "id": "t-ftn2"
+   },
+   "\r\n\r\n",
+   [
+    "p",
+    {},
+    [
+     "a",
+     {
+      "id": "t-_ftn2",
+      "href": "#t-_ftnref2"
+     },
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       [
+        "span",
+        {},
+        [
+         "span",
+         {},
+         [
+          "span",
+          {},
+          "[2]"
+         ]
+        ]
+       ]
+      ]
+     ]
+    ],
+    [
+     "span",
+     {},
+     " "
+    ],
+    [
+     "span",
+     {},
+     "Los autores son integrantes del Centro de\r\nInvestigación e Innovación en Tecnologías y Edificaciones CIITE, de la\r\nUniversidad Andina del Cusco, arquitectas de profesión, con grado de Magíster,\r\nejerciendo la docencia en la Universidad Andina del Cusco, Perú."
+    ]
+   ],
+   "\r\n\r\n"
+  ],
+  "\r\n\r\n",
+  "\r\n\r\n"
+ ]
+}

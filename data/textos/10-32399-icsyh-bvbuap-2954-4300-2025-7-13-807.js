@@ -1,0 +1,437 @@
+// Copia de textos/10-32399-icsyh-bvbuap-2954-4300-2025-7-13-807.json para abrir la aplicación sin servidor.
+(window.DATOS_REVISTAS = window.DATOS_REVISTAS || {})["textos/10-32399-icsyh-bvbuap-2954-4300-2025-7-13-807.json"] = {
+ "version": 1,
+ "recogido": "2026-10-18T11:52:57+00:00",
+ "doi": "10.32399/icsyh.bvbuap.2954-4300.2025.7.13.807",
+ "titulo": "Escárzaga, F .N.; García, Y.; Sagal, Y .; Sánchez, M. Y carrillo, J.J.(coords.) (2020). Reflexiones sobre las violencias estatales y sociales en México y en América latina. México: UAM",
+ "revista": "2954-4300",
+ "numero": "2025",
+ "licencia": {
+  "codigo": "by-nc-sa",
+  "nombre": "CC BY-NC-SA 4.0",
+  "nombre_completo": "Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional",
+  "url": "https://creativecommons.org/licenses/by-nc-sa/4.0",
+  "url_legal": "https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.es"
+ },
+ "fuente": {
+  "url": "https://bajoelvolcanx.buap.mx/index.php/bajovolc/article/download/807/788?inline=1",
+  "formato": "HTML",
+  "plataforma": "ojs-galerada",
+  "pagina": "https://bajoelvolcanx.buap.mx/index.php/bajovolc/article/view/807"
+ },
+ "autores_cita": [
+  {
+   "apellidos": "García Beltrán",
+   "nombre_pila": "Yolanda Mexicalxóchitl",
+   "nombre": null
+  }
+ ],
+ "avisos_derechos": [
+  "Derechos de autor 2025 Yolanda Mexicalxóchitl García Beltrán",
+  "Licencia Derechos de autor 2025 Yolanda Mexicalxóchitl García Beltrán Esta obra está bajo una licencia internacional Creative Commons Atribución-NoComercial-CompartirIgual 4.0. Las autoras y los autores conservan los derechos de autor sobre su obra y ceden a Bajo el Volcán. Revista del Posgrado de Sociología. BUAP únicamente el derecho de primera publicación. Revista de acceso abierto diamante: sin costo para autoras, autores ni personas lectoras."
+ ],
+ "idioma_principal": "es",
+ "indice": [
+  {
+   "id": "t-seccion-1",
+   "nivel": 2,
+   "texto": "Escárzaga, F. N.; García, Y.; Sagal, Y.; Sánchez, M. y Carrillo, J. J. (coords.) (2020). Reflexiones sobre las violencias estatales y sociales en México y en América Latina. México: UAM",
+   "lang": null
+  }
+ ],
+ "vueltas": {},
+ "contenido": [
+  "\n",
+  [
+   "section",
+   {},
+   "\n",
+   [
+    "strong",
+    {},
+    [
+     "em",
+     {},
+     "Bajo el Volcán. Revista del Posgrado de Sociología. BUAP"
+    ]
+   ],
+   ", Año 7, Núm. 13, noviembre de 2025 – abril de 2026, pp. 443-449.",
+   [
+    "br",
+    {}
+   ],
+   "e-ISSN 2954-4300 · ",
+   [
+    "a",
+    {
+     "href": "https://doi.org/10.32399/ICSYH.bvbuap.2954-4300.2025.7.13.807"
+    },
+    "https://doi.org/10.32399/ICSYH.bvbuap.2954-4300.2025.7.13.807"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Reseñas e intervenciones"
+   ],
+   "\n",
+   [
+    "h2",
+    {
+     "id": "t-seccion-1"
+    },
+    "Escárzaga, F. N.; García, Y.; Sagal, Y.; Sánchez, M. y Carrillo, J. J. (coords.) (2020). Reflexiones sobre las violencias estatales y sociales en México y en América Latina. México: UAM"
+   ],
+   "\n",
+   "\n",
+   [
+    "p",
+    {},
+    [
+     "span",
+     {},
+     "Yolanda Mexicalxóchitl García Beltrán"
+    ],
+    [
+     "br",
+     {}
+    ],
+    [
+     "span",
+     {},
+     "El Colegio de México, Ciudad de México, México"
+    ],
+    [
+     "br",
+     {}
+    ],
+    [
+     "span",
+     {},
+     "ORCID: ",
+     [
+      "a",
+      {
+       "href": "https://orcid.org/0000-0001-9258-0783"
+      },
+      "https://orcid.org/0000-0001-9258-0783"
+     ]
+    ]
+   ],
+   "\n",
+   "\n",
+   [
+    "p",
+    {},
+    "ymgb1988@gmail.com"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "LA COMPLEJIDAD DE LAS MÚLTIPLES VIOLENCIAS: UNA DISCUSIÓN INAGOTABLE"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "La obra ",
+    [
+     "em",
+     {},
+     "Reflexiones sobre las violencias estatales y sociales en México y en América Latina"
+    ],
+    ", constituye una amplia visión de cómo son percibidas y vividas dichas violencias en distintos espacios y contextos. Este libro es producto de un esfuerzo colectivo encabezado por estudiantes del Doctorado en Ciencias Sociales de la Universidad Autónoma Metropolitana unidad Xochimilco y la Dra. Fabiola Escárzaga, quienes organizados en torno al seminario “Violencias estatales y sociales contemporáneas”, planearon un coloquio que se realizó del 7 al 9 de noviembre de 2018, mismo que dio pie a la publicación del volumen que aquí se discute."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "La edición resulta rica y basta, pues a través de 11 artículos agrupados en 4 capítulos se da cuenta de la complejidad que reviste hablar de un proceso social tan amplio, tan vivo. El primero de los apartados, dedicado a las aproximaciones teóricas de las violencias, inicia con el trabajo de Margarita Sánchez Pacheco, ",
+    [
+     "em",
+     {},
+     "Apuntes para pensar a los sujetos desde la categoría “pedagogías de la violencia”,"
+    ],
+    " el cual parte del cuestionamiento sobre cómo la violencia estructural se refleja en contextos específicos y en formas concretas, trastocando la vida de los sujetos y, más aún, cómo esa violencia se reproduce."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "La autora parte de un postulado interesante: los sujetos se desenvuelven, crean y existen en contextos atravesados por la violencia por lo que se trata de una cuestión pedagógica. Por ello, adopta la categoría ",
+    [
+     "em",
+     {},
+     "pedagogías de la violencia"
+    ],
+    " que da cuenta de la capacidad de los sujetos para producir y reproducir la violencia. En su narración, pareciera que se asume que ésta es intrínseca a los sujetos, pues se pregunta qué produce en ellos y si, a la vez, los sujetos producen algo desde los contextos de violencia. De ahí la pertinencia de abordar el tema como un asunto pedagógico, pues se asume que la manera en la que los sujetos replican la violencia se deriva de procesos de enseñanza-aprendizaje en los que sus trayectorias y experiencias los interpelan."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Otro aporte es el de Blanca Laura Cordero y Sergio Alejandro Pérez quienes problematizan el Régimen de frontera norteamericano. Notas para entender el carácter de la violencia hacia los migrantes en México y Estados Unidos. De acuerdo con los autores, desde la década de 1980 comenzó a recrudecerse la política migratoria norteamericana a través de lo que ellos llaman poder soberano, es decir, una agudización de la violencia desplegada por las instituciones en aras de frenar la movilidad ilegal."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Cordero y Pérez asocian esta problemática con la capacidad arbitraria de decidir sobre las vidas de las personas, algo que Foucault había analizado desde la noción de ",
+    [
+     "em",
+     {},
+     "gubernamentalidad"
+    ],
+    " pues, recuerdan, en otras ocasiones se ha tolerado la migración cuando así conviene a intereses laborales o mercantiles, generándose una “a medida”. Ese ",
+    [
+     "em",
+     {},
+     "poder soberano"
+    ],
+    " es incluso visible en políticas regionales mediante las cuales los Estados Unidos de América han demostrado su dominio sobre México."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "En ",
+    [
+     "em",
+     {},
+     "Discursos de la vida cotidiana, un campo para estudiar los efectos de la violencia,"
+    ],
+    " Miriam Bautista Arias centra su atención en los efectos que la violencia ha tenido en los individuos y, sobre todo, en sus discursos cotidianos. Por ello, se hace necesario poner atención en el lenguaje y la significación, pues es en la narrativa donde los involucrados dan cuenta de cómo su trayectoria se ha visto afectada o modificada. Incluso, ésta permite ver aquella violencia oculta a través de testimonios de víctimas indirectas pero que dan cuenta de los cambios en los espacios y actividades, o más bien, en la significación que se le da a estos. Bautista da cuenta del relato que hacen los sujetos desde su cotidianidad, la resiliencia y las violencias aparentemente normalizadas."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Al final de este capítulo encontramos el trabajo de Nelly Erandy Reséndiz Rivera, ",
+    [
+     "em",
+     {},
+     "Consideraciones teóricas para la lectura de la violencia de las mujeres"
+    ],
+    " que, como su nombre sugiere, tiene como objeto de análisis el uso que las mujeres hacen de la violencia. Reséndiz se refiere a ellas como ",
+    [
+     "em",
+     {},
+     "sujetas"
+    ],
+    " ya que, considera, esto resalta su papel en la historia como agentes. De esta manera, la autora pretende alejarse de la equívoca percepción que ve a las mujeres como “buenas” o “santas” por naturaleza. En cambio, reconoce que éstas se desenvuelven en procesos históricos concretos y que sus motivaciones son distintas, por lo que no son homogéneas y, por ende, usan la violencia para distintos fines y en distintas formas."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "El capítulo II dedicado a las lecturas sobre las violencias en Sudamérica, inicia con el trabajo de Fabiola Escárzaga, ",
+    [
+     "em",
+     {},
+     "Memorias permitidas y memorias silenciadas de la guerra interna en Perú (2003-2018),"
+    ],
+    " que hace un interesante recuento de los últimos años de la historia peruana, especialmente en aquellos marcados por la actividad de Sendero Luminoso y por la llegada al poder de Alberto Fujimori que devino en intentos de reconciliación, infructuosos hasta ahora."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "La autora elabora un atrayente relato sobre la política fujimorista marcada por el neoliberalismo, las decisiones dictatoriales que escalaron incluso hasta la disolución del congreso y la promulgación de una nueva constitución, así como la persecución de Sendero Luminoso señalada como una organización terrorista y no política. Resulta interesante que este conflicto continúa hasta hoy, a pesar de que Fujimori fue depuesto en el año 2000 y la agrupación guerrillera derrotada militarmente en 1992, por causas en las que Escárzaga profundiza."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Eventualmente, Juan Carlos Gómez Leyton en ",
+    [
+     "em",
+     {},
+     "Violencia, miedo y seguridad ciudadana en una sociedad neoliberal, Chile, 1975-2018,"
+    ],
+    " postula que la violencia, en todas sus formas, es parte de la identidad histórica y política de América Latina. Además, afirma, la violencia va siempre acompañada del miedo, tal como demuestra el caso chileno donde la dictadura instauró estos elementos a pesar de que hoy algunos historiadores afirmen que ha sido una nación pacífica, premisa refutada por Gómez para quien, aunque las violencias y los miedos se transforman con el tiempo, permanecen presentes. Por ejemplo, el período colonial estructuró a la sociedad latinoamericana a partir del miedo de los vencidos y la violencia de los vencedores, pero en la etapa neoliberal encontramos una Violencia Política Estatal que se expresa en las alianzas que se tejen entre fuerzas gubernamentales, medios de comunicación, y mercado."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Por otra parte, Yakir Sagal Luna en ",
+    [
+     "em",
+     {},
+     "Des/ordenamientos territoriales, etnocidio y tácticas: para una lectura de la r-existencia shuar,"
+    ],
+    " aborda el intento, tardío e infructuoso, por someter al pueblo shuar en el siglo XX. Habitantes de la Amazonia ecuatoriana los shuar, también llamados jíbaros, fueron testigos de la llegada de misiones evangelistas que los llevaron a una desterritorialización, es decir, a la pérdida de sus territorios. Empero, la conversión al catolicismo y los nuevos asentamientos les dieron acceso a una capacidad de agencia que se expresó en la conformación de la Federación de Centros Shuar en 1964, surgida precisamente de la actividad política de aquellos que acudieron a escuelas evangelistas y aprendieron español."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "El autor sostiene que el intento de incorporación forzada de los shuar a una religión, al Estado y el desplazamiento de sus territorios, constituyeron una dimensión etnocida del nuevo ",
+    [
+     "em",
+     {},
+     "ordenamiento territorial"
+    ],
+    " frente al que implementaron tácticas y estrategias de ",
+    [
+     "em",
+     {},
+     "desordenamiento territorial"
+    ],
+    " como una forma de resistencia que les permitió r-existir, es decir, reestructurarse."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "El capítulo III está dedicado a abordar los megaproyectos en México, por lo que el primer trabajo contenido a cargo de Yolanda M. García Beltrán versa sobre ",
+    [
+     "em",
+     {},
+     "La implantación de centrales de energía eólica en Baja California: impactos en el territorio y la identidad indígena."
+    ],
+    " Como el título indica, la autora aborda la llegada de proyectos energéticos a la región, misma que culminó con la puesta en marcha del Parque Eólico San Matías, en 2019. La zona, habitada por indígenas yumanos divididos en cuatro poblaciones: cucapá, kiliwa, paipai y kumiai, ha sido codiciada para generar electricidad a partir del viento desde inicios de la década de los 90, lo que engloba varias dificultes."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Los yumanos viven en condiciones de marginación económica, cultural, educativa y social, lo que ha llevado a que hoy queden pocos hablantes de sus lenguas originarias y, al habitar en territorios desérticos, sus actividades productivas son limitadas. La inmersión de proyectos energéticos por medio del despojo, contratos leoninos y agravios (formas de violencia) podrían contribuir a empeorar el panorama."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "También como parte de ese apartado, Donatto Badillo Cuevas problematiza el caso del megaproyecto aeroportuario iniciado durante la presidencia de Enrique Peña Nieto y cancelado por Andrés Manuel López Obrador en ",
+    [
+     "em",
+     {},
+     "Violencia contra la lucha social comunitaria en el noriente de la Cuenca de México."
+    ],
+    " De acuerdo con Badillo, este plan formó parte de una ",
+    [
+     "em",
+     {},
+     "urbanización desbocada"
+    ],
+    " y sus orígenes se remontan a 1991. La obra pretendía legitimarse bajo un discurso desarrollista en el que las poblaciones campesinas de la periferia de la Ciudad de México quedaban relegadas."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "La resistencia de los pobladores de Atenco se encontró con el peso del Estado, quien en 2006 ejerció una dura represión. Badillo destaca este y otros motivos que hacían al aeropuerto inviable y, afirma, su reubicación a Santa Lucía sigue las mismas pautas de ",
+    [
+     "em",
+     {},
+     "urbanización salvaje."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Finalmente, encontramos el capítulo IV que da cuenta de las Violencias Criminales y Estatales en México. En él, aparece ",
+    [
+     "em",
+     {},
+     "Consolidación de territorios criminales. La inmersión criminal de Odebrecht en la industria energética mexicana"
+    ],
+    " de Omar Escamilla Haro, quien a partir del concepto de ",
+    [
+     "em",
+     {},
+     "territorios criminales"
+    ],
+    " documenta el vínculo entre grupos ilícitos, figuras estatales y el sector privado. Por ",
+    [
+     "em",
+     {},
+     "territorios criminales,"
+    ],
+    " el autor entiende espacios donde se redefinen los procesos de acumulación de capital que forjan nuevas relaciones expoliadoras, algo que se hace patente sobre todo en la extracción de minerales y energéticos, los cuales resultan estratégicos económica y políticamente."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "A partir de esta premisa, Escamilla explora el caso de Odebrecht, empresa brasileña encontrada culpable de lavado de dinero, corrupción y nexos con el crimen organizado que sobornó a políticos y empresarios en México y otros países. Su presencia en Veracruz, donde los Zetas tiene una fuerte presencia, permite rastrear nexos ",
+    [
+     "em",
+     {},
+     "macrocriminales"
+    ],
+    " y de ",
+    [
+     "em",
+     {},
+     "captura del Estado,"
+    ],
+    " donde éste queda subordinado, y participa a la vez, en las relaciones comerciales ilegales."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Por último, ",
+    [
+     "em",
+     {},
+     "Del Estado al crimen organizado: imaginarios y cotidianeidad de la violencia en Guerrero"
+    ],
+    " de Omar Villareal Salas, detalla la experiencia del autor durante su estancia en el estado de Guerrero, concretamente en la ciudad de Iguala, donde pudo atestiguar una violencia que, por momentos, pareciera estar escondida, particularmente después de la desaparición de los 43 estudiantes de la normal rural de Ayotzinapa."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Al autor le interesa la elaboración de un estudio etnográfico a partir de sus propias vivencias en campo por lo que, retomando el trabajo de Philip Abrams y Akhil Gupta, formula su propia propuesta para transgredir lo local. Por ello, adopta la ",
+    [
+     "em",
+     {},
+     "deslocalización"
+    ],
+    " y la ",
+    [
+     "em",
+     {},
+     "translocalización"
+    ],
+    " para dar cuenta de las prácticas y representaciones de la violencia estatal en Guerrero a partir del estudio de un solo caso; parte del supuesto de que a partir de su análisis se pueden rastrear elementos que encuentren concordancia con otras geografías."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "En suma, el libro resulta un aporte a la discusión latinoamericana de las violencias, (así, en plural), desde ámbitos teóricos hasta empíricos. Resalta también su carácter multidisciplinario y multitemático, ya que responde a problemáticas actuales que abarcan migración, pobreza, crimen organizado y grandes proyectos de desarrollo. Esta obra resulta una invitación a continuar y profundizar la discusión de una realidad que es cambiante y que transcurre rápido en la cotidianidad de los pueblos, de las urbes, de las sociedades y en la vida de las personas. Es también un recordatorio de la brutalidad que nos rodea pero, a la vez, un incentivo para comprenderla, para construir alternativas desde la información, la organización y la reivindicación de la dignidad humana."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Cómo citar: ",
+    [
+     "em",
+     {},
+     "Bajo el Volcán. Revista del Posgrado de Sociología. BUAP"
+    ],
+    ", Año 7, Núm. 13, noviembre de 2025 – abril de 2026, pp. 443-449. https://doi.org/10.32399/ICSYH.bvbuap.2954-4300.2025.7.13.807"
+   ],
+   [
+    "p",
+    {},
+    [
+     "a",
+     {
+      "href": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
+     },
+     "Licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional"
+    ],
+    ". Publicación de acceso abierto diamante editada por la Benemérita Universidad Autónoma de Puebla."
+   ],
+   "\n"
+  ],
+  "\n"
+ ]
+};

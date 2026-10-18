@@ -1,0 +1,5789 @@
+{
+ "version": 1,
+ "recogido": "2026-10-18T11:36:06+00:00",
+ "doi": "10.47796/ra.2025i28.1292",
+ "titulo": "Estética, sentido de pertenencia y educación ecológica en el paisaje agrícola amazónico",
+ "revista": "2617-0892",
+ "numero": "n28-2025",
+ "licencia": {
+  "codigo": "by",
+  "nombre": "CC BY 4.0",
+  "nombre_completo": "Creative Commons Atribución 4.0 Internacional",
+  "url": "http://creativecommons.org/licenses/by/4.0",
+  "url_legal": "https://creativecommons.org/licenses/by/4.0/legalcode.es"
+ },
+ "fuente": {
+  "url": "https://revistas.upt.edu.pe/ojs/index.php/arquitek/article/download/1292/1130?inline=1",
+  "formato": "HTML",
+  "plataforma": "ojs-galerada",
+  "pagina": "https://revistas.upt.edu.pe/ojs/index.php/arquitek/article/view/1292"
+ },
+ "autores_cita": [
+  {
+   "apellidos": "Vallejos Mundaca",
+   "nombre_pila": "Cesar Anderson",
+   "nombre": null
+  },
+  {
+   "apellidos": "Arbildo Flores",
+   "nombre_pila": "Alison Silene",
+   "nombre": null
+  },
+  {
+   "apellidos": "Canlla Pinedo",
+   "nombre_pila": "Edwin",
+   "nombre": null
+  },
+  {
+   "apellidos": "Susuki Rios",
+   "nombre_pila": "Karen Sayuri",
+   "nombre": null
+  }
+ ],
+ "avisos_derechos": [
+  "Derechos de autor 2025 Cesar Anderson Vallejos Mundaca, Alison Silene Arbildo Flores, Edwin Canlla Pinedo, Karen Sayuri Susuki Rios",
+  "Licencia Derechos de autor 2025 Cesar Anderson Vallejos Mundaca, Alison Silene Arbildo Flores, Edwin Canlla Pinedo, Karen Sayuri Susuki Rios Esta obra está bajo una licencia internacional Creative Commons Atribución 4.0."
+ ],
+ "idioma_principal": "es",
+ "indice": [],
+ "vueltas": {},
+ "contenido": [
+  "\r\n\r\n",
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "a",
+    {
+     "id": "t-_Hlk123178705"
+    }
+   ],
+   [
+    "span",
+    {},
+    "ARQUITEK"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "EDICIÓN N°28",
+    [
+     "span",
+     {},
+     "   "
+    ],
+    "| ",
+    [
+     "a",
+     {
+      "id": "t-_Hlk139134701"
+     },
+     "Julio - Diciembre\r\n202"
+    ],
+    "5 | Edición online ISSN-2617-0892"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    "DOI: "
+   ],
+   [
+    "a",
+    {
+     "id": "t-_Hlk139413149"
+    }
+   ],
+   [
+    "a",
+    {
+     "href": "https://doi.org/10.47796/ra.2025i28%0d"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {
+       "lang": "en"
+      },
+      "https://doi.org/10.47796/ra.2025i2"
+     ]
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "8"
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "a",
+    {
+     "id": "t-_heading-h-gjdgxs"
+    }
+   ],
+   [
+    "a",
+    {
+     "id": "t-_heading-h-z64p9x4yiaqu"
+    }
+   ],
+   [
+    "b",
+    {},
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     [
+      "span",
+      {},
+      " "
+     ]
+    ]
+   ],
+   [
+    "b",
+    {},
+    [
+     "span",
+     {}
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "b",
+    {},
+    [
+     "span",
+     {},
+     "Estética,\r\nsentido de pertenencia y educación ecológica e"
+    ]
+   ],
+   [
+    "b",
+    {},
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "n el paisaje agrícola amazónico"
+    ]
+   ],
+   [
+    "b",
+    {},
+    [
+     "span",
+     {
+      "lang": "en"
+     }
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "en"
+   },
+   [
+    "b",
+    {},
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "Aesthetics, sense of place, and\r\necological education in the amazonian agricultural landscape"
+    ]
+   ],
+   [
+    "b",
+    {},
+    [
+     "span",
+     {
+      "lang": "en"
+     }
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "\r\n\r\n",
+    [
+     "table",
+     {},
+     "\r\n ",
+     [
+      "tr",
+      {},
+      "\r\n  ",
+      [
+       "td",
+       {}
+      ],
+      "\r\n "
+     ],
+     "\r\n ",
+     [
+      "tr",
+      {},
+      "\r\n  ",
+      [
+       "td",
+       {}
+      ],
+      "\r\n  ",
+      [
+       "td",
+       {},
+       [
+        "figura",
+        {}
+       ]
+      ],
+      "\r\n "
+     ],
+     "\r\n"
+    ],
+    "\r\n\r\n"
+   ],
+   [
+    "b",
+    {},
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     " "
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "br",
+   {}
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "DOI: "
+   ],
+   [
+    "u",
+    {},
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     [
+      "a",
+      {
+       "href": "https://doi.org/10.47796/ra.2025i28.1292"
+      },
+      [
+       "span",
+       {},
+       "10.47796/ra.2025i28.1292"
+      ]
+     ]
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    " "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "PRESENTADO:",
+    [
+     "span",
+     {},
+     "  "
+    ],
+    "15.08.25"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "ACEPTADO:",
+    [
+     "span",
+     {},
+     "  "
+    ],
+    "21.10.25"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    " "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "CESAR ANDERSON VALLEJOS MUNDACA",
+    [
+     "a",
+     {
+      "id": "t-_ftnref1",
+      "href": "#t-_ftn1"
+     },
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       [
+        "span",
+        {},
+        [
+         "span",
+         {},
+         "[1]"
+        ]
+       ]
+      ]
+     ]
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Universidad Peruana Unión. Tarapoto, Perú"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "ORCID: "
+   ],
+   [
+    "a",
+    {
+     "href": "https://orcid.org/0000-0003-2516-6050"
+    },
+    [
+     "span",
+     {},
+     "0000-0003-2516-6050"
+    ]
+   ],
+   [
+    "span",
+    {}
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "cesarvallejos@upeu.edu.pe"
+   ],
+   [
+    "span",
+    {}
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    " "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "ALISON SILENE ARBILDO FLORES",
+    [
+     "a",
+     {
+      "id": "t-_ftnref2",
+      "href": "#t-_ftn2"
+     },
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       [
+        "span",
+        {},
+        [
+         "span",
+         {},
+         "[2]"
+        ]
+       ]
+      ]
+     ]
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Universidad Peruana Unión. Tarapoto, Perú"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "ORCID: "
+   ],
+   [
+    "a",
+    {
+     "href": "https://orcid.org/0000-0003-2743-6165"
+    },
+    [
+     "span",
+     {},
+     "0000-0003-2743-6165"
+    ]
+   ],
+   [
+    "span",
+    {}
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "alisonarbildo@upeu.edu.pe"
+   ],
+   [
+    "span",
+    {}
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    " "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "EDWIN CANLLA PINEDO",
+    [
+     "a",
+     {
+      "id": "t-_ftnref3",
+      "href": "#t-_ftn3"
+     },
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       [
+        "span",
+        {},
+        [
+         "span",
+         {},
+         "[3]"
+        ]
+       ]
+      ]
+     ]
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Universidad Peruana Unión. Tarapoto, Perú"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "ORCID: "
+   ],
+   [
+    "a",
+    {
+     "href": "https://orcid.org/0000-0002-3155-3332"
+    },
+    [
+     "span",
+     {},
+     "0000-0002-3155-3332"
+    ]
+   ],
+   [
+    "span",
+    {}
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "edwincanlla@upeu.edu.pe"
+   ],
+   [
+    "span",
+    {}
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    " "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "KAREN SAYURI SUSUKI RIOS",
+    [
+     "a",
+     {
+      "id": "t-_ftnref4",
+      "href": "#t-_ftn4"
+     },
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       [
+        "span",
+        {},
+        [
+         "span",
+         {},
+         "[4]"
+        ]
+       ]
+      ]
+     ]
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Universidad Peruana Unión. Tarapoto, Perú"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "ORCID: "
+   ],
+   [
+    "a",
+    {
+     "href": "https://orcid.org/0000-0002-7331-7274"
+    },
+    [
+     "span",
+     {},
+     "0000-0002-7331-7274"
+    ]
+   ],
+   [
+    "span",
+    {}
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "sayurisusuki@upeu.edu.pe"
+   ],
+   [
+    "span",
+    {}
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    " "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   " "
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   "RESUMEN "
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "            "
+   ],
+   "La\r\nreciente expansión urbana en la conurbación de Tarapoto ha modificado\r\nsignificativamente los paisajes agrícolas, lo que ha provocado una disminución\r\nen su capacidad para ofrecer servicios ecosistémicos culturales (en adelante,\r\nSEC). Este estudio analizó los valores de los SEC del paisaje agrícola\r\nperiurbano a partir de la percepción de los agricultores y residentes locales;\r\npara ello, se realizaron 52 entrevistas semiestructuradas y se empleó la\r\nobservación participante. Los hallazgos revelaron una conexión entre la\r\nconfiguración del paisaje y la identidad cultural, y evidenciaron que la\r\neconomía, la apreciación estética y el sentido de pertenencia son componentes\r\nclave de los SEC. En términos de valores, el económico se asocia con el\r\nsustento agrícola y la generación de ingresos; el social, con la cohesión\r\ncomunitaria y la transmisión de conocimientos; y el simbólico, con la\r\nidentidad, la historia y el sentido de pertenencia. Se subraya la importancia\r\nde comprender y proteger la interacción compleja entre los sistemas\r\nsocioecológicos y el bienestar humano en contextos agrícolas, con el fin de\r\nfomentar la sostenibilidad urbana."
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "b",
+    {},
+    [
+     "i",
+     {},
+     [
+      "span",
+      {},
+      "Palabras\r\nclave"
+     ]
+    ]
+   ],
+   [
+    "i",
+    {},
+    [
+     "span",
+     {},
+     ":"
+    ]
+   ],
+   [
+    "span",
+    {},
+    " "
+   ],
+   [
+    "span",
+    {},
+    "servicios ecosistémicos, valores, paisaje\r\nagrícola, percepción, Amazonía."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    " "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    "ABSTRACT"
+   ],
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    " "
+   ],
+   [
+    "span",
+    {
+     "lang": "en"
+    }
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "en"
+   },
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    [
+     "span",
+     {},
+     "            "
+    ],
+    "The recent urban expansion in the\r\nTarapoto conurbation has significantly modified agricultural landscapes,\r\nthereby diminishing their capacity to provide cultural ecosystem services. This\r\nstudy analyzed the values of CES within the peri-urban agricultural landscape\r\nthrough the perspectives of farmers and local residents, employing 52\r\nsemi-structured interviews and participant observation. The findings revealed a\r\ndirect connection between landscape configuration and cultural identity,\r\ndemonstrating that economic viability, aesthetic appreciation, and sense of\r\nbelonging are key components of the perceived CES in these agricultural\r\nsettings. In terms of values, the economic aspect is associated with\r\nagricultural sustenance and income generation; the social aspect, with\r\ncommunity cohesion and the transmission of traditional knowledge; and the\r\nsymbolic aspect, with identity, history, and sense of place. This underscores\r\nthe critical importance of understanding and safeguarding the complex\r\ninteraction between socio-ecological systems and human well-being in\r\nagricultural contexts, with the aim of fostering urban sustainability."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "b",
+    {},
+    [
+     "i",
+     {},
+     [
+      "span",
+      {
+       "lang": "en"
+      },
+      "Keywords"
+     ]
+    ]
+   ],
+   [
+    "i",
+    {},
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     ":"
+    ]
+   ],
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    " ",
+    [
+     "i",
+     {},
+     "Ecosystem\r\nservices, Values, Agricultural landscape, Perception, Amazon."
+    ],
+    [
+     "span",
+     {}
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "b",
+    {},
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     " "
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   "INTRODUCCIÓN"
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    [
+     "span",
+     {},
+     "            "
+    ],
+    "El paisaje agrícola\r\nconstituye un entorno natural de gran importancia, el cual se configura a\r\ntravés de la realización de actividades multifuncionales que generan bienes y\r\nservicios beneficiosos para la sociedad. Para comprender mejor la diversidad de\r\nestos beneficios que satisfacen a los seres humanos, resulta pertinente adoptar\r\nel enfoque de servicios ecosistémicos (SE) (Albaladejo-García et al., 2023, p.\r\n2; Pandeya et al., 2016, p. 250). Estos servicios cumplen diversas funciones:\r\nson fuentes de alimento, contribuyen a la mejora de la fertilidad del suelo,\r\nproveen espacios verdes abiertos, permiten el mantenimiento de hábitats para la\r\nvida silvestre, entre otros. Del mismo modo, el paisaje agrícola contribuye a\r\nla mejora de la calidad del suelo, agua y aire, con impactos significativos en\r\náreas urbanas y periféricas (Mulya et al., 2023, p. 245)."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    [
+     "span",
+     {},
+     "            "
+    ],
+    "Los procesos de\r\nexpansión urbana informal, sin embargo, han alterado drásticamente los paisajes\r\nagrícolas, generando desafíos importantes en términos de planificación,\r\nconservación ecológica y sostenibilidad cultural (Wolff et al., 2023, p. 275).\r\nSe estima, por ejemplo, que más de mil millones de personas habitan en\r\nasentamientos informales, los cuales, en muchos casos, crecen fuera del control\r\nestatal, sin acceso a servicios básicos y sin una adecuada integración urbana\r\n(Van der Merwe & Simha, 2023, p. 1). Esta situación ha reducido la\r\ncapacidad de los ecosistemas periurbanos para proveer SEC, afectando la\r\nbiodiversidad, la conectividad ecológica y la relación simbólica de los\r\nhabitantes con su entorno (Narducci et al., 2019, p. 1)."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    [
+     "span",
+     {},
+     "            "
+    ],
+    "En países en\r\ndesarrollo, una parte significativa de los paisajes agrícolas (entre el 10 % y\r\nel 20 %) enfrenta algún grado de deterioro del suelo (MEA, 2005, p. 15). A\r\npesar de los esfuerzos municipales por promover el cuidado del medio ambiente,\r\nestos problemas persisten (Valdés, 2017, pp. 4-5). La deforestación, por\r\nejemplo, ha acelerado la degradación del suelo, con una pérdida de 143.425\r\nhectáreas de bosque en la Amazonía andina en 2017, afectando especialmente a\r\nregiones como Huánuco, Amazonas, Ucayali, Madre de Dios y San Martín (MAAP,\r\n2022). Asimismo, la degradación del suelo y el incremento de las emisiones de\r\ngases de efecto invernadero se han intensificado debido a la agricultura\r\ninadecuada, la quema de residuos y el uso excesivo de agroquímicos (FAO, 2021;\r\nMINAM, 2021). "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "La provincia de San Martín destaca a nivel nacional por su alta\r\nproducción de arroz en cáscara (27,1 % del total nacional) y de plátano (20,1 %\r\ndel total nacional) (SINEACE, 2020, p. 8). Incluso, para el 2021, la región\r\nrepresentó el 24 % de la producción nacional de arroz (Gobierno Regional de San\r\nMartín, 2021). Esta actividad agrícola, sin embargo, también ha contribuido a\r\nla fragmentación del paisaje, la deforestación y contaminación, en particular\r\npor la quema de cascarilla de arroz (MPSM, 2019). Debido a ello, entre 2001 y\r\n2021, San Martín perdió aproximadamente 16.541 hectáreas de bosque (CEPLAN,\r\n2023, p. 12). Y en Tarapoto, un centro de producción agrícola ubicado en las\r\nperiferias, registró una importante actividad arrocera, sembrando 77.413\r\nhectáreas y produciendo 528.746 TM en la campaña 2004/2005 (MIDAGRI, 2006)."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    [
+     "span",
+     {},
+     "            "
+    ],
+    "Aunque se han\r\nrealizado numerosos estudios sobre los servicios ecosistémicos en paisajes agrícolas,\r\nla mayoría se enfoca en la recreación y el ecoturismo. Sin embargo, son escasas\r\nlas investigaciones que exploran en profundidad los SEC, especialmente en\r\ncontextos amazónicos, donde la relación entre el paisaje agrícola y las\r\nprácticas culturales locales configuran territorios con un alto valor\r\nsimbólico, identitario y social (Csurgó y Smith, 2021, p. 76; Mestanza, 2022,\r\np. 21). La presente investigación, por tanto, busca contribuir a la\r\nplanificación urbana sostenible, haciendo visibles los valores culturales del\r\npaisaje agrícola periurbano, que suelen ser ignorados en el ordenamiento\r\nterritorial. Al reconocer las percepciones y experiencias de los locales, se\r\npromueve la inclusión de sus conocimientos y necesidades en la toma de\r\ndecisiones, lo que favorece estrategias de conservación más integrales y\r\nequitativas. "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    [
+     "span",
+     {},
+     "            "
+    ],
+    "A partir de lo\r\nanteriormente descrito, el objetivo principal de esta investigación es analizar\r\nlos valores de los servicios ecosistémicos culturales del paisaje agrícola\r\nperiurbano, considerando su composición espacial y la percepción de los\r\nagricultores y residentes de la ciudad de Tarapoto. Esto implica comprender las\r\npercepciones de los residentes y agricultores, y analizar las características\r\nespaciales del paisaje agrícola periurbano en relación con los servicios\r\necosistémicos culturales."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   "Servicios ecosistémicos culturales del paisaje\r\nagrícola "
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    [
+     "span",
+     {},
+     "            "
+    ],
+    "Los servicios\r\necosistémicos son conocidos como beneficios fundamentales que los pobladores\r\nllegan a percibir, valorar y utilizar dentro de los paisajes; este concepto fue\r\nintroducido por la Evaluación de los Ecosistemas del Milenio (en adelante, MEA)\r\n(McElwee et al., 2022, p. 1; Soy-Massoni et al., 2016a, p. 43). La\r\nbiodiversidad del paisaje agrícola refleja la interacción entre el desarrollo agrícola\r\ny las prácticas culturales locales, ofreciendo una variedad y calidad de\r\nservicios ecosistémicos, entre ellos los culturales, que establecen una\r\nconexión intangible entre las personas y su entorno (Petway et al., 2020, p. 1;\r\nGebhardt et al., 2023, p. 1; Van Zanten et al., 2016, p. 87-88). El MEA hasta\r\nla fecha ofrece una visión y categorización más completa (Matos et al., 2022),\r\nconsiderando las categorías que se presentan en la Tabla 1."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "i",
+    {},
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     " "
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  "\r\n\r\n",
+  [
+   "table",
+   {},
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {
+      "colspan": "3"
+     },
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {
+        "lang": "en"
+       },
+       "Tabla 1"
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "i",
+       {},
+       [
+        "span",
+        {
+         "lang": "en"
+        },
+        "Categorías\r\n  de servicios ecosistémicos culturales"
+       ]
+      ],
+      [
+       "span",
+       {
+        "lang": "en"
+       }
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "Categorías"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "Definición"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "Autores"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Sentido de pertenencia"
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Los\r\n  servicios ecosistémicos son el pilar fundamental del “sentido de lugar”\r\n  asociados a las diferentes características reconocidas de su entorno."
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "(Csurgó y Smith, 2021, p. 77)"
+      ],
+      [
+       "span",
+       {}
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       " "
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Apreciación estética"
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Belleza o\r\n  valor estético en los diferentes aspectos de los ecosistemas.",
+       [
+        "span",
+        {},
+        " "
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "(Junge et al., 2015, p 68)"
+      ],
+      [
+       "span",
+       {}
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Historia y cultura",
+       [
+        "b",
+        {}
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Valor a\r\n  los conocimientos tradicionales y aspectos culturalmente significativos."
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "(Häfner et al., 2018, p 847)"
+      ],
+      [
+       "span",
+       {}
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Educación y conocimiento ecológico"
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Los\r\n  ecosistemas, sus componentes y sus diversos procesos proporcionan base para\r\n  la educación formal e informal en muchas sociedades."
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "(Duvall, 2008, p. 328)"
+      ],
+      [
+       "span",
+       {}
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       " "
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Actividades recreativas, salud mental y física"
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Las\r\n  personas eligen con frecuencia donde pasar su tiempo libre guiados por las\r\n  características de los paisajes naturales."
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "(Schirpke et al., 2019, p. 24)"
+      ],
+      [
+       "span",
+       {}
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       " "
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Economía"
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Las\r\n  sociedades aprovechan los diferentes recursos y espacios que les brindan los\r\n  paisajes para ",
+       [
+        "span",
+        {},
+        "poder obtener recursos económicos."
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "(Su et al., 2022, p. 2)"
+      ],
+      [
+       "span",
+       {}
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {
+      "colspan": "3"
+     },
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "i",
+       {},
+       [
+        "span",
+        {
+         "lang": "en"
+        },
+        "Nota."
+       ]
+      ],
+      [
+       "span",
+       {
+        "lang": "en"
+       },
+       " Elaborado a\r\n  partir de la revisión de literatura."
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n"
+  ],
+  "\r\n\r\n",
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "i",
+    {},
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     " "
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    " "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Valores de\r\nlos servicios ecosistémicos en el paisaje agrícola "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Es\r\nnecesario comprender que los paisajes deben ser considerados sistemas\r\nhumanos-ecológicos espaciales, ya que desempeñan funciones valoradas por los\r\nseres humanos, quienes a su vez los modifican para optimizar sus valores\r\nsociales, simbólicos y económicos (Fagerholm et al., 2012, p. 422). En este\r\nsentido, los SEC se centran en la diversidad de estilos de vida donde las personas\r\nparticipan, constituyen y sobre todo reflejan los valores e historias que\r\ncomparten entre ellas, fortaleciendo así el valor simbólico para cada habitante\r\n(Fish et al., 2016, p. 209). Actualmente, diversas investigaciones establecen\r\nuna conexión entre el apego del lugar y los valores simbólicos que estos\r\nbrindan, lo cuales incluyen componentes emocionales (afecto, sentimiento,\r\nemociones), elementos cognitivos (pensamientos, conocimientos, creencias) y\r\nprácticas (acciones y comportamientos) (Wartmann y Purves, 2018, p. 170)."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Asimismo,\r\nlos SEC ofrecen valores sociales que están vinculados al espacio y a las\r\nactividades que allí se desarrollan (Blicharska et al., 2017, p. 56), lo que\r\ncontribuye a un sentido de pertenencia y genera perspectivas variadas (Plieninger\r\net al., 2015, p. 30). Las interacciones sociales y los espacios donde estas\r\nocurren (como gastronomía, tradiciones patrimoniales o eventos culturales)\r\npermiten que las personas otorguen una mayor valoración social al paisaje\r\n(Lewicka, 2011, pp. 208-216). Los lugares con valor cultural también impulsan\r\nespacios económicos regionales, lo que genera oportunidades laborales y fomenta\r\nel desarrollo local",
+    [
+     "a",
+     {
+      "id": "t-bookmark-id-ykvlsyvpm25g"
+     }
+    ],
+    " (Moragues-Faus y\r\nSonnino, 2012, p. 216), al mismo tiempo que se aprovechan los recursos que\r\nestos ofrecen (Horlings et al., 2018, p. 246). De manera similar, los\r\nresidentes, a menudo, establecen negocios locales, e incluso aquellos que se\r\nhan mudado pueden regresar a su comunidad para contribuir a este desarrollo\r\neconómico (Liu y Cheung, 2016, p. 3)."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "METODOLOGÍA"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "i",
+    {},
+    [
+     "span",
+     {},
+     "Diseño\r\nde estudio"
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "a",
+    {
+     "id": "t-_heading-h-bw2x28i3cyzk"
+    }
+   ],
+   [
+    "span",
+    {},
+    "La investigación adoptó un enfoque\r\ncualitativo mediante un estudio de caso, que permite analizar un fenómeno en su\r\ncontexto real y desde la perspectiva de los actores involucrados (Flick, 2015,\r\np. 71). Se eligió este diseño para explorar en profundidad las experiencias de\r\nlos agricultores y residentes de asentamientos informales cercanos a los campos\r\nde cultivo en Tarapoto, Perú. A través de este diseño, se buscó comprender las\r\ndinámicas socioespaciales, percepciones y prácticas relacionadas con el uso del\r\npaisaje agrícola en un contexto de transición rural-urbana (ver Figura 1)."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "i",
+    {},
+    [
+     "span",
+     {},
+     "Lugar de\r\nestudio"
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "El área de\r\nestudio comprende las periferias de la ciudad de Tarapoto, ubicada en el\r\ndepartamento de San Martín, Perú (ver Figura 2). Esta zona tiene una superficie\r\ntotal de 60.8 ha y una población de 193.095 habitantes (INEI, 2017). Las\r\nperiferias urbanas se extienden aproximadamente en 1,747.22 ha de zonas\r\nagrícolas. De esta extensión, un promedio de 553.55 ha corresponde a áreas\r\nagrícolas activas, donde se cultivan productos como papaya, plátano, yuca y\r\nmaíz. El arroz ocupa el 23 % del área agrícola, lo que representa el 1.3 % de\r\nla producción nacional, generando un valor económico estimado en tres mil\r\nmillones de dólares anuales (MINCETUR, 2018). En este contexto, el río Cumbaza\r\nes fundamental para el riego de los cultivos a través de un sistema de canales.\r\nLa zona se caracteriza por la interacción constante entre la actividad agrícola\r\ny el crecimiento urbano, tanto formal como informal."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    " "
+   ]
+  ],
+  "\r\n\r\n",
+  "\r\n\r\n",
+  [
+   "table",
+   {},
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {
+        "lang": "en"
+       },
+       "Figura 1"
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "i",
+       {},
+       [
+        "span",
+        {
+         "lang": "en"
+        },
+        "Diagrama\r\n  de flujo metodológico"
+       ]
+      ],
+      [
+       "span",
+       {
+        "lang": "en"
+       }
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       [
+        "figura",
+        {}
+       ]
+      ],
+      [
+       "span",
+       {}
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "i",
+       {},
+       [
+        "span",
+        {},
+        "Nota. "
+       ]
+      ],
+      [
+       "span",
+       {},
+       "Elaboración propia (2025)."
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n"
+  ],
+  "\r\n\r\n",
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    " "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    " "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    " "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "i",
+    {},
+    [
+     "span",
+     {},
+     "Universo\r\ny muestra "
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Los dos\r\ngrupos clave de participantes fueron los agricultores y los residentes de las\r\náreas periféricas de Tarapoto. La selección se realizó mediante una combinación\r\nde muestreo por conveniencia (Otzen y Manterola, 2017, p. 230) y bola de nieve,\r\nhasta alcanzar el punto de saturación de la información. Esto permitió obtener\r\nun conocimiento profundo del área, sus dinámicas y valores mediante la red de\r\ninformantes clave. Los criterios de inclusión que se consideraron para la\r\nselección fueron los siguientes: residencia superior a 10 años en el área\r\nperiurbana seleccionada, edad entre 18 y 70 años, y dependencia económica\r\ndirecta de la actividad agrícola en el caso de los agricultores. Se excluyeron\r\na los visitantes temporales que realizan actividades turísticas, porque es\r\nimportante para el estudio tener participantes que presencien los cambios\r\nestéticos temporales de las zonas agrícolas. La muestra final estuvo conformada\r\npor 52 participantes, distribuidos entre 22 agricultores y 30 residentes. Del\r\ntotal, el 80 % eran hombres, y el 20 %, mujeres. "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "El análisis\r\nse centró en seis sectores periféricos de Tarapoto, interconectados con la vía\r\nde evitamiento como eje principal. Los sectores 01 (San Antonio), 02 (El\r\nTriunfo) y 04 (El Codo) se caracterizan por el predominio de cultivos de arroz\r\ny plátano; el sector 03 (Las Palmas) se distingue por la producción de maíz,\r\npapaya, yuca y bijao; en el sector 05 (Santa Elena), por otra parte, los\r\ncultivos que se destacan son los del arroz, la papaya y el maíz; y en el sector\r\n06 (San Martín), los del arroz, plátano y bijao. Estos sectores comprenden un\r\npromedio de 495.56 ha, lo que permite identificar posibles variaciones en las percepciones\r\ny valores asociados a los diferentes tipos de cultivos en cada sector (ver\r\nFigura 3). Esta distribución espacial contribuye a la comprensión de las\r\nparticularidades locales."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "i",
+    {},
+    [
+     "span",
+     {},
+     "Recolección\r\nde datos"
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Las\r\ntécnicas de recopilación de datos incluyeron entrevistas y la observación\r\nparticipante. La entrevista semiestructurada fue mediante el instrumento de\r\nguía de entrevista enfocada en las variables (Schirpke et al., 2021, p. 1).\r\nPreviamente, se realizó una prueba piloto con 20 participantes para validar y\r\najustar los instrumentos, asegurando su claridad, pertinencia y funcionalidad\r\nen el contexto local. Las entrevistas se realizaron ",
+    [
+     "i",
+     {},
+     "in situ"
+    ],
+    " en seis sectores periféricos. Se contactó a 22 agricultores\r\nen sus lugares de trabajo, y a 30 residentes, seleccionados aleatoriamente en\r\ncada sector. Se obtuvo el consentimiento informado y se garantizó el anonimato\r\nde los participantes como criterio ético. Las entrevistas fueron grabadas,\r\ntranscritas y analizadas mediante el análisis temático."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "La\r\nobservación participante, entendida como la inmersión y la participación\r\nconstante en las actividades cotidianas de los participantes (Kawulich, 2006,\r\np. 2), permitió registrar directamente las actividades y relaciones\r\nsocioespaciales en el entorno agrícola. Se realizaron 12 visitas de campo\r\ndurante seis meses del año 2024, utilizando fotografías, videos, notas de campo\r\ny mapeos como instrumentos. ",
+    [
+     "u",
+     {}
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "i",
+    {},
+    [
+     "span",
+     {},
+     "Análisis\r\nde datos"
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Se aplicó\r\nel análisis temático para identificar los temas emergentes a partir de los\r\ndatos cualitativos (Escudero, 2020, p. 92), diferenciando entre temas\r\nsemánticos —relacionados con significados explícitos— y temas latentes, que\r\nexpresan ideas subyacentes (Braun y Clarke, 2006, p. 13). El proceso siguió el\r\nmarco metodológico propuesto por Braun y Clarke (2006, pp. 16–23), el cual\r\ncomprende seis fases: (1) familiarización con los datos, (2) generación de\r\ncódigos iniciales, (3) búsqueda de temas, (4) revisión de los temas, (5)\r\ndefinición y denominación de los temas, y (6) redacción del informe final."
+   ],
+   [
+    "span",
+    {}
+   ]
+  ],
+  "\r\n\r\n",
+  "\r\n\r\n",
+  [
+   "table",
+   {},
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {
+        "lang": "en"
+       },
+       "Figura 2"
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "i",
+       {},
+       [
+        "span",
+        {},
+        "Ubicación y localización del lugar de estudio"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       [
+        "figura",
+        {}
+       ]
+      ],
+      [
+       "span",
+       {}
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "i",
+       {},
+       [
+        "span",
+        {
+         "lang": "en"
+        },
+        "Nota. "
+       ]
+      ],
+      [
+       "span",
+       {
+        "lang": "en"
+       },
+       "Elaboración propia, datos del plano\r\n  catastral de Tarapoto (PDU, 2023)."
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n"
+  ],
+  "\r\n\r\n",
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    " "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    " "
+   ]
+  ],
+  "\r\n\r\n",
+  "\r\n\r\n",
+  [
+   "table",
+   {},
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {
+        "lang": "en"
+       },
+       "Figura 3",
+       [
+        "br",
+        {}
+       ],
+       "\r\n  "
+      ],
+      [
+       "i",
+       {},
+       [
+        "span",
+        {
+         "lang": "en"
+        },
+        "Distribución de la\r\n  muestra en los diferentes sectores agrícola"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "i",
+        {},
+        [
+         "span",
+         {},
+         [
+          "figura",
+          {}
+         ]
+        ]
+       ]
+      ],
+      [
+       "span",
+       {
+        "lang": "en"
+       }
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "i",
+       {},
+       [
+        "span",
+        {
+         "lang": "en"
+        },
+        "Nota."
+       ]
+      ],
+      [
+       "span",
+       {
+        "lang": "en"
+       },
+       " Elaboración propia, datos del plano catastral de Tarapoto (PDU,\r\n  2023)."
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {
+        "lang": "en"
+       },
+       " "
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n"
+  ],
+  "\r\n\r\n",
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    " "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "i",
+    {},
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     " "
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "i",
+    {},
+    [
+     "span",
+     {},
+     " "
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   "RESULTADOS"
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "a",
+    {
+     "id": "t-_heading-h-w4do63g389b5"
+    }
+   ],
+   [
+    "i",
+    {},
+    "Servicios\r\necosistémicos culturales del área agrícola periurbana"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    [
+     "span",
+     {},
+     "            "
+    ],
+    "El área agrícola\r\ncontribuye no solo en la vida de los agricultores, sino también en la de los\r\nresidentes del lugar al brindar servicios materiales e inmateriales. A partir\r\ndel análisis de las entrevistas se identificaron seis servicios ecosistémicos\r\nculturales: actividades recreativas, salud mental y física (ARS), apreciación\r\nestética (AE), historia y cultura (HC), sentido de pertenencia (SP), educación\r\ny conocimiento ecológico (EYCE) y economía (E). La tabla 2 muestra los\r\nprincipales servicios ecosistémicos culturales que brinda el área agrícola\r\nperiurbana de Tarapoto, así como los códigos más relevantes identificados de\r\nacuerdo con las narraciones de los participantes."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "i",
+    {},
+    [
+     "span",
+     {},
+     " "
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  "\r\n\r\n",
+  [
+   "table",
+   {},
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {
+      "colspan": "2"
+     },
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {
+        "lang": "en"
+       },
+       "Tabla 2"
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "i",
+       {},
+       [
+        "span",
+        {
+         "lang": "en"
+        },
+        "Resumen de los códigos de los\r\n  SEC identificados por los entrevistados"
+       ]
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        " "
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "Categoría\r\n  de SEC"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "Códigos\r\n  principales"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Actividades\r\n  recreativas, salud Mental y física (ARS)"
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "deporte,\r\n  turismo, actividades familiares, desconexión, paz, deportes al aire libre"
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Apreciación\r\n  estética (AE)"
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "percepción,\r\n  sensaciones, belleza escénica, sentimientos"
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Historia\r\n  y cultura (HC)"
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "aniversarios,\r\n  experiencias, tradiciones agrícolas, actividades domésticas"
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Sentido\r\n  de pertenencia (SP)"
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "adaptación,\r\n  apego al lugar, identidad, seguridad costumbres"
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Educación\r\n  y conocimiento ecológico (EYCE)"
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "comunidades\r\n  locales, procesos agrícolas, fuentes de empleo"
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Economía\r\n  (E)"
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "turismo,\r\n  sustento familiar, mano de obra, alimentación local"
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {
+      "colspan": "2"
+     },
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "a",
+       {
+        "id": "t-_Hlk213618362"
+       },
+       [
+        "i",
+        {},
+        [
+         "span",
+         {
+          "lang": "en"
+         },
+         "Nota. "
+        ]
+       ]
+      ],
+      [
+       "span",
+       {},
+       [
+        "span",
+        {
+         "lang": "en"
+        },
+        "Elaboración propia (2025)."
+       ]
+      ],
+      [
+       "span",
+       {
+        "lang": "en"
+       }
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n"
+  ],
+  "\r\n\r\n",
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    " "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "i",
+    {},
+    [
+     "span",
+     {},
+     "Servicios\r\necosistémicos "
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "La figura 4\r\npresenta las coincidencias y contrastes en la valoración de los SEC por parte\r\nde los participantes. Ambos grupos, agricultores y residentes, atribuyen gran\r\nimportancia a la apreciación estética (AE), la historia y cultura (HC), y el\r\nsentido de pertenencia (SP). Sus relatos destacan el significado emocional,\r\nsimbólico y visual del entorno agrícola. No obstante, los agricultores hacen\r\nénfasis primordialmente en la economía (E), al considerar la agricultura como\r\nfuente directa de trabajo, sustento familiar y comercio vital. Los residentes,\r\npor su parte, priorizan las actividades recreativas, la salud mental y física\r\n(ARS), derivados del contacto cotidiano con la naturaleza. La educación y\r\nconocimiento ecológico (EYCE), por otra parte, surgen transversalmente, ligados\r\nal valor del saber agrícola ancestral y su transmisión intergeneracional de\r\nprácticas sostenibles. Así, el paisaje agrícola, trascendiendo su función\r\nproductiva, revela un significativo valor social, cultural y emocional para\r\nquienes lo habitan o interactúan con él, conformando su identidad."
+   ]
+  ],
+  "\r\n\r\n",
+  "\r\n\r\n",
+  [
+   "table",
+   {},
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Figura 4"
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "i",
+       {},
+       [
+        "span",
+        {},
+        "Resultados de las entrevistas a agricultores y residentes"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "i",
+        {},
+        [
+         "span",
+         {},
+         [
+          "figura",
+          {}
+         ]
+        ]
+       ]
+      ],
+      [
+       "b",
+       {},
+       [
+        "span",
+        {}
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "i",
+       {},
+       [
+        "span",
+        {
+         "lang": "en"
+        },
+        "Nota. "
+       ]
+      ],
+      [
+       "span",
+       {
+        "lang": "en"
+       },
+       "Elaboración propia (2025)."
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n"
+  ],
+  "\r\n\r\n",
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "b",
+    {},
+    [
+     "span",
+     {},
+     " "
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "i",
+    {},
+    [
+     "span",
+     {},
+     " "
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "i",
+    {},
+    [
+     "span",
+     {},
+     " "
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "i",
+    {},
+    [
+     "span",
+     {},
+     "Historia\r\ny cultura"
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Los\r\nsentimientos que generan estos espacios en los agricultores y residentes se\r\nrelacionan con las diferentes actividades y eventos que se realizan en el\r\nlugar, como los aniversarios de los diferentes sectores (patronas), actividades\r\ndeportivas, familiares y domésticas. En las patronas, por ejemplo, se realizan\r\npandillas (danzas), se toca música tradicional y también se preparan bebidas\r\npopulares, ya que los productos están ligados a la agricultura local y a las\r\ntradiciones de la región. Esto se refleja en la siguiente narración:"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    [
+     "span",
+     {},
+     " "
+    ],
+    [
+     "i",
+     {},
+     "“La\r\ncultura es la misma a pesar de los años que pasan, porque lo que conocemos\r\nnadie nos puede quitar, esto es lo que nos representa y mantiene nuestra\r\nidentidad, es por ello que nosotros celebramos las patronas en los mismos\r\nsectores, rodeados de la naturaleza, con humshas, kermés y deporte en los\r\ncampos naturales”."
+    ],
+    [
+     "span",
+     {},
+     "       "
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Narración\r\nde un residente.",
+    [
+     "i",
+     {}
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "i",
+    {},
+    [
+     "span",
+     {},
+     "Economía"
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Para\r\nmuchos, la agricultura es el único sustento económico familiar que tienen, y el\r\nde muchas otras familias. La agricultura genera demanda laboral diaria, tanto\r\nen los peones de los campos de cultivos, como en las personas que llevan a\r\nvender sus frutas y verduras cosechadas diariamente para ser vendidos al por\r\nmayor, en camiones, o, al por menor, en los diferentes mercados de la ciudad. "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "i",
+    {},
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      " "
+     ],
+     "“Mi\r\nfamilia y yo, nos mudamos a esta ciudad porque un familiar me ofreció trabajo\r\nen la agricultura, al mismo tiempo cuidar su propiedad que tiene en el campo,\r\nlo que me permite criar mis animales, sembrar frutas y verduras, que mi esposa\r\nlleva a vender a bodegas o mercados cercanos”."
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Narración de un residente"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    " "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "i",
+    {},
+    [
+     "span",
+     {},
+     "Actividades\r\nrecreativas, salud mental y física"
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Por otro\r\nlado, el turismo se manifiesta en las visitas realizadas en el lugar para\r\napreciar la estética de los campos de cultivos, que, para muchos visitantes son\r\natractivos. Esto también beneficia a los comerciantes ambulantes quienes se\r\nubican en los bordes de las vías con sus puestos de venta de frutas, de comidas\r\ny bebidas tradicionales, de plantas medicinales y plantones para futuras\r\nsiembras. "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    [
+     "span",
+     {},
+     " "
+    ],
+    [
+     "i",
+     {},
+     "“La\r\nagricultura es la fuente de toda alimentación por eso que lo valoro mucho, es\r\nnuestro sustento económico y de muchas familias, por otro lado, los turistas\r\nvienen mayormente por las tardes a tomarse fotos, hacer deporte y acampar”. "
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Narración de un agricultor local"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    " "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    [
+     "span",
+     {},
+     " "
+    ],
+    [
+     "i",
+     {},
+     "“(…)\r\ntambién las personas que recorren con sus movilidades disfrutan comer y tomar\r\nbebidas frías bajo la sombra de los grandes árboles y la brisa que corre por\r\nlas tardes (…)”.",
+     [
+      "span",
+      {}
+     ]
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Narración de una vendedora local"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    " "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "i",
+    {},
+    [
+     "span",
+     {},
+     "Educación\r\ny conocimiento ecológico"
+    ]
+   ],
+   [
+    "i",
+    {},
+    [
+     "span",
+     {}
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Los\r\nagricultores de mayor edad poseen conocimiento agrícola, la mayoría heredados\r\nde generación a generación, y reforzados con la práctica diaria en el campo.\r\nEsto permite que ellos puedan enseñar los conocimientos locales sobre el\r\ntrabajo en los cultivos a los nuevos peones. "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    [
+     "span",
+     {},
+     " "
+    ],
+    [
+     "i",
+     {},
+     "“Conozco\r\ntodos los procesos de sembrío, ya que crecí viendo a mis padres y tíos a diario\r\ntrabajando en esto, pero el campo nunca nos deja de sorprender así que tengo\r\nque seguir aprendiendo día a día, sobre todo para yo también poder indicarle a\r\nmis peones, y tener buenos resultados”. "
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    [
+     "span",
+     {},
+     "    "
+    ],
+    [
+     "span",
+     {},
+     "        "
+    ]
+   ],
+   [
+    "span",
+    {},
+    "Narración\r\nde un agricultor local"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    " "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "i",
+    {},
+    [
+     "span",
+     {},
+     "Apreciación\r\nestética"
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "La\r\napreciación estética genera sentido de pertenencia en los pobladores del área\r\nperiurbana de Tarapoto. Los participantes resaltan la belleza del paisaje\r\ncuando describen el entorno natural, las sensaciones que genera en ellos,\r\nfortaleciendo la imagen y autenticidad del lugar. La estética del paisaje\r\nagrícola está relacionada también con el valor económico, porque las personas\r\nvisitan el lugar y consumen los productos locales. Para muchos, estos lugares\r\nproporcionan paz y tranquilidad —características poco frecuentes en la ciudad—\r\ny favorecen el bienestar físico y mental. "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "i",
+    {},
+    [
+     "span",
+     {},
+     "“Estar en el campo es disfrutar de todo lo\r\nque se observa además que sientes una sensación de relajo y frescura a pesar de\r\nlos días de sol. Ver en cada temporada los diferentes colores, es algo que no\r\npuedes disfrutar en cualquier lugar”. "
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "i",
+    {},
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      "            "
+     ]
+    ]
+   ],
+   [
+    "span",
+    {},
+    "Narración de un agricultor\r\nlocal"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "b",
+    {},
+    [
+     "i",
+     {},
+     [
+      "span",
+      {},
+      " "
+     ]
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Sentido de\r\npertenencia"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Los\r\nresidentes manifiestan una percepción de seguridad, generado por la\r\ntranquilidad y la seguridad de que sus hijos puedan jugar sin supervisión\r\nadulta en el lugar. Además, resaltan los beneficios en la salud de una crianza\r\nen un entorno natural. "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    [
+     "span",
+     {},
+     " "
+    ],
+    [
+     "i",
+     {},
+     "“A\r\nmí me alegra vivir donde ahora me encuentro, porque no todos tienen la dicha de\r\ndespertar rodeado de tanta naturaleza y vistas bonitas, además nuestros hijos\r\ncrecen viviendo en el campo, y pienso que eso también les hace más fuertes ya\r\nque casi ni se enferman”. "
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Narración\r\nde un residente local",
+    [
+     "span",
+     {}
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "i",
+    {},
+    [
+     "span",
+     {},
+     " "
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Configuración\r\nespacial "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "La\r\ndistribución espacial del paisaje agrícola en las áreas periféricas revela una\r\ncompleja interacción entre elementos naturales y antrópicos, cuya disposición\r\nvaría entre los distintos sectores (ver Figura 5). En cuanto a la vegetación,\r\npredominan cultivos como arroz, plátano, papaya, yuca, maíz y bijao.\r\nEspecíficamente, los sectores 03 y 04 muestran una alta concentración de\r\npapaya, mientras que el sector 04 se distingue por una mayor diversidad\r\nproductiva. Respecto a los recursos hídricos, todos los sectores están\r\narticulados al canal de riego y al río Cumbaza. El sector 05, además, incluye\r\nla laguna Ricuricocha, lo que refuerza su valor ecosistémico. "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "La\r\nexpansión de viviendas y edificaciones inmobiliarias abarca todos los sectores,\r\ndonde coexisten con usos residenciales, comerciales e industriales, presentando\r\nun paisaje fragmentado. Finalmente, la red de vías vehiculares actúa como un\r\neje articulador esencial, conectando estos sectores que son aprovechados por\r\nlos comerciantes de productos agrícolas. Esta configuración espacial evidencia\r\nla tensión entre producción agrícola, conservación del paisaje y la presión\r\nurbana."
+   ]
+  ],
+  "\r\n\r\n",
+  "\r\n\r\n",
+  [
+   "table",
+   {},
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {
+        "lang": "en"
+       },
+       "Figura 5"
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "i",
+       {},
+       [
+        "span",
+        {
+         "lang": "en"
+        },
+        "Configuración\r\n  espacial del paisaje agrícola periurbano"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       [
+        "figura",
+        {}
+       ]
+      ],
+      [
+       "span",
+       {}
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       " "
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n"
+  ],
+  "\r\n\r\n",
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    " "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "i",
+    {},
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     " "
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    " "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "i",
+    {},
+    [
+     "span",
+     {},
+     " "
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   "DISCUSIÓN"
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "a",
+    {
+     "id": "t-_heading-h-hpny776pr564"
+    }
+   ],
+   "Las\r\nentrevistas realizadas revelaron que los principales valores asociados a los\r\nservicios ecosistémicos culturales son el simbólico, el social y el económico,\r\nlos cuales son intrínsecos al paisaje agrícola brindando bienestar humano y la\r\nsostenibilidad territorial. "
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   "El valor simbólico es el más significativo para los\r\nhabitantes, especialmente para aquellos con mayor tiempo de residencia en la\r\nzona. Este se vincula fundamentalmente con la identidad, la autenticidad y el\r\nsentido de pertenencia, los cuales son transmitidos a través de la memoria\r\ncolectiva. Los recuerdos de la infancia, la vida cotidiana y las experiencias\r\ncompartidas en el paisaje agrícola refuerzan este vínculo. Asimismo, la\r\nestética generada por los colores, texturas y formas del entorno contribuye a reforzar\r\nel orgullo por la cultura local, un aspecto que Assandri (2018) también destaca\r\nal señalar la influencia de la diversidad cromática en la calidad visual y la\r\npercepción estética de los paisajes agrícolas."
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   "El valor social se manifiesta mediante la transferencia\r\nintergeneracional de conocimientos, prácticas tradicionales y educación\r\nambiental. La comprensión de los cultivos, la gestión de recursos y las\r\nfestividades locales fortalece el tejido social y fomenta la participación\r\ncomunitaria. Aunque Dou (2020) sostiene que las características demográficas\r\nimpactan en la percepción de los servicios ecosistémicos culturales y el\r\nsentido de pertenencia, y Häfner (2018) sugiere que no hay diferencias\r\nsignificativas entre residentes y visitantes en las preferencias estéticas. Sin\r\nembargo, en este estudio es relevante la duración de la residencia y el vínculo\r\ncon la tierra porque influyen en la valoración social del paisaje."
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   "El valor económico es percibido principalmente por\r\nlos residentes que no son agricultores, y se vincula con actividades como la\r\nrecreación, el turismo rural y la obtención de ingresos a través de la\r\nproducción y comercialización agrícola. La agricultura periurbana no solo\r\nprovee alimentos a la ciudad, sino que también apoya la economía familiar\r\nmediante la venta directa y el comercio local, tal como lo señalan Soy-Massoni\r\net al. (2016b) y Dou (2020). A pesar de su relevancia, este valor no reemplaza\r\nal valor simbólico, el cual sigue siendo prioritario para los agricultores."
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   "Este artículo de investigación se centró en un área\r\ngeográfica limitada, donde la subsistencia económica de la mayoría de los\r\nresidentes depende significativamente del paisaje agrícola. Se emplearon\r\npreguntas abiertas para explorar la comprensión de los servicios ecosistémicos\r\nculturales, por lo tanto, para futuras investigaciones se debe de incluir un\r\nespectro más amplio de actores y contextos rurales para validar la posibilidad\r\nde generalización de estos hallazgos.",
+   [
+    "b",
+    {}
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   "CONCLUSIONES"
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "a",
+    {
+     "id": "t-_heading-h-otvzaoickwtz"
+    }
+   ],
+   "Las zonas\r\nperiurbanas de Tarapoto enfrentan un crecimiento urbano desordenado que amenaza\r\ndirectamente a sus paisajes agrícolas y, con ello, a la capacidad de estos de\r\nofrecer servicios ecosistémicos culturales. Existe una tensión entre la\r\nexpansión urbana y la necesidad de preservar estos entornos vitales, que\r\nintegran funciones productivas, ecológicas y culturales cruciales para la\r\npoblación local. La investigación ha revelado que tanto agricultores como\r\nresidentes otorgan múltiples valores ecosistémicos culturales al paisaje\r\nagrícola. Estos valores están intrínsecamente ligados a las características\r\nespaciales del paisaje y a las experiencias cotidianas que allí se viven. La\r\ndiversidad de cultivos, la presencia de cuerpos de agua y áreas no urbanizadas\r\nno solo sustentan actividades agrícolas, sino que también fomentan el bienestar\r\nemocional, el sentido de pertenencia, la memoria colectiva y la cohesión social\r\nentre los habitantes."
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   "El paisaje agrícola periurbano se destaca como una\r\ninfraestructura verde multifuncional. Proporciona valores económicos, sociales\r\ny simbólicos, todos ellos esenciales para la calidad de vida de sus habitantes\r\ny para la sostenibilidad urbana. Estos hallazgos resaltan la importancia de\r\nintegrar la conservación de estos paisajes dentro de la planificación urbana.\r\nEs fundamental reconocer sus cualidades y beneficios más allá de la mera\r\nproducción de alimentos, considerándolos pilares para el bienestar humano y la\r\nidentidad cultural en un contexto de transformación urbana."
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   "REFERENCIAS BIBLIOGRÁFICAS"
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "en"
+   },
+   "Albaladejo-García, J. A.,\r\nZabala, J. A., Alcon, F., Dallimer, M., & Martínez-Paz, J. M. (2023). ",
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    "Integrating socio-spatial preference\r\nheterogeneity into the assessment of the aesthetic quality of a Mediterranean\r\nagricultural landscape. ",
+    [
+     "i",
+     {},
+     "Landscape and\r\nUrban Planning"
+    ],
+    ", 239, 1-12. "
+   ],
+   [
+    "a",
+    {
+     "href": "https://doi.org/10.1016/j.landurbplan.2023.104846"
+    },
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "https://doi.org/10.1016/j.landurbplan.2023.104846"
+    ]
+   ],
+   [
+    "span",
+    {
+     "lang": "en"
+    }
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "en"
+   },
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    "Assandri, G., Bogliani, G., Pedrini,\r\nP., & Brambilla, M. (2018). Beautiful agricultural landscapes promote\r\ncultural ecosystem services and biodiversity conservation. ",
+    [
+     "i",
+     {},
+     "Agriculture, Ecosystems and Environment"
+    ],
+    ", 256, 200–210."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    [
+     "span",
+     {},
+     "          "
+    ]
+   ],
+   [
+    "a",
+    {
+     "href": "https://doi.org/10.1016/j.agee.2018.01.012"
+    },
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "https://doi.org/10.1016/j.agee.2018.01.012"
+    ]
+   ],
+   [
+    "span",
+    {
+     "lang": "en"
+    }
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "en"
+   },
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    "Blicharska, M., Smithers, R. J., Hedblom, M.,\r\nHedenås, H., Mikusiński, G., Pedersen, E., Sandström, P., & Svensson, J.\r\n(2017). Shades of grey challenge practical application of the cultural\r\necosystem services concept. ",
+    [
+     "i",
+     {},
+     "Ecosystem\r\nServices"
+    ],
+    ", 23, 55–70. "
+   ],
+   [
+    "a",
+    {
+     "href": "https://doi.org/10.1016/j.ecoser.2016.11.014"
+    },
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "https://doi.org/10.1016/j.ecoser.2016.11.014"
+    ]
+   ],
+   [
+    "span",
+    {
+     "lang": "en"
+    }
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "en"
+   },
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    "Braun, V., & Clarke, V. (2006). Using\r\nthematic analysis in psychology. ",
+    [
+     "i",
+     {},
+     "Qualitative\r\nResearch in Psychology"
+    ],
+    ", ",
+    [
+     "i",
+     {},
+     "3"
+    ],
+    "(2),\r\n77–101. "
+   ],
+   [
+    "a",
+    {
+     "href": "https://doi.org/10.1191/1478088706qp063oa"
+    },
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "https://doi.org/10.1191/1478088706qp063oa"
+    ]
+   ],
+   [
+    "span",
+    {
+     "lang": "en"
+    }
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    "Escudero, C. (2020). "
+   ],
+   "El análisis\r\ntemático como herramienta de investigación en el área de la Comunicación\r\nSocial: contribuciones y limitaciones. ",
+   [
+    "i",
+    {},
+    "La\r\ntrama de la comunicación"
+   ],
+   ", 24, 89-100. ",
+   [
+    "a",
+    {
+     "href": "https://www.scielo.org.ar/pdf/trama/v24n2/v24n2a05.pdf"
+    },
+    "https://www.scielo.org.ar/pdf/trama/v24n2/v24n2a05.pdf"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   "Centro\r\nNacional de Planeamiento Estratégico. (2023). ",
+   [
+    "i",
+    {},
+    "Análisis de la deforestación y pérdida de vegetación a nivel nacional y\r\nel impacto a nivel regional"
+   ],
+   "."
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "          "
+   ],
+   [
+    "a",
+    {
+     "href": "https://geo.ceplan.gob.pe/uploads/Analisis_deforestacion.pdf"
+    },
+    "https://geo.ceplan.gob.pe/uploads/Analisis_deforestacion.pdf"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   " "
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "en"
+   },
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    "Csurgó, B., & Smith, M. K.\r\n(2021). The value of cultural ecosystem services in a rural landscape context. ",
+    [
+     "i",
+     {},
+     "Journal of Rural Studies"
+    ],
+    ", 86, 76–86. "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    [
+     "span",
+     {},
+     "          "
+    ]
+   ],
+   [
+    "a",
+    {
+     "href": "https://doi.org/10.1016/j.jrurstud.2021.05.030"
+    },
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "https://doi.org/10.1016/j.jrurstud.2021.05.030"
+    ]
+   ],
+   [
+    "span",
+    {
+     "lang": "en"
+    }
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    " "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "en"
+   },
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    "Dou, Y. (2020). ",
+    [
+     "i",
+     {},
+     "Cultural ecosystem services of Chinese typical landscapes: Rethinking\r\nNon-material Links between People and their Landscapes"
+    ],
+    ". [Tesis doctoral].\r\nWageningen University."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "en"
+   },
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    "Duvall, C. S. (2008). Classifying physical\r\ngeographic features: the case of maninka farmers in southwestern mali. ",
+    [
+     "i",
+     {},
+     "Geografiska Annaler: Series B, Human\r\nGeography, "
+    ],
+    "90(4), 327–348. "
+   ],
+   [
+    "a",
+    {
+     "href": "https://doi.org/10.1111/j.1468-0467.2008.00297.x"
+    },
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "https://doi.org/10.1111/j.1468-0467.2008.00297.x"
+    ]
+   ],
+   [
+    "i",
+    {},
+    [
+     "span",
+     {
+      "lang": "en"
+     }
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "en"
+   },
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    "Fagerholm, N., Käyhkö, N., Ndumbaro, F., &\r\nKhamis, M. (2012). Community stakeholders’ knowledge in landscape assessments -\r\nMapping indicators for landscape services. ",
+    [
+     "i",
+     {},
+     "Ecological\r\nIndicators"
+    ],
+    ", ",
+    [
+     "i",
+     {},
+     "18"
+    ],
+    ", 421–433. "
+   ],
+   [
+    "a",
+    {
+     "href": "https://doi.org/10.1016/j.ecolind.2011.12.004"
+    },
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "https://doi.org/10.1016/j.ecolind.2011.12.004"
+    ]
+   ],
+   [
+    "span",
+    {
+     "lang": "en"
+    }
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "en"
+   },
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    "Food and Agriculture Organization of the United\r\nNations. (2021). ",
+    [
+     "i",
+     {},
+     "Th estate of the World´s\r\nLand and Water Resources for Food and Agriculture 2021-Systems at breaking\r\npoint"
+    ],
+    ". "
+   ],
+   [
+    "a",
+    {
+     "href": "https://openknowledge.fao.org/items/ff3cfcc4-e895-4df0-a925-c8ce240004ab"
+    },
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "https://openknowledge.fao.org/items/ff3cfcc4-e895-4df0-a925-c8ce240004ab"
+    ]
+   ],
+   [
+    "span",
+    {
+     "lang": "en"
+    }
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "en"
+   },
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    "Fish, R., Church, A., & Winter, M. (2016).\r\nConceptualising cultural ecosystem services: A novel framework for research and\r\ncritical engagement. "
+   ],
+   [
+    "i",
+    {},
+    "Ecosystem\r\nServices"
+   ],
+   ", ",
+   [
+    "i",
+    {},
+    "21"
+   ],
+   ", 208–217. ",
+   [
+    "a",
+    {
+     "href": "https://doi.org/10.1016/j.ecoser.2016.09.002"
+    },
+    "https://doi.org/10.1016/j.ecoser.2016.09.002"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   "Gobierno Regional de San martín.\r\n(2021). ",
+   [
+    "i",
+    {},
+    "Plan de Desarrollo Regional\r\nConcertado San Martín al 2021.\r\nhttps://web.regionsanmartin.gob.pe/WebApp/OriArc.pdf?id=78143"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "en"
+   },
+   "Häfner, K., Zasada, I., van\r\nZanten, B. T., Ungaro, F., Koetse, M., & Piorr, A. (2018). ",
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    "Assessing landscape preferences: a\r\nvisual choice experiment in the agricultural region of Märkische Schweiz,\r\nGermany. ",
+    [
+     "i",
+     {},
+     "Landscape Research"
+    ],
+    ", ",
+    [
+     "i",
+     {},
+     "43"
+    ],
+    "(6), 846–861. "
+   ],
+   [
+    "a",
+    {
+     "href": "https://doi.org/10.1080/01426397.2017.1386289"
+    },
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "https://doi.org/10.1080/01426397.2017.1386289"
+    ]
+   ],
+   [
+    "span",
+    {
+     "lang": "en"
+    }
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "en"
+   },
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    "Horlings, L. G., Roep, D., & Wellbrock, W.\r\n(2018). The role of leadership in place-based development and building\r\ninstitutional arrangements. "
+   ],
+   [
+    "i",
+    {},
+    "Local\r\nEconomy"
+   ],
+   ", ",
+   [
+    "i",
+    {},
+    "33"
+   ],
+   "(3), 245–268. ",
+   [
+    "a",
+    {
+     "href": "https://doi.org/10.1177/0269094218763050"
+    },
+    "https://doi.org/10.1177/0269094218763050"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   "Instituto\r\nNacional de Estadística e Informática",
+   [
+    "i",
+    {},
+    " "
+   ],
+   "(2017).\r\n",
+   [
+    "i",
+    {},
+    "Perú Resultados definitivos de los Censos\r\nNacionales 2017."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "fr"
+   },
+   [
+    "span",
+    {},
+    "          "
+   ],
+   [
+    "a",
+    {
+     "href": "https://www.inei.gob.pe/media/MenuRecursivo/publicaciones_digitales/Est/Lib1544/"
+    },
+    "https://www.inei.gob.pe/media/MenuRecursivo/publicaciones_digitales/Est/Lib1544/"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   " "
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "en"
+   },
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    "Junge, X., Schüpbach, B., Walter,\r\nT., Schmid, B., & Lindemann-Matthies, P. (2015). Aesthetic quality of\r\nagricultural landscape elements in different seasonal stages in Switzerland. ",
+    [
+     "i",
+     {},
+     "Landscape and Urban Planning"
+    ],
+    ", 133,\r\n67–77."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    [
+     "span",
+     {},
+     "          "
+    ]
+   ],
+   [
+    "a",
+    {
+     "href": "https://doi.org/10.1016/j.landurbplan.2014.09.010"
+    },
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "https://doi.org/10.1016/j.landurbplan.2014.09.010"
+    ]
+   ],
+   [
+    "span",
+    {
+     "lang": "en"
+    }
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    " "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    "Kawulich, B. (2006). "
+   ],
+   "La observación\r\nparticipante como método de recolección de datos. ",
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    "Forum Qualitative Sozialforschung / Forum:\r\nQualitative Social Research 6(2), Art. 43. "
+   ],
+   [
+    "a",
+    {
+     "href": "https://antroporecursos.wordpress.com/wp-content/uploads/2009/02/kawulich_fqs-observacion-participante.pdf"
+    },
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "https://antroporecursos.wordpress.com/wp-content/uploads/2009/02/kawulich_fqs-observacion-participante.pdf"
+    ]
+   ],
+   [
+    "span",
+    {
+     "lang": "en"
+    }
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "en"
+   },
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    "Lewicka, M. (2011). Place\r\nattachment: How far have we come in the last 40 years? In ",
+    [
+     "i",
+     {},
+     "Journal of Environmental Psychology."
+    ],
+    " 31(3), 207–230."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    [
+     "span",
+     {},
+     "          "
+    ]
+   ],
+   [
+    "a",
+    {
+     "href": "https://doi.org/10.1016/j.jenvp.2010.10.001"
+    },
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "https://doi.org/10.1016/j.jenvp.2010.10.001"
+    ]
+   ],
+   [
+    "span",
+    {
+     "lang": "en"
+    }
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    " "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "en"
+   },
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    "Liu, S., & Cheung, L. T. O. (2016). Sense\r\nof place and tourism business development. ",
+    [
+     "i",
+     {},
+     "Tourism\r\nGeographies"
+    ],
+    ", ",
+    [
+     "i",
+     {},
+     "18"
+    ],
+    "(2), 174–193. "
+   ],
+   [
+    "a",
+    {
+     "href": "https://doi.org/10.1080/14616688.2016.1149513"
+    },
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "https://doi.org/10.1080/14616688.2016.1149513"
+    ]
+   ],
+   [
+    "span",
+    {
+     "lang": "en"
+    }
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "en"
+   },
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    "Matos, L., Bardella, J., & Martins, E.\r\n(2022). A systematic review of cultural ecosystem services and valuation\r\nmethods. "
+   ],
+   [
+    "i",
+    {},
+    "Revista Interamericana de\r\nAmbiente y Turismo"
+   ],
+   ", ",
+   [
+    "i",
+    {},
+    "18"
+   ],
+   "(2),\r\n222–235. ",
+   [
+    "a",
+    {
+     "href": "https://doi.org/10.4067/s0718-235x2022000200222"
+    },
+    "https://doi.org/10.4067/s0718-235x2022000200222"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   "Martínez, P.\r\n(2006). El método de Estudio de Caso: Estrategia metodológica de la\r\ninvestigación científica. ",
+   [
+    "i",
+    {},
+    "Pensamiento y\r\nGestión"
+   ],
+   ". 20, 165-193."
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "          "
+   ],
+   [
+    "a",
+    {
+     "href": "https://www.redalyc.org/pdf/646/64602005.pdf"
+    },
+    "https://www.redalyc.org/pdf/646/64602005.pdf"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   " "
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "en"
+   },
+   "McElwee, P., Vũ, H., Võ, G.,\r\n& Lê, D. (2022). ",
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    "Patriotism,\r\nplace, and provisioning: assessing cultural ecosystem services through\r\nlongitudinal and historical studies in Vietnam. "
+   ],
+   [
+    "i",
+    {},
+    "Ecology and Society"
+   ],
+   ", ",
+   [
+    "i",
+    {},
+    "27"
+   ],
+   "(1),\r\n1-15. ",
+   [
+    "a",
+    {
+     "href": "https://doi.org/10.5751/ES-12615-270103"
+    },
+    "https://doi.org/10.5751/ES-12615-270103"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   "Ministerio de Desarrollo Agrario\r\ny Riego. (2006). ",
+   [
+    "i",
+    {},
+    "Diagnóstico regional de\r\nla problemática del sector agrario de la región San Martín"
+   ],
+   ". ",
+   [
+    "a",
+    {
+     "href": "https://www.midagri.gob.pe/portal/221-especiales/bioenergia/4214-san-martin"
+    },
+    "https://www.midagri.gob.pe/portal/221-especiales/bioenergia/4214-san-martin"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   "Ministerio del Ambiente. (2021).\r\n",
+   [
+    "i",
+    {},
+    "Iniciativas para reducir las emisiones de\r\ncarbono. "
+   ],
+   [
+    "a",
+    {
+     "href": "https://www.minam.gob.pe/programa-bosques/iniciativas-para-reducir-las-emisiones-de-carbono/"
+    },
+    "https://www.minam.gob.pe/programa-bosques/iniciativas-para-reducir-las-emisiones-de-carbono/"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   "Ministerio de\r\nComercio Exterior y Turismo. (2018). ",
+   [
+    "i",
+    {},
+    "Reporte\r\nde Comercio – Reporte Comercio Regional – RCR - San Martín 2018 – I Sem."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "          "
+   ],
+   [
+    "a",
+    {
+     "href": "https://www.gob.pe/institucion/mincetur/informes-publicaciones/345825-reporte-de-comercio-reporte-comercio-regional-rcr-san-martin-2018-i-sem"
+    },
+    "https://www.gob.pe/institucion/mincetur/informes-publicaciones/345825-reporte-de-comercio-reporte-comercio-regional-rcr-san-martin-2018-i-sem"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   " "
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   "Millennium Ecosystem Assessment.\r\n(2005). ",
+   [
+    "i",
+    {},
+    "Evaluación de Ecosistemas del\r\nMilenio"
+   ],
+   ". ",
+   [
+    "a",
+    {
+     "href": "https://www.millenniumassessment.org/documents/document.439.aspx.pdf"
+    },
+    "https://www.millenniumassessment.org/documents/document.439.aspx.pdf"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    "Monitoring of Andes Amazon Program. "
+   ],
+   "(2022).\r\n",
+   [
+    "i",
+    {},
+    "MAAP #153: Hotspots de Deforestación en\r\nla Amazonía Peruana, 2021."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "          "
+   ],
+   [
+    "a",
+    {
+     "href": "https://maaproject.kinsta.cloud/?html2pdf=https://www.maapprogram.org/es/amazonia-hotspots2021/&media=print"
+    },
+    "https://maaproject.kinsta.cloud/?html2pdf=https://www.maapprogram.org/es/amazonia-hotspots2021/&media=print"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   " "
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "en"
+   },
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    "Moragues-Faus, A. M., & Sonnino, R. (2012).\r\nEmbedding Quality in the Agro-food System: The Dynamics and Implications of\r\nPlace-Making Strategies in the Olive Oil Sector of Alto Palancia, Spain. "
+   ],
+   [
+    "i",
+    {},
+    "Sociologia Ruralis"
+   ],
+   ", ",
+   [
+    "i",
+    {},
+    "52"
+   ],
+   "(2), 215–234. ",
+   [
+    "a",
+    {
+     "href": "https://doi.org/10.1111/j.1467-9523.2011.00558.x"
+    },
+    "https://doi.org/10.1111/j.1467-9523.2011.00558.x"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   "Municipalidad Provincial de San\r\nMartín. ",
+   [
+    "i",
+    {},
+    "Plan de Acondicionamiento\r\nTerritorial de la Provincia de San Martin 2020-2029."
+   ],
+   " (2019). ",
+   [
+    "a",
+    {
+     "href": "https://cdn.www.gob.pe/uploads/document/file/2491633/PLAN%20DE%20ACONDICIONAMIENTO%20TERRITORIAL%20-%20PAT.pdf?v=1707506270"
+    },
+    "https://cdn.www.gob.pe/uploads/document/file/2491633/PLAN%20DE%20ACONDICIONAMIENTO%20TERRITORIAL%20-%20PAT.pdf?v=1707506270"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "en"
+   },
+   "Mulya, S. P., Putro, H. P. H.,\r\n& Hudalah, D. (2023). ",
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    "Review\r\nof peri-urban agriculture as a regional ecosystem service. In ",
+    [
+     "i",
+     {},
+     "Geography and Sustainability"
+    ],
+    " 4(3),\r\n244–254. "
+   ],
+   [
+    "a",
+    {
+     "href": "https://doi.org/10.1016/j.geosus.2023.06.001"
+    },
+    "https://doi.org/10.1016/j.geosus.2023.06.001"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "en"
+   },
+   "Narducci, J.,\r\nQuintas-Soriano, C., Castro, A., Som-Castellano, R., & Brandt, J. S.\r\n(2019). ",
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    "Implications of urban\r\ngrowth and farmland loss for ecosystem services in the western United States. ",
+    [
+     "i",
+     {},
+     "Land Use Policy"
+    ],
+    ", ",
+    [
+     "i",
+     {},
+     "86"
+    ],
+    ", 1–11."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    [
+     "span",
+     {},
+     "          "
+    ]
+   ],
+   [
+    "a",
+    {
+     "href": "https://doi.org/10.1016/j.landusepol.2019.04.029"
+    },
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "https://doi.org/10.1016/j.landusepol.2019.04.029"
+    ]
+   ],
+   [
+    "span",
+    {
+     "lang": "en"
+    }
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    " "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   "Otzen, T., & Manterola, C.\r\n(2017). Técnicas de Muestreo sobre una Población a Estudio. ",
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    "In ",
+    [
+     "i",
+     {},
+     "Int.\r\nJ. Morphol"
+    ],
+    ". 35(1), 227-232. "
+   ],
+   [
+    "a",
+    {
+     "href": "https://www.scielo.cl/pdf/ijmorphol/v35n1/art37.pdf"
+    },
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "https://www.scielo.cl/pdf/ijmorphol/v35n1/art37.pdf"
+    ]
+   ],
+   [
+    "span",
+    {
+     "lang": "en"
+    }
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "en"
+   },
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    "Pandeya, B., Buytaert, W., Zulkafli, Z.,\r\nKarpouzoglou, T., Mao, F., & Hannah, D. M. (2016). A comparative analysis\r\nof ecosystem services valuation approaches for application at the local scale\r\nand in data scarce regions. ",
+    [
+     "i",
+     {},
+     "Ecosystem\r\nServices"
+    ],
+    ", 22, 250–259. "
+   ],
+   [
+    "a",
+    {
+     "href": "https://doi.org/10.1016/j.ecoser.2016.10.015"
+    },
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "https://doi.org/10.1016/j.ecoser.2016.10.015"
+    ]
+   ],
+   [
+    "span",
+    {
+     "lang": "en"
+    }
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    "Petway, J. R., Lin, Y. P., & Wunderlich, R.\r\nF. (2020). A place-based approach to agricultural nonmaterial intangible\r\ncultural ecosystem service values. ",
+    [
+     "i",
+     {},
+     "Sustainability\r\n(Switzerland)"
+    ],
+    ", ",
+    [
+     "i",
+     {},
+     "12"
+    ],
+    "(2), 1-22. "
+   ],
+   [
+    "a",
+    {
+     "href": "https://doi.org/10.3390/su12020699"
+    },
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "https://doi.org/10.3390/su12020699"
+    ]
+   ],
+   [
+    "span",
+    {
+     "lang": "en"
+    }
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "en"
+   },
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    "Plieninger, T., Bieling, C., Fagerholm, N.,\r\nByg, A., Hartel, T., Hurley, P., López-Santiago, C. A., Nagabhatla, N.,\r\nOteros-Rozas, E., Raymond, C. M., van der Horst, D., & Huntsinger, L.\r\n(2015). The role of cultural ecosystem services in landscape management and\r\nplanning. In ",
+    [
+     "i",
+     {},
+     "Current Opinion in\r\nEnvironmental Sustainability"
+    ],
+    " 14,28–33. "
+   ],
+   [
+    "a",
+    {
+     "href": "https://doi.org/10.1016/j.cosust.2015.02.006"
+    },
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "https://doi.org/10.1016/j.cosust.2015.02.006"
+    ]
+   ],
+   [
+    "span",
+    {
+     "lang": "en"
+    }
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "en"
+   },
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    "Schirpke, U., Altzinger, A., Leitinger,\r\nG., & Tasser, E. (2019). Change from agricultural to touristic use: Effects\r\non the aesthetic value of landscapes over the last 150 years. ",
+    [
+     "i",
+     {},
+     "Landscape and Urban Planning"
+    ],
+    ", 187,\r\n23–35. "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    [
+     "span",
+     {},
+     "          "
+    ]
+   ],
+   [
+    "a",
+    {
+     "href": "https://doi.org/10.1016/j.landurbplan.2019.03.004"
+    },
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "https://doi.org/10.1016/j.landurbplan.2019.03.004"
+    ]
+   ],
+   [
+    "span",
+    {
+     "lang": "en"
+    }
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    " "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "en"
+   },
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    "Schirpke, U., Tasser, E., Ebner, M., &\r\nTappeiner, U. (2021). What can geotagged photographs tell us about cultural\r\necosystem services of lakes? "
+   ],
+   [
+    "i",
+    {},
+    "Ecosystem\r\nServices"
+   ],
+   ", 51, 1-11 ",
+   [
+    "a",
+    {
+     "href": "https://doi.org/10.1016/J.ECOSER.2021.101354"
+    },
+    "https://doi.org/10.1016/J.ECOSER.2021.101354"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   "Sistema\r\nNacional de Evaluación, Acreditación y Certificación de la calidad Educativa.\r\n(2020). C",
+   [
+    "i",
+    {},
+    "aracterización de la Región San\r\nMartín"
+   ],
+   ". "
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    " "
+   ],
+   [
+    "a",
+    {
+     "href": "https://repositorio.sineace.gob.pe/repositorio/bitstream/handle/20.500.12982/6222/Caracterizaci%c3%b3n%20Regional%20San%20Mart%c3%adn.pdf?sequence=1&isAllowed=y"
+    },
+    "https://repositorio.sineace.gob.pe/repositorio/bitstream/handle/20.500.12982/6222/Caracterizaci%c3%b3n%20Regional%20San%20Mart%c3%adn.pdf?sequence=1&isAllowed=y"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   " "
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "en"
+   },
+   "Soy-Massoni, E., Langemeyer, J.,\r\nVarga, D., Sáez, M., & Pintó, J. (2016a). ",
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    "The importance of ecosystem services in coastal\r\nagricultural landscapes: Case study from the Costa Brava, Catalonia. ",
+    [
+     "i",
+     {},
+     "Ecosystem Services"
+    ],
+    ", 17, 43–52. "
+   ],
+   [
+    "a",
+    {
+     "href": "https://doi.org/10.1016/j.ecoser.2015.11.004"
+    },
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "https://doi.org/10.1016/j.ecoser.2015.11.004"
+    ]
+   ],
+   [
+    "span",
+    {
+     "lang": "en"
+    }
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "en"
+   },
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    "Stake, R. (1995). ",
+    [
+     "i",
+     {},
+     "The art of case study"
+    ],
+    ". University of Illinois. "
+   ],
+   [
+    "a",
+    {
+     "href": "https://us.sagepub.com/en-us/nam/the-art-of-case-study-research/book4954"
+    },
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "https://us.sagepub.com/en-us/nam/the-art-of-case-study-research/book4954"
+    ]
+   ],
+   [
+    "span",
+    {
+     "lang": "en"
+    }
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "en"
+   },
+   "Su, Y., Zhu, C., Lin, L., Wang,\r\nC., Jin, C., Cao, J., Li, T., & Su, C. (2022). ",
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    "Assessing the Cultural Ecosystem Services Value\r\nof Protected Areas Considering Stakeholders’ Preferences and Trade-Offs—Taking\r\nthe Xin’an River Landscape Corridor Scenic Area as an Example. ",
+    [
+     "i",
+     {},
+     "International Journal of Environmental\r\nResearch and Public Health"
+    ],
+    ", ",
+    [
+     "i",
+     {},
+     "19 "
+    ],
+    "(21),\r\n1-16. "
+   ],
+   [
+    "a",
+    {
+     "href": "https://doi.org/10.3390/ijerph192113968"
+    },
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "https://doi.org/10.3390/ijerph192113968"
+    ]
+   ],
+   [
+    "span",
+    {
+     "lang": "en"
+    }
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   "Valdés, E.\r\n(2017). ",
+   [
+    "i",
+    {},
+    "La apreciación estética del\r\npaisaje: Naturaleza, Artificio y Símbolo"
+   ],
+   ". [Tesis doctoral]. Universidad\r\nPolitécnica de Madrid."
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "          "
+   ],
+   [
+    "a",
+    {
+     "href": "https://oa.upm.es/48452/1/Esther_Valdes_Tejera_01.pdf"
+    },
+    "https://oa.upm.es/48452/1/Esther_Valdes_Tejera_01.pdf"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   " "
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "en"
+   },
+   "Van der Merwe, G., & Simha,\r\nP. (2023). ",
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    "Approaches for\r\nbridging the sanitation delivery gap in urban informal settlements in Namibia. ",
+    [
+     "i",
+     {},
+     "City and Environment Interactions"
+    ],
+    ", 20,",
+    [
+     "i",
+     {},
+     " 1-8"
+    ],
+    ". "
+   ],
+   [
+    "a",
+    {
+     "href": "https://doi.org/10.1016/j.cacint.2023.100120"
+    },
+    "https://doi.org/10.1016/j.cacint.2023.100120"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "en"
+   },
+   "Van Zanten, B. T., Zasada, I.,\r\nKoetse, M. J., Ungaro, F., Häfner, K., & Verburg, P. H. (2016). ",
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    "A comparative approach to assess the\r\ncontribution of landscape features to aesthetic and recreational values in\r\nagricultural landscapes. ",
+    [
+     "i",
+     {},
+     "Ecosystem\r\nServices"
+    ],
+    ", ",
+    [
+     "i",
+     {},
+     "17"
+    ],
+    ", 87–98. "
+   ],
+   [
+    "a",
+    {
+     "href": "https://doi.org/10.1016/j.ecoser.2015.11.011"
+    },
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "https://doi.org/10.1016/j.ecoser.2015.11.011"
+    ]
+   ],
+   [
+    "span",
+    {
+     "lang": "en"
+    }
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "en"
+   },
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    "Wartmann, F. M., & Purves, R. S. (2018).\r\nInvestigating sense of place as a cultural ecosystem service in different\r\nlandscapes through the lens of language. ",
+    [
+     "i",
+     {},
+     "Landscape\r\nand Urban Planning"
+    ],
+    ", ",
+    [
+     "i",
+     {},
+     "175"
+    ],
+    ", 169–183.\r\n"
+   ],
+   [
+    "a",
+    {
+     "href": "https://doi.org/10.1016/j.landurbplan.2018.03.021"
+    },
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "https://doi.org/10.1016/j.landurbplan.2018.03.021"
+    ]
+   ],
+   [
+    "span",
+    {
+     "lang": "en"
+    }
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "en"
+   },
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    "Wolff, E., Rauf, H. A., & Hamel, P. (2023).\r\nNature-based solutions in informal settlements: A systematic review of projects\r\nin Southeast Asian and Pacific countries. In ",
+    [
+     "i",
+     {},
+     "Environmental Science and Policy."
+    ],
+    " 145, 275–285. "
+   ],
+   [
+    "a",
+    {
+     "href": "https://doi.org/10.1016/j.envsci.2023.04.014"
+    },
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "https://doi.org/10.1016/j.envsci.2023.04.014"
+    ]
+   ],
+   [
+    "span",
+    {
+     "lang": "en"
+    }
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    " ",
+    [
+     "b",
+     {}
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    " "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    " "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    " "
+   ]
+  ],
+  "\r\n\r\n",
+  "\r\n\r\n",
+  [
+   "br",
+   {}
+  ],
+  "\r\n\r\n",
+  "\r\n\r\n",
+  "\r\n\r\n",
+  [
+   "span",
+   {
+    "id": "t-ftn1"
+   },
+   "\r\n\r\n",
+   [
+    "p",
+    {},
+    [
+     "a",
+     {
+      "id": "t-_ftn1",
+      "href": "#t-_ftnref1"
+     },
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       [
+        "span",
+        {},
+        [
+         "span",
+         {},
+         [
+          "span",
+          {},
+          "[1]"
+         ]
+        ]
+       ]
+      ]
+     ]
+    ],
+    [
+     "span",
+     {},
+     " ",
+     [
+      "span",
+      {},
+      " "
+     ]
+    ],
+    [
+     "span",
+     {},
+     "Bachiller\r\nen Arquitectura por la Universidad Peruana Unión, Tarapoto - Perú. Gerente\r\ngeneral de Muvall Constructora & Inmobiliaria S.A. Asistente de\r\nArquitectura en el área de Estudios y Proyectos del área de GIDUR. Gerencia de\r\nInfraestructura de Desarrollo Urbano en la Municipalidad Provincial de Nueva\r\nCajamarca."
+    ],
+    [
+     "span",
+     {}
+    ]
+   ],
+   "\r\n\r\n"
+  ],
+  "\r\n\r\n",
+  [
+   "span",
+   {
+    "id": "t-ftn2"
+   },
+   "\r\n\r\n",
+   [
+    "p",
+    {},
+    [
+     "a",
+     {
+      "id": "t-_ftn2",
+      "href": "#t-_ftnref2"
+     },
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       [
+        "span",
+        {},
+        [
+         "span",
+         {},
+         [
+          "span",
+          {},
+          "[2]"
+         ]
+        ]
+       ]
+      ]
+     ]
+    ],
+    [
+     "span",
+     {},
+     " "
+    ],
+    [
+     "span",
+     {},
+     "Bachiller\r\nen Arquitectura por la Universidad Peruana Unión, Tarapoto - Perú. Egresada en\r\nmáster de Investigación científica con mención en docencia Universitaria,\r\notorgado por la Universidad Peruana Unión. Especialista de Proyectos de la\r\nUnidad Formuladora (UF) en la Gerencia de Gestión Ambiental, Subgerencia de\r\nResiduos Sólidos en la Municipalidad Provincial de Moyobamba."
+    ],
+    [
+     "span",
+     {}
+    ]
+   ],
+   "\r\n\r\n"
+  ],
+  "\r\n\r\n",
+  [
+   "span",
+   {
+    "id": "t-ftn3"
+   },
+   "\r\n\r\n",
+   [
+    "p",
+    {},
+    [
+     "a",
+     {
+      "id": "t-_ftn3",
+      "href": "#t-_ftnref3"
+     },
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       [
+        "span",
+        {},
+        [
+         "span",
+         {},
+         [
+          "span",
+          {},
+          "[3]"
+         ]
+        ]
+       ]
+      ]
+     ]
+    ],
+    [
+     "span",
+     {},
+     " "
+    ],
+    [
+     "span",
+     {},
+     "Bachiller\r\nen Arquitectura por la Universidad Peruana Unión, Tarapoto - Perú. Gerente\r\ngeneral de EdifiCAN-Desing estudio de Arquitectura en Rioja."
+    ],
+    [
+     "span",
+     {}
+    ]
+   ],
+   "\r\n\r\n"
+  ],
+  "\r\n\r\n",
+  [
+   "span",
+   {
+    "id": "t-ftn4"
+   },
+   "\r\n\r\n",
+   [
+    "p",
+    {},
+    [
+     "a",
+     {
+      "id": "t-_ftn4",
+      "href": "#t-_ftnref4"
+     },
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       [
+        "span",
+        {},
+        [
+         "span",
+         {},
+         [
+          "span",
+          {},
+          "[4]"
+         ]
+        ]
+       ]
+      ]
+     ]
+    ],
+    [
+     "span",
+     {},
+     " "
+    ],
+    [
+     "span",
+     {},
+     "Arquitecta\r\npor la Universidad Femenina del Sagrado Corazón, Lima - Perú. Máster en\r\nArquitectura Avanzada, Paisaje, Urbanismo y Diseño en la especialidad de\r\nUrbanismo, Territorio y Paisaje, otorgada por la Universidad Politécnica de\r\nValencia (España). Especialización en Manejo, Diseño de Áreas verdes y\r\nArboricultura Urbana, otorgado por la Universidad Nacional Agraria La Molina. Docente\r\nde la Escuela Profesional de Arquitectura de la Universidad Peruana Unión.\r\nInvestigadora del grupo MITA Architecture Research Group (UPeU) e integrante\r\ndel equipo de investigación Demos-UNMSM de la Universidad Nacional Mayor de San\r\nMarcos(Perú)."
+    ],
+    [
+     "span",
+     {}
+    ]
+   ],
+   "\r\n\r\n"
+  ],
+  "\r\n\r\n",
+  "\r\n\r\n"
+ ]
+}

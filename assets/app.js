@@ -6,6 +6,8 @@
     #/                                  listado de revistas
     #/revista/<id>                      ficha de una revista
     #/revista/<id>/numero/<numero>      índice de un número
+    #/revista/<id>/numero/<numero>/articulo/<clave>
+                                        lectura del texto completo de un artículo
 
   En cada cambio de vista: se pinta el contenido, se actualiza el título
   del documento, el foco pasa al encabezado de primer nivel y se anuncia
@@ -19,6 +21,8 @@
   var RETRASO_ANUNCIO = 700;    // ms de pausa al escribir antes de anunciar resultados
   var TAMANOS = [100, 125, 150, 175, 200];
   var CLAVE_TAMANO = 'revistas-sociologia:tamano-texto';
+  var CLAVE_TEMA = 'revistas-sociologia:tema';
+  var TEMAS = { '': 'automático, según el sistema', claro: 'claro', oscuro: 'oscuro', contraste: 'alto contraste' };
   var AVISO_EXTERNO = '(sitio externo, se abre en una pestaña nueva)';
 
   var colador = new Intl.Collator('es', { sensitivity: 'base', numeric: true });
@@ -28,7 +32,10 @@
     cache: {},
     peticion: 0,
     primeraVista: true,
-    temporizadorAnuncio: null
+    temporizadorAnuncio: null,
+    // Al ir del índice de un número a la lectura de un artículo se guarda
+    // la posición, para recuperarla al volver con el botón atrás.
+    retorno: null
   };
 
   var principal = document.getElementById('contenido');
@@ -131,7 +138,7 @@
   /* Datos */
 
   function ErrorDatos(tipo, detalle) {
-    this.tipo = tipo;          // 'no-encontrado', 'red' o 'datos'
+    this.tipo = tipo;          // 'no-encontrado', 'red', 'datos' o 'navegador'
     this.detalle = detalle;
   }
 
@@ -157,10 +164,38 @@
     });
   }
 
+  // En la versión de un solo archivo, los textos completos van comprimidos
+  // con gzip. Se descomprimen con el propio navegador, sin pedir nada fuera.
+  function descomprimir(base64) {
+    if (typeof window.DecompressionStream !== 'function') {
+      return Promise.reject(new ErrorDatos('navegador', 'Este navegador no puede descomprimir el texto del artículo.'));
+    }
+    try {
+      var binario = window.atob(base64);
+      var bytes = new Uint8Array(binario.length);
+      for (var i = 0; i < binario.length; i++) bytes[i] = binario.charCodeAt(i);
+      var flujo = new Blob([bytes]).stream().pipeThrough(new window.DecompressionStream('gzip'));
+      return new Response(flujo).text().then(JSON.parse).catch(function () {
+        throw new ErrorDatos('datos', 'El texto del artículo está dañado dentro del archivo.');
+      });
+    } catch (e) {
+      return Promise.reject(new ErrorDatos('datos', 'El texto del artículo está dañado dentro del archivo.'));
+    }
+  }
+
   function cargarDatos(archivo) {
     if (estado.cache[archivo]) return estado.cache[archivo];
     var promesa;
-    if (location.protocol === 'file:') {
+    if (window.DATOS_INCRUSTADOS) {
+      // Versión de un solo archivo (dist/revistas-prueba.html): los datos
+      // vienen dentro de la página y no se pide nada fuera de ella.
+      var comprimido = (window.TEXTOS_COMPRIMIDOS || {})[archivo];
+      promesa = comprimido ? descomprimir(comprimido) : new Promise(function (resolver, rechazar) {
+        var datos = window.DATOS_INCRUSTADOS[archivo];
+        if (datos) resolver(datos);
+        else rechazar(new ErrorDatos('no-encontrado', 'El archivo de datos no está incluido en esta versión.'));
+      });
+    } else if (location.protocol === 'file:') {
       promesa = cargarScript(archivo);
     } else {
       promesa = fetch('data/' + archivo, { cache: 'no-cache' }).then(function (respuesta) {
@@ -220,6 +255,9 @@
     if (partes[0] === 'revista' && partes.length === 4 && partes[2] === 'numero') {
       return { vista: 'numero', id: partes[1], numero: partes[3] };
     }
+    if (partes[0] === 'revista' && partes.length === 6 && partes[2] === 'numero' && partes[4] === 'articulo') {
+      return { vista: 'lectura', id: partes[1], numero: partes[3], articulo: partes[5] };
+    }
     return { vista: 'no-encontrada' };
   }
 
@@ -231,6 +269,21 @@
         var numero = datos.numeros.find(function (n) { return n.id === destino.numero; });
         if (!numero) throw new ErrorDatos('no-encontrado', 'numero', datos);
         return vistaNumero(datos, numero);
+      });
+    }
+    if (destino.vista === 'lectura') {
+      return cargarRevista(destino.id).then(function (datos) {
+        var numero = datos.numeros.find(function (n) { return n.id === destino.numero; });
+        if (!numero) throw new ErrorDatos('no-encontrado', 'numero', datos);
+        var articulo = (numero.articulos || []).find(function (a) { return claveArticulo(a) === destino.articulo; });
+        if (!articulo || !articulo.texto_completo) throw new ErrorDatos('no-encontrado', 'articulo', datos);
+        return cargarDatos(articulo.texto_completo).then(function (texto) {
+          if (!texto || !Array.isArray(texto.contenido) || !texto.licencia ||
+              String(texto.doi).toLowerCase() !== String(articulo.doi).toLowerCase()) {
+            throw new ErrorDatos('datos', 'El texto del artículo no tiene el formato esperado.');
+          }
+          return vistaLectura(datos, numero, articulo, texto);
+        });
       });
     }
     return Promise.resolve(vistaNoEncontrada());
@@ -264,9 +317,12 @@
       estado.primeraVista = false;
       return;
     }
-    var titulo = principal.querySelector('h1');
-    window.scrollTo(0, 0);
-    if (titulo) titulo.focus({ preventScroll: true });
+    // Al volver de la lectura, el índice recupera su posición y el foco va al
+    // enlace del artículo que se estaba leyendo (vista.foco).
+    var destinoFoco = vista.foco || principal.querySelector('h1');
+    window.scrollTo(0, vista.posicion || 0);
+    if (destinoFoco) destinoFoco.focus({ preventScroll: true });
+    if (vista.foco && !vista.posicion) vista.foco.scrollIntoView({ block: 'center' });
     if (vista.anuncio) anunciar(vista.anuncio);
   }
 
@@ -517,14 +573,319 @@
         : 'No indicada en la fuente. Consulta las condiciones en la web de la revista.'),
       articulo.doi ? [el('dt', null, 'DOI'), el('dd', { clase: 'doi' }, articulo.doi)] : null);
 
+    // Se dice con texto, no solo con un icono, si el artículo se puede leer aquí.
+    var lectura;
+    if (articulo.texto_completo) {
+      var destino = ruta('revista', revista.id, 'numero', numero.id, 'articulo', claveArticulo(articulo));
+      lectura = [
+        el('p', { clase: 'lectura-disponible' }, 'Lectura completa disponible en esta aplicación.'),
+        el('p', null, el('a', { href: destino, id: 'leer-' + claveArticulo(articulo), clase: 'boton', onClick: function () {
+          estado.retorno = { ruta: location.hash, posicion: window.scrollY, articulo: claveArticulo(articulo) };
+        } }, 'Leer el artículo completo', el('span', { clase: 'solo-lector' }, ': ',
+          conIdioma(el('span', null, articulo.titulo), articulo.idioma_titulo))))
+      ];
+    } else {
+      lectura = el('p', { clase: 'lectura-externa' }, 'Texto completo solo en la web de la revista.');
+    }
+
     return el('li', { clase: 'tarjeta articulo' },
       el('article', null,
         titulo,
         el('p', { clase: 'articulo__autores' }, autores.length ? 'Autoría: ' + autores.join(', ') + '.' : 'Autoría no indicada en la fuente.'),
         el('p', { clase: 'texto-suave' }, publicado),
+        lectura,
         resumen,
         detalles,
         el('p', null, enlaceExterno(articulo.url, 'Leer en la web de la revista', articulo.titulo, articulo.idioma_titulo))));
+  }
+
+  // Clave del artículo en la dirección: el nombre de su archivo de texto, o el DOI.
+  function claveArticulo(articulo) {
+    var archivo = articulo.texto_completo || '';
+    var nombre = archivo.replace(/^textos\//, '').replace(/\.json$/, '');
+    return nombre || String(articulo.doi || articulo.id || '');
+  }
+
+  /* Vista de lectura */
+
+  var ETIQUETAS_TEXTO = {
+    section: 1, h2: 1, h3: 1, h4: 1, h5: 1, h6: 1, p: 1, ul: 1, ol: 1, li: 1, blockquote: 1, table: 1,
+    caption: 1, thead: 1, tbody: 1, tfoot: 1, tr: 1, th: 1, td: 1, figure: 1, figcaption: 1, dl: 1, dt: 1,
+    dd: 1, aside: 1, pre: 1, em: 1, strong: 1, i: 1, b: 1, u: 1, sub: 1, sup: 1, br: 1, a: 1, q: 1,
+    cite: 1, small: 1, span: 1, code: 1, abbr: 1, s: 1, mark: 1
+  };
+  var ATRIBUTOS_TEXTO = { lang: 1, id: 1, colspan: 1, rowspan: 1, scope: 1, start: 1, title: 1 };
+
+  // Construye el texto del artículo a partir del árbol saneado por el recolector.
+  // Solo se admiten las etiquetas y atributos de la lista blanca, y el texto
+  // se inserta siempre como texto: nunca se interpreta como HTML.
+  function construirTexto(nodos, contexto) {
+    var fragmento = document.createDocumentFragment();
+    (nodos || []).forEach(function (nodo) {
+      var hijo = construirNodo(nodo, contexto);
+      if (hijo) fragmento.appendChild(hijo);
+    });
+    return fragmento;
+  }
+
+  function construirNodo(nodo, contexto) {
+    if (typeof nodo === 'string') return document.createTextNode(nodo);
+    if (!Array.isArray(nodo) || typeof nodo[0] !== 'string') return null;
+    var etiqueta = nodo[0];
+    var atributos = nodo[1] && typeof nodo[1] === 'object' ? nodo[1] : {};
+    var hijos = nodo.slice(2);
+    if (etiqueta === 'figura') return figuraSustituida(atributos, contexto);
+    if (!ETIQUETAS_TEXTO[etiqueta]) return construirTexto(hijos, contexto);
+    var elemento;
+    if (etiqueta === 'a') {
+      var href = String(atributos.href || '');
+      if (contexto.enEnlace) {
+        // Un enlace dentro de otro (algunas galeradas lo traen así) no se
+        // puede activar por separado: el interior se muestra como texto.
+        elemento = el('span');
+      } else if (/^#t-[A-Za-z0-9_-]+$/.test(href)) {
+        elemento = el('a', { href: href, clase: 'enlace-interno' });
+      } else if (urlSegura(href)) {
+        elemento = el('a', { href: href, target: '_blank', rel: 'noopener' });
+        elemento.appendChild(construirDentroDeEnlace(hijos, contexto));
+        anadir(elemento, el('span', { clase: 'enlace-externo__aviso' }, ' ' + AVISO_EXTERNO));
+        copiarAtributos(elemento, atributos);
+        return elemento;
+      } else {
+        elemento = el('span');
+      }
+    } else if (etiqueta === 'th' && !textoDe(hijos).trim()) {
+      // Una cabecera de tabla vacía (la esquina de muchas tablas) no encabeza
+      // nada: se muestra como celda normal para no anunciar una cabecera vacía.
+      elemento = document.createElement('td');
+    } else if (etiqueta === 'aside') {
+      // Notas y recuadros del original: no son regiones de la página, así que
+      // no se usa aside, que crearía un punto de referencia dentro de otro.
+      elemento = el('div', { clase: 'recuadro' });
+    } else {
+      elemento = document.createElement(etiqueta);
+    }
+    copiarAtributos(elemento, atributos);
+    elemento.appendChild(elemento.tagName === 'A' ? construirDentroDeEnlace(hijos, contexto) : construirTexto(hijos, contexto));
+    if (etiqueta === 'table') {
+      // Las tablas anchas se desplazan dentro de su propio marco, que se puede
+      // recorrer con el teclado, y nunca ensanchan la página.
+      var leyenda = elemento.querySelector('caption');
+      var marco = el('div', { clase: 'tabla-desplazable', role: 'region', tabindex: '0' });
+      if (leyenda) {
+        if (!leyenda.id) leyenda.id = 'leyenda-' + (++contexto.tablas);
+        marco.setAttribute('aria-labelledby', leyenda.id);
+      } else {
+        marco.setAttribute('aria-label', 'Tabla ' + (++contexto.tablas) + ' del artículo');
+      }
+      marco.appendChild(elemento);
+      return marco;
+    }
+    return elemento;
+  }
+
+  function textoDe(nodos) {
+    return (nodos || []).map(function (n) {
+      return typeof n === 'string' ? n : Array.isArray(n) ? textoDe(n.slice(2)) : '';
+    }).join('');
+  }
+
+  function construirDentroDeEnlace(hijos, contexto) {
+    var anterior = contexto.enEnlace;
+    contexto.enEnlace = true;
+    var fragmento = construirTexto(hijos, contexto);
+    contexto.enEnlace = anterior;
+    return fragmento;
+  }
+
+  function copiarAtributos(elemento, atributos) {
+    Object.keys(atributos).forEach(function (clave) {
+      if (!ATRIBUTOS_TEXTO[clave] || typeof atributos[clave] !== 'string') return;
+      if (clave === 'id' && !/^t-[A-Za-z0-9_-]+$/.test(atributos.id)) return;
+      if (clave === 'lang' && !/^[a-z]{2,3}(-[a-z0-9]+)*$/i.test(atributos.lang)) return;
+      if (clave === 'scope' && elemento.tagName !== 'TH') return;
+      elemento.setAttribute(clave, atributos[clave]);
+    });
+  }
+
+  // Las imágenes de la revista no se muestran: en su lugar va su descripción,
+  // o un aviso si la revista no la ofrece, y un enlace para verla en el original.
+  function figuraSustituida(atributos, contexto) {
+    var alt = typeof atributos.alt === 'string' ? atributos.alt.trim() : '';
+    // Dentro de un enlace del original no se añade otro enlace: se dice con texto.
+    var enlace = contexto.enEnlace ? 'Puedes verla en la web de la revista.'
+      : enlaceExterno(contexto.articulo.url, 'Ver la figura en la web de la revista');
+    if (alt) {
+      return el('span', { clase: 'figura-sustituida' },
+        el('strong', null, 'Imagen de la revista. '), 'Descripción de la revista: ', alt, ' ', enlace);
+    }
+    contexto.sinDescripcion++;
+    return el('span', { clase: 'figura-sustituida figura-sustituida--sin-descripcion' },
+      el('strong', null, 'Aviso: esta figura no dispone de descripción en la revista.'),
+      ' Para verla, consulta el original. ', enlace);
+  }
+
+  // Cita en el estilo APA 7, adaptado al español («y» antes del último autor).
+  function iniciales(nombre) {
+    return String(nombre || '').split(/\s+/).filter(Boolean).map(function (parte) {
+      return parte.split('-').map(function (p) { return p.charAt(0).toUpperCase() + '.'; }).join('-');
+    }).join(' ');
+  }
+
+  function autoresCita(texto, articulo) {
+    var lista = (texto.autores_cita && texto.autores_cita.length ? texto.autores_cita : (articulo.autores || []))
+      .map(function (a) {
+        if (a.apellidos) return a.apellidos + (a.nombre_pila ? ', ' + iniciales(a.nombre_pila) : '');
+        return a.nombre || '';
+      }).filter(Boolean);
+    if (lista.length === 0) return '';
+    if (lista.length === 1) return lista[0];
+    return lista.slice(0, -1).join(', ') + ' y ' + lista[lista.length - 1];
+  }
+
+  // Devuelve el texto de la cita y una función que crea sus nodos: cada
+  // bloque de cita necesita los suyos, porque un nodo solo puede estar en un sitio.
+  function cita(texto, articulo, revista, numero) {
+    var autores = autoresCita(texto, articulo);
+    var paginas = articulo.paginas ? String(articulo.paginas).replace(/-/g, '–') : '';
+    var partes = [];
+    if (autores) partes.push([autores + (/\.$/.test(autores) ? ' ' : '. ')]);
+    partes.push(['(' + (numero.anio || 's. f.') + '). ']);
+    partes.push([articulo.titulo, 'titulo']);
+    partes.push([/[.?!]$/.test(articulo.titulo) ? ' ' : '. ']);
+    partes.push([revista.titulo, 'cursiva']);
+    if (numero.volumen) { partes.push([', ']); partes.push([numero.volumen, 'cursiva']); }
+    if (numero.numero) partes.push(['(' + numero.numero + ')']);
+    if (paginas) partes.push([', ' + paginas]);
+    partes.push(['. https://doi.org/' + articulo.doi]);
+    return {
+      texto: partes.map(function (p) { return p[0]; }).join(''),
+      construir: function () {
+        return partes.map(function (p) {
+          if (p[1] === 'cursiva') return el('i', null, p[0]);
+          if (p[1] === 'titulo') return conIdioma(el('span', null, p[0]), articulo.idioma_titulo);
+          return p[0];
+        });
+      }
+    };
+  }
+
+  function bloqueCita(datosCita, idCita) {
+    var parrafo = el('p', { clase: 'cita', id: idCita });
+    anadir(parrafo, datosCita.construir());
+    return parrafo;
+  }
+
+  function copiarCita(textoCita, idCita) {
+    function seleccionar() {
+      var nodo = document.getElementById(idCita);
+      var rango = document.createRange();
+      rango.selectNodeContents(nodo);
+      var seleccion = window.getSelection();
+      seleccion.removeAllRanges();
+      seleccion.addRange(rango);
+      anunciar('No se ha podido copiar automáticamente. La cita ha quedado seleccionada: cópiala con el menú del sistema o con Comando más C.');
+    }
+    if (!navigator.clipboard || !navigator.clipboard.writeText) { seleccionar(); return; }
+    navigator.clipboard.writeText(textoCita).then(function () {
+      anunciar('Cita copiada.');
+      var aviso = document.getElementById(idCita + '-copiada');
+      if (aviso) aviso.textContent = 'Cita copiada.';
+    }, seleccionar);
+  }
+
+  function indiceDelArticulo(entradas) {
+    if (!entradas || !entradas.length) return null;
+    var raiz = el('ol');
+    var pila = [{ nivel: 1, lista: raiz }];
+    entradas.forEach(function (entrada) {
+      if (!/^t-[A-Za-z0-9_-]+$/.test(entrada.id)) return;
+      while (pila.length > 1 && pila[pila.length - 1].nivel >= entrada.nivel) pila.pop();
+      var elemento = el('li', null, conIdioma(el('a', { href: '#' + entrada.id, clase: 'enlace-interno' }, entrada.texto), entrada.lang));
+      pila[pila.length - 1].lista.appendChild(elemento);
+      var sublista = el('ol');
+      elemento.appendChild(sublista);
+      pila.push({ nivel: entrada.nivel, lista: sublista });
+    });
+    // Se quitan las sublistas vacías.
+    raiz.querySelectorAll('ol').forEach(function (lista) { if (!lista.children.length) lista.remove(); });
+    return el('nav', { clase: 'indice-articulo', 'aria-labelledby': 'indice-articulo-titulo' },
+      el('h2', { id: 'indice-articulo-titulo' }, 'Contenido del artículo'), raiz);
+  }
+
+  function vistaLectura(datos, numero, articulo, texto) {
+    var revista = datos.revista;
+    var licencia = texto.licencia;
+    var autores = (articulo.autores || []).map(function (a) { return a.nombre; }).filter(Boolean);
+    var datosCita = cita(texto, articulo, revista, numero);
+    var contexto = { articulo: articulo, tablas: 0, sinDescripcion: 0 };
+    var fecha = fechaLegible(texto.recogido);
+    var original = function () {
+      return el('p', null, enlaceExterno(articulo.url, 'Ver y citar en la web de la revista'));
+    };
+
+    var cuerpo = el('div', { clase: 'texto-articulo' });
+    conIdioma(cuerpo, texto.idioma_principal);
+    cuerpo.appendChild(construirTexto(texto.contenido, contexto));
+    // Enlaces de vuelta desde notas y referencias que no lo traen en el original.
+    Object.keys(texto.vueltas || {}).forEach(function (destino) {
+      var llamada = texto.vueltas[destino];
+      var nota = /^t-[A-Za-z0-9_-]+$/.test(destino) ? cuerpo.querySelector('#' + CSS.escape(destino)) : null;
+      if (!nota || !/^t-[A-Za-z0-9_-]+$/.test(llamada) || !cuerpo.querySelector('#' + CSS.escape(llamada))) return;
+      // Nunca un enlace dentro de otro enlace.
+      if (nota.closest('a')) return;
+      anadir(nota, [' ', el('a', { href: '#' + llamada, clase: 'enlace-interno volver-nota', lang: 'es' }, 'Volver al texto')]);
+    });
+
+    var avisos = (texto.avisos_derechos || []).filter(Boolean);
+    var atribucion = el('section', { clase: 'atribucion', 'aria-labelledby': 'atribucion-titulo' },
+      el('h2', { id: 'atribucion-titulo' }, 'Cita, autoría y licencia'),
+      el('dl', { clase: 'metadatos' },
+        el('dt', null, 'Autoría'), el('dd', null, autores.length ? autores.join(', ') : 'No indicada en la fuente.'),
+        el('dt', null, 'Revista'), el('dd', null, nombreRevista(revista), ', ' + numero.etiqueta +
+          (articulo.paginas ? ', páginas ' + articulo.paginas : '') + '.'),
+        el('dt', null, 'DOI'), el('dd', { clase: 'doi' }, articulo.doi),
+        el('dt', null, 'Licencia'), el('dd', null, licencia.nombre_completo, ' (' + licencia.nombre + '). ',
+          enlaceExterno(licencia.url_legal, 'Texto legal de la licencia'))),
+      el('h3', null, 'Cita completa'),
+      bloqueCita(datosCita, 'cita-inicial'),
+      el('p', null, 'Este artículo se muestra con la licencia ' + licencia.nombre_completo +
+        '. Solo se han modificado el formato y la presentación; el texto es el publicado por la revista.'),
+      avisos.length ? [el('h3', null, 'Avisos de derechos del original'),
+        el('ul', { clase: 'avisos-derechos' }, avisos.map(function (a) { return el('li', null, a); }))] : null,
+      el('p', { clase: 'texto-suave' }, 'Texto obtenido de la versión ' + (texto.fuente && texto.fuente.formato || 'HTML') +
+        ' que publica la revista' + (fecha ? ', consultada el ' + fecha : '') + '.'),
+      original());
+
+    var indice = indiceDelArticulo(texto.indice);
+    var idCita = 'cita-final-texto';
+    var final = el('section', { clase: 'cita-final', 'aria-labelledby': 'cita-final-titulo' },
+      el('h2', { id: 'cita-final-titulo' }, 'Cómo citar este artículo'),
+      bloqueCita(datosCita, idCita),
+      el('p', { clase: 'acciones' },
+        el('button', { type: 'button', clase: 'boton', onClick: function () { copiarCita(datosCita.texto, idCita); } }, 'Copiar la cita'),
+        el('span', { clase: 'copiado', id: idCita + '-copiada' })),
+      el('p', null, 'Licencia: ' + licencia.nombre_completo + '. ', enlaceExterno(licencia.url_legal, 'Texto legal de la licencia')),
+      original(),
+      el('p', null, el('a', { href: ruta('revista', revista.id, 'numero', numero.id), clase: 'boton boton--secundario' }, 'Volver al índice del número')));
+
+    var secciones = (texto.indice || []).filter(function (e) { return e.nivel === 2; }).length;
+    return {
+      titulo: articulo.titulo,
+      migas: [
+        { texto: revista.titulo, idioma: revista.idioma_titulo, href: ruta('revista', revista.id) },
+        { texto: numero.etiqueta, href: ruta('revista', revista.id, 'numero', numero.id) },
+        { texto: articulo.titulo, idioma: articulo.idioma_titulo, href: location.hash }
+      ],
+      anuncio: 'Artículo cargado para su lectura. ' + (secciones ? plural(secciones, 'sección', 'secciones') + '. ' : '') +
+        'Licencia ' + licencia.nombre + '.' + (contexto.sinDescripcion ? ' ' + plural(contexto.sinDescripcion, 'figura no tiene', 'figuras no tienen') + ' descripción en la revista.' : ''),
+      contenido: el('article', { clase: 'lectura-vista' },
+        encabezado(articulo.titulo, articulo.idioma_titulo),
+        atribucion,
+        indice,
+        cuerpo,
+        final)
+    };
   }
 
   function vistaNumero(datos, numero) {
@@ -553,13 +914,24 @@
     }
     anadir(contenido, el('p', { clase: 'texto-suave' }, 'Fuente de los datos: ' + (numero.fuente || 'Crossref') + '.'));
 
+    // Si se vuelve de leer un artículo de este número, se recupera la posición
+    // y el foco va al enlace de ese artículo.
+    var retorno = estado.retorno && estado.retorno.ruta === location.hash ? estado.retorno : null;
+    estado.retorno = null;
+    var legibles = articulos.filter(function (a) { return a.texto_completo; }).length;
+    var vuelta = retorno ? contenido.querySelector('#' + CSS.escape('leer-' + retorno.articulo)) : null;
+
     return {
+      foco: vuelta,
+      posicion: vuelta ? retorno.posicion : 0,
       titulo: numero.etiqueta + ' · ' + revista.titulo,
       migas: [
         { texto: revista.titulo, idioma: revista.idioma_titulo, href: ruta('revista', revista.id) },
         { texto: numero.etiqueta, href: ruta('revista', revista.id, 'numero', numero.id) }
       ],
-      anuncio: 'Índice del número cargado. ' + (articulos.length ? plural(articulos.length, 'artículo', 'artículos') + '.' : 'No tiene artículos registrados.'),
+      anuncio: vuelta ? 'Has vuelto al índice del número, en el artículo que estabas leyendo.'
+        : 'Índice del número cargado. ' + (articulos.length ? plural(articulos.length, 'artículo', 'artículos') + '.' : 'No tiene artículos registrados.') +
+          (legibles ? ' ' + (legibles === 1 ? 'Uno se puede leer completo en esta aplicación.' : legibles + ' se pueden leer completos en esta aplicación.') : ''),
       contenido: contenido
     };
   }
@@ -585,6 +957,19 @@
       error = new ErrorDatos('datos', 'Se ha producido un error inesperado al preparar la página.');
       if (window.console) window.console.error(error);
     }
+    if (error.tipo === 'no-encontrado' && error.detalle === 'articulo') {
+      return {
+        titulo: 'Este artículo no se puede leer en la aplicación',
+        anuncio: 'Este artículo no se puede leer en la aplicación.',
+        contenido: el('div', null,
+          encabezado('Este artículo no se puede leer en la aplicación'),
+          el('div', { clase: 'estado' },
+            el('p', null, 'No hay texto completo de este artículo en la aplicación. Solo se incluyen los artículos cuya licencia lo permite y de los que la revista publica una versión en HTML o XML. Puedes consultarlo en el índice del número, que enlaza al original.'),
+            el('p', { clase: 'acciones' },
+              el('a', { href: ruta('revista', destino.id, 'numero', destino.numero), clase: 'boton' }, 'Ir al índice del número'),
+              volverAlListado())))
+      };
+    }
     if (error.tipo === 'no-encontrado' && (error.detalle === 'revista' || error.detalle === 'numero')) {
       var esNumero = error.detalle === 'numero';
       var titulo = esNumero ? 'No hemos encontrado este número' : 'No hemos encontrado esta revista';
@@ -604,7 +989,12 @@
       };
     }
 
-    var reintentar = el('button', { type: 'button', clase: 'boton', onClick: mostrar }, 'Reintentar');
+    // Se vacía la memoria de datos: un archivo que llegó con formato incorrecto
+    // también se vuelve a pedir, no solo los que fallaron por la red.
+    var reintentar = el('button', { type: 'button', clase: 'boton', onClick: function () {
+      estado.cache = {};
+      mostrar();
+    } }, 'Reintentar');
     return {
       titulo: 'Error al cargar los datos',
       anuncio: 'Error: no se han podido cargar los datos.',
@@ -615,7 +1005,9 @@
           el('p', null, el('strong', null, 'Qué puedes hacer: '),
             error.tipo === 'red'
               ? 'comprueba tu conexión a internet y pulsa «Reintentar». Si el problema continúa, vuelve a intentarlo más tarde.'
-              : 'pulsa «Reintentar». Si el problema continúa, los datos pueden estar actualizándose; vuelve a intentarlo dentro de unos minutos.'),
+              : error.tipo === 'navegador'
+                ? 'actualiza el navegador. En iPhone y Mac hace falta Safari 16.4 o posterior; en otros sistemas, una versión reciente de Chrome, Edge o Firefox. También puedes leer el artículo en la web de la revista desde el índice del número.'
+                : 'pulsa «Reintentar». Si el problema continúa, los datos pueden estar actualizándose; vuelve a intentarlo dentro de unos minutos.'),
           el('p', { clase: 'acciones' }, reintentar, destino.vista !== 'listado' ? volverAlListado() : null)))
     };
   }
@@ -660,10 +1052,47 @@
     });
   }
 
+  /* Tema de colores */
+
+  function iniciarTema() {
+    var selector = document.getElementById('tema');
+    var guardado = '';
+    try { guardado = window.localStorage.getItem(CLAVE_TEMA) || ''; } catch (e) { /* sin almacenamiento */ }
+    if (!Object.prototype.hasOwnProperty.call(TEMAS, guardado)) guardado = '';
+    function aplicar(tema) {
+      if (tema) document.documentElement.setAttribute('data-tema', tema);
+      else document.documentElement.removeAttribute('data-tema');
+    }
+    aplicar(guardado);
+    selector.value = guardado;
+    selector.addEventListener('change', function () {
+      aplicar(selector.value);
+      try { window.localStorage.setItem(CLAVE_TEMA, selector.value); } catch (e) { /* sin almacenamiento */ }
+      anunciar('Tema de colores: ' + TEMAS[selector.value] + '.');
+    });
+  }
+
+  // Los enlaces a notas, referencias y secciones del artículo mueven el foco
+  // sin cambiar la dirección, para no salir de la vista de lectura.
+  function seguirEnlaceInterno(evento) {
+    var enlace = evento.target.closest && evento.target.closest('a[href^="#t-"]');
+    if (!enlace || evento.defaultPrevented || evento.button > 0 || evento.metaKey || evento.ctrlKey || evento.shiftKey) return;
+    var destino = document.getElementById(enlace.getAttribute('href').slice(1));
+    if (!destino) return;
+    evento.preventDefault();
+    if (destino.getAttribute('tabindex') === null && !/^(A|BUTTON|INPUT|SELECT|TEXTAREA)$/.test(destino.tagName)) {
+      destino.setAttribute('tabindex', '-1');
+    }
+    destino.focus({ preventScroll: true });
+    destino.scrollIntoView({ block: 'start', behavior: window.matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth' });
+  }
+
   /* Inicio */
 
   function iniciar() {
     iniciarTamano();
+    iniciarTema();
+    principal.addEventListener('click', seguirEnlaceInterno);
 
     // El enlace de salto mueve el foco sin cambiar la dirección, para no
     // romper la ruta actual ni el historial.
@@ -680,7 +1109,11 @@
       anadir(enlace, el('span', { clase: 'enlace-externo__aviso' }, ' ' + AVISO_EXTERNO));
     });
 
-    window.addEventListener('hashchange', mostrar);
+    window.addEventListener('hashchange', function () {
+      // Un ancla del texto (#t-...) abierta desde fuera no es una vista.
+      if (/^#t-/.test(location.hash)) return;
+      mostrar();
+    });
     mostrar();
   }
 

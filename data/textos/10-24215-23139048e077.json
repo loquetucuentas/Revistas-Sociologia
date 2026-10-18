@@ -1,0 +1,3306 @@
+{
+ "version": 1,
+ "recogido": "2026-10-18T11:47:38+00:00",
+ "doi": "10.24215/23139048e077",
+ "titulo": "¿La nueva era de los chatbots? Apuntes acerca de las determinaciones ideológicas y discursivas del caso «Boti» en la Ciudad de Buenos Aires",
+ "revista": "2313-9048",
+ "numero": "v17-n17-2023",
+ "licencia": {
+  "codigo": "by-nc-sa",
+  "nombre": "CC BY-NC-SA 4.0",
+  "nombre_completo": "Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional",
+  "url": "https://creativecommons.org/licenses/by-nc-sa/4.0",
+  "url_legal": "https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.es"
+ },
+ "fuente": {
+  "url": "https://perio.unlp.edu.ar/ojs/index.php/cps/article/download/7848/6989/33694?inline=1",
+  "formato": "HTML",
+  "plataforma": "ojs-galerada",
+  "pagina": "https://perio.unlp.edu.ar/ojs/index.php/cps/article/view/7848"
+ },
+ "autores_cita": [
+  {
+   "apellidos": "Caputo",
+   "nombre_pila": "Mariano",
+   "nombre": null
+  }
+ ],
+ "avisos_derechos": [
+  "Derechos de autor 2023 Cuadernos de H ideas",
+  "Licencia Derechos de autor 2023 Cuadernos de H ideas Esta obra está bajo una licencia internacional Creative Commons Atribución-NoComercial-CompartirIgual 4.0. La aceptación de un original por parte de la revista implica la cesión no exclusiva de los derechos patrimoniales de los/as autores/as en favor del editor, quien permite la reutilización, luego de su edición (postprint), bajo una Licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0) Acorde a estos términos, el material se puede compartir (copiar y redistribuir en cualquier medio o formato) y adaptar (remezclar, transformar y crear a partir del material otra obra), siempre que a) se cite la autoría y la fuente original de su publicación (revista y URL de la obra), b) no se use para fines comerciales y c) se mantengan los mismos términos de la licencia. La cesión de derechos no exclusivos implica que luego de su edición (postprint) en Cuadernos de H ideas las/os autoras/es pueden publicar su trabajo en cualquier idioma, medio y formato; en tales casos, se solicita que se consigne que el material fue publicado originalmente en esta revista. Tal cesión supone, también, la autorización de los/as autores/as para que el trabajo sea cosechado por SEDICI, el repositorio institucional de la Universidad Nacional de La Plata, y sea difundido en las bases de datos que el equipo editorial considere adecuadas para incrementar la visibilidad de la publicación y de sus autores/as. Asimismo, la revista incentiva a las/os autoras/es para que luego de su publicación en Cuadernos de H ideas depositen sus producciones en otros repositorios institucionales y temáticos, bajo el principio de que ofrecer a la sociedad la producción científica y académica sin restricciones contribuye a un mayor intercambio del conocimiento global."
+ ],
+ "idioma_principal": "es",
+ "indice": [],
+ "vueltas": {},
+ "contenido": [
+  [
+   "span",
+   {
+    "id": "t-MathJax_Message"
+   }
+  ],
+  "\n",
+  [
+   "span",
+   {
+    "id": "t-visor-cabecera"
+   },
+   "\n",
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-logo-institucion"
+    },
+    "\n",
+    [
+     "figura",
+     {}
+    ]
+   ],
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-logo-revista"
+    },
+    "\n",
+    [
+     "figura",
+     {}
+    ]
+   ],
+   "\n",
+   "\n"
+  ],
+  "\n",
+  [
+   "span",
+   {
+    "id": "t-articulo"
+   },
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-front"
+    },
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-articulo-categoria"
+     },
+     "\n",
+     [
+      "p",
+      {},
+      "Artículos"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-articulo-meta"
+     },
+     "\n",
+     [
+      "p",
+      {},
+      "¿La nueva era de los chatbots? Apuntes acerca de las determinaciones ideológicas y discursivas del caso «Boti» en la Ciudad de Buenos Aires"
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "lang": "en"
+      },
+      "The New Era of Chatbots? Notes about the Ideological and\nDiscursive Determinations of the «Boti» Case in the City Of\nBuenos Aires"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-articulo-acerca"
+     },
+     "\n",
+     [
+      "span",
+      {
+       "id": "t-ficha-general"
+      },
+      "\n",
+      [
+       "span",
+       {
+        "id": "t-autores-articulo"
+       },
+       "\n",
+       "\n",
+       "\n",
+       [
+        "a",
+        {
+         "href": "https://orcid.org/0000-0002-6277-527X"
+        },
+        [
+         "figura",
+         {}
+        ]
+       ],
+       "  ",
+       [
+        "span",
+        {},
+        "Mariano"
+       ],
+       " ",
+       [
+        "span",
+        {},
+        "Caputo"
+       ],
+       " ",
+       [
+        "span",
+        {}
+       ],
+       [
+        "span",
+        {},
+        " marianojcaputo@gmail.com.ar"
+       ],
+       "\n",
+       "\n",
+       "\n",
+       [
+        "span",
+        {},
+        "Universidad de Buenos Aires"
+       ],
+       ", ",
+       [
+        "span",
+        {},
+        "Argentina"
+       ],
+       "\n",
+       "\n",
+       "\n"
+      ],
+      "\n",
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "Cuadernos de H ideas"
+       ],
+       "\n"
+      ],
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "Universidad Nacional de La Plata, Argentina"
+       ],
+       "\n"
+      ],
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "ISSN: "
+       ],
+       "2313-9048"
+      ],
+      "\n",
+      [
+       "p",
+       {}
+      ],
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "Periodicidad: "
+       ],
+       "Frecuencia continua"
+      ],
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "vol.  17, "
+       ],
+       "núm.  17, ",
+       [
+        "span",
+        {
+         "id": "t-elocation-id"
+        },
+        "e077, "
+       ],
+       [
+        "span",
+        {},
+        "2023"
+       ],
+       "\n"
+      ],
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       "cuadernosdehideas@perio.unlp.edu.ar",
+       "\n"
+      ],
+      "\n",
+      "\n",
+      [
+       "span",
+       {
+        "id": "t-articulo-product"
+       }
+      ],
+      "\n",
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "Recepción: "
+       ],
+       " 19 Octubre  2022"
+      ],
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "Aprobación: "
+       ],
+       " 02 Febrero  2023"
+      ],
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "Publicación: "
+       ],
+       " 26 Junio  2023"
+      ],
+      "\n",
+      [
+       "br",
+       {}
+      ],
+      "\n",
+      [
+       "br",
+       {}
+      ],
+      "\n",
+      "\n",
+      "\n",
+      [
+       "span",
+       {},
+       "URL: "
+      ],
+      [
+       "a",
+       {
+        "href": "http://portal.amelica.org/ameli/journal/31/313799006/"
+       },
+       "http://portal.amelica.org/ameli/journal/31/313799006/"
+      ],
+      "\n",
+      "\n",
+      "\n",
+      [
+       "span",
+       {},
+       "DOI: "
+      ],
+      [
+       "a",
+       {
+        "href": "https://doi.org/10.24215/23139048e077"
+       },
+       "https://doi.org/10.24215/23139048e077"
+      ],
+      "\n",
+      "\n",
+      "\n",
+      [
+       "p",
+       {}
+      ],
+      "\n",
+      "\n",
+      "\n",
+      "\n",
+      [
+       "a",
+       {
+        "href": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+       },
+       [
+        "figura",
+        {}
+       ],
+       [
+        "br",
+        {}
+       ],
+       "\n"
+      ],
+      "Esta obra está bajo una ",
+      [
+       "a",
+       {
+        "href": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+       },
+       "Licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional."
+      ],
+      "\n",
+      "\n",
+      "\n",
+      [
+       "p",
+       {}
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "\n",
+      [
+       "span",
+       {},
+       "Resumen:\n\t\t\t\t\t\t\t                           "
+      ],
+      [
+       "span",
+       {},
+       "El artículo enfoca en el caso «Boti», el chatbot de WhatsApp del Gobierno de la Ciudad Autónoma de Buenos Aires lanzado en febrero de 2019. Desde una perspectiva comunicacional que reúne los aportes del análisis arqueológico del discurso con las categorías de ideología y sobredeterminación), nos proponemos, por un lado, definir la especificidad del chatbot en tanto forma novedosa de «atención ciudadana» y, por el otro, analizar las determinaciones ideológicas y discursivas en torno a su emergencia y reconocimiento."
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "\n",
+      [
+       "span",
+       {},
+       "Palabras clave: "
+      ],
+      "Boti, sondeo, cibernética, plataformas.\n\t\t                         "
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "lang": "en"
+      },
+      "\n",
+      [
+       "span",
+       {},
+       "Abstract:\n\t\t\t\t\t\t                           "
+      ],
+      [
+       "span",
+       {},
+       "The article focuses on the «Boti» case, the WhatsApp chatbot of the Buenos Aires City Government launched in February 2019. From a communicational perspective that brings together the contributions of the archaeological analysis of discourse with categories of ideology and overdetermination, we propose to define the specificity of the chatbot as a novel form of «citizen attention» and to analyze the ideological and discursive determinations around its emergence and recognition."
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "\n",
+      [
+       "span",
+       {},
+       "Keywords: "
+      ],
+      "Boti, probing, cybernetics, platforms.\n                                "
+     ],
+     "\n"
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-articulo-body"
+    },
+    "\n",
+    [
+     "p",
+     {},
+     "\n",
+     [
+      "span",
+      {},
+      "Introducción"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "«Boti» es el nombre del chatbot del Gobierno de la Ciudad Autónoma de Buenos Aires (GCABA) que funciona en WhatsApp. Su lanzamiento se produjo en febrero de 2019, cuando el sitio oficial de GCABA (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799006/html/index.html#redalyc_313799006_ref28"
+      },
+      "2019"
+     ],
+     "), en una publicación rotulada con la etiqueta «trámite», lo presentó como un «nuevo canal de atención al vecino» en el marco de una «transformación de la atención al público». Es importante retener la fecha del lanzamiento: febrero de 2019, un año antes del primer caso confirmado de Covid en Argentina. Casi tres años después, Diego Fernández (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799006/html/index.html#redalyc_313799006_ref26"
+      },
+      "7 de diciembre de 2021"
+     ],
+     "), actual Secretario de Innovación y Transformación Digital, se detuvo en el «éxito» del chatbot en un conversatorio compartido con funcionarios municipales de otras localidades de Argentina acerca de la relación entre tecnología y «gobiernos más cercanos»:"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "p",
+     {},
+     "El hecho de que le mandes un emoticón y te responda, le hagas un chiste y te responda… Esas pequeñas cosas que te humanizan [...] llaman mucho más la atención que un servicio espectacular [...] El chiste tiene decenas de miles de tweets y todo el mundo toma conocimiento de la existencia de eso gracias a los rasgos más vinculados a lo humano."
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "La cita indica un desplazamiento notorio respecto al lanzamiento. Los trámites que resuelve «Boti» quedan opacados, en el análisis del funcionario, por sus cualidades «humanas», a las que se les atribuye mayor injerencia en el reconocimiento social del chatbot en comparación con su eficacia como facilitador de servicios dirigidos al «vecino»."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "En 2020 y buena parte de 2021, entre el lanzamiento de «Boti» y las palabras de Fernández, se aplicaron en CABA las medidas de aislamiento más estrictas por la pandemia, que provocaron, en palabras de ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799006/html/index.html#redalyc_313799006_ref11"
+      },
+      "Costa (2021)"
+     ],
+     ", un «shock de virtualización» caracterizado por un «proceso vertiginoso de digitalización de la experiencia cotidiana» (p. 20). El caso «Boti» se inserta en este proceso: de alrededor de doscientas mil «conversaciones» mensuales en enero de 2020 pasó a más de cinco millones en junio de 2021, con «Resultado del test», «Vacunación» y «Turnos» como las consultas más populares, y en enero de 2022, por la ola de Omicron, alcanzó un récord de once millones."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "La decisión de «diseñar» la experiencia de vacunación desde «Boti» produjo el salto en las «conversaciones», tal como se observa debajo en el gráfico. Este incremento se dio en simultáneo a la aparición de una serie de notas que tematizaron el «humor», la «personalidad» y la «empatía» del chatbot (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799006/html/index.html#redalyc_313799006_ref27"
+      },
+      "Benegas, 2021"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799006/html/index.html#redalyc_313799006_ref29"
+      },
+      "Jamele, 2021"
+     ],
+     "; y ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799006/html/index.html#redalyc_313799006_ref41"
+      },
+      "Tomoyose, 2021"
+     ],
+     "), en línea con la «humanización» que Fernández señala como el motivo de la viralización de «Boti»."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "span",
+     {
+      "id": "t-gf1"
+     },
+     "\n",
+     [
+      "figura",
+      {
+       "alt": "Estadísticas de «Boti»."
+      }
+     ],
+     [
+      "br",
+      {}
+     ],
+     "Figura\n1",
+     [
+      "br",
+      {}
+     ],
+     "\n",
+     [
+      "span",
+      {},
+      "Estadísticas de «Boti»."
+     ],
+     "\n",
+     [
+      "br",
+      {}
+     ],
+     "\n",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Fuente: Secretaría de Innovación y Transformación Digital (",
+       [
+        "a",
+        {
+         "href": "http://portal.amelica.org/ameli/journal/31/313799006/html/index.html#redalyc_313799006_ref40"
+        },
+        "2022"
+       ],
+       ", p. 21)"
+      ]
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Ahora bien, ¿por qué detenerse en un chatbot gubernamental? En «Boti» y en las interpretaciones en torno a su «éxito» se identifican series discursivas y aspectos dominantes de la coyuntura relacionados con las funciones llamadas a cumplir por las plataformas cuando se las orienta a brindar «servicios ciudadanos»."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Por un lado, el diseño del chatbot implica una cristalización de ciertos ideales cibernéticos en el desarrollo de «soluciones de gobierno». Nos referimos a dos tendencias señaladas por ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799006/html/index.html#redalyc_313799006_ref25"
+      },
+      "Tiqqun (2015)"
+     ],
+     ": la imitación de lo viviente en máquinas y el deseo cibernético de orden y certidumbre, que se manifiesta en este caso en la pretensión de coordinar los flujos de información que circulan en la ciudad, accesibles gracias a la interacción entre «Boti» y los «vecinos». Por otro lado, el «éxito» de «Boti» se ve acompañado, en la perspectiva de sus desarrolladores, por la consolidación de una figura de «ciudadano-usuario-vecino» que resuelve sus quehaceres cotidianos desde el celular y cuya característica distintiva es el deseo de ahorrar tiempo. Solicitar una pizza por PedidosYa y acceder a un servicio gubernamental desde «Boti» son acciones que integran un mismo y deseable continuo caracterizado por la conectividad, la comodidad y la disponibilidad permanente. «Boti», en este sentido, encuentra su lugar en la función más general del ",
+     [
+      "span",
+      {},
+      "smartphone"
+     ],
+     " como instrumento de asistencia personalizable que «enriquece» la cotidianeidad (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799006/html/index.html#redalyc_313799006_ref21"
+      },
+      "Sadin, 2018"
+     ],
+     ")."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Debemos señalar otro motivo que torna de interés el caso. «Boti» no constituye una mera digitalización y plataformización de la «atención al público». Tampoco se trata exclusivamente de una puesta a disposición de los contenidos de las áreas de gobierno y su traducción al «lenguaje conversacional» que caracterizaría a WhatsApp. Si bien ambos procesos tienen lugar en «Boti», el chatbot posee una especificidad propia que coloca la «atención ciudadana» en otro plano. El doble funcionamiento de «Boti» como facilitador de «servicios ciudadanos» y detector de la «demanda insatisfecha» conduce, como veremos, a un mapeo automatizado y casi en «tiempo real» de los intereses del «vecino», algo imposible de lograr mediante el análisis de lo que ocurre en los calls centers o en los mostradores gubernamentales. Interacción, procesamiento, memoria, análisis y aprendizaje se dan casi en sincronía para incorporar, en el menor tiempo posible, los contenidos ausentes en la oferta del chatbot que se identifican como «demandados» por el «vecino». Y este proceso de sondeo (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799006/html/index.html#redalyc_313799006_ref7"
+      },
+      "Caletti, 2016"
+     ],
+     ") tiene lugar en WhatsApp, una de las plataformas de Meta –antes Facebook–, empresa que controla una porción del tráfico de Internet a escala global."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "En el artículo nos proponemos, por un lado, definir la especificidad del chatbot en tanto forma novedosa de «atención ciudadana» y, por el otro, analizar las determinaciones ideológicas y discursivas en torno a su emergencia y reconocimiento, con especial atención al quiebre que supuso la pandemia en su popularidad."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "«Boti» no quedará explicado como la mera «invención» de diseñadores, programadores y publicistas que se proponen «mejorar» y «simplificar» la vida del ciudadano. En la centralidad que adquiere el chatbot como forma de «atención ciudadana» intervienen formaciones discursivas con una historicidad propia. En primer lugar, como se verá en el apartado acerca de la «humanización comunicacional», las formaciones discursivas del sistema y la comunicación, cuyas características ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799006/html/index.html#redalyc_313799006_ref19"
+      },
+      "Rodríguez (2019)"
+     ],
+     " define en el marco de la dispersión de la interpretación cibernético-sistémica en una variedad de disciplinas científicas y seudocientíficas",
+     [
+      "sup",
+      {},
+      [
+       "a",
+       {
+        "href": "http://portal.amelica.org/ameli/journal/31/313799006/html/index.html#fn1"
+       },
+       [
+        "sup",
+        {},
+        "1"
+       ]
+      ]
+     ],
+     ". En segundo lugar, ciertos enunciados se inscriben en el «discurso de la nueva gestión urbana» que otorga relevancia a la figura del «vecino», cuyos rasgos delimitan al «habitante medio» de la ciudad y lo constituyen en el «interlocutor legítimo» del GCABA (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799006/html/index.html#redalyc_313799006_ref14"
+      },
+      "Hernández, 2014"
+     ],
+     "). Por último, en torno a «Boti» reaparece una premisa de la serie discursiva de la «democracia electrónica» (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799006/html/index.html#redalyc_313799006_ref6"
+      },
+      "Caletti, s.f."
+     ],
+     ") que consiste en que la sociedad estaría atravesando una transformación integral por su ingreso en la «era digital». Esta premisa, como se analizará en el apartado final, sostiene la concepción de un «ciudadano conectado» o «poscovid» que se constituye como la contraparte a ser atendida por el chatbot."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "El corpus analizado se compone de un conjunto de enunciados al que podemos dividir en tres. Primero, cuarenta notas periodísticas que tematizan algún aspecto de «Boti». Segundo, diez intervenciones públicas que involucran a funcionarios o profesionales que trabajaron en el diseño del chatbot. Por último, un documento oficial de la Secretaría de Innovación y Transformación Digital (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799006/html/index.html#redalyc_313799006_ref40"
+      },
+      "2022"
+     ],
+     ") que presenta a «Boti» y define sus características principales, a la manera de un dossier ejecutivo. El periodo temporal de estos enunciados abarca desde febrero de 2019 hasta la actualidad."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "El análisis empieza con un apartado acerca de la «personalidad» del chatbot. Luego se aborda la «detección de la demanda insatisfecha», una funcionalidad que explicaremos a partir del entrelazamiento del discurso cibernético con el instituto de sondeo (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799006/html/index.html#redalyc_313799006_ref5"
+      },
+      "Caletti, 2006"
+     ],
+     "). El anteúltimo apartado se enfoca en la relación entre las ideas de eficiencia y productividad y el desplazamiento de los trabajadores de call centers y oficinas públicas en favor de «Boti». Para finalizar, se indaga en la concepción de ciudadanía que emerge en los enunciados y cristaliza supuestos ideológicos acerca del «ciudadano-usuario-vecino» que se encuentra del otro lado de la pantalla. Pero antes de empezar con el análisis presentaremos los lineamientos teóricos y metodológicos del trabajo."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Una perspectiva comunicacional:\narqueología del discurso, ideología y sobredeterminación"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Si bien el artículo constituye un acercamiento exploratorio al caso «Boti», en trabajos previos (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799006/html/index.html#redalyc_313799006_ref8"
+      },
+      "Caputo, 2020"
+     ],
+     ", ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799006/html/index.html#redalyc_313799006_ref9"
+      },
+      "2021a"
+     ],
+     " y ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799006/html/index.html#redalyc_313799006_ref10"
+      },
+      "2021b"
+     ],
+     ") hemos analizado una serie de plataformas digitales de «participación ciudadana» entre las que resalta BA Elige, desarrollada por el GCABA y que contó con tres ediciones entre 2017 y 2019. En este artículo se problematizan algunas conclusiones de dichos trabajos y a su vez se pretende definir la novedad que aporta «Boti»."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "En los trabajos previos hemos definido nuestro abordaje, por lo que retomaremos los lineamientos allí planteados. La investigación parte de una perspectiva comunicacional que entrelaza la arqueología del discurso foucaultiana con las nociones althusserianas de ideología y sobredeterminación. La perspectiva arqueológica de análisis del discurso «quiere determinar el principio según el cual han podido aparecer los únicos conjuntos significantes que han sido enunciados. Trata de establecer una ley de rareza» (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799006/html/index.html#redalyc_313799006_ref12"
+      },
+      "Foucault, 2015"
+     ],
+     ", p. 156) que reposa en el principio de que jamás se ha dicho todo. Como no todo puede ser dicho en una coyuntura, aquí la pregunta pertinente es cómo y por qué lo que fue dicho pudo ser dicho. La arqueología se propone definir unidades, conjuntos, series y relaciones en los enunciados sin remitirlos a una fuente de sentido o un origen externos a los propios materiales discursivos. La arqueología cuestiona esas unidades preexistentes a los propios enunciados y se centra en las discontinuidades, en la irrupción histórica del enunciado como acontecimiento. El análisis trata de producir nuevas unidades que resultan de la indagación de materiales discursivos en el archivo, entendido como «el conjunto de los discursos efectivamente dichos/pronunciados que persisten en el tiempo» (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799006/html/index.html#redalyc_313799006_ref1"
+      },
+      "Aguilar ",
+      [
+       "span",
+       {},
+       "et al"
+      ],
+      ", 2014"
+     ],
+     ", p. 37)."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Las prácticas discursivas no se encuentran aisladas de los procesos y formas sociales dominantes que distinguen a la coyuntura histórica. La sobredeterminación, el concepto con que ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799006/html/index.html#redalyc_313799006_ref2"
+      },
+      "Althusser (1967)"
+     ],
+     " define la especificidad de la contradicción en Marx, nos permite vincular a «Boti» y los materiales discursivos con la complejidad histórica de lo social. Althusser se refiere con sobredeterminación a la relación que se establece en una misma formación social entre distintas instancias, cada una de las cuales comporta sus propias contradicciones. Toda coyuntura histórica se encuentra siempre sobredeterminada, especificada por prácticas diversas que actúan con su propia eficacia, pero articuladas. Las instancias de la vida social, incluida la discursiva, son determinantes y determinadas en un mismo movimiento por cada uno de los diversos niveles de la formación social."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "En los enunciados se constatan, entonces, efectos de aspectos dominantes de la coyuntura. En primer lugar, el proceso de neoliberalización en curso de la ciudad que se traduce en formas ideológicas, discursivas y subjetivas (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799006/html/index.html#redalyc_313799006_ref13"
+      },
+      "Hernández ",
+      [
+       "span",
+       {},
+       "et al"
+      ],
+      ", 2021"
+     ],
+     "). ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799006/html/index.html#redalyc_313799006_ref15"
+      },
+      "Laval y Dardot (2015)"
+     ],
+     " advierten sobre la normatividad práctica que distingue al neoliberalismo como productor de relaciones sociales que extienden la lógica mercantil más allá de las fronteras del mercado, una idea que recuperaremos en el apartado acerca del «ciudadano conectado» que desea «ahorrar» e «invertir» su tiempo."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "En segundo lugar, el análisis se detendrá en ciertas tendencias despolitizadoras propias del instituto de sondeo. ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799006/html/index.html#redalyc_313799006_ref7"
+      },
+      "Caletti (2016)"
+     ],
+     " afirma que en las democracias contemporáneas la confrontación que constituye a la política se reemplaza por una interlocución con arreglo a fines, prototípica del hurgar técnico del sondeo de opinión que cancela el decir político, el de un litigio por la representación de lo común. El instituto del sondeo, desde su perspectiva, radicaliza la ilusión de la representación de la voluntad popular mediante una «opinión pública» que se asimila a los pareceres de una muestra de ciudadanos estadísticamente representativa. La definición dominante de la palabra «política» acompaña esta mutación del decir. Los términos «ingeniería política», «gestión» y «administración» indican la ocupación del espacio que solía ser propio de la política por estrategias de gestión de las que se encargan expertos. La consolidación del sondeo se ve acompañada por una concepción procedimental de la democracia, a la que se define fundamentalmente «por los procedimientos con los que compiten de modo regular las élites por el favor o la adhesión de los ciudadanos» (p. 17)."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "En tercer lugar, la fascinación por «Boti» se explica en parte por la eficacia ideológica de ideas vinculadas con Silicon Valley. En las múltiples mejoras que se atribuyen al chatbot sobrevuela la «visión de mundo siliconiana» (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799006/html/index.html#redalyc_313799006_ref22"
+      },
+      "Sadin, 2021"
+     ],
+     ") que se afirma en el avance de la digitalización como vector del perfeccionamiento de las condiciones de vida. Esta evidencia ideológica tiene como correlato la dependencia de WhatsApp para el funcionamiento de «Boti», una característica que confirma la idea de ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799006/html/index.html#redalyc_313799006_ref23"
+      },
+      "Srnicek (2018)"
+     ],
+     " respecto a la posición de privilegio y la ventaja competitiva de estas empresas en tanto proporcionan la «infraestructura» para la interacción entre usuarios, lo que permite registrar sus datos."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Hasta qué punto el emprendedurismo tecnológico permea el desarrollo del chatbot lo indica la fundación de Bleett, una empresa de exfuncionarios que se propone facturar cincuenta millones de pesos con «Boti» como caso de «éxito»: «La inversión inicial, aseguran, fue cercana a cero. Solo se necesitó del talento y cuatro computadoras» (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799006/html/index.html#redalyc_313799006_ref37"
+      },
+      "Quesada, 2021"
+     ],
+     "). El desarrollo de «Boti» requirió una inversión de al menos cuarenta millones de pesos en contrataciones directas a Botmaker (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799006/html/index.html#redalyc_313799006_ref38"
+      },
+      "Revista Qué, 2019"
+     ],
+     " y ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799006/html/index.html#redalyc_313799006_ref39"
+      },
+      "2020"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799006/html/index.html#redalyc_313799006_ref36"
+      },
+      "Pura Ciudad, 2021"
+     ],
+     "), empresa del rubro de los chatbots que factura decenas de millones de dólares al año (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799006/html/index.html#redalyc_313799006_ref30"
+      },
+      "Jamele, 2022"
+     ],
+     ")."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "A pesar de estas cifras, se destacan el «talento» y las «cuatro computadoras» como los factores que explican el éxito de Bleett y «Boti», lo que nos permite acercarnos a la figura del «trabajador cognitivo». Berardi (2020) destaca la identificación entre el trabajo y la creación de empresa que se produce en los trabajadores del sector informático, a punto tal de que la empresa se convierte en el objeto de una inversión de deseo. En el artículo retomaremos el planteo de Berardi para reflexionar acerca de la relación que emerge en los enunciados entre IA, «eficiencia» y «productividad»."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "La articulación entre arqueología, sobredeterminación e ideología permite acercarse al caso «Boti» sin caer en un fetichismo tecnológico (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799006/html/index.html#redalyc_313799006_ref6"
+      },
+      "Caletti, s.f."
+     ],
+     ") que olvida la espesura de las relaciones sociales al otorgarle una función determinante a los avances técnicos. La tecnología, como sostiene Caletti (ídem), condensa las formas y relaciones sociales dominantes y sus éxitos se asientan en su capacidad para «‘materializar’ –y por cierto extender, a favor de ciertos agentes y estrategias– tendencias sin embargo definidas en el seno de la propia vida social, en la práctica de sus luchas e, incluso, de sus configuraciones imaginarias» (p. 60). Esta capacidad se puede vincular con la función práctico-social que distingue a la ideología, en tanto expresa la relación imaginaria de los sujetos con sus condiciones materiales de existencia (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799006/html/index.html#redalyc_313799006_ref2"
+      },
+      "Althusser, 1967"
+     ],
+     "), una relación analizable en las evidencias ideológicas y figuras subjetivas que se identifican en los enunciados. Respecto a esto último, la tesis de ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799006/html/index.html#redalyc_313799006_ref3"
+      },
+      "Althusser (1970)"
+     ],
+     " es que la función que define a la ideología es interpelar a los individuos como sujetos, a través de un doble mecanismo de reconocimiento (de las evidencias de las prácticas cotidianas que garantizan al sujeto que es único) y desconocimiento (del funcionamiento de la ideología que constituye sujetos que son siempre ya sujetos)."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "La humanización comunicacional como\nclave del reconocimiento social"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "En la introducción dijimos que el diseño de «Boti» cristaliza ideales cibernéticos, entre ellos la tendencia a imitar lo viviente en máquinas. Una de las claves del «éxito» del chatbot, según sus desarrolladores, está en la «personalidad», cuya construcción es comunicacional:"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "p",
+     {},
+     "La creación de una personalidad es lo que permite dotar a los bots de valores, lenguaje, tono y estilo, lo que los hace mucho más cercanos. De esta manera, generan una conexión emocional y personalizada a través de las conversaciones, característica que los acerca al objetivo de convertirse en el canal de comunicación favorito de los usuarios (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799006/html/index.html#redalyc_313799006_ref40"
+      },
+      "Secretaría de Innovación y Transformación Digital, 2022"
+     ],
+     ")"
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "«Lenguaje», «valores», «tono» y «estilo» están en función de que «Boti» se exprese con «una sola voz» para «que quien hable sea siempre el bot, y no el editor detrás de su contenido» (Ídem). Para lograr la coherencia en la «voz», el GCABA se propuso construir un «bot persona» a disposición del «vecino» que tuviera una «identidad» propia, diferente a la de otros bots, y que se reflejara en una guía de escritura. A partir del «tono de comunicación» del GCABA, se eligieron «atributos de personalidad» que quedaron asociados a personajes que representaran «lo que el equipo tenía en mente»: un chatbot «honesto» como el Dalai Lama; «didáctico» como Merlí, el personaje de la serie de Netflix; «resolutivo» como Marie Kondo; y «servicial» como Alfred, el mayordomo de Batman."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "En la creación de la «personalidad» de «Boti» se pone en juego una idea de comunicación eminentemente instrumental. El diseño del «tono» y del «estilo» que resultan en la «identidad» de «Boti» implica, como señala ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799006/html/index.html#redalyc_313799006_ref7"
+      },
+      "Caletti (2016)"
+     ],
+     " acerca del ",
+     [
+      "span",
+      {},
+      "marketing"
+     ],
+     ", una concepción estratégica de la comunicación, en tanto se materializa en operaciones eficientes que sirven a un fin determinado, en este caso construir un chatbot «empático»."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "A la empatía se le atribuye una función determinante en la construcción del «vínculo de cercanía con el usuario», tal como remarca ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799006/html/index.html#redalyc_313799006_ref27"
+      },
+      "Benegas (2021)"
+     ],
+     ", exsecretario de Innovación y Transformación Digital y socio de Bleett: «si la empatía es la característica humana para conectar personas, las soluciones tecnológicas exitosas requieren necesariamente de esa característica». Las funciones de responder chistes, ofrecer adivinanzas y reaccionar a emojis son consideradas estratégicas para la «empatía» del chatbot y la «comodidad» del «usuario»."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "La definición de los atributos de personalidad tiene como objetivo que el «diálogo» se asemeje a una «experiencia humana», lo que justifica la necesidad de mantener una «identidad» en la variedad temática de las «conversaciones». El diseño de la «personalidad» de «Boti» obedece a una definición previa de lo que sería propio de «lo humano». Por un lado, la «empatía que conecta personas», pero fundamentalmente el «diálogo» como forma de comunicación humana por excelencia:"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "p",
+     {},
+     "El diálogo es la forma más habitual en la que se comunican las personas y el mayor diferencial de la especie humana. Suele ser inmediato, con mensajes de ida y vuelta en tiempo real, por lo tanto la velocidad de circulación de información es alta y constante (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799006/html/index.html#redalyc_313799006_ref40"
+      },
+      "Secretaría de Innovación y Transformación Digital, 2022"
+     ],
+     ")"
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Los términos para definir el «diálogo» indican la preeminencia de la interpretación cibernético-sistémica (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799006/html/index.html#redalyc_313799006_ref19"
+      },
+      "Rodríguez, 2019"
+     ],
+     ") en la definición de lo humano comunicacional. Por un lado, lo que hay en el diálogo son «mensajes de ida y vuelta» caracterizados por su sincronía e inmediatez: dialogar es lo que hacemos todos los días en WhatsApp. Por el otro, lo que circula en el diálogo son ",
+     [
+      "span",
+      {},
+      "inputs"
+     ],
+     " y ",
+     [
+      "span",
+      {},
+      "outputs"
+     ],
+     ", «información»; el sentido queda en un segundo plano y prevalece la idea de «mensaje»."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Esta concepción de «diálogo» y el análisis del funcionamiento del chatbot nos permiten establecer regularidades con concepciones que se reiteran en las formaciones discursivas del sistema y de la comunicación (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799006/html/index.html#redalyc_313799006_ref19"
+      },
+      "Rodríguez, 2019"
+     ],
+     "). En primer lugar, «Boti» aparece como un sistema dotado de dispositivos de entrada y de salida que sirven al procesamiento de mensajes que contienen información. Para responder a los mensajes, el chatbot debe procesarlos e interpretarlos en función de las palabras clave que han sido asociadas a ciertos contenidos: ejerce una selectividad y ofrece su respuesta, el mensaje de salida. Así, por ejemplo, ante el mensaje «Perros» responderá «Creo que te referís a mascotas» y ofrecerá un menú que incluye, entre otras opciones, «Caniles», «Adopción», «Veterinarias gratis» y «Mascotas a castrar». En segundo lugar, la primacía del «diálogo» indica la relevancia otorgada a la interacción como fenómeno comunicacional, lo que implica una mirada microscópica de lo social. La concepción de «Boti» como un sistema de interacción que procesa y crea mensajes queda graficada en una exposición virtual de Ernesto ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799006/html/index.html#redalyc_313799006_ref33"
+      },
+      "Kern (2020)"
+     ],
+     ", ex subsecretario de Ciudad Inteligente y otro de los socios de Bleett:"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "span",
+     {
+      "id": "t-gf2"
+     },
+     "\n",
+     [
+      "figura",
+      {
+       "alt": "«Boti»: el lenguaje como circuito de feedback."
+      }
+     ],
+     [
+      "br",
+      {}
+     ],
+     "Figura\n2",
+     [
+      "br",
+      {}
+     ],
+     "\n",
+     [
+      "span",
+      {},
+      "«Boti»: el lenguaje como circuito de feedback."
+     ],
+     "\n",
+     [
+      "br",
+      {}
+     ],
+     "\n",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Fuente: Kern (",
+       [
+        "a",
+        {
+         "href": "http://portal.amelica.org/ameli/journal/31/313799006/html/index.html#redalyc_313799006_ref33"
+        },
+        "25 de junio de 2020"
+       ],
+       ")"
+      ]
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Entendimiento, creación, mensajes de ida y vuelta que circulan: estamos ante un proceso de ",
+     [
+      "span",
+      {},
+      "feedback"
+     ],
+     " que va del ciudadano a «Boti» y de «Boti» al ciudadano. Las palabras de Kern (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799006/html/index.html#redalyc_313799006_ref32"
+      },
+      "26 de septiembre de 2019"
+     ],
+     ") muestran hasta qué punto las concepciones de interacción y ",
+     [
+      "span",
+      {},
+      "feedback"
+     ],
+     " guían el desarrollo del chatbot:"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "p",
+     {},
+     "¿Cuál es el desafío que tenemos a la hora de construir un chatbot? Tenemos dos patas en este diagrama: las personas, que tenemos sentimientos, emociones, por las cuales nos queremos comunicar; y, por el otro, tenemos máquinas. Las máquinas son estructuradas: tienen intents, tienen keywords, no manejan un lenguaje natural. Entonces el desafío para comunicar estas dos patas es hacer que lo que nosotros interactuamos con el chatbot sea entendido para que el robot pueda procesar esa información. Y, por otro lado, luego de procesarla, poder devolvernos a los humanos la información en un lenguaje natural. Lo que hay que hacer es establecer comunicación entre un humano y una máquina y el desafío está en la parte lingüística, ya sea para entender como para hablar."
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "El desafío que enfrenta «Boti» es, ante todo, lingüístico. De la eficacia en la comunicación con el «vecino» depende un cúmulo de acciones que sus creadores le atribuyen la capacidad de emprender: ",
+     [
+      "span",
+      {},
+      "«Boti» entiende, interpreta, habla, reacciona, juzga, sabe, enseña, explica"
+     ],
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799006/html/index.html#fn2"
+      },
+      [
+       "sup",
+       {},
+       "2"
+      ]
+     ],
+     ". Asistimos a una desantropomorfización de la comunicación (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799006/html/index.html#redalyc_313799006_ref19"
+      },
+      "Rodríguez, 2019"
+     ],
+     ") y, en palabras de ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799006/html/index.html#redalyc_313799006_ref21"
+      },
+      "Sadin (2018)"
+     ],
+     ", a una humanización sin antropomorfismos, propia de los desarrollos de IA. Si el «diálogo», la parte «visible» de «Boti» para el «vecino», se circunscribe en su definición al intercambio de «información», lo que relega a un segundo plano al sentido, se debe a que las operaciones de interpretación del chatbot quedan a cargo del «motor de entendimiento de lenguaje natural programado con IA y Machine Learning» que hace funcionar a «Boti» y que implica cuatro tipos de procesamiento de los «mensajes»:"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "span",
+     {
+      "id": "t-gf3"
+     },
+     "\n",
+     [
+      "figura",
+      {
+       "alt": "Procesamiento de los mensajes de «Boti»."
+      }
+     ],
+     [
+      "br",
+      {}
+     ],
+     "Figura\n3",
+     [
+      "br",
+      {}
+     ],
+     "\n",
+     [
+      "span",
+      {},
+      "Procesamiento de los mensajes de «Boti»."
+     ],
+     "\n",
+     [
+      "br",
+      {}
+     ],
+     "\n",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Fuente: Secretaría de Innovación y Transformación Digital (",
+       [
+        "a",
+        {
+         "href": "http://portal.amelica.org/ameli/journal/31/313799006/html/index.html#redalyc_313799006_ref40"
+        },
+        "2022"
+       ],
+       ", p. 43)"
+      ]
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Tanto en la interfaz con el «usuario» como en los procedimientos de IA, la centralidad está puesta en el concepto de «mensaje», en el primer caso para dotarlos de cualidades comunicacionales «humanas» y en el segundo para interpretar los provenientes de la contraparte ciudadana de «Boti» y así brindar una respuesta satisfactoria. La preeminencia de las ideas de mensaje, información e interacción, además de constatar los efectos de las formaciones discursivas de la comunicación y del sistema en el diseño del chatbot, conduce a una concepción del ciudadano como generador de ",
+     [
+      "span",
+      {},
+      "inputs"
+     ],
+     ", entradas de información, a ser procesadas. A continuación veremos que cuando el procesamiento del mensaje recibido toma la dirección de los «no entendidos», según lo descripto en la imagen de arriba, pasa a integrar una estadística que sirve al análisis de la «demanda insatisfecha», lo que nos devuelve a la noción de ",
+     [
+      "span",
+      {},
+      "feedback"
+     ],
+     " y nos habilita a reflexionar acerca del funcionamiento de «Boti» en términos del instituto de sondeo (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799006/html/index.html#redalyc_313799006_ref7"
+      },
+      "Caletti, 2016"
+     ],
+     ")."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "La\nciudad sondeada: sincronización en «tiempo real» con los intereses ciudadanos \n\n "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Ya nos detuvimos en la función que cumple la comunicación instrumental propia del ",
+     [
+      "span",
+      {},
+      "marketing "
+     ],
+     "para crear la «personalidad» de «Boti». Ahora es momento de enfocarse en el otro ideal cibernético que concreta el chatbot: la coordinación de los flujos de información que circulan en la ciudad. En este apartado abordaremos lo que en la introducción mencionamos como el salto cualitativo de «Boti» en comparación con las formas tradicionales de «atención al vecino». Asistimos a un sondeo automatizado que va un paso más allá de lo que ocurre en BA Elige, un caso que también analizamos en términos del instituto de sondeo (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799006/html/index.html#redalyc_313799006_ref9"
+      },
+      "Caputo, 2021a"
+     ],
+     " y ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799006/html/index.html#redalyc_313799006_ref10"
+      },
+      "2021b"
+     ],
+     ") y que enseguida recuperaremos. "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " En cuanto a su utilidad, se le atribuye a «Boti» un diferencial en comparación con otras «soluciones digitales», la posibilidad de «mapear» la «demanda insatisfecha»:"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "p",
+     {},
+     "La demanda insatisfecha es cuando uno va a comprar un jean, lo pide en talle 40 y (el local) no tiene. La persona se va [...] y el local no transaccionó nada. Si hubiese tenido el jean, lo vendía y hacía una venta y eso lo podíamos analizar, pero como no se hizo ninguna venta y no hay ninguna transacción es muy difícil que el local se dé cuenta de que le falta un talle 40 (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799006/html/index.html#redalyc_313799006_ref32"
+      },
+      "Kern, 26 de septiembre de 2019"
+     ],
+     ")."
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " La «ventaja» de «Boti» consiste en el registro de los mensajes «no entendidos», en la transformación de las «conversaciones fallidas» en un dato útil al establecimiento de correlaciones estadísticas. Así, cuando el «vecino» consulta por un tema al que «Boti» no logra dar una respuesta adecuada, el mensaje «no entendido» se incorpora a una estadística con un ranking de los temas ausentes más solicitados en el chatbot. La etapa siguiente a la identificación de los temas ausentes es solicitar información al área de gobierno que corresponda. El «equipo de editores» convierte esa información en «material conversacional», el paso previo a cargar el contenido en la plataforma de IA para que el «vecino» pueda visualizarlo en la interacción con el chatbot. "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " La función de «mapear» la «demanda insatisfecha» es una potencialidad técnica de los chatbots, pero debemos enfatizar que el lugar destacado que se le asigna en los enunciados se explica por la centralidad conceptual de la noción de ",
+     [
+      "span",
+      {},
+      "feedback"
+     ],
+     ", tanto en la definición del «diálogo» con el «usuario» en términos de «mensajes de ida y vuelta que circulan» como por la creencia de satisfacer los «intereses» del «vecino» a partir del análisis de los mensajes «no entendidos». A esto último apunta Kern (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799006/html/index.html#redalyc_313799006_ref31"
+      },
+      "23 de julio de 2019"
+     ],
+     ") cuando señala que el «gran desafío» de «Boti» es «",
+     [
+      "span",
+      {},
+      "dar respuesta"
+     ],
+     " –la cursiva es nuestra– a una demanda tan diversa y amplia como los intereses de los vecinos»."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "La relevancia de la noción de ",
+     [
+      "span",
+      {},
+      "feedback"
+     ],
+     " en el diseño del chatbot se debe, desde nuestra perspectiva, a que constituye el punto de encuentro entre la cibernética y el instituto de sondeo",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799006/html/index.html#fn3"
+      },
+      [
+       "sup",
+       {},
+       "3"
+      ]
+     ],
+     ". Es en el marco de este cruce que señalamos que «Boti» no constituye una mera digitalización y plataformización de la «atención ciudadana». El chatbot, en su funcionamiento ideal, tiende a concretar el deseo cibernético de equilibrio, de orden, dado que permitiría la incorporación casi automática de los temas que están por fuera de la agenda gubernamental y de aquellos que los «vecinos» no logran resolver en su relación con el gobierno, centralizada en la comunicación con «Boti». De esta manera, el chatbot aparece como una instancia de «escucha» a los «vecinos», lo que permitiría al gobierno sincronizar su agenda con la del ciudadano para satisfacerlo."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "En el desarrollo de «Boti» hay un solapamiento entre las ideas de «atención al ciudadano» y «atención al cliente»",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799006/html/index.html#fn4"
+      },
+      [
+       "sup",
+       {},
+       "4"
+      ]
+     ],
+     ". El ",
+     [
+      "span",
+      {},
+      "feedback "
+     ],
+     "que se instaura con «Boti» parte de una concepción de la ciudad como «prestadora de servicios», cuya contraparte es el «ciudadano-vecino-cliente» que debe ser atendido y encontrar una respuesta satisfactoria en el menú de contenidos que ofrece el chatbot, idealmente tan vasto como la «demanda» del «vecino»."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "El amoldamiento veloz, preciso y en «tiempo real» del chatbot a los intereses ciudadanos constituye un avance notorio en la técnica del sondeo: el «vecino» participa de este dispositivo de",
+     [
+      "span",
+      {},
+      " feedback"
+     ],
+     " con tan solo escribir una palabra, un input que el funcionamiento de «Boti» transforma en dato. Y si los datos «no mienten», como señalan ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799006/html/index.html#redalyc_313799006_ref20"
+      },
+      "Rouvroy y Berns (2016)"
+     ],
+     ", «Boti» puede erigirse como una instancia de «escucha objetiva» que surge del «diálogo genuino» entre el chatbot y los «vecinos»."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Las «soluciones digitales» diseñadas por el GCABA profundizan y perfeccionan formas de sondeo. En otro trabajo argumentamos que en plataformas como BA Elige «emerge una participación como información-insumo para las decisiones gubernamentales» (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799006/html/index.html#redalyc_313799006_ref8"
+      },
+      "Caputo, 2020"
+     ],
+     "). Sostuvimos que la presentación de propuestas a ser votadas por otros «vecinos» y luego aprobadas por funcionarios concreta una demoscopia que se aparta de los canales tradicionales, debido a que los datos a aglomerar no surgen de las respuestas de una muestra conformada según criterios poblacionales, sino que los propios ciudadanos, a partir de su «voluntad», sin un formulario al que contestar, aportan la información requerida por la «gestión» para conocerlos y darles una «respuesta» en función de los intereses manifestados «libremente» en sus propuestas.  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " En BA Elige, el «vecino» decide registrarse y crear una propuesta para cuya realización deberá emprender y esforzarse en la búsqueda de apoyos de otros «vecinos». La plataforma interpela a participar al «vecino» por la posesión de un «saber de la experiencia» que resulta del habitar y transitar sus espacios de cercanía, lo que lo constituye en un sujeto supuesto saber (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799006/html/index.html#redalyc_313799006_ref9"
+      },
+      "Caputo, 2021a"
+     ],
+     "). En los enunciados de la plataforma se identifica al «vecino» como quien mejor conoce sus necesidades cotidianas, lo que justifica la creación de BA Elige para que sus ideas «se hagan realidad». "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " De esta manera, el funcionamiento de BA Elige parte de la promesa de reconocer la experiencia subjetiva del «vecino» como generadora de cambios. El mecanismo de sondeo, de ",
+     [
+      "span",
+      {},
+      "feedback"
+     ],
+     ", que se establece con «Boti» funciona de un modo distinto, lo que nos conduce a recuperar la discusión en torno al concepto de «gubernamentalidad algorítmica» de ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799006/html/index.html#redalyc_313799006_ref20"
+      },
+      "Rouvroy y Berns (2016)"
+     ],
+     ", quienes sostienen que los usos algorítmicos de la estadística y el análisis automatizado de datos que modelan, anticipan y afectan los comportamientos «no produce(n) ninguna subjetivación, sino que sortea(n) y evita(n) a los sujetos humanos reflexivos» (p. 97)."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799006/html/index.html#redalyc_313799006_ref11"
+      },
+      "Costa (2021)"
+     ],
+     " argumenta que el modelo de la gubernamentalidad algorítmica no olvida al sujeto sino que «lo interpela tal como la teoría cibernética lo ha definido hace más de setenta años: como una ‘caja negra’ de la que solo es posible conocer el ",
+     [
+      "span",
+      {},
+      "input"
+     ],
+     " y el",
+     [
+      "span",
+      {},
+      " output"
+     ],
+     "» (p. 70). La incorporación de la «demanda insatisfecha» en «Boti» funciona en el sentido señalado por Costa. No importa lo que reclama tal o cual «vecino», sino la agregación y el procesamiento de los mensajes, que quedan despojados de la subjetividad de quien escribe. La contraparte de «Boti», en cuanto a la detección de la «demanda insatisfecha», no es más que alguien que introduce ",
+     [
+      "span",
+      {},
+      "inputs"
+     ],
+     " que mejoran su desempeño."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Sin embargo, desde el punto de vista althusseriano, debemos afirmar que no estamos ante una «interpelación cibernética»: para que haya interpelación subjetiva es necesario que el sujeto sea llamado a reconocerse ideológicamente en el lugar que se le asigna (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799006/html/index.html#redalyc_313799006_ref3"
+      },
+      "Althusser, 1970"
+     ],
+     "). El ciudadano, en la interacción con «Boti», no es interpelado a reconocerse como un ",
+     [
+      "span",
+      {},
+      "data entry"
+     ],
+     ". Escribir un mensaje a «Boti» no conlleva el reconocimiento por parte del «vecino» de que sus palabras son tomadas como mera información, ",
+     [
+      "span",
+      {},
+      "inputs"
+     ],
+     " destinados al procesamiento estadístico de la «demanda insatisfecha»."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "El menú de contenidos, en cambio, se estructura a partir de lo que en otro trabajo (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799006/html/index.html#redalyc_313799006_ref10"
+      },
+      "Caputo, 2021b"
+     ],
+     ") analizamos como una regionalización ideológica",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799006/html/index.html#fn5"
+      },
+      [
+       "sup",
+       {},
+       "5"
+      ]
+     ],
+     " en la que las cuestiones a tratar están fijadas de antemano, en este caso por el árbol de derivaciones que determina las posibilidades de respuesta del ciudadano. El texto de «Boti», al igual que las «categorías» para las propuestas de BA Elige, responde a una repartición en áreas que funciona ideológicamente como evidencia y estructura un campo de acción que impone y supone al mismo tiempo cuáles serían los «intereses» del ciudadano interpelado como «vecino»: salud, bienestar, educación, seguridad, mascotas, tránsito, trámites, solicitudes, entre otros. La novedad de «Boti», en comparación con BA Elige, es una ",
+     [
+      "span",
+      {},
+      "regionalización al interior de la propia regionalización"
+     ],
+     ". Así, por ejemplo, si se opta por «conversar» acerca de seguridad, el chatbot desplegará estas alternativas: «¿Con cuál de estos otros temas te puedo ayudar? A. Mapa del delito / B. Red de monitoreo / C. Robo de celulares / D. Trapitos / E. Policía / F. Bomberos / G. Cabinas de denuncia» (conversación con «Boti» del 22/4/2022). En el chatbot no solo se delimitan los ámbitos de consulta pertinentes para el «vecino» sino también lo que al interior de cada una de ellas puede ser preguntado."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "En el menú de contenidos del chatbot se interpela al ciudadano como «vecino» a partir de los rasgos históricos que posee esta figura en la discursividad del GCABA (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799006/html/index.html#redalyc_313799006_ref14"
+      },
+      "Hernández, 2014"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799006/html/index.html#redalyc_313799006_ref9"
+      },
+      "Caputo, 2021a"
+     ],
+     " y ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799006/html/index.html#redalyc_313799006_ref10"
+      },
+      "2021b"
+     ],
+     "). Pero desde el punto de vista de su funcionamiento como forma de sondeo se confirma la presunción de ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799006/html/index.html#redalyc_313799006_ref20"
+      },
+      "Rouvroy y Berns (2016)"
+     ],
+     ": para detectar la «demanda insatisfecha» el chatbot se saltea la subjetividad del ciudadano, que, como señala ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799006/html/index.html#redalyc_313799006_ref11"
+      },
+      "Costa (2021)"
+     ],
+     ", queda en el lugar de una «caja negra» que aporta ",
+     [
+      "span",
+      {},
+      "inputs"
+     ],
+     " al sistema."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "En comparación con BA Elige, la simultaneidad de estos procesos constituye un avance en términos del instituto de sondeo: escribir una palabra o una frase en WhatsApp es suficiente para alimentar el proceso de ",
+     [
+      "span",
+      {},
+      "feedback"
+     ],
+     " que se da entre el gobierno y los ciudadanos. De esta manera, los creadores de «Boti» pueden entusiasmarse con la idea de ",
+     [
+      "span",
+      {},
+      "una ciudad sondeada y sincronizada en «tiempo real» con los «intereses» de la ciudadanía."
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "El ascenso del trabajador cognitivo en\ndesmedro de los call centers y la presencialidad"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "En el apartado anterior analizamos el «mapeo» de la «demanda insatisfecha», una funcionalidad que aparece en los enunciados como una de las «ventajas» del chatbot. Ahora enfocaremos en otra «ventaja» que implica la centralización de la comunicación con el «vecino» en «Boti». Nos referimos a la mejora de una ecuación costo-beneficio conformada por los «canales de atención» del GCABA: la atención presencial, los call centers y el chatbot. En esta relación tripartita, «Boti» es concebido como el responsable de que en el futuro cercano los call centers y los mostradores públicos tiendan a desaparecer:"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "p",
+     {},
+     "La Ciudad maneja tres canales de atención. El canal físico que en nuestra cabeza idealmente debiera tender a cero [...] Segundo canal, el 147, que son operadores atendiendo el teléfono que también buscamos reducirlos [...] Es más costoso que lo que hacemos con «Boti» en WhatsApp y más ineficiente [...] Y, por último, tratando de que «Boti» siga comiéndose el mercado de los otros canales de interacción. En eso es fundamental disponibilizar cada vez más servicios (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799006/html/index.html#redalyc_313799006_ref26"
+      },
+      "Fernández, 7 de diciembre de 2021"
+     ],
+     ")"
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "La trayectoria proyectada para «Boti» –»comerse», como si de un ",
+     [
+      "span",
+      {},
+      "pacman"
+     ],
+     " se tratara, a los otros «canales de atención»– implica una transformación adicional en el gobierno, vinculada con los cambios impulsados por la digitalización en el mundo del trabajo: el ascenso de los «trabajadores cognitivos» (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799006/html/index.html#redalyc_313799006_ref4"
+      },
+      "Berardi, 2020"
+     ],
+     "), en este caso en desmedro de los operadores de los call centers y de quienes se sientan detrás de los mostradores públicos."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "El mantenimiento del chatbot es realizado por diseñadores de experiencia de usuario e interfaces, programadores, ingenieros en informática, periodistas y especialistas en ciencia de datos. Los roles considerados claves son los del ",
+     [
+      "span",
+      {},
+      "conversational designer "
+     ],
+     "y el del editor de contenido, responsables de traducir la información de las áreas de gobierno en una «conversación empática» con los «vecinos»",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799006/html/index.html#fn6"
+      },
+      [
+       "sup",
+       {},
+       "6"
+      ]
+     ],
+     ". El «equipo de trabajo» de «Boti» replica el entorno laboral de las ",
+     [
+      "span",
+      {},
+      "startup"
+     ],
+     " y las empresas «unicornio», caracterizado según ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799006/html/index.html#redalyc_313799006_ref16"
+      },
+      "Negro (2021)"
+     ],
+     " por la «diversidad de perfiles», el «incentivo a la creatividad» y el foco en la «experiencia de compra», en este caso la satisfacción del «vecino» en su interacción con el chatbot."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "«Trabajador cognitivo», según ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799006/html/index.html#redalyc_313799006_ref4"
+      },
+      "Berardi (2020)"
+     ],
+     ", es aquel cuyo trabajo aparece como uniforme en su aspecto físico y ergonómico –trabajar consiste en sentarse ante una computadora y teclear– y singular, poco intercambiable, en cuanto a los conocimientos y las aptitudes personales que se ponen en juego: «el trabajo se ha convertido en parte de un proceso mental, en la elaboración de signos cargados de saber» (p. 66). En este punto es necesario remontarse unas páginas atrás, a las palabras de Kern, quien señala que el desafío de «Boti» es lingüístico porque se debe comunicar a un humano con una máquina."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Estamos una vez más ante el problema de la comunicación. Berardi señala que el «trabajo cognitivo» involucra las energías comunicativas del trabajador, cuyo deseo se identifica con las tareas y el proyecto a desarrollar. ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799006/html/index.html#redalyc_313799006_ref35"
+      },
+      "Modesto (2020)"
+     ],
+     ", editor de contenido, extrae lecciones de su trabajo en «Boti» que demuestran la eficacia ideológica de la concepción estratégica de la comunicación, reducida a operaciones eficientes orientadas en este caso a «dar vida» al «diálogo»: «aprendí que no todas las palabras son iguales. Cada palabra tiene una carga semántica que le da vida e intención al diálogo. Es importante entender QUÉ es lo que se quiere contar (objetivo) para saber qué palabras usar (contenido)». Por un lado, el sentido de lo que se comunica se reduce a la concreción de ciertos fines, lo que nos devuelve a la concepción instrumental de la comunicación, y, por el otro, la cita permite acercarse a la vivencia ideológica del «trabajador por proyectos» que reflexiona acerca de su propio proceso de trabajo para «mejorar» su desempeño como profesional."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "El horizonte de transformación en los «canales de atención» del GCABA marcha en la misma dirección que las tendencias dominantes en las empresas digitales que promueven la «innovación» y la «creatividad» como aptitudes decisivas en los procesos de trabajo. «Boti» desplaza a los trabajadores de call centers y mostradores públicos, a los que se asocia en los enunciados con «costos altos», «ineficiencia» y «baja productividad»:"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "p",
+     {},
+     " La ciudadanía tiene a disposición una aplicación donde la calidad, el nivel y la eficiencia de respuesta es mucho más alta; no hay demoras en línea a la espera de la atención de un operador y se pueden realizar consultas en cualquier día y a toda hora (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799006/html/index.html#redalyc_313799006_ref40"
+      },
+      "Secretaría de Innovación y Transformación Digital, 2022"
+     ],
+     "). "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Lo interesante en términos de productividad es que este operador, mediante un chat, puede atender hasta 5 conversaciones en simultáneo, con los mismos niveles de calidad de servicio y tiempo de respuesta, en comparación al canal habitual telefónico que solo atiende a una persona por vez (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799006/html/index.html#redalyc_313799006_ref31"
+      },
+      "Kern, 23 de julio de 2019"
+     ],
+     ")."
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Las citas demuestran hasta qué punto el neoliberalismo constituye un sistema de normas arraigado en prácticas gubernamentales (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799006/html/index.html#redalyc_313799006_ref15"
+      },
+      "Laval y Dardot, 2015"
+     ],
+     "): el cálculo costo-beneficio y las ideas de «productividad» y «eficiencia» determinan la decisión acerca de la mejor manera de atender al «vecino». La eficacia ideológica de estas ideas y la identificación del «trabajo cognitivo» como trabajo innovador, ambos aspectos dominantes de la coyuntura, confluyen así para explicar el aura de «mejor solución posible» con que carga «Boti»."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "«Ciudadanía poscovid»:\nun chatbot al servicio de la «comodidad», el «ahorro\nde tiempo» y el «disfrute» "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Ahora nos abocaremos a la concepción de ciudadanía que emerge en los enunciados. El chatbot, las plataformas y la IA aparecen como la «solución» para la «ciudadanía poscovid» (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799006/html/index.html#redalyc_313799006_ref26"
+      },
+      "Bonifatti, 2021"
+     ],
+     "), caracterizada por el deseo de «ahorrar tiempo» y resolver su cotidianeidad desde los ",
+     [
+      "span",
+      {},
+      "smartphones"
+     ],
+     ". El diseño de «Boti» cristaliza supuestos ideológicos acerca del ciudadano que está del otro lado de la pantalla."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "La detección de la «demanda insatisfecha» conlleva, como dijimos, una sincronización entre la agenda gubernamental y los intereses de los «vecinos». Así como este mecanismo de sondeo, de ",
+     [
+      "span",
+      {},
+      "feedback"
+     ],
+     ", se relaciona con la pretensión de «escuchar» y «atender» al «vecino», la inversión en «Boti» queda explicada por otro tipo de «acercamiento» del gobierno a los ciudadanos. En continuidad con la serie discursiva de la «democracia electrónica» (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799006/html/index.html#redalyc_313799006_ref6"
+      },
+      "Caletti, s.f."
+     ],
+     "), el diseño del chatbot parte de la premisa de una transformación irreversible en la ciudadanía, impactada por la digitalización y la conectividad que implican Internet, los ",
+     [
+      "span",
+      {},
+      "smartphones "
+     ],
+     "y las apps de las empresas de Silicon Valley. La evidencia ideológica de esta transformación constituye a «Boti» como la «solución» con IA que viene a dar respuesta a una ciudadanía ya habituada a la «comodidad» y «eficiencia» de las tecnologías digitales, contrapuestas a la «burocracia» de la presencialidad y los call centers. «Boti» se propone así como una doble adaptación: a la ciudadanía transformada por la digitalización y a los procedimientos de las empresas tecnológicas. No sorprende que las características del «ciudadano conectado» se definan por los atributos que lo distinguen como consumidor de servicios digitales: la búsqueda de «comodidad» y de «ahorrar tiempo», además de la preferencia por los espacios domésticos."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Los jóvenes que interactúan con «Boti», por ejemplo, son aquellos que «no van a llamar al gobierno pudiendo escribirle, al igual que nunca van a pedir una pizza por teléfono pudiendo usar una app de comida a domicilio» (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799006/html/index.html#redalyc_313799006_ref31"
+      },
+      "Kern, 23 de julio de 2019"
+     ],
+     "). Y el ciudadano que para resolver una infracción de tránsito debía «ir a un juez de faltas, a una sede comunal, a un edificio de gobierno a perder muchísimo tiempo… Ahora lo hace entre un capítulo y otro de Netflix o de YouTube» (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799006/html/index.html#redalyc_313799006_ref32"
+      },
+      "Kern, 26 de septiembre de 2019"
+     ],
+     "). La comodidad de la espera doméstica mientras se consume un servicio de streaming se contrapone a la fila en un edificio de gobierno y a la música que se escucha en el teléfono antes de ser atendido por el operador de un call center. En los enunciados se establece una continuidad entre el consumidor inmerso en un mundo de apps desde las cuales soluciona su cotidianeidad y el ciudadano que necesita acceder a un servicio gubernamental. Se trata de que el gobierno adapte sus modalidades de atención al «ciudadano conectado», cuyas exigencias quedan definidas a partir de la simplificación y la comodidad que implicarían los servicios de las empresas digitales."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "La resolución de trámites desde «Boti» se inscribe así en el aligeramiento de la vida cotidiana impulsado por la dimensión lúdica y placentera de los nuevos instrumentos electrónicos, orientados cada vez más a usos privados (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799006/html/index.html#redalyc_313799006_ref21"
+      },
+      "Sadin, 2018"
+     ],
+     "). El foco en la experiencia de compra que mencionábamos a partir de ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799006/html/index.html#redalyc_313799006_ref16"
+      },
+      "Negro (2021)"
+     ],
+     " como característico de las empresas ",
+     [
+      "span",
+      {},
+      "startup"
+     ],
+     " se traduce en este caso en la búsqueda de no molestar y simplificar la vida del «ciudadano-usuario-vecino»:"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "p",
+     {},
+     "Creamos el chat de la Ciudad para que los ciudadanos ahorren tiempo. No tiene sentido perder horas o toda una mañana yendo a una oficina del Estado para hacer un trámite que se puede hacer en unos minutos por WhatsApp y sin la necesidad de moverte de donde estés (Miguel en ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799006/html/index.html#redalyc_313799006_ref34"
+      },
+      "La Nación, 2021"
+     ],
+     ")"
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "La idea de «ahorro de tiempo» se complementa con la «comodidad» que implica no moverse. «Boti», en este sentido, también se adapta a la vivencia del «tiempo real» que el usuario experimenta en el uso de computadoras y ",
+     [
+      "span",
+      {},
+      "smartphones"
+     ],
+     ". ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799006/html/index.html#redalyc_313799006_ref22"
+      },
+      "Sadin (2021)"
+     ],
+     " designa con el término «tiempo real» a la «ausencia de diferimiento discernible entre la acción de un usuario y la satisfacción de su demanda» (p. 199), lo que da lugar a cierta idea de «transparencia» en la relación con los objetos técnicos. ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799006/html/index.html#redalyc_313799006_ref26"
+      },
+      "Lucía Bonifatti (2021)"
+     ],
+     ", secretaria de Modernización del municipio de General Pueyrredón, señala en el conversatorio compartido con Fernández que el ciudadano resultante de la digitalización acelerada por la pandemia valora un uso «racional» y «eficiente» del tiempo:"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "p",
+     {},
+     "Cambió la manera de percibir el concepto de finitud [...] Lo que sucede es un cambio en la percepción en relación al tiempo, al disfrute, a los espacios públicos y a dónde uno quiere invertir su dinero, su energía, su tiempo [...] Cambia el concepto de ciudadanía. Los Estados tenemos que encontrarnos con un ciudadano mucho más consciente, mucho más usuario [...] Hay otro tipo de ciudadano poscovid, que está ahí, que quiere interactuar de otra manera, y que pone el acento mucho más en cuestiones medioambientales y de eficiencia del tiempo. Ya no es un vecino, un ciudadano, que le da lo mismo hacer una cola, que un trámite sea más burocrático. Es un ciudadano que quiere disfrutar, que no sabe en qué momento nos vuelven a encerrar [...] Cambió nuestro partner."
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "En esta definición de «ciudadanía poscovid» se constatan los efectos de ciertos principios neoliberales. En primer lugar, como sostienen ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799006/html/index.html#redalyc_313799006_ref15"
+      },
+      "Laval y Dardot (2015)"
+     ],
+     ", la economía se convierte en una disciplina personal. El ciudadano es aquel que pone en juego una racionalidad empresarial para decidir acerca de su disfrute, hace una inversión, evalúa costos y beneficios de manera «consciente» ahora que su tiempo, después del «encierro», vale más. En segundo lugar, en esta concepción de ciudadanía se identifica una «retórica del disfrute individual» que se entrama con el proceso más amplio de neoliberalización en curso en CABA, a partir de una asociación entre espacio público y el imperativo de disfrute (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799006/html/index.html#redalyc_313799006_ref13"
+      },
+      "Hernández ",
+      [
+       "span",
+       {},
+       "et al"
+      ],
+      ", 2021"
+     ],
+     "). En el caso del «ciudadano-usuario-vecino» atravesado por la digitalización, el «ahorro de tiempo» y el «disfrute» son los objetivos a los que se dirigen las «soluciones digitales» destinadas a liberar el tiempo del ciudadano para que así pueda «invertirlo» en lo que desee. El entrelazamiento de estos términos –",
+     [
+      "span",
+      {},
+      "ahorro, inversión, disfrute"
+     ],
+     "– indica hasta qué punto el mandato al goce característico de las «sociedades posdemocráticas» (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799006/html/index.html#redalyc_313799006_ref24"
+      },
+      "Stavrakakis, 2010"
+     ],
+     ") interviene en la emergencia de esta concepción de «ciudadano poscovid», llamado a disfrutar y «economizar» su tiempo después de las restricciones a la circulación por el coronavirus."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Así, el ciudadano resultante de la digitalización y la pandemia queda definido en los enunciados como ",
+     [
+      "span",
+      {},
+      "usuario de servicios digitales que valora el «tiempo» y el «disfrute», un usuario que además carga con una presunción de verdad respecto a la manifestación de sus «intereses» en la interacción generada en apps y redes sociales"
+     ],
+     ". En este punto hay una relación directa con la detección de la «demanda insatisfecha» como mecanismo de sondeo. El modo más «genuino» de «conocer» al ciudadano se encontraría ahora en el análisis de los retazos de su actividad digital en las apps de las multinacionales. WhatsApp, en el caso de «Boti», pero también Google Maps:"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "p",
+     {},
+     "Somos la primera ciudad del mundo que nos contactamos con Google y tomamos posesión de casi 5.000 sitios que son de la ciudad y están en Google: plazas, avenidas, paradas de colectivo. ¿Qué objetivo nos pusimos nosotros como dueños, como haría un dueño de un restaurant si tuviera en Google Maps su restaurant localizado? Nos interesa saber qué es lo que los usuarios de esos lugares piensan. Qué es lo que los usuarios de Google comentan [...] Eso lo tomamos, lo analizamos y lo estamos procesando [...] para entender qué es lo que el vecino quiere [...] Ese es hoy el lugar más genuino donde la gente expresa qué le produce la interacción con algo del espacio público (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799006/html/index.html#redalyc_313799006_ref26"
+      },
+      "Fernández, 2021"
+     ],
+     ")"
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "La cita indica una vez más la preeminencia del sondeo en las concepciones de la relación entre gobierno y ciudadanía, pero con un matiz novedoso. Tanto BA Elige como «Boti» implican una inversión que resulta en la puesta a disposición de una plataforma de participación o de un chatbot de trámites dirigidos al «vecino», quien «responde» en un caso con propuestas y en el otro con consultas. En Google Maps, ",
+     [
+      "span",
+      {},
+      "los «intereses ciudadanos» se encuentran a disposición de un análisis automatizado sin que el gobierno deba emprender un desarrollo propio"
+     ],
+     ". La relación entre Google y el gobierno es suficiente para conocer el «deseo» de los ciudadanos y habilitar el proceso de ",
+     [
+      "span",
+      {},
+      "feedback"
+     ],
+     ". Así, el «vecino» resulta una vez más un generador de ",
+     [
+      "span",
+      {},
+      "inputs"
+     ],
+     " que ",
+     [
+      "span",
+      {},
+      "desconoce"
+     ],
+     " que sus palabras contribuyen a una retroalimentación entre gobierno y ciudadanía."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Las encuestas parecen destinadas a la extinción. ¿Cuál es el sentido de preguntarle al ciudadano acerca de sus intereses, de molestarlo en un llamado telefónico, si sus opiniones, «sin intermediarios», ya se encuentran a disposición en las interfaces de las grandes corporaciones digitales? ",
+     [
+      "span",
+      {},
+      "La concepción de «ciudadano conectado» indica un horizonte en el que ya no será necesario consultar a la ciudadanía y en el que la ilusión de «transparencia» de los objetos técnicos se impondrá a la contingencia y la conflictividad constitutivas de lo social"
+     ],
+     "."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "La era de los chatbots\nes la era del consenso"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "En este trabajo nos propusimos un doble objetivo. Por un lado, problematizar la eficacia ideológica de «Boti» en la coyuntura actual a partir de la identificación en los enunciados de los efectos de ciertas tendencias y formaciones discursivas dominantes. Por el otro, analizar la especificidad del chatbot en tanto forma novedosa de «atención ciudadana»."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Para ello delineamos cuatro ejes. Primero, indagamos en la «personalidad» de «Boti» y su «desafío lingüístico», aspecto en el que intervienen las formaciones discursivas del sistema y de la comunicación. Luego abordamos la centralidad de la noción de ",
+     [
+      "span",
+      {},
+      "feedback"
+     ],
+     " en la «detección de la demanda insatisfecha» que funciona como un mecanismo perfeccionado de sondeo y cumplimenta la pretensión de orden de la cibernética. Tercero, reflexionamos acerca del desplazamiento de los trabajadores de call centers y oficinas gubernamentales en favor de soluciones automatizadas desarrolladas por programadores y publicistas. Por último, enfocamos en la concepción de ciudadanía que supone el diseño del chatbot: un ciudadano transformado por la pandemia y la digitalización, cada vez más «usuario» y consumidor de servicios digitales que lo hacen «valorar» y «eficientizar» su tiempo."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "En las páginas finales del documento de la ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799006/html/index.html#redalyc_313799006_ref40"
+      },
+      "Secretaría de Innovación y Transformación Digital (2022) "
+     ],
+     "se señala que nos encontramos en «la nueva era de los chatbots» y que en el futuro la interacción será mediante comandos de voz, a la manera de Siri y Alexa, los asistentes virtuales de Apple y Amazon. La fascinación por las tendencias de las multinacionales y la grandilocuencia de referirse a una «nueva era» indican el determinismo tecnológico desde el que se piensa la relación entre plataformas, IA y ciudadanía, entendida esta última como un conjunto de ",
+     [
+      "span",
+      {},
+      "usuarios-consumidores digitales "
+     ],
+     "que exigen un ",
+     [
+      "span",
+      {},
+      "servicio cómodo, eficiente y «a la medida de sus necesidades»"
+     ],
+     "."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Debemos enfatizar que el determinismo que guía esta transformación en la «atención al ciudadano» va en la misma dirección que una tendencia dominante de las democracias contemporáneas: la consolidación del consenso como régimen de lo sensible que niega la realización de la política en tanto litigio por lo común (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799006/html/index.html#redalyc_313799006_ref18"
+      },
+      "Rancière, 2007"
+     ],
+     "). ¿En qué sentido señalamos esto? La concepción instrumental y estratégica de la comunicación que predomina en los enunciados sirve a la creación de una ",
+     [
+      "span",
+      {},
+      "personalidad gentil y amable "
+     ],
+     "que en un mismo movimiento anula la heterogeneidad constitutiva de la política, entendida no como una interlocución entre pares –en este caso, un diálogo entre el chatbot y su contraparte humana– sino como una problematización de la propia situación de interlocución."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Claro está que resulta difícil imaginar que haya lugar para la política en un «canal de atención ciudadana», sean cuales fueren sus características. Lo que queremos remarcar es la relevancia del caso «Boti» en la coyuntura, en tanto anuda tendencias múltiples que favorecen una planificación instrumental de la palabra –creativa, dirían los publicistas– con miras a la conformación de un circuito de derivaciones de contenido que se propone establecer y encauzar al mismo tiempo los asuntos «pertinentes» para el ciudadano, lo que denominamos como una ",
+     [
+      "span",
+      {},
+      "regionalización ideológica al interior de la regionalización ideológica"
+     ],
+     ". Ya decía ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799006/html/index.html#redalyc_313799006_ref7"
+      },
+      "Caletti (2016)"
+     ],
+     " que el sondeo delimita las problemáticas a abordar, los límites de esas mismas problemáticas y las relaciones implícitas entre las posibilidades de respuesta. La novedad de «Boti» consiste en que la mera escritura de una palabra desde un ",
+     [
+      "span",
+      {},
+      "smartphone"
+     ],
+     " se transforma en una respuesta útil a la alimentación de un proceso de ",
+     [
+      "span",
+      {},
+      "feedback"
+     ],
+     " que resulta en un aprendizaje automatizado y una adecuación de la «oferta de contenidos» a los «intereses ciudadanos» así manifestados. Más que al nacimiento de una era poblada de chatbots y asistentes virtuales asistimos entonces a la profundización de un consenso en el que no solo ya han sido establecidas tanto las preguntas como las respuestas sino también ",
+     [
+      "span",
+      {},
+      "un funcionamiento que se propone controlar el presente de los «deseos ciudadanos» y anticiparse a su futuro inmediato. Es el ideal de una «ciudad sondeada» en «tiempo real»"
+     ],
+     "."
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-back"
+    },
+    "\n",
+    [
+     "p",
+     {},
+     "Referencias"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313799006_ref1"
+     },
+     "Aguilar, P., Glozman, M., Grondona, A. y Haidar, V. (2014). ¿Qué es un corpus? ",
+     [
+      "span",
+      {},
+      "Entramados y perspectivas. Revista de la Carrera de Sociología"
+     ],
+     ", (4), 35-64. ",
+     [
+      "a",
+      {
+       "href": "https://publicaciones.sociales.uba.ar/index.php/entramadosyperspectivas/article/view/527"
+      },
+      "https://publicaciones.sociales.uba.ar/index.php/entramadosyperspectivas/article/view/527"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313799006_ref2"
+     },
+     "Althusser, L. (1967). ",
+     [
+      "span",
+      {},
+      "La revolución teórica de Marx"
+     ],
+     ". Siglo XXI."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313799006_ref3"
+     },
+     "Althusser, L. (1970). ",
+     [
+      "span",
+      {},
+      "Freud y Lacan"
+     ],
+     ". Nueva Visión."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313799006_ref4"
+     },
+     "Berardi Bifo, F. (2020). ",
+     [
+      "span",
+      {},
+      "La fábrica de la infelicidad. Nuevas formas de trabajo y movimiento global"
+     ],
+     ". Tinta Limón."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313799006_ref5"
+     },
+     "Caletti, S. (2006). Decir, autorrepresentación, sujetos. Tres notas para un debate sobre política y comunicación. ",
+     [
+      "span",
+      {},
+      "Revista Versión, 17"
+     ],
+     ", 19-78. ",
+     [
+      "a",
+      {
+       "href": "https://versionojs.xoc.uam.mx/index.php/version/article/view/259"
+      },
+      "https://versionojs.xoc.uam.mx/index.php/version/article/view/259"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313799006_ref6"
+     },
+     "Caletti, S. (s.f.). ",
+     [
+      "span",
+      {},
+      "Comunicación, política y espacio público. Notas para repensar la democracia contemporánea"
+     ],
+     ". Libro inédito."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313799006_ref7"
+     },
+     "Caletti, S. (2016). La cuestión de la opinión pública –y otros debates de hoy- (Notas inéditas). ",
+     [
+      "span",
+      {},
+      "Avatares de la comunicación y la cultura, 11"
+     ],
+     ". ",
+     [
+      "a",
+      {
+       "href": "https://publicaciones.sociales.uba.ar/index.php/avatares/article/view/4853"
+      },
+      "https://publicaciones.sociales.uba.ar/index.php/avatares/article/view/4853"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313799006_ref8"
+     },
+     "Caputo, M. (2020). La tecnología entre los representantes y los representados. Arqueología de una serie de plataformas digitales de participación. ",
+     [
+      "span",
+      {},
+      "Argumentos: revista de crítica social, 22"
+     ],
+     ", 82-112. ",
+     [
+      "a",
+      {
+       "href": "https://publicaciones.sociales.uba.ar/index.php/argumentos/article/view/5967"
+      },
+      "https://publicaciones.sociales.uba.ar/index.php/argumentos/article/view/5967"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313799006_ref9"
+     },
+     "Caputo, M. (2021a). La singularización de lo igual. Las interpelaciones al vecino y a la persona común en plataformas digitales de participación. ",
+     [
+      "span",
+      {},
+      "Avatares de la comunicación y la cultura, 21"
+     ],
+     ". ",
+     [
+      "a",
+      {
+       "href": "http://id.caicyt.gov.ar/ark:/s18535925/7hixbmwzg"
+      },
+      "http://id.caicyt.gov.ar/ark:/s18535925/7hixbmwzg"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313799006_ref10"
+     },
+     "Caputo, M. (2021b). Los “lugares correctos” para la participación del vecino. Regionalización ideológica, conflictividad y sondeo en plataformas digitales de escala municipal. ",
+     [
+      "span",
+      {},
+      "Quid16"
+     ],
+     ", (número especial), 226-243. ",
+     [
+      "a",
+      {
+       "href": "https://publicaciones.sociales.uba.ar/index.php/quid16/article/view/6853"
+      },
+      "https://publicaciones.sociales.uba.ar/index.php/quid16/article/view/6853"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313799006_ref11"
+     },
+     "Costa, F. (2021). ",
+     [
+      "span",
+      {},
+      "Tecnoceno. Algoritmos, biohackers y nuevas formas de vida"
+     ],
+     ". Taurus."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313799006_ref12"
+     },
+     "Foucault, M. (2015). ",
+     [
+      "span",
+      {},
+      "La arqueología del saber"
+     ],
+     ". Siglo XXI."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313799006_ref13"
+     },
+     "Hernández, S., Negro, A., Fernández, L. y Juairi, M. N. (2021). ¿Llevar ciudad donde no la hay? Un análisis de la coyuntura ideológica y de los discursos en conflicto en torno de la venta y rezonificación de Costa Salguero y Punta Carrasco (Buenos Aires, Argentina, 2018-2021). ",
+     [
+      "span",
+      {},
+      "Argumentos. Revista de crítica social, 24"
+     ],
+     ", 191-227. ",
+     [
+      "a",
+      {
+       "href": "https://publicaciones.sociales.uba.ar/index.php/argumentos/article/view/7000"
+      },
+      "https://publicaciones.sociales.uba.ar/index.php/argumentos/article/view/7000"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313799006_ref14"
+     },
+     "Hernández, S. (2014). Los vecinos del vecindario al protagonismo. Un aporte comunicacional para pensar procesos urbanos. ",
+     [
+      "span",
+      {},
+      "Avatares de la comunicación y la cultura, 7"
+     ],
+     ". ",
+     [
+      "a",
+      {
+       "href": "https://publicaciones.sociales.uba.ar/index.php/avatares/article/view/4792"
+      },
+      "https://publicaciones.sociales.uba.ar/index.php/avatares/article/view/4792"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313799006_ref15"
+     },
+     "Laval, C. y Dardot, P. (2015). ",
+     [
+      "span",
+      {},
+      "La nueva razón del mundo. Ensayo sobre la sociedad neoliberal"
+     ],
+     ". Gedisa."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313799006_ref16"
+     },
+     "Negro, A. (2021). La promesa de las «smart cities» como nuevo enclave ideológico del proceso de neoliberalización de las ciudades. ",
+     [
+      "span",
+      {},
+      "Quid16, N° Especial Red CU"
+     ],
+     ", 244-262. ",
+     [
+      "a",
+      {
+       "href": "https://publicaciones.sociales.uba.ar/index.php/quid16/article/view/6869"
+      },
+      "https://publicaciones.sociales.uba.ar/index.php/quid16/article/view/6869"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313799006_ref17"
+     },
+     "Pêcheux, M. (2003). El mecanismo del reconocimiento ideológico. En S. Žižek (Comp.), ",
+     [
+      "span",
+      {},
+      "Ideología. Un mapa de la cuestión"
+     ],
+     " (pp. 157-168). Fondo de Cultura Económica."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313799006_ref18"
+     },
+     "Rancière, J. (2007). ",
+     [
+      "span",
+      {},
+      "El desacuerdo. Política y filosofía"
+     ],
+     ". Nueva Visión."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313799006_ref19"
+     },
+     "Rodríguez, P. M. (2019). ",
+     [
+      "span",
+      {},
+      "Las palabras en las cosas. Saber, poder y subjetivación entre algoritmos y biomoléculas"
+     ],
+     ". Cactus."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313799006_ref20"
+     },
+     "Rouvroy, A. y Berns, T. (2016). Gubernamentalidad algorítmica y perspectivas de emancipación. ¿La disparidad como condición de individuación a través de la relación? ",
+     [
+      "span",
+      {},
+      "Adenda Filósofica, 1"
+     ],
+     ", 88-116."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313799006_ref21"
+     },
+     "Sadin, É. (2018). ",
+     [
+      "span",
+      {},
+      "La humanidad aumentada. La administración digital del mundo"
+     ],
+     ". Caja Negra."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313799006_ref22"
+     },
+     "Sadin, É. (2021). ",
+     [
+      "span",
+      {},
+      "La silicolonización del mundo. La irresistible expansión del liberalismo digital"
+     ],
+     ". Caja Negra Editora."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313799006_ref23"
+     },
+     "Srnicek, N. (2018). ",
+     [
+      "span",
+      {},
+      "Capitalismo de plataformas"
+     ],
+     ". Caja Negra Editora."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313799006_ref24"
+     },
+     "Stavrakakis, Y. (2010). ",
+     [
+      "span",
+      {},
+      "La izquierda lacaniana"
+     ],
+     ". Fondo de Cultura Económica."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313799006_ref25"
+     },
+     "Tiqqun (2015). ",
+     [
+      "span",
+      {},
+      "La hipótesis cibernética"
+     ],
+     ". Hekht Libros."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Fuentes"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313799006_ref26"
+     },
+     "Argonz, I., Bonifatti, L., Fernández, D., Mancini, T., Orzuza, E., Paredes, D. y Pereyra Puyo, G. (7 de diciembre\nde 2021). Panel «Tecnología y gobiernos más cercanos» en el Conversatorio\n«Hacia dónde van las ciudades». Cooperación Urbana Federal GCBA. ",
+     [
+      "a",
+      {
+       "href": "https://www.youtube.com/watch?v=wGHh13DDqb8"
+      },
+      "https://www.youtube.com/watch?v=wGHh13DDqb8"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313799006_ref27"
+     },
+     "Benegas, F. (17 de\njunio de 2021). Empatía y tecnología: aceleradoras de soluciones innovadoras. ",
+     [
+      "span",
+      {},
+      "La Nación"
+     ],
+     ". ",
+     [
+      "a",
+      {
+       "href": "https://www.lanacion.com.ar/opinion/empatia-y-tecnologia-aceleradoras-de-soluciones-innovadoras-nid11062021/"
+      },
+      "https://www.lanacion.com.ar/opinion/empatia-y-tecnologia-aceleradoras-de-soluciones-innovadoras-nid11062021/"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313799006_ref28"
+     },
+     "Gobierno de la Ciudad\nAutónoma de Buenos Aires (21 de febrero de 2019). La Ciudad pone a prueba un\nnuevo canal de atención al vecino a través de WhatsApp. ",
+     [
+      "a",
+      {
+       "href": "https://www.buenosaires.gob.ar/node/88275/noticias/la-ciudad-pone-prueba-un-nuevo-canal-de-atencion-al-vecino-traves-de-whatsapp"
+      },
+      "https://www.buenosaires.gob.ar/node/88275/noticias/la-ciudad-pone-prueba-un-nuevo-canal-de-atencion-al-vecino-traves-de-whatsapp"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313799006_ref29"
+     },
+     "Jamele, A. (25 de junio de\n2021). Furor por los chistes de Boti, el chatbot de Whatsapp de la Ciudad.\n",
+     [
+      "span",
+      {},
+      "Perfil"
+     ],
+     ". ",
+     [
+      "a",
+      {
+       "href": "https://www.perfil.com/noticias/tecnologia/furor-por-los-chistes-de-Boti-el-chatbot-de-whatsapp-de-la-ciudad.phtml"
+      },
+      "https://www.perfil.com/noticias/tecnologia/furor-por-los-chistes-de-Boti-el-chatbot-de-whatsapp-de-la-ciudad.phtml"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313799006_ref30"
+     },
+     "Jamele, A. (17 de enero de\n2022). Son argentinos, crean chatbots para miles de\nempresas y facturan decenas de millones de dólares. ",
+     [
+      "span",
+      {},
+      "Forbes Argentina"
+     ],
+     ". ",
+     [
+      "a",
+      {
+       "href": "https://www.forbesargentina.com/innovacion/son-argentinos-crean-chatbots-miles-empresas-facturan-decenas-millones-dolares-n11885"
+      },
+      "https://www.forbesargentina.com/innovacion/son-argentinos-crean-chatbots-miles-empresas-facturan-decenas-millones-dolares-n11885"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313799006_ref31"
+     },
+     "Kern, E. (23 de julio\nde 2019). Buenos Aires lanza Boti, su chatbot en la app más utilizada\ndel mundo. ",
+     [
+      "span",
+      {},
+      "Planeta Chatbot"
+     ],
+     ". ",
+     [
+      "a",
+      {
+       "href": "https://planetachatbot.com/buenos-aires-lanza-Boti-chatbot-en-app-mas-utilizada-mundo/"
+      },
+      "https://planetachatbot.com/buenos-aires-lanza-Boti-chatbot-en-app-mas-utilizada-mundo/"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313799006_ref32"
+     },
+     "Kern, E. (26 de\nseptiembre de 2019). ",
+     [
+      "span",
+      {},
+      "El desafío de\nconstruir un chatbot para una ciudad de más de 6\nmillones de habitantes"
+     ],
+     ". Conferencias sobre Ciudades Inteligentes, Cuarta\nRevolución Industrial e Inteligencia Artificial en el sector público, Bogotá,\nColombia. ",
+     [
+      "a",
+      {
+       "href": "https://www.facebook.com/GobDigitalCO/videos/481478802706332/"
+      },
+      "https://www.facebook.com/GobDigitalCO/videos/481478802706332/"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313799006_ref33",
+      "lang": "pt"
+     },
+     "Kern, E. (25 de junio\nde 2020). Planeta Chatbot\nWhatsApp Talk - Gobierno de Ciudad de Buenos Aires /\nEntrevistado por Planeta Chatbot. ",
+     [
+      "span",
+      {},
+      "YouTube"
+     ],
+     ". ",
+     [
+      "a",
+      {
+       "href": "https://www.youtube.com/watch?v=SudDe--joCQ"
+      },
+      "https://www.youtube.com/watch?v=SudDe--joCQ"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313799006_ref34"
+     },
+     "La Nación (14 de\ndiciembre de 2021). Cómo denunciar criaderos de mosquitos, veredas rotas y\nárboles crecidos en la Ciudad a través de WhatsApp. ",
+     [
+      "a",
+      {
+       "href": "https://www.lanacion.com.ar/sociedad/como-denunciar-criaderos-de-mosquitos-veredas-rotas-y-arboles-crecidos-en-la-ciudad-a-traves-de-nid14122021/"
+      },
+      "https://www.lanacion.com.ar/sociedad/como-denunciar-criaderos-de-mosquitos-veredas-rotas-y-arboles-crecidos-en-la-ciudad-a-traves-de-nid14122021/"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313799006_ref35"
+     },
+     "Modesto, N. (22 de\ndiciembre de 2020). El chatbot del Gobierno de la\nCiudad. ",
+     [
+      "span",
+      {},
+      "Medium"
+     ],
+     ". ",
+     [
+      "a",
+      {
+       "href": "https://cicerodesignstudio.medium.com/el-chatbot-del-gobierno-de-la-ciudad-366140ca9f02"
+      },
+      "https://cicerodesignstudio.medium.com/el-chatbot-del-gobierno-de-la-ciudad-366140ca9f02"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313799006_ref36"
+     },
+     "Pura Ciudad (3 de\nseptiembre de 2021). Ciudad contrató en forma directa una consultoría sobre el\n«Chatbot BA» por $20.000.000. ",
+     [
+      "a",
+      {
+       "href": "https://www.puraciudad.com.ar/ciudad-contrato-en-forma-directa-una-consultoria-sobre-el-chatbot-ba-por-20-000-000/"
+      },
+      "https://www.puraciudad.com.ar/ciudad-contrato-en-forma-directa-una-consultoria-sobre-el-chatbot-ba-por-20-000-000/"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313799006_ref37"
+     },
+     "Quesada, R. (20 de\nseptiembre de 2021). Dejaron el Gobierno, fundaron su propia empresa y por su\ninvento en WhatsApp quieren facturar $ 50 M. C",
+     [
+      "span",
+      {},
+      "ronista-Infotechnology"
+     ],
+     ". ",
+     [
+      "a",
+      {
+       "href": "https://www.cronista.com/infotechnology/negocios/dejaron-el-gobierno-fundaron-su-propia-empresa-y-por-su-invento-en-whatsapp-quieren-facturar-50-m/"
+      },
+      "https://www.cronista.com/infotechnology/negocios/dejaron-el-gobierno-fundaron-su-propia-empresa-y-por-su-invento-en-whatsapp-quieren-facturar-50-m/"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313799006_ref38"
+     },
+     "Revista Qué (18 de\nmarzo de 2019). De los contratistas de «llamadas perdidas» llega: «servicio de\nconversaciones asistidas». ",
+     [
+      "a",
+      {
+       "href": "https://www.revistaque.com/5/21770-de-los-contratistas-de-llamadas-perdidas-llega-servicio-de-conversaciones-asistidas"
+      },
+      "https://www.revistaque.com/5/21770-de-los-contratistas-de-llamadas-perdidas-llega-servicio-de-conversaciones-asistidas"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313799006_ref39"
+     },
+     "Revista Qué (4 de\nmayo de 2020). Larreta va a pagar más de $16 millones para actualizar a Boti. ",
+     [
+      "a",
+      {
+       "href": "https://www.revistaque.com/28872-larreta-va-a-pagar-ms-de-16-millones-para-actualizar-a-"
+      },
+      "https://www.revistaque.com/28872-larreta-va-a-pagar-ms-de-16-millones-para-actualizar-a-"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313799006_ref40"
+     },
+     "Secretaría de\nInnovación y Transformación Digital (2022). Boti. El chatbot de la Ciudad. Gobierno de la Ciudad Autónoma de\nBuenos Aires. ",
+     [
+      "a",
+      {
+       "href": "https://www.buenosaires.gob.ar/sites/gcaba/files/casoBoti-febrero22.pdf"
+      },
+      "https://www.buenosaires.gob.ar/sites/gcaba/files/casoBoti-febrero22.pdf"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313799006_ref41"
+     },
+     "Tomoyose, G. (13 de julio de\n2021). Bots y humor: los secretos de Boti, el chat porteño que gestiona turnos de vacunación\ncontra el Covid-19 y conversa con emojis y chistes. ",
+     [
+      "span",
+      {},
+      "La Nación"
+     ],
+     ". ",
+     [
+      "a",
+      {
+       "href": "https://www.lanacion.com.ar/tecnologia/bots-y-humor-los-secretos-de-Boti-el-chat-porteno-que-gestiona-turnos-de-vacunacion-contra-el-covid-nid13072021/"
+      },
+      "https://www.lanacion.com.ar/tecnologia/bots-y-humor-los-secretos-de-Boti-el-chat-porteno-que-gestiona-turnos-de-vacunacion-contra-el-covid-nid13072021/"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Notas"
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-fn1"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "1"
+     ],
+     " En «Las palabras en las cosas», Manolo ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799006/html/index.html#redalyc_313799006_ref19"
+      },
+      "Rodríguez (2019)"
+     ],
+     " se propone reconstruir y definir los rasgos de una nueva episteme que se desarrolló en paralelo a la analizada por Foucault en «Las palabras y las cosas». El surgimiento de la estadística, las utopías de comunicación y el público en los siglos XVIII y XIX dan inicio a un recorrido epistémico que resulta en la preeminencia actual de ciertas formaciones discursivas relacionadas con la cibernética y la teoría de los sistemas: la comunicación, el sistema, la información y la organización. Algunos de los elementos de estas formaciones discursivas son los que aquí recuperaremos para reflexionar acerca de la emergencia de «Boti»."
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-fn2"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "2"
+     ],
+     " Por ejemplo, Nicolás ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799006/html/index.html#redalyc_313799006_ref35"
+      },
+      "Modesto (2020)"
+     ],
+     ", uno de los diseñadores UX (experiencia de usuario) de «Boti», explica que el chatbot es honesto porque «Él nunca juzga a las personas, entiende sus limitaciones con humildad y mantiene la calma» y describe su atributo didáctico de la siguiente manera: «¡Ojo! «Boti» no da cátedra, él enseña desde la humildad y busca explicar paso a paso cada duda que tiene el vecino»."
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-fn3"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "3"
+     ],
+     " Vale la pena citar ",
+     [
+      "span",
+      {},
+      "in extenso"
+     ],
+     " a ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799006/html/index.html#redalyc_313799006_ref5"
+      },
+      "Caletti (2006)"
+     ],
+     ": «el tipo de razonamiento que sostiene este hurgar es el mismo que […] pusieron en juego científicos […] en la inmediata posguerra cuando […] ensayaron los mecanismos de la retroalimentación o ",
+     [
+      "span",
+      {},
+      "feedback"
+     ],
+     ", pequeños sensores que informaban a los cohetes acerca de las desviaciones en su propia trayectoria permitiendo una corrección sobre la marcha […] El fundamento que sostiene al instituto del sondeo es la posibilidad de instalar un dispositivo de",
+     [
+      "span",
+      {},
+      " feed-back"
+     ],
+     ", adecuado a lo que requieren para sus operaciones estos otros ingenieros […] Me refiero a los ingenieros de la gestión administrativa de la cosa ¿pública? [...] Dicho en términos de la ahí naciente cibernética, se trata del control» (p. 29-30)."
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-fn4"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "4"
+     ],
+     " Este solapamiento queda de manifiesto en la presentación del concepto de «demanda insatisfecha» por parte de ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799006/html/index.html#redalyc_313799006_ref33"
+      },
+      "Kern (2020)"
+     ],
+     ": «Cuando me refiero a la demanda insatisfecha es que en los chatbots, cuando un usuario, un ciudadano, habla con una plataforma, esa plataforma puede tener la respuesta o no tenerla. Y en caso de no tenerla, nosotros tenemos mapeado ahí lo que el ciudadano, lo que el cliente, nos habló y nosotros no pudimos responder». El «ciudadano» y el «cliente» quedan equiparados en tanto constituyen la contraparte de los chatbots como mecanismos de ",
+     [
+      "span",
+      {},
+      "feedback"
+     ],
+     "."
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-fn5"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "5"
+     ],
+     " Con ",
+     [
+      "span",
+      {},
+      "regionalización ideológica"
+     ],
+     " nos referimos al concepto con el que ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799006/html/index.html#redalyc_313799006_ref17"
+      },
+      "Pêcheux (2003)"
+     ],
+     " se propone señalar un carácter doble de los aparatos ideológicos de Estado: una especialización, sus «propiedades regionales», y su carácter de clase que combinados hacen que los «objetos ideológicos», en su materialidad concreta, sean provistos junto a sus instrucciones de uso, una orientación acerca del «modo de usarlos» (p. 159)."
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-fn6"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "6"
+     ],
+     " Así lo\nseñala ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799006/html/index.html#redalyc_313799006_ref35"
+      },
+      "Modesto (2020)"
+     ],
+     ", uno de los editores de contenido de «Boti»:\n«transformo piezas de comunicación que están en ‘Idioma gobierno’ en un diálogo\nque cualquier vecino pueda entender»."
+    ],
+    "\n"
+   ],
+   "\n"
+  ],
+  "\n",
+  [
+   "span",
+   {
+    "id": "t-creditos"
+   },
+   "\n",
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-logo-izquierda"
+    },
+    "\n",
+    [
+     "figura",
+     {}
+    ]
+   ],
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-mensaje"
+    },
+    "Modelo de publicación sin fines de lucro para conservar la naturaleza académica y abierta de la comunicación científica",
+    [
+     "br",
+     {}
+    ],
+    "HTML generado a partir de XML-JATS4R"
+   ],
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-logo-derecha"
+    },
+    "\n",
+    [
+     "figura",
+     {}
+    ]
+   ],
+   "\n",
+   "\n"
+  ],
+  "\n\n\n"
+ ]
+}

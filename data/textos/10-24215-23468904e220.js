@@ -1,0 +1,1073 @@
+// Copia de textos/10-24215-23468904e220.json para abrir la aplicación sin servidor.
+(window.DATOS_REVISTAS = window.DATOS_REVISTAS || {})["textos/10-24215-23468904e220.json"] = {
+ "version": 1,
+ "recogido": "2026-10-18T11:33:21+00:00",
+ "doi": "10.24215/23468904e220",
+ "titulo": "Comer en tiempos de desigualdad. Sectores populares y modos de resolver las comidas",
+ "revista": "2346-8904",
+ "numero": "n34-2026",
+ "licencia": {
+  "codigo": "by-nc-sa",
+  "nombre": "CC BY-NC-SA 4.0",
+  "nombre_completo": "Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional",
+  "url": "https://creativecommons.org/licenses/by-nc-sa/4.0",
+  "url_legal": "https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.es"
+ },
+ "fuente": {
+  "url": "https://www.cuestionessociologia.fahce.unlp.edu.ar/article/download/CSe220/22748?inline=1",
+  "formato": "HTML",
+  "plataforma": "ojs-galerada",
+  "pagina": "https://www.cuestionessociologia.fahce.unlp.edu.ar/article/view/CSe220"
+ },
+ "autores_cita": [
+  {
+   "apellidos": "Ambrosi",
+   "nombre_pila": "Celeste",
+   "nombre": null
+  }
+ ],
+ "avisos_derechos": [
+  "Derechos de autor 2026 ",
+  "Esta obra está bajo una licencia internacional Creative Commons Atribución-NoComercial-CompartirIgual 4.0. La cesión de derechos no exclusivos implica también la autorización por parte de los autores para que el trabajo sea alojado en los repositorios institucionales UNLP (Sedici y Memoria Académica) y difundido a través de las bases de datos que los editores consideren apropiadas para su indización, con miras a incrementar la visibilidad de la revista y sus autores."
+ ],
+ "idioma_principal": "es",
+ "indice": [],
+ "vueltas": {
+  "t-redalyc_775646007_ref2": "t-llamada-redalyc_775646007_ref2-1",
+  "t-redalyc_775646007_ref4": "t-llamada-redalyc_775646007_ref4-1",
+  "t-redalyc_775646007_ref1": "t-llamada-redalyc_775646007_ref1-1",
+  "t-fn1": "t-llamada-fn1-1",
+  "t-redalyc_775646007_ref6": "t-llamada-redalyc_775646007_ref6-1",
+  "t-redalyc_775646007_ref3": "t-llamada-redalyc_775646007_ref3-1",
+  "t-redalyc_775646007_ref10": "t-llamada-redalyc_775646007_ref10-1",
+  "t-redalyc_775646007_ref7": "t-llamada-redalyc_775646007_ref7-1",
+  "t-redalyc_775646007_ref9": "t-llamada-redalyc_775646007_ref9-1",
+  "t-redalyc_775646007_ref11": "t-llamada-redalyc_775646007_ref11-1",
+  "t-redalyc_775646007_ref8": "t-llamada-redalyc_775646007_ref8-1",
+  "t-redalyc_775646007_ref5": "t-llamada-redalyc_775646007_ref5-1"
+ },
+ "contenido": [
+  "\n",
+  [
+   "span",
+   {
+    "id": "t-visor-cabecera"
+   },
+   "\n",
+   "\n",
+   [
+    "span",
+    {},
+    "\n",
+    [
+     "a",
+     {
+      "href": "https://www.cuestionessociologia.fahce.unlp.edu.ar/"
+     },
+     "\n",
+     [
+      "figura",
+      {
+       "alt": "CS"
+      }
+     ],
+     "\nCuestiones de Sociología"
+    ],
+    ", núm. 34, e220, agosto 2026 - enero 2027. ISSN 2346-8904",
+    [
+     "br",
+     {}
+    ],
+    "Universidad Nacional de La Plata",
+    [
+     "br",
+     {}
+    ],
+    "Facultad de Humanidades y Ciencias de la Educación",
+    [
+     "br",
+     {}
+    ],
+    "Departamento de Sociología"
+   ],
+   "\n",
+   "\n"
+  ],
+  "\n",
+  [
+   "span",
+   {
+    "id": "t-articulo"
+   },
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-front"
+    },
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-articulo-categoria"
+     },
+     "\n",
+     [
+      "p",
+      {},
+      "Notas de investigación"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-articulo-meta"
+     },
+     "\n",
+     [
+      "p",
+      {},
+      "\n",
+      [
+       "span",
+       {},
+       "Comer en tiempos de desigualdad. Sectores populares y modos de resolver las comidas"
+      ],
+      "\n"
+     ],
+     "\n\n"
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-articulo-acerca"
+     },
+     "\n",
+     [
+      "span",
+      {
+       "id": "t-ficha-general"
+      },
+      "\n",
+      [
+       "span",
+       {
+        "id": "t-autores-articulo"
+       },
+       "\n",
+       "\n",
+       "\n",
+       [
+        "a",
+        {
+         "href": "https://orcid.org/0000-0002-4558-3081"
+        },
+        [
+         "figura",
+         {}
+        ]
+       ],
+       "  ",
+       [
+        "span",
+        {},
+        "Celeste"
+       ],
+       " ",
+       [
+        "span",
+        {},
+        "Ambrosi"
+       ],
+       " ",
+       [
+        "span",
+        {}
+       ],
+       "\n",
+       "\n",
+       [
+        "br",
+        {}
+       ],
+       "\n",
+       "\n",
+       [
+        "span",
+        {},
+        "Departamento de Salud Comunitaria (DESACO), Universidad Nacional de Lanús"
+       ],
+       ", ",
+       [
+        "span",
+        {},
+        "Argentina"
+       ],
+       "\n",
+       "\n",
+       [
+        "span",
+        {},
+        " celesteambrosi@gmail.com"
+       ],
+       "\n",
+       "\n"
+      ],
+      "\n",
+      [
+       "span",
+       {},
+       "Cita recomendada:"
+      ],
+      "\n",
+      [
+       "span",
+       {},
+       "Ambrosi, C. (2026). Comer en tiempos de desigualdad. Sectores populares y modos de resolver las comidas. ",
+       [
+        "i",
+        {},
+        "Cuestiones de Sociología"
+       ],
+       ", (34), e220. ",
+       [
+        "a",
+        {
+         "href": "https://doi.org/10.24215/23468904e220"
+        },
+        "https://doi.org/10.24215/23468904e220"
+       ]
+      ],
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "Resumen:\n\t\t\t\t\t\t\t                           "
+       ],
+       [
+        "span",
+        {},
+        "Esta nota de investigación recupera los principales hallazgos de la tesis doctoral sobre desigualdad y acceso al alimento en sectores populares urbanos. En pos de hacerlos dialogar con los actuales procesos de desigualdad y contribuir a la formulación de nuevas preguntas acerca de dichos sectores, este trabajo presenta cómo la fragmentación sociolaboral vivenciada en las últimas décadas se expresa en estrategias alimentarias heterogéneas —denominadas, del “rebusque”, del “aguante” y para “vivir al día”— que, en ocasiones y en su extremo, sedimentan en la gestión del hambre. Asimismo, se plantea el modo en que, aún en contextos de exclusión, se (re)inventan las comidas según preferencias culturales, tomando distancia de aquella idea de gustos basados en la necesidad."
+       ],
+       "\n"
+      ],
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "Palabras clave: "
+       ],
+       "Modos de resolver las comidas, Desigualdad, Fragmentación sociolaboral, Sectores populares.\n\t\t                         "
+      ],
+      "\n\t\t\t\t\t\t\t\t ",
+      [
+       "p",
+       {
+        "lang": "en"
+       },
+       [
+        "span",
+        {},
+        "Eating in times of inequality: Working-class communities and ways of getting meals"
+       ]
+      ],
+      "\n",
+      [
+       "p",
+       {
+        "lang": "en"
+       },
+       "\n",
+       [
+        "span",
+        {},
+        "Abstract:\n\t\t\t\t\t\t                           "
+       ],
+       [
+        "span",
+        {},
+        "This article recovers the main findings of the doctoral thesis on inequality and access to food in urban popular sectors.In order to engage them in dialogue with current processes of inequality and contribute to the formulation of new questions about these sectors, this work presents how the socio-labor fragmentation experienced in recent decades is expressed in heterogeneous food strategies -called del “rebusque”, del “aguante” y para “vivir al día”- which, and in their extreme, settle into the management of hunger. It also raises the question of how, even in contexts of exclusion, food is (re)invented according to cultural preferences, distancing itself from the idea of ​​tastes based on necessity."
+       ],
+       "\n"
+      ],
+      "\n",
+      [
+       "p",
+       {
+        "lang": "en"
+       },
+       "\n",
+       [
+        "span",
+        {},
+        "Keywords: "
+       ],
+       "Ways of solving meal problems, Inequality, Socio-labor fragmentation, Popular sectors.\n                                "
+      ],
+      "\n"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-articulo-body"
+     },
+     "\n",
+     [
+      "p",
+      {},
+      "\n",
+      [
+       "span",
+       {},
+       "1. Introducción"
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "El tópico de la alimentación —particularmente, el de las estrategias de consumo alimentario referidas a cómo y por qué se obtienen, preparan y comparten determinados alimentos—constituye una lente para analizar el modo en que los procesos de (des)igualdad afectaron a los sectores populares en Argentina y cómo frente a ello, éstos se fueron vinculando con el mercado de trabajo, las políticas sociales y las redes socioterritoriales para resolver las comidas."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "En pos de comprender dicho entramado y dar cuenta de la heterogeneidad que caracteriza a los sectores populares en nuestro país, este trabajo recupera los principales hallazgos de la tesis doctoral titulada “Modos de resolver las comidas en sectores populares de Argentina ante procesos de (des)igualdad y fragmentación sociolaboral (1983-2019)” que fuera realizada en el marco del Doctorado en Ciencias Sociales de la Facultad de Humanidades y Ciencias de la Educación, Universidad Nacional de La Plata (",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646007_ref2",
+        "id": "t-llamada-redalyc_775646007_ref2-1"
+       },
+       "Ambrosi, 2024"
+      ],
+      "). Allí, a partir de una metodología cualitativa que incluyó la realización de entrevistas en dos barrios populares ubicados en el Partido de Avellaneda, nos propusimos analizar los modos en que los hogares pertenecientes a sectores populares se organizan para resolver las comidas en los ámbitos domésticos, considerando los avances y retrocesos en materia de (des)igualdad y bienestar social en la Argentina desde 1983 a 2019."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "Considerando que la (im)posibilidad de comer rebasa la cuestión del “bolsillo”, se abordaron preguntas que fueron al núcleo duro del poder, planteando como punto de partida cuáles son los procesos y dinámicas respecto a la generación y apropiación desigual de excedentes en los mercados básicos que hacen posible que un sector de la población sea excluido del bienestar social y, particularmente, presente dificultades para acceder a los alimentos seguros (",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646007_ref2",
+        "id": "t-llamada-redalyc_775646007_ref2-2"
+       },
+       "Ambrosi, 2024"
+      ],
+      "; Pérez Sainz, 2020, 2016 y 2014; Therborn, 2015). A fin de no limitarnos a un estudio determinista ni reduccionista, también nos preguntamos, por un lado, cómo interactúan los hogares de sectores populares con dichos procesos y con las intervenciones que realiza el Estado mediante diversos mecanismos orientados a mitigar esas desigualdades a fin de facilitar el acceso a los alimentos y, por otro lado, qué estrategias de consumo desplegaron y despliegan para resolver las comidas en función de sus trayectorias laborales, vinculación con redes barriales, relación con las políticas sociales y momento del ciclo de vida familiar en el que se encuentran, sin descuidar las moralidades que se ponen en juego."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "Los tres niveles de análisis mencionados fueron claves para un abordaje interescalar y diacrónico, resultando un aporte innovador para el estudio de los sectores populares en Argentina a través de la lente de la alimentación. Las presentes notas recuperan dicho trabajo del siguiente modo. En primer lugar, presentamos algunas coordenadas teóricas y sociohistóricas acerca de cómo los procesos de ampliación/reducción de las (des)igualdades intervienen en el acceso a los alimentos en la Argentina y, particularmente, cómo impactan en los sectores populares. En segundo lugar, a partir de los hallazgos mostramos cómo la fragmentación sociolaboral se expresa en estrategias alimentarias diferenciables —denominadas como del “rebusque”, del “aguante” y \"para vivir al día”— las cuales se relacionan con los modos en que los hogares se fueron vinculando con el trabajo, las políticas públicas y las redes barriales a lo largo de los años. Asimismo, también mostramos aquellos puntos de convergencia que remiten a las trayectorias biográficas signadas por la migración del campo a la ciudad y por saberes en torno a cómo hacer una olla de comida gustosa, rebasando en tal sentido los gustos por necesidad. Por último, presentamos algunas consideraciones finales y preguntas para pensar el escenario actual."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "\n",
+      [
+       "span",
+       {},
+       "2. Algunas coordenadas teóricas y sociohistóricas en torno al estudio de la alimentación en sectores populares "
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "Desde los aportes de los estudios críticos de la desigualdad (Pérez Sainz, 2020 y 2016; Therborn, 2015), es fundamental preguntarse por las desigualdades de qué y entre quiénes, contemplando para ello los procesos de inclusión/exclusión respecto a los mercados básicos —el laboral, de capitales, recursos naturales y conocimientos—. Así, comprender cómo los sectores populares resuelven las comidas en determinados momentos y bajo ciertas circunstancias, implica también preguntarse cómo se configura la relación entre capital/trabajo, cómo y por quiénes se generan/apropian los excedentes en torno a la producción y distribución de alimentos —a escala global y local— y cuáles son los efectos en torno a la (im)posibilidad del comer."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "Pero más allá de considerar las estructuras de poder intervinientes en torno a lo alimentario, así como el posicionamiento del Estado para ampliar/reducir las consecuentes desigualdades, también es clave contemplar que siempre existen márgenes de acción respecto a cómo hacer de comer frente a ciertas restricciones. Ambas cuestiones, tramadas entre sí y desde una perspectiva diacrónica, permitieron entender que las estrategias de consumo alimentario no constituyen respuestas coyunturales. Antes bien, refieren a reconfiguraciones de las experiencias históricas del comer que, en base a cómo se traman con el trabajo, las políticas sociales y las redes barriales, varían a lo largo del tiempo y espacio. Como veremos en el siguiente apartado, este punto de partida fue fundamental para comprender cómo a pesar de la persistencia de procesos históricos de exclusión respecto a los mercados de trabajo formales, algunos sectores sociales lograron su reproducción cotidiana a lo largo del tiempo, teniendo márgenes para darse “gustos” alimentarios afines a sabores que remiten a la vida en el campo y la cocina rural."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "Antes de dar cuenta de la heterogeneidad de las estrategias alimentarias, compartimos algunas coordenadas sociohistóricas sobre los anudamientos que se fueron dando en torno a la producción y distribución de alimentos —mediadas por los desarrollos biotecnológicos— así como sus efectos sobre la seguridad alimentaria. El incremento de las desigualdades e informalidad de los mercados de trabajo que caracteriza a los países de América Latina (",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646007_ref4",
+        "id": "t-llamada-redalyc_775646007_ref4-1"
+       },
+       "Benza y Kessler, 2021"
+      ],
+      ") se fue consolidando en la última década como un rasgo de la Argentina. Si bien a lo largo de la historia tuvimos procesos de reducción de las desigualdades, los últimos años dejan entrever una retracción de esta tendencia y, conjuntamente, una profundización de la fragmentación sociolaboral con claros impactos en el acceso a los alimentos."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "En nuestro país el incremento de las desigualdades durante la década del noventa se manifestó en la ruptura de aquel patrón alimentario que resultara relativamente homogéneo hasta los años setenta (",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646007_ref1",
+        "id": "t-llamada-redalyc_775646007_ref1-1"
+       },
+       "Aguirre, 2005"
+      ],
+      "). Ubicándonos en el núcleo duro del poder —donde se ponen en juego aspectos estructurales y estructurantes de la vida social— se destaca que, detrás de la fractura en el patrón alimentario y la fragmentación sociolaboral, se encuentra un proceso de larga duración y amplia expansión referido a la apropiación, acaparamiento y control de los recursos que hacen a lo alimentario que si bien se conforma a nivel internacional se enraíza a nivel regional y nacional.",
+      [
+       "a",
+       {
+        "href": "#t-fn1",
+        "id": "t-llamada-fn1-1"
+       },
+       [
+        "sup",
+        {},
+        "1"
+       ]
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "Con la irrupción de la dictadura militar se dio curso a un conjunto de transformaciones estructurales y estructurantes que al tiempo que promovieron la concentración en una cúpula empresarial nacional y transnacional —ligada a la valorización financiera y a determinadas ramas productivas— erosionaron la industria nacional, al movimiento obrero y sindical, afectando las condiciones de vida de los trabajadores cuyos ingresos reales se redujeron (Pinedo, 2022; ",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646007_ref6",
+        "id": "t-llamada-redalyc_775646007_ref6-1"
+       },
+       "Castellani, 2021"
+      ],
+      ")."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "Con el retorno a la democracia, en el marco de la presidencia de Raúl Alfonsín se incentivó la actividad agropecuaria y si bien se buscó reducir inflación para recomponer salarios, resultó dificultoso regular precios minoristas y mayoristas, los cuales permanecieron bajo el control de grupos económicos concentrados en ramas vinculadas al agro, alimentos, petróleo y finanzas (",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646007_ref3",
+        "id": "t-llamada-redalyc_775646007_ref3-1"
+       },
+       "Basualdo y Manzanelli, 2022"
+      ],
+      "; ",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646007_ref10",
+        "id": "t-llamada-redalyc_775646007_ref10-1"
+       },
+       "Ortiz y Schorr, 2021"
+      ],
+      "). Como corolario y hacia fines de los años ochenta, mientras de un lado se consolidó una estructura económica concentrada en la cúpula empresarial, del otro, comenzó a sedimentar la fragmentación sociolaboral y una territorialidad de la pobreza con déficit alimentario, cuestión que dio impulso a la implementación del Plan Nacional Alimentario (PAN)."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "Las reformas estructurales impulsadas en los años noventa beneficiaron a una cúpula empresarial ligada a capitales extranjeros -muchos de éstos vinculados al agro- y fragmentaron aún más las canastas alimentarias entre los estratos sociales, en un contexto marcado por el incremento de la desocupación y aumento de la pobreza. Así, al tiempo que se acentuó la polarización y exclusión social, pobres y ricos accedieron a canastas alimentarias desproporcionadamente desiguales en términos de cantidad y calidad en los alimentos. En el marco de la salida de la crisis del 2001 y como producto del reposicionamiento del Estado en materia de políticas económicas, laborales y sociales, a partir del año 2003 se destaca una notoria reducción de las desigualdades y una mayor redistribución que benefició a los sectores populares, cuyos ingresos y capacidad de compra repuntaron, logrando acceder a alimentos en mayor cantidad y de mejor calidad nutricional (",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646007_ref7",
+        "id": "t-llamada-redalyc_775646007_ref7-1"
+       },
+       "D´Amico, 2018"
+      ],
+      "; ",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646007_ref9",
+        "id": "t-llamada-redalyc_775646007_ref9-1"
+       },
+       "Grassi, 2018"
+      ],
+      "; ",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646007_ref11",
+        "id": "t-llamada-redalyc_775646007_ref11-1"
+       },
+       "Svampa, 2013"
+      ],
+      "). No obstante esto, la fragmentación sociolaboral persistió, acentuándose fundamentalmente a partir del año 2015 (",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646007_ref8",
+        "id": "t-llamada-redalyc_775646007_ref8-1"
+       },
+       "Donza, 2015"
+      ],
+      ")."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "Desde una perspectiva diacrónica, a aquella ruptura intersectorial que surgiera como hallazgo de los estudios realizados en el contexto de la crisis del 2001 (",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646007_ref1",
+        "id": "t-llamada-redalyc_775646007_ref1-2"
+       },
+       "Aguirre, 2005"
+      ],
+      ") y que referían a la fractura del patrón alimentario —en tanto ricos y pobres dejaron de comer lo mismo—, casi dos décadas después se (sobre)imprimió aquella otra ruptura, esta vez, de carácter intrasectorial (",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646007_ref2",
+        "id": "t-llamada-redalyc_775646007_ref2-3"
+       },
+       "Ambrosi, 2024"
+      ],
+      "). Haciendo foco sólo en los sectores populares y como veremos en el próximo apartado, se destaca que en éstos las comidas y las formas de resolverlas devinieron heterogéneas afín a la fragmentación sociolaboral vivenciada y al modo en que los hogares pertenecientes a dicho sector se fueron vinculando a lo largo de sus trayectorias de vida, además del trabajo, con las políticas de inclusión social y las redes barriales (",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646007_ref2",
+        "id": "t-llamada-redalyc_775646007_ref2-4"
+       },
+       "Ambrosi, 2024"
+      ],
+      ")."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "Como veremos en el siguiente apartado, al calor de estos cambios en torno a los mercados de trabajo y de generación y acaparamiento de oportunidades en torno a lo alimentario, así como del rol estatal en materia de ampliación/reducción de las (des)igualdades, también se reconfiguraron los modos de resolver las comidas, no sin que en ello mediaran las experiencias, saberes, gustos y moralidades de los comensales en torno a cómo hacer una olla de comida."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "\n",
+      [
+       "span",
+       {},
+       "3. Las estrategias para resolver las comidas en sectores populares: entre el “rebusque”, el “aguante” y “vivir al día”"
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "Como corolario de las transformaciones mencionadas anteriormente, el campo se industrializó al tiempo que las ciudades y, consecuentemente, los trabajadores, fueron perdiendo su anclaje fabril. El caso de los dos barrios populares de Avellaneda que fueron seleccionados para realizar entrevistas da cuenta de estas transformaciones en el campo y en la ciudad en tanto lxs entrevistadxs, frente al avance de las ",
+      [
+       "span",
+       {},
+       "commodities"
+      ],
+      " en sus lugares de orígenes, migraron del Noreste argentino hacia dicha ciudad, donde nuevamente, y en distintos momentos históricos, vivenciaron el pasaje de la fábrica al barrio. En el itinerario de sus trayectorias biográficas y en función de cómo se fueron (re)vinculando con el mercado de trabajo (formal/informal), las políticas sociales y las redes barriales, es posible identificar una heterogeneidad en las estrategias de consumo alimentario, denominadas del “rebusque”, “para aguantar las comidas” y “para vivir al día”."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "Recuperando la experiencia concreta del comer de lxs entrevistadxs, se destaca que quienes permanecieron históricamente excluidos del mercado de trabajo formal apelan al “rebusque”. Como se expresa en la tesis (",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646007_ref2",
+        "id": "t-llamada-redalyc_775646007_ref2-5"
+       },
+       "2024"
+      ],
+      ", p. 359), estas estrategias “refieren a movimientos tácticos arraigados en la experiencia y, lejos de referir a transformaciones de las condiciones estructurales de vida, aluden al modo en que las unidades domésticas acondicionan dichas condiciones y rebasan las restricciones inmediatas en las que se encuentran”. Las mismas presentan un carácter corpo-territorial intergeneracional, se encuentra arraigada en la feminización y la familiarización del hambre, cuestiones que implica un minucioso conocimiento del funcionamiento de organizaciones que entregan alimentos. Aquí el acceso a los alimentos emerge como condición de posibilidad producto de la confluencia en el barrio de las organizaciones e instituciones y la territorialización de las políticas alimentarias en el ámbito local."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "En estos hogares, las prácticas de provisión y previsión alimentaria se ciernen sobre la constante búsqueda dentro del ámbito barrial de alimentos a través de los circuitos no mercantilizados. Son realizadas desde hace décadas por al menos tres generaciones y, en líneas generales, recaen sobre los cuerpos de las mujeres y de los niños, niñas y adolescentes (NNyA). Frente a la histórica inestabilidad de los ingresos laborales, el entramado socioterritorial ofrece la posibilidad y certidumbre de planificar el acceso a un consumo mínimo de alimentos. A grandes rasgos, en estos hogares predomina la elaboración de comidas rendidoras, el reemplazo de alimentos y, en su extremo, se gestiona el hambre en tanto se suprime la cantidad de veces que se cocina y que se come por parte de todo el grupo doméstico, incluidos los NNyA."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "Pero más allá de la histórica exclusión, el trabajo es concebido como el horizonte moralmente legítimo para proveer el alimento. Por otro lado, y pese a los condicionantes, siempre hay lugar a la preparación de platos con historias que rememoran los gustos/sabores del campo y de las festividades celebradas en sus lugares de origen. Desde esta perspectiva, se destaca que la selección de ciertos alimentos y comidas no se reduce a gustos por necesidad. Antes bien, lxs entrevistados dejan entrever que aún en contextos de exclusión se pueden reinventar las comidas afines a los gustos, los cuales rememoran historias de vida y festividades religiosas."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "El relato de Carolina —migrante de Corrientes— que se comparte a continuación, muestra cómo salir con el carro le permite acceder a diversos alimentos de descarte provistos por comerciantes del barrio. La transformación de los mismos en comidas gustosas —como guisos de lentejas y locro— da cuenta de las moralidades en torno a la provisión alimentaria —reivindicando el trabajo como medio legítimo—, así como de las reconfiguraciones culturales que suceden respecto de los modos de preparar los alimentos en el ámbito urbano, cuestión que dialoga con aquellas formas de cocinar aprendidas durante los años que vivió en el campo. En sus propias palabras, así lo expresa:"
+     ],
+     "\n",
+     [
+      "blockquote",
+      {},
+      "Yo salgo a cartonear honradamente y vengo honradamente y hago mi olla de comida como se puede hacer una olla de comida (…) Hace 7 años que vivo acá y sigo cartoneando en la calle con mi carro y mi hijo. Doy gracias a Dios que tengo la panadería que me traigo pan, factura, en la carnicería me dan garrona y con garrona hago mi sopa de lenteja (…) Yo en Santa Librada aprendí a cocinar porque se hacía locro. Ahí el día de Santa Librada se hace los 19 y los 20 (de julio), se hace una pista de baile. Entonces yo aprendí a través de otra persona que me llamaban para limpiar los platos, la olla. Y yo te miraba porque la mesa era grande y vos aprendías a lavar la lechuga, la verdura, todo lo que se necesitaba para hacer la fuente de locro, la olla de locro. Y así jui aprendiendo porque esta mamá tenía todo cosas que sean de verdura, acá la zanahoria, el otro el zapallo, mandioca, batata, todo y así jui mirando y aprendiendo (Entrevista a Carolina, julio de 2019)"
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "En cuanto a quienes perdieron trabajos protegidos y con el fin de “aguantar las comidas”, se destaca la constante búsqueda por generar nuevos ingresos monetarios a costa de la autoexplotación, cuestión que recae centralmente en el cuerpo de las mujeres, quienes trabajan más y comen menos. A diferencia de lo que sucediera con las estrategias del rebusque, aquí el entramado socioterritorial no constituye un repertorio histórico de provisión y previsión alimentaria, sino que es entendido de forma transitoria y coyuntural. Sumado a esto y si bien también se reduce la cantidad de veces que se cocina, el ajuste de la cantidad de veces que se come recae solamente en el cuerpo de los adultos, no así de lxs NNyA."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "En estos hogares la articulación entre las fuentes monetarias y no monetarias y la constante búsqueda de generación de ingresos —en su mayoría, a través de la mercantilización de la propia comida— se orienta a “aguantar” la comensalidad familiar y/o el tipo de alimentos consumidos previamente, valorados por sus cualidades “saludables” y por su contribución nutricional al crecimiento de los NNyA. Respecto a los dineros públicos transferidos, gran parte de lxs entrevistadxs consideraban dichos ingresos por sí mismos no resultaban determinantes en el acceso a los alimentos, aunque en la coyuntura ofrecían la posibilidad de sostener un mínimo de consumos mercantilizados conforme a las valoraciones esgrimidas sobre el alimento. Bajo tales circunstancias, el uso de los ingresos no laborales buscaba ser reinscrito en las lógicas monetarias precedentes, esto es, a la planificación de compras de alimentos considerados como gustosos y saludables."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "En cuanto a lo saludable, lxs entrevistadxs expresan las preferencias no sólo por el aporte nutricional para el crecimiento de los NNyA sino también por las implicancias en el cuidado de la salud en un sentido más amplio, en tanto se advierte que el uso de químicos en toda la cadena productiva afecta la calidad de vida. En tales sentidos y como lo explica Roberto —migrante del Chaco—, la selección de ciertos alimentos también puede comprenderse como resistencias a la incorporación de alimentos ultraprocesados. Al respecto, decía lo siguiente:"
+     ],
+     "\n",
+     [
+      "blockquote",
+      {},
+      "El tomate tiene mucha química lo que viene preparao, vos date cuenta, echá algo y es muy fuerte como que te quiere picar en la garganta y ese te hace mal al estómago cuando le echas mucho y el tomate natural no, es rico (…) Cociná un día, si lo podés pelar al tomatito mejor pelao así no sale la telita del tomate en el tuco. Y lo mandás a la olla ahí nomás, tiene otro sabor. Porque ese tiene mucha química, vos te pasás de tomate y te va directo al hígado por la química y el tomate natural no, puede ser perita, cualquiera (…) En cambio en tu casa vos sabés lo que comés, más limpio (Entrevista a Roberto, agosto de 2019)."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "Por su parte, quienes lograron insertarse en el mercado laboral formal —después de haber transitado inserciones laborales desprotegidas e incluso desocupación—, se las ingenian para “vivir al día” y familiarizan el consumo alimentario mercantilizado con hijxs/nietxs que retornaron al hogar ante los despidos vivenciados y el incremento de los alquileres que se dieron a partir del año 2016. En estos hogares y pese a las mejoras sociolaborales experimentadas, se las ingenian para “vivir al día”. No obstante, es destacable cómo las mejoras en las condiciones sociolaborales transitadas se reflejaron en el acceso a alimentos en mayor cantidad y de mayor calidad nutricional, los cuales se valoran por sus sabores/gustos y por la posibilidad de ser compartidos dentro y fuera del ámbito doméstico. Sobre este punto, es interesante la explicación de Carmela —quien llegó a Avellaneda desde el Chaco con apenas dos años de edad—, acerca del gusto por las comidas “campesinas”, como los “guisos carreros”, el cual permea la memoria colectiva del comer en el barrio y sigue estando presente a la hora de seleccionar qué comer."
+     ],
+     "\n",
+     [
+      "blockquote",
+      {},
+      "Yo veía a mi vieja cocinar así, porque yo soy chaqueña pero vine a los dos años, me crié acá con mamá que siempre nos dio de comer cosas así, cosas de campo, entonces me crié viendo todo eso. Y antes acá en San Pedro la mayoría de la gente era todo gente de campo, o sea, siempre vos veías que eran más unidos todo el barrio porque nos juntábamos por ahí entre dos o tres vecinos y tal domingo comemos locro y cada uno llevaba un poco y lo armaban al locro y después cada uno se llevaba su fuente a la casa (...) Te digo que si me das a elegir entre una milanesa y un fideo con tuco o un guiso, prefiero un guiso (Entrevista a Carmela, junio de 2019)."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "Por otro lado, y en coyunturas donde se evidencia un empeoramiento en las condiciones sociolaborales de vida, se modifica la frecuencia de las compras, así como el lugar de abastecimiento y tipo de alimentos adquiridos, a lo que se suma la familiarización del consumo mercantilizado para con hijxs/nietxs que retornaron al hogar. Así, en estos hogares la reorganización de los gastos generales y consumo de alimentos se vincula más bien a la pérdida del poder adquisitivo a raíz de la convergencia entre la devaluación, incremento en el costo de los servicios públicos y precio de los alimentos. Finalmente, se destaca que el rebusque, la inscripción territorializada del comer y familiarización del hambre, surgen como instancias coyunturales vivenciadas en contextos de crisis. Conforme a estas experiencias, estos hogares también participan del entramado socioterritorial, pero desde otro posicionamiento respecto a lo que sucediera con las estrategias precedentes en tanto aquí comparten alimentos con quienes presentan mayores dificultades para comer a diario."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "\n",
+      [
+       "span",
+       {},
+       "4. ¿Y ahora qué? "
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "En el marco del pasaje de la fábrica al barrio que se fue dando en el contexto de retorno de la democracia y como contrapartida al distanciamiento temporal respecto a inserciones laborales en el mercado de trabajo formal, la proximidad territorial de diversas instituciones y organizaciones sociales resultó vital para que los sectores populares pudieran lograr su reproducción cotidiana a lo largo de los años."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "En materia alimentaria cuanto más distante en términos temporales devino el vínculo con el trabajo protegido, el comer más se ancló en el entramado socioterritorial, incluso en tiempos donde las políticas con transferencia de ingresos lograron recomponer ingresos de los sectores históricamente excluidos. En cuanto a estas últimas, al momento en que se realizaron las entrevistas —año 2019—, resultaban insuficientes para resolver las comidas si no se vinculaban con los ingresos laborales dado que, ante el aumento continuo de la inflación, era notoria y persistente la pérdida de su capacidad adquisitiva."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "La fragmentación sociolaboral que vivenciaron los sectores populares desde el retorno de la democracia hasta el año 2019 se vio reflejado en el despliegue de diversas estrategias del rebusque, del aguante y para vivir al día, que no obstante y para el caso de los dos barrios seleccionados, también comparten trazos de vida en común que remiten a saberes compartidos en torno a cómo hacer comidas que rememoran la vida en el campo y en la ciudad. En las estrategias del “rebusque” y el “aguante” el barrio aparece como soporte estructurante del acceso alimentario, aunque la vinculación deviene diferencial. En ambas son las mujeres quienes mayormente se encargan de la gestión de los alimentos en el ámbito doméstico y barrial. Sin embargo y a diferencia de las estrategias del “rebusque” —donde lxs NNyA junto a las mujeres participaban de los itinerarios de la búsqueda y retiro de alimentos en instituciones y organizaciones sociales—, en las estrategias para “aguantar la comida” lxs niñxs participan centralmente de comedores inscriptos en los circuitos educativos y no en los comunitarios. Más allá de estas diferenciaciones, el gusto por las comidas “campesinas” —como guisos “carreros” y locros— sigue estando presente tanto en contextos de exclusión como en aquellas situaciones donde se transitaron mejoras en las condiciones de vida, rebasando en tales sentidos los gustos por necesidad."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "En la actualidad, con las transformaciones en el mundo del trabajo, la retracción de las políticas sociales en general y alimentarias en particular, se reducen aún más las posibilidades de desplegar tácticas para acceder a alimentos de mayor aporte nutricional —como ser carnes, verduras y lácteos— que, valga acotar, son los que aumentan por encima del índice del precio al consumidor. Ante recientes transformaciones que significaron un empeoramiento de las condiciones sociolaborales que no sólo afecta a los sectores populares sino también a sectores medios -quienes, en ocasiones, también presentan dificultades para cubrir canastas básicas alimentarias- cabe preguntarse cómo resuelven las comidas dichos sectores y si, a la heterogeneidad en las estrategias del “rebusque”, del “aguante” y para “vivir al día” se adosan renovadas fragmentaciones al interior de cada una o se reconfiguran, de qué modo y cómo se expresan en las experiencias concretas del comer y qué sucede con los usos de los dineros públicos transferidos que resultara divergente en función del anclaje territorial y de las dinámicas sociolaborales vivenciadas por lxs entrevistadxs."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "Desde el núcleo duro del poder, también cabe volver a indagar acerca de cómo se producen —y por quiénes— las desigualdades que hacen a la actual (im)posibilidad del comer, en un contexto donde nuevamente a la inflación se suma la erosión de la industria -sobre todo de las pequeñas y medianas-, cuestiones que repercuten en la pérdida del poder adquisitivo y de puestos de trabajo de calidad. A esto se agrega un cuentapropismo cada vez más diverso y una emergente informalidad mediada por la digitalización de la vida, lo cual imprime un renovado escenario para repensar la fragmentación de/en los sectores populares —incluso en términos de brechas generacionales— y, particularmente, la resolución de las comidas."
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-back"
+     },
+     "\n",
+     [
+      "p",
+      {},
+      "\n",
+      [
+       "span",
+       {},
+       "Referencias bibliográficas"
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "id": "t-redalyc_775646007_ref1"
+      },
+      "Aguirre, P. (2005). ",
+      [
+       "span",
+       {},
+       "Estrategias de consumo. Qué comen los argentinos que comen"
+      ],
+      ". CIEPP- Miño y Dávila."
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "id": "t-redalyc_775646007_ref2"
+      },
+      "Ambrosi, C. (2024). Modos de resolver las comidas en sectores populares de Argentina ante procesos de (des)igualdad y fragmentación sociolaboral (1983-2019) [Tesis de posgrado]. Universidad Nacional de La Plata, Facultad de Humanidades y Ciencias de la Educación. Memoria Académica. ",
+      [
+       "a",
+       {
+        "href": "https://www.memoria.fahce.unlp.edu.ar/tesis/te.2793/te.2793.pdf"
+       },
+       "https://www.memoria.fahce.unlp.edu.ar/tesis/te.2793/te.2793.pdf"
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "id": "t-redalyc_775646007_ref3"
+      },
+      "Basualdo, E. y Manzanelli, P. (2022). ",
+      [
+       "span",
+       {},
+       "Los sectores dominantes en la Argentina: estrategias de construcción de poder, desde el siglo XX hasta el presente"
+      ],
+      ". Siglo XXI Editores."
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "id": "t-redalyc_775646007_ref4"
+      },
+      "Benza, G. y Kessler, G. (2021). ",
+      [
+       "span",
+       {},
+       "La ¿nueva? estructura social de América Latina. Cambios y persistencias después de la ola de gobiernos progresistas"
+      ],
+      ". Siglo XXI Editores."
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "id": "t-redalyc_775646007_ref5"
+      },
+      "Borrell, J. (2019). ",
+      [
+       "span",
+       {},
+       "Geopolítica y alimentos. El desafío de la seguridad alimentaria frente a la competencia internacional por los recursos naturales"
+      ],
+      ". Biblos."
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "id": "t-redalyc_775646007_ref6"
+      },
+      "Castellani, A. (2021). La consolidación de la \"patria contratista\" durante la última dictadura cívico-militar. En Schorr, M. (Comp.), ",
+      [
+       "span",
+       {},
+       "El viejo y el nuevo poder económico en la Argentina"
+      ],
+      ". Siglo XXI Editores."
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "id": "t-redalyc_775646007_ref7"
+      },
+      "D´Amico, V. (2018). Políticas sociales y prácticas ciudadanas a partir de la implementación de la Asignación Universal por Hijo en Argentina: 2009-2015 [Tesis de Doctorado]. Universidad Nacional de General Sarmiento). ",
+      [
+       "a",
+       {
+        "href": "https://repositorio.ungs.edu.ar/bitstream/handle/UNGS/406/Tesis_D%27Amico.pdf?sequence=1&isAllowed=y"
+       },
+       "https://repositorio.ungs.edu.ar/bitstream/handle/UNGS/406/Tesis_D%27Amico.pdf?sequence=1&isAllowed=y"
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "id": "t-redalyc_775646007_ref8"
+      },
+      "Donza, E. (2015). Cambios de las capacidades de consumo en la estructura social urbana argentina. En J. Lindenboim y A. Salvia (Coords.). ",
+      [
+       "span",
+       {},
+       "Hora de balance: proceso de acumulación, mercado de trabajo y bienestar: Argentina 2002-2014"
+      ],
+      ". EUDEBA."
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "id": "t-redalyc_775646007_ref9"
+      },
+      "Grassi, E. (2018). Estado social y desbloqueo de la sociedad neoliberal. Transformación del trabajo y de la política social. En E. Grassi y S. Hintze (Coords.), ",
+      [
+       "span",
+       {},
+       "Tramas de la desigualdad. Las políticas y el bienestar en disputa"
+      ],
+      ". Prometeo"
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "id": "t-redalyc_775646007_ref10"
+      },
+      "Ortiz, R. y Schorr, M. (2021). ¿Década perdida? Los grupos económicos en el gobierno de Alfonsín. En M. Schorr (Comp.), ",
+      [
+       "span",
+       {},
+       "El viejo y el nuevo poder económico en la Argentina"
+      ],
+      ". Siglo XXI Editores."
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "id": "t-redalyc_775646007_ref11"
+      },
+      "Svampa, M. (2013). Consenso de los commodities y lenguajes de valoración en América Latina. ",
+      [
+       "span",
+       {},
+       "Revista Nueva Sociedad"
+      ],
+      ", 244, 30-36. ",
+      [
+       "a",
+       {
+        "href": "https://ri.conicet.gov.ar/handle/11336/6451"
+       },
+       "https://ri.conicet.gov.ar/handle/11336/6451"
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "Notas"
+     ],
+     "\n",
+     [
+      "span",
+      {
+       "id": "t-fn1"
+      },
+      "\n",
+      [
+       "span",
+       {},
+       "1"
+      ],
+      " A mediados del siglo pasado, la conformación y difusión del sistema agroalimentario internacional fue propulsado por Estados Unidos cuando hizo de los problemas del hambre y la pobreza un asunto del orden geopolítico (",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646007_ref5",
+        "id": "t-llamada-redalyc_775646007_ref5-1"
+       },
+       "Borrell, 2019"
+      ],
+      "). Con la llegada del nuevo milenio dicho sistema se consolidó con algunas modificaciones. Si bien su estructuración no se modificó, la presencia de potencias emergentes trajo algunas transformaciones respecto a quienes detentan el poder, aunque la tendencia a la concentración y expansión de las commodities persistió. Para el caso de América Latina y Argentina, dicha consolidación se tradujo en un proceso de subordinación de éstos a partir de la reprimarización y, biotecnología mediante, avance del negocio de las commodities agrícolas para consumo no humano, cuestiones que conllevaron a un incremento en el precio de los alimentos y mayores niveles de inseguridad alimentaria."
+     ],
+     "\n",
+     "\n",
+     [
+      "p",
+      {},
+      "\n",
+      [
+       "span",
+       {},
+       "Recepción: "
+      ],
+      " 01 marzo  2026"
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "\n",
+      [
+       "span",
+       {},
+       "Aprobación: "
+      ],
+      " 01 abril  2026"
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "\n",
+      [
+       "span",
+       {},
+       "Publicación: "
+      ],
+      " 01 agosto  2026"
+     ],
+     "\n",
+     [
+      "br",
+      {}
+     ],
+     "\n",
+     [
+      "br",
+      {}
+     ],
+     "\n",
+     "\n",
+     [
+      "a",
+      {
+       "href": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      " ",
+      [
+       "figura",
+       {
+        "alt": "Imagen"
+       }
+      ],
+      " Obra bajo Licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional"
+     ],
+     "\n",
+     [
+      "figura",
+      {
+       "alt": "Imagen"
+      }
+     ],
+     "\n",
+     "\n",
+     "\n",
+     [
+      "span",
+      {
+       "id": "t-logo-derecha"
+      },
+      "\n",
+      [
+       "a",
+       {
+        "href": "https://www.fahce.unlp.edu.ar/facultad/secretarias-y-prosecretarias/prosecretaria-de-gestion-editorial-y-difusion/ediciones-de-la-fahce"
+       },
+       " \n",
+       [
+        "figura",
+        {
+         "alt": "ediciones_fahce"
+        }
+       ],
+       "\n"
+      ],
+      "\n"
+     ],
+     "\n\n",
+     [
+      "span",
+      {
+       "id": "t-creditos"
+      },
+      "\n",
+      [
+       "span",
+       {},
+       [
+        "figura",
+        {}
+       ],
+       [
+        "sup",
+        {},
+        "Ediciones de la FaHCE utiliza"
+       ],
+       [
+        "a",
+        {
+         "href": "http://portal.amelica.org/ameli"
+        },
+        [
+         "figura",
+         {}
+        ]
+       ],
+       " ",
+       [
+        "figura",
+        {}
+       ]
+      ],
+      [
+       "br",
+       {}
+      ],
+      "\n",
+      "\n"
+     ],
+     "\n"
+    ]
+   ]
+  ]
+ ]
+};

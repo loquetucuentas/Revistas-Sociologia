@@ -1,0 +1,357 @@
+{
+ "version": 1,
+ "recogido": "2026-10-18T11:26:10+00:00",
+ "doi": "10.32399/icsyh.bvbuap.2954-4300.2026.7.14.901",
+ "titulo": "Respuestas juveniles a contextos de discriminación",
+ "revista": "2954-4300",
+ "numero": "2026",
+ "licencia": {
+  "codigo": "by-nc-sa",
+  "nombre": "CC BY-NC-SA 4.0",
+  "nombre_completo": "Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional",
+  "url": "https://creativecommons.org/licenses/by-nc-sa/4.0",
+  "url_legal": "https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.es"
+ },
+ "fuente": {
+  "url": "https://bajoelvolcanx.buap.mx/index.php/bajovolc/article/download/901/761?inline=1",
+  "formato": "HTML",
+  "plataforma": "ojs-galerada",
+  "pagina": "https://bajoelvolcanx.buap.mx/index.php/bajovolc/article/view/901"
+ },
+ "autores_cita": [
+  {
+   "apellidos": "Moreno Hernández",
+   "nombre_pila": "Hugo César",
+   "nombre": null
+  },
+  {
+   "apellidos": "Ramírez López",
+   "nombre_pila": "Alejandra",
+   "nombre": null
+  },
+  {
+   "apellidos": "Medina Aguilar",
+   "nombre_pila": "Perla",
+   "nombre": null
+  }
+ ],
+ "avisos_derechos": [
+  "Derechos de autor 2026 Hugo César Moreno Hernández, Alejandra Ramírez López, Perla Medina Aguilar",
+  "Licencia Derechos de autor 2026 Hugo César Moreno Hernández, Alejandra Ramírez López, Perla Medina Aguilar Esta obra está bajo una licencia internacional Creative Commons Atribución-NoComercial-CompartirIgual 4.0. Las autoras y los autores conservan los derechos de autor sobre su obra y ceden a Bajo el Volcán. Revista del Posgrado de Sociología. BUAP únicamente el derecho de primera publicación. Revista de acceso abierto diamante: sin costo para autoras, autores ni personas lectoras."
+ ],
+ "idioma_principal": "es",
+ "indice": [
+  {
+   "id": "t-seccion-1",
+   "nivel": 2,
+   "texto": "Respuestas juveniles a contextos de discriminación",
+   "lang": null
+  }
+ ],
+ "vueltas": {},
+ "contenido": [
+  "\n",
+  [
+   "section",
+   {},
+   "\n",
+   [
+    "strong",
+    {},
+    [
+     "em",
+     {},
+     "Bajo el Volcán. Revista del Posgrado de Sociología. BUAP"
+    ]
+   ],
+   ", Año 7, Núm. 14, mayo – octubre de 2026, pp. 9-16.",
+   [
+    "br",
+    {}
+   ],
+   "e-ISSN 2954-4300 · ",
+   [
+    "a",
+    {
+     "href": "https://doi.org/10.32399/ICSYH.bvbuap.2954-4300.2026.7.14.901"
+    },
+    "https://doi.org/10.32399/ICSYH.bvbuap.2954-4300.2026.7.14.901"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Dossier temático"
+   ],
+   "\n",
+   [
+    "h2",
+    {
+     "id": "t-seccion-1"
+    },
+    "Respuestas juveniles a contextos de discriminación"
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Youth responses to contexts of discrimination"
+   ],
+   "\n",
+   "\n",
+   [
+    "p",
+    {},
+    [
+     "span",
+     {},
+     "Hugo César Moreno Hernández"
+    ],
+    [
+     "br",
+     {}
+    ],
+    [
+     "span",
+     {},
+     "Benemérita Universidad Autónoma de Puebla, Puebla, México"
+    ],
+    [
+     "br",
+     {}
+    ],
+    [
+     "span",
+     {},
+     "ORCID: ",
+     [
+      "a",
+      {
+       "href": "https://orcid.org/0000-0003-1709-3955"
+      },
+      "https://orcid.org/0000-0003-1709-3955"
+     ]
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    [
+     "span",
+     {},
+     "Alejandra Ramírez López"
+    ],
+    [
+     "br",
+     {}
+    ],
+    [
+     "span",
+     {},
+     "Escuela Nacional de Antropología e Historia, Ciudad de México, México"
+    ],
+    [
+     "br",
+     {}
+    ],
+    [
+     "span",
+     {},
+     "ORCID: ",
+     [
+      "a",
+      {
+       "href": "https://orcid.org/0000-0001-5576-847X"
+      },
+      "https://orcid.org/0000-0001-5576-847X"
+     ]
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    [
+     "span",
+     {},
+     "Perla Medina Aguilar"
+    ],
+    [
+     "br",
+     {}
+    ],
+    [
+     "span",
+     {},
+     "Escuela Nacional de Antropología e Historia, Ciudad de México, México"
+    ],
+    [
+     "br",
+     {}
+    ],
+    [
+     "span",
+     {},
+     "ORCID: ",
+     [
+      "a",
+      {
+       "href": "https://orcid.org/0000-0001-8338-6903"
+      },
+      "https://orcid.org/0000-0001-8338-6903"
+     ]
+    ]
+   ],
+   "\n",
+   "\n",
+   [
+    "p",
+    {},
+    "Las juventudes en México viven atravesadas por un complejo entramado de desigualdades que se manifiestan en el trabajo, el cuerpo, el territorio y, en su límite más extremo, en la violencia desciudadanizante y juvenicida. Sin embargo, incluso en escenarios marcados por la precarización y la discriminación estructural, las juventudes despliegan formas de agencia que desbordan las narrativas que históricamente las han colocado como población “de riesgo”, “vulnerable”, “pasiva” o “problemática”. Este dossier reúne investigaciones que, desde metodologías cualitativas, cuantitativas y mixtas, dialogan con una perspectiva que entiende la experiencia juvenil como un campo social de elaboración de sentido, en el cual las y los jóvenes no sólo reaccionan frente a las estructuras que los atraviesan, sino que interpretan, negocian y reconfiguran su posición en el mundo social. La experiencia juvenil no se limita a un conjunto de vivencias individuales, sino que se constituye como una forma situada de habitar la desigualdad, el riesgo y la incertidumbre, produciendo prácticas, narrativas y formas de socialidad que permiten sostener la vida cotidiana incluso en contextos adversos. Desde esta perspectiva, comprender las respuestas juveniles implica atender a las formas en que las juventudes construyen sentido, producen comunidad y elaboran horizontes de futuro desde su propio presente."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "El enfoque de análisis de la mayoría de los textos que componen este número, articula múltiples categorías que complejizan la noción de lo joven y lo juvenil, generando un complejo entramado entre múltiples condiciones que componen las experiencias escolares, de trabajo, socialidad, socialización y ocio de las personas jóvenes. En esta articulación, cada uno de los autores y autoras encuentra la potencia creadora, crítica y práctica de los jóvenes, pero también muestra las reproducciones de relaciones de poder o mandatos de género, dejando ver la negociación constante de las juventudes frente a la cultura parental. En este sentido, no son leídos como meros agentes de cambio o de futuro, sino como cocreadores de su propio presente que encuentran formas de habitar las desigualdades estructurales que les atraviesan."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Este tipo de análisis es de suma importancia en el contexto latinoamericano, donde las desigualdades son profundas, múltiples y estructurales, al mismo tiempo que las respuestas juveniles también presentan multiplicidad y profundidad. Aunque estas respuestas no siempre transforman de manera inmediata las estructuras que producen desigualdad, sí inciden en lo estructurante de la vida social, generando desplazamientos culturales, simbólicos y comunitarios que reconfiguran las formas de habitar dichas estructuras. Los textos que se presentan nos invitan a pensar en clave juvenil desde el ahora, tomando como ejes el cuerpo, la experiencia, el riesgo, la precariedad y la esperanza desde sus propios términos."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "En un primer bloque, se analizan las transformaciones del trabajo juvenil en economías digitales y urbanas: repartidores de última milla y vendedoras nenis enfrentan dispositivos algorítmicos que externalizan riesgos, fragmentan tiempos y profundizan desigualdades, pero también construyen estrategias de autoprotección, colaboración y manejo territorial que permiten sostener la vida en condiciones adversas. En un segundo bloque, los textos sobre moda, certámenes de belleza e ideología mestizante examinan cómo el cuerpo joven se convierte en una superficie de disputa entre normas de género, racialización y criterios estéticos que operan como mecanismos de inclusión y exclusión simbólica. Lejos de quedar atrapadas en estas prescripciones, las y los jóvenes despliegan formas de agencia que reescriben los márgenes de lo deseable, lo legítimo y lo visible."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "El tercer bloque se adentra en la relación entre juventudes, territorio e instituciones. Desde la organización de la primera marcha del orgullo en Cuquío, Jalisco, hasta el análisis de políticas educativas en contextos de desigualdad, estos trabajos muestran cómo la pertenencia, la socialidad y las trayectorias escolares se negocian en espacios atravesados por el adultocentrismo, las brechas educativas y las tensiones entre reconocimiento y exclusión. Finalmente, el último bloque sitúa las experiencias juveniles en el marco más amplio de la violencia estructural: la desciudadanización, el juvenicidio, el desplazamiento forzado y la necropolítica revelan cómo el Estado, la delincuencia organizada y las omisiones institucionales producen vidas precarizadas y desechables, al tiempo que las juventudes buscan formas de sobrevivencia y movilidad en medio de la desprotección."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Conjuntamente, estos textos permiten observar que las juventudes no solo padecen las lógicas de la desigualdad; también las interpretan, las disputan y las transforman. El dossier muestra así, respuestas juveniles que configuran nuevas cartografías de la experiencia social: desde el algoritmo y la calle hasta la escuela, el territorio rural y la frontera. Al reunir estas investigaciones, abonamos al enfoque de juventud para comprender el fenómeno en su pluralidad, porque aseveramos que el acercamiento debe ser como juventudes y no como categoría homogénea, sino como actor social plural, capaz de producir sentidos, resistencias y futuros posibles aun en los escenarios más hostiles."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Así, los trabajos aquí reunidos permiten comprender que las juventudes en México, y un poco también en Latinoamérica, viven atravesadas por fuerzas sociales que, aunque diversas en su expresión —precarización laboral, violencia simbólica, discriminación racial, desigualdad educativa, desciudadanización—, comparten un sustrato estructural común: la reproducción cotidiana de un orden que jerarquiza cuerpos, territorios y vidas. Aun así, lejos de situarse únicamente como víctimas de estas tramas, las y los jóvenes exhiben una capacidad constante de respuesta, negociación y creación que complejiza las narrativas con las que tradicionalmente se les ha descrito."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Al recorrer los distintos bloques temáticos vemos cómo, desde el trabajo digital hasta la moda, desde los certámenes comunitarios hasta las marchas rurales de orgullo LGBTI+, desde la escuela hasta los campos de la violencia estatal y delincuencial, las juventudes despliegan repertorios de agencia que no siempre son ruidosos, pero sí profundamente significativos. Muchas de estas respuestas juveniles operan en una escala micropolítica que no siempre es visible en los análisis estructurales tradicionales. Se trata de tácticas cotidianas mediante las cuales reorganizan tiempos, territorios, afectos y redes de apoyo para hacer habitable un entorno marcado por la precarización y la incertidumbre. Estas prácticas —que pueden parecer pequeñas o dispersas— constituyen, en realidad, ",
+    [
+     "strong",
+     {},
+     "formas de gestión cotidiana de la desigual-"
+    ],
+    " ",
+    [
+     "strong",
+     {},
+     "dad"
+    ],
+    ", a través de las cuales las y los jóvenes negocian márgenes de autonomía, construyen espacios de cuidado y disputan, de manera situada, los dispositivos que buscan regular sus vidas. Son prácticas que reorganizan el territorio, habilitan redes de cuidado, desafían mandatos de género y raza, disputan la visibilidad pública o, silenciosamente, resisten mediante la reconfiguración del día a día. Estas acciones muestran que la agencia juvenil no es solo una capacidad individual, sino también una forma de producir comunidad, sentido y futuro en contextos de desigualdad persistente."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Los textos también revelan los límites y contradicciones de los arreglos institucionales que se suponen garantes de bienestar: plataformas digitales que precarizan mientras ofrecen “oportunidades”, mercados creativos que celebran la diversidad al tiempo que la norman, políticas educativas que sostienen trayectorias sin lograr reducir brechas, y un Estado que oscila entre la protección y la desposesión, especialmente en territorios marcados por la violencia armada y el abandono social. En este marco, la experiencia juvenil emerge como un campo donde se condensan las tensiones más profundas de la vida contemporánea: entre autonomía y explotación, entre reconocimiento y exclusión, entre esperanza y riesgo."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Este dossier no busca ofrecer una visión totalizante ni definitiva, sino abrir un espacio plural de análisis que permita reconocer la diversidad de juventudes que habitan el país y la multiplicidad de formas en que enfrentan las desigualdades. En conjunto, los trabajos muestran que mirar las respuestas juveniles no es sólo un ejercicio descriptivo: es una forma de interpelar a las políticas, a las instituciones y a la sociedad en su conjunto, para repensar las condiciones que hacen posible o imposible la vida digna de millones de jóvenes."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Este dossier es, por tanto, una invitación a seguir ensanchando las miradas y profundizando los diálogos entre investigación, acción comunitaria y formulación de políticas. Es reconocer que, en medio de escenarios precarios y violentos, las juventudes continúan imaginando y construyendo futuros que desbordan los marcos que, históricamente, han tratado de contenerlas. Y es, sobre todo, un llamado a que estos futuros no dependan únicamente de estrategias individuales de resistencia, sino de transformaciones colectivas que garanticen justicia, equidad y la posibilidad de vivir sin miedo."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "En ese sentido, se hace palpable la necesidad de establecer marcos legales específicos para repartidores independientes y vendedores informales digitalizados que garanticen una remuneración mínima por hora, pago por tiempos de espera, límites a la gamificación como mecanismo disciplinario con transparencia en puntuaciones y algoritmos, así como integrar a las plataformas a un régimen obligatorio de seguridad social proporcional a horas efectivas de trabajo. En cuanto a la seguridad y prevención de la violencia, se antoja necesario crear protocolos municipales de seguridad en entregas, donde se establezcan puntos seguros de encuentro monitoreados en zonas de alto riesgo; convenios con comercios para fungir como “puntos violetas” para mujeres en intercambios; y campañas de prevención del acoso digital y urbano. En lo que refiere a la infraestructura urbana, además de asegurar la contribución de las plataformas con tributación justa, también garantizar el acceso a baños públicos, iluminación, transporte nocturno y espacios de descanso cerca de centros logísticos, ayudaría a dignificar el trabajo digitalizado y disminuir la precarización de estas labores, igualmente al diseñar rutas que reduzcan riesgos de tránsito, evitando zonas conocidas por violencia o extorsión. Ante las circunstancias económicas y las necesidades específicas de las mujeres jóvenes trabajadoras conocidas como nenis, buscando mejorar las condiciones en las que realizan sus actividades, establecer programas de capacitación gratuita en marketing, precios, finanzas básicas y fotografía digital, si bien no elimina la precarización a la que se exponen, sí coadyuvaría a disminuirla, sobre todo si se acompaña de líneas de microcrédito blando para negocios informales gestionados por mujeres jóvenes."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Por otro lado, en cuanto a la lucha contra toda forma de discriminación social, se deben buscar vías que limiten prácticas de discriminación por imagen corporal, tono de piel y rasgos fenotípicos en las industrias creativas, las agencias de modelaje, en los concursos comunitarios y en la publicidad en general. Crear observatorios juveniles independientes que monitoreen cómo se definen los perfiles de modelos, los criterios de evaluación en certámenes, las prácticas discriminatorias en contratación y el cumplimiento de códigos de ética, no con un sentido punitivo, sino como instancia que permita el diseño e implementación de incentivos a la diversidad en medios e industrias culturales, ya sea a través de estímulos fiscales y financiamientos para iniciativas que promuevan corporalidades diversas, perfiles racializados y jóvenes de comunidades marginadas, junto como programas de formación para jóvenes en moda independiente y producción audiovisual con enfoque de derechos."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Si bien lo anterior promueve el fortalecimiento de la ciudadanía juvenil en una sociedad donde el contexto social parece más desciudadanizante e, incluso, juvenicida, según lo que se muestra en el trabajo sobre las expresiones de la juventud LGBTI+ en contextos rurales, es urgente crear espacios comunitarios seguros para juventudes LGBTI+ en pueblos y municipios pequeños; capacitar a las autoridades locales en no discriminación, enfoque de género y diversidad sexual; y fomentar programas de apoyo a eventos comunitarios (festivales, marchas, talleres) organizados por jóvenes."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Sin duda, el fenómeno de la violencia social en nuestro país tiene como actores centrales a las juventudes, las cuales son desciudadanizadas tanto por los procesos de cooptación delincuencial como por el contexto estructural y la respuesta gubernamental, altamente reactiva. Por ello, la desmilitarización progresiva y el fortalecimiento de cuerpos policiacos civiles para la seguridad interior, no sólo son aspectos esenciales para disminuir la violencia, sino también una exigencia a los gobiernos, quienes deben implementar policías civiles con fuerte atención a los derechos humanos, con una perspectiva de prevención comunitaria, con protocolos de búsqueda de personas desaparecidas y una comunicación no violenta hacia los sectores juveniles más desfavorecidos y vulnerables a la cooptación de la delincuencia organizada. Esto se complementaría con la creación de un sistema nacional de cuidado y protección para juventudes en riesgo, con mecanismos de alerta temprana para jóvenes expuestos al reclutamiento por parte de la delincuencia organizada, el desplazamiento forzado por violencias y la desaparición forzada. Implementando centros de refugio y protección inmediata para jóvenes que huyen de diversas violencias; políticas de búsqueda y justicia con enfoque juvenil, con protocolos diferenciados para jóvenes desaparecidos (equipos especializados, coordinación interinstitucional, tiempos máximos obligatorios de respuesta)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Así pues, las tramas conceptuales, teóricas y metodológicas que articulan el presente dossier —según categorías clave, enfoques y técnicas de cada propuesta— a través de los puentes transversales (precarización, agencia, género, racialidad, territorio, desciudadanización), logran tejer un panorama diverso sobre las “Respuestas juveniles a contextos de discriminación, precarización y exclusión”, sin suponer cierres absolutos, sino abriendo brechas para acercamientos investigativos capaces de profundizar y ampliar el campo sobre las juventudes. El eje conceptual de nuestra convocatoria se ancló en el análisis de las Juventudes situadas en las desigualdades estructurales (clase, género, raza, territorio, sexualidad) y la precarización del trabajo, la vivienda y los derechos sociales y políticos; en cuanto a las respuestas juveniles, se puso énfasis en la agencia, las resistencias, la organización y la creación. Los artículos recibidos no sólo abordan estos elementos, sino que abonan a pensar en otro tipo de llamadas que descubran otras complejidades. En ese sentido, desde el enfoque de juventud, que privilegia una mirada interseccional y latinoamericana sobre exclusión/criminalización, con el giro desde la narrativa de pasividad juvenil hacia agenciamientos (individuales y colectivos), se piensa esta entrega como una plataforma desde la cual se imaginen nuevos acercamientos hacia las juventudes con investigaciones diversas para mapear repertorios de respuesta juvenil. Y, por otro lado, también reconocer a las y los jóvenes como productores de conocimiento social sobre sus propias condiciones de vida. Las prácticas, narrativas y formas de organización juvenil constituyen interpretaciones situadas de las desigualdades que atraviesan sus trayectorias. Escuchar estas voces y analizar estas experiencias permite ampliar los marcos analíticos desde los cuales se estudian las juventudes en América Latina, incorporando perspectivas que emergen desde los propios territorios, cuerpos y socialidades juveniles."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Hugo César Moreno Hernández, Alejandra Ramírez López y"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Perla Medina Aguilar"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Cómo citar: ",
+    [
+     "em",
+     {},
+     "Bajo el Volcán. Revista del Posgrado de Sociología. BUAP"
+    ],
+    ", Año 7, Núm. 14, mayo – octubre de 2026, pp. 9-16. https://doi.org/10.32399/ICSYH.bvbuap.2954-4300.2026.7.14.901"
+   ],
+   [
+    "p",
+    {},
+    [
+     "a",
+     {
+      "href": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
+     },
+     "Licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional"
+    ],
+    ". Publicación de acceso abierto diamante editada por la Benemérita Universidad Autónoma de Puebla."
+   ],
+   "\n"
+  ],
+  "\n"
+ ]
+}

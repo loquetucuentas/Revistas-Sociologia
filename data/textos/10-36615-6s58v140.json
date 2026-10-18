@@ -1,0 +1,6481 @@
+{
+ "version": 1,
+ "recogido": "2026-10-18T11:34:00+00:00",
+ "doi": "10.36615/6s58v140",
+ "titulo": "Faut-il écouter les personnes dominantes ? Connaissance située et recherche impliquée auprès des Françaises blanches employant des migrantes haïtiennes noires.",
+ "revista": "3006-841X",
+ "numero": "v21-n1-2026",
+ "licencia": {
+  "codigo": "by",
+  "nombre": "CC BY 4.0",
+  "nombre_completo": "Creative Commons Atribución 4.0 Internacional",
+  "url": "https://creativecommons.org/licenses/by/4.0",
+  "url_legal": "https://creativecommons.org/licenses/by/4.0/legalcode.es"
+ },
+ "fuente": {
+  "url": "https://journals.uj.ac.za/index.php/csr/en/article/download/5008/2706",
+  "formato": "XML JATS",
+  "plataforma": "JATS",
+  "pagina": "https://journals.uj.ac.za/index.php/csr/article/view/5008"
+ },
+ "autores_cita": [
+  {
+   "apellidos": "Joseph",
+   "nombre_pila": "Rose-Myrlie",
+   "nombre": null
+  }
+ ],
+ "avisos_derechos": [
+  "©Author(s)",
+  "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
+ ],
+ "idioma_principal": "en",
+ "indice": [
+  {
+   "id": "t-seccion-1",
+   "nivel": 2,
+   "texto": "Introduction",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-2",
+   "nivel": 2,
+   "texto": "Méthodologie",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-3",
+   "nivel": 2,
+   "texto": "Cadre conceptuel principal : Etre insider ou outsider dans la recherche, entre analyse de l’implication et point de vue situé",
+   "lang": "fr"
+  },
+  {
+   "id": "t-seccion-4",
+   "nivel": 2,
+   "texto": "Analyser les conditions raciales dans les différentes étapes de l’enquête",
+   "lang": "fr"
+  },
+  {
+   "id": "t-seccion-5",
+   "nivel": 3,
+   "texto": "Madame Forbe : care et contre-don dans la recherche",
+   "lang": "fr"
+  },
+  {
+   "id": "t-seccion-6",
+   "nivel": 3,
+   "texto": "Madame Laguerre : inversion et rejet dans l’enquête",
+   "lang": "fr"
+  },
+  {
+   "id": "t-seccion-7",
+   "nivel": 3,
+   "texto": "Madame Aix : bienveillance et différence",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-8",
+   "nivel": 2,
+   "texto": "Ce racisme à peine dévoilé dans le discours",
+   "lang": "fr"
+  },
+  {
+   "id": "t-seccion-9",
+   "nivel": 2,
+   "texto": "La parole au cœur de la méthode : co-construction clinique et changement social",
+   "lang": "fr"
+  },
+  {
+   "id": "t-seccion-10",
+   "nivel": 2,
+   "texto": "Conclusion: Si j’étais Bretonne...",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-11",
+   "nivel": 2,
+   "texto": "Références",
+   "lang": null
+  }
+ ],
+ "vueltas": {
+  "t-r5": "t-llamada-r5-1",
+  "t-r36": "t-llamada-r36-1",
+  "t-r10": "t-llamada-r10-1",
+  "t-r40": "t-llamada-r40-1",
+  "t-r31": "t-llamada-r31-1",
+  "t-r28": "t-llamada-r28-1",
+  "t-r27": "t-llamada-r27-1",
+  "t-r18": "t-llamada-r18-1",
+  "t-r7": "t-llamada-r7-1",
+  "t-r23": "t-llamada-r23-1",
+  "t-r35": "t-llamada-r35-1",
+  "t-r4": "t-llamada-r4-1",
+  "t-r3": "t-llamada-r3-1",
+  "t-fn1": "t-llamada-fn1-1",
+  "t-r51": "t-llamada-r51-1",
+  "t-r1": "t-llamada-r1-1",
+  "t-r22": "t-llamada-r22-1",
+  "t-r42": "t-llamada-r42-1",
+  "t-r33": "t-llamada-r33-1",
+  "t-r46": "t-llamada-r46-1",
+  "t-r39": "t-llamada-r39-1",
+  "t-fn2": "t-llamada-fn2-1",
+  "t-fn3": "t-llamada-fn3-1",
+  "t-r41": "t-llamada-r41-1",
+  "t-r44": "t-llamada-r44-1",
+  "t-r17": "t-llamada-r17-1",
+  "t-fn4": "t-llamada-fn4-1",
+  "t-fn5": "t-llamada-fn5-1",
+  "t-r37": "t-llamada-r37-1",
+  "t-fn6": "t-llamada-fn6-1",
+  "t-fn7": "t-llamada-fn7-1",
+  "t-r26": "t-llamada-r26-1",
+  "t-r48": "t-llamada-r48-1",
+  "t-r2": "t-llamada-r2-1",
+  "t-r9": "t-llamada-r9-1",
+  "t-r12": "t-llamada-r12-1",
+  "t-r38": "t-llamada-r38-1",
+  "t-r24": "t-llamada-r24-1",
+  "t-r15": "t-llamada-r15-1",
+  "t-r14": "t-llamada-r14-1",
+  "t-r34": "t-llamada-r34-1",
+  "t-fn8": "t-llamada-fn8-1",
+  "t-r47": "t-llamada-r47-1",
+  "t-r29": "t-llamada-r29-1",
+  "t-r21": "t-llamada-r21-1"
+ },
+ "contenido": [
+  [
+   "section",
+   {
+    "id": "t-s1"
+   },
+   "\n",
+   [
+    "h2",
+    {
+     "id": "t-seccion-1"
+    },
+    "Introduction"
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "fr"
+    },
+    "Travailler sur le racisme ne se résume pas à produire des connaissances sur ce rapport social mais suppose également de tenir compte de la manière dont il influence les relations de recherche dont émergent ces savoirs. Dans leur introduction sur les « conditions raciales » de l’enquête qu’elles présentent comme la manière dont la race configure et structure les pratiques d’enquête, ",
+    [
+     "a",
+     {
+      "href": "#t-r5",
+      "id": "t-llamada-r5-1"
+     },
+     "Daphné Bédinadé et Evélia Mayenga (2023)"
+    ],
+    " affirment : « Les effets de la position du·de la cher-cheur·se dans les rapports sociaux de race sur la construction du dispositif d’enquête sont pourtant déterminants, en particulier (mais non seulement) lorsque l’enquête se donne pour ambition de rendre compte des mécanismes de la race et du racisme » (9). Cet article vise un retour réflexif sur la relation entre moi, doctorante migrante haïtienne noire, et trois patronnes françaises blanches que j’ai questionnées dans le cadre de ma thèse de doctorat en sociologie clinique et en études féministes (",
+    [
+     "a",
+     {
+      "href": "#t-r36",
+      "id": "t-llamada-r36-1"
+     },
+     "Joseph, 2015"
+    ],
+    "). J’ai analysé le fait que des femmes paysannes haïtiennes deviennent travailleuses domestiques pour permettre à celles des villes d’accéder à plus d’égalité professionnelle avec les hommes et de prétendre à la migration internationale où elles deviennent, à leur tour, des travailleuses domestiques au service de l’émancipation des femmes du Nord, les Françaises blanches de la classe moyenne par exemple. J’ai questionné à la fois ces rapports sociaux et les processus de subjectivation de ces femmes, migrantes ou non, travailleuses domestiques ou patronnes. Et en plus d’aborder des résultats théoriques sur le racisme et les positions d’",
+    [
+     "i",
+     {},
+     "insider"
+    ],
+    " ou d’",
+    [
+     "i",
+     {},
+     "outsider"
+    ],
+    ", en plus de présenter les approches épistémologiques féministes intersectionnelles et cliniques où s’inscrivent ces postures, je me suis interrogé sur la relation de recherche particulière qui a fait émerger ces connaissances. J’analyserai, dans les entretiens avec les femmes françaises, des phénomènes comme le don et le contre-don, le ",
+    [
+     "i",
+     {},
+     "care"
+    ],
+    " et la bienveillance, ainsi que l’inversion ou le rejet. Je questionnerai l’adaptation de la clinique à l’enquête auprès des dominant-es, en regardant notamment la co-construction du savoir et la visée émancipatrice. Cet article permet de prendre en compte les personnes chercheuses, les assignations et formes de racialisation dont elles peuvent faire l’objet dans le processus de production du savoir sur les rapports sociaux de race."
+   ],
+   "\n"
+  ],
+  [
+   "section",
+   {
+    "id": "t-s2"
+   },
+   "\n",
+   [
+    "h2",
+    {
+     "id": "t-seccion-2"
+    },
+    "Méthodologie"
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "fr"
+    },
+    "Dans ma recherche doctorale sur l’articulation des rapports sociaux de sexe, de classe et de race dans la migration et le travail des femmes haïtiennes, j’ai réalisé des entretiens avec 69 femmes, de 2009 à 2012. Elles ont été écoutées à plusieurs reprises, individuellement ou en groupe, à l’aide d’outils cliniques comme l’arbre généalogique, le sociodrame, le psychodrame émotionnel, le photolangage. Pour comprendre la chaîne de migration et de travail qui transformait les femmes migrantes en travailleuses domestiques tout en exploitant leurs patronnes dans le travail non-domestique, j’ai questionné cinq catégories de femmes. En Haïti, j’ai interrogé des paysannes susceptibles de migrer vers la capitale au risque de devenir travailleuses domestiques ; des servantes de Port-au-Prince et des patronnes susceptibles de migrer vers l’étranger. En France j’ai écouté non seulement des migrantes haïtiennes mais aussi des Françaises qui les employaient. Au fil des rencontres, j’ai sélectionné 11 d’entre elles pour des entretiens plus approfondis, plus précisément des récits de vie. En Haïti, j’ai retenu 2 paysannes, 2 servantes, 2 patronnes haïtiennes, et en France, j’ai gardé 3 migrantes haïtiennes et 2 patronnes françaises."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "fr"
+    },
+    "Pour saisir à la fois les rapports sociaux et la trajectoire personnelle des femmes qui les vivent au quotidien, j’ai croisé deux approches : une perspective féministe matérialiste, intersectionnelle et internationale, ainsi qu’une démarche clinique. Cette perspective féministe analyse le genre, les rapports sociaux de sexe imbriqués aux rapports de classe, de race, de colonialité..., qui créent l’oppression des femmes et la domination des hommes exprimées concrètement dans l’exploitation des femmes au travail. J’analyse leur exploitation dans le salariat et le travail domestique gratuit, ainsi que dans le service domestique fortement exercé, en France, par des femmes migrantes pauvres et racisées du Sud. La clinique analyse les rapports sociaux au plus près du vécu individuel. Elle comporte plusieurs caractéristiques : l’articulation des différentes échelles (macro, méso et micro-sociologique); la pluridisciplinarité ; la prise en compte de la subjectivité dans l’effort d’objectivation ; la reconnaissance de l’intersubjectivité de la relation de recherche dans la production du savoir ; l’analyse de l’implication des personnes chercheuses dans la recherche ; la co-construction du savoir entre elles et les personnes sujettes de la recherche ; la dimension praxéologique articulant la recherche et l’intervention ; la visée transformatrice."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "fr"
+    },
+    "Ces choix méthodologiques et épistémiques m’ont permis d’analyser l’impact des rapports sociaux non seulement sur la migration et le travail des femmes mais aussi sur les relations d’enquête qui ont fait émerger ces savoirs. Dans cet article où je me focaliserai sur les rapports de race, je fais le choix de me centrer sur les entretiens avec les trois patronnes françaises interrogées."
+   ],
+   "\n"
+  ],
+  [
+   "section",
+   {
+    "id": "t-s3"
+   },
+   "\n",
+   [
+    "h2",
+    {
+     "lang": "fr",
+     "id": "t-seccion-3"
+    },
+    "Cadre conceptuel principal : Etre ",
+    [
+     "i",
+     {},
+     "insider"
+    ],
+    " ou ",
+    [
+     "i",
+     {},
+     "outsider"
+    ],
+    " dans la recherche, entre analyse de l’implication et point de vue situé"
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "fr"
+    },
+    "Il est important d’analyser les ressorts des positions d’",
+    [
+     "i",
+     {},
+     "outsider"
+    ],
+    " ou d’",
+    [
+     "i",
+     {},
+     "insider"
+    ],
+    " sur les terrains (",
+    [
+     "a",
+     {
+      "href": "#t-r5",
+      "id": "t-llamada-r5-2"
+     },
+     "Bédinadé et Mayenga 2023"
+    ],
+    "). La personne chercheuse ",
+    [
+     "i",
+     {},
+     "insider"
+    ],
+    " partage avec les personnes interrogées une même place dans un rapport social donné ou une situation sociale quelconque. J’étais ",
+    [
+     "i",
+     {},
+     "insider"
+    ],
+    " par rapport aux femmes haïtiennes interrogées, quand on considère des facteurs comme la nationalité, le statut migratoire, le fait d’être femme, d’être une personne noire, etc. Face à ces mêmes critères, j’avais un statut ",
+    [
+     "i",
+     {},
+     "d’outsider"
+    ],
+    " relativement aux femmes françaises qui pouvaient me considérer comme « autre ». La complexité de ces positions ",
+    [
+     "i",
+     {},
+     "d’insider"
+    ],
+    " ou d’",
+    [
+     "i",
+     {},
+     "outsider"
+    ],
+    " réside dans le fait de devoir penser à la fois la place des personnes chercheuses et celle des sujettes. En plus, il faut tenir compte du fait que les rapports sociaux sont imbriqués. La personne chercheuse qui peut être ",
+    [
+     "i",
+     {},
+     "insider"
+    ],
+    " par rapport à certaines personnes sujettes et ",
+    [
+     "i",
+     {},
+     "outsider"
+    ],
+    " par rapport à d’autres, peut aussi être à la fois ",
+    [
+     "i",
+     {},
+     "insider"
+    ],
+    " et ",
+    [
+     "i",
+     {},
+     "outsider"
+    ],
+    " par rapport à une même catégorie sociale. Par exemple, étant femme, je suis ",
+    [
+     "i",
+     {},
+     "insider"
+    ],
+    " face aux patronnes françaises alors que je leur suis ",
+    [
+     "i",
+     {},
+     "outsider"
+    ],
+    " relativement au rapport de race. Pour comprendre cette posture complexe, j’ai associé l’analyse clinique de mon implication dans la recherche (la prise en compte du poids de mon vécu personnel sur ma relation avec ces femmes et sur le savoir co-construit) aux théories féministes du point de vue situé (",
+    [
+     "a",
+     {
+      "href": "#t-r10",
+      "id": "t-llamada-r10-1"
+     },
+     "Combahee River Collective 2006"
+    ],
+    " [1977], ",
+    [
+     "a",
+     {
+      "href": "#t-r40",
+      "id": "t-llamada-r40-1"
+     },
+     "Juteau-Lee 1981"
+    ],
+    ", ",
+    [
+     "a",
+     {
+      "href": "#t-r31",
+      "id": "t-llamada-r31-1"
+     },
+     "Hill Collins 1986"
+    ],
+    ", ",
+    [
+     "a",
+     {
+      "href": "#t-r28",
+      "id": "t-llamada-r28-1"
+     },
+     "Harding 1987"
+    ],
+    ", ",
+    [
+     "a",
+     {
+      "href": "#t-r27",
+      "id": "t-llamada-r27-1"
+     },
+     "Haraway 1988"
+    ],
+    "). Cela m’a montré comment ma place de femme doctorante migrante haïtienne et noire a influencé ma recherche, y compris auprès des patronnes françaises. J’ai interrogé le transfert incluant les projections de ces patronnes blanches sur moi. Pour qui me prenaient-elles? Dans quelle place me mettaient-elles? J’ai également étudié mon contre-transfert (Devereux 1967), mes projections sur ces patronnes blanches, la manière dont j’ai été affectée (",
+    [
+     "a",
+     {
+      "href": "#t-r18",
+      "id": "t-llamada-r18-1"
+     },
+     "Saada 2009"
+    ],
+    ") dans ma relation de recherche avec elles."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "fr"
+    },
+    "La recherche se déploie dans une intersubjectivité, unerelation entre un ",
+    [
+     "i",
+     {},
+     "savant"
+    ],
+    " et un ",
+    [
+     "i",
+     {},
+     "sachant"
+    ],
+    " (",
+    [
+     "a",
+     {
+      "href": "#t-r7",
+      "id": "t-llamada-r7-1"
+     },
+     "Broda et Roche 1993"
+    ],
+    "). Il faut donc analyser à la fois l’implication de la personne chercheuse, et les projections des sachantes sur la savante. On peut supposer que ces projections, le transfert, englobent les assignations et racialisations des personnes chercheuses, leur corps, leur nom. ",
+    [
+     "a",
+     {
+      "href": "#t-r23",
+      "id": "t-llamada-r23-1"
+     },
+     "Florence Giust-Desprairies (2004)"
+    ],
+    " propose d’analyser les dimensions inconscientes, subjectives et culturelles de cette implication des personnes chercheuses dans une recherche donnée. L’implication me semble contenir, en plus de sa part subjective, une portée sociale exprimant l’inscription des personnes chercheuses dans les rapports sociaux articulés (",
+    [
+     "a",
+     {
+      "href": "#t-r35",
+      "id": "t-llamada-r35-1"
+     },
+     "Joseph 2013"
+    ],
+    "). En ce qui concerne les rapports sociaux de race dans lesquels sont prises à la fois ces dernières et les personnes interviewées, ils façonnent leurs choix, la participation des interviewées, la relation de recherche et le savoir co-produit. L’analyse clinique de l’implication dans la recherche ne peut donc ignorer le poids déterminant des « conditions raciales » de l’enquête."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "fr"
+    },
+    "La relation d’enquête est également caractérisée par son asymétrie (",
+    [
+     "a",
+     {
+      "href": "#t-r4",
+      "id": "t-llamada-r4-1"
+     },
+     "Bédinadé et Mayenga 2022"
+    ],
+    "), et ",
+    [
+     "a",
+     {
+      "href": "#t-r3",
+      "id": "t-llamada-r3-1"
+     },
+     "Jacqueline Barus Michel (1986)"
+    ],
+    " affirme qu’il y a toujours une dissymétrie dans la recherche clinique entre « ce qui gît » (les personnes interrogées) et « ce qui se tient » (la personne chercheuse)",
+    [
+     "a",
+     {
+      "href": "#t-fn1",
+      "id": "t-llamada-fn1-1"
+     },
+     [
+      "sup",
+      {},
+      "1"
+     ]
+    ],
+    ". Or les rapports sociaux complexifient cette dissymétrie dite fondamentale. Parfois il y a domination de la personne enquêtrice sur les personnes interviewées (",
+    [
+     "a",
+     {
+      "href": "#t-r51",
+      "id": "t-llamada-r51-1"
+     },
+     "Spivak 2020"
+    ],
+    " [1988], Mathieu, 1985, Hill Collins 1989). Cette domination s’explique par les antagonismes de classe, de genre ou de race, conscientes ou non, issues des places opposées des personnes chercheuses et des personnes interrogés dans les rapports sociaux. Quand la personne chercheuse est en position de dominée dans les rapports de pouvoir comparativement à la personne interrogée, qui se tient debout ? En tant que chercheuse Noire face à une interviewée Blanche, quelle est ma légitimité sur le terrain ? Les rapports sociaux qui définissent la place des personnes chercheuses dans la relation de recherche construisent également leur légitimité́ dans le monde scientifique ",
+    [
+     "a",
+     {
+      "href": "#t-r1",
+      "id": "t-llamada-r1-1"
+     },
+     "(Ait Ben Lmadani et Moujoud 2012"
+    ],
+    ") et dans le regard des personnes interviewées (",
+    [
+     "a",
+     {
+      "href": "#t-r35",
+      "id": "t-llamada-r35-2"
+     },
+     "Joseph 2013"
+    ],
+    ", ",
+    [
+     "a",
+     {
+      "href": "#t-r36",
+      "id": "t-llamada-r36-2"
+     },
+     "2015"
+    ],
+    "). Je me suis alors demandé quel transfert était possible quand la personne chercheuse est en position de dominée par rapport à celle interviewée. Pour ",
+    [
+     "a",
+     {
+      "href": "#t-r3",
+      "id": "t-llamada-r3-2"
+     },
+     "Jacqueline Barus Michel (1986"
+    ],
+    ", p. 801), dans une certaine mesure, la dissemblance fondamentale entre les personnes chercheuses et les personnes interrogées ne serait qu’apparente, car en sciences humaines, les deux « sont de même nature, la relation est en miroir et ouvre sur tous les problèmes d’identification et de transfert ». Les deux sont des objets parlants donc des personnes sujettes, personnes auto-théorisantes et auto-symbolisantes aptes à produire du sens sur leur vécu. La co-construction se fait ainsi dans une interdiscursivité, une reconnaissance du savoir des personnes interrogées. Pourtant, il faut toujours se demander à quel type de parole la personne chercheuse a droit en fonction de sa place dans les rapports sociaux et de quelle manière elle reste debout quand, en tant que personne dominée, elle questionne des personnes dominantes. Cette question reste valable, que sa recherche porte sur des personnes dominantes (pour comprendre par exemple comment les patronnes recrutent des travailleuses migrantes) ou sur des dominées (pour saisir par exemple comment les femmes migrantes s’investissent dans le travail domestique en France)."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "fr"
+    },
+    "Par ailleurs, cela questionne certaines conceptions de l’objectivité et de la neutralité que scrutent non seulement la clinique (",
+    [
+     "a",
+     {
+      "href": "#t-r22",
+      "id": "t-llamada-r22-1"
+     },
+     "de Gaulejac et Roche 2012"
+    ],
+    ") mais aussi certaines perspectives critiques. La clinique analyse l’implication dans la recherche de toute personne chercheuse, indépendamment de sa place dans les rapports sociaux. Toutefois, j’ai suggéré qu’elle prenne sérieusement en compte les rapports sociaux qui marquent toujours la relation de recherche (",
+    [
+     "a",
+     {
+      "href": "#t-r35",
+      "id": "t-llamada-r35-3"
+     },
+     "Joseph 2013"
+    ],
+    "). J’ai également proposé d’analyser la posture d’",
+    [
+     "i",
+     {},
+     "insider"
+    ],
+    " des personnes chercheuses « indigènes » (",
+    [
+     "a",
+     {
+      "href": "#t-r36",
+      "id": "t-llamada-r36-3"
+     },
+     "Joseph 2015"
+    ],
+    ") qui, en étudiant des phénomènes qu’elles vivent elles aussi, seraient à la fois debout et dans le lit. Je travaillais sur la migration en étant migrante moi-même. Comme le critique Essed (in ",
+    [
+     "a",
+     {
+      "href": "#t-r42",
+      "id": "t-llamada-r42-1"
+     },
+     "Larcher 2023"
+    ],
+    "), dans ces cas, les personnes chercheuses sont jugées trop impliquées, suspectées de produire des recherches biaisées. Le ",
+    [
+     "i",
+     {},
+     "Black feminism"
+    ],
+    " aux États-Unis d’Amérique, avec notamment Barbara Smith (1982), ",
+    [
+     "a",
+     {
+      "href": "#t-r33",
+      "id": "t-llamada-r33-1"
+     },
+     "bell hooks (1984)"
+    ],
+    ", Audre Lorde (1984), et Patricia Hill Collins (1989), a ainsi critiqué certaines conceptions de l’objectivité et de l’engagement. Or, lorsque certaines approches positivistes défendent une dite neutralité, elle ne rend légitimes que les ",
+    [
+     "i",
+     {},
+     "outsiders"
+    ],
+    ", les personnes qui seraient “extérieures” à la problématique qu’elles analysent et qui pourraient alors se vanter de porter un « regard éloigné » (",
+    [
+     "a",
+     {
+      "href": "#t-r46",
+      "id": "t-llamada-r46-1"
+     },
+     "Moujoud 2007"
+    ],
+    "). Le regard des personnes chercheuses indigènes, ",
+    [
+     "i",
+     {},
+     "insiders"
+    ],
+    ", assignées à une identité sociale et raciale et associées à la population prise en charge (",
+    [
+     "a",
+     {
+      "href": "#t-r5",
+      "id": "t-llamada-r5-3"
+     },
+     "Bédinadé et Mayenga, 2023"
+    ],
+    "), est nié."
+   ],
+   "\n"
+  ],
+  [
+   "section",
+   {
+    "id": "t-s4"
+   },
+   "\n",
+   [
+    "h2",
+    {
+     "lang": "fr",
+     "id": "t-seccion-4"
+    },
+    "Analyser les conditions raciales dans les différentes étapes de l’enquête"
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "fr"
+    },
+    "En considérant la relation particulière avec chacune des trois patronnes interrogées, je m’attarderai sur l’établissement du lien : la prise de contact, la présentation de soi, la négociation du lieu et des horaires... Ces éléments de contexte permettent de mieux comprendre le discours de ces femmes sur le « racisme à peine dévoilé » (",
+    [
+     "a",
+     {
+      "href": "#t-r39",
+      "id": "t-llamada-r39-1"
+     },
+     "Joseph 2024"
+    ],
+    ") que j’expliciterai ensuite."
+   ],
+   "\n",
+   [
+    "section",
+    {
+     "id": "t-s4_4"
+    },
+    "\n",
+    [
+     "h3",
+     {
+      "lang": "fr",
+      "id": "t-seccion-5"
+     },
+     "Madame Forbe : ",
+     [
+      "i",
+      {},
+      "care"
+     ],
+     " et contre-don dans la recherche"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     "Madame Forbe",
+     [
+      "a",
+      {
+       "href": "#t-fn2",
+       "id": "t-llamada-fn2-1"
+      },
+      [
+       "sup",
+       {},
+       "2"
+      ]
+     ],
+     " est une octogénaire vivant en milieu rural et qui est accompagnée pour affronter les angoisses liées à la tombée de la nuit, sa « phobie » de l’obscurité. Les horaires de travail de son employée haïtienne ne lui correspondent plus puisqu’il fait nuit beaucoup plus tôt à cette période de l’année. Travaillant également de jour, l’employée lui envoie des membres de sa famille pour l’aider à attendre l’heure inscrite dans le contrat, et quand elle ne souffre pas de douleurs articulaires, Madame Forbe grimpe la pente pour se réfugier chez cette employée en attendant l’heure du début du contrat. Le travail de cette assistante de vie est décrit en ces termes par cette patronne qui insiste sur son autonomie, sa capacité à s’occuper d’elle-même et de sa maison: « ",
+     [
+      "i",
+      {},
+      "Pour l’instant, ce qu’elle fait, elle me tient compagnie, parce que, parce que je fais [des crises d’angoisse nocturne] …. Autrement, moi je…moi non. Non, non"
+     ],
+     " ». Face à ses peurs, elle ne voit qu’une solution : « Il me faut de la compagnie, point final! ». Ses annonces de recrutement s’écrivent ainsi : « Personne seule, cherche dame de compagnie »."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     "C’est dans cette interstice qu’en 2012 s’est faufilée mon enquête, dans ce moment où Madame Forbe avait besoin d’aide pour attendre son employée haïtienne. Je l’ai questionnée dans sa maison, à trois reprises, en l’espace d’une semaine. Je prenais un peu « la place » de cette employée ou des membres de sa famille qui effectuaient gratuitement ce travail, par compassion face à la détresse d’une femme âgée et malade qui ne trouvait pas d’autres personnes employées. La situation économique de cette hôtesse d’accueil/vente retraitée s’est dégradée avec le décès de son mari, ce qui s’explique entre autres par la soumission de sa carrière à celle de son époux et aux aléas de ses responsabilités domestiques et familiales. Mes entretiens répondent à sa demande de compagnie tout en soulageant son employée d’un extra de travail."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     "Je me suis présentée comme haïtienne mais aussi étudiante, doctorante, faisant une recherche sur le travail des migrantes haïtiennes et questionnant également des patronnes françaises. Je l’ai invitée à participer à cette recherche, expliqué l’idée d’entretiens enregistrés et anonymisés, ce sur quoi elle explique qu’elle a déjà été interrogée par un journaliste, a été enregistrée, est passée à la radio. Mais comme elle m’a demandé plusieurs fois de travailler pour elle, j’ai fait l’hypothèse qu’elle n’a pas forcément bien compris mon offre de participation à la recherche : « ",
+     [
+      "i",
+      {},
+      "Je l’ai interviewée à plusieurs reprises en l’espace d’une semaine. Mais elle s’est confiée à moi non pas en tant que chercheure – même si je lui ai dit que je faisais mes études sur ces questions – mais en tant que personne soignante. J’étais sensée être là pour remplacer sa travailleuse haïtienne, pour l’accompagner à affronter la tombée de la nuit, pour l’aider à surmonter sa solitude, pour l’écouter, etc"
+     ],
+     ". » (",
+     [
+      "a",
+      {
+       "href": "#t-r36",
+       "id": "t-llamada-r36-4"
+      },
+      "Joseph 2015"
+     ],
+     ", p. 450). Il s’agit donc d’abord d’une présence, fortement appréciée par Madame Forbe qui voulait d’ailleurs m’engager comme « dame de compagnie », trouvait dommage que je sois obligée de rentrer à Paris et insistait pour qu’au moins je lui trouve une employée parmi mes connaissances parisiennes: « Si vous connaissez quelqu’un, ne vous gênez pas. Vous me l’envoyez, hein ? »."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     "En plus de questionner et d’écouter Madame Forbe, j’ai été soumise à sa demande, ses humeurs, ses paniques, son emploi du temps. Elle n’hésite pas à me dire « Taisez-vous », alors que je lui ai posé une question sur ce besoin de compagnie. Parfois, elle change de sujet pour calmer ses craintes. Un jour, je suis arrivée à l’heure mais le soleil s’était couché plus tôt que prévu. Je l’ai trouvée dans un état de grande panique. Tétanisée, elle s’accrochait à mon bras, comme un enfant apeuré. Petit à petit, au fil de nos discussions, elle se calme et m’expose à nouveau sa certitude d’avoir besoin de compagnie. Je lui dis : « Là, on discute ensemble, je vois que vous allez bien ». Elle me répond : « Ben oui ! Parce que vous êtes là ! Parce qu’il y a quelqu’un avec moi ». Elle ajoute plus loin : « Demain soir, si vous êtes pas là…. ». Et comme elle a commencé à paniquer, elle dit : « Il vaut mieux parler d’autre chose »."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     "On discute alors qu’elle continue à regarder la télé, s’arrête pour manger, … Alors qu’elle me raconte fièrement comment elle organise son travail domestique et comment travaillaient jadis les femmes de ménage qu’elle employait, elle s’arrête en plein milieu d’une phrase :"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "it"
+     },
+     "«Bien ! Il fallait faire toute la vaisselle, tous les machins, tout ça. Ah non j’ voulais, j’ voulais vraiment quelqu’un, ",
+     [
+      "b",
+      {},
+      "…"
+     ],
+     " Bon, 7h moins 10, je vais manger."
+    ],
+    "\n",
+    [
+     "ul",
+     {},
+     "\n",
+     [
+      "li",
+      {},
+      [
+       "span",
+       {},
+       "–"
+      ],
+      [
+       "p",
+       {},
+       "Allez-y ! (",
+       [
+        "i",
+        {},
+        "Je souris"
+       ],
+       ")."
+      ]
+     ],
+     "\n",
+     [
+      "li",
+      {},
+      [
+       "span",
+       {},
+       "–"
+      ],
+      [
+       "p",
+       {},
+       "Faut qu’j’ prépare."
+      ]
+     ],
+     "\n",
+     [
+      "li",
+      {
+       "lang": "fr"
+      },
+      [
+       "span",
+       {},
+       "–"
+      ],
+      [
+       "p",
+       {},
+       "(",
+       [
+        "i",
+        {},
+        "Je souris"
+       ],
+       "). C’est bien de manger tôt. (",
+       [
+        "i",
+        {},
+        "Je souris"
+       ],
+       ")."
+      ]
+     ],
+     "\n",
+     [
+      "li",
+      {},
+      [
+       "span",
+       {},
+       "–"
+      ],
+      [
+       "p",
+       {},
+       "Ça vous ennuie pas ?"
+      ]
+     ],
+     "\n",
+     [
+      "li",
+      {
+       "lang": "fr"
+      },
+      [
+       "span",
+       {},
+       "–"
+      ],
+      [
+       "p",
+       {},
+       "Non, non, pas du tout, pas du tout."
+      ]
+     ],
+     "\n",
+     [
+      "li",
+      {},
+      [
+       "span",
+       {},
+       "–"
+      ],
+      [
+       "p",
+       {},
+       "Parce que j’commence à avoir faim."
+      ]
+     ],
+     "\n",
+     [
+      "li",
+      {},
+      [
+       "span",
+       {},
+       "–"
+      ],
+      [
+       "p",
+       {},
+       "Allez-y, allez y ! (",
+       [
+        "i",
+        {},
+        "Je ris"
+       ],
+       ") »"
+      ]
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Elle me propose alors de regarder la télé, je décline :"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "it"
+     },
+     "« - Non, non, non, je vais pas regardez la télé. (…). Non non non, je reste avec vous moi. Je vous accompagne",
+     [
+      "a",
+      {
+       "href": "#t-fn3",
+       "id": "t-llamada-fn3-1"
+      },
+      [
+       "sup",
+       {},
+       "3"
+      ]
+     ],
+     "."
+    ],
+    "\n",
+    [
+     "ul",
+     {},
+     "\n",
+     [
+      "li",
+      {},
+      [
+       "span",
+       {},
+       "–"
+      ],
+      [
+       "p",
+       {},
+       "Et ben d’accord, d’accord"
+      ]
+     ],
+     "\n",
+     [
+      "li",
+      {},
+      [
+       "span",
+       {},
+       "–"
+      ],
+      [
+       "p",
+       {},
+       "(",
+       [
+        "i",
+        {},
+        "Je ris"
+       ],
+       ")."
+      ]
+     ],
+     "\n",
+     [
+      "li",
+      {},
+      [
+       "span",
+       {},
+       "–"
+      ],
+      [
+       "p",
+       {},
+       "D’accord) »."
+      ]
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     "Je passe un bon moment à attendre, à la regarder préparer son repas puis manger. De temps en temps elle me dit quelque chose pendant qu’elle prépare son plat. A un moment, j’enregistre une note : « Aujourd’hui elle est plus souriante. Elle me raconte toute sa vie, et quand elle finit de raconter quelque chose, c’est comme si elle voulait que je lui pose des questions ». J’ai également ajouté dans mes notes d’analyse qu’il n’y avait pas beaucoup de silence dans son discours. « Elle passait d’une phrase à une autre sans pause. Il fallait [aurait fallu] alors que je lui coupe la parole. Et pour quoi faire ? Puisqu’elle a bien raconté les faits, dans une linéarité étonnante, sur un aspect qui m’intéressait, son parcours professionnel »."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     "Dans cette enquête, la parole a émergé dans le cadre d’une relation qui, en outre, a répondu à un besoin concret de la personne interviewée. Mon offre de recherche a donc rencontré une demande de Madame Forbe qui avait besoin d’écoute, d’accompagnement, de compagnie, et qui, comme on l’a vu, me demandait parfois de l’aider à trouver une travailleuse domestique voire de travailler pour elle. Cela complexifie la logique de la transformation de l’offre en demande analysée par Florence Giust-Desprairies (2013) dans des recherches où la force de travail du.de la clinicien.ne n’est pas forcément engagée."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     "Par ailleurs, on notera que l’entretien se passe de telle sorte que la quotidienneté, les mouvements et un discours « sans fard » puissent émerger. On a discuté de son histoire familiale (sur au moins 4 générations), sa trajectoire professionnelle, la conciliation famille-travail et ses différents choix d’externalisation. Nous nous sommes arrêtées sur les conditions de travail de sa travailleuse haïtienne, sa relation avec cette femme qui aurait une particularité, une « nature », propos qui peut prendre la forme d’un racisme à peine dévoilé. L’énonciation était facile (sauf quand elle parlait de ses phobies) et la discussion aisée. Souvent, en l’écoutant, j’avais l’impression qu’elle avait oublié pourquoi j’étais là."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     "A certains égards, en endossant le statut de celle qui « accompagne », mon enquête a pris une forme participante (",
+     [
+      "a",
+      {
+       "href": "#t-r41",
+       "id": "t-llamada-r41-1"
+      },
+      "Lapassade 2002"
+     ],
+     "), même si je n’ai pas été une observatrice cachée qui ne dévoile pas son statut d’enquêtrice et peut ainsi « voir sans être vue » (",
+     [
+      "a",
+      {
+       "href": "#t-r7",
+       "id": "t-llamada-r7-2"
+      },
+      "Broda et Roche 1993"
+     ],
+     "). J’ai offert gratuitement ma force de travail de ",
+     [
+      "i",
+      {},
+      "care"
+     ],
+     ", comme « contre-don ». ",
+     [
+      "a",
+      {
+       "href": "#t-r44",
+       "id": "t-llamada-r44-1"
+      },
+      "Ana Massa (2013)"
+     ],
+     ", analyse les conditions raciales de ces dons et contre-dons en considérant sa relation de recherche doctorale entant que femme brésilienne blanche auprès des rappeurs noirs des Favelas ou des jeunes racisés en banlieue parisienne. Paul Fustier (2020) montre comment, dans les liens d’accompagnement, les dons et contre-dons coexistent avec un cadre plus formel. J’ai présenté un cadre formel de recherche, mais il a été adapté en fonction du contexte fait d’informalité. Dans ce cas, il ne s’agissait pas de « s’en extraire et retrouver son statut de chercheur·se » comme l’ont souligné Robert Linhart ou Nicolas Jounin (Bédinadé et ",
+     [
+      "a",
+      {
+       "href": "#t-r4",
+       "id": "t-llamada-r4-2"
+      },
+      "Mayenga 2022"
+     ],
+     "), puisque je n’ai ni quitté, ni caché ce statut."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     "En « remplaçant » les autres auprès de Madame Forbe, j’ai approfondi le concret des dimensions matérielles, émotionnelles et relationnelles du travail de ",
+     [
+      "i",
+      {},
+      "care"
+     ],
+     ". Avec mon écoute, quoique différente de celle des travailleuses (au moins dans son objectif de co-production du savoir), j’ai été « dans la peau » des travailleuses de ",
+     [
+      "i",
+      {},
+      "care"
+     ],
+     " et j’ai expérimenté la fatigue de cette écoute illimitée, sans savoir si cet épuisement était lié au ",
+     [
+      "i",
+      {},
+      "care"
+     ],
+     ", à la recherche ou à ce double statut. J’ai éprouvé la dynamique de la demande (illimitée) dans le ",
+     [
+      "i",
+      {},
+      "care"
+     ],
+     ", cette écoute qui semble faire du bien aux personnes soignées qui fait pourtant partie des extras relationnels ou émotionnels extorqués dans ce travail. Les demandes de Madame Forbe dépassent le simple « besoin de compagnie », et l’employée fini donc par « servir à autre chose » (",
+     [
+      "a",
+      {
+       "href": "#t-r41",
+       "id": "t-llamada-r41-2"
+      },
+      "Joseph 2015"
+     ],
+     ", p. 338). « Écouter, comme si on était psychologue, peut donc devenir l’une des tâches principales des travailleuses de ",
+     [
+      "i",
+      {},
+      "care"
+     ],
+     " » (",
+     [
+      "a",
+      {
+       "href": "#t-r36",
+       "id": "t-llamada-r36-5"
+      },
+      "Joseph 2015"
+     ],
+     ", p. 337), un aspect fondamental de l’exploitation par les femmes patronnes blanches du Nord de celles que ",
+     [
+      "a",
+      {
+       "href": "#t-r17",
+       "id": "t-llamada-r17-1"
+      },
+      "Falquet (2006)"
+     ],
+     " présente comme des femmes migrantes pauvres et racisées du Sud."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     "Toutefois, en accompagnant Madame Forbe à attendre son employée, le « remplacement » n’a été que partiel. Lorsque son employée tarde à arriver, elle s’inquiète et me dit : « Est-ce qu’elle va venir ? ». J’ai dû la rassurer. Ma présence n’a donc pas complètement « remplacé » celle de l’employée. Par ailleurs, cette patronne française ne nous traite pas de la même manière. Le premier soir, au moment de mon départ, elle m’embrasse. L’employée m’explique après que Madame Forbe n’a jamais eu ce geste à son égard, un traitement différentiel qui m’a choqué. Étais-je alors si différente d’une travailleuse de ",
+     [
+      "i",
+      {},
+      "care"
+     ],
+     " haïtienne ? Pourquoi est-ce que je m’attendais à ce que ces patronnes",
+     [
+      "a",
+      {
+       "href": "#t-fn4",
+       "id": "t-llamada-fn4-1"
+      },
+      [
+       "sup",
+       {},
+       "4"
+      ]
+     ],
+     " me traitent comme leur travailleuse alors que je me suis présentée comme une chercheuse ? Cela traduit mes propres enjeux d’identification, la complexité de mon contre-transfert entre les positions d’",
+     [
+      "i",
+      {},
+      "insider"
+     ],
+     " et d’",
+     [
+      "i",
+      {},
+      "outsider"
+     ],
+     "."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     "En m’exposant ainsi à un lien proche d’une relation de travail, j’ai recueilli des données sur la place des rapports sociaux (y compris ceux de race) dans la recherche, en plus de creuser le discours de cette patronne sur ce rapport de pouvoir, par exemple son appréciation sur la prétendue douceur des Haïtiennes. Toutefois, en considérant l’âge de Madame Forbe, ses détresses physiques et peut-être mentales, son attachement obligé face aux personnes accompagnantes et sa dépendance à leur soin, on ne peut ignorer le poids du validisme. La fragilité et la vulnérabilité de cette patronne qui me raconte par ailleurs comment elle a été abusée par d’autres employées, a également mis le pouvoir",
+     [
+      "a",
+      {
+       "href": "#t-fn5",
+       "id": "t-llamada-fn5-1"
+      },
+      [
+       "sup",
+       {},
+       "5"
+      ]
+     ],
+     " de mon côté (et de celle de sa travailleuse haïtienne noire), même s’il était aussi du côté de cette française blanche. Dans d’autres relations de recherche au contraire, on peut même observer une inversion."
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "section",
+    {
+     "id": "t-s4_5"
+    },
+    "\n",
+    [
+     "h3",
+     {
+      "lang": "fr",
+      "id": "t-seccion-6"
+     },
+     "Madame Laguerre : inversion et rejet dans l’enquête"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     "Avec Madame Laguerre, la relation était moins facile. Nous ne nous sommes jamais rencontrées, et après trois mini entretiens, elle n’a pas souhaité poursuivre les échanges. Cette parisienne de classe moyenne a engagé tour à tour deux baby-sitters haïtiennes quand ses enfants étaient plus jeunes. Elle m’explique qu’elle n’a plus qu’un vague souvenir des faits datant de 10 ans, et ne voit pas l’intérêt de rentrer dans les détails qu’elle n’aurait pas/plus. Elle n’a pas aimé ma méthode, mes questions, n’a pas été très « encourageante » au téléphone, même si elle a accepté de participer à l’enquête."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     "Tout a commencé à la suite d’une conférence que j’ai présentée sur ma thèse, à Paris, en 2010. Une personne de l’assistance m’a dit s’intéresser à ma recherche et m’a proposé de me mettre en contact avec une patronne, Madame Laguerre. Quand j’ai enfin obtenu son adresse électronique (en 2011), je me suis présentée comme faisant une recherche sur les femmes haïtiennes en France et j’ai exposé mon intérêt de questionner des employeuses. Au fil des échanges, on s’est convenu d’un rendez-vous qui n’a finalement pas eu lieu à cause d’un malentendu horaire. Madame Laguerre est en télétravail, m’explique qu’elle n’a pas le droit de recevoir pendant ses horaires de travail, qu’elle n’est pas disponible le week-end et qu’elle ne peut m’accorder que 15 minutes de sa pause méridienne. Des discussions sur ses conditions de travail m’auraient été utiles, mais elle n’a pas voulu s’y arrêter."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     "Dès la première discussion, sans se montrer complètement désintéressée, elle ne se sentait pas concernée par ces échanges qui, selon elle, devait plutôt se faire auprès des travailleuses haïtiennes. Quand j’ai voulu prendre un deuxième rendez-vous, elle m’a dit en riant qu’elle n’avait plus grand chose à dire. Malgré mes explications, elle persiste à dire : « bon, le plus intéressant c’est peut-être de demander aux personnes concernées ». Ses réticences, entre autres, m’ont permis de saisir à quel point il semblait difficile pour les patronnes de faire le lien entre leur investissement professionnel (leur vie personnelle de femme patronne exploitée au travail non-domestique et dans la vie conjugale), et l’externalisation du travail domestique à des femmes migrantes pauvres et racisées du Sud, des femmes haïtiennes noires notamment. Leurs vies professionnelle et conjugale me paraissaient indispensables pour comprendre la chaine de migration et de travail qui transformait les femmes migrantes en travailleuses domestiques et les femmes non-migrantes en patronnes exploitées dans le travail hors-",
+     [
+      "i",
+      {},
+      "domus"
+     ],
+     " ainsi que dans le couple hétéropatriarcal auprès des hommes blancs de la classe moyenne du Nord (",
+     [
+      "a",
+      {
+       "href": "#t-r36",
+       "id": "t-llamada-r36-6"
+      },
+      "Joseph 2015"
+     ],
+     "). Au lieu de critiquer ces deux lieux d’oppression, elles ont systématiquement « ménagé » leur mari et le monde du travail (",
+     [
+      "a",
+      {
+       "href": "#t-r37",
+       "id": "t-llamada-r37-1"
+      },
+      "Joseph 2017"
+     ],
+     "). J’ai alors fait l’hypothèse qu’elles préféraient ne pas se présenter comme étant des dominées (femmes et travailleuses) mais des dominantes (patronnes blanches), en regardant par exemple comment Madame Aix (que je présenterai plus tard) se montrait « sujet malgré elle » en expliquant ses « problèmes » (les oppressions subies) par une question de choix personnel. Comme s’il était impossible de se regarder avec une double casquette d’employeuse et d’employée. Dans ma thèse, j’ai ajouté que « les interviewées du Nord ne veulent peut-être pas voir en moi la chercheuse qui peut comprendre leur propre point de vue » (",
+     [
+      "a",
+      {
+       "href": "#t-r36",
+       "id": "t-llamada-r36-7"
+      },
+      "Joseph 2015"
+     ],
+     ", p. 297). Peut-être qu’elles n’attendent de moi qu’une recherche sur les migrantes haïtiennes, étant haïtienne moi-même. Je n’ai pas pensé qu’il manquait quelque chose qui pourrait mettre ces femmes « plus à l’aise » pour me parler de leurs souffrances personnelles (ce que Madame Forbe a d’ailleurs réussi à faire). Toutefois, lors d’une présentation publique de ma thèse en cours, un chercheur blanc a fait l’hypothèse que ces femmes se seraient retenu de me parler de leur vie professionnelle et de leur vie de couple parce qu’elles m’auraient prises pour « autre », ",
+     [
+      "i",
+      {},
+      "outsider"
+     ],
+     ". « Si vous étiez Bretonne », a-t-il souligné, ces femmes se livreraient plus sur leur intimité."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     "La particularité de ma relation avec les patronnes françaises est aussi que je suis à la fois ",
+     [
+      "i",
+      {},
+      "insider"
+     ],
+     " face aux travailleuses migrantes et ",
+     [
+      "i",
+      {},
+      "outsider"
+     ],
+     " face à leur statut d’employeuses. Dans le lit, il y a à la fois des personnes qui partagent avec moi la même place dans le rapport social de race (les travailleuses haïtiennes) et d’autres qui ne la partagent pas (ces patronnes françaises). Probablement, celles-ci ont toujours compris qu’elles n’étaient pas seules face à moi dans ce lit, cette relation d’enquête clinique, ce qui expliquerait aussi leur détermination à insister autant sur leur relation avec ces travailleuses haïtiennes absentes de la relation directe de l’entretien mais si présentes en fin de compte. Les travailleuses étaient présentes dans le discours des patronnes voire leur pensée, comme si ma présence de migrante haïtienne noire les faisait vivre dans la relation d’enquête. La fixation des interviewées françaises sur leur relation avec leurs employées faisaient apparaitre ces femmes comme des fantômes dans nos conversations que je voulais pourtant fixer sur les conditions de vie et de travail de ces patronnes. C’est comme si, puisque j’étais là, je faisais arriver ces Haïtiennes dans la pensée et le discours des patronnes, comme si je faisais penser à elles, comme si je les représentais finalement. Cela en dit long sur les enjeux transférentiels et les conditions raciales de la recherche."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     "Madame Laguerre me cite une chercheuse blanche qui travaille sur ce sujet, comme si je devais donc y renoncer. C’est comme si elle m’avait associée à ces migrantes haïtiennes et qu’elle remettait en cause ma légitimité auprès des patronnes françaises blanches. Cela s’apparente également à une dévalorisation de mon point de vue minoritaire puisqu’elle montre ici une préférence pour cette chercheuse, une mise en concurrence qui nie en plus le fait que j’ai précédé cette chercheuse dans les travaux sur la question. Cet extrait dit long de son discours invalidant :"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     "« Et mais après qu’est-ce que ça va devenir cette étude?"
+    ],
+    "\n",
+    [
+     "ul",
+     {},
+     "\n",
+     [
+      "li",
+      {
+       "lang": "fr"
+      },
+      [
+       "span",
+       {},
+       "–"
+      ],
+      [
+       "p",
+       {},
+       "Mais je vous avais dit la semaine der… la dernière fois, que c’était pour faire ma thèse de doctorat."
+      ]
+     ],
+     "\n",
+     [
+      "li",
+      {
+       "lang": "fr"
+      },
+      [
+       "span",
+       {},
+       "–"
+      ],
+      [
+       "p",
+       {},
+       "Ouais et euh... et mais c’est qui qui s’intéresse à ça alors ?"
+      ]
+     ],
+     "\n",
+     [
+      "li",
+      {
+       "lang": "fr"
+      },
+      [
+       "span",
+       {},
+       "–"
+      ],
+      [
+       "p",
+       {},
+       "C’est moi et c’est les femmes, les femmes que je questionne, elles sont très intéressées à ce que leur travail soit plus connu, mieux reconnu etc."
+      ]
+     ],
+     "\n",
+     [
+      "li",
+      {
+       "lang": "fr"
+      },
+      [
+       "span",
+       {},
+       "–"
+      ],
+      [
+       "p",
+       {},
+       "Hm. Ben C’est exactement ce que fait Louise",
+       [
+        "a",
+        {
+         "href": "#t-fn6",
+         "id": "t-llamada-fn6-1"
+        },
+        [
+         "sup",
+         {},
+         "6"
+        ]
+       ],
+       " »."
+      ]
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     "Comme je l’ai présenté plus haut, un chercheur blanc a émis l’hypothèse des effets d’une moindre « proximité́ d’habitus » entre moi et les patronnes françaises blanches, qui expliquerait qu’elles ne se sentiraient pas plus à l’aise de me livrer leur intimité, leur vie de travailleuses ou d’épouses. On pourrait d’ailleurs se demander si le choix de la Bretonne, l’une des personnages régionaux les plus stéréotypés en France, est intentionnel dans cette expression que ce chercheur a peu expliqué. Ce prétendu manque de proximité d’habitus pourrait expliquer que je suis plus considérée comme une chercheuse travaillant sur les travailleuses migrantes haïtiennes que sur les patronnes françaises. Plus largement, on pourrait interroger le fait que les recherches des personnes dominées sur les dominantes soient invisibilisées, contrairement aux recherches des dominantes sur les dominées. Quelle est la légitimité des recherches sur le racisme porté par des personnes racisées? Fatima ",
+     [
+      "a",
+      {
+       "href": "#t-r1",
+       "id": "t-llamada-r1-2"
+      },
+      "Ait Ben Lmadani et Nasima Moujoud (2012)"
+     ],
+     " qui dénoncent le verrou français en particulier, invitent à critiquer les rapports sociaux de race, de classe et de sexe au sein de l’université et des autres lieux de productions de connaissances."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     "En plus de ces « barrières » qui témoignent des conditions raciales de l’entretien, d’autres aspects apparemment « plus techniques » méritent d’être considérés. L’entretien faiblement directif ne semblait pas adapté à cette personne apparemment très peu « bavarde », qui répondait par des monosyllabes et souvent par « je ne sais pas ». Le manque de temps a en plus renforcé le malaise. Elle me dit :"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     "« Ben écoutez, j’ai pas beaucoup d’ temps alors je sais pas moi (…). Avec des questions comme ça, ça prend beaucoup de temps. J’ai J’ai plus que dix minutes là."
+    ],
+    "\n",
+    [
+     "ul",
+     {},
+     "\n",
+     [
+      "li",
+      {
+       "lang": "fr"
+      },
+      [
+       "span",
+       {},
+       "–"
+      ],
+      [
+       "p",
+       {},
+       "Et vous auriez préférez que les questions soient comment ?"
+      ]
+     ],
+     "\n",
+     [
+      "li",
+      {
+       "lang": "fr"
+      },
+      [
+       "span",
+       {},
+       "–"
+      ],
+      [
+       "p",
+       {},
+       "Ben… Et en fait c’est vous qui aviez des des questions. C’est quoi les questions en fait. C’est pas à moi de me poser des questions. C’est... mais je croyais que c’était vous qui posez des questions puis je répondais."
+      ]
+     ],
+     "\n",
+     [
+      "li",
+      {
+       "lang": "fr"
+      },
+      [
+       "span",
+       {},
+       "–"
+      ],
+      [
+       "p",
+       {},
+       "D’accord. Ok. Donc là vous trouvez que je vous pose pas de question, en fait."
+      ]
+     ],
+     "\n",
+     [
+      "li",
+      {
+       "lang": "fr"
+      },
+      [
+       "span",
+       {},
+       "–"
+      ],
+      [
+       "p",
+       {},
+       "Ben disons que là ... comme ça … je sais pas ce qu’il faut dire quoi. (…) Ben disons que c’est... c’est des questions... On peut philosopher pendant des heures sur des sujets pareils, donc je je peux pas là."
+      ]
+     ],
+     "\n",
+     [
+      "li",
+      {
+       "lang": "fr"
+      },
+      [
+       "span",
+       {},
+       "–"
+      ],
+      [
+       "p",
+       {},
+       "D’accord hm hm. En fait c’est que moi dans mes entretiens en général (Elle me coupe la parole)."
+      ]
+     ],
+     "\n",
+     [
+      "li",
+      {
+       "lang": "fr"
+      },
+      [
+       "span",
+       {},
+       "–"
+      ],
+      [
+       "p",
+       {},
+       "Ces questions ne sont pas assez précises pour moi »."
+      ]
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     "En plus de sa réserve sur la faible directivité de l’enquête, elle n’a pas compris sa dimension longitudinale, alors que j’avais précisé que je voulais faire plusieurs entretiens avec chaque interviewée. Les démarches de focalisation pour approfondir ce qui a déjà été dit, lui semblent une perte de temps. En plus, elle se disait dérangée par une sensation de devoir trop généraliser en répondant à mes « questions » et précise que d’une femme à une autre la différence est très grande et que la société est très variée. Parfois, je voyais un agacement ou une « mauvaise foi » dans ses réponses, comme un refus de répondre. Par exemple, dans un échange sur la division sexuelle du travail, elle précise que son mari s’implique beaucoup le week-end avec les enfants. Mais quand je lui demande plus d’explications, elle répond : « Il faisait quoi avec les enfants ? Ben ce qu’on fait avec les enfants... J’en sais rien moi. J’étais pas là. … C’est une occupation.... s’il sait mieux faire que moi, ça j’en sais rien ». Il y avait une contradiction entre son accord explicite et un apparent « manque de collaboration »."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     "Elle a également exprimé des réserves sur l’importance de ma recherche. Malgré les explications données par mail et au premier entretien, elle me demande avec agacement: « C’est dans quel but ? », ce qu’elle répète au deuxième entretien. Elle questionne l’apport de ma recherche pour ces femmes haïtiennes qui, selon elle, auraient plutôt besoin de formation pour valoriser leur travail. Elle ajoute qu’elle ne trouve aucun apport personnel dans ma recherche : « Ben disons que ça peut prendre des heures et des heures des discussions comme ça et euh... ma foi, je vois pas ce que ça m’apporte »."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     "Tout compte fait, avec Madame Laguerre, mon offre de recherche ne semble rencontrer aucune demande de la part de l’interviewée qui, au contraire, critique mon cadre, mon dispositif, voire des hypothèses qu’elle semble me prêter. Il y a ici inversion en quelque sorte. Cette patronne française blanche de la classe moyenne qui expose par ailleurs des connaissances « générales » sur les femmes, la migration, se permet aussi de critiquer ma manière de penser cette recherche et de la mener. Elle défend par ailleurs un antiracisme qui se veut critique face à toute catégorisation sociale, comme on le verra plus loin. Cela m’a fait écrire que pour comprendre le discours des patronnes sur les rapports sociaux de race il fallait, en plus des « idées » défendues, leur demander d’expliquer les faits et, à partir de là, faire des déductions sur leur conception réelle de ces rapports de domination. Dans ces notes, j’ai aussi pris le soin de valoriser « l’intérêt de mon dispositif qui porte à parler des faits, des petits détails du quotidien, que tout le monde sait et qui peut paraître banal même aux yeux des enquêtées », un procédé que j’ai présenté comme une « sociologie de la banalité » (",
+     [
+      "a",
+      {
+       "href": "#t-r36",
+       "id": "t-llamada-r36-8"
+      },
+      "Joseph 2015"
+     ],
+     ") pouvant permettre de dévoiler les rapports sociaux cachés dans le vécu de tous les jours. C’est pourtant cette même approche qui a été invalidée par Madame Laguerre. On ne peut faire l’économie de penser que cette invalidation peut être l’expression de la manière dont les rapports sociaux de race configurent « les interactions, les échanges et les dynamiques de pouvoir qui traversent l’enquête » (",
+     [
+      "a",
+      {
+       "href": "#t-r4",
+       "id": "t-llamada-r4-3"
+      },
+      "Bédinadé et Mayenga 2022"
+     ],
+     ", p. 5). Mais ici encore, il n’est pas aisé de défendre cette hypothèse puisque le racisme, dans la relation de recherche également, est à peine dévoilé."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     "Je garde un très mauvais souvenir de cette relation de recherche et les données, pas suffisamment approfondies à mon goût, ont pris peu de place dans ma recherche, même si j’ai pris le soin de les analyser. Mais ce « soin » m’a beaucoup coûté émotionnellement, d’autant plus que ce travail suppose aussi de réécouter les enregistrements, donc d’affronter à nouveau un ton parfois agressif. Je me suis reprochée de n’avoir pas su arrêter le processus avant le déferlement de ce que j’ai vécu comme violent dans cette relation de recherche. Sans regretter mes choix épistémologiques, j’aurais pu effectuer plus tôt des choix de sécurité́ et d’auto-préservation, impératif de protection de soi qui mérite d’être considéré (",
+     [
+      "a",
+      {
+       "href": "#t-r4",
+       "id": "t-llamada-r4-4"
+      },
+      "Bédinadé et Mayenga 2022"
+     ],
+     "). Mais je suis aussi soulagée de voir que je me suis malgré tout défendue, ce qui a finalement porté Madame Laguerre à révéler un aspect de sa condition professionnelle, avant nos adieux et après ses critiques:"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     "« Ben disons que j’ai d’autres soucis en tête maintenant."
+    ],
+    "\n",
+    [
+     "ul",
+     {},
+     "\n",
+     [
+      "li",
+      {
+       "lang": "fr"
+      },
+      [
+       "span",
+       {},
+       "–"
+      ],
+      [
+       "p",
+       {},
+       "Et qui n’ont rien à voir avec ces choses-là. D’accord."
+      ]
+     ],
+     "\n",
+     [
+      "li",
+      {
+       "lang": "fr"
+      },
+      [
+       "span",
+       {},
+       "–"
+      ],
+      [
+       "p",
+       {},
+       "Ben oui, je dois faire mon bilan de l’année. Et je dois changer de boîte bientôt. Donc j’ai d’autres problèmes en tête."
+      ]
+     ],
+     "\n",
+     [
+      "li",
+      {
+       "lang": "fr"
+      },
+      [
+       "span",
+       {},
+       "–"
+      ],
+      [
+       "p",
+       {},
+       "D’accord. D’accord. Ben pas d’problème. En tout cas merci, merci, moi ça... (",
+       [
+        "i",
+        {},
+        "Elle me coupe la parole"
+       ],
+       ")."
+      ]
+     ],
+     "\n",
+     [
+      "li",
+      {
+       "lang": "fr"
+      },
+      [
+       "span",
+       {},
+       "–"
+      ],
+      [
+       "p",
+       {},
+       "Pour moi j’ai tout dit sur un sujet. J’ai plus tellement de choses à dire sur le sujet, hein."
+      ]
+     ],
+     "\n",
+     [
+      "li",
+      {
+       "lang": "fr"
+      },
+      [
+       "span",
+       {},
+       "–"
+      ],
+      [
+       "p",
+       {},
+       "D’accord. D’accord. Pas d’problème. Ok merci !"
+      ]
+     ],
+     "\n",
+     [
+      "li",
+      {
+       "lang": "fr"
+      },
+      [
+       "span",
+       {},
+       "–"
+      ],
+      [
+       "p",
+       {},
+       "Voilà, ben bonne chance pour votre thèse alors."
+      ]
+     ],
+     "\n",
+     [
+      "li",
+      {},
+      [
+       "span",
+       {},
+       "–"
+      ],
+      [
+       "p",
+       {},
+       "D’accord, merci. Au revoir."
+      ]
+     ],
+     "\n",
+     [
+      "li",
+      {},
+      [
+       "span",
+       {},
+       "–"
+      ],
+      [
+       "p",
+       {},
+       "Au revoir »."
+      ]
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     "Avec elle, j’ai au moins raté la possibilité de mieux comprendre les conditions du télétravail, ses contraintes et les souffrances qui semblent expliquer, en partie, son discours si peu avenant face à une enquêtrice qui lui est, par ailleurs, antagonique dans les rapports sociaux de race. Heureusement qu’avec une autre interviewée, Madame Aix, les conditions raciales de l’enquête feront l’objet de discussion, et dans une relation plus apaisée."
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "section",
+    {
+     "id": "t-s4_6"
+    },
+    "\n",
+    [
+     "h3",
+     {
+      "id": "t-seccion-7"
+     },
+     "Madame Aix : bienveillance et différence"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     "Madame Aix est au contraire une interviewée qui montre un plaisir de discuter, se sent concernée, collabore. Elle consent à des sacrifices pour me consacrer du temps dans son planning très chargé. Journaliste et mère de trois enfants, elle avait employé une nounou haïtienne depuis six ans quand elle m’a contactée en 2010, à la suite de cette annonce d’appel à participation que j’avais publié sur une liste de diffusion : « Dans le cadre d’une recherche (en étude féministe et en sociologie) que j’entreprends depuis 2007, je voudrais contacter des femmes en France qui embauchent (au présent ou au passé) des femmes haïtiennes comme ",
+     [
+      "i",
+      {},
+      "baby sitter"
+     ],
+     ", femme de ménage, femme de chambre, assistante de vie, aide à domicile, aide-soignante, infirmière ». Une proche l’a ainsi invitée à répondre. Elle me raconte sa réaction :"
+    ],
+    "\n",
+    [
+     "blockquote",
+     {
+      "lang": "fr"
+     },
+     "\n",
+     [
+      "p",
+      {},
+      "« Et, je me suis posée la question: “Qu’est-ce que je fais?”. Puis, euh... Alors... Votre nom, est quand même assez spécial quoi ! Et, je me suis dit: “Hou là, c’est quoi, cette..., c’est qui cette personne quoi?”. Ça, vraiment j’étais là mais: “Qui c’est?”. “C’est marrant, elle fait une t..., un machin là-dessus euh…”. (…) C’était au tout début hein... normalement quand je me suis dit est-ce que je réponds ou pas, euh... c’était: “Est-ce qu’elle va en parler à la nounou? Est-ce qu’elle connaît la nounou ?”. Après, je me suis dit: “Qu’est-ce que tu racontes? Comment veux·tu qu’elle connaisse la nounou?”. (...) Et j’ai répondu, parce que, je me dis que c’est intéressant quand même hein. (...) Et oui, je n’ai pas dit à la nounou que je répondais à vos questions. »"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     "On remarque qu’au départ, avant même de me rencontrer, cette femme commence déjà ses projections en utilisant notamment mon nom « assez spécial » qui l’a fait croire que j’étais « autre ». Mais elle m’a contactée le lendemain, avec une question : « Pouvez-vous me préciser qui vous êtes et l’objectif de votre enquête? ». Je me suis donc présentée comme « une haïtienne faisant une thèse de doctorat en sociologie à l’université Paris 7 et en études féministes à l’université de Lausanne ». J’ai précisé que j’écoutais les femmes haïtiennes sur le sujet de la migration et du travail en France, et que je cherchais à questionner des femmes qui les embauchent."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     "Nous avons continué à échanger par email et par sms, et on s’est rencontrées pour trois entretiens, chez elle, avec ou sans les enfants, une fois dans un bar, après son travail ou sur ces jours de congés. On s’adaptait en fonction de ses disponibilités et de mes déplacements entre la France, la Suisse et Haïti. Comme aux deux autres, j’ai proposé un cadre très peu directif, avec un choix d’adaptation prenant aussi en compte les contraintes de la vie quotidienne, au travail, dans la famille, ou en fonction de situations spécifiques comme l’état de santé de Madame Forbe. Je présente ainsi ce cadre, par mail, à Madame Aix, avant de le reprendre au premier entretien : « Par exemple, si vous êtes d’accord pour participer à cette recherche, je ferai avec vous quelques entretiens sur le sujet, des entretiens où vous serez libre de dire ce que vous voulez, ce que vous savez, pensez ou ressentez par rapport à ce phénomène. Ces entretiens pourront être effectués là où vous le voulez, quand vous le pouvez, et comme vous le sentez. Bien entendu, les informations recueillies resteront confidentielles, et je vous assure la plus grande anonymat",
+     [
+      "a",
+      {
+       "href": "#t-fn7",
+       "id": "t-llamada-fn7-1"
+      },
+      [
+       "sup",
+       {},
+       "7"
+      ]
+     ],
+     " ». Elle m’a aussi demandé combien de temps elle devait prévoir pour les entretiens, en précisant que ça lui permettrait de s’organiser. Elle était à temps partiel maternité. Parfois, elle mettait du temps avant de me proposer une date, m’envoyait vite fait un sms pour préciser l’horaire. Une fois, elle a annulé la veille et une autre fois, elle a changé de lieu de rencontre. Mais elle s’excusait en expliquant les raisons de ces changements (contraintes professionnelles, maladie), ce qui m’a apporté des éléments de contexte sur la vie réelle des jeunes mères travailleuses ainsi que sur leur surcharge familiale malgré l’externalisation qui, finalement, n’est souvent que partielle (",
+     [
+      "a",
+      {
+       "href": "#t-r37",
+       "id": "t-llamada-r37-2"
+      },
+      "Joseph 2017"
+     ],
+     "). Je prenais à chaque fois le temps de lui dire que je comprenais et que cela illustrait nos objets d’échange. Je rappelais l’adaptabilité du cadre. Et comme pour les deux autres, je remerciais, rappelais ce que j’avais appris dans chaque entretien, l’importance de ces données pour ma recherche, le savoir en cours de co-construction au fil des rencontres. Avec elle, je rappelais ces points par mail après les rencontres, en planification d’une prochaine rencontre, avant et après chaque entretien."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     "La gratitude, selon moi, fait partie de la recherche par entretien, et dans une recherche féministe, elle aide les femmes à se sentir utiles, à valoriser leur participation, à se rassurer sur leur capacité à produire du savoir. J’ai choisi d’adopter cette manière de faire avec les femmes haïtiennes, en France et en Haïti. Cependant, malgré les rapports sociaux de race et les risques d’inversion dans la relation, j’ai également fait le choix de cette « gratitude capacitance » (ces remerciements qui renforcent la participation à la co-construction du savoir) avec les femmes françaises également. Ce choix est aussi déterminé par le fait que je cherchais à comprendre non pas leur opinion sur le rapport social de race ou leur « évaluation » des Haïtiennes, mais plutôt ce qui, dans leur vie de femme, mère, conjointe, employée, les portait à externaliser, ce qui explique qu’elles aient engagé une Haïtienne."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     "A la fin de 2011, on a réalisé le dernier entretien en revenant sur ce qui a été dit, y compris sur sa conception des « différences » qui, selon elle, l’éloignait de cette nounou haïtienne. Son dernier enfant venait de rentrer à l’école, et la rupture du contrat la rendait inconfortable. C’est aussi dans ce contexte largement analysé avec des travailleuses haïtiennes, ce moment où la nounou irremplaçable devient comme une pièce gênante, que s’inscrit le discours élaboré de Madame Aix sur « la différence culturelle » entre elle et sa travailleuse, comme je le présenterai plus tard. On a analysé ce que cette idée représentait comme conception des rapports sociaux de race et discuté de ses implications sur la relation de recherche, sur les projections de cette patronne française blanche sur moi, doctorante haïtienne noire, ce qui illustre donc les conditions raciales de l’enquête."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     "En considérant mon statut d’Haïtienne, elle voit la différence culturelle, mais mon statut de doctorante qui lui rappelle celui d’un membre de sa famille, lui inspire peut-être du respect. En tout cas, le fait de lui poser des questions, d’avoir un rôle « d’experte » à la fois en tant que doctorante et comme haïtienne, a fait l’objet de nos discussions. Au dernier entretien, j’ai osé lui demander si « moi aussi » elle me situait dans une différence culturelle face à elle. Oui et non, semblait-elle répondre:"
+    ],
+    "\n",
+    [
+     "blockquote",
+     {
+      "lang": "fr"
+     },
+     "\n",
+     [
+      "p",
+      {},
+      "« Euh…, ben y a une différence culturelle au sens où vous savez beaucoup plus de choses que moi euh... sur elle [la nounou haïtienne] que..., même en ayant vécu euh..., six ans avec elle, enfin voilà! Il y a des choses que vous comprenez d’emblée, voilà̀, que moi, ha ha ha (rires)! Sauf si on me le dit euh... Bon. Je n’arrive pas, je n’arrive pas à réussir à la comprendre. Donc, est-ce qu’il y a une différence culturelle? Oui »."
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     "Ce qui parait évident pour la nounou – ou pour moi qui suis aussi Haïtienne – ne l’est pas pour la patronne. Et en écoutant ses interrogations sur certains faits de la vie de sa nounou qui me paraissaient pourtant évidents, j’avais envie de lui dire: “Tu ne peux pas comprendre”. ",
+     [
+      "a",
+      {
+       "href": "#t-r26",
+       "id": "t-llamada-r26-1"
+      },
+      "Sophie Hamisultane (2013)"
+     ],
+     ", doctorante d’origine vietnamienne, se répétait elle aussi cette phrase dans un groupe clinique qui réunissait des personnes vietnamiennes avec qui elle partageait des points de vue qui étonnaient les personnes participantes françaises. Ici, on est face aux effets du point de vue situé dans la recherche où l’implication (en tant qu’",
+     [
+      "i",
+      {},
+      "insider"
+     ],
+     " des certaines personnes et ",
+     [
+      "i",
+      {},
+      "outsider des autres"
+     ],
+     ") exprime fortement la place de la personne chercheuse dans les rapports sociaux."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     "Madame Aix nuance son propos sur la différence entre nous quand elle prend en compte mon statut d’enquêtrice: « Et puis en plus vous êtes dans un travail de réflexion, vous êtes en train de me... Non, ce n’est pas une différence culturelle, c’est une différence euh, euh... Je ne sais pas comment le qualifier, mais euh... Vous réfléchissez à tout ça, donc..., moi je vous raconte, je vous déballe... ce que je vis, donc euh... ». Ces réponses montrent la complexité de l’articulation de mes deux statuts pour la patronne. Mais l’asymétrie enquêtrice-enquêtée ne lui empêche pas de me donner des idées de lecture sur « la différence culturelle ». Essayait-elle alors d’inverser la relation et se positionner en savante ? C’est parfois le cas dans les enquêtes auprès des dominant·e·s, comme on le voit avec Hélène Chamboredon et al (1994) et comme je l’ai supposé en analysant la relation avec Madame Laguerre. En même temps, l’échange ou le partage des savoirs sont fondamentaux dans la recherche clinique, comme le montre ",
+     [
+      "a",
+      {
+       "href": "#t-r48",
+       "id": "t-llamada-r48-1"
+      },
+      "Jacques Rhéaume (2019)"
+     ],
+     ". ",
+     [
+      "a",
+      {
+       "href": "#t-r7",
+       "id": "t-llamada-r7-3"
+      },
+      "Jacques Broda et Pierre Roche (1993)"
+     ],
+     " présentent d’ailleurs les personnes savantes et sachantes comme coautrices de la recherche et du lien. La co-construction du savoir n’implique pas forcément une inversion dans la relation et remet en cause la centration sur l’expertise des personnes chercheuses pour valoriser l’expérience des personnes sujettes. Mais si cette posture fait bouger l’asymétrie entre personnes enquêtrice et enquêtées, elle ne saurait occulter les hiérarchisations sociales (y compris racistes) toujours à l’œuvre dans les relations d’enquête, ainsi que les tentatives/stratégies de subversion des enquêtrices ou des enquêtées."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     "Madame Aix n’a pas invalidé ma méthode et, au contraire, elle a reconnu le bénéfice de cette recherche pour elle. Je me suis demandé si cette patronne n’était pas trop « confortable » dans ces entretiens. Sans avoir une visée thérapeutique, la recherche clinique peut effectivement avoir des effets thérapeutiques. Je me questionne quand même sur le fait d’avoir « fait du bien » à cette femme, En plus, ma posture compréhensive ne doit pas passer pour une impression que je peux tout comprendre, mon écoute comme la possibilité de tout écouter, sans filtre, sans gant. Je me demande si elles reconnaissaient parfois que je pouvais être blessée par ce qui était dit des personnes noires, migrantes, haïtiennes, ... J’ai souvent eu mal au ventre pendant ma thèse, ce que je vivais comme une difficulté à assimiler certaines données trop choquantes comme certaines formes de racisme indigeste exprimé comme un anti-racisme que je montrerai après."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     "J’ai contacté Madame Aix quelques semaines avant ma soutenance (en 2015) pour lui envoyer mon document de thèse. Ce mail participe aussi à un effort de restitution, en plus du processus déjà engagé au dernier entretien. Avant cette dernière rencontre, je lui avais également envoyé une copie de mes enregistrements et un tableau bilan, en précisant que ça nous permettrait « d’avoir une discussion sur le chemin parcouru ». Dans ce dernier mail, j’en profite pour lui partager, en plus de mes nouvelles, les contraintes personnelles qui m’ont ralentie dans la finalisation de la recherche. Je lui ai encore exprimé ma gratitude : « (…) je vous remercie d’avoir accepté de me raconter votre histoire. Je respecte ce geste ainsi que la personne que j’ai pu découvrir par vos mots ». Et je lui ai renvoyé l’ascenseur en reprenant ce qu’elle m’a dit à la fin de notre dernier entretien : « si je peux vous être utile en quoi que ce soit, n’hésitez pas ». Cette proposition « d’aide » peut également être considérée comme une proposition d’ouverture sur d’autres liens. La recherche ouvre sur des liens humains, des formes d’attachement, qui déterminent d’ailleurs sa réalisation. Et en clinique, c’est une « vraie relation » qui se tisse dans l’enquête, une rencontre (",
+     [
+      "a",
+      {
+       "href": "#t-r35",
+       "id": "t-llamada-r35-4"
+      },
+      "Joseph 2013"
+     ],
+     "). ",
+     [
+      "a",
+      {
+       "href": "#t-r2",
+       "id": "t-llamada-r2-1"
+      },
+      "Si Martina Avanza (2008)"
+     ],
+     " se demande à juste titre comment faire de la recherche quand on n’aime pas ses « indigènes » (ses enqueté-e-s), on pourrait se demander, en considérant ces relations humaines de recherche, comment ne pas les « aimer ». Que faire de ce travail d’empathie qui fait aussi partie du travail émotionnel pour les personnes chercheuses, y compris les racisées ?"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     "Lorsque Madame Aix m’a répondu quelques heures plus tard, elle s’est dite très touchée par les analyses sur les patronnes, a confirmé les bienfaits de cette recherche sur elle, et a promis de lire « les témoignages des nounous » pour en apprendre plus. Dans son courrier électronique, elle exprime néanmoins une gêne face à mes analyses sur la différence culturelle:"
+    ],
+    "\n",
+    [
+     "blockquote",
+     {
+      "lang": "fr"
+     },
+     "\n",
+     [
+      "p",
+      {},
+      "« Je vois aussi des aspects qui me réjouissent moins, notamment cette “différence culturelle” qui me séparait de la nounou et que vous taxez de racisme. Zut alors, ça ne me fait pas plaisir. Mais vos observations sur ma proximité avec les JF [jeunes filles] au pair allemandes sont très justes, je faisais une différence. Il m’est très pénible de me voir comme raciste, je ne le veux pas mais je le suis malgré moi, semble-t-il. Ce que vous dites va m’aider à évoluer, vous avez raison sur le côté psychothérapie de votre travail pour moi. »"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     "Cette réponse m’a attristée. Autant je n’avais pas envie de faire du bien à cette patronne, de la conforter dans sa conception raciste, autant je ne voulais pas lui faire du mal compte tenu de ses sacrifices pour me rencontrer, sa gentillesse et sa volonté de contribuer à une cause qui lui semblait utile. Le côté relationnel censure les personnes chercheuses. La participation des personnes interrogées est aussi un don, qui crée chez les personnes chercheuses une dette. Dans ce sale boulot émotionnel de la recherche, quel rapport peut-on établir entre cette dette et les conditions raciales de l’enquête ? On en revient à Paul Fustier (2020), à l’infiltration du cadre formel par des dimensions informelles et qui, ici, crée un surplus d’investissement peut-être indispensable à l’émergence d’un savoir sur le vécu et l’intimité, mais pouvant aussi nous tenir en laisse. La parole se délie grâce à une relation de confiance, mais la trahison de la confiance, pour ",
+     [
+      "a",
+      {
+       "href": "#t-r9",
+       "id": "t-llamada-r9-1"
+      },
+      "Isabelle Clair (2016)"
+     ],
+     ", semble inhérente à la restitution des résultats. Or, comment critiquer le racisme distillé dans le discours d’une vraie personne, rencontrée dans une vraie relation? Comment analyser les conditions raciales de cette enquête sans avoir l’impression de trahir, quand la patronne française blanche de classe moyenne a par ailleurs été très accueillante et encourageante envers la doctorante haïtienne noire ? Jusqu’où les personnes chercheuses peuvent-elles s’autoriser à aller dans l’analyse et la restitution des données recueillies dans une vraie relation de recherche? C’est également à ce niveau que mon travail diffère de l’analyse discursive de Colette Guillaumin (1972) qui portait essentiellement sur des documents. Il faudrait considérer les stratégies des personnes chercheuses pour parler du racisme, surtout quand il est à peine dévoilé, dans un discours qui se veut antiraciste et qui est énoncé dans une relation bienveillante."
+    ],
+    "\n"
+   ],
+   "\n"
+  ],
+  [
+   "section",
+   {
+    "id": "t-s5"
+   },
+   "\n",
+   [
+    "h2",
+    {
+     "lang": "fr",
+     "id": "t-seccion-8"
+    },
+    "Ce racisme à peine dévoilé dans le discours"
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "fr"
+    },
+    "En plus de l’invisibilisation du point de vue minoritaire (",
+    [
+     "a",
+     {
+      "href": "#t-r12",
+      "id": "t-llamada-r12-1"
+     },
+     "Dechaufour 2008"
+    ],
+    ", ",
+    [
+     "a",
+     {
+      "href": "#t-r1",
+      "id": "t-llamada-r1-3"
+     },
+     "Ait Ben Lmadani et Moujoud 2012"
+    ],
+    ") et du caractère eurocentré des méthodes d’enquête critiqué par les ",
+    [
+     "i",
+     {},
+     "Indigenous Studies"
+    ],
+    ", les ",
+    [
+     "i",
+     {},
+     "Subaltern Studies"
+    ],
+    ", les ",
+    [
+     "i",
+     {},
+     "Postcolonial Studies"
+    ],
+    " et les courants décoloniaux (",
+    [
+     "a",
+     {
+      "href": "#t-r5",
+      "id": "t-llamada-r5-4"
+     },
+     "Bédinadé et Mayenga 2023"
+    ],
+    "), on ne peut négliger l’exposition des personnes chercheuses, de leur corps racisé, dans ce type de recherche. Philomena Essed (",
+    [
+     "a",
+     {
+      "href": "#t-r42",
+      "id": "t-llamada-r42-2"
+     },
+     "Larcher 2023"
+    ],
+    ") a évité de demander à des personnes noires d’infiltrer un terrain -ce qui les exposerait à la discrimination raciale et ethnique qui s’ajouterait au racisme déjà présent dans leur vie quotidienne- dans le seul but de faire de la recherche. Or dans le cadre de ma recherche, comme j’ai refusé d’être une observatrice cachée, je me suis exposée au racisme sans le savoir ou sans le vouloir consciemment. Comme si j’étais « dans la peau » d’une travailleuse domestique haïtienne noire, j’ai absorbé une partie non-négligeable du racisme domestique, en plus de ce que je vis par ailleurs dans d’autres domaines. Être une personne chercheuse ",
+    [
+     "i",
+     {},
+     "insider"
+    ],
+    " dévoilée expose ainsi au racisme à peine dévoilé que j’ai observé auprès des patronnes françaises."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "fr"
+    },
+    "Si les femmes haïtiennes ont été directement interrogées sur le racisme vécu au travail, je n’ai pas consciemment choisi d’écouter les femmes françaises blanches sur ce sujet. Et pourtant, elles m’ont exposé leur point de vue que j’ai reccueilli/accueilli. Les Haïtiennes ont critiqué le racisme en considérant leurs conditions de travail : le temps contraint, approprié et la difficulté de concilier vie familiale et vie professionnelle ; la tâche considérée comme sale et dévalorisante, inégalement assignée, avec des extras qui transforment les travailleuses en bonnes à tout faire; la rémunération parfois difficile à négocier ou à faire respecter, jugée insuffisante et à laquelle certaines familles ajoutent des restes ou de la bonne foi qui ne suffisent pas à sortir les migrantes de la pauvreté; des relations marquées par le mépris ou plutôt la bienveillance, l’attachement des personnes soignées ou la peur des patronnes, … Quant aux rapports sociaux, ceux de race ou les rapports Nord/Sud qui transforment les migrantes en travailleuses exploitées dans le service domestique, elles en parlent ouvertement et vont jusqu’à comparer leur condition à celle des esclaves. Keli (nounou et assistante de vie) déplore: «Ils restent avec la même mentalité. Donc ils pensent constamment..., que toi tu es encore..., que le Noir est une bête de somme, pour faire tous les travaux à leur place, (...) Ils gardent toujours la même mentalité. Tu es esclave, tu es Noir, Tu es esclave, tu ne sais rien ». Kouzin (nounou et employée polyvalente en maison de retraite) critique: « En fait, dans toutes les familles où j’ai été, donc euh... Je ne veux pas dire que le problème est une question de...[racisme] pour ne pas mettre les choses à un niveau trop élevé... (...) Je n’arrive pas à trouver le mot exact pour te décrire cela. (...). C’est que très souvent, les gens pensent que, ils voudraient que tu sois..., esclave n’est pas le mot. Si je dis esclave, c’est trop... Esclave n’est pas le terme... Que tu sois “à leur disposition”! Voilà! »."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "fr"
+    },
+    "Les femmes françaises, elles, dans une logique de distinction, critiquent l’exploitation des travailleuses domestiques exercée par d’autres patronnes françaises blanches et développent un discours qui se veut anti-raciste. Pourtant, dans les faits qu’elles décrivent et mêmes certaines « opinions » présentées comme étant critiques du racisme, il y a un racisme caché, à peine dévoilé. J’ai formulé qu’elles présentaient un « racisme anti-raciste » (",
+    [
+     "a",
+     {
+      "href": "#t-r36",
+      "id": "t-llamada-r36-9"
+     },
+     "Joseph 2015"
+    ],
+    "), se défendaient comme pour dire « Mon racisme n’existe pas » (",
+    [
+     "a",
+     {
+      "href": "#t-r38",
+      "id": "t-llamada-r38-1"
+     },
+     "Joseph 2022"
+    ],
+    "[2021]). Il a fallu une analyse discursive assez fine pour comprendre ces phénomènes étudiés par ailleurs par Guillaumin (",
+    [
+     "a",
+     {
+      "href": "#t-r24",
+      "id": "t-llamada-r24-1"
+     },
+     "2002"
+    ],
+    " [1972]), ",
+    [
+     "a",
+     {
+      "href": "#t-r15",
+      "id": "t-llamada-r15-1"
+     },
+     "Essed (1991)"
+    ],
+    ", ",
+    [
+     "a",
+     {
+      "href": "#t-r14",
+      "id": "t-llamada-r14-1"
+     },
+     "El Miri (2018)"
+    ],
+    "... Ce racisme se cache dans des discours les plus banals et innocents, l’humour voire l’éloge, ou dans le déni. Essed (2004) invite à ne pas réduire le racisme à des propos abrupts, des actes extrêmes ou excessivement violents. Et comme l’a démontré Guillaumin (1992), réduire le racisme à une conduite hostile qui s’exprimerait dans la brutalité, la méchanceté et l’agressivité correspond à une « définition raciste du racisme ». J’ai utilisé sa critique de « l’idée de nature » utilisée pour altériser et approprier les dominé-es, pour comprendre le racisme insidieux de ces patronnes. J’ai classé leurs préjugés en deux catégories utilisées pour penser une frontière entre elles et les femmes haïtiennes employées : La différence naturelle et la différence culturelle. Les travailleuses haïtiennes sont présentées comme étant « naturellement » différentes, les nounous comme étant gentilles, douées avec les enfants, plus douces. Les trois femmes interrogées s’entendent sur ces étiquettes élogieuses pourtant marquées par l’idée d’une nature différente de ces travailleuses, étiquettes analysées dans d’autres recherches sur les travailleuses domestiques migrantes et racisées du Sud comme celle d’",
+    [
+     "a",
+     {
+      "href": "#t-r34",
+      "id": "t-llamada-r34-1"
+     },
+     "Ibos (2008)"
+    ],
+    ". Madame Forbe, cette patronne octogénaire, qualifie ainsi les haïtiennes: « Vous êtes des gens très gentils. (...) Vous êtes des gens très, très doux, très... Je ne peux pas expliquer. C’est, c’est en vous ça ». Elle renchérit: « C’est vrai! C’est vrai que vous avez... (...) Mais quand elle [sa soignante] est venue chez moi, on a bavardé, j’ai ressenti cette douceur. Vous aussi [Moi, la doctorante] vous êtes pareille. Ses filles sont pareilles. Ah oui! Elles sont gentilles, ses filles (...) C’est... c’est comme ça ». Son naturalisme s’exprime ainsi: « Vous êtes comme ça de nature. C’est la nature de votre...de votre... comment?... de votre nationalité! Enfin, c’est peut-être pas le mot qui convient, mais c’est comme ça ». Serait-ce “race” le terme qu’elle recherche? Elle ajoute: « Vous êtes comme ça. Et c’est vrai que j’ai connu certaines personnes de, même des Africains et des... (...) il y a cette espèce de douceur qui est...Je l’ai toujours ressenti comme ça ». Mme Laguerre semble refuser toute catégorisation sociale ou démarche d’étiquetage qui porterait à stigmatiser un groupe. Elle dit : « Chaque personne est différente. On peut pas faire un stéréotype sur un pays parce que chaque personne a une histoire différente ». Elle finit pourtant par enfermer les deux femmes haïtiennes recrutées pour garder ses enfants dans des « boites fictives » identitaires qui ne correspondent même pas à la réalité. Qu’est-ce qu’être une femme haïtienne? Madame Laguerre répond: “ Eh bien, une personne qui vient d’une île. Qui, une fois qu’elle est en France, est loin de de sa terre d’origine et avec un climat complètement différent. Et des valeurs aussi complètement différentes. Des gens qui réagissent complètement différemment. Et ça doit donner le mal du pays ». J’ai appris à la fin que les Haïtiennes employées par Madame Laguerre sont (aussi) des françaises! L’une a migré dans son enfance et l’autre est née en France! Par une généralisation ou une globalisation, procédé étudié par Guillaumin (",
+    [
+     "a",
+     {
+      "href": "#t-r24",
+      "id": "t-llamada-r24-2"
+     },
+     "2002"
+    ],
+    " [1972]), l’étiquette d’Haïtienne leur est accolée; moins pour leur nationalité ou leur ancienneté en France que pour leur “origine”. Madame Aix, une autre patronne, utilise elle aussi la différence naturelle mais défend surtout l’idée d’une différence culturelle pouvant expliquera les malaises dans ses relations avec la nounou qui, de toute façon, est bête. Elle affirme: « Elle comprend rien. Elle est idiote quoi, elle comprend rien. Rien, rien rein. Est-ce que c’est raciste de dire ça? Je n’en sais rien, J’ai simplement constaté qu’y avait des choses, à partir d’un certain niveau de complexité, elle y arrivait pas quoi. (...) Je l’ai pas employé en pensant que de toute façon c’était que...enfin voilà, c’était qu’une Noire euh, c’était mon esclave, enfin, j’ai pas du tout cette... ». Elle ne sait pas si c’est raciste, contrairement aux travailleuses comme Keli et Kouzine qui affirment que c’est le cas. Il y a dans le discours de cette patronne une dénégation (Guillaumin, 1972) qui représente en soi une forme de racisme (Essed 2004). Madame Aix limite les conversations avec sa nounou qui ne comprendrait rien, fait intrusion dans sa vie privée et s’étonne de manière excessive de certains éléments de sa vie (son enfant qui a de très bons résultats scolaires alors que la travailleuse « ne sait rien », des personnes lettrés figurant dans l’entourage de la travailleuse, ses choix de coquetterie, son intérêt pour Obama, ou au contraire sa méfiance face à Sarkozy…). Elle répète « Il y a de grandes différences culturelles entre nous et ce n’est pas très évident ». Cette différence lui fait peur, ce qui porte cette patronne à garder ses distances, établissant une frontière entre elle et cette employée alors que d’autres voient dans ces travailleuses un membre de la famille. Elle déclare : « Je ne dirais pas que c’est un membre de la famille. Parce qu’il y a quand même une part d’elle que je ne comprends pas. Un membre de ma famille, je sais qui c’est... ». Elle affirme plus loin: « Avec ma nounou, cette distance elle existera toujours à cause de la différence culturelle ». J’ai longuement analysé les différences de traitement infligées à cette travailleuse comparativement aux jeunes filles aux pairs allemandes que Madame Aix dit préférer. Cette différence crée la « frontière dans l’intimité » (Miranda 2003), une distance établie avec ces employées qui travaillent pourtant dans la grande proximité imposée par l’univers domestique. Cela devient finalement une « frontière dans l’humanité » (",
+    [
+     "a",
+     {
+      "href": "#t-r36",
+      "id": "t-llamada-r36-10"
+     },
+     "Joseph 2015"
+    ],
+    ") tant l’altérisation est parfois radicale. C’est à se demander si ces travailleuses sont considérées comme des femmes elles-aussi, des mères, des personnes (",
+    [
+     "a",
+     {
+      "href": "#t-r37",
+      "id": "t-llamada-r37-3"
+     },
+     "Joseph 2017"
+    ],
+    "). Tout semble alors différent en elles, aussi bien leur rapport au corps ou aux enfants, que la nourriture qu’elles sortent de leur sac, ces « bananes » qui choquent Madame Aix ou Madame Forbe qui en parle, s’adressant à moi, en disant « vos bananes à vous ». Ces bananes sont surtout antillaises, donc françaises dans une certaine mesure. Et moi, dans cette relation de recherche, je suis renvoyée sans « violence » à ces femmes, haïtiennes comme moi, donc ramenée à la différence, qu’elle soit naturelle ou culturelle. Les rapports sociaux, ceux de race ou Nord/Sud, marquent aussi les relations de recherche. Il est donc important de regarder de plus près la construction de ces relations d’enquête qui ont permis l’émergence de ce racisme à peine dévoilé dans le discours de ces patronnes blanches."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "fr"
+    },
+    "Par ailleurs, il y a probablement une part de « séduction » dans la relation de recherche qu’on ne devrait pas sous-estimer. Ces femmes ont peut-être accepté de me parler parce qu’elles sont certaines de pouvoir me donner une parole qui peut me satisfaire. Voulaient-elles me parler du racisme pour se justifier, se rassurer, s’expliquer, se convaincre qu’elles n’ont pas tort par rapport à certaines situations dont elles ne sont plus très sûres ? Est-ce qu’elles se montrent antiracistes pour me plaire? Il est important de s’arrêter sur ce cadre clinique qui a permis de donner la parole à ces femmes en se questionnant sur les effets de ce choix épistémologique."
+   ],
+   "\n"
+  ],
+  [
+   "section",
+   {
+    "id": "t-s6"
+   },
+   "\n",
+   [
+    "h2",
+    {
+     "lang": "fr",
+     "id": "t-seccion-9"
+    },
+    "La parole au cœur de la méthode : co-construction clinique et changement social"
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "fr"
+    },
+    "Dans cette recherche très peu directive par ailleurs, j’ai respecté le droit à la parole de chacune des cinq catégories de femmes interrogées en Haïti et en France, même si je ne les ai pas questionnées sur les mêmes sujets. Pour les entretiens en groupe, j’ai choisi de construire des espaces non-mixtes (qui ne mélangent pas employeuses et employées notamment), même si, dans l’analyse, j’ai parfois mis en dialogue les points de vue des unes et des autres. Je ne demande pas le point de vue des dominantes sur les dominées, même si je ne l’empêche pas d’émerger dans la discussion. J’ai adopté le principe clinique de co-construction du savoir avec toutes les catégories de femmes interrogées, y compris les dominantes. J’ai donné la parole à ces patronnes françaises blanches sans chercher à connaître leur perception du racisme, même si j’ai été suffisamment ouverte pour la prendre en compte",
+    [
+     "a",
+     {
+      "href": "#t-fn8",
+      "id": "t-llamada-fn8-1"
+     },
+     [
+      "sup",
+      {},
+      "8"
+     ]
+    ],
+    ". Ma recherche a certainement permis à ces femmes de se poser certaines questions sur les rapports sociaux y compris sur le racisme, en plus de mieux comprendre ce qui s’est joué pour elles dans ces relations de travail."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "fr"
+    },
+    "Ma manière de questionner et parfois de reformuler est souvent rapportée comme étant une « explication ». En France et en Haïti, les femmes interrogées me disent souvent « Tu nous as fait voir ceci... Tu nous as dit… », même si c’est c’est plutôt elles qui ont parlé. Par exemple, au dernier entretien, je reviens sur un fait rapporté par Madame Aix qui illustre la peur déplacée générée par sa conception de la différence culturelle. Je nuance: “(...) je me suis dit, mais, c’est normal que vous ne compreniez pas... Maintenant, est-ce que c’est normal que ça vous fasse peur, c’est peut-être une autre question. Mais c’est ... Et de ne pas comprendre ça, ça peut vous mettre mal à l’aise effectivement quoi. (...) c’est comme si moi, c’était plus facile pour moi en fin de compte de comprendre la nounou que vous, parce que je …”. Elle enchaîne, sans soulever la nuance : “Parce que aussi elle ne parlait pas beaucoup. Donc euh... Elle…, elle était pas en mesure de m’expliquer ces trucs-là̀ ». Grâce à ma démarche maïeutique qui met en place un cadre facilitant « l’accouchement » des idées et des interrogations, les effets d’",
+    [
+     "i",
+     {},
+     "insight"
+    ],
+    " font émerger des savoirs, qui parfois me sont attribués à tort. Comment mes dites « explications » peuvent-elles participer à conscientiser les narratrices ?"
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "fr"
+    },
+    "La conscientisation, qui est au cœur de différentes recherches engagées (Freire 1970, ",
+    [
+     "a",
+     {
+      "href": "#t-r33",
+      "id": "t-llamada-r33-2"
+     },
+     "hooks 1984"
+    ],
+    ", ",
+    [
+     "a",
+     {
+      "href": "#t-r47",
+      "id": "t-llamada-r47-1"
+     },
+     "Pereira 2018"
+    ],
+    ", ",
+    [
+     "a",
+     {
+      "href": "#t-r29",
+      "id": "t-llamada-r29-1"
+     },
+     "Hedjerassi 2016"
+    ],
+    "), rencontre en plus le principe clinique de la visée émancipatrice en articulant la théorie et la pratique dans une perspective de changement social. C’est aussi ce qu’exprime ",
+    [
+     "a",
+     {
+      "href": "#t-r21",
+      "id": "t-llamada-r21-1"
+     },
+     "Vincent de Gaulejac (2000, p. 216)"
+    ],
+    " à propos des récits de vie cliniques: « Travailler sur les rapports de domination, la violence symbolique qui traversent les relations sociales, montrer en quoi cette domination s’exprime en permanence dans la quotidienneté, dans les comportements les plus anodins, dans des situations de tous les jours, jusque dans les usages du corps. L’histoire de vie est alors un combat. (...) Moyen d’échapper au risque de la trahison lorsqu’on est un transfuge entre deux mondes sociaux, le récit de vie est un témoignage sur la permanence des classes sociales et un moyen de déconstruire les éléments qui permettent de légitimer la domination des uns sur les autres ». Le but est d’aider les personnes à faire sens sur leurs vécu et souffrance, ce qui correspond à un changement (souhaitable, espéré ou probable), même si la recherche n’a pas une visée d’intervention. Je me suis demandée si j’avais suffisamment aidé ces patronnes à se remettre en question, à « prendre conscience » du racisme, puisqu’à la fin elles ont gardé certains discours de déni ou d’éloge mal placé, par exemple. Ma recherche les a-t-elle changées ? Faut-il participer la conscientisation des personnes dominantes? A quoi cela pourrait-il servir? Je me suis donc questionnée sur la limite éventuelle de cette visée émancipatrice dans une recherche auprès des publics dominants."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "fr"
+    },
+    "Ma recherche semble avoir fait du bien à certaines patronnes. Elle a aidé Madame Forbe à aller mieux dans l’immédiat, a permis à Madame Aix de vider son sac face à ses tensions avec sa nounou haïtienne. Après sa rupture avec une première nounou, Madame Aix qui était très insatisfaite des évènements et de sa manière à elle de réagir, est allée voir un psychologue. Elle me confie que ma recherche lui a fait le même effet. Elle déclare :"
+   ],
+   "\n",
+   [
+    "blockquote",
+    {
+     "lang": "fr"
+    },
+    "\n",
+    [
+     "p",
+     {},
+     "« Ah oui. C’est très intéressant, parce que je...comme avec la nounou ça s’est mal terminé... Je n’aime pas ça,... Ça me paraît.... Ça ne m’a pas plu. Mais discuter avec vous, ça m’a permis de mieux comprendre pourquoi... qu’est-ce qu’il y avait qui marchait pas euh..., qu’est-ce qui me gênait, (...) Je préfère toujours en parler avec, à quelqu’un d’autre. Ça me permet de me comprendre moi-même, et de me dire, de...., voilà ....de, hi hi hi,... (rires). J’ai envie de dire..., de me déculpabiliser par rapport à ce qui s’était passé »."
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "fr"
+    },
+    "Cette déclaration qui clôt un entretien où la question de la différence culturelle a été largement discutée, m’a fait questionner le fait de donner la parole aux personnes dominantes. Peut-on être trop compréhensif-ve dans la recherche?"
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "fr"
+    },
+    "La recherche impose de ne pas juger mais de comprendre y compris dans les approches compréhensives ou cliniques, ou encore dans d’autres démarches attachées à une éthique du ",
+    [
+     "i",
+     {},
+     "care"
+    ],
+    " dans la recherche. Ne pas perdre de vue les rapports sociaux qui déterminent les relations sociales, critiquer le système au lieu d’individualiser chaque comportement, tout cela m’a aidée à ne pas juger. Toutefois comprendre, ce n’est pas justifier. Il faut trouver un juste équilibre entre ce que j’appelle une ",
+    [
+     "i",
+     {},
+     "approche zéro"
+    ],
+    " (fausse neutralité qui fait éviter toute réaction pouvant être interprétée comme un désaccord face à un énoncé et porte donc la personne interrogée à penser qu’on partage complètement son point de vue) et une ",
+    [
+     "i",
+     {},
+     "approche marteau"
+    ],
+    " qui critique systématiquement chaque point de vue exprimé par la personne interrogée, cassant les règles de l’écoute et du décentrement (Joseph 2021, ",
+    [
+     "a",
+     {
+      "href": "#t-r39",
+      "id": "t-llamada-r39-2"
+     },
+     "2024"
+    ],
+    "). La première tend vers un acquiescement total alors que la seconde ouvre la porte à de la contestation ouverte ou de la critique outrancière. Ce qui m’a semblé un bon compromis entre les deux extrêmes m’a paru anormal dans l’après coup. Si Madame Aix se sent déculpabilisée à la fin, c’est que ma tentative de garder l’équilibre entre le zéro et le marteau a peut-être échoué, alors que j’ai l’impression qu’elle a très bien fonctionné avec les femmes haïtiennes interrogées en France ou en Haïti. Avec les patronnes françaises, je ne suis d’ailleurs pas satisfaite du niveau de changement visible dans leur perception du genre et de la classe. Serait-ce un biais de « race », au sens où à cause du rapport de race, je serais plus à l’aise dans ma maïeutique auprès des Haïtiennes? Ou serait-ce plutôt à cause de la position sociale de patronne de Madame Aix? Ce qui déculpabilise la personne interviewée (y compris face à des propos que les travailleuses ou moi pouvons vivre comme étant racistes), ne peut-il pas culpabiliser la chercheuse ? Dans quelle mesure le cadre d’expression proposé ne rend-il pas celle-ci complice ou coupable du racisme exprimé par celle-là? Ces questions qui montrent l’importance de réfléchir aux effets de la recherche, non seulement pour les personnes chercheuses mais aussi pour les sujettes, font encore penser à la relation de recherche. En effet, c’est aussi parce que la chercheuse, ",
+    [
+     "i",
+     {},
+     "insider"
+    ],
+    " ou ",
+    [
+     "i",
+     {},
+     "outsider"
+    ],
+    ", a su mettre en place un lien de confiance avec les interviewées que la parole, fut-ce-t-elle raciste, a pu se délier."
+   ],
+   "\n"
+  ],
+  [
+   "section",
+   {
+    "id": "t-s7"
+   },
+   "\n",
+   [
+    "h2",
+    {
+     "id": "t-seccion-10"
+    },
+    "Conclusion: ",
+    [
+     "i",
+     {},
+     "Si j’étais Bretonne"
+    ],
+    "..."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "fr"
+    },
+    "Le rapport social de race s’exprime dans une relation, par un racisme qui peut prendre plusieurs formes allant de l’hostilité à l’éloge ou la bienveillance. Dans le discours des femmes françaises qui se présentent souvent comme étant anti-racistes, il reste « à peine dévoilé ». De même, on peut supposer qu’il se dissimule dans la relation de recherche qui met en face ces femmes patronnes françaises blanches et une doctorante noire haïtienne. Selon que l’on soit ",
+    [
+     "i",
+     {},
+     "insider"
+    ],
+    " ou ",
+    [
+     "i",
+     {},
+     "outsider"
+    ],
+    " dans l’articulation des rapports de pouvoir, la relation peut prendre des allures différentes, entre don et contre-don, ",
+    [
+     "i",
+     {},
+     "care"
+    ],
+    " et bienveillance, ou au contraire inversion et rejet. L’analyse clinique de l’implication dans la recherche, notamment du transfert, s’impose. Cet article interroge aussi le fait de donner la parole aux personnes dominantes, surtout dans une recherche à faible directivité. La relation clinique qui permet une écoute plus active peut, dans le cadre des recherches sur le racisme, comporter certains risques pour les personnes chercheuses racisées. Elles sont alors obligées à un “prendre sur soi” qui a des impacts humains non négligeables. Le corps racisé est exposé dans la relation, à des propos dont il faudra peut-être mesurer l’impact. Grâce aux outils cliniques d’analyse de l’implication, j’ai regardé mes relations avec ces femmes blanches pour voir, en plus, comment elles déterminaient le savoir co-construit. Ce savoir sur les patronnes françaises a été valorisé par des scientifiques qui m’ont reconnu une certaine expertise dans la capacité d’écouter ce qui peut me faire violence, le racisme en particulier. D’autres se demandent quel serait le discours de mes interviewées sur le racisme si j’étais une femme doctorante française blanche. Cela pose encore une fois la question de la place des personnes chercheuses dans ces recherches, surtout celle qui leur est assignée par les personnes interrogées. Mais il est également question de l’accueil de leur point de vue par le monde universitaire. Il faut critiquer l’invisibilisation particulière des recherches des personnes dominées sur les dominantes, contrairement aux recherches des dominantes sur les dominées. La recherche n’est-elle pas généralement la voix des dominantes? Quelle est la légitimité des recherches sur le racisme porté par des personnes racisées, des ",
+    [
+     "i",
+     {},
+     "insiders"
+    ],
+    "? Comme je l’ai montré (",
+    [
+     "a",
+     {
+      "href": "#t-r35",
+      "id": "t-llamada-r35-5"
+     },
+     "Joseph 2013"
+    ],
+    "), pour comprendre la relation de recherche, l’analyse clinique de l’implication ne peut donc faire l’économie d’analyser la place des personnes chercheuses et des sujettes dans les différents rapports sociaux croisés."
+   ],
+   "\n"
+  ],
+  [
+   "section",
+   {},
+   "\n",
+   [
+    "aside",
+    {
+     "id": "t-fn1",
+     "rol": "fn"
+    },
+    [
+     "span",
+     {},
+     "1"
+    ],
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     "« Ce qui gît », « dans le lit », correspond à la personne sujette de la recherche. Ces expressions font référence au sens étymologique du mot « clinique » qui signifie « lit ». La recherche clinique se ferait au pied du lit, pour mieux dire, « au plus près du vécu » des personnes."
+    ]
+   ],
+   "\n",
+   [
+    "aside",
+    {
+     "id": "t-fn2",
+     "rol": "fn"
+    },
+    [
+     "span",
+     {},
+     "2"
+    ],
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     "Ici, comme pour les autres personnes interrogées, j’utilise un pseudonyme."
+    ]
+   ],
+   "\n",
+   [
+    "aside",
+    {
+     "id": "t-fn3",
+     "rol": "fn"
+    },
+    [
+     "span",
+     {},
+     "3"
+    ],
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     "« Je vous accompagne », au sens de « Je reste avec vous », ce qui ne signifie pas que je partage son repas."
+    ]
+   ],
+   "\n",
+   [
+    "aside",
+    {
+     "id": "t-fn4",
+     "rol": "fn"
+    },
+    [
+     "span",
+     {},
+     "4"
+    ],
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     "On verra plus loin que c’était un peu le même processus que Madame Aix qui me considérait autrement que son employée haïtienne."
+    ]
+   ],
+   "\n",
+   [
+    "aside",
+    {
+     "id": "t-fn5",
+     "rol": "fn"
+    },
+    [
+     "span",
+     {},
+     "5"
+    ],
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     "Il faut ici distinguer la place dans un rapport de pouvoir de l’exercice d’un quelconque pouvoir ou d’une autorité. Compte tenu du rapport social que constitue le validisme, je suis en position de dominante par rapport à Madame Forbe qui devient alors dominée, ce qui ne veut pas dire que j’aurais exercé une quelconque domination sur elle ou que j’aurais profité de sa vulnérabilité. Par la complexité de l’articulation des rapports sociaux, elle est à la fois dominante (face au racisme) et dominée (face au validisme), tout en « partageant » avec moi le fait d’être femme. Loin de poser des problèmes éthiques, cela illustre l’importance d’analyser l’impact des rapports sociaux articulés dans la relation d’enquête."
+    ]
+   ],
+   "\n",
+   [
+    "aside",
+    {
+     "id": "t-fn6",
+     "rol": "fn"
+    },
+    [
+     "span",
+     {},
+     "6"
+    ],
+    [
+     "p",
+     {},
+     "Pseudonyme."
+    ]
+   ],
+   "\n",
+   [
+    "aside",
+    {
+     "id": "t-fn7",
+     "rol": "fn"
+    },
+    [
+     "span",
+     {},
+     "7"
+    ],
+    [
+     "p",
+     {},
+     "Plutôt le plus grand anonymat."
+    ]
+   ],
+   "\n",
+   [
+    "aside",
+    {
+     "id": "t-fn8",
+     "rol": "fn"
+    },
+    [
+     "span",
+     {},
+     "8"
+    ],
+    [
+     "p",
+     {
+      "lang": "fr"
+     },
+     "La prise en compte du discours de ces femmes blanches sur le racisme, donnée émergeante non-escomptée, a été finalement très instructive. Elle a permis d’ajouter à la prise en compte de l’oppression subie une étude de l’oppression exercée, un élément précieux comme le montre Nicole Claude Mathieu (1985). Toutefois, j’aime préciser que ce n’était pas mon choix de départ, aussi pour expliquer comment ce détour de ma recherche, non envisagé au début, a parfois été couteux, méthodologiquement mais aussi émotionnellement voire corporellement. L’écoute clinique m’a forcée à les écouter dans ce discours « hors du sujet », si bien qu’elles ont fini par en dire « trop », plus que je ne pouvais supporter."
+    ]
+   ],
+   "\n"
+  ],
+  [
+   "section",
+   {},
+   "\n",
+   [
+    "h2",
+    {
+     "id": "t-seccion-11"
+    },
+    "Références"
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r1",
+     "rol": "ref",
+     "lang": "fr"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Ait Ben Lmadani"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "F"
+      ]
+     ],
+     " & ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Moujoud"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "N."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "2012"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Peut-on faire de l’intersectionnalité sans les ex-colonisé-e-s?"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Mouvements"
+      ]
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      "72"
+     ],
+     "(",
+     [
+      "span",
+      {},
+      "4"
+     ],
+     "):",
+     [
+      "span",
+      {},
+      "11"
+     ],
+     "–",
+     [
+      "span",
+      {},
+      "21"
+     ],
+     ". ",
+     [
+      "a",
+      {
+       "href": "https://doi.org/10.3917/mouv.072.0011"
+      },
+      "https://doi.org/10.3917/mouv.072.0011"
+     ]
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r2",
+     "rol": "ref",
+     "lang": "fr"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Avanza"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "M."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "2008"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Comment faire de l’ethnographie quand on n’aime pas ses indigènes? Une enquête au sein d’un mouvement xénophobe"
+     ],
+     ". In: ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "D"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "Fassin"
+      ]
+     ],
+     " & ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "A"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "Bensa"
+      ]
+     ],
+     " (eds). ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Les politiques de l’enquête"
+      ]
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Paris"
+     ],
+     ": ",
+     [
+      "span",
+      {},
+      "La Découverte"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "41"
+     ],
+     "–",
+     [
+      "span",
+      {},
+      "58"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r3",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Barus-Michel"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "J."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "1986"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Le chercheur, premier objet de la recherche"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Bulletin de psychologie"
+      ]
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      "377"
+     ],
+     "(",
+     [
+      "span",
+      {},
+      "Tome XXXIX"
+     ],
+     "):",
+     [
+      "span",
+      {},
+      "801"
+     ],
+     "–",
+     [
+      "span",
+      {},
+      "804"
+     ],
+     ". ",
+     [
+      "a",
+      {
+       "href": "https://doi.org/10.3406/bupsy.1986.12818"
+      },
+      "https://doi.org/10.3406/bupsy.1986.12818"
+     ]
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r4",
+     "rol": "ref",
+     "lang": "fr"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Bédinadé"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "D"
+      ]
+     ],
+     " & ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Mayenga"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "E."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "2022"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Appel à articles. Les conditions raciales de l’enquête en sciences sociales"
+     ],
+     ". [Retrieved 10 February 2024] ",
+     [
+      "a",
+      {
+       "href": "https://cessp.cnrs.fr/IMG/pdf/marronnages_aac_-dossier-_les_conditions_raciales_de_l_enque_te_en_sciences_sociales.pdf"
+      },
+      "https://cessp.cnrs.fr/IMG/pdf/marronnages_aac_-",
+      [
+       "i",
+       {},
+       "dossier"
+      ],
+      "-_les_conditions_raciales_de_l_enque_te_en_sciences_sociales.pdf"
+     ]
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r5",
+     "rol": "ref",
+     "lang": "fr"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Bédinadé"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "D"
+      ]
+     ],
+     " & ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Mayenga"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "E."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "2023"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Les conditions raciales de l’enquête en sciences sociales"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Marronnages"
+      ]
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      "2"
+     ],
+     "(",
+     [
+      "span",
+      {},
+      "1"
+     ],
+     "):",
+     [
+      "span",
+      {},
+      "8"
+     ],
+     "–",
+     [
+      "span",
+      {},
+      "15"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r6",
+     "rol": "ref",
+     "lang": "fr"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Bourdieu"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "P"
+      ]
+     ],
+     " (ed). ",
+     [
+      "span",
+      {},
+      "1992"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "La misère du monde"
+      ]
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Paris"
+     ],
+     ": ",
+     [
+      "span",
+      {},
+      "Seuil"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r7",
+     "rol": "ref",
+     "lang": "fr"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Broda"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "J"
+      ]
+     ],
+     " & ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Roche"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "P."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "1993"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Les auteurs du lien"
+     ],
+     ". In: ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "V"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "de Gaulejac"
+      ]
+     ],
+     " & ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "S"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "Roy"
+      ]
+     ],
+     " (eds). ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Sociologies cliniques"
+      ]
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Paris"
+     ],
+     ": ",
+     [
+      "span",
+      {},
+      "Desclée de Brouwer"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "114"
+     ],
+     "–",
+     [
+      "span",
+      {},
+      "127"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r8",
+     "rol": "ref",
+     "lang": "fr"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Chamboredon"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "H"
+      ]
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Pavis"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "F"
+      ]
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Surdez"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "M"
+      ]
+     ],
+     " & ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Willemez"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "L."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "1994"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "S’imposer aux imposants. A propos de quelques obstacles rencontrés par des sociologues débutants dans la pratique et l’usage de l’entretien"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Genèses"
+      ]
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      "16"
+     ],
+     ":",
+     [
+      "span",
+      {},
+      "114"
+     ],
+     "–",
+     [
+      "span",
+      {},
+      "132"
+     ],
+     ". ",
+     [
+      "a",
+      {
+       "href": "https://doi.org/10.3406/genes.1994.1251"
+      },
+      "https://doi.org/10.3406/genes.1994.1251"
+     ]
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r9",
+     "rol": "ref",
+     "lang": "fr"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Clair"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "I."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "2016"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "La sexualité dans la relation d’enquête"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Revue française de sociologie"
+      ]
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      "57"
+     ],
+     "(",
+     [
+      "span",
+      {},
+      "1"
+     ],
+     "):",
+     [
+      "span",
+      {},
+      "45"
+     ],
+     "–",
+     [
+      "span",
+      {},
+      "70"
+     ],
+     ". ",
+     [
+      "a",
+      {
+       "href": "https://doi.org/10.3917/rfs.571.0045"
+      },
+      "https://doi.org/10.3917/rfs.571.0045"
+     ]
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r10",
+     "rol": "ref",
+     "lang": "fr"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      "Combahee River Collective"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "2006"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Déclaration du Combahee River Collective"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Les cahiers du CEDREF"
+      ]
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      "14"
+     ],
+     ":",
+     [
+      "span",
+      {},
+      "53"
+     ],
+     "–",
+     [
+      "span",
+      {},
+      "67"
+     ],
+     ". ",
+     [
+      "a",
+      {
+       "href": "https://doi.org/10.4000/cedref.415"
+      },
+      "https://doi.org/10.4000/cedref.415"
+     ]
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r11",
+     "rol": "ref",
+     "lang": "fr"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Cosquer"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "C."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "2020"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Ethnographier la blanchité dans les migrations françaises à Abu Dhabi: tensions épistémologiques et éthiques d’un “cynisme méthodologique”"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Cahiers de l’Urmis"
+      ]
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      "19"
+     ],
+     ". ",
+     [
+      "a",
+      {
+       "href": "https://doi.org/10.4000/urmis.1966"
+      },
+      "https://doi.org/10.4000/urmis.1966"
+     ]
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r12",
+     "rol": "ref",
+     "lang": "fr"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Dechaufour"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "L."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "2008"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Introduction au féminisme postcolonial"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Nouvelles Questions Féministes"
+      ]
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      "27"
+     ],
+     "(",
+     [
+      "span",
+      {},
+      "2"
+     ],
+     "):",
+     [
+      "span",
+      {},
+      "99"
+     ],
+     "–",
+     [
+      "span",
+      {},
+      "110"
+     ],
+     ". ",
+     [
+      "a",
+      {
+       "href": "https://doi.org/10.3917/nqf.272.0099"
+      },
+      "https://doi.org/10.3917/nqf.272.0099"
+     ]
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r13",
+     "rol": "ref",
+     "lang": "fr"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Devereux"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "G."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "1980"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "De l’angoisse à la méthode dans les sciences du comportement"
+      ]
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Paris"
+     ],
+     ": ",
+     [
+      "span",
+      {},
+      "Flammarion"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r14",
+     "rol": "ref",
+     "lang": "fr"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "El Miri"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "M."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "2018"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Devenir « noir » sur les routes migratoires: racialisation des migrants subsahariens et racisme global"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Sociologie et sociétés"
+      ]
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      "50"
+     ],
+     "(",
+     [
+      "span",
+      {},
+      "2"
+     ],
+     "):",
+     [
+      "span",
+      {},
+      "101"
+     ],
+     "–",
+     [
+      "span",
+      {},
+      "124"
+     ],
+     ". ",
+     [
+      "a",
+      {
+       "href": "https://doi.org/10.7202/1066815ar"
+      },
+      "https://doi.org/10.7202/1066815ar"
+     ]
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r15",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Essed"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "P."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "1991"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Understanding Everyday Racism: An Interdisciplinary Theory"
+      ]
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Newbury Park"
+     ],
+     ": ",
+     [
+      "span",
+      {},
+      "Sage"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r16",
+     "rol": "ref",
+     "lang": "fr"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Essed"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "P."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "2005"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Racisme et préférence pour l’identique : du clonage culturel dans la vie quotidienne. B Marrec (transl)"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Actuel Marx"
+      ]
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      "38"
+     ],
+     "(",
+     [
+      "span",
+      {},
+      "2"
+     ],
+     "):",
+     [
+      "span",
+      {},
+      "103"
+     ],
+     "–",
+     [
+      "span",
+      {},
+      "118"
+     ],
+     ". ",
+     [
+      "a",
+      {
+       "href": "https://doi.org/10.3917/amx.038.0103"
+      },
+      "https://doi.org/10.3917/amx.038.0103"
+     ]
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r17",
+     "rol": "ref",
+     "lang": "fr"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Falquet"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "J."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "2006"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Hommes en armes et femmes « de service »: tendances néolibérales dans l’évolution de la division sexuelle et internationale du travail"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Cahiers du Genre"
+      ]
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      "40"
+     ],
+     ":",
+     [
+      "span",
+      {},
+      "15"
+     ],
+     "–",
+     [
+      "span",
+      {},
+      "38"
+     ],
+     ". ",
+     [
+      "a",
+      {
+       "href": "https://doi.org/10.3917/cdge.040.0015"
+      },
+      "https://doi.org/10.3917/cdge.040.0015"
+     ]
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r18",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Favret-Saada"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "J."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "2009"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Désorceler"
+      ]
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Paris"
+     ],
+     ": ",
+     [
+      "span",
+      {},
+      "l’Olivier"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r19",
+     "rol": "ref",
+     "lang": "fr"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Freire"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "P."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "2021"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Pédagogie des opprimés"
+      ]
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Paris"
+     ],
+     ": ",
+     [
+      "span",
+      {},
+      "Agone Contre-feux"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r20",
+     "rol": "ref",
+     "lang": "fr"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Fustier"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "P."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "2000"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Le lien d’accompagnement : entre don et contrat salarial"
+      ]
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Paris"
+     ],
+     ": ",
+     [
+      "span",
+      {},
+      "Dunod"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r21",
+     "rol": "ref",
+     "lang": "fr"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Gaulejac"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "V"
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "de & Lévy"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "A"
+      ]
+     ],
+     " (eds). ",
+     [
+      "span",
+      {},
+      "2000"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Récits de vie et histoire sociale"
+      ]
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Paris"
+     ],
+     ": ",
+     [
+      "span",
+      {},
+      "ESKA"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r22",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Gaulejac"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "V"
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "de & Roche"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "P."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "2012"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Introduction"
+     ],
+     ". In: ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "V"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "de Gaulejac"
+      ]
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "F"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "Hanique"
+      ]
+     ],
+     " & ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "P"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "Roche"
+      ]
+     ],
+     " (eds). ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "La sociologie clinique: Enjeux théoriques et méthodologiques"
+      ]
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Toulouse"
+     ],
+     ": ",
+     [
+      "span",
+      {},
+      "ERES"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "7"
+     ],
+     "–",
+     [
+      "span",
+      {},
+      "18"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r23",
+     "rol": "ref",
+     "lang": "fr"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Giust-Desprairies"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "F."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "2004"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Le désir de penser: construction d’un savoir clinique"
+      ]
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Paris"
+     ],
+     ": ",
+     [
+      "span",
+      {},
+      "Téraèdre"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r24",
+     "rol": "ref",
+     "lang": "fr"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Guillaumin"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "C."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "2002"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "L’idéologie raciste. Genèse et langage actuel"
+      ]
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Paris"
+     ],
+     ": ",
+     [
+      "span",
+      {},
+      "Gallimard"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r25",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      "Kudutha list-ah mela neenga sonna formatting rules (alphabetical order, no full stops in initials, no “pp”, specific colon usage) padi neat-a update pannirukan:"
+     ]
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r26",
+     "rol": "ref",
+     "lang": "fr"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Hamisultane"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "S."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "2013"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "De l’implication interculturelle du chercheur à son objet"
+     ],
+     ". In: ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "V"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "de Gaulejac"
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "et al"
+     ],
+     " (eds). ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "La recherche clinique en sciences sociales"
+      ]
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Toulouse"
+     ],
+     ": ",
+     [
+      "span",
+      {},
+      "Érès"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "183"
+     ],
+     "–",
+     [
+      "span",
+      {},
+      "190"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r27",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Haraway"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "D."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "1988"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Situated knowledges: the science question in feminism and the privilege of partial perspective"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Feminist Studies"
+      ]
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      "14"
+     ],
+     ":",
+     [
+      "span",
+      {},
+      "575"
+     ],
+     "–",
+     [
+      "span",
+      {},
+      "588"
+     ],
+     ". ",
+     [
+      "a",
+      {
+       "href": "https://doi.org/10.2307/3178066"
+      },
+      "https://doi.org/10.2307/3178066"
+     ]
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r28",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Harding"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "S"
+      ]
+     ],
+     " (ed). ",
+     [
+      "span",
+      {},
+      "1987"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Feminism & Methodology"
+      ]
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Milton Keynes"
+     ],
+     ": ",
+     [
+      "span",
+      {},
+      "Open University Press"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r29",
+     "rol": "ref",
+     "lang": "fr"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Hedjerassi"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "N."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "2016"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "bell hooks : la fabrique d’une ‘intellectuelle féministe noire révoltée’"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Cahiers du Genre"
+      ]
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      "61"
+     ],
+     "(",
+     [
+      "span",
+      {},
+      "2"
+     ],
+     "):",
+     [
+      "span",
+      {},
+      "169"
+     ],
+     "–",
+     [
+      "span",
+      {},
+      "188"
+     ],
+     ". ",
+     [
+      "a",
+      {
+       "href": "https://doi.org/10.3917/cdge.061.0169"
+      },
+      "https://doi.org/10.3917/cdge.061.0169"
+     ]
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r30",
+     "rol": "ref",
+     "lang": "fr"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Hersent"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "M."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "2003"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Initiatives de femmes immigrées dans les zones sensibles urbaines"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Les cahiers du CEDREF"
+      ]
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      "12"
+     ],
+     ":",
+     [
+      "span",
+      {},
+      "239"
+     ],
+     "–",
+     [
+      "span",
+      {},
+      "261"
+     ],
+     ". ",
+     [
+      "a",
+      {
+       "href": "https://doi.org/10.4000/cedref.549"
+      },
+      "https://doi.org/10.4000/cedref.549"
+     ]
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r31",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Hill Collins"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "P."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "1986"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Learning from the Outsider Within: The Sociological Significance of Black Feminist Thought"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Social Problems"
+      ]
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      "33"
+     ],
+     "(",
+     [
+      "span",
+      {},
+      "6"
+     ],
+     "):",
+     [
+      "span",
+      {},
+      "14"
+     ],
+     "–",
+     [
+      "span",
+      {},
+      "32"
+     ],
+     ". ",
+     [
+      "a",
+      {
+       "href": "https://doi.org/10.2307/800672"
+      },
+      "https://doi.org/10.2307/800672"
+     ]
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r32",
+     "rol": "ref",
+     "lang": "fr"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Hill Collins"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "P."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "2008"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "La construction sociale de la pensée féministe Noire"
+     ],
+     ". In: ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "E"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "Dorlin"
+      ]
+     ],
+     " (ed). ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Black feminism: Anthologie du féminisme africain-américain, 1975–2000"
+      ]
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Paris"
+     ],
+     ": ",
+     [
+      "span",
+      {},
+      "L’Harmattan"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "135"
+     ],
+     "–",
+     [
+      "span",
+      {},
+      "175"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r33",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "hooks"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "b."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "1984"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Feminist theory: from margin to center"
+      ]
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Boston"
+     ],
+     ": ",
+     [
+      "span",
+      {},
+      "South End Press"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r34",
+     "rol": "ref",
+     "lang": "fr"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Ibos"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "C."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "2008"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Les “nounous” africaines et leurs employeurs: une grammaire du mépris social"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Nouvelles Questions Féministes"
+      ]
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      "27"
+     ],
+     "(",
+     [
+      "span",
+      {},
+      "2"
+     ],
+     "):",
+     [
+      "span",
+      {},
+      "25"
+     ],
+     "–",
+     [
+      "span",
+      {},
+      "38"
+     ],
+     ". ",
+     [
+      "a",
+      {
+       "href": "https://doi.org/10.3917/nqf.272.0025"
+      },
+      "https://doi.org/10.3917/nqf.272.0025"
+     ]
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r35",
+     "rol": "ref",
+     "lang": "fr"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Joseph"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "RM."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "2013"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Implication dans la recherche : des points communs aux points de rencontre"
+     ],
+     ". In: ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "V"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "de Gaulejac"
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "et al"
+     ],
+     " (eds). ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "La recherche clinique en sciences sociales"
+      ]
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Toulouse"
+     ],
+     ": ",
+     [
+      "span",
+      {},
+      "Erès"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "133"
+     ],
+     "–",
+     [
+      "span",
+      {},
+      "150"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r36",
+     "rol": "ref",
+     "lang": "fr"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Joseph"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "RM."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "2015"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "L’articulation des rapports sociaux de sexe, de classe et de race dans la migration et le travail des femmes haïtiennes"
+     ],
+     ". PhD thesis. ",
+     [
+      "span",
+      {},
+      "Université Paris Diderot – Sorbonne Paris Cité et Université de Lausanne"
+     ],
+     ". ",
+     [
+      "a",
+      {
+       "href": "https://hal.parisnanterre.fr/tel-03809859v1/document"
+      },
+      "https://hal.parisnanterre.fr/tel-03809859v1/document"
+     ]
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r37",
+     "rol": "ref",
+     "lang": "fr"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Joseph"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "RM."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "2017"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Les paradoxes et les illusions de l’égalité dans le travail : l’occultation des dominations"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Recherches féministes"
+      ]
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      "30"
+     ],
+     "(",
+     [
+      "span",
+      {},
+      "2"
+     ],
+     "):",
+     [
+      "span",
+      {},
+      "197"
+     ],
+     "–",
+     [
+      "span",
+      {},
+      "216"
+     ],
+     ". ",
+     [
+      "a",
+      {
+       "href": "https://doi.org/10.7202/1043929ar"
+      },
+      "https://doi.org/10.7202/1043929ar"
+     ]
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r38",
+     "rol": "ref",
+     "lang": "fr"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Joseph"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "RM."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "2022"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Les unes et les autres : dialogue avec Guillaumin sur le racisme entre femmes"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      "HAL"
+     ],
+     ". ",
+     [
+      "a",
+      {
+       "href": "https://hal.parisnanterre.fr/hal-03851721/document"
+      },
+      "https://hal.parisnanterre.fr/hal-03851721/document"
+     ]
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r39",
+     "rol": "ref",
+     "lang": "fr"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Joseph"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "RM."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "2024"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Un Racisme à Peine dévoilé: La Relation De Recherche Avec Des Patronnes françaises"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Marronnages: Les Questions Raciales Au Crible Des Sciences Sociales"
+      ]
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      "3"
+     ],
+     "(",
+     [
+      "span",
+      {},
+      "1"
+     ],
+     "):",
+     [
+      "span",
+      {},
+      "146"
+     ],
+     "–",
+     [
+      "span",
+      {},
+      "4160"
+     ],
+     ". ",
+     [
+      "a",
+      {
+       "href": "https://doi.org/10.5281/zenodo.14223395"
+      },
+      "https://doi.org/10.5281/zenodo.14223395"
+     ]
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r40",
+     "rol": "ref",
+     "lang": "fr"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Juteau-Lee"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "D."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "1981"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Visions partielles, visions partiales: visions des minoritaiers en sociologies"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Sociologie et sociétés"
+      ]
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      "13"
+     ],
+     "(",
+     [
+      "span",
+      {},
+      "2"
+     ],
+     "):",
+     [
+      "span",
+      {},
+      "33"
+     ],
+     "–",
+     [
+      "span",
+      {},
+      "48"
+     ],
+     ". ",
+     [
+      "a",
+      {
+       "href": "https://doi.org/10.7202/001373ar"
+      },
+      "https://doi.org/10.7202/001373ar"
+     ]
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r41",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Lapassade"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "G."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "2002"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Observation participante"
+     ],
+     ". In: ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "J"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "Barus-Michel"
+      ]
+     ],
+     " (ed). ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Vocabulaire de psychosociologie"
+      ]
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Toulouse"
+     ],
+     ": ",
+     [
+      "span",
+      {},
+      "Érès"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "375"
+     ],
+     "–",
+     [
+      "span",
+      {},
+      "390"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r42",
+     "rol": "ref",
+     "lang": "fr"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Larcher"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "S."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "2023"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Conversation avec Philomena Essed, Entretien réalisé et traduit de l’anglais (États-Unis) par Silyane Larcher"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Raisons politiques"
+      ]
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      "89"
+     ],
+     "(",
+     [
+      "span",
+      {},
+      "1"
+     ],
+     "):",
+     [
+      "span",
+      {},
+      "77"
+     ],
+     "–",
+     [
+      "span",
+      {},
+      "95"
+     ],
+     ". ",
+     [
+      "a",
+      {
+       "href": "https://doi.org/10.3917/eres.barus.2002.01.0375"
+      },
+      "https://doi.org/10.3917/eres.barus.2002.01.0375"
+     ]
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r43",
+     "rol": "ref",
+     "lang": "fr"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Lorde"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "A."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "2003"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Sister Outsider. Essais et propos d’Audre Lorde sur la poésie, le racisme, le sexisme"
+      ]
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Genève"
+     ],
+     ": ",
+     [
+      "span",
+      {},
+      "Editions Mamamélis"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r44",
+     "rol": "ref",
+     "lang": "fr"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Massa"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "A."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "2013"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Donner, recevoir, rendre » ou la « restitution » dans une recherche clinique"
+     ],
+     ". In: ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "V"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "de Gaulejac"
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "et al"
+     ],
+     " (eds). ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "La recherche clinique en sciences sociales"
+      ]
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Toulouse"
+     ],
+     ": ",
+     [
+      "span",
+      {},
+      "Érès"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "99"
+     ],
+     "–",
+     [
+      "span",
+      {},
+      "114"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r45",
+     "rol": "ref",
+     "lang": "fr"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Mathieu"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "NC."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "1991"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Critiques épistémologiques de la problématique des sexes dans le discours ethno-anthropologique"
+     ],
+     ". In: ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "L’anatomie politique, catégorisation et idéologique du sexe"
+      ]
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Paris"
+     ],
+     ": ",
+     [
+      "span",
+      {},
+      "côté-Femmes"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "75"
+     ],
+     "–",
+     [
+      "span",
+      {},
+      "127"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r46",
+     "rol": "ref",
+     "lang": "fr"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Moujoud"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "N."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "2007"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Migrantes, seules et sans droits, au Maroc et en France: Dominations imbriquées et résistances individuelles"
+     ],
+     ". PhD thesis. ",
+     [
+      "span",
+      {},
+      "École des Hautes Études en Sciences Sociales (EHESS)"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r47",
+     "rol": "ref",
+     "lang": "fr"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Pereira"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "I."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "2018"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Paulo Freire, Pédagogue des opprimé·e·s. Une introduction aux pédagogies critiques"
+      ]
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Paris"
+     ],
+     ": ",
+     [
+      "span",
+      {},
+      "Libertalia"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r48",
+     "rol": "ref",
+     "lang": "fr"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Réhaume"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "J."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "2019"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Savoir(s)"
+     ],
+     ". In: ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "C"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "Delory-Momberger"
+      ]
+     ],
+     " (ed). ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Vocabulaire des histoires de vie et de la recherche biographique"
+      ]
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Toulouse"
+     ],
+     ": ",
+     [
+      "span",
+      {},
+      "Érès"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "155"
+     ],
+     "–",
+     [
+      "span",
+      {},
+      "157"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r49",
+     "rol": "ref",
+     "lang": "fr"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Smith"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "B."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "2008"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Racisme et études féministes"
+     ],
+     ". In: ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "E"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "Dorlin"
+      ]
+     ],
+     " (ed). ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Black feminism: Anthologie du féminisme africain-américain, 1975–2000"
+      ]
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Paris"
+     ],
+     ": ",
+     [
+      "span",
+      {},
+      "L’Harmattan"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "81"
+     ],
+     "–",
+     [
+      "span",
+      {},
+      "86"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r50",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Smith"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "LT."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "1999"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Decolonizing methodologies. Research and indigenous peoples"
+      ]
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "London"
+     ],
+     ": ",
+     [
+      "span",
+      {},
+      "Zed Books Ltd"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r51",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Spivak"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "G."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "2020"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Les subalternes peuvent-elles parler?"
+      ]
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Paris"
+     ],
+     ": ",
+     [
+      "span",
+      {},
+      "Editions Amsterdam"
+     ],
+     "."
+    ]
+   ],
+   "\n"
+  ]
+ ]
+}

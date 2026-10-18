@@ -1,0 +1,1356 @@
+{
+ "version": 1,
+ "recogido": "2026-10-18T11:36:52+00:00",
+ "doi": "10.32399/icsyh.bvbuap.2954-4300.2026.7.14.855",
+ "titulo": "Acumulación por desposesión y resistencia territorial en el Valle del Mezquital en el estado de Hidalgo",
+ "revista": "2954-4300",
+ "numero": "2026",
+ "licencia": {
+  "codigo": "by-nc-sa",
+  "nombre": "CC BY-NC-SA 4.0",
+  "nombre_completo": "Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional",
+  "url": "https://creativecommons.org/licenses/by-nc-sa/4.0",
+  "url_legal": "https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.es"
+ },
+ "fuente": {
+  "url": "https://bajoelvolcanx.buap.mx/index.php/bajovolc/article/download/855/773?inline=1",
+  "formato": "HTML",
+  "plataforma": "ojs-galerada",
+  "pagina": "https://bajoelvolcanx.buap.mx/index.php/bajovolc/article/view/855"
+ },
+ "autores_cita": [
+  {
+   "apellidos": "González González",
+   "nombre_pila": "Víctor",
+   "nombre": null
+  },
+  {
+   "apellidos": "Maturano López",
+   "nombre_pila": "Ana Lilia",
+   "nombre": null
+  }
+ ],
+ "avisos_derechos": [
+  "Derechos de autor 2026 Víctor González González, Ana Lilia Maturano López",
+  "Licencia Derechos de autor 2026 Víctor González González, Ana Lilia Maturano López Esta obra está bajo una licencia internacional Creative Commons Atribución-NoComercial-CompartirIgual 4.0. Las autoras y los autores conservan los derechos de autor sobre su obra y ceden a Bajo el Volcán. Revista del Posgrado de Sociología. BUAP únicamente el derecho de primera publicación. Revista de acceso abierto diamante: sin costo para autoras, autores ni personas lectoras."
+ ],
+ "idioma_principal": "es",
+ "indice": [
+  {
+   "id": "t-seccion-1",
+   "nivel": 2,
+   "texto": "Acumulación por desposesión y resistencia territorial en el Valle del Mezquital en el estado de Hidalgo",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-2",
+   "nivel": 3,
+   "texto": "INTRODUCCIÓN",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-3",
+   "nivel": 3,
+   "texto": "LA ACUMULACIÓN POR DESPOSESIÓN EN LA ACTUALIDAD",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-4",
+   "nivel": 3,
+   "texto": "AMÉRICA LATINA: NUEVO IMPERIALISMO Y LA CONTINUACIÓN DEL COLONIALISMO",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-5",
+   "nivel": 3,
+   "texto": "LA TRANSICIÓN DEL CAMPO HIDALGUENSE.",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-6",
+   "nivel": 3,
+   "texto": "EL VALLE DEL MEZQUITAL: TERRITORIO Y PERSISTENCIA SOCIOCULTURAL HÑAHÑU",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-7",
+   "nivel": 3,
+   "texto": "RESISTENCIA TERRITORIAL EN EL VALLE DEL MEZQUITAL",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-8",
+   "nivel": 3,
+   "texto": "CONFINAMIENTO DE RESIDUOS SÓLIDOS Y LAS NUEVAS SUBJETIVIDADES EN ZIMAPÁN",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-9",
+   "nivel": 3,
+   "texto": "SANTIAGO DE ANAYA Y LA LUCHA CONTRA LA CEMENTERA SANTA ANITA",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-10",
+   "nivel": 3,
+   "texto": "EL LIBRAMIENTO IXMIQUILPAN Y LA RESISTENCIA EN LA PANDEMIA",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-11",
+   "nivel": 3,
+   "texto": "CONCLUSIONES",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-12",
+   "nivel": 3,
+   "texto": "REFERENCIAS",
+   "lang": null
+  }
+ ],
+ "vueltas": {},
+ "contenido": [
+  "\n",
+  [
+   "section",
+   {},
+   "\n",
+   [
+    "strong",
+    {},
+    [
+     "em",
+     {},
+     "Bajo el Volcán. Revista del Posgrado de Sociología. BUAP"
+    ]
+   ],
+   ", Año 7, Núm. 14, mayo – octubre de 2026, pp. 305-336.",
+   [
+    "br",
+    {}
+   ],
+   "e-ISSN 2954-4300 · ",
+   [
+    "a",
+    {
+     "href": "https://doi.org/10.32399/ICSYH.bvbuap.2954-4300.2026.7.14.855"
+    },
+    "https://doi.org/10.32399/ICSYH.bvbuap.2954-4300.2026.7.14.855"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Pensamiento crítico"
+   ],
+   "\n",
+   [
+    "h2",
+    {
+     "id": "t-seccion-1"
+    },
+    "Acumulación por desposesión y resistencia territorial en el Valle del Mezquital en el estado de Hidalgo"
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Accumulation by dispossession and territorial resistance in the Mezquital Valley in the state of Hidalgo"
+   ],
+   "\n",
+   "\n",
+   [
+    "p",
+    {},
+    [
+     "span",
+     {},
+     "Víctor González González"
+    ],
+    [
+     "br",
+     {}
+    ],
+    [
+     "span",
+     {},
+     "Universidad Autónoma del Estado de Hidalgo, Pachuca, México"
+    ],
+    [
+     "br",
+     {}
+    ],
+    [
+     "span",
+     {},
+     "ORCID: ",
+     [
+      "a",
+      {
+       "href": "https://orcid.org/0000-0002-2101-1249"
+      },
+      "https://orcid.org/0000-0002-2101-1249"
+     ]
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    [
+     "span",
+     {},
+     "Ana Lilia Maturano López"
+    ],
+    [
+     "br",
+     {}
+    ],
+    [
+     "span",
+     {},
+     "Universidad Autónoma del Estado de Hidalgo, Pachuca, México"
+    ],
+    [
+     "br",
+     {}
+    ],
+    [
+     "span",
+     {},
+     "ORCID: ",
+     [
+      "a",
+      {
+       "href": "https://orcid.org/0000-0002-7721-1821"
+      },
+      "https://orcid.org/0000-0002-7721-1821"
+     ]
+    ]
+   ],
+   "\n",
+   "\n",
+   [
+    "p",
+    {},
+    "victor_gonzalez5986@uaeh.edu.mx"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "ana_maturano@uaeh.edu.mx"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Recibido: 08/07/2025 "
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Aceptado: 24/03/2026"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "RESUMEN"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "El objetivo del artículo es mostrar el impacto de la globalización neoliberal en el Valle del Mezquital en el estado de Hidalgo, a través de proyectos públicos y privados que han traído profundas consecuencias en la salud, en los territorios sagrados y agrícolas, y en el medio ambiente, impulsando el surgimiento de distintas resistencias sociales. En las regiones rurales de México se han implementado proyectos que incorporan recursos, territorios y poblaciones indígenas y campesinas a la acumulación de capital. Este es el caso del Valle del Mezquital, una región semiárida que, durante décadas, se caracterizó por la pobreza, el abandono y el caciquismo; sin embargo, al iniciar el siglo XXI tanto empresas como gobierno han impulsado inversiones en la región. Este cambio se realiza porque la acumulación por desposesión ha desvalorizado las regiones rurales para insertarlas de lleno en la lógica del capital, mediante proyectos que pretenden realizarse en territorios donde los habitantes han construido formas de vida y resistencia. Estos proyectos nocivos para la salud, dañan el territorio y obras colectivas de riego, caminos y escuelas realizadas por los pobladores, generando resistencias en las comunidades de los municipios de Zimapán, Chapantongo, Santiago de Anaya, e Ixmiquilpan. ",
+    [
+     "em",
+     {},
+     "Palabras Clave:"
+    ],
+    " Hñahñus, comunidad, movimientos sociales, resistencias cotidianas, acumulación de capital."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "ABSTRACT"
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "The objective of this article is to demonstrate the impact of neoliberal globalization on the Mezquital Valley in the state of Hidalgo through public and private projects with profound consequences for health, sacred and agricultural territories, and the environment, fostering the emergence of various forms of social resistance. In rural regions of Mexico, projects have been implemented that incorporate resources, territories, and Indigenous and peasant populations into capital accumulation. This is the case of the Mezquital Valley, a semi-arid region that for decades was characterized by poverty, neglect, and local political bosses (caciquismo), but at the beginning of the 21st century, both companies and the government have promoted investments in the region. This change occurs because accumulation by dispossession has devalued rural regions in order to fully integrate them into the logic of capital, through projects that are intended to be carried out in territories where inhabitants have built ways of life and resistance. These projects, harmful to health, damage the territory and collective works of irrigation, roads and schools carried out by the inhabitants, generating resistance in the communities of the municipalities of Zimapán, Chapantongo, Santiago de Anaya, and Ixmiquilpan."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    [
+     "em",
+     {},
+     "Keywords:"
+    ],
+    " Hñahñus, community, social movements, everyday resistance, capital accumulation."
+   ],
+   "\n",
+   [
+    "h3",
+    {
+     "id": "t-seccion-2"
+    },
+    "INTRODUCCIÓN"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "El Valle del Mezquital en el estado de Hidalgo es una región semidesértica, habitada históricamente por el grupo indígena Hñahñu, predominando sus prácticas culturales, identitarias, modo de vida, actividades económicas, agrícolas, artesanales y de organización comunitaria, actualmente presenta una complejidad heterogénea en las distintas subregiones. En la zona norte del Mezquital se encuentran los Municipios de Cardonal, Zimapán, Tasquillo, Alfajayucan, Ixmiquilpan, San Salvador y Santiago de Anaya donde aún se mantiene una fuerte presencia de la población indígena. as condiciones naturales de la región, relaciones sociales y las estructuras políticas y económicas que ahí se han reproducido, han mantenido al grupo indígena Hñahñu en situación de pobreza y marginación, siendo víctimas del caciquismo, mediante despojos e injusticias. Estas circunstancias llevaron a muchos estudiosos de las Ciencias Sociales en la década de 1970 a investigar la explotación y marginación en la región; poniendo énfasis en las estructuras económicas y en las características locales del capitalismo. Las investigaciones de Bartra (1999), Martínez y Canabal (1973), Martínez (1999) y Gutiérrez (1977) pusieron énfasis en las características propias de la explotación agraria y caciquil como fundamento de la explotación de un capitalismo que convive con estructuras no capitalistas. La transformación del caciquismo local al control institucional mediante lo que fue: El patrimonio Indígena del Valle del Mezquital, que se mantuvo desde principios de la década de 1990, no permitió a las comunidades indígenas tomar el control de sus territorios y sus recursos. En la segunda mitad de la década de 1990, muchas comunidades con una fuerte identidad indígena en estos municipios tomaron el control de algunos recursos en sus territorios generando proyectos de turismo comunitarios, principalmente balnearios. Éstos en pocos años se desarrollaron en comunidades como el Tephé, Tolantongo, Dios Padre, Pueblo Nuevo, entre otros."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Al mismo tiempo que esto sucedía durante los años trascurridos en el siglo XXI, el territorio se ha convertido en el objetivo de empresas nacionales y extranjeras, apoyadas por el Estado mexicano en sus diferentes niveles para la construcción y operación de diversos proyectos. En 2002 en Chapandongo se impulsó la construcción de una planta de Confinamiento de residuos Industriales, en 2006 se impulsa desde la presidencia municipal en Zimapán la construcción de un Confinamiento de residuos Tóxicos, en 2010 en Santiago de Anaya se da a conocer la construcción de una Cementera perteneciente a grupos CARSO y en 2020 se anuncia la construcción de una carretera de cuota que atravesaría la zona norte del Valle del Mezquital desde Santiago de Anaya hasta Tasquillo. Esta tendencia resulta novedosa porque el capitalismo en la región se basaba en la explotación minera y agrícola de la mano de obra, con muy pocas obras de inversión industrial, permaneciendo como territorio de reserva; a diferencia de la zona sur, donde los proyectos de inversión estatales y privados se habían concentrado desde 1970 en el corredor industrial de Tula. De hecho, la construcción de la termoeléctrica, refinería y otros proyectos crearon una zona de sacrificio (Martínez y Pérez, 2024)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "En la región norte, si bien históricamente se ha caracterizado por la explotación minera, sobre todo en Zimapán, no se habían creado proyectos de tal magnitud. El objetivo del artículo es mostrar el impacto de la globalización neoliberal en el Valle del Mezquital en el estado de Hidalgo mediante proyectos públicos y privados con profundas consecuencias en la salud, territorios sagrados y agrícolas, y en el medio ambiente, lo que ha impulsado el surgimiento distintas resistencias sociales. El argumento guía del artículo es que la acumulación por desposesión desvaloriza las regiones rurales para incorporarlas a la lógica del capital, tal como sucede en el norte del Valle del Mezquital."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "El concepto de acumulación por desposesión es utilizado por David Harvey para definir los procesos actuales de acumulación de capital, en los cuales el nuevo despojo se ha convertido en la forma dominante de la acumulación, dado que hay un desplazamiento de la acumulación mediante la reproducción ampliada a la acumulación por desposesión. Con ello Harvey actualiza el concepto de acumulación del capital de Rosa Luxemburgo quien propuso que la extracción de plusvalía se realiza en la fábrica, en las regiones donde hay formas de producción no capitalistas, una continuidad en la acumulación primitiva. Harvey utiliza el concepto de acumulación por desposesión porque explica la especificidad actual de la acumulación y su necesidad de realizar ajustes territoriales de la apropiación de recursos públicos, privados y colectivos que son comunes. En el debate contemporáneo autores como, Holloway (2011), De Angelis (2012), Bonefeld (2012), Bartra (2014), Zibechi (2014) y Composto y Navarro (2014) afirman que la acumulación originaria es un elemento constante en la expansión capitalista, por ello el capitalismo contemporáneo la utiliza como estrategia. A pesar de las diferencias en los matices teóricos dichos autores concuerdan en que la acumulación originaria es permanente en las sociedades capitalistas."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "En México se han realizado investigaciones para dar cuenta de la acumulación por desposesión en distintas regiones. Algunos de los trabajos realizados son: Cortés, et al (2016) quienes analizan desde esta perspectiva la mega minería en el Cerro de San Pedro en San Luis. Navarro (2015) por su parte analiza distintos casos en el país, donde se generan resistencias ente el despojo, desde la Ciudad de México, Guerrero, San Luis Potosí y Guadalajara, demostrando que la forma de despojo abarca distintas zonas del país. Pérez (2021) estudia estos procesos en la Sierra Norte de Puebla, específicamente en el municipio de Ixtacamaxtitlán. Sin embargo, a pesar de la diversidad de trabajos realizados, no hay investigaciones sobre la incorporación territorial del norte del Valle del Mezquital a la acumulación actual."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "La investigación aquí presentada es de carácter cualitativo. Las observaciones realizadas fueron directas en los municipios de Zimapán, Ixmiquilpan y Santiago de Anaya. Sumado a las observaciones realizadas se hizo una revisión bibliográfica exhaustiva para sustentar teórica y metodológicamente el trabajo. Mediante la lectura e interpretación de los documentos generados durante la realización del movimiento se obtuvo información importante sobre los acuerdos, la conformación de movimiento y la toma de decisiones. También como fuente de consulta de datos se utilizaron publicaciones en periódicos locales (El huarache), estatales (Cuadratín, Sol de Hidalgo, Criterio y Milenio Hidalgo) y nacionales (La jornada y el Universal). También se realizaron entrevistas semiestructuradas de forma individual y colectivas con informantes claves como son: los delegados de las diversas comunidades y personas que fueron elegidas como representantes en las asambleas que se llevaron a cabo."
+   ],
+   "\n",
+   [
+    "h3",
+    {
+     "id": "t-seccion-3"
+    },
+    "LA ACUMULACIÓN POR DESPOSESIÓN EN LA ACTUALIDAD"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "A partir de la década de 1970 las transformaciones en las estructuras económicas, sociales y políticas en el mundo han generado una nueva realidad caracterizada por la globalización neoliberal y la democracia como anhelo y proyecto político. Esta nueva realidad se caracteriza por la relación antagónica entre un nuevo modelo de acumulación de capital y las formas de vida y socialización agraviadas. La globalización"
+   ],
+   "\n",
+   [
+    "blockquote",
+    {},
+    "\n",
+    [
+     "p",
+     {},
+     "es la estrategia del capital como solución a la crisis del fordismo; es decir es la liberalización radical del tránsito de mercancías, servicios, dinero y capital para ser la condición previa de la renovada racionalización sistematizada del proceso de trabajo en la producción capitalista. (Hirsch 1998: 45)"
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "En otras palabras, la necesidad del capitalismo de incrementar la tasa de ganancia y superar la crisis de 1970, obligó a reestructurar el proceso de acumulación del capital, para ello se implementaron diversas transformaciones, tanto en el ámbito económico, tecnológico, político y social. La globalización se manifiesta en la transformación e integración de los procesos productivos, la nueva división internacional del trabajo y con ello en las nuevas formas de relacionarse el centro con la periferia del sistema mundo capitalista."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Harvey (2005) (2014) explica que todas estas trasformaciones tienen como finalidad crear las condiciones y al mismo tiempo facilitar la acumulación por desposesión, característica del capitalismo contemporáneo y a partir de la cual se puede comprender la esencia de la globalización neoliberal. La acumulación por desposesión es la forma actual de acumulación de capital que se extiende a bienes públicos, comunes. El concepto de acumulación por desposesión hace referencia a la forma de acumulación salvaje con una violencia poco antes vista como la que se presenta actualmente. El modelo de acumulación salvaje llamado así por la profundización de las contradicciones del sistema, se expresa en una expansión sin precedentes de la violencia y el despojo capitalista, solo comparada con la acumulación originaria del capital (Composto y Navarro, 2014, p. 49). Sin embargo, Harvey, de forma pertinente utiliza el término desposesión para diferenciarlo de la acumulación originaria, aunque la acumulación por desposesión busca apropiarse de recursos, territorios y mano de obra sobre la cual no había mostrado interés anteriormente."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Para Harvey (2005) la acumulación de capital se puede llevar a cabo por la reproducción ampliada o por acumulación por desposesión. Cuando la reproducción ampliada no es suficiente para la acumulación constante de capital se acompaña de la desposesión. De hecho, Harvey actualiza y sintetiza las discusiones en torno a la acumulación originaria de capital con su carácter violento y de despojo descrito por Marx (1986) y retomado y ampliado posteriormente por Rosa de Luxemburgo. “El capital no tiene, para la cuestión, más solución que la violencia, que constituye un método constante de acumulación de capital en el proceso histórico, no sólo en su génesis, sino en todo tiempo, hasta el día de hoy” (Luxemburgo, 1967, p.336)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "La acumulación primitiva como un método de despojo, violento y salvaje de acumulación de capital es analizado como un proceso constante e intrínseco del capitalismo, utilizado no solamente como fundamento de arranque del capitalismo, sino como una constante histórica. La acumulación originaria se actualiza y reactualiza como estrategia reactiva del capital para establecer las relaciones de explotación de la mano de obra (Composto y Navarro, 2014). Harvey (2005) define al proceso de acumulación primitiva cuando la reproducción ampliada no es suficiente como acumulación por desposesión, para referirse al proceso actual."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "A diferencia de Luxemburgo (1967) que en su análisis considera la persistencia histórica de la acumulación primitiva en los procesos expansivos coloniales del capital, Harvey (2005) afirma que la acumulación por desposesión se reproduce tanto en los países y regiones donde existe un capitalismo maduro, como en la expansión geográfica colonial, a la cual define como el nuevo imperialismo, el cual es una característica de la globalización. La primera forma de acumulación por desposesión reproducida tanto en países del centro y la periferia consiste en la devaluación tanto de activos como de mano de obra, mediante herramientas económicas y jurídicas diversas. Este proceso se mundializa a partir de la década de 1980, su objetivo radica en la recuperación de aquellos ámbitos donde el capital tuvo que ceder terreno como consecuencia de la lucha de clases (Composto y Navarro, 2014)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "La característica del capitalismo contemporáneo,"
+   ],
+   "\n",
+   [
+    "blockquote",
+    {},
+    "\n",
+    [
+     "p",
+     {},
+     "es la destrucción estructurada de activos, a través de la inflación, el vaciamiento a través de fusiones y adquisiciones, la promoción de niveles de endeudamiento, que aun en los países capitalistas avanzados reducen con deudas a poblaciones enteras, por no mencionar el fraude corporativo, la desposesión de activos (liquidación de fondos de pensiones) la manipulación de crédito. (Harvey, 2005, p.114)"
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "El neoliberalismo es la aplicación práctica de la acumulación por desposesión mediante la privatización de bienes públicos y de actividades que anteriormente eran realizadas por el Estado como la educación y la salud, y de los bienes comunes, modificando con ello la relación capital-trabajo. En este sentido el neoliberalismo es la aplicación práctica, legal e institucional impulsada por el Estado para la acumulación."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "El neoliberalismo impulsa la eliminación de derechos ganados por la población mediante la privatización, la liberalización de mercado, la reconversión del rol del Estado, al mismo tiempo que empobrece la población, elimina garantías laborales y abarata la mano de obra. Sumado a ello, como parte de la acumulación por desposesión se encuentra la coorporativización y la privatización de los bienes anteriormente públicos y comunes como el agua definidos como el cercamiento de los bienes comunes (Harvey, 2005, p. 115)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "En esta reestructuración económica y política, el Estado asume nuevas funciones para devaluación de la mano de obra mediante la reducción de los salarios reales, vulneración de los derechos laborales de los trabajadores, el acceso a servicios y como garante de la inversión privada en la apropiación de los bienes comunes. El resultado es una creciente desigualdad social reflejada en la concentración de riqueza en un grupo pequeño de personas mientras que gran parte de la población mundial vive en condiciones de vida deterioradas con pocas opciones para tener acceso a la educación, salud, etc. “El mundo nunca había sido tan desigual como hoy, 400 individuos todos hombres tienen tanta riqueza como 400 millones de personas” (Santos, 2015, p. 22)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Actualmente, la desigualdad por la creciente acumulación por desposesión exacerba además de la contradicción capital trabajo, también la contradicción entre capital y naturaleza (O´ Connor, 2001, p. 14). Esta segunda contradicción se hace más visible en las regiones periféricas donde se presenta la segunda forma de desposesión, como expansión colonial de apropiación de recursos, procesos productivos, territorios, mano de obra y modos de vida."
+   ],
+   "\n",
+   [
+    "h3",
+    {
+     "id": "t-seccion-4"
+    },
+    "AMÉRICA LATINA: NUEVO IMPERIALISMO Y LA CONTINUACIÓN DEL COLONIALISMO"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "La acumulación por desposesión también requiere ajustes espacio-territoriales, mediante el nuevo imperialismo se apropia de forma violenta de recursos, territorios, mano de obra y formas de vida de las regiones periféricas, principalmente de sus zonas rurales. De acuerdo con Harvey (2005) (2007) este despojo es la segunda forma de acumulación por desposesión. En América Latina en las últimas décadas se configura una nueva ofensiva expansionista como modelo de desarrollo con que presenta las continuidades históricas de colonialidad, despojo y dependencia histórica de la región (Composto y Navarro, 2014, p. 49)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Las regiones no integradas completamente a la explotación capitalista, es decir donde hay una subsunción formal pero no real del trabajo y del territorio por el capital, viven actualmente un periodo de despojo y extracción de sus territorios y recursos disponibles, como son los casos de amplias regiones rurales de América Latina donde habitan poblaciones campesinas e indígenas. De acuerdo con Echeverría (2008) en América Latina la forma natural y la forma capitalista han existido en una relación donde las formas precapitalistas persisten sin ser absorbidas completamente a la lógica del capital, conviviendo la forma comunidad y la forma valor. En la actualidad la forma valor presiona sobre la forma comunidad, para subsumirla realmente."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "El avance y presión del nuevo imperialismo sobre comunidades indígenas y campesinas para la explotación de recursos en sus territorios llevado a cabo por las empresas y en muchos casos apoyadas por los Estados. Harvey (2005) retoma lo expuesto por Luxemburgo al analizar el proceso de la expansión capitalista a principios del siglo XX y la incorporación de regiones precapitalistas para la realización del capital:"
+   ],
+   "\n",
+   [
+    "blockquote",
+    {},
+    "\n",
+    [
+     "p",
+     {},
+     "Aquí no se trata ya de la acumulación primitiva, sino de una continuación del proceso hasta el día de hoy. Toda nueva expansión colonial va acompañada, naturalmente, de esta guerra tenaz del capital contra las formas sociales y económicas de los naturales, así como de la apropiación violenta de sus medios de producción y de sus trabajadores (Luxemburgo, 1967, p. 337)."
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "De igual forma Zibechi (2014) al analizar la acumulación por desposesión en América Latina, considera como característica fundamental la utilización de la violencia, este es su carácter específico, “el principal instrumento de la acumulación por desposesión es la violencia, y sus agentes son, indistintamente, poderes estatales, paraestatales y privados, que en muchos casos trabajan juntos pues comparten los mismos objetivos” (Zibechi, 2014 p. 77). El argumento de Zibechi confirma lo expuesto por Luxemburgo hace más de 100 años, hoy la nueva expansión colonial va acompañada, naturalmente, de esta guerra tenaz del capital contra las formas sociales y económicas de los naturales, así como de la apropiación violenta de sus medios de producción y de sus trabajadores."
+   ],
+   "\n",
+   [
+    "blockquote",
+    {},
+    "\n",
+    [
+     "p",
+     {},
+     "El método violento es, aquí, el resultado directo del choque del capitalismo con las formaciones de economía natural que ponen trabas a su acumulación. El capitalismo no puede prescindir de sus medios de producción y sus trabajadores, ni de la demanda de su plusproducto. (Luxemburgo, 1967, p.336)"
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "El carácter expansivo del capital y la forma asumida como acumulación originaria marcan la relación entre centro y periferia, y las trasformaciones dentro de los estados en América Latina."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Las regiones rurales existentes en los diferentes países en Latinoamérica cuentan con mano de obra, recursos y territorios sumamente importantes para el modelo de acumulación del capitalismo contemporáneo, por ello los Estados realizan las reformas económicas, políticas y jurídicas necesarias para garantizar el proceso de desposesión. En esta nueva fase de acumulación del capital las regiones rurales de América Latina son un componente fundamental para la obtención de mano de obra y de recursos disponibles, incluso no utilizados e integrados plenamente al sistema mercantilizado y de valoración del capital mundial."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Retomando a Fini (2016) en América Latina el neoliberalismo se ha implementado en dos fases. La primera se caracterizó por los reajustes fiscales de los Estados originando la privatización de las riquezas estatales, el recorte de los presupuestos y de servicios públicos, así como el ataque a los derechos sociales de los trabajadores (Fini, 2016, p. 99). En esta primera fase se llevaron a cabo las transformaciones estructurales impulsando la acumulación por desposesión, atacando y reduciendo a los trabajadores formales los derechos obtenidos durante décadas de luchas, asimismo se efectuaron la modificaciones económicas y jurídicas para impulsar la segunda fase, la cual se ha caracterizado por el interés de las empresas y los gobiernos por los recursos de los territorios y por los territorios mismos."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "La desposesión de los recursos y tierras de las poblaciones rurales tradicionalmente habitadas por indígenas y campesinos dan continuidad al colonialismo interno y externo. Esta segunda fase neoliberal es posible gracias a las transformaciones estructurales, el empobrecimiento de la población y la reducción en la productividad campesina debido a la reducción de subsidios, apoyos a la producción y la caída de los precios. Como menciona Harvey (2005) hay devaluación de la mano de obra, actividades de producción y tierras, generalmente ocupadas por poblaciones indígenas y campesinas."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "En América del Sur la segunda fase inició en la década de 1990, pero en México debido a las movilizaciones zapatistas se retrasó, mostrándose hasta el siglo XXI. De hecho, las transformaciones en las leyes para facilitar la desposesión de recursos y territorios se presentaron apenas en la década de 1990 con la modificación al Artículo 27 de la Constitución y otras leyes como la Ley minera (1993), la Ley de aguas (1992) y la Ley de inversión extranjera (Fini, 2016, p. 100). El empobrecimiento de los campesinos, el abandono de subsidios a la producción, circulación y consumo de productos del campo y la creciente migración internacional son elementos constitutivos de este proceso de desvalorización de las actividades rurales y de la mano de obra para ponerlas al servicio del capital. El neoliberalismo desarticula las actividades económicas de estas regiones, reduciendo el gasto para apoyarlas además de fomentar el comercio desigual con las competencias de productos extranjeros, profundizando la crisis y con ello lanzó a miles de campesinos mediante la migración internacional a su proletarización."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "El resultado ha sido una crisis permanente en las últimas tres décadas en América Latina. De hecho, Sader (2006) menciona que: el cuadro actual nos remite al peor de los escenarios posibles: estados debilitados en el plano externo y con cada vez menor capacidad de acción en el plano interno; sociedades cada vez más fragmentadas y desiguales, con amplios sectores excluidos de sus derechos básicos, comenzando por el derecho al empleo formal; economías que perdieron dinamismo y volvieron a depender masivamente de la exportación de materias primas, ingresando en un cuadro de creciente financiarización del cual no logran salir."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Las políticas económicas involucraron una apertura comercial gradual, donde el punto de mayor relevancia fue el Tratado de Libre Comercio de América del Norte con Estados unidos y Canadá. Entre las transformaciones económicas realizadas en las últimas tres décadas por el Estado mexicano, se encuentran: la privatización de empresas estatales, la reducción de subsidios y una mayor apertura a la inversión privada en algunos sectores que anteriormente estaban reservados para el Estado, lo que se refleja en un crecimiento económico con una limitada capacidad para la creación de empleos."
+   ],
+   "\n",
+   [
+    "h3",
+    {
+     "id": "t-seccion-5"
+    },
+    "LA TRANSICIÓN DEL CAMPO HIDALGUENSE."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "El estado de Hidalgo se encuentra en la región centro del país, su cercanía con la Ciudad de México lo convirtió en su abastecedor de productos primarios y de mano de obra barata, con amplias regiones rurales e indígenas. En lo económico, en las últimas cuatro décadas la implementación del neoliberalismo en México ha creado una reconfiguración productiva en Hidalgo profundizando las diferencias regionales económicas. En Hidalgo entonces coexisten, regiones urbanas y semiurbanas donde se promueven la creación de corredores industriales y por otro, regiones rurales con población campesina e indígena, con una crisis permanente del sector primario, donde la migración y el uso de los recursos naturales para el turismo representan las principales fuentes de ingresos, aunque la agricultura se mantiene como una actividad constante."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "El Valle del Mezquital no es homogéneo, en la zona sur del Valle del Mezquital se encuentra el corredor Atitalaquia-Tula-Tepeji, que cuenta con una actividad industrial estratégica para el centro del país entre las industrias destaca la termoeléctrica Francisco Pérez Ríos, la refinería Miguel Hidalgo y las cementeras Cruz Azul y Tolteca. Por otra parte, hay regiones donde predominan las actividades agrícolas, industriales y turísticas."
+   ],
+   "\n",
+   [
+    "blockquote",
+    {},
+    "\n",
+    [
+     "p",
+     {},
+     "En estas regiones históricamente se concentran las condiciones de pobreza, marginación y emigración, con componente de población indígena y donde los impactos de la globalización han sido diferenciadamente desestructurantes: la Huasteca Hidalguense, el Valle del Mezquital y la región Otomí-Tepehua. (Vargas, 2011, p. 95)"
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Específicamente Vargas se refiere al norte del Mezquital, donde si bien se realizan actividades como la minería con sus efectos nocivos al medio ambiente y a la salud, como es el caso de Zimapán, se basan en una producción agrícola principalmente de riego de aguas negras en las zonas bajas como Ixmiquilpan y en el turismo."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "La acumulación por desposesión en Hidalgo al igual que en todo el país ha sido impulsada en dos etapas. La primera de ellas por desvalorización de los territorios, mano de obra y recursos existentes, lo ha generado una creciente migración hacia Estados Unidos y la segunda es preparada por la reforma al Artículo 27 Constitucional en 1992 con el fin de modificar los regímenes de propiedad y con ello modificar las formas de relación comunitaria ahí existentes. Como menciona De Ita (2019) las tierras comunes antes utilizadas para la agricultura y el pastoreo ahora pueden ser vendidas para desarrollos comerciales o para otros megaproyectos. Mediante el Programa de Certificación de Derechos Ejidales y Titulación de Solares Urbanos se proponía la regulación y obtención de documentos para definir los derechos de propiedad de los campesinos. A pesar de la resistencia el Estado impulsó diversos mecanismos para acelerar el proceso de certificación. De tal manera que para 2006 en Hidalgo se habían certificado el 84.6%, ratificando el proyecto de la creación de un mercado de tierras. en el siglo XXI se pasa a la fase dos, dado que en Hidalgo empresas como Befesa o Grupo Carso pueden rentar o adquirir tierras para el impulso de sus proyectos, aunque estos no sean aceptados por la mayor parte de la población."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "En Hidalgo desde la década de 1980 hay crisis permanente del sector primario, la cual se puede observar en la participación del sector en el PIB estatal. En 1980 el sector primario representaba el 6.58 del PIB estatal y para el 2015 aporta el 4.16%, impactando más en regiones como el Valle del Mezquital. Las políticas neoliberales en el sector agrario se han presentado en dos etapas; en la primera, en la década de 1980 y hasta 1990 las políticas fueron dirigidas a la reducción de apoyos al campo, a partir de 1994 se implementó una estrategia basada en 5 ejes:"
+   ],
+   "\n",
+   [
+    "blockquote",
+    {},
+    "\n",
+    [
+     "p",
+     {},
+     "1. Desestimular la producción alimentaria básica nacional y sustituirla por la importada, para aprovechar los bajos precios internacionales de granos básicos en el mercado internacional;"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "2. Concentrar la producción de maíz blanco en una élite de grandes productores, altamente subsidiados, para abastecer la demanda nacional;"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "3. Orientar una política asistencialista hacia los pequeños productores, en detrimento del apoyo productivo; 4. Impulsar las actividades no tradicionales de exportación, para “ganar” los mercados de temporada de Estados Unidos, y 5. Sustentar en la migración rural, que este modelo generaba, la captación de divisas para equilibrar las finanzas públicas (Moguel, 2018, p.67)."
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "En las regiones campesinas del estado de Hidalgo las estrategias 1,3 y 5 utilizadas fueron las de mayor impacto. La reducción de apoyo Estatal productivo a la agricultura se suma a la desestimación de actividades económicas complementarias. En lugar de impulsar la producción agrícola y artesanal como parte de las actividades económicas históricas regionales, el Estado prefiere impulsar otras actividades como el turismo, transformando las poblaciones de campesinos indígenas a promotores del turismo (Quezada, 2018, p.248). El resultado ha sido, la reducción del valor de la producción agrícola pero no así de la agricultura, la cual continua como forma de resistencia ante el impulso neoliberal y como resistencia ante el colonialismo que pretende desvirtuar su validez cultural como poseedora de la memoria colectiva de las comunidades. Al mismo tiempo que la crisis del campo se agrava en las regiones campesinas del Estado de Hidalgo, empiezan a cobrar gran impulso las empresas comunitarias artesanales y turísticas autónomas como complemento de ingresos a la agricultura de allí su persistencia como demuestran Quezada (2018) y Vargas (2001) (2011)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Un efecto de la acumulación por desposesión es la creciente migración internacional que inserta a la población campesina en los procesos de producción internacional. Aunque el incremento en la migración se ha regionalizado, Hidalgo a partir de 1980 se convirtió es un estado emergente ocupando el quinto lugar nacional, destacando el Valle del Mezquital con varios municipios con muy alto índice de intensidad migratoria. Las remesas se han convertido en una fuente de ingresos, pero no han reducido la pobreza."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "El avance del colonialismo neoliberal además de sus efectos económicos sobre la producción campesina y la población que habita en estas regiones de Hidalgo se relaciona con un modo de vida. Lo que está en riesgo es la experiencia misma del mundo campesino e indígena, un ethos plástico y mudable pero milenario que pese a sus cambios internos ha preservado los principios básicos de una socialidad otra, sin duda subordinada al gran dinero, pero en sí misma no capitalista (Bartra, 2015, p.111)."
+   ],
+   "\n",
+   [
+    "h3",
+    {
+     "id": "t-seccion-6"
+    },
+    "EL VALLE DEL MEZQUITAL: TERRITORIO Y PERSISTENCIA SOCIOCULTURAL HÑAHÑU"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "El Valle del Mezquital se encuentra situado en la parte central del estado de Hidalgo, se ubica en el altiplano central de la República Mexicana, limita al occidente con los grandes Valles del Bajío, al sur con el Valle de México, al oriente y al norte con la Sierra Madre Oriental (Cortés, 2014, p. 97). De acuerdo con Guerrero (1980) el Valle del Mezquital es llamado así porque la especie vegetal de mayor abundancia seria el Mezquite, aunque en realidad no es así. El Valle del Mezquital es una región semiárida, con un paisaje dominado por cactáceas, mezquites y cardones donde, mediante el riego, se pueden producir diversas variedades de hortalizas y a falta de él, la agricultura de temporal es la opción. Para Guerrero (1980) el Valle del Mezquital está integrado por 27 municipios, Zimapán, Nicolás Flores, Tecozautla, Tasquillo, Ixmiquilpan, Cardonal, Huichapan, Alfajayucan, Santiago de Anaya, Nopala, Chapantongo, Chilcuautla, Mixquiahuala, Francisco I. Madero, San Salvador, Actopan, Tepetitlán, Tezontepec, Tetepanco, Ajacuba, El Arenal, Tula de Allende, Tlaxcoapan, Atitalaquia, San Agustín Tlaxiaca, Tepeji del Río, Atotonilco de Tula, Progreso y Tlahuelilpan."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "En la propuesta de regionalización Guerrero considera aspectos étnicos y socioculturales asumiendo al Valle del Mezquital con una región que en su interior presenta elementos culturales propios y relaciones sociales específicas. Aun considerando estos factores el Valle del Mezquital en sí mismo tampoco es una región homogénea, debido a los contrastes económicos por lo que se divide en tres regiones, la región sur, la región norte y al alto La región sur Mezquital tiene un mayor desarrollo industrial, con poca presencia de población indígena. En la región norte y el alto Mezquital las condiciones son distintas, dado que hay municipios y comunidades que a pesar de las trasformaciones económicas que los integran al proceso de desarrollo del capitalismo global, mantienen sus formas de organización comunitaria, propias de la cultura Hñahñu, es decir con una identidad y una memoria colectiva más arraigada."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "La elaboración artesanal de productos de la palma y el maguey son actividades que complementan los ingresos de muchas familias. Sin embargo, en la región norte hay agricultura de riego especializada en la producción de hortalizas que se venden en las centrales de abastos de Pachuca y de la Ciudad de México y actividades turísticas predominantemente parques acuáticos como el Tephé, Tepathé, Dios Padre, Pueblo Nuevo, Maguey Blanco entre otros. La migración internacional desde la década de 1990 ha sido constante, municipios como Ixmiquilpan, Taquillo, Zimapán, Santiago de Anaya muestran un alto y muy alto índice de intensidad migratoria."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "El norte y alto Mezquital es el territorio de los habitantes Hñahñus (el que habla con la nariz), auto denominación del grupo otomí que habita en el Valle del Mezquital, donde durante siglos han construido su vida cotidiana, sobreviviendo a las condiciones adversas del medio y a las relaciones sociales dominio regional. Es desde esta vida cotidiana donde se producen y reproducen prácticas sociales que generan apego al territorio, la comunidad y la familia."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Vargas (2001) afirma que hay municipios que han resistido los procesos de modernización, por ello presentan características de continuidad histórico ecológica y de rasgos que dinamizan la interacción social, es un espacio constituido en el que la identidad étnica se ha venido conformando en un largo proceso de resistencia cultural, frente a situaciones agresivas de asimilación y aculturamiento. “Comunidades Hñahñús que han resistido a las diferentes modernizaciones, y que se han reproducido poblacionalmente, son aquellas que han adecuado sus prácticas culturales a las condiciones externas y de contacto intercultural” (Vargas,2001, p. 89). El autor identifica que los espacios de resistencia cultural son lugares en que la población Hñahñu durante el siglo XX, ha establecido estrategias de sobrevivencia y crecimiento poblacional. Cabe aclarar que estas estrategias utilizadas en la vida cotidiana, para la reproducción de su cultura, son al mismo tiempo estrategias políticas de largo alcance histórico, que se remontan siglos atrás y les permiten en el siglo XXI, mantenerse en su territorio. Estos procesos de resistencia cultural se observan con claridad en los municipios de: Afajayucan, El Cardonal, Chilcuatla, Huichapan, Ixmiquilpan, San Salvador, Santiago de Anaya, Tasquillo, Tecozautla y Zimapán."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Con base en lo anterior se puede afirmar que el norte del Valle del Mezquital, representa un espacio social donde algunos municipios forman una región sociocultural bien definida, donde la identidad étnica es un factor que moldea las relaciones sociales intracomunitarias y es la organización social la que provee de sentido a las actividades cotidianas como actos de resistencia, ser hñahñu es una forma de expresar esta resistencia."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "El ser hñahñu hace énfasis a una filiación socio cultural territorial de un grupo de personas que se identifican con un territorio y ciertas prácticas culturales reproducidas tanto en la vida cotidiana como en los días festivos especiales. Ser hañhñu por una parte significa hablar una lengua nasalizada y por otra y al mismo tiempo es vivir en el Valle del Mezquital, realizar las prácticas socioculturales de la región. “Todos y cada uno de los miembros de un grupo étnico habitan espacios sociales definidos y organizados por la existencia de formas culturales específicas” (Bartolomé, 1997, p. 78). Los sujetos que habitan el Valle de Mezquital adquieren y reproducen prácticas simbólicas que les dan sentido a las acciones que realizan."
+   ],
+   "\n",
+   [
+    "h3",
+    {
+     "id": "t-seccion-7"
+    },
+    "RESISTENCIA TERRITORIAL EN EL VALLE DEL MEZQUITAL"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "En los años transcurridos en el siglo XXI en Hidalgo se entrelazan complejas transformaciones de las cuales dos pueden leerse como las más representativas, a partir de las cuales se pueden interpretar las acciones colectivas abiertas: 1) La crisis de la agricultura y desvalorización de los territorios rurales como consecuencia de la política neoliberal, que a su vez generan procesos de despojo para la implantación de nuevas actividades y explotación de recursos con alto impacto ambiental con efectos nocivos en la salud de la población; y 2) la resistencia de la población sustentada en la identidad territorial indígena ante el avance del colonialismo neoliberal vivido como un agravio nuevo que se suma a los vividos históricamente."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "La acumulación por desposesión amenaza a los territorios y los bienes comunes existentes para ponerlos al servicio del capital, proceso que entra en una relación antagónica con las formas de organización social locales, los modos de vida e identidades formadas en el territorio sustentadas en la memoria colectiva."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "PROMOTORA MEXICANA DE RECICLAJE S.A. DE C.V. (PMR) Y RESISTENCIA CAMPESINA"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Durante el periodo que comprende los años 2002 al 2004 en Chapantongo un municipio del Valle del Mezquital se organizan una serie de acciones colectivas para evitar el funcionamiento de la empresa promotora Mexicana de Reciclaje S.A, esto ante el impacto ambiental que sobre la región tendría la instalación de dicha empresa. “Desde el año 2002 la empresa Promotora Mexicana de Reciclaje S.A. de C.V. (PMR), eligió al municipio de Chapantongo para instalar una “planta ecológica” para el confinamiento y reciclaje de desechos industriales químicos algunos de carácter toxico” (Vargas 2005, 70). El proyecto se presentó como Tecnología Aplicada ante la Secretaria del Medio Ambiente y Recursos Naturales (SEMARNAT) y pretendía utilizar una extensión de 110 hectáreas en las comunidades de El capulín y Juchitlan. El objetivo de la planta era el manejo de residuos industriales peligrosos y no peligrosos. Las actividades autorizadas comprendían la clasificación de residuos plásticos no peligrosos para su envío a reciclaje, clasificación de residuos metálicos no peligrosos para su envío a reciclaje, reúso de tambores metálicos, formulación de combustibles alternos, solidificación, estabilización, neutralización de residuos peligrosos, biorremediación de suelos contaminados, Instalación de una planta de tratamiento de aguas residuales Disposición final de residuos en cuatro celdas en un área de 14.74 (Cámara de Diputados, 2025)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "El proyecto no cumplía con los requerimientos legales de la NOM-055-Semarnat 1993, entre los que se encontraba no cumplir con la distancia requerida a poblaciones de 10000 habitantes, que los mantos acuíferos se encuentran a menos de 200 metros de profundidad y que está ubicado en una zona de recarga de agua subterránea que alimenta a los acuíferos denominados Valle del Mezquital y Chapantongo-Alfajayucan y en el cual afloran rocas volcánicas fracturadas de alta permeabilidad."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Ante la inminente construcción de la planta la población se organiza y el 26 de agosto del 2002 las poblaciones envían cartas al Presidente Vicente Fox y al Gobernador de Hidalgo Manuel Ángel Núñez Soto para expresar su inconformidad y el rechazo al proyecto. A partir de ese momento y ante la falta de una respuesta favorable las acciones colectivas realizadas por las comunidades fueron intensificándose y diversificándose. Mediante marchas, plantones y con el apoyo de diversas organizaciones como Unión Nacional de Trabajadores Agrícolas, Unión Campesina Democrática, Obreros Agrícolas y Campesinos lograron constituir la Unión Pueblos Unidos de Occidente. A pesar del rechazo de la sociedad la Secretaría de Medio Ambiente y Recursos Naturales (SEMAR- NAT) otorgó los permisos a la empresa para la construcción de la planta, sin embargo, en 2005 la Comisión de Medio Ambiente y Recursos Naturales del congreso local declaró la inviabilidad del proyecto siendo cancelado."
+   ],
+   "\n",
+   [
+    "h3",
+    {
+     "id": "t-seccion-8"
+    },
+    "CONFINAMIENTO DE RESIDUOS SÓLIDOS Y LAS NUEVAS SUBJETIVIDADES EN ZIMAPÁN"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "La cancelación del proyecto en Chapantongo puso la mirada del proyecto de infraestructura para el manejo de residuos industriales tóxicos en otro municipio de la región, en Zimapán. El movimiento “Todos Somos Zimapán” desarrollado entre 2007 y 2010 logró llevar a cabo una lucha contra la empresa española Befesa para evitar la construcción y operación de un confinamiento de residuos sólidos en el ejido Cuauhtémoc, en el Municipio de Zimapán, Hidalgo. La construcción del confinamiento estuvo a cargo de la empresa Sistemas de Desarrollo Sustentable, S.A de C.V., perteneciente a la empresa española Befesa, filial del Grupo Abengoa que cuenta con instalaciones en diversos países (Ugalde,2017, p. 117). El confinamiento se realizaría en el Ejido Cuauhtémoc San Antonio a 6 kilómetros la cabecera municipal, a dos kilómetros del rio Moctezuma."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "De acuerdo con el proyecto presentado por Sistemas de Desarrollo Sustentable, el proyecto se realizaría en un predio con una superficie 133 hectáreas, las obras de construcción ocuparían 4.2 hectáreas, con una capacidad de tratamiento de 50 000 toneladas al año de residuos tóxicos, donde una vez que sean inertizados serán enviados a las celdas de confinamiento. El proyecto se prevé tendría una vida útil en la primera etapa de 11 años pero que se podía extender hasta 50 años. La planta estaría dividida en tres áreas: Área de maniobra y expedición de residuos, Área de inertización y Área de maduración (Sistema de Desarrollo Sustentable,2006)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "En la primera etapa, Sistemas de desarrollo Sustentable plantea la realización de una inversión de 9 millones dólares, para la construcción de la planta de tratamiento (estabilización), planta de lixiviados, confinamiento controlados y obras complementarias. El proyecto muestra diferentes documentos de autorización por parte de la SEMARNAT, entre los que se incluyen: autorizaciones para cambio de uso suelo en terrenos forestales, autorización para el confinamiento de residuos peligrosos, así como diversas resoluciones sobre los estudios de impacto ambiental. (Sistemas de Desarrollo Sustentable, 2006)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Los argumentos expuestos contra la construcción del confinamiento además de los posibles riesgos para la salud son la cercanía con la población, la cual se encuentra a seis kilómetros, pero que en un radio de 25 kilómetros del lugar donde se ubica la planta habitan más de 11 500 personas. Un segundo argumento es la existencia de una corriente de agua debajo del terreno designado para la construcción el confinamiento y finalmente se argumentaba la existencia de una falla geológica que podría ocasionar problemas estructurales en las instalaciones. Estos cuestionamientos no pudieron ser refutados por la presidencia municipal pero no frenó los permisos de construcción. También se exponía las consecuencias que podría tener para la salud de la población del municipio ya deteriorada por la acumulación de jales, entendidos como residuos de la actividad minera, lo que, tras siglos los han convertido en un problema de medio ambiente y de salud al aire libre y que también afecta el agua que consume la población."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Ante la inminente apertura del confinamiento, surgen las acciones colectivas abiertas desarrollándose en tres fases, donde cada una muestra las estrategias utilizadas y los oponentes a que enfrentaba"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "La primera etapa abarca el inició del movimiento hasta diciembre de 2007, periodo en que el gobierno municipal y el gobierno del estado se muestran como promotores del confinamiento. En este periodo el Movimiento Todos Somos Zimapán plantea la organización hacia dentro de las comunidades tratando de demostrar la inviabilidad ambiental de proyecto, sin embargo, el 2 de diciembre fueron reprimidos brutalmente por la policía estatal."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "La segunda etapa abarca de finales de diciembre de 2007 a noviembre del 2008, periodo en que el movimiento diversifica las estrategias de lucha y logra ser conocido a nivel nacional, pero donde el gobierno federal se convierte en el principal adversario en el conflicto. Durante este periodo el movimiento realizó diferentes marchas a la capital del país y del estado, logrando con ello el apoyo de diferentes movimientos y organizaciones como el barzón popular y Asamblea Popular de los Pueblos de Oaxaca (APPO), así como de diversos académicos y defensores de los derechos humanos. A pesar de las marchas y plantones la empresa inicio sus operaciones"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "La tercera etapa del movimiento abarca de noviembre del 2008 hasta la clausura del proyecto en 2010, en esta etapa el Movimiento Todos Somos Zimapán, ante el cierre del dialogo por parte del gobierno federal, encuentra como única alternativa participar en las elecciones municipales. Se consideró que la persona idónea para la candidatura era José María Lozano Moreno quien en la elección anterior había sido candidato por el Partido Acción Nacional (PAN) y ahora se mostraba como uno de los líderes del movimiento. El Partido de la Revolución Democrática (PRD) sería quien registraría como candidato a Lozano Moreno el cual se hizo acompañar, como miembros de la planilla, de algunos integrantes del movimiento Todos Somos Zimapán."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "El resultado fue positivo, aunque las elecciones fueron impugnadas y se llevaron a cabo nuevamente el 5 de julio del 2009 resultando ganador el candidato del Movimiento Todos Zimapán. El 4 de junio de 2010 las instalaciones del confinamiento fueron clausuradas. El 22 de julio en una reunión entre el Movimiento Todos Somos Zimapán y la Secretaria de Gobernación se acordó la cancelación definitiva del proyecto, con lo que el movimiento lograba su objetivo después de cuatro años de movilizaciones en los que sufrieron diversas represiones, pero al mismo tiempo reforzaron su identidad colectiva y adquirieron experiencia política."
+   ],
+   "\n",
+   [
+    "h3",
+    {
+     "id": "t-seccion-9"
+    },
+    "SANTIAGO DE ANAYA Y LA LUCHA CONTRA LA CEMENTERA SANTA ANITA"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "La condición de pobreza prevaleciente en el Estado de Hidalgo y la necesidad de ser superada mediante la inversión privada, fueron argumentos utilizados por el gobierno para promover proyectos de inversión privada en las comunidades indígenas y campesinas, a pesar del rechazo en las comunidades."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Tal es el caso de la cementera Santa Anita cuyo proyecto fue aprobado el primero de septiembre de 2010. Este consiste en la construcción y operación de una planta de producción de cemento, conformada por un sistema de molienda y una segunda línea producción, así como la integración de las áreas e infraestructura existente. El proyecto se compone de dos líneas de operación la Línea 1 Compuesta por planta industrial, yacimiento, camino, estacionamiento para transportistas y área de amortiguamiento y la Línea 2, en esta área se llevará a cabo el desarrollo del sistema de molienda II y de la segunda línea de producción de la siguiente manera:"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "La planta tendrá una vida útil de 77 años (desde el inicio de la etapa de preparación del sitio de ambas fases hasta la etapa de cierre y abandono de ambas fases), con una capacidad de producción de 600 mil toneladas de cemento al año y una a inversión estimada fue de aproximadamente 230 millones dólares."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "La empresa es parte del corporativo de Carlos Slim, y se anunció el proyecto como la cementera más moderna del país. La planta productora se planeó construir en medio de diversas comunidades Hñahñus y campesinas en el municipio de Santiago de Anaya, las cuales mostraron su rechazo, conformándose el Movimiento Indígena Santiago de Anaya, (MISA)(Herrera 2017) Las primeras acciones realizadas fueron las asambleas informativas dentro de las comunidades."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Entre las primeras denuncias realizadas por el movimiento fue la compra de terrenos a bajo precio, el impacto ambiental por el uso de agua por parte de la empresa, el impacto en las grutas del Xoxafi empresa ecoturística indígena de la región. Asimismo, se argumentó la falta de consulta a los pueblos indígenas Hñahñu de la región, sin embargo, la SEMARNAT argumentó que los estudios de impacto ambiental eran favorables a la empresa. Ante ello el movimiento planteó la necesidad de clausurarlo desde la Presidencia Municipal tal como se había hecho en Zimapán, pero esto no sucedió y la empresa inició sus operaciones en 2014. La fortaleza del movimiento y su organización comunitaria como sustento, no lograron detener la construcción de la planta productora de cementos. Fue la lucha de David contra Goliat como lo titula Vargas (2016) al analizar las acciones colectivas abiertas en Santiago de Anaya, pero en esta ocasión perdió David."
+   ],
+   "\n",
+   [
+    "h3",
+    {
+     "id": "t-seccion-10"
+    },
+    "EL LIBRAMIENTO IXMIQUILPAN Y LA RESISTENCIA EN LA PANDEMIA"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "En 2012 al iniciar el sexenio de Enrique Peña Nieto se anunció la construcción de un libramiento, una carretera de cuota que conectara Santiago de Anaya con Tasquillo. Fue hasta la llegada de Andrés Manuel López Obrador en 2019 que se retomó la iniciativa de construir el libramiento para mejorar la conectividad de la región con el centro del país. El objetivo según el gobierno federal era reducir los tiempos de traslado por la región e incrementar la seguridad vial, además de impulsar el desarrollo de la región."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "El proyecto plantea la construcción de una carretera alterna a la existente de cuatro carriles ( México –Laredo) que atravesaría los municipios del Valle del Mezquital, como Ixmiquilpan, San Salvador, Santiago de Anaya y Tasquillo. El proyecto de 32 kilómetros pretende ser un libramiento de cuota que conectaría a varias vías rápidas en la región. Con una inversión de cercana a los 3000 millones de pesos. El trazado del libramiento se tiene proyectado que se construya sobre milpas, canales de riego y zonas sagradas para la población."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "En gran parte de las comunidades de la región, a pesar de las transformaciones en la tenencia de la tierra, la propiedad aún es comunal y las obras de riego, canales, pozos y caminos han sido construidas mediante obras colectivas durante generaciones con incontables faenas. Por tanto, el proyecto tal como fue propuesto destruiría tanto el territorio como la memoria objetivada en las obras, desvalorando el trabajo acumulado por décadas y los saberes comunitarios."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "El proyecto tendría un hondo impacto, porque interrumpiría el paso de las personas a sus actividades diarias, a la milpa, a la escuela y las comunidades quedarían divididas. El paso de animales a los lugares de pastoreo se vería afectado. Pero sobre todo la agricultura sufriría un impacto mayor, por la afectación a las obras de riego y las tierras cultivables, lo que muestra la visión de desvalorar dicha actividad. Por otra parte, el cerro del Dexitzo en la comunidad del maye, lugar sagrado en la visión Hñahñu seria trastocado."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Ante la inminente construcción del Libramiento, las comunidades de diversos municipios iniciaron la organización de la resistencia en plena pandemia por covid-19 mediante asambleas (González y Maturano, 2024). En las asambleas realizadas desde el 30 de agosto del 2020 en diversas comunidades, tantos representantes comunitarios, ejidatarios y personas de los diferentes comités de las comunidades han manifestado su inconformidad con la construcción de la obra."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "En las reuniones con funcionarios estatales y federales, se ha manifestado el rechazo a la obra, considerando que los recursos que se quieren destinar a ésta, podrían ser utilizados en otro tipo de proyectos en los cuales si se considere su opinión. En la posición colonialista de los gobiernos estatales, federales y de la empresa el Coconal, no se consideran los saberes y el modo de vida de la población de estas comunidades, se pretende atentar contra los territorios ocupados por la población Hñhñau, desvalorizando su forma de producción económica y de organización social"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "A pesar de las negativas expresadas en las actas de las reuniones, las comunidades y ejidatarios manifiestan que aún son amenazados por personal de la empresa, aunado a que lo políticos locales incitan a realizar asambleas en comunidades del Mezquital situadas en espacios donde no se construirá el libramiento, sobre todo para votar a favor, lo que carece de representatividad. La resistencia está en marcha, aunque no se ha definido la situación. A pesar de la resistencia en junio de 2023 el Secretario de Planeación de Hidalgo nuevamente retomó el planteamiento de la construcción del libramiento con un nuevo trazado."
+   ],
+   "\n",
+   [
+    "h3",
+    {
+     "id": "t-seccion-11"
+    },
+    "CONCLUSIONES"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Actualmente las regiones rurales de México y América Latina padecen las embestidas del capital para extraer recursos, ocupar territorios para su explotación e incorporar mano de obra que se ocupa en trabajos agrícolas a la producción industrial. La especificidad de la región norte del Valle del Mezquital en estos procesos de desposesión radica en la pretensión de utilizarla para arrojar desechos tóxicos e industriales, la extracción de recursos y la construcción de carreteras de cuota."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "En cuanto a la extracción de recursos como en el caso de la minería o del agua como sucede en San Luis Potosí o la Sierra Norte de Puebla, históricamente la región ha sufrido la explotación minera principalmente en Zimapán y sus consecuencias por la constante contaminación de la acumulación de los jales al aire libre. Por otro lado, también ha recibido las aguas residuales de la ciudad de México con sus impactos contaminantes y de pérdidas materiales por inundaciones. Las aguas termales de la región son explotadas principalmente por algunas comunidades para crear balnearios. Los mantos acuíferos de la región se pueden convertir en recursos atractivos. De hecho, el 14 de febrero de 2024 el presidente Andrés Manuel López Obrador mencionó que se podría llevar agua del Valle del Mezquital para abastecer la zona metropolitana de la ciudad de México. Incluso el Gobernador de Hidalgo Julio Menchaca planteó la posibilidad de utilizar el acuífero Actopan Santiago de Anaya para surtir agua a Pachuca y la Ciudad de México (Badillo, 2024)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Estos proyectos, aunque algunos no han logrado llevarse a acabo por la resistencia de los habitantes, pueden en el futuro impactar hondamente en la región, tal como ha sucedido en la región sur del Valle del Mezquital, la cual padece graves problemas de contaminación del medio ambiente. El impacto de estos proyectos en los territorios poblados por campesinos y población indígena trastoca su modo de vida, organización, territorios sagrados y es un riesgo para la salud. El concepto de acumulación por desposesión propuesto por Harvey, analiza la manera en que se manifiesta este proceso en los ámbitos locales. Tal como lo han analizado Cortés, et al (2016), Navarro (2015) y Pérez (2021) la acumulación se realiza en distintas formas en los ámbitos locales."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Actualmente, comunidades enteras de la región son reconocidas por su resistencia a tales proyectos y han sido la organización social y su fuerte identidad étnica hñahñu elementos fundamentales para luchar contra tales proyectos. En el Valle del Mezquital al igual que en otras regiones rurales de México, la acumulación por desposesión abre un nuevo periodo de extracción y uso del territorio con fines de obtener ganancia, pero también potencia nuevas resistencias antes invisibles. Por ello, se debe investigar de forma más profunda el impacto en la organización social de la región y la forma en que los recursos serán incorporados como una periferia de la zona metropolitana de la ciudad de México."
+   ],
+   "\n",
+   [
+    "h3",
+    {
+     "id": "t-seccion-12"
+    },
+    "REFERENCIAS "
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Badillo, D.( 24 de febrero de 2024). ¿Es viable traer agua del Valle del Mezquital a la Zona metropolitana del Valle de México? El economista. ",
+    [
+     "a",
+     {
+      "href": "https://www.eleconomista.com.mx/politica/Es-viabletraer-agua-del-Valle-del-Mezquital-a-la-Zona-metropolitana-del-Valle-de-Mexico--20240224-0018.html"
+     },
+     "https://www.eleconomista.com.mx/politica/Es-viabletraer-agua-del-Valle-del-Mezquital-a-la-Zona-metropolitana-del-Valle-de-Mexico--20240224-0018.html"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Bartolomé, M. (1997), Gente de costumbre y gente de razón. Las identidades étnicas en México. INI, Siglo XXI, México."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Bartra, A. (2014). Rosa de Luxemburgo:violencia y despojo en los arrabales del capital. En G. Sánchez, A. Álvarez, S. Figueroa, & Coords, ",
+    [
+     "em",
+     {},
+     "Reproducción, crisis, organización y resistencia. A cien años de La Acumulación de capital de Rosa de Luxemburgo"
+    ],
+    ", 187-204. CLACSO-BUAP-FISYP."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Bartra, A. (2015). Con los pies en la tierra. Despojo y resistencia en los territorios. México: UACM-Ítaca-UAM."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Bartra, R. (1999). Caciquismo y poder político en el México rural. México: Siglo XXI."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Bonefeld, W. (2012). La permanencia de la acumulación primitiva:fetichismo de la mercancia y constitución social. ",
+    [
+     "em",
+     {},
+     "Theomai"
+    ],
+    "(26). Obtenido de ",
+    [
+     "a",
+     {
+      "href": "http://revista-theomai.unq.edu.ar/NUME-RO%2026/Bonefeld%20-%20La%20permanencia%20de%20"
+     },
+     "http://revista-theomai.unq.edu.ar/NUME-RO%2026/Bonefeld%20-%20La%20permanencia%20de%20"
+    ],
+    " la%20acumulaci%C3%B3n%20primitiva.pdf"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Camara de Diputados (2005). Garceta paralamentaria, 1898, ",
+    [
+     "a",
+     {
+      "href": "https://gaceta.diputados.gob.mx/PDF/59/2005/dic/20051206-III.pdf"
+     },
+     "https://gaceta.diputados.gob.mx/PDF/59/2005/dic/20051206-III.pdf"
+    ],
+    "."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Composto, C. y Navarro, M. (2014). Claves de lectura para comprender el despojo y las luchas por los bienes comunes naturales en América Latina. En C. Composto y M. Navarro. Comps, Territorios en disputa. Despojo capitalista, luchas en defensa de los bienes comunes naturales y alternativas emancipadoras para América Latina 33-75. Bajo Tierra."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Cortés, R., Zapata, E., Ayala, M., Rosas R., & Navarro, H. (2016). Megaminería y género. Acumulación por desposesión en Cerro de San Pedro, San Luis Potosí. Sociedad y Ambiente (12), 61-97"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Cortés, D. (2014). Participación de los jóvenes hñähñú en las comunidades de origen en el contexto de migración del Valle del Mezquital, Tesis de Doctorado.UAM."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "De Angelis, M. (2012). Marx y la acumulación primitiva:el carácter continuo de los cercamientoscapitalistas. ",
+    [
+     "em",
+     {},
+     "Theomai"
+    ],
+    "(26). Obtenido de ",
+    [
+     "a",
+     {
+      "href": "http://www.revista-theomai.unq.edu.ar/NUMERO%2026/De%20"
+     },
+     "http://www.revista-theomai.unq.edu.ar/NUMERO%2026/De%20"
+    ],
+    " Angelis%20-%20Marx%20y%20la%20acumulaci%C3%B3n%20 primitiva.pdf"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "De Ita, A. (2019). Las reformas agrarias neoliberales en México. El cotidiano (214), 95-106."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Fini, D. (2016). Territorio como paradigma en las luchas sociales contemporáneas. En M. Navarro, y D. Fini, Despojo capitalista y luchas comunitarias en defensa de la vida en México (pp. 93-110). México: Benemérita Universidad Autónoma de Puebla."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "González, V., y Maturano, A. L. (2024). La comunidad como forma de resistencia cotidiana en la población hñahñu del Valle del Mezquital. Anales De Antropología, 58(2). ",
+    [
+     "a",
+     {
+      "href": "https://doi.org/10.22201/iia.24486221e.2024.58.2.86117"
+     },
+     "https://doi.org/10.22201/iia.24486221e.2024.58.2.86117"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Guerrero, R. (1980). Los otomíes del valle del mezquital. México: Instituto Nacional de Antropología e Historia Centro Regional Hidalgo"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Gutiérrez, J. (1977). El sistema político y la burguesía rural en México el caso del Valle del Mezquital. Revista Mexicana de Sociología 39 (3), 901-919."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Harvey, D. (2005). El nuevo imperialismo: acumulación por desposesión. ",
+    [
+     "em",
+     {},
+     "Social Register"
+    ],
+    "(40), 99-199."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Harvey, D. (2007). Espacios del capital. España: Akal."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Harvey, D. (2014). ",
+    [
+     "em",
+     {},
+     "Guía de El Capital de Marx. Libro primero."
+    ],
+    " Madrid: Akal."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Herrera, J. (2017). La resistencia campesina en el Valle del Mezquital:El caso de la cementera Santa Anita. En O. Garrafa, C. Rodríguez, S. Rappo, García, & Coordibadores, ",
+    [
+     "em",
+     {},
+     "México rural ante los retos del siglo XXI"
+    ],
+    ", 223-239. México: UAM."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Hirsch, J. (1998). Globalización, capital y Estado. México: UAM."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Holloway, John (2011), Agrietar el capitalismo. El hacer contra el trabajo, Buenos Aires, Herramienta."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Luxemburgo, R. (1967). ",
+    [
+     "em",
+     {},
+     "La acumulación de capital."
+    ],
+    " México: Grijalbo."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Marx, C. (1986). ",
+    [
+     "em",
+     {},
+     "El capital T.I."
+    ],
+    " México: FCE."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Martínez Giménez, E., & Pérez Ramírez, C. A. (2024). Elementos determinantes de las zonas de sacrificio en México. ",
+    [
+     "em",
+     {},
+     "Bajo El Volcán. Revista Del Posgrado de Sociología. BUAP"
+    ],
+    ", 62–93. ",
+    [
+     "a",
+     {
+      "href": "https://doi.org/10.32399/ICSYH.bvbuap.2954-4300.2024.6.11.772"
+     },
+     "https://doi.org/10.32399/ICSYH.bvbuap.2954-4300.2024.6.11.772"
+    ],
+    "."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Martínez, C., y B. Canabal (1973). Explotación y dominio en el Mezquital. Acta Sociológica (3)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Martínez, V. (1999). Despojo y manipulación campesina: historia y estructura de dos cacicazgos del Valle del Mezquital. En R. Bartra, Caciquismo y poder político en el medio rural (pp. 148-174). México: Siglo XXI."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "pt"
+    },
+    "O’Connor, J. (2001). Causas naturales. Ensayos sobre marxismo ecológico. México: Siglo XXI."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Perez, S. (2021). La remodelización extractivista de la Sierra Norte de Puebla y su deriva local en el municipio de Ixtacamaxtitlán a través de la minería (2001-2020). Benemérita Universidad Autónoma de Puebla ",
+    [
+     "a",
+     {
+      "href": "https://hdl.handle.net/20.500.12371/15702"
+     },
+     "https://hdl.handle.net/20.500.12371/15702"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Quezada, M. (2018). De campesinos indígenas a promotores del turismo.Experiencia del ejido de San Cristóbal, Hidalgo, México. ",
+    [
+     "em",
+     {},
+     "Agricultura, Sociedad y Desarrollo"
+    ],
+    ", 247-274."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Rubio, B., y Moguel, J. (2018). La agricultura mexicana en la encrucijada. En B. Rubio.Comp. América Latina en la mirada: las transformaciones rurales en la encrucijada, 63-92. México: UNAM."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Sader, E. (2006). América Latina en el siglo XX. En A. Boron, y G. Bachini. Comps. Política y movimientos sociales en un mundo hegemónico (51-80). Argentina: CLACSO"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Santos, B. (2015). ",
+    [
+     "em",
+     {},
+     "Revueltas de indignación y otras conversas."
+    ],
+    " Bolivia: Alice."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Sistemas de Desarrollo Sustentable. (2006). ",
+    [
+     "em",
+     {},
+     "Proyecto Sistemas de Desarrollo Sustentable."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Ugalde, V. (2017). La gestión de la crisis asociada la operacion de instalaciones para residuos peligrososen Zimapán , Hidalgo. En L. Bobbio, P. Melé, y V. Ugalde, ",
+    [
+     "em",
+     {},
+     "Conflictos y concertación . La gestión de los residuos en México, Italia y Francia"
+    ],
+    ",119-153. Mécio: El Colegio de México."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Vargas, P. (2001). Transformaciones agrarias e identidad. ",
+    [
+     "em",
+     {},
+     "Ecuador Debate"
+    ],
+    "(53), 185-196."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Vargas, P. (2005). Chapantongo:globalización y lucha ecologica. ",
+    [
+     "em",
+     {},
+     "El cotidiano"
+    ],
+    " (129), 68-75. Obtenido de ",
+    [
+     "a",
+     {
+      "href": "https://www.redalyc.org/articulo.oa?id=32512909&iCveNum=1470"
+     },
+     "https://www.redalyc.org/articulo.oa?id=32512909&iCveNum=1470"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Vargas, P. (2011). Pobreza, migración y desempleo: mujeres en la región otomí tepehua de Hidalgo. Nueva Antropología, 24(75),93-1019. Obtenido de ",
+    [
+     "a",
+     {
+      "href": "https://www.redalyc.org/pdf/159/15924195006.pdf"
+     },
+     "https://www.redalyc.org/pdf/159/15924195006.pdf"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Vargas, P. (2016). David contra Goliat : La cementera del grupo CARSO-ELEMENTIA contra pueblos indigenas del Estado de Hidalgo , México. En M. Ibarra, & E. Telleros, ",
+    [
+     "em",
+     {},
+     "Megaproyectos en México. Una reflexión crítica"
+    ],
+    ", 1-26. Facultad de Filosofía y Letras, UNAM-Editorial Ítaca."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Zibechi, R. (2014). El estado de exepción como paradigma politíco del extractivismo. En C. Composto, M. Navarro, & Comps, ",
+    [
+     "em",
+     {},
+     "Territorios en disputa. Despojo capitalista,luchas en defensa de los bienes comunes naturales y alternativas emancipatorias para América Látina"
+    ],
+    ", 76-88. Bajo Tierra."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Cómo citar: ",
+    [
+     "em",
+     {},
+     "Bajo el Volcán. Revista del Posgrado de Sociología. BUAP"
+    ],
+    ", Año 7, Núm. 14, mayo – octubre de 2026, pp. 305-336. https://doi.org/10.32399/ICSYH.bvbuap.2954-4300.2026.7.14.855"
+   ],
+   [
+    "p",
+    {},
+    [
+     "a",
+     {
+      "href": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
+     },
+     "Licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional"
+    ],
+    ". Publicación de acceso abierto diamante editada por la Benemérita Universidad Autónoma de Puebla."
+   ],
+   "\n"
+  ],
+  "\n"
+ ]
+}

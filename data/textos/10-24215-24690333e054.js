@@ -1,0 +1,2818 @@
+// Copia de textos/10-24215-24690333e054.json para abrir la aplicación sin servidor.
+(window.DATOS_REVISTAS = window.DATOS_REVISTAS || {})["textos/10-24215-24690333e054.json"] = {
+ "version": 1,
+ "recogido": "2026-10-18T11:26:51+00:00",
+ "doi": "10.24215/24690333e054",
+ "titulo": "profanación del instinto: madres extraviadas en el cine clásico",
+ "revista": "2469-0333",
+ "numero": "n10-2026",
+ "licencia": {
+  "codigo": "by-nc-sa",
+  "nombre": "CC BY-NC-SA 4.0",
+  "nombre_completo": "Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional",
+  "url": "http://creativecommons.org/licenses/by-nc-sa/4.0",
+  "url_legal": "https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.es"
+ },
+ "fuente": {
+  "url": "https://perio.unlp.edu.ar/ojs/index.php/conequis/article/download/8001/7313/35556?inline=1",
+  "formato": "HTML",
+  "plataforma": "ojs-galerada",
+  "pagina": "https://perio.unlp.edu.ar/ojs/index.php/conequis/article/view/8001"
+ },
+ "autores_cita": [
+  {
+   "apellidos": "Aimaretti",
+   "nombre_pila": "María",
+   "nombre": null
+  }
+ ],
+ "avisos_derechos": [
+  "Derechos de autor 2024 María Aimaretti",
+  "Licencia Derechos de autor 2024 María Aimaretti Esta obra está bajo una licencia internacional Creative Commons Atribución-NoComercial-CompartirIgual 4.0. Del número 1 (2015) al número 3 (2017) los materiales se publicaron bajo una licencia BY-NC-ND.A partir del número 4 (2018), los materiales se publican bajo una licencia BY-NC-SA. Acorde a estos términos, el material se puede compartir (copiar y redistribuir en cualquier medio o formato) y adaptar (remezclar, transformar y crear a partir del material otra obra), siempre que a) se cite la autoría y la fuente original de su publicación (revista y URL de la obra), b) no se use para fines comerciales y c) se mantengan los mismos términos de la licencia."
+ ],
+ "idioma_principal": "es",
+ "indice": [],
+ "vueltas": {},
+ "contenido": [
+  [
+   "span",
+   {
+    "id": "t-MathJax_Message"
+   }
+  ],
+  "\n",
+  [
+   "span",
+   {
+    "id": "t-visor-cabecera"
+   },
+   "\n",
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-logo-institucion"
+    },
+    "\n",
+    [
+     "figura",
+     {}
+    ]
+   ],
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-logo-revista"
+    },
+    "\n",
+    [
+     "figura",
+     {}
+    ]
+   ],
+   "\n",
+   "\n"
+  ],
+  "\n",
+  [
+   "span",
+   {
+    "id": "t-articulo"
+   },
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-front"
+    },
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-articulo-categoria"
+     },
+     "\n",
+     [
+      "p",
+      {},
+      "Artículos"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-articulo-meta"
+     },
+     "\n",
+     [
+      "p",
+      {},
+      "\n",
+      [
+       "span",
+       {},
+       "La profanación del instinto: madres extraviadas en el cine clásico. Los casos de ",
+       [
+        "span",
+        {},
+        "Surcos"
+       ],
+       " (España, 1951) y ",
+       [
+        "span",
+        {},
+        "El secuestrador"
+       ],
+       " (Argentina, 1958)"
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "lang": "en"
+      },
+      "\n",
+      [
+       "span",
+       {},
+       "The Profanation of Instinct: Stray Mothers in Classic Cinema. The Case\nof ",
+       [
+        "span",
+        {},
+        "Surcos "
+       ],
+       "(Spain, 1951) and ",
+       [
+        "span",
+        {},
+        "The Kidnapper"
+       ],
+       " (Argentina, 1958)"
+      ],
+      "\n"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-articulo-acerca"
+     },
+     "\n",
+     [
+      "span",
+      {
+       "id": "t-ficha-general"
+      },
+      "\n",
+      [
+       "span",
+       {
+        "id": "t-autores-articulo"
+       },
+       "\n",
+       "\n",
+       "\n",
+       [
+        "a",
+        {
+         "href": "https://orcid.org/0000-0002-5586-5269"
+        },
+        [
+         "figura",
+         {}
+        ]
+       ],
+       "  ",
+       [
+        "span",
+        {},
+        "María"
+       ],
+       " ",
+       [
+        "span",
+        {},
+        "Aimaretti"
+       ],
+       " ",
+       [
+        "span",
+        {}
+       ],
+       [
+        "span",
+        {},
+        " m.aimaretti@gmail.com"
+       ],
+       "\n",
+       "\n",
+       "\n",
+       [
+        "span",
+        {},
+        "Universidad de Buenos Aires / Consejo\nNacional de Investigaciones Científicas y Técnicas (CONICET)"
+       ],
+       ", ",
+       [
+        "span",
+        {},
+        "Argentina"
+       ],
+       "\n",
+       "\n",
+       "\n"
+      ],
+      "\n",
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "Con X"
+       ],
+       "\n"
+      ],
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "Universidad Nacional de La Plata, Argentina"
+       ],
+       "\n"
+      ],
+      "\n",
+      [
+       "p",
+       {}
+      ],
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "ISSN-e: "
+       ],
+       "2469-0333"
+      ],
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "Periodicidad: "
+       ],
+       "Frecuencia continua"
+      ],
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {}
+       ],
+       "núm.  10, ",
+       [
+        "span",
+        {
+         "id": "t-elocation-id"
+        },
+        "e054, "
+       ],
+       [
+        "span",
+        {},
+        "2024"
+       ],
+       "\n"
+      ],
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       "direccion.publicaciones@perio.unlp.edu.ar",
+       "\n"
+      ],
+      "\n",
+      "\n",
+      [
+       "span",
+       {
+        "id": "t-articulo-product"
+       }
+      ],
+      "\n",
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "Recepción: "
+       ],
+       " 26 enero  2024"
+      ],
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "Aprobación: "
+       ],
+       " 03 abril  2024"
+      ],
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "Publicación: "
+       ],
+       " 14 mayo  2024"
+      ],
+      "\n",
+      [
+       "br",
+       {}
+      ],
+      "\n",
+      [
+       "br",
+       {}
+      ],
+      "\n",
+      "\n",
+      "\n",
+      [
+       "span",
+       {},
+       "URL: "
+      ],
+      [
+       "a",
+       {
+        "href": "http://portal.amelica.org/ameli/journal/160/1605032001/"
+       },
+       "http://portal.amelica.org/ameli/journal/160/1605032001/"
+      ],
+      "\n",
+      "\n",
+      "\n",
+      [
+       "span",
+       {},
+       "DOI: "
+      ],
+      [
+       "a",
+       {
+        "href": "https://doi.org/10.24215/24690333e054"
+       },
+       "https://doi.org/10.24215/24690333e054"
+      ],
+      "\n",
+      "\n",
+      "\n",
+      [
+       "p",
+       {}
+      ],
+      "\n",
+      "\n",
+      "\n",
+      "\n",
+      [
+       "a",
+       {
+        "href": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+       },
+       [
+        "figura",
+        {}
+       ],
+       [
+        "br",
+        {}
+       ],
+       "\n"
+      ],
+      "Esta obra está bajo una ",
+      [
+       "a",
+       {
+        "href": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+       },
+       "Licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional."
+      ],
+      "\n",
+      "\n",
+      "\n",
+      [
+       "p",
+       {}
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "\n",
+      [
+       "span",
+       {},
+       "Resumen:\n\t\t\t\t\t\t\t                           "
+      ],
+      [
+       "span",
+       {},
+       "Desde una perspectiva culturalista y con un enfoque comparado, el texto analiza, en el marco de los cines clásicos argentino y español, representaciones de la maternidad que incumplen con el paradigma hegemónico que prescribe: ternura ilimitada, cuidado intensivo, tolerancia absoluta y entrega constante. En su lugar, se encuentra desidia, inercia, incompetencia y desgano en el cuidado y la crianza de los/as hijos/as. Se estudia, para esto, la figuración de la mujer-madre «extraviada» en el caso de los filmes ",
+       [
+        "span",
+        {},
+        "Surcos"
+       ],
+       " (Nieves Conde, España, 1951) y ",
+       [
+        "span",
+        {},
+        "El secuestrador"
+       ],
+       " (Torre Nilsson, Argentina, 1958)."
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "\n",
+      [
+       "span",
+       {},
+       "Palabras clave: "
+      ],
+      "cine clásico, mujeres, maternidad, representaciones.\n\t\t                         "
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "lang": "en"
+      },
+      "\n",
+      [
+       "span",
+       {},
+       "Abstract:\n\t\t\t\t\t\t                           "
+      ],
+      [
+       "span",
+       {},
+       "From a cultural perspective and with a comparative approach, the text analyzes, within the framework of classic Argentine and Spanish cinemas, representations of motherhood that fail to comply with the hegemonic paradigm that prescribes: unlimited tenderness, intensive care, absolute tolerance and constant dedication. Instead, it is possible to find laziness, inertia, incompetence and reluctance in the care and upbringing of children. The figuration of this «stray» woman-mother of the model is studied in the case of ",
+       [
+        "span",
+        {},
+        "Surcos"
+       ],
+       " (Nieves Conde, Spain, 1951) and ",
+       [
+        "span",
+        {},
+        "The Kidnapper"
+       ],
+       " (Torre Nilsson, Argentina, 1958)."
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "\n",
+      [
+       "span",
+       {},
+       "Keywords: "
+      ],
+      "classic cinema, women, motherhood, representations.\n                                "
+     ],
+     "\n"
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-articulo-body"
+    },
+    "\n",
+    [
+     "p",
+     {},
+     "Introducción"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " ¿Qué grieta se abre en el imaginario social cuando una figura largamente idealizada como es la madre muestra en el cine su rostro oscuro por defectuoso, equívoco en aquello para «lo que debería» ser competente; esto es, amar incondicionalmente? ¿Cuáles son las dimensiones de la experiencia vital de las mujeres que en esa grieta –visual, estética, cultural, pero no menos política– alcanzan a expresarse? A partir de estos interrogantes, el presente artículo se pregunta por la emergencia, en la década del cincuenta, de representaciones sobre la maternidad en los cines clásicos de la Argentina y de España que no se inscriben en el paradigma de ternura ilimitada, cuidado intensivo, tolerancia absoluta y entrega constante. En efecto, mientras estas industrias atraviesan un proceso de reconfiguración estructural, sus universos diegéticos sufren alteraciones importantes y, en ese contexto, habilitan la aparición de, por ejemplo, figuras de madre que incluyen la desidia, la inercia, la incompetencia y el desgano en el cuidado y en la crianza de los/as hijos/as.  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Desde la historia cultural y del cine, con un enfoque atento a las construcciones de género, y mediante una mirada comparada entre los cines argentino y español, se problematiza la representación de la mujer-madre que no cumple con las pautas asignadas por el modelo tradicional y que aparece como «fallada», incorrecta y, en último término, engañosa, errónea, falsa o, como proponemos aquí, extraviada. Sospechamos que, mediante el cuestionamiento de esencialismos mecanicistas, estas madres extraviadas del modelo normativo movilizan profundos resortes simbólicos y afectivos, pues invierten –más aún, profanan (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/160/1605032001/html/index.html#redalyc_1605032001_ref1"
+      },
+      "Agamben, 2005"
+     ],
+     ")– el sentido naturalizado del «amor de madre», para presentarlo como «impuro» por interesado, hosco, áspero. "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " A partir de iluminar aspectos en los que no habían reparado anteriormente ni la crítica ni la historiografía, avanzamos con dos estudios de caso: ",
+     [
+      "span",
+      {},
+      "Surcos"
+     ],
+     " (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/160/1605032001/html/index.html#redalyc_1605032001_ref4"
+      },
+      "Nieves Conde, 1951"
+     ],
+     ", España) y ",
+     [
+      "span",
+      {},
+      "El secuestrador"
+     ],
+     " (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/160/1605032001/html/index.html#redalyc_1605032001_ref19"
+      },
+      "Torre Nilsson, 1958"
+     ],
+     ", Argentina), filmes que se atreven a dar forma visual a maternidades extraviadas, incompetentes o con serias fallas en las tareas de cuidado, a partir de mostrar el desorden y las trágicas consecuencias que ello acarrea para sus hijos/as. Nos interesa pensar la serie de prejuicios y de ansiedades sociales que se activan o que procesan imágenes y relatos en los que el mítico instinto materno está deliberadamente ausente y, en su lugar, hay distintas cuotas y combinaciones de falibilidad, negligencia y demora en el cuidado –en vez de precisión y de rapidez como indicaría el modelo–, cálculo en las acciones –en lugar de entrega a expensas de sí– y desapego afectivo –en vez de calidez entrañable (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/160/1605032001/html/index.html#redalyc_1605032001_ref2"
+      },
+      "Badinter, 1981"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/160/1605032001/html/index.html#redalyc_1605032001_ref9"
+      },
+      "Moreno Hernández, 2000"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/160/1605032001/html/index.html#redalyc_1605032001_ref11"
+      },
+      "Knibiehler, 2001"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/160/1605032001/html/index.html#redalyc_1605032001_ref12"
+      },
+      "Lozano Estívaliz, 2000"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/160/1605032001/html/index.html#redalyc_1605032001_ref5"
+      },
+      "Donath, 2016"
+     ],
+     "). "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " En primer lugar, se combina bibliografía especializada e investigación hemerográfica, para ubicar cada cinta en su contexto social y de producción, y se caracteriza, brevemente, su recepción crítica. En segundo lugar, se presenta una lectura morfotemática para advertir cómo se construye y cómo evoluciona en el relato de los largometrajes el sistema de personajes, así como el trabajo con la puesta en escena y la dimensión iconográfica de gestos y de rostros femeninos. De este modo, se detectan los modelos y los contra modelos sexo-genéricos implícitos en cada película: sus pautas morales y sus prejuicios sexistas, pero también la presencia de zonas ambiguas en las que los sentidos políticos y sensibles sobre los cuerpos y las voluntades de las mujeres adquieren una tesitura más compleja y sinuosa."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Surcos (1951): un\nrealismo áspero y polémico"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Producida por Atenea Films, una pequeña empresa que durante los años cincuenta quiso ampliar el repertorio temático de la industria local –bajo la dirección de Natividad Zaro, también argumentista del proyecto que nos ocupa–, ",
+     [
+      "span",
+      {},
+      "Surcos"
+     ],
+     " (1951) fue dirigida por Antonio Nieves Conde y, con el tiempo, se ha convertido en un verdadero clásico del cine español. La película, que aborda problemas sociales contemporáneos desde cierta inspiración neorrealista, contó con el apoyo del entonces director general de Cinematografía y Teatro, José María García Escudero, quien la declaró de interés nacional, prefiriéndola por sobre ",
+     [
+      "span",
+      {},
+      "Alba de América"
+     ],
+     " (1951), el filme de Juan de Orduña, producido por CIFESA",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/160/1605032001/html/index.html#fn1"
+      },
+      [
+       "sup",
+       {},
+       "1"
+      ]
+     ],
+     " y avalado por el poder político. Esta clasificación hubiera implicado la subvención del 50 % del coste de rodaje y el beneficio de un régimen de distribución prioritario",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/160/1605032001/html/index.html#fn2"
+      },
+      [
+       "sup",
+       {},
+       "2"
+      ]
+     ],
+     " (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/160/1605032001/html/index.html#redalyc_1605032001_ref13"
+      },
+      "Marcos, 2015"
+     ],
+     "). El respaldo –político y estético– de García Escudero era la traducción concreta de un proyecto de gestión que había despertado cierta esperanza entre los cineastas que aspiraban a una renovación de la industria vernácula. José ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/160/1605032001/html/index.html#redalyc_1605032001_ref15"
+      },
+      "Monterde (1995)"
+     ],
+     " señala que el plan del funcionario se centraba"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "p",
+     {},
+     "[…] en el mantenimiento y en la racionalización de las ayudas a la producción, vinculándolas a una mayor calidad, pero también clarificando el mercado interior mediante el análisis de los costes de producción y la incidencia del doblaje, los déficits de la distribución del cine nacional y de la exportación, la declaración de intransferibilidad de los permisos de importación, etc. (p. 247)."
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Sin embargo, materializar este proyecto no fue posible y, a seis meses de su nombramiento, en 1951, García Escudero renunció al cargo por desacuerdos políticos. Tras su dimisión, a ",
+     [
+      "span",
+      {},
+      "Surcos"
+     ],
+     " (1951) le fue retirada la clasificación de interés nacional (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/160/1605032001/html/index.html#redalyc_1605032001_ref13"
+      },
+      "Marcos, 2015"
+     ],
+     "). "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Con una aproximación a la realidad bastante descarnada –por ende, distante de la retórica y de la estética convencional dominante a finales de los cuarenta y comienzos de los cincuenta–, ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/160/1605032001/html/index.html#redalyc_1605032001_ref15"
+      },
+      "Monterde (1995)"
+     ],
+     " señala que el filme, si bien abría o ampliaba los límites de lo decible fílmico, también entrañaba paradojas ideológicas «como el explícito y reaccionario discurso sobre las causas de la emigración rural y la defensa de la familia tradicional, amenazada por las formas modernas y urbanas de vida» (p. 285). Para explicar ese maridaje contradictorio, Javier Rodríguez y Enrique Serrano Asenjo (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/160/1605032001/html/index.html#redalyc_1605032001_ref17"
+      },
+      "2012"
+     ],
+     ") rastrean, primero, la filiación política del director y de su equipo de colaboradores literarios, todos próximos al falangismo.",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/160/1605032001/html/index.html#fn3"
+      },
+      [
+       "sup",
+       {},
+       "3"
+      ]
+     ],
+     " Luego, ponen en relación esa filiación ideológica con su posicionamiento en el debate público sobre el problema de la migración interna, traducido en la restricción al flujo y a la fijación de la población en asentamientos rurales. Justamente, «la visión negativa de la ciudad, en contraposición a la visión idílica del mundo rural, la intención moralizante y […] el desencanto con la evolución del régimen franquista» (pp. 102 y 109) son los núcleos ideológicos de ascendencia falangista que estructuran el relato. "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Por otra parte, tal como explica Vicente ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/160/1605032001/html/index.html#redalyc_1605032001_ref3"
+      },
+      "Benet (2012)"
+     ],
+     ", la complejidad visual de la cinta y su aliento neorrealista deben ser leídos en un contexto sincrónico más amplio en el que no quedan excluidos los usos irónicos, oportunistas, superficiales y tácticos. Esta corriente expresiva había suscitado interés y debates en la intelectualidad vernácula, aunque solo su vertiente humanista era la que podía incorporarse / tolerarse. Así, algunos realizadores retuvieron la estética y desplazaron el fondo político impugnador del movimiento para combinarla con cierto aire asainetado-costumbrista, bajo una fórmula que ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/160/1605032001/html/index.html#redalyc_1605032001_ref3"
+      },
+      "Benet (2012)"
+     ],
+     " denomina «realismo ambiental», es decir, una apropiación epidérmica y decorativa. Otros, en tanto, apostaron a un verismo más crítico, incluso autorreflexivo, mientras que hubo quienes combinaron rasgos neorrealistas con patrones genéricos.  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Del análisis de ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/160/1605032001/html/index.html#redalyc_1605032001_ref3"
+      },
+      "Benet (2012)"
+     ],
+     ", parecería desprenderse que la complejidad estética de ",
+     [
+      "span",
+      {},
+      "Surcos"
+     ],
+     " (1951) emana del hecho de que sintetiza todas estas alternativas. Si bien utiliza el marco decorativo habitual, y la acción se ubica, preferencialmente, en un espacio clave del modelo verista como es el patio de vecinos o corrala",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/160/1605032001/html/index.html#fn4"
+      },
+      [
+       "sup",
+       {},
+       "4"
+      ]
+     ],
+     " –que remite, a su vez, a la tradición popular vernácula del sainete y la zarzuela–, se lo carga de especial densidad simbólica. Desde el plano visual, insiste en la idea de rasgadura o de rotura: «[…] un lugar de contrastes, donde ocasionalmente se encuentra la solidaridad, pero también el conflicto en una comunidad cuyos miembros están constantemente en guardia, donde puede estallar el enfrentamiento en cualquier momento» (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/160/1605032001/html/index.html#redalyc_1605032001_ref3"
+      },
+      "Benet, 2012"
+     ],
+     ", p. 272). Pero, además, Nieves Conde incluye convenciones propias del cine criminal –la fotografía–, un comentario autorreflexivo e irónico respecto de la «moda neorrealista», y la crítica social a la pauperización de la vida de los sectores populares urbanos.",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/160/1605032001/html/index.html#fn5"
+      },
+      [
+       "sup",
+       {},
+       "5"
+      ]
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " La cinta se estrenó el 26 de octubre de 1951 en el cine Astoria de Barcelona y el 12 de noviembre de 1951 en el cine Palacio de la Prensa de Madrid. Ese mismo año, compartió el segundo lugar en los Premios del Sindicato Nacional de Espectáculos, mientras que en el Círculo de Escritores Cinematográficos la galardonaron en las categorías película, director, actriz secundaria (Toña: Marisa de Leza) y actor secundario (Don Roque / Chamberlain: Félix Dafauce). En 1952, la revista ",
+     [
+      "span",
+      {},
+      "Triunfo"
+     ],
+     " la consideró como mejor película española y la consagró en los rubros de director español y de actriz española (Pili: María Asquerino). Sin embargo, y aunque luego fue al Festival de Cannes, estuvo poco tiempo en cartel.  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Distribuida por Internacional Films, y prohibida para menores de 16 años, ",
+     [
+      "span",
+      {},
+      "Surcos"
+     ],
+     " (1951) se estrenó en la Argentina el 28 de abril de 1955 en los cines Victoria y Mitre, donde se mantuvo hasta el 11 de mayo. Aunque en su crítica ",
+     [
+      "span",
+      {},
+      "El Heraldo del Cinematografista"
+     ],
+     " (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/160/1605032001/html/index.html#redalyc_1605032001_ref40"
+      },
+      "04/05/1955"
+     ],
+     ") –revista especializada para exhibidores– destacó la modernidad del planteamiento de Nieves Conde, calificó la película con 3 puntos en su valor artístico y argumental, y le otorgó 2 ½ en su valor comercial. Por su parte, los diarios ",
+     [
+      "span",
+      {},
+      "La Nación"
+     ],
+     ",",
+     [
+      "span",
+      {},
+      " La Razón "
+     ],
+     "y",
+     [
+      "span",
+      {},
+      " La Prensa"
+     ],
+     " destacaron el nivel de factura de la cinta, en la que «con reciedumbre, sin concesiones, surge el drama, de profundo contenido humano, a través de situaciones tensas que revelan en José A. Nieves Conde a un realizador de calidad» (",
+     [
+      "span",
+      {}
+     ],
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/160/1605032001/html/index.html#redalyc_1605032001_ref48"
+      },
+      [
+       "span",
+       {},
+       "La Razón"
+      ],
+      ", 29/04/1955"
+     ],
+     ", p. 4). Para los periodistas, ",
+     [
+      "span",
+      {},
+      "Surcos"
+     ],
+     " (1951) venía a elevar con un relato valiente el nivel artístico de la producción ibérica que hasta ese entonces se conocía en la Argentina (",
+     [
+      "span",
+      {}
+     ],
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/160/1605032001/html/index.html#redalyc_1605032001_ref41"
+      },
+      [
+       "span",
+       {},
+       "El Mundo"
+      ],
+      ", 29/04/1955"
+     ],
+     ", p. 8) y ponderaban la conjugación de valores técnicos y profesionales en todos los rubros, especialmente, en la dirección, «que en ningún momento se desliza por caminos fáciles, prefiriendo, en cambio, presentar el tema en toda su realidad, aunque ésta sea áspera y ruda»",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/160/1605032001/html/index.html#fn6"
+      },
+      [
+       "sup",
+       {},
+       "6"
+      ]
+     ],
+     " (",
+     [
+      "span",
+      {}
+     ],
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/160/1605032001/html/index.html#redalyc_1605032001_ref46"
+      },
+      [
+       "span",
+       {},
+       "La Prensa"
+      ],
+      ", 29/04/1955,"
+     ],
+     " p. 6)."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "El secuestrador (1958): una\npropuesta revulsiva que divide a la crítica"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Tras el espaldarazo internacional y la buena repercusión local de ",
+     [
+      "span",
+      {},
+      "La casa del ángel"
+     ],
+     " (1957), con producción de la poderosa Argentina Sono Film, en lo que era ya el cuarto título para la empresa, el 25 de septiembre de 1958, Leopoldo Torre Nilsson estrenó ",
+     [
+      "span",
+      {},
+      "El secuestrador"
+     ],
+     ", con guion suyo en coautoría con Beatriz Guido –con base en un cuento de esta última–.",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/160/1605032001/html/index.html#fn7"
+      },
+      [
+       "sup",
+       {},
+       "7"
+      ]
+     ],
+     " Si bien la propuesta autoral del cineasta no terminaba de encontrar el eco masivo al que estaba acostumbrado el sello del sol, lo cierto es que era una línea que al productor Atilio Mentasti le interesaba impulsar por su calidad técnica y estética, que era bien recibida por la crítica y que ofrecía proyección en el extranjero. En ese sentido, es interesante notar que el equipo técnico de la cinta aunó cuadros de amplia expertise en la empresa y en el cine clásico –la iluminación fue de Alberto Etchebehere; el montaje, de Jorge Garate; y parte de la música, de Juan Elhert– y profesionales que tenían trayectoria en la experimentación y en la renovación –como el músico dodecacofónico, Juan Carlos Paz–.",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/160/1605032001/html/index.html#fn8"
+      },
+      [
+       "sup",
+       {},
+       "8"
+      ]
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " En mayo de 1958, una hoja de publicidad de la empresa anunciaba que la cinta ya estaba terminada y anticipaba que tenía un enfoque «sin retaceos en el dolor y la violencia» (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/160/1605032001/html/index.html#redalyc_1605032001_ref36"
+      },
+      "Argentina Sono Film, 22/05/1958"
+     ],
+     "). En agosto, la película tuvo un preestreno en Montevideo, en el marco del Festival de Cine Argentino. Según recogiera el diario",
+     [
+      "span",
+      {},
+      " Clarín"
+     ],
+     " (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/160/1605032001/html/index.html#redalyc_1605032001_ref38"
+      },
+      "21/08/1958"
+     ],
+     "), la opinión del medio uruguayo El Día había sido muy negativa: «La mayoría de las escenas […] demuestran gusto por la truculencia».",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/160/1605032001/html/index.html#fn9"
+      },
+      [
+       "sup",
+       {},
+       "9"
+      ]
+     ],
+     [
+      "span",
+      {},
+      "La Nación"
+     ],
+     " (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/160/1605032001/html/index.html#redalyc_1605032001_ref43"
+      },
+      "25/08/1958"
+     ],
+     "), por el contrario, reunió los juicios favorables de medios como ",
+     [
+      "span",
+      {},
+      "El País"
+     ],
+     ",",
+     [
+      "span",
+      {},
+      " La mañana "
+     ],
+     "y",
+     [
+      "span",
+      {},
+      " Acción"
+     ],
+     ". Esta divisoria de opiniones se replicará tras el estreno en Buenos Aires. "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n",
+     [
+      "span",
+      {},
+      " El secuestrador"
+     ],
+     " (1958) se promocionó en la prensa gráfica con afiches en los que se interpelaba al público con tres atractivos. El primero, el prestigio internacional, pues se anunciaba que había sido seleccionada para participar en el London Film Festival de las 12 mejores películas de 1958. El segundo, tecnológico, con la «visión panorámica» que provocaba cierto efecto envolvente a nivel visual. El tercero era moral y se vinculaba a satisfacer el deseo de ir más allá de lo convencionalmente tolerado: «¡Ponga a prueba su emoción! ¡VIOLENCIA jamás vista en la Historia del Cine!», «Ponga a prueba su emoción. Un mundo ignorado en toda su cruel violencia!» o, más directamente, «Ponga a prueba su emoción: ¡VIOLENCIA sin escrúpulos!». "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Habiendo recibido la calificación de «Prohibida para menores de 18 años», la película   se estrenó en Buenos Aires en los cines Broadway, Sarmiento, Majestic y en la sala barrial Gran Rivadavia, en los que permaneció una semana. A partir del jueves   2 de octubre de 1958, se mantuvo en el cine Sarmiento sumándose la sala   Savoy, pero solo por siete días, pues no tuvo éxito de público.",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/160/1605032001/html/index.html#fn10"
+      },
+      [
+       "sup",
+       {},
+       "10"
+      ]
+     ],
+     " El Instituto Nacional de Cinematografía premió la partitura musical de la cinta y la distinguió con el segundo premio a la producción anual. Por su parte, la Asociación de Cronistas Cinematográficos de la Argentina le concedió dos premios: a María Vaner, como revelación femenina, y a Emilio Rodríguez Mentasti, por mejor escenografía.",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/160/1605032001/html/index.html#fn11"
+      },
+      [
+       "sup",
+       {},
+       "11"
+      ]
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " La crítica destacó la excelente factura técnica, la modernidad formal y la solvencia en la elaboración total del producto que permitía la proyección internacional   y satisfacía, además, una demanda local de renovación creativa. No obstante, también expresó que en su dureza sin concesiones –que algunos leyeron como morbosidad o efectismo– se hallaba un tenor polémico explosivo (",
+     [
+      "span",
+      {}
+     ],
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/160/1605032001/html/index.html#redalyc_1605032001_ref42"
+      },
+      [
+       "span",
+       {},
+       "King"
+      ],
+      ", 26/09/1958"
+     ],
+     "; ",
+     [
+      "span",
+      {}
+     ],
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/160/1605032001/html/index.html#redalyc_1605032001_ref47"
+      },
+      [
+       "span",
+       {},
+       "La Prensa"
+      ],
+      ", 26/09/1958"
+     ],
+     "; ",
+     [
+      "span",
+      {}
+     ],
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/160/1605032001/html/index.html#redalyc_1605032001_ref49"
+      },
+      [
+       "span",
+       {},
+       "La Razón"
+      ],
+      ", 26/09/1958"
+     ],
+     ").",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/160/1605032001/html/index.html#fn12"
+      },
+      [
+       "sup",
+       {},
+       "12"
+      ]
+     ],
+     " Por su parte, si de manera previa al estreno ",
+     [
+      "span",
+      {},
+      "La Nación"
+     ],
+     " había adelantado que se trataba de «una interpretación   de nuestra realidad, de nuestras urgencias y, al mismo tiempo, una forma de denuncia que se tiñe de poesía» (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/160/1605032001/html/index.html#redalyc_1605032001_ref44"
+      },
+      "20/09/1958"
+     ],
+     ", p. 10), tras el debut la crítica fue extensa y consagratoria, definiéndola como una obra cuyo nivel de excelencia era «revolucionario» y «cuya perdurabilidad parece muy difícil de dudar» (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/160/1605032001/html/index.html#redalyc_1605032001_ref45"
+      },
+      "26/09/1958,   p. 10"
+     ],
+     "). Aunque previo al estreno, ",
+     [
+      "span",
+      {},
+      "Clarín"
+     ],
+     " también había lanzado una semblanza elogiosa, luego publicó una crítica negativa:"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "p",
+     {},
+     "Desviado sentido de la dirección. Exaltación de lo negativo […] [el] tema rebasa los límites de lo real y, como todo lo que rebasa y es sucio, mancha los bordes de su recipiente. En este caso, el cine. O la pantalla […] Buscando el impacto en el ánimo del espectador, no alcanza a lograrlo (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/160/1605032001/html/index.html#redalyc_1605032001_ref39"
+      },
+      "26/09/1958"
+     ],
+     ", p. 35)."
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Con este medio parece polemizar el conocido crítico Calki cuando, desde las páginas de ",
+     [
+      "span",
+      {},
+      "El Mundo"
+     ],
+     " (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/160/1605032001/html/index.html#redalyc_1605032001_ref37"
+      },
+      "28/09/1958"
+     ],
+     "), afirma:"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "p",
+     {},
+     " Estamos en presencia de un film importante, verdadero acometedor   de prejuicios, cuyos valores hay que detenerse a medir con cautela;   no sea que no hayamos visto lo que tiene de creación. Para algunos puede resultar un frío mosaico que intenta configurar un todo –denuncia   y frustración– […]. Macabro y truculento porque sí […]. No es así. Es un mundo complejo, con reminiscencias y hallazgos, donde Beatriz Guido ubica su anhelante prisma poético y Torre Nilsson trata de buscar el suyo, a favor de imágenes que tantean lo sublime […]. ",
+     [
+      "span",
+      {},
+      "El secuestrador"
+     ],
+     " muestra […] un realizador que ama, por sobre todas las cosas, el cine […] (p. 15)."
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Por su parte, un día antes del estreno, dijo de su película el director:"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "p",
+     {},
+     "[…] allí está, con su verdad tremenda que pretende ser auténtica,   que no atendió a requerimientos comerciales ni teóricos […] Quizás   “El secuestrador” es mi experiencia más terrible, más peligrosa; quizá […] parezca a muchos un film sádico, o una verdad innecesaria […] El cine debe ser un dedo acusador, un descubridor de una llaga, un vociferador   de la verdad (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/160/1605032001/html/index.html#redalyc_1605032001_ref19"
+      },
+      "Torre Nilsson, 1985"
+     ],
+     ", p. 154).",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/160/1605032001/html/index.html#fn13"
+      },
+      [
+       "sup",
+       {},
+       "13"
+      ]
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Más reposado y analítico, en una entrevista televisiva en 1976,",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/160/1605032001/html/index.html#fn14"
+      },
+      [
+       "sup",
+       {},
+       "14"
+      ]
+     ],
+     " al ser consultado por las razones que lo llevaron a realizar ",
+     [
+      "span",
+      {},
+      "El secuestrador"
+     ],
+     " (1958), Torre Nilsson señaló que tras su consagración en el Festival de Cannes se sentía un «pequeño dictador de su propia obra» o, más directamente, que estaba convencido de que era un «genio» y que debía realizar un filme en correspondencia con ese calibre: de ahí la desmesura, la arbitrariedad y la agresividad de la cinta. Creemos que es probable que el flujo neorrealista al que hubiera estado expuesto durante sus años de cineclubismo y de escritura en revistas especializadas –y que, además, estaba en sintonía con la estética de su padre, Leopoldo Torres Ríos, a quien asistió en muchas películas–, pudo haberse activado, cual sedimento latente, a partir de cierta pulsión por quebrar expectativas y por escandalizar a la opinión pública –sin olvidar que en su sincronía epocal filmes comerciales como ",
+     [
+      "span",
+      {},
+      "Suburbio"
+     ],
+     " (León Klimovsky, 1951), ",
+     [
+      "span",
+      {},
+      "Barrio gris"
+     ],
+     " (Mario Soffici, 1954) y ",
+     [
+      "span",
+      {},
+      "Oro bajo"
+     ],
+     " (Mario Soffici, 1956) abrevan en la pátina neorrealista–. "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " A diferencia de otras películas del mismo período, llamado «ciclo subjetivo», donde predominan la crueldad de atmósfera, la descripción elíptica y el sesgo moral de la narración (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/160/1605032001/html/index.html#redalyc_1605032001_ref14"
+      },
+      "Martínez, 1961"
+     ],
+     ", p. 38), el filme que nos ocupa no se desarrolla en un caserón de familia burguesa en decadencia, sino prácticamente a la intemperie y en algunos recintos miserables; no sigue el periplo del despertar erótico, social y vital de una muchacha, sino que acompaña a un grupo de niños/as marginales y a su jefe juvenil, Alberto (Leonardo Favio), a través de un relato bastante coral. Sin embargo, como apuntó Tomás Eloy ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/160/1605032001/html/index.html#redalyc_1605032001_ref14"
+      },
+      "Martínez (1961)"
+     ],
+     ", las atmósferas asfixiantes y cierto hálito de muerte o de final persisten:"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "p",
+     {},
+     "Torre Nilsson y Beatriz Guido trabajaron sobre una acumulativa poesía del horror, que fue comparada a la del Buñuel de “Los olvidados” y que, en verdad, tenía de común con ella una violenta aberración por lo que se entiende como sagrado […] cada uno de esos golpes de espanto […] tendía a testimoniar el desvalimiento moral y las reacciones violentas engendradas por la miseria (p. 55)."
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " En efecto, nuestra hipótesis es que, a semejanza del caso español, aunque yendo más lejos, y pese a que ni la crítica ni la historiografía hayan reparado en ella, el lugar de la madre es uno de esos tácitos «sagrados» clave que sufre un tratamiento de feroz profanación por medio del cual se remueven sus «virtudes intrínsecas» y sus signos físico-performativos representativos, lo que impacta negativamente en las dinámicas dramáticas del sistema de personajes. El vaciamiento, la desjerarquización y la inversión de la representación de la madre (su profanación / corrupción) a través de una figura extraviada –que, además, es fundacional porque inaugura una forma, hasta entonces, inimaginable– es la condición basal que habilita una diégesis pesimista, sórdida y pesadillesca, cuya marca principal es el daño: daño que es pérdida, rotura y destrucción, y también desgracia, herida y vileza. "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " En los apartados siguientes, se examina la representación de la figura materna en ambos filmes. A partir del corrimiento, del descalce de la forma asignada al rol, es que se desencadenan tensiones y conflictos, y que los/as hijos/as –a semejanza de la madre– se malogran. Si «las transgresiones femeninas se resuelven siempre mediante la intervención –generalmente violenta– de un hombre […] [y] la alusión a la figura del padre como transmisora de valores morales es muy significativa» (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/160/1605032001/html/index.html#redalyc_1605032001_ref13"
+      },
+      "Marcos, 2015"
+     ],
+     ", p. 214), es porque los desvíos cometidos por las mujeres respecto del modelo de género imperante son leídos como sinónimo de una degeneración contagiosa a todo su entorno que debe ser controlada con severidad."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Extravío versus\nresignación"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " La madre de la familia Pérez es el único personaje sin nombre propio: su identidad personal está fusionada / homologada al rol. Si para el relato, esa subordinación sexo-genérica, ese automatismo persona + género = rol, no constituye un problema sino un «efecto natural» del orden de las cosas –un ordenamiento, subrayémoslo, androcéntrico, machista, sexista y biologicista–, lo que sí presenta un dilema es el lugar –simbólico y material– o, mejor dicho, el corrimiento del lugar previsto para ella; en resumen, su extravío. "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " A poco de comenzar, el relato ya la muestra «fuera de sitio», cuando un empleado de la estación de trenes tropieza con ella y su hijo mayor la excusa diciendo: «Es que es de pueblo», en lo que constituye el primer parlamento que articula un personaje y que abre la cinta. A lo largo de la historia, de forma creciente, acumulativa y decisiva en momentos clave, se insistirá en que el corrimiento de esta mujer del lugar asignado (y de origen) expresa el hecho de que no hace o no dice «lo que debería», que «no responde» (ni se corresponde) a lo que de ella se espera y que, como consecuencia, sobrevienen trágicas consecuencias en su entorno. Tal como señalara Jordi ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/160/1605032001/html/index.html#redalyc_1605032001_ref16"
+      },
+      "Roca I. Girona (1996)"
+     ],
+     ", durante el franquismo, se medía en los/as hijos/as la patología de las madres: si estos se malograban, era la confirmación de la responsabilidad de la madre sobre su desgracia, lo que actuaba, a su vez, como recurso para «la normativización y la configuración del código de conducta moral» (pp. 52-53). Cualquier desvío del modelo femenino piadoso, generoso, dulce, compasivo, puro y altruista, pasivo, resignado y subsidiario respecto del varón, no solo significaba «insubordinación y sublevación» moral y política, sino que condenaba a la prole (p. 145). "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Aunque parezca un detalle aleatorio o pintoresco –y, de hecho, leído como ridiculez, va a ser motivo de burla–, que la mujer transporte en su canastilla una gallina, casi como un símbolo metonímico de sí misma, terminará por completar su caracterización. Popularmente, la gallina es el animal doméstico que más se asocia a la maternidad, al celo y al apego hacia los/as hijos/as, al cuidado de la unión familiar y a la vigilancia del nido: madre sería aquella que, como la gallina, vela atenta porque sus crías estén a salvo del peligro, garantiza su sustento y calor, y corrige a tiempo. También es un animal que se asocia con atributos como el orgullo, la vanidad y el deseo de presumir frente a los demás. Como veremos, mientras retiene, de manera fervorosa, la segunda cadena semántica, esta mujer desarma la primera asociación / mandato y, literalmente, la pone al fuego, la cocina, la convierte en cena, en la primera comida que comparten los/as migrantes cuando llegan a Madrid. "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Según estudió ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/160/1605032001/html/index.html#redalyc_1605032001_ref16"
+      },
+      "Roca I. Girona (1996)"
+     ],
+     ", durante la dictadura, la mujer estaba más forzada que el varón a seguir preceptos religiosos y a asumir el compromiso de velar por la salud moral de la familia, dado que era ella quien encarnaba el ideal de auténtica consciencia familiar: «[…] de su facultad procreadora el discurso dominante hace derivar, “naturalmente”, la responsabilidad y la competencia de todas aquellas tareas relacionadas directamente con el cuidado de los hijos» (p. 274). Si, convencionalmente, en la división sexual del trabajo la mujer es quien regula y custodia la espiritualidad, la concordia y la afectividad del grupo familiar, mientras el hombre provee el alimento, los recursos, y centraliza la autoridad, la autosuficiencia y la capacidad para mandar sobre otras personas, en ",
+     [
+      "span",
+      {},
+      "Surcos"
+     ],
+     " (1951) los papeles están invertidos. Primero, vinculados a ciertos rasgos del carácter; luego, literalizando esa inversión –leída como perversión– en las acciones y en la puesta en escena.  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Si ella es quien guarda y administra el dinero familiar, la que está atenta a hacer rendir los ahorros y los jornales, quien conoce el valor de los insumos y prioriza la ganancia, la que pone ciertos límites; Manolo Pérez padre es quien antepone la religión y los valores tradicionales, es generoso e ingenuo hasta con los niños –que se aglomeran a su alrededor y lo acosan–, y se aturde con facilidad con números y referencias, pero quien es capaz de salir en medio de la noche en una ciudad desconocida en busca de su hijo menor. Vigorosamente, ella destituye una autoridad masculina que ha demostrado ser insuficiente –el padre no consigue trabajo y se ha dejado embargar la canasta de dulces que vendía en la plaza– y, por la vía de la ridiculización y de la feminización, le ordena pelar papas, lavar los platos y recoger la mesa –explícitamente, travestirse: ponerse el delantal–. Si a Pérez se le quita casi todo –su trabajo, su canasta, su virilidad, su orgullo–, la madre defiende violentamente lo poco que tiene a cualquier precio: incluso, si ese precio tienen que pagarlo los/as hijos/as. Esto es, justamente, lo que desafía el imperativo del mito del instinto materno: tanto ella como su prima Engracia –la estraperlista de la corrala–, con quien hace espejo, son madres extraviadas, jefas de familia racionales, calculadoras y agresivas, que especulan con aquello que poseen y cuyo manejo les permite ejercer cierto poder sobre los demás."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "p",
+     {},
+     "En una solución de matriarcado, administra los jornales que traen todos a casa, despreciando la «inutilidad» de su marido o la mala suerte de Manolo, y haciendo como que no se entera de los tejemanejes de Pepe que duerme junto a Pili en la misma cama, ante la oposición católica del padre que debe ceder obligado por las circunstancias. Del mismo modo, ante la llegada de dividendos por la relación de Tonia con el Chamberlain también permite que su hija entre en el mundo de la farándula. No obstante, todo el chiringuito que ha montado la progenitora de los Pérez se viene abajo a partir de la desaparición de Manolo, del fracaso de Tonia y, por supuesto, de la muerte de Pepe, con lo que el padre aprovechará para pegar una paliza a su mujer poniendo las cosas en su sitio, dentro de un clima machista y misógino que inunda la película (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/160/1605032001/html/index.html#redalyc_1605032001_ref18"
+      },
+      "Sojo Gil, 2011"
+     ],
+     ", p. 110)."
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Apenas llegan a la ciudad, Engracia le sugiere a la madre procurar que nadie sea una carga y que todos/as estén ubicados para producir algo de capital, lo que incluye a la hija menor, Toña, a quien ponen a servir como doméstica. Inicialmente, al saber que la empleadora de la muchacha será la «amiga» (amante) de Don Roque / Chamberlain –dueño de un café popular y pieza clave del mercado negro–, la madre decide hablar con ella, inspeccionar y exigir condiciones de trabajo seguras y acordes con la edad y con la decencia de su hija, pues sospecha que aquella «no es mujer honrada». Sin embargo, y a sugerencia de su comadre, acabará por no hacer nada: así, un gesto que se pretende puritano termina por resultar impostado. De hecho, al salir la hija de la casa familiar no le recomienda cuidados morales, sino más bien que no se gaste (sola) las propinas. Esta vacilación o titubeo en la protección de Toña, resultado de dejarse llevar por el contexto, es decir, de atender a las voces externas y no a la voz interna –de conciencia, e instintiva– que según el imaginario convencional «toda madre» entraña, se repite dos veces más, en circunstancias en las que Toña queda «expuesta», sin la protección, el respaldo y la presencia de su progenitora.  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " La segunda ocasión se desarrolla poco después de que Chamberlain ofreciera pagar por adelantado la formación artística de Toña y su inclusión en un espectáculo de variedades –el sueño de ascenso social de la muchacha–. Como en la situación anterior, al principio, la madre es reticente; su intuición parece señalarle que no hay buenas intenciones por parte del hombre, pero no tarda en ceder. Alrededor de las cacerolas humeantes, ella y su prima murmuran. «Si te andas con escrúpulos, acabarás pasando hambre […]. Desengáñate: todo es al principio», afirma Engracia.",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/160/1605032001/html/index.html#fn15"
+      },
+      [
+       "sup",
+       {},
+       "15"
+      ]
+     ],
+     " Si en este breve intercambio se establece una posible homologación dramática entre las mujeres y, por extensión, sus hijas, poco después, esta queda confirmada en un diálogo que sostienen Pili –hija de Engracia– y Pepe –hermano mayor de Toña– mientras descargan mercadería robada."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "p",
+     {},
+     " Pili: La Toña ha salido del cascarón, ¡y con qué humos! Figúrate que espera casarse con ese tío [Don Roque / Chamberlain]. Pronto [él] le pondrá un piso […] tú eres tonto, que ni eso aprendes. Porque si el Chamberlain le pusiera los puntos a mi hermana [si se interesara eróticamente en ella] iba yo a estarme aguantando. ¡Vamos! Le iba a costar caro al gacho [al hombre]: o íbamos a medias en el negocio, o yo no era hija de mi madre.  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Pepe: ¡Yo no soy hijo de tu madre! "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Pili: ¡Vaya!, pues no tienen nada que envidiarse, porque si la mía consiente, también consiente la tuya.",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/160/1605032001/html/index.html#fn16"
+      },
+      [
+       "sup",
+       {},
+       "16"
+      ]
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Por medio del diálogo de la pareja, sabemos que del titubeo y la duda para intervenir en el devenir de la hija la madre ha pasado al consentimiento bajo una forma específica de encubrimiento de su responsabilidad: esto es, el dejar hacer, la «omisión» del cuidado.  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " La tercera vez que la madre se ausenta de su sitio / rol, la puesta en escena literaliza la distancia y el vacío que median entre ella y su hija. Mientras esperan en camarines para salir a escena, dos filas de tocadores enfrentan a seis muchachas con dos espejos que multiplican máscaras e identidades: uno, el material, les permite ultimar detalles de su apariencia, perfeccionar la pose, reforzar el afeite; el otro, el genealógico, encarnado por las madres que se ubican detrás de cada una, custodia y defiende cada rostro-cuerpo-voz, jactándose de virtudes para sospechar del resto, en un rítmico y afilado cruce de opiniones y de desvalorizaciones que refuerzan la estereotipada idea de competencia y de envidia femeninas. Y es que no solo las muchachas rivalizan, también las madres: quien más éxito tenga esa noche, más dinero llevará a la casa, confirmando, a su vez, la buena o la mala preparación que han ejercido sobre las jóvenes. "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Cuando llaman a escena a Toña, la madre se dispone a acompañarla pero, como en otras oportunidades, no logra mantenerse firme en esa determinación y se deja llevar por una par que le aconseja no acercarse al escenario a ver el número: «Trae mala suerte que la madre vea a la hija». Nieves Conde enfatiza ese instante decisivo mediante la composición de un plano de enorme expresividad. Iluminado frontalmente, el perfil de la madre que hace la recomendación, y que ostenta cierta experiencia en bambalinas, ocupa la mitad izquierda del plano; mientras en el centro hay una bombilla encendida que, débil pero persistentemente, alumbra el pequeño pasillo en el que se encuentran. En la mitad derecha, en primer término, sin ningún tratamiento fotográfico especial, se ve el perfil de la madre de Toña, cuyo cuerpo vestido de negro es ya un oscuro vacío; en segundo término, al fondo del encuadre, se percibe la sombra del perfil de Toña que, fuera del camarín, espera por su madre.  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Por un lado, Nieves Conde simboliza la endeble consciencia materna con la bombilla de luz que, como aquella, pende de un hilo. Pero el oscurecimiento, el ocultamiento, la negación de ese cuerpo materno a «estar en su lugar» tiene mayor peso visual, como correlato de las acciones dramáticas que hemos descrito. Por otro lado, más que enfrentamiento entre posicionamientos maternales, hay especularidad. Asimismo, parecería que a Nieves Conde y a Sebastián Perera (director de fotografía) les interesa destacar el juego de dobles entre madre e hija: la segunda siendo la sombra de la primera o, más bien, convirtiéndose en una sombra a causa del vaciamiento del rol en la primera. Toña tendrá un pésimo debut y, lejos de encontrar a su madre para consolarla y para reconfortarla en un abrazo, hallará el regazo manipulador de Chamberlain –quien, justamente, ha provocado el boicot a su número–, esos brazos masculinos que la reciben y que son la antesala de su caída moral y sexual. "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Por otra parte, puesto que la madre hace del dinero el valor axial de jerarquización familiar, ubica en el hijo mayor el ejemplo a seguir: le brinda su respaldo absoluto, justifica sus actos y sus destratos, y hace lógica la tolerancia hacia sus negocios turbios y su moralidad dudosa (duerme con Pili, sin estar casados, en la casa común y, luego, en una buhardilla). La admiración y la colaboración de la mujer hacia Pepe lo convierten, más que en su hijo, en su pareja oculta, en un pacto de protección y de conveniencia mutua; un movimiento que es, también, un «fuera de lugar».",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/160/1605032001/html/index.html#fn17"
+      },
+      [
+       "sup",
+       {},
+       "17"
+      ]
+     ],
+     " En oposición, el hijo menor, Manolo, recibirá no el concierto –como Pepe– ni la omisión en el cuidado –como Toña– sino el mismo trato humillante que el padre. A semejanza del desvalido patriarca, al hijo le hurtan parte de su mercancía, y otro tanto se echa a perder tras una riña callejera. La madre, entonces, lo mortifica, lo excluye de la mesa familiar y llega a negarle el pan en un gesto hiperbólico que rebasa el castigo, el rechazo y el desprecio, y que no hace sino acentuar la «desnaturalización» del personaje: ¿qué madre negaría el pan a su cría? Pues una extraviada. "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Pero si el derrotero de aquel a quien la mujer había expulsado queda en suspenso, con cierto hálito de esperanza, las historias de los/as hijos/as en quienes esta madre había puesto cierta aspiración de ascenso social terminan decididamente mal, como si el contacto o la semejanza con ella contribuyeran a su hundimiento; más aún, como si su falta de instinto materno –no corregir a tiempo, no cuidar como corresponde, priorizar la propia vida a la de los hijos– explicara, como causa lógica, los terribles desenlaces en las vidas de su prole. Por un lado, y azuzado por Pili, la ambición de Pepe lo hará arriesgarse más de lo debido y, tras la traición y la violencia de sus cómplices, su jefe (Chamberlain) lo abandonará agónico, para rematarlo tirando su cuerpo a las vías del tren. Por otro lado, la misma noche del debut, la hija se convertirá en la nueva mantenida de Chamberlain. De regreso a la casa, la madre recibirá insultos —«¡Víbora!»–, empujones y cachetadas de su esposo que la dejará llorando en la cama. Y si aún no quedara clara la homologación entre las matronas devenidas villanas, Engracia, con sonrisa irónica, le dirá: «En ocasión semejante, mi marido, que en paz descanse, me dejó para ocho días de cama». Pero aunque, aireada, la madre se defienda de la velada acusación del esposo de empujar a la hija a la prostitución, quizás la inculpación más terrible sea la de su prima, quien tras oír «¡¿Es que piensas que yo…?!» sentencia: «¡A ver! Sabías de sobra lo que buscaba el tipo ese, y si a la niña le pasa algo tú tienes la culpa». "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Para castigar en forma ejemplificadora a esta madre extraviada, parecen no alcanzar los males acaecidos: hace falta una última humillación que «la ponga en su lugar» de nuevo y que, además, clausure cualquier movimiento suyo, físico y aspiracional. Tras el entierro de Pepe, se produce la vuelta al mundo rural y, en efecto, el personaje parece más dolido por ese retorno lleno de vergüenza y de degradación que por haber perdido al mayor de sus vástagos, haber malogrado a la mujer y desconocer el paradero del menor tras expulsarlo. La película insiste en que frente a un mundo de tentaciones y de cambios, lo que debe prevalecer como bastión de seguridad vital es el arraigo al suelo y la tradición: la fijeza socio-territorial no debe negociarse, pues es la garantía de la conservación de la identidad y la moralidad. Por eso, la vuelta implica mucho más que un retorno al campo, es también, tras el extravío, un modo de sujetar a las mujeres a la repetición resignada, sin fin ni variante, de un posicionamiento sexo-genérico y social: un surco de género, para ellas siempre desigual, insatisfactorio e injusto."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Una presencia ausente"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Tras la primera acción de los muchachos –el robo y la venta de una estatua de jardín–, la información inicial que ofrece ",
+     [
+      "span",
+      {},
+      "El secuestrador"
+     ],
+     " (1958) es sobre el entorno familiar y está relacionada con las madres del grupo: «La vieja [madre] está todo el día mamada [borracha]», le dice, en tono provocador, uno de los compinches a los protagonistas Gustavo (Carlos López Monet) y Pelusa (Alberto Deorlegui, después Oscar Orlegui). «¡Peor es tu vieja, que anda con tipos del centro», reaccionan ellos. La prostitución, la promiscuidad, la vulgaridad y el alcoholismo son las marcas / estigmas que señalan / acusan la falla maternal de base que parecería explicar la desorientación de los niños. Frente a ese extravío, que confunde y que perturba a la prole, irán apareciendo y desvaneciéndose otros posicionamientos maternales que no se van a cristalizar o a asentar en un modo relacional convencional. "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Mercedes es la madre de los protagonistas Bolita (bebé), Pelusa y Gustavo y, aparentemente, la hermana mayor de Flavia (María Vaner). En ningún momento del desarrollo dramático demuestra afecto, cuidado o, siquiera, interés por los menores que están a su cargo y que viven con ella en la precaria casilla. Su desgano, la falta de empleo, la afición al alcohol y al juego, y su vida nocturna –en la que se divierte con otras vecinas–, hacen que no haya margen ni de tiempo ni de energía para ocuparse de nadie más allá de sí misma. La primera, y prácticamente única, escena en la que se la ve, es nocturna: está cenando y conversando con dos amigos cirujas (también alcohólicos). Mercedes prioriza su plato de comida y el de sus compañeros mientras, con indiferencia, expulsa de la mesa a sus propios hijos.",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/160/1605032001/html/index.html#fn18"
+      },
+      [
+       "sup",
+       {},
+       "18"
+      ]
+     ],
+     " Es Gustavo (el mayor) el que sirve la cena y la comparte con su hermano, sentados en el suelo y apartados de los adultos. La madre no mira ni toca a sus niños, tampoco pregunta por qué han llegado entrada la noche, ni revisa cómo está su bebé, con el que tampoco tiene contacto. De hecho, debido a que el niño llora al entrar a la casilla, uno de los visitantes le da de beber vino: no es la madre sino la tía Flavia quien arrebata al pequeño de los brazos del hombre, mientras Gustavo se queja al respecto y recibe, por ello, un golpe que lo tumba al piso. Impasible, Mercedes solo atina a ordenar: «Levantate del suelo». Se trata de una madre desapegada, indiferente, fría y sin remordimientos, a la que nunca vemos cargar al bebé; por el contrario, este siempre está en brazos de otros niños y de sus hermanos varones, que son quienes lo cuidan, lo alimentan, lo entretienen y lo duermen, haciéndose cargo de todas las tareas de cuidado que han naturalizado como propias. "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Si la primera parte de esta escena se juega prácticamente en silencio, pero con una fotografía en clave baja, y en algunos planos expresionista, a partir del empujón y de la caída de Gustavo, estalla un clima denso y enfermizo, que se corresponde con una banda sonora jugada en metales de tonos graves y percusión que enfatiza el carácter sórdido del entorno: un ámbito dañado, de precariedades múltiples –afectivas, alimentarias, de salubridad, morales–, opresivo, de violencia inminente, de agotamiento, de exposición de cuerpos a la violencia; en suma, un sitio para mantenerse en guardia. En efecto, esa noche los hombres bromean con la madre, pues al acercarse uno de ellos a su hermana, y ver que Mercedes reacciona (por única vez) ofuscada, le recuerdan: «¡Vos a la edad de ella!», dando a entender que ya se había iniciado sexualmente en relaciones libres.",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/160/1605032001/html/index.html#fn19"
+      },
+      [
+       "sup",
+       {},
+       "19"
+      ]
+     ],
+     " Poco después, mientras duerme, Flavia se destapará y, al acercarse Gustavo para cubrirla, se despertará sobresaltada, autoprotegiéndose y diciendo: «¡No, por favor!», en lo que constituye un claro planteo de intriga de predestinación respecto de la violación que sufrirá más adelante y que expresa el hondo sentido de exposición al peligro y a la agresión. "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " La joven y los niños van a tratarse con otros modelos / contramodelos maternales, estrechamente vinculados al mundo del trabajo y a la posición de clase: de hecho, las labores de cada mujer ofrecen, por contigüidad, una imagen gráfica de sus atributos y sus cualidades. Por un lado, Doña Encarnación –madre de Alberto, novio de Flavia y cabecilla de los niños– es la personificación nominal y física de la matrona con cuerpo macizo, jefa de hogar y trabajadora. En la barriada, es quien vende carbón (para cocinar y para calentarse) y tubérculos (el alimento básico de los sectores populares); aunque un poco tosca, es buena, solidaria y está atenta a quienes la rodean. Cuando Flavia llega al galpón, Encarna está conversando con otra vecina (embarazada) sobre los trabajos de parto y la evidente transformación de su cuerpo púber: «Yo, a tu edad, era tan delgadita como vos, pero cuando esperé a Alberto, aumenté como 25 kilos». Nuevamente, encontramos la comparación entre generaciones que tiende a la homologación de experiencias, en una escena donde parecen unirse tres momentos que, indefectiblemente, definirían la vida de toda mujer popular: juventud deseante, embarazo y madurez protectora, en un círculo perpetuo y fatalista.",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/160/1605032001/html/index.html#fn20"
+      },
+      [
+       "sup",
+       {},
+       "20"
+      ]
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Por otro lado, Pelusa y Gustavo son interpelados por una mujer andrajosa del barrio que pide limosna en el puente: quiere que le «presten» a Bolita para que, fingiendo ser su madre, le den más dinero. «Les doy la mitad de lo que saco […]. Si no ven un chico, no dan nada», asegura. Aquí, la maternidad es simulada, una máscara calculada para persuadir y para obtener un beneficio económico, y el niño, un mero anzuelo, un vehículo de supervivencia. Por los hermanos, sabremos que Bolita sufrió alguna forma de destrato por parte de la vecina, por lo que deciden no prestarlo más. El último posicionamiento maternal lo ofrece Doña Corvina / Eduviges, la vendedora ambulante de nubes de azúcar: delgada, vestida de blanco y con impecable delantal, la mujer es amable y cálida, una honrada trabajadora que mantiene relación por correspondencia con su hijo, quien vive en la provincia de Misiones. Castiza pero grácil en el habla –la cadencia melódica del acento favorece la caracterización afable del personaje–, Eduviges es desprendida con los niños y, en vez de pedir o de vender, presta su triciclo y deja que los muchachos se hagan una golosina; de hecho, les explica que si su hijo la llama para que viva con él les dejará el negocio; nuevamente, un planteo de intriga de predestinación. "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Así, pues, estos cuatro posicionamientos funcionan por pares opuestos. Mercedes es silencio, descuido e inseguridad –más aún, es negación de todo lo existente a su alrededor, como se deja traslucir en las palabras de Flavia: «Mercedes duerme cuando no está borracha… Hay muchas formas de dormir, de cerrar los ojos, de negar la realidad»–; Encarnación, por el contrario, es consejo e interés, una presencia robusta que respalda. La primera, ve sin mirar; la segunda, observa con atención. Por otra parte, si la vecina personifica la ambición, la mezquindad y la falsedad; Eduviges hace lo propio con la gratuidad, la generosidad y la sinceridad. "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Una noche, mientras sus hermanos cazaban ranitas, y Flavia era ultrajada en una bóveda del cementerio, Bolita será gravemente herido por un cerdo que intentaba comérselo.",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/160/1605032001/html/index.html#fn21"
+      },
+      [
+       "sup",
+       {},
+       "21"
+      ]
+     ],
+     " La sincronicidad de estos hechos terribles es paroxística: la cadena de violencias sucesivas y múltiples (a nivel físico, psicológico y afectivo) que recaen pero que también producen los niños; la desprotección absoluta de Flavia –que, en el límite de la desesperación, va a intentar suicidarse–, vuelven a remitir al déficit en la trama de cuidados. Al haber planteado desde el comienzo quién y cómo es la madre de los niños, y hermana de la adolescente, se establece una correspondencia causal con el desastroso devenir de cada sujeto. El relato no necesita retomar didácticamente la línea dramática de Mercedes para responsabilizarla: es un sentido tácito, que con la proliferación de otras figuras maternales no hace más que confirmarse. El hecho de que esté absolutamente ausente en el velorio de Bolita; que Torre Nilsson y Guido no dispongan su presencia para –como mínimo– confrontar a los hermanitos; y que, en última instancia, le nieguen el derecho a llorar al hijo, a conmoverse por su fatídica muerte, entraña un juicio, una condena, el señalamiento de una responsabilidad. "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Para que Gustavo y Pelusa no se enteren del fallecimiento del hermanito, los envían donde una tía lejana, con lo que aparece uno de los últimos modelos maternales. La tía Lucía está caracterizada –vía herencia costumbrista– como la típica solterona resentida, que vive en una casa espaciosa, no sufre privaciones y se dedica a cuidar a «sus hijitos» las mascotas; en este caso, pájaros enjaulados. La mujer trata con amorosidad a las aves, mientras exige y desprecia a los niños como una suerte de madrastra de Cenicienta de mitad del siglo XX: entre ridícula y patética, la anciana quiere retener a los chicos para que trabajen para ella y le sirvan. Pero si bien estos muchachos no tienen asiento, ni hogar ni madre, poseen una aguda intuición de supervivencia, por lo que, apenas pueden, escapan y retornan al barrio.  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Casualmente, allí se encontrarán con un niño de su edad que, según les habían dicho, se había llevado a Bolita para que se recupere de su herida, aunque ellos interpretaron que lo había secuestrado. El pequeño Diego –que pertenece a otro sector social, más cercano a la clase media– huye de ellos por miedo, y en una plaza los hermanos lo empujan, él se golpea la cabeza y muere. Para Claudio ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/160/1605032001/html/index.html#redalyc_1605032001_ref6"
+      },
+      "España (2005)"
+     ],
+     ", en la obra de Torre Nilsson los niños tienen cierto aire siniestro y perverso: «Torre Nilsson no confía en ellos, los describe audaces, con rasgos adultos e ingenua maldad […]. La mirada de los pequeños Gustavo y Pelusa […], ingenua aunque incisiva, inocente pero asombrada de su potencia destructora, deposita en los espectadores un temor futuro […]» (pp. 339, 346). En efecto, esa falta de límites y de discernimiento entre el bien y el mal, convive en los niños junto con una serie de gestos maternos que no vemos en ningún adulto y, menos aún, en Mercedes. Por ejemplo, cuando tras la ausencia de su hermanito deambulan apesadumbrados, se encuentran desganados y se sienten físicamente «incompletos» por no cargarlo. "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " En el final, Eduviges es llamada por su hijo a Misiones y, antes de partir, dona a los muchachos el triciclo de nubes de azúcar, herencia con la que, quizás, puedan empezar una nueva etapa. Frente a cierta parte de la crítica, que interpretó el final en clave acusatoria hacia el mundo adulto en el que sobreviven los niños, para el director, la adquisición del carrito «[…] insinúa un principio de centralización para varias vidas descentradas» (Torre Nilsson en ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/160/1605032001/html/index.html#redalyc_1605032001_ref14"
+      },
+      "Martínez, 1961"
+     ],
+     ", p. 57). Sin embargo, consideramos que la disonancia expresiva de la música, la gestualidad facial de Alberto y de Flavia, y la memoria de los males y los desaciertos –que pesan, más que sobre las conciencias, sobre los cuerpos y sobre las identidades de los/as protagonistas–, deja, como mínimo, un reflujo amargo y contraído. "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Ese «carrito de la ilusión», con el que los hermanos planean recorrer los hospitales buscando a Bolita, se cruza, en los últimos momentos de la cinta, con el «carro fúnebre» que transporta a Diego. Dentro del coche, enlutada, va su madre, quien, habiendo cumplido a cabalidad su rol, tiene derecho a las lágrimas, atributo materno por antonomasia. Sin conciencia de las consecuencias de sus acciones, ni de que quien ha fallecido es un niño como ellos, bromean: «Ese sí que está muerto… ¡Y bien muerto!». Al igual que su madre, Gustavo y Pelusa ven pero no son capaces de observar; como ella, se han acostumbrado al dolor, a la crueldad, a la rudeza del entorno y de las personas, y desde esa inercia responden. Pero el relato sí es capaz de observar y de poner ante los ojos, sin edulcoramientos, la exclusión social, la vulnerabilidad, la exposición al riesgo, la falta de apoyo y de contención a las infancias, su indefensión, como consecuencias de la irresponsabilidad de los/as adultos/as. En ese sistema, las madres siguen siendo clave, por eso, aunque no se vea a simple vista, la lupa está sobre ellas."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Conclusiones"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n",
+     [
+      "span",
+      {},
+      " Surcos"
+     ],
+     " (1951) y ",
+     [
+      "span",
+      {},
+      "El secuestrador"
+     ],
+     " (1958) testimonian su tiempo y su espacio, tanto desde los temas que abordan como desde el registro estético que utilizan, en sintonía con un movimiento de renovación cinematográfico más amplio y emergente tras la segunda posguerra. Fueron películas que no tuvieron éxito comercial pero que representaron a sus respectivos países en festivales internacionales, y que despertaron calurosas polémicas en el campo de la crítica, que se vio sacudida por propuestas audaces y radicales, absolutamente diferentes de las tónicas hasta entonces dominantes. Propuestas que, no lo olvidemos, contaron con el aporte creativo y profesional de dos mujeres, Natividad Zaro y Beatriz Guido, quienes a través de su trabajo y de su aliento impulsaron los proyectos."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Las películas abordan la temática social, utilizan locaciones reales y focalizan su atención en dinámicas familiares desordenadas y problemáticas, incorporando tabúes sexuales y distintas formas de violencia. En las madres extraviadas que aparecen en ambas cintas no hay seguridad, calor, suavidad, optimismo ni espiritualidad; escasea la comprensión y se prioriza la propia supervivencia a la del entorno familiar y a la de los/as hijos/as. Si bien en este movimiento de frustración de expectativas iconográficas, dramáticas, ideológicas y afectivas se des-articula y se des-naturaliza un modelo instituido como único; si bien se interrumpe la inercia que supone, como términos automáticamente equivalentes, la asociación mujer = madre buena, dando representación y audibilidad a manifestaciones absolutamente originales e inaugurales para los cines clásicos; sospechamos que el planteamiento de la incompetencia, de la inercia y/o del daño materno podría estar procesando las ansiedades sociales de un presente problemático.  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " En ambos casos, se utiliza el símbolo materno desviado / extraviado como vehículo semántico para aludir, para alegorizar o para pensar un momento de crisis que está vinculado, en un caso, a los intensos movimientos migratorios y a la pauperización de la vida cotidiana, la falta de viviendas y el paro, en paralelo a transformaciones morales y de relacionamiento social; en el otro, a un contexto democrático recién inaugurado pero con proscripción del peronismo, de búsqueda de modernización de la instituciones y del Estado, pero con brechas sociales innegables. Son filmes que, a través de las figuras maternas extraviadas, podrían estar nombrando algo de la experiencia social en curso, también «salida de cauce» y en transformación incierta.  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " También es notable cómo en un momento de reconfiguración de ambos campos audiovisuales, de crisis de modelos productivos y estéticos, las cintas apuesten a desarmar universos diegéticos y personajes por largo tiempo cristalizados, estables, transparentes o estilizados: «los pobres» y las infancias, indefectible, esencial y completamente buenos. Pero si con estas películas se abre una cuña diferente en la representación de los sectores populares y de los/as niños/as, esa fuerza revulsiva no alcanza para reconfigurar la imaginación de las maternidades. Parecería que los juicios, más o menos explícitos, continúan dejando intacta la exigencia / expectativa del «deber ser» para las mujeres –heteronormatividad y maternidad responsable, afectiva e intensiva–, desactivando cierta fuerza subversiva que viene de la representación de madres imperfectas, difíciles y, hasta cierto punto, arrepentidas de haber sido madres.  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Tanto ",
+     [
+      "span",
+      {},
+      "Surcos"
+     ],
+     " (1951) como ",
+     [
+      "span",
+      {},
+      "El secuestrador"
+     ],
+     " (1958) traen al campo de lo visible una serie de atributos y de caracterizaciones que, hasta la década del cincuenta, parecían imposibles de adjudicar a las figuras maternas en las cinematografías industriales: agresividad, descuido de la prole, ambición, desgano e inercia en los modos de afectivizar con los/as hijos/as, irredención. Más allá de la voluntad consciente de directores y de guionistas, en una lectura sutil, podemos advertir que en ambas cintas tiene lugar un proceso de profanación (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/160/1605032001/html/index.html#redalyc_1605032001_ref1"
+      },
+      "Agamben, 2005"
+     ],
+     ") por medio del cual la habitual estilización e idealización de la representación de la madre, y su apartamiento del orden terrenal, se subvierte (se revierte) para restituirla a un locus ordinario: esto es, para re-humanizarla. Esta figura cristalizada, sagrada, que se quiere compacta y sin mácula, siempre igual a sí misma, fuera del tiempo y ofreciendo un sitio de seguridad y de estabilidad, pasa de una esfera apartada a otra de uso común, por lo que empieza a romperse su antigua indisponibilidad / reserva para relacionarse con determinados campos semánticos y de la experiencia, para estar en circulación libre. Así es como, por ejemplo, a contrapelo del uso dominante, en estas películas las madres extraviadas no solo formulan las frases más materialistas y pragmáticas, sino que no están exentas de ciertos modos de la violencia, la indecencia y el interés personal, la distracción y la negligencia para con los suyos. Asimismo, si nos detenemos en ",
+     [
+      "span",
+      {},
+      "Surcos"
+     ],
+     " (1951), cabe notar que son ellas las que rompen con los conformismos, las que no se aguantan cierto estado de cosas y se apuran por procurarse las vías concretas para mejorar su vida cotidiana: no se resignan, se niegan a seguir soportando estoicamente. "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Ambos largometrajes condensan una ambigüedad semántica, sensible y política radical. Si, por un lado, terminan por ser contracaras / contraejemplos del modelo, reforzando su necesidad y su centralidad para conservar el ordenamiento moral –representan la «catástrofe moral» (el extravío) para afirmar y para justificar la reconducción a la norma–; por otro lado, evocan cierta realización social y, lo más importante, constituyen el gesto profanador, des-idelizante de la figura de la Madre. Entonces, el hartazgo, la manipulación, la bajeza, la ambición, en suma, la humanidad más sombría y hostil del perfil materno, comienza a tener un mínimo canal de expresión en el imaginario. «Una vez profanado, lo que era indisponible y separado pierde su aura y es restituido al uso», afirma Giorgio Agamben (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/160/1605032001/html/index.html#redalyc_1605032001_ref1"
+      },
+      "2005"
+     ],
+     ", p. 102). Y continúa: «El comportamiento [la figura] así liberado reproduce e incluso imita las formas de la actividad de que se ha emancipado, pero vaciándolas de su sentido y de la relación obligada a un fin, las abre y dispone a un nuevo uso» (pp. 111-112). ¿Qué se gana con esta operación estética, visual y política? Creemos que la posibilidad de empezar a discutir la figura de la madre, de abrir una fisura en las formas de su imaginación: no poco, después de más de dos décadas de cine sonoro."
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-back"
+    },
+    "\n",
+    [
+     "p",
+     {},
+     "Agradecimientos"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "A Marina Díaz López y Vicente Benet por su\nsabiduría en cada conversación, por su generosidad en cada lectura atenta: por\nsu amistad."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Referencias"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_1605032001_ref1"
+     },
+     "Agamben, G. (2005). ",
+     [
+      "span",
+      {},
+      "Profanaciones"
+     ],
+     ". Adriana Hidalgo."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_1605032001_ref2"
+     },
+     "Badinter, E. (1981). ",
+     [
+      "span",
+      {},
+      "¿Existe el amor maternal? Historia del amor maternal. Siglos XVII al XX"
+     ],
+     ". Paidós-Pomaire."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_1605032001_ref3"
+     },
+     "Benet, V. (2012). ",
+     [
+      "span",
+      {},
+      "El cine español. Una historia cultural"
+     ],
+     ". Paidós."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_1605032001_ref4"
+     },
+     "Nieves Conde, J. A. (2015). Realismo(s), tragedia e ironía / Entrevistado por José Luis Castro de Paz y Julio Pérez Perucha. ",
+     [
+      "span",
+      {},
+      "L’Atalante. Revista de Estudios Cinematográficos"
+     ],
+     ", (20), 66-75. ",
+     [
+      "a",
+      {
+       "href": "https://revistaatalante.com/index.php/atalante/article/view/314"
+      },
+      "https://revistaatalante.com/index.php/atalante/article/view/314"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_1605032001_ref5"
+     },
+     "Donath, O. (2016). ",
+     [
+      "span",
+      {},
+      "Madres arrepentidas. Una mirada radical de la maternidad y sus falacias sociales"
+     ],
+     ". Penguin Random House."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_1605032001_ref6"
+     },
+     "España, C. (2005). Leopoldo Torre Nilsson. El riesgo de una mirada renovadora. En C. España (Dir.), ",
+     [
+      "span",
+      {},
+      "Cine argentino. Modernidad y vanguardias 1957/1983"
+     ],
+     ". Volumen I (pp. 330-355). Fondo Nacional de las Artes."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_1605032001_ref7"
+     },
+     "Guevara, E. (2011). La recepción de El secuestrador de Torre Nilsson desde 1958 hasta hoy. ",
+     [
+      "span",
+      {},
+      "Imagofagia"
+     ],
+     " (4). ",
+     [
+      "a",
+      {
+       "href": "https://www.asaeca.org/imagofagia/index.php/imagofagia/article/view/721"
+      },
+      "https://www.asaeca.org/imagofagia/index.php/imagofagia/article/view/721"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_1605032001_ref8"
+     },
+     "Guido, B. (1984). Productor y director. En C. España Argentina Sono Film, ",
+     [
+      "span",
+      {},
+      "Medio siglo de cine"
+     ],
+     " (p. 247). Abril."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_1605032001_ref9"
+     },
+     "Moreno Hernández, A. (2000). Los debates sobre la maternidad. En C. Fernández Montraveta, P. Monreal Requena, A. Moreno Hernández y P. Soto Rodríguez (Coords.), ",
+     [
+      "span",
+      {},
+      "Las representaciones de la maternidad debates teóricos y repercusiones sociales"
+     ],
+     " (pp. 1-9). Instituto Universitario de Estudios de la Mujer, Universidad Autónoma de Madrid."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_1605032001_ref10"
+     },
+     "Higueras Flores, R. (2019). Formas de la disidencia. Sinergias entre forma y discurso en los filmes de temática social de Nieves Conde: el caso de Surcos (1951). ",
+     [
+      "span",
+      {},
+      "Fonseca, Journal of Comunication"
+     ],
+     ", (19), 149-165. ",
+     [
+      "a",
+      {
+       "href": "https://doi.org/10.14201/fjc201919149165"
+      },
+      "https://doi.org/10.14201/fjc201919149165"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_1605032001_ref11"
+     },
+     "Knibiehler, Y. (2001). ",
+     [
+      "span",
+      {},
+      "Historia de las madres y de la maternidad en Occidente"
+     ],
+     ". Nueva Visión."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_1605032001_ref12"
+     },
+     "Lozano Estívaliz, M. (2000). ",
+     [
+      "span",
+      {},
+      "Las imágenes de la maternidad. El imaginario social de la maternidad en occidente desde sus orígenes hasta la cultura de masas"
+     ],
+     ". Ayuntamiento de Alcalá de Henares y Centro Asesor de la Mujer."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_1605032001_ref13"
+     },
+     "Marcos, M. (2015). Estética e ideología en Surcos. ",
+     [
+      "span",
+      {},
+      "España contemporánea. Revista de literatura y cultura, 24-25"
+     ],
+     "(2-1), 205-221."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_1605032001_ref14"
+     },
+     "Martínez, T. E. (1961). ",
+     [
+      "span",
+      {},
+      "La obra de Ayala y Torre Nilsson en las estructuras del cine argentino"
+     ],
+     ". Ediciones Culturales Argentinas."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_1605032001_ref15"
+     },
+     "Monterde, J. E. (1995). Continuismo y disidencia (1951-1962). En R. Gubern y otros, ",
+     [
+      "span",
+      {},
+      "Historia del cine español"
+     ],
+     " (pp. 239-293). Cátedra."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_1605032001_ref16"
+     },
+     "Roca I. Girona, J. (1996). ",
+     [
+      "span",
+      {},
+      "De la pureza a la maternidad. La construcción del género femenino en la postguerra española"
+     ],
+     ". Subdirección General de Museos Estatales."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_1605032001_ref17"
+     },
+     "Rodríguez, J. y Serrano Asenjo, E. (2012). La representación en el cine de la integración de los inmigrantes rurales en las ciudades: el pesimismo de Surcos (1951). ",
+     [
+      "span",
+      {},
+      "Ager. Revista de Estudios sobre Despoblación y Desarrollo Rural"
+     ],
+     ", (12), 91-116. ",
+     [
+      "a",
+      {
+       "href": "https://doi.org/10.4422/ager.2011.03"
+      },
+      "https://doi.org/10.4422/ager.2011.03"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_1605032001_ref18"
+     },
+     "Sojo Gil, K. (2011). Éxodo rural y emigración al Madrid de los cincuenta. El caso de ",
+     [
+      "span",
+      {},
+      "Surcos"
+     ],
+     " (1951), de José Antonio Nieves Conde. ",
+     [
+      "span",
+      {},
+      "Quaderns"
+     ],
+     ", (6), 103-113. ",
+     [
+      "a",
+      {
+       "href": "https://www.cervantesvirtual.com/nd/ark:/59851/bmcnw023"
+      },
+      "https://www.cervantesvirtual.com/nd/ark:/59851/bmcnw023"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_1605032001_ref19"
+     },
+     "Torre Nilsson, L. (1985). ",
+     [
+      "span",
+      {},
+      "Torre Nilsson por Torre Nilsson"
+     ],
+     " (Selección y prólogo de Jorge Miguel Couselo). Fraterna."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_1605032001_ref20"
+     },
+     "Zumalde, I. (1997). Surcos. En J. Pérez Perucha (Ed.), ",
+     [
+      "span",
+      {},
+      "Antología crítica del cine español"
+     ],
+     " (pp. 295-296). Cátedra."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Fuentes"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_1605032001_ref36"
+     },
+     "Argentina Sono Film (22 de mayo 1958). Hoja\nde prensa. Museo del Cine, Argentina."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_1605032001_ref37"
+     },
+     "Calki (R. Calcagno). (28 de septiembre de\n1958). Alrededor de los últimos estrenos. ",
+     [
+      "span",
+      {},
+      "El Mundo"
+     ],
+     ", p. 15."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_1605032001_ref38"
+     },
+     "Clarín (21 de agosto de 1958). Juzgan en la\nvecina orilla una muestra de nuestro cine, s/d."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_1605032001_ref39"
+     },
+     "Clarín (26 de septiembre de 1958). «El\nSecuestrador»: apenas un resplandor  \nen el cieno que no logra hacer impacto en el ánimo del público, p. 35."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_1605032001_ref40"
+     },
+     "El Heraldo del Cinematografista (4 de mayo de\n1955). Surcos, p. 87."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_1605032001_ref41"
+     },
+     "El Mundo (29 de abril de 1955). Eficacia\ndramática en el film «Surcos», p. 8."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_1605032001_ref42"
+     },
+     "King (26 de septiembre de 1958). Clima\nobsesionante en un film de excepción: «El Secuestrador». El Mundo, p.\n17."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_1605032001_ref43"
+     },
+     "La Nación (25 de agosto de 1958). Fue juzgado\nen Montevideo un film argentino, s/d."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_1605032001_ref44"
+     },
+     "La Nación (20 de septiembre de 1958). La infancia y sus mitos en un film local, p. 10."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_1605032001_ref45"
+     },
+     "La Nación (26 de septiembre de 1958). Excepcional calidad en «El secuestrador», p. 10."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_1605032001_ref46"
+     },
+     "La Prensa (29 de abril de 1955). Surcos, p.\n6."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_1605032001_ref47"
+     },
+     "La Prensa (26 de septiembre de 1958). «El Secuestrador» un film argentino de L. T.\nNilsson con buena dirección, p. 14."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_1605032001_ref48"
+     },
+     "La Razón (29 de abril de 1955).\nEspejismo de las ciudades, p. 4."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_1605032001_ref49"
+     },
+     "La Razón (26 de septiembre de 1958). Polémica\nSegura, p. 15."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Notas"
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-fn1"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "1"
+     ],
+     " La Compañía Industrial de Film Español, conocida como Cifesa, era una empresa española dedicada a la producción y a la distribución de filmes, con sede en Valencia. La empresa fue creada en 1932 por la familia Trénor. Tuvo su época de esplendor entre 1942 y 1945, y cerró sus puertas en 1961."
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-fn2"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "2"
+     ],
+     " En contraste, las resistencias de la Iglesia hacia el filme tuvieron que ver con la falta de moral de algunos personajes y con la ausencia de castigo a asesinos y a estraperlistas (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/160/1605032001/html/index.html#redalyc_1605032001_ref17"
+      },
+      "Rodríguez & Serrano Asenjo, 2012"
+     ],
+     "). Por eso, no ha de llamar la atención que la Junta Nacional de Clasificación de Espectáculos la declarase «gravemente peligrosa» (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/160/1605032001/html/index.html#redalyc_1605032001_ref20"
+      },
+      "Zumalde, 1997"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/160/1605032001/html/index.html#redalyc_1605032001_ref13"
+      },
+      "Marcos, 2015"
+     ],
+     ")."
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-fn3"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "3"
+     ],
+     " Eugenio Montes proporcionó el germen de la historia, Natividad Zaro la desarrolló, y Gonzalo Torrente Ballester, junto con Nieves Conde, hizo el guion. Respecto del proceso de trabajo, dijo ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/160/1605032001/html/index.html#redalyc_1605032001_ref4"
+      },
+      "Nieves Conde (2015)"
+     ],
+     ": «[…] nos dio unas hojas Natividad Zaro –unas veinte holandesas–, de una historia sainetesca. Yo leí aquello y le dije que me interesaba, pero que había que transformarlo. Me interesa como idea, pero no como historia […]. Cuando le dije que el guionista elegido era Gonzalo Torrente Ballester no hubo ningún problema. Gonzalo era amigo de Eugenio Montes. La idea con la que arrancamos es la de unos pobres campesinos que se vienen a Madrid, y a partir de ahí había que hacer una historia nueva. Entre los dos discutíamos cada situación. Era una especie de coescritura. Él tenía en la palabra más peso que yo, pero yo era el director y le iba corrigiendo y marcando por dónde ir. La película se rodó sobre la tercera versión del guion, pero incluso aquí corregíamos y modificábamos cosas […]» (p. 70)."
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-fn4"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "4"
+     ],
+     " En Madrid, especialmente, casa de vecindad antigua constituida por viviendas de reducidas dimensiones a las que se accede por puertas situadas en galerías o en corredores que dan a un gran patio interior."
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-fn5"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "5"
+     ],
+     " El propio ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/160/1605032001/html/index.html#redalyc_1605032001_ref4"
+      },
+      "Nieves Conde (2015)"
+     ],
+     " explicó: «En ",
+     [
+      "span",
+      {},
+      "Surcos"
+     ],
+     ", pese a la tan citada influencia del neorrealismo italiano, nuestro punto de inspiración estaba en el mundo de Cervantes. Pero también en Florián Rey y su extraordinaria ",
+     [
+      "span",
+      {},
+      "La aldea maldita"
+     ],
+     " (1930)» (p. 70)."
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-fn6"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "6"
+     ],
+     " El pequeño afiche de promoción, en medios gráficos argentinos, destacaba como gancho publicitario la siguiente semblanza de la película: «Recia como la tierra, violenta como un torbellino»."
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-fn7"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "7"
+     ],
+     " Originalmente, ",
+     [
+      "span",
+      {},
+      "El secuestrador"
+     ],
+     " se publicó en 1955, en el volumen colectivo Cuentos memorables, de la editorial Deucalion. En 1971, lo hizo bajo el sello Merlín, en una antología de la autora titulada ",
+     [
+      "span",
+      {},
+      "El ojo único de la ballena"
+     ],
+     ". La breve anécdota del cuento constituye el planteo central del último tramo de la película."
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-fn8"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "8"
+     ],
+     " Paz había trabajado con Nilsson en el filme inmediatamente anterior, ",
+     [
+      "span",
+      {},
+      "La casa del ángel"
+     ],
+     " (1957). Cuenta Beatriz ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/160/1605032001/html/index.html#redalyc_1605032001_ref8"
+      },
+      "Guido (1984)"
+     ],
+     " que, frente a la evidente complejidad y sofisticación de la música, Atilio Mentasti le dijo al director: «Este es el tipo de música que si uno dice que no le gusta creen que es un ignorante. A mí me gusta. Que vaya [que termine el proceso de regrabación]» (p. 247)."
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-fn9"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "9"
+     ],
+     " No se dispone del número de página puesto a la nota mencionada se accedió mediante un recorte que se encuentra en un sobre con documentación sobre la película en el Museo del Cine «Pablo Ducrós Hicken» (",
+     [
+      "a",
+      {
+       "href": "https://buenosaires.gob.ar/cultura/museos/museodelcine"
+      },
+      "https://buenosaires.gob.ar/cultura/museos/museodelcine"
+     ],
+     ")."
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-fn10"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "10"
+     ],
+     " En una operación de prensa tendiente a desmentir la realidad, los afiches de promoción de la segunda semana de exhibición decían: «LOS CRÍTICOS nunca elogiaron tanto una película! EL PÚBLICO se aglomera en las calles para discutirla!»."
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-fn11"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "11"
+     ],
+     " Cabe destacar que tanto María Vaner como Leonardo Favio, luego inmensamente populares, hicieron su debut cinematográfico con esta película."
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-fn12"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "12"
+     ],
+     " Eugenia ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/160/1605032001/html/index.html#redalyc_1605032001_ref7"
+      },
+      "Guevara (2011)"
+     ],
+     " señala que el crítico Roland, en el diario ",
+     [
+      "span",
+      {},
+      "Crítica"
+     ],
+     ", advirtió: «[la cinta es] cruel y no vacila para contar una historia amarga, tremenda, despiadada con imágenes fuertes y palabras crudas. Se pregunta si es útil u oportuno y se responde que quizás el film “se atreva a ser lo único posible en esta hora de la humanidad: un síntoma”» (p. 9)."
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-fn13"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "13"
+     ],
+     " Originalmente, el texto se había publicado el 24 de septiembre de 1958 en ",
+     [
+      "span",
+      {},
+      "El Mundo"
+     ],
+     "."
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-fn14"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "14"
+     ],
+     " Entrevista televisiva realizada el 8 de agosto de 1976 en el programa «A fondo», conducido por Joaquín Soler. Al momento de publicación de este artículo el archivo de video no se encuentra disponible en el canal mediante el cual se accedió a su consulta."
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-fn15"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "15"
+     ],
+     " Estas dos parientas hacen sistema con aquellas madres de la corrala que, fuera del campo visual, son quienes están a cargo de los niños que fuman y juegan cartas en los pasillos de la casona común, y de cuya potencial delincuencia se responsabiliza a las mujeres. Recordemos que, a diferencia de los varones carpinteros, cuyos cuerpos se ven trabajar mientras los Pérez llegan al edificio, las matronas, a voz en cuello –sin cuerpo ni rostro– discuten y se insultan… pero cuidado: también son las que, de noche, cantan nanas para dormir a sus criaturas."
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-fn16"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "16"
+     ],
+     " Es llamativo que la única mujer que el relato presenta como pura y decente sea –con un nombre elocuente– la angelical y rubia Rosario, joven hija del marionetista: justo aquella que no tiene madre y que obedece, respetuosamente, la Ley del Padre."
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-fn17"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "17"
+     ],
+     " Rubén Higueras Flores (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/160/1605032001/html/index.html#redalyc_1605032001_ref10"
+      },
+      "2019"
+     ],
+     ") advierte que en la casa, y\nalrededor de la mesa, existe una autoridad bicéfala constituida por la madre\nbiológica (María Francés) y la adoptiva de la prole, Engracia (Carmen Sánchez):\n«Éstas aparecen ocupando ese epicentro físico alrededor del cual se congrega el\nresto de los personajes, representantes de ese nuevo código de conducta urbano\nque reemplaza a la devaluada ley paterna (y rural). La madre se impone al\npadre, privándole de la palabra. […] Consecuencia de lo enunciado será el\ndesafío de Pepe a su progenitor […]. Pepe se enfrenta y vence a la ley paterna\nporque ésta ha sido previamente devaluada y porque el dinero que aporta a la\ncasa le otorga poder (p. 153)."
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-fn18"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "18"
+     ],
+     " Semejante al gesto de negar la comida al hijo que describimos en el caso español."
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-fn19"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "19"
+     ],
+     " Mercedes, ¿es la hermana mayor o la madre jovencísima de Flavia? El entorno de promiscuidad y el planteamiento especular podría conducirnos a pensar en la segunda alternativa, por lo que la muchacha no sería tía sino hermana de los tres niños."
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-fn20"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "20"
+     ],
+     " Más adelante, al escuchar los dolores de parto de su vecina, Flavia afirmará: «¡Nunca voy a tener un hijo!»."
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-fn21"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "21"
+     ],
+     " Resulta notable que cuando Bolita es herido los niños corran pidiendo auxilio y llamando no a la madre sino a Flavia."
+    ],
+    "\n"
+   ],
+   "\n"
+  ],
+  "\n",
+  [
+   "span",
+   {
+    "id": "t-creditos"
+   },
+   "\n",
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-logo-izquierda"
+    },
+    "\n",
+    [
+     "figura",
+     {}
+    ]
+   ],
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-mensaje"
+    },
+    "Modelo de publicación sin fines de lucro para conservar la naturaleza académica y abierta de la comunicación científica",
+    [
+     "br",
+     {}
+    ],
+    "HTML generado a partir de XML-JATS4R"
+   ],
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-logo-derecha"
+    },
+    "\n",
+    [
+     "figura",
+     {}
+    ]
+   ],
+   "\n",
+   "\n"
+  ],
+  "\n\n\n"
+ ]
+};

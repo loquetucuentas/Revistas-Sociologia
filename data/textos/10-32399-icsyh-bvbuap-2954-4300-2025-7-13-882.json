@@ -1,0 +1,2219 @@
+{
+ "version": 1,
+ "recogido": "2026-10-18T11:48:01+00:00",
+ "doi": "10.32399/icsyh.bvbuap.2954-4300.2025.7.13.882",
+ "titulo": "La cuestión del Estado proletario en Pashukanis",
+ "revista": "2954-4300",
+ "numero": "2025",
+ "licencia": {
+  "codigo": "by-nc-sa",
+  "nombre": "CC BY-NC-SA 4.0",
+  "nombre_completo": "Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional",
+  "url": "https://creativecommons.org/licenses/by-nc-sa/4.0",
+  "url_legal": "https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.es"
+ },
+ "fuente": {
+  "url": "https://bajoelvolcanx.buap.mx/index.php/bajovolc/article/download/882/786?inline=1",
+  "formato": "HTML",
+  "plataforma": "ojs-galerada",
+  "pagina": "https://bajoelvolcanx.buap.mx/index.php/bajovolc/article/view/882"
+ },
+ "autores_cita": [
+  {
+   "apellidos": "Bilharinho  Naves",
+   "nombre_pila": "Márcio",
+   "nombre": null
+  }
+ ],
+ "avisos_derechos": [
+  "Derechos de autor 2025 Márcio Bilharinho Naves",
+  "Licencia Derechos de autor 2025 Márcio Bilharinho Naves Esta obra está bajo una licencia internacional Creative Commons Atribución-NoComercial-CompartirIgual 4.0. Las autoras y los autores conservan los derechos de autor sobre su obra y ceden a Bajo el Volcán. Revista del Posgrado de Sociología. BUAP únicamente el derecho de primera publicación. Revista de acceso abierto diamante: sin costo para autoras, autores ni personas lectoras."
+ ],
+ "idioma_principal": "es",
+ "indice": [
+  {
+   "id": "t-seccion-1",
+   "nivel": 2,
+   "texto": "La cuestión del Estado proletario en Pashukanis",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-2",
+   "nivel": 3,
+   "texto": "BIBLIOGRAFÍA",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-3",
+   "nivel": 3,
+   "texto": "NOTAS",
+   "lang": null
+  }
+ ],
+ "vueltas": {},
+ "contenido": [
+  "\n",
+  [
+   "section",
+   {},
+   "\n",
+   [
+    "strong",
+    {},
+    [
+     "em",
+     {},
+     "Bajo el Volcán. Revista del Posgrado de Sociología. BUAP"
+    ]
+   ],
+   ", Año 7, Núm. 13, noviembre de 2025 – abril de 2026, pp. 145-161.",
+   [
+    "br",
+    {}
+   ],
+   "e-ISSN 2954-4300 · ",
+   [
+    "a",
+    {
+     "href": "https://doi.org/10.32399/ICSYH.bvbuap.2954-4300.2025.7.13.882"
+    },
+    "https://doi.org/10.32399/ICSYH.bvbuap.2954-4300.2025.7.13.882"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Dossier temático"
+   ],
+   "\n",
+   [
+    "h2",
+    {
+     "id": "t-seccion-1"
+    },
+    "La cuestión del Estado proletario en Pashukanis"
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "The question of the proletarian State in Pashukanis"
+   ],
+   "\n",
+   "\n",
+   [
+    "p",
+    {
+     "lang": "pt"
+    },
+    [
+     "span",
+     {},
+     "Márcio Bilharinho Naves"
+    ],
+    [
+     "br",
+     {}
+    ],
+    [
+     "span",
+     {},
+     "Universidade Estadual de Campinas, Campinas, Brasil"
+    ]
+   ],
+   "\n",
+   "\n",
+   [
+    "p",
+    {},
+    "RESUMEN"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Este trabajo examina la concepción del Estado proletario en la obra de Evgeni Pashukanis. Se propone realizar un examen crítico de la cuestión del Estado en la transición al comunismo, el cual se limita únicamente a sus textos que van de 1924 a 1929. El jurista ruso sostiene las tesis de Marx y Lenin sobre la necesidad de la extinción del Estado en la sociedad sin clases y la persistencia de su carácter burgués en el período de transición. Sin embargo, Pashukanis sostiene una posición diferente en su obra ",
+    [
+     "em",
+     {},
+     "El aparato del Estado en la lucha contra el burocratismo"
+    ],
+    ", en la que el jurista ruso defiende la necesidad de transformar el Estado en la transición socialista y no solo de perfeccionarlo, de modo que su funcionamiento sea completamente diferente al del Estado en una sociedad de clases. A pesar del reconocimiento implícito que realiza Pashukanis a que el Estado soviético no tendría una naturaleza proletaria, ya que reproduce la separación entre el poder político y las masas trabajadoras, este no es capaz de relacionar esta separación con otra, la que existe entre los medios de producción y el trabajador directo."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    [
+     "em",
+     {},
+     "Palabras claves:"
+    ],
+    " Pashukanis, Estado proletario, comunismo, Estado de transición, lucha de clases"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "ABSTRACT"
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "This writing examines the concept of the proletarian state in the work of Evgeni Pashukanis. It aims to conduct a critical examination of the question of the state in the transition to communism, limiting itself solely to his texts from 1924 to 1929. The Russian jurist supports Marx and Lenin’s thesis on the need for the extinction of the state in a classless society and the persistence of its bourgeois character during the transition period. However, Pashukanis takes a different position in his work The State Apparatus in the Struggle Against Bureaucratism, in which the Russian jurist defends the need to transform the state in the socialist transition and not just to perfect it, so that its functioning is completely different from that of the state in a class society. Despite Pashukanis’ implicit recognition that the Soviet state would not be proletarian in nature, since it reproduces the separation between political power and the working masses, he is unable to relate this separation to another, that which exists between the means of production and the direct worker."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    [
+     "em",
+     {},
+     "Keywords:"
+    ],
+    " Pashukanis, proletarian state, comunism, transition of state, class struggle"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "“Si en la URSS se eliminaron realmente los elementos capitalistas y se construyó una sociedad sin clases, ¿por qué se conserva el Estado? (Pashukanis, 1936: 19).",
+    [
+     "sup",
+     {},
+     [
+      "a",
+      {
+       "id": "t-fnref1",
+       "href": "#t-fn1"
+      },
+      "1"
+     ]
+    ],
+    " Esta pregunta, que Pashukanis formula en 1936, en uno de sus últimos textos, elogioso de la “Constitución estalinista”, expresa, más allá de un simple gesto de inconformismo, la contradicción insuperable de una doctrina del Estado que se reclamaba inspirada en Marx para negar al propio Marx."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Sin embargo, en la larga noche estalinista, sólo se escribía con manos temblorosas y Pashukanis ya había dejado atrás su concepción original, respirando ahora solo el aire enrarecido de aquellos tiempos inciertos. Por lo tanto, el tratamiento que da a la cuestión del Estado de transición en sus obras de la década de 1930 debe ser visto con recelo, tanto por ser la expresión de una ideología, la ideología del capitalismo de Estado (Bettelheim & Chavance, 2005), como por ser el resultado de la adhesión forzada a la doctrina secretada por el Partido bajo la sombra de una impresionante maquinaria de terror.",
+    [
+     "sup",
+     {},
+     [
+      "a",
+      {
+       "id": "t-fnref2",
+       "href": "#t-fn2"
+      },
+      "2"
+     ]
+    ],
+    " Este es el caso, por ejemplo, de un libro publicado en 1932, en el que se acoge plenamente la concepción del Estado de Stalin. Lo que hay aquí es simplemente ",
+    [
+     "em",
+     {},
+     "la reproducción de una ideología que justifica la persistencia y el refuerzo del Estado en la transición socialista"
+    ],
+    ". Como observan Bettelheim y Chavance, en la concepción estalinista, “el Estado constituye la ",
+    [
+     "em",
+     {},
+     "fuerza"
+    ],
+    " fundamental del desarrollo social, de la construcción del ‘socialismo’. En última instancia, aparece como el ",
+    [
+     "em",
+     {},
+     "creador"
+    ],
+    " de la sociedad”. Según Vychinski, el Estado es “el factor más poderoso y decisivo de la construcción socialista”; del mismo modo, el filósofo Yudin escribe en 1949: “el Estado soviético [según la doctrina estalinista] es la principal fuerza, el principal instrumento de construcción del socialismo y de la sociedad comunista. Por eso, tanto hoy como en las futuras tareas de construcción de la sociedad comunista, la tarea principal es reforzar por todos los medios el Estado soviético” (Bettelheim & Chavance, 2005: 82-82).",
+    [
+     "sup",
+     {},
+     [
+      "a",
+      {
+       "id": "t-fnref3",
+       "href": "#t-fn3"
+      },
+      "3"
+     ]
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "El punto culminante de este texto de Pashukanis tiene lugar cuando apoya la idea formulada por el propio Stalin de que el debilitamiento del Estado en la transición al comunismo se produce mediante su refuerzo:"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "[...] en su informe al XVI Congreso del Partido, el camara-"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "da Stalin acuñó una fórmula que explica completamente la"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "dialéctica del Estado proletario: ´Estamos a favor de la ex-"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "tinción del Estado´, dice. ´Y, al mismo tiempo, defendemos"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "el fortalecimiento de la dictadura del proletariado, que es"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "el poder estatal más fuerte y vigoroso que ha existido hasta"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "ahora. Desarrollo máximo del poder estatal para preparar"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "las condiciones para la extinción del poder del Estado: esta"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "es la fórmula marxista. ¿Es ´contradictoria´? Sí, es ´contra-"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "dictoria´. Pero esta contradicción proviene de la vida y refle-"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "ja plenamente la dialéctica de Marx. (Pashukanis, 1932: 33)"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "De este modo, el examen crítico que haremos de la cuestión del Estado en la transición al comunismo en Pashukanis tendrá que limitarse únicamente a sus textos que van de 1924 a 1929, en los que podemos reconocer su propia autoría y la presencia de una problemática científica."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "En ",
+    [
+     "em",
+     {},
+     "La teoría general del derecho y el marxismo"
+    ],
+    " no hay un análisis específico del Estado proletario, pero Pashukanis sostiene las tesis de Marx y Lenin sobre la necesidad de la ",
+    [
+     "em",
+     {},
+     "extinción del Estado"
+    ],
+    " en la sociedad sin clases y la persistencia de su carácter burgués en el período de transición. Así lo afirma en estos dos pasajes:"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Una vez dada la forma de la relación de equivalencia, se da"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "la forma del derecho, la forma del poder público, es decir,"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "del Estado, que, gracias a ello, sigue existiendo durante un"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "cierto tiempo hasta que ya no haya división en clases. La"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "extinción del derecho y, con él, del Estado, se producirá,"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "según Marx, solo cuando ´el trabajo se haya convertido no"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "solo en un medio de vida, sino en sí mismo, una necesidad"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "vital primordial´, cuando, junto con el desarrollo multilate-"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "ral de los individuos, crezcan las fuerzas productivas, cuan-"
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "pt"
+    },
+    "do cada uno pase a trabajar voluntariamente de acuerdo"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "con sus capacidades o, como dice Lenin, cuando no se haga"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "el cálculo, ´con la insensibilidad de un Shylock, si no se ha"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "trabajado media hora más que otro´, en resumen, cuando"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    [
+     "em",
+     {},
+     "se haya erradicado definitivamente la forma de la relación de"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    [
+     "em",
+     {},
+     "equivalencia."
+    ],
+    " (Pashukanis, 1976, pp. 47-48)"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "[...] la moral, el derecho y el Estado son ",
+    [
+     "em",
+     {},
+     "formas de la socie-"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    [
+     "em",
+     {},
+     "dad burguesa"
+    ],
+    ". Si el proletariado se ve obligado a utilizarlos,"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "esto ",
+    [
+     "em",
+     {},
+     "no implica"
+    ],
+    " en ",
+    [
+     "em",
+     {},
+     "modo alguno"
+    ],
+    " la posibilidad de un desarro-"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "llo posterior de estas formas en el sentido de ",
+    [
+     "em",
+     {},
+     "llenarlas de"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    [
+     "em",
+     {},
+     "contenido socialista"
+    ],
+    ". Son ",
+    [
+     "em",
+     {},
+     "incapaces de abarcar este contenido"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "y ",
+    [
+     "em",
+     {},
+     "deben desaparecer"
+    ],
+    " a medida que se realiza. Sin embargo,"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "en la actual época de transición, el proletariado debe ne-"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "cesariamente utilizar, en interés de su clase, estas formas"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "heredadas de la sociedad burguesa y, precisamente de esta"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "manera, ",
+    [
+     "em",
+     {},
+     "agotarlas."
+    ],
+    " [...] El proletariado debe tratar de mane-"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "ra [...] crítica no solo al Estado burgués [...] sino también a"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "su propio Estado [...] es decir, conocer la necesidad históri-"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "ca de su existencia, así como de su ",
+    [
+     "em",
+     {},
+     "desaparición"
+    ],
+    ". (136)"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Dos consecuencias importantes se derivan de estos pasajes. La primera es que el Estado proletario, como Estado de transición, tiene su ",
+    [
+     "em",
+     {},
+     "fundamento"
+    ],
+    " en la persistencia de la ley del valor; la segunda es que ese Estado ",
+    [
+     "em",
+     {},
+     "debe desaparecer"
+    ],
+    " cuando desaparezcan las relaciones de producción capitalistas. Pashukanis afirma aquí que el contenido de clase (proletario) de un Estado de transición está ",
+    [
+     "em",
+     {},
+     "subordinado a su forma"
+    ],
+    " necesariamente burguesa, de tal manera que ese Estado nunca podrá adquirir un carácter “socialista”. Esta es la contradicción ineludible que atraviesa el aparato estatal en una transición revolucionaria y que exige que ese aparato ya comience a ser desmantelado inmediatamente, es decir, que la clase trabajadora constituya nuevas formas de ejercicio del dominio político que le permitan ",
+    [
+     "em",
+     {},
+     "superar la separación entre ella y el poder político"
+    ],
+    " concentrado en el Estado. El aparato de dominación burgués no se presta al ejercicio del poder de las masas, precisamente porque su ",
+    [
+     "em",
+     {},
+     "forma"
+    ],
+    " les impide ejercer una ",
+    [
+     "em",
+     {},
+     "dictadura integral sobre la burguesía"
+    ],
+    " que les asegure el control de los medios de producción y, así, el cumplimiento de la tarea fundamental de la transición socialista: lo que Pashukanis denomina como ",
+    [
+     "em",
+     {},
+     "la erradicación de la forma de la relación de equivalencia,"
+    ],
+    " es decir, la ",
+    [
+     "em",
+     {},
+     "transformación de las relaciones de producción capitalistas,"
+    ],
+    " sin la cual ",
+    [
+     "em",
+     {},
+     "no pueden constituirse"
+    ],
+    " las ",
+    [
+     "em",
+     {},
+     "bases materiales de un nuevo modo de producción comunista."
+    ],
+    " Ya en “La teoría marxista del derecho y la construcción del socialismo”, de 1927 (Pashukanis, 2009), solo hay algunas referencias dispersas y genéricas sobre este tema, que debe buscarse en otros dos textos en los que aparece en primer plano: “Los diez años de El ",
+    [
+     "em",
+     {},
+     "Estado y la revolución"
+    ],
+    " de Lenin”, también de 1927, y “El aparato del Estado soviético en la lucha contra el burocratismo”, de 1929."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "En “Los diez años de ",
+    [
+     "em",
+     {},
+     "El Estado y la revolución"
+    ],
+    " de Lenin”, Pashukanis analiza dos obras del dirigente soviético: ",
+    [
+     "em",
+     {},
+     "El Estado y la revolución"
+    ],
+    " y ",
+    [
+     "em",
+     {},
+     "Las tareas inmediatas del poder soviético"
+    ],
+    ". Su objetivo es conciliar las posiciones expresadas en ellas en un esfuerzo por tomarlas como una unidad, minimizando los aspectos contradictorios que podemos encontrar en estos enfoques del Estado proletario y la transición socialista."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Al analizar la primera de ellas, ",
+    [
+     "em",
+     {},
+     "El Estado y la revolución"
+    ],
+    ", Pashukanis trata de destacar el papel que debe desempeñar el Estado en la transición socialista. Así, al comentar las divergencias entre Lenin y Bujarin, dice:"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "El punto fuerte de los artículos de Bujarin de 1916 y su mé-"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "rito consistían en una dura postura revolucionaria sobre la"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "destrucción del Estado burgués. Su punto débil era el hecho"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "de que en ellos no se desarrollaba en absoluto la parte posi-"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "tiva del problema, relativa a las formas y tareas del Estado"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "proletario. Esta unilateralidad se hizo evidente más tarde."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "En 1918, Lenin, al hablar de la reseña del camarada Bujarin"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "sobre su libro ",
+    [
+     "em",
+     {},
+     "El Estado y la revolución,"
+    ],
+    " reprendió a su rese-"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "ñista porque ´ve las tareas de la dictadura del proletariado"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "mirando al pasado y no al futuro´, es decir, sigue insistiendo"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "en las tareas de destrucción del antiguo aparato, que en ese"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "momento ya se habían realizado en líneas generales, y no"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "cita los pasajes del libro de Lenin en los que, incluso antes"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "de la toma del poder, Lenin hablaba de la instauración de"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "la disciplina, el registro y el control como tareas del Estado"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "proletario. (Pashukanis, 2017: 288)"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Así, Pashukanis busca demostrar que, para Lenin, no se trataba solo de pensar en las condiciones para la destrucción del aparato estatal burgués —que Pashukanis considera ",
+    [
+     "em",
+     {},
+     "ya realizadas"
+    ],
+    " “en líneas generales”—, sino ",
+    [
+     "em",
+     {},
+     "“principalmente”"
+    ],
+    " de definir teóricamente la naturaleza del poder que lo sustituirá, esas “formas concretas de la dictadura del proletariado”, es decir, el Estado proletario (Pashukanis, 2017, pp. 288-289). También destaca un pasaje de ",
+    [
+     "em",
+     {},
+     "las Cartas desde lejos"
+    ],
+    ", de Lenin, en el que este afirma que “necesitamos un Estado”, aunque no de aquel Estado de la burguesía (Pashukanis, 2017: 290), como el comentario del dirigente bolchevique de que, según Marx y Engels, la derrota de la Comuna de París se debió a que los revolucionarios utilizaron insuficientemente “[el] poder revolucionario del Estado” (292)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Al mismo tiempo, Pashukanis recupera el núcleo central de ",
+    [
+     "em",
+     {},
+     "El Estado y la revolución"
+    ],
+    ", que se basa en la tesis de que el proletariado debe, tras la toma del poder político, destruir el aparato del Estado burgués:"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Al igual que en la polémica contra Bernstein, quien tergi-"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "versó, con el mayor descaro, las palabras de Marx sobre el"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "hecho de que ´la clase obrera no puede simplemente tomar"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "las riendas del aparato estatal tal y como está´, también en"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "este caso Kautsky eludió la cuestión principal de la des-"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "trucción del aparato estatal burgués como condición para"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "la conquista del poder estatal por parte del proletariado."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "(Pashukanis, 2017: 294)"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Para Lenin, entonces, como recuerda Pashukanis, serían cuatro las características esenciales de este nuevo Estado proletario, de este Estado-comuna, aspectos que son completamente diferentes de los Estados burgueses, incluso los más democráticos de ellos:"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "1. la participación popular en la gestión estatal;"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "2. elección y destitución de los funcionarios públicos;"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "3. remuneración de los funcionarios limitada al salario me-"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "dio del obrero;"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "4. instauración, en lugar del parlamento, de órganos que"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "ejerzan al mismo tiempo funciones legislativas y ejecuti-"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "vas. (Pashukanis, 2017: 296)"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Este Estado proletario representa el nivel más elevado de democratismo, algo nunca alcanzado en una república burguesa, pero, cuanto más completa sea la democracia, más cerca estará el momento en que se vuelva innecesaria. Cuanto más democrático sea el “Estado” constituido por los obreros armados, que “ya no es un Estado en el sentido estricto de la palabra”, más rápido comenzará a extinguirse todo el Estado (296)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Pashukanis observa que Lenin sostiene que estas transformaciones en la maquinaria estatal están estrechamente vinculadas a la “reorganización socialista de la sociedad”, porque la participación de las masas en la administración conduce al derrocamiento del capitalismo y la profundización de estas medidas conlleva la “atrofia” del Estado y la consiguiente “transición del régimen de la dictadura del proletariado a la sociedad comunista” (297)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Sin embargo, paradójicamente, Pashukanis considera que fue precisamente en los primeros años del poder soviético cuando la forma del Estado-comuna estuvo más cerca de su realización, período en el que el objetivo era destruir la maquinaria estatal y crear las condiciones para que el capitalismo no subsistiera. Así, dice, “en esa etapa, era fácil para el Estado proletario introducir el principio de igualdad, extirpar por completo cualquier privilegio, permitir mítines ilimitados, la más amplia elegibilidad, colegialidad, etc.” (Pashukanis, 2017: 297), pero esto solo fue posible porque el Estado aún no era “una herramienta de construcción económico-socialista” (297), lo que lleva ahora a la necesidad de combinar el “democratismo de las masas” con la disciplina fabril. Es lo que dice Lenin cuando, en la cita que Pashukanis extrae de ",
+    [
+     "em",
+     {},
+     "Las tareas inmediatas del poder soviético"
+    ],
+    ", señala la necesidad de"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "aprender a conjugar el democratismo de los mítines de"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "las masas trabajadoras, tempestuoso, que corre como la"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "crecida primaveral, que traspasa todas las riberas, con la"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "disciplina férrea durante el trabajo, con la obediencia sin"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "reservas a la voluntad de una sola persona, del dirigente so-"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "viético, durante el trabajo. (Pashukanis, 2017, pp. 297-298)"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "No habría “",
+    [
+     "em",
+     {},
+     "absolutamente"
+    ],
+    "” ninguna “",
+    [
+     "em",
+     {},
+     "contradicción de principios"
+    ],
+    "” entre ese democratismo socialista y la dictadura personal del dirigente en el proceso de trabajo. Y Lenin, explica Pashukanis, trata de demostrar que se trata de una exigencia técnica de la producción moderna:"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Toda la gran industria mecanizada, es decir, precisamente la"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "fuente y la base material y productiva del socialismo, exige una"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "unidad de voluntad absoluta y rigurosísima que dirija el trabajo"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "común de cientos, miles y decenas de miles de personas [...]."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Pero, ¿cómo se puede garantizar la unidad de voluntad más ri-"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "gurosa? Mediante la subordinación de la voluntad de miles a la"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "voluntad de uno solo [...]. Esta subordinación, con una concien-"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "cia y una disciplina ideales de los participantes en el trabajo"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "común, puede recordar más a la suave regencia del maestro. Si"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "no existe una disciplina y una conciencia ideales, puede adop-"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "tar las formas duras de la dictadura. (Pashukanis, 2017: 298)"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Pashukanis trata estas medidas como formas administrativas propias de un Estado de tipo soviético y, siguiendo a Lenin, considera que cuanto más intenso sea este poder dictatorial ejercido por agentes separados de las masas, más deberán controlar estas lo que Lenin denomina “posibilidad de distorsión del poder soviético” (299). El control de la administración por parte de los trabajadores, sin embargo, se ve inhibido por su insuficiente nivel cultural, de tal manera que, como observa Lenin en la cita que hace Pashukanis, los soviets son “órganos de administración para los trabajadores [...] pero no por las masas trabajadoras”, situación que solo puede resolverse mediante “un largo trabajo de educación” (Pashukanis, 2017: 300).",
+    [
+     "sup",
+     {},
+     [
+      "a",
+      {
+       "id": "t-fnref4",
+       "href": "#t-fn4"
+      },
+      "4"
+     ]
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "En la lectura que Pashukanis hace de estos textos de Lenin, podemos observar que la posición sobre la disciplina en la fábrica que se expone en ",
+    [
+     "em",
+     {},
+     "Las tareas inmediatas del poder soviético"
+    ],
+    " se superpone a la tesis central de ",
+    [
+     "em",
+     {},
+     "El Estado y la revolución"
+    ],
+    ", que es la necesidad de destruir el Estado burgués y la extinción de todo Estado. Este incremento de la disciplina significa, en rigor, abandonar el esfuerzo para que las masas puedan apropiarse de las condiciones materiales de producción, cuya condición absoluta de posibilidad es la ",
+    [
+     "em",
+     {},
+     "dirección colectiva del proceso de trabajo por parte de los trabajadores"
+    ],
+    " en las unidades fabriles, que es una de las formas de ejercicio de la dictadura del proletariado. Así es como se pueden crear los medios efectivos para que se produzca la revolucionización de las ",
+    [
+     "em",
+     {},
+     "relaciones de producción capitalistas"
+    ],
+    ", con la superación del trabajo manual e intelectual y de la división entre las tareas de dirección y ejecución en el proceso de producción."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "El sistema de director único de empresa es un obstáculo para estas transformaciones y un refuerzo extraordinario del poder de la burguesía en las empresas estatizadas. A esto se refiere Serge Vincent-Vidal cuando, comentando las posiciones de Lenin, dice:"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "El texto no plantea la cuestión del lanzamiento de un mo-"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "vimiento de masas, de la movilización de las masas para"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "que aprendan y adquieran “el nivel de cultura necesario¨"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "durante su práctica social (producción, lucha de clases, ex-"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "perimentación científica)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Si las masas primero deben aprender, entonces es necesario"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "establecer provisionalmente un compromiso histórico con"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "aquellos que tienen el conocimiento y la técnica. Es nece-"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "sario “prestarles el poder”, supervisarlos con la Inspección"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Obrera y Campesina y, tal vez, con el Partido, si este no está"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "totalmente penetrado por los guardias blancos; en resumen,"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "es necesario separarse de las masas. (Vincent-Vidal, 2005)"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "La disciplina de la clase obrera exige el uso del aparato represivo contra ella, lo que conlleva no solo el fortalecimiento del Estado –y no a su debilitamiento–, sino también, en consecuencia, el refuerzo de la separación entre el poder político y las masas.",
+    [
+     "sup",
+     {},
+     [
+      "a",
+      {
+       "id": "t-fnref5",
+       "href": "#t-fn5"
+      },
+      "5"
+     ]
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Sin embargo, Pashukanis sostiene una posición diferente en su obra ",
+    [
+     "em",
+     {},
+     "El aparato del Estado en la lucha contra el burocratismo"
+    ],
+    ",",
+    [
+     "sup",
+     {},
+     [
+      "a",
+      {
+       "id": "t-fnref6",
+       "href": "#t-fn6"
+      },
+      "6"
+     ]
+    ],
+    " en la que el jurista ruso defiende la ",
+    [
+     "em",
+     {},
+     "necesidad de transformar"
+    ],
+    " el Estado en la transición socialista y no solo de perfeccionarlo, de modo que su ",
+    [
+     "em",
+     {},
+     "funcionamiento sea completamente diferente"
+    ],
+    " al del Estado en una sociedad de clases. Como dice Pashukanis:"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "El fondo de la cuestión es que nos enfrentamos a un proble-"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "ma de lucha de clases, y además en una configuración origi-"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "nal, ya que el aparato del Estado desempeña en esta lucha"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "un papel que nunca antes había desempeñado en la historia,"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "pues por primera vez en la historia tenemos un caso en el que"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "el poder pertenece a los trabajadores y no a los explotadores."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "La cuestión es que no solo aspiramos a perfeccionar el apara-"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "to administrativo, sino que queremos que cumpla funciones"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    [
+     "em",
+     {},
+     "diametralmente opuestas"
+    ],
+    " a las que cumple en cualquier socie-"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "dad de clases. (Pashukanis, 2017: 306 [énfasis mío])"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "El papel central pasa ahora a ser ocupado por ",
+    [
+     "em",
+     {},
+     "el control obrero de la maquinaria estatal"
+    ],
+    ", que muchos dirigentes soviéticos consideran innecesario y fortalecedor del burocratismo y prefieren la promoción individual a los puestos administrativos basándose en criterios de elevación de los niveles educativos y culturales de las masas. Para Pashukanis, sin embargo, se trata de transformar la ",
+    [
+     "em",
+     {},
+     "propia naturaleza de clase del Estado"
+    ],
+    " para que las masas puedan penetrar en él:"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "[...] cómo conseguir que el aparato del Estado, que en todas"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "partes siempre ha sido un medio de defensa de los privilegios"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "y la desigualdad, que, particularmente en forma de una buro-"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "cracia supra-clases, ha servido de escalera, por cuyos peldaños"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "personas capacitadas aisladas de las capas inferiores podían"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "ascender hacia los estratos privilegiados y ocupar una posición"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "privilegiada, ¿cómo hacer que ese aparato estatal, cuyas prácti-"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "cas se han creado a lo largo de milenios, se transforme en algo"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "diametralmente opuesto, en un instrumento que pueda elevar a"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "la masa en su conjunto a la vida política del Estado, que pueda"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "elevar precisamente a los estratos más analfabetos y atrasados"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "de los trabajadores, que, en lugar de asegurar y defender la des-"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "igualdad, proporcione la erradicación más rápida de cualquier"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "desigualdad? (Pashukanis, 2017: 307-308)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Esto significa cancelar la característica fundamental del Estado burgués, que es la de estar ocupado por agentes aislados de las masas y situados por encima de ellas, de tal manera que las masas estén separadas del poder político y, por lo tanto, imposibilitadas de ejercerlo."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Pero el Estado proletario soviético, tal y como lo describe Pashukanis, está lejos de haber sufrido esa transformación; al contrario, cita varios relatos de casos concretos en los que esa separación entre los dirigentes y los trabajadores alcanza niveles extremos, lo que le lleva a considerar “totalmente correcta” la observación de un periódico provincial:"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Los funcionarios son gente de alta cuna. El funcionario as-"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "pira a una posición exclusiva en la sociedad. La relación del"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "funcionario con las masas es despectiva, rayana en la burla."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Bajo el burocratismo, la causa viva, los intereses de las ma-"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "sas, se sacrifica en nombre de una minoría que administra"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "el Estado. [...] No es ningún secreto [...] que, en nuestro"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "aparato estatal, existen todo tipo de criaturas, mercaderes,"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "administradores, funcionarios, personas que trajeron consi-"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "go un formalismo estereotipado, su arrogancia, desprecio y"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "desdén por las masas. (Pashukanis, 2017: 315) Pashukanis (2017) reconoce, por lo tanto, acertadamente que el problema del burocratismo es un ",
+    [
+     "em",
+     {},
+     "problema de lucha de clases"
+    ],
+    " (321), pero considera que la clase que penetró tan profundamente en el aparato estatal es la antigua burguesía y sus representantes, y no una ",
+    [
+     "em",
+     {},
+     "nueva burguesía"
+    ],
+    " proveniente de las filas del Partido Comunista. ",
+    [
+     "sup",
+     {},
+     [
+      "a",
+      {
+       "id": "t-fnref7",
+       "href": "#t-fn7"
+      },
+      "7"
+     ]
+    ],
+    " Independientemente de ello, sin embargo, considera que la cuestión fundamental relativa al Estado soviético no es su perfeccionamiento técnico, sino la purga de los elementos burgueses instalados en él. Lo más significativo, sin embargo, es que considera que esta tarea debe ser ",
+    [
+     "em",
+     {},
+     "llevada a cabo por los propios trabajadores"
+    ],
+    " de la ciudad y del campo (Pashukanis, 2017, pp. 326-327), y que reconoce que solo en ese momento (1929) estarían ",
+    [
+     "em",
+     {},
+     "empezando a"
+    ],
+    " darse las condiciones para que las masas “participaran en la gestión del Estado” (327), lo que supone admitir que, doce años después del triunfo de la Revolución, los trabajadores aún no estaban al mando de ese Estado nominalmente suyo. Esto sería consecuencia, como dice Pashukanis, de la resistencia que sufre la participación de las masas en la gestión del Estado, ya que muchos cuadros consideran secundaria esta participación en la lucha contra el burocratismo.",
+    [
+     "sup",
+     {},
+     [
+      "a",
+      {
+       "id": "t-fnref8",
+       "href": "#t-fn8"
+      },
+      "8"
+     ]
+    ],
+    " Pashukanis, por el contrario, sostiene que el sistema de promoción de los trabajadores más capaces para ocupar los puestos administrativos no es lo más importante. Dice él:"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Lo más importante en la orientación leninista consiste en"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "reclutar para la participación en la gestión del Estado a"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "toda la masa, sin excepción, y no a personas elegidas, que"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "se destaquen por ciertas cualidades peculiares, ya que el"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Estado soviético debe traer a la gestión precisamente a los"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "más atrasados, los más analfabetos, los más humildes, para"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "desarrollarlo y elevarlo. (Pashukanis, 2017: 333)"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Pashukanis considera que las condiciones para esta participación ya están dadas, a pesar de la resistencia que aún persiste, ya que se está produciendo un intenso compromiso de los trabajadores con la maquinaria estatal, que se deriva, en particular, del aumento del ",
+    [
+     "em",
+     {},
+     "activismo de las masas"
+    ],
+    ". Esto es lo que ya ha permitido acumular las fuerzas necesarias para ",
+    [
+     "em",
+     {},
+     "“atacar ["
+    ],
+    "...] este aparato del Estado soviético e intentar ",
+    [
+     "em",
+     {},
+     "tomarlo por todos los medios,"
+    ],
+    " con un ",
+    [
+     "em",
+     {},
+     "ataque frontal,"
+    ],
+    " pero también sigilosamente y ",
+    [
+     "em",
+     {},
+     "mediante un cerco"
+    ],
+    "”. ",
+    [
+     "sup",
+     {},
+     [
+      "a",
+      {
+       "id": "t-fnref9",
+       "href": "#t-fn9"
+      },
+      "9"
+     ]
+    ],
+    " (Pashukanis, 2017: 333 [énfasis mío])"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "A pesar de este reconocimiento implícito de que el Estado soviético no tendría una naturaleza proletaria, ya que reproduce la ",
+    [
+     "em",
+     {},
+     "separación entre el poder político y las masas trabajadoras"
+    ],
+    " —que es la característica fundamental del Estado burgués—, Pashukanis no es capaz de relacionar esta separación con otra, la que existe entre los ",
+    [
+     "em",
+     {},
+     "medios de producción y el trabajador directo"
+    ],
+    ", a la que la primera está necesariamente vinculada, es decir, no es capaz de identificar la existencia de ",
+    [
+     "em",
+     {},
+     "relaciones de producción capitalistas"
+    ],
+    " en la formación social soviética.",
+    [
+     "sup",
+     {},
+     [
+      "a",
+      {
+       "id": "t-fnref10",
+       "href": "#t-fn10"
+      },
+      "10"
+     ]
+    ],
+    " Pashukanis, por lo tanto, al no disponer del concepto de capitalismo de Estado, no logra dar un tratamiento teórico consecuente a su crítica, limitándose a constatar los efectos de una causa indeterminada, lo que le impidió comprender que el Estado “proletario” soviético estaba dirigido por una nueva burguesía, la burguesía de Estado."
+   ],
+   "\n",
+   [
+    "h3",
+    {
+     "id": "t-seccion-2"
+    },
+    "BIBLIOGRAFÍA"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Althusser, L. (1978). El ",
+    [
+     "em",
+     {},
+     "XXII Congreso."
+    ],
+    " Lisboa: Presença."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Balibar, E. (1977). ",
+    [
+     "em",
+     {},
+     "Sobre la dictadura del proletariado."
+    ],
+    " Lisboa: Moraes."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Bettelheim, C & Chavance, B. (2005). “El estalinismo como ideología del capitalismo de Estado”. En Márcio Bilharinho Naves (Org.). ",
+    [
+     "em",
+     {},
+     "Análisis marxista y sociedad de transición"
+    ],
+    ". Campinas: IFCH/Unicamp."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Pashukanis, E. (2017). “El aparato del Estado soviético en la lucha contra el burocratismo”. En Evgeni Pashukanis. ",
+    [
+     "em",
+     {},
+     "La teoría general del derecho y el marxismo y ensayos seleccionados 1921-1929"
+    ],
+    "."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Pashukanis, E. (2017). “Los diez años de ",
+    [
+     "em",
+     {},
+     "El Estado y la revolución"
+    ],
+    " de Lenin”. En Evgeni Pashukanis. ",
+    [
+     "em",
+     {},
+     "La teoría general del derecho y el marxismo y ensayos seleccionados 1921-1929"
+    ],
+    ". São Paulo: Sundermann."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Pashukanis, E. (2009). “La teoría marxista del derecho y la construcción del socialismo”. En Márcio Bilharinho Naves (org.). ",
+    [
+     "em",
+     {},
+     "El discreto encanto del derecho burgués – ensayos sobre Pashukanis"
+    ],
+    ". Campinas: IFCH/Unicamp."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Pashukanis, E. (1976). ",
+    [
+     "em",
+     {},
+     "Teoría general del derecho y marxismo."
+    ],
+    " España: Labor Universitaria."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Pashukanis, E. (1936). ",
+    [
+     "em",
+     {},
+     "Stalinskaia konstitutsiia i sotsialisticheskaia zakonnost"
+    ],
+    "."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Pashukanis, E. (1932). ",
+    [
+     "em",
+     {},
+     "Proletarskoe gosudarstvo i postroenie besklassovogo obschestva"
+    ],
+    ". Moscú: Partiinoe Izdatelstvo."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Timascheff, N. S. (1939). ",
+    [
+     "em",
+     {},
+     "The crisis in the Marxian theory of law"
+    ],
+    ". En ",
+    [
+     "em",
+     {},
+     "New York University Law Quarterly Review,"
+    ],
+    " V. XVI, 4."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Vincent-Vidal, S. (2005). “La crítica de Mao Tsé-Tung a las concepciones económicas de Stalin”. En Márcio Bilharinho Naves (Org.). ",
+    [
+     "em",
+     {},
+     "Análisis marxista y sociedad de transición"
+    ],
+    ". Campinas: IFCH/Unicamp."
+   ],
+   "\n",
+   [
+    "section",
+    {},
+    [
+     "h3",
+     {
+      "id": "t-seccion-3"
+     },
+     "NOTAS"
+    ],
+    [
+     "ol",
+     {},
+     "\n",
+     [
+      "li",
+      {
+       "id": "t-fn1"
+      },
+      "Fue N. S. Timasheff quien llamó la atención sobre este pasaje, mostrando además que las salvedades que Pashukanis hizo como medida de protección no fueron capaces de neutralizar el contenido crítico del mismo, precisamente porque el jurista ruso deja la pregunta sin respuesta. ",
+      [
+       "em",
+       {},
+       "The crisis in the Marxian theory of law"
+      ],
+      ". ",
+      [
+       "em",
+       {},
+       "New York University Law Quarterly Review, XVI"
+      ],
+      "(4), 1939: 525. ",
+      [
+       "a",
+       {
+        "href": "#t-fnref1",
+        "id": "t-llamada-fnref1-1"
+       },
+       "↩"
+      ]
+     ],
+     "\n",
+     [
+      "li",
+      {
+       "id": "t-fn2"
+      },
+      "Un pasaje de la notable obra de Bettelheim, ",
+      [
+       "em",
+       {},
+       "Las luchas de clases en la URSS"
+      ],
+      ", ilustra el funcionamiento de la represión política en ese período: ",
+      [
+       "em",
+       {},
+       "“"
+      ],
+      "E",
+      [
+       "em",
+       {},
+       "sta"
+      ],
+      " [caracterización de los “enemigos”] ",
+      [
+       "em",
+       {},
+       "es tan fluida que casi cualquier persona puede ser etiquetada como tal"
+      ],
+      ". Los “enemigos” entran en las más diversas categorías: los miembros de los antiguos partidos u oposiciones (que aún están en libertad); aquellos que tienen vínculos familiares o relaciones con ellos; aquellos que pronuncian ",
+      [
+       "em",
+       {},
+       "frases críticas"
+      ],
+      " o incluso simplemente irónicas; los que no denuncian a los “enemigos”; los que descuidan su trabajo, etc. También son susceptibles de ser designados como posibles “enemigos” ",
+      [
+       "em",
+       {},
+       "aquellos que no hacen críticas"
+      ],
+      " (pueden ser sospechosos de ",
+      [
+       "em",
+       {},
+       "“disfrazar sus opiniones con elogios serviles"
+      ],
+      "”); aquellos cuyo buen trabajo puede destinarse a hacerse pasar por “fieles” al poder; o aquellos que denuncian a antiguos opositores, ya que allí puede encontrarse “una forma de encubrir a los enemigos actuales”. Charles Bettelheim. ",
+      [
+       "em",
+       {},
+       "Las luchas de clases en la URSS,"
+      ],
+      " 3.º período: los dominantes (1930-1941). Mem Martins: Publicaciones Europa-América, s/f: 147-148. ",
+      [
+       "a",
+       {
+        "href": "#t-fnref2",
+        "id": "t-llamada-fnref2-1"
+       },
+       "↩"
+      ]
+     ],
+     "\n",
+     [
+      "li",
+      {
+       "id": "t-fn3"
+      },
+      "Sobre la teoría del Estado de Stalin y Vychinski, cf. João Guilherme Alvares de Farias. “Andrei Vychinski y el fortalecimiento del Estado”. En ",
+      [
+       "em",
+       {},
+       "Lavra Palavra"
+      ],
+      ". Disponible en &lt;",
+      [
+       "a",
+       {
+        "href": "https://lavrapalavra.com/2018/03/09/andrei-vychinski-e-o-fortaleci"
+       },
+       "https://lavrapalavra.com/2018/03/09/andrei-vychinski-e-o-fortaleci"
+      ],
+      " mento-do-estado/#more-9818&gt; y Bernard Fabrègues. “Staline, la lutte de classes, l’État”. En ",
+      [
+       "em",
+       {},
+       "Communisme,"
+      ],
+      " 24, 1976. ",
+      [
+       "a",
+       {
+        "href": "#t-fnref3",
+        "id": "t-llamada-fnref3-1"
+       },
+       "↩"
+      ]
+     ],
+     "\n",
+     [
+      "li",
+      {
+       "id": "t-fn4"
+      },
+      "A esto, Pashukanis añade: “Un trabajo prolongado de educación y reeducación de las masas trabajadoras y de la propia vanguardia de la clase obrera, con la firmeza de las premisas políticas, es decir, de la dictadura del proletariado, y con la conciencia de que “hemos llevado el socialismo a la vida cotidiana”: he aquí el testamento que nos dejó Lenin” (Pashukanis, 2017: 302). ",
+      [
+       "a",
+       {
+        "href": "#t-fnref4",
+        "id": "t-llamada-fnref4-1"
+       },
+       "↩"
+      ]
+     ],
+     "\n",
+     [
+      "li",
+      {
+       "id": "t-fn5"
+      },
+      "“Sobre la “destrucción del Estado” en la transición socialista, observa Étienne Balibar (1977): “[...] el aparato del Estado (entre los que se encuentra el aparato político) no es una simple ´organización de la clase dominante´, sino también una organización del dominio de clase en la que se encuentran objetivamente atrapadas las clases explotadas, dominadas, en las que se desarrolla primero su ´toma de conciencia´ y su lucha por el socialismo. Lo que tienen que ´destruir´ históricamente no es algo puramente externo: es la propia estructura de su mundo actual, para hacer surgir de ella un mundo nuevo. [...] Un Estado (un aparato de Estado) que no se ´debilite´ inmediatamente, es decir, que no ceda el lugar [...] a la dirección política de las masas, no tiene ninguna posibilidad de convertirse en un ",
+      [
+       "em",
+       {},
+       "nuevo"
+      ],
+      " aparato de Estado: no será más que el resurgimiento o el desarrollo del antiguo” (pp. 92-93, 107). Abordando la misma cuestión, Althusser (1978) se expresa así: “[...] Marx y Lenin [...] relacionaron [la] ‘destrucción’ del Estado burgués con el ´debilitamiento´ posterior del nuevo Estado revolucionario, ‘debilitamiento’ indispensable para que el socialismo no se mantenga indefinidamente, sino que conduzca al comunismo. En otras palabras, pensaron en la ‘destrucción’ del Estado burgués ",
+      [
+       "em",
+       {},
+       "también"
+      ],
+      " sobre la base del ‘debilitamiento’ y el ‘fin’ de todo el Estado. Esto se vincula a una tesis fundamental de ",
+      [
+       "em",
+       {},
+       "Marx y Lenin: no solo el Estado burgués es opresivo, sino todo el Estado”"
+      ],
+      " (50). ",
+      [
+       "a",
+       {
+        "href": "#t-fnref5",
+        "id": "t-llamada-fnref5-1"
+       },
+       "↩"
+      ]
+     ],
+     "\n",
+     [
+      "li",
+      {
+       "id": "t-fn6",
+       "lang": "pt"
+      },
+      "Comentarios sobre este texto pueden verse en João Guilherme Alvares de Farias. “Pashukanis: burocratismo e luta de classes na experiência soviética”. En ",
+      [
+       "em",
+       {},
+       "Anais do IX Colóquio Internacional Marx- Engels"
+      ],
+      ". Campinas, 2018, Dietrich Loeber. “Bureaucracy in a worker’s State: E. B. Pashukanis and the struggle against bureaucratism in the Soviet Union”. En ",
+      [
+       "em",
+       {},
+       "Soviet Union,"
+      ],
+      " 6, 2, 1979, y Márcio Bilharinho Naves. ",
+      [
+       "em",
+       {},
+       "Marxismo e direito: um estudo sobre Pashukanis."
+      ],
+      " São Paulo: Boitempo, 2000. ",
+      [
+       "a",
+       {
+        "href": "#t-fnref6",
+        "id": "t-llamada-fnref6-1"
+       },
+       "↩"
+      ]
+     ],
+     "\n",
+     [
+      "li",
+      {
+       "id": "t-fn7"
+      },
+      "Sobre la cuestión del capitalismo de Estado, véase, en particular, Charles Bettelheim. ",
+      [
+       "em",
+       {},
+       "La lucha de clases en la Unión Soviética"
+      ],
+      ", primer período (1917- 1923). Río de Janeiro: Paz e Terra, 1976; ",
+      [
+       "em",
+       {},
+       "La lucha de clases en la Unión Soviética"
+      ],
+      ", segundo período (1923-1930). Río de Janeiro: Editora Paz e Terra, 1983; ",
+      [
+       "em",
+       {},
+       "Las luchas de clases en la URSS,"
+      ],
+      " tercer período, t. 1: los dominados (1930-1941). Mem Martins: Europa-América s/d.; ",
+      [
+       "em",
+       {},
+       "Las luchas de clases en la URSS,"
+      ],
+      " tercer período, t. 2: los dominantes (1930-1941), ",
+      [
+       "em",
+       {},
+       "op. cit."
+      ],
+      ", Bernard Chavance. ",
+      [
+       "em",
+       {},
+       "Le capital socialiste. Histoire critique de l’économie politique du socialisme (1917-1954)."
+      ],
+      " París: La Sycomore, 1980, Maria Turchetto. “Las características específicas de la transición al comunismo”. En Márcio Bilharinho Naves (org.). ",
+      [
+       "em",
+       {},
+       "Análisis marxista y sociedad de transición."
+      ],
+      " Campinas: IFCH/Unicamp, 2005, y Gianfranco La Grassa; Maria Turchetto. ",
+      [
+       "em",
+       {},
+       "Dal capitalismo alla società di transizione."
+      ],
+      " Milán: Franco Angeli, 1976. ",
+      [
+       "a",
+       {
+        "href": "#t-fnref7",
+        "id": "t-llamada-fnref7-1"
+       },
+       "↩"
+      ]
+     ],
+     "\n",
+     [
+      "li",
+      {
+       "id": "t-fn8"
+      },
+      "“[...] cuando se habla de las tareas urgentes de la clase, de la depuración del aparato y de la inserción de los obreros en él, nos encontramos, en el mejor de los casos, con la incomprensión, con la indiferencia, con el deseo de evitar, de alguna manera, este tema, de esquivarlo, de guardar silencio”. Y más adelante: “Si con la promoción unitaria la cuestión sigue siendo extremadamente difícil, cabe imaginar la oposición que habrá que superar cuando empecemos a poner en práctica, en serio, el lema leninista de la participación general de los trabajadores en la gestión del Estado. ¿Y cómo es posible pasar plácidamente por alto esta tarea, como si ya estuviera resuelta y no exigiera esfuerzos especiales ni una atención especial?",
+      [
+       "em",
+       {},
+       "”"
+      ],
+      " (Pashukanis , 2017: 332-334). ",
+      [
+       "a",
+       {
+        "href": "#t-fnref8",
+        "id": "t-llamada-fnref8-1"
+       },
+       "↩"
+      ]
+     ],
+     "\n",
+     [
+      "li",
+      {
+       "id": "t-fn9"
+      },
+      "Y además: “Considero [...] que el hielo se ha derretido, que solo hay que aprovechar esta crecida primaveral, este crecimiento de la actividad de las masas, que ha comenzado a romper las barreras burocráticas. Es necesario ayudar a esta causa por todos los medios, y ",
+      [
+       "em",
+       {},
+       "no solo"
+      ],
+      " mediante la corrección gradual del lecho del río, es decir, ",
+      [
+       "em",
+       {},
+       "mediante la mejora del sistema de gestión, sino ["
+      ],
+      "...] mediante una intervención intensa ",
+      [
+       "em",
+       {},
+       "detonación de las masas de hielo de los vestigios del pasado"
+      ],
+      ", que bloquean el paso de las aguas primaverales” (Pashukanis, 2017: 336-337 [énfasis mío]). ",
+      [
+       "a",
+       {
+        "href": "#t-fnref9",
+        "id": "t-llamada-fnref9-1"
+       },
+       "↩"
+      ]
+     ],
+     "\n",
+     [
+      "li",
+      {
+       "id": "t-fn10"
+      },
+      "Y así, tampoco pudo desarrollar las ideas sobre esta cuestión decisiva esbozadas, como hemos visto, ",
+      [
+       "em",
+       {},
+       "en La teoría general del derecho y el marxismo"
+      ],
+      ". ",
+      [
+       "a",
+       {
+        "href": "#t-fnref10",
+        "id": "t-llamada-fnref10-1"
+       },
+       "↩"
+      ]
+     ],
+     "\n"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Cómo citar: ",
+    [
+     "em",
+     {},
+     "Bajo el Volcán. Revista del Posgrado de Sociología. BUAP"
+    ],
+    ", Año 7, Núm. 13, noviembre de 2025 – abril de 2026, pp. 145-161. https://doi.org/10.32399/ICSYH.bvbuap.2954-4300.2025.7.13.882"
+   ],
+   [
+    "p",
+    {},
+    [
+     "a",
+     {
+      "href": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
+     },
+     "Licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional"
+    ],
+    ". Publicación de acceso abierto diamante editada por la Benemérita Universidad Autónoma de Puebla."
+   ],
+   "\n"
+  ],
+  "\n"
+ ]
+}

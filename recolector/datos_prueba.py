@@ -68,12 +68,78 @@ def articulo(revista, numero, posicion):
     return datos
 
 
+LICENCIA_TEXTO = {
+    "codigo": "by", "nombre": "CC BY 4.0", "nombre_completo": "Creative Commons Atribución 4.0 Internacional",
+    "url": "https://creativecommons.org/licenses/by/4.0/",
+    "url_legal": "https://creativecommons.org/licenses/by/4.0/legalcode.es",
+}
+
+
+def texto_de_prueba(articulo):
+    """Texto completo ficticio, con todos los elementos que la vista de lectura debe saber mostrar."""
+    nota = lambda n: ["sup", {}, ["a", {"href": f"#t-nota-{n}", "id": f"t-llamada-nota-{n}-1"}, str(n)]]
+    contenido = [
+        ["section", {"id": "t-s1"},
+         ["h2", {"id": "t-s1-titulo"}, "Introducción"],
+         ["p", {}, "Texto de prueba. Este artículo no existe: sirve para comprobar la vista de lectura. "
+                   "Incluye una llamada a nota", nota(1), " y una cita a la bibliografía (",
+          ["a", {"href": "#t-ref-1", "id": "t-llamada-ref-1-1"}, "Autora Ficticia, 2020"], ")."],
+         ["p", {"lang": "en"}, "This paragraph is written in English to check that screen readers switch voice."],
+         ["blockquote", {}, ["p", {}, "Una cita textual larga de prueba, con su propio formato."]],
+         ["h3", {"id": "t-s1-1"}, "Objetivos"],
+         ["ul", {}, ["li", {}, "Primer objetivo de prueba."], ["li", {}, "Segundo objetivo de prueba", nota(2), "."]]],
+        ["section", {"id": "t-s2"},
+         ["h2", {"id": "t-s2-titulo"}, "Resultados"],
+         ["figure", {"id": "t-tabla-1"},
+          ["table", {},
+           ["caption", {}, "Tabla 1. Casos ficticios por año y territorio"],
+           ["thead", {}, ["tr", {}] + [["th", {"scope": "col"}, c] for c in
+                                        ("Año", "Territorio norte", "Territorio sur", "Territorio este",
+                                         "Territorio oeste", "Territorio central", "Total")]],
+           ["tbody", {}] + [["tr", {}, ["th", {"scope": "row"}, str(a)]] + [["td", {}, str(a % 7 + i)] for i in range(6)]
+                            for a in (2021, 2022, 2023)]]],
+         ["figure", {"id": "t-figura-1"},
+          ["figcaption", {}, "Figura 1. Evolución ficticia de los casos"],
+          ["figura", {"alt": "Gráfico de líneas que sube de 5 casos en 2021 a 9 en 2023."}]],
+         ["figure", {"id": "t-figura-2"},
+          ["figcaption", {}, "Figura 2. Mapa ficticio sin descripción"],
+          ["figura", {}]],
+         ["p", {}, "Más información en ", ["a", {"href": "https://example.org/proyecto"}, "la web ficticia del proyecto"], "."]],
+        ["section", {"id": "t-notas"},
+         ["h2", {"id": "t-notas-titulo"}, "Notas"],
+         ["aside", {"id": "t-nota-1", "rol": "fn"}, ["p", {}, "1. Primera nota de prueba."]],
+         ["aside", {"id": "t-nota-2", "rol": "fn"}, ["p", {}, "2. Segunda nota de prueba."]]],
+        ["section", {"id": "t-referencias"},
+         ["h2", {"id": "t-referencias-titulo"}, "Referencias"],
+         ["p", {"id": "t-ref-1", "rol": "ref"}, "Autora Ficticia, A. (2020). ", ["i", {}, "Libro de prueba"], ". Editorial de Ejemplo."]],
+    ]
+    return {
+        "version": 1, "recogido": FECHA, "doi": articulo["doi"], "titulo": articulo["titulo"], "es_prueba": True,
+        "licencia": LICENCIA_TEXTO,
+        "fuente": {"url": articulo["url"], "formato": "HTML", "plataforma": "datos de prueba", "pagina": articulo["url"]},
+        "autores_cita": [{"apellidos": "Autora de Prueba", "nombre_pila": "Persona", "nombre": None},
+                         {"apellidos": "Ficticia", "nombre_pila": "Otra Persona", "nombre": None}],
+        "avisos_derechos": ["Copyright (c) 2026 Persona Autora de Prueba. Aviso de derechos ficticio."],
+        "idioma_principal": "es",
+        "indice": [{"id": "t-s1-titulo", "nivel": 2, "texto": "Introducción", "lang": None},
+                   {"id": "t-s1-1", "nivel": 3, "texto": "Objetivos", "lang": None},
+                   {"id": "t-s2-titulo", "nivel": 2, "texto": "Resultados", "lang": None},
+                   {"id": "t-notas-titulo", "nivel": 2, "texto": "Notas", "lang": None},
+                   {"id": "t-referencias-titulo", "nivel": 2, "texto": "Referencias", "lang": None}],
+        "vueltas": {"t-nota-1": "t-llamada-nota-1-1", "t-nota-2": "t-llamada-nota-2-1", "t-ref-1": "t-llamada-ref-1-1"},
+        "contenido": contenido,
+    }
+
+
 def numeros(revista, cantidad):
     lista = []
     for indice in range(cantidad):
         volumen, numero, anio = 12 - indice // 2, 2 - indice % 2, 2026 - indice // 2
         articulos = [] if (revista == "prueba-0003" and indice == 1) else \
             [articulo(revista, indice, p) for p in range(1, 5)]
+        if revista == "prueba-0001" and indice == 0:
+            # Un artículo con texto completo ficticio para probar la vista de lectura.
+            articulos[0]["texto_completo"] = f"textos/{revista}-v{volumen}-n{numero}-1.json"
         lista.append({
             "id": f"v{volumen}-n{numero}-{anio}",
             "volumen": str(volumen), "numero": str(numero), "anio": anio,
@@ -97,6 +163,10 @@ def main():
     fichas = []
     for identificador, titulo, editorial, cantidad in REVISTAS:
         lista = numeros(identificador, cantidad)
+        for numero in lista:
+            for art in numero["articulos"]:
+                if art.get("texto_completo"):
+                    escribir_datos(carpeta, art["texto_completo"], texto_de_prueba(art))
         ficha = {
             "id": identificador,
             "titulo": titulo,

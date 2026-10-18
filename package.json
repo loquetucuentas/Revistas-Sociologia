@@ -5,7 +5,8 @@
   "scripts": {
     "servir": "python3 -m http.server 8080",
     "test": "playwright test",
-    "lighthouse": "lhci autorun"
+    "lighthouse": "lhci autorun",
+    "empaquetar": "python3 herramientas/empaquetar.py"
   },
   "devDependencies": {
     "@axe-core/playwright": "4.10.2",

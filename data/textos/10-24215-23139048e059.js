@@ -1,0 +1,886 @@
+// Copia de textos/10-24215-23139048e059.json para abrir la aplicación sin servidor.
+(window.DATOS_REVISTAS = window.DATOS_REVISTAS || {})["textos/10-24215-23139048e059.json"] = {
+ "version": 1,
+ "recogido": "2026-10-18T11:49:43+00:00",
+ "doi": "10.24215/23139048e059",
+ "titulo": "Trabajadores de salud: representaciones en torno a la pandemia de COVID 19 en la Argentina",
+ "revista": "2313-9048",
+ "numero": "v16-n16-2022",
+ "licencia": {
+  "codigo": "by-nc-sa",
+  "nombre": "CC BY-NC-SA 4.0",
+  "nombre_completo": "Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional",
+  "url": "https://creativecommons.org/licenses/by-nc-sa/4.0",
+  "url_legal": "https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.es"
+ },
+ "fuente": {
+  "url": "https://perio.unlp.edu.ar/ojs/index.php/cps/article/download/7489/6521/31266?inline=1",
+  "formato": "HTML",
+  "plataforma": "ojs-galerada",
+  "pagina": "https://perio.unlp.edu.ar/ojs/index.php/cps/article/view/7489"
+ },
+ "autores_cita": [
+  {
+   "apellidos": "Ramacciotti",
+   "nombre_pila": "Karina",
+   "nombre": null
+  },
+  {
+   "apellidos": "Fernández",
+   "nombre_pila": "María Estela",
+   "nombre": null
+  }
+ ],
+ "avisos_derechos": [
+  "Derechos de autor 2022 Cuadernos de H ideas",
+  "Licencia Derechos de autor 2022 Cuadernos de H ideas Esta obra está bajo una licencia internacional Creative Commons Atribución-NoComercial-CompartirIgual 4.0. La aceptación de un original por parte de la revista implica la cesión no exclusiva de los derechos patrimoniales de los/as autores/as en favor del editor, quien permite la reutilización, luego de su edición (postprint), bajo una Licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0) Acorde a estos términos, el material se puede compartir (copiar y redistribuir en cualquier medio o formato) y adaptar (remezclar, transformar y crear a partir del material otra obra), siempre que a) se cite la autoría y la fuente original de su publicación (revista y URL de la obra), b) no se use para fines comerciales y c) se mantengan los mismos términos de la licencia. La cesión de derechos no exclusivos implica que luego de su edición (postprint) en Cuadernos de H ideas las/os autoras/es pueden publicar su trabajo en cualquier idioma, medio y formato; en tales casos, se solicita que se consigne que el material fue publicado originalmente en esta revista. Tal cesión supone, también, la autorización de los/as autores/as para que el trabajo sea cosechado por SEDICI, el repositorio institucional de la Universidad Nacional de La Plata, y sea difundido en las bases de datos que el equipo editorial considere adecuadas para incrementar la visibilidad de la publicación y de sus autores/as. Asimismo, la revista incentiva a las/os autoras/es para que luego de su publicación en Cuadernos de H ideas depositen sus producciones en otros repositorios institucionales y temáticos, bajo el principio de que ofrecer a la sociedad la producción científica y académica sin restricciones contribuye a un mayor intercambio del conocimiento global."
+ ],
+ "idioma_principal": "es",
+ "indice": [],
+ "vueltas": {},
+ "contenido": [
+  [
+   "span",
+   {
+    "id": "t-MathJax_Message"
+   }
+  ],
+  "\n",
+  [
+   "span",
+   {
+    "id": "t-visor-cabecera"
+   },
+   "\n",
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-logo-institucion"
+    },
+    "\n",
+    [
+     "figura",
+     {}
+    ]
+   ],
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-logo-revista"
+    },
+    "\n",
+    [
+     "figura",
+     {}
+    ]
+   ],
+   "\n",
+   "\n"
+  ],
+  "\n",
+  [
+   "span",
+   {
+    "id": "t-articulo"
+   },
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-front"
+    },
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-articulo-categoria"
+     },
+     "\n",
+     [
+      "p",
+      {},
+      "Dossier"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-articulo-meta"
+     },
+     "\n",
+     [
+      "p",
+      {},
+      "\n",
+      [
+       "span",
+       {},
+       "Trabajadores de salud: representaciones en torno a la pandemia de  COVID 19 en la Argentina"
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "lang": "en"
+      },
+      "Health Workers: Representations around the COVID 19 Pandemic in Argentina"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-articulo-acerca"
+     },
+     "\n",
+     [
+      "span",
+      {
+       "id": "t-ficha-general"
+      },
+      "\n",
+      [
+       "span",
+       {
+        "id": "t-autores-articulo"
+       },
+       "\n",
+       "\n",
+       "\n",
+       [
+        "a",
+        {
+         "href": "https://orcid.org/0000-0002-6724-3926"
+        },
+        [
+         "figura",
+         {}
+        ]
+       ],
+       "  ",
+       [
+        "span",
+        {},
+        "Karina"
+       ],
+       " ",
+       [
+        "span",
+        {},
+        "Ramacciotti"
+       ],
+       " ",
+       [
+        "span",
+        {}
+       ],
+       [
+        "span",
+        {},
+        " karinaramacciotti@gmail.com"
+       ],
+       "\n",
+       "\n",
+       "\n",
+       [
+        "span",
+        {},
+        "Consejo Nacional de Investigaciones Científicas y\nTécnicas (CONICET) / Departamento de Ciencias Sociales, Universidad Nacional de\nQuilmes"
+       ],
+       ", ",
+       [
+        "span",
+        {},
+        "Argentina"
+       ],
+       "\n",
+       "\n",
+       "\n",
+       "\n",
+       "\n",
+       [
+        "a",
+        {
+         "href": "https://orcid.org/0000-0003-3729-1916"
+        },
+        [
+         "figura",
+         {}
+        ]
+       ],
+       "  ",
+       [
+        "span",
+        {},
+        "María Estela"
+       ],
+       " ",
+       [
+        "span",
+        {},
+        "Fernández"
+       ],
+       " ",
+       [
+        "span",
+        {}
+       ],
+       [
+        "span",
+        {},
+        " morunaf@gmail.com"
+       ],
+       "\n",
+       "\n",
+       "\n",
+       [
+        "span",
+        {},
+        "Instituto de Estudios socioeconómicos, Facultad de Ciencias Económicas, Universidad Nacional de Tucumán"
+       ],
+       ", ",
+       [
+        "span",
+        {},
+        "Argentina"
+       ],
+       "\n",
+       "\n",
+       "\n"
+      ],
+      "\n",
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "Cuadernos de H ideas"
+       ],
+       "\n"
+      ],
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "Universidad Nacional de La Plata, Argentina"
+       ],
+       "\n"
+      ],
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "ISSN: "
+       ],
+       "2313-9048"
+      ],
+      "\n",
+      [
+       "p",
+       {}
+      ],
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "Periodicidad: "
+       ],
+       "Frecuencia continua"
+      ],
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "vol.  16, "
+       ],
+       "núm.  16, ",
+       [
+        "span",
+        {
+         "id": "t-elocation-id"
+        },
+        "e059, "
+       ],
+       [
+        "span",
+        {},
+        "2022"
+       ],
+       "\n"
+      ],
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       "cuadernosdehideas@perio.unlp.edu.ar",
+       "\n"
+      ],
+      "\n",
+      "\n",
+      [
+       "span",
+       {
+        "id": "t-articulo-product"
+       }
+      ],
+      "\n",
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "Recepción: "
+       ],
+       " 15 Marzo  2022"
+      ],
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "Aprobación: "
+       ],
+       " 10 Abril  2022"
+      ],
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "Publicación: "
+       ],
+       " 22 Mayo  2022"
+      ],
+      "\n",
+      [
+       "br",
+       {}
+      ],
+      "\n",
+      [
+       "br",
+       {}
+      ],
+      "\n",
+      "\n",
+      "\n",
+      [
+       "span",
+       {},
+       "URL: "
+      ],
+      [
+       "a",
+       {
+        "href": "http://portal.amelica.org/ameli/journal/31/313286002/"
+       },
+       "http://portal.amelica.org/ameli/journal/31/313286002/"
+      ],
+      "\n",
+      "\n",
+      "\n",
+      [
+       "span",
+       {},
+       "DOI: "
+      ],
+      [
+       "a",
+       {
+        "href": "https://doi.org/10.24215/23139048e059"
+       },
+       "https://doi.org/10.24215/23139048e059"
+      ],
+      "\n",
+      "\n",
+      "\n",
+      [
+       "p",
+       {}
+      ],
+      "\n",
+      "\n",
+      "\n",
+      "\n",
+      [
+       "a",
+       {
+        "href": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+       },
+       [
+        "figura",
+        {}
+       ],
+       [
+        "br",
+        {}
+       ],
+       "\n"
+      ],
+      "Esta obra está bajo una ",
+      [
+       "a",
+       {
+        "href": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+       },
+       "Licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional."
+      ],
+      "\n",
+      "\n",
+      "\n",
+      [
+       "p",
+       {}
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "\n",
+      [
+       "span",
+       {},
+       "Resumen:\n\t\t\t\t\t\t\t                           "
+      ],
+      [
+       "span",
+       {},
+       "En la Argentina, la pandemia de COVID-19 expuso y profundizó los padecimientos contra los que se erigen históricamente las demandas del personal de enfermería: el pluriempleo, la precarización laboral y la falta de reconocimiento profesional, entre otros. Los diez artículos de investigación aquí reunidos y presentados parten de la aplicación de estrategias metodológicas cuantitativas y cualitativas al análisis de entrevistas a personal de enfermería realizadas durante el año 2021, de artículos de la prensa periódica, de las políticas públicas y de datos relevados por una encuesta de carácter nacional. El aporte último de esta propuesta reside en relevar y analizar el impacto de la pandemia de COVID-19 sobre este sector, a lo largo y ancho del territorio nacional. En efecto, el abordaje de las experiencias de la enfermería en Buenos Aires, Chaco, Corrientes, La Pampa, Córdoba, Rosario y Santa Fe permite la reconstrucción de un mapa variado y complejo de sentidos y representaciones y, al mismo tiempo, la visibilización del contenido de las demandas de un sector históricamente subordinado dentro de la estructura sanitaria."
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "\n",
+      [
+       "span",
+       {},
+       "Palabras clave: "
+      ],
+      "enfermería, pandemia, experiencias laborales, representaciones, sentidos.\n\t\t                         "
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "lang": "en"
+      },
+      "\n",
+      [
+       "span",
+       {},
+       "Abstract:\n\t\t\t\t\t\t                           "
+      ],
+      [
+       "span",
+       {},
+       "In Argentina, the COVID-19 pandemic exposed and deepened the conditions against which the demands of nursing personnel have historically been erected: moonlighting, job insecurity and lack of professional recognition, among others. The ten research articles gathered and presented here are based on the application of quantitative and qualitative methodological strategies to the analysis of interviews with nursing personnel carried out during the year 2021, articles from the press, public policies and data collected by a national survey. The ultimate contribution of this proposal lies in surveying and analyzing the impact of the COVID-19 pandemic on this sector, throughout the national territory. Indeed, the approach to nursing experiences in Buenos Aires, Chaco, Corrientes, La Pampa, Córdoba, Rosario and Santa Fe allows the reconstruction of a varied and complex map of meanings and representations and, at the same time, the visibility of the content of the demands of a sector historically subordinated within the health structure."
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "\n",
+      [
+       "span",
+       {},
+       "Keywords: "
+      ],
+      "nursing, pandemic, working experiences, representations, senses.\n                                "
+     ],
+     "\n"
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-articulo-body"
+    },
+    "\n",
+    [
+     "p",
+     {},
+     " La pandemia de COVID-19 puso de relieve, entre otras cosas, la necesidad e importancia de la intervención estatal y de la ciencia para enfrentar los efectos de este tipo de fenómenos. El 19 de marzo de 2020, en la Argentina se decretó un Aislamiento Social Preventivo Obligatorio (ASPO), en el marco del cual se tomaron medidas tendientes a reducir y regular la circulación de personas. Según las autoridades sanitarias, la antelación en la implementación de las recomendaciones para evitar la propagación de la enfermedad permitía también ganar tiempo para aumentar y capacitar al personal sanitario de cuidados críticos, y para ampliar la infraestructura sanitaria requerida (desde las camas de las unidades de terapia intensiva hasta los novedosos espacios de aislamiento). En suma, sostenían que se buscaba evitar un eventual colapso del sistema de salud. En ese contexto, uno de los sectores que cobraría especial relevancia por su vinculación con las tareas necesarias para enfrentar la pandemia sería el personal sanitario. Si bien se tomaron decisiones políticas para conseguir y aumentar los recursos materiales a disposición, fueron más complejas, e incluso insalvables, las limitaciones para alcanzar los recursos humanos requeridos. De esta forma, llegaría una notable intensificación de las tareas de los trabajadores y las trabajadoras de la salud. Durante el mes de septiembre de 2020, la cantidad de contagios y muertes crecía, y se hacía evidente que las restricciones a la circulación no recibían el acatamiento necesario. Por entonces, el Dr. Arnaldo ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286002/html/index.html#redalyc_313286002_ref2"
+      },
+      "Dubin (2020)"
+     ],
+     ", integrante de la Sociedad Argentina de Terapia Intensiva, declaró, contundente: “Somos pocos, agotados, exhaustos, física y emocionalmente, cometemos errores, nos contagiamos, algunos de nuestros compañeros están muertos y estamos trabajando al límite. Estamos discutiendo cuándo se va a saturar el sistema o si puede colapsar. De hecho, nuestro funcionamiento es distinto al habitual, eso significa que hay un grado de saturación y colapso”. Aunque el equipamiento se pudiera adquirir, con enormes dificultades de por medio y en condiciones muy desiguales dependiendo del tipo de cobertura, se requería personal con una formación y una capacitación muy específica, imposible de suplir con rapidez.  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " En particular, las acciones de cuidado de la enfermería reúnen conocimientos y prácticas imbuidas de sentidos relacionales, afectivos y de interdependencia con otros seres humanos, que incluyen la asistencia a pacientes durante el transcurso de su enfermedad y, ocasionalmente, el acompañamiento de personas durante períodos inmediatamente anteriores a su muerte. Como profesión de cuidado, la enfermería se encuentra históricamente feminizada, y la impronta de género persiste al interior de los establecimientos y los equipos de salud, perfilando los modelos y roles asignados a la vocación. Las trabajadoras mujeres de la actividad adquieren una identidad particular por su estrecha vinculación con “lo femenino” y con atributos maternales que responden a discursos que dan significado y naturalizan el acto de cuidar. Así como estos presupuestos, otras características vinculadas a las condiciones de precariedad en las que se lleva a cabo el cuidado, como las formas de contratación, el pluriempleo y el empleo no registrado, expresan la complejidad del proceso de consolidación profesional del sector y remiten a procesos históricos de larga data (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286002/html/index.html#redalyc_313286002_ref1"
+      },
+      "Aspiazu, 2017"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286002/html/index.html#redalyc_313286002_ref4"
+      },
+      "Pereyra y Micha, 2016"
+     ],
+     "). Como reflejan numerosos estudios realizados en distintos lugares del territorio nacional, la formación en instituciones específicas, la adquisición de saberes, los niveles de calificación y el título habilitante, resultan indispensables en dicho proceso. A la vez, este recorrido se encuentra atravesado por otras circunstancias sociales y políticas, que pueden tanto contribuir al reconocimiento profesional del ejercicio de la enfermería como limitarlo (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286002/html/index.html#redalyc_313286002_ref5"
+      },
+      "Ramacciotti, 2020"
+     ],
+     "). "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Los diez trabajos presentados en este dossier constituyen un aporte para reflexionar sobre cómo las ciencias sociales pueden colaborar a la hora de sistematizar información y formular planteos críticos para pensar soluciones y asistir al diseño de políticas públicas. Estos son el resultado de dos proyectos de investigación PISAC enmarcados dentro de las iniciativas del Ministerio de Ciencia, Tecnología e Innovación (MinCyT), para promocionar investigaciones en el campo de las ciencias sociales y humanas, y comprender los impactos sociales de la pandemia. Pese a que son proyectos en curso, suscitan un compromiso social y político entre la ciencia y la sociedad que alumbra un camino para buscar colectivamente soluciones a la crisis social y sanitaria desatada por la pandemia. Uno de estos proyectos, dirigido por Karina Ramacciotti, se titula “La enfermería y los cuidados sanitarios profesionales durante la pandemia y la postpandemia de COVID-19 (Argentina, siglos XX y XXI)”. El otro, dirigido por Anahí Sy, recibe como nombre “Los nuevos escenarios en la salud pública desde las narrativas de sus trabajadores/as”."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n",
+     [
+      "span",
+      {},
+      "Presentación del\ndossier"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " El presente dossier se compone de diez artículos, resultados de investigaciones que indagan, en un contexto particular para Argentina y para el mundo, las representaciones y las resignificaciones en torno al trabajo en el ámbito de la salud, atendiendo a los cambios en las rutinas laborales, el impacto emocional y los sentidos implícitos en las acciones de cuidado. A la luz de la pandemia, y partiendo de un conjunto variado de recursos y estrategias metodológicas, tales como entrevistas en profundidad a representantes del sector de la enfermería, el relevamiento de políticas públicas y prensa periódica y el análisis de datos obtenidos de una encuesta de carácter nacional, se rescatan y contextualizan las experiencias laborales del personal de la enfermería en establecimientos sanitarios y en centros de aislamiento. De esta forma, se construyen narrativas que recuperan dinámicas que exceden lo individual y reflejan motivaciones, dificultades y vivencias colectivas.  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Son tres los ejes que agrupan a estas distintas propuestas, teniendo en cuenta los objetivos y análisis que las estructuran. El primero de estos comprende trabajos que tienen en cuenta las experiencias comunes y particularidades del trabajo de la enfermería durante la pandemia. Asimismo, iluminan el impacto de la pandemia en las prácticas laborales, visibilizando transformaciones, con los matices existentes en cada espacio regional y socioeconómico. Entre estos se incluyen estudios realizados en las provincias de Buenos Aires, Córdoba, Chaco, Corrientes y La Pampa. "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " En “Trabajar en enfermería durante la pandemia”, Karina Ramacciotti analiza las representaciones asociadas a las tareas del sector de la enfermería en la ciudad de Buenos Aires y en la zona sur del conurbano bonaerense, evidenciando los principales cambios producidos en relación a las rutinas laborales, la implementación de protocolos, el uso de equipos de protección y los tratamientos. Además, se identifican los problemas e incertidumbres que vivieron los trabajadores en el proceso de adaptación a los cambios, atravesado por temores y dudas que marcaban la experiencia cotidiana. Así, se retrata un clima de tensiones, derivado de la falta de consensos respecto a ciertas medidas y frente a momentos límites, de los conflictos al interior de los establecimientos sanitarios, de cuestiones de índole afectiva o de las difíciles decisiones que se debieron tomar en el marco del rol de acompañamiento de pacientes próximos al final de sus vidas. Por otro lado, los relatos de los protagonistas denuncian tanto las dificultades estructurales propias del sector como su agravamiento y mayor visibilización durante la pandemia. "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Buenos Aires y las ciudades de La Plata, Berisso y Ensenada son también el escenario del estudio de Canela Gavrila y Adriana Cuenca en “Representaciones sociales sobre la feminización de cuidados en enfermería”. Aquí, las autoras exploran los rasgos del cuidado y del trabajo de la enfermería vinculados a la feminización de la vocación. A su vez, nos muestran el desafío de un contexto que demanda nuevos aprendizajes. Por un lado, vemos cómo las capacitaciones en las instituciones sanitarias y las que realizaban las trabajadoras por su propia cuenta suponían hacer frente a estas novedosas exigencias y formas de organización de sus actividades laborales y sus hogares. Por otro, apreciamos cómo las particularidades del trabajo en pandemia destacaron las fuertes representaciones de la enfermería alrededor del sacrificio, a la entrega en la atención de pacientes y a la asunción de responsabilidades relacionadas a la elección profesional -signos de la impronta de la feminización y de la vocación-, pero también ampliaron los cuestionamientos a la falta de reconocimiento. "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Las investigaciones para la provincia de Buenos Aires antes reseñadas derivan de registros y entrevistas del personal de enfermería de establecimientos sanitarios públicos y privados tradicionales, que permiten trazar un panorama de experiencias vinculadas al descontento y a los reclamos del personal por sus condiciones laborales. Desde otra perspectiva, el artículo de Grisel Adissi y Lía Ferrero “Oportunidades en pandemia. Enfermería en Tecnópolis” supone una novedad significativa, tratándose del análisis de un caso particular -el centro de aislamiento en Tecnópolis- que resultó innovador en su concepción en cuanto a espacio, pero también a su capacidad, sus instalaciones, medidas de bioseguridad, comodidades y pautas relacionales. A través de los testimonios de trabajadoras que se incorporaron a este centro sanitario, se exponen diversos rasgos del trabajo diario y de los vínculos al interior del espacio -con pacientes o “residentes” y con el resto del personal-, resaltando aspectos singulares. De esta forma asoma una contraposición. De un lado, la experiencia en Tecnópolis, que brindó a las trabajadoras mejores condiciones laborales, con tiempos de descanso, salarios más altos, recursos materiales, reconocimiento y jerarquización de las tareas que realizaban. Del otro, escenarios e instituciones sanitarias donde algunas habían trabajado o todavía trabajaban, con largas jornadas de trabajo, bajos salarios, mayores obligaciones y falta de valoración. "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Marina Campusano, Nahuel Castelo y Lara Gutnisky en “De la casa al trabajo. Imágenes de la cotidianeidad de la enfermería en Chaco y Corrientes”, exponen los efectos de la pandemia en el trabajo sanitario en parte del norte del país. A lo largo de su trabajo, distinguirán etapas en cuanto a la implementación de los cambios, que comprendían nuevas medidas de protección para el personal, pautas de trabajo y nuevos protocolos. Cuando apuntalan la vinculación de la pandemia con las mayores exigencias por el tipo de tareas y la extensión de la jornada de trabajo, no dejan de destacar tampoco los efectos de la emergencia sanitaria en lo emocional y lo cotidiano. Entonces se reconstruye un contexto signado por temores e incertidumbres, que requerían mayores esfuerzos de las trabajadoras, la búsqueda de apoyo entre compañeros y la implementación de nuevas estrategias de trabajo. "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " En una línea similar, Lorena Cuesta, Cecilia Johnson y Lila Aizenberg, identifican cuestiones centrales vinculadas a los cambios y a las dificultades en el trabajo de la enfermería y la resignificación de la relación con los pacientes, en su investigación “La enfermería en tiempos de crisis sanitaria: la asistencia y el cuidado por COVID en Córdoba”. Mientras abordan las singularidades que adquirían los vínculos en la pandemia y las restricciones que traía el aislamiento, resaltan los nuevos conocimientos y esfuerzos que el sector de la enfermería debía afrontar, fundamentalmente en las situaciones de acompañamiento a los pacientes que transitaban la enfermedad o se encontraban próximos a su muerte. Respecto a las prácticas desarrolladas, advierten una mayor valoración profesional, junto con la persistencia de modalidades de atención, formas de subordinación, desigualdades de género y estereotipos vinculados a las tradicionales representaciones de la vocación. "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " La Pampa es el escenario de la investigación de María José Billorou y Lía Norverto. “No hay cuerpo con el que dar respuesta. Enfermería, género y pandemia en tiempos de COVID” pone el foco en el sistema de salud y en la realidad sanitaria local para señalar las características y las particularidades del trabajo de enfermería. En adición, distingue los principales problemas del sector, vinculados a limitaciones en la formación profesional, la existencia de auxiliares en número significativo –casi sin relevancia en otras regiones–, la escasez de enfermeras profesionales y la falta de espacios gremiales. En esta provincia, el déficit de enfermeras destaca por su magnitud, mientras la emergencia sanitaria acentúa rasgos preexistentes como el pluriempleo y las extensas jornadas de trabajo. Entretanto, el cuidado asociado a la vocación, el tipo de atención, el acompañamiento a los pacientes y las estrategias de apoyo a las familias siguen apareciendo vinculados a un componente moral y emocional anclado en lo socioafectivo. "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " El segundo eje de trabajos, ambientado en las ciudades de Mar del Plata y Rosario, abarca caracterizaciones de las protestas y movilizaciones en tiempos de pandemia. Dada la vigencia de las medidas de confinamiento, las formas de protesta y expresiones organizadas sufrieron modificaciones, muchas veces redundantes en su reducción en tamaño y cantidad. Mientras, el sector de la enfermería daba cuenta de mayores reclamos en relación al incremento de las exigencias laborales, de mayores riesgos de contagio y de carencias, como la de elementos de bioseguridad (especialmente sentida en los primeros meses de la pandemia). Aquí se sitúa esta situación en perspectiva, atendiendo a que las condiciones laborales vinculadas a las profesiones de cuidado arrastran un conjunto de tensiones y demandas irresueltas de larga data: el pluriempleo, la feminización, los salarios desactualizados, las jornadas de trabajo largas y extenuantes. "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " En “A nosotros no nos sirven los aplausos. De la vocación a la visibilización de trabajadores de la salud pública durante la pandemia en Mar del Plata”, de Valeria Alonso, María Mercedes Hoffmann, Paula Romero, Laura Sánchez, Paula Posada Campoy, Sonia Fuertes y Mariel Varela, se recuperan narrativas de diferentes integrantes de los equipos de salud. Para ello, se recurre a la realización de entrevistas en profundidad. Así, las autoras dejan ver que, en la ciudad costera los reclamos fueron principalmente por el derecho a un sueldo digno y al reconocimiento de la profesión. A la vez, las entrevistas apuntalan la falta de recursos humanos, de espacios de diálogo para con el personal, la falta de recategorizaciones profesionales y un escaso reconocimiento salarial. De nuevo, la precariedad se conjuga con el aumento de las responsabilidades y tareas durante la pandemia. Entre las particularidades de este análisis, destaca la atención a las características del pluriempleo. Durante la pandemia, quienes poseían un puesto principal, con mayor estabilidad (generalmente en el sector público), debieron muchas veces reducir o cesar otras fuentes laborales, dado el incremento de la intensidad de la carga laboral, pero también de las tareas del cuidado familiar de niños y personas mayores en los hogares. De esta forma, se vieron afectados negativamente los ingresos mensuales de quienes debieron tomar esta decisión, tratándose principalmente de mujeres. "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Esteban Iglesias, Juan Bautista Lucca y Natacha Bacolla, realizan en “Protestas sociales del sector salud en pandemia: análisis de la enfermería en la prensa de Rosario” analizan los eventos de protesta y las acciones colectivas realizadas por trabajadores y representantes del sector de la salud en el primer año de la pandemia (marzo de 2020 a marzo de 2021). En adición, proponen una conceptualización de los cambios experimentados por las formas de reclamar. Primero, el trabajo parte de un entrecruzamiento de cuestiones teóricas y de datos empíricos que marca el relevamiento y análisis de notas periodísticas vinculadas a conflictos sociales. Luego, se concluye que el sector de la salud tuvo una relevancia notable en los medios hegemónicos de la ciudad de Rosario. A pesar de que los reclamos presenciales estuvieron limitados, queda claro que no se produjo un cese de las demandas, sino que estas se realizaron de otras formas, ascendentes, como “solicitadas de prensa” o ya tradicionales, como la ocupación del espacio público o la huelga. En este marco, se exigieron mejoras en las condiciones de trabajo relacionadas con el salario, la estabilidad laboral, la seguridad y la higiene. Además, se reclamó una mayor regulación estatal del ejercicio profesional. Por otro lado, las protestas aparecen principalmente dirigidas a las autoridades provinciales en sus diferentes áreas de gestión. Si bien existieron algunas respuestas estatales como el pago de bonos y el establecimiento de canales de diálogo, escasearon mejoras en la composición del salario y en las condiciones laborales. "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " El tercer conjunto de artículos aquí reunidos se centra en los dilemas éticos del trabajo de la enfermería, en las experiencias y los sentidos del miedo en el contexto de la pandemia. En esa sintonía se desarrolla “Entre la necesidad y la virtud. Dilemas éticos del cuidado de enfermería en pandemia”, de Anahí Sy, Paula Derossi, Francisco Gelman Constantin, Cinthia Sapienza, Brenda Moglia. Mediante la reconstrucción de las narrativas de quienes trabajan en los hospitales de la zona sur del conurbano bonaerense y La Plata, se da cuenta de los conflictivos entrelazamientos de las dimensiones materiales y afectivas que configuran las prácticas de enfermería en el escenario de la emergencia sanitaria. A lo largo de este trabajo, aparecen las tensiones entre los mandatos y las expectativas que configuran las representaciones del “buen profesional”, y los dilemas que surgieron durante la pandemia, con los nuevos protocolos y prácticas. Aunque se puede ver el carácter vocacional y altruista del cuidado, también encontramos contradicciones y sufrimientos que se potencian en este novedoso contexto. En este caso, el elemento del sacrificio aparece ilustrado con los casos de trabajo con recursos escasos, aparejados a la puesta en riesgo de la propia salud del personal sanitario. Pese a que la mejora de las condiciones de trabajo continúa siendo objeto de los reclamos a las autoridades, otras carencias como el sufrimiento psíquico o mental rara vez logran constituirse en objeto o materia de reivindicaciones. En cambio, prima la imagen de un trabajador devoto que puede y debe controlar sus emociones; representación profesional que conduce a la naturalización de los padecimientos.  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " “Enfermería y subjetividades en pandemia”, de Mariela Rubinzal, Paula Sedrán y Viviana Bolcatto, ambientada en Santa Fe, hace una meticulosa reconstrucción de los sucesos y matices locales de la pandemia en esta importante ciudad e introduce el tema de los muy variados reconocimientos simbólicos al personal de enfermería. Desde los aplausos a las referencias mediáticas y políticas con metáforas ligadas a la guerra y al heroísmo se sucedieron con el fin de perfilar el agradecimiento a la difícil labor del personal sanitario. Sin embargo, junto a estas expresiones de reconocimiento existía en Rosario una emergente lucha gremial que buscaba la modificación de las condiciones salariales y de contratación de quienes eran objeto de los homenajes. Para las autoras, la pandemia profundizó algunos tópicos que se venían estudiando en la ciudad (como el síndrome de Burnout), pero también propició la aparición de nuevas conceptualizaciones relacionadas específicamente al miedo. En cierto sentido, surgió una estrategia defensiva que induce al personal de enfermería a vincular el miedo con el potencial contagio a familiares, al propio contagio y a la exposición al delito en el traslado entre el trabajo y el hogar. "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " En suma, los diez artículos integran estrategias metodológicas propias de las ciencias sociales y distintas dimensiones de análisis sobre la realidad laboral y extralaboral de trabajadores y trabajadoras de la salud, de sus muy diferentes espacios de interacción, de sus nuevos aprendizajes y sus roles durante la pandemia. Las experiencias que atravesaron al sector de la enfermería fueron similares respecto a la adopción de protocolos y medidas de seguridad, a tareas y exigencias de cuidado que se presentaron, a las formas de asistencia y relación con los pacientes, a las modalidades de ejercicio profesional y a sus sentidos, y a los fuertes impactos emocionales. Los testimonios, recurso común de estos trabajos, expresaron contundentemente los efectos psicológicos de la pandemia y de la necesidad de dar respuesta a las exigencias laborales. "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Los reclamos históricos de la enfermería, como han relevado estos trabajos, han cobrado una clara relevancia, producto del lugar visiblemente esencial en el que ha quedado el sector como consecuencia de la emergencia sanitaria, a la hora de prevenir, curar y asistir, pero también de acompañar en la muerte. Junto a las consecuencias socioeconómicas de la pandemia, la base de las demandas se ha agudizado, dada la profundización de las situaciones de precariedad. Las representaciones del acto de cuidado continúan vinculadas a la responsabilidad y a la vocación, permeadas usualmente por su feminización, pero los cuestionamientos asoman de la mano de los reclamos por la valoración material y simbólica de la actividad. "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " A partir del conocimiento del primer caso de SARS-CoV-2, el gobierno nacional argentino se destacó, entre sus pares de la región, por tomar medidas de aislamiento tempranas. Estas dieron aire para el equipamiento del sistema sanitario y la impartición de capacitaciones y, consecuentemente, para evitar un rápido colapso del sistema sanitario (Nercesian, Cassaglia & Morales Castro, ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286002/html/index.html#redalyc_313286002_ref3"
+      },
+      "2021"
+     ],
+     "). No obstante, resta que las demandas históricas del sector de la enfermería, ahora especialmente visibles, se conviertan en materia de debate y, aun mejor, en objeto de intervención estatal. Estas investigaciones, que permiten conocer las condiciones de trabajo, las representaciones y los reclamos de dicho sector se inscriben en un contexto de profundas tensiones que les da relevancia; son parte de una apuesta que intenta modificar el lugar subordinado de la enfermería que, abrigando al mayor contingente de fuerza de trabajo sanitaria, se encuentra tan lejos de los espacios de toma de decisiones."
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-back"
+    },
+    "\n",
+    [
+     "p",
+     {},
+     "\n",
+     [
+      "span",
+      {},
+      "Referencias"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286002_ref1"
+     },
+     "Aspiazu, E. (2017).\nLas condiciones laborales de las y los enfermeros en Argentina: entre la\nprofesionalización y la precariedad del cuidado en la salud. ",
+     [
+      "span",
+      {},
+      "Trabajo y Sociedad"
+     ],
+     ",\n(28), 11-35. Recuperado de ",
+     [
+      "a",
+      {
+       "href": "http://www.scielo.org.ar/scielo.php?script=sci_abstract&pid=S1514-68712017000100002&lng=es&nrm=iso"
+      },
+      "http://www.scielo.org.ar/scielo.php?script=sci_abstract&pid=S1514-68712017000100002&lng=es&nrm=iso"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286002_ref2"
+     },
+     "Dubin, A. (2020). “La tan criticada cuarentena ha salvado\ninfinidad de vidas” [Entrevista radiofónica]. Radio Universidad.\nRecuperado de ",
+     [
+      "a",
+      {
+       "href": "https://www.radiouniversidad.unlp.edu.ar/entrevista-arnaldo-dubin-la-tan-criticada-cuarentena-ha-salvado-infinidad-de-vidas/"
+      },
+      "https://www.radiouniversidad.unlp.edu.ar/entrevista-arnaldo-dubin-la-tan-criticada-cuarentena-ha-salvado-infinidad-de-vidas/"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286002_ref3"
+     },
+     "Nercesian, I.,\nCassaglia, R. y Morales Castro, V. (2021). Pandemia y políticas sociosanitarias\nen América Latina. ",
+     [
+      "span",
+      {},
+      "Apuntes. Revista de Ciencias Sociales"
+     ],
+     ", 48(89),\n65-94. ",
+     [
+      "a",
+      {
+       "href": "https://doi.org/10.21678/apuntes.89.1466"
+      },
+      "https://doi.org/10.21678/apuntes.89.1466"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286002_ref4"
+     },
+     "Pereyra, F. y Micha,\nA. (2016). La configuración de las condiciones laborales de la enfermería en el\nÁrea Metropolitana de Buenos Aires: un análisis en el cruce del orden de género\ny la organización del sistema de salud, ",
+     [
+      "span",
+      {},
+      "Salud Colectiva"
+     ],
+     ", 12(2), 221-238. ",
+     [
+      "a",
+      {
+       "href": "https://doi.org/10.18294/sc.2016.730"
+      },
+      "https://doi.org/10.18294/sc.2016.730"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286002_ref5"
+     },
+     "Ramacciotti, K. (Dir.)\n(2020). El cuidado sanitario. Hacia\nuna historia de la enfermería en Argentina. En ",
+     [
+      "span",
+      {},
+      "Historias de la enfermería en\nArgentina. Pasado y presente de una profesión"
+     ],
+     ". José C. Paz,\nArgentina: EDUNPAZ. Recuperado de ",
+     [
+      "a",
+      {
+       "href": "https://edunpaz.unpaz.edu.ar/OMP/index.php/edunpaz/catalog/book/49"
+      },
+      "https://edunpaz.unpaz.edu.ar/OMP/index.php/edunpaz/catalog/book/49"
+     ],
+     "\n"
+    ],
+    "\n"
+   ],
+   "\n"
+  ],
+  "\n",
+  [
+   "span",
+   {
+    "id": "t-creditos"
+   },
+   "\n",
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-logo-izquierda"
+    },
+    "\n",
+    [
+     "figura",
+     {}
+    ]
+   ],
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-mensaje"
+    },
+    "Modelo de publicación sin fines de lucro para conservar la naturaleza académica y abierta de la comunicación científica",
+    [
+     "br",
+     {}
+    ],
+    "HTML generado a partir de XML-JATS4R"
+   ],
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-logo-derecha"
+    },
+    "\n",
+    [
+     "figura",
+     {}
+    ]
+   ],
+   "\n",
+   "\n"
+  ],
+  "\n\n\n"
+ ]
+};

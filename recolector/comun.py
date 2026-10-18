@@ -16,12 +16,14 @@ import urllib.parse
 import urllib.request
 
 VERSION_DATOS = 1
-CONTACTO = os.environ.get("CONTACTO_EMAIL", "").strip()
-AGENTE = "RevistasSociologia/1.0 (+https://github.com/loquetucuentas/Revistas-Sociologia"
-AGENTE += f"; mailto:{CONTACTO})" if CONTACTO else ")"
+# Dirección de contacto del responsable del proyecto, para que cualquier
+# servidor sepa a quién escribir. Se puede cambiar con CONTACTO_EMAIL.
+CONTACTO = os.environ.get("CONTACTO_EMAIL", "").strip() or "loquetucuentas@gmail.com"
+AGENTE = (f"RevistasSociologia/1.1 (+https://github.com/loquetucuentas/Revistas-Sociologia; "
+          f"mailto:{CONTACTO})")
 
 # Pausa mínima entre peticiones al mismo servidor, en segundos.
-PAUSA = float(os.environ.get("RECOLECTOR_PAUSA", "1.0"))
+PAUSA = max(2.0, float(os.environ.get("RECOLECTOR_PAUSA", "2.0")))
 _ultima_peticion = {}
 
 

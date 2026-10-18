@@ -1,0 +1,45 @@
+# Recoge el texto completo de los artículos cuya licencia lo permite.
+# Solo se lanza a mano, desde la pestaña Actions, hasta revisar los resultados.
+name: Recoger textos completos
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: recolectar
+  cancel-in-progress: false
+
+jobs:
+  textos:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Pruebas del recolector
+        run: python -m unittest discover -s recolector/pruebas
+
+      - name: Metadatos y licencias desde Crossref
+        run: python recolector/texto_completo.py metadatos
+
+      - name: Textos desde las webs de las revistas
+        run: python recolector/texto_completo.py textos
+
+      - name: Guardar los cambios si los hay
+        run: |
+          git add -A data
+          if git diff --cached --quiet; then
+            echo "Los datos no han cambiado."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Actualizar textos completos ($(date -u +%Y-%m-%d))"
+          git push

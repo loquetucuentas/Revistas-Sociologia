@@ -1,0 +1,289 @@
+// Copia de textos/10-47796-ra-2025i28-1291.json para abrir la aplicación sin servidor.
+(window.DATOS_REVISTAS = window.DATOS_REVISTAS || {})["textos/10-47796-ra-2025i28-1291.json"] = {
+ "version": 1,
+ "recogido": "2026-10-18T11:35:19+00:00",
+ "doi": "10.47796/ra.2025i28.1291",
+ "titulo": "Editorial",
+ "revista": "2617-0892",
+ "numero": "n28-2025",
+ "licencia": {
+  "codigo": "by",
+  "nombre": "CC BY 4.0",
+  "nombre_completo": "Creative Commons Atribución 4.0 Internacional",
+  "url": "http://creativecommons.org/licenses/by/4.0",
+  "url_legal": "https://creativecommons.org/licenses/by/4.0/legalcode.es"
+ },
+ "fuente": {
+  "url": "https://revistas.upt.edu.pe/ojs/index.php/arquitek/article/download/1291/1167?inline=1",
+  "formato": "HTML",
+  "plataforma": "ojs-galerada",
+  "pagina": "https://revistas.upt.edu.pe/ojs/index.php/arquitek/article/view/1291"
+ },
+ "autores_cita": [
+  {
+   "apellidos": "Gonzales Muñiz",
+   "nombre_pila": "Nelly Luzgarda",
+   "nombre": null
+  }
+ ],
+ "avisos_derechos": [
+  "Derechos de autor 2025 Nelly Luzgarda Gonzales Muñiz",
+  "Licencia Derechos de autor 2025 Nelly Luzgarda Gonzales Muñiz Esta obra está bajo una licencia internacional Creative Commons Atribución 4.0."
+ ],
+ "idioma_principal": "es",
+ "indice": [],
+ "vueltas": {},
+ "contenido": [
+  "\r\n\r\n",
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "a",
+    {
+     "id": "t-_Hlk123178705"
+    }
+   ],
+   [
+    "span",
+    {},
+    "ARQUITEK"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "EDICIÓN\r\nN°28",
+    [
+     "span",
+     {},
+     "   "
+    ],
+    "| ",
+    [
+     "a",
+     {
+      "id": "t-_Hlk139134701"
+     },
+     "Julio -\r\nDiciembre 202"
+    ],
+    "5 | Edición online ISSN-2617-0892"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    "DOI: "
+   ],
+   [
+    "a",
+    {
+     "id": "t-_Hlk139413149"
+    }
+   ],
+   [
+    "a",
+    {
+     "href": "https://doi.org/10.47796/ra.2025i28%0d"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {
+       "lang": "en"
+      },
+      "https://doi.org/10.47796/ra.2025i2"
+     ]
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "8"
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "a",
+    {
+     "id": "t-_heading-h-gjdgxs"
+    }
+   ],
+   [
+    "a",
+    {
+     "id": "t-_heading-h-z64p9x4yiaqu"
+    }
+   ],
+   [
+    "b",
+    {},
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     [
+      "span",
+      {},
+      " "
+     ]
+    ]
+   ],
+   [
+    "b",
+    {},
+    [
+     "span",
+     {
+      "lang": "en"
+     }
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "b",
+    {},
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     " "
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "b",
+    {},
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "EDITORIAL"
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   "En esta\r\nvigésima octava edición de la Revista Científica ARQUITEK, se refleja la\r\nnaturaleza y la práctica cotidiana de uno de los pilares fundamentales de la\r\nformación universitaria que es la investigación, permitiéndonos transmitir\r\nhallazgos, experiencias, revisiones, pero al mismo tiempo la dedicación,\r\nesfuerzo y compromiso de cada uno de los autores de los artículos seleccionados\r\npara esta edición."
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   "Nuestra\r\nrevista no sólo es un medio de difusión sino más bien de validación del\r\nconocimiento científico, el debate académico y la conexión entre la ciencia y\r\nla sociedad, lo hacen un indicador de prestigio, que es clave de la\r\nproductividad y relevancia investigativa. "
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   "De allí que\r\nlos artículos referidos al Paisaje Agrícola de la Amazonía, resaltan el enfoque\r\nde servicios ecosistémicos, por la multifuncionalidad de sus servicios los que\r\ngeneran también múltiples beneficios en pro de la mejora de la calidad de vidas\r\nde sus habitantes."
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   "Los artículos\r\nreferidos al Artivismo muralista, Esculturas lumínicas y sonoras y el Parque\r\nbiblioteca con integración social y cultural, se tornan importantes porque\r\nhacen comprender que la construcción de la identidad de las personas, la\r\npreservación y transmisión de la herencia cultural desarrolla en los\r\nciudadanos, un sentimiento con sentido de pertenencia y unidad y fortalece\r\ngenuinamente la cohesión social y la preservación de la cultura y el\r\npatrimonio. Del mismo modo el artículo, La Arquitectura como relato de\r\nIdentidad, resalta que todo espacio habitado encarna identidad y ello deja\r\nhuellas de memoria que trascienden época y usos. "
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   "Los artículos\r\nreferidos a Tejidos urbanos y expansión urbana referidos a las capitales\r\nregionales del sur peruano, como a la Accesibilidad y habitabilidad en el\r\nParque Amauta del Cusco, resaltan la importancia de los instrumentos de\r\nPlanificación por ende del conocimiento, manejo y aplicación de la normatividad\r\nurbana, ya que sin ellas las ciudades enfrentarían problemas múltiples de\r\nhabitabilidad y funcionalidad urbana."
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   "Finalmente\r\nagradezco y reconozco de sobremanera la contribución de los miembros del comité\r\neditorial, el comité científico, los autores de los diferentes artículos,\r\nporque esta labor fomenta a la comunidad científica y coadyuva la colaboración\r\ny transparencia de los involucrados en el avance del conocimiento."
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   " "
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   " "
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "b",
+    {},
+    [
+     "i",
+     {},
+     "Dra. Nelly Gonzales\r\nMuñiz"
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "b",
+    {},
+    "EDITOR Y JEFE"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   " "
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "b",
+    {},
+    [
+     "span",
+     {},
+     " "
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  "\r\n\r\n"
+ ]
+};

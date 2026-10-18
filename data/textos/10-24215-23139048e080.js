@@ -1,0 +1,782 @@
+// Copia de textos/10-24215-23139048e080.json para abrir la aplicación sin servidor.
+(window.DATOS_REVISTAS = window.DATOS_REVISTAS || {})["textos/10-24215-23139048e080.json"] = {
+ "version": 1,
+ "recogido": "2026-10-18T11:48:51+00:00",
+ "doi": "10.24215/23139048e080",
+ "titulo": "Reseña a Aldo Manucio (2021). De re impressoria. Cartas prologales del primer editor.",
+ "revista": "2313-9048",
+ "numero": "v17-n17-2023",
+ "licencia": {
+  "codigo": "by-nc-sa",
+  "nombre": "CC BY-NC-SA 4.0",
+  "nombre_completo": "Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional",
+  "url": "https://creativecommons.org/licenses/by-nc-sa/4.0",
+  "url_legal": "https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.es"
+ },
+ "fuente": {
+  "url": "https://perio.unlp.edu.ar/ojs/index.php/cps/article/download/8167/7292/35537?inline=1",
+  "formato": "HTML",
+  "plataforma": "ojs-galerada",
+  "pagina": "https://perio.unlp.edu.ar/ojs/index.php/cps/article/view/8167"
+ },
+ "autores_cita": [
+  {
+   "apellidos": "Pereyra",
+   "nombre_pila": "Osvaldo Víctor",
+   "nombre": null
+  }
+ ],
+ "avisos_derechos": [
+  "Derechos de autor 2023 Cuadernos de H ideas",
+  "Licencia Derechos de autor 2023 Cuadernos de H ideas Esta obra está bajo una licencia internacional Creative Commons Atribución-NoComercial-CompartirIgual 4.0. La aceptación de un original por parte de la revista implica la cesión no exclusiva de los derechos patrimoniales de los/as autores/as en favor del editor, quien permite la reutilización, luego de su edición (postprint), bajo una Licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0) Acorde a estos términos, el material se puede compartir (copiar y redistribuir en cualquier medio o formato) y adaptar (remezclar, transformar y crear a partir del material otra obra), siempre que a) se cite la autoría y la fuente original de su publicación (revista y URL de la obra), b) no se use para fines comerciales y c) se mantengan los mismos términos de la licencia. La cesión de derechos no exclusivos implica que luego de su edición (postprint) en Cuadernos de H ideas las/os autoras/es pueden publicar su trabajo en cualquier idioma, medio y formato; en tales casos, se solicita que se consigne que el material fue publicado originalmente en esta revista. Tal cesión supone, también, la autorización de los/as autores/as para que el trabajo sea cosechado por SEDICI, el repositorio institucional de la Universidad Nacional de La Plata, y sea difundido en las bases de datos que el equipo editorial considere adecuadas para incrementar la visibilidad de la publicación y de sus autores/as. Asimismo, la revista incentiva a las/os autoras/es para que luego de su publicación en Cuadernos de H ideas depositen sus producciones en otros repositorios institucionales y temáticos, bajo el principio de que ofrecer a la sociedad la producción científica y académica sin restricciones contribuye a un mayor intercambio del conocimiento global."
+ ],
+ "idioma_principal": "es",
+ "indice": [],
+ "vueltas": {},
+ "contenido": [
+  [
+   "span",
+   {
+    "id": "t-MathJax_Message"
+   }
+  ],
+  "\n",
+  [
+   "span",
+   {
+    "id": "t-visor-cabecera"
+   },
+   "\n",
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-logo-institucion"
+    },
+    "\n",
+    [
+     "figura",
+     {}
+    ]
+   ],
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-logo-revista"
+    },
+    "\n",
+    [
+     "figura",
+     {}
+    ]
+   ],
+   "\n",
+   "\n"
+  ],
+  "\n",
+  [
+   "span",
+   {
+    "id": "t-articulo"
+   },
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-front"
+    },
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-articulo-categoria"
+     },
+     "\n",
+     [
+      "p",
+      {},
+      "Reseñas"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-articulo-meta"
+     },
+     "\n",
+     [
+      "p",
+      {},
+      "Reseña a Aldo Manucio (2021). De re impressoria. Cartas prologales del primer editor. Selección, traducción y notas de Ana Mosqueda, Ampersand, 174 pp."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "Review\nto Aldo Manucio (2021). De re impressoria. Cartas prologales del primer editor.\nSelección, traducción y notas de Ana Mosqueda, Ampersand, 174 pp."
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-articulo-acerca"
+     },
+     "\n",
+     [
+      "span",
+      {
+       "id": "t-ficha-general"
+      },
+      "\n",
+      [
+       "span",
+       {
+        "id": "t-autores-articulo"
+       },
+       "\n",
+       "\n",
+       "\n",
+       [
+        "a",
+        {
+         "href": "https://orcid.org/0000-0001-6206-7575"
+        },
+        [
+         "figura",
+         {}
+        ]
+       ],
+       "  ",
+       [
+        "span",
+        {},
+        "Osvaldo Víctor"
+       ],
+       " ",
+       [
+        "span",
+        {},
+        "Pereyra"
+       ],
+       " ",
+       [
+        "span",
+        {}
+       ],
+       [
+        "span",
+        {},
+        " vopereyra@gmail.com"
+       ],
+       "\n",
+       "\n",
+       "\n",
+       [
+        "span",
+        {},
+        "Universidad Nacional de La Plata"
+       ],
+       ", ",
+       [
+        "span",
+        {},
+        "Argentina"
+       ],
+       "\n",
+       "\n",
+       "\n"
+      ],
+      "\n",
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "Cuadernos de H ideas"
+       ],
+       "\n"
+      ],
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "Universidad Nacional de La Plata, Argentina"
+       ],
+       "\n"
+      ],
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "ISSN: "
+       ],
+       "1851-8206"
+      ],
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "ISSN-e: "
+       ],
+       "2313-9048"
+      ],
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "Periodicidad: "
+       ],
+       "Frecuencia continua"
+      ],
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "vol.  17, "
+       ],
+       "núm.  17, ",
+       [
+        "span",
+        {
+         "id": "t-elocation-id"
+        },
+        "e080, "
+       ],
+       [
+        "span",
+        {},
+        "2023"
+       ],
+       "\n"
+      ],
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       "direccion.publicaciones@perio.unlp.edu.ar",
+       "\n"
+      ],
+      "\n",
+      "\n",
+      [
+       "span",
+       {
+        "id": "t-articulo-product"
+       },
+       "\n",
+       [
+        "table",
+        {},
+        "\n",
+        [
+         "tbody",
+         {},
+         [
+          "tr",
+          {},
+          "\n",
+          [
+           "th",
+           {},
+           [
+            "span",
+            {},
+            [
+             "figura",
+             {}
+            ]
+           ]
+          ],
+          [
+           "th",
+           {},
+           [
+            "span",
+            {},
+            "Manucio AldoMosqueda Ana. De re impressoria. Cartas prologales del primer editor. 2021. Ampersand. 174pp."
+           ]
+          ],
+          "\n"
+         ],
+         "\n"
+        ]
+       ],
+       "\n"
+      ],
+      "\n",
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "Recepción: "
+       ],
+       " 02 Octubre  2023"
+      ],
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "Aprobación: "
+       ],
+       " 30 Octubre  2023"
+      ],
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "Publicación: "
+       ],
+       " 16 Noviembre  2023"
+      ],
+      "\n",
+      [
+       "br",
+       {}
+      ],
+      "\n",
+      [
+       "br",
+       {}
+      ],
+      "\n",
+      "\n",
+      "\n",
+      [
+       "span",
+       {},
+       "URL: "
+      ],
+      [
+       "a",
+       {
+        "href": "http://portal.amelica.org/ameli/journal/31/313799009/"
+       },
+       "http://portal.amelica.org/ameli/journal/31/313799009/"
+      ],
+      "\n",
+      "\n",
+      "\n",
+      [
+       "span",
+       {},
+       "DOI: "
+      ],
+      [
+       "a",
+       {
+        "href": "https://doi.org/10.24215/23139048e080"
+       },
+       "https://doi.org/10.24215/23139048e080"
+      ],
+      "\n",
+      "\n",
+      "\n",
+      [
+       "p",
+       {}
+      ],
+      "\n",
+      "\n",
+      "\n",
+      "\n",
+      [
+       "a",
+       {
+        "href": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+       },
+       [
+        "figura",
+        {}
+       ],
+       [
+        "br",
+        {}
+       ],
+       "\n"
+      ],
+      "Esta obra está bajo una ",
+      [
+       "a",
+       {
+        "href": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+       },
+       "Licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional."
+      ],
+      "\n",
+      "\n",
+      "\n",
+      [
+       "p",
+       {}
+      ],
+      "\n"
+     ],
+     "\n"
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-articulo-body"
+    },
+    "\n",
+    [
+     "p",
+     {},
+     "Un libro que habla del “libro” o de los “libros”. Que nos remite a pensar en ese artefacto cultural polifónico como una estructura ordenada, soporte material de un campo amplio de interrogación interdisciplinar al que denominamos modernamente como ",
+     [
+      "span",
+      {},
+      "historia del libro"
+     ],
+     " o ",
+     [
+      "span",
+      {},
+      "estudios sobre la cultura impresa"
+     ],
+     " y que tiene sus orígenes en disciplinas tan diversas como los estudios bibliográficos, literarios, sociológicos, antropológicos, de historia económica y social, etc. El libro adquiere, así, una centralidad objetiva pudiendo ser también considerado objeto artístico, de trasmisión de ideas, constructo simbólico complejo que forman parte inescindible de la cultura, del comercio y de la civilización moderna cristiana occidental."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Como ha señalado un cultor de la historia del libro como Robert ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799009/html/index.html#redalyc_313799009_ref1"
+      },
+      "Darton (1982)"
+     ],
+     ", en ",
+     [
+      "span",
+      {},
+      "The Literary Underground of the Old Regime"
+     ],
+     ", “más que un campo de problemas [el libro] es una selva tropical” donde el investigador queda, muchas veces, abrumado por las metodologías en competencia, los problemas a desarrollar, la necesidad de cotejar diferentes ediciones, compilar estadísticas, reconstruir relaciones y redes entre los editores y los circunstanciales lectores, así como diferentes “circuitos de comunicación” (que abarcan al autor, al impresor, al distribuidor, al librero y al lector) los cuales definen una determinada forma de cultura impresa. Un verdadero campo de problemas, como marcaba Gérard ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799009/html/index.html#redalyc_313799009_ref2"
+      },
+      "Genette (1997)"
+     ],
+     ", en ",
+     [
+      "span",
+      {},
+      "Paratexts: Thesholds of Interpretación"
+     ],
+     ", al abordar la importancia de tener en cuenta no solo el “texto”, el artefacto libro, sino también los “paratextos” que acompañan a la obra impresa (tapa, contratapa, solapas, índices, notas al pie, tablas de contenido, etc.) y que nos informan de un espacio simbólico múltiple, complejo, de un artificio compuesto por diversas partes ensambladas, donde también se establecen operaciones de sentido, diálogos transversales y luchas, dentro de un ambiente cultural extendido y complejo."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Como nos recuerdan también los estudios de Roger Chartier o de Michele de Certeau, o Cavallo, toda “lectura” es una actividad históricamente mediada y todo “significado textual” depende, necesariamente, de las formas a través de las cuales es recibido y asimilado por los lectores, hablándonos así de una historia de los modos de lectura, que distinguen y diferencian a las distintas comunidades de lectores, así como a los diferentes contextos en los cuales se realiza. Como explica Joan Shelley ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799009/html/index.html#redalyc_313799009_ref5"
+      },
+      "Rubin (2003)"
+     ],
+     " en “What is the History of the History of books”, debemos entender y rechazar que un artefacto impreso sea simplemente la materialización de las palabras de un autor –es mucho más que eso–, pues la cultura escrita refiere un campo amplio de sentidos, una multiplicidad de factores que afectan la trasmisión del texto y que van mucho más allá de su propia materialidad."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Teniendo todo esto en cuenta, el presente libro nos introduce en los orígenes del artefacto libro como lo conocemos en la actualidad, a través de la figura de Aldo Manucio, impresor y humanista del siglo XV. A partir de él, y de los prefacios de sus obras, podemos entender cabalmente un verdadero “proyecto editorial” renacentista que toma sentido más allá de la propia obra y de los diferentes autores. Nos permite internarnos en lo que Tiziana Plebani (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799009/html/index.html#redalyc_313799009_ref4"
+      },
+      "2021"
+     ],
+     ") –autora del primer estudio introductorio– define, muy pertinentemente, como un verdadero “pacto con los lectores” (concepto nacido de la crítica literaria) y que la investigadora va delineando a partir del análisis minucioso de estos conjuntos de “paratextos” que conforman los prefacios y la advertencia que el editor dirige a los posibles lectores."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "p",
+     {},
+     "[El libro] salía del aislamiento de los monasterios para llegar a los talleres laicos y convertirse en un oficio citadino […] con la invención de la imprenta de tipos móviles pronto obligó a repensar las formas de presentación de un texto, especialmente si se trataba de clásicos que se recuperaban […] el texto tenía una mayor necesidad tanto de identificación como de presentación, debía tener divisiones y diferenciaciones internas, para dejar bien en claro la autoría de la obra, para precisar el título tal como se había ido estableciendo con el tiempo, para atribuir méritos al tipógrafo y al editor […] era oportuno brindar puntos de apoyo al lector, señalando reimpresiones, mejoras, inéditos, para que prefiera un producto antes que otro […] los “paratextos” aparecieron pronto para satisfacer todas estas necesidades y entre estos hizo su aparición también el prefacio, redactado por el autor, el curador o el editor (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799009/html/index.html#redalyc_313799009_ref4"
+      },
+      "Plebani, 2021"
+     ],
+     ", pp. 18-19)."
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Es decir, aparece el artefacto libro con el formato material que reconocemos modernamente. En gran medida, debemos a Manucio la implementación de todos estos cambios en el mundo editorial. Sin embargo, como humanista y hombre del Renacimiento, nuestro editor entendía al “libro” dentro de un proyecto editorial especialmente dedicado al refinamiento cultural y moral de la sociedad, que tenía, también, claro está, su costado comercial: “En el prefacio de ",
+     [
+      "span",
+      {},
+      "Hero y Leandro"
+     ],
+     " (1495-97) [Manucio advierte] ‘por lo tanto [lector], toma este libro, que no obstante no es gratuito: dame el dinero para que yo lo administre y para que pueda obtener para ti los mejores libros griegos. Si me lo das, lo haré, porque no puedo imprimir si no tengo mucho dinero’…” (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799009/html/index.html#redalyc_313799009_ref4"
+      },
+      "Plebani, 2021"
+     ],
+     ", p. 22)."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Sin embargo, como nos aclara la propia ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799009/html/index.html#redalyc_313799009_ref4"
+      },
+      "Plebani (2021)"
+     ],
+     ", Manucio solo agregaba prefacios propios a los que consideraba libros que expresaban su proyecto cultural, obras que identificaba dentro de esos parámetros educativos, careciendo de prefacios las obras impresas por encargo de los patricios venecianos o bien aquellas donde los autores estuvieran vivos, dejando a estos últimos la responsabilidad del diálogo con los lectores."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Ahora bien, si es posible hablar de un proyecto editorial propio centrado en ofrecer a sus lectores textos cuidados de la Antigüedad clásica, Manucio también era un hombre de negocios práctico. Bajo la presión de sus socios y del propio mercado abierto por la difusión del libro fueron apareciendo otros géneros, editorializando autores en latín y también en lengua vernácula, lo que marca una creciente demanda y la necesidad de extender su oferta a un campo de lectura mucho más amplio y cambiante."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "En el segundo de los estudios que acompaña este libro, “Aldo, inventor de la profesión de editor moderno”, la investigadora Ana Mosqueda nos habla también de la importancia que tienen estas estructuras prologales y de los sentidos que acusan, más allá de la propia obra y del autor. En este sentido, nuestro editor tiene plena conciencia de su rol en cuanto al “redescubrimiento de los textos antiguos, y de que él es un actor esencial en esta tarea; pero, a la vez, percibe que aún queda mucho por hacer, y que él no está allí para fijar los textos, sino para enriquecerlos a partir de nuevos descubrimientos y de darles su forma…” (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799009/html/index.html#redalyc_313799009_ref3"
+      },
+      "Mosqueda, 2021"
+     ],
+     ", p. 40)."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Es así que nuestro editor puede ufanarse de “tener las mejores ediciones de su tiempo” y de que para ello ha cotejado las mismas “con colegas, amigos y eruditos” refinando, a partir de las destrezas lingüísticas, textos del “latín, griego y hebreo” para entregar a sus lectores una obra lo más precisa y cercana al sentido de los autores. Pero entendiendo, también, que en esta “reescritura erudita” él solo constituye un eslabón, pues serán los lectores (con doctas herramientas) quienes continúen con la magna tarea. El libro puede ser pensado, así, como un proyecto editorial inacabado. En palabras de ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313799009/html/index.html#redalyc_313799009_ref3"
+      },
+      "Mosqueda (2021)"
+     ],
+     ": “Podríamos decir que Aldo se sintió con derecho a prologar los escritos de otros porque se consideraba coautor de las obras que imprimía, al ser capaz de traer ‘a la vida del mundo de los muertos […] a aquellos autores requeridos con el máximo afán” (p. 47)."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Acompañan esta obra una breve cronología, una compilación de las cartas prologales escritas por Aldo Nuncio, así como una cuidada presentación de imágenes y de reproducciones. Sin duda, un trabajo muy interesante cuya lectura es imprescindible y estimulante para aquellos investigadores dedicados a la historia cultural y social."
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-back"
+    },
+    "\n",
+    [
+     "p",
+     {},
+     "Referencias"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313799009_ref1",
+      "lang": "en"
+     },
+     "Darton, R. (1982). ",
+     [
+      "span",
+      {},
+      "The Literary Underground of the Old Regime"
+     ],
+     ". Harvard University Press."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313799009_ref2"
+     },
+     "Genette, G. (1997). ",
+     [
+      "span",
+      {},
+      "Paratexts: Thesholds of Interpretación"
+     ],
+     ". Cambridge University Press."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313799009_ref3"
+     },
+     "Mosqueda, A. (2021). Aldo, inventor de la profesión de editor moderno. En Aldo Manucio, ",
+     [
+      "span",
+      {},
+      "De re impressoria. Cartas prologales del primer editor"
+     ],
+     ". Ampersand."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313799009_ref4"
+     },
+     "Plebani, T. (2021). Introducción. En Aldo Manucio. ",
+     [
+      "span",
+      {},
+      "De re impressoria. Cartas prologales del primer editor"
+     ],
+     ". Ampersand."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313799009_ref5",
+      "lang": "en"
+     },
+     "Rubin, J. S. (2003). What is the History of the History of Books. ",
+     [
+      "span",
+      {},
+      "Journal of American History, 90"
+     ],
+     "(2), p. 555-575."
+    ],
+    "\n"
+   ],
+   "\n"
+  ],
+  "\n",
+  [
+   "span",
+   {
+    "id": "t-creditos"
+   },
+   "\n",
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-logo-izquierda"
+    },
+    "\n",
+    [
+     "figura",
+     {}
+    ]
+   ],
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-mensaje"
+    },
+    "Modelo de publicación sin fines de lucro para conservar la naturaleza académica y abierta de la comunicación científica",
+    [
+     "br",
+     {}
+    ],
+    "HTML generado a partir de XML-JATS4R"
+   ],
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-logo-derecha"
+    },
+    "\n",
+    [
+     "figura",
+     {}
+    ]
+   ],
+   "\n",
+   "\n"
+  ],
+  "\n\n\n"
+ ]
+};

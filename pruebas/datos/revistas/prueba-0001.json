@@ -67,7 +67,8 @@
      "url": "https://example.org/prueba-0001/articulo/0-1",
      "doi": "10.0000/prueba-0001.0.1",
      "paginas": "1-20",
-     "fuente": "Datos de prueba"
+     "fuente": "Datos de prueba",
+     "texto_completo": "textos/prueba-0001-v12-n2-1.json"
     },
     {
      "id": "10.0000/prueba-0001.0.2",

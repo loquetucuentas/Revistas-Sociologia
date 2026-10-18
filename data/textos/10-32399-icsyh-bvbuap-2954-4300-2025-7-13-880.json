@@ -1,0 +1,834 @@
+{
+ "version": 1,
+ "recogido": "2026-10-18T11:43:07+00:00",
+ "doi": "10.32399/icsyh.bvbuap.2954-4300.2025.7.13.880",
+ "titulo": "Notas sobre Pashukanis: del sujeto jurídico a la crítica de la sociedad de clases",
+ "revista": "2954-4300",
+ "numero": "2025",
+ "licencia": {
+  "codigo": "by-nc-sa",
+  "nombre": "CC BY-NC-SA 4.0",
+  "nombre_completo": "Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional",
+  "url": "https://creativecommons.org/licenses/by-nc-sa/4.0",
+  "url_legal": "https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.es"
+ },
+ "fuente": {
+  "url": "https://bajoelvolcanx.buap.mx/index.php/bajovolc/article/download/880/781?inline=1",
+  "formato": "HTML",
+  "plataforma": "ojs-galerada",
+  "pagina": "https://bajoelvolcanx.buap.mx/index.php/bajovolc/article/view/880"
+ },
+ "autores_cita": [
+  {
+   "apellidos": "Bonefeld",
+   "nombre_pila": "Werner",
+   "nombre": null
+  }
+ ],
+ "avisos_derechos": [
+  "Derechos de autor 2025 Werner Bonefeld",
+  "Licencia Derechos de autor 2025 Werner Bonefeld Esta obra está bajo una licencia internacional Creative Commons Atribución-NoComercial-CompartirIgual 4.0. Las autoras y los autores conservan los derechos de autor sobre su obra y ceden a Bajo el Volcán. Revista del Posgrado de Sociología. BUAP únicamente el derecho de primera publicación. Revista de acceso abierto diamante: sin costo para autoras, autores ni personas lectoras."
+ ],
+ "idioma_principal": "es",
+ "indice": [
+  {
+   "id": "t-seccion-1",
+   "nivel": 2,
+   "texto": "Notas sobre Pashukanis: del sujeto jurídico a la crítica de la sociedad de clases1",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-2",
+   "nivel": 3,
+   "texto": "INTRODUCCIÓN",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-3",
+   "nivel": 3,
+   "texto": "I",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-4",
+   "nivel": 3,
+   "texto": "II",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-5",
+   "nivel": 3,
+   "texto": "CONCLUSIÓN",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-6",
+   "nivel": 3,
+   "texto": "BIBLIOGRAFÍA",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-7",
+   "nivel": 3,
+   "texto": "NOTAS",
+   "lang": null
+  }
+ ],
+ "vueltas": {},
+ "contenido": [
+  "\n",
+  [
+   "section",
+   {},
+   "\n",
+   [
+    "strong",
+    {},
+    [
+     "em",
+     {},
+     "Bajo el Volcán. Revista del Posgrado de Sociología. BUAP"
+    ]
+   ],
+   ", Año 7, Núm. 13, noviembre de 2025 – abril de 2026, pp. 20-38.",
+   [
+    "br",
+    {}
+   ],
+   "e-ISSN 2954-4300 · ",
+   [
+    "a",
+    {
+     "href": "https://doi.org/10.32399/ICSYH.bvbuap.2954-4300.2025.7.13.880"
+    },
+    "https://doi.org/10.32399/ICSYH.bvbuap.2954-4300.2025.7.13.880"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Dossier temático"
+   ],
+   "\n",
+   [
+    "h2",
+    {
+     "id": "t-seccion-1"
+    },
+    "Notas sobre Pashukanis: del sujeto jurídico a la crítica de la sociedad de clases",
+    [
+     "sup",
+     {},
+     [
+      "a",
+      {
+       "id": "t-fnref1",
+       "href": "#t-fn1"
+      },
+      "1"
+     ]
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Notes on Pashukanis: From the legal subject towards the critique of class society"
+   ],
+   "\n",
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    [
+     "span",
+     {},
+     "Werner Bonefeld"
+    ],
+    [
+     "br",
+     {}
+    ],
+    [
+     "span",
+     {},
+     "University of York, York, Reino Unido"
+    ],
+    [
+     "br",
+     {}
+    ],
+    [
+     "span",
+     {},
+     "ORCID: ",
+     [
+      "a",
+      {
+       "href": "https://orcid.org/0000-0001-6709-5313"
+      },
+      "https://orcid.org/0000-0001-6709-5313"
+     ]
+    ]
+   ],
+   "\n",
+   "\n",
+   [
+    "p",
+    {},
+    "RESUMEN"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "El propósito de este trabajo es fundamentar la crítica de Pashukanis al derecho proletario. Se estructura en dos secciones. Primero, se expone su interpretación de la forma jurídica y la aparición del individuo como sujeto de derecho o personalidad jurídica. A continuación, se explora el argumento de Marx sobre la conexión entre la compraventa de fuerza de trabajo en el “Edén de los derechos innatos del hombre” y la explotación. La conclusión retorna a su crítica del derecho proletario. En lugar de la igualdad abstracta ante la ley, la sociedad sin clases se fundamenta en la igualdad de las necesidades humanas individuales."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    [
+     "em",
+     {},
+     "Palabras clave:"
+    ],
+    " Pashukanis, derecho proletario, forma jurídica, sujeto de derecho."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "ABSTRACT"
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "The purpose of the paper is to substantiate Pashukanis’ critique of proletarian law. It is organised in two sections. It first expounds his account of legal form and the appearance of the individual as a subject of law, or legal personality. It then explores Marx’ argument about the connection between the sale and purchase of labour power in the ‘Eden of the innate rights of man’ and exploitation. The conclusion returns to his critique of proletarian law. Instead of the abstract equality before the law the classless society is founded on the equality of individual human needs."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    [
+     "em",
+     {},
+     "Keywords:"
+    ],
+    " Pashukanis, proletarian law, legal form, subject of law."
+   ],
+   "\n",
+   [
+    "h3",
+    {
+     "id": "t-seccion-2"
+    },
+    "INTRODUCCIÓN"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "El centenario de la publicación de “Derecho y Marxismo: una Teoría General” de Pashukanis en 2024 dio lugar a varias conferencias y talleres para conmemorar la ocasión y celebrar sus logros (véase, por ejemplo, https://legalform.blog/pashukanis-100th-anniversary). Pashukanis fue el principal jurista bolchevique. Su implacable oposición a cualquier concepto de “ derecho proletario” o derecho socialista bien pudo ser la razón por la que también fue denunciado como saboteador trotskista en 1937 y ejecutado en septiembre de 1937 por cargos inventados. Es reconocido con razón por su “teoría del derecho formamercancía” (1989: 99), que todavía ejerce una atracción sobre los marxistas heterodoxos. No obstante, la agudeza crítica de su contribución no es tan clara como es presentada (véase, por ejemplo, Willen, 2023)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Pashukanis rechaza la idea de que el derecho burgués se caracteriza principalmente por la forma en que sirve a los intereses de una clase en particular. Argumenta que ese reduccionismo de clase transforma el derecho en un mero instrumento de dominación. Esta visión implica que, una vez que el partido del proletariado está en el poder, el derecho puede usarse para fines socialistas, transformando al derecho burgués en derecho socialista. Sin embargo, para Pashukanis, el Estado de derecho no tiene un carácter universal. No es un fenómeno supra-histórico que se manifiesta en modos de producción históricamente específicos, asumiendo una forma capitalista en la sociedad burguesa y una forma socialista en un modo de producción socialista. En cambio, Pashukanis argumenta que las relaciones sociales capitalistas asumen una forma jurídica, al igual que asumen una forma mercancía (y una forma política en el caso del Estado capitalista). Las categorías jurídicas capitalistas son formas jurídicas históricamente específicas que pertenecen a las relaciones sociales definidas de las que surgen. Él entiende las relaciones sociales capitalistas como una “sociedad productora de mercancías” (1989: 55). Su análisis del derecho burgués como forma social fue y sigue siendo revolucionario respecto a la concepción jurídica del bolchevismo y la socialdemocracia en general (véase Harms, 2018; Neupert-Doppler, 2018). Esto lo llevó a rechazar la idea de que el derecho proletario tenía en efecto un carácter burgués. Como él mismo sostuvo, “el marchitamiento de ciertas categorías del derecho burgués... de ninguna manera implica su reemplazo por nuevas categorías del derecho proletario, de la misma manera que el marchitamiento de las categorías de valor, capital, beneficio, etc ... no significará la aparición de nuevas categorías proletarias de valor, capital, etc.” (46). Para las tradiciones marxistas heterodoxas que resurgieron en el contexto de los movimientos en torno a 1968, la crítica de Pashukanis al derecho burgués fue un punto de referencia importante. La razón de esto fue doble: en primer lugar, su comprensión del derecho burgués como una forma jurídica de relaciones sociales históricamente específicas y, en segundo lugar, la consecuencia de su argumento de que el socialismo no significa la transformación del derecho burgués en derecho proletario, sino su abolición."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "A pesar de la radicalidad de su argumento y sus conclusiones revolucionarias, Pashukanis tiene muy poco que decir sobre la forma jurídica con respecto a la explotación del trabajo asalariado. De hecho, su correlación del intercambio de mercancías con la aparición del individuo como persona jurídica o sujeto jurídico –portador de derechos– no resulta convincente como contribución marxista a la crítica de la economía política. Como lo señaló Negt (1973: 13), observó Negri (2000) y minimizó Arthur (1989), la idea de que los “propietarios se enfrentan entre sí como máscaras de carácter económico” no revela nada específico de la teoría social de Marx. Más bien, expresa una idea central de la teoría jurídica burguesa, a saber, el reconocimiento del individuo como sujeto jurídico dotado de voluntad independiente y portador de derechos iguales. La jurisprudencia burguesa reconoce al sujeto jurídico como propietario de propiedad privada quien, en la búsqueda de sus propios intereses, celebra contratos con otros como iguales. Su sociabilidad como individuos libres con voluntades independientes se establece a través de la forma de contrato que media sus intereses individuales contrarios en una forma jurídica que garantiza la seguridad de su propiedad y los reconoce como iguales ante la ley. La idea de sujeto jurídico se basa en el supuesto de que la propiedad privada les pertenece legítimamente, ya sea producida por ellos mismos o apropiada y poseída legalmente."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Para Marx, por el contrario, el sujeto jurídico es fundamentalmente un sujeto de clase y, por lo tanto, el desciframiento de las relaciones jurídicas como forma social de las relaciones de clase es de crucial importancia. Fundamentalmente, la forma jurídica de la sociedad burguesa se basa en la relación de intercambio entre trabajo y capital, un intercambio que media la extracción de plusvalía en el proceso de producción en forma de relaciones contractuales libres. La propiedad burguesa no es autoproducida. Surgió de la expropiación de los productores directos y se basa en la apropiación legal de los productos del trabajo esencialmente no remunerado, lo que Marx llamó explotación. Aunque, en el mejor de los casos, el derecho burgués trata al capital y al trabajo como sujetos jurídicos iguales, el contenido de “la constante compra y venta de fuerza de trabajo… es la constante apropiación por parte del capitalista, sin equivalente, del trabajo de otros” (Marx, 1990: 722). En contraste con la comprensión de Pashukanis del fetichismo jurídico como complementario del fetichismo de la mercancía, el fetichismo de la forma jurídica se funda en la circunstancia de que la explotación capitalista asume la forma de igualdad, libertad e interés propio, es decir, la forma de un intercambio entre sujetos jurídicos iguales cuya propiedad está protegida por la ley y que persiguen sus propios intereses como iguales en libertad unos de otros. Pashukanis alude a este contenido de la forma jurídica, pero no entra en detalles. En cambio, se centra en la relación entre los propietarios de mercancías que se reúnen en el mercado para intercambiar sus productos. Como él mismo lo expresa, “sólo el desarrollo del mercado crea la posibilidad –y la necesidad– de transformar a la persona que se apropia de cosas mediante su trabajo… en un propietario legal” (102, énfasis WB)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "No entiende al sujeto jurídico o propietario legal como un sujeto de clase. De hecho, Pashukanis dice poco o nada sobre el carácter social de la libertad del trabajo históricamente adquirida y sobre la explotación del trabajador libre."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "El propósito de este trabajo es fundamentar la crítica de Pashukanis al derecho proletario",
+    [
+     "sup",
+     {},
+     [
+      "a",
+      {
+       "id": "t-fnref2",
+       "href": "#t-fn2"
+      },
+      "2"
+     ]
+    ],
+    ". Se estructura en dos secciones. Primero, se expone su interpretación de la forma jurídica y la aparición del individuo como sujeto de derecho o personalidad jurídica. A continuación, se explora el argumento de Marx sobre la conexión entre la compraventa de fuerza de trabajo en el “Edén de los derechos innatos del hombre” (1990: 214) y la explotación. La conclusión retorna a su crítica del derecho proletario. En lugar de la igualdad abstracta ante la ley, la sociedad sin clases se fundamenta en la igualdad de las necesidades humanas individuales."
+   ],
+   "\n",
+   [
+    "h3",
+    {
+     "id": "t-seccion-3"
+    },
+    "I"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Pashukanis formuló la pregunta fundamental de lo que se convirtió en el enfoque de la forma social de la nueva izquierda de 1968, a saber, “¿por qué el dominio de clase no sigue siendo lo que es, la subyugación fáctica de una parte de la población por la otra? ¿Por qué asume la forma de un dominio estatal oficial, o –lo que es lo mismo– por qué la maquinaria de coerción estatal no se convierte en la maquinaria privada de la clase dominante; ¿por qué se separa de la clase dominante y adopta la forma de un aparato impersonal de poder público, separado de la sociedad?” (119). En cuanto a la forma jurídica, ¿por qué la explotación capitalista del trabajo adopta la forma de una relación entre sujetos jurídicos independientes que, a pesar de su desigualdad en la propiedad, celebran contratos entre sí como iguales ante la ley? La cita anterior se refiere a la forma del Estado, que Pashukanis no explora mucho más, pero sí a la importante idea de que las relaciones jurídicas entre los propietarios de mercancías presuponen una “condición de paz” (116) y que, por lo tanto, “la máquina estatal” manifiesta el “poder del derecho” (121). Es decir, reconoce que el dicho común “ley y orden” es fundamentalmente incorrecto. Lo contrario es el caso, “orden y ley”, en la medida en que el orden, la “condición de paz”, es el presupuesto de la ley."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Su texto postula con frecuencia ideas críticas que, sin embargo, quedan en el aire. Por ejemplo, en cuanto a la forma jurídica, escribe sobre la explotación y el trabajador asalariado como propietario de mercancías que aparece como sujeto jurídico igual ante la ley, y argumenta que la “transformación de las relaciones humanas en relaciones jurídicas” (32) media la explotación “en forma de contrato” (35). Reconoce que la persona del proletario es “en principio igual” a la del capitalista y que “esta circunstancia se expresa en el hecho del contrato de trabajo “libre”. Pero todo lo que se desprende de esta “libertad materializada” para los proletarios es la libertad de morir de hambre, sin ninguna interferencia” (134). La igualdad abstracta conlleva “desigualdad en su contenido” (47). Sin embargo, simplemente afirma estas ideas sin mayor exploración o justificación. De hecho, como señala Arthur (1989: 30), Pashukanis “no dice nada sobre el indicador esencial de las relaciones burguesas: la extracción de plusvalía”. Tampoco se refiere a la doble libertad del trabajador como el único requisito histórico y lógico de las relaciones sociales capitalistas. Una crítica marxista de la forma jurídica no puede formularse sin referencia a los elementos históricos implícitos en ella. La violencia histórica que separó a los productores directos de los medios de subsistencia imbuye los conceptos burgueses de libertad, igualdad y derecho de un contenido social definido que se manifiesta en sus formas sociales establecidas como una relación de intercambio entre sujetos jurídicos supuestamente iguales –uno que cambia su fuerza de trabajo por un salario para evitar “el látigo del hambre”– (Marcuse, 1988: 222), el otro que consume la fuerza de trabajo adquirida para obtener ganancias y evitar la erosión competitiva."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "La perspicaz referencia de Pashukanis a la libertad burguesa como “la libertad de morir de hambre” sugiere que la forma jurídica de la sociedad burguesa se ve afectada por la injusticia e inhumanidad con las que fue concebida. Pero esto no deja de ser una sugerencia. Su análisis se centra en la forma jurídica como forma complementaria de la forma mercancía. Por ello, como bien señala Carl Wilen (2023: 2), presta especial atención únicamente a los primeros capítulos del primer volumen de ",
+    [
+     "em",
+     {},
+     "El Capital"
+    ],
+    " de Karl Marx. En estos capítulos, Marx establece el carácter esencial de la forma mercancía. No profundiza en la discusión de la compraventa de trabajo, la explotación, la reproducción simple y la acumulación, y, por lo tanto, no examina cómo los supuestos originales sobre el sujeto jurídico como legítimo propietario de las mercancías se ven subvertidos por el contenido de la forma jurídica. De hecho, para apoyar su tesis de que la forma jurídica es complementaria a la forma de la mercancía, Pashukanis se refiere principalmente a la primera página del Capítulo 2 de ",
+    [
+     "em",
+     {},
+     "El Capital"
+    ],
+    ", en la que Marx (1990: 103) discute el proceso de intercambio. Las mercancías deben llevarse al mercado para ser intercambiadas y sus propietarios “las llevan al mercado” (Marx, 1990: 103) y las intercambian como sujetos jurídicos y de esta manera, expresan su relación en “términos jurídicos como un contrato” (Pashukanis, 1989: 102). Percibe al capitalismo como “una sociedad de propietarios de mercancías” (95) y al propietario de mercancías como “el átomo de la teoría jurídica, su elemento más simple e irreducible” (93). Los propósitos de los propietarios de mercancías no son los mismos, pero convergen en la forma de un contrato. Por lo tanto, argumenta en línea con el principio básico de la jurisprudencia burguesa que “el conflicto de intereses privados” es un “requisito previo básico para la regulación jurídica” (67) y que el contrato es la forma legal de su relación jurídica (120, cf. con Marx, 1990: 103). Para Pashukanis, la forma de la mercancía es la forma básica de la sociedad burguesa. Se supone que contiene y expresa las características abstractas, sistémicas de la sociedad capitalista, percibidas en abstracción de sí misma",
+    [
+     "sup",
+     {},
+     [
+      "a",
+      {
+       "id": "t-fnref3",
+       "href": "#t-fn3"
+      },
+      "3"
+     ]
+    ],
+    ". La relación de clase entre el capital y el trabajador asalariado que, como vendedor libre de fuerza de trabajo, produce riqueza para otras personas, no influye en su comprensión del capitalismo como un sistema de relaciones de intercambio de mercancías y, por lo tanto, también como un sistema de una “cadena interminable de relaciones jurídicas” (73)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "La comprensión de Pashukanis de las relaciones mercantiles como una cadena interminable de relaciones jurídicas no conduce a un argumento más profundo sobre la venta y compra constante de trabajo como una forma de interacción social que oculta su contenido, a saber, la apropiación constante de plus-trabajo, que es esencialmente trabajo no remunerado, trabajo apropiado sin un equivalente. Él lo afirma, pero no lo desarrolla. Además, su argumento se abstrae de la violencia que se esconde en las formas sociales capitalistas, incluida la forma mercancía y la forma jurídica. Como señaló Sami Khatib (2018, 608), cada acto mundano de intercambio de mercancías es un recordatorio congelado de la violencia original de la llamada “acumulación” “primitiva” o “",
+    [
+     "em",
+     {},
+     "ursprüngliche"
+    ],
+    "” a través de la cual el capitalismo fue históricamente implementado. Pashukanis no expone la forma jurídica como una categoría que preserva la violencia de su origen, es decir, como una forma de sociabilidad en la que la violencia que hace la ley de su surgimiento histórico se transforma en la violencia que preserva la ley de su forma burguesa, que reconoce al trabajador sin propiedad en la lucha por evitar el hambre como un sujeto jurídico igual al propietario de los medios de subsistencia. En cambio, percibe la forma jurídica como una “categoría histórica que corresponde a un entorno particular basado en el conflicto de intereses privados” (58). Es decir, el llamado conflicto de intereses entre propietarios de mercancías en competencia que acuden al mercado para realizar sus intereses a través del intercambio de sus productos y que de esta manera se reconocen mutuamente como propietarios de propiedad privada. Según él, por lo tanto, la ley regula “sujetos separados mutuamente opuestos, cada uno de los cuales representa su propio interés privado” (81). Argumenta que “la condición fundamental de existencia de la forma jurídica está arraigada en la propia organización económica de la sociedad” (48, cf. Marx, 1990: 103). La organización de la sociedad burguesa se basa en la mercancía, lo que implica al individuo como “propietario de mercancías” (95). Dado que la producción de mercancías implica la producción para otros, el intercambio de mercancías transforma al propietario de la mercancía individual, a quien se refiere como la “persona que se apropia de las cosas por su trabajo” (102, énfasis WB) en un sujeto jurídico de derechos iguales. Chris Arthur (1989: 29) defiende a Pashukanis de la crítica de que su noción de forma jurídica se abstrae de su contenido. Cree que tal crítica es un “malentendido” porque dado que Pashukanis caracteriza “el derecho como una forma burguesa, claramente está relacionando al derecho con un contenido material definido: las relaciones sociales basadas en el intercambio de mercancías”, que, como señala Arthur, discute sin referencia a la explotación del trabajo, es decir, la apropiación del producto del trabajo sin un equivalente. Pero el capitalismo no es simplemente una sociedad de producción de mercancías. Es una sociedad de clases. La igualdad legal entre comprador y vendedor de fuerza de trabajo como sujetos contractuales implica la apropiación legítima de los productos del trabajo no remunerado gastado por su vendedor."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "La forma jurídica no se puede discutir en abstracción de la explotación y la relación de clase en la que se basa (Negri, 2000: 243). Los dos primeros capítulos de ",
+    [
+     "em",
+     {},
+     "El Capital"
+    ],
+    ", particularmente el comienzo del segundo capítulo, en el que el argumento de Pashukanis se basa en gran medida, parecen apoyar su afirmación de que la forma jurídica media las relaciones entre personas jurídicas iguales que afirman su voluntad independiente como propietarios de mercancías al entrar libremente en una relación de intercambio de equivalencia, vendiendo y comprando mercancías autoproducidas de acuerdo con su valor. Para Marx, la idea de que las mercancías representan propiedad autoproducida que los propietarios de mercancías individuales llevan al mercado era una suposición analítica útil que, sin embargo, oculta su carácter social. En ",
+    [
+     "em",
+     {},
+     "El Capital"
+    ],
+    ", la presentación posterior de las categorías económicas convierte la suposición en lo opuesto. Como él mismo dice, “originalmente los derechos de propiedad nos parecieron estar fundamentados en el propio trabajo de un hombre. Alguna suposición de este tipo era al menos necesaria, ya que solo los propietarios de mercancías con derechos iguales se enfrentaban entre sí, y el único medio de apropiarse de las mercancías de otros era la enajenación de las propias mercancías de un hombre, mercancías que, sin embargo, solo podían ser producidas por el trabajo. Ahora, sin embargo, la propiedad resulta ser el derecho, por parte del capitalista, de apropiarse del trabajo no remunerado de otros como su producto, y la imposibilidad, por parte del trabajador, de apropiarse de su propio producto. La separación de la propiedad del trabajo se convierte así en la consecuencia necesaria de una ley que aparentemente se originó en su identidad” (Marx, 1990: 722). La siguiente sección desarrolla el contenido social de la forma jurídica y argumenta que el fetichismo jurídico implica la mistificación de la explotación como igualdad jurídica."
+   ],
+   "\n",
+   [
+    "h3",
+    {
+     "id": "t-seccion-4"
+    },
+    "II"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Esta sección vincula la compra y venta de fuerza de trabajo en el “Edén de los derechos humanos innatos” (Marx, 1990: 215) con la explotación, la reproducción del individuo necesitado y del trabajador como un vendedor constante de fuerza de trabajo por salarios que representan el plus-trabajo apropiado durante un proceso de trabajo anterior",
+    [
+     "sup",
+     {},
+     [
+      "a",
+      {
+       "id": "t-fnref4",
+       "href": "#t-fn4"
+      },
+      "4"
+     ]
+    ],
+    "."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Marx discute la venta y compra de fuerza de trabajo sobre la base de la suposición analítica de que la fuerza de trabajo se comercializa de acuerdo con su valor y que equivale a un comercio entre dos sujetos jurídicos que están en libertad el uno del otro y persiguen sus propios intereses independientes. Como sujetos jurídicos, son iguales ante la ley, independientemente de su desigualdad en la propiedad. Su suposición analítica excluye cualquier forma de discriminación, la compra de fuerza de trabajo por debajo de su valor y el trato del trabajador como un asalariado dependiente. Por lo tanto, asume como real el ideal liberal del individuo como un sujeto jurídico independiente y portador de derechos iguales. Se refiere a la relación de intercambio en el mercado laboral como un intercambio dentro del “Edén de los derechos innatos del hombre”, y argumenta que el vendedor de fuerza de trabajo es “un propietario libre de su propia capacidad de trabajo; por lo tanto, de su persona. Él y el dueño del dinero se encuentran en el mercado y entran en relaciones entre sí, en pie de igualdad como propietarios de mercancías, con la única diferencia de que uno es un comprador, el otro un vendedor; ambos son, por lo tanto, iguales ante los ojos de la ley” (Marx, 1990: 205). El mercado laboral no es un mercado de esclavos. El vendedor de fuerza de trabajo vende su fuerza de trabajo “temporalmente” y, por lo tanto, conserva “sus derechos de propiedad sobre ella” (205), lo que establece la independencia y libertad de su vendedor como un comerciante de mercancías autoresponsable e igual. La existencia de un mercado laboral es el resultado de procesos históricos que provocaron tanto la libertad del trabajador de los medios de subsistencia, así como lo llevaron a adquirir la libertad de contrato como sujeto jurídico. Por un lado, contrata como una persona libre. Por otro lado, su acceso a los medios de subsistencia depende de la venta de su fuerza de trabajo, que “no sirve para nada hasta que se vende” (Marx, 1990: 211, citando a Sismondi)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Aunque las categorías de libertad e igualdad “tienen una impronta histórica” (273) que ha sido “escrita en los anales de la humanidad con letras de sangre y fuego” (875), Marx asume que el comercio de fuerza de trabajo tiene lugar en el mejor mundo posible para mostrar posteriormente que la explotación no ocurre como consecuencia de prácticas discriminatorias de ningún tipo. Más bien, ocurre en el mejor mundo posible caracterizado por la libertad, la igualdad, la justicia y el intercambio de valores equivalentes (véase Marx, 1990: 214)",
+    [
+     "sup",
+     {},
+     [
+      "a",
+      {
+       "id": "t-fnref5",
+       "href": "#t-fn5"
+      },
+      "5"
+     ]
+    ],
+    ". Sin embargo, “cuando dejamos esta esfera... del intercambio de mercancías, que proporciona al ‘libre-comerciante vulgaris’ sus puntos de vista... se produce un cierto cambio... en la fisonomía” de los sujetos jurídicos. Uno “está interesado en los negocios; el otro... no tiene otra cosa que hacer que ser curtido” (215)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Marx expone la plusvalía como la diferencia entre el valor de la fuerza de trabajo y el valor total producido por el consumo productivo del trabajo durante la jornada laboral. Al entrar en “la morada oculta de la producción, la fisonomía del comprador de fuerza de trabajo se transforma en un Vampiro que vive mejor cuanto más se apropia del trabajo no remunerado del vendedor de fuerza de trabajo” (Marx, 1990: 214, y véase 279). El valor de la fuerza de trabajo se determina como cualquier otro valor de mercancía por el tiempo de trabajo socialmente necesario requerido para su producción y reproducción, lo que en el caso de la fuerza de trabajo significa la reproducción del trabajador como la encarnación viva de la fuerza de trabajo. Aunque al trabajador se le paga de acuerdo con el valor de su fuerza de trabajo, el consumo productivo de su trabajo durante el proceso de producción crea un valor que es mayor que sí mismo, que el capitalista se apropia como es su derecho. Durante el proceso de producción, el trabajador gasta trabajo para reproducir el valor de su fuerza de trabajo y para producir plusvalía. La producción de plusvalía es el producto del trabajo no remunerado para el cual no existe un valor equivalente. Para el comprador de fuerza de trabajo, el tiempo de trabajo dedicado a reproducir el valor de la fuerza de trabajo es una molestia. Su reproducción devuelve al capitalista el desembolso original que se invirtió en la fuerza de trabajo del trabajador. Sin embargo, la fuerza de trabajo no se compró para que reprodujera su valor. Se compró con el objetivo de obtener ganancias de su consumo. Por el bien de las ganancias, el tiempo de trabajo que cuenta es el excedente al tiempo necesario para la reproducción de los valores invertidos en salarios. Lo que cuenta es el tiempo de plus-trabajo. La lucha por su extensión, ya sea prolongando la duración de la jornada laboral o reduciendo el tiempo de trabajo necesario para la reproducción del valor de la fuerza de trabajo a través, por ejemplo, de la intensificación del trabajo y especialmente el aumento de la productividad laboral que reduce el tiempo de trabajo socialmente necesario para la producción de los medios de vida y que, por lo tanto, reduce el valor de la fuerza de trabajo, es una lucha de derecho contra derecho. Por un lado, el derecho del capitalista a consumir la fuerza de trabajo adquirida y, por otro lado, el derecho del trabajador a preservarse a sí mismo. No se vendió a sí mismo, sino sólo su fuerza de trabajo con el propósito expreso de ganarse la vida. Al comentar sobre la lucha para acortar la duración de la jornada laboral en la Inglaterra victoriana, Marx argumentó que, entre dos derechos iguales, la fuerza decide. Esta es la fuerza del Estado que legisla las condiciones de trabajo, incluida, por ejemplo, la duración de la jornada laboral, los estándares de salud y seguridad, y que establece la edad mínima de los trabajadores, prohibiendo el trabajo infantil. La ley de contrato implica al Estado como el amo de la ley y como el poder concentrado de una sociedad de sujetos jurídicos. Al tratar a las partes contratantes como iguales, se reproduce la desigualdad en la propiedad entre el capitalista y el trabajo, y al proteger los derechos de propiedad, la apropiación del producto del trabajo no remunerado por parte del capitalista es completamente legal y, de hecho, justa. La circunstancia de que el consumo productivo de la fuerza de trabajo adquirida de otro hombre le produce plusvalía no tiene ninguna consecuencia en el trato cerrado en el mercado laboral. Compró la mercancía fuerza de trabajo de acuerdo con su valor en “el Edén de los derechos innatos de los hombres”, con el propósito expreso de enriquecerse a través de su consumo, mientras que el trabajador la vendió con el propósito expreso de ganar un salario para ganarse la vida. Sus propósitos contrarios convergieron en la forma de un contrato de trabajo que ambos firmaron como sujetos jurídicos libres e iguales. La fuerza de trabajo del trabajador fue adquirida por medio de un contrato libre y al trabajador se le pagó por ella de acuerdo con su valor. El capitalista adquirió el derecho a consumirla productivamente para obtener ganancias. El trabajador renunció a su fuerza de trabajo libremente y por su propia iniciativa como vendedor. La forma jurídica de la relación de intercambio oculta el contenido del intercambio, a saber, la apropiación del trabajo no remunerado a través del cual el comprador se enriquece."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Una vez que el trabajador deja el proceso de producción, se encuentra en las mismas condiciones que antes de entrar. Intercambia su salario por los medios de subsistencia y, por lo tanto, lo devuelve al capitalista a cambio de los productos que produjo a través de su trabajo. El consumo productivo de su trabajo creó riqueza, pero ella es “privada de cualquier medio para hacer realidad esa riqueza para sí misma” (700). Su consumo individual se reproduce a sí misma como un individuo necesitado y, como tal, como un recurso por el cual su comprador se enriquece. Es debido a su libertad históricamente adquirida que se le impide “huir” (Marx, 1990: 706). De hecho, el trabajador libre está “sujetado por hilos invisibles” (706). “Bajo la coacción del látigo del hambre” (Marcuse, 1988: 222) y hasta el punto de la locura y la desesperación, el trabajador libre se ve obligado a vender su fuerza de trabajo “para poder vivir” (711), y vive reproduciéndose a sí mismo como “material humano” explotable (733). Aunque el trabajador libre y el capitalista continúan celebrando contratos como iguales ante la ley, el hecho de que él dependa de los ingresos salariales para ganarse la vida significa que “en realidad el trabajador pertenece al capital antes de haberse vendido al capitalista” (711). Su “servidumbre económica” (711) aparece en la forma de un contrato de trabajo “libre”, que expresa la libertad que le otorga la sociedad burguesa. La apariencia de su independencia e igualdad como sujeto jurídico se “mantiene... por la ficción jurídica de un contrato” (706). Su servidumbre económica está completamente oculta en su igualdad adquirida como sujeto jurídico, como portador de derechos iguales. Es decir, la ley de la sociedad burguesa reconoce la “servidumbre económica” del trabajador libre como una forma de libertad, igualdad y justicia. Las relaciones de clase de explotación y dominación asumen la forma de una relación entre portadores de derechos iguales."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Finalmente, la acumulación de capital transforma aún más la agradable apariencia de la servidumbre económica en “una mera forma, ajena al contenido de la transacción misma” (722). La acumulación implica la conversión de la plusvalía en actividad productiva. El capitalista se apropia del producto del trabajo no remunerado de sus empleados en forma de ganancia y luego reinvierte esa ganancia para comprar fuerza de trabajo adicional. Por lo tanto, la fuerza de trabajo se compra con el producto monetizado de una apropiación anterior de trabajo no remunerado. Aun argumentando sobre la base de la suposición original de que la fuerza de trabajo se compra de acuerdo con su valor, es decir, “se intercambia un equivalente por un equivalente”, el edificio de la propiedad ganada con el propio esfuerzo se derrumba a medida que el intercambio “sigue siendo la antigua actividad del conquistador, que compra mercancías para los conquistados con el dinero que les ha robado” (716). La riqueza materializada del trabajo no remunerado de ayer compra hoy la fuerza de trabajo de su vendedor, y esto es lo que significa decir que al trabajador se le paga por su fuerza de trabajo de acuerdo con su valor: una verdad falsa, porque la explotación del trabajo y la compra de su fuerza de trabajo con el valor monetizado de su plus-trabajo no tienen ninguna relación, y mucho menos violan, las normas jurídicas que rigen la relación de intercambio entre el capital y el trabajo como compradores y vendedores de fuerza de trabajo. De hecho, no solo se intercambia un equivalente por un equivalente, el intercambio también continúa como antes entre sujetos jurídicos que se comprometen como iguales ante la ley, en libertad el uno con el otro, cada uno persiguiendo sus propios intereses contradictorios, que convergen en la forma de un contrato de trabajo. Sin embargo, el intercambio entre el dueño del dinero y los productores de plusvalía de la sociedad “se convierte en una mera apariencia que pertenece solo al proceso de circulación” (720). La forma jurídica de las relaciones sociales capitalistas mistifica el contenido de la transacción. El fetichismo de las mercancías implica el fetichismo de la forma jurídica porque la relación social entre el dueño del dinero y el productor de plusvalía de la sociedad asume la forma de, y por lo tanto existe como, una relación entre portadores de derechos iguales."
+   ],
+   "\n",
+   [
+    "h3",
+    {
+     "id": "t-seccion-5"
+    },
+    "CONCLUSIÓN"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Al igual que Pashukanis, Marx comienza su crítica de la economía política con la suposición de que la propiedad es autoproducida y que la forma de la mercancía implica al propietario de la mercancía como un sujeto jurídico. A diferencia de Pashukanis, Marx desarrolló las relaciones de intercambio de mercancías simples como un intercambio entre vendedores y compradores de fuerza de trabajo. Por lo tanto, estableció cómo la violencia que hace a la ley, creó al trabajo libre como un sujeto jurídico que se manifiesta en las relaciones de intercambio entre el capital y el trabajo, como el poder que preserva la ley de una servidumbre económica, en la que el dominio de clase toma la forma de una relación basada en la libertad, la igualdad y la justicia. El contenido del intercambio no viola su forma jurídica. La explotación, la servidumbre económica y la compra de fuerza de trabajo con el dinero extraído previamente del trabajo no remunerado de su vendedor, asumen la forma de una relación de intercambio equivalente. Lo que queda es la apariencia de igualdad, libertad y justicia. Lo que queda es la relación de clase en el modo de una relación entre sujetos jurídicos iguales."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Pashukanis rechaza la idea del derecho proletario como un remanente burgués en el pensamiento y la práctica socialista. El mérito del trabajo de Pashukanis es su comprensión del Estado de Derecho como la forma jurídica de la sociedad burguesa. Postula la forma jurídica como complementaria a la forma mercancía y, sin embargo, no descifra la forma jurídica como un jeroglífico social. Su rechazo de al derecho proletario apunta a la crítica de la economía política como una crítica también de su forma jurídica como una forma que oculta y mistifica la explotación y la dominación. Pero se encoge de hombros ante la idea de profundizar en el asunto, lo que creo que explica el formalismo de su argumento."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "La justicia del trabajo es la justicia del trabajo capitalista solamente. Con referencia a Marx y, en conclusión: “‘El trabajo’ es la base viva de la propiedad privada, la propiedad privada como la fuente creativa de sí misma. La propiedad privada no es más que trabajo materializado. No es solo la propiedad privada como un estado objetivo, la propiedad privada como actividad, como trabajo, lo que uno debe atacar si quiere darle un golpe mortal. Es uno de los mayores malentendidos hablar de trabajo libre, humano, social, de trabajo sin propiedad privada. ‘El trabajo’ es esencialmente la actividad no libre, inhumana, antisocial que está condicionada por la propiedad privada y crea propiedad privada. La abolición de la propiedad privada, por lo tanto, solo se convierte en una realidad cuando se entiende como la abolición del ‘trabajo’, una abolición que, por supuesto, solo se hizo posible a través del propio trabajo, es decir, se hace posible por la actividad material de la sociedad y de ninguna manera puede entenderse como un intercambio de una categoría por otra. Una ‘organización del trabajo’ es, por lo tanto, una contradicción. ... La mejor organización que puede preservar el trabajo es la organización actual, la libre competencia, la disolución de todas las organizaciones que anteriormente parecían ‘sociales’“ (Marx 1972, énfasis en el original). Lo que queda es la comprensión de que la riqueza comunista no se mide a través del gasto de trabajo. Es tiempo libre. El tiempo “para el disfrute” comprende la medida y forma comunista de la riqueza.” (Marx 1972: 252)."
+   ],
+   "\n",
+   [
+    "h3",
+    {
+     "id": "t-seccion-6"
+    },
+    "BIBLIOGRAFÍA"
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Arthur, Chris (1989). ‘Editor’s Introduction’. En E. Pashukanis, L",
+    [
+     "em",
+     {},
+     "aw and Marxism: A General Theory"
+    ],
+    " (pp. 9-31). London: Pluto Press."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Bonefeld, Werner (2023). ",
+    [
+     "em",
+     {},
+     "A Critical Theory of Economic Compulsion"
+    ],
+    ". London: Routledge."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Harms, Andreas (2018). ‘Commodity Form and the Form of Law’. En B. Best, W. Bonefeld and C. O’Kane (Eds.), ",
+    [
+     "em",
+     {},
+     "The Sage Handbook of Frankfurt School Critical Theory"
+    ],
+    " (pp. 852-869). London: Sage."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Khatib, Sami (2018). ‘Society and Violence”. En B. Best, W. Bonefeld and C. O’Kane (Eds.), ",
+    [
+     "em",
+     {},
+     "The Sage Handbook of Frankfurt School Critical Theory"
+    ],
+    " (pp. 607-624). London: Sage."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Marcuse, Herbert (1988). ",
+    [
+     "em",
+     {},
+     "Negations"
+    ],
+    ". London: Free Association Press."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "ca"
+    },
+    "Marx, Karl (1990). ",
+    [
+     "em",
+     {},
+     "Capital, vol. I"
+    ],
+    ". London: Penguin [2008. ",
+    [
+     "em",
+     {},
+     "El Capital. Crítica de la economía política, Tomo I, V I, II & III"
+    ],
+    ". Argentina: Siglo XXI]."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Marx, Karl (1972). ",
+    [
+     "em",
+     {},
+     "Theories of Surplus Value, vol. 3"
+    ],
+    ". London: Lawrence & Wishart."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Marx, Karl (1971). ",
+    [
+     "em",
+     {},
+     "Critique of the Gotha Programme."
+    ],
+    " Moscow: Progress Publishers."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Marx, Karl ([1845] 1972). “Über Friedrich Lists Buch ‘das nationale system der politischen Ökonomie’”. En: ",
+    [
+     "em",
+     {},
+     "Beiträge zur Geschichte der Arbeibeiterbewegung"
+    ],
+    ", 14, available at ",
+    [
+     "a",
+     {
+      "href": "https://www.marxists.org/deutsch/archiv/marx-engels/1845/list/flist.htm"
+     },
+     "https://www.marxists.org/deutsch/archiv/marx-engels/1845/list/flist.htm"
+    ],
+    ", assessed 11/11/2024."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Neupert-Doppler, Alexander (2018). “Society and Political Form”. En B. Best, W. Bonefeld and C. O’Kane (eds.), ",
+    [
+     "em",
+     {},
+     "The Sage Handbook of Frankfurt School Critical Theory"
+    ],
+    " (pp. 816-833). London: Sage."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Negri, Antonio (2000). “Pashukanis lessen”. En J. Bruhn, M. Dahlmann and C. Nachtmann (Eds.), ",
+    [
+     "em",
+     {},
+     "Kritik der Politik: Johannes Agnoli zm 75. Geburtstag"
+    ],
+    " (pp. 201-258), Freiburg: Caira."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Negt, Oskar (1973). “Thesen Zur Marxistischen Rechtstheorie”. ",
+    [
+     "em",
+     {},
+     "Kritische Justiz"
+    ],
+    ", ",
+    [
+     "em",
+     {},
+     "6"
+    ],
+    "(1), 1-19."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Pashukanis Evgeny ([1924] 1989). ",
+    [
+     "em",
+     {},
+     "Law and Marxism: A General Theory"
+    ],
+    ". London: Pluto Press [1976. ",
+    [
+     "em",
+     {},
+     "Teoría general del derecho y marxismo."
+    ],
+    " España: Labor Universitaria]."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Willen, Carl (2023). ‘Why Pashukanis was right: Abstraction and form in The General Theory of Law and Marxism”. ",
+    [
+     "em",
+     {},
+     "Capital & Class"
+    ],
+    ", online first."
+   ],
+   "\n",
+   [
+    "section",
+    {},
+    [
+     "h3",
+     {
+      "id": "t-seccion-7"
+     },
+     "NOTAS"
+    ],
+    [
+     "ol",
+     {},
+     "\n",
+     [
+      "li",
+      {
+       "id": "t-fn1"
+      },
+      "NdE: las citas de ",
+      [
+       "em",
+       {},
+       "El Capital"
+      ],
+      " de Marx y ",
+      [
+       "em",
+       {},
+       "La teoría general del derecho y marxismo"
+      ],
+      " de Pashukanis, se trasladaron a sus versiones en español. Traducción a cargo de Mariana Giaretto. ",
+      [
+       "a",
+       {
+        "href": "#t-fnref1",
+        "id": "t-llamada-fnref1-1"
+       },
+       "↩"
+      ]
+     ],
+     "\n",
+     [
+      "li",
+      {
+       "id": "t-fn2"
+      },
+      "Para una crítica temprana de las ilusiones legales de la socialdemocracia, véase la ",
+      [
+       "em",
+       {},
+       "Crítica del Programa de Gotha"
+      ],
+      " de Marx (1971). ",
+      [
+       "a",
+       {
+        "href": "#t-fnref2",
+        "id": "t-llamada-fnref2-1"
+       },
+       "↩"
+      ]
+     ],
+     "\n",
+     [
+      "li",
+      {
+       "id": "t-fn3"
+      },
+      "La dialéctica sistemática es el modo analítico contemporáneo de la sociedad capitalista, percibida como abstracción de sí misma. La pregunta sobre qué significa la sociedad como abstracción real y qué hace para las personas, se rechaza por acientífica. Sin embargo, es la pregunta fundamental de la indagación crítica. ",
+      [
+       "a",
+       {
+        "href": "#t-fnref3",
+        "id": "t-llamada-fnref3-1"
+       },
+       "↩"
+      ]
+     ],
+     "\n",
+     [
+      "li",
+      {
+       "id": "t-fn4"
+      },
+      "Los capítulos relevantes de ",
+      [
+       "em",
+       {},
+       "El Capital"
+      ],
+      " son los capítulos 6, 16, 23 y 24.1. ",
+      [
+       "a",
+       {
+        "href": "#t-fnref4",
+        "id": "t-llamada-fnref4-1"
+       },
+       "↩"
+      ]
+     ],
+     "\n",
+     [
+      "li",
+      {
+       "id": "t-fn5"
+      },
+      "Sobre la diferencia entre discriminación y explotación, así como sobre la diferencia entre la lucha contra la discriminación y la lucha contra la explotación y la razón subjetiva y la razón objetiva, véase Bonefeld (2023, Parte II). ",
+      [
+       "a",
+       {
+        "href": "#t-fnref5",
+        "id": "t-llamada-fnref5-1"
+       },
+       "↩"
+      ]
+     ],
+     "\n"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Cómo citar: ",
+    [
+     "em",
+     {},
+     "Bajo el Volcán. Revista del Posgrado de Sociología. BUAP"
+    ],
+    ", Año 7, Núm. 13, noviembre de 2025 – abril de 2026, pp. 20-38. https://doi.org/10.32399/ICSYH.bvbuap.2954-4300.2025.7.13.880"
+   ],
+   [
+    "p",
+    {},
+    [
+     "a",
+     {
+      "href": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
+     },
+     "Licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional"
+    ],
+    ". Publicación de acceso abierto diamante editada por la Benemérita Universidad Autónoma de Puebla."
+   ],
+   "\n"
+  ],
+  "\n"
+ ]
+}

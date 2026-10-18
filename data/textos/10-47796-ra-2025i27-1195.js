@@ -1,0 +1,7216 @@
+// Copia de textos/10-47796-ra-2025i27-1195.json para abrir la aplicación sin servidor.
+(window.DATOS_REVISTAS = window.DATOS_REVISTAS || {})["textos/10-47796-ra-2025i27-1195.json"] = {
+ "version": 1,
+ "recogido": "2026-10-18T11:42:23+00:00",
+ "doi": "10.47796/ra.2025i27.1195",
+ "titulo": "Intervención urbana del Centro Poblado de Pachabamba: Análisis de contexto y propuesta de espacios articulados",
+ "revista": "2617-0892",
+ "numero": "n27-2025",
+ "licencia": {
+  "codigo": "by",
+  "nombre": "CC BY 4.0",
+  "nombre_completo": "Creative Commons Atribución 4.0 Internacional",
+  "url": "http://creativecommons.org/licenses/by/4.0",
+  "url_legal": "https://creativecommons.org/licenses/by/4.0/legalcode.es"
+ },
+ "fuente": {
+  "url": "https://revistas.upt.edu.pe/ojs/index.php/arquitek/article/download/1195/1184?inline=1",
+  "formato": "HTML",
+  "plataforma": "ojs-galerada",
+  "pagina": "https://revistas.upt.edu.pe/ojs/index.php/arquitek/article/view/1195"
+ },
+ "autores_cita": [
+  {
+   "apellidos": "Daga Almerco",
+   "nombre_pila": "Bekin Bauer",
+   "nombre": null
+  },
+  {
+   "apellidos": "Chamoli Figueroa",
+   "nombre_pila": "Judith Alexandra",
+   "nombre": null
+  }
+ ],
+ "avisos_derechos": [
+  "Derechos de autor 2025 Bekin Bauer Daga Almerco , Judith Alexandra Chamoli Figueroa ",
+  "Licencia Derechos de autor 2025 Bekin Bauer Daga Almerco , Judith Alexandra Chamoli Figueroa Esta obra está bajo una licencia internacional Creative Commons Atribución 4.0."
+ ],
+ "idioma_principal": "en",
+ "indice": [],
+ "vueltas": {},
+ "contenido": [
+  "\r\n\r\n",
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "a",
+    {
+     "id": "t-_Hlk123178705"
+    }
+   ],
+   [
+    "span",
+    {},
+    "ARQUITEK"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "EDICIÓN N°27",
+    [
+     "span",
+     {},
+     "   "
+    ],
+    "| ",
+    [
+     "a",
+     {
+      "id": "t-_Hlk139134701"
+     },
+     "Enero - Junio 202"
+    ],
+    "4\r\n| Edición online ISSN-2617-0892"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    "DOI: "
+   ],
+   [
+    "a",
+    {
+     "id": "t-_Hlk139413149"
+    }
+   ],
+   [
+    "a",
+    {
+     "href": "https://doi.org/10.47796/ra.2025i27%0d"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {
+       "lang": "en"
+      },
+      "https://doi.org/10.47796/ra.2025i2"
+     ]
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "7"
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "es"
+   },
+   [
+    "a",
+    {
+     "id": "t-_heading-h-gjdgxs"
+    }
+   ],
+   [
+    "a",
+    {
+     "id": "t-_heading-h-z64p9x4yiaqu"
+    }
+   ],
+   [
+    "b",
+    {},
+    [
+     "span",
+     {},
+     "Intervención urbana del Centro Poblado de Pachabamba: Análisis\r\nde contexto y propuesta de espacios articulados"
+    ]
+   ],
+   [
+    "a",
+    {
+     "id": "t-_ftnref1",
+     "href": "#t-_ftn1"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       [
+        "span",
+        {},
+        [
+         "span",
+         {},
+         "[1]"
+        ]
+       ]
+      ]
+     ]
+    ]
+   ],
+   [
+    "b",
+    {},
+    [
+     "span",
+     {}
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "b",
+    {},
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "Urban\r\nintervention of the village of Pachabamba: Context analysis and proposal of\r\narticulated spaces"
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "\r\n\r\n",
+    [
+     "table",
+     {},
+     "\r\n ",
+     [
+      "tr",
+      {},
+      "\r\n  ",
+      [
+       "td",
+       {}
+      ],
+      "\r\n "
+     ],
+     "\r\n ",
+     [
+      "tr",
+      {},
+      "\r\n  ",
+      [
+       "td",
+       {}
+      ],
+      "\r\n  ",
+      [
+       "td",
+       {},
+       [
+        "figura",
+        {}
+       ]
+      ],
+      "\r\n "
+     ],
+     "\r\n"
+    ],
+    "\r\n\r\n"
+   ],
+   [
+    "b",
+    {},
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     " "
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "br",
+   {}
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "DOI: "
+   ],
+   [
+    "u",
+    {},
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     [
+      "a",
+      {
+       "href": "https://doi.org/10.47796/ra.2025i27.1195"
+      },
+      [
+       "span",
+       {},
+       "10.47796/ra.2025i27.1195"
+      ]
+     ]
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    " "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "PRESENTADO :",
+    [
+     "span",
+     {},
+     "  "
+    ],
+    "17.07.24"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "ACEPTADO",
+    [
+     "span",
+     {},
+     "     "
+    ],
+    ":",
+    [
+     "span",
+     {},
+     "  "
+    ],
+    "04.03.25"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    " "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "BEKIN BAUER DAGA\r\nALMERCO"
+   ],
+   [
+    "a",
+    {
+     "id": "t-_ftnref2",
+     "href": "#t-_ftn2"
+    },
+    [
+     "b",
+     {},
+     [
+      "sup",
+      {},
+      [
+       "span",
+       {},
+       [
+        "span",
+        {},
+        [
+         "b",
+         {},
+         [
+          "sup",
+          {},
+          [
+           "span",
+           {},
+           "[2]"
+          ]
+         ]
+        ]
+       ]
+      ]
+     ]
+    ]
+   ],
+   [
+    "b",
+    {},
+    [
+     "span",
+     {}
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Universidad Nacional Hermilio Valdizán.\r\nHuánuco, Perú"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "ORCID: "
+   ],
+   [
+    "a",
+    {
+     "href": "https://orcid.org/0003-2753-585X"
+    },
+    [
+     "span",
+     {},
+     "0000-0003-2753-585X"
+    ]
+   ],
+   [
+    "span",
+    {}
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "bdaga@unheval.edu.pe"
+   ],
+   [
+    "span",
+    {}
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    " "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "JUDITH ALEXANDRA\r\nCHAMOLI FIGUEROA"
+   ],
+   [
+    "a",
+    {
+     "id": "t-_ftnref3",
+     "href": "#t-_ftn3"
+    },
+    [
+     "b",
+     {},
+     [
+      "sup",
+      {},
+      [
+       "span",
+       {},
+       [
+        "span",
+        {},
+        [
+         "b",
+         {},
+         [
+          "sup",
+          {},
+          [
+           "span",
+           {},
+           "[3]"
+          ]
+         ]
+        ]
+       ]
+      ]
+     ]
+    ]
+   ],
+   [
+    "b",
+    {},
+    [
+     "span",
+     {}
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Universidad de Huánuco. Huánuco, Perú"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "ORCID: "
+   ],
+   [
+    "a",
+    {
+     "href": "https://orcid.org/0009-0005-3926-4876"
+    },
+    [
+     "span",
+     {},
+     "0009-0005-3926-4876"
+    ]
+   ],
+   [
+    "span",
+    {}
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "2014111196@udh.edu.pe"
+   ],
+   [
+    "span",
+    {}
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    " "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   " "
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   "RESUMEN"
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "es"
+   },
+   "En el centro poblado de Pachabamba, la planificación\r\nurbana enfrenta el reto de integrar el uso sostenible del suelo con el\r\ndesarrollo ordenado de la zona. Desde un enfoque cuantitativo, el análisis de\r\nlas características actuales del entorno permitió identificar fortalezas y debilidades\r\nque pueden ser tomadas en cuenta para proponer estrategias viables para\r\noptimizar la ocupación del suelo. Estas estrategias incluyen la integración de\r\náreas agrícolas, residenciales, espacios públicos articulados y zonas\r\nrecreativas, con el objetivo de crear un entorno funcional, equilibrado y\r\nsostenible. La intervención también contempla la mejora de la infraestructura\r\nexistente y la implementación de nuevas vías de comunicación, concebidas para\r\nfacilitar la movilidad, dinamizar la economía y fortalecer el desarrollo social\r\ndel centro poblado. Las propuestas buscan responder a las necesidades reales de\r\nlos residentes, y promover un impacto positivo a largo plazo. Se resalta, en\r\nconclusión, que una adecuada planificación urbana, basada en un enfoque\r\ncuantitativo y sensible a las particularidades locales, puede transformar a\r\nPachabamba en un modelo de desarrollo rural sostenible. Esto no solo\r\nbeneficiaría a sus habitantes en términos de calidad de vida, sino que también\r\nconsolidaría al centro poblado como un atractivo destino turístico y eje\r\nestratégico para el desarrollo regional."
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "es"
+   },
+   [
+    "b",
+    {},
+    [
+     "i",
+     {},
+     [
+      "span",
+      {},
+      "Palabras\r\nclave"
+     ]
+    ]
+   ],
+   [
+    "i",
+    {},
+    [
+     "span",
+     {},
+     ":"
+    ]
+   ],
+   [
+    "span",
+    {},
+    " "
+   ],
+   [
+    "span",
+    {},
+    "intervención urbana, contexto urbano,\r\nespacios articulados, uso de suelo, eje dinamizador.",
+    [
+     "b",
+     {}
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    " "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    "ABSTRACT"
+   ],
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    " "
+   ],
+   [
+    "span",
+    {
+     "lang": "en"
+    }
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    "In the town of Pachabamba,\r\nurban planning faces the challenge of integrating sustainable land use with the\r\norderly development of the area. Using a quantitative approach, the analysis of\r\nthe current characteristics of the environment identified both strengths and\r\nweaknesses that can be taken into account to propose viable strategies to\r\noptimize land use. These strategies include the integration of agricultural and\r\nresidential areas, articulated public spaces and recreational areas, with the\r\naim of creating a functional, balanced and sustainable environment. The\r\nintervention also contemplates the improvement of the existing infrastructure\r\nand the implementation of new communication routes, conceived to facilitate\r\nmobility, stimulate the economy and strengthen the social development of the\r\ntown. The proposals seek to respond to the real needs of residents, promoting a\r\npositive long-term impact. In conclusion, it is highlighted that adequate urban\r\nplanning, based on a quantitative approach and sensitive to local\r\nparticularities, can transform Pachabamba into a model of sustainable rural\r\ndevelopment. This would not only benefit its inhabitants in terms of quality of\r\nlife, but would also consolidate the town as an attractive tourist destination\r\nand a strategic axis for regional development. "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "b",
+    {},
+    [
+     "i",
+     {},
+     [
+      "span",
+      {
+       "lang": "en"
+      },
+      "Keywords"
+     ]
+    ]
+   ],
+   [
+    "i",
+    {},
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     ":"
+    ]
+   ],
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    " ",
+    [
+     "span",
+     {},
+     "urban intervention, urban context,\r\narticulated spaces, land use, dynamic shaft"
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    " "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "b",
+    {},
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     " "
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   "INTRODUCCIÓN"
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "es"
+   },
+   "El espacio público revela la función integradora de\r\nla ciudad al mejorar y renovar las áreas periféricas, construir centros y\r\nconectar áreas urbanas, lo que convierte a la ciudad en un elemento físico\r\naccesible y comunicativo para sus habitantes (Arias, Carreño, & Carolina,\r\n2016). Esto no solo promueve la cohesión social, sino que también preserva y\r\npromueve las ricas tradiciones culturales e históricas del centro poblado, y se\r\nrefuerza así su identidad comunitaria. “Un espacio social no puede ser definido\r\núnicamente por su entorno natural (clima o ubicación) o por su historia pasada”\r\n(Martínez, Silva, & González, 2020); debe también considerar cómo\r\ninteractúan los habitantes con estos elementos para dar forma y significado al\r\nespacio urbano."
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "es"
+   },
+   "El territorio puede definirse como el \"espacio\r\nque es apropiado y valorado tanto simbólica como instrumentalmente por los\r\ngrupos urbanos\" (Giménez, 2001). Desde esta concepción se entiende que un\r\ncentro poblado valora su entorno no solo por su utilidad práctica, sino también\r\npor su significado cultural y social. Preservar el patrimonio, por otra parte,\r\nimplica integrar nueva arquitectura en estructuras existentes, un desafío vital\r\npara mantener su relevancia histórica y su funcionalidad contemporánea\r\n(Sánchez, 2022). En Pachabamba, la iglesia Santísima Trinidad es un ejemplo\r\nclave de esta integración, y representa un símbolo central de la rica herencia\r\ncultural del pueblo."
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "es"
+   },
+   "La planificación urbana regional implica dividir las\r\náreas de estudio en sectores geográficos claramente definidos, con el objetivo\r\nde facilitar la planificación local y la gestión del crecimiento urbano\r\n(Carazo, 2008). En el contexto de Pachabamba, esta aproximación permitió\r\nanalizar el territorio en zonas específicas, lo que contribuirá a la\r\nimplementación de estrategias adaptadas a las necesidades de la comunidad, para\r\nsu mejora. "
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "es"
+   },
+   "Los aspectos compartidos son claros: revitalización\r\nde la ciudad histórica —especialmente de los períodos del siglo XIX y\r\nprincipios del XX—, restauración de los espacios públicos tradicionales como\r\ncalles, plazas y parques, y la unificación del urbanismo y la arquitectura en\r\nlínea con un enfoque de planificación integral. La tendencia en el planeamiento\r\nurbano es abordar los problemas mediante proyectos específicos, centrándose en\r\nla recuperación de espacios públicos y la mejora de equipamientos. (Monclús,\r\n2003). Este enfoque es esencial para revitalizar centros poblados como\r\nPachabamba, y promover un desarrollo más sostenible y cohesivo. "
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "es"
+   },
+   "Perú, un país de rica herencia cultural y paisajes\r\nvariados, ha sido testigo de un dinámico proceso de urbanización a lo largo de\r\nsu historia. Desde sus antiguas civilizaciones hasta la era contemporánea, el\r\ndesarrollo urbano en el Perú ha evolucionado, enfrentando retos y oportunidades\r\nparticulares. Las intervenciones urbanas deben articular infraestructura,\r\nmovilidad y espacio público, para fomentar el desarrollo integral de las\r\nciudades (Rogers & Gumuchdjian, 1998). Esta intervención urbana se presenta\r\ncomo una herramienta esencial para revitalizar ciudades y comunidades, y para\r\npromover un uso sostenible del suelo."
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "es"
+   },
+   "El centro poblado de Pachabamba, fundado entre los\r\naños 1548 y 1585 durante la época prehispánica, fue reconocido como comunidad\r\nel 25 de febrero de 1954 mediante la Resolución Suprema N.° 08. Su nombre\r\nproviene de los términos quechuas ",
+   [
+    "i",
+    {},
+    "qucha "
+   ],
+   "(lago) y ",
+   [
+    "i",
+    {},
+    "pampa"
+   ],
+   " (llanura)\r\nque, al pasar por un proceso de castellanización, dieron origen al nombre Cochabamba.\r\nA pesar de contar con una población pequeña, Pachabamba conserva tradiciones y\r\ncostumbres significativas, y destaca por sus festividades, su folclore, su\r\ngastronomía, así como por su idioma y religión (Minaya, 2016). La vida\r\ncotidiana en esta comunidad está marcada por una fuerte cohesión comunitaria y\r\nun profundo respeto por las prácticas ancestrales."
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "es"
+   },
+   "Pachabamba se caracteriza por tener una modesta\r\npoblación y una baja tasa de crecimiento anual, pero alberga una importante red\r\nde caseríos como Yanuna y Chunapampa, fundamentales para su dinámica como\r\ncentro poblado. Su expansión urbana se concentró en zonas altas y estratégicas\r\ndebido a los conflictos bélicos de los Wanukos, quienes practicaban la\r\nagricultura y buscaban tierras fértiles para cultivar. La intervención en este\r\nterritorio se presenta como una oportunidad para mejorar el bienestar de sus\r\nhabitantes y revitalizar el entorno urbano. Al igual que en muchas otras\r\ncomunidades, Pachabamba enfrenta desafíos debido al crecimiento urbano no planificado,\r\nla insuficiencia de infraestructuras adecuadas y la necesidad de espacios\r\npúblicos que fomenten la integración social y el desarrollo sustentable."
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "es"
+   },
+   "El proyecto no se enfoca en ampliar la\r\ninfraestructura urbana, sino en mejorar el diseño y la estructura de los\r\nedificios existentes. Además, se centra en crear un espacio comunitario que\r\nesté en armonía con la forma y el entorno del área (Portas, 2003, pág. 1). En\r\nlugar de extender la infraestructura, se prioriza la revitalización de los\r\nespacios articulados, promoviendo la cohesión social y el desarrollo\r\nsostenible."
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "es"
+   },
+   "\"En lugar de comenzar con planos iniciales que\r\nluego se convierten en dibujos en perspectiva, se crean primero las vistas en\r\nperspectiva y estas se proyectan posteriormente sobre los fragmentos de los\r\nplanos\" (Holl, 2003, pág. 80). Este enfoque es especialmente útil en\r\nPachabamba, donde la configuración del terreno y la integración de nuevos ejes\r\nturísticos y agrícolas requieren una planificación cuidadosa para reflejar\r\ntanto la tradición como la modernidad en su desarrollo urbano."
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "es"
+   },
+   "La intervención urbana se justifica por su\r\ncontribución al uso sostenible del suelo y por mejorar el atractivo del centro\r\npoblado. Tiene como objetivo, además, actuar sobre la zona urbana mediante un\r\nanálisis actual del contexto físico y el desarrollo de una propuesta que mejore\r\nla infraestructura existente.",
+   [
+    "span",
+    {},
+    "  "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "b",
+    {},
+    [
+     "span",
+     {},
+     "MATERIALES Y MÉTODOS"
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "es"
+   },
+   "La investigación parte de un estudio de\r\nlevantamiento de datos ",
+   [
+    "i",
+    {},
+    "in situ"
+   ],
+   " del espacio físico territorial,\r\ninformación de datos demográficos obtenidos del centro de salud, mapeos\r\ngeorreferenciados, y encuestas realizadas a la población, desde enero a mayo\r\ndel 2023."
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "es"
+   },
+   "La metodología en esta investigación se basa en\r\ndescribir el estado actual del espacio físico a través de la técnica de la\r\nobservación, de forma directa y sistemática, desarrollando mapeos del estado\r\nactual en suelos, vías y equipamiento, en función de los objetivos de la misma.\r\n"
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "es"
+   },
+   "El estudio se centró en el área urbana del centro\r\npoblado, lo que permitió una comprensión detallada de sus particularidades y\r\nnecesidades. Este enfoque facilita la formulación de intervenciones urbanas\r\nadecuadas y contextualizadas. La investigación abarcó diversas dimensiones,\r\ncomo la infraestructura y los espacios públicos, con el propósito de\r\ndesarrollar una propuesta integral que articule estos elementos de manera\r\ncoherente, funcional y alineada con las demandas de la comunidad."
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   "Población y muestra"
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "es"
+   },
+   "La población estudiada incluyó a todos los\r\nresidentes del centro poblado de Pachabamba. Para el análisis, se empleó una\r\nmuestra representativa de 346 habitantes, seleccionada mediante técnicas de\r\nmuestreo aleatorio estratificado, con el objetivo de asegurar la\r\nrepresentatividad de los diferentes grupos demográficos y socioeconómicos\r\npresentes en la comunidad."
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   " "
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   " "
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "es"
+   },
+   "Técnicas y procedimientos de la recolección de datos"
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "es"
+   },
+   "Para asegurar una recolección de datos exhaustiva y\r\nprecisa, se emplearon técnicas como la encuesta y la observación directa. Estas\r\nherramientas se seleccionaron estratégicamente para abordar de manera integral\r\nlas dimensiones socioeconómicas, culturales, históricas y espaciales del centro\r\npoblado de Pachabamba."
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   "El proceso metodológico se estructuró en varias\r\netapas:",
+   [
+    "b",
+    {},
+    [
+     "span",
+     {}
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "b",
+    {},
+    [
+     "span",
+     {},
+     "Definición del problema"
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "es"
+   },
+   "En esta etapa, se identificaron los objetivos del\r\nestudio y se delimitó el área de análisis, lo que llevó a establecer las\r\nprioridades en función de las necesidades locales."
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "b",
+    {},
+    [
+     "span",
+     {},
+     "Diseño metodológico"
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "es"
+   },
+   "Se definieron las técnicas de recolección de datos\r\nmás adecuadas: encuestas, observación directa y entrevistas, con un enfoque multidimensional\r\nque incluye aspectos socioeconómicos, culturales y espaciales."
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "b",
+    {},
+    [
+     "span",
+     {},
+     "Recolección de datos"
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "es"
+   },
+   [
+    "span",
+    {},
+    [
+     "span",
+     {},
+     "·",
+     [
+      "span",
+      {},
+      "        \r\n"
+     ]
+    ]
+   ],
+   "Visitas de campo: Se realizaron recorridos\r\nsistemáticos por el área de estudio, documentando las condiciones mediante\r\nnotas y fotografías detalladas."
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "es"
+   },
+   [
+    "span",
+    {},
+    [
+     "span",
+     {},
+     "·",
+     [
+      "span",
+      {},
+      "        \r\n"
+     ]
+    ]
+   ],
+   "Encuestas: Se seleccionó una muestra\r\nrepresentativa mediante muestreo aleatorio estratificado, y se aplicaron\r\nencuestas en campo para obtener datos cuantitativos."
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "es"
+   },
+   [
+    "span",
+    {},
+    [
+     "span",
+     {},
+     "·",
+     [
+      "span",
+      {},
+      "        \r\n"
+     ]
+    ]
+   ],
+   "Entrevistas: Se entrevistó a líderes\r\ncomunitarios y a actores clave para comprender la dinámica del uso del suelo y\r\nlos posibles ejes dinamizadores."
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "b",
+    {},
+    [
+     "span",
+     {},
+     "Análisis de datos"
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "es"
+   },
+   "Los datos cualitativos y cuantitativos se procesaron\r\nutilizando estos programas especializados:"
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "es"
+   },
+   [
+    "span",
+    {},
+    [
+     "span",
+     {},
+     "·",
+     [
+      "span",
+      {},
+      "        \r\n"
+     ]
+    ]
+   ],
+   "AutoCAD: Para el análisis y diseño de planos\r\nurbanos."
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    [
+     "span",
+     {},
+     "·",
+     [
+      "span",
+      {},
+      "        \r\n"
+     ]
+    ]
+   ],
+   "Adobe Photoshop: Para el tratamiento de\r\nimágenes."
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "es"
+   },
+   [
+    "span",
+    {},
+    [
+     "span",
+     {},
+     "·",
+     [
+      "span",
+      {},
+      "        \r\n"
+     ]
+    ]
+   ],
+   "Adobe Illustrator: Para la elaboración de\r\ngráficos y esquemas visuales."
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "b",
+    {},
+    [
+     "span",
+     {},
+     "Desarrollo de propuestas"
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "es"
+   },
+   "Se formularon estrategias de intervención urbana que\r\nintegren infraestructura, movilidad y espacio público, garantizando un diseño\r\ncoherente y funcional."
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "b",
+    {},
+    [
+     "span",
+     {},
+     "Validación"
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "es"
+   },
+   "Las propuestas fueron revisadas por expertos y se\r\nrealizaron ajustes basados en la retroalimentación de la comunidad."
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "b",
+    {},
+    [
+     "span",
+     {},
+     "Elaboración del informe final"
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "es"
+   },
+   "Los resultados se sistematizaron y presentaron en un\r\ninforme en el que se incluyen conclusiones y recomendaciones basadas en los\r\nhallazgos."
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "b",
+    {},
+    [
+     "span",
+     {},
+     "Instrumentos de recolección de\r\ndatos"
+    ]
+   ],
+   [
+    "span",
+    {}
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "es"
+   },
+   "Para la técnica de observación se desarrolló una\r\nbase cartográfica detallada que incluyó la topografía, infraestructuras\r\nexistentes y características geográficas esenciales. Esta base se construyó\r\nutilizando sistemas de información geográfica (SIG) y herramientas de\r\nteledetección para garantizar la precisión y exhaustividad de los datos\r\nrecolectados."
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "es"
+   },
+   "Se creó un mapa de uso del suelo en el que se\r\nidentificaron y categorizaron las distintas zonas según su función y\r\ncaracterísticas. Este mapa fue elaborado mediante un proceso de mapeo\r\ndetallado, incorporando información sobre agentes culturales, puntos de interés\r\nturístico y áreas de importancia histórica y social."
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "es"
+   },
+   "Se obtuvo información cultural significativa para el\r\nanálisis del uso del suelo y la planificación urbana, lo que posibilitó la\r\nidentificación y creación de ejes dinamizadores que impulsen el crecimiento\r\neconómico, social y cultural del centro poblado."
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "es"
+   },
+   "Para la técnica de encuesta se utilizaron diversos\r\ninstrumentos como cuestionarios de preguntas cerradas que permitieron recopilar\r\ny evaluar informaciones relevantes dirigidas a los residentes, facilitando un\r\nmuestreo representativo. Además, se realizaron entrevistas con actores clave,\r\ncomo autoridades locales y líderes comunitarios, para obtener perspectivas\r\ncualitativas. "
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "b",
+    {},
+    [
+     "span",
+     {},
+     "Análisis de recolección de datos"
+    ]
+   ],
+   [
+    "span",
+    {}
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "es"
+   },
+   [
+    "span",
+    {},
+    "El\r\nanálisis se realizó mediante la metodología SIG, y se desarrollaron las\r\nsiguientes acciones:"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "es"
+   },
+   [
+    "span",
+    {},
+    [
+     "span",
+     {},
+     "·",
+     [
+      "span",
+      {},
+      "        \r\n"
+     ]
+    ]
+   ],
+   "Se recolectó información detallada sobre las\r\ndiferentes áreas y usos del suelo mediante técnicas como encuestas, observación\r\ndirecta y análisis de imágenes satelitales."
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "es"
+   },
+   [
+    "span",
+    {},
+    [
+     "span",
+     {},
+     "·",
+     [
+      "span",
+      {},
+      "        \r\n"
+     ]
+    ]
+   ],
+   "Se utilizaron herramientas de SIG para realizar\r\nun análisis espacial, que permita visualizar y evaluar la relación entre\r\ndiferentes tipos de uso del suelo y su ubicación geográfica."
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "es"
+   },
+   [
+    "span",
+    {},
+    [
+     "span",
+     {},
+     "·",
+     [
+      "span",
+      {},
+      "        \r\n"
+     ]
+    ]
+   ],
+   "Se delimitó y trazó el área de estudio del\r\nsuelo. "
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "es"
+   },
+   [
+    "span",
+    {},
+    [
+     "span",
+     {},
+     "·",
+     [
+      "span",
+      {},
+      "        \r\n"
+     ]
+    ]
+   ],
+   "Se analizó el uso del suelo para entender cómo\r\nestán siendo utilizadas las diferentes áreas del centro poblado y poder\r\nproponer mejoras y usos más eficientes de los mismos."
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "es"
+   },
+   [
+    "span",
+    {},
+    [
+     "span",
+     {},
+     "·",
+     [
+      "span",
+      {},
+      "        \r\n"
+     ]
+    ]
+   ],
+   "Se realizaron mapeos participativos que\r\nproporcionaron una perspectiva comunitaria sobre las necesidades y potenciales\r\ndel centro poblado. Los mapas resultantes de estos fueron analizados para\r\nintegrar la visión y las prioridades de la comunidad en el plan de intervención\r\nurbana."
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   "RESULTADOS"
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   "Evolución del centro poblado de Pachabamba "
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "es"
+   },
+   "Dado el contexto y la evolución de Pachabamba a lo\r\nlargo de los años según los mapas proporcionados, se obtuvo lo siguiente: "
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    [
+     "span",
+     {},
+     "·",
+     [
+      "span",
+      {},
+      "        \r\n"
+     ]
+    ]
+   ],
+   "2002:"
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   "El centro poblado se estableció\r\ninicialmente en el área central, cercano a la iglesia más antigua."
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "es"
+   },
+   [
+    "span",
+    {},
+    [
+     "span",
+     {},
+     "·",
+     [
+      "span",
+      {},
+      "        \r\n"
+     ]
+    ]
+   ],
+   "Comienzan a delinearse algunas calles y casas,\r\naunque la infraestructura es limitada en esta fase."
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    [
+     "span",
+     {},
+     "·",
+     [
+      "span",
+      {},
+      "        \r\n"
+     ]
+    ]
+   ],
+   "2010:"
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "es"
+   },
+   "Se observa un incremento notable de\r\nla población y de las infraestructuras dentro del núcleo urbano."
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "es"
+   },
+   "La delimitación original se\r\nmantiene, pero hay un crecimiento significativo en el número de viviendas."
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "es"
+   },
+   "Se empieza a mejorar la calidad de\r\nlas viviendas existentes."
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    [
+     "span",
+     {},
+     "·",
+     [
+      "span",
+      {},
+      "        \r\n"
+     ]
+    ]
+   ],
+   "2023 (Proyección):"
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "es"
+   },
+   "Se anticipa una mejora en la\r\ndelimitación y organización del centro poblado."
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "es"
+   },
+   "Continúa la expansión en el número\r\nde viviendas, y es probable que se desarrolle más infraestructura."
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "es"
+   },
+   "A pesar de las expansiones, algunas estructuras\r\noriginales se conservan como parte del patrimonio cultural local."
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "es"
+   },
+   "Además, en la Figura 1 se puede visualizar\r\nclaramente esta evolución y los cambios en la estructura urbana de Pachabamba a\r\nlo largo del tiempo."
+  ],
+  "\r\n\r\n",
+  "\r\n\r\n",
+  [
+   "table",
+   {},
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Figura 1"
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "i",
+       {},
+       [
+        "span",
+        {},
+        "Evolución\r\n  del centro poblado de Pachabamba"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       [
+        "figura",
+        {}
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {
+      "lang": "es"
+     },
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "i",
+       {},
+       [
+        "span",
+        {},
+        "Nota."
+       ]
+      ],
+      [
+       "i",
+       {},
+       [
+        "span",
+        {},
+        " "
+       ]
+      ],
+      [
+       "span",
+       {},
+       "Elaboración\r\n  propia de diagnóstico del centro poblado de Pachabamba (2024). "
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      " "
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n"
+  ],
+  "\r\n\r\n",
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   " "
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "i",
+    {},
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     " "
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    " "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Análisis demográfico"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "es"
+   },
+   "De acuerdo con los datos del censo del 2017, el\r\ncentro poblado de Pachabamba estaba conformado por 346 habitantes. Se\r\npresentan, a continuación, los datos sobre las tasas de natalidad desde el mes\r\nde enero hasta mayo del 2003. "
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "i",
+    {},
+    [
+     "span",
+     {},
+     "Tasa bruta de\r\nnatalidad"
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "es"
+   },
+   "La tasa bruta de natalidad en promedio mensual es de\r\n2.6 nacidos. A continuación, se detallan los nacimientos por mes, según la\r\ninformación obtenida a través de entrevistas a los pobladores:"
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "i",
+    {},
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     " "
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  "\r\n\r\n",
+  [
+   "table",
+   {},
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {
+      "colspan": "5"
+     },
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {
+        "lang": "en"
+       },
+       "Tabla 1"
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "i",
+       {},
+       [
+        "span",
+        {
+         "lang": "en"
+        },
+        "Tasa bruta de natalidad"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "Escala"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "Conteo"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "fi"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "hi"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "%i"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Enero"
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Febrero"
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Marzo"
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Abril"
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Mayo"
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "Total"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "IIIII"
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "II"
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "II"
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "II"
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "II"
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       " "
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "5"
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "2"
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "2"
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "2"
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "2"
+       ]
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "13"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "0.40"
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "0.15"
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "0.15"
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "0.15"
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "0.15"
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "1.00"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "40"
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "15"
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "15"
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "15"
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "15"
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "100"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {
+      "colspan": "5"
+     },
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "i",
+       {},
+       [
+        "span",
+        {},
+        "Nota. "
+       ]
+      ],
+      [
+       "span",
+       {},
+       "GEOPLAN\r\n  (datos por mes reflejan la tasa bruta de natalidad mensual)."
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       " "
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n"
+  ],
+  "\r\n\r\n",
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   " "
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   " "
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "es"
+   },
+   "Estos datos reflejan una variabilidad en el número\r\nde nacimientos por mes, con un pico notable en el mes de enero hasta mayo."
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "b",
+    {},
+    "Diagnóstico\r\nde la situación actual"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "es"
+   },
+   "El estudio inicial consistió en la elaboración de\r\ncurvas de nivel, utilizando el programa Google Earth Pro a partir de datos del\r\naño 2020, y se abarcó la totalidad del área del centro poblado de Pachabamba.\r\nPosteriormente, se realizó el mapeo del uso del suelo con la ayuda de un plano\r\nde zonificación y apoyándose en el Sistema de Información Geográfica para la\r\nPlanificación Nacional Urbano Territorial (GEOPLAN). El estudio del uso del\r\nsuelo en el centro poblado de Pachabamba se llevó a cabo utilizando técnicas\r\navanzadas de Sistemas de Información Geográfica (SIG), lo que proporcionó una\r\ncomprensión detallada y precisa de las diversas áreas y sus usos. Los\r\nresultados del análisis contextual destacan las principales categorías de uso\r\ndel suelo y sus implicaciones para el desarrollo urbano."
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "es"
+   },
+   "El estudio establece y describe diversas zonas\r\nfuncionales en el centro poblado de Pachabamba, diseñadas para atender las\r\nnecesidades específicas de la comunidad y promover un desarrollo integral.\r\nEntre estas, la zona residencial se destina a viviendas con mejoras en\r\ninfraestructura básica, mientras que la zona recreacional incluye parques y\r\nplazas para fomentar el bienestar social y la cohesión comunitaria. La zona\r\ncomercial, por otra parte, busca impulsar la economía local al consolidar\r\nespacios dedicados al comercio; y la zona administrativa centraliza la gestión\r\ncon oficinas y edificios gubernamentales."
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "es"
+   },
+   "Adicionalmente, se han previsto la zona de salud,\r\nque garantiza el acceso a servicios médicos esenciales; la zona de educación,\r\nenfocada en la formación de la población joven mediante instituciones\r\neducativas; y la zona turística, que destaca el patrimonio histórico y cultural\r\ndel lugar, como la primera iglesia de Huánuco. Estas áreas, integradas de manera\r\nestratégica, apuntan a una planificación coherente que favorece el equilibrio\r\nentre la funcionalidad urbana, el respeto al entorno y la sostenibilidad a\r\nlargo plazo. Estas áreas, además de las mencionadas previamente, están\r\nintegradas en un plan integral de desarrollo urbano que tiene como objetivo\r\nmejorar la estructura espacial de Pachabamba, impulsar el desarrollo económico\r\ny social, y conservar el patrimonio cultural y natural de la región. La\r\nrepresentación detallada de la distribución actual del uso del suelo en el\r\ncentro poblado de Pachabamba se muestra en la Figura 2."
+  ],
+  "\r\n\r\n",
+  "\r\n\r\n",
+  [
+   "table",
+   {},
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Figura 2"
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "i",
+       {},
+       [
+        "span",
+        {},
+        "Plano de uso\r\n  del suelo del centro poblado de Pachabamba "
+       ]
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       " "
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       [
+        "figura",
+        {}
+       ]
+      ],
+      [
+       "span",
+       {}
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {
+      "lang": "es"
+     },
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "i",
+       {},
+       [
+        "span",
+        {},
+        "Nota. "
+       ]
+      ],
+      [
+       "span",
+       {},
+       "Elaboración\r\n  propia de datos técnicos sobre la zonificación urbana (2024)."
+      ],
+      [
+       "i",
+       {},
+       [
+        "span",
+        {},
+        " "
+       ]
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       " "
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n"
+  ],
+  "\r\n\r\n",
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   " "
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   "Propuestas"
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "b",
+    {},
+    [
+     "span",
+     {},
+     "Propuesta de uso sostenible del\r\nsuelo"
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "es"
+   },
+   "A partir del análisis de los datos recolectados y de\r\nlas entrevistas realizadas a los pobladores, se ha formulado una nueva\r\npropuesta de uso del suelo para el centro poblado de Pachabamba. Las nuevas\r\nzonificaciones se detallan a continuación:"
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "es"
+   },
+   [
+    "span",
+    {},
+    [
+     "span",
+     {},
+     "·",
+     [
+      "span",
+      {},
+      "        \r\n"
+     ]
+    ]
+   ],
+   "Zona residencial media (ZRM): Áreas destinadas a\r\nviviendas de densidad media, con mejoras en la infraestructura básica para\r\nproporcionar mejores condiciones de vida."
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "es"
+   },
+   [
+    "span",
+    {},
+    [
+     "span",
+     {},
+     "·",
+     [
+      "span",
+      {},
+      "        \r\n"
+     ]
+    ]
+   ],
+   "Zona recreacional (ZR): Áreas destinadas al\r\nentretenimiento y el disfrute de los residentes, que incluye el mejoramiento de\r\nla plaza e instalaciones deportivas."
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "es"
+   },
+   [
+    "span",
+    {},
+    [
+     "span",
+     {},
+     "·",
+     [
+      "span",
+      {},
+      "        \r\n"
+     ]
+    ]
+   ],
+   "Zona agrícola (ZA): Las zonas agrícolas están\r\nprincipalmente dedicadas al cultivo de aguacate, que constituye aproximadamente\r\nel 0.04% de las exportaciones nacionales anuales, con excepción del mes de\r\nagosto."
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "es"
+   },
+   [
+    "span",
+    {},
+    [
+     "span",
+     {},
+     "·",
+     [
+      "span",
+      {},
+      "        \r\n"
+     ]
+    ]
+   ],
+   "Zona monumental (ZM): Incluye sitios de\r\nimportancia histórica y cultural, como la primera iglesia de Huánuco en\r\nPachabamba, y se destaca el valor patrimonial de los mismos. "
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "es"
+   },
+   [
+    "span",
+    {},
+    [
+     "span",
+     {},
+     "·",
+     [
+      "span",
+      {},
+      "        \r\n"
+     ]
+    ]
+   ],
+   "Equipamiento de salud (ES): Instalaciones médicas\r\ny un puesto de salud que mejoran la atención sanitaria de la población."
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    [
+     "span",
+     {},
+     "·",
+     [
+      "span",
+      {},
+      "        \r\n"
+     ]
+    ]
+   ],
+   "Uso especializado T1 (OU1): Áreas destinadas a\r\nactividades específicas que requieren un espacio particular, como el tambo."
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "es"
+   },
+   [
+    "span",
+    {},
+    [
+     "span",
+     {},
+     "·",
+     [
+      "span",
+      {},
+      "        \r\n"
+     ]
+    ]
+   ],
+   "Equipamiento educativo (EE): Instituciones\r\neducativas que sirven a la comunidad."
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "es"
+   },
+   [
+    "span",
+    {},
+    [
+     "span",
+     {},
+     "·",
+     [
+      "span",
+      {},
+      "        \r\n"
+     ]
+    ]
+   ],
+   "Comercio especializado (CE): Área dedicada a la\r\ncomercialización de los productos de la comunidad."
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "es"
+   },
+   [
+    "span",
+    {},
+    [
+     "span",
+     {},
+     "·",
+     [
+      "span",
+      {},
+      "        \r\n"
+     ]
+    ]
+   ],
+   "Cementerio: Área destinada para el cementerio de\r\nla comunidad."
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "es"
+   },
+   "Complementando estas zonas, que forman parte de un\r\nPlan Integral de Desarrollo Urbano, se busca mejorar la organización espacial\r\nde Pachabamba, promover el desarrollo económico y social, y preservar el\r\npatrimonio cultural y natural del área."
+  ],
+  "\r\n\r\n",
+  "\r\n\r\n",
+  [
+   "table",
+   {},
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Figura 3"
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "i",
+       {},
+       [
+        "span",
+        {},
+        "Propuesta de\r\n  plano de uso del suelo del centro poblado de Pachabamba "
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       [
+        "figura",
+        {}
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {
+      "lang": "es"
+     },
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "i",
+       {},
+       [
+        "span",
+        {},
+        "Nota."
+       ]
+      ],
+      [
+       "span",
+       {},
+       " Elaboración propia de mejora\r\n  de datos técnicos sobre zonificación urbana (2024). "
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      " "
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n"
+  ],
+  "\r\n\r\n",
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   " "
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "i",
+    {},
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     " "
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    " "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "es"
+   },
+   [
+    "span",
+    {},
+    "Para\r\ncomplementar la información de las zonas detalladas en la propuesta de uso del\r\nsuelo, en la Tabla 2 se brindan datos adicionales de cada zona, los cuales\r\nincluyen una breve descripción del área aproximada en metros cuadrados, así\r\ncomo el porcentaje de la superficie total del centro poblado que cada zona\r\nabarca:"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    " "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "i",
+    {},
+    [
+     "span",
+     {},
+     " "
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  "\r\n\r\n",
+  [
+   "table",
+   {},
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {
+      "colspan": "4"
+     },
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Tabla 2"
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "i",
+       {},
+       [
+        "span",
+        {},
+        "Propuesta de uso del suelo para Pachabamba"
+       ]
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        " "
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "Zonas",
+        [
+         "span",
+         {}
+        ]
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "Descripción",
+        [
+         "span",
+         {}
+        ]
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "Área (m²)",
+        [
+         "span",
+         {}
+        ]
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "Porcentaje\r\n  (%)",
+        [
+         "span",
+         {}
+        ]
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Zona residencial media",
+       [
+        "span",
+        {}
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Viviendas de densidad media, mejoras en infraestructura",
+       [
+        "span",
+        {}
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "22840.80"
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "22 %"
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Zona recreacional",
+       [
+        "span",
+        {}
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Áreas de entretenimiento y deporte para residentes",
+       [
+        "span",
+        {}
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "1485.50"
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "1.4 %"
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Zona agrícola",
+       [
+        "span",
+        {}
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {
+      "lang": "es"
+     },
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Cultivo de aguacate, contribución significativa a exportaciones nacionales\r\n  anuales",
+       [
+        "span",
+        {}
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "69234.00"
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "66.75 %"
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Zona monumental",
+       [
+        "span",
+        {}
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Sitios históricos y culturales destacados",
+       [
+        "span",
+        {}
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "702.60"
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "0.60 %"
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Equipamiento de salud",
+       [
+        "span",
+        {}
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Instalaciones médicas y puesto de salud",
+       [
+        "span",
+        {}
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "468.00"
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "0.45 %"
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Uso especializado T1",
+       [
+        "span",
+        {}
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Espacios para actividades específicas como el tambo",
+       [
+        "span",
+        {}
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "302.00"
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "0.30 %"
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Equipamiento educativo",
+       [
+        "span",
+        {}
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Instituciones educativas",
+       [
+        "span",
+        {}
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "6819.49"
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "6.5 %"
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Comercial especializado",
+       [
+        "span",
+        {}
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Área para productos locales",
+       [
+        "span",
+        {}
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "1423.44"
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "1.4 %"
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Cementerio",
+       [
+        "span",
+        {}
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Área destinada para el cementerio",
+       [
+        "span",
+        {}
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "677.82"
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "0.6 %"
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {
+      "colspan": "4",
+      "lang": "es"
+     },
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "i",
+       {},
+       [
+        "span",
+        {},
+        "Nota."
+       ]
+      ],
+      [
+       "span",
+       {},
+       [
+        "span",
+        {},
+        "  "
+       ],
+       "Esta tabla se integra al Plan Integral de\r\n  Desarrollo Urbano de Pachabamba, el cual busca facilitar la organización\r\n  espacial, promover el desarrollo económico y social, y preservar el\r\n  patrimonio cultural y natural de la zona."
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       " "
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n"
+  ],
+  "\r\n\r\n",
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "i",
+    {},
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     " "
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    " "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Propuesta de vías"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "es"
+   },
+   [
+    "i",
+    {},
+    [
+     "span",
+     {},
+     "Propuestas para la mejora de la red vial y la\r\nconectividad"
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "es"
+   },
+   "Con el fin de impulsar la movilidad sostenible y\r\nmejorar el acceso equitativo a diferentes áreas del centro poblado de\r\nPachabamba, se propone implementar una red de rutas peatonales bien iluminadas.\r\nEsta propuesta busca no solo facilitar la circulación diaria de los habitantes,\r\nsino también reducir el impacto ambiental del transporte motorizado.",
+   [
+    "i",
+    {}
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "i",
+    {},
+    [
+     "span",
+     {},
+     "Propuesta de\r\nconectividad"
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    [
+     "span",
+     {},
+     "·",
+     [
+      "span",
+      {},
+      "        \r\n"
+     ]
+    ]
+   ],
+   "Principal 2 vías: Arterias principales conectan\r\npuntos clave del centro poblado para un tránsito eficiente."
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "es"
+   },
+   [
+    "span",
+    {},
+    [
+     "span",
+     {},
+     "·",
+     [
+      "span",
+      {},
+      "        \r\n"
+     ]
+    ]
+   ],
+   "Nueva vía principal: Propuesta para mejorar la\r\naccesibilidad y reducir la congestión vehicular."
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "es"
+   },
+   [
+    "span",
+    {},
+    [
+     "span",
+     {},
+     "·",
+     [
+      "span",
+      {},
+      "        \r\n"
+     ]
+    ]
+   ],
+   "Vía secundaria: Complementa la red principal,\r\nconectando áreas residenciales, comerciales y recreativas."
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "es"
+   },
+   [
+    "span",
+    {},
+    [
+     "span",
+     {},
+     "·",
+     [
+      "span",
+      {},
+      "        \r\n"
+     ]
+    ]
+   ],
+   "Nuevas vías secundarias: Apertura de rutas\r\nadicionales para mejorar la conectividad interna. Una de ellas facilita el\r\nacceso a zonas de cultivo de palta, clave para la economía local."
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "es"
+   },
+   [
+    "span",
+    {},
+    [
+     "span",
+     {},
+     "·",
+     [
+      "span",
+      {},
+      "        \r\n"
+     ]
+    ]
+   ],
+   "Principal 1 vía: Eje crucial que conecta zonas\r\nurbanas y rurales del centro poblado."
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "es"
+   },
+   [
+    "span",
+    {},
+    [
+     "span",
+     {},
+     "·",
+     [
+      "span",
+      {},
+      "        \r\n"
+     ]
+    ]
+   ],
+   "Vía de acceso peatonal: Creada para promover la\r\nmovilidad segura y cómoda para peatones, conectando espacios públicos como\r\nparques y plazas."
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "es"
+   },
+   "En la Figura 4 se presentan las nuevas rutas\r\nplanificadas, destacando cómo estas se integran con la infraestructura\r\nexistente para formar una red cohesiva y eficiente de movilidad urbana. La\r\nimplementación de estas mejoras en la conectividad peatonal contribuirá al\r\ndesarrollo sostenible y a la calidad de vida en el centro poblado de\r\nPachabamba."
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "i",
+    {},
+    [
+     "span",
+     {},
+     "Propuesta de\r\ncortes de vías"
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "es"
+   },
+   "A continuación, se detallan los cortes de vías\r\npropuestos: "
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "es"
+   },
+   [
+    "span",
+    {},
+    [
+     "span",
+     {},
+     "·",
+     [
+      "span",
+      {},
+      "        \r\n"
+     ]
+    ]
+   ],
+   "Corte A-A: Ampliación de la vía principal"
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "es"
+   },
+   "Se propone ampliar la capacidad de\r\nla vía principal en el centro poblado de Pachabamba, cerca de áreas comerciales\r\ny residenciales, mediante la ampliación de carriles para vehículos, la\r\ninstalación de aceras peatonales anchas y bien mantenidas, la incorporación de\r\nzonas verdes a lo largo de las aceras para mejorar el ambiente urbano, y la\r\ncolocación de mobiliario urbano como bancos y papeleras para mayor comodidad de\r\nlos peatones."
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   " "
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "es"
+   },
+   [
+    "span",
+    {},
+    [
+     "span",
+     {},
+     "·",
+     [
+      "span",
+      {},
+      "        \r\n"
+     ]
+    ]
+   ],
+   "Corte B-B: Nueva vía secundaria hacia zonas\r\nresidenciales"
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "es"
+   },
+   "Para mejorar el acceso a la plaza y\r\na las áreas recreativas en la zona noroeste del centro poblado, se propone la\r\ncreación de una vía peatonal pavimentada con iluminación adecuada y señalización\r\nclara para garantizar la seguridad de los peatones. Además, se considera la\r\nposibilidad de incluir estaciones de reparación de bicicletas para fomentar el\r\ntransporte sostenible."
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    [
+     "span",
+     {},
+     "·",
+     [
+      "span",
+      {},
+      "        \r\n"
+     ]
+    ]
+   ],
+   "Corte C-C: Vía de acceso peatonal a espacios\r\nrecreativos"
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "es"
+   },
+   "Se propone la creación de una nueva\r\nvía secundaria en el extremo sur del centro poblado para conectar áreas\r\nresidenciales con las principales arterias, lo que incluirá una calzada de dos\r\ncarriles, aceras amplias, áreas verdes para mejorar la estética y proporcionar\r\nsombra, y un potencial uso de la mediana como espacio para eventos\r\ncomunitarios."
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    [
+     "span",
+     {},
+     "·",
+     [
+      "span",
+      {},
+      "        \r\n"
+     ]
+    ]
+   ],
+   "Corte D-D: Mejora de la vía de acceso a zonas\r\nagrícolas"
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "es"
+   },
+   "Para optimizar la vía de acceso al\r\ncentro de Pachabamba, ubicado en el lado este de esta comunidad, se propone\r\ndiseñar una vía secundaria con un ancho adecuado para vehículos urbanos.\r\nAdemás, se contempla la integración de espacios para la observación turística y\r\nla creación de áreas verdes en la mediana para mejorar la biodiversidad y\r\nreducir el impacto ambiental."
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    [
+     "span",
+     {},
+     "·",
+     [
+      "span",
+      {},
+      "        \r\n"
+     ]
+    ]
+   ],
+   "Corte E-E: Vía de conexión entre la zona\r\ncomercial y la zona residencial"
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "es"
+   },
+   "Para facilitar el acceso a los\r\ncultivos de palta desde el área este de Pachabamba, se propone diseñar una\r\nnueva vía principal de doble sentido. Esta vía deberá contar con una calzada\r\namplia y segura para vehículos agrícolas y urbanos, así como aceras\r\nadecuadamente dimensionadas para peatones. Se utilizarán materiales permeables\r\npara la pavimentación y se implementarán sistemas de riego eficientes para\r\nconservar el agua, promoviendo así la sostenibilidad ambiental en la zona."
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "es"
+   },
+   "La Figura 5 detalla cada uno de estos cortes con sus\r\nrespectivas especificaciones y ubicaciones estratégicas dentro del Plan\r\nIntegral de Desarrollo Urbano, ofreciendo una visión detallada de todos los\r\nproyectos mencionados. Esto permite visualizar cómo cada corte contribuye a la\r\nmejora de la infraestructura vial y a la conectividad dentro del centro poblado\r\nde Pachabamba, optimizando el acceso a áreas residenciales, comerciales,\r\nrecreativas y agrícolas de manera integral y sostenible."
+  ],
+  "\r\n\r\n",
+  "\r\n\r\n",
+  [
+   "table",
+   {},
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Figura 4"
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "i",
+       {},
+       [
+        "span",
+        {},
+        "Ejes de\r\n  propuestas de vías"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       [
+        "figura",
+        {}
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {
+      "lang": "es"
+     },
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "i",
+       {},
+       [
+        "span",
+        {},
+        "Nota."
+       ]
+      ],
+      [
+       "span",
+       {},
+       " Elaboración propia de datos de nuevas rutas\r\n  planificadas (2024)."
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      " "
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n"
+  ],
+  "\r\n\r\n",
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   " "
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "i",
+    {},
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     " "
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "i",
+    {},
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     " "
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  "\r\n\r\n",
+  [
+   "table",
+   {},
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Figura 5"
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "i",
+       {},
+       [
+        "span",
+        {},
+        "Cortes de\r\n  propuestas de vías"
+       ]
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       " "
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       [
+        "figura",
+        {}
+       ]
+      ],
+      [
+       "span",
+       {}
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {
+      "lang": "es"
+     },
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "i",
+       {},
+       [
+        "span",
+        {},
+        "Nota."
+       ]
+      ],
+      [
+       "span",
+       {},
+       " Elaboración propia de\r\n  detalles de la red vial (2024). "
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       " "
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n"
+  ],
+  "\r\n\r\n",
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    " "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "i",
+    {},
+    [
+     "span",
+     {},
+     " "
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    " "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Propuesta de los ejes\r\ndinamizadores"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "es"
+   },
+   "Es importante interpretar la zona urbana del centro\r\npoblado de Pachabamba mediante un análisis exhaustivo de su estructura,\r\ndinámica y necesidades, para luego desarrollar una propuesta integral que\r\npromueva el desarrollo sostenible, mejore la calidad de vida de sus residentes\r\ny revitalice el entorno urbano. "
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "es"
+   },
+   "Ante los desafíos identificados, se proponen dos\r\nejes dinamizadores: uno turístico y otro agrícola."
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    [
+     "span",
+     {},
+     "·",
+     [
+      "span",
+      {},
+      "        \r\n"
+     ]
+    ]
+   ],
+   [
+    "b",
+    {},
+    [
+     "i",
+     {},
+     "Eje turístico"
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "es"
+   },
+   "Este eje se centra en\r\ncapitalizar el patrimonio cultural y natural de Pachabamba. La comunidad cuenta\r\ncon paisajes impresionantes, tradiciones vivas y una historia fascinante que\r\npueden convertirse en atractivos culturales que fomenten el turismo. La\r\niniciativa principal incluye:"
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    [
+     "span",
+     {},
+     "o",
+     [
+      "span",
+      {},
+      "  \r\n"
+     ]
+    ]
+   ],
+   "Promoción de festividades locales: Resaltar las\r\nfestividades tradicionales como atractivos turísticos."
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    [
+     "span",
+     {},
+     "·",
+     [
+      "span",
+      {},
+      "        \r\n"
+     ]
+    ]
+   ],
+   [
+    "b",
+    {},
+    [
+     "i",
+     {},
+     "Eje agrícola"
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "es"
+   },
+   "Este eje busca mejorar las\r\nprácticas agrícolas y diversificar los cultivos. Las iniciativas principales\r\nincluyen:"
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "es"
+   },
+   [
+    "span",
+    {},
+    [
+     "span",
+     {},
+     "o",
+     [
+      "span",
+      {},
+      "  \r\n"
+     ]
+    ]
+   ],
+   "Acceso a galerías feriales: Facilitar el acceso\r\nde los agricultores a galerías feriales donde la comunidad pueda vender sus\r\nproductos cosechados."
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    [
+     "span",
+     {},
+     "o",
+     [
+      "span",
+      {},
+      "  \r\n"
+     ]
+    ]
+   ],
+   "Fomento de la agricultura orgánica: Promover\r\nprácticas agrícolas que no dañen el medio ambiente"
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "es"
+   },
+   "Estos ejes dinamizadores están diseñados para\r\nfortalecer la economía local mientras preservan y valoran el patrimonio\r\ncultural y natural de Pachabamba. La combinación del turismo y la agricultura\r\npermite una diversificación económica que reduce la vulnerabilidad frente a\r\ncrisis sectoriales y fomenta una mayor resiliencia comunitaria. La integración\r\nde estos ejes también contribuye a la cohesión social y al desarrollo\r\nsostenible, garantizando que el desarrollo económico se alinee con la\r\npreservación del medio ambiente y la identidad cultural de Pachabamba."
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "es"
+   },
+   "En la Figura 6 se pueden observar estos ejes\r\npropuestos, destacando las áreas turísticas y agrícolas planificadas."
+  ],
+  "\r\n\r\n",
+  "\r\n\r\n",
+  [
+   "table",
+   {},
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Figura 6"
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "i",
+       {},
+       [
+        "span",
+        {},
+        "Ejes\r\n  dinamizadores"
+       ]
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       " "
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       [
+        "figura",
+        {}
+       ]
+      ],
+      [
+       "span",
+       {}
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {
+      "lang": "es"
+     },
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "i",
+       {},
+       [
+        "span",
+        {},
+        "Nota"
+       ]
+      ],
+      [
+       "span",
+       {},
+       ". Elaboración propia de\r\n  datos de la red vial (2024). "
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       " "
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n"
+  ],
+  "\r\n\r\n",
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    " "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "i",
+    {},
+    [
+     "span",
+     {},
+     " "
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    " "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Propuesta de espacios articulados"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "i",
+    {},
+    [
+     "span",
+     {},
+     "Propuestas de espacios\r\narticulados – eje turístico"
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "es"
+   },
+   [
+    "span",
+    {},
+    "Pensando en\r\nla creación de espacios articulados que integren diferentes usos y funciones\r\ndentro del centro poblado de Pachabamba, se presentaron propuestas que\r\ncontribuyen a un entorno cohesionado y funcional. Cada iniciativa contribuye a\r\nmejorar la calidad de vida de los residentes y fomenta un crecimiento urbano\r\nplanificado y sustentable."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "es"
+   },
+   [
+    "span",
+    {},
+    [
+     "span",
+     {},
+     "·",
+     [
+      "span",
+      {},
+      "        \r\n"
+     ]
+    ]
+   ],
+   [
+    "span",
+    {},
+    "Implementación de un nuevo estacionamiento y galería ferial"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "es"
+   },
+   [
+    "span",
+    {},
+    "Norma Técnica A.070 “Comercio”\r\ndel Reglamento Nacional de Edificaciones (RNE) del Ministerio de Vivienda, Construcción\r\ny Saneamiento (MVCS), 2021."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "es"
+   },
+   [
+    "span",
+    {},
+    "Galería ferial: Grupo de tiendas y locales\r\ncomerciales organizados de manera planificada y desarrollados con un enfoque de\r\nunidad, donde se llevan a cabo diversas actividades de consumo de bienes y\r\nservicios de manera estacional, con el uso compartido de ciertos elementos de\r\ngestión."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "es"
+   },
+   [
+    "span",
+    {},
+    "Construcción de un nuevo estacionamiento en la\r\nentrada de Pachabamba para facilitar el acceso y reducir la congestión\r\nvehicular en el centro."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "es"
+   },
+   [
+    "span",
+    {},
+    "Desarrollo de una galería ferial adyacente al estacionamiento,\r\ndiseñada según las especificaciones de la Norma Técnica A.070."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    [
+     "span",
+     {},
+     "·",
+     [
+      "span",
+      {},
+      "        \r\n"
+     ]
+    ]
+   ],
+   [
+    "span",
+    {},
+    "Modificación de la Plaza de Armas"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "es"
+   },
+   [
+    "span",
+    {},
+    "Renovación de la plaza del centro poblado de\r\nPachabamba para transformarla en un lugar de encuentro y recreación para los\r\nresidentes."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "es"
+   },
+   [
+    "span",
+    {},
+    "Integración de zonas verdes y áreas de descanso."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Instalación de iluminación adecuada y mobiliario\r\nurbano."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Organización de eventos comunitarios y culturales."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    [
+     "span",
+     {},
+     "·",
+     [
+      "span",
+      {},
+      "        \r\n"
+     ]
+    ]
+   ],
+   [
+    "span",
+    {},
+    "Mejora del cementerio"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "es"
+   },
+   [
+    "span",
+    {},
+    "Renovación del cementerio existente para cumplir\r\ncon las normativas sanitarias y ambientales."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "es"
+   },
+   [
+    "span",
+    {},
+    "Diseño respetuoso y accesible para los visitantes,\r\ncon mejoras en la infraestructura y la disposición de áreas de descanso."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    [
+     "span",
+     {},
+     "·",
+     [
+      "span",
+      {},
+      "        \r\n"
+     ]
+    ]
+   ],
+   [
+    "span",
+    {},
+    "Implementación de un campo deportivo"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "es"
+   },
+   [
+    "span",
+    {},
+    "Norma Técnica A.100 “Recreación y Deportes” del Ministerio de Vivienda,\r\nConstrucción y Saneamiento (MVCS), 2014."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "es"
+   },
+   [
+    "span",
+    {},
+    "Artículo 3: Los proyectos de edificación para recreación y deportes\r\nrequieren la elaboración de estudios complementarios como el Estudio de Impacto\r\nVial y el Estudio de Impacto Ambiental."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "es"
+   },
+   [
+    "span",
+    {},
+    "Artículo 19: Condiciones para la construcción de tribunas (altura\r\nmáxima, profundidad mínima y ancho mínimo por espectador)."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "es"
+   },
+   [
+    "span",
+    {},
+    "Desarrollo de un campo deportivo conforme a la Norma Técnica A.100, que\r\nincluyan áreas de recreación y deporte que cumplan con las especificaciones\r\ntécnicas."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "es"
+   },
+   [
+    "span",
+    {},
+    "Garantizar\r\nque todas las nuevas edificaciones y modificaciones propuestas cumplan con las\r\nnormativas vigentes y satisfagan las necesidades de la comunidad."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "es"
+   },
+   [
+    "span",
+    {},
+    "Estas\r\npropuestas están diseñadas para crear espacios articulados que interconecten\r\ndiferentes áreas y funciones, promoviendo un desarrollo urbano ordenado,\r\nsostenible y respetuoso con las normativas técnicas, además de mejorar la\r\ncalidad de vida de los habitantes de Pachabamba. Todo este plan integral\r\nincluye un enfoque en desarrollar el centro poblado como un importante eje\r\nturístico, como se puede observar en la Figura 7, que detalla cómo cada\r\nelemento propuesto contribuye al crecimiento y la atracción turística de la\r\nzona."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Propuestas de espacios articulados – eje agrícola"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "es"
+   },
+   [
+    "span",
+    {},
+    [
+     "span",
+     {},
+     "●",
+     [
+      "span",
+      {},
+      "      \r\n"
+     ]
+    ]
+   ],
+   [
+    "span",
+    {},
+    "Inicio\r\nen sembrío de papa: El eje agrícola comienza con un área dedicada al cultivo de\r\npapa, destacando la agricultura local y su importancia económica y cultural."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "es"
+   },
+   [
+    "span",
+    {},
+    [
+     "span",
+     {},
+     "●",
+     [
+      "span",
+      {},
+      "      \r\n"
+     ]
+    ]
+   ],
+   [
+    "span",
+    {},
+    "Mirador\r\nagrícola: Un mirador estratégicamente ubicado permite a residentes y visitantes\r\napreciar la belleza paisajística de los cultivos y aprender sobre las técnicas\r\nagrícolas locales."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "es"
+   },
+   [
+    "span",
+    {},
+    [
+     "span",
+     {},
+     "●",
+     [
+      "span",
+      {},
+      "      \r\n"
+     ]
+    ]
+   ],
+   [
+    "span",
+    {},
+    "Conectividad\r\ncon sembríos: Se establecerá una conectividad eficiente que facilite el acceso\r\nentre diferentes áreas de cultivo, promoviendo la eficiencia agrícola y\r\nmejorando la logística."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "es"
+   },
+   [
+    "span",
+    {},
+    [
+     "span",
+     {},
+     "●",
+     [
+      "span",
+      {},
+      "      \r\n"
+     ]
+    ]
+   ],
+   [
+    "span",
+    {},
+    "Implementación\r\nde un vivero: Se propone la creación de un vivero para la producción y\r\ndistribución de plantas, fortaleciendo la infraestructura agrícola local y\r\napoyando la biodiversidad vegetal."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "es"
+   },
+   [
+    "span",
+    {},
+    [
+     "span",
+     {},
+     "●",
+     [
+      "span",
+      {},
+      "      \r\n"
+     ]
+    ]
+   ],
+   [
+    "span",
+    {},
+    "Sembrío\r\ny cosecha de palta: El eje culmina con áreas dedicadas al sembrío y la cosecha\r\nde palta, un producto de importancia económica que se exporta, fortaleciendo la\r\neconomía local y regional."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "es"
+   },
+   [
+    "span",
+    {},
+    "Estas\r\npropuestas no solo promueven el desarrollo agrícola sostenible y eficiente,\r\nsino que también buscan integrar aspectos educativos y turísticos para\r\nenriquecer la experiencia tanto de residentes como de visitantes en Pachabamba."
+   ]
+  ],
+  "\r\n\r\n",
+  "\r\n\r\n",
+  [
+   "table",
+   {},
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Figura 7"
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "i",
+       {},
+       [
+        "span",
+        {},
+        "Propuestas de espacios articulados – eje turístico"
+       ]
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       " "
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       [
+        "figura",
+        {}
+       ]
+      ],
+      [
+       "span",
+       {}
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {
+      "lang": "es"
+     },
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "i",
+       {},
+       [
+        "span",
+        {},
+        "Nota"
+       ]
+      ],
+      [
+       "span",
+       {},
+       ".",
+       [
+        "span",
+        {},
+        "  "
+       ],
+       "Elaboración propia de los datos ilustra\r\n  cómo los elementos propuestos contribuyen al desarrollo y a la promoción del\r\n  turismo en el centro poblado de Pachabamba (2024). "
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       " "
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n"
+  ],
+  "\r\n\r\n",
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    " "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    " "
+   ]
+  ],
+  "\r\n\r\n",
+  "\r\n\r\n",
+  [
+   "table",
+   {},
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Figura 8"
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "i",
+       {},
+       [
+        "span",
+        {},
+        "Propuesta de\r\n  espacios articulados – eje agrícola"
+       ]
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       " "
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       [
+        "figura",
+        {}
+       ]
+      ],
+      [
+       "span",
+       {}
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {
+      "lang": "es"
+     },
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "i",
+       {},
+       [
+        "span",
+        {},
+        "Nota."
+       ]
+      ],
+      [
+       "span",
+       {},
+       " Elaboración propia de los\r\n  datos indican que las propuestas promueven el desarrollo agrícola, educativo\r\n  y turístico en Pachabamba (2024). "
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       " "
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n"
+  ],
+  "\r\n\r\n",
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    " "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "i",
+    {},
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     " "
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    " "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "es"
+   },
+   "Las propuestas para el desarrollo urbano en el\r\ncentro poblado de Pachabamba integran diversos usos y funciones, promoviendo un\r\ncrecimiento sostenible y mejorando la calidad de vida de sus habitantes. Estas\r\nincluyen la creación de espacios articulados que conectan diferentes áreas,\r\nasegurando un entorno urbano cohesivo. Se han realizado estudios de riesgos y\r\nse proponen estrategias de mitigación específica para cada proyecto, esencial\r\npara gestionar los desafíos potenciales y asegurar el apoyo comunitario a\r\ntravés de la consulta pública (Ver Tabla 3)."
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    " "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "i",
+    {},
+    [
+     "span",
+     {},
+     " "
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  "\r\n\r\n",
+  [
+   "table",
+   {},
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {
+      "colspan": "4",
+      "lang": "es"
+     },
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Tabla 3"
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "i",
+       {},
+       [
+        "span",
+        {},
+        "Análisis de\r\n  riesgos y estrategias de mitigación para las propuestas de desarrollo urbano\r\n  en Pachabamba"
+       ]
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        " "
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "Eje Dinamizador"
+       ]
+      ],
+      [
+       "span",
+       {}
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "Propuesta de intervención"
+       ]
+      ],
+      [
+       "span",
+       {}
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "Estado actual"
+       ]
+      ],
+      [
+       "span",
+       {}
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "Meta a alcanzar"
+       ]
+      ],
+      [
+       "span",
+       {}
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Desarrollo de infraestructura"
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Mejoras en calles y caminos"
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Deficiente"
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Óptimo"
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Espacios públicos y\r\n  recreativos"
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Creación de parques y plazas"
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Insuficiente"
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Adecuado"
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Promoción cultural y\r\n  turística"
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Preservación de la primera\r\n  iglesia"
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Limitada"
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Expandida"
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Fomento de actividades\r\n  económicas"
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {
+      "lang": "es"
+     },
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Capacitación y apoyo a la\r\n  agricultura y el comercio"
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Necesario"
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Fortalecido"
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Sostenibilidad ambiental"
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Prácticas sostenibles y\r\n  conservación de áreas verdes"
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Parcial"
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Completa"
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Accesibilidad y conectividad"
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Construcción y mantenimiento\r\n  de vías de comunicación"
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Mejorable"
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Excelente"
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {
+      "colspan": "4",
+      "lang": "es"
+     },
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "i",
+       {},
+       [
+        "span",
+        {},
+        "Nota."
+       ]
+      ],
+      [
+       "span",
+       {},
+       "\r\n  Elaboración propia: tabla resume los riesgos identificados y las estrategias\r\n  de mitigación específicas para cada propuesta de desarrollo urbano en el\r\n  centro poblado de Pachabamba, con el objetivo de gestionar los desafíos\r\n  potenciales y asegurar la viabilidad y aceptación de los proyectos. "
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       " "
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n"
+  ],
+  "\r\n\r\n",
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "i",
+    {},
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     " "
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    " "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "DISCUSIÓN"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "i",
+    {},
+    [
+     "span",
+     {},
+     "Profundizando en el Plan de Desarrollo\r\nUrbano para Pachabamba"
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "es"
+   },
+   [
+    "span",
+    {},
+    "El Plan de\r\nDesarrollo Urbano para Pachabamba es una propuesta integral que tiene como\r\nobjetivo mejorar la calidad de vida de sus habitantes y fomentar un desarrollo\r\nsostenible a largo plazo. El plan se basa en un análisis exhaustivo de la\r\nsituación actual, considerando las particularidades y necesidades locales. Se\r\nenfoca en la mejora de la infraestructura vial, creando una red de comunicación\r\neficiente que favorezca la movilidad dentro y fuera de la localidad. Además,\r\nbusca la creación de nuevos espacios públicos y la renovación de áreas\r\nexistentes, como parques y plazas, que fomenten la interacción social, el\r\nesparcimiento y el bienestar de los ciudadanos."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "es"
+   },
+   [
+    "span",
+    {},
+    "El plan no\r\nsolo aboga por la modernización de la infraestructura, sino también por el\r\nequilibrio entre el desarrollo urbano y la preservación de la identidad\r\ncultural y natural del lugar. Esto implica la integración de áreas agrícolas y\r\nrecreativas, asegurando que el crecimiento de la localidad no se dé a costa de\r\nsus recursos naturales o de su patrimonio histórico."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Comparaciones\r\ncon otros estudios"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "es"
+   },
+   [
+    "span",
+    {},
+    "En este\r\ncontexto, es fundamental situar el Plan de Desarrollo Urbano para Pachabamba\r\ndentro de un marco más amplio de investigación y comparación con otros trabajos\r\nsimilares. Al analizar cómo otros centros urbanos en el Perú y el mundo han\r\nabordado problemas similares de urbanización, movilidad, y sostenibilidad, se\r\npueden extraer valiosas lecciones. Por ejemplo, el caso de ciudades intermedias\r\nen Perú como Ayacucho o Cajamarca, donde se han implementado mejoras en\r\ninfraestructura vial y en la creación de espacios públicos, ofrece importantes\r\npuntos de referencia para adaptar soluciones locales."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "es"
+   },
+   [
+    "span",
+    {},
+    "En el ámbito\r\ninternacional, ciudades en países como Colombia, México o Chile han enfrentado\r\ndesafíos urbanos similares, promoviendo el desarrollo sostenible a través de la\r\nintegración de zonas residenciales, comerciales y recreativas, sin perder de\r\nvista la preservación de su identidad cultural. Estudios sobre ciudades como\r\nMedellín, Bogotá o Santiago de Chile, que han avanzado en la revitalización\r\nurbana a través de intervenciones integrales, pueden proporcionar perspectivas\r\nútiles sobre las mejores prácticas que podrían adaptarse a Pachabamba."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "es"
+   },
+   [
+    "span",
+    {},
+    "Este\r\nenfoque comparativo permitirá fortalecer la propuesta de intervención urbana\r\npara Pachabamba, aprendiendo de las experiencias de otras regiones y asegurando\r\nque las soluciones propuestas sean viables, sostenibles y adaptadas a las\r\nparticularidades de la comunidad."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Implicaciones\r\ny repercusiones"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "es"
+   },
+   [
+    "span",
+    {},
+    "La\r\nimplementación del Plan de Desarrollo Urbano para Pachabamba tendrá un impacto\r\npositivo en la calidad de vida de los habitantes de la localidad. Se anticipa\r\nuna mejora en la movilidad, el acceso a servicios básicos, las oportunidades de\r\nrecreación y la seguridad. Además, se espera que el plan promueva el desarrollo\r\neconómico local y la preservación del patrimonio cultural."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Limitaciones\r\ny consideraciones"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "es"
+   },
+   [
+    "span",
+    {},
+    "Sin\r\nembargo, es importante reconocer que existen algunas limitaciones que deben\r\nconsiderarse. La implementación del plan requerirá una inversión significativa\r\nde recursos financieros, por lo que será crucial explorar diferentes fuentes de\r\nfinanciamiento. Además, será necesario desarrollar estrategias para mitigar los\r\nposibles impactos ambientales de las nuevas construcciones."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "CONCLUSIONES"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "es"
+   },
+   [
+    "span",
+    {},
+    "A partir\r\ndel análisis realizado, la investigación concluye que en el área urbana hay una\r\nocupación espontánea del suelo, sin criterios de sostenibilidad, lo que, por un\r\nlado, provoca un deterioro del suelo agrícola y, por otro, impide la creación\r\nde áreas destinadas a vías, equipamiento y ejes de desarrollo. "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "es"
+   },
+   [
+    "span",
+    {},
+    "Esta\r\nintervención no se limita a mejorar la infraestructura vial, sino que adopta\r\nuna visión holística que incluye la creación de nuevos espacios públicos, la\r\nrenovación de áreas existentes, la promoción de la movilidad sostenible y la\r\npreservación del patrimonio cultural. La implicación activa de la comunidad en\r\nel proceso de planificación ha sido esencial para asegurar que las propuestas\r\nse ajusten a las necesidades reales de los residentes y cuenten con la\r\naceptación y apoyo de la población local."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "es"
+   },
+   [
+    "span",
+    {},
+    "El estudio\r\nde las propuestas planteadas en esta investigación tiene como objetivo\r\nrecuperar el suelo de manera sostenible, destinando de manera proporcional el\r\nárea residencial a futuro, el suelo agrícola como potencial de desarrollo, una\r\nred vial que articule eficientemente el centro poblado, y áreas de equipamiento\r\nesenciales para la comunidad. Además, la renovación de áreas existentes y la\r\ncreación de nuevos espacios públicos se han diseñado respetando el patrimonio\r\ncultural de Pachabamba, valorizando su identidad local y fortaleciendo el\r\nsentido de comunidad. Estas propuestas buscan no solo mejorar la calidad de\r\nvida de los residentes, sino también preservar las características únicas del\r\nlugar que hacen de Pachabamba un espacio culturalmente rico y atractivo."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "es"
+   },
+   [
+    "span",
+    {},
+    "Para\r\ncontinuar avanzando en la mejora del centro poblado de Pachabamba, futuras\r\nlíneas de investigación podrían centrarse en varios aspectos clave. Una de las\r\nprincipales áreas de estudio sería la evaluación de los impactos\r\nsocioeconómicos del desarrollo propuesto, analizando cómo las intervenciones\r\nurbanísticas podrían afectar la dinámica social, económica y cultural de la\r\npoblación, particularmente en lo que respecta a la migración, el empleo local y\r\nla cohesión social."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "es"
+   },
+   [
+    "span",
+    {},
+    "Otra línea\r\nrelevante sería investigar el impacto ambiental de las propuestas, asegurando\r\nque el desarrollo del suelo, tanto residencial como agrícola, no interfiera con\r\nla conservación de los recursos naturales y el equilibrio ecológico. Esta\r\ninvestigación podría incluir estudios sobre la sostenibilidad de los sistemas\r\nde drenaje."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "es"
+   },
+   [
+    "span",
+    {},
+    "Finalmente,\r\nse podría explorar la posibilidad de integrar estrategias de turismo sostenible\r\nque no solo promocionen la historia y el patrimonio de Pachabamba, sino que\r\ntambién fomenten el desarrollo económico local y respeten el equilibrio\r\nambiental. Estos estudios permitirían ofrecer propuestas más completas y\r\nactualizadas, alineadas con las tendencias globales de desarrollo urbano\r\nsostenible.",
+    [
+     "span",
+     {}
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "REFERENCIAS\r\nBIBLIOGRÁFICAS"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "es"
+   },
+   [
+    "span",
+    {},
+    "Arias, C., Carreño, C., & Carolina,\r\nC. (2016). Construcción de espacios comunes y colectivos: aportes conceptuales\r\nal territorio urbano. ",
+    [
+     "i",
+     {},
+     "Bitácora Urbano\r\nTerritorial"
+    ],
+    ", ",
+    [
+     "i",
+     {},
+     "26"
+    ],
+    "(1), 9-22. "
+   ],
+   [
+    "a",
+    {
+     "href": "http://dx.doi.org/10.15446/bitacora.v26n1.58028"
+    },
+    [
+     "span",
+     {},
+     "http://dx.doi.org/10.15446/bitacora.v26n1.58028"
+    ]
+   ],
+   [
+    "span",
+    {}
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "es"
+   },
+   [
+    "span",
+    {},
+    "Carazo, E. (2008). Esquemas de\r\nzonificación ambiental para la planificación regional urbana. ",
+    [
+     "i",
+     {},
+     "Revista Geográfica de América Central"
+    ],
+    ", ",
+    [
+     "i",
+     {},
+     "1 "
+    ],
+    "(41). Obtenido de "
+   ],
+   [
+    "a",
+    {
+     "href": "http://www.redalyc.org/articulo.oa?id=451744659003"
+    },
+    [
+     "span",
+     {},
+     "http://www.redalyc.org/articulo.oa?id=451744659003"
+    ]
+   ],
+   [
+    "span",
+    {}
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "es"
+   },
+   [
+    "span",
+    {},
+    "Giménez, G. (2001). Cultura, territorio\r\ny migraciones. Aproximaciones teóricas. ",
+    [
+     "i",
+     {},
+     "alteridades,\r\n"
+    ],
+    "(22), 5-14. Obtenido de http://www.redalyc.org/articulo.oa?id=74702202"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    "Holl, S. (2003). ",
+    [
+     "i",
+     {},
+     "Parallax."
+    ],
+    "\r\nNueva York: Princeton Architectural Press. "
+   ],
+   [
+    "span",
+    {},
+    "Obtenido de "
+   ],
+   [
+    "a",
+    {
+     "href": "http://www.loc.gov/catdir/enhancements/fy0722/00037325-d.html"
+    },
+    [
+     "span",
+     {},
+     "http://www.loc.gov/catdir/enhancements/fy0722/00037325-d.html"
+    ]
+   ],
+   [
+    "span",
+    {}
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Martínez-Valdés, V., Silva, E., &\r\nGonzález, E. J. (2020). Parques urbanos: un enfoque para su estudio como\r\nespacio público. ",
+    [
+     "i",
+     {},
+     "Intersticios sociales"
+    ],
+    ",\r\n(19), 67-86. "
+   ],
+   [
+    "a",
+    {
+     "href": "https://doi.org/10.55555/IS.19.277"
+    },
+    [
+     "span",
+     {},
+     "https://doi.org/10.55555/IS.19.277"
+    ]
+   ],
+   [
+    "span",
+    {}
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "es"
+   },
+   [
+    "span",
+    {},
+    "Minaya, C. (2016). Recuperación y\r\nconservación del patrimonio cultural, para promover el turismo sostenible en el\r\ncentro poblado Pachabamba-Huánuco. Obtenido de "
+   ],
+   [
+    "a",
+    {
+     "href": "https://hdl.handle.net/20.500.13080/1151"
+    },
+    [
+     "span",
+     {},
+     "https://hdl.handle.net/20.500.13080/1151"
+    ]
+   ],
+   [
+    "span",
+    {}
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "es"
+   },
+   [
+    "span",
+    {},
+    "Ministerio de Vivienda, Construcción y\r\nSaneamiento (MVCS). (2014). ",
+    [
+     "i",
+     {},
+     "Norma Técnica\r\nA.100 Recreación y Deportes."
+    ],
+    " Lima. Obtenido de "
+   ],
+   [
+    "a",
+    {
+     "href": "https://www.construccion.org/normas/rne2012/rne2006.htm"
+    },
+    [
+     "span",
+     {},
+     "https://www.construccion.org/normas/rne2012/rne2006.htm"
+    ]
+   ],
+   [
+    "span",
+    {}
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "es"
+   },
+   [
+    "span",
+    {},
+    "Ministerio\r\nde Vivienda, Construcción y Saneamiento (MVCS). (2021). ",
+    [
+     "i",
+     {},
+     "Norma Técnica A.070 - Comercio."
+    ],
+    " Perú. Obtenido de "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "a",
+    {
+     "href": "https://cdn-web.construccion.org/normas/files/vivienda/RM_061-2021-Vivienda.pdf"
+    },
+    [
+     "span",
+     {},
+     "https://cdn-web.construccion.org/normas/files/vivienda/RM_061-2021-Vivienda.pdf"
+    ]
+   ],
+   [
+    "span",
+    {}
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "es"
+   },
+   [
+    "span",
+    {},
+    "Monclús, F. J. (2003). El \"modelo\r\nBarcelona\" ¿una fórmula original? De la \"reconstrucción\" a los\r\nproyectos urbanos estratégicos. ",
+    [
+     "i",
+     {},
+     "Perspectivas\r\nUrbanas/ Urban Perspectives"
+    ],
+    ", (3), 27-41. Obtenido de "
+   ],
+   [
+    "a",
+    {
+     "href": "http://hdl.handle.net/2099/703"
+    },
+    [
+     "span",
+     {},
+     "http://hdl.handle.net/2099/703"
+    ]
+   ],
+   [
+    "span",
+    {}
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Portas, N. (2003). El surgimiento del\r\nproyecto urbano. ",
+    [
+     "i",
+     {},
+     "Perspectivas\r\nUrbanas/Urban Perspectives, "
+    ],
+    "(3). Obtenido de "
+   ],
+   [
+    "a",
+    {
+     "href": "http://hdl.handle.net/2099/555"
+    },
+    [
+     "span",
+     {},
+     "http://hdl.handle.net/2099/555"
+    ]
+   ],
+   [
+    "span",
+    {}
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "es"
+   },
+   [
+    "span",
+    {},
+    "Ramírez, P. (2007). La ciudad, espacio\r\nde construcción de ciudadanía. ",
+    [
+     "i",
+     {},
+     "Revista\r\nEnfoques:Ciencia Política y Administración Pública"
+    ],
+    ", (7), 85-107. Obtenido\r\nde "
+   ],
+   [
+    "a",
+    {
+     "href": "https://www.redalyc.org/articulo.oa?id=96000704"
+    },
+    [
+     "span",
+     {},
+     "https://www.redalyc.org/articulo.oa?id=96000704"
+    ]
+   ],
+   [
+    "span",
+    {}
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Sánchez, L. (2022). La intervención del\r\npatrimonio arquitectónico-urbano residencial de mar del plata: un problema\r\nabierto. ",
+    [
+     "i",
+     {},
+     "Arquitectura del sur"
+    ],
+    ", ",
+    [
+     "i",
+     {},
+     "40"
+    ],
+    "(61), 40-53. "
+   ],
+   [
+    "a",
+    {
+     "href": "https://doi.org/10.22320/07196466.2022.40.061.03"
+    },
+    [
+     "span",
+     {},
+     "https://doi.org/10.22320/07196466.2022.40.061.03"
+    ]
+   ],
+   [
+    "span",
+    {}
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   " "
+  ],
+  "\r\n\r\n",
+  "\r\n\r\n",
+  [
+   "br",
+   {}
+  ],
+  "\r\n\r\n",
+  "\r\n\r\n",
+  "\r\n\r\n",
+  [
+   "span",
+   {
+    "id": "t-ftn1"
+   },
+   "\r\n\r\n",
+   [
+    "p",
+    {
+     "lang": "es"
+    },
+    [
+     "a",
+     {
+      "id": "t-_ftn1",
+      "href": "#t-_ftnref1"
+     },
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       [
+        "span",
+        {},
+        [
+         "span",
+         {},
+         [
+          "span",
+          {},
+          "[1]"
+         ]
+        ]
+       ]
+      ]
+     ]
+    ],
+    [
+     "span",
+     {},
+     " "
+    ],
+    [
+     "span",
+     {},
+     "Este documento surge de una combinación de investigación y análisis del\r\ncontexto urbano de Pachabamba, enfocándose en la propuesta de espacios\r\narticulados para el desarrollo de la comunidad y la integración de áreas\r\nagrícolas."
+    ],
+    [
+     "span",
+     {}
+    ]
+   ],
+   "\r\n\r\n"
+  ],
+  "\r\n\r\n",
+  [
+   "span",
+   {
+    "id": "t-ftn2"
+   },
+   "\r\n\r\n",
+   [
+    "p",
+    {
+     "lang": "es"
+    },
+    [
+     "a",
+     {
+      "id": "t-_ftn2",
+      "href": "#t-_ftnref2"
+     },
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       [
+        "span",
+        {},
+        [
+         "span",
+         {},
+         [
+          "span",
+          {},
+          "[2]"
+         ]
+        ]
+       ]
+      ]
+     ]
+    ],
+    [
+     "span",
+     {},
+     " "
+    ],
+    [
+     "span",
+     {},
+     "Arquitecto\r\nde la Universidad Nacional Hermilio Valdizán (Huánuco, Perú). Especialista en\r\ndiseño, proyectos y construcción. Docente ordinario nombrado de pregrado de la\r\nEscuela Profesional de Arquitectura de la Facultad de Ingeniería Civil y\r\nArquitectura de la Universidad Nacional Hermilio Valdizán. Docente contratado\r\npor la Universidad de Huánuco para el área de pregrado, Maestría en Educación\r\ncon mención en Investigación y Docencia Superior por la escuela de Posgrado de\r\nla Universidad Nacional Hermilio Valdizán.",
+     [
+      "span",
+      {},
+      " \r\n"
+     ]
+    ],
+    [
+     "span",
+     {}
+    ]
+   ],
+   "\r\n\r\n"
+  ],
+  "\r\n\r\n",
+  [
+   "span",
+   {
+    "id": "t-ftn3"
+   },
+   "\r\n\r\n",
+   [
+    "p",
+    {},
+    [
+     "a",
+     {
+      "id": "t-_ftn3",
+      "href": "#t-_ftnref3"
+     },
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       [
+        "span",
+        {},
+        [
+         "span",
+         {},
+         [
+          "span",
+          {},
+          "[3]"
+         ]
+        ]
+       ]
+      ]
+     ]
+    ],
+    [
+     "span",
+     {},
+     " "
+    ],
+    [
+     "span",
+     {},
+     "Estudiante\r\nde la Universidad de Huánuco (Huánuco, Perú). Escuela de Arquitectura, Facultad\r\nde ingeniería."
+    ]
+   ],
+   "\r\n\r\n",
+   [
+    "p",
+    {},
+    [
+     "span",
+     {},
+     " "
+    ]
+   ],
+   "\r\n\r\n"
+  ],
+  "\r\n\r\n",
+  "\r\n\r\n"
+ ]
+};

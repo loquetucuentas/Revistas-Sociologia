@@ -1,0 +1,2934 @@
+{
+ "version": 1,
+ "recogido": "2026-10-18T11:42:33+00:00",
+ "doi": "10.24215/23139048e086",
+ "titulo": "saber filosófico en la Facultad de Filosofía y Letras de la Universidad de Buenos Aires",
+ "revista": "2313-9048",
+ "numero": "v18-n18-2025",
+ "licencia": {
+  "codigo": "by-nc-sa",
+  "nombre": "CC BY-NC-SA 4.0",
+  "nombre_completo": "Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional",
+  "url": "https://creativecommons.org/licenses/by-nc-sa/4.0",
+  "url_legal": "https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.es"
+ },
+ "fuente": {
+  "url": "https://perio.unlp.edu.ar/ojs/index.php/cps/article/download/8112/7470/36486?inline=1",
+  "formato": "HTML",
+  "plataforma": "ojs-galerada",
+  "pagina": "https://perio.unlp.edu.ar/ojs/index.php/cps/article/view/8112"
+ },
+ "autores_cita": [
+  {
+   "apellidos": "Moine",
+   "nombre_pila": "Facundo José",
+   "nombre": null
+  }
+ ],
+ "avisos_derechos": [
+  "Derechos de autor 2025 Cuadernos de H ideas",
+  "Licencia Derechos de autor 2025 Cuadernos de H ideas Esta obra está bajo una licencia internacional Creative Commons Atribución-NoComercial-CompartirIgual 4.0. La aceptación de un original por parte de la revista implica la cesión no exclusiva de los derechos patrimoniales de los/as autores/as en favor del editor, quien permite la reutilización, luego de su edición (postprint), bajo una Licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0) Acorde a estos términos, el material se puede compartir (copiar y redistribuir en cualquier medio o formato) y adaptar (remezclar, transformar y crear a partir del material otra obra), siempre que a) se cite la autoría y la fuente original de su publicación (revista y URL de la obra), b) no se use para fines comerciales y c) se mantengan los mismos términos de la licencia. La cesión de derechos no exclusivos implica que luego de su edición (postprint) en Cuadernos de H ideas las/os autoras/es pueden publicar su trabajo en cualquier idioma, medio y formato; en tales casos, se solicita que se consigne que el material fue publicado originalmente en esta revista. Tal cesión supone, también, la autorización de los/as autores/as para que el trabajo sea cosechado por SEDICI, el repositorio institucional de la Universidad Nacional de La Plata, y sea difundido en las bases de datos que el equipo editorial considere adecuadas para incrementar la visibilidad de la publicación y de sus autores/as. Asimismo, la revista incentiva a las/os autoras/es para que luego de su publicación en Cuadernos de H ideas depositen sus producciones en otros repositorios institucionales y temáticos, bajo el principio de que ofrecer a la sociedad la producción científica y académica sin restricciones contribuye a un mayor intercambio del conocimiento global."
+ ],
+ "idioma_principal": "es",
+ "indice": [],
+ "vueltas": {
+  "t-redalyc_314964009_ref5": "t-llamada-redalyc_314964009_ref5-1",
+  "t-redalyc_314964009_ref12": "t-llamada-redalyc_314964009_ref12-1",
+  "t-redalyc_314964009_ref36": "t-llamada-redalyc_314964009_ref36-1",
+  "t-redalyc_314964009_ref4": "t-llamada-redalyc_314964009_ref4-1",
+  "t-redalyc_314964009_ref11": "t-llamada-redalyc_314964009_ref11-1",
+  "t-redalyc_314964009_ref37": "t-llamada-redalyc_314964009_ref37-1",
+  "t-redalyc_314964009_ref6": "t-llamada-redalyc_314964009_ref6-1",
+  "t-fn1": "t-llamada-fn1-1",
+  "t-redalyc_314964009_ref33": "t-llamada-redalyc_314964009_ref33-1",
+  "t-redalyc_314964009_ref21": "t-llamada-redalyc_314964009_ref21-1",
+  "t-fn2": "t-llamada-fn2-1",
+  "t-fn3": "t-llamada-fn3-1",
+  "t-redalyc_314964009_ref25": "t-llamada-redalyc_314964009_ref25-1",
+  "t-redalyc_314964009_ref19": "t-llamada-redalyc_314964009_ref19-1",
+  "t-redalyc_314964009_ref23": "t-llamada-redalyc_314964009_ref23-1",
+  "t-redalyc_314964009_ref14": "t-llamada-redalyc_314964009_ref14-1",
+  "t-redalyc_314964009_ref34": "t-llamada-redalyc_314964009_ref34-1",
+  "t-fn4": "t-llamada-fn4-1",
+  "t-redalyc_314964009_ref22": "t-llamada-redalyc_314964009_ref22-1",
+  "t-redalyc_314964009_ref32": "t-llamada-redalyc_314964009_ref32-1",
+  "t-redalyc_314964009_ref20": "t-llamada-redalyc_314964009_ref20-1",
+  "t-redalyc_314964009_ref16": "t-llamada-redalyc_314964009_ref16-1",
+  "t-fn5": "t-llamada-fn5-1",
+  "t-redalyc_314964009_ref26": "t-llamada-redalyc_314964009_ref26-1",
+  "t-fn6": "t-llamada-fn6-1",
+  "t-redalyc_314964009_ref18": "t-llamada-redalyc_314964009_ref18-1",
+  "t-redalyc_314964009_ref28": "t-llamada-redalyc_314964009_ref28-1",
+  "t-redalyc_314964009_ref3": "t-llamada-redalyc_314964009_ref3-1",
+  "t-redalyc_314964009_ref13": "t-llamada-redalyc_314964009_ref13-1",
+  "t-redalyc_314964009_ref17": "t-llamada-redalyc_314964009_ref17-1",
+  "t-redalyc_314964009_ref10": "t-llamada-redalyc_314964009_ref10-1",
+  "t-redalyc_314964009_ref9": "t-llamada-redalyc_314964009_ref9-1",
+  "t-redalyc_314964009_ref35": "t-llamada-redalyc_314964009_ref35-1",
+  "t-redalyc_314964009_ref15": "t-llamada-redalyc_314964009_ref15-1",
+  "t-redalyc_314964009_ref7": "t-llamada-redalyc_314964009_ref7-1",
+  "t-fn7": "t-llamada-fn7-1",
+  "t-redalyc_314964009_ref29": "t-llamada-redalyc_314964009_ref29-1",
+  "t-redalyc_314964009_ref24": "t-llamada-redalyc_314964009_ref24-1",
+  "t-redalyc_314964009_ref27": "t-llamada-redalyc_314964009_ref27-1",
+  "t-redalyc_314964009_ref31": "t-llamada-redalyc_314964009_ref31-1",
+  "t-fn8": "t-llamada-fn8-1",
+  "t-redalyc_314964009_ref30": "t-llamada-redalyc_314964009_ref30-1",
+  "t-redalyc_314964009_ref38": "t-llamada-redalyc_314964009_ref38-1",
+  "t-redalyc_314964009_ref8": "t-llamada-redalyc_314964009_ref8-1"
+ },
+ "contenido": [
+  [
+   "span",
+   {
+    "id": "t-MathJax_Message"
+   }
+  ],
+  "\r\n",
+  [
+   "span",
+   {
+    "id": "t-visor-cabecera"
+   },
+   "\r\n",
+   "\r\n",
+   [
+    "span",
+    {
+     "id": "t-logo-institucion"
+    },
+    "\r\n",
+    [
+     "figura",
+     {}
+    ]
+   ],
+   "\r\n",
+   [
+    "span",
+    {
+     "id": "t-logo-revista"
+    },
+    "\r\n",
+    [
+     "figura",
+     {}
+    ]
+   ],
+   "\r\n",
+   "\r\n"
+  ],
+  "\r\n",
+  [
+   "span",
+   {
+    "id": "t-articulo"
+   },
+   "\r\n",
+   [
+    "span",
+    {
+     "id": "t-front"
+    },
+    "\r\n",
+    [
+     "span",
+     {
+      "id": "t-articulo-categoria"
+     },
+     "\r\n",
+     [
+      "p",
+      {},
+      "Dossier"
+     ],
+     "\r\n"
+    ],
+    "\r\n",
+    [
+     "span",
+     {
+      "id": "t-articulo-meta"
+     },
+     "\r\n",
+     [
+      "p",
+      {},
+      "El saber filosófico en la Facultad de \r\nFilosofía y Letras de la Universidad de Buenos Aires. Definiciones y \r\ndebates a comienzos del siglo XX"
+     ],
+     "\r\n",
+     [
+      "p",
+      {
+       "lang": "en"
+      },
+      "The Philosophical Knowledge at the\r\n Facultad de Filosofía y Letras of the Universidad de Buenos Aires. \r\nDefinitions and Debates in the Early 20th Century"
+     ],
+     "\r\n"
+    ],
+    "\r\n",
+    [
+     "span",
+     {
+      "id": "t-articulo-acerca"
+     },
+     "\r\n",
+     [
+      "span",
+      {
+       "id": "t-ficha-general"
+      },
+      "\r\n",
+      [
+       "span",
+       {
+        "id": "t-autores-articulo"
+       },
+       "\r\n",
+       "\r\n",
+       "\r\n",
+       [
+        "a",
+        {
+         "href": "https://orcid.org/0000-0003-3894-4421"
+        },
+        [
+         "figura",
+         {}
+        ]
+       ],
+       "  ",
+       [
+        "span",
+        {},
+        "Facundo José"
+       ],
+       " ",
+       [
+        "span",
+        {},
+        "Moine"
+       ],
+       " ",
+       [
+        "span",
+        {}
+       ],
+       [
+        "span",
+        {},
+        " fjmoine@mi.unc.edu.ar"
+       ],
+       "\r\n",
+       "\r\n",
+       "\r\n",
+       [
+        "span",
+        {},
+        "Universidad Nacional de Córdoba, Instituto de Humanidades-CONICET"
+       ],
+       ", ",
+       [
+        "span",
+        {},
+        "Argentina"
+       ],
+       "\r\n",
+       "\r\n",
+       "\r\n"
+      ],
+      "\r\n",
+      "\r\n",
+      [
+       "p",
+       {},
+       "\r\n",
+       [
+        "span",
+        {},
+        "Cuadernos de H ideas"
+       ],
+       "\r\n"
+      ],
+      "\r\n",
+      [
+       "p",
+       {},
+       "\r\n",
+       [
+        "span",
+        {},
+        "Universidad Nacional de La Plata, Argentina"
+       ],
+       "\r\n"
+      ],
+      "\r\n",
+      [
+       "p",
+       {},
+       "\r\n",
+       [
+        "span",
+        {},
+        "ISSN: "
+       ],
+       "1851-8206"
+      ],
+      "\r\n",
+      [
+       "p",
+       {},
+       "\r\n",
+       [
+        "span",
+        {},
+        "ISSN-e: "
+       ],
+       "2313-9048"
+      ],
+      "\r\n",
+      [
+       "p",
+       {},
+       "\r\n",
+       [
+        "span",
+        {},
+        "Periodicidad: "
+       ],
+       "Frecuencia continua"
+      ],
+      "\r\n",
+      [
+       "p",
+       {},
+       "\r\n",
+       [
+        "span",
+        {},
+        "vol.  18, "
+       ],
+       "núm.  18, ",
+       [
+        "span",
+        {
+         "id": "t-elocation-id"
+        },
+        "e086, "
+       ],
+       [
+        "span",
+        {},
+        "2024"
+       ],
+       "\r\n"
+      ],
+      "\r\n",
+      [
+       "p",
+       {},
+       "\r\n",
+       "direccion.publicaciones@perio.unlp.edu.ar",
+       "\r\n"
+      ],
+      "\r\n",
+      "\r\n",
+      [
+       "span",
+       {
+        "id": "t-articulo-product"
+       }
+      ],
+      "\r\n",
+      "\r\n",
+      [
+       "p",
+       {},
+       "\r\n",
+       [
+        "span",
+        {},
+        "Recepción: "
+       ],
+       " 02 marzo  2024"
+      ],
+      "\r\n",
+      [
+       "p",
+       {},
+       "\r\n",
+       [
+        "span",
+        {},
+        "Aprobación: "
+       ],
+       " 15 septiembre  2024"
+      ],
+      "\r\n",
+      [
+       "p",
+       {},
+       "\r\n",
+       [
+        "span",
+        {},
+        "Publicación: "
+       ],
+       " 17 diciembre  2024"
+      ],
+      "\r\n",
+      [
+       "br",
+       {}
+      ],
+      "\r\n",
+      [
+       "br",
+       {}
+      ],
+      "\r\n",
+      "\r\n",
+      "\r\n",
+      [
+       "span",
+       {},
+       "URL: "
+      ],
+      [
+       "a",
+       {
+        "href": "https://portal.amelica.org/ameli/journal/31/314964009/"
+       },
+       "https://portal.amelica.org/ameli/journal/31/314964009/"
+      ],
+      "\r\n",
+      "\r\n",
+      "\r\n",
+      [
+       "span",
+       {},
+       "DOI: "
+      ],
+      [
+       "a",
+       {
+        "href": "https://doi.org/10.24215/23139048e086"
+       },
+       "https://doi.org/10.24215/23139048e086"
+      ],
+      "\r\n",
+      "\r\n",
+      "\r\n",
+      [
+       "p",
+       {}
+      ],
+      "\r\n",
+      "\r\n",
+      "\r\n",
+      "\r\n",
+      [
+       "a",
+       {
+        "href": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+       },
+       [
+        "figura",
+        {}
+       ],
+       [
+        "br",
+        {}
+       ],
+       "\r\n"
+      ],
+      "Esta obra está bajo una ",
+      [
+       "a",
+       {
+        "href": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+       },
+       "Licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional."
+      ],
+      "\r\n",
+      "\r\n",
+      "\r\n",
+      [
+       "p",
+       {}
+      ],
+      "\r\n"
+     ],
+     "\r\n",
+     [
+      "p",
+      {},
+      "\r\n",
+      [
+       "span",
+       {},
+       "Resumen:\r\n\t\t\t\t\t\t\t                           "
+      ],
+      [
+       "span",
+       {},
+       "Este \r\ntrabajo analiza los comienzos de la filosofía académica durante la \r\nprimera década del siglo XX, centrándose en el ámbito de la Facultad de \r\nFilosofía y Letras de la Universidad de Buenos Aires. Se ocupa de \r\ndiversos textos publicados por autoridades y profesores en distintas \r\nrevistas institucionales, reconociendo allí las marcas de sus primeras \r\ndefiniciones. Desde una mirada atenta a los saberes, de inspiración \r\nfoucaultiana, se observan allí la delimitación de un conjunto de \r\nelementos teóricos que acompañan los movimientos institucionales. El \r\nsaber filosófico se iba moldeando en el marco de una universidad y \r\nfacultad también en formación, entrelazándose mutuamente en ese proceso."
+      ],
+      "\r\n"
+     ],
+     "\r\n",
+     [
+      "p",
+      {},
+      "\r\n",
+      [
+       "span",
+       {},
+       "Palabras clave: "
+      ],
+      "filosofía, saber, universidad, Argentina.\r\n\t\t                         "
+     ],
+     "\r\n",
+     [
+      "p",
+      {
+       "lang": "en"
+      },
+      "\r\n",
+      [
+       "span",
+       {},
+       "Abstract:\r\n\t\t\t\t\t\t                           "
+      ],
+      [
+       "span",
+       {},
+       "This paper\r\n analyses the beginnings of academic philosophy in the first decade of \r\nthe twentieth century, focusing on the Facultad de Filosofía y Letras of\r\n the Universidad de Buenos Aires. It deals with several texts published \r\nby authorities and professors in different institutional journals, \r\nrecognizing there the signs of its first definitions. From a Foucauldian\r\n approach to knowledge, we can observe the delimitation of a series of \r\ntheoretical elements that accompany institutional movements. \r\nPhilosophical knowledge was shaped within the framework of a university \r\nand a faculty that were also in the process of formation, and in this \r\nprocess, they were mutually intertwined."
+      ],
+      "\r\n"
+     ],
+     "\r\n",
+     [
+      "p",
+      {},
+      "\r\n",
+      [
+       "span",
+       {},
+       "Keywords: "
+      ],
+      "philosophy, knowledge, university, Argentina.\r\n                                "
+     ],
+     "\r\n"
+    ],
+    "\r\n"
+   ],
+   "\r\n",
+   [
+    "span",
+    {
+     "id": "t-articulo-body"
+    },
+    "\r\n",
+    [
+     "p",
+     {},
+     "El saber filosófico en cuestión"
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Entre finales del siglo XIX y principios del XX, la \r\nfilosofía comienza a configurarse como una disciplina formalmente \r\nreconocida en el ámbito universitario argentino. Su demarcación \r\ninstitucional fue un aspecto clave en este proceso, siendo la creación \r\nde la Facultad de Filosofía y Letras (FFyL) en la Universidad de Buenos \r\nAires (UBA), en 1896, un hito central. Desde entonces, como estipulaba \r\nsu primer plan de estudios, el país contaría con doctores en filosofía y\r\n letras oficialmente reconocidos por el estado a través de la \r\nuniversidad."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Diversos estudios que han indagado con detalle en su \r\nhistoria han planteado que esta Facultad apareció como una intervención \r\ncultural y política sobre una universidad y una sociedad que adquirían \r\nun perfil particular en el contexto del llamado proceso de modernización\r\n impulsado desde la década de 1880 por la élite dirigente y marcado, \r\nentre otras cosas, por el auge del “positivismo” o la “cultura \r\ncientífica” como matriz de pensamiento (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964009_ref5",
+       "id": "t-llamada-redalyc_314964009_ref5-1"
+      },
+      "Buchbinder, 2005"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964009_ref12",
+       "id": "t-llamada-redalyc_314964009_ref12-1"
+      },
+      "Halperín Donghi, 1962"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964009_ref36",
+       "id": "t-llamada-redalyc_314964009_ref36-1"
+      },
+      "Terán, 2000"
+     ],
+     ").\r\n La Facultad fue moldeando así una propuesta institucional y académica \r\nque reaccionaba y respondía a los resultados y consecuencias de este \r\nmovimiento. Entre ellas, se destacan la constitución de un campo \r\nintelectual socialmente diferenciado, cuyas competencias y destrezas, \r\nespecialmente aquellas pertenecientes a las disciplinas humanísticas, \r\ncomenzaban a ser acreditadas por la universidad, y, con ello, la \r\ntendencia profesionalista que adoptaba la instrucción pública en virtud \r\nde las transformaciones que vivía el país. Como advierte Carlos ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964009_ref4",
+       "id": "t-llamada-redalyc_314964009_ref4-1"
+      },
+      "Altamirano (2004)"
+     ],
+     ",\r\n la FFyL surgía como una nueva instancia de autoridad cultural, en donde\r\n se cultivaban saberes doctos, definidos académicamente y practicados \r\nsegún el modelo desinteresado de la investigación científica."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Si dichos estudios han abordado el aspecto \r\ninstitucional y académico de la Facultad, es posible ensayar una mirada \r\nsobre los saberes que allí se impartían, que permita interrogar las \r\norientaciones teóricas que acompañaban ese modelo. Las variaciones \r\ninstitucionales, académicas e, incluso, políticas que se registraban en \r\nplanes de estudios, reglamentaciones, designaciones, memorias y actas, \r\nfueron construidas no solo en diálogo con los cambios que iba sufriendo \r\nel país, sino también con la definición de los saberes que allí se \r\nimpartían. Las páginas que siguen se centran en este último aspecto, \r\nindagando las diferentes opciones que se desplegaban y entrelazaban con \r\nesas transformaciones político-institucionales."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "En línea con trabajos previos (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964009_ref11",
+       "id": "t-llamada-redalyc_314964009_ref11-1"
+      },
+      "Galfione & Moine, 2022"
+     ],
+     "),\r\n aquí se interroga uno de estos saberes en particular, el filosófico. Se\r\n examinan algunos textos publicados por autoridades y profesores de la \r\nFacultad en diferentes revistas institucionales, como la ",
+     [
+      "span",
+      {}
+     ],
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964009_ref37",
+       "id": "t-llamada-redalyc_314964009_ref37-1"
+      },
+      [
+       "span",
+       {},
+       "Revista de la Universidad de Buenos Aires"
+      ],
+      " (",
+      [
+       "span",
+       {},
+       "RUBA"
+      ],
+      ")"
+     ],
+     ",\r\n durante la primera década del siglo XX. Si estos discursos pueden ser \r\nleídos como instancias que intervienen en la delimitación de la \r\nfilosofía, también se puede reconocer en ellos los signos de una \r\ndefinición que la posicionaba como un saber ligado y dependiente de los \r\ndemás saberes producidos en la universidad. Solo a partir de esta \r\nrelación, la filosofía podía proclamarse como un saber legítimo y \r\nreclamar, a su vez, un papel en la dirección de una sociedad e \r\ninstitución en crisis."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Explorar la filosofía en términos de ",
+     [
+      "span",
+      {},
+      "saber"
+     ],
+     ",\r\n en un sentido foucaultiano, implica no partir de ninguna definición \r\nprevia, sino preguntarse, más bien, cómo se construyeron sus reglas y \r\ncondiciones al interior de un campo discursivo. Implica preguntarse \r\ntambién por sus vínculos con el ",
+     [
+      "span",
+      {},
+      "poder"
+     ],
+     ", \r\natendiendo a las condiciones que hicieron posible la delimitación y \r\nlegitimación de esa opción entre otras posibles. En definitiva, interesa\r\n comprender el interior de ese discurso filosófico para reconocer un \r\nmodo de presentar la verdad, con una serie de elementos que le son \r\nfuncionales, pero sin perder de vista el entorno epistémico y político \r\nen el que se produce y circula, indagando cómo y por qué se ha \r\nestablecido y mantenido esa definición en un contexto dado. En relación \r\ncon esto, es fundamental reconocer el papel de la universidad como \r\ninstitución que no solo participa en la legitimación y en el \r\ndisciplinamiento de los saberes, sino que también se ve afectada por \r\nellos. En este sentido, este trabajo procura comprender hasta qué punto \r\nesa construcción del saber filosófico le otorga un sentido y una función\r\n a la universidad, y en qué medida esta, a su vez, le garantiza su \r\nvalidez."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "La filosofía ante las ciencias"
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Las ciencias experimentales como límite"
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Al concluir su mandato como Decano de la FFyL, en \r\n1904, Miguel Cané pronunció un discurso en el que describía el estado \r\nactual de la institución y trazaba su rumbo futuro en el contexto del \r\nproceso de modernización que vivía el país, y frente al cual, como ha \r\nseñalado Oscar ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964009_ref36",
+       "id": "t-llamada-redalyc_314964009_ref36-2"
+      },
+      "Terán (2000)"
+     ],
+     ", mantenía una cautelosa confianza. Si bien ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964009_ref6",
+       "id": "t-llamada-redalyc_314964009_ref6-1"
+      },
+      "Cané (1904)"
+     ],
+     ",\r\n como miembro destacado de la élite dirigente del ochenta, se había \r\ndistinguido por sus incursiones literarias, consideraba que los saberes \r\nhumanísticos que allí se impartían debían ser “científicos por su método\r\n y tendencias, [y] generales por su altura y objetivo” (p. 185). Esta \r\ndirección que pretendía darle a la enseñanza no solo incidió en su \r\ngestión como decano, sino también en el trabajo de muchos profesores. \r\nCané (1094) elogió la labor realizada por Horacio Piñero en la cátedra \r\nde Psicología desde 1903, una de las asignaturas catalogadas como \r\n“filosóficas” en el plan de estudio de 1898.",
+     [
+      "a",
+      {
+       "href": "#t-fn1",
+       "id": "t-llamada-fn1-1"
+      },
+      [
+       "sup",
+       {},
+       "1"
+      ]
+     ],
+     "\r\n"
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "H. Piñero era un joven médico que, por entonces, \r\ntambién ejercía su profesión en el Hospital Rawson, al mismo tiempo que \r\nse desempeñaba como docente en la cátedra de Fisiología de la Facultad \r\nde Ciencias Médicas, en el Colegio Nacional Central y en la Escuela \r\nNormal de Profesores. Había sido invitado por el propio Cané en 1901 a \r\nimpartir en la Facultad un curso libre sobre Psicología Experimental y \r\nClínica. Este curso, como los que solían dictarse en la institución, \r\nestuvo compuesto por una serie de conferencias y, tal como recordaría \r\nRodolfo ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964009_ref33",
+       "id": "t-llamada-redalyc_314964009_ref33-1"
+      },
+      "Rivarola (1910)"
+     ],
+     ", “llamó \r\nla atención del público estudioso” (p. 149). A raíz de ello, Rivarola, \r\nquien enseñaba provisoriamente Psicología en esta Facultad desde su \r\nfundación, le ofreció a H. Piñero ocupar su cátedra. Contó con el apoyo \r\nde los profesores de Lógica, José Matienzo, y de Ética y Metafísica, \r\nAntonio Dellepiane. Este último, a su vez, le cedió su cátedra a \r\nRivarola, al tiempo que pasó a dictar Historia Universal."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Este intercambio evidencia no solo los intereses y \r\nlos compromisos académicos de ambos profesores, sino también la posición\r\n destacada que H. Piñero detentaba entre los profesores de la Facultad. \r\nSu trabajo docente y científico marcaba la línea sobre la cual se \r\ndesarrollaba no solo la psicología, sino también los demás saberes que \r\nallí se enseñaban, especialmente los “filosóficos”. En efecto, en dichas\r\n conferencias se trasluce un modo de comprender el conocimiento sobre \r\ncuyo fondo se recortan y reparten los discursos elaborados en el seno de\r\n la institución durante este período."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "En dichas conferencias, H. ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964009_ref21",
+       "id": "t-llamada-redalyc_314964009_ref21-1"
+      },
+      "Piñero (1918)"
+     ],
+     "\r\n ofreció una explicación genética y anátomo-fisiológica de las funciones\r\n superiores de la actividad mental o del “espíritu”. Esta perspectiva, \r\nque constituyó el núcleo de los programas de su cátedra durante los años\r\n siguientes, se inscribía dentro de la teoría del paralelismo \r\npsico-físico, a la vez que seguía los enfoques histológicos y \r\nneurológicos difundidos en los últimos congresos internacionales de \r\npsicología.",
+     [
+      "a",
+      {
+       "href": "#t-fn2",
+       "id": "t-llamada-fn2-1"
+      },
+      [
+       "sup",
+       {},
+       "2"
+      ]
+     ],
+     " En este marco, y apoyándose en la obra de Herbet Spencer y especialmente de Ernst Haeckel, H. ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964009_ref21",
+       "id": "t-llamada-redalyc_314964009_ref21-2"
+      },
+      "Piñero (1918)"
+     ],
+     "\r\n definía al ser humano como el último resultado de un proceso de \r\nevolución celular, regido por la ley de adaptación. Lo distinguía así de\r\n los demás seres no por su esencia, sino por su nivel evolutivo. El ser \r\nhumano se caracterizaba por una compleja estructura orgánica regulada \r\npor un sistema nervioso cerebro-espinal, cuya principal función era \r\ngarantizar su supervivencia. Esta mirada coincidía con las difundidas \r\ndesde otras asignaturas, como Antropología, dirigida por el alemán \r\nRobert Lehmann-Nitsche desde 1905, también por iniciativa de Cané. Esto \r\nsugiere que formaba parte de un entramado discursivo más amplio que \r\npermeaba las diferentes intervenciones teóricas de los profesores de la \r\nFacultad durante aquellos años.",
+     [
+      "a",
+      {
+       "href": "#t-fn3",
+       "id": "t-llamada-fn3-1"
+      },
+      [
+       "sup",
+       {},
+       "3"
+      ]
+     ],
+     "\r\n"
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Desde este enfoque, que atendía a los factores \r\nfísicos y psíquicos desde una posición monista, se comprendía que el \r\nconocimiento tenía su fuente en los sentidos, que captaban los estímulos\r\n externos y los transformaban en corriente nerviosa o “impresiones”. Sin\r\n embargo, el conocimiento no se limitaba a la recepción sensorial, sino \r\nque dependía también de la “cerebración” o de la actividad neuronal \r\nencargada de coordinar esas “impresiones” y de convertirlas en \r\n“percepciones”. De este modo, H. ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964009_ref21",
+       "id": "t-llamada-redalyc_314964009_ref21-3"
+      },
+      "Piñero (1918)"
+     ],
+     "\r\n afirmaba que no era posible conocer sin la actividad cerebral, a la \r\ncual identificaba con la “inteligencia”. Incluso, le asignaba a esta \r\nactividad un papel fundamental en la adquisición del conocimiento, ya \r\nque la consideraba responsable del error. Las “sensaciones”, receptivas \r\nde estímulos específicos, no podían ser erróneas o ilusorias; solo \r\npodían serlo las “percepciones” o interpretaciones que el cerebro hacía \r\nde ellas."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "En torno a estas consideraciones, entre los \r\nprofesores de la Facultad se articulaba una perspectiva gnoseológica que\r\n podría caracterizarse como un ",
+     [
+      "span",
+      {},
+      "empirismo matizado"
+     ],
+     ".\r\n Esta perspectiva, que encontraba en Herbert Spencer y en Theodule Ribot\r\n a dos de sus principales referentes, postulaba que todas las ideas \r\nderivaban de la experiencia sensible, formada por la interacción del \r\norganismo con el entorno y mediatizada por la actividad neuronal. En \r\nconsecuencia, el acceso a la realidad exterior solo era posible a través\r\n de las sensaciones que ella proporcionaba y que luego el cerebro \r\ninterpretaba. De aquí que se le adjudicaba al conocimiento un fundamento\r\n biológico y se lo reducía a los “hechos fenomenales”. Además, se lo \r\nconcebía como algo deficiente, debido a la refracción que la realidad \r\nsufría al ser percibida por la mente. A partir de esta mediación \r\nperceptual, que introducía la subjetividad psico-física como un factor \r\nesencial en la comprensión del mundo, se concluía que la verdad no podía\r\n ser alcanzada en términos absolutos, puesto que dependía de la \r\ninterpretación del sujeto. En su primera lección dada en la Facultad, \r\nevocando al filósofo inglés, ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964009_ref25",
+       "id": "t-llamada-redalyc_314964009_ref25-1"
+      },
+      "Rivarola (1898)"
+     ],
+     " afirmaba “la relatividad de todo conocimiento” (p. 192)."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "En este marco, la lógica se ponderaba como un \r\ninstrumento de rectificación o de guía para evitar el error y buscar la \r\nverdad. Además, se manifestaba un rechazo hacia la metafísica, entendida\r\n como el esfuerzo de la inteligencia por descubrir de manera \r\napriorística los primeros principios o las causas últimas para \r\ndescender, luego, por escala deductiva hasta la explicación de los \r\nfenómenos. Esto no implicaba un desprecio por las cuestiones \r\ntrascendentales, sino que, con Spencer, se las arrojaba al ámbito de lo \r\nincognoscible. “Existe un límite”, decía H. ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964009_ref21",
+       "id": "t-llamada-redalyc_314964009_ref21-4"
+      },
+      "Piñero (1918)"
+     ],
+     ",\r\n “más allá del cual no nos es lícito pasar” (p. 24). Se proponía, por el\r\n contrario, considerar los hechos como meras manifestaciones \r\nfenoménicas, sin interrogarse por sus esencias. En este sentido, ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964009_ref33",
+       "id": "t-llamada-redalyc_314964009_ref33-2"
+      },
+      "Rivarola (1910)"
+     ],
+     "\r\n esbozaba la imagen de un recinto sin salidas ni aberturas en el que la \r\nhumanidad se encontraba encerrada, con la conciencia de que había algo \r\nmás allá de los muros, pero con el consuelo de poder ocuparse del \r\ninterior, que no era sino la experiencia sensible."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "El conocimiento se restringía al campo de las \r\nciencias experimentales. Se consideraba “experimental” a todo estudio \r\nque se limitara a la experiencia sensible y que, además, tomara como \r\nmodelo a las ciencias naturales. De este modo, se promovía un \r\nprocedimiento observacional e inductivo-comparado con el objetivo de \r\nformular las leyes generales que regían las relaciones entre los hechos \r\nestudiados. A principios del siglo XX, este enfoque predominaba en la \r\nFFyL, ya que constituía el criterio más adecuado para legitimar como \r\n“científico” los saberes allí producidos, especialmente los \r\n“filosóficos” [Véase nota 1]. Así lo ilustran los informes que los \r\nprofesores presentaron, en 1904, ante la Academia de la Facultad acerca \r\nde la índole y método de sus respectivas enseñanzas. Entre ellos, H. ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964009_ref19",
+       "id": "t-llamada-redalyc_314964009_ref19-1"
+      },
+      "Piñero (1904)"
+     ],
+     "\r\n manifestaba su adhesión a esta dirección experimental, con la que \r\nprocuraba fijar el determinismo de los fenómenos mentales. Del mismo \r\nmodo, al inaugurar la cátedra de Sociología, Ernesto ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964009_ref23",
+       "id": "t-llamada-redalyc_314964009_ref23-1"
+      },
+      "Quesada (1905)"
+     ],
+     "\r\n afirmaba seguir tales exigencias lógicas en el estudio de los fenómenos\r\n sociales, lo que hacía de su disciplina una ciencia rigurosa. A su vez,\r\n el profesor de Estética y Literatura General, el filólogo suizo-francés\r\n Camilo ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964009_ref14",
+       "id": "t-llamada-redalyc_314964009_ref14-1"
+      },
+      "Morel (1904a)"
+     ],
+     " –quién \r\ntambién fue introducido en la facultad por Cané–, argumentaba que el \r\nmétodo experimental replicaba la marcha de la evolución mental y que, \r\npor ende, debía primar en todas las disciplinas. ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964009_ref34",
+       "id": "t-llamada-redalyc_314964009_ref34-1"
+      },
+      "Rivarola (1911)"
+     ],
+     ",\r\n incluso, hacia finales de esta primera década, consideraba que esta \r\nforma que asumía la investigación científica caracterizaba la época en \r\nla que vivían.",
+     [
+      "a",
+      {
+       "href": "#t-fn4",
+       "id": "t-llamada-fn4-1"
+      },
+      [
+       "sup",
+       {},
+       "4"
+      ]
+     ],
+     "\r\n"
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Desde este punto de vista, y sobre aquella matriz \r\nbiologicista, la ciencia adquiría su razón de ser por sus aplicaciones \r\nprácticas. Se la pensaba fundamentalmente como una herramienta que \r\npermitía al hombre comprender y manipular su entorno para lograr una \r\nmejor adaptación. Esta mirada instrumental, o “utilitarista”, se \r\nsustentaba, además, en la idea de que las leyes formuladas requerían ser\r\n verificadas mediante una lógica deductiva. Según advertía ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964009_ref23",
+       "id": "t-llamada-redalyc_314964009_ref23-2"
+      },
+      "Quesada (1905)"
+     ],
+     ",\r\n en un universo cuyo desenvolvimiento se concebía regido por leyes \r\nregulares, donde “las mismas causas producen los mismos efectos” (p. \r\n230), uno de los criterios de veridicción era la capacidad de prever \r\nnuevos hechos. En este sentido, tanto las autoridades de la Facultad \r\ncomo algunos de sus profesores valoraban la ciencia en función de sus \r\nefectos, especialmente, en el ámbito industrial y en la organización \r\npolítico-social. Así, al asumir como decano, Norberto Piñero (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964009_ref22",
+       "id": "t-llamada-redalyc_314964009_ref22-1"
+      },
+      "1904"
+     ],
+     ")\r\n consideraba que la ciencia tenía “siempre efectos útiles, próximos o \r\nremotos, en todos los órdenes de la vida” (p. 199). En forma similar, H.\r\n ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964009_ref21",
+       "id": "t-llamada-redalyc_314964009_ref21-5"
+      },
+      "Piñero (1918)"
+     ],
+     " sostenía que la \r\nciencia, en particular la psicología, debía contribuir a la \r\n“antropotecnia”, es decir, al perfeccionamiento del ser humano para \r\nobtener “hombres sanos, fuertes, diestros, ágiles y útiles al país y a \r\nlos suyos” (p. 39). Asimismo, tanto N. Piñero (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964009_ref22",
+       "id": "t-llamada-redalyc_314964009_ref22-2"
+      },
+      "1904"
+     ],
+     ") como ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964009_ref23",
+       "id": "t-llamada-redalyc_314964009_ref23-3"
+      },
+      "Quesada (1905)"
+     ],
+     " y Rivarola (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964009_ref32",
+       "id": "t-llamada-redalyc_314964009_ref32-1"
+      },
+      "1908"
+     ],
+     ", ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964009_ref34",
+       "id": "t-llamada-redalyc_314964009_ref34-2"
+      },
+      "1911"
+     ],
+     ") compartían la convicción de que la ciencia era esencial para la organización y la dirección de las instituciones."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "El “método experimental” se contraponía al “método \r\nescolástico” empleado en los abordajes metafísicos. Este último era \r\ncaracterizado como una exageración y un abuso del raciocinio (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964009_ref25",
+       "id": "t-llamada-redalyc_314964009_ref25-2"
+      },
+      "Rivarola, 1898"
+     ],
+     "), o como una deducción dogmática y un silogismo arbitrario (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964009_ref20",
+       "id": "t-llamada-redalyc_314964009_ref20-1"
+      },
+      "H. Piñero, 1909"
+     ],
+     ").\r\n Como contracara, el “método experimental” se comprendía como un “método\r\n moderno”. La cuestión moderna, como problemática que aglutinaba muchas \r\nde las intervenciones intelectuales de los miembros de la Facultad (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964009_ref36",
+       "id": "t-llamada-redalyc_314964009_ref36-3"
+      },
+      "Terán, 2000"
+     ],
+     "),\r\n aparecía no solo como un programa político, económico y social, sino \r\ntambién como un fenómeno cultural, de procedencia europea, marcado por \r\nel desarrollo de la ciencia y, como señalaba ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964009_ref16",
+       "id": "t-llamada-redalyc_314964009_ref16-1"
+      },
+      "Morel (1905)"
+     ],
+     ",\r\n por el reconocimiento de la subjetividad como factor epistémico. Dadas \r\nlas condiciones que presentaba la Argentina en tanto “país nuevo” u \r\n“organismo joven”, se manifestaba interés por formar parte de la cultura\r\n moderna debido especialmente a los beneficios materiales que ella \r\nreportaba. Aunque con algunas reservas ante el “utilitarismo” que lo \r\nllevaban a optar por una “enseñanza clásica”, ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964009_ref6",
+       "id": "t-llamada-redalyc_314964009_ref6-2"
+      },
+      "Cané (1904)"
+     ],
+     "\r\n celebraba que con la creación de la FFyL se había hablado por primera \r\nvez en la “América española” de ciencias e investigaciones que “hasta \r\nhace poco parecía del monopolio de los lejanos centros de alta cultura \r\nde Europa y Estados Unidos” (p. 183).",
+     [
+      "a",
+      {
+       "href": "#t-fn5",
+       "id": "t-llamada-fn5-1"
+      },
+      [
+       "sup",
+       {},
+       "5"
+      ]
+     ],
+     "\r\n"
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Esta orientación moderna, o experimental y práctica, \r\nimpregnaba los contenidos y las formas de los saberes enseñados en la \r\nFacultad. N. ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964009_ref19",
+       "id": "t-llamada-redalyc_314964009_ref19-2"
+      },
+      "Piñero (1904)"
+     ],
+     " planteaba que el profesor no debía concebirse como un divulgador de dogmas, sino como un sugeridor de ideas. Por su parte, ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964009_ref26",
+       "id": "t-llamada-redalyc_314964009_ref26-1"
+      },
+      "Rivarola (1904a)"
+     ],
+     ", en su calidad de director de la ",
+     [
+      "span",
+      {},
+      "RUBA"
+     ],
+     ",\r\n también promovía desde esta revista un modelo docente que incentivara a\r\n los alumnos a “descubrir, inducir, explorar, compulsar hechos, razonar,\r\n más que a recordar y repetir” (p. 12). Los demás profesores de la \r\ninstitución adoptaban igualmente este enfoque. Tanto H. ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964009_ref19",
+       "id": "t-llamada-redalyc_314964009_ref19-3"
+      },
+      "Piñero (1904)"
+     ],
+     " como ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964009_ref16",
+       "id": "t-llamada-redalyc_314964009_ref16-2"
+      },
+      "Morel (1905)"
+     ],
+     " y ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964009_ref23",
+       "id": "t-llamada-redalyc_314964009_ref23-4"
+      },
+      "Quesada (1905)"
+     ],
+     ",\r\n entre otros, coincidían en que los programas de sus materias, a pesar \r\ndel carácter elemental, no se organizaban en torno a la memorización de \r\ndoctrinas, sino de la difusión de los últimos resultados científicos y \r\nla estimulación de la investigación personal metódica."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Asimismo, esta orientación dada a la enseñanza \r\nrequería como complemento indispensable la constitución de laboratorios,\r\n gabinetes, museos y bibliotecas. Los propios profesores se encargaron \r\nde sus instalaciones. H. Piñero organizó el laboratorio de psicología, \r\ntomando como modelo los laboratorios de distintos institutos \r\nnorteamericanos y europeos. También proyectó un museo psicológico \r\nsimilar al concebido por Pierre Janet –a quien invitó en 1909 a dar \r\nconferencias en la Facultad– y promovió que la biblioteca de la Facultad\r\n contase con todo lo que se había escrito en la materia. Quesada impulsó\r\n condiciones semejantes para la enseñanza de la sociología, mientras que\r\n ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964009_ref16",
+       "id": "t-llamada-redalyc_314964009_ref16-3"
+      },
+      "Morel (1905)"
+     ],
+     ", de manera más \r\nmodesta, demandó “material de láminas, de fotografías, o mejor todavía \r\nde clichés para proyecciones” (p. 262), muchos de los cuales fueron \r\ntraídos por él desde Europa y sirvieron de base para la creación del \r\ngabinete de Estética. Este esfuerzo estuvo acompañado por diversas \r\nmedidas institucionales para proporcionar los espacios y los recursos \r\nrequeridos, aunque las condiciones presupuestarias no siempre lo \r\npermitieron."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "La crítica era otra de las herramientas consideradas clave para la adquisición del conocimiento. ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964009_ref25",
+       "id": "t-llamada-redalyc_314964009_ref25-3"
+      },
+      "Rivarola (1898)"
+     ],
+     "\r\n advertía que, dado que las ideas eran adquiridas por medio de \r\nimpresiones o de asociaciones, la investigación de la verdad requería \r\ndespojarse de las ideas preconcebidas o los prejuicios que, según él, se\r\n aprendían por imitación, por memoria o por influencia del medio y no \r\npor observación y por razonamiento. La crítica se entendía así, en \r\noposición al dogma, como un examen analítico y objetivo de las creencias\r\n y los pensamientos. Para ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964009_ref25",
+       "id": "t-llamada-redalyc_314964009_ref25-4"
+      },
+      "Rivarola (1898)"
+     ],
+     ", adoptar un enfoque crítico significaba seguir las precauciones metodológicas propuestas por Spencer en sus ",
+     [
+      "span",
+      {},
+      "Primeros principios"
+     ],
+     ".\r\n Estas incluían abandonar los extremos y revisar las opiniones ajenas \r\npara determinar sus grados de verdad. Rivarola puso en práctica este \r\nejercicio crítico en su cátedra al cuestionar la lectura que Spencer \r\nhabía hecho de Kant, y a partir de lo cual establecía como requisito \r\npara juzgar el valor de una doctrina un estudio completo y paciente de \r\nla obra de su autor. En un sentido similar, tanto Quesada (1906) como ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964009_ref16",
+       "id": "t-llamada-redalyc_314964009_ref16-4"
+      },
+      "Morel (1905)"
+     ],
+     "\r\n se oponían a la subordinación del trabajo científico al principio de \r\nautoridad. Aunque consideraban los libros como instrumentos \r\nimprescindibles para la ciencia, los concebían como expresiones \r\npersonales de sus autores, por lo que, según ellos, debían ser tomados \r\ncomo guías y no como artículos de fe. Este enfoque, que también era \r\ncompartido desde otras cátedras,",
+     [
+      "a",
+      {
+       "href": "#t-fn6",
+       "id": "t-llamada-fn6-1"
+      },
+      [
+       "sup",
+       {},
+       "6"
+      ]
+     ],
+     " iba \r\nacompañado por distintas disposiciones institucionales. Desde 1905, se \r\nestableció la monografía como un elemento central en la enseñanza y como\r\n un requisito para la aprobación de las materias, lo que para ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964009_ref23",
+       "id": "t-llamada-redalyc_314964009_ref23-5"
+      },
+      "Quesada (1905)"
+     ],
+     "\r\n significaba un “progreso notable”. Se consideraba que, además de \r\neliminar la instrucción puramente verbal y desarrollar el hábito de \r\nexpresarse por escrito, esta práctica permitía ejercitar el espíritu \r\ncrítico. Para estimular el trabajo de los estudios y unificar sus \r\ncriterios de evaluación, se optó por publicar las mejores monografías, \r\nsegún la valoración de cada profesor, en los ",
+     [
+      "span",
+      {},
+      "Anales de la Facultad de Filosofía y Letras"
+     ],
+     ", cuya publicación había comenzado ese mismo año, aunque algunas de ellas también se publicaron en la ",
+     [
+      "span",
+      {},
+      "RUBA"
+     ],
+     ", así como en la revista ",
+     [
+      "span",
+      {},
+      "Nosotros"
+     ],
+     ".\r\n Igualmente, la tesis con la que se accedía finalmente al título de \r\ndoctor debía incluir la exposición de un tema, la formulación de un \r\nproblema o la descripción de una serie de hechos, un examen de las \r\nprincipales teorías ya elaboradas al respecto y una conclusión."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "La filosofía como síntesis y norma"
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Si hasta aquí es posible distinguir coincidencias \r\nentre los miembros de la Facultad, especialmente entre aquellos \r\ndedicados a las materias “filosóficas”, también se pueden reconocer \r\nalgunas tensiones respecto a la manera de entender los saberes allí \r\nimpartidos. Una de estas polémicas giraba en torno al carácter \r\nhipotético de la ciencia, lo cual representaba un punto central en la \r\nlegitimidad de las ciencias humanas y sociales. La disputa entre Cané y \r\nQuesada por el estatus científico de la sociología ilustra este debate. ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964009_ref6",
+       "id": "t-llamada-redalyc_314964009_ref6-3"
+      },
+      "Cané (1904)"
+     ],
+     "\r\n planteaba que “el espíritu científico consiste en afirmar solo lo que \r\nse puede probar” (p. 189). En este sentido, afirmaba que la ciencia \r\ndebía “ser la región intangible, en la que solo viven las verdades y las\r\n leyes comprobadas” (p. 191), y que las ciencias sociales no cumplían \r\nese requisito. En contraposición, ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964009_ref23",
+       "id": "t-llamada-redalyc_314964009_ref23-6"
+      },
+      "Quesada (1905)"
+     ],
+     "\r\n argumentaba que todas las ciencias, incluidas las naturales y exactas, \r\ncomenzaban con datos incompletos, lo que las hacía imperfectas. Además, \r\nadvertía que, como lo real, las ciencias también estaban en constante \r\nevolución, “permanentemente ",
+     [
+      "span",
+      {},
+      "in fieri"
+     ],
+     "” (p. \r\n228). De este modo, sostenía que, si bien las ciencias reposaban en \r\nhipótesis verificadas, sus progresos radicaban en la invención de \r\nhipótesis verificables. En consecuencia, no se limitaban a generalizar \r\nlos hechos, sino también a hipotetizar, incorporando así la imaginación \r\ncomo uno de sus elementos centrales. En línea con lo planteado en torno \r\nal alcance del conocimiento, ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964009_ref23",
+       "id": "t-llamada-redalyc_314964009_ref23-7"
+      },
+      "Quesada (1905)"
+     ],
+     "\r\n afirmaba que no existían verdades eternas, absolutas e inmutables, sino\r\n “verdades relativas que cambian sucesivamente, y con leyes cuya \r\ncomprobación es momentánea” (p. 222). H. ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964009_ref19",
+       "id": "t-llamada-redalyc_314964009_ref19-4"
+      },
+      "Piñero (1904)"
+     ],
+     "\r\n coincidía con esta postura al señalar que mientras las leyes \r\ncientíficas no fueran verificadas, eran hipótesis necesarias pero no \r\ndefinitivas. Un ejemplo era la teoría del paralelismo psico-físico, a la\r\n cual buscaba comprobar con sus trabajos de laboratorio. Asimismo, \r\nproponía crear un segundo curso de psicología en el que se realizara un \r\nejercicio especulativo o metafísico que permitiera encontrar “la \r\nexplicación de muchos hechos y fenómenos que aún no pueden ser reducidos\r\n al determinismo experimental” (H. Piñero, 1904, p. 393)."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Otra controversia importante refiere a la autonomía de las ciencias. En su primera lección en la FFyL, a finales del siglo XIX, ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964009_ref25",
+       "id": "t-llamada-redalyc_314964009_ref25-5"
+      },
+      "Rivarola (1898)"
+     ],
+     " retomaba la ",
+     [
+      "span",
+      {},
+      "Introducción a la psicología contemporánea"
+     ],
+     ",\r\n de Ribot, para argumentar que la acumulación de datos en cada \r\ndisciplina propendía a su particularización e independencia, lo cual era\r\n condición para su progreso. En esa línea, al igual que H. ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964009_ref18",
+       "id": "t-llamada-redalyc_314964009_ref18-1"
+      },
+      "Piñero (1901)"
+     ],
+     ",\r\n indicaba que la psicología había sido la última en constituirse como \r\nuna ciencia especial. Hacia mediados de la primera década del siglo XX, ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964009_ref23",
+       "id": "t-llamada-redalyc_314964009_ref23-8"
+      },
+      "Quesada (1905)"
+     ],
+     "\r\n afirmaba lo mismo para la sociología. Sin embargo, expresaba también \r\ncierta distancia con la fragmentación y división de las disciplinas. \r\nAdvertía, que si bien cada ciencia tenía su objeto propio, estos no \r\npodían ser estudiados sin el juicio psíquico del observador. De este \r\nmodo, más allá de sus diferencias específicas, las ciencias compartían \r\nel sujeto psico-físico como elemento común. Para este momento, ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964009_ref28",
+       "id": "t-llamada-redalyc_314964009_ref28-1"
+      },
+      "Rivarola (1905)"
+     ],
+     "\r\n también comenzaba a reconsiderar su postura y a declinar de ese \r\n“particularismo científico” que, según él, había profesado en la \r\ncátedra, motivado tanto por su lectura de Ribot como por su instrucción \r\nsecundaria y universitaria. Consideraba, en cambio, que era ilusorio \r\ntomar a las ciencias como disciplinas aisladas. Coincidía con ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964009_ref23",
+       "id": "t-llamada-redalyc_314964009_ref23-9"
+      },
+      "Quesada (1905)"
+     ],
+     "\r\n al señalar que el conocimiento constituía una unidad orgánica en tanto \r\nque todas las ciencias, más allá sus necesarias divisiones internas, \r\ntenían al hombre como sujeto. “Todo es común en las ciencias \r\nparticulares”, decía ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964009_ref32",
+       "id": "t-llamada-redalyc_314964009_ref32-2"
+      },
+      "Rivarola (1908)"
+     ],
+     ", “sus límites no pueden definirse; no hay ciencias; hay ciencia” (p. 220). De manera similar, ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964009_ref6",
+       "id": "t-llamada-redalyc_314964009_ref6-4"
+      },
+      "Cané (1904)"
+     ],
+     "\r\n indicaba, además, que el punto de reunión entre las diferentes ciencias\r\n era el método experimental. También agregaba que el “hombre moderno, de\r\n alta cultura”, es decir, el hombre de ciencia que, a su parecer, se \r\nguiaba por fines no utilitarios, no podía ser “el producto único de una \r\nescuela especial”, sino que debía estar “habituado a las \r\ngeneralizaciones fecundas” (p. 187)."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Esta pretendida unidad científica tenía su correlato \r\nen la organización institucional de los estudios, que seguían, en \r\nprincipio, una tendencia general y enciclopédica, al tiempo que cada \r\nmateria desplegaba una enseñanza monográfica e intensiva. Esta tensión \r\nentre la impronta enciclopedista y experimental suscitó algunos \r\ncuestionamientos. En 1909, por ejemplo, Carlos O. Bunge, profesor de \r\nCiencias de la Educación desde 1907, propuso adoptar un modelo más \r\nespecializado, argumentando que el plan vigente favorecía cierto \r\n“diletantismo”, contrario al espíritu científico moderno. Sin embargo, \r\nH. Piñero, Rivarola y Matienzo, entre otros, sostenían en una facultad \r\nde filosofía y letras que era indispensable la coordinación de los \r\nestudios. Aunque excede a los alcances de este trabajo, cabe destacar \r\nque la apuesta por la especialización tomaría fuerza durante los años \r\nsiguientes y confluiría, en 1912, en la reforma del plan de estudios que\r\n organizó los cursos en tres secciones: filosofía, historia y letras, \r\ndebiendo seguirse de forma completa los cursos de una de ellas para \r\nobtener el título de Doctor en Filosofía y Letras."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "En este intento por reintegrar las disciplinas \r\ncientíficas, se restituía el valor de la filosofía, que había quedado \r\nrelegada como sinónimo de la metafísica. Recuperando la definición \r\npropuesta por Spencer, tanto las autoridades como los profesores de la \r\nFFyL la concebían como la disciplina encargada de coordinar las \r\nciencias. Así, en sus discursos de transmisión del decanato, ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964009_ref6",
+       "id": "t-llamada-redalyc_314964009_ref6-5"
+      },
+      "Cané (1904)"
+     ],
+     "\r\n la describía como “la resultante general de la infinita investigación \r\nparcial en el terreno de la observación científica” (p. 196), mientras \r\nque N. ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964009_ref19",
+       "id": "t-llamada-redalyc_314964009_ref19-5"
+      },
+      "Piñero (1904)"
+     ],
+     " la entendía \r\ncomo “una generalización integral, resultante de un conjunto de \r\ngeneralizaciones parciales, establecidas por diferentes ciencias” (p. \r\n201). ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964009_ref23",
+       "id": "t-llamada-redalyc_314964009_ref23-10"
+      },
+      "Quesada (1905)"
+     ],
+     ", por su \r\nparte, la concebía como una síntesis suprema que, bajo un criterio \r\nmonista, permitía “clasificar todo lo que existe, sin omisiones, en \r\nestricta correlación lógica y como el resultado de una regularidad \r\nevolutiva” (p. 241). De modo similar, ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964009_ref33",
+       "id": "t-llamada-redalyc_314964009_ref33-3"
+      },
+      "Rivarola (1910)"
+     ],
+     "\r\n la situaba como el “saber completamente organizado” (p. 146). En este \r\nsentido, sostenía, también, que la filosofía no se oponía a la ciencia, \r\nsino que era la ciencia misma, o más precisamente, el límite de cada una\r\n de las ciencias particulares. Siguiendo a Ernest Renán, la concebía \r\ncomo una “ciencia universal” o “ciencia del todo”, tal como lo fue, \r\nsegún él, en su origen. La diferencia consistía en que ahora, evolución \r\nmediante, la filosofía ya no descansaba en un “método adivinatorio” o \r\nintuiciones inmediatas, sino en las ciencias de las partes."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "La filosofía, eso sí, estaba en el porvenir. N. ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964009_ref19",
+       "id": "t-llamada-redalyc_314964009_ref19-6"
+      },
+      "Piñero (1904)"
+     ],
+     "\r\n advertía que, si para llegar a ella era clave conocer las distintas \r\nciencias, en la facultad aún se estudiaban solo algunas de ellas. De \r\neste modo, sostenía que para poder realizar esa “generalización \r\nintegral”, era necesario su posterior desarrollo institucional. \r\nAsimismo, tanto ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964009_ref28",
+       "id": "t-llamada-redalyc_314964009_ref28-2"
+      },
+      "Rivarola (1905)"
+     ],
+     " como ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964009_ref23",
+       "id": "t-llamada-redalyc_314964009_ref23-11"
+      },
+      "Quesada (1905)"
+     ],
+     ",\r\n que desde sus cátedras distinguían el sistema positivista de Spencer \r\ncomo el más amplio y sólido de la época moderna, indicaban que había que\r\n postergar provisoriamente la síntesis y enfocarse en el análisis. Desde\r\n un primer momento, ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964009_ref25",
+       "id": "t-llamada-redalyc_314964009_ref25-6"
+      },
+      "Rivarola (1898)"
+     ],
+     "\r\n advertía que la experimentación era una práctica reciente en la \r\nhistoria de la filosofía y aún se encontraba en sus etapas iniciales. ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964009_ref23",
+       "id": "t-llamada-redalyc_314964009_ref23-12"
+      },
+      "Quesada (1905)"
+     ],
+     "\r\n destacaba, igualmente, que, dada la reciente aparición de nuevas \r\nciencias, era todavía necesario separar los fenómenos estudiados en \r\ndiversas partes para luego reunirlos. La síntesis requería del progreso \r\nen la evolución de la filosofía. Había, así, un llamado a enseñar a \r\nfilosofar más que a enseñar filosofía. Es decir, en lugar de limitar la \r\nenseñanza a la mera transmisión de sistemas filosóficos preestablecidos,\r\n para que los estudiantes adquirieran conocimientos estáticos, se \r\nbuscaba fomentar la investigación metódica y crítica que les permitiera \r\nadquirir las habilidades y las aptitudes requeridas para elaborar las \r\nsíntesis futuras. Según N. ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964009_ref19",
+       "id": "t-llamada-redalyc_314964009_ref19-7"
+      },
+      "Piñero (1904)"
+     ],
+     ", esta era la tarea y el objetivo que una institución como la FFyL “aspiraba a realizar diariamente” (p. 202)."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Ahora bien, hacia 1910, esta dirección empirista, basada en lo que H. ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964009_ref21",
+       "id": "t-llamada-redalyc_314964009_ref21-6"
+      },
+      "Piñero (1918)"
+     ],
+     " denominaba una “anatomía psicológica” y que derivaba en esa ",
+     [
+      "span",
+      {},
+      "filosofía científica"
+     ],
+     ",\r\n ocupaba una posición destacada. Así lo muestran los trabajos \r\npresentados en la sección de ciencias psicológicas del Congreso \r\nCientífico Internacional Americano, celebrado en Buenos Aires en el \r\nmarco del primer centenario. La mayoría de las ponencias abordaron \r\ntemáticas de neuroanatomía dentro del ámbito de la psico-fisiología. En \r\nsu discurso inaugural, ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964009_ref33",
+       "id": "t-llamada-redalyc_314964009_ref33-4"
+      },
+      "Rivarola (1910)"
+     ],
+     "\r\n reafirmaba que todas las ideas eran fenómenos cerebrales, perspectiva \r\ndesde la cual había invitado al presidente del Museo de Antropología de \r\nRoma, Giuseppe Sergi, a dictar un curso en la Facultad. Sin embargo, en \r\nlas aulas de la Facultad, este enfoque coexistía con otras miradas \r\ninscriptas en las corrientes neokantianas alemanas y francesas, con \r\nreferentes como Friedrich Paulsen, Wilhelm Wundt y Charles Renouvier. \r\nAunque puede reconocerse cierta fricción entre ambos enfoques, no se \r\nconsideraban mutuamente excluyentes, sino que se abogaba por su \r\nintegración, lo que introducía un matiz idealista en ese modo de \r\nentender la filosofía."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Según Coriolano ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964009_ref3",
+       "id": "t-llamada-redalyc_314964009_ref3-1"
+      },
+      "Alberini (1911)"
+     ],
+     ",\r\n el neocriticismo francés fue introducido en la FFyL por Carlos Melo \r\nmientras se hizo cargo de la cátedra de Lógica entre 1906 y 1908 ante la\r\n licencia de Matienzo. Un año antes, ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964009_ref13",
+       "id": "t-llamada-redalyc_314964009_ref13-1"
+      },
+      "Melo (1905)"
+     ],
+     ",\r\n quien se había formado en la Facultad de Derecho, también dictó un \r\ncurso libre de psicología, como complemento de la enseñanza oficial. Sin\r\n embargo, este curso marcó cierta distancia con la perspectiva difundida\r\n por H. Piñero al postular un “fenomenismo psíquico” (p. 485), según el \r\ncual los hechos externos eran representaciones o contenidos de formas \r\nmentales irreductibles a materia y movimiento, ya que estos últimos \r\ntambién eran hechos de conciencia. ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964009_ref13",
+       "id": "t-llamada-redalyc_314964009_ref13-2"
+      },
+      "Melo (1905)"
+     ],
+     "\r\n sostenía que no existía ninguna medida común entre los hechos físicos y\r\n psíquicos, por lo que estos últimos aparecían fuera de la ley de \r\ncausalidad, contrastando así con la psicología fisiológica, a la que \r\nconsideraba una subdirección de la psicología metafísica. De esta \r\nmanera, a diferencia de H. ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964009_ref21",
+       "id": "t-llamada-redalyc_314964009_ref21-7"
+      },
+      "Piñero (1918)"
+     ],
+     " que ponderaba el método objetivo por sobre el subjetivo, ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964009_ref13",
+       "id": "t-llamada-redalyc_314964009_ref13-3"
+      },
+      "Melo (1905)"
+     ],
+     "\r\n le otorgaba primacía a la introspección, definiéndola como “el núcleo \r\nalrededor del cual se agrupan todos los datos acumulados por el método \r\nindirecto” (p. 485). Asimismo, ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964009_ref17",
+       "id": "t-llamada-redalyc_314964009_ref17-1"
+      },
+      "Morel (1908)"
+     ],
+     "\r\n también recuperaba el criticismo en la enseñanza de la Estética. \r\nDestacaba la doctrina de Schiller, a la que entendía, a través de \r\nRenouvier, como un punto intermedio entre Kant y Spencer. En esta línea,\r\n planteaba que la belleza correspondía a un fenómeno psíquico, o más \r\nbien, a un efecto en el sujeto conocedor. Además, señalaba que los \r\njuicios estéticos se caracterizaban por su universalidad y desinterés, y\r\n que, por eso mismo, dependían, no solo de las sensaciones, sino también\r\n del entendimiento. De este modo, afirmaba que las teorías \r\nexclusivamente empíricas o fisiológicas del origen de las ideas, al \r\nigual que las puramente idealistas, eran insuficientes para explicar \r\ntales juicios."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Rivarola, como ha señalado Jorge ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964009_ref10",
+       "id": "t-llamada-redalyc_314964009_ref10-1"
+      },
+      "Dotti (1992)"
+     ],
+     ",\r\n también introdujo el estudio de Kant en las aulas de la FFyL, pero fue \r\nel profesor suplente de su cátedra y ex profesor de la Universidad de \r\nPavía, el italiano Juan ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964009_ref9",
+       "id": "t-llamada-redalyc_314964009_ref9-1"
+      },
+      "Chiabra (1910)"
+     ],
+     ", quien promovió el retorno al criticismo. Desde las páginas de la ",
+     [
+      "span",
+      {},
+      "RUBA"
+     ],
+     ",\r\n afirmaba que el resurgimiento de la crítica kantiana se debía, entre \r\notras cosas, al hastío por la filosofía “que no veía en el pensamiento \r\nsino una secreción cerebral” (p. 6) y que derivaba, según él, en una \r\nmetafísica materialista. Sin desconocer el origen empírico de las ideas,\r\n ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964009_ref9",
+       "id": "t-llamada-redalyc_314964009_ref9-2"
+      },
+      "Chiabra (1910)"
+     ],
+     " destacaba, \r\ntambién, la actividad propia del sujeto. De este modo, le otorgaba al \r\nconocimiento un fundamento lógico, a la par del biológico. La \r\ninteligencia no solo se adaptaba a la mecánica de las impresiones, sino \r\nque también las ordenaba."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "La crítica, como elemento en la adquisición del \r\nconocimiento, cobraba aquí otro sentido. Ya no se reducía al análisis \r\ndel pensamiento para restringirlo a la experiencia, sino que también lo \r\nlimitaba a la función formal de las categorías. Así, ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964009_ref9",
+       "id": "t-llamada-redalyc_314964009_ref9-3"
+      },
+      "Chiabra (1910)"
+     ],
+     "\r\n afirmaba que “la crítica precede, dirige, y sigue, entonces, la \r\naplicación de todo orden especial de investigaciones experimentales” (p.\r\n 54). Según él, solo al incluir la dimensión trascendental de la \r\nsubjetividad era posible, no solo cuestionar toda pretensión metafísica,\r\n sino también establecer el valor objetivo del conocimiento científico."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Esta “vuelta a Kant” repercutía, también, en el modo \r\nde comprender la filosofía. Ésta ya no tenía como objetivo exclusivo \r\nsistematizar los resultados científicos, sino también estudiar las \r\ncondiciones, los límites y los alcances del conocimiento humano. De este\r\n modo, la filosofía no aparecía únicamente como el desenlace de las \r\nciencias; también se constituía en una instancia propedéutica, en tanto \r\nexaminaba “el órgano cognoscitivo de que toda ciencia se vale y que \r\naplica al propio objeto” (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964009_ref9",
+       "id": "t-llamada-redalyc_314964009_ref9-4"
+      },
+      "Chiabra, 1910, p. 25"
+     ],
+     ").\r\n La filosofía permitía, así, atenuar los excesos del “experimentalismo” o\r\n liberarla de una observación tanto restrictiva como fantasiosa. La \r\n“vuelta a Kant”, decía ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964009_ref9",
+       "id": "t-llamada-redalyc_314964009_ref9-5"
+      },
+      "Chiabra (1910)"
+     ],
+     "\r\n retomando a Paulsen, era la recuperación de un “procedimiento metódico \r\ncapaz de dar organización a todo el saber […] ante cualquier \r\nintemperancia de la especulación presente o futura” (p. 8), o en otras \r\npalabras, frente a cualquier sistematización dogmática o absoluta. En un\r\n sentido similar, Rivarola (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964009_ref26",
+       "id": "t-llamada-redalyc_314964009_ref26-2"
+      },
+      "1904a"
+     ],
+     ", ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964009_ref35",
+       "id": "t-llamada-redalyc_314964009_ref35-1"
+      },
+      "1945"
+     ],
+     ")\r\n advertía, matizando su perspectiva biologicista, que la filosofía \r\nkantiana permitía una “desconfianza de todo juicio formulado como \r\ndefinitivo, de toda teoría presentada como la conclusión irrevocable de \r\nla ciencia, de todo sectarismo científico o filosófico, de todo \r\ndogmatismo” (p. 36)."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "\r\n",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964009_ref9",
+       "id": "t-llamada-redalyc_314964009_ref9-6"
+      },
+      "Chiabra (1910)"
+     ],
+     " indicaba así que \r\nlas líneas fundamentales del idealismo crítico de Kant eran “las \r\ndirectrices del pensamiento moderno” (p. 6). Con él se establecía la \r\nunión entre la filosofía y la ciencia. Si, por un lado, la ciencia \r\nanclaba la especulación filosófica al dominio de los hechos, por otro \r\nlado, la filosofía limitaba las ciencias a las condiciones necesarias y \r\nuniversales de la mente. En este sentido, ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964009_ref9",
+       "id": "t-llamada-redalyc_314964009_ref9-7"
+      },
+      "Chiabra (1910)"
+     ],
+     "\r\n señalaba que el criticismo no era una reacción contra la metafísica, \r\nsino contra aquellas formas de metafísica puramente abstractas o \r\nindependientes de la gnoseología y la experiencia científica. De este \r\nmodo, desde lo que consideraba “un nuevo",
+     [
+      "span",
+      {},
+      " realismo"
+     ],
+     "”,\r\n superior a la oposición entre materialismo e idealismo, afirmaba que la\r\n “vuelta a Kant” brindaba la posibilidad de ir hacia una “metafísica \r\ncrítica” o una “metafísica de la experiencia” (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964009_ref9",
+       "id": "t-llamada-redalyc_314964009_ref9-8"
+      },
+      "Chiabra, 1910, p. 60"
+     ],
+     ")."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Estas tensiones coincidían con algunos movimientos \r\ninstitucionales que se iban desplegando durante estos años. En 1906, \r\ndada la relevancia de los estudios psicológicos, se regularizó el \r\nsegundo curso de la cátedra de Psicología propuesto por H. Piñero. El \r\nalemán Félix Krüeger fue designado interinamente y titularizado en 1907.\r\n Ese año, Matienzo, quien había sido elegido Decano en reemplazo de N. \r\nPiñero, ordenó que ambas cátedras mantuvieran la misma tendencia \r\nfisiológica y anátomo-patológica, aunque abordando diferentes materias y\r\n temas. A fines de 1907, Krüeger renunció a su cátedra, quedando a cargo\r\n de manera interina José Ingenieros, quién, desde 1904, se desempeñaba \r\ncomo profesor suplente en el primer curso de Psicología y que contaba, \r\nademás, con numerosos trabajos en el campo de la psicología biológica. \r\nLa terna para cubrir este segundo curso estuvo encabezada por Ingenieros\r\n e incluyó a Francisco De Veyga, quién en 1906 se había desempeñado como\r\n profesor interino del primer curso debido a las ausencias de sus \r\nprofesores titular y suplente. Sin embargo, la elección de ambos \r\ncandidatos generó controversias al interior del Consejo Directivo. \r\nRivarola cuestionó la ordenanza de Matienzo, planteando que el segundo \r\ncurso debía tener una orientación diferente a la tendencia fisiológica y\r\n que, por lo tanto, no debía serle otorgada a un médico, como lo eran \r\nIngenieros y De Veyga. De ese modo, propuso como candidato a Melo. Tanto\r\n Quesada como Fregeiro apoyaron esta opinión. Quesada expresó su \r\ndesacuerdo con el carácter parcial y estrecho que H. Piñero le daba a su\r\n cátedra y consideraba que, con la iniciativa de Rivarola, se le podría \r\ndar a esa enseñanza un alance más amplio. Fregeiro, por su parte, \r\nrecordó la consideración del propio H. Piñero sobre el carácter \r\nespeculativo que debía tener el segundo curso. En función de ello, la \r\nterna fue completada finalmente con Melo; no obstante, por haber quedado\r\n en el tercer lugar, renunció a todos sus cargos. En agosto de 1909, \r\nIngenieros fue elegido como profesor titular, reforzando así la \r\norientación biologicista."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Entre la formación de profesores y de filósofos"
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "La definición del conocimiento y la delimitación de \r\nla filosofía en el campo de las ciencias se entrelazaban con una \r\npreocupación por la facultad y la universidad, así como también por el \r\nrol de los saberes que estas instituciones ofrecían. Así se manifiesta \r\nen las discusiones acerca de sus relaciones con la enseñanza secundaria.\r\n ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964009_ref6",
+       "id": "t-llamada-redalyc_314964009_ref6-6"
+      },
+      "Cané (1904)"
+     ],
+     ", como defensor de una\r\n enseñanza general y científica, rechazaba el predominio de la función \r\npreparatoria con la que surgió la FFyL en respuesta a la denuncia sobre \r\nla deficiente instrucción secundaria que recibían los cada vez más \r\nnumerosos alumnos de los colegios nacionales. Aunque reconocía que los \r\nprofesores de esta casa de estudios no habían podido impartir ese tipo \r\nde enseñanza, por sentirse retenidos “por el alumno cuyas alas de \r\nbachiller eran de poco vuelo”, consideraba también, sobre aquel fondo \r\nbiologicista, que solo quedaría una minoría apta para esos estudios. \r\n“Todo esto se irá modificando –decía– y la selección se operará entre \r\nnosotros, como en todo lo que existe: los que no puedan volar, se \r\nquedarán tranquilamente sobre la tierra” (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964009_ref6",
+       "id": "t-llamada-redalyc_314964009_ref6-7"
+      },
+      "Cané, 1904, p. 184"
+     ],
+     ")."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Otro que se refirió a este asunto fue Morel. Recién \r\nllegado al país y motivado por las sucesivas reformas de los planes de \r\nestudio de los colegios nacionales publicó una serie de artículos sobre \r\nla enseñanza secundaria y su relación con los estudios superiores, \r\nlegitimándose en su condición de extranjero. Morel (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964009_ref14",
+       "id": "t-llamada-redalyc_314964009_ref14-2"
+      },
+      "1904a"
+     ],
+     ", ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964009_ref15",
+       "id": "t-llamada-redalyc_314964009_ref15-1"
+      },
+      "1904b"
+     ],
+     ")\r\n consideraba que la escuela debía preparar a los jóvenes para la “lucha \r\npor la existencia”, por lo que no le resultaban extrañas sus sucesivas \r\nreformas curriculares, ya que, según él, debían acompañar las continuas \r\ntransformaciones de las condiciones vitales. Sin embargo, cuestionaba el\r\n sentido que esas reformas habían adquirido. Valoraba la creación de los\r\n colegios nacionales en reemplazo de la función preparatoria que hasta \r\nentonces poseían las facultades de artes y que les impedía convertirse \r\nen “centros de libre investigación científica” (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964009_ref15",
+       "id": "t-llamada-redalyc_314964009_ref15-2"
+      },
+      "Morel, 1904b"
+     ],
+     ",\r\n p. 36). No obstante, advertía que aquellos institutos se fueron \r\nindependizando gradualmente de las universidades, introduciendo un hiato\r\n entre ambas enseñanzas. Afirmaba que la independencia de los institutos\r\n de enseñanza secundaria implicó un predominio exclusivo de la \r\n“enseñanza científica” o moderna, en el sentido “utilitarista” del \r\ntérmino, en desmedro de lo que consideraba una “enseñanza clásica”, \r\ncompuesta por las letras clásicas y la filosofía. Este proceso, a su \r\nparecer, alcanzó el punto más alto, al menos en el ámbito local, cuando \r\nen 1901 el ministro de Instrucción Pública, Osvaldo Magnasco, decretó \r\nque la enseñanza secundaria debía ser un complemento de la primaria. \r\nEsta transformación, decía Morel (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964009_ref15",
+       "id": "t-llamada-redalyc_314964009_ref15-3"
+      },
+      "1904b"
+     ],
+     "),\r\n era exigida por la “materialización” de la vida, sobre todo en un “país\r\n nuevo” u “organismo joven” como la Argentina. Sin embargo, también \r\nconsideraba que resultaba perjudicial para los estudios secundarios, \r\ncomo lo habían manifestado las facultades porteñas en diversas \r\nocasiones. Morel (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964009_ref15",
+       "id": "t-llamada-redalyc_314964009_ref15-4"
+      },
+      "1904b"
+     ],
+     "), \r\nadvertía que, según la ley universitaria, los colegios nacionales eran \r\nla única y casi exclusiva vía para acceder a los estudios superiores, y \r\nque dicho decreto, en consecuencia, era un obstáculo al aprovechamiento \r\nracional y sistemático de los recursos intelectuales de la juventud."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "A su entender, la enseñanza primaria no debía invadir\r\n la secundaria. La enseñanza primaria, según él, debía brindar verdades \r\nútiles para la vida, sobre la autoridad del maestro y el libro. Además, \r\nindicaba que esta enseñanza debía ser complementada con una enseñanza \r\nprofesional, agrícola, industrial o comercial, con el mismo fin práctico\r\n y naturaleza superficial. Desplegada en “escuelas reales”, esta \r\nenseñanza, entonces, tendría un carácter moderno y un objetivo \r\nutilitario, es decir, estaría orientada hacia una formación técnica, o \r\nbien, hacia las aplicaciones inmediatas de las ciencias (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964009_ref15",
+       "id": "t-llamada-redalyc_314964009_ref15-5"
+      },
+      "Morel, 1904b"
+     ],
+     "). Por el contrario, en línea con la defensa de la “enseñanza clásica” que Cané (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964009_ref7",
+       "id": "t-llamada-redalyc_314964009_ref7-1"
+      },
+      "1919"
+     ],
+     ") ensayó en el primer acto de colación de la FFyL, en 1901, Morel (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964009_ref15",
+       "id": "t-llamada-redalyc_314964009_ref15-6"
+      },
+      "1904b"
+     ],
+     ")\r\n consideraba que la enseñanza secundaria debía ofrecer una “educación \r\nliberal” dirigida a una “minoría selecta” y orientada hacia la \r\npreparación para las carreras liberales impartidas en la universidad. \r\nEstas carreras, a su entender, no se limitaban a intereses individuales,\r\n sino también, y especialmente, a intereses sociales. De este modo, \r\nseñalaba que en los colegios nacionales se debía priorizar una formación\r\n intelectual y moral. Esta enseñanza tendría así una naturaleza \r\nclásico-científica y, con ello, un objetivo desinteresado, es decir, \r\ncombinaría las ciencias modernas con la filosofía y las letras clásicas \r\n(tal como sucedía en la FFyL). Los colegios nacionales debían despertar \r\nen los estudiantes un “espíritu verdaderamente científico” e instruirlos\r\n en el “arte de inducir y deducir” (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964009_ref15",
+       "id": "t-llamada-redalyc_314964009_ref15-7"
+      },
+      "Morel, 1904b"
+     ],
+     ", p. 92), con independencia de sus aplicaciones inmediatas y de los beneficios personales."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Por otra parte, Morel (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964009_ref15",
+       "id": "t-llamada-redalyc_314964009_ref15-8"
+      },
+      "1904b"
+     ],
+     ")\r\n consideraba que para implementar la “educación liberal” se requería de \r\nalumnos con el temperamento intelectual y moral adecuado. Este carácter \r\nse adquiría, según él, por herencia paternofilial y por crecer en \r\nhogares cultos, conscientes de los deberes sociales del saber. Además, \r\nestablecía la necesidad de contar con profesores bien formados, \r\ncientífica y pedagógicamente. En 1903, por decretos del nuevo ministro \r\nde Instrucción Pública, Juan R. Fernández, esa función recayó en gran \r\nmedida sobre la FFyL.",
+     [
+      "sup",
+      {},
+      [
+       "a",
+       {
+        "href": "#t-fn7",
+        "id": "t-llamada-fn7-1"
+       },
+       "7"
+      ]
+     ],
+     " Aunque apoyaba esta decisión, Morel (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964009_ref15",
+       "id": "t-llamada-redalyc_314964009_ref15-9"
+      },
+      "1904b"
+     ],
+     ")\r\n advertía que la enseñanza secundaria tampoco debía ser invadida por la \r\nuniversitaria. En este sentido, indicaba que los profesores no debían \r\nser especialistas, sino poseer una cultura general. Esta mirada era \r\ncompartida por Rivarola, para quien uno de los fines de la enseñanza \r\nsecundaria era “la afición por las grandes síntesis” (",
+     [
+      "span",
+      {}
+     ],
+     [
+      "span",
+      {}
+     ],
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964009_ref37",
+       "id": "t-llamada-redalyc_314964009_ref37-2"
+      },
+      [
+       "span",
+       {},
+       "RUBA"
+      ],
+      ", X, 1908"
+     ],
+     ", p. 59). Además, Morel (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964009_ref15",
+       "id": "t-llamada-redalyc_314964009_ref15-10"
+      },
+      "1904b"
+     ],
+     ")\r\n promovía una formación pedagógica que no se limitara a un conjunto de \r\nprocedimientos de enseñanza, sino que se fundamentara en una filosofía \r\nde la educación basada en la lógica, la moral y la psicología."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Tanto Rivarola (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964009_ref29",
+       "id": "t-llamada-redalyc_314964009_ref29-1"
+      },
+      "1906b"
+     ],
+     ", ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964009_ref34",
+       "id": "t-llamada-redalyc_314964009_ref34-3"
+      },
+      "1911"
+     ],
+     ") como ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964009_ref24",
+       "id": "t-llamada-redalyc_314964009_ref24-1"
+      },
+      "Quesada (1915)"
+     ],
+     "\r\n reconocían que la formación docente fue otra de las razones que \r\nimpulsaron la creación de la FFyL, después de observar que la mala \r\npreparación de los estudiantes era un problema de profesorado. Sin \r\nembargo, este tema generaba controversias. El consejero académico de la \r\nFacultad, Joaquín V. González, al igual que Cané y H. Piñero, \r\nargumentaba que el “profesionalismo docente” desvirtuaba el concepto \r\nfundamental de la Facultad, haciendo de ella una escuela normal en lugar\r\n de un “centro de alta cultura” (",
+     [
+      "span",
+      {}
+     ],
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964009_ref37",
+       "id": "t-llamada-redalyc_314964009_ref37-3"
+      },
+      [
+       "span",
+       {},
+       "RUBA"
+      ],
+      ", X, 1908"
+     ],
+     ",\r\n pp. 45-46). Así, cuando asumió como Ministro de Instrucción Pública, en\r\n 1904, le otorgó a las demás facultades de la UBA la posibilidad de \r\nformar profesores y reemplazó la obligación de cursar Ciencias de la \r\nEducación por un examen en el Seminario Pedagógico, que, desde entonces,\r\n tomó el nombre de Instituto Nacional de Profesorado Secundario (INPS) y\r\n quedó bajo la dirección de los profesores alemanes contratados \r\npreviamente por Fernández. Además, en 1905, González decretó que el INPS\r\n preparara también en ciencias de la educación, lógica, ética y \r\nsociología –para lo cual contrató a Krüeger– como también en historia, \r\ngeografía, letras y demás asignaturas enseñadas en los colegios \r\nnacionales. El INPS se constituyó, así, en una facultad paralela y en un\r\n establecimiento rival de la FFyL. Esta duplicación incidía en la \r\nmatrícula de la facultad porteña, pues la mayoría de sus alumnos, muchos\r\n de los cuales eran maestras y profesores en ejercicio, aspiraban al \r\ntítulo de profesor."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Matienzo, como Decano, consideraba que la universidad\r\n no era una escuela profesional, sino un laboratorio de cultura \r\nintelectual y moral. Pero consideraba, también, que la formación de \r\nprofesores había sido una función llevada adelante por la FFyL desde un \r\nprimer momento, por lo que ni era fruto de la improvisación ni había \r\ncausado perjuicio alguno en los estudios para el doctorado. Afirmaba, \r\nademás, que enseñar requería no solo de conocer el método pedagógico, \r\nsino también de dominar la materia que se enseña, y que las facultades \r\ncumplían con este requisito. De este modo, gestionó la preferencia de \r\nlos egresados de la FFyL para las cátedras de los colegios nacionales, \r\nal tiempo que, con el apoyo de Quesada y de N. Piñero, promovió la \r\nanexión del INPS, argumentando la analogía de sus estudios y sus fines. \r\nLa anexión se concertó en 1906 e implicó el establecimiento de cátedras \r\ncomunes y la redistribución de los espacios. Asimismo, generó una serie \r\nde tensiones sobre cuestiones curriculares, edilicias, presupuestarias \r\ny, especialmente, docentes. Los contratos de Wilheim Keiper y de Krüeger\r\n fueron un tema de discusión; finalmente, fueron reasignados a la \r\ncátedra de Historia de la filosofía y al segundo curso de Psicología. \r\nSin embargo, en 1909, el ministro Rómulo Naón decretó, nuevamente, la \r\ndesvinculación del INPS. Los profesores alemanes renunciaron a cátedras,\r\n al tiempo que la FFyL perdió la posibilidad de formar profesores de \r\nsegunda enseñanza."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "\r\n",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964009_ref23",
+       "id": "t-llamada-redalyc_314964009_ref23-13"
+      },
+      "Quesada (1905)"
+     ],
+     " veía en esta \r\ndecisión un “gravísimo daño”, pues, en línea con lo planteado por \r\nMatienzo, afirmaba que era crucial que los aspirantes al profesorado no \r\nsolo adquirieran una preparación práctica en institutos especiales, sino\r\n también una preparación científica en las facultades universitarias. \r\nPor el contrario, H. Piñero celebró la desanexión. Afirmaba que si la \r\nfacultad había asumido la preparación de profesores, fue “ante la \r\nnecesidad de la adaptación al medio y a la opinión general, que parece \r\nexigir de estos institutos una faz profesional bien marcada” (",
+     [
+      "span",
+      {}
+     ],
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964009_ref37",
+       "id": "t-llamada-redalyc_314964009_ref37-4"
+      },
+      [
+       "span",
+       {},
+       "RUBA"
+      ],
+      ", XII, 1909"
+     ],
+     ",\r\n p. 346). En un sentido similar, aunque con consecuencias diversas, N. \r\nPiñero manifestaba su deseo de recuperar el fin “fundamental y el que \r\npresidió a la fundación de la facultad”, a saber, que sea un “instituto \r\nde alta y desinteresada cultura”. De este modo, presentó un proyecto \r\npara que los profesores de la Facultad dictaran clases públicas en las \r\nque pudieran inscribirse “todos aquellos que deseen saber”, \r\nindependientemente de la obtención de un título (",
+     [
+      "span",
+      {}
+     ],
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964009_ref37",
+       "id": "t-llamada-redalyc_314964009_ref37-5"
+      },
+      [
+       "span",
+       {},
+       "RUBA"
+      ],
+      ", XIV, 1910"
+     ],
+     ", p. 307). ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964009_ref26",
+       "id": "t-llamada-redalyc_314964009_ref26-3"
+      },
+      "Rivarola (1904a)"
+     ],
+     "\r\n acompañó este proyecto, y propuso incluir conferencias de directivos y \r\nde académicos. Pero también enfatizaba la importancia de conservar la \r\nformación docente como un fin secundario. Como decía al fundar la ",
+     [
+      "span",
+      {},
+      "RUBA"
+     ],
+     ",\r\n la función de la universidad, si no era aún producir el hombre de \r\ngenio, era hacer una “difusión general de las ciencias y las artes” para\r\n “formar el ambiente y proporcionar los medios adecuados a la aparición \r\ndel genio” (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964009_ref26",
+       "id": "t-llamada-redalyc_314964009_ref26-4"
+      },
+      "Rivarola, 1904a, p. 11"
+     ],
+     ").\r\n Si era necesario contar con alumnos intelectual y moralmente aptos para\r\n el trabajo científico-filosófico, también era preciso contar con \r\nprofesores capaces de introducirlos en él. La formación científica de \r\nprofesores se concebía como una tarea fundamental de la FFyL, pues era \r\ncondición de su propia existencia. El profesorado era una condición \r\nvital para la conformación de una comunidad científico-filosófica en la \r\nque, sobre la base de investigaciones lógicas, críticas y \r\nexperimentales, pudiera aparecer el pensamiento sistemático."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Esta discusión se articuló con los debates sobre la \r\nreforma universitaria que generaron los conflictos estudiantiles en \r\nDerecho y en Medicina, entre finales de 1903 y comienzos de 1906. Estos \r\nconflictos se produjeron a raíz de la supresión de los exámenes de marzo\r\n y del incremento en los aranceles. Las huelgas de los estudiantes \r\nderivaron en un cuestionamiento de las aptitudes científicas y \r\npedagógicas de algunos profesores, y concluyeron, en agosto de 1906, con\r\n la modificación de los estatutos universitarios, entre cuyos cambios se\r\n destacó la sustitución de las academias vitalicias por consejos \r\ndirectivos renovables periódicamente e integrados por representantes del\r\n cuerpo de profesores (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964009_ref12",
+       "id": "t-llamada-redalyc_314964009_ref12-2"
+      },
+      "Halperín Donghi, 1962"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964009_ref5",
+       "id": "t-llamada-redalyc_314964009_ref5-2"
+      },
+      "Buchbinder, 2005"
+     ],
+     "). Uno de los ejes centrales de estas polémicas fue el perfil científico o profesional de los estudios superiores. La ",
+     [
+      "span",
+      {},
+      "RUBA"
+     ],
+     ", creada por Rivarola en 1904, bajo encargo del Consejo Superior en reemplazo de los ",
+     [
+      "span",
+      {},
+      "Anales de la UBA"
+     ],
+     ", fue uno de los principales escenarios de debate."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Rivarola (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964009_ref27",
+       "id": "t-llamada-redalyc_314964009_ref27-1"
+      },
+      "1904b"
+     ],
+     ", ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964009_ref29",
+       "id": "t-llamada-redalyc_314964009_ref29-2"
+      },
+      "1906a"
+     ],
+     ", ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964009_ref31",
+       "id": "t-llamada-redalyc_314964009_ref31-1"
+      },
+      "1906c"
+     ],
+     "),\r\n como promotor de la discusión, distinguía entre las propuestas \r\nreformistas aquellas que abogaban por la disolución de la universidad y \r\nla autonomización de las facultades.",
+     [
+      "a",
+      {
+       "href": "#t-fn8",
+       "id": "t-llamada-fn8-1"
+      },
+      [
+       "sup",
+       {},
+       "8"
+      ]
+     ],
+     " \r\nSegún él, el resultado lógico y natural de esta separación era que las \r\nfacultades se volvieran escuelas dispersas y encargadas de emitir solo \r\ntítulos profesionales. Frente a ello, sostenía que la universidad era \r\nuna unidad orgánica y no una mera agrupación de institutos. Planteaba \r\nque su objetivo no era formar para el ejercicio profesional, sino para \r\nla ciencia y, como había indicado en rechazo del “particularismo \r\ncientífico” algunas páginas atrás, pensaba que en la ciencia no existía \r\nconocimiento alguno con derecho a llamarse autónomo e independiente de \r\nlos demás."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Una de los argumentos esbozados por el “separatismo profesionalista”, como lo llamaba Rivarola (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964009_ref30",
+       "id": "t-llamada-redalyc_314964009_ref30-1"
+      },
+      "1906b"
+     ],
+     "),\r\n era que esa dirección científica de la enseñanza universitaria no se \r\nhabía podido desplegar y su causa estaba en la propia universidad. \r\nConsideraba, por el contrario, que la causa de los males estaba en el \r\npredominio de la tendencia hacia el aislamiento, junto con el error de \r\npensar que la aplicación práctica de las ciencias reducía la enseñanza \r\nuniversitaria a proporcionar carreras lucrativas. Esto había llevado, \r\nsegún él, a la ausencia de un cuerpo orgánico de profesores aptos y \r\nconsagrados a la enseñanza superior. Las facultades, de este modo, más \r\nque un cuerpo vivo, eran una oficina administrativa, sin miras ni \r\npropósitos comunes, sin cohesión. En palabras de Rivarola (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964009_ref30",
+       "id": "t-llamada-redalyc_314964009_ref30-2"
+      },
+      "1906b"
+     ],
+     "),\r\n faltaba un “espíritu universitario” que “manteniendo las inclinaciones y\r\n maneras de ser individuales, da a todos un carácter común” (p. 127). \r\nAlgo similar pensaba ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964009_ref6",
+       "id": "t-llamada-redalyc_314964009_ref6-8"
+      },
+      "Cané (1904)"
+     ],
+     ", \r\ncuando, apelando a metáforas biologicistas, decía que la Facultad de \r\nDerecho había muerto de tuberculosis. La universidad, para él, también \r\ndebía ser un vínculo de cohesión, un cuerpo cuyos órganos trabajaran \r\narticuladamente. Consideraba que solo mediante el apoyo del “espíritu \r\nuniversitario” era posible el desarrollo del hombre moderno, de ese \r\nhombre con capacidad para las “generalizaciones fecundas”. Aquí \r\nradicaba, precisamente, la función de la FFyL, análoga a la coordinación\r\n que ejercía el sistema nervioso. Según Rivarola (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964009_ref31",
+       "id": "t-llamada-redalyc_314964009_ref31-2"
+      },
+      "1906c"
+     ],
+     "),\r\n los saberes filosóficos y literarios que allí se impartían eran “el \r\ndintel y a la vez el coronamiento de todo estudio científico” (p. 8). La\r\n facultad, para él, tenía la tarea de “crear aptitudes mentales para \r\nalcanzar las más altas generalizaciones científicas, las mejores \r\naptitudes críticas y las mejores cualidades de expresión que son \r\nindispensables para el progreso de la ciencia” (1908, p. 508). Creía que\r\n si aún no había podido desempeñar esa función era por la mala \r\npreparación de los estudiantes y, especialmente, por el predominio del \r\n“separatismo profesionalista” que impedía la formación de un cuerpo de \r\nprofesores apto para remediar esa situación. Solo con profesores \r\nconsagrados a la ciencia se podían formar profesores de enseñanza \r\nsecundaria capaces de proporcionar una preparación adecuada para los \r\nestudios superiores. En otras palabras, la mala preparación de los \r\nestudiantes no era solo un problema del profesorado secundario, sino \r\ntambién, y sobre todo, universitario."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "\r\n",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964009_ref29",
+       "id": "t-llamada-redalyc_314964009_ref29-3"
+      },
+      "Rivarola (1906a)"
+     ],
+     " consideraba que \r\nlas reformas de los estatutos universitarios en 1906 permitirían avanzar\r\n sobre el aislamiento tanto de las cátedras como de las facultades y, en\r\n consecuencia, pasar del carácter profesional al científico. En esta \r\nlínea, desde su rol como director de la ",
+     [
+      "span",
+      {},
+      "RUBA"
+     ],
+     ",\r\n pretendía que esta revista no fuera solo una publicación de informes, \r\ncomunicaciones, estadísticas y datos oficiales, sino un escenario para \r\nreflejar la ciencia y el pensamiento de la universidad, estimular el \r\nestudio de los grandes problemas de la educación nacional y reunir las \r\n“fuerzas disgregadas” (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964009_ref26",
+       "id": "t-llamada-redalyc_314964009_ref26-5"
+      },
+      "Rivarola, 1904a"
+     ],
+     ").\r\n Además, consideraba clave elaborar una pedagogía de la enseñanza \r\nsuperior, alentaba la mejora salario docente y proponía retribuir los \r\ncargos suplentes. Pensaba que de esa forma el profesorado no solo podría\r\n convertirse en carrera, sino que también se podría terminar con \r\naquellos profesores vitalicios, que disponían de criterios estériles y \r\nanticuados, que no aspiraban a la síntesis o a alcanzar los principios, \r\nni se preocupaban por las formas. Cabe recordar que para Rivarola, como \r\npara Quesada, Morel y otros profesores de la facultad, la función \r\ndocente era difundir los últimos resultados de las ciencias y, sobre \r\ntodo, estimular la investigación personal metódica, por lo que \r\nreclamaban un cuerpo docente con una sólida formación científica y \r\npedagógica."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Por entonces, tanto la facultad como la universidad \r\ncomenzaban a notar y a darles un lugar importante a los profesores \r\nsuplentes en la organización de la enseñanza, pues a menudo reemplazaban\r\n a los titulares. Se impulsaron iniciativas para retribuir esa labor, \r\nasí como para permitirles participar en la elección de los profesores \r\nsuplentes que se postulaban para sus cátedras, dictar cursos \r\ncomplementarios con validez curricular y asumir cargos titulares \r\nvacantes, como fue el caso del ya mencionado Ingenieros en el segundo \r\ncurso de Psicología. Los profesores suplentes también eran valorados por\r\n los estudiantes. Desde el Centro de Estudiantes de la Facultad \r\n(CEFFyL), creado en 1906, algunos cuestionaron la designación de varios \r\nde ellos, como De Veyga en Psicología, argumentando que carecían de \r\nautoridad moral y ascendiente intelectual. También propusieron que esos \r\ncargos fuesen ejercidos por los alumnos de los cursos superiores como \r\nparte de su propia formación docente."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "En relación con esto último, desde el CEFFyL se \r\ncuestionaron también aquellas disposiciones del Ministro Naón que \r\ndesautorizaban a la FFyL en lo referido a la formación de los profesores\r\n de la enseñanza secundaria. Distinguiendo, también, entre lo práctico y\r\n lo profesional, argumentaban que Naón le quitaba al profesorado una \r\nformación científica alejada “de las preocupaciones mercantilistas”, y a\r\n las carreras académicas, “todo estímulo práctico” (",
+     [
+      "span",
+      {},
+      [
+       "a",
+       {
+        "href": "#t-redalyc_314964009_ref38",
+        "id": "t-llamada-redalyc_314964009_ref38-1"
+       },
+       "Boletín del CEFFyL"
+      ]
+     ],
+     ", 17, p. 2). En un sentido similar se expresaba el profesor suplente de Ética y Metafísica, Juan ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964009_ref8",
+       "id": "t-llamada-redalyc_314964009_ref8-1"
+      },
+      "Chiabra (1909)"
+     ],
+     ". Desde las páginas de la ",
+     [
+      "span",
+      {},
+      "RUBA"
+     ],
+     "\r\n resaltaba la importancia de la formación universitaria de los \r\nprofesores. Frente a esos decretos ministeriales, señalaba que la \r\nactividad científica y profesional no eran mutuamente excluyentes. Según\r\n ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964009_ref8",
+       "id": "t-llamada-redalyc_314964009_ref8-2"
+      },
+      "Chiabra (1909)"
+     ],
+     ", el ejercicio \r\nprofesional presuponía una educación científica y viceversa. \r\nParafraseando a Kant, sostenía que las habilidades técnicas eran torpes \r\nsin hábitos de investigación, análisis y crítica, mientras que la \r\nciencia sin aplicación práctica carecía de sentido. En sus palabras, “la\r\n enseñanza que se difunde [en un instituto universitario] debe ser de \r\ntal naturaleza, que, tendiendo […] a ser completamente científica, venga\r\n a ser una fuerza capaz de penetrar e informar no solo el pensamiento, \r\nsino también todas las actividades del ser humano” (pp. 28-29). De este \r\nmodo, ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964009_ref8",
+       "id": "t-llamada-redalyc_314964009_ref8-3"
+      },
+      "Chiabra (1909)"
+     ],
+     " afirmaba que \r\nla preparación docente necesitaba de una pedagogía práctica, adquirida \r\nen el ejercicio constante, pero también una formación profunda en las \r\nmaterias a enseñar y en las ciencias de la educación. También sostenía \r\nque el fin de la enseñanza secundaria no era introducir a los alumnos en\r\n la ciencia, sino en el modo de alcanzarla. “La habilidad didáctica”, \r\ndecía, “se confunde con la destreza investigadora” (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964009_ref8",
+       "id": "t-llamada-redalyc_314964009_ref8-4"
+      },
+      "Chiabra, 1909, p. 40"
+     ],
+     ").\r\n Así, sin preparación científica, ningún profesor podía llevar adelante \r\nsu tarea docente. De aquí que, en línea con Quesada, Matienzo y \r\nRivarola, consideraba que el método de la enseñanza solo podía \r\nalcanzarse en la universidad y, en ese contexto, la FFyL desempeñaba un \r\npapel central, en tanto tenía como objeto la investigación científica. ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964009_ref8",
+       "id": "t-llamada-redalyc_314964009_ref8-5"
+      },
+      "Chiabra (1909)"
+     ],
+     "\r\n sostenía, apelando a una metáfora biologicista, que, por esa tarea, la \r\nuniversidad dejaría de ser “un organismo amputado, en cuanto proveyese \r\njóvenes que se dedicaran a las escuelas secundarias, es decir, al \r\nejercicio de una profesión que es tan importante y tan elevada para lo \r\ncultura de un gran país” (p. 45). La formación de profesores permitía \r\ncrear una comunidad científica que se pensaba necesaria para el propio \r\ndesarrollo de la ciencia, al tiempo que le otorgaba al saber filosófico y\r\n a la propia FFyL un anclaje práctico y una función social específica."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Consideraciones finales"
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Este trabajo ha explorado el deslinde de la filosofía\r\n en el ámbito universitario argentino, enfocándose específicamente en el\r\n contexto de la creación de la FFyL de Buenos Aires a comienzos del \r\nsiglo XX. Se trata de un momento clave en la historia de la filosofía en\r\n el país, donde se estableció un espacio institucional para su \r\ndesarrollo como disciplina académica. Este estudio, que constituye un \r\nanálisis particular de un fenómeno más amplio y complejo, ha permitido \r\nobservar cómo las autoridades y profesores de esta Facultad elaboraron \r\nuna serie de intervenciones teóricas que, sobre la base de una \r\nparticular concepción del conocimiento, pueden ser leídas como esfuerzos\r\n por definir y delimitar la filosofía en el marco de los saberes \r\nuniversitarios. Asimismo, ha permitido poner en relieve cómo este saber \r\nfilosófico que se iba definiendo desde ese marco teórico le otorgaba un \r\nsentido a la propia facultad y universidad, así como al conjunto de \r\nsaberes que en ellas se impartían."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Desde una matriz biologicista, con eje en la noción \r\nde evolución, el conocimiento quedaba limitado a la percepción de la \r\nrealidad sensible, al tiempo que se erigía como un instrumento de \r\nsupervivencia. Los saberes impartidos en la FFyL se ajustaban a este \r\nenfoque que tomaba como modelo privilegiado y exclusivo a las ciencias \r\nexperimentales. Esto les permitía reclamar cierta legitimidad al \r\ninterior del ámbito académico. Además, les atribuía una función social \r\nprecisa en la medida en que aparecían como herramientas fundamentales \r\npara el desarrollo industrial e institucional de una sociedad en \r\ntransformación. Esta orientación experimental y práctica, que también se\r\n definía como moderna, repercutía no solo en los contenidos de las \r\nmaterias enseñadas, sino también en sus formas. Por un lado, los \r\nprofesores de la FFyL se concebían como agentes que debían fomentar la \r\ninvestigación científica personal, crítica y metódica. Por otro lado, si\r\n bien la autonomización de las distintas disciplinas científicas \r\naparecía como un criterio de progreso, se mantenía, por lo general, una \r\ndistancia relativa ante la especialización. La filosofía, entendida como\r\n una coordinación relativa de los saberes, se presentaba como un recurso\r\n ante ello. Solo así, en tanto saber ligado y dependiente de los demás \r\nsaberes producidos en la universidad, podía proclamarse un saber \r\nlegítimo y necesario."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Este enfoque cientificista ocupaba un lugar \r\npredominante al interior de la FFyL. No obstante, hacia finales de la \r\nprimera década del siglo pasado, comenzaban a introducirse miradas \r\ninscritas en las corrientes neokantianas, desde las cuales se intentaba \r\ndarle a la filosofía un lugar más protagónico en el campo de los \r\nsaberes. A pesar de las tensiones entre ambos enfoques, el criticismo no\r\n se presentaba como una posición opuesta y excluyente, sino como un \r\ncomplemento, que introducía un matiz idealista en esa filosofía \r\ncientífica y permitía, de ese modo, reforzar los límites de sus \r\npretensiones especulativas. La filosofía encontraba su anclaje en las \r\nciencias experimentales, al mismo tiempo que restringía a estas últimas \r\ndentro de los límites de la razón. El saber filosófico no solo era su \r\nsíntesis, sino también su juez y garante. En otras palabras, se \r\nposicionaba como un saber condicionado y condicionante."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Estas intervenciones discursivas en torno al \r\nconocimiento, las ciencias y la filosofía tenían un correlato con el \r\nmodo de entender el rol y la función de la facultad y la universidad. En\r\n virtud de aquella matriz de pensamiento, la universidad se concebía en \r\nanalogía al cerebro y la FFyL, en particular, como una institución que \r\ndaba orden y sentido a la pluralidad de percepciones. Así, el saber \r\nfilosófico, como coordinación y expresión de la inteligencia, se \r\npresentaba como un saber capaz de dominar el presente y guiar el curso \r\nde la historia. Aparecía, entonces, como una condición esencial para el \r\ndesarrollo de la sociedad. De aquí que tanto autoridades como profesores\r\n de la Facultad apuntaban a crear las bases para elaborar el pensamiento\r\n sistemático y encauzar racionalmente las investigaciones científicas. \r\nEstos roles no solo legitimaban al saber filosófico, sino que también \r\ngarantizaban el papel social de la universidad. Si la universidad tenía \r\nsentido como institución era precisamente por su capacidad de formular, a\r\n través del despliegue de las ciencias y la filosofía, las leyes que \r\ndebían regir los destinos sociales."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Por otra parte, si la FFyL se había concebido \r\ninicialmente como respuesta ante la mala preparación de los alumnos de \r\nlos colegios nacionales, pronto se pensó como un centro de investigación\r\n científica. Sin embargo, esa cuestión preparatoria no fue abandonada, \r\nsino que continuó siendo un tema de interés. Para algunos miembros de la\r\n FFyL, esta debía dedicarse también a la formación de profesores de \r\nenseñanza secundaria. Este punto suscitó algunas controversias. No \r\nobstante, a pesar de algunas voces que consideraban que la Facultad \r\ndebía dedicarse exclusivamente a la investigación científica, \r\npredominaba una posición que reconocía en la cuestión del profesorado \r\nuna función fundamental. Más allá de las condiciones de la matrícula que\r\n ponderaba el título de profesor, esta función legitimaba socialmente a \r\nla Facultad y le daba un sentido en el seno mismo de la universidad, ya \r\nque permitía conducir las instituciones que formaban a los hombres y \r\nmujeres del país. Además, permitía constituir una comunidad científica, \r\nde la que saldrían los actores que operarían y que controlarían las \r\nfuturas síntesis filosóficas. A juicio de los protagonistas, si la FFyL \r\nno se ocupaba de la formación docente, existía el riesgo de que los \r\nprofesores se orientaran por intereses exclusivamente individuales y \r\ncarecieran de formación científica, promoviendo una enseñanza dogmática \r\nincompatible con los estudios superiores. Por lo tanto, la formación de \r\nprofesores por parte de la FFyL se pensaba, desde aquel entramado \r\ncientificista, como un requisito para su propia existencia y de la \r\nuniversidad."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Estas reflexiones, aunque incipientes, intentaron \r\ncomprender los rasgos del proceso de definición y de demarcación de la \r\nfilosofía como saber universitario en el contexto de la UBA durante la \r\nprimera década del siglo XX. Por entonces, la filosofía comenzaba a \r\norganizarse como una disciplina académica y a trazar su especificidad y \r\nsu diferencia en un escenario discursivo e institucional que la abarcaba\r\n y la excedía. Sus límites con otros saberes, al igual que su rol \r\ninstitucional, eran aún ambiguos. Sin embargo, es posible observar que \r\nsi el perfil que adquiría la universidad y la FFyL condicionaban el \r\nmodelo que asumía la filosofía, la definición de este saber también \r\nincidía en la dirección que tomaban estas instituciones. De este modo, \r\nel saber filosófico no solo respondía a las estructuras institucionales y\r\n académicas existentes, sino que también contribuía activamente a \r\nmoldearlas"
+    ],
+    "\r\n"
+   ],
+   "\r\n",
+   [
+    "span",
+    {
+     "id": "t-back"
+    },
+    "\r\n",
+    [
+     "p",
+     {},
+     "Referencias"
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964009_ref3"
+     },
+     "Alberini, C. (1911). La teoría kantiana del juicio sintético a priori. ",
+     [
+      "span",
+      {},
+      "Revista de la Universidad de Buenos Aires"
+     ],
+     ", (15), 471-482."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964009_ref4"
+     },
+     "Altamirano, C. \r\n(2004). Entre el naturalismo y la psicología: El comienzo de la “ciencia\r\n social” en la Argentino. En F. G. Neiburg y M. B. Plotkin (Eds.), ",
+     [
+      "span",
+      {},
+      "Intelectuales y expertos: La constitución del conocimiento social en la Argentina"
+     ],
+     " (pp. 31-65). Paidós."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964009_ref5"
+     },
+     "Buchbinder, P. (2005).",
+     [
+      "span",
+      {},
+      " Historia de las universidades argentinas"
+     ],
+     ". Sudamericana"
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964009_ref6"
+     },
+     "Cané, M. (1904). Discurso del decano cesante. ",
+     [
+      "span",
+      {},
+      "Revista de la Universidad de Buenos Aires"
+     ],
+     ", (1), 183-198."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964009_ref7"
+     },
+     "Cané, M. (1919). La enseñanza clásica. En ",
+     [
+      "span",
+      {},
+      "Discursos y Conferencias"
+     ],
+     " (pp. 45-63). Casa Vaccaro."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964009_ref8"
+     },
+     "Chiabra, J. (1909). Ciencia y enseñanza. ",
+     [
+      "span",
+      {},
+      "Revista de la Universidad de Buenos Aires"
+     ],
+     ", (11), 25-45."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964009_ref9"
+     },
+     "Chiabra, J. (1910). La metafísica científica moderna y la vuelta a Kant. ",
+     [
+      "span",
+      {},
+      "Revista de la Universidad de Buenos Aires"
+     ],
+     ", (13), 5-26."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964009_ref10"
+     },
+     "Dotti, J. (1992). ",
+     [
+      "span",
+      {},
+      "La letra gótica. Recepción de Kant en Argentina, desde el Romanticismo hasta el Treinta"
+     ],
+     ". Facultad de Filosofía y Letras, Universidad de Buenos Aires."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964009_ref11"
+     },
+     "Galfione, M. C. y \r\nMoine, F. (2022). El saber filosófico y sus definiciones \r\ninstitucionales. Una lectura a través de la revista Verbum. ",
+     [
+      "span",
+      {},
+      "Palimpsesto, 12"
+     ],
+     "(20). ",
+     [
+      "a",
+      {
+       "href": "https://doi.org/10.35588/pa.v12i20.5451"
+      },
+      "https://doi.org/10.35588/pa.v12i20.5451"
+     ],
+     "\r\n"
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964009_ref12"
+     },
+     "Halperín Donghi, T. (1962). ",
+     [
+      "span",
+      {},
+      "La Universidad de Buenos Aires"
+     ],
+     ". Eudeba."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964009_ref13"
+     },
+     "Melo, C. (1905). Objeto y límites de la psicología. ",
+     [
+      "span",
+      {},
+      "Revista de la Universidad de Buenos Aires"
+     ],
+     ", (3), 475-487."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964009_ref14"
+     },
+     "Morel, C. (1904a). El alumno. ",
+     [
+      "span",
+      {},
+      "Revista de la Universidad de Buenos Aires"
+     ],
+     ", (2), 224-234."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964009_ref15"
+     },
+     "Morel, C. (1904b). Enseñanza preparatoria en la República Argentina. ",
+     [
+      "span",
+      {},
+      "Revista de la Universidad de Buenos Aires"
+     ],
+     ", (1), 33-40."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964009_ref16"
+     },
+     "Morel, C. (1905). \r\nOjeada sobre la evolución de las ideas estéticas a través de los siglos.\r\n Discurso de apertura del curso de estética en la Facultad de Filosofía y\r\n Letras. ",
+     [
+      "span",
+      {},
+      "Revista de la Universidad de Buenos Aires"
+     ],
+     ", (3), 252-263."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964009_ref17"
+     },
+     "Morel, C. (1908). Génesis de la emoción estética. ",
+     [
+      "span",
+      {},
+      "Revista de la Universidad de Buenos Aires"
+     ],
+     ", (9), 283-290."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964009_ref18"
+     },
+     "Piñero, H. (1901). Enseñanza actual de la psicología en Europa y América. ",
+     [
+      "span",
+      {},
+      "Anales de la Universidad de Buenos Aires"
+     ],
+     ", (XV), 117-138."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964009_ref19"
+     },
+     "Piñero, H. (1904). Índole y método de la enseñanza en la Facultad de Filosofía y Letras. ",
+     [
+      "span",
+      {},
+      "Revista de la Universidad de Buenos Aires"
+     ],
+     ", (2), 391-394."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964009_ref20"
+     },
+     "Piñero, H. (1909). La psycologie expérimentale dans le République Argentine. ",
+     [
+      "span",
+      {},
+      "Boletín del CEFFyL"
+     ],
+     ", (15), 3-18."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964009_ref21"
+     },
+     "Piñero, H. (1918). ",
+     [
+      "span",
+      {},
+      "Trabajos de psicología normal y patológica."
+     ],
+     " CEFFyL."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964009_ref22"
+     },
+     "Piñero, N. (1904). Discurso del decano electo. ",
+     [
+      "span",
+      {},
+      "Revista de la Universidad de Buenos Aires"
+     ],
+     ", (1), 198-203."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964009_ref23"
+     },
+     "Quesada, E. (1905). La sociología. Carácter científico de la enseñanza. ",
+     [
+      "span",
+      {},
+      "Revista de la Universidad de Buenos Aires"
+     ],
+     ", (3), 213-251."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964009_ref24"
+     },
+     "Quesada, E. (1915).\r\n La fusión del Instituto Nacional del Profesorado Secundario en la \r\nFacultad de Filosofía y Letras de la Universidad de la Capital. ",
+     [
+      "span",
+      {},
+      "Archivos de Ciencias de la Educación, 1"
+     ],
+     "(2), 137-159."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964009_ref25"
+     },
+     "Rivarola, R. (1898). Discurso de inauguración de la cátedra de Filosofía. ",
+     [
+      "span",
+      {},
+      "Anales de la Universidad de Buenos Aires"
+     ],
+     ", (12), 111-130."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964009_ref26"
+     },
+     "Rivarola, R. (1904a). En lugar de un programa. ",
+     [
+      "span",
+      {},
+      "Revista de la Universidad de Buenos Aires"
+     ],
+     ", (1), 5-14."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964009_ref27"
+     },
+     "Rivarola, R. (1904b). La Reforma Universitaria. ",
+     [
+      "span",
+      {},
+      "Revista de la Universidad de Buenos Aires"
+     ],
+     ", (1), 177-182."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964009_ref28"
+     },
+     "Rivarola, R. (1905). La nueva y las viejas universidades argentinas. ",
+     [
+      "span",
+      {},
+      "Revista de la Universidad de Buenos Aires"
+     ],
+     ", (4), 420-425."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964009_ref29"
+     },
+     "Rivarola, R. (1906a). La reforma universitaria. ",
+     [
+      "span",
+      {},
+      "Revista de la Universidad de Buenos Aires"
+     ],
+     ", (5), 176-189."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964009_ref30"
+     },
+     "Rivarola, R. (1906b). Un nuevo aspecto de la cuestión universitaria. ",
+     [
+      "span",
+      {},
+      "Revista de la Universidad de Buenos Aires"
+     ],
+     ", (5), 111-129."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964009_ref31"
+     },
+     "Rivarola, R. (1906c). Veinte años en el rectorado. ",
+     [
+      "span",
+      {},
+      "Revista de la Universidad de Buenos Aires"
+     ],
+     ", (5), 5-9."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964009_ref32"
+     },
+     "Rivarola, R. (1908). La ley universitaria y el principio de autonomía didáctica. ",
+     [
+      "span",
+      {},
+      "Revista de la Universidad de Buenos Aires"
+     ],
+     ", (8), 113-138."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964009_ref33"
+     },
+     "Rivarola, R. (1910). Unidad y organización de la ciencia. ",
+     [
+      "span",
+      {},
+      "Revista de la Universidad de Buenos Aires"
+     ],
+     ", (13), 145-153"
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964009_ref34"
+     },
+     "Rivarola, R. (1911). Defensa de las universidades argentinas. ",
+     [
+      "span",
+      {},
+      "Revista de la Universidad de Buenos Aires"
+     ],
+     ", (15), 96-110."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964009_ref35"
+     },
+     "Rivarola, R. (1945). ",
+     [
+      "span",
+      {},
+      "Escritos filosóficos. "
+     ],
+     "Facultad de Filosofía y Letras. Universidad de Buenos Aires."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964009_ref36"
+     },
+     "Terán, O. (2000). ",
+     [
+      "span",
+      {},
+      "Vida intelectual en el Buenos Aires fin-de-siglo (1880-1910). Derivas de la “cultura científica”"
+     ],
+     ". Fondo de Cultura Económica."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Fuentes"
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964009_ref37"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "Revista de la Universidad de Buenos Aires"
+     ],
+     " (1904-1964)."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964009_ref38"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "Boletín de Centro de Estudiantes de la Facultad de Filosofía y Letras"
+     ],
+     " (1906-1911)."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Notas"
+    ],
+    "\r\n",
+    [
+     "span",
+     {
+      "id": "t-fn1"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "1"
+     ],
+     " En 1898 se sancionó el segundo plan de \r\nestudios de la Facultad, vigente hasta 1912, el cual otorgaba el título \r\nde Doctor en Filosofía y Letras después de cursar una veintena de \r\nmaterias, aprobar exámenes generales y una tesis, en un período \r\naproximado de cinco años. Las materias se ordenaban en tres áreas: \r\nhistoria, literatura y filosofía. La aprobación de alguno de estos \r\nciclos, más un curso de Ciencias de la Educación, permitía acceder al \r\ntítulo de profesor. Las materias “filosóficas” se limitaban a \r\nPsicología, Ética y Metafísica, Sociología e Historia de la filosofía, \r\ndistribuídas entre los primeros cuatro años. Las demás áreas incluían \r\nGeografía I y II, Historia Universal I y II, Antropología, Historia \r\nArgentina, Arqueología Americana, Latín I-IV, Griego I-IV, Literatura de\r\n la Europa Meridional, Literatura Castellana y Literatura Latina."
+    ],
+    "\r\n",
+    [
+     "span",
+     {
+      "id": "t-fn2"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "2"
+     ],
+     " En 1901, H. Piñero pronunció en la FFyL una\r\n conferencia sobre la “Enseñanza actual de la psicología en Europa y \r\nAmérica”, donde resumió las tendencias y los temas discutidos en estos \r\ncongresos. Destacó el cuarto y último congreso, realizado en París en \r\n1900, bajo la presidencia de Théodule-Armand Ribot, ya que representó, \r\nsegún él, un avance significativo respecto a los anteriores en la medida\r\n en que se enfocó en la anatomía y en la fisiología del sistema \r\nnervioso, con eje en la teoría de las neuronas."
+    ],
+    "\r\n",
+    [
+     "span",
+     {
+      "id": "t-fn3"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "3"
+     ],
+     " La cátedra de Antropología se enfocaba en \r\nel estudio anatómico del ser humano, sobre la base de la concepción de \r\nla célula como principio biológico-evolutivo y del hombre como \r\ncoronamiento de la escala zoológica. Además, se estudiaba el cuerpo \r\nhumano desde una perspectiva paleontológica, con el objetivo de \r\nreconstruir su cadena filogenética. Esta tarea se hacía en colaboración \r\ncon las disciplinas geográficas y arqueológicas también impartidas en la\r\n Facultad por Ernesto Delachaux, Clemente Fregeiro, Julio Lederer y \r\nSamuel Lafone Quevedo."
+    ],
+    "\r\n",
+    [
+     "span",
+     {
+      "id": "t-fn4"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "4"
+     ],
+     " En la cátedra de Ciencias de la Educación, \r\nFrancisco Berra, su primer profesor, pretendía elevar la pedagogía a \r\nciencia mediante la aplicación del método experimental. En Arqueología, \r\nigualmente, se utilizaba este método para comprender las civilizaciones \r\nsudamericanas a través de los materiales adquiridos por donaciones, por \r\ncompras y por expediciones. En Geografía física se estudiaba, así, el \r\nplaneta y el territorio argentino para entender las leyes que los \r\nmoldeaban y cómo sus transformaciones acompañaban la evolución \r\nbiológica. En las disciplinas históricas, a su vez, se priorizaba el \r\ntrabajo con archivos documentales, y desde los cursos de Historia \r\nUniversal, de Dellepiane, se promovía el estudio de la metodología \r\nhistórica."
+    ],
+    "\r\n",
+    [
+     "span",
+     {
+      "id": "t-fn5"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "5"
+     ],
+     " Durante estos años, la facultad y la \r\nuniversidad estrecharon lazos con distintas instituciones extranjeras \r\ntendientes a la formación de estudiantes, el intercambio de profesores, \r\nla participación en eventos académicos y la transferencia de materiales."
+    ],
+    "\r\n",
+    [
+     "span",
+     {
+      "id": "t-fn6"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "6"
+     ],
+     " Berra, por ejemplo, proponía realizar una \r\ncrítica de la teoría pedagógica a partir de las investigaciones \r\nexperimentales previamente realizadas, mientras que Delachaux \r\nreemplazaba, por obsoletos, los textos, los mapas y los atlas ya hechos,\r\n con exposiciones verbales, traducciones de estudios recientes y \r\nesquemas ejecutados en el pizarrón, para lo cual demandaba un gabinete \r\npropio."
+    ],
+    "\r\n",
+    [
+     "span",
+     {
+      "id": "t-fn7"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "7"
+     ],
+     " Fernández dispuso para la formación de \r\nprofesores de enseñanza secundaria la obligación de complementar la \r\nformación disciplinar adquirida en la universidad con un curso teórico y\r\n experimental de Ciencias de la Educación en la FFyL, un curso de \r\nPedagogía General en la Escuela Normal de Profesores y un curso de \r\nPedagogía Especial en el Seminario Pedagógico. Este último fue creado \r\npor el propio Fernández, en 1903, para brindar una formación pedagógica a\r\n los egresados universitarios, con la proyección de extenderlo a la \r\nformación del profesorado normal, y para cuya organización contrató \r\nprofesores alemanes, entre ellos Wilheim Keiper."
+    ],
+    "\r\n",
+    [
+     "span",
+     {
+      "id": "t-fn8"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "8"
+     ],
+     " En 1904, el diputado y profesor de Finanzas\r\n de la Facultad de Derecho, Francisco Oliver, presentó en el Congreso un\r\n proyecto que proponía el desmembramiento y la autonomía de las \r\nfacultades, argumentando que no había nada en común entre ellas debido a\r\n la diferencia en sus objetos, tendencias y métodos. Ese mismo año, la \r\nAcademia de la Facultad de Derecho apoyó la propuesta de Oliver, \r\naduciendo que la institución contaba con capacidades económicas propias y\r\n que la intervención del Consejo Superior, al que percibían como un \r\ncuerpo artificial y centralista, era desfavorable para el desarrollo de \r\nla instrucción científica."
+    ],
+    "\r\n"
+   ],
+   "\r\n"
+  ],
+  "\r\n",
+  [
+   "span",
+   {
+    "id": "t-creditos"
+   },
+   "\r\n",
+   "\r\n",
+   [
+    "span",
+    {
+     "id": "t-logo-izquierda"
+    },
+    "\r\n",
+    [
+     "figura",
+     {}
+    ]
+   ],
+   "\r\n",
+   [
+    "span",
+    {
+     "id": "t-mensaje"
+    },
+    "Modelo de publicación sin fines de lucro para conservar la naturaleza académica y abierta de la comunicación científica",
+    [
+     "br",
+     {}
+    ],
+    "HTML generado a partir de XML-JATS4R"
+   ],
+   "\r\n",
+   [
+    "span",
+    {
+     "id": "t-logo-derecha"
+    },
+    "\r\n",
+    [
+     "figura",
+     {}
+    ]
+   ],
+   "\r\n",
+   "\r\n"
+  ],
+  "\r\n\r\n\r\n"
+ ]
+}

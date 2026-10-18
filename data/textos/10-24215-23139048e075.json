@@ -1,0 +1,588 @@
+{
+ "version": 1,
+ "recogido": "2026-10-18T11:46:49+00:00",
+ "doi": "10.24215/23139048e075",
+ "titulo": "Reseña a Ernesto Calvo y Natalia Aruguete (2020). Fake news, trolls y otros encantos. Cómo funcionan (para bien y para mal) las redes sociales",
+ "revista": "2313-9048",
+ "numero": "v17-n17-2023",
+ "licencia": {
+  "codigo": "by-nc-sa",
+  "nombre": "CC BY-NC-SA 4.0",
+  "nombre_completo": "Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional",
+  "url": "https://creativecommons.org/licenses/by-nc-sa/4.0",
+  "url_legal": "https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.es"
+ },
+ "fuente": {
+  "url": "https://perio.unlp.edu.ar/ojs/index.php/cps/article/download/7845/6983/33659?inline=1",
+  "formato": "HTML",
+  "plataforma": "ojs-galerada",
+  "pagina": "https://perio.unlp.edu.ar/ojs/index.php/cps/article/view/7845"
+ },
+ "autores_cita": [
+  {
+   "apellidos": "Pérez Díaz",
+   "nombre_pila": "Pilar",
+   "nombre": null
+  }
+ ],
+ "avisos_derechos": [
+  "Derechos de autor 2023 Cuadernos de H ideas",
+  "Licencia Derechos de autor 2023 Cuadernos de H ideas Esta obra está bajo una licencia internacional Creative Commons Atribución-NoComercial-CompartirIgual 4.0. La aceptación de un original por parte de la revista implica la cesión no exclusiva de los derechos patrimoniales de los/as autores/as en favor del editor, quien permite la reutilización, luego de su edición (postprint), bajo una Licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0) Acorde a estos términos, el material se puede compartir (copiar y redistribuir en cualquier medio o formato) y adaptar (remezclar, transformar y crear a partir del material otra obra), siempre que a) se cite la autoría y la fuente original de su publicación (revista y URL de la obra), b) no se use para fines comerciales y c) se mantengan los mismos términos de la licencia. La cesión de derechos no exclusivos implica que luego de su edición (postprint) en Cuadernos de H ideas las/os autoras/es pueden publicar su trabajo en cualquier idioma, medio y formato; en tales casos, se solicita que se consigne que el material fue publicado originalmente en esta revista. Tal cesión supone, también, la autorización de los/as autores/as para que el trabajo sea cosechado por SEDICI, el repositorio institucional de la Universidad Nacional de La Plata, y sea difundido en las bases de datos que el equipo editorial considere adecuadas para incrementar la visibilidad de la publicación y de sus autores/as. Asimismo, la revista incentiva a las/os autoras/es para que luego de su publicación en Cuadernos de H ideas depositen sus producciones en otros repositorios institucionales y temáticos, bajo el principio de que ofrecer a la sociedad la producción científica y académica sin restricciones contribuye a un mayor intercambio del conocimiento global."
+ ],
+ "idioma_principal": "es",
+ "indice": [],
+ "vueltas": {},
+ "contenido": [
+  [
+   "span",
+   {
+    "id": "t-MathJax_Message"
+   }
+  ],
+  "\n",
+  [
+   "span",
+   {
+    "id": "t-visor-cabecera"
+   },
+   "\n",
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-logo-institucion"
+    },
+    "\n",
+    [
+     "figura",
+     {}
+    ]
+   ],
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-logo-revista"
+    },
+    "\n",
+    [
+     "figura",
+     {}
+    ]
+   ],
+   "\n",
+   "\n"
+  ],
+  "\n",
+  [
+   "span",
+   {
+    "id": "t-articulo"
+   },
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-front"
+    },
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-articulo-categoria"
+     },
+     "\n",
+     [
+      "p",
+      {},
+      "Reseñas"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-articulo-meta"
+     },
+     "\n",
+     [
+      "p",
+      {},
+      "Reseña a Ernesto\nCalvo y Natalia Aruguete (2020). ",
+      [
+       "span",
+       {},
+       "Fake news,\ntrolls y otros encantos. Cómo funcionan (para bien y\npara mal) las redes sociales"
+      ],
+      ". Siglo XXI. 237 pp."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "Review to Ernesto Calvo y Natalia Aruguete (2020). ",
+      [
+       "span",
+       {},
+       "Fake news, trolls y\notros encantos. Cómo funcionan (para bien y para mal) las redes sociales"
+      ],
+      ".\nSiglo XXI. 237 pp."
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-articulo-acerca"
+     },
+     "\n",
+     [
+      "span",
+      {
+       "id": "t-ficha-general"
+      },
+      "\n",
+      [
+       "span",
+       {
+        "id": "t-autores-articulo"
+       },
+       "\n",
+       "\n",
+       "\n",
+       [
+        "a",
+        {
+         "href": "https://orcid.org/0009-0009-6870-7540"
+        },
+        [
+         "figura",
+         {}
+        ]
+       ],
+       "  ",
+       [
+        "span",
+        {},
+        "Pilar"
+       ],
+       " ",
+       [
+        "span",
+        {},
+        "Pérez Díaz"
+       ],
+       " ",
+       [
+        "span",
+        {}
+       ],
+       [
+        "span",
+        {},
+        " pilar.pd.21@gmail.com"
+       ],
+       "\n",
+       "\n",
+       "\n",
+       [
+        "span",
+        {},
+        "Universidad Nacional de Mar del\nPlata"
+       ],
+       ", ",
+       [
+        "span",
+        {},
+        "Argentina"
+       ],
+       "\n",
+       "\n",
+       "\n"
+      ],
+      "\n",
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "Cuadernos de H ideas"
+       ],
+       "\n"
+      ],
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "Universidad Nacional de La Plata, Argentina"
+       ],
+       "\n"
+      ],
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "ISSN: "
+       ],
+       "2313-9048"
+      ],
+      "\n",
+      [
+       "p",
+       {}
+      ],
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "Periodicidad: "
+       ],
+       "Frecuencia continua"
+      ],
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "vol.  17, "
+       ],
+       "núm.  17, ",
+       [
+        "span",
+        {},
+        "2023"
+       ],
+       "\n"
+      ],
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       "cuadernosdehideas@perio.unlp.edu.ar",
+       "\n"
+      ],
+      "\n",
+      "\n",
+      [
+       "span",
+       {
+        "id": "t-articulo-product"
+       },
+       "\n",
+       [
+        "table",
+        {},
+        "\n",
+        [
+         "tbody",
+         {},
+         [
+          "tr",
+          {},
+          "\n",
+          [
+           "th",
+           {},
+           [
+            "span",
+            {},
+            [
+             "figura",
+             {}
+            ]
+           ]
+          ],
+          [
+           "th",
+           {},
+           [
+            "span",
+            {},
+            "Calvo Ernesto, Aruguete Natalia. Fake news,\ntrolls y otros encantos. Cómo funcionan (para bien y\npara mal) las redes sociales.. 2020. Argentina. Siglo XXI."
+           ]
+          ],
+          "\n"
+         ],
+         "\n"
+        ]
+       ],
+       "\n"
+      ],
+      "\n",
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "Recepción: "
+       ],
+       " 20 Marzo  2023"
+      ],
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "Aprobación: "
+       ],
+       " 26 Abril  2023"
+      ],
+      "\n",
+      [
+       "br",
+       {}
+      ],
+      "\n",
+      [
+       "br",
+       {}
+      ],
+      "\n",
+      "\n",
+      "\n",
+      [
+       "span",
+       {},
+       "URL: "
+      ],
+      [
+       "a",
+       {
+        "href": "http://portal.amelica.org/ameli/journal/31/313799004/"
+       },
+       "http://portal.amelica.org/ameli/journal/31/313799004/"
+      ],
+      "\n",
+      "\n",
+      "\n",
+      [
+       "span",
+       {},
+       "DOI: "
+      ],
+      [
+       "a",
+       {
+        "href": "https://doi.org/10.24215/23139048e075"
+       },
+       "https://doi.org/10.24215/23139048e075"
+      ],
+      "\n",
+      "\n",
+      "\n",
+      [
+       "p",
+       {}
+      ],
+      "\n",
+      "\n",
+      "\n",
+      "\n",
+      [
+       "a",
+       {
+        "href": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+       },
+       [
+        "figura",
+        {}
+       ],
+       [
+        "br",
+        {}
+       ],
+       "\n"
+      ],
+      "Esta obra está bajo una ",
+      [
+       "a",
+       {
+        "href": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+       },
+       "Licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional."
+      ],
+      "\n",
+      "\n",
+      "\n",
+      [
+       "p",
+       {}
+      ],
+      "\n"
+     ],
+     "\n"
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-articulo-body"
+    },
+    "\n",
+    [
+     "p",
+     {},
+     " Mayo 2020. Un mundo frenado sin respuestas ante el inicio de una pandemia. Desconocimiento de los efectos del virus, seguido de temor e incertidumbre, ASPO y siglas de medidas socio-sanitarias –que se iban a volver cotidianas– aparecían en la escena ante el aumento de casos de covid-19 en la Argentina. Esta situación, y en particular el aislamiento en los hogares, devino en que las redes sociales sean múltiples veces la única conexión exterior. La pandemia volvió al mundo online, y en particular a las redes sociales, un espacio privilegiado de discusión pública y política. Lo calificado como racional (aislarse frente a un virus que derivó en una pandemia) y no-racional (las emociones) cobraron límites difusos en el mundo online. Ahora bien, la introducción de nuevas tecnologías ya había dado cuenta de una transformación de la dinámica de acción de tres esferas clásicas y constitutivas de la Opinión Pública: ciudadanía, medios tradicionales de comunicación y referentes políticos. La comunicación política y la opinión pública –agudizada por la pandemia– son reconfiguradas a partir de tales transformaciones, enfrentándose más bien a opiniones políticas y comunicación pública.  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " En este contexto fue publicado ",
+     [
+      "span",
+      {},
+      "Fake News, Trolls y otros encantos. Cómo funcionan (para bien y para mal) las redes sociales"
+     ],
+     ", libro de divulgación científica de Ernesto Calvo y de Natalia Aruguete, que reúne trabajos empíricos y teóricos político-comunicacionales previos a la pandemia sobre temas variados en torno a eventos claves con efectos políticos relevantes bajo una estructura tripartita (usuarios, encuadres y redes). El libro, y la discusión que propone, no se centra en si las redes sociales benefician o no a la democracia, discusión que puede derivar en posiciones integradas o apocalípticas (para retomar la clásica dicotomía propuesta por Umberto Eco), sino que se propone visualizar cómo funcionan siendo la democracia parte de la pregunta problema. Por tanto, la pregunta-problema es si las redes promueven el diálogo democrático o aumentan la tendencia a la polarización propiciando la intolerancia entre ciudadanos. A partir de experimentos realizados en la arena local e internacional y estudios de redes en Twitter, los autores abordan diversos casos que les permiten un recorrido analítico. Para ello seleccionaron cinco hashtags, que marcan cuatro ejes político-conversacionales: #Maldonado, #Tarifazo, #AbortoLegal, #MiraComoNosPonemos y #Bolsonaro.  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Es de señalar la existencia de elementos abordados anteriormente por los autores en su campo de estudio. Natalia Aruguete es Doctora en Ciencias Sociales (UNQ) y magíster en Sociología Económica (IDAES-UNSAM) centrándose en estudios comunicacionales y, en particular, el estudio de la teoría de Agenda Setting siendo el rol de los medios de comunicación y sus efectos sobre las audiencias la cuestión problemática central de sus trabajos. Ernesto Calvo es Doctor en Ciencia Política (Universidad de Northwestern) y Director del Interdisciplinary Laboratory of Computational Social Science (Universidad de Maryland), y desde el campo politológico propone como central los efectos político-electorales de la conversación en redes dando cuenta de la importancia de las instituciones políticas. Los campos disciplinares de los que provienen y en los que están insertos los autores son tensionados por lo desarrollado y expuesto en el libro. A partir de los temas abordados, la obra, publicada durante la pandemia y presentada en numerosas videollamadas y presentaciones en el repertorio de redes sociales, permite dilucidar los cambios de la opinión público-política previos a la pandemia por la covid-19. De manera que introdujo nuevos ejes al estudio de redes con la presentación de casos que funcionan como ejemplo y contraejemplo de la dinámica política desarrollada en Twitter complejizando el foco con el que aprehender y analizar la tuitósfera durante y en el estado actual de situación.  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " En primer lugar, los autores comprenden la existencia de una participación ciudadana en Twitter que puede responder a diversas dinámicas y situaciones, siendo los ciudadanos tanto reproductores y productores de fake news, como el caso de Mr. Tucker, que abre el libro, como productores de disputa política como en la red #Tarifazo, y en las redes el ciberfeminismo. De esta forma, Calvo y Aruguete analizan ejemplos y contraejemplos de una cuestión dada por sentada al momento de estudio de redes sociales: la polarización política y el funcionamiento de la conversación en Twitter similar a una “cámara de eco”. Los ciudadanos, presentados como usuarios en Twitter, propagan o no ciertos contenidos aumentando el alcance de influencia de una autoridad en red, comprendida como autores de tuits originales con una velocidad de propagación alta debido al gran alcance y jerarquía en red del usuario. De todas formas, los ciudadanos conviven con lógicas no humanas no siendo un detrimento de la participación ciudadana sino una lógica de la misma en el mundo online. Asimismo, existen encuadres online y offline que estructuran la conversación en redes e influyen en la decisión de compartir contenido.  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " En segundo lugar, los medios de comunicación tradicionales se encuentran en un proceso de adaptación a la lógica de las redes sociales que tensiona su influencia en la discusión pública –dada por sentada por estudios comunicacionales–. Frente a esto, los autores proponen una lectura en el nivel macro y micro. Por un lado, Twitter funciona en calidad de “cámara de eco”, en la que los medios de comunicación asumen el rol de consolidación de narrativas previas insertas en una dinámica de polarización política. Los medios de comunicación en la red #Maldonado, se convirtieron en promotores de premisas que profundizaron creencias previas en la comunidad oficialista y opositora. Los autores, en este sentido, resaltan el valor ideológico de los medios permitiendo establecer una mayor o menor afinidad con ciertos usuarios-ciudadanos. Por otro lado, uno de los aportes del libro es el reconocimiento de las dificultades de los medios de comunicación para imponer agenda en una plataforma en la que cada usuario construye y alimenta una agenda propia, como se visualiza en la red #Tarifazo. De todas formas, los medios de comunicación siguen teniendo el rol de “mayoristas de información” y, por tanto, no hay una batalla por el contenido sino más bien por la estrategia que deriva a que ese contenido obtenga un mayor alcance.  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " En cuanto al rol de los políticos y su funcionamiento en la red, los autores retoman la experiencia brasileña a partir de la campaña presidencial de Jair Bolsonaro en 2018, ",
+     [
+      "span",
+      {},
+      "insider "
+     ],
+     "político calificado de ",
+     [
+      "span",
+      {},
+      "outsider "
+     ],
+     "mediático. La construcción del candidato fue a partir de una campaña exitosa en redes que polarizó posiciones y supuso la ausencia en medios tradicionales por medio de ",
+     [
+      "span",
+      {},
+      "astroturfing"
+     ],
+     ". Esto último es una actividad coordinada de manera centralizada que crea la veracidad de un movimiento espontáneo. Las redes permiten crear un espejismo de mayoría aumentando la tendencia a una red polarizada y promoviendo la candidatura de un político que, en este caso, se aleja del ideal democrático. Sin embargo, uno de los puntos que consideramos centrales del libro es el abordaje dado al ciberfeminismo por medio del hashtag #AbortoLegal y #MiráCómoNosPonemos, marcando la existencia de un ejemplo de promoción de una lucha ciudadana “desde abajo” en las redes y contraejemplo de polarización propiciando el diálogo democrático y las posiciones progresistas. Las redes sociales, y en particular Twitter, abren la posibilidad de otorgar espacios virtuales con poco y bajo presupuesto, así como visibilidad a nuevos actores políticos, que son excluidos de espacios de mediatización reservados a espacios partidarios más fuertes. "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Respecto a esto último, a lo largo del recorrido del libro es posible visualizar una complejización de supuestas linealidades establecidas entre la elección del voto y la decisión electoral, y la formación de agenda mediática y la efectiva agenda política-ciudadana. Los autores exponen lógicas dadas en la convergencia entre el mundo off y on line que exceden y median las decisiones político-electorales, planteando simultáneamente que ante numerosas agendas propias de usuarios, los medios de comunicación hegemónicos ya no son los únicos formadores de agenda. Ni votantes necesariamente votan lo que quieren, ni medios de comunicación tradicionales instalan una única agenda. Esta complejización es posible por la centralidad resaltada por los autores a las características socio-técnicas de Twitter que configuran la conversación política habiendo un corrimiento de la importancia del contenido frente a la intención comunicativa de los usuarios. Ahora bien tales tensiones no son comprendidas en tanto decisión racional sino a lo que escapa de ella introduciendo la carga y efectos político-emocionales. "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " En este punto, Calvo y Aruguete introducen una dimensión fundamental: la afectiva. En particular, en relación con una cuestión transversal en el libro, como lo es la polarización. El contexto de ascenso de populismos de derecha y de “nuevas derechas”, y – agregamos– agudizado por la situación de cambio, de temor y de incertidumbre generada por la pandemia, visibiliza aún más la polarización afectiva. Esta es la distancia entre amor y odio que los votantes enuncian frente a mensajes de distintos líderes político-partidarios. De todas formas, la dimensión subjetiva afectiva es consolidada por una dimensión más estructural, como lo es la lógica algorítmica de las redes sociales. Ahora bien, analizar la polarización afectiva en redes supone un distanciamiento del estudio de redes de Twitter y el acercamiento a técnicas de recolección de datos clásicas como encuestas y entrevistas.  "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     " Analizar el funcionamiento de las redes sociales, más allá de comprenderlas como un soporte, en relación con la opinión pública –y el cambio epocal que esta atraviesa– permite reflexionar sobre las lógicas de performatividad política frente a una activación constante de nuevos eventos y conversaciones online, pero también offline. La conversación política es (re)configurada por las características socio-técnicas de Twitter pero también por los cambios en la arena socio-política teniendo consecuencias en el lenguaje y sus formas. Ahora bien, la recolección de datos y visualización en redes comprendiendo la topología de la red debe ser acompañada por una flexibilidad del investigador respecto a cómo visualizar tal red posibilitando rotaciones de la red social permitiendo la comprensión y especificidad de activismos emergentes. La propuesta de Calvo y Aruguete no puede agotarse en un libro, sino que es más bien una invitación a la reflexión sobre el uso personal dado a las redes sociales, pero también a cómo debe estudiarse su funcionamiento trazando un sendero medio entre el optimismo y pesimismo."
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-back"
+    }
+   ],
+   "\n"
+  ],
+  "\n",
+  [
+   "span",
+   {
+    "id": "t-creditos"
+   },
+   "\n",
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-logo-izquierda"
+    },
+    "\n",
+    [
+     "figura",
+     {}
+    ]
+   ],
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-mensaje"
+    },
+    "Modelo de publicación sin fines de lucro para conservar la naturaleza académica y abierta de la comunicación científica",
+    [
+     "br",
+     {}
+    ],
+    "HTML generado a partir de XML-JATS4R"
+   ],
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-logo-derecha"
+    },
+    "\n",
+    [
+     "figura",
+     {}
+    ]
+   ],
+   "\n",
+   "\n"
+  ],
+  "\n\n\n"
+ ]
+}

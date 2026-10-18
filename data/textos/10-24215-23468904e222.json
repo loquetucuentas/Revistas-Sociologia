@@ -1,0 +1,1883 @@
+{
+ "version": 1,
+ "recogido": "2026-10-18T11:34:54+00:00",
+ "doi": "10.24215/23468904e222",
+ "titulo": "¿Dónde está el Estado? Indagaciones sobre el futuro del trabajo fabril en la Argentina de ahora",
+ "revista": "2346-8904",
+ "numero": "n34-2026",
+ "licencia": {
+  "codigo": "by-nc-sa",
+  "nombre": "CC BY-NC-SA 4.0",
+  "nombre_completo": "Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional",
+  "url": "https://creativecommons.org/licenses/by-nc-sa/4.0",
+  "url_legal": "https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.es"
+ },
+ "fuente": {
+  "url": "https://www.cuestionessociologia.fahce.unlp.edu.ar/article/download/CSe222/22752?inline=1",
+  "formato": "HTML",
+  "plataforma": "ojs-galerada",
+  "pagina": "https://www.cuestionessociologia.fahce.unlp.edu.ar/article/view/CSe222"
+ },
+ "autores_cita": [
+  {
+   "apellidos": "Farinetti",
+   "nombre_pila": "Marina",
+   "nombre": null
+  }
+ ],
+ "avisos_derechos": [
+  "Derechos de autor 2026 ",
+  "Esta obra está bajo una licencia internacional Creative Commons Atribución-NoComercial-CompartirIgual 4.0. La cesión de derechos no exclusivos implica también la autorización por parte de los autores para que el trabajo sea alojado en los repositorios institucionales UNLP (Sedici y Memoria Académica) y difundido a través de las bases de datos que los editores consideren apropiadas para su indización, con miras a incrementar la visibilidad de la revista y sus autores."
+ ],
+ "idioma_principal": "es",
+ "indice": [],
+ "vueltas": {
+  "t-redalyc_775646011_ref3": "t-llamada-redalyc_775646011_ref3-1",
+  "t-fn1": "t-llamada-fn1-1",
+  "t-fn2": "t-llamada-fn2-1",
+  "t-fn3": "t-llamada-fn3-1",
+  "t-redalyc_775646011_ref1": "t-llamada-redalyc_775646011_ref1-1",
+  "t-redalyc_775646011_ref2": "t-llamada-redalyc_775646011_ref2-1",
+  "t-redalyc_775646011_ref7": "t-llamada-redalyc_775646011_ref7-1",
+  "t-redalyc_775646011_ref4": "t-llamada-redalyc_775646011_ref4-1",
+  "t-redalyc_775646011_ref6": "t-llamada-redalyc_775646011_ref6-1",
+  "t-redalyc_775646011_ref5": "t-llamada-redalyc_775646011_ref5-1"
+ },
+ "contenido": [
+  "\n",
+  [
+   "span",
+   {
+    "id": "t-visor-cabecera"
+   },
+   "\n",
+   "\n",
+   [
+    "span",
+    {},
+    "\n",
+    [
+     "a",
+     {
+      "href": "https://www.cuestionessociologia.fahce.unlp.edu.ar/"
+     },
+     "\n",
+     [
+      "figura",
+      {
+       "alt": "CS"
+      }
+     ],
+     "\nCuestiones de Sociología"
+    ],
+    ", núm. 34, e222, agosto 2026 - enero 2027. ISSN 2346-8904",
+    [
+     "br",
+     {}
+    ],
+    "Universidad Nacional de La Plata",
+    [
+     "br",
+     {}
+    ],
+    "Facultad de Humanidades y Ciencias de la Educación",
+    [
+     "br",
+     {}
+    ],
+    "Departamento de Sociología"
+   ],
+   "\n",
+   "\n"
+  ],
+  "\n",
+  [
+   "span",
+   {
+    "id": "t-articulo"
+   },
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-front"
+    },
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-articulo-categoria"
+     },
+     "\n",
+     [
+      "p",
+      {},
+      "Notas de investigación"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-articulo-meta"
+     },
+     "\n",
+     [
+      "p",
+      {},
+      "\n",
+      [
+       "span",
+       {},
+       "¿Dónde está el Estado? Indagaciones sobre el futuro del trabajo fabril en la Argentina de ahora"
+      ],
+      "\n"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-articulo-acerca"
+     },
+     "\n",
+     [
+      "span",
+      {
+       "id": "t-ficha-general"
+      },
+      "\n",
+      [
+       "span",
+       {
+        "id": "t-autores-articulo"
+       },
+       "\n",
+       "\n",
+       "\n",
+       [
+        "span",
+        {},
+        "Marina"
+       ],
+       " ",
+       [
+        "span",
+        {},
+        "Farinetti"
+       ],
+       " ",
+       [
+        "span",
+        {}
+       ],
+       "\n",
+       "\n",
+       [
+        "br",
+        {}
+       ],
+       "\n",
+       "\n",
+       [
+        "span",
+        {},
+        "Laboratorio de Investigación en Ciencias Humanas, Escuela de Humanidades (LICH-EH_UNSAM- CONICET), Universidad Nacional de San Martín, San Martín"
+       ],
+       ", ",
+       [
+        "span",
+        {},
+        "Argentina"
+       ],
+       "\n",
+       "\n",
+       [
+        "span",
+        {},
+        " mfarinetti@unsam.edu.ar"
+       ],
+       "\n",
+       "\n"
+      ],
+      "\n\n",
+      [
+       "span",
+       {},
+       "Cita recomendada:"
+      ],
+      "\n",
+      [
+       "span",
+       {},
+       "Farinetti, M. (2026). ¿Dónde está el Estado? Indagaciones sobre el futuro del trabajo fabril en la Argentina de ahora. ",
+       [
+        "i",
+        {},
+        "Cuestiones de Sociología"
+       ],
+       ", (34), e222. ",
+       [
+        "a",
+        {
+         "href": "https://doi.org/10.24215/23468904e222"
+        },
+        "https://doi.org/10.24215/23468904e222"
+       ]
+      ],
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "Resumen:\n\t\t\t\t\t\t\t                           "
+       ],
+       [
+        "span",
+        {},
+        "Este artículo indaga las relaciones entre trabajo fabril y estatalidad a partir de un estudio de caso realizado en Viamo, una empresa argentina de la industria del calzado. Mediante entrevistas a propietarios y trabajadorxs, reconstruye la historia de la firma y explora distintas aproximaciones al Estado presentes en la experiencia fabril: las relaciones de clase y género, las políticas económicas, los saberes organizacionales, la planificación, los afectos y la formación para el trabajo. El análisis muestra que la producción de calzado articula dimensiones industriales y artesanales, familiares y empresariales, cuya reproducción depende de complejas mediaciones estatales. Asimismo, revela las tensiones que atraviesan el futuro del trabajo fabril en la Argentina contemporánea, marcadas por la pérdida de los oficios, la incertidumbre económica y los desafíos de la racionalización productiva. Finalmente, el derrumbe de la empresa durante el proceso de investigación pone de relieve la fragilidad de este mundo industrial y la centralidad de la acción estatal en las condiciones de posibilidad de las pequeñas y medianas empresas."
+       ],
+       "\n"
+      ],
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "Palabras clave: "
+       ],
+       "Estatalidad, Trabajo fabril, Industria del calzado, Oficios, Futuro del trabajo.\n\t\t                         "
+      ],
+      "\n\t\t\t\t\t\t\t\t ",
+      [
+       "p",
+       {
+        "lang": "en"
+       },
+       [
+        "span",
+        {},
+        "Where Is the State? Inquiries into the Future of Factory Work in Contemporary Argentina"
+       ]
+      ],
+      "\n",
+      [
+       "p",
+       {
+        "lang": "en"
+       },
+       "\n",
+       [
+        "span",
+        {},
+        "Abstract:\n\t\t\t\t\t\t                           "
+       ],
+       [
+        "span",
+        {},
+        "This article examines the relationship between factory work and statehood through a case study of Viamo, an Argentine footwear manufacturing company. Drawing on interviews with owners and workers, it reconstructs the history of the firm and explores different manifestations of the state within the factory experience, including class and gender relations, economic policies, organizational knowledge, planning practices, affective dynamics, and vocational training. The analysis shows that footwear production articulates industrial and artisanal, familial and entrepreneurial dimensions whose reproduction depends on complex state-mediated processes. It also highlights the tensions shaping the future of factory work in contemporary Argentina, marked by the decline of skilled trades, economic uncertainty, and the challenges of productive rationalization. Finally, the company’s collapse during the course of the research underscores the fragility of this industrial world and the central role of state action in sustaining the conditions of possibility for small and medium-sized enterprises."
+       ],
+       "\n"
+      ],
+      "\n",
+      [
+       "p",
+       {
+        "lang": "en"
+       },
+       "\n",
+       [
+        "span",
+        {},
+        "Keywords: "
+       ],
+       "Statehood, Factory work, Footwear industry, Skilled trades, Future of work.\n                                "
+      ],
+      "\n"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-articulo-body"
+     },
+     "\n",
+     [
+      "br",
+      {}
+     ],
+     "\n",
+     [
+      "blockquote",
+      {},
+      "\n",
+      [
+       "span",
+       {},
+       "A Rodolfo Chiodini, en agradecimiento"
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "\n",
+      [
+       "span",
+       {},
+       "Introducción"
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "¿El acceso a derechos y al bienestar a través del empleo formal fabril se percibe dislocado en el sentido común de amplios sectores de la sociedad argentina? La legibilidad de las representaciones colectivas parece cada vez más difícil, lo cual deja en claro la necesidad de las ciencias sociales de lanzarse a la investigación empírica, transitar espacios, mudar la perspectiva habitual, entrar en otra, en este caso, en la experiencia de una fábrica de calzados."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "En el trabajo fabril se proyecta un léxico que probablemente ya no conecta con la realidad, por ejemplo, ¿podemos seguir pensando en la clase obrera? El modelo fabril ha ido deshabitando la futuridad, en la medida en que, con altibajos, no deja de achicarse. El horizonte del acceso al empleo industrial no se abandona a pesar de las dificultades para sostener las condiciones de posibilidad de un modelo industrial para un país periférico del capitalismo global como la Argentina. En la última elección presidencial, el candidato peronista Sergio Massa apuntalaba su discurso de candidato a presidente con la invocación a las Pequeñas y Medianas Empresas (PYMES) como fuentes de trabajo y riqueza para lxs argentinxs. En cambio, el presidente triunfante en 2023 directamente no hablaba ni habla de modelo fabril ni de trabajadorxs. A su vez, encabeza un discurso antiestatista radical. Ni estado ni industria nacional."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "Ese año, mientras transcurrían las campañas electorales, comenzamos la investigación en la fábrica con dos estudiantes de la Maestría en Historia Conceptual (Escuela de Humanidades, Universidad Nacional de San Martín): Nicolás Ferioli, politólogo; Gala González Magnasco, Licenciada en Artes. La primera etapa consistió en entrevistas al personal en los puestos de trabajo. Prácticamente conversamos con la totalidad de lxs trabajadorxs de la planta de producción. El 27 de mayo de 2023 entramos a la fábrica para iniciar un trabajo de campo con el corazón alegre y temeroso, por el solo hecho de estar allí frente a frente con un mundo a comprender. Viamo quedaba en el barrio de Lugano de la Ciudad de Buenos Aires. Fuimos recibidos por Rodolfo Chiodini. Estábamos en una PYME de la industria del calzado. Tenía 288 empleados en ese momento. En este texto, pongo en juego en especial las entrevistas realizadas a los hermanos Alfredo y Rodolfo Chiodini, propietarios."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "El primer resultado de la investigación ",
+      [
+       "span",
+       {},
+       "in situ"
+      ],
+      " llegó en formato audiovisual: ",
+      [
+       "span",
+       {},
+       "Calzarte: a tus pies vivo"
+      ],
+      " (",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646011_ref3",
+        "id": "t-llamada-redalyc_775646011_ref3-1"
+       },
+       "2023"
+      ],
+      "). Los protagonistas del mediometraje son los trabajadorxs de la planta de producción de los distintos sectores que seleccionamos con este propósito. Ellos narran experiencias que describen la densidad histórica de un oficio artesanal tensionado por visiones del futuro del trabajo ligadas al avance tecnológico en la industria, por proyectos de vida y por avatares de las crisis económicas."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "En Calzarte buscamos dos aproximaciones a la futuridad construida en torno al trabajo. ¿Cómo ven el trabajo en relación a un proyecto de vida? ¿Se habla de carrera laboral? ¿Qué sucede con la transmisión de las profesiones? ¿Cómo es la experiencia del tiempo en la fábrica? Entre los resultados, podemos destacar la ruptura de la transmisión del oficio, dado que en general lxs zapaterxs no desean que sus hijxs continúen el oficio. Es un registro de la dislocación de las expectativas. Por otra parte, la mayoría prefería el empleo formal. Valoran tener cobertura médica y cobrar todos los meses en fecha. Las crisis económicas por supuesto golpean el sector. En el pasado, varios habían montado talleres en sus casas. La industria emplea zapaterxs que tienen las capacidades para hacer un calzado entero, otrxs saben los procesos de aparado (armado del calzado a partir de las partes)."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "El segundo producto es este artículo centrado en la historia de la fábrica y las perspectivas de la conducción empresarial. La pregunta guía es: ¿Cómo nos aproximamos al estudio del problema de la relación entre la fabricación de zapatos y el Estado? ¿Cuáles son las mediaciones en la indagación?"
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "En informática, un ",
+      [
+       "span",
+       {},
+       "proxy "
+      ],
+      "es un servidor intermediario que se coloca entre tu dispositivo e internet. Cuando solicitas ingresar a una página web, en lugar de conectarte directamente, te conectas al ",
+      [
+       "span",
+       {},
+       "proxy"
+      ],
+      " para que este realice la petición por ti. En estadística, un ",
+      [
+       "span",
+       {},
+       "proxy "
+      ],
+      "(o variable sustituta) es una variable fácilmente observable o medible que se utiliza para representar a otra variable de interés que es inobservable, costosa o imposible de medir directamente. ¿Dónde está el Estado en la experiencia fabril?"
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "Los objetivos del artículo son básicamente dos: por un lado, relevar las aproximaciones al Estado que aparecen en esta experiencia; por otro lado, comenzar a ordenar los materiales para armar la historia de la fábrica. Busco rastrear las huellas, mediaciones y efectos mediante los cuales la experiencia fabril se vincula con distintas dimensiones de estatalidad. El texto es, entonces, está organizado en las diversas aproximaciones al Estado que el material empírico presente. Así, aparece en las relaciones de clase, en las relaciones de género, las políticas económicas, las burocracias, los saberes organizacionales, la educación, los afectos."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "\n",
+      [
+       "span",
+       {},
+       "1. Hacerse igual"
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "Preludio es una pieza musical breve que se toca antes del acto principal de una obra (como una ópera o sinfonía) para preparar el ambiente o fijar el tono. En el lenguaje ordinario se aplica metafóricamente a la acción o evento que precede, prepara o introduce a un suceso principal de mayor importancia. Tomo relatos de Rodolfo para fijar el tono en el origen de la industria familiar."
+     ],
+     "\n",
+     [
+      "blockquote",
+      {},
+      "\n",
+      [
+       "span",
+       {},
+       "Mi papá comenzó a trabajar muy chico en un taller de calzado …. A eso de los 17 o 18 consigue trabajo como operario en la fábrica del hermano mayor de mi mamá. Se enamoran con mi mamá, pero la familia de mi mamá decía que era cabecita negra y lo echaron y también a mi mamá…"
+      ],
+      [
+       "a",
+       {
+        "href": "#t-fn1",
+        "id": "t-llamada-fn1-1"
+       },
+       [
+        "sup",
+        {},
+        "1"
+       ]
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "Es el primer acto de una historia con raíces y consecuencias en la acción social."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "María Rosa Parini, nacida en Canegrate, provincia de Milán, el 4 de noviembre de 1943, llegó a la Argentina en 1948. Se rebeló contra el futuro social preestablecido para ella por su familia.",
+      [
+       "span",
+       {},
+       " No aceptó el matrimonio arreglado por su familia con un italiano que ella no conocía"
+      ],
+      ". A causa del noviazgo con un obrero, perdió su trabajo en la fábrica de la familia Parini. La echó su hermano y buscó trabajo en otras fábricas. Así se hizo una trabajadora más del calzado. El obrero era Fernando Chiodini, nacido en Buenos Aires en 1939, hijo de argentinos."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "La clase social y la familia están en los orígenes de la fábrica de calzado que retratamos. María Rosa se hace igual en el amor y obrera. No cabe duda de que el amor es político."
+     ],
+     "\n",
+     [
+      "blockquote",
+      {},
+      "\n",
+      [
+       "span",
+       {},
+       " Ella consiguió trabajo en una fábrica en Ramos Mejía hasta que se casaron en 1962. Una vez casados, mi padre trabaja en varias fábricas hasta que logra abrir su taller y mi madre trabaja para él desde mi casa (oficio de aparadora).  "
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "blockquote",
+      {},
+      "\n",
+      [
+       "span",
+       {},
+       " Cuando a mi padre le comienza a ir bien, mi madre deja de trabajar y es ama de casa hasta que después de fallecido mi padre en 1995. Ella quería volver a trabajar y la pusieron de vendedora en un local que tenía la marca en la estación de ómnibus de Retiro. Ella trabajó un tiempo en Viamo como vendedora. La anécdota famosa es que en las auditorías al local solían faltar zapatos y descubrieron que ella solía regalar zapatos a los más pobres. "
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "blockquote",
+      {},
+      "\n",
+      [
+       "span",
+       {},
+       " Habrá estado unos 3 o 4 años. El tema de dejar de trabajar y ser ama de casa era un tema muy de esa época, para los hombres casados lograr que la casa se mantenga solo con aportes de ellos y que la mujer se dedique a tareas del hogar y cuidado de los chicos era muy aspiracional y símbolo de progreso."
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "La cuestión de género llega a este preludio. A pesar de haberse hecho obrera para casarse con un obrero, al hacerlo ella queda separada de su trabajo en los zapatos para dedicarse al trabajo doméstico. De alguna manera, la cuestión de clase que ella igualó en un principio se cruzó con otra desigualdad estructural."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "¿Dónde está el Estado en esta historia? En las clases sociales y la diferencia de género que lo constituyen como relación social. También en la igualdad ante la ley como posibilidad y la aspiración a hacerse igual. Pero no solo deja ver la estructura vacía del Estado sino al mismo tiempo presenta la historia específica del Estado peronista. María Rosa lo expresa invertidamente al desmarcarse de la clase propietaria y hacerse obrera para igualarse en el amor. Lo afirma como posición política."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "\n",
+      [
+       "span",
+       {},
+       "2. Familia zapatera"
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "La formación de los zapateros es frecuente que arranque en la infancia y en el ámbito de la familia o en el vecindario. Es el caso de varios trabajadores de Viamo y el de Alfredo Chiodini, el único hijo que abrazó el oficio de sus padres. ",
+      [
+       "span",
+       {}
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "Es el hijo mayor, una de las almas de la empresa Viamo, donde lo entrevisté en su lugar de trabajo: escritorio amplio, ventanas, espacio para pensar, manipular materiales, productos, reuniones. Alfredo dirige el trabajo fabril a partir de los modelos que concibe. ",
+      [
+       "span",
+       {},
+       "El zapato lo conozco todo, soy el que diseña los modelos. "
+      ],
+      "Esto lo hace estar conectado con la moda. Tiene que captar el futuro del zapato. La industria debe anticiparse por lo menos un año a la temporada. En el verano se fabrica lo que se usará el verano siguiente. La fábrica es apuesta y planificación del proceso de producción."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "¿Cómo arrancó Viamo? Alfredo responde:"
+     ],
+     "\n",
+     [
+      "blockquote",
+      {},
+      "\n",
+      [
+       "span",
+       {},
+       " En realidad, ¿cómo arrancamos a hacer zapatos? Siempre lo cuento. Somos de una familia zapatera. Mi papá y mi mamá, mis tíos, todos o con fábrica o taller de zapatos.  "
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "blockquote",
+      {},
+      "\n",
+      [
+       "span",
+       {},
+       " Me acuerdo que era muy chiquito, con mis hermanos íbamos a la primaria y mi casa era un taller de aparado, así que llegaba del colegio y mi mamá me estaba preparado los cortes para que los cemente, los trabajos más de mesa y ella hacía la máquina que es donde más le rendía. Era como algo propio de todos nosotros. Después nos íbamos a jugar a la pelota. Todos ayudábamos a mi mamá.  "
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "blockquote",
+      {},
+      "\n",
+      [
+       "span",
+       {},
+       " Mi papá era un fabricante de Luis XV, que estaba haciendo sus primeras armas. Es el zapato estileto, taco aguja. Es un zapato mucho más artesanal que el urbano que hay hoy. Mi papá era un especialista. Aprendí lo que es el oficio en la fábrica de mi papá cuando era un adolescente. Pasé por todos los lugares. Me encantaba, disfrutaba de lo que hacía.  "
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "blockquote",
+      {},
+      "\n",
+      [
+       "span",
+       {},
+       " Mi papá fue deformador, que es un oficio dentro de la línea de producción, mi mamá era aparadora. Cuando el zapato está armado, es el que pone la suela y le hace todo el proceso del acabado de la suela. En el proceso de producción está el preparado, el armado, el solado, el desformado y el empaque. Este proceso no tiene nada que ver con el proceso que hacemos ahora. Era una fabriquita de 15 a 20 empleados."
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "Me gustaría destacar dos cuestiones en el relato de Alfredo. La primera es el género en la estructuración de la familia zapatera. Aprendió a ayudar en el taller de su mamá, como todos en la casa, dice. Del padre aprendió el oficio. Ayudar y oficio. La segunda es la articulación entre el taller doméstico y la fábrica en el modo de producción."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "Según los vaivenes del comercio exterior (tasas de importación) y de la política económica (mercado interno), el taller puede convertirse en fábrica o en sentido inverso, la fábrica puede “regresar” al taller.",
+      [
+       "a",
+       {
+        "href": "#t-fn2",
+        "id": "t-llamada-fn2-1"
+       },
+       [
+        "sup",
+        {},
+        "2"
+       ]
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "¿Dónde está el Estado en esta estructuración? A nivel agregado, la industria del calzado intenta adaptarse a las oscilaciones en las condiciones de producción. Estas dependen en parte de las reglas del juego que establece el Estado."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "No debe haber relato de una familia argentina que prescinda de las fluctuaciones y crisis económicas. No solamente Alfredo se mueve entre el taller y la fábrica (madre y padre), en general, varios trabajadores de Viamo, zapateros de oficio, tuvieron anteriormente talleres en sus casas y no descartaban volver a aquella forma de la cual se valora el manejo del tiempo. En cambio, la fábrica es la disciplina del reloj. Un timbre marca el inicio de la producción, la hora del almuerzo, la hora de salida. El empleo formal en la industria lo prefieren por la regularidad del salario y por la obra social."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "Viamo integra “fasones” en el proceso de producción. Son los talleristas que hacen determinados procesos para la empresa. En general, son inmigrantes de Paraguay quienes se dedican a este rubro. No es extraño que el capitalismo combine formas de producción. El modo de producción del calzado articula y a veces fluctúa entre, como dijimos, entre el ámbito doméstico y el establecimiento fabril."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "¿Cómo Alfredo se hizo fabricante? Lo explica por sí mismo: fue de la fábrica de su padre a su pequeño taller, y de emprendedor a industrial."
+     ],
+     "\n",
+     [
+      "blockquote",
+      {},
+      "\n",
+      [
+       "span",
+       {},
+       "A fines del 80 y principios del 90 se empezaba a usar la suela de goma, que no existía hasta ese momento. Yo era muy emprendedor. Tenía 23 años, hace 35. Me acuerdo que le dije a mi papá, vamos a hacer un zapato más urbano, de chica de Facultad, con unas suelas gorditas negras y una capellada. Mi papá dijo “yo acá no lo hago”. Lo vio un cliente, le gustó muchísimo el producto. Y me dijo, Alfredo, “no podés no hacerlo”. Había un galponcito a la vuelta de la fábrica de mi papá 4x4, y bueno, empecé por ahí a hacer la primera tarea de ese zapato que me compró este cliente de Rosario, 500 pares, me mandó los cheques y pude hacer toda la vuelta. Empecé ahí como industrial, como fabricante o como un taller de calzado."
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "La última frase expresa el titubeo a la hora de diferenciar el taller de la industria. En realidad, la oscilación define a esta industria con un alto componente artesanal. Por ejemplo, los talleres se volvieron insustentables a la altura de la crisis de 2001. En la salida económica, la expansión de las PYMES de calzado al compás de la recuperación del mercado interno generó oportunidades de empleo en la industria. El Estado está en las fluctuaciones del mundo de la fabricación de calzados. Son fuertes las tormentas."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "\n",
+      [
+       "span",
+       {},
+       "3. De emprendedores e industriales",
+       [
+        "span",
+        {}
+       ]
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "Viamo surgió a partir del éxito del modelo de zapato moderno diseñado por Alfredo. Al negarse su padre a fabricarlo, motorizó el emprendimiento de Alfredo, su pequeño taller. ¿Qué pasó después?"
+     ],
+     "\n",
+     [
+      "blockquote",
+      {},
+      "\n",
+      [
+       "span",
+       {},
+       " Fuimos creciendo con mi papá que siempre nos ayudó, pero decía que estaba loco con lo que estaba haciendo. No entendía ese calzado que hoy todo el mundo usa. Así que empezamos a crecer y llegamos acá. Nos mudamos de planta varias veces. En 1988 fue mi primer par de zapatos que vendí.  "
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "blockquote",
+      {},
+      "\n",
+      [
+       "span",
+       {},
+       " Vendíamos a todas las marcas de ropa, les fabricaba a ellos. Hasta que nace la marca Viamo. El nombre nos gusta con mi hermano. Soy de familia italiana, mi mamá es italiana. Sería la composición de dos amores. Empezamos a armar tiendas, tenemos ahora 25, la venta por mayor que nunca la descuidamos, tenemos franquicias. Mi socio es mi hermano Pablo. Somos una familia de 5 hermanos: 3 varones y 3 mujeres, docentes apasionadas.  "
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "blockquote",
+      {},
+      "\n",
+      [
+       "span",
+       {},
+       " En la última etapa se incorporó Rodolfo. Yo soy el más grande. Nos ayudó a profesionalizar la empresa, a “darla vuelta”. El paso que él nos hizo dar en profesionalizar nos hizo crecer. Éramos industriales por naturaleza y fuimos abriendo la cabeza. Fueron etapas traumáticas, pero se disfrutaban. Hoy estamos en eso, en la profesionalización, con perspectivas sólidas, con buenos cimientos."
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "Esta aproximación se basa en la diferenciación de dos movimientos en la actividad de fabricación de zapatos. Por un lado, Alfredo se define como un emprendedor. Su energía se concentra en el diseño de zapatos. Para constituir la empresa industrial se asoció con su hermano Pablo, emprendedor comercial. Pero, para la transformación en industria, la sociedad emprendedora requirió lo que, en la cita, Alfredo denomina profesionalización. Rodolfo aportó su saber organizacional. Completa las tres almas familiares de Viamo. politólogo, máster en administración para el desarrollo y políticas públicas, exfuncionario técnico en ámbito estatal."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "No obstante, el alma del oficio zapatero resulta indispensable para la producción. Explicado por Alfredo:"
+     ],
+     "\n",
+     [
+      "blockquote",
+      {},
+      "\n",
+      [
+       "span",
+       {},
+       "no conozco otros oficios, pero conozco procesos productivos en otros lados. Lo que tiene el zapato es que desde el inicio del zapato hasta que va a las vidrieras son 7 u 8 meses. En el medio hay una carga de procesos, realmente tenés que tener conocimiento. Saber de qué estás hablando. Es algo muy complejo, ¡tiene tantos oficios dentro! Muy hermosos para mí. No es que nacen fábricas de zapatos permanentemente. Si vos mirás las marcas importantes, hay más de ropa, marcas de zapatos no llegás a 10, quizás 5. Es tan complejo el proceso, desde que nace la idea de un modelo."
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "¿Cómo es la división del trabajo entre los hermanos? Según Rodolfo,"
+     ],
+     "\n",
+     [
+      "blockquote",
+      {},
+      "\n",
+      [
+       "span",
+       {},
+       "a mi hermano le gusta la guita y a mi otro hermano le gustan los zapatos y a mí me gusta la organización. Se va a abrir una cuarta etapa, que creo que es la última mía, poner un gerente general que pueda cumplir mi rol. Extraño la relación con Gutiérrez, una relación profesional, aquí esto es familiar. Para conducir esta organización hay que saber de comercio. Quiero correrme a un lugar de director. Después quiero hacer un PHD, poner un restaurante o ir a estudiar afuera, no sé. Para mí mi carrera no es lineal, desde afuera puede ser divertida, pero es muy complicada. A mi, lo que me gusta es la eficiencia pública o privada. Lo disfruto. Hacer las cosas bien por el solo hecho de hacerlas bien, es mi frase en esta empresa que aprendí de Ricardo Gutiérrez."
+      ],
+      [
+       "a",
+       {
+        "href": "#t-fn3",
+        "id": "t-llamada-fn3-1"
+       },
+       [
+        "sup",
+        {},
+        "3"
+       ]
+      ],
+      [
+       "span",
+       {},
+       "Un grosso."
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "Nicolás pregunta: ¿ves un retorno?"
+     ],
+     "\n",
+     [
+      "blockquote",
+      {},
+      "\n",
+      [
+       "span",
+       {},
+       " A la política ya no. En el BP laburaba hasta las 11 de la noche, no podía ir al gimnasio. No estoy en condiciones emocionales ni profesionales para hacer política. Cuando conozco a alguien en un boliche no sé qué decir, últimamente digo que soy gerente general, justo cuando me estoy yendo. Volver a la familia, al rol de cuando era chiquito, en ningún lugar podido hacer lo que hice acá. Finalmente, con mucho dolor lo pude hacer. Es cierto que en el sector público no seguía las cosas que empezaba, acá desde el día 1 todo lo que hice tiene sentido. Me ayudó haber pasado por una PYME, ver que el diseño de política pública en Argentina es inexistente. Medidas inteligentes, esporádicas, no hay comunidad organizada, dicho en términos muy peronistas. Hoy estamos cuatro escalones más abajo que lo que Perón decía. Hay que planificar con varios dólares. No siento que me derechicé, pero cuál es el plan de Massa o de Bullrich, no tienen, Milei lo tiene y puede ser trágico.  "
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "blockquote",
+      {},
+      "\n",
+      [
+       "span",
+       {},
+       " No es tan fácil fabricar baterías, es peronista la necesidad de organización, pero si me generás caos continuo…"
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "Rodolfo nos sigue mostrando el libro de contabilidad de antes de su entrada. Se interrumpe en 2007. Y se trabó todo con el sistema informático, decían: “nos vamos a fundir”, pero de a poco empezó a funcionar."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "¿Dónde está la aproximación al Estado? La empresa está crucialmente condicionada por las políticas económicas. Las crisis marcan el paso."
+     ],
+     "\n",
+     [
+      "blockquote",
+      {},
+      "\n",
+      [
+       "span",
+       {},
+       " Es impresionante. El empresariado argentino hace un curso acelerado de economía, no es suficiente con saber hacer zapatos. Me pasó tener la fábrica tres meses cerrada después del 2001. El primer par de zapatos fue a fin de marzo. Nos manteníamos 30 empleados, nada de trabajo, nos repartíamos la poca plata que entraba. Se paralizó el país. El país es generoso, pronto se reactiva y surge demanda. Te condiciona en lo que tenés que importar. Tengo un socio en Brasil con el que trabajamos distintas cosas. Tengo gente que nos hace líneas de aparado en Brasil. Estamos llenos de impuestos, te cuesta mucho tener la empresa formalizada, tiene mucho costo. En Brasil tienen un apoyo permanente, son un país con base industrial apoyada. Nosotros no nos definimos como país. Hoy somos proteccionistas, no podemos comprar insumos y en otros años fue otras cosas.  "
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "blockquote",
+      {},
+      "\n",
+      [
+       "span",
+       {},
+       " ¿Cómo se adaptan a los cambios que no dependen de ustedes? Los analizamos. Tenemos para producir para crecer, pero después tenés que ver la coyuntura, te van cambiando las reglas del juego permanentemente. En Brasil no pesa tanto. Es tan importante como lo interno."
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "¿Cómo se imaginaba Alfredo la empresa en el futuro?"
+     ],
+     "\n",
+     [
+      "blockquote",
+      {},
+      "\n",
+      [
+       "span",
+       {},
+       "Que siga creciendo y sea un referente del sector donde estamos nosotros. Que lo sea más, tenemos un importante potencial de crecimiento y estamos en etapa de profesionalización, todos abocados a un presupuesto, con manual de procesos, y todo el valor que le vas agregando. La coyuntura país es la otra balanza, muy incierta."
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "\n",
+      [
+       "span",
+       {},
+       "4. La fábrica como problema de gobierno"
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "Rodolfo nos brindó el primer retrato de la fábrica. Nos llevó a una recorrida por los distintos sectores de una empresa que produce y comercializa calzados. Indagamos a Rodolfo por los sectores principales o tipos de trabajo. La primera división que señala es entre el trabajo intelectual y el manual. Esta concepción tanta clara de la separación nos llamó la atención."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "Como corresponde, el recorrido arrancó por el sector de planificación, donde se imprime una racionalidad basada en el cálculo de tiempos, materias, cuerpos. Nos dice que"
+     ],
+     "\n",
+     [
+      "blockquote",
+      {},
+      "\n",
+      [
+       "span",
+       {},
+       " una empresa para ser más competitiva necesita más gente en la parte de pensamiento que en la de producción; el peso de la planificación tiende a agrandarse y hoy estamos pensando en separar físicamente la planta de producción y las gerencias…  "
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "blockquote",
+      {},
+      "\n",
+      [
+       "span",
+       {},
+       " El trabajo intelectual o profesional lo hacemos con los gerentes. Acordamos la planificación: adelantarla, retrasarla. Dirección y gerencia, es un ida y vuelta. Estoy buscando ahora la figura de CEO. Viamo necesita, no soy yo, soy demasiado foucaultiano, soy de las ciencias sociales. Es muy duro tener una mirada de mercado. Si se te escapa una variable, hacés un desastre. Viamo tiene una dirección. Estoy como coordinador general de la planificación de los gerentes, de la planificación intelectual de la compañía. Luego están todos los gerentes con sus equipos de jefes. Gerencias: Comercial, Operaciones, Administrativo financiera, Sistemas, RRHH.  "
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "blockquote",
+      {},
+      "\n",
+      [
+       "span",
+       {},
+       " Este trabajo de coordinación que estoy haciendo me tiene agotado, no doy más, El directorio está trabajando con alguien que está buscando a alguien que sepa muy mucho del negocio y que pueda ser la cabeza coordinadora. Es un clásico esquema weberiano, racional absolutamente. Lo que realmente no es weberiano es hacerlo más allá del mando-obediencia: el pensamiento lateral, el equipo de trabajo, tecnologías nuevas de trabajo que la organización necesita incorporar. Pero si rascás al fondo del proceso, tenés la racionalidad de la planificación. Hoy tuvimos una reunión con la dirección para hacer evaluaciones de desempeño de las gerencias con objetivos:  "
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "blockquote",
+      {},
+      "\n",
+      [
+       "span",
+       {},
+       " 1. Cliente en el centro, que tenga un producto precio calidad lo más honesto, que el cliente se sienta orgulloso de comprar. "
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "blockquote",
+      {},
+      "\n",
+      [
+       "span",
+       {},
+       " 2. Cultura presupuestaria a corto, mediano y largo plazo. Tiene que estar todo planificado. Una empresa no puede trabajar sin esta cultura.  "
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "blockquote",
+      {},
+      "\n",
+      [
+       "span",
+       {},
+       " 3. Tener una organización que sea absolutamente mensurable en todos sus aspectos. Tengo que tener información de cada sector, ponerle un número en un mapa de comando, que cada sector pueda medir su trabajo. Tengo que tener información día a día. Información confiable. Yo habiendo trabajado en el Estado, sé que no la tenemos.  "
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "blockquote",
+      {},
+      "\n",
+      [
+       "span",
+       {},
+       " 4. A su vez, el directorio tiene objetivos más organizacionales, cómo va a ser la organización a futuro. Aparece la figura del gerente general, armar un órgano de gobierno. A esta empresa le llevó 15 años sacar el trabajo a los dueños y ponerlo en todas las personas que ustedes vieron dando vueltas. Los dueños no están acá y acá se produce. 15 años atrás, si el dueño no estaba monitoreando todo, el zapato no salía. Instancia compleja, divertida. Empiezo por primera vez a pensar en evaluar a cada quien objetivamente. Necesito para esto información confiable.  "
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "blockquote",
+      {},
+      "\n",
+      [
+       "span",
+       {},
+       " Por más que hoy hablemos de nuevas formas de trabajo, en un equipo todo es válido, creo en todo esto. Pero creo que hay un proceso de la empresa que es absolutamente weberiano, le llamo así por la racionalización, donde no podés tener equipo antes de que cada persona haga su trabajo como parte de todo un proceso. Cuando tenés eso, podés pensar en organizaciones ágiles sin cadenas de mando. En muchísimas pymes, ante tantas crisis que tiene la Argentina, se cortan esos procesos de crecimiento. Hay momentos de racionalización insoslayables y otros de creatividad.  "
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "blockquote",
+      {},
+      "\n",
+      [
+       "span",
+       {},
+       " Es insoslayable en términos de ciencia política: “reducción a la unidad”, como dice Natalio Botana. "
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "Rodolfo se aproxima a la fábrica como un politólogo. Le sirve aquella noción con la cual Botana formula el problema de la constitución de una unidad política proyectado a un escenario como el Río de la Plata en 1816. La nación era una entidad ideológica e ilusoria; reflejaba la situación de poder y conllevaba el desarrollo de un sentimiento nacional basado en la unidad (",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646011_ref1",
+        "id": "t-llamada-redalyc_775646011_ref1-1"
+       },
+       "Botana, 1985"
+      ],
+      ", p. 26). Rodolfo ve la empresa como el Estado. La racionalización se desplaza a la constitución de unidad política. De esta manera, aparece el Estado con diferentes facetas. En la organización, hay algo más que burocracias privadas o públicas. Lo político parece que se cuela por la ventana del discurso organizacional."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "Rodolfo nos explica la diferencia entre lo actual y las etapas anteriores de la empresa."
+     ],
+     "\n",
+     [
+      "blockquote",
+      {},
+      "\n",
+      [
+       "span",
+       {},
+       " Me encontré un garaje, gente que se escapaba por los techos cuando venía la AFIP para controlar quién trabajaba en negro o blanco. Todos tomaban decisiones, los dueños tomaban mates con los empleados, se quedaban hasta las 10 de la noche. Si quieren crecer, así no se puede trabajar. Pensé que se armaba en 4 años. Vi que era lo de Botana, “reducción a la unidad” tengo que armar. Van 15 años y recién llego al gerente general. Es algo que me emociona y me pone la piel de gallina. Lo sé en carne propia, lo sufro por Argentina. Te lleva tanto tiempo ser eficiente, acumular capital para crecer que, si cada 3 años te cambian la película no se puede avanzar. Lo sé por la experiencia de Viamo, que se extiende a la sociedad civil.  "
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "blockquote",
+      {},
+      "\n",
+      [
+       "span",
+       {},
+       " Como politólogo me animé a hacerlo, pero Ricardo Gutiérrez me enseñó a trabajar. No me cabe duda. Tuve un jefe, mi ídolo, me enseño el pensamiento disruptivo, a trabajar por objetivos, a barrer fronteras público-privado, me enseñó a redactar, cuando hago un pedido tengo que tener claro qué pido, cuando voy a una reunión tengo que tener estructurado. Si no hubiese tenido esa experiencia laboral, no hubiera venido acá porque no hubiera sabido qué hacer. Y por otro lado no pude volver al sector público, lo que a mí más gustaba, entendí que está eclosionado, qué bronca me da no haber vuelto al sector público. No hay un sector público que esté pensando en una organización como esta, pero si no lo hacemos, cómo vamos a generar trabajo. Yo lo pude hacer por la experiencia de 5 años. Trabajé en INAP, el Ministerio de Educación (SPU, 1997), me gané una beca para ir a Inglaterra a estudiar políticas públicas. Volví en 1999, participé de la campaña electoral de Duhalde, conocí a Gutiérrez. Perdimos las elecciones, pero ganó Ruckauf en provincia de Buenos Aires y lo convocó a Gutiérrez al Banco Provincia.  "
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "blockquote",
+      {},
+      "\n",
+      [
+       "span",
+       {},
+       " Tuve que renunciar a mi cargo. Después trabajé en consultoría, yo soy burócrata, me encantaba ser funcionario, no sé si porque había leído mucha literatura rusa. Nos echaron porque Lavagna se peleó con Solá, pero hicimos el Patacón 1 y 2, todo eso. En el 2005 me fui, después trabajé en el gobierno de la ciudad con Jorge Telerman, experiencia lindísima con gente de la calle, pero con impacto cero. Me acuerdo que llegué a la reunión, había recorrido los dormideros, había estudiado las políticas públicas, entrevistado gente. Se me ocurrió una cosa divertida: una filmina decía: no hacer nada nuevo y hacer lo que no se termina de hacer. Duré literalmente dos segundos.  "
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "blockquote",
+      {},
+      "\n",
+      [
+       "span",
+       {},
+       " No sé por qué, porque fui disruptivo. Querían estar en campaña, la reunión terminó con la idea de pintar las ambulancias de color naranja o no. Hay que ponerse a trabajar en lo que hay, lo había aprendido de Gutiérrez; el Banco Provincia era un desastre. Después por x motivo me metí acá. Mi viejo ya no vivía, con dos hermanos mío. Los fui a ver y veo una escalera y gente que salía por el techo y ellos me explicaron que era por la AFIP… eran trabajadores en negro y yo venía con esas experiencias en el Estado… evaluación de desempeño en SINAPA. Si me hubieran dado licencia sin goce de sueldo cuando me fui, al Banco Provincia hubiera vuelto, no hubiera venido acá. Como no tenía esa posibilidad, vi ese semejante quilombo que dice, tanto que me gusta, por qué no lo hago acá. Al principio terminé en crisis emocional, terapia. Fue una primera etapa durísima, personalmente terminé muy mal. Son tres etapas, en la segunda me recompuse y la pandemia me salvó la vida. Puso en valor lo que yo había hecho. En la base de todo lo más importante es que están mis hermanos que son los emprendedores que quieren ir por más."
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "La aproximación al Estado aparece entrelazada en la experiencia de Rodolfo. El Estado circula en la fábrica. Es una corriente de saberes y prácticas. Rodolfo teje la interfase, para lo cual transfiere esquema de pensamiento acción (",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646011_ref2",
+        "id": "t-llamada-redalyc_775646011_ref2-1"
+       },
+       "Bourdieu, 2007"
+      ],
+      ", p. 86). Tocamos otra aproximación al Estado en la experiencia fabril. Corporizado en Rodolfo, trabaja un ",
+      [
+       "span",
+       {},
+       "habitus. "
+      ],
+      "Es un esquema que entrelaza industria y Estado."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "Causa asombro la condensación en Rodolfo de la afinidad estructural weberiana entre la empresa y el Estado. Me lleva a Weber al pie de la letra. Busco sus mejores páginas sobre el asunto."
+     ],
+     "\n",
+     [
+      "blockquote",
+      {},
+      "El número de empleados privados aumenta estadísticamente más deprisa que el de los obreros, y es totalmente ridículo que nuestros intelectuales piensen que el trabajo mental en una oficina privada se diferencia lo más mínimo del realizado en una oficina estatal."
+     ],
+     "\n",
+     [
+      "blockquote",
+      {},
+      "En lo esencial, ambas actividades son, más bien, absolutamente homólogas. Considerado desde las ciencias sociales, tan ‘empresa’ es el Estado moderno como una fábrica: eso es, en verdad, lo históricamente específico suyo. Y también la estructura de poder en el seno tanto de la una como de la otra forma de empresa se acomoda a idéntico patrón. La relativa independencia que otrora tuvieron el artesano o el productor casero, el agricultor autónomo, el encomendero, el guerrero feudal y sus vasallos, se basaba en que cada uno de ellos era dueño de las herramientas, de los materiales, de los recursos económicos o de las armas de que se servía para desempeñar su función económica, política o militar, y de los que vivía durante el tiempo que a ello se dedicaba (",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646011_ref7",
+        "id": "t-llamada-redalyc_775646011_ref7-1"
+       },
+       "Weber, 1991"
+      ],
+      ", pp. 127-128)."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "La unidad del “trabajo mental” en la empresa y el Estado se expresa en las metas de Rodolfo: construir una herramienta autónoma, un aparato lo más impersonal posible de toma de decisiones y de capilaridad con el trabajo manual insoslayable para fabricar zapatos. Sus metas apuntan a desarrollar una estructura de poder autónoma: gerentes, jefes, etc. Sin esta organización no se puede crecer, es decir, producir más, vender más, ganar más. ¿Van juntas las tres dimensiones?"
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "\n",
+      [
+       "span",
+       {},
+       "5. Planificar "
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "El primer día en la fábrica, como ha sido dicho más en el punto anterior, Rodolfo nos condujo primero al sector Planificación. Rodolfo no tiene la menor duda al presentar la división principal del trabajo en la empresa: ",
+      [
+       "span",
+       {},
+       "trabajo intelectual, trabajo manual."
+      ],
+      " Nos explicó que allí"
+     ],
+     "\n",
+     [
+      "blockquote",
+      {},
+      "\n",
+      [
+       "span",
+       {},
+       " planifican la fabricación a partir de un presupuesto de ventas (los pedidos que van entrando). Planifican la necesidad de materiales, cuándo tienen que comprar los insumos para que estén acá en tiempo y forma, y luego planifican por día, qué producen cada día.  "
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "blockquote",
+      {},
+      "\n",
+      [
+       "span",
+       {},
+       " ¿Cómo es producir zapatos? Es un proceso de planificación como de orquesta sinfónica. El proceso creativo, los materiales, el prototipo, planificación de la cantidad del producto, planificación de venta."
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "La planificación cuadricula la materia, los cuerpos, los somete al tiempo y al movimiento regular. Es muy claro, sin planificación no hay industria, dada la necesidad de anticipación que tiene especialmente el sector. ",
+      [
+       "span",
+       {},
+       "Es una empresa que tiene que producir antes de que la demanda aparezca, lo cual implica un proceso "
+      ],
+      "de ",
+      [
+       "span",
+       {},
+       "racionalización porque tenés que intuir lo que el mercado va a pedir. Hacer una propuesta al mercado."
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "¿Qué significa “intuir lo que el mercado va a pedir”? Tomar riesgos para poner en marcha un proceso de producción de durará un año. El horizonte de previsibilidad, como ha analizado profundamente Max Weber, sella la alianza entre el capitalismo y el Estado modernos. El mercado y el derecho son caras de la moneda. Es una alianza entre el afán de lucro y la estabilidad de las reglas. En cambio, el capitalismo aventurero no hace dicha alianza. El riesgo natural de la industria de la moda se multiplica por la imprevisibilidad de las reglas de la economía en Argentina. Para Rodolfo, ",
+      [
+       "span",
+       {},
+       "no tener previsibilidad de las variables económicas es caótico"
+      ],
+      ". ",
+      [
+       "span",
+       {},
+       "La angustia permanente. Hay una persona permanentemente ocupada del seguimiento de los costos y todos los meses cambia. "
+      ],
+      "¿Cómo se construye un modo de producción fabril a prueba de las alteraciones de la regulación y la desregulación del comercio exterior y las fluctuaciones del mercado interno?"
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "Rodolfo nos cuenta que la gerenta de Operaciones es la primera que contratan sin saber de zapatos. Para Alfredo y Pablo (sus hermanos) una persona que no conoce de zapatos no es buena, hasta que se entiende que el trabajo de ella es pararse arriba y garantizar que todo esté bien organizado. Es clave su experiencia en organización de procesos productivos."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "Le pregunto a ella ¿cuánto tuviste que aprender de zapatos?"
+     ],
+     "\n",
+     [
+      "blockquote",
+      {},
+      "\n",
+      [
+       "span",
+       {},
+       " Es un oficio tan complejo y tan artesanal que es difícil de aprender. Ese es el desafío: llevar lo artesanal a un proceso productivo. Ahora estamos buscando la estandarización del proceso productivo que es lo más importante. Qué bueno que se preocupen por estas historias familiares tan interesantes en este Argentina y que no hay tantas."
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "Hubo un acuerdo entre los hermanos: la necesidad de la racionalización de la organización del proceso de producción como herramienta para producir más y ganar más dinero. Sin embargo, el análisis del modo de producción no se agota a la organización racional en el sentido de clásico de la burocracia weberiana."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "Con respecto a la industria textil, Verónica Gago (",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646011_ref4",
+        "id": "t-llamada-redalyc_775646011_ref4-1"
+       },
+       "2014"
+      ],
+      ") investiga la feria La Salada. Analiza los talleres textiles vinculados tanto con las industrias de indumentaria líderes en el mercado mundial como con la feria La Salada. Sigue los circuitos de las comunidades bolivianas. La feria organiza una fuerza laboral migrante en una organización heterogénea, pues subsume formas no racionalizadas de producción. Llega un punto en que la afinidad estructural burocrática pierde, justamente, en el origen del acople entre el capitalismo y el Estado modernos. ¿Dónde está el Estado hoy bajo esta aproximación teórica y empírica? El hilo parece perderse en conversiones y metamorfosis organizacionales. La reversión de la industria a taller y viceversa ya la vimos como patrón en la industrialización del calzado en la Argentina."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "\n",
+      [
+       "span",
+       {},
+       "6. Economía afectiva"
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "Los sentimientos familiares impregnan la experiencia de Viamo. Solo esto daría cuenta de la relevancia de la vida afectiva en la empresa, pero otros afectos ganan centralidad en el lenguaje de los hermanos."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "Al final del recorrido por la planta de producción llegamos al sector de almacenamiento, stock y transporte. Rodolfo nos dijo que quiere ",
+      [
+       "span",
+       {},
+       "que desaparezca todo eso."
+      ],
+      " No se ven zapatos sino cajas de zapatos ordenadas en estanterías gigantes. Los trabajadores son varones y usan escaleras para ubicar los modelos."
+     ],
+     "\n",
+     [
+      "blockquote",
+      {},
+      "\n",
+      [
+       "span",
+       {},
+       " Mi proyecto es el siguiente. Se pone una identificación a cada zapato, a medida que va avanzando el proceso se llena de información. Se sabe con una pistola donde está cada pieza. Es el IFID, viene de la tecnología americana. Identifica las partes del zapato. El chip que lleva adentro el zapato. Es un proceso de renovación, hay que invertir en tecnología. La UNTREF tiene una carrera de logística, si la gente no se prepara…  "
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "blockquote",
+      {},
+      "\n",
+      [
+       "span",
+       {},
+       " Hoy el tema central de mi preocupación es que no sé qué tenemos adentro. Me duele el pecho al pasar por acá. Genera mucho laburo, mucha información. Me di cuenta de que este no es mi negocio, no voy a llegar nunca a ser eficiente. Hay empresas que se dedican a logística."
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "Se respira la alienación en el trabajo del sector, donde se pierde el atractivo y el colorido de los zapatos. Todos son una caja igual."
+     ],
+     "\n",
+     [
+      "blockquote",
+      {},
+      "\n",
+      [
+       "span",
+       {},
+       " La pandemia aceleró esto. Una chica se compra una bota y la quiere mañana. Puede ser la guillotina para mí, pero tengo que hacerlo. Yo manejo el depósito, el transporte es tercerizado. Tengo que ordenar todo antes. Llegar a stock único. No me importa donde esté el producto, se lo puede mover. Toda tecnificación en un país donde hay problema con el dólar (Cristina desde 2012, para que ustedes entiendan), se siente mucho odio y desolación. Vos estás laburando y no sabés el precio del dólar, si te van a aprobar la importación, si lo que planificaste está. Se vive una situación de angustia absoluta.  "
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "blockquote",
+      {},
+      "\n",
+      [
+       "span",
+       {},
+       " Hay economías donde hay una sincronización entre las políticas públicas y el sistema de producción. Estamos hablando dentro del capitalismo, Europa, EE.UU., los países centrales. El único problema que tienen es que la robotización va dejando sin empleo, o sea, vos tenés que tener un sistema educativo que prepara a las nuevas generaciones para otro trabajo. Es muy difícil. Quiero tres máquinas, son 10 personas menos.  "
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "blockquote",
+      {},
+      "\n",
+      [
+       "span",
+       {},
+       " Vamos al extremo. Viene Milei y te abre la importación de zapatos. Un par de botas en vez de 40000 pesos te sale 120000, acá se quedan sin trabajo. Tenés quilombo social, no es tan fácil decir boludeces."
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "La angustia, el odio y la desolación de Rodolfo es por la privación de la eficiencia, pero también por la pérdida de empleo por desempleo tecnológico y por cambios en la política económica."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "Otro sentimiento circula en la fábrica anexado a la idea de que el oficio zapatero se está perdiendo entre las generaciones. Da el tono a las historias dichas y escuchadas: un presente afectado de anacronismo. Expresa la estructura de una industria con alto componente artesanal. Se sienten las reminiscencias de dos modelos de trabajo: el artesano y obrero, con sonoridad de ",
+      [
+       "span",
+       {},
+       "réquiem. "
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "¿Por qué los afectos serían una aproximación al Estado? Por una parte, la “angustia absoluta” surge frente al espejo de un ideal organizativo que se entrecruza con las aproximaciones weberianas. Por otra parte, surge la roca de la fabricación de zapatos: el oficio zapatero. ¿Sobrevivirá a la tecnología? ¿Sigue siendo elegible? La mirada se desplaza a lo educativo."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "\n",
+      [
+       "span",
+       {},
+       "7. El oficio te hace bien"
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "Cabe destacar que los zapateros en general no desean que sus hijos sigan el oficio. Prefieren que sus hijos vayan a la universidad, tengan una profesión, aprendan por ejemplo informática."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "¿Dónde se aprende el oficio? La educación es otra aproximación al lugar del Estado. Pues, la educación formal brilla por su ausencia de los zapateros. Conversé con Alfredo sobre el futuro del oficio. Chequeaba la expresión tan escuchada en la fábrica: la pérdida del oficio."
+     ],
+     "\n",
+     [
+      "blockquote",
+      {},
+      "\n",
+      [
+       "span",
+       {},
+       " Tenemos un problema que es algo más de la sociedad o del mundo que estamos viviendo. Armar un taller de aparado cuesta mucho con el dólar como está. El oficio estaba muy fuerte con paraguayos, pero cuando cambió el mercado se fueron.  "
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "blockquote",
+      {},
+      "\n",
+      [
+       "span",
+       {},
+       " Es algo de este momento de la cultura. Me imagino que pasa en otros gremios también. Traemos aprendices y los desarrollamos acá. En un 90 % empiezan de abajo, nos falta más de escuelita. Está buenísimo tener un oficio para la vida, para ellos. Y falta el que venga con oficio, no hay aparadores hechos. Dentro del proceso de crecimiento, estoy convencido de armar una escuelita. Estamos en el inicio, cuesta transferir el conocimiento. Estamos armando un manual de procesos para que cada uno aprenda por qué hace eso y cómo le tiene que llegar al de al lado.  "
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "blockquote",
+      {},
+      "\n",
+      [
+       "span",
+       {},
+       " Es un debate social. Vos escuchás que los sueldos están tan depreciados, cuando hablan de todo eso, se tiene que valorizar la profesión. Creo que es coyuntural y tiene que cambiar. Los zapateros se van a valorar mucho, va a costar mucho encontrar. Pero hoy es el tango “Cambalache”, todos mezclados.  "
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "blockquote",
+      {},
+      "\n",
+      [
+       "span",
+       {},
+       " El oficio te hace bien. Todos toman decisiones. Te mantiene activo. Es lo artesanal, todo tenés que resolver sobre la marcha. Ponés un cuero sobre la mesa y tenés que estar pensando cuando cortas, puede tener garrapatas, etc.  "
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "blockquote",
+      {},
+      "\n",
+      [
+       "span",
+       {},
+       " Siento que nos falta el oficio, vienen chicos que hacen las cosas sin saber lo que está haciendo, trabajan sistemáticamente. Se pierde el oficio, hoy no quieren lo que hacen. Brasil tiene una cultura distinta en las fábricas, están más rígidas en el control de calidad, están más organizadas. Ellos dicen lo mismo que se pierden los oficios de trabajo manual, artesanal. Vengo de Brasil y charlamos de esto."
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "¿Por qué se pierden los oficios, si hacen falta, si hay trabajo? ",
+      [
+       "span",
+       {},
+       "A la gente joven le interesan más otras cosas. La cultura va a otro lado. "
+      ],
+      "La respuesta no es solo por el cálculo económico."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "¿Dónde estaría el Estado con respecto a la formación para el trabajo manual? ¿En vías de extinción en la era robótica? ¿Estará a la hora de pensar el impacto de las transformaciones del trabajo fabril? Deberá pensar en el futuro de las sociedades."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "\n",
+      [
+       "span",
+       {},
+       "Epílogo"
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "Investigar el trabajo fabril hoy puede ir a contrapelo de la atracción que ejercen nuevas formas como el trabajo cognitivo. En el caso estudio, se producen zapatos. La materialidad terrestre es insoslayable. Vincent Van Gogh los pintó como símbolos de la durabilidad de la existencia: zapatos que registran el recorrido del tiempo, el esfuerzo de la existencia. Un Viamo puede acompañarnos en las pisadas de años. Son arte la fortaleza y la comodidad de zapato. Según las opiniones relevadas en la fábrica, el zapato artesanal puede superar en calidad a los fabricados en procesos automatizados. En cualquier caso, no perdamos de vista el resultado. Pero también perdamos de vista el proceso de producción, donde al mismo tiempo se produce el ser humano. ¿Qué nos enseña de nosotros mismos el proceso de producir cosas concretas? (",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646011_ref6",
+        "id": "t-llamada-redalyc_775646011_ref6-1"
+       },
+       "Sennett, 2021"
+      ],
+      ", p. 19). La cultura material está en el placer del trabajo. El trabajo manual conlleva un tipo de pensamiento a través de conexiones entre la cabeza y la mano, que resuelve problemas sin planificar y sin matemática. La fabricación de calzado es corporalidad, microcosmos, mundo social."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "Aparece muy bien en el documental un mundo social de saberes, organización, apuestas subjetivas y sociabilidad que era la fábrica. El material empírico excede la racionalización burocrática. Aparecen la producción artesanal, la familia, los afectos, la informalidad, el taller, la migración paraguaya, entre otras cuestiones. Las aproximaciones a la estatalidad surgidas en la experiencia analizada incitaron la puesta en juego de teoría: Sennett sobre el oficio, Bourdieu sobre el ",
+      [
+       "span",
+       {},
+       "habitus "
+      ],
+      "y Gago sobre heterogeneidad estructural."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "El mundo sólido que veíamos en 2023 (me incluyo en las percepciones registradas por parte de empresarios, directivos y trabajadores) se derrumbó con el cambio drástico de la orientación del Estado desde 2024. Esto grafica la intensidad del Estado en el destino de las PYMES en relación con la aproximación más transitada por la sociología espontánea en círculos periodísticos. El artículo aporta una legibilidad de la fragilidad de un mundo industrial cuya existencia depende de una compleja articulación entre oficio, familia, organización empresarial y acción estatal."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "Los cimientos se pulverizaron en el aire con la política arancelaria y el achicamiento del mercado interno en el gobierno del presidente Javier Milei. La fábrica observada durante el trabajo de campo realizado entre 2023 y 2024 ya no existe en las condiciones entonces registradas. Viamo está con un procedimiento de quiebra."
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-back"
+     },
+     "\n",
+     [
+      "p",
+      {},
+      "\n",
+      [
+       "span",
+       {},
+       "Referencias bibliográficas"
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "id": "t-redalyc_775646011_ref1"
+      },
+      "Botana, N. (1985). ",
+      [
+       "span",
+       {},
+       "El orden conservador."
+      ],
+      " Hyspamérica."
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "id": "t-redalyc_775646011_ref2"
+      },
+      "Bourdieu, P. (2007). ",
+      [
+       "span",
+       {},
+       "El sentido práctico."
+      ],
+      " Siglo XXI."
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "id": "t-redalyc_775646011_ref3"
+      },
+      "Calzarte: a tus pies vivo (2023). Documental. ",
+      [
+       "a",
+       {
+        "href": "https://www.youtube.com/watch?v=1sfOoJBxwH0"
+       },
+       "https://www.youtube.com/watch?v=1sfOoJBxwH0"
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "id": "t-redalyc_775646011_ref4"
+      },
+      "Gago, V. (2014). ",
+      [
+       "span",
+       {},
+       "Razón neoliberal. Economías barrocas y pragmática popular."
+      ],
+      " Tinta limón."
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "id": "t-redalyc_775646011_ref5"
+      },
+      "Kabat, M. (2005) ",
+      [
+       "span",
+       {},
+       "Del taller a la fábrica. Proceso de trabajo, industria y clase obrera en la rama del calzado (Buenos Aires 1870-1940)."
+      ],
+      " Ediciones ryr."
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "id": "t-redalyc_775646011_ref6"
+      },
+      "Sennett, R. (2021). ",
+      [
+       "span",
+       {},
+       "El artesano. "
+      ],
+      "Anagrama."
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "id": "t-redalyc_775646011_ref7"
+      },
+      "Weber, W. ([1917] 1991). “Parlamento y gobierno en una Alemania reorganizada”. En ",
+      [
+       "span",
+       {},
+       "Escritos políticos "
+      ],
+      "(pp. 101-300)",
+      [
+       "span",
+       {},
+       ". "
+      ],
+      "Alianza."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "Notas"
+     ],
+     "\n",
+     [
+      "span",
+      {
+       "id": "t-fn1"
+      },
+      "\n",
+      [
+       "span",
+       {},
+       "1"
+      ],
+      " El lenguaje de las entrevistas las indico en cursivas tanto en las citas textuales (este ejemplo) como las enunciaciones integradas en mi prosa."
+     ],
+     "\n",
+     [
+      "span",
+      {
+       "id": "t-fn2"
+      },
+      "\n",
+      [
+       "span",
+       {},
+       "2"
+      ],
+      " Para un análisis la historia de la industria del calzado en Argentina, véase Marina Kabat (",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646011_ref5",
+        "id": "t-llamada-redalyc_775646011_ref5-1"
+       },
+       "2005"
+      ],
+      ")."
+     ],
+     "\n",
+     [
+      "span",
+      {
+       "id": "t-fn3"
+      },
+      "\n",
+      [
+       "span",
+       {},
+       "3"
+      ],
+      " Secretario de Hacienda de la Nación entre 1991 y 1996, presidente del Banco de la Provincia de Buenos Aires entre 1999 y 2003."
+     ],
+     "\n",
+     "\n",
+     [
+      "p",
+      {},
+      "\n",
+      [
+       "span",
+       {},
+       "Recepción: "
+      ],
+      " 02 mayo  2026"
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "\n",
+      [
+       "span",
+       {},
+       "Aprobación: "
+      ],
+      " 01 junio  2026"
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "\n",
+      [
+       "span",
+       {},
+       "Publicación: "
+      ],
+      " 01 agosto  2026"
+     ],
+     "\n",
+     [
+      "br",
+      {}
+     ],
+     "\n",
+     [
+      "br",
+      {}
+     ],
+     "\n",
+     "\n",
+     [
+      "a",
+      {
+       "href": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      " ",
+      [
+       "figura",
+       {
+        "alt": "Imagen"
+       }
+      ],
+      " Obra bajo Licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional"
+     ],
+     "\n",
+     [
+      "figura",
+      {
+       "alt": "Imagen"
+      }
+     ],
+     "\n",
+     "\n",
+     "\n",
+     [
+      "span",
+      {
+       "id": "t-logo-derecha"
+      },
+      "\n",
+      [
+       "a",
+       {
+        "href": "https://www.fahce.unlp.edu.ar/facultad/secretarias-y-prosecretarias/prosecretaria-de-gestion-editorial-y-difusion/ediciones-de-la-fahce"
+       },
+       " \n",
+       [
+        "figura",
+        {
+         "alt": "ediciones_fahce"
+        }
+       ],
+       "\n"
+      ],
+      "\n"
+     ],
+     "\n\n",
+     [
+      "span",
+      {
+       "id": "t-creditos"
+      },
+      "\n",
+      [
+       "span",
+       {},
+       [
+        "figura",
+        {}
+       ],
+       [
+        "sup",
+        {},
+        "Ediciones de la FaHCE utiliza"
+       ],
+       [
+        "a",
+        {
+         "href": "http://portal.amelica.org/ameli"
+        },
+        [
+         "figura",
+         {}
+        ]
+       ],
+       " ",
+       [
+        "figura",
+        {}
+       ]
+      ],
+      [
+       "br",
+       {}
+      ],
+      "\n",
+      "\n"
+     ],
+     "\n"
+    ]
+   ]
+  ]
+ ]
+}

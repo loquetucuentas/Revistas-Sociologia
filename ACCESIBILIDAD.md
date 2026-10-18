@@ -170,3 +170,79 @@ En esta tabla, «Auto» significa que lo cubre una comprobación automática, «
 4. Comprobar con VoiceOver que la lectura de los índices largos, de hasta 37 artículos, sigue siendo cómoda con el rotor de encabezados.
 5. Escuchar las etiquetas de número poco habituales que vienen de Crossref, como «núm. sp26» o «Publicación continua», y decidir si se entienden.
 6. Revisar en data/informe-no-resueltas.md las 9 revistas pendientes y la revista Cultura-Hombre-Sociedad, que se muestra con números de 2021 porque Crossref no tiene otros más recientes y su web no se pudo consultar.
+
+## 5. Versión de prueba en un solo archivo (dist/revistas-prueba.html)
+
+Generada el 18 de octubre de 2026 con herramientas/empaquetar.py para revisar la aplicación con VoiceOver sin publicarla. Contiene las 41 revistas con todos sus números, artículos y resúmenes, y los 133 textos completos, sin recortes. Ocupa 6,37 MB porque los textos completos van comprimidos con gzip dentro del archivo (sin comprimir ocupaba 11,53 MB); cada texto se descomprime solo al abrirlo, con el propio navegador y sin peticiones externas.
+
+### 5.1. Comprobado
+
+1. El archivo no contiene ninguna referencia a recursos externos: ni scripts, ni hojas de estilo, ni fuentes, ni imágenes. El único icono va incrustado. El script de empaquetado lo comprueba cada vez y falla si encuentra alguna, y hay pruebas unitarias que confirman que el comprobador las detecta.
+2. Una política de seguridad de contenido incluida en el archivo bloquea cualquier petición a internet o a otros archivos.
+3. Al recorrer las tres vistas con el archivo abierto directamente, el navegador no hace ninguna petición fuera de él ni registra avisos de esa política (pruebas/paquete.spec.js).
+4. Se mantienen las rutas con almohadilla y el botón atrás, el foco en el h1 al cambiar de vista, el cambio de título, los anuncios de la región activa, los estados vacíos y de página no encontrada, y el estado de error con el botón Reintentar.
+5. Los enlaces a las webs de las revistas y los artículos siguen funcionando, se abren en una pestaña nueva y lo dicen en su texto visible.
+6. Con datos reales no aparece el aviso de datos de prueba; con datos de prueba sí. El pie indica la fecha y hora de generación de los datos y del archivo.
+7. Al preparar estas pruebas se encontró y corrigió un fallo: si un archivo de datos llegaba con un formato incorrecto, Reintentar reutilizaba la copia dañada. Ahora Reintentar vacía la memoria de datos antes de volver a cargar.
+8. Variante para el artefacto privado de Claude (dist/revistas-artefacto.html): es la misma página sin las etiquetas de documento, porque el visor de Claude pone las suyas. Ese visor no declara idioma, así que un script al principio pone lang="es" en la raíz. Las pruebas imitan el esqueleto del visor y comprueban el idioma, las rutas, el foco, los anuncios y axe.
+9. Los colores siguen tanto la preferencia del sistema como el tema que elija el visor de Claude (atributo data-theme), en las dos combinaciones cruzadas.
+10. Resultado de axe sobre el archivo en GitHub Actions (flujo Pruebas, ejecución 39106535115, commit 36dc2db): pasan las 147 pruebas, con 0 errores de axe en el archivo único con datos reales (listado, ficha y último número de las 41 revistas), con datos de prueba (estados vacíos, no encontrado, búsqueda sin resultados y error) y en la variante para el visor de artefactos, en tema claro y oscuro. Las pruebas de la versión con servidor siguen pasando y Lighthouse sigue dando 100.
+
+### 5.2. Diferencias con la versión definitiva
+
+1. El estado de carga sigue en el código, pero en esta versión no llega a verse: los datos están dentro del archivo y aparecen al instante. Para revisarlo con VoiceOver hay que usar la versión con servidor.
+2. El error de conexión no puede producirse, porque no hay conexión. El estado de error solo aparece si los datos del archivo estuvieran dañados.
+3. Los datos son una foto fija del momento en que se generó el archivo: no se actualizan cada semana. Para tener datos nuevos hay que volver a generar el archivo.
+4. El archivo completo, de unos 3 MB, se carga de una vez. En un iPhone antiguo la primera apertura puede tardar uno o dos segundos más que la versión con servidor.
+5. Si se abre como artefacto privado en claude.ai, la aplicación se muestra dentro de la página de Claude. Al empezar, el foco de VoiceOver puede quedar en los controles de Claude y no en el enlace de salto. Es una diferencia del visor, no de la aplicación.
+6. Para leer los textos completos hace falta un navegador que sepa descomprimir: Safari 16.4 o posterior en iPhone y Mac, o una versión reciente de Chrome, Edge o Firefox. En un navegador más antiguo, la lectura muestra un mensaje que explica qué hacer y ofrece salir al índice; el resto de la aplicación funciona igual.
+7. El tamaño de texto elegido puede no recordarse entre visitas si el navegador o el visor no permiten el almacenamiento local del archivo. La aplicación sigue funcionando sin él.
+
+### 5.3. Pendiente de revisión manual con VoiceOver en esta versión
+
+1. Comprobar en el iPhone que, tras abrir el archivo, el gesto de deslizar empieza por el enlace de salto y recorre la cabecera, las migas, el contenido y el pie.
+2. Repetir en esta versión las pruebas de la sección 3.2, sobre todo que el foco vaya al h1 nuevo tras tocar dos veces un enlace de revista o de número.
+3. Comprobar que al volver de un enlace externo a la pestaña del archivo se conserva la vista y el foco.
+4. Abrir varios textos completos largos en el iPhone y comprobar que la descompresión no produce una espera molesta ni un anuncio confuso.
+
+## 6. Vista de lectura del texto completo
+
+Estado a 18 de octubre de 2026: la vista de lectura está probada con un artículo ficticio de pruebas/datos y con los 133 textos reales recogidos (118 de galeradas HTML y 15 de XML JATS), de 9 revistas. El detalle de incluidos y excluidos está en data/informe-texto-completo.md.
+
+### 6.1. Comprobado de forma automática (pruebas/lectura.spec.js)
+
+1. En el índice del número, cada artículo dice con texto si se puede leer en la aplicación («Lectura completa disponible en esta aplicación») o no («Texto completo solo en la web de la revista»). El enlace «Leer el artículo completo» incluye el título en texto oculto.
+2. Al entrar en la lectura hay un único h1, el título del artículo, que recibe el foco; cambian el título del documento y las migas, y se anuncian las secciones, la licencia y las figuras sin descripción.
+3. Antes del texto aparecen la autoría, la revista, el DOI, la licencia con su nombre completo y el enlace a su texto legal, la cita completa en estilo APA 7, la nota de que solo se han modificado el formato y la presentación, los avisos de derechos del original y el enlace «Ver y citar en la web de la revista». Al final se repiten la cita, el botón «Copiar la cita» y ese enlace.
+4. La tabla de contenidos y los enlaces a notas y referencias mueven el foco sin cambiar de vista, y cada nota tiene un enlace «Volver al texto».
+5. Las figuras no muestran la imagen: muestran la descripción de la revista o, si falta, un aviso visible, siempre con enlace al original. Las tablas conservan su leyenda y sus cabeceras, y las anchas se desplazan dentro de un marco que se puede recorrer con el teclado.
+6. Los párrafos en otro idioma llevan su atributo lang.
+7. El botón «Copiar la cita» copia la cita exacta y lo anuncia; si el navegador no deja copiar, selecciona la cita y explica cómo copiarla.
+8. Al volver con el botón atrás, el índice recupera su posición, el foco va al enlace del artículo leído y se anuncia «Has vuelto al índice del número, en el artículo que estabas leyendo». Es una excepción razonada a la regla de llevar el foco al h1, aprobada por el responsable del proyecto.
+9. El tema de colores (automático, claro, oscuro y alto contraste) se elige en la cabecera, se anuncia y se recuerda. El alto contraste es blanco sobre negro, con enlaces amarillos (19,6 a 1) y foco cian.
+10. Sin scroll horizontal a 320 y a 1280 píxeles con el texto al 200 por ciento; la línea de lectura no pasa de unos 75 caracteres y el interlineado es de 1,75.
+11. axe en la vista de lectura con el tema automático claro y oscuro, a 320 píxeles, con el texto al 200 por ciento y con los temas claro, oscuro y alto contraste elegidos en la aplicación; también en el índice con cada tema y en la página de un artículo sin texto completo.
+12. En el archivo único, la lectura funciona sin ninguna petición externa.
+13. Con los datos reales, cada texto completo que se recoja se abrirá en las pruebas para comprobar el h1, la licencia, el idioma, la ausencia de imágenes y scripts, el reflujo y axe (pruebas/datos-reales.spec.js).
+
+Resultado de axe en GitHub Actions (flujo Pruebas, ejecución 39117520310, commit 32f9cb8): pasan las 170 pruebas, con 0 errores de axe en todas las vistas, incluida la de lectura. La ejecución anterior encontró dos problemas que se corrigieron: las notas se pintaban como regiones complementarias (aside) dentro de otra región, y a 320 píxeles con el texto al 200 por ciento la indicación «Lectura completa disponible» y la última miga provocaban scroll horizontal con la fuente DejaVu Sans. Ahora hay una prueba de reflujo con esa fuente.
+
+### 6.2. Comprobado con los textos reales
+
+1. Cada uno de los 133 textos se abre en las pruebas: un único h1 con el título, la licencia en la atribución, el atributo lang del texto según su idioma (111 en español, 14 en inglés, 7 en portugués y 1 en francés), ninguna imagen, script ni marco, y sin scroll horizontal a 320 píxeles.
+2. El recolector comprobó que el texto convertido es idéntico al original en todos ellos; 23 artículos se excluyeron por no superar esa comprobación o por contener fórmulas u otros elementos que no se pueden reproducir con fidelidad.
+3. Los textos tienen 665 figuras, de las que 480 no traen descripción de la revista: todas muestran el aviso visible y el enlace al original.
+4. axe sin errores en los 133 textos, tras corregir lo que encontró con los textos reales: llamadas a nota y enlaces de vuelta menores de 24 por 24 píxeles (ahora tienen ese tamaño mínimo), celdas de cabecera vacías en la esquina de algunas tablas (ahora se muestran como celdas normales), y enlaces dentro de otros enlaces, que aparecían cuando una nota enlazaba de vuelta a la llamada o cuando una figura del original estaba dentro de un enlace (ahora el interior se muestra como texto). Ninguna corrección cambia el texto del artículo. Hay pruebas que lo comprueban en cada texto real.
+5. 76 textos no tienen encabezados en el original (son documentos de procesador de texto exportados con párrafos en negrita), así que no tienen tabla de contenidos. No se han inventado encabezados para no modificar el texto.
+
+### 6.3. Pendiente de revisión manual con VoiceOver
+
+1. Recorrer con el rotor los encabezados de un artículo largo y comprobar que la jerarquía se entiende.
+2. Activar una llamada a nota, escuchar la nota y volver con «Volver al texto» en Mac y en iPhone; confirmar que VoiceOver sigue el foco.
+3. Escuchar el bloque de atribución y la cita, y probar «Copiar la cita» en Safari para iPhone, donde el portapapeles puede pedir permiso.
+4. Comprobar que el aviso de figura sin descripción se entiende sin ver la pantalla.
+5. Recorrer una tabla ancha con los gestos de tabla de VoiceOver.
+6. Volver con el botón atrás desde la lectura en iPhone y confirmar que el foco queda en el enlace del artículo leído.
+7. Revisar con los textos reales que el cambio de voz en párrafos en otro idioma es correcto, sobre todo en los 14 textos en inglés y los 7 en portugués.
+8. Recorrer alguno de los 76 textos sin encabezados para valorar si se puede leer cómodamente sin tabla de contenidos.
+9. Escuchar varias figuras sin descripción para comprobar que el aviso no resulta repetitivo en los textos con muchas figuras.

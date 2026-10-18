@@ -1,0 +1,2846 @@
+// Copia de textos/10-24215-23468904e217.json para abrir la aplicación sin servidor.
+(window.DATOS_REVISTAS = window.DATOS_REVISTAS || {})["textos/10-24215-23468904e217.json"] = {
+ "version": 1,
+ "recogido": "2026-10-18T11:30:56+00:00",
+ "doi": "10.24215/23468904e217",
+ "titulo": "Dominio espacial y relaciones extractivas en la ciudad popular: despojo, mercantilización y violencia",
+ "revista": "2346-8904",
+ "numero": "n34-2026",
+ "licencia": {
+  "codigo": "by-nc-sa",
+  "nombre": "CC BY-NC-SA 4.0",
+  "nombre_completo": "Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional",
+  "url": "https://creativecommons.org/licenses/by-nc-sa/4.0",
+  "url_legal": "https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.es"
+ },
+ "fuente": {
+  "url": "https://www.cuestionessociologia.fahce.unlp.edu.ar/article/download/CSe217/22728?inline=1",
+  "formato": "HTML",
+  "plataforma": "ojs-galerada",
+  "pagina": "https://www.cuestionessociologia.fahce.unlp.edu.ar/article/view/CSe217"
+ },
+ "autores_cita": [
+  {
+   "apellidos": "Moctezuma Mendoza",
+   "nombre_pila": "Vicente",
+   "nombre": null
+  }
+ ],
+ "avisos_derechos": [
+  "Derechos de autor 2026 ",
+  "Esta obra está bajo una licencia internacional Creative Commons Atribución-NoComercial-CompartirIgual 4.0. La cesión de derechos no exclusivos implica también la autorización por parte de los autores para que el trabajo sea alojado en los repositorios institucionales UNLP (Sedici y Memoria Académica) y difundido a través de las bases de datos que los editores consideren apropiadas para su indización, con miras a incrementar la visibilidad de la revista y sus autores."
+ ],
+ "idioma_principal": "es",
+ "indice": [],
+ "vueltas": {
+  "t-redalyc_775646004_ref9": "t-llamada-redalyc_775646004_ref9-1",
+  "t-redalyc_775646004_ref37": "t-llamada-redalyc_775646004_ref37-1",
+  "t-redalyc_775646004_ref21": "t-llamada-redalyc_775646004_ref21-1",
+  "t-redalyc_775646004_ref52": "t-llamada-redalyc_775646004_ref52-1",
+  "t-redalyc_775646004_ref59": "t-llamada-redalyc_775646004_ref59-1",
+  "t-redalyc_775646004_ref23": "t-llamada-redalyc_775646004_ref23-1",
+  "t-redalyc_775646004_ref6": "t-llamada-redalyc_775646004_ref6-1",
+  "t-redalyc_775646004_ref48": "t-llamada-redalyc_775646004_ref48-1",
+  "t-redalyc_775646004_ref44": "t-llamada-redalyc_775646004_ref44-1",
+  "t-redalyc_775646004_ref36": "t-llamada-redalyc_775646004_ref36-1",
+  "t-redalyc_775646004_ref66": "t-llamada-redalyc_775646004_ref66-1",
+  "t-redalyc_775646004_ref32": "t-llamada-redalyc_775646004_ref32-1",
+  "t-redalyc_775646004_ref30": "t-llamada-redalyc_775646004_ref30-1",
+  "t-redalyc_775646004_ref38": "t-llamada-redalyc_775646004_ref38-1",
+  "t-redalyc_775646004_ref12": "t-llamada-redalyc_775646004_ref12-1",
+  "t-redalyc_775646004_ref17": "t-llamada-redalyc_775646004_ref17-1",
+  "t-redalyc_775646004_ref41": "t-llamada-redalyc_775646004_ref41-1",
+  "t-redalyc_775646004_ref19": "t-llamada-redalyc_775646004_ref19-1",
+  "t-redalyc_775646004_ref42": "t-llamada-redalyc_775646004_ref42-1",
+  "t-redalyc_775646004_ref62": "t-llamada-redalyc_775646004_ref62-1",
+  "t-redalyc_775646004_ref8": "t-llamada-redalyc_775646004_ref8-1",
+  "t-redalyc_775646004_ref45": "t-llamada-redalyc_775646004_ref45-1",
+  "t-redalyc_775646004_ref24": "t-llamada-redalyc_775646004_ref24-1",
+  "t-redalyc_775646004_ref51": "t-llamada-redalyc_775646004_ref51-1",
+  "t-redalyc_775646004_ref57": "t-llamada-redalyc_775646004_ref57-1",
+  "t-fn1": "t-llamada-fn1-1",
+  "t-redalyc_775646004_ref49": "t-llamada-redalyc_775646004_ref49-1",
+  "t-redalyc_775646004_ref47": "t-llamada-redalyc_775646004_ref47-1",
+  "t-redalyc_775646004_ref5": "t-llamada-redalyc_775646004_ref5-1",
+  "t-redalyc_775646004_ref46": "t-llamada-redalyc_775646004_ref46-1",
+  "t-redalyc_775646004_ref16": "t-llamada-redalyc_775646004_ref16-1",
+  "t-redalyc_775646004_ref20": "t-llamada-redalyc_775646004_ref20-1",
+  "t-redalyc_775646004_ref15": "t-llamada-redalyc_775646004_ref15-1",
+  "t-redalyc_775646004_ref31": "t-llamada-redalyc_775646004_ref31-1",
+  "t-redalyc_775646004_ref14": "t-llamada-redalyc_775646004_ref14-1",
+  "t-redalyc_775646004_ref1": "t-llamada-redalyc_775646004_ref1-1",
+  "t-redalyc_775646004_ref11": "t-llamada-redalyc_775646004_ref11-1",
+  "t-redalyc_775646004_ref3": "t-llamada-redalyc_775646004_ref3-1",
+  "t-redalyc_775646004_ref67": "t-llamada-redalyc_775646004_ref67-1",
+  "t-redalyc_775646004_ref13": "t-llamada-redalyc_775646004_ref13-1",
+  "t-redalyc_775646004_ref64": "t-llamada-redalyc_775646004_ref64-1",
+  "t-redalyc_775646004_ref55": "t-llamada-redalyc_775646004_ref55-1",
+  "t-redalyc_775646004_ref22": "t-llamada-redalyc_775646004_ref22-1",
+  "t-redalyc_775646004_ref54": "t-llamada-redalyc_775646004_ref54-1",
+  "t-redalyc_775646004_ref58": "t-llamada-redalyc_775646004_ref58-1",
+  "t-redalyc_775646004_ref26": "t-llamada-redalyc_775646004_ref26-1",
+  "t-redalyc_775646004_ref27": "t-llamada-redalyc_775646004_ref27-1",
+  "t-redalyc_775646004_ref28": "t-llamada-redalyc_775646004_ref28-1",
+  "t-redalyc_775646004_ref29": "t-llamada-redalyc_775646004_ref29-1",
+  "t-redalyc_775646004_ref39": "t-llamada-redalyc_775646004_ref39-1",
+  "t-redalyc_775646004_ref43": "t-llamada-redalyc_775646004_ref43-1",
+  "t-redalyc_775646004_ref68": "t-llamada-redalyc_775646004_ref68-1",
+  "t-redalyc_775646004_ref34": "t-llamada-redalyc_775646004_ref34-1",
+  "t-redalyc_775646004_ref10": "t-llamada-redalyc_775646004_ref10-1",
+  "t-redalyc_775646004_ref2": "t-llamada-redalyc_775646004_ref2-1",
+  "t-redalyc_775646004_ref61": "t-llamada-redalyc_775646004_ref61-1",
+  "t-redalyc_775646004_ref63": "t-llamada-redalyc_775646004_ref63-1",
+  "t-redalyc_775646004_ref7": "t-llamada-redalyc_775646004_ref7-1",
+  "t-redalyc_775646004_ref18": "t-llamada-redalyc_775646004_ref18-1",
+  "t-redalyc_775646004_ref35": "t-llamada-redalyc_775646004_ref35-1",
+  "t-redalyc_775646004_ref60": "t-llamada-redalyc_775646004_ref60-1",
+  "t-redalyc_775646004_ref40": "t-llamada-redalyc_775646004_ref40-1",
+  "t-redalyc_775646004_ref50": "t-llamada-redalyc_775646004_ref50-1",
+  "t-redalyc_775646004_ref4": "t-llamada-redalyc_775646004_ref4-1",
+  "t-redalyc_775646004_ref56": "t-llamada-redalyc_775646004_ref56-1",
+  "t-redalyc_775646004_ref25": "t-llamada-redalyc_775646004_ref25-1",
+  "t-redalyc_775646004_ref53": "t-llamada-redalyc_775646004_ref53-1",
+  "t-redalyc_775646004_ref33": "t-llamada-redalyc_775646004_ref33-1"
+ },
+ "contenido": [
+  "\n",
+  [
+   "span",
+   {
+    "id": "t-visor-cabecera"
+   },
+   "\n",
+   "\n",
+   [
+    "span",
+    {},
+    "\n",
+    [
+     "a",
+     {
+      "href": "https://www.cuestionessociologia.fahce.unlp.edu.ar/"
+     },
+     "\n",
+     [
+      "figura",
+      {
+       "alt": "CS"
+      }
+     ],
+     "\nCuestiones de Sociología"
+    ],
+    ", núm. 34, e217, agosto 2026 - enero 2027. ISSN 2346-8904",
+    [
+     "br",
+     {}
+    ],
+    "Universidad Nacional de La Plata",
+    [
+     "br",
+     {}
+    ],
+    "Facultad de Humanidades y Ciencias de la Educación",
+    [
+     "br",
+     {}
+    ],
+    "Departamento de Sociología"
+   ],
+   "\n",
+   "\n"
+  ],
+  "\n",
+  [
+   "span",
+   {
+    "id": "t-articulo"
+   },
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-front"
+    },
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-articulo-categoria"
+     },
+     "\n",
+     [
+      "p",
+      {},
+      "Artículos"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-articulo-meta"
+     },
+     "\n",
+     [
+      "p",
+      {},
+      "\n",
+      [
+       "span",
+       {},
+       "Dominio espacial y relaciones extractivas en la ciudad popular: despojo, mercantilización y violencia"
+      ],
+      "\n"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-articulo-acerca"
+     },
+     "\n",
+     [
+      "span",
+      {
+       "id": "t-ficha-general"
+      },
+      "\n",
+      [
+       "span",
+       {
+        "id": "t-autores-articulo"
+       },
+       "\n",
+       "\n",
+       "\n",
+       [
+        "a",
+        {
+         "href": "https://orcid.org/0000-0003-4461-3899"
+        },
+        [
+         "figura",
+         {}
+        ]
+       ],
+       "  ",
+       [
+        "span",
+        {},
+        "Vicente"
+       ],
+       " ",
+       [
+        "span",
+        {},
+        "Moctezuma Mendoza"
+       ],
+       " ",
+       [
+        "span",
+        {}
+       ],
+       "\n",
+       "\n",
+       [
+        "br",
+        {}
+       ],
+       "\n",
+       "\n",
+       [
+        "span",
+        {},
+        "Instituto de Investigaciones Sociales, Universidad Nacional Autónoma de México"
+       ],
+       ", ",
+       [
+        "span",
+        {},
+        "México"
+       ],
+       "\n",
+       "\n",
+       [
+        "span",
+        {},
+        " viamoctezuma@sociales.unam.mx"
+       ],
+       "\n",
+       "\n"
+      ],
+      "\n\n\n\n",
+      [
+       "span",
+       {},
+       "Cita recomendada:"
+      ],
+      "\n",
+      [
+       "span",
+       {},
+       "Moctezuma Mendoza, V. (2026). Dominio espacial y relaciones extractivas en la ciudad popular: despojo, mercantilización y violencia. ",
+       [
+        "i",
+        {},
+        "Cuestiones de Sociología"
+       ],
+       ", (34), e217. ",
+       [
+        "a",
+        {
+         "href": "https://doi.org/10.24215/23468904e217"
+        },
+        "https://doi.org/10.24215/23468904e217"
+       ]
+      ],
+      "\n\n\n\n\n\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "Resumen:\n\t\t\t\t\t\t\t                           "
+       ],
+       [
+        "span",
+        {},
+        "Con base en investigaciones etnográficas en el oriente del Centro Histórico de la Ciudad de México, una zona marcada por la segregación socioespacial de sectores populares, analizo la expansión de lógicas de acumulación vinculadas al despojo y la extracción económica en la espacialidad popular, en diálogo con debates sobre neoliberalismo urbano y acumulación capitalista. A partir de tres ámbitos: el espacio público y el comercio callejero; las plazas comerciales de propiedad condominal y la vivienda en condiciones irregulares de propiedad. Examino cómo, por medios violentos, distintos actores inscritos en la configuración de los sectores populares fundan un dominio espacial que les permite despojar, privatizar y acaparar recursos que constituyen medios de vida y fuentes de ingreso, subordinando su acceso a relaciones extractivas de carácter rentista. Muestro que, si bien se trata de procesos de mercantilización, este concepto no basta para dar cuenta de las relaciones de poder y expoliación que se establecen; que estas relaciones se sostienen en condiciones de precariedad; y que estos órdenes, aunque están fuera de la ley, no suponen ausencia de estado, sino formas en que sus márgenes se configuran."
+       ],
+       "\n"
+      ],
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "Palabras clave: "
+       ],
+       "Despojo, Extracción, Rentismo, Sectores populares, Neoliberalismo.\n\t\t                         "
+      ],
+      "\n\t\t\t\t\t\t\t\t ",
+      [
+       "p",
+       {
+        "lang": "en"
+       },
+       [
+        "span",
+        {},
+        "Spatial domination and extractive relations in the popular city: dispossession, commodification and violence"
+       ]
+      ],
+      "\n",
+      [
+       "p",
+       {
+        "lang": "en"
+       },
+       "\n",
+       [
+        "span",
+        {},
+        "Abstract:\n\t\t\t\t\t\t                           "
+       ],
+       [
+        "span",
+        {},
+        "Based on ethnographic research in the eastern area of Mexico City’s Historic Center, a zone marked by the segregation of popular sectors, I analyze the expansion of logics of accumulation linked to dispossession and extraction within popular spatiality, in dialogue with debates on urban neoliberalism and capitalist accumulation. Drawing on three spatial domains:public space and street vending, condominium-owned commercial plazas, and housing under irregular property conditions. I examine how, through violent means, different actors within the configuration of popular sectors establish forms of spatial domination that allow them to dispossess, privatize, and monopolize resources that constitute means of livelihood and sources of income, subordinating access to them to rentier extractive relations. I show that, although these are processes of commodification, this concept is insufficient to account for the relations of power and expropriation that are established; that these relations are sustained by conditions of precariousness; and that these orders, although outside the law, do not imply an absence of the state, but rather forms through which its margins are configured."
+       ],
+       "\n"
+      ],
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "Keywords: "
+       ],
+       "Dispossession, Extraction, Rent-seeking, Popular sectors, Neoliberalism.\n                                "
+      ],
+      "\n"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-articulo-body"
+     },
+     "\n",
+     [
+      "p",
+      {},
+      "\n",
+      [
+       "span",
+       {},
+       " Introducción"
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "En las últimas décadas, en el marco de procesos de reconfiguración neoliberal, la producción del espacio ha ocupado un lugar central en la acumulación de capital y se ha orientado crecientemente por la primacía de la ganancia y la valorización. En ese contexto, las transformaciones urbanas contemporáneas han estado profundamente atravesadas por dinámicas de privatización, cercamiento y mercantilización, activamente facilitadas e impulsadas por el estado (",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646004_ref9",
+        "id": "t-llamada-redalyc_775646004_ref9-1"
+       },
+       "Brenner y Theodore, 2002"
+      ],
+      "; ",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646004_ref37",
+        "id": "t-llamada-redalyc_775646004_ref37-1"
+       },
+       "Harvey, 2007"
+      ],
+      "; ",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646004_ref21",
+        "id": "t-llamada-redalyc_775646004_ref21-1"
+       },
+       "De Mattos, 2007"
+      ],
+      "). Entre éstas, destacan la incorporación de suelos no urbanizados a procesos de especulación inmobiliaria; el desarrollo de megaproyectos e infraestructura pública orientados a la valorización del espacio (Streule, 2022; ",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646004_ref52",
+        "id": "t-llamada-redalyc_775646004_ref52-1"
+       },
+       "Negrete et al., 2024"
+      ],
+      "); la financiarización de la producción inmobiliaria (",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646004_ref59",
+        "id": "t-llamada-redalyc_775646004_ref59-1"
+       },
+       "Rolnik, Guerreiro y Marín-Toro, 2021"
+      ],
+      "; ",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646004_ref23",
+        "id": "t-llamada-redalyc_775646004_ref23-1"
+       },
+       "Delgadillo, 2021"
+      ],
+      "); las regulaciones y dispositivos de securitización del espacio público (",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646004_ref6",
+        "id": "t-llamada-redalyc_775646004_ref6-1"
+       },
+       "Becker y Müller, 2012"
+      ],
+      "); así como los procesos de gentrificación y turistificación (",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646004_ref48",
+        "id": "t-llamada-redalyc_775646004_ref48-1"
+       },
+       "Moctezuma, 2021"
+      ],
+      ")."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "Estas transformaciones han tendido a profundizar las desigualdades urbanas y la segregación socioespacial. En gran medida, entrañan procesos de lo que Harvey, a partir de su lectura de Rosa Luxemburgo, ha denominado “acumulación por desposesión”: una reformulación de la noción marxiana de “acumulación originaria” o “primitiva” (",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646004_ref44",
+        "id": "t-llamada-redalyc_775646004_ref44-1"
+       },
+       "Marx, 1974"
+      ],
+      ") con la que busca dar cuenta de una amplia gama contemporánea de mecanismos de acumulación que exceden la explotación del trabajo vivo en la producción (",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646004_ref36",
+        "id": "t-llamada-redalyc_775646004_ref36-1"
+       },
+       "Harvey, 2004"
+      ],
+      "). Es decir, este concepto permite mostrar las formas en que los procesos de acumulación vinculados al desarrollo urbano capitalista contemporáneo descansan sobre mecanismos de desposesión, entre ellos la mercantilización de suelos de conservación, de dominio público y de propiedad comunal o ejidal; el acaparamiento de reservas territoriales por parte del capital inmobiliario sobre espacios potencialmente apropiables para la urbanización popular; el alquiler como forma crecientemente dominante de acceso a la vivienda; el crédito y la deuda como mecanismos de acceso a la vivienda propia; la captura de rentas diferenciales derivadas de la apropiación de bienes producidos social y colectivamente, como la centralidad, la accesibilidad o el patrimonio; la subordinación de la inversión pública a estrategias de rentabilidad inmobiliaria; la desarticulación de formas populares de apropiación, gestión y reproducción de la vida urbana; la restricción o expulsión de usos populares del espacio público; y la exclusión o el desplazamiento de formas de habitar, así como de usos y consumos populares, asociados al encarecimiento del suelo, entre otras dimensiones."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "En años recientes, en América Latina, el concepto de “extractivismo urbano” se ha utilizado de forma emergente para dar cuenta de procesos como los mencionados (",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646004_ref66",
+        "id": "t-llamada-redalyc_775646004_ref66-1"
+       },
+       "Svampa y Viale, 2014"
+      ],
+      "). Existen convergencias significativas entre el debate sobre extractivismo y el de acumulación por desposesión (",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646004_ref32",
+        "id": "t-llamada-redalyc_775646004_ref32-1"
+       },
+       "Grigera y Álvarez, 2013"
+      ],
+      "). Para los fines de este texto, sin embargo, me interesa retomar la noción ampliada de “extracción” propuesta por Gago y Mezzadra (",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646004_ref30",
+        "id": "t-llamada-redalyc_775646004_ref30-1"
+       },
+       "2015"
+      ],
+      "), entendiendo, como señalan estos autores, que extracción y extractivismo no son sinónimos. Estos autores argumentan por una noción de extracción que no se restrinja a “materias primas” e “inertes”, para incorporar la extracción de valor de los trabajadores (si bien con exterioridad al proceso inmediato de producción de plusvalor), como sucede, por ejemplo, a través de la deuda y los mecanismos financieros, por lo que tampoco tendría que confinarse al espacio “rural”. Si bien la acumulación por desposesión abarca también la captura de rentas como una de sus dimensiones (",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646004_ref38",
+        "id": "t-llamada-redalyc_775646004_ref38-1"
+       },
+       "Harvey, 2014"
+      ],
+      ": 136), considero que este concepto subraya sobre todo el despojo y la transformación, la expansión de procesos de privatización y mercantilización y la separación de los productores y las poblaciones de los medios sociales de vida y de producción. La extracción, en cambio, remite de manera más directa a las lógicas y relaciones de captación de riqueza que se organizan a partir de esos procesos de despojo y las condiciones de desposesión que establecen."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "En este artículo me interesa exponer y analizar procesos de acumulación por desposesión y de constitución de relaciones extractivas que atraviesan a sectores populares de la Ciudad de México. No obstante, los procesos que aquí examino no se desarrollan en los espacios selectivos de la ciudad que caracterizan al urbanismo neoliberal ni en las geografías del “extractivismo urbano” (",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646004_ref66",
+        "id": "t-llamada-redalyc_775646004_ref66-2"
+       },
+       "Svampa y Viale, 2014"
+      ],
+      "), es decir, aquellas asociadas a grandes inversiones y concesiones públicas, facilidades estatales para la valorización del capital, intereses corporativos y del gran capital, y amplias transformaciones territoriales y socioespaciales que suelen entrañar desplazamiento y exclusión de sectores populares. Mi atención se dirige, en cambio, a espacios de segregación que conforman la ciudad popular, donde se concentran sectores de menores ingresos."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "Analizo las formas en que, dentro de la espacialidad popular y entre los actores que constituyen ese campo heterogéneo y complejo, es decir, entre actores subalternos que comparten posiciones en la estructura social (lo que no anula asimetrías y relaciones de poder internas), se expanden también procesos de despojo, privatización, acaparamiento y explotación comercial de bienes que constituyen recursos centrales para la reproducción social y el trabajo, estableciendo relaciones extractivas. No obstante, no sobra enfatizar que las escalas territoriales en las que ocurren estos procesos son más bien acotadas, vinculadas a relaciones más inmediatas y, a menudo, cara a cara. De igual forma, no suponen la misma concentración y magnitud de ganancias, tanto por la escala de las operaciones, como por el contexto de escasez y precariedad en el que tienen lugar."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "Pese a esto último, considero que estos procesos son relevantes de estudiar por al menos dos razones. En primer lugar, porque no son excepcionales, sino que representan transformaciones extendidas geográficamente. En años recientes, diversas investigaciones han mostrado la dispersión de procesos de privatización y de lógicas mercantiles de acceso a medios de vida en ámbitos de la espacialidad popular en ciudades latinoamericanas, como el propio suelo (",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646004_ref12",
+        "id": "t-llamada-redalyc_775646004_ref12-1"
+       },
+       "Corantin, 2024"
+      ],
+      "; ",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646004_ref17",
+        "id": "t-llamada-redalyc_775646004_ref17-1"
+       },
+       "Dammert-Guardia, Torres, Aiquipa, 2025"
+      ],
+      "). Estos procesos se dan en gran parte, en los contextos de violencia y criminalidad que han caracterizado a América Latina (",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646004_ref41",
+        "id": "t-llamada-redalyc_775646004_ref41-1"
+       },
+       "Koonings y Kruijt, 2007"
+      ],
+      "; ",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646004_ref19",
+        "id": "t-llamada-redalyc_775646004_ref19-1"
+       },
+       "Davis, 2006"
+      ],
+      ") y México en las últimas décadas (",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646004_ref42",
+        "id": "t-llamada-redalyc_775646004_ref42-1"
+       },
+       "Lomnitz, 2022"
+      ],
+      "), vinculada a la emergencia de grupos armados no estatales y el crecimiento del crimen organizado, así como al despliegue de economías extorsivas, vinculadas a la “venta de protección” o al “cobro de piso”. (Alvarado, 2016; ",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646004_ref62",
+        "id": "t-llamada-redalyc_775646004_ref62-1"
+       },
+       "Santa Cruz, 2016"
+      ],
+      "; ",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646004_ref8",
+        "id": "t-llamada-redalyc_775646004_ref8-1"
+       },
+       "Berber; 2017"
+      ],
+      "; ",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646004_ref45",
+        "id": "t-llamada-redalyc_775646004_ref45-1"
+       },
+       "Mendoza, 2018"
+      ],
+      ";",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646004_ref24",
+        "id": "t-llamada-redalyc_775646004_ref24-1"
+       },
+       " Díaz, 2019a"
+      ],
+      "; ",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646004_ref51",
+        "id": "t-llamada-redalyc_775646004_ref51-1"
+       },
+       "Moncada, 2019"
+      ],
+      "). En segundo lugar, porque se trata de procesos ligados a la precariedad y escasez estructural que viven los sectores populares, al mismo tiempo que precarizan y aumentan su vulnerabilidad, profundizando sus condiciones de desventaja y constriñendo sus repertorios de acción."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "En un sistema con características predatorias como el capitalismo (",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646004_ref57",
+        "id": "t-llamada-redalyc_775646004_ref57-1"
+       },
+       "Polanyi, 1992"
+      ],
+      "), la violencia no aparece únicamente en los procesos de acumulación originaria, aunque su brutalidad y magnitud llevaron a Marx (",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646004_ref44",
+        "id": "t-llamada-redalyc_775646004_ref44-2"
+       },
+       "1974"
+      ],
+      ") a afirmar que “el capital viene al mundo chorreando sangre y lodo por todos los poros, desde los pies hasta la cabeza”. Tanto la reproducción de las relaciones de explotación propias de la acumulación ampliada, como las reconfiguraciones asociadas a la acumulación por desposesión y el establecimiento de economías extractivas tienen en la violencia policial-estatal, ya sea como amenaza o como ejercicio represivo directo, un soporte fundamental, más allá de las formas de legitimidad y consentimiento. Pero a ello se suman, para los sectores populares, la criminalización constante y el hostigamiento policial (legal e ilegal), así como, y sobre ello se profundizará aquí, la amenaza de una violencia fuera de la ley que ha escalado en magnitud y, en ocasiones, también en medios y fines. Se trata de una violencia ejercida por individuos o grupos que, a través de ella, establecen un poder territorial",
+      [
+       "sup",
+       {},
+       [
+        "a",
+        {
+         "href": "#t-fn1",
+         "id": "t-llamada-fn1-1"
+        },
+        "1"
+       ]
+      ],
+      " propio, es decir, fundan un dominio espacial que les permite controlar y, en distintos casos, también mercantilizar coercitivamente el acceso al espacio y el ejercicio de ciertas prácticas y usos, en tanto estos constituyen recursos necesarios para los sectores populares (",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646004_ref49",
+        "id": "t-llamada-redalyc_775646004_ref49-1"
+       },
+       "Moctezuma, 2023"
+      ],
+      "; ",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646004_ref12",
+        "id": "t-llamada-redalyc_775646004_ref12-2"
+       },
+       "Corantin, 2024"
+      ],
+      ")."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "Este estudio se sitúa en el oriente del Centro Histórico de la Ciudad de México, lejos de los frentes de la gentrificación, y de donde se concentran las oficinas gubernamentales, los museos, los proyectos de renovación urbana, las actividades turísticas y el desarrollo inmobiliario orientado a sectores medios y medios altos. El oriente constituye una centralidad densamente popular, en la que, históricamente, sectores populares han encontrado recursos para la sobrevivencia y la mejora de las condiciones de vida (",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646004_ref47",
+        "id": "t-llamada-redalyc_775646004_ref47-1"
+       },
+       "Moctezuma, 2016)"
+      ],
+      ". A sus innumerables mercados, tiendas y puestos de comercio popular en la vía pública, extendidos por calles y plazas públicas (y nutridos en parte por la persecución y exclusión del comercio en el poniente), confluyen diariamente cientos de miles de trayectorias metropolitanas que se abastecen, a bajos costos y precios de mayoreo, de herramientas, materias primas y mercancías indispensables tanto para sus actividades laborales como para su reproducción social. Por otra parte, se trata también de un espacio de habitación popular marcado por condiciones de gran precariedad y por amplios déficits en la habitabilidad. Muchos edificios que se han encontrado en condiciones de fuerte deterioro, o que fueron abandonados por sus propietarios por distintas razones, han sido ocupados. En numerosos casos, estos inmuebles, así como otros a los que se ha accedido mediante el inquilinato, se encuentran en condiciones irregulares respecto de la propiedad. Finalmente, es importante señalar que, si bien la zona ha estado históricamente estigmatizada y asociada a distintas actividades delictivas, en años recientes la magnitud de la violencia y las características de los delitos han cambiado, en parte en relación con la emergencia de grupos del crimen organizado (Alvarado, 2016)."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "Los materiales empíricos en los que me apoyo provienen de investigaciones etnográficas realizadas en la zona desde 2014. A lo largo de éstas, he explorado diversas disputas y conflictos en torno a la posesión, los usos y los significados del espacio: plazas públicas, calles y banquetas, mercados, plazas comerciales, viviendas y espacios comunes, así como las relaciones de poder que los configuran. Mi investigación se ha desarrollado en interlocución con habitantes y trabajadores del lugar pertenecientes a los sectores populares. Con algunos de ellos he construido relaciones cercanas, sostenidas en encuentros y comunicación constante, que también me proporcionan información."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "En este artículo me interesa mostrar cómo, en la espacialidad popular, se expanden lógicas de acumulación vinculadas al despojo y la extracción que precarizan las condiciones de vida de los sectores populares urbanos, compartiendo características con procesos más amplios del neoliberalismo urbano. A partir del análisis de tres ámbitos espaciales, el espacio público, las plazas comerciales de propiedad condominal y la vivienda ocupada, examino cómo, por medios violentos, distintos actores sociales fundan un dominio espacial que les permite despojar, privatizar y acaparar recursos espaciales que constituyen medios de vida y fuentes de ingreso para los sectores populares, subordinando su acceso al pago monetario y dando lugar a relaciones extractivas de carácter rentista. Posteriormente, profundizo en la relación entre estos procesos con la mercantilización, las condiciones de exclusión y privación estructural de los sectores populares y el estado. Señalo que, si bien estos procesos de transformación de valores de uso en valores de cambio pueden entenderse en parte como mercantilización, este concepto es insuficiente por sí mismo para dar cuenta de las relaciones de poder y expoliación que se establecen; que estas relaciones se sostienen en parte por las condiciones de precariedad y escasez de recursos de los sectores populares; y que estos órdenes de dominación si bien están afuera de la ley no suponen la ausencia de estado, si no las formas en las que el estado se constituye en sus márgenes. Sin embargo, también destaco que pese a la violencia, el despojo y la expoliación, y también, en parte, precisamente por ello, en el lugar se despliegan relaciones no orientadas por la avaricia y el egoísmo, sino fundadas en los afectos, la solidaridad, reciprocidad y el cuidado, que construyen formas de lo común frente a la adversidad ordinaria compartida, como ante las problemáticas que enfrenta el espacio."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "\n",
+      [
+       "span",
+       {},
+       "Ámbitos espaciales de desposesión y constitución de relaciones extractivas"
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "\n",
+      [
+       "span",
+       {},
+       [
+        "span",
+        {},
+        "Caso 1. Venta del espacio público: comercio callejero"
+       ]
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "El comercio callejero en el Centro Histórico de la Ciudad de México tiene una larga trayectoria histórica (",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646004_ref5",
+        "id": "t-llamada-redalyc_775646004_ref5-1"
+       },
+       "Barbosa, 2008"
+      ],
+      "; ",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646004_ref46",
+        "id": "t-llamada-redalyc_775646004_ref46-1"
+       },
+       "Meneses, 2011"
+      ],
+      "; ",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646004_ref16",
+        "id": "t-llamada-redalyc_775646004_ref16-1"
+       },
+       "Crossa, 2018"
+      ],
+      "). De manera especialmente marcada a partir de los intensos procesos de migración rural-urbana que impulsaron el acelerado crecimiento demográfico de la ciudad, así como en contextos de pobreza, precariedad urbana y crisis económicas recurrentes, el comercio popular de calle en este espacio (la principal centralidad metropolitana hasta la década de 1980 y, posteriormente, una de las más importantes junto con la Central de Abasto) ha sido fundamental para el acceso a ingresos de miles de familias de sectores populares (",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646004_ref48",
+        "id": "t-llamada-redalyc_775646004_ref48-2"
+       },
+       "Moctezuma, 2021"
+      ],
+      "). Sin embargo, es un espacio en el que el comercio callejero se ha proscrito legalmente y, en dinámicas disputadas, ha sido tanto perseguido policialmente y expulsado, como también, permitido. (",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646004_ref20",
+        "id": "t-llamada-redalyc_775646004_ref20-1"
+       },
+       "Davis, 2007"
+      ],
+      "; ",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646004_ref15",
+        "id": "t-llamada-redalyc_775646004_ref15-1"
+       },
+       "Crossa, 2009"
+      ],
+      "; ",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646004_ref31",
+        "id": "t-llamada-redalyc_775646004_ref31-1"
+       },
+       "Giglia, 2013"
+      ],
+      "). En realidad, la presencia masiva de comerciantes en la vía pública tiende a rebasar las capacidades represivas del gobierno, por lo que éste ha solido expulsarlos del poniente y surponiente del Centro, donde se concentran la actividad turística y diversos procesos de gentrificación, permitiendo en cambio su instalación en el oriente y nororiente (",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646004_ref48",
+        "id": "t-llamada-redalyc_775646004_ref48-3"
+       },
+       "Moctezuma, 2021"
+      ],
+      ")."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "Los “permisos” para vender en la calle, que hacen posibles condiciones más estables de trabajo al suspender la persecución policial, se han obtenido principalmente mediante negociaciones directas entre funcionarios del gobierno y líderes de organizaciones de comerciantes (",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646004_ref14",
+        "id": "t-llamada-redalyc_775646004_ref14-1"
+       },
+       "Cross, 1998"
+      ],
+      "; ",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646004_ref46",
+        "id": "t-llamada-redalyc_775646004_ref46-2"
+       },
+       "Meneses, 2011"
+      ],
+      "). A través de estas negociaciones, aunque precarias y sujetas a distintos intereses y coyunturas políticas, el control de determinadas zonas para el comercio callejero ha quedado, de hecho, mediado por los líderes, quienes administran y distribuyen el espacio entre los vendedores. A su vez, para acceder al espacio y permanecer en él, los comerciantes quedan obligados a transferir dos tipos de recursos, tanto a los líderes y sus organizaciones como, a través de estos, a funcionarios de gobierno: participación política y cuotas económicas. De este modo, los líderes no son sólo representantes de los comerciantes, ocupan una posición de poder dentro de una relación jerárquica con éstos: en última instancia, son ellos quienes deciden quién accede a un espacio bajo su control y quién queda excluido."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "Distintas investigaciones han señalado, sin embargo, que una parte de las relaciones entre líderes y comerciantes se ha inscrito en vínculos afectivos y lógicas de reciprocidad que desbordan una racionalidad estrictamente utilitaria. La mediación de los líderes no sólo ha intervenido en la disputa por el acceso a espacios de trabajo, sino también en la circulación de recursos diversos, como préstamos, asesorías jurídicas e información y gestiones para acceder a programas sociales (",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646004_ref1",
+        "id": "t-llamada-redalyc_775646004_ref1-1"
+       },
+       "Alba, 2015"
+      ],
+      "; ",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646004_ref16",
+        "id": "t-llamada-redalyc_775646004_ref16-2"
+       },
+       "Crossa, 2018"
+      ],
+      "). Bajo estas coordenadas, la participación política y las cuotas económicas han podido ser significadas no tanto como “cobros” sino como aportaciones ligadas a compromisos recíprocos y a una economía de favores. No obstante, junto a esto, también han existido liderazgos más orientados a la extracción de riqueza de los comerciantes a partir del control espacial (",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646004_ref11",
+        "id": "t-llamada-redalyc_775646004_ref11-1"
+       },
+       "Castro, 1990"
+      ],
+      "). En la actualidad, esta segunda forma de relación ha cobrado primacía."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "Ello se vincula, en parte, con que aunque para los líderes el número de comerciantes que pueden movilizar políticamente constituye un recurso central, por la capacidad de presión que ello les confiere frente a las autoridades, la amplia demanda de trabajadores que compiten por acceder a un lugar de venta como medio de vida constituye una suerte de “ejército informal de reserva” que debilita la capacidad de exigencia de los comerciantes individuales frente a los líderes y fortalece, en cambio, el poder de estos últimos. Además, esta competencia se intensifica por las políticas de persecución policial contra el comercio callejero, particularmente en el poniente del Centro. De forma amplia, la asignación de lugares para los comerciantes individuales se organiza crecientemente bajo lógicas de mercado: su acceso está mercantilizado y su precio se configura en función de la oferta y la demanda, si bien el suelo, como recurso escaso, posee características monopólicas."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "En este escenario, la autoridad de los líderes sobre los comerciantes se sostiene menos a través de compromisos morales y más por su capacidad de dominar y controlar el espacio, en gran medida a través de usos de violencia (pero también, es significativa su relaciones y vínculos con actores políticos y del gobierno de la ciudad)."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "De hecho, la competencia por el espacio, como mecanismo de extracción de riqueza, así como los usos de violencia han cobrado tal magnitud que ha sido constante en los años recientes el asesinato y la imposición de líderes (aunque, también se han conservado grupos y familias de viejos liderazgos) (",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646004_ref3",
+        "id": "t-llamada-redalyc_775646004_ref3-1"
+       },
+       "Alzaga, 2019"
+      ],
+      ")."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "En este contexto, los líderes suelen aparecer en los relatos de los comerciantes como figuras movidas ante todo por intereses de poder y de lucro, a costa de la expoliación de los vendedores individuales. Por una parte, no sólo se han incrementado las cuotas ligadas al acceso y la permanencia en el espacio, sino que además han surgido nuevos cobros asociados al contexto de inseguridad criminal que se ha extendido en la zona, entre ellos las denominadas cuotas por protección. Estos cobros complejizan aún más la imagen de los líderes. El conocimiento sobre la criminalidad de la zona suele inscribirse en lo que con Taussing (",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646004_ref67",
+        "id": "t-llamada-redalyc_775646004_ref67-1"
+       },
+       "1984"
+      ],
+      ") podemos entender como una “penumbra epistémica”. Es decir, se conforma en una densa trama de rumores, noticias, chismes y especulaciones fragmentarias, lo que produce un campo de incertidumbre en torno a los actores y sus relaciones. En este marco, algunos interpretan las cuotas por protección como una aportación para reforzar la seguridad de la organización; otros, como un aprovechamiento del miedo por parte de los líderes; y otros más, como indicio de su posible colusión con actores criminales. Además, circulan con frecuencia relatos de comerciantes que, mediante distintas formas de violencia (amenazas, golpes, agresiones con armas, micro-secuestros, destrucción de mercancía, e incluso viviendas allanadas), quedan sometidos a cobros impuestos por los líderes, pese a que antes no mantenían una relación con ellos; o también, de vendedores que por su aparente éxito comercial son objeto de aumentos arbitrarios en las cuotas; así como de casos en los que esos espacios son directamente despojados y apropiados para beneficio del líder (no es inusual que los líderes tengan puestos comerciales trabajados por comerciantes asalariados) o sus allegados."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "En suma, los líderes ejercen un dominio espacial a partir de usos de violencia y una relación estrecha con la administración estatal de la “informalidad” que les permite lucrar con el espacio."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "\n",
+      [
+       "span",
+       {},
+       [
+        "span",
+        {},
+        "Caso 2. Privatización de infraestructura colectiva: Plazas Comerciales populares"
+       ]
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "En el oriente existen también numerosas plazas de comercio popular (que llegan a tener cientos de locales) que se han creado en el marco de distintos programas de reordenamiento del comercio callejero, como alternativas para retirar a los trabajadores de la vía pública (",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646004_ref13",
+        "id": "t-llamada-redalyc_775646004_ref13-1"
+       },
+       "Cross, 1997"
+      ],
+      "; ",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646004_ref64",
+        "id": "t-llamada-redalyc_775646004_ref64-1"
+       },
+       "Silva, 2010"
+      ],
+      "). En muchas de estas plazas comerciales los locales se entregaron en propiedad a los comerciantes reubicados, sin embargo, en muchas de estas plazas, los comerciantes se han encontrado sujetos a distintas dinámicas de extorsión y abuso por grupos que ejercen un control violento sobre el espacio."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "Estas plazas operan bajo un régimen de propiedad condominal, por lo que, legalmente, la administración de los espacios e infraestructuras compartidas debería ser ejercida por representantes elegidos de manera periódica y democrática en asambleas de locatarios/propietarios. Sin embargo, en distintas plazas la “administración” ha sido cooptada por individuos pertenecientes a grupos que utilizan la violencia para establecer un poder sobre el espacio. En una denuncia publicada en redes sociales, realizada por comerciantes de una de estas plazas se señala que “en distintas ocasiones los comerciantes del lugar hemos buscado establecer una administración democrática de la plaza, conforme a la ley de condóminos que formalmente la rige. Sin embargo, los esfuerzos por realizar alguna asamblea general de locatarios para elegir libremente a los funcionarios encargados de la administración han sido boicoteados sistemáticamente por el grupo que ha usurpado la administración, a través de amenazas violentas a la integridad física de los comerciantes y/o a sus locales” (",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646004_ref55",
+        "id": "t-llamada-redalyc_775646004_ref55-1"
+       },
+       "Permanecer en la Merced, 2023"
+      ],
+      "). En otra plaza, en 2015, yo mismo fui testigo de estas intimidaciones. Unos comerciantes convocaron a una reunión de locatarios que buscaban organizarse para cumplir con los procedimientos administrativos formales para elegir y constituir legalmente la administración del lugar. La reunión se desarrolló en el patio central del edificio y congregó a un buen número de locatarios, todos interesados en lograr ese objetivo. Sin embargo, en un momento dado llegaron dos personas vinculadas al grupo que controla el lugar y, de forma ostensiva y desafiante, comenzaron a tomar fotos de los rostros de todos los que estábamos presentes. Poco después, la reunión finalizó; en las conversaciones que siguieron se contaron distintas anécdotas de represalias violentas realizadas por dicho grupo, incluidos algunos casos letales. La iniciativa ya no continuó."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "El control territorial violento que ejercen estas organizaciones constituye formas de despojo espacial que habilitan dinámicas extractivas. A partir del dominio coercitivo se establece un orden de regulación territorial y extracción de valor. Por una parte, obtienen ganancias mediante la privatización de servicios de uso colectivo, como los baños “públicos”: los cobros a locatarios, trabajadores y clientela, para su utilización, son apropiados por la organización (",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646004_ref55",
+        "id": "t-llamada-redalyc_775646004_ref55-2"
+       },
+       "Permanecer en la Merced, 2023"
+      ],
+      "). Asimismo, permiten unilateralmente la instalación de comerciantes en espacios colectivos a cambio del pago de cuotas que también captan para sí."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "Por otra parte, estas organizaciones se imponen como intermediarios para el acceso de los comerciantes a servicios públicos (como agua y electricidad) y privados (como internet). En este sentido, la extracción —de carácter extorsiva— opera mediante el control del acceso (o exclusión) a servicios en el espacio comercial. Una locataria me relataba que, para permitirle la instalación de un servicio público le exigían un cobro de 15 mil pesos (lo que representa sus ingresos del mes)."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "La siguiente viñeta permite profundizar en algunos aspectos de estas prácticas. En una de estas plazas, en 2025, varios locales pertenecientes a familiares de Gerardo (un comerciante y dirigente social que en distintas ocasiones había confrontado al grupo que mantiene cooptada la administración) quedaron repentinamente sin acceso a un servicio básico, justo después de que liquidaran un adeudo acumulado con la empresa pública encargada de proveerlo. Los familiares buscaron la reinstalación del servicio y señalaron las inconsistencias del corte, pues al momento en que éste se realizó ya no existían adeudos vencidos. Sin embargo, los funcionarios locales de la empresa no respondieron favorablemente. El grupo que usurpa la administración de la plaza les ofreció restablecer el suministro a cambio del pago de una cuota mensual, como de hecho venía ocurriendo. Conviene subrayar que, en la plaza, el acceso a ese servicio básico se encuentra formalmente suspendido para todos los locales debido a deudas acumuladas; sin embargo, en los hechos el suministro no ha sido interrumpido. Los comerciantes pagan periódicamente una cuota al grupo para mantener el acceso, al mismo tiempo que continúan acumulando adeudos con la empresa pública. La deuda opera, así, como un mecanismo de sujeción que refuerza la dependencia de los locatarios respecto de la mediación del grupo. Precisamente esa dependencia fue la que los familiares de Gerardo intentaron romper al liquidar directamente sus adeudos; no obstante, la consecuencia en este caso fue la cancelación total del servicio. Es decir, quedaron colocados en una situación de suspensión efectiva distinta a la del resto de los locatarios, pese a haber pagado lo adeudado. Para Gerardo, esta situación sólo puede explicarse por una colusión entre funcionarios de la empresa pública y el grupo que controla la plaza comercial. Con amplia experiencia en la defensa de los derechos de los comerciantes, conocimiento de marcos legales e institucionales, así como redes tejidas con activistas y periodistas, Gerardo desplegó entonces una estrategia de presión en tres frentes: la difusión del caso en redes y prensa; la movilización colectiva mediante una protesta en oficinas centrales de la empresa y la interlocución con funcionarios de mayor jerarquía. La estrategia resultó efectiva y permitió la reinstalación del servicio. No obstante, a lo largo de todo el proceso él actuó deliberadamente para evitar represalias: tanto en sus intervenciones públicas como en la negociación con las autoridades, evitó hacer explícitas las relaciones de poder y corrupción vinculadas al caso y optó por enmarcarlo únicamente como un proceder inconsistente y arbitrario de la empresa pública."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "En los últimos años, en el contexto de criminalidad y relaciones de extorsión que se viven en la zona, estos grupos han obligado a los comerciantes a pagar cuotas de seguridad, bajo el argumento de protegerlos frente a una criminalidad externa a la plaza o de evitar las represalias del propio grupo. En los hechos, muchos comerciantes han sido amenazados físicamente o despojados de sus locales. Una breve viñeta del caso de una comerciante permite ilustrar este mecanismo y profundizar en las dinámicas de violencia y poder que estructuran el lugar. Marta se negó a pagar estas cuotas y un día se enteró, por una compañera que “El Bachas”, quien durante muchos años había cooptado la “administración” de su plaza, estaba ofreciendo el local de Marta a la venta. “El Bachas” había cerrado el local con candados colocados por él mismo. Él sabía que la mamá de Marta había adquirido el local de manera informal, sin contratos ni títulos, por lo que carecía de documentos legales para acreditar la propiedad. El despojo se prolongó durante un par de años con el local cerrado. Más tarde, “El Bachas” fue asesinado y la “administración” de la plaza fue cooptada por un grupo criminal vinculado a secuestros, extorsión y trata, entre otros delitos, y relacionado con un poderoso grupo criminal de la ciudad. En esta transición, “Chucho”, quien se encargaba de hacer los cobros para “El Bachas” y fungió como guía e informante en el recorrido que el nuevo grupo realizó para tomar posesión de la plaza comercial, presentó el local como propiedad de Marta. Más tarde, ella aprovechó para romper los candados y recuperar la posesión. Sin embargo, también desde entonces comenzó a pagar cuotas a los cobradores del nuevo grupo, muchas veces fijadas de manera impredecible (a veces sin que sea claro si responden al capricho del cobrador o a una instrucción jerárquica), ante el temor que le genera su reputación violenta."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "\n",
+      [
+       "span",
+       {},
+       [
+        "span",
+        {},
+        "Caso 3. Despojo de medios de vida: la vivienda ocupada"
+       ]
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "A partir de la segunda mitad del siglo XX, el Centro Histórico se consolidó como un espacio de habitación popular. Durante décadas, migrantes rurales que arribaban a la ciudad, así como poblaciones en condiciones de precariedad, encontraron en esta zona no sólo diversas oportunidades de acceso a ingresos, sino también un amplio abanico de opciones residenciales con distintas condiciones de habitabilidad. Departamentos en edificios, aunque principalmente cuartos en vecindades, junto con cuartos de azotea, casas de huéspedes y hoteles económicos, conformaron una oferta habitacional de bajo costo para miles de familias. A ello se suma la existencia de numerosos edificios abandonados que, por razones diversas (entre ellas el fuerte deterioro y los daños estructurales), han sido ocupados por cientos de familias que encontraron en lo que otros veían como ruinas una posibilidad de habitación."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "Las dinámicas habitacionales en el Centro han sido, sin embargo, complejas y contradictorias. Por un lado, ha existido una larga historia de desalojos y de una significativa reducción del parque habitacional vinculada a intereses económicos. Dada su importancia como centralidad comercial a escala metropolitana, muchos propietarios han preferido destinar sus inmuebles a actividades comerciales. Por otro lado, a partir de la movilización social por la vivienda que siguió al sismo de 1985, una mayoría de familias de sectores populares accedió a la vivienda en propiedad. Pero otras permanecieron tanto bajo esquemas de alquiler, como habitando inmuebles en condiciones de irregularidad jurídica en torno a la propiedad. Estos últimos espacios han funcionado como alternativas relativamente desmercantilizadas de acceso y permanencia en la vivienda, pero en los últimos años se han visto crecientemente atravesadas por procesos de desposesión y mercantilización (",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646004_ref22",
+        "id": "t-llamada-redalyc_775646004_ref22-1"
+       },
+       "Delgadillo, 2011"
+      ],
+      "; ",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646004_ref48",
+        "id": "t-llamada-redalyc_775646004_ref48-4"
+       },
+       "Moctezuma, 2021"
+      ],
+      ")."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "En la actualidad, estos espacios habitacionales se ven tensionados por al menos dos dinámicas, vinculadas a las geografías de segregación del Centro Histórico. Por una parte, en el lado poniente, los procesos de gentrificación vinculados con proyectos de renovación urbana, ha colocado en la mira de las desarrolladoras inmobiliarias a los inmuebles en condiciones de irregularidad jurídica. En este sentido, en los últimos años se han documentado diversos “despojos disfrazados de desalojos”, como recientemente el caso de las 19 familias afectadas del edificio ubicado en República de Cuba 11, quienes, a partir de la revisión del expediente judicial, advirtieron que el juicio que condujo a su desalojo en agosto de 2025 estuvo marcado por irregularidades que apuntan a un posible fraude procesal (",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646004_ref54",
+        "id": "t-llamada-redalyc_775646004_ref54-1"
+       },
+       "Pérez, 2025"
+      ],
+      "; ",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646004_ref58",
+        "id": "t-llamada-redalyc_775646004_ref58-1"
+       },
+       "Rivera, 2025"
+      ],
+      ")."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "De hecho, la propia Fiscalía General de Justicia de la Ciudad de México ha reconocido que el despojo suele operar mediante una combinación de mecanismos jurídicos fraudulentos y coerción. Entre las principales modalidades identifica la simulación de compraventas, los juicios civiles o fraudes procesales, así como la falsificación de contratos, instrumentos notariales y documentos del Registro Público de la Propiedad y del Comercio. Asimismo, subraya que en estas operaciones no sólo participan grupos violentos, sino también actores con conocimientos técnicos y jurídicos, como abogados, notarios y arquitectos (FGJ, ",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646004_ref26",
+        "id": "t-llamada-redalyc_775646004_ref26-1"
+       },
+       "2022"
+      ],
+      " y ",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646004_ref27",
+        "id": "t-llamada-redalyc_775646004_ref27-1"
+       },
+       "2023"
+      ],
+      ")."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "Sin embargo, más allá de los espacios directamente atravesados por la gentrificación, encontramos procesos de despojo que se sostienen fundamentalmente en el uso de la fuerza y en la producción de miedo, más que en entramados judiciales fraudulentos. En el caso del Centro Histórico, estas dinámicas se concentran principalmente en el lado oriente, donde se localiza buena parte de la habitación popular, así como las grandes zonas comerciales de La Merced y Tepito. No obstante, conviene señalar que se trata de dinámicas que se extienden más ampliamente por la ciudad, sobre todo en las zonas de fuerte segregación urbana donde se concentran los sectores populares."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "En las últimas décadas, en un contexto marcado por la violencia que atraviesa el país, el despojo de vivienda ha registrado un aumento importante. De acuerdo con Meneses (2024), los casos reportados pasaron de 19.000 en 2002 a 29.000 en 2020, lo que representa un incremento de poco más de 45 %. En el Centro Histórico y sus alrededores se ha documentado una gran cantidad de despojos perpetrados por grupos vinculados, o que se presentan como vinculados, a organizaciones del crimen organizado como la Unión Tepito. Distintas notas de prensa dan cuenta de ello (",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646004_ref28",
+        "id": "t-llamada-redalyc_775646004_ref28-1"
+       },
+       "Fuentes, 2019a"
+      ],
+      " y ",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646004_ref29",
+        "id": "t-llamada-redalyc_775646004_ref29-1"
+       },
+       "2019b"
+      ],
+      "; ",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646004_ref39",
+        "id": "t-llamada-redalyc_775646004_ref39-1"
+       },
+       "Infobae 2021"
+      ],
+      "; ",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646004_ref43",
+        "id": "t-llamada-redalyc_775646004_ref43-1"
+       },
+       "Martínez, 2021"
+      ],
+      ")."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "Estos despojos suelen ejecutarse mediante la irrupción de grupos numerosos de jóvenes armados con tubos, cadenas, palos y armas de fuego. En algunos casos invaden las viviendas, rompen puertas y expulsan a sus habitantes junto con sus pertenencias. La exhibición corporal y material de la disposición violenta del grupo, así como la reputación de la organización criminal a la que dicen pertenecer, suelen ser suficientes para forzar el abandono del lugar. Así, por ejemplo, en uno de los pocos testimonios recogidos en la prensa, en un contexto marcado por el silencio que produce el temor, una afectada señalaba: “Nos amenazaron de muerte, que nos van a meter unos balazos si no nos vamos; si intentamos construir con la autoridad, aseguran que ese predio es de ‘La U[nión Tepito]’, así que bajo nuestro propio riesgo” (",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646004_ref3",
+        "id": "t-llamada-redalyc_775646004_ref3-2"
+       },
+       "Alzaga, 2019"
+      ],
+      ")."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "El testimonio da cuenta, además, de que estos despojos no sólo se consuman por las dificultades y restricciones que entrañan los procesos judiciales (tanto por las irregularidades en torno a la propiedad como por la precariedad material para sostener un litigio), sino también porque la amenaza violenta disuade a las personas afectadas de denunciar y de emprender acciones legales. A ello se suma la “sospecha” (por nombrar en términos técnicos lo que para las personas afectadas constituye una certeza) de una fuerte colusión entre funcionarios públicos y actores criminales."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "Ahora bien, el despojo constituye un mecanismo de acaparamiento, concentración de la propiedad y explotación del espacio, y no sólo de control territorial. Los inmuebles despojados son incorporados a circuitos de valorización y extracción de rentas, ya sea como vivienda en alquiler (en algunos casos mediante el fraccionamiento del espacio para rentar cuartos, e incluso camas, a personas migrantes) o, con una capacidad de captura de rentas más alta, mediante la transformación del edificio en plazas comerciales y bodegas. De este modo, espacios de habitación que antes funcionaban primordialmente como valores de uso son despojados y convertidos en recursos sujetos a explotación económica."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "\n",
+      [
+       "span",
+       {},
+       " Mercantilización, precariedad y estado"
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "Los casos dan cuenta de la expansión de dinámicas de privatización y despojo, fundados en la violencia, mediante los cuales distintos espacios que constituían valores de uso para los sectores populares son transformados en valores de cambio. La desposesión inicial inaugura un divorcio que sienta las bases de una relación de extracción de tipo rentista por la que la desposesión se actualiza periódicamente. En este sentido, la desposesión entraña exclusión, pero no solamente, a través de ésta se configura una integración subordinada de sectores populares coaccionada tanto económica como políticamente: económica, por la precariedad estructural y de acceso a recursos de los sectores populares; política, pues se establece a partir de un orden fundado en violencias ilegales."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "Por una parte, el despojo de medios de vida, la comercialización del espacio público, y la privatización de infraestructura colectiva suponen la expansión de la mercantilización de bienes y recursos que habían funcionado, al menos parcialmente, por fuera de la lógica mercantil: por el deterioro y abandono, en el caso de las viviendas; por ser parte del espacio público, en el caso del comercio callejero; o por el derecho de propiedad, en el caso de las plazas de comercio popular. En estos casos, los bienes desposeídos se mercantilizan no sólo en el sentido de que, de estar constituidos primordialmente como valores de uso, pasan a convertirse en valores de cambio y a sujetar su acceso a un pago (periódico), sino también en el sentido de que se incorporan a una oferta dentro del mercado local: como espacios de vivienda en alquiler, o como locales comerciales y bodegas; como lugares para la venta en el espacio público, diferenciados por su extensión, ubicación y condiciones de seguridad; así como espacios para la venta informal en propiedades privadas de uso colectivo, o baños de acceso público mediante pago. Es decir, se inscriben en relaciones de oferta y demanda (",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646004_ref68",
+        "id": "t-llamada-redalyc_775646004_ref68-1"
+       },
+       "Walsh, 2013"
+      ],
+      "; ",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646004_ref34",
+        "id": "t-llamada-redalyc_775646004_ref34-1"
+       },
+       "Hall, 2023"
+      ],
+      "). Como ocurre usualmente con los mercados, en este caso tampoco se trata de un mercado competitivo tanto por las cualidades monopólicas del espacio como por su concentración en pocos actores, lo que constituye una fuente de poder de mercado."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "No obstante, la categoría de mercantilización no alcanza por sí sola para captar la violencia y el conjunto de relaciones de poder que configuran estas economías extractivas. Además, algunas de las transacciones económicas que allí se establecen no responden propiamente a una lógica de mercado, sino que adoptan más bien la forma de tributo o exacción. Así ocurre con la venta de protección a comerciantes de plazas y de la vía pública,  como con los cobros por permitir la conexión de locales a ciertos servicios. En estos casos las lógicas extorsivas de la relación permanente de despojo son más evidentes, fundadas en relaciones de dominación, por el control territorial violento."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "De cualquier modo, los casos muestran la expansión y diversificación, en distintas dimensiones de la vida social, de lógicas de extracción rentista que subordinan el acceso a medios de vida y de trabajo a una mediación económica. De este modo, la imposición del cobro por medios violentos, y la capacidad de pago, se extienden como principios de distribución y acceso a recursos, desplazando otras lógicas, como la necesidad, la pertenencia, la reciprocidad e incluso el “derecho”."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "No obstante, es importante señalar que las prácticas y relaciones analizadas tienen lugar en un espacio de gran dinamismo y vitalidad popular exuberante. El sentido de la vida social no se reduce a la extracción y la violencia. A pesar de estas y, también, frente a estas, prevalecen disposiciones sociales orientadas al encuentro, a ser afectados y transformados por el otro. Cotidianamente se tejen lazos afectivos y de solidaridad. Como lo describe Castmar (",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646004_ref10",
+        "id": "t-llamada-redalyc_775646004_ref10-1"
+       },
+       "2025"
+      ],
+      ": 173), una mujer comerciante, en su crónica fotográfica:"
+     ],
+     "\n",
+     [
+      "blockquote",
+      {},
+      "también tu trabajo se vuelve una familia. […] pasas muchas horas ahí, ahí te desahogas. Tratan de solucionar tus problemas, tú tratas de solucionar sus problemas. No sé cómo le haces… pero ante la necesidad y las problemáticas y… no sé, a veces se ha puesto muy feo, en lo personal, y yo he sentido apoyo de las personas, siempre, eh. Incluso, a veces surgen otros problemas y la gente te apoya, pero por qué, no sé, porque te conocen, porque hay una estima, porque hay cariño. Te vuelves familia, sabes que no estás solo."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "En mi experiencia del lugar, a lo largo del tiempo que llevo recorriéndolo, las prácticas de cuidados y atención al “otro”, de aprecio y compañerismo, de solidaridad y reciprocidad son lo constante (",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646004_ref2",
+        "id": "t-llamada-redalyc_775646004_ref2-1"
+       },
+       "Al-Mohammad, 2015"
+      ],
+      "; ",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646004_ref49",
+        "id": "t-llamada-redalyc_775646004_ref49-2"
+       },
+       "Moctezuma, 2022"
+      ],
+      "). No sólo hacia quienes constituyen la cotidianidad y con quienes se han formado disposiciones afectivas de distintos tipos, sino con los que son anónimos. Además, junto a estos lazos de reconocimiento que se conforman en el día a día, se producen también esfuerzos organizativos más amplios para enfrentar en una lucha común problemáticas sociales, económicas y políticas, compartidas."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "Por otra parte, el carácter rentista de los procesos de acumulación que he analizado no constituye una anomalía local, sino que reproduce una tendencia más amplia del capitalismo contemporáneo. En el neoliberalismo, no sólo se observa un auge de formas de acumulación rentista, como puede ser el alquiler y el crédito; también se registra un desplazamiento desde la venta de mercancías con transferencia de propiedad hacia modelos de acumulación basados en la monetización recurrente del acceso a bienes, servicios e infraestructuras, bajo la lógica de convertir todo en un activo financiero (",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646004_ref61",
+        "id": "t-llamada-redalyc_775646004_ref61-1"
+       },
+       "Sadowski, 2020"
+      ],
+      "; ",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646004_ref63",
+        "id": "t-llamada-redalyc_775646004_ref63-1"
+       },
+       "Sayer, 2023"
+      ],
+      "). Como señala Harvey (",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646004_ref38",
+        "id": "t-llamada-redalyc_775646004_ref38-2"
+       },
+       "2014"
+      ],
+      ": 240): “Las formas parasitarias del capital están en pleno auge”."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "En los espacios de segregación, la constitución de relaciones extractivas entre sectores populares, se vinculan con las características de la economía urbana y con la posición subordinada que ocupan en ella los sectores populares. La ciudad se encuentra atravesada por fuertes restricciones en la estructura laboral y en el acceso a ingresos, de modo que amplios sectores dependen de inserciones precarias, mal remuneradas y, a menudo, inseguras. De igual modo, el mercado de vivienda y alojamiento al que acceden los sectores de menores recursos se caracteriza por importantes carencias en términos de habitabilidad, tanto en el espacio doméstico como en relación con su entorno urbano y en su localización dentro de la ciudad. Asimismo, economías extractivas fundadas en violencia y asentadas sobre dimensiones básicas de la reproducción social y del acceso a medios de vida, como las aquí analizadas, se encuentran ampliamente dispersas en la geografía de la segregación urbana donde se concentran sectores populares.",
+      [
+       "span",
+       {}
+      ],
+      "Esto a pesar de que, en los últimos años, en México, se han desplegado políticas orientadas a mejorar los ingresos de la población, tanto mediante incrementos significativos al salario mínimo, como a través de transferencias monetarias como parte de las políticas sociales, que han contribuido a la disminución del índice de pobreza en el país (aunque muy poco en relación con la pobreza extrema) y que también se han registrado descensos en diversos indicadores de violencia e inseguridad (sin embargo, la extorsión se ha mantenido como un delito persistente e incluso al alza)."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "La violencia que ejercen estos grupos en su búsqueda de rentas se diferencia de la imagen del asalto, pues no se trata de una violencia orientada a un fin inmediato, sino de una violencia que funda o modifica de manera relativamente estable las condiciones de acceso, circulación y uso del espacio, conformando, por fuera del código legal, un dominio socioespacial (establece una “ley” de facto) (",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646004_ref7",
+        "id": "t-llamada-redalyc_775646004_ref7-1"
+       },
+       "Benjamin, 2001"
+      ],
+      "). Esto no se puede entender solamente como resultado de la ausencia del estado o de su incompetencia, sino como procesos que se desarrollan en los márgenes del estado, en el sentido planteado por Das y Poole (",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646004_ref18",
+        "id": "t-llamada-redalyc_775646004_ref18-1"
+       },
+       "2008"
+      ],
+      "). Se trata de configuraciones que dan cuenta del carácter difuso del estado, sus fronteras respecto a la sociedad y el crimen resultan difíciles de trazar, y se hacen visibles los límites de su poder, así como las disputas en torno a una soberanía siempre incompleta, inestable y tentativa (",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646004_ref35",
+        "id": "t-llamada-redalyc_775646004_ref35-1"
+       },
+       "Hansen y Stepputat, 2005"
+      ],
+      "). En esos espacios relacionales, categorías dicotómicas como público y privado, legal e ilegal, o formal e informal, resultan insuficientes para dar cuenta de las dinámicas sociales."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "En relación con los líderes del comercio callejero, por ejemplo, el poder que ejercen sobre el espacio se constituye en gran medida a partir de las formas en que se ha regulado la informalidad en esta zona de la ciudad. La informalidad es producida por el propio estado, éste no sólo determina qué es informal y qué no, sino también “las formas de informalidad que prosperarán y las que desaparecerán” (",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646004_ref60",
+        "id": "t-llamada-redalyc_775646004_ref60-1"
+       },
+       "Roy, 2005"
+      ],
+      ": 149-150). La figura de los líderes se ha visto impulsada, así, por las modalidades mediante las cuales se ha gobernado la organización social de los comerciantes que ha impulsado relaciones clientelares y corporativas. Más que reconocer derechos individuales de ocupación o trabajo, las autoridades tienden a canalizar las autorizaciones a través de líderes u organizaciones, concentrando en estos intermediarios funciones de representación, asignación y control sobre el espacio, legitimando relaciones de poder (",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646004_ref14",
+        "id": "t-llamada-redalyc_775646004_ref14-2"
+       },
+       "Cross, 1998"
+      ],
+      "; ",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646004_ref40",
+        "id": "t-llamada-redalyc_775646004_ref40-1"
+       },
+       "Jaramillo, 2007"
+      ],
+      "; ",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646004_ref46",
+        "id": "t-llamada-redalyc_775646004_ref46-3"
+       },
+       "Meneses, 2011"
+      ],
+      "; ",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646004_ref50",
+        "id": "t-llamada-redalyc_775646004_ref50-1"
+       },
+       "Moctezuma, 2023"
+      ],
+      ")",
+      [
+       "span",
+       {},
+       ". "
+      ],
+      "Así, siguiendo a Das y Poole (",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646004_ref18",
+        "id": "t-llamada-redalyc_775646004_ref18-2"
+       },
+       "2008"
+      ],
+      "), los líderes, como otros intermediarios:",
+      [
+       "span",
+       {}
+      ],
+      "“representan simultáneamente el desvanecimiento de la jurisdicción estatal y su continua refundación” (30)."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "En relación con los grupos violentos que cooptan la administración de las plazas, o despojan de vivienda, así como quienes ejercen la extorsión, se suele plantear su permanencia a partir de la colusión con funcionarios estatales, incluso llegándose a afirmar identidades criminales compartidas. Es decir, no se considera que en este caso la inseguridad que viven los comerciantes y el dominio de los grupos dependa únicamente de la incompetencia o impotencia institucional, sino también de la imbricación de agentes estatales en las dinámicas locales de violencia y criminalidad (",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646004_ref4",
+        "id": "t-llamada-redalyc_775646004_ref4-1"
+       },
+       "Auyero y Sobering, 2021"
+      ],
+      "). Esto da cuenta también de los límites del proyecto de soberanía estatal a partir de la propia fragmentación interna del estado (",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646004_ref35",
+        "id": "t-llamada-redalyc_775646004_ref35-2"
+       },
+       "Hansen y Stepputat, 2005"
+      ],
+      "). No obstante, la percepción de imbricación entre funcionarios públicos y actores criminales no puede entenderse sólo como efecto de la coyuntura reciente, sino también como sedimentación de experiencias y memorias cotidianas en torno a prácticas estatales de extorsión, abuso y arbitrariedad ejercidas históricamente sobre la población (",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646004_ref56",
+        "id": "t-llamada-redalyc_775646004_ref56-1"
+       },
+       "Pita, 2019"
+      ],
+      "; ",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646004_ref25",
+        "id": "t-llamada-redalyc_775646004_ref25-1"
+       },
+       "Díaz, 2019b"
+      ],
+      ")."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "Sin embargo, aunque esta complicidad convierte la denuncia en un riesgo para quien la presenta y alimenta la percepción de que quedará total o parcialmente impune; aunque los procesos policiales y judiciales del país suelen considerarse ineficientes y desgastantes en términos de tiempo, emociones e ingresos; y aunque, en muchas ocasiones, la falta de documentación o el carácter informal de las relaciones dificultan el acceso a recursos legales para protegerse o resolver conflictos, comerciantes y habitantes del lugar continúan recurriendo a vías judiciales y solicitando audiencias con funcionarios de gobierno. Esto se explica, en parte, porque el estado no es experimentado como una entidad monolítica y coherente, sino como un entramado heterogéneo de actores y agencias en relaciones complejas y contradictorias; y porque, a pesar de todo, persiste cierta esperanza en el funcionamiento estatal (",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646004_ref53",
+        "id": "t-llamada-redalyc_775646004_ref53-1"
+       },
+       "Nuijten, 2003"
+      ],
+      ")."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "\n",
+      [
+       "span",
+       {},
+       " Conclusión"
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "En este artículo he mostrado la constitución de relaciones extractivas en la espacialidad popular, entre actores situados en posiciones próximas dentro de la estructura social, establecidas a partir de violencias directas por actores privados. En parte, esto da cuenta de transformaciones en las condiciones de segregación urbana (y, más ampliamente, de la experiencia urbana en general), vinculadas al crecimiento de la criminalidad en América Latina, así como a los medios y magnitudes de la violencia (con la emergencia de actores armados). La violencia, sin embargo, aparece aquí no sólo como una experiencia disruptiva de la cotidianidad, sino como un mecanismo de constitución de orden. A partir de ella se establece un dominio espacial y se instituye un poder capaz de regir prácticas, usos y apropiaciones del lugar, estableciendo procesos de despojo, privatización y acaparamiento a partir de los cuales se constituyen relaciones de extracción rentista que se reproducen cotidianamente. La fundación y persistencia de estas relaciones se encuentran asociadas a las condiciones de privación y constricción estructural que viven los sectores populares, al mismo tiempo que participan de su reproducción."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "Las dinámicas de desposesión y extracción rentista descritas, como he señalado, no son ajenas a las lógicas dominantes de acumulación en el capitalismo neoliberal contemporáneo; sin embargo, difieren en los marcos que configuran y legitiman el uso de medios violentos. Si bien en muchos procesos contemporáneos de despojo, privatización y mercantilización propios del “extractivismo urbano” no es inusual que intervengan formas encubiertas de violencia desplegadas por actores privados, éstas suelen permanecer ocultas y articularse con mecanismos legales y violencias represivas estatales que les confieren marcos de legitimidad. Las fronteras entre economías formales e informales, lícitas e ilícitas suelen ser más discursivas que reales. Pero en cambio, en los casos analizados, la violencia de actores privados aparece en primer plano, no sólo como práctica intimidatoria orientada a forzar un cambio, sino como dimensión constitutiva de órdenes que no se revisten de legalidad. De cualquier modo, ello no supone una ausencia de estado. Como hemos visto, la violencia local no puede comprenderse sin tramas de omisión, tolerancia y complicidad de actores estatales."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "Finalmente, cabe enfatizar que estas dinámicas no totalizan la vida social de los sectores populares: otros vínculos, esporádicos o persistentes, de solidaridad, reciprocidad, cuidado y reconocimiento también se reproducen cotidianamente."
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-back"
+     },
+     "\n",
+     [
+      "p",
+      {},
+      "\n",
+      [
+       "span",
+       {},
+       " Referencias bibliográficas  "
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "id": "t-redalyc_775646004_ref1"
+      },
+      "Alba Vega, C. (2015). La política local y la globalización desde abajo: Los líderes de los vendedores ambulantes de las calles del Centro Histórico de la Ciudad de México. In C. Alba Vega, G. Lins Ribeiro & G. Mathews (Coords.), ",
+      [
+       "span",
+       {},
+       "La globalización desde abajo: La otra economía mundial"
+      ],
+      " (pp. 373-405). El Colegio de México-Fondo de Cultura Económica."
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "id": "t-redalyc_775646004_ref2",
+       "lang": "en"
+      },
+      "Al-Mohammad, H. (2015). Poverty beyond disaster in postinvasion Iraq: Ethics and the “rough ground” of the everyday. ",
+      [
+       "span",
+       {},
+       "Current Anthropology, 56"
+      ],
+      "(S11), S108-S115."
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "id": "t-redalyc_775646004_ref3"
+      },
+      "Alzaga, I. (2019, noviembre 19). Asesinados por ‘La Unión’, 12 líderes de comerciantes. ",
+      [
+       "span",
+       {},
+       "Milenio"
+      ],
+      ". ",
+      [
+       "a",
+       {
+        "href": "https://www.milenio.com/policia/asesinados-por-la-union-12-lideres-de-comerciantes"
+       },
+       "https://www.milenio.com/policia/asesinados-por-la-union-12-lideres-de-comerciantes"
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "id": "t-redalyc_775646004_ref4"
+      },
+      "Auyero, J. & Sobering, K. (2021). ",
+      [
+       "span",
+       {},
+       "Entre narcos y policías: Las relaciones clandestinas entre el Estado y el delito, y su impacto violento en la vida de las personas"
+      ],
+      ". Siglo XXI."
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "id": "t-redalyc_775646004_ref5"
+      },
+      "Barbosa, M. (2008). ",
+      [
+       "span",
+       {},
+       "El trabajo en las calles: Subsistencia y negociación política en la Ciudad de México a comienzos del siglo XX"
+      ],
+      ". El Colegio de México."
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "id": "t-redalyc_775646004_ref6",
+       "lang": "en"
+      },
+      "Becker, A. & Müller, M.-M. (2012). The securitization of urban space and the “rescue” of downtown Mexico City: Vision and practice. ",
+      [
+       "span",
+       {},
+       "Latin American Perspectives, 40"
+      ],
+      "(2), 77-94."
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "id": "t-redalyc_775646004_ref7"
+      },
+      "Benjamin, W. (2001). Para una crítica de la violencia. En ",
+      [
+       "span",
+       {},
+       "Para una crítica de la violencia y otros ensayos. Iluminaciones IV"
+      ],
+      " (pp. 23-45). Taurus."
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "id": "t-redalyc_775646004_ref8"
+      },
+      "Berber, M. Á. (2017). Intermediarios violentos: el uso y la organización de la fuerza como negocio en Ayutla de los Libres. ",
+      [
+       "span",
+       {},
+       "Estudios sociológicos"
+      ],
+      ", ",
+      [
+       "span",
+       {},
+       "35"
+      ],
+      "(104), 267-291."
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "id": "t-redalyc_775646004_ref9",
+       "lang": "en"
+      },
+      "Brenner, N. & Theodore, N. (2002). Cities and geographies of actually existing neoliberalism. ",
+      [
+       "span",
+       {},
+       "Antipode, 34"
+      ],
+      "(3), 349-379."
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "id": "t-redalyc_775646004_ref10"
+      },
+      "Castmar, P. (2025). Memorias de La Meche: Fotorrelato de una mujer comerciante de los mercados de La Merced, Ciudad de México. ",
+      [
+       "span",
+       {},
+       "Espacialidades, 15"
+      ],
+      "(1), 151-179."
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "id": "t-redalyc_775646004_ref11"
+      },
+      "Castro Nieto, G. (1990). Intermediarismo político y sector informal: El comercio ambulante en Tepito. ",
+      [
+       "span",
+       {},
+       "Nueva Antropología, 11"
+      ],
+      "(37), 59-69."
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "id": "t-redalyc_775646004_ref12",
+       "lang": "en"
+      },
+      "Corantin, K. (2024). Violence and precarization of popular housing in Medellín, predatory accumulation as the matrix of urban production. ",
+      [
+       "span",
+       {},
+       "Métropoles"
+      ],
+      ", (34). ",
+      [
+       "a",
+       {
+        "href": "https://doi.org/10.4000/11tyn"
+       },
+       "https://doi.org/10.4000/11tyn"
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "id": "t-redalyc_775646004_ref13"
+      },
+      "Cross, J. C. (1997). Debilitando al clientelismo: la formalización del ambulantaje en la ciudad de México. ",
+      [
+       "span",
+       {},
+       "Revista Mexicana de Sociología"
+      ],
+      ", 93-115."
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "id": "t-redalyc_775646004_ref14",
+       "lang": "en"
+      },
+      "Cross, J. (1998). ",
+      [
+       "span",
+       {},
+       "Informal politics: Street vendors and the state in Mexico City"
+      ],
+      ". Stanford University Press."
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "id": "t-redalyc_775646004_ref15",
+       "lang": "en"
+      },
+      "Crossa Niell, V. (2009). Resisting the entrepreneurial city: Street vendors’ struggle in Mexico City’s Historic Center. ",
+      [
+       "span",
+       {},
+       "International Journal of Urban and Regional Research, 33"
+      ],
+      "(1), 43-63."
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "id": "t-redalyc_775646004_ref16"
+      },
+      "Crossa Niell, V. (2018). ",
+      [
+       "span",
+       {},
+       "Luchando por un espacio en la Ciudad de México"
+      ],
+      ". El Colegio de México."
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "id": "t-redalyc_775646004_ref17"
+      },
+      "Dammert-Guardia, M., Torres-Obregón, D. & Aiquipa-Zavala, A. (2025). Dinámicas inmobiliarias en los márgenes: traficantes de tierra como promotores de suelo urbano (Perú). ",
+      [
+       "span",
+       {},
+       "Revista INVI"
+      ],
+      ", ",
+      [
+       "span",
+       {},
+       "40"
+      ],
+      "(114), 39-67."
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "id": "t-redalyc_775646004_ref18"
+      },
+      "Das, V. & Poole, D. (2008). El estado y sus márgenes. Etnografías comparadas. ",
+      [
+       "span",
+       {},
+       "Cuadernos de Antropología Social, 27"
+      ],
+      ", 19-52."
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "id": "t-redalyc_775646004_ref19",
+       "lang": "en"
+      },
+      "Davis, D. (2006). The age of insecurity: Violence and social disorder in the new Latin America. ",
+      [
+       "span",
+       {},
+       "Latin American Research Review, 41"
+      ],
+      "(1), 178-197."
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "id": "t-redalyc_775646004_ref20"
+      },
+      "Davis, D. (2007). El factor Giuliani: Delincuencia, la “cero tolerancia” en el trabajo policiaco y la transformación de la esfera pública en el centro de la Ciudad de México. ",
+      [
+       "span",
+       {},
+       "Estudios Sociológicos, 25"
+      ],
+      "(3), 639-681."
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "id": "t-redalyc_775646004_ref21"
+      },
+      "De Mattos, C. A. (2007). Globalización, negocios inmobiliarios y transformación urbana. ",
+      [
+       "span",
+       {},
+       "Nueva Sociedad, 212"
+      ],
+      ", 82-96."
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "id": "t-redalyc_775646004_ref22"
+      },
+      "Delgadillo, V. (2011). Indígenas, vivienda y trabajo en el centro histórico de la ciudad de México. En J. Guadarrama García, V. Delgadillo y F. Fonseca Figuereido (Coords.), Territorios y Sociedades en un Mundo en Cambio (pp. 219-248).Universidad Nacional Autónoma de México."
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "id": "t-redalyc_775646004_ref23"
+      },
+      "Delgadillo, V. (2021). Financiarización de la vivienda y de la (re)producción del espacio urbano. ",
+      [
+       "span",
+       {},
+       "Revista INVI, 36"
+      ],
+      "(103), 1-18."
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "id": "t-redalyc_775646004_ref24"
+      },
+      "Díaz Cruz, A. (2019a). ",
+      [
+       "span",
+       {},
+       "Economías de la inseguridad: Violencia, Estado y (des)orden local"
+      ],
+      " [Tesis de doctorado, El Colegio de México]."
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "id": "t-redalyc_775646004_ref25"
+      },
+      "Díaz Cruz, A. (2019b). Semiótica de la privatización de la seguridad: Vigilantismo e inseguridad en Tepito. ",
+      [
+       "span",
+       {},
+       "Nueva Antropología, 32"
+      ],
+      "(91), 44-58."
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "id": "t-redalyc_775646004_ref26"
+      },
+      "Fiscalía General de Justicia de la Ciudad de México (2022). ",
+      [
+       "span",
+       {},
+       "Plan de política criminal 2022"
+      ],
+      ". ",
+      [
+       "a",
+       {
+        "href": "https://www.fgjcdmx.gob.mx/micrositios/consejo-ciudadano/plan-de-politica-criminal-y-programa-de-persecucion-penal"
+       },
+       "https://www.fgjcdmx.gob.mx/micrositios/consejo-ciudadano/plan-de-politica-criminal-y-programa-de-persecucion-penal"
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "id": "t-redalyc_775646004_ref27"
+      },
+      "Fiscalía General de Justicia de la Ciudad de México (2023). ",
+      [
+       "span",
+       {},
+       "Plan de política criminal 2023"
+      ],
+      ". ",
+      [
+       "a",
+       {
+        "href": "https://www.fgjcdmx.gob.mx/storage/app/media/PDFs/Plan%20de%20Politica%20Criminal%202023v3101_.pdf"
+       },
+       "https://www.fgjcdmx.gob.mx/storage/app/media/PDFs/Plan%20de%20Politica%20Criminal%202023v3101_.pdf"
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "id": "t-redalyc_775646004_ref28"
+      },
+      "Fuentes, D. (2019a, enero 15). Unión Tepito invade predios en tres alcaldías. ",
+      [
+       "span",
+       {},
+       "El Universal"
+      ],
+      ". ",
+      [
+       "a",
+       {
+        "href": "https://www.eluniversal.com.mx/metropoli/union-tepito-invade-predios-en-tres-alcaldia"
+       },
+       "https://www.eluniversal.com.mx/metropoli/union-tepito-invade-predios-en-tres-alcaldia"
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "id": "t-redalyc_775646004_ref29"
+      },
+      "Fuentes, D. (2019b, enero 23). Crece invasión de predios por la Unión Tepito, denuncian organizaciones. ",
+      [
+       "span",
+       {},
+       "El Universal"
+      ],
+      ". ",
+      [
+       "a",
+       {
+        "href": "https://www.eluniversal.com.mx/metropoli/cdmx/crece-invasion-de-predios-por-la-union-tepito-denuncian-organizaciones"
+       },
+       "https://www.eluniversal.com.mx/metropoli/cdmx/crece-invasion-de-predios-por-la-union-tepito-denuncian-organizaciones"
+      ],
+      "/"
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "id": "t-redalyc_775646004_ref30"
+      },
+      "Gago, V. & Mezzadra, S. (2015). Para una crítica de las operaciones extractivas del capital: Patrón de acumulación y luchas sociales en el tiempo de la financiarización. ",
+      [
+       "span",
+       {},
+       "Nueva Sociedad, 255"
+      ],
+      ", 38-52."
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "id": "t-redalyc_775646004_ref31"
+      },
+      "Giglia, Á. (2013). Entre el bien común y la ciudad insular: La renovación urbana en la Ciudad de México. ",
+      [
+       "span",
+       {},
+       "Alteridades, 25"
+      ],
+      "(46), 27-58."
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "id": "t-redalyc_775646004_ref32"
+      },
+      "Grigera, J. & Álvarez, L. (2013). Extractivismo y acumulación por desposesión: Un análisis de las explicaciones sobre agronegocios, megaminería y territorio en la Argentina de la posconvertibilidad. ",
+      [
+       "span",
+       {},
+       "Theomai, "
+      ],
+      "(27-28), 80-97."
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "id": "t-redalyc_775646004_ref33"
+      },
+      "Haesbaert, R. (2011). ",
+      [
+       "span",
+       {},
+       "El mito de la desterritorialización: Del “fin de los territorios” a la multiterritorialidad"
+      ],
+      ". Siglo XXI."
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "id": "t-redalyc_775646004_ref34",
+       "lang": "en"
+      },
+      "Hall, D. (2023). ‘Commodification of everything’arguments in the social sciences: Variants, specification, evaluation, critique. ",
+      [
+       "span",
+       {},
+       "Environment and Planning A: Economy and Space"
+      ],
+      ", ",
+      [
+       "span",
+       {},
+       "55"
+      ],
+      "(3), 544-561."
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "id": "t-redalyc_775646004_ref35",
+       "lang": "en"
+      },
+      "Hansen, T. B. & Stepputat, F. (2005). Introduction. In T. B. Hansen & F. Stepputat (Coords.), ",
+      [
+       "span",
+       {},
+       "Sovereign bodies: Citizens, migrants and states in the postcolonial world"
+      ],
+      " (pp. 1-36). Princeton University Press."
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "id": "t-redalyc_775646004_ref36"
+      },
+      "Harvey, D. (2004). ",
+      [
+       "span",
+       {},
+       "El nuevo imperialismo"
+      ],
+      ". Akal."
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "id": "t-redalyc_775646004_ref37"
+      },
+      "Harvey, D. (2007). ",
+      [
+       "span",
+       {},
+       "Espacios del capital: Hacia una geografía crítica"
+      ],
+      ". Akal."
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "id": "t-redalyc_775646004_ref38"
+      },
+      "Harvey, D. (2014). ",
+      [
+       "span",
+       {},
+       "Diecisiete contradicciones y el fin del capitalismo"
+      ],
+      ". IAEN."
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "id": "t-redalyc_775646004_ref39"
+      },
+      "\n",
+      [
+       "span",
+       {},
+       "Infobae"
+      ],
+      " (2021, 4 de marzo). ",
+      [
+       "span",
+       {},
+       "Así opera el grupo que se dedica al despojo de viviendas en el Centro Histórico"
+      ],
+      ". ",
+      [
+       "a",
+       {
+        "href": "https://www.infobae.com/america/mexico/2021/03/04/asi-opera-el-grupo-que-se-dedica-al-despojo-de-viviendas-en-el-centro-historico"
+       },
+       "https://www.infobae.com/america/mexico/2021/03/04/asi-opera-el-grupo-que-se-dedica-al-despojo-de-viviendas-en-el-centro-historico"
+      ],
+      "/"
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "id": "t-redalyc_775646004_ref40"
+      },
+      "Jaramillo, N. (2007). Comercio y espacio público. Una organización de ambulantes en la Alameda Central. ",
+      [
+       "span",
+       {},
+       "Alteridades, 17"
+      ],
+      "(34), 137-153."
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "id": "t-redalyc_775646004_ref41",
+       "lang": "en"
+      },
+      "Koonings, K. & Kruijt, D. (Eds.) (2007). ",
+      [
+       "span",
+       {},
+       "Fractured cities: social exclusion, urban violence and contested spaces in Latin America"
+      ],
+      ". Zed Books."
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "id": "t-redalyc_775646004_ref42"
+      },
+      "Lomnitz, C. (2022). ",
+      [
+       "span",
+       {},
+       "El tejido social rasgado"
+      ],
+      ". Era."
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "id": "t-redalyc_775646004_ref43"
+      },
+      "Martínez, A. (2021, 22 de noviembre). ",
+      [
+       "span",
+       {},
+       "Mafia “arrebata” predios en el Centro Histórico de CdMx para construir plazas"
+      ],
+      ". ",
+      [
+       "span",
+       {},
+       "Milenio"
+      ],
+      ". ",
+      [
+       "a",
+       {
+        "href": "https://www.milenio.com/politica/cdmx-mafia-arrebata-predios-centro-construir-plazas"
+       },
+       "https://www.milenio.com/politica/cdmx-mafia-arrebata-predios-centro-construir-plazas"
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "id": "t-redalyc_775646004_ref44"
+      },
+      "Marx, K. (1974). ",
+      [
+       "span",
+       {},
+       "El capital. Crítica de la economía política"
+      ],
+      ". Vol. 1. Trad. W. Roces. Fondo de Cultura Económica."
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "id": "t-redalyc_775646004_ref45"
+      },
+      "Mendoza, N. (2018). La privatización de la ilegalidad. En F. Escalante (Comp.), ",
+      [
+       "span",
+       {},
+       "Si persisten las molestias: Noticias de algunos casos de ceguera ilustrada"
+      ],
+      " (pp. 27-51). Ediciones Cal y Arena."
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "id": "t-redalyc_775646004_ref46"
+      },
+      "Meneses Reyes, R. (2011). ",
+      [
+       "span",
+       {},
+       "Legalidades públicas: El derecho, el ambulantaje y las calles en el centro de la Ciudad de México (1930-2010)"
+      ],
+      ". Universidad Nacional Autónoma de México; Centro de Investigación y Docencia Económicas."
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "id": "t-redalyc_775646004_ref47"
+      },
+      "Moctezuma Mendoza, V. (2016). El desplazamiento de lo posible: experiencia popular y gentrificación en el Centro Histórico de Ciudad de México. ",
+      [
+       "span",
+       {},
+       "Íconos-Revista de Ciencias Sociales"
+      ],
+      ", (56), 83-102."
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "id": "t-redalyc_775646004_ref48"
+      },
+      "Moctezuma Mendoza, V. (2021). ",
+      [
+       "span",
+       {},
+       "El desvanecimiento de lo popular: Gentrificación en el Centro Histórico de la Ciudad de México"
+      ],
+      ". El Colegio de México, Centro de Investigaciones y Estudios Superiores en Antropología Social."
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "id": "t-redalyc_775646004_ref49"
+      },
+      "Moctezuma Mendoza, V. (2022). “¡Si no, la ciudad te come!” Solidaridad en el suelo áspero de la marginalidad urbana contemporánea. En M. Camarena & V. Moctezuma (Comps.), ",
+      [
+       "span",
+       {},
+       "Ciudad de México: Miradas, experiencias y posibilidades "
+      ],
+      "(pp. 373-400). Universidad Nacional Autónoma de México, Instituto de Investigaciones Sociales."
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "id": "t-redalyc_775646004_ref50"
+      },
+      "Moctezuma Mendoza, V. (2023). Vulnerabilidad y violencia en el comercio popular, Ciudad de México. ",
+      [
+       "span",
+       {},
+       "Revista Mexicana de Sociología, 85"
+      ],
+      "(1), 167-197."
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "id": "t-redalyc_775646004_ref51",
+       "lang": "en"
+      },
+      "Moncada, E. (2019). Resisting protection: Rackets, resistance, and state building. ",
+      [
+       "span",
+       {},
+       "Comparative politics"
+      ],
+      ", ",
+      [
+       "span",
+       {},
+       "51"
+      ],
+      "(3), 321-339."
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "id": "t-redalyc_775646004_ref52"
+      },
+      "Negrete, M. P., Guzmán, J. C. M., Monter, I. A. & De la Garza, M. M. (2024). ",
+      [
+       "span",
+       {},
+       "Megaproyectos e intervenciones urbanas en la ZMVM"
+      ],
+      ". CIESAS/UAM."
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "id": "t-redalyc_775646004_ref53",
+       "lang": "en"
+      },
+      "Nuijten, M. (2003). ",
+      [
+       "span",
+       {},
+       "Power, community and the state: the political anthropology of organisation in Mexico"
+      ],
+      ". Pluto Books."
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "id": "t-redalyc_775646004_ref54"
+      },
+      "Pérez, M. X. (2025, 4 de diciembre). ",
+      [
+       "span",
+       {},
+       "Denuncian nuevas irregularidades en desalojo de Cuba 11 en el Centro Histórico de la CDMX"
+      ],
+      ". ",
+      [
+       "span",
+       {},
+       "La Jornada"
+      ],
+      ". ",
+      [
+       "a",
+       {
+        "href": "https://www.jornada.com.mx/noticia/2025/12/04/capital/denuncian-nuevas-irregularidades-en-el-desalojo-de-cuba-11-es-un-despojo"
+       },
+       "https://www.jornada.com.mx/noticia/2025/12/04/capital/denuncian-nuevas-irregularidades-en-el-desalojo-de-cuba-11-es-un-despojo"
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "id": "t-redalyc_775646004_ref55"
+      },
+      "Permanecer en La Merced (2023, 18 de julio). ",
+      [
+       "span",
+       {},
+       "Denuncia de Comerciantes de la Plaza San Ciprián (La Merced) contra abusos, extorsiones y despojos"
+      ],
+      ". ",
+      [
+       "a",
+       {
+        "href": "https://permanecerenlamerced.wordpress.com/2023/07/18/denuncia-de-comerciantes-de-la-plaza-san-ciprian-la-merced-contra-abusos-extorsiones-y-despojos"
+       },
+       "https://permanecerenlamerced.wordpress.com/2023/07/18/denuncia-de-comerciantes-de-la-plaza-san-ciprian-la-merced-contra-abusos-extorsiones-y-despojos"
+      ],
+      "/"
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "id": "t-redalyc_775646004_ref56"
+      },
+      "Pita, M. V. (2019). Hostigamiento policial o de las formas de la violencia en barrios populares de la Ciudad de Buenos Aires. Relato de una investigación. ",
+      [
+       "span",
+       {},
+       "Desacatos. Revista de Ciencias Sociales, 60"
+      ],
+      ", 78-93."
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "id": "t-redalyc_775646004_ref57"
+      },
+      "Polanyi, K. (1992). ",
+      [
+       "span",
+       {},
+       "La gran transformación. Los orígenes políticos y económicos de nuestro tiempo"
+      ],
+      ". ",
+      [
+       "span",
+       {}
+      ],
+      "Fondo de Cultura Económica."
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "id": "t-redalyc_775646004_ref58"
+      },
+      "Rivera, G. (2025, 21 de septiembre). ",
+      [
+       "span",
+       {},
+       "Les robaron todo, menos el aguante: Las familias de Cuba 11 resisten al despojo"
+      ],
+      ". ",
+      [
+       "span",
+       {},
+       "Milenio"
+      ],
+      ". ",
+      [
+       "a",
+       {
+        "href": "https://www.milenio.com/comunidad/desalojos-cdmx-familias-cuba-11-resisten-airbnb"
+       },
+       "https://www.milenio.com/comunidad/desalojos-cdmx-familias-cuba-11-resisten-airbnb"
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "id": "t-redalyc_775646004_ref59"
+      },
+      "Rolnik, R., Guerreiro, I. de A. & Marín-Toro, A. (2021). El arriendo formal e informal como nueva frontera de la financiarización de la vivienda en América Latina. ",
+      [
+       "span",
+       {},
+       "Revista INVI, 36"
+      ],
+      "(103), 19-53."
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "id": "t-redalyc_775646004_ref60",
+       "lang": "en"
+      },
+      "Roy, A. (2005). Urban informality: Toward an epistemology of planning. ",
+      [
+       "span",
+       {},
+       "Journal of the American Planning Association, 71"
+      ],
+      "(2), 147-158."
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "id": "t-redalyc_775646004_ref61",
+       "lang": "en"
+      },
+      "Sadowski, J. (2020). The internet of landlords: Digital platforms and new mechanisms of rentier capitalism. ",
+      [
+       "span",
+       {},
+       "Antipode"
+      ],
+      ", ",
+      [
+       "span",
+       {},
+       "52"
+      ],
+      "(2), 562-580."
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "id": "t-redalyc_775646004_ref62"
+      },
+      "Santa Cruz, D. (2016). Franquicias para el delito: De la economía criminal a la economía legal en manos criminales. ",
+      [
+       "span",
+       {},
+       "Nueva sociedad"
+      ],
+      ", (263), 107."
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "id": "t-redalyc_775646004_ref63",
+       "lang": "en"
+      },
+      "Sayer, A. (2023). Rentiership, improperty and moral economy. ",
+      [
+       "span",
+       {},
+       "Environment and Planning A: Economy and Space"
+      ],
+      ", ",
+      [
+       "span",
+       {},
+       "55"
+      ],
+      "(6), 1471-1484."
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "id": "t-redalyc_775646004_ref64"
+      },
+      "Silva, D. (2010). Comercio ambulante en el Centro Histórico de la ciudad de México (1990-2007). ",
+      [
+       "span",
+       {},
+       "Revista Mexicana de Sociología, 72"
+      ],
+      "(2), 195-224."
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "id": "t-redalyc_775646004_ref65",
+       "lang": "en"
+      },
+      "Streule, M. (2023). Urban extractivism: Contesting megaprojects in Mexico City, rethinking urban values. ",
+      [
+       "span",
+       {},
+       "Urban Geography, 44"
+      ],
+      "(1), 262-271."
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "id": "t-redalyc_775646004_ref66"
+      },
+      "Svampa, M. & Viale, E. (2014). ",
+      [
+       "span",
+       {},
+       "Maldesarrollo: La Argentina del extractivismo y el despojo"
+      ],
+      ". Katz Editores."
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "id": "t-redalyc_775646004_ref67",
+       "lang": "en"
+      },
+      "Taussing, M. (1984). “Culture of Terror-Space of Death. Roger Casement's Putumayo Report and the Explanation of Torture”. ",
+      [
+       "span",
+       {},
+       "Comparative Studies in Society and History, 26"
+      ],
+      "(3), 467-497."
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "id": "t-redalyc_775646004_ref68"
+      },
+      "Walsh, A. (2013). Commodification. ",
+      [
+       "span",
+       {},
+       "International Encyclopedia of Ethics"
+      ],
+      "."
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "Notas"
+     ],
+     "\n",
+     [
+      "span",
+      {
+       "id": "t-fn1"
+      },
+      "\n",
+      [
+       "span",
+       {},
+       "1"
+      ],
+      " Entiendo el territorio no como un área, sino como un entramado de relaciones de poder entre objetos y agentes, que configura formas de dominio y apropiación del espacio, pero que no excluye otras tramas territoriales con las que compite, se solidariza o antagoniza (",
+      [
+       "a",
+       {
+        "href": "#t-redalyc_775646004_ref33",
+        "id": "t-llamada-redalyc_775646004_ref33-1"
+       },
+       "Haesbaert, 2011"
+      ],
+      ")."
+     ],
+     "\n",
+     "\n",
+     [
+      "p",
+      {},
+      "\n",
+      [
+       "span",
+       {},
+       "Recepción: "
+      ],
+      " 01 marzo  2026"
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "\n",
+      [
+       "span",
+       {},
+       "Aprobación: "
+      ],
+      " 01 abril  2026"
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "\n",
+      [
+       "span",
+       {},
+       "Publicación: "
+      ],
+      " 01 agosto  2026"
+     ],
+     "\n",
+     [
+      "br",
+      {}
+     ],
+     "\n",
+     [
+      "br",
+      {}
+     ],
+     "\n",
+     "\n",
+     [
+      "a",
+      {
+       "href": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      " ",
+      [
+       "figura",
+       {
+        "alt": "Imagen"
+       }
+      ],
+      " Obra bajo Licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional"
+     ],
+     "\n",
+     [
+      "figura",
+      {
+       "alt": "Imagen"
+      }
+     ],
+     "\n",
+     "\n",
+     "\n",
+     [
+      "span",
+      {
+       "id": "t-logo-derecha"
+      },
+      "\n",
+      [
+       "a",
+       {
+        "href": "https://www.fahce.unlp.edu.ar/facultad/secretarias-y-prosecretarias/prosecretaria-de-gestion-editorial-y-difusion/ediciones-de-la-fahce"
+       },
+       " \n",
+       [
+        "figura",
+        {
+         "alt": "ediciones_fahce"
+        }
+       ],
+       "\n"
+      ],
+      "\n"
+     ],
+     "\n\n",
+     [
+      "span",
+      {
+       "id": "t-creditos"
+      },
+      "\n",
+      [
+       "span",
+       {},
+       [
+        "figura",
+        {}
+       ],
+       [
+        "sup",
+        {},
+        "Ediciones de la FaHCE utiliza"
+       ],
+       [
+        "a",
+        {
+         "href": "http://portal.amelica.org/ameli"
+        },
+        [
+         "figura",
+         {}
+        ]
+       ],
+       " ",
+       [
+        "figura",
+        {}
+       ]
+      ],
+      [
+       "br",
+       {}
+      ],
+      "\n",
+      "\n"
+     ],
+     "\n"
+    ]
+   ]
+  ]
+ ]
+};

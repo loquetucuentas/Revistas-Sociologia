@@ -1,0 +1,3038 @@
+// Copia de textos/10-32399-icsyh-bvbuap-2954-4300-2026-7-14-857.json para abrir la aplicación sin servidor.
+(window.DATOS_REVISTAS = window.DATOS_REVISTAS || {})["textos/10-32399-icsyh-bvbuap-2954-4300-2026-7-14-857.json"] = {
+ "version": 1,
+ "recogido": "2026-10-18T11:37:32+00:00",
+ "doi": "10.32399/icsyh.bvbuap.2954-4300.2026.7.14.857",
+ "titulo": "Empoderando el pluriverso: posibilidades y retos para las transiciones energéticas decoloniales en la Sierra Norte de Puebla, México",
+ "revista": "2954-4300",
+ "numero": "2026",
+ "licencia": {
+  "codigo": "by-nc-sa",
+  "nombre": "CC BY-NC-SA 4.0",
+  "nombre_completo": "Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional",
+  "url": "https://creativecommons.org/licenses/by-nc-sa/4.0",
+  "url_legal": "https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.es"
+ },
+ "fuente": {
+  "url": "https://bajoelvolcanx.buap.mx/index.php/bajovolc/article/download/857/774?inline=1",
+  "formato": "HTML",
+  "plataforma": "ojs-galerada",
+  "pagina": "https://bajoelvolcanx.buap.mx/index.php/bajovolc/article/view/857"
+ },
+ "autores_cita": [
+  {
+   "apellidos": "Post",
+   "nombre_pila": "Erik",
+   "nombre": null
+  },
+  {
+   "apellidos": "Rosas Pérez",
+   "nombre_pila": "Marisol",
+   "nombre": null
+  },
+  {
+   "apellidos": "Hernández Pérez",
+   "nombre_pila": "Lázaro",
+   "nombre": null
+  },
+  {
+   "apellidos": "Mora Báez",
+   "nombre_pila": "María Edith",
+   "nombre": null
+  },
+  {
+   "apellidos": "Sánchez Martínez",
+   "nombre_pila": "Bardomiano",
+   "nombre": null
+  },
+  {
+   "apellidos": "Crisóstomo Salgado",
+   "nombre_pila": "Luis Mario",
+   "nombre": null
+  },
+  {
+   "apellidos": "González García",
+   "nombre_pila": "Eugenia",
+   "nombre": null
+  }
+ ],
+ "avisos_derechos": [
+  "Derechos de autor 2026 Erik Post, Marisol Rosas Pérez, Lázaro Hernández Pérez, María Edith Mora Báez, Bardomiano Sánchez Martínez, Luis Mario Crisóstomo Salgado, Eugenia González García",
+  "Licencia Derechos de autor 2026 Erik Post, Marisol Rosas Pérez, Lázaro Hernández Pérez, María Edith Mora Báez, Bardomiano Sánchez Martínez, Luis Mario Crisóstomo Salgado, Eugenia González García Esta obra está bajo una licencia internacional Creative Commons Atribución-NoComercial-CompartirIgual 4.0. Las autoras y los autores conservan los derechos de autor sobre su obra y ceden a Bajo el Volcán. Revista del Posgrado de Sociología. BUAP únicamente el derecho de primera publicación. Revista de acceso abierto diamante: sin costo para autoras, autores ni personas lectoras."
+ ],
+ "idioma_principal": "es",
+ "indice": [
+  {
+   "id": "t-seccion-1",
+   "nivel": 2,
+   "texto": "Empoderando el pluriverso: posibilidades y retos para las transiciones energéticas decoloniales en la Sierra Norte de Puebla, México1",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-2",
+   "nivel": 3,
+   "texto": "INTRODUCCIÓN",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-3",
+   "nivel": 3,
+   "texto": "ENERGÍA, EXTRACTIVISMOS Y TRANSICIONES ENERGÉTICAS DECOLONIALES",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-4",
+   "nivel": 3,
+   "texto": "DE LA DEFENSA DEL TERRITORIO A LA CONSTRUCCIÓN DE “PLANES DE VIDA”",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-5",
+   "nivel": 3,
+   "texto": "ENERGÍA PARA EL YEKNEMILIS COMO PROYECTO DE VIDA",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-6",
+   "nivel": 3,
+   "texto": "CONTINUACIÓN Y CONSOLIDACIÓN DEL PROYECTO",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-7",
+   "nivel": 3,
+   "texto": "POSIBILIDADES Y RETOS PARA LAS TRANSICIONES ENERGÉTICAS DECOLONIALES",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-8",
+   "nivel": 3,
+   "texto": "CONCLUSIONES",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-9",
+   "nivel": 3,
+   "texto": "REFERENCIAS",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-10",
+   "nivel": 3,
+   "texto": "NOTAS",
+   "lang": null
+  }
+ ],
+ "vueltas": {},
+ "contenido": [
+  "\n",
+  [
+   "section",
+   {},
+   "\n",
+   [
+    "strong",
+    {},
+    [
+     "em",
+     {},
+     "Bajo el Volcán. Revista del Posgrado de Sociología. BUAP"
+    ]
+   ],
+   ", Año 7, Núm. 14, mayo – octubre de 2026, pp. 338-386.",
+   [
+    "br",
+    {}
+   ],
+   "e-ISSN 2954-4300 · ",
+   [
+    "a",
+    {
+     "href": "https://doi.org/10.32399/ICSYH.bvbuap.2954-4300.2026.7.14.857"
+    },
+    "https://doi.org/10.32399/ICSYH.bvbuap.2954-4300.2026.7.14.857"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Luchas sociales y coyunturas políticas"
+   ],
+   "\n",
+   [
+    "h2",
+    {
+     "id": "t-seccion-1"
+    },
+    "Empoderando el pluriverso: posibilidades y retos para las transiciones energéticas decoloniales en la Sierra Norte de Puebla, México",
+    [
+     "sup",
+     {},
+     [
+      "a",
+      {
+       "id": "t-fnref1",
+       "href": "#t-fn1"
+      },
+      "1"
+     ]
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Empowering the pluriverse: Possibilities and challenges for decolonial energy transitions in the Sierra Norte de Puebla, Mexico"
+   ],
+   "\n",
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    [
+     "span",
+     {},
+     "Erik Post"
+    ],
+    [
+     "br",
+     {}
+    ],
+    [
+     "span",
+     {},
+     "University of British Columbia, Vancouver, Canadá"
+    ],
+    [
+     "br",
+     {}
+    ],
+    [
+     "span",
+     {},
+     "ORCID: ",
+     [
+      "a",
+      {
+       "href": "https://orcid.org/0000-0002-0085-0182"
+      },
+      "https://orcid.org/0000-0002-0085-0182"
+     ]
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    [
+     "span",
+     {},
+     "Marisol Rosas Pérez"
+    ],
+    [
+     "br",
+     {}
+    ],
+    [
+     "span",
+     {},
+     "Unión de Cooperativas Tosepan, Cuetzalan, México"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    [
+     "span",
+     {},
+     "Lázaro Hernández Pérez"
+    ],
+    [
+     "br",
+     {}
+    ],
+    [
+     "span",
+     {},
+     "Unión de Cooperativas Tosepan, Cuetzalan, México"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    [
+     "span",
+     {},
+     "María Edith Mora Báez"
+    ],
+    [
+     "br",
+     {}
+    ],
+    [
+     "span",
+     {},
+     "Unión de Cooperativas Tosepan, Cuetzalan, México"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    [
+     "span",
+     {},
+     "Bardomiano Sánchez Martínez"
+    ],
+    [
+     "br",
+     {}
+    ],
+    [
+     "span",
+     {},
+     "Unión de Cooperativas Tosepan, Cuetzalan, México"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    [
+     "span",
+     {},
+     "Luis Mario Crisóstomo Salgado"
+    ],
+    [
+     "br",
+     {}
+    ],
+    [
+     "span",
+     {},
+     "Unión de Cooperativas Tosepan, Cuetzalan, México"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    [
+     "span",
+     {},
+     "Eugenia González García"
+    ],
+    [
+     "sup",
+     {},
+     [
+      "a",
+      {
+       "id": "t-fnref2",
+       "href": "#t-fn2"
+      },
+      "2"
+     ]
+    ],
+    [
+     "sup",
+     {},
+     [
+      "a",
+      {
+       "id": "t-fnref3",
+       "href": "#t-fn3"
+      },
+      "3"
+     ]
+    ],
+    [
+     "br",
+     {}
+    ],
+    [
+     "span",
+     {},
+     "Unión de Cooperativas Tosepan, Cuetzalan, México"
+    ]
+   ],
+   "\n",
+   "\n",
+   [
+    "p",
+    {},
+    "Recibido: 09/08/2025 "
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Aceptado: 24/03/2026"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "RESUMEN"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "A través de un análisis situado del proyecto “Energía para el yeknemilis”, que ejecuta la Unión de Cooperativas Tosepan Titataniske en la Sierra Norte de Puebla, México, argumentamos que las transiciones energéticas pueden articular una praxis decolonial. Con base en ocho meses de investigación-acción participativa que involucró la colaboración entre un investigador europeo y el equipo de investigadores comunitarios sentipensantes del proyecto, hacemos dos contribuciones a la literatura relacionada con las transiciones energéticas y la praxis decolonial. Aportamos evidencia empírica para fundamentar las críticas decoloniales a la justicia ambiental, climática y energética y proponemos que el proyecto desafía la colonialidad presente en los discursos sobre la transición energética y los proyectos de transición “verde”. Discutimos cómo el proyecto contribuye a la construcción de un modelo de gestión energética rural, liderado por indígenas, orientado a lograr la soberanía energética y hacer realidad el yeknemilis o el xatlaan latamaat, que son articulaciones locales del Buen Vivir. También analizamos posibilidades y retos para las transformaciones decoloniales ilustradas por el proyecto con la intención de fortalecerlo y aportar reflexiones para quienes luchan por modelos energéticos que sustenten la vida, alimentando la autodeterminación de los pueblos y las comunidades indígenas y mestizos."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    [
+     "em",
+     {},
+     "Palabras clave:"
+    ],
+    " Transición energética, justicia energética, justicia climática, pluriverso, yeknemilis."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "ABSTRACT"
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Through a situated analysis of the “Energía para yeknemilis project,” which is executed by the Union of Cooperatives Tosepan Titataniske in the Sierra Norte de Puebla, Mexico, we argue that energy transitions can articulate decolonial praxis. Based on eight months of collaborative participatory action research involving a European researcher and the project’s team of investigadores comunitaries sentipensantes, we make two contributions to the literature concerned with energy transitions and decolonial praxis. We provide empirical evidence to substantiate decolonial critiques of environmental, climate, and energy justice, and we propose that the project challenges the coloniality present in most of the current energy transition discourses and “green” transition projects. To do so, we discuss how the project contributes to constructing an Indigenous-led and rural energy regime oriented towards achieving energy sovereignty and realizing yeknemilis / xatlaan latamaat, which are local articulations of Buen Vivir. We also analyze some of the possibilities and limits to decolonial transformations that the project illustrates to strengthen the project and provide reflections for others struggling towards energy regimes that sustain life and power Indigenous self-determination."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    [
+     "em",
+     {},
+     "Key words"
+    ],
+    ": Energy transition, energy justice, climate justice, pluriverse, yeknemilis."
+   ],
+   "\n",
+   [
+    "h3",
+    {
+     "id": "t-seccion-2"
+    },
+    "INTRODUCCIÓN"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Frente a las trayectorias genocidas y ecocidas de la colonialidad climática, resulta urgente articular críticas decoloniales a las nociones dominantes de justicia ambiental, climática y energética (Dunlap, 2021; Post, 2023a; Sultana, 2022b). La mayoría de las corporaciones y gobiernos propugnan “soluciones verdes” y “justas” al cambio climático basadas en el despliegue masivo de infraestructuras con bajas emisiones de carbono, rearticulando las lógicas coloniales, capitalistas y extractivistas, las cuales alimentan el cambio climático y apuntalan la continuación de las relaciones de poder hegemónicas (Bruna, 2022a; Temper et al., 2020; Verweijen y Dunlap, 2021). No obstante, estas infraestructuras energéticas no son únicamente instrumentos del imperio: están constantemente sujetas a disputa, reapropiación y transformación por parte de actores contrahegemónicos. En este sentido, pueden formar parte también de “la arquitectura esencial de la transición hacia un futuro decolonizado” (LaDuke y Cowen, 2020: 246)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "La experiencia de la Sierra Norte de Puebla, México, ilustra de forma elocuente esta problemática. En este territorio, las comunidades masewal, totonaca y mestiza han articulado una estrategia regional para defender con éxito sus territorios de las infraestructuras de energía baja en carbono y de hidrocarburos a gran escala, a las que se refieren como “proyectos de muerte” (Post, 2022, 2023b). A partir de más de 40 años de organización de una economía comunitaria, anticapitalista y solidaria a través la Unión de Cooperativas “Tosepan Titataniske” (“Unidos venceremos” en ",
+    [
+     "em",
+     {},
+     "masewaltahtol"
+    ],
+    "; en adelante Tosepan) y cuatro años de debates y diálogos, las comunidades predominantemente ",
+    [
+     "em",
+     {},
+     "masewalmeh"
+    ],
+    " de la Sierra Nororiental han desarrollado un “Plan de vida” conocido como el Códice Masewal (Tosepan, 2021b). Este documento propone un plan territorial estratégico de 40 años basado en la soberanía, la autonomía y el florecimiento indígenas con con el propósito de materializar el ",
+    [
+     "em",
+     {},
+     "yeknemilis"
+    ],
+    " / ",
+    [
+     "em",
+     {},
+     "xatlaan latamaat"
+    ],
+    ", una visión particular de Buenos Vivires (González Rosales y Julián, 2021). Entre sus líneas estratégicas se incluye la propuesta de alcanzarla “autonomía energética” y la “soberanía energética” en contraposición a la noción de justicia energética. En esta dirección, el proyecto “Energía para el ",
+    [
+     "em",
+     {},
+     "yeknemilis"
+    ],
+    " (Buen Vivir) en la Sierra Nororiental de Puebla” busca contribuir a dicha visión y avanzar hacia la autonomía y soberanía energéticas."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Basado en ocho meses de investigación-acción participativa y colaborativa (Fals-Borda, 1987) entre un investigador académico de ascendencia europea afiliado a una universidad norteamericana y el equipo de investigadores comunitarios sentipensantes del proyecto “Energía para el ",
+    [
+     "em",
+     {},
+     "yeknemilis"
+    ],
+    "”, este artículo sostiene que las transiciones energéticas pueden encarnar una praxis decolonial. El equipo de investigadores está conformado por personas masewales, totonacas y mestizas de entre 19 y 60 años de edad, con paridad de género, además de contar con diferentes orientaciones sexuales que pertenecen a las comunidades participantes en el proyecto. A través de un análisis situado del proyecto “Energía para el ",
+    [
+     "em",
+     {},
+     "yeknemilis"
+    ],
+    "”, este artículo hace dos contribuciones a la literatura académica relacionada con las transiciones energéticas y la praxis decolonial. (1) Ofrece evidencia empírica que sustenta las críticas decoloniales a la justicia ambiental, climática y energética; y (2) muestra cómo “Energía para el ",
+    [
+     "em",
+     {},
+     "yeknemilis"
+    ],
+    "” visibiliza seis posibilidades y seis retos para impulsar transformaciones decoloniales en la Sierra Norte de Puebla. Estas oportunidades y desafíos se identificaron a partir de entrevistas individuales con actores involucrados, dos sesiones colectivas de reflexión, el análisis de la “bitácora sentipensante” (véase reto 1) y las reflexiones escritas por algunos integrantes del equipo. Los resultados iniciales se presentaron durante una ponencia conjunta en el 9º Congreso Internacional de Geografías Críticas como parte del panel “Pluriversidades y transiciones energéticas”, en la Ciudad de México, que nutrió los resultados que se presentan a continuación. Al unir estos dos elementos, buscamos fortalecer el proyecto “Energía para el yeknemilis” y contribuir a la urgente tarea de construir y apoyar “sistemas energéticos autónomos, insurreccionales y de postdesarrollo” (Dunlap y Tornel, 2023: 1), sirviendo como ejemplo de una muy necesaria “insurrección de la investigación energética” (Dunlap, 2023: 340)."
+   ],
+   "\n",
+   [
+    "h3",
+    {
+     "id": "t-seccion-3"
+    },
+    "ENERGÍA, EXTRACTIVISMOS Y TRANSICIONES ENERGÉTICAS DECOLONIALES"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "La energía sustenta la vida. En consecuencia, la capacidad de controlarla y canalizarla es fundamental para “el dominio de lo antropopolítico, incluidos el biopoder, el capital y todas sus demás dimensiones de fuerza” (Boyer, 2019: 14). En los últimos años, la geografía ha mostrado un creciente interés por cómo los modelos energéticos son co-constitutivos de las relaciones de poder (Bridge et al., 2013; Bridge y Le Billon, 2017; Cederlöf, 2021; Huber y McCarthy, 2017; Tornel, 2023c). Bunker (1985) analiza cómo el metabolismo social de los centros metropolitanos capitalistas requiere de un suministro continuo y creciente de energía, lo que genera relaciones termodinámicas centro–periferia frecuentemente establecidas y mantenidas de forma violenta mediante dominación colonial o imperial. Estos procesos fueron dando lugar a modelos organizativos —los extractivismos— que se expandieron e intensificaron con la consolidación y profundización del sistema-mundo moderno, patriarcal, capitalista y colonial (Brand et al., 2016; Girvan, 2014; Post, 2023a)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Los extractivismos han operado —y continúan haciéndolo—a través de patrones coloniales de poder denominados “colonialidad” (Maldonado-Torres, 2007; Mignolo y Walsh, 2018; Quijano, 2014). , legitimando la simplificación violenta de la complejidad e interdependencia de la vida en función de la acumulación de capital (Alimonda, 2015; Gómez-Barris, 2017; Gudynas, 2021; Leff, 2021). Durante el siglo XIX, esa violenta abstracción permitió la invención de la termodinámica, que “produjo como verdad cósmica” la “epistemología occidental de la energía” (Daggett, 2019: 5; véase también, Lohmann, 2021). Conectar la termodinámica y el “descubrimiento” de los combustibles fósiles con los proyectos imperiales alimentó “una economía de crecimiento autosostenido basada en el consumo creciente de combustibles fósiles” (Malm, 2016: 11). Dado que el sistema que causa el cambio climático antropocéntrico surgió de estas estructuras coloniales e imperiales y coevolucionó con ellas, Curley (2023: 184) sostiene que “las relaciones coloniales engendraron las relaciones del carbono”."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Ante las consecuencias genocidas y ecocidas de esta trayectoria histórica (IPCC, 2023), la llamada “descarbonización” se ha convertido en una prioridad en las agendas (inter)gubernamentales y empresariales. Un componente central de este proceso es la denominada “transición energética”, entendida como el paso de modelos intensivos en combustibles fósiles a modelos energéticos “bajos en carbono”. Sin embargo, esta respuesta “socioecológica” no cuestiona las lógicas coloniales y capitalistas que continúan rearticulando el sistema-mundo (Dunlap y Jakobsen, 2020; Fairhead et al., 2012; McCarthy, 2015; Post y Le Billon, 2024). Sultana (2022b: 3) acuñó el término “colonialidad climática” para describir los desarrollos paralelos de los “vestigios del colonialismo y el imperialismo a través de los impactos climáticos en la poscolonia”, así como las “soluciones climáticas que dan lugar a la extracción de recursos y la creación de zonas de sacrificio”. Subrayando que el “colonialismo de la energía renovable” también se da en el llamado Norte Global, Batel y Küpers (2023: 890) “exponen las contradicciones, imposibilidades y distopías inherentes a la retórica global de las transiciones verdes”. Considerando los enredos estructurales entre las infraestructuras energéticas bajas en carbono y los extractivismos, Post (2022) propone que estas infraestructuras requieren, expanden, legitiman y replican los extractivismos, causando violencia infraestructural y rearticulando la colonialidad. Los ejemplos son evidentes en la minería de uranio (DeBoom, 2021; LaDuke y Cruz, 2013; Sullivan, 2013), la minería de níquel (Andreucci et al., 2023), la minería de cobalto (Deberdt y Le Billon, 2022; Sovacool et al., 2020), la extracción de litio (Jerez et al., 2021; Soto Hernández y Newell, 2022; Voskoboynik y Andreucci, 2021), así como la construcción y explotación de infraestructuras de energía eólica, solar e hidroeléctrica (Alkhalili et al., 2023; Ávila et al., 2022; Dunlap, 2018; Howe, 2014; Post, 2023b; Stock, 2022; Tornel, 2023b; Ulloa, 2023). En todo el mundo, los pueblos indígenas están en primera línea de esta colonialidad climática (Curley y Lister, 2020; Sovacool, 2021; Whyte, 2020). De acuerdo con Temper y sus colegas (2020: 14) de los 278 conflictos identificados en torno a proyectos de energía baja en carbono y de mitigación del carbono en 40 países, 55% implica a pueblos indígenas, destacando cómo la “continua desposesión y el desplazamiento(…) se justifican cada vez más por motivos climáticos”."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Las nociones de justicia ambiental, climática y energética se han empleado para criticar las estrechas concepciones de la transición energética (Levenda et al., 2021). Sin embargo, esta literatura ha sido criticada por no considerar suficientemente la interseccionalidad de raza, clase, género, indigeneidad y otras diferencias en la articulación de las estructuras de poder, así como por no reconocer sus raíces en la epistemología y ontología occidentales (Newell, 2022; Sovacool et al., 2023; Sultana, 2022a; Todd, 2016). La literatura sobre justicia ambiental, climática y energética no suele abordar el problema fundamental que plantea el modo en que las infraestructuras energéticas facilitan la “colonización infraestructural” (Dunlap y Arce, 2021), que problematiza cómo se opera el poder infraestructural en la “ocupación y conquista del espacio, que incluye el ‘despliegue’ de infraestructuras burocráticas y en gran medida no materiales” de ingeniería social a través de la participación y la cooptación (Dunlap, 2020: 675). Dunlap y Tornel (2023: 2) sostienen que la justicia ambiental, climática y energética “se disuelve en proyectos de gobernanza liberales o autoritarios basados en el extractivismo” cuando no se comprometen suficientemente con estas cuestiones e incorporan ideas feministas, indígenas y antirracistas sin una crítica sistémica del capitalismo y el uso autoritario del poder estatal."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Por lo tanto, es necesario incorporar ideas desde la teoría y la praxis decolonial a estos debates y colocar “las políticas, historias y ontologías indígenas en el centro” (Dhillon, 2018: 4). Por ello, optamos por centrar los conceptos desplegados por Tosepan y los indígenas masewales y totonacos, así como las comunidades mestizas de la Sierra Nororiental, como ",
+    [
+     "em",
+     {},
+     "yeknemilis"
+    ],
+    " / ",
+    [
+     "em",
+     {},
+     "xatlaan latamaat"
+    ],
+    ". Esto es estrechamente alineado con el llamado de Escobar (2018: 20) a un enfoque político-ontológico para el diseño de tecnologías que se comprometa con “racionalidades existentes y potenciales y modos de ser que enfaticen la profunda relacionalidad e interconexión de todo lo que es”. Aplicado a las transiciones energéticas decoloniales, esto implica conceptualizar lo que Avendaño y Bertinat (2024: 179) denominan “energía de base comunitaria”, cuya premisa es “una transformación cultural en cuanto a la generación, el uso y el concepto mismo de energía”, que implica “democratización”, “participación” popular y “control local” para que las comunidades puedan “convertirse en sujetos activos del sistema energético” y “repensar la energía y asociarle otras dimensiones que van más allá de la electricidad”. Lamentablemente, la literatura crítica sobre las transiciones energéticas se ha centrado “casi por completo en lo crítico... lo que indica una necesidad crucial de investigación postcrítica” (Siamanta, 2024: 3). Si bien las críticas a los discursos sobre las transiciones energéticas “ofrecen múltiples aperturas para aproximaciones pluriversales, emancipadoras, democráticas, autónomas y ascendentes a las transiciones energéticas” (Tornel, 2023a: 2), también es hora de diseñar, construir y apoyar “sistemas energéticos autónomos, insurreccionales y de postdesarrollistas” (Dunlap y Tornel, 2023: 1)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Para crear un mundo en el que “los pueblos indígenas sean líderes en las transiciones energéticas” (Whyte, 2020: 2), nos inspiramos en el movimiento zapatista (EZLN, 2016: 277) en cuanto a que “el trabajo teórico y analítico debe ser un trabajo colectivo”. Por lo tanto, es crucial generar colaboraciones que creen y apoyen esfuerzos para lograr la transición hacia modelos de gestión energética antihegemónicos. En lugar de proponer un enfoque singular para la transición, reconocemos la necesidad de articular una diversidad de puntos de vista y vías hacia transiciones energéticas decoloniales que partan de territorios, modos de vida, sistemas de conocimiento y cosmologías únicos (Escobar, 2017; García-Arias et al., 2024; Kothari, 2020; Kothari et al., 2019). Ello implica también que, debido al singular socioterritorio desde el cual se gestó el proyecto “Energía para el yeknemilis” y su objetivo de facilitar la persistencia de un modo de vida campesino, éste no proporciona necesariamente percepciones que puedan replicarse o aplicarse a otros entornos, como centros metropolitanos o zonas rurales del Norte Global. Las diferentes luchas contra los extractivismos energéticos y las propuestas de transiciones energéticas decoloniales pueden, no obstante, aprender unas de otras y nutrirse mutuamente, por lo que creemos útil analizar las posibilidades y los retos para las transformaciones decoloniales que identificamos en relación con el proyecto"
+   ],
+   "\n",
+   [
+    "h3",
+    {
+     "id": "t-seccion-4"
+    },
+    "DE LA DEFENSA DEL TERRITORIO A LA CONSTRUCCIÓN DE “PLANES DE VIDA”"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Los gobiernos de Vicente Fox (2000-2006) y Felipe Calderón (2006- 2012) otorgaron una serie de concesiones mineras y de generación de energía en la Sierra Norte de Puebla a empresas interesadas en desarrollar infraestructuras extractivas masivas (minas a cielo abierto, ",
+    [
+     "em",
+     {},
+     "fracking"
+    ],
+    " y presas hidroeléctricas) que activistas y académicos denominaron “megaproyectos” debido a su escala y a la destrucción socioecológica asociada. Ante la amenaza de proyectos mineros, hidroeléctricos y de hidrocarburos desarrollados por empresas transnacionales extranjeras y mexicanas, la población predominantemente indígena de la región comenzó a movilizarse para frenar la imposición de lo que denominaron “proyectos de muerte” a partir de mediados de 2012."
+   ],
+   "\n",
+   [
+    "figure",
+    {},
+    [
+     "figura",
+     {
+      "alt": "Figura 1"
+     }
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Figura 1. La ubicación geográfica de la Sierra Norte de Puebla está demarcada por el límite verde, con los proyectos extractivistas aún presentes en enero de 2023. Las concesiones mineras se designan en naranja"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "y los proyectos mineros con picos: (1) Ixtaca; (2) El Areton, (3) Mina"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Heraclio; (4) Ecominaralli 1; (5) Ranchito Velázquez; las concesiones de hidrocarburos en amarillo y 16 campos petroleros activos: (12); los proyectos de generación de energía señalados como rayos: (6) Central Hidroeléctrica Atexcaco; (7) Central Hidroeléctrica Puebla 1 (PHP1); (8) Planta Solar Fotovoltaica Pachamama II; (9) Central Fotovoltaica Cuyoaco; (10) Sistema Hidroeléctrico de Necaxa; y el gasoducto Tuxpan-Tula en"
+   ],
+   "\n",
+   [
+    "blockquote",
+    {},
+    "\n",
+    [
+     "p",
+     {},
+     "rojo (11). Reproducido de Camacho y colaboradores (2024: 12)."
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Durante el mismo año 2012, las primeras “mega asambleas” regionales en “defensa del territorio” reunieron a miles de personas de toda la región. Partiendo del profundo significado que los masewales, los totonacos, así como la población no indígena de la Sierra Norte, otorgan al territorio, las comunidades de la región articularon sus movimientos en defensa del territorio y la vida contra la incursión de proyectos de muerte logrado detener la mayoría de los proyectos hidroeléctricos y todos los proyectos de minería metálica hasta la fecha (Post, 2022, 2023b) (Figura 1)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Al haber logrado detener las amenazas inmediatas, las megaasambleas se enfocaron en desarrollar una agenda más amplia de gobernanza territorial regional. La declaración de la XXXI Asamblea menciona ese cambio de enfoque: “decidimos enfocar nuestros esfuerzos en la construcción de nuestros Planes de Vida y demostrar que es posible producir vida sin destrucción” (Consejo Tiyat Tlali en Defensa de Nuestro Territorio et al., 2019). En concordancia con esta voluntad, Tosepan decidió en 2017 elaborar un Plan de Vida, denominado Códice Masewal que consiste en “un plan para el florecimiento regional, que sustenta el derecho constitucional a la libre determinación y autonomía de los pueblos indígenas y comunidad equiparable de la Sierra Nororiental de Puebla” (Tosepan, 2021b: 6). Define una estrategia a través de la cual Tosepan pretende asegurar una articulación particular del Buen Vivir en los territorios ",
+    [
+     "em",
+     {},
+     "masewalmeh"
+    ],
+    " (",
+    [
+     "em",
+     {},
+     "masewalaltepet"
+    ],
+    ") durante los próximos cuarenta años (2017-2057). El códice es el resultado de amplios diálogos con los habitantes masewales, totonacos y mestizos de los territorios, una serie de talleres, aportes a través de asambleas, y está inspirado en los cuarenta años de experiencia de Tosepan en la organización cooperativa (Cobo et al., 2018).",
+    [
+     "sup",
+     {},
+     [
+      "a",
+      {
+       "id": "t-fnref4",
+       "href": "#t-fn4"
+      },
+      "4"
+     ]
+    ]
+   ],
+   "\n",
+   [
+    "figure",
+    {},
+    [
+     "figura",
+     {
+      "alt": "Figura 2"
+     }
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Figura 2. El árbol del ",
+    [
+     "em",
+     {},
+     "yeknemilis"
+    ],
+    " / ",
+    [
+     "em",
+     {},
+     "xatlaan latamaat"
+    ],
+    " (Buen Vivir) basado en una economía social y solidaria. La mitad superior enumera las diez líneas estratégicas de acción: (1) derechos culturales y territoriales ",
+    [
+     "em",
+     {},
+     "masewal"
+    ],
+    ", ",
+    [
+     "em",
+     {},
+     "tutunakú"
+    ],
+    " y mestizo; (2) identidad cultural y conservación de la lengua; (3) educación con identidad y comunicación sobre el ",
+    [
+     "em",
+     {},
+     "yeknemilis"
+    ],
+    " / ",
+    [
+     "em",
+     {},
+     "xatlaan latamaat"
+    ],
+    "; (4) buen gobierno y gobernanza ",
+    [
+     "em",
+     {},
+     "masewal"
+    ],
+    "; (5) autonomía financiera y economía"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "solidaria; (6) cuidado del suelo y del agua: gestión territorial biocultural; (7) soberanía y seguridad alimentarias; (8) salud de las personas y medio ambiente: promoción de la salud y alimentación comunitaria; (9) autonomía energética y (10) hogar y vivienda digna. La mitad inferior enumera doce valores fundamentales que sustentan y expresan el ",
+    [
+     "em",
+     {},
+     "yeknemilis"
+    ],
+    "/ ",
+    [
+     "em",
+     {},
+     "xatlaan latamaat"
+    ],
+    ", en el sentido de las agujas del reloj empezando por la esquina superior"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "derecha: bondad, respeto, transparencia, trabajo comunitario, tomar en cuenta al otro, honestidad, ayuda mutua, arraigo al territorio, autonomía, equidad, generosidad y confianza. Reproducido tal como aparece en el Códi-"
+   ],
+   "\n",
+   [
+    "blockquote",
+    {},
+    "\n",
+    [
+     "p",
+     {},
+     "ce Masewal (Tosepan, 2021a: 47)."
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Un concepto fundamental que orienta el Códice es ",
+    [
+     "em",
+     {},
+     "yeknemilis"
+    ],
+    " en masewaltahtol y ",
+    [
+     "em",
+     {},
+     "xatlaan latamaat"
+    ],
+    " en liikilhtotonaco— las lenguas maseual y totonaca. El Códice describe el ",
+    [
+     "em",
+     {},
+     "yeknemilis / xatlaan latamaat"
+    ],
+    " como la síntesis de los “principios y valores ancestrales de solidaridad comunitaria, espiritualidad, como parte integral de la naturaleza, relación social e intercambio económico solidario, así como aquellos principios surgidos de la experiencia de organización cooperativa para una economía no extractivista”. (Tosepan, 2021b: 7). Identifica diez líneas estratégicas de acción hacia la realización del ",
+    [
+     "em",
+     {},
+     "yeknemilis / xatlaan latamaat"
+    ],
+    " (Figura 2)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Como parte de esta interacción, el Códice señala que “uno de los componentes importantes de la autonomía y la economía hacia el ",
+    [
+     "em",
+     {},
+     "yeknemilis"
+    ],
+    " es la soberanía energética en el territorio ",
+    [
+     "em",
+     {},
+     "masewal"
+    ],
+    "... autonomía energética necesaria para los hogares y la pequeña industria en nuestro territorio” (Tosepan, 2021a: 42)."
+   ],
+   "\n",
+   [
+    "h3",
+    {
+     "id": "t-seccion-5"
+    },
+    "ENERGÍA PARA EL YEKNEMILIS COMO PROYECTO DE VIDA"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "De la misma manera que la construcción de Planes de Vida nació de la defensa del territorio, así también el proyecto “Energía para el ",
+    [
+     "em",
+     {},
+     "yeknemilis"
+    ],
+    "”. En 2016, la Secretaría de Medio Ambiente y Recursos Naturales (SEMARNAT) aprobó la construcción de una línea de alta tensión que correría entre los municipios de Ayotoxco de Guerrero y Cuetzalan del Progreso. En este último municipio, la Comisión Federal de Electricidad (CFE) también contempló la construcción de una subestación eléctrica."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "En respuesta, la Asamblea en Defensa del Territorio y por la Vida expresó su oposición a estas propuestas en 2016 debido a su vinculación con proyectos extractivistas en la región. En el aniversario de la Revolución Mexicana, el 20 de noviembre de 2016, la Asamblea decidió iniciar un plantón de protesta en el sitio previsto para la subestación. La protesta se convirtió en una presencia territorial permanente que duró cerca de diez meses, hasta que el ayuntamiento de Cuetzalan negó el cambio de uso de suelo y la licencia de construcción. Durante el plantón, los participantes reflexionaron sobre la generación y el uso de la electricidad, lo que se tradujo en una primera experiencia con un sistema fotovoltaico a pequeña escala. A partir de esta experiencia, Tosepan instaló nueve células fotovoltaicas para alimentar su Centro de Aprendizaje Indígena ",
+    [
+     "em",
+     {},
+     "Kaltaixpetaniloyan"
+    ],
+    " (“La casa donde se abre el espíritu” en masewaltahtol) (Figura 3), la caja de ahorro y crédito de Tosepan, Tosepantomin, y el hotel de ecoturismo de la cooperativa, Tosepan Kali, también se equiparon con un sistema interconectado de 30 paneles y un sistema híbrido de 20 paneles, respectivamente."
+   ],
+   "\n",
+   [
+    "figure",
+    {},
+    [
+     "figura",
+     {
+      "alt": "Figura 3"
+     }
+    ]
+   ],
+   "\n",
+   [
+    "blockquote",
+    {},
+    "\n",
+    [
+     "p",
+     {},
+     "Figura 3. Sistema autónomo de nueve células fotovoltaicas en el techo del ",
+     [
+      "em",
+      {},
+      "Kaltaixpetaniloyan"
+     ],
+     " de Tosepan. Fotografía de los autores."
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    [
+     "strong",
+     {},
+     "La “fase semilla”"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "De acuerdo con el mandato otorgado por la Asamblea y la línea estratégica de acción “soberanía energética” del Códice, Tosepan reunió a un conjunto de colectivos y organizaciones, así como a investigadores y docentes cuyas actividades se centran en la soberanía y la autonomía energéticas y que poseen un profundo sentido de identificación con el territorio. Tomando como principio rector la horizontalidad entre las comunidades participantes y el colectivo de investigadores, se conformó un equipo intercultural, interinstitucional e interdisciplinario para diseñar y desarrollar un proyecto de investigación. Una de las asociaciones civiles de Tosepan, la Fundación Tosepan, presentó este proyecto piloto, que inicialmente se denominó “Democratización de la energía”, al Consejo Nacional de Humanidades, Ciencia y Tecnología (CONAHCYT) para su convocatoria 2021-2024 de proyectos que investiguen “la transición hacia sistemas energéticos social y ambientalmente sustentables” (CONAHCYT, 2021)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "El CONAHCYT otorgó financiamiento para una “fase semilla”, que se ejecutó de marzo a noviembre de 2021. Esta fase consistió en talleres, encuestas, entrevistas y observación etnográfica tanto en masewaltahtol como en español para permitir la reflexión colectiva comunitaria “desde una perspectiva amplia e integral sobre la energía en nuestro territorio” y su presencia en la vida cotidiana, partiendo de la premisa de que “la tierra, el sol, el viento y el agua son seres vivos, a los que hay que pedir permiso si queremos usarlos” (Tosepan, 2022: 2-3). Estos ejercicios de generación colectiva de conocimiento se llevaron a cabo en cinco comunidades (Reyeshogpan, Yohualichan, Xocoyolo, Taxipehual y San Antonio Rayón). Fue durante estas discusiones que “se hizo evidente que para la comunidad tenía mucho más sentido hablar de ",
+    [
+     "em",
+     {},
+     "yeknemilis"
+    ],
+    " o buen vivir, en lugar de conceptos como democratización, soberanía y seguridad” cuando se hablaba de energía (Fernández et al., 2023: 126). Por este motivo, el proyecto pasó a llamarse “Energía para el ",
+    [
+     "em",
+     {},
+     "yeknemilis"
+    ],
+    "”. La información proporcionada se empleó para documentar las cinco actividades cotidianas más importantes para las que las familias utilizaban energía (Figura 4)."
+   ],
+   "\n",
+   [
+    "figure",
+    {},
+    [
+     "figura",
+     {
+      "alt": "Figura 4"
+     }
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Figura 4. Una tabla que enumera los cinco usos cotidianos más importantes de las distintas formas de energía, que para la leña"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "son la fabricación de carbón, la cocción de panela (azúcar de caña), la destilación de aguardiente, la cocción de pan y cocinar; para la electricidad son la conservación de alimentos, la molien-"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "da de maíz, escuchar la radio, moler y mezclar alimentos y el entretenimiento; para la luz solar, la iluminación, el secado de leña, el secado de semillas, el secado de ropa y la sensación de confort; para el gas, la cocción de pan, el transporte, cocinar y hervir agua; y para el diésel y la gasolina, el transporte, el empleo de la motosierra, los fuegos artificiales, los globos de papel y el encendido de hogueras. Imagen reproducida de Fernández et"
+   ],
+   "\n",
+   [
+    "blockquote",
+    {},
+    "\n",
+    [
+     "p",
+     {},
+     "al. (2023: 122)."
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "h3",
+    {
+     "id": "t-seccion-6"
+    },
+    "CONTINUACIÓN Y CONSOLIDACIÓN DEL PROYECTO"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "La fase semilla culminó en un proyecto de tres años financiado por CONAHCYT. Cuatro de las comunidades participantes acordaron continuar con el proyecto, mientras que dos comunidades adicionales, cuya población se identifica principalmente como totonaca, fueron invitadas a unirse: Bibiano Hernández y San Felipe Tepatlán. El proyecto tiene como objetivo principal “construir una forma diferente de administrar la energía en nuestro territorio, acorde con nuestra cosmovisión y formas de vida como pueblos indígenas y que contribuya al ",
+    [
+     "em",
+     {},
+     "yeknemilis"
+    ],
+    " (buen vivir)” (Tosepan, 2022: 4). Para lograrlo, el proyecto desarrolla objetivos tanto de incidencia como de investigación. Pretende abogar por la autodeterminación de los pueblos indígenas y equiparables mediante iniciativas que partan de sus cosmovisiones, concepciones de la energía, territorialidad y modos de vida. En cuanto a la investigación, el proyecto facilita el diálogo entre los sistemas de conocimiento tradicionales y tecnocientíficos, haciendo hincapié en la participación de los jóvenes y la igualdad de género para proponer un modelo alternativo de gestión energética que aproveche las fuentes de energía disponibles localmente para sostener y enriquecer el modo de vida campesino."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Mientras el proyecto investiga cuáles serían las tecnologías más adecuadas para este tipo de gestión energética, los grupos de trabajo desarrollados con las comunidades “enfatizan que el modelo alternativo debe responder no sólo a procesos tecno-económicos, sino también a procesos sociales y comunitarios” (Fernández et al., 2023: 129). Debido a esta visión más amplia de la transición energética, el proyecto no se centra únicamente en un cambio tecnológico, sino que también incluye dimensiones que pueden resumirse de la siguiente manera:"
+   ],
+   "\n",
+   [
+    "ul",
+    {},
+    "\n",
+    [
+     "li",
+     {},
+     "Caracterizar el uso de la energía desde lo local, reflexionando sobre conceptos como energía y pobreza energética."
+    ],
+    "\n",
+    [
+     "li",
+     {},
+     "Innovar tecnologías sociales a partir de las experiencias y conocimientos locales."
+    ],
+    "\n",
+    [
+     "li",
+     {},
+     "Fomentar la generación de las capacidades locales para reflexionar sobre la energía comunitaria."
+    ],
+    "\n",
+    [
+     "li",
+     {},
+     "Impulsar la creación de empresas sociales y cooperativas que trabajen la energía bajo un enfoque de economía solidaria."
+    ],
+    "\n",
+    [
+     "li",
+     {},
+     "Analizar y proponer políticas públicas sobre la generación comunitaria."
+    ],
+    "\n",
+    [
+     "li",
+     {},
+     "Diseñar el Centro de Aprendizaje, Innovación Tecnológica y Gestión de la Energía Local."
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    [
+     "strong",
+     {},
+     "Investigadores comunitarios sentipensantes"
+    ]
+   ],
+   "\n",
+   [
+    "figure",
+    {},
+    [
+     "figura",
+     {
+      "alt": "Figura 5"
+     }
+    ]
+   ],
+   "\n",
+   [
+    "blockquote",
+    {},
+    "\n",
+    [
+     "p",
+     {},
+     "Figura 5. Equipo de investigadores comunitarios sentipensantes. Fotografía de los autores."
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "En agosto de 2023 Tosepan integró un equipo de investigadores comunitarios sentipensantes (Figura 5), quienes tras un breve periodo de formación asumieron la responsabilidad del diseño de las tecnologías sociales con base en las experiencias y conocimientos locales, así como de la creación del Centro de Aprendizaje, Innovación Tecnológica y Gestión de la Energía Local. Fue durante la fase formativa que uno de los autores entró en colaboración con los investigadores comunitarios sentipensantes, contribuyendo a su proceso educativo a través de talleres, diálogos y ponencias."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "El equipo realizó pruebas técnico-científicas y visitas a las comunidades durante las cuales estableció colaboraciones con más de veinte familias, para co-diseñar y pilotar tecnologías energéticas sociales. Entre ellas, estufas ecoeficientes ahorradoras de leña, secadores que funcionan con el sol y aire caliente, y las llamadas antropo-máquinas que funcionan con energía humana (Figura 6)."
+   ],
+   "\n",
+   [
+    "figure",
+    {},
+    [
+     "figura",
+     {
+      "alt": "Figura 6"
+     }
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Figura 6. Cuatro fotografías del Centro de Aprendizaje, Innovación Tecnológica y Gestión de la Energía Local y de las tecnologías energéticas sociales que están desarrollando los investigadores comunitarios sentipensantes. En el sentido de las agujas del reloj, empezando por arriba a la izquierda: la zona principal y la cocina, que incluye cinco prototipos de estufas de leña; un secador que funciona con energía solar; un secador de"
+   ],
+   "\n",
+   [
+    "blockquote",
+    {},
+    "\n",
+    [
+     "p",
+     {},
+     "doble uso que también ocupa aire caliente; y un antropo-molino."
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Las familias colaboradoras se comprometieron como socias en esta iniciativa más que como beneficiarias, clientes o consumidoras e influyeron sustancialmente en el funcionamiento, el diseño y el sentido de las tecnologías sociales. Por ejemplo, las familias sugirieron que las estufas fueran fáciles de limpiar, pero también estéticamente agradables, razón por la cual los prototipos están decorados con azulejos de cerámica, aunque éstos no aumenten la eficiencia energética de la estufa. Además, para garantizar que las tecnologías sociales sean relativamente sencillas y asequibles en cuanto a su mantenimiento y reparación, así como para que la huella ecológica de su construcción sea mínima, los prototipos utilizan materiales de ecoconstrucción que abundan localmente, excepto por la herrería y las láminas de plástico."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Además, los investigadores invitaron a las familias participantes a reflexionar sobre temas más amplios, como la distribución estructuralmente desigual de las actividades cotidianas. A través de una metodología conocida como “Mi cocina, mi espejo”, los investigadores motivaron a los colaboradores a reflexionar sobre la dinámica de género comparando el estado de los espacios asignados a partir de este criterio, especialmente la cocina, un espacio codificado como femenino, con el estado de los espacios asociados a la masculinidad, como el lugar de almacenamiento de las herramientas agrícolas. En los hogares en los que la cocina tenía suelo de tierra, estaba destartalada o en mal estado, se invitó a las familias a reflexionar sobre lo que esto denotaba en relación con las desigualdades estructurales de género. Uno de los impulsores de la metodología relató:"
+   ],
+   "\n",
+   [
+    "blockquote",
+    {},
+    "\n",
+    [
+     "p",
+     {},
+     "Dijimos que la cocina es donde se genera la vida, es el corazón de la familia, del hogar y que no podía estar en esas condiciones y que había que atenderla... también ofrecimos talleres sobre los derechos de las mujeres indígenas porque partíamos de la premisa de que las mujeres indígenas sufren una triple discriminación, por ser indígenas, por ser mujeres y por estar en condiciones de pobreza. Así que, primero tuvimos que hablar de sus derechos antes de hablar de género.",
+     [
+      "sup",
+      {},
+      [
+       "a",
+       {
+        "id": "t-fnref5",
+        "href": "#t-fn5"
+       },
+       "5"
+      ]
+     ]
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Tras la finalización de los primeros prototipos, los investigadores participaron en la construcción de las primeras estufas de leña y secadores en colaboración con las familias que los pilotaron, mismas que, en general, aportaron una parte de los materiales de construcción y mano de obra. Todos estos esfuerzos contribuyen al objetivo de la línea estratégica de acción del Códice de “lograr la autonomía energética necesaria para los hogares y las pequeñas industrias de nuestro territorio” (Tosepan, 2021a: 42). Como una de las dimensiones integrales del Plan de Vida descrito en el Códice, el proyecto “Energía para el ",
+    [
+     "em",
+     {},
+     "yeknemilis"
+    ],
+    "” y sus frutos pueden catalizar transformaciones decoloniales."
+   ],
+   "\n",
+   [
+    "h3",
+    {
+     "id": "t-seccion-7"
+    },
+    "POSIBILIDADES Y RETOS PARA LAS TRANSICIONES ENERGÉTICAS DECOLONIALES"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Desde nuestra perspectiva, proponemos que el proyecto “Energía para el ",
+    [
+     "em",
+     {},
+     "yekenmilis"
+    ],
+    "” ilustra seis puntos que pueden informar –de forma no consecutiva o jerárquica– las transformaciones decoloniales. Asimismo, consideramos importante discutir también seis retos a dichas transformaciones."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    [
+     "strong",
+     {},
+     "Posibilidad 1: Concebido desde abajo y en la lucha"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Como se mencionó anteriormente, el proyecto hacia la autonomía energética fue concebido durante un plantón y como parte de una lucha más amplia para defender el territorio contra los “proyectos de muerte” que, en suma, articulan un “megaproyecto de muerte”. El proyecto sirve para demostrar que un modelo de gestión energética que requiere infraestructuras eléctricas a gran escala no es necesario para proporcionar una vida digna a los habitantes masewales, totonacos y mestizos de la Sierra Norte de Puebla. Por el contrario, el proyecto ejemplifica cómo las infraestructuras energéticas bajas emisiones en carbono pueden contribuir al florecimiento indígena y al bienestar territorial. Y lo realmente importante es que estas infraestructuras vitales no deben ser propiedad privada ni explotarse con fines de acumulación de capital, sino mantenerse y gestionarse colectivamente a través de estructuras cooperativas."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    [
+     "strong",
+     {},
+     "Posibilidad 2: Diseñado con y para comunidades rurales "
+    ],
+    " ",
+    [
+     "strong",
+     {},
+     "indígenas y campesinas"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Mientras que la mayoría de los proyectos de transición energética se centran en modelos energéticos industriales-urbanos, este proyecto parte de las realidades de la vida cotidiana rural, ya que fue diseñado con y para comunidades indígenas y campesinas. La relación con el territorio y la identidad plasmada a través de las actividades cotidianas podría alterarse significativamente o desaparecer con la introducción de un modelo de gestión energética diferente. La introducción de estufas de gas en toda la región ya ha alterado las prácticas culinarias de una gran parte de la población, aunque una queja que se escucha con frecuencia es que las tortillas preparadas con masa de maíz procedente de un molino industrial y cocinadas con gas simplemente no saben igual que las tortillas hechas a mano con el molino tradicional y cocinadas en estufas de leña. Muchas de estas prácticas están arraigadas en las cosmovisiones, sistemas de conocimiento, costumbres y tradiciones masewales y totonacas, como la centralidad del maíz en sus cosmogonías."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "El proceso participativo a través del cual se diseñó y ejecutó el proyecto resultó muy valioso para garantizar que las actividades cotidianas se tuvieran debidamente en cuenta. Además, transforma la visión de los usuarios de la energía como consumidores mediante la creación de sujetos activos en materia medioambiental y energética. Mientras que en un principio el proyecto se centró principalmente en la electricidad, la importancia de la leña en los modelos energéticos locales reorientó su enfoque hacia el desarrollo de estufas ecoeficientes que ahorrasen leña. Además, como mencionó una de las personas involucradas en el proyecto, éste rompe con la colonialidad del conocimiento al “asumirnos como sujetos que llevan a cabo la investigación y no como objetos de la misma”.",
+    [
+     "sup",
+     {},
+     [
+      "a",
+      {
+       "id": "t-fnref6",
+       "href": "#t-fn6"
+      },
+      "6"
+     ]
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    [
+     "strong",
+     {},
+     "Posibilidad 3: Reconceptualizar la energía desde la Sierra "
+    ],
+    " ",
+    [
+     "strong",
+     {},
+     "Norte de Puebla"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Además de cartografiar los modelos energéticos, los talleres de la “fase semilla” permitieron (re)definir colectivamente la energía en masewaltahtol y liikilhtotonaco y desde sus respectivas cosmovisiones, un paso fundamental hacia una transición energética decolonial."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "En las comunidades masewales, la mayoría de los participantes no consideraba que formas de energía tan diferentes como la luz solar, el trabajo humano o la electricidad pudieran describirse como equivalentes. Aunque los talleres tendrían lugar en masewaltahtol, los facilitadores y los participantes mencionaron inicialmente la energía en español (energía) porque no había una traducción adecuada. Para reflexionar sobre la energía en masewaltahtol, primero fue necesario debatir la definición en español desde un punto de vista occidental y tecnocientífico. Estas discusiones se articularon en torno a las actividades cotidianas que dependen de las distintas formas de energía en el territorio. Posteriormente, en los talleres se buscó una noción consensuada que pudiera aplicarse a estas diversas formas y usos. Algunas definiciones se descartaron por no poder generalizarse, como ",
+    [
+     "em",
+     {},
+     "tepoxmekat"
+    ],
+    ", que combina las palabras para metal (‘tepox’) y cables (‘mekat’) para referirse a la electricidad. Las reflexiones colectivas se decantaron finalmente por ",
+    [
+     "em",
+     {},
+     "chikawalis"
+    ],
+    " (‘fuerza’) o ",
+    [
+     "em",
+     {},
+     "tayolchikawaloni"
+    ],
+    ", que se traduce como esa reflexión / pensamiento / contemplación (‘ta’) en la fuente / origen (‘loni’) que fortalece / proporciona fuerza (‘chikawal’) al corazón (‘yollotl’). Denota la fuerza viva que se manifiesta en todos los seres que habitan el territorio, incluyendo el fuego, el agua, el viento, el rayo, las personas, la Madre Tierra, el sol y los árboles. En las comunidades totonacas, la definición consensuada de ",
+    [
+     "em",
+     {},
+     "xliitliwakga’ kilhtamakuj"
+    ],
+    " también surgió al pensar en las actividades cotidianas. Se traduce en términos generales como una combinación de las palabras para fuerza (‘xliitliwakga’’) y tiempo / día (‘kilhtamakuj’). En conjunto, ",
+    [
+     "em",
+     {},
+     "xliitliwakga’ kilhtamakuj"
+    ],
+    " define la energía como fuerza del tiempo, o fuerza que hace posible todas las actividades que ocurren durante el día. Es la fuerza del tiempo que permite a los individuos y a las comunidades llevar a cabo sus actividades cotidianas."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Las reflexiones sobre la energía de las comunidades mestizas no indígenas mostraron, de manera similar, que el fuego puede concebirse como una fuerza que conecta las actividades cotidianas a través del tiempo. Uno de los investigadores refirió su experiencia en estos diálogos señalando que:"
+   ],
+   "\n",
+   [
+    "blockquote",
+    {},
+    "\n",
+    [
+     "p",
+     {},
+     "Al interactuar con el fuego surgen ideas y sentimientos, actos y diálogos transmitidos por nuestros padres y ancestros, es la principal fuente de poder transformando y transmutando nuestras emociones cotidianas, unificando el espacio al concentrar a todos los miembros del hogar en la cocina para disfrutar del poder de transformación del fuego.",
+     [
+      "sup",
+      {},
+      [
+       "a",
+       {
+        "id": "t-fnref7",
+        "href": "#t-fn7"
+       },
+       "7"
+      ]
+     ]
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Aunque recuerdan a las definiciones de energía como capacidad para realizar un trabajo, los términos son idiosincráticos y distintos de la conceptualización termodinámica de la energía. ",
+    [
+     "strong",
+     {},
+     "Posibilidad 4: Reconceptualizar la justicia energética"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Para definir la energía a través de discusiones colectivas, primero fue necesario preguntarse por qué y para quién se destinaba dicha energía, lo que condujo a la visión compartida de que debería emplearse para hacer realidad el ",
+    [
+     "em",
+     {},
+     "yeknemilis"
+    ],
+    " / ",
+    [
+     "em",
+     {},
+     "xatlaan latamaat"
+    ],
+    ". Esta reconceptualización implicó una visión de lo que constituiría una transición energética justa que se distingue de las dimensiones distributiva, procedimental y de reconocimiento discutidas en la literatura sobre justicia ambiental, climática y energética. En lugar de medir la pobreza energética desde una perspectiva estrecha como el acceso a la electricidad o su asequibilidad, por ejemplo, el proyecto se preocupa más por crear rutas alternativas para evaluar el bienestar energético tomando como eje orientador el ",
+    [
+     "em",
+     {},
+     "yeknemilis"
+    ],
+    " / ",
+    [
+     "em",
+     {},
+     "xatlaan latamaat"
+    ],
+    ". Ello también significaba explorar los usos de la energía y las fuentes de energía más allá de la electricidad, incluyendo consideraciones sobre la luz solar, la antropoenergía, la leña y el gas (Figura 4). Este bienestar implica tener resueltas las necesidades energéticas para las actividades cotidianas. El proyecto también refleja esta concepción del bienestar energético a través de la atención prestada a la leña y a las relaciones territoriales recíprocas que los habitantes masewales practican mediante un sistema agroforestal conocido como ",
+    [
+     "em",
+     {},
+     "koujtakiloyan"
+    ],
+    "."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    [
+     "strong",
+     {},
+     "Posibilidad 5: Reciprocidad territorial, no-antropocéntrica"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Como ilustra la inclusión de la relacionalidad territorial en esta redefinición de la justicia energética, este enfoque no es antropocéntrico. De hecho, ",
+    [
+     "em",
+     {},
+     "yeknemilis"
+    ],
+    " / ",
+    [
+     "em",
+     {},
+     "xatlaan latamaat"
+    ],
+    " abarca todo lo que es vida dentro de las comunidades y territorios y requiere que haya armonía entre y dentro de las expresiones de la vida interdependientes y entrelazadas. Esta armonía no es una visión de la naturaleza prístina, sino que abarca la relacionalidad del ser humano con los demás seres y la necesidad de cuidarlos de manera que se sostenga una amplia variedad de especies en el territorio. Sin la capacidad de vivir esta relacionalidad y experimentar la conexión profundamente significativa con el territorio y los diferentes seres que lo habitan, no puede existir ",
+    [
+     "em",
+     {},
+     "yeknemilis"
+    ],
+    " / ",
+    [
+     "em",
+     {},
+     "xatlaan latamaat"
+    ],
+    ". Este no antropocentrismo se expresa también en la convicción de que los flujos de energía sólo pueden aprovecharse éticamente cuando primero se pide permiso a los seres no humanos responsables de ellos, como el viento, los árboles y el sol, y se les da las gracias mediante rituales y ofrendas. Una persona masewal que participó en el proyecto describió este sentimiento de reciprocidad como el resultado de que"
+   ],
+   "\n",
+   [
+    "blockquote",
+    {},
+    "\n",
+    [
+     "p",
+     {},
+     "Soy una persona masewal que tiene el privilegio de vivir en este territorio, pero este privilegio también conlleva la responsabilidad de protegerlo, de proteger en todos los sentidos de la palabra... el ",
+     [
+      "em",
+      {},
+      "yeknemilis"
+     ],
+     " sólo puede desarrollarse en un territorio libre de amenazas... no sólo externas sino también de nuestra propia falta de cuidado, despilfarro, abuso excesivo y cambio de prácticas culturales en el cuidado de nuestro territorio... debemos celebrar y dar gracias a esta tierra y a los lugares sagrados que nos dan la vida.",
+     [
+      "sup",
+      {},
+      [
+       "a",
+       {
+        "id": "t-fnref8",
+        "href": "#t-fn8"
+       },
+       "8"
+      ]
+     ]
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    [
+     "strong",
+     {},
+     "Posibilidad 6: Soberanía y autonomía masewal y totonaca"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "El potencial liberador y decolonial del proyecto se ve reforzado al formar parte de una estrategia más amplia hacia la soberanía y la autonomía sobre los flujos y las infraestructuras energéticos. Esto demuestra que los pueblos indígenas pueden expresar su autodeterminación y tomar decisiones autónomas y soberanas para orientar las transiciones energéticas. Una persona masewal que participó en el proyecto subrayó que esto era crucial para la revalorización de la indigeneidad, señalando que la autonomía energética"
+   ],
+   "\n",
+   [
+    "blockquote",
+    {},
+    "\n",
+    [
+     "p",
+     {},
+     "No se trata sólo de no depender de los demás, sino de valorarnos a nosotros mismos... demostrar que no depende sólo de los poderosos traernos cosas y decirnos “les vendo esto porque sólo yo puedo proporcionarles esto [energía], ustedes sólo son consumidores, no son nada”. Con este [proyecto] les demostramos que podemos, y que es posible [producir energía de forma autónoma].",
+     [
+      "sup",
+      {},
+      [
+       "a",
+       {
+        "id": "t-fnref9",
+        "href": "#t-fn9"
+       },
+       "9"
+      ]
+     ]
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Un miembro de Tosepan destacó esta dimensión del autogobierno, elogiando el proyecto por demostrar que, aunque “como todo lo relacionado con los pueblos indígenas, [la autonomía] se ha idealizado, me parece que hay propuestas claras y sólidas sobre cómo gobernarnos a nosotros mismos”.",
+    [
+     "sup",
+     {},
+     [
+      "a",
+      {
+       "id": "t-fnref10",
+       "href": "#t-fn10"
+      },
+      "10"
+     ]
+    ],
+    " Una transición energética decolonial puede contribuir así a formular las estructuras de autogobierno ."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    [
+     "strong",
+     {},
+     "Reto 1: Diálogo entre los modos de creación de conocimiento "
+    ],
+    " ",
+    [
+     "strong",
+     {},
+     "tecnocientífico y sentipensante"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "La importancia inicial concedida a la realización de pruebas tecnocientíficas para evaluar las tecnologías sociales representó un límite para la transformación de la colonialidad del saber. Al no estar familiarizados con los métodos formales y las herramientas de laboratorio, los investigadores comunitarios sentipensantes estaban siendo capacitados en ellos al mismo tiempo que se les responsabilizaba de evaluar científicamente el funcionamiento de los prototipos. El estrés asociado a esta combinación de falta de familiaridad y responsabilidad no siempre se abordó adecuadamente y generó tensiones. Las relaciones jerárquicas dentro del equipo más amplio agravaron el sentimiento de frustración, dando lugar a decisiones unilaterales de última hora que modificaban las actividades programadas y parecían disminuir la atención prestada a la evaluación de las tecnologías sociales en sus contextos comunitarios cotidianos."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Dos elementos resultaron decisivos para modificar, al menos parcialmente, esta dinámica. Por un lado, la bitácora “sentipensante”, herramienta construida de manera colectiva, en donde los investigadores respondían diariamente a las siguientes preguntas:"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "1. ¿Qué ocurrió?"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "2. ¿Cómo me sentí?"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "3. ¿De qué me di cuenta?"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "4. ¿Qué aprendí?"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "La bitácora permitió incluir y vincular el “sentir” con el pensar y el hacer, así como describir lo que los investigadores experimentaban mientras se apropiaban del conocimiento tecnocientífico. De este modo, el cuaderno de bitácora ayudó a valorar el conocimiento que surge de las emociones y las experiencias cotidianas. La bitácora era completamente confidencial. Los investigadores tenían la libertad de incluir todo aquello que contribuyera a la construcción de la experiencia dentro del proyecto en un formato libre, incluido el uso de dibujos o colores, sin una extensión predeterminada. Ellos habían acordado colectivamente estas preguntas y que autoanalizarían sus anotaciones y se basarían en ellas durante las sesiones semanales de reflexión colectiva del equipo para debatir cómo había sentido cada integrante el transcurso de la semana anterior y hacer sugerencias sobre cómo mejorar las dinámicas y los aportes, por ejemplo, haciendo hincapié en las cosas que habían resultado especialmente útiles o agradables y abordando, al mismo tiempo, las que consideraban innecesariamente arduas o frustrantes."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Escribir la bitácora era un ejercicio de liberación en varios sentidos: facilitaba a los investigadores pensar de forma transparente y sin filtros, permitía liberar y dar sentido a las emociones una vez vividas y ayudaba a procesar y expresar en términos personales los conocimientos recién adquiridos así como las lagunas relacionadas con el mismo. Quizá lo más importante es que la bitácora era una forma de “tocar tierra”, convirtiéndose en una pequeña herramienta emancipadora para combatir la tendencia científica a la racionalización por la racionalidad. Así, la bitácora ayudó a valorar el conocimiento que surge de las emociones y las experiencias cotidianas"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Por otro lado, la adaptación de la metodología ",
+    [
+     "em",
+     {},
+     "scrum"
+    ],
+    " a los procesos semanales de planificación y ejecución promovió relaciones más horizontales, trabajando mano a mano con el contenido de la bitácora. Antes de planificar las actividades, los investigadores mencionaban lo que creían que había funcionado bien anteriormente y lo que podía mejorarse, al tiempo que definían un compromiso personal con el progreso del equipo, como realizar una serie de pruebas tecnocientíficas o aprender el funcionamiento de alguna herramienta durante esa semana. Al fijar objetivos realistas y detenerse a celebrar los éxitos en lugar de centrarse en todas las ambiciones no realizadas de la semana anterior, los investigadores se sentían más hábiles y capaces de llevar a cabo las múltiples tareas diferentes que tenían que compaginar. A ello contribuyeron los acuerdos de implementación, que únicamente permitían modificar de manera colectiva las actividades programadas."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    [
+     "strong",
+     {},
+     "Reto 2: La persistencia del patriarcado"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Debido al profundo arraigo de las estructuras patriarcales, el proyecto se encuentra con la difícil tarea de abordar las desigualdades y la discriminación de género. Para empezar, el poder de toma de decisión y la propiedad de las tierras y casas se concentran en manos de los hombres y se transmiten patriarcalmente. Las relaciones jerárquicas mencionadas en el Reto 1 se intersectan también con actitudes patriarcales y un cierto grado de invisibilización de las contribuciones de las mujeres al proyecto, por lo que varias de ellas, involucradas en las fases iniciales, terminaron abandonándolo."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Romper con estas estructuras jerárquicas y promover la igualdad de género ha sido un objetivo explícito del proyecto y los investigadores han desafiado muchas normas y dinámicas de género tradicionales, incluso internamente. En el Centro de Aprendizaje, Innovación Tecnológica y Gestión Local de la Energía, investigadores de todos los géneros probaron las tecnologías sociales utilizándolas. Así, los investigadores varones participaron en la cocina y la limpieza, actividades tradicionalmente realizadas por mujeres. Esto creó una mayor sensación de convivencia, pero también provocó fricciones. A algunos hombres les resultaba difícil participar en estas actividades, sobre todo cuando había otros hombres presentes, por miedo a que los juzgaran. Algunos hombres también comentaban que “las tortillas hechas a mano saben mejor cuando vienen de la mano de una mujer y mal cuando las hace un hombre”.",
+    [
+     "sup",
+     {},
+     [
+      "a",
+      {
+       "id": "t-fnref11",
+       "href": "#t-fn11"
+      },
+      "11"
+     ]
+    ],
+    " Durante las visitas a la comunidad o por parte de las familias participantes, se comentaban estas actividades de género, como cuando las mujeres visitantes expresaban su sorpresa al ver a los hombres detrás del fogón o preparando tortillas. A menudo preguntaban a otras mujeres en masewaltahtol o liikilhtotonaco: “¿Por qué hay un hombre en la cocina y haciendo tortillas?”, lo que provocaba interacciones más extensas que reflexionaban sobre el hecho de que no hay nada inherentemente determinado por el género en la cocina o en hacer tortillas.",
+    [
+     "sup",
+     {},
+     [
+      "a",
+      {
+       "id": "t-fnref12",
+       "href": "#t-fn12"
+      },
+      "12"
+     ]
+    ],
+    " El equipo siempre invitaba a los hombres visitantes a participar también en la preparación de la comida, aunque a menudo se negaban. Mientras tanto, las investigadoras realizaban pruebas con instrumentos de medición tecnocientífica y participaban en la construcción de las tecnologías sociales, incluso utilizando herramientas eléctricas, actividades tradicionalmente asociadas a la masculinidad. Al principio, esto provocó ansiedad en algunas investigadoras (véase el Reto 1), pero con la práctica se tradujo en un sentimiento de empoderamiento. Durante la construcción de tecnologías sociales en las comunidades, los hombres y mujeres residentes comentaban que estas investigadoras “están trabajando con herramientas que sólo ellos [los hombres] utilizan”",
+    [
+     "sup",
+     {},
+     [
+      "a",
+      {
+       "id": "t-fnref13",
+       "href": "#t-fn13"
+      },
+      "13"
+     ]
+    ],
+    ". Como las investigadoras habían adquirido destreza técnica con estas herramientas, en ocasiones eran más competentes que los hombres, circunstancia que, a través de demostraciones sistémicas, rompía con el estereotipo osificado de que las mujeres sólo son competentes en las tareas domésticas."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Aunque el proyecto ayudó a disipar los estereotipos patriarcales y transformó las relaciones de trabajo al interior del equipo de investigación comunitaria, no debe sobrestimarse su contribución al desmantelamiento del patriarcado. El patriarcado es difícil de transformar porque está muy arraigado y en el centro de la vida cotidiana. Además, se intersecta con otros ejes de diferenciación, como la raza, la clase y la edad. Como expresó una joven de una comunidad masewal:"
+   ],
+   "\n",
+   [
+    "blockquote",
+    {},
+    "\n",
+    [
+     "p",
+     {},
+     "Donde toman las decisiones hay muchas lagunas... dicen ‘qué bien que estés aquí, pero te ves más bonita calladita’ o dicen ‘no me importa lo que tengas que decir, eres joven y no sabes, no tienes voto [porque no eres miembro de la cooperativa], y eres mujer, ¿cómo vas a ayudarnos siquiera?’",
+     [
+      "sup",
+      {},
+      [
+       "a",
+       {
+        "id": "t-fnref14",
+        "href": "#t-fn14"
+       },
+       "14"
+      ]
+     ]
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    [
+     "strong",
+     {},
+     "Reto 3: Racismo, folclorización y romantización"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Al igual que el patriarcado, el racismo y las expresiones de folclorización y romantización constituyen estructuras de opresión profundamente arraigadas que limitan el potencial decolonial del proyecto. Aunque los investigadores manifestaron que ninguno había presenciado o experimentado personalmente un racismo flagrante, algunas visitas a las comunidades podrían haberse llevado a cabo de forma más apropiada desde el punto de vista cultural y con más cuidado a la hora de hablar en las lenguas locales, como ocurrió durante las primeras visitas a las comunidades totonacas. Debido a que existe una larga historia de élites masewales que operan como interlocutores de los agentes de poder coloniales y estatales y que, por lo tanto, ejercen poder sobre las poblaciones totonacas, se debe tener mucho tacto para no reproducir las estructuras de dominación entre las comunidades masewales y totonacas. Sin embargo, cuando se le preguntó sobre esta dinámica, una persona totonaca involucrada en el proyecto comentó: “las veces que he ido a las comunidades totonacas, no han dicho cosas como ‘son estos [palabrotas] nahuas los que están aquí para decirnos lo que tenemos que hacer’... todos parecen satisfechos con los resultados del proyecto hasta ahora”.",
+    [
+     "sup",
+     {},
+     [
+      "a",
+      {
+       "id": "t-fnref15",
+       "href": "#t-fn15"
+      },
+      "15"
+     ]
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "La folclorización de las cosmovisiones, costumbres y tradiciones masewales y totonacas también tiene efectos perniciosos. A menudo reproducida involuntariamente, la estetización de la indigenidad relega a los pueblos masewal y totonaco a un ámbito mágico del pasado distante , lo que se plasma en la designación gubernamental de municipios predominantemente indígenas de la Sierra Norte de Puebla como “pueblos mágicos”. Concentrarse en la representación de la indigenidad exotiza a las comunidades y desvía la atención de las realidades estructurales, más que estéticas, de ser masewal y totonaco. El énfasis en la vestimenta tradicional en los materiales de comunicación del CONAHCYT, por ejemplo, corre el riesgo de tergiversar las realidades cotidianas de muchos campesinos masewales y totonacos, no todos los cuales usan vestimenta tradicional o hablan una lengua indígena. No Un fenómeno estrechamente relacionado tiene que ver con la romantización de las comunidades masewal y totonaca por parte de los miembros del equipo de “Energía para el ",
+    [
+     "em",
+     {},
+     "yeknemilis"
+    ],
+    "” o de quienes ocupan posiciones de poder en Tosepan. El proyecto debe evitar presentar a las comunidades como expresiones de alteridad radical a la modernidad y como salvadoras que pueden mostrar el camino a otros pueblos . Esto no sólo tergiversa las complejidades propias de los territorios de la Sierra Norte de Puebla, la cual está integrada a este modelo de gestión energética y sistema-mundo y donde es difícil una verdadera ruptura con los mismos, mientras que una parte importante de la población simplemente tiene que ganar dinero para sobrevivir y, por lo tanto, a menudo emigra a las ciudades para trabajar, y donde muchos también albergan deseos y prácticas capitalistas profundamente arraigados, como la concentración de tierras, la contratación de mano de obra, o la posesión de televisores, motocicletas, camiones u otros símbolos de riqueza. También inhibe la autorreflexión crítica sobre el proyecto y potencialmente dirige el tiempo y la energía hacia fines que no sirven a la población. Una persona involucrada en el proyecto, por ejemplo, quedó perpleja al ver cómo algunos aliados académicos externos del proyecto quedaban asombrados con los resultados de la encuesta (véase la figura 4), mientras que cuando comunicaban esta información a las comunidades participantes “no era realmente impactante, porque es lo que viven todos los días. Sólo les repetíamos que utilizaban mucha leña. Bueno, ¡qué obvio!”",
+    [
+     "sup",
+     {},
+     [
+      "a",
+      {
+       "id": "t-fnref16",
+       "href": "#t-fn16"
+      },
+      "16"
+     ]
+    ],
+    ". Además, resta importancia al papel de las personas mestizas en el proyecto, al tiempo que exagera las diferencias entre la población indígena y la no indígena que se autoidentifica como serrana. Cuando se le preguntó por su ascendencia, una persona que se identifica como mestiza y que participa en el proyecto respondió:"
+   ],
+   "\n",
+   [
+    "blockquote",
+    {},
+    "\n",
+    [
+     "p",
+     {},
+     "Hay algo que es compartido por todos los que vinieron a vivir a la Sierra. Tengo antepasados italianos, españoles, que también fueron exiliados y autoexiliados políticos y sociales, así como los que huyeron del hambre. Todas las personas que vinieron a vivir aquí, pero que no nacieron aquí, vinieron a vivir en paz. Así como la población totonaca que huyó a la sierra... en lugar de enfrentarse a los agresores buscaron refugio y paz aquí... esto es muy compartido por todas las familias aquí en la sierra, esta memoria colectiva en nuestro cuerpo y en nuestra mente.",
+     [
+      "sup",
+      {},
+      [
+       "a",
+       {
+        "id": "t-fnref17",
+        "href": "#t-fn17"
+       },
+       "17"
+      ]
+     ]
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Otra persona señaló además que las similitudes entre estas poblaciones van más allá de tener una historia compartida de “ser desplazados y discriminados” porque “comparten muchas tradiciones, las mismas formas de cuidar y vivir del territorio, hacemos los mismos rituales, e incluso tenemos las mismas danzas”.",
+    [
+     "sup",
+     {},
+     [
+      "a",
+      {
+       "id": "t-fnref18",
+       "href": "#t-fn18"
+      },
+      "18"
+     ]
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    [
+     "strong",
+     {},
+     "Reto 4: Sostenibilidad financiera"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "La falta de financiamiento confiable y pronosticable representa probablemente uno de los mayores retos para la sostenibilidad del proyecto a largo plazo. Los recursos otorgados por el CONAHCYT para la ejecución y el cumplimiento de los objetivos de investigación e incidencia del proyecto sólo cubren los costos hasta finales de 2024. Se han explorado diferentes opciones de fondeo y financiamiento para dar continuidad al desarrollo de un modelo alternativo de gestión energética, una de las cuales ha sido formar alianzas con otras instituciones que investigan la justicia ambiental, climática y energética, así como participar en convocatorias de actores de la sociedad civil y premios internacionales que se enfocan en iniciativas innovadoras de pueblos indígenas y comunidades locales con énfasis en soluciones basadas en la naturaleza. Tosepan ha sido consciente de este reto y lo ve como una oportunidad para la formación de una nueva cooperativa que pueda prestar servicios energéticos en la región. De hecho, éste es uno de los seis objetivos específicos del proyecto. ",
+    [
+     "strong",
+     {},
+     "Reto 5: Alcance del proyecto"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Inicialmente, el proyecto se concentraba de forma bastante acotada en la instalación, el funcionamiento y la gestión de infraestructuras fotovoltaicas descentralizadas, y no en la (re)conceptualización de la energía y la promoción de diversas tecnologías sociales. La ampliación del alcance no es un defecto, ya que la inclusión de objetivos más amplios, como el énfasis en consideraciones de género, interculturales e intergeneracionales, es primordial si queremos hablar de una transición energética decolonial. No obstante, también han aumentado las exigencias sobre el tiempo y las energías disponibles de los miembros de Tosepan, lo que en ocasiones ha provocado frustraciones y ha sobrecargado a los mismos con un volumen de trabajo excesivo. Con capacidades limitadas, ha sido difícil atender todas las dimensiones del proyecto y dedicar tiempo suficiente a su seguimiento. Las pesadas tareas administrativas y la consecución de determinadas métricas para el CONAHCYT han ocasionado presión de tiempo y estrés, ya que los requisitos de presentación de informes no reflejan las realidades del territorio. Acontecimientos imprevistos, retrasos en la recepción del financiamiento del proyecto y el compromiso de ejecutarlo de forma participativa hicieron que los calendarios originales fueran difíciles de seguir y que los ciclos de presentación de informes no se adaptaran. Además, los esfuerzos de promoción ante organismos gubernamentales, como la Comisión Reguladora de Energía (CRE), requieren un trabajo de preparación considerable. Una ampliación de las capacidades humanas y financieras disponibles, una asignación más generosa de tiempo para las actividades y la presentación de informes, o una delimitación del enfoque del proyecto podrían ayudar a evitar que la ejecución se haga a costa del bienestar de los miembros de Tosepan. El camino hacia una economía social y solidaria no puede allanarse a través de la autoexplotación."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Asimismo, Tosepan debe explorar conscientemente las implicaciones de considerar ampliar el número de celdas fotovoltaicas, ya que esto podría contribuir a los extractivismos verdes que suponen las redes globales de producción de celdas fotovoltaicas y, por tanto, a la colonialidad climática que Tosepan está intentando transformar, al tiempo que pone en peligro el objetivo de la soberanía energética a través de la dependencia de dichas cadenas de suministro globalizadas."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    [
+     "strong",
+     {},
+     "Reto 6: Negociación con el estado"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "El último límite se refiere a la relación de Tosepan con el Estado. Aunque critica los abusos contra los derechos humanos cometidos por actores estatales, Tosepan tiene una larga tradición de diálogo con actores gubernamentales. Con la elección de Andrés Manuel López Obrador en 2018, Tosepan ganó aliados de confianza como miembros del gabinete del presidente. Víctor Toledo fue nombrado Secretario de la SEMARNAT y María Luisa Albores, quien ha sido miembro de Tosepan por más de dos décadas, Secretaria de Desarrollo Social (y posteriormente de SEMARNAT). Durante esta administración, Tosepan intentó involucrarse con legisladores y actores estatales como la CRE para lograr reformas a las leyes de energía y electricidad que legalizaran y facilitaran la participación cooperativa en la generación, distribución y venta de electricidad (por ejemplo, Durán Olguín, 2023; Garrido Bonilla, 2021; Garrido Bonilla et al., 2023)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Aunque son difíciles de medir, estas actividades requirieron mucho esfuerzo, mientras que los resultados parecen ambivalentes en el mejor de los casos. La CFE sigue suministrando casi toda la electricidad a la región, mientras que el abastecimiento de gas y gasolina también está regulado por el gobierno, a pesar de que Tosepan pretende disminuir la dependencia del Estado mexicano y reforzar la soberanía indígena. Además, uno de los autores recuerda una reunión con funcionarios de la CRE en Ciudad de México para discutir propuestas regulatorias que permitirían a las cooperativas generar, distribuir y vender electricidad. El simple hecho de celebrar la reunión ya se consideró una victoria, a pesar de que en un principio el personal de seguridad no dejó entrar a nuestra delegación al edificio. Tras superar este obstáculo, los funcionarios de la CRE nos escucharon amablemente, nos agradecieron nuestro tiempo y expresaron que era imposible avanzar en este tema, ya que la CRE tenía otros numerosos asuntos que resolver."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Tosepan entiende la soberanía como la capacidad de negociar de forma autónoma con el Estado. Un miembro del Consejo de Administración de Tosepan describió el papel de la cooperativa de este modo:"
+   ],
+   "\n",
+   [
+    "blockquote",
+    {},
+    "\n",
+    [
+     "p",
+     {},
+     "Cambiar las políticas impuestas en este país... la forma en que se utilizan los programas sociales, donde el Estado da y dice “tú haces cola, recibes y luego haces lo que te dicen porque yo te he dado”... en lugar de eso, en Tosepan decimos “tú me das entre comillas, tú me das, yo distribuyo y yo hago lo que quiero, no lo que tú dices”... Estoy en mi derecho de decir sí a esto pero no a aquello, aceptar una cosa no me obliga a aceptar otra... somos personas, seres humanos que exigimos este derecho, que está en la Constitución y en el Convenio [169 de la Organización Internacional del Trabajo].",
+     [
+      "sup",
+      {},
+      [
+       "a",
+       {
+        "id": "t-fnref19",
+        "href": "#t-fn19"
+       },
+       "19"
+      ]
+     ]
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Sin embargo, éste sigue siendo un objetivo difícil de alcanzar en el caso de la energía. Incluso si los actores estatales se mostraran receptivos a las propuestas de Tosepan para la organización del modelo de gestión energética, se trata todavía de negociar un grado relativo de dependencia al Estado mexicano y arriesgarse a la cooptación en torno a la autonomía y la soberanía para servir a los objetivos estatales."
+   ],
+   "\n",
+   [
+    "h3",
+    {
+     "id": "t-seccion-8"
+    },
+    "CONCLUSIONES"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Frente a la trayectoria genocida y ecocida del cambio climático y sus soluciones, es de suma importancia desafiar y transformar las lógicas coloniales, capitalistas y extractivistas que sustentan los modelos energéticos hegemónicos. Fruto de la colaboración entre investigadores de las comunidades indígenas masewal y totonaca, así como de ascendencia mestiza y europea, este documento sostiene que las transiciones energéticas pueden encarnar una praxis decolonial que contribuya a la autodeterminación y el florecimiento de comunidades y pueblos indígenas y campesinos. Nos basamos en nuestras experiencias distintas y colectivas con el proyecto “Energía para el yeknemilis”, ejecutado por Tosepan en la Sierra Norte de Puebla, México, para demostrar cómo este proyecto desafía la colonialidad presente en la mayor parte del discurso actual sobre la transición energética y los proyectos de transición “verde”. Haciendo eco de las palabras de la Presidenta de Tosepan, Paulina Garrido Bonilla (2021: n.p.) en el Congreso de la Unión en febrero de 2021, “nuestra forma de entender lo que llaman transición energética es diferente”."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Consideramos indispensable que el proyecto haya sido concebido desde abajo y como parte de una lucha por proteger los territorios masewales y totonacos frente a las grandes infraestructuras energéticas. El proyecto se diseñó con y para las comunidades rurales indígenas y campesinas mediante un proceso de diseño participativo centrado en la comunidad. Implementar este tipo de proceso permitió reconceptualizar la “energía” a partir de las lenguas, cosmovisiones, tradiciones y costumbres indígenas. Como parte de esta reconceptualización, las nociones de ",
+    [
+     "em",
+     {},
+     "yeknemilis"
+    ],
+    " / ",
+    [
+     "em",
+     {},
+     "xatlaan latamaat"
+    ],
+    " pasaron a ocupar un lugar central en los debates comunitarios sobre el por qué, el cómo y el para quién de la energía. Por último, la centralidad del territorio, la armonía multiespecie y la reciprocidad con la vida confieren al proyecto un marco de referencia no antropocéntrico."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "También reflexionamos sobre algunas limitaciones a las transformaciones decoloniales con las que debe lidiar el proyecto. Al complementar la creación de conocimiento tecnocientífico con el conocimiento tradicional indígena, así como el enfoque sentipensante de la investigación-acción participativa, advertimos que las metodologías tecnocientíficas pueden ser difíciles de ejecutar de manera sentipensante. Enfrentarse a las relaciones patriarcales de poder y transformarlas en una sociedad marcada por el profundo arraigo al patriarcado constituye otro desafío de enormes proporciones. Además, existe un racismo latente y una tendencia a la folclorización y la romantización que hay que abordar. Otros dos retos están relacionados con garantizar la capacidad organizativa interna, así como los recursos financieros para sostener y ampliar el proyecto sin mermar su potencial decolonial. Por último, señalamos que siempre está presente la cuestión de cómo relacionarse con el poder estatal y advertimos que no se debe confiar únicamente en este poder para trabajar por la soberanía indígena. El control concreto de los modelos energéticos a través de las infraestructuras parece una forma más segura de fundamentar la soberanía y de garantizar la autonomía."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Al analizar estas posibilidades y retos en relación con transformaciones decoloniales más amplias, hemos tratado de aumentar el potencial decolonial del proyecto, sirviendo al mismo tiempo como punto de partida para la reflexión hacia otras transiciones energéticas decoloniales. Las oportunidades y los retos que observamos en el proyecto reflejan cuestiones debatidas en la literatura crítica sobre de/colonialidad y justicia ambiental, energética y climática. Asimismo, las colaboraciones entre investigadores (académicos) y comunidades que construyen proyectos y sistemas energéticos alternativos pueden contribuir de manera crucial a las transiciones energéticas decoloniales. Tales colaboraciones pueden nutrir la literatura académica con material empírico que afine y matice la teoría o incluso conduzca a nuevas percepciones, mientras que la literatura puede proporcionar sugerencias incisivas sobre cómo las comunidades pueden aprovechar las oportunidades para las transformaciones decoloniales, así como informar sobre la elaboración de estrategias para hacer frente a los desafíos a las transformaciones decoloniales. En futuras investigaciones se podrían comparar múltiples iniciativas decoloniales de transición energética para analizar cómo se han aprovechado y cómo se pueden abordar las oportunidades y los retos que identificamos para promover políticas decoloniales; se podría explorar lo que implica un compromiso estratégico con el poder estatal y reflexionar sobre cómo garantizar que las colaboraciones sean éticas y eficaces. Esperamos haber demostrado que la insurgencia en la investigación energética no sólo es necesaria, sino también posible. La energía no sólo fluye a través de los proyectos de muerte, sino que también da pulso a los proyectos de vida."
+   ],
+   "\n",
+   [
+    "h3",
+    {
+     "id": "t-seccion-9"
+    },
+    "REFERENCIAS"
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Alimonda H (2015) Mining in Latin America: Coloniality and Degradation. In: Bryant RL (ed.) International Handbook of Political Ecology. London: Edward Elgar Publishing, pp. 149–161."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Alkhalili N, Dajani M and Mahmoud Y (2023) The Enduring Coloniality of Ecological Modernization: Wind Energy Development in Occupied Western Sahara and the Occupied Syrian Golan Heights. Political Geography 103: 102871."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Álvarez L and Coolsaet B (2020) Decolonizing Environmental Justice Studies: A Latin American Perspective. Capitalism Nature Socialism 31(2). Routledge: 50–69."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Andreucci D, García López G, Radhuber IM, et al. (2023) The Coloniality of Green Extractivism: Unearthing Decarbonisation by Dispossession Through the Case of Nickel. Political Geography 107: 102997."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Avila S, Deniau Y, Sorman AH, et al. (2022) (Counter)mapping Renewables: Space, Justice, and Politics of Wind and Solar Power in Mexico. Environment and Planning E: Nature and Space 5(3): 1056–1085."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Bien E (2018) ‘Light for Everyone’: Indigenous Youth Mount a Solar- Powered Resistance. Mongabay, 10 December. Cuetzalan. Available at: ",
+    [
+     "a",
+     {
+      "href": "https://news.mongabay.com/2018/12/light-for-everyone-indigenous-youth-mount-a-solar-powered-resistance/"
+     },
+     "https://news.mongabay.com/2018/12/light-for-everyone-indigenous-youth-mount-a-solar-powered-resistance/"
+    ],
+    "."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Bolaños de Tatay G and Pancho Aquite A (2008) Plan de Vida, Una Experiencia de Construccion Colectiva Desde la Identidad. In: Hacia El Buen Vivir: Experiencias de Gestión Indígena En Centro América, Colombia, Costa Rica, Ecuador y Guatemala. La Paz: Fondo para el Desarrollo de los Pueblos Indígenas de América Latina y El Caribe, pp. 45–118."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Bold R (ed.) (2019) Indigenous Perceptions of the End of the World: Creating a Cosmopolitics of Change. Palgrave Studies in Anthropology of Sustainability. New York, NY: Palgrave Macmillan."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Boyer D (2019) Energopolitics: Wind and Power in the Anthropocene. Durham: Duke University Press."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Brand U, Dietz K and Lang M (2016) Neo-Extractivism in Latin America – One Side of a New Phase of Global Capitalist Dynamics. Ciencia Política 11(21): 125–159."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Bridge G and Le Billon P (2017) Oil. 2nd ed. Cambridge; Malden: Polity."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Bridge G, Bouzarovski S, Bradshaw M, et al. (2013) Geographies of Energy Transition: Space, Place and the Low-Carbon Economy. Energy Policy 53: 331–340."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Brightman M (2018) Carbon and Biodiversity Conservation as Resource Extraction: Enacting REDD+ Across Cultures of Ownership in Amazonia. In: Vindal Ødegaard C and Rivera Andía JJ (eds) Indigenous Life Projects and Extractivism: Ethnographies from South America. New York: Springer Science+Business Media, pp. 195–216."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Brock A, Sovacool BK and Hook A (2021) Volatile Photovoltaics: Green Industrialization, Sacrifice Zones, and the Political Ecology of Solar Energy in Germany. Annals of the American Association of Geographers 111(6). Taylor & Francis: 1756–1778."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Bruna N (2022a) A Climate-smart World and the Rise of Green Extractivism. The Journal of Peasant Studies 49(4): 839–864."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Bruna N (2022b) Green Extractivism and Financialisation in Mozambique: The Case of Gilé National Reserve. Review of African Political Economy 49(171). Routledge: 138–160."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Bunker SG (1985) Underdeveloping the Amazon: Extraction, Unequal Exchange, and the Failure of the Modern State. Chicago: University of Chicago Press."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Camacho S, Silva D, Clavijo I, et al. (2024) La Sierra en Juego. El Costo de las Extractivas en la Sierra Norte de Puebla. February. Mexico City: PODER & Colectivo Regional en Defensa de los Bosques y Territo de la Sierra Norte de Puebla."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Cederlöf G (2021) Out of Steam: Energy, Materiality, and Political Ecology. Progress in Human Geography 45(1). SAGE Publications Ltd: 70–87."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Cobo R, Paredes LP and Bartra A (2018) Somos Tosepan! 40 Años Haciendo Camino (eds Unión de Cooperativas Tosepan and Circo Maya). Mexico City: Rosa-Luxemburg-Stiftung Gesellschaftsanalyse und Politische Bildung."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Consejo Nacional de Ciencia y Tecnología (2021) Programas Nacionales Estratégicos de Ciencia Tecnología y Vinculación con los Sectores Social, Público y Privado Proyectos Nacionales de Investigación e Incidencia para Transitar a un Sistema Energético Social y Ambientalmente Sustentable Convocatoria 2021-2024. 9 November. Mexico City: Gobierno de México."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Consejo Tiyat Tlali en Defensa de Nuestro Territorio, Comité de Ordanimiento Territorial Integral de Cuetzalan, and Consejo Maseual Altepetajpianij (2019) Pronunciamiento de la 31a Asamblea Para Contrucción de Planes de Vida en el Territorio de los Pueblos Maseual, Tutunaku y Mestizo. Consejo Tiyat Tlali en Defensa de Nuestro Territorio. Available at: ",
+    [
+     "a",
+     {
+      "href": "http://consejotiyattlali.blogspot.com/2019/12/pronunciamiento-de-la-31-asamblea-para.html"
+     },
+     "http://consejotiyattlali.blogspot.com/2019/12/pronunciamiento-de-la-31-asamblea-para.html"
+    ],
+    "."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Coulthard G and Simpson LB (2016) Grounded Normativity / Place- Based Solidarity. American Quarterly 68(2). The Johns Hopkins University Press: 249–255."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Curley A (ed.) (2023) Carbon Sovereignty: Coal, Development, and Energy Transition in the Navajo Nation. University of Arizona Press."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Curley A and Lister M (2020) Already Existing Dystopias: Tribal Sovereignty, Extraction, and Decolonizing the Anthropocene. In: Handbook on the Changing Geographies of the State. Cheltenham: Edward Elgar Publishing."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Cusicanqui SR (2010) Ch’ixinakax Utxiwa Una Reflexión Sobre Prácticas y Discursos Descolonizadores. Buenos Aires: Retazos : Tinta Limón Ediciones."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Daggett C (2019) The Birth of Energy: Fossil Fuels, Thermodynamics, and the Politics of Work. Elements. Durham London: Duke University Press."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Deberdt R and Le Billon P (2022) The Green Transition in Context—Cobalt Responsible Sourcing for Battery Manufacturing. Society & Natural Resources 35(7). Routledge: 784–803."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Deberdt R and Le Billon P (2024) Green Transition’s Necropolitics: Inequalities, Climate Extractivism, and Carbon Classes. Antipode: anti.13032."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Dhillon J (2018) Introduction: Indigenous Resurgence, Decolonization, and Movements for Environmental Justice. Environment and Society 9(1). Berghahn Journals: 1–5."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Dhillon J (2021) Indigenous Resistance, Planetary Dystopia, and the Politics of Environmental Justice. Globalizations 18(6). Routledge: 898–911."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Dunlap A (2018) Counterinsurgency for Wind Energy: The Bíi Hioxo Wind Park in Juchitán, Mexico. The Journal of Peasant Studies 45(3): 630–652."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Dunlap A (2021) The Politics of Ecocide, Genocide and Megaprojects: Interrogating Natural Resource Extraction, Identity and the Normalization of Erasure. Journal of Genocide Research 23(2): 212–235."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Dunlap A (2023) Conclusion: A Call to Action, Toward an Energy Research Insurrection. In: Nadesan MH, Pasqualetti MJ, Keahey J, et al. (eds) Energy Democracies for Sustainable Futures. London, UK ; San Diego, CA: Elsevier Academic Press, pp. 339–348."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Dunlap A and Jakobsen J (2020) The Violent Technologies of Extraction: Political Ecology, Critical Agrarian Studies and the Capitalist Worldeater. Cham: Palgrave Pivot."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Dunlap A and Tornel C (2023) Pluralizing Energy Justice? Towards Cultivating an Unruly, Autonomous and Insurrectionary Research Agenda. Energy Research & Social Science 103: 103217."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Durán Olguín L (2023) Análisis y Propuestas de Modificaciones a la Regulación en Materia de Generación Distribuida Colectiva en el Cual Participaron Diversas Comunidades de Energía Mexicanas. Fundación Tosepan."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Ejército Zapatista de Liberación Nacional (2016) Critical Thought in the Face of the Capitalist Hydra I."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Ellison N (2020) Altepet / Chuchutsipi: Cosmopolítica Territorial Totonaca-Nahua y Patrimonio Biocultural en la Sierra Nororiental de Puebla / Altepet /Chuchutsipi: Nahua-Totonaca Territorial Cosmopolitics and Biocultural Heritage in the Sierra Nororiental of Puebla, Mexico. Revista Trace (78): 88."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Escobar A (2017) Sustaining the Pluriverse: The Political Ontology of Territorial Struggles in Latin America. In: Brightman M and Lewis J (eds) The Anthropology of Sustainability: Beyond Development and Progress. Palgrave Studies in Anthropology of Sustainability. New York: Springer Nature, pp. 237–256."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Fairhead J, Leach M and Scoones I (2012) Green Grabbing: A New Appropriation of Nature? Journal of Peasant Studies 39(2): 237–261."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Fals-Borda O (1987) The Application of Participatory Action-Research in Latin America. International Sociology 2(4). SAGE Publications Ltd: 329–347."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Fernández JP, Durán Olguin L, Fernández L. LE, et al. (2023) Energía para el Yeknemilis (Buen Vivir). Ciencias y Humanidades 3(7): 73–83."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Garcia-Arias J, Tornel C and Gutiérrez MF (2024) Weaving a Rhizomatic Pluriverse: Allin Kawsay, the Crianza Mutua Networks, and the Global Tapestry of Alternatives. Globalizations. Routledge. Epub ahead of print 2024."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Garrido Bonilla P (2021) Participación en el Parlamento Abierto sobre la Reforma Eléctrica Miércoles 16 de Febrero. Unión de Cooperativas Tosepan Titataniske."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Garrido Bonilla P, Durán Olguín L and Arredonde Prado M (2023) Análisis de las Modificaciones a la Regulación de Generación Distribuida para una Soberanía Comunitaria. Fundación Tosepan."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Girvan N (2014) Extractive Imperialism in Historical Perspective. In: Extractive Imperialism in the Americas: Capitalism’s New Frontier. Studies in Critical Social Sciences volume 70. Leiden ; Boston: Brill."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Gómez-Barris M (2017) The Extractive Zone: Social Ecologies and Decolonial Perspectives. Dissident acts. Durham ; London: Duke University Press."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "González Rosales S and Julián O (2021) La Unión de Cooperativas Tosepan en Cuetzalan, Puebla: Construcción Colectiva Hacia el Yeknemilis. In: Marañón Pimentel B, González Rosales S, and Caballero H (eds) El Trabajo Recíproco y Buenos Vivires En México Ante La Crisis Irreversibles de La Colonialidad-Modernidad Capitalista. Mexico City: Universidad Nacional Autónoma de México, Instituto de Investigaciones Económicas, pp. 97–144."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Gudynas E (2021) Extractivisms: Politics, Economy and Ecology. Critical development studies 5. Halifax ; Winnipeg: Fernwood Publishing : Practical Action Publishing."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Howe C (2014) Anthropocenic Ecoauthority: The Winds of Oaxaca. Anthropological Quarterly 87(2): 381–404."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Huber MT and McCarthy J (2017) Beyond the Subterranean Energy Regime? Fuel, Land Use and the Production of Space. Transactions of the Institute of British Geographers 42(4): 655–668."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Intergovernmental Panel on Climate Change (2023) Synthesis Report. Contribution of Working Groups I, II and III to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change. Geneva: Intergovernmental Panel on Climate Change. Available at: doi: 10.59327/IPCC/AR6-9789291691647."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Jerez B, Garcés I and Torres R (2021) Lithium Extractivism and Water Injustices in the Salar de Atacama, Chile: The Colonial Shadow of Green Electromobility. Political Geography 87: 102382."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Knuth S, Behrsin I, Levenda A, et al. (2022) New Political Ecologies of Renewable Energy. Environment and Planning E: Nature and Space. SAGE Publications Ltd STM: 25148486221108164."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Kothari A (2020) Earth Vikalp Sangam: Proposal for a Global Tapestry of Alternatives. Globalizations 17(2). Routledge: 245–249."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Kothari A, Salleh A, Escobar A, et al. (eds) (2019) Pluriverse: A Post-Development Dictionary. New Delhi: Tulika Books and Authorsupfront."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "LaDuke W and Cowen D (2020) Beyond Wiindigo Infrastructure. South Atlantic Quarterly 119(2): 243–268."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Leff E (2021) Political Ecology: Deconstructing Capital and Territorializing Life. Cham: Palgrave Macmillan."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Levenda AM, Behrsin I and Disano F (2021) Renewable Energy for Whom? A Global Systematic Review of the Environmental Justice Implications of Renewable Energy Technologies. Energy Research & Social Science 71: 101837."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Lohmann L (2021) Bioenergy, Thermodynamics and Inequalities. In: Backhouse M, Lehmann R, Lorenzen K, et al. (eds) Bioeconomy and Global Inequalities: Socio-Ecological Perspectives on Biomass Sourcing and Production. Cham: Springer International Publishing, pp. 85–103."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Maldonado-Torres N (2007) On the Coloniality of Being. Cultural Studies 21(2–3). Routledge: 240–270."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Malm A (2016) Fossil Capital: The Rise of Steam Power and the Roots of Global Warming. London ; New York: Verso."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "McCarthy J (2015) A Socioecological Fix to Capitalist Crisis and Climate Change? The Possibilities and Limits of Renewable Energy. Environment and Planning A: Economy and Space 47(12): 2485–2502."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Mignolo W and Walsh CE (2018) On Decoloniality: Concepts, Analytics, Praxis. On Decoloniality. Durham: Duke University Press."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Moore JW (2015) Capitalism in the Web of Life: Ecology and the Accumulation of Capital. London ; New York: Verso."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Moore JW (2017) The Capitalocene, Part I: on the Nature and Origins of our Ecological Crisis. The Journal of Peasant Studies 44(3). Routledge: 594–630."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Moore JW (2018) The Capitalocene Part II: Accumulation by Appropriation and the Centrality of Unpaid Work/Energy. The Journal of Peasant Studies 45(2). Routledge: 237–279."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Newell P (2022) Climate Justice. The Journal of Peasant Studies 49(5): 915–923."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Núñez A, Benwell MC and Aliste E (2020) Interrogating Green Discourses in Patagonia-Aysén (chile): Green Grabbing and Eco- Extractivism as a New Strategy of Capitalism? Geographical Review 0(0). Routledge: 1–19."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Post E (2022) Hydroelectric Extractivism: Infrastructural Violence and Coloniality in the Sierra Norte de Puebla, Mexico. Journal of Latin American Geography 21(3). University of Texas Press: 49–95."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Post E (2023a) Expanding Extractivisms: Extractivisms as Modes of Extraction Sustaining Imperial Modes of Living. International Development Policy | Revue Internationale de Politique de Développement (16). 16. Institut de hautes études internationales et du développement. Epub ahead of print 2023. DOI: 10.4000/poldev.5376."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Post E (2023b) Proyectos de Muerte and Proyectos de Vida: Indigenous Counter-hegemonic Praxis to Sustainable Development in the Sierra Norte de Puebla, Mexico. The Journal of Peasant Studies 50(5): 1945–1974."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Quijano A (2014) Cuestiones y Horizontes: De La Dependencia Histórico-Estructural a La Colonialidad/Descolonialidad Del Poder. Colección Antologías. Buenos Aires: Consejo Latinoamericano de Ciencias Sociales."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Rodríguez I and Inturias ML (2018) Conflict Transformation in Indigenous Peoples’ Territories: Doing Environmental Justice with a ‘Decolonial Turn’. Development Studies Research 5(1). Routledge: 90–105."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Rudolph D (2023) The Question of ‘Sustainable’ Technology: From Socio-Ecological Fixes to Transformations. Human Geography 16(1). SAGE Publications: 81–86."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Schlosberg D and Carruthers D (2010) Indigenous Struggles, Environmental Justice, and Community Capabilities. Global Environmental Politics 10(4): 12–35."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Siamanta ZC (2024) Community Renewable Energy Ecologies (CREE): Rhizomatic Renewable Energy Development and Experimental–Experiential Emancipation. Human Geography. SAGE Publications: 19427786241240790."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Silva Ontiveros L, Munro PG and Melo Zurita M de L (2018) Proyectos de Muerte: Energy Justice Conflicts on Mexico’s Unconventional Gas Frontier. The Extractive Industries and Society 5(4): 481–489."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Soto Hernandez D and Newell P (2022) Oro Blanco: Assembling Extractivism in the Lithium Triangle. The Journal of Peasant Studies 49(5). Routledge: 945–968."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Sovacool BK (2021) Who are the Victims of Low-Carbon Transitions? Towards a Political Ecology of Climate Change Mitigation. Energy Research & Social Science 73: 101916."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Sovacool BK, Ali SH, Bazilian M, et al. (2020) Sustainable Minerals and Metals for a Low-Carbon Future. Science 367(6473): 30–33."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Sovacool BK, Bell SE, Daggett C, et al. (2023) Pluralizing Energy Justice: Incorporating Feminist, Anti-racist, Indigenous, and Postcolonial Perspectives. Energy Research & Social Science 97: 102996."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Stock R (2022) Power for the Plantationocene: Solar Parks as the Colonial Form of an Energy Plantation. The Journal of Peasant Studies. Routledge: 1–23."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Sullivan S (2013) After the Green Rush? Biodiversity Offsets, Uranium Power and the ‘Calculus of Casualties’ in Greening Growth. Human Geography 6(1). SAGE Publications: 80–101."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Sultana F (2022a) Critical Climate Justice. The Geographical Journal 188(1): 118–124."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Sultana F (2022b) The Unbearable Heaviness of Climate Coloniality. Political Geography: 102638."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Temper L, Avila S, Bene DD, et al. (2020) Movements Shaping Climate Futures: A Systematic Mapping of Protests against Fossil Fuel and Low-Carbon Energy Projects. Environmental Research Letters 15(12). IOP Publishing: 123004."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Todd Z (2016) An Indigenous Feminist’s Take On The Ontological Turn: ‘Ontology’ Is Just Another Word For Colonialism. Journal of Historical Sociology 29(1): 4–22."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Tornel C (2023a) Decolonizing Energy Justice From the Ground Up: Political Ecology, Ontology, and Energy Landscapes. Progress in Human Geography 47(1): 43–65."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Tornel C (2023b) Decolonizing the Political Economy of Energy Transitions: New Energy Spaces and Pluriversal Politics in Mexico. Review of International Political Economy: 1–25."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Tornel C (2023c) Energy Justice in the Context of Green Extractivism: Perpetuating Ontological and Epistemological Violence in the Yucatan Peninsula. Journal of Political Ecology 30(1). 1. University of Arizona Libraries."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Tuck E and Yang KW (2012) Decolonization is Not a Metaphor. Decolonization: Indigeneity, Education & Society 1(1). 1."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Ulloa A (2023) Aesthetics of Green Dispossession: From Coal to Wind Extraction in La Guajira, Colombia. Journal of Political Ecology 30(1). 1. University of Arizona Libraries."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Unión de Cooperativas Tosepan (2022) Energía para Yeknemilis (Buen Vivir) en la Sierra Norte de Puebla. 21 July. Cuetzalan. Available at: ",
+    [
+     "a",
+     {
+      "href": "https://taewaloni.net/recurso/periodico-energiapara-el-yeknemilis/"
+     },
+     "https://taewaloni.net/recurso/periodico-energiapara-el-yeknemilis/"
+    ],
+    "."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Unión de Cooperativas Tosepan Titataniske (2021a) Códice Masewal Parte 2 Tikochitah Tisentekitiskeh Ome Powal Xiwit: Líneas Estratégicas del Plan de Vida y Programas para el Florecimiento del Territorio Masewal - Tutunaku - Mestizo (Yeknemilis) en el Siglo XXI Plan de Vida Estratégico 2017- 2057. Unión de Cooperativas Tosepan Titataniske."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Unión de Cooperativas Tosepan Titataniske (2021b) Códice Masewal Tikochitah Tisentekitiskeh Ome Powal Xiwit: Tomasewalyot/Tomasewalnemilis (Plan de Vida Soñando los Próximos 40 Años: Nuestro ser Masewal/Nuestra Forma de Vida Masewal). Unión de Cooperativas Tosepan Titataniske."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Verweijen J and Dunlap A (2021) The Evolving Techniques of the Social Engineering of Extraction: Introducing Political (Re)actions ‘From Above’ in Large-scale Mining and Energy Projects. Political Geography 88: 102342."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Voskoboynik DM and Andreucci D (2021) Greening Extractivism: Environmental Discourses and Resource Governance in the ‘Lithium Triangle’. Environment and Planning E: Nature and Space. SAGE Publications Ltd STM: 25148486211006345."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Whyte K (2017) Indigenous Climate Change Studies: Indigenizing Futures, Decolonizing the Anthropocene. English Language Notes 55(1). Duke University Press: 153–162."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Whyte K (2020) Too Late for Indigenous Climate Justice: Ecological and Relational Tipping Points. WIREs Climate Change 11(1): 1–7."
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "lang": "en"
+    },
+    "Yazzie MK (2018) Decolonizing Development in Diné Bikeyah: Resource Extraction, Anti-Capitalism, and Relational Futures. Environment and Society 9(1). Berghahn Journals: 25–39."
+   ],
+   "\n",
+   [
+    "section",
+    {},
+    [
+     "h3",
+     {
+      "id": "t-seccion-10"
+     },
+     "NOTAS"
+    ],
+    [
+     "ol",
+     {},
+     "\n",
+     [
+      "li",
+      {
+       "id": "t-fn1"
+      },
+      "Una versión más larga de este artículo se publicó previamente en Inglés en la revista de SAGE ",
+      [
+       "em",
+       {},
+       "Human Geography"
+      ],
+      ", disponible aquí: ",
+      [
+       "a",
+       {
+        "href": "https://journals.sagepub.com/doi/full/10.1177/19427786251317181"
+       },
+       "https://journals.sagepub.com/doi/full/10.1177/19427786251317181"
+      ],
+      " ",
+      [
+       "a",
+       {
+        "href": "#t-fnref1",
+        "id": "t-llamada-fnref1-1"
+       },
+       "↩"
+      ]
+     ],
+     "\n",
+     [
+      "li",
+      {
+       "id": "t-fn2"
+      },
+      "Departamento de Geografía de la Universidad de Columbia Británica ",
+      [
+       "a",
+       {
+        "href": "#t-fnref2",
+        "id": "t-llamada-fnref2-1"
+       },
+       "↩"
+      ]
+     ],
+     "\n",
+     [
+      "li",
+      {
+       "id": "t-fn3"
+      },
+      "Investigadores Comunitarios Sentipensantes del proyecto “Energía para el Yeknemilis (Buen Vivir) de la Sierra Nororiental de Puebla” de la Unión de Cooperativas Tosepan, Cuetzalan, Puebla. ",
+      [
+       "a",
+       {
+        "href": "#t-fnref3",
+        "id": "t-llamada-fnref3-1"
+       },
+       "↩"
+      ]
+     ],
+     "\n",
+     [
+      "li",
+      {
+       "id": "t-fn4"
+      },
+      "La organización se constituyó formalmente en 1980, solucionando en principio la escasez de alimentos y promoviendo la comercialización de productos agrícolas sin intermediarios. El trabajo sostenido fue resolviendo otras necesidades: vivienda, educación, salud, ahorro y crédito. Hoy, Tosepan aglutina a 9 cooperativas y 3 asociaciones civiles, reuniendo a más de 48.600 socios en 34 municipios. ",
+      [
+       "a",
+       {
+        "href": "#t-fnref4",
+        "id": "t-llamada-fnref4-1"
+       },
+       "↩"
+      ]
+     ],
+     "\n",
+     [
+      "li",
+      {
+       "id": "t-fn5"
+      },
+      "Entrevista, 12 de octubre de 2023. ",
+      [
+       "a",
+       {
+        "href": "#t-fnref5",
+        "id": "t-llamada-fnref5-1"
+       },
+       "↩"
+      ]
+     ],
+     "\n",
+     [
+      "li",
+      {
+       "id": "t-fn6"
+      },
+      "Entrevista, 14 de septiembre de 2023. ",
+      [
+       "a",
+       {
+        "href": "#t-fnref6",
+        "id": "t-llamada-fnref6-1"
+       },
+       "↩"
+      ]
+     ],
+     "\n",
+     [
+      "li",
+      {
+       "id": "t-fn7"
+      },
+      "Citado en textos de reflexión redactados por los investigadores en mayo de 2024. ",
+      [
+       "a",
+       {
+        "href": "#t-fnref7",
+        "id": "t-llamada-fnref7-1"
+       },
+       "↩"
+      ]
+     ],
+     "\n",
+     [
+      "li",
+      {
+       "id": "t-fn8"
+      },
+      "Entrevista, 2 de agosto de 2023. ",
+      [
+       "a",
+       {
+        "href": "#t-fnref8",
+        "id": "t-llamada-fnref8-1"
+       },
+       "↩"
+      ]
+     ],
+     "\n",
+     [
+      "li",
+      {
+       "id": "t-fn9"
+      },
+      "Entrevista, 29 de enero de 2024. ",
+      [
+       "a",
+       {
+        "href": "#t-fnref9",
+        "id": "t-llamada-fnref9-1"
+       },
+       "↩"
+      ]
+     ],
+     "\n",
+     [
+      "li",
+      {
+       "id": "t-fn10"
+      },
+      "Entrevista, 14 de septiembre de 2023. ",
+      [
+       "a",
+       {
+        "href": "#t-fnref10",
+        "id": "t-llamada-fnref10-1"
+       },
+       "↩"
+      ]
+     ],
+     "\n",
+     [
+      "li",
+      {
+       "id": "t-fn11"
+      },
+      "Citado en textos de reflexión redactados por los investigadores en mayo de 2024. ",
+      [
+       "a",
+       {
+        "href": "#t-fnref11",
+        "id": "t-llamada-fnref11-1"
+       },
+       "↩"
+      ]
+     ],
+     "\n",
+     [
+      "li",
+      {
+       "id": "t-fn12"
+      },
+      "Citado en textos de reflexión redactados por los investigadores en mayo de 2024. ",
+      [
+       "a",
+       {
+        "href": "#t-fnref12",
+        "id": "t-llamada-fnref12-1"
+       },
+       "↩"
+      ]
+     ],
+     "\n",
+     [
+      "li",
+      {
+       "id": "t-fn13"
+      },
+      "Citado en textos de reflexión escritos por investigadores en mayo de 2024. ",
+      [
+       "a",
+       {
+        "href": "#t-fnref13",
+        "id": "t-llamada-fnref13-1"
+       },
+       "↩"
+      ]
+     ],
+     "\n",
+     [
+      "li",
+      {
+       "id": "t-fn14"
+      },
+      "Entrevista, 4 de septiembre de 2023. ",
+      [
+       "a",
+       {
+        "href": "#t-fnref14",
+        "id": "t-llamada-fnref14-1"
+       },
+       "↩"
+      ]
+     ],
+     "\n",
+     [
+      "li",
+      {
+       "id": "t-fn15"
+      },
+      "Entrevista, 5 de febrero de 2024. ",
+      [
+       "a",
+       {
+        "href": "#t-fnref15",
+        "id": "t-llamada-fnref15-1"
+       },
+       "↩"
+      ]
+     ],
+     "\n",
+     [
+      "li",
+      {
+       "id": "t-fn16"
+      },
+      "Entrevista, 15 de septiembre de 2023. ",
+      [
+       "a",
+       {
+        "href": "#t-fnref16",
+        "id": "t-llamada-fnref16-1"
+       },
+       "↩"
+      ]
+     ],
+     "\n",
+     [
+      "li",
+      {
+       "id": "t-fn17"
+      },
+      "Entrevista, 14 de septiembre de 2023. ",
+      [
+       "a",
+       {
+        "href": "#t-fnref17",
+        "id": "t-llamada-fnref17-1"
+       },
+       "↩"
+      ]
+     ],
+     "\n",
+     [
+      "li",
+      {
+       "id": "t-fn18"
+      },
+      "Entrevista, 31 de enero de 2024. ",
+      [
+       "a",
+       {
+        "href": "#t-fnref18",
+        "id": "t-llamada-fnref18-1"
+       },
+       "↩"
+      ]
+     ],
+     "\n",
+     [
+      "li",
+      {
+       "id": "t-fn19"
+      },
+      "Entrevista, 20 de marzo de 2023. ",
+      [
+       "a",
+       {
+        "href": "#t-fnref19",
+        "id": "t-llamada-fnref19-1"
+       },
+       "↩"
+      ]
+     ],
+     "\n"
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Cómo citar: ",
+    [
+     "em",
+     {},
+     "Bajo el Volcán. Revista del Posgrado de Sociología. BUAP"
+    ],
+    ", Año 7, Núm. 14, mayo – octubre de 2026, pp. 338-386. https://doi.org/10.32399/ICSYH.bvbuap.2954-4300.2026.7.14.857"
+   ],
+   [
+    "p",
+    {},
+    [
+     "a",
+     {
+      "href": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
+     },
+     "Licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional"
+    ],
+    ". Publicación de acceso abierto diamante editada por la Benemérita Universidad Autónoma de Puebla."
+   ],
+   "\n"
+  ],
+  "\n"
+ ]
+};

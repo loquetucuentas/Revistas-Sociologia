@@ -1,0 +1,5805 @@
+{
+ "version": 1,
+ "recogido": "2026-10-18T11:41:05+00:00",
+ "doi": "10.47796/ra.2025i27.1199",
+ "titulo": "Diseño arquitectónico basado en criterios de eficiencia energética en viviendas de Villa El Salvador",
+ "revista": "2617-0892",
+ "numero": "n27-2025",
+ "licencia": {
+  "codigo": "by",
+  "nombre": "CC BY 4.0",
+  "nombre_completo": "Creative Commons Atribución 4.0 Internacional",
+  "url": "http://creativecommons.org/licenses/by/4.0",
+  "url_legal": "https://creativecommons.org/licenses/by/4.0/legalcode.es"
+ },
+ "fuente": {
+  "url": "https://revistas.upt.edu.pe/ojs/index.php/arquitek/article/download/1199/1188?inline=1",
+  "formato": "HTML",
+  "plataforma": "ojs-galerada",
+  "pagina": "https://revistas.upt.edu.pe/ojs/index.php/arquitek/article/view/1199"
+ },
+ "autores_cita": [
+  {
+   "apellidos": "Huamani  Mendoza",
+   "nombre_pila": "Jackelyn Esthefany",
+   "nombre": null
+  },
+  {
+   "apellidos": "Rueda Vega",
+   "nombre_pila": "Andrea del Pilar",
+   "nombre": null
+  }
+ ],
+ "avisos_derechos": [
+  "Derechos de autor 2025 Jackelyn Esthefany Huamani  Mendoza, Andrea del Pilar Rueda Vega",
+  "Licencia Derechos de autor 2025 Jackelyn Esthefany Huamani Mendoza, Andrea del Pilar Rueda Vega Esta obra está bajo una licencia internacional Creative Commons Atribución 4.0."
+ ],
+ "idioma_principal": "es",
+ "indice": [],
+ "vueltas": {},
+ "contenido": [
+  "\r\n\r\n",
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "a",
+    {
+     "id": "t-_Hlk123178705"
+    }
+   ],
+   [
+    "span",
+    {},
+    "ARQUITEK"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "EDICIÓN N°27",
+    [
+     "span",
+     {},
+     "   "
+    ],
+    "| ",
+    [
+     "a",
+     {
+      "id": "t-_Hlk139134701"
+     },
+     "Enero - Junio 202"
+    ],
+    "4\r\n| Edición online ISSN-2617-0892"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    "DOI: "
+   ],
+   [
+    "a",
+    {
+     "id": "t-_Hlk139413149"
+    }
+   ],
+   [
+    "a",
+    {
+     "href": "https://doi.org/10.47796/ra.2025i27%0d"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {
+       "lang": "en"
+      },
+      "https://doi.org/10.47796/ra.2025i2"
+     ]
+    ],
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "7"
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "a",
+    {
+     "id": "t-_heading-h-gjdgxs"
+    }
+   ],
+   [
+    "a",
+    {
+     "id": "t-_heading-h-z64p9x4yiaqu"
+    }
+   ],
+   [
+    "a",
+    {
+     "id": "t-_heading-h-happd81i949v"
+    }
+   ],
+   [
+    "b",
+    {},
+    [
+     "span",
+     {},
+     "Diseño arquitectónico basado\r\nen e",
+     [
+      "span",
+      {},
+      "ficiencia energética en\r\nviviendas de Villa El Salvador"
+     ]
+    ]
+   ],
+   [
+    "b",
+    {},
+    [
+     "span",
+     {}
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "en"
+   },
+   [
+    "b",
+    {},
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "Architectural\r\ndesign based on energy efficiency criteria in housing in Villa El Salvador"
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "b",
+    {},
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     " "
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "figura",
+    {}
+   ],
+   [
+    "b",
+    {},
+    [
+     "span",
+     {
+      "lang": "en"
+     }
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "DOI: "
+   ],
+   [
+    "u",
+    {},
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     [
+      "a",
+      {
+       "href": "https://doi.org/10.47796/ra.2025i27.1199"
+      },
+      [
+       "span",
+       {},
+       "10.47796/ra.2025i27.1199"
+      ]
+     ]
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    " "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "PRESENTADO :",
+    [
+     "span",
+     {},
+     "  "
+    ],
+    "04.12.24"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "ACEPTADO",
+    [
+     "span",
+     {},
+     "     "
+    ],
+    ":",
+    [
+     "span",
+     {},
+     "  "
+    ],
+    "21.05.25"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    " "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "JACKELYN ESTHEFANY HUAMANI MENDOZA"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Universidad Autónoma del Perú, Lima,\r\nPerú"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "ORCID: "
+   ],
+   [
+    "a",
+    {
+     "href": "https://orcid.org/0000-0002-5312-4571"
+    },
+    [
+     "span",
+     {},
+     "0000-0002-5312-4571"
+    ]
+   ],
+   [
+    "span",
+    {}
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Jhuamanim3@autonoma.edu.pe"
+   ],
+   [
+    "span",
+    {}
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    " "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "ANDREA DEL PILAR RUEDA VEGA"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Universidad Autónoma del Perú, Lima,\r\nPerú"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "ORCID: "
+   ],
+   [
+    "a",
+    {
+     "href": "https://orcid.org/0009-0005-9145-7069"
+    },
+    [
+     "span",
+     {},
+     "0009-0005-9145-7069"
+    ]
+   ],
+   [
+    "span",
+    {}
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Aruedav@autonoma.edu.pe"
+   ],
+   [
+    "span",
+    {}
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   " "
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   " "
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   "RESUMEN"
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   "Villa El Salvador, en la periferia de Lima, enfrenta\r\nretos por el crecimiento urbano y la demanda energética. Por ello, es\r\nfundamental aplicar estrategias sostenibles y de eficiencia energética en las\r\nviviendas para reducir el consumo, sin comprometer el confort ni la calidad de\r\nvida de los habitantes. La optimización arquitectónica incluye la correcta\r\norientación de edificios, uso de materiales aislantes, ventilación natural y\r\ntecnologías renovables. Estas medidas pueden reducir el consumo energético y\r\nlas emisiones de CO",
+   [
+    "sub",
+    {},
+    "2"
+   ],
+   ", generando ahorros económicos y aumentando la\r\nresiliencia ante el cambio climático. El estudio evalúa la aplicación de estos\r\ncriterios en las viviendas, demostrando que la eficiencia energética es clave\r\npara el desarrollo sostenible del distrito. Se realizó una búsqueda exhaustiva,\r\nempleando una combinación de términos clave relacionados con la optimización\r\narquitectónica en viviendas para la eficiencia energética, y se estableció un\r\nlímite temporal para incluir estudios publicados entre 2020 y 2024, con el fin\r\nde asegurar la actualidad de la investigación. Se revisaron 30 artículos, tanto\r\nnacionales como internacionales, de los cuales 19 fueron excluidos por no\r\nproporcionar información adecuada para el análisis. Luego de recopilar los\r\ndatos, se procedió a analizar la información, y se seleccionaron 11 artículos\r\nque cumplieron con los criterios pertinentes, los cuales fueron integrados en\r\nel presente estudio. La información relevante se obtuvo mediante la búsqueda en\r\nbases de datos especializadas en el diseño arquitectónico basado en criterios\r\nde eficiencia energética en viviendas de Villa El Salvador. Las principales\r\nbases de datos consultadas fueron ProQuest, Alicia, ScienceDirect y Google\r\nAcadémico."
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "b",
+    {},
+    [
+     "i",
+     {},
+     [
+      "span",
+      {},
+      "Palabras\r\nclave"
+     ]
+    ]
+   ],
+   [
+    "i",
+    {},
+    [
+     "span",
+     {},
+     ":"
+    ]
+   ],
+   [
+    "span",
+    {},
+    " "
+   ],
+   "Eficiencia,\r\noptimización, reducir, sostenible, confort",
+   [
+    "span",
+    {}
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   " "
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    "ABSTRACT"
+   ],
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    " "
+   ],
+   [
+    "span",
+    {
+     "lang": "en"
+    }
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "en"
+   },
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    "Villa El Salvador, on the\r\noutskirts of Lima, faces challenges due to urban growth and energy demand.\r\nTherefore, it is essential to implement sustainable and energy-efficient\r\nstrategies in housing to reduce consumption without compromising residents'\r\ncomfort or quality of life. Architectural optimization includes proper building\r\norientation, the use of insulating materials, natural ventilation, and\r\nrenewable technologies. These measures can reduce energy consumption and CO",
+    [
+     "sub",
+     {},
+     "2"
+    ],
+    "\r\nemissions, generating economic savings and increasing resilience to climate\r\nchange. The study evaluates the application of these criteria in housing,\r\ndemonstrating that energy efficiency is key to the district's sustainable\r\ndevelopment. A comprehensive search was conducted using a combination of key\r\nterms related to architectural optimization in housing for energy efficiency,\r\nand a time limit was set to include studies published between 2020 and 2024 to\r\nensure the relevance of the research. 30 articles were reviewed, both\r\nnationally and internationally, of which 19 were excluded for not providing\r\nadequate information for the analysis. After collecting the data, the\r\ninformation was analyzed, classifying 11 articles that met the relevant\r\ncriteria, which will be integrated into the following article. The relevant information\r\nwas obtained by searching databases specialized in architectural design based\r\non energy efficiency criteria in homes in Villa El Salvador. The main databases\r\nconsulted were ProQuest, Alicia, ScienceDirect and Google Scholar."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "b",
+    {},
+    [
+     "i",
+     {},
+     [
+      "span",
+      {
+       "lang": "en"
+      },
+      "Keywords"
+     ]
+    ]
+   ],
+   [
+    "i",
+    {},
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     ":"
+    ]
+   ],
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    " ",
+    [
+     "span",
+     {},
+     "Efficiency, optimization, reduce,\r\nsustainable, comfort",
+     [
+      "i",
+      {}
+     ]
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "b",
+    {},
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     " "
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   "INTRODUCCIÓN"
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "A nivel\r\nmundial, la Secretaría de Energía de la Nación (2020) promueve activamente la\r\neficiencia energética como una estrategia clave para el desarrollo sostenible,\r\nla reducción del consumo de energía y la mitigación del impacto ambiental. Sus\r\nopiniones y lineamientos en torno a los criterios de eficiencia energética se\r\nreflejan en diversas normativas, programas e iniciativas que buscan fomentar el\r\nuso racional y eficiente de la energía en diferentes sectores."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "En Perú, la\r\neficiencia energética es promovida por el Ministerio de Energía y Minas (2023),\r\na través de la Dirección General de Eficiencia Energética (DGEE). Este\r\norganismo desarrolla políticas, normativas y programas que reflejan una postura\r\nactiva hacia la optimización del uso de recursos energéticos. Los criterios de\r\neficiencia energética en Perú están orientados a fomentar el desarrollo\r\nsostenible, reducir el consumo energético y disminuir las emisiones de gases de\r\nefecto invernadero."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Villa El\r\nSalvador está ubicado en la periferia de Lima (Perú). De acuerdo con Torres et\r\nal. (2020), este distrito contaba con 420 278 habitantes en el año 2020, de los\r\ncuales la gran mayoría se veía afectada por limitaciones económicas debido a\r\nfactores como la pérdida de trabajo, el aumento en la tasa de morbilidad, el\r\nincremento en la tasa de natalidad, lo que generaba una reducción de los\r\ningresos económicos de la población."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Históricamente,\r\nel distrito de Villa El Salvador ha sido reconocido por su proyección urbana y\r\nsus esfuerzos comunitarios. Sin embargo, con el crecimiento urbano acelerado y\r\nel aumento de la demanda energética, surge la necesidad de llevar a cabo\r\nestrategias que promuevan la sostenibilidad y la eficiencia energética en el\r\ndiseño de las viviendas. La eficiencia energética se refiere al uso ecuánime y\r\nsostenible de la energía eléctrica, minimizando su consumo sin sacrificar el\r\nconfort y la funcionalidad de los espacios habitables. De acuerdo con Gutiérrez\r\ny García (2021), esto implica la adopción de medidas que no solo reduzcan el\r\nconsumo energético, sino también que mejoren la calidad de vida de los\r\nhabitantes, favoreciendo un entorno más saludable y económicamente accesible."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "La\r\noptimización arquitectónica mediante criterios de eficiencia energética abarca\r\ndiversos aspectos del diseño y la construcción de viviendas. Entre estos, se\r\nincluyen la orientación adecuada de las edificaciones para maximizar la\r\ncaptación de luz natural, el uso de materiales con propiedades aislantes, la\r\nincorporación de sistemas de ventilación natural y la implementación de\r\ntecnologías de energías renovables, como paneles solares. López et al. (2023)\r\nañaden que, en esencia, la optimización arquitectónica busca equilibrar\r\nfuncionalidad, estética y sostenibilidad, preparando a futuros arquitectos para\r\nimplementar estos principios en su práctica profesional. Al aplicar estos\r\nenfoques pueden reducir el consumo energético y las emisiones de carbono,\r\ngenerando ahorros económicos y aumentando la resiliencia de las viviendas."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "La\r\neficiencia energética, por otra parte, hace referencia a la reducción del\r\nconsumo energético, mientras se mantienen los mismos niveles de servicio.\r\nTorres (2020), al respecto, añade que este concepto cobra relevancia en el\r\ncontexto del crecimiento urbano en el distrito de Villa El Salvador, donde la\r\ndemanda constante de viviendas ha llevado a descuidar el ahorro de energía,\r\nocasionando un aumento del consumo energético. Este fenómeno plantea un\r\nproblema significativo, ya que las viviendas se construyen sin considerar\r\naspectos críticos de sostenibilidad y eficiencia energética, lo que afecta la\r\ncalidad de vida de los residentes. El problema de la eficiencia energética en\r\neste distrito, por tanto, podría tener su origen en la falta de asesoramiento y\r\nconocimiento de la población. "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Sornoza et\r\nal. (2022) señalaron, en relación a la industria de la construcción, que este\r\nsector enfrenta el desafío de integrar materiales respetuosos con el medio\r\nambiente, impulsando la innovación en procesos sostenibles, sin comprometer la\r\ncalidad ni el costo, para mantenerse competitivo. La importancia de abordar\r\neste problema se refleja en sus dimensiones de magnitud, prioridad y\r\nvulnerabilidad. La magnitud se evidencia en el elevado consumo energético y los\r\ncostos asociados; la prioridad se establece en la necesidad urgente de mejorar\r\nla calidad de vida de los residentes; y la vulnerabilidad se manifiesta en la\r\nfalta de recursos y de conocimientos para implementar soluciones eficientes."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Según Riaño\r\ny Daza (2023), los conocimientos existentes sobre el tema destacan la\r\nimportancia del aislamiento térmico, el uso de focos ahorradores, paneles\r\nsolares y elementos domóticos para reducir el consumo energético en los\r\nhogares. Además, la problemática energética, puede obedecer a diversos\r\nfactores, como las irregularidades en el servicio y las tarifas elevadas;\r\naunque lo que más llama la atención es el alto consumo de energía en las\r\nviviendas, lo que resalta la necesidad de un enfoque más sostenible. Por ello,\r\nel proyecto de investigación se centra en la adaptabilidad climática y la\r\nimplementación de energías limpias. Estudios previos indican que estas\r\nestrategias pueden reducir costos y mejorar el bienestar de los residentes,\r\npero la falta de información y asesoramiento en el distrito dificulta la\r\nmaterialización de estos beneficios."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Con\r\nrespecto a la sostenibilidad ambiental, la implementación de prácticas de\r\neficiencia energética en la arquitectura contribuye de manera significativa a\r\nla reducción de la huella de carbono. Dado que el sector de la construcción es\r\nuno de los mayores consumidores de energía y emisores de gases de efecto\r\ninvernadero, la adopción de medidas eficientes es crucial para mitigar el\r\nimpacto ambiental y avanzar hacia una sostenibilidad global. Al respecto, Dávila\r\n(2020) sostiene que la construcción sostenible implica un triple compromiso:\r\ncon el medio ambiente, con las generaciones futuras y con la calidad desde la\r\netapa de concepción del proyecto de construcción, evitando insatisfacciones,\r\nreprocesos y sobrecostos."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "En lo que\r\nconcierne a los beneficios económicos, las tarifas eléctricas aumentan en\r\nfunción de los precios y el índice inflacionario de las energías en la red\r\neléctrica nacional. López et al. (2022), en ese sentido, proponen un estudio\r\npara reducir la demanda eléctrica, ahorrar energía y mejorar la eficiencia\r\nenergética, incluyendo cambios tecnológicos y operativos que disminuyan la\r\ndemanda de potencia y las emisiones de CO",
+    [
+     "sub",
+     {},
+     "2"
+    ],
+    ". Por consiguiente, las\r\nviviendas energéticamente se vuelven imprescindibles, ya que reducen el consumo\r\nde energía y los costos para los residentes. Y en comunidades como Villa El\r\nSalvador, donde los recursos son limitados, estas medidas ofrecen un alivio\r\nfinanciero significativo y hacen que las viviendas sean más accesibles y sostenibles\r\na largo plazo."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Con\r\nrespecto a mejorar la calidad de vida, una casa diseñada con criterios de\r\neficiencia energética, no solo resulta más económica de mantener, sino que\r\nofrece también un ambiente más saludable y confortable para sus habitantes; ya\r\nque, al proponerse mejoras en la ventilación, el aislamiento térmico y la\r\niluminación natural se contribuye a la salud y bienestar de los residentes, y\r\nse reducen problemas como la humedad, el moho y la calidad del aire interior\r\ndeficiente."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "En relación\r\ncon la resiliencia climática, se visualiza que el cambio climático es una\r\nrealidad ineludible, y las viviendas deben ser capaces de adaptarse a\r\ncondiciones climáticas extremas y variables. La optimización arquitectónica con\r\ncriterios de eficiencia energética aumenta la resiliencia de las viviendas,\r\nhaciéndolas más capaces de soportar altas temperaturas, olas de calor y otros\r\neventos climáticos adversos. Siguiendo esta perspectiva, Rojas (2022) argumenta\r\nque es hora de presentarle a los compradores una alternativa de vivienda que\r\npiensa en el futuro, uniendo sostenibilidad ambiental, crecimiento económico y\r\nseguridad frente al cambio climático."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "En cuanto a\r\nla relevancia social y comunitaria, por otra parte, el distrito de Villa El\r\nSalvador es un ejemplo de organización comunitaria y desarrollo urbano\r\nplanificado. Al implementar, por tanto, criterios de eficiencia energética en\r\nlas viviendas de este distrito, no solo se pueden obtener beneficios\r\nindividuales, sino también fortalecer la cohesión y el desarrollo comunitario.\r\nPor ello, se propone que la educación y la concienciación sobre la eficiencia\r\nenergética son herramientas clave para promover una cultura de sostenibilidad\r\nen toda la comunidad."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "En materia\r\nde innovación y desarrollo tecnológico, Pereira y Turizo (2020) mencionan que\r\nel enfoque en la eficiencia energética impulsa la innovación en el diseño\r\narquitectónico y la construcción. La investigación y el desarrollo de nuevas\r\ntecnologías y materiales eficientes pueden tener aplicaciones más allá del\r\ndistrito, contribuyendo al avance del conocimiento y la práctica en el campo de\r\nla arquitectura sostenible."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "A partir de\r\nlo anteriormente expuesto, el presente estudio se centra en la aplicación de\r\nestos criterios en las viviendas del distrito de Villa El Salvador, donde se\r\nanalizarán su viabilidad, su impacto, y sus beneficios a nivel comunitario y\r\nambiental. A través de una combinación de análisis teóricos y estudios de caso\r\nprácticos, se busca demostrar cómo la optimización arquitectónica basada en la\r\neficiencia energética puede convertirse en un pilar fundamental para el\r\ndesarrollo sostenible del distrito. Entonces, la interrogante que surge es la\r\nsiguiente: ¿qué tipo de estrategias de eficiencia energética necesita la\r\npoblación de Villa El Salvador para que puedan ser implementadas en la\r\noptimización arquitectónica de las viviendas?"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "El objetivo\r\nde esta investigación es mejorar la calidad de vida de los habitantes de Villa\r\nEl Salvador mediante criterios de eficiencia energética, diseño arquitectónico\r\nsostenible, fomentando el uso de fuentes renovables y tecnologías eficientes\r\npara reducir costos y mejorar la habitabilidad.",
+    [
+     "span",
+     {}
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Esta\r\ninvestigación se justifica, por otra parte, en la necesidad de brindar acceso a\r\nla información como un factor clave para impulsar la mejora en la eficiencia\r\nenergética a través de la adopción de fuentes renovables y la integración de\r\ntecnologías sostenibles en las viviendas. En este contexto, la aplicación de\r\ncriterios de eficiencia energética para la optimización arquitectónica en Villa\r\nEl Salvador se convierte en una necesidad urgente; ya que estos no solo\r\nresponden a la creciente demanda de sostenibilidad a nivel global, sino que\r\ntambién tienen un impacto directo en el ámbito local, mejorando la calidad de\r\nvida de los residentes al reducir los costos energéticos, minimizar el consumo\r\nde recursos no renovables y contribuir a la reducción de la huella ambiental."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Para el\r\nanálisis de los datos se utilizó el software ATLAS.ti., el cual, según Smit y\r\nScherman (2021), es una herramienta informática utilizada para el análisis\r\ncualitativo, especialmente útil en revisiones de alcance y literatura. Paulus y\r\nMarone (2024), por su parte, deducen que este software facilita el seguimiento\r\nde términos de búsqueda, palabras clave, fuentes de datos, revistas, investigadores\r\ny programas de gestión. Además, Yaqoob et al. (2024) señalan que contribuye a\r\nla codificación y tematización de las fuentes, permitiendo la extracción de\r\ndatos que serán utilizados en la elaboración del informe final.",
+    [
+     "span",
+     {}
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "En este\r\nartículo se abordan temas relacionados con la demografía y el contexto\r\nsocioeconómico del distrito de Villa María del Triunfo, en la cual se incluye\r\ntambién la problemática de la eficiencia energética, que implica se consideren\r\nlos criterios de sostenibilidad en la adaptabilidad de las viviendas."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "MATERIALES\r\nY MÉTODOS "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Anas e\r\nIshaq (2022) destacan que la investigación cualitativa es esencial para\r\ncomprender el pensamiento humano y abordar problemas sociales de manera\r\nintegral. Este enfoque permite explorar, en detalle, las experiencias,\r\nemociones y opiniones de los participantes, representando la magnitud y la\r\ncomplejidad de los fenómenos que son objeto de estudio y que no pueden ser\r\ncomprendidos completamente a través de métodos cuantitativos."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Para este\r\nestudio, se realizó una búsqueda exhaustiva de la literatura y, siguiendo a\r\nMedina et al. (2023), se empleó una combinación de términos clave relacionados\r\ncon la optimización arquitectónica en viviendas para la eficiencia energética.\r\nSe estableció, por otra parte, un límite temporal para incluir estudios\r\npublicados entre 2020 y 2024, con el fin de garantizar la vigencia de la\r\ninvestigación. Se revisaron 30 artículos, tanto del ámbito nacional como\r\ninternacional, de los cuales 19 fueron excluidos por no proporcionar\r\ninformación adecuada para el análisis."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Luego de\r\nrecopilar los datos, se procedió a analizar la información, y se seleccionaron\r\n11 artículos que cumplían con los criterios más pertinentes, los cuales fueron\r\nincluidos en el presente estudio. La información relevante se obtuvo mediante\r\nla búsqueda en diversas bases de datos especializadas en optimización\r\narquitectónica orientada a la eficiencia energética en viviendas."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Las\r\nprincipales bases de datos consultadas fueron ProQuest, Alicia, ScienceDirect y\r\nGoogle Académico. Los términos de búsqueda se seleccionaron considerando la\r\nterminología utilizada en la literatura. Los términos de búsqueda incluyeron\r\ntérminos como ",
+    [
+     "i",
+     {},
+     "eficiencia energética"
+    ],
+    ", ",
+    [
+     "i",
+     {},
+     "energía solar"
+    ],
+    ", ",
+    [
+     "i",
+     {},
+     "optimización"
+    ],
+    "\r\ny ",
+    [
+     "i",
+     {},
+     "sostenibilidad ambiental"
+    ],
+    ". "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "RESULTADOS"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Se\r\nanalizaron de manera exhaustiva 11 cuadros específicos con el objetivo de\r\nadquirir un entendimiento más profundo sobre los autores y el diseño que\r\ncaracteriza a cada obra. Con el fin de facilitar el análisis y la comprensión\r\nde los resultados de los estudios seleccionados, se procedió a diseñar una\r\ntabla que nos permitió registrar de manera organizada los hallazgos clave. Esta\r\ntabla se convirtió en una valiosa herramienta para comparar los resultados\r\nobtenidos en los distintos estudios, contribuyendo así a cumplir con nuestros\r\nobjetivos de investigación."
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    " "
+   ]
+  ],
+  "\r\n\r\n",
+  "\r\n\r\n",
+  [
+   "table",
+   {},
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {
+      "colspan": "4"
+     },
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {
+        "lang": "en"
+       },
+       "Tabla 1"
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "i",
+       {},
+       [
+        "span",
+        {},
+        "Resumen del artículo "
+       ]
+      ],
+      [
+       "span",
+       {},
+       "Proceso\r\n  de optimización en el diseño de sistema de calefacción solar pasivo"
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        " "
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "Autor y año"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "Objetivo"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "Resultado"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "Conclusión"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Arango, J.\r\n  P. y Giraldo, J."
+      ],
+      [
+       "span",
+       {}
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "(2020)"
+      ],
+      [
+       "span",
+       {}
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Evaluar la\r\n  viabilidad económica y financiera de instalar energía solar en hogares para\r\n  promover la autonomía energética y la transición hacia energías renovables."
+      ],
+      [
+       "span",
+       {}
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "La\r\n  metodología paramétrica propuesta permitió simular un número mayor de\r\n  escenarios a los normalmente trabajados en los procesos de verificación\r\n  energética de proyectos arquitectónicos."
+      ],
+      [
+       "span",
+       {}
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Los sistemas\r\n  solares pasivos pueden ser eficaces en climas de alta montaña y bajas\r\n  latitudes debido a la flexibilidad en su diseño."
+      ],
+      [
+       "span",
+       {}
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {
+      "colspan": "4"
+     },
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "Argumentación\r\n  del resultado"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {
+      "colspan": "4"
+     },
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "La metodología detalla cómo adaptar sistemas\r\n  solares pasivos al altiplano cundiboyacense, ofreciendo soluciones y\r\n  conocimiento para mejorar el confort higrotérmico en climas similares.",
+       [
+        "span",
+        {}
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n"
+  ],
+  "\r\n\r\n",
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "b",
+    {},
+    [
+     "span",
+     {},
+     " "
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "i",
+    {},
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     " "
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  "\r\n\r\n",
+  [
+   "table",
+   {},
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {
+      "colspan": "4"
+     },
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Tabla 2"
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "i",
+       {},
+       [
+        "span",
+        {},
+        "Resumen del artículo Mejoras en el desempeño energético\r\n  de edificios en verano mediante la integración de envolventes ventiladas en\r\n  fachadas norte y cubiertas. "
+       ]
+      ],
+      [
+       "i",
+       {},
+       [
+        "span",
+        {
+         "lang": "en"
+        },
+        "El caso de\r\n  Mendoza, Argentina."
+       ]
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        " "
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "Autor y año"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "Objetivo"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "Resultado"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "Conclusión"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Balter, J.,\r\n  Ganem, C., & Barea, G. (2020)"
+      ],
+      [
+       "span",
+       {}
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "El presente\r\n  trabajo evalúa el potencial de mejora con la integración de envolventes\r\n  ventiladas. "
+      ],
+      [
+       "span",
+       {}
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Se\r\n  estructuraron dos etapas: el relevamiento y análisis de edificios\r\n  residenciales para rehabilitación con fachadas ventiladas, y la simulación de\r\n  un caso de estudio con el software EnergyPlus."
+      ],
+      [
+       "span",
+       {}
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       " "
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "La\r\n  integración de fachadas y cubiertas ventiladas logró importantes ahorros\r\n  energéticos, alcanzando hasta un"
+      ],
+      [
+       "span",
+       {},
+       " 32 %"
+      ],
+      [
+       "span",
+       {},
+       [
+        "a",
+        {
+         "id": "t-_anchor_1",
+         "href": "#t-_msocom_1"
+        },
+        "[1]"
+       ],
+       [
+        "span",
+        {},
+        " "
+       ]
+      ],
+      [
+       "span",
+       {},
+       " ",
+       [
+        "span",
+        {},
+        "en edificios desocupados, y un "
+       ],
+       "260\r\n  %",
+       [
+        "span",
+        {},
+        " en unidades del último\r\n  piso con cubiertas expuestas."
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {
+      "colspan": "4"
+     },
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "Argumentación\r\n  del resultado"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {
+      "colspan": "4"
+     },
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "El artículo propone identificar medidas prácticas\r\n  para la rehabilitación de viviendas en Argentina, destacando la importancia\r\n  de las soluciones arquitectónicas y el uso de tecnologías eficientes. Ofrece\r\n  también directrices específicas para reducir el consumo energético en el\r\n  sector residencial y mejorar la eficiencia energética de manera sostenible."
+      ],
+      [
+       "span",
+       {}
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n"
+  ],
+  "\r\n\r\n",
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "i",
+    {},
+    [
+     "span",
+     {},
+     " "
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "i",
+    {},
+    [
+     "span",
+     {},
+     " "
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  "\r\n\r\n",
+  [
+   "table",
+   {},
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {
+      "colspan": "4"
+     },
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Tabla 3"
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "i",
+       {},
+       [
+        "span",
+        {},
+        "Resumen del artículo Aspectos determinantes en el\r\n  desempeño energético de la vivienda social brasileña: revisión de la\r\n  literatura"
+       ]
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        " "
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "Autor y año"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "Objetivo"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "Resultado"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "Conclusión"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Bavaresco,\r\n  M.V., Ortiz, H.Y., Schinazi, A., Ghisi, E. (2021)"
+      ],
+      [
+       "span",
+       {}
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Analizar\r\n  la literatura sobre eficiencia energética en viviendas sociales en Brasil\r\n  para identificar factores clave y guiar decisiones futuras."
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "A pesar del éxito del programa \"Minha Casa,\r\n  Minha Vida\" en Brasil, las viviendas presentan fallas en su adaptación\r\n  climática, lo que ha resultado en una baja eficiencia energética y el descontento\r\n  entre los residentes."
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Es crucial revisar la literatura de la última\r\n  década para identificar los aspectos que influyen en la eficiencia energética\r\n  y consolidar el conocimiento existente. "
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {
+      "colspan": "4"
+     },
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "Argumentación\r\n  del resultado"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {
+      "colspan": "4"
+     },
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Se han identificado fallas en la adaptación de\r\n  estas viviendas a los climas locales. Esto conduce a bajos niveles de\r\n  eficiencia energética y a la insatisfacción de los residentes, lo que resalta\r\n  la importancia de revisar la literatura existente. ",
+       [
+        "span",
+        {}
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n"
+  ],
+  "\r\n\r\n",
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "i",
+    {},
+    [
+     "span",
+     {},
+     " "
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "i",
+    {},
+    [
+     "span",
+     {},
+     " "
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "i",
+    {},
+    [
+     "span",
+     {},
+     " "
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  "\r\n\r\n",
+  [
+   "table",
+   {},
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {
+      "colspan": "4"
+     },
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Tabla 4"
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "i",
+       {},
+       [
+        "span",
+        {},
+        "Resumen del artículo Tecnoecosistemas arquitectónicos.\r\n  Casa Mármol, aproximación a la arquitectura bioclimática, confort ambiental,\r\n  eficiencia energética y sustentabilidad"
+       ]
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        " "
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "Autor y año"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "Objetivo"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "Resultado"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "Conclusión"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Berent, M. R., (2023)"
+      ],
+      [
+       "span",
+       {}
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Evaluar el diseño y la construcción de la Casa\r\n  Mármol en Resistencia, destacando la integración del clima, los principios\r\n  bioclimáticos y las tecnologías solares para mejorar la eficiencia energética\r\n  y reducir el impacto ambiental."
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Se alcanzó una alta eficiencia energética\r\n  mediante la integración de energía solar y estrategias bioclimáticas\r\n  adaptadas al clima cálido y húmedo de Resistencia."
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "La conclusión destaca que la implementación de\r\n  principios bioclimáticos y sustentables ha mejorado la eficiencia en\r\n  iluminación, ventilación, agua y energía, elevando la calidad de vida y\r\n  reduciendo el impacto ambiental."
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {
+      "colspan": "4"
+     },
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "Argumentación\r\n  del resultado"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {
+      "colspan": "4"
+     },
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "La\r\n  Casa Mármol en Resistencia demuestra con éxito el uso de principios\r\n  bioclimáticos y sostenibles al adaptar su diseño a un clima cálido y húmedo.\r\n  Utiliza ventilación cruzada, patios internos, energía solar y materiales\r\n  reciclados, logrando una alta eficiencia energética y confort térmico. Este\r\n  enfoque también establece un modelo replicable para construcciones en\r\n  condiciones climáticas similares."
+      ],
+      [
+       "span",
+       {},
+       " ",
+       [
+        "span",
+        {}
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n"
+  ],
+  "\r\n\r\n",
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "i",
+    {},
+    [
+     "span",
+     {},
+     " "
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "i",
+    {},
+    [
+     "span",
+     {},
+     " "
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  "\r\n\r\n",
+  [
+   "table",
+   {},
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {
+      "colspan": "4"
+     },
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Tabla 5"
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "i",
+       {},
+       [
+        "span",
+        {},
+        "Resumen del artículo Eficiencia energética aplicada al\r\n  consumo eléctrico: un estudio de revisión bibliográfica"
+       ]
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        " "
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "Autor y año"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "Objetivo"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "Resultado"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "Conclusión"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {
+      "lang": "pt"
+     },
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Costa, J.\r\n  dos S., & Andrade Junior, LML de. (2021)"
+      ],
+      [
+       "span",
+       {}
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Analizar\r\n  la producción científica brasileña sobre eficiencia energética en el consumo\r\n  de electricidad mediante un estudio bibliométrico en la base de datos Scopus."
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "De 66 artículos sobre eficiencia energética, solo\r\n  37 son relevantes, la mayoría son estudios de casos centrados en la\r\n  industria, y hay una notable falta de investigaciones sobre el sector\r\n  residencial."
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "La investigación sobre eficiencia energética en\r\n  Brasil se concentra en el sector industrial, dejando un vacío en estudios\r\n  sobre el sector residencial, a pesar de su alta demanda."
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {
+      "colspan": "4"
+     },
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "Argumentación\r\n  del resultado"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {
+      "colspan": "4"
+     },
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "A pesar de que las publicaciones sobre eficiencia\r\n  energética en Brasil se han incrementado, preocupa la falta de atención al\r\n  sector residencial, que representa una gran parte del consumo eléctrico en\r\n  este país. Esta tendencia, centrada en el sector industrial, ignora la\r\n  necesidad de implementar estrategias que mejoren la eficiencia en los\r\n  hogares, donde también se podrían lograr importantes ahorros energéticos."
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n"
+  ],
+  "\r\n\r\n",
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "i",
+    {},
+    [
+     "span",
+     {},
+     " "
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "i",
+    {},
+    [
+     "span",
+     {},
+     " "
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    " "
+   ]
+  ],
+  "\r\n\r\n",
+  "\r\n\r\n",
+  [
+   "table",
+   {},
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {
+      "colspan": "4"
+     },
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {
+        "lang": "en"
+       },
+       "Tabla 6"
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "i",
+       {},
+       [
+        "span",
+        {
+         "lang": "en"
+        },
+        "Resumen\r\n  del artículo "
+       ]
+      ],
+      [
+       "span",
+       {
+        "lang": "en"
+       },
+       "Metodología de diseño de\r\n  sistemas aislados de energía solar fotovoltaica para áreas rurales en Ecuador"
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        " "
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "Autor y año"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "Objetivo"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "Resultado"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "Conclusión"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Cuenca et al."
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "(2023)"
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Analizar los beneficios que proporciona la\r\n  energía solar fotovoltaica en zonas rurales de Ecuador, utilizando simulaciones\r\n  como herramienta previa a su implementación."
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Los resultados obtenidos de las simulaciones en\r\n  Simulink son ideales, ya que no consideran pérdidas por autoconsumo ni el\r\n  transporte de energía a través de conductores."
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "La herramienta desarrollada sugiere que los\r\n  sistemas fotovoltaicos aislados deben implementarse más frecuentemente a\r\n  distintas escalas, especialmente en zonas remotas o con escasa cobertura del\r\n  sistema nacional."
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {
+      "colspan": "4"
+     },
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "Argumentación del resultado"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {
+      "colspan": "4"
+     },
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "El enfoque es crucial para áreas\r\n  rurales de Ecuador, donde la falta de electricidad impide el avance\r\n  tecnológico. Este trabajo puede servir de base para futuras investigaciones\r\n  que busquen mejorar la simulación y la implementación de sistemas fotovoltaicos\r\n  aislados, promoviendo el acceso a tecnologías clave y el desarrollo integral\r\n  de las comunidades rurales. "
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n"
+  ],
+  "\r\n\r\n",
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "i",
+    {},
+    [
+     "span",
+     {},
+     " "
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    " "
+   ]
+  ],
+  "\r\n\r\n",
+  "\r\n\r\n",
+  [
+   "table",
+   {},
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {
+      "colspan": "4"
+     },
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {
+        "lang": "en"
+       },
+       "Tabla 7"
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {
+        "lang": "en"
+       },
+       "Resumen del artículo ",
+       [
+        "span",
+        {},
+        "Modelos de predicción de radiación solar y temperatura ambiente\r\n  mediante redes neuronales recurrentes"
+       ]
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        " "
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "Autor y año"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "Objetivo"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "Resultado"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "Conclusión"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Cuesta,\r\n  M., Constante, J., & Jijón, D. (2023)"
+      ],
+      [
+       "span",
+       {}
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "El objetivo del estudio es comparar las\r\n  arquitecturas de redes neuronales recurrentes de Elman y Jordan en la\r\n  predicción de la radiación solar y la temperatura ambiente a dos días."
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Los resultados de la validación mostraron\r\n  coeficientes de correlación mayores a 0,92 en temperatura y radiación solar\r\n  para ambas arquitecturas de redes neuronales, indicando un buen ajuste a las\r\n  series temporales."
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Los valores de radiación solar positivos en horas\r\n  nocturnas afectan la predicción, por lo que es crucial depurar los datos\r\n  antes de publicar los resultados para mejorar la precisión en el seguimiento\r\n  del recurso solar."
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       " "
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {
+      "colspan": "4"
+     },
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "Argumentación\r\n  del resultado"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {
+      "colspan": "4"
+     },
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "La\r\n  argumentación de los resultados se basa en un enfoque metodológico de cuatro\r\n  fases: recopilación de datos, identificación de datos atípicos, aplicación de\r\n  las redes neuronales recurrentes (RNRE y RNRJ) para predicción, y\r\n  establecimiento de criterios para elegir el método de predicción, lo que\r\n  asegura una ejecución precisa y coherente de los análisis. "
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n"
+  ],
+  "\r\n\r\n",
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    " "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    " "
+   ]
+  ],
+  "\r\n\r\n",
+  "\r\n\r\n",
+  [
+   "table",
+   {},
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {
+      "colspan": "4"
+     },
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {
+        "lang": "en"
+       },
+       "Tabla 8"
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "i",
+       {},
+       [
+        "span",
+        {
+         "lang": "en"
+        },
+        [
+         "span",
+         {},
+         " "
+        ]
+       ]
+      ],
+      [
+       "i",
+       {},
+       [
+        "span",
+        {
+         "lang": "en"
+        },
+        "Resumen\r\n  del artículo "
+       ]
+      ],
+      [
+       "span",
+       {
+        "lang": "en"
+       },
+       "Diseño biofílico y eficiencia energética en centros\r\n  sanitarios"
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        " "
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "Autor y año"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "Objetivo"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "Resultado"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "Conclusión"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Stefani\r\n  dos Santos, J. y Torres, M. C. A. (2024)"
+      ],
+      [
+       "span",
+       {}
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Examinar\r\n  las interconexiones entre biofilia y eficiencia energética en hospitales,\r\n  identificando un vacío en el enfoque sistémico y resaltando el potencial de\r\n  inversiones."
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "El análisis destaca que, aunque la eficiencia energética\r\n  en hospitales es crucial, se ha pasado por alto un enfoque que integra el\r\n  entorno natural, creando un vacío en la investigación que podría explorarse\r\n  en el futuro."
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "A pesar de la importancia de la eficiencia\r\n  energética en los hospitales, se ha ignorado la integración del entorno\r\n  natural y las percepciones sociales. El diseño biofílico puede mejorar el\r\n  bienestar y la sostenibilidad, y hay una necesidad de un enfoque más\r\n  sistémico en la investigación futura."
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {
+      "colspan": "4"
+     },
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "Argumentación\r\n  del resultado"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {
+      "colspan": "4"
+     },
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Aunque la eficiencia energética en hospitales es\r\n  crucial, se ha ignorado un enfoque que integre el entorno natural y las\r\n  percepciones sociales, destacando la necesidad de un diseño biofílico y un\r\n  enfoque más integral en la investigación futura.",
+       [
+        "span",
+        {}
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n"
+  ],
+  "\r\n\r\n",
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    " "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    " "
+   ]
+  ],
+  "\r\n\r\n",
+  "\r\n\r\n",
+  [
+   "table",
+   {},
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {
+      "colspan": "4"
+     },
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {
+        "lang": "en"
+       },
+       "Tabla 9"
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {
+        "lang": "en"
+       },
+       "Resumen del artículo Una revisión de la literatura sobre medidas de\r\n  eficiencia energética en los edificios"
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        " "
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "Autor y año"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "Objetivo"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "Resultado"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "Conclusión"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Ribeiro, A. (2021)"
+      ],
+      [
+       "span",
+       {}
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Revisar la producción académica sobre eficiencia\r\n  energética en edificaciones, analizando la prevalencia de técnicas pasivas\r\n  frente a activas y las desigualdades regionales en Brasil."
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Se encontró que las técnicas pasivas en\r\n  eficiencia energética predominan (74,1%) sobre las activas (8,6%), y que hay\r\n  desigualdades regionales en Brasil."
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "La investigación muestra un predominio de\r\n  técnicas pasivas en eficiencia energética y desigualdades regionales en\r\n  Brasil, sugiriendo la necesidad de más estudios."
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {
+      "colspan": "4"
+     },
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "Argumentación\r\n  del resultado"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {
+      "colspan": "4"
+     },
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "El\r\n  predominio de las técnicas pasivas sobre las activas en la investigación\r\n  sugiere un enfoque hacia soluciones más accesibles, mientras que las\r\n  desigualdades regionales destacan la necesidad de más atención equitativa en\r\n  eficiencia energética."
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n"
+  ],
+  "\r\n\r\n",
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    " "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    " "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    " "
+   ]
+  ],
+  "\r\n\r\n",
+  "\r\n\r\n",
+  [
+   "table",
+   {},
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {
+      "colspan": "4"
+     },
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {
+        "lang": "en"
+       },
+       "Tabla 10"
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "i",
+       {},
+       [
+        "span",
+        {
+         "lang": "en"
+        },
+        "Resumen del artículo Métricas de iluminación\r\n  integradora de eficiencia energética"
+       ]
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        " "
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "Autor y año"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "Objetivo"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "Resultado"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "Conclusión"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Suquere de\r\n  Moraes, C. y Tschiedel Martau, B. (2024)"
+      ],
+      [
+       "span",
+       {}
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Analizar investigaciones sobre métricas de\r\n  iluminación integradora para evaluar sus estrategias y el consumo."
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "El estudio revela que no hay consenso sobre la\r\n  métrica ideal en iluminación integradora, siendo la luz melanópica la más\r\n  común. Se destaca también la necesidad de realizar más investigación en\r\n  eficiencia energética."
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Se determina que la luz melanópica y la\r\n  direccionalidad son aspectos fundamentales, ya que ajustar la dirección de la\r\n  iluminación puede contribuir a reducir el consumo energético."
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {
+      "colspan": "4"
+     },
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "Argumentación\r\n  del resultado"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {
+      "colspan": "4"
+     },
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "A pesar de la importancia de la iluminación para\r\n  la salud y el consumo energético, no hay consenso sobre las métricas óptimas\r\n  para una iluminación integradora. La luz melanópica y la direccionalidad son\r\n  aspectos clave para reducir el consumo energético, pero aún son pocas las\r\n  investigaciones que aplican estos principios con un enfoque en la eficiencia\r\n  energética.",
+       [
+        "span",
+        {}
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n"
+  ],
+  "\r\n\r\n",
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    " "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "i",
+    {},
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     " "
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  "\r\n\r\n",
+  [
+   "table",
+   {},
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {
+      "colspan": "4"
+     },
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {
+        "lang": "en"
+       },
+       "Tabla 11"
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "i",
+       {},
+       [
+        "span",
+        {
+         "lang": "en"
+        },
+        "Resumen\r\n  del artículo ",
+        [
+         "span",
+         {},
+         "Metodología\r\n  para el mejoramiento de la eficiencia energética de la envolvente edilicia\r\n  del sector"
+        ]
+       ]
+      ]
+     ],
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        " "
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "Autor y año"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "Objetivo"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "Resultado"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "Conclusión"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Urteneche, E., Fondoso-Ossola, S. T., Martini, I., Barbero, D. A.,\r\n  & Discoli, C. A. (2022)"
+      ],
+      [
+       "span",
+       {}
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Desarrollar una metodología para identificar,\r\n  cuantificar y analizar el consumo energético en establecimientos de salud."
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "El análisis muestra que la optimización de la\r\n  envolvente edilicia del Hospital Gutiérrez puede reducir significativamente el\r\n  consumo energético y los costos de climatización, con la estrategia combinada\r\n  de reciclado 3."
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n  ",
+    [
+     "td",
+     {},
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "Las intervenciones en la envolvente edilicia de\r\n  hospitales pueden reducir significativamente el consumo energético, mejorar\r\n  el confort y ofrecer beneficios económicos sustanciales."
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {
+      "colspan": "4"
+     },
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "b",
+       {},
+       [
+        "span",
+        {},
+        "Argumentación\r\n  del resultado"
+       ]
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n ",
+   [
+    "tr",
+    {},
+    "\r\n  ",
+    [
+     "td",
+     {
+      "colspan": "4"
+     },
+     "\r\n  ",
+     [
+      "p",
+      {},
+      [
+       "span",
+       {},
+       "La\r\n  estrategia combinada de reciclado 3, que integra el aislamiento térmico\r\n  exterior e interior, se destaca por ofrecer los mayores ahorros tanto\r\n  energéticos como económicos. A pesar de que esta opción requiere una\r\n  inversión inicial significativa, su mayor eficiencia en términos de ahorro\r\n  energético y menor tiempo de amortización la hace la alternativa más\r\n  ventajosa en comparación con otras estrategias. "
+      ]
+     ],
+     "\r\n  "
+    ],
+    "\r\n "
+   ],
+   "\r\n"
+  ],
+  "\r\n\r\n",
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "i",
+    {},
+    [
+     "span",
+     {},
+     " "
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    " "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "DISCUSIÓN "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   "Esta investigación parte de la premisa de que, al\r\nincorporar estos principios en base a criterios de eficiencia energética de\r\nmanera adecuada, no solo se mejora el confort y la habitabilidad de las\r\nviviendas, sino que se ofrece también una solución a largo plazo. Villa El\r\nSalvador, como muchas zonas urbanas en expansión, enfrenta el reto de una alta\r\ndensidad poblacional y un aumento constante en la demanda de energía. En este\r\ncontexto, los métodos tradicionales de construcción y consumo energético\r\nresultan insostenibles tanto económica como ambientalmente. "
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   "El estudio resalta la importancia de poder incluir\r\ntecnologías eficientes en el diseño arquitectónico, como el uso de energía\r\nsolar pasiva y sistemas de envolventes ventiladas. Estas soluciones se ven adaptadas\r\na las características particulares del distrito de Villa El Salvador, y no solo\r\nmejoran la eficiencia energética, sino que también incorporan un entorno más\r\nsaludable y confortable para la población. Asimismo, el aprovechamiento de\r\nrecursos locales y la implementación de tecnologías adecuadas a la comunidad\r\nfacilitan la adopción de estas soluciones de manera accesible y práctica."
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   "Un factor clave es la adaptación de estos principios\r\na las condiciones específicas de Villa El Salvador, tanto climáticas como\r\nsocioeconómicas. La investigación resalta que el diseño arquitectónico debe\r\nadaptarse a estos factores para asegurar que las soluciones sean efectivas.\r\nAdemás, el enfoque de sostenibilidad va más allá de la eficiencia energética, e\r\ninvolucra el uso de materiales locales y reciclados, la optimización de\r\nrecursos naturales y la reducción de la huella ambiental de la construcción. "
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   "Al promover el uso de estos materiales, se disminuye\r\nel impacto negativo sobre el medio ambiente y se contribuye en la creación de\r\nun entorno más saludable para los residentes. La incorporación de estrategias\r\nbioclimáticas en el diseño, como la correcta orientación de las viviendas y el\r\nuso de sistemas pasivos de ventilación, también ayuda a mejorar la eficiencia\r\nenergética, creando espacios más confortables y reduciendo el consumo de\r\nenergía."
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   "CONCLUSIONES"
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   "Se compendiaron y examinaron minuciosamente los\r\ndatos, planes y sugerencias previas con el fin de contar con fundamentos para\r\nel desarrollo del artículo sobre eficiencia en el ámbito arquitectónico,\r\noptimización, reducción económica, sostenibilidad y confort. Estas\r\naveriguaciones se documentaron de manera puntual y definida, adaptándose a las\r\ncondiciones geográficas y climáticas específicas del Sector 7, del distrito de\r\nVilla El Salvador."
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   "En relación al crecimiento urbano y la demanda\r\nenergética, este distrito ha experimentado un crecimiento urbano acelerado que\r\nha generado una alta demanda de energía y viviendas, lo que ha llevado a la\r\nconstrucción de casas sin considerar criterios de sostenibilidad y eficiencia\r\nenergética. Esta última, entendida como una oportunidad, requiere la\r\nimplementación de estrategias de uso eficiente de la energía en el diseño y en\r\nla construcción de viviendas."
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   "La falta de conocimiento y asesoramiento sobre\r\neficiencia energética por parte de la población del distrito en mención es otra\r\nbarrera que impide la implementación de prácticas sostenibles; esto destaca la\r\nimportancia de la educación y la concientización por parte de la comunidad para\r\nque reconozca que las viviendas diseñadas con criterios de eficiencia\r\nenergética son más capaces de adaptarse a las condiciones climáticas extremas."
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   "Dentro de las recomendaciones, se sugiere\r\nimplementar en la comunidad talleres y programas educativos sobre eficiencia energética\r\ny sostenibilidad, en los que se aborden temas como la importancia del uso de\r\nenergías renovables y tecnologías eficientes. También fomentar la creación de\r\nproyectos comunitarios que integren criterios de eficiencia energética en la\r\nconstrucción, promoviendo la participación activa de los habitantes en el\r\ndiseño y desarrollo de sus viviendas. "
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   "Por último, se buscará impulsar iniciativas que\r\nfomenten la colaboración entre los residentes, instituciones y organizaciones\r\nno gubernamentales para fortalecer la cohesión comunitaria y fomentar una\r\ncultura de sostenibilidad."
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "REFERENCIAS\r\nBIBLIOGRÁFICAS"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "en"
+   },
+   [
+    "span",
+    {},
+    "Anas, N. & Ishaq, K. (2020). "
+   ],
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    "Qualitative research method in social and\r\nbehavioural science research,",
+    [
+     "i",
+     {},
+     "\r\nInternational journal of management, social sciences, peace and conflict\r\nstudies, 5(1), 89-93. "
+    ]
+   ],
+   [
+    "a",
+    {
+     "href": "https://www.researchgate.net/publication/361174520_Qualitative_Research_Paper"
+    },
+    [
+     "span",
+     {},
+     "https://www.researchgate.net/publication/361174520_Qualitative_Research_Paper"
+    ]
+   ],
+   [
+    "span",
+    {},
+    ". "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Balter, J.,\r\nGanem, C., & Barea, G. (2020). Mejoras en el desempeño energético de\r\nedificios en verano mediante la integración de envolventes ventiladas en\r\nfachadas norte y cubiertas. El caso de Mendoza, Argentina. ",
+    [
+     "i",
+     {},
+     "Hábitat Sustentable"
+    ],
+    ", ",
+    [
+     "i",
+     {},
+     "10"
+    ],
+    "(2),\r\n94–105. "
+   ],
+   [
+    "a",
+    {
+     "href": "https://doi.org/10.22320/07190700.2020.10.02.07"
+    },
+    [
+     "span",
+     {},
+     "https://doi.org/10.22320/07190700.2020.10.02.07"
+    ]
+   ],
+   [
+    "span",
+    {}
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "pt"
+   },
+   [
+    "span",
+    {},
+    "Bavaresco,\r\nM. V, Ortiz, H. Y, Schinazi, A, Ghisi, E. (2021). Aspectos impactantes no\r\ndesempenho energético de habitações de interesse social brasileiras: revisão de\r\nliteratura. ",
+    [
+     "i",
+     {},
+     "Ambiente construído"
+    ],
+    ", ",
+    [
+     "i",
+     {},
+     "21"
+    ],
+    ", 263-292. "
+   ],
+   [
+    "a",
+    {
+     "href": "https://doi.org/10.1590/s1678-86212021000100505"
+    },
+    [
+     "span",
+     {},
+     "https://doi.org/10.1590/s1678-86212021000100505"
+    ]
+   ],
+   [
+    "span",
+    {},
+    " "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Berent, M.\r\nR. (2023). Tecnoecosistemas arquitectónicos. Casa Mármol, aproximación a la\r\narquitectura bioclimática, confort ambiental, eficiencia energética y\r\nsustentabilidad. ",
+    [
+     "i",
+     {},
+     "Arquitecno"
+    ],
+    ", (22). "
+   ],
+   [
+    "a",
+    {
+     "href": "https://doi.org/10.30972/arq.227247"
+    },
+    [
+     "span",
+     {},
+     "https://doi.org/10.30972/arq.227247"
+    ]
+   ],
+   [
+    "span",
+    {}
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Costa, J.\r\ndos S., & Andrade Junior, LML de. (2021). Eficiencia energética aplicada al\r\nconsumo eléctrico: un estudio de revisión bibliográfica. ",
+    [
+     "i",
+     {},
+     "Investigación, Sociedad y Desarrollo"
+    ],
+    ", ",
+    [
+     "i",
+     {},
+     "10"
+    ],
+    " (4), e26210414085. "
+   ],
+   [
+    "a",
+    {
+     "href": "https://doi.org/10.33448/rsd-v10i4.14085"
+    },
+    [
+     "span",
+     {},
+     "https://doi.org/10.33448/rsd-v10i4.14085"
+    ]
+   ],
+   [
+    "u",
+    {},
+    [
+     "span",
+     {},
+     "\r\n"
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Cuenca, A.,\r\nOña, C., Suquillo, I., & Miniguano, H. (2023). Metodología de diseño de\r\nsistemas aislados de energía solar fotovoltaica para áreas rurales en Ecuador. ",
+    [
+     "i",
+     {},
+     "Revista Técnica \"energía\""
+    ],
+    ", ",
+    [
+     "i",
+     {},
+     "20"
+    ],
+    "(1), 43-51. "
+   ],
+   [
+    "a",
+    {
+     "href": "https://doi.org/10.37116/revistaenergia.v20.n1.2023.537"
+    },
+    [
+     "span",
+     {},
+     "https://doi.org/10.37116/revistaenergia.v20.n1.2023.537"
+    ]
+   ],
+   [
+    "span",
+    {}
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Cuesta, M.,\r\nConstante, J., & Jijón, D. (2023). Modelos de predicción de radiación solar\r\ny temperatura ambiente mediante redes neuronales recurrentes. ",
+    [
+     "i",
+     {},
+     "Revista Técnica \"energía\""
+    ],
+    ", ",
+    [
+     "i",
+     {},
+     "19"
+    ],
+    "(2), 81-89. "
+   ],
+   [
+    "a",
+    {
+     "href": "https://doi.org/10.37116/revistaenergia.v19.n2.2023.552"
+    },
+    [
+     "span",
+     {},
+     "https://doi.org/10.37116/revistaenergia.v19.n2.2023.552"
+    ]
+   ],
+   [
+    "u",
+    {},
+    [
+     "span",
+     {}
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Dávila, S.\r\n(2020). Edificación sustentable: Cadena de responsabilidades posventa en Lima. "
+   ],
+   [
+    "i",
+    {},
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "South\r\nSustainability"
+    ]
+   ],
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    ", ",
+    [
+     "i",
+     {},
+     "1"
+    ],
+    "(1). "
+   ],
+   [
+    "a",
+    {
+     "href": "https://doi.org/10.21142/SS-0101-2020-009"
+    },
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "https://doi.org/10.21142/SS-0101-2020-009"
+    ]
+   ],
+   [
+    "u",
+    {},
+    [
+     "span",
+     {
+      "lang": "en"
+     }
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    "Díaz, L.,\r\nMiller, K. y Henley, T. (2019). "
+   ],
+   [
+    "span",
+    {},
+    "Un examen de la investigación de\r\ntesis: la relación entre género, enfoque metodológico y diseño de investigación.\r\n"
+   ],
+   [
+    "i",
+    {},
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "Journal\r\nof Public Affairs Education"
+    ]
+   ],
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    ", ",
+    [
+     "i",
+     {},
+     "25 "
+    ],
+    "(1), 93-114, "
+   ],
+   [
+    "a",
+    {
+     "href": "https://www.tandfonline.com/doi/full/10.1080/15236803.2018.1463792?needAccess=true"
+    },
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "https://www.tandfonline.com/doi/full/10.1080/15236803.2018.1463792?needAccess=true"
+    ]
+   ],
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    " "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Giraldo, J.\r\n& Arango, J. P. (2020). Proceso de optimización en el diseño de sistema de\r\ncalefacción solar pasivo. ",
+    [
+     "i",
+     {},
+     "Revista Técnica\r\n\"energía\""
+    ],
+    ", ",
+    [
+     "i",
+     {},
+     "16"
+    ],
+    "(2),\r\n100-110.",
+    [
+     "span",
+     {},
+     "   "
+    ]
+   ],
+   [
+    "a",
+    {
+     "href": "https://doi.org/10.37116/revistaenergia.v16.n2.2020.357"
+    },
+    [
+     "span",
+     {},
+     "https://doi.org/10.37116/revistaenergia.v16.n2.2020.357"
+    ]
+   ],
+   [
+    "span",
+    {}
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Gómez, P., & Ramírez, L. (2023). La eficiencia energética en Perú:\r\nPolíticas y retos hacia el desarrollo sostenible. ",
+    [
+     "i",
+     {},
+     "Revista Latinoamericana de Energía Sostenible"
+    ],
+    ", Recuperado de "
+   ],
+   [
+    "a",
+    {
+     "href": "https://www.osinergmin.gob.pe/seccion/centro_documental/Institucional/Estudios_Economicos/Libros/Osinergmin-Energias-Renovables-Experiencia-Perspectivas.pdf"
+    },
+    [
+     "span",
+     {},
+     "https://www.osinergmin.gob.pe/seccion/centro_documental/Institucional/Estudios_Economicos/Libros/Osinergmin-Energias-Renovables-Experiencia-Perspectivas.pdf"
+    ]
+   ],
+   [
+    "span",
+    {},
+    " "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Gutiérrez, A., & García, J. (2021). Fuentes de energía renovable,\r\nrecursos energéticos distribuidos y almacenamiento en Colombia: una revisión de\r\nla normatividad. SSRN. Recuperado de"
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "a",
+    {
+     "href": "https://dx.doi.org/10.2139/ssrn.3768871"
+    },
+    [
+     "span",
+     {},
+     "https://dx.doi.org/10.2139/ssrn.3768871"
+    ]
+   ],
+   [
+    "span",
+    {},
+    " "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Hua, X., et\r\nal. (2023). Efecto del riesgo percibido y las normas subjetivas en la intención\r\nde compra en línea entre los estudiantes de la Universidad SEGi: un estudio\r\nutilizando el enfoque SmartPLS-SEM. ",
+    [
+     "i",
+     {},
+     "IJFS"
+    ],
+    ",\r\n",
+    [
+     "i",
+     {},
+     "5"
+    ],
+    "(13). ",
+    [
+     "u",
+     {},
+     [
+      "span",
+      {},
+      "doi:\r\n10.25236/IJFS.2023.051315"
+     ]
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "López\r\nLovillo, RM, Aguilar Carrasco, MT, Díaz-Borrego Algaba, J., & Romero Gómez,\r\nMI (2023). Optimización energética: Acercando la práctica profesional a distintos\r\nniveles educativos. En XI Jornadas sobre Innovación Docente en Arquitectura\r\n(JIDA'23), Escuela Técnica Superior de Arquitectura de Granada, 16 y 17 de\r\nnoviembre de 2023: Libro de actas, Barcelona, ​​2023, núm. 11, págs. 844–856. ",
+    [
+     "u",
+     {},
+     [
+      "span",
+      {},
+      "Doi:"
+     ]
+    ]
+   ],
+   [
+    "a",
+    {
+     "href": "http://dx.doi.org/10.5821/jida.2023.12311"
+    },
+    [
+     "span",
+     {},
+     "10.5821/jida.2023.12311"
+    ]
+   ],
+   [
+    "u",
+    {},
+    [
+     "span",
+     {}
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "López, L.\r\nM., Aguilar, K., Macías, E., Hernández, I., López, L. M., & López, S.\r\n(2022). Ahorro de energía y eficiencia energética en la zona de la cultura de\r\nla Universidad Juárez Autónoma de Tabasco.  "
+   ],
+   [
+    "i",
+    {},
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "Journal of Energy,\r\nEngineering Optimization and Sustainability"
+    ]
+   ],
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    ", ",
+    [
+     "i",
+     {},
+     "6"
+    ],
+    "(1), 1-18. "
+   ],
+   [
+    "a",
+    {
+     "href": "https://doi.org/10.19136/jeeos.a6n1.4846"
+    },
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "https://doi.org/10.19136/jeeos.a6n1.4846"
+    ]
+   ],
+   [
+    "span",
+    {
+     "lang": "en"
+    }
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Medina, M.,\r\nRojas, R., Bustamante, W., Loaiza, R., Martel, C., & Castillo, R.\r\n(2023). ",
+    [
+     "i",
+     {},
+     "Metodología de la\r\ninvestigación: Técnicas e instrumentos de investigación"
+    ],
+    ". Instituto\r\nUniversitario de Innovación Ciencia y Tecnología Inudi Perú. "
+   ],
+   [
+    "a",
+    {
+     "href": "https://doi.org/10.35622/inudi.b.080"
+    },
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "https://doi.org/10.35622/inudi.b.080"
+    ]
+   ],
+   [
+    "span",
+    {
+     "lang": "en"
+    }
+   ]
+  ],
+  "\r\n\r\n",
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "en"
+   },
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    "Paulus,\r\nT., & Marone, V. (2024). “In Minutes Instead of Weeks”: Discursive\r\nConstructions of Generative AI and Qualitative Data Analysis. "
+   ],
+   [
+    "i",
+    {},
+    [
+     "span",
+     {},
+     "Qualitative Inquiry"
+    ]
+   ],
+   [
+    "span",
+    {},
+    ". ",
+    [
+     "u",
+     {},
+     [
+      "span",
+      {},
+      "doi: 10.1177/10778004241250065"
+     ]
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Pereira, M.\r\ny Turizo, L. (2020). Medidas para la implementación del uso racional y\r\neficiente de la energía: caso de las energías renovables en Colombia. Estado\r\ndel arte, avances y retos. ",
+    [
+     "i",
+     {},
+     "Revista\r\nJurídica"
+    ],
+    ", ",
+    [
+     "i",
+     {},
+     "17, "
+    ],
+    "43-72."
+   ],
+   [
+    "a",
+    {
+     "href": "https://revistas.unicartagena.edu.co/index.php/Juridica/article/view/3146"
+    },
+    [
+     "span",
+     {},
+     "https://revistas.unicartagena.edu.co/index.php/Juridica/article/view/3146"
+    ]
+   ],
+   [
+    "span",
+    {},
+    " "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Riaño, E.,\r\n& Daza, D. (2023). Simulaciones virtuales para la optimización energética\r\nen edificaciones existentes: caso de estudio edificio turístico Palmetto Sunset\r\n(Barrio Laguito-Cartagena). Repositorio",
+    [
+     "i",
+     {},
+     ", "
+    ],
+    "pág.\r\n12. "
+   ],
+   [
+    "a",
+    {
+     "href": "https://repository.ugc.edu.co/server/api/core/bitstreams/d9c3c9d2-0322-4d78-97fb-a63c3fd0eaf4/content"
+    },
+    [
+     "span",
+     {},
+     "https://repository.ugc.edu.co/server/api/core/bitstreams/d9c3c9d2-0322-4d78-97fb-a63c3fd0eaf4/content"
+    ]
+   ],
+   [
+    "span",
+    {},
+    " "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "i",
+    {},
+    [
+     "span",
+     {},
+     "Ribeiro, A. (2021). "
+    ]
+   ],
+   [
+    "span",
+    {},
+    "Una revisión\r\nde la literatura sobre medidas de eficiencia energética en los edificios. ",
+    [
+     "i",
+     {},
+     "Boletín del Observatorio Ambiental"
+    ],
+    ", ",
+    [
+     "i",
+     {},
+     "15"
+    ],
+    " (2), 32-47."
+   ],
+   [
+    "a",
+    {
+     "href": "https://doi.org/10.19180/2177-4560.v15n22021p32-47"
+    },
+    [
+     "span",
+     {},
+     "\r\ndoi: 10.19180/2177-4560.v15n22021p32-47."
+    ]
+   ],
+   [
+    "span",
+    {}
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Rojas,\r\nP.",
+    [
+     "span",
+     {},
+     "  "
+    ],
+    "(2022). Certificación EDGE, un paso\r\nen la transformación de la construcción sostenible en la ciudad de Cartagena:\r\nuna revisión teórica. ",
+    [
+     "i",
+     {},
+     "Revista Científica\r\nAnfibios"
+    ],
+    [
+     "span",
+     {},
+     ", "
+    ]
+   ],
+   [
+    "a",
+    {
+     "href": "https://www.revistaanfibios.org/ojs/index.php/afb/issue/view/10"
+    },
+    [
+     "i",
+     {},
+     [
+      "span",
+      {},
+      "5"
+     ]
+    ]
+   ],
+   [
+    "a",
+    {
+     "href": "https://www.revistaanfibios.org/ojs/index.php/afb/issue/view/10"
+    },
+    [
+     "span",
+     {},
+     "(1"
+    ]
+   ],
+   [
+    "span",
+    {},
+    ")"
+   ],
+   [
+    "span",
+    {},
+    ", 99-104. "
+   ],
+   [
+    "a",
+    {
+     "href": "https://doi.org/10.37979/afb.2022v5n1.106"
+    },
+    [
+     "span",
+     {},
+     "https://doi.org/10.37979/afb.2022v5n1.106"
+    ]
+   ],
+   [
+    "span",
+    {}
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Secretaría de Energía de la Nación (SEN). (2020). Eficiencia Energética:\r\nProgramas. SEN 2020. Recuperado de "
+   ],
+   [
+    "a",
+    {
+     "href": "https://www.argentina.gob.ar/produccion/energia"
+    },
+    [
+     "span",
+     {},
+     "https://www.argentina.gob.ar/produccion/energia"
+    ]
+   ],
+   [
+    "span",
+    {},
+    " "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Smit, B.,\r\n& Scherman, V. (2021). Software de análisis de datos cualitativos asistido\r\npor computadora para revisiones de alcance: un caso de ATLAS.ti. ",
+    [
+     "i",
+     {},
+     "International Journal of Qualitative Methods"
+    ],
+    ",\r\n",
+    [
+     "i",
+     {},
+     "20"
+    ],
+    ". ",
+    [
+     "u",
+     {},
+     [
+      "span",
+      {},
+      "doi:\r\n10.1177/16094069211019140"
+     ]
+    ],
+    ". "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Sornoza, J.,\r\nZambrano, R., Caballero, B. y Véliz, J. (2020). Materiales alternativos\r\nempleados en la construcción de viviendas en Ecuador: una revisión. ",
+    [
+     "i",
+     {},
+     "Polo del conocimiento"
+    ],
+    ", ",
+    [
+     "i",
+     {},
+     "7"
+    ],
+    "(4). 1072-1097.",
+    [
+     "span",
+     {},
+     "  "
+    ]
+   ],
+   [
+    "a",
+    {
+     "href": "https://dialnet.unirioja.es/servlet/articulo?codigo=8483010"
+    },
+    [
+     "span",
+     {},
+     "https://dialnet.unirioja.es/servlet/articulo?codigo=8483010"
+    ]
+   ],
+   [
+    "span",
+    {}
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Stefani dos\r\nSantos, J. & Torres, M.C.A. (2024). Diseño biofílico y eficiencia\r\nenergética en centros de salud: una revisión de la literatura.",
+    [
+     "span",
+     {},
+     "  "
+    ],
+    [
+     "i",
+     {},
+     "Encuentro\r\nnacional sobre tecnología del entorno construido"
+    ],
+    ", ",
+    [
+     "i",
+     {},
+     "20"
+    ],
+    " (1), 1–15."
+   ],
+   [
+    "a",
+    {
+     "href": "https://doi.org/10.46421/entac.v20i1.5919"
+    },
+    [
+     "span",
+     {},
+     "https://doi.org/10.46421/entac.v20i1.591"
+    ]
+   ],
+   [
+    "u",
+    {},
+    [
+     "span",
+     {},
+     "9\r\n"
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Suquere de\r\nMoraes, C. & Tschiedel Martau, B. (2024). Métricas de iluminación\r\nintegradora de eficiencia energética: revisión sistemática de la literatura. ",
+    [
+     "i",
+     {},
+     "Encuentro nacional sobre tecnología del\r\nentorno construido"
+    ],
+    ",",
+    [
+     "span",
+     {},
+     "  "
+    ],
+    [
+     "i",
+     {},
+     "20"
+    ],
+    " (1), 1-10.",
+    [
+     "b",
+     {},
+     " "
+    ]
+   ],
+   [
+    "a",
+    {
+     "href": "https://doi.org/10.46421/entac.v20i1.6360"
+    },
+    [
+     "span",
+     {},
+     "https://doi.org/10.46421/entac.v20i1.6360"
+    ]
+   ],
+   [
+    "u",
+    {},
+    [
+     "span",
+     {}
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    [
+     "span",
+     {},
+     " "
+    ],
+    "Torres, A., Del Castillo, A.,\r\n& Mezones, J. (2020). Compendio estadístico Provincia de Lima 2020.\r\nInstituto Nacional de Estadística e Informática. Recuperado de "
+   ],
+   [
+    "a",
+    {
+     "href": "https://www.inei.gob.pe/media/MenuRecursivo/publicaciones_digitales/Est/Lib1847/libro.pdf"
+    },
+    [
+     "span",
+     {},
+     "https://www.inei.gob.pe/media/MenuRecursivo/publicaciones_digitales/Est/Lib1847/libro.pdf"
+    ]
+   ],
+   [
+    "span",
+    {},
+    " "
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {},
+    "Torres, Y.\r\n(2020). Eficiencia energética y ahorro energético residencial. ",
+    [
+     "i",
+     {},
+     "Revista South Sustainability"
+    ],
+    ", ",
+    [
+     "i",
+     {},
+     "1"
+    ],
+    "(1), p. e011. "
+   ],
+   [
+    "a",
+    {
+     "href": "https://doi.org/10.21142/SS-0101-2020-011"
+    },
+    [
+     "span",
+     {},
+     "https://doi.org/10.21142/SS-0101-2020-011"
+    ]
+   ],
+   [
+    "span",
+    {}
+   ]
+  ],
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "en"
+   },
+   [
+    "span",
+    {},
+    "Urteneche,\r\nE., Fondoso-Ossola, S. T., Martini, I., Barbero, D. A., & Discoli, C. A.\r\n(2022). "
+   ],
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    "Methodology to improving\r\nenergy efficiency of building envelope of heath sector. ",
+    [
+     "i",
+     {},
+     "Estoa. Journal of the Faculty of Architecture and Urbanism"
+    ],
+    ", ",
+    [
+     "i",
+     {},
+     "11"
+    ],
+    "(21). "
+   ],
+   [
+    "a",
+    {
+     "href": "https://doi.org/10.18537/est.v011.n021.a12"
+    },
+    [
+     "span",
+     {
+      "lang": "en"
+     },
+     "https://doi.org/10.18537/est.v011.n021.a12"
+    ]
+   ],
+   [
+    "span",
+    {
+     "lang": "en"
+    }
+   ]
+  ],
+  "\r\n\r\n",
+  "\r\n\r\n",
+  [
+   "p",
+   {
+    "lang": "en"
+   },
+   [
+    "span",
+    {},
+    "Yaqoob, A., et al. (2024). "
+   ],
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    "Designing and Validating a Contextual Home-Based Physical Activity and\r\nExercise Rehabilitation for Patients with Coronary Artery Disease in Low\r\nResource Settings: Patients’ Experiences and Expert Opinions. ",
+    [
+     "u",
+     {},
+     [
+      "span",
+      {},
+      "doi: 10.21203/rs.3.rs-4297027/v1"
+     ]
+    ]
+   ]
+  ],
+  "\r\n\r\n",
+  "\r\n\r\n",
+  [
+   "p",
+   {},
+   [
+    "span",
+    {
+     "lang": "en"
+    },
+    " "
+   ]
+  ],
+  "\r\n\r\n",
+  "\r\n\r\n",
+  "\r\n\r\n",
+  "\r\n\r\n",
+  "\r\n\r\n",
+  "\r\n\r\n",
+  [
+   "span",
+   {
+    "id": "t-_com_1"
+   },
+   [
+    "span",
+    {},
+    [
+     "a",
+     {
+      "id": "t-_msocom_1"
+     }
+    ]
+   ],
+   "\r\n\r\n",
+   [
+    "p",
+    {},
+    [
+     "span",
+     {},
+     "Cuando se diagrame, tomar en cuenta,\r\npor favor, que entre el número y el símbolo de porcentaje debe hacer un espacio\r\nfino."
+    ],
+    [
+     "span",
+     {}
+    ]
+   ],
+   "\r\n\r\n"
+  ],
+  "\r\n\r\n",
+  "\r\n\r\n",
+  "\r\n\r\n"
+ ]
+}

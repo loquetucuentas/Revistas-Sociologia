@@ -1,0 +1,3600 @@
+// Copia de textos/10-36615-fcpv4670.json para abrir la aplicación sin servidor.
+(window.DATOS_REVISTAS = window.DATOS_REVISTAS || {})["textos/10-36615-fcpv4670.json"] = {
+ "version": 1,
+ "recogido": "2026-10-18T11:31:34+00:00",
+ "doi": "10.36615/fcpv4670",
+ "titulo": "The Beijing Declaration and Platform for Action’s Continuing Guidance for the Protection of Girls Before, During and After Armed Conflict",
+ "revista": "3006-841X",
+ "numero": "v21-n1-2026",
+ "licencia": {
+  "codigo": "by",
+  "nombre": "CC BY 4.0",
+  "nombre_completo": "Creative Commons Atribución 4.0 Internacional",
+  "url": "https://creativecommons.org/licenses/by/4.0",
+  "url_legal": "https://creativecommons.org/licenses/by/4.0/legalcode.es"
+ },
+ "fuente": {
+  "url": "https://journals.uj.ac.za/index.php/csr/en/article/download/5050/2704",
+  "formato": "XML JATS",
+  "plataforma": "JATS",
+  "pagina": "https://journals.uj.ac.za/index.php/csr/article/view/5050"
+ },
+ "autores_cita": [
+  {
+   "apellidos": "Fritz",
+   "nombre_pila": "Jan Marie",
+   "nombre": null
+  }
+ ],
+ "avisos_derechos": [
+  "Copyright (c) 2026 Jan Marie Fritz",
+  "©Author(s)",
+  "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
+ ],
+ "idioma_principal": "en",
+ "indice": [
+  {
+   "id": "t-seccion-1",
+   "nivel": 2,
+   "texto": "Introduction",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-2",
+   "nivel": 2,
+   "texto": "The Beijing Declaration and Platform for Action (1995)",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-3",
+   "nivel": 2,
+   "texto": "Children in Armed Conflict (2022–2025)",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-4",
+   "nivel": 2,
+   "texto": "The Universities Network for Children in Armed Conflict (2020– )",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-5",
+   "nivel": 2,
+   "texto": "Continuing Guidance: Before, During, and After Conflict",
+   "lang": null
+  },
+  {
+   "id": "t-seccion-6",
+   "nivel": 2,
+   "texto": "References",
+   "lang": null
+  }
+ ],
+ "vueltas": {
+  "t-r35": "t-llamada-r35-1",
+  "t-r32": "t-llamada-r32-1",
+  "t-fn1": "t-llamada-fn1-1",
+  "t-r18": "t-llamada-r18-1",
+  "t-r19": "t-llamada-r19-1",
+  "t-r15": "t-llamada-r15-1",
+  "t-r20": "t-llamada-r20-1",
+  "t-fn2": "t-llamada-fn2-1",
+  "t-r3": "t-llamada-r3-1",
+  "t-r29": "t-llamada-r29-1",
+  "t-fn3": "t-llamada-fn3-1",
+  "t-r26": "t-llamada-r26-1",
+  "t-r24": "t-llamada-r24-1",
+  "t-r33": "t-llamada-r33-1",
+  "t-fn4": "t-llamada-fn4-1",
+  "t-r30": "t-llamada-r30-1",
+  "t-fn5": "t-llamada-fn5-1",
+  "t-fn6": "t-llamada-fn6-1",
+  "t-fn7": "t-llamada-fn7-1",
+  "t-r11": "t-llamada-r11-1",
+  "t-fn8": "t-llamada-fn8-1",
+  "t-r36": "t-llamada-r36-1",
+  "t-r16": "t-llamada-r16-1",
+  "t-fn9": "t-llamada-fn9-1",
+  "t-fn10": "t-llamada-fn10-1",
+  "t-fn11": "t-llamada-fn11-1",
+  "t-r10": "t-llamada-r10-1",
+  "t-r13": "t-llamada-r13-1",
+  "t-r8": "t-llamada-r8-1",
+  "t-r9": "t-llamada-r9-1",
+  "t-r4": "t-llamada-r4-1",
+  "t-r5": "t-llamada-r5-1",
+  "t-r34": "t-llamada-r34-1",
+  "t-r12": "t-llamada-r12-1",
+  "t-r14": "t-llamada-r14-1",
+  "t-fn12": "t-llamada-fn12-1",
+  "t-r2": "t-llamada-r2-1",
+  "t-r1": "t-llamada-r1-1",
+  "t-r23": "t-llamada-r23-1",
+  "t-fn13": "t-llamada-fn13-1",
+  "t-fn14": "t-llamada-fn14-1",
+  "t-fn15": "t-llamada-fn15-1",
+  "t-fn16": "t-llamada-fn16-1",
+  "t-fn17": "t-llamada-fn17-1",
+  "t-r22": "t-llamada-r22-1",
+  "t-r31": "t-llamada-r31-1",
+  "t-r6": "t-llamada-r6-1",
+  "t-r37": "t-llamada-r37-1"
+ },
+ "contenido": [
+  [
+   "section",
+   {
+    "id": "t-s1"
+   },
+   "\n",
+   [
+    "h2",
+    {
+     "id": "t-seccion-1"
+    },
+    "Introduction"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "In 2025, the global community celebrated the 30",
+    [
+     "sup",
+     {},
+     "th"
+    ],
+    " anniversary of the Beijing Declaration and Platform for Action (",
+    [
+     "a",
+     {
+      "href": "#t-r35",
+      "id": "t-llamada-r35-1"
+     },
+     "United Nations 1995"
+    ],
+    "). The document has been called “the world’s most comprehensive, visionary plan ever created to achieve the equal rights of ALL women and girls” (",
+    [
+     "a",
+     {
+      "href": "#t-r32",
+      "id": "t-llamada-r32-1"
+     },
+     "UN Women 2025"
+    ],
+    ").",
+    [
+     "a",
+     {
+      "href": "#t-fn1",
+      "id": "t-llamada-fn1-1"
+     },
+     [
+      "sup",
+      {},
+      "1"
+     ]
+    ],
+    " It was adopted by consensus by 189 governments in 1995 at the fourth United Nations (UN) global conference about women. The Beijing Declaration provides the main points of agreement and is followed by the Platform for Action, which provides suggestions for what can be done. The Platform for Action has 12 critical areas of concern. Five of them are discussed here – education and training; violence; armed conflict; human rights; as well as the girl child – while keeping in mind the six grave violations against children. After a brief discussion of the current situation of children in armed conflict, those five concerns in the Platform of Action will be discussed in relation to the work of the Universities Network for Children in Armed Conflict, an academic Non-Governmental Organization that began in Italy in 2020. The final section discusses whether, after more than 30 years, important guidance is still provided by the Beijing Declaration and Platform for Action."
+   ],
+   "\n"
+  ],
+  [
+   "section",
+   {
+    "id": "t-s2"
+   },
+   "\n",
+   [
+    "h2",
+    {
+     "id": "t-seccion-2"
+    },
+    "The Beijing Declaration and Platform for Action (1995)"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "The Beijing Declaration (",
+    [
+     "a",
+     {
+      "href": "#t-r35",
+      "id": "t-llamada-r35-2"
+     },
+     "United Nations 1995"
+    ],
+    ") provides 36 basic points about the situation of women and girls. The first seven points are introductory and end with how the Member States are dedicating themselves to address “constraints and obstacles” that women face by taking “urgent action.” The next five points are about reaffirming “the full implementation of the human rights of women and of the girl child.” The following nine points are about firmly held beliefs. These include: “Local, national, regional and global peace is attainable and is inextricably linked with the advancement of women” as well as “The implementation of the Platform for Action requires commitment from Governments and the international community.” The final 17 points are about determined actions. These include: “Prevent and eliminate all forms of violence against women and girls,” “Promote and protect all human rights of women and girls;” “Ensure respect for international law, including humanitarian law, in order to protect women and girls in particular” and “Ensure the success of the Platform for Action…”"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "The Platform for Action (",
+    [
+     "a",
+     {
+      "href": "#t-r35",
+      "id": "t-llamada-r35-3"
+     },
+     "United Nations 1995"
+    ],
+    ") discusses 12 critical areas of concern. Eleven of them have women in the title and are about the following topics: poverty; education and training; health; violence; armed conflict; economy; power and decision making; institutional mechanisms for advancement; human rights; media; and the environment. The last critical area is the only one that does not mention “women” in its title; it is titled “The Girl Child.” Each area is analyzed and then strategic objectives as well as concrete actions are proposed."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "At least 5 of the 12 areas could be closely connected to the topic of girls in armed conflict even though girls are not mentioned in four of the titles. Those five areas – education and training; violence; armed conflict; human rights and the girl child – are summarized here."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    [
+     "b",
+     {},
+     "Education and Training."
+    ],
+    " “Education and Training of Women” is the second area of 12 concerns. Education is seen as a “human right and an essential tool for achieving the goals of equality, development and peace.” The section notes that equal access to primary education for both boys and girls has been achieved except in some parts of Africa and Central Asia. This means that “approximately 100 million children, including at least 60 million girls, are without access to primary schooling.”"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Among the suggestions mentioned in this section: allocate sufficient resources; increase enrollment and retention rates of girls and at all levels of education; eliminate the barriers to girls’ access to education; eliminate discrimination at all levels of education; eliminate disparities in career development, training and scholarships; and create a gender-sensitive education system which includes counseling. Governments and educational institutions also are encouraged to “introduce and promote training in peaceful conflict resolution.”"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    [
+     "b",
+     {},
+     "Violence."
+    ],
+    " The fourth critical area of concern is “Violence against Women.” While only the word “women” is in the title, girls are mentioned many times. One of the opening statements, for instance, is that “In all societies, to a greater or lesser degree, women and girls are subjected to physical, sexual and psychological abuse that cuts across lines of income, class and culture.” In many cases, this violence occurs in the family or the home and is tolerated. This kind of violence often goes unreported."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Among the topics mentioned in this section: violations of human rights in situations of armed conflict (including murder, systematic rape, sexual slavery, forced pregnancy); sexual abuse of female children in the household; dowry-related violence; female infanticide; absence of gender-disaggregated data and statistics about violence; and the effective suppression of trafficking of women and girls. Actions that are proposed include: develop government statements and actions condemning violence against women; adapt and periodically analyze the effectiveness of legislation to eliminate violence against women; have a gender perspective for all policies and programs; strengthen all institutional mechanisms so that women and girls can safely report acts of violence and have access to information and needed services; provide well-funded shelters for women and girls who have been subjected to violence; support initiatives all over the world to raise awareness about “violence against women and to contribute to its elimination,” organize and fund education and training campaigns about violence against women, and raise awareness of the responsibility of the media in educating the public about the causes and effects of violence against women. The UN Secretary-General also is asked to provide the Special Rapporteur on violence against women “with all necessary assistance.”"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    [
+     "b",
+     {},
+     "Armed Conflict."
+    ],
+    " “Women and Armed Conflict,” the fifth area of concern, stresses that “in a world of continuing instability and violence, the implementation of cooperative approaches to peace and security is urgently needed.” The section notes the problems of involuntary disappearance, torture, land mines, sexual slavery, rape, sexual abuse, forced pregnancy, loss of family and being displaced. The section also mentions that:"
+   ],
+   "\n",
+   [
+    "blockquote",
+    {},
+    "\n",
+    [
+     "p",
+     {},
+     "Education to foster a culture of peace that upholds justice and tolerance for all nations and people is essential to attaining lasting peace and should begin at an early age. It should include elements of conflict resolution, mediation, reduction of prejudice and respect for diversity."
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Actions that are proposed include: integrate a gender perspective and aim for gender balance; provide appropriate training to address gender issues to prosecutors, judges and other officials; convert (as appropriate) military resources and related industries to development and peaceful activities; investigate and punish those who perpetrate violence against women; combat arms trafficking; ratify a convention or protocol that prohibits or restricts the use of land mines and booby traps; do not export land-mines and promote mine clearance; move toward nuclear disarmament; promote nonviolent forms of conflict resolution; ratify international instruments that contain provisions to protect women and children in armed conflicts; respect humanitarian law in armed conflicts and protect women and children; as well as strengthen the role of women in all decision-making as well as encourage diplomacy, negotiation and the peaceful settlement of disputes."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    [
+     "b",
+     {},
+     "Human Rights."
+    ],
+    " The ninth critical area of concern is the “Human Rights of Women.” This section stresses that “The full and equal enjoyment of all human rights and fundamental freedoms by women and girls is a priority for Governments and the United Nations and is essential for the advancement of women.”"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Throughout the section, many of the human rights documents are mentioned (e.g., Universal Declaration of Human Rights; International Covenant on Civil and Political Rights; Convention on the Elimination of All Forms of Discrimination against Women; Declaration on the Elimination of Violence against Women; and the Convention on the Rights of the Child.) These documents and more are identified in the Beijing Declaration as well as throughout the Platform for Action."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Among the actions that are proposed in the “Human Rights of Women” section: promote routine education in all countries about human rights as well as international humanitarian law for national security and armed forces; promote the human rights of women in school curricula at all educational levels; cooperate with the media to make women aware of their rights; provide information about women’s rights to those with low levels of literacy; have governments develop national action plans to improve the promotion and protection of human rights including those of women; see that governments report on schedule to the Committee on the Elimination of Discrimination against Women (CEDAW); and limit the extent of any (country’s) reservations to CEDAW."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    [
+     "b",
+     {},
+     "The Girl Child."
+    ],
+    " The final critical area of concern is “The Girl Child.” The section begins with noting the importance of the Convention on the Rights of the Child and then states that “in many countries available indicators show that the girl child is discriminated against from the earliest stages of life, through her childhood and into adulthood.” The section mentions “harmful attitudes and practices” such as son preferences, female genital mutilation, female infanticide, child marriage, sexual exploitation, sexual abuse, discrimination against girls in food allocation, thinking that girls are inferior, and gender-biased educational opportunities that may mean girls have no access to schools or only access at the primary level. It also notes that a girl who has disabilities needs additional support and that some children “are particularly vulnerable, especially the abandoned, homeless and displaced street children, children in areas of conflict and children who are discriminated against because they belong to an ethnic or racial minority group.”"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "The section mentions that “all barriers must… be eliminated to enable girls without exception to develop their full potential and skills…” Actions that are proposed include signing or ratifying the Convention on the Rights of the Child, registering a child immediately after birth, providing adequate financial support for a child, eliminating inheritance injustice, enacting and enforcing laws so that marriage is entered into freely and with full consent after reaching the minimum legal age and keeping data by sex and age so that a gender perspective is possible in developing or evaluating programs. In addition, eliminate all forms of discrimination against girls and “take steps so that tradition and religion and their expressions are not a basis for discrimination against girls.”"
+   ],
+   "\n"
+  ],
+  [
+   "section",
+   {
+    "id": "t-s3"
+   },
+   "\n",
+   [
+    "h2",
+    {
+     "id": "t-seccion-3"
+    },
+    "Children in Armed Conflict (2022–2025)"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "In 2024, there were 61 state-based armed conflicts in 36 countries. This is the “highest number since the post-WWII era” (",
+    [
+     "a",
+     {
+      "href": "#t-r18",
+      "id": "t-llamada-r18-1"
+     },
+     "PRIO 2025b"
+    ],
+    "). Siri Aas ",
+    [
+     "a",
+     {
+      "href": "#t-r19",
+      "id": "t-llamada-r19-1"
+     },
+     "Rustad (2025)"
+    ],
+    ", the Research Director at the Peace Research Institute Oslo (PRIO), has analyzed global conflict trends between 1946 and 2024 based on data from the Uppsala Conflict Data Program at Uppsala University. She concludes that “this is not just a spike (in conflicts) – it’s a structural shift. The world is far more violent and fragmented than it was a decade ago” (",
+    [
+     "a",
+     {
+      "href": "#t-r18",
+      "id": "t-llamada-r18-2"
+     },
+     "PRIO 2025b"
+    ],
+    ")."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "In 2023, over “three quarters of the world’s children lived in a country experiencing conflict” (",
+    [
+     "a",
+     {
+      "href": "#t-r15",
+      "id": "t-llamada-r15-1"
+     },
+     "Ostby & Rustad 2024"
+    ],
+    "). According to these PRIO researchers (",
+    [
+     "a",
+     {
+      "href": "#t-r15",
+      "id": "t-llamada-r15-2"
+     },
+     "Ostby & Rustad 2024"
+    ],
+    "), “the share of children at risk of conflict globally has almost doubled since the lowest estimates of 10% in the mid-1990s to almost 19% in 2023.” The worst places for children to live, according to a 2022 report from ",
+    [
+     "a",
+     {
+      "href": "#t-r20",
+      "id": "t-llamada-r20-1"
+     },
+     "Save the Children (n.d.)"
+    ],
+    ", are Gaza, Afghanistan, Democratic Republic of Congo, Syria, Yemen, Somalia, Mali, Nigeria, Cameroon, Sudan and the Central African Republic. In the following years, additional countries can be added to this list.",
+    [
+     "a",
+     {
+      "href": "#t-fn2",
+      "id": "t-llamada-fn2-1"
+     },
+     [
+      "sup",
+      {},
+      "2"
+     ]
+    ],
+    " And as Vanessa ",
+    [
+     "a",
+     {
+      "href": "#t-r3",
+      "id": "t-llamada-r3-1"
+     },
+     "Frazier (2026)"
+    ],
+    ", the current Special Representative of the Secretary-General for the Children and Armed Conflict, has noted:"
+   ],
+   "\n",
+   [
+    "blockquote",
+    {},
+    "\n",
+    [
+     "p",
+     {},
+     "(While) violations are rising, resources are shrinking. The global decrease in humanitarian funding and the drawdown of United Nations peace operations have a direct impact on the implementation of the children and armed conflict agenda… Resource constraints and reduced child protection limit the ability to monitor, verify and respond to grave violations against children."
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "The six grave violations against children, as determined by the UN Security Council, are child recruitment and use; killing and maiming; rape and other forms of sexual violence; attacks on schools and hospitals; abductions; and the denial of humanitarian access. In 2024, according to a report from the UN Secretary General (",
+    [
+     "a",
+     {
+      "href": "#t-r29",
+      "id": "t-llamada-r29-1"
+     },
+     "UN News 2025b"
+    ],
+    "), there were 41,370 grave violations against children.",
+    [
+     "a",
+     {
+      "href": "#t-fn3",
+      "id": "t-llamada-fn3-1"
+     },
+     [
+      "sup",
+      {},
+      "3"
+     ]
+    ],
+    " This is a 25% increase from 2023, and these violations have increased now for the third consecutive year. The UN Secretary-General characterized the situation by saying that “the violence against children reached unprecedented levels” and that the 25% increase was “staggering” (",
+    [
+     "a",
+     {
+      "href": "#t-r26",
+      "id": "t-llamada-r26-1"
+     },
+     "UN General Assembly Security Council 2025"
+    ],
+    "). Vanessa ",
+    [
+     "a",
+     {
+      "href": "#t-r3",
+      "id": "t-llamada-r3-2"
+     },
+     "Frazier (2026)"
+    ],
+    " has said that the “grave violations against children have continued at shocking levels.” A little more than half of the violations were committed directly against children, while a little less than half targeted their schools and the children’s humanitarian aid."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Volker ",
+    [
+     "a",
+     {
+      "href": "#t-r24",
+      "id": "t-llamada-r24-1"
+     },
+     "Tűrk (2025)"
+    ],
+    ", the UN High Commissioner for Human Rights, has said the following about sexual violence during armed conflict:"
+   ],
+   "\n",
+   [
+    "blockquote",
+    {},
+    "\n",
+    [
+     "p",
+     {},
+     "In recent years my Office, and the Council’s Commissions of Inquiry, have documented thousands of horrific cases of gender-based violence – in the Democratic Republic of the Congo, Myanmar, Israel and the Occupied Palestinian Territory, including both Gaza and the West Bank, and Ukraine, among many others. In Haiti, women and girls are increasingly subjected to sexual violence, including sexual enslavement… In Sudan, gang rape and other forms of conflict-related sexual violence are pervasive – and in West Darfur and other areas, they have been used in ethnically motivated attacks as a weapon of war… Overall, most perpetrators of gender-based violence continue to go scot free – including men who are directly responsible for massive and brutal sexual attacks… A study in Kosovo found last year that 86 percent of survivors (of conflict-related gender-based violence) continued to experience post-traumatic stress disorder 25 years after the conflict."
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Women and girls are particularly targets of violence when there is armed conflict. In 2023, “the number of girls affected by grave violations in situations of armed conflict increased by 35 percent” (",
+    [
+     "a",
+     {
+      "href": "#t-r33",
+      "id": "t-llamada-r33-1"
+     },
+     "UN Women n.d."
+    ],
+    ") Human rights of girls are often violated. Girls were abducted for recruitment and use, and for sexual slavery.",
+    [
+     "a",
+     {
+      "href": "#t-fn4",
+      "id": "t-llamada-fn4-1"
+     },
+     [
+      "sup",
+      {},
+      "4"
+     ]
+    ],
+    " Girls are often forcibly displaced and experience food insecurity. In addition, girls can be targeted in attacks on education because of their gender. ",
+    [
+     "a",
+     {
+      "href": "#t-r33",
+      "id": "t-llamada-r33-2"
+     },
+     "UN Women (n.d.)"
+    ],
+    " has noted that “In some countries, such as Afghanistan and Pakistan, girls’ schools were bombed or burned to limit their education.” When conflict is developing, diminishing, or ends, there needs to be special attention given to the protection and then reintegration needs of girls."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "The ",
+    [
+     "a",
+     {
+      "href": "#t-r26",
+      "id": "t-llamada-r26-2"
+     },
+     "UN Secretary-General’s 2025"
+    ],
+    " report (",
+    [
+     "a",
+     {
+      "href": "#t-r29",
+      "id": "t-llamada-r29-2"
+     },
+     "UN News 2025b"
+    ],
+    ") indicates that “while non-State actors played an out-sized role in violations against individual children, government actors were the main forces responsible for killing and maiming children, attacking schools and hospitals, and denying humanitarian access.” The report also identified eight countries “whose government forces violated international law and committed grave violations against children – the Democratic Republic of Congo, Israel, Myanmar, Somalia, South Sudan, Sudan, Syria and Russia. Since April 2023, when fighting erupted in Sudan, “more than two million children have been displaced by the brutal war between rival militaries there (",
+    [
+     "a",
+     {
+      "href": "#t-r30",
+      "id": "t-llamada-r30-1"
+     },
+     "UN News 2025c"
+    ],
+    ").",
+    [
+     "a",
+     {
+      "href": "#t-fn5",
+      "id": "t-llamada-fn5-1"
+     },
+     [
+      "sup",
+      {},
+      "5"
+     ]
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Virginia Gamba, the former UN Secretary-General’s Special Representative for Children and Armed Conflict has said “The cries of 22,495 children… (who) have been forced to learn how to survive gunfire and bombings should keep all of us awake at night… We have a choice that defines who we are: to care, or to turn away...” (",
+    [
+     "a",
+     {
+      "href": "#t-r29",
+      "id": "t-llamada-r29-3"
+     },
+     "UN News 2025b"
+    ],
+    ")."
+   ],
+   "\n"
+  ],
+  [
+   "section",
+   {
+    "id": "t-s4"
+   },
+   "\n",
+   [
+    "h2",
+    {
+     "id": "t-seccion-4"
+    },
+    "The Universities Network for Children in Armed Conflict (2020– )"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "The UN Secretary-General’s Special Representative focusing on children in armed conflict deals with many Non-Governmental Organizations (NGOs) concerned with this topic. The 26 NGOs listed on the former Special Representative’s",
+    [
+     "a",
+     {
+      "href": "#t-fn6",
+      "id": "t-llamada-fn6-1"
+     },
+     [
+      "sup",
+      {},
+      "6"
+     ]
+    ],
+    " website included the All Survivors Project; Child Soldiers International; Global Coalition to Prevent Education from Attack; ",
+    [
+     "a",
+     {
+      "href": "https://www.childsoldiers.org/en/"
+     },
+     "Romeo Dallaire Child Soldiers Initiative"
+    ],
+    "; Save the Children; Watchlist on Children and Armed Conflict; and War Child. Missing from the list was the Universities Network for Children in Armed Conflict, an international NGO that does not have the range of activities or resources of many of the organizations on the list."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "The Universities Network for Children in Armed Conflict (hereafter called the Universities Network) was initiated in 2000 by Laura Guercio, an attorney in Italy,",
+    [
+     "a",
+     {
+      "href": "#t-fn7",
+      "id": "t-llamada-fn7-1"
+     },
+     [
+      "sup",
+      {},
+      "7"
+     ]
+    ],
+    " with the help of a small group of professors and experts in international law, human rights and conflict intervention. ",
+    [
+     "a",
+     {
+      "href": "#t-r11",
+      "id": "t-llamada-r11-1"
+     },
+     "Guercio (2025c)"
+    ],
+    " says “legal scholars played a key role” in the interdisciplinary group and “the initiative stemmed from discussions about the need for academia to play a more active role in protecting children in conflict zones.” In 2003, the Universities Network became a registered NGO in Italy. That allowed the Universities Network to enter official partnerships and receive funding.",
+    [
+     "a",
+     {
+      "href": "#t-fn8",
+      "id": "t-llamada-fn8-1"
+     },
+     [
+      "sup",
+      {},
+      "8"
+     ]
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "The goal of the organization ",
+    [
+     "a",
+     {
+      "href": "#t-r36",
+      "id": "t-llamada-r36-1"
+     },
+     "(Universities Network for Children in Armed Conflict n.d.)"
+    ],
+    "is “to promote analysis and research activities with a view to enhancing the social and legal protection of boy and girl children involved in armed conflict.” The Universities Network also aims to increase awareness of how children are directly and indirectly affected by conflict."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "The President of the Universities Network is Fausto Pocar, a professor emeritus of international law at the University of Milan (Italy). Since 2017, he has been an ad hoc judge at the International Court of Justice. He also has been involved with the Italian Ministry of Foreign Affairs and International Cooperation for almost 50 years, most often dealing with international law and human rights issues. The Vice President is Paolo de Nardis, a professor of sociology at Sapienza University of Rome and President of the S. Pio V. Institute of Political Studies. According to ",
+    [
+     "a",
+     {
+      "href": "#t-r16",
+      "id": "t-llamada-r16-1"
+     },
+     "Pocar (2025)"
+    ],
+    ", the Institute “has always provided a great support to the Network.” The Secretary-General of the Universities Network is Laura Guercio. Laura is an attorney before the Superior Courts and the International Criminal Court; an Associate Professor at Link University in Rome and, from 2016-2020, she was the Secretary-General of the inter-ministerial Committee for Human Rights at the Italian Ministry of Foreign Affairs and International Cooperation."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "The Executive Committee of the Universities Network has eight members. In addition to the three Italian officers, there are members from four other countries. I am one of the Executive Committee members",
+    [
+     "a",
+     {
+      "href": "#t-fn9",
+      "id": "t-llamada-fn9-1"
+     },
+     [
+      "sup",
+      {},
+      "9"
+     ]
+    ],
+    " and another clinical sociologist, Yvonne Vissing, is a member of the Scientific Committee. Yvonne, a very active member of the Network, frequently gives presentations as part of the organization’s training sessions. She initiated the affiliation process for her Center for Childhood & Youth Studies at Salem State University in the United States to become a member of the Network and also established a relationship between the Network and the Initiative for Civility in Everyday Life, a Non-Governmental Organization that she heads. It is hoped that more clinical sociologists also will become centrally involved in the organization’s activities.",
+    [
+     "a",
+     {
+      "href": "#t-fn10",
+      "id": "t-llamada-fn10-1"
+     },
+     [
+      "sup",
+      {},
+      "10"
+     ]
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "In early 2026, there were more than 20 universities and institutes as well as a federation of universities in one country that had formally signed agreements with the Universities Network. While six of the organizations with signed agreements are in Italy, nine are in a federation of universities in Somalia and three are in Iraq. Universities and institutes in other countries are in Brazil, Croatia, the Democratic Republic of Congo, Kenya, Kosovo, Malta, Slovenia, South Africa, Ukraine, and the United States. There also are an additional 34 universities and institutes that have cooperated or are cooperating with the Network.",
+    [
+     "a",
+     {
+      "href": "#t-fn11",
+      "id": "t-llamada-fn11-1"
+     },
+     [
+      "sup",
+      {},
+      "11"
+     ]
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "From its inception, the Universities Network has had the support of the Italian Ministry of Foreign Affairs and International Cooperation. This involvement has made its work very different from other kinds of academic organizations. The Ministry has provided project support, attracted the involvement of Italian ambassadors in conferences (which, in turn, has attracted government officials and important NGOs from the countries where conferences are held) and many of the conferences, trainings, and a side event at the UN in New York City have had the participation of the UN Secretary-General’s Special Representative for Children in Armed Conflict."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "According to Laura ",
+    [
+     "a",
+     {
+      "href": "#t-r10",
+      "id": "t-llamada-r10-1"
+     },
+     "Guercio (2025b)"
+    ],
+    ", the Secretary General of the Universities Network, the organization’s “activities reflect and support the critical points highlighted in the (Beijing) Platform for Action.” The Universities Network “has placed significant emphasis on ",
+    [
+     "b",
+     {},
+     "education"
+    ],
+    " and capacity-building as foundational tools for protecting children in conflict.” The organization also has offered a variety of multidisciplinary ",
+    [
+     "b",
+     {},
+     "training"
+    ],
+    " opportunities for academics, practitioners, and students ",
+    [
+     "a",
+     {
+      "href": "#t-r36",
+      "id": "t-llamada-r36-2"
+     },
+     "(Universities Network for Children in Armed Conflict n.d.)"
+    ],
+    "The Universities Network is particularly proud of its YouthNet initiative, an ongoing training for young people who are interested in mediation and want to be peacebuilders and advocates. ",
+    [
+     "b",
+     {},
+     "Violence and armed conflict"
+    ],
+    " have been addressed in presentations, conferences, and publications (see, for instance, publications by ",
+    [
+     "a",
+     {
+      "href": "#t-r13",
+      "id": "t-llamada-r13-1"
+     },
+     "Guercio and Massidda 2024"
+    ],
+    ", ",
+    [
+     "a",
+     {
+      "href": "#t-r8",
+      "id": "t-llamada-r8-1"
+     },
+     "Guercio 2024"
+    ],
+    ", ",
+    [
+     "a",
+     {
+      "href": "#t-r9",
+      "id": "t-llamada-r9-1"
+     },
+     "2025a"
+    ],
+    ", and ",
+    [
+     "a",
+     {
+      "href": "#t-r4",
+      "id": "t-llamada-r4-1"
+     },
+     "Fritz 2020"
+    ],
+    ", ",
+    [
+     "a",
+     {
+      "href": "#t-r5",
+      "id": "t-llamada-r5-1"
+     },
+     "2022"
+    ],
+    "). International ",
+    [
+     "b",
+     {},
+     "human rights"
+    ],
+    " documents are frequently cited and discussed. And, as ",
+    [
+     "a",
+     {
+      "href": "#t-r10",
+      "id": "t-llamada-r10-2"
+     },
+     "Guercio (2025b)"
+    ],
+    " has indicated:"
+   ],
+   "\n",
+   [
+    "blockquote",
+    {},
+    "\n",
+    [
+     "p",
+     {},
+     "Gender-sensitive approaches are integral to (the organization’s) peacebuilding and advocacy strategies. Within YouthNet, (for instance), there is a strong focus on elevating the voices and ",
+     [
+      "b",
+      {},
+      "rights of girls"
+     ],
+     " affected by armed conflict. The network champions gender-responsive mediation and peace processes, encouraging policies that acknowledge the specific vulnerabilities and strengths of girls in conflict zones."
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "Most of the Network’s international activities have involved presentations, research, publications, training sessions, and conferences to create awareness of the situation of children in armed conflict and look at possible means to address the many short-term and long-term problems that children face. One particularly interesting publication (",
+    [
+     "a",
+     {
+      "href": "#t-r13",
+      "id": "t-llamada-r13-2"
+     },
+     "Guercio & Massidda 2024"
+    ],
+    ") is about creating an international institution for the rehabilitation and reintegration of children who were involved in armed conflict, particularly for the children who may have committed international crimes. This institution could have “jurisdiction where States are unable or unwilling to genuinely investigate or prosecute, without replacing judicial systems that function properly.”"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "An ongoing Universities Network activity is to have faculty members at each of the affiliated universities have lectures/discussions with their students about children in armed conflict. These events take place in October during the Universities Network’s Academic Week on Children in Armed Conflict. The week has been selected because the UN’s International Day of the Girl Child is on October 11. A particular focus of the campus events is on the rights of girls when there is armed conflict."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "And the Universities Network also has an interesting initiative that is different from its regular activities. The Universities Network has entered into a Memorandum of Understanding and collaboration with the Iraqi Judicial Institute. It is expected that this relationship will promote academic exchange, “international dialogue, legal research, and advocacy initiatives within the network” (",
+    [
+     "a",
+     {
+      "href": "#t-r34",
+      "id": "t-llamada-r34-1"
+     },
+     "UNETCHAC 2026"
+    ],
+    "). In addition, the Network also is in the process of finalizing an agreement with Iraq’s National Security Advisory (",
+    [
+     "a",
+     {
+      "href": "#t-r12",
+      "id": "t-llamada-r12-1"
+     },
+     "Guercio 2026"
+    ],
+    ")."
+   ],
+   "\n"
+  ],
+  [
+   "section",
+   {
+    "id": "t-s5"
+   },
+   "\n",
+   [
+    "h2",
+    {
+     "id": "t-seccion-5"
+    },
+    "Continuing Guidance: Before, During, and After Conflict"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "It is now more than 30 years since the Beijing Declaration and Platform for Action was accepted by 189 UN Member States. It really is a forward-looking and detailed document about what needs to be done for women and girls. The Declaration is full of important points to remember, such as:"
+   ],
+   "\n",
+   [
+    "ul",
+    {},
+    "\n",
+    [
+     "li",
+     {},
+     [
+      "span",
+      {},
+      "–"
+     ],
+     [
+      "p",
+      {},
+      "Local, national, regional and global peace is attainable and is inextricably linked with the advancement of women, who are a fundamental force for leadership, conflict resolution and the promotion of lasting peace at all levels."
+     ]
+    ],
+    "\n",
+    [
+     "li",
+     {},
+     [
+      "span",
+      {},
+      "–"
+     ],
+     [
+      "p",
+      {},
+      "We are determined to ensure the full enjoyment by women and the girl child of all human rights and fundamental freedoms and take effective action against violations of these rights and freedoms."
+     ]
+    ],
+    "\n",
+    [
+     "li",
+     {},
+     [
+      "span",
+      {},
+      "–"
+     ],
+     [
+      "p",
+      {},
+      "We are determined to prevent and eliminate all forms of violence against women and girls."
+     ]
+    ],
+    "\n",
+    [
+     "li",
+     {},
+     [
+      "span",
+      {},
+      "–"
+     ],
+     [
+      "p",
+      {},
+      "We are determined to take positive steps to ensure peace for the advancement of women and, recognizing the leading role that women have played in the peace movement, work actively towards general and complete disarmament under strict and effective international control, and support negotiations on the conclusion, without delay, of a universal and multilaterally and effectively verifiable comprehensive nuclear-test-ban treaty which contributes to nuclear disarmament and the prevention of the proliferation of nuclear weapons in all aspects."
+     ]
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "The second part of the document, the Plan of Action, is impressive. It provides excellent reminders, advice, and many concrete suggestions for countries that are not experiencing conflict, are in the early stages of conflict, or are funding programs in countries where the early stages of conflict are trying to be addressed. It has very good recommendations in many areas (e.g., providing education, requiring birth registration, keeping data by sex and age, eliminating inheritance injustice, developing necessary instruments, and indicating actions that can be taken by different kinds of organizations). It also provides excellent suggestions for countries that are coming out of conflict and want to make rapid progress to become or return to being countries that respect human rights and support international agreements."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "As noted in the section about the current situation of armed conflicts, the world is currently in a much more difficult situation than in 1995 when the Beijing Declaration and Plan of Action was put in place. In 2024, there were 61 state-based armed conflicts in 36 countries, which is the highest number in more than 60 years. It should be remembered, however, that there have been improvements in the years since the UN was founded. As noted by ",
+    [
+     "a",
+     {
+      "href": "#t-r14",
+      "id": "t-llamada-r14-1"
+     },
+     "Ban Ki-moon and Helen Clark",
+     [
+      "a",
+      {
+       "href": "#t-fn12",
+       "id": "t-llamada-fn12-1"
+      },
+      [
+       "sup",
+       {},
+       "12"
+      ]
+     ],
+     " (2025)"
+    ],
+    ":"
+   ],
+   "\n",
+   [
+    "blockquote",
+    {},
+    "\n",
+    [
+     "p",
+     {},
+     "Conflict continues, but there has been no third world war. No nuclear weapon has been used in conflict since 1945. Even at the height of the cold war, countries came together to eradicate smallpox. In 1987 the Montreal Protocol was adopted, reversing the destruction of the ozone layer. Multilateral initiatives have helped reduce the number of children dying before their fifth birthday by 60% since 1990… And, more recently, in 2015, the Sustainable Development Goals and the Paris agreement on climate set out agendas to end poverty for good and protect the planet. These achievements are worth celebrating."
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    [
+     "a",
+     {
+      "href": "#t-r14",
+      "id": "t-llamada-r14-2"
+     },
+     "Ban Ki-moon and Helen Clark (2025)"
+    ],
+    " continue by saying while “these achievements are worth celebrating,… we find ourselves at a juncture at which celebration would be absurd.” The armed conflicts have increased dramatically, and we have not dealt with all the daunting problems that go with armed conflict (e.g., deaths, injuries, rape, forced migration, no education, exclusion, food deprivation, landmines, destruction, poverty, debt, resistance from countries to provide sufficient aid, institutional rebuilding/reform and long-term trauma for victims including those children who were forced to be soldiers)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "In fact, the 2025 news about the Democratic Republic of the Congo (DRC) (UN News 2025), serves as an example of some progress as well as the problems:"
+   ],
+   "\n",
+   [
+    "blockquote",
+    {},
+    "\n",
+    [
+     "p",
+     {},
+     "As the Foreign Ministers of Rwanda and the Democratic Republic of the Congo (DRC) signed a draft peace agreement in Washington this Friday, tensions and violence continue to grip eastern DRC… With seven million people facing food insecurity and almost 1.4 million children in acute malnutrition, the humanitarian situation is dire… The suspension of funding from (the) main donor, which covered 70 per cent of the humanitarian response in 2024 is forcing humanitarian actors to focus solely on life-saving emergencies… Violence in the east of the country continues to disproportionately affect women, boys and girls as rape and other forms of sexual violence are still being systematically used as weapons of war… In 2025, over 290 schools were destroyed, with ongoing cycles of violence keeping 1.3 million children out of the education system in Ituri, in the east of the country."
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "While there still are overwhelming and unaddressed problems, we now also have to consider the new developments in weapon systems, a scenario that at one time would have been considered to be science fiction. We are talking about WMD, weapons of mass destruction. In addition to chemical, biological, radiological and nuclear weapons, new areas include lethal autonomous weapons systems (LAWS) (sometimes called slaughterbots or killer robots) (",
+    [
+     "a",
+     {
+      "href": "#t-r2",
+      "id": "t-llamada-r2-1"
+     },
+     "Autonomous Weapons n.d."
+    ],
+    ") which are systems that are programmed to identify, follow and then attack specific targets without any human intervention; hypersonic weapons which travel with such “immense speed and unprecedented maneuverability” that they are very difficult to track and intercept (",
+    [
+     "a",
+     {
+      "href": "#t-r1",
+      "id": "t-llamada-r1-1"
+     },
+     "Abbas 2024"
+    ],
+    "); and cyber warfare (such as attacks on power grids, financial systems, airports and government facilities) which disrupt or destroy infrastructure, military operations and communication systems."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "We also should mention the identification of new conflict arenas (such as outer space, deep oceans and the Arctic) as well as automated (AI) systems that support or make warfare decisions. And one of the newest areas being discussed is climate or geophysical weapons (climate-changing technologies). This refers to “weather warfare” in which “an opposing nation is conquered economically, tactically, and covertly through the use of deliberate weather manipulation and geoengineering techniques” (",
+    [
+     "a",
+     {
+      "href": "#t-r23",
+      "id": "t-llamada-r23-1"
+     },
+     "Terebinski 2024"
+    ],
+    "). If any of these newer tactics are used, we can expect the problems that we have not dealt with will become even more severe. As ",
+    [
+     "a",
+     {
+      "href": "#t-r14",
+      "id": "t-llamada-r14-3"
+     },
+     "Ban Ki-moon and Helen Clark (2025)"
+    ],
+    " have concluded: “The stakes are high. A world war today could lead to the end of humanity...”"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "The world now has been characterized as fragmented and very violent (",
+    [
+     "a",
+     {
+      "href": "#t-r18",
+      "id": "t-llamada-r18-3"
+     },
+     "PRIO 2025b"
+    ],
+    "), while the UN has been described as “slipping into dysfunction” (Ki-Moon & Clark 2025).",
+    [
+     "a",
+     {
+      "href": "#t-fn13",
+      "id": "t-llamada-fn13-1"
+     },
+     [
+      "sup",
+      {},
+      "13"
+     ]
+    ],
+    " The national, regional, and global problems must be addressed as soon as possible.",
+    [
+     "a",
+     {
+      "href": "#t-fn14",
+      "id": "t-llamada-fn14-1"
+     },
+     [
+      "sup",
+      {},
+      "14"
+     ]
+    ],
+    " We realize that while a number of relevant treaties/conventions and other documents have been put in place,",
+    [
+     "a",
+     {
+      "href": "#t-fn15",
+      "id": "t-llamada-fn15-1"
+     },
+     [
+      "sup",
+      {},
+      "15"
+     ]
+    ],
+    " there may be a need to set a periodic review/update schedule for documents, as well as develop new ones. These instruments not only need to cover the use of weapons but also the continuing development of weapons or elements that are part of these weapons. And, most importantly, we need to not only develop documents but have effective mechanisms to monitor compliance and be able to effectively deal with those who are violators."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "So… does the Beijing Declaration and Platform for Action provide continuing guidance for the protection of children before, during, and after armed conflict? It provides a wonderful beginning. It is particularly good at providing guidance for countries that are in a peaceful or relatively peaceful situation, are democratic, respect human rights and international law, and where governments and civil society want to improve the situation for all those in the country and/or assist other countries in doing so. It points to relevant international conventions/treaties and provides ideas of actions at different levels (local, national, regional, international). For countries that are in conflict or assisting those countries, it can give them ideas of what needs to be done, but much more is needed. We need to also focus, for instance, on security (including dealing with new weapons systems) and how we handle the situation of migrants fleeing war situations; how food, health care and education will be available to those who are in a conflict or fleeing from one; how delivery corridors will be kept open for the receipt of humanitarian aid; obtaining the financing for security, aid and development; how to require effective, professional mediation of conflicts; and how short-term and long-term assistance will be given to those who have lived through the trauma. (We already know it is often not enough to provide short-term counseling or to do this only in certain parts of a country.)"
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "And what about organizations like the Universities Network for Children in Armed Conflict? Organizations like the Universities Network have an excellent opportunity to introduce or remind people about relevant international documents. Also, the fact that the Universities Network works so well with the Italian Ministry of Foreign Affairs and International Cooperation is an excellent example for other NGOs. Too often NGOs only are able to lobby government offices rather than work with them. NGOs working on the protection of children in armed conflict need to continue their own work as well as be part of formal NGO networks",
+    [
+     "a",
+     {
+      "href": "#t-fn16",
+      "id": "t-llamada-fn16-1"
+     },
+     [
+      "sup",
+      {},
+      "16"
+     ]
+    ],
+    " in order to effectively work with national governments and a “reoriented” national community",
+    [
+     "a",
+     {
+      "href": "#t-fn17",
+      "id": "t-llamada-fn17-1"
+     },
+     [
+      "sup",
+      {},
+      "17"
+     ]
+    ],
+    " to propose as well as demand solutions."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "It is particularly important for NGOs like the Universities Network to continue to provide education and training as well as lobby governments and the UN. NGOs need to identify their target audiences. This particular NGO is helping specific populations (with its programs for university students and faculty members as well as by holding country conferences with government representatives, academic researchers, and civil society) to understand the relevant human rights documents and international laws as well as point out the programs that need to be improved or developed (such as an international program for those who were child soldiers)."
+   ],
+   "\n",
+   [
+    "p",
+    {},
+    "The Universities Network thinks it is very important for the organization and others working on reducing armed conflict to introduce or remind people about relevant international documents such as the Beijing Declaration and Platform for Action. Too often, it is only some officials, researchers, and professors who know about the important international documents that have been put in place. It is very important that NGOs help all civil society (including children) know about their basic human rights, encourage and/or demonstrate the development of creative solutions to pressing problems while taking these rights into account, and help build trust in the international community."
+   ],
+   "\n"
+  ],
+  [
+   "section",
+   {},
+   "\n",
+   [
+    "aside",
+    {
+     "id": "t-fn1",
+     "rol": "fn"
+    },
+    [
+     "span",
+     {},
+     "1"
+    ],
+    [
+     "p",
+     {},
+     "This blueprint for the rights of women and girls mentions the word “girls” 357 times and “children”122 times."
+    ]
+   ],
+   "\n",
+   [
+    "aside",
+    {
+     "id": "t-fn2",
+     "rol": "fn"
+    },
+    [
+     "span",
+     {},
+     "2"
+    ],
+    [
+     "p",
+     {},
+     "See, for instance, the statement of the Special Representatives of the UN Secretary-General for Children and Armed Conflict and on Violence Against Children (",
+     [
+      "a",
+      {
+       "href": "#t-r22",
+       "id": "t-llamada-r22-1"
+      },
+      "2026"
+     ],
+     ")."
+    ]
+   ],
+   "\n",
+   [
+    "aside",
+    {
+     "id": "t-fn3",
+     "rol": "fn"
+    },
+    [
+     "span",
+     {},
+     "3"
+    ],
+    [
+     "p",
+     {},
+     "The numbers provided in the Secretary-General’s report are verified by the UN. If they are not verified, that is indicated (",
+     [
+      "a",
+      {
+       "href": "#t-r26",
+       "id": "t-llamada-r26-3"
+      },
+      "UN General Assembly Security Council 2025"
+     ],
+     "). Numbers for grave violations, in many cases, are larger than the verified numbers."
+    ]
+   ],
+   "\n",
+   [
+    "aside",
+    {
+     "id": "t-fn4",
+     "rol": "fn"
+    },
+    [
+     "span",
+     {},
+     "4"
+    ],
+    [
+     "p",
+     {},
+     "According to the UN Secretary-General (",
+     [
+      "a",
+      {
+       "href": "#t-r26",
+       "id": "t-llamada-r26-4"
+      },
+      "UN General Assembly Security Council 2025"
+     ],
+     "), “sexual violence continues to be vastly underreported.”"
+    ]
+   ],
+   "\n",
+   [
+    "aside",
+    {
+     "id": "t-fn5",
+     "rol": "fn"
+    },
+    [
+     "span",
+     {},
+     "5"
+    ],
+    [
+     "p",
+     {},
+     "These child refugees are in Chad. Children there “make up 61 per cent of the 860,000 Sudanese refugees… Only one in three children (in Chad) are enrolled in school.” There is an urgent funding problem. “Of the $114 million required for UNICEF’s 2025 humanitarian response in Chad, only 34 per cent has been secured” (",
+     [
+      "a",
+      {
+       "href": "#t-r31",
+       "id": "t-llamada-r31-1"
+      },
+      "UN News 2025d"
+     ],
+     ")."
+    ]
+   ],
+   "\n",
+   [
+    "aside",
+    {
+     "id": "t-fn6",
+     "rol": "fn"
+    },
+    [
+     "span",
+     {},
+     "6"
+    ],
+    [
+     "p",
+     {},
+     "The former representative was Virginia Gamba. The current representative, Vanessa Frazier of Malta, was appointed on October 3, 2025."
+    ]
+   ],
+   "\n",
+   [
+    "aside",
+    {
+     "id": "t-fn7",
+     "rol": "fn"
+    },
+    [
+     "span",
+     {},
+     "7"
+    ],
+    [
+     "p",
+     {},
+     "While Laura Guercio is an “excellent lawyer… her academic teaching is more international relations and legal sociology… Her academic title is legal sociology (‘sociology del diritto’ in Italian)” (",
+     [
+      "a",
+      {
+       "href": "#t-r16",
+       "id": "t-llamada-r16-2"
+      },
+      "Pocar 2025"
+     ],
+     ")."
+    ]
+   ],
+   "\n",
+   [
+    "aside",
+    {
+     "id": "t-fn8",
+     "rol": "fn"
+    },
+    [
+     "span",
+     {},
+     "8"
+    ],
+    [
+     "p",
+     {},
+     "The Universities Network “operates on a budget funded through projects and grants. We do not charge any fees to our member universities. Course fees are reinvested into scholarships or other training activities” (",
+     [
+      "a",
+      {
+       "href": "#t-r11",
+       "id": "t-llamada-r11-2"
+      },
+      "Guercio 2025c"
+     ],
+     ")."
+    ]
+   ],
+   "\n",
+   [
+    "aside",
+    {
+     "id": "t-fn9",
+     "rol": "fn"
+    },
+    [
+     "span",
+     {},
+     "9"
+    ],
+    [
+     "p",
+     {},
+     "The NGO requirements state that Executive Committee (EC) members must represent affiliated universities or institutes. I initiated the process to have the University of Johannesburg join the Network and I represent that university on the EC."
+    ]
+   ],
+   "\n",
+   [
+    "aside",
+    {
+     "id": "t-fn10",
+     "rol": "fn"
+    },
+    [
+     "span",
+     {},
+     "10"
+    ],
+    [
+     "p",
+     {},
+     "If your university or institute would like to join the Universities Network, please review the organization’s website ",
+     [
+      "a",
+      {
+       "href": "https://www.uninetworkforchildren.org"
+      },
+      "https://www.uninetworkforchildren.org"
+     ],
+     " and contact the office at ",
+     [
+      "a",
+      {
+       "href": "https://www.uninetworkforchildren.org/contactus"
+      },
+      "https://www.uninetworkforchildren.org/contactus"
+     ],
+     " The Universities Network wants to increase its affiliated members. It particularly wants to improve regional representation, “especially from underrepresented parts of Asia” (",
+     [
+      "a",
+      {
+       "href": "#t-r11",
+       "id": "t-llamada-r11-3"
+      },
+      "Guercio 2025c"
+     ],
+     ")."
+    ]
+   ],
+   "\n",
+   [
+    "aside",
+    {
+     "id": "t-fn11",
+     "rol": "fn"
+    },
+    [
+     "span",
+     {},
+     "11"
+    ],
+    [
+     "p",
+     {},
+     "This information was provided by the Universities Network on March 28, 2026 (",
+     [
+      "a",
+      {
+       "href": "#t-r6",
+       "id": "t-llamada-r6-1"
+      },
+      "Gjeci 2026"
+     ],
+     ")."
+    ]
+   ],
+   "\n",
+   [
+    "aside",
+    {
+     "id": "t-fn12",
+     "rol": "fn"
+    },
+    [
+     "span",
+     {},
+     "12"
+    ],
+    [
+     "p",
+     {},
+     "Ban Ki-moon was the UN Secretary-General from 2007-2016. Helen Clark was the Prime Minister of New Zealand (1999-2008) and head of the UN Development Programme (2009-2017)."
+    ]
+   ],
+   "\n",
+   [
+    "aside",
+    {
+     "id": "t-fn13",
+     "rol": "fn"
+    },
+    [
+     "span",
+     {},
+     "13"
+    ],
+    [
+     "p",
+     {},
+     "According to ",
+     [
+      "a",
+      {
+       "href": "#t-r14",
+       "id": "t-llamada-r14-4"
+      },
+      "Ban Ki-moon and Helen Clark (2025)"
+     ],
+     ", “The UN is slipping into dysfunction as some of its traditional champions, notably the United States, retreat from multilateral co-operation, cut funding and disregard the rule of law when it suits them.”"
+    ]
+   ],
+   "\n",
+   [
+    "aside",
+    {
+     "id": "t-fn14",
+     "rol": "fn"
+    },
+    [
+     "span",
+     {},
+     "14"
+    ],
+    [
+     "p",
+     {},
+     "The ",
+     [
+      "a",
+      {
+       "href": "#t-r37",
+       "id": "t-llamada-r37-1"
+      },
+      "World Bank’s 2025"
+     ],
+     " report on global economic prospect devotes one of its four chapters to national situations that are fragile (where there is “extremely low institutional and governance capacity”) and conflict-affected (“acute insecurity involving the use of deadly force”). The report says this involves about one billion people with 70% residing in Sub-Saharan Africa. Among the solutions that are mentioned (",
+     [
+      "a",
+      {
+       "href": "#t-r37",
+       "id": "t-llamada-r37-2"
+      },
+      "World Bank 2025"
+     ],
+     ":186): address economic and political inequalities; promote peaceful conflict resolution; ensure fair access to resources; rebuild public trust in government and receive coordinated international support."
+    ]
+   ],
+   "\n",
+   [
+    "aside",
+    {
+     "id": "t-fn15",
+     "rol": "fn"
+    },
+    [
+     "span",
+     {},
+     "15"
+    ],
+    [
+     "p",
+     {},
+     "The UN Secretary-General has mentioned, for example, the following in his 2025 report about children in armed conflict: Convention on the Prohibition of the Use, Stockpiling, Production and Transfer of Anti-Personnel Mines and on their Destruction (Ottawa Convention); Convention on Cluster Munitions; Convention on the Rights of the Child; Optional Protocol to the Convention on the Rights of the Child on the involvement of children in armed conflict; Paris Principles; Safe Schools Declaration; Vancouver Principles; and Political Declaration on Strengthening the Protection of Civilians from the Humanitarian Consequences Arising from the Use of Explosive Weapons in Populated Areas."
+    ]
+   ],
+   "\n",
+   [
+    "aside",
+    {
+     "id": "t-fn16",
+     "rol": "fn"
+    },
+    [
+     "span",
+     {},
+     "16"
+    ],
+    [
+     "p",
+     {},
+     "One example of such an NGO network is the Global Alliance for the Rights of Older People. The organization was put in place in 2011 and now has more than 400 member organizations from around the world. The mission of the Global Alliance (n.d.) “is to support and enhance civil society’s engagement at national regional and international levels on the need for a new international instrument on the rights of older persons.”"
+    ]
+   ],
+   "\n",
+   [
+    "aside",
+    {
+     "id": "t-fn17",
+     "rol": "fn"
+    },
+    [
+     "span",
+     {},
+     "17"
+    ],
+    [
+     "p",
+     {},
+     "As ",
+     [
+      "a",
+      {
+       "href": "#t-r14",
+       "id": "t-llamada-r14-5"
+      },
+      "Ban Ki-moon and Helen Clark (2025)"
+     ],
+     " have stressed: “The world must seize this moment of crisis to reorient the UN away from the preferences of a minority and towards better serving of all states… The UN secretariat, (for instance,) needs to restore its critical role in mediating crises. Member states must support the role, rather than buying into a free-for-all where regional and global powers set the terms of political settlements.”"
+    ]
+   ],
+   "\n"
+  ],
+  [
+   "section",
+   {},
+   "\n",
+   [
+    "h2",
+    {
+     "id": "t-seccion-6"
+    },
+    "References"
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r1",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Abbas"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "A."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "2024"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Hypersonic weapons and the future of strategic stability between the nuclear rivals"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Journal of Security & Strategic Analysis"
+      ]
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      "December"
+     ],
+     ": ",
+     [
+      "span",
+      {},
+      "59"
+     ],
+     "-",
+     [
+      "span",
+      {},
+      "78"
+     ],
+     ". ",
+     [
+      "a",
+      {
+       "href": "https://www.researchgate.net/publication/387599613_Hypersonic_Weapons_and_the_Future_of_Strategic_Stability_between_the_Nuclear_Rivals"
+      },
+      "https://www.researchgate.net/publication/387599613_Hypersonic_Weapons_and_the_Future_of_Strategic_Stability_between_the_Nuclear_Rivals"
+     ]
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r2",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      "Autonomous Weapons"
+     ],
+     ". (",
+     [
+      "span",
+      {},
+      "n.d."
+     ],
+     "). ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Slaughterbots are here"
+      ]
+     ],
+     ". ",
+     [
+      "a",
+      {
+       "href": "https://autonomousweapons.org/"
+      },
+      "https://autonomousweapons.org/"
+     ]
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r14",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Ban"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "K-m"
+      ]
+     ],
+     " & ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Clark"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "H."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "2025"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "The UN’s dysfunction undermines global security, argue Ban Ki-Moon & Helen Clark"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "The Economist"
+      ]
+     ],
+     ". ",
+     [
+      "a",
+      {
+       "href": "https://www.economist.com/by-invitation/2025/06/24/the-uns-dysfunction-undermines-global-security-argue-ban-ki-moon-and-helen-clark?giftId=34454dfc-2bf0-440e-976d-dd1425962e70&utm_campaign=gifted_article"
+      },
+      "https://www.economist.com/by-invitation/2025/06/24/the-uns-dysfunction-undermines-global-security-argue-ban-ki-moon-and-helen-clark?giftId=34454dfc-2bf0-440e-976d-dd1425962e70&utm_campaign=gifted_article"
+     ]
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r3",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Frazier"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "V."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "2026"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Statement to the Human Rights Council"
+     ],
+     ". ",
+     [
+      "a",
+      {
+       "href": "https://childrenandarmedconflict.un.org/2026/03/statement-by-ms-vanessa-frazier-special-representative-of-the-secretary-general-for-children-and-armed-conflict/"
+      },
+      "https://childrenandarmedconflict.un.org/2026/03/statement-by-ms-vanessa-frazier-special-representative-of-the-secretary-general-for-children-and-armed-conflict/"
+     ]
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r4",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Fritz"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "J."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "2020"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Reflections: The CSW and UNSCR 1325"
+     ],
+     ". In: ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "L"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "Guercio"
+      ]
+     ],
+     " (ed). ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Discrimination Against Women and CEDAW"
+      ]
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Italy"
+     ],
+     ": ",
+     [
+      "span",
+      {},
+      "Licosia"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r5",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Fritz"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "J."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "2022"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "UNSCR 1325, action plans and protecting girls when there is armed conflict"
+     ],
+     ". In: ",
+     [
+      "span",
+      {},
+      "Universities Network for Children in Armed Conflict"
+     ],
+     " (eds). ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Girl Children in Armed Conflict"
+      ]
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Roma"
+     ],
+     ": ",
+     [
+      "span",
+      {},
+      "Editrice APES Srl"
+     ],
+     ". ",
+     [
+      "a",
+      {
+       "href": "https://www.researchgate.net/profile/Jan-Fritz-6/publication/383862381_UNSCR_1325_Action_Plans_and_Protecting_Girls_When_There_is_Armed_Conflict/links/66de01baf84dd1716cddefc7/UNSCR-1325-Action-Plans-and-Protecting-Girls-When-There-is-Armed-Conflict.pdf?origin=publicationSearch&_rtd=e30%3D&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6ImxvZ2luIiwicGFnZSI6InNlYXJjaCIsInBvc2l0aW9uIjoicGFnZUhlYWRlciJ9fQ"
+      },
+      "https://www.researchgate.net/profile/Jan-Fritz-6/publication/383862381_UNSCR_1325_Action_Plans_and_Protecting_Girls_When_There_is_Armed_Conflict/links/66de01baf84dd1716cddefc7/UNSCR-1325-Action-Plans-and-Protecting-Girls-When-There-is-Armed-Conflict.pdf?origin=publicationSearch&_rtd=e30%3D&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6ImxvZ2luIiwicGFnZSI6InNlYXJjaCIsInBvc2l0aW9uIjoicGFnZUhlYWRlciJ9fQ"
+     ]
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r6",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Gjeci"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "E."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "2026"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Personal communication"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "March"
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "29"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r7",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      "Global Alliance for the Rights of Older People"
+     ],
+     ". (",
+     [
+      "span",
+      {},
+      "n.d."
+     ],
+     "). ",
+     [
+      "span",
+      {},
+      "who we are"
+     ],
+     ". ",
+     [
+      "a",
+      {
+       "href": "https://rightsofolderpeople.org/about/"
+      },
+      "https://rightsofolderpeople.org/about/"
+     ]
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r8",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Guercio"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "L."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "2024"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Exploring National Action Plans on Security Council Resolution 1325: A Child-Centered Perspective"
+      ]
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Gambini Editore University Press"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r9",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Guercio"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "L"
+      ]
+     ],
+     " (ed). ",
+     [
+      "span",
+      {},
+      "2025a"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Mediation and Children in Armed Conflict: A Path to Peace and Security"
+      ]
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Gambini Editore University Press"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r10",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Guercio"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "L."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "2025b"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Personal communication"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "June"
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "26"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r11",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Guercio"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "L."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "2025c"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Personal communication"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "November"
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "23"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r12",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Guercio"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "L."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "2026"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Personal communication"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "April"
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "9"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r13",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Guercio"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "L"
+      ]
+     ],
+     " & ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Massidda"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "P."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "2024"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Creating an international institution for the rehabilitation and reintegration of children involved in armed conflict"
+     ],
+     ". In: ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Zajda"
+      ]
+     ],
+     " & ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Y"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "Vissing"
+      ]
+     ],
+     " (eds). ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Globalisation, Cultural Diversity and Human Rights"
+      ]
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Cham"
+     ],
+     ": ",
+     [
+      "span",
+      {},
+      "Springer"
+     ],
+     ". ",
+     [
+      "a",
+      {
+       "href": "https://doi.org/10.1007/978-3-031-55478-0_4"
+      },
+      "https://doi.org/10.1007/978-3-031-55478-0_4"
+     ]
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r15",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Østby"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "G"
+      ]
+     ],
+     " & ",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Rustad"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "S."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "2024"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Children Affected by Armed Conflict, 1990-2023"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Conflict Trends"
+      ]
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      "1"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Oslo"
+     ],
+     ": ",
+     [
+      "span",
+      {},
+      "PRIO"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r16",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Pocar"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "F."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "2025"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Personal communication"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "June"
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "25"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r17",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      "PRIO"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "2025a"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "New data shows record number of armed conflicts"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Peace Research Institute Oslo"
+     ],
+     ". ",
+     [
+      "a",
+      {
+       "href": "https://www.prio.org/news/3532"
+      },
+      "https://www.prio.org/news/3532"
+     ]
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r18",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      "PRIO"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "2025b"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Facebook post"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Peace Research Institute Oslo"
+     ],
+     ". ",
+     [
+      "a",
+      {
+       "href": "https://www.facebook.com/PRIO.org/photos/-conflict-at-a-70-year-high-new-data-from-prio-reveals-a-troubling-global-shift-/1096813345814352/?_rdr"
+      },
+      "https://www.facebook.com/PRIO.org/photos/-conflict-at-a-70-year-high-new-data-from-prio-reveals-a-troubling-global-shift-/1096813345814352/?_rdr"
+     ]
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r19",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Rustad"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "S."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "2025"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Conflict Trends: A Global Overview, 1946–2024"
+      ]
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "PRIO Paper. PRIO"
+     ],
+     ". ",
+     [
+      "a",
+      {
+       "href": "https://www.prio.org/publications/14453"
+      },
+      "https://www.prio.org/publications/14453"
+     ]
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r20",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      "Save the Children"
+     ],
+     ". (",
+     [
+      "span",
+      {},
+      "n.d."
+     ],
+     "). ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Countries in conflict: Worst places to be a child"
+      ]
+     ],
+     ". ",
+     [
+      "a",
+      {
+       "href": "https://www.savethechildren.org/us/charity-stories/worst-conflict-affected-countries-to-be-a-child"
+      },
+      "https://www.savethechildren.org/us/charity-stories/worst-conflict-affected-countries-to-be-a-child"
+     ]
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r21",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      "Security Council Report"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "2025"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Children and armed conflict"
+     ],
+     ". ",
+     [
+      "a",
+      {
+       "href": "https://www.securitycouncilreport.org/monthly-forecast/2025-06/children-and-armed-conflict-11.php"
+      },
+      "https://www.securitycouncilreport.org/monthly-forecast/2025-06/children-and-armed-conflict-11.php"
+     ]
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r22",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      "Special Representatives of the Secretary-General for Children and Armed Conflict on Violence Against Children"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "2026"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Statement on the escalating violence and the impact on children in Lebanon and the Middle East"
+     ],
+     ". ",
+     [
+      "a",
+      {
+       "href": "https://childrenandarmedconflict.un.org/2026/03/statement-on-the-escalating-violence-and-the-impact-on-children-in-lebanon-and-the-middle-east/"
+      },
+      "https://childrenandarmedconflict.un.org/2026/03/statement-on-the-escalating-violence-and-the-impact-on-children-in-lebanon-and-the-middle-east/"
+     ]
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r23",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Terebinski"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "B."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "2024"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Climate weapons – a new weapon of mass destruction?"
+     ],
+     " ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Scientific Journal of the Military University of Land Forces"
+      ]
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      "213"
+     ],
+     "/",
+     [
+      "span",
+      {},
+      "3"
+     ],
+     "(",
+     [
+      "span",
+      {},
+      "September"
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "9"
+     ],
+     "). ",
+     [
+      "a",
+      {
+       "href": "https://zeszyty-naukowe.awl.edu.pl/article/547573/en"
+      },
+      "https://zeszyty-naukowe.awl.edu.pl/article/547573/en"
+     ]
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r24",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Tűrk"
+      ],
+      " ",
+      [
+       "span",
+       {},
+       "V."
+      ]
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "2025"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Sexual violence is a crime that can and must be prevented and punished"
+     ],
+     ". ",
+     [
+      "a",
+      {
+       "href": "https://www.ohchr.org/en/statements-and-speeches/2025/06/hc-turk-sexual-violence-crime-can-and-must-be-prevented-and"
+      },
+      "https://www.ohchr.org/en/statements-and-speeches/2025/06/hc-turk-sexual-violence-crime-can-and-must-be-prevented-and"
+     ]
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r25",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      "UN General Assembly Security Council"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "2024"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Children and armed conflict"
+      ],
+      ". ",
+      [
+       "i",
+       {},
+       "Report of the Secretary-General"
+      ]
+     ],
+     ". ",
+     [
+      "a",
+      {
+       "href": "https://docs.un.org/en/S/2024/384"
+      },
+      "https://docs.un.org/en/S/2024/384"
+     ]
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r26",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      "UN General Assembly Security Council"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "2025"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Children and armed conflict. Report of the UN Secretary-General"
+      ]
+     ],
+     ". A/79/878-S/2025/247. ",
+     [
+      "a",
+      {
+       "href": "https://childrenandarmedconflict.un.org/wp-content/uploads/2025/06/Secretary-General-Annual-Report-on-Children-and-Armed-Conflict-Covering-2024.pdf"
+      },
+      "https://childrenandarmedconflict.un.org/wp-content/uploads/2025/06/Secretary-General-Annual-Report-on-Children-and-Armed-Conflict-Covering-2024.pdf"
+     ]
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r27",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      "UN Human Rights Council"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "2025"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Children and armed conflict. Report of the Special Representative of the Secretary-General for Children and Armed Conflict"
+      ]
+     ],
+     ". A/HRC/58/18. ",
+     [
+      "a",
+      {
+       "href": "https://docs.un.org/en/A/HRC/58/18"
+      },
+      "https://docs.un.org/en/A/HRC/58/18"
+     ]
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r28",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      "UN News"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "2025a"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Civilian deaths in conflict are surging, warns UN human rights office"
+     ],
+     ". ",
+     [
+      "a",
+      {
+       "href": "https://news.un.org/en/story/2025/06/1164541?utm_source=UN+News+-+Newsletter&utm_campaign=6bdc584805-EMAIL_CAMPAIGN_2025_06_19_12_01&utm_medium=email&utm_term=0_fdbf1af606-6bdc584805-436989136"
+      },
+      "https://news.un.org/en/story/2025/06/1164541?utm_source=UN+News+-+Newsletter&utm_campaign=6bdc584805-EMAIL_CAMPAIGN_2025_06_19_12_01&utm_medium=email&utm_term=0_fdbf1af606-6bdc584805-436989136"
+     ]
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r29",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      "UN News"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "2025b"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "‘We are at a point of no return’: grave violations against children surge for third year"
+     ],
+     ". ",
+     [
+      "a",
+      {
+       "href": "https://news.un.org/en/story/2025/06/1164646?utm_source=UN+News+-+Newsletter&utm_campaign=05ca20a5a1-EMAIL_CAMPAIGN_2025_06_19_11_26&utm_medium=email&utm_term=0_fdbf1af606-05ca20a5a1-436989136"
+      },
+      "https://news.un.org/en/story/2025/06/1164646?utm_source=UN+News+-+Newsletter&utm_campaign=05ca20a5a1-EMAIL_CAMPAIGN_2025_06_19_11_26&utm_medium=email&utm_term=0_fdbf1af606-05ca20a5a1-436989136"
+     ]
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r30",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      "UN News"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "2025c"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "DR Congo: Despite efforts toward a political solution, violence still rages in the east"
+     ],
+     ". ",
+     [
+      "a",
+      {
+       "href": "https://news.un.org/en/story/2025/06/1165056?utm_source=UN+News+-+Newsletter&utm_campaign=8fc08a2d1f-EMAIL_CAMPAIGN_2025_06_27_09_56&utm_medium=email&utm_term=0_fdbf1af606-8fc08a2d1f-436989136"
+      },
+      "https://news.un.org/en/story/2025/06/1165056?utm_source=UN+News+-+Newsletter&utm_campaign=8fc08a2d1f-EMAIL_CAMPAIGN_2025_06_27_09_56&utm_medium=email&utm_term=0_fdbf1af606-8fc08a2d1f-436989136"
+     ]
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r31",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      "UN News"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "2025d"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Bearing the brunt of war: UNICEF chief meets some of the 700,000 child refugees crossing into Chad"
+     ],
+     ". ",
+     [
+      "a",
+      {
+       "href": "https://news.un.org/en/story/2025/06/1164821?utm_source=UN+News+-+Newsletter&utm_campaign=f0dcb4e620-EMAIL_CAMPAIGN_2025_06_23_08_56&utm_medium=email&utm_term=0_fdbf1af606-f0dcb4e620-436989136"
+      },
+      "https://news.un.org/en/story/2025/06/1164821?utm_source=UN+News+-+Newsletter&utm_campaign=f0dcb4e620-EMAIL_CAMPAIGN_2025_06_23_08_56&utm_medium=email&utm_term=0_fdbf1af606-f0dcb4e620-436989136"
+     ]
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r32",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      "UN Women"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "2025"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "The Beijing Declaration and Platform for Action at 30, and why that matters for gender equality"
+      ]
+     ],
+     ". ",
+     [
+      "a",
+      {
+       "href": "https://www.unwomen.org/en/articles/explainer/the-beijing-declaration-and-platform-for-action-at-30-and-why-that-matters-for-gender-equality"
+      },
+      "https://www.unwomen.org/en/articles/explainer/the-beijing-declaration-and-platform-for-action-at-30-and-why-that-matters-for-gender-equality"
+     ]
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r33",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      "UN Women"
+     ],
+     ". (",
+     [
+      "span",
+      {},
+      "n.d."
+     ],
+     "). ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Facts and figures: Women, peace and security"
+      ]
+     ],
+     ". ",
+     [
+      "a",
+      {
+       "href": "https://www.unwomen.org/en/articles/facts-and-figures/facts-and-figures-women-peace-and-security#90012"
+      },
+      "https://www.unwomen.org/en/articles/facts-and-figures/facts-and-figures-women-peace-and-security#90012"
+     ]
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r34",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      "UNETCHAC"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "2026"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Universities Network for Children in Armed Conflict Newsletter"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "May"
+     ],
+     " ",
+     [
+      "span",
+      {},
+      "15"
+     ],
+     "."
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r35",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      "United Nations"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "1995"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "The Beijing Declaration and Platform for Action"
+      ]
+     ],
+     ". ",
+     [
+      "a",
+      {
+       "href": "https://www.unwomen.org/sites/default/files/Headquarters/Attachments/Sections/CSW/PFA_E_Final_WEB.pdf"
+      },
+      "https://www.unwomen.org/sites/default/files/Headquarters/Attachments/Sections/CSW/PFA_E_Final_WEB.pdf"
+     ]
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r36",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      "Universities Network for Children in Armed Conflict (UNETCHAC)"
+     ],
+     ". (",
+     [
+      "span",
+      {},
+      "n.d."
+     ],
+     "). ",
+     [
+      "a",
+      {
+       "href": "https://www.uninetworkforchildren.org/"
+      },
+      "https://www.uninetworkforchildren.org/"
+     ]
+    ]
+   ],
+   "\n",
+   [
+    "p",
+    {
+     "id": "t-r37",
+     "rol": "ref"
+    },
+    [
+     "span",
+     {},
+     [
+      "span",
+      {},
+      "World Bank"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "2025"
+     ],
+     ". ",
+     [
+      "i",
+      {},
+      [
+       "i",
+       {},
+       "Global economic prospects"
+      ]
+     ],
+     ". ",
+     [
+      "a",
+      {
+       "href": "https://openknowledge.worldbank.org/server/api/core/bitstreams/0e685254-776a-40cf-b0ac-f329dd182e9b/content"
+      },
+      "https://openknowledge.worldbank.org/server/api/core/bitstreams/0e685254-776a-40cf-b0ac-f329dd182e9b/content"
+     ]
+    ]
+   ],
+   "\n"
+  ]
+ ]
+};

@@ -1,0 +1,2795 @@
+// Copia de textos/10-24215-23468904e205.json para abrir la aplicación sin servidor.
+(window.DATOS_REVISTAS = window.DATOS_REVISTAS || {})["textos/10-24215-23468904e205.json"] = {
+ "version": 1,
+ "recogido": "2026-10-18T11:38:25+00:00",
+ "doi": "10.24215/23468904e205",
+ "titulo": "Políticas públicas para juventudes y adolescencias en Argentina (2017-2023): alcances, limitaciones y violencias estatales",
+ "revista": "2346-8904",
+ "numero": "n33-2026",
+ "licencia": {
+  "codigo": "by-nc-sa",
+  "nombre": "CC BY-NC-SA 4.0",
+  "nombre_completo": "Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional",
+  "url": "https://creativecommons.org/licenses/by-nc-sa/4.0",
+  "url_legal": "https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.es"
+ },
+ "fuente": {
+  "url": "https://www.cuestionessociologia.fahce.unlp.edu.ar/article/download/CSe205/21642?inline=1",
+  "formato": "HTML",
+  "plataforma": "ojs-galerada",
+  "pagina": "https://www.cuestionessociologia.fahce.unlp.edu.ar/article/view/CSe205"
+ },
+ "autores_cita": [
+  {
+   "apellidos": "Guemureman",
+   "nombre_pila": "Silvia",
+   "nombre": null
+  },
+  {
+   "apellidos": "González",
+   "nombre_pila": "Anahí Patricia",
+   "nombre": null
+  }
+ ],
+ "avisos_derechos": [
+  "Derechos de autor 2026 ",
+  "Esta obra está bajo una licencia internacional Creative Commons Atribución-NoComercial-CompartirIgual 4.0. La cesión de derechos no exclusivos implica también la autorización por parte de los autores para que el trabajo sea alojado en los repositorios institucionales UNLP (Sedici y Memoria Académica) y difundido a través de las bases de datos que los editores consideren apropiadas para su indización, con miras a incrementar la visibilidad de la revista y sus autores."
+ ],
+ "idioma_principal": "es",
+ "indice": [],
+ "vueltas": {
+  "t-redalyc_775445004_ref22": "t-llamada-redalyc_775445004_ref22-1",
+  "t-fn1": "t-llamada-fn1-1",
+  "t-redalyc_775445004_ref13": "t-llamada-redalyc_775445004_ref13-1",
+  "t-redalyc_775445004_ref14": "t-llamada-redalyc_775445004_ref14-1",
+  "t-fn2": "t-llamada-fn2-1",
+  "t-fn3": "t-llamada-fn3-1",
+  "t-fn4": "t-llamada-fn4-1",
+  "t-fn5": "t-llamada-fn5-1",
+  "t-fn6": "t-llamada-fn6-1",
+  "t-redalyc_775445004_ref34": "t-llamada-redalyc_775445004_ref34-1",
+  "t-redalyc_775445004_ref35": "t-llamada-redalyc_775445004_ref35-1",
+  "t-fn7": "t-llamada-fn7-1",
+  "t-fn9": "t-llamada-fn9-1",
+  "t-fn17": "t-llamada-fn17-1",
+  "t-redalyc_775445004_ref25": "t-llamada-redalyc_775445004_ref25-1",
+  "t-redalyc_775445004_ref3": "t-llamada-redalyc_775445004_ref3-1",
+  "t-redalyc_775445004_ref28": "t-llamada-redalyc_775445004_ref28-1",
+  "t-fn18": "t-llamada-fn18-1",
+  "t-fn19": "t-llamada-fn19-1",
+  "t-fn20": "t-llamada-fn20-1",
+  "t-fn21": "t-llamada-fn21-1",
+  "t-redalyc_775445004_ref12": "t-llamada-redalyc_775445004_ref12-1",
+  "t-redalyc_775445004_ref19": "t-llamada-redalyc_775445004_ref19-1",
+  "t-redalyc_775445004_ref29": "t-llamada-redalyc_775445004_ref29-1",
+  "t-redalyc_775445004_ref20": "t-llamada-redalyc_775445004_ref20-1",
+  "t-redalyc_775445004_ref26": "t-llamada-redalyc_775445004_ref26-1",
+  "t-fn22": "t-llamada-fn22-1",
+  "t-redalyc_775445004_ref9": "t-llamada-redalyc_775445004_ref9-1",
+  "t-redalyc_775445004_ref10": "t-llamada-redalyc_775445004_ref10-1",
+  "t-fn23": "t-llamada-fn23-1",
+  "t-fn24": "t-llamada-fn24-1",
+  "t-fn25": "t-llamada-fn25-1",
+  "t-fn26": "t-llamada-fn26-1",
+  "t-redalyc_775445004_ref23": "t-llamada-redalyc_775445004_ref23-1",
+  "t-fn27": "t-llamada-fn27-1",
+  "t-fn28": "t-llamada-fn28-1",
+  "t-fn29": "t-llamada-fn29-1",
+  "t-redalyc_775445004_ref37": "t-llamada-redalyc_775445004_ref37-1",
+  "t-redalyc_775445004_ref21": "t-llamada-redalyc_775445004_ref21-1",
+  "t-redalyc_775445004_ref7": "t-llamada-redalyc_775445004_ref7-1",
+  "t-redalyc_775445004_ref8": "t-llamada-redalyc_775445004_ref8-1",
+  "t-redalyc_775445004_ref32": "t-llamada-redalyc_775445004_ref32-1",
+  "t-redalyc_775445004_ref5": "t-llamada-redalyc_775445004_ref5-1",
+  "t-redalyc_775445004_ref4": "t-llamada-redalyc_775445004_ref4-1",
+  "t-redalyc_775445004_ref31": "t-llamada-redalyc_775445004_ref31-1",
+  "t-fn30": "t-llamada-fn30-1",
+  "t-fn31": "t-llamada-fn31-1",
+  "t-redalyc_775445004_ref36": "t-llamada-redalyc_775445004_ref36-1",
+  "t-redalyc_775445004_ref30": "t-llamada-redalyc_775445004_ref30-1"
+ },
+ "contenido": [
+  "\n",
+  [
+   "span",
+   {
+    "id": "t-visor-cabecera"
+   },
+   "\n",
+   "\n",
+   [
+    "span",
+    {},
+    "\n",
+    [
+     "a",
+     {
+      "href": "https://www.cuestionessociologia.fahce.unlp.edu.ar/"
+     },
+     "\nCuestiones de Sociología"
+    ],
+    ", núm. 33, e205, febrero - julio 2026. ISSN 2346-8904",
+    [
+     "br",
+     {}
+    ],
+    "Universidad Nacional de La Plata",
+    [
+     "br",
+     {}
+    ],
+    "Facultad de Humanidades y Ciencias de la Educación",
+    [
+     "br",
+     {}
+    ],
+    "Departamento de Sociología"
+   ],
+   "\n",
+   "\n"
+  ],
+  "\n",
+  [
+   "span",
+   {
+    "id": "t-articulo"
+   },
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-front"
+    },
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-articulo-categoria"
+     },
+     "\n",
+     [
+      "p",
+      {},
+      "Artículos"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-articulo-meta"
+     },
+     "\n",
+     [
+      "p",
+      {},
+      "\n",
+      [
+       "span",
+       {},
+       "Políticas públicas para juventudes y adolescencias en Argentina (2017-2023): alcances, limitaciones y violencias estatales"
+      ],
+      "\n"
+     ],
+     "\n\n"
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-articulo-acerca"
+     },
+     "\n",
+     [
+      "span",
+      {
+       "id": "t-ficha-general"
+      },
+      "\n",
+      [
+       "span",
+       {
+        "id": "t-autores-articulo"
+       },
+       "\n",
+       "\n",
+       "\n",
+       [
+        "a",
+        {
+         "href": "https://orcid.org/0000-0002-0187-0409"
+        },
+        [
+         "figura",
+         {}
+        ]
+       ],
+       "  ",
+       [
+        "span",
+        {},
+        "Silvia"
+       ],
+       " ",
+       [
+        "span",
+        {},
+        "Guemureman"
+       ],
+       " ",
+       [
+        "br",
+        {}
+       ],
+       [
+        "span",
+        {},
+        " silviaguemureman@gmail.com"
+       ],
+       "\n",
+       "\n",
+       "\n",
+       [
+        "span",
+        {},
+        "Instituto de Investigaciones Gino Germani, Universidad de Buenos Aires / CONICET"
+       ],
+       ", ",
+       [
+        "span",
+        {},
+        "Argentina"
+       ],
+       "\n",
+       "\n",
+       "\n",
+       "\n",
+       "\n",
+       [
+        "a",
+        {
+         "href": "https://orcid.org/0000-0001-5074-5260"
+        },
+        [
+         "figura",
+         {}
+        ]
+       ],
+       "  ",
+       [
+        "span",
+        {},
+        "Anahí"
+       ],
+       " ",
+       [
+        "span",
+        {},
+        "González"
+       ],
+       [
+        "br",
+        {}
+       ],
+       [
+        "span",
+        {},
+        " anahipgonzalez@gmail.com"
+       ],
+       "\n",
+       "\n",
+       "\n",
+       [
+        "span",
+        {},
+        "Instituto de Investigaciones Gino Germani, Universidad de Buenos Aires / CONICET"
+       ],
+       ", ",
+       [
+        "span",
+        {},
+        "Argentina"
+       ],
+       "\n",
+       "\n",
+       "\n"
+      ],
+      "\n",
+      [
+       "span",
+       {},
+       "Cita recomendada:"
+      ],
+      "\n",
+      [
+       "span",
+       {},
+       "Guemureman, S. y González, A. (2026). Políticas públicas para juventudes y adolescencias en Argentina (2017-2023): alcances, limitaciones y violencias estatales. ",
+       [
+        "i",
+        {},
+        "Cuestiones de Sociología, 33"
+       ],
+       ", e205. ",
+       [
+        "a",
+        {
+         "href": "https://doi.org/10.24215/23468904e205"
+        },
+        "https://doi.org/10.24215/23468904e205"
+       ]
+      ],
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "Resumen:\n\t\t\t\t\t\t\t                           "
+       ],
+       [
+        "span",
+        {},
+        "Este artículo se propone abordar el tema de las políticas públicas nacionales dirigidas a las adolescencias y juventudes en Argentina y las violencias estatales derivadas de sus condicionalidades se traduzcan éstas como restricción o como incumplimiento. El análisis se centra en dos programas seleccionados de una cartografía más amplia de políticas públicas de alcance nacional (2017-2023), elaborada en el marco de un Proyecto de Investigación Plurianual. Por razones de extensión, se abordan específicamente la Asignación Universal por Hijo (AUH) y el Programa Nacional de Acompañamiento para el Egreso de Jóvenes sin Cuidados Parentales (PAE). El enfoque metodológico fue mixto, con la utilización de fuentes primarias y secundarias. Del análisis de las políticas hemos podido concluir que, si bien se evidencia aspectos de un lenguaje ligado al enfoque de derechos, también encontramos limitaciones en la implementación de las políticas, condicionalidades y exigencias a sus destinatarios que obturan un enfoque universal de acceso a derechos y colocan en muchos casos la responsabilidad en el adolescente y/o joven beneficiario/a del programa y que, en esta propuesta analítica, (sin soslayar los matices que pueden tener las acciones estatales) hemos identificado como formas en que el Estado, ya sea por acción como por omisión, expresa su violencia."
+       ],
+       "\n"
+      ],
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "Palabras clave: "
+       ],
+       "Políticas Públicas, Adolescentes, Violencias estatales.\n\t\t                         "
+      ],
+      [
+       "p",
+       {
+        "lang": "en"
+       },
+       [
+        "span",
+        {},
+        "Public policies for youth and adolescents in Argentina (2017–2023): scope, limitations, and state violence"
+       ]
+      ],
+      "\n",
+      [
+       "p",
+       {
+        "lang": "en"
+       },
+       "\n",
+       [
+        "span",
+        {},
+        "Abstract:\n\t\t\t\t\t\t                           "
+       ],
+       [
+        "span",
+        {},
+        "This article addresses the issue of national public policies aimed at adolescents and young people in Argentina and the state violence resulting from their conditions, whether these are interpreted as restrictions or as non-compliance.",
+        [
+         "span",
+         {}
+        ],
+        "The analysis focuses on two programs selected from a broader mapping of national public policies (2017-2023), developed within the framework of a Multi-Year Research Project. For reasons of length, it specifically addresses the Universal Child Allowance (AUH) and the National Program for the Support of Young People Leaving Care (PAE). The methodological approach was mixed, using both primary and secondary sources. From the analysis of the policies, we have been able to conclude that, although there are aspects of language linked to the rights-based approach, we also find limitations in the implementation of the policies, conditionalities, and requirements for their recipients that obstruct a universal approach to access to rights and, in many cases, place the responsibility on the adolescent and/or young beneficiary of the program. In this analytical proposal, (without overlooking the nuances that state actions may have) we have identified as ways in which the state, either by action or omission, expresses its violence."
+       ],
+       "\n"
+      ],
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "Keywords: "
+       ],
+       "Public Policies, State Violence, Adolescents.\n                                "
+      ],
+      "\n"
+     ],
+     "\n"
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-articulo-body"
+    },
+    "\n",
+    [
+     "p",
+     {},
+     "\n",
+     [
+      "span",
+      {},
+      "Introducción"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "El artículo se enmarca en la definición de violencias estatales desarrollada en trabajos previos (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445004_ref22",
+       "id": "t-llamada-redalyc_775445004_ref22-1"
+      },
+      "Guemureman et. al, 2017"
+     ],
+     [
+      "sup",
+      {},
+      [
+       "a",
+       {
+        "href": "#t-fn1",
+        "id": "t-llamada-fn1-1"
+       },
+       "1"
+      ]
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445004_ref13",
+       "id": "t-llamada-redalyc_775445004_ref13-1"
+      },
+      "Daroqui y Guemureman, 2014"
+     ],
+     " y ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445004_ref14",
+       "id": "t-llamada-redalyc_775445004_ref14-1"
+      },
+      "2018"
+     ],
+     ") en los que se planteó la especificidad de las violencias que involucran a las agencias del Estado, tanto en su faz coactiva punitiva como en su faz proactiva, es decir, pensando al Estado como responsable de la ocurrencia y reproducción de violencias tanto por acción como por omisión. Desde el Observatorio de Adolescentes y Jóvenes (OAJ) y el Grupo de Estudios sobre Sistema Penal y Derechos Humanos (GESPYDH) postulamos y abogamos por el uso del concepto de violencia estatal como un marco específico y diferenciado para dar cuenta de violencias que exceden y trascienden el marco de las instituciones en general, y que son consecuencia inequívoca y específica de la acción u omisión por parte de agencias del  Estado."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Al interior del Estado, las violencias son múltiples. Abarcan las violencias punitivas y no punitivas, las hospitalarias, las obstétricas, las violencias laborales, las de género, entre muchas otras. A la vez, se expresan tanto en forma material como en forma simbólica. La violencia material puede ser directa, a través del uso de la fuerza; o indirecta, mediante la denegación o privación de un derecho. La violencia simbólica se expresa en los significados socialmente construidos a través de procesos de producción de sentidos o etiquetas estigmatizantes que producen exclusiones, discriminación y activan procesos desubjetivantes que en los que los sujetos procedentes de sectores socialmente vulnerables, entre ellos los adolescentes y jóvenes portadores de “desventajas acumuladas” (Saraví, 2018) terminan siendo uno de los blancos dilectos."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Una mirada desde este enfoque, requiere atender a la estructura social, que en contextos de desigualdad, arroja inequívocos indicadores de violencia de tipo estructural, comenzando por los datos de pobreza. Según los datos del informe de pobreza del INDEC, que corresponden al primer semestre de 2023",
+     [
+      "sup",
+      {},
+      [
+       "a",
+       {
+        "href": "#t-fn2",
+        "id": "t-llamada-fn2-1"
+       },
+       "2"
+      ]
+     ],
+     ", en Argentina el 29,6 % de los hogares, (en donde habitan el 40% de las personas) es pobre. Es decir que, para mediados de 2023, había 11,8 millones de personas pobres, de las cuales 2,7 millones eran indigentes. La distribución por grupo etario evidencia que en el segmento de 0-14 años, el 56,2 % de las niñas y niños se encuentran en condición de pobreza. La desagregación por grupos de edad, es aún más preocupante: del total de pobres de 0 a 17 años, el segmento de 12 a 17 años, en el cual se inscribe la población adolescente, detenta un 38,1%, de niñas, niños y adolescentes",
+     [
+      "sup",
+      {},
+      [
+       "a",
+       {
+        "href": "#t-fn3",
+        "id": "t-llamada-fn3-1"
+       },
+       "3"
+      ]
+     ],
+     " pobres",
+     [
+      "sup",
+      {},
+      [
+       "a",
+       {
+        "href": "#t-fn4",
+        "id": "t-llamada-fn4-1"
+       },
+       "4"
+      ]
+     ],
+     "."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Estas alarmantes cifras significan que la radical vulnerabilidad (Garzón Valdéz, 1994) de ser niño o niña, se ve amplificada por la situación de pobreza, que podríamos definir a esta altura como violencia estructural, si recuperamos lo dicho por Galtung en su definición de violencia, en tanto diferencial entre desarrollo potencial y desarrollo efectivo."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "De esta manera, si el Estado ejerce diversas modalidades de violencias, por acción u omisión, hacia diferentes sectores poblacionales –en nuestro caso nos interesa focalizar en adolescentes y jóvenes- y estas violencias impactan de modo diferencial, según pertenencia de clase, procedencia étnico-nacional y género, entre otras variables, el análisis de políticas públicas que se orientan a los adolescentes y jóvenes en Argentina y la administración de su ejercicio, puede constituirse en una vía regia para identificar distintas violencias estatales. Nos interesa plantear algunas de las características que presentan las políticas públicas y qué violencias podemos identificar en las mismas. Algunas de ellas son directas y evidentes. Otras son más sutiles e indirectas. En su articulación unas y otras violencias resultan en un entramado que nos permite aportar algunas conclusiones sobre las condiciones de existencia de adolescentes y jóvenes con los cuales trabajamos en nuestra investigación. Este enfoque no soslaya la importancia de la definición e implementación de políticas que se orienten a los adolescentes y jóvenes, cada vez más necesarias en sistemas económicos que tienden a excluir a gran cantidad de personas y que afectan de modo particular a dicho grupo poblacional. Tampoco significa considerar al Estado como un ente único, sin contradicciones ni matices."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "El enfoque teórico asumido parte de reconocer que la práctica estatal puede operar como reproductora de violencias, tanto por acción como por omisión. En este marco, el análisis se centra en el examen del diseño de políticas públicas con el fin de identificar expresiones de violencia estatal y, mediante dos estudios de caso (PAE y AUH), ejemplificar esta problemática. En ese sentido, esta propuesta analítica no supone afirmar que sea el único objetivo del Estado, sino que responde al recorte específico de este trabajo: identificar manifestaciones de violencia estatal —algunas explícitas y otras más sutiles— en el diseño de dos programas que se orientan a adolescentes y jóvenes. De este modo, la perspectiva asumida no concibe al Estado como una totalidad homogénea ni desconoce la capacidad de agencia de sus funcionarias/os y de los destinatarios/as de las políticas, así como tampoco la posibilidad de que existan resistencias a las acciones estatales que impliquen violencia. Este recorte constituye una de múltiples posibles aproximaciones y puede complementarse con perspectivas orientadas a la detección de elementos propios de un enfoque de derechos en el diseño de políticas, aspecto que también ha sido señalado en este artículo y desarrollado en otros trabajos. En este sentido, se espera que el presente artículo contribuya a los debates orientados al diseño de políticas más inclusivas, con la participación de diversos actores y una efectiva incorporación del enfoque de derechos."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Partiendo de estas aclaraciones el artículo se estructura del siguiente modo: en primer lugar, presentamos la metodología y las fuentes analizadas. Luego, analizamos los dos programas seleccionados de una cartografía de mayor amplitud construida en el marco de un PIP. Posteriormente, en el apartado de discusión se hace una revisión teórica de los aportes de autores que han trabajado el asunto de las violencias estatales y las juventudes con el fin de proponer un marco analítico acerca de las formas de violencia estatal (por acción u omisión) que se despliegan sobre las y los jóvenes desde las áreas de políticas penales (políticas criminales, de seguridad pública, de prevención y control del delito) y las políticas sociales (políticas de educación, salud, protección social, vivienda y documentación) en el marco de las sociedades actuales signadas por el aumento de la desigualdad, las desregulaciones y la culpabilización de los sujetos de su condición de excluidos. Finalmente, incluimos algunas conclusiones y palabras de cierre."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n",
+     [
+      "span",
+      {},
+      "Método"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Este artículo se nutre de un trabajo de búsqueda, relevamiento y registro de políticas públicas nacionales que incluyen entre sus destinatarios a adolescentes y jóvenes. El mapeo, abarca el periodo 2017-2023, y ha sido realizado en el marco del proyecto PIP 1069 GC 2021-2024",
+     [
+      "sup",
+      {},
+      [
+       "a",
+       {
+        "href": "#t-fn5",
+        "id": "t-llamada-fn5-1"
+       },
+       "5"
+      ]
+     ],
+     ". Asimismo, si bien la técnica de abordaje principal es el análisis documental y las fuentes que se utilizan son primordialmente los documentos oficiales (ello incluye, según cada caso, las resoluciones de creación de los programas, las leyes que los crean, los decretos reglamentarios e informes elaborados por las áreas estatales encargadas de la ejecución de los programas",
+     [
+      "sup",
+      {},
+      [
+       "a",
+       {
+        "href": "#t-fn6",
+        "id": "t-llamada-fn6-1"
+       },
+       "6"
+      ]
+     ],
+     ") que forman parte del corpus de la cartografía elaborada para el PIP, incluimos otras fuentes primarias y secundarias en este artículo que accesoriamente nos permiten analizar, no sin algunas limitaciones, el contexto de los dos programas estudiados. Entre las fuentes primarias, obtenidas en el marco del PIP ya mencionado, incluimos algunos de los resultados de la Encuesta sobre Trayectorias Adolescentes (ETrA) implementada durante el año 2023, entrevistas efectuadas a funcionarios vinculados al PAE, entrevistas y observaciones realizadas durante el trabajo de campo efectuado en Centros Comunitarios en oportunidad de administración de la ETrA y, por último, en calidad de fuentes secundarias incorporamos algunos de los resultados presentados en 2023 en un Informe elaborado con datos del Observatorio de la Deuda Social Argentina de la UCA, relativas a la implementación del PAE. Del mismo modo, para evidenciar ciertos aspectos de la ejecución de la AUH, retomamos los resultados de las investigaciones de Straschnoy (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445004_ref34",
+       "id": "t-llamada-redalyc_775445004_ref34-1"
+      },
+      "2016 "
+     ],
+     "y ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445004_ref35",
+       "id": "t-llamada-redalyc_775445004_ref35-1"
+      },
+      "2017"
+     ],
+     "). "
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "En el PIP se planteó como unidad de análisis a la población comprendida entre los 13 y los 25 años. No obstante, por la heterogeneidad de este colectivo amplio, la ETrA se segmentó en dos grupos: de 13 a 18 años y de 19 a 25 años. En la primera etapa se aplicó la encuesta mencionada sobre el primer grupo etario. Respecto al recorte espacial, estuvo definido por los territorios en los que, a partir de una muestra que combinó los criterios intencional y oportunista, se aplicó el cuestionario en barrios populares de tres localidades del AMBA (Morón, Quilmes y San Isidro). La ETra tuvo como objetivo principal, identificar las diversas formas de violencia estatal (por acción u omisión) que están presentes en las trayectorias biográficas de adolescentes y jóvenes, describiendo la propia experiencia de dichas violencias en términos de deprivación, denegación de derechos, restricción de acceso, discriminación, estigmatización o criminalización. Se trató de una encuesta no probabilística con un diseño muestral intencional por cuotas. Se aplicó entre abril y octubre 2023 por medio de un instrumento de registro estructurado a través de tablets, computadoras o celulares a adolescentes entre 13 y 18 años. Por cuestiones de factibilidad y de trabajos de intervención y transferencia previos que el equipo de investigación efectúa, decidimos realizar las encuestas en dos tipos de espacios en los que podríamos encontrar adolescentes y jóvenes de las edades que correspondían a nuestro diseño muestral: Centros Comunitarios y escuelas."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "En el proceso de aplicación del cuestionario se realizaron además    ocho entrevistas a coordinadores y responsables de los Centros Comunitarios y observaciones registradas como notas de campo en los Centros y colegios. El objetivo de estos dos tipos de registros de información fue identificar aspectos emergentes del campo que pudieran no estar contempladas en la encuesta."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "En relación al trabajo de relevamiento y sistematización de las políticas públicas que conforman el corpus de la cartografía, el mismo requirió de decisiones quirúrgicas debido al volumen y dispersión de la información. Se realizaron búsquedas en documentos como la ",
+     [
+      "span",
+      {},
+      "Guía de Programas Sociales"
+     ],
+     " (2021-2023) y en sitios oficiales de organismos estatales. Los cambios en la estructura estatal posteriores al cambio de gestión gubernamental nacional —incluyendo la reorganización de ministerios y secretarías— hicieron urgente recopilar y resguardar información vigente hasta diciembre de 2023. La cartografía se basa en el análisis documental, en ese sentido incluye información ligada al diseño, ya sea del programa, de la política o acción estatal, ello implica limitaciones para evaluar de modo completo el ciclo de la política pública. Se identificaron 138 políticas y/o programas ajustados a los criterios de inclusión y exclusión preestablecidos, como por ejemplo que fueran de alcance nacional. En relación al recorte temporal abarca el periodo 2017-2023. La elección del año 2017 como punto de inicio se debió a que en ese período comenzó a implementarse la Ley de Acceso a la Información Pública Nº 27.275/16, lo que se estimaba, favorecería una mayor disponibilidad de datos. Como fecha de cierre se optó por diciembre de 2023, coincidente con el fin del período presidencial y el inicio del siguiente."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "En función de los objetivos del proyecto marco, inicialmente se identificaron políticas cuyo público beneficiario fueran adolescentes y jóvenes. Sin embargo, durante el proceso de búsqueda se decidió incorporar también programas que, si bien no estaban focalizados exclusivamente en este grupo, los incluían entre sus destinatarios. En relación al recorte por áreas se incluyeron tanto políticas penales como de inclusión social, incluyendo en el relevamiento los siguientes organismos: Instituto Nacional de Juventudes (perteneciente a la Jefatura de Gabinete de Ministros); Ministerio de Educación de la Nación; Administración Nacional de la Seguridad Social ( ANSES); Ministerio de Desarrollo Social; Dirección Nacional de Migraciones (DNM); Ministerio de Trabajo, Empleo y Seguridad Social; Comisión para la Asistencia Integral y Protección al Refugiado y Peticionante de Refugio y Comisión del Migrante (ambas pertenecientes al Ministerio Pública de la Defensa); SENAF (perteneciente al Ministerio de Desarrollo Social); Instituto Nacional contra la Discriminación, la Xenofobia y el Racismo (INADI); Instituto Nacional de Asuntos Indígenas (INAI); Agencia Nacional de Discapacidad (ANDis); Ministerio de las Mujeres, Géneros y Diversidad; Ministerio de Desarrollo Social; Dirección Nacional de Políticas contra la Violencia Institucional, Dirección Nacional de Pluralismo e Interculturalidad y Dirección Nacional de Formación en DDHH de la Subsecretaría de Promoción de DDHH (pertenecientes al Ministerio de Justicia y Derechos Humanos); Ministerio de Seguridad y Ministerio de Salud. Al construir la cartografía se decidió clasificar las políticas según el organismo a cargo, aunque el mismo formara parte de un ente superior. El objetivo de esa decisión es visibilizar el trabajo de áreas como Direcciones o Secretarías (por ejemplo, de la SENAF) que son las que ejecutan los programas",
+     [
+      "sup",
+      {},
+      [
+       "a",
+       {
+        "href": "#t-fn7",
+        "id": "t-llamada-fn7-1"
+       },
+       "7"
+      ]
+     ],
+     ". Entendemos que -aun con sus limitaciones- esta cartografía puede ser un insumo útil como línea base para comparar lo que está ocurriendo en materia de políticas públicas actualmente en nuestro país."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Dada la extensión posible de este escrito, hemos seleccionado dos políticas (dentro del corpus más amplio mencionado precedentemente) que incluyen a diversos ",
+     [
+      "span",
+      {},
+      "tipos "
+     ],
+     "de adolescentes como sus destinatarios: Asignación Universal por Hijo (AUH) y Programa Nacional de acompañamiento para el egreso de jóvenes sin cuidados parentales (PAE)."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Como se analizará en los próximos apartados, los dos programas tienen sus especificidades, no obstante, suponen la inclusión de adolescentes en condiciones de “vulnerabilidad” o “en riesgo”, condición que debe ser “probada” por los solicitantes para acceder a los servicios y/o beneficios del dispositivo o política. Los casos elegidos permiten identificar diversas situaciones de violencias estatales que atraviesan las trayectorias vitales de sus destinatarias y destinatarios. La elección de analizar la AUH obedece a su amplia cobertura. Además su inclusión responde a que nos permite abordar las violencias estatales vinculadas a: i) el debate acerca de sus pretensiones de universalidad (se tomará el caso de los adolescentes de familias migrantes, como ejemplo extremo de exclusión normativa y las violencias materiales y simbólicas subyacentes) y ii) las condicionalidades y penalidades del programa que implican la construcción de una mirada sobre las responsabilidades individuales y estatales en relación a las mismas y sus efectos violentos también materiales y simbólicos."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Por su parte, la selección del PAE, como caso a analizar, responde a que el mismo se distingue por ser uno de los pocos programas orientados específicamente al egreso de niños y adolescentes que han estado sujetos a medidas excepcionales de protección de derechos por carecer de adecuados cuidados parentales, y han permanecido durante períodos de tiempos variables en dispositivos e instituciones de cuidado."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Tanto la AUH como el PEA permiten focalizar en la franja etaria de nuestro interés, comprendida entre los 13 y los 21 años."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n",
+     [
+      "span",
+      {},
+      "Resultados"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Sobre las políticas públicas: focalizando en dos casos",
+     [
+      "sup",
+      {},
+      [
+       "a",
+       {
+        "href": "#t-fn9",
+        "id": "t-llamada-fn9-1"
+       },
+       "8"
+      ]
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\nAsignación Universal por Hijo (AUH)",
+     [
+      "sup",
+      {},
+      [
+       "a",
+       {
+        "href": "#t-fn17",
+        "id": "t-llamada-fn17-1"
+       },
+       "9"
+      ]
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "La Asignación Universal por Hijo es el programa de transferencia condicionada de mayor amplitud en Argentina (Ver cuadro 1). Consiste en una suma de dinero que se paga mensualmente por cada hijo o hija menor de 18 años o sin límite de edad si es una persona con discapacidad. Las madres, padres o titulares de dichos hijos/as deben reunir las siguientes condiciones: ser desocupados, trabajadores no registrados o sin aportes, personal de casas particulares o monotributistas sociales. De este modo, con este programa, se busca igualar la situación de estos NNyA con aquellos cuyos padres/madres cobran la Asignación Familiar, derecho adquirido por su condición de trabajadores formales. El organismo encargado de su implementación es la Administración Nacional de Seguridad Social (ANSES)."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "span",
+     {
+      "id": "t-gt1"
+     },
+     "\n",
+     "\n",
+     [
+      "span",
+      {},
+      "Cuadro 1"
+     ],
+     "\n",
+     "\n",
+     [
+      "figura",
+      {}
+     ],
+     [
+      "br",
+      {}
+     ],
+     "\n",
+     [
+      "span",
+      {}
+     ],
+     "\n"
+    ],
+    "\n",
+    "\n",
+    [
+     "p",
+     {},
+     "Existen múltiples trabajos que analizan este programa (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445004_ref35",
+       "id": "t-llamada-redalyc_775445004_ref35-2"
+      },
+      "Straschnoy, 2017"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445004_ref25",
+       "id": "t-llamada-redalyc_775445004_ref25-1"
+      },
+      "Kliksberg y Novacovsky, 2015"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445004_ref3",
+       "id": "t-llamada-redalyc_775445004_ref3-1"
+      },
+      "Arcidiácono, 2016"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445004_ref28",
+       "id": "t-llamada-redalyc_775445004_ref28-1"
+      },
+      "Pautassi, Arcidiácono y Straschnoy, 2013"
+     ],
+     ", entre otros.) Asimismo, programas de transferencias condicionadas dirigidas a la cobertura de NNYA reconocen antecedentes en la región, con semejanzas y diferencias",
+     [
+      "sup",
+      {},
+      [
+       "a",
+       {
+        "href": "#t-fn18",
+        "id": "t-llamada-fn18-1"
+       },
+       "10"
+      ]
+     ],
+     ". La implementación de la AUH ha respetado el principio de progresividad, ya que desde su creación en 2009 (DNU 1602/09) hasta la actualidad, paulatinamente ha incluido a un mayor número de destinatarias/os, no solo por su alcance numérico y territorial sino también por una serie de modificaciones de los requisitos para su solicitud que amplió la base de potenciales beneficiarios. Cabe destacar al respecto la inclusión en la normativa de los padres y madres que se desempeñen como personal de casas particulares y de los monotributistas sociales y en 2023 la inclusión de los NNyA sin cuidados parentales que se encuentren en dispositivos de cuidado",
+     [
+      "sup",
+      {},
+      [
+       "a",
+       {
+        "href": "#t-fn19",
+        "id": "t-llamada-fn19-1"
+       },
+       "11"
+      ]
+     ],
+     ". Sin detrimento de este aspecto progresivo de la AUH, también existen determinados grupos poblacionales que ven limitado su acceso. En este sentido, la normativa excluye a NNyA cuyos padres, madres o titulares que no alcancen los dos años de residencia continuada, ya sea que se trate de una persona extranjera o naturalizada. De este modo, si bien son los NNyA los que tienen la titularidad del derecho a recibir la AUH, esta limitación actúa como un obstáculo para el acceso de este colectivo."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "En el caso de NNyA nacidos fuera del territorio nacional, el decreto 840/20 establece que deben acreditar, tanto ellos como la persona que percibirá la asignación, dos años de residencia legal en el país (desde la creación de la AUH, en 2009, hasta el Decreto 840/20, el plazo de residencia exigido -del niño o niña, o sus padres, era de tres años). La acreditación debe efectuarse con la presentación del DNI, ello supone excluir de la cobertura a personas migrantes en situación regular (con residencia precaria, por ejemplo), así como a solicitantes de asilo y refugiadas, que aún no cuentan con el DNI",
+     [
+      "sup",
+      {},
+      [
+       "a",
+       {
+        "href": "#t-fn20",
+        "id": "t-llamada-fn20-1"
+       },
+       "12"
+      ]
+     ],
+     ", y también, los niños y adolescentes argentinos que no tienen DNI",
+     [
+      "sup",
+      {},
+      [
+       "a",
+       {
+        "href": "#t-fn21",
+        "id": "t-llamada-fn21-1"
+       },
+       "13"
+      ]
+     ],
+     ". Esta exigencia de antigüedad mínima en la residencia de las y los migrantes solicitantes de la AUH ha sido cuestionada inclusive en instancias judiciales en varias oportunidades (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445004_ref12",
+       "id": "t-llamada-redalyc_775445004_ref12-1"
+      },
+      "Ceriani Cernadas, Cyment y Morales, 2011"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445004_ref19",
+       "id": "t-llamada-redalyc_775445004_ref19-1"
+      },
+      "García, 2017"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445004_ref29",
+       "id": "t-llamada-redalyc_775445004_ref29-1"
+      },
+      "Penchaszadeh, 2021"
+     ],
+     "). Esta limitación supone la negación de derechos reconocidos tanto por leyes nacionales de jerarquía superior, tales como la Ley 25.871 (Ley de Migraciones) y la Ley 26.061 (Protección integral de derechos de NNyA) como por tratados internacionales de Derechos Humanos."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "El criterio temporal de residencia refuerza la asimilación de las categorías de nacionalidad con la de ciudadanía, entendida esta última como el pasaporte para el acceso a ciertos derechos. Es así que el estado construye clasificaciones y calificaciones, ejerciendo su potestad de ejercicio de la violencia material y también simbólica sobre los habitantes que se encuentran en su territorio. Esta clasificación repercute en la construcción de imaginarios que consideran a las y los migrantes como sujetos de segunda categoría, afectándolos además de modo concreto a partir de la negación de un derecho. (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445004_ref20",
+       "id": "t-llamada-redalyc_775445004_ref20-1"
+      },
+      "González, 2019"
+     ],
+     ")"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "En relación a las condicionalidades y penalidades que incluye la norma que regula la AUH es posible introducir aspectos ligados a violencias estatales por omisión (escaso seguimiento y asistencia de las familias, sobre todo de aquellas que no alcanzan a cumplir con las condicionalidades) como a violencias estatales por acción (al crear un tipo de destinatario de la política y una mirada culpabilizante de quienes “no cumplen”). Si entendemos que el Estado tiene la obligación de implementar acciones positivas en pos de garantizar derechos - valga por caso, políticas públicas dotadas de condiciones de posibilidad en términos de recursos presupuestarios, edilicios, de recursos humanos, etc., cuando el Estado incumple, sea porque no implementa las políticas públicas, sea porque no asigna los recursos necesarios, es decir, cuando el Estado no garantiza las acciones positivas, el Estado infringe violencia por omisión. Al respecto, Straschnoy dice que"
+    ],
+    "\n",
+    [
+     "blockquote",
+     {},
+     "La Argentina se caracterizó, a nivel nacional, por políticas sociales con condicionalidades blandas en lo que respecta a salud y educación, desde los primeros proyectos surgidos hacia fines de la década del noventa hasta el Programa Familias por la Inclusión Social (2004-2010). La Asignación Universal por Hijo para Protección Social (2009), (…) representa un cambio en relación con esto, ya que aplica suspensiones de forma automática ante la comprobación del incumplimiento de las condicionalidades, lo que afecta anualmente a cerca de 600 mil niños, niñas y adolescentes (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445004_ref34",
+       "id": "t-llamada-redalyc_775445004_ref34-2"
+      },
+      "2016"
+     ],
+     ", p.62)."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "En la distinción entre condicionalidades duras y blandas o moderadas subyace determinada noción de responsabilidad. Las de primer tipo suponen que la obligación es solamente del beneficiario de la política y que el mismo se comporta como un ",
+     [
+      "span",
+      {},
+      "homo economicus"
+     ],
+     ", o bajo la lógica racional de arreglo de a fines, el beneficio es concebido como un bien y no se consideran en el análisis las obligaciones de los Estados. Podemos enmarcar esta situación en lo que Merklen (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445004_ref26",
+       "id": "t-llamada-redalyc_775445004_ref26-1"
+      },
+      "2013"
+     ],
+     ") denomina como parte de las dinámicas de ",
+     [
+      "span",
+      {},
+      "individuación del modelo de la política social"
+     ],
+     " de nuestra época, cuyas características son: pensar al individuo de modo aislado y no en el marco de colectivos, la intervención sobre el otro más que su integración, la construcción de un sujeto responsable de su propio destino y el trabajo sobre categorías problemáticas pero aproximándose a cada individuo de modo particular y en relación a su historia personal."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Precisamente para conocer la perspectiva de los sujetos destinatarios de programas de transferencia condicionada de ingresos en el marco de la ETrA consultamos a los adolescentes (310 encuestados/as) acerca de si recibían alguna beca para estudiar. El 28% afirmó que sí, un 10% no lo sabía y un 62% afirmó que no era titular de ninguna beca. Estos guarismos contrastan con los obtenidos en nuestras conversaciones informales y entrevistas con los educadores y operadores de los centros, que informan que la casi la totalidad de los adolescentes encuestados están cubiertos por ciertos programas, por ejemplo becas para solventar el boleto estudiantil, Progresar",
+     [
+      "sup",
+      {},
+      [
+       "a",
+       {
+        "href": "#t-fn22",
+        "id": "t-llamada-fn22-1"
+       },
+       "14"
+      ]
+     ],
+     " o la AUH. En este sentido, podemos plantear que, o bien desconocen que son titulares de estos programas o no los asocian con la ayuda que pudiera implicar para el ejercicio de su derecho a la educación. Por este motivo, entendemos que el 62% de respuestas obtenidas en la encuesta debe ser analizado con precaución. Si observamos las respuestas por tramos de edad, el conocimiento es proporcional a la edad; así a mayor edad mayor es el conocimiento de cuál beca reciben y viceversa."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Estos guarismos confirmarían lo que Merklen (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445004_ref26",
+       "id": "t-llamada-redalyc_775445004_ref26-2"
+      },
+      "2013"
+     ],
+     ") señala, en el sentido que no todos los grupos sociales están en condiciones de activarse y responsabilizarse, el sentido de firmar el Convenio de Adhesión o Acta Acuerdo -como prevén la mayoría de los programas con TCI- que los confirma como sujetos responsables que se hacen acreedores de derechos, pero al mismo tiempo contraen obligaciones. Las dinámicas de individuación cargan entonces contra aquellos que es probable no cuenten con los capitales materiales, simbólicos y culturales para apropiarse de las “oportunidades” que supondrían programas como los descriptos, usufructúan, pero no en tanto individuos autoactivados en condiciones de responsabilizarse.  Así, tampoco se ocupan de “cumplir” con las condicionalidades, que dependen de la responsabilidad de los padres o tutores. Si bien es cierto que el beneficio es pensado como un derecho, y su titular un sujeto de derechos, las condicionalidades en relación a la salud y a la educación extienden la responsabilidad al rol estatal por la garantización (vacantes en las escuelas, acceso a turnos médicos, vacunas, etc.). En este sentido, se consideran centrales las acciones y dispositivos que los estados desarrollen para el acompañamiento de las familias que incumplen con las condiciones. (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445004_ref9",
+       "id": "t-llamada-redalyc_775445004_ref9-1"
+      },
+      "Cecchini y Martínez, 2011"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445004_ref10",
+       "id": "t-llamada-redalyc_775445004_ref10-1"
+      },
+      "Cecchini y Madariaga, 2011"
+     ],
+     ")"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "En el caso de la AUH, la normativa del programa establece que el Estado suspende el pago de la asignación frente al incumplimiento de la acreditación de asistencia de los NNyA beneficiarios a la escuela o al centro de salud sin intervenir en los motivos o circunstancias que podrían haber incidido en la falta de acreditación. Más allá que pueda ocurrir que exista, en la práctica, cierta flexibilidad en estas exigencias (cuestión que excede a las posibilidades de análisis de este trabajo), estos son los requisitos que se consignan en la normativa del programa. De esta manera, la violencia ejercida por el Estado se presenta de modo pasivo cuando no garantiza la oferta suficiente de servicios de salud y educación y de modo activo al suspender la transferencia de ingresos, de igual modo al retener el 20% de la asignación para su pago una vez acreditadas las condicionalidades, sancionando previamente a los titulares de este derecho, así:"
+    ],
+    "\n",
+    [
+     "blockquote",
+     {},
+     "Las condicionalidades duras de la AUH habilitan a la doble exclusión: de los servicios de salud y educación, y de la transferencia. En estos casos se observa que, por un lado, la transferencia y la imposición de condicionalidades no logró remover los obstáculos para el ejercicio de los derechos y, por el otro, que el Estado efectúa la suspensión y mantiene una actitud punitiva ante el incumplimiento. (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445004_ref34",
+       "id": "t-llamada-redalyc_775445004_ref34-3"
+      },
+      "Straschnoy, 2016"
+     ],
+     ", p. 72)"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Sea por uno u otro motivo se está frente a ejemplos de violencias estatales sobre sujetos a los que se consideran “vulnerables” pero también “culpables” de su situación por no ser individuos autoactivados (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445004_ref26",
+       "id": "t-llamada-redalyc_775445004_ref26-3"
+      },
+      "Merklen, 2013"
+     ],
+     "). Straschnoy (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445004_ref34",
+       "id": "t-llamada-redalyc_775445004_ref34-4"
+      },
+      "2016"
+     ],
+     ") plantea que en el trabajo de campo que realizó encontró que en ocasiones había cumplimiento de la condicionalidad (por ejemplo, asistir al centro de salud) pero no acreditación de la misma y que las familias soportaban un peso burocrático mucho mayor que aquel que suelen cargar los trabajadores formales bajo el sistema de asignaciones familiares. Consecuentemente, la desigualdad entre uno y otro grupo se evidencia al desaparecer “la presunción de inocencia de las familias ante la falta de certificación” (p. 73). En suma, este tipo de condicionalidades duras se alejan del enfoque de derechos que resalta las obligaciones positivas del Estado en el cumplimiento de derechos. Las condicionalidades podrían colaborar en el rol que tienen los Estados de garantizar derechos pero, así como el usufructo de una prestación no es un \"premio\", sino un derecho, el incumplimiento de la condicionalidad no debiera asimilarse a un \"castigo\" máxime si los sujetos que incumplen se encuentran en situación de desventaja estructural y el incumplimiento no el producto de falta de responsabilidad, sino, una vez más, de la falta de prestaciones (e.g. van al centro de salud a aplicarse vacunas y no hay disponibles, o no hay médicos para proceder a la revisión clínica del niño o adolescente, etc.). En este punto, conocer los motivos por los cuales las personas beneficiarias de la AUH (como de otras PTC) no cumplen con la condicionalidad o con su acreditación permitiría entender mejor las necesidades insatisfechas de esos grupos, la existencia o no de oferta de servicios suficientes de educación y salud, la calidad de los mismos y si se cumple con estándares vinculados a los enfoques de géneros, intercultural, generacional, etc. La investigación realizada por Straschnoy (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445004_ref34",
+       "id": "t-llamada-redalyc_775445004_ref34-5"
+      },
+      "2016"
+     ],
+     ") reveló que no existe información sistematizada por parte del Estado sobre por qué y cuáles son las características de quienes vieron suspendido el pago de la AUH. Los escasos dispositivos de acompañamiento de estas familias evidencian las violencias por omisión que afectan a NNyA que, por verse atravesados por condiciones e injusticias estructurales, tienen dificultades para mantener la escolaridad y/o realizar los controles médicos. Esto puede convertir a las condicionalidades más que en una herramienta de inclusión en una de exclusión y marginación."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Programa Nacional de acompañamiento para el egreso de jóvenes sin cuidados parentales (PAE)"
+      ]
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "El PAE está orientado a adolescentes y jóvenes de entre 13 a 21 años, sin cuidados parentales y con medidas de protección especial",
+     [
+      "sup",
+      {},
+      [
+       "a",
+       {
+        "href": "#t-fn23",
+        "id": "t-llamada-fn23-1"
+       },
+       "15"
+      ]
+     ],
+     ", según lo define la Ley 27.364, sancionada en mayo de 2017. El programa tiene componentes monetarios",
+     [
+      "sup",
+      {},
+      [
+       "a",
+       {
+        "href": "#t-fn24",
+        "id": "t-llamada-fn24-1"
+       },
+       "16"
+      ]
+     ],
+     " y componentes de acompañamiento. Sigue el modelo de los Programas de Asistencia Condicionada en cuanto a sus objetivos de corto, mediano y largo plazo. (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445004_ref34",
+       "id": "t-llamada-redalyc_775445004_ref34-6"
+      },
+      "Straschnoy, 2016"
+     ],
+     "). El primero pretende garantizar la inclusión social y máximo desarrollo personal y social de las personas que se encuentren en dichas etapas de sus trayectorias vitales y que se hallen sin los mencionados cuidados ( artículo 1); el segundo remite al acceso a determinados servicios para que acumulen capacidades (sobre todo educación y salud) pensados como condicionalidades y, el tercero se vincula con conseguir que los adolescentes y jóvenes sin cuidados parentales que acceden al PAE, cuando sean adultos logren insertarse en el mercado laboral y desarrollen una vida independiente."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "El Programa es de carácter voluntario (Artículo 4 de la misma ley), es decir que el/la adolescente o joven debe dar su consentimiento para ingresar al mismo y puede salir del Programa si así lo decide, no aplicándose sanciones ni medidas excluyentes en esos casos. La normativa reconoce al titular del derecho como un sujeto con protagonismo y voz propia y con un objetivo ligado a la consecución de la autonomía y planificación de la vida adulta. La norma establece que el acompañamiento integral consiste de dos etapas: la primera de ellas, es desde los trece años o desde el ingreso del adolescente a algún dispositivo de cuidado formal, si es que ello ocurre luego de la mencionada edad, hasta el egreso del mismo. (Artículo 7). En este periodo, el acompañamiento se realiza en coordinación con el personal del dispositivo de cuidado formal. La segunda etapa, engloba el periodo desde que el adolescente o joven egresa del dispositivo de cuidado formal hasta los 21 años de edad. Una vez que se produce el egreso, el adolescente o joven percibe además un ingreso monetario."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "El acompañamiento personal “consiste en la asignación de una/un referente que tiene por función acompañar a cada adolescente/joven en el fortalecimiento de su autonomía”, teniendo en cuenta los principios de interés superior del niño/a y de la autonomía progresiva de la/el adolescente. Asimismo, la ley prevé que el acompañamiento sea de carácter integral, incluyendo las siguientes dimensiones: salud, salud sexual, procreación responsable y planificación familiar; educación, formación y empleo; vivienda; derechos humanos y formación ciudadana; familia y redes sociales; recreación y tiempo libre; habilidades para la vida independiente; identidad y planificación financiera y manejo del dinero. (Artículo 11 a 20)"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "La Reglamentación de la Ley 27.364",
+     [
+      "sup",
+      {},
+      [
+       "a",
+       {
+        "href": "#t-fn25",
+        "id": "t-llamada-fn25-1"
+       },
+       "17"
+      ]
+     ],
+     " establece que la Secretaría Nacional de Niñez, Adolescencia y Familia (SENAF) del Ministerio de Desarrollo Social de la Nación",
+     [
+      "sup",
+      {},
+      [
+       "a",
+       {
+        "href": "#t-fn26",
+        "id": "t-llamada-fn26-1"
+       },
+       "18"
+      ]
+     ],
+     " es el área encargada de la coordinación federal del PAE, garantiza los fondos del Programa para el pago de la asignación económica mensual del adolescente o joven y realiza capacitaciones para los referentes. La coordinación e implementación territorial del acompañamiento en sus dos etapas (previa al egreso del dispositivo de cuidado y posterior al mismo) es un rol que asume cada provincia a través de las áreas de niñez y adolescencia jurisdiccionales. Esto incluye la gestión de cada referente y el envío a la SENAF de la lista de titulares para el otorgamiento de alta en el PAE."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "En entrevistas que hemos realizado a funcionarios del MDS y de la SENAF, han manifestado que no existen supervisiones directas de la calidad del acompañamiento que se brinda a los adolescentes (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445004_ref23",
+       "id": "t-llamada-redalyc_775445004_ref23-1"
+      },
+      "Guemureman y González, 2023"
+     ],
+     "). Según la normativa, los referentes son designados por los organismos de protección de adolescencia y juventud de cada jurisdicción. Los mismos deben ser incorporados en una nómina y acreditar experiencia en el trabajo con NNyAJ además de realizar capacitaciones que las autoridades establezcan y cumplir con una serie de requisitos. Desde la coordinación del PAE se certifica la capacitación, pero luego, el profesional, operador o técnico que haya obtenido la certificación no está obligado a inscribirse como referente a ser elegido por los niños y adolescentes, por lo tanto, la cantidad de personas que anualmente realiza la capacitación a distancia, no necesariamente impacta en la mayor oferta de referentes y en una adecuada cobertura regional",
+     [
+      "sup",
+      {},
+      [
+       "a",
+       {
+        "href": "#t-fn27",
+        "id": "t-llamada-fn27-1"
+       },
+       "19"
+      ]
+     ],
+     "."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "En ciertos aspectos el PAE contiene algunos elementos de las políticas con condicionalidades de fines siglo XX (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445004_ref34",
+       "id": "t-llamada-redalyc_775445004_ref34-7"
+      },
+      "Straschnoy, 2016"
+     ],
+     ") al establecer corresponsabilidades de los destinatarios y del Estado, sanciones poco rígidas y la figura del acompañante, en este caso denominado referente."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Sin embargo, un análisis detenido del componente de acompañamiento deja en evidencia ciertos obstáculos para que el mismo sea integral y que podemos asociar con violencias estatales tanto por omisión como por acción. Sobre este punto, interesa abordar dos nudos problemáticos de la implementación territorial del PAE: las brechas entre Buenos Aires y las demás jurisdicciones en la implementación del programa y el sistema de acompañamiento basado en los referentes."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "El primero de los ítems mencionados refiere a un aspecto que se replica en múltiples políticas públicas y se refiere a la centralización de recursos económicos e institucionales (escuelas, hospitales, dispositivos de cuidado, fuentes laborales, etc.) en los grandes centros urbanos y las limitaciones de federalización de este tipo de programas. Según datos de registros administrativos del Sistema de Gestión documental Electrónica (GDE) y registros de seguimiento del programa PAE de la Secretaría Nacional de Niñez, Adolescencia y Familia (SENAF), en el año 2023 las provincias de Buenos Aires (1262), Santa Fe (238), CABA (172), Entre Ríos (133) y Córdoba (205) concentran la mayor cantidad de titulares mientras que provincias como La Rioja (17) y Neuquén (25) se encuentran entre las que cuentan con menos titulares del PAE",
+     [
+      "sup",
+      {},
+      [
+       "a",
+       {
+        "href": "#t-fn28",
+        "id": "t-llamada-fn28-1"
+       },
+       "20"
+      ]
+     ],
+     ". De la encuesta realizada por la Universidad Católica Argentina y cuyos resultados se presentan en parte en un informe",
+     [
+      "sup",
+      {},
+      [
+       "a",
+       {
+        "href": "#t-fn29",
+        "id": "t-llamada-fn29-1"
+       },
+       "21"
+      ]
+     ],
+     " publicado en 2023, se concluye que la mayor parte de los titulares viven en ciudades (85%) y pueblos (13%) aclarando que “es importante considerar si la baja prevalencia de titulares que viven en el campo, paraje, o monte, junto con la alta frecuencia de titulares de la Provincia de Buenos Aires y CABA se debe a una falta de llegada del programa y/o a la localización de la mayoría de los hogares/residencias/casas de egreso” (p. 26). Aun tomando en consideración estas salvedades y las densidades territoriales diferenciales de población, estos datos despiertan el alerta acerca de las disparidades que puede tener la implementación territorial del programa y las violencias (por acción y por omisión) cotidianas que se reproducen en las áreas alejadas de los centros urbanos del país."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "En relación al sistema de referentes, el mismo informe citado previamente evidencia que aquellos adolescentes y jóvenes que cuentan con un referente “…han podido cumplir en una proporción significativamente mayor con sus objetivos personales de comenzar o continuar cuidados de salud y de ampliar sus redes de contactos” (p. 35). Esta información revela la importancia que puede tener el componente del acompañamiento. Al respecto, el mismo informe señala que es frecuente el cambio de referentes en ambas etapas del programa. En la encuesta realizada a 1028 titulares del PAE se pueden observar que “la gran mayoría (…) tiene referente hace al menos 6 meses y manifiesta sentirse apoyado por el referente (etapa 1: 95%, etapa 2: 93%). Un 15,5% no tiene referente: 32 de ellos en etapa 1 y 127 de ellos en etapa 2. (…) uno de cada cinco titulares que han cambiado referente se encuentran en etapa 1 (22%) y este número casi se duplica en etapa 2 (38%)” (p. 35)."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "La etapa cualitativa del mismo informe indica que las desigualdades en el acceso al programa también se replican en la calidad del sistema y vínculo con los referentes, por ejemplo, uno de los titulares que reside en Tucumán manifiesta que: “La ley contempla que tienen que tener hasta 3 chicos, y acá en Tucumán hay como referentes que tienen 5 o 6. Por supuesto que esto hace más ineficiente su acompañamiento por un montón de razones. Pero bueno, es la situación que hay…”  (Titular masculino, 22 años, Tucumán, 5 años en el PAE) y en el caso de una titular de Salta puede leerse en su testimonio: \"Ya no tengo un referente. Porque me dijeron que ya soy una chica autónoma y ya soy responsable por lo que estoy haciendo.\" (Titular mujer, 23 años, Salta, 4 años en el PAE). Vemos cómo en los testimonios de los titulares del PAE se replican algunas de las características de individuación de las que habla Merklen (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445004_ref26",
+       "id": "t-llamada-redalyc_775445004_ref26-4"
+      },
+      "2013"
+     ],
+     "), esto es políticas que: no piensan al individuo en el marco de colectivos y tienen como objetivo más que la integración, la construcción de un sujeto autónomo y responsable. Esto último aparece además como una necesidad dado el escaso financiamiento que suele destinarse al componente del acompañamiento. Dos testimonios más de adolescentes y jóvenes sobre su experiencia con los referentes sirven de muestra:"
+    ],
+    "\n",
+    [
+     "blockquote",
+     {},
+     "El programa contempla que tenemos que tener referente de principio a fin, el tema es que las condiciones laborales de los referentes son pésimas. Entonces los referentes terminan renunciando. Por ejemplo, yo tuve 3 referentes ya y renunciaron 2.” (Titular mujer 23 años, Misiones, 3 años en el PAE); \"Hay provincias que dicen: bueno, el pibe tiene 21, no necesita referente. La ley no dice que voy a tener que sacar el referente a los 21 años. Entonces los pibes mismos tenemos que pelear con el mismo sistema que vulnera constantemente nuestros derechos (Titular mujer, 21 años, Entre Ríos, 5 años en el PAE)."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Esta selección de testimonios de titulares del PAE extraídos del Informe elaborado por el Observatorio de la Deuda Social Argentina de la UCA, permiten sostener que- dado que el financiamiento del componente de acompañamiento no está garantizado ni es un rol que asuma la SENAF, sino que es atribuido a cada jurisdicción- las responsabilidades estatales en cuanto a sus intervenciones y trabajo cotidiano de seguimiento y acompañamiento del proceso hacia la autonomía de los adolescentes y jóvenes se diluyen y quedan libradas a los andamiajes institucionales que pueda desplegar cada jurisdicción, y cómo estas capacidades se repliquen en los niveles municipales, distritales o comunales. Como hemos explicado, las violencias por omisión atentan contra una mirada en que se privilegie el acceso de las personas a sus derechos sociales (educación, salud, trabajo, vivienda, etc.). Los referentes actúan como actores que, sin formar parte de la institucionalidad estatal, asumen en gran parte la responsabilidad del Estado respecto al componente de acompañamiento que garantiza la normativa del PAE. En ese sentido, el presupuesto insuficiente, la precariedad de las condiciones de trabajo de los referentes y la delegación del acompañamiento desde el organismo central hacia las provincias, datos que surgen del Informe publicado por la UCA (2023) así como de las entrevistas que efectuamos a funcionarios ligados al programa, entran en tensión con los principios de progresividad y respeto de los NNyA que proclama la ley 27.364 cuando se evalúa lo que ocurre en los territorios."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n",
+     [
+      "span",
+      {},
+      "Discusión"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Cuando se analiza la violencia ejercida por el Estado desde la sociología, una de las referencias teóricas centrales es Max Weber (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445004_ref37",
+       "id": "t-llamada-redalyc_775445004_ref37-1"
+      },
+      "2008"
+     ],
+     "), quien lo definió como la institución que detenta el monopolio legítimo de la violencia. En esta concepción clásica, el rasgo distintivo del Estado radica en el monopolio legítimo del poder, encarnado en la coacción física como medio específico e indispensable. Sin embargo, Weber advierte que la coacción física no constituye el único recurso administrativo: quienes ejercen el poder estatal recurren a todos los medios posibles para alcanzar sus fines. Lo que otorga especificidad al Estado es, precisamente, la amenaza latente y el eventual uso de la coacción física cuando fracasan otros recursos."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "En este sentido, la definición de violencia estatal supone el uso monopólico de la fuerza legítima y la coacción. Ahora bien, esta coacción implica grados diferenciales de ejecución y modalidades graduadas de acciones directas (tanto físicas como simbólicas) y también, en nuestra propuesta, omisiones de parte del Estado que encierran de igual modo violencias que repercuten sobre los cuerpos y trayectorias vitales, en este caso de adolescentes y jóvenes. En las políticas y programas desarrollados por el Estado coadyuvan estas violencias punitivas y no punitivas que requieren de un enfoque multidimensional para su mejor comprensión."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Desde nuestro enfoque, como ya explicamos, las violencias estatales pueden clasificarse en violencias estatales por acción (proactiva o represiva) o por omisión (activa o pasiva). Las primeras incluyen violencias directas, a través del uso de la fuerza o de la coerción psicológica y son ejercidas por agentes del Estado que detentan el monopolio de la violencia física legítima y, por tanto, suponen una asimetría de poder entre los actores involucrados. Se trata de violencias públicas estatales y punitivas. Las segundas, más difíciles de identificar, se clasifican, a su vez, en violencias por omisión activa: el caso más común es cuando el estado delega el accionar de la violencia punitiva en los presos de las cárceles, por ejemplo. Asimismo, incluimos dentro de las violencias estatales por omisión pasiva la denegación de acceso de las personas a derechos, garantizados por leyes y por políticas públicas que debieran instrumentarlos, debido a trabas burocráticas, por indiferencia, inoperancia o desidia de funcionarios y operadores estatales. (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445004_ref22",
+       "id": "t-llamada-redalyc_775445004_ref22-2"
+      },
+      "Guemureman, et al. 2017"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445004_ref21",
+       "id": "t-llamada-redalyc_775445004_ref21-1"
+      },
+      "Guemureman, 2018"
+     ],
+     "). En sintonía con este argumento, desde el OAJ venimos bregando por el uso del concepto de violencia estatal para definir la violencia que el Estado propone por acción o por omisión, y parangonar la ausencia en la implementación de políticas públicas, es decir, de acciones afirmativas dotadas de partidas presupuestarias, como una omisión estatal que genera violencia."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Estas violencias estatales se despliegan en un contexto de fragmentación y pauperización que se evidencia a nivel mundial y que ha supuesto el debilitamiento de ciertas funciones de los Estados, a la vez que el fortalecimiento de otras ligadas al control de las poblaciones. En este escenario, por ejemplo, las fronteras entre políticas sociales y políticas penales orientadas a adolescentes y jóvenes en condiciones de vulnerabilidad se tornan cada vez más difusas. Este asunto se explica en parte por el modo en que se piensan las políticas estatales desde hace varias décadas al menos en varios países de occidente y entre los cuales Argentina no es la excepción. En este sentido, más allá de las peculiaridades de cada país, la tendencia que año a año se profundiza, con sus matices y marchas y contramarchas, es la discusión por el rol del Estado en sociedades que diversos autores (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445004_ref7",
+       "id": "t-llamada-redalyc_775445004_ref7-1"
+      },
+      "Castel, 1997"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445004_ref8",
+       "id": "t-llamada-redalyc_775445004_ref8-1"
+      },
+      "Castel et al., 2013"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445004_ref32",
+       "id": "t-llamada-redalyc_775445004_ref32-1"
+      },
+      "Sennet, 2000"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445004_ref5",
+       "id": "t-llamada-redalyc_775445004_ref5-1"
+      },
+      "Beck, 1986"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445004_ref4",
+       "id": "t-llamada-redalyc_775445004_ref4-1"
+      },
+      "Bauman, 2000"
+     ],
+     ") han denominado post-salariales o post-modernas."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Dichas sociedades se caracterizan por el aumento de las desigualdades y la pobreza, un dato que no resulta novedoso si consideramos las diversas etapas de consolidación del sistema económico actual, pero que instaura cierta originalidad en los relatos que se construyen sobre esos procesos, en su gestión por parte de la sociedad y en el tipo de sujeto que consolidarían. Se trata de sociedades desafiliadas. Es decir, sin que dejen de existir aún determinados agrupamientos institucionalizados (sindicatos, agrupaciones políticas, etc.) que representan intereses colectivos en función de una identidad social y grupal, emergen cada vez con mayor presencia discursos que enaltecen la individualidad, el emprendedorismo y la satisfacción de necesidades (vitales y accesorias) de modo autónomo en el mercado. Claro está, como mencionamos, este no es un fenómeno que teóricos como, por ejemplo, Castel (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445004_ref7",
+       "id": "t-llamada-redalyc_775445004_ref7-2"
+      },
+      "1997"
+     ],
+     ") no hayan avizorado desde hace décadas. No obstante, la aceleración de la globalización, de los medios tecnológicos y de la posibilidad de “descarte” de las personas para la generación de capitales pareciera multiplicar estos procesos y sus consecuencias. (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445004_ref31",
+       "id": "t-llamada-redalyc_775445004_ref31-1"
+      },
+      "Sassen, 2015"
+     ],
+     ") Debemos tener claro que los adolescentes y jóvenes de hoy han nacido y transitado su corta vida en sociedades con estas características."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "En uno de los capítulos de ",
+     [
+      "span",
+      {},
+      "La metamorfosis de la cuestión social"
+     ],
+     ", libro del cual proviene la referencia precedente, Castel se plantea la pregunta inquietante acerca de cómo afrontar la vulnerabilidad después de las protecciones. De algún modo, nuestra propuesta retoma ese interrogante para indagar qué sucede con el rol del Estado frente a adolescentes y jóvenes que ya no cuentan (y muchas veces se los convence de que no las necesitan) con aquellas protecciones. Y otro aspecto central: ¿qué se les demanda a esos adolescentes desde las políticas públicas? ¿Qué rol -más o menos activo- se les propone en su diseño e implementación? ¿Cuáles son las garantías reales de acceso a esas políticas y bajo qué exigencias más o menos alcanzables?"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n",
+     [
+      "span",
+      {},
+      "Conclusión"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "En nuestro análisis de los programas seleccionados buscamos evidenciar modalidades de violencias estatales que a veces pueden ser de difícil identificación. La AUH y el PAE, como representantes de ",
+     [
+      "span",
+      {},
+      "políticas del individuo"
+     ],
+     ", “animadas por las buenas intenciones, (...) apuntan al ",
+     [
+      "span",
+      {},
+      "loser"
+     ],
+     ", toman como población objeto a los perdedores, por el hecho de haber perdido, pero ya no se ocupan de las reglas de juego que llevan a unos a ganar y a los otros a perder” (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445004_ref26",
+       "id": "t-llamada-redalyc_775445004_ref26-5"
+      },
+      "Merklen, 2013"
+     ],
+     ", p. 76). Con la identificación de estas violencias esperamos aportar al análisis crítico de los modos en que los estados gestionan el acceso a derechos de los jóvenes, invitando al diseño de programas que los incluyan de modo activo y adecuado a sus realidades y preocupaciones. En ese sentido, se enmarca en un análisis sistémico que, sin ignorar la capacidad de agencia de los actores (sean estos los destinatarios de las políticas o los técnicos o funcionarios que las diseñan y/o implementan) se encuentran dentro de entramados institucionales (muchos de ellos plasmados en las normativas y resoluciones) que establecen requisitos, condicionalidades y disposiciones sobre la ejecución de los programas."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Contemporáneamente a la escritura de este artículo, en Argentina ha asumido la administración del Poder Ejecutivo de la nación una fuerza política nueva que se propone la desregulación de la economía",
+     [
+      "sup",
+      {},
+      [
+       "a",
+       {
+        "href": "#t-fn30",
+        "id": "t-llamada-fn30-1"
+       },
+       "22"
+      ]
+     ],
+     ". El gobierno ha anunciado que entre sus objetivos se encuentra el “achicamiento del Estado”, el ajuste presupuestario y el “recorte del gasto” a los fines de reducir el déficit fiscal. A través del Decreto 8/2023",
+     [
+      "sup",
+      {},
+      [
+       "a",
+       {
+        "href": "#t-fn31",
+        "id": "t-llamada-fn31-1"
+       },
+       "23"
+      ]
+     ],
+     ", el día posterior a la asunción del nuevo presidente, también se vio afectado el organigrama estatal, significando el cierre de ministerios como el de educación, trabajo, seguridad social, entre otros, ya sea eliminándolos de plano o subsumiéndolos, bajo la figura de secretarias, dentro del Ministerio de Capital Humano. Así el escenario, todo pareciera indicar que aquellas cifras de pobreza que presentamos en la introducción no harán más que empeorar y junto a ello se avizora el desmantelamiento y desfinanciamiento de múltiples programas y dispositivos estatales, y por tanto, el aumento de la violencia estatal inherente a la falta de financiamiento de las políticas públicas y su no garantización. Aun cuando, y por el momento, la actual gestión de gobierno (que ha desmantelado programas, políticas públicas, organismos encargados de implementar las prestaciones, etc.) haya aumentado el monto de la AUH, por ejemplo, ese incremento no desmiente el carácter regresivo del escenario de reconocimiento de derechos."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Esta política económica de “ajuste” y regulada por “el mercado” no es una novedad en el país como tampoco en la región y está acompañada por discursos que enaltecen la ideología meritocrática (por definición selectiva y excluyente) y “la elección de los elegidos” de la que nos habla Bourdieu, que diferencia entre la “buena gente” y la “mala gente”; entre los merecedores del disfrute y los que “no se esforzaron lo suficiente” para obtenerlo. Esta lógica excluyente, trasladada al ámbito de las políticas públicas, no hace sino profundizar las violencias —tanto por acción como por omisión— que afectan cotidianamente a niños, niñas y adolescentes en un mundo cada vez más expulsivo y desigual."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n",
+     [
+      "span",
+      {},
+      "Financiamiento"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Proyecto de Investigación Plurianual (PIP) “Observatorio de políticas y prácticas de las agencias de control social en la gestión de la población de adolescentes y jóvenes: violencias estatales, riesgos y seguridad pública”, aprobado en 2021 y financiado por el Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET)."
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-back"
+    },
+    "\n",
+    [
+     "p",
+     {},
+     "\n",
+     [
+      "span",
+      {},
+      "Referencias"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445004_ref1"
+     },
+     "ANSES (2022). ",
+     [
+      "span",
+      {},
+      "Asignación Universal por Hijo para Protección Social. Decreto 1602/09. "
+     ],
+     "Boletín mensual, febrero de 2022. ",
+     [
+      "a",
+      {
+       "href": "http://observatorio.anses.gob.ar/archivos/publicaciones/Boletin%20mensual%20AUH%20Febrero%202022.pdf"
+      },
+      "http://observatorio.anses.gob.ar/archivos/publicaciones/Boletin%20mensual%20AUH%20Febrero%202022.pdf"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445004_ref2"
+     },
+     "ANSES-MINISTERIO DE DESARROLLO SOCIAL-UNICEF-IEEP-BAIRES-FCE (UBA/CONICET)-CENTRO DE ESTUDIOS DISTRIBUTIVOS LABORALES Y SOCIALES (UNLP) Y CONSEJO NACIONAL DE POLÍTICAS SOCIALES-PRESIDENCIA DE LA NACIÓN (2017). ",
+     [
+      "span",
+      {},
+      "Análisis y propuestas de mejoras para ampliar la ASIGNACIÓN UNIVERSAL POR HIJO"
+     ],
+     ". ",
+     [
+      "a",
+      {
+       "href": "https://www.cedlas.econo.unlp.edu.ar/wp/publicaciones/libros/asignacion-universal-por-hijo/"
+      },
+      "https://www.cedlas.econo.unlp.edu.ar/wp/publicaciones/libros/asignacion-universal-por-hijo/"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445004_ref3"
+     },
+     "Arcidiácono, P. (2016) La asignación universal en su laberinto. ",
+     [
+      "span",
+      {},
+      "Bordes"
+     ],
+     ", 131-189. ",
+     [
+      "a",
+      {
+       "href": "http://revistabordes.com.ar/wp-content/uploads/2016/09/19-La-asignacion.pdf"
+      },
+      "http://revistabordes.com.ar/wp-content/uploads/2016/09/19-La-asignacion.pdf"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445004_ref4"
+     },
+     "Bauman, Z. (2000) ",
+     [
+      "span",
+      {},
+      "Modernidad líquida"
+     ],
+     ". FCE."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445004_ref5"
+     },
+     "Beck, U. (1986). ",
+     [
+      "span",
+      {},
+      "La sociedad del riesgo. Hacia una nueva modernidad. "
+     ],
+     "Paidós."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445004_ref6",
+      "lang": "fr"
+     },
+     "Bourdieu, P. (1993). Esprits d'Etat. Genèse et structure du champ bureaucratique. ",
+     [
+      "span",
+      {},
+      "Actes de la Recherche en Sciences Sociales"
+     ],
+     ", (96-97), 49–62. ",
+     [
+      "a",
+      {
+       "href": "https://www.persee.fr/doc/arss_0335-5322_1993_num_96_1_3040"
+      },
+      "https://www.persee.fr/doc/arss_0335-5322_1993_num_96_1_3040"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445004_ref7"
+     },
+     "Castel, R. (1997). ",
+     [
+      "span",
+      {},
+      "Las metamorfosis de la cuestión social"
+     ],
+     ". Paidós."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445004_ref8"
+     },
+     "Castel, R. et al. (2013). ",
+     [
+      "span",
+      {},
+      "Individuación, precariedad, inseguridad"
+     ],
+     ". Paidós."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445004_ref9"
+     },
+     "Cecchini, S. y Martínez, R. (2011). ",
+     [
+      "span",
+      {},
+      "Protección social inclusiva en América Latina. Una mirada integral, un enfoque de derechos."
+     ],
+     " Comisión Económica para América Latina y el Caribe (CEPAL). Libro de la CEPAL, (111)."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445004_ref10"
+     },
+     "Cecchini, S. y Madariaga, A. (2011). ",
+     [
+      "span",
+      {},
+      "La trayectoria de los programas de transferencias con corresponsabilidad (PTC) en América Latina y el Caribe"
+     ],
+     ". División de Desarrollo Social Comisión Económica para América Latina y el Caribe. CEPAL."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445004_ref11"
+     },
+     "Ceriani Cernadas, P. (2022). Los derechos de niños, niñas y adolescentes en contextos de movilidad humana en la jurisprudencia latinoamericana: avances, retos, lagunas y restricciones. En AA.VV, ",
+     [
+      "span",
+      {},
+      "Acceso a la Justicia de las Personas Migrantes, Refugiadas y otras sujetas de Protección Internacional en las Américas (pp. 189-195)"
+     ],
+     ". CMW, Sin Fronteras y CICR. https://www.icrc.org/es/document/acceso-la-justicia-de-las-personas-migrantes-refugiadas-y-otras-sujetas-de-proteccion#:~:text=La%20publicaci%C3%B3n%20%22Acceso%20a%20la,el%20contexto%20de%20la%20movilidad"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445004_ref12"
+     },
+     "Ceriani Cernadas, P., Cyment, P. y Morales, D. (2011). ",
+     [
+      "span",
+      {},
+      "Migración, derechos de la niñez y Asignación Universal por Hijo: las fronteras de la inclusión social"
+     ],
+     ". ",
+     [
+      "a",
+      {
+       "href": "http://conti.derhuman.jus.gov.ar/2011/10/mesa_2/ceriani_cyment_morales_mesa_2.pdf"
+      },
+      "http://conti.derhuman.jus.gov.ar/2011/10/mesa_2/ceriani_cyment_morales_mesa_2.pdf"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445004_ref13"
+     },
+     "Daroqui, A. y Guemureman, S. (2014). Registro de violencias padecidas por los jóvenes en el sistema carcelario: las micropenalidades y los suplementos punitivos. ",
+     [
+      "span",
+      {},
+      "Diálogos Possíveis"
+     ],
+     ", (13), 206-238. ",
+     [
+      "a",
+      {
+       "href": "https://ri.conicet.gov.ar/handle/11336/44703"
+      },
+      "https://ri.conicet.gov.ar/handle/11336/44703"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445004_ref14"
+     },
+     "Daroqui. A. y Guemureman, S. (2018). Presentación. ",
+     [
+      "span",
+      {},
+      "Cuadernos del Grupo de Estudios de Sistema penal y Derechos Humanos,"
+     ],
+     " (2), 5-10. ",
+     [
+      "a",
+      {
+       "href": "https://biblioteca-repositorio.clacso.edu.ar/bitstream/CLACSO/1116/3/cuadernos2.pdf"
+      },
+      "https://biblioteca-repositorio.clacso.edu.ar/bitstream/CLACSO/1116/3/cuadernos2.pdf"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445004_ref15"
+     },
+     "Debandi, N. y González, A. (2021). ",
+     [
+      "span",
+      {},
+      "El “DNismo” argentino. Las barreras de acceso de las personas migrantes a las políticas públicas"
+     ],
+     ". Ponencia presentada en el XV Congreso Nacional de Ciencia Política, noviembre de 2021, Rosario, Argentina."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445004_ref16"
+     },
+     "De Giorgi, A. (2006) ",
+     [
+      "span",
+      {},
+      "El gobierno de la excedencia, Postfordismo y control de la multitud. "
+     ],
+     "Traficantes de Sueños."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445004_ref17"
+     },
+     "Foucault, M. (1991). Nuevo orden interior y control social. En ",
+     [
+      "span",
+      {},
+      "Saber y Verdad"
+     ],
+     ". La Piqueta."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445004_ref18"
+     },
+     "Foucault, M. (2010). ",
+     [
+      "span",
+      {},
+      "El Nacimiento de la Biopolítica."
+     ],
+     " Fondo de Cultura Económica."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445004_ref19"
+     },
+     "García, L. (2017). Restricciones NNA migrantes en Argentina. El caso de la Asignación Universal por Hijo (AUH). ",
+     [
+      "span",
+      {},
+      "Derecho de Familia"
+     ],
+     ". ",
+     [
+      "span",
+      {},
+      "Revista Interdisciplinaria de Doctrina y Jurisprudencia, "
+     ],
+     "69-80. ",
+     [
+      "a",
+      {
+       "href": "https://www.academia.edu/35842881/Restricciones_NNA_migrantes_en_Argentina_El_caso_de_la_Asignaci%C3%B3n_Universal_por_Hijo_AUH_"
+      },
+      "https://www.academia.edu/35842881/Restricciones_NNA_migrantes_en_Argentina_El_caso_de_la_Asignaci%C3%B3n_Universal_por_Hijo_AUH_"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445004_ref20"
+     },
+     "González, A. (2019). ",
+     [
+      "span",
+      {},
+      "La mirada perjuiciosa. Los migrantes y sus derechos humanos desde las representaciones sociales del sistema judicial"
+     ],
+     ". EUDEBA."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445004_ref21"
+     },
+     "Guemureman, S. (2018). Abordaje multidimensional de violencias estatales punitivas y no punitivas sobre la población adolescente juvenil: aportes para dirimir la trascendente disyuntiva entre bajar o no la edad de punibilidad. ",
+     [
+      "span",
+      {},
+      "Revista Ministerio Público de la Defensa “La protección de los derechos de niños, niñas y adolescentes”, "
+     ],
+     "(13)",
+     [
+      "span",
+      {},
+      ", "
+     ],
+     "103‐118."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445004_ref22"
+     },
+     "Guemureman, S., Otamendi, A., Zajac, J., Sander, J. y Bianchi, E. (2017). Violencias y Violencias estatales: hacia un ejercicio de conceptualización. ",
+     [
+      "span",
+      {},
+      "Revista Ensambles, 4"
+     ],
+     "(7), 12‐25. ",
+     [
+      "a",
+      {
+       "href": "https://revistaensambles.com.ar/ojs-2.4.1/ensambles/article/view/87"
+      },
+      "https://revistaensambles.com.ar/ojs-2.4.1/ensambles/article/view/87"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445004_ref23"
+     },
+     "Guemureman, S. y González, A. (2023). Políticas públicas y gestión de adolescentes y jóvenes. Primeros avances de una investigación en curso”. En M. G. González y D. Zaikoski Biscay (dir.), ",
+     [
+      "span",
+      {},
+      "Libro de Ponencia presentada en Mesa Derecho y Sociedad. XXII Congreso Nacional y XII Latinoamericano Sociología Jurídica"
+     ],
+     " (pp. 248-252). Instituto de Cultura Jurídica (ICJ) de la Facultad de Ciencias Jurídicas y Sociales (FCJyS) Universidad Nacional de La Plata (UNLP) y Sociedad Argentina de Sociología Jurídica (SASJu)"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445004_ref24"
+     },
+     "Huertas, R. (2009). Medicina social, control social y políticas del cuerpo. La subjetivación de la norma. En M. Miranda y A. Girón Sierra (Coords.), ",
+     [
+      "span",
+      {},
+      "Cuerpo, Biopolítica y Control Social"
+     ],
+     " (pp.19‐42). Siglo XXI."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445004_ref25"
+     },
+     "Kliksberg, B. y Novacovsky, I. (2015). ",
+     [
+      "span",
+      {},
+      "El gran desafío: romper la trampa de la desigualdad desde la infancia. Aprendizajes de la Asignación universal por hijo"
+     ],
+     ". Biblos."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445004_ref26"
+     },
+     "Merklen, D. (2013). Las dinámicas contemporáneas y la individuación. En R. Castel, G. Kessler, D. Merklen y N. Murard, ",
+     [
+      "span",
+      {},
+      "Individuación, precariedad, inseguridad. ¿Desinstitucionalización del presente?"
+     ],
+     " Paidós."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445004_ref27"
+     },
+     "Observatorio de la Deuda Social Argentina de la UCA (2023). ",
+     [
+      "span",
+      {},
+      "Alcances, logros y desafíos del Programa de Acompañamiento para el Egreso de Jóvenes sin cuidados parentales (PAE) a 6 años de su implementación"
+     ],
+     ". Informes Técnicos de Consultoría. ",
+     [
+      "a",
+      {
+       "href": "https://www.argentina.gob.ar/sites/default/files/2020/09/informes_tecnicos_de_consultoria_pae.pdf"
+      },
+      "https://www.argentina.gob.ar/sites/default/files/2020/09/informes_tecnicos_de_consultoria_pae.pdf"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445004_ref28"
+     },
+     "Pautassi, L., Arcidiácono, P. y Straschnoy, M. (2013). ",
+     [
+      "span",
+      {},
+      "Asignación universal por hijo para protección social de la Argentina. Entre la satisfacción de necesidades y el reconocimiento de derechos"
+     ],
+     ". CEPAL/Unicef. ",
+     [
+      "a",
+      {
+       "href": "http://repositorio.cepal.org/bitstream/handle/11362/6193/LCL3662_es.pdf?sequence=1"
+      },
+      "http://repositorio.cepal.org/bitstream/handle/11362/6193/LCL3662_es.pdf?sequence=1"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445004_ref29"
+     },
+     "Penchaszadeh, A. P. (2021). De papeles y derechos. La difícil traducción del paradigma de derechos humanos en la política migratoria de la Argentina actual. ",
+     [
+      "span",
+      {},
+      "Colombia Internacional"
+     ],
+     ", (106). ",
+     [
+      "a",
+      {
+       "href": "http://www.scielo.org.co/scielo.php?script=sci_arttext&pid=S0121-56122021000200003"
+      },
+      "http://www.scielo.org.co/scielo.php?script=sci_arttext&pid=S0121-56122021000200003"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445004_ref30"
+     },
+     "Pita, M. V. (2022). Pensar la violencia institucional. En Secretaría de Derechos Humanos de la Nación, ",
+     [
+      "span",
+      {},
+      "Repertorios: perspectivas y debates en clave de Derechos Humanos "
+     ],
+     "(Vol. 2: violencia institucional). Ministerio de Justicia y Derechos Humanos de la Nación."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445004_ref31"
+     },
+     "Sassen, S. (2015). ",
+     [
+      "span",
+      {},
+      "Brutalidad y complejidad en la economía global"
+     ],
+     ". Katz Editores."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445004_ref32"
+     },
+     "Sennet, R. (2000). ",
+     [
+      "span",
+      {},
+      "La corrosión del carácter. Las consecuencias personales del trabajo bajo el nuevo capitalismo."
+     ],
+     " Anagrama."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445004_ref33"
+     },
+     "Sepúlveda Carmona, M. (2013). ",
+     [
+      "span",
+      {},
+      "El enfoque de derechos en la protección social en América Latina. Seminario internacional “Políticas públicas para la igualdad: Hacia sistemas de protección social universal”"
+     ],
+     ". CEPAL Comisión Económica para América Latina y el Caribe."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445004_ref34"
+     },
+     "Straschnoy, M. (2016). Las condicionalidades de la asignación universal por hijo: Un análisis desde el enfoque de derechos y las capacidades estatales. ",
+     [
+      "span",
+      {},
+      "Revista Administración Pública y Sociedad"
+     ],
+     ", (2)."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445004_ref35"
+     },
+     "Straschnoy, M. (2017). Análisis evaluativo de las condicionalidades de la Asignación universal por hijo.",
+     [
+      "span",
+      {},
+      " Revista Política y cultura,"
+     ],
+     " (47)."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445004_ref36"
+     },
+     "Tiscornia, S. (2022). La violencia institucional como tema de trabajo e investigación. En Secretaría de Derechos Humanos de la Nación, ",
+     [
+      "span",
+      {},
+      "Repertorios: perspectivas y debates en clave de Derechos Humanos"
+     ],
+     " (Vol. 2 : violencia institucional). Ministerio de Justicia y Derechos Humanos de la Nación."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_775445004_ref37"
+     },
+     "Weber, M. (2008).",
+     [
+      "span",
+      {},
+      " Economía y Sociedad. "
+     ],
+     "Fondo de Cultura Económica."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Notas"
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-fn1"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "1"
+     ],
+     " En Guemureman, et al (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445004_ref22",
+       "id": "t-llamada-redalyc_775445004_ref22-3"
+      },
+      "2017"
+     ],
+     ") se retoman los debates acerca del concepto de ",
+     [
+      "span",
+      {},
+      "violencia institucional"
+     ],
+     ", sus orígenes históricos y políticos en Argentina así como los cambios que el mismo ha supuesto, entendiendo que esa conceptualización ha resultado, en los últimos tiempos, en que la categoría se vuelva confusa y poco explicativa. Sobre este tema puede verse también los trabajos de Tiscornia (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445004_ref36",
+       "id": "t-llamada-redalyc_775445004_ref36-1"
+      },
+      "2022"
+     ],
+     ") y Pita (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_775445004_ref30",
+       "id": "t-llamada-redalyc_775445004_ref30-1"
+      },
+      "2022"
+     ],
+     ")"
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-fn2"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "2"
+     ],
+     " Cf. \n",
+     [
+      "a",
+      {
+       "href": "https://www.indec.gob.ar/uploads/informesdeprensa/eph_pobreza_09_2326FC0901C2.pdf"
+      },
+      "https://www.indec.gob.ar/uploads/informesdeprensa/eph_pobreza_09_2326FC0901C2.pdf"
+     ],
+     "\n",
+     [
+      "br",
+      {}
+     ],
+     "Se conservan los datos de 2023 ya que enmarcan el análisis de las políticas públicas a analizar\n"
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-fn3"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "3"
+     ],
+     " En adelante NNyA."
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-fn4"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "4"
+     ],
+     " En el segmento de 6 a 11 años, el guarismo es del 37,1%. En el segmento de 1 a 5 años, el 24,8%.  En cada uno de los segmentos, la distribución es muy similar entre pobres indigentes y no indigentes."
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-fn5"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "5"
+     ],
+     " Proyecto “Observatorio de políticas y prácticas de las agencias de control social en la gestión de la población de adolescentes y jóvenes: violencias estatales, riesgos y seguridad pública”"
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-fn6"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "6"
+     ],
+     " La cartografía de políticas públicas incluye el reservorio de documentos oficiales de cada uno de los programas y políticas que allí registramos. Para el caso del PAE consiste en los siguientes: Ley de creación del programa de acompañamiento para el egreso de jóvenes sin cuidados parentales. ",
+     [
+      "a",
+      {
+       "href": "https://www.argentina.gob.ar/normativa/nacional/ley-27364-276156"
+      },
+      "https://www.argentina.gob.ar/normativa/nacional/ley-27364-276156"
+     ],
+     "; Decreto Nacional 1.050/2018. Reglamentación de la Ley 27.364 sobre Programa de Acompañamiento para el Egreso de Jóvenes sin Cuidados Parentales, Buenos Aires, 14 de Noviembre de 2018. http://www.saij.gob.ar/1050-nacional-reglamentacion-ley- 27364-sobre-programaacompanamiento-para-egreso-jovenes-sin-cuidados-parentales- dn20180001050-2018-11-14/123456789-0abc-050-1000-8102soterced# y el informe elaborado por SENAF/DONCEL: “Avances y estado de implementación. 2019-2021. Programa de Acompañamiento para el Egreso de adolescentes y jóvenes sin cuidados parentales”. En relación a la AUH, forman parte del corpus analizado: Ley N.º 24.714 (1996) — Régimen de Asignaciones Familiares;  Decreto N.º 446/2012; Decreto N.º 614/2013; Ley N.º 27.160 (2015);  Ley N.º 27.609 (2021) y distintas resoluciones de ANSES. También fueron consideradas informaciones registradas en el documento: Guía de Programas Sociales (2021-2023), así como datos publicados en las páginas web oficiales de los organismos del estado encargados de la implementación de los programas. Para este último caso, se hicieron copias de respaldo de las páginas oficiales dado que, como pudo constatarse luego, muchos de los dominios de acceso a las mismas fueron eliminadas tras la asunción de la nueva administración gubernamental."
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-fn7"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "7"
+     ],
+     " Puede conocerse con mayor profundidad y amplitud cual es la composición de la cartografía en el capítulo titulado: “Una cartografía sobre políticas públicas destinadas a adolescencias y juventudes (2017-2023)” del Informe Técnico “",
+     [
+      "span",
+      {},
+      "Observatorio de políticas y prácticas de las agencias de control social en la gestión de la población de adolescentes y jóvenes: violencias estatales, riesgos y seguridad pública"
+     ],
+     "”, disponible en: ",
+     [
+      "a",
+      {
+       "href": "https://observatoriojovenesiigg.sociales.uba.ar/2025/04/21/informe-pip-2024/"
+      },
+      "https://observatoriojovenesiigg.sociales.uba.ar/2025/04/21/informe-pip-2024/"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-fn9"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "8"
+     ],
+     " Como se mencionó en la metodología, la información de los requisitos y contenidos de los dos programas se han extraído de las páginas oficiales de los organismos intervinientes en cada política y se han complementado con entrevistas a informantes clave e informes específicos."
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-fn17"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "9"
+     ],
+     " ",
+     [
+      "a",
+      {
+       "href": "https://www.argentina.gob.ar/servicio/tramitar-la-asignacion-universal-por-hijo-auh"
+      },
+      "https://www.argentina.gob.ar/servicio/tramitar-la-asignacion-universal-por-hijo-auh"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-fn18"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "10"
+     ],
+     " Valgan como ejemplo “Building Opportunities for Our Social Transformation”, BOOST (en Belice, desde el años 2011); Bono Juancito Pinto (desde 2006) y Bono Madre Niña-Niño Juana Azurduy (desde 2009) en Bolivia; Bolsa Familia en Brasil (desde 2003); Chile Seguridades y Oportunidades - SSyOO (Ingreso Ético Familiar - IEF), desde 2012; Subsidios Condicionados a la Asistencia Escolar, en Colombia, entre 2005-2012; Bono Social (ex Mi Bono Seguro), en Guatemala, desde 2012; Bono Vida Mejor (ex Bono 10.000 Educación, Salud y Nutrición), en Honduras desde 2010; Prospera. Programa de Inclusión Social, en Mexico, entre 2014-2019); Asignaciones Familiares - Plan Equidad (2008-) y Tarjeta Uruguay Social (ex-Tarjeta Alimentaria), en Uruguay, desde 2006; entre otros. Un detalle puede consultarse en ",
+     [
+      "a",
+      {
+       "href": "https://dds.cepal.org/bpsnc/ptc"
+      },
+      "https://dds.cepal.org/bpsnc/ptc"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-fn19"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "11"
+     ],
+     " Desde enero de 2023, la AUH incluye a NNyA sin cuidados parentales “que se encuentran alojados en dispositivos de cuidado residencial (de gestión pública o privada) o familiar (familias de acogimiento, de tránsito, solidaria, etcétera). A esta población se le abonará mensualmente el 100 por ciento del valor general de la AUH o de la AUH con Discapacidad, si cuentan con el Certificado Único de Discapacidad (CUD) vigente. En el caso de las niñas y niños hasta 12 años inclusive, la cuenta bancaria estará a nombre de un referente designado y cercano afectivamente. A partir de los 13 años, si se considera que cuenta con el grado de madurez suficiente para percibir y administrar por sí mismo la asignación, el pago estará a su nombre”. Información extraída de: ",
+     [
+      "a",
+      {
+       "href": "https://www.anses.gob.ar/noticias/inclusion-de-ninos-ninas-y-adolescentes-sin-cuidados-parentales-la-seguridad-social"
+      },
+      "https://www.anses.gob.ar/noticias/inclusion-de-ninos-ninas-y-adolescentes-sin-cuidados-parentales-la-seguridad-social"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-fn20"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "12"
+     ],
+     " Hemos trabajado la problemática de las barreras que encuentran las personas migrantes para acceder a políticas públicas en Debandi, N y González, A. (2021). ",
+     [
+      "span",
+      {},
+      "El “DNismo” argentino. Las barreras de acceso de las personas migrantes a las políticas públicas"
+     ],
+     ". Ponencia presentada en el XV Congreso Nacional de Ciencia Política, en noviembre de 2021, Rosario, Argentina."
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-fn21"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "13"
+     ],
+     " Cf. Análisis y propuestas de mejoras para ampliar la AUH, UNICEF-ANSES-UBA & al, 2017"
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-fn22"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "14"
+     ],
+     " El Programa de Respaldo a Estudiantes de Argentina (Progresar) es una política pública desarrollada por el Ministerio de Educación de la Nación. Fue creado a través del decreto 84/2014, con el propósito de mitigar las desigualdades sociales y económicas que dificultan el ejercicio del derecho a la educación. (Información extraída de: ",
+     [
+      "a",
+      {
+       "href": "https://www.argentina.gob.ar/educacion/becasprogresar/institucional"
+      },
+      "https://www.argentina.gob.ar/educacion/becasprogresar/institucional"
+     ],
+     ")"
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-fn23"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "15"
+     ],
+     " El artículo 2 de la ley 27.364 establece que: “se entiende por adolescentes/jóvenes sin cuidados parentales aquellas/os que se hallen separadas/os de su familia de origen, nuclear y/o extensa o de sus referentes afectivos y/o comunitarios y residan en dispositivos de cuidado formal en virtud de una medida de protección de derechos dictada de conformidad con los artículos 33 y siguientes de la ley 26.061 o de la normativa aplicable en el ámbito local”."
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-fn24"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "16"
+     ],
+     " El monto de la TCI equivale al 80% de un salario mínimo, vital y móvil. Sin duda, constituye una ayuda valiosa, pero de ningún modo suficiente para solventar las necesidades mínimas."
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-fn25"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "17"
+     ],
+     " Decreto Nacional 1.050/2018. Reglamentación de la Ley 27.364 sobre Programa de Acompañamiento para el Egreso de Jóvenes sin Cuidados Parentales, Buenos Aires, 14 de Noviembre de 2018. Disponible en: ",
+     [
+      "a",
+      {
+       "href": "http://www.saij.gob.ar/1050-nacional-reglamentacion-ley-27364-sobre-programa-acompanamiento-para-egreso-jovenes-sin-cuidados-parentales-dn20180001050-2018-11-14/123456789-0abc-050-1000-8102soterced#"
+      },
+      "http://www.saij.gob.ar/1050-nacional-reglamentacion-ley-27364-sobre-programa-acompanamiento-para-egreso-jovenes-sin-cuidados-parentales-dn20180001050-2018-11-14/123456789-0abc-050-1000-8102soterced#"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-fn26"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "18"
+     ],
+     " ",
+     [
+      "a",
+      {
+       "href": "https://www.argentina.gob.ar/desarrollosocial/ninezyadolescencia/pae"
+      },
+      "https://www.argentina.gob.ar/desarrollosocial/ninezyadolescencia/pae"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-fn27"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "19"
+     ],
+     " Información procedente de Entrevista realizada en 2021 a Responsable del PAE."
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-fn28"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "20"
+     ],
+     " Datos mensualizados y diferenciados por etapas (I y II), desagregados por jurisdicción, género y edad pueden consultarse en los tableros interactivos en PAE ",
+     [
+      "a",
+      {
+       "href": "https://www.argentina.gob.ar/desarrollosocial/senafcampus/estadisticas-y-relevamientos"
+      },
+      "https://www.argentina.gob.ar/desarrollosocial/senafcampus/estadisticas-y-relevamientos"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-fn29"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "21"
+     ],
+     " Observatorio de la Deuda Social Argentina de la UCA. Alcances, logros y desafíos del Programa de Acompañamiento para el Egreso de Jóvenes sin cuidados parentales (PAE) a 6 años de su implementación. ",
+     [
+      "a",
+      {
+       "href": "https://doncel.org.ar/wp-content/uploads/2023/11/informes_tecnicos_de_consultoria_pae.pdf"
+      },
+      "https://doncel.org.ar/wp-content/uploads/2023/11/informes_tecnicos_de_consultoria_pae.pdf"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-fn30"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "22"
+     ],
+     " Decreto de Necesidad y Urgencia 70/2023. ",
+     [
+      "a",
+      {
+       "href": "https://www.argentina.gob.ar/normativa/nacional/decreto-70-2023-395521/texto"
+      },
+      "https://www.argentina.gob.ar/normativa/nacional/decreto-70-2023-395521/texto"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-fn31"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "23"
+     ],
+     " ",
+     [
+      "a",
+      {
+       "href": "https://servicios.infoleg.gob.ar/infolegInternet/anexos/390000-394999/394976/norma.htm"
+      },
+      "https://servicios.infoleg.gob.ar/infolegInternet/anexos/390000-394999/394976/norma.htm"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "br",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n",
+     [
+      "span",
+      {},
+      "Recepción: "
+     ],
+     " 01 octubre  2024"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n",
+     [
+      "span",
+      {},
+      "Aprobación: "
+     ],
+     " 01 mayo  2025"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n",
+     [
+      "span",
+      {},
+      "Publicación: "
+     ],
+     " 01 febrero  2026"
+    ],
+    "\n",
+    [
+     "br",
+     {}
+    ],
+    "\n",
+    [
+     "br",
+     {}
+    ],
+    "\n\n",
+    "\n",
+    [
+     "a",
+     {
+      "href": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+     },
+     " ",
+     [
+      "figura",
+      {
+       "alt": "Imagen"
+      }
+     ],
+     " Obra bajo Licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional"
+    ],
+    "\n",
+    [
+     "figura",
+     {
+      "alt": "Imagen"
+     }
+    ],
+    "\n",
+    "\n"
+   ],
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-logo-derecha"
+    },
+    "\n",
+    [
+     "a",
+     {
+      "href": "https://www.fahce.unlp.edu.ar/facultad/secretarias-y-prosecretarias/prosecretaria-de-gestion-editorial-y-difusion/ediciones-de-la-fahce"
+     },
+     " \n",
+     [
+      "figura",
+      {
+       "alt": "ediciones_fahce"
+      }
+     ],
+     "\n"
+    ],
+    "\n"
+   ],
+   "\n"
+  ],
+  "\n",
+  [
+   "span",
+   {
+    "id": "t-creditos"
+   },
+   "\n",
+   [
+    "span",
+    {},
+    [
+     "figura",
+     {}
+    ],
+    [
+     "sup",
+     {},
+     "Ediciones de la FaHCE utiliza"
+    ],
+    [
+     "a",
+     {
+      "href": "http://portal.amelica.org/ameli"
+     },
+     [
+      "figura",
+      {}
+     ]
+    ],
+    " ",
+    [
+     "figura",
+     {}
+    ]
+   ],
+   [
+    "br",
+    {}
+   ],
+   "\n",
+   "\n"
+  ],
+  "\n"
+ ]
+};

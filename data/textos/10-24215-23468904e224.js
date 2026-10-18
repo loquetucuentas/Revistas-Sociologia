@@ -1,0 +1,500 @@
+// Copia de textos/10-24215-23468904e224.json para abrir la aplicación sin servidor.
+(window.DATOS_REVISTAS = window.DATOS_REVISTAS || {})["textos/10-24215-23468904e224.json"] = {
+ "version": 1,
+ "recogido": "2026-10-18T11:36:25+00:00",
+ "doi": "10.24215/23468904e224",
+ "titulo": "Desigualdades y agencias en clave relacional: pistas para mirar el mundo de la marginación Reseña de Pérez Sáinz, Juan Pablo (2019). La rebelión de los que nadie quiere ver. Respuestas para sobrevivir a las desigualdades extremas en América Latina. Siglo XXI",
+ "revista": "2346-8904",
+ "numero": "n34-2026",
+ "licencia": {
+  "codigo": "by-nc-sa",
+  "nombre": "CC BY-NC-SA 4.0",
+  "nombre_completo": "Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional",
+  "url": "https://creativecommons.org/licenses/by-nc-sa/4.0",
+  "url_legal": "https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.es"
+ },
+ "fuente": {
+  "url": "https://www.cuestionessociologia.fahce.unlp.edu.ar/article/download/CSe224/22758?inline=1",
+  "formato": "HTML",
+  "plataforma": "ojs-galerada",
+  "pagina": "https://www.cuestionessociologia.fahce.unlp.edu.ar/article/view/CSe224"
+ },
+ "autores_cita": [
+  {
+   "apellidos": "Tóffoli",
+   "nombre_pila": "Magdalena",
+   "nombre": null
+  }
+ ],
+ "avisos_derechos": [
+  "Derechos de autor 2026 ",
+  "Esta obra está bajo una licencia internacional Creative Commons Atribución-NoComercial-CompartirIgual 4.0. La cesión de derechos no exclusivos implica también la autorización por parte de los autores para que el trabajo sea alojado en los repositorios institucionales UNLP (Sedici y Memoria Académica) y difundido a través de las bases de datos que los editores consideren apropiadas para su indización, con miras a incrementar la visibilidad de la revista y sus autores."
+ ],
+ "idioma_principal": "es",
+ "indice": [],
+ "vueltas": {},
+ "contenido": [
+  "\n",
+  [
+   "span",
+   {
+    "id": "t-visor-cabecera"
+   },
+   "\n",
+   "\n",
+   [
+    "span",
+    {},
+    "\n",
+    [
+     "a",
+     {
+      "href": "https://www.cuestionessociologia.fahce.unlp.edu.ar/"
+     },
+     "\n",
+     [
+      "figura",
+      {
+       "alt": "CS"
+      }
+     ],
+     "\nCuestiones de Sociología"
+    ],
+    ", núm. 34, e224, agosto 2026 - enero 2027. ISSN 2346-8904",
+    [
+     "br",
+     {}
+    ],
+    "Universidad Nacional de La Plata",
+    [
+     "br",
+     {}
+    ],
+    "Facultad de Humanidades y Ciencias de la Educación",
+    [
+     "br",
+     {}
+    ],
+    "Departamento de Sociología"
+   ],
+   "\n",
+   "\n"
+  ],
+  "\n",
+  [
+   "span",
+   {
+    "id": "t-articulo"
+   },
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-front"
+    },
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-articulo-categoria"
+     },
+     "\n",
+     [
+      "p",
+      {},
+      "Reseñas"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-articulo-meta"
+     },
+     "\n",
+     [
+      "p",
+      {},
+      "Desigualdades y agencias en clave relacional: pistas para mirar el mundo de la marginación.    Reseña de Pérez Sáinz, Juan Pablo (2019).",
+      [
+       "span",
+       {},
+       " La rebelión de los que nadie quiere ver. Respuestas para sobrevivir a las desigualdades extremas en América Latina"
+      ],
+      ". Siglo XXI."
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-articulo-acerca"
+     },
+     "\n",
+     [
+      "span",
+      {
+       "id": "t-ficha-general"
+      },
+      "\n",
+      [
+       "span",
+       {
+        "id": "t-autores-articulo"
+       },
+       "\n",
+       "\n",
+       "\n",
+       [
+        "a",
+        {
+         "href": "https://orcid.org/0000-0002-2422-8734"
+        },
+        [
+         "figura",
+         {}
+        ]
+       ],
+       "  ",
+       [
+        "span",
+        {},
+        "Magdalena"
+       ],
+       " ",
+       [
+        "span",
+        {},
+        "Tóffoli"
+       ],
+       " ",
+       [
+        "span",
+        {}
+       ],
+       "\n",
+       "\n",
+       [
+        "br",
+        {}
+       ],
+       "\n",
+       "\n",
+       [
+        "span",
+        {},
+        "Instituto de Investigaciones en Humanidades y Ciencias Sociales (UNLP-CONICET), Facultad de Humanidades y Ciencias de la Educación, Universidad Nacional de La Plata"
+       ],
+       ", ",
+       [
+        "span",
+        {},
+        "Argentina"
+       ],
+       "\n",
+       "\n",
+       [
+        "span",
+        {},
+        " magdalenatoff@gmail.com"
+       ],
+       "\n",
+       "\n"
+      ],
+      "\n",
+      [
+       "span",
+       {},
+       "Cita recomendada:"
+      ],
+      "\n",
+      [
+       "span",
+       {},
+       "Tóffoli, M. (2026). Desigualdades y agencias en clave relacional: pistas para mirar el mundo de la marginación. [Revisión del libro ",
+       [
+        "span",
+        {},
+        "La rebelión de los que nadie quiere ver. Respuestas para sobrevivir a las desigualdades extremas en América Latina"
+       ],
+       " de J. P. Pérez Sáinz]. ",
+       [
+        "i",
+        {},
+        "Cuestiones de Sociología"
+       ],
+       ", (34), e224. ",
+       [
+        "a",
+        {
+         "href": "https://doi.org/10.24215/23468904e224"
+        },
+        "https://doi.org/10.24215/23468904e224"
+       ]
+      ],
+      "\n\n\n",
+      [
+       "span",
+       {
+        "id": "t-articulo-body"
+       },
+       "\n",
+       [
+        "br",
+        {}
+       ],
+       "\n",
+       [
+        "p",
+        {},
+        "\n",
+        [
+         "span",
+         {},
+         "La rebelión de los que nadie quiere ver "
+        ],
+        "es un libro que vuelve sobre una pregunta recurrente en los intentos de las ciencias sociales por comprender la configuración contemporánea de un orden social permeado por las capilaridades del neoliberalismo. Pero lo hace de manera renovada: al interrogante por cómo se producen y expresan las desigualdades, Pérez Sainz le agrega la cuestión de qué hacen frente a ellas quienes más las padecen. Así, el autor parte de una premisa que resulta clave a la hora de estudiar el mundo popular: la idea de que “a pesar del profundo desempoderamiento que invocan estos fenómenos, la población que los padece no está condenada a ser inerme y pasiva” (2019:12); antes bien, posee la capacidad de elaborar respuestas capaces de subvertir o neutralizar ese estado de cosas. Este ejercicio es novedoso, además, por su escala de análisis. Se trata de un trabajo anclado en América Latina que inscribe diversos procesos comúnmente enmarcados en fronteras nacionales como parte de dinámicas que atraviesan este territorio bajo coordenadas comunes."
+       ],
+       "\n",
+       [
+        "p",
+        {},
+        "El libro se sostiene sobre un trabajo de investigación más amplio en el que el autor viene evidenciando las profundas transformaciones operadas por el orden neoliberal en la región latinoamericana y la generación, en consecuencia, de múltiples dinámicas de ",
+        [
+         "span",
+         {},
+         "desempoderamiento"
+        ],
+        " vinculadas a los mercados (principalmente del trabajo y de la tierra), los procesos de construcción de ciudadanía y el procesamiento de las diferencias. El período histórico que se aborda toma como punto de partida la modernización globalizada que se inicia con la crisis de los ‘80 y llega hasta mediados de la segunda década del siglo XXI. Así los procesos de desigualdad y sus respuestas son abordados a partir de una temporalidad propia, irreductible al ritmo de los cambios político-electorales."
+       ],
+       "\n",
+       [
+        "p",
+        {},
+        "Tributario del enfoque relacional que Pérez Sainz asume para examinar el problema de la desigualdad, el libro propone un modo singular de mirar el fenómeno. Por un lado, analiza múltiples mecanismos de desigualdad que modelan las formas de vida de los sectores populares. Pero inmediatamente avanza un paso más. Se detiene en la otra cara de estas dinámicas: las formas de agencia que estos sujetos desarrollan frente a la precariedad de sus condiciones de vida. Así, las desigualdades operan como modos de desempoderamiento, pero también como catalizadoras de la acción. En esta clave, a lo largo del libro el autor se propone analizar la violencia, la migración, la religiosidad y la acción colectiva desde la preocupación por dilucidar cómo y en qué medida estas confrontan cada una de las dimensiones que configuran la marginación social. Esta opción metodológica implica analizarlos, primordialmente, en términos de su eficacia en relación con la movilidad social ascendente, contemplando para ello aspectos materiales y simbólicos."
+       ],
+       "\n",
+       [
+        "p",
+        {},
+        "La obra de Pérez Sainz está compuesta por una introducción, cinco capítulos y conclusiones finales. En el primer capítulo se presenta el marco analítico del libro, el cual se compone de dos momentos. El primero de ellos consiste en caracterizar los múltiples procesos de desigualdad que originan dinámicas de exclusión social extremas y el modo en que estás se expresan en una ",
+        [
+         "span",
+         {},
+         "constelación"
+        ],
+        " de fenómenos -",
+        [
+         "span",
+         {},
+         "carencias"
+        ],
+        ", ",
+        [
+         "span",
+         {},
+         "procesos de desciudadanización"
+        ],
+        " e ",
+        [
+         "span",
+         {},
+         "invisibilización"
+        ],
+        "- constitutivos del mundo de la marginación social. El segundo momento supone retomar estas dimensiones y analizar su articulación intrínseca con las diversas respuestas populares que el autor identifica: la violencia, la migración, la religiosidad y la acción colectiva. Esta es la óptica desde la cual estos fenómenos se abordan -por separado, aunque sin dejar de advertir sus entrecruzamientos- en los siguientes capítulos, contemplando los matices que emergen de la combinación de sus distintas modalidades, escenarios y protagonistas. En función de ello, el libro reúne, pone en diálogo y sistematiza un vasto conjunto de investigaciones especializadas en cada una de estas temáticas y se recuperan casos de estudio de toda la región."
+       ],
+       "\n",
+       [
+        "p",
+        {},
+        "El segundo capítulo reconstruye las modalidades de la violencia ejercidas por distintos actores en diálogo con los efectos subjetivos de la experiencia de las carencias en un contexto de deterioro del mundo del trabajo, consumismo globalizado y presencia marginal del Estado en los territorios. En su análisis, Pérez Sáinz indaga en las tramas relacionales y simbólicas que operan como mediaciones del fenómeno así como también en sus implicancias territoriales."
+       ],
+       "\n",
+       [
+        "p",
+        {},
+        "El tercer capítulo aborda la migración como un flujo que contempla tres momentos -el origen, el tránsito y el destino-. Aspectos como la indocumentación, la constitución de nichos laborales migrantes, la circulación de imaginarios xenófobos o las formas de interacción con actores de la sociedad civil y el Estado cobran especial relevancia en el modo en que esta dinámica migratoria se desarrolla y habilita o no procesos de empoderamiento en esta población."
+       ],
+       "\n",
+       [
+        "p",
+        {},
+        "El cuarto capítulo examina las expresiones de religiosidad en tanto marcos de sentido sobre la realidad y esquemas para la acción que poseen implicancias en los modos en que se experimentan las situaciones de marginación. En función de ello, el autor profundiza, principalmente, en el papel desempeñado por el catolicismo y el pentecostalismo desde mediados del siglo XX a esta parte en la región."
+       ],
+       "\n",
+       [
+        "p",
+        {},
+        "En el quinto capítulo, Pérez Sainz analiza las posibilidades de empoderamiento que habilita la cuarta y última respuesta ante situaciones de marginación social: la acción colectiva, específicamente aquella orientada a la transformación social. Así, indaga en los casos del Movimento Sem Terra en Brasil, el neozapatismo en México y el movimiento piquetero en Argentina teniendo en cuenta los procesos de desempoderamiento que posibilitaron su origen, y a su vez, las condiciones de empoderamiento de los sectores populares que generaron a partir de su desarrollo."
+       ],
+       "\n",
+       [
+        "p",
+        {},
+        "En las conclusiones, el autor recapitula las respuestas a la marginación social analizadas a lo largo del libro y las evalúa en tanto factores de empoderamiento de los sectores subalternos. Desde una mirada comparativa, analiza sus potencialidades y limitaciones para catalizar dinámicas de empoderamiento en la población marginada y concluye que la acción colectiva es la respuesta con mayor potencia para transformar no solo la situación de marginación sino la configuración del orden social dominante."
+       ],
+       "\n",
+       [
+        "p",
+        {},
+        "El enfoque propuesto por el autor equipara procesos que, desde ciertos sentidos comunes, suelen ser tamizados bajo pares dicotómicos (y morales) como legalidad/ilegalidad, racionalidad/irracionalidad, individual/colectivo, autonomía/heteronomía, etc. En este punto, lo que podría parecer una visión ingenua emerge, ante todo, como parte de un esfuerzo analítico orientado a sortear los obstáculos hermenéuticos que introducen las miradas estereotipadas, románticas o condenatorias acerca de las estrategias vitales en el mundo popular. En este sentido, el recorrido que ofrece este libro resulta elocuente respecto de la complejidad constitutiva no solo del ",
+        [
+         "span",
+         {},
+         "mundo de la marginación"
+        ],
+        " sino más bien de lo social, aspecto que debe ser tenido en cuenta si nos proponemos comprender sociológicamente un fenómeno más allá de las fronteras impuestas por los modos en que se organiza internamente la producción académica."
+       ],
+       "\n",
+       [
+        "p",
+        {},
+        "Para finalizar, esta obra es una invitación a descompartimentar e hilvanar los procesos sociales que atraviesan las tramas vitales del mundo popular, siguiendo las dinámicas de la desigualdad y los agenciamientos que las configuran. La agenda de investigación que delinea la apuesta analítica de Pérez Sainz podrá fortalecerse en futuros estudios empíricos situados en América Latina que permitan abonar a una visión articulada de las desigualdades extremas y las respuestas populares, sin perder de vista su multiplicidad, historicidad y contingencia."
+       ],
+       "\n",
+       "\n",
+       [
+        "p",
+        {},
+        "\n",
+        [
+         "span",
+         {},
+         "Recepción: "
+        ],
+        " 01 marzo  2026"
+       ],
+       "\n",
+       [
+        "p",
+        {},
+        "\n",
+        [
+         "span",
+         {},
+         "Aprobación: "
+        ],
+        " 01 abril  2026"
+       ],
+       "\n",
+       [
+        "p",
+        {},
+        "\n",
+        [
+         "span",
+         {},
+         "Publicación: "
+        ],
+        " 01 agosto  2026"
+       ],
+       "\n",
+       [
+        "br",
+        {}
+       ],
+       "\n",
+       [
+        "br",
+        {}
+       ],
+       "\n",
+       "\n",
+       [
+        "a",
+        {
+         "href": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+        },
+        " ",
+        [
+         "figura",
+         {
+          "alt": "Imagen"
+         }
+        ],
+        " Obra bajo Licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional"
+       ],
+       "\n",
+       [
+        "figura",
+        {
+         "alt": "Imagen"
+        }
+       ],
+       "\n",
+       "\n",
+       "\n",
+       [
+        "span",
+        {
+         "id": "t-logo-derecha"
+        },
+        "\n",
+        [
+         "a",
+         {
+          "href": "https://www.fahce.unlp.edu.ar/facultad/secretarias-y-prosecretarias/prosecretaria-de-gestion-editorial-y-difusion/ediciones-de-la-fahce"
+         },
+         " \n",
+         [
+          "figura",
+          {
+           "alt": "ediciones_fahce"
+          }
+         ],
+         "\n"
+        ],
+        "\n"
+       ],
+       "\n\n",
+       [
+        "span",
+        {
+         "id": "t-creditos"
+        },
+        "\n",
+        [
+         "span",
+         {},
+         [
+          "figura",
+          {}
+         ],
+         [
+          "sup",
+          {},
+          "Ediciones de la FaHCE utiliza"
+         ],
+         [
+          "a",
+          {
+           "href": "http://portal.amelica.org/ameli"
+          },
+          [
+           "figura",
+           {}
+          ]
+         ],
+         " ",
+         [
+          "figura",
+          {}
+         ]
+        ],
+        [
+         "br",
+         {}
+        ],
+        "\n",
+        "\n"
+       ],
+       "\n"
+      ]
+     ]
+    ]
+   ]
+  ]
+ ]
+};

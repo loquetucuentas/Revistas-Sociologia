@@ -1,0 +1,2454 @@
+{
+ "version": 1,
+ "recogido": "2026-10-18T11:50:56+00:00",
+ "doi": "10.24215/23139048e064",
+ "titulo": "enfermería en tiempos de crisis sanitaria.",
+ "revista": "2313-9048",
+ "numero": "v16-n16-2022",
+ "licencia": {
+  "codigo": "by-nc-sa",
+  "nombre": "CC BY-NC-SA 4.0",
+  "nombre_completo": "Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional",
+  "url": "https://creativecommons.org/licenses/by-nc-sa/4.0",
+  "url_legal": "https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.es"
+ },
+ "fuente": {
+  "url": "https://perio.unlp.edu.ar/ojs/index.php/cps/article/download/7565/6642/31883?inline=1",
+  "formato": "HTML",
+  "plataforma": "ojs-galerada",
+  "pagina": "https://perio.unlp.edu.ar/ojs/index.php/cps/article/view/7565"
+ },
+ "autores_cita": [
+  {
+   "apellidos": "Johnson",
+   "nombre_pila": "María Cecilia",
+   "nombre": null
+  },
+  {
+   "apellidos": "Saletti-Cuesta",
+   "nombre_pila": "Lorena",
+   "nombre": null
+  },
+  {
+   "apellidos": "Aizenberg",
+   "nombre_pila": "Lila",
+   "nombre": null
+  }
+ ],
+ "avisos_derechos": [
+  "Derechos de autor 2022 Cuadernos de H ideas",
+  "Licencia Derechos de autor 2022 Cuadernos de H ideas Esta obra está bajo una licencia internacional Creative Commons Atribución-NoComercial-CompartirIgual 4.0. La aceptación de un original por parte de la revista implica la cesión no exclusiva de los derechos patrimoniales de los/as autores/as en favor del editor, quien permite la reutilización, luego de su edición (postprint), bajo una Licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0) Acorde a estos términos, el material se puede compartir (copiar y redistribuir en cualquier medio o formato) y adaptar (remezclar, transformar y crear a partir del material otra obra), siempre que a) se cite la autoría y la fuente original de su publicación (revista y URL de la obra), b) no se use para fines comerciales y c) se mantengan los mismos términos de la licencia. La cesión de derechos no exclusivos implica que luego de su edición (postprint) en Cuadernos de H ideas las/os autoras/es pueden publicar su trabajo en cualquier idioma, medio y formato; en tales casos, se solicita que se consigne que el material fue publicado originalmente en esta revista. Tal cesión supone, también, la autorización de los/as autores/as para que el trabajo sea cosechado por SEDICI, el repositorio institucional de la Universidad Nacional de La Plata, y sea difundido en las bases de datos que el equipo editorial considere adecuadas para incrementar la visibilidad de la publicación y de sus autores/as. Asimismo, la revista incentiva a las/os autoras/es para que luego de su publicación en Cuadernos de H ideas depositen sus producciones en otros repositorios institucionales y temáticos, bajo el principio de que ofrecer a la sociedad la producción científica y académica sin restricciones contribuye a un mayor intercambio del conocimiento global."
+ ],
+ "idioma_principal": "es",
+ "indice": [],
+ "vueltas": {},
+ "contenido": [
+  [
+   "span",
+   {
+    "id": "t-MathJax_Message"
+   }
+  ],
+  "\n",
+  [
+   "span",
+   {
+    "id": "t-visor-cabecera"
+   },
+   "\n",
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-logo-institucion"
+    },
+    "\n",
+    [
+     "figura",
+     {}
+    ]
+   ],
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-logo-revista"
+    },
+    "\n",
+    [
+     "figura",
+     {}
+    ]
+   ],
+   "\n",
+   "\n"
+  ],
+  "\n",
+  [
+   "span",
+   {
+    "id": "t-articulo"
+   },
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-front"
+    },
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-articulo-categoria"
+     },
+     "\n",
+     [
+      "p",
+      {},
+      "Dossier"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-articulo-meta"
+     },
+     "\n",
+     [
+      "p",
+      {},
+      "\n",
+      [
+       "span",
+       {},
+       "La enfermería en tiempos de crisis sanitaria. La asistencia y el cuidado en la pandemia por la covid-19 en la  provincia de Córdoba"
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "lang": "en"
+      },
+      "Nursing in Times of Health Crisis. Assistance and Care in the Covid-19 Pandemic in the\nProvince of Córdoba"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-articulo-acerca"
+     },
+     "\n",
+     [
+      "span",
+      {
+       "id": "t-ficha-general"
+      },
+      "\n",
+      [
+       "span",
+       {
+        "id": "t-autores-articulo"
+       },
+       "\n",
+       "\n",
+       "\n",
+       [
+        "a",
+        {
+         "href": "https://orcid.org/0000-0002-5102-2504%20%0A%0A"
+        },
+        [
+         "figura",
+         {}
+        ]
+       ],
+       "  ",
+       [
+        "span",
+        {},
+        "María Cecilia"
+       ],
+       " ",
+       [
+        "span",
+        {},
+        "Johnson"
+       ],
+       " ",
+       [
+        "span",
+        {}
+       ],
+       [
+        "span",
+        {},
+        " cecilia.johnson@unc.edu.ar"
+       ],
+       "\n",
+       "\n",
+       "\n",
+       [
+        "span",
+        {},
+        "Universidad Nacional de\nCórdoba"
+       ],
+       ", ",
+       [
+        "span",
+        {},
+        "Argentina"
+       ],
+       "\n",
+       "\n",
+       "\n",
+       "\n",
+       "\n",
+       [
+        "a",
+        {
+         "href": "https://orcid.org/0000-0002-0989-4093"
+        },
+        [
+         "figura",
+         {}
+        ]
+       ],
+       "  ",
+       [
+        "span",
+        {},
+        "Lorena"
+       ],
+       " ",
+       [
+        "span",
+        {},
+        "Saletti-Cuesta"
+       ],
+       " ",
+       [
+        "span",
+        {}
+       ],
+       [
+        "span",
+        {},
+        " lorenasaletti@unc.edu.ar"
+       ],
+       "\n",
+       "\n",
+       "\n",
+       [
+        "span",
+        {},
+        "Universidad Nacional de\nCórdoba"
+       ],
+       ", ",
+       [
+        "span",
+        {},
+        "Argentina"
+       ],
+       "\n",
+       "\n",
+       "\n",
+       "\n",
+       "\n",
+       [
+        "a",
+        {
+         "href": "https://orcid.org/0000-0001-5277-9990"
+        },
+        [
+         "figura",
+         {}
+        ]
+       ],
+       "  ",
+       [
+        "span",
+        {},
+        "Lila"
+       ],
+       " ",
+       [
+        "span",
+        {},
+        "Aizenberg"
+       ],
+       " ",
+       [
+        "span",
+        {}
+       ],
+       [
+        "span",
+        {},
+        " lila.aizenberg@gmail.com"
+       ],
+       "\n",
+       "\n",
+       "\n",
+       [
+        "span",
+        {},
+        "Universidad Nacional de\nCórdoba"
+       ],
+       ", ",
+       [
+        "span",
+        {},
+        "Argentina"
+       ],
+       "\n",
+       "\n",
+       "\n"
+      ],
+      "\n",
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "Cuadernos de H ideas"
+       ],
+       "\n"
+      ],
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "Universidad Nacional de La Plata, Argentina"
+       ],
+       "\n"
+      ],
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "ISSN: "
+       ],
+       "2313-9048"
+      ],
+      "\n",
+      [
+       "p",
+       {}
+      ],
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "Periodicidad: "
+       ],
+       "Frecuencia continua"
+      ],
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "vol.  16, "
+       ],
+       "núm.  16, ",
+       [
+        "span",
+        {
+         "id": "t-elocation-id"
+        },
+        "e064, "
+       ],
+       [
+        "span",
+        {},
+        "2022"
+       ],
+       "\n"
+      ],
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       "cuadernosdehideas@perio.unlp.edu.ar",
+       "\n"
+      ],
+      "\n",
+      "\n",
+      [
+       "span",
+       {
+        "id": "t-articulo-product"
+       }
+      ],
+      "\n",
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "Recepción: "
+       ],
+       " 26 Febrero  2022"
+      ],
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "Aprobación: "
+       ],
+       " 23 Mayo  2022"
+      ],
+      "\n",
+      [
+       "p",
+       {},
+       "\n",
+       [
+        "span",
+        {},
+        "Publicación: "
+       ],
+       " 26 Julio  2022"
+      ],
+      "\n",
+      [
+       "br",
+       {}
+      ],
+      "\n",
+      [
+       "br",
+       {}
+      ],
+      "\n",
+      "\n",
+      "\n",
+      [
+       "span",
+       {},
+       "URL: "
+      ],
+      [
+       "a",
+       {
+        "href": "http://portal.amelica.org/ameli/journal/31/313286007/"
+       },
+       "http://portal.amelica.org/ameli/journal/31/313286007/"
+      ],
+      "\n",
+      "\n",
+      "\n",
+      [
+       "span",
+       {},
+       "DOI: "
+      ],
+      [
+       "a",
+       {
+        "href": "https://doi.org/10.24215/23139048e064"
+       },
+       "https://doi.org/10.24215/23139048e064"
+      ],
+      "\n",
+      "\n",
+      "\n",
+      [
+       "p",
+       {}
+      ],
+      "\n",
+      "\n",
+      "\n",
+      "\n",
+      [
+       "a",
+       {
+        "href": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+       },
+       [
+        "figura",
+        {}
+       ],
+       [
+        "br",
+        {}
+       ],
+       "\n"
+      ],
+      "Esta obra está bajo una ",
+      [
+       "a",
+       {
+        "href": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+       },
+       "Licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional."
+      ],
+      "\n",
+      "\n",
+      "\n",
+      [
+       "p",
+       {}
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "\n",
+      [
+       "span",
+       {},
+       "Resumen:\n\t\t\t\t\t\t\t                           "
+      ],
+      [
+       "span",
+       {},
+       "En el marco de un proyecto más amplio que indaga sobre los discursos, representaciones y prácticas en la enfermería durante la pandemia por covid-19, este trabajo analiza los cambios introducidos por la pandemia en la asistencia y los cuidados que brinda la enfermería en la provincia de Córdoba. Se realizaron diez entrevistas semi-dirigidas a profesionales de la enfermería y fueron recolectados 210 cuestionarios autocumplimentados de manera virtual. Los resultados dan cuenta de que el trabajo de cuidados y la asistencia generó un conjunto de tensiones donde, si bien se revaloriza el lugar protagónico de la enfermería, se refuerzan las desigualdades de género en la división del trabajo de la atención de la salud así como las condiciones de precarización laboral que atraviesan históricamente a la profesión. También se advierten estrategias de cuidado novedosas como elementos que pueden contribuir al mejoramiento de la salud pública."
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "\n",
+      [
+       "span",
+       {},
+       "Palabras clave: "
+      ],
+      "enfermería, género, relaciones asistenciales, profesiones sanitarias.\n\t\t                         "
+     ],
+     "\n",
+     [
+      "p",
+      {
+       "lang": "en"
+      },
+      "\n",
+      [
+       "span",
+       {},
+       "Abstract:\n\t\t\t\t\t\t                           "
+      ],
+      [
+       "span",
+       {},
+       "Within the framework of a broader project that investigates the discourses, representations and practices in nursing during the Covid-19 pandemic, this work analyzes the changes introduced by the pandemic in the assistance and care provided by nursing in the province of Cordoba. Ten semi-directed interviews were conducted with nursing professionals and 210 self-completed questionnaires were collected virtually. The results show that the work of care and assistance generated a set of tensions where, although the leading role of nursing is revalued, gender inequalities are reinforced in the division of labor in health care, as well as the precarious labor conditions that have historically affected the profession. Innovative healthcare strategies are also emphasized as elements that might improve public healthcare policies."
+      ],
+      "\n"
+     ],
+     "\n",
+     [
+      "p",
+      {},
+      "\n",
+      [
+       "span",
+       {},
+       "Keywords: "
+      ],
+      "nursing, gender, care relationships, healthcare professions.\n                                "
+     ],
+     "\n"
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-articulo-body"
+    },
+    "\n",
+    [
+     "p",
+     {},
+     "\n",
+     [
+      "span",
+      {},
+      "Introducción "
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "El presente trabajo se propone indagar los cambios introducidos por la pandemia en la asistencia y los cuidados que brinda la enfermería en la provincia de Córdoba. Se enmarca en un proyecto más amplio destinado a indagar sobre los discursos, representaciones y prácticas en la enfermería durante la pandemia por covid-19."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "La provincia de Córdoba fue una de las jurisdicciones que más contagios ha registrado en el marco de la pandemia, lo cual repercutió directamente en las instituciones de salud. De acuerdo a la información brindada por el Ministerio de Salud de Argentina (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286007/html/index.html#redalyc_313286007_ref10"
+      },
+      "2020a"
+     ],
+     "), durante el inicio de la pandemia, Córdoba no contaba con los índices más altos de contagios en el país. Sin embargo, esa situación se modificó vertiginosamente con la llegada de la segunda ola. Si la tasa de incidencia de contagios para julio de 2020 se encontraba por debajo del promedio del país, en agosto del mismo año, la provincia de Córdoba rápidamente superó ese promedio como detallan los informes epidemiológicos del Ministerio de Salud de Argentina (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286007/html/index.html#redalyc_313286007_ref11"
+      },
+      "2020b"
+     ],
+     ")."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Siguiendo el estudio de Olaviaga y equipo (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286007/html/index.html#redalyc_313286007_ref15"
+      },
+      "2021"
+     ],
+     "), durante 2018 la provincia de Córdoba contaba con una planta por debajo de la media nacional, si consideramos que con 2,9 enfermeras/os cada mil habitantes se encuentra por debajo de CABA –8,5 enfermeras/os cada mil habitantes– o la provincia de Buenos Aires, con 5,5 cada mil habitantes. Como parte de una estrategia del gobierno provincial, y frente a un escenario donde una parte del personal de salud entró en licencia por formar parte de grupos de riesgo, se amplió y modificó la planta de enfermería en el sector público con modalidades de contratación denominados “contratos de contingencia de corta duración (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286007/html/index.html#redalyc_313286007_ref7"
+      },
+      "Klepp, 2020"
+     ],
+     "; ",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286007/html/index.html#redalyc_313286007_ref17"
+      },
+      "Reyna, 2021"
+     ],
+     "). A través de dichos contratos, ingresaron al sector público de la salud profesionales provenientes del ámbito privado, profesionales sin experiencia previa e incluso estudiantes de los últimos años de las carreras universitarias que se sumaron de forma voluntaria (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286007/html/index.html#redalyc_313286007_ref12"
+      },
+      "Ministerio de Salud, diciembre de 2020"
+     ],
+     ")."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Todos estos cambios afectaron la autonomía profesional,",
+     [
+      "sup",
+      {},
+      [
+       "a",
+       {
+        "href": "http://portal.amelica.org/ameli/journal/31/313286007/html/index.html#fn2"
+       },
+       "1"
+      ]
+     ],
+     " entre otros aspectos, y fueron configurando estrategias para atender la salud de las personas en el marco de la crisis sociosanitaria. Particularmente, el trabajo de cuidados y la asistencia generó un conjunto de tensiones en la experiencia de las/os profesionales de enfermería de Córdoba durante la pandemia del covid-19. Dichas tensiones se presentan mediante tres ejes de análisis principales que se desarrollan a lo largo del presente trabajo, tomando como eje principal el trabajo de cuidados y la asistencia en salud. En un primer apartado, se analiza cómo el trabajo de enfermería en la pandemia introduce importantes modificaciones en las condiciones de trabajo, en las relaciones laborales, y cómo ello repercute en el autocuidado de la planta profesional. En un segundo apartado, se profundiza sobre la tarea de cuidado y asistencia en enfermería, y cómo en este contexto adopta diversas modalidades. Por último, se analizan las representaciones de género sobre la tarea de cuidado en enfermería tensionando el rol profesional y vocacional."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Desde el campo de los estudios interdisciplinarios de género y feministas, partimos de comprender que el cuidado y la atención de la salud y la enfermedad continúa siendo, tanto en los trabajos remunerados como no, una tarea feminizada. De aquí se desprenden diversos estereotipos que son relevantes para analizar el cuidado de la salud en el marco de la enfermería. El primero, es que existe una habilidad innata de cuidar en la “naturaleza femenina”. El segundo, en el marco de una sociedad capitalista, es el carácter altruista con el que se ha revestido al cuidado. La crítica a la división sexual del trabajo y la denuncia de cuidados como trabajo no pago, implica desnaturalizar, al decir de Silvia Federici (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286007/html/index.html#redalyc_313286007_ref6"
+      },
+      "2012"
+     ],
+     "), que aquellos supuestos “atributos de la feminidad son, de hecho, funciones laborales” (p. 26)."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Frente a la invisibilización y el menosprecio de dichas tareas y su tratamiento como un aspecto residual frente a la acumulación del capital, desde las teorías feministas se postula revertir esta ecuación: el trabajo de cuidados es entendido como una tarea central para el funcionamiento del sistema (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286007/html/index.html#redalyc_313286007_ref14"
+      },
+      "Pérez Orozco, 2019"
+     ],
+     "). Asimismo, la feminización de ciertas tareas de cuidado y domésticas que son necesarias para la reproducción social, en ocasiones se traslada a otras tareas remuneradas y profesionales. Como señala Silvia Federici (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286007/html/index.html#redalyc_313286007_ref6"
+      },
+      "2012"
+     ],
+     "):"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "p",
+     {},
+     "Desde que el término\nmujer se ha convertido en sinónimo de ama de casa, cargamos, vayamos donde\nvayamos, con esta identidad y con las «habilidades domésticas» que se nos otorgan\nal nacer mujer. Esta es la razón por la que el tipo de empleo femenino es\nhabitualmente una extensión del trabajo reproductivo y que el camino hacia el\ntrabajo asalariado a menudo nos lleve a desempeñar más trabajo doméstico (p.\n60)."
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Las aproximaciones empíricas recientes en el campo de la enfermería (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286007/html/index.html#redalyc_313286007_ref2"
+      },
+      "Aspiazu, 2017"
+     ],
+     ") vienen mostrando la relevancia de considerar la incidencia en las condiciones de trabajo de un componente de cuidado, culturalmente asociado a imágenes sobre saberes y habilidades supuestamente “innatas” de las mujeres y, sobre cómo la organización de la provisión de los servicios de salud intensifica la vulnerabilidad de esta ocupación (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286007/html/index.html#redalyc_313286007_ref13"
+      },
+      "Pereyra & Micha, 2016"
+     ],
+     "). Es por ello que, si la enfermería es una profesión que conlleva un proceso de formación sistemática, entendemos que al igual que sucede con otras profesiones donde el trabajo de cuidado está implicado, su tarea profesional no se puede separar de las lógicas de reproducción social más amplias donde imperan las desigualdades de género, entre otras."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Las relaciones históricas y de género vienen haciendo de la enfermería un sector históricamente feminizado, resultado de un proceso de profesionalización basado en la figura de Florence Nightingale, enfermera británica, identificada como la creadora de la enfermería moderna. El llamado “modelo de Nightingale”, impulsado en América Latina a partir de 1920, buscaba feminizar la enfermería con una selección estricta de sus aspirantes; crear unidades escuela en hospitales donde las alumnas estudiaran, hicieran sus prácticas y gozaran de un sistema de internado y, especialmente, que las escuelas estuvieran dirigidas por enfermeras superiores con independencia de la dirección del hospital. Como señalan Ramacciotti y Valobra (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286007/html/index.html#redalyc_313286007_ref16"
+      },
+      "2017"
+     ],
+     "), el cuidado de las personas enfermas fue quedando históricamente imbricado en el “dilema Nightingale”, entendido como la tensión entre la vocación “innata” de las “cualidades” biológicamente asociadas a las mujeres y la condición de trabajadoras."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Sin dudas, la formación de las enfermeras ha estado atravesada por la idea de que las mujeres tienen condiciones naturales para la actividad del cuidado y que ello explica, en parte, la precarización de su ejercicio y las dificultades que ha tenido históricamente la ocupación para ser reconocida como una profesión moderna. El proceso de profesionalización de la enfermería moderna, bajo la influencia del modelo Nightingale, que se centró principalmente entre las décadas del 40 y 50 a la luz de las propuestas de expansión del sistema sanitario, generó dinámicas laborales particulares para la profesionalización de las enfermeras donde si bien se asumieron posiciones de autonomía, también se crearon y reforzaron dinámicas de segregación (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286007/html/index.html#redalyc_313286007_ref18"
+      },
+      "Rodríguez & Aizenberg, 2020"
+     ],
+     "). Aun cuando los procesos de formación estuvieron enfocados en el mejoramiento de la calidad educativa y la modernización de la profesión, una vez insertas en el sistema sanitario, las enfermeras se encontraron con un techo de cristal propio de las relaciones de jerarquía del campo médico que las llevó a ocupar un lugar secundario (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286007/html/index.html#redalyc_313286007_ref16"
+      },
+      "Ramacciotti & Valobra, 2017"
+     ],
+     "). Así, el influjo del modelo Nightingale propició dinámicas contradictorias para las enfermeras; mientras proponía profesionalizarlas y las señalaba como las únicas capacitadas para la transformación moderna de la enfermería, se generaban condiciones que perpetuaban su falta de autonomía, enmarcadas en relaciones de dominación de género que venían ejerciendo los médicos varones."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "La mirada histórica viene recorriendo un camino analítico que da cuenta de cómo se generaron las problemáticas relacionadas con la profesionalización de la enfermería desde el siglo XIX hasta la actualidad. Ya desde mediados de siglo pasado, la enfermería estuvo atravesada por tensiones ligadas a la subordinación y a la falta de prestigio laboral y profesional/disciplinar, tramas ancladas en condicionantes socioculturales preexistentes construidas a partir de prácticas y políticas, discursos y modelos de organización que identificaron la ocupación con roles domésticos y de cuidado, atribuidos como propios al sexo femenino (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286007/html/index.html#redalyc_313286007_ref9"
+      },
+      "Martín, 2015"
+     ],
+     "). En Córdoba, a partir de la creación de la Escuela de Enfermería en la Universidad Nacional de Córdoba (UNC) en 1956, la formación universitaria habría generado dinámicas de jerarquización y movilidad social dentro de la enfermería pero también mecanismos de poder que acompañaron la profunda heterogeneidad y fragmentación al interior de la ocupación (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286007/html/index.html#redalyc_313286007_ref18"
+      },
+      "Rodríguez & Aizenberg, 2020"
+     ],
+     "). De hecho, durante los primeros años de la Escuela de Enfermería se comenzó a gestar un perfil de élite dentro de la enfermería profesional y especialmente en la universitaria, asociado a la existencia de un reducido número de alumnas ligadas a familias y sectores de influencia."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "No obstante, las tramas y las tensiones que fueron definiendo el proceso de feminización de la enfermería, habrían incorporado nuevas segregaciones y relaciones de poder al interior de la profesión dando curso a la identidad fragmentada de la enfermería de Córdoba, rasgo que se sostiene hasta la actualidad. En ese sentido, una de las características más perdurables que define a la enfermería cordobesa desde 1956 es la emergencia de instancias diferenciales entre enfermeras profesiones universitarias y no universitarias, auxiliares y adiestradas en servicio. Este entramado se fue cristalizando en espacios formativos distintos y en la implementación de un sistema de división técnica del trabajo sanitario que abrió el espacio profesional a clivajes de jerarquización/subordinación de tipo horizontal."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Asimismo, por la propia lógica patriarcal, aquellos trabajos profesionales y no profesionales que involucran el cuidado y la atención de las personas y comunidades, constituye una tarea que suele contar con poco reconocimiento salarial, entre otras desigualdades. Distintos estudios han señalado el desgaste físico y emocional derivado de las elevadas exigencias y de la extensión de la jornada laboral que impacta en el ausentismo, en los riesgos psicosociales y en los padecimientos mentales como el estrés o el burnout (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286007/html/index.html#redalyc_313286007_ref8"
+      },
+      "Neffa & Henry, 2018"
+     ],
+     "), especialmente en este contexto de pandemia (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286007/html/index.html#redalyc_313286007_ref3"
+      },
+      "D'emeh y otros, 2021"
+     ],
+     "). Las condiciones laborales que atraviesan la profesión y al sector salud en general afectan directamente a la práctica y a la calidad de la atención: la sobrecarga laboral, el pluriempleo, las deficiencias en la infraestructura y los bajos salarios, entre otras. Pero la enfermería también posee particularidades que la colocan en una posición de mayor vulnerabilidad que se asocia al déficit de enfermeros/as con calificación profesional, a la multiplicidad de tareas principalmente asociadas a roles domésticos y a la relativa desventaja y desvalorización de la profesión dentro de los equipos de salud (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286007/html/index.html#redalyc_313286007_ref1"
+      },
+      "Aspiazu, 2012, p. 12"
+     ],
+     "). De hecho, un estudio realizado en enfermeros/as de la provincia de Córdoba (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286007/html/index.html#redalyc_313286007_ref4"
+      },
+      "Díaz Echenique, Stimolo & Caro, 2010"
+     ],
+     ") indicó que una importante proporción de profesionales no está satisfecha con la tarea que realiza. Por un lado, da cuenta que las/os profesionales afrontan sus labores diarias con la percepción de que no reciben un salario adecuado ni tienen posibilidades de ascender en el lugar en el que presta servicio. Además, señala que la mayoría siente que sus opiniones no son tenidas en cuenta por sus compañeros/as y que el trabajo realizado no es reconocido por las autoridades de salud, lo que impacta sobre su autoestima. En este sentido, como ya ha sido señalado, cuando las tareas de cuidado son realizadas en el marco de contextos desiguales, acarrean consecuencias negativas para la salud y el bienestar de quien brinda dichos cuidados:"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "p",
+     {},
+     "Agentes sanitarios o todo\ntrabajador de la salud, varón o mujer— puedan distinguir entre trabajo,\nremunerado y realizable, y deber moral o afectivo. En realidad el acento moral\npuesto en la actividad (muchas veces travestida con el ropaje de la vocación)\nse transforma en el catalizador de la sobrecarga de las cuidadoras que muchas\nveces deben atender, como un “ser-para-otro”, a algún miembro de la familia\n(incluyendo la extensa), en detrimento de “ser-para-sí” (Hierro, 1998) como\npersona atenta a su propia salud y necesidades. Esta doble implicación, muy\npropia de las mujeres de nuestro entorno, en realidad produce prácticas no\nsiempre adecuadas para su propio cuidado (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286007/html/index.html#redalyc_313286007_ref5"
+      },
+      "Domínguez Mon,\nFemenías & Leonardi,\n2018, p. 13"
+     ],
+     ")."
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Asimismo, junto con el concepto de cuidado, nos encontramos con el cuidado de sí, o el “autocuidado” como otro aspecto del mismo a atender. Siguiendo a Domínguez Mon y otros (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286007/html/index.html#redalyc_313286007_ref5"
+      },
+      "2018"
+     ],
+     "), este cuidado de “sí mismas” es un derecho e “implica reconocer y admitir la necesidad de ser cuidadas, una instancia de autonomía y equidad” (p. 20). Las autoras, siguiendo a Laura Pautassi, sostienen que el derecho al cuidado “se comprende como el derecho a cuidar, a ser cuidado, pero también al autocuidado” (p. 20), este último, constituye un aspecto central en la construcción de la autonomía de las mujeres, cuidadoras por mandato social."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Es por ello que para el estudio del cuidado en el campo de la salud, es preciso comprender la experiencia de todas las partes involucradas en el cuidado: “Los cuidados son prácticas relacionales y no simplemente acciones unidireccionales. Es decir, los cuidados siguen un proceso que podríamos denominar dialéctico: se producen y se reciben; se transforman y reinterpretan conjuntamente en el mismo momento de su producción” (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286007/html/index.html#redalyc_313286007_ref5"
+      },
+      "Domínguez Mon, Femenías & Leonardi, 2018, p. 11"
+     ],
+     ")."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Con el objetivo de indagar los cambios introducidos por la pandemia en la asistencia y los cuidados que brinda la enfermería en la provincia de Córdoba, se desarrolló una estrategia cualitativa y cuantitativa. Todo el trabajo se realizó siguiendo las normas éticas vigentes y con la aprobación del Comité de Ética del Hospital Nacional Posadas. Los datos que se presentan aquí fueron obtenidos durante 2021 en la Provincia de Córdoba mediante cuestionarios autocumplimentados de manera virtual por enfermeras y enfermeros de Córdoba (mayo-junio 2021), distribuidos a través de contactos institucionales y por medio de redes sociales, y diez entrevistas semi-dirigidas realizadas de manera telefónica (abril-julio 2021)."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "La muestra no probabilística de los cuestionarios fue construida a partir de cuotas por género, edad, regiones, nivel de formación (auxiliares, técnico/as y licenciado/as) y pertenencia al subsector público o privado, con el fin de representar la heterogeneidad del sector. Se compone de 210 personas, 84,3 % mujeres. El 36,2 % tiene entre 35 y 44 años, el 28,6 % entre 25 y 34 años, y el 21,9 % entre 45 y 54 años. En cuanto a la titulación máxima alcanzada, el 44,3 % tiene carrera técnica universitaria, el 31,3 % licenciatura, 2,6 % auxiliar, y el 1,6 % no reporta titulación oficial. El 93,9 % declara a la enfermería como ocupación principal, el 61,8 % indica trabajar en el sector público de la salud, el 26,9 % en el privado y el 10,8 % en ambos. El 60,2 % es planta permanente."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Para las entrevistas se utilizó una guía semiestructurada. Tuvieron una duración aproximada de 60 minutos, fueron grabadas y posteriormente transcritas y se realizó un análisis temático. Los datos de los cuestionarios fueron analizados de modo descriptivo. Respecto a las características de las personas entrevistadas que componen la muestra cualitativa, las edades de las personas entrevistadas se encuentran entre los 25 y los 62 años, y predominan mujeres (7 entrevistadas mujeres y 3 varones), en consonancia con la feminización de la planta de enfermería en Córdoba. Particularmente, se desempeñan en mayor medida en instituciones de salud pública, particularmente hospitalarias, aunque también encontramos una experiencia en la atención primaria de la salud. Quienes trabajan en el ámbito privado, lo hacen en clínicas privadas o en hogares de ancianos."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Respecto a la antigüedad laboral, la muestra cuenta con diversas trayectorias profesionales, se entrevistaron personas con menos de 5 años de trayectoria (2), entre 5 y 10 años (3), entre 10 y 20 años (3), y más de 20 años de antigüedad (2)."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Por otra parte, los nombres de las personas fueron modificados para resguardar la identidad y la confidencialidad de los datos. A continuación presentaremos algunas características sociodemográficas, junto con nombres ficticios, para un mejor seguimiento de los relatos:"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "span",
+     {
+      "id": "t-gt1"
+     },
+     "\n",
+     "\n",
+     [
+      "span",
+      {},
+      "Tabla 1"
+     ],
+     "\n",
+     "\n",
+     "\n",
+     [
+      "span",
+      {},
+      "Perfil sociodemográfico de las personas entrevistadas "
+     ],
+     "\n",
+     "\n",
+     "\n",
+     [
+      "table",
+      {
+       "id": "t-gt2-526564616c7963"
+      },
+      "\n",
+      [
+       "tbody",
+       {},
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {},
+         "\n  Nombre\n  "
+        ],
+        [
+         "td",
+         {},
+         "\n  Género\n  "
+        ],
+        [
+         "td",
+         {},
+         "\n  Edad\n  "
+        ],
+        [
+         "td",
+         {},
+         "\n  Título\n  "
+        ],
+        [
+         "td",
+         {},
+         "\n  Antigüedad\n  laboral\n  "
+        ],
+        [
+         "td",
+         {},
+         "\n  Gestión\n  Pública/ Privada\n  "
+        ],
+        [
+         "td",
+         {},
+         "\n  Empleo\n  durante la pandemia\n  (tipo\n  y cantidad)\n  "
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {},
+         "\n  Tarcila\n  "
+        ],
+        [
+         "td",
+         {},
+         "\n  Mujer\n  "
+        ],
+        [
+         "td",
+         {},
+         "\n  54\n  "
+        ],
+        [
+         "td",
+         {},
+         "\n  Licenciada en Enfermería\n  "
+        ],
+        [
+         "td",
+         {},
+         "\n  Más de 20 años\n  "
+        ],
+        [
+         "td",
+         {},
+         "\n  Público\n  "
+        ],
+        [
+         "td",
+         {},
+         "\n  Un empleo -Centro de Salud de la\n  Municipalidad de Córdoba\n  "
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {},
+         "\n  Candela\n  "
+        ],
+        [
+         "td",
+         {},
+         "\n  Mujer\n  "
+        ],
+        [
+         "td",
+         {},
+         "\n  32\n  "
+        ],
+        [
+         "td",
+         {},
+         "\n  Técnica en Enfermería\n  "
+        ],
+        [
+         "td",
+         {},
+         "\n  Entre 5 a 10 años\n  "
+        ],
+        [
+         "td",
+         {},
+         "\n  Privado\n  "
+        ],
+        [
+         "td",
+         {},
+         "\n  Un empleo- Hospital\n  "
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {},
+         "\n  Franco\n  "
+        ],
+        [
+         "td",
+         {},
+         "\n  Varón\n  "
+        ],
+        [
+         "td",
+         {},
+         "\n  51\n  "
+        ],
+        [
+         "td",
+         {},
+         "\n  Auxiliar en Enfermería\n  "
+        ],
+        [
+         "td",
+         {},
+         "\n  Más de 20 años\n  "
+        ],
+        [
+         "td",
+         {},
+         "\n  Público\n  "
+        ],
+        [
+         "td",
+         {},
+         "\n  Un empleo -Hospital Provincial\n  "
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {},
+         "\n  Gisela\n  "
+        ],
+        [
+         "td",
+         {},
+         "\n  Mujer\n  "
+        ],
+        [
+         "td",
+         {},
+         "\n  30\n  "
+        ],
+        [
+         "td",
+         {},
+         "\n  Tecnicatura en Enfermería\n  "
+        ],
+        [
+         "td",
+         {},
+         "\n  Menos de 5 años\n  "
+        ],
+        [
+         "td",
+         {},
+         "\n  Privado\n  "
+        ],
+        [
+         "td",
+         {},
+         "\n  Un empleo -Hospital\n  "
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {},
+         "\n  Leticia\n  "
+        ],
+        [
+         "td",
+         {},
+         "\n  Mujer\n  "
+        ],
+        [
+         "td",
+         {},
+         "\n  25\n  "
+        ],
+        [
+         "td",
+         {},
+         "\n  Enfermera Técnica\n  "
+        ],
+        [
+         "td",
+         {},
+         "\n  Menos de 5 años\n  "
+        ],
+        [
+         "td",
+         {},
+         "\n  Público\n  "
+        ],
+        [
+         "td",
+         {},
+         "\n  Un empleo - Hospital COVID de Córdoba\n  "
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {},
+         "\n  Pablo\n  "
+        ],
+        [
+         "td",
+         {},
+         "\n  Varón\n  "
+        ],
+        [
+         "td",
+         {},
+         "\n  40\n  "
+        ],
+        [
+         "td",
+         {},
+         "\n  Enfermero profesional\n  "
+        ],
+        [
+         "td",
+         {},
+         "\n  Entre 10 y 20 años\n  "
+        ],
+        [
+         "td",
+         {},
+         "\n  Público\n  "
+        ],
+        [
+         "td",
+         {},
+         "\n  Un empleo -Hospital Provincial\n  "
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {},
+         "\n  Roberto\n  "
+        ],
+        [
+         "td",
+         {},
+         "\n  Varón\n  "
+        ],
+        [
+         "td",
+         {},
+         "\n  33\n  "
+        ],
+        [
+         "td",
+         {},
+         "\n  Enfermero profesional\n  "
+        ],
+        [
+         "td",
+         {},
+         "\n  Entre 5 y 10 años\n  "
+        ],
+        [
+         "td",
+         {},
+         "\n  Público\n  "
+        ],
+        [
+         "td",
+         {},
+         "\n  Un empleo -Hospital Provincial\n  "
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {},
+         "\n  Lola\n  "
+        ],
+        [
+         "td",
+         {},
+         "\n  Mujer\n  "
+        ],
+        [
+         "td",
+         {},
+         "\n  33\n  "
+        ],
+        [
+         "td",
+         {},
+         "\n  Auxiliar en Enfermería\n  "
+        ],
+        [
+         "td",
+         {},
+         "\n  Entre 5 y 10 años\n  "
+        ],
+        [
+         "td",
+         {},
+         "\n  Privado\n  "
+        ],
+        [
+         "td",
+         {},
+         "\n  Un empleo - Hogar de ancianos\n  "
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {},
+         "\n  Carolina\n  "
+        ],
+        [
+         "td",
+         {},
+         "\n  Mujer\n  "
+        ],
+        [
+         "td",
+         {},
+         "\n  54\n  "
+        ],
+        [
+         "td",
+         {},
+         "\n  Tecnicatura en Enfermería\n  "
+        ],
+        [
+         "td",
+         {},
+         "\n  Entre 10 y 20 años\n  "
+        ],
+        [
+         "td",
+         {},
+         "\n  Público\n  "
+        ],
+        [
+         "td",
+         {},
+         "\n  Un empleo -Hospital Hospital COVID de Córdoba\n  "
+        ],
+        "\n"
+       ],
+       "\n",
+       [
+        "tr",
+        {},
+        "\n",
+        [
+         "td",
+         {},
+         "\n  Emilce\n  "
+        ],
+        [
+         "td",
+         {},
+         "\n  Mujer\n  "
+        ],
+        [
+         "td",
+         {},
+         "\n  62\n  "
+        ],
+        [
+         "td",
+         {},
+         "\n  Auxiliar en Enfermería\n  "
+        ],
+        [
+         "td",
+         {},
+         "\n  Entre 10 y 20 años\n  "
+        ],
+        [
+         "td",
+         {},
+         "\n  Público y Privado.\n  "
+        ],
+        [
+         "td",
+         {},
+         "\n  Dos empleos -Hospital y Clínica\n  Privada\n  "
+        ],
+        "\n"
+       ],
+       "\n"
+      ],
+      "\n"
+     ],
+     "\n",
+     "\n",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Fuente: elaboración propia"
+      ]
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n",
+     [
+      "span",
+      {},
+      "Resultados"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n",
+     [
+      "span",
+      {},
+      "Tensiones\nen la atención de la salud en tiempos de distancia social y aislamiento "
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "El trabajo de la enfermería en el marco de la pandemia del covid-19 se encontró atravesado por un contexto sociosanitario de gran incertidumbre, generando un estado de contingencia para aquellas personas consideradas “trabajadoras esenciales” en el ámbito de la salud. En el caso de la enfermería, ello se tradujo en una nueva organización de las tareas cotidianas. Las enfermeras relataron constantes cambios en la forma de ejercerla, en los tiempos requeridos, en el aprendizaje de nuevos protocolos y en los procedimientos de atención, especialmente en la primera fase de la pandemia. De hecho, el 89,3 % de las personas encuestadas indican que las tareas aumentaron en la intensidad y en el ritmo de trabajo, y que se sumaron tareas nuevas, reduciendo el tiempo de descanso. Casi la totalidad de las personas encuestadas (96,6 %) señalaron que el contexto de pandemia generó tensión laboral."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Durante las entrevistas realizadas, algunas personas destacan sensaciones de angustia por la necesidad de constantes adaptaciones a nuevas directivas y protocolos en la atención que se dieron a causa de los cambios frecuentes en la organización edilicia, y vinculadas a la atención y al seguimiento de pacientes. Aquí, no sólo se modificó la tarea realizada sino también el volumen de trabajo al sumar tareas nuevas que anteriormente realizaban las camareras. Estas tareas, especialmente vinculadas a la higiene y la alimentación de pacientes, fueron asumidas tanto por enfermeras profesionales como por auxiliares. Carolina, una enfermera profesional de un Hospital público de tercer nivel, menciona al respecto:"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "p",
+     {},
+     "Las camareras dejaron de\nentrar a servir la comida, era una tarea más que se nos sumaba. Servir\ndesayunos, almuerzos, colaciones… muchas cosas que cambiaron (Carolina,\nenfermera profesional, hospital público)."
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Otros testimonios señalan cómo en los primeros meses de la pandemia, la planta de enfermería había sido asignada para la distribución de los insumos de higiene y seguridad a otros profesionales de la salud. La naturalidad con la que se asignaba a la enfermería aquellas tareas asociadas al cuidado y al trabajo doméstico, podría expresar un entramado de poder presente en las instituciones de salud que asigna a la enfermería tareas como “naturales y propias” de la profesión. Sin embargo, como se señala en las entrevistas, estas asignaciones en ocasiones fueron discutidas y resistidas, logrando cambios que delimitaron su tarea. Candela, una enfermera que se desempeñaba en un Hospital de administración privada de Córdoba, relata esta situación."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "p",
+     {},
+     " Los primeros tiempos, al no tener mucha información, todo era confuso. Ir a trabajar era una carga más pesada. Con otros profesionales, con los médicos, nos toca todavía, porque no cumplen con la protección o vestimentas. Pero escapa de nosotros. Antes enfermería distribuía todos los elementos de protección, ahora ya no. Éramos el dispenser de las cosas. Era para que se protegiera el otro, pero no teníamos que ser nosotros los distribuidores. ¡Nos cansamos! Que busquen ellos. Eso lo sentí como sobrecarga (Candela, técnica en enfermería, hospital de administración privada)."
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Las implicancias de la pandemia en la atención y en la relación con los pares y familiares conllevó también a una reflexión en torno al riesgo implicado en la profesión y una percepción del rol que la enfermería jugaba dentro del contexto crítico vivido. Carolina, la enfermera profesional de un hospital público señala:"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "p",
+     {},
+     "Esta\nprofesión presenta muchas contradicciones (…). Tuvimos que estar meses alejados\nde nuestras familias, yo por lo menos de mi mamá y hermanas. Sin visitarlos,\nsin reuniones y sí, nos afectó. Nos enojamos con las personas, nosotros hacemos\neste sacrificio y después escuchar que algunos decían: “Esta enfermedad no\nexiste”. Nos daba mucha bronca. Lo peor fue la muerte de compañeros. Yo lo\nsentí como estar en una guerra (Llanto, emoción). Lo sentí como baja en una\nguerra (Carolina, enfermera profesional, hospital público)."
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Por otro lado, la reorganización de la atención y la asistencia a pacientes en el primer año de pandemia, implicó cambios en relación a los cuidados propios en relación a la salud. Por ejemplo, más del 70 % de las personas encuestadas señalaron haber experimentado malestares físicos asociados al trabajo de manera ocasional o frecuente. Cómo profundizan las personas entrevistadas, dicha problemática solo pudo ser saldada con el autocuidado individual, y en ocasiones cuando era posible, a nivel de equipo. Entre las estrategias de autocuidado recabadas, en los cuestionarios destacan el hablar con colegas sobre lo que sienten (60 %) como primera estrategia personal, también se menciona planificar cómo resolver un problema (20 %) y tratar de llegar a acuerdos (17,6 %). En las entrevistas, se destaca el ejercicio, la alimentación, el contacto con la naturaleza y cursos de autoayuda. No obstante, estas estrategias aparecen también como una dimensión que tensiona con las tareas de cuidado de pacientes, que por momentos se impone sobre el propio autocuidado. Gisela, una enfermera que se desempeñaba desde 2020 en un hospital de administración privada de Córdoba, señalaba al respecto:"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "p",
+     {},
+     "[Respecto\na los mayores desafíos] Yo creo que fueron dos. Conservar la salud, aprender a\ncuidarnos. Nosotros pensamos siempre en el paciente y no en nosotros, ahora es\npensar en los dos. Cuidarnos a nosotros mismos (Gisela, enfermera profesional, hospital\nde administración privada)."
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "En cuanto a los recursos de contención formales promovidos por el sistema sanitario, solo el 18 % de las personas que cumplimentaron los cuestionarios indicaron que ocasionalmente se han habilitado estos espacios de cuidado. En las entrevistas, se menciona la necesidad de espacios institucionales y la importancia que han tenido ante esta ausencia, las redes informales o la propia búsqueda de espacios de contención para canalizar el estrés, la incertidumbre y la angustia que supone la tarea en este contexto. Otros recursos para afrontarlos han sido las formaciones propias, informarse sobre la situación y el cuidado entre pares. Carolina, la enfermera profesional de un hospital público menciona al respecto:"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "p",
+     {},
+     "Cuando comenzó la\npandemia, teníamos un gabinete de salud mental. Nos decían que quien quisiera\npodía ir a consultar. Obvio: ¡No fue nadie! La contención la hemos hecho, entre\npares o en familia. Yo lo que hago es yoga y caminatas. Participó en un taller\nliterario, que lo hemos adaptado a zoom. La verdad que se me engrosó mucho la\nbiblioteca (Carolina, enfermera profesional, hospital público)."
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Respecto al cuidado entre profesionales, un enfermero menciona que siente ingratitud y poco reconocimiento de otras profesiones, especialmente del campo de la medicina. En ese sentido, el 23,6 % de las personas encuestadas indican que nunca se consideró la opinión y la experiencia del personal de enfermería en los protocolos implementados en su servicio debido a la pandemia y el 48,6 % que ocasionalmente. En cuanto a la relación con pacientes, de las enfermeras encuestadas el 36,2 % señaló que ocasionalmente sufrió situaciones de conflicto. Además, el 37,6 % indicó que el personal de enfermería tuvo situaciones de conflictos con familiares de pacientes. En las entrevistas, esto se manifiesta en una mayor ansiedad, impaciencia y miedo entre pacientes que, en ocasiones, se tradujo en formas de maltrato hacia el personal de enfermería. Así lo señalaba Candela, una joven enfermera que se desempeñaba en la guardia de un hospital de administración privada:"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "p",
+     {},
+     "[El paciente] está más\ndemandante. Necesita la inmediatez. Que todo sea rápido. No entienden que somos\nhumanos. Y esta mediada por la tecnología, la medicina, pero aún están\nmanejadas por humanos. Los pacientes son impacientes. Es como entrar al súper,\ncomprar un producto e irse. Te tratan mal y es una rueda. También es el mismo\nmiedo. A mí no me asusta tanto el covid, pero la\ngente va y decís covid, se desespera y se quiere ir\n(Candela, técnica en enfermería, hospital de administración privada)."
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "En este escenario de importante complejidad sociosanitaria, las personas entrevistadas señalan el impacto en el cuerpo y las emociones. Una enfermera relata en la entrevista que fue un proceso difícil, y describe una situación de constante angustia. Otros refieren miedo, como principal emoción al atender a pacientes que podrían estar contagiados. Ello se refleja, a la vez, en que por ejemplo, en que más del 40 % de las personas encuestadas indicaron que desde el inicio de la pandemia sintieron desaliento y/o frustración en relación a su trabajo, malestares emocionales y conflictos con colegas y superiores que se trasladaban también a su ámbito familiar."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "No obstante, en muchos casos el estrés y las necesidades de canalizar las preocupaciones y tensiones, se encontraron limitadas. Ante la pregunta sobre si participaron de movilizaciones o de espacios para reclamar por derechos laborales, Carolina, una enfermera profesional de un hospital público menciona al respecto:"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "p",
+     {},
+     "El año\npasado cuando veníamos trabajando con la modalidad de 3x3 (3 días de trabajo\npor 3 francos), nos quisieron quitar en plena pandemia, cuando estábamos con\nmucha presión. Nosotros hicimos y juntamos firmas y lo reclamamos ante el\ndirector y el Ministerio. Siempre estamos limitados y más en la pandemia.\nSiempre tenemos el fantasma del abandono del paciente, la verdad que nosotros,\nestamos limitados a que se puede hacer (en relación a manifestarse) (Carolina,\nenfermera profesional, hospital público)."
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Como se observa en la cita, las posibilidades de reclamo o lucha gremial también se vieron atravesados por un contexto de urgencia que dejó poco espacio para canalizar demandas y mejorar las condiciones de trabajo vividas."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n",
+     [
+      "span",
+      {},
+      "La atención y la relación asistencial como centro de la tarea\nprofesional "
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "El vínculo con pacientes es una dimensión en el ejercicio de la profesión que se volvió tan central como compleja en el marco de la pandemia del covid-19. En las experiencias recabadas en las entrevistas a enfermería, se destaca una relación atravesada por el reconocimiento de la singularidad de pacientes y sus necesidades: infancias, adultos mayores, mujeres en situación de parto, o pacientes que se encontraban en terapia. Allí, el recurso principal para su atención fue el humano, lo cual implicó “poner el cuerpo” para la enfermería."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "En las entrevistas, encontramos experiencias de profesionales que dejan de lado sus espacios de descanso para atender las necesidades de pacientes, y otros/as que se enferman por la proximidad física de la atención y el riesgo que ello supone en el marco de la pandemia. La atención y la asistencia a pacientes es una relación profesional que implicó el cuerpo y los conocimientos de la enfermería, ahora atravesados por nuevos protocolos de atención y los elementos de higiene y seguridad. El 29,6 % de las personas encuestadas indicó que siempre tuvo miedo al contagio y que esto significó, al inicio de la pandemia, un distanciamiento físico con sus pacientes y la pérdida de poder abordar integralmente los procesos de salud-enfermedad. Esto se pone particularmente en tensión cuando la propia tarea es comprendida y destacada principalmente por el componente de cuidado y contención asistencial. Sin embargo, al momento de la entrevista –realizadas entre marzo y julio de 2021– refieren que el miedo fue disminuyendo y la relación se fue retomando."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "El aspecto relacional como parte del bienestar de las personas internadas, es una dimensión presente y crucial en los relatos de profesionales de enfermería. Existen diferentes dimensiones de la tarea que modificaron la posibilidad de relacionarse con los pacientes. Desde el punto de vista corporal una enfermera destaca la dificultad de relacionarse con los/as pacientes a causa del uso de barbijos. Sienten que no pueden escucharlos bien, que estableció una distancia con los pacientes. Carolina contaba su experiencia en un hospital público:"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "p",
+     {},
+     "[Con el barbijo] no se\nescucha bien, el paciente también te escucha mal, no ve tus expresiones. Para\nel paciente somos todos los mismos. Nos identificamos, todo es más engorroso,\nse me caía todo. Tuvimos que aprender a movilizarnos entre todo el equipo (Carolina,\nenfermera profesional, hospital público)."
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Desde el punto de vista relacional, se señalaba que la ausencia de familiares de las personas con covid afecta al modo en que los/las pacientes son cuidados. Frente a este escenario una enfermera destaca el trabajo de contención y cuidado que realizan con pacientes aislados, especialmente mayores o personas con Alzheimer. En algunos relatos se destaca la soledad de las pacientes a la hora del parto, por la distancia social que implican las nuevas medidas. Gisela, una enfermera joven que trabaja en una institución de gestión privada, valora el lugar de empatía y compromiso en su cuidado:"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "p",
+     {},
+     "Nosotros\nestuvimos conteniendo a los pacientes, escuchando. Hace pocos días me sucedió\nque un paciente me dijo: “Me siento solo y abandonado, cuando ustedes entran\nvestidas así”. “¡Estoy solo!” “Pero yo sé que eso es para que ustedes se\nprotejan”. Nosotros tenemos nuestro horario de descanso y en mi media hora\ndecidí quedarme sentada con él. Esa media hora que me correspondía tomarme un\ncafé, me la tomé con él conversando. Ellos están solos. ¡Es cierto! Porque\nnosotras no damos más. Tenemos muchos pacientes, para las cuatro enfermeras que\nsomos. Cuando me fui ya que terminó mi turno me dijo: GRACIAS POR QUEDARTE\nCONMIGO. Ese gracias, es mejor que la remuneración que te pagan a fin de mes (Gisela,\ntécnica en enfermería, administración privada)."
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Por otra parte, Carolina, que trabaja en un hospital público, relata:"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "p",
+     {},
+     "Ayer me pasó que una\npaciente estaba llorando, es diabética, la alenté, que iba a estar bien y que\nestaba cuidada. Y ella me dice: “Acaba de fallecer mi marido y no me pude\ndespedir”. ¿Qué le digo? No podía ni abrazarla. Estamos viendo pacientes, que,\nde golpe, dan un cambio en su diagnóstico, se quedan sin aire, etc. Ahí tenemos\nque ver cómo hacer para trabajar con ellos y ayudarlos. Son cada vez más\njóvenes y con familias detrás de ellos (Carolina, enfermera profesional,\nhospital público)."
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "De hecho, la distancia física que implican las nuevas medidas y la ausencia de familiares, entre otros factores, impactaron en el vínculo y las formas de atención de pacientes pediátricos. La ausencia de esta internación conjunta con las personas del grupo familiar, llevó a nuevas estrategias de comunicación verbal y no verbal. Así lo señalaba Franco, un enfermero con veinte años de antigüedad en un Hospital Público de Córdoba:"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "p",
+     {},
+     "[Sobre\nlas nuevas estrategias] Globos con caritas, con el oxígeno. Antes lo inflábamos\nnosotros. Esa es una caricia para el niño, el acercamiento, porque las palabras\nno alcanzan. El chico te lee la cara, tu cuerpo desde la gestualidad,\nentendiendo el lenguaje del niño. Buscamos siempre que haya una\ncorrespondencia, entre lo que digo y lo que expresa mi cara y mi cuerpo. (...)\nAntes teníamos la sala de juegos, para el lugar del niño poder canalizar su\nsufrimiento. ¡Hoy se sacaron! Porque no se puede compartir nada. No hay libros\nde cuentos, porque tenés que desinfectarlos. No hay juguetes. El niño canaliza\npor medio del juego todas sus emociones. Los niños pequeños no tienen capacidad\nde poner palabras (Franco, auxiliar en enfermería, hospital público)."
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "El acompañamiento de pacientes en el final de la vida constituye una tarea de cuidado muy importante que la enfermería realiza en este contexto. La sensación de aislamiento que los/las enfermeras/os experimentaron por el distanciamiento del propio grupo familiar para preservarlos de contagios, en algunos relatos se conectaba con la empatía por la situación de soledad de pacientes, generando relaciones de horizontalidad y cuidado. Al respecto comentaba Gisela, enfermera técnica de una institución privada, respecto a la soledad de los/las pacientes al final de la vida, y lo que significó para su experiencia profesional en pandemia:"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "p",
+     {},
+     "A mí me pasó cuando no\npude ver a mi familia, pude ponerme en los zapatos de los pacientes. Porque\nmucha gente murió sola, siendo que tenía miles de familiares y murieron solos.\nTodos solos. Tu única compañera era la televisión y nosotras. Se mueren con la\nmano de un extraño, que somos nosotras (Gisela, técnica en enfermería, hospital\nde administración privada)."
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Por otra parte, en el trabajo de guardia se advierte que aparecen con la pandemia nuevas problemáticas de salud mental, personas en situación de crisis, ante la cual se advierten limitaciones en la formación."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Desde la experiencia de los servicios de atención primaria, se relatan estrategias alternativas para atender a la población que no lograba acercarse al centro de salud que contaron con un mayor reconocimiento social. En particular, se señala la revalorización del trabajo territorial que permitió el seguimiento de mujeres embarazadas y a la vez la creación de grupos de whatsapp donde las propias mujeres usuarias comenzaron a estar en contacto. Tarcila, una licenciada en enfermería que desde hace dos años decidió pasar de un hospital público a un centro de salud menciona al respecto:"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "p",
+     {},
+     "Ahora,\nen pandemia, se aumentó el trabajo en lo territorial, porque las vacunas se\ndieron en los barrios, en los domicilios, y ahora también se sigue haciendo. El\nseguimiento de la familia, se hacen los domicilios y se trabaja con talleres en\nlos centros de salud. Se trabaja más en territorio. Ayudó a que salgamos del\ncentro de salud. Aparte ya abrieron los grupos de whatsapp,\ny eso fue mejor porque agilizó todo y se resuelve todo por ahí. Todo por whatsapp, y están conectadas entre ellas (Tarcila, licenciada de enfermería, centro de salud)."
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "También se destacan experiencias positivas vinculadas a la relación con usuarios/as, producto de la necesidad de tener que acercarse a los propios domicilios para la atención y el seguimiento de pacientes que no lograban acceder al servicio en el contexto del covid-19. Tarcila, continúa profundizando:"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "p",
+     {},
+     "¡Mejoró un montón (la\natención)! Verme en el territorio, tener el grupo de whatsapp,\nla verdad que fue muy bueno para mí, para el equipo y la comunidad. Tenemos un\nmuy buen vínculo. Eso fue lo bueno que nos pasó en pandemia (Tarcila, licenciada en enfermería, centro de salud)."
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Para las entrevistadas, estas estrategias permitieron reconocer cierta revalorización de la enfermería dentro de la Atención Primaria de la Salud. En este sentido, la formación y los recursos profesionales para atender la salud han sido recursos centrales de la profesión para la (re)vinculación con pacientes en determinados contextos de crisis sanitaria y social."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n",
+     [
+      "span",
+      {},
+      "\n\nVocación\ny profesión en la pandemia "
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "La tradición Nightingale, como marca histórica de la profesión, se fue reactualizado y tensionando aún más en el contexto de pandemia. El 60 % de las personas encuestadas señalaron que desde el inicio de la pandemia, siempre sintió orgullo por su trabajo y el 58,2 % expresa haberse sentirse valorado por la sociedad de manera ocasional. En los relatos de profesionales de enfermería, esto se manifiesta a través del valor de la profesión como vocación, como práctica de cuidado y de responsabilidad social. Algunas personas asocian el contexto covid a una guerra y al estar en la trinchera, así como también a un momento histórico único donde se identifica el rol protagónico que juega la enfermería en ello. Carolina, la enfermera profesional que trabaja en uno de los principales hospitales públicos de la provincia indica:"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "p",
+     {},
+     "La verdad me replanteé\ntodo. Desde mi vida, mi profesión. Me chocó mucho toda la gente que se quedó\nsin trabajo, que la sigue pasando mal. Es algo histórico. Estar ahí en la\nprimera línea, todavía no sé si estoy lista para conclusiones. Es algo\nespecial. Fue frustrante y desafiante. También es participar en la historia. Si\nalgo pude hacer, valió la pena, todo lo que estudié y me formé. Con toda la\nexperiencia de estos años (Carolina, enfermera profesional, hospital público)."
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Pero la manera en que se ejerce la profesión se encuentra atravesada por un marco ético donde el cuidado está implicado de manera central en las experiencias de las/os profesionales. Se destaca sobre todo el componente humano y de cuidados de la profesión como un aspecto que no solo es central en el desarrollo de la tarea sino que también es valorado como una característica positiva."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Así lo indica Emilse, una enfermera profesional que trabaja en un hospital público de la provincia y una clínica privada:"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "p",
+     {},
+     "A mí lo\nque más me gusta, es la parte de la cuestión humana, hacer las cosas bien con\nel paciente y lo que te llevas. Es fundamental en enfermería la contención, la\nescucha, mover a los pacientes, intubar, mantener el área limpia, a mí me gusta\nhacerlo y la enfermería me dio mucho (Emilse,\nenfermera profesional, hospital público y clínica privada)."
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Asimismo, otras personas entrevistadas valoran el papel de la enfermería en el vínculo con el paciente, que “humaniza” la atención. Así lo señala Gisela:"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "p",
+     {},
+     "Una compañera me dijo: “Cualquiera\nse recibe de enfermera, pero no todas somos enfermeras”. La humanidad que tiene\nla enfermería, no todas las tienen. Hay que ponerse en el lugar del paciente.\nNo pueden ver a nadie, no pueden llamar a nadie (Gisela, técnica en enfermería,\nhospital de administración privada)."
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "De la misma manera, Emilse también advierte el sentido humano de la profesión:"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n"
+    ],
+    [
+     "p",
+     {},
+     "[Respecto\na la elección de la profesión]. Primero porque me pareció una profesión interesante\ny después me metí cada vez más, con la persona. Ahí me di cuenta que la\nprofesión se ejerce, más allá de los tiempos. Si me tengo que quedar yo me\nquedo. Sin paga o con paga. Hay que terminar el trabajo que uno comienza y\natender al paciente hasta que sea necesario. ¡Es maravilloso! Cuando uno\nentiende que ayuda al que necesita y no sos el que\nnecesita, es una bendición. Por eso yo elijo el tiempo de mejorar la calidad de\nvida de las personas (Emilse, enfermera profesional,\nhospital público y clínica privada)."
+    ],
+    "\n",
+    [
+     "p",
+     {}
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Aun cuando para los/as entrevistados la crisis sanitaria pone en particular relieve las condiciones de precariedad que atraviesan la profesión, no deja de visibilizarse la ética y la identidad profesional que refuerza aún más los valores de la vocación."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n",
+     [
+      "span",
+      {},
+      "Conclusiones "
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "La enfermería como profesión del cuidado sanitario en la Argentina ha sido históricamente una ocupación desvalorizada en el marco de un sistema caracterizado por la sobrecarga de trabajo y el subempleo. En tanto profesión feminizada, estuvo signada por estereotipos basados en el sacrificio y la vocación, como la falta de capacitación profesional para las exigentes demandas del sistema sanitario. La pandemia del covid-19 ha potenciado estas miradas hacia la profesión. Si bien puso de relevancia el lugar protagónico de las tareas del personal de enfermería, ello no vino acompañado con un debate que respondiera a las condiciones laborales que atraviesan la profesión y al sector salud en general. La sobrecarga laboral, el pluriempleo, las deficiencias en los recursos y los bajos salarios, entre otras condiciones, afectan directamente a la práctica y a la calidad de la atención. El empleo de enfermería presenta rasgos propios de la precarización, históricos y estructurales por su persistencia, que se profundizan en situaciones de crisis sanitarias como las que atravesamos actualmente, tal como demuestran los resultados obtenidos en este trabajo."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "El análisis da cuenta que el contexto de crisis sanitaria por covid-19 refuerza el valor asignado a las tareas de cuidado de la profesión en Córdoba, las cuales toman un protagonismo central en este contexto de pandemia. Aun cuando persiste la feminización, invisibilización y poco reconocimiento social de las tareas de cuidado, en el contexto de pandemia, esto cobró otro cariz. Este proceso, se presenta paradójico, por un lado, se tensiona la idea patriarcal de que, por ciertas características femeninas de la planta de enfermería, algunas tareas su asumen de forma “natural” –por la condición biológica– lo que las capacita para realizarlas. Por otro lado, la crisis sanitaria pone en relieve las condiciones precarias en las que se lleva adelante la profesión. Ello tiene como consecuencia, no sólo la reproducción de un conjunto de desigualdades de género en la división del trabajo de la atención de la salud, sino la invisibilización de la ",
+     [
+      "span",
+      {},
+      "expertise"
+     ],
+     " profesional de la enfermería en los procesos de atención de la salud que se adquiere en procesos de formación y de experiencia profesional. A pesar de que en enfermería existe una relevante distinción de acuerdo a la trayectoria de formación entre profesionales, técnicas, auxiliares, no se observaría según nuestros resultados, una diferenciación en el impacto de la pandemia a la hora de adjudicar nuevas tareas –limpieza, alimentación de pacientes– y por el contrario se reactualizan lógicas de poder entre profesionales de la salud. Al ser identificado como un trabajo de cuidados, comparte la misma situación paradojal que aquellos cuidados que se llevan a cabo en los hogares: son invisibles, no reconocidos, no remunerados o precarizados, sin embargo, son fundamentales para el mantenimiento de la vida."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Un aspecto no menor, es que estas tareas de cuidado tienen consecuencias en la salud de los/las profesionales de enfermería, un costo que lleva a no reconocer la importancia del propio cuidado y el cuidado que las instituciones sociosanitarias debieran brindar de forma privilegiada a quienes se encuentran en la primera línea de atención en los hospitales como en diversos territorios. Así como el impacto del propio trabajo y sus condiciones en el ámbito personal y familiar."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "A pesar de las condiciones que determinan las posibilidades del desarrollo profesional, se identifican numerosas estrategias de parte de las/os profesionales de enfermería, particularmente en la atención de las personas aisladas o internadas. Asimismo, la vuelta a modalidades de atención que posibiliten un trato más cercano y un mayor seguimiento de las/os pacientes en las comunidades y territorios, propio de un modelo de atención primaria de la salud, se constituye en una práctica exitosa para continuar implementando más allá del contexto de pandemia. En este sentido, a pesar de la falta de reconocimientos materiales y simbólicos, la ética de cuidado presente en la profesión en la pandemia es un motivo que potencia su capacidad de agencia, facilita la resolución de problemas y el despliegue de estrategias, fundamentales en procesos de crisis sociosanitaria y que aspectos necesarios de revalorizar tanto en términos materiales como simbólicos."
+    ],
+    "\n"
+   ],
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-back"
+    },
+    "\n",
+    [
+     "p",
+     {},
+     "Agradecimientos"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Este trabajo se realizó\nen el marco del Proyecto PISAC COVID-19 0022: “La enfermería y el cuidado\nsanitario profesional durante la pandemia y la postpandemia\ndel COVID 19 (Argentina, S. XX y XXI)”, dirigido por Karina Ramaciotti,\nen el que participaron investigadores e investigadoras de 16 nodos\n(universidades nacionales y centros de investigación en diferentes regiones del\npaís). Especial reconocimiento a las personas participantes de las entrevistas\ny de los cuestionarios por su tiempo y su participación en este difícil\ncontexto."
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "\n",
+     [
+      "span",
+      {},
+      "Referencias"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286007_ref1"
+     },
+     "Aspiazu, E.\n(2012). La inclusión de la perspectiva de género en la actividad sindical.\nAnálisis de dos asociaciones del sector salud en la Provincia de Buenos Aires. ",
+     [
+      "span",
+      {},
+      "Revista Gestión de las Personas y\nTecnología"
+     ],
+     ", 5(14), 58-70. ",
+     [
+      "a",
+      {
+       "href": "https://ri.conicet.gov.ar/handle/11336/105910"
+      },
+      "https://ri.conicet.gov.ar/handle/11336/105910"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286007_ref2"
+     },
+     "Aspiazu, E.\n(2017). Las condiciones laborales de las y los enfermeros en Argentina: entre\nla profesionalización y la precariedad del cuidado en la salud. Trabajo y Sociedad, (28), 11-35. Recuperado de ",
+     [
+      "a",
+      {
+       "href": "http://scielo.org.ar/scielo.php?script=sci_arttext&pid=S1514-68712017000100002&lng=es&tlng=es"
+      },
+      "http://scielo.org.ar/scielo.php?script=sci_arttext&pid=S1514-68712017000100002&lng=es&tlng=es"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286007_ref3",
+      "lang": "en"
+     },
+     "D'emeh W. M., Yacoub M. I. and Shahwan B. S. (2021). Work-Related\nStress and Anxiety Among Frontline Nurses During the\nCOVID-19 Pandemic: A Cross-Sectional Study. ",
+     [
+      "span",
+      {},
+      "Journal\nof Psychosocial Nursing and Mental Health Services"
+     ],
+     ", 59(8), 31-42. https://doi.org/10.3928/02793695-20210322-02"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286007_ref4"
+     },
+     "Díaz\nEchenique, S., Stimolo, M. y Caro, M. (2010).\nSatisfacción Laboral y Síndrome de Desgaste Laboral en Enfermeros de Hospitales\nPúblicos Córdoba-Argentina. ",
+     [
+      "span",
+      {},
+      "Medicina\nSeguridad del trabajo"
+     ],
+     ", 56(218), 22-38. Recuperado de http://scielo.isciii.es/scielo.php?script=sci_arttext&pid=S0465-546X2010000100003&lng=es&tlng=pt"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286007_ref5"
+     },
+     "Domínguez Mon, A., Femenías, M. L., Leonardi, M. C., Palermo, M. C., Passerino,\nL. M., Peresin, S. R., Sanmauro, K. E,\nSchwarz, P. K. N. y Soza Rossi, P (2018). ",
+     [
+      "span",
+      {},
+      "Cuidados en Salud, Derechos y Género"
+     ],
+     ". Ciudad Autónoma de Buenos Aires, Argentina: Editorial Gino Germani, Universidad de Buenos\nAires. Recuperado de ",
+     [
+      "a",
+      {
+       "href": "http://iigg.sociales.uba.ar/wp-content/uploads/sites/22/2019/11/dt80.pdf"
+      },
+      "http://iigg.sociales.uba.ar/wp-content/uploads/sites/22/2019/11/dt80.pdf"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286007_ref6"
+     },
+     "Federici, S. (2012).\n",
+     [
+      "span",
+      {},
+      "Revolución en punto cero: Trabajo doméstico, reproducción\ny luchas feministas"
+     ],
+     ". Ciudad Autónoma de Buenos Aires, Argentina:\nTinta Limón. Recuperado de ",
+     [
+      "a",
+      {
+       "href": "https://tintalimon.com.ar/public/mqeb5o1lmazzo6syob23d23h84c3/Revolucion%20en%20punto%20cero.pdf"
+      },
+      "https://tintalimon.com.ar/public/mqeb5o1lmazzo6syob23d23h84c3/Revolucion%20en%20punto%20cero.pdf"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286007_ref7"
+     },
+     "Klepp, C. (27 de marzo de 2020). Suman\nllamados a profesionales de la salud para reforzar dotaciones en hospitales ",
+     [
+      "span",
+      {},
+      "Comercio y Justicia"
+     ],
+     ". Recuperado de ",
+     [
+      "a",
+      {
+       "href": "https://comercioyjusticia.info/profesionales/suman-llamados-a-profesionales-de-la-salud-para-reforzar-dotaciones-en-hospitales/"
+      },
+      "https://comercioyjusticia.info/profesionales/suman-llamados-a-profesionales-de-la-salud-para-reforzar-dotaciones-en-hospitales/"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286007_ref8"
+     },
+     "Neffa, J. C. y Henry, M. L. (2018) (Coords.). ",
+     [
+      "span",
+      {},
+      "¿Quién cuida a los que\ncuidan? Los riesgos psicosociales en el trabajo en los establecimientos\nprivados de salud."
+     ],
+     " La Plata, Argentina: Facultad de Ciencias\nEconómicas, Universidad Nacional de La Plata. Recuperado de https://www.memoria.fahce.unlp.edu.ar/trab_eventos/ev.11650/ev.11650.pdf"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286007_ref9"
+     },
+     "Martin,\nA. L. (2015). Mujeres y enfermería: una asociación temprana y estable\n(1886-1940). En C. Biernat, J. M. Cerdá y K. Ramacciotti (Coords.), ",
+     [
+      "span",
+      {},
+      "La\nsalud pública y la enfermería en la Argentina"
+     ],
+     " (p. 344). Bernal, Argentina:\nUniversidad Nacional de Quilmes."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286007_ref10"
+     },
+     "Ministerio\nde Salud de Argentina (2020a). Sala de Situación COVID-19. Nuevo Coronavirus\n2019. SE 31. Recuperado de ",
+     [
+      "a",
+      {
+       "href": "https://argentina.gob.ar/sites/default/files/sala_31_07.pdf"
+      },
+      "https://argentina.gob.ar/sites/default/files/sala_31_07.pdf"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286007_ref11"
+     },
+     "Ministerio\nde Salud de Argentina (2020b). Sala de Situación COVID-19. Nuevo Coronavirus\n2019. SE 38. Recuperado de ",
+     [
+      "a",
+      {
+       "href": "https://argentina.gob.ar/sites/default/files/2021/08/sala-27-08_se34.pdf"
+      },
+      "https://argentina.gob.ar/sites/default/files/2021/08/sala-27-08_se34.pdf"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286007_ref12"
+     },
+     "Ministerio\nde Salud de Argentina (16 de diciembre de 2020). Lanzamiento del Programa 10\nmil voluntarios por la vacunación contra COVID-19. Recuperado de ",
+     [
+      "a",
+      {
+       "href": "https://argentina.gob.ar/noticias/lanzamiento-del-programa-10-mil-voluntarios-por-la-vacunacion-contra-covid-19"
+      },
+      "https://argentina.gob.ar/noticias/lanzamiento-del-programa-10-mil-voluntarios-por-la-vacunacion-contra-covid-19"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286007_ref13"
+     },
+     "Pereyra, F. y Micha, A.\n(2016). La configuración de las condiciones laborales de la enfermería en el\nÁrea Metropolitana de Buenos Aires: una mirada en el cruce del orden de género\ny la organización del sistema de salud. ",
+     [
+      "span",
+      {},
+      "Revista\nSalud Colectiva"
+     ],
+     ", 12(2), 221-238.\nRecuperado de ",
+     [
+      "a",
+      {
+       "href": "https://scielosp.org/article/ssm/content/raw/?resource_ssm_path=/media/assets/scol/v12n2/1851-8265-scol-12-02-00221.pdf"
+      },
+      "https://scielosp.org/article/ssm/content/raw/?resource_ssm_path=/media/assets/scol/v12n2/1851-8265-scol-12-02-00221.pdf"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286007_ref14"
+     },
+     "Pérez Orozco, A. (2019). ",
+     [
+      "span",
+      {},
+      "Subversión feminista de la economía: sobre\nel conflicto capital vida."
+     ],
+     " Madrid, España:\nTraficantes de Sueños."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286007_ref15"
+     },
+     "Olaviaga, S., Iñarra, V. y Maceira, D. (2021).\nTalento humano, el recurso más crítico. Fundar. Recuperado de ",
+     [
+      "a",
+      {
+       "href": "https://fund.ar/wp-content/uploads/2021/06/Talento-Humano-el-recurso-mas-critico-Fundar.pdf"
+      },
+      "https://fund.ar/wp-content/uploads/2021/06/Talento-Humano-el-recurso-mas-critico-Fundar.pdf"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286007_ref16"
+     },
+     "Ramacciotti, K. y Valobra, A. (2017). El dilema Nightingale:\ncontroversias sobre la profesionalización de la enfermería en Argentina\n1949-1967. ",
+     [
+      "span",
+      {},
+      "Dynamis"
+     ],
+     ",\n37(2), 367-387. Recuperado de http://scielo.isciii.es/scielo.php?script=sci_arttext&pid=S0211-5362017000200006&lng=es&tlng=en"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286007_ref17"
+     },
+     "Reyna,\nJ. E. (2 de abril de 2021). La Provincia incorporará\n460 agentes más en el sector Salud para afrontar la segunda ola. La Voz. Recuperado de ",
+     [
+      "a",
+      {
+       "href": "https://lavoz.com.ar/ciudadanos/provincia-incorporara-460-agentes-mas-en-sector-salud-para-afrontar-segunda-ola"
+      },
+      "https://lavoz.com.ar/ciudadanos/provincia-incorporara-460-agentes-mas-en-sector-salud-para-afrontar-segunda-ola"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286007_ref18"
+     },
+     "Rodríguez, M. L. y Aizenberg, L. (2020). La conformación de la enfermería\nuniversitaria en Córdoba. En K. Ramacciotti (Coord.),\n",
+     [
+      "span",
+      {},
+      "Historias de la enfermería en Argentina: pasado y presente de una profesión"
+     ],
+     "\n(pp. 339-370). Ciudad Autónoma de Buenos\nAires, Argentina: Edunpaz."
+    ],
+    "\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_313286007_ref19"
+     },
+     "Tapp, D., Stansfield,\nK. y Stewart, J. (2009). La autonomía en la práctica de enfermería. ",
+     [
+      "span",
+      {},
+      "Aquichan"
+     ],
+     ", 5(1), 114-127. Recuperado de ",
+     [
+      "a",
+      {
+       "href": "https://aquichan.unisabana.edu.co/index.php/aquichan/article/view/65"
+      },
+      "https://aquichan.unisabana.edu.co/index.php/aquichan/article/view/65"
+     ],
+     "\n"
+    ],
+    "\n",
+    [
+     "p",
+     {},
+     "Notas"
+    ],
+    "\n",
+    [
+     "span",
+     {
+      "id": "t-fn2"
+     },
+     "\n",
+     [
+      "span",
+      {},
+      "1"
+     ],
+     " La autonomía ha sido vista por Tapp, Stansfield y Steward (",
+     [
+      "a",
+      {
+       "href": "http://portal.amelica.org/ameli/journal/31/313286007/html/index.html#redalyc_313286007_ref19"
+      },
+      "2009"
+     ],
+     ") como\nun indicador de la profesionalización de la disciplina. La autonomía de\nenfermería ha sido identificada como una variable importante que afecta la\npercepción de la enfermera en relación con su satisfacción en el trabajo, los\nambientes positivos de su práctica profesional y la calidad del cuidado de\nenfermería."
+    ],
+    "\n"
+   ],
+   "\n"
+  ],
+  "\n",
+  [
+   "span",
+   {
+    "id": "t-creditos"
+   },
+   "\n",
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-logo-izquierda"
+    },
+    "\n",
+    [
+     "figura",
+     {}
+    ]
+   ],
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-mensaje"
+    },
+    "Modelo de publicación sin fines de lucro para conservar la naturaleza académica y abierta de la comunicación científica",
+    [
+     "br",
+     {}
+    ],
+    "HTML generado a partir de XML-JATS4R"
+   ],
+   "\n",
+   [
+    "span",
+    {
+     "id": "t-logo-derecha"
+    },
+    "\n",
+    [
+     "figura",
+     {}
+    ]
+   ],
+   "\n",
+   "\n"
+  ],
+  "\n\n\n"
+ ]
+}

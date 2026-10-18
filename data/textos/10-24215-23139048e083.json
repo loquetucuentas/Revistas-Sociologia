@@ -1,0 +1,4916 @@
+{
+ "version": 1,
+ "recogido": "2026-10-18T11:40:36+00:00",
+ "doi": "10.24215/23139048e083",
+ "titulo": "desigualdad en tiempos de pandemia: cólera e influenza española en México",
+ "revista": "2313-9048",
+ "numero": "v18-n18-2025",
+ "licencia": {
+  "codigo": "by-nc-sa",
+  "nombre": "CC BY-NC-SA 4.0",
+  "nombre_completo": "Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional",
+  "url": "https://creativecommons.org/licenses/by-nc-sa/4.0",
+  "url_legal": "https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.es"
+ },
+ "fuente": {
+  "url": "https://perio.unlp.edu.ar/ojs/index.php/cps/article/download/6681/7460/36449?inline=1",
+  "formato": "HTML",
+  "plataforma": "ojs-galerada",
+  "pagina": "https://perio.unlp.edu.ar/ojs/index.php/cps/article/view/6681"
+ },
+ "autores_cita": [
+  {
+   "apellidos": "Rajchenberg",
+   "nombre_pila": "Enrique",
+   "nombre": null
+  }
+ ],
+ "avisos_derechos": [
+  "Derechos de autor 2025 Cuadernos de H ideas",
+  "Licencia Derechos de autor 2025 Cuadernos de H ideas Esta obra está bajo una licencia internacional Creative Commons Atribución-NoComercial-CompartirIgual 4.0. La aceptación de un original por parte de la revista implica la cesión no exclusiva de los derechos patrimoniales de los/as autores/as en favor del editor, quien permite la reutilización, luego de su edición (postprint), bajo una Licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0) Acorde a estos términos, el material se puede compartir (copiar y redistribuir en cualquier medio o formato) y adaptar (remezclar, transformar y crear a partir del material otra obra), siempre que a) se cite la autoría y la fuente original de su publicación (revista y URL de la obra), b) no se use para fines comerciales y c) se mantengan los mismos términos de la licencia. La cesión de derechos no exclusivos implica que luego de su edición (postprint) en Cuadernos de H ideas las/os autoras/es pueden publicar su trabajo en cualquier idioma, medio y formato; en tales casos, se solicita que se consigne que el material fue publicado originalmente en esta revista. Tal cesión supone, también, la autorización de los/as autores/as para que el trabajo sea cosechado por SEDICI, el repositorio institucional de la Universidad Nacional de La Plata, y sea difundido en las bases de datos que el equipo editorial considere adecuadas para incrementar la visibilidad de la publicación y de sus autores/as. Asimismo, la revista incentiva a las/os autoras/es para que luego de su publicación en Cuadernos de H ideas depositen sus producciones en otros repositorios institucionales y temáticos, bajo el principio de que ofrecer a la sociedad la producción científica y académica sin restricciones contribuye a un mayor intercambio del conocimiento global."
+ ],
+ "idioma_principal": "es",
+ "indice": [],
+ "vueltas": {
+  "t-redalyc_314964005_ref42": "t-llamada-redalyc_314964005_ref42-1",
+  "t-redalyc_314964005_ref11": "t-llamada-redalyc_314964005_ref11-1",
+  "t-fn1": "t-llamada-fn1-1",
+  "t-fn2": "t-llamada-fn2-1",
+  "t-redalyc_314964005_ref47": "t-llamada-redalyc_314964005_ref47-1",
+  "t-redalyc_314964005_ref43": "t-llamada-redalyc_314964005_ref43-1",
+  "t-fn3": "t-llamada-fn3-1",
+  "t-fn4": "t-llamada-fn4-1",
+  "t-redalyc_314964005_ref1": "t-llamada-redalyc_314964005_ref1-1",
+  "t-fn5": "t-llamada-fn5-1",
+  "t-fn6": "t-llamada-fn6-1",
+  "t-redalyc_314964005_ref36": "t-llamada-redalyc_314964005_ref36-1",
+  "t-fn7": "t-llamada-fn7-1",
+  "t-fn8": "t-llamada-fn8-1",
+  "t-fn9": "t-llamada-fn9-1",
+  "t-redalyc_314964005_ref8": "t-llamada-redalyc_314964005_ref8-1",
+  "t-fn10": "t-llamada-fn10-1",
+  "t-fn11": "t-llamada-fn11-1",
+  "t-fn12": "t-llamada-fn12-1",
+  "t-fn13": "t-llamada-fn13-1",
+  "t-fn14": "t-llamada-fn14-1",
+  "t-fn15": "t-llamada-fn15-1",
+  "t-redalyc_314964005_ref58": "t-llamada-redalyc_314964005_ref58-1",
+  "t-redalyc_314964005_ref50": "t-llamada-redalyc_314964005_ref50-1",
+  "t-redalyc_314964005_ref34": "t-llamada-redalyc_314964005_ref34-1",
+  "t-redalyc_314964005_ref40": "t-llamada-redalyc_314964005_ref40-1",
+  "t-redalyc_314964005_ref54": "t-llamada-redalyc_314964005_ref54-1",
+  "t-redalyc_314964005_ref59": "t-llamada-redalyc_314964005_ref59-1",
+  "t-redalyc_314964005_ref75": "t-llamada-redalyc_314964005_ref75-1",
+  "t-redalyc_314964005_ref49": "t-llamada-redalyc_314964005_ref49-1",
+  "t-redalyc_314964005_ref76": "t-llamada-redalyc_314964005_ref76-1",
+  "t-redalyc_314964005_ref25": "t-llamada-redalyc_314964005_ref25-1",
+  "t-fn16": "t-llamada-fn16-1",
+  "t-redalyc_314964005_ref48": "t-llamada-redalyc_314964005_ref48-1",
+  "t-redalyc_314964005_ref17": "t-llamada-redalyc_314964005_ref17-1",
+  "t-fn17": "t-llamada-fn17-1",
+  "t-redalyc_314964005_ref44": "t-llamada-redalyc_314964005_ref44-1",
+  "t-redalyc_314964005_ref19": "t-llamada-redalyc_314964005_ref19-1",
+  "t-redalyc_314964005_ref31": "t-llamada-redalyc_314964005_ref31-1",
+  "t-fn18": "t-llamada-fn18-1",
+  "t-redalyc_314964005_ref38": "t-llamada-redalyc_314964005_ref38-1",
+  "t-fn19": "t-llamada-fn19-1",
+  "t-redalyc_314964005_ref21": "t-llamada-redalyc_314964005_ref21-1",
+  "t-fn20": "t-llamada-fn20-1",
+  "t-fn21": "t-llamada-fn21-1",
+  "t-redalyc_314964005_ref52": "t-llamada-redalyc_314964005_ref52-1",
+  "t-redalyc_314964005_ref53": "t-llamada-redalyc_314964005_ref53-1",
+  "t-fn22": "t-llamada-fn22-1",
+  "t-redalyc_314964005_ref15": "t-llamada-redalyc_314964005_ref15-1",
+  "t-fn23": "t-llamada-fn23-1",
+  "t-redalyc_314964005_ref12": "t-llamada-redalyc_314964005_ref12-1",
+  "t-fn24": "t-llamada-fn24-1",
+  "t-redalyc_314964005_ref14": "t-llamada-redalyc_314964005_ref14-1",
+  "t-fn25": "t-llamada-fn25-1",
+  "t-redalyc_314964005_ref57": "t-llamada-redalyc_314964005_ref57-1",
+  "t-fn26": "t-llamada-fn26-1",
+  "t-redalyc_314964005_ref13": "t-llamada-redalyc_314964005_ref13-1",
+  "t-redalyc_314964005_ref78": "t-llamada-redalyc_314964005_ref78-1",
+  "t-fn27": "t-llamada-fn27-1",
+  "t-redalyc_314964005_ref46": "t-llamada-redalyc_314964005_ref46-1",
+  "t-fn28": "t-llamada-fn28-1",
+  "t-redalyc_314964005_ref32": "t-llamada-redalyc_314964005_ref32-1",
+  "t-redalyc_314964005_ref27": "t-llamada-redalyc_314964005_ref27-1",
+  "t-fn29": "t-llamada-fn29-1",
+  "t-redalyc_314964005_ref26": "t-llamada-redalyc_314964005_ref26-1",
+  "t-fn30": "t-llamada-fn30-1",
+  "t-redalyc_314964005_ref55": "t-llamada-redalyc_314964005_ref55-1",
+  "t-redalyc_314964005_ref56": "t-llamada-redalyc_314964005_ref56-1",
+  "t-redalyc_314964005_ref69": "t-llamada-redalyc_314964005_ref69-1",
+  "t-redalyc_314964005_ref71": "t-llamada-redalyc_314964005_ref71-1",
+  "t-fn31": "t-llamada-fn31-1",
+  "t-redalyc_314964005_ref61": "t-llamada-redalyc_314964005_ref61-1",
+  "t-redalyc_314964005_ref7": "t-llamada-redalyc_314964005_ref7-1",
+  "t-fn32": "t-llamada-fn32-1",
+  "t-fn33": "t-llamada-fn33-1",
+  "t-redalyc_314964005_ref70": "t-llamada-redalyc_314964005_ref70-1",
+  "t-redalyc_314964005_ref72": "t-llamada-redalyc_314964005_ref72-1",
+  "t-fn34": "t-llamada-fn34-1",
+  "t-fn35": "t-llamada-fn35-1",
+  "t-fn36": "t-llamada-fn36-1",
+  "t-redalyc_314964005_ref68": "t-llamada-redalyc_314964005_ref68-1",
+  "t-redalyc_314964005_ref66": "t-llamada-redalyc_314964005_ref66-1",
+  "t-redalyc_314964005_ref73": "t-llamada-redalyc_314964005_ref73-1",
+  "t-redalyc_314964005_ref65": "t-llamada-redalyc_314964005_ref65-1",
+  "t-redalyc_314964005_ref64": "t-llamada-redalyc_314964005_ref64-1",
+  "t-fn37": "t-llamada-fn37-1",
+  "t-redalyc_314964005_ref23": "t-llamada-redalyc_314964005_ref23-1",
+  "t-fn38": "t-llamada-fn38-1",
+  "t-fn39": "t-llamada-fn39-1",
+  "t-redalyc_314964005_ref3": "t-llamada-redalyc_314964005_ref3-1",
+  "t-redalyc_314964005_ref74": "t-llamada-redalyc_314964005_ref74-1",
+  "t-fn40": "t-llamada-fn40-1",
+  "t-redalyc_314964005_ref77": "t-llamada-redalyc_314964005_ref77-1",
+  "t-redalyc_314964005_ref2": "t-llamada-redalyc_314964005_ref2-1",
+  "t-redalyc_314964005_ref4": "t-llamada-redalyc_314964005_ref4-1",
+  "t-redalyc_314964005_ref5": "t-llamada-redalyc_314964005_ref5-1",
+  "t-redalyc_314964005_ref41": "t-llamada-redalyc_314964005_ref41-1",
+  "t-redalyc_314964005_ref45": "t-llamada-redalyc_314964005_ref45-1",
+  "t-redalyc_314964005_ref6": "t-llamada-redalyc_314964005_ref6-1",
+  "t-redalyc_314964005_ref22": "t-llamada-redalyc_314964005_ref22-1",
+  "t-redalyc_314964005_ref16": "t-llamada-redalyc_314964005_ref16-1",
+  "t-redalyc_314964005_ref24": "t-llamada-redalyc_314964005_ref24-1",
+  "t-redalyc_314964005_ref18": "t-llamada-redalyc_314964005_ref18-1",
+  "t-redalyc_314964005_ref39": "t-llamada-redalyc_314964005_ref39-1",
+  "t-redalyc_314964005_ref29": "t-llamada-redalyc_314964005_ref29-1",
+  "t-redalyc_314964005_ref20": "t-llamada-redalyc_314964005_ref20-1",
+  "t-redalyc_314964005_ref9": "t-llamada-redalyc_314964005_ref9-1",
+  "t-redalyc_314964005_ref33": "t-llamada-redalyc_314964005_ref33-1",
+  "t-redalyc_314964005_ref10": "t-llamada-redalyc_314964005_ref10-1",
+  "t-redalyc_314964005_ref37": "t-llamada-redalyc_314964005_ref37-1",
+  "t-redalyc_314964005_ref67": "t-llamada-redalyc_314964005_ref67-1",
+  "t-redalyc_314964005_ref60": "t-llamada-redalyc_314964005_ref60-1",
+  "t-redalyc_314964005_ref30": "t-llamada-redalyc_314964005_ref30-1",
+  "t-redalyc_314964005_ref63": "t-llamada-redalyc_314964005_ref63-1",
+  "t-redalyc_314964005_ref35": "t-llamada-redalyc_314964005_ref35-1",
+  "t-redalyc_314964005_ref28": "t-llamada-redalyc_314964005_ref28-1"
+ },
+ "contenido": [
+  [
+   "span",
+   {
+    "id": "t-MathJax_Message"
+   }
+  ],
+  "\r\n",
+  [
+   "span",
+   {
+    "id": "t-visor-cabecera"
+   },
+   "\r\n",
+   "\r\n",
+   [
+    "span",
+    {
+     "id": "t-logo-institucion"
+    },
+    "\r\n",
+    [
+     "figura",
+     {}
+    ]
+   ],
+   "\r\n",
+   [
+    "span",
+    {
+     "id": "t-logo-revista"
+    },
+    "\r\n",
+    [
+     "figura",
+     {}
+    ]
+   ],
+   "\r\n",
+   "\r\n"
+  ],
+  "\r\n",
+  [
+   "span",
+   {
+    "id": "t-articulo"
+   },
+   "\r\n",
+   [
+    "span",
+    {
+     "id": "t-front"
+    },
+    "\r\n",
+    [
+     "span",
+     {
+      "id": "t-articulo-categoria"
+     },
+     "\r\n",
+     [
+      "p",
+      {},
+      "Artículos"
+     ],
+     "\r\n"
+    ],
+    "\r\n",
+    [
+     "span",
+     {
+      "id": "t-articulo-meta"
+     },
+     "\r\n",
+     [
+      "p",
+      {},
+      "La desigualdad en tiempos de pandemia: cólera e influenza española en México"
+     ],
+     "\r\n",
+     [
+      "p",
+      {
+       "lang": "en"
+      },
+      "Inequality in Times of Pandemic: Cholera and Spanish Influenza in Mexico"
+     ],
+     "\r\n"
+    ],
+    "\r\n",
+    [
+     "span",
+     {
+      "id": "t-articulo-acerca"
+     },
+     "\r\n",
+     [
+      "span",
+      {
+       "id": "t-ficha-general"
+      },
+      "\r\n",
+      [
+       "span",
+       {
+        "id": "t-autores-articulo"
+       },
+       "\r\n",
+       "\r\n",
+       "\r\n",
+       [
+        "a",
+        {
+         "href": "https://orcid.org/0000-0003-4985-0658"
+        },
+        [
+         "figura",
+         {}
+        ]
+       ],
+       "  ",
+       [
+        "span",
+        {},
+        "Enrique"
+       ],
+       " ",
+       [
+        "span",
+        {},
+        "Rajchenberg S."
+       ],
+       " ",
+       [
+        "span",
+        {}
+       ],
+       [
+        "span",
+        {},
+        " enriquer@economia.unam.mx"
+       ],
+       "\r\n",
+       "\r\n",
+       "\r\n",
+       [
+        "span",
+        {},
+        "Universidad Nacional Autónoma de México"
+       ],
+       ", ",
+       [
+        "span",
+        {},
+        "México"
+       ],
+       "\r\n",
+       "\r\n",
+       "\r\n"
+      ],
+      "\r\n",
+      "\r\n",
+      [
+       "p",
+       {},
+       "\r\n",
+       [
+        "span",
+        {},
+        "Cuadernos de H ideas"
+       ],
+       "\r\n"
+      ],
+      "\r\n",
+      [
+       "p",
+       {},
+       "\r\n",
+       [
+        "span",
+        {},
+        "Universidad Nacional de La Plata, Argentina"
+       ],
+       "\r\n"
+      ],
+      "\r\n",
+      [
+       "p",
+       {},
+       "\r\n",
+       [
+        "span",
+        {},
+        "ISSN: "
+       ],
+       "1851-8206"
+      ],
+      "\r\n",
+      [
+       "p",
+       {},
+       "\r\n",
+       [
+        "span",
+        {},
+        "ISSN-e: "
+       ],
+       "2313-9048"
+      ],
+      "\r\n",
+      [
+       "p",
+       {},
+       "\r\n",
+       [
+        "span",
+        {},
+        "Periodicidad: "
+       ],
+       "Frecuencia continua"
+      ],
+      "\r\n",
+      [
+       "p",
+       {},
+       "\r\n",
+       [
+        "span",
+        {},
+        "vol.  18, "
+       ],
+       "núm.  18, ",
+       [
+        "span",
+        {
+         "id": "t-elocation-id"
+        },
+        "e083, "
+       ],
+       [
+        "span",
+        {},
+        "2024"
+       ],
+       "\r\n"
+      ],
+      "\r\n",
+      [
+       "p",
+       {},
+       "\r\n",
+       "direccion.publicaciones@perio.unlp.edu.ar",
+       "\r\n"
+      ],
+      "\r\n",
+      "\r\n",
+      [
+       "span",
+       {
+        "id": "t-articulo-product"
+       }
+      ],
+      "\r\n",
+      "\r\n",
+      [
+       "p",
+       {},
+       "\r\n",
+       [
+        "span",
+        {},
+        "Recepción: "
+       ],
+       " 30 agosto  2023"
+      ],
+      "\r\n",
+      [
+       "p",
+       {},
+       "\r\n",
+       [
+        "span",
+        {},
+        "Aprobación: "
+       ],
+       " 02 noviembre  2023"
+      ],
+      "\r\n",
+      [
+       "p",
+       {},
+       "\r\n",
+       [
+        "span",
+        {},
+        "Publicación: "
+       ],
+       " 03 septiembre  2024"
+      ],
+      "\r\n",
+      [
+       "br",
+       {}
+      ],
+      "\r\n",
+      [
+       "br",
+       {}
+      ],
+      "\r\n",
+      "\r\n",
+      "\r\n",
+      [
+       "span",
+       {},
+       "URL: "
+      ],
+      [
+       "a",
+       {
+        "href": "https://portal.amelica.org/ameli/journal/31/314964005/"
+       },
+       "https://portal.amelica.org/ameli/journal/31/314964005/"
+      ],
+      "\r\n",
+      "\r\n",
+      "\r\n",
+      [
+       "span",
+       {},
+       "DOI: "
+      ],
+      [
+       "a",
+       {
+        "href": "https://doi.org/10.24215/23139048e083"
+       },
+       "https://doi.org/10.24215/23139048e083"
+      ],
+      "\r\n",
+      "\r\n",
+      "\r\n",
+      [
+       "p",
+       {}
+      ],
+      "\r\n",
+      "\r\n",
+      "\r\n",
+      "\r\n",
+      [
+       "a",
+       {
+        "href": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+       },
+       [
+        "figura",
+        {}
+       ],
+       [
+        "br",
+        {}
+       ],
+       "\r\n"
+      ],
+      "Esta obra está bajo una ",
+      [
+       "a",
+       {
+        "href": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+       },
+       "Licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional."
+      ],
+      "\r\n",
+      "\r\n",
+      "\r\n",
+      [
+       "p",
+       {}
+      ],
+      "\r\n"
+     ],
+     "\r\n",
+     [
+      "p",
+      {},
+      "\r\n",
+      [
+       "span",
+       {},
+       "Resumen:\r\n\t\t\t\t\t\t\t                           "
+      ],
+      [
+       "span",
+       {},
+       "Las \r\ncoyunturas de epidemia y de pandemia ponen al descubierto la desigualdad\r\n en las sociedades, entre otros, a través de las diferencias en las \r\ntasas de morbilidad y de letalidad. Pero también constituyen momentos en\r\n que las representaciones, acerca de los pobres y de la pobreza, se \r\nmanifiestan con mayor claridad. El artículo estudia esta temática \r\ndurante dos pandemias en México, la del cólera en 1833 y la de la \r\ninfluenza española en 1918."
+      ],
+      "\r\n"
+     ],
+     "\r\n",
+     [
+      "p",
+      {},
+      "\r\n",
+      [
+       "span",
+       {},
+       "Palabras clave: "
+      ],
+      "pandemia, cólera, influenza española, pobreza.\r\n\t\t                         "
+     ],
+     "\r\n",
+     [
+      "p",
+      {
+       "lang": "en"
+      },
+      "\r\n",
+      [
+       "span",
+       {},
+       "Abstract:\r\n\t\t\t\t\t\t                           "
+      ],
+      [
+       "span",
+       {},
+       "Epidemic \r\nand pandemic situations expose inequality in societies, among other \r\nthings, through differences in morbidity and mortality rates. But they \r\nalso constitute moments in which representations about the poor and \r\npoverty are more clearly manifested. The article studies this issue \r\nduring two pandemics in Mexico, that of cholera in 1833 and that of \r\nSpanish influenza in 1918."
+      ],
+      "\r\n"
+     ],
+     "\r\n",
+     [
+      "p",
+      {},
+      "\r\n",
+      [
+       "span",
+       {},
+       "Keywords: "
+      ],
+      "pandemic, cholera, Spanish influenza, poverty.\r\n                                "
+     ],
+     "\r\n"
+    ],
+    "\r\n"
+   ],
+   "\r\n",
+   [
+    "span",
+    {
+     "id": "t-articulo-body"
+    },
+    "\r\n",
+    [
+     "p",
+     {},
+     "\r\n"
+    ],
+    [
+     "p",
+     {},
+     "Es lógico, lo habitual es morir, y morir solo es \r\nalarmante cuando las muertes se multiplican,   una guerra, una epidemia,\r\n por ejemplo. Es decir, cuando se salen de la rutina."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "José Saramago, ",
+     [
+      "span",
+      {},
+      "Las intermitencias de la muerte"
+     ],
+     " (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964005_ref42",
+       "id": "t-llamada-redalyc_314964005_ref42-1"
+      },
+      "2005"
+     ],
+     ")."
+    ],
+    "\r\n",
+    [
+     "p",
+     {}
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "En la euforia optimista promovida por la ideología \r\ndel progreso, se pensó que llegaría el día en que los episodios \r\nepidémicos tal como se habían presentado en el pasado no se volverían a \r\nconocer. La peste negra que prácticamente despobló a Europa en la mitad \r\ndel siglo XIV y la viruela que durante siglos asoló al mundo quedarían \r\nen calidad de imágenes de un pasado irrepetible ya que el conocimiento \r\ncientífico lograría vencer las plagas mortíferas. Ciertamente, varias \r\nenfermedades que antaño asolaron a la humanidad podrían ser eliminadas: \r\nel cólera no debería existir si todos los pobladores del planeta \r\ntuvieran acceso al agua potable; la tuberculosis podría colocarse en el \r\nmuseo de la historia de las patologías si todos tuvieran una \r\nalimentación adecuada y dispusieran de medios higiénicos de vida, etc. \r\nEl famoso libro de Alfred (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964005_ref11",
+       "id": "t-llamada-redalyc_314964005_ref11-1"
+      },
+      "1989"
+     ],
+     ") se tituló ",
+     [
+      "span",
+      {},
+      "America’s Forgotten Pandemic "
+     ],
+     "(La\r\n pandemia olvidada de Estados Unidos) para referirse a aquella de \r\ninfluenza de 1918-1919. Probablemente, ese episodio letal había sido \r\ndesterrado de la memoria colectiva cuando se escribió esa investigación,",
+     [
+      "a",
+      {
+       "href": "#t-fn1",
+       "id": "t-llamada-fn1-1"
+      },
+      [
+       "sup",
+       {},
+       "1"
+      ]
+     ],
+     "\r\n pero la reaparición del H1N1 en 2009 y, sobre todo, la pandemia de la \r\ncovid-19 hizo voltear la mirada a esos fenómenos e, incluso, interesarse\r\n sobre experiencias similares pertenecientes a pasados remotos, no solo \r\npor sus implicaciones en la salud de los seres humanos, sino por causas \r\nmás utilitarias de cálculo económico (costos de los seguros de vida, \r\ninterrupción de los circuitos comerciales, etc.).",
+     [
+      "a",
+      {
+       "href": "#t-fn2",
+       "id": "t-llamada-fn2-1"
+      },
+      [
+       "sup",
+       {},
+       "2"
+      ]
+     ],
+     "\r\n ¿Acaso la historia de las epidemias podía ser útil, a pesar de las \r\ndiferencias contextuales, para anticiparse a escenarios cataclísmicos \r\ncomo aconteció en el pasado?"
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Así como la muerte forma parte de la vida, las \r\nenfermedades, epidémicas o no, también lo son. Enfermedades nuevas \r\nseguirán apareciendo al igual que el esfuerzo científico por curarlas y \r\nocasionalmente erradicarlas. Pero su aparición no es un hecho atribuible\r\n exclusivamente a causas de evolución biológica, sino mediadas por \r\ncontextos económico-sociales. Hoy en día, tras la pandemia de la \r\ncovid-19, sabemos que esta no es resultado de una conspiración china \r\nfraguada en un laboratorio con el objeto de debilitar a los Estados \r\nUnidos, sino que, dicen algunos, es el efecto de la devastación de la \r\nnaturaleza que produjo que virus que se encontraban en ciertas especies \r\nde animales se transmitieran al humano. Ello es igual de evidente con \r\nlas inundaciones u otras catástrofes que nos golpean con cada vez mayor \r\nintensidad. Según Maristella Svampa (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964005_ref47",
+       "id": "t-llamada-redalyc_314964005_ref47-1"
+      },
+      "2021"
+     ],
+     "):"
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "\r\n"
+    ],
+    [
+     "p",
+     {},
+     "La pandemia visibilizó el vínculo estrecho entre \r\ncrisis socioecológica, modelos de mal desarrollo y salud. Detrás del \r\ncovid-19 se halla la problemática de la deforestación, esto es, la \r\ndestrucción de ecosistemas que expulsa a animales silvestres de sus \r\nentornos naturales y libera virus zoonóticos que estuvieron aislados \r\ndurante milenios, poniéndolos en contacto con otros animales y humanos \r\nen entornos urbanizados y posibilitando así el salto interespecie \r\n(párrafo 3)."
+    ],
+    "\r\n",
+    [
+     "p",
+     {}
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Lo que quiero sostener es que las epidemias exacerban\r\n escenarios sociales de desigualdad que podían hasta entonces estar \r\nrelativamente opacados o silenciados. Sin embargo, no me detendré en las\r\n consecuencias que las pandemias pueden tener sobre la distribución del \r\ningreso y que ya han sido ampliamente estudiadas por Walter Scheidel (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964005_ref43",
+       "id": "t-llamada-redalyc_314964005_ref43-1"
+      },
+      "2017"
+     ],
+     "),\r\n quien sostiene que estas tuvieron un efecto igualador en la Antigüedad y\r\n en la Edad Media a raíz de la dramática disminución de la mano de obra y\r\n el consiguiente mejoramiento del poder de negociación de los \r\ntrabajadores para obtener más elevadas remuneraciones. Algo semejante, \r\naunque de efectos de más corta duración, habría tenido lugar en Estados \r\nUnidos tras la pandemia de influenza de 1918-1919.",
+     [
+      "a",
+      {
+       "href": "#t-fn3",
+       "id": "t-llamada-fn3-1"
+      },
+      [
+       "sup",
+       {},
+       "3"
+      ]
+     ],
+     "\r\n No es el caso de la pandemia actual. Por lo demás, como hoy lo sabemos,\r\n la pandemia de la covid-19 es una poderosa palanca de reestructuración \r\ndel capitalismo que va en el sentido de una descomunal concentración del\r\n ingreso. Vale decir, los superricos de la prepandemia son, en la \r\nactualidad, muchísimo más ricos y las mayorías mucho más pobres. \r\nMientras que 80 millones de estadounidenses perdían su trabajo entre \r\nmarzo de 2020 y febrero de 2021, 15 multimillonarios veían crecer sus \r\nfortunas en 563 mil millones de dólares, o sea, en un 82 %."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Es cierto, como se repite en el lenguaje cotidiano, \r\nque las epidemias y las pandemias no respetan diferencias de edad, de \r\nnacionalidad y de fortuna. Sucumben hombres y mujeres, jóvenes y viejos,\r\n ricos y pobres. Pero las epidemias no son tan democráticas como \r\nfrecuentemente se afirma.",
+     [
+      "a",
+      {
+       "href": "#t-fn4",
+       "id": "t-llamada-fn4-1"
+      },
+      [
+       "sup",
+       {},
+       "4"
+      ]
+     ],
+     " Según el caso, \r\nmueren más hombres que mujeres, menos niños que adultos, sobre todo \r\nfallecen y enferman más hombres desvalidos y más adultos pobres. En los \r\ntiempos de la peste negra y en los inmediatamente posteriores, es decir,\r\n a mediados del siglo XIV en Europa, dicen Guido Alfani y Tommy Murphy (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964005_ref1",
+       "id": "t-llamada-redalyc_314964005_ref1-1"
+      },
+      "2017"
+     ],
+     "), la peste actuó como un ",
+     [
+      "span",
+      {},
+      "asesino universal"
+     ],
+     ", pero a partir del siglo XV la enfermedad adquirió un carácter social, afectando primordialmente a los pobres.",
+     [
+      "a",
+      {
+       "href": "#t-fn5",
+       "id": "t-llamada-fn5-1"
+      },
+      [
+       "sup",
+       {},
+       "5"
+      ]
+     ],
+     "\r\n"
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Las grandes catástrofes visibilizan la condición en \r\nque vive una porción considerable de los miembros de la sociedad y esta,\r\n a su vez, genera explicaciones de la pobreza y de los pobres: ¿son \r\nobjeto de compasión? ¿Es su conducta consuetudinaria la causa de su \r\ndesgracia?. Por ello, las epidemias son reveladoras de las \r\nrepresentaciones que las clases acomodadas elaboran acerca de los \r\npobres. Las representaciones sociales acerca de los pobres no son \r\nestáticas, sino que están atravesadas por cambios mucho más lentos que \r\nlas transformaciones económicas. Un poco menos de un siglo transcurre \r\nentre la primera pandemia de cólera del siglo XIX y la de la influenza \r\ncontemporánea de la Primera Guerra Mundial y sin embargo se puede \r\ncomprobar una continuidad de la matriz primordial de las \r\nrepresentaciones acerca de los pobres. Más aún, podemos encontrar un \r\ncierto aire de parentesco con las narraciones de los albores de la \r\nmodernidad burguesa. La noción del pobre del medievalismo europeo teñida\r\n de valores cristianos para los cuales la caridad constituye una \r\nobligación, misma que atestigua la profunda religiosidad del donante y \r\nla certeza de la salvación de su alma, cederá lentamente ante la \r\nsupremacía que adquirirá en la modernidad burguesa el imperativo del \r\ntrabajo. A partir de ese momento, se establecerá la estricta diferencia \r\nentre ",
+     [
+      "span",
+      {},
+      "pobres"
+     ],
+     ", vale decir, los que \r\nefectivamente se encuentran imposibilitados de trabajar y pueden ser \r\nbeneficiarios de la ayuda y aquellos que simulan alguna incapacidad y \r\nque, consiguientemente, deben ser asignados a un centro de trabajo de \r\nmodo obligatorio, o sea, forzado.",
+     [
+      "a",
+      {
+       "href": "#t-fn6",
+       "id": "t-llamada-fn6-1"
+      },
+      [
+       "sup",
+       {},
+       "6"
+      ]
+     ],
+     " La \r\nceleridad con que estas disposiciones emanadas del poder público \r\npenetran en las prácticas sociales depende del grado de arraigo de los \r\nvalores religiosos. En 1845, un decreto del Departamento del Distrito \r\nestablece la prohibición de la mendicidad, misma que es reveladora, como\r\n señala Sonia Pérez Toledo (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964005_ref36",
+       "id": "t-llamada-redalyc_314964005_ref36-1"
+      },
+      "2011"
+     ],
+     "),\r\n del avance de la secularización “que ya no concibe a la caridad \r\n(tradicional valor católico) como un deber de los ricos y un derecho de \r\nlos pobres” (p. 160). Todavía, medio siglo después, en el México \r\nporfiriano, se pretendió sancionar tanto a los sujetos \r\nindiscriminadamente caritativos como a los que imploraban una limosna: \r\nel intento fue infructuoso durante largo tiempo aún. En otras palabras, \r\nla secularización del pobre y de la pobreza es un proceso que se \r\nextiende más allá de la voluntad política de su realización efectiva."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Las dos epidemias a las que me referiré en este texto\r\n están lejos de haber sido las únicas del siglo XIX y principios del XX.\r\n El cólera, particularmente, tuvo varias ",
+     [
+      "span",
+      {},
+      "reapariciones "
+     ],
+     "en\r\n el mapa sanitario de México y el mundo. A mediados de siglo XIX, se \r\nhizo presente con particular ímpetu nuevamente y con menor intensidad en\r\n años ulteriores. La influenza también nos volvió a visitar después de \r\n1918-1919, tal como esta generación lo sabe puesto que ya vivía en 2009.\r\n Pero en 1833 y en 1918 se desconocían, por lo menos en Occidente,",
+     [
+      "a",
+      {
+       "href": "#t-fn7",
+       "id": "t-llamada-fn7-1"
+      },
+      [
+       "sup",
+       {},
+       "7"
+      ]
+     ],
+     "\r\n sino estas enfermedades, sí sus causas y por ello sorprendió a la \r\nsociedad en su conjunto y dejaron desarmados al gremio médico y a la \r\nadministración pública.",
+     [
+      "a",
+      {
+       "href": "#t-fn8",
+       "id": "t-llamada-fn8-1"
+      },
+      [
+       "sup",
+       {},
+       "8"
+      ]
+     ],
+     " También aquí \r\nradica el interés de la elección de ambas fechas porque en \r\ncircunstancias como estas la identificación de culpables genera, o \r\nreactiva, representaciones acerca de un grupo social, como sucedió \r\ndurante la peste negra contra la población judía. Además, la epidemia de\r\n cólera estuvo precedida por una de tifo en 1814, en medio de la \r\ninsurgencia independentista y la contraofensiva realista, así como la de\r\n influenza en 1918 también llegó poco después de superar la de tifo \r\ndurante el fragor revolucionario."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Un poco más de diez años habían pasado en 1833 desde \r\nel final de la guerra de independencia que implicó severas consecuencias\r\n económicas, mientras que a su término los conflictos políticos se \r\nmultiplicaron junto con levantamientos y asonadas militares que \r\nabsorbían cantidades ingentes de los recursos fiscales del gobierno y, \r\npor lo mismo, impedían la acción pública sanitaria.",
+     [
+      "a",
+      {
+       "href": "#t-fn9",
+       "id": "t-llamada-fn9-1"
+      },
+      [
+       "sup",
+       {},
+       "9"
+      ]
+     ],
+     "\r\n La influenza arribó a México en medio de la contienda revolucionaria. \r\nAunque el constitucionalismo presidido por Venustiano Carranza ya se \r\nperfilaba como vencedor sobre los ejércitos populares de Emiliano Zapata\r\n y Francisco Villa, estaba todavía lejos de establecerse la autoridad \r\npolítica del llamado Varón de Cuatro Ciénegas."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "En lo que concierne a las dos epidemias que \r\nanalizaré, la cuantificación de los contagios y de los decesos es una \r\nempresa arriesgada, tanto por las técnicas de registro de la época como \r\npor la imprecisión en la clasificación de las causas de las enfermedades\r\n y de las muertes resultantes. Es la labor titánica que enfrentan los \r\ndemógrafos históricos."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Pero, además, nos enfrentamos al problema de \r\ndistinguir quiénes son los contagiados y los fallecidos, es decir, \r\nprecisar los estratos socioeconómicos más o menos afectados. En este \r\ncaso, los historiadores se han concentrado en el estudio de las \r\npandemias en las ciudades donde, a partir de los patrones de segregación\r\n urbana y comparándolos con los registros de mortalidad por parroquia en\r\n el siglo XIX o por demarcación en el XX, pudieron establecer la \r\ndiferencia de tasas de morbilidad y mortalidad de acuerdo con el perfil \r\nsocioeconómico de la población asentada en cada uno de los lugares. De \r\neste modo, resulta factible aproximarse al conocimiento del carácter \r\nclasista de la distribución de la enfermedad y de la muerte."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Cuando la investigación se aventura en un paisaje \r\nplagado de enfermedades epidémicas y de muertes masivas se corre el \r\nriesgo de confinarse en el registro de sus dimensiones cuantitativas, \r\nopacando así que lo que interesa al historiador es la vida y no la \r\nmuerte, como dice Louis Chevalier (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964005_ref8",
+       "id": "t-llamada-redalyc_314964005_ref8-1"
+      },
+      "1978"
+     ],
+     "): “La medición de la muerte no tiene interés sino porque es la única y más incuestionable medición de la vida” (p. 547).",
+     [
+      "a",
+      {
+       "href": "#t-fn10",
+       "id": "t-llamada-fn10-1"
+      },
+      [
+       "sup",
+       {},
+       "10"
+      ]
+     ],
+     "\r\n Ello no implica desdeñar la precisión de la estadística de mortalidad, \r\naun cuando resulta siempre ser un terreno pantanoso. Incluso hoy, cuando\r\n se dispone de métodos de registro extremadamente sofisticados y de \r\ninstituciones de salud que formalmente cubren a toda la población, los \r\ndatos de mortalidad por la covid-19 son objeto de controversia \r\nencarnizada y escenario de disputa política."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "En todo caso, es el rompecabezas de, nuevamente, los \r\ndemógrafos históricos quienes batallan con fuentes de poca confiabilidad\r\n (periódicos, reportes médicos con base en diagnósticos imprecisos, \r\nregistros parroquiales, etc.) en lo que concierne a los siglos \r\nanteriores al XX y, aun así. No es objeto de este texto, por lo tanto, \r\ncontribuir con estadísticas más refinadas de mortalidad y de morbilidad,\r\n sino asumir las proporcionadas por diversas fuentes con el objeto de \r\nanalizar su distribución entre clases sociales."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "La rapidez con que un brote epidémico en algún rincón\r\n del planeta deviene pandemia constituye una expresión nítida de la \r\ndensidad de intercambios mercantiles o de movilidad de las personas. La \r\ncartografía de la difusión de un microbio a través de la Tierra coincide\r\n con aquella de las redes de relaciones entre regiones del mundo.",
+     [
+      "a",
+      {
+       "href": "#t-fn11",
+       "id": "t-llamada-fn11-1"
+      },
+      [
+       "sup",
+       {},
+       "11"
+      ]
+     ],
+     "\r\n Así, por ejemplo, tras llegar el cólera a Nueva Orleans, pasó muy poco \r\ntiempo para que apareciera el primer caso en la península de Yucatán con\r\n la cual ese puerto sureño de Estados Unidos tenía un estrecho vínculo \r\ncomercial, pero igualmente a Tampico, desde donde se difundió siguiendo \r\nuna de las rutas comerciales más transitadas de la época.",
+     [
+      "a",
+      {
+       "href": "#t-fn12",
+       "id": "t-llamada-fn12-1"
+      },
+      [
+       "sup",
+       {},
+       "12"
+      ]
+     ],
+     "\r\n Ni qué decir de la rapidez con que se difundió en el mundo el \r\ncoronavirus en los tiempos actuales de globalización capitalista, o sea,\r\n de flujos inconmensurables de mercancías y de corrientes migratorias. \r\nBasta comparar las fechas de aparición de la enfermedad y su arribo a \r\nMéxico: mientras que el cólera tocó tierras parisinas en marzo de 1832, \r\ncasi un año después de pasar por Alemania y Austria, en México los \r\nprimeros casos se registraron a finales de junio del año siguiente. La \r\nprimera ola de influenza española afectó a la población estadounidense \r\nen marzo de 1918 y en México casi a la par de la segunda ola en octubre,\r\n mientras que la covid-19 provocó un primer caso en China a finales de \r\nnoviembre de 2019 y uno en México tres meses después. Habría que agregar\r\n que, así como los microbios viajan, también lo hacen las novedades \r\nmédicas, no siempre eficaces, pero que proporcionan más elementos \r\ndiagnósticos y terapéuticos."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Por último, una aclaración sobre, por lo menos, dos \r\ngrandes ausencias en el texto que se leerá a continuación. En primer \r\nlugar, las fuentes disponibles no permitieron estudiar cómo los pobres \r\nconstruyeron imágenes, ideas, etc. acerca de las epidemias que los \r\ndiezmaban más que al resto de la sociedad. Puede parecer entonces que \r\nson concebidos únicamente como víctimas pasivas del desdén y la \r\nestigmatización de las elites. Nada más contrario a mi postura teórica, \r\npero esta problemática quedará por lo pronto como una asignatura \r\npendiente. En segundo término, una institución de poder con enorme \r\ngravitación en la vida social mexicana del siglo XIX y del XX, la \r\nIglesia católica, tampoco pudo ser estudiada debido a la secrecía que \r\nmantiene sobre sus fondos documentales. Al respecto, no puedo asegurar \r\nque acreditaré en el futuro la asignatura a menos que la Iglesia \r\nmodifique su postura hermética respecto a los ojos indiscretos como los \r\nmíos."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "\r\n",
+     [
+      "span",
+      {},
+      "El cólera morbo de 1833: vivir pobremente y morir como pobre"
+     ],
+     "\r\n"
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "La epidemia de cólera de ese año inició en Rusia, \r\naunque probablemente haya sido una oleada –rebrote, diríamos hoy– de \r\notra en 1829 originada una década antes en las aguas del río Ganges en \r\nla India donde era endémico. La noticia de su existencia arribó antes \r\nque el microbio, aunque reinaba cierta confianza en que no lograría \r\ncruzar alguno de los océanos que separan a México del continente \r\nasiático y del europeo. En última instancia, habría que aplicar severas \r\nmedidas de cuarentena a las embarcaciones que pretendieran atracar en \r\nlos puertos mexicanos o de plano evitar su llegada. La posible adopción \r\nde la medida precautoria suscitó en otros países del área, aunque \r\ntambién en los europeos, reacciones de los comerciantes de géneros \r\nextranjeros quienes advirtieron la amenaza de la interrupción de sus \r\nnegocios y optaron por sostener una explicación médica que no los \r\nafectara.",
+     [
+      "a",
+      {
+       "href": "#t-fn13",
+       "id": "t-llamada-fn13-1"
+      },
+      [
+       "sup",
+       {},
+       "13"
+      ]
+     ],
+     "\r\n"
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "El contexto sociopolítico del momento era de lo más \r\ninoportuno, como ya fue mencionado: amén de revueltas contra el \r\ngobierno, entre las que destacan la encabezada por Arista y Durán, las \r\npropuestas del vicepresidente Valentín Gómez Farías, a la sazón \r\nencargado del Ejecutivo nacional, suscitó la reacción de la Iglesia que \r\nse valió de la epidemia para atribuirla a un castigo divino a las \r\nmedidas sacrílegas adoptadas por el político liberal.",
+     [
+      "a",
+      {
+       "href": "#t-fn14",
+       "id": "t-llamada-fn14-1"
+      },
+      [
+       "sup",
+       {},
+       "14"
+      ]
+     ],
+     "\r\n Los decretos de expulsión de los españoles dictados unos años antes \r\nhabían implicado la partida de muchos de ellos junto con sus caudales. \r\nEn síntesis, además de tener que enfrentarse a una enfermedad \r\ndesconocida, el gobierno contaba con raquíticos recursos fiscales para \r\nsufragar los gastos de una práctica sanitaria eficaz. Por esa razón, se \r\ntuvo que invocar la ",
+     [
+      "span",
+      {},
+      "generosidad "
+     ],
+     "de los potentados de la época.",
+     [
+      "a",
+      {
+       "href": "#t-fn15",
+       "id": "t-llamada-fn15-1"
+      },
+      [
+       "sup",
+       {},
+       "15"
+      ]
+     ],
+     "\r\n Fue así celebrada la donación de 150 pesos que tuvo a bien realizar \r\nPedro Terreros, conde de Regla, para aliviar la suerte de los ",
+     [
+      "span",
+      {},
+      "epidemiados"
+     ],
+     " (Verdadera nobleza y filantropía. ",
+     [
+      "span",
+      {}
+     ],
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964005_ref58",
+       "id": "t-llamada-redalyc_314964005_ref58-1"
+      },
+      [
+       "span",
+       {},
+       "El Fénix de la Libertad"
+      ],
+      ", 14 de agosto de 1833"
+     ],
+     ").\r\n Otro tanto ofreció el miembro de una de las familias más ricas del \r\npaís: José María Fagoaga dispuso socorrer a los enfermos de su manzana y\r\n donar 200 pesos (Acta de cabildo del 25 de junio de 1833. ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964005_ref50",
+       "id": "t-llamada-redalyc_314964005_ref50-1"
+      },
+      "AHCDMX, F.A., vol. 153A"
+     ],
+     ")."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Las cifras de mortalidad durante la pandemia, aun si \r\nhay varias razones para dudar de su total precisión, constituyen un \r\nindicador útil de la gravedad de la enfermedad. En Guadalajara, \r\nfallecieron 3 257 personas en una población total de 35 744. Vale decir,\r\n según Lilia Oliver (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964005_ref34",
+       "id": "t-llamada-redalyc_314964005_ref34-1"
+      },
+      "1992"
+     ],
+     ") la \r\ntasa de mortalidad fue de 10 %, pero en Campeche fue de 20 %. En Puebla,\r\n el número de decesos por cólera ascendió a 3 049, lo cual significó un \r\n8 % del total de los angelopolitanos. A otras regiones y ciudades, les \r\nfue ",
+     [
+      "span",
+      {},
+      "mejor"
+     ],
+     ". Es el caso de Monterrey que tuvo\r\n una mortalidad de menos de 5 %. En cambio, Monclova en Coahuila tuvo \r\nuna tasa algo menor de 10 % al igual que el estado de Querétaro. Pero, \r\nmencionan Manuel Rubio y Lizbeth Tzuc (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964005_ref40",
+       "id": "t-llamada-redalyc_314964005_ref40-1"
+      },
+      "1995"
+     ],
+     ")\r\n que la región de Teabo, en Yucatán, perdió al 90 % de sus pobladores y \r\nen la ciudad de Mérida, el barrio de Santa Catarina desapareció. Estas \r\ncifras corresponden a todos los meses durante los cuales estuvo presente\r\n la pandemia. Pero el número de muertos se concentró particularmente \r\ndurante los meses veraniegos. Así, por ejemplo, reportaba el periódico ",
+     [
+      "span",
+      {},
+      "El Demócrata"
+     ],
+     " (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964005_ref54",
+       "id": "t-llamada-redalyc_314964005_ref54-1"
+      },
+      "7 de agosto de 1833"
+     ],
+     ")\r\n que durante los días 15 y 16 de julio se habían registrado solo dos \r\nmuertos por día, pero esa cifra había ido aumentando a lo largo de la \r\nsegunda quincena de modo que para el día 23 ya eran 56 decesos. En \r\nMérida, el aumento de los fallecimientos fue aún más alarmante: el día \r\n16 de julio eran 30 los muertos de cólera, mientras que para el día 24 \r\nya eran 178 diarios."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Si bien desde el 21 de junio se recibieron noticias \r\nen la ciudad de México acerca de la muerte de 7 a 8 personas diarias en \r\nTampico, la decisión de asumir acciones preventivas fue dilatada."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "No me detendré largamente en el repertorio, vastísimo\r\n por lo demás, de recetas, consejos, advertencias, etc. que fueron \r\npublicándose a lo largo de los meses siguientes cuando la enfermedad se \r\nhizo presente en bandos o en cartas a los periódicos de la época y cuyos\r\n signatarios eran simples particulares o médicos. En lo que se refiere a\r\n los ",
+     [
+      "span",
+      {},
+      "remedios"
+     ],
+     ", se aconsejaron tanto la \r\nlimpieza de las viviendas como las fogatas con hierbas aromáticas para \r\nevitar que los miasmas invadieran las poblaciones. En efecto, aun si la \r\nvieja teoría miasmática estaba en retirada en la ciencia médica, se \r\nacudió a ella ante el desconocimiento de una acción más eficaz. Según un\r\n ciudadano que envió una carta al periódico:"
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "\r\n"
+    ],
+    [
+     "p",
+     {},
+     "Es tan terrible la fuerza de este gas encerrado en \r\nun lugar donde hay por ejemplo veinte cadáveres, que llegando a \r\nfermentarse sus jugos a un tiempo, rompe la superficie de la tierra el \r\nhidrógeno sulfurado y subiendo por las hindiduras (sic) infesta de tal \r\nmodo el aire, que tocando al pulmón es la muerte en el acto \r\n(Comunicados. ",
+     [
+      "span",
+      {}
+     ],
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964005_ref59",
+       "id": "t-llamada-redalyc_314964005_ref59-1"
+      },
+      [
+       "span",
+       {},
+       "El Fénix de la Libertad"
+      ],
+      ", 27 de agosto de 1833"
+     ],
+     ")."
+    ],
+    "\r\n",
+    [
+     "p",
+     {}
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "En Puebla, el gobernador emitió un bando en el cual, \r\nentre otros, “ni en las calles ni en las plazas, en ningún sitio \r\npúblico, se permitirá el desahogo de las necesidades corporales” (",
+     [
+      "span",
+      {}
+     ],
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964005_ref75",
+       "id": "t-llamada-redalyc_314964005_ref75-1"
+      },
+      [
+       "span",
+       {},
+       "La Antorcha"
+      ],
+      ", 27 de junio de 1833"
+     ],
+     ").\r\n Se aconsejó no comer verduras acuosas y frutas e incluso se prohibió su\r\n introducción a algunas ciudades. Alguien señaló que una infusión de \r\nmoscas era el remedio idóneo."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "En algunos escritos, las recomendaciones para \r\nprecaverse de la enfermedad distinguen aquellas dirigidas a clases \r\nacomodadas de las aconsejadas a los pobres en función de los recursos \r\neconómicos disponibles. Es así como para estar abrigados, a unas se les \r\nsolicitaba usar franelas y escarpines de lana y a los otros una faja de \r\nbayeta o de lanilla; las primeras debían tomar solamente un té como \r\ncena, mientras que, según Pedro del Villar (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964005_ref49",
+       "id": "t-llamada-redalyc_314964005_ref49-1"
+      },
+      "1833"
+     ],
+     ")\r\n “los pobres que quieran imitar este uso pueden suplir con la yerba \r\nbuena ó epasote el uso del té que aconsejamos” (p. 7). Asimismo, a estos\r\n últimos se les restringía alimentos como los frijoles y las habas por \r\nsu difícil digestión al igual que los chicharrones y bebidas como el \r\ntepache y la chicha que “deben proscribirse absolutamente por la \r\npolicía” (Oficio con que se presentaron estos avisos a la Dirección de \r\nSanidad por el Presidente de la comisión encomendada por ella. ",
+     [
+      "span",
+      {}
+     ],
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964005_ref76",
+       "id": "t-llamada-redalyc_314964005_ref76-1"
+      },
+      [
+       "span",
+       {},
+       "La Antorcha"
+      ],
+      ", 29 de junio de 1833"
+     ],
+     ")."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Aunque existe un buen número de investigaciones sobre\r\n la pandemia del cólera de 1833 en México, no todas se enfocan al \r\nobjetivo que nos hemos propuesto. El trabajo más voluminoso sobre el \r\ntema y preocupado específicamente sobre la desigualdad ante la \r\nenfermedad y la muerte por cólera es el de Lourdes Márquez (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964005_ref25",
+       "id": "t-llamada-redalyc_314964005_ref25-1"
+      },
+      "1991"
+     ],
+     ")\r\n quien estudió con gran detalle la epidemia en la Ciudad de México. De \r\nacuerdo con sus cálculos, en 1832, hubo en la capital 3 700 defunciones;\r\n al año siguiente esa cantidad ascendió a 9 445, es decir, 65,3 % de las\r\n muertes pueden ser atribuidas al cólera.",
+     [
+      "a",
+      {
+       "href": "#t-fn16",
+       "id": "t-llamada-fn16-1"
+      },
+      [
+       "sup",
+       {},
+       "16"
+      ]
+     ],
+     "\r\n"
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Ahora bien, el análisis de las defunciones ocurridas \r\nen cada parroquia revela el carácter clasista de su distribución. Las \r\ncifras más elevadas de entierros corresponden al suroriente de la \r\nciudad, la parroquia de San José, donde el incremento es de 230 %. En el\r\n oeste de la ciudad, en la parroquia de Santa Cruz y Soledad, el aumento\r\n es de 158,8 %. Estos números contrastan con los entierros en otras \r\ndemarcaciones eclesiásticas. Así, en la de Santa Catarina, en el centro \r\nde la ciudad, el aumento es de 33,28 % y en San Miguel y San Pablo, \r\nigualmente en el centro, de 37,57 % y 49,10 %, respectivamente."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "La distribución desigual de las muertes puede ser atribuida según ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964005_ref25",
+       "id": "t-llamada-redalyc_314964005_ref25-2"
+      },
+      "Márquez (1991)"
+     ],
+     "\r\n al origen diferente del agua consumida por la población. Por un lado, \r\nhabía fuentes de agua públicas y, por otro, las mercedes de agua \r\ninternas a las viviendas y por las cuales se pagaba. En estas \r\ndemarcaciones, señala ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964005_ref36",
+       "id": "t-llamada-redalyc_314964005_ref36-2"
+      },
+      "Pérez Toledo (2011)"
+     ],
+     ", “vivía un mayor número de españoles, en ellas se obtenía la mayor parte de ingresos por concepto de rentas” (p. 28)."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "En cierto modo, las diversas fuentes de agua para \r\nconsumo humano constituían una expresión de la segmentación de la ciudad\r\n desde la época colonial tardía que consistía en un centro habitado por \r\nespañoles peninsulares, indios en las orillas y en las afueras y entre \r\nlos dos una franja o como diría María del Pilar Velasco (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964005_ref48",
+       "id": "t-llamada-redalyc_314964005_ref48-1"
+      },
+      "1984"
+     ],
+     ") “colchón de mezclados” (p. 324). En el primero de los tres espacios, las fuentes de agua ",
+     [
+      "span",
+      {},
+      "privadas"
+     ],
+     "\r\n eran más frecuentes en los barrios cercanos a la Plaza Mayor \r\ncorrespondientes a los cuarteles 13 y 14 donde la tasa de morbilidad \r\nosciló entre un 7,9 y un 12,4 %, mientras que en el nororiente de la \r\nciudad alcanzó un 61 %. En cambio, a las fuentes ",
+     [
+      "span",
+      {},
+      "públicas"
+     ],
+     " acudían personas que probablemente estaban ya contagiadas del ",
+     [
+      "span",
+      {},
+      "vibrio cholerae"
+     ],
+     "\r\n y contaminaban el agua o bien esta ya venía contaminada en su trayecto \r\npor los acueductos. Es así como la tasa de letalidad del cólera alcanzó \r\nun 20 %, es decir, una quinta parte de los contagiados falleció, \r\nmientras era mucho más baja en los barrios cercanos al centro de la \r\nciudad. Situación semejante se presentó en Tacubaya, contiguo a la \r\ncapital, donde se registró una sola defunción en el centro de la villa \r\nque, según Graciela Gaytán Herrera (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964005_ref17",
+       "id": "t-llamada-redalyc_314964005_ref17-1"
+      },
+      "1998"
+     ],
+     ")\r\n contaba con “[…] fuentes de agua potable privadas. En cambio, en los \r\nbarrios de San Pedro, La Piedad y la Santísima donde arribaban las aguas\r\n de Santa Fe después de ser utilizadas en los molinos se acumuló el 50 %\r\n de todas las muertes” (p. 117)."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "\r\n",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964005_ref48",
+       "id": "t-llamada-redalyc_314964005_ref48-2"
+      },
+      "Velasco (1984)"
+     ],
+     " confirma estos \r\ndatos demostrando que fue mayor la mortalidad en los barrios periféricos\r\n donde se localizaban los basureros. Así, mientras que la tasa de \r\nmortalidad en la parroquia de El Sagrario fue de 46,5 por mil, en los \r\nsuburbios alcanzó la cifra de 93 por mil habitantes.",
+     [
+      "a",
+      {
+       "href": "#t-fn17",
+       "id": "t-llamada-fn17-1"
+      },
+      [
+       "sup",
+       {},
+       "17"
+      ]
+     ],
+     "\r\n"
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Indudablemente, el agua contaminada con el agente del cólera, el ",
+     [
+      "span",
+      {},
+      "vibrio"
+     ],
+     ",\r\n explica buena parte de los casos de enfermedad, pero simultáneamente, \r\nla disponibilidad de agua pura dependía de condiciones socioeconómicas \r\nperfectamente diferenciadas. En la ciudad de México, el agua que era \r\nrecogida en una de las más concurridas fuentes públicas, la de Salto del\r\n Agua, arribaba a este punto por acueductos no cubiertos arrastrando \r\nenorme cantidad de impurezas que convertían la corriente en un “charco \r\nmiasmático” (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964005_ref44",
+       "id": "t-llamada-redalyc_314964005_ref44-1"
+      },
+      "Shaw, 1975, p. 140"
+     ],
+     ").\r\n Pero también otras fuentes de agua adolecían de la misma problemática: \r\nen el Canal de la Viga que surtía de agua a los barrios de San Gerónimo y\r\n de Candelaria se vertía los desperdicios de curtidores, fabricantes de \r\nvelas y de almidón y vendedores de carne de puerco (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964005_ref44",
+       "id": "t-llamada-redalyc_314964005_ref44-2"
+      },
+      "Shaw, 1975"
+     ],
+     ").\r\n A ello se agrega, por supuesto, que el desconocimiento de la etiología \r\ndel cólera hacía que el frecuente contacto con las heces de los enfermos\r\n provocara el contagio de sus allegados."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "En la ciudad de Mérida, las diferencias en la \r\nmortalidad son atribuibles a la misma causa. En las elegantes viviendas \r\ndel centro los propietarios habían construido aljibes para la \r\nrecolección del agua de lluvia, mientras en los barrios ajenos a esta \r\ndemarcación, como el de San Sebastián, la población se surtía de un pozo\r\n comunal cerca del cual se encontraba un cenote donde desaguaba el agua \r\nutilizada en el centro de la capital yucateca. Es así como en este \r\nbarrio, según Victoria González Albertos (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964005_ref19",
+       "id": "t-llamada-redalyc_314964005_ref19-1"
+      },
+      "2015"
+     ],
+     ") la tasa de mortalidad fue de 34,38 % y en el centro alcanzó 2,9 %."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "La investigación sobre el cólera de 1833 en Tlaxcala \r\ndescubre, a su vez, un patrón de mortalidad diferente y causas también \r\ndiferentes de la muerte (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964005_ref31",
+       "id": "t-llamada-redalyc_314964005_ref31-1"
+      },
+      "Méndez, 2011"
+     ],
+     ").\r\n En esa entidad, los entierros en octubre de 1833, mes con un clima \r\ncálido-templado, fueron 87,24 % más elevados que los debidos a otros \r\npadecimientos. El investigador pone de relieve una causa de la \r\nmortalidad diferencial, a saber, la del tipo de vivienda. En las casas \r\ncon uno hasta tres pisos, la mortalidad fue inferior. Esto se debe a que\r\n corresponden a las clases más holgadas que disponen de más habitaciones\r\n para aislar a los enfermos y por lo tanto evitar el contagio."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "La segregación urbana no era un fenómeno nuevo en la ciudad de México",
+     [
+      "a",
+      {
+       "href": "#t-fn18",
+       "id": "t-llamada-fn18-1"
+      },
+      [
+       "sup",
+       {},
+       "18"
+      ]
+     ],
+     "\r\n o en otras ciudades, pero se acentuó a raíz de la guerra de \r\nindependencia cuando la capital recibió inmigrantes de otras provincias \r\naquejadas por el conflicto armado. Se instalaron de forma precaria en \r\nlos terrenos excéntricos de la ciudad. En sus memorias de la primera \r\nmitad del siglo XIX, Guillermo Prieto (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964005_ref38",
+       "id": "t-llamada-redalyc_314964005_ref38-1"
+      },
+      "1969"
+     ],
+     ")\r\n dedicó algunos fragmentos a la descripción de los parajes que más le \r\nimpresionaron: por la plazuela de Mixcalco, hay “zanjas rebosando \r\ninmundicia, anchos caños sembrados de restos de comida, ratas \r\ndespachurradas y algún can sacando los dientes, muerto, reventado por la\r\n cabalonga” (p. 85). De hecho, cualquier narración realista de la época \r\nde París o de Londres no difería grandemente del relato de ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964005_ref38",
+       "id": "t-llamada-redalyc_314964005_ref38-2"
+      },
+      "Prieto (1969)"
+     ],
+     ", como puede comprobarse en el escrito de Flora Tristan o en las novelas de Honoré de Balzac."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "La intervención sanitaria del poder público contenía \r\nmás intenciones que acciones efectivas. La fragilidad fiscal y política \r\nse reveló plenamente durante la pandemia: se tuvo que recurrir a las \r\naportaciones privadas para paliar las insuficiencias del erario y las \r\ninstrucciones giradas respecto a las medidas que se debían adoptar para \r\nfrenar los estragos de la pandemia no fueron obedecidas sino \r\nparcialmente. Sin embargo, dos casos contrastan con lo sucedido en la \r\nciudad de México. Según ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964005_ref34",
+       "id": "t-llamada-redalyc_314964005_ref34-2"
+      },
+      "Oliver (1992)"
+     ],
+     ", en Guadalajara:"
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "\r\n"
+    ],
+    [
+     "p",
+     {},
+     "[…] los habitantes de la ciudad fueron vigilados \r\nestrictamente por representantes del Ayuntamiento y por policías hasta \r\nel interior de sus casas, para que las disposiciones en cuanto a aseo y \r\nlimpieza de las calles y casas, alimentación y trabajo fueran cumplidas \r\n(p. 95)."
+    ],
+    "\r\n",
+    [
+     "p",
+     {}
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "El otro caso corresponde al pueblo de Bolonchenticul \r\nen Campeche. Ahí, el férreo confinamiento de la población por las \r\nautoridades que prohibió entrar a forasteros o a salir del lugar, \r\npermitió que no se registraran casos de cólera, a diferencia de otros \r\npoblados de la península yucateca.",
+     [
+      "a",
+      {
+       "href": "#t-fn19",
+       "id": "t-llamada-fn19-1"
+      },
+      [
+       "sup",
+       {},
+       "19"
+      ]
+     ],
+     "\r\n"
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Si bien hubo todavía algunos casos en diciembre y \r\nenero de 1834, lo peor de la epidemia había pasado. Efectivamente, los \r\nmeses cálidos son los propicios para la reproducción del ",
+     [
+      "span",
+      {},
+      "vibrio"
+     ],
+     ". Alan Hutchinson (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964005_ref21",
+       "id": "t-llamada-redalyc_314964005_ref21-1"
+      },
+      "1958"
+     ],
+     ")\r\n sostiene que la carta, en cierto modo profética, que el embajador \r\nbritánico remitió a su cancillería resultó acertada en su pronóstico: \r\n“Si el cólera apareciera en la capital, podemos anticipar los más \r\nterribles efectos entre las clases bajas debido a sus vidas \r\ndesordenadas, pobre alimentación y sucias y húmedas viviendas” (p. 152)."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Los pobres como amenaza"
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "\r\n",
+     [
+      "span",
+      {},
+      "Clases obreras y clases peligrosas"
+     ],
+     " (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964005_ref8",
+       "id": "t-llamada-redalyc_314964005_ref8-2"
+      },
+      "Chevalier, 1978"
+     ],
+     ")\r\n es el título de un clásico de la historiografía social sobre las \r\ndiferencias de tasas de mortalidad, indicadoras de las condiciones de \r\nvida, que prevalecían en el siglo XIX parisino. Precisamente, ese es el \r\nbinomio que se magnifica en el siglo XIX y en el XX en momentos \r\npandémicos: los pobres son el foco de infección y, en esa medida, son \r\npeligrosos.",
+     [
+      "a",
+      {
+       "href": "#t-fn20",
+       "id": "t-llamada-fn20-1"
+      },
+      [
+       "sup",
+       {},
+       "20"
+      ]
+     ],
+     " Las epidemias y las \r\npandemias confirman, entonces, el miedo que hay que tener a los pobres. \r\nEn términos generales, puede decirse que los pobres provocan miedo en \r\nlas clases acomodadas en dos circunstancias: cuando se rebelan y cuando \r\nse enferman, porque son factor de contagio. Su modo de vida, su \r\nignorancia sin límites, y su desenfreno sexual y etílico los hace presas\r\n fáciles del mal epidémico y de toda clase de calamidades que terminan \r\ncontagiando al sector ",
+     [
+      "span",
+      {},
+      "civilizado"
+     ],
+     " de la sociedad.",
+     [
+      "a",
+      {
+       "href": "#t-fn21",
+       "id": "t-llamada-fn21-1"
+      },
+      [
+       "sup",
+       {},
+       "21"
+      ]
+     ],
+     " Todavía a inicios de siglo XX, el periódico guanajuatense ",
+     [
+      "span",
+      {},
+      "Civilización"
+     ],
+     " reiteraba el mismo argumento:"
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "\r\n"
+    ],
+    [
+     "p",
+     {},
+     "Debe presumirse, lógicamente, que cuando la \r\nepidemia se difunda y llegue a nuestras clases humildes, \r\ntradicionalmente desaseadas e ignorantes de la higiene, debilitadas por \r\nel alcohol y no siempre bien nutridas, la mortalidad alcance \r\nproporciones desoladores en tales clases y por contagio rapidísimo en \r\nlas demás (En lucha contra la muerte,",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964005_ref52",
+       "id": "t-llamada-redalyc_314964005_ref52-1"
+      },
+      " 2 de noviembre de 1918"
+     ],
+     ")."
+    ],
+    "\r\n",
+    [
+     "p",
+     {}
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "El miedo a los pobres se hace extensivo a todo el ",
+     [
+      "span",
+      {},
+      "Oriente"
+     ],
+     ",\r\n en el sentido que le asigna Edward Said: “La Asia y la Africa parecen \r\nreclamar para si el funesto honor de ser la cuna o el lugar de los \r\nazotes pestilenciales que han devastado a la Europa en épocas \r\ndiferentes” (",
+     [
+      "span",
+      {}
+     ],
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964005_ref53",
+       "id": "t-llamada-redalyc_314964005_ref53-1"
+      },
+      [
+       "span",
+       {},
+       "El Demócrata"
+      ],
+      ", 5 de agosto de 1833"
+     ],
+     ")."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "¿Quiénes son pobres? Tal vez la pregunta debe ser formulada de otra manera: ¿Quiénes son los pobres?, es decir, la población ",
+     [
+      "span",
+      {},
+      "peligrosa"
+     ],
+     ".\r\n Los trabajadores, por ejemplo, son pobres, pero no son los pobres. La \r\ncategoría contiene en el siglo XIX un juicio más moralista que \r\nsociológico. Es precisamente la población que hay moralizar, desinfectar\r\n el espíritu para erradicar sus nocivas costumbres. Vicio y enfermedad \r\nse concentran en los pobres o, mejor dicho, se enferman más porque son \r\nviciosos.",
+     [
+      "a",
+      {
+       "href": "#t-fn22",
+       "id": "t-llamada-fn22-1"
+      },
+      [
+       "sup",
+       {},
+       "22"
+      ]
+     ],
+     " En una cartilla sanitaria de ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964005_ref15",
+       "id": "t-llamada-redalyc_314964005_ref15-1"
+      },
+      "1833"
+     ],
+     ", el doctor Manuel Jesús Febles atribuía las causas del cólera al miedo, el alcoholismo, ",
+     [
+      "span",
+      {},
+      "los excesos venéricos"
+     ],
+     "\r\n y a todo tipo de intemperancias. Por ello, los domingos y los lunes \r\neran los peores días para el cólera debido a los excesos cometidos en \r\nesas jornadas.",
+     [
+      "a",
+      {
+       "href": "#t-fn23",
+       "id": "t-llamada-fn23-1"
+      },
+      [
+       "sup",
+       {},
+       "23"
+      ]
+     ],
+     " De hecho, muchas de las \r\nexplicaciones en México de la causalidad de la enfermedad están \r\ninspiradas en obras francesas. Así, por ejemplo, decía un tesista galo: \r\n“Aquellos que han observado la epidemia han notado que el coito \r\npredisponía fuertemente al cólera […]. Se han conocido muchos ejemplos \r\nde jóvenes atacados por el cólera al salir de burdeles” (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964005_ref12",
+       "id": "t-llamada-redalyc_314964005_ref12-1"
+      },
+      "León Debat, 1833"
+     ],
+     ", p. 7)."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Desde inicios del siglo XIX, los trabajos pioneros de\r\n Louis René Villermé (1782-1863) evidenciaron el vínculo entre pobreza y\r\n enfermedad, mismos que, más tarde, se convertirían en la referencia de \r\ndisciplinas autónomas, a saber, la epidemiología y la medicina sociales.\r\n Pero ni Villermé ni sus continuadores se detuvieron en esa \r\nconstatación, sino que la asociación estadística descubierta les \r\npermitió dar cuenta de las condiciones de vida de amplias franjas de la \r\npoblación. Sí, ciertamente era la pobreza el factor explicativo de la \r\nmayor morbilidad y mortalidad, pero despojada de una concepción \r\nmoralista en que los pobres constituían no una clase, sino una raza \r\ndegenerada:",
+     [
+      "a",
+      {
+       "href": "#t-fn24",
+       "id": "t-llamada-fn24-1"
+      },
+      [
+       "sup",
+       {},
+       "24"
+      ]
+     ],
+     "\r\n"
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "\r\n"
+    ],
+    [
+     "p",
+     {},
+     "Aunque los trabajadores resultan ser víctimas de \r\nuna urbanización desenfrenada y de un capitalismo mortífero, que se \r\ntraduce en niveles altos de mortalidad infantil, son vistos como la \r\ncausa de su trágica situación debido a sus costumbres depravadas, el \r\nalcoholismo de los hombres, la liviandad de las mujeres y del descuido \r\nde los niños debido a la negligencia de sus padres (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964005_ref14",
+       "id": "t-llamada-redalyc_314964005_ref14-1"
+      },
+      "Fassin, 2020"
+     ],
+     ", traducción del autor).",
+     [
+      "a",
+      {
+       "href": "#t-fn25",
+       "id": "t-llamada-fn25-1"
+      },
+      [
+       "sup",
+       {},
+       "25"
+      ]
+     ],
+     "\r\n"
+    ],
+    "\r\n",
+    [
+     "p",
+     {}
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Sin embargo, como sucede casi siempre cuando los \r\nhallazgos científicos contradicen los pilares de la ideología dominante y\r\n los intereses de las clases poderosas, aquellos no se incorporan \r\ninmediatamente a las prácticas sociales y al repertorio de \r\nrepresentaciones sociales. En ese sentido, las coyunturas epidémicas o \r\npandémicas constituyen la oportunidad para refrendar y magnificar \r\nrepresentaciones endémicas en las élites respecto a los pobres. Aun si \r\nel número de fallecidos es impreciso como ya se ha dicho, sin duda las \r\nmuertes colectivas resultaron ser una imagen cotidiana y frecuente en la\r\n vida de los ciudadanos. Por esa razón, ",
+     [
+      "span",
+      {},
+      "El Fénix de la Libertad"
+     ],
+     " reprodujo un artículo de un rotativo neoyorquino titulado “Miedo de la Chólera” (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964005_ref57",
+       "id": "t-llamada-redalyc_314964005_ref57-1"
+      },
+      "28 de junio de 1833"
+     ],
+     "),\r\n que refería cómo la preocupación por contraer la enfermedad podía \r\nconducir a tener los síntomas. No obstante, “las clases inferiores que \r\nno tienen la sensibilidad de las altas, raras veces, por no decir nunca,\r\n padecen la chólera-fobia”. En cambio, esta se presentaba más \r\nfrecuentemente en las mujeres, predispuestas naturalmente a estas \r\nsugestiones del alma. La tosca personalidad de los subalternos no los \r\nvuelve temerarios, sino ignorantes, entre otros, al miedo, así como las \r\nmujeres, ",
+     [
+      "span",
+      {},
+      "sexo débil"
+     ],
+     ", sensibles a él, \r\nprecisamente, por ser débiles: el clasismo se conjuga de este modo con \r\nel sexismo. Para evitar esos temores, se ordenó que no se hiciera sonar \r\nlas campanillas que acompañaban el carro que transportaba cadáveres \r\nhacia el cementerio. El bando del 8 de agosto de 1833, emitido por \r\nIgnacio Martínez, Gobernador del Distrito Federal, dispuso la \r\nprohibición de “toque de agonías, el de dobles… que puedan infundir el \r\nterror y espanto en la población” (Decreto del Gobernador del Distrito \r\nFederal Ignacio Martínez, ASS, FSP, sección E C.1, exp.2).",
+     [
+      "a",
+      {
+       "href": "#t-fn26",
+       "id": "t-llamada-fn26-1"
+      },
+      [
+       "sup",
+       {},
+       "26"
+      ]
+     ],
+     "\r\n El mismo funcionario capitalino, días más tarde, solicitó “a los \r\nvecinos que tengan ‘proporción’ que se quemaran en las calles cuerno, \r\nocote ó cualquier otra materia propia para purificar el aire”."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "La opinión vertida por el periódico contrasta con la \r\ndel Dr. Febles, quien afirmaba la mayor susceptibilidad de los pobres \r\nante la muerte, es decir, más propensos a tener miedo. El comentario se \r\ncorresponde con el análisis de la literatura realizado por Jean Delumeau\r\n (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964005_ref13",
+       "id": "t-llamada-redalyc_314964005_ref13-1"
+      },
+      "2002"
+     ],
+     "), en la que el miedo, propio de las clases inferiores (el personaje emblemático sería Sancho Panza en ",
+     [
+      "span",
+      {},
+      "El Quijote"
+     ],
+     "), se diferencia de la virtud de la valentía de los caballeros nobles (vgr. ",
+     [
+      "span",
+      {},
+      [
+       "a",
+       {
+        "href": "#t-redalyc_314964005_ref78",
+        "id": "t-llamada-redalyc_314964005_ref78-1"
+       },
+       "Amadís de Gaula"
+      ]
+     ],
+     ", entre muchos otros ejemplos).",
+     [
+      "a",
+      {
+       "href": "#t-fn27",
+       "id": "t-llamada-fn27-1"
+      },
+      [
+       "sup",
+       {},
+       "27"
+      ]
+     ],
+     "\r\n"
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "La teoría miasmática que atribuye a causas \r\natmosféricas de la enfermedad y la postura contagionista pueden ser \r\ncontradictorias entre sí, pero en lo que respecta a la población pobre \r\ntiene efectos similares. La forma de vida de los pobres produce miasmas \r\nque los enferman y que terminan contagiando a toda la sociedad. De un \r\nmodo u otro, los pobres resultan ser una población que debe ser \r\nmantenida a distancia, confinada."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Fue recién durante el segundo episodio pandémico de \r\ncólera, hacia mediados del siglo XIX, que la investigación \r\nepidemiológica llevada a cabo por John Snow (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964005_ref46",
+       "id": "t-llamada-redalyc_314964005_ref46-1"
+      },
+      "1991"
+     ],
+     ")\r\n permitió ir desplazando la teoría miasmática de la enfermedad, aun si \r\nen un inicio sus colegas lo criticaron duramente y continuaron invocando\r\n el paradigma convencional. Además, dio cuenta de que la promiscuidad \r\nhabitacional de las clases populares implicaba que en la misma \r\nhabitación en que el enfermo se hallaba se cocinaba y se comía, lo que \r\nfacilitaba la contaminación de los alimentos."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "\r\n"
+    ],
+    [
+     "p",
+     {},
+     "[…] cuando el cólera es introducido a una casa de \r\nmejor clase, como sucede a menudo, se encontró que era difícil se \r\npropagara de un miembro a otro de la misma familia. Esto se debe al uso \r\nregular de palangana y toalla, así como el cocinar y comer en un cuarto \r\nseparado del enfermo (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964005_ref46",
+       "id": "t-llamada-redalyc_314964005_ref46-2"
+      },
+      "Snow, 1991, pp. 200-201"
+     ],
+     ")."
+    ],
+    "\r\n",
+    [
+     "p",
+     {}
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "La influenza española de 1918"
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "En Europa, durante el mes de octubre de ese año, se \r\nvivía el final de la Primera Guerra Mundial. Ello no significa que los \r\ncombates fueran menos intensos: al contrario, los ejércitos aliados \r\nmultiplicaron la embestida contra Alemania. Estados Unidos se incorporó \r\ntardíamente a la contienda, recién en 1917, lo que implicó el envío de \r\nmiles de soldados norteamericanos al continente europeo. Fue en los \r\ncuarteles del suroeste estadounidense donde hizo su aparición el virus \r\nde la influenza, por lo que aquello de atribuirle la nacionalidad \r\nespañola es cuando menos equívoco.",
+     [
+      "a",
+      {
+       "href": "#t-fn28",
+       "id": "t-llamada-fn28-1"
+      },
+      [
+       "sup",
+       {},
+       "28"
+      ]
+     ],
+     " La \r\nmorbilidad y la mortalidad de los reclutados fue gigantesca en el vecino\r\n del Norte y de ahí que su transmisión a los frentes de batalla europeos\r\n fuera veloz. Pero también la cercanía con la frontera de México y el \r\nintenso tráfico comercial facilitó el arribo del virus a este país. En \r\nEstados Unidos, en septiembre de 1918, fallecieron por esta causa 12 000\r\n personas; el mes siguiente, ya eran 195 000 los muertos (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964005_ref32",
+       "id": "t-llamada-redalyc_314964005_ref32-1"
+      },
+      "Molina del Villar, 2020"
+     ],
+     ").\r\n A nivel mundial, fueron cerca de 50 millones los contagiados, mientras \r\nque la tasa de letalidad, esto es, la relación entre contagiados y \r\nfallecidos, fue de entre 2,5 y 5 % (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964005_ref27",
+       "id": "t-llamada-redalyc_314964005_ref27-1"
+      },
+      "Márquez & Molina del Villar, 2010"
+     ],
+     ").",
+     [
+      "a",
+      {
+       "href": "#t-fn29",
+       "id": "t-llamada-fn29-1"
+      },
+      [
+       "sup",
+       {},
+       "29"
+      ]
+     ],
+     "\r\n En México, se registraron 60 000 contagiados, aunque la cifra fue \r\nprobablemente mayor, y entre 1 500 y 2 000 muertos por día. Pero fue la \r\nIndia la que sufrió los estragos más dramáticos con entre 17 y 18 \r\nmillones de muertos, sobre todo de las castas inferiores “inmersas en la\r\n pobreza y la desnutrición” (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964005_ref26",
+       "id": "t-llamada-redalyc_314964005_ref26-1"
+      },
+      "Márquez, 2013, p. 261"
+     ],
+     ").",
+     [
+      "a",
+      {
+       "href": "#t-fn30",
+       "id": "t-llamada-fn30-1"
+      },
+      [
+       "sup",
+       {},
+       "30"
+      ]
+     ],
+     "\r\n"
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "En los primeros días de octubre, el periódico ",
+     [
+      "span",
+      {},
+      "El Demócrata "
+     ],
+     "transcribió\r\n una comunicación del cónsul de México en Laredo, Texas: informaba que, \r\nen las dos poblaciones fronterizas, Laredo y Nuevo Laredo, Tamaulipas, \r\nse habían registrado 6 000 casos en cada una (En Laredo hay más de seis \r\nmil casos de influenza española, 8 de octubre de 1918). Dos días \r\ndespués, el cónsul de México en Cuba refería que la epidemia se extendía\r\n en toda la isla, principalmente, a las provincias orientales. El vapor \r\nespañol Alfonso XII con 1 200 emigrantes había llegado a La Habana con \r\n300 enfermos y durante la travesía 23 habían fallecido (La epidemia de \r\ninfluenza toma incremento. ",
+     [
+      "span",
+      {},
+      "El Demócrata"
+     ],
+     ", ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964005_ref55",
+       "id": "t-llamada-redalyc_314964005_ref55-1"
+      },
+      "10 de octubre de 1918"
+     ],
+     ").\r\n Pero también se acumulaban noticias alarmantes del norte: Torreón, \r\nMonclova, Cuatro Ciénegas y Sabinas registraban muchos casos al igual \r\nque los minerales duranguenses de Indé y El Oro. En ese momento se \r\nconcibió la idea de suspender el tráfico ferroviario originado en las \r\npoblaciones con altos contagios. Al igual que durante la epidemia del \r\ncólera del siglo XIX, se adoptó la concepción miasmática de la \r\nenfermedad para evitar el colapso económico: “Cree el Señor Pescador \r\n[director de los Ferrocarriles Constitucionalistas] que no es necesaria \r\n[la suspensión del tráfico], pues está comprobado que la enfermedad no \r\nse transmite por contagio personal, sino por conducto del aire” (La \r\nepidemia de influenza toma incremento. ",
+     [
+      "span",
+      {}
+     ],
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964005_ref55",
+       "id": "t-llamada-redalyc_314964005_ref55-2"
+      },
+      [
+       "span",
+       {},
+       "El Demócrata"
+      ],
+      ", 10 de octubre de 1918"
+     ],
+     ")."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "No obstante, un día después, la prensa informaba de \r\n34 casos entre los soldados acuartelados en la villa de Guadalupe, o \r\nsea, al lado de la Basílica del mismo nombre. Al día siguiente, con mil \r\ncasos anunciados en la capital, el jefe del Departamento de Salubridad \r\nafirmaba que “el microbio de Pfeiffer, que produce la gripa, pierde una \r\ngran parte de su virulencia en esta capital, debido seguramente a la \r\ngran altura a que México se halla” (Pasan ya de mil los casos de \r\ninfluenza española que se registran en la capital. ",
+     [
+      "span",
+      {},
+      "El Demócrata"
+     ],
+     ", ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964005_ref56",
+       "id": "t-llamada-redalyc_314964005_ref56-1"
+      },
+      "12 de octubre de 1918"
+     ],
+     ").\r\n Los días siguientes desmentirían la opinión: “En un plazo de diez a \r\nquince días, en la ciudad de los Palacios se contarán por miles los \r\natacados del mal, suponiendo, sin exagerar, que ese número casi \r\nfantástico podría llegar a 200 000 enfermos” (La influenza se inclina a \r\nextenderse. ",
+     [
+      "span",
+      {}
+     ],
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964005_ref69",
+       "id": "t-llamada-redalyc_314964005_ref69-1"
+      },
+      [
+       "span",
+       {},
+       "Excélsior"
+      ],
+      ", 20 de octubre de 1918"
+     ],
+     ").\r\n En la ciudad de México, la primera defunción cuya causa registrada \r\nfuera la influenza tuvo lugar el 14 de octubre. Se trató de un zapatero \r\nde 40 años. A partir del día siguiente, fueron soldados los que \r\nsucumbieron a la epidemia y, al día siguiente, se multiplicaron los \r\nfallecimientos por “neumonía gripal”. Será hasta el día 17 cuando la \r\ncausa de la defunción certificada por un médico consigne literalmente \r\n“influenza española” (Primera Oficialía de la Oficina de Registro del \r\nestado civil, ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964005_ref50",
+       "id": "t-llamada-redalyc_314964005_ref50-2"
+      },
+      "AHCDMX, F.D., vol. 658"
+     ],
+     ")."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Los registros de contagiados y de fallecidos a raíz \r\nde la influenza reproducidos en la prensa no son absolutamente \r\nconfiables; son solo una referencia sobre la magnitud de la epidemia. \r\nSon casi siempre cifras terminadas en cero. Sin embargo, proporcionan un\r\n indicador de la alarma que causaba en los diferentes lugares de la \r\nRepública. Parecía que algunas ciudades se iban a extinguir debido al \r\nnúmero de decesos: en San Pedro de las Colonias, que contaba con 15 000 \r\nhabitantes, a mediados de octubre morían 110 personas en un solo día y \r\nen Ciudad González, Guanajuato, el 80 % de la población estaba \r\ncontagiada y fallecían 100 diariamente. En esta última ciudad, todos los\r\n médicos habían muerto; restaba uno con vida. La pandemia fue \r\nparticularmente virulenta en regiones productoras de gran relevancia \r\neconómica. Así, por ejemplo, en Guanajuato, las minas de La Providencia y\r\n de San Juan de la Luz y Anexas registraban 90 casos de un total de 250 \r\ntrabajadores. Algo semejante sucedía en Pachuca, donde “entre la gente \r\ndel pueblo, entre los humildes trabajadores de las minas, las víctimas \r\nse cuentan por centenares” (Puebla y Pachuca cruelmente flageladas por \r\nla influenza. ",
+     [
+      "span",
+      {}
+     ],
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964005_ref71",
+       "id": "t-llamada-redalyc_314964005_ref71-1"
+      },
+      [
+       "span",
+       {},
+       "Excélsior"
+      ],
+      ", 31 de octubre de 1918"
+     ],
+     ").\r\n En la región carbonífera de Coahuila, donde la influenza fue \r\nparticularmente agresiva, se suspendió la extracción de carbón, lo cual \r\npuso en riesgo el tráfico ferroviario, así como a la industria jabonera.\r\n La Comarca Lagunera paralizó la pizca de algodón por falta de \r\njornaleros. Hacia finales de octubre, se temió la suspensión de la \r\nextracción de petróleo porque la zona productora estaba siendo atacada \r\npor la ",
+     [
+      "span",
+      {},
+      "grippe"
+     ],
+     "."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Como se mencionó, las cifras de enfermos y de \r\nfallecidos proporcionadas por los periódicos constituyen apenas un \r\nindicador de la magnitud de la pandemia. En algunos casos y momentos, \r\ntienen por objetivo producir una noticia que despierte la curiosidad de \r\nlos lectores –y también su alarma–; en otros casos, se trata de \r\nreconfortarlos con números menos inquietantes. Algo más confiables \r\nresultan ser los datos proporcionados por los médicos enviados por el \r\nConsejo Superior de Salubridad a los estados, cuyos gobernadores \r\nsuplicaban a la autoridad sanitaria el envío de profesionales de la \r\nsalud y medicinas. Por ejemplo, un médico reportaba que en Tolimán, \r\nQuerétaro, “el número de defunciones oscilaba entre 35 y 40 al día, lo \r\nque significa mucho en una población de 3 500 habitantes” (Carta de R.A.\r\n al presidente del Consejo Superior de Salubridad, ASS, F.S.P., S. E., \r\n27 de diciembre de 1918).",
+     [
+      "a",
+      {
+       "href": "#t-fn31",
+       "id": "t-llamada-fn31-1"
+      },
+      [
+       "sup",
+       {},
+       "31"
+      ]
+     ],
+     "\r\n"
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "La rapidez con la que se difundió el virus, aunado a \r\nla compleja situación política, dificultó una acción sanitaria pública. \r\nEl Departamento de Salubridad emitió diversas recomendaciones a la \r\npoblación, como ventilar las viviendas, regar las banquetas, etc. así \r\ncomo el uso de ciertas medicinas en caso de contraer la enfermedad. La \r\nquinina, usada habitualmente para combatir el paludismo, fue \r\nrecomendada. Las reuniones de mucha gente fueron desaconsejadas, pero no\r\n se prohibieron. Se redujo el horario de apertura de las cantinas y, en \r\nalgún momento, se comentó sobre la oportunidad de no oficiar misas en \r\nlas iglesias. En los talleres de los ferrocarriles fue colocado un \r\nletrero que advertía: “Importante. Sírvase no dar la mano al saludar”."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Pero también individuos particulares, médicos o no, \r\nhicieron publicar recetas de toda índole que, supuestamente, habían \r\nresultado milagrosas para recuperar a los convalecientes. Se dijo, por \r\nejemplo, que el limón había surtido efectos asombrosos en Roma. Ello \r\nhizo que el limón alcanzara el precio de 30 centavos la pieza, suma \r\nestratosférica para la mayoría de la población. De hecho, todas las \r\nmedicinas subieron de precio por la especulación de boticarios y \r\ndroguistas, o bien fueron ocultadas y vendidas a cuentagotas simulando \r\nsu escasez con el mismo objeto. Desde los estados, telegramas urgentes \r\narribaban al Departamento de Salubridad solicitando el envío de \r\nmedicamentos. De hecho, el Departamento tampoco los tenía a su \r\ndisposición. A través de la embajada de los Estados Unidos, se logró la \r\ncompra y envío a México de algunas medicinas. Asimismo, los periódicos \r\ncapitalinos que para aquel entonces incluían una página consagrada a la \r\npublicidad, editaron anuncios ",
+     [
+      "span",
+      {},
+      "oportunistas"
+     ],
+     ":\r\n El Palacio de Hierro ofrecía cobijas para protegerse de la influenza; \r\nla fábrica de cigarros El Buen Tono, la mayor de ese ramo, aconsejó \r\nfumar para no enfermarse y en Guadalajara, alguien vendió bolas de \r\nnaftalina a centavo la pieza “para que se acabe la influenza española” \r\n(En Guadalajara existen ya muchos casos de la influenza española. ",
+     [
+      "span",
+      {}
+     ],
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964005_ref61",
+       "id": "t-llamada-redalyc_314964005_ref61-1"
+      },
+      [
+       "span",
+       {},
+       "El Informador"
+      ],
+      ", 25 de octubre de 1918"
+     ],
+     ")."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "La influenza no se detiene ante billeteras abultadas;\r\n ataca por igual a pobres y a ricos, aunque con intensidad y gravedad \r\ndisímbolas. La prensa de la época reseñaba los casos de ",
+     [
+      "span",
+      {},
+      "gente de bien"
+     ],
+     "\r\n postrada por la epidemia dando nombres y apellidos. El fallecimiento de\r\n algunos diputados o de miembros de familias distinguidas ocupó los \r\ntitulares o páginas interiores de los periódicos, mientras que el de la ",
+     [
+      "span",
+      {},
+      "gente del pueblo "
+     ],
+     "fue objeto de atención numérica, es decir, anónima."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Como ha apuntado, acertadamente, Adrián Carbonetti (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964005_ref7",
+       "id": "t-llamada-redalyc_314964005_ref7-1"
+      },
+      "2010"
+     ],
+     "),\r\n “la gripe es una enfermedad que no distingue, en lo referente a la \r\nmorbilidad, entre ricos y pobres, no obstante, sí lo hace en la \r\nmortalidad” (p. 174).",
+     [
+      "a",
+      {
+       "href": "#t-fn32",
+       "id": "t-llamada-fn32-1"
+      },
+      [
+       "sup",
+       {},
+       "32"
+      ]
+     ],
+     " Igualmente, Lourdes Márquez y América Molina del Villar (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964005_ref27",
+       "id": "t-llamada-redalyc_314964005_ref27-2"
+      },
+      "2010"
+     ],
+     ")\r\n afirman que “a pesar de la muerte de personas de posición social \r\nacomodada, la realidad es que las enfermedades infecciosas muestran una \r\nmejor forma de diseminación entre los pobres” (p. 139)."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "La ciudad de México refleja bien estas tesis. Aunque \r\nya hemos adelantado algunas referencias respecto a la sobremortalidad \r\npor influenza en algunos lugares del país de la población trabajadora \r\n(mineros, ferrocarrileros, jornaleros agrícolas), dos géneros de \r\ninformación nos proporcionan una imagen de lo acontecido. La primera \r\nconcierne a los barrios más golpeados por la influenza. Al igual que \r\ndurante la epidemia del cólera de 1833, son los más populares los que \r\nregistraron la más elevada mortalidad. Se trata de las zonas del norte \r\nde la ciudad: mientras que en las cuatro primeras oficialías del \r\nRegistro Civil, correspondientes a los mejores rumbos de la capital, se \r\nconsignaban de 35 a 40 fallecimientos diarios a principios del mes de \r\nnoviembre, en las dos últimas, superaban los 70.",
+     [
+      "a",
+      {
+       "href": "#t-fn33",
+       "id": "t-llamada-fn33-1"
+      },
+      [
+       "sup",
+       {},
+       "33"
+      ]
+     ],
+     "\r\n Los barrios septentrionales eran los de la Bolsa (Lagunilla, \r\nPeralvillo), Tepito, Santiago Tlatelolco y San Lázaro. En efecto, el \r\nDepartamento de Salubridad informó a fines de octubre que casi todos los\r\n avisos de muerte “se han referido a personas de escasos o ningunos \r\nrecursos, que habitan en barrios lejanos y casas malsanas” (Insistimos \r\nen que hasta hoy la influenza carece de proporciones alarmantes. ",
+     [
+      "span",
+      {},
+      "E"
+     ],
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964005_ref70",
+       "id": "t-llamada-redalyc_314964005_ref70-1"
+      },
+      [
+       "span",
+       {},
+       "xcélsior"
+      ],
+      ", 26 de octubre de 1918"
+     ],
+     ").\r\n El número de muertos en lo que el periódico llamaba “el México viejo y \r\nel más descuidado e insalubre” era tal que el Registro Civil preguntó al\r\n Departamento de Salubridad si podía inhumar a “muchas personas de la \r\nclase humilde antes de las 24 horas” después de fallecidas. Sin embargo,\r\n la sobremortalidad en los barrios pobres de la ciudad era semejante con\r\n la ocurrida en los poblados cercanos a la capital. Tal era el caso en \r\nlas estribaciones del Ajusco, donde “numerosos indios […] se dedican a \r\nproducir el carbón vegetal que se consume en la metrópoli”. También se \r\nreportaba que “en pueblecillos y rancherías cercanas donde habitan \r\nhumildes aborígenes están sufriendo los horrores de la epidemia” (La \r\ninfluenza tiende a desaparecer en todo el Distrito Federal. ",
+     [
+      "span",
+      {}
+     ],
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964005_ref72",
+       "id": "t-llamada-redalyc_314964005_ref72-1"
+      },
+      [
+       "span",
+       {},
+       "Excélsior"
+      ],
+      ", 16 de noviembre de 1918"
+     ],
+     ")."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Igualmente, los datos de mortalidad en el Hospital General donde eran atendidas personas de pocos recursos económicos",
+     [
+      "a",
+      {
+       "href": "#t-fn34",
+       "id": "t-llamada-fn34-1"
+      },
+      [
+       "sup",
+       {},
+       "34"
+      ]
+     ],
+     " reflejan una situación similar. A fines de octubre, escriben ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964005_ref27",
+       "id": "t-llamada-redalyc_314964005_ref27-3"
+      },
+      "Márquez y Molina del Villar (2010)"
+     ],
+     ",\r\n en este nosocomio, de 200 ingresos, 43 fallecieron. Un médico de la \r\nmisma institución, que optó por el anonimato, declaró al periódico ",
+     [
+      "span",
+      {},
+      "El Demócrata "
+     ],
+     "(1918)\r\n que al pabellón 25, reservado para los enfermos de influenza, \r\ningresaron el primer día 35 personas, de las cuales 10 perecieron; el \r\nsegundo día fueron 18 nuevos ingresos y murieron 16.",
+     [
+      "a",
+      {
+       "href": "#t-fn35",
+       "id": "t-llamada-fn35-1"
+      },
+      [
+       "sup",
+       {},
+       "35"
+      ]
+     ],
+     "\r\n"
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "La segunda se refiere a las numerosas menciones de \r\nlas ajetreadas jornadas de trabajo en el Panteón de Dolores donde se \r\nenterraba de limosna, es decir, sin pago por las familias de bajos \r\nrecursos. En ocasiones, los féretros transportados hasta el cementerio \r\ndebían permanecer insepultos porque los empleados no se daban abasto \r\npara enterrarlos. Los ataúdes de las personas de bajos recursos que no \r\npodían sufragar una carroza para conducirlos hasta el camposanto eran \r\ntrasladados en las llamadas gavetas, pero su número llegó a ser tan \r\nconsiderable que eran depositados en las banquetas durante toda la \r\nmañana a la espera del paso del transporte por el lugar."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "La culpabilización de los pobres"
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "A pesar de que la teoría microbiana de la enfermedad \r\nse había difundido ampliamente por el mundo, se reeditó en ocasión de la\r\n influenza la antigua concepción miasmática,",
+     [
+      "a",
+      {
+       "href": "#t-fn36",
+       "id": "t-llamada-fn36-1"
+      },
+      [
+       "sup",
+       {},
+       "36"
+      ]
+     ],
+     "\r\n no con intenciones de ofrecer una explicación científica de la \r\npandemia, sino como estrategia discursiva que actualiza el trinomio \r\npobres-enfermedad-peligrosidad."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "El gremio médico, presionado para ofrecer una \r\nexplicación del fenómeno, desempolvó viejas teorías y las conjugó con \r\nlas nociones de la microbiología pasteuriana. Así Jesús Garza de la \r\nciudad de Monterrey, explicó que los muertos sin enterrar en los campos \r\nde batalla europeos traían “como consecuencia la infección paulatina de \r\nla atmósfera […] Este inficionamiento de la atmósfera produce un \r\nmicrobio especial”. Pero el doctor Sierra contradijo a su colega y \r\nsostuvo que era una enfermedad nueva que combinaba la peste negra y el \r\ncólera ",
+     [
+      "span",
+      {},
+      "morbus"
+     ],
+     ". Otro más aseveró que se \r\ntrataba de casos de neumonía, pero que la alta mortalidad se debía sobre\r\n todo al pánico producido por la epidemia: “Bastaría un ligero estudio, \r\npara demostrar que, en las épocas de epidemia, el miedo mata más a la \r\ngente que la enfermedad” (La peste negra. ",
+     [
+      "span",
+      {}
+     ],
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964005_ref68",
+       "id": "t-llamada-redalyc_314964005_ref68-1"
+      },
+      [
+       "span",
+       {},
+       "El Pueblo"
+      ],
+      ", 4 de noviembre de 1918"
+     ],
+     ").\r\n La aceptación y, sobre todo, el rechazo de que se trataba de una \r\nenfermedad nueva hizo que las causas registradas de defunción fueran la \r\nneumonía y la gripa y, en más contadas ocasiones, la influenza."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "En esos aciagos primeros días de noviembre, cuando \r\nlos habitantes de las ciudades deseaban ir a los panteones para \r\ndepositar ofrendas a sus difuntos, ritual prohibido en esta ocasión por \r\nlas autoridades de la capital, no faltaron explicaciones mágicas. Una \r\nenorme parvada de extrañas aves se posó en los árboles de la Alameda \r\nCentral de la ciudad de México: “¡Es el cólera! Han exclamado mil labios\r\n ingenuos a la vista de estas aves de paso”. Pero una anciana, más \r\noptimista, dijo: “Ay señor, bendito sea Dios y la Santísima Virgen, ya \r\nse va a acabar la influenza” (Aves de paso. ",
+     [
+      "span",
+      {}
+     ],
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964005_ref66",
+       "id": "t-llamada-redalyc_314964005_ref66-1"
+      },
+      [
+       "span",
+       {},
+       "El Pueblo"
+      ],
+      ", 2 de noviembre de 1918"
+     ],
+     ").\r\n Aseguró que lo mismo había acontecido cuando la epidemia de cólera: los\r\n pájaros anunciaban el término de la peste. Los desacuerdos respecto a \r\nlas causas de la epidemia y a los vaticinios de su pronta desaparición \r\nse resolvían en el momento de localizar al verdadero culpable:"
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "\r\n"
+    ],
+    [
+     "p",
+     {},
+     "El hecho de haber aparecido la epidemia en forma \r\nalarmante en el rumbo Norte [donde se situaban los barrios populares] de\r\n la ciudad constituye una amenaza para toda ella. Los vientos dominantes\r\n son los del Norte, de manera que pronto el polvo infectado de las \r\nsucias callejas de la Bolsa, Valle Gómez y San Lázaro, pasará por toda \r\nla ciudad hasta el extremo Sur con su cortejo de dolores y muerte (La \r\ninfluenza española se recrudece en la parte norte de la metrópoli. ",
+     [
+      "span",
+      {}
+     ],
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964005_ref73",
+       "id": "t-llamada-redalyc_314964005_ref73-1"
+      },
+      [
+       "span",
+       {},
+       "Excélsior"
+      ],
+      ", 27 de octubre de 1918"
+     ],
+     ")."
+    ],
+    "\r\n",
+    [
+     "p",
+     {}
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Es así como se señala al pobre que está sucio y que \r\nconsiguientemente es vehículo de la enfermedad. Es el icono de la \r\nepidemia. En Colima, se decretó en esos días que “los niños sucios en su\r\n ropa y personas” no serían admitidos en las escuelas (Eficaces medidas \r\ntomaron para combatir la epidemia. ",
+     [
+      "span",
+      {}
+     ],
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964005_ref65",
+       "id": "t-llamada-redalyc_314964005_ref65-1"
+      },
+      [
+       "span",
+       {},
+       "El Pueblo"
+      ],
+      ", 2 de noviembre de 1918"
+     ],
+     "). Más elocuente aún es el artículo editorial del mismo periódico, que paradójicamente se llamaba ",
+     [
+      "span",
+      {},
+      "El Pueblo"
+     ],
+     ", del que interesa reproducir párrafos más extensos:"
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "\r\n"
+    ],
+    [
+     "p",
+     {},
+     "Una infinidad de vagos, alcohólicos y hasta \r\ncriminales, al triunfo de la revolución (llamándose revolucionarios, \r\npara buscar un manto protector de sus vicios y maldades), con aire de \r\nperdonavidas se presentan en todas partes, con la camisa negra, la ropa \r\ndesgarrada, el cabello hirsuto y las marcas de la degradación y el vicio\r\n en el semblante, pretendiendo rodearse y hasta tener consideraciones de\r\n parte de la gente decente y aseada. Aparentan creer que la democracia \r\nles da derecho de vivir en consorcio con la gente limpia, honrada y de \r\nbuenas costumbres…Que a los individuos que se presenten degreñados, \r\nharaposos, malolientes y mugrientos, se les niegue la entrada al \r\ntranvía, a los camiones, a los paseos públicos, a los teatros y hasta el\r\n tránsito por las calles (La democracia del jabón y el agua limpia. ",
+     [
+      "span",
+      {}
+     ],
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964005_ref64",
+       "id": "t-llamada-redalyc_314964005_ref64-1"
+      },
+      [
+       "span",
+       {},
+       "El Pueblo"
+      ],
+      ", 8 de noviembre de 1918"
+     ],
+     " )."
+    ],
+    "\r\n",
+    [
+     "p",
+     {}
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "¿Habían cambiado las representaciones sociales acerca\r\n de los pobres desde la primera mitad del siglo XIX? El Estado \r\nporfiriano había contado con los medios económicos para realizar la \r\nmoralización de los pobres, algo que los primeros balbuceos del gobierno\r\n carrancista no lograban aún, mediante un encuadramiento disciplinario, \r\npero la asociación entre pobreza y suciedad se mantenía.",
+     [
+      "a",
+      {
+       "href": "#t-fn37",
+       "id": "t-llamada-fn37-1"
+      },
+      [
+       "sup",
+       {},
+       "37"
+      ]
+     ],
+     " Así, el pobre, señala ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964005_ref23",
+       "id": "t-llamada-redalyc_314964005_ref23-1"
+      },
+      "Lorenzo Río (2011)"
+     ],
+     ",\r\n no era el carente de lo necesario, sino “el que recibía socorros o \r\ndebía recibirlos según las normas que trazaban las autoridades” (p. \r\n121). Se trataba entonces de una práctica asistencial que apostaba a la ",
+     [
+      "span",
+      {},
+      "salvación"
+     ],
+     " de aquellos no contaminados aún por el vicio y la mendicidad gracias al aprendizaje de los rigores del trabajo.",
+     [
+      "a",
+      {
+       "href": "#t-fn38",
+       "id": "t-llamada-fn38-1"
+      },
+      [
+       "sup",
+       {},
+       "38"
+      ]
+     ],
+     " La pobreza podía llegar a incorporarse a la agenda política, no como una preocupación por los individuos pobres,",
+     [
+      "a",
+      {
+       "href": "#t-fn39",
+       "id": "t-llamada-fn39-1"
+      },
+      [
+       "sup",
+       {},
+       "39"
+      ]
+     ],
+     "\r\n sino sobre todo porque las viviendas de estos devenían focos de \r\ninfección de toda la sociedad: “En el barniz llevado airosamente en el \r\ncuerpo de esa gente infeliz hace el cultivo más eficaz de toda una \r\nespecie de microorganismos morbosos, cuya difusión en la atmósfera es \r\ntan fácil” (AHCDMX, F.V., citado por ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964005_ref3",
+       "id": "t-llamada-redalyc_314964005_ref3-1"
+      },
+      "Barbosa, 2003"
+     ],
+     ").\r\n El centro de la atención gubernamental se situó en los albergues \r\ntemporales donde se hacinaba un sinnúmero de individuos de todas las \r\nedades y sexos y que en gran medida eran los comerciantes ambulantes de \r\ncomida. Estos fueron señalados con particular énfasis durante la \r\npandemia de influenza: “¿Qué se ha hecho, para evitar que esos \r\nmuladares, conocidos por barracas, donde se venden fritangas y \r\ncomestibles, verduras y golosina, no contaminen a toda la ciudad?” (La \r\ndeficiencia municipal está fomentando la I. española. ",
+     [
+      "span",
+      {}
+     ],
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964005_ref70",
+       "id": "t-llamada-redalyc_314964005_ref70-2"
+      },
+      [
+       "span",
+       {},
+       "El Pueblo"
+      ],
+      ", 26 de octubre de 1918"
+     ],
+     ")."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "\r\n"
+    ],
+    [
+     "span",
+     {
+      "id": "t-gf1"
+     },
+     "\r\n",
+     [
+      "figura",
+      {
+       "alt": "Portada de El Pueblo, 26 de octubre de 1918"
+      }
+     ],
+     [
+      "br",
+      {}
+     ],
+     "Figura 1",
+     [
+      "br",
+      {}
+     ],
+     "\r\n",
+     [
+      "span",
+      {},
+      "Portada de El Pueblo, 26 de octubre de 1918"
+     ],
+     "\r\n",
+     [
+      "br",
+      {}
+     ],
+     "\r\n",
+     [
+      "span",
+      {},
+      [
+       "span",
+       {},
+       "Fuente: Hemeroteca Nacional de México"
+      ]
+     ],
+     "\r\n"
+    ],
+    "\r\n",
+    [
+     "p",
+     {}
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "La primera fotografía pretende dar respaldo a la \r\nestigmatización social de los vendedores ambulantes de comida callejera.\r\n La segunda corresponde a la espera del transporte de los ataúdes hacia \r\nel cementerio durante los álgidos días de la pandemia y en que aquel \r\nescaseaba en virtud del elevado número de fallecidos. La tercera, “Comed\r\n si queréis poner fin a vuestros días”, refuerza el sentido de la \r\nprimera imagen."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "La escasez de fondos públicos para mitigar los \r\nestragos de la influenza provocará que se despliegue la acción de las \r\nclases pudientes a través del Comité de Beneficencia constituido por, \r\nentre otros miembros ",
+     [
+      "span",
+      {},
+      "prominentes"
+     ],
+     ", los \r\nseñores Grisi y Bustillos con el objeto de regalar medicinas a los \r\nindigentes. El regidor Vidales circuló una exhortación a banqueros, \r\ncomerciantes e industriales para que contribuyeran",
+     [
+      "span",
+      {},
+      " con lo que gusten"
+     ],
+     ":\r\n “Se espera que las personas pudientes con especialidad tendrán un gesto\r\n caritativo”. Es así como también se conformará la Junta de Beneficencia\r\n Privada en una reunión de la Cámara de Comercio, ya que el Consejo \r\nSuperior de Salubridad confesó no contar con fondos. La mencionada \r\njunta, bajo la presidencia de Carlos B. Zetina, propietario de la mayor \r\nempresa zapatera del país, propondrá el reparto de medicinas en algunas \r\nboticas y droguerías para ser vendidas a precio de costo y ofrecidas \r\ngratuitamente a los pobres de solemnidad, “para lo cual hace falta que \r\nlos médicos que los atiendan, al suscribir las recetas, agreguen al pie \r\nde ellas las circunstancias precarias de sus pacientes” (Es ya tiempo de\r\n hacer algo contra la influenza. ",
+     [
+      "span",
+      {}
+     ],
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964005_ref74",
+       "id": "t-llamada-redalyc_314964005_ref74-1"
+      },
+      [
+       "span",
+       {},
+       "Excélsior"
+      ],
+      ", 6 de noviembre de 1918"
+     ],
+     ").\r\n Conviene detenerse en esto último. Indudablemente, las arcas del erario\r\n estaban vacías o por lo menos lo estaban para enfrentar la pandemia. \r\nPor ello, el mismo poder público interpela a los ricos para que sean \r\ncaritativos o, dicho con otras palabras, para que alivien la miseria del\r\n pueblo no por obligación sujeta a derecho, sino como acto sujeto a la \r\nvoluntad de cada uno. Pero además, hay que reparar en la misma \r\ndenominación y tratamiento de los pobres. Estos son consignados como ",
+     [
+      "span",
+      {},
+      "de solemnidad"
+     ],
+     ",\r\n una categoría de mediados de siglo XIX que, en España y en algunos \r\npaíses latinoamericanos hasta muy entrado el siglo XX, se usó para \r\ndesignar a aquellos que no podían sufragar los costos de un proceso \r\njudicial o bien a aquellos que podrían ingresar gratuitamente a un \r\nhospital. Vale decir, son los extremadamente pobres. Estos recibirían \r\nmedicinas gratuitamente, no en su condición de ciudadanos, sino en \r\ncalidad de pobres: las recetas expedidas por un médico para que se les \r\nproporcionara gratuitamente las medicinas debían consignar que se \r\ntrataba de ",
+     [
+      "span",
+      {},
+      "verdaderamente "
+     ],
+     "pobres. En otras palabras, la recepción de la ayuda implicaba la aceptación de portar el estigma."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Reflexión final"
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Nuestro objetivo se centró en cómo las pandemias \r\nvisibilizan e incluso magnifican la desigualdad social. En este sentido,\r\n las muertes acontecidas durante una pandemia sintetizan las condiciones\r\n de vida disímbolas entre clases y las relaciones de dominación que \r\nentre ellas se ejercen, así como las representaciones sociales que se \r\nconstruyen acerca de las mayorías depauperadas de la sociedad. \r\nCiertamente, la pobreza explica la mortalidad diferencial que se \r\npresenta entre clases sociales, pero lo pobreza no es una condición de \r\nun sector de la población ajena al tejido de relaciones que produce \r\npobres y ricos. Esto es lo que queda opacado en dichas representaciones."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Al momento de escribir este artículo, vivimos lo que \r\nesperanzadoramente parece ser el final de una pandemia que, al igual que\r\n todas las que la precedieron, tuvo consecuencias muy diversas de \r\nacuerdo a las clases sociales. A todas las determinaciones sociales de \r\nla salud y de la enfermedad (vivienda, alimentación, etc.), se agregan \r\nactualmente las condiciones político-institucionales de los sistemas de \r\nsalud,",
+     [
+      "sup",
+      {},
+      [
+       "a",
+       {
+        "href": "#t-fn40",
+        "id": "t-llamada-fn40-1"
+       },
+       "40"
+      ]
+     ],
+     " mismas que eran inexistentes en \r\nel siglo XIX e incipientes a inicios de la centuria siguiente. El acceso\r\n a éstos, la disponibilidad de los servicios, su localización, etc. \r\npueden resultar cruciales para diferenciar y desigualar a la población \r\nfrente a la enfermedad y a la muerte. El confinamiento y el trabajo a \r\ndistancia –el ",
+     [
+      "span",
+      {},
+      "home office"
+     ],
+     "– tan aconsejados \r\ndurante la pandemia de la covid-19 fueron factibles para una porción de \r\nla sociedad. La mayoría tuvo que seguir saliendo a la calle y \r\ndesplazarse en el abarrotado transporte público. Pero asimismo acceder \r\nya no solamente a los servicios hospitalarios, sino también a los \r\ncuidados médicos requeridos, dependió de factores radicalmente \r\nclasistas. En las 16 alcaldías de la ciudad de México, se realizaron 173\r\n pruebas de covid-19 por cada 1 000 habitantes, pero en los municipios \r\nconurbados solo 33 (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964005_ref77",
+       "id": "t-llamada-redalyc_314964005_ref77-1"
+      },
+      "De La Cruz-Hernández & Álvarez-Contreras, 2022"
+     ],
+     ")\r\n e, incluso, en el seno mismo de la capital, los contrastes fueron \r\nsignificativos: la tasa de letalidad en Azcapotzalco fue de 6,99 %; en \r\nla Venustiano Carranza, de 6,26 %; en Iztacalco, de 8,56 %, tres \r\nalcaldías que pueden consignarse como populares; mientras que en \r\nTlalpan, un barrio más residencial, llegó a 2,76 %."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Como hemos visto, en ciertas circunstancias \r\nhistóricas el acceso a fuentes de agua determinadas puede explicar la \r\nmayor o menor incidencia de la enfermedad en una porción de la sociedad,\r\n así como los roles asignados de acuerdo al género tienen efectos más \r\ngraves en las mujeres. En otro contexto histórico, el hacinamiento en \r\nlas viviendas o en los cuarteles o en el trabajo repercute fuertemente \r\nen una mayor letalidad de la enfermedad. Y, por último, hoy en día, la \r\nposibilidad de acceso oportuno a los cuidados médicos y la calidad de \r\nestos guarda una estrecha relación con las tasas de mortalidad, aunado a\r\n otra serie de determinaciones que pueden evitar o, al contrario, \r\nfacilitar el contagio y la gravedad del padecimiento."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Todas estas causas no pueden ser consignadas como \r\nmeras deficiencias técnicas de una distribución desigual y mal planeada \r\nde recursos hídricos, de transportación u hospitalarios. Son parte \r\nfundamental de las relaciones de clase que implican una rígida \r\nsegregación del espacio urbano, una localización terriblemente \r\ndiferenciada de la infraestructura hospitalaria y de sus recursos \r\nhumanos, etc."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "La pandemia actual, lo advertíamos al inicio, deja –o\r\n cuando concluya dejará– una secuela de cambios en la economía y en la \r\nsociedad de mucho mayor calibre que durante los siglos XIX y XX el \r\ncólera o la influenza. La covid-19 aceleró una serie de transformaciones\r\n que ya estaban en marcha de manera más molecular y estas van en el \r\nsentido de una gran concentración de la riqueza. Por ello, el fin de la \r\npandemia significará el inicio de otra, la de la pobreza en mayor \r\nescala. Pero ¿acaso la matriz de las representaciones sociales acerca de\r\n la pobreza y de los pobres en tiempos de pandemia se ha modificado y en\r\n qué sentido durante el siglo XX y en estas primeras décadas del XXI? \r\nEse tendrá que ser el tema que abordaremos en otro texto."
+    ],
+    "\r\n"
+   ],
+   "\r\n",
+   [
+    "span",
+    {
+     "id": "t-back"
+    },
+    "\r\n",
+    [
+     "p",
+     {},
+     "Agradecimientos"
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Catherine Héau-Lambert, colega y amiga, leyó con generosidad el texto\r\n y me convenció de publicarlo. Erick Mauricio Velázquez y Francisco \r\nDesentis me apoyaron con diligencia, en los siempre problemáticos para \r\nmí, aspectos técnicos del documento."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Referencias"
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964005_ref1",
+      "lang": "en"
+     },
+     "Alfani, G. and Murphy, T. (2017). Plague and Lethal Epidemics in the Pre-Industrial World. ",
+     [
+      "span",
+      {},
+      "The Journal of Economic History"
+     ],
+     ", (1)."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964005_ref2",
+      "lang": "en"
+     },
+     "Aassve, A., Alfani, G., Gandolfi, F. and La Moglie, M. (2021). Epidemics and Trust: The case of the Spanish Flu. ",
+     [
+      "span",
+      {},
+      "Health Economics"
+     ],
+     ", (30). ",
+     [
+      "a",
+      {
+       "href": "https://doi.org/10.1002/hec.4218"
+      },
+      "https://doi.org/10.1002/hec.4218"
+     ],
+     "\r\n"
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964005_ref3"
+     },
+     "Barbosa, M. (2003). Insalubres e “inmorales”: alojamientos temporales en la Ciudad de México, 1900-1920. ",
+     [
+      "span",
+      {},
+      "Scripta Nova, Revista electrónica de Geografía y Ciencias Sociales, 7"
+     ],
+     "(146)."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964005_ref4",
+      "lang": "en"
+     },
+     "Barro, R., Ursúa, J.\r\n and Weng, J. (2020). The coronavirus and the Great Influenza epidemic: \r\nLessons from the ´Spanish Flu´ for the Coronavirus’potential effects on \r\nmortality and economic activity. ",
+     [
+      "span",
+      {},
+      "American Enterprise Institute Economics Working Paper"
+     ],
+     ", Harvard University."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964005_ref5"
+     },
+     "Bartra, A. (1977). ",
+     [
+      "span",
+      {},
+      "Exceso de muerte. De la peste de Atenas a la covid-19"
+     ],
+     ". Fondo de Cultura Económica."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964005_ref6"
+     },
+     "Briggs, A. (1977). El cólera y la sociedad en el siglo XIX. ",
+     [
+      "span",
+      {},
+      "Ciencia y desarrollo"
+     ],
+     ", (17)."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964005_ref7"
+     },
+     "Carbonetti, A. (2010). Historia de una epidemia olvidada. La pandemia de gripe española en la Argentina, 1918-1919. ",
+     [
+      "span",
+      {},
+      "Desacatos"
+     ],
+     ", (32)."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964005_ref8",
+      "lang": "fr"
+     },
+     "Chevalier, L. (1978). ",
+     [
+      "span",
+      {},
+      "Classes laborieuses et classes dangereuses à Paris pendant la première moitié du XIXème siècle "
+     ],
+     "[Clases obreras y clases peligrosas en París durante la primera mitad del siglo XIX]. Librairie Générale Française."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964005_ref9"
+     },
+     "Corbin, A. (1987). ",
+     [
+      "span",
+      {},
+      "El perfume o el miasma. El olfato y el imaginario social. Siglos XVIII y XIX"
+     ],
+     ". Fondo de Cultura Económica."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964005_ref10"
+     },
+     "Crosby, A. (1976). ",
+     [
+      "span",
+      {},
+      "Epidemic and Peace, 1918."
+     ],
+     " Greenwood Press."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964005_ref11",
+      "lang": "en"
+     },
+     "Crosby, A. (1989). ",
+     [
+      "span",
+      {},
+      "America’s Forgotten Pandemic. The Influenza of 1918"
+     ],
+     ". Cambridge University Press."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964005_ref77",
+      "lang": "en"
+     },
+     "De La Cruz-Hernández, S. I, Álvarez-Contreras, A. K. (2022). COVID-19 Pandemic in Mexico: The Response and Reopening. ",
+     [
+      "span",
+      {},
+      "Disaster Medicine and Public Health Preparedness"
+     ],
+     ", ",
+     [
+      "span",
+      {},
+      "16"
+     ],
+     "(6). ",
+     [
+      "a",
+      {
+       "href": "https://doi.org/10.1017/dmp.2022.177"
+      },
+      "https://doi.org/10.1017/dmp.2022.177"
+     ],
+     "\r\n"
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964005_ref12",
+      "lang": "fr"
+     },
+     "Debat, L. (1833). ",
+     [
+      "span",
+      {},
+      "Du choléra morbus épidémique"
+     ],
+     " (Tesis). Faculté de Médecine de Paris."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964005_ref13"
+     },
+     "Delumeau, J. (2002). ",
+     [
+      "span",
+      {},
+      "El miedo en Occidente (siglos XIV-XVIII). Una ciudad sitiada"
+     ],
+     ". Taurus."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964005_ref14",
+      "lang": "fr"
+     },
+     "Fassin, D. (16 de enero de 2020). ",
+     [
+      "span",
+      {},
+      "L’inégalité des vies "
+     ],
+     "[Conferencia]. Collège de France, Francia. ",
+     [
+      "a",
+      {
+       "href": "https://www.youtube.com/watch?v=xOKTo44ZKLU&t=865s"
+      },
+      "https://www.youtube.com/watch?v=xOKTo44ZKLU&t=865s"
+     ],
+     "\r\n"
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964005_ref15"
+     },
+     "Febles, M. (1833). ",
+     [
+      "span",
+      {},
+      "Cartilla vulgar para conocer y curar la Chólera-Morbus dispuesta de orden del Supremo Gobierno"
+     ],
+     ". Imprenta de las Escalerillas."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964005_ref16"
+     },
+     "García Ugarte, M. E. (2010). ",
+     [
+      "span",
+      {},
+      "Poder político y religioso. México siglo XIX"
+     ],
+     ". Tomo 1. Cámara de Diputados de México- Universidad Nacional Autónoma de México."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964005_ref17"
+     },
+     "Gaytán Herrera, G. (1998). ",
+     [
+      "span",
+      {},
+      "Tacubaya 1833: “El año horriblemente memorable del cólera morbo"
+     ],
+     ". (Tesis de grado). Universidad Nacional Autónoma de México."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964005_ref18"
+     },
+     "Geremek, B. (1989). ",
+     [
+      "span",
+      {},
+      "La piedad y la horca"
+     ],
+     ". Alianza."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964005_ref19"
+     },
+     "González Albertos, \r\nV. (2015). El cólera morbo de 1833 en la ciudad de Mérida: la \r\npropagación, la mortalidad y las disposiciones sanitarias. En C. Alcalá \r\nFerráez (Coord.), ",
+     [
+      "span",
+      {},
+      "El cólera en la Península de Yucatán, 1833-1855: propagación y mortalidad"
+     ],
+     ". Ediciones de la Universidad Autónoma de Yucatán."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964005_ref20"
+     },
+     "Himmelfarb, G. (1988). ",
+     [
+      "span",
+      {},
+      "La idea de pobreza. Inglaterra a principios de la época industrial"
+     ],
+     ". Fondo de Cultura Económica."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964005_ref21",
+      "lang": "en"
+     },
+     "Hutchinson, A. (1958). The Asiatic Cholera Epidemic of 1833 in Mexico. ",
+     [
+      "span",
+      {},
+      "Bulletin of the History of Medicine, 32"
+     ],
+     "(1)."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964005_ref22"
+     },
+     "Ibarra, A. (2021). \r\nEl mercado interno novohispano en el diluvio: guerra civil, comercio \r\ndirecto y reorganización espacial, 1813-1818. ",
+     [
+      "span",
+      {},
+      "ALHE"
+     ],
+     ", (28). ",
+     [
+      "a",
+      {
+       "href": "https://alhe.mora.edu.mx/index.php/ALHE/article/view/1275"
+      },
+      "https://alhe.mora.edu.mx/index.php/ALHE/article/view/1275"
+     ],
+     "\r\n"
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964005_ref23"
+     },
+     "Lorenzo, M. (2011). ",
+     [
+      "span",
+      {},
+      "El Estado como benefactor. Los pobres y la asistencia pública en la Ciudad de México, 1877-1905"
+     ],
+     ". El Colegio de México / El Colegio Mexiquense."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964005_ref24"
+     },
+     "Machuca, L. (2006).\r\n Control y poder en época de enfermedades. El cólera morbus de 1833 y el\r\n pueblo de Bolonchenticul, Península de Yucatán, México. ",
+     [
+      "span",
+      {},
+      "Revista Biomédica"
+     ],
+     ", Mérida, ",
+     [
+      "span",
+      {},
+      "17"
+     ],
+     "(2)."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964005_ref25"
+     },
+     "Márquez, L. (1991). ",
+     [
+      "span",
+      {},
+      "La desigualdad ante la muerte: epidemias, población y sociedad en la ciudad de México (1800-1850) "
+     ],
+     "(Tesis de doctorado). El Colegio de México."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964005_ref26"
+     },
+     "Márquez, L. (2013).\r\n Efectos demográficos de la pandemia de influenza en 1918-1929 a escala \r\nmundial. En A. Molina del Villar, L. Márquez y C. Pardo (Coords.), ",
+     [
+      "span",
+      {},
+      "El miedo a morir. Endemias, epidemias y pandemias en México: análisis de larga duración"
+     ],
+     ". Benemérita Universidad Autónoma de Puebla."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964005_ref27"
+     },
+     "Márquez, L. y Molina del Villar, A. (2010). El otoño de 1918: las repercusiones de la pandemia de gripe en la Ciudad de México. ",
+     [
+      "span",
+      {},
+      "Desacatos"
+     ],
+     ", (32), 121-144. ",
+     [
+      "a",
+      {
+       "href": "https://desacatos.ciesas.edu.mx/index.php/Desacatos/article/view/386"
+      },
+      "https://desacatos.ciesas.edu.mx/index.php/Desacatos/article/view/386"
+     ],
+     "\r\n"
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964005_ref28"
+     },
+     "Martich, E. (2021). Salud y desigualdad social: la pandemia reforzó lo que ya sabíamos. ",
+     [
+      "span",
+      {},
+      "Nueva Sociedad"
+     ],
+     ", (293). ",
+     [
+      "a",
+      {
+       "href": "https://nuso.org/articulo/salud-y-desigualdad-la-pandemia-reforzo-lo-que-ya-sabiamos"
+      },
+      "https://nuso.org/articulo/salud-y-desigualdad-la-pandemia-reforzo-lo-que-ya-sabiamos"
+     ],
+     "/"
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964005_ref29"
+     },
+     "Martínez, D. \r\n(2017). La representación del negro en la fotografía: la metáfora de la \r\nenfermedad. En T. Hoff y D. Martínez (Coords.), ",
+     [
+      "span",
+      {},
+      "Discursos mediáticos sobre la diferencia en América Latina y el Caribe "
+     ],
+     "(p. 154). Universidad Autónoma de Barcelona."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964005_ref30"
+     },
+     "Mazari, M. (1919). ",
+     [
+      "span",
+      {},
+      "Breve estudio sobre la última epidemia de influenza en la ciudad de México"
+     ],
+     " (Tesis). Escuela Libre de Homeopatía de México."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964005_ref31"
+     },
+     "Méndez, M. (2011). ",
+     [
+      "span",
+      {},
+      "Mortalidad sin crisis demográfica: el cólera de 1833 y de 1850 en Tlaxcala"
+     ],
+     " (Tesis de doctorado). UAM-I."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964005_ref32"
+     },
+     "Molina del Villar, A. (2020). Remedios curativos y propaganda contra la influenza de 1918 en México: ideas y conocimientos. ",
+     [
+      "span",
+      {},
+      "Historia, Ciencias, Saúde, 27"
+     ],
+     "(2). ",
+     [
+      "a",
+      {
+       "href": "https://doi.org/10.1590/S0104-59702020000200005"
+      },
+      "https://doi.org/10.1590/S0104-59702020000200005"
+     ],
+     "\r\n"
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964005_ref33",
+      "lang": "en"
+     },
+     "Mountain, G. J. (1833). ",
+     [
+      "span",
+      {},
+      "A Retrospect of the Summer and Autumn of 1832. Sermon delivered in the Cathedral of Quebec"
+     ],
+     "."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964005_ref34"
+     },
+     "Oliver, L. (1992). Una nueva forma de morir en Guadalajara; el cólera en 1833. En M. Cunya (Coord.), ",
+     [
+      "span",
+      {},
+      "El cólera de 1833. Una nueva patología en México. Causas y efectos"
+     ],
+     ". Instituto Nacional de Antropología e Historia (INAH)."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964005_ref35"
+     },
+     "Pani, A. (1916). ",
+     [
+      "span",
+      {},
+      "La higiene en México"
+     ],
+     ". Imprenta de J. Ballescá."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964005_ref36"
+     },
+     "Pérez Toledo, S. (2011). ",
+     [
+      "span",
+      {},
+      "Trabajadores, espacio urbano y sociabilidad en la ciudad de México. 1790-1867"
+     ],
+     ". Universidad Autónoma Metropolitana / Porrúa."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964005_ref37",
+      "lang": "en"
+     },
+     "Phillips, H. and Killingray, D. (2003). Introduction. En H. Phillips y D. Killingray (Coords.), ",
+     [
+      "span",
+      {},
+      "The Spanish Influenza Pandemic of 1918-19. New perspectives"
+     ],
+     ". Routledge."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964005_ref38"
+     },
+     "Prieto, G. (1969). ",
+     [
+      "span",
+      {},
+      "Memorias de mis tiempos"
+     ],
+     ". Patria. (Trabajo original publicado en 1906)."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964005_ref39",
+      "lang": "en"
+     },
+     "Pullan, B. (1992). Plague and perceptions of the por in early modern Italy. En T. Ranger y P. Slack (Coords.), ",
+     [
+      "span",
+      {},
+      "Epidemics and ideas. Essays on the historical perception of pestilence. "
+     ],
+     "Cambridge University Press."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964005_ref78"
+     },
+     "Rodríguez de Montalvo, G. (1508). ",
+     [
+      "span",
+      {},
+      "Amadís de Gaula"
+     ],
+     ". Jorge Coci."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964005_ref40"
+     },
+     "Rubio, M. y Tzuc, L. (1995). 24 horas para morir: epidemia del cólera morbo en Yucatán en 1833. ",
+     [
+      "span",
+      {},
+      "Revista Biomédica, 6"
+     ],
+     "(2)."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964005_ref41"
+     },
+     "Sánchez, L., Rubio, P. y De Paula, F. (1834). ",
+     [
+      "span",
+      {},
+      "Informe General de la Comisión Facultativa enviada por el Gobierno Español á observar el colera-morbo en países extranjeros"
+     ],
+     ". Imprenta Real."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964005_ref42"
+     },
+     "Saramago, J. (2005).",
+     [
+      "span",
+      {},
+      " Las intermitencias de la muerte"
+     ],
+     ". Alfaguara"
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964005_ref43",
+      "lang": "en"
+     },
+     "Scheidel, W. (2017). ",
+     [
+      "span",
+      {},
+      "The great leveler. Violence and the History of Inequality from the Stone Age to the Twenty-First Century"
+     ],
+     ". Princeton University Press."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964005_ref44",
+      "lang": "en"
+     },
+     "Shaw, F. (1975). ",
+     [
+      "span",
+      {},
+      "Poverty and Politics in Mexico City, 1824-1854 "
+     ],
+     "(Tesis de doctorado). The University of Florida."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964005_ref45"
+     },
+     "Sifres Fernández, V. (2015). ",
+     [
+      "span",
+      {},
+      "Poderes, sanidad y marginación: el cólera morbo en la ciudad de San Juan Bautista de Puerto Rico a mediados del siglo XIX "
+     ],
+     "(Tesis de doctorado). Universidad de Puerto Rico."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964005_ref46"
+     },
+     "Snow, J. (1991). Sobre el modo de transmisión del cólera [1849]. ",
+     [
+      "span",
+      {},
+      "Salud Pública de México, 33"
+     ],
+     "(2)."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964005_ref47"
+     },
+     "Svampa, M. (2021). La pandemia en América Latina. Nueve tesis para un balance provisorio. ",
+     [
+      "span",
+      {},
+      "Nueva Sociedad"
+     ],
+     ", (291). ",
+     [
+      "a",
+      {
+       "href": "https://www.nuso.org/articulo/la-pandemia-desde-america-latina"
+      },
+      "https://www.nuso.org/articulo/la-pandemia-desde-america-latina"
+     ],
+     "/"
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964005_ref48"
+     },
+     "Velasco, M. (1984).",
+     [
+      "span",
+      {},
+      " La población de la ciudad de México en el siglo XIX y la mortalidad por cólera en 1833"
+     ],
+     " (Tesis de maestría). El Colegio de México"
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964005_ref49"
+     },
+     "Villar del, P. (1833). ",
+     [
+      "span",
+      {},
+      "El Cholera-morbus epidémico puesto del modo más acomodado a sus usos y costumbres de orden del Supremo Gobierno"
+     ],
+     ". Imprenta del Águila."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Fuentes"
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964005_ref50"
+     },
+     "Archivo Histórico de la Ciudad de México, Fondo Ayuntamiento y Fondo Demografía (AHCDMX, F.A. y F.D.)"
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964005_ref51"
+     },
+     "Archivo de la \r\nSecretaría de Salud, Sección Epidemiología, Fondo Salubridad Pública \r\n(ASS, S.E., F.S.P.) C.11, exp. 11, 22 de octubre de 1918."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964005_ref52"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "Civilización"
+     ],
+     ". (2 de noviembre de 1918). En lucha contra la muerte. León, Guanajuato."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964005_ref53"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "El Demócrata"
+     ],
+     ". (5 de agosto de 1833). Núm.101. Ciudad de México."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964005_ref54"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "El Demócrata"
+     ],
+     ". (7 de agosto de 1833). Núm.103, Ciudad de México."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964005_ref55"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "El Demócrata"
+     ],
+     ". (10 de octubre de 1918). La epidemia de influenza toma incremento, núm. 613. Ciudad de México."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964005_ref56"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "El Demócrata"
+     ],
+     ". (12 de octubre de 1918). \r\nPasan ya de mil los casos de influenza española que se registran en la \r\ncapital, núm. 615. Ciudad de México."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964005_ref57"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "El Fénix de la Libertad"
+     ],
+     ". (28 de junio de 1833). Miedo de la Chólera. Ciudad de México."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964005_ref58"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "El Fénix de la Libertad"
+     ],
+     ". (14 de agosto de 1833). Verdadera nobleza y filantropía, núm. 14. Ciudad de México."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964005_ref59"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "El Fénix de la Libertad"
+     ],
+     ". (27 de agosto de 1833). Comunicados. Ciudad de México."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964005_ref60"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "El Informador"
+     ],
+     ". (22 de octubre de 1918). Serán internados en la cárcel de Bélen todos los mendigos que hay en la capital. Guadalajara."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964005_ref61"
+     },
+     "El Informador. (25 de octubre de 1918). En Guadalajara existen ya muchos casos de la influenza española, núm. 385. Guadalajara."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964005_ref62"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "El Pueblo"
+     ],
+     ". (26 de octubre de 1918). La deficiencia municipal está fomentando la I. española, núm. 1447. Ciudad de México."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964005_ref63"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "El Pueblo"
+     ],
+     ". (28 de octubre de 1918). S/T, núm. 1449. Ciudad de México."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964005_ref64"
+     },
+     "El Pueblo. (8 de noviembre de 1918). La democracia del jabón y el agua limpia, núm. 1450. Ciudad de México."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964005_ref65"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "El Pueblo"
+     ],
+     ". (2 de noviembre de 1918). Eficaces medidas tomaron para combatir la epidemia, núm. 1454. Ciudad de México."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964005_ref66"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "El Pueblo"
+     ],
+     ". (2 de noviembre de 1918). Aves de paso, núm. 1454. Ciudad de México."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964005_ref67"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "El Pueblo"
+     ],
+     ". (2 de noviembre de 1918). En el Norte y en el N.E. de la C., está el peligro. Ciudad de México."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964005_ref68"
+     },
+     "El Pueblo. (4 de noviembre de 1918). La peste negra, núm. 1456. Ciudad de México."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964005_ref69"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "Excélsior"
+     ],
+     ". (20 de octubre de 1918). La influenza se inclina a extenderse, núm. 582. Ciudad de México."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964005_ref70"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "Excélsior"
+     ],
+     ". (26 de octubre de 1918). \r\nInsistimos en que hasta hoy la influenza carece de proporciones \r\nalarmantes, núm. 588. Ciudad de México."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964005_ref71"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "Excélsior"
+     ],
+     ". (31 de octubre de 1918). Puebla y Pachuca cruelmente flageladas por la influenza, núm. 593. Ciudad de México."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964005_ref72"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "Excélsior"
+     ],
+     ". (16 de noviembre de 1918). La influenza tiende a desaparecer en todo el Distrito Federal, núm. 609. Ciudad de México."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964005_ref73"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "Excélsior"
+     ],
+     ". (27 de octubre de 1918). La influenza española se recrudece en la parte norte de la metrópoli, núm. 589. Ciudad de México."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964005_ref74"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "Excélsior"
+     ],
+     ". (6 de noviembre de 1918). Es ya tiempo de hacer algo contra la influenza, núm. 599. Ciudad de México."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964005_ref75"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "La Antorcha"
+     ],
+     ". (27 de junio de 1833). Bando del Gobernador. Tomo I, núm. 88. Ciudad de México."
+    ],
+    "\r\n",
+    [
+     "p",
+     {
+      "id": "t-redalyc_314964005_ref76"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "La Antorcha"
+     ],
+     ". (29 de junio de 1833). Oficio \r\ncon que se presentaron estos avisos a la Dirección de Sanidad por el \r\npresidente de la comisión encomendada por ella para formarlos. Tomo I, \r\nnúm. 90. Ciudad de México."
+    ],
+    "\r\n",
+    [
+     "p",
+     {},
+     "Notas"
+    ],
+    "\r\n",
+    [
+     "span",
+     {
+      "id": "t-fn1"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "1"
+     ],
+     " No obstante, Arnstein Aassve y otros (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964005_ref2",
+       "id": "t-llamada-redalyc_314964005_ref2-1"
+      },
+      "2021"
+     ],
+     ")\r\n demuestran que en las generaciones siguientes a las que vivieron y \r\npadecieron esa epidemia el recuerdo del fenómeno seguía persistiendo."
+    ],
+    "\r\n",
+    [
+     "span",
+     {
+      "id": "t-fn2"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "2"
+     ],
+     " Por ejemplo, Barro, Ursúa y Weng (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964005_ref4",
+       "id": "t-llamada-redalyc_314964005_ref4-1"
+      },
+      "2020"
+     ],
+     ").\r\n El segundo autor es ejecutivo de Dodge and Cox, empresa administradora \r\nde fondos mutuos y la tercera colabora con la empresa EverLife."
+    ],
+    "\r\n",
+    [
+     "span",
+     {
+      "id": "t-fn3"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "3"
+     ],
+     " Dos factores influyen para que el efecto \r\nigualador deje de operar en las economías contemporáneas. Por una parte,\r\n la disminución relativa de muertes respecto a la población total y la \r\nmenor tasa de letalidad y, por otra, el carácter más intensivo en \r\ncapital de los procesos productivos y, por lo tanto, la menor \r\ndependencia de los sectores estratégicos de la disponibilidad de mano de\r\n obra. Si el número de fallecidos por la covid-19 respecto a la \r\npoblación total del planeta hubiera sido igual al de los decesos por \r\ninfluenza en 1918, se habrían registrado 150 millones de decesos. En \r\nalgunos sectores de la economía estadounidense se registran algunos \r\naumentos salariales, pero éstos son atribuibles a otros factores y no a \r\nla pandemia misma."
+    ],
+    "\r\n",
+    [
+     "span",
+     {
+      "id": "t-fn4"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "4"
+     ],
+     " “La enfermedad no es ‘justa’ ni ‘injusta’, pero la frecuencia con que se presenta y la forma en que se produce sí lo son” (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964005_ref5",
+       "id": "t-llamada-redalyc_314964005_ref5-1"
+      },
+      "Bartra, 2022"
+     ],
+     ", p. 37)."
+    ],
+    "\r\n",
+    [
+     "span",
+     {
+      "id": "t-fn5"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "5"
+     ],
+     " Durante el siglo XVII, se registró un \r\ncambio efímero respecto a esa tendencia: en 1656-1657 en Génova el 40 % \r\nde los miembros del Gran y Bajo Consejos falleció a causa de la epidemia\r\n reinante en ese momento (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964005_ref1",
+       "id": "t-llamada-redalyc_314964005_ref1-2"
+      },
+      "Alfani & Murphy, 2017"
+     ],
+     "). Pero ello no implica que la mortalidad entre las clases populares haya sido inferior."
+    ],
+    "\r\n",
+    [
+     "span",
+     {
+      "id": "t-fn6"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "6"
+     ],
+     " En la clase baja del pueblo, […] muchos \r\nindividuos ‘hallan en la beneficencia pública nuevos recursos para dar \r\npábulo a sus vicios’. Esta debe proporcionarse solo a ‘aquellas personas\r\n que no se hallan en estado de trabajar por su avanzada edad o por sus \r\nachaques’” (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964005_ref41",
+       "id": "t-llamada-redalyc_314964005_ref41-1"
+      },
+      "Sánchez, Rubio & de Paula, 1834, p. 329"
+     ],
+     ")."
+    ],
+    "\r\n",
+    [
+     "span",
+     {
+      "id": "t-fn7"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "7"
+     ],
+     " Sin embargo, Vicent Sifres Fernández (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964005_ref45",
+       "id": "t-llamada-redalyc_314964005_ref45-1"
+      },
+      "2015"
+     ],
+     ")\r\n comenta que había habido en Puerto Rico una epidemia de cólera durante \r\nel siglo XVII, la cual, seguramente, al igual que en otros casos, era \r\nconsiderada genéricamente una “peste”."
+    ],
+    "\r\n",
+    [
+     "span",
+     {
+      "id": "t-fn8"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "8"
+     ],
+     " Como acertadamente destacó Asa Briggs (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964005_ref6",
+       "id": "t-llamada-redalyc_314964005_ref6-1"
+      },
+      "1977"
+     ],
+     "),\r\n ahí donde aparecía el cólera se ponía a prueba «la eficiencia y la \r\nresistencia de las estructuras administrativas locales. Exponía \r\nimplacablemente las deficiencias políticas, sociales y morales” (p. 65)."
+    ],
+    "\r\n",
+    [
+     "span",
+     {
+      "id": "t-fn9"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "9"
+     ],
+     " El periódico ",
+     [
+      "span",
+      {},
+      "El Demócrata "
+     ],
+     "(",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964005_ref53",
+       "id": "t-llamada-redalyc_314964005_ref53-2"
+      },
+      "5 de agosto de 1833"
+     ],
+     ") comentaba por ello que “dos epidemias o azotes” asolaban a México, el cólera y la guerra (tomo II, núm. 101)."
+    ],
+    "\r\n",
+    [
+     "span",
+     {
+      "id": "t-fn10"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "10"
+     ],
+     " La desigualdad ante la muerte, dirá asimismo ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964005_ref8",
+       "id": "t-llamada-redalyc_314964005_ref8-3"
+      },
+      "Chevalier (1978)"
+     ],
+     ", resume la desigualdad ante la vida."
+    ],
+    "\r\n",
+    [
+     "span",
+     {
+      "id": "t-fn11"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "11"
+     ],
+     " No es casual por lo tanto que, en los \r\nalbores de la época moderna, los puertos de Génova y Amsterdam fueran \r\nlas puertas de entrada a Europa de las epidemias."
+    ],
+    "\r\n",
+    [
+     "span",
+     {
+      "id": "t-fn12"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "12"
+     ],
+     " Antonio Ibarra (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964005_ref22",
+       "id": "t-llamada-redalyc_314964005_ref22-1"
+      },
+      "2021"
+     ],
+     ")\r\n demuestra la traslación de una parte del comercio exterior desde el \r\npuerto de Veracruz hacia el de Tampico durante la guerra de \r\nindependencia. La consecuencia novedosa de ello fue que por primera vez \r\nuna epidemia no ingresó al territorio mexicano por el puerto de \r\nVeracruz."
+    ],
+    "\r\n",
+    [
+     "span",
+     {
+      "id": "t-fn13"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "13"
+     ],
+     " Tal fue el caso comentado por ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964005_ref45",
+       "id": "t-llamada-redalyc_314964005_ref45-2"
+      },
+      "Sifres Fernández (2015)"
+     ],
+     "\r\n para Cuba donde los comerciantes se aferraron a la teoría miasmática de\r\n la enfermedad alegando que el cólera era causado por condiciones \r\natmosféricas (vientos, tormentas) que transportaban los gérmenes \r\nmortíferos."
+    ],
+    "\r\n",
+    [
+     "span",
+     {
+      "id": "t-fn14"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "14"
+     ],
+     " Entre otras medidas radicales, los \r\ndecretos estipulaban el patronato nacional, la supresión de la coacción \r\ncivil en el cobro del diezmo, la clausura de la Real y Pontificia \r\nUniversidad de México y la abolición del fuero militar. El análisis \r\ndetallado del enfrentamiento entre la alta jerarquía eclesiástica y los \r\npolíticos liberales se encuentra en María Eugenia García Ugarte (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964005_ref16",
+       "id": "t-llamada-redalyc_314964005_ref16-1"
+      },
+      "2010"
+     ],
+     ", pp. 109-122)."
+    ],
+    "\r\n",
+    [
+     "span",
+     {
+      "id": "t-fn15"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "15"
+     ],
+     " Durante la sesión de cabildo del 3 de \r\nagosto de 1833, se incluyó entre los potenciales benefactores a las \r\ninstituciones religiosas: “Que se exite (sic) a todos los Conventos de \r\nReligiosos de esta Capital, a fin de que franqueen cada uno una sala \r\npara recoger en ella los enfermos de Cholera morbus” (AHCDMX, F.A., \r\n153A)."
+    ],
+    "\r\n",
+    [
+     "span",
+     {
+      "id": "t-fn16"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "16"
+     ],
+     " La cifra total de defunciones está sujeta a evaluaciones muy diferentes. Por ejemplo, Frederick Shaw (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964005_ref44",
+       "id": "t-llamada-redalyc_314964005_ref44-3"
+      },
+      "1975"
+     ],
+     ")\r\n refiere 37 863 enfermos y 3 822 muertos, aunque reconoce que el número \r\npudo ser sustancialmente mayor ya que “el cálculo oficial no incluyó los\r\n fallecidos en los hospitales y en varios barrios populosos” (p. 184)."
+    ],
+    "\r\n",
+    [
+     "span",
+     {
+      "id": "t-fn17"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "17"
+     ],
+     " Un indicador adicional de la desigualdad \r\nante la muerte es el siguiente: en Guadalajara, el 88 % de los \r\nfallecidos por el cólera fueron enterrados de limosna, es decir, fueron a\r\n parar a la fosa común al no poder sufragar una tumba propia (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964005_ref34",
+       "id": "t-llamada-redalyc_314964005_ref34-3"
+      },
+      "Oliver, 1992"
+     ],
+     ").\r\n Por ello, señala la investigadora, “los privilegios no solo se \r\nmanifiestan en la forma de vivir, sino también en la forma de enfermar, \r\nde vivir y de ser enterrado” (p. 103)."
+    ],
+    "\r\n",
+    [
+     "span",
+     {
+      "id": "t-fn18"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "18"
+     ],
+     " Sonia Pérez Toledo (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964005_ref36",
+       "id": "t-llamada-redalyc_314964005_ref36-3"
+      },
+      "2011"
+     ],
+     "),\r\n sin negar esta radiografía citadina relativiza la estricta segmentación\r\n del suelo urbano. Efectivamente, demuestra que una parte importante de \r\nlos talleres artesanales, mismos que incluían además el lugar de \r\nfabricación, el mostrador de venta del producto y la vivienda, se \r\nlocalizaban en el centro."
+    ],
+    "\r\n",
+    [
+     "span",
+     {
+      "id": "t-fn19"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "19"
+     ],
+     " l estudio, realizado por Laura Machuca (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964005_ref24",
+       "id": "t-llamada-redalyc_314964005_ref24-1"
+      },
+      "2006"
+     ],
+     "),\r\n cuestiona la desigualdad ante la enfermedad y la muerte. Ciertamente, \r\nlas medidas drásticas asumidas en este poblado campechano incidieron en \r\nla nula morbilidad por cólera, pero ello porque no se conjugó con otros \r\nfactores como la fuente de agua si hubiera sido utilizada ",
+     [
+      "span",
+      {},
+      "más arriba"
+     ],
+     "\r\n por otros pobladores donde el cólera reinaba. Por lo demás sería \r\nerróneo omitir que hubo “gente de bien” que falleció de cólera: siempre \r\nse cita el caso del gobernador Furlong de Puebla. Pero la cuestión \r\nradica en las tasas de morbimortalidad por clases sociales."
+    ],
+    "\r\n",
+    [
+     "span",
+     {
+      "id": "t-fn20"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "20"
+     ],
+     " “La epidemia es un factor importante en la\r\n toma de conciencia acerca del peligro que representa para el interés \r\ncomún la aglomeración de pobres. Las ordenanzas contra los mendicantes y\r\n los vagabundos entraban a formar parte desde entonces de la serie de \r\nmedidas inmediatas adoptadas por las autoridades con el fin de impedir \r\nla difusión de la peste; y esta era una de las causas más importantes \r\ndel miedo a los pobres” (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964005_ref18",
+       "id": "t-llamada-redalyc_314964005_ref18-1"
+      },
+      "Geremek, 1989, p. 143"
+     ],
+     ").\r\n Decían igualmente los comisionados por la Corona española para \r\n“observar el colera morbo en países extranjeros”, que “si las clases \r\nricas de la sociedad no hallasen suficientes motivos en los preceptos de\r\n la religión y en los sentimientos de la humanidad para socorrer a los \r\npobres, el egoísmo debe decidirles a este sacrificio, porque cuanto \r\nmayores son los estragos que el mal hace en los infelices, mayor es \r\ntambién el peligro que aquellas corren de ser atacadas” (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964005_ref41",
+       "id": "t-llamada-redalyc_314964005_ref41-2"
+      },
+      "Sánchez, Rubio & de Paula, 1834, p. 328"
+     ],
+     ")."
+    ],
+    "\r\n",
+    [
+     "span",
+     {
+      "id": "t-fn21"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "21"
+     ],
+     " Nos hallamos ante valores dicotómicos en las representaciones de los pobres ya que, como apunta Brian Pullan (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964005_ref39",
+       "id": "t-llamada-redalyc_314964005_ref39-1"
+      },
+      "1992"
+     ],
+     "),\r\n por un lado, son objeto de miedo porque incuban y difunden la \r\nenfermedad y, por otro, son sujetos de la piedad porque son el medio de \r\nliberación de la pestilencia a través del sacrificio que implica la \r\ncaridad."
+    ],
+    "\r\n",
+    [
+     "span",
+     {
+      "id": "t-fn22"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "22"
+     ],
+     " Por ello, la insistencia de las \r\norganizaciones mutualistas de la segunda mitad del siglo XIX en el \r\ncumplimiento por sus agremiados de ciertas conductas no significa la \r\naceptación pasiva del código de la burguesía, sino una reivindicación de\r\n que su condición de trabajadores –pobres– no significaba su carácter de\r\n parias sociales."
+    ],
+    "\r\n",
+    [
+     "span",
+     {
+      "id": "t-fn23"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "23"
+     ],
+     " Al igual que se ha dicho respecto a las \r\nrepresentaciones del negro en la actualidad, la discursividad, sea \r\nescrita, oral o fotográfica y fílmica, no censura la relación entre \r\npobreza y mortalidad en épocas pandémicas, sino que la normaliza \r\n“mediante la naturalización de metáforas de enfermedad y muerte” (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964005_ref29",
+       "id": "t-llamada-redalyc_314964005_ref29-1"
+      },
+      "Martínez, 2017, p. 154"
+     ],
+     ")."
+    ],
+    "\r\n",
+    [
+     "span",
+     {
+      "id": "t-fn24"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "24"
+     ],
+     " Destaca Gertrude ",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964005_ref20",
+       "id": "t-llamada-redalyc_314964005_ref20-1"
+      },
+      "Himmelfarb (1988)"
+     ],
+     ", citando al periódico londinense ",
+     [
+      "span",
+      {},
+      "Economist"
+     ],
+     "\r\n acerca de las descripciones de los pobres enfermos en el siglo XIX: \r\n“Los hombres enfermos, sucios, plagados de insectos, apenas humanos que \r\nse refugiaban en las casas de asistencia ‘pobres’; los buscadores de \r\ncarroña que desempeñaban sus oficios en los albañales, los desagües y \r\nlos montones de basura de la ciudad; los vagos que transportaban con \r\nellos una ‘corriente de vicio y enfermedad’; una peste moral… tan \r\nterrible y devastadora como la peste física que la acompaña” (p. 420). \r\nEs en ese momento de las primeras décadas del XIX cuando se desarrollará\r\n la sensibilidad odorífera de la burguesía que discrimina entre aromas \r\nde las clases “de proporción” y los olores emanados de “las secreciones \r\nde la miseria”, cuya fetidez alerta sobre el riesgo de Infección (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964005_ref9",
+       "id": "t-llamada-redalyc_314964005_ref9-1"
+      },
+      "Corbin, 1987, p.159"
+     ],
+     ")."
+    ],
+    "\r\n",
+    [
+     "span",
+     {
+      "id": "t-fn25"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "25"
+     ],
+     " Texto original: “Si les ouvriers \r\napparaissent alors comme les victimes d’une urbanisation effrénée et \r\nd’un capitalisme mortifère qui se traduisent par des niveaux très élevés\r\n de mortalité infantile, ils sont aussi vus eux-mêmes comme la cause de \r\nleur tragique situation en raison de leurs moeurs dépravés, de \r\nl'alcoolisme des hommes, de la légèreté des femmes et de la négligence \r\ndes enfants par leur parents” (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964005_ref14",
+       "id": "t-llamada-redalyc_314964005_ref14-2"
+      },
+      "Fassin, 2020"
+     ],
+     ")."
+    ],
+    "\r\n",
+    [
+     "span",
+     {
+      "id": "t-fn26"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "26"
+     ],
+     " A la petición de un ciudadano que solicitó\r\n autorización para trasladar al Señor de Santa Teresa a la Catedral “con\r\n objeto de celebrarle un Novenario para implorar sus divinos auxilios en\r\n la Epidemia”, el Ayuntamiento respondió afirmativamente siempre y \r\ncuando no hubiera toque de campanas y que los oradores evitaran en sus \r\nsermones infundir “terror y miedo por la enfermedad que nos ataca” (Acta\r\n de cabildo del 14 de agosto de 1833, AHCDMX, F.A.)."
+    ],
+    "\r\n",
+    [
+     "span",
+     {
+      "id": "t-fn27"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "27"
+     ],
+     " No era esta una certeza exclusiva de los \r\nmédicos mexicanos. Los parisienses sostenían la misma hipótesis respecto\r\n al cólera que afectó un año antes al continente europeo: “Las \r\nafecciones morales, tales como el miedo a la enfermedad, el dolor \r\ncausado por la muerte de un pariente, de un amigo, son condiciones que \r\npredisponen fuertemente al cólera” (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964005_ref12",
+       "id": "t-llamada-redalyc_314964005_ref12-2"
+      },
+      "Debat, 1833, p. 7"
+     ],
+     ").\r\n En otras latitudes y en voz de otra institución, el azote de la peste \r\nes un medio utilizado por dios para enseñar el miedo a él y para \r\nconminar a los hombres a arrepentirse de sus pecados (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964005_ref33",
+       "id": "t-llamada-redalyc_314964005_ref33-1"
+      },
+      "Mountain –archidecano de Quebec–, 1833"
+     ],
+     ", p. 8)."
+    ],
+    "\r\n",
+    [
+     "span",
+     {
+      "id": "t-fn28"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "28"
+     ],
+     " Ello se debió a que mientras que las \r\nnaciones contendientes evitaban hablar del tema o lo censuraban en los \r\nperiódicos, España, que no intervino en la guerra, difundió las noticias\r\n de la enfermedad."
+    ],
+    "\r\n",
+    [
+     "span",
+     {
+      "id": "t-fn29"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "29"
+     ],
+     " La referencia ineludible acerca de la pandemia en Estados Unidos es Alfred Crosby (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964005_ref10",
+       "id": "t-llamada-redalyc_314964005_ref10-1"
+      },
+      "1976"
+     ],
+     ", reeditado en 1989 con el título ",
+     [
+      "span",
+      {},
+      "America’s Forgotten Pandemic. The Influenza of 1918"
+     ],
+     ")."
+    ],
+    "\r\n",
+    [
+     "span",
+     {
+      "id": "t-fn30"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "30"
+     ],
+     " Las autoridades coloniales calcularon 6 \r\nmillones de muertos, cifra muy inferior. Sin embargo, la cifra de 17 o \r\n18 millones es controversial. La alta mortalidad puede deberse no \r\ndirectamente a la influenza, sino a “dislocaciones sociales causadas por\r\n la influenza” (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964005_ref37",
+       "id": "t-llamada-redalyc_314964005_ref37-1"
+      },
+      "Phillips & Killingray, 2003, p. 10"
+     ],
+     ")."
+    ],
+    "\r\n",
+    [
+     "span",
+     {
+      "id": "t-fn31"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "31"
+     ],
+     " Igualmente, los reportes emitidos por los \r\ndirectores de escuelas primarias dan cuenta de la gravedad de la \r\nsituación: “En el transcurso de la semana, por más esfuerzos que he \r\nhecho porque los niños concurran a la Escuela, he sabido con pena que \r\ncasi más de medio pueblo está atacado de la Influenza, por tal motivo no\r\n concurren los alumnos” (Del director de la Escuela Primaria Elemental \r\nno.156 para niños del pueblo de Zapotitlán a la Presidencia Municipal de\r\n Ixtapalapa, ASS, S. E, F.S.P., C.12, Exp. 1, 25 de octubre de 1918)."
+    ],
+    "\r\n",
+    [
+     "span",
+     {
+      "id": "t-fn32"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "32"
+     ],
+     " Este investigador demuestra que el \r\nincremento de la tasa de mortalidad entre 1918 y 1919 en las provincias \r\ndel centro y del litoral argentinos fue entre dos y seis veces mayor que\r\n en años anteriores, mientras que en las provincias del norte, las más \r\npobres del país, fue entre 11 y 133 veces mayor. Igualmente, hay una \r\ncorrelación positiva entre tasa de mortalidad y tasa de analfabetismo y \r\nentre número de médicos por mil habitantes y la primera tasa."
+    ],
+    "\r\n",
+    [
+     "span",
+     {
+      "id": "t-fn33"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "33"
+     ],
+     " “En el departamento sanitario, se nos \r\ninformó ayer que la epidemia de ‘influenza española’ se está \r\ndesarrollando a gran prisa en los barrios situados en el Norte y \r\nNoroeste de la ciudad” (En el Norte y en el N.E. de la C., está el \r\npeligro. ",
+     [
+      "span",
+      {}
+     ],
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964005_ref67",
+       "id": "t-llamada-redalyc_314964005_ref67-1"
+      },
+      [
+       "span",
+       {},
+       "El Pueblo"
+      ],
+      ", 2 de noviembre de 1918"
+     ],
+     ")."
+    ],
+    "\r\n",
+    [
+     "span",
+     {
+      "id": "t-fn34"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "34"
+     ],
+     " El Departamento de Salubridad ha ordenado \r\nque todos los enfermos de gripa que no tengan recursos sean llevados al \r\nHospital General, para evitar la propagación de la epidemia” (Serán \r\ninternados en la cárcel de Bélen todos los mendigos que hay en la \r\ncapital. ",
+     [
+      "span",
+      {}
+     ],
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964005_ref60",
+       "id": "t-llamada-redalyc_314964005_ref60-1"
+      },
+      [
+       "span",
+       {},
+       "El Informador"
+      ],
+      ", 22 de octubre de 1918"
+     ],
+     ")."
+    ],
+    "\r\n",
+    [
+     "span",
+     {
+      "id": "t-fn35"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "35"
+     ],
+     " Los datos se corresponden con lo reportado\r\n por otra fuente, la de un tesista, quien señala que del 15 de octubre \r\nal 15 de diciembre habían ingresado 802 enfermos, de los cuales \r\nfallecieron 232, 141 de “gripa” (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964005_ref30",
+       "id": "t-llamada-redalyc_314964005_ref30-1"
+      },
+      "Mazari, 1919"
+     ],
+     ").\r\n Es preciso insistir en el hecho de que el Hospital General atendía a \r\nindividuos de escasos recursos económicos y que la población más holgada\r\n no acudía a establecimientos hospitalarios para curarse."
+    ],
+    "\r\n",
+    [
+     "span",
+     {
+      "id": "t-fn36"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "36"
+     ],
+     " “Como quiera que la fiebre española ha \r\nhecho su aparición en México, temen que dichos zanjones, que arrancan de\r\n la plaza de Peralvillo y terminan a medio camino de Guadalupe, \r\ninfeccionen con los pútridos miasmas que de ellos se desprende, al \r\nvecindario de aquel populoso suburbio” (",
+     [
+      "span",
+      {}
+     ],
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964005_ref63",
+       "id": "t-llamada-redalyc_314964005_ref63-1"
+      },
+      [
+       "span",
+       {},
+       "El Pueblo"
+      ],
+      ", 28 de octubre de 1918"
+     ],
+     ", núm. 1449)."
+    ],
+    "\r\n",
+    [
+     "span",
+     {
+      "id": "t-fn37"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "37"
+     ],
+     " “Francisco Díaz de León [un empresario] \r\npatrocinó un proyecto para asistir a los mendigos que, ‘con perjuicio de\r\n los demás’ inficionaban la atmósfera (la cita pertenece a Juan de Dios \r\nPeza, poeta mexicano de la segunda mitad del siglo XIX y la primera \r\ndécada del XX). No solo los médicos y los higienistas asociaban la \r\npobreza a la suciedad, sino que esta percepción incluyó a otros grupos \r\nde las elites urbanas” (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964005_ref23",
+       "id": "t-llamada-redalyc_314964005_ref23-2"
+      },
+      "Lorenzo Río, 2011"
+     ],
+     ", p. 82)."
+    ],
+    "\r\n",
+    [
+     "span",
+     {
+      "id": "t-fn38"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "38"
+     ],
+     " El fondo ",
+     [
+      "span",
+      {},
+      "Vagos y rateros"
+     ],
+     "\r\n (vol. 4159) del Archivo Histórico de la Ciudad de México contiene los \r\nexpedientes de todas las detenciones de supuestos individuos consignados\r\n como tales. Lo paradójico es que, por un lado, muchos declaran tener un\r\n oficio aunque no puedan ejercerlo, es decir, son desempleados y, por \r\notro, que en algunas ocasiones sus patrones certifiquen que tienen buena\r\n conducta. A los detenidos se les exige que en un plazo de diez días \r\npuedan demostrar que trabajan, so pena de ser encarcelados."
+    ],
+    "\r\n",
+    [
+     "span",
+     {
+      "id": "t-fn39"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "39"
+     ],
+     " Sin embargo, hay que considerar la obra de Alberto Pani (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964005_ref35",
+       "id": "t-llamada-redalyc_314964005_ref35-1"
+      },
+      "1916"
+     ],
+     "),\r\n quien asume que la pobreza y las condiciones precarias de vida de la \r\nmayoría de la población están determinadas por ingresos salariales \r\nextremadamente insuficientes y no por razones de una deficiente \r\nmoralidad."
+    ],
+    "\r\n",
+    [
+     "span",
+     {
+      "id": "t-fn40"
+     },
+     "\r\n",
+     [
+      "span",
+      {},
+      "40"
+     ],
+     " Retomo esta distinción de la propuesta de Evangelina Martich (",
+     [
+      "a",
+      {
+       "href": "#t-redalyc_314964005_ref28",
+       "id": "t-llamada-redalyc_314964005_ref28-1"
+      },
+      "2021"
+     ],
+     "),\r\n aunque enfatizo en que se trata de una distinción analítica ya que, en \r\nla mayoría de los países de América Latina, las deficiencias de unas \r\nestán positivamente relacionadas con las de las otras. O sea, las \r\ncondiciones precarias de vida van de la mano de una muy baja o nula \r\nposibilidad de acceder a los servicios de salud."
+    ],
+    "\r\n"
+   ],
+   "\r\n"
+  ],
+  "\r\n",
+  [
+   "span",
+   {
+    "id": "t-creditos"
+   },
+   "\r\n",
+   "\r\n",
+   [
+    "span",
+    {
+     "id": "t-logo-izquierda"
+    },
+    "\r\n",
+    [
+     "figura",
+     {}
+    ]
+   ],
+   "\r\n",
+   [
+    "span",
+    {
+     "id": "t-mensaje"
+    },
+    "Modelo de publicación sin fines de lucro para conservar la naturaleza académica y abierta de la comunicación científica",
+    [
+     "br",
+     {}
+    ],
+    "HTML generado a partir de XML-JATS4R"
+   ],
+   "\r\n",
+   [
+    "span",
+    {
+     "id": "t-logo-derecha"
+    },
+    "\r\n",
+    [
+     "figura",
+     {}
+    ]
+   ],
+   "\r\n",
+   "\r\n"
+  ],
+  "\r\n\r\n\r\n"
+ ]
+}
