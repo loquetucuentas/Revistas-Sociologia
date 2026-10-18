@@ -2,12 +2,14 @@
 
 import urllib.parse
 
-from comun import (limpiar_texto, normalizar_idioma, normalizar_licencia, obtener_json, sin_tildes,
+from comun import (detectar_idioma, limpiar_texto, normalizar_idioma, normalizar_licencia, obtener_json, sin_tildes,
                    url_segura)
 
 API = "https://doaj.org/api/search/journals/"
-# Materia: clasificación LCC de sociología (HM) o término que contenga "sociolog".
-CONSULTA = 'bibjson.language:ES AND (bibjson.subject.code:HM* OR bibjson.subject.term:sociolog*)'
+# La API de DOAJ no admite comodines (*), así que se pide el término
+# "sociology", que también encuentra "Sociology (General)" y "Urban sociology".
+# Después se filtra en local por código LCC HM o término con "sociolog".
+CONSULTA = "bibjson.language:ES AND bibjson.subject.term:sociology"
 TAMANO_PAGINA = 100
 
 
@@ -36,10 +38,16 @@ def convertir(registro):
     ref = b.get("ref") or {}
     licencias = [normalizar_licencia(l.get("url"), l.get("type")) for l in b.get("license") or []]
     materias = [limpiar_texto(m.get("term")) for m in b.get("subject") or [] if m.get("term")]
+    titulo = limpiar_texto(b.get("title"))
+    alternativo = limpiar_texto(b.get("alternative_title")) or None
     return {
         "id": identificador,
-        "titulo": limpiar_texto(b.get("title")),
-        "titulo_alternativo": limpiar_texto(b.get("alternative_title")) or None,
+        "titulo": titulo,
+        # Los nombres de revista son nombres propios (excepción de WCAG 3.1.2),
+        # pero si el idioma es claro se marca para que VoiceOver los pronuncie bien.
+        "idioma_titulo": detectar_idioma(titulo, minimo_palabras=2),
+        "titulo_alternativo": alternativo,
+        "idioma_titulo_alternativo": detectar_idioma(alternativo, minimo_palabras=2),
         "idiomas": idiomas(b),
         "issn_impreso": pissn,
         "issn_electronico": eissn,

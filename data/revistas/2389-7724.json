@@ -1,0 +1,973 @@
+{
+ "version": 1,
+ "generado": "2026-10-18T05:53:59+00:00",
+ "es_prueba": false,
+ "revista": {
+  "id": "2389-7724",
+  "titulo": "Cultura, Educación, Sociedad",
+  "idioma_titulo": "es",
+  "titulo_alternativo": null,
+  "idioma_titulo_alternativo": null,
+  "idiomas": [
+   "es"
+  ],
+  "issn_impreso": "2145-9258",
+  "issn_electronico": "2389-7724",
+  "editorial": "Educosta",
+  "pais": "CO",
+  "materias": [
+   "Education",
+   "Psychology",
+   "Sociology (General)"
+  ],
+  "palabras_clave": [
+   "human sciences",
+   "social sciences",
+   "education",
+   "culture",
+   "society",
+   "psychology"
+  ],
+  "licencias": [
+   {
+    "nombre": "CC BY-NC-ND 4.0",
+    "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+   }
+  ],
+  "url": "https://revistascientificas.cuc.edu.co/culturaeducacionysociedad/index",
+  "url_doaj": "https://doaj.org/toc/2389-7724",
+  "descripcion": null,
+  "fuente_ficha": "DOAJ",
+  "archivo": "revistas/2389-7724.json",
+  "ultimo_numero": "Vol. 17, núm. 1 (2026)",
+  "fuente_numeros": "Crossref"
+ },
+ "numeros": [
+  {
+   "id": "v17-n1-2026",
+   "volumen": "17",
+   "numero": "1",
+   "anio": 2026,
+   "fecha": "2026-06-16",
+   "etiqueta": "Vol. 17, núm. 1 (2026)",
+   "fuente": "Crossref",
+   "articulos": [
+    {
+     "id": "10.17981/cultedusoc.17.1.2025.6731",
+     "titulo": "Advisory collaboration for inclusive education in Asia: a theoretical model grounded in the Maldivian policy and global practice",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Mohamed Nasir",
+       "orcid": "https://orcid.org/0009-0002-4314-8112"
+      },
+      {
+       "nombre": "Aminath-Shafia Adam",
+       "orcid": "https://orcid.org/0009-0003-2418-2785"
+      }
+     ],
+     "resumen": "Introduction: Inclusive education policies alone are insufficient without structured collaboration between classroom teachers and specialist support staff. In low-resource and small-island contexts, the absence of advisory systems often limits the sustained implementation of inclusive practices. Objective: This study examines advisory collaboration as a system-level support mechanism and develops a Six Pillar Model for the Maldives, drawing on global literature and national policy documents. Method: A conceptual model-building approach was adopted, guided by PRISMA procedures. A total of 47 international and national sources were identified, screened, and analysed using descriptive mapping and inductive thematic synthesis, following Jabareen’s framework. Results: Six key pillars were identified: policy alignment and coherence; clearly defined advisory roles and structures; professional development and capacity building; collaborative decision-making; equitable resource allocation; and monitoring, evaluation, and adaptive feedback. These were grouped into structural enablers and functional processes. Conclusions: The Six Pillar Model links inclusive education policy with classroom practice by positioning advisory collaboration as a structured system component. While developed for the Maldivian context, the model may also be applicable to other small-island and low-resource education systems.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+     },
+     "url": "https://doi.org/10.17981/cultedusoc.17.1.2025.6731",
+     "doi": "10.17981/cultedusoc.17.1.2025.6731",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.17981/cultedusoc.17.1.2026.6528",
+     "titulo": "Asociaciones entre competencias cognitivas, lingüísticas y matemáticas con variables sociodemográficas en estudiantes colombianos",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Ciro-Ernesto Redondo-Mendoza",
+       "orcid": "https://orcid.org/0000-0002-2357-7289"
+      },
+      {
+       "nombre": "Wilber -Arduai Mejía-Toro",
+       "orcid": "https://orcid.org/0000-0003-1921-0916"
+      },
+      {
+       "nombre": "Nathaly Berrío-García",
+       "orcid": "https://orcid.org/0000-0002-3574-4101"
+      }
+     ],
+     "resumen": "Introducción: La evaluación psicopedagógica en sus dimensiones cognitiva, lingüística y lógico-matemática permite caracterizar el rendimiento académico de los estudiantes en relación con variables sociodemográficas relevantes. En Colombia, las desigualdades educativas persisten según el género, la edad y el estrato socioeconómico, afectando el desarrollo integral de los estudiantes. Objetivos: Analizar las asociaciones entre el desempeño psicopedagógico en las dimensiones cognitiva, lingüística y lógico-matemática con el género, la edad, el nivel socioeconómico y el grado escolar en estudiantes colombianos. Metodología: Se desarrolló un estudio cuantitativo descriptivo-correlacional de corte transversal con 116 estudiantes entre 11 y 21 años (54.3% mujeres). Se aplicó la Batería EVALÚA, valorando cuatro índices de desempeño: General Cognitivo (IGC), General de Lectura (IGL), General de Escritura (IGE) y General de Matemáticas (IGM). Los análisis estadísticos se realizaron mediante correlaciones de Spearman, pruebas U de Mann-Whitney y t de Student. Resultados: Se identificó una relación inversa entre el grado escolar y la edad con el desempeño en todas las dimensiones evaluadas (IGC, IGL, IGE e IGM). A medida que aumentaban la edad y el grado escolar, los rendimientos tendieron a disminuir. En contraste, no se observaron diferencias significativas en el desempeño según el género ni el estrato socioeconómico. Finalmente, se evidenciaron asociaciones fuertes entre el rendimiento global y sus dimensiones específicas. Conclusiones: Las relaciones entre el rendimiento académico y los factores socioeducativos se explican principalmente por la edad y el nivel educativo. Aunque las desigualdades socioeconómicas no fueron estadísticamente significativas, reflejan tendencias relevantes en los desempeños académicos. La interdependencia entre las habilidades cognitivas, lingüísticas y matemáticas resulta especialmente notable, respaldando así enfoques pedagógicos integrados.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+     },
+     "url": "https://doi.org/10.17981/cultedusoc.17.1.2026.6528",
+     "doi": "10.17981/cultedusoc.17.1.2026.6528",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.17981/cultedusoc.17.1.2026.6716",
+     "titulo": "Diseño de una estrategia pedagógica dirigida a la población LGBTIQ+ en contextos educativos",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Larry Peñaranda-Gómez",
+       "orcid": "https://orcid.org/0000-0003-3493-0399"
+      },
+      {
+       "nombre": "Pamela Maria-Laura Álvarez-Medina",
+       "orcid": null
+      },
+      {
+       "nombre": "Isabel-Cristina Vásquez-Restrepo",
+       "orcid": "https://orcid.org/0009-0003-2734-9325"
+      },
+      {
+       "nombre": "Katherine Ocampo-Osorio",
+       "orcid": null
+      }
+     ],
+     "resumen": "Introducción: La comunidad LGBTIQ+ enfrenta diversas formas de discriminación en distintos ámbitos de la vida, sustentadas en prejuicios asociados a la identidad de género y la orientación sexual. En este contexto, la educación superior se configura como un escenario clave para promover estrategias pedagógicas orientadas a la inclusión y al reconocimiento de la diversidad sexual. Objetivo: Diseñar y validar una estrategia pedagógica que favorezca procesos de inclusión educativa de la población LGBTIQ+ en instituciones de educación superior. Metodología: La investigación se desarrolló desde un enfoque cualitativo, bajo un paradigma interpretativo y mediante un diseño etnográfico-documental. El estudio se estructuró en tres fases: diagnóstico de las experiencias estudiantiles relacionadas con la diversidad sexual; categorización y contraste de los hallazgos con los fines de la educación en Colombia; y diseño de una propuesta pedagógica orientada a la inclusión. Resultados: Los estudiantes con orientaciones sexuales diversas ingresan a la educación superior con expectativas marcadas por el temor al rechazo, la estigmatización y el juicio social. Aunque reportan experiencias de integración positiva entre pares, persisten vacíos institucionales, especialmente en la formación docente y en la incorporación sistemática de la diversidad sexual en las prácticas pedagógicas. Asimismo, se identificó una débil articulación entre las políticas institucionales y los principios de inclusión establecidos en el sistema educativo colombiano. La estrategia diseñada ofrece lineamientos orientados al fortalecimiento de prácticas inclusivas en el aula y a la promoción de entornos educativos más equitativos. Conclusiones: La inclusión efectiva de la diversidad sexual en la educación superior requiere trascender acciones aisladas y avanzar hacia políticas institucionales, procesos de formación docente y prácticas pedagógicas coherentes con los principios de equidad y respeto. La propuesta desarrollada constituye un aporte pertinente para la construcción de ambientes educativos seguros, inclusivos y respetuosos de la diversidad.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+     },
+     "url": "https://doi.org/10.17981/cultedusoc.17.1.2026.6716",
+     "doi": "10.17981/cultedusoc.17.1.2026.6716",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.17981/cultedusoc.17.1.2026.6822",
+     "titulo": "From problem to project: A hybrid Problem-Based Learning (PBL) combined with Project-Based Learning (PjBL) intervention in graphic design teaching",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Idania Dorta-Rodríguez",
+       "orcid": "https://orcid.org/0000-0002-4611-0278"
+      },
+      {
+       "nombre": "Juan-José Cabello-Eras",
+       "orcid": "https://orcid.org/0000-0003-0949-0862"
+      },
+      {
+       "nombre": "Alexis Sagastume-Gutiérrez",
+       "orcid": "https://orcid.org/0000-0003-0188-7101"
+      }
+     ],
+     "resumen": "Introducción: La pedagogía tradicional en el diseño gráfico usualmente carece de las dimensiones experienciales y reflexivas del aprendizaje. Para abordar estas deficiencias, puede ser útil una implementación secuencial del Aprendizaje Basado en Problemas (PBL), con el Aprendizaje Basado en Proyectos (PjBL), que articulen el planteamiento de problemas y la indagación con la crítica iterativa y la producción estructurada. Objetivo: Analizar los efectos en el aprendizaje de la implementación de un modelo híbrido PBL-PjBL y el impacto en las autopercepciones de los estudiantes sobre la motivación, la gestión de procesos y la autoeficacia técnica. Metodología: Se implementó un estudio cuantitativo, cuasiexperimental, con medidas preimplementación (de línea base) y postimplementación. El estudio se llevó a cabo con 126 estudiantes distribuidos en seis grupos de primer año de pregrado del mismo curso de diseño gráfico. Los grupos A-B, definidos como control, recibieron la pedagogía tradicional, mientras que en las secciones C a F, definidas como híbridas, se implementó el enfoque híbrido. Para la calificación pre y post se utilizó un sistema de doble rúbrica (escala de 6 a 30) y un cuestionario (un autoinforme de 10 ítems con una escala de 1 a 5). Resultados: Después de ajustar al desempeño de línea base, las secciones híbridas resultaron en un desempeño mejor y más consistente tanto en las rúbricas como en el cuestionario (medias más altas y menor dispersión) en comparación con los grupos de control. Conclusiones: Combinar la mediación instruccional con la evaluación multidimensional en diseño gráfico es fundamental para el proceso de aprendizaje del estudiante. Esto subraya la importancia de la aplicación híbrida del aprendizaje basado en problemas y basado en proyectos.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+     },
+     "url": "https://doi.org/10.17981/cultedusoc.17.1.2026.6822",
+     "doi": "10.17981/cultedusoc.17.1.2026.6822",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.17981/cultedusoc.17.1.2026.6859",
+     "titulo": "Desafíos para la innovación en posgrados: integración de la investigación electrónica y competencias digitales docentes",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Paula Colorado ordoñez",
+       "orcid": "https://orcid.org/0000-0002-2224-0326"
+      },
+      {
+       "nombre": "José-Eduardo Padilla-Beltrán",
+       "orcid": "https://orcid.org/0000-0003-4784-0739"
+      },
+      {
+       "nombre": "Luis-Eduardo Pérez-Peregrino",
+       "orcid": "https://orcid.org/0009-0009-6650-2306"
+      }
+     ],
+     "resumen": "Introducción: Los avances tecnológicos han transformado las competencias digitales de los docentes y la gestión de la investigación en la educación superior. En tal sentido, la investigación electrónica se convierte en uno de los principales ejes para fortalecer la formación investigativa y la innovación pedagógica en los programas de posgrado. Objetivo: Analizar los retos institucionales que enfrentan las instituciones de Educación Superior (IES) para integrar herramientas de investigación electrónica en sus programas de posgrado, tomando como referente conceptual el marco DigCompEdu. Metodología: Este estudio analiza percepciones de docentes y egresados para lo cual se aplicó una encuesta estructurada a 170 de ellos, de programas de maestría y doctorado y se realizaron 22 entrevistas semiestructuradas analizadas con NVivo. Se utilizó un enfoque mixto descriptivo correlacional aplicando correlaciones de Pearson mediante Python, para establecer tendencias en el uso de herramientas tecnológicas y las competencias para la investigación. Resultados: Se encontró gran afinidad con buscadores académicos (82%), pero bajo uso de software especializado para analizar datos. Las correlaciones mostraron que el dominio técnico de plataformas no garantiza la participación en redes colaborativas ni el desarrollo de competencias pedagógicas. Conclusiones: Se requiere fortalecer programas de capacitación a docentes, definir políticas institucionales e impulsar redes de colaboración académica que articulen las competencias digitales con la investigación. Estos hallazgos abren camino para replantear la cultura investigativa y la innovación educativa en las IES colombianas.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+     },
+     "url": "https://doi.org/10.17981/cultedusoc.17.1.2026.6859",
+     "doi": "10.17981/cultedusoc.17.1.2026.6859",
+     "paginas": "1-22",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.17981/cultedusoc.17.1.2026.7548",
+     "titulo": "EDITORIAL: Rethinking educational quality in the age of evidence, analytics, and artificial intelligence",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Vicente Mercado",
+       "orcid": "https://orcid.org/0000-0002-9585-189X"
+      }
+     ],
+     "resumen": "Improving educational quality requires a deeper understanding of teaching and learning processes: which practices produce positive outcomes and which aspects need to be reconsidered. In this context, evidence-based education and predictive analytics offer complementary perspectives that can guide educational decisions, and help institutions respond more effectively to the educational needs of students. Evidence-based education seeks to ensure that decisions do not depend exclusively on intuition, tradition, or experience. At the same time, it recognizes that the professional judgment of educators remains essential. Evidence can help assess the effectiveness of a strategy, identify its strengths and limitations, and support continuous improvement",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+     },
+     "url": "https://doi.org/10.17981/cultedusoc.17.1.2026.7548",
+     "doi": "10.17981/cultedusoc.17.1.2026.7548",
+     "paginas": "1-3",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.17981/cultedusoc.17.1.2026.6857",
+     "titulo": "Exploring positive psychology interventions in enhancing university students’ self-perception and well-being",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Jessica-Giseth Garzón-Mendoza",
+       "orcid": "https://orcid.org/0009-0007-9855-6240"
+      },
+      {
+       "nombre": "Yuranny-Marcela Romero-Archila",
+       "orcid": "https://orcid.org/0009-0001-4007-8983"
+      }
+     ],
+     "resumen": "Introduction: Positive psychology is valuable in higher education for promoting students’ well-being. Implementing PERMA (Positive Emotions- Engagement- Relationships- Meaning- Accomplishment) based interventions in tertiary education is essential for students’ self-perception and resilience. These strategies might help foster students’ well-being, which allow them to enrich the university experience. Objective: This study aimed to analyze what PERMA based interventions reveal about a public university students’ self-perception, resilience and personal growth. Methodology: A qualitative action research study was conducted with 18 third semester Modern Languages students in Boyacá, Colombia. The pedagogical intervention involved three main Task-based workshops grounded in the PERMA model pillars: Positive Emotions, Relationships and Achievements. Data from students’ class artifacts, constant observation grids filled throughout the process and a focus group were analyzed using inductive thematic analysis. Results: The interventions revealed that participants associate the reflection about their challenges with personal growth and resilience; besides, they perceived gratitude as a key connected emotion, linking past experiences with current identity. Conclusions: The usefulness of the interventions based on the PERMA model in fostering a growth mindset and integral well-being in tertiary education was evident. The participants reinterpreted some of their life experiences focusing on strengths rather than difficulties. Further studies could examine the long-term effects and develop structural models to support student well-being as well as future language teachers’ identity construction. Finally, on the near horizon, the integration of positive psychology into the university curriculum is necessary for the ongoing integral development of students.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+     },
+     "url": "https://doi.org/10.17981/cultedusoc.17.1.2026.6857",
+     "doi": "10.17981/cultedusoc.17.1.2026.6857",
+     "paginas": "1-30",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.17981/cultedusoc.17.1.2026.6614",
+     "titulo": "Habilidades socioemocionales y rendimiento académico: la mediación del sentido de pertenencia escolar de los estudiantes colombianos en PISA 2022",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Rafael-Antonio Viana-Barceló",
+       "orcid": "https://orcid.org/0000-0002-0567-0383"
+      },
+      {
+       "nombre": "Jorge-Luis Navarro España",
+       "orcid": "https://orcid.org/0000-0001-7644-2161"
+      }
+     ],
+     "resumen": "Introducción: las habilidades socioemocionales han resultado de suma importancia en los procesos de aprendizaje y resultados académicos de los estudiantes. De otro lado, cada vez es más evidente el rol mediador que cumple el sentido de pertenencia escolar, entre diferentes factores no cognitivos y el logro académico, por lo que se hace necesario estudiar, para el caso colombiano, estas relaciones en un estudio con un enfoque correlacional. Objetivo: el presente documento tiene como propósito analizar la relación de habilidades socioemocionales de: perseverancia, regulación emocional, curiosidad y el desempeño académico de los estudiantes colombianos en matemáticas y lectura en las pruebas PISA 2022, así como establecer, cuál es el rol que cumple el sentido de pertenencia escolar en este fenómeno. Metodología: a partir de una muestra de 6.349 observaciones correspondiente a por estudiantes colombianos que presentaron la prueba PISA 2022, se estimó un modelo de ecuaciones estructurales (SEM), para determinar las relaciones. Resultados: la estimación permitió determinar que la curiosidad y la perseverancia tienen un efecto positivo y significativo en el desempeño tanto en matemáticas como en lectura. También se logró determinar que el control emocional solamente ejerce influencia en los resultados en matemáticas. De igual manera se encontró que el sentido de pertenencia tiene un efecto mediador en dicha relación. Conclusión: Resulta necesario evaluar las habilidades socioemocionales de manera más sistemática y a un mayor número de estudiantes para generar información valiosa que permita implementar políticas públicas en materia educativa dirigidas a formar más integralmente a esta población.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+     },
+     "url": "https://doi.org/10.17981/cultedusoc.17.1.2026.6614",
+     "doi": "10.17981/cultedusoc.17.1.2026.6614",
+     "paginas": "1-24",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.17981/cultedusoc.17.1.2026.6908",
+     "titulo": "Inteligencia artificial generativa en procesos educativos: ChatGPT para la adaptación de materiales y la evaluación de textos generados por estudiantes",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Jussi Jauhiainen",
+       "orcid": "https://orcid.org/0000-0001-8095-8240"
+      },
+      {
+       "nombre": "Agustín Garagorry-Guerra",
+       "orcid": "https://orcid.org/0009-0005-4038-4437"
+      }
+     ],
+     "resumen": "Introducción: El avance de la inteligencia artificial generativa (IAG) y de los grandes modelos de lenguaje (LLM) ofrece nuevas oportunidades para personalizar la enseñanza y optimizar los procesos de evaluación, aunque también plantea desafíos éticos y pedagógicos para las instituciones educativas. Objetivo: Analizar el uso de ChatGPT-4 en la adaptación personalizada de materiales de aprendizaje, la evaluación de respuestas abiertas y la generación de retroalimentación para estudiantes en contextos escolares y universitarios. Metodología: Se desarrolló un estudio con enfoque mixto. En la fase de adaptación de materiales participaron 110 estudiantes de dos escuelas superiores de Montevideo, Uruguay (40.9% mujeres). En la fase de evaluación y retroalimentación se analizaron 54 respuestas abiertas elaboradas por estudiantes de una maestría en una universidad finlandesa. ChatGPT-4 evaluó las respuestas mediante cinco criterios (relevancia contextual, precisión factual, completitud, consistencia lógica y ortografía y gramática), asignó calificaciones y generó retroalimentación personalizada. Se aplicaron análisis cuantitativos y cualitativos, incluyendo el índice de Levenshtein y comparaciones de longitud textual. Resultados: La adaptación personalizada de materiales contribuyó a una experiencia de aprendizaje más positiva, ajustada al nivel de los participantes; el 66.4% de los estudiantes reportó disfrutar significativamente de los materiales generados por la IAG. Asimismo, ChatGPT-4 proporcionó evaluaciones y retroalimentaciones individualizadas que favorecieron la motivación estudiantil y apoyaron la eficiencia de los procesos educativos. Conclusiones: La IAG constituye una herramienta prometedora para apoyar la personalización del aprendizaje y la evaluación educativa. Sin embargo, debe utilizarse como complemento del juicio humano, acompañada de formación específica y lineamientos éticos que garanticen un uso crítico y pedagógicamente significativo.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+     },
+     "url": "https://doi.org/10.17981/cultedusoc.17.1.2026.6908",
+     "doi": "10.17981/cultedusoc.17.1.2026.6908",
+     "paginas": "1-24",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.17981/cultedusoc.17.1.2026.6771",
+     "titulo": "Water ecoliteracy in education: A bibliometric analysis of global trends and research gaps",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Ruby Ramírez-Gómez",
+       "orcid": "https://orcid.org/0000-0002-7071-643X"
+      },
+      {
+       "nombre": "Esther-Julia Olaya-Marín",
+       "orcid": "https://orcid.org/0000-0002-5819-2477"
+      },
+      {
+       "nombre": "Paola-Julie Aguilar-Cruz",
+       "orcid": "https://orcid.org/0000-0001-8386-9104"
+      }
+     ],
+     "resumen": "Introduction: Ecoliteracy and water education approaches share the goal of fostering an understanding of the interconnections between social and ecological systems. However, a conceptual gap remains regarding how these approaches can be meaningfully integrated within educational contexts. Objective: This study presents a bibliometric analysis of educational research published between 2014 and 2024 to identify publication trends, thematic gaps, and opportunities for conceptual integration between ecoliteracy and water education. Methodology: A bibliometric analysis was conducted on 223 Scopus indexed articles selected according to education related thematic criteria, through Bibliometrix, the study examined publication output and themathic trends. Results: The findings indicate growing research interest in ecoliteracy and water education, with the strongest emphasis on education (8%), followed by sustainability, sustainable development, and water management (4% each). There is also evidence of limited representation in early childhood and primary education, together with an emerging trend toward the conceptual integration of both fields through a convergent model of “water ecoliteracy”. Conclusions: The study proposes the concept of “water ecoliteracy” as an integrative framework for designing educational curricula that foster socioecologically responsible citizenship, particularly in contexts facing water vulnerability.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+     },
+     "url": "https://doi.org/10.17981/cultedusoc.17.1.2026.6771",
+     "doi": "10.17981/cultedusoc.17.1.2026.6771",
+     "paginas": "1-22",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.17981/cultedusoc.17.1.2026.6772",
+     "titulo": "Developing Acehnese oral traditions (Indonesian) into videobased media for literature learning in junior high schools",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Muhammad Idham",
+       "orcid": "https://orcid.org/0009-0002-0998-2410"
+      },
+      {
+       "nombre": "Asriani Asriani",
+       "orcid": "https://orcid.org/0009-0007-7885-3598"
+      },
+      {
+       "nombre": "Subhayni Subhayni",
+       "orcid": "https://orcid.org/0009-0005-1555-1221"
+      },
+      {
+       "nombre": "Nyak Ismail",
+       "orcid": "https://orcid.org/0000-0001-8696-983X"
+      }
+     ],
+     "resumen": "Introduction: Literature learning in junior high schools often relies on text-based materials that students perceive as difficult and unengaging. At the same time, local oral traditions are increasingly marginalized in educational practice, creating a need for innovative media that connect cultural heritage with contemporary digital learning environments. Objective: This study aimed to develop animation-based learning media derived from Acehnese oral traditions for literature instruction in junior high schools and to evaluate its feasibility and effectiveness in supporting student learning and cultural appreciation. Methodology: This research employed a Research and Development (R&D) approach adapted from the Borg and Gall model. The study involved 15 Indonesian language teachers and 100 eighth-grade students from five junior high schools in Aceh Jaya, Indonesia. Data were collected through interviews, classroom observations, questionnaires, and expert validation involving content and media specialists. The development process included needs analysis, product design, expert review, revision, and field testing. Results: The needs analysis revealed that students perceived literature learning as difficult and uninteresting, while teachers experienced challenges in integrating local cultural content into literature lessons. Two animation products based on the Acehnese oral traditions Gunung Terbang and Nek Puteh were developed. Expert evaluation indicated a high level of feasibility (87%). Field testing demonstrated positive responses from teachers and students regarding story clarity, cultural relevance, visual appeal, and contribution to literature learning, although audio quality required minor improvement. Conclusions: The findings indicate that culturally grounded animation effectively enhances literature learning, student engagement, curriculum achievement, cultural preservation, and heritage appreciation.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+     },
+     "url": "https://doi.org/10.17981/cultedusoc.17.1.2026.6772",
+     "doi": "10.17981/cultedusoc.17.1.2026.6772",
+     "paginas": "2-29",
+     "fuente": "Crossref"
+    }
+   ]
+  },
+  {
+   "id": "v16-n2-2026",
+   "volumen": "16",
+   "numero": "2",
+   "anio": 2026,
+   "fecha": "2026-03-04",
+   "etiqueta": "Vol. 16, núm. 2 (2026)",
+   "fuente": "Crossref",
+   "articulos": [
+    {
+     "id": "10.17981/cultedusoc.16.2.2025.6653",
+     "titulo": "Adaptación al español y evidencia de validez basada en el contenido del Mathematics and Technology Attitudes Scale (MTAS)",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Laura-Isabel Rambal-Rivaldo",
+       "orcid": "https://orcid.org/0000-0002-3928-6419"
+      },
+      {
+       "nombre": "José-Hernando Ávila-Toscano",
+       "orcid": "https://orcid.org/0000-0002-2913-1528"
+      },
+      {
+       "nombre": "David-Javier Fortich-Pérez",
+       "orcid": "https://orcid.org/0000-0003-0300-7390"
+      },
+      {
+       "nombre": "Leonardo Vargas-Delgado",
+       "orcid": "https://orcid.org/0000-0002-9014-1418"
+      }
+     ],
+     "resumen": "Introducción: El aprendizaje de la matemática constituye un reto educativo que encuentra en la tecnología un mecanismo de mediación valioso en la formación escolar; sin embargo, ello exige estudiar las reacciones del estudiantado hacia el aprendizaje de matemáticas con mediación tecnológica. No obstante, es limitado el banco de instrumentos en español que midan conjuntamente las actitudes estudiantiles hacia la tecnología y la matemática. Objetivo: Este estudio tuvo como propósito adaptar al español la Mathematics and Technology Attitudes Scale (MTAS) y obtener evidencias de validez basadas en el contenido para su uso con estudiantes de secundaria. Método: Se realizó una traducción del inglés al español y una retrotraducción del español al inglés del MTAS por dos traductores nativos en ambos idiomas. Asimismo, se llevó a cabo una adecuación lingüística orientada a eliminar posibles sesgos de género mediante un grupo focal con cinco expertos y un pilotaje con estudiantes colombianos. El estudio incluyó análisis de legibilidad mediante múltiples índices, y la validez de contenido se obtuvo a partir de la evaluación de jueces expertos en matemática educativa. Resultados: Se presenta la versión adaptada al español con adecuación cultural y actualización de los contenidos de los ítems, evidenciando un alto nivel de validez de contenido según el análisis de expertos, así como un grado de perspicuidad aceptable para la población objetivo. Conclusiones: La versión en español del MTAS constituye una herramienta útil para la investigación sobre las actitudes hacia el uso de la tecnología en el aprendizaje de las matemáticas.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+     },
+     "url": "https://doi.org/10.17981/cultedusoc.16.2.2025.6653",
+     "doi": "10.17981/cultedusoc.16.2.2025.6653",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.17981/cultedusoc.16.2.2025.6496",
+     "titulo": "Administración y gestión en universidades públicas enfocadas en la revolución industrial: Análisis bibliométrico",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Jesús-Enrique García-Guiliany",
+       "orcid": "https://orcid.org/0000-0003-3777-3667"
+      },
+      {
+       "nombre": "Carlos-Andrés Montero-Bula",
+       "orcid": null
+      },
+      {
+       "nombre": "Ana-María Pizarro-De La Hoz",
+       "orcid": null
+      },
+      {
+       "nombre": "Sonia-Ethel Durán",
+       "orcid": "https://orcid.org/0000-0002-0876-7850"
+      }
+     ],
+     "resumen": "Introducción: La industria 4.0 trajo consigo enfoques emergentes adoptados por las universidades para orientar la formación profesional hacia el empoderamiento de las tecnologías originadas en la revolución industrial. Objetivo: Realizar una revisión bibliométrica presentando una mirada integral de la bibliografía académica sobre administración y gestión de universidades públicas y la revolución industrial. Método: El estudio se sustentó en un paradigma mixto, complementando técnicas cualitativas con fases cuantitativas. Se enfocó en el análisis de citas bibliográficas con el fin de identificar patrones de colaboración, revistas relevantes, influencia de los investigadores y visibilidad de sus publicaciones. Se realizó una consulta en la base de datos Scopus, donde se identificaron 78 publicaciones entre 1968 y 2025, seleccionadas para el análisis bibliométrico mediante el software VOSviewer. Resultados: Los hallazgos muestran que el mayor aporte en publicaciones sobre administración y gestión de universidades públicas y revolución industrial proviene de un número reducido de autores y países, principalmente Rusia, Estados Unidos, China, España y Brasil, cuyas contribuciones presentan una dinámica temporal específica. Conclusiones: El análisis bibliométrico permite concluir que la mayoría de los artículos científicos sobre la temática involucra a países reconocidos como desarrollados, lo que genera oportunidades para los países sudamericanos al potenciar el trabajo colaborativo y diversificar las líneas de investigación.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+     },
+     "url": "https://doi.org/10.17981/cultedusoc.16.2.2025.6496",
+     "doi": "10.17981/cultedusoc.16.2.2025.6496",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.17981/cultedusoc.16.2.2025.6678",
+     "titulo": "Assessing the Impact of Rubrics on Students’ Clarity of Expectations and Academic Performance",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Maryam Ahmadova",
+       "orcid": "https://orcid.org/0009-0004-2189-3490"
+      },
+      {
+       "nombre": "Oluwaseyi -Olubunmi Sodiya",
+       "orcid": "https://orcid.org/0000-0002-0152-723X"
+      }
+     ],
+     "resumen": "Introduction: In recent years, one of the challenges faced by educators is managing students’ assessment. However, the use of rubrics has become a necessary approach in teaching and learning practices, acting as structured tools that clearly state expectations, measurement, and evaluation criteria for assigned tasks. Objective: The main objective of the study is to assess the impact of rubric implementation on students’ academic performance based on the clarification of expectations in essay writing assignments. Methodology: The study employed a mixed-methods research design. Data were collected from participants (n = 36) using a survey questionnaire that included nine quantitative items and four open-ended questions for qualitative analysis. Pearson correlation and thematic coding analyses were conducted to examine the data. Results: Findings indicated a moderate, positive correlation between the use of rubrics during revision and the identification of strengths and areas for improvement, r(36) = .49, p = .002, as well as a strong, positive correlation between rubric use during revision and the perceived development of English skills, r(36) = .58, p < .001. Additionally, the identification of strengths and weaknesses showed a positive correlation with the development of English skills, r(36) = .35, p = .036. Conclusion: The application of rubrics by educators can help clarify task expectations and guide students’ revisions by supporting the development of their language skills and writing processes. The study recommends that educators apply rubrics with clear assessment criteria to promote students’ self-assessment and a better understanding of tasks, thereby enhancing academic performance.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+     },
+     "url": "https://doi.org/10.17981/cultedusoc.16.2.2025.6678",
+     "doi": "10.17981/cultedusoc.16.2.2025.6678",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.17981/cultedusoc.16.2.2025.6408",
+     "titulo": "Ciencia de Datos para la visualización y comprensión de conceptos matemáticos en programas académicos de administración pública",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Jonathan Cervantes-Barraza",
+       "orcid": null
+      },
+      {
+       "nombre": "Wendy De León-Zamora",
+       "orcid": "https://orcid.org/0000-0003-4536-1988"
+      },
+      {
+       "nombre": "Laurenth Hernández-Martínez",
+       "orcid": "https://orcid.org/0000-0003-4617-0817"
+      }
+     ],
+     "resumen": "Introducción: En investigación educativa la Ciencia de Datos representa una estrategia didáctica en los procesos formativos que facilita la toma de decisiones en los programas de administración pública. Objetivo: Analizar, desde la ejecución de proyectos de aprendizaje, el proceso de comprensión de conceptos matemáticos (función y derivada), mediado por la Ciencia de Datos, como base para la toma de decisiones informadas por parte de los estudiantes en programas académicos de administración pública. Metodología: Estudio cualitativo, se analizaron diez proyectos educativos diseñados por cuarenta estudiantes de los cursos de matemática y estadística en un programa de Administración Pública de una universidad oficial colombiana. El procesamiento de los datos se fundamentó en el análisis de contenido, tomando con unidades de análisis las gráficas generadas con base en los códigos en el programa Python y visualizados en la plataforma Jupyter. Resultados: Los estudiantes evidenciaron comprensión significativa de los conceptos de Función y Derivada en contextos reales mediante la ejecución de códigos, análisis de datos, y producción de gráficas. Los ejes temáticos relevantes en los proyectos desarrollados con datos reales refirieron aspectos como: eficiencia económica y tasas de cambio monetarias, mediante la identificación de máximos y mínimos, y representaciones de las funciones. Las gráficas permitieron la toma de decisiones prácticas en contextos reales. Conclusiones: se concluye que la articulación entre la matemática, la computación y el uso de datos reales transforma el aprendizaje de las matemáticas en la educación superior, al favorecer procesos de inferencia, modelación y toma de decisiones fundamentadas.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+     },
+     "url": "https://doi.org/10.17981/cultedusoc.16.2.2025.6408",
+     "doi": "10.17981/cultedusoc.16.2.2025.6408",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.17981/cultedusoc.16.2.2025.6708",
+     "titulo": "Comparing preschool education systems: Kyrgyzstan and Singapore in focus",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Yavuz-Ercan Gül",
+       "orcid": "https://orcid.org/0000-0002-8191-2647"
+      },
+      {
+       "nombre": "Ramazan-Tahsin Keser",
+       "orcid": null
+      },
+      {
+       "nombre": "Gülnur Ismanova",
+       "orcid": null
+      }
+     ],
+     "resumen": "Introduction: In Kyrgyzstan, preschool education has been offered in state and private schools since 2012, following the Montessori system with a curriculum of 240 or 100 hours. In Singapore, preschool education is structured as a three-year program (Nursery, Kindergarten 1–2), managed by the Early Childhood Development and SPARK programs, and offered as a private and international system. Objective: This study compares the preschool education systems in Kyrgyzstan and Singapore using a comparative education approach, examining them from social, cultural, and political perspectives. Methodology: A comparative and descriptive research design was adopted. Similarities and differences between the two countries were examined according to the following criteria: geographic areas, population, official languages, history of independence, literacy rates, educational budgets, and the number of educators and preschool education institutions. Results: The research findings show that Singapore has fewer teachers and institutions than Kyrgyzstan. However, Singapore’s preschool education system is more developed, has a higher budget, and boasts an enrollment rate of over 90% compared to Kyrgyzstan. In contrast, Kyrgyzstan suffers from problems such as a lack of subsidies and reliance on state schools, while Singapore prioritizes private systems. Conclusions: It is recommended that Kyrgyzstan, which lags behind Singapore in particular, should increase education budgets for preschool education, improve teacher salaries, and support low-income families.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+     },
+     "url": "https://doi.org/10.17981/cultedusoc.16.2.2025.6708",
+     "doi": "10.17981/cultedusoc.16.2.2025.6708",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.17981/cultedusoc.16.2.2025.7052",
+     "titulo": "Demandas educativas contemporáneas sobre la calidad en la educación",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Antonio Rodríguez-Fuentes",
+       "orcid": "https://orcid.org/0000-0002-8036-9902"
+      }
+     ],
+     "resumen": "A cinco años del cumplimiento de la Agenda 2030 y del Objetivo de Desarrollo Sostenible 4 (ODS 4), orientado a garantizar una educación inclusiva, equitativa y de calidad para todos, resulta pertinente reflexionar sobre su nivel de logro. Aunque los marcos normativos, la producción científica y los discursos especializados han avanzado considerablemente, persiste una brecha significativa entre la formulación teórica y la práctica educativa en las aulas. La educación inclusiva, consolidada desde la Declaración de Salamanca, continúa siendo un ideal ampliamente reconocido, pero aún enfrenta desafíos en su implementación real. La propuesta de las “3P” —presencia, participación y progreso— ofrece criterios fundamentales para evaluar la inclusión, junto con la identificación y eliminación de Barreras para el Aprendizaje y la Participación (BAP). La equidad, por su parte, implica no ofrecer lo mismo a todos, sino garantizar igualdad de oportunidades mediante apoyos diferenciados y ajustes razonables. En este escenario, la educación de calidad integra inclusión y equidad como condiciones esenciales. Para alcanzarla, es necesario atender la diversidad y neurodiversidad del alumnado, reconociendo la neuroplasticidad y el carácter singular del aprendizaje. La Neuroeducación y el Diseño Universal para el Aprendizaje (DUA) emergen como enfoques proactivos que permiten diseñar entornos educativos flexibles desde el inicio, superando modelos exclusivamente reactivos o compensatorios. Este número de Cultura Educación y Sociedad presenta diez contribuciones nacionales e internacionales que abordan temáticas como formación matemática, pensamiento computacional, liderazgo educativo, tecnologías, lenguaje, gestión universitaria y evaluación del aprendizaje. Todas comparten el propósito común de fortalecer la calidad educativa en diversos contextos. En conjunto, estas investigaciones reafirman que el logro del ODS 4 exige un compromiso sostenido con prácticas basadas en la evidencia, liderazgo pedagógico y políticas inclusivas que trasciendan el discurso para consolidarse en la realidad educativa.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+     },
+     "url": "https://doi.org/10.17981/cultedusoc.16.2.2025.7052",
+     "doi": "10.17981/cultedusoc.16.2.2025.7052",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.17981/cultedusoc.16.2.2025.5988",
+     "titulo": "Desarrollo del lenguaje y exposición a las TIC en la primera infancia: scoping review de investigaciones posteriores al confinamiento por COVID-19",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Leidy-Laura Salcedo-Ortiz",
+       "orcid": "https://orcid.org/0009-0009-0573-1164"
+      },
+      {
+       "nombre": "Miguel-Ángel Afanador-Restrepo",
+       "orcid": "https://orcid.org/0009-0001-3199-0647"
+      },
+      {
+       "nombre": "Angélica-Viviana López-Rodríguez",
+       "orcid": "https://orcid.org/0000-0003-4647-3690"
+      }
+     ],
+     "resumen": "Introducción: El confinamiento por COVID-19 impusieron un contexto generalizado de educación en el hogar mediada por tecnologías digitales. La comunidad científica mostró interés en los fenómenos emergentes, y se reavivaron las discusiones sobre el impacto de la tecnología en el desarrollo infantil fuera del contexto educativo. Objetivo: Este artículo analiza los hallazgos científicos sobre la exposición a las TIC y el desarrollo del lenguaje en la primera infancia, basándose en la literatura científica publicada en contextos posteriores al confinamiento por la COVID-19. Métodos: Se realizó una scoping review con enfoque cualitativo y fundamentación en la tradición documental narrativa. Se revisaron cincuenta y un (51) artículos de acceso abierto publicados entre 2020 y 2023 en las bases de datos Web of Science y Science Direct, siguiendo las directrices de la guía PRISMA-ScR. El proceso metodológico incluyó cuatro fases: búsqueda, selección mediante procedimiento de doble ciego, organización del corpus y análisis temático. Resultados: Los estudios revisados muestran diseños diversos y una comparabilidad limitada, pero destacan de manera consistente cómo el impacto de las TIC en el desarrollo temprano del lenguaje depende de la mediación, el tipo de contenido y el contexto de uso. Discusión: La crianza de los hijos, la diversidad cognitiva y la comunicación surgieron como temas clave, revelando cómo los factores contextuales e individuales dan forma a las concepciones recientes sobre el uso de las TIC y el desarrollo del lenguaje oral en la primera infancia. Conclusión: La exposición prolongada y sin supervisión a las TIC puede obstaculizar el desarrollo temprano del lenguaje oral, especialmente cuando sustituye la interacción con los cuidadores y se produce en contextos desiguales.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+     },
+     "url": "https://doi.org/10.17981/cultedusoc.16.2.2025.5988",
+     "doi": "10.17981/cultedusoc.16.2.2025.5988",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.17981/cultedusoc.16.2.2025.6648",
+     "titulo": "Digital tools and visual aids in mathematics education: pedagogical practices from an international perspective",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Celia Gallardo-Herrerías",
+       "orcid": null
+      }
+     ],
+     "resumen": "Introduction: The use of visual aids in teaching mathematics is a critical area that has been employed to increase understanding and engagement in learning mathematics. Objective: This cross-national comparative research analyzes the use of visual aids in secondary mathematics teaching in the US and Spain with respect to implementation rate, diversity, and teaching objectives. Methodology: A mixed-methods approach was used, including observation, a questionnaire, and interviews. The study involved 24 teachers and 720 students from 24 educational institutions across the two countries. The research employed thematic, axial, quantitative, and t-test analyses. Results: The research revealed significant discrepancies between the two contexts. In the US, the use of visual aids in teaching mathematics involved a diverse range of computer-generated visual tools (71%), aimed at improving mathematical understanding and encouraging further study. The standard level of visual reasoning among American students surpassed that of Spanish students by 4.1 out of 5. In Spain, fewer visual resources were used, primarily focused on teaching procedural skills. This was attributed to curriculum rigidity, limited training in the use of visual resources (48%), and insufficient technological infrastructure (52%). Conclusions: The curriculum should be oriented toward analytical processes that incorporate standards for fostering visual and representational skills in mathematics education.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+     },
+     "url": "https://doi.org/10.17981/cultedusoc.16.2.2025.6648",
+     "doi": "10.17981/cultedusoc.16.2.2025.6648",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.17981/cultedusoc.16.2.2025.6644",
+     "titulo": "El síndrome del impostor: un desafío para la formación de estudiantes de medicina veterinaria",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "María-Elena Becerra-Vázquez",
+       "orcid": "https://orcid.org/0000-0002-6513-5462"
+      },
+      {
+       "nombre": "Eglee-Circuncisión Durán-Rodríguez",
+       "orcid": "https://orcid.org/0000-0001-5062-9921"
+      },
+      {
+       "nombre": "Naybe-Mayela Moreno-Siliet",
+       "orcid": null
+      }
+     ],
+     "resumen": "Introducción: El Síndrome del Impostor (SI) es un fenómeno psicológico que afecta al individuo en el autorreconocimiento de sus competencias y habilidades. Las personas que lo experimentan suelen atribuir sus logros a factores fortuitos o externos, minimizando la valoración de sus capacidades frente a los demás. En el contexto educativo, este tipo de percepciones puede impactar negativamente la salud emocional y el desempeño académico de los estudiantes. Objetivo: Caracterizar la manifestación del Síndrome del Impostor en estudiantes del primer año del Programa Nacional de Formación (PNF) en Medicina Veterinaria, a través de la exploración de factores emocionales como la autoestima y la autocrítica, así como variables académicas como el perfeccionismo y la percepción de logros. Metodología: Se empleó un enfoque mixto. En la fase cuantitativa se aplicó la Escala de Clance (CIPS), mientras que en la fase cualitativa se realizó un análisis FODA personal (fortalezas, oportunidades, debilidades y amenazas) mediante grupos focales. Resultados: Del análisis cualitativo emergieron tres categorías teóricas. La primera, Inseguridades, caracterizada por autocrítica severa y temor al juicio externo. La segunda, Retos, asociada con un perfeccionismo desadaptativo que genera ansiedad frente al error. La tercera, Aspiraciones, donde altas metas profesionales coexisten con dudas sobre la propia competencia. Además, se encontró que el 55,9% de los participantes experimenta estrés derivado de la autoexigencia, lo que evidencia una relación entre inseguridad emocional y una percepción distorsionada del éxito académico. Conclusiones: El Síndrome del Impostor afecta la estabilidad emocional y el desempeño académico de los estudiantes. En este sentido, se propone implementar estrategias de apoyo psicoeducativo y sistemas de mentoría que permitan fortalecer la autovaloración y mitigar las consecuencias adversas durante el proceso de formación profesional.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+     },
+     "url": "https://doi.org/10.17981/cultedusoc.16.2.2025.6644",
+     "doi": "10.17981/cultedusoc.16.2.2025.6644",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.17981/cultedusoc.16.2.2025.6565",
+     "titulo": "Estado del pensamiento computacional en la educación básica de Colombia",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Edwin-Alberto Moreno-Jaimes",
+       "orcid": "https://orcid.org/0000-0002-5370-1172"
+      },
+      {
+       "nombre": "Gerzon-Yair Calle-Álvarez",
+       "orcid": "https://orcid.org/0000-0002-4083-6051"
+      }
+     ],
+     "resumen": "Introducción: Durante la última década, el pensamiento computacional (PC) se ha convertido en una competencia fundamental para enfrentar los desafíos del conocimiento contemporáneo. Desde esta perspectiva, promueve habilidades como la descomposición de problemas, el reconocimiento de patrones, el pensamiento abstracto y la construcción de algoritmos que trascienden múltiples áreas disciplinares. La incorporación del PC en los currículos de educación básica representa una oportunidad valiosa para formar ciudadanos capaces de actuar en escenarios digitales complejos. Objetivo: Llevar a cabo una revisión sistemática de la literatura que examine cómo se ha implementado el pensamiento computacional en la educación básica colombiana entre 2015 y 2025, identificando los logros alcanzados, las tendencias emergentes y los desafíos regionales que persisten en su integración curricular. Método: Se realizó una revisión sistemática con enfoque interpretativo conforme a las directrices PRISMA, examinando 56 publicaciones seleccionadas según criterios predeterminados. El proceso incluyó una búsqueda multicapa en bases de datos internacionales y repositorios colombianos, acompañada de codificación temática basada en patrones inductivos y análisis bibliométrico mediante VOSviewer. Resultados: Emergieron cuatro líneas temáticas principales: metodologías pedagógicas e instrumentos digitales (Scratch 23%, robótica 19%), convergencia STEM (matemáticas 47%), marcos de política educativa y reformas curriculares (directrices MEN–MINTIC 40%) y asuntos de cobertura y equidad (disparidad de conectividad rural-urbana: 30% versus 75%). Esta diversidad de hallazgos refleja tanto avances como limitaciones en la implementación territorial del pensamiento computacional en Colombia. Conclusiones: El pensamiento computacional muestra avances significativos en la adopción de metodologías activas y herramientas accesibles, especialmente en contextos urbanos; sin embargo, persisten desafíos estructurales en su implementación sistemática a nivel nacional, en la formación docente especializada (22% de cobertura rural) y en la reducción de la brecha digital territorial, lo que exige estrategias diferenciadas y financiamiento sostenible para consolidar su impacto transformador en la educación colombiana.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+     },
+     "url": "https://doi.org/10.17981/cultedusoc.16.2.2025.6565",
+     "doi": "10.17981/cultedusoc.16.2.2025.6565",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.17981/cultedusoc.16.2.2025.6552",
+     "titulo": "Liderazgo educativo en España y Finlandia: un análisis comparado funcionalista",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "José-Alberto Sotelo-Martín",
+       "orcid": "https://orcid.org/0000-0002-5400-6788"
+      }
+     ],
+     "resumen": "Introducción: El liderazgo educativo constituye un eje esencial en la mejora de los sistemas escolares, influyendo en el desempeño académico, el bienestar docente y la equidad. España y Finlandia representan casos contrastantes, lo que justifica un análisis comparado para comprender cómo resuelven funciones comunes. Objetivo: Analizar, desde un enfoque comparado funcionalista, las similitudes y diferencias en el liderazgo educativo de ambos países en categorías como acceso a la dirección, formación, autonomía, relación con el profesorado y evaluación del desempeño, identificando aprendizajes transferibles entendidos como principios funcionales adaptables al contexto. Metodología: Se adoptó el método funcionalista en educación comparada, que examina cómo sistemas distintos cumplen funciones equivalentes, priorizando la coherencia interna y la eficacia contextual sobre la descripción estructural. Se revisó literatura especializada, informes de organismos internacionales y un corpus documental de ambos países que incluyó normativa, documentos de política educativa y estudios académicos empíricos recientes. Resultados: Se evidencia que Finlandia articula un modelo profesionalizado y distribuido, basado en la confianza institucional, el bienestar docente y una amplia autonomía escolar, mientras que España mantiene un modelo normativo, con limitaciones de autonomía y fuerte carga administrativa, donde la profesionalización del liderazgo sigue siendo incipiente. Conclusiones: Finlandia ofrece un liderazgo pedagógico sostenible y legitimado, mientras que España necesita reforzar la formación, la autonomía y la evaluación formativa de sus líderes. No se trata de transferir modelos, sino de promover aprendizajes comparados ajustados al contexto, destacando la relevancia del enfoque funcionalista para interpretar y mejorar el liderazgo educativo a nivel internacional.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+     },
+     "url": "https://doi.org/10.17981/cultedusoc.16.2.2025.6552",
+     "doi": "10.17981/cultedusoc.16.2.2025.6552",
+     "paginas": null,
+     "fuente": "Crossref"
+    }
+   ]
+  },
+  {
+   "id": "v16-n1-2025",
+   "volumen": "16",
+   "numero": "1",
+   "anio": 2025,
+   "fecha": "2025-06-30",
+   "etiqueta": "Vol. 16, núm. 1 (2025)",
+   "fuente": "Crossref",
+   "articulos": [
+    {
+     "id": "10.17981/cultedusoc.16.1.2025.5777",
+     "titulo": "Analysis of academic dropout data to estimate relevant variables using computer tools at a Higher Education Institution",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Monica-Lizeth Sánchez-Arévalo",
+       "orcid": "https://orcid.org/0000-0001-8871-1912"
+      },
+      {
+       "nombre": "Roberto Ferro-Escobar",
+       "orcid": null
+      },
+      {
+       "nombre": "Luisa-Fernanda Chaparro-Sierra",
+       "orcid": "https://orcid.org/0000-0002-6570-9075"
+      }
+     ],
+     "resumen": "Introduction: Student dropout, which refers to students abandoning their curricular programs due to various influences, is a critical concern in education, impacting individuals, institutions, families, and society. Objective: This research, centered at a Higher education Institution, examines the Tinto Dropout Model and explores the impact of Problem-Based Learning on student retention. Methodology: It also analyzes undergraduate dropout rate trends from 2014 to 2020, identifying patterns and disparities among student groups through ANOVA. Results: This comprehensive approach is designed to contribute to informed decision-making and the continuous improvement of higher education in Mexico. Conclusions: The research strives to understand why students discontinue their studies and to develop effective strategies to mitigate dropout rates, ultimately benefiting both the students and the institution.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+     },
+     "url": "https://doi.org/10.17981/cultedusoc.16.1.2025.5777",
+     "doi": "10.17981/cultedusoc.16.1.2025.5777",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.17981/cultedusoc.16.1.2025.6226",
+     "titulo": "ChatGPT como herramienta para mejorar propuestas de investigación estudiantil",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Eilen-Lorena Pérez-Montero",
+       "orcid": "https://orcid.org/0000-0002-8119-3486"
+      },
+      {
+       "nombre": "María-Mercedes Hernández-Henríquez",
+       "orcid": "https://orcid.org/0000-0001-9600-6746"
+      }
+     ],
+     "resumen": "Introducción: La progresiva implementación de la inteligencia artificial en la educación superior ha suscitado interés en las capacidades que poseen los modelos de lenguaje como es el de ChatGPT, fundamentalmente en el apoyo de los procesos investigativos. No obstante, esta implementación sin una orientación pedagógica presenta retos concernientes al desarrollo del pensamiento crítico y la calidad académica. Objetivo: evaluar cómo el empleo de ChatGPT impacta en la formulación de propuestas de investigación a nivel universitario. Metodología: Se optó por un enfoque cuantitativo, un diseño cuasiexperimental y una muestra de 69 estudiantes, divididos en tres grupos: i) sin ChatGPT ni guía de aprendizaje, ii) con ChatGPT sin guía de aprendizaje, y iii) con ChatGPT y guía de aprendizaje. Para la evaluación del logro académico y la calidad de las propuestas, se realizó un pretest y un postest, en donde se tuvieron en cuenta la introducción, el contexto, el problema, los objetivos y los antecedentes. Resultados: El grupo que tuvo acceso al ChatGPT y a la guía de aprendizaje evidenció mejores resultados en la estructura y argumentación de las propuestas, y un empleo estratégico de la herramienta. Conclusiones: La articulación entre el ChatGPT y la mediación pedagógica fortalece las competencias investigativas. Es así como esta inteligencia artificial, enmarcada dentro de estrategias didácticas, se presenta como un instrumento pertinente en los procesos de enseñanza- aprendizaje-evaluación a nivel universitario, fortaleciendo su promoción de manera crítica y autónoma.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+     },
+     "url": "https://doi.org/10.17981/cultedusoc.16.1.2025.6226",
+     "doi": "10.17981/cultedusoc.16.1.2025.6226",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.17981/cultedusoc.16.1.2025.5373",
+     "titulo": "El pensamiento crítico desde comunidades de aprendizaje rurales: una revisión de la literatura",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Guillermo-Alfonso Velásquez-De Los Ríos",
+       "orcid": "https://orcid.org/0000-0003-2690-9805"
+      },
+      {
+       "nombre": "Lina-Rosa Parra-Bernal",
+       "orcid": null
+      }
+     ],
+     "resumen": "Introducción: El pensamiento crítico en el ámbito educativo tiene como propósito brindar herramientas a los estudiantes para analizar y evaluar la consistencia de los razonamientos respecto a la solución de problemas del entorno. Objetivo: Realizar una revisión de literatura de las publicaciones que abordan diversas posturas y experiencias sobre el desarrollo del pensamiento crítico desde la mediación de las comunidades de aprendizaje, en el ámbito escolar de las nuevas ruralidades del siglo XXI. Metodología: Para el desarrollo de la revisión de literatura se implementó el método propuesto por Okoli y Schabram (2010) que consiste en ocho pasos los cuales permiten que la búsqueda tenga una buena calidad metodológica. Resultados: se identificaron 223 artículos de investigación publicados entre 2015 y 2022 sobre el pensamiento crítico, nuevas ruralidades y comunidades de aprendizaje. Se generaron criterios de inclusión y exclusión para llegar a 62 artículos identificados como pertinentes al tema de estudio. Los resultados revelaron estudios académicos que argumentan que la enseñanza del pensamiento crítico genera divergencias y convergencias tanto entre el pensamiento crítico y las nuevas ruralidades; el pensamiento crítico y las comunidades de aprendizaje y cómo estas inducen el desarrollo integral del estudiante. Conclusiones: Procesos que inciten a la enseñanza y aprendizaje en torno al pensamiento crítico a nivel rural y urbano son importantes para fomentar habilidades cognitivas, sociales, comunicativas, motrices y emocionales en los aprendices.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+     },
+     "url": "https://doi.org/10.17981/cultedusoc.16.1.2025.5373",
+     "doi": "10.17981/cultedusoc.16.1.2025.5373",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.17981/cultedusoc.16.1.2025.6298",
+     "titulo": "Evaluación de la inteligencia artificial como herramienta pedagógica-administrativa para el desarrollo de competencias genéricas en la educación superior multicultural",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Aslin-Gonzalo Botello-Plata",
+       "orcid": "https://orcid.org/0000-0002-6093-9752"
+      },
+      {
+       "nombre": "Hilda-María Choles-Almazo",
+       "orcid": null
+      },
+      {
+       "nombre": "Pilar-del-Carmen Pomarico-Pimienta",
+       "orcid": "https://orcid.org/0000-0001-6087-0006"
+      }
+     ],
+     "resumen": "Introducción: En la educación superior multicultural, la incorporación de la inteligencia artificial plantea oportunidades y desafíos para la evaluación y fortalecimiento de competencias genéricas, esenciales en las pruebas Saber Pro y Saber TyT en Colombia. La diversidad cultural y étnica en instituciones de educación superar exige enfoques pedagógicos sensibles a las particularidades locales para lograr aprendizajes efectivos. Objetivo: Determinar la eficacia y el impacto de la inteligencia artificial como recurso pedagógico-administrativo en la promoción de competencias genéricas mediante Entornos Personalizados de Aprendizaje, adaptados al contexto multicultural objeto de estudio. Metodología: Se aplicó un enfoque mixto con diseño transversal descriptivo-analítico. Se realizaron encuestas electrónicas tipo ICFES a 710 estudiantes en 2024, entrevistas semiestructuradas con docentes y análisis documental. El procesamiento cuantitativo se efectuó mediante estadística descriptiva y técnicas de Machine Learning, especialmente regresión lineal, usando Python. Resultados: La inteligencia artificial mostró potencial significativo para personalizar el aprendizaje, gamificar la enseñanza y fomentar el desarrollo de competencias genéricas, especialmente lectura crítica y razonamiento cuantitativo. Se identificaron patrones de correlación positivos entre estas competencias, con incrementos significativos respecto a los registros históricos. Conclusiones: La inteligencia artificial es efectiva como herramienta pedagógico-administrativa cuando se aplica con enfoque ético, reflexivo y culturalmente pertinente. Se recomienda evitar su uso indiscriminado y promover la interacción humana, garantizando así un aprendizaje integral adaptado a contextos multiculturales.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+     },
+     "url": "https://doi.org/10.17981/cultedusoc.16.1.2025.6298",
+     "doi": "10.17981/cultedusoc.16.1.2025.6298",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.17981/cultedusoc.16.1.2025.6059",
+     "titulo": "Moral development in psychology and law students of a higher education institution in Medellín, Colombia",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Laura Isaza-Valencia",
+       "orcid": "https://orcid.org/0000-0001-5915-7895"
+      },
+      {
+       "nombre": "Lina-Marcela Estrada-Jaramillo",
+       "orcid": "https://orcid.org/0000-0002-8162-7272"
+      },
+      {
+       "nombre": "César-Augusto Molina-Saldarriaga",
+       "orcid": "https://orcid.org/0000-0003-1940-5289"
+      },
+      {
+       "nombre": "Sofia Jaramillo-Acero",
+       "orcid": null
+      }
+     ],
+     "resumen": "Introduction: The practice of law and psychology involves significant social responsibility and frequently presents ethical and moral dilemmas. Nevertheless, the curricula of these disciplines often lack specific strategies within their general and professional ethics courses to foster the development of competencies for resolving such dilemmas. Moreover, there is a scarcity of studies that examine curricular content and pedagogical approaches related to students’ moral development. Objective: This study aimed to describe the moral development of a group of psychology and law students at a higher education institution in Medellín, Colombia. Methodology: A quantitative, cross-sectional, and correlational descriptive design was employed. The study involved 115 participants enrolled in the aforementioned academic programs. Results: The findings revealed generally low levels of moral development among most participants. Conclusions: The results indicate that the moral development levels of the evaluated students are predominantly low or moderately low, underscoring the need to design, implement, and assess educational strategies that effectively address and enhance this aspect of professional training.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+     },
+     "url": "https://doi.org/10.17981/cultedusoc.16.1.2025.6059",
+     "doi": "10.17981/cultedusoc.16.1.2025.6059",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.17981/cultedusoc.16.1.2025.5909",
+     "titulo": "Pilot of digital signal processing course applying active and project-based learning for improving critical and computational thinking",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Eduardo Avendaño-Fernández",
+       "orcid": null
+      },
+      {
+       "nombre": "Nancy-Carolina Roa-Martín",
+       "orcid": null
+      },
+      {
+       "nombre": "Iván-Fernando Leal-Ramírez",
+       "orcid": "https://orcid.org/0000-0003-4341-1478"
+      }
+     ],
+     "resumen": "Introduction: In engineering courses being able to connect theory with practice to validate concepts and solve problems from acquired knowledge, critical thinking and creativity, is a challenge. In project-based learning and active learning, it has been validated that developing programming activities in real applications allows appropriate concepts, developing skills and soft competences. Objective: to diagnose the current state of the learning outcomes in the core course of an electronic engineering curriculum in order to propose models to achieve the learning objectives. Methodology: a diagnostic instrument was designed for undergraduate students in electronic engineering, building a matrix of Weaknesses, Opportunities, Strengths and Opportunities (SWOT) to apply data analytics and generate diagrams of co-occurrence/frequency of discourse and from which the results are discussed. The instrument was applied to a cumulative sample of 87 students, identifying keywords related to the use of tools, previous knowledge (mathematical foundation), and experimental work at laboratory. Results: The analysis identified weaknesses in some concepts, deficiencies to operationalize, and the need to complement experimentally, allowing adjusting curricular contents and demonstrating the application of learning models and methodologies. Conclusion: Interdisciplinary topics enable the design of challenging projects to assess competencies and learning outcomes, validating an active and project-based learning approach (A+PBL) in a pilot Digital Signal Processing (DSP) course.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+     },
+     "url": "https://doi.org/10.17981/cultedusoc.16.1.2025.5909",
+     "doi": "10.17981/cultedusoc.16.1.2025.5909",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.17981/cultedusoc.16.1.2025.6743",
+     "titulo": "Redefining educational futures through innovation, inclusion, and intelligent technologies",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Sook Fern Yeo",
+       "orcid": null
+      }
+     ],
+     "resumen": "In today’s rapidly changing world, education is experiencing profound upheaval. This transition is more than a reaction to technical advancement. Rather, it reflects shifting societal requirements, learners’ expectations, and the desire for a more inclusive and fair system. Technology is the foundation of this development, enabling new methods of teaching, learning, and participation. However, while we welcome this evolution, it is critical to remember that successful educational innovations must be grounded on goals, ethics, and empathy. The ultimate promise of technology is not its novelty, but rather its capacity to empower students, overcome hurdles, and personalize learning experiences.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+     },
+     "url": "https://doi.org/10.17981/cultedusoc.16.1.2025.6743",
+     "doi": "10.17981/cultedusoc.16.1.2025.6743",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.17981/cultedusoc.16.1.2025.5818",
+     "titulo": "Tecnologías del aprendizaje y conocimiento como campo de estudio: análisis de fortalezas y limitaciones",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Carlos-Alberto Gómez-Cano",
+       "orcid": "https://orcid.org/0000-0003-0425-7201"
+      },
+      {
+       "nombre": "Verenice Sánchez-Castillo",
+       "orcid": "https://orcid.org/0000-0002-3669-3123"
+      },
+      {
+       "nombre": "Alfredo-Javier Pérez-Gamboa",
+       "orcid": "https://orcid.org/0000-0003-4555-7518"
+      }
+     ],
+     "resumen": "Introducción: La introducción de las tecnologías a los procesos formativos constituye un proceso esencial en la Educación Superior actual. Sin embargo, el empleo de dichas tecnologías para el perfeccionamiento de los procesos organizacionales trasciende el proceso docente y requiere de una adecuada conceptualización e integración al funcionamiento de las Instituciones de la Educación Superior. Objetivo: En atención a la importancia de las Tecnologías del aprendizaje y el conocimiento como una categoría de especial importancia, el objetivo fue analizar las fortalezas y las limitaciones de las investigaciones sobre las mismas en la base de datos Scopus. Metodología: La investigación se realizó mediante un enfoque mixto complejo, secuencial e integrativo. La misma se organizó en un protocolo en dos etapas dirigidas al análisis bibliométrico del campo y un estudio temático e integrativo de fuentes seleccionadas mediante la aplicación de criterios de inclusión. Este diseño permitió el análisis de cinco indicadores bibliométricos y trece fuentes. Resultados: Los principales resultados mostraron un campo insuficientemente consolidado, caracterizado por una limitada distribución geográfica y escasa presencia en cuanto a volumen y relevancia de las publicaciones. A nivel temático se analizaron tres temas enfocados en las fortalezas y limitaciones del campo de estudio. Conclusiones: Se identificaron las principales líneas de investigación, fortalezas y debilidades de los estudios, así como se examinaron con carácter crítico los elementos a considerar en desarrollos futuros. Se concluye que es necesario profundizar en las implicaciones de la conceptualización de las tecnologías y su integración en la Educación Superior.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+     },
+     "url": "https://doi.org/10.17981/cultedusoc.16.1.2025.5818",
+     "doi": "10.17981/cultedusoc.16.1.2025.5818",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.17981/cultedusoc.16.1.2025.5782",
+     "titulo": "Instrumentos de evaluación de actitudes docentes frente a la educación inclusiva: Una revisión sistemática",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Jefferson Tello-Zuluaga",
+       "orcid": "https://orcid.org/0000-0002-3054-4290"
+      },
+      {
+       "nombre": "Alejandro Uribe-Zapata",
+       "orcid": "https://orcid.org/0000-0002-9228-9088"
+      }
+     ],
+     "resumen": "Introducción: La evaluación de las actitudes de losdocentes hacia la educación inclusiva adquiere granrelevancia, por cuanto estas actitudes tienen influenciaen la implementación de prácticas inclusivas en diversosespacios, tanto educativos como sociales. Objetivo:Este artículo tiene como objetivo exponer un balancede los instrumentos de evaluación de las actitudesdocentes frente la educación inclusiva. Metodología:Se realiza una revisión sistemática de literatura. Laventana de observación se establece entre el 2013 y el2023 con fecha de corte a julio del 2023. Inicialmente seidentificaron 238 resultados en la base de datos SCOPUS.Al aplicar criterios de exclusión e inclusión, se redujo a36 publicaciones. Resultados: Los principales hallazgosmuestran que la escala Teachers’ Attitudes TowardsInclusive Education Scale (TAIS) es la más utilizada enlos procesos de evaluación de las actitudes docentes frentea la discapacidad, con una tendencia hacia las actitudespositivas congruentes con la experiencia y la formaciónde los docentes relacionada con la educación inclusiva.Conclusiones: No se evidencian resultados conclusivosen la selección de los instrumentos de evaluación deactitudes docentes frente a la educación inclusiva, porcuanto se emplean tanto escalas unidimensionales comomultidimensionales, las cuales podrían variar según lasculturas, características del contexto a intervenir y perfilde los actores.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+     },
+     "url": "https://doi.org/10.17981/cultedusoc.16.1.2025.5782",
+     "doi": "10.17981/cultedusoc.16.1.2025.5782",
+     "paginas": "e5782",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.17981/cultedusoc.16.1.2025.5966",
+     "titulo": "El lenguaje de la pregunta en la evaluación de competencias científicas escolares",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Daniel-Eduardo Méndez-Mercado",
+       "orcid": null
+      },
+      {
+       "nombre": "Elio-Exneyder Flórez-Ricardo",
+       "orcid": "https://orcid.org/0009-0003-0284-1495"
+      }
+     ],
+     "resumen": "Introducción: La evaluación es una actividad fundamental dentro del proceso de enseñanza y aprendizaje. Por eso, la manera en que los docentes redactan preguntas para evaluar las competencias científicas deben presentar una estructura organizada, coherente y de fácil comprensión para evitar el sesgo en los resultados esperados. Objetivo: Este artículo analiza la estructura en la redacción de las preguntas que se emplean para evaluar las competencias científicas escolares. Metodología: Se emplea una metodología de enfoque cualitativo, con un diseño interpretativo analítico, utilizando técnicas como la revisión documental aplicada a los cuadernillos de las pruebas saber quinto en ciencias naturales, los grupos focales en el que participaron docentes de ciencias y el uso de instrucciones claras y específicas aplicados a la Inteligencia Artificial (IA) para generar preguntas evaluativas. Resultados: Los resultados obtenidos evidencian que las preguntas presentan redacciones variadas, predominando acciones de pensamiento y lenguaje, con énfasis en los contenidos procedimentales y actitudinales y enfocadas en los procesos científicos y productos obtenidos de la actividad científica. La ausencia de interrogantes que evalúen la competencia indagación es notoria, dada la complejidad de la misma. Conclusiones: Este estudio favorece la necesidad de la formación docente en la habilidad para generar preguntas que evalúen competencias científicas y abre el debate sobre la pertinencia de utilizar herramientas como la IA para fundamentar la práctica evaluativa desde el lenguaje de las palabras.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+     },
+     "url": "https://doi.org/10.17981/cultedusoc.16.1.2025.5966",
+     "doi": "10.17981/cultedusoc.16.1.2025.5966",
+     "paginas": "e5966",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.17981/cultedusoc.16.1.2025.6075",
+     "titulo": "Percepción de estudiantes universitarios de Trabajo Social en relación con la formación en investigación",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Andrea Hernández-Quirama",
+       "orcid": "https://orcid.org/0000-0003-1955-0566"
+      },
+      {
+       "nombre": "Héctor-Mauricio Rojas-Betancur",
+       "orcid": "https://orcid.org/0000-0003-0569-8236"
+      }
+     ],
+     "resumen": "Introducción: La formación en investigación es una dimensión fundamental en la formación profesional, base para la construcción y ampliación de las comunidades académicas y la capacidad social en la producción de conocimientos para el desarrollo social. Objetivo: Evaluar las condiciones de la formación científica e investigativa, en cuanto a la recepción, percepción y valoración desde los estudiantes del nivel de pregrado en Trabajo Social, en una universidad de carácter oficial en Colombia. Metodología: Estudio de diseño cuantitativo, trasversal y correlacional. La población fue el total de estudiantes de pregrado para el año lectivo 2024, con una muestra estadística aleatoria simple, conformada por 104 participantes. La técnica de recolección de la información fue un cuestionario estructurado, se procesó y analizó la información mediante el software IBMSPSS® versión 24. Resultados: La evaluación sobre la formación en investigación permite destacar elementos centrales como la pedagogía para la formación científica de los profesores, la calidad de las asignaturas de metodologías de investigación, el alto impacto de la investigación social para la profesión, algunas de las limitaciones percibidas por los estudiantes son la baja infraestructura para la investigación y los pocos apoyos institucionales. Conclusiones: Se evidencia una fuerte valoración de la calidad de la formación en investigación, su importancia en la práctica profesional y el aporte de la investigación en Trabajo Social a la sociedad.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+     },
+     "url": "https://doi.org/10.17981/cultedusoc.16.1.2025.6075",
+     "doi": "10.17981/cultedusoc.16.1.2025.6075",
+     "paginas": "e6075",
+     "fuente": "Crossref"
+    }
+   ]
+  }
+ ]
+}

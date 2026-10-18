@@ -43,6 +43,36 @@ class PruebasComun(unittest.TestCase):
             "Las redes sociales del barrio y la confianza entre los vecinos de la ciudad"), "es")
         self.assertIsNone(comun.detectar_idioma("Sociología urbana"))
 
+    def test_detectar_idioma_en_titulos_cortos(self):
+        self.assertEqual(comun.detectar_idioma("Arquitetura de terra em perspectiva"), "pt")
+        self.assertEqual(comun.detectar_idioma("MENTORAT ET PRATIQUES EN CLASSE : PERCEPTIONS DE STAGIAIRES"), "fr")
+        self.assertEqual(comun.detectar_idioma("Pedagogika zdrowia i szkolna edukacja zdrowotna wobec wyzwań"), "pl")
+        self.assertEqual(comun.detectar_idioma("El feminicidio como expresión extrema de la desigualdad"), "es")
+        # Si no hay rasgos claros, no se marca: la página ya está en español.
+        self.assertIsNone(comun.detectar_idioma("Algunos usos del meme en internet"))
+
+    def test_limpiar_resumen_descarta_encabezados_sueltos(self):
+        self.assertEqual(comun.limpiar_resumen("<jats:p>Resumen</jats:p>"), "")
+        self.assertEqual(comun.limpiar_resumen("-"), "")
+
+    def test_bloqueo_de_red_no_se_reintenta(self):
+        llamadas = []
+
+        def rechazar(*argumentos, **opciones):
+            llamadas.append(1)
+            raise comun.urllib.error.URLError(OSError("Tunnel connection failed: 403 Forbidden"))
+
+        original = comun.urllib.request.urlopen
+        comun.urllib.request.urlopen = rechazar
+        try:
+            with self.assertRaises(comun.ErrorRed) as contexto:
+                comun.obtener("https://revista.ejemplo.org/oai", intentos=3)
+        finally:
+            comun.urllib.request.urlopen = original
+        self.assertTrue(contexto.exception.bloqueado)
+        self.assertEqual(contexto.exception.dominio, "revista.ejemplo.org")
+        self.assertEqual(len(llamadas), 1)
+
     def test_idioma_declarado_tiene_prioridad(self):
         self.assertEqual(comun.idioma_de("Texto cualquiera", "eng"), "en")
 

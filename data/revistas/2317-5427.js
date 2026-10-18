@@ -1,0 +1,875 @@
+// Copia de revistas/2317-5427.json para abrir la aplicación sin servidor.
+(window.DATOS_REVISTAS = window.DATOS_REVISTAS || {})["revistas/2317-5427.json"] = {
+ "version": 1,
+ "generado": "2026-10-18T05:53:59+00:00",
+ "es_prueba": false,
+ "revista": {
+  "id": "2317-5427",
+  "titulo": "Estudos de Sociologia",
+  "idioma_titulo": null,
+  "titulo_alternativo": null,
+  "idioma_titulo_alternativo": null,
+  "idiomas": [
+   "es",
+   "pt"
+  ],
+  "issn_impreso": "1415-000X",
+  "issn_electronico": "2317-5427",
+  "editorial": "Universidade Federal de Pernambuco (UFPE)",
+  "pais": "BR",
+  "materias": [
+   "Sociology (General)"
+  ],
+  "palabras_clave": [
+   "sociology",
+   "social sciences",
+   "society"
+  ],
+  "licencias": [
+   {
+    "nombre": "CC BY 4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+   }
+  ],
+  "url": "https://periodicos.ufpe.br/revistas/index.php/revsocio/index",
+  "url_doaj": "https://doaj.org/toc/2317-5427",
+  "descripcion": null,
+  "fuente_ficha": "DOAJ",
+  "archivo": "revistas/2317-5427.json",
+  "ultimo_numero": "Vol. 2, núm. 32 (2026)",
+  "fuente_numeros": "Crossref"
+ },
+ "numeros": [
+  {
+   "id": "v2-n32-2026",
+   "volumen": "2",
+   "numero": "32",
+   "anio": 2026,
+   "fecha": "2026-10-13",
+   "etiqueta": "Vol. 2, núm. 32 (2026)",
+   "fuente": "Crossref",
+   "articulos": [
+    {
+     "id": "10.51359/2317-5427.2026.272117",
+     "titulo": "Desigualdades, ações afirmativas, raça e ensino superior no Brasil",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Rayane de Lima Andrade",
+       "orcid": "https://orcid.org/0009-0004-8076-8067"
+      },
+      {
+       "nombre": "Nayara Melo Silva",
+       "orcid": "https://orcid.org/0000-0002-8842-9834"
+      },
+      {
+       "nombre": "Francisco Jatobá Andrade",
+       "orcid": "https://orcid.org/0000-0001-7197-7570"
+      }
+     ],
+     "resumen": "A apresentação do dossiê temático “Desigualdades, Ações Afirmativas, Raça e Ensino Superior no Brasil” situa a publicação após uma década da Lei de Cotas e sua atualização pela Lei 14.723/2023. O objetivo é ir além da mensuração do ingresso e investigar reconfigurações estruturais, epistêmicas e profissionais provocadas por essas presenças. Os artigos reúnem abordagens quantitativas, qualitativas e normativas de diversas regiões. Analisam trajetórias de cotistas no mercado de trabalho; permanência indígena na UFPA e UFBA; cotas raciais na pós-graduação em Geografia da UERJ; didática antirracista em universidades federais; ações afirmativas nos Institutos Federais; e judicialização da igualdade na ADI 7.929/SC. Conclui-se que as ações afirmativas se consolidaram como processo contínuo e irreversível de democratização da universidade e de transformação social.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.51359/2317-5427.2026.272117",
+     "doi": "10.51359/2317-5427.2026.272117",
+     "paginas": "01-04",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.51359/2317-5427.2026.270757",
+     "titulo": "Transição do ensino superior para o mercado de trabalho: trajetórias de estudantes cotistas no Rio de Janeiro",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Cristiane Lourenço Meirelles",
+       "orcid": "https://orcid.org/0000-0002-6026-5452"
+      },
+      {
+       "nombre": "Flavia Rios",
+       "orcid": "https://orcid.org/0000-0001-9864-0644"
+      }
+     ],
+     "resumen": "A produção científica brasileira sobre as ações afirmativas tem apresentado resultados significativos em termos da avaliação dos impactos dessas políticas no sistema educacional, evidenciando mudanças nos mecanismos de acesso às universidades públicas e nos efeitos da expansão do ensino superior sobre as estruturas de oportunidade e a seletividade social no acesso à educação terciária. Essa configuração da produção acadêmica, no entanto, deixou uma importante lacuna na investigação dessas políticas: a transição do mundo universitário para o mundo do trabalho. É exatamente esse o objetivo deste artigo: apresentar resultados qualitativos de entrevistas com estudantes cotistas e egressos do sistema de cotas, evidenciando perfis heterogêneos de trajetórias sociais, educacionais e laborais, bem como suas expectativas e experiências no processo de transição da esfera educacional para o mercado de trabalho, tomando como estudo de caso o estado do Rio de Janeiro.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.51359/2317-5427.2026.270757",
+     "doi": "10.51359/2317-5427.2026.270757",
+     "paginas": "05-20",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.51359/2317-5427.2026.270730",
+     "titulo": "Para além do acesso: permanência de indígenas estudantes, ações afirmativas e disputa por outros saberes na UFPA e na UFBA",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Ignacio Gabriel San Martin Araya",
+       "orcid": "https://orcid.org/0009-0006-0855-339X"
+      },
+      {
+       "nombre": "Gabriel Silva Braga",
+       "orcid": "https://orcid.org/0000-0003-4159-4688"
+      },
+      {
+       "nombre": "Carolina Silva Nogueira",
+       "orcid": "https://orcid.org/0009-0000-8903-6605"
+      }
+     ],
+     "resumen": "Este artigo discute como as ações afirmativas, além de garantirem acesso à universidade, constituem-se como vetores de disputa epistemológica e curricular quando os sujeitos a quem se destinam são estudantes e intelectuais indígenas. Com base em pesquisa etnográfica multissituada, realizada na Universidade Federal do Pará e na Universidade Federal da Bahia entre 2022 e 2025, o texto articula: a permanência como problema institucional; as trajetórias de indígenas estudantes e os dispositivos de reconhecimento de saberes, em particular o Edital de Notório Saber e a Licenciatura Intercultural Indígena, como instâncias em que a presença indígena demanda a universidade a rever seus cânones. Argumenta-se que, após a primeira década da Lei de Cotas e sua atualização pela Lei nº 14.723/2023, o desafio não é apenas medir quem entra nas instituições, mas compreender o que se produz na universidade quando esses estudantes ingressam. Conclui-se que a permanência indígena é um ato político e epistêmico que desloca a inclusão da chave assimilacionista para a interculturalidade crítica, exigindo um horizonte de transformação institucional.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.51359/2317-5427.2026.270730",
+     "doi": "10.51359/2317-5427.2026.270730",
+     "paginas": "21-38",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.51359/2317-5427.2026.270639",
+     "titulo": "Cotas raciais na pós-graduação em geografia: vinte e três anos do sistema da UERJ e o tensionamento dos cânones disciplinares",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Aline Soares Rangel",
+       "orcid": "https://orcid.org/0009-0009-6808-9404"
+      }
+     ],
+     "resumen": "Este artigo analisa o tensionamento dos cânones disciplinares da Geografia brasileira diante de vinte e três anos do sistema de cotas raciais da Universidade do Estado do Rio de Janeiro (UERJ), pioneira nacional na adoção de reserva de vagas em 2001. Argumenta-se que, embora a ampliação do acesso por meio da Lei estadual nº 3.708/2001, da Lei federal nº 12.711/2012 e da Lei estadual nº 6.914/2014 — esta última específica para a pós-graduação fluminense — tenha alterado significativamente a composição racial discente, a transposição dessa política para a pós-graduação ainda não foi acompanhada por transformação proporcional dos referenciais teóricos, dos métodos autorizados e dos critérios de validação científica. A análise articula a cronologia institucional das cotas, a transformação do debate público documentada pelo GEMAA/IESP-UERJ e a inércia epistêmica da Geografia brasileira. Conclui-se que a controvérsia sobre o acesso, hegemônica entre 2001 e 2012, foi substituída por uma controvérsia sobre os resultados, mas não atingiu o núcleo epistêmico das disciplinas universitárias.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.51359/2317-5427.2026.270639",
+     "doi": "10.51359/2317-5427.2026.270639",
+     "paginas": "39-59",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.51359/2317-5427.2026.270669",
+     "titulo": "As possibilidades de uma didática antirracista: análise curricular das disciplinas de didática no ensino superior",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Lurian Gonzaga",
+       "orcid": "https://orcid.org/0009-0002-7035-3015"
+      }
+     ],
+     "resumen": "Este artigo tem como objetivo o debate sobre as Didáticas antirracistas. Para tanto, a partir de uma abordagem metodológica qualitativa, será feita uma análise curricular dos planos de ensino da disciplina de Didática de cinco universidades federais, de todas as regiões do país, definidas pela acessibilidade das ementas. Com intuito de problematizar os debates sobre a questão racial nesses documentos curriculares. Além da análise curricular também será feito um debate bibliográfico sobre as possibilidades das Didáticas antirracistas. Como resultado da pesquisa pôde-se constatar as faltas de intenções antirracistas dentro dos planos de ensino e dos conteúdos programáticos de uma disciplina técnica das ciências da educação. Assim, mostra-se como os efeitos das legislações da ERER não chegaram nas Didáticas universitárias. O referencial teórico está no pensamento decolonial, nas contribuições de Walsh e Oliveira e Lins.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.51359/2317-5427.2026.270669",
+     "doi": "10.51359/2317-5427.2026.270669",
+     "paginas": "60-78",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.51359/2317-5427.2026.270722",
+     "titulo": "Escutar o conflito e desobedecer o racismo: ações afirmativas e descentramentos pedagógicos-epistêmicos nos Institutos Federais",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Camila Teixeira Lima",
+       "orcid": "https://orcid.org/0000-0003-3088-0793"
+      }
+     ],
+     "resumen": "O artigo analisa o descompasso entre a institucionalização de políticas de ações afirmativas e a efetivação de práticas pedagógicas comprometidas com uma educação antirracista nas instituições federais de educação pública. Parte-se da hipótese de que políticas de acesso, embora fundamentais para ampliar a presença de sujeitos historicamente racializados, não produzem transformações pedagógicas substantivas sem deslocamentos teórico-epistêmicos e prático-pedagógicos. Nesse sentido, a extensão é mobilizada como dimensão privilegiada para problematizar esse descompasso, em consonância com o princípio da indissociabilidade entre ensino, pesquisa e extensão. O projeto MediAção, desenvolvido no Instituto Federal do Sertão Pernambucano, é mobilizado não como objeto empírico, mas como dispositivo de produção de conhecimento por meio do qual se evidencia a centralidade da escuta, do conflito e do protagonismo afro e indígena na produção de conhecimento. A presença de Dona Valdeci é acionada como vinheta analítica e sujeito epistêmico, tensionando hierarquias tradicionais de saber. Argumenta-se que práticas pedagógicas antirracistas exigem reconhecer o conflito como dimensão constitutiva da produção de conhecimento e como motor de deslocamentos epistêmicos e pedagógicos.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.51359/2317-5427.2026.270722",
+     "doi": "10.51359/2317-5427.2026.270722",
+     "paginas": "79-103",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.51359/2317-5427.2026.270793",
+     "titulo": "A judicialização da igualdade: uma análise das ações afirmativas nas instituições de justiça",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "João Pedro Fonseca Ludovico dos Santos",
+       "orcid": "https://orcid.org/0009-0009-7108-0734"
+      }
+     ],
+     "resumen": "O presente artigo examina o papel do Poder Judiciário e do Ministério Público na efetivação das ações afirmativas no ordenamento jurídico brasileiro. A partir de referenciais teóricos que articulam igualdade formal e igualdade substancial com apoio em Marshall, Rawls, Fraser, Dworkin e Canotilho, demonstra-se que as cotas raciais constituem concretização do princípio isonômico em contextos de desigualdade estrutural historicamente acumulada. Analisa-se a jurisprudência consolidada do STF vide ADPF 186/DF, RE 597.285/RS e ADC 41/DF e o papel indutor do Ministério Público na defesa do arcabouço constitucional afirmativo. Como eixo empírico central, examina-se a ADI 7.929/SC, em que o STF declarou, por unanimidade, a inconstitucionalidade da Lei Estadual 19.722/2026 de Santa Catarina, evidenciando que a margem de conformação dos entes federativos não autoriza a supressão abrupta de políticas afirmativas cuja validade constitucional já se encontra pacificada.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.51359/2317-5427.2026.270793",
+     "doi": "10.51359/2317-5427.2026.270793",
+     "paginas": "104-126",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.51359/2317-5427.2026.269930",
+     "titulo": "Autoimagem profissional e transformações organizacionais contemporâneas: interfaces entre trabalho, reconhecimento e subjetividade",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Keila de Cássia Silva",
+       "orcid": "https://orcid.org/0009-0006-7109-849X"
+      },
+      {
+       "nombre": "Henrique Castro",
+       "orcid": "https://orcid.org/0009-0008-1625-9902"
+      },
+      {
+       "nombre": "Roseli Vieira Pires",
+       "orcid": "https://orcid.org/0000-0003-2570-0436"
+      }
+     ],
+     "resumen": "Este artigo tem como objetivo analisar os impactos das transformações organizacionais contemporâneas sobre a autoimagem do trabalhador, à luz das contribuições da Psicodinâmica do Trabalho, da Sociologia do Trabalho e da Psicologia Social. Trata-se de um estudo teórico de natureza interpretativa, desenvolvido por meio de pesquisa bibliográfica qualitativa. Trata-se de um estudo teórico de natureza interpretativa, desenvolvido por meio de pesquisa bibliográfica qualitativa. A investigação fundamenta-se na leitura crítica de obras que abordam as mudanças tecnológicas e organizacionais ocorridas no mundo do trabalho e seus efeitos sobre os processos de reconhecimento, identidade profissional e saúde mental. Os resultados indicam que a autoimagem do trabalhador constitui uma construção social dinâmica, influenciada pelas formas de organização do trabalho, pelos mecanismos de reconhecimento e pelas relações estabelecidas nos coletivos laborais. Verificou-se ainda que a intensificação das práticas gerencialistas, a flexibilização produtiva e a ampliação dos mecanismos de controle subjetivo tendem a fragilizar os processos de construção identitária, favorecendo o sentimento de insegurança, desvalorização e sofrimento psíquico. Conclui-se que a compreensão da constituição da autoimagem profissional oferece importantes subsídios para a análise dos impactos subjetivos das transformações contemporâneas do trabalho e contribui para o desenvolvimento de práticas organizacionais mais sensíveis à saúde mental e ao reconhecimento dos trabalhadores.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.51359/2317-5427.2026.269930",
+     "doi": "10.51359/2317-5427.2026.269930",
+     "paginas": "127-145",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.51359/2317-5427.2026.268380",
+     "titulo": "Racismo e escolarização: desvantagens e privilégios raciais nas trajetórias de estudantes até a pós-graduação",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Francisco Érick de Oliveira",
+       "orcid": "https://orcid.org/0000-0002-1691-3889"
+      }
+     ],
+     "resumen": "Este trabalho investigou como raça condiciona trajetórias de escolarização, da educação básica à pós-graduação, destacando tanto os privilégios usufruídos por estudantes brancos quanto as desvantagens cumulativas para estudantes pretos. Guiada por Hasenbalg, Nelson Silva e Quijano, a hipótese sustentava que raça precede classe na experiência educacional e alocação de posições sociais. A pesquisa qualitativa com pós-graduandos revelou que a discriminação dos não-brancos por exclusão curricular, hostilidades e estereótipos impactava em sua autoestima e aspiração de horizontes sociais. Estudantes brancos, em contraste, vivenciaram tratamentos preferenciais e tiveram a escola como um ambiente familiar. Algumas destas experiências se repetiram, em menor medida, no ensino superior e na pós-graduação, o que ressalta a importância de se pensar na política de cotas tanto para o acesso quanto para a permanência.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.51359/2317-5427.2026.268380",
+     "doi": "10.51359/2317-5427.2026.268380",
+     "paginas": "146-171",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.51359/2317-5427.2026.266126",
+     "titulo": "Inter-relações entre acesso às estruturas e equipamentos urbanos de esporte, prática de atividade física e legado dos megaeventos esportivos no Brasil.",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Rodrigo Paiva",
+       "orcid": "https://orcid.org/0000-0001-9063-2981"
+      }
+     ],
+     "resumen": "Diversos estudos tentam identificar fatores que interferem na adoção, ou não, do hábito da prática de exercícios físicos e esportes. Existem condicionantes objetivos relacionados à disponibilidade à prática esportiva como o acesso às estruturas e equipamentos urbanos para práticas de esportes. Globalmente, governos adotam a estratégia de realização de megaeventos esportivos sob o pretexto de dinamizar a economia e promover um legado que, entre outros aspectos, deixaria às cidades-sede estruturas e equipamentos construídos para o evento que fomentaram a prática de esportes pela população. O estudo objetivou compreender as inter-relações entre a realização de megaeventos esportivos, legado de estruturas físico-esportivas e a adoção hábitos de prática de atividade física por parte da população nas cidades-sede. Neste estudo, caracterizado como revisão de literatura e ensaio teórico, foi possível observar forte correlação entre a disponibilidade de equipamentos públicos e o envolvimento da população em esportes. O acesso a estruturas diversificadas, descentralizadas e próximas da residência ou do trabalho impactam positivamente a promoção de hábitos de saúde e compõem os fatores primordiais para a implementação de políticas públicas eficazes. Constatou-se, ainda, que o legado estrutural de megaeventos esportivos para a universalização do acesso ao esporte não tem sido prioridade nos compromissos das cidades-sede.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.51359/2317-5427.2026.266126",
+     "doi": "10.51359/2317-5427.2026.266126",
+     "paginas": "172-192",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.51359/2317-5427.2026.265480",
+     "titulo": "Identidade e Representação na contemporaneidade: uma análise sociológica do filme Coringa",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Michael Costa",
+       "orcid": "https://orcid.org/0000-0001-9865-013X"
+      },
+      {
+       "nombre": "Saraí Schmidt",
+       "orcid": "https://orcid.org/0000-0001-8795-3100"
+      }
+     ],
+     "resumen": "Este artigo propõe uma reflexão sobre as relações entre identidade e representação na contemporaneidade a partir do filme Coringa (2019). A narrativa cinematográfica é utilizada como ponto de partida para compreender como experiências de exclusão social, fragilidade dos vínculos humanos e invisibilidade social atravessam os processos de construção identitária na sociedade contemporânea. O estudo dialoga com as contribuições teóricas de Stuart Hall, Zygmunt Bauman e Patrick Charaudeau, articulando também reflexões de Walter Benjamin, Theodor Adorno, Sergei Eisenstein e Ismail Xavier acerca da relação entre estética, linguagem cinematográfica e realidade social. A análise busca compreender não apenas os acontecimentos da narrativa, mas também a maneira como recursos da linguagem cinematográfica — como enquadramentos, ambientação, movimentos de câmera, fotografia, montagem e composição sonora — participam da construção simbólica da marginalidade e da experiência subjetiva do protagonista. Ao acompanhar a trajetória de Arthur Fleck, o artigo evidencia como determinadas experiências sociais podem influenciar os processos de constituição da identidade, ao mesmo tempo em que discute o cinema como espaço de produção de sentidos sobre a vida social contemporânea. Dessa forma, busca-se contribuir para a compreensão das relações entre representações culturais, estética cinematográfica e formação das identidades na contemporaneidade.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.51359/2317-5427.2026.265480",
+     "doi": "10.51359/2317-5427.2026.265480",
+     "paginas": "193-212",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.51359/2317-5427.2026.268980",
+     "titulo": "“Gay Direito é de Direita?”: Uma Discussão Acerca da Identidade Conservadora no Movimento LGBTQIAPN+",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Alliston Santos",
+       "orcid": "https://orcid.org/0009-0007-2258-2880"
+      },
+      {
+       "nombre": "Marco Aurélio Dias de Souza",
+       "orcid": "https://orcid.org/0000-0002-6649-6462"
+      }
+     ],
+     "resumen": "Este estudo investiga a diversidade política dentro da comunidade LGBTQIAPN+, destacando a adesão de alguns de seus membros a uma identidade conservadora ao se identificarem como \"gays de direita\". Esses indivíduos rejeitam, total ou parcialmente, as pautas do movimento LGBTQIAPN+, desafiando estereótipos e questionando a hegemonia da ‘esquerda’ nessas discussões. De caráter exploratório, a pesquisa baseia-se em revisão de literatura e análise documental sobre o movimento \"gays de direita\" e a construção de sua identidade conservadora. Para compreender essa dinâmica, foram mapeadas notícias e figuras públicas LGBTQIAPN+ associadas a partidos de direita, buscando justificar a adesão a esse posicionamento. O estudo adota como referenciais teóricos conceitos sobre identidades, conservadorismo, gênero, sexualidade e as \"novas direitas\", analisando a polarização política e seus impactos na comunidade LGBTQIAPN+.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.51359/2317-5427.2026.268980",
+     "doi": "10.51359/2317-5427.2026.268980",
+     "paginas": "213-240",
+     "fuente": "Crossref"
+    }
+   ]
+  },
+  {
+   "id": "v1-n32-2026",
+   "volumen": "1",
+   "numero": "32",
+   "anio": 2026,
+   "fecha": "2026-05-06",
+   "etiqueta": "Vol. 1, núm. 32 (2026)",
+   "fuente": "Crossref",
+   "articulos": [
+    {
+     "id": "10.51359/2317-5427.2026.270271",
+     "titulo": "Apresentação do dossiê - A fragmentação disciplinar da sociologia: uma perspectiva histórica e teórica",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Bruna dos Santos Bolda",
+       "orcid": "https://orcid.org/0000-0003-4588-1553"
+      },
+      {
+       "nombre": "Alberto Farias",
+       "orcid": "https://orcid.org/0000-0002-2625-9921"
+      },
+      {
+       "nombre": "Thiago Pinho",
+       "orcid": "https://orcid.org/0000-0003-4147-6331"
+      }
+     ],
+     "resumen": "O texto situa os artigos do dossiê “Desde a gênese, em fragmentação”, do presente número da Estudos de Sociologia. Partindo da constatação de que sociologia é uma disciplina autorreflexiva, o texto tenta estabelecer essa característica em suas bases histórica e sistemática. Sustenta-se que, apesar de suas ricas tradições de pesquisas de opinião, etnografia, investigação histórica e pesquisa quantitativa, a sociologia não produziu um consenso estável sobre um objeto, método ou linguagem teórica unificados. Isso pode ser provado tanto historicamente, pelo recurso à formação da disciplina a partir de diversas linhagens intelectuais e no repertório clássico heterogêneo de Marx, Durkheim, Weber, Simmel, Tarde, Du Bois e outros; como sistematicamente, pela observação de que a sociologia contemporânea continua sendo um campo de subcampos diferenciados e propostas ontológicas concorrentes. O texto, então, argumenta que a fragmentação não é um defeito, mas um atributo constitutivo da sociologia, que os artigos do número especial abordam produtivamente como uma pluralidade a partir da qual repensar o cânone, os limites e os conceitos no presente.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.51359/2317-5427.2026.270271",
+     "doi": "10.51359/2317-5427.2026.270271",
+     "paginas": "01-09",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.51359/2317-5427.2026.268738",
+     "titulo": "Uma visão sistemática sobre o uso da história nos debates atuais em sociologia e sobre o potencial e os problemas de uma epistemologia histórica da sociologia",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Christian Dayé",
+       "orcid": "https://orcid.org/0000-0001-5530-371X"
+      }
+     ],
+     "resumen": "Por várias razões, dentre elas mudanças no regime global de ensino superior e reivindicações de conhecimento competitivas de outras disciplinas, o campo da história da sociologia (HoS) tem experimentado uma pressão crescente para justificar sua própria existência durante a última década. Postulando que a melhor abordagem para justificar a existência de uma coisa é mostrar a sua utilidade, o artigo discute quatro tipos de reivindicações de utilidade feitas por historiadores da sociologia. A história da sociologia pode ser considerada relevante por (I) moldar e manter a identidade da disciplina; (II) por fornecer um rico fundo de ensino para futuros sociólogos; (III) por informar pesquisas e teorizações atuais; e (IV) por refletir mais amplamente sobre o status cultural da sociologia nas sociedades modernas. O artigo então avalia o potencial e os problemas de aspirar a uma epistemologia histórica da sociologia, uma proposta feita recentemente, especialmente em contextos alemães e anglófonos, para vincular a história da ciência com sua filosofia no sentido descrito como tipo III. Conclui que princípios ou ideias selecionados da epistemologia histórica podem ser aplicados de forma muito proveitosa em HoS. No entanto, o projeto de transferir todo o programa de epistemologia histórica para HoS está fadado ao fracasso. Há, no entanto, muitas razões para continuar a conceber HoS como parte integrante da sociologia.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.51359/2317-5427.2026.268738",
+     "doi": "10.51359/2317-5427.2026.268738",
+     "paginas": "10-48",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.51359/2317-5427.2026.269581",
+     "titulo": "Entre W.E.B. Du Bois e Durkheim: raça como chave interpretativa e categoria analítica da modernidade",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Ana Carolina Ribeiro Duarte",
+       "orcid": "https://orcid.org/0009-0001-5965-4522"
+      },
+      {
+       "nombre": "Maria Luiza da Silva Ortiz",
+       "orcid": "https://orcid.org/0009-0003-5828-5205"
+      }
+     ],
+     "resumen": "Este artigo propõe um diálogo entre Émile Durkheim e W. E. B. Du Bois, explorando a ascensão da raça como categoria analítica e seu papel como elemento fundamental para a compreensão da modernidade. O texto situa a consolidação do cânone da teoria sociológica, bem como suas reconfigurações e imbricações históricas, a partir de Raewyn Connell (2012), Michael Burawoy (2024) e Hamlin, Weiss e Brito (2022). A discussão reforça a necessidade de incorporação de Du Bois ao cânone sociológico e do estabelecimento de um diálogo contemporâneo entre suas obras e as dos autores considerados clássicos da Sociologia. O desenvolvimento organiza-se em duas frentes analíticas: a primeira discute o processo de institucionalização da Sociologia e a consolidação de seu cânone; a segunda propõe um diálogo teórico entre Du Bois e Durkheim, mobilizando a leitura de Karen E. Fields e Barbara J. Fields (2012) sobre o estatuto sociológico da raça. Ao final, argumenta-se que a reinterpretação crítica do cânone permite iluminar os fundamentos da raça no campo disciplinar e explorar as potencialidades analíticas do diálogo entre Du Bois e Durkheim.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.51359/2317-5427.2026.269581",
+     "doi": "10.51359/2317-5427.2026.269581",
+     "paginas": "49-73",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.51359/2317-5427.2026.269637",
+     "titulo": "Ciências naturais e ciências sociais: as raízes filosóficas de Florestan Fernandes",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Diogo Valença de Azevedo Costa",
+       "orcid": "https://orcid.org/0000-0001-5266-9855"
+      }
+     ],
+     "resumen": "O presente artigo discute as ideias de Florestan Fernandes sobre as relações entre as ciências naturais e as ciências sociais, tais como foram formuladas em meados da década de 1940. Utilizaram-se como fontes seus artigos publicados na coluna Homem e Sociedade do Jornal de São Paulo. Partindo-se de seu olhar sobre a fragmentação dos pressupostos filosóficos nas ciências sociais, o objetivo foi explicitar suas concepções ontológicas e epistemológicas no âmbito da Sociologia. As ideias aqui apresentadas fazem parte de um programa de pesquisas mais amplo sobre as continuidades e descontinuidades do pensamento metodológico de Florestan Fernandes, nas diferentes fases que marcam sua trajetória intelectual.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.51359/2317-5427.2026.269637",
+     "doi": "10.51359/2317-5427.2026.269637",
+     "paginas": "74-98",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.51359/2317-5427.2026.269777",
+     "titulo": "Ensaio sobre fenomenologia e sociologia: ponderações acerca do pensamento disciplinar e dos métodos qualitativos",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Gabriel Gorini",
+       "orcid": "https://orcid.org/0009-0000-5686-7103"
+      }
+     ],
+     "resumen": "O texto pensa a relação entre fenomenologia e sociologia compreensiva a partir das seguintes questões: a formação disciplinar sociológica; os métodos qualitativos; e o próprio modo de pensar da sociologia e dos sociólogos. Inserido no debate sobre a legitimidade científica da pesquisa qualitativa, a proposta é pensar a questão mediante um exercício fenomenológico e sobre as interpretações de ser supostas e pressupostas nesses métodos. Contra a redução da fenomenologia a uma \"teoria aplicável\", a postura aqui é de atenção e escuta do fenômeno.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.51359/2317-5427.2026.269777",
+     "doi": "10.51359/2317-5427.2026.269777",
+     "paginas": "99-115",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.51359/2317-5427.2026.269630",
+     "titulo": "Necrofania e fragmentação disciplinar: uma proposta de unidade analítica de terceira ordem para a teoria sociológica contemporânea",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Gilberto Macedo Pina",
+       "orcid": "https://orcid.org/0000-0003-0590-0211"
+      }
+     ],
+     "resumen": "Este artigo propõe o conceito de necrofania como operador analítico destinado a articular debates contemporâneos sobre violência letal frequentemente tratados de forma fragmentada na teoria social. Em diálogo com discussões sobre biopolítica, necropolítica e economia moral da vida e da morte, argumenta-se que, em certos contextos, a morte violenta deixa de operar como evento excepcional ou limite moral absoluto e passa a integrar o funcionamento ordinário de ordens sociais formalmente reguladas, inclusive em regimes democráticos. A necrofania designa arranjos sociopolíticos nos quais a visibilidade reiterada da morte, a produção sistemática de violência em excesso e sua legitimação institucional operam de modo articulado, produzindo a normalização social da letalidade, cuja articulação simultânea é condição necessária para a caracterização do fenômeno. Ao propor uma unidade analítica de terceira ordem, o artigo busca oferecer uma ferramenta conceitual que, operando em nível metateórico, integra categorias consolidadas sem fundi-las em um princípio único. Metodologicamente, trata-se de um ensaio teórico-conceitual fundamentado em revisão crítica da literatura sociológica.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.51359/2317-5427.2026.269630",
+     "doi": "10.51359/2317-5427.2026.269630",
+     "paginas": "116-137",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.51359/2317-5427.2026.269465",
+     "titulo": "Gerência hospitalar como lugar de fronteira: trabalho, subjetividade e contradições do gerencialismo no serviço público de saúde",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "João Pedro Ribeiro Carrijo",
+       "orcid": "https://orcid.org/0009-0005-2489-6117"
+      },
+      {
+       "nombre": "Fabiane Santana Previtali",
+       "orcid": "https://orcid.org/0000-0002-8079-5557"
+      },
+      {
+       "nombre": "Raul de Freitas Balbino",
+       "orcid": "https://orcid.org/0009-0006-8603-5336"
+      }
+     ],
+     "resumen": "Este artigo analisa a experiência de trabalho de gerentes de um hospital universitário federal sob gestão da Empresa Brasileira de Serviços Hospitalares (Ebserh), à luz das transformações contemporâneas do trabalho. Ancorada no materialismo histórico-dialético, a pesquisa adota abordagem qualitativa, articulando revisão bibliográfica crítica, análise documental e entrevistas semiestruturadas com sete gerentes. Os resultados indicam que a gerência hospitalar ocupa um lugar estruturalmente contraditório: ao mesmo tempo em que executa diretrizes gerenciais orientadas por metas, desempenho e racionalidade empresarial, vivência condições próximas ao assalariamento, marcadas por intensificação do trabalho, sobrecarga e impactos significativos sobre a saúde mental. As entrevistas revelam a ampliação das jornadas, a compressão dos intervalos, a invasão do tempo privado por demandas digitais, a diferenciação contratual, a terceirização e a persistência de desigualdades de gênero. Conclui-se que a gerência, longe de constituir uma posição homogênea de integração ao capital, configura-se como um “lugar de fronteira”, no qual se articulam consentimento, coerção e ambivalências, iluminando os custos sociais e subjetivos da incorporação do gerencialismo no serviço público de saúde.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.51359/2317-5427.2026.269465",
+     "doi": "10.51359/2317-5427.2026.269465",
+     "paginas": "138-162",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.51359/2317-5427.2026.269040",
+     "titulo": "As diretrizes das Nações Unidas sobre a abolição dos castigos na vida escolar das crianças",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Maria José de Rezende",
+       "orcid": "https://orcid.org/0000-0002-3426-910X"
+      }
+     ],
+     "resumen": "São objeto deste artigo as recomendações da ONU sobre o estabelecimento de ações e procedimentos para abolir todas as formas de punição, física e psíquica, sofridas pelas crianças no ambiente escolar. É uma pesquisa documental qualitativa que objetiva mapear e interpretar o significado, para a efetivação dos direitos humanos, das diretrizes contidas em declarações, convenções e relatórios que defendem a abolição dos castigos, físicos e psíquicos, a que ainda se recorre nos processos de aprendizado e de socialização escolar como um todo. A análise estará restrita a documentos que buscam incentivar a efetivação de ações acordadas pelos estados-membros da ONU acerca da necessidade de pôr em prática políticas de eliminação de castigos diversos no âmbito escolar para assim garantir os direitos humanos das crianças. Os argumentos e seus significados serão lidos à luz do contexto social, histórico e político que lhes dá embasamento. Entre as recomendações centrais está a de que a sociabilidade escolar e o aprendizado estejam em consonância com a dignidade das crianças.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.51359/2317-5427.2026.269040",
+     "doi": "10.51359/2317-5427.2026.269040",
+     "paginas": "163-182",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.51359/2317-5427.2026.267261",
+     "titulo": "Cinema, representação e sociedade: perspectivas a partir da sociologia da arte",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Cláudio Almeida Filho",
+       "orcid": "https://orcid.org/0000-0002-8037-5958"
+      }
+     ],
+     "resumen": "O artigo analisa o cinema a partir das contribuições da Sociologia da Arte, tomando o conceito de representação como categoria analítica central. Parte-se da compreensão do cinema como forma estética que articula múltiplas linguagens, como a pintura, a música e o teatro. Para fundamentar essa abordagem, mobilizam-se elementos da filosofia da arte em Hegel, em diálogo com a noção de materialidade no pensamento de Marx, destacando suas contribuições para a compreensão das representações artísticas e sociais. Como procedimento metodológico, adota-se a decomposição e recomposição da linguagem fílmica, visando sistematizar a análise de seus elementos formais e sociais. A partir dessas articulações, demonstra-se que o cinema é compreendido como expressão da subjetividade humana constituída por mediações materiais, históricas e sociais. Por fim, o artigo evidencia as intersecções entre sociologia e filosofia da arte, com base nas reflexões de Lukács, Kracauer, Benjamin e Adorno sobre o cinema.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.51359/2317-5427.2026.267261",
+     "doi": "10.51359/2317-5427.2026.267261",
+     "paginas": "183-203",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.51359/2317-5427.2026.269488",
+     "titulo": "Achille Mbembe e a perspectiva ontopolítica da democracia",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Anna Kristyna Araújo da Silva Barbosa",
+       "orcid": "https://orcid.org/0000-0003-3798-7382"
+      }
+     ],
+     "resumen": "A resenha analisa Democracia como comunidade de vida, de Achille Mbembe, destacando sua crítica às concepções liberais e institucionais da democracia. O autor evidencia como a democracia moderna foi historicamente constituída em aliança com o colonialismo, o racismo e a necropolítica, tendo o sistema escravista e o capitalismo racial como fundamentos. Ao mesmo tempo, Mbembe propõe uma reimaginação ontopolítica da democracia como comunidade de vida, baseada na interdependência, na vulnerabilidade compartilhada e no cuidado com a Terra. Inspirado por cosmologias africanas e pelo pensamento negro radical, o autor defende um humanismo crítico capaz de enfrentar os desafios políticos, ecológicos e tecnológicos do presente, convidando à reinvenção da democracia como prática de afirmação da vida frente às lógicas contemporâneas de morte.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.51359/2317-5427.2026.269488",
+     "doi": "10.51359/2317-5427.2026.269488",
+     "paginas": "204-209",
+     "fuente": "Crossref"
+    }
+   ]
+  },
+  {
+   "id": "v3-n31-2025",
+   "volumen": "3",
+   "numero": "31",
+   "anio": 2025,
+   "fecha": "2025-11-27",
+   "etiqueta": "Vol. 3, núm. 31 (2025)",
+   "fuente": "Crossref",
+   "articulos": [
+    {
+     "id": "10.51359/2317-5427.2025.268785",
+     "titulo": "Apresentação do Dossiê - Do brado populista à retórica do ódio: estratégias discursivas da extrema direita no ambiente digital",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Débora Souza de Britto",
+       "orcid": "https://orcid.org/0009-0008-9205-6330"
+      },
+      {
+       "nombre": "Rafael Monteiro de Oliveira Cintra",
+       "orcid": "https://orcid.org/0000-0003-1887-1501"
+      },
+      {
+       "nombre": "Rebecca Botelho Portela de Melo",
+       "orcid": "https://orcid.org/0000-0002-9533-2379"
+      }
+     ],
+     "resumen": null,
+     "idioma_resumen": null,
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.51359/2317-5427.2025.268785",
+     "doi": "10.51359/2317-5427.2025.268785",
+     "paginas": "01-05",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.51359/2317-5427.2025.266657",
+     "titulo": "Gramáticas afetivas e a crise da mediação: a fragilização da democracia pelo contato direto entre Estado e sociedade",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Rafael Santos",
+       "orcid": "https://orcid.org/0000-0001-9429-369X"
+      },
+      {
+       "nombre": "Mateus Venceslau Marreiro",
+       "orcid": "https://orcid.org/0000-0001-9372-5825"
+      }
+     ],
+     "resumen": "As sucessivas crises democráticas têm suscitado inúmeros debates quanto à dinâmica da democracia nas sociedades contemporâneas, em especial sobre como interpretar tal instituição moderna. No Brasil os trabalhos de Rodrigo Nunes (2022; 2023) e Letícia Cesarino (2022) se destacam ao pensarem o autoritarismo emergido do que vem sendo chamado como “crise” e como tem sido impulsionado por gramáticas afetivas disseminadas pelas mídias digitais. Em paralelo a isso, surgem movimentos dentro das ciências sociais a fim de resgatar o pensamento político durkheiminiano para pensar os dilemas políticos e morais de nosso tempo presente. Assim, a intenção do nosso trabalho é usar um dos escritos políticos de Durkheim, em especial Lições de Sociologia (2019 [1950]), como tentativa de abarcar a crise da democracia moderna em diálogo com diagnósticos do presente. Desse modo, espera-se uma singela contribuição para o debate sobre os dilemas de nosso tempo no que diz respeito à crise democrática.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.51359/2317-5427.2025.266657",
+     "doi": "10.51359/2317-5427.2025.266657",
+     "paginas": "06-23",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.51359/2317-5427.2025.267505",
+     "titulo": "Crise orgânica, governo Bolsonaro e negacionismo científico: uma análise sobre o uso do Youtube durante a pandemia de COVID-19",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Kleiton Wagner Alves da Silva Nogueira",
+       "orcid": "https://orcid.org/0000-0001-5238-5262"
+      },
+      {
+       "nombre": "Gonzalo Adrián Rojas",
+       "orcid": "https://orcid.org/0000-0003-2009-4772"
+      }
+     ],
+     "resumen": "A ascensão da extrema-direita em âmbito internacional veio acompanhada da promoção, cada vez mais constante, do negacionismo científico propalado mediante distintas plataformas digitais. Na Pandemia de Covid-19 observamos este cenário de perto através da gestão realizada pelo governo Bolsonaro no trato da Covid-19 no qual o ex-presidente foi porta-voz direto de conteúdos e discursos negacionistas através do YouTube. Partindo desse contexto, objetivamos no presente artigo analisar o negacionismo científico emanado por Bolsonaro durante a pandemia de Covid-19 mediante seu canal no YouTube. Para o alcance deste objetivo procedeu-se metodologicamente numa abordagem qualiquantitativa através do levantamento documental, jornalística e bibliográfico atrelado à análise de Conteúdo das lives semanais realizadas pelo ex-presidente. Nossos principais resultados evidenciaram sete categorias emanadas do discurso do ex-presidente: a) interferência do judiciário; b) imunização de rebanho; c) auxílio emergencial é caro para o Estado; d) visão antivacina; atuação do governo federal; e) negacionismo científico; f) Medidas sanitárias afetam negativamente a economia e g) tratamento precoce.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.51359/2317-5427.2025.267505",
+     "doi": "10.51359/2317-5427.2025.267505",
+     "paginas": "24-49",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.51359/2317-5427.2025.267475",
+     "titulo": "Ideologia em movimento: Olavo de Carvalho e as raízes digitais da extrema direita no Brasil",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Rebecca Botelho Portela de Melo",
+       "orcid": "https://orcid.org/0000-0002-9533-2379"
+      }
+     ],
+     "resumen": "Este artigo, baseado na minha tese de doutorado defendida em dezembro de 2024 remonta, em perspectiva crítica da história, parte da trajetória midiática de um dos grandes expoentes da extrema-direita brasileira: Olavo de Carvalho. Apesar de ser uma figura que teve certa inserção na mídia hegemônica, Carvalho nem sempre gozou desta relevância a nível nacional, tendo iniciado as suas investidas no campo midiático muito antes de se tornar um autor best-seller. Argumentamos aqui como Carvalho foi pioneiro no uso de ferramentas midiáticas emergentes com o objetivo de difundir sua concepção ideológica, fazendo um levantamento histórico dos veículos de comunicação idealizados e/ou empreendido por ele. Buscamos, com isso, salientar a importância de abordar trajetórias e estratégias similares para inserção de novos atores da extrema-direita no ambiente digital, voltados para as novas formas de fazer política.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.51359/2317-5427.2025.267475",
+     "doi": "10.51359/2317-5427.2025.267475",
+     "paginas": "50-70",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.51359/2317-5427.2025.267414",
+     "titulo": "Deus, algoritmo e conflito político: estratégias discursivas de deputados evangélicos no Instagram",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Robert Felipe Pinheiro",
+       "orcid": "https://orcid.org/0009-0001-7217-9260"
+      },
+      {
+       "nombre": "Asmynne Barbosa dos Santos",
+       "orcid": "https://orcid.org/0000-0002-1802-4233"
+      }
+     ],
+     "resumen": "Este artigo analisa como deputados federais evangélicos de direita e esquerda utilizam o Instagram para mobilizar suas bases e difundir conteúdos alinhados às suas posições ideológicas, dentro da lógica de radicalização e da chamada guerra cultural. A amostra é composta pelas publicações de Nikolas Ferreira (PL-MG), Eduardo Bolsonaro (PL-SP), Marco Feliciano (PL-SP) e Hélio Lopes (PL-RJ), de direita; e Benedita da Silva (PT-RJ), Janones (Avante-MG), Marcos Tavares (PDT-RJ) e Pr. Henrique Vieira (Psol-RJ), de esquerda. Com a metodologia Análise de Conteúdo Categorial, foram examinadas 672 postagens coletadas pela ferramenta DMI 4CAT. Os resultados apontam que conteúdos de ataque e sobre a guerra Israel-Hamas foram mais frequentes entre os deputados de direita, enquanto “ação parlamentar” predominou entre os de esquerda. A categoria “religião” apresentou baixa incidência em ambos os grupos.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.51359/2317-5427.2025.267414",
+     "doi": "10.51359/2317-5427.2025.267414",
+     "paginas": "71-93",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.51359/2317-5427.2025.267380",
+     "titulo": "A sagrada família na propaganda digital de influenciadores da extrema direita brasileira",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Patrícia da Silva Santos",
+       "orcid": "https://orcid.org/0000-0002-1266-1311"
+      },
+      {
+       "nombre": "Ariella Cristine Queiroz Moreira",
+       "orcid": "https://orcid.org/0009-0003-7721-7953"
+      }
+     ],
+     "resumen": "Diante de um cenário de crises globais sob as rédeas do neoliberalismo, os meios de comunicação de massa e a plataformização das relações têm exercido um papel central como artifício de mobilização coletiva e de ascensão ideológica, como é o caso da extrema direita. Nesse sentido, este artigo tem como objetivo realizar uma análise do discurso promovido pelos influenciadores brasileiros de direita radical no Brasil, de modo a interpretar, por meio da discussão teórica e da exposição de dados empíricos, de que forma os aspectos da personalidade autoritária são mobilizados e transformados pelas novas dinâmicas propagandísticas do ciberespaço. São observados com especial atenção o caráter moralista e conservador em torno das instituições familiares e religiosas amplamente utilizadas nos discursos propagandísticos da extrema direita brasileira, representando velhas tendências de caráter autoritário, sob a inovação de novas técnicas de disseminação de informações.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.51359/2317-5427.2025.267380",
+     "doi": "10.51359/2317-5427.2025.267380",
+     "paginas": "94-111",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.51359/2317-5427.2025.267307",
+     "titulo": "Lógicas do autoritarismo digital: masculinidades, populismo religioso e políticas de controle no Brasil",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Guilherme da Silva Pereira",
+       "orcid": "https://orcid.org/0000-0001-6198-1568"
+      }
+     ],
+     "resumen": "Este artigo analisa as dinâmicas discursivas da extrema-direita brasileira nas redes sociais digitais, com foco no Movimento Legendários como estudo de caso. A investigação explora como plataformas como Instagram, Facebook e YouTube se tornam espaços privilegiados para a propagação de narrativas de masculinidade conservadora, moralismo religioso e combate espiritual. Fundamentado em uma abordagem crítica da análise do discurso em contextos digitais, o estudo articula teorias sobre colonialismo digital, controle algorítmico e algoritmos da opressão para compreender como as tecnologias de informação operam na reprodução de hierarquias sociais de gênero, raça e fé. A pesquisa revela como os discursos do movimento são amplificados por meio de estéticas multimodais emocionalmente carregadas e estratégias algorítmicas que favorecem conteúdos polarizadores e autoritários.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.51359/2317-5427.2025.267307",
+     "doi": "10.51359/2317-5427.2025.267307",
+     "paginas": "112-128",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.51359/2317-5427.2025.268478",
+     "titulo": "Genealogia e pensamentos decoloniais: colonialidade do poder/saber como teoria do assujeitamento",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Guilherme Ribeiro dos Santos Sena",
+       "orcid": "https://orcid.org/0009-0002-4162-2773"
+      },
+      {
+       "nombre": "Jader Ferreira Leite",
+       "orcid": "https://orcid.org/0000-0002-6045-531X"
+      }
+     ],
+     "resumen": "No presente texto, partimos da perspectiva da teoria do assujeitamento/sujeição presente na obra de Michel Foucault para dialogar/tensionar teoricamente com os processos perpetrados pela crítica da colonialidade do poder/saber presentes na obra de Aníbal Quijano, vistos enquanto processos de subjetivação. Para tanto, o presente ensaio pode ser dividido em duas partes distintas, mas intercambiáveis: a) delinear o que seria uma teoria do assujeitamento/sujeição na obra de Foucault, ao mesmo tempo em que se explicita as ideias de dois grandes filósofos que permitem tecer as aproximações com a crítica da colonialidade quijaniana, quais sejam, Santiago Castro-Gómez e Sueli Carneiro; b) ensejar as limitações conceituais presentes na obra foucaultiana, por um lado, concomitantemente se dá um passo além para pensar como a sociologia de(s)colonial de Quijano é pautada numa ideia central de assujeitamento/sujeição. Utilizamos como base metodológica uma leitura exegética e comparativa dos textos dos autores em questão. Com isso, pudemos explicitar acerca de possíveis influências do filósofo francês na teoria decolonial do sociólogo peruano.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.51359/2317-5427.2025.268478",
+     "doi": "10.51359/2317-5427.2025.268478",
+     "paginas": "129-151",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.51359/2317-5427.2025.268331",
+     "titulo": "O habitus na acepção de Norbert Elias e Pierre Bourdieu",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Fabio Monteiro de Moraes",
+       "orcid": "https://orcid.org/0000-0002-6577-2672"
+      }
+     ],
+     "resumen": "O presente artigo tem como objetivo realizar uma análise expositivo-comparativa do conceito de habitus mobilizado por Norbert Elias e Pierre Bourdieu, apresentando suas origens filosóficas, usos sociológicos e implicações teóricas para a compreensão da relação não-dual entre estrutura e agência. Em Elias, o habitus é concebido como uma “estrutura de personalidade” historicamente moldada pelo processo civilizador e pelas figurações interdependentes, funcionando como uma “segunda natureza” que articula dimensões psíquicas e coletivas. Em Bourdieu, é definido como um “sistema de disposições duráveis e transponíveis” que media a relação entre estruturas objetivas e práticas subjetivas, manifestando-se por meio do senso prático e da internalização das regras dos campos sociais. Apesar das diferentes ênfases — histórica e psicogênica em Elias, praxiológica e relacional em Bourdieu —, ambos engajados no debate que busca superar a dicotomia entre indivíduo e sociedade, compreendendo o social como processo relacional e incorporado. O estudo reafirma a atualidade do habitus como categoria central da teoria sociológica contemporânea.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.51359/2317-5427.2025.268331",
+     "doi": "10.51359/2317-5427.2025.268331",
+     "paginas": "152-168",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.51359/2317-5427.2025.267526",
+     "titulo": "Do desenvolvimento desigual à revolução teimosa",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Iuri Tonelo",
+       "orcid": "https://orcid.org/0000-0003-2995-1902"
+      }
+     ],
+     "resumen": "O ensaio propõe uma reflexão sobre a autoatividade dos trabalhadores como perspectiva sociológica e alternativa política à luz dos dilemas contemporâneos brasileiros. Parte da crítica sobre o desenvolvimento capitalista no país, tendo o Nordeste, especialmente Pernambuco, como elemento articulador do debate. Crítica abordagens evolucionistas e desenvolvimentistas, recuperando autores como Lélia Gonzalez, Florestan Fernandes, Francisco de Oliveira e Roberto Schwarz, ao demonstrar como o racismo e a superexploração estruturam o capitalismo dependente no Brasil. Expõe os limites históricos dos projetos institucionalizados e nacional-desenvolvimentistas, num panorama que parte da Revolta Praieira, passa pelo pré-1964 e chega à atualidade, destacando a centralidade estratégica da classe trabalhadora para a transformação social. Por fim, destaca o novo proletariado do Nordeste, nos setores industriais, logísticos e de serviços, como sujeito potencial de uma revolução teimosa, metáfora para a transformação radical a partir dessa nova realidade nordestina.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.51359/2317-5427.2025.267526",
+     "doi": "10.51359/2317-5427.2025.267526",
+     "paginas": "169-187",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.51359/2317-5427.2025.266380",
+     "titulo": "Sergio Arouca sob a perspectiva do pensamento social brasileiro",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Elis Bartonelli Farnezi",
+       "orcid": "https://orcid.org/0009-0008-0127-9724"
+      }
+     ],
+     "resumen": "Este artigo analisa a formação acadêmica de Sérgio Arouca e seu percurso profissional, com o objetivo de mostrar qual foi a bagagem intelectual que sustentou a sua tese de doutorado, “O Dilema Preventivista – Contribuição para Compreensão e Crítica da Medicina Preventiva”. A partir de uma metodologia voltada para análise de dados e documentos colhidos durante a pesquisa e com base nas teorias de Anthony Giddens, Norbert Elias e Nísia Trindade Lima, discute-se se Arouca, à luz do trabalho de Lima, pode ser considerado um médico-intelectual ou um intérprete do Brasil. O texto apresenta o marco teórico da pesquisa, expõe o argumento central da tese do sanitarista e detalhes de sua formação política e profissional. Em seguida, mostra atividades que Arouca desenvolveu enquanto professor da Unicamp, a conjuntura política do país e como seus desdobramentos impactaram a carreira do sanitarista. Por fim, relata como se deu a vida profissional de Arouca depois que ele deixou a docência e se tornou um articulador político na luta pela transformação na saúde.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.51359/2317-5427.2025.266380",
+     "doi": "10.51359/2317-5427.2025.266380",
+     "paginas": "188-209",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.51359/2317-5427.2025.267720",
+     "titulo": "Vísceras neoliberais: resenha de Capitalismo Gore",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Mateus de Melo Albuquerque",
+       "orcid": "https://orcid.org/0000-0002-6010-4456"
+      }
+     ],
+     "resumen": "Chegou ao Brasil a tradução de Capitalismo Gore, da mexicana Sayak Valencia, Doutora em Filosofia, Teoria e Crítica Feminista. O livro escrito por Sayak é uma interpretação latino-americana sobre as relações entre política e economia em nosso próprio território, que pensa o papel da violência no capitalismo e sua derivação em gore. Durante o livro, Valencia passeia pelos mais variados temas, cuja interdisciplinaridade dá profundidade e relevância ao seu estudo, como sociologia do trabalho, epistemologia feminista e estudos das masculinidades. Apresento as ideias gerais de cada um destes elementos na presente resenha.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.51359/2317-5427.2025.267720",
+     "doi": "10.51359/2317-5427.2025.267720",
+     "paginas": "210-217",
+     "fuente": "Crossref"
+    }
+   ]
+  }
+ ]
+};

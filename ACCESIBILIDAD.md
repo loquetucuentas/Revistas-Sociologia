@@ -2,7 +2,7 @@
 
 Este documento recoge qué se ha comprobado de forma automática, qué se ha revisado manualmente en el código y qué queda pendiente de revisión manual con VoiceOver y con teclado. El objetivo es WCAG 2.2 nivel AA completo (requisito R2.1 de REQUISITOS.md).
 
-Estado a 17 de octubre de 2026: todas las comprobaciones automáticas pasan con los datos de prueba. Falta la revisión manual con tecnologías de apoyo, que es imprescindible: las herramientas automáticas detectan aproximadamente un tercio de los problemas posibles.
+Estado a 18 de octubre de 2026: la aplicación ya usa datos reales de DOAJ y Crossref (41 revistas, 123 números y 1.909 artículos) y se ha retirado el aviso de datos de prueba. Las pruebas de comportamiento pasan con los datos reales y con los de prueba. El análisis con axe se ejecuta en GitHub Actions (ver 1.1). Falta la revisión manual con tecnologías de apoyo, que es imprescindible: las herramientas automáticas detectan aproximadamente un tercio de los problemas posibles.
 
 ## 1. Comprobaciones automáticas
 
@@ -19,7 +19,11 @@ Reglas de WCAG 2.0, 2.1 y 2.2 en niveles A y AA, más las buenas prácticas de a
 5. Cada vista en tema claro, en tema oscuro y a 320 píxeles de ancho (equivalente a un zoom del 400 por ciento en una pantalla de 1280 píxeles).
 6. El índice de un número con el texto al 200 por ciento.
 
-Los resúmenes desplegables se abren antes del análisis para que axe revise también su contenido. Resultado: 0 errores en los 25 análisis.
+Los resúmenes desplegables se abren antes del análisis para que axe revise también su contenido. Resultado con los datos de prueba el 17 de octubre: 0 errores en los 25 análisis.
+
+Desde el 18 de octubre hay además un análisis con los datos reales (archivo pruebas/datos-reales.spec.js): el listado completo y, para cada una de las 41 revistas, su ficha y el índice de su número más reciente, con los resúmenes abiertos. Son 83 análisis más.
+
+Aviso sobre el 18 de octubre: en el entorno de desarrollo en la nube no se pudo instalar axe-core, porque la configuración de red personalizada solo permite doaj.org y crossref.org y deja fuera el registro de npm. Por eso axe se ejecuta solo en GitHub Actions, en el flujo Pruebas, al subir los cambios. El resultado de esa ejecución se anota en la sección 4.
 
 ### 1.2. Pruebas de comportamiento (archivo pruebas/comportamiento.spec.js)
 
@@ -42,6 +46,15 @@ Los resúmenes desplegables se abren antes del análisis para que axe revise tam
 17. Una dirección de número inexistente ofrece enlaces para salir.
 18. Los enlaces del contenido están subrayados, así que no dependen solo del color.
 19. La aplicación funciona abriendo index.html directamente, sin servidor.
+
+Con los datos reales (pruebas/datos-reales.spec.js):
+
+20. Los datos de la carpeta data no son de prueba: ninguna revista empieza por prueba- ni lleva la marca es_prueba.
+21. El listado muestra todas las revistas del archivo de datos.
+22. En cada revista y en su número más reciente, cada título y cada resumen lleva exactamente el atributo lang que indica el recolector: ninguno si está en español o si el idioma no está claro, y el código del idioma en otro caso.
+23. Sin scroll horizontal a 320 píxeles en el índice de cada número, con títulos y DOI reales.
+
+Resultado local el 18 de octubre: las 90 pruebas de comportamiento pasan, incluidas las de estados de carga, vacío y error. En ese entorno local axe se sustituyó por un módulo vacío, así que esas 90 pruebas no cuentan como análisis de axe.
 
 ### 1.3. Lighthouse (archivo lighthouserc.json)
 
@@ -98,10 +111,12 @@ En esta tabla, «Auto» significa que lo cubre una comprobación automática, «
 3. El estado de carga solo aparece si los datos tardan más de 400 milisegundos. Así se evita que VoiceOver diga «Cargando» y justo después la vista nueva en cada navegación rápida.
 4. Los resultados de búsqueda se anuncian 700 milisegundos después de dejar de escribir, para no interrumpir cada letra. Pulsar Intro los anuncia al momento.
 5. Los botones de tamaño de texto que no se pueden usar en ese momento se marcan con aria-disabled en lugar de disabled. Así siguen siendo enfocables y, al pulsarlos, explican por qué no hacen nada.
-6. El idioma solo se marca cuando la fuente lo declara o cuando el detector del recolector está seguro. Un lang equivocado hace que VoiceOver lea peor que si no se marca.
+6. El idioma solo se marca cuando la fuente lo declara o cuando el detector del recolector está seguro. Un lang equivocado hace que VoiceOver lea peor que si no se marca. Crossref no informa del idioma de los artículos de estas revistas, así que todo se decide con el detector. Con los datos reales se mejoró: ahora reconoce títulos cortos en portugués, francés, catalán, italiano, inglés y polaco por sus palabras propias y su ortografía (por ejemplo «ção», «ã» o «l·l»), que antes se quedaban sin marcar y VoiceOver los habría leído con voz española.
 7. Los enlaces externos se abren en una pestaña nueva, como decidiste, y lo anuncian en su texto visible, no solo en un atributo: así lo saben también quienes ven la pantalla o usan control por voz.
 8. Los resúmenes van en un desplegable details para que el índice sea más corto de recorrer. Su texto incluye el título del artículo en texto oculto para distinguirlos en el rotor de VoiceOver.
 9. No hay cabecera fija: así el foco nunca queda tapado al hacer zoom.
+10. Los nombres de revista son nombres propios, que WCAG 3.1.2 exime de marcar. Aun así, si el detector está seguro del idioma se marca, para que VoiceOver los pronuncie mejor. Con los datos actuales solo ocurre con Journal of the Academy, en inglés.
+11. Los resúmenes que solo contienen un encabezado suelto, como «Resumen» o un guion, se descartan y la aplicación dice «Resumen no disponible en la fuente», en lugar de abrir un desplegable vacío.
 
 ## 3. Pendiente de revisión manual
 
@@ -138,8 +153,20 @@ En esta tabla, «Auto» significa que lo cubre una comprobación automática, «
 3. Reducir movimiento en macOS e iOS: el indicador de carga no gira.
 4. Espaciado de texto ampliado con un marcador como el de WCAG 1.4.12.
 
-## 4. Pendiente cuando haya datos reales
+## 4. Comprobado con los datos reales y pendiente
 
-1. Volver a pasar las pruebas automáticas y la revisión con VoiceOver con los datos reales: títulos muy largos, resúmenes extensos y caracteres especiales.
-2. Revisar si el detector de idioma marca bien los textos reales. En particular los resúmenes bilingües, que no se marcan, y los textos en catalán, gallego o portugués.
-3. Revisar en data/informe-no-resueltas.md las revistas que no se han podido resolver.
+### 4.1. Comprobado el 18 de octubre de 2026
+
+1. Las 41 revistas, 123 números y 1.909 artículos proceden de DOAJ y Crossref. Todos los artículos enlazan a su DOI en doi.org. Se han eliminado las cinco revistas ficticias de la carpeta data y el aviso visible de datos de prueba.
+2. Idiomas marcados en los títulos de artículo: 943 en español (sin lang propio), 421 en portugués, 210 en inglés, 28 en francés, 27 en polaco y 4 en catalán; 276 sin idioma claro, que heredan el español. En los 1.711 resúmenes: 893 en español, 406 en portugués, 347 en inglés, 29 en polaco, 16 en francés, 8 en catalán y 12 sin idioma claro.
+3. Las pruebas de comportamiento, incluidos los estados de carga, vacío y error, pasan con los datos reales y con los de prueba.
+4. Resultado de axe en GitHub Actions: pendiente de la ejecución del flujo Pruebas tras subir esta rama.
+
+### 4.2. Pendiente de revisión manual con VoiceOver
+
+1. Escuchar varios artículos en portugués, inglés, francés y polaco y confirmar que VoiceOver cambia de voz en el título y en el resumen, y que vuelve a la voz española después.
+2. Revisar los títulos sin idioma claro. La mayoría están en español, pero quedan algunos portugueses muy cortos, como «Território Palimpsesto», que VoiceOver leerá con voz española. Si molestan, se puede añadir una corrección manual por artículo.
+3. Revisar los resúmenes bilingües, en los que la fuente junta el texto en dos idiomas: no se marcan para no equivocar la voz en la mitad del texto.
+4. Comprobar con VoiceOver que la lectura de los índices largos, de hasta 37 artículos, sigue siendo cómoda con el rotor de encabezados.
+5. Escuchar las etiquetas de número poco habituales que vienen de Crossref, como «núm. sp26» o «Publicación continua», y decidir si se entienden.
+6. Revisar en data/informe-no-resueltas.md las 9 revistas pendientes y la revista Cultura-Hombre-Sociedad, que se muestra con números de 2021 porque Crossref no tiene otros más recientes y su web no se pudo consultar.

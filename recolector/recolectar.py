@@ -20,6 +20,7 @@ import os
 import shutil
 import sys
 import tempfile
+import urllib.parse
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
@@ -39,10 +40,18 @@ def anio_reciente(numeros):
     return max((n.get("anio") or 0 for n in numeros), default=0)
 
 
-def resolver(revista, informe):
-    """Devuelve los números de una revista o None si no se ha podido resolver."""
+def dominio_de(url):
+    return urllib.parse.urlsplit(url).netloc.lower() if url else None
+
+
+def resolver(revista, informe, avisos):
+    """Devuelve los números de una revista o None si no se ha podido resolver.
+
+    Las revistas sin números van a informe (pendientes de revisión). Las que
+    se cargan con datos de Crossref posiblemente desfasados van a avisos.
+    """
     issns = [revista["issn_electronico"], revista["issn_impreso"]]
-    motivos, numeros = [], []
+    motivos, numeros, bloqueado = [], [], None
     try:
         numeros = crossref.ultimos_numeros(issns)
         if not numeros:
@@ -63,28 +72,52 @@ def resolver(revista, informe):
             elif anio_reciente(numeros_oai) > anio_reciente(numeros):
                 numeros = numeros_oai
                 revista["oai"] = punto
-        except (ErrorRed, ValueError) as error:
+        except ErrorRed as error:
+            if error.bloqueado:
+                bloqueado = error.dominio
+                motivos.append(f"No se ha podido probar OAI-PMH porque la red del entorno no permite el "
+                               f"dominio {error.dominio}. Mensaje: {error}")
+            else:
+                motivos.append(f"Error al consultar OAI-PMH: {error}")
+        except ValueError as error:
             motivos.append(f"Error al consultar OAI-PMH: {error}")
 
+    entrada = {"id": revista["id"], "titulo": revista["titulo"], "url": revista.get("url"),
+               "dominio": dominio_de(revista.get("url")), "dominio_bloqueado": bloqueado,
+               "issn": [i for i in issns if i], "motivos": motivos}
     if not numeros:
-        informe.append({"id": revista["id"], "titulo": revista["titulo"], "url": revista.get("url"),
-                        "issn": [i for i in issns if i], "motivos": motivos})
+        informe.append(entrada)
         return None
+    if anio_reciente(numeros) < limite:
+        avisos.append(entrada)
     return numeros
 
 
-def escribir_informe(carpeta, informe, fecha):
+def escribir_informe(carpeta, informe, avisos, fecha):
     escribir_datos(carpeta, "informe-no-resueltas.json", {
-        "version": VERSION_DATOS, "generado": fecha, "total": len(informe), "revistas": informe})
-    lineas = ["# Revistas no resueltas", "",
+        "version": VERSION_DATOS, "generado": fecha, "total": len(informe), "revistas": informe,
+        "total_avisos": len(avisos), "avisos": avisos})
+    lineas = ["# Revistas pendientes de revisión", "",
               f"Generado el {fecha}. Revistas que aparecen en DOAJ pero de las que no se han",
               "podido obtener números ni artículos. No se muestran en la aplicación.", ""]
+    bloqueados = sorted({i["dominio_bloqueado"] for i in informe + avisos if i["dominio_bloqueado"]})
+    if bloqueados:
+        lineas += ["Dominios que la red del entorno no permite y que habría que añadir para probar",
+                   "OAI-PMH: " + ", ".join(bloqueados) + ".", ""]
     if not informe:
         lineas.append("Todas las revistas se han resuelto correctamente.")
+        lineas.append("")
     for item in informe:
         lineas += [f"## {item['titulo']}", "", f"Identificador: {item['id']}. ISSN: {', '.join(item['issn'])}.",
-                   f"Web: {item['url'] or 'no indicada en DOAJ'}.", ""]
+                   f"Web: {item['url'] or 'no indicada en DOAJ'}. Dominio: {item['dominio'] or 'desconocido'}.", ""]
         lineas += [f"{n}. {m}" for n, m in enumerate(item["motivos"], 1)] + [""]
+    if avisos:
+        lineas += ["# Revistas cargadas con datos posiblemente desfasados", "",
+                   "Se muestran en la aplicación con sus últimos números en Crossref, pero esos",
+                   "números son antiguos y no se ha podido comprobar si hay otros más recientes.", ""]
+        for item in avisos:
+            lineas += [f"## {item['titulo']}", "", f"Identificador: {item['id']}. Dominio: {item['dominio'] or 'desconocido'}.", ""]
+            lineas += [f"{n}. {m}" for n, m in enumerate(item["motivos"], 1)] + [""]
     with open(os.path.join(carpeta, "informe-no-resueltas.md"), "w", encoding="utf-8") as archivo:
         archivo.write("\n".join(lineas))
 
@@ -98,10 +131,10 @@ def recolectar(limite, carpeta_final):
         raise SystemExit("DOAJ no ha devuelto ninguna revista. No se modifican los datos actuales.")
 
     temporal = tempfile.mkdtemp(prefix="recoleccion-")
-    resueltas, informe = [], []
+    resueltas, informe, avisos = [], [], []
     for posicion, revista in enumerate(revistas, 1):
         print(f"[{posicion}/{len(revistas)}] {revista['titulo']}", flush=True)
-        numeros = resolver(revista, informe)
+        numeros = resolver(revista, informe, avisos)
         if not numeros:
             continue
         archivo = f"revistas/{revista['id']}.json"
@@ -122,13 +155,14 @@ def recolectar(limite, carpeta_final):
         "version": VERSION_DATOS, "generado": fecha, "es_prueba": False,
         "fuentes": ["DOAJ", "Crossref", "OAI-PMH"], "idiomas_incluidos": ["es"],
         "total": len(resueltas), "revistas": resueltas})
-    escribir_informe(temporal, informe, fecha)
+    escribir_informe(temporal, informe, avisos, fecha)
 
     # Sustitución de los datos anteriores solo cuando todo ha ido bien.
     if os.path.isdir(carpeta_final):
         shutil.rmtree(carpeta_final)
     shutil.move(temporal, carpeta_final)
-    print(f"Listo: {len(resueltas)} revistas resueltas, {len(informe)} en el informe.")
+    print(f"Listo: {len(resueltas)} revistas resueltas, {len(informe)} pendientes de revisión, "
+          f"{len(avisos)} con datos posiblemente desfasados.")
 
 
 def main():

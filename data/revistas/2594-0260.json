@@ -1,0 +1,1369 @@
+{
+ "version": 1,
+ "generado": "2026-10-18T05:53:59+00:00",
+ "es_prueba": false,
+ "revista": {
+  "id": "2594-0260",
+  "titulo": "Frontera Norte",
+  "idioma_titulo": null,
+  "titulo_alternativo": null,
+  "idioma_titulo_alternativo": null,
+  "idiomas": [
+   "en",
+   "es"
+  ],
+  "issn_impreso": "0187-7372",
+  "issn_electronico": "2594-0260",
+  "editorial": "El Colegio de la Frontera Norte",
+  "pais": "MX",
+  "materias": [
+   "Urban groups. The city. Urban sociology",
+   "Social sciences (General)"
+  ],
+  "palabras_clave": [
+   "territorial studies",
+   "environmental studies",
+   "population studies",
+   "public administration studies",
+   "social sciences"
+  ],
+  "licencias": [
+   {
+    "nombre": "CC BY-NC-ND 4.0",
+    "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+   }
+  ],
+  "url": "http://ojs.colef.mx/index.php/fronteranorte",
+  "url_doaj": "https://doaj.org/toc/2594-0260",
+  "descripcion": null,
+  "fuente_ficha": "DOAJ",
+  "archivo": "revistas/2594-0260.json",
+  "ultimo_numero": "Vol. 38 (2026)",
+  "fuente_numeros": "Crossref"
+ },
+ "numeros": [
+  {
+   "id": "v38-2026",
+   "volumen": "38",
+   "numero": null,
+   "anio": 2026,
+   "fecha": "2026-10-15",
+   "etiqueta": "Vol. 38 (2026)",
+   "fuente": "Crossref",
+   "articulos": [
+    {
+     "id": "10.33679/rfn.v.e2422",
+     "titulo": "Análisis espacial bayesiano de la mortalidad infantily sus determinantes en municipios de México mediante INLA",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Gerardo Núñez Medina",
+       "orcid": null
+      },
+      {
+       "nombre": "Félix Acosta Díaz",
+       "orcid": null
+      }
+     ],
+     "resumen": "En este estudio se examina la relación espacial entre pobreza extrema, falta de acceso a servicios de salud y tasa de mortalidad infantil (TMI) en municipios mexicanos. Utilizando una modelización espacial bayesiana basada en un procesos espaciales estocásticos, adaptada al marco analítico de Mosley y Chen de determinantes próximos y contextuales, el análisis identifica efectos espaciales estadísticamente significativos. Los resultados indican un incremento de un punto porcentual en pobreza extrema asociado a un incremento de 0.42 puntos en la TMI, mientras que un incremento similar en la falta de acceso a servicios de salud corresponde a un incremento de 0.32 puntos. El estudio contribuye con una perspectiva multidisciplinaria espacial para el análisis de mortalidad infantil. Los resultados enfatizan el rol estructural de las disparidades en servicios de salud y socioeconómicas en la formación de patrones espaciales de mortalidad. El análisis solo ofrece información transversal de 2015, restringiendo la inferencia temporal.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+     },
+     "url": "https://doi.org/10.33679/rfn.v.e2422",
+     "doi": "10.33679/rfn.v.e2422",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.33679/rfn.v.e2448",
+     "titulo": "Desafíos del registro: niñas, niños y adolescentes migrantes en el Sistema Educativo Nacional mexicano",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Jesús Antonio Morales Quiñonez",
+       "orcid": "https://orcid.org/0000-0003-3234-1291"
+      }
+     ],
+     "resumen": "This article examines the integration of migrant children and adolescents into the National Educational System in Mexico, focusing on enrollment, documentation, and school retention processes. The methodology relies on the quantitative analysis of data from the Ministry of Public Education for the 2023 and 2024 academic years. Findings point to inconsistencies in the classification of student origin, a high share of unspecified records, and constraints within administrative systems. Data quality and completeness constitute central methodological limitations of the study. These issues constrain effective educational monitoring and undermine the right to education for migrant children and adolescents. The study contributes to the field by providing empirical evidence and bringing attention to structural challenges from an inclusive education perspective.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 4.0",
+      "url": "http://creativecommons.org/licenses/by-nc-nd/4.0"
+     },
+     "url": "https://doi.org/10.33679/rfn.v.e2448",
+     "doi": "10.33679/rfn.v.e2448",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.33679/rfn.v.e2465",
+     "titulo": "Desplazamiento forzado interno y retorno en el contextode la «guerra contra las drogas» en México",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Jairo Antonio López",
+       "orcid": "https://orcid.org/0000-0003-4877-6708"
+      }
+     ],
+     "resumen": "The study analyzes the relationship between internal forced displacement (IFD) and return processes in the context of the “war on drugs” in Mexico, focusing on the cases of two communities in Zacatecas (El Durazno and Juanchorrey) between 2020 and 2023. Through in-depth interviews, observation, and a review of press reports and official documents, a comparative analysis was conducted. The findings reveal that internal displacement is shaped by accumulated, instructive violence that extends beyond the initial flight, leaving marks that influence different forms of return for each community, depending on the economic dependence on the territory and its external support networks. The study has limited generalizability, as it is confined to a subregion of Zacatecas. It concludes that return is part of the continuum of violence associated with displacement and that state intervention, geared toward military control rather than reparations, creates an unstable equilibrium for these communities.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+     },
+     "url": "https://doi.org/10.33679/rfn.v.e2465",
+     "doi": "10.33679/rfn.v.e2465",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.33679/rfn.v.e2452",
+     "titulo": "Diferencias en el financiamiento del Banco de Desarrollode América del Norte en la región fronteriza",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Juan Oscar Ollivier Fierro",
+       "orcid": null
+      },
+      {
+       "nombre": "Rosa María Nava Rogel",
+       "orcid": null
+      },
+      {
+       "nombre": "Luis Javier Ortega Miranda",
+       "orcid": null
+      },
+      {
+       "nombre": "Daniel Rodríguez Salgado",
+       "orcid": null
+      }
+     ],
+     "resumen": "The study analyzes differences in the allocation of projects and financial resources granted by the North American Development Bank (NADBank) in the U.S.-Mexico border region. Using a quantitative approach, it statistically examines all projects financed by the bank between 1995 and 2024. The results show that, in general terms, there is a balance in the distribution of projects and resources between both countries; however, statistically significant differences are identified based on the sector of intervention and the specific state or entity receiving the funds. The study’s main limitation lies in the availability and accuracy of the information published by the bank itself. The research provides empirical evidence regarding the territorial and sectoral distribution of NADBank financing and contributes to a better understanding of its institutional performance. Taken together, the findings indicate a relatively balanced allocation of resources across the border region.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+     },
+     "url": "https://doi.org/10.33679/rfn.v.e2452",
+     "doi": "10.33679/rfn.v.e2452",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.33679/rfn.v.e2450",
+     "titulo": "Efectos del TLCAN/T-MEC en la gobernanza regional de la migración calificada<b></b>",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Camelia Tigau",
+       "orcid": "https://orcid.org/0000-0003-4537-2855"
+      },
+      {
+       "nombre": "Telésforo Ramírez García",
+       "orcid": null
+      }
+     ],
+     "resumen": "The article contributes to the study of skilled migration in North America, from the perspective of migration governance, analyzing the role of regional agreements in human capital mobility. The findings indicate that the current governance regime reproduces existing regional economic asymmetries by encouraging the outflow of skilled workers from Mexico without establishing an effective framework for the free movement of professionals. A key limitation of the study is that the empirical analysis relies primarily on U.S. visa data due to the lack of comparable statistics across the three countries. The study concludes that a more balanced regional governance framework is needed to promote a more equitable and efficient circulation of talent.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+     },
+     "url": "https://doi.org/10.33679/rfn.v.e2450",
+     "doi": "10.33679/rfn.v.e2450",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.33679/rfn.v.e2430",
+     "titulo": "Fiesta en La Misión: representar la nación y la comunidad en Baja California",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Alexandra Hernández Borja",
+       "orcid": null
+      },
+      {
+       "nombre": "Ana Lilia Nieto Camacho",
+       "orcid": null
+      }
+     ],
+     "resumen": "The article analyzes the origins and consolidation of the Fiesta en La Misión, Baja California, founded in 1979, as a process that articulates cultural memory and identity on the northern border of Mexico. The objective is to examine how this celebration operates as an «invented tradition» that integrates local history into a broader national narrative. The methodology combines the theoretical framework of Eric Hobsbawm and Jan Assmann with ethnographic fieldwork conducted between 2020 and 2024, including interviews, participant observation, and audiovisual documentation. The findings show that specialists and community actors selected and reorganized historical milestones into a chronology aligned with post-revolutionary historiography, strengthening senses of territorial and national belonging. As a limitation, the study focuses on a specific community and predominant cultural actors. The article concludes that the festival constitutes a dynamic device for the institutionalization of memory, where state cultural policies and community agency converge.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 4.0",
+      "url": "http://creativecommons.org/licenses/by-nc-nd/4.0"
+     },
+     "url": "https://doi.org/10.33679/rfn.v.e2430",
+     "doi": "10.33679/rfn.v.e2430",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.33679/rfn.v.e2412",
+     "titulo": "Flujos migratorios de Asia y África en la frontera México-Estados Unidos: análisis de la dinámica reciente (2021-2024)",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Carlos Barrachina Lisón",
+       "orcid": "https://orcid.org/0000-0001-7802-297X"
+      },
+      {
+       "nombre": "Jimmy Emmanuel Ramos Valencia",
+       "orcid": "https://orcid.org/0000-0002-8809-6822"
+      },
+      {
+       "nombre": "José María Ramos García",
+       "orcid": null
+      }
+     ],
+     "resumen": "This article contextualizes the rise of migratory flows from Asia and Africa to the Tijuana-San Diego border between 2021 and 2024. The study uses a mixed design with a quantitative core: it systematizes and compares administrative records from Mexico’s INM/UPMRIP and U.S. Customs and Border Protection (USCBP), and it interprets them through specialized scholarship and policy documents. Findings show a rapid shift in flow composition: Mexico reported Asian apprehensions rising from 1 786 in 2021 to 45 877 in 2023 and African apprehensions from 2 066 to 59 498; in the United States, extra-regional detentions increased alongside the expansion of the “Other” category. The evidence points to new routes and growing pressure on reception and control capacities. The article concludes that border governance requires effective binational coordination and finer statistical disaggregation. A key limitation lies in official statistics, which may undercount irregular migration and embed classification biases.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 4.0",
+      "url": "http://creativecommons.org/licenses/by-nc-nd/4.0"
+     },
+     "url": "https://doi.org/10.33679/rfn.v.e2412",
+     "doi": "10.33679/rfn.v.e2412",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.33679/rfn.v.e2456",
+     "titulo": "Impacto del COVID-19 en la salud mental: una comparación entre mexicanos en México y en Estados Unidos",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Maritza Caicedo",
+       "orcid": "https://orcid.org/0000-0003-1430-9896"
+      },
+      {
+       "nombre": "Edwin Van Gameren",
+       "orcid": "https://orcid.org/0000-0002-5403-5351"
+      },
+      {
+       "nombre": "Aurelia Murga",
+       "orcid": null
+      }
+     ],
+     "resumen": "Este trabajo examina las maneras en que la pandemia de COVID-19 afectó la salud mental de los mexicanos en Estados Unidos y en México, teniendo en cuenta las diferencias en las políticas de vacunación y apoyo gubernamental. Utilizando un cuestionario en línea distribuido entre mexicanos en México y en EE. UU., se aplica un enfoque de emparejamiento por puntaje de propensión para crear una muestra de participantes con características de antecedentes comparables. Los inmigrantes informaron menos trastornos psicológicos que los encuestados en México. Las preocupaciones por la falta de dinero son menos comunes entre mexicanos en EE. UU. Los resultados sugieren que, si México hubiera brindado un apoyo financiero similar al de ese país, se habrían reportado menos preocupaciones financieras. Pero eso no habría reducido el malestar psicológico. Se encontró poca evidencia de que los mexicanos en EE. UU. se hayan visto más afectados por la pandemia.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+     },
+     "url": "https://doi.org/10.33679/rfn.v.e2456",
+     "doi": "10.33679/rfn.v.e2456",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.33679/rfn.v.e2469",
+     "titulo": "Infraestructura de hidrocarburos y crecimiento económico en México: un análisis espacial, 1982-2021<b></b>",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "David Álvarez Rivera",
+       "orcid": null
+      },
+      {
+       "nombre": "Leobardo De Jesús Almonte",
+       "orcid": "https://orcid.org/0000-0002-2782-5358"
+      }
+     ],
+     "resumen": "The objective of this article is to analyze the impact of hydrocarbon infrastructure on the economic growth of the federal entities of Mexico between 1982 and 2021. To this end, a spatial panel model with fixed effects was estimated, incorporating variables related to production and refining, storage, pipeline transport, and service stations. The results show that production and refining capacity is positively associated with economic growth and generates spatial spillover effects across entities. However, the relatively low magnitude of the coefficients suggests that the existing infrastructure is insufficient to generate significant impacts. The main limitation was data availability by variable and federal entity. The study concludes that increased investment, coupled with efficient resource usage and technological development, could drive national and regional growth.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+     },
+     "url": "https://doi.org/10.33679/rfn.v.e2469",
+     "doi": "10.33679/rfn.v.e2469",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.33679/rfn.v.e2460",
+     "titulo": "Mercado civil de armas de fuego en México, 2021-2023",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Edna María Villarreal Peralta",
+       "orcid": "https://orcid.org/0000-0003-3676-3563"
+      },
+      {
+       "nombre": "Ana Grecia Aguirre Álvarez",
+       "orcid": null
+      },
+      {
+       "nombre": "Zulia Yanzadig Orozco Reynoso",
+       "orcid": null
+      }
+     ],
+     "resumen": "The objective is to analyze the civilian firearms market in Mexico during the 2021-2023 period. To this end, the import dynamics, regulatory differences with the United States regulations, and the role of the Ministry of National Defense in the oversight of this market are examined. A mixed methodology is employed, combining a qualitative analysis of Mexican and U.S. legislation with quantitative data on import trends. The results show an increase in the importation of pistols and shotguns for defense and recreation in Mexico with an economic impact derived from the increase in permits and tariffs. Although administrative processes have been strengthened, there are still structural limitations stemming from regulatory asymmetries. The conclusions propose stricter control in the registration and commercialization of weapons as well as the strengthening of cooperation with the United States as key strategies for security in Mexico.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 4.0",
+      "url": "http://creativecommons.org/licenses/by-nc-nd/4.0"
+     },
+     "url": "https://doi.org/10.33679/rfn.v.e2460",
+     "doi": "10.33679/rfn.v.e2460",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.33679/rfn.v.e2410",
+     "titulo": "Migraciones africanas contemporáneas a México, vistas desde su frontera norte",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Olga Odgers-Ortiz",
+       "orcid": "https://orcid.org/0000-0002-9656-8877"
+      },
+      {
+       "nombre": "Juan Manuel Tapia",
+       "orcid": "https://orcid.org/0000-0003-0754-2905"
+      },
+      {
+       "nombre": "Sarah Estrada Vázquez",
+       "orcid": "https://orcid.org/0009-0002-5522-4709"
+      }
+     ],
+     "resumen": "This article aims to shed light on the migratory phenomenon of people of African origin arriving in Mexico, en route to the United States or Canada. For this, government statistical data was analyzed, along with information obtained through in-depth interviews with people of African origin in Tijuana, Baja California. The study identified a predominantly male migration pattern and a significant dispersion in places of origin, with West Africa being the most common. Political persecution and violence emerged as the principal causes of migration, as well as extensive migratory routes that include entry into the Americas primarily through Ecuador and Brazil. The increasing travel times suggest what has been termed migratory «entrapment», which in many cases leads to changes of the initial migration plans, including family reunification in Mexico as one of the strategies employed by the migrant population to cope with the consequences of this entrapment.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+     },
+     "url": "https://doi.org/10.33679/rfn.v.e2410",
+     "doi": "10.33679/rfn.v.e2410",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.33679/rfn.v.e2431",
+     "titulo": "Municipios y condados de la frontera México-Estados Unidos: cambios en la población, 2000-2020",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Elmyra Ybañez Zepeda",
+       "orcid": null
+      }
+     ],
+     "resumen": "This article analyzes contrasting population dynamics across five county/municipality pairs along the Mexico-U.S. border between 2000 and 2020. The objective is to compare changes in population size and structure by major age groups, as well as the evolution of Mexican-origin population in U.S. border counties. The methodology relies on a comparative analysis of the 2000, 2010, and 2020 population censuses of both countries, employing an operational definition of the border region centered on highly urbanized county/municipality pairs. The findings indicate a deceleration in population growth during the second decade, more advanced aging patterns on the U.S. side, and a sustained increase in the Mexican origin population. A limitation of the study is its focus on five predominantly urban pairs, which does not fully capture rural border heterogeneity. It concludes that these demographic transformations carry significant binational economic and political implications, reaffirming the strategic relevance of border demographic analysis.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 4.0",
+      "url": "http://creativecommons.org/licenses/by-nc-nd/4.0"
+     },
+     "url": "https://doi.org/10.33679/rfn.v.e2431",
+     "doi": "10.33679/rfn.v.e2431",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.33679/rfn.v.e2462",
+     "titulo": "Navegando la incertidumbre: estrategias contra la dominación criminal en el Tapón del Darién, Colombia",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Alberto Hernández Hernández",
+       "orcid": "https://orcid.org/0000-0001-7176-0902"
+      },
+      {
+       "nombre": "Carlos Samuel Ibarra Ramírez",
+       "orcid": "https://orcid.org/0000-0002-9099-9238"
+      },
+      {
+       "nombre": "María del Pilar Ospina Grajales",
+       "orcid": "https://orcid.org/0000-0002-1529-0085"
+      }
+     ],
+     "resumen": "El objetivo de este artículo es analizar los procesos mediante los cuales el crimen organizado ejerce gobernanza en el Tapón del Darién al controlar rutas migratorias ante la débil presencia estatal. Con trabajo de campo (2021-2023) y un diseño etnográfico transversal, se documentaron las operaciones del Clan del Golfo que facilitan la trata de personas. Los hallazgos evidencian la resiliencia de los migrantes pero resaltan vulnerabilidades agravadas por políticas fronterizas securitizadas. Este estudio contribuye a mostrar la gobernanza criminal como estructura paralela de poder, sugiriendo la urgencia de reformas multisectoriales. Se concluye que las estrategias vigentes no mitigan efectivamente la explotación y violencia, enfatizando la necesidad de una gobernanza inclusiva y basada en derechos. El acceso restringido a zonas bajo control criminal limitó la amplitud de los datos; sin embargo, se plantean implicaciones en torno a la colaboración transfronteriza para abordar causas estructurales de la migración forzada.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+     },
+     "url": "https://doi.org/10.33679/rfn.v.e2462",
+     "doi": "10.33679/rfn.v.e2462",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.33679/rfn.v.e2432",
+     "titulo": "Neither Land nor Water: Green Area Management in Hermosillo, Mexico",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Luis Alan Navarro Navarro",
+       "orcid": "https://orcid.org/0000-0002-5819-9628"
+      },
+      {
+       "nombre": "Juan Carlos López Torrero",
+       "orcid": null
+      }
+     ],
+     "resumen": "The objective of this study is to analyze the procedures for creating urban parks in Hermosillo, Sonora, as well as water management regulations, incentives, and challenges related to their maintenance. The research applies the Institutional Analysis and Development framework developed by Elinor Ostrom and employs qualitative methods such as semi-structured interviews and document analysis. Findings reveal an opaque and discretionary administrative process, impacting equity in access and sustainability. The privatization of maintenance is confirmed due to limited public resources. This study provides evidence of the institutional complexity in neighborhood park management and highlights the need for clearer regulations. It concludes that strengthening urban planning and governance is essential to ensuring accessibility and sustainability of these spaces. The main limitations of the study lie in the subjectivity of sampling and the theoretical saturation.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 4.0",
+      "url": "http://creativecommons.org/licenses/by-nc-nd/4.0"
+     },
+     "url": "https://doi.org/10.33679/rfn.v.e2432",
+     "doi": "10.33679/rfn.v.e2432",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.33679/rfn.v.e2433",
+     "titulo": "No soy india, soy tarahumara: imágenes y narrativas de personas rarámuri en Ciudad Juárez<b></b>",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Selene Diaz",
+       "orcid": "https://orcid.org/0000-0002-4493-0213"
+      }
+     ],
+     "resumen": "El Estado mexicano ha impuesto a los rarámuri una imagen de aislamiento de la civilización y la modernidad que esta comunidad de la Sierra Tarahumara no reconoce como parte de su identidad étnica. El objetivo es analizar los procesos mediante los cuales los rarámuri que transitan por Ciudad Juárez reconstruyen su identidad étnica en contextos de apropiación del espacio urbano. Se utiliza la etnografía feminista para analizar las relaciones interétnicas entre las poblaciones rarámuri y chabochi (no indígenas) en Ciudad Juárez, y se analizan las narrativas basadas en imágenes de la ciudad capturadas por las personas participantes. Los hallazgos muestran que en el centro de Ciudad Juárez las experiencias de discriminación aumentan. Sin embargo, para los habitantes rarámuri de Colonia Tarahumara o Kilómetro 30, los fuertes lazos de solidaridad y orgullo colaborativo de la comunidad de artesanos les ayuda a mitigar la segunda etnización y a reconstruir su identidad étnica.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 4.0",
+      "url": "http://creativecommons.org/licenses/by-nc-nd/4.0"
+     },
+     "url": "https://doi.org/10.33679/rfn.v.e2433",
+     "doi": "10.33679/rfn.v.e2433",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.33679/rfn.v.e2413",
+     "titulo": "Políticas públicas y tecnologías pilares en vehículos eléctricos: lecciones internacionales para México",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Adriana Martínez Martínez",
+       "orcid": "https://orcid.org/0000-0003-0639-4007"
+      },
+      {
+       "nombre": "Paula C. Isiordia-Lachica",
+       "orcid": "https://orcid.org/0000-0001-6403-3264"
+      }
+     ],
+     "resumen": "The article examines the relationship between public policies aimed at promoting the adoption of electric vehicles and the evolution of their key technologies, particularly batteries and charging infrastructure, to identify relevant lessons for Mexico. Methodologically, a narrative review of scientific and grey literature published between 2008 and 2024 was conducted, allowing for a comparative analysis of international experiences. The results show that the expansion of electric vehicles has depended not only on technological progress but also on its integration with fiscal and financial incentives, infrastructure investment, regulation, research capabilities, and public-private partnerships. Among the study’s limitations is the fact that the qualitative approach does not allow for estimating causal effects or measuring the relative weight of each policy instrument. The study concludes that the contextualized adaptation of international strategies can strengthen the adoption of electric vehicles in Mexico and contribute to the design of more coordinated public policies.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 4.0",
+      "url": "http://creativecommons.org/licenses/by-nc-nd/4.0"
+     },
+     "url": "https://doi.org/10.33679/rfn.v.e2413",
+     "doi": "10.33679/rfn.v.e2413",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.33679/rfn.v.e2454",
+     "titulo": "Sufrimiento climático, salud y género en población jornalera agrícola migrante en Sonora, México",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "José Eduardo Calvario Parra",
+       "orcid": "https://orcid.org/0000-0003-3735-4593"
+      },
+      {
+       "nombre": "Cecilia Muñoz Soto",
+       "orcid": null
+      }
+     ],
+     "resumen": "The article analyzes the lived experience of extreme weather suffering among migrant farmworkers in Sonora, within a context of gender inequalities and other structural vulnerabilities. Thirty-one semi-structured interviews and non-participant observation guides were conducted in two agricultural communities in Sonora, documenting material deprivation, precarious employment, and gendered experiences that place these farmworkers in a situation of exclusion and climate suffering. The analysis constitutes an empirical contribution that enables an understanding of this group’s subjectivity and experiences, and their relationship to their objective living conditions, health, and gender. Given the limited sample size, there is a risk of restricting the representativeness of the results and the possibility of establishing causal relationships. However, the results described allow us to understand the different practices and forms of self-care/self-attention employed by farmworkers in the face of extreme cold and heat.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+     },
+     "url": "https://doi.org/10.33679/rfn.v.e2454",
+     "doi": "10.33679/rfn.v.e2454",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.33679/rfn.v.e2461",
+     "titulo": "Territorio y cohesión social: derecho fundamental a la igualdad y a la no discriminación",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Sárah Eva Martínez Pellegrini",
+       "orcid": "https://orcid.org/0000-0002-3334-4972"
+      },
+      {
+       "nombre": "Enrique Francisco Pasillas Pineda",
+       "orcid": "https://orcid.org/0000-0002-7183-4665"
+      }
+     ],
+     "resumen": "This article proposes a methodological framework for analyzing territorial processes of inclusion and exclusion through a multidisciplinary approach that integrates the rights-based perspective, social and territorial cohesion, public policy, and institutional analysis. The methodology is part of a broader research project conducted in the municipality of San Quintín, Baja California, and is grounded in a conceptual synthesis of territorial studies, institutional theory, and the fundamental right to equality and non-discrimination. As its main methodological contribution, the article introduces the “cycle of discrimination” as an analytical framework for identifying the mechanisms through which exclusion is reproduced or reversed in specific territorial contexts. It argues that an integrated analysis of institutions, social practices, and public policies provides a robust basis for designing inclusion strategies aimed at addressing the structural causes of discrimination and strengthening territorial cohesion as a long-term development objective.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+     },
+     "url": "https://doi.org/10.33679/rfn.v.e2461",
+     "doi": "10.33679/rfn.v.e2461",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.33679/rfn.v.e2416",
+     "titulo": "Trabajo e identidad de músicos concertistas en el noreste de México<b></b>",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Mónica Garza Barrera González",
+       "orcid": "https://orcid.org/0000-0002-7420-2217"
+      },
+      {
+       "nombre": "Eleocadio Martínez Silva",
+       "orcid": "https://orcid.org/0000-0002-8495-9475"
+      }
+     ],
+     "resumen": "This article aims to analyze the career paths of concert musicians within the sociocultural context of Monterrey, Nuevo León. It seeks to highlight the efforts they make to maintain a professional identity in challenging regional environments characterized by a precarious labor market and an adverse sociocultural context. Based on a series of interviews with music professionals from diverse backgrounds and career paths in Monterrey, the qualitative research reveals how these musicians preserve their professional identity through personal commitment, specific skills, and the pursuit of employment opportunities both within and outside their primary field of work in a transitional labor and sociocultural context. This analysis broadens the social understanding of a sector of professionals immersed in processes of change, and how these impact their life trajectories.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+     },
+     "url": "https://doi.org/10.33679/rfn.v.e2416",
+     "doi": "10.33679/rfn.v.e2416",
+     "paginas": null,
+     "fuente": "Crossref"
+    }
+   ]
+  },
+  {
+   "id": "2026",
+   "volumen": null,
+   "numero": null,
+   "anio": 2026,
+   "fecha": "2026-10-08",
+   "etiqueta": "Publicación continua (2026)",
+   "fuente": "Crossref",
+   "articulos": [
+    {
+     "id": "10.33679/rfn.v.e2486",
+     "titulo": "A través de los ojos que han llorado: el artivismo como investigación en el proyecto mural fronterizo Stella Flumen",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Cecilia Sarabia Ríos",
+       "orcid": null
+      },
+      {
+       "nombre": "Ana Infante",
+       "orcid": null
+      },
+      {
+       "nombre": "David Flores",
+       "orcid": null
+      },
+      {
+       "nombre": "Alicia Villalva",
+       "orcid": null
+      },
+      {
+       "nombre": "Laura Smith",
+       "orcid": null
+      },
+      {
+       "nombre": "Kelvin Ramirez",
+       "orcid": null
+      },
+      {
+       "nombre": "Joe Mageary",
+       "orcid": null
+      },
+      {
+       "nombre": "Kaitlin Maud",
+       "orcid": null
+      }
+     ],
+     "resumen": "Este articulo presenta un estudio exploratorio de investigación basada en el arte (IBA) documenta el trabajo de un equipo interdisciplinario de artistas, arte terapeutas, académicos, investigadores y organizadores comunitarios involucrados en un proyecto de mural comunitario artivista llamado Stella Flumen, realizado en septiembre de 2022 en la frontera de Río Bravo Juárez-El Paso, entre los Estados Unidos de América y los Estados Unidos Mexicanos. En línea con las metodologías de IBA, el mural funcionó como un sitio de construcción de significado y como una herramienta de investigación, siendo el proceso de co-creación generador de datos cualitativos multidimensionales a través de entrevistas que consistieron en experiencias simultáneamente encarnadas, estéticas y relacionales (Gutiérrez-Vicario, 2016). Se realizaron entrevistas semiestructuradas a cinco líderes del proyecto y los datos cualitativos generados se analizaron retrospectivamente, incluyendo materiales creativos y documentación audiovisual. El análisis temático reflexivo reveló una tensión central de consonancia y disonancia experimentada por los colaboradores, situándolos en una posición única de empatía con los migrantes a quienes el mural pretendía honrar. En un reflejo de la realidad binacional y bilingüe de la frontera misma, este artículo se publica lado a lado en inglés y en español, lo cual refleja los mismos temas de dinámicas de poder, hegemonía lingüística y solidaridad transcultural que emergieron del análisis, junto con otros como los sistemas opresivos y la empatía encarnada. Los hallazgos destacan uno de los potenciales terapéuticos y epistemológicos del trabajo artivista, tanto para los creadores como para las comunidades.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+     },
+     "url": "https://doi.org/10.33679/rfn.v.e2486",
+     "doi": "10.33679/rfn.v.e2486",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.33679/rfn.v.e2508",
+     "titulo": "Atracción e integración económica de migración calificada: el papel estructural de la competitividad del talento en la OCDE",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Yunier Sarmiento Ramírez",
+       "orcid": null
+      },
+      {
+       "nombre": "Yadira Pérez Cutino",
+       "orcid": null
+      },
+      {
+       "nombre": "Marcos Alves Barcelos",
+       "orcid": null
+      }
+     ],
+     "resumen": "The objective of this article is to analyze whether talent competitiveness, measured through the Global Talent Competitiveness Index (GTCI), can be interpreted as a structural proxy for the attraction and economic integration of skilled migration in OECD countries. The study adopts a quantitative approach, combining descriptive analysis and Classification and Regression Trees (CRT) modeling, using average annual wages and the employment rate of the working-age migrant population as central variables. The results indicate that countries with higher levels of talent competitiveness tend to present better wage conditions and higher levels of migrant employment. The originality of the study lies in linking the GTCI to observable economic indicators of migrant integration from a comparative perspective. The article concludes that the GTCI reflects structural conditions for attracting and integrating migrant labor. As a limitation, the analysis focuses on OECD countries and requires future qualitative approaches.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+     },
+     "url": "https://doi.org/10.33679/rfn.v.e2508",
+     "doi": "10.33679/rfn.v.e2508",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.33679/rfn.v.e2453",
+     "titulo": "El linaje de los herederos. Narrativas estudiantiles y movilidad social en jóvenes profesionales de Baja California, México",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Víctor Daniel Guerra Zabala",
+       "orcid": null
+      },
+      {
+       "nombre": "Marcos Sergio Reyes Santos",
+       "orcid": null
+      }
+     ],
+     "resumen": "This article analyzes student narratives and social mobility among young higher education graduates from Baja California over the course of their educational trajectories in the Northern Pacific region of Mexico. The study is grounded in social reproduction theory and the life course perspective. Deductive and emergent categorical systems were established to examine the agents’ probabilities of transition across educational stages. A qualitative sociolinguistic methodological design, termed narrative inquiry, was employed to facilitate the retrospective construction of meaning. Semi-structured testimonial interviews were conducted with a group of eleven young people. The oral accounts were transcribed, coded, and analyzed using MAXQDA version 24. The findings reveal the presence of social mobility strategies mediated by subjective hope and the families’ capacity for agency. Within the educational field, one such strategy is observed in the accumulation of linguistic capital. The study concludes that although both intra- and intergenerational upward mobility occur as a result of higher education, persistent inequalities remain, accumulating throughout the life course and linked to social origin and linguistic closure–phenomena that are distinctive to the border space between Mexico and the United States.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+     },
+     "url": "https://doi.org/10.33679/rfn.v.e2453",
+     "doi": "10.33679/rfn.v.e2453",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.33679/rfn.v.e2483",
+     "titulo": "Galantería Falsa: sexismo encubierto, humor y resistenciaen la frontera norte mexicana",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Claudia Holguín Mendoza",
+       "orcid": null
+      },
+      {
+       "nombre": "Liseth Espíndola Ramírez",
+       "orcid": null
+      },
+      {
+       "nombre": "María Teresa Jiménez",
+       "orcid": null
+      }
+     ],
+     "resumen": "This study examines the sociopragmatic and discursive functions of 67 copies of the newspaper P.M. from Ciudad Juarez, Chihuahua, on the U.S.-Mexico border. Through qualitative analysis, this study reveals the rhetorical and discursive strategies of diminutive and augmentative suffixes as part of humorous sociopragmatic styles in Mexican border Caló. Our results show that while these linguistic practices reflect a working-class solidarity within a context of systemic violence, they also reinforce heteronormative and patriarchal perspectives. These strategies are framed under the concept we propose here as galantería falsa (mock gallantry), which refers to covert forms of sexism articulated through humor pretending endearment. This study, although limited to a corpus of this type of stereotypical heteronormative suffixes, highlights how language and discourse in sensationalist media play a major role in reproducing harmful gender stereotypes and norms in society.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+     },
+     "url": "https://doi.org/10.33679/rfn.v.e2483",
+     "doi": "10.33679/rfn.v.e2483",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.33679/rfn.v.e2481",
+     "titulo": "Impacto del nearshoring y el tipo de cambio en las exportaciones mexicanas: un análisis insumo-producto para los estados de la frontera norte",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Edgar David Gaytán Alfaro",
+       "orcid": null
+      },
+      {
+       "nombre": "Noé Arón Fuentes Flores",
+       "orcid": null
+      }
+     ],
+     "resumen": "This research analyzes the exchange rate performance into the so-called superpeso stage and establishes a correlation between this phenomenon, export dynamics and regional growth in Mexico, in particular over the north border states. The exports analysis is complemented by the expansion possibilities in them as a consequence of relocation of investments phenomenon. The study seeks to delimit its level of impact to the entities on the northern border of Mexico (due to their export profile) as well as to the nineteen manufacturing activity subsectors included in Inegi (2020) export vectors. The results, obtained using the fields of influence technique, show an industrial structure that is not very diverse, but with significant possibilities for regional economic growth. It concludes with the opportunity to propose a modern industrial policy that encourages the diversification and regional productive structures strengthening.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+     },
+     "url": "https://doi.org/10.33679/rfn.v.e2481",
+     "doi": "10.33679/rfn.v.e2481",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.33679/rfn.v.e2491",
+     "titulo": "La salud financiera en la frontera norte: un análisis comparativo entre Baja California y California",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Luis Fernando Zamudio Robles",
+       "orcid": "https://orcid.org/0000-0002-0599-541X"
+      },
+      {
+       "nombre": "Héctor Francisco Salazar Núñez",
+       "orcid": null
+      },
+      {
+       "nombre": "Bryan Alonso Ramos Mendias",
+       "orcid": "https://orcid.org/0000-0003-4691-0790"
+      }
+     ],
+     "resumen": "This study compares the factors influencing financial health in Baja California (Mexico) and California (United States), using data from the 2023 ENSAFI and FHP surveys. A Probit model was estimated through maximum likelihood using the Newton-Raphson method, incorporating variables such as financial inclusion, financial stress, and sociodemographic characteristics. The findings reveal that financial inclusion has a positive and significant effect on financial health in both regions, while high financial stress negatively affects it. In California, housing ownership and marital status are also relevant factors, whereas in Baja California, being single, employed, and financially included are key determinants. This research contributes to the emerging literature on financial health in Mexico and provides empirical evidence to inform public policy in cross-border contexts. One limitation is the restricted availability of variables on specific financial behaviors. The findings suggest that improving financial inclusion and reducing financial stress are key strategies to enhance financial health on both sides of the border.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+     },
+     "url": "https://doi.org/10.33679/rfn.v.e2491",
+     "doi": "10.33679/rfn.v.e2491",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.33679/rfn.v.e2463",
+     "titulo": "La tecnología en la resiliencia de los refugiados centroamericanos durante su desplazamiento por México",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Sandra Patricia Quijas Cristerna",
+       "orcid": null
+      },
+      {
+       "nombre": "Rodolfo Cruz Piñeiro",
+       "orcid": null
+      }
+     ],
+     "resumen": "The objective of this article is to show how Central American refugees build migratory resilience during their transit in an adverse context fostered by the Mexican government´s migratory control. Based on the qualitative digital ethnographic method, how refugees create resistance strategies by drawing on information and communication technologies (ICT) to access reliable information and human rights is analyzed. The research contributes to knowledge by conceptualizing technology as a protection mechanism for refugees. In this regard, the concept of technoprotection is proposed as a theoretical reference for future research exploring resilience during forced displacement. Considering the limitations of access to ICT during the journey, it is concluded that their use contributes to the restoration of human dignity by facilitating information channels and digital social interactions.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+     },
+     "url": "https://doi.org/10.33679/rfn.v.e2463",
+     "doi": "10.33679/rfn.v.e2463",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.33679/rfn.v.e2506",
+     "titulo": "Los vehículos blindados delincuenciales en México (2010-2025): Conceptualización y contexto",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Jesús Pérez Caballero",
+       "orcid": "https://orcid.org/0000-0002-1988-274X"
+      }
+     ],
+     "resumen": "This article aims to doctrinally compare the phenomenon of criminal armored vehicles in Mexico (CAVs) with those observed internationally, discuss theoretical approaches in this country, and propose a classificatory and interpretive paradigm. Using an analytical-doctrinal method of reviewing military, sociohistorical, and criminological literature, combined with a mixed methodology (content analysis of newspaper sources and context analysis), a hypothesis of spatiotemporal distribution in Mexico (2010-2025) is proposed. The results identify dynamic contexts of origin and expansion, their distinct functions, and the value they contribute to criminal organizations. The study’s limitations include terminological polysemy of the available sources and the lack of data. In conclusion, the central theoretical contribution of conceptualizing criminal armored vehicles as a combination of technological innovation, organizational innovation, and a mechanism for territorial control is highlighted, and a future research agenda is proposed.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+     },
+     "url": "https://doi.org/10.33679/rfn.v.e2506",
+     "doi": "10.33679/rfn.v.e2506",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.33679/rfn.v.e2482",
+     "titulo": "Mercados de historias y experiencias durante contingencias migratorias en la frontera de Tijuana",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Christian Pacheco Gómez",
+       "orcid": null
+      }
+     ],
+     "resumen": "The purpose of this article is to analyze what type of exchange relations representatives of non-governmental organizations (NGOs) and correspondents, fixers, and freelancers establish at the moment of reporting on migratory contingencies occurred in Tijuana’s border. The article employs a qualitative methodology approach comprising an ethnographic fieldwork research, participant observation in spaces of assistance, and semi-structured interviews conducted with NGO representatives, the employees by contract of news corporations and assisted migrants. This exploratory analysis’s main findings illustrate the process that shapes the markets of migratory stories and experiences that supply the international news demand. It is concluded that such markets are sustained through two exchange acts. The first is mediated by the reciprocity relations established between the assistance sector and the media workforce. The second is associated with the exchange value that the exported information reaches in the international news markets when it is sold.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+     },
+     "url": "https://doi.org/10.33679/rfn.v.e2482",
+     "doi": "10.33679/rfn.v.e2482",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.33679/rfn.v.e2498",
+     "titulo": "Producción de coherencia y privilegio en la expansión socioespacial del Tecnológico de Monterrey",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Aarón Benjamín López Feldman",
+       "orcid": "https://orcid.org/0000-0002-0395-7815"
+      }
+     ],
+     "resumen": "This article examines the case of DistritoTec (2015–2025), a business-led governance project promoted by Tecnológico de Monterrey, aimed at the “regeneration” of 24 neighborhoods adjacent to its main campus in the southern part of the city. The objective is to analyze the socio-spatial expansion of Tecnológico de Monterrey through the discursive strategies of the DistritoTec project, in order to identify the mechanisms of coherence production that legitimize its intervention in urban space. The methodology combines ethnographic records and fieldwork with the analysis of documentary, hemerographic, and sociodigital sources. The results show that DistritoTec operates through discursive strategies oriented toward the construction of an urban problem with a business-driven solution, the overrepresentation of neighborhood participation under the notion of “horizontal governance,” and the blurring of boundaries between the public and the private, articulated around urban infrastructure. It is concluded that this type of project enables business elites to produce space as a strategy of economic, social, and symbolic reproduction in contemporary urban contexts.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+     },
+     "url": "https://doi.org/10.33679/rfn.v.e2498",
+     "doi": "10.33679/rfn.v.e2498",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.33679/rfn.v.e2502",
+     "titulo": "Textos gastronómicos festivos y continuidad cultural en contextos de frontera: una aproximación etnográfica en Chihuahua, México",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Claudia Teresa Domínguez Chavira",
+       "orcid": null
+      },
+      {
+       "nombre": "Fernando Sandoval Gutiérrez",
+       "orcid": null
+      }
+     ],
+     "resumen": "This article proposes the concept of festive gastronomic text as an analytical category to explain the production of cultural continuity in border contexts. Using a qualitative ethnographic approach, fieldwork was conducted between 2023 and 2025 in Mestizo and Rarámuri communities in Chihuahua, Mexico, through observation, open-ended interviews, and narrative records. The analysis focuses on tesgüino, capirotada, harinillas, and chacales as configurations in which practices, social relations, and situated material conditions are articulated. The findings show that cultural continuity depends on the possibility of sustaining practices under structurally unequal conditions, shaped by power relations linked to gender, access to resources, and cultural hierarchies in border settings. The concept of festive gastronomic text explains this situated production by integrating technical, relational, and material dimensions within a single analytical unit. It is concluded that festive cuisine constitutes a social mediation whose reproduction is unstable, differentiated, and conditioned.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+     },
+     "url": "https://doi.org/10.33679/rfn.v.e2502",
+     "doi": "10.33679/rfn.v.e2502",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.33679/rfn.v.e2484",
+     "titulo": "Tiempo, familia y trabajo: la urdimbre de la vulnerabilidadde las mujeres en contextos rurales de México",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Cecilia Salgado Viveros",
+       "orcid": null
+      }
+     ],
+     "resumen": "The objective of this research is to examine how women's vulnerability is reproduced daily in contexts of rural poverty in different regions of the country. The hypothesis is that their vulnerability is shaped by three key elements: time, family, and work. Through ethnography, three cases with high explanatory value of women's trajectories were selected. The home was used as the unit of observation, and their daily lives were recorded to observe how these elements are articulated. It was found that the process of vulnerability encompasses spirals and cycles that manifest daily, creating a continuum of adversity; while it affects all subjects, it is shaped by class and gender.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+     },
+     "url": "https://doi.org/10.33679/rfn.v.e2484",
+     "doi": "10.33679/rfn.v.e2484",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.33679/rfn.v.e2490",
+     "titulo": "¿La IED de China en México es realmente una amenaza para Estados Unidos? Análisis de la industria automotriz",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Andrei Guerrero",
+       "orcid": null
+      },
+      {
+       "nombre": "Karen Sánchez",
+       "orcid": null
+      },
+      {
+       "nombre": "Redi Gomis",
+       "orcid": null
+      },
+      {
+       "nombre": "Jorge Carrillo",
+       "orcid": null
+      }
+     ],
+     "resumen": "This article analyzes Chinese foreign direct investment (FDI) in Mexico’s automotive industry and its implications for the U.S. economy. Its main objective is to identify the number of Chinese plants established in Mexico and to characterize them in economic, productive, and labor terms. The methodology comprised three phases: (1) collection and analysis of databases from the ALC-China Network; (2) construction of a dataset with information on 50 Chinese-owned automotive companies; and (3) review of the corresponding collective bargaining agreements. These data and their analysis are original and provide empirical evidence that contrasts with politically driven perceptions. The results show that the presence of Chinese capital in Mexico remains limited and does not represent a threat to the United States. Rather, it reflects a long-term, diversified strategy within a broader process of global hegemonic competition, in which Mexico occupies a strategic position as a space of convergence and tension.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+     },
+     "url": "https://doi.org/10.33679/rfn.v.e2490",
+     "doi": "10.33679/rfn.v.e2490",
+     "paginas": null,
+     "fuente": "Crossref"
+    }
+   ]
+  },
+  {
+   "id": "v37-2025",
+   "volumen": "37",
+   "numero": null,
+   "anio": 2025,
+   "fecha": "2025-12-30",
+   "etiqueta": "Vol. 37 (2025)",
+   "fuente": "Crossref",
+   "articulos": [
+    {
+     "id": "10.33679/rfn.v1i1.2389",
+     "titulo": "Atención a NNA migrantes en Sonora: experiencias desde las OSC y el Estado",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Francisco J. Landeros Jaime",
+       "orcid": "https://orcid.org/0000-0001-5497-3666"
+      }
+     ],
+     "resumen": "The objective of this article is to analyze the experiences in caring for migrant children and adolescents on the northern border of Mexico based on the work carried out by Civil Society Organizations (CSOs) and a Social Assistance Center (CAS) in the state of Sonora, which in turn allows the identification of the main problems faced by the international migration in its transit through this state. From a qualitative methodology that includes interviews, analysis of government documents, and ethnographic work carried out in shelters between 2020 and 2022, it is observed that the main factors affecting the integral care for migrant children and adolescents are the detention by agents of the National Institute of Migration (INM), the dismantling of the State regarding the activities carried out by CSOs, the lack of economic resources for the organizations themselves, and the deficiencies in care models.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 4.0",
+      "url": "http://creativecommons.org/licenses/by-nc-nd/4.0"
+     },
+     "url": "https://doi.org/10.33679/rfn.v1i1.2389",
+     "doi": "10.33679/rfn.v1i1.2389",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.33679/rfn.v1i1.2415",
+     "titulo": "Capacidad de las exportaciones manufactureras para generar empleo y valor agregado interno en Norteamérica, 1995-2020",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Brenda Murillo Villanueva",
+       "orcid": "https://orcid.org/0000-0002-9328-5070"
+      },
+      {
+       "nombre": "Yolanda Carbajal Suárez",
+       "orcid": "https://orcid.org/0000-0001-5480-8898"
+      }
+     ],
+     "resumen": "The aim of this study is to estimate the employment and domestic value added generated by manufacturing exports in North America countries between 1995 and 2020. To achieve this, a multi-regional input-output model is applied, utilizing data from the Trade in Value-Added (TiVA-OECD) and Trade in Employment (TiM-OECD) databases. The results indicate that economies engage in manufacturing activities with different inputs to domestic indicators. In Mexico, exports are generators of employment, in the United States, they contribute to domestic value-added, and in Canada, the composition is intermediate. It is concluded that developed countries (the U.S. and Canada) participate in stages of greater generation of domestic value added. The originality and contribution of this document lies in the application of a widely used method for the analysis of the decomposition of value added to the employment variable.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 4.0",
+      "url": "http://creativecommons.org/licenses/by-nc-nd/4.0"
+     },
+     "url": "https://doi.org/10.33679/rfn.v1i1.2415",
+     "doi": "10.33679/rfn.v1i1.2415",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.33679/rfn.v1i1.2407",
+     "titulo": "Comunidad yaqui: biorresistencia, biopoder, derecho consuetudinario y preservación de la identidad cultural",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "J. Guadalupe Rodríguez Gutiérrez",
+       "orcid": null
+      },
+      {
+       "nombre": "Elia Anell Castro Peralta",
+       "orcid": null
+      }
+     ],
+     "resumen": "The article aims to explain the configuration of socio-community bioresistences and legal strategies negotiated by the Yaqui people (yoemem) in Sonora, Mexico, in response to state mechanisms aimed at perpetuating the delegitimization of their territory. A qualitative approach is employed, including a literature review, Foucault’s theories of power, interviews with key informants in the Vícam and Pótam villages in Sonora, as well as records of observations at Yaqui community meetings. The results show that this community is developing both social and instrumental resilience strategies. The article concludes that harmonization of the national legal framework with international laws is necessary to ensure an effective recognition of Yaqui customary law. Although the study focuses on the Yaqui community in Mexico, it highlights the importance of their transnational processes of resistance to defend their cultural identity, territory, and water resources.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 4.0",
+      "url": "http://creativecommons.org/licenses/by-nc-nd/4.0"
+     },
+     "url": "https://doi.org/10.33679/rfn.v1i1.2407",
+     "doi": "10.33679/rfn.v1i1.2407",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.33679/rfn.v1i1.2395",
+     "titulo": "Condiciones laborales de científicas en una institución de educación superior periférica mexicana",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Lilián Ivetthe Salado Rodríguez",
+       "orcid": "https://orcid.org/0000-0002-5994-7675"
+      },
+      {
+       "nombre": "Ana Gabriela Rodríguez Pérez",
+       "orcid": "https://orcid.org/0000-0001-5066-4989"
+      },
+      {
+       "nombre": "Denise Hernández y Hernández",
+       "orcid": "https://orcid.org/0000-0002-6504-0068"
+      }
+     ],
+     "resumen": "Recently, there has been a trend of feminization in the educational and professional fields. Such tendency has been considered a step towards gender equality. However, its significance in the overall quality of life for Mexican women has been narrowly evaluated. This article analyses diverse factors impacting the overall labor conditions of Mexican scientists (male and female) at a peripheral institution, as well as in their chances of being excluded from the Sistema Nacional de Investigadoras e Investigadores, as a mean to highlight the vulnerabilities of the female Mexican scientists geolocated outside the core of the educational system. For this, 140 surveys were applied: their results demonstrate the extent to which the distribution of academic work still responds to a traditional sexual division, negatively impacting the inclusion, in disadvantaged conditions with high social costs, of women in the scientific field.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 4.0",
+      "url": "http://creativecommons.org/licenses/by-nc-nd/4.0"
+     },
+     "url": "https://doi.org/10.33679/rfn.v1i1.2395",
+     "doi": "10.33679/rfn.v1i1.2395",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.33679/rfn.v1i1.2399",
+     "titulo": "De agricultor a distribuidor. Upgrading funcional transfronterizo en el noroeste de México",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Miguel Ángel Grijalva Villa",
+       "orcid": "https://orcid.org/0009-0008-9103-5423"
+      },
+      {
+       "nombre": "Rigoberto García-Ochoa",
+       "orcid": "https://orcid.org/0000-0001-9379-3473"
+      },
+      {
+       "nombre": "Álvaro Bracamonte Sierra",
+       "orcid": "https://orcid.org/0000-0002-8523-0846"
+      }
+     ],
+     "resumen": "This article aims to analyze the upgrading of producers in northwestern Mexico in the global value chain of horticultural products and understand the characteristics and dimensions of this process. Twenty-three semi-structured interviews were conducted with different growers and distributors in the region, and the information collected was triangulated with secondary sources. The results show that: (i) there has been a functional upgrading in these actors from producers to marketers, as well as an upgrading of products and processes; (ii) trust between the parties is key to increasing the maturity of the horticultural value chain; (iii) capacities have been developed to adapt to the demands of international markets; (iv) innovation and continuous improvement are imperative to keep up with the dynamics of cross-border trade. The knowledge generated is an empirical input for future research focused on the response capacity of regional agents to the demands of the world market.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 4.0",
+      "url": "http://creativecommons.org/licenses/by-nc-nd/4.0"
+     },
+     "url": "https://doi.org/10.33679/rfn.v1i1.2399",
+     "doi": "10.33679/rfn.v1i1.2399",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.33679/rfn.v1i1.2396",
+     "titulo": "Dos perfiles de trabajadores temporales chiapanecos en la agroindustria del Valle de Okanagan, Canadá",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Xochi Quetzal López Guzmán",
+       "orcid": "https://orcid.org/0009-0004-8678-7736"
+      },
+      {
+       "nombre": "Germán Martínez Velasco",
+       "orcid": "https://orcid.org/0000-0001-5871-3028"
+      }
+     ],
+     "resumen": "This study analyzes the temporary migration of two groups of workers from Chiapas mobilized to the agricultural enclave in Canada: a group of workers institutionally recruited by the Seasonal Agricultural Worker Program (SAWP), in contrast to nomadic workers who independently and itinerantly mobilized to work during the harvest seasons. The objective was to contrast the subjectivities and behaviors of each group regarding work environment according to their profile. While the Canadian and Mexican States regulate the program workers through contracts, the nomadic workers with their agency and social capital enter the same country for employment. These differentiating characteristics guided the participant observation, ethnography, and open interviews. The field work was carried out during the summers of 2022 and 2023, the set of results of which allowed us to conclude that both groups of workers are differentiated as disciplinary individuals and performance subjects.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 4.0",
+      "url": "http://creativecommons.org/licenses/by-nc-nd/4.0"
+     },
+     "url": "https://doi.org/10.33679/rfn.v1i1.2396",
+     "doi": "10.33679/rfn.v1i1.2396",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.33679/rfn.v1i1.2379",
+     "titulo": "Factores que determinan la probabilidad de que los migrantes centroamericanos irregulares residan en Estados Unidos",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "David Richard Ravaux",
+       "orcid": "https://orcid.org/0000-0002-5543-3095"
+      },
+      {
+       "nombre": "Magin Zúñiga Estrada",
+       "orcid": "https://orcid.org/0000-0002-5635-7223"
+      }
+     ],
+     "resumen": "Este artículo tiene como objetivo estudiar los factores que han favorecido el ingreso y la residencia irregular en Estados Unidos de migrantes provenientes del Triángulo Norte de Centroamérica durante el período 2016-2019. Las probabilidades de éxito se estimaron con datos de la Encuesta sobre Migración en la Frontera Sur de México, y se corrió un modelo de regresión logística binomial para probar las cuatro hipótesis planteadas en torno a los factores que determinan el éxito de los migrantes en dicho trayecto. Los resultados muestran que características individuales como los rasgos sociodemográficos (país de origen, sexo, edad, nivel educativo), el dominio del idioma inglés, la posesión de capital de red y las decisiones personales de los migrantes determinan significativamente si estos lograrán o no llegar y residir en Estados Unidos.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 4.0",
+      "url": "http://creativecommons.org/licenses/by-nc-nd/4.0"
+     },
+     "url": "https://doi.org/10.33679/rfn.v1i1.2379",
+     "doi": "10.33679/rfn.v1i1.2379",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.33679/rfn.v1i1.2404",
+     "titulo": "Impacto del programa Jóvenes Construyendo el Futuro en los homicidios dolosos en México",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "José Andrés Sumano Rodríguez",
+       "orcid": "https://orcid.org/0000-0001-8030-8643"
+      },
+      {
+       "nombre": "Luis Alberto Reyes Figueroa",
+       "orcid": "https://orcid.org/0000-0002-1812-439X"
+      }
+     ],
+     "resumen": "En la presente investigación se analiza el impacto del programa Jóvenes Construyendo el Futuro (JCF), implementado en México a partir de 2019 con el fin de ofrecer capacitación subsidiada a personas desempleadas y no escolarizadas que están en riesgo de involucrarse en actividades delictivas orientadas a cometer homicidios dolosos. Se analizaron series de tiempo interrumpidas con y sin grupo de control para evaluar si los cambios en el nivel y la tendencia de los homicidios dolosos están relacionados con la implementación del programa. Dicho análisis se complementó con modelos de regresión lineal para evaluar transversalmente el impacto del programa. Los resultados indican que, pese a observarse una reducción en el nivel y la tendencia de los homicidios dolosos a nivel nacional después de la implementación del programa JCF, el análisis por entidad sugiere que tales reducciones podrían atribuirse a otros factores.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 4.0",
+      "url": "http://creativecommons.org/licenses/by-nc-nd/4.0"
+     },
+     "url": "https://doi.org/10.33679/rfn.v1i1.2404",
+     "doi": "10.33679/rfn.v1i1.2404",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.33679/rfn.v1i1.2390",
+     "titulo": "La presentación de la persona en el cruce cotidiano. Commuters y frontera performativa en las Californias",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Carlos Armenta Álvarez",
+       "orcid": "https://orcid.org/0009-0004-1976-3371"
+      },
+      {
+       "nombre": "Luis Escala Rabadán",
+       "orcid": "https://orcid.org/0000-0001-6512-7553"
+      }
+     ],
+     "resumen": "This article aims to describe and explain, from the perspective of Cultural Sociology, how the commuter population in the urban border region of Baja California employs different strategies for presenting themselves at the ports of entry into the United States. This text is based on in-depth interviews conducted between 2020 and 2022 with different active cross-border people who use their temporary visitor visas to work in the United States and reside in Tijuana and Mexicali, Baja California. The research shows the importance of cultural elements such as social performance to explain this population’s dynamics of cross-bordering in this region.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 4.0",
+      "url": "http://creativecommons.org/licenses/by-nc-nd/4.0"
+     },
+     "url": "https://doi.org/10.33679/rfn.v1i1.2390",
+     "doi": "10.33679/rfn.v1i1.2390",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.33679/rfn.v37.e2406",
+     "titulo": "Los efectos de las descargas de aguas residuales industriales en Ensenada, B. C., México: entre la normativa y la autorregulación<b></b>",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Ritter de Jesús De Basabe Ibarra",
+       "orcid": "https://orcid.org/0009-0005-2081-6933"
+      },
+      {
+       "nombre": "Patricia Rivera-Castañeda",
+       "orcid": "https://orcid.org/0000-0002-5462-4690"
+      }
+     ],
+     "resumen": "The management of wastewater discharge by the industrial sector is a poorly understood process. From a critical environmental economics perspective, this study analyzes the regulatory procedures followed by industry in Ensenada, Baja California. Using a mixed-methods approach, the study reviews newspaper and statistical data, conducts semi-structured interviews with key stakeholders, and performs preliminary water monitoring in the bay of this city. The findings demonstrate an interrelationship between industrial and domestic wastewater management, where industries prioritize administrative procedures to obtain discharge permits without complying with regulatory quality standards for the discharged water. This reveals that self-regulation and agreements are insufficient tools to address the reality of coastal pollution, limiting the realization of recreational and economic benefits for the study area and jeopardizing public health.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 4.0",
+      "url": "http://creativecommons.org/licenses/by-nc-nd/4.0"
+     },
+     "url": "https://doi.org/10.33679/rfn.v37.e2406",
+     "doi": "10.33679/rfn.v37.e2406",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.33679/rfn.v37.e2405",
+     "titulo": "Marginación en el área de influencia de las reservas de la biosfera en México",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Carlos Israel Vázquez León",
+       "orcid": null
+      }
+     ],
+     "resumen": "This study analyzes the impact of marginalization on communities adjacent to biosphere reserves (BR), using the marginalization index as an analytical tool. Comparative maps of the BRs for the years 2000, 2010, and 2020 were developed. The findings show that by 2020, the number of inhabitants in these communities had decreased compared to 2000, and that the number of settlements increases with distance from the BR. A shift in marginalization levels is also observed: while a high degree prevailed in 2000, a medium level was recorded in 2020, despite a population decline of up to 28 percent. The analysis suggests that this decrease may be linked to regulatory restrictions inherent to protected natural areas, which may have influenced demographic dynamics within BR boundaries.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 4.0",
+      "url": "http://creativecommons.org/licenses/by-nc-nd/4.0"
+     },
+     "url": "https://doi.org/10.33679/rfn.v37.e2405",
+     "doi": "10.33679/rfn.v37.e2405",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.33679/rfn.v1i1.2382",
+     "titulo": "Mexicana nacida en el extranjero: analizando la identidad etnolingüística de hispanohablantes de herencia fronterizos",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Rosalva Alamillo",
+       "orcid": "https://orcid.org/0000-0002-8697-971X"
+      }
+     ],
+     "resumen": "Se examinan identidades etnolingüísticas de hispanohablantes de herencia que habitan la región fronteriza del área metropolitana internacional de San Diego-Tijuana mediante el análisis crítico del discurso de narrativas escritas por estudiantes de un curso universitario avanzado. El objetivo fue determinar las identidades lingüísticamente indexadas mediante etiquetas auto-reportadas para desarrollar mejores prácticas pedagógicas que aborden la identidad etnolingüística en el aula de lengua heredada. Se encontró que la mayoría de los participantes se reconocían como miembros de su grupo étnico, poco más de un tercio se identificó únicamente con la cultura de herencia, y ninguno se identificó solo como estadounidense. Además, el bilingüismo y el biculturalismo se incluyeron como rasgo identitario, junto con la lengua heredada, reportada por casi la mitad. Finalmente, la etiqueta más relacionada con el spanglish y las prácticas transnacionales fue “mexicana/o”. También se presentan datos cualitativos y recomendaciones para mejores prácticas educativas relacionadas con la identidad etnolingüística.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 4.0",
+      "url": "http://creativecommons.org/licenses/by-nc-nd/4.0"
+     },
+     "url": "https://doi.org/10.33679/rfn.v1i1.2382",
+     "doi": "10.33679/rfn.v1i1.2382",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.33679/rfn.v1i1.2397",
+     "titulo": "Narrativas culturales en las películas fronterizas de México y Estados Unidos",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Michael Dear",
+       "orcid": null
+      }
+     ],
+     "resumen": "En este artículo se examinan las representaciones de la frontera entre México y Estados Unidos a lo largo de un siglo de producción cinematográfica, con el propósito de identificar la emergencia de un nuevo género fílmico fronterizo y las narrativas culturales que configuran la percepción del público sobre sus paisajes y habitantes. Se describe la evolución de las industrias cinematográficas en ambos países y la manera en que distintos cineastas imaginaron y plasmaron en pantalla los espacios fronterizos, hasta consolidar un género propio en México y en Estados Unidos. A partir del análisis de 25 películas consideradas «clásicas», se identifican nueve narrativas recurrentes en este cine: orígenes, modernidad, migración, identidad, sueños, pasajes, narcolandia, ley y corrupción, y resistencia. Finalmente, se muestra cómo las infraestructuras y los códigos lingüísticos asociados constituyen una arquitectura conceptual que los realizadores utilizan para construir representaciones destinadas a influir en la mirada de las audiencias.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 4.0",
+      "url": "http://creativecommons.org/licenses/by-nc-nd/4.0"
+     },
+     "url": "https://doi.org/10.33679/rfn.v1i1.2397",
+     "doi": "10.33679/rfn.v1i1.2397",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.33679/rfn.v37.e2391",
+     "titulo": "Paradigmas y modelos de gobernanza laboral en México:¿del corporativismo a la negociación colectiva efectiva?",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Carlos Chávez Becker",
+       "orcid": "https://orcid.org/0000-0002-1967-7324"
+      },
+      {
+       "nombre": "Alma Patricia De León Calderón",
+       "orcid": null
+      },
+      {
+       "nombre": "Julieta Martínez Cuero",
+       "orcid": null
+      }
+     ],
+     "resumen": "The paper presents an analysis of different modalities adopted in labor relations in Mexico since the post-revolutionary period, from the perspective of labor governance theory. Specifically, it offers an interpretation of the transition process in Mexico following the 2019 reform of the Federal Labor Law. The paper is based fundamentally on the systematization of an extensive documentary review, which concludes that this reform established a new legal framework that could gradually allow for the establishment of effective collective bargaining agreements for the first time in Mexico. While this is a preliminary analysis of an ongoing process, the labor governance approach constitutes an adequate approach for rethinking labor relations in the Mexican case.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 4.0",
+      "url": "http://creativecommons.org/licenses/by-nc-nd/4.0"
+     },
+     "url": "https://doi.org/10.33679/rfn.v37.e2391",
+     "doi": "10.33679/rfn.v37.e2391",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.33679/rfn.v1i1.2375",
+     "titulo": "Planeación y calidad de áreas verdes en Ciudad Juárez, Chihuahua",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "María de Lourdes Romo Aguilar",
+       "orcid": "https://orcid.org/0000-0001-6380-2770"
+      },
+      {
+       "nombre": "Lina Ojeda-Revah",
+       "orcid": "https://orcid.org/0000-0001-6006-8128"
+      },
+      {
+       "nombre": "Juan Diego Maldonado Marín",
+       "orcid": "https://orcid.org/0000-0002-6556-3280"
+      }
+     ],
+     "resumen": "In Mexico, urban green areas are usually viewed as a recreational space, however, little attention is paid to their quality. In Ciudad Juárez, Chihuahua there is a deficit of these spaces, and only a few are maintained. Therefore, the objective of this paper is to analyze the number, spatial distribution, and quality of urban green areas in relation to territorial planning using the Physical Activity Resource Assessment Instrument, and the Community Park Audit Tool. The findings show that the lack of planning for green areas results in a lack of equipment, poor quality of service, high levels of insecurity and incivility, as well as a lag for certain sectors of the population. Based on these results, the goal is to provide quality elements for planning in order to have an impact beyond considering the green areas as just a number.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 4.0",
+      "url": "http://creativecommons.org/licenses/by-nc-nd/4.0"
+     },
+     "url": "https://doi.org/10.33679/rfn.v1i1.2375",
+     "doi": "10.33679/rfn.v1i1.2375",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.33679/rfn.v1i1.2426",
+     "titulo": "Tijuana White: drogas, cultura y desesperanza en tiempos del fentanilo",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Rafael Alarcón Medina",
+       "orcid": "https://orcid.org/0000-0001-9531-9863"
+      },
+      {
+       "nombre": "Jaime Adrian Rivas Valenzuela",
+       "orcid": "https://orcid.org/0009-0004-0687-0549"
+      }
+     ],
+     "resumen": "This paper addresses the relationships between drugs and culture in the fentanyl era in the city of Tijuana, on Mexico’s northern border, based on a review of newspapers, an analysis of governmental videos on addiction prevention, and ethnographic material. Drawing on the work of Michel Aglietta and others, we propose the existence of an addiction regime that (re)produces discourses on substance use and its institutional treatment, generating a contentious language regulating the forms of signification around drugs, and the diverse fashions in which the state manages populations involved in the drug economy, particularly in social contexts where structural conditions of despair prevail.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 4.0",
+      "url": "http://creativecommons.org/licenses/by-nc-nd/4.0"
+     },
+     "url": "https://doi.org/10.33679/rfn.v1i1.2426",
+     "doi": "10.33679/rfn.v1i1.2426",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.33679/rfn.v1i1.2383",
+     "titulo": "¿Están listas las maquiladoras para implementar la Industria 4.0?",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Eduardo Arriola Ruiz",
+       "orcid": "https://orcid.org/0000-0002-0037-0621"
+      },
+      {
+       "nombre": "Redi Gomis Hernández",
+       "orcid": "https://orcid.org/0000-0002-1515-3929"
+      },
+      {
+       "nombre": "Jorge Carrillo",
+       "orcid": "https://orcid.org/0000-0002-8533-2797"
+      }
+     ],
+     "resumen": "This article analyzes and compares the knowledge and implementation of Industry 4.0 (I4.0) technologies in maquiladoras in Tijuana and Ciudad Juárez through a descriptive quantitative approach. Online surveys were conducted with manufacturing sector workers to assess their familiarity with and practical application of 19 specific technologies. The results show that, while knowledge levels are moderate, practical adoption of these technologies remains limited, with Ciudad Juárez showing a slight advantage. The findings highlight the importance of improving I4.0 training to enable more effective implementation and support technological transformation in these border regions. Although the study's geographical scope is limited, it is recommended that future research encompass a wider diversity of industrial contexts. This research contributes to the understanding of the transition towards I4.0 and provides valuable insights for designing policies aimed at technological training in the sector.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 4.0",
+      "url": "http://creativecommons.org/licenses/by-nc-nd/4.0"
+     },
+     "url": "https://doi.org/10.33679/rfn.v1i1.2383",
+     "doi": "10.33679/rfn.v1i1.2383",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.33679/rfn.v1i1.2403",
+     "titulo": "(Re)construyendo el sentido de pertenencia: personas mexicanas deportadas en la frontera con Estados Unidos",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Israel Ibarra-González",
+       "orcid": "https://orcid.org/0000-0002-6737-2349"
+      }
+     ],
+     "resumen": "The study investigates how Mexican adults deported from the United States (re)construct their sense of belonging in their country of birth, through a qualitative analysis based on semi-structured interviews in the metropolitan areas of Tijuana and Ciudad Juárez. The findings were systematized into three categories: 1) forced-resigned, 2) forced-non-resigned, and 3) forced-accepted. It was revealed that having viable future expectations and opportunities for social mobility in Mexico’s northern border region fosters a desire to belong, that participation linked to social capital and attachment to the United States contributes to a reluctance to belong, and that the threat of returning to jail if one re-enters the U.S. undocumented leads to resigned acceptance of belonging in México. These findings offer a deeper understanding of the challenges and dynamics faced by deportees in reconstructing their sense of belonging in their country of origin.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+     },
+     "url": "https://doi.org/10.33679/rfn.v1i1.2403",
+     "doi": "10.33679/rfn.v1i1.2403",
+     "paginas": "1-23",
+     "fuente": "Crossref"
+    }
+   ]
+  }
+ ]
+}

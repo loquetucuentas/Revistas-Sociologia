@@ -1,0 +1,1594 @@
+// Copia de revistas/2591-5312.json para abrir la aplicación sin servidor.
+(window.DATOS_REVISTAS = window.DATOS_REVISTAS || {})["revistas/2591-5312.json"] = {
+ "version": 1,
+ "generado": "2026-10-18T05:53:59+00:00",
+ "es_prueba": false,
+ "revista": {
+  "id": "2591-5312",
+  "titulo": "Area",
+  "idioma_titulo": null,
+  "titulo_alternativo": "Area, Agenda de Reflexión en Arquitectura, Diseño y Urbanismo",
+  "idioma_titulo_alternativo": "es",
+  "idiomas": [
+   "pt",
+   "en",
+   "es"
+  ],
+  "issn_impreso": "0328-1337",
+  "issn_electronico": "2591-5312",
+  "editorial": "Universidad de Buenos Aires, Facultad de Arquitectura, Diseño y Urbanismo",
+  "pais": "AR",
+  "materias": [
+   "Architecture",
+   "Urban groups. The city. Urban sociology"
+  ],
+  "palabras_clave": [
+   "architecture",
+   "design",
+   "urbanism"
+  ],
+  "licencias": [
+   {
+    "nombre": "CC BY-NC-ND 4.0",
+    "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+   }
+  ],
+  "url": "https://publicacionescientificas.fadu.uba.ar/index.php/area",
+  "url_doaj": "https://doaj.org/toc/2591-5312",
+  "descripcion": null,
+  "fuente_ficha": "DOAJ",
+  "archivo": "revistas/2591-5312.json",
+  "ultimo_numero": "Publicación continua (2026)",
+  "fuente_numeros": "Crossref"
+ },
+ "numeros": [
+  {
+   "id": "2026",
+   "volumen": null,
+   "numero": null,
+   "anio": 2026,
+   "fecha": "2026-10-13",
+   "etiqueta": "Publicación continua (2026)",
+   "fuente": "Crossref",
+   "articulos": [
+    {
+     "id": "10.62166/area.32.2.4087",
+     "titulo": "Biodiversidad e integración sociourbana. El biocorredor metropolitano del Buen Ayre como estrategia para la inclusión y la sostenibilidad",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Mariela D’Alesio",
+       "orcid": "https://orcid.org/0009-0004-9202-6212"
+      }
+     ],
+     "resumen": "El artículo expone la importancia de preservar los predios del CEAMSE en Buen Ayre, provincia de Buenos Aires, Argentina, que se desarrollan entre el río Reconquista y la autopista Camino Parque del Buen Ayre, desde la autopista Ingeniero Pascual Palazzo y el Acceso Oeste, para la implementación de una estrategia regional de conservación y protección de la diversidad biológica y los ecosistemas urbanos, y que aporte a la implementación de los principios y valores de la Nueva Agenda Urbana y los Objetivos de Desarrollo Sostenible de Naciones Unidas en la región. La recuperación del biocorredor tiene el potencial de optimizar los servicios ambientales de las infraestructuras verdes y azules, así como la revalorización de un territorio profundamente degradado aportando a la integración de los barrios populares que se desarrollan a lo largo de la margen opuesta de la autopista. No obstante, esta oportunidad se encuentra amenazada por la especulación inmobiliaria y cobra particular relevancia en el contexto político de privatizaciones y concesionamiento de tierras.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 2.5",
+      "url": "https://creativecommons.org/licenses/by-nc-nd/2.5/ar/"
+     },
+     "url": "https://doi.org/10.62166/area.32.2.4087",
+     "doi": "10.62166/area.32.2.4087",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.62166/area.v32i2.4274",
+     "titulo": "Cartografías críticas de david sperling. El mapa entre la tecnopolítica y la geopoética",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Rodrigo Martin-Iglesias",
+       "orcid": "https://orcid.org/0000-0002-9109-6292"
+      }
+     ],
+     "resumen": "Conversaciones sobre diseño y creatividad (en adelante Conversaciones) podría definirse como una colección de libros basada en conversaciones con personalidades de las industrias creativas. Una colección “creada por diseñadores para diseñadores”. Sin embargo, esta descripción no alcanza para dar cuenta de la dimensión del proyecto creado por Natalia Pano, Ezequiel Cafaro y Pablo Acuña (diseñadores, profesores y editores). La serie lleva publicados cuatro volúmenes, desde 2017 hasta 2024. Desde el segundo volumen, es auto-editada por su propio sello independiente, Capitular.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 2.5",
+      "url": "https://creativecommons.org/licenses/by-nc-nd/2.5/ar/"
+     },
+     "url": "https://doi.org/10.62166/area.v32i2.4274",
+     "doi": "10.62166/area.v32i2.4274",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.62166/area.32.2.4018",
+     "titulo": "Ejercicios interdisciplinares. Diálogo entre el Diseño y el Machine Learning para el análisis morfológico",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Anna Tripaldi-Proaño",
+       "orcid": "https://orcid.org/0000-0001-5068-3266"
+      },
+      {
+       "nombre": "Toa Tripaldi-Proaño",
+       "orcid": "https://orcid.org/0000-0002-3115-0170"
+      },
+      {
+       "nombre": "Piercosimo Tripaldi-Cappelletti",
+       "orcid": "https://orcid.org/0000-0002-0155-828X"
+      }
+     ],
+     "resumen": "Este artículo explora, a través de la revisión de casos, las posibilidades de uso del Machine Learning en las investigaciones sobre Diseño, puntualmente en los procesos de análisis morfosemántico. Luego de la revisión de los procesos chemiométricos realizados en una serie de investigaciones tomadas como referentes se evidencia cómo, dentro de la estadística multivariada, los métodos de clasificación, el cluster de análisis y la aplicación de algoritmos genéticos permiten obtener resultados factibles de ser triangulados con información cualitativa, altamente descriptivos y estratégicos para los procesos de diseño. Se evidencia también cómo los procesos inter y transdisciplinarios favorecen la emergencia de nuevos descubrimientos y enriquecen la agencia algorítmica en el diseño.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 2.5",
+      "url": "https://creativecommons.org/licenses/by-nc-nd/2.5/ar/"
+     },
+     "url": "https://doi.org/10.62166/area.32.2.4018",
+     "doi": "10.62166/area.32.2.4018",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.62166/area.32.1.3934",
+     "titulo": "El corazón del Estado desarrollista. Un Centro Cívico para San José, Costa Rica (1955-1977)",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Gustavo Alemán Calero",
+       "orcid": "https://orcid.org/0009-0007-2014-5871"
+      },
+      {
+       "nombre": "Luis Durán Segura",
+       "orcid": "https://orcid.org/0000-0002-6325-1566"
+      }
+     ],
+     "resumen": "El artículo estudia las tres propuestas de creación de un Centro Cívico en San José, Costa Rica, elaboradas entre 1955 y 1977. Desde el análisis de fuentes históricas, se examinan los objetivos, características y alcances de estos proyectos, que pretendían centralizar edificios de instituciones gubernamentales y, simultáneamente, expresar el poder político del nuevo Estado desarrollista, promoviendo una modernización urbana acorde con las posibilidades que brindaban los principios del Movimiento Moderno y el urbanismo funcionalista. A pesar de sus diferencias formales, las tres propuestas compartieron una misma aspiración: construir un escenario capaz de materializar y visibilizar la expansión del aparato estatal de la llamada Segunda República. Aunque no se construyeron en su totalidad, las propuestas revelan las relaciones entre Estado, espacio y poder en un momento clave de la historia costarricense.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 2.5",
+      "url": "https://creativecommons.org/licenses/by-nc-nd/2.5/ar/"
+     },
+     "url": "https://doi.org/10.62166/area.32.1.3934",
+     "doi": "10.62166/area.32.1.3934",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.62166/area.32.1.3729",
+     "titulo": "El diseño del espacio escolar. Los colores del aprendizaje",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Verónica A. Toranzo",
+       "orcid": null
+      }
+     ],
+     "resumen": "La escuela es el lugar por excelencia del aprendizaje, el espacio pensado para ello. En el marco de una educación creativa, el espacio escolar es parte de ese aprendizaje. La investigación presentada busca reflexionar, conocer y compartir experiencias de espacios escolares diseñados con diferentes materiales, texturas, luces, colores. Se hará referencia a tres propuestas reconocidas en el ámbito educativo y arquitectónico que hicieron del concepto, la innovación y la creatividad un estilo de hacer escuela. Experiencias realizadas por Herman Hertzberger, Loris Malaguzzi y Rosan Bosch para iluminar, repensar y así poder rediseñar algunos espacios y proyectar otros en las escuelas de la ciudad que recorremos y habitamos, Buenos Aires. Escuelas sobre las que también se hará una breve mención y análisis, a modo de diálogo. ¿Recomendaciones? ¿Conclusiones? La diversidad en sí misma, aquella que al utilizar una amplia paleta de colores, materiales y formas para enseñar y aprender amplía la creatividad y ofrece multiplicidad de oportunidades posibles porque cada niño/a aprende de manera diferente.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 2.5",
+      "url": "https://creativecommons.org/licenses/by-nc-nd/2.5/ar/"
+     },
+     "url": "https://doi.org/10.62166/area.32.1.3729",
+     "doi": "10.62166/area.32.1.3729",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.62166/area.32.2.4324",
+     "titulo": "Gestión territorial y herramientas de apoyo a la decisión para la recolección de residuos en ciudades turísticas. El caso de Pinamar",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Jesica Meilan",
+       "orcid": null
+      }
+     ],
+     "resumen": "El artículo aborda la gestión urbana de la recolección de residuos en ciudades turísticas caracterizadas por una marcada variabilidad estacional de la demanda, tomando al Partido de Pinamar, provincia de Buenos Aires, como caso de estudio. El objetivo es desarrollar una propuesta metodológico-operativa para el análisis y la gestión del servicio mediante la integración de variables territoriales, temporales y operativas. Metodológicamente, la investigación combina revisión bibliográfica y normativa, relevamiento territorial, entrevista semiestructurada a un supervisor de la empresa prestataria del servicio, sistematización de información operativa, análisis mediante sistemas de información geográfica y construcción exploratoria de escenarios de optimización. A partir de estos insumos se estructura una base analítica y un prototipo de apoyo a la decisión orientado a comparar alternativas de recorrido y funcionamiento del servicio. Los resultados, de carácter exploratorio, permiten reconocer el valor de integrar información espacial y temporal en contextos de fuerte estacionalidad. El principal aporte del trabajo consiste en proponer una lectura territorial de la demanda de recolección, entendiendo que las variaciones turísticas modifican no sólo el volumen de residuos generado, sino también su localización, intensidad y temporalidad.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 2.5",
+      "url": "https://creativecommons.org/licenses/by-nc-nd/2.5/ar/"
+     },
+     "url": "https://doi.org/10.62166/area.32.2.4324",
+     "doi": "10.62166/area.32.2.4324",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.62166/area.v32i2.4226",
+     "titulo": "La arquitectura en el paisaje. Palabras, trazos y jardines de Roberto Burle Marx",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Valentín Arechaga",
+       "orcid": "https://orcid.org/0000-0003-0055-5316"
+      }
+     ],
+     "resumen": "El artículo interpreta un conjunto de obras paisajísticas de Roberto Burle Marx caracterizadas por establecer vínculos con las personas que habitan y visitan sus espacios colectivos. Para ello, recurre tanto a textos, ponencias y dibujos técnicos del autor como al análisis de sus obras en distintas épocas, escalas y usos. Proyectadas a lo largo del siglo XX –y no todas materializadas–, estas obras van desde jardines de pequeña escala hasta intervenciones de carácter metropolitano, y revelan tanto el sentido de las arquitecturas que envuelven como la intención de un lenguaje paisajístico sensible y consciente de sus cualidades ecológicas.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 2.5",
+      "url": "https://creativecommons.org/licenses/by-nc-nd/2.5/ar/"
+     },
+     "url": "https://doi.org/10.62166/area.v32i2.4226",
+     "doi": "10.62166/area.v32i2.4226",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.62166/area.32.2.4029",
+     "titulo": "La urbanización de humedales en la provincia de Buenos Aires, Argentina",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Federico Ignacio Isla",
+       "orcid": "https://orcid.org/0000-0002-4930-0907"
+      },
+      {
+       "nombre": "Jeremías Ispizua",
+       "orcid": "https://orcid.org/0000-0002-2511-9783"
+      }
+     ],
+     "resumen": "Diferentes humedales costeros de la provincia de Buenos Aires, Argentina, han sido urbanizados a pesar de iniciativas nacionales para declararlos reservas naturales sujetas a conservación. Las expansiones urbanas tanto en el delta del Paraná como en barreras costeras demandaron el drenaje de estos humedales. En el delta del Paraná varios barrios cerrados fueron construidos, algunos sin autorización. El loteo propuesto en las marismas de la laguna costera Mar Chiquita fue prohibida debido a las inundaciones de 1980 (Country Costa del Sol). Actualmente, una nueva iniciativa (Lagos de Mar) ha sido temporalmente cancelada en una demanda que se ha extendido por varios años. El loteo del Alfar fue concebido a mediados de del siglo XX ocupando otro humedal (laguna Corrientes) mediante un relleno con arena aportada desde las dunas vecinas. La laguna costera de Reta está siendo progresivamente inundada debido a canales dragados en la cuenca de drenaje (Arroyo Los Gauchos). Actualmente, el Balneario Reta está creciendo en las vecindades de esta laguna que recibe agua salada en ocasión de tormentas episódicas o pleamares excepcionales. Algunas de estas villas balnearias son frecuentemente inundadas y estos procesos serán peores considerando las tendencias climáticas previstas. Aunque la urbanización de humedales es actualmente restringida no existe una ley nacional que contemple específicamente su preservación y que ha sido repetidamente pospuesta.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 2.5",
+      "url": "https://creativecommons.org/licenses/by-nc-nd/2.5/ar/"
+     },
+     "url": "https://doi.org/10.62166/area.32.2.4029",
+     "doi": "10.62166/area.32.2.4029",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.62166/area.32.2.4019",
+     "titulo": "Los Eucaliptos y la construcción historiográfica de una excepción. Normativa urbana y proyecto moderno en Buenos Aires (1941-1943)",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "María Victoria Sabbadini",
+       "orcid": "https://orcid.org/0009-0002-2023-4819"
+      }
+     ],
+     "resumen": "El edificio Los Eucaliptos (1941-1943), proyectado por Jorge Ferrari Hardoy y Juan Kurchan, ha sido interpretado por la historiografía como un caso excepcional cuya implantación habría requerido un permiso especial de la municipalidad para preservar eucaliptos preexistentes en el fondo del lote. A partir del análisis del Reglamento General de Construcciones de 1928 y de documentación catastral de época, este artículo demuestra que la implantación del edificio no constituía una excepción normativa, sino que operaba dentro de los márgenes de indeterminación de una regulación que aún no prescribía la conformación del pulmón de manzana. El trabajo propone la categoría de proyección anacrónica como operación historiográfica y problematiza el uso de la excepción como sustituto del análisis normativo en la historia urbana.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 2.5",
+      "url": "https://creativecommons.org/licenses/by-nc-nd/2.5/ar/"
+     },
+     "url": "https://doi.org/10.62166/area.32.2.4019",
+     "doi": "10.62166/area.32.2.4019",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.62166/area.32.1.3913",
+     "titulo": "Políticas públicas y conectividad. Aportes a estrategias de urbanización inclusiva en un barrio popular fragmentado (El Caribe, 2021-2024, Argentina)",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Rosario Mumare",
+       "orcid": "https://orcid.org/0000-0002-0305-7788"
+      },
+      {
+       "nombre": "Franco Maximiliano Santacroce",
+       "orcid": "https://orcid.org/0000-0002-8753-1546"
+      },
+      {
+       "nombre": "Gabriel Cacopardo",
+       "orcid": "https://orcid.org/0000-0002-1868-9657"
+      }
+     ],
+     "resumen": "Este artículo se enfoca en un proyecto de gestión y construcción de un sistema de movilidad peatonal en un asentamiento informal de alta fragmentación urbana, barrio El Caribe en Mar del Plata, Argentina, a partir de una política pública nacional orientada a la integración socio-urbana. Se emplea una metodología de investigación acción-participativa con fuerte anclaje territorial, basada en un análisis territorial detallado, apoyado en documentación gráfica, fotografías, mapas georreferenciados y entrevistas informales a referentes barriales. Utiliza un enfoque predominantemente cualitativo, apoyado en cartografía técnica, para estudiar la movilidad peatonal, identificando barreras físicas, y evaluando el impacto del entorno en la vida diaria. La experiencia desarrolla el modo en que el encuentro e interacción de una política pública, una organización social ejecutora y una trama vecinal activa, genera tanto un proceso de solución a un problema de fragmentación histórica y de accesibilidad, como una dinámica de transformación que aporta a estrategias de urbanización inclusiva.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 2.5",
+      "url": "https://creativecommons.org/licenses/by-nc-nd/2.5/ar/"
+     },
+     "url": "https://doi.org/10.62166/area.32.1.3913",
+     "doi": "10.62166/area.32.1.3913",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.62166/area.32.1.3948",
+     "titulo": "ciudad y cursos de agua efímeros. Una combinación crítica ante el crecimiento urbano y los impactos locales del cambio climático. El caso de los barrios Fracción 14 y Fracción 15 en Comodoro Rivadavia, Chubut",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Magali Chanampa",
+       "orcid": "https://orcid.org/0000-0001-5209-617X"
+      },
+      {
+       "nombre": "Romina Sotelo",
+       "orcid": "https://orcid.org/0009-0006-6214-727X"
+      }
+     ],
+     "resumen": "Este trabajo analiza la urbanización de Comodoro Rivadavia, centrándose en cómo la desregulación sistemática de lo ambiental en la toma de decisiones políticas institucionales sobre la configuración espacial y urbana, ha dado lugar a diversas problemáticas, tal como se aprecia en los casos analizados: barrios Fracción 14 y Fracción 15.El análisis se realiza desde un enfoque metodológico cualitativo, mediante el cual se identifican los principales procesos físicos ambientales y sociales que configuran la vulnerabilidad socioambiental del área. Los resultados muestran que la ocupación de zonas de alto riesgo ambiental (con suelos arcillosos, napas freáticas elevadas y procesos de erosión) responde a decisiones institucionales que desestiman las condiciones naturales del territorio. La urbanización sobre tierras fiscales, destinada a reubicar población vulnerable, reproduce desigualdades socioespaciales en un contexto urbano-ambiental adverso y agravado por los efectos del cambio climático. Se concluye que incorporar la dimensión ambiental en la planificación urbana es esencial para una gestión territorial más equitativa y sustentable.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 2.5",
+      "url": "https://creativecommons.org/licenses/by-nc-nd/2.5/ar/"
+     },
+     "url": "https://doi.org/10.62166/area.32.1.3948",
+     "doi": "10.62166/area.32.1.3948",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.62166/area.32.1.3980",
+     "titulo": "Cinco ramas de la arquitectura biofílica actual",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Laura Muñoz Pérez",
+       "orcid": "https://orcid.org/0000-0002-0146-0901"
+      }
+     ],
+     "resumen": "Este artículo analiza la bioarquitectura desde la perspectiva de la biofilia, entendida como la conexión innata del ser humano con la naturaleza. A tal fin, se abordan cinco enfoques para integrar la vegetación en la arquitectura: terrazas-jardín, fachadas vegetales, vegetación interior, estructuras con soporte vegetal vivo y entornos naturales circundantes. Se destacan sus beneficios en la sostenibilidad, la salud y el bienestar, pero también se advierte sobre el greenwashing y los retos técnicos, económicos y de mantenimiento asociados. El texto concluye subrayando la necesidad de planificación, compromiso a largo plazo y un diseño honesto para que la arquitectura biofílica sea efectiva y no un ejercicio estético vacío.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 2.5",
+      "url": "https://creativecommons.org/licenses/by-nc-nd/2.5/ar/"
+     },
+     "url": "https://doi.org/10.62166/area.32.1.3980",
+     "doi": "10.62166/area.32.1.3980",
+     "paginas": "1-25",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.62166/area.32.1.3778",
+     "titulo": "Estudio comparativo del comportamiento acústico de la envolvente de viviendas en altura en Tucumán, Argentina",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Agustina Cazón Narvaez",
+       "orcid": "https://orcid.org/0000-0001-5823-0130"
+      },
+      {
+       "nombre": "Isabel Del Valle Juarez",
+       "orcid": "https://orcid.org/0000-0002-4447-940X"
+      },
+      {
+       "nombre": "Beatriz Silvia Garzón",
+       "orcid": "https://orcid.org/0000-0003-3130-8895"
+      },
+      {
+       "nombre": "Víctor Luis Alberto Cancino",
+       "orcid": "https://orcid.org/0000-0002-8864-9757"
+      }
+     ],
+     "resumen": "La vivienda, además de ser un recinto de habitación es considerada un espacio de trabajo; su incorrecto acondicionamiento acústico puede generar repercusiones en la salud física, mental y emocional de los usuarios. Un diseño inadecuado no sólo perjudica la salud y el bienestar, sino que también puede incrementar el impacto ambiental, debido a un mayor consumo de recursos y a la necesidad de intervenciones correctivas posteriores.Este estudio evalúa la calidad acústica de dos departamentos en altura ubicados en San Miguel de Tucumán, Argentina, ciudad caracterizada por un notable crecimiento urbano y vehicular. Se adopta un enfoque cuantitativo para comparar y analizar los resultados obtenidos mediante mediciones con instrumental específico. Se consideran variables sonoras, constructivas y perceptuales, tanto en relación con el ruido exterior y la capacidad de aislamiento de la envolvente edilicia, como en los espacios interiores, a partir del análisis de los tiempos de reverberación. El objetivo general es diagnosticar la situación actual, comparar el desempeño acústico de las unidades y aportar recomendaciones orientadas a mejorar la calidad de vida mediante un diseño arquitectónico más consciente.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 2.5",
+      "url": "https://creativecommons.org/licenses/by-nc-nd/2.5/ar/"
+     },
+     "url": "https://doi.org/10.62166/area.32.1.3778",
+     "doi": "10.62166/area.32.1.3778",
+     "paginas": "1-27",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.62166/area.32.1.3990",
+     "titulo": "Evaluación de estrategias de rehabilitación microclimáticas en un fragmento residencial-educativo de Resistencia, Chaco, Argentina, mediante software ENVI-met",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "María Laura Boutet",
+       "orcid": "https://orcid.org/0000-0001-6313-9577"
+      },
+      {
+       "nombre": "Alejandro Luis Hernández",
+       "orcid": "https://orcid.org/0000-0001-9808-3972"
+      },
+      {
+       "nombre": "Amanda Magalí González",
+       "orcid": "https://orcid.org/0009-0004-4700-3337"
+      },
+      {
+       "nombre": "Alberto Patricio Mahave",
+       "orcid": "https://orcid.org/0009-0008-0866-9020"
+      },
+      {
+       "nombre": "Luis María Rafael Romero",
+       "orcid": "https://orcid.org/0009-0004-8265-9104"
+      }
+     ],
+     "resumen": "Se presentan los resultados de un estudio microclimático desarrollado con el software de simulación dinámica ENVI-met en un sector residencial-educativo del barrio Villa del Carmen, en la ciudad de Resistencia, provincia del Chaco, Argentina. El área de análisis tiene como núcleo un edificio escolar de nivel primario donde se habían identificado condiciones de disconfort térmico, frente a lo cual se elaboró una propuesta de rehabilitación de su entorno inmediato, basada en estrategias bioclimáticas pasivas. La comparación entre el escenario intervenido y el escenario de base evidenció una reducción de la temperatura del aire entre 0,9 y 1,1 °C y de la temperatura media radiante entre 15 y 29,3 °C, lo que indica un impacto positivo a partir de las medidas de mitigación simuladas y la utilidad del software como herramienta de diagnóstico y apoyo a la toma de decisiones de diseño sustentable.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 2.5",
+      "url": "https://creativecommons.org/licenses/by-nc-nd/2.5/ar/"
+     },
+     "url": "https://doi.org/10.62166/area.32.1.3990",
+     "doi": "10.62166/area.32.1.3990",
+     "paginas": "1-21",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.62166/area.32.1.3985",
+     "titulo": "Hacia una transformación urbana desde lo próximo. Metodología y estrategias para un urbanismo regenerativo",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Daiana Beretta",
+       "orcid": "https://orcid.org/0009-0000-4612-4672"
+      },
+      {
+       "nombre": "Karina Jensen",
+       "orcid": "https://orcid.org/0000-0001-5905-5303"
+      }
+     ],
+     "resumen": "El trabajo propone una metodología proyectual para la regeneración urbana, articulando escenarios exploratorios, matrices evaluativas, tipologías estratégicas y estrategias situadas de adaptación dinámica. Se diseñaron dos matrices complementarias: Potencial Regenerativo, centrada en atributos ecológicos y funcionales, y Activación Socioespacial, orientada a relevar apropiación, participación y expresión simbólica. El cruce entre ambas permite construir tipologías estratégicas y orientar intervenciones sensibles al contexto. Aplicado en tres casos del casco fundacional de La Plata, provincia de Buenos Aires, Argentina, el enfoque valida su versatilidad para proyectar escenarios urbanos inclusivos, resilientes y ecosistémicos, integrando saberes técnicos y comunitarios desde el espacio público como unidad regenerativa.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 2.5",
+      "url": "https://creativecommons.org/licenses/by-nc-nd/2.5/ar/"
+     },
+     "url": "https://doi.org/10.62166/area.32.1.3985",
+     "doi": "10.62166/area.32.1.3985",
+     "paginas": "1-17",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.62166/area.32.1.3989",
+     "titulo": "Introducción al Dossier: Arquitectura, Diseño y Urbanismo en la era del cambio climático",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Federico Colombo Speroni",
+       "orcid": "https://orcid.org/0000-0002-1490-3759"
+      },
+      {
+       "nombre": "Fernando Murillo",
+       "orcid": "https://orcid.org/0009-0005-0442-6505"
+      }
+     ],
+     "resumen": "A pesar de la inédita revolución de información y ciencia, experimentada aceleradamente hacia el final del siglo XX, el inicio del nuevo milenio parece haber generado más incertidumbres que certezas. Desde cambios geopolíticos notables, la adopción de una cultura global que contrasta con el retorno de viejas disputas territoriales hasta el alarmante cambio climático negado por unos por lo inmovilizante que resulta, confrontado por otros con responsabilidad, pero todavía sin un conocimiento profundo necesario como para saber cómo enfrentar las múltiples amenazas de desastres, se configura un escenario complejo en el que la producción de conocimiento ya no puede disociarse de la acción.Este estado de incertidumbre que domina la ciencia contrasta con el ejercicio de la Arquitectura, el Diseño y el Urbanismo que al combinar técnica y arte juntamente imprime una actitud proactiva y audaz para experimentar planificando, diseñando y construyendo nuevas formas de hábitat humano que respondan a los desafíos particulares del contexto actual y del Sur Global, donde las soluciones técnicas se encuentran fuertemente condicionadas por la economía e idiosincrasia de sociedades desiguales.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 2.5",
+      "url": "https://creativecommons.org/licenses/by-nc-nd/2.5/ar/"
+     },
+     "url": "https://doi.org/10.62166/area.32.1.3989",
+     "doi": "10.62166/area.32.1.3989",
+     "paginas": "1-6",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.62166/area.32.1.3960",
+     "titulo": "Ismaili Thought and Islamic Architecture in Yemen During the Sulayhid Period (439-532 AH/1047-1137 AD). The Great Mosque of Jiblah as a Case Study",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Ahmed A. Al-Nehmi",
+       "orcid": "https://orcid.org/0009-0000-7127-4664"
+      },
+      {
+       "nombre": "Akram A. Alabsi",
+       "orcid": "https://orcid.org/0000-0002-3267-2608"
+      },
+      {
+       "nombre": "Mohammed N. Juaim",
+       "orcid": "https://orcid.org/0009-0001-9995-7392"
+      }
+     ],
+     "resumen": "The current research deals with an era in the history of Islamic civilization in which the Sulayhid state ruled in Yemen. The problem of the research centers on the lack of architectural studies that addressed architecture from the analytical aspect as well as the artistic and intellectual. It aims to study the possible influence of Ismaili Tayyibi thought on Islamic architecture through studying the symbolic aspects of Ismaili thought in the architectural elements included in Islamic architecture, which were built during the Sulayhid rule. The methodology is based on the symbolic approach, which focuses on studying the culture of society, to know the symbolic systems through which society expresses its culture and beliefs. It is formed through constructing an intellectual model that includes the principles of Ismaili thought and its teachings. Then, it is applied to the architecture, and choosing the Great Mosque in Jiblah as a model. The research concluded by extracting a set of architectural characteristics that distinguished Sulayhid architecture. It also concluded that Ismaili Tayyibi thought relies heavily on symbolic thought in extracting the inner meanings of spiritual truths. Interpretation, guardianship, and the idea of the inner “Al-Batin” and outer “Azzahir”, may be understood as expressions of this symbolic mode of thought. In this light, some features of the Great Mosque in Jiblah may be interpreted as reflecting this thought through architectural signs and symbolic forms.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 2.5",
+      "url": "https://creativecommons.org/licenses/by-nc-nd/2.5/ar/"
+     },
+     "url": "https://doi.org/10.62166/area.32.1.3960",
+     "doi": "10.62166/area.32.1.3960",
+     "paginas": "1-27",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.62166/area.32.1.3984",
+     "titulo": "Observatorio de energía en vivienda. Aportes al fortalecimiento institucional frente al cambio climático",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Ariel Omar Español",
+       "orcid": "https://orcid.org/0009-0001-4197-5248"
+      }
+     ],
+     "resumen": "El artículo examina el potencial de un Observatorio de Políticas Públicas especializado en Energía en Vivienda (OPP-EV) como instrumento de fortalecimiento institucional frente al cambio climático. A partir del análisis de marcos conceptuales, antecedentes internacionales y normativa argentina, se delimita su encuadre y relevancia. Se describen sus roles, productos y flujos de información, destacando su capacidad para generar insumos para la toma de decisiones. Los resultados señalan vacíos en la legislación del sector residencial y la necesidad de incorporar criterios de eficiencia energética, energías renovables y diseño bioambiental.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 2.5",
+      "url": "https://creativecommons.org/licenses/by-nc-nd/2.5/ar/"
+     },
+     "url": "https://doi.org/10.62166/area.32.1.3984",
+     "doi": "10.62166/area.32.1.3984",
+     "paginas": "1-21",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.62166/area.32.1.3958",
+     "titulo": "Propuesta para modelar el desarrollo territorial con un enfoque socioecosistémico. El caso del sureste mexicano",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Lorelei Ramírez Reyes Brito",
+       "orcid": "https://orcid.org/0009-0000-3131-4625"
+      },
+      {
+       "nombre": "Carlos Díaz Ávalos",
+       "orcid": "https://orcid.org/0000-0002-1455-8676"
+      },
+      {
+       "nombre": "Eftychia D. Bournazou Marcou",
+       "orcid": "https://orcid.org/0000-0002-1115-8167"
+      }
+     ],
+     "resumen": "El desarrollo territorial puede profundizar desigualdades a distintas escalas, por lo que la planeación con sentido de justicia socioespacial precisa considerar, desde su diseño, las relaciones de poder preexistentes. Este artículo propone un método para el monitoreo y la evaluación interdisciplinaria del desarrollo territorial sustentable en el sureste mexicano mediante el análisis de redes sociales a escala municipal. Con datos censales y de la Red Nacional de Medición de Calidad del Agua, se examinan los saldos migratorios, los desplazamientos cotidianos por motivos laborales y la presencia de nitratos en el agua subterránea, para caracterizar los desequilibrios entre municipalidades desde un enfoque socioecosistémico.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 2.5",
+      "url": "https://creativecommons.org/licenses/by-nc-nd/2.5/ar/"
+     },
+     "url": "https://doi.org/10.62166/area.32.1.3958",
+     "doi": "10.62166/area.32.1.3958",
+     "paginas": "1-23",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.62166/area.32.1.3962",
+     "titulo": "Reseña de libro. Producción y consumo en el capitalismo de las plataformas",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Agustín Pignata",
+       "orcid": "https://orcid.org/0009-0000-8911-612X"
+      }
+     ],
+     "resumen": "Plataformas de streaming. Una economía de la dispersión es un libro desarrollado por el Grupo de Estudios sobre Plataformas e Interfaces (GPI), bajo la dirección de Agustín Berti y publicado por la Editorial de la Universidad Nacional de Córdoba. El texto invita a reflexionar en torno a estas presencias ubicuas de la cultura audiovisual contemporánea: las plataformas de video a demanda (VOD), dispositivos técnicos que, al igual que en su momento el cine o la televisión, se constituyen como el estándar de la experiencia sensible de su época.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 2.5",
+      "url": "https://creativecommons.org/licenses/by-nc-nd/2.5/ar/"
+     },
+     "url": "https://doi.org/10.62166/area.32.1.3962",
+     "doi": "10.62166/area.32.1.3962",
+     "paginas": "1-4",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.62166/area.32.1.3983",
+     "titulo": "Resiliencia desde la evidencia. Datos energéticos y climáticos para la adaptación en barrios populares. El caso del Barrio Padre Mugica",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Hernán Baulo Darhanpé",
+       "orcid": "https://orcid.org/0009-0009-4237-7205"
+      }
+     ],
+     "resumen": "El cambio climático interpela las formas tradicionales de producción del hábitat urbano en América Latina, especialmente en los barrios populares, donde la vulnerabilidad social, ambiental y energética se entrelazan. En este contexto, la disponibilidad y el uso de datos empíricos constituyen un recurso clave para orientar decisiones de política pública basadas en evidencia, promoviendo estrategias de adaptación y resiliencia más efectivas.Este artículo aborda el caso del Barrio Padre Mugica, en la ciudad de Buenos Aires, como escenario paradigmático de las tensiones entre desigualdad, derecho al hábitat y eficiencia energética. A partir de auditorías energéticas, monitoreos in situ y relevamientos climáticos realizados entre 2020 y 2023, se analizan las condiciones térmicas reales de las viviendas, las pérdidas energéticas a través de la envolvente y los patrones de uso doméstico de la energía. La comparación entre las mediciones empíricas y los modelos de simulación permite identificar brechas significativas entre el desempeño teórico y el comportamiento observado, evidenciando cómo los factores constructivos, económicos y culturales inciden en las estrategias cotidianas de confort y adaptación al clima.Los resultados ponen de relieve el valor del conocimiento técnico-territorial para la formulación de políticas públicas orientadas a la reducción de la pobreza energética y la mejora del hábitat. En este sentido, se propone un enfoque de resiliencia desde la evidencia, en el que los datos sobre consumo, temperatura y comportamiento térmico no sólo sirven para describir la vulnerabilidad, sino que se transforman en insumos estratégicos para la toma de decisiones y la planificación de intervenciones urbanas.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 2.5",
+      "url": "https://creativecommons.org/licenses/by-nc-nd/2.5/ar/"
+     },
+     "url": "https://doi.org/10.62166/area.32.1.3983",
+     "doi": "10.62166/area.32.1.3983",
+     "paginas": "1-20",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.62166/area.32.1.3779",
+     "titulo": "Visualizar para transformar. Diseño y divulgación científica en Chile",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Clarisa Menteguiaga",
+       "orcid": "https://orcid.org/0000-0001-6789-561X"
+      }
+     ],
+     "resumen": "La investigación examina la relación entre el diseño y la divulgación científica y socioambiental, enfatizando la comunicación visual como herramienta para traducir y transformar conocimiento. A partir de entrevistas y estudios de caso, se identificaron patrones y significados emergentes en proyectos chilenos que convierten datos científicos complejos en formatos accesibles y sensorialmente enriquecidos. Diseñadoras como Manuela Garretón y María Paz Ochagavía hicieron visibles procesos biológicos imperceptibles, articulando información con experiencia. Iniciativas como revista Endémico, Fundación Mar Adentro y Ladera Sur evidencian que el diseño no sólo comunica información, sino que reorganiza saberes, humaniza datos y fortalece la alfabetización científica, fomentando reflexión crítica y acción social.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 2.5",
+      "url": "https://creativecommons.org/licenses/by-nc-nd/2.5/ar/"
+     },
+     "url": "https://doi.org/10.62166/area.32.1.3779",
+     "doi": "10.62166/area.32.1.3779",
+     "paginas": "1-14",
+     "fuente": "Crossref"
+    }
+   ]
+  },
+  {
+   "id": "2025",
+   "volumen": null,
+   "numero": null,
+   "anio": 2025,
+   "fecha": "2025-12-23",
+   "etiqueta": "Publicación continua (2025)",
+   "fuente": "Crossref",
+   "articulos": [
+    {
+     "id": "10.62166/area.31.1.3101",
+     "titulo": "Claroscuro Secuencial. La luz como proyecto",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Nicolás Pablo Neira",
+       "orcid": null
+      }
+     ],
+     "resumen": "Claroscuro Secuencial propone la luz como una herramienta proyectual clave en la Arquitectura, permitiendo desarrollar sistemas que exploran el vínculo recíproco y sistemático entre la luz y la forma arquitectónica. El claroscuro, proveniente de disciplinas como la pintura, posee un valor enriquecedor y estimulante para la arquitectura, haciendo posible considerarla como generatriz proyectual. Se incorpora su técnica con el objeto de que forme parte central en el procedimiento configurador de la arquitectura explotando las capacidades proyectivas que la luz posee en estado de latencia.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 2.5",
+      "url": "https://creativecommons.org/licenses/by-nc-nd/2.5/ar/"
+     },
+     "url": "https://doi.org/10.62166/area.31.1.3101",
+     "doi": "10.62166/area.31.1.3101",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.62166/area.31.1.2993",
+     "titulo": "El mapa invertido",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Adriana Laura Massidda",
+       "orcid": "https://orcid.org/0000-0001-8735-7990"
+      }
+     ],
+     "resumen": "Este artículo analiza la inversión del mapa del continente sudamericano presentada en el poema y libro Amereida entendiéndola como parte esencial de la búsqueda del colectivo que lo escribe: “hallar” el destino del continente americano. Amereida fue escrito e ilustrado colectivamente en 1965 por un grupo de poetas, escultores, arquitectos y filósofos para registrar su travesía (viaje y acto poético) a través de la Patagonia y la Pampa. Al invertir el mapa, Amereida coloca al Sur, como punto geográfico y como meta, al centro de la empresa poético-intelectual que tiene entre manos, subvirtiendo jerarquías y reescribiendo otros cruces anteriores del espacio pampeano. A través de esta representación espacial del poema, entonces, y no sin limitaciones, Amereida busca no sólo “hallar” sino también construir, cuestionar, interrogar esa identidad americana despegando la mirada de Europa.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 2.5",
+      "url": "https://creativecommons.org/licenses/by-nc-nd/2.5/ar/"
+     },
+     "url": "https://doi.org/10.62166/area.31.1.2993",
+     "doi": "10.62166/area.31.1.2993",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.62166/area.31.2.3631",
+     "titulo": "Estudo de caso de três residências de Frank Lloyd Wright. Como o levantamento e a análise por meio de um sistema de notação de cromática auxilia na apreciação de projetos arquitetônicos",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Maria Fernanda Pilotto Brandi",
+       "orcid": "https://orcid.org/0009-0003-7834-7549"
+      },
+      {
+       "nombre": "João Carlos De Oliveira Cesar",
+       "orcid": "https://orcid.org/0000-0002-7090-8749"
+      }
+     ],
+     "resumen": "O presente artigo analisa três obras do arquiteto norte-americano Frank Lloyd Wright (1867–1959), a Casa Darwin D. Martin (1903), a Casa Graycliff (1926) e a Casa da Cascata (1934), a partir de um levantamento realizado com base no sistema cromático NCS (Natural Colour System). O objetivo é demonstrar como a utilização de sistemas cromáticos podem contribuir, não apenas para o registro e a preservação de edificações, mas também para a análise do projeto de arquitetura, inclusive em obras de arquitetos consagrados como Wright. Tal abordagem oferece uma perspectiva alternativa, a partir do ponto de vista historiográfico, tecnológico e de projeto, muitas vezes resultando uma análise inédita no campo da arquitetura. Inicialmente, foram produzidas fichas cromáticas que sintetizam o levantamento e as paletas correspondentes de cada estudo de caso. A partir desses dados, realizaram-se análises da quantidade de branco (W), da cromaticidade (c) e dos matizes dos materiais utilizados nas obras. Os resultados revelam que Frank Lloyd Wright possuía uma compreensão sensível e subjetiva dos atributos cromáticos, aplicando-os de maneira intencional e integrada à linguagem arquitetônica. Essa aplicação consciente evidencia o papel essencial da cor na construção da atmosfera dos espaços projetados, de modo que qualquer alteração cromática comprometeria a integridade da experiência arquitetônica pretendida pelo arquiteto.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 2.5",
+      "url": "https://creativecommons.org/licenses/by-nc-nd/2.5/ar/"
+     },
+     "url": "https://doi.org/10.62166/area.31.2.3631",
+     "doi": "10.62166/area.31.2.3631",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.62166/area.31.2.3650",
+     "titulo": "Introducción al Dossier: Color en Arquitectura, Diseño y Urbanismo",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Verena M. Schindler",
+       "orcid": "https://orcid.org/0000-0002-2342-0230"
+      },
+      {
+       "nombre": "José Luis Caivano",
+       "orcid": "https://orcid.org/0000-0003-2047-4919"
+      },
+      {
+       "nombre": "Juan Serra Lluch",
+       "orcid": "https://orcid.org/0000-0001-6171-1285"
+      }
+     ],
+     "resumen": "Todas las disciplinas que trabajan en la generación y transformación del entorno habitable se involucran de alguna manera en la gestión de la luz y el color. Las implicancias del uso de la luz, los colores y las sustancias con las que se trabaja en la actividad proyectual en estas épocas de desarrollos tecnológicos avanzados, merecen ser investigadas en el ámbito académico en relación con las técnicas, los diseños, la arquitectura y los espacios urbanos.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 2.5",
+      "url": "https://creativecommons.org/licenses/by-nc-nd/2.5/ar/"
+     },
+     "url": "https://doi.org/10.62166/area.31.2.3650",
+     "doi": "10.62166/area.31.2.3650",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.62166/area.31.2.3449",
+     "titulo": "Iterations and translations. The role of painting as a discursive tool for collaborative colour design practice in architecture",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Fiona McLachlan",
+       "orcid": "https://orcid.org/0000-0002-1017-152X"
+      }
+     ],
+     "resumen": "El diseño de color en arquitectura es un proceso de investigación iterativo, que incluye experimentación, testeo y ajuste. En cada etapa, la decisión personal juega un papel importante en el refinamiento y la resolución de un diseño, mientras que las diferentes opiniones deberán ser abordadas mediante debates. Este artículo describe los métodos, técnicas y procedimientos utilizados en la evolución del diseño de color para la renovación de dos bloques de viviendas brutalistas de la década del sesenta en Edimburgo, Escocia. La metodología de investigación para el proyecto se basa en los métodos experienciales y analógicos desarrollados por “Haus der Farbe” en Zúrich, Suiza. En este caso, sin embargo, se utilizan pinturas abstractas y collages junto con herramientas digitales para facilitar el desarrollo de un diseño de color dentro de las convenciones de la práctica arquitectónica contemporánea. El objetivo era desarrollar una estrategia de color que guiara las decisiones a través de iteraciones y traducciones posteriores que son una parte inevitable del proceso de diseño.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 2.5",
+      "url": "https://creativecommons.org/licenses/by-nc-nd/2.5/ar/"
+     },
+     "url": "https://doi.org/10.62166/area.31.2.3449",
+     "doi": "10.62166/area.31.2.3449",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.62166/area.31.2.3648",
+     "titulo": "Los croquis en acuarela de Steven Holl. Luz y color en la Capilla de San Ignacio",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Camila Pinheiro Consani",
+       "orcid": "https://orcid.org/0000-0001-9388-7445"
+      },
+      {
+       "nombre": "João Carlos De Oliveira César",
+       "orcid": "https://orcid.org/0000-0002-7090-8749"
+      },
+      {
+       "nombre": "Paulo Sergio Scarazzato",
+       "orcid": "https://orcid.org/0000-0002-1157-4072"
+      }
+     ],
+     "resumen": "La luz y el color desempeñan un papel fundamental en el proyecto arquitectónico, influyendo en la percepción espacial y en la forma de la obra desde los primeros croquis. El arquitecto Steven Holl incorpora estos elementos de manera sensible e innovadora, en sintonía con su enfoque fenomenológico. Sus croquis en acuarela, como los realizados para la Capilla de San Ignacio, exploran los efectos de la luz y el color, articulando experiencias envolventes que amplían la percepción del espacio.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 2.5",
+      "url": "https://creativecommons.org/licenses/by-nc-nd/2.5/ar/"
+     },
+     "url": "https://doi.org/10.62166/area.31.2.3648",
+     "doi": "10.62166/area.31.2.3648",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.62166/area.31.1.3126",
+     "titulo": "Política pública, gestión del hábitat y fortalecimiento del componente tecnológico como horizonte programático para el diseño social",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Pedro Senar",
+       "orcid": null
+      }
+     ],
+     "resumen": "Este artículo intenta describir y analizar una de las áreas de concepción y aplicación del diseño social en Argentina durante el presente siglo. Refiere al fortalecimiento tecnológico del tejido productivo popular, con horizontes en el incremento de su participación en procesos de transformación sociourbana. Prácticas de carácter proyectual en y para el hábitat popular, con atención a la incorporación sistémica del componente tecnológico productivo en los procesos de transformación.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 2.5",
+      "url": "https://creativecommons.org/licenses/by-nc-nd/2.5/ar/"
+     },
+     "url": "https://doi.org/10.62166/area.31.1.3126",
+     "doi": "10.62166/area.31.1.3126",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.62166/area.31.2.3488",
+     "titulo": "Prefabricación e industrialización en viviendas estatales del primer peronismo (1946-1955). La experiencia del posterremoto de 1944 (San Juan, Argentina)",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Verónica Cremaschi",
+       "orcid": "https://orcid.org/0000-0003-4408-4018"
+      },
+      {
+       "nombre": "José Alejandro Gómez Voltán",
+       "orcid": "https://orcid.org/0000-0002-6511-4055"
+      }
+     ],
+     "resumen": "Las técnicas de prefabricación e industrialización en la arquitectura de vivienda fueron incorporadas paulatinamente en la Argentina de la primera mitad del siglo XX. Implementadas inicialmente de manera aislada por privados, durante el primer peronismo (1946-1955) comenzaron las experimentaciones con nuevos materiales y técnicas en programas estatales.En este contexto, resulta interesante atender a lo ocurrido en San Juan, cuya ciudad y alrededores fueron destruidos por un sismo en 1944, lo que condujo a una reconstrucción casi total y dio oportunidad de desplegar los adelantos en materia de construcción.Nos proponemos analizar las ideas y realizaciones en torno al empleo de la prefabricación y la industrialización en viviendas estatales durante el período.Para ello, recurrimos a diversas fuentes que permiten trazar una genealogía de la prefabricación e industrialización de viviendas en Argentina, y puntualizar sus aspectos tecnológicos y materiales, una arista escasamente abordada por la historiografía.Como resultado observamos que la necesidad habitacional propició numerosas propuestas de materiales y procedimientos técnicos innovadores que prometían abaratar costos y acelerar los tiempos, a nivel nacional. Estos adelantos, en la coyuntura posterremoto, posibilitaron experiencias pioneras en la edificación de viviendas estatales de forma planificada y a gran escala, un hecho inédito en la región que fue capitalizado relativamente en futuras experiencias.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 2.5",
+      "url": "https://creativecommons.org/licenses/by-nc-nd/2.5/ar/"
+     },
+     "url": "https://doi.org/10.62166/area.31.2.3488",
+     "doi": "10.62166/area.31.2.3488",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.62166/area.31.1.3127",
+     "titulo": "Procedimientos operativos estratégicos para la generación de análisis espacial y temporal de la cobertura y uso del suelo en las áreas urbanas del AMBA (2003-2022)",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Diana De Pietri",
+       "orcid": null
+      },
+      {
+       "nombre": "Patricia Dietrich",
+       "orcid": null
+      },
+      {
+       "nombre": "Silvia Boglioli",
+       "orcid": null
+      },
+      {
+       "nombre": "Alejandro Carcagno",
+       "orcid": null
+      },
+      {
+       "nombre": "María Adela Igarzabal",
+       "orcid": null
+      }
+     ],
+     "resumen": "El crecimiento urbano acelerado ha causado cambios profundos en el uso del suelo, lo que ha resultado en la pérdida de biodiversidad y la disminución de los servicios ecosistémicos. Esta situación plantea importantes desafíos ecológicos y sociales, lo que resalta la necesidad de metodologías integradoras para evaluar y abordar el impacto de las actividades humanas en los ecosistemas.La evaluación del impacto ambiental derivado de los cambios en la cobertura y uso del suelo en el Área Metropolitana de Buenos Aires (AMBA) durante el período 2003-2022 permitió caracterizar transformaciones clave en el territorio. A través del uso de herramientas tecnológicas de acceso libre y código abierto, como imágenes satelitales, se analizaron procesos tales como la pérdida de superficie verde, la degradación de la integridad del paisaje y el deterioro del valor ecosistémico, con especial énfasis en la reducción de la permeabilidad del suelo.Asimismo, se ajustaron procedimientos operativos estratégicos que integran estas tecnologías para el monitoreo ambiental y el análisis geográfico. Este enfoque facilitó el establecimiento de aspectos de los servicios ecosistémicos relacionados con los espacios verdes urbanos, sirviendo como guía para la creación de estándares orientados a la toma de decisiones estratégicas. Estas medidas tienen como objetivo mejorar la calidad de vida y fortalecer la resiliencia urbana frente a los desafíos del crecimiento acelerado.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 2.5",
+      "url": "https://creativecommons.org/licenses/by-nc-nd/2.5/ar/"
+     },
+     "url": "https://doi.org/10.62166/area.31.1.3127",
+     "doi": "10.62166/area.31.1.3127",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.62166/area.31.2.3568",
+     "titulo": "Reseña de colección. Conversaciones sobre diseño y creatividad",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Mariel Szlifman",
+       "orcid": "https://orcid.org/0000-0003-4591-8774"
+      }
+     ],
+     "resumen": "Conversaciones sobre diseño y creatividad (en adelante Conversaciones) podría definirse como una colección de libros basada en conversaciones con personalidades de las industrias creativas. Una colección “creada por diseñadores para diseñadores”. Sin embargo, esta descripción no alcanza para dar cuenta de la dimensión del proyecto creado por Natalia Pano, Ezequiel Cafaro y Pablo Acuña (diseñadores, profesores y editores). Conversaciones sobre Diseño y Creatividad. Volúmenes 1 a 4Natalia Pano, Ezequiel Cafaro y Pablo AcuñaCABA. Capitular Libros.Idioma españolhttps://www.capitular.com.ar/libros/",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 2.5",
+      "url": "https://creativecommons.org/licenses/by-nc-nd/2.5/ar/"
+     },
+     "url": "https://doi.org/10.62166/area.31.2.3568",
+     "doi": "10.62166/area.31.2.3568",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.62166/area.31.2.3647",
+     "titulo": "Transformaciones cromáticas. Viviendas unifamiliares en la Ciudad de San Juan, Departamento Capital, Argentina",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Mariela Érica Aguirre",
+       "orcid": null
+      }
+     ],
+     "resumen": "El presente trabajo se formula como continuación de la línea de investigación urbana sostenida en diversos proyectos realizados en el Gabinete de Formas del Departamento Arquitectura de la Facultad de Arquitectura, Urbanismo y Diseño (FAUD) de Universidad Nacional de San Juan. Se encuentra contenida dentro del marco epistemológico de la morfología urbana y arquitectónica, y del color en el entorno urbano. Planteamos como objetivo general indagar sobre las transformaciones cromáticas realizadas en viviendas unifamiliares a partir de la construcción de paletas de color original y actual, para avanzar en la caracterización del uso y evolución del color en sectores representativos de la Ciudad de San Juan. Las paletas constituyen un documento operativo en el que se reproducen las gamas cromáticas originales y actuales, según las preferencias de los usuarios, y revelan la variación de la estructura cromática localizada y particular. La metodología empleada es de tipo aplicada, de base descriptiva y exploratoria, y se estructura en cuatro fases: 1) conceptual, 2) analítica (estudio de casos), 3) interpretación y síntesis (paletas cromáticas), y 4) exploratoria (transformaciones cromáticas). Uno de los principales resultados es la creación de un procedimiento metodológico para el análisis de las transformaciones cromáticas, a partir de la síntesis visual del color ordenada según el Sistema Natural del Color (NCS, por sus siglas en inglés), la elaboración de paletas cromáticas –original y actual– mediante medios informáticos y el análisis de las transformaciones morfológicas realizadas al prototipo original en viviendas unifamiliares de sectores urbanos seleccionados como casos de estudio.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 2.5",
+      "url": "https://creativecommons.org/licenses/by-nc-nd/2.5/ar/"
+     },
+     "url": "https://doi.org/10.62166/area.31.2.3647",
+     "doi": "10.62166/area.31.2.3647",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.62166/area.31.2.3630",
+     "titulo": "What do the colours of the MET Gala reveal about Western situation? A semiotics inquiry",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Luca Losardo",
+       "orcid": null
+      }
+     ],
+     "resumen": "How can we understand which are the values circulating in a semiosphere —a topological space where meaning circulate linked to a specific culture— by looking at the colours? Our hypothesis is that, considering Oberascher’s cycle of colour phases, and confronting it with the colours trends proposed on runways, the Met Gala, and Pantone “Colour of the Year”, it is possible to attest the situation of our semiosphere, i.e., explosion, stability, growth or extinction of meaning attribution from a culture. If there is a change in the order of the cycle, it will mean an explosion of the semiosphere; if there is a stability, the colours are going to gradually change; if there is a growth, there is a rhythm; if there is extinction, there is a stagnation of a phase over prolonged time. Therefore, which is the condition of the Western semiosphere? Focusing on the colour presented at the Met Gala and on the Pantone “New Year Colour” selection, the answer that emerges is that the semiosphere is, at the moment, in an explosive phase: there are big swings in action, changes that are conducting to a switch of values related to the thirties, such as technological advancement and political recession that could lead to the extinction of the semiosphere.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 2.5",
+      "url": "https://creativecommons.org/licenses/by-nc-nd/2.5/ar/"
+     },
+     "url": "https://doi.org/10.62166/area.31.2.3630",
+     "doi": "10.62166/area.31.2.3630",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.62166/area.31.2.3382",
+     "titulo": "Arquitectura en Loja, Ecuador. Primer proyecto religioso con características modernas.",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Oswaldo Patricio Prieto Jiménez",
+       "orcid": "https://orcid.org/0000-0002-5427-5582"
+      }
+     ],
+     "resumen": "Esta investigación analiza la primera obra de arquitectura religiosa moderna en Loja, Ecuador: la Capilla de la Medalla Milagrosa de Marcelo Rodríguez Palacios de 1962. El estudio comienza con una revisión de los atributos de la arquitectura moderna y su evolución en Ecuador, enfocándose en su manifestación en la ciudad de Loja. Se examinan aspectos clave de la obra, tales como su relación con el entorno urbano, los componentes fundamentales y su composición formal. Finalmente, se analiza la aplicación de los principios de la modernidad y su vínculo con el entorno cultural, destacando su relevancia en la evolución de la arquitectura religiosa en Ecuador.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 2.5",
+      "url": "https://creativecommons.org/licenses/by-nc-nd/2.5/ar/"
+     },
+     "url": "https://doi.org/10.62166/area.31.2.3382",
+     "doi": "10.62166/area.31.2.3382",
+     "paginas": "1-27",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.62166/area.31.2.3635",
+     "titulo": "Incorporación de tecnologías solares en el diseño de viviendas sociales. Experiencia didáctica con estudiantes avanzados de Arquitectura",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Alción de las Pléyades Alonso Frank",
+       "orcid": "https://orcid.org/0000-0002-9227-3449"
+      },
+      {
+       "nombre": "Osvaldo Gastón Blanco Coria",
+       "orcid": "https://orcid.org/0009-0002-6137-4105"
+      },
+      {
+       "nombre": "María Celina Michaux María Celina Michaux",
+       "orcid": "https://orcid.org/0000-0003-0347-6402"
+      }
+     ],
+     "resumen": "En un contexto de aumento récord de temperaturas y emisiones en ciudades, donde el sector residencial es el mayor consumidor de energía edilicia, urge implementar políticas sustentables de vivienda, en especial en emplazamientos con recurso solar favorable. Mediante una metodología mixta y técnicas participativas con fines educativos, el presente trabajo expone los avances de un proyecto de investigación cuyo objetivo es la capacitación práctica de estudiantes avanzados de Arquitectura en la incorporación de tecnologías solares fotovoltaicas y térmicas en viviendas sociales, desarrollada en el Área Metropolitana de San Juan, Argentina. En talleres basados en el aprendizaje por proyectos, se abordan aspectos técnicos, normativos y de diseño para integrar sistemas solares como aportes a la arquitectura social. Se concluye que la propuesta interpela sobre la importancia de replantear el diseño arquitectónico en beneficio de la independencia energética y la sostenibilidad, obteniendo reducciones de 2.068 kgCO2/vivienda por año.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 2.5",
+      "url": "https://creativecommons.org/licenses/by-nc-nd/2.5/ar/"
+     },
+     "url": "https://doi.org/10.62166/area.31.2.3635",
+     "doi": "10.62166/area.31.2.3635",
+     "paginas": "1-22",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.62166/area.31.2.3395",
+     "titulo": "La Bolsa de Comercio de Mendoza y la revista Oeste. Cruces entre institucionalidad, diseño y cultura visual (1962-1973)",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "María Laura Copia",
+       "orcid": "https://orcid.org/0000-0003-0401-0911"
+      }
+     ],
+     "resumen": "La Bolsa de Comercio de Mendoza (BCM) es una institución bursátil y comercial privada fundada en 1942. En la década del sesenta este organismo se propuso vincularse a la escena cultural provincial. Esta orientación se cristalizó en dos acciones significativas: la creación de la revista Oeste (1962-1973) y, posteriormente, la conformación de la “Fundación Bolsa de Comercio de Mendoza” en 1964. En este artículo nos proponemos analizar las estrategias mediante las cuales la BCM creó lazos con la escena cultural y artística de Mendoza a través del estudio de caso de los concursos abiertos para la ilustración de portadas de Oeste. Concebida como house organ de la entidad, las portadas se convirtieron en una plataforma de comunicación visual, la cual mostró una apertura hacia las vanguardias artísticas y de diseño en un contexto provincial en transformación. El análisis pone de relieve los cruces entre el mecenazgo institucional, la producción cultural y el lenguaje visual de la vanguardia poniendo en tensión los límites entre el arte, el diseño y la comunicación.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 2.5",
+      "url": "https://creativecommons.org/licenses/by-nc-nd/2.5/ar/"
+     },
+     "url": "https://doi.org/10.62166/area.31.2.3395",
+     "doi": "10.62166/area.31.2.3395",
+     "paginas": "1-17",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.62166/area.32.1.3678",
+     "titulo": "Perderse para encontrarse. El laberinto como experiencia corpórea",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Lorena Ortiz",
+       "orcid": null
+      },
+      {
+       "nombre": "Lucas Ariza Parrado",
+       "orcid": "https://orcid.org/0000-0002-4992-7099"
+      },
+      {
+       "nombre": "Karen Aune",
+       "orcid": null
+      }
+     ],
+     "resumen": "Este artículo examina la relación entre el cuerpo y el laberinto desde una perspectiva filosófica, simbólica y espacial. A partir de la figura arquetípica del laberinto y su evolución cultural, se diferencian dos formas principales: el laberinto lineal o unicursal, que guía sin pérdida hacia un centro, y el laberinto no lineal o multicursal, que ofrece múltiples caminos y posibilidades de perderse. Desde esta última forma, se plantea que el extravío ya no implica castigo ni muerte, sino una forma activa de conocimiento y autodescubrimiento. A través del cuerpo, que percibe, se pierde y juega, el laberinto se convierte en un espacio de experiencia vital más que en una estructura para ser resuelta. Se analizan las nociones de extravío, presencia y refugio como claves para repensar el lugar del cuerpo en los espacios no lineales.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 2.5",
+      "url": "https://creativecommons.org/licenses/by-nc-nd/2.5/ar/"
+     },
+     "url": "https://doi.org/10.62166/area.32.1.3678",
+     "doi": "10.62166/area.32.1.3678",
+     "paginas": "1-14",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.62166/area.31.2.3392",
+     "titulo": "Planificación de servicios en la periferia del conurbano bonaerense",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Clara Zuñiga",
+       "orcid": "https://orcid.org/0009-0009-8668-2922"
+      }
+     ],
+     "resumen": "En este artículo se identifican los avances recientes en la planificación y prestación de los servicios de agua y cloacas en nueve partidos del conurbano bonaerense incorporados a Aguas y Saneamientos Argentinos SA entre 2015 y 2022, a partir de una metodología que combina análisis documental, entrevistas biográficas y análisis estadístico y georreferenciado. Se demostró que, pese al fortalecimiento en la coordinación y los esfuerzos en materia de cobertura, especialmente de cloacas, no se logró acompañar el crecimiento poblacional y la urgencia socioambiental, esto indicó tensiones entre la política del sector y las demandas sociales.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 2.5",
+      "url": "https://creativecommons.org/licenses/by-nc-nd/2.5/ar/"
+     },
+     "url": "https://doi.org/10.62166/area.31.2.3392",
+     "doi": "10.62166/area.31.2.3392",
+     "paginas": "1-21",
+     "fuente": "Crossref"
+    }
+   ]
+  },
+  {
+   "id": "2024",
+   "volumen": null,
+   "numero": null,
+   "anio": 2024,
+   "fecha": "2024-12-23",
+   "etiqueta": "Publicación continua (2024)",
+   "fuente": "Crossref",
+   "articulos": [
+    {
+     "id": "10.62166/area.31.1.2971",
+     "titulo": "La revista como un artefacto cultural",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "José De Nordenflycht",
+       "orcid": "https://orcid.org/0000-0003-0237-4607"
+      }
+     ],
+     "resumen": "En este libro su autora nos promete noticias ciertas de casi 900 revistas publicadas a lo largo de 141 años, desde 1874 hasta 2015, año del comienzo del fin para el papel en las revistas, todo desplegado en apenas 236 páginas. Toda una gesta de precisión y síntesis que anuncia una enorme promesa. La autora impone como referente el soporte del papel como el atributo definitorio de una entidad material consustancial a su corpus: revistas impresas. Por lo que la pregunta con que podemos disponernos a leer este libro no es obvia ¿qué es una revista de arquitectura?",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 2.5",
+      "url": "https://creativecommons.org/licenses/by-nc-nd/2.5/ar/"
+     },
+     "url": "https://doi.org/10.62166/area.31.1.2971",
+     "doi": "10.62166/area.31.1.2971",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.62166/area.31.1.2976",
+     "titulo": "Notas en torno a la noción de evidencia empírica para la investigación en arquitectura, diseño y urbanismo",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Ana Cravino",
+       "orcid": "https://orcid.org/0000-0002-4770-9274"
+      }
+     ],
+     "resumen": "El objetivo de este artículo es reflexionar sobre la noción de evidencia empírica en las investigaciones en Arquitectura, Diseño y Urbanismo, noción indispensable para la validación de hipótesis. Para lo cual se hace necesario desmontar algunos malos entendidos y avanzar en torno a la definición del conocimiento disciplinar.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 2.5",
+      "url": "https://creativecommons.org/licenses/by-nc-nd/2.5/ar/"
+     },
+     "url": "https://doi.org/10.62166/area.31.1.2976",
+     "doi": "10.62166/area.31.1.2976",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.62166/area.30.2.2718",
+     "titulo": "Terminales de transporte férreo de pasajeros. Planificación y diseño, esquema para Colombia",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Julián Rodrigo Quintero González",
+       "orcid": "https://orcid.org/0000-0001-5238-4067"
+      }
+     ],
+     "resumen": "Las terminales ferroviarias son infraestructuras del transporte especializadas que generan impactos importantes en el desarrollo urbano y regional en los territorios en los que tienen influencia. Sin embargo, el conocimiento teórico y práctico aplicado a la planificación y diseño de este tipo de proyectos de infraestructura de transporte es limitado. El objetivo es describir los aspectos generales a considerar en la planificación y diseño de una terminal de transporte ferroviario de pasajeros. La metodología consiste en la exploración de los aspectos generales que definen la demanda de infraestructura férrea, el establecimiento del sitio para el emplazamiento de la terminal ferroviaria y los impactos generados en el ambiente; asimismo, se abordan los aspectos relativos a la disposición de espacios, instalaciones y equipamiento para la terminal ferroviaria. A partir de estos elementos y del examen del marco normativo aplicable en el ordenamiento jurídico colombiano, se propone un esquema lógico para la planificación y diseño de terminales de transporte férreo de pasajeros para Colombia. Se concluye sobre la complejidad de los análisis para la planificación y diseño de este tipo de proyectos, la necesidad de un desarrollo futuro del esquema piloto propuesto y su aplicabilidad en contextos geográficos regionales.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 2.5",
+      "url": "https://creativecommons.org/licenses/by-nc-nd/2.5/ar/"
+     },
+     "url": "https://doi.org/10.62166/area.30.2.2718",
+     "doi": "10.62166/area.30.2.2718",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.62166/area.31.1.2972",
+     "titulo": "Vivienda social. Flexibilidad e igualdad de género. Análisis disciplinar de un caso reciente desde la vida cotidiana.",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Diego Martín Fiscarelli",
+       "orcid": "https://orcid.org/0000-0002-7087-0816"
+      }
+     ],
+     "resumen": "Este trabajo plantea como objetivo, verificar la consideración de género y flexibilidad en la producción habitacional estatal reciente. Atendiendo a este propósito, ambos conceptos de comprenden como variables, en el marco de una serie de procedimientos gráficos de análisis. En términos metodológicos se trata de un estudio de caso, que toma un modelo instrumental denominado “vivienda individual contigua entre medianeras”, del Subprograma “Casa propia-construir futuro” del Ministerio de Desarrollo Territorial y Hábitat de la Nación (2021-2023). A partir de la valoración del caso instrumental se propone habilitar una discusión sobre aquellas estrategias y recursos proyectuales que posicionan a la vivienda social como una arquitectura adaptable y en igualdad de género.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 2.5",
+      "url": "https://creativecommons.org/licenses/by-nc-nd/2.5/ar/"
+     },
+     "url": "https://doi.org/10.62166/area.31.1.2972",
+     "doi": "10.62166/area.31.1.2972",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.62166/area.30.1.2519",
+     "titulo": "Activismo y disidencia en el diseño de indumentaria. Emprendimientos autogestivos dentro de la cuarta ola transfeminista en Argentina",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Manuela Eva Roth",
+       "orcid": null
+      }
+     ],
+     "resumen": "En el artículo expongo el modelo teórico Diseño Masivo y Diseño Disidente que construyo a partir de las teorías críticas del diseño, y lo sitúo en relación con la cuarta ola feminista en Argentina. Este marco me permite indagar sobre las particularidades del Diseño Disidente de indumentaria en el país. Para ello, presento aquí una investigación colaborativa con dos emprendimientos autogestivos y sus fundadores. Basada en una serie de visitas, entrevistas y observaciones presento la filosofía y las prácticas disidentes de los emprendimientos, planteando sus contradicciones y tensiones. Por último, exploro el nexo —a veces incómodo, a veces productivo— entre la indumentaria y el activismo contemporáneo.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 2.5",
+      "url": "https://creativecommons.org/licenses/by-nc-nd/2.5/ar/"
+     },
+     "url": "https://doi.org/10.62166/area.30.1.2519",
+     "doi": "10.62166/area.30.1.2519",
+     "paginas": "1-22",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.62166/area.30.1.1829",
+     "titulo": "Activismos en arquitectura. Hacia una caracterización de los colectivos en Latinoamérica",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Nicolás Ventroni",
+       "orcid": "https://orcid.org/0009-0006-7922-4702"
+      }
+     ],
+     "resumen": "El artículo propone la construcción de una caracterización generalista de las prácticas activistas en arquitectura, en grupos conocidos como Colectivos de Arquitectos. Se presentan siete puntos que comprenden esa caracterización y que permitirán la delimitación de la categoría de los Colectivos. Para llegar a esa caracterización primero se contemplan los antecedentes teóricos más relevantes. La verificación de esas características en casos concretos se realiza recurriendo a la serie de escuelas Las Tres Esperanzas del estudio ecuatoriano Al Borde.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 2.5",
+      "url": "https://creativecommons.org/licenses/by-nc-nd/2.5/ar/"
+     },
+     "url": "https://doi.org/10.62166/area.30.1.1829",
+     "doi": "10.62166/area.30.1.1829",
+     "paginas": "1-21",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.62166/area.30.1.2525",
+     "titulo": "Caracterización y comparación del hábitat acústico de dos áreas en Tafí Viejo, Tucumán",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Isabel Juarez",
+       "orcid": "https://orcid.org/0000-0002-4447-940X"
+      },
+      {
+       "nombre": "Agustina Cazón Narvaez",
+       "orcid": "https://orcid.org/0000-0001-5823-0130"
+      },
+      {
+       "nombre": "Beatriz Garzón",
+       "orcid": "https://orcid.org/0000-0003-3130-8895"
+      },
+      {
+       "nombre": "Víctor Luis Alberto Cancino",
+       "orcid": "https://orcid.org/0000-0002-8864-9757"
+      }
+     ],
+     "resumen": "El ruido urbano es uno de los principales contaminantes que deterioran la calidad ambiental, con efectos negativos sobre la salud auditiva, física y mental de los seres vivos. Una de las posibles estrategias para atenuar sus efectos negativos es el estudio del paisaje sonoro como herramienta para evaluar el entorno acústico de las ciudades. Con relación a esto, en el presente trabajo se realiza el estudio de los paisajes sonoros de espacios exteriores de dos ejes urbanos en Tafí Viejo para identificar y evaluar los niveles sonoros existentes, la calidad acústica y los efectos causados por la contaminación sonora, de manera que en una etapa posterior se incorpore la variable de adaptación acústica para definir un ambiente sonoro sustentable y saludable para el bienestar de sus habitantes. Se desarrolló un diagnóstico de las situaciones acústicas en dos distintas áreas, abordado por etapas con enfoques cuantitativos y cualitativos. Los resultados obtenidos permitieron su comparación; mostrando que los niveles sonoros son elevados en ambas áreas, pero con una diferencia entre un área con respecto a la otra.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 2.5",
+      "url": "https://creativecommons.org/licenses/by-nc-nd/2.5/ar/"
+     },
+     "url": "https://doi.org/10.62166/area.30.1.2525",
+     "doi": "10.62166/area.30.1.2525",
+     "paginas": "1-15",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.62166/area.30.1.2517",
+     "titulo": "Coletivos urbanos feministas. Ações insurgentes para uma cidade cuidadora",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Carolina Ferraz",
+       "orcid": null
+      },
+      {
+       "nombre": "Adriana Sansão Fontes",
+       "orcid": "https://orcid.org/0000-0003-0648-3894"
+      }
+     ],
+     "resumen": "O marco teórico que sustenta o estudo demonstra claras evidências sobre crescimento dos coletivos feministas como força política e movimento que invoca um planejamento com perspectiva de gênero. Essa conjuntura de grandes expectativas por transformação social nas cidades se vê atravessada por uma realidade desigual de direitos, bem-estar e benefícios, em que o acesso aos bens urbanos afeta de forma significativa às mulheres. A pergunta que tem guiado a investigação se volta a atuação dos coletivos feministas nas cidades: como esse movimento de atuação dos coletivos feministas poderia apontar para integração ou criação de políticas públicas urbanas com perspectiva de gênero? O surgimento de novas experiências de resistências multiplicadoras pretende questionar os modelos de planejamento impostos e ampliar a reflexão sobre futuros urbanos alternativos na contemporaneidade. Como resultado do trabalho, apresentamos exemplos de atuações de coletivos feministas.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 2.5",
+      "url": "https://creativecommons.org/licenses/by-nc-nd/2.5/ar/"
+     },
+     "url": "https://doi.org/10.62166/area.30.1.2517",
+     "doi": "10.62166/area.30.1.2517",
+     "paginas": "1-18",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.62166/area.30.2.2950",
+     "titulo": "De tipo al hito. El cine-teatro Estornell y la reconstrucción de la ciudad de San Juan, Argentina",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Marcelo Vizcaíno",
+       "orcid": null
+      }
+     ],
+     "resumen": "Este artículo destaca el valor que tuvieron las salas de proyección cinematográfica en las grandes y pequeñas ciudades argentinas para abordar de manera particular el cine más importante de la ciudad de San Juan, que resistió el destructivo terremoto de 1944. De la mano de un arquitecto especializado, las similitudes del cine-teatro Estornell con la emblemática sala porteña Ópera de 1936, permite además una reflexión sobre el concepto de réplica o ejercicio tipológico. Los cánones de repetición que manifiesta la sala sanjuanina, según las circunstancias locales de implantación, logran cambiar esa identificación del edificio tipo por la de una obra patrimonial en el paisaje urbano reconstruido.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 2.5",
+      "url": "https://creativecommons.org/licenses/by-nc-nd/2.5/ar/"
+     },
+     "url": "https://doi.org/10.62166/area.30.2.2950",
+     "doi": "10.62166/area.30.2.2950",
+     "paginas": "1-14",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.62166/area.30.2.2885",
+     "titulo": "Dos capillas del siglo XXI. Clorindo Testa y la arquitectura religiosa",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Carlos Gustavo Giménez",
+       "orcid": "https://orcid.org/0000-0001-9716-4084"
+      },
+      {
+       "nombre": "Julio Valentino",
+       "orcid": null
+      }
+     ],
+     "resumen": "En la primera década de este siglo, Clorindo Testa diseñó dos capillas para el culto católico en la provincia de Buenos Aires. La primera en la ciudad de 9 de Julio y la segunda, la Capilla de la Transfiguración del Señor, en la localidad de Gonnet. Los dos proyectos de nave única presentan grandes similitudes entre ellos y ninguno llegó a construirse hasta el momento. No obstante, presentan un relevante interés para la historia y la crítica por la ausencia de otros ejemplos de temática religiosa en su vasta producción arquitectónica y también, por los evidentes lazos que estos trabajos establecen con su producción como artista plástico.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 2.5",
+      "url": "https://creativecommons.org/licenses/by-nc-nd/2.5/ar/"
+     },
+     "url": "https://doi.org/10.62166/area.30.2.2885",
+     "doi": "10.62166/area.30.2.2885",
+     "paginas": "1-20",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.62166/area.30.2.2951",
+     "titulo": "Educación, diseño y sostenibilidad. El desafío de repensar el diseño",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "María Luz Grioni",
+       "orcid": null
+      }
+     ],
+     "resumen": "El libro Educación, diseño y sostenibilidad surge como una respuesta a los retos contemporáneos que enfrenta el diseño en el marco de los Objetivos de Desarrollo Sostenible (ODS) de la ONU. Coordinado por la Facultad de Diseño y Arquitectura de la Universidad Autónoma del Estado de México (UAEMEX), Linda Emi Oguri Campos, Erika Rivera Gutiérrez y Eska Elena Solano Meneses, reúnen investigaciones que buscan redefinir la educación en diseño desde una perspectiva sostenible y responsable. Educación, diseño y sostenibilidadCoordinado por Linda Emi Oguri Campos, Erika Rivera Gutiérrez y Eska Elena Solano Menese. 2024Universidad Autónoma del Estado de México140 páginas. Idioma españolISBN 9786076337769Publicado bajo licencia Creative Commons BY-NC-ND 4.0 InternacionalEdición PDF digitalLink de descarga <aquí>",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 2.5",
+      "url": "https://creativecommons.org/licenses/by-nc-nd/2.5/ar/"
+     },
+     "url": "https://doi.org/10.62166/area.30.2.2951",
+     "doi": "10.62166/area.30.2.2951",
+     "paginas": "1-3",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.62166/area.30.1.2518",
+     "titulo": "El afiche activista. El \"estallido social\" en Chile, octubre de 2019",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Mauricio Vico Sánchez",
+       "orcid": null
+      }
+     ],
+     "resumen": "El artículo revisa un corpus de archivo de 120 afiches que fueron fotografiados a lo largo del mes de octubre de 2019 durante los hechos conocidos como el estallido social en Chile, evento que se extendería por más de dos meses poniendo en jaque, por sus implicancias políticas, al gobierno de ese entonces. El movimiento popular fue serenado sólo con la firma de un gran acuerdo por parte de (casi) todas las fuerzas políticas, que acordaron convocar una nueva redacción de la Constitución chilena. El trabajo pone en evidencia cuatro tipos de afiches centrados en la imagen del presidente de Chile, el repudio a su figura y la de otros políticos; la solidaridad; la rebelión popular, y el carácter no partidista del movimiento. En este análisis se utilizó un cuadro resumen de las funciones, los temas políticos y las tipologías de afiches. De allí surgen en ese archivo características en el mensaje, como lo contestatario, lo identitario, la solidaridad. En su iconografía aparecen nuevos símbolos que surgieron en ese momento. Finalmente se destaca el uso de diferentes sistemas de impresión de bajo coste, como fue el uso reiterado de la serigrafía, la fotocopia y, por último, el offset.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 2.5",
+      "url": "https://creativecommons.org/licenses/by-nc-nd/2.5/ar/"
+     },
+     "url": "https://doi.org/10.62166/area.30.1.2518",
+     "doi": "10.62166/area.30.1.2518",
+     "paginas": "1-18",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.62166/area.30.1.2526",
+     "titulo": "El estímulo de experiencia estética mediante operaciones retóricas escalares",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Jorge Pokropek",
+       "orcid": "https://orcid.org/0000-0001-5727-9143"
+      }
+     ],
+     "resumen": "Las nociones de medida, tamaño, proporción y escala afloran de manera habitual en la literatura básica sobre la Arquitectura, no obstante estas referencias tienden a ser triviales o meramente operativas. El artículo revisa esos conceptos, considerándolos decisivos para el estímulo de experiencias estéticas. Asimismo, serán estas mismas nociones las que sirvan de marco conceptual inicial para la evaluación de la capacidad de la forma para producir respuestas anímico-conductuales inherentes a la experiencia estética, teniendo además un protagónico rol en las conceptualizaciones correctas de diversas estrategias proyectuales, para lo cual se presenta una matriz gráfica con 10 entidades configurativas arquetípicas básicas, discriminando entre tamaños mínimos y máximos, y entre lógicas de proporción específica a cada tipo de figura introduciendo la noción de escala prefigurante.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 2.5",
+      "url": "https://creativecommons.org/licenses/by-nc-nd/2.5/ar/"
+     },
+     "url": "https://doi.org/10.62166/area.30.1.2526",
+     "doi": "10.62166/area.30.1.2526",
+     "paginas": "1-22",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.62166/area.30.1.2522",
+     "titulo": "Habitabilidad urbana y percepción de seguridad en el espacio público desde la perspectiva interseccional",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Valeria Cruz Ros",
+       "orcid": "https://orcid.org/0000-0001-5946-5871"
+      }
+     ],
+     "resumen": "Esta investigación tiene como objetivo evaluar la habitabilidad urbana de los espacios públicos y su relación con la percepción de seguridad en el centro de la ciudad de Xalapa, incorporando la perspectiva interseccional que permite reconocer los grupos vulnerados u oprimidos. El enfoque del estudio es cualitativo apoyado por instrumentos cuantitativos. Los resultados son plasmados a partir de un Sistema de Información Geográfica en mapas de observación, mapas de percepción y gráficas. El caso de estudio seleccionado parte del “Plan de Acción Xalapa Sostenible”. Como resultados obtenemos la evaluación de la habitabilidad en las calles, la percepción de seguridad en el espacio público de los diversos habitantes y la relación entre estas variables. En conclusión, los espacios públicos deben de considerar las necesidades de los diversos habitantes para ser percibidos como seguros, los estudios de percepción de seguridad vinculados al espacio público se benefician de la utilización de la perspectiva interseccional que permite visibilizar las estructuras de poder en el diseño urbano y las distintas percepciones condicionadas por dichas estructuras.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 2.5",
+      "url": "https://creativecommons.org/licenses/by-nc-nd/2.5/ar/"
+     },
+     "url": "https://doi.org/10.62166/area.30.1.2522",
+     "doi": "10.62166/area.30.1.2522",
+     "paginas": "1-36",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.62166/area.30.1.2247",
+     "titulo": "Hacia la territorialidad de los conflictos ambientales en humedales urbanos. Los casos de las reservas de Laguna de Rocha y Santa Catalina",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Sergio Adrián Caruso",
+       "orcid": "https://orcid.org/0000-0001-8036-4143"
+      }
+     ],
+     "resumen": "En tiempos de neoliberalismo, los humedales del Aglomerado Gran Buenos Aires se caracterizaron por la emergencia de conflictos ambientales. Estos litigios se sucedieron a partir de la contraposición de intereses, visiones y acciones que diversos actores sociales mantuvieron respecto a esos ambientes. Los capitales logístico-industriales y de servicios urbanos abogaban por la consecución de beneficios económicos mediante su incorporación al entramado urbano trastocando los rasgos biofísicos de estos humedales, mientras que los movimientos ambientalistas, recuperaron los preceptos de la Convención Ramsar para demandar la protección y la conservación de estos sitios. Ambos grupos desplegaron su territorialidad vía apropiación o dominación de acuerdo con su lugar en las relaciones de poder en tanto medida de control territorial. Este artículo tiene por objetivo explorar tanto la producción de conflictos ambientales como así también indagar las territorialidades sostenidas por los actores sociales intervinientes, tomando como referentes empíricos a las reservas Laguna de Rocha y Santa Catalina.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 2.5",
+      "url": "https://creativecommons.org/licenses/by-nc-nd/2.5/ar/"
+     },
+     "url": "https://doi.org/10.62166/area.30.1.2247",
+     "doi": "10.62166/area.30.1.2247",
+     "paginas": "1-22",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.62166/area.30.1.2520",
+     "titulo": "Imagens do dissenso. Proposições teórico-metodológicas para um modelo analítico de imagens ativistas",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Vinicius Da Silva Ronsoni",
+       "orcid": "https://orcid.org/0000-0002-0694-5836"
+      },
+      {
+       "nombre": "Gheysa Caroline Prado",
+       "orcid": "https://orcid.org/0000-0002-4405-1702"
+      }
+     ],
+     "resumen": "Práticas ativistas por meio do design surgem na tentativa de enfrentar problemas latentes na conjuntura sociopolítica nacional. Nesse contexto, a produção de imagens ativistas por parte de coletivos emerge como uma forma de agenciar discussões políticas e influenciar opiniões. Através de uma revisão bibliográfica narrativa e da articulação dos conceitos propostos, nossa intenção neste artigo é delinear alguns pressupostos teórico-metodológico que contribuam para o estudo dessas imagens fruto de um design politizado e orientado ao bem social. Ao final, propomos um modelo analítico de caráter inicial e que pode servir como um caminho para a pesquisa imagética em design ativismo.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 2.5",
+      "url": "https://creativecommons.org/licenses/by-nc-nd/2.5/ar/"
+     },
+     "url": "https://doi.org/10.62166/area.30.1.2520",
+     "doi": "10.62166/area.30.1.2520",
+     "paginas": "1-18",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.62166/area.30.1.2516",
+     "titulo": "Introducción al Dossier. Diseño Activista",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Pelta Raquel",
+       "orcid": "https://orcid.org/0000-0002-0390-0974"
+      },
+      {
+       "nombre": "Salgado Mariana",
+       "orcid": "https://orcid.org/0000-0002-2630-2117"
+      }
+     ],
+     "resumen": "A lo largo de la historia el activismo ha sido fundamental para transformar la sociedad. Logró el derecho al voto para las mujeres, la abolición de la esclavitud y del trabajo infantil (al menos en Occidente) y la consecución de mejores condiciones de trabajo. Ha denunciado los abusos de las dictaduras e incluso las ha derrocado y ha conseguido que lo que se consideraban problemas personales se hayan convertido en problemas sociales como es el caso de los desahucios de vivienda. Son sólo algunos ejemplos de lo que la movilización de las personas puede conseguir para transformar el mundo.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 2.5",
+      "url": "https://creativecommons.org/licenses/by-nc-nd/2.5/ar/"
+     },
+     "url": "https://doi.org/10.62166/area.30.1.2516",
+     "doi": "10.62166/area.30.1.2516",
+     "paginas": "1-5",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.62166/area.30.2.2717",
+     "titulo": "Membrana metropolitana costera. Estrategias para proyectar una ciudad híbrida",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Luisa Acosta Scandela",
+       "orcid": "https://orcid.org/0000-0002-3433-1890"
+      },
+      {
+       "nombre": "Juan Carlos Arismendi",
+       "orcid": null
+      },
+      {
+       "nombre": "Jesús Cabrera",
+       "orcid": null
+      },
+      {
+       "nombre": "Stephany Sánchez",
+       "orcid": null
+      },
+      {
+       "nombre": "Nelymar Vera",
+       "orcid": null
+      }
+     ],
+     "resumen": "Muchas de nuestras ciudades latinoamericanas se caracterizan por ser espacios fragmentados en continua expansión, no sólo en términos urbanos, sino también en lo social, económico y político. Tal es el caso de Maracaibo, una ciudad en el occidente venezolano cuyo borde costero de 25 km actúa como barrera funcional y espacial. El tramo industrial de esta costa se ha convertido en un pasaje anónimo y abandonado. Este proyecto propone un programa híbrido costero para integrar y revitalizar este territorio, basado en cuatro macroprogramas que activarán la ciudad por medio de cinco proyectos arquitectónicos, formando así la membrana metropolitana costera. Este proyecto de investigación, resultado de la integración de cinco tesis de grado, se sitúa en los umbrales de un nuevo paradigma urbano y surge de la necesidad de entender y proyectar una visión que refleje la imagen de la ciudad deseada, utilizando una metodología colectiva, multiescalar y transversal. Se explora la ciudad como un espacio de coexistencia de usos y actividades diversas, planteando la mezcla de usos complementarios y valorando las características preexistentes del territorio, incluyendo sus recursos económicos, espaciales, ambientales y sociales.La hibridación se presenta como una herramienta clave para transformar e integrar el tramo costero industrial en un paisaje metropolitano natural y culturalmente significativo. Al incorporar disciplinas como la Política, la Economía, la Sociología y la Biología, se busca explorar diversos campos del conocimiento para, en consecuencia, aportar continuidad, estructura y dinamismo tanto a la ciudad como a las arquitecturas que aspiramos desarrollar.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 2.5",
+      "url": "https://creativecommons.org/licenses/by-nc-nd/2.5/ar/"
+     },
+     "url": "https://doi.org/10.62166/area.30.2.2717",
+     "doi": "10.62166/area.30.2.2717",
+     "paginas": "1-27",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.62166/area.30.1.2523",
+     "titulo": "Política habitacional. Indagaciones sobre la relación entre el valor de inversión y la valuación actualizada de intervenciones estatales en el Área Metropolitana de Tucumán (1990-2023)",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Pilar Cichero",
+       "orcid": "https://orcid.org/0000-0001-8807-7130"
+      }
+     ],
+     "resumen": "La política habitacional desempeña un papel fundamental en el crecimiento de las ciudades, promoviendo el desarrollo de determinados sectores. Este artículo pretende indagar sobre la relación que existe entre la inversión inicial que realiza el Estado en una obra determinada y la valuación actual de dicha intervención. La metodología utilizada es de tipo cuantitativa. Temporalmente, el estudio abarca las últimas tres décadas (período 1990-2023), espacialmente, se utilizan dos escalas de análisis: metropolitana y casuística. Para ello, se construye la cartografía base, se realiza el análisis e interpretación de los datos, se exponen los resultados y se elaboran las reflexiones finales.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 2.5",
+      "url": "https://creativecommons.org/licenses/by-nc-nd/2.5/ar/"
+     },
+     "url": "https://doi.org/10.62166/area.30.1.2523",
+     "doi": "10.62166/area.30.1.2523",
+     "paginas": "1-20",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.62166/area.30.2.2886",
+     "titulo": "Propuestas híbridas. Hacia un cambio de escala en la clase universitaria",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Laura J. Vazquez",
+       "orcid": null
+      }
+     ],
+     "resumen": "En el campo de la tecnología educativa se han desarrollado una serie de conceptos que dan cuenta de un cambio de escala en la comprensión del aprendizaje –calificándolo de ubicuo, distribuido, omnipresente, abierto, justo a tiempo y pluricontextualizado– y de la enseñanza –con nociones como el aula expandida, invertida o sin paredes–. Mediante relevamientos y entrevistas se evalúa en qué medida una muestra de cátedras implementaron estrategias devenidas de estos conceptos entre 2020 y 2023, y se analizan los distintos discursos en términos de imaginarios constituidos y constituyentes. De esta manera, se espera que la metáfora del cambio de escala pueda brindar algunas claves para la transición hacia propuestas híbridas.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 2.5",
+      "url": "https://creativecommons.org/licenses/by-nc-nd/2.5/ar/"
+     },
+     "url": "https://doi.org/10.62166/area.30.2.2886",
+     "doi": "10.62166/area.30.2.2886",
+     "paginas": "1-17",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.62166/area.30.1.2521",
+     "titulo": "Regularidades y herencias gráficas en el diseño participativo en Arquitectura",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Juan Santiago Palero",
+       "orcid": "https://orcid.org/0000-0002-3994-2607"
+      }
+     ],
+     "resumen": "Este trabajo se pregunta en qué medida las imágenes utilizadas a la hora de exponer procesos de diseño participativo en ámbitos científicos refuerzan o contrarrestan los fundamentos teóricos de la participación en arquitectura. Mediante técnicas de indagación bibliográfica se construye una definición teórica del diseño participativo que luego se pone en contraste con las regularidades detectadas a partir de la sistematización cuantitativa de las imágenes utilizadas en obras de carácter científico referidas a experiencias de diseño participativo. La hipótesis del trabajo supone cierta contradicción entre la gráfica utilizada, asociada a la herencia disciplinar de la arquitectura, y el trasfondo conceptual del diseño participativo, orientado hacia la multidisciplina y el trabajo interactoral.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 2.5",
+      "url": "https://creativecommons.org/licenses/by-nc-nd/2.5/ar/"
+     },
+     "url": "https://doi.org/10.62166/area.30.1.2521",
+     "doi": "10.62166/area.30.1.2521",
+     "paginas": "1-21",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.62166/area.30.1.2515",
+     "titulo": "Reseña de libro. La enseñanza de la Arquitectura de ayer. Una cartografía radical como respuesta a sus cuestionamientos de hoy",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Julio Cavallo",
+       "orcid": null
+      }
+     ],
+     "resumen": "El libro “Radical Pedagogies” editado por Beatriz Colomina, Ignacio G. Galán, Evangelios Kotsioris y Anna-Maria Meister, publicado en 2022 por The MIT Press, es el resultado de un trabajo de investigación que inició la arquitecta Beatriz Colomina y un grupo de estudiantes del Doctorado de la Escuela de Arquitectura de la Universidad de Princeton. Una compilación que explora una cartografía sobre experiencias pedagógicas arquitectónicas expuestas en 113 casos de estudio desde 1933 a 1987.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 2.5",
+      "url": "https://creativecommons.org/licenses/by-nc-nd/2.5/ar/"
+     },
+     "url": "https://doi.org/10.62166/area.30.1.2515",
+     "doi": "10.62166/area.30.1.2515",
+     "paginas": "1-4",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.62166/area.30.2.2705",
+     "titulo": "Saberes compartidos y procesos participativos de diseño en el Chaco Occidental. Salta, Argentina",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Joaquín Trillo",
+       "orcid": "https://orcid.org/0000-0002-3778-1336"
+      },
+      {
+       "nombre": "Catalina Lucía Agudin",
+       "orcid": "https://orcid.org/0009-0009-7197-7664"
+      },
+      {
+       "nombre": "Malena Pasin",
+       "orcid": "https://orcid.org/0000-0003-3644-7843"
+      },
+      {
+       "nombre": "Mercedes Ceciaga",
+       "orcid": "https://orcid.org/0009-0002-7296-7109"
+      }
+     ],
+     "resumen": "La transferencia de tecnologías promovidas por los programas para el desarrollo, no suele contemplar las soluciones de forma y función con que las comunidades wichi del Gran Chaco dan significado a sus arquitecturas. Contenidos y diseños promovidos desde una gestión centralizada de las decisiones, son implementados por agencias capaces de influir en políticas que desconsideran las condiciones del lugar y las trayectorias de los pueblos sobre los que actúan. Al examinar las apropiaciones y resignificaciones desplegadas por las poblaciones locales sobre estas intervenciones, repasaremos distintos lineamientos teóricos que desde el pensamiento crítico latinoamericano proponen la necesidad de cuestionar los principios de la modernidad global hacia alternativas en donde el punto de origen se encuentre en los saberes subalternos. En este marco, el trabajo explora las lógicas de la construcción social del hábitat mediante procesos participativos de diseño que permiten elevar a las comunidades de destinatarias a creadoras de sus propias decisiones.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 2.5",
+      "url": "https://creativecommons.org/licenses/by-nc-nd/2.5/ar/"
+     },
+     "url": "https://doi.org/10.62166/area.30.2.2705",
+     "doi": "10.62166/area.30.2.2705",
+     "paginas": "1-18",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.62166/area.30.1.2524",
+     "titulo": "Sobre el sistema-ciudad o la (im)posibilidad de su fragmentación",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Marcos de J. Aguirre Franco",
+       "orcid": "https://orcid.org/0000-0001-8169-6916"
+      }
+     ],
+     "resumen": "El presente artículo procura analizar el significado de uno de los problemas fundamentales que ocupan el trabajo de planificadores y teóricos de la ciudad en busca de soluciones para la fragmentación, producto del vertiginoso crecimiento de las ciudades. Aunque el concepto se utiliza principalmente para diagnosticar las disfuncionalidades socio-urbanas que afectan la accesibilidad a los bienes y servicios que ofrece la ciudad, su fundamentación teórica no resulta coherente cuando se busca comprender la complejidad de la ciudad en su sentido más amplio. La argumentación aquí desarrollada se orienta, en primer lugar, a dilucidar que el concepto de fragmentación social y urbana es un referente sin significado cuando se quiere comprender la dinámica de la ciudad y, en segundo lugar, a demostrar que la utilización de dicho concepto dificulta la observación de los fundamentos que constituyen al sistema de la ciudad, esto es, a sus relaciones.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 2.5",
+      "url": "https://creativecommons.org/licenses/by-nc-nd/2.5/ar/"
+     },
+     "url": "https://doi.org/10.62166/area.30.1.2524",
+     "doi": "10.62166/area.30.1.2524",
+     "paginas": "1-13",
+     "fuente": "Crossref"
+    }
+   ]
+  }
+ ]
+};

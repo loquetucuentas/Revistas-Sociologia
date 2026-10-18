@@ -4,9 +4,9 @@ Aplicación web de una sola página para explorar revistas de sociología de acc
 
 La accesibilidad es un requisito innegociable: WCAG 2.2 nivel AA y los siete principios del diseño universal. Consulta REQUISITOS.md para los requisitos y ACCESIBILIDAD.md para lo que se ha comprobado y lo que queda pendiente.
 
-## Estado actual: datos de prueba
+## Estado actual: datos reales
 
-Los datos de la carpeta data son ficticios mientras no se ejecute el recolector con acceso a internet. La aplicación lo indica con un aviso visible en la parte superior. Los datos reales llegarán en la primera ejecución del flujo «Recolectar datos de revistas» en GitHub Actions.
+Los datos de la carpeta data proceden de DOAJ (listado de revistas) y de Crossref (números y artículos). La primera recolección, del 18 de octubre de 2026, se limitó a las 50 primeras revistas por orden alfabético, como se acordó: se cargaron 41 y quedaron 9 pendientes de revisión, con el motivo de cada una en data/informe-no-resueltas.md. Los datos ficticios solo existen ya en pruebas/datos, para las pruebas automáticas.
 
 ## Cómo usarla
 
@@ -28,15 +28,15 @@ Opción 2: publícala con GitHub Pages (ver más abajo) y entra en la dirección
 python3 recolector/recolectar.py --limite 50
 ```
 
-1. DOAJ: revistas con materia de sociología (clasificación LCC HM) y con español entre sus idiomas.
+1. DOAJ: revistas con materia de sociología y con español entre sus idiomas. La API de DOAJ no admite comodines, así que se busca el término sociology y después se filtra por clasificación LCC HM o por materias que contengan «sociolog».
 2. Crossref: por ISSN, los artículos más recientes, agrupados por volumen y número; se guardan los tres últimos números.
 3. OAI-PMH: si Crossref no tiene datos o los más recientes tienen más de dos años, se busca el punto OAI de OJS en la web de la revista.
-4. Las revistas sin datos van a data/informe-no-resueltas.md con el motivo. No se inventa ningún dato.
+4. Las revistas sin datos van a data/informe-no-resueltas.md con el motivo y el dominio de su web. Si la red del entorno no permite ese dominio, el informe lo dice y lista todos los dominios que habría que permitir para probar OAI-PMH. No se inventa ningún dato.
 5. Los datos nuevos solo sustituyen a los anteriores si la recolección termina bien.
 
 Opcionalmente, define la variable de repositorio CONTACTO_EMAIL (Settings, Secrets and variables, Actions, Variables) para identificarte ante Crossref, como recomienda su política de uso.
 
-Para regenerar los datos ficticios: `python3 recolector/datos_prueba.py`.
+Para regenerar los datos ficticios de las pruebas: `python3 recolector/datos_prueba.py`. Solo escribe en pruebas/datos y se niega a sobrescribir la carpeta data.
 
 ## Publicación con GitHub Pages
 
@@ -51,7 +51,7 @@ El flujo de recolección se ejecuta los lunes a las 04:17 UTC y también se pued
 
 ```
 npm install
-npm test               # axe y comportamiento accesible con Playwright
+npm test               # axe y comportamiento accesible con Playwright, también con los datos reales
 npm run lighthouse     # Lighthouse (puntuación de accesibilidad mínima: 100)
 python3 -m unittest discover -s recolector/pruebas
 ```

@@ -1,13 +1,12 @@
 #!/usr/bin/env python3
-"""Genera datos de PRUEBA para desarrollar la interfaz sin acceso a la red.
+"""Genera los datos de PRUEBA que usan las pruebas automáticas.
 
 Todas las revistas, números y artículos son ficticios, llevan la marca
 es_prueba y enlazan a example.org, un dominio reservado para ejemplos.
-La interfaz muestra un aviso visible mientras se usan estos datos.
-El recolector real sustituye la carpeta data completa.
+Se escriben solo en pruebas/datos: la carpeta data de la aplicación
+contiene datos reales y el script se niega a sobrescribirla.
 
 Uso: python3 recolector/datos_prueba.py [--salida carpeta]
-Las pruebas automáticas usan su propia copia en pruebas/datos.
 """
 
 import argparse
@@ -88,8 +87,11 @@ def numeros(revista, cantidad):
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument("--salida", default=os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "data"))
+    raiz = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+    parser.add_argument("--salida", default=os.path.join(raiz, "pruebas", "datos"))
     carpeta = parser.parse_args().salida
+    if os.path.abspath(carpeta) == os.path.join(raiz, "data"):
+        raise SystemExit("La carpeta data tiene datos reales; los datos de prueba van en pruebas/datos.")
     if os.path.isdir(carpeta):
         shutil.rmtree(carpeta)
     fichas = []

@@ -1,0 +1,1080 @@
+{
+ "version": 1,
+ "generado": "2026-10-18T05:53:59+00:00",
+ "es_prueba": false,
+ "revista": {
+  "id": "2178-2792",
+  "titulo": "Dilemas: Revista de Estudos de Conflito e Controle Social",
+  "idioma_titulo": null,
+  "titulo_alternativo": null,
+  "idioma_titulo_alternativo": null,
+  "idiomas": [
+   "pt",
+   "es"
+  ],
+  "issn_impreso": "1983-5922",
+  "issn_electronico": "2178-2792",
+  "editorial": "Universidade Federal do Rio de Janeiro",
+  "pais": "BR",
+  "materias": [
+   "Social history and conditions. Social problems. Social reform",
+   "Sociology (General)"
+  ],
+  "palabras_clave": [
+   "violence",
+   "crime",
+   "urban conflicts",
+   "criminal justice",
+   "public security",
+   "social movements"
+  ],
+  "licencias": [
+   {
+    "nombre": "CC BY",
+    "url": null
+   }
+  ],
+  "url": "https://revistas.ufrj.br/index.php/dilemas/index",
+  "url_doaj": "https://doaj.org/toc/2178-2792",
+  "descripcion": null,
+  "fuente_ficha": "DOAJ",
+  "archivo": "revistas/2178-2792.json",
+  "ultimo_numero": "Vol. 19, núm. 2 (2026)",
+  "fuente_numeros": "Crossref"
+ },
+ "numeros": [
+  {
+   "id": "v19-n2-2026",
+   "volumen": "19",
+   "numero": "2",
+   "anio": 2026,
+   "fecha": "2026",
+   "etiqueta": "Vol. 19, núm. 2 (2026)",
+   "fuente": "Crossref",
+   "articulos": [
+    {
+     "id": "10.4322/dilemas.v19.n2.64937",
+     "titulo": "Debates, cobranças e oportunidades : O impacto das dinâmicas do Primeiro Comando da Capital no cumprimento de pena de mulheres e pessoas LGBTQIA+ na Cadeia do Comando",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Rosangela Teixeira Gonçalves",
+       "orcid": null
+      }
+     ],
+     "resumen": null,
+     "idioma_resumen": null,
+     "licencia": null,
+     "url": "https://doi.org/10.4322/dilemas.v19.n2.64937",
+     "doi": "10.4322/dilemas.v19.n2.64937",
+     "paginas": "e64937",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.4322/dilemas.v19.n2.65001",
+     "titulo": "Obstáculos à Reinserção Social em Portugal: percepções de pessoas privadas de liberdade e profissionais do sistema prisional",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Eva Chaves",
+       "orcid": null
+      },
+      {
+       "nombre": "Vera Duarte",
+       "orcid": null
+      },
+      {
+       "nombre": "Clara Santos",
+       "orcid": null
+      }
+     ],
+     "resumen": null,
+     "idioma_resumen": null,
+     "licencia": null,
+     "url": "https://doi.org/10.4322/dilemas.v19.n2.65001",
+     "doi": "10.4322/dilemas.v19.n2.65001",
+     "paginas": "e65001",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.4322/dilemas.v19.n2.65183",
+     "titulo": "Empresarias de sí: el discurso de empoderamiento femenino y las prácticas de sí en el marketing digital",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Angélica Patricia Rodríguez Vargas",
+       "orcid": null
+      },
+      {
+       "nombre": "Liliana Botero Monroy",
+       "orcid": null
+      },
+      {
+       "nombre": "Ana Catalina Charris Angulo",
+       "orcid": null
+      }
+     ],
+     "resumen": null,
+     "idioma_resumen": null,
+     "licencia": null,
+     "url": "https://doi.org/10.4322/dilemas.v19.n2.65183",
+     "doi": "10.4322/dilemas.v19.n2.65183",
+     "paginas": "e65183",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.4322/dilemas.v19.n2.65781",
+     "titulo": "Variations in Homicide in the Triângulo Mineiro (Minas Gerais): Factional Conflict and Analytical Time",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Thalia Marques",
+       "orcid": null
+      },
+      {
+       "nombre": "Gabriel Feltran",
+       "orcid": null
+      }
+     ],
+     "resumen": null,
+     "idioma_resumen": null,
+     "licencia": null,
+     "url": "https://doi.org/10.4322/dilemas.v19.n2.65781",
+     "doi": "10.4322/dilemas.v19.n2.65781",
+     "paginas": "e65781",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.4322/dilemas.v19.n2.65794",
+     "titulo": "Explorando la percepción de inseguridad en América Latina y su asociación con el abandono de actividades de trabajo y esparcimiento",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Andrés Felipe Sarria Agudelo",
+       "orcid": null
+      },
+      {
+       "nombre": "Carlos Jesús Fernández Rodríguez",
+       "orcid": null
+      },
+      {
+       "nombre": "Francisco Javier Oubiña Barbolla",
+       "orcid": null
+      }
+     ],
+     "resumen": null,
+     "idioma_resumen": null,
+     "licencia": null,
+     "url": "https://doi.org/10.4322/dilemas.v19.n2.65794",
+     "doi": "10.4322/dilemas.v19.n2.65794",
+     "paginas": "e65794",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.4322/dilemas.v19.n2.65986",
+     "titulo": "Narrativas en prisión, entre Los olvidados y Los 400 golpes: análisis del discurso con Voyant Tools",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Gerardo Antonio Panchi-Vanegas",
+       "orcid": null
+      }
+     ],
+     "resumen": null,
+     "idioma_resumen": null,
+     "licencia": null,
+     "url": "https://doi.org/10.4322/dilemas.v19.n2.65986",
+     "doi": "10.4322/dilemas.v19.n2.65986",
+     "paginas": "e65986",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.4322/dilemas.v19.n2.66088",
+     "titulo": "Entry and Abandonment of Illicit Crops: Motivations and Change of Life",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Danny Miguel Rebolledo Castillo",
+       "orcid": null
+      },
+      {
+       "nombre": "Juan Carlos Meza Martínez",
+       "orcid": null
+      }
+     ],
+     "resumen": null,
+     "idioma_resumen": null,
+     "licencia": null,
+     "url": "https://doi.org/10.4322/dilemas.v19.n2.66088",
+     "doi": "10.4322/dilemas.v19.n2.66088",
+     "paginas": "e66088",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.4322/dilemas.v19.n2.66394",
+     "titulo": "Mi madre estaba gritando. Mi padre estaba nervioso. Lo único que hacía yo era molestar si estaba en el medio : la figura de los hermanos y hermanas como víctimas (in)visibles en el fenómeno de la Violencia Filio-parental",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Daniel Ortega-Ortigoza",
+       "orcid": null
+      }
+     ],
+     "resumen": null,
+     "idioma_resumen": null,
+     "licencia": null,
+     "url": "https://doi.org/10.4322/dilemas.v19.n2.66394",
+     "doi": "10.4322/dilemas.v19.n2.66394",
+     "paginas": "e66394",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.4322/dilemas.v19.n2.66444",
+     "titulo": "Discrepâncias entre a norma e a prática na implementação da Lei do Feminicídio: o caso da Polícia Civil paulista",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Amanda Lagreca",
+       "orcid": null
+      },
+      {
+       "nombre": "Samira Bueno",
+       "orcid": null
+      },
+      {
+       "nombre": "Renato Sérgio de Lima",
+       "orcid": null
+      },
+      {
+       "nombre": "Marco Antonio Carvalho Teixeira",
+       "orcid": null
+      }
+     ],
+     "resumen": null,
+     "idioma_resumen": null,
+     "licencia": null,
+     "url": "https://doi.org/10.4322/dilemas.v19.n2.66444",
+     "doi": "10.4322/dilemas.v19.n2.66444",
+     "paginas": "e66444",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.4322/dilemas.v19.n2.66461",
+     "titulo": "Autolegitimidade e polícia",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Viviane de Oliveira Cubas",
+       "orcid": null
+      },
+      {
+       "nombre": "Renato Alves",
+       "orcid": null
+      },
+      {
+       "nombre": "Fernando Salla",
+       "orcid": null
+      }
+     ],
+     "resumen": null,
+     "idioma_resumen": null,
+     "licencia": null,
+     "url": "https://doi.org/10.4322/dilemas.v19.n2.66461",
+     "doi": "10.4322/dilemas.v19.n2.66461",
+     "paginas": "e66461",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.4322/dilemas.v19.n2.66467",
+     "titulo": "Da caserna à extrema-direita: uma análise da gramática moral dos PMs políticos bolsonaristas",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Bruno Camargos",
+       "orcid": null
+      },
+      {
+       "nombre": "Débora Messenberg",
+       "orcid": null
+      }
+     ],
+     "resumen": null,
+     "idioma_resumen": null,
+     "licencia": null,
+     "url": "https://doi.org/10.4322/dilemas.v19.n2.66467",
+     "doi": "10.4322/dilemas.v19.n2.66467",
+     "paginas": "e66467",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.4322/dilemas.v19.n2.66505",
+     "titulo": "El gobierno de la inseguridad a través del patriarcado: espacio público masculinizado e invisibilización de la violencia de género durante la gestión Cambiemos (2015-2019)",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Pilar Fiuza Casais",
+       "orcid": null
+      }
+     ],
+     "resumen": null,
+     "idioma_resumen": null,
+     "licencia": null,
+     "url": "https://doi.org/10.4322/dilemas.v19.n2.66505",
+     "doi": "10.4322/dilemas.v19.n2.66505",
+     "paginas": "e66505",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.4322/dilemas.v19.n2.66529",
+     "titulo": "A Precariedade do Social: as gramáticas de sobrevivência dos adolescentes que cumprem medidas socioeducativas de privação de liberdade",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Pâmela Esteves",
+       "orcid": null
+      }
+     ],
+     "resumen": null,
+     "idioma_resumen": null,
+     "licencia": null,
+     "url": "https://doi.org/10.4322/dilemas.v19.n2.66529",
+     "doi": "10.4322/dilemas.v19.n2.66529",
+     "paginas": "e66529",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.4322/dilemas.v19.n2.66657",
+     "titulo": "Territorialidades da Medida Socioeducativa em Liberdade Assistida: uma análise a partir do olhar dos profissionais do CREAS de Governador Valadares MG",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Edmarcius Carvalho Novaes",
+       "orcid": null
+      },
+      {
+       "nombre": "Girlene Lopes de Oliveira Lourenço",
+       "orcid": null
+      },
+      {
+       "nombre": "Maria Terezinha Bretas Vilarino",
+       "orcid": null
+      }
+     ],
+     "resumen": null,
+     "idioma_resumen": null,
+     "licencia": null,
+     "url": "https://doi.org/10.4322/dilemas.v19.n2.66657",
+     "doi": "10.4322/dilemas.v19.n2.66657",
+     "paginas": "e66657",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.4322/dilemas.v19.n2.67326",
+     "titulo": "Circulando entre o Medo e a Desconfiança: Mobilidade Urbana e Gênero no Uso de Aplicativos de Transporte Privado no Brasil",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Laura Talho",
+       "orcid": null
+      }
+     ],
+     "resumen": null,
+     "idioma_resumen": null,
+     "licencia": null,
+     "url": "https://doi.org/10.4322/dilemas.v19.n2.67326",
+     "doi": "10.4322/dilemas.v19.n2.67326",
+     "paginas": "e67326",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.4322/dilemas.v19.n2.68559",
+     "titulo": "Las cárceles argentinas y su dependencia funcional del aporte familiar: la historia de un proceso conflictivo",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Vanina Ferreccio",
+       "orcid": null
+      }
+     ],
+     "resumen": null,
+     "idioma_resumen": null,
+     "licencia": null,
+     "url": "https://doi.org/10.4322/dilemas.v19.n2.68559",
+     "doi": "10.4322/dilemas.v19.n2.68559",
+     "paginas": "e68559",
+     "fuente": "Crossref"
+    }
+   ]
+  },
+  {
+   "id": "v19-n1-2026",
+   "volumen": "19",
+   "numero": "1",
+   "anio": 2026,
+   "fecha": "2026",
+   "etiqueta": "Vol. 19, núm. 1 (2026)",
+   "fuente": "Crossref",
+   "articulos": [
+    {
+     "id": "10.4322/dilemas.v19.n1.65351",
+     "titulo": "Atuação de associações conservadoras na arena judicial contra demandas LGBTQIA+",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Hilziane Layza de Brito Pereira Lima",
+       "orcid": null
+      },
+      {
+       "nombre": "Olivia Cristina Perez",
+       "orcid": null
+      }
+     ],
+     "resumen": null,
+     "idioma_resumen": null,
+     "licencia": null,
+     "url": "https://doi.org/10.4322/dilemas.v19.n1.65351",
+     "doi": "10.4322/dilemas.v19.n1.65351",
+     "paginas": "e65351",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.4322/dilemas.v19.n1.65808",
+     "titulo": "Hacia una conceptualización del acceso a la justicia en Argentina. Transformaciones normativas, fácticas y discursivas",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "María Natalia Echegoyemberry",
+       "orcid": null
+      },
+      {
+       "nombre": "Alejandra Bocardo",
+       "orcid": null
+      },
+      {
+       "nombre": "Leonel González Postigo",
+       "orcid": null
+      }
+     ],
+     "resumen": null,
+     "idioma_resumen": null,
+     "licencia": null,
+     "url": "https://doi.org/10.4322/dilemas.v19.n1.65808",
+     "doi": "10.4322/dilemas.v19.n1.65808",
+     "paginas": "e65808",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.4322/dilemas.v19.n1.65948",
+     "titulo": "De carcereiros a policiais: presenciamos o nascimento de uma força de ciclo completo?",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Natália Martino",
+       "orcid": null
+      },
+      {
+       "nombre": "Ludmila Ribeiro",
+       "orcid": null
+      }
+     ],
+     "resumen": null,
+     "idioma_resumen": null,
+     "licencia": null,
+     "url": "https://doi.org/10.4322/dilemas.v19.n1.65948",
+     "doi": "10.4322/dilemas.v19.n1.65948",
+     "paginas": "e65948",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.4322/dilemas.v19.n1.66004",
+     "titulo": "Desigualdades no mercado de trabalho para egressos do sistema prisional: uma análise estatística no contexto mineiro",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Daniel Araújo de Azevedo",
+       "orcid": null
+      },
+      {
+       "nombre": "Rafaelle Lopes Souza",
+       "orcid": null
+      },
+      {
+       "nombre": "Alexandre Silva Nogueira",
+       "orcid": null
+      }
+     ],
+     "resumen": null,
+     "idioma_resumen": null,
+     "licencia": null,
+     "url": "https://doi.org/10.4322/dilemas.v19.n1.66004",
+     "doi": "10.4322/dilemas.v19.n1.66004",
+     "paginas": "e66004",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.4322/dilemas.v19.n1.66069",
+     "titulo": "Abordagens da história das facções criminais do Rio de Janeiro na literatura científica: uma revisão de escopo",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Thaíssa Fernanda Kratochwill De Oliveira",
+       "orcid": null
+      },
+      {
+       "nombre": "Adriano da Silva",
+       "orcid": null
+      },
+      {
+       "nombre": "Patrícia Constantino",
+       "orcid": null
+      }
+     ],
+     "resumen": null,
+     "idioma_resumen": null,
+     "licencia": null,
+     "url": "https://doi.org/10.4322/dilemas.v19.n1.66069",
+     "doi": "10.4322/dilemas.v19.n1.66069",
+     "paginas": "e66069",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.4322/dilemas.v19.n1.66210",
+     "titulo": "Quatro décadas da Lei 7.210/1984: uma leitura feminista e interseccional da execução penal no Brasil",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Elaine Pimentel",
+       "orcid": null
+      }
+     ],
+     "resumen": null,
+     "idioma_resumen": null,
+     "licencia": null,
+     "url": "https://doi.org/10.4322/dilemas.v19.n1.66210",
+     "doi": "10.4322/dilemas.v19.n1.66210",
+     "paginas": "e66210",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.4322/dilemas.v19.n1.66213",
+     "titulo": "Repositórios de ideias para punir: uma navegação textual pelos anteprojetos da Lei de Execução Penal (1935-1983)",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Roberta Olivato Canheo",
+       "orcid": null
+      },
+      {
+       "nombre": "Luisa Moraes Abreu Ferreira",
+       "orcid": null
+      },
+      {
+       "nombre": "Maíra Rocha Machado",
+       "orcid": null
+      },
+      {
+       "nombre": "Viviane Balbuglio",
+       "orcid": null
+      },
+      {
+       "nombre": "Maria Eduarda de Castro",
+       "orcid": null
+      },
+      {
+       "nombre": "Beatriz Ferreira de PaulaI",
+       "orcid": null
+      },
+      {
+       "nombre": "Maria Cecília Moreira",
+       "orcid": null
+      },
+      {
+       "nombre": "Luisa Mozetic Plastino",
+       "orcid": null
+      },
+      {
+       "nombre": "Natália Santana dos Santos",
+       "orcid": null
+      },
+      {
+       "nombre": "Bianca Tavolari",
+       "orcid": null
+      },
+      {
+       "nombre": "Mariana Morais Zambom",
+       "orcid": null
+      }
+     ],
+     "resumen": null,
+     "idioma_resumen": null,
+     "licencia": null,
+     "url": "https://doi.org/10.4322/dilemas.v19.n1.66213",
+     "doi": "10.4322/dilemas.v19.n1.66213",
+     "paginas": "e66213",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.4322/dilemas.v19.n1.66305",
+     "titulo": "Trajetória da política penitenciária nacional (1976-2018): construção e implementação de arranjos institucionais",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Carolina Cutrupi Ferreira",
+       "orcid": null
+      }
+     ],
+     "resumen": null,
+     "idioma_resumen": null,
+     "licencia": null,
+     "url": "https://doi.org/10.4322/dilemas.v19.n1.66305",
+     "doi": "10.4322/dilemas.v19.n1.66305",
+     "paginas": "e66305",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.4322/dilemas.v19.n1.66918",
+     "titulo": "Sobreviventes do tempo: as dores do encarceramento vivenciadas por internos idosos",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Hosanah Pereira de Santana",
+       "orcid": null
+      },
+      {
+       "nombre": "Luiz Claudio Lourenço",
+       "orcid": null
+      }
+     ],
+     "resumen": null,
+     "idioma_resumen": null,
+     "licencia": null,
+     "url": "https://doi.org/10.4322/dilemas.v19.n1.66918",
+     "doi": "10.4322/dilemas.v19.n1.66918",
+     "paginas": "e66918",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.4322/dilemas.v19.n1.67157",
+     "titulo": "Memorias, miradas y violencias. Los murales de memorias indígenas en la Comarca Andina del Paralelo 42° (Patagonia Argentina)",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Carolina Crespo",
+       "orcid": null
+      }
+     ],
+     "resumen": null,
+     "idioma_resumen": null,
+     "licencia": null,
+     "url": "https://doi.org/10.4322/dilemas.v19.n1.67157",
+     "doi": "10.4322/dilemas.v19.n1.67157",
+     "paginas": "e67157",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.4322/dilemas.v19.n1.67799",
+     "titulo": "Desempenho do sistema de justiça criminal em um município de médio porte: carga de trabalho e capacidade institucional importam?",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Cleber Lopes",
+       "orcid": null
+      },
+      {
+       "nombre": "Gustavo Vacile Martinez Chirnev",
+       "orcid": null
+      },
+      {
+       "nombre": "Ludmila Ribeiro",
+       "orcid": null
+      },
+      {
+       "nombre": "Amanda Lagreca",
+       "orcid": null
+      }
+     ],
+     "resumen": null,
+     "idioma_resumen": null,
+     "licencia": null,
+     "url": "https://doi.org/10.4322/dilemas.v19.n1.67799",
+     "doi": "10.4322/dilemas.v19.n1.67799",
+     "paginas": "e67799",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.4322/dilemas.v19.n1.67966",
+     "titulo": "Estudos sobre políticas prisionais, penitenciárias e de execução penal no Brasil desde a perspectiva das políticas públicas: uma revisão de escopo",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Guilherme Augusto Dornelles de Souza",
+       "orcid": null
+      },
+      {
+       "nombre": "Lígia Mori Madeira",
+       "orcid": null
+      },
+      {
+       "nombre": "Maíra Cabral Juliano",
+       "orcid": null
+      }
+     ],
+     "resumen": null,
+     "idioma_resumen": null,
+     "licencia": null,
+     "url": "https://doi.org/10.4322/dilemas.v19.n1.67966",
+     "doi": "10.4322/dilemas.v19.n1.67966",
+     "paginas": "e67966",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.4322/dilemas.v19.n1.72293",
+     "titulo": "Apresentação ao dossiê Quatro décadas da Lei de Execução Penal: Construções do encarceramento como problema público",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Lígia Mori Madeira",
+       "orcid": null
+      },
+      {
+       "nombre": "Guilherme Augusto Dornelles de Souza",
+       "orcid": null
+      }
+     ],
+     "resumen": null,
+     "idioma_resumen": null,
+     "licencia": null,
+     "url": "https://doi.org/10.4322/dilemas.v19.n1.72293",
+     "doi": "10.4322/dilemas.v19.n1.72293",
+     "paginas": "e72293",
+     "fuente": "Crossref"
+    }
+   ]
+  },
+  {
+   "id": "v18-n3-2025",
+   "volumen": "18",
+   "numero": "3",
+   "anio": 2025,
+   "fecha": "2025",
+   "etiqueta": "Vol. 18, núm. 3 (2025)",
+   "fuente": "Crossref",
+   "articulos": [
+    {
+     "id": "10.4322/dilemas.v18.n3.64021",
+     "titulo": "Más allá del cuerpo perfecto. Perspectivas contemporáneas del capacitismo en las ciencias sociales",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Raquel Sánchez-Padilla",
+       "orcid": null
+      },
+      {
+       "nombre": "Susana Rodríguez Díaz",
+       "orcid": null
+      }
+     ],
+     "resumen": null,
+     "idioma_resumen": null,
+     "licencia": null,
+     "url": "https://doi.org/10.4322/dilemas.v18.n3.64021",
+     "doi": "10.4322/dilemas.v18.n3.64021",
+     "paginas": "e64021",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.4322/dilemas.v18.n3.65767",
+     "titulo": "Políticas sobre a maconha: análise comparativa dos modelos de gerenciamento do Brasil e do Uruguai e seus impactos sociais",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Kelly Cardoso da Silva",
+       "orcid": null
+      }
+     ],
+     "resumen": null,
+     "idioma_resumen": null,
+     "licencia": null,
+     "url": "https://doi.org/10.4322/dilemas.v18.n3.65767",
+     "doi": "10.4322/dilemas.v18.n3.65767",
+     "paginas": "e65767",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.4322/dilemas.v18.n3.66133",
+     "titulo": "The Crisis of Democratic Politics and Metapolitical Violence: An Analysis of Rampage Shootings",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Ana Paula Silva",
+       "orcid": null
+      }
+     ],
+     "resumen": null,
+     "idioma_resumen": null,
+     "licencia": null,
+     "url": "https://doi.org/10.4322/dilemas.v18.n3.66133",
+     "doi": "10.4322/dilemas.v18.n3.66133",
+     "paginas": "e66133",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.4322/dilemas.v18.n3.66280",
+     "titulo": "Entre grades e galerias: o cárcere em exposição",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Viviane Borges",
+       "orcid": null
+      }
+     ],
+     "resumen": null,
+     "idioma_resumen": null,
+     "licencia": null,
+     "url": "https://doi.org/10.4322/dilemas.v18.n3.66280",
+     "doi": "10.4322/dilemas.v18.n3.66280",
+     "paginas": "e66280",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.4322/dilemas.v18.n3.66301",
+     "titulo": "A resistência em Foucault, revisitada - Resenha do livro 'Foucault in Brazil: Dictatorship, Resistance, and Solidarity', de Marcelo Hoffman (University of Pittsburgh Press, 2024)",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Jade Gonçalves Roque",
+       "orcid": null
+      },
+      {
+       "nombre": "Felipe Ramos Garcia",
+       "orcid": null
+      }
+     ],
+     "resumen": null,
+     "idioma_resumen": null,
+     "licencia": null,
+     "url": "https://doi.org/10.4322/dilemas.v18.n3.66301",
+     "doi": "10.4322/dilemas.v18.n3.66301",
+     "paginas": "e66301",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.4322/dilemas.v18.n3.66331",
+     "titulo": "50 anos de Vigiar e punir: recepção, crítica e novas perspectivas para a Sociologia da Violência",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Rodrigo Ghiringhelli de Azevedo",
+       "orcid": null
+      },
+      {
+       "nombre": "Fernanda Bestetti de Vasconcellos",
+       "orcid": null
+      }
+     ],
+     "resumen": null,
+     "idioma_resumen": null,
+     "licencia": null,
+     "url": "https://doi.org/10.4322/dilemas.v18.n3.66331",
+     "doi": "10.4322/dilemas.v18.n3.66331",
+     "paginas": "e66331",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.4322/dilemas.v18.n3.66792",
+     "titulo": "Pandemia e tratamento jurídico desigual: uma análise de habeas corpus impetrados no Tribunal de Justiça do Mato Grosso do Sul (2020-2022)",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "André Luiz Faisting",
+       "orcid": null
+      },
+      {
+       "nombre": "Roberto Kant de Lima",
+       "orcid": null
+      }
+     ],
+     "resumen": null,
+     "idioma_resumen": null,
+     "licencia": null,
+     "url": "https://doi.org/10.4322/dilemas.v18.n3.66792",
+     "doi": "10.4322/dilemas.v18.n3.66792",
+     "paginas": "e66792",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.4322/dilemas.v18.n3.66835",
+     "titulo": "Punição e dominação social: a questão dos ilegalismos em Michel Foucault",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Fernando Salla",
+       "orcid": null
+      },
+      {
+       "nombre": "Lucas Batista Pilau",
+       "orcid": null
+      }
+     ],
+     "resumen": null,
+     "idioma_resumen": null,
+     "licencia": null,
+     "url": "https://doi.org/10.4322/dilemas.v18.n3.66835",
+     "doi": "10.4322/dilemas.v18.n3.66835",
+     "paginas": "e66835",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.4322/dilemas.v18.n3.66940",
+     "titulo": "Um mosaico do dispositivo punitivo à brasileira - Resenha do livro 'Sob o peso da pena: pesquisas e reflexões sobre o universo prisional', de Luiz Claudio Lourenço (EDUFBA, 2024)",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Maiara Corrêa",
+       "orcid": null
+      }
+     ],
+     "resumen": null,
+     "idioma_resumen": null,
+     "licencia": null,
+     "url": "https://doi.org/10.4322/dilemas.v18.n3.66940",
+     "doi": "10.4322/dilemas.v18.n3.66940",
+     "paginas": "e66940",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.4322/dilemas.v18.n3.67943",
+     "titulo": "Por uma história não finalista da punição: soberania, disciplina e controle e a atualidade de Vigiar e Punir",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Ricardo Urquizas Campello",
+       "orcid": null
+      },
+      {
+       "nombre": "Jade Gonçalves Roque",
+       "orcid": null
+      },
+      {
+       "nombre": "Marcos César Alvarez",
+       "orcid": null
+      }
+     ],
+     "resumen": null,
+     "idioma_resumen": null,
+     "licencia": null,
+     "url": "https://doi.org/10.4322/dilemas.v18.n3.67943",
+     "doi": "10.4322/dilemas.v18.n3.67943",
+     "paginas": "e67943",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.4322/dilemas.v18.n3.69143",
+     "titulo": "Governança em Ruínas: uma crítica sociológica à crise da segurança pública no Brasil - Resenha do livro 'Segurança pública, redes e governança', de Arthur Trindade Costa (Ed. UnB, 2023)",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Walter Rosas Dias",
+       "orcid": null
+      }
+     ],
+     "resumen": null,
+     "idioma_resumen": null,
+     "licencia": null,
+     "url": "https://doi.org/10.4322/dilemas.v18.n3.69143",
+     "doi": "10.4322/dilemas.v18.n3.69143",
+     "paginas": "e69143",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.4322/dilemas.v18.n3.69219",
+     "titulo": "O panóptico criminal: poder armado, vigilância e expansão transnacional do PCC e CV",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Júlia Quirino",
+       "orcid": null
+      }
+     ],
+     "resumen": null,
+     "idioma_resumen": null,
+     "licencia": null,
+     "url": "https://doi.org/10.4322/dilemas.v18.n3.69219",
+     "doi": "10.4322/dilemas.v18.n3.69219",
+     "paginas": "e69219",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.4322/dilemas.v18.n3.69253",
+     "titulo": "Foucault e a lição do movimento de apoio aos presos",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Marcelo Hoffman",
+       "orcid": null
+      }
+     ],
+     "resumen": null,
+     "idioma_resumen": null,
+     "licencia": null,
+     "url": "https://doi.org/10.4322/dilemas.v18.n3.69253",
+     "doi": "10.4322/dilemas.v18.n3.69253",
+     "paginas": "e69253",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.4322/dilemas.v18.n3.69442",
+     "titulo": "Repensar o castigo na contemporaneidade - Resenha do livro 'Punir: uma paixão contemporânea', de Didier Fassin (Âyiné, 2022)",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Lucas Batista Pilau",
+       "orcid": null
+      },
+      {
+       "nombre": "Marcos César Alvarez",
+       "orcid": null
+      }
+     ],
+     "resumen": null,
+     "idioma_resumen": null,
+     "licencia": null,
+     "url": "https://doi.org/10.4322/dilemas.v18.n3.69442",
+     "doi": "10.4322/dilemas.v18.n3.69442",
+     "paginas": "e69442",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.4322/dilemas.v18.n3.70027",
+     "titulo": "Apresentação ao dossiê A contribuição de Vigiar e Punir: 50 anos depois",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Marcos César Alvarez",
+       "orcid": null
+      },
+      {
+       "nombre": "Jade Gonçalves Roque",
+       "orcid": null
+      },
+      {
+       "nombre": "Lucas Batista Pilau",
+       "orcid": null
+      },
+      {
+       "nombre": "Maiara Corrêa",
+       "orcid": null
+      }
+     ],
+     "resumen": null,
+     "idioma_resumen": null,
+     "licencia": null,
+     "url": "https://doi.org/10.4322/dilemas.v18.n3.70027",
+     "doi": "10.4322/dilemas.v18.n3.70027",
+     "paginas": "e70027",
+     "fuente": "Crossref"
+    }
+   ]
+  }
+ ]
+}

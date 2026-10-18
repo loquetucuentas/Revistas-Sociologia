@@ -28,9 +28,18 @@ _ultima_peticion = {}
 class ErrorRed(Exception):
     """Fallo de red o respuesta HTTP no satisfactoria."""
 
-    def __init__(self, mensaje, estado=None):
+    def __init__(self, mensaje, estado=None, dominio=None, bloqueado=False):
         super().__init__(mensaje)
         self.estado = estado
+        self.dominio = dominio
+        # True cuando la política de red del entorno no deja salir hacia ese dominio.
+        self.bloqueado = bloqueado
+
+
+def es_bloqueo_de_red(error):
+    """Detecta el rechazo del proxy del entorno (CONNECT con respuesta 403)."""
+    motivo = str(getattr(error, "reason", error))
+    return "Tunnel connection failed: 403" in motivo
 
 
 def obtener(url, parametros=None, intentos=3, tiempo_espera=40):
@@ -55,17 +64,28 @@ def obtener(url, parametros=None, intentos=3, tiempo_espera=40):
             if error.code in (429, 500, 502, 503, 504) and intento < intentos - 1:
                 time.sleep(2 ** (intento + 1))
                 continue
-            raise ErrorRed(f"HTTP {error.code} en {url}", error.code) from error
+            raise ErrorRed(f"HTTP {error.code} en {url}", error.code, dominio=servidor) from error
         except (urllib.error.URLError, TimeoutError, ConnectionError) as error:
+            if es_bloqueo_de_red(error):
+                # Reintentar no sirve: el dominio no está en la lista de permitidos.
+                raise ErrorRed(f"La red del entorno no permite conectar con {servidor} "
+                               f"({getattr(error, 'reason', error)})", dominio=servidor, bloqueado=True) from error
             if intento < intentos - 1:
                 time.sleep(2 ** (intento + 1))
                 continue
-            raise ErrorRed(f"Sin conexión con {url}: {error}") from error
+            raise ErrorRed(f"Sin conexión con {url}: {error}", dominio=servidor) from error
     raise ErrorRed(f"No se pudo descargar {url}")
 
 
-def obtener_json(url, parametros=None):
-    return json.loads(obtener(url, parametros).decode("utf-8"))
+def obtener_json(url, parametros=None, intentos=3):
+    """Descarga y decodifica JSON; una respuesta cortada se vuelve a pedir."""
+    for intento in range(intentos):
+        try:
+            return json.loads(obtener(url, parametros).decode("utf-8"))
+        except ValueError as error:
+            if intento == intentos - 1:
+                raise ErrorRed(f"Respuesta JSON no válida desde {url}: {error}") from error
+            time.sleep(2 ** (intento + 1))
 
 
 # Texto
@@ -86,8 +106,11 @@ def limpiar_texto(texto):
 
 
 def limpiar_resumen(texto):
-    texto = limpiar_texto(texto)
-    return _ENCABEZADO_RESUMEN.sub("", texto)
+    """Limpia un resumen y descarta los que solo contienen un encabezado o un signo."""
+    texto = _ENCABEZADO_RESUMEN.sub("", limpiar_texto(texto))
+    if len(re.findall(r"\w+", texto)) < 3:
+        return ""
+    return texto
 
 
 def sin_tildes(texto):
@@ -138,25 +161,66 @@ def normalizar_licencia(url=None, nombre=None):
 
 # Idioma
 
+# Palabras frecuentes de cada idioma. Las compartidas entre varios idiomas
+# (de, en, la, a...) puntúan para todos y no inclinan la balanza; las
+# propias de un solo idioma (y, los, do, em, et, the...) son las que deciden.
 _PALABRAS = {
-    "es": "el la los las de del que y en un una por con para es se no al lo como más su sus entre sobre este esta desde también fue han ser son".split(),
-    "en": "the of and to in a is that for on with as by are this from be an which or at it its their between has have was were these".split(),
-    "pt": "o a os as de do da dos das que e em um uma por com para é não ao como mais seu sua entre sobre este esta também foi são".split(),
-    "ca": "el la els les de del que i en un una per amb és no al com més seu seva entre sobre aquest aquesta també va són dels".split(),
-    "fr": "le la les de des du que et en un une par pour est ne pas au comme plus son sa entre sur ce cette aussi été sont dans".split(),
+    "es": "a el la los las de del que y en un una unos unas por con para es se no al lo como más su sus "
+          "entre sobre este esta estos estas desde también fue han ser son hacia según durante sin "
+          "muy pero cuando donde le les ante tras mediante cual cuales sí otro otra nuevo nueva",
+    "pt": "o a os as de do da dos das que e em um uma por com para é se não ao aos à às como mais seu sua "
+          "seus suas entre sobre este esta também foi são pelo pela pelos pelas nos na nas no ou muito "
+          "quando onde durante sem mas novo nova através estudo",
+    "ca": "a el la els les de del dels que i en un una per amb és es no al als com més seu seva seus "
+          "seves entre sobre aquest aquesta també va són pel pels sense però quan on nou nova cap",
+    "fr": "à le la les de des du que et en un une par pour est se ne pas au aux comme plus son sa ses "
+          "entre sur ce cette ces aussi été sont dans qui leur leurs sans mais quand où nouveau nouvelle",
+    "it": "a il lo la i gli le di del della dei degli delle che e in un una per con è si non al alla come "
+          "più suo sua suoi tra fra su questo questa anche stato sono nel nella nei nelle sul sulla "
+          "senza ma quando dove nuovo nuova",
+    "en": "the of and to in a is that for on with as by are this from be an which or at it its their "
+          "between has have was were these how what among through toward towards new study",
+    # En polaco se omiten «o», «do», «na» o «i», que coinciden con otros idiomas
+    # y confundían títulos portugueses; los diacríticos ya lo identifican bien.
+    "pl": "w z się nie jest oraz od dla przez że jako czy ich jej jego ale lub także być są który która "
+          "które ze we wobec przy między wśród",
 }
-_PALABRAS = {idioma: set(lista) for idioma, lista in _PALABRAS.items()}
+_PALABRAS = {idioma: set(lista.split()) for idioma, lista in _PALABRAS.items()}
+# Peso de cada palabra según en cuántos idiomas aparece: 2,5 si es propia de
+# uno solo, 1,5 si la comparten dos (como «e» en portugués e italiano) y 0,5
+# si es común a tres o más.
+_PESOS = {}
+for _palabra in set().union(*_PALABRAS.values()):
+    _veces = sum(_palabra in lista for lista in _PALABRAS.values())
+    _PESOS[_palabra] = 2.5 if _veces == 1 else 1.5 if _veces == 2 else 0.5
+# Rasgos ortográficos característicos, con su peso.
 _SENALES = {
-    "es": ("ción", "ñ", " los ", " del "),
-    "pt": ("ção", "ões", " não ", "ã"),
-    "ca": ("ció ", " amb ", "l·l", " els "),
-    "fr": (" les ", " des ", "è", " est "),
-    "en": (" the ", " and ", "ing "),
+    "es": [(r"ción\b|ciones\b", 2), (r"ñ", 2), (r"[¿¡]", 3), (r"dad\b|dades\b", 1)],
+    "pt": [(r"ção\b|ções\b", 3), (r"[ãõ]", 3), (r"\w(lh|nh)\w", 1), (r"dade\b|dades\b", 1),
+           (r"ência\b|ências\b|ância\b", 2), (r"[êô]", 1)],
+    "ca": [(r"l·l", 4), (r"ció\b|cions\b", 2), (r"\b[ld]['’]\w", 1), (r"[àèò]\w", 1)],
+    "fr": [(r"\b(l|d|qu|n|s|c|j)['’]\w", 2), (r"eau\b|eaux\b", 2), (r"[èêëç]", 1), (r"tion\b|tions\b", 1)],
+    "it": [(r"zione\b|zioni\b", 3), (r"\b(gli|della|delle|degli|nella|nelle)\b", 1), (r"tà\b", 2)],
+    "en": [(r"\b\w+ing\b", 1), (r"\b\w+ly\b", 1), (r"th", 1), (r"tion\b|tions\b", 0.5)],
+    "pl": [(r"[ąęłśżźćń]", 2), (r"ość\b|ości\b", 2), (r"(cz|sz|rz|wy|ów)", 1)],
 }
 
 
-def detectar_idioma(texto, minimo_palabras=6):
-    """Estima el idioma de un texto con una lista de palabras frecuentes.
+def puntuar_idiomas(texto):
+    """Devuelve (puntos por idioma, número de palabras) de un texto."""
+    minusculas = texto.lower()
+    palabras = re.findall(r"[a-zà-ÿ·ąęłśżźćń]+", minusculas)
+    puntos = {}
+    for idioma, frecuentes in _PALABRAS.items():
+        total = sum(_PESOS[p] for p in palabras if p in frecuentes)
+        for patron, peso in _SENALES[idioma]:
+            total += peso * min(len(re.findall(patron, minusculas)), 6)
+        puntos[idioma] = total
+    return puntos, len(palabras)
+
+
+def detectar_idioma(texto, minimo_palabras=3):
+    """Estima el idioma de un texto con palabras frecuentes y rasgos ortográficos.
 
     Solo devuelve un código cuando el resultado es claro. Si el texto es
     corto o mezcla idiomas, devuelve None y la interfaz hereda el idioma
@@ -165,17 +229,13 @@ def detectar_idioma(texto, minimo_palabras=6):
     """
     if not texto:
         return None
-    minusculas = " " + texto.lower() + " "
-    palabras = re.findall(r"[a-zà-ÿ·']+", minusculas)
-    if len(palabras) < minimo_palabras:
+    puntos, cantidad = puntuar_idiomas(texto)
+    if cantidad < minimo_palabras:
         return None
-    puntos = {}
-    for idioma, frecuentes in _PALABRAS.items():
-        puntos[idioma] = sum(1 for p in palabras if p in frecuentes)
-        puntos[idioma] += sum(2 for s in _SENALES[idioma] if s in minusculas)
     orden = sorted(puntos.items(), key=lambda par: par[1], reverse=True)
     (primero, a), (_, b) = orden[0], orden[1]
-    if a < 3 or a < b * 1.6:
+    # Hace falta una ventaja clara en valor absoluto y en proporción.
+    if a < 2.5 or a - b < 2 or a < b * 1.4:
         return None
     return primero
 
@@ -198,7 +258,7 @@ def normalizar_idioma(codigo):
     return base if re.fullmatch(r"[a-z]{2}", base) else None
 
 
-def idioma_de(texto, declarado=None, minimo_palabras=6):
+def idioma_de(texto, declarado=None, minimo_palabras=3):
     """Prioriza el idioma declarado por la fuente; si no hay, lo estima."""
     return normalizar_idioma(declarado) or detectar_idioma(texto, minimo_palabras)
 

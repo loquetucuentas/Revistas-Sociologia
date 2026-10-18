@@ -66,6 +66,11 @@
     return nodo;
   }
 
+  // Nombre de una revista con su idioma marcado, para usarlo dentro de otros textos.
+  function nombreRevista(revista) {
+    return conIdioma(el('span', null, revista.titulo), revista.idioma_titulo);
+  }
+
   function urlSegura(url) {
     return typeof url === 'string' && /^https?:\/\//i.test(url) ? url : null;
   }
@@ -177,7 +182,6 @@
   function cargarListado() {
     return cargarDatos('revistas.json').then(function (datos) {
       if (!datos || !Array.isArray(datos.revistas)) throw new ErrorDatos('datos', 'El listado de revistas no tiene el formato esperado.');
-      mostrarAvisoPrueba(datos.es_prueba);
       actualizarPie(datos.generado);
       return datos;
     });
@@ -196,10 +200,6 @@
         return datos;
       });
     });
-  }
-
-  function mostrarAvisoPrueba(esPrueba) {
-    document.getElementById('aviso-prueba').hidden = !esPrueba;
   }
 
   function actualizarPie(generado) {
@@ -276,7 +276,7 @@
       var ultima = i === elementos.length - 1;
       return el('li', null, ultima
         ? el('span', { 'aria-current': 'page' }, conIdioma(el('span', null, miga.texto), miga.idioma))
-        : el('a', { href: miga.href }, miga.texto));
+        : el('a', { href: miga.href }, conIdioma(el('span', null, miga.texto), miga.idioma)));
     }));
   }
 
@@ -329,7 +329,7 @@
       [['Editorial', revista.editorial], ['País', nombreDe('region', revista.pais)], ['Último número', revista.ultimo_numero]]
         .forEach(function (par) { if (par[1]) anadir(datosRevista, [el('dt', null, par[0]), el('dd', null, par[1])]); });
       return el('li', { clase: 'tarjeta' },
-        el('h3', { clase: 'tarjeta__titulo' }, el('a', { href: ruta('revista', revista.id) }, revista.titulo)),
+        el('h3', { clase: 'tarjeta__titulo' }, el('a', { href: ruta('revista', revista.id) }, nombreRevista(revista))),
         datosRevista);
     }
 
@@ -476,11 +476,12 @@
 
     return {
       titulo: revista.titulo,
-      migas: [{ texto: revista.titulo, href: ruta('revista', revista.id) }],
+      migas: [{ texto: revista.titulo, idioma: revista.idioma_titulo, href: ruta('revista', revista.id) }],
       anuncio: 'Ficha de la revista cargada. ' + (numeros.length ? plural(numeros.length, 'número disponible', 'números disponibles') + '.' : 'No hay números disponibles.'),
       contenido: el('div', null,
-        encabezado(revista.titulo),
-        revista.titulo_alternativo ? el('p', { clase: 'texto-suave' }, 'También conocida como: ', revista.titulo_alternativo) : null,
+        encabezado(revista.titulo, revista.idioma_titulo),
+        revista.titulo_alternativo ? el('p', { clase: 'texto-suave' }, 'También conocida como: ',
+          conIdioma(el('span', null, revista.titulo_alternativo), revista.idioma_titulo_alternativo)) : null,
         el('h2', null, 'Sobre la revista'),
         revista.descripcion ? el('p', { clase: 'texto-ancho' }, revista.descripcion) : null,
         ficha,
@@ -496,8 +497,8 @@
     var titulo = conIdioma(el('h3', { clase: 'tarjeta__titulo' }), articulo.idioma_titulo);
     titulo.textContent = articulo.titulo;
 
-    var publicado = 'Publicado en ' + revista.titulo + ', ' + numero.etiqueta +
-      (articulo.paginas ? ', páginas ' + articulo.paginas : '') + '.';
+    var publicado = ['Publicado en ', nombreRevista(revista), ', ' + numero.etiqueta +
+      (articulo.paginas ? ', páginas ' + articulo.paginas : '') + '.'];
 
     var resumen;
     if (articulo.resumen) {
@@ -531,7 +532,7 @@
     var articulos = numero.articulos || [];
     var fecha = fechaLegible(numero.fecha);
     var contenido = el('div', null,
-      encabezado(revista.titulo + ': ' + numero.etiqueta),
+      encabezado([nombreRevista(revista), ': ' + numero.etiqueta]),
       el('p', { clase: 'texto-ancho' },
         plural(articulos.length, 'artículo', 'artículos') + '.' +
         (fecha ? ' Publicado en ' + fecha + '.' : '') +
@@ -555,7 +556,7 @@
     return {
       titulo: numero.etiqueta + ' · ' + revista.titulo,
       migas: [
-        { texto: revista.titulo, href: ruta('revista', revista.id) },
+        { texto: revista.titulo, idioma: revista.idioma_titulo, href: ruta('revista', revista.id) },
         { texto: numero.etiqueta, href: ruta('revista', revista.id, 'numero', numero.id) }
       ],
       anuncio: 'Índice del número cargado. ' + (articulos.length ? plural(articulos.length, 'artículo', 'artículos') + '.' : 'No tiene artículos registrados.'),

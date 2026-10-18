@@ -6,7 +6,7 @@ from comun import (ErrorRed, idioma_de, limpiar_resumen, limpiar_texto, normaliz
                    normalizar_licencia, obtener_json, slug, url_segura)
 
 API = "https://api.crossref.org/journals/{issn}/works"
-CAMPOS = "DOI,title,original-title,author,abstract,license,URL,volume,issue,published,issued,page,language,type"
+CAMPOS = "DOI,title,original-title,author,abstract,license,URL,volume,issue,published,issued,page,type"
 FILAS = 300
 
 
@@ -70,7 +70,7 @@ def articulo(obra):
     return {
         "id": doi,
         "titulo": titulo,
-        "idioma_titulo": idioma_de(titulo, declarado, minimo_palabras=5),
+        "idioma_titulo": idioma_de(titulo, declarado),
         "autores": autores(obra),
         "resumen": resumen,
         "idioma_resumen": idioma_de(resumen, declarado) if resumen else None,
@@ -126,9 +126,14 @@ def preparar_numero(grupo, fuente):
 
 
 def ultimos_numeros(issns, cantidad=3):
-    """Prueba cada ISSN de la revista y devuelve los números del primero con datos."""
-    ultimo_error = None
-    for issn in [i for i in issns if i]:
+    """Prueba cada ISSN de la revista y devuelve los números más recientes.
+
+    Algunas revistas registran en Crossref los números nuevos con un ISSN
+    y los antiguos con otro, así que se consultan todos y se elige el que
+    llega a un año más reciente.
+    """
+    ultimo_error, mejores = None, []
+    for issn in dict.fromkeys(i for i in issns if i):
         try:
             try:
                 datos = obtener_json(API.format(issn=issn), {
@@ -145,8 +150,10 @@ def ultimos_numeros(issns, cantidad=3):
             continue
         obras = (datos.get("message") or {}).get("items") or []
         numeros = agrupar(obras, cantidad)
-        if numeros:
-            return numeros
+        if numeros and (not mejores or (numeros[0]["anio"] or 0) > (mejores[0]["anio"] or 0)):
+            mejores = numeros
+    if mejores:
+        return mejores
     if ultimo_error and ultimo_error.estado != 404:
         raise ultimo_error
     return []

@@ -36,15 +36,27 @@ def candidatos(url_revista):
     lista.append(base + "/oai")
     if "/index.php" not in base:
         lista.append(base + "/index.php/index/oai")
+    # Si la web figura con http, se prueba antes la versión https, que casi
+    # todas las revistas OJS ofrecen y que es más segura.
+    if base.lower().startswith("http://"):
+        lista = ["https://" + c[len("http://"):] for c in lista] + lista
     return list(dict.fromkeys(lista))
 
 
 def descubrir(url_revista):
-    """Devuelve el primer punto OAI que responde a Identify, o None."""
+    """Devuelve el primer punto OAI que responde a Identify, o None.
+
+    Si la red del entorno no permite el dominio de la revista, se propaga
+    el error para que la revista quede pendiente de revisión con su dominio.
+    """
     for candidato in candidatos(url_revista):
         try:
             raiz = ET.fromstring(obtener(candidato, {"verb": "Identify"}, intentos=1, tiempo_espera=25))
-        except (ErrorRed, ET.ParseError):
+        except ErrorRed as error:
+            if error.bloqueado:
+                raise
+            continue
+        except ET.ParseError:
             continue
         if raiz.find("oai:Identify", NS) is not None:
             return candidato
@@ -124,7 +136,7 @@ def registro_a_articulo(registro):
         "articulo": {
             "id": doi or cabecera.findtext("oai:identifier", default=url, namespaces=NS),
             "titulo": titulo,
-            "idioma_titulo": idioma_de(titulo, idioma_titulo or idioma_doc, minimo_palabras=5),
+            "idioma_titulo": idioma_de(titulo, idioma_titulo or idioma_doc),
             "autores": [{"nombre": n, "orcid": None} for n, _ in textos(metadatos, "creator")],
             "resumen": resumen,
             "idioma_resumen": idioma_de(resumen, idioma_resumen or idioma_doc) if resumen else None,

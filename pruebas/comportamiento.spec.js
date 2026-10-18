@@ -19,11 +19,6 @@ test('la página declara el idioma español y tiene los puntos de referencia', a
   await expect(page.locator('h1')).toHaveCount(1);
 });
 
-test('el aviso de datos de prueba es visible con datos de prueba', async ({ page }) => {
-  await page.goto('/');
-  await expect(page.getByText('Datos de prueba.')).toBeVisible();
-});
-
 test('el enlace de salto es lo primero, se ve con el foco y lleva al contenido', async ({ page }) => {
   await page.goto('/');
   await esperarVista(page, 'Revistas de sociología');
