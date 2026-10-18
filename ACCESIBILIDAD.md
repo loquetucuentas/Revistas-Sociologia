@@ -223,7 +223,7 @@ Estado a 18 de octubre de 2026: la vista de lectura está construida y probada c
 12. En el archivo único, la lectura funciona sin ninguna petición externa.
 13. Con los datos reales, cada texto completo que se recoja se abrirá en las pruebas para comprobar el h1, la licencia, el idioma, la ausencia de imágenes y scripts, el reflujo y axe (pruebas/datos-reales.spec.js).
 
-Resultado de axe en GitHub Actions: pendiente de la próxima ejecución del flujo Pruebas.
+Resultado de axe en GitHub Actions (flujo Pruebas, ejecución 39117520310, commit 32f9cb8): pasan las 170 pruebas, con 0 errores de axe en todas las vistas, incluida la de lectura. La ejecución anterior encontró dos problemas que se corrigieron: las notas se pintaban como regiones complementarias (aside) dentro de otra región, y a 320 píxeles con el texto al 200 por ciento la indicación «Lectura completa disponible» y la última miga provocaban scroll horizontal con la fuente DejaVu Sans. Ahora hay una prueba de reflujo con esa fuente.
 
 ### 6.2. Pendiente de revisión manual con VoiceOver
 
