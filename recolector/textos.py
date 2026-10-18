@@ -142,8 +142,13 @@ class Cliente:
         lector = self.robots[dominio]
         return bool(lector) and lector.can_fetch(AGENTE, url)
 
-    def obtener(self, url):
-        """Descarga una URL. Devuelve (url final, tipo, cuerpo o None si no ha cambiado)."""
+    def obtener(self, url, condicional=True):
+        """Descarga una URL. Devuelve (url final, tipo, cuerpo o None si no ha cambiado).
+
+        Con condicional=False se pide sin cabeceras condicionales y siempre se
+        devuelve el contenido: hace falta cuando no hay una conversión anterior
+        que reutilizar.
+        """
         for _ in range(MAX_REDIRECCIONES + 1):
             # Se usa siempre https: es la misma página por una conexión cifrada.
             if url.lower().startswith("http://"):
@@ -153,7 +158,7 @@ class Cliente:
             if not self.permitido(url):
                 dominio = urllib.parse.urlsplit(url).netloc.lower()
                 raise Detenido(self.detenidos.get(dominio) or "robots.txt no permite descargar esta página.", dominio, "robots")
-            anterior = self.cache.get(url, {})
+            anterior = self.cache.get(url, {}) if condicional else {}
             cabeceras = {}
             if anterior.get("etag"):
                 cabeceras["If-None-Match"] = anterior["etag"]
@@ -174,7 +179,7 @@ class Cliente:
             cambiado = resumen != anterior.get("sha256")
             self.cache[url] = {"etag": encabezados.get("ETag"), "modificado": encabezados.get("Last-Modified"),
                                "sha256": resumen, "tipo": tipo}
-            return url, tipo, cuerpo if cambiado else None
+            return url, tipo, cuerpo if (cambiado or not condicional) else None
         raise Detenido("Demasiadas redirecciones.", urllib.parse.urlsplit(url).netloc)
 
 
@@ -270,12 +275,12 @@ def contenedor_html(texto, url):
     raise saneado.NoConvertible("No se reconoce la estructura de la página HTML; no se puede asegurar qué parte es el artículo.")
 
 
-def descargar_texto(cliente, galerada):
+def descargar_texto(cliente, galerada, condicional=True):
     """Descarga una galerada o enlace de texto completo. Devuelve (formato, url, cuerpo, plataforma)."""
     url = galerada["url"]
     if galerada["formato"] == "xml" and "/article/view/" in url:
         url = url.replace("/article/view/", "/article/download/")
-    url_final, tipo, cuerpo = cliente.obtener(url)
+    url_final, tipo, cuerpo = cliente.obtener(url, condicional)
     return url_final, tipo, cuerpo
 
 
@@ -311,7 +316,14 @@ def paso_textos(carpeta):
         registro = estado["articulos"][doi]
         revista, numero, articulo = articulos[doi]
         print(f"[{posicion}/{len(orden)}] {doi}", flush=True)
-        registro["resultado"] = procesar(cliente, carpeta, registro, revista, numero, articulo, ahora())
+        try:
+            registro["resultado"] = procesar(cliente, carpeta, registro, revista, numero, articulo, ahora())
+        except Exception as error:  # noqa: BLE001
+            # Un fallo inesperado en un artículo no detiene la recolección:
+            # queda pendiente, con el detalle, y se sigue con los demás.
+            registro["resultado"] = {"estado": "pendiente", "motivo": "error-interno",
+                                     "detalle": f"{type(error).__name__}: {error}"}
+            print(f"  Error inesperado: {type(error).__name__}: {error}", flush=True)
         if posicion % 20 == 0:
             escribir_json(estado_ruta, estado)
     estado["textos_actualizados"] = ahora()
@@ -330,8 +342,7 @@ def procesar(cliente, carpeta, registro, revista, numero, articulo, fecha):
             return dict(registro["resultado"], comprobado=fecha)
         if cuerpo is None:
             # La página no ha cambiado pero no hay texto previo: se vuelve a pedir entera.
-            cliente.cache.pop(registro["pagina"], None)
-            url_pagina, _, cuerpo = cliente.obtener(registro["pagina"])
+            url_pagina, _, cuerpo = cliente.obtener(registro["pagina"], condicional=False)
         galeradas, licencias_pagina, avisos = leer_pagina(decodificar(cuerpo), url_pagina)
         motivo = licencias.contradice(registro["licencia"], licencias_pagina, avisos)
         if motivo:
@@ -374,8 +385,7 @@ def convertir_galerada(cliente, carpeta, archivo, galerada, registro, revista, n
     if cuerpo is None and os.path.exists(os.path.join(carpeta, archivo)):
         return dict(registro.get("resultado") or {}, estado="disponible", comprobado=fecha)
     if cuerpo is None:
-        cliente.cache.pop(url, None)
-        url, tipo, cuerpo = descargar_texto(cliente, galerada)
+        url, tipo, cuerpo = descargar_texto(cliente, galerada, condicional=False)
     licencias_texto, declarado = [], None
     if galerada["formato"] == "xml" or tipo in ("application/xml", "text/xml") or cuerpo.lstrip()[:5] == b"<?xml":
         raiz = saneado.leer_jats(cuerpo)

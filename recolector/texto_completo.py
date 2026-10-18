@@ -164,6 +164,7 @@ MOTIVOS_TEXTO = {
     "dominio-no-permitido": "La red del entorno no permite el dominio de la revista.",
     "servidor": "No se ha podido descargar la página del artículo.",
     "denegado": "El servidor de la revista ha denegado el acceso; no se ha insistido.",
+    "error-interno": "Error inesperado del recolector con este artículo; se volverá a intentar.",
     "certificado-tls": "El certificado de seguridad de la web de la revista no se puede verificar; no se ha consultado.",
 }
 

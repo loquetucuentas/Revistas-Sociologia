@@ -185,6 +185,33 @@ class PruebasSaneadoJATS(unittest.TestCase):
             saneado.leer_jats(b'<!DOCTYPE a [<!ENTITY x "y">]><article>&x;</article>')
 
 
+class PruebasClienteCondicional(unittest.TestCase):
+    """Sin conversión previa, la página se pide entera aunque no haya cambiado."""
+
+    def cliente(self, respuestas):
+        cliente = textos.Cliente({})
+        cliente.permitido = lambda url: True
+        llamadas = []
+
+        def pedir(url, cabeceras):
+            llamadas.append(dict(cabeceras))
+            return respuestas.pop(0)
+        cliente._pedir = pedir
+        return cliente, llamadas
+
+    def test_sin_condicional_devuelve_el_contenido(self):
+        cliente, llamadas = self.cliente([(200, {"ETag": "x"}, b"<html>uno</html>"),
+                                          (200, {"ETag": "x"}, b"<html>uno</html>"),
+                                          (200, {"ETag": "x"}, b"<html>uno</html>")])
+        self.assertIsNotNone(cliente.obtener("https://r.ejemplo.org/a")[2])
+        # Igual que antes: con condicional no se repite el trabajo...
+        self.assertIsNone(cliente.obtener("https://r.ejemplo.org/a")[2])
+        self.assertEqual(llamadas[1].get("If-None-Match"), "x")
+        # ...y sin condicional siempre llega el contenido.
+        self.assertEqual(cliente.obtener("https://r.ejemplo.org/a", condicional=False)[2], b"<html>uno</html>")
+        self.assertNotIn("If-None-Match", llamadas[2])
+
+
 class PruebasPaginaArticulo(unittest.TestCase):
     PAGINA = """<html><head><meta name="DC.Rights" content="Copyright (c) 2025 Autora">
     <link rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"></head><body>
