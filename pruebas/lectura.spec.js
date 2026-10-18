@@ -220,3 +220,17 @@ test('axe sin errores en la lectura con el texto al 200 por ciento', async ({ pa
   for (let i = 0; i < 4; i++) await page.getByRole('button', { name: /Aumentar/ }).click();
   expect(await analizarConAxe(page)).toEqual([]);
 });
+
+// Las fuentes anchas, como DejaVu Sans, que es la de los servidores de GitHub,
+// son las que antes provocan scroll horizontal: se prueban también.
+for (const ruta of [INDICE, LECTURA]) {
+  test(`sin scroll horizontal con una fuente ancha a 320 píxeles y al 200 por ciento: ${ruta}`, async ({ page }) => {
+    await page.setViewportSize({ width: 320, height: 640 });
+    await page.goto(ruta);
+    await page.locator('h1').waitFor();
+    await page.addStyleTag({ content: 'body, button, input, select { font-family: "DejaVu Sans", Verdana, sans-serif !important; }' });
+    for (let i = 0; i < 4; i++) await page.getByRole('button', { name: /Aumentar/ }).click();
+    const desborde = await page.evaluate(() => document.documentElement.scrollWidth - document.documentElement.clientWidth);
+    expect(desborde).toBeLessThanOrEqual(0);
+  });
+}

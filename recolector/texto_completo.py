@@ -218,7 +218,7 @@ def escribir_resultados(carpeta, estado):
         for _, _, motivo, _ in grupos.get(clave, []):
             motivos[motivo] = motivos.get(motivo, 0) + 1
     if motivos:
-        lineas += ["## Motivos de exclusión", ""]
+        lineas += ["## Motivos por los que no se muestra el texto", ""]
         lineas += [f"{n}. {motivo} {total} artículos." for n, (motivo, total) in
                    enumerate(sorted(motivos.items(), key=lambda par: -par[1]), 1)] + [""]
     if estado.get("dominios_detenidos"):

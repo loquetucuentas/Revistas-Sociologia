@@ -630,6 +630,10 @@
       } else {
         elemento = el('span');
       }
+    } else if (etiqueta === 'aside') {
+      // Notas y recuadros del original: no son regiones de la página, así que
+      // no se usa aside, que crearía un punto de referencia dentro de otro.
+      elemento = el('div', { clase: 'recuadro' });
     } else {
       elemento = document.createElement(etiqueta);
     }
