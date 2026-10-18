@@ -544,6 +544,11 @@ def preparar(arbol):
         if destino in vueltas:
             continue
         objetivo = _por_id(arbol, destino)
+        # Si el destino es otro enlace (la llamada a la que vuelve una nota),
+        # no es una nota: no se le añade un enlace de vuelta, que quedaría
+        # anidado dentro de otro enlace.
+        if objetivo is not None and objetivo[0] == "a":
+            continue
         llamadas = {n[1]["id"] for n in internos if n[1].get("href") == "#" + destino and "id" in n[1]}
         # Si la nota ya enlaza de vuelta a su llamada (como en Word u OpenEdition), no se añade otro.
         if objetivo is not None and not _enlaza_a(objetivo, llamadas) and nodo[1].get("id"):

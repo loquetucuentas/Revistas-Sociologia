@@ -101,8 +101,9 @@ for (const { ficha, numero, articulo } of textosReales) {
       pequenos: [...document.querySelectorAll('.texto-articulo a[href^="#"]')]
         .filter((a) => { const b = a.getBoundingClientRect(); return b.width < 24 || b.height < 24; }).length,
       cabecerasVacias: [...document.querySelectorAll('.texto-articulo th')].filter((t) => !t.textContent.trim()).length,
+      enlacesAnidados: document.querySelectorAll('.texto-articulo a a').length,
     }));
-    expect(problemas).toEqual({ pequenos: 0, cabecerasVacias: 0 });
+    expect(problemas).toEqual({ pequenos: 0, cabecerasVacias: 0, enlacesAnidados: 0 });
     expect(await analizarConAxe(page)).toEqual([]);
     await page.setViewportSize({ width: 320, height: 640 });
     const desborde = await page.evaluate(() => document.documentElement.scrollWidth - document.documentElement.clientWidth);

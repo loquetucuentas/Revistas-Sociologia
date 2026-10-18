@@ -125,6 +125,13 @@ class PruebasSaneadoHTML(unittest.TestCase):
         self.assertEqual(nota[1]["id"], "t-_ftn1")
         self.assertEqual(vueltas, {})  # el original ya enlaza de vuelta
 
+    def test_no_anida_vueltas_en_llamadas(self):
+        # Una nota que enlaza de vuelta a la llamada no convierte la llamada en nota.
+        texto = ('<html><body><p>Texto<a href="#fn1" id="fnref1"><sup>1</sup></a>.</p>'
+                 '<ol><li id="fn1"><p>Nota. <a href="#fnref1">volver</a></p></li></ol></body></html>')
+        arbol, vueltas = self.convertir(texto)
+        self.assertEqual(vueltas, {})
+
     def test_rechaza_lo_que_no_puede_reproducir(self):
         for elemento in ("<math><mi>x</mi></math>", '<iframe src="https://video"></iframe>', "<video></video>"):
             with self.subTest(elemento=elemento), self.assertRaises(saneado.NoConvertible):

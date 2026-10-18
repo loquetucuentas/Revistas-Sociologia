@@ -230,7 +230,8 @@ Resultado de axe en GitHub Actions (flujo Pruebas, ejecución 39117520310, commi
 1. Cada uno de los 133 textos se abre en las pruebas: un único h1 con el título, la licencia en la atribución, el atributo lang del texto según su idioma (111 en español, 14 en inglés, 7 en portugués y 1 en francés), ninguna imagen, script ni marco, y sin scroll horizontal a 320 píxeles.
 2. El recolector comprobó que el texto convertido es idéntico al original en todos ellos; 23 artículos se excluyeron por no superar esa comprobación o por contener fórmulas u otros elementos que no se pueden reproducir con fidelidad.
 3. Los textos tienen 665 figuras, de las que 480 no traen descripción de la revista: todas muestran el aviso visible y el enlace al original.
-4. 76 textos no tienen encabezados en el original (son documentos de procesador de texto exportados con párrafos en negrita), así que no tienen tabla de contenidos. No se han inventado encabezados para no modificar el texto.
+4. axe sin errores en los 133 textos, tras corregir lo que encontró con los textos reales: llamadas a nota y enlaces de vuelta menores de 24 por 24 píxeles (ahora tienen ese tamaño mínimo), celdas de cabecera vacías en la esquina de algunas tablas (ahora se muestran como celdas normales), y enlaces dentro de otros enlaces, que aparecían cuando una nota enlazaba de vuelta a la llamada o cuando una figura del original estaba dentro de un enlace (ahora el interior se muestra como texto). Ninguna corrección cambia el texto del artículo. Hay pruebas que lo comprueban en cada texto real.
+5. 76 textos no tienen encabezados en el original (son documentos de procesador de texto exportados con párrafos en negrita), así que no tienen tabla de contenidos. No se han inventado encabezados para no modificar el texto.
 
 ### 6.3. Pendiente de revisión manual con VoiceOver
 

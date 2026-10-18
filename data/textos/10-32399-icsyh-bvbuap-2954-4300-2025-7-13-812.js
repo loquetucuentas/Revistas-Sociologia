@@ -80,19 +80,7 @@
    "lang": null
   }
  ],
- "vueltas": {
-  "t-fnref1": "t-llamada-fnref1-1",
-  "t-fnref2": "t-llamada-fnref2-1",
-  "t-fnref3": "t-llamada-fnref3-1",
-  "t-fnref4": "t-llamada-fnref4-1",
-  "t-fnref5": "t-llamada-fnref5-1",
-  "t-fnref6": "t-llamada-fnref6-1",
-  "t-fnref7": "t-llamada-fnref7-1",
-  "t-fnref8": "t-llamada-fnref8-1",
-  "t-fnref9": "t-llamada-fnref9-1",
-  "t-fnref10": "t-llamada-fnref10-1",
-  "t-fnref11": "t-llamada-fnref11-1"
- },
+ "vueltas": {},
  "contenido": [
   "\n",
   [

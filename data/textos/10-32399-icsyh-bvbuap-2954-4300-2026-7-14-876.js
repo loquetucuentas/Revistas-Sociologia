@@ -75,10 +75,7 @@
    "lang": null
   }
  ],
- "vueltas": {
-  "t-fnref1": "t-llamada-fnref1-1",
-  "t-fnref2": "t-llamada-fnref2-1"
- },
+ "vueltas": {},
  "contenido": [
   "\n",
   [

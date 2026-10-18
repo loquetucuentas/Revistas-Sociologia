@@ -619,11 +619,15 @@
     var elemento;
     if (etiqueta === 'a') {
       var href = String(atributos.href || '');
-      if (/^#t-[A-Za-z0-9_-]+$/.test(href)) {
+      if (contexto.enEnlace) {
+        // Un enlace dentro de otro (algunas galeradas lo traen así) no se
+        // puede activar por separado: el interior se muestra como texto.
+        elemento = el('span');
+      } else if (/^#t-[A-Za-z0-9_-]+$/.test(href)) {
         elemento = el('a', { href: href, clase: 'enlace-interno' });
       } else if (urlSegura(href)) {
         elemento = el('a', { href: href, target: '_blank', rel: 'noopener' });
-        elemento.appendChild(construirTexto(hijos, contexto));
+        elemento.appendChild(construirDentroDeEnlace(hijos, contexto));
         anadir(elemento, el('span', { clase: 'enlace-externo__aviso' }, ' ' + AVISO_EXTERNO));
         copiarAtributos(elemento, atributos);
         return elemento;
@@ -642,7 +646,7 @@
       elemento = document.createElement(etiqueta);
     }
     copiarAtributos(elemento, atributos);
-    elemento.appendChild(construirTexto(hijos, contexto));
+    elemento.appendChild(elemento.tagName === 'A' ? construirDentroDeEnlace(hijos, contexto) : construirTexto(hijos, contexto));
     if (etiqueta === 'table') {
       // Las tablas anchas se desplazan dentro de su propio marco, que se puede
       // recorrer con el teclado, y nunca ensanchan la página.
@@ -666,6 +670,14 @@
     }).join('');
   }
 
+  function construirDentroDeEnlace(hijos, contexto) {
+    var anterior = contexto.enEnlace;
+    contexto.enEnlace = true;
+    var fragmento = construirTexto(hijos, contexto);
+    contexto.enEnlace = anterior;
+    return fragmento;
+  }
+
   function copiarAtributos(elemento, atributos) {
     Object.keys(atributos).forEach(function (clave) {
       if (!ATRIBUTOS_TEXTO[clave] || typeof atributos[clave] !== 'string') return;
@@ -680,7 +692,9 @@
   // o un aviso si la revista no la ofrece, y un enlace para verla en el original.
   function figuraSustituida(atributos, contexto) {
     var alt = typeof atributos.alt === 'string' ? atributos.alt.trim() : '';
-    var enlace = enlaceExterno(contexto.articulo.url, 'Ver la figura en la web de la revista');
+    // Dentro de un enlace del original no se añade otro enlace: se dice con texto.
+    var enlace = contexto.enEnlace ? 'Puedes verla en la web de la revista.'
+      : enlaceExterno(contexto.articulo.url, 'Ver la figura en la web de la revista');
     if (alt) {
       return el('span', { clase: 'figura-sustituida' },
         el('strong', null, 'Imagen de la revista. '), 'Descripción de la revista: ', alt, ' ', enlace);
@@ -798,6 +812,8 @@
       var llamada = texto.vueltas[destino];
       var nota = /^t-[A-Za-z0-9_-]+$/.test(destino) ? cuerpo.querySelector('#' + CSS.escape(destino)) : null;
       if (!nota || !/^t-[A-Za-z0-9_-]+$/.test(llamada) || !cuerpo.querySelector('#' + CSS.escape(llamada))) return;
+      // Nunca un enlace dentro de otro enlace.
+      if (nota.closest('a')) return;
       anadir(nota, [' ', el('a', { href: '#' + llamada, clase: 'enlace-interno volver-nota', lang: 'es' }, 'Volver al texto')]);
     });
 
