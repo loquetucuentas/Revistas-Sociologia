@@ -22,8 +22,10 @@ Solo usa la biblioteca estándar.
 """
 
 import argparse
+import base64
 import datetime
 import glob
+import gzip
 import html
 import json
 import os
@@ -106,6 +108,12 @@ def json_para_script(valor):
     return texto.replace("<", "\\u003c").replace("\u2028", "\\u2028").replace("\u2029", "\\u2029")
 
 
+def comprimir(valor):
+    """JSON comprimido con gzip y codificado en base64 (solo caracteres seguros en un script)."""
+    crudo = json.dumps(valor, ensure_ascii=False, separators=(",", ":")).encode("utf-8")
+    return base64.b64encode(gzip.compress(crudo, compresslevel=9, mtime=0)).decode("ascii")
+
+
 def sustituir(texto, viejo, nuevo):
     if viejo not in texto:
         raise SystemExit(f"No se encuentra en index.html el fragmento esperado: {viejo[:60]}")
@@ -155,7 +163,12 @@ def empaquetar(carpeta_datos, generado_en=None):
 
     # El JavaScript va al final del cuerpo: así el DOM ya existe, como con defer.
     js = js.replace("</script", "<\\/script")
-    scripts = (f'  <script>window.DATOS_INCRUSTADOS = {json_para_script(datos)};</script>\n'
+    # Los textos completos van comprimidos con gzip y en base64, cada uno por
+    # separado: ocupan unas tres veces menos y solo se descomprime el que se abre.
+    textos = {clave: comprimir(valor) for clave, valor in datos.items() if clave.startswith("textos/")}
+    resto = {clave: valor for clave, valor in datos.items() if not clave.startswith("textos/")}
+    scripts = (f'  <script>window.DATOS_INCRUSTADOS = {json_para_script(resto)};\n'
+               f'  window.TEXTOS_COMPRIMIDOS = {json.dumps(textos)};</script>\n'
                f'  <script>\n{js}\n  </script>\n')
     pagina = sustituir(pagina, '</body>', scripts + '</body>')
     revistas = sum(1 for clave in datos if clave.startswith("revistas/"))

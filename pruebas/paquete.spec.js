@@ -136,6 +136,21 @@ test.describe('paquete con datos de prueba', () => {
     expect(externas).toEqual([]);
   });
 
+  test('los textos van comprimidos dentro del archivo y no a la vista', () => {
+    const contenido = fs.readFileSync(PRUEBA, 'utf8');
+    expect(contenido).toContain('window.TEXTOS_COMPRIMIDOS = {"textos/prueba-0001-v12-n2-1.json": "H4sI');
+    expect(contenido).not.toContain('Primera nota de prueba.');
+  });
+
+  test('sin descompresión en el navegador, la lectura explica qué hacer', async ({ page }) => {
+    await page.addInitScript(() => { delete window.DecompressionStream; });
+    await page.goto(url(PRUEBA, '#/revista/prueba-0001/numero/v12-n2-2026/articulo/prueba-0001-v12-n2-1'));
+    await esperarVista(page, 'No se han podido cargar los datos');
+    await expect(page.locator('main')).toContainText('Este navegador no puede descomprimir el texto del artículo.');
+    await expect(page.locator('main')).toContainText('Safari 16.4 o posterior');
+    expect(await analizarConAxe(page)).toEqual([]);
+  });
+
   test('los enlaces externos avisan de que salen de la aplicación', async ({ page }) => {
     await page.goto(url(PRUEBA, '#/revista/prueba-0001/numero/v12-n2-2026'));
     await esperarVista(page, 'Vol. 12, núm. 2');
@@ -224,3 +239,24 @@ test.describe('variante para el visor de artefactos', () => {
     });
   }
 });
+
+// Un texto real de cada revista, abierto dentro del archivo único: se
+// descomprime, no pide nada fuera y pasa axe.
+const muestraTextos = [];
+for (const ficha of listado.revistas) {
+  const datos = JSON.parse(fs.readFileSync(path.join(RAIZ, 'data', ficha.archivo), 'utf8'));
+  const encontrado = datos.numeros.flatMap((n) => n.articulos.map((a) => ({ n, a }))).find(({ a }) => a.texto_completo);
+  if (encontrado) muestraTextos.push({ ficha, numero: encontrado.n, articulo: encontrado.a });
+}
+for (const { ficha, numero, articulo } of muestraTextos) {
+  test(`paquete real, lectura comprimida: ${ficha.titulo}`, async ({ page }) => {
+    const externas = vigilarPeticiones(page, REAL);
+    const clave = articulo.texto_completo.replace(/^textos\//, '').replace(/\.json$/, '');
+    await page.goto(url(REAL, `#/revista/${encodeURIComponent(ficha.id)}/numero/${encodeURIComponent(numero.id)}/articulo/${encodeURIComponent(clave)}`));
+    await expect(page.locator('h1')).toHaveText(articulo.titulo);
+    await expect(page.locator('section.atribucion')).toBeVisible();
+    expect(await page.locator('.texto-articulo').evaluate((e) => e.textContent.length)).toBeGreaterThan(1000);
+    expect(await analizarConAxe(page)).toEqual([]);
+    expect(externas).toEqual([]);
+  });
+}

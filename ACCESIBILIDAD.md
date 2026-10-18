@@ -173,7 +173,7 @@ En esta tabla, «Auto» significa que lo cubre una comprobación automática, «
 
 ## 5. Versión de prueba en un solo archivo (dist/revistas-prueba.html)
 
-Generada el 18 de octubre de 2026 con herramientas/empaquetar.py para revisar la aplicación con VoiceOver sin publicarla. Ocupa 2,87 MB y contiene las 41 revistas con todos sus números, artículos y resúmenes, sin recortes.
+Generada el 18 de octubre de 2026 con herramientas/empaquetar.py para revisar la aplicación con VoiceOver sin publicarla. Contiene las 41 revistas con todos sus números, artículos y resúmenes, y los 133 textos completos, sin recortes. Ocupa 6,37 MB porque los textos completos van comprimidos con gzip dentro del archivo (sin comprimir ocupaba 11,53 MB); cada texto se descomprime solo al abrirlo, con el propio navegador y sin peticiones externas.
 
 ### 5.1. Comprobado
 
@@ -195,13 +195,15 @@ Generada el 18 de octubre de 2026 con herramientas/empaquetar.py para revisar la
 3. Los datos son una foto fija del momento en que se generó el archivo: no se actualizan cada semana. Para tener datos nuevos hay que volver a generar el archivo.
 4. El archivo completo, de unos 3 MB, se carga de una vez. En un iPhone antiguo la primera apertura puede tardar uno o dos segundos más que la versión con servidor.
 5. Si se abre como artefacto privado en claude.ai, la aplicación se muestra dentro de la página de Claude. Al empezar, el foco de VoiceOver puede quedar en los controles de Claude y no en el enlace de salto. Es una diferencia del visor, no de la aplicación.
-6. El tamaño de texto elegido puede no recordarse entre visitas si el navegador o el visor no permiten el almacenamiento local del archivo. La aplicación sigue funcionando sin él.
+6. Para leer los textos completos hace falta un navegador que sepa descomprimir: Safari 16.4 o posterior en iPhone y Mac, o una versión reciente de Chrome, Edge o Firefox. En un navegador más antiguo, la lectura muestra un mensaje que explica qué hacer y ofrece salir al índice; el resto de la aplicación funciona igual.
+7. El tamaño de texto elegido puede no recordarse entre visitas si el navegador o el visor no permiten el almacenamiento local del archivo. La aplicación sigue funcionando sin él.
 
 ### 5.3. Pendiente de revisión manual con VoiceOver en esta versión
 
 1. Comprobar en el iPhone que, tras abrir el archivo, el gesto de deslizar empieza por el enlace de salto y recorre la cabecera, las migas, el contenido y el pie.
 2. Repetir en esta versión las pruebas de la sección 3.2, sobre todo que el foco vaya al h1 nuevo tras tocar dos veces un enlace de revista o de número.
 3. Comprobar que al volver de un enlace externo a la pestaña del archivo se conserva la vista y el foco.
+4. Abrir varios textos completos largos en el iPhone y comprobar que la descompresión no produce una espera molesta ni un anuncio confuso.
 
 ## 6. Vista de lectura del texto completo
 

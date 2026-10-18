@@ -138,7 +138,7 @@
   /* Datos */
 
   function ErrorDatos(tipo, detalle) {
-    this.tipo = tipo;          // 'no-encontrado', 'red' o 'datos'
+    this.tipo = tipo;          // 'no-encontrado', 'red', 'datos' o 'navegador'
     this.detalle = detalle;
   }
 
@@ -164,13 +164,33 @@
     });
   }
 
+  // En la versión de un solo archivo, los textos completos van comprimidos
+  // con gzip. Se descomprimen con el propio navegador, sin pedir nada fuera.
+  function descomprimir(base64) {
+    if (typeof window.DecompressionStream !== 'function') {
+      return Promise.reject(new ErrorDatos('navegador', 'Este navegador no puede descomprimir el texto del artículo.'));
+    }
+    try {
+      var binario = window.atob(base64);
+      var bytes = new Uint8Array(binario.length);
+      for (var i = 0; i < binario.length; i++) bytes[i] = binario.charCodeAt(i);
+      var flujo = new Blob([bytes]).stream().pipeThrough(new window.DecompressionStream('gzip'));
+      return new Response(flujo).text().then(JSON.parse).catch(function () {
+        throw new ErrorDatos('datos', 'El texto del artículo está dañado dentro del archivo.');
+      });
+    } catch (e) {
+      return Promise.reject(new ErrorDatos('datos', 'El texto del artículo está dañado dentro del archivo.'));
+    }
+  }
+
   function cargarDatos(archivo) {
     if (estado.cache[archivo]) return estado.cache[archivo];
     var promesa;
     if (window.DATOS_INCRUSTADOS) {
       // Versión de un solo archivo (dist/revistas-prueba.html): los datos
       // vienen dentro de la página y no se pide nada fuera de ella.
-      promesa = new Promise(function (resolver, rechazar) {
+      var comprimido = (window.TEXTOS_COMPRIMIDOS || {})[archivo];
+      promesa = comprimido ? descomprimir(comprimido) : new Promise(function (resolver, rechazar) {
         var datos = window.DATOS_INCRUSTADOS[archivo];
         if (datos) resolver(datos);
         else rechazar(new ErrorDatos('no-encontrado', 'El archivo de datos no está incluido en esta versión.'));
@@ -985,7 +1005,9 @@
           el('p', null, el('strong', null, 'Qué puedes hacer: '),
             error.tipo === 'red'
               ? 'comprueba tu conexión a internet y pulsa «Reintentar». Si el problema continúa, vuelve a intentarlo más tarde.'
-              : 'pulsa «Reintentar». Si el problema continúa, los datos pueden estar actualizándose; vuelve a intentarlo dentro de unos minutos.'),
+              : error.tipo === 'navegador'
+                ? 'actualiza el navegador. En iPhone y Mac hace falta Safari 16.4 o posterior; en otros sistemas, una versión reciente de Chrome, Edge o Firefox. También puedes leer el artículo en la web de la revista desde el índice del número.'
+                : 'pulsa «Reintentar». Si el problema continúa, los datos pueden estar actualizándose; vuelve a intentarlo dentro de unos minutos.'),
           el('p', { clase: 'acciones' }, reintentar, destino.vista !== 'listado' ? volverAlListado() : null)))
     };
   }
