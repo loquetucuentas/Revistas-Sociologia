@@ -186,7 +186,7 @@ Generada el 18 de octubre de 2026 con herramientas/empaquetar.py para revisar la
 7. Al preparar estas pruebas se encontró y corrigió un fallo: si un archivo de datos llegaba con un formato incorrecto, Reintentar reutilizaba la copia dañada. Ahora Reintentar vacía la memoria de datos antes de volver a cargar.
 8. Variante para el artefacto privado de Claude (dist/revistas-artefacto.html): es la misma página sin las etiquetas de documento, porque el visor de Claude pone las suyas. Ese visor no declara idioma, así que un script al principio pone lang="es" en la raíz. Las pruebas imitan el esqueleto del visor y comprueban el idioma, las rutas, el foco, los anuncios y axe.
 9. Los colores siguen tanto la preferencia del sistema como el tema que elija el visor de Claude (atributo data-theme), en las dos combinaciones cruzadas.
-10. Resultado de axe sobre el archivo: pendiente de la ejecución del flujo Pruebas en GitHub Actions.
+10. Resultado de axe sobre el archivo en GitHub Actions (flujo Pruebas, ejecución 39106535115, commit 36dc2db): pasan las 147 pruebas, con 0 errores de axe en el archivo único con datos reales (listado, ficha y último número de las 41 revistas), con datos de prueba (estados vacíos, no encontrado, búsqueda sin resultados y error) y en la variante para el visor de artefactos, en tema claro y oscuro. Las pruebas de la versión con servidor siguen pasando y Lighthouse sigue dando 100.
 
 ### 5.2. Diferencias con la versión definitiva
 
