@@ -41,7 +41,7 @@
 }
 
 @media (prefers-color-scheme: dark) {
-  :root {
+  :root:not([data-theme="light"]) {
     --fondo: #121417;
     --fondo-suave: #1d2126;
     --texto: #eef0f3;
@@ -60,6 +60,24 @@
     color-scheme: dark;
   }
 }
+:root[data-theme="dark"] {
+    --fondo: #121417;
+    --fondo-suave: #1d2126;
+    --texto: #eef0f3;
+    --texto-suave: #c3c9d2;
+    --enlace: #8cbcff;
+    --enlace-visitado: #d0b0ff;
+    --borde: #8b94a3;
+    --foco: #ffd24d;
+    --foco-halo: #121417;
+    --primario: #8cbcff;
+    --primario-texto: #0d1117;
+    --error-fondo: #3b1214;
+    --error-borde: #ff8a8f;
+    --error-texto: #ffd9db;
+    --sombra: none;
+    color-scheme: dark;
+  }
 
 @media (prefers-contrast: more) {
   :root {
@@ -432,7 +450,7 @@ input[type="search"]::-webkit-search-cancel-button { -webkit-appearance: none; a
     <div class="contenedor">
       <p>Los datos proceden de <a href="https://doaj.org/" class="externo">DOAJ</a> (listado de revistas), <a href="https://www.crossref.org/" class="externo">Crossref</a> y los archivos OAI-PMH de cada revista (números y artículos). Cada artículo pertenece a su revista y se distribuye con la licencia indicada en su ficha; los enlaces llevan siempre a la publicación original.</p>
       <p id="pie-actualizacion"></p>
-      <p>Versión de prueba privada en un solo archivo, para revisión. Contiene datos reales de DOAJ y Crossref generados el 18 de octubre de 2026 a las 05:53 (hora UTC). Archivo creado el 18 de octubre de 2026 a las 07:05 (hora UTC).</p>
+      <p>Versión de prueba privada en un solo archivo, para revisión. Contiene datos reales de DOAJ y Crossref generados el 18 de octubre de 2026 a las 05:53 (hora UTC). Archivo creado el 18 de octubre de 2026 a las 07:06 (hora UTC).</p>
     </div>
   </footer>
 

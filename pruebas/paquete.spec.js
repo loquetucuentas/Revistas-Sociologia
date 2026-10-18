@@ -14,16 +14,28 @@ const RAIZ = path.join(__dirname, '..');
 const CARPETA = path.join(RAIZ, 'test-results', 'paquete');
 const REAL = path.join(CARPETA, 'revistas-real.html');
 const PRUEBA = path.join(CARPETA, 'revistas-prueba-datos.html');
+const ARTEFACTO = path.join(CARPETA, 'revistas-artefacto-simulado.html');
 const listado = JSON.parse(fs.readFileSync(path.join(RAIZ, 'data', 'revistas.json'), 'utf8'));
 
-function empaquetar(datos, salida) {
-  execFileSync('python3', [path.join(RAIZ, 'herramientas', 'empaquetar.py'), '--datos', datos, '--salida', salida]);
+function empaquetar(datos, salida, ...extra) {
+  execFileSync('python3', [path.join(RAIZ, 'herramientas', 'empaquetar.py'), '--datos', datos, '--salida', salida, ...extra]);
+}
+
+// Imita el esqueleto que añade el visor de artefactos de Claude: sin idioma
+// en la raíz y con su pequeño reajuste de estilos.
+function simularVisor(fragmento, salida, tema) {
+  const raiz = tema ? `<html data-theme="${tema}">` : '<html>';
+  fs.writeFileSync(salida, `<!doctype html>${raiz}<head><meta charset="utf-8">` +
+    '<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">' +
+    '<style>:root{color-scheme:light}body{margin:0;font:14px system-ui}img{max-width:100%}[hidden]{display:none!important}</style>' +
+    `</head><body>${fs.readFileSync(fragmento, 'utf8')}</body></html>`);
 }
 
 test.beforeAll(() => {
   fs.mkdirSync(CARPETA, { recursive: true });
-  empaquetar(path.join(RAIZ, 'data'), REAL);
+  empaquetar(path.join(RAIZ, 'data'), REAL, '--artefacto');
   empaquetar(path.join(RAIZ, 'pruebas', 'datos'), PRUEBA);
+  simularVisor(path.join(CARPETA, 'revistas-artefacto.html'), ARTEFACTO);
 });
 
 const url = (archivo, ruta = '#/') => pathToFileURL(archivo).href + ruta;
@@ -157,4 +169,42 @@ test.describe('paquete con datos de prueba', () => {
     await page.getByRole('button', { name: /Reintentar/ }).click();
     await expect(page.locator('h1')).toHaveText('Cuadernos de Ejemplo de Sociología Urbana');
   });
+});
+
+test.describe('variante para el visor de artefactos', () => {
+  test('declara el idioma español aunque el esqueleto no lo haga', async ({ page }) => {
+    await page.goto(url(ARTEFACTO));
+    await esperarVista(page, 'Revistas de sociología en español');
+    await expect(page.locator('html')).toHaveAttribute('lang', 'es');
+    await expect(page.locator('h1')).toHaveCount(1);
+    expect(await analizarConAxe(page)).toEqual([]);
+  });
+
+  test('conserva rutas, foco y anuncios dentro del esqueleto', async ({ page }) => {
+    const ficha = listado.revistas[0];
+    await page.goto(url(ARTEFACTO));
+    await esperarVista(page, 'Revistas de sociología en español');
+    await page.getByRole('link', { name: ficha.titulo, exact: true }).click();
+    await expect(page.locator('h1')).toHaveText(ficha.titulo);
+    await expect(page.locator('h1')).toBeFocused();
+    await expect(page.locator('#anuncios')).toContainText('Ficha de la revista cargada.');
+    expect(await analizarConAxe(page)).toEqual([]);
+  });
+
+  for (const caso of [
+    { tema: 'dark', sistema: 'light', fondo: 'rgb(18, 20, 23)' },
+    { tema: 'light', sistema: 'dark', fondo: 'rgb(255, 255, 255)' },
+  ]) {
+    test(`sigue el tema elegido en el visor (${caso.tema}) aunque el sistema esté en ${caso.sistema}`, async ({ browser }) => {
+      const archivo = path.join(CARPETA, `revistas-artefacto-${caso.tema}.html`);
+      simularVisor(path.join(CARPETA, 'revistas-artefacto.html'), archivo, caso.tema);
+      const contexto = await browser.newContext({ colorScheme: caso.sistema });
+      const page = await contexto.newPage();
+      await page.goto(url(archivo));
+      await esperarVista(page, 'Revistas de sociología en español');
+      expect(await page.evaluate(() => getComputedStyle(document.body).backgroundColor)).toBe(caso.fondo);
+      expect(await analizarConAxe(page)).toEqual([]);
+      await contexto.close();
+    });
+  }
 });

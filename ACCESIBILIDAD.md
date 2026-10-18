@@ -184,7 +184,9 @@ Generada el 18 de octubre de 2026 con herramientas/empaquetar.py para revisar la
 5. Los enlaces a las webs de las revistas y los artículos siguen funcionando, se abren en una pestaña nueva y lo dicen en su texto visible.
 6. Con datos reales no aparece el aviso de datos de prueba; con datos de prueba sí. El pie indica la fecha y hora de generación de los datos y del archivo.
 7. Al preparar estas pruebas se encontró y corrigió un fallo: si un archivo de datos llegaba con un formato incorrecto, Reintentar reutilizaba la copia dañada. Ahora Reintentar vacía la memoria de datos antes de volver a cargar.
-8. Resultado de axe sobre el archivo: pendiente de la ejecución del flujo Pruebas en GitHub Actions.
+8. Variante para el artefacto privado de Claude (dist/revistas-artefacto.html): es la misma página sin las etiquetas de documento, porque el visor de Claude pone las suyas. Ese visor no declara idioma, así que un script al principio pone lang="es" en la raíz. Las pruebas imitan el esqueleto del visor y comprueban el idioma, las rutas, el foco, los anuncios y axe.
+9. Los colores siguen tanto la preferencia del sistema como el tema que elija el visor de Claude (atributo data-theme), en las dos combinaciones cruzadas.
+10. Resultado de axe sobre el archivo: pendiente de la ejecución del flujo Pruebas en GitHub Actions.
 
 ### 5.2. Diferencias con la versión definitiva
 

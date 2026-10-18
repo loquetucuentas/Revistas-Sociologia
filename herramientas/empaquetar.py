@@ -12,7 +12,12 @@ Si los datos son de prueba (marca es_prueba), se añade el aviso visible
 de datos de prueba. En el pie se indican la fecha y hora de generación
 de los datos y del paquete.
 
-Uso: python3 herramientas/empaquetar.py [--datos data] [--salida dist/revistas-prueba.html]
+Con --artefacto se genera además dist/revistas-artefacto.html, la misma
+página sin doctype, html, head ni body, para publicarla como artefacto
+privado de Claude: el visor añade su propio esqueleto y su propia política
+de seguridad, que también bloquea las peticiones externas.
+
+Uso: python3 herramientas/empaquetar.py [--datos data] [--salida dist/revistas-prueba.html] [--artefacto]
 Solo usa la biblioteca estándar.
 """
 
@@ -92,6 +97,40 @@ def sustituir(texto, viejo, nuevo):
     return texto.replace(viejo, nuevo, 1)
 
 
+_TEMA_OSCURO = re.compile(r"@media \(prefers-color-scheme: dark\) \{\s*:root \{(.*?)\}\s*\}", re.S)
+
+
+def tema_seguro(css):
+    """Hace que el tema oscuro siga también una elección explícita del visor.
+
+    Sin atributo data-theme manda el sistema; data-theme="light" o "dark"
+    en la raíz, como pone el visor de artefactos, tiene prioridad.
+    """
+    bloque = _TEMA_OSCURO.search(css)
+    if not bloque:
+        raise SystemExit("No se encuentra el bloque del tema oscuro en estilos.css.")
+    variables = bloque.group(1)
+    nuevo = ('@media (prefers-color-scheme: dark) {\n  :root:not([data-theme="light"]) {' + variables + '}\n}\n'
+             ':root[data-theme="dark"] {' + variables + '}')
+    return css[:bloque.start()] + nuevo + css[bloque.end():]
+
+
+def a_fragmento(pagina):
+    """Quita doctype, html, head y body para el visor de artefactos.
+
+    El visor añade su propio esqueleto, sin idioma, así que un script
+    pequeño al principio declara lang="es" en la raíz.
+    """
+    pagina = re.sub(r"<!doctype html>\s*", "", pagina, flags=re.I)
+    pagina = re.sub(r'<html lang="es">\s*', "", pagina)
+    pagina = re.sub(r"\s*<meta charset=\"utf-8\">", "", pagina)
+    pagina = re.sub(r"\s*<meta name=\"viewport\"[^>]*>", "", pagina)
+    pagina = re.sub(r"\s*<meta http-equiv=\"Content-Security-Policy\"[^>]*>", "", pagina)
+    pagina = re.sub(r"</?head>\s*|<body>\s*|\s*</body>|\s*</html>\s*", "\n", pagina)
+    idioma = "<script>document.documentElement.setAttribute('lang', 'es');</script>\n"
+    return idioma + pagina.strip() + "\n"
+
+
 def empaquetar(carpeta_datos, generado_en=None):
     pagina = leer(os.path.join(RAIZ, "index.html"))
     css = leer(os.path.join(RAIZ, "assets", "estilos.css"))
@@ -101,8 +140,11 @@ def empaquetar(carpeta_datos, generado_en=None):
     es_prueba = bool(listado.get("es_prueba")) or any(d.get("es_prueba") for d in datos.values())
     generado_en = generado_en or datetime.datetime.now(datetime.timezone.utc).replace(microsecond=0)
 
+    css = tema_seguro(css)
     if es_prueba:
-        css += AVISO_PRUEBA_CSS
+        css += AVISO_PRUEBA_CSS.replace("@media (prefers-color-scheme: dark) {\n  .aviso-prueba",
+                                        "@media (prefers-color-scheme: dark) {\n  :root:not([data-theme=\"light\"]) .aviso-prueba")
+        css += ':root[data-theme="dark"] .aviso-prueba { background: #3a2f05; color: #fff3c4; border-top-color: #e0b83a; }\n'
     pagina = sustituir(pagina, '<link rel="stylesheet" href="assets/estilos.css">',
                        f'<meta http-equiv="Content-Security-Policy" content="{CSP}">\n'
                        f'  <style>\n{css}\n  </style>')
@@ -131,7 +173,7 @@ _ETIQUETA = re.compile(r"<(script|link|img|iframe|frame|embed|object|source|audi
 _ATRIBUTO_RECURSO = re.compile(r"\b(src|srcset|href|data|poster|background|xlink:href)\s*=\s*([\"'])(.*?)\2", re.I)
 
 
-def problemas_autocontenido(pagina):
+def problemas_autocontenido(pagina, exigir_csp=True):
     """Devuelve una lista de referencias a recursos fuera del archivo."""
     problemas = []
     for etiqueta in _ETIQUETA.finditer(pagina):
@@ -148,7 +190,7 @@ def problemas_autocontenido(pagina):
     for atributo in re.findall(r"\sstyle\s*=\s*([\"'])(.*?)\1", pagina, re.S):
         if re.search(r"url\(\s*['\"]?(?!data:)", atributo[1], re.I):
             problemas.append("atributo style con url() externo")
-    if 'http-equiv="Content-Security-Policy"' not in pagina:
+    if exigir_csp and 'http-equiv="Content-Security-Policy"' not in pagina:
         problemas.append("falta la política de seguridad de contenido")
     return problemas
 
@@ -157,6 +199,8 @@ def main():
     parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     parser.add_argument("--datos", default=os.path.join(RAIZ, "data"))
     parser.add_argument("--salida", default=os.path.join(RAIZ, "dist", "revistas-prueba.html"))
+    parser.add_argument("--artefacto", action="store_true",
+                        help="genera también la variante para el visor de artefactos de Claude")
     argumentos = parser.parse_args()
 
     pagina, es_prueba, revistas = empaquetar(argumentos.datos)
@@ -172,6 +216,16 @@ def main():
     print(f"Escrito {os.path.relpath(argumentos.salida, RAIZ)}: {tamano / 1024 / 1024:.2f} MB, "
           f"{revistas} revistas, {'datos de prueba' if es_prueba else 'datos reales'}. "
           "Sin referencias a recursos externos.")
+    if argumentos.artefacto:
+        fragmento = a_fragmento(pagina)
+        problemas = problemas_autocontenido(fragmento, exigir_csp=False)
+        if problemas:
+            print("La variante de artefacto haría peticiones fuera de sí misma:", *problemas, sep="\n  ", file=sys.stderr)
+            raise SystemExit(1)
+        ruta = os.path.join(os.path.dirname(os.path.abspath(argumentos.salida)), "revistas-artefacto.html")
+        with open(ruta, "w", encoding="utf-8") as archivo:
+            archivo.write(fragmento)
+        print(f"Escrito {os.path.relpath(ruta, RAIZ)} para el visor de artefactos.")
     if tamano > LIMITE_BYTES:
         print(f"Aviso: el archivo supera los 10 MB ({tamano / 1024 / 1024:.2f} MB). "
               "No se ha recortado ningún dato.", file=sys.stderr)

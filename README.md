@@ -44,7 +44,7 @@ Para regenerar los datos ficticios de las pruebas: `python3 recolector/datos_pru
 python3 herramientas/empaquetar.py
 ```
 
-Genera dist/revistas-prueba.html, un único archivo con el CSS, el JavaScript y todos los datos de la carpeta data. Sirve para revisar la aplicación con VoiceOver sin publicarla: se abre directamente, sin servidor y sin conexión, y una política de seguridad de contenido incluida en el archivo bloquea cualquier petición externa. Solo los enlaces a las webs de las revistas y artículos llevan fuera, y lo avisan. Si los datos son de prueba, muestra el aviso de datos de prueba. En el pie indica cuándo se generaron los datos y el archivo. El script falla si el archivo hace referencia a algún recurso externo, y avisa sin recortar nada si supera los 10 MB.
+Genera dist/revistas-prueba.html, un único archivo con el CSS, el JavaScript y todos los datos de la carpeta data. Sirve para revisar la aplicación con VoiceOver sin publicarla: se abre directamente, sin servidor y sin conexión, y una política de seguridad de contenido incluida en el archivo bloquea cualquier petición externa. Solo los enlaces a las webs de las revistas y artículos llevan fuera, y lo avisan. Si los datos son de prueba, muestra el aviso de datos de prueba. En el pie indica cuándo se generaron los datos y el archivo. El script falla si el archivo hace referencia a algún recurso externo, y avisa sin recortar nada si supera los 10 MB. Con la opción --artefacto genera además dist/revistas-artefacto.html, la variante para publicarla como artefacto privado de Claude.
 
 Atención: si algún día se activa GitHub Pages, la carpeta dist también quedaría publicada.
 
