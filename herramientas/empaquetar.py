@@ -53,8 +53,13 @@ AVISO_PRUEBA_CSS = '''
 .aviso-prueba { background: #fff4cc; color: #3d2c00; border-top: 2px solid #8a6500; padding: 0.75rem 0; }
 .aviso-prueba p { margin: 0; }
 @media (prefers-color-scheme: dark) {
-  .aviso-prueba { background: #3a2f05; color: #fff3c4; border-top-color: #e0b83a; }
+  :root:not([data-theme="light"]) .aviso-prueba { background: #3a2f05; color: #fff3c4; border-top-color: #e0b83a; }
 }
+:root[data-theme="dark"] .aviso-prueba, :root[data-tema="oscuro"] .aviso-prueba {
+  background: #3a2f05; color: #fff3c4; border-top-color: #e0b83a;
+}
+:root[data-tema="claro"] .aviso-prueba { background: #fff4cc; color: #3d2c00; border-top-color: #8a6500; }
+:root[data-tema="contraste"] .aviso-prueba { background: #000000; color: #ffffff; border-top-color: #ffffff; }
 @media (forced-colors: active) {
   .aviso-prueba { border-top: 2px solid CanvasText; }
 }
@@ -82,7 +87,17 @@ def leer_datos(carpeta):
         datos["revistas/" + os.path.basename(ruta)] = json.loads(leer(ruta))
     # Solo se incluyen las revistas del listado; el resto no se puede abrir.
     archivos = {r.get("archivo") for r in datos["revistas.json"].get("revistas", [])}
-    return {clave: valor for clave, valor in datos.items() if clave == "revistas.json" or clave in archivos}
+    datos = {clave: valor for clave, valor in datos.items() if clave == "revistas.json" or clave in archivos}
+    # Textos completos de los artículos que los tienen.
+    for clave in list(datos):
+        if clave == "revistas.json":
+            continue
+        for numero in datos[clave].get("numeros", []):
+            for articulo in numero.get("articulos", []):
+                ruta = articulo.get("texto_completo")
+                if ruta and re.fullmatch(r"textos/[A-Za-z0-9._-]+\.json", ruta):
+                    datos[ruta] = json.loads(leer(os.path.join(carpeta, ruta)))
+    return datos
 
 
 def json_para_script(valor):
@@ -95,24 +110,6 @@ def sustituir(texto, viejo, nuevo):
     if viejo not in texto:
         raise SystemExit(f"No se encuentra en index.html el fragmento esperado: {viejo[:60]}")
     return texto.replace(viejo, nuevo, 1)
-
-
-_TEMA_OSCURO = re.compile(r"@media \(prefers-color-scheme: dark\) \{\s*:root \{(.*?)\}\s*\}", re.S)
-
-
-def tema_seguro(css):
-    """Hace que el tema oscuro siga también una elección explícita del visor.
-
-    Sin atributo data-theme manda el sistema; data-theme="light" o "dark"
-    en la raíz, como pone el visor de artefactos, tiene prioridad.
-    """
-    bloque = _TEMA_OSCURO.search(css)
-    if not bloque:
-        raise SystemExit("No se encuentra el bloque del tema oscuro en estilos.css.")
-    variables = bloque.group(1)
-    nuevo = ('@media (prefers-color-scheme: dark) {\n  :root:not([data-theme="light"]) {' + variables + '}\n}\n'
-             ':root[data-theme="dark"] {' + variables + '}')
-    return css[:bloque.start()] + nuevo + css[bloque.end():]
 
 
 def a_fragmento(pagina):
@@ -140,11 +137,8 @@ def empaquetar(carpeta_datos, generado_en=None):
     es_prueba = bool(listado.get("es_prueba")) or any(d.get("es_prueba") for d in datos.values())
     generado_en = generado_en or datetime.datetime.now(datetime.timezone.utc).replace(microsecond=0)
 
-    css = tema_seguro(css)
     if es_prueba:
-        css += AVISO_PRUEBA_CSS.replace("@media (prefers-color-scheme: dark) {\n  .aviso-prueba",
-                                        "@media (prefers-color-scheme: dark) {\n  :root:not([data-theme=\"light\"]) .aviso-prueba")
-        css += ':root[data-theme="dark"] .aviso-prueba { background: #3a2f05; color: #fff3c4; border-top-color: #e0b83a; }\n'
+        css += AVISO_PRUEBA_CSS
     pagina = sustituir(pagina, '<link rel="stylesheet" href="assets/estilos.css">',
                        f'<meta http-equiv="Content-Security-Policy" content="{CSP}">\n'
                        f'  <style>\n{css}\n  </style>')
@@ -164,7 +158,8 @@ def empaquetar(carpeta_datos, generado_en=None):
     scripts = (f'  <script>window.DATOS_INCRUSTADOS = {json_para_script(datos)};</script>\n'
                f'  <script>\n{js}\n  </script>\n')
     pagina = sustituir(pagina, '</body>', scripts + '</body>')
-    return pagina, es_prueba, len(datos) - 1
+    revistas = sum(1 for clave in datos if clave.startswith("revistas/"))
+    return pagina, es_prueba, revistas
 
 
 # Comprobación de que no queda ninguna referencia a recursos externos.

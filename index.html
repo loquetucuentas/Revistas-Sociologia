@@ -17,12 +17,24 @@
     <div class="contenedor cabecera__fila">
       <p class="marca"><a href="#/" class="marca__enlace">Revistas de sociología en acceso abierto</a></p>
 
-      <div class="texto-tamano" role="group" aria-labelledby="texto-tamano-titulo">
-        <p class="texto-tamano__titulo" id="texto-tamano-titulo">Tamaño del texto: <span id="texto-tamano-valor">100 %</span></p>
-        <div class="texto-tamano__botones">
-          <button type="button" class="boton boton--secundario" data-tamano="reducir">Reducir<span class="solo-lector"> el texto</span></button>
-          <button type="button" class="boton boton--secundario" data-tamano="normal">Normal<span class="solo-lector">, tamaño original del texto</span></button>
-          <button type="button" class="boton boton--secundario" data-tamano="aumentar">Aumentar<span class="solo-lector"> el texto</span></button>
+      <div class="preferencias">
+        <div class="texto-tamano" role="group" aria-labelledby="texto-tamano-titulo">
+          <p class="texto-tamano__titulo" id="texto-tamano-titulo">Tamaño del texto: <span id="texto-tamano-valor">100 %</span></p>
+          <div class="texto-tamano__botones">
+            <button type="button" class="boton boton--secundario" data-tamano="reducir">Reducir<span class="solo-lector"> el texto</span></button>
+            <button type="button" class="boton boton--secundario" data-tamano="normal">Normal<span class="solo-lector">, tamaño original del texto</span></button>
+            <button type="button" class="boton boton--secundario" data-tamano="aumentar">Aumentar<span class="solo-lector"> el texto</span></button>
+          </div>
+        </div>
+
+        <div class="tema">
+          <label for="tema">Tema de colores</label>
+          <select id="tema" name="tema">
+            <option value="">Automático, según el sistema</option>
+            <option value="claro">Claro</option>
+            <option value="oscuro">Oscuro</option>
+            <option value="contraste">Alto contraste</option>
+          </select>
         </div>
       </div>
     </div>

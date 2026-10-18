@@ -35,6 +35,8 @@
   color-scheme: light;
 }
 
+/* Tema oscuro: sigue la preferencia del sistema salvo que se elija otro tema,
+   en la propia aplicación (data-tema) o en el visor de artefactos (data-theme). */
 @media (prefers-color-scheme: dark) {
   :root:not([data-theme="light"]) {
     --fondo: #121417;
@@ -73,6 +75,68 @@
     --sombra: none;
     color-scheme: dark;
   }
+
+/* Tema elegido en la aplicación: tiene prioridad sobre el sistema. */
+:root[data-tema="claro"] {
+  --fondo: #ffffff;
+  --fondo-suave: #f3f5f8;
+  --texto: #1b1f24;
+  --texto-suave: #4a5260;      /* 7,6:1 sobre blanco */
+  --enlace: #0a4fa3;           /* 7,4:1 sobre blanco */
+  --enlace-visitado: #5b2a91;  /* 9,0:1 sobre blanco */
+  --borde: #6b7380;            /* 4,8:1 sobre blanco */
+  --foco: #0b3d91;
+  --foco-halo: #ffffff;
+  --primario: #0a4fa3;
+  --primario-texto: #ffffff;
+  --error-fondo: #fdecec;
+  --error-borde: #a3171e;
+  --error-texto: #6e0b10;
+  --sombra: 0 1px 2px rgba(0, 0, 0, 0.12);
+  color-scheme: light;
+}
+:root[data-tema="oscuro"] {
+    --fondo: #121417;
+    --fondo-suave: #1d2126;
+    --texto: #eef0f3;
+    --texto-suave: #c3c9d2;
+    --enlace: #8cbcff;
+    --enlace-visitado: #d0b0ff;
+    --borde: #8b94a3;
+    --foco: #ffd24d;
+    --foco-halo: #121417;
+    --primario: #8cbcff;
+    --primario-texto: #0d1117;
+    --error-fondo: #3b1214;
+    --error-borde: #ff8a8f;
+    --error-texto: #ffd9db;
+    --sombra: none;
+    color-scheme: dark;
+  }
+/* Alto contraste: blanco sobre negro, enlaces amarillos (19,6 a 1) y foco cian. */
+:root[data-tema="contraste"] {
+  --fondo: #000000;
+  --fondo-suave: #000000;
+  --texto: #ffffff;
+  --texto-suave: #ffffff;
+  --enlace: #ffff00;
+  --enlace-visitado: #ffb8ff;  /* 12,9:1 sobre negro */
+  --borde: #ffffff;
+  --foco: #00ffff;
+  --foco-halo: #000000;
+  --primario: #ffff00;
+  --primario-texto: #000000;
+  --error-fondo: #000000;
+  --error-borde: #ff8a8f;
+  --error-texto: #ffffff;
+  --sombra: none;
+  color-scheme: dark;
+}
+:root[data-tema="contraste"] .tarjeta,
+:root[data-tema="contraste"] .estado,
+:root[data-tema="contraste"] .boton,
+:root[data-tema="contraste"] input,
+:root[data-tema="contraste"] select { border-width: 2px; }
 
 @media (prefers-contrast: more) {
   :root {
@@ -410,6 +474,75 @@ input[type="search"]::-webkit-search-cancel-button { -webkit-appearance: none; a
   a::after { content: " (" attr(href) ")"; font-size: 0.9em; }
 }
 
+/* Tema de colores */
+.preferencias { display: flex; flex-wrap: wrap; align-items: center; gap: 0.75rem 2rem; min-width: 0; max-width: 100%; }
+.tema { display: flex; flex-wrap: wrap; align-items: center; gap: 0.5rem; min-width: 0; max-width: 100%; }
+.tema label { font-size: 1rem; }
+/* El nombre de la opción más larga no debe ensanchar la página a 320 píxeles. */
+.tema select { flex: 0 1 auto; width: auto; max-width: 100%; }
+
+/* Indicación de lectura en el índice del número */
+.lectura-disponible {
+  display: inline-block;
+  margin: 0.25rem 0 0.75rem;
+  padding: 0.1rem 0.6rem;
+  border: 2px solid var(--primario);
+  border-radius: var(--radio);
+  font-weight: 600;
+}
+.lectura-externa {
+  display: inline-block;
+  margin: 0.25rem 0 0.75rem;
+  padding: 0.1rem 0.6rem;
+  border: 1px dashed var(--borde);
+  border-radius: var(--radio);
+}
+
+/* Vista de lectura: línea de unos 65 caracteres e interlineado amplio. */
+.lectura-vista { max-width: 40rem; }
+.atribucion {
+  border: 2px solid var(--primario);
+  border-radius: var(--radio);
+  padding: 1rem 1.25rem;
+  margin: 1rem 0 2rem;
+  background: var(--fondo-suave);
+}
+.atribucion > :last-child { margin-bottom: 0; }
+.atribucion h2, .cita-final h2 { margin-top: 0; }
+.cita { overflow-wrap: anywhere; }
+.avisos-derechos { padding-left: 1.25rem; }
+.indice-articulo { margin: 0 0 2rem; }
+.indice-articulo ol { padding-left: 1.25rem; }
+.indice-articulo li { margin: 0.25rem 0; }
+.indice-articulo a { display: inline-block; padding: 0.35rem 0; min-height: var(--objetivo); }
+.texto-articulo { line-height: 1.75; }
+.texto-articulo p, .texto-articulo li, .texto-articulo dd { margin: 0 0 1.1em; }
+.texto-articulo h2 { font-size: 1.5rem; margin-top: 2em; }
+.texto-articulo h3 { font-size: 1.3rem; }
+.texto-articulo h4, .texto-articulo h5, .texto-articulo h6 { font-size: 1.15rem; margin: 1.5em 0 0.5em; line-height: 1.3; }
+.texto-articulo blockquote { margin: 1em 0; padding-left: 1rem; border-left: 4px solid var(--borde); }
+.texto-articulo aside { margin: 1em 0; padding: 0.5rem 1rem; border-left: 4px solid var(--borde); background: var(--fondo-suave); }
+.texto-articulo figure { margin: 1.5em 0; }
+.texto-articulo figcaption { font-weight: 600; }
+.texto-articulo pre { white-space: pre-wrap; overflow-wrap: anywhere; }
+.texto-articulo [id] { scroll-margin-top: 1rem; }
+.texto-articulo a[href^="#"] { display: inline-block; min-width: 1.5rem; text-align: center; }
+.tabla-desplazable { overflow-x: auto; max-width: 100%; margin: 1em 0; }
+.tabla-desplazable table { border-collapse: collapse; min-width: 50%; }
+.tabla-desplazable th, .tabla-desplazable td { border: 1px solid var(--borde); padding: 0.4rem 0.6rem; text-align: left; vertical-align: top; }
+.tabla-desplazable caption { text-align: left; font-weight: 600; padding-bottom: 0.4rem; }
+.figura-sustituida {
+  display: block;
+  margin: 1em 0;
+  padding: 0.75rem 1rem;
+  border: 2px dashed var(--borde);
+  border-radius: var(--radio);
+}
+.figura-sustituida--sin-descripcion { border-style: solid; border-color: var(--error-borde); }
+.volver-nota { font-size: 1rem; white-space: nowrap; }
+.cita-final { margin-top: 3rem; padding-top: 1.5rem; border-top: 2px solid var(--borde); }
+.copiado { margin-left: 0.5rem; font-weight: 600; }
+
   </style>
 
 
@@ -419,12 +552,24 @@ input[type="search"]::-webkit-search-cancel-button { -webkit-appearance: none; a
     <div class="contenedor cabecera__fila">
       <p class="marca"><a href="#/" class="marca__enlace">Revistas de sociología en acceso abierto</a></p>
 
-      <div class="texto-tamano" role="group" aria-labelledby="texto-tamano-titulo">
-        <p class="texto-tamano__titulo" id="texto-tamano-titulo">Tamaño del texto: <span id="texto-tamano-valor">100 %</span></p>
-        <div class="texto-tamano__botones">
-          <button type="button" class="boton boton--secundario" data-tamano="reducir">Reducir<span class="solo-lector"> el texto</span></button>
-          <button type="button" class="boton boton--secundario" data-tamano="normal">Normal<span class="solo-lector">, tamaño original del texto</span></button>
-          <button type="button" class="boton boton--secundario" data-tamano="aumentar">Aumentar<span class="solo-lector"> el texto</span></button>
+      <div class="preferencias">
+        <div class="texto-tamano" role="group" aria-labelledby="texto-tamano-titulo">
+          <p class="texto-tamano__titulo" id="texto-tamano-titulo">Tamaño del texto: <span id="texto-tamano-valor">100 %</span></p>
+          <div class="texto-tamano__botones">
+            <button type="button" class="boton boton--secundario" data-tamano="reducir">Reducir<span class="solo-lector"> el texto</span></button>
+            <button type="button" class="boton boton--secundario" data-tamano="normal">Normal<span class="solo-lector">, tamaño original del texto</span></button>
+            <button type="button" class="boton boton--secundario" data-tamano="aumentar">Aumentar<span class="solo-lector"> el texto</span></button>
+          </div>
+        </div>
+
+        <div class="tema">
+          <label for="tema">Tema de colores</label>
+          <select id="tema" name="tema">
+            <option value="">Automático, según el sistema</option>
+            <option value="claro">Claro</option>
+            <option value="oscuro">Oscuro</option>
+            <option value="contraste">Alto contraste</option>
+          </select>
         </div>
       </div>
     </div>
@@ -445,7 +590,7 @@ input[type="search"]::-webkit-search-cancel-button { -webkit-appearance: none; a
     <div class="contenedor">
       <p>Los datos proceden de <a href="https://doaj.org/" class="externo">DOAJ</a> (listado de revistas), <a href="https://www.crossref.org/" class="externo">Crossref</a> y los archivos OAI-PMH de cada revista (números y artículos). Cada artículo pertenece a su revista y se distribuye con la licencia indicada en su ficha; los enlaces llevan siempre a la publicación original.</p>
       <p id="pie-actualizacion"></p>
-      <p>Versión de prueba privada en un solo archivo, para revisión. Contiene datos reales de DOAJ y Crossref generados el 18 de octubre de 2026 a las 05:53 (hora UTC). Archivo creado el 18 de octubre de 2026 a las 07:06 (hora UTC).</p>
+      <p>Versión de prueba privada en un solo archivo, para revisión. Contiene datos reales de DOAJ y Crossref generados el 18 de octubre de 2026 a las 05:53 (hora UTC). Archivo creado el 18 de octubre de 2026 a las 09:53 (hora UTC).</p>
     </div>
   </footer>
 
@@ -460,6 +605,8 @@ input[type="search"]::-webkit-search-cancel-button { -webkit-appearance: none; a
     #/                                  listado de revistas
     #/revista/<id>                      ficha de una revista
     #/revista/<id>/numero/<numero>      índice de un número
+    #/revista/<id>/numero/<numero>/articulo/<clave>
+                                        lectura del texto completo de un artículo
 
   En cada cambio de vista: se pinta el contenido, se actualiza el título
   del documento, el foco pasa al encabezado de primer nivel y se anuncia
@@ -473,6 +620,8 @@ input[type="search"]::-webkit-search-cancel-button { -webkit-appearance: none; a
   var RETRASO_ANUNCIO = 700;    // ms de pausa al escribir antes de anunciar resultados
   var TAMANOS = [100, 125, 150, 175, 200];
   var CLAVE_TAMANO = 'revistas-sociologia:tamano-texto';
+  var CLAVE_TEMA = 'revistas-sociologia:tema';
+  var TEMAS = { '': 'automático, según el sistema', claro: 'claro', oscuro: 'oscuro', contraste: 'alto contraste' };
   var AVISO_EXTERNO = '(sitio externo, se abre en una pestaña nueva)';
 
   var colador = new Intl.Collator('es', { sensitivity: 'base', numeric: true });
@@ -482,7 +631,10 @@ input[type="search"]::-webkit-search-cancel-button { -webkit-appearance: none; a
     cache: {},
     peticion: 0,
     primeraVista: true,
-    temporizadorAnuncio: null
+    temporizadorAnuncio: null,
+    // Al ir del índice de un número a la lectura de un artículo se guarda
+    // la posición, para recuperarla al volver con el botón atrás.
+    retorno: null
   };
 
   var principal = document.getElementById('contenido');
@@ -682,6 +834,9 @@ input[type="search"]::-webkit-search-cancel-button { -webkit-appearance: none; a
     if (partes[0] === 'revista' && partes.length === 4 && partes[2] === 'numero') {
       return { vista: 'numero', id: partes[1], numero: partes[3] };
     }
+    if (partes[0] === 'revista' && partes.length === 6 && partes[2] === 'numero' && partes[4] === 'articulo') {
+      return { vista: 'lectura', id: partes[1], numero: partes[3], articulo: partes[5] };
+    }
     return { vista: 'no-encontrada' };
   }
 
@@ -693,6 +848,21 @@ input[type="search"]::-webkit-search-cancel-button { -webkit-appearance: none; a
         var numero = datos.numeros.find(function (n) { return n.id === destino.numero; });
         if (!numero) throw new ErrorDatos('no-encontrado', 'numero', datos);
         return vistaNumero(datos, numero);
+      });
+    }
+    if (destino.vista === 'lectura') {
+      return cargarRevista(destino.id).then(function (datos) {
+        var numero = datos.numeros.find(function (n) { return n.id === destino.numero; });
+        if (!numero) throw new ErrorDatos('no-encontrado', 'numero', datos);
+        var articulo = (numero.articulos || []).find(function (a) { return claveArticulo(a) === destino.articulo; });
+        if (!articulo || !articulo.texto_completo) throw new ErrorDatos('no-encontrado', 'articulo', datos);
+        return cargarDatos(articulo.texto_completo).then(function (texto) {
+          if (!texto || !Array.isArray(texto.contenido) || !texto.licencia ||
+              String(texto.doi).toLowerCase() !== String(articulo.doi).toLowerCase()) {
+            throw new ErrorDatos('datos', 'El texto del artículo no tiene el formato esperado.');
+          }
+          return vistaLectura(datos, numero, articulo, texto);
+        });
       });
     }
     return Promise.resolve(vistaNoEncontrada());
@@ -726,9 +896,12 @@ input[type="search"]::-webkit-search-cancel-button { -webkit-appearance: none; a
       estado.primeraVista = false;
       return;
     }
-    var titulo = principal.querySelector('h1');
-    window.scrollTo(0, 0);
-    if (titulo) titulo.focus({ preventScroll: true });
+    // Al volver de la lectura, el índice recupera su posición y el foco va al
+    // enlace del artículo que se estaba leyendo (vista.foco).
+    var destinoFoco = vista.foco || principal.querySelector('h1');
+    window.scrollTo(0, vista.posicion || 0);
+    if (destinoFoco) destinoFoco.focus({ preventScroll: true });
+    if (vista.foco && !vista.posicion) vista.foco.scrollIntoView({ block: 'center' });
     if (vista.anuncio) anunciar(vista.anuncio);
   }
 
@@ -979,14 +1152,288 @@ input[type="search"]::-webkit-search-cancel-button { -webkit-appearance: none; a
         : 'No indicada en la fuente. Consulta las condiciones en la web de la revista.'),
       articulo.doi ? [el('dt', null, 'DOI'), el('dd', { clase: 'doi' }, articulo.doi)] : null);
 
+    // Se dice con texto, no solo con un icono, si el artículo se puede leer aquí.
+    var lectura;
+    if (articulo.texto_completo) {
+      var destino = ruta('revista', revista.id, 'numero', numero.id, 'articulo', claveArticulo(articulo));
+      lectura = [
+        el('p', { clase: 'lectura-disponible' }, 'Lectura completa disponible en esta aplicación.'),
+        el('p', null, el('a', { href: destino, id: 'leer-' + claveArticulo(articulo), clase: 'boton', onClick: function () {
+          estado.retorno = { ruta: location.hash, posicion: window.scrollY, articulo: claveArticulo(articulo) };
+        } }, 'Leer el artículo completo', el('span', { clase: 'solo-lector' }, ': ',
+          conIdioma(el('span', null, articulo.titulo), articulo.idioma_titulo))))
+      ];
+    } else {
+      lectura = el('p', { clase: 'lectura-externa' }, 'Texto completo solo en la web de la revista.');
+    }
+
     return el('li', { clase: 'tarjeta articulo' },
       el('article', null,
         titulo,
         el('p', { clase: 'articulo__autores' }, autores.length ? 'Autoría: ' + autores.join(', ') + '.' : 'Autoría no indicada en la fuente.'),
         el('p', { clase: 'texto-suave' }, publicado),
+        lectura,
         resumen,
         detalles,
         el('p', null, enlaceExterno(articulo.url, 'Leer en la web de la revista', articulo.titulo, articulo.idioma_titulo))));
+  }
+
+  // Clave del artículo en la dirección: el nombre de su archivo de texto, o el DOI.
+  function claveArticulo(articulo) {
+    var archivo = articulo.texto_completo || '';
+    var nombre = archivo.replace(/^textos\//, '').replace(/\.json$/, '');
+    return nombre || String(articulo.doi || articulo.id || '');
+  }
+
+  /* Vista de lectura */
+
+  var ETIQUETAS_TEXTO = {
+    section: 1, h2: 1, h3: 1, h4: 1, h5: 1, h6: 1, p: 1, ul: 1, ol: 1, li: 1, blockquote: 1, table: 1,
+    caption: 1, thead: 1, tbody: 1, tfoot: 1, tr: 1, th: 1, td: 1, figure: 1, figcaption: 1, dl: 1, dt: 1,
+    dd: 1, aside: 1, pre: 1, em: 1, strong: 1, i: 1, b: 1, u: 1, sub: 1, sup: 1, br: 1, a: 1, q: 1,
+    cite: 1, small: 1, span: 1, code: 1, abbr: 1, s: 1, mark: 1
+  };
+  var ATRIBUTOS_TEXTO = { lang: 1, id: 1, colspan: 1, rowspan: 1, scope: 1, start: 1, title: 1 };
+
+  // Construye el texto del artículo a partir del árbol saneado por el recolector.
+  // Solo se admiten las etiquetas y atributos de la lista blanca, y el texto
+  // se inserta siempre como texto: nunca se interpreta como HTML.
+  function construirTexto(nodos, contexto) {
+    var fragmento = document.createDocumentFragment();
+    (nodos || []).forEach(function (nodo) {
+      var hijo = construirNodo(nodo, contexto);
+      if (hijo) fragmento.appendChild(hijo);
+    });
+    return fragmento;
+  }
+
+  function construirNodo(nodo, contexto) {
+    if (typeof nodo === 'string') return document.createTextNode(nodo);
+    if (!Array.isArray(nodo) || typeof nodo[0] !== 'string') return null;
+    var etiqueta = nodo[0];
+    var atributos = nodo[1] && typeof nodo[1] === 'object' ? nodo[1] : {};
+    var hijos = nodo.slice(2);
+    if (etiqueta === 'figura') return figuraSustituida(atributos, contexto);
+    if (!ETIQUETAS_TEXTO[etiqueta]) return construirTexto(hijos, contexto);
+    var elemento;
+    if (etiqueta === 'a') {
+      var href = String(atributos.href || '');
+      if (/^#t-[A-Za-z0-9_-]+$/.test(href)) {
+        elemento = el('a', { href: href, clase: 'enlace-interno' });
+      } else if (urlSegura(href)) {
+        elemento = el('a', { href: href, target: '_blank', rel: 'noopener' });
+        elemento.appendChild(construirTexto(hijos, contexto));
+        anadir(elemento, el('span', { clase: 'enlace-externo__aviso' }, ' ' + AVISO_EXTERNO));
+        copiarAtributos(elemento, atributos);
+        return elemento;
+      } else {
+        elemento = el('span');
+      }
+    } else {
+      elemento = document.createElement(etiqueta);
+    }
+    copiarAtributos(elemento, atributos);
+    elemento.appendChild(construirTexto(hijos, contexto));
+    if (etiqueta === 'table') {
+      // Las tablas anchas se desplazan dentro de su propio marco, que se puede
+      // recorrer con el teclado, y nunca ensanchan la página.
+      var leyenda = elemento.querySelector('caption');
+      var marco = el('div', { clase: 'tabla-desplazable', role: 'region', tabindex: '0' });
+      if (leyenda) {
+        if (!leyenda.id) leyenda.id = 'leyenda-' + (++contexto.tablas);
+        marco.setAttribute('aria-labelledby', leyenda.id);
+      } else {
+        marco.setAttribute('aria-label', 'Tabla ' + (++contexto.tablas) + ' del artículo');
+      }
+      marco.appendChild(elemento);
+      return marco;
+    }
+    return elemento;
+  }
+
+  function copiarAtributos(elemento, atributos) {
+    Object.keys(atributos).forEach(function (clave) {
+      if (!ATRIBUTOS_TEXTO[clave] || typeof atributos[clave] !== 'string') return;
+      if (clave === 'id' && !/^t-[A-Za-z0-9_-]+$/.test(atributos.id)) return;
+      if (clave === 'lang' && !/^[a-z]{2,3}(-[a-z0-9]+)*$/i.test(atributos.lang)) return;
+      elemento.setAttribute(clave, atributos[clave]);
+    });
+  }
+
+  // Las imágenes de la revista no se muestran: en su lugar va su descripción,
+  // o un aviso si la revista no la ofrece, y un enlace para verla en el original.
+  function figuraSustituida(atributos, contexto) {
+    var alt = typeof atributos.alt === 'string' ? atributos.alt.trim() : '';
+    var enlace = enlaceExterno(contexto.articulo.url, 'Ver la figura en la web de la revista');
+    if (alt) {
+      return el('span', { clase: 'figura-sustituida' },
+        el('strong', null, 'Imagen de la revista. '), 'Descripción de la revista: ', alt, ' ', enlace);
+    }
+    contexto.sinDescripcion++;
+    return el('span', { clase: 'figura-sustituida figura-sustituida--sin-descripcion' },
+      el('strong', null, 'Aviso: esta figura no dispone de descripción en la revista.'),
+      ' Para verla, consulta el original. ', enlace);
+  }
+
+  // Cita en el estilo APA 7, adaptado al español («y» antes del último autor).
+  function iniciales(nombre) {
+    return String(nombre || '').split(/\s+/).filter(Boolean).map(function (parte) {
+      return parte.split('-').map(function (p) { return p.charAt(0).toUpperCase() + '.'; }).join('-');
+    }).join(' ');
+  }
+
+  function autoresCita(texto, articulo) {
+    var lista = (texto.autores_cita && texto.autores_cita.length ? texto.autores_cita : (articulo.autores || []))
+      .map(function (a) {
+        if (a.apellidos) return a.apellidos + (a.nombre_pila ? ', ' + iniciales(a.nombre_pila) : '');
+        return a.nombre || '';
+      }).filter(Boolean);
+    if (lista.length === 0) return '';
+    if (lista.length === 1) return lista[0];
+    return lista.slice(0, -1).join(', ') + ' y ' + lista[lista.length - 1];
+  }
+
+  // Devuelve el texto de la cita y una función que crea sus nodos: cada
+  // bloque de cita necesita los suyos, porque un nodo solo puede estar en un sitio.
+  function cita(texto, articulo, revista, numero) {
+    var autores = autoresCita(texto, articulo);
+    var paginas = articulo.paginas ? String(articulo.paginas).replace(/-/g, '–') : '';
+    var partes = [];
+    if (autores) partes.push([autores + (/\.$/.test(autores) ? ' ' : '. ')]);
+    partes.push(['(' + (numero.anio || 's. f.') + '). ']);
+    partes.push([articulo.titulo, 'titulo']);
+    partes.push([/[.?!]$/.test(articulo.titulo) ? ' ' : '. ']);
+    partes.push([revista.titulo, 'cursiva']);
+    if (numero.volumen) { partes.push([', ']); partes.push([numero.volumen, 'cursiva']); }
+    if (numero.numero) partes.push(['(' + numero.numero + ')']);
+    if (paginas) partes.push([', ' + paginas]);
+    partes.push(['. https://doi.org/' + articulo.doi]);
+    return {
+      texto: partes.map(function (p) { return p[0]; }).join(''),
+      construir: function () {
+        return partes.map(function (p) {
+          if (p[1] === 'cursiva') return el('i', null, p[0]);
+          if (p[1] === 'titulo') return conIdioma(el('span', null, p[0]), articulo.idioma_titulo);
+          return p[0];
+        });
+      }
+    };
+  }
+
+  function bloqueCita(datosCita, idCita) {
+    var parrafo = el('p', { clase: 'cita', id: idCita });
+    anadir(parrafo, datosCita.construir());
+    return parrafo;
+  }
+
+  function copiarCita(textoCita, idCita) {
+    function seleccionar() {
+      var nodo = document.getElementById(idCita);
+      var rango = document.createRange();
+      rango.selectNodeContents(nodo);
+      var seleccion = window.getSelection();
+      seleccion.removeAllRanges();
+      seleccion.addRange(rango);
+      anunciar('No se ha podido copiar automáticamente. La cita ha quedado seleccionada: cópiala con el menú del sistema o con Comando más C.');
+    }
+    if (!navigator.clipboard || !navigator.clipboard.writeText) { seleccionar(); return; }
+    navigator.clipboard.writeText(textoCita).then(function () {
+      anunciar('Cita copiada.');
+      var aviso = document.getElementById(idCita + '-copiada');
+      if (aviso) aviso.textContent = 'Cita copiada.';
+    }, seleccionar);
+  }
+
+  function indiceDelArticulo(entradas) {
+    if (!entradas || !entradas.length) return null;
+    var raiz = el('ol');
+    var pila = [{ nivel: 1, lista: raiz }];
+    entradas.forEach(function (entrada) {
+      if (!/^t-[A-Za-z0-9_-]+$/.test(entrada.id)) return;
+      while (pila.length > 1 && pila[pila.length - 1].nivel >= entrada.nivel) pila.pop();
+      var elemento = el('li', null, conIdioma(el('a', { href: '#' + entrada.id, clase: 'enlace-interno' }, entrada.texto), entrada.lang));
+      pila[pila.length - 1].lista.appendChild(elemento);
+      var sublista = el('ol');
+      elemento.appendChild(sublista);
+      pila.push({ nivel: entrada.nivel, lista: sublista });
+    });
+    // Se quitan las sublistas vacías.
+    raiz.querySelectorAll('ol').forEach(function (lista) { if (!lista.children.length) lista.remove(); });
+    return el('nav', { clase: 'indice-articulo', 'aria-labelledby': 'indice-articulo-titulo' },
+      el('h2', { id: 'indice-articulo-titulo' }, 'Contenido del artículo'), raiz);
+  }
+
+  function vistaLectura(datos, numero, articulo, texto) {
+    var revista = datos.revista;
+    var licencia = texto.licencia;
+    var autores = (articulo.autores || []).map(function (a) { return a.nombre; }).filter(Boolean);
+    var datosCita = cita(texto, articulo, revista, numero);
+    var contexto = { articulo: articulo, tablas: 0, sinDescripcion: 0 };
+    var fecha = fechaLegible(texto.recogido);
+    var original = function () {
+      return el('p', null, enlaceExterno(articulo.url, 'Ver y citar en la web de la revista'));
+    };
+
+    var cuerpo = el('div', { clase: 'texto-articulo' });
+    conIdioma(cuerpo, texto.idioma_principal);
+    cuerpo.appendChild(construirTexto(texto.contenido, contexto));
+    // Enlaces de vuelta desde notas y referencias que no lo traen en el original.
+    Object.keys(texto.vueltas || {}).forEach(function (destino) {
+      var llamada = texto.vueltas[destino];
+      var nota = /^t-[A-Za-z0-9_-]+$/.test(destino) ? cuerpo.querySelector('#' + CSS.escape(destino)) : null;
+      if (!nota || !/^t-[A-Za-z0-9_-]+$/.test(llamada) || !cuerpo.querySelector('#' + CSS.escape(llamada))) return;
+      anadir(nota, [' ', el('a', { href: '#' + llamada, clase: 'enlace-interno volver-nota', lang: 'es' }, 'Volver al texto')]);
+    });
+
+    var avisos = (texto.avisos_derechos || []).filter(Boolean);
+    var atribucion = el('section', { clase: 'atribucion', 'aria-labelledby': 'atribucion-titulo' },
+      el('h2', { id: 'atribucion-titulo' }, 'Cita, autoría y licencia'),
+      el('dl', { clase: 'metadatos' },
+        el('dt', null, 'Autoría'), el('dd', null, autores.length ? autores.join(', ') : 'No indicada en la fuente.'),
+        el('dt', null, 'Revista'), el('dd', null, nombreRevista(revista), ', ' + numero.etiqueta +
+          (articulo.paginas ? ', páginas ' + articulo.paginas : '') + '.'),
+        el('dt', null, 'DOI'), el('dd', { clase: 'doi' }, articulo.doi),
+        el('dt', null, 'Licencia'), el('dd', null, licencia.nombre_completo, ' (' + licencia.nombre + '). ',
+          enlaceExterno(licencia.url_legal, 'Texto legal de la licencia'))),
+      el('h3', null, 'Cita completa'),
+      bloqueCita(datosCita, 'cita-inicial'),
+      el('p', null, 'Este artículo se muestra con la licencia ' + licencia.nombre_completo +
+        '. Solo se han modificado el formato y la presentación; el texto es el publicado por la revista.'),
+      avisos.length ? [el('h3', null, 'Avisos de derechos del original'),
+        el('ul', { clase: 'avisos-derechos' }, avisos.map(function (a) { return el('li', null, a); }))] : null,
+      el('p', { clase: 'texto-suave' }, 'Texto obtenido de la versión ' + (texto.fuente && texto.fuente.formato || 'HTML') +
+        ' que publica la revista' + (fecha ? ', consultada el ' + fecha : '') + '.'),
+      original());
+
+    var indice = indiceDelArticulo(texto.indice);
+    var idCita = 'cita-final-texto';
+    var final = el('section', { clase: 'cita-final', 'aria-labelledby': 'cita-final-titulo' },
+      el('h2', { id: 'cita-final-titulo' }, 'Cómo citar este artículo'),
+      bloqueCita(datosCita, idCita),
+      el('p', { clase: 'acciones' },
+        el('button', { type: 'button', clase: 'boton', onClick: function () { copiarCita(datosCita.texto, idCita); } }, 'Copiar la cita'),
+        el('span', { clase: 'copiado', id: idCita + '-copiada' })),
+      el('p', null, 'Licencia: ' + licencia.nombre_completo + '. ', enlaceExterno(licencia.url_legal, 'Texto legal de la licencia')),
+      original(),
+      el('p', null, el('a', { href: ruta('revista', revista.id, 'numero', numero.id), clase: 'boton boton--secundario' }, 'Volver al índice del número')));
+
+    var secciones = (texto.indice || []).filter(function (e) { return e.nivel === 2; }).length;
+    return {
+      titulo: articulo.titulo,
+      migas: [
+        { texto: revista.titulo, idioma: revista.idioma_titulo, href: ruta('revista', revista.id) },
+        { texto: numero.etiqueta, href: ruta('revista', revista.id, 'numero', numero.id) },
+        { texto: articulo.titulo, idioma: articulo.idioma_titulo, href: location.hash }
+      ],
+      anuncio: 'Artículo cargado para su lectura. ' + (secciones ? plural(secciones, 'sección', 'secciones') + '. ' : '') +
+        'Licencia ' + licencia.nombre + '.' + (contexto.sinDescripcion ? ' ' + plural(contexto.sinDescripcion, 'figura no tiene', 'figuras no tienen') + ' descripción en la revista.' : ''),
+      contenido: el('article', { clase: 'lectura-vista' },
+        encabezado(articulo.titulo, articulo.idioma_titulo),
+        atribucion,
+        indice,
+        cuerpo,
+        final)
+    };
   }
 
   function vistaNumero(datos, numero) {
@@ -1015,13 +1462,24 @@ input[type="search"]::-webkit-search-cancel-button { -webkit-appearance: none; a
     }
     anadir(contenido, el('p', { clase: 'texto-suave' }, 'Fuente de los datos: ' + (numero.fuente || 'Crossref') + '.'));
 
+    // Si se vuelve de leer un artículo de este número, se recupera la posición
+    // y el foco va al enlace de ese artículo.
+    var retorno = estado.retorno && estado.retorno.ruta === location.hash ? estado.retorno : null;
+    estado.retorno = null;
+    var legibles = articulos.filter(function (a) { return a.texto_completo; }).length;
+    var vuelta = retorno ? contenido.querySelector('#' + CSS.escape('leer-' + retorno.articulo)) : null;
+
     return {
+      foco: vuelta,
+      posicion: vuelta ? retorno.posicion : 0,
       titulo: numero.etiqueta + ' · ' + revista.titulo,
       migas: [
         { texto: revista.titulo, idioma: revista.idioma_titulo, href: ruta('revista', revista.id) },
         { texto: numero.etiqueta, href: ruta('revista', revista.id, 'numero', numero.id) }
       ],
-      anuncio: 'Índice del número cargado. ' + (articulos.length ? plural(articulos.length, 'artículo', 'artículos') + '.' : 'No tiene artículos registrados.'),
+      anuncio: vuelta ? 'Has vuelto al índice del número, en el artículo que estabas leyendo.'
+        : 'Índice del número cargado. ' + (articulos.length ? plural(articulos.length, 'artículo', 'artículos') + '.' : 'No tiene artículos registrados.') +
+          (legibles ? ' ' + (legibles === 1 ? 'Uno se puede leer completo en esta aplicación.' : legibles + ' se pueden leer completos en esta aplicación.') : ''),
       contenido: contenido
     };
   }
@@ -1046,6 +1504,19 @@ input[type="search"]::-webkit-search-cancel-button { -webkit-appearance: none; a
     if (!(error instanceof ErrorDatos)) {
       error = new ErrorDatos('datos', 'Se ha producido un error inesperado al preparar la página.');
       if (window.console) window.console.error(error);
+    }
+    if (error.tipo === 'no-encontrado' && error.detalle === 'articulo') {
+      return {
+        titulo: 'Este artículo no se puede leer en la aplicación',
+        anuncio: 'Este artículo no se puede leer en la aplicación.',
+        contenido: el('div', null,
+          encabezado('Este artículo no se puede leer en la aplicación'),
+          el('div', { clase: 'estado' },
+            el('p', null, 'No hay texto completo de este artículo en la aplicación. Solo se incluyen los artículos cuya licencia lo permite y de los que la revista publica una versión en HTML o XML. Puedes consultarlo en el índice del número, que enlaza al original.'),
+            el('p', { clase: 'acciones' },
+              el('a', { href: ruta('revista', destino.id, 'numero', destino.numero), clase: 'boton' }, 'Ir al índice del número'),
+              volverAlListado())))
+      };
     }
     if (error.tipo === 'no-encontrado' && (error.detalle === 'revista' || error.detalle === 'numero')) {
       var esNumero = error.detalle === 'numero';
@@ -1127,10 +1598,47 @@ input[type="search"]::-webkit-search-cancel-button { -webkit-appearance: none; a
     });
   }
 
+  /* Tema de colores */
+
+  function iniciarTema() {
+    var selector = document.getElementById('tema');
+    var guardado = '';
+    try { guardado = window.localStorage.getItem(CLAVE_TEMA) || ''; } catch (e) { /* sin almacenamiento */ }
+    if (!Object.prototype.hasOwnProperty.call(TEMAS, guardado)) guardado = '';
+    function aplicar(tema) {
+      if (tema) document.documentElement.setAttribute('data-tema', tema);
+      else document.documentElement.removeAttribute('data-tema');
+    }
+    aplicar(guardado);
+    selector.value = guardado;
+    selector.addEventListener('change', function () {
+      aplicar(selector.value);
+      try { window.localStorage.setItem(CLAVE_TEMA, selector.value); } catch (e) { /* sin almacenamiento */ }
+      anunciar('Tema de colores: ' + TEMAS[selector.value] + '.');
+    });
+  }
+
+  // Los enlaces a notas, referencias y secciones del artículo mueven el foco
+  // sin cambiar la dirección, para no salir de la vista de lectura.
+  function seguirEnlaceInterno(evento) {
+    var enlace = evento.target.closest && evento.target.closest('a[href^="#t-"]');
+    if (!enlace || evento.defaultPrevented || evento.button > 0 || evento.metaKey || evento.ctrlKey || evento.shiftKey) return;
+    var destino = document.getElementById(enlace.getAttribute('href').slice(1));
+    if (!destino) return;
+    evento.preventDefault();
+    if (destino.getAttribute('tabindex') === null && !/^(A|BUTTON|INPUT|SELECT|TEXTAREA)$/.test(destino.tagName)) {
+      destino.setAttribute('tabindex', '-1');
+    }
+    destino.focus({ preventScroll: true });
+    destino.scrollIntoView({ block: 'start', behavior: window.matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth' });
+  }
+
   /* Inicio */
 
   function iniciar() {
     iniciarTamano();
+    iniciarTema();
+    principal.addEventListener('click', seguirEnlaceInterno);
 
     // El enlace de salto mueve el foco sin cambiar la dirección, para no
     // romper la ruta actual ni el historial.
@@ -1147,7 +1655,11 @@ input[type="search"]::-webkit-search-cancel-button { -webkit-appearance: none; a
       anadir(enlace, el('span', { clase: 'enlace-externo__aviso' }, ' ' + AVISO_EXTERNO));
     });
 
-    window.addEventListener('hashchange', mostrar);
+    window.addEventListener('hashchange', function () {
+      // Un ancla del texto (#t-...) abierta desde fuera no es una vista.
+      if (/^#t-/.test(location.hash)) return;
+      mostrar();
+    });
     mostrar();
   }
 

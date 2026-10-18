@@ -73,3 +73,32 @@ for (const ficha of listado.revistas) {
     expect(desborde).toBeLessThanOrEqual(0);
   });
 }
+
+// Lectura de cada texto completo real: único h1, atribución con la licencia,
+// idioma del texto, ninguna imagen ni script, reflujo y axe.
+const textosReales = [];
+for (const ficha of listado.revistas) {
+  for (const numero of leerRevista(ficha).numeros) {
+    for (const articulo of numero.articulos) {
+      if (articulo.texto_completo) textosReales.push({ ficha, numero, articulo });
+    }
+  }
+}
+
+for (const { ficha, numero, articulo } of textosReales) {
+  test(`lectura real: ${articulo.doi}`, async ({ page }) => {
+    const texto = JSON.parse(fs.readFileSync(path.join(DATOS, articulo.texto_completo), 'utf8'));
+    const clave = articulo.texto_completo.replace(/^textos\//, '').replace(/\.json$/, '');
+    await page.goto(`/#/revista/${encodeURIComponent(ficha.id)}/numero/${encodeURIComponent(numero.id)}/articulo/${encodeURIComponent(clave)}`);
+    await expect(page.locator('h1')).toHaveText(articulo.titulo);
+    await expect(page.locator('h1')).toHaveCount(1);
+    await expect(page.locator('section.atribucion')).toContainText(texto.licencia.nombre_completo);
+    await expect(page.locator('.texto-articulo img, .texto-articulo script, .texto-articulo iframe')).toHaveCount(0);
+    const lang = langEsperado(texto.idioma_principal);
+    expect(await page.locator('.texto-articulo').getAttribute('lang')).toBe(lang);
+    expect(await analizarConAxe(page)).toEqual([]);
+    await page.setViewportSize({ width: 320, height: 640 });
+    const desborde = await page.evaluate(() => document.documentElement.scrollWidth - document.documentElement.clientWidth);
+    expect(desborde).toBeLessThanOrEqual(0);
+  });
+}

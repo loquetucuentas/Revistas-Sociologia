@@ -114,10 +114,26 @@ test.describe('paquete con datos de prueba', () => {
     await expect(page.locator('#anuncios')).toHaveText('Ficha de la revista cargada. 3 números disponibles.');
     await page.getByRole('link', { name: 'Vol. 12, núm. 2 (2026)' }).click();
     await expect(h1).toBeFocused();
-    await expect(page.locator('#anuncios')).toHaveText('Índice del número cargado. 4 artículos.');
+    await expect(page.locator('#anuncios')).toHaveText('Índice del número cargado. 4 artículos. Uno se puede leer completo en esta aplicación.');
     await page.goBack();
     await expect(h1).toHaveText('Revista de Prueba de Estudios Sociales');
     await expect(h1).toBeFocused();
+  });
+
+  test('la vista de lectura funciona dentro del archivo único, sin peticiones externas', async ({ page }) => {
+    const externas = vigilarPeticiones(page, PRUEBA);
+    await page.goto(url(PRUEBA, '#/revista/prueba-0001/numero/v12-n2-2026'));
+    await esperarVista(page, 'Vol. 12, núm. 2');
+    await page.getByRole('link', { name: /^Leer el artículo completo/ }).click();
+    await expect(page.locator('h1')).toContainText('Artículo de prueba 1');
+    await expect(page.locator('h1')).toBeFocused();
+    await expect(page.getByRole('navigation', { name: 'Contenido del artículo' })).toBeVisible();
+    await page.locator('a[href="#t-nota-1"]').click();
+    await expect(page.locator('#t-nota-1')).toBeFocused();
+    expect(await analizarConAxe(page)).toEqual([]);
+    await page.goBack();
+    await expect(page.locator('#leer-prueba-0001-v12-n2-1')).toBeFocused();
+    expect(externas).toEqual([]);
   });
 
   test('los enlaces externos avisan de que salen de la aplicación', async ({ page }) => {

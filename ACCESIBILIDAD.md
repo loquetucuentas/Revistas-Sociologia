@@ -202,3 +202,35 @@ Generada el 18 de octubre de 2026 con herramientas/empaquetar.py para revisar la
 1. Comprobar en el iPhone que, tras abrir el archivo, el gesto de deslizar empieza por el enlace de salto y recorre la cabecera, las migas, el contenido y el pie.
 2. Repetir en esta versión las pruebas de la sección 3.2, sobre todo que el foco vaya al h1 nuevo tras tocar dos veces un enlace de revista o de número.
 3. Comprobar que al volver de un enlace externo a la pestaña del archivo se conserva la vista y el foco.
+
+## 6. Vista de lectura del texto completo
+
+Estado a 18 de octubre de 2026: la vista de lectura está construida y probada con un artículo ficticio de pruebas/datos. Los textos reales todavía no se han recogido, porque la red del entorno no permite aún los dominios de las revistas (ver data/textos/dominios.json).
+
+### 6.1. Comprobado de forma automática (pruebas/lectura.spec.js)
+
+1. En el índice del número, cada artículo dice con texto si se puede leer en la aplicación («Lectura completa disponible en esta aplicación») o no («Texto completo solo en la web de la revista»). El enlace «Leer el artículo completo» incluye el título en texto oculto.
+2. Al entrar en la lectura hay un único h1, el título del artículo, que recibe el foco; cambian el título del documento y las migas, y se anuncian las secciones, la licencia y las figuras sin descripción.
+3. Antes del texto aparecen la autoría, la revista, el DOI, la licencia con su nombre completo y el enlace a su texto legal, la cita completa en estilo APA 7, la nota de que solo se han modificado el formato y la presentación, los avisos de derechos del original y el enlace «Ver y citar en la web de la revista». Al final se repiten la cita, el botón «Copiar la cita» y ese enlace.
+4. La tabla de contenidos y los enlaces a notas y referencias mueven el foco sin cambiar de vista, y cada nota tiene un enlace «Volver al texto».
+5. Las figuras no muestran la imagen: muestran la descripción de la revista o, si falta, un aviso visible, siempre con enlace al original. Las tablas conservan su leyenda y sus cabeceras, y las anchas se desplazan dentro de un marco que se puede recorrer con el teclado.
+6. Los párrafos en otro idioma llevan su atributo lang.
+7. El botón «Copiar la cita» copia la cita exacta y lo anuncia; si el navegador no deja copiar, selecciona la cita y explica cómo copiarla.
+8. Al volver con el botón atrás, el índice recupera su posición, el foco va al enlace del artículo leído y se anuncia «Has vuelto al índice del número, en el artículo que estabas leyendo». Es una excepción razonada a la regla de llevar el foco al h1, aprobada por el responsable del proyecto.
+9. El tema de colores (automático, claro, oscuro y alto contraste) se elige en la cabecera, se anuncia y se recuerda. El alto contraste es blanco sobre negro, con enlaces amarillos (19,6 a 1) y foco cian.
+10. Sin scroll horizontal a 320 y a 1280 píxeles con el texto al 200 por ciento; la línea de lectura no pasa de unos 75 caracteres y el interlineado es de 1,75.
+11. axe en la vista de lectura con el tema automático claro y oscuro, a 320 píxeles, con el texto al 200 por ciento y con los temas claro, oscuro y alto contraste elegidos en la aplicación; también en el índice con cada tema y en la página de un artículo sin texto completo.
+12. En el archivo único, la lectura funciona sin ninguna petición externa.
+13. Con los datos reales, cada texto completo que se recoja se abrirá en las pruebas para comprobar el h1, la licencia, el idioma, la ausencia de imágenes y scripts, el reflujo y axe (pruebas/datos-reales.spec.js).
+
+Resultado de axe en GitHub Actions: pendiente de la próxima ejecución del flujo Pruebas.
+
+### 6.2. Pendiente de revisión manual con VoiceOver
+
+1. Recorrer con el rotor los encabezados de un artículo largo y comprobar que la jerarquía se entiende.
+2. Activar una llamada a nota, escuchar la nota y volver con «Volver al texto» en Mac y en iPhone; confirmar que VoiceOver sigue el foco.
+3. Escuchar el bloque de atribución y la cita, y probar «Copiar la cita» en Safari para iPhone, donde el portapapeles puede pedir permiso.
+4. Comprobar que el aviso de figura sin descripción se entiende sin ver la pantalla.
+5. Recorrer una tabla ancha con los gestos de tabla de VoiceOver.
+6. Volver con el botón atrás desde la lectura en iPhone y confirmar que el foco queda en el enlace del artículo leído.
+7. Revisar con los textos reales que el cambio de voz en párrafos en otro idioma es correcto.

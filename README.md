@@ -38,6 +38,15 @@ Opcionalmente, define la variable de repositorio CONTACTO_EMAIL (Settings, Secre
 
 Para regenerar los datos ficticios de las pruebas: `python3 recolector/datos_prueba.py`. Solo escribe en pruebas/datos y se niega a sobrescribir la carpeta data.
 
+## Texto completo
+
+```
+python3 recolector/texto_completo.py metadatos   # licencias y enlaces, solo desde Crossref
+python3 recolector/texto_completo.py textos      # textos HTML o XML JATS desde las webs de las revistas
+```
+
+Solo se muestran dentro de la aplicación los artículos con licencia CC BY, CC BY-SA, CC BY-NC o CC BY-NC-SA, comprobada artículo por artículo, y de los que la revista publica una versión HTML o XML JATS que se puede convertir con fidelidad. Nunca se usa PDF. El recolector se identifica con su dirección de contacto, respeta robots.txt, espera al menos dos segundos entre peticiones a un mismo servidor, no repite descargas de lo que no ha cambiado y se detiene ante limitaciones de tráfico. Cada texto va en data/textos y el informe de incluidos y excluidos, con el motivo, en data/informe-texto-completo.md. El flujo «Recoger textos completos» de GitHub Actions hace lo mismo y solo se lanza a mano.
+
 ## Versión de prueba en un solo archivo
 
 ```

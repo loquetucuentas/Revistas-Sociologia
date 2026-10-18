@@ -14,7 +14,7 @@ R1.4. En esta primera versión solo se incluyen revistas en español.
 
 R1.5. La estructura de datos queda preparada para añadir más adelante un filtro por idioma y revistas en inglés (cada revista, número y artículo registra su idioma o idiomas).
 
-R1.6. En esta versión no se muestra el texto completo de los artículos dentro de la aplicación.
+R1.6. Se muestra el texto completo dentro de la aplicación solo para los artículos que cumplen los requisitos de la sección 9. Los demás conservan su ficha, su resumen y el enlace al original. (Hasta el 18 de octubre de 2026 no se mostraba ningún texto completo.)
 
 ## 2. Accesibilidad (requisito innegociable)
 
@@ -112,3 +112,19 @@ R7.4. Las respuestas al responsable del proyecto se escriben en texto plano, sin
 ## 8. Proceso
 
 R8.1. Antes de ejecutar nada, se presenta un plan y se espera aprobación.
+
+## 9. Lectura del texto completo
+
+R9.1. Licencia, comprobada por artículo y nunca por revista, a partir de los metadatos de Crossref y de la propia página del artículo. Solo se admiten CC BY, CC BY-SA, CC BY-NC y CC BY-NC-SA, declaradas de forma explícita para la versión publicada. Se excluyen las licencias ND, los artículos sin licencia, las licencias ambiguas o contradictorias, las que empiezan en una fecha futura y los artículos con todos los derechos reservados. Ante cualquier duda, no se muestra el texto.
+
+R9.2. Origen del texto: solo versiones HTML o XML JATS publicadas por la revista. Nunca se extrae texto de un PDF. Un artículo con licencia válida que solo tiene PDF se trata como artículo sin texto completo.
+
+R9.3. Recolección respetuosa: User-Agent con el nombre del proyecto y la dirección de contacto, respeto de robots.txt, al menos dos segundos entre peticiones a un mismo servidor, sin repetir descargas de lo que no ha cambiado y parada ante errores de limitación de tráfico. No se intenta evitar ningún bloqueo.
+
+R9.4. Saneado y fidelidad: HTML propio sin scripts, estilos, marcos ni recursos externos. No se modifica ni se resume el texto; solo se reestructura la presentación. Se conservan títulos y su jerarquía, párrafos, listas, tablas con cabeceras, notas y referencias con enlaces de ida y vuelta, citas y avisos de derechos. Las figuras no muestran la imagen (decisión aprobada, opción A): muestran el texto alternativo de la revista o, si falta, un aviso visible, con enlace al original. Se marca con lang todo fragmento en otro idioma.
+
+R9.5. Atribución: antes del texto, la cita completa en estilo APA 7 (decisión aprobada), autoría, revista, DOI, licencia con su nombre completo y enlace a su texto legal, y la nota de que solo se han modificado el formato y la presentación. Al final, la cita repetida con un botón para copiarla. En ambos extremos, el enlace «Ver y citar en la web de la revista», con aviso de salida.
+
+R9.6. Interfaz: cuarta vista de lectura accesible desde el índice del número solo para los artículos que cumplen los criterios, indicados con texto. Un único h1 (el título), tabla de contenidos, línea de unos 65 caracteres, interlineado amplio, tamaño de texto, temas claro, oscuro y de alto contraste, reflujo al 400 por ciento, foco al entrar, título del documento y anuncio. Al volver con el botón atrás, el índice recupera la posición y el foco va al enlace del artículo leído (decisión aprobada).
+
+R9.7. Datos: un archivo por texto en data/textos, cargado solo al abrirlo. Informe aparte de los artículos excluidos y del motivo.
