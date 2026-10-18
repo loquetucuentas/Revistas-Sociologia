@@ -96,6 +96,13 @@ for (const { ficha, numero, articulo } of textosReales) {
     await expect(page.locator('.texto-articulo img, .texto-articulo script, .texto-articulo iframe')).toHaveCount(0);
     const lang = langEsperado(texto.idioma_principal);
     expect(await page.locator('.texto-articulo').getAttribute('lang')).toBe(lang);
+    // Llamadas a nota y enlaces de vuelta de al menos 24 por 24 píxeles, y sin cabeceras de tabla vacías.
+    const problemas = await page.evaluate(() => ({
+      pequenos: [...document.querySelectorAll('.texto-articulo a[href^="#"]')]
+        .filter((a) => { const b = a.getBoundingClientRect(); return b.width < 24 || b.height < 24; }).length,
+      cabecerasVacias: [...document.querySelectorAll('.texto-articulo th')].filter((t) => !t.textContent.trim()).length,
+    }));
+    expect(problemas).toEqual({ pequenos: 0, cabecerasVacias: 0 });
     expect(await analizarConAxe(page)).toEqual([]);
     await page.setViewportSize({ width: 320, height: 640 });
     const desborde = await page.evaluate(() => document.documentElement.scrollWidth - document.documentElement.clientWidth);

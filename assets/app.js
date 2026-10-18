@@ -630,6 +630,10 @@
       } else {
         elemento = el('span');
       }
+    } else if (etiqueta === 'th' && !textoDe(hijos).trim()) {
+      // Una cabecera de tabla vacía (la esquina de muchas tablas) no encabeza
+      // nada: se muestra como celda normal para no anunciar una cabecera vacía.
+      elemento = document.createElement('td');
     } else if (etiqueta === 'aside') {
       // Notas y recuadros del original: no son regiones de la página, así que
       // no se usa aside, que crearía un punto de referencia dentro de otro.
@@ -656,11 +660,18 @@
     return elemento;
   }
 
+  function textoDe(nodos) {
+    return (nodos || []).map(function (n) {
+      return typeof n === 'string' ? n : Array.isArray(n) ? textoDe(n.slice(2)) : '';
+    }).join('');
+  }
+
   function copiarAtributos(elemento, atributos) {
     Object.keys(atributos).forEach(function (clave) {
       if (!ATRIBUTOS_TEXTO[clave] || typeof atributos[clave] !== 'string') return;
       if (clave === 'id' && !/^t-[A-Za-z0-9_-]+$/.test(atributos.id)) return;
       if (clave === 'lang' && !/^[a-z]{2,3}(-[a-z0-9]+)*$/i.test(atributos.lang)) return;
+      if (clave === 'scope' && elemento.tagName !== 'TH') return;
       elemento.setAttribute(clave, atributos[clave]);
     });
   }

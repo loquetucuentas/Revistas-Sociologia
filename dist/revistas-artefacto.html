@@ -530,7 +530,17 @@ input[type="search"]::-webkit-search-cancel-button { -webkit-appearance: none; a
 .texto-articulo figcaption { font-weight: 600; }
 .texto-articulo pre { white-space: pre-wrap; overflow-wrap: anywhere; }
 .texto-articulo [id] { scroll-margin-top: 1rem; }
-.texto-articulo a[href^="#"] { display: inline-block; min-width: 1.5rem; text-align: center; }
+/* Llamadas a nota y enlaces de vuelta: al menos 24 por 24 píxeles, aunque
+   el número sea pequeño (WCAG 2.5.8). */
+.texto-articulo a[href^="#"] {
+  display: inline-block;
+  min-width: 1.5rem;
+  min-height: 1.5rem;
+  line-height: 1.5rem;
+  margin: 0 0.1rem;
+  text-align: center;
+  vertical-align: baseline;
+}
 .tabla-desplazable { overflow-x: auto; max-width: 100%; margin: 1em 0; }
 .tabla-desplazable table { border-collapse: collapse; min-width: 50%; }
 .tabla-desplazable th, .tabla-desplazable td { border: 1px solid var(--borde); padding: 0.4rem 0.6rem; text-align: left; vertical-align: top; }
@@ -594,7 +604,7 @@ input[type="search"]::-webkit-search-cancel-button { -webkit-appearance: none; a
     <div class="contenedor">
       <p>Los datos proceden de <a href="https://doaj.org/" class="externo">DOAJ</a> (listado de revistas), <a href="https://www.crossref.org/" class="externo">Crossref</a> y los archivos OAI-PMH de cada revista (números y artículos). Cada artículo pertenece a su revista y se distribuye con la licencia indicada en su ficha; los enlaces llevan siempre a la publicación original.</p>
       <p id="pie-actualizacion"></p>
-      <p>Versión de prueba privada en un solo archivo, para revisión. Contiene datos reales de DOAJ y Crossref generados el 18 de octubre de 2026 a las 05:53 (hora UTC). Archivo creado el 18 de octubre de 2026 a las 11:56 (hora UTC).</p>
+      <p>Versión de prueba privada en un solo archivo, para revisión. Contiene datos reales de DOAJ y Crossref generados el 18 de octubre de 2026 a las 05:53 (hora UTC). Archivo creado el 18 de octubre de 2026 a las 12:08 (hora UTC).</p>
     </div>
   </footer>
 
@@ -1233,6 +1243,10 @@ input[type="search"]::-webkit-search-cancel-button { -webkit-appearance: none; a
       } else {
         elemento = el('span');
       }
+    } else if (etiqueta === 'th' && !textoDe(hijos).trim()) {
+      // Una cabecera de tabla vacía (la esquina de muchas tablas) no encabeza
+      // nada: se muestra como celda normal para no anunciar una cabecera vacía.
+      elemento = document.createElement('td');
     } else if (etiqueta === 'aside') {
       // Notas y recuadros del original: no son regiones de la página, así que
       // no se usa aside, que crearía un punto de referencia dentro de otro.
@@ -1259,11 +1273,18 @@ input[type="search"]::-webkit-search-cancel-button { -webkit-appearance: none; a
     return elemento;
   }
 
+  function textoDe(nodos) {
+    return (nodos || []).map(function (n) {
+      return typeof n === 'string' ? n : Array.isArray(n) ? textoDe(n.slice(2)) : '';
+    }).join('');
+  }
+
   function copiarAtributos(elemento, atributos) {
     Object.keys(atributos).forEach(function (clave) {
       if (!ATRIBUTOS_TEXTO[clave] || typeof atributos[clave] !== 'string') return;
       if (clave === 'id' && !/^t-[A-Za-z0-9_-]+$/.test(atributos.id)) return;
       if (clave === 'lang' && !/^[a-z]{2,3}(-[a-z0-9]+)*$/i.test(atributos.lang)) return;
+      if (clave === 'scope' && elemento.tagName !== 'TH') return;
       elemento.setAttribute(clave, atributos[clave]);
     });
   }
