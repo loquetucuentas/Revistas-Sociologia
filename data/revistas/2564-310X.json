@@ -1,0 +1,175 @@
+{
+ "version": 1,
+ "generado": "2026-10-18T05:53:59+00:00",
+ "es_prueba": false,
+ "revista": {
+  "id": "2564-310X",
+  "titulo": "International Journal on Homelessness",
+  "idioma_titulo": null,
+  "titulo_alternativo": null,
+  "idioma_titulo_alternativo": null,
+  "idiomas": [
+   "en",
+   "fr",
+   "es",
+   "pt",
+   "ja"
+  ],
+  "issn_impreso": null,
+  "issn_electronico": "2564-310X",
+  "editorial": "Western Libraries, The University of Western Ontario",
+  "pais": "CA",
+  "materias": [
+   "Societies: secret, benevolent, etc.",
+   "Communities. Classes. Races",
+   "Sociology (General)"
+  ],
+  "palabras_clave": [
+   "homeless",
+   "homelessness",
+   "housing",
+   "housing policy",
+   "homelessness prevention"
+  ],
+  "licencias": [
+   {
+    "nombre": "CC BY-NC-SA 4.0",
+    "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+   }
+  ],
+  "url": "https://ojs.lib.uwo.ca/index.php/ijoh/index",
+  "url_doaj": "https://doaj.org/toc/2564-310X",
+  "descripcion": null,
+  "fuente_ficha": "DOAJ",
+  "archivo": "revistas/2564-310X.json",
+  "ultimo_numero": "Vol. 6, núm. 4 (2026)",
+  "fuente_numeros": "Crossref"
+ },
+ "numeros": [
+  {
+   "id": "v6-n4-2026",
+   "volumen": "6",
+   "numero": "4",
+   "anio": 2026,
+   "fecha": "2026-10-07",
+   "etiqueta": "Vol. 6, núm. 4 (2026)",
+   "fuente": "Crossref",
+   "articulos": [
+    {
+     "id": "10.5206/ijoh.2026.4.27016",
+     "titulo": "¿Por qué una edición especial sobre personas en situación de calle para América Latina?",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Santiago Bachiller",
+       "orcid": null
+      },
+      {
+       "nombre": "Silvia Maria Schor",
+       "orcid": null
+      }
+     ],
+     "resumen": "Esta edición especial reúne investigaciones sobre las personas en situación de calle en distintos países de América Latina, sosteniendo que la privación absoluta de vivienda, un legado colonial común y la persistencia de violencias estructurales permiten pensar a la región como una unidad de sentido pese a sus diferencias nacionales. Los trabajos convergen en identificar denominadores comunes, entre ellos la dificultad para superar miradas asistencialistas e individualizantes, la falta de voluntad estatal para registrar el fenómeno y sus muertes, y el carácter interseccional de una exclusión atravesada por el género, la raza y el racismo estructural, sin desconocer especificidades locales como la \"limpieza social\" en Colombia, las leyes coloniales de vagancia en el Caribe o el legado esclavista en Brasil. Frente a la gestión estatal del dolor, la perspectiva comparada se propone como herramienta para la exigibilidad de derechos y el diseño de políticas públicas que conciban la vivienda como punto de partida.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.5206/ijoh.2026.4.27016",
+     "doi": "10.5206/ijoh.2026.4.27016",
+     "paginas": "1-14",
+     "fuente": "Crossref"
+    }
+   ]
+  },
+  {
+   "id": "v6-n3-2026",
+   "volumen": "6",
+   "numero": "3",
+   "anio": 2026,
+   "fecha": "2026-09-03",
+   "etiqueta": "Vol. 6, núm. 3 (2026)",
+   "fuente": "Crossref",
+   "articulos": [
+    {
+     "id": "10.5206/ijoh.2026.3.26780",
+     "titulo": "Editorial: Who Decides Where People Belong",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Abe Oudshoorn",
+       "orcid": null
+      }
+     ],
+     "resumen": "This editorial reflects on a theme that runs through the varied articles in this issue. Across every case, someone other than the person experiencing homelessness holds the authority to classify, place, or move them, and that authority is usually exercised at a distance from the realities of homelessness itself. Looking back to the author's own doctoral research on power in the care relationship, and on studies that examine shelter placement, the framing of homelessness and domestic abuse policy in Scotland, the policing of public space, mobility across London, and shelter-use categories in Toronto, the collection shows how discretion, policy design, and definitions each decide who help is for before the affected person can speak. The author argues that we too rarely ask who holds the power to define a person's situation, and whether that power is guided by policy, training, and accountability.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.5206/ijoh.2026.3.26780",
+     "doi": "10.5206/ijoh.2026.3.26780",
+     "paginas": "1-4",
+     "fuente": "Crossref"
+    }
+   ]
+  },
+  {
+   "id": "v6-n2-2026",
+   "volumen": "6",
+   "numero": "2",
+   "anio": 2026,
+   "fecha": "2026-07-06",
+   "etiqueta": "Vol. 6, núm. 2 (2026)",
+   "fuente": "Crossref",
+   "articulos": [
+    {
+     "id": "10.5206/ijoh.2026.2.25467",
+     "titulo": "Editorial: Whose Fault is it? Looking Upstream to Solve Homelessness",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Abe Oudshoorn",
+       "orcid": null
+      }
+     ],
+     "resumen": "In this editorial I reflect on the trend of this edition's articles highlighting structural factors as the cause, and therefore solution, of homelessness.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.5206/ijoh.2026.2.25467",
+     "doi": "10.5206/ijoh.2026.2.25467",
+     "paginas": "1-3",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.5206/ijoh.2026.2.22450",
+     "titulo": "Measuring Permanent Exits from Homeless Emergency Shelters in Toronto",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Daniel Dutton",
+       "orcid": "https://orcid.org/0000-0002-5411-9301"
+      },
+      {
+       "nombre": "Ron Kneebone",
+       "orcid": "https://orcid.org/0000-0002-4290-1240"
+      }
+     ],
+     "resumen": "The use of homeless shelters is dynamic. On any given day, some of those occupying a shelter bed are staying in shelter for the first time, others are returning to shelter after time away, and still others are staying in shelter for the last time. Deriving a method for measuring the number of people leaving the shelter system for the last time is an essential step in understanding the reasons for those exits. Any approach for identifying permanent exits from a shelter system must face the challenge of right censoring, the fact that observations of permanent exits may occur after the end of one’s data set. This paper describes an approach for addressing the problem of right censoring and uses it to measure permanent exits from Toronto homeless shelters.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.5206/ijoh.2026.2.22450",
+     "doi": "10.5206/ijoh.2026.2.22450",
+     "paginas": "1-13",
+     "fuente": "Crossref"
+    }
+   ]
+  }
+ ]
+}

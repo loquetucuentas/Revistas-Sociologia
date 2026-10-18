@@ -1,0 +1,1613 @@
+// Copia de revistas/1666-8979.json para abrir la aplicación sin servidor.
+(window.DATOS_REVISTAS = window.DATOS_REVISTAS || {})["revistas/1666-8979.json"] = {
+ "version": 1,
+ "generado": "2026-10-18T05:53:59+00:00",
+ "es_prueba": false,
+ "revista": {
+  "id": "1666-8979",
+  "titulo": "Argumentos : Revista de Crítica Social",
+  "idioma_titulo": null,
+  "titulo_alternativo": null,
+  "idioma_titulo_alternativo": null,
+  "idiomas": [
+   "es"
+  ],
+  "issn_impreso": null,
+  "issn_electronico": "1666-8979",
+  "editorial": "Universidad de Buenos Aires, Facultad de Ciencias Sociales, Instituto de Investigaciones Gino Germani",
+  "pais": "AR",
+  "materias": [
+   "Sociology (General)"
+  ],
+  "palabras_clave": [
+   "sociology",
+   "social sciences"
+  ],
+  "licencias": [
+   {
+    "nombre": "CC BY-NC 4.0",
+    "url": "https://creativecommons.org/licenses/by-nc/4.0/"
+   }
+  ],
+  "url": "http://publicaciones.sociales.uba.ar/argumentos",
+  "url_doaj": "https://doaj.org/toc/1666-8979",
+  "descripcion": null,
+  "fuente_ficha": "DOAJ",
+  "archivo": "revistas/1666-8979.json",
+  "ultimo_numero": "núm. 33 (2026)",
+  "fuente_numeros": "Crossref"
+ },
+ "numeros": [
+  {
+   "id": "n33-2026",
+   "volumen": null,
+   "numero": "33",
+   "anio": 2026,
+   "fecha": "2026-05-14",
+   "etiqueta": "núm. 33 (2026)",
+   "fuente": "Crossref",
+   "articulos": [
+    {
+     "id": "10.62174/arg.2026.11233",
+     "titulo": "Análisis comparado de los cambios en la estructura socio-ocupacional en Bolivia y España (2001-2021)",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Jorge Miguel Veizaga-Rosales",
+       "orcid": null
+      },
+      {
+       "nombre": "Pedro López-Roldán",
+       "orcid": null
+      },
+      {
+       "nombre": "Sandra Fachelli",
+       "orcid": null
+      }
+     ],
+     "resumen": "El objetivo de este trabajo es analizar comparativamente la estructura socio-ocupacional en Bolivia y España y sus cambios en el pasado reciente, a fin de caracterizar los rasgos que las definen, identificando los correspondientes factores sociodemográficos asociados que estructuran las desigualdades ocupacionales en cada una de las poblaciones analizadas. Utilizando información de los últimos tres momentos censales y aplicando el análisis de correspondencias múltiples, se identifican patrones de asociación entre la estructura socio-ocupacional y las características sociodemográficas de ambos países. Teniendo en cuenta las diferencias existentes en el tamaño de la economía, nivel de desarrollo, productividad, informalidad o el contexto de modelo social y de políticas públicas, se logra identificar dos dimensiones estructurantes: 1) calidad y tipo de empleo que refleja las similitudes y 2) diversidad y heterogeneidad estructural que refleja las especificidades de cada caso, en especial, la enorme asimetría en el nivel de desigualdades.Palabras clave: Estructura socio-ocupacional, desigualdad social, análisis comparado, Bolivia, España Comparative Analysis of Changes in the Socio-Occupational Structure in Bolivia and Spain (2001-2021)AbstractThe objective of this paper is to comparatively analyze the socio-occupational structure in Bolivia and Spain and their changes in the recent past in order to characterize the features that define them, identifying the corresponding associated sociodemographic factors that structure occupational inequalities in both cases. Using data from the last three censuses, and applying multiple correspondence analysis, we identify patterns of association between the socio-occupational structure and the sociodemographic characteristics of both countries. Considering existing gaps in terms of the economy size, level of development, productivity, informality, and the context of the social model and public policies, two structuring dimensions are identified: 1) quality and type of employment, which reflects similarities, and 2) diversity and structural heterogeneity, which reflects the specificities, particularly the vast asymmetry in levels of inequality between both countries.Keywords: socio-occupational structure, social inequalities, comparative analysis, Bolivia, Spain ARK CAICYT: https://id.caicyt.gov.ar/ark:/s16668979/xf2av0rl9",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY-NC 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc/4.0"
+     },
+     "url": "https://doi.org/10.62174/arg.2026.11233",
+     "doi": "10.62174/arg.2026.11233",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.62174/arg.2026.11222",
+     "titulo": "Comparando agendas de investigación en torno a la relación migración, fronteras y desigualdad social en la Unión Europea y en Sud América. Bases para emprender el diálogo",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Alejandra Ramírez Soruco",
+       "orcid": null
+      }
+     ],
+     "resumen": "La migración es una agencia que, mientras hace frente a las violencias estructurales económicas, las reproduce, proceso que es particularmente visible en las fronteras. En un mundo interconectado, enriquece aprehender esta problemática comparando aristas en distintas regiones. Asumiendo que los laboratorios de investigación social no solo reconstruyen realidades, sino que también contribuyen a moldearlas, priorizamos en este trabajo la comparación de sus aproximaciones teórico-conceptuales y metodológicas, así como de las problemáticas que se priorizan en la Unión Europea (UE) y América del Sur (AS), en torno a la relación entre migración, fronteras y desigualdades sociales. Utilizando un enfoque cualitativo sustentado en una revisión bibliográfica, complementado con conversaciones informales a investigadores, se organiza la discusión en cinco partes. Se: 1) Aclara la estrategia de comparación elegida; 2) Analizan las coincidencias y diferencias en las aproximaciones teóricas y conceptuales; 3) Comparan los enfoques y desafíos metodológicos asumidos; 4) Identifican las principales problemáticas priorizadas por los laboratorios en las regiones y 5) Se sacan conclusiones en torno a la posibilidad de elaborar proyectos interregionales de análisis de las problemáticas que hacen a la dinámica estudiada a nivel mundial, a partir de lecturas y metodologías conjuntas.Palabras claves: laboratorios sociales, migración, movilidad, fronteras, desigualdades socialesComparing research agendas on the relationship between migration, borders and social inequality in the European Union and South America. Foundations for initiating a dialogue.AbstractMigration is a form of civic agency that, while seeking to confront structural economic violence, also perpetuates it — a phenomenon that becomes particularly visible at borders. In an increasingly interconnected world, understanding this issue through a comparative lens across different regions offers valuable insights. Starting from the premise that social research laboratories not only reconstruct realities but also contribute to shaping them, this study prioritizes the comparison of theoretical-conceptual and methodological approaches, as well as the issues emphasized within the European Union (EU) and South America (SA) when examining the relationship between migration, borders, and social inequalities. Using a qualitative approach based on a literature review supplemented by informal interviews with researchers, the discussion is organized into five sections: 1) The comparative strategy is clarified; 2) Similarities and differences in the theoretical and conceptual frameworks used by the laboratories are analysed; 3) Methodological approaches and challenges are compared; 4) The main research problems prioritized in each region are identified; and 5) Conclusions are drawn regarding the potential for developing interregional projects to address shared global challenges through joint analytical and methodological efforts.Key words: social laboratories, migration, mobility, borders, social inequalities ARK CAICYT: https://id.caicyt.gov.ar/ark:/s16668979/8ydi9c6ar",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY-NC 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc/4.0"
+     },
+     "url": "https://doi.org/10.62174/arg.2026.11222",
+     "doi": "10.62174/arg.2026.11222",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.62174/arg.2026.11217",
+     "titulo": "Cruces Artivistas / Artivist Crossings. Experiencias interdisciplinarias en torno a la crisis socio-ambiental",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Lorena Verzero",
+       "orcid": null
+      },
+      {
+       "nombre": "Martín Zebracki",
+       "orcid": null
+      }
+     ],
+     "resumen": "El presente artículo describe y analiza el trabajo llevado adelante por el proyecto de investigación “Artivist Crossings / Cruces Artivistas\", en cuyo marco examinamos el potencial del arte y del activismo para hacer frente a la crisis socio-ambiental. La iniciativa surgió como una colaboración internacional e interdisciplinaria entre académicos y académicas de la Universidad de Leeds y de la Universidad de Buenos Aires, quienes encabezaron el proyecto junto a artistas y activistas de Argentina y del Reino Unido. La propuesta gira en torno a los modos en que las prácticas artivistas abordan la intersección entre cambio climático e inequidad social en ambos territorios, y especialmente en contextos marcados por el extractivismo y la lógica colonial. A través de un estudio situado y comparativo, el equipo busca priorizar el conocimiento generado desde las comunidades y visibilizar vías de solución a situaciones de diverso alcance socio-político. Las conclusiones preliminares subrayan la incidencia social del artivismo y de diferentes metodologías exploratorias de resistencia y empoderamiento comunitario que surgen del análisis. El proyecto logró establecer comparativas entre las problemáticas que vinculan arte, justicia social y medio ambiente, y mecanismos a través de los cuales se los enfrenta en el norte y sur global.Palabras clave: Artivismo, Crisis socio-ambiental, Norte y Sur Global Artivist Crossings / Cruces Artivistas. Interdisciplinary experiences around socio-environmental crisis AbstractThis article describes and analyses the work carried out by the research project “Artivist Crossings / Cruces Artivistas”, in which we examine the potential of art and activism to address the socio-environmental crisis. The initiative emerged as an international and interdisciplinary collaboration between academics from the University of Leeds and the University of Buenos Aires, who led the project through a partnership with artists and activists from Argentina and the United Kingdom. The proposal focuses on the ways in which artivist practices address the intersection between climate change and social inequality in both territories, especially in contexts marked by extractivism and colonial logics. Through a situated and comparative study, the team seeks to prioritise knowledge generated from communities and highlight solutions to situations of varying socio-political extent. Preliminary conclusions emphasise the social impact of artivism and different exploratory methodologies of resistance and community empowerment that emerge from the analysis. The project managed to compare different issues linking art, social justice and the environment, and the methods used to tackle them in the Global North and South.Key words: Artivism, Socio-environmental crisis, Global North and South ARK CAICYT: https://id.caicyt.gov.ar/ark:/s16668979/a5omo11p4",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY-NC 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc/4.0"
+     },
+     "url": "https://doi.org/10.62174/arg.2026.11217",
+     "doi": "10.62174/arg.2026.11217",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.62174/arg.2026.11206",
+     "titulo": "El dogma y el misterio: institución y discurso en un diálogo entre las obras de Ernesto Laclau y Emilio de Ípola",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Pablo Fabián Americo",
+       "orcid": null
+      }
+     ],
+     "resumen": "En este artículo se intentará reconstruir un dialogo entre los trabajos escritos de Ernesto Laclau y Emilio de Ípola desde la segunda mitad de los años setenta hasta los años dos mil. En particular, este texto tomará especial interés por las consideraciones de ambos autores sobre las instituciones políticas y su relación con los populismos, tomando como punto de partida la postulación de que el concepto de institución puede ser un nudo crucial en los desarrollos teóricos post-fundacionalistas. Al mismo tiempo, el propósito de este trabajo es inscribirse en una serie de preguntas —abiertas— de investigación más amplias sobre la posibilidad de pensar una teoría sobre lo institucional de características no esencialistas ni positivistas. En ese sentido, se postulará que las críticas vertidas por de Ípola a la obra de Laclau sobre el populismo constituyen un buen punto de partida para comenzar a adentrarse en una posible teorización del vínculo entre populismo —con particular énfasis en el caso del primer peronismo— e instituciones.Palabras clave: discurso político, hegemonía, populismo, instituciones Dogma and mystery: Institution and discourse in a dialogue between the works of Ernesto Laclau and Emilio de ÍpolaAbstractIn this article we will try to reconstruct a dialogue between the written works of Ernesto Laclau and Emilio de Ípola from the second half of the seventies to the twenty-first century. In particular, this text will take special interest in the considerations of both authors on political institutions and their relationship with populism, taking as a starting point the postulation that the concept of institution can be a crucial knot in post-foundationalist theoretical developments. At the same time, the purpose of this work is to enroll in a series of broader —open— research questions about the possibility of thinking about a theory about the institutional with non-essentialist or positivist characteristics. In that sense, it will be postulated that the criticisms expressed by de Ípola to Laclau's work on populism constitute a good starting point to begin to delve into a possible theorization of the link between populism —with particular emphasis in the case of the first Peronism— and institutions.Keywords: political discourse, hegemony, populism, institutions ARK CAICYT: https://id.caicyt.gov.ar/ark:/s16668979/q6ki99al2",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY-NC 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc/4.0"
+     },
+     "url": "https://doi.org/10.62174/arg.2026.11206",
+     "doi": "10.62174/arg.2026.11206",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.62174/arg.2026.11210",
+     "titulo": "Electromovilidad y transiciones digitales: el ascenso de China en el mercado global de vehículos eléctricos",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Luciana Mónica Guido",
+       "orcid": null
+      },
+      {
+       "nombre": "Damián Andrés Bil",
+       "orcid": null
+      }
+     ],
+     "resumen": "Este artículo indaga en los recientes cambios en el mercado global de vehículos eléctricos (VE), con énfasis en el protagonismo creciente de la República Popular China. Se examinan sus modelos de desarrollo en términos de marcos políticos, actores industriales, infraestructura tecnológica y formas de gobernanza. Asimismo, se analizan dinámicas recientes del comercio exterior, destacando la consolidación de China como principal productor y exportador de VE. En este contexto, se incorporan referencias al posicionamiento estratégico de Estados Unidos, particularmente en innovación tecnológica y seguridad nacional. Examinando datos recientes sobre exportaciones e importaciones de vehículos eléctricos, se busca identificar nuevas dinámicas comerciales y geopolíticas en el sector, sobre todo en la salida de la pandemia. Estos procesos ofrecen claves para comprender la reconfiguración del mercado global de movilidad eléctrica en el contexto de la transición energética y digital.Palabras clave: electromovilidad, transiciones digitales, vehículos eléctricos, China, Estados Unidos Electromobility and digital transitions: the rise of China in the global electric vehicle market AbstractThis article explores recent changes in the global electric vehicle (EV) market, with a focus on the growing prominence of the People’s Republic of China. It explores China’s development model in terms of policy frameworks, industrial actors, technological infrastructure, and forms of governance. It also examines recent foreign trade dynamics, highlighting China’s consolidation as the leading producer and exporter of EVs. In this context, references are made to the strategic positioning of the United States, particularly in technological innovation and national security. By analyzing recent data on EV exports and imports, the article seeks to identify new commercial and geopolitical dynamics in the sector, especially in the post-pandemic period. These processes provide key insights for understanding the reconfiguration of the global electric mobility market in the context of the energy and digital transition.Keywords: electromobility, digital transitions, electric vehicles, China, United States ARK CAICYT: https://id.caicyt.gov.ar/ark:/s16668979/c5mirkcnq",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY-NC 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc/4.0"
+     },
+     "url": "https://doi.org/10.62174/arg.2026.11210",
+     "doi": "10.62174/arg.2026.11210",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.62174/arg.2026.11221",
+     "titulo": "Inseguridad y miedo al delito en Brasil y Chile: construcción social, datos cuantitativos y dimensión política",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Ana Carolina De Morais Colombaroli",
+       "orcid": null
+      }
+     ],
+     "resumen": "Este artículo analiza comparativamente la construcción social del miedo al delito en Brasil y Chile, examinando su dimensión política y presentando datos cuantitativos. La investigación demuestra que, aunque Brasil tiene tasas de homicidio significativamente más altas, Chile presenta mayores niveles de percepción de inseguridad y posiciona la delincuencia como principal problema nacional. El estudio traza los antecedentes históricos en las dictaduras militares, donde se institucionalizó el miedo, y su transición hacia la criminalidad común durante los procesos de redemocratización. Se identifica el miedo al delito como un fenómeno socialmente construido que funciona como depositario de inseguridades ontológicas derivadas de transformaciones políticas, económicas y sociales. El análisis de encuestas de victimización y opinión pública revela una disociación entre tasas objetivas de criminalidad y percepciones subjetivas de inseguridad. Los medios de comunicación juegan un papel crucial en la amplificación de estos temores. La investigación concluye que el miedo al delito tiene profundas implicaciones políticas, facilitando el surgimiento del populismo punitivo y posiciones autoritarias en nombre de la seguridad pública.Palabras clave: miedo al delito, inseguridad ciudadana, construcción social, demagogia punitiva. Fear of Crime and Insecurity in Brazil and Chile: Social Construction, Quantitative Data and Political Dimension AbstractThis article presents a comparative analysis of the social construction of fear of crime in Brazil and Chile, examining its political dimension and presenting quantitative data. The research demonstrates that although Brazil has significantly higher homicide rates, Chile shows higher levels of perceived insecurity and positions crime as the main national problem. The study traces historical antecedents to military dictatorships, where fear was institutionalized, and its transition towards common crime during redemocratization processes. Fear of crime is identified as a socially constructed phenomenon that serves as a repository for ontological insecurities derived from political, economic, and social transformations. Analysis of victimization and public opinion surveys reveals a dissociation between objective crime rates and subjective perceptions of insecurity. Mass media plays a crucial role in amplifying these fears. The research concludes that fear of crime has profound political implications, facilitating the emergence of punitive populism and authoritarian positions in the name of public security.Key-words: fear of crime; public insecurity; social construction; punitive demagoguery ARK CAICYT: https://id.caicyt.gov.ar/ark:/s16668979/z3qgr1i5i",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY-NC 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc/4.0"
+     },
+     "url": "https://doi.org/10.62174/arg.2026.11221",
+     "doi": "10.62174/arg.2026.11221",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.62174/arg.2026.11213",
+     "titulo": "La comparación en ciencias sociales: hacia nuevos objetos, enfoques, metodologías",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Emanuele Ferragina",
+       "orcid": null
+      },
+      {
+       "nombre": "Gabriela Seghezzo",
+       "orcid": null
+      },
+      {
+       "nombre": "Leticia Muñiz Terra",
+       "orcid": null
+      },
+      {
+       "nombre": "Joan Miquel Verd",
+       "orcid": null
+      },
+      {
+       "nombre": "Emilio Ayos",
+       "orcid": null
+      },
+      {
+       "nombre": "Eduardo Chávez Molina",
+       "orcid": null
+      }
+     ],
+     "resumen": "Participaron de esta Conversación Emanuele Ferragina, Gabriela Seghezzo, Leticia Muñiz Terra y Joan Miquel Verd, coordinados por Emilio Ayos y Eduardo Chávez Molina. El debate tuvo lugar el 10 de abril de 2026.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc/4.0"
+     },
+     "url": "https://doi.org/10.62174/arg.2026.11213",
+     "doi": "10.62174/arg.2026.11213",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.62174/arg.2026.11212",
+     "titulo": "La comparación en ciencias sociales: hacia nuevos objetos, enfoques, metodologías",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Emilio Ayos",
+       "orcid": null
+      },
+      {
+       "nombre": "Eduardo Chávez Molina",
+       "orcid": null
+      }
+     ],
+     "resumen": "Introducción al dossier La comparación en ciencias sociales: hacia nuevos objetos, enfoques, metodologías.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc/4.0"
+     },
+     "url": "https://doi.org/10.62174/arg.2026.11212",
+     "doi": "10.62174/arg.2026.11212",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.62174/arg.2026.11209",
+     "titulo": "La estética audiovisual de La Libertad Avanza en la campaña por las elecciones legislativas 2021 (Buenos Aires, Argentina).Estudio de la corporeidad de Javier Milei",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Mariano Cicowiez",
+       "orcid": null
+      }
+     ],
+     "resumen": "En este trabajo se examina la banda de imagen de los videos cortos y spots que La Libertad Avanza difundió, en medios tradicionales y digitales de comunicación, con motivo de las Elecciones Legislativas celebradas en 2021. En el marco de la cultura visual contemporánea, se analizan los procedimientos técnicos de figuración de la corporeidad de Javier Milei—en tanto soporte de significación y en relación subsidiaria con la puesta en escena y enunciación cinematográficas—, por entonces candidato a una banca en el Congreso Nacional en representación de la Ciudad Autónoma de Buenos Aires. Se ha realizado un corpus de trabajo que incluye 41 producciones audiovisuales difundidas en los plazos legalmente fijados por la Cámara Nacional Electoral para la promoción de candidaturas. Se concluye que el diseño de su estética construyó la corporeidad de Milei bajo una dimensión de orden físico, la cual lo aproxima a un segmento del electorado, y otra dimensión de características simbólicas, vinculada a las características de la conducción del cargo público en disputa.Palabras clave: La Libertad Avanza, campaña electoral, producciones audiovisuales, banda de imagen, corporeidad The audiovisual aesthetics of La Libertad Avanza in the 2021 Legislative Elections campaign (Buenos Aires, Argentina).A study of Javier Milei's corporeality AbstractThis paper examines the image band of the short videos and commercials that La Libertad Avanza broadcast in traditional and digital media on the 2021 Legislative Elections. Within the framework of contemporary visual culture, the paper analyzes the technical procedures for depicting the corporeality of Javier Milei —as a support for meaning and in a subsidiary relationship to cinematic mise-en-scène and enunciation— who was then a candidate for a seat in the National Congress representing the Autonomous City of Buenos Aires. We created a corpus of work that includes 41 audiovisual productions disseminated within the legally established timeframes established by the National Electoral Chamber for the promotion of candidates. We conclude that the design of its aesthetics constructed Milei's corporeality under a physical dimension, which brings him closer to a segment of the electorate, and another dimension of symbolic characteristics, linked to the characteristics of the leadership of the public office in dispute.Keywords: La Libertad Avanza, electoral campaign, audiovisual productions, image band, corporeality ARK CAICYT: https://id.caicyt.gov.ar/ark:/s16668979/nzthah28y",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY-NC 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc/4.0"
+     },
+     "url": "https://doi.org/10.62174/arg.2026.11209",
+     "doi": "10.62174/arg.2026.11209",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.62174/arg.2026.11207",
+     "titulo": "Las Islas Malvinas, la Patagonia y la Antártida en la concepción de las élites gobernantes argentinas: un análisis desde la formación del estado nacional a la actualidad",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Marcos Guillermo Fernández Peña",
+       "orcid": null
+      },
+      {
+       "nombre": "Claudio Antonio Gallegos",
+       "orcid": null
+      }
+     ],
+     "resumen": "En el proceso de formación del Estado nacional, las élites gobernantes argentinas construyeron un concepto de la zona patagónica asociado al atraso. Se la vinculó a la idea de un territorio inhóspito e infértil, en contraposición a los territorios de la pampa húmeda, que eran conceptualizados como el símbolo del progreso. En ese esquema, la Patagonia fue ligada a la noción de “desierto”, en aras de efectuar una construcción simbólica que legitimase el uso de la fuerza para incorporarlos a la jurisdicción nacional. Sin embargo, en el siglo XX y XXI se produjo una transformación conceptual y simbólica de los territorios australes, asignándoles un valor estratégico, tanto desde el punto de vista económico como de la defensa. El objetivo de este trabajo es estudiar esta transformación conceptual de la zona patagónica-Malvinas-antártica, a través del análisis de los discursos de las élites gobernantes nacionales desde el siglo XIX a la actualidad. Se advierte, de ese modo, la construcción simbólica no-lineal de dichos territorios, en función de las diferentes perspectivas de política exterior promovidas en cada período.Palabras clave: Malvinas, Patagonia, Antártida, historia conceptual, discursosThe Malvinas´ Islands, Patagonia and Antarctica in the conception of Argentina´s ruling elites: an analysis from the formation of the State to present dayAbstractDuring the process of national state formation, Argentina’s ruling elites constructed a concept of the Patagonian region associated with backwardness. It was linked to the idea of an inhospitable and infertile territory, in contrast to the lands of the humid Pampas, which were conceptualized as the symbol of progress. Within this framework, Patagonia was tied to the notion of a “desert,” as part of a symbolic construction that sought to legitimize the use of force to incorporate these lands into national jurisdiction. However, as the 20th century progressed, a conceptual and symbolic transformation of the southern territories emerged, taking into account their strategic value, both economically and in terms of national defense. The objective of this paper is to analyze this conceptual transformation of the Patagonian–Malvinas–Antarctic zone by examining the discourses of the national ruling elites during those periods. In doing so, the study reveals the non-linear symbolic construction of these territories, shaped by the different foreign policy approaches promoted in each historical phase.Key words: Malvinas, Patagonia, Antarctica, conceptual history, discourses. ARK CAICYT: https://id.caicyt.gov.ar/ark:/s16668979/xnbvlfasu",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY-NC 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc/4.0"
+     },
+     "url": "https://doi.org/10.62174/arg.2026.11207",
+     "doi": "10.62174/arg.2026.11207",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.62174/arg.2026.11235",
+     "titulo": "Las bases de la solidaridad en perspectiva comparada: Empresas recuperadas, MONDRAGON y la autogestión yugoslava",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Julián Rebón",
+       "orcid": null
+      },
+      {
+       "nombre": "José Itzigsohn",
+       "orcid": null
+      }
+     ],
+     "resumen": "Este artículo examina las bases para la emergencia y el crecimiento de la solidaridad en la economía. La economía es el ámbito de la racionalidad instrumental. Sin embargo, existen varias organizaciones económicas —como las cooperativas, las organizaciones de ayuda mutua o diversas asociaciones de productores o consumidores— que funcionan según una lógica de solidaridad. Nuestro objetivo es investigar las bases sociales e institucionales que pueden sostener el desarrollo de la solidaridad en el ámbito económico. Para ello, recurrimos a la investigación comparada de tipo trans-contextual a partir del análisis de tres experiencias de asociativismo en la producción: las empresas recuperadas por sus trabajadores en Argentina, la corporación cooperativa MONDRAGON y la experiencia de autogestión en la ex Yugoslavia. Con base en el análisis, extrapolamos a qué formas de inserción social y qué tipo de instituciones colaboran en sostener y ampliar la solidaridad en el campo de la economía. Identificamos tres elementos que pueden contribuir a la emergencia y expansión de la economía solidaria. En primer lugar, instituciones que generen incentivos materiales para la cooperación. En segundo lugar, una relación colaborativa con el Estado que pueda ayudar al crecimiento de la economía solidaria, al tiempo que preserve su autonomía. En tercer lugar, la presencia de movimientos sociales cuyo objetivo sea construir y expandir la economía solidaria.Palabras clave: economía solidaria, cooperativa, autogestión, mercado, estado The foundations of solidarity from a comparative perspective: Recuperated enterprise, MONDRAGON, and Yugoslav self-managementAbstractThis paper examines the bases for the emergence and growth of solidarity in the economy. The economy is the realm of instrumental rationality. Yet, there are many economic activities—such as cooperatives of all kinds, mutual aid organizations, or associations of producers or consumers—that operate on a logic of solidarity. The paper examines the social and institutional bases that can support the development of solidarity in the economic realm. To this end, we draw on trans-contextual comparative research based on the analysis of three experiences of associativism in production: worker-recuperated enterprises in Argentina, the MONDRAGON cooperative corporation, and the experience of self-management in the former Yugoslavia. On the basis of this analysis, we extrapolate which forms of social embeddedness and what kind of institutions can sustain solidarity in the economic realm. We identify three elements that can contribute to the emergence and expansion of the solidarity economy. First, institutions that generate material incentives for cooperation. Second, a collaborative relation with the state that can help the solidarity economy growth while allowing for its autonomy. Third, the presence of social movements that make their goal to build and expand the solidarity economy.Keywords: solidarity economy, cooperative, self-management, market, state ARK CAICYT: https://id.caicyt.gov.ar/ark:/s16668979/s5i8gflb8",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY-NC 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc/4.0"
+     },
+     "url": "https://doi.org/10.62174/arg.2026.11235",
+     "doi": "10.62174/arg.2026.11235",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.62174/arg.2026.11223",
+     "titulo": "Las clases sociales en el ojo del huracán. Posicionamiento subjetivo de clase en 16 países latinoamericanos",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "José Rodríguez de la Fuente",
+       "orcid": null
+      },
+      {
+       "nombre": "Gonzalo Assusa",
+       "orcid": null
+      }
+     ],
+     "resumen": "El artículo analiza el posicionamiento subjetivo de clase en América Latina, en el marco de uno de los problemas centrales de la sociología contemporánea: la correspondencia entre la posición objetiva de los individuos en la estructura social y su autoubicación en categorías de clase. A diferencia de las interpretaciones que destacan una creciente distorsión cognitiva en torno a las identidades de clase, se propone la persistencia de un grado razonable de correspondencia entre ambas dimensiones, mediado por las percepciones que los individuos tienen sobre la desigualdad y condicionado por las características de las estructuras sociales a nivel nacional.El objetivo del estudio es analizar el modo en el que la población latinoamericana se posiciona subjetivamente en términos de clase social en 16 países latinoamericanos entre 2011 y 2024. Para ello, a partir de la base de microdatos de Latinobarómetro, se construye un índice de estatus social objetivo —basado en educación, ocupación y activos del hogar— y se aplican modelos de regresión logística multinivel.Los resultados muestran que el estatus social objetivo presenta un efecto significativo en las probabilidades de identificarse con la clase media, confirmando una correspondencia entre ambas dimensiones. Las percepciones sobre la desigualdad de ingresos y la situación económica también resultan predictoras del posicionamiento subjetivo. Asimismo, más allá de los factores individuales, en menor medida, dicha relación es cambiante entre países y en el tiempo.Palabras clave: clase social subjetiva, estratificación, estatus social, desigualdad, clase media Social classes in the eye of the storm. Subjective class positioning in 16 Latin American countriesThe article examines the subjective class positioning in Latin America within the framework of one of the central issues in contemporary sociology: the correspondence between individuals’ objective location in the social structure and their self-placement into class categories. Contrary to interpretations that emphasize an increasing cognitive distortion surrounding class identities, the study argues for the persistence of a reasonable degree of correspondence between these two dimensions, mediated by individuals’ perceptions of inequality and conditioned by the characteristics of national social structures.The aim of the study is to analyze how the Latin American population subjectively positions itself in terms of social class across 16 Latin American countries between 2011 and 2024. Drawing on Latinobarómetro microdata, the analysis constructs an index of objective social status—based on education, occupation, and household assets—and applies multilevel logistic regression models.The results show that objective social status exerts a significant effect on the likelihood of identifying with the middle class, confirming a correspondence between the two dimensions. Perceptions of income inequality and economic conditions also emerge as predictors of subjective positioning. Furthermore, beyond individual-level factors, although to a lesser extent, this relationship varies across countries and over time.Keywords: social subjective class, stratification, social status, inequality, middle class ARK CAICYT: https://id.caicyt.gov.ar/ark:/s16668979/449nyomgg",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY-NC 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc/4.0"
+     },
+     "url": "https://doi.org/10.62174/arg.2026.11223",
+     "doi": "10.62174/arg.2026.11223",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.62174/arg.2026.11220",
+     "titulo": "Metodologías de la comparación subnacional y estudios locales en América Latina: tendencias analíticas y aplicaciones empíricas en Argentina",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Matías Parano",
+       "orcid": null
+      },
+      {
+       "nombre": "Ángeles Traina",
+       "orcid": null
+      },
+      {
+       "nombre": "Guillermo Colella",
+       "orcid": null
+      }
+     ],
+     "resumen": "La escala local y sus gobiernos se han vuelto unidades de análisis relevantes tanto a nivel de estudios de casos múltiples como en clave comparada, ya sea a nivel político como administrativo y de políticas públicas sectoriales. Si bien en el Norte Global la aplicación de metodologías que promueven la comparabilidad a nivel subnacional presenta un mayor grado de profundización, aún la producción es incipiente en regiones como América Latina. Así, surge el interrogante respecto a: ¿Cuál ha sido el derrotero de los estudios comparativos a nivel local, en Latinoamérica en general y en Argentina en particular? En ese sentido, el trabajo contribuye a la literatura a sistematizar enfoques metodológicos y proponer una lectura analítica de la subnacionalización de la comparación. Para ello, se proponen tres apartados. En primer lugar, se reseñan algunas de las tendencias metodológicas en la comparación a partir de cuatro ejes analíticos (la perspectiva metodológica o diseño de la investigación, la selección de la cantidad de casos, la cobertura geográfica y la dimensión o variable temporal), poniendo énfasis en el nivel subnacional local. Posteriormente, se recopilan y describen tres experiencias de comparación local de large-n aplicadas en la región de manera reciente: el Local Autonomy Index (LAI), la metodología POLLEADER (I y II) y la propuesta del proyecto “Capacidades estatales en una agenda municipal pospandemia”. A partir del análisis se destaca la coexistencia de enfoques cuantitativos, cualitativos y mixtos, la centralidad de diseños small-N, la debilidad de datos comparables en América Latina y las fragmentaciones disciplinares en Argentina. Se concluye que la comparación subnacional constituye una estrategia integradora con alto potencial analítico, aunque condicionada por limitaciones estructurales, requiriéndose fortalecer la producción de datos, la articulación teórica y los diseños metodológicos mixtos.Palabras clave: Gobierno municipal; Administración local; Descentralización; Metodología comparada; Estudios comparativos Methodologies for Subnational Comparison and Local Studies in Latin America: Analytical Trends and Empirical Applications in ArgentinaAbstractThe local level and its governments have become relevant units of analysis both in multiple-case studies and in comparative research, whether at the political level, the administrative level, or in the context of sectoral public policies. While in the Global North the application of methodologies that promote comparability at the subnational level has been explored in greater depth, research in this area is still in its infancy in regions such as Latin America. This raises the question: What has been the trajectory of comparative studies at the local level in Latin America in general and in Argentina in particular?. In this regard, this study contributes to the literature by systematizing methodological approaches and proposing an analytical interpretation of the subnationalization of comparative studies. To this end, three sections are proposed. First, some of the methodological trends in comparative analysis are reviewed based on four analytical axes (methodological perspective or research design, selection of the number of cases, geographic coverage, and the temporal dimension or variable), with an emphasis on the local subnational level. Subsequently, three recent large-n local comparative studies applied in the region are compiled and described: the Local Autonomy Index (LAI), the Polleader methodology (I and II), and the proposal for the project “State Capacities in a Post-Pandemic Municipal Agenda.” The analysis highlights the coexistence of quantitative, qualitative, and mixed approaches, the centrality of small-N designs, the scarcity of comparable data in Latin America, and disciplinary fragmentation in Argentina. It is concluded that subnational comparison constitutes an integrative strategy with high analytical potential, although it is constrained by structural limitations, requiring the strengthening of data production, theoretical articulation, and mixed methodological designs.Keywords: City government; Local government; Decentralization; Comparative methodology; Comparative studies ARK CAICYT: https://id.caicyt.gov.ar/ark:/s16668979/3ae2cuos0",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY-NC 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc/4.0"
+     },
+     "url": "https://doi.org/10.62174/arg.2026.11220",
+     "doi": "10.62174/arg.2026.11220",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.62174/arg.2026.11238",
+     "titulo": "Número 33",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Argumentos. Revista de crítica social",
+       "orcid": null
+      }
+     ],
+     "resumen": "Argumentos. Revista de crítica social.Número completo",
+     "idioma_resumen": null,
+     "licencia": {
+      "nombre": "CC BY-NC 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc/4.0"
+     },
+     "url": "https://doi.org/10.62174/arg.2026.11238",
+     "doi": "10.62174/arg.2026.11238",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.62174/arg.2026.11237",
+     "titulo": "Número 33, Equipo editorial",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Argumentos. Revista de crítica social",
+       "orcid": null
+      }
+     ],
+     "resumen": "Director de la revistaMartin Unzué, Universidad de Buenos Aires, Instituto de Investigaciones Gino Germani, Argentinahttps://orcid.org/ 0000-0002-2369-7563 Coordinadores del dossierEmilio Ayos, Universidad de Buenos Aires, Instituto de Investigaciones Gino Germani, Argentinahttps://orcid.org/0000-0002-2165-9117 Eduardo Chávez Molina, Universidad de Buenos Aires, Instituto de Investigaciones Gino Germani, Argentinahttps://orcid.org/0000-0001-8467-0930 Comité Editor Javier Auyero, University of Texas at Austin, Estados Unidos de Américahttps://orcid.org /0000-0001-5387-2812 Alejandro Capriati, Universidad de Buenos Aires, Instituto de Investigaciones Gino Germani, Argentinahttps://orcid.org/0000-0001-8204-6878 Ana Esther Ceceña, Universidad Nacional Autónoma de México, Méxicohttps://orcid.org/0000-0003-2498-7471 Eduardo Chávez Molina, Universidad de Buenos Aires, Instituto de Investigaciones Gino Germani, Argentinahttps://orcid.org/0000-0001-8467-0930 Marcela Crovetto, Universidad de Buenos Aires,Instituto de Investigaciones Gino Germani, Argentinahttps://orcid.org/0000-0002-4415-439X Claudia Danani, Universidad de Buenos Aires, Instituto de Investigaciones Gino Germani, Argentinahttps://orcid.org/0009-0003-6959-6834 Cora Gamarnik, Universidad de Buenos Aires, Instituto de Investigaciones Gino Germani, Argentinahttps://orcid.org/0000-0002-0128-5453 Liliana Findling, Universidad de Buenos Aires, Instituto de Investigaciones Gino Germani, Argentinahttps://orcid.org/0000-0002-4162-9249 Henry Giroux, University of Mac Master, Canadáhttps://orcid.org/0000-0003-1637-9142 Denis Merklen, Université Sorbonne Nouvelle, Ecole des Hautes Etudes en Sciences Sociales, Francehttps://orcid.org/ 0000-0002-3578-121X José Vicente Tavares dos Santos, Universidade Federal do Rio Grande do Sul, Brazilhttps://orcid.org/0000-0001-8410-5085 Massimo Modonesi, Universidad Nacional Autónoma de México, Méxicohttps://orcid.org/0000-0002-6188-0019 Diego Fernández Peychaux, Universidad de Buenos Aires, Instituto de Investigaciones Gino Germani, Argentinahttps://orcid.org/0000-0002-0403-7332 Emir Sader, Universidade de São Paulo / Universidade do Estado do Río de Janeiro, Brazilhttps://es.wikipedia.org/wiki/Emir_Sader David Snow, University of California, Irvine, Estados Unidos de Américahttps://en.wikipedia.org/wiki/David_A._Snow Luis Tapia, Universidad Mayor de San Andrés, Boliviahttps://cides.umsa.bo/index.php/component/sppagebuilder/?view=page&id=30",
+     "idioma_resumen": null,
+     "licencia": {
+      "nombre": "CC BY-NC 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc/4.0"
+     },
+     "url": "https://doi.org/10.62174/arg.2026.11237",
+     "doi": "10.62174/arg.2026.11237",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.62174/arg.2026.11214",
+     "titulo": "Peras con manzanas: El método comparado y los desafíos de investigar desde la periferia",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Martín Unzué",
+       "orcid": null
+      }
+     ],
+     "resumen": "La elección del método comparado como forma de producción de conocimiento en ciencias sociales, se ha potenciado enormemente en las últimas décadas. Los trabajos que presentan estudios comparados proliferan de modo creciente en muchas de nuestras disciplinas. Sin embargo la reflexión sobre su uso no parece tan desarrollada.En este artículo proponemos una revisión de las ventajas y los potenciales límites que presenta el uso de la comparación en ciencias sociales, pero también, de los diversos modos y estrategias que conviven en ella.Por otra parte, también formulamos una reflexión sobre las condiciones de producción del conocimiento científico, y en especial de selección de metodologías en contextos de limitación de recursos, como los que se producen habitualmente en países periféricos.Nuestro punto es que las demandas de recursos para el desarrollo de la investigación macro-social comparativa suelen ser especialmente elevadas, y por ello, las limitaciones del financiamiento pueden constituir un problema que no debe ser desconsiderado a la hora de plantear ese camino.Palabras clave: método comparado, ciencias sociales, financiamiento de la ciencia, periferias APPLES AND ORANGES: THE COMPARATIVE METHOD AND THE CHALLENGES OF RESEARCH FROM THE PERIPHERY AbstractThe use of the comparative method as a means of generating knowledge in the social sciences has grown significantly in recent decades. Works presenting comparative studies are proliferating across many of our disciplines. However, critical reflection on its use does not appear to be as well developed.In this article, we propose a review of the advantages and potential limitations of using comparison in the social sciences, as well as the various modes and strategies that coexist within it.Furthermore, we also reflect on the conditions for the production of scientific knowledge, and in particular, on the selection of methodologies in contexts of limited resources, such as those commonly found in peripheral countries.Our point is that the resource demands for conducting comparative macrosocial research are often particularly high, and therefore, funding constraints can pose a problem that should not be overlooked when considering this approach.Keywords: Comparative method, social sciences, science funding, Peripheries ARK CAICYT: https://id.caicyt.gov.ar/ark:/s16668979/0k378hyen",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY-NC 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc/4.0"
+     },
+     "url": "https://doi.org/10.62174/arg.2026.11214",
+     "doi": "10.62174/arg.2026.11214",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.62174/arg.2026.11219",
+     "titulo": "Percepciones sobre la tolerancia hacia la violencia sexual: un estudio comparativo entre España y Polonia",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Alba Cabrera Meneses",
+       "orcid": null
+      },
+      {
+       "nombre": "Esther Torrado Martín-Palomino",
+       "orcid": null
+      },
+      {
+       "nombre": "Justyna Tomczyk",
+       "orcid": null
+      },
+      {
+       "nombre": "Agnieszka Majewska",
+       "orcid": null
+      },
+      {
+       "nombre": "Josué Gutiérrez Barroso",
+       "orcid": null
+      }
+     ],
+     "resumen": "España y Polonia son dos países de la Unión Europea, donde la violencia sexual sigue presente. El objetivo es comparar las percepciones de la ciudadanía polaca y española, en relación con la tolerancia hacia la violencia sexual, así como analizar la influencia de distintas variables sociodemográficas en dichas actitudes. Se ha recurrido a la Encuesta Gender Stereotypes Violence Against Women, Flash Eurobarometer 544, (2025) que recoge una muestra de 1622 personas mayores de 18 años, 897 de España y 725 de Polonia. Se aplicó la técnica CHAID, permitiendo conocer la relevancia de cada variable independiente (sexo, edad, país y nivel de estudios) en relación con la dependiente, Índice de Tolerancia hacia la Violencia Sexual. Los resultados muestran que el país es la variable más influyente en la tolerancia hacia la violencia sexual, siendo menor en España que en Polonia. En ambos países, los hombres presentan mayor tolerancia que las mujeres, especialmente en Polonia, porque presenta un contexto menos igualitario que lleva a que las percepciones sobre la violencia sexual entre sexos se acentúen. A mayor nivel educativo, mayor concienciación en ambos países, aunque este efecto es más relevante en España, pudiéndose explicar por el mayor peso de la deconstrucción de roles, estereotipos y mitos de la violación. La edad no resulta significativa en ninguno de los países. Con todo ello, se concluye que las estrategias contra la violencia sexual, deben abordar sus causas estructurales a través de medidas tanto punitivas como de concientización adaptadas a cada país, de modo que puedan influir de manera efectiva en las percepciones y actitudes de la ciudadanía hacia la tolerancia cero frente a la violencia sexual.Palabras claves: violencia sexual, tolerancia social, percepción social, España, Polonia Perceptions of Tolerance Toward Sexual Violence: A Comparative Study Between Spain and PolandAbstractSpain and Poland are two countries in the European Union where sexual violence remains present. The objective is to compare the perceptions of Polish and Spanish citizens regarding tolerance toward sexual violence, as well as to analyze the influence of different sociodemographic variables on these attitudes. The Gender Stereotypes Violence Against Women Survey, Flash Eurobarometer 544, (2025) was used, which includes a sample of 1622 individuals over 18 years of age: 897 from Spain and 725 from Poland. The CHAID technique was applied, allowing for the assessment of the relevance of each independent variable (sex, age, country and level of education) in relation to the dependent variable, the Sexual Violence Tolerance Index.The results show that country is the most influential variable in tolerance toward sexual violence, being lower in Spain than in Poland. In both countries, men exhibit higher levels of tolerance than women, especially in Poland, as it presents a less egalitarian context that leads to a widening gap in perceptions of sexual violence between sex. Higher levels of education are associated with greater awareness in both countries, although this effect is more significant in Spain, which may be explained by the greater emphasis on the deconstruction of gender roles, stereotypes and rape myths.Age is not a significant factor in either country. Based on these findings, it is concluded that strategies against sexual violence should address its structural causes through both punitive and awareness-raising measures adapted to each country, so that they can effectively influence citizens´perceptions and attitudes toward zero tolerance for sexual violence.Key words: sexual violence, social tolerance, social perception, Spain, Poland ARK CAICYT: https://id.caicyt.gov.ar/ark:/s16668979/p1vhls6mf",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY-NC 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc/4.0"
+     },
+     "url": "https://doi.org/10.62174/arg.2026.11219",
+     "doi": "10.62174/arg.2026.11219",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.62174/arg.2026.11225",
+     "titulo": "Políticas públicas en discapacidad en Argentina e Inglaterra: derechos en retroceso",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "María Pía Venturiello",
+       "orcid": null
+      },
+      {
+       "nombre": "Angharad Beckett",
+       "orcid": null
+      },
+      {
+       "nombre": "Pilar Cobeñas",
+       "orcid": null
+      },
+      {
+       "nombre": "Cecilia Palermo",
+       "orcid": null
+      },
+      {
+       "nombre": "Victoria Tiseyra",
+       "orcid": null
+      }
+     ],
+     "resumen": "Las respuestas sociales y políticas dirigidas a las personas con discapacidad han desarrollado paulatinamente un enfoque de derechos que convive con un enfoque asistencialista. En la actualidad, enfrentan desafíos vinculadas a las políticas de ajustes en diversas administraciones como la inglesa y argentina. En este trabajo interesa analizar de manera comparativa las políticas para personas con discapacidad y el reconocimiento de sus derechos en Argentina e Inglaterra en el periodo 2022-2025 y sus actuales gestiones nacionales a partir de fuentes secundarias con un abordaje cualitativo. Entre los hallazgos se observa un proceso de combinación entre las descomposiciones de los arreglos de bienestar de cada país, con los avances y retrocesos en materia de acceso a derechos y desigualdades de la población con discapacidad, donde prima la dificultad de implementación cabal de la Convención Internacional sobre los Derechos de las Personas con Discapacidad, con medidas de ajustes en pensiones y prestaciones y un persistente sistema fragmentado en las políticas en discapacidad.Palabras claves: discapacidad, políticas públicas, políticas de ajuste, derechos Public policies on disability in Argentina and England: rights in retreat SummarySocial and political responses aimed at people with disabilities have gradually developed a rights-based approach that coexists with assistance approach. Currently, they face challenges linked to adjustment policies in various administrations, such as those of the UK and Argentina. This paper aims to comparatively analyze policies for people with disabilities and the recognition of their rights in Argentina and England during the period 2022-2025, and their current national policies, using secondary sources and a qualitative approach. Among the findings, we observe a process of combining the fragmentation of each country's welfare systems with advances and setbacks in access to rights and inequalities for the population with disabilities. There are difficulties of fully implementing the Convention on the Rights of Persons with Disabilities, with adjustment measures affecting pensions and benefits and a persistently fragmented system of disability policies.Keywords: disability, public policies, adjustment policies, rights ARK CAICYT: https://id.caicyt.gov.ar/ark:/s16668979/kr3jcif1j",
+     "idioma_resumen": null,
+     "licencia": {
+      "nombre": "CC BY-NC 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc/4.0"
+     },
+     "url": "https://doi.org/10.62174/arg.2026.11225",
+     "doi": "10.62174/arg.2026.11225",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.62174/arg.2026.11234",
+     "titulo": "Tipos de trayectorias laborales del trabajo autónomo en Chile y España: itinerarios biográficos",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Claudia Andrea Baeza Cabello",
+       "orcid": null
+      }
+     ],
+     "resumen": "La investigación tuvo el objetivo de establecer similitudes y diferencias en los patrones de configuración de los diversos perfiles del trabajo autónomo en Chile y España. Fue diseñada bajo un modelo multimétodo secuencial comparado. Primero aplicamos una tipología estructural y articulada, consistente en un análisis factorial de correspondencias múltiples y un análisis tipológico. Analizamos datos secundarios obtenidos de la Encuesta Nacional de Empleo de Chile (2019 al 2022) y la Encuesta de Población Activa (2019 al 2022) en España, ambas en su versión anual publicada.Obtuvimos unos estratos que denominamos estrato ocupacional autónomo: alto, medio y bajo. Luego, la siguiente fase cualitativa fue diseñada con estos perfiles mediante un parangón tipológico que fue el encadenamiento a la primera fase. Durante la fase cualitativa trabajamos con los datos recogidos mediante 63 entrevistas biográficas. El análisis cualitativo reveló cuatro tipos de trayectorias laborales: trayectoria lineal, trayectoria pluriempleo, trayectoria discontinua y trayectoria informal. Estas se replican en ambos países, pero con diferentes intensidades y matices, que responden a las estructuras económicas, modelos sociales y del mercado laboral de cada país.Palabras clave: trabajo autónomo, estratos ocupacionales, trayectorias laborales Types of labour trajectories for self employment in Chile and Spain: Biographical paths AbstractThe research aimed to establish similarities and differences in the configuration patterns of the various profiles of self-employment in Chile and Spain. It was designed using a sequential comparative multi-method model. First, we applied a structural and articulated typology, consisting of a multiple correspondence factor analysis and a typological analysis. We analysed secondary data obtained from the Chilean National Employment Survey (2019 to 2022) and the Spanish Labour Force Survey (2019 to 2022), both in their published annual versions.We obtained strata that we called: high autonomous occupational stratum, medium autonomous occupational stratum, and low autonomous occupational stratum. Then, the next qualitative phase was designed with these profiles using a typological comparison that was linked to the first phase. During the qualitative phase, we worked with the data collected through 63 biographical interviews, seeking to reproduce the life stories of people working under the self-employed regime in Chile and Spain. The qualitative analysis revealed four types of career paths: linear, multiple employment, discontinuous, and informal. These are replicated in both countries, but with different intensities and nuances, which respond to the economic structures, social models, and labour market models of each country.Key words: self-employment, labour strata, career paths ARK CAICYT: https://id.caicyt.gov.ar/ark:/s16668979/5s60qoz0u",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY-NC 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc/4.0"
+     },
+     "url": "https://doi.org/10.62174/arg.2026.11234",
+     "doi": "10.62174/arg.2026.11234",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.62174/arg.2026.11230",
+     "titulo": "Tolerancia adaptativa del soborno en el sistema-mundo",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Manuel García Bernárdez",
+       "orcid": null
+      },
+      {
+       "nombre": "Ildefonso Marqués Perales",
+       "orcid": null
+      }
+     ],
+     "resumen": "En este artículo se aborda un análisis comparado de los factores micro y macrosociales que influyen en la tolerancia hacia el soborno en 64 países, utilizando datos de la World Values Survey (2017–2022). A partir de un enfoque teórico que integra mecanismos individuales, evaluaciones de legitimidad institucional y la posición estructural de los países en el sistema-mundo, se estima un modelo multinivel que permite distinguir entre efectos individuales y contextuales. Para ello, se adopta una estrategia metodológica basada en modelos de regresión multinivel, que permite tener en cuenta la estructura jerárquica de los datos —individuos anidados en países—, descomponer la varianza entre niveles, y estimar de forma simultánea el efecto de las características individuales y de las condiciones estructurales asociadas a la posición de los países en el sistema-mundo. Los resultados muestran, que la tolerancia al soborno se incrementa significativamente en países semiperiféricos y periféricos, incluso controlando por predictores individuales, lo que respalda la hipótesis de que la baja institucionalidad y la desigualdad estructural y dependencia económica generan normas adaptativas, familismo amoral y mayor permisividad. Asimismo, ser mujer, mayor de edad y mayor nivel educativo, reducen dicha puntuación. El estudio contribuye a una teoría de rango medio, proponiendo el concepto de “tolerancia adaptativa”, para integrar estructuras globales y dinámicas individuales en la explicación de la tolerancia delictiva.Palabras clave: dependencia, sistema-mundo, institucionalidad, legitimidad, tolerancia adaptativa, privación relativa Adaptive Tolerance towards Bribery in the World-System AbstractIn this article, a comparative analysis of tolerance toward bribery is undertaken using a multilevel approach that integrates individual and contextual factors across 64 countries from the World Values Survey (2017–2022). The theoretical framework combines evaluations of institutional legitimacy—both diffuse and specific—with countries’ structural positions within the core–semiperiphery–periphery hierarchy of the world-system. To this end, a multilevel methodological strategy is employed, accounting for the hierarchical structure of the data—individuals nested within countries—allowing for the decomposition of variance across levels and the simultaneous estimation of the effects of individual characteristics and structural conditions. The results show that tolerance toward bribery is primarily driven by individual-level factors; however, it also exhibits a significant contextual component, as residing in semiperipheral or peripheral countries systematically increases its justification, even after controlling for sociodemographic and attitudinal variables. These findings suggest that structural conditions such as economic dependency, institutional weakness, and inequality shape normative frameworks that facilitate the adaptive justification of illicit behavior. The article contributes to the literature by proposing the concept of “adaptive tolerance” as a middle-range theoretical mechanism linking structural constraints and individual dispositions in explaining tolerance toward bribery.Keywords: dependency, world-system, institutional quality, legitimacy, adaptive tolerance, relative deprivation ARK CAICYT: https://id.caicyt.gov.ar/ark:/s16668979/cp1z2l979",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY-NC 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc/4.0"
+     },
+     "url": "https://doi.org/10.62174/arg.2026.11230",
+     "doi": "10.62174/arg.2026.11230",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.62174/arg.2026.11224",
+     "titulo": "¿El fin de la Era de la Dualización? Un análisis comparado de cincuenta años de reformas laborales en España e Italia",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Manuel Alvariño Vázquez",
+       "orcid": null
+      },
+      {
+       "nombre": "Alessandro Arrigoni",
+       "orcid": null
+      },
+      {
+       "nombre": "Llorenç Soler-Buades",
+       "orcid": null
+      },
+      {
+       "nombre": "Emanuele Ferragina",
+       "orcid": null
+      }
+     ],
+     "resumen": "El artículo analiza las reformas laborales en el largo plazo utilizando una metodología en dos pasos. Primero, desarrolla una taxonomía de ocho categorías para clasificar las reformas laborales — incluyendo protección colectiva, del empleo y del desempleo — según cómo afectan los niveles de (des)mercantilización de insiders y outsiders. Esto ofrece una metodología replicable para analizar el cambio en las políticas. Segundo, mediante un análisis histórico comparado de 61 reformas a lo largo de cincuenta años (1970-2020), examina las trayectorias de reforma en España e Italia, dos ejemplos destacados de dualización del mercado laboral. Más allá de las diferencias en los tiempos y características legislativas, el artículo revela un proceso de “liberalización a través de la dualización”. Este se caracteriza por dos fases: (1) una transición desde el fordismo en declive hacia la dualización, que debilitó principalmente la protección de los outsiders, y (2) una convergencia a la baja de la protección de los insiders. Este patrón cuestiona la idea de que la Era de la Dualización es un equilibrio persistente en casos fuertemente dualizados, lo que exige una reevaluación de su naturaleza y alcance temporal.Palabras clave: Europa del Sur, regulación del mercado de trabajo, dualización, liberalización, reformas políticas, metodología cualitativa The end of the Age of Dualization? A comparative analysis of fifty years of labour market reforms in Spain and ItalyThis article analyses labour market reforms over the long term using a two-step methodology. First, it develops a taxonomy of eight categories to classify labour market reforms — including collective, employment, and unemployment protection — according to how they affect the levels of decommodification and commodification of insiders and outsiders. This provides a replicable methodology for analysing policy change. Second, through a comparative historical analysis of 61 reforms over fifty years from 1970 to 2020, it examines reform trajectories in Spain and Italy, two prominent examples of labour market dualization. Beyond differences in legislative timing and characteristics, the article reveals a process of “liberalization through dualization.” This process is characterized by two phases: (1) a transition from declining Fordism to dualization, which primarily weakened the protection of outsiders, and (2) a downward convergence in the protection of insiders. This pattern challenges the idea that the Age of Dualization is a persistent equilibrium in strongly dualized cases, calling for a reassessment of its nature and temporal scope.Keywords: Southern Europe, labour market regulation, dualization, liberalization, policy reforms, qualitative methodology ARK CAICYT: https://id.caicyt.gov.ar/ark:/s16668979/5at66dbnr",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY-NC 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc/4.0"
+     },
+     "url": "https://doi.org/10.62174/arg.2026.11224",
+     "doi": "10.62174/arg.2026.11224",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.62174/arg.2026.11211",
+     "titulo": "Ética y desarrollo capitalista: una perspectiva histórico-crítica de sus fundamentos y contradicciones",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Ricardo Parra García",
+       "orcid": null
+      },
+      {
+       "nombre": "Omar Wicab Gutiérrez",
+       "orcid": null
+      }
+     ],
+     "resumen": "Este ensayo analiza algunos de los fundamentos éticos del desarrollo capitalista mediante una perspectiva histórico-crítica, trazando su evolución desde la caridad feudal medieval hasta las contradicciones del crecimiento ilimitado actual. Explora cómo discursos morales han justificado desigualdades y moldeado políticas globales, revelando tensiones entre progreso material y justicia social. Se destacan momentos clave: la ruptura ética del siglo XIX entre utopías burguesas y realidades proletarias, la institucionalización del desarrollo post-1945 como imperativo moral y la crisis climática como reto ético contemporáneo. Propone alternativas como el ecosocialismo y el Buen Vivir, que privilegian la reciprocidad y la justicia intergeneracional frente al extractivismo. Su aporte original consiste en articular ética, poder y sostenibilidad, desde un marco histórico-crítico enriquecido por una concepción del humanismo inspirada en la Filosofía de la Liberación, ofreciendo una perspectiva que contribuye a los estudios sobre desarrollo y economía política en las ciencias sociales y las humanidades.Palabras clave: Desarrollo, Ética, Justica Social, Sostenibilidad, Humanismo crítico. Ethics and capitalist development: a historical-critical perspective on its foundations and contradictionsAbstractThis essay analyzes some of the ethical foundations of capitalist development from a historical-critical perspective, tracing its evolution from medieval feudal charity to the contradictions of today's unlimited growth. It explores how moral discourses have justified inequalities and shaped global policies, revealing tensions between material progress and social justice. Key moments are highlighted: the 19th-century ethical rupture between bourgeois utopias and proletarian realities, the institutionalization of post-1945 development as a moral imperative, and the climate crisis as a contemporary ethical challenge. It proposes alternatives such as ecosocialism and Buen Vivir, which privilege reciprocity and intergenerational justice over extractivism. Its original contribution consists of articulating ethics, power, and sustainability from a historical-critical framework, enriched by a conception of humanism inspired by the Philosophy of Liberation, offering a perspective that contributes to studies on development and political economy in the social sciences and humanities.Key words: Development, Ethics, Social Justice, Sustainability, Critical humanism. ARK CAICYT: https://id.caicyt.gov.ar/ark:/s16668979/8whirtejq",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY-NC 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc/4.0"
+     },
+     "url": "https://doi.org/10.62174/arg.2026.11211",
+     "doi": "10.62174/arg.2026.11211",
+     "paginas": null,
+     "fuente": "Crossref"
+    }
+   ]
+  },
+  {
+   "id": "n32-2025",
+   "volumen": null,
+   "numero": "32",
+   "anio": 2025,
+   "fecha": "2025-10-28",
+   "etiqueta": "núm. 32 (2025)",
+   "fuente": "Crossref",
+   "articulos": [
+    {
+     "id": "10.62174/arg.2025.10819",
+     "titulo": "Barreras y facilitadores en los procesos educativos de estudiantes con discapacidad en las plataformas durante la pandemia de COVID-19",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Mauro Alejandro Soto",
+       "orcid": null
+      }
+     ],
+     "resumen": "El objetivo de este artículo es analizar, desde los Estudios de la Discapacidad y el modelo social, las barreras y facilitadores que se le presentaron a los estudiantes con discapacidad del nivel secundario que utilizaron plataformas digitales durante la pandemia de COVID-19, año 2020, en la ciudad de Salta Capital, Argentina. El estudio emplea una metodología cualitativa, los datos se construyeron desde entrevistas semiestructuradas a dichos estudiantes, sus familiares y docentes de apoyo y se procesaron desde la teoría fundamentada. Como resultados, se advierte que las plataformas fueron empleadas por las instituciones educativas para la continuidad pedagógica. WhatsApp facilitó la comunicación y entrega de tareas, aunque el envío de documentos inaccesibles para estudiantes con discapacidad y los conflictos grupales, generaron barreras. Facebook, con sus actualizaciones, también presentó problemas de accesibilidad. Instagram permitió actividades acotadas y el consumo de contenidos desde intereses personales. YouTube fue empleado por estudiantes sordos, ofreciendo contenido en Lengua de Señas Argentina, y los youtubers con discapacidad fueron inspiración para algunos estudiantes. No obstante, el uso de estas plataformas expuso a los estudiantes a la explotación de datos por parte de corporaciones, priorizando la urgencia educativa sobre la privacidad y la accesibilidad. Palabras claves: discapacidad, barreras, facilitadores, educación, pandemia BARRIERS AND FACILITATORS IN THE EDUCATIONAL PROCESSES OF STUDENTS WITH DISABILITIES ON PLATFORMS DURING THE COVID-19 PANDEMIC Abstract The objective of this article is to analyze, from Disability Studies and the social model, the barriers and facilitators that were presented to students with disabilities at the secondary level who used digital platforms during the COVID-19 pandemic, year 2020, in the city of Salta Capital, Argentina. The study employs a qualitative methodology, the data were constructed from semi-structured interviews with these students, their families and support teachers and were processed from grounded theory. As results, it is noted that the platforms were used by educational institutions for pedagogical continuity. WhatsApp facilitated communication and delivery of homework, although the sending of inaccessible documents for students with disabilities and group conflicts generated barriers. Facebook, with its updates, also presented accessibility problems. Instagram allowed limited activities and the consumption of content based on personal interests. YouTube was used by deaf students, offering content in Argentine Sign Language, and youtubers with disabilities were an inspiration for some students. However, the use of these platforms exposed students to data exploitation by corporations, prioritizing educational urgency over privacy and accessibility. Keywords: disability, barriers, facilitators, education, pandemic ARK CAICYT: https://id.caicyt.gov.ar/ark:/s16668979/ovm3dytl7",
+     "idioma_resumen": null,
+     "licencia": {
+      "nombre": "CC BY-NC 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc/4.0"
+     },
+     "url": "https://doi.org/10.62174/arg.2025.10819",
+     "doi": "10.62174/arg.2025.10819",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.62174/arg.2025.10827",
+     "titulo": "Cacerolazos en la World Wide Web. Exploraciones de repertorios de protesta durante la web temprana en Argentina (2001-2002)",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Emiliano Andrés Calomarde",
+       "orcid": null
+      },
+      {
+       "nombre": "Wanda Ianina Juares",
+       "orcid": null
+      }
+     ],
+     "resumen": "Este artículo analiza el surgimiento de sitios web vinculados a los cacerolazos en Argentina durante la crisis de 2001-2002, explorando cómo el “nuevo medio” fue imaginado y usado en un contexto de colapso político, social y económico. A partir de un corpus de archivos web preservados en Internet Archive, entrevistas y fuentes periodísticas, se examinan los imaginarios sobre lo político y lo tecnológico que circularon en dichas páginas, así como los repertorios de acción política mediados por elementos de la web. El estudio indaga en el diseño de las interfaces, las formas de participación ciudadana y la configuración de una “esfera web” de protesta previo a la popularización de las redes sociales. La investigación es un aporte a la historia de la web temprana en Argentina, mediante el abordaje de “archivos renacidos digitales” como fuentes históricas, y también de la historia de los activismos digitales. Palabras claves: archivos renacidos digitales; páginas web; repertorios protesta digital, cacerolazos CACEROLAZOS ON THE WORLD WIDE WEB. EXPLORATIONS OF PROTEST REPERTOIRES DURING THE EARLY WEB IN ARGENTINA (2001–2002) This article analyzes the emergence of websites associated with the cacerolazos (pot-banging protests) in Argentina during the 2001-2002 crisis, exploring how the “new medium” was imagined and used amid political, social, and economic collapse. Drawing on a corpus of web archives preserved in the Internet Archive, interviews, and journalistic sources, the study examines the political and technological imaginaries present on these pages, as well as the repertoires of political action mediated by web elements. It investigates interface design, forms of citizen participation, and the configuration of a “web sphere” of protest before the popularization of social networks. This research contributes to the history of the early web in Argentina by treating “digitally reborn archives” as historical sources, and to the history of digital activism. Key words: reborn-digital material; websites; digital protest repertoires; cacerolazos ARK CAICYT: https://id.caicyt.gov.ar/ark:/s16668979/zu1m6lrfi",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY-NC 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc/4.0"
+     },
+     "url": "https://doi.org/10.62174/arg.2025.10827",
+     "doi": "10.62174/arg.2025.10827",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.62174/arg.2025.10818",
+     "titulo": "ChatGPT y educación. Adopción y usos por parte de estudiantes en la Argentina",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Mariano Zukerfeld",
+       "orcid": null
+      },
+      {
+       "nombre": "Rocío Wegman",
+       "orcid": null
+      }
+     ],
+     "resumen": "Este artículo analiza las representaciones de estudiantes de grado y posgrado en Argentina sobre los usos educativos de ChatGPT, a partir de los resultados de una encuesta nacional. La investigación parte de inscribir los rasgos de la inteligencia artificial generativa en la fase de las plataformas del capitalismo digital. Los resultados muestran que los usos generales y educativos de ChatGPT se encuentran ampliamente extendidos, especialmente entre quienes trabajan o estudian. Las mujeres lo utilizan menos en términos generales, pero en los usos educativos no hay grandes diferencias de género. Los usos educativos más frecuentes se vinculan con complementar las explicaciones recibidas, con las tareas de redacción y con la preparación de exámenes. Los estudiantes encuentran importantes ganancias de productividad horaria utilizando la herramienta y presentan altos niveles de conformidad con los resultados, aunque tal conformidad es mayor respecto de la utilidad y la relevancia que en cuanto a la precisión y la veracidad. A la vez, un alto porcentaje declara chequear la información recibida, especialmente quienes están menos conformes con la herramienta y obtienen menores ganancias de productividad. Palabras claves: chat GPT, inteligencia artificial, educación, capitalismo digital CHATGPT AND EDUCATION. ADOPTION AND USES BY HIGHER EDUCATION STUDENTS IN ARGENTINA Abstract This article examines the perceptions of undergraduate and graduate students in Argentina regarding the educational uses of ChatGPT, based on the results of a national survey. The study situates the features of generative artificial intelligence within the platform phase of digital capitalism. The findings indicate that both general and educational uses of ChatGPT are widely perceived, particularly among individuals who work or study. Although women report lower overall use of the tool, gender differences are minimal in educational contexts. The most common educational uses include supplementing explanations received, completing writing assignments, and preparing for exams. Students report significant gains in time efficiency when using the tool and express high levels of satisfaction with the outcomes, with satisfaction being greater in terms of usefulness and relevance than in terms of accuracy and truthfulness. Furthermore, a high percentage of respondents report verifying the information provided, especially among those who are less satisfied with the tool and report lower productivity gains. Key words: chat GPT, artificial intelligence, education, digital capitalism ARK CAICYT: https://id.caicyt.gov.ar/ark:/s16668979/hzkbs1ay6",
+     "idioma_resumen": null,
+     "licencia": {
+      "nombre": "CC BY-NC 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc/4.0"
+     },
+     "url": "https://doi.org/10.62174/arg.2025.10818",
+     "doi": "10.62174/arg.2025.10818",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.62174/arg.2025.10830",
+     "titulo": "Ciudad Inteligente y Estado eficiente: sueños y desvelos del caso cordobés",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Bruno Vagliente",
+       "orcid": null
+      },
+      {
+       "nombre": "Mariana Carla Gutiérrez",
+       "orcid": null
+      }
+     ],
+     "resumen": "Desde el año 2019 y con el cambio de gestión municipal, la ciudad de Córdoba se caracterizó por la implementación de una serie de políticas que buscaron posicionarla discursiva e institucionalmente como una Ciudad Inteligente. Este artículo tiene el objetivo de realizar una caracterización crítica del modelo de Ciudad Inteligente implementado en Córdoba durante el período 2019-2024, mediante la revisión bibliográfica y el análisis documental de diversas fuentes. Además, propone un enfoque historiográfico en el cual se sigue en paralelo la evolución de los proyectos de gestión tecnológica del territorio desde la década de 1960 en adelante y las distintas corrientes de administración pública que, desde la misma década, buscaron transformar el Estado desde perspectivas neo-gerenciales. Este estudio revela una sincronicidad entre esos procesos y la serie de reformas constitucionales que tuvieron lugar en Córdoba desde la década de 1990 y que crearon las condiciones para las actuales políticas de Ciudad Inteligente, las cuales contribuyen a la construcción de legitimidad política local e internacional y propician el acceso al capital financiero, a la vez que habilitan un esquema de gobernanza que incorpora nuevos actores vinculados a las economías digitales. Palabras claves: ciudad inteligente, reformas de la administración pública, innovación pública, tecnologías digitales, GovTech SMART CITY AND EFFICIENT STATE: DREAMS AND CONCERNS OF THE CASE OF CÓRDOBA Abstract Since 2019 and with the shift in municipal government, the city of Córdoba has been characterized by the implementation of a series of policies that sought to position it discursively and institutionally as a Smart City. This article aims to provide a critical characterization of the Smart City model implemented in Córdoba during the period 2019-2024, using literature review and documentary analysis. In addition, it proposes a historiographical approach that follows the evolution of technological management projects in the territory from the 1960s onwards, and the different trends in public administration that, since the same decade, have aimed to transform the state from neo-managerial perspectives. This study reveals a synchronicity between these processes and the series of constitutional reforms that took place in Córdoba since the 1990s, which created the conditions for the current Smart City policies. These policies contribute to the construction of local and international political legitimacy and promote access to financial capital, while enabling a governance scheme that incorporates new actors linked to digital economies. Key words: smart city, public administration reforms, public innovation, digital technologies, GovTech ARK CAICTY: https://id.caicyt.gov.ar/ark:/s16668979/9fpgprrgk",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY-NC 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc/4.0"
+     },
+     "url": "https://doi.org/10.62174/arg.2025.10830",
+     "doi": "10.62174/arg.2025.10830",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.62174/arg.2025.10834",
+     "titulo": "Contingencia y determinación en la sociología histórica de Michael Mann. Los casos de la Primera Guerra Mundial y el ascenso del Fascismo",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Jorge Orovitz Sanmartino",
+       "orcid": null
+      }
+     ],
+     "resumen": "El artículo explora la teoría del sociólogo anglo-norteamericano Michael Mann tomando como punto de referencia eventos como la Primera Guerra Mundial y el ascenso del fascismo. Mann rechaza el determinismo económico, así como cualquier fundamento último en la explicación social, y plantea, mediante su ‘teoría del embrollo’, que estos eventos fueron producto de una interacción compleja entre redes de poder. Su enfoque multicausal permite una comprensión más matizada de cómo operan las estructuras de poder en situaciones de crisis, como las que se dieron durante la Primera Guerra Mundial y el ascenso del fascismo. Al incluir redes militares e ideológicas junto a las económicas y políticas (modelo IEMP), Mann permite analizar fenómenos históricos de forma integral, proporcionando herramientas para captar la complejidad de las interacciones de poder más allá de los enfoques economicistas o estructuralistas. Sin embargo, el artículo también examina las ambivalencias en el pensamiento de Mann. Al rechazar explicaciones sistemáticas y teorías macro, su obra vacila hacia el lado empírico, debilitando la exigencia de identificar ciertos patrones de dominancia, aunque estos patrones puedan ser provisorios y nunca completamente cerrados. Palabras clave: Michael Mann, teoría social, poder, contingencia, fascismo CONTINGENCY AND DETERMINATION IN MICHAEL MANN'S HISTORICAL SOCIOLOGY: THE CASES OF WORLD WAR I AND THE RISE OF FASCISM Abstract The article explores the theory of Anglo-American sociologist Michael Mann, using as a reference the cataclysmic events of the 20th century, particularly the First World War and the rise of fascism. Mann rejects economic determinism and any ultimate foundation in social explanation, proposing instead, through his “theory of the mess,” that these events were the result of a complex interaction between power networks. Mann makes a valuable contribution by broadening the field of sociology and rejecting unidimensional explanations that underestimate the diversity of factors at play. His multi-causal approach allows for a more nuanced understanding of how power structures operate in times of crisis, such as those seen during the First World War and the rise of fascism. By including military and ideological networks alongside economic and political ones (the IEMP model), Mann enables a comprehensive analysis of historical phenomena, providing tools to capture the complexity of power interactions beyond economistic or structuralist approaches. However, the article also examines the ambivalences in Mann’s thought. By rejecting systematic explanations and macro theories, his work leans toward the empirical, weakening the demand to identify certain dominance patterns, even if these patterns may be provisional and never fully closed. Keywords: Michael Mann, social theory, power, contingency, fascism ARK CAICYT: https://id.caicyt.gov.ar/ark:/s16668979/r7zu2c7ia",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY-NC 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc/4.0"
+     },
+     "url": "https://doi.org/10.62174/arg.2025.10834",
+     "doi": "10.62174/arg.2025.10834",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.62174/arg.2025.10826",
+     "titulo": "Creación tecnológica situada y agencia feminista en plataformas digitales: el caso de She Taxi en Argentina",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Agustina Daniela Godoy",
+       "orcid": null
+      }
+     ],
+     "resumen": "Este artículo analiza la experiencia de She Taxi, una plataforma digital de transporte público gestionada por mujeres en ciudades argentinas, como un caso de innovación sociotécnica feminista. Desde un enfoque situado, tecnofeminista y sociotécnico, se examinan las formas en que las conductoras no solo se apropian de la tecnología, sino que también participan activamente en su diseño, gestión y resignificación, transformándola en una infraestructura digital y afectiva orientada a valores como el cuidado, la autonomía y la reciprocidad. Lejos de ser usuarias pasivas, las conductoras despliegan prácticas de creación tecnológica situada que desafían las lógicas hegemónicas de las plataformas digitales bajo demanda. Desde trayectorias marcadas por exclusión estructural y precarización, configuran una experiencia colectiva que entrelaza lo técnico, lo organizativo y lo simbólico en clave feminista. El estudio adopta una metodología cualitativa que combina entrevistas en profundidad, observación digital no participante y análisis documental, con el objetivo de reconstruir prácticas, sentidos y tensiones que configuran esta experiencia desde abajo. She Taxi ofrece evidencia conceptual y empírica para repensar el rol de las tecnologías digitales en la transformación de la movilidad urbana, la organización del trabajo y la construcción de comunidad desde una lógica feminista, situada y relacional. Palabras clave: Plataformas digitales, innovación sociotécnica feminista, creación tecnológica situada, cuidado colectivo SITUATED TECHNOLOGICAL CREATION AND FEMINIST AGENCY IN DIGITAL PLATFORMS: THE CASE OF SHE TAXI IN ARGENTINA Abstract This article analyzes the experience of She Taxi, a digital public transportation platform managed by women in Argentine cities, as a case of feminist sociotechnical innovation. From a situated, technofeminist, and sociotechnical perspective, it examines how female drivers not only appropriate technology but also actively participate in its design, management, and reinterpretation, transforming it into a digital and affective infrastructure oriented toward values such as care, autonomy, and reciprocity. Far from being passive users, these drivers engage in practices of situated technological creation that challenge the dominant logic of on-demand digital platforms. Emerging from trajectories shaped by structural exclusion and labor precarization, they collectively build an experience that intertwines the technical, organizational, and symbolic dimensions through a feminist lens. The study adopts a qualitative methodology combining in-depth interviews, non-participant digital observation, and document analysis, aiming to reconstruct the practices, meanings, and tensions that shape this grassroots experience. She Taxi provides both conceptual and empirical insights to rethink the role of digital technologies in transforming urban mobility, labor organization, and the construction of community from a feminist, situated, and relational perspective. Keywords: Digital platforms, feminist sociotechnical innovation, situated technological creation, collective care ARK CAICYT: https://id.caicyt.gov.ar/ark:/s16668979/oo35torrw",
+     "idioma_resumen": null,
+     "licencia": {
+      "nombre": "CC BY-NC 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc/4.0"
+     },
+     "url": "https://doi.org/10.62174/arg.2025.10826",
+     "doi": "10.62174/arg.2025.10826",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.62174/arg.2025.10833",
+     "titulo": "Del test tripartito a los términos y condiciones: tensiones entre Brasil y X (2020-2024) en torno a la regulación y moderación del debate público",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Juan Schtivelband Guindi",
+       "orcid": null
+      }
+     ],
+     "resumen": "Esta investigación analiza las tensiones entre la moderación de contenido en X (antes Twitter) y la regulación estatal en Brasil (2020-2024), con foco en las acciones contra publicaciones de Jair Bolsonaro sobre COVID-19, el debate de la Ley Anti Fake News, el papel de las “milicias digitales” y las acciones legales que condujeron a la suspensión momentánea del servicio. El estudio adopta un enfoque cualitativo basado en el análisis de contenido de los términos y condiciones de la plataforma, complementado con el examen del caso brasileño desde una perspectiva interdisciplinaria que articula Comunicación, Derecho y Ciencias Sociales. Se plantea que X, mediante sus términos y condiciones, transgrede jurisdicciones estatales, asume funciones de regulación del debate público y actúa de manera arbitraria, incumpliendo estándares internacionales como el “Test Tripartito” del Sistema Interamericano de Derechos Humanos. A partir del análisis realizado, se propone la aplicación de este test como marco regulatorio para garantizar la libertad de expresión. Palabras claves: Moderación de contenidos, Regulación Estatal, Redes Sociales, Brasil FROM THE TRIPARTITE TEST TO THE TERMS AND CONDITIONS: TENSIONS BETWEEN BRAZIL AND X (2020–2024) REGARDING THE REGULATION AND MODERATION OF PUBLIC DEBATE Abstract This research analyzes the tensions between content moderation on X (formerly Twitter) and state regulation in Brazil (2020–2024), focusing on actions against Jair Bolsonaro’s COVID-19 posts, the debate surrounding the Anti-Fake News Law, the role of “digital militias,” and the legal measures that led to the temporary suspension of the service. The study adopts a qualitative approach based on content analysis of the platform’s terms and conditions, complemented by an examination of the Brazilian case from an interdisciplinary perspective that brings together Communication, Law, and the Social Sciences. It argues that X, through its terms and conditions, oversteps state jurisdictions, assumes regulatory functions over public debate, and acts arbitrarily, in violation of international standards such as the “Three-Part Test” of the Inter-American Human Rights System. Based on the analysis, the application of this test is proposed as a regulatory framework to safeguard freedom of expression. Keywords:Content Moderation, State Regulation, Social networks, Brazil ARK CAICYT: https://id.caicyt.gov.ar/ark:/s16668979/4p0i3dtk6",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY-NC 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc/4.0"
+     },
+     "url": "https://doi.org/10.62174/arg.2025.10833",
+     "doi": "10.62174/arg.2025.10833",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.62174/arg.2025.10835",
+     "titulo": "Democracia y Política en F. A. Hayek. Debates y disyuntivas",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Franco Donato Patuto",
+       "orcid": null
+      }
+     ],
+     "resumen": "En el siguiente trabajo nos proponemos interrogar en clave teórico-política las distintas consideraciones que Friedrich Hayek (1899-1992) desarrolló en derredor de la tradición democrática. Para ello rastrearemos las elucubraciones que el de Viena realizó a lo largo de su copiosa y prolongada trayectoria intelectual, aunque nos concentraremos en sus textos de madurez. Una vez expuestos los lineamientos generales de su decir ahondaremos en una serie de interpretaciones que la academia ha forjado al respecto, para luego esbozar una serie de consideraciones propias en torno de las disyuntivas en las cuales se inscribe la reflexión hayekiana. Nuestra tesis es que, tanto en las elucubraciones hayekianas propiamente dichas como en la de sus comentaristas críticos, puede rastrearse algo de la política en tanto que tal, y ello a pesar de que ninguno de los autores en cuestión haya declarado explícitamente haber emprendido una pesquisa semejante. Veremos además, que en las lecturas críticas del decir hayekiano en torno a la democracia, se deja de pensar una cuestión que juzgamos vital, a saber: la relación entre democracia y orden. Palabras claves: democracia, política, orden, soberanía. DEMOCRACY AND POLITICS IN F.A. HAYEK. DEBATES AND DILEMMAS Abstract In the following work we propose to interrogate in a theoretical-political key the different considerations that Friedrich Hayek (1899-1992) developed around the democratic tradition. To do this, we will trace the musings that the Vienna-born author made throughout his copious and prolonged intellectual career, although we will concentrate on his mature texts. Once the general guidelines of his words have been explained, we will delve into a series of interpretations that the academy has forged in this regard and then outline a series of our own considerations regarding the dilemmas in which Hayek's reflection is inscribed. Our thesis is that, both in Hayek's musings themselves and in the comments of his detractors, something of politics as such can be traced, although none of the authors in question seem to focus on that issue. We understand that this disregard is problematic as it prevents us from thinking about the relationship between democracy and order. Keywords: democracy, politics, order, sovereignty. ARK CAICYT: https://id.caicyt.gov.ar/ark:/s16668979/w4h36sq2q",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY-NC 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc/4.0"
+     },
+     "url": "https://doi.org/10.62174/arg.2025.10835",
+     "doi": "10.62174/arg.2025.10835",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.62174/arg.2025.10829",
+     "titulo": "Dilemas y trampas en la gobernanza urbana de plataformas: apuntes para salir del laberinto",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Patricio Julián Feldman",
+       "orcid": null
+      }
+     ],
+     "resumen": "La relación entre ciudades y plataformas cobra cada vez más preponderancia en los estudios urbanos del siglo XXI. Con el objetivo de profundizar en este campo, el artículo continúa el análisis iniciado en el marco del proyecto “PIP 2021-2023. Transformaciones socio-urbanas generadas por la Economía de Plataformas en Argentina”. A partir de la noción de plataformización urbana, el trabajo se propone caracterizar la forma urbana emergente de la segunda oleada de desarrollo informacional en pos de delimitar algunos dilemas y trampas centrales en la gobernanza de plataformas. Mediante un análisis documental y bibliográfico, complementado por hallazgos del proyecto mencionado, se exploran desafíos, objetivos y roles de intervención estatal en la economía de plataformas desde los gobiernos subnacionales. Hacía el final del artículo, se introducen algunos apuntes orientados a abrir el debate en torno a estrategias de gobernanza urbana en un escenario atravesado por la urbanización del capitalismo de plataformas. Como punto de partida, se propone desmontar algunas ilusiones que subyacen al urbanismo de plataformas. Resulta clave interrogar las narrativas tecnourbanas que legitiman el discurso dominante de la plataformización. Finalmente, se plantea situar en el centro del análisis el proceso de datificación y los regímenes de gubernamentalidad que configuran la infraestructura algorítmica sobre la que se organiza la ciudad plataformizada. Palabras claves: segunda oleada informacional, gobernanza urbana, urbanismo de plataformas, ciudades, tecnologías digitales DILEMMAS AND TRAPS IN URBAN PLATFORM GOVERNANCE: NOTES ON ESCAPING THE MAZE Abstract The article explores the relevance of the platformisation of social life in contemporary capitalism, which is permeated by finance and precariousness. Starting with an introduction to the concepts of datafication, algorithmisation and profiling, the paper takes a critical look at the platformisation of culture, production and work, as crucial areas of social life in which both objective and subjective transformations are taking place. In the cultural industry, social networks extend the influence of advertising language in culture and consolidate scrolling as the dominant mode of reception. In terms of production, platforms combine rent-seeking with the generation of relative surplus value from abstract labour as a fundamental mode of valorisation. Finally, it is pointed out that algorithmic management relatively depersonalises production relations, which, in their relationship with flexible working hours and piecework wages, shape work identities that value self-reliance in comparison with other types of work. Key words: platformisation, subjectivity, capital, depersonification, scrolling ARK CAICYT: https://id.caicyt.gov.ar/ark:/s16668979/6d54ir7e6",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY-NC 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc/4.0"
+     },
+     "url": "https://doi.org/10.62174/arg.2025.10829",
+     "doi": "10.62174/arg.2025.10829",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.62174/arg.2025.10824",
+     "titulo": "El yugo invisible de la gestión algorítmica. Un análisis comparado de la organización y condiciones de trabajo de trabajadores dependientes y unipersonales en Pedidos Ya, Uruguay",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Noelia López",
+       "orcid": null
+      }
+     ],
+     "resumen": "El artículo analiza el trabajo en las plataformas digitales de reparto a partir del estudio de caso de Pedidos Ya en Uruguay. En primer lugar, se aborda el contexto y las tendencias históricas que dieron lugar a la expansión de estas plataformas. En segundo lugar, se reconstruye la trayectoria de Pedidos Ya y sus cambios en torno al vínculo jurídico con las y los repartidores. El análisis se concentra en la forma en que se organiza y gestiona el trabajo en las plataformas de reparto, donde se combinan nuevas tecnologías -como la gestión algorítmica- con viejas tendencias como el pago a destajo. En este sentido, se sitúa a las empresas de plataformas en el marco de una tendencia de flexibilización laboral, que a la vez contribuyen a profundizar. En tercer lugar, se examinan los efectos diferenciales de la contratación de repartidores como trabajadores dependientes y como empresas unipersonales, en las condiciones de trabajo y de vida de quienes se emplean en el sector. Para ello se analizan testimonios de las y los trabajadores, recuperados en diversos proyectos de investigación, así como de informantes calificados de la empresa. Esto se complementa con un análisis documental y de sitios institucionales de las empresas. El propósito del artículo es comprender las determinantes de la precarización laboral en las plataformas digitales de reparto, y brindar elementos para la protección de este tipo de trabajo. Palabras claves: plataformas digitales, flexibilización laboral, precarización. The Invisible Yoke of Algorithmic Management: A Comparative Analysis of the Work Organization and Conditions of Employees and Self-Employed Workers in Pedidos Ya, Uruguay Abstract The article analyzes work on digital delivery platforms through the case study of Pedidos Ya in Uruguay. First, it addresses the context and historical trends that led to the expansion of these platforms. Second, it reconstructs the trajectory of Pedidos Ya and its changes regarding the legal relationship with delivery workers. The analysis focuses on how work is organized and managed on delivery platforms, combining new technologies -such as algorithmic management- with older practices, such as piece-rate payment. In this sense, platform companies are situated within a broader trend of labor flexibilization, which they also help to deepen. Third, the article examines the differential effects of employing delivery workers as dependent employees versus as sole proprietors on their working and living conditions. To this end, the study analyzes workers’ testimonies collected in various research projects, as well as information from company insiders. This is complemented by documentary analysis and the review of companies’ institutional websites. The purpose of the article is to understand the determinants of labor precarization on digital delivery platforms and to provide insights for the protection of this type of work. Keywords: digital platforms, labor flexibilization, precarization. ARK CAICYT: https://id.caicyt.gov.ar/ark:/s16668979/4wd4a5gak",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY-NC 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc/4.0"
+     },
+     "url": "https://doi.org/10.62174/arg.2025.10824",
+     "doi": "10.62174/arg.2025.10824",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.62174/arg.2025.10825",
+     "titulo": "Exploraciones preliminares sobre el trabajo sexual mediado por plataformas en la Argentina pospandemia",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Estefanía Martynowskyj",
+       "orcid": null
+      }
+     ],
+     "resumen": "En Argentina, la expansión acelerada de la economía de plataformas desde el 2020, junto con la retracción del comercio sexual callejero y puertas adentro –debido al despliegue de políticas antitrata y coyunturalmente a las medidas de aislamiento social, y a los temores sanitarios que despertó la pandemia de COVID-19–, habilitaron nuevas formas de comercio sexual. Un número creciente de mujeres se volcó a producir y comercializar contenido y servicios erótico-sexuales a través de plataformas digitales, donde los contactos con los clientes se encuentran mediatizados por dispositivos tecnológicos. Esta novedad inició un proceso, aún incipiente, de reconfiguración del trabajo sexual, históricamente estigmatizado, en muchos países no reconocido como un trabajo, y gobernado a través de la criminalización de quienes lo ejercen o participan de su reproducción. En este trabajo, de carácter preliminar, exploro algunas de las transformaciones vinculadas a la dinámica de plataformización, poniendo el foco en la reconfiguración de las experiencias de trabajo sexual. Indago sobre la irrupción y el alcance del ideario del emprendedurismo entre las trabajadoras sexuales; la transformación de las condiciones de trabajo –que parecieran oscilar entre la flexibilización y la autonomía, la precarización y la intensificación–; y la digitalización de la sociabilidad entre las mujeres. Para ello realicé entrevistas en profundidad a mujeres que producen y venden contenido y servicios erótico-sexuales, y observaciones no participantes en algunos de los entornos digitales donde desarrollan parte de su actividad y sociabilidad. Palabras claves: trabajo sexual, plataformas, emprendedurismo, condiciones de trabajo, sociabilidad PRELIMINARY EXPLORATIONS OF PLATFORM-MEDIATED SEX WORK IN POST-PANDEMIC ARGENTINA Abstract In Argentina, the accelerated expansion of the platform economy since 2020, together with the retraction of the street and indoor sex trade –due to the deployment of anti-trafficking policies and, temporarily, to the social isolation measures and health fears raised by the COVID-19 pandemic–, enabled new forms of sex trade. A growing number of women turned to producing and marketing erotic-sexual content and services through digital platforms, where customer contacts are mediated by technological devices. This novelty initiated a process, still incipient, of reconfiguration of sex work, historically stigmatized, in many countries not recognized as a job, and governed through the criminalization of those who exercise it or participate in its reproduction. In this preliminary paper, I explore some of the transformations linked to the dynamics of platforming, focusing on the reconfiguration of sex work experiences. I inquire into the irruption and scope of the ideology of entrepreneurship among sex workers; the transformation of working conditions –which seem to oscillate between flexibilization and autonomy and precarization and intensification–; and the digitalization of sociability among women. For this purpose, I conducted in-depth interviews with women who produce and sell erotic-sexual content and services and non-participant observations in some of the digital environments where they develop part of their activity and sociability. Key Words: sex work, platforms, entrepreneurship, working conditions, sociability ARK CAICYT: https://id.caicyt.gov.ar/ark:/s16668979/afmu4qcui",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY-NC 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc/4.0"
+     },
+     "url": "https://doi.org/10.62174/arg.2025.10825",
+     "doi": "10.62174/arg.2025.10825",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.62174/arg.2025.10828",
+     "titulo": "Habermas y las transformaciones estructurales de la esfera pública: la digitalización de los medios como desilustración de la opinión pública",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Marco Aramis Cid Ramírez",
+       "orcid": null
+      }
+     ],
+     "resumen": "Los esfuerzos del filósofo alemán Jürgen Habermas han estado orientados a bosquejar un análisis teórico en torno a las transformaciones estructurales de la opinión pública vinculadas a la evolución de la institución mediática. Recientemente ha sido publicado un nuevo texto que explora las preocupaciones de Habermas originadas por las transformaciones de los medios tradicionales impresos y su incidencia en el ejercicio crítico de los públicos que emergieron a finales del siglo XVII mediante un proceso ilustrado proveniente de la comercialización de libros, revistas y periódicos en Francia, Inglaterra y Alemania. En este contexto, Habermas reconoció que la transformación digital de los medios de comunicación ha repercutido desfavorablemente en los procesos democráticos concernientes a las decisiones políticas de los ciudadanos. Es por tal motivo que este artículo pretende ofrecer un contraste de las transformaciones estructurales de la prensa y la vida pública que Habermas reconstruyó en Historia y Crítica de la Opinión Pública de 1963 y retomó recientemente en A New Structural Transformation of the Public Sphere and Deliberative Politics de 2023. Esto con la finalidad de examinar de qué manera la digitalización mediática representó para Habermas un proceso de desilustración reflejado en la decadencia de las actividades de discusión pública y el ejercicio permanente de la crítica política, que en un inicio fueron parte sustantiva de un proceso formativo ilustrado. Palabras clave: Esfera pública, opinión pública, desilustración, plataformas digitales, medios de comunicación. HABERMAS AND THE STRUCTURAL TRANSFORMATIONS OF THE PUBLIC SPHERE: THE DIGITALIZATION OF THE MEDIA AS DISILLUSTRATION OF PUBLIC OPINION Abstract The German philosopher Jürgen Habermas's efforts have focused on outlining a theoretical analysis of the structural transformations of public opinion linked to the evolution of the media institution. A new text has recently been published that explores Habermas's concerns stemming from the transformations of traditional print media and their impact on the critical exercise of the publics that emerged in the late 17th century through an enlightened process stemming from the commercialization of books, magazines, and newspapers in France, England, and Germany. In this context, Habermas recognized that the digital transformation of the media has had an adverse impact on democratic processes concerning citizens' political decisions. For this reason, this article aims to contrast the structural transformations of the press and public life that Habermas reconstructed in The Structural Transformation of the Public Sphere published in 1963, and recently revisited in A New Structural Transformation of the Public Sphere and Deliberative Politics, 2023. This is done with the aim of examining how media digitalization represented for Habermas a process of disenlightenment, reflected in the decline of public discussion activities and the permanent exercise of political criticism, which were initially a substantial part of an enlightened formative process. Keywords: Public sphere, public opinion, disenlightenment, digital platforms, media. ARK CAICYT: https://id.caicyt.gov.ar/ark:/s16668979/rflykcpcw",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY-NC 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc/4.0"
+     },
+     "url": "https://doi.org/10.62174/arg.2025.10828",
+     "doi": "10.62174/arg.2025.10828",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.62174/arg.2025.10817",
+     "titulo": "Hacia la apropiación creativa de tecnología en un centro socioeducativo ambulatorio de privación de la libertad",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Patricia Silvana San Martín",
+       "orcid": null
+      },
+      {
+       "nombre": "Carolina Tramallino",
+       "orcid": null
+      },
+      {
+       "nombre": "Guillermo Luján Rodríguez",
+       "orcid": null
+      },
+      {
+       "nombre": "Lucía Manero",
+       "orcid": null
+      },
+      {
+       "nombre": "Guillermo Decoppet",
+       "orcid": null
+      },
+      {
+       "nombre": "Marisa Cenacchi",
+       "orcid": null
+      },
+      {
+       "nombre": "Peter Bauman",
+       "orcid": null
+      }
+     ],
+     "resumen": "Este artículo presenta los principales resultados obtenidos en el marco de un proyecto de investigación y desarrollo interdisciplinario, cuyo objetivo se orientó hacia la elaboración de un marco teórico-metodológico que fundamente el diseño de herramientas y acciones educativas plurigrado/plurinivel, en contextos de educación en encierro penal juvenil, que fomenten la apropiación creativa de tecnologías a través de dinámicas de taller. La perspectiva metodológica utiliza un modelo analítico multidimensional de sostenibilidad socio-técnica cultural, que está compuesto por cuatro dimensiones no jerárquicas, que no solo facilita la evaluación de la sostenibilidad de las prácticas de apropiación creativa de tecnologías, sino que también se presenta como una herramienta innovadora para guiar la co-construcción de proyectos socio-técnicos culturales. Desde este lugar se plantean las actividades que se llevaron adelante y que incluyeron: un análisis multidimensional detallado y una capacitación docente en servicio sobre apropiación creativa de tecnología, que dio lugar tanto a una práctica educativa innovadora, como a la producción de una plataforma tecnológica participativa de acceso abierto. Como reflexión final y más allá de la especificidad del contexto específico, resulta crucial para garantizar una apropiación creativa de tecnologías sin exclusiones, reconocer la complejidad multidimensional de la problemática. Palabras clave: apropiación de tecnología, educación en encierro, innovación pedagógica, enfoque socio-técnico cultural, glosario colaborativo TOWARDS THE CREATIVE APPROPRIATION OF TECHNOLOGY IN AN OUTPATIENT SOCIO-EDUCATIONAL CENTER OF AN INSTITUTION OF INCARCERATION Abstract This article presents the main results obtained within the framework of an interdisciplinary research and development project aimed at developing a theoretical-methodological framework to support the design of multi-grade/multi-level educational tools and actions in juvenile penal confinement education contexts, fostering the creative appropriation of technologies through workshop dynamics. The methodological perspective employs a multidimensional analytical model of socio-technical and cultural sustainability, composed of four non-hierarchical dimensions. This model not only facilitates the evaluation of the sustainability of creative technology appropriation practices but also serves as an innovative tool for guiding the co-construction of socio-technical cultural projects. Based on this approach, the implemented activities included a detailed multidimensional analysis and in-service teacher training on creative technology appropriation, leading to both innovative educational practice and the development of a participatory open-access technology platform. As a final reflection, beyond the specific context, ensuring a creative appropriation of technologies without exclusions requires recognizing the multidimensional complexity of the issue. Keywords: technology appropriation, education in confinement, pedagogical innovation, socio-technical cultural approach, collaborative glossary ARK CAICYT: https://id.caicyt.gov.ar/ark:/s16668979/gh9x1x9tl",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY-NC 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc/4.0"
+     },
+     "url": "https://doi.org/10.62174/arg.2025.10817",
+     "doi": "10.62174/arg.2025.10817",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.62174/arg.2025.10812",
+     "titulo": "La constitución de subjetividad en Spotify. Plataforma de streaming, recomendaciones algorítmicas y escucha musical",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Diego Hernán Pérez Ríos",
+       "orcid": null
+      }
+     ],
+     "resumen": "Este artículo se centra en la constitución de la subjetividad a través de la relación entre los oyentes-usuarios y Spotify, mediante la escucha musical en streaming y el uso de la plataforma. Se aborda el proceso de algoritmización, que afecta a los individuos diariamente mediante sistemas de recomendación, asistencia y control. La investigación se desarrolló mediante la aplicación del método teórico realizando tareas de revisión bibliográfica, definición conceptual y análisis de enfoques previos sobre la temática tratada. Las principales conclusiones indican que Spotify, como dispositivo de control tecnológico, opera en la práctica de la escucha a través de algoritmos que intentan direccionar usos y elecciones, aunque en constante tensión con las decisiones individuales. Por ende, la subjetividad no surge solo del direccionamiento algorítmico, sino también de la apropiación social y el uso consciente por parte de los oyentes-usuarios. Esta interacción entre producción algorítmica y construcción subjetiva conforma lo que se denomina constitución de subjetividad en el contexto del streaming, expresada como producción + construcción = constitución o prod(constr)ucción de subjetividad. Así, la subjetividad se entiende como un proceso dinámico y relacional que emerge de la intersección entre tecnología, cultura y acción individual. Palabras clave: subjetividad, Spotify, streaming, algoritmos, escucha musical THE CONSTITUTION OF SUBJECTIVITY IN SPOTIFY. STREAMING PLATFORMS, ALGORITHMIC RECOMMENDATIONS AND MUSIC LISTENING Abstract This article focuses on the constitution of subjectivity through the relationship between listeners and users of Spotify, through music streaming and their use of the platform. It addresses the process of algorithmization, which affects individuals daily through recommendation, assistance, and control systems. The research was conducted through the application of a theoretical method, performing bibliographic reviews, conceptual definitions, and analyzing previous approaches to the topic at hand. The main conclusions indicate that Spotify, as a technological control device, operates in the practice of listening through algorithms that attempt to direct uses and choices, albeit in constant tension with individual decisions. Therefore, subjectivity arises not only from algorithmic direction, but also from social appropriation and conscious use by listeners and users. This interaction between algorithmic production and subjective construction constitutes what is called the constitution of subjectivity in the context of streaming, expressed as production + construction = constitution or prod(const)uction of subjectivity. Thus, subjectivity is understood as a dynamic and relational process that emerges from the intersection of technology, culture and individual action. Keywords: subjectivity, Spotify, streaming, algorithms, music listening ARK CAICYT: https://id.caicyt.gov.ar/ark:/s16668979/cimdqr7ij",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY-NC 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc/4.0"
+     },
+     "url": "https://doi.org/10.62174/arg.2025.10812",
+     "doi": "10.62174/arg.2025.10812",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.62174/arg.2025.10809",
+     "titulo": "La dataesfera como hiperobjeto: hacia una crítica de sus implicaciones ontoepistémicas.",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Pedro Cerruti",
+       "orcid": null
+      }
+     ],
+     "resumen": "Este artículo aborda la dataesfera como un hiperobjeto que transforma las condiciones ontológicas y epistemológicas de la experiencia en la era digital. Se analiza cómo los entornos tecno-informáticos modifican la subjetivación, la sociabilidad y la producción de saber mediante la recolección masiva de datos. Se contrastan dos enfoques: el positivismo digital, centrado en la correlación y la predicción sin mediación causal; y los Estudios Críticos de Datos, que cuestionan la supuesta neutralidad de los datos y subrayan su carácter situado y su inscripción en relaciones de poder. Finalmente, se propone una renovación crítica fundamentada en ontologías no antropocéntricas —como las orientadas a objetos, el nuevo materialismo o la teoría del ensamblaje—, que disuelven la centralidad del sujeto humano y permiten repensar la agencia distribuida en redes sociotécnicas. Estas ontologías permiten abordar la dataesfera como un hiperobjeto: una entidad difusa, masiva y ubicua, cuya escala y complejidad exceden las capacidades representacionales convencionales. Desde esta perspectiva, se plantea la necesidad de renovar los marcos analíticos de las ciencias sociales para dar cuenta de fenómenos que reconfiguran radicalmente la relación entre conocimiento, tecnología y mundo. Palabras clave: dataesfera, hiperobjeto, crítica, ontología, epistemología THE DATASPHERE AS A HYPEROBJECT: CRITIQUING ITS ONTO-EPISTEMIC IMPLICATIONS Abstract This article explores the datasphere as a hyperobject that reshapes the ontological and epistemological conditions of experience in the digital age. It examines how techno-informatic environments transform subjectivation, sociability, and knowledge production through large-scale data collection and analysis. Two main approaches are contrasted: digital positivism, which privileges correlation and prediction without causal explanation; and Critical Data Studies, which interrogate the presumed neutrality of data by emphasizing their situatedness and embedded power relations. The article ultimately proposes a critical renewal grounded in non-anthropocentric ontologies —such as object-oriented ontology, new materialism, and assemblage theory— which decenter the human subject and conceptualize agency as distributed across sociotechnical networks. These frameworks allow us to approach the datasphere as a hyperobject: a vast, diffuse, and entangled entity whose scale and complexity overwhelm conventional modes of representation. From this perspective, the article calls for an overhaul of social science categories to address phenomena that fundamentally reshape the nexus between knowledge, technology, and the world. Key words: datasphere, hyperobjet, critique, ontology, epistemology https://id.caicyt.gov.ar/ark:/s16668979/yabrpe7xa",
+     "idioma_resumen": null,
+     "licencia": {
+      "nombre": "CC BY-NC 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc/4.0"
+     },
+     "url": "https://doi.org/10.62174/arg.2025.10809",
+     "doi": "10.62174/arg.2025.10809",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.62174/arg.2025.10815",
+     "titulo": "La idea de Mundo Común en la opinión pública juvenil del AMBA",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Mario Renzo Moyano",
+       "orcid": null
+      }
+     ],
+     "resumen": "Este artículo identifica y caracteriza el modo en que las audiencias integradas por jóvenes residentes del Área Metropolitana de Buenos Aires (AMBA) construyen la noción de Mundo Común en el terreno de la opinión pública (Arendt, 1958; Latour, 2005; Merleau-Ponty, 1945; Sadin, 2020). Presentamos una síntesis del estado actual del conocimiento sobre las tres dimensiones del concepto Mundo Común, que aborda nuestro estudio: las dimensiones Política, Mediática y Social. Describiremos los objetivos y la estrategia de construcción teórico-metodológica que orienta nuestra investigación. Finalmente, anticiparemos algunos resultados preliminares de la investigación que actualmente se encuentra en curso y que surgen de nuestras exploraciones iniciales acerca de las actitudes de los jóvenes del AMBA en relación con el componente Social de la noción de Mundo Común, que se despliega en el ámbito de la opinión pública. Palabras clave: Mundo Común, opinión pública, polarización, burbuja digital, desigualdad THE IDEA OF A COMMON WORLD IN THE YOUTH PUBLIC OPINION OF AMBA Abstract This article identifies and characterizes how audiences made up of young residents of the Buenos Aires Metropolitan Area (AMBA) construct the notion of the Common World in the realm of public opinion (Merleau-Ponty, 1945; Arendt, 1958; Latour, 2005; Sadin, 2020). We present a synthesis of the current state of knowledge on the three dimensions of the Common World concept addressed in our study: the Political, Media, and Social dimensions. We will describe the objectives and the theoretical-methodological construction strategy that guides our research. Finally, we will anticipate some preliminary results of the research currently underway and that emerge from our initial explorations of the attitudes of young people in the AMBA in relation to the Social component of the notion of the Common World that unfolds in the realm of public opinion. Keywords: common world, public opinion, polarization, digital bubble, inequality ARK CAICYT: https://id.caicyt.gov.ar/ark:/s16668979/mrbldlksw",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY-NC 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc/4.0"
+     },
+     "url": "https://doi.org/10.62174/arg.2025.10815",
+     "doi": "10.62174/arg.2025.10815",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.62174/arg.2025.10823",
+     "titulo": "Las mujeres en el mercado de trabajo de software en Argentina: un mapeo de las brechas y barreras de género",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Andrés Rabosto",
+       "orcid": null
+      },
+      {
+       "nombre": "Guillermina Yansen",
+       "orcid": null
+      }
+     ],
+     "resumen": "El trabajo analiza las condiciones de participación de las mujeres en el mercado de trabajo del sector de software y servicios Informáticos (SSI) de Argentina. Específicamente, se propone estimar y caracterizar las brechas y barreras de género en el mercado de trabajo de software en la post-pandemia con métodos cuantitativos. Partiendo de la constatación de la escasa participación de mujeres en actividades informáticas a nivel global y local, la literatura se ha enfocado principalmente en las condiciones previas al ingreso al mercado laboral y en menor medida en las condiciones que enfrentan las mujeres una vez insertas en el ámbito de trabajo. Particularmente, son escasos los estudios que cuantifican estas condiciones en Argentina. En otros trabajos hemos avanzado en esta línea, a partir de un análisis de la encuesta a trabajadores informáticos de la comunidad Sysarmy (Guitart, Rabosto y Segal, 2022). En continuidad con ello, el objetivo central de este texto es contribuir a la dimensión y caracterización de la participación de mujeres en comparación con la de los varones en el mercado de trabajo del sector de software, mediante un análisis descriptivo de datos. El estudio es de corte transversal y su principal fuente de datos es la Encuesta Permanente de Hogares (EPH), relevamiento socio demográfico más importante del país. Palabras claves: tecnologías digitales, trabajo, sector software, género, brechas WOMEN IN THE SOFTWARE JOB MARKET IN ARGENTINA: MAPPING GENDER GAPS AND BARRIERS Abstract This paper focuses on the conditions of women's participation in the software and information services (SIS) labor market in Argentina. Specifically, it aims to estimate and characterize gender gaps and barriers in the software labor market in the post-pandemic period using quantitative methods. Based on the observation of the low participation of women in IT activities both globally and locally, the literature review shows that research has focused mainly on the conditions prior to entering the labor market and less on the conditions faced by women once employed. In particular, few studies quantify these conditions in Argentina. Building on previous work that analyzed the Sysarmy IT Workers Survey (Guitart, Rabosto, & Segal, 2022), this article aims to contribute to the measurement and characterization of women’s participation compared to men's in the software sector labor market, through a descriptive data analysis. The study is cross-sectional and uses the Permanent Household Survey (Encuesta Permanente de Hogares, EPH), the country's main socio demographic survey, as its primary data source. Key words: digital technologies, work, software sector, gender, gap ARK CAICYT: https://id.caicyt.gov.ar/ark:/s16668979/xk3owhck9",
+     "idioma_resumen": null,
+     "licencia": {
+      "nombre": "CC BY-NC 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc/4.0"
+     },
+     "url": "https://doi.org/10.62174/arg.2025.10823",
+     "doi": "10.62174/arg.2025.10823",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.62174/arg.2025.10810",
+     "titulo": "Las plataformas en el capitalismo contemporáneo: hacia una crítica de las transformaciones en la cultura, el trabajo y la producción",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Juan Bautista Ballestrin",
+       "orcid": null
+      },
+      {
+       "nombre": "Mariano Caputo",
+       "orcid": null
+      }
+     ],
+     "resumen": "El artículo indaga en la relevancia de la plataformización de la vida social en el capitalismo contemporáneo, atravesado por las finanzas y la precariedad. A partir de una introducción de los conceptos de datificación, algoritmización y perfilización, el escrito enfoca críticamente la plataformización de la cultura, de la producción y del trabajo, en tanto regiones cruciales de la vida social en las que se suscitan transformaciones tanto objetivas como subjetivas. En el plano de la industria cultural, las redes sociales extienden la influencia del lenguaje publicitario en la cultura y consolidan al scrolleo como la modalidad dominante de recepción. En cuanto a la producción, las plataformas reúnen el acaparamiento de rentas con la generación de plusvalía relativa a raíz de trabajo abstracto como modo fundamental de valorización. Por último, se señala que la gestión algorítmica del trabajo despersonifica relativamente a las relaciones de producción, que en su relación con la flexibilidad horaria y el salario a destajo configuran identidades laborales que valoran la autodependencia en comparación con otro tipo de trabajos. Palabras claves: plataformización, subjetividad, capital, despersonificación, scrolleo PLATFORMS IN CONTEMPORARY CAPITALISM: TOWARDS A CRITIQUE OF TRANSFORMATIONS IN CULTURE, WORK AND PRODUCTION Abstract The article explores the relevance of the platformisation of social life in contemporary capitalism, which is permeated by finance and precariousness. Starting with an introduction to the concepts of datafication, algorithmisation and profiling, the paper takes a critical look at the platformisation of culture, production and work, as crucial areas of social life in which both objective and subjective transformations are taking place. In the cultural industry, social networks extend the influence of advertising language in culture and consolidate scrolling as the dominant mode of reception. In terms of production, platforms combine rent-seeking with the generation of relative surplus value from abstract labour as a fundamental mode of valorisation. Finally, it is pointed out that algorithmic management relatively depersonalises production relations, which, in their relationship with flexible working hours and piecework wages, shape work identities that value self-reliance in comparison with other types of work. Key words: platformisation, subjectivity, capital, depersonification, scrolling ARK CAICYT: https://id.caicyt.gov.ar/ark:/s16668979/vu6c3dm70",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY-NC 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc/4.0"
+     },
+     "url": "https://doi.org/10.62174/arg.2025.10810",
+     "doi": "10.62174/arg.2025.10810",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.62174/arg.2025.10832",
+     "titulo": "Lineamientos de política pública para el metaverso como proceso de convergencia tecnológica: un aporte desde el enfoque de redes de política pública",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Raúl Andrés Tabarquino Muñoz",
+       "orcid": null
+      }
+     ],
+     "resumen": "El presente artículo es resultado de la estancia posdoctoral en la Facultad de Ciencias Sociales de la Universidad de Buenos Aires; aporta a la comprensión y análisis del metaverso a partir del enfoque teórico de redes de política pública y la metodología del análisis de redes sociales (ARS), que permiten apropiar y analizar información mixta (cualitativa y cuantitativa). El propósito de la investigación es esbozar actores relevantes, tipologías, categorías de relaciones y vínculos, indicadores posicionales y estructurales, de la dinámica en red del metaverso; los resultados evidencian que no existe a la fecha una definición y propuesta organizacional única de metaverso, además la dinámica en red del metaverso está dada por la yuxtaposición de sub redes; y la discusión plantea lineamientos de política pública para el metaverso como proceso de convergencia tecnológica, a partir de la tipología de comunidad de política o policy community. Palabras Claves: Metaverso, Redes de Política Pública, Análisis de redes sociales, Plataformas digitales PUBLIC POLICY GUIDELINES FOR THE METAVERSE AS A PROCESS OF TECHNOLOGICAL CONVERGENCE: A CONTRIBUTION FROM THE PUBLIC POLICY NETWORKS APPROACH Abstract This article is the result of my postdoctoral fellowship at the Faculty of Social Sciences at the University of Buenos Aires. It contributes to the understanding and analysis of the metaverse through the theoretical approach of public policy networks and the methodology of social network analysis (SNA), which allows for the appropriation and analysis of mixed information (qualitative and quantitative). The purpose of this research is to outline relevant actors, typologies, categories of relationships and links, positional and structural indicators of the network dynamics of the metaverse. The results show that, to date, there is no single organizational definition or proposal for the metaverse. Furthermore, the network dynamics of the metaverse are determined by the juxtaposition of subnetworks. The discussion proposes public policy guidelines for the metaverse as a process of technological convergence, based on the typology of the policy community. Keywords: Metaverse, Public Policy Networks, Social network analysis, Digital platforms ARK CAICTY: https://id.caicyt.gov.ar/ark:/s16668979/d5t4zflgc",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY-NC 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc/4.0"
+     },
+     "url": "https://doi.org/10.62174/arg.2025.10832",
+     "doi": "10.62174/arg.2025.10832",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.62174/arg.2025.10816",
+     "titulo": "Los vínculos con las tecnologías entendidos como adicción. Primera parte: antes de la difusión del teléfono celular inteligente",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Roxana Cabello",
+       "orcid": null
+      }
+     ],
+     "resumen": "Este artículo apunta a caracterizar, de manera exploratoria y crítica, el modo como fue configurándose entre 1980 y 2010 el punto de vista en el que germina la noción y la investigación sobre adicción a las tecnologías. Buscamos identificar cuáles han sido los interrogantes que motorizaron las investigaciones sobre el tema, qué modelos teóricos y qué tipos de diseños se han implementado, qué avances se han producido en el conocimiento, cuáles han sido los obstáculos o limitaciones que se revelan en el proceso, entre otros aspectos. La complejidad del problema requiere una aproximación interdisciplinaria. En este caso, el centro de la producción de conocimiento se ubica en los campos de la psicología y la psiquiatría. Partimos de la convicción de que un abordaje centrado en la comprensión de la experiencia subjetiva en el marco de los procesos socioculturales de vinculación con las tecnologías, se enriquece cuando dialoga con estos otros campos que han producido las primeras hipótesis. El trabajo se apoya en una revisión de literatura e investigaciones que componen un corpus intencional. Palabras clave: tecnologías, adicción, investigación RELATIONS WITH TECHNOLOGY CONCEIVED AS ADDICTION. PART ONE: BEFORE THE DIFFUSION OF THE SMARTPHONE. ABSTRACT This article aims to characterize, in an exploratory and critical manner, the way in which the viewpoint from which the notion and research on technology addiction emerge was shaped between 1980 and 2010. We seek to identify the key questions that have driven research on the subject, the theoretical models and types of research designs that have been implemented, the advancements made in knowledge, and the obstacles or limitations that have arisen in the process, among other aspects. The complexity of the issue calls for an interdisciplinary approach. In this case, the center of knowledge production is located within the fields of psychology and psychiatry. We proceed from the conviction that an approach focused on understanding subjective experience within the framework of sociocultural processes of engagement with technology is enriched through dialogue with these other fields, which have produced the initial hypotheses. The work is based on a review of literature and research that make up an intentional corpus. Keywords: technology, addiction, research ARK CAICYT: https://id.caicyt.gov.ar/ark:/s16668979/qjv418u31",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY-NC 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc/4.0"
+     },
+     "url": "https://doi.org/10.62174/arg.2025.10816",
+     "doi": "10.62174/arg.2025.10816",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.62174/arg.2025.10837",
+     "titulo": "Movilidad cotidiana y desigualdades sociales en áreas de expansión de Mar del Plata y La Plata. El impacto diferencial de la pandemia en barrios cerrados, populares y de clases medias",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Violeta Ventura",
+       "orcid": null
+      },
+      {
+       "nombre": "Federico Oriolani",
+       "orcid": null
+      },
+      {
+       "nombre": "Florencia Musante",
+       "orcid": null
+      }
+     ],
+     "resumen": "En este artículo analizaremos cómo las restricciones estatales a la circulación para combatir la pandemia del COVID-19, impactaron diferencialmente en la movilidad cotidiana de lxs residentes de distintos sectores sociales que habitaban las áreas de expansión de Mar del Plata y La Plata. A partir de ello problematizamos cómo se configuraron y reconfiguraron los modos de habitar. El análisis se estructura alrededor de dos ejes: por un lado, analizamos los “circuitos cotidianos” y la organización cotidiana en los hogares de lxs residentes de áreas de expansión antes, durante y después de la pandemia; por otro, nos adentramos en los medios de transporte, modos y habilidades para utilizarlos. Sostenemos que el nuevo contexto profundizó las desigualdades en el modo de habitar de los sectores que viven en las áreas de expansión de ambas ciudades debido a las posibilidades diferenciales de reemplazar y modificar las movilidades cotidianas para obtener los resultados esperados. Al mismo tiempo, encontramos que, mientras los sectores medios y altos contaron con posibilidades aventajadas producto de su condición estructural, fueron justamente las habilidades, las redes sociales previas a la pandemia y los conocimientos específicos de los sectores populares los que les permitieron amortiguar los efectos diferenciales del aislamiento. El artículo se basa en un corpus de 60 entrevistas en profundidad realizadas en distintos tipos residenciales (barrios populares, barrios cerrados y barrios abiertos de clases medias) de las áreas de expansión de Mar del Plata y La Plata. Palabras claves: Movilidad cotidiana; áreas de expansión; tipos residenciales; Desigualdades sociales DAILY MOBILITY AND SOCIAL INEQUALITIES IN EXPANDING AREAS OF MAR DEL PLATA AND LA PLATA. THE DIFFERENTIAL IMPACT OF THE PANDEMIC ON GATED COMMUNITIES, POPULAR NEIGHBORHOODS, AND MIDDLE-CLASS NEIGHBORHOODS Abstract In this article, we will analyse how state restrictions on movement to combat the COVID-19 pandemic had a differential impact on the daily mobility of residents from different social sectors living in the expansion areas of Mar del Plata and La Plata. Based on this, we will examine how ways of living were configured and reconfigured. The analysis is structured around two axes: on the one hand, we analyse the ‘daily circuits’ and daily organisation in the homes of residents of expansion areas before, during and after the pandemic; on the other hand, we delve into the means of transport, modes and skills for using them. We argue that the new context deepened inequalities in the way of living of the sectors living in the expansion areas of both cities due to the differential possibilities of replacing and modifying daily mobility to obtain the expected results. At the same time, we found that while the middle and upper classes had advantages due to their structural condition, it was precisely the skills, pre-pandemic social networks, and specific knowledge of the low-income classes that allowed them to cushion the differential effects of isolation. The article is based on a corpus of 60 in-depth interviews conducted in different types of residential areas (popular neighbourhoods, gated communities, and open middle-class neighbourhoods) in the expanding areas of Mar del Plata and La Plata. Key words: Daily mobility; expansion areas; residential types; social inequalities ARK CAICYT: https://id.caicyt.gov.ar/ark:/s16668979/kivhl5eca",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY-NC 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc/4.0"
+     },
+     "url": "https://doi.org/10.62174/arg.2025.10837",
+     "doi": "10.62174/arg.2025.10837",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.62174/arg.2025.10822",
+     "titulo": "Más allá de los repartidores: la gestión algorítmica ejercida por las plataformas de reparto de comida sobre los proveedores",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Julieta Haidar",
+       "orcid": null
+      }
+     ],
+     "resumen": "A la fecha son casi inexistentes los estudios que analizan el uso de la gestión algorítmica por parte de las plataformas digitales de reparto de comida sobre los proveedores, es decir, las empresas que preparan y venden la comida que llegará por medio de los/as repartidores/as a los consumidores. Este artículo se propone contribuir a llenar esta vacancia. Nos preguntamos: ¿Cuáles son las características de la gestión algorítmica ejercida por las plataformas de reparto de comida sobre los proveedores? ¿Cuáles son las similitudes y diferencias de esta gestión con relación a la ejercida sobre los/as repartidores/as? ¿Qué función cumple la gestión algorítmica sobre los proveedores en la configuración del modelo de negocios de las plataformas de reparto? Para llevar a cabo esta investigación realizamos un estudio cualitativo de caso. Analizamos la relación entre las plataformas de reparto de comida y las empresas del sector gastronómico en la ciudad de Buenos Aires durante la pandemia del Covid19 y en la postpandemia. Realizamos entrevistas en profundidad a integrantes de cámaras empresarias del sector, dueños o gerentes de locales gastronómicos con distinto perfil, y trabajadores de las áreas tecnológicas de las plataformas. Además, analizamos contratos firmados entre las plataformas y distintos locales gastronómicos. Nuestra hipótesis es que la gestión algorítmica es un método usado por las plataformas de reparto de comida para controlar también a los proveedores. Esta forma de gestión tiene similitudes con la forma en que las plataformas controlan a los/as repartidores/as, pero también ciertas diferencias en términos de alcance, dado que los proveedores son socios-clientes de las plataformas con capacidad de negociación. La gestión algorítmica sobre los proveedores resulta funcional e indispensable para el desarrollo del modelo de negocios de las plataformas de reparto y tiene como fin último la multiplicación de transacciones y el incremento de rentas. Palabras clave: Plataformas digitales de reparto de comida - Gestión algorítmica - Proveedores - Modelo de negocios BEYOND THE RIDERS: ALGORITHMIC MANAGEMENT EXERCISED BY FOOD DELIVERY PLATFORMS OVER PROVIDERS Abstract To date, there are almost no studies that analyse the use of algorithmic management by digital food delivery platforms over providers, i.e., the businesses that prepare and sell the food that is delivered to consumers by riders. This article seeks to contribute to addressing this gap in the literature. It addresses the following research questions: What are the characteristics of the algorithmic management practices exercised by food delivery platforms over providers? In what ways do these practices resemble or differ from those applied to riders? What role does algorithmic management play in shaping the business model of delivery platforms? To investigate these questions, a qualitative case study focusing on the relationship between food delivery platforms and businesses in the gastronomic sector in the city of Buenos Aires during the Covid-19 pandemic and the post-pandemic period is conducted. The study draws on in-depth interviews with members of industry associations, owners or managers of food businesses with varied profiles, and employees in the technology departments of the platforms. Additionally, contracts signed between platforms and a range of gastronomic establishments are analysed. The hypothesis of this article is that algorithmic management is a method used by food delivery platforms to also control providers. This form of management shares similarities with the way platforms control riders, but it also presents certain differences in terms of scope, since providers are partner-clients of the platforms with bargaining power. Algorithmic management over providers is functional and indispensable for the development of the platforms’ business model, and its ultimate aim is to multiply transactions and increase rents. Keywords: Digital food delivery platforms - Algorithmic management - Providers - Business model ARK CAICYT: https://id.caicyt.gov.ar/ark:/s16668979/2vrak83k5",
+     "idioma_resumen": null,
+     "licencia": {
+      "nombre": "CC BY-NC 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc/4.0"
+     },
+     "url": "https://doi.org/10.62174/arg.2025.10822",
+     "doi": "10.62174/arg.2025.10822",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.62174/arg.2025.10836",
+     "titulo": "Norbert Elías y el cambio conceptual de la relación individuo-sociedad: una ilustración empírica en trabajadores y estudiantes universitarios en Argentina del siglo veintiuno",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Edna Muleras",
+       "orcid": null
+      }
+     ],
+     "resumen": "Abordamos el aporte relevante de la sociología histórica de Norbert Elías a la noción de cambio epistémico, en consonancia con una ejemplificación empírica sobre el cambio conceptual de la relación individuo-sociedad proveniente de nuestros propios avances investigativos. Lo describe como proceso de larga duración, inherente al proceso civilizatorio, desde un enfoque psico y sociogenético del conocimiento humano. Por un lado, enfatiza el inevitable rezago temporal de la autoconciencia y las concepciones de la naturaleza y de la sociedad respecto a la progresiva capacidad humana de su control y dirección. Por el otro, visibiliza cómo el vínculo entre la dinámica de las relaciones de poder y el grado de autorregulación de las funciones psicológicas promueve u obstruye el desarrollo de un conocimiento ajustado a la realidad, asumiendo las representaciones fantasiosas o ilusorias diversas expresiones fácticas en el desenvolvimiento histórico-social. Ilustramos empíricamente su contribución al campo de la sociología del conocimiento, con datos construidos en un estudio exploratorio comparativo. Investigamos la formación psico y sociogenética de identidades epistémicas sobre el orden social, en diferentes grupos de trabajadores y estudiantes universitarios de Argentina en el siglo veintiuno. Exploramos la lógica y los criterios morales involucrados en las descripciones, explicaciones y evaluaciones de los procesos que afectan sus condiciones sociales de vida. Encontramos que la relación individuo-sociedad asume diversas significaciones en función del grado de conocimiento involucrado en cada etapa de la construcción conceptual, resultando minoritarias las concepciones que dan cuenta de la complejidad objetiva del orden social en el nuevo milenio. Palabras claves: Norbert Elías, cambio conceptual, relación individuo-sociedad, trabajadores y estudiantes universitarios, Argentina Siglo XXI NORBERT ELÍAS AND THE CONCEPTUAL CHANGE OF THE INDIVIDUAL-SOCIETY RELATIONSHIP: AN EMPIRICAL ILLUSTRATION IN WORKERS AND UNIVERSITY STUDENTS IN ARGENTINA IN THE TWENTY FIRST CENTURY Abstract The purpose of this paper is to address the relevant contribution of Norbert Elias's historical sociology to the notion of epistemic change, in line with an empirical illustration of the conceptual change of the individual-society relationship, coming from our own research advances. Elias describes the epistemic change as a long-term process, inherent to the civilizing process, from an approach that links psychogenesis and sociogenesis of human knowledge. On one hand, he makes visible that self-consciousness and the conceptions of nature and society always lag behind the progressive human capability to control them. On the other, his work highlights how the link between the dynamics of power relations and the self-regulation of psychological functions promotes or obstructs the development of adequate knowledge, assuming the content of reality and fantasy diverse factual expressions in the historical development. We analyze his theoretical contribution in the field of sociology of knowledge, presenting some data from an exploratory and comparative research. We study the psycho and sociogenetic formation of epistemic identities about the social order in different groups of workers and university students in Argentina in the twenty first century. We explore the logic and moral criteria involved in their descriptions, explanations and judgments about the processes that affect their social living conditions. We have found that the society-individual relationship is invested with different meanings, according to the degree of knowledge involved in each stage of conceptual construction, being minority those conceptions appropriate to the objective complexity of the social order in the new millennium. Key words: Norbert Elias, conceptual change, individual-society relationship, workers and university students, Argentina 21st. Century ARK CAICYT: https://id.caicyt.gov.ar/ark:/s16668979/tax1i7b4k",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY-NC 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc/4.0"
+     },
+     "url": "https://doi.org/10.62174/arg.2025.10836",
+     "doi": "10.62174/arg.2025.10836",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.62174/arg.2025.10814",
+     "titulo": "Notas sobre la deconstrucción del “fandom digital” en/desde América Latina",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Federico Álvarez Gandolfi",
+       "orcid": null
+      }
+     ],
+     "resumen": "El propósito de este artículo es presentar una sistematización aún pendiente en la academia latinoamericana alrededor de las maneras en que se conceptualizan los usos y apropiaciones de las tecnologías digitales por parte de los fandoms o comunidades de fans. Así se pretende avanzar en la consolidación del campo de los estudios sobre fans, todavía incipiente por estos lares, mediante la focalización en una de las dimensiones del fenómeno sociocultural del fanatismo a la que se la ha prestado mayor atención: sus vínculos con las redes sociales y la digitalización tanto de contenidos mediáticos como de prácticas de consumo. No solo se identificarán los términos centrales y las orientaciones teóricas principales más recurrentes a la hora de analizar las dinámicas que atraviesan las relaciones digitales dentro de los fandoms, entre pares y con los objetos que los constituyen, sino que también se problematizarán sus potencialidades y limitaciones heurísticas para la comprensión del fanatismo en toda su complejidad. Los argumentos que se desarrollarán encuentran su base en el planteo de un diálogo faltante entre los estudios sobre fans y los estudios sobre cultura popular, en articulación con las formas que adoptan la cultura de masas y la cultura digital en las sociedades contemporáneas. Palabras claves: fanificación, digitalización, estudios sobre fans, cultura popular, cultura de masas NOTES ON THE DECONSTRUCTION OF “THE DIGITAL FANDOM” IN/FROM LATIN AMERICA Abstract The aim of this article is to present a systematization of the ways in which Latin American academy have conceptualized the use and appropriation of digital technologies by fandoms or fan communities. The main purpose is to advance with the consolidation of fan studies, which are still nascent aroubd these parts, by focusing on one of the dimensions of fandom as a social pehemonen that has received the most attention: that is, its links with social media and the digitalization of both media content and consumption practices. Not only we will cover the most recurrent central terms and theoretical orientations when analyzing the dynamics that permeate digital relationships within fandoms, among peers and with the objects that constitute them, but we will also problematize their heuristic potentialities and limitations for understanding fandom in its full complexity. The arguments presented here are based on the need for a dialogue between fan studies and popular culture studies, together with the forms that mass culture and digital culture take in contemporary societies. Key words: fanification, digitization, fan studies, popular culture, mass culture ARK CAICYT: https://id.caicyt.gov.ar/ark:/s16668979/wa816xcry",
+     "idioma_resumen": null,
+     "licencia": {
+      "nombre": "CC BY-NC 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc/4.0"
+     },
+     "url": "https://doi.org/10.62174/arg.2025.10814",
+     "doi": "10.62174/arg.2025.10814",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.62174/arg.2025.10821",
+     "titulo": "Personas mayores y uso de tecnologías digitales: las miradas de los y las asistentes a dos Centros de Día de CABA durante la pandemia y post pandemia",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Estefanía Cirino",
+       "orcid": null
+      },
+      {
+       "nombre": "María Paula Lehner",
+       "orcid": null
+      },
+      {
+       "nombre": "Marisa Ponce",
+       "orcid": null
+      }
+     ],
+     "resumen": "La Ciudad de Buenos Aires es la jurisdicción más envejecida de Argentina, con un 22% de personas de 60 años y más. Registra severas desigualdades, especialmente en la zona sur con un alto nivel de pobreza multidimensional. El Programa Centros de Día para personas mayores, dependiente del Gobierno de la Ciudad de Buenos Aires, retomó sus actividades de forma presencial en 2022 una vez finalizada la pandemia. Este trabajo analiza las opiniones de las personas mayores que asisten a los centros de día y apunta a conocer cómo han transitado el Aislamiento Social Preventivo y Obligatorio (ASPO) impuesto por el gobierno durante 2020 y 2021, cuál es el rol y qué relación tienen y han tenido con el uso de tecnologías digitales. A partir de un diseño exploratorio y cualitativo se realizaron durante los meses de noviembre y diciembre de 2023 dos grupos focales en los que participaron personas de 60 años y más, de ambos sexos, en dos centros de día de la zona sur de la Ciudad y 17 entrevistas semiestructuradas. Los resultados muestran que el uso de las tecnologías, aún incipiente, propicia la comunicación, aunque se requieren cursos de capacitación para esta población. Palabras clave: Personas mayores, pandemia y pospandemia, Centros de Día, Ciudad de Buenos Aires, Tecnologías digitales OLDER PEOPLE AND THE USE OF DIGITAL TECHNOLOGIES: THE VIEWS OF THOSE ATTENDING TWO CABA DAY CARE CENTRES DURING THE PANDEMIC AND POST PANDEMIC Abstract The City of Buenos Aires is the oldest jurisdiction in Argentina, with 22% of people aged 60 and over. It has severe inequalities, especially in the southern region, which has a high level of multidimensional poverty. The Day Center Program for Seniors, a program run by the Buenos Aires City Government, resumed in-person activities in 2022 after the pandemic ended. This paper analyzes the opinions of older adults attending day centers and aims to understand how they have navigated the Mandatory Preventive Social Isolation (ASPO) imposed by the government during 2020 and 2021, and what role and relationship they have and have had with the use of digital technologies. Using an exploratory and qualitative design, two focus groups were conducted during November and December 2023, with the participation of people aged 60 and over, of both sexes, in two day centers in the southern part of the city, along with 17 semi-structured interviews. The results show that the use of technologies, still in its infancy, facilitates communication, although training courses are needed for this population. Keywords: Older people, Pandemic and post-pandemic, Day care centers, City of Buenos Aires, Digital technologies ARK CAICYT: https://id.caicyt.gov.ar/ark:/s16668979/kflj0m7sg",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY-NC 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc/4.0"
+     },
+     "url": "https://doi.org/10.62174/arg.2025.10821",
+     "doi": "10.62174/arg.2025.10821",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.62174/arg.2025.10838",
+     "titulo": "Qué significa salir. Un análisis temático-narrativo de la salida del armario de varones gays con perspectiva intergeneracional",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Ernesto Meccia",
+       "orcid": null
+      }
+     ],
+     "resumen": "Se propone desarrollar una comparación con perspectiva intergeneracional de narrativas de salida del armario de varones gays que viven en el Área Metropolitana de Buenos Aires. Se entrevistaron a gays mayores de 60 y menores de 30 años. Se busca responder: ¿cuáles son los temas que traen las narraciones de la salida del armario? ¿con qué tópicos argumentativos se lo narra? ¿Qué funcionalidades se le otorga? ¿Qué supone hablar (antes y ahora) de un “proceso de salida”? ¿De qué formas la salida de armario puede operar como un criterio evaluativo personal? ¿Qué figuración de las personas evocan las narrativas de los distintos grupos? Las preguntas tienen como telón de fondo la noción de “injusticia hermenéutica” de Miranda Fricker (2017), entendida como un estado cognitivo marcado por una distribución desigual del conocimiento que hace que algunos grupos queden en una desventaja injusta en lo relativo a la comprensión de sus experiencias sociales. Palabras clave: Salida del armario – Narrativas del yo – Análisis temático narrativo –Injusticia hermenéutica – Perspectiva intergeneracional THE MEANING OF COMING OUT. A THEMATIC-NARRATIVE ANALYSIS OF GAY MEN COMING OUT OF THE CLOSET FROM AN INTERGENERATIONAL PERSPECTIVE Abstract The aim is to develop a comparison with an intergenerational perspective of narratives of gay men coming out who live in the Buenos Aires Metropolitan Area. Gay men over 60 and under 30 were interviewed. The aim is to answer the following questions: What themes emerge from the narratives of coming out? What argumentative topics are used to narrate it? What functions are attributed to it? What does it mean (before and now) to talk about a “coming out process”? In what ways could coming out operate as a personal evaluative criterion? What image of people do the narratives of the different groups evoke? These questions are inspired by Miranda Fricker's (2017) notion of “hermeneutic injustice.” It means a cognitive state marked by an unequal distribution of knowledge that places some groups at an unfair disadvantage in terms of understanding their social experiences. Keywords: Coming out – Personal Narratives – Narrative thematic analysis – Hermeneutic injustice – Intergenerational perspective ARK CAICTY: https://id.caicyt.gov.ar/ark:/s16668979/srsgjplop",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY-NC 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc/4.0"
+     },
+     "url": "https://doi.org/10.62174/arg.2025.10838",
+     "doi": "10.62174/arg.2025.10838",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.62174/arg.2025.10811",
+     "titulo": "Ser influencer. Cuerpos publicitarios, liderazgo y reconocimiento en el capitalismo global",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Nemesia Hijós",
+       "orcid": null
+      }
+     ],
+     "resumen": "La emergencia de las redes sociales y el desarrollo de las estrategias comerciales digitales han favorecido la proliferación de nuevxs actores que habilitan otras formas de circular contenido sobre nuestras prácticas y estilos de vida. Influencers, celebrities y embajadores de marcas se afianzan como una identidad reconocible que traspasa la cultura digital: conducen orientaciones valorativas y modelan subjetividades contemporáneas. Por medio de un espectáculo de lo íntimo y una retórica de la autenticidad que rinde culto al entretenimiento, operan como referencias mientras despliegan acciones y disposiciones que revelan encuentros y desencuentros entre el poder y la capacidad agentiva. Este trabajo pone en relieve una interrogación crítica sobre la construcción del reconocimiento social, la imagen del éxito, la distinción individual, el liderazgo y las voces de autoridad en las sociedades mediatizadas. En términos metodológicos, se vale de mi investigación etnográfica en el campo del running y el fitness, iniciada en 2016 en la ciudad de Buenos Aires; se sistematizan experiencias y relatos de vida de interlocutorxs destacadxs como “líderes digitales” y se analizan legislaciones en materia de publicidad y regulaciones laborales que habilitan a una mayor comprensión sobre la producción de modos de ser, pensar, sentir, actuar y relacionarnos en el nuevo orden global. Palabras clave: influencers del deporte, marcas, éxito, subjetividad, liderazgo BEING AN INFLUENCER. ADVERTISING BODIES, LEADERSHIP, AND RECOGNITION IN GLOBAL CAPITALISM Abstract The emergence of social media and the development of digital commercial strategies have favoured the proliferation of new actors who enable other ways of broadcasting content about our practices and lifestyles. Influencers, celebrities, and brand ambassadors are establishing themselves as a recognisable identity that transcends digital culture: driving value orientations and modelling contemporary subjectivities. Through a spectacle of the intimate and a rhetoric of authenticity that worships entertainment, they operate as references while displaying actions and dispositions that reveal encounters and misencounters between power and agentive capacity. This paper highlights a critical interrogation of the construction of social recognition, the image of success, individual distinction, leadership, and voices of authority in mediatised societies. In methodological terms, it draws on my ethnographic research in the field of running and fitness which began in 2016 in the city of Buenos Aires. It systematises the experiences and life stories of prominent interlocutors as ‘digital leaders’, and analyses legislation on advertising and labour regulations that enable a greater understanding of the production of ways of being, thinking, feeling, acting, and relating to one another in the new global order. Keywords: sports influencers, brands, success, subjectivity, leadership",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY-NC 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc/4.0"
+     },
+     "url": "https://doi.org/10.62174/arg.2025.10811",
+     "doi": "10.62174/arg.2025.10811",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.62174/arg.2025.10808",
+     "titulo": "Sociedad y Tecnologías Digitales: problemáticas, desafíos y nuevos debates en la era de las plataformas, los algoritmos y la Inteligencia Artificial",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Silvia Lago Matínez",
+       "orcid": null
+      },
+      {
+       "nombre": "Martín Gendler",
+       "orcid": null
+      },
+      {
+       "nombre": "Anahí Méndez",
+       "orcid": null
+      }
+     ],
+     "resumen": "Introducción al dossier",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc/4.0"
+     },
+     "url": "https://doi.org/10.62174/arg.2025.10808",
+     "doi": "10.62174/arg.2025.10808",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.62174/arg.2025.10839",
+     "titulo": "Sociedad y tecnologías digitales: problemáticas, desafíos y nuevos debates en la era de las plataformas, los algoritmos y la inteligencia artificial",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Fernando Peirone",
+       "orcid": null
+      },
+      {
+       "nombre": "Pablo Rodríguez",
+       "orcid": null
+      },
+      {
+       "nombre": "Marcelo Urresti",
+       "orcid": null
+      },
+      {
+       "nombre": "Ana Wortman",
+       "orcid": null
+      },
+      {
+       "nombre": "Silvia Lago Martínez",
+       "orcid": null
+      },
+      {
+       "nombre": "Martín Gendler",
+       "orcid": null
+      },
+      {
+       "nombre": "Anahí Mendez",
+       "orcid": null
+      }
+     ],
+     "resumen": "Participaron de esta Conversación Fernando Peirone, pablo \"Manolo\" Rodríguez, Marcelo Urresti y Ana Wortman, coordinados por Silvia Lago Martínez, Martín Gendler y Anahí Méndez. El debate tuvo lugar el 12 de mayo 2025 en el Instituto de Investigaciones Gino Germani.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc/4.0"
+     },
+     "url": "https://doi.org/10.62174/arg.2025.10839",
+     "doi": "10.62174/arg.2025.10839",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.62174/arg.2025.10831",
+     "titulo": "Tecnologías digitales, Estado y Movimiento Obrero: Transformaciones y desafíos bajo una gubernamentalidad algorítmica",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Gaspar Badano",
+       "orcid": null
+      }
+     ],
+     "resumen": "El creciente desarrollo de las tecnologías digitales ha producido profundas transformaciones socioculturales que se han inmerso en las prácticas laborales y organizacionales del Estado argentino. Una de ellas ha sido la aplicación del teletrabajo en la Administración Pública Nacional a partir de la crisis sanitaria ocasionada por el COVID-19 en el año 2020. Estas transformaciones habilitaron la problematización de nuevos espacios de representación y construcción política. Por un lado, este artículo propone un abordaje que incluye analizar las implicancias de las nuevas prácticas en el universo de las organizaciones sindicales en tanto actores sociales con capacidad de articular una disputa simbólica y discursiva de poder en la Argentina, particularmente con las redes sociales como nuevo escenario y herramienta para ello. En segunda instancia, se plantean las problemáticas y desafíos actuales hacia el interior de la construcción de un Estado cada vez más tecnificado, en consonancia con una gubernamentalidad algorítmica que busca disciplinar y ejercer control social desde el manejo de las tecnologías digitales. Sin una reconfiguración social efectiva, el profundo avance de estas tecnologías y el ejercicio totalitario tecnocrático pueden atentar contra las demandas democráticas en pos de garantizar su aprovechamiento político por parte de la clase dominante. Palabras clave: tecnologías digitales, movimiento obrero, Estado, tecnocracia DIGITAL TECHNOLOGIES, THE STATE AND THE LABOR MOVEMENT: TRANSFORMATIONS AND CHALLENGES UNDER ALGORITHMIC GOVERNANCE Abstract The growing development of digital technologies has produced deep socio-cultural transformations that have been immersed in the labor and organizational practices of the Argentine State. One of them has been the application of teleworking in the National Public Administration since the health crisis caused by COVID-19 in 2020. These transformations enabled the problematization of new spaces of representation and political construction. On the one hand, this article proposes an approach that includes analyze the implications of the new practices in the universe of trade union organizations as social actors with the capacity to articulate a symbolic and discursive dispute of power in Argentina, particularly with social media as a new arena and tool for doing so. In the second instance, the current problems and challenges within the construction of an increasingly technified State are raised, in line with an algorithmic governmentality that seeks to discipline and exercise social control through the management of digital technologies. Without effective social reconfiguration, the profound advancement of these technologies and totalitarian technocratic exercise may undermine democratic demands in order to guarantee their political exploitation by the ruling class. Keywords: digital technologies, labor movement, State, technocracy ARK CAICTY: https://id.caicyt.gov.ar/ark:/s16668979/m1s329dyx",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY-NC 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc/4.0"
+     },
+     "url": "https://doi.org/10.62174/arg.2025.10831",
+     "doi": "10.62174/arg.2025.10831",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.62174/arg.2025.10813",
+     "titulo": "“Mujeres hechas y derechas”: La construcción político-identitaria de las influencers políticas de La Libertad Avanza en Instagram.",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Camila Natalia Montaño",
+       "orcid": null
+      },
+      {
+       "nombre": "Paula Sturm",
+       "orcid": null
+      },
+      {
+       "nombre": "Pilar Pérez Díaz",
+       "orcid": null
+      }
+     ],
+     "resumen": "El trabajo tuvo como objetivo analizar la construcción político-identitaria de las influencers políticas del partido La Libertad Avanza (LLA) en Instagram en torno al día de la mujer (8 de marzo) entre 2021 y 2025, a partir de las disputas político-discursivas presentes en sus estrategias comunicativas. El trabajo siguió una metodología cualitativa retomando técnicas de análisis del discurso sobre un corpus compuesto por 53 publicaciones vinculadas al 8M. Integran el corpus las influencers Eugenia Rolón, Romina Diez, Leila Lemoine, María Celeste Ponce, Lu Palaveccino y Juliana Santillan Juarez Brahim. El análisis permitió identificar el uso de una estrategia comunicativa de carácter desvinculante por parte de las influencers en relación con el feminismo, así como distinguir analíticamente tres planos de intervención discursiva dentro de dicha estrategia: la resignificación, la memificación y la proyección de narrativas estético-corporales. El escrito propone dar cuenta de la importancia que tiene la configuración identitaria de las influencers políticas libertarias en la construcción partidaria de LLA, al tiempo que busca poner en el centro del análisis la cuestión anti género o anti feminista dentro de las derechas contemporáneas. Por último, considera fundamental dar cuenta de los matices entre la mujer influencers de LLA para evitar simplificaciones y no asumir como finalizada su construcción político-identitaria. Palabras clave: Feminismos, Derechas contemporáneas, Análisis del discurso, Instagram, La Libertad Avanza “RIGHT AND PROPER WOMEN”: THE POLITICAL-IDENTITY CONSTRUCTION OF LA LIBERTAD AVANZA’S POLITICAL INFLUENCERS ON INSTAGRAM Abstract This study aimed to analyze the political-identity construction of political influencers from La Libertad Avanza (LLA) on Instagram around International Women’s Day (8M), between 2021 and 2025, focusing on the political-discursive disputes present in their communicative strategies. A qualitative methodology was employed, using discourse analysis techniques applied to a corpus of 53 posts related to 8M. The corpus includes influencers Eugenia Rolón, Romina Diez, Leila Lemoine, María Celeste Ponce, Lu Palaveccino, and Juliana Santillán Juárez Brahim. The analysis identified the use of a communicative strategy of de-linking from feminism, as well as three analytically distinct levels of discursive intervention within this strategy: resignification, memification, and the projection of aesthetic-corporeal narratives. This paper seeks to highlight the significance of the identity configuration of libertarian political influencers in the party-building process of LLA, while also placing the anti-gender or anti-feminist agenda of contemporary right-wing movements at the center of the analysis. Finally, it stresses the importance of recognizing the differences among LLA’s women influencers in order to avoid simplifications and to refrain from treating their political-identity construction as complete. Keywords: feminisms, contemporary right-wing movements, discourse analysis, Instagram, La Libertad Avanza ARK CAICYT: https://id.caicyt.gov.ar/ark:/s16668979/s6ygo1cx6",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY-NC 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc/4.0"
+     },
+     "url": "https://doi.org/10.62174/arg.2025.10813",
+     "doi": "10.62174/arg.2025.10813",
+     "paginas": null,
+     "fuente": "Crossref"
+    }
+   ]
+  },
+  {
+   "id": "n31-2025",
+   "volumen": null,
+   "numero": "31",
+   "anio": 2025,
+   "fecha": "2025-04-21",
+   "etiqueta": "núm. 31 (2025)",
+   "fuente": "Crossref",
+   "articulos": [
+    {
+     "id": "10.62174/arg.2025.10350",
+     "titulo": "Editorial",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Argumentos. Revista de crítica social",
+       "orcid": null
+      }
+     ],
+     "resumen": "Número 31Septiembre 2024 - Abril 2025",
+     "idioma_resumen": null,
+     "licencia": {
+      "nombre": "CC BY-NC 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc/4.0"
+     },
+     "url": "https://doi.org/10.62174/arg.2025.10350",
+     "doi": "10.62174/arg.2025.10350",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.62174/arg.2025.10371",
+     "titulo": "El rol del agro frente a las crisis sociales. Representaciones de las/os argentinas/os durante la pandemia del Covid-19",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Natalia López Castro",
+       "orcid": null
+      },
+      {
+       "nombre": "Manuela Moreno",
+       "orcid": null
+      },
+      {
+       "nombre": "María Dolores Liaudat",
+       "orcid": null
+      },
+      {
+       "nombre": "Juan Ignacio Spólita",
+       "orcid": null
+      }
+     ],
+     "resumen": "En la Argentina, la crisis generada por la pandemia de Covid-19 habilitó, a nivel nacional, un espacio para rediscutir quiénes y de qué modo deberían aportar para sostener la economía en situaciones críticas. En este marco, se reavivó una discusión de larga data sobre el sector agropecuario y las formas de intervención estatal, ya que precisamente fue uno de los pocos que continuó produciendo e incluso se vio, en parte, favorecido por el incremento de los precios internacionales.En este artículo abordamos las representaciones de la sociedad argentina sobre el aporte del agro y algunas formas de intervención del Estado en el sector durante ese periodo crítico, a partir de los datos de dos encuestas online de alcance nacional, realizadas en el año 2021.El trabajo describe, en una primera parte, la situación del sector agropecuario durante la pandemia, las medidas implementadas por el Estado y los debates que suscitaron; y, en una segunda sección, se analizan las representaciones de la ciudadanía sobre el agro en la pandemia, a partir de brindar una imagen de los posicionamientos de conjunto y el vínculo de las respuestas con variables como el género, la región, la edad y la posición política.Palabras claves: agro, pandemia, representaciones sociales The role of agriculture in the face of social crises. Representations of Argentines during the Covid-19 pandemicAbstractIn Argentina, the crisis caused by the COVID-19 pandemic enabled, at a national level, a space to rediscuss who and in what ways they should contribute to sustain the economy during critical situations. In this context, a long-standing discussion about the agricultural sector and state intervention was revived, since that it was one of the few sectors of the economy that continued to produce and was even favoured by the increase of international commodities prices.In this paper, we analyze the representations of Argentine society on the contribution of the agricultural sector and some forms of State intervention during the pandemic crisisbased on data from two nationwide online surveys, carried out in 2021.The work describes, in a first section, the performance of the agricultural sector during the pandemic, the measures implemented by the State and the debates the raised. In a second section, the representations of citizens on the agricultural sector during the pandemic are analyzed, based on providing an image of the overall positions and the link of the responses with variables such as gender, region, age and political position.Key words: agricultura, pandemic, social representations",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY-NC 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc/4.0"
+     },
+     "url": "https://doi.org/10.62174/arg.2025.10371",
+     "doi": "10.62174/arg.2025.10371",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.62174/arg.2025.10351",
+     "titulo": "Equipo editorial",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Argumentos. Revista de crítica social",
+       "orcid": null
+      }
+     ],
+     "resumen": null,
+     "idioma_resumen": null,
+     "licencia": {
+      "nombre": "CC BY-NC 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc/4.0"
+     },
+     "url": "https://doi.org/10.62174/arg.2025.10351",
+     "doi": "10.62174/arg.2025.10351",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.62174/arg.2025.10374",
+     "titulo": "Frente al abismo. Estrategia sanitaria en Residencias para Personas Mayores durante la pandemia por COVID-19 en Argentina (2020)",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Sebastián García",
+       "orcid": null
+      },
+      {
+       "nombre": "Enrique Ríos",
+       "orcid": null
+      },
+      {
+       "nombre": "Hilario Bielsa",
+       "orcid": null
+      }
+     ],
+     "resumen": "La crisis del COVID-19 destacó la importancia de comprender cómo implementar políticas de salud efectivas en contextos inciertos. Este estudio se centra en la estrategia de abordaje de las Residencias para Personas Mayores (RPM) durante la pandemia del 2020 como caso paradigmático, a su vez que resalta los aprendizajes y factores clave para enfrentar emergencias sanitarias futuras. Se llevó a cabo una investigación cuali-cuantitativa retrospectiva que se basó en datos primarios y secundarios. Los datos primarios incluyeron registros de seguimiento, un cuestionario de evaluación de riesgo de brote en residencias, entrevistas a responsables de cinco provincias argentinas y datos de contacto y geolocalización de las RPM. Las fuentes secundarias abarcaron bases del Sistema Integrado de Información Sanitaria, el Sistema Nacional de Vigilancia en Salud, el Registro Federal de Establecimientos de Salud y documentos internos del Ministerio de Salud. Las RPM en Argentina mostraron una vulnerabilidad particular frente al COVID-19. A pesar de la falta de estructuras consolidadas y regulaciones claras, el Ministerio de Salud logró diseñar e implementar un conjunto de acciones preventivas e intersectoriales sobre las RPM. Se publicaron recomendaciones sanitarias con un enfoque estratégico preventivo basado en una lógica de riesgo, se cuantificó la población de residentes, se actualizó la cantidad de residencias, y se diseñó un plan de vacunación que incluyó la información relevada sobre las RPM. A pesar de las características generales del sistema de salud y de las particularidades de las RPM en Argentina, el Estado Nacional logró desarrollar una estrategia sanitaria de alcance nacional sobre las RPM en virtud de la capacidad de los equipos de trabajo para innovar frente a los desafíos de la pandemia. La búsqueda de reorganizar las estructuras y metodologías organizativas para una gestión más eficiente y adaptativa del sistema de salud en entornos imprevisibles, reviste un carácter estratégico.Palabras clave: Políticas de salud, personas mayores, COVID-19, salud pública, Residencias para Personas Mayores Facing the Abyss. Health Strategy in Long-Term Care Facilities for the Elderly (LTCF) during the COVID-19 Pandemic in Argentina (2020)AbstractThe COVID-19 crisis highlighted the importance of understanding how to implement effective health policies in uncertain contexts. This study focuses on the approach strategy for Elderly Residential Facilities (ERFs) during the 2020 pandemic as a paradigmatic case, while also highlighting key lessons and factors to address future health emergencies. A retrospective qualitative-quantitative investigation was conducted based on primary and secondary data. Primary data included follow-up records, an outbreak risk assessment questionnaire for residences, interviews with officials from five Argentine provinces, and contact and geolocation data of the ERFs. Secondary sources comprised databases from the Integrated Health Information System, the National Health Surveillance System, the Federal Health Establishments Registry, and internal documents from the Ministry of Health ERFs in Argentina demonstrated particular vulnerability to COVID-19. Despite a lack of consolidated structures and clear regulations, the Ministry of Health managed to design and implement a set of preventive and intersectoral actions for the ERFs. Health recommendations with a preventive strategic approach based on a risk logic were published; the resident population was quantified, the number of residences was updated, and a vaccination plan was designed that included information gathered about the ERFs. Despite the general characteristics of the health system and the particularities of the ERFs in Argentina, the National Government succeeded in developing a nationwide health strategy for the ERFs due to the capacity of work teams to innovate in the face of pandemic challenges. The pursuit of reorganizing structures and organizational methodologies for a more efficient and adaptive health system management in unpredictable environments is of strategic importance.Key words: Health policies, Elderly adults, COVID-19, Public health, Long-Term Care Facilities",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY-NC 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc/4.0"
+     },
+     "url": "https://doi.org/10.62174/arg.2025.10374",
+     "doi": "10.62174/arg.2025.10374",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.62174/arg.2025.10375",
+     "titulo": "Modelos interpretativos de la discapacidad y formas de autonomía en normativas argentinas sobre la certificación de la discapacidad, la declaración de capacidad/incapacidad jurídica y la oferta de servicios y prestaciones",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "María Cecilia Palermo",
+       "orcid": null
+      }
+     ],
+     "resumen": "El presente artículo analiza un conjunto de leyes, decretos y resoluciones sancionadas en Argentina entre 1981 y 2023 que establecen criterios para determinar la capacidad/incapacidad jurídica, clasificar y certificar la discapacidad, y gestionar servicios y prestaciones dirigidas a personas con discapacidad. Busca explorar qué expresa este marco legal acerca de la discapacidad e identificar los efectos sociales que ocasiona, principalmente en los derechos que son reconocidos y en las consideraciones sobre la autonomía de esta población. Para ello, indaga en los modelos interpretativos de la discapacidad que son incorporados en el marco legal, retomando los aportes de un grupo de autores/as que los caracterizan y analizan. El corpus documental se compone de publicaciones que condensan los principios de los modelos Social, Rehabilitador, Biopsicosocial y de Derechos Humanos. El corpus de normas se compone de una selección de leyes, decretos y resoluciones que se refieren a la definición de discapacidad, la declaración de incapacidad y la oferta de prestaciones y servicios para esta población. Se concluye que, pese al intento por incorporar la perspectiva de los modelos de Derechos Humanos y Biopsicosocial, aún resulta predominante el Rehabilitador, reforzando condiciones de opresión y desigualdad para las personas con discapacidad.Palabras clave: Discapacidad - Capacidad Jurídica – Marco normativo – Modelos interpretativos de la discapacidad – Argentina Interpretative models of disability and forms of autonomy of people with disabilities in the Argentine national legislationAbstractThis article analyzes a set of laws, decrees and resolutions enacted in Argentina between 1981 and 2023 that establish criteria for determining legal capacity/incapacity, classifying and certifying disability, and managing services and benefits for people with disabilities. It seeks to explore what this legal framework expresses about disability and to identify the social effects it causes, mainly in the rights that are recognized and in the considerations on the autonomy of this population. To this end, it investigates the interpretative models of disability that are incorporated in the legal framework, resuming the contributions of a group of authors who characterize and analyze them. The documentary corpus is composed of publications that condense the principles of the Social, Medical, Biopsychosocial and Human Rights models. The normative corpus is composed of a selection of laws, decrees and resolutions that refer to the definition of disability, the declaration of incapacity and the provision of benefits and services for this population. It is concluded that, despite the attempt to incorporate the perspective of the Human Rights and Biopsychosocial models, the Medical model is still predominant, reinforcing conditions of oppression and inequality for people with disabilities.Key Words: Disability - Legal capacity - Normative framework - Interpretative models of disability – Argentina",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY-NC 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc/4.0"
+     },
+     "url": "https://doi.org/10.62174/arg.2025.10375",
+     "doi": "10.62174/arg.2025.10375",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.62174/arg.2025.10380",
+     "titulo": "Número 31",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Argumentos. Revista de crítica social",
+       "orcid": null
+      }
+     ],
+     "resumen": "Número 31 completo.",
+     "idioma_resumen": null,
+     "licencia": {
+      "nombre": "CC BY-NC 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc/4.0"
+     },
+     "url": "https://doi.org/10.62174/arg.2025.10380",
+     "doi": "10.62174/arg.2025.10380",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.62174/arg.2025.10370",
+     "titulo": "Problemas metodológicos para la medición de la superpoblación relativa: las porciones encubiertas bajo la categoría de “inactivos” y el sesgo en los países de capitalismo avanzado",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Ricardo Donaire",
+       "orcid": null
+      }
+     ],
+     "resumen": "Existe cierta recuperación en las ciencias sociales en los últimos años del concepto de “superpoblación relativa”, entendida como una consecuencia inherente al desarrollo capitalista. Sin embargo, son pocas las estimaciones empíricas. Una divergencia en ellas es la forma de considerar a lo que las estadísticas laborales han denominado como “población inactiva”. En debate con estas mediciones, este artículo busca conceptualizar los sesgos que las distintas decisiones metodológicas producen en la estimación, especialmente en los países donde el capitalismo se encuentra más avanzado. Para ello, nos basamos en información estadística de diferentes organismos internacionales (Organización Internacional del Trabajo, Banco Mundial y Organización Naciones Unidas) para describir tendencias en el largo plazo en las últimas décadas hasta la actualidad e interpretar la forma en que pueden ser asociadas teóricamente con diferentes modalidades de la superpoblación relativa. Se pondrá especial foco en la vinculación de esta categoría con las siguientes porciones donde la inactividad es alta: adultos mayores, mujeres en edad laboral y jóvenes.Palabras clave: superpoblación – población inactiva – capitalismo Methodological problems for the measurement of relative surplus population: the portions disguised under the category of “inactive” and the bias in advanced capitalist countries. AbstractIn recent years, there has been a certain recovery in the social sciences of the concept of “relative surplus population”, understood as an inherent consequence of capitalist development. However, empirical estimates are few. One divergence in them is how to consider what labor statistics have termed the “inactive population”. In debate with these measurements, this article seeks to conceptualize the biases that different methodological decisions produce in the estimation, especially in countries where capitalism is more advanced. To this end, we rely on statistical information from different international organizations (ILO, World Bank and UN) to describe long-term trends over the last decades to the present and interpret how they can be theoretically associated with different forms of relative surplus population. Special focus will be placed on linking this category with the following portions where inactivity is high: older adults, working age women and youth.Key-words: surplus population – inactive population – capitalism",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY-NC 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc/4.0"
+     },
+     "url": "https://doi.org/10.62174/arg.2025.10370",
+     "doi": "10.62174/arg.2025.10370",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.62174/arg.2025.10372",
+     "titulo": "Redes socio-institucionales e innovación, una estrategia para el desarrollo del territorio. El caso del Centro de Investigación y Desarrollo en Iglesia, 2021-2024",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Margarita Moscheni",
+       "orcid": null
+      },
+      {
+       "nombre": "Juan Jesús Hernández",
+       "orcid": null
+      }
+     ],
+     "resumen": "El objetivo de este trabajo es reflexionar sobre la importancia que tiene para el desarrollo de un territorio la conformación de redes, en las que el Estado y la innovación tienen un rol fundamental. Para ello se toma como estudio de caso al Centro de Investigación y Desarrollo del departamento Iglesia, en San Juan, Argentina. Se lo elige porque es la primera institución en ese lugar que se origina a partir de la conformación de redes, con un fuerte componente científico-tecnológico, cuyo objetivo es la revalorización del patrimonio biocultural ancestral, enfocado en la producción agrícola de más de 2000 años atrás. Predomina el abordaje cualitativo, y sus resultados son producto de entrevistas a los referentes de las principales instituciones que conforman la red, además de la lectura de documentos especializados. Se expone un caso concreto de innovación pública que se concreta en una red socioinstitucional, identificando dificultades y desafíos.Por último, las redes son una alternativa para instituciones públicas que carecen de algunos recursos pero que, los que tienen son complementarios con otras organizaciones estatales, en similar situación y objetivos. Un aliado estratégico es el agente que financia, pero más importante son las ideas creativas, el conocimiento y el dominio de la tecnología. Para el caso de estudio, la recuperación del capital social ancestral combinado con las tecnologías actuales en un territorio rico en historia, cultura y suelo, fue una combinación clave en ese sentido.Palabras claves: redes interinstitucionales, desarrollo territorial, estado, innovación, recursos Socio-institutional networks and innovation, a strategy for the development of the territoryAbstractThe objective of this work is to reflect on the importance that the formation of networks has for the development of a territory, in which the State and innovation play a fundamental role. For this, the Church Research and Development Center, a poorly developed department, in San Juan, Argentina, is taken as a case study. It was chosen because it is the first institution that originates from the formation of networks in that place, with a strong scientific-technological component, whose objective is the revaluation of ancestral biocultural heritage, focusing on agricultural production from more than 2000 years ago. The qualitative approach predominates, and its results are the product of interviews with the leaders of the main institutions that make up the network, in addition to the reading of specialized documents. A specific case of public innovation that takes shape in a socio-institutional network is presented, identifying difficulties and challenges.Finally, networks are an alternative for public institutions that lack some resources but those they have are complementary to other state organizations, in a similar situation and objectives. A strategic ally is the agent that finances, but more important are the creative ideas, knowledge and mastery of technology. For the case study, the recovery of ancestral social capital combined with current technologies in a territory rich in history, culture and soil, was a key combination in that sense.Keywords: interinstitutional networks, territorial development, state, innovation, resources",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY-NC 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc/4.0"
+     },
+     "url": "https://doi.org/10.62174/arg.2025.10372",
+     "doi": "10.62174/arg.2025.10372",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.62174/arg.2025.10369",
+     "titulo": "Representación y popularidad: la soberanía y la cuestión de la democracia en el Leviatán de Hobbes",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Martín Ariel Rosales",
+       "orcid": null
+      }
+     ],
+     "resumen": "Partiendo de la idea que entiende a la democracia moderna sólo posible en su faceta representativa, sin que ello degenere el principio del gobierno popular, el concepto de representación política se torna clave para comprender la modernidad política. En tal sentido, Pitkin señala que el abordaje de dicha noción enfrenta un problema a partir del pensamiento político de Hobbes, quien —a pesar de establecer las distinciones entre autor y actor— incurre en la difícil postulación de una soberanía absoluta que haría desaparecer la idea misma de representación. Más allá de la caracterización habitual del pensamiento hobbesiano como antidemocrático, la propuesta de este texto es rastrear el uso del concepto de democracia en el Leviatán, pensándolo como una de las posibles formas de gobierno que puede asumir la soberanía absoluta. Por un lado, se indagan los riesgos de las nociones de ambición y popularidad de los súbditos, como preocupación clave de las objeciones hobbesianas en torno a la democracia. Por el otro, distinguiendo el concepto de autorización hobbesiana respecto de la idea de “representación” de los intereses del pueblo como misión del soberano, se plantea la cuestión de la representatividad como elemento clave de la estabilidad del orden político. Finalmente, se explora la actualidad que las preocupaciones hobbesianas pueden tener los procesos democráticos del presente.Palabras clave: Soberanía – democracia – ambición política – representatividad Representation and popularity: sovereignty and the question of democracy in Hobbes's LeviathanAbstractStarting from the idea that modern democracy is only possible in its representative aspect, without this degenerating the principle of popular government, the concept of political representation becomes key to understanding political modernity. In this sense, Pitkin points out that the approach to this notion faces a problem based on the political thought of Hobbes, who –despite establishing the distinctions between author and actor– incurs the difficult postulation of absolute sovereignty that would make the idea of representation itself disappear. Beyond the usual characterization of Hobbesian thought as antidemocratic, the proposal of this text is to trace the use of the concept of democracy in Leviathan, thinking of it as one of the possible forms of government that absolute sovereignty can assume. On the one hand, the risks of the notions of ambition and popularity of subjects are investigated, as a key concern of Hobbesian objections to democracy. On the other hand, distinguishing the concept of Hobbesian authorization from the idea of “representation” of the interests of the people as a mission of the sovereign, the question of representativeness is raised as a key element of the stability of the political order. Finally, the relevance of Hobbesian concerns to present-day democratic processes is explored.Keywords: Sovereignty – democracy – political ambition – representativeness.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY-NC 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc/4.0"
+     },
+     "url": "https://doi.org/10.62174/arg.2025.10369",
+     "doi": "10.62174/arg.2025.10369",
+     "paginas": null,
+     "fuente": "Crossref"
+    }
+   ]
+  }
+ ]
+};

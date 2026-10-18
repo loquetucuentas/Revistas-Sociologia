@@ -1,0 +1,1470 @@
+// Copia de revistas/1982-4718.json para abrir la aplicación sin servidor.
+(window.DATOS_REVISTAS = window.DATOS_REVISTAS || {})["revistas/1982-4718.json"] = {
+ "version": 1,
+ "generado": "2026-10-18T05:53:59+00:00",
+ "es_prueba": false,
+ "revista": {
+  "id": "1982-4718",
+  "titulo": "Estudos de Sociologia",
+  "idioma_titulo": null,
+  "titulo_alternativo": null,
+  "idioma_titulo_alternativo": null,
+  "idiomas": [
+   "es",
+   "pt"
+  ],
+  "issn_impreso": "1414-0144",
+  "issn_electronico": "1982-4718",
+  "editorial": "Universidade Estadual Paulista, Faculdade de Ciências e Letras de Araraquara",
+  "pais": "BR",
+  "materias": [
+   "Sociology (General)"
+  ],
+  "palabras_clave": [
+   "sociology",
+   "social conditions",
+   "economic conditions",
+   "politics and government"
+  ],
+  "licencias": [
+   {
+    "nombre": "CC BY-NC-ND 4.0",
+    "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+   }
+  ],
+  "url": "http://seer.fclar.unesp.br/estudos",
+  "url_doaj": "https://doaj.org/toc/1982-4718",
+  "descripcion": null,
+  "fuente_ficha": "DOAJ",
+  "archivo": "revistas/1982-4718.json",
+  "ultimo_numero": "Publicación continua (2026)",
+  "fuente_numeros": "Crossref"
+ },
+ "numeros": [
+  {
+   "id": "2026",
+   "volumen": null,
+   "numero": null,
+   "anio": 2026,
+   "fecha": "2026-10-10",
+   "etiqueta": "Publicación continua (2026)",
+   "fuente": "Crossref",
+   "articulos": [
+    {
+     "id": "10.52780/res.v31iesp.1.21326",
+     "titulo": "Sob novas engrenagens",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Iram Jácome Rodrigues",
+       "orcid": "https://orcid.org/0000-0002-5593-2505"
+      },
+      {
+       "nombre": "Jacob Carlos Lima",
+       "orcid": "https://orcid.org/0000-0001-6475-9575"
+      },
+      {
+       "nombre": "Aline Suelen Pires",
+       "orcid": "https://orcid.org/0000-0001-5932-1050"
+      }
+     ],
+     "resumen": null,
+     "idioma_resumen": null,
+     "licencia": null,
+     "url": "https://doi.org/10.52780/res.v31iesp.1.21326",
+     "doi": "10.52780/res.v31iesp.1.21326",
+     "paginas": "e026002",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.52780/res.v31iesp.1.21118",
+     "titulo": "condição operária revisitada",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Iram Jácome Rodrigues",
+       "orcid": "https://orcid.org/0000-0002-5593-2505"
+      },
+      {
+       "nombre": "Jacob Carlos Lima",
+       "orcid": "https://orcid.org/0000-0001-6475-9575"
+      }
+     ],
+     "resumen": "Este artigo discute resultados de pesquisa realizada com trabalhadores de três empresas do setor automotivo em São Bernardo do Campo, no Grande ABC Paulista, base do Sindicato dos Metalúrgicos do ABC. Este texto representa uma revisita a esses personagens e a um território fundamentais nas mobilizações com a irrupção da vaga grevista a partir de 1978. Quem são esses trabalhadores hoje? Como podemos caracterizar a condição operária? Podemos falar em fragmentação da classe e sua reconfiguração frente aos determinantes estruturais, econômicos, tecnológicos e políticos da reestruturação capitalista das últimas décadas? Como isso se reflete na ação sindical, seus impasses, limites e dificuldades? Em que medida a relação com o trabalho mudou e que implicações traz para o cotidiano fabril? Buscando responder a isso, a pesquisa concentrou-se em três montadoras, com observação do trabalho, aplicação de questionários e entrevistas com lideranças no sindicato e nas Comissões Sindicais de Empresa (CSEs).",
+     "idioma_resumen": "pt",
+     "licencia": null,
+     "url": "https://doi.org/10.52780/res.v31iesp.1.21118",
+     "doi": "10.52780/res.v31iesp.1.21118",
+     "paginas": "e026003",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.52780/res.v31iesp.1.21105",
+     "titulo": "categoria em transformação",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Aline Suelen Pires",
+       "orcid": "https://orcid.org/0000-0001-5932-1050"
+      },
+      {
+       "nombre": "Carla Regina Mota Alonso Diéguez",
+       "orcid": "https://orcid.org/0000-0003-3851-6857"
+      }
+     ],
+     "resumen": "O artigo analisa as transformações geracionais entre trabalhadores metalúrgicos do ABC Paulista, a partir de entrevistas, survey e observação em montadoras automotivas. Inspirado na literatura clássica sobre o tema, identifica quatro gerações — fundadora, das greves, da reestruturação produtiva e “4.0” —, delimitadas por experiências históricas e trajetórias de socialização no trabalho. O foco de análise recai sobre a geração da reestruturação produtiva, cerne da pesquisa qualitativa, marcada por tensões entre heranças do modelo fordista e mudanças recentes na cultura do trabalho. A análise evidencia a coexistência de permanências e rupturas, com destaque para a perda de centralidade simbólica da condição operária, a crescente individualização e as dificuldades de engajamento coletivo. Ao mesmo tempo, o emprego industrial mantém relevância relativa em um contexto de precarização mais ampla. Por fim, problematiza-se a noção de uma “geração 4.0”, ressaltando sua heterogeneidade e apontando desafios para a ação sindical e futuras pesquisas.",
+     "idioma_resumen": "pt",
+     "licencia": null,
+     "url": "https://doi.org/10.52780/res.v31iesp.1.21105",
+     "doi": "10.52780/res.v31iesp.1.21105",
+     "paginas": "e026004",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.52780/res.v31iesp.1.21085",
+     "titulo": "Formação sindical como ação estratégica",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Hélio Da Costa",
+       "orcid": "https://orcid.org/0000-0003-0113-2200"
+      },
+      {
+       "nombre": "Lilian Rose Arruda",
+       "orcid": "https://orcid.org/0009-0007-9406-4898"
+      }
+     ],
+     "resumen": "Este artigo analisa a política de formação sindical do Sindicato dos Metalúrgicos do ABC e como, no decorrer dos anos, essa política respondeu às necessidades impostas pelas mudanças no mundo do trabalho. Desde a década de 1980 o Sindicato dos Metalúrgicos do ABC colocou a formação sindical como prioridade nas resoluções de seus congressos: o III de 1999 priorizou a prática como ferramenta fundamental para implementar a sua estratégia de organização. A formação do Sindicato, contudo, necessitou acompanhar as mudanças que ocorriam no mundo do trabalho que envolviam o enfrentamento às reestruturações produtivas desencadeadas pelas empresas do setor a partir, sobretudo, da década de 1990. Neste sentido, a combinação de organização no local de trabalho, negociação coletiva, articulação internacional e formação sindical tratando desses temas contribuiu para criar as condições para o sindicato responder aos desafios impostos pelo capitalismo neoliberal.",
+     "idioma_resumen": "pt",
+     "licencia": null,
+     "url": "https://doi.org/10.52780/res.v31iesp.1.21085",
+     "doi": "10.52780/res.v31iesp.1.21085",
+     "paginas": "e026005",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.52780/res.v31iesp.1.21080",
+     "titulo": "Lideranças metalúrgicas no estado de São Paulo",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Fernando Ramalho Martins",
+       "orcid": "https://orcid.org/0000-0002-8032-9361"
+      },
+      {
+       "nombre": "Filipe Augusto Freitas Melo",
+       "orcid": "https://orcid.org/0000-0001-7326-5710"
+      }
+     ],
+     "resumen": "Este artigo analisa o perfil social e as trajetórias de militância de lideranças sindicais metalúrgicas vinculadas à Federação Estadual dos Metalúrgicos da Central Única dos Trabalhadores (FEM-CUT) no Estado de São Paulo. A pesquisa combina dados quantitativos provenientes de um survey aplicado durante a 9ª Plenária Estatutária da FEM-CUT/SP, realizada em 2025, com entrevistas em profundidade conduzidas com dirigentes sindicais de diferentes sindicatos metalúrgicos paulistas. Os resultados indicam que o perfil dessas lideranças apresenta características relativamente estáveis, como predominância masculina, elevada experiência sindical e escolaridade crescente. As trajetórias analisadas sugerem mudanças nas bases sociais da militância sindical. Observa-se entre as lideranças entrevistadas a recorrência de trajetórias associadas à reprodução intergeracional da condição operária e à construção gradual da militância no interior do universo fabril. O artigo contribui para a compreensão das bases sociais do sindicalismo metalúrgico contemporâneo e dos processos de formação de lideranças no interior da classe trabalhadora.",
+     "idioma_resumen": "pt",
+     "licencia": null,
+     "url": "https://doi.org/10.52780/res.v31iesp.1.21080",
+     "doi": "10.52780/res.v31iesp.1.21080",
+     "paginas": "e026006",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.52780/res.v31iesp.1.21018",
+     "titulo": "Relações de trabalho e ação sindical em territórios Greenfield",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Raphael Jonathas da Costa Lima",
+       "orcid": "https://orcid.org/0000-0001-9702-0515"
+      },
+      {
+       "nombre": "Maria Carolina Barcellos",
+       "orcid": "https://orcid.org/0009-0002-1829-1486"
+      }
+     ],
+     "resumen": "O artigo investiga como a ação sindical se constitui em um contexto produtivo greenfield, tomando como estudo de caso a atuação do Sindicato dos Trabalhadores nas Indústrias Metalúrgicas, Mecânicas e de Material Elétrico de Pernambuco (SINDMETAL-PE) na planta da Stellantis em Goiana (PE). A partir de pesquisa qualitativa baseada em observação direta e entrevistas realizadas em 2022 e 2026, analisa-se como o sindicato interpreta e responde às transformações nas relações de trabalho e na organização produtiva do polo. Os resultados evidenciam um quadro ambíguo, no qual persistem práticas antissindicais, rotatividade elevada e desigualdades salariais, ao mesmo tempo em que se observam processos de adaptação e fortalecimento da representação sindical. Argumenta-se que, embora a expansão produtiva se apoie em desigualdades territoriais, ela também engendra dinâmicas socioprodutivas que reconfiguram a ação coletiva e as institucionalidades do trabalho em territórios de implantação recente.",
+     "idioma_resumen": "pt",
+     "licencia": null,
+     "url": "https://doi.org/10.52780/res.v31iesp.1.21018",
+     "doi": "10.52780/res.v31iesp.1.21018",
+     "paginas": "e026007",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.52780/res.v31iesp.1.21017",
+     "titulo": "Trabajadores automotrices y sindicatos frente a las políticas de desindustrialización del gobierno de Milei",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Juan Montes Cato",
+       "orcid": "https://orcid.org/0000-0002-5835-4878"
+      },
+      {
+       "nombre": "Lucas Spinosa",
+       "orcid": "https://orcid.org/0000-0003-2772-7544"
+      },
+      {
+       "nombre": "Walter Bosisio",
+       "orcid": null
+      }
+     ],
+     "resumen": "Las políticas de ajuste y desindustrialización del gobierno de Milei afectan el empleo, la calidad del trabajo y las relaciones laborales. Si bien el entramado automotriz, en especial las montadoras, cuentan con beneficios especiales para garantizar su rentabilidad, no han quedado exentas del impacto negativo de estas políticas que estimulan la especulación financiera por sobre la producción industrial. Para analizar qué aspectos se vieron erosionados en las relaciones laborales a partir de la asunción del nuevo gobierno interesa observar aquellas reformas que inciden directa o indirectamente en el sector automotriz y en qué medida refuerzan un proceso de disciplinamiento de la fuerza de trabajo y de los sindicatos. Interesa también analizar aquellas que inciden en el desarrollo del actor sindical.",
+     "idioma_resumen": "es",
+     "licencia": null,
+     "url": "https://doi.org/10.52780/res.v31iesp.1.21017",
+     "doi": "10.52780/res.v31iesp.1.21017",
+     "paginas": "e026008",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.52780/res.v31iesp.1.21007",
+     "titulo": "Digitalización de la producción y rupturas en las dinámicas laborales",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Ana Drolas",
+       "orcid": "https://orcid.org/0000-0002-3391-332X"
+      },
+      {
+       "nombre": "Marcelo Delfini",
+       "orcid": "https://orcid.org/0000-0003-0047-6888"
+      },
+      {
+       "nombre": "Lucía Tomasini",
+       "orcid": "https://orcid.org/0009-0009-4947-1624"
+      },
+      {
+       "nombre": "Hollman León",
+       "orcid": "https://orcid.org/0000-0003-2609-7018"
+      }
+     ],
+     "resumen": "El objetivo del presente artículo es indagar acerca de los efectos de las transformaciones digitales sobre las dinámicas laborales que se desarrollan en empresas autopartistas en el marco de los procesos de digitalización. Se trata de indagar, en primera instancia, sobre la profundidad de los cambios incorporados por las empresas y los efectos de ello sobre la organización productiva, las condiciones de trabajo y las relaciones laborales. Para ello, el análisis se llevará adelante en firmas de autopartes de la localidad santafesina de Rafaela, en virtud de que esta localidad cuenta con un sector autopartista de fuerte raigambre histórica, firmas proveedoras de terminales y un peso sustancial en el nivel de empleo local y nacional. La base empírica se conforma a partir de una metodología cualitativa, desarrollada a partir de entrevistas a delegados sindicales de las empresas objeto de estudio y secretarios generales del sector.",
+     "idioma_resumen": "es",
+     "licencia": null,
+     "url": "https://doi.org/10.52780/res.v31iesp.1.21007",
+     "doi": "10.52780/res.v31iesp.1.21007",
+     "paginas": "e026009",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.52780/res.v31iesp.1.21102",
+     "titulo": "Ensaio",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Mario Sergio Salerno",
+       "orcid": "https://orcid.org/0000-0002-2025-2534"
+      }
+     ],
+     "resumen": "Trata-se de ensaio baseado em experiência de trabalho tanto junto a Sindicatos, mais especificamente junto à Subseção DIEESE no Sindicato dos Metalúrgicos de São Bernardo e Diadema, quanto no Departamento de Engenharia de Produção da Escola Politécnica da USP. A partir de contextualização inicial sobre as atividades no DIEESE e a relação com Sindicatos, o texto analisa evolutivamente as mudanças nas fábricas e nas empesas automotivas, do just-in-time e modularização até a inteligência artificial, relacionando-as com o ambiente econômico e social, e com as lutas organizadas de trabalhadores.",
+     "idioma_resumen": "pt",
+     "licencia": null,
+     "url": "https://doi.org/10.52780/res.v31iesp.1.21102",
+     "doi": "10.52780/res.v31iesp.1.21102",
+     "paginas": "e026010",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.52780/res.v31iesp.1.21356",
+     "titulo": "Entre a fábrica e o futuro",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Iram Jácome Rodrigues",
+       "orcid": "https://orcid.org/0000-0002-5593-2505"
+      },
+      {
+       "nombre": "Hélio da Costa",
+       "orcid": "https://orcid.org/0000-0003-0113-2200"
+      },
+      {
+       "nombre": "Filipe Augusto Freitas Melo",
+       "orcid": "https://orcid.org/0000-0001-7326-5710"
+      },
+      {
+       "nombre": "Aline Suelen Pires",
+       "orcid": "https://orcid.org/0000-0001-5932-1050"
+      }
+     ],
+     "resumen": "O presente relato apresenta trechos de uma entrevista com Wellington Messias Damasceno, realizada em agosto e setembro de 2025 no âmbito do projeto A condição operária revisitada: os trabalhadores da indústria automotiva paulista no início do século XXI. Atual presidente eleito do Sindicato dos Metalúrgicos do ABC, Wellington reconstrói sua trajetória, marcada pela influência das lutas operárias, pela formação no SENAI da Volkswagen e pela atuação sindical iniciada na juventude. O depoimento articula memória familiar, qualificação profissional e engajamento político, evidenciando transformações no trabalho industrial decorrentes da automação, da robotização e da reorganização produtiva. Também analisa os desafios contemporâneos do sindicalismo diante das mudanças tecnológicas, geracionais e organizacionais, discutindo as dificuldades de mobilização da base trabalhadora. Por fim, reflete sobre o futuro da indústria automotiva, a reestruturação produtiva global e seus impactos nas relações de trabalho e na organização dos trabalhadores.",
+     "idioma_resumen": "pt",
+     "licencia": null,
+     "url": "https://doi.org/10.52780/res.v31iesp.1.21356",
+     "doi": "10.52780/res.v31iesp.1.21356",
+     "paginas": "e26011",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.52780/res.v31i00.21056",
+     "titulo": "Entre o adormecer e a vigília",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Gabriel Barth da Silva",
+       "orcid": "https://orcid.org/0000-0001-6893-211X"
+      }
+     ],
+     "resumen": "O presente trabalho versa sobre os avanços históricos relativos à produção sociológica que se dedicou ao estudo do sono. A formação do campo da Sociologia do Sono pode ser compreendida como um esforço para a investigação dos diversos fenômenos sociais que afetam e são afetados pela prática de adormecer no cotidiano. Sono e vigília, desse modo, são percebidos como experiências fundamentalmente sociais, sendo constituídos por noções morais, afetivas e econômicas. Contudo, apesar do avanço da área, argumento que ainda há um debate relativo aos limites de como a Sociologia pode estudar e compreender o sono. Após a realização de uma revisão de literatura de caráter narrativo, foi possível identificar caminhos produtivos para a Sociologia contemporânea do sono a partir dos estudos da Decolonialidade, da Teoria Ator-Rede e da Sociologia Psicológica. Concluo com este trabalho que a Sociologia do Sono deve se abrir à interdisciplinaridade, tensionando os limites do que pode constituir um objeto sociológico.",
+     "idioma_resumen": "pt",
+     "licencia": null,
+     "url": "https://doi.org/10.52780/res.v31i00.21056",
+     "doi": "10.52780/res.v31i00.21056",
+     "paginas": "e026012",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.52780/res.v31i00.21092",
+     "titulo": "Corpos e migrações internacionais na produção brasileira recente e suas bases teóricas e conceituais",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Marcelo Ennes",
+       "orcid": "https://orcid.org/0000-0002-9937-543X"
+      },
+      {
+       "nombre": "Oswaldo Truzzi",
+       "orcid": "https://orcid.org/0000-0002-9046-5092"
+      }
+     ],
+     "resumen": "Neste artigo, procuramos identificar e comentar as bases teóricas e conceituais de alguns artigos recentes de autoras/es brasileiras/os sobre imigração em que o corpo é uma referência analítica e/ou empírica. O interesse pelo tema tem origem no entendimento de que, na passagem do século XIX ao XX, o corpo era frequentemente associado à raça, entendida a partir de características físicas e biológicas, enquanto hoje — temos por hipótese — esse não é o entendimento corrente. Para atingir nosso objetivo, foi realizado um levantamento de artigos publicados entre 2000 e 2022. Como resultado, verificou-se que, entre os autores mais referenciados, estão Michel Foucault, Judith Butler e Pierre Bourdieu. Com base nesses autores e em seus conceitos, foi possível observar que o corpo é acionado para descrever e analisar, de um lado, processos de dominação, invisibilização e precarização e, de outro, para se referir a expressões da agência de imigrantes.",
+     "idioma_resumen": "pt",
+     "licencia": null,
+     "url": "https://doi.org/10.52780/res.v31i00.21092",
+     "doi": "10.52780/res.v31i00.21092",
+     "paginas": "e026013",
+     "fuente": "Crossref"
+    }
+   ]
+  },
+  {
+   "id": "2025",
+   "volumen": null,
+   "numero": null,
+   "anio": 2025,
+   "fecha": "2025-12-28",
+   "etiqueta": "Publicación continua (2025)",
+   "fuente": "Crossref",
+   "articulos": [
+    {
+     "id": "10.52780/res.v30iesp1.20045",
+     "titulo": "A sociologia como esporte de combate",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Maria Chaves Jardim",
+       "orcid": "https://orcid.org/0000-0001-5715-1430"
+      }
+     ],
+     "resumen": null,
+     "idioma_resumen": null,
+     "licencia": null,
+     "url": "https://doi.org/10.52780/res.v30iesp1.20045",
+     "doi": "10.52780/res.v30iesp1.20045",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.52780/res.v30iesp1.20063",
+     "titulo": "Afrânio Garcia e a sociologia de Pierre Bourdieu; mundo rural, diversificação do campo do poder, elites intelectuais acadêmicas e redes de colaborações internacionais",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Antonio José Pedroso Neto",
+       "orcid": "https://orcid.org/0000-0002-6509-527X"
+      }
+     ],
+     "resumen": null,
+     "idioma_resumen": null,
+     "licencia": null,
+     "url": "https://doi.org/10.52780/res.v30iesp1.20063",
+     "doi": "10.52780/res.v30iesp1.20063",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.52780/res.v30i2.20117",
+     "titulo": "Artes feministas para alegrar becos tristes",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Paula Guerra",
+       "orcid": "https://orcid.org/0000-0003-2377-8045"
+      }
+     ],
+     "resumen": "Compreender o que significa ser mulher e artista dentro das (sub)(pós)- subculturas no Sul Global torna-se tarefa crucial no presente. Tal linha de abordagem pretende produzir conhecimentos que se distanciem das perspectivas unidirecionais para (e nos países) do Norte Global. Nesse sentido, exploramos como as práticas do-it-yourself (DIY), articuladas aos movimentos feministas, num viés decolonial e interseccional, se arrogam enquanto formas de existência cultural-artística versus uma definição tradicionalista de tais formas de enfrentamento enquanto modos de resistência. Nos países do Sul Global, persistem diversas (e cumulativas) barreiras à representatividade de gênero nas cenas artísticas e culturais – resultado de uma longa tradição vigente, no âmbito das sociedades patriarcais, que perpetuam a hegemonia masculina. Este artigo reflete as narrativas e as percepções de trinta mulheres artistas brasileiras que, apesar das violências simbólicas que enfrentam, constroem formas marcantes e multifacetadas de (re)existência cultural e artística no Brasil.",
+     "idioma_resumen": "pt",
+     "licencia": null,
+     "url": "https://doi.org/10.52780/res.v30i2.20117",
+     "doi": "10.52780/res.v30i2.20117",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.52780/res.v30iesp1.19744",
+     "titulo": "As razões (do sucesso) de Olavo de Carvalho (1983-2016)",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Lidiane Soares Rodrigues",
+       "orcid": "https://orcid.org/0000-0003-2011-9888"
+      }
+     ],
+     "resumen": "Este trabalho sustenta que a principal razão do sucesso de Olavo de Carvalho/OC (1947-2022) consistiu no encaixe único entre suas “estratégias de escritura e de autor” e o mercado das reações antipetistas, no início das gestões presidenciais consecutivas de Luís Inácio Lula da Silva e Dilma Rousseff (2003- 2016). Por um lado, OC treinou-se, desde os anos 1980, no enfrentamento de acadêmicos na mídia impressa carioca, prática que lhe garantiu uma posição entre filósofos católicos polígrafos e a acumulação primitiva de capital anti-intelectual. Por outro lado, as políticas educacionais petistas desestabilizaram hierarquias simbólicas e estimularam expectativas econômicas e culturais que não satisfez. OC soube fazerse porta-voz destas frustrações nacionais pois há décadas era portador de desilusões análogas. O caso em tela suscita reservas críticas à sociologia dos intelectuais, por sua inusitada desatenção ao nexo entre sistema de ensino, morfologia e política na análise do mercado de “opiniões” em que Olavo “tem razão”.",
+     "idioma_resumen": "pt",
+     "licencia": null,
+     "url": "https://doi.org/10.52780/res.v30iesp1.19744",
+     "doi": "10.52780/res.v30iesp1.19744",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.52780/res.v30iesp1.19345",
+     "titulo": "Breve relato sobre os estudos de elites no extremo sul do Brasil",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Ernesto Seidl",
+       "orcid": "https://orcid.org/0000-0002-1099-6206"
+      }
+     ],
+     "resumen": "O artigo reflete sobre como a teoria bourdieusiana tem sido mobilizada por parte dos interessados em estudar elites no Brasil. Para tanto, o autor retoma aspectos da formação recebida por um grupo reunido na Universidade Federal do Rio Grande do Sul em torno do professor O. L. Coradini. A discussão central destaca os seguintes elementos: as dimensões conceituais, ênfases e encaminhamentos metodológicos privilegiados na elaboração das agendas de pesquisa; os recortes empíricos, grupos e instituições que receberam mais atenção; e, sobretudo, com quais mediações e ponderações esses esquemas têm servido a estudos sobre diferentes grupos dominantes.",
+     "idioma_resumen": "pt",
+     "licencia": null,
+     "url": "https://doi.org/10.52780/res.v30iesp1.19345",
+     "doi": "10.52780/res.v30iesp1.19345",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.52780/res.v30iesp1.19350",
+     "titulo": "Circulação internacional entre agentes do Ministério Público",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Treicy Giovanella",
+       "orcid": "https://orcid.org/0000-0002-0328-9327"
+      }
+     ],
+     "resumen": "A proposta deste texto é discutir uma agenda de pesquisa sobre o Ministério Público (MP) a partir das contribuições da sociologia política e seus caminhos de análise. As investigações sobre esta instituição têm se avolumado nas últimas décadas e possibilitam a exploração de dimensões do processo de institucionalização do grupo que devem ser aprofundadas. A centralidade da instituição no problema de pesquisa visa elaborar tanto os efeitos estruturais da formação do espaço institucionalizado quanto apontar para a possibilidade de aprofundamento da compreensão da dinâmica de internacionalização no universo do direito. Após uma breve discussão do conhecimento já estabelecido sobre o MP indico caminhos de análises a partir das características da formação de grupos de promotores militantes que disputam a definição legítima da instituição.",
+     "idioma_resumen": "pt",
+     "licencia": null,
+     "url": "https://doi.org/10.52780/res.v30iesp1.19350",
+     "doi": "10.52780/res.v30iesp1.19350",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.52780/res.v30i2.19854",
+     "titulo": "Cirugía estética",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Joaquin Molina",
+       "orcid": "https://orcid.org/0009-0000-5416-8210"
+      }
+     ],
+     "resumen": "Los cirujanos estéticos lidian con pacientes que disponen de expectativas estéticas y que pueden evaluar el resultado de la operación con un golpe de vista. Partiendo de esta premisa, este artículo se propone analizar una serie de publicaciones médicas argentinas sobre rinoplastias de la primera mitad del siglo XX con el objeto de identificar las prácticas, dispositivos y rutinas ideadas por estos profesionales para gestionar las expectativas de los candidatos a la operación. El artículo se organiza en cuatro partes, que dan cuenta de distintas instancias de la interacción médico-paciente: el examen diagnóstico y la indicación quirúrgica; la evaluación psicológica de los pacientes; la “verdad” y la “mentira” en las consultas prequirúrgicas; y el lugar de la fotografía médica en el diagnóstico, la proyección y la evaluación de resultados. El artículo despliega un enfoque original al abordar un objeto de estudio que ha sido escasamente explorado desde una perspectiva histórica.",
+     "idioma_resumen": "es",
+     "licencia": null,
+     "url": "https://doi.org/10.52780/res.v30i2.19854",
+     "doi": "10.52780/res.v30i2.19854",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.52780/res.v30iesp1.19349",
+     "titulo": "Cultura e política em Juiz de Fora-MG",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Mariana Cardozo Batista de Oliveira",
+       "orcid": "https://orcid.org/0000-0002-6269-0348"
+      }
+     ],
+     "resumen": "O presente trabalho tem por objetivo apresentar achados de pesquisas que tenho realizado com eleitores e ativistas na cidade de Juiz de Fora - MG, nas quais investigo como o volume e a composição dos capitais apresentados por estes agentes se relaciona com o seu comportamento político e/ou eleitoral, buscando posicioná-los em espaços sociais construídos por meio da técnica de análise de correspondências múltiplas (ACM). Essas investigações se orientam pelo pressuposto de que o conceito de habitus permite fazer avanços significativos no que tange à compreensão do comportamento e do engajamento políticos no contexto brasileiro contemporâneo. Pensando em termos de um campo científico, a análise do comportamento político de grupos é realizada majoritariamente por uma ciência política de base norte-americana. A ideia, aqui, é apresentar uma abordagem alternativa, pautada teórico-metodologicamente em uma sociologia francesa, sobretudo bourdieusiana, como uma tentativa de buscar uma posição própria na produção “legítima” do conhecimento.",
+     "idioma_resumen": "pt",
+     "licencia": null,
+     "url": "https://doi.org/10.52780/res.v30iesp1.19349",
+     "doi": "10.52780/res.v30iesp1.19349",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.52780/res.v30iesp1.18752",
+     "titulo": "Da sociologia do espaço do poder na França aos estudos de “elites” no Brasil",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Igor Gastal Grill",
+       "orcid": "https://orcid.org/0000-0003-4285-9684"
+      },
+      {
+       "nombre": "Eliana Tavares dos Reis",
+       "orcid": "https://orcid.org/0000-0001-9357-2339"
+      }
+     ],
+     "resumen": "Neste artigo buscamos assinalar algumas das contribuições de Pierre Bourdieu e de pesquisadores próximos às investigações sobre “elites”, sobretudo à delimitação de uma sociologia política não canônica. Para tanto, num primeiro momento, acentuamos os principais interlocutores e discussões que redundaram na tonificação da sociologia política francesa com inspiração “bourdieusiana”. A partir disso, procuramos pontuar a gestação de um esquema analítico que reverberou em reflexões dirigidas a configurações nacionais discrepantes daquelas que estimularam suas formulações originais. Num segundo momento, tomando como ponto de partida os Grupos de Trabalho da Anpocs (1970-2021) destinados a derivações da mesma temática, apresentamos alguns circuitos de pesquisadores/as que investiram, em diferentes contextos e com distintos sentidos, no tratamento de grupos dirigentes, bem como se notabilizaram pela operacionalização/difusão do “modelo de Bourdieu” no Brasil.",
+     "idioma_resumen": "pt",
+     "licencia": null,
+     "url": "https://doi.org/10.52780/res.v30iesp1.18752",
+     "doi": "10.52780/res.v30iesp1.18752",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.52780/res.v30iesp1.20043",
+     "titulo": "Encontros com Pierre Bourdieu",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Paulo José de Carvalho Moura",
+       "orcid": null
+      },
+      {
+       "nombre": "Mateus Tobias Vieira",
+       "orcid": "https://orcid.org/0000-0002-6558-8779"
+      }
+     ],
+     "resumen": null,
+     "idioma_resumen": null,
+     "licencia": null,
+     "url": "https://doi.org/10.52780/res.v30iesp1.20043",
+     "doi": "10.52780/res.v30iesp1.20043",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.52780/res.v30i2.20061",
+     "titulo": "Exóticos, distintos e amados",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Jorge Leite Júnior",
+       "orcid": "https://orcid.org/0000-0001-6234-9169"
+      }
+     ],
+     "resumen": "O objetivo deste artigo é refletir sobre os chamados “pets exóticos” ou “não convencionais” e sua capacidade de evocar distinção social. Embasados nos Human-Animal Studies, nos estudos sobre distinção, em dados do mercado e pesquisa de campo em duas pet shops especializadas na cidade de São Paulo, buscamos compreender a relação entre consumo, animais e afetos. Inferimos que o traço distintivo está menos na posse e mais na sensibilidade para “gostar” de tais mascotes.",
+     "idioma_resumen": "pt",
+     "licencia": null,
+     "url": "https://doi.org/10.52780/res.v30i2.20061",
+     "doi": "10.52780/res.v30i2.20061",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.52780/res.v30iesp1.19304",
+     "titulo": "Hotéis e hoteleiros no litoral",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Marina de Souza Sartore",
+       "orcid": "https://orcid.org/0000-0002-7935-4105"
+      },
+      {
+       "nombre": "Antônio Daniel Alves Carvalho",
+       "orcid": "https://orcid.org/0000-0003-0839-0704"
+      },
+      {
+       "nombre": "Wanderson José Francisco Gomes",
+       "orcid": "https://orcid.org/0000-0001-5788-0174"
+      }
+     ],
+     "resumen": "A litoralização suscita o cálculo da capacidade de carga do litoral. Neste artigo, usamos a sociologia de Pierre Bourdieu para argumentar que uma sociogênese da ocupação do litoral precede o cálculo de sua capacidade de carga. Pressupomos que o espaço físico do litoral é um espaço social reificado, pois reflete as lutas simbólicas de seus agentes sociais. Usamos a prosopografia para desenhar os primeiros contornos do espaço social dos hoteleiros à beira-mar em Maceió, estado de Alagoas, entre 1900 e 1979. Nossos resultados mostram três tipologias de hotel: o hotel palacete, o hotel vertical-moderno e o resort pé-na-areia, que ocupam posições distintas no campo de acordo com a distribuição de capitais de seus hoteleiros. Os fatores determinantes que distinguem os agentes sociais são capital cultural (escolaridade) e capital social (pertencimento a associações de hotéis) no eixo horizontal e capital econômico hereditário, estatal, comercial e matrimonial no eixo vertical.",
+     "idioma_resumen": "pt",
+     "licencia": null,
+     "url": "https://doi.org/10.52780/res.v30iesp1.19304",
+     "doi": "10.52780/res.v30iesp1.19304",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.52780/res.v30i2.18388",
+     "titulo": "Linguagem, comunicação e controle na teoria dos sistemas e na cibernética",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Alessandra Scherma Schurig",
+       "orcid": "https://orcid.org/0000-0002-8268-6215"
+      }
+     ],
+     "resumen": "Este artigo examina as ideias de controle da comunicação a partir de uma análise exploratória qualitativa bibliográfica, com foco nas concepções de Norbert Wiener e Niklas Luhmann. A investigação considera a hipótese de linguagem centrada na comunicação adotada por ambas as teorias, buscando avaliar se os princípios compartilhados são suficientes para sustentar a possibilidade de controle da entropia comunicacional e, consequentemente, da linguagem. Além disso, o estudo explora as perspectivas dessas teorias sobre a importância da linguagem para seres humanos e máquinas, bem como a existência de um possível compartilhamento linguístico entre ambos.",
+     "idioma_resumen": "pt",
+     "licencia": null,
+     "url": "https://doi.org/10.52780/res.v30i2.18388",
+     "doi": "10.52780/res.v30i2.18388",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.52780/res.v30iesp1.19450",
+     "titulo": "Lições a partir do campo",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Rodrigo Constante Martins",
+       "orcid": "https://orcid.org/0000-0003-2700-3319"
+      }
+     ],
+     "resumen": "O objetivo deste texto é apresentar um esforço prospectivo da abordagem bourdiesiana para os temas contemporâneos do rural – particularmente em contextos sociais marcados pela história colonial. De modo específico, se buscará lançar algumas hipóteses analíticas para a compreensão de elementos da ambientalização dos conflitos agrários no Brasil a partir do diálogo com a obra de Bourdieu – em especial com suas etnografias na Argélia colonial e o estudo sobre os camponeses do Béarn.",
+     "idioma_resumen": "pt",
+     "licencia": null,
+     "url": "https://doi.org/10.52780/res.v30iesp1.19450",
+     "doi": "10.52780/res.v30iesp1.19450",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.52780/res.v30iesp1.18629",
+     "titulo": "Lutas simbólicas e produção siderúrgica na Amazônia",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Marcelo Sampaio Carneiro",
+       "orcid": "https://orcid.org/0000-0002-7474-2694"
+      }
+     ],
+     "resumen": "Esse artigo possui por objetivo discutir a utilização da sociologia desenvolvida por Pierre Bourdieu para a análise do funcionamento de campos econômicos, conferindo atenção especial ao papel desempenhado pelas lutas simbólicas na conformação desses campos. A partir de pesquisas realizadas sobre a atividade siderúrgica na Amazônia brasileira, atividade submetida a forte contestação social, analiso o desenvolvimento de investimentos simbólicos realizados por determinadas empresas, para enfrentarem a crítica ao uso de trabalho escravo na cadeia de fornecedores de carvão vegetal e para se posicionarem no debate sobre a necessidade descarbonização da produção siderúrgica, através da construção do chamado “aço verde”. A partir desse exemplo de teoria aplicada nos atos de pesquisa, procuro mostrar a fecundidade da teoria dos campos para o estudo dos fatos econômicos, como uma abordagem capaz de dar conta das relações dinâmicas que são estabelecidas entre empresas e demais agentes que participam do campo econômico, a partir do escrutínio dos diferentes tipos de trunfos (capitais) detidos por cada um deles.",
+     "idioma_resumen": "pt",
+     "licencia": null,
+     "url": "https://doi.org/10.52780/res.v30iesp1.18629",
+     "doi": "10.52780/res.v30iesp1.18629",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.52780/res.v30iesp1.19137",
+     "titulo": "Lógicas distintivas, circulação cultural e tensionamento de fronteiras simbólicas",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Ana Lúcia De Castro",
+       "orcid": "https://orcid.org/0000-0002-6165-7722"
+      },
+      {
+       "nombre": "Beatriz Oliveira",
+       "orcid": null
+      }
+     ],
+     "resumen": "Nas duas últimas décadas, a cidade de São Paulo vem sendo palco da implementação de políticas públicas de incentivo à produção cultural realizada em suas diversas regiões periféricas, ocasionando a ampliação de iniciativas e coletivos culturais, que sinalizam e reivindicam marcas da experiência e sociabilidade locais. Paralelamente, processos sociais mais amplos – como a intensificação da circulação de repertórios pela mundialização da cultura e políticas de inclusão social – vêm possibilitando a ampliação da circulação de agentes periféricos por espaços de consagração da cultura legítima, antes restritos aos grupos dominantes. Em face deste cenário, o artigo sugere a hipótese de configuração de uma modalidade de capital cultural específico, que combina a experiência cotidiana da periferia com a incorporação de linguagens e formas de expressão legitimadas pelas instâncias de consagração, enfatizando as formas como este capital vem sendo mobilizado no tensionamento das lógicas de distinção que sustentam as hierarquias simbólicas estabelecidas.",
+     "idioma_resumen": "pt",
+     "licencia": null,
+     "url": "https://doi.org/10.52780/res.v30iesp1.19137",
+     "doi": "10.52780/res.v30iesp1.19137",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.52780/res.v30i2.20093",
+     "titulo": "Maracatu de baque virado no norte global",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Luciana Ferreira Moura Mendonça",
+       "orcid": "https://orcid.org/0000-0002-5489-1932"
+      }
+     ],
+     "resumen": "O presente artigo analisa a globalização das músicas tradicionais brasileiras por meio do estudo do caso dos maracatus de baque virado no norte global, sobretudo na Europa. Analisam-se os processos mais gerais que colaboram para a internacionalização dos maracatus, bem como os sentidos que a cultura popular tradicional brasileira adquire no exterior. O estudo baseia-se em pesquisa bibliográfica e uma entrevista em profundidade com o criador/diretor de um maracatu em Berlin, o percussionista Fabiano Lima. Com o intuito de conferir maior concretude à análise, dar-se-á destaque às conexões entre os maracatus de Pernambuco e dois grupos percussivos na Europa: o Baque Forte (Berlim), criado e dirigido por Fabiano Lima; e o Baque de Axé (Londres), filiado à Nação do Maracatu Porto Rico, de Recife. Conclui-se que as redes entre maracatus locais e internacionais envolvem processos de globalização que atuam em vários níveis.",
+     "idioma_resumen": "pt",
+     "licencia": null,
+     "url": "https://doi.org/10.52780/res.v30i2.20093",
+     "doi": "10.52780/res.v30i2.20093",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.52780/res.v30i2.19856",
+     "titulo": "Memórias e identidades da comunidade quilombola do Cuscuz – Maracás/BA",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Silvano da Conceição",
+       "orcid": "https://orcid.org/0000-0002-3577-2268"
+      },
+      {
+       "nombre": "Fabrício Diego Santos Gomes",
+       "orcid": "https://orcid.org/0000-0002-8188-8771"
+      }
+     ],
+     "resumen": "O objetivo deste artigo foi explorar a formação histórica da comunidade conhecida como Rua do Cuscuz, situada no município de Maracás/Ba, por meio das memórias ancestrais de seus moradores, com foco na composição étnica do grupo e nas ações coletivas voltadas para a reafirmação identitária por meio das práticas culturais festivas. O método empregado foi o da História Oral e a técnica empregada para a coleta de dados, foi a entrevista semiestruturada com registros audiovisuais. Os resultados indicam que a comunidade do Cuscuz preserva sua identidade coletiva e empreende lutas de (re)existência mesmo antes da abolição da escravatura. Dentre as formas de resistência, destaca-se a busca do sustento a partir da produção e venda do cuscuz, como também as práticas festivas católicas no pós-abolição; que compreendemos ser um meio de estabelecer um diálogo fronteiriço com a sociedade hegemônica de Maracás. Além de servir como plataforma para reivindicações de direitos constitucionais para o povo quilombola.",
+     "idioma_resumen": "pt",
+     "licencia": null,
+     "url": "https://doi.org/10.52780/res.v30i2.19856",
+     "doi": "10.52780/res.v30i2.19856",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.52780/res.v30i2.20467",
+     "titulo": "Novas perspectivas do bem-estar cultural",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Roberta Paltrinieri",
+       "orcid": "https://orcid.org/0000-0001-6991-2487"
+      },
+      {
+       "nombre": "Giulia Allegrini",
+       "orcid": null
+      }
+     ],
+     "resumen": "Este ensaio baseia-se em uma pesquisa realizada em 2021-2022 pela Fundação Escola de Bens e Atividades Culturais do Ministério da Cultura da Itália. Os dados obtidos fornecem uma visão geral interessante de uma realidade emergente no terceiro setor italiano, as “comunidades de patrimônio” – grupos formais ou informais capazes de aprimorar e preservar o patrimônio cultural tangível e intangível da Itália. Este artigo define essas comunidades de patrimônio como caminhos para o bem-estar cultural. Ele propõe identificar nas comunidades do patrimônio mecanismos inovadores em termos de práticas e políticas de bemestar cultural, uma nova forma de bem-estar inspirada pelo reconhecimento da Organização Mundial da Saúde, em 2019, da relação fundamental entre cuidado e cultura.",
+     "idioma_resumen": "pt",
+     "licencia": null,
+     "url": "https://doi.org/10.52780/res.v30i2.20467",
+     "doi": "10.52780/res.v30i2.20467",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.52780/res.v30i2.20075",
+     "titulo": "Patrimônio gastronômico, mobilidade turística e distinção",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Giulia Crippa",
+       "orcid": "https://orcid.org/0000-0002-6711-3144"
+      },
+      {
+       "nombre": "Marco Antonio de Almeida",
+       "orcid": "https://orcid.org/0000-0003-2481-8571"
+      }
+     ],
+     "resumen": "O artigo explora a relação entre gastronomia, mobilidade turística e distinção social, fundamentando-se na teoria de Pierre Bourdieu. Parte-se da premissa de que a alimentação vai além da nutrição, atuando como marcador de status e identidade cultural. O consumo de alimentos e vinhos tradicionais, por exemplo, está ligado ao capital cultural e social, reforçando divisões de classe. Assim, a globalização e a digitalização transformaram a gastronomia numa experiência midiática e simbólica, onde a distinção se expressa pelo acesso a restaurantes de luxo e pela patrimonialização da culinária. O turismo enogastronômico reflete essa dinâmica, segmentando visitantes entre consumidores de experiências elitizadas e turistas de massa. Além disso, o texto critica a invenção de tradições gastronômicas e o uso do storytelling para criar narrativas que legitimam práticas excludentes. No contexto atual, o desejo pela alta gastronomia é reforçado pela mídia, mas permanece inacessível para muitos, mantendo uma posição social através do consumo.",
+     "idioma_resumen": "pt",
+     "licencia": null,
+     "url": "https://doi.org/10.52780/res.v30i2.20075",
+     "doi": "10.52780/res.v30i2.20075",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.52780/res.v30i2.19136",
+     "titulo": "Por um método de pesquisa sociológico do ator naturalista no cinema",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Sandro de Oliveira",
+       "orcid": "https://orcid.org/0000-0001-5717-8991"
+      }
+     ],
+     "resumen": "A história do trabalho do ator profissional em filmes narrativosrepresentativos é marcada por uma busca incessante pela autenticidade de técnica, repertórios e também a emulação de comportamentos que ambiciona a autoridade da imitação. O jogo do ator naturalista, para atingir tal eficiência na produção de personagens ficcionais, lançou mão de um trabalho de pesquisa que Damour (2019) nomeou de método sociológico do ator cinematográfico. Este trabalho intenta, portanto, tecer um percurso interdisciplinar (estudos atorais – sociologia) do trabalho atoral, enfatizando seus passos, percalços e características mais pregnantes.",
+     "idioma_resumen": "pt",
+     "licencia": null,
+     "url": "https://doi.org/10.52780/res.v30i2.19136",
+     "doi": "10.52780/res.v30i2.19136",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.52780/res.v30iesp1.19347",
+     "titulo": "Reflexões sobre a dimensão simbólica do processo de empresarização e a constituição do habitus empresarial",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Sabrina Sampaio Rakow",
+       "orcid": "https://orcid.org/0000-0001-5801-6994"
+      },
+      {
+       "nombre": "Marcio Silva Rodrigues",
+       "orcid": "https://orcid.org/0000-0002-8810-7077"
+      },
+      {
+       "nombre": "Larissa Ferreira Tavares",
+       "orcid": "https://orcid.org/0000-0002-4962-9833"
+      },
+      {
+       "nombre": "Elaine da Silveira Leite",
+       "orcid": "https://orcid.org/0000-0003-1402-3839"
+      }
+     ],
+     "resumen": "Caracterizado pela generalização da ideia de empresa em nosso mundo, o processo de empresarização enquanto abordagem teórica vem sendo debatido, no Brasil, a partir das mais variadas perspectivas e objetos. Neste estudo, nos propomos a realizar uma associação inédita entre a teoria da empresarização às principais contribuições de Pierre Bourdieu para discutir a dimensão simbólica do referido processo e delinear o conceito de habitus empresarial. Observar a dimensão simbólica desse processo, nos permitiu compreender que o habitus empresarial como uma força socializadora, carrega um conjunto de valores e saberes não apenas relacionado a aspectos essencialmente mercadológicos e utilitários, sustentando uma crença nos preceitos empresariais e dando ainda mais força e legitimidade ao processo de empresarização.",
+     "idioma_resumen": "pt",
+     "licencia": null,
+     "url": "https://doi.org/10.52780/res.v30iesp1.19347",
+     "doi": "10.52780/res.v30iesp1.19347",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.52780/res.v30iesp1.20046",
+     "titulo": "Representações intelectuais e científicas e práticas mercantis",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Marie-France Garcia-Parpet",
+       "orcid": null
+      }
+     ],
+     "resumen": "No quadro do debate que anima as ciências sociais a respeito da relação entre economia, sociologia e história, a autora reflete a respeito do papel que exercem as representações sociais da economia, notadamente as representações intelectuais e científicas, e mostra que, longe de serem neutras e se limitando a constatar a realidade, elas têm um papel ativo na própria gênese e na transformação das instituições econômicas. Ela se funda em pesquisas feitas em diferentes contextos geográficos e históricos, na França e no Brasil, para analisar como, em configurações específicas, os modelos aplicados para entender as práticas dos diferentes agentes podem contribuir para a sua consagração ou, ao contrário, para seu descrédito.",
+     "idioma_resumen": "pt",
+     "licencia": null,
+     "url": "https://doi.org/10.52780/res.v30iesp1.20046",
+     "doi": "10.52780/res.v30iesp1.20046",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.52780/res.v30iesp1.20049",
+     "titulo": "campo de lutas e de forças",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Frédéric Lebaron",
+       "orcid": "https://orcid.org/0000-0002-1459-2161"
+      }
+     ],
+     "resumen": "Com base em um estudo qualitativo de um corpus de textos em inglês e francês, analisamos as tomadas de posições sobre a governança na zona do euro durante o período de 2010 a 2016: elas delineiam um espaço multidimensional estruturado em torno de polos opostos, mas definindo um continuum de orientações. Como se estruturam umas em relação às outras, elas devem ser vistas como elementos de uma relação de forças. A definição da noção de tomada de posição é o tema da primeira parte, seguida de uma “tentativa de construção” do espaço em uma base qualitativa. É feita uma distinção entre a ortodoxia jurídico-institucional, as tomadas de posições antieuro e várias tentativas de reforma institucional e política, bem como as “não-tomadas de posição”. Em seguida, concluímos com uma análise da dinâmica da mudança durante a sequência histórica estudada.",
+     "idioma_resumen": "pt",
+     "licencia": null,
+     "url": "https://doi.org/10.52780/res.v30iesp1.20049",
+     "doi": "10.52780/res.v30iesp1.20049",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.52780/res.v30i2.20030",
+     "titulo": "construção do capital cultural dos neonativos digitais",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Elder Patrick Maia Alves",
+       "orcid": "https://orcid.org/0000-0003-4896-1962"
+      },
+      {
+       "nombre": "Débora Nunes de Sousa Lima",
+       "orcid": "https://orcid.org/0000-0002-6805-9450"
+      }
+     ],
+     "resumen": "Este trabalho aborda a construção do capital cultural dos neonativos digitais. Nos últimos vinte anos, a intensificação do processo de digitalização da vida reduziu a legitimidade do capital cultural transmitido pelos pais e chancelado pela escola. No entanto, fragmentos do capital cultural mais distintivo, incorporados na primeira e segunda infância, são utilizados por essa geração para obter um bom desempenho escolar. Os neonativos digitais que pertencem a famílias com maior renda e escolaridade constroem uma infraestrutura tecnológica doméstica responsável pelo advento do capital informacional-digital-tecnológico, útil para a obtenção de um bom desempenho em exames como o ENEM. Esses dois fatores – a apropriação de fragmentos do capital cultural oriundo da família e da escola e a incorporação de um novo capital informacional-digital-tecnológico – se traduzem em competências cognitivas decisivas para o bom desempenho escolar dessa geração, especialmente aqueles que pertencem às famílias que dispõem de maior renda e escolaridade.",
+     "idioma_resumen": "pt",
+     "licencia": null,
+     "url": "https://doi.org/10.52780/res.v30i2.20030",
+     "doi": "10.52780/res.v30i2.20030",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.52780/res.v30i2.19991",
+     "titulo": "despojamento elegante",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Maria Celeste Mira",
+       "orcid": "https://orcid.org/0000-0002-1073-3297"
+      },
+      {
+       "nombre": "Beatriz Salgado Cardoso de Oliveira",
+       "orcid": "https://orcid.org/0000-0003-2486-5570"
+      }
+     ],
+     "resumen": "Desde que Pierre Bourdieu publicou La distinction, a cultura contemporânea passou por grandes transformações, o que tem levado a um profícuo debate sobre seus conceitos. Com essa intenção, pesquisamos marcas slow fashion na cidade de São Paulo nos anos de 2023 e 2024, tendo como pergunta em que medida a emergência da questão ecológica e da preocupação com a “sustentabilidade” teria alterado o consumo de moda a ponto de tornar os conceitos bourdieusianos inoperantes, notadamente o de distinção. A investigação sobre as propostas e a trajetória das produtoras, bem como do perfil e da motivação dos consumidores da moda slow demonstrou, ao contrário, que neste espaço social, onde supostamente vigorariam apenas os valores “politicamente corretos”, os mecanismos de distinção se redefinem e se reafirmam sob novas bases.",
+     "idioma_resumen": "pt",
+     "licencia": null,
+     "url": "https://doi.org/10.52780/res.v30i2.19991",
+     "doi": "10.52780/res.v30i2.19991",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.52780/res.v30iesp1.20044",
+     "titulo": "diversificação do “campo de poder” em Pierre Bourdieu e apontamentos para agenda de pesquisas no Brasil",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Afrânio Raul Garcia Junior",
+       "orcid": null
+      }
+     ],
+     "resumen": "O texto visa discutir a evolução do conceito de “campo de poder” segundo Pierre Bourdieu, as pesquisas que o suscitaram e validaram a sua afirmação como portador de novas interrogantes sobre o espaço social a serem examinadas. Começa por examinar a autonomização do campo intelectual e do campo religioso, seguida pelo estudo do campo político e finda pelo polo dominante do campo de poder nas sociedades modernas, o campo econômico. Tais considerações inspiram enunciar pistas de investigações empíricas a serem realizadas no Brasil.",
+     "idioma_resumen": "pt",
+     "licencia": null,
+     "url": "https://doi.org/10.52780/res.v30iesp1.20044",
+     "doi": "10.52780/res.v30iesp1.20044",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.52780/res.v30i2.20466",
+     "titulo": "fronteiras porosas do universo cultural contemporâneo",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Marco Antonio de Almeida",
+       "orcid": "https://orcid.org/0000-0003-2481-8571"
+      },
+      {
+       "nombre": "Giulia Crippa",
+       "orcid": "https://orcid.org/0000-0002-6711-3144"
+      }
+     ],
+     "resumen": null,
+     "idioma_resumen": null,
+     "licencia": null,
+     "url": "https://doi.org/10.52780/res.v30i2.20466",
+     "doi": "10.52780/res.v30i2.20466",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.52780/res.v30iesp1.20050",
+     "titulo": "noção de campo em Pierre Bourdieu",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Monique de Saint Martin",
+       "orcid": null
+      }
+     ],
+     "resumen": "A noção de campo foi gradualmente desenvolvida por Pierre Bourdieu, primeiro a partir de pesquisas sobre os intelectuais, os escritores, o mundo científico, bem como graças à releitura de Max Weber. Pensar em termos de campo é, antes de tudo, pensar relacionalmente, e pensar as relações de força e as relações de luta e dominação. Este texto não pretende dar uma definição do campo, mas evocar, mesmo que de forma um tanto subjetiva, alguns pontos importantes e centrais dessa teoria que Bourdieu vinha desenvolvendo. Também levanta algumas questões sobre o uso, por vezes abusivo, da noção de campo, para apelar à vigilância na sua utilização.",
+     "idioma_resumen": "pt",
+     "licencia": null,
+     "url": "https://doi.org/10.52780/res.v30iesp1.20050",
+     "doi": "10.52780/res.v30iesp1.20050",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.52780/res.v30i2.19995",
+     "titulo": "representatividade nos arranjos sociotécnicos de legitimação do canto popular contemporâneo",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Edson Farias",
+       "orcid": "https://orcid.org/0000-0002-9406-3269"
+      }
+     ],
+     "resumen": "O objetivo deste artigo se concentra nos agenciamentos artísticos musicais nos circuitos de circulação e recepção de bens simbólicos audiovisuais. A finalidade é examinar as mediações com incidência no entrelaçamento mútuo da adoção de estratégias de visibilidade por diferentes perfis de individualidades artísticas com a tomada de posição frente a pautas que envolvem moralidades e a legitimação de bens simbólicos. A tônica analítica estará depositada no encontro entre Madonna, Anitta e Pablo Vittar, no show da cantora estadunidense Madonna, ocorrido em 4 de maio de 2024, na praia de Copacabana, no Rio de Janeiro. A proposta, no limite, é situar esse encontro entre o que defino por arranjos de visibilidade/legitimação.",
+     "idioma_resumen": "pt",
+     "licencia": null,
+     "url": "https://doi.org/10.52780/res.v30i2.19995",
+     "doi": "10.52780/res.v30i2.19995",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.52780/res.v30iesp1.19348",
+     "titulo": "senso político profano como prática ou como a política poderia ser",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Alexandre Aparecido dos Santos",
+       "orcid": "https://orcid.org/0000-0001-5901-8262"
+      }
+     ],
+     "resumen": "O presente artigo apresenta parte dos resultados de uma pesquisa sobre o pensar-fazer político de eleitores sem filiação partidária residentes em uma cidade de pequeno porte no interior paulista. Pesquisa que teve como um de seus objetivos: perceber e objetivar a relação entre os bens simbólicos produzidos e veiculados pelo campo político e o modo pelo qual os agentes consumidores desses bens simbólicos constroem suas percepções diante do cenário político municipal e nacional. E, ao resultar na produção de um conhecimento relacional sobre o pensar-fazer político desses eleitores, nos permite apresentar o senso político enquanto expressão de uma prática política que está para além da ideia de uma simples manipulação oriunda do efeito de encerramento simbólico produzido pelo campo político nacional.",
+     "idioma_resumen": "pt",
+     "licencia": null,
+     "url": "https://doi.org/10.52780/res.v30iesp1.19348",
+     "doi": "10.52780/res.v30iesp1.19348",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.52780/res.v30i2.20078",
+     "titulo": "“Culturas de periferia”, 20 anos depois",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Livia de Tommasi",
+       "orcid": "https://orcid.org/0000-0003-1263-8354"
+      }
+     ],
+     "resumen": null,
+     "idioma_resumen": null,
+     "licencia": null,
+     "url": "https://doi.org/10.52780/res.v30i2.20078",
+     "doi": "10.52780/res.v30i2.20078",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.52780/res.v30i3.20869",
+     "titulo": "Apresentação",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Antonio José Pedroso Neto",
+       "orcid": "https://orcid.org/0000-0002-6509-527X"
+      },
+      {
+       "nombre": "Ana Carolina Bichoffe",
+       "orcid": "https://orcid.org/0000-0001-5830-3379"
+      }
+     ],
+     "resumen": null,
+     "idioma_resumen": null,
+     "licencia": null,
+     "url": "https://doi.org/10.52780/res.v30i3.20869",
+     "doi": "10.52780/res.v30i3.20869",
+     "paginas": "1041-1053",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.52780/res.v30i3.12846",
+     "titulo": "difusão da “lógica econômica”",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Allana Meirelles",
+       "orcid": "https://orcid.org/0000-0001-9925-8965"
+      }
+     ],
+     "resumen": "Este artigo analisa os economistas-colunistas e seus investimentos editoriais, a fim de compreender a difusão e a legitimação da doxa econômica, a diferenciação dos perfis de publicação em correlação com as posições que os agentes ocupam no campo do poder e no mercado de opiniões, bem como as possibilidades de pretensão intelectual e ganhos simbólicos. Para tanto, foram analisados 33 economistas-colunistas que escreveram nos principais jornais do país – Folha de S.Paulo, O Estado de S.Paulo e O Globo – entre 2014 e 2022. A pesquisa baseou-se na prosopografia e na análise qualitativa dos paratextos dos 160 livros publicados pelos economistas-colunistas entre 2000 e 2025.",
+     "idioma_resumen": "pt",
+     "licencia": null,
+     "url": "https://doi.org/10.52780/res.v30i3.12846",
+     "doi": "10.52780/res.v30i3.12846",
+     "paginas": "1101-1122",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.52780/res.v30i3.20239",
+     "titulo": "Folha de S.Paulo, lei rouanet e o mercado de patrocínios culturais incentivados",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Rafaela Araújo Lopes",
+       "orcid": "https://orcid.org/0009-0005-7065-6579"
+      },
+      {
+       "nombre": "Bruno Costa Barreiros",
+       "orcid": "https://orcid.org/0000-0002-7609-0001"
+      }
+     ],
+     "resumen": "Embora seja reconhecida a relevância das investigações sobre a Lei Rouanet na perspectiva de política pública, poucas pesquisas têm se debruçado sobre o mercado de patrocínios culturais incentivados. Partindo dos aportes da sociologia econômica, o artigo apresenta uma análise dos contextos políticos, culturais e econômicos, bem como das tendências discursivas que influenciam e caracterizam este mercado, a partir de um corpus formado por 863 matérias publicadas na Folha de São Paulo no período entre 2013 e 2023. A análise aborda as estratégias publicitárias na Folha e o papel do Estado, a emergência de uma agenda política conservadora e as disputas em torno da Lei Rouanet, a transformação discursiva e a relevância do ideário da sustentabilidade nas mudanças da concepção de controle. A pesquisa mostra, sobretudo, como o mercado estudado, após sobreviver a ataques simbólicos intensos, renova a sua legitimidade a partir das ideias de sustentabilidade e de economia criativa.",
+     "idioma_resumen": "pt",
+     "licencia": null,
+     "url": "https://doi.org/10.52780/res.v30i3.20239",
+     "doi": "10.52780/res.v30i3.20239",
+     "paginas": "1123-1150",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.52780/res.v30i3.20203",
+     "titulo": "El periodismo de datos y los usos de indicadores de buena gobernanza y calidad institucional en Argentina (1996-2018)",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Nicolás Vladimir Chuchco",
+       "orcid": "https://orcid.org/0000-0003-3450-201X"
+      }
+     ],
+     "resumen": "Este trabajo analiza cómo los indicadores de calidad institucional y gobernanza son difundidos en la prensa argentina, enfocándose en el diario La Nación por su extensa cobertura entre 1996 y 2018. El objetivo principal es estudiar cómo el concepto de “gobernanza” se convirtió en parte del discurso público, especialmente en sectores políticos y medios gráficos. Se utilizó un corpus de más de mil notas periodísticas que contenían referencias a rankings de calidad institucional. La metodología combinó análisis cuantitativo de contenido y entrevistas a informantes clave. Los resultados muestran que el uso del término gobernanza creció durante el período, aunque de forma desigual. Mientras que las noticias presentan una cobertura de temas locales e internacionales, las editoriales adoptan un enfoque normativo centrado en lo gubernamental. El estudio concluye que los medios, a través de estos indicadores, contribuyen activamente a la construcción de discursos políticos y a la legitimación de visiones ideológicas.",
+     "idioma_resumen": "es",
+     "licencia": null,
+     "url": "https://doi.org/10.52780/res.v30i3.20203",
+     "doi": "10.52780/res.v30i3.20203",
+     "paginas": "1151-1151",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.52780/res.v30i3.20202",
+     "titulo": "Neoliberalização e imprensa",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Diego Fraga",
+       "orcid": "https://orcid.org/0000-0002-0237-022X"
+      }
+     ],
+     "resumen": "Este artigo analisa o papel da imprensa brasileira no processo de neoliberalização durante a hegemonia do regime de “Uma Ponte para o Futuro”, com foco na legitimação das reformas trabalhista (2017) e previdenciária (2019). Investiga-se de que maneira os principais jornais do país — Folha de S. Paulo, O Estado de S. Paulo e O Globo — atuaram como aparelhos hegemônicos na construção de consensos favoráveis às contrarreformas. Por meio da análise dos enquadramentos e das vozes consultadas como fontes de autoridade discursiva, o estudo evidencia a parcialidade de segmentos importantes da imprensa na consolidação de uma agenda neoliberal centrada na austeridade e na flexibilização de direitos. Argumenta-se que os segmentos da imprensa estudados contribuíram para a naturalização das reformas e para a desmobilização de resistências sociais, exercendo o seu papel na sustentação no projeto neoliberal hegemônico no Brasil contemporâneo.",
+     "idioma_resumen": "pt",
+     "licencia": null,
+     "url": "https://doi.org/10.52780/res.v30i3.20202",
+     "doi": "10.52780/res.v30i3.20202",
+     "paginas": "1173-1196",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.52780/res.v30i3.20208",
+     "titulo": "dinâmica territorial da industrialização em Taubaté - SP no jornalismo empresarial local (1937-1942)",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Monica Franchi Carniello",
+       "orcid": "https://orcid.org/0000-0002-3107-901X"
+      },
+      {
+       "nombre": "Moacir José Dos Santos",
+       "orcid": "https://orcid.org/0000-0001-6865-0630"
+      }
+     ],
+     "resumen": "As relações econômicas, políticas, sociais, culturais e ambientais são elementos que compõem as dinâmicas territoriais. Soma-se o lugar da mídia como elemento constituinte dos processos de desenvolvimento na sociedade marcada pela presença dos meios de comunicação. O objetivo geral deste trabalho é analisar como o C.T.I. Jornal representou a dinâmica territorial decorrente do fenômeno de industrialização de Taubaté-SP nas décadas de 1930 e 1940. Para isso, foi realizada uma pesquisa documental sobre período entre 1937 a 1942, com uso do método de análise de conteúdo e abordagem qualitativa. As categorias de análise se fundamentaram nos elementos constituintes da dinâmica territorial. Verificou-se que o processo socioespacial decorrente da industrialização gerou transformações significativas no território de Taubaté, representadas no jornal e difundidas pelo periódico. A pesquisa permite compreender a mídia para além de um mecanismo de representação, assumindo um lugar partícipe das dinâmicas territoriais.",
+     "idioma_resumen": "pt",
+     "licencia": null,
+     "url": "https://doi.org/10.52780/res.v30i3.20208",
+     "doi": "10.52780/res.v30i3.20208",
+     "paginas": "1197-1216",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.52780/res.v30i3.20245",
+     "titulo": "revolução televisionada",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Silvio Eduardo Alvarez Candido",
+       "orcid": "https://orcid.org/0000-0002-5275-6577"
+      },
+      {
+       "nombre": "Júlia Ortolani Barbosa",
+       "orcid": null
+      },
+      {
+       "nombre": "Gustavo Mendonça Ferratti",
+       "orcid": "https://orcid.org/0000-0003-3132-5118"
+      }
+     ],
+     "resumen": "O trabalho analisa a cobertura midiática brasileira acerca do desmatamento da Amazônia entre os anos de 1997 e 2018. O período da análise foi marcado pela implementação de políticas públicas e de iniciativas privadas que contribuíram para uma significativa redução da devastação florestal. Buscou-se compreender a produção midiática no âmbito da dinâmica de estabilidade e mudança social. Recorremos a técnicas de análise textual computadorizada para analisar um corpus extraído da base de dados Factiva. Foram identificados padrões de frequência de publicações, termos mais utilizados e realizadas modelagem de tópicos e reconhecimento de entidades nomeadas. A análise considerou a dinâmica da produção de diferentes veículos de mídia e ao longo de diferentes mandatos presidenciais. Os resultados confirmam tendências homogeneizadoras e despolitizadas da cobertura midiática. Eles indicam, entretanto, que a dinâmica dessa produção pode se alterar no âmbito da cobertura de conflitos públicos entre elites.",
+     "idioma_resumen": "pt",
+     "licencia": null,
+     "url": "https://doi.org/10.52780/res.v30i3.20245",
+     "doi": "10.52780/res.v30i3.20245",
+     "paginas": "1217-1240",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.52780/res.v30i3.20372",
+     "titulo": "“Interesting journalism happens when journalists try out new ideas, try out new ways of representing the economy, and are not intimidated by the authority of established expertise” an interview with Tiago Mata",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Tomás Undurraga",
+       "orcid": "https://orcid.org/0000-0003-4267-5826"
+      }
+     ],
+     "resumen": "This interview took place on May 21, 2025, and explores Tiago Mata’s approach of studying public economic debate from a science studies perspective.",
+     "idioma_resumen": "en",
+     "licencia": null,
+     "url": "https://doi.org/10.52780/res.v30i3.20372",
+     "doi": "10.52780/res.v30i3.20372",
+     "paginas": "1243-1257",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.52780/res.v30i3.20871",
+     "titulo": "Trajetórias disposicionais universitárias",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Thais Joi Martins",
+       "orcid": "https://orcid.org/0000-0002-1929-2440"
+      },
+      {
+       "nombre": "Márcio Rogério Silva",
+       "orcid": "https://orcid.org/0000-0002-8176-1551"
+      },
+      {
+       "nombre": "Julio Cesar Donadone",
+       "orcid": "https://orcid.org/0000-0002-2129-0129"
+      }
+     ],
+     "resumen": "O presente artigo tem por objetivo identificar capitais, reconversões de capitais e homologias de capitais/habitus como elementos de reprodução das desigualdades profissionais entre gerações, situadas em contextos regionais distintos, a saber, (UFRB) Universidade Federal do Recôncavo da Bahia e (UFGD) Universidade Federal de Grande Dourados. Buscamos identificar diferenças e homologias de capitais e de níveis de estratificação\\segmentação entre os grupos. Foi possível concluir que, se por um lado os capitais culturais e econômicos dos pais e avós são elementos potencializadores de distinção, no que diz respeito aos postos de trabalho, vimos transformações em curso para classes sociais que romperam a barreira da desigualdade de acesso.",
+     "idioma_resumen": "pt",
+     "licencia": null,
+     "url": "https://doi.org/10.52780/res.v30i3.20871",
+     "doi": "10.52780/res.v30i3.20871",
+     "paginas": "1261-1282",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.52780/res.v30i3.20433",
+     "titulo": "Governar pelo afeto",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Lucas Flôres Vasques",
+       "orcid": "https://orcid.org/0000-0003-1124-8506"
+      }
+     ],
+     "resumen": "Este artigo analisa a emergência das emoções no universo empresarial brasileiro, tomando como objeto empírico 148 edições da Revista Exame (1990- 2007). Fundamentado na sociologia relacional de Pierre Bourdieu na sociologia configuracional de Norbert Elias. O estudo analisa como as emoções, para além da subjetividade, são orientadas como formas legítimas de distinção e consagração simbólica. A Exame é analisada como instância de consagração social que, ao prescrever estilos emocionais desejáveis, como empatia, autocontrole e entusiasmo, institui uma “etiqueta emocional corporativa”. Para isso, mobilizamos a análise de conteúdo, com uso do software MAXQDA, construindo um dicionário de termos e uma codificação do material compilado. A pesquisa evidencia que a gestão emocional se converte em gramática moral, estruturando as hierarquias no universo empresarial.",
+     "idioma_resumen": "pt",
+     "licencia": null,
+     "url": "https://doi.org/10.52780/res.v30i3.20433",
+     "doi": "10.52780/res.v30i3.20433",
+     "paginas": "1283-1300",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.52780/res.v30i3.20192",
+     "titulo": "analysee structurale du journalisme économique",
+     "idioma_titulo": "fr",
+     "autores": [
+      {
+       "nombre": "Julien Duval",
+       "orcid": "https://orcid.org/0000-0003-4284-6170"
+      }
+     ],
+     "resumen": "Ce texte revient sur une recherche sociologique menée sur le journalisme économique en France autour de 2000. Dans un premier temps, on présente les grandes conclusions et résultats auxquels la recherche a abouti. Dans un deuxième temps, on propose un retour réflexif sur la perspective qui a permis d’obtenir à ses conclusions. Tout en indiquant ce que cette perspective doit à des orientations prises, au même moment par d’autres chercheurs, on entreprend alors de caractériser cette perspective sur un plan théorique. On traite également des choix de méthode qui ont été faits lors de la réalisation de l’enquête et qui répondent tant aux orientations théoriques de la perspective développée qu’aux difficultés que l’on a pu rencontrer en enquêtant sur le journalisme économique.",
+     "idioma_resumen": "fr",
+     "licencia": null,
+     "url": "https://doi.org/10.52780/res.v30i3.20192",
+     "doi": "10.52780/res.v30i3.20192",
+     "paginas": "1335-1353",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.52780/res.v30i3.20870",
+     "titulo": "Reflexões sobre o discurso neoliberal na mídia",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Thierry Guilbert",
+       "orcid": "https://orcid.org/0000-0001-6806-4500"
+      }
+     ],
+     "resumen": "Este artigo apresenta uma nova perspectiva sobre a relação entre o discurso neoliberal e a mídia dominante. Primeiramente, examina o que a mídia é e faz — os efeitos que exerce sobre nosso comportamento — antes de relembrar como, historicamente, a propaganda midiática e a democracia vertical estão interligadas. Recorrendo a elementos teóricos e históricos específicos, demonstra que o discurso neoliberal é um discurso de reação e contra-ataque ao progresso social: é, fundamentalmente, um discurso de austeridade. A mobilização da governamentalidade foucaultiana permite, por fim, mostrar como o discurso neoliberal utiliza e se adapta à mídia dominante para “fabricar” a aceitação pública dos programas de austeridade, com o objetivo final de “garantir legalmente a sustentabilidade das políticas de austeridade”. A mídia é, portanto, de certa forma, um “aparato específico” da governamentalidade neoliberal.",
+     "idioma_resumen": "pt",
+     "licencia": null,
+     "url": "https://doi.org/10.52780/res.v30i3.20870",
+     "doi": "10.52780/res.v30i3.20870",
+     "paginas": "1375-1395",
+     "fuente": "Crossref"
+    }
+   ]
+  },
+  {
+   "id": "v29-nesp1-2024",
+   "volumen": "29",
+   "numero": "esp1",
+   "anio": 2024,
+   "fecha": "2024-12-06",
+   "etiqueta": "Vol. 29, núm. esp1 (2024)",
+   "fuente": "Crossref",
+   "articulos": [
+    {
+     "id": "10.52780/res.v29iesp1.19378",
+     "titulo": "Ainda há esperança?",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Daniel Arias Vazquez",
+       "orcid": "https://orcid.org/0000-0002-4467-3392"
+      },
+      {
+       "nombre": "Heber Silveira Rocha",
+       "orcid": "https://orcid.org/0000-0001-9718-6849"
+      },
+      {
+       "nombre": "Lígia Gonçalves Dall'Occo",
+       "orcid": "https://orcid.org/0000-0003-0291-2962"
+      },
+      {
+       "nombre": "Alexandre Barbosa Pereira",
+       "orcid": "https://orcid.org/0000-0003-3977-1171"
+      }
+     ],
+     "resumen": "O artigo analisa as expectativas dos jovens quanto ao fim da pandemia de Covid-19 e à situação do Brasil pós-pandemia, verificando os fatores sociais, econômicos e de saúde que explicam o otimismo ou pessimismo em relação ao futuro. Utilizou-se dados obtidos pela aplicação de um survey – com 843 participantes, entre 15 e 29 anos, moradores de Guarulhos-SP – para a construção de dois modelos de regressão: logística binária e multinomial, com análises simples e multivariadas. Os resultados revelam que apenas 20% estavam otimistas em relação à pandemia e quanto ao futuro do país após a pandemia. O pessimismo foi maior entre os jovens maiores de idade, com renda familiar maior que três saláriosmínimos e que apresentaram piora no estado emocional. A prática religiosa foi o único motivo para uma minoria manter o otimismo durante o auge da crise sanitária.",
+     "idioma_resumen": "pt",
+     "licencia": null,
+     "url": "https://doi.org/10.52780/res.v29iesp1.19378",
+     "doi": "10.52780/res.v29iesp1.19378",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.52780/res.v29iesp1.19564",
+     "titulo": "Expresiones políticas de los malestares juveniles",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Pablo Vommaro",
+       "orcid": "https://orcid.org/0000-0002-6957-0453"
+      }
+     ],
+     "resumen": "El resultado de las elecciones presidenciales de 2023 en la Argentina generó diversas reacciones y debates. Entre la sorpresa, la preocupación, el desconcierto y el entusiasmo se dirimieron las sensaciones y conversaciones públicas de los últimos meses de 2023. Lo que sorprendió en las Primarias Abiertas Simultáneas y Obligatorias (PASO) de agosto se convirtió en un clima que osciló entre la confusión y la esperanza en la primera vuelta de octubre y en una conmoción cuyos ecos aún se sienten cuando en noviembre de 2023 resultó electo presidente de la Argentina Javier Milei. Ante esta situación, pensamos que es necesario agudizar el esfuerzo de comprensión para entender las dinámicas de la coyuntura política argentina y los elementos que llevaron a la actual situación política y social, que se enmarca también en disputas y corrientes regionales y mundiales. A partir de nuestros trabajos de investigación en los últimos años y de la relevancia creciente que han tenido en dirimir los resultados del proceso político en la Argentina y en otros países de la región, en este artículo pondremos el foco en las realidades de las y los jóvenes que se visibilizaron a partir de los resultados electorales de 2023. Así, identificaremos seis dimensiones que componen las complejas realidades juveniles invisibilizadas que irrumpieron a finales de 2023 en la Argentina. Éstas son: la precarización material y subjetiva, la experiencia de las y los jóvenes en pandemia y sus ecos en el presente, el mundo digital y sus impactos en el trabajo, las disputas de sentido en los territorios digitales, el desencanto con experiencias políticas anteriores y el componente afectivo y emocional del sufragio en la actualidad.",
+     "idioma_resumen": "es",
+     "licencia": null,
+     "url": "https://doi.org/10.52780/res.v29iesp1.19564",
+     "doi": "10.52780/res.v29iesp1.19564",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.52780/res.v29iesp1.19387",
+     "titulo": "Juventude e adesão à democracia no sul de Minas Gerais",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Marcelo Rodrigues Conceicao",
+       "orcid": "https://orcid.org/0000-0003-0277-749X"
+      },
+      {
+       "nombre": "Luís Antonio Groppo",
+       "orcid": "https://orcid.org/0000-0002-0143-5167"
+      },
+      {
+       "nombre": "Odair Sass",
+       "orcid": "https://orcid.org/0000-0002-1803-0297"
+      }
+     ],
+     "resumen": "A pesquisa ‘A identidade sul-mineira’ produziu dados relevantes sobre a adesão à democracia no Sul de Minas Gerais, de acordo com as diferentes faixas etárias. Esses dados permitem interrogar até que ponto as pessoas mais jovens têm demonstrado maior adesão à democracia nesta região em comparação com faixas etárias mais velhas e como os jovens se relacionam com as principais instituições da democracia representativa, em destaque eleições e partidos. O artigo realiza esta discussão e análise após apresentar um levantamento bibliográfico sobre juventude e adesão à democracia. Entre os resultados, destaca-se que há uma indicação de que a adesão dos jovens sul-mineiros é superior às dos demais grupos etários, mas sem comprovação estatística para tal. A desconfiança nas instituições mais tradicionais da democracia é grande, e a falta de compreensão sobre a diferença entre política e governo parece deixar de fora maiores possibilidades de aproximação com os governantes.",
+     "idioma_resumen": "pt",
+     "licencia": null,
+     "url": "https://doi.org/10.52780/res.v29iesp1.19387",
+     "doi": "10.52780/res.v29iesp1.19387",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.52780/res.v29iesp1.19845",
+     "titulo": "Juventudes latino-americanas",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Olivia Cristina Perez",
+       "orcid": "https://orcid.org/0000-0001-9441-7517"
+      },
+      {
+       "nombre": "Daniel Arias Vazquez",
+       "orcid": "https://orcid.org/0000-0002-4467-3392"
+      },
+      {
+       "nombre": "Melina Vázquez",
+       "orcid": "https://orcid.org/0000-0002-0564-1398"
+      }
+     ],
+     "resumen": "O dossiê tem como objetivo analisar a participação política das juventudes na América Latina, abordando sua diversidade e papel na construção de uma democracia inclusiva. Os artigos reunidos exploram a participação em protestos e eleições até as disputas educacionais. Os estudos destacam tanto a atuação de juventudes progressistas quanto conservadoras, analisando a ascensão da direita e seu impacto nas democracias. Os trabalhos mostram que, apesar da sub-representação no Congresso e das desigualdades acentuadas pela pandemia, as juventudes permanecem atores centrais na transformação política, com potencial para enfrentar os desafios contemporâneos e promover uma democracia capaz de reduzir as desigualdades sociais.",
+     "idioma_resumen": "pt",
+     "licencia": null,
+     "url": "https://doi.org/10.52780/res.v29iesp1.19845",
+     "doi": "10.52780/res.v29iesp1.19845",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.52780/res.v29iesp1.19437",
+     "titulo": "Juventudes, protestos e ação coletiva",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Marcos Aurélio Freire da Silva Júnior",
+       "orcid": "https://orcid.org/0000-0002-5553-6625"
+      },
+      {
+       "nombre": "Joana Tereza Vaz de Moura",
+       "orcid": "https://orcid.org/0000-0001-9561-1063"
+      },
+      {
+       "nombre": "Pedro Henrique Correia do Nascimento de Oliveira",
+       "orcid": "https://orcid.org/0000-0002-4661-2155"
+      }
+     ],
+     "resumen": "O presente artigo visa contribuir com os estudos acerca da ação coletiva, juventudes e movimentos sociais, analisando os protestos e mobilizações empregadas pelas juventudes organizadas em movimentos, organizações, partidos políticos, mas também as ações realizadas pelas juventudes não inseridas nesses grupos. Para isso, utilizamos a metodologia de Análise de Evento de Protesto (AEP) a fim de compreendermos as táticas utilizadas, as principais demandas desses protestos, as organizações e movimentos presentes e onde esses protestos mais se concentram. Utilizamos um banco de dados construído a partir de notícias veiculadas na mídia sobre as manifestações e protestos das juventudes entre janeiro de 2022 e janeiro de 2024. Observamos que a região sudeste foi onde mais teve registros de protestos das juventudes, sendo, em sua maioria, protestos envolvendo o tema da educação. Destacamos ainda que as demandas se relacionam às políticas específicas, portanto, tendo o Estado como o principal ator reivindicado.",
+     "idioma_resumen": "pt",
+     "licencia": null,
+     "url": "https://doi.org/10.52780/res.v29iesp1.19437",
+     "doi": "10.52780/res.v29iesp1.19437",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.52780/res.v29iesp1.19556",
+     "titulo": "Pioneirismo em pesquisa sociológica sobre juventude",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Olivia Cristina Perez",
+       "orcid": "https://orcid.org/0000-0001-9441-7517"
+      },
+      {
+       "nombre": "Daniel Arias Vazquez",
+       "orcid": "https://orcid.org/0000-0002-4467-3392"
+      }
+     ],
+     "resumen": "Esta entrevista foi realizada no dia 6 de junho de 2024, de forma on-line, porOlivia Cristina Perez e Daniel Vazquez.",
+     "idioma_resumen": "pt",
+     "licencia": null,
+     "url": "https://doi.org/10.52780/res.v29iesp1.19556",
+     "doi": "10.52780/res.v29iesp1.19556",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.52780/res.v29iesp1.19446",
+     "titulo": "Radicalización y fusionismo en el activismo juvenil de las derechas argentinas tras 2001",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Matías Grinchpun",
+       "orcid": "https://orcid.org/0000-0003-3163-2548"
+      },
+      {
+       "nombre": "Sergio Morresi",
+       "orcid": "https://orcid.org/0000-0001-8287-5772"
+      },
+      {
+       "nombre": "Ezequiel Saferstein",
+       "orcid": "https://orcid.org/0000-0002-1816-4164"
+      },
+      {
+       "nombre": "Martín Vicente",
+       "orcid": "https://orcid.org/0000-0002-6744-0268"
+      }
+     ],
+     "resumen": "Este trabajo propone un abordaje de las diversas modalidades que asumieron los jóvenes que, identificados con distintos idearios de las derechas argentinas, activaron políticamente en el ciclo abierto tras la crisis de 2001. Lo hace historizando el activismo juvenil derechista del siglo XX en base a dos familias: la liberal-conservadora y la nacionalista-reaccionaria, enfocando luego un recorrido por la coyuntura abierta por el propio quiebre de 2001 y los sucesivos momentos de visibilización activista, primero en la centroderecha y luego en expresiones radicalizadas que desde un efecto fusionista logró que convergieran aquellas tradiciones con un destacado protagonismo juvenil.",
+     "idioma_resumen": "es",
+     "licencia": null,
+     "url": "https://doi.org/10.52780/res.v29iesp1.19446",
+     "doi": "10.52780/res.v29iesp1.19446",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.52780/res.v29iesp1.19431",
+     "titulo": "Representação política das juventudes no Brasil",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Elisa Guaraná de Castro",
+       "orcid": "https://orcid.org/0000-0001-8652-0303"
+      }
+     ],
+     "resumen": "Analisar formas “tradicionais” de representação política são uma janela para compreender a participação juvenil em seus múltiplos pertencimentos e agências. Observamos jovens candidatas/os e eleitas/os para a Câmara dos Deputados brasileira entre os anos de 2014 e 2022. Identificamos baixa representação juvenil, menos de 4% com até 29 anos, e amplo espectro de filiação política, incluindo a denominada extrema-direita. Como metodologia analisamos os dados do TSE, tratando o perfil e desempenho eleitoral. Acompanhamos sites de movimentos e organizações sociais, as redes sociais, o Portal da Câmara dos Deputados, para acesso a trajetórias, agendas políticas e atuação parlamentar. O acompanhamento cotidiano e individualizado das redes sociais permitiu identificar perfis e postagens dos e das jovens. A pesquisa demonstrou que há uma importante diversidade de candidaturas e que parlamentares jovens eleitos são campeões de votação, o que aponta um interesse renovado na participação desse espaço árido para a presença juvenil.",
+     "idioma_resumen": "pt",
+     "licencia": null,
+     "url": "https://doi.org/10.52780/res.v29iesp1.19431",
+     "doi": "10.52780/res.v29iesp1.19431",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.52780/res.v29iesp1.19386",
+     "titulo": "Sociologia e projeto de vida como expressões de contradições",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Rodolfo Soares Moimaz",
+       "orcid": "https://orcid.org/0000-0003-0078-9040"
+      },
+      {
+       "nombre": "André da Rocha Santos",
+       "orcid": "https://orcid.org/0000-0001-8085-5305"
+      }
+     ],
+     "resumen": "Este artigo tem como objetivo mostrar que as disciplinas de Sociologia e Projeto de Vida, presentes no Currículo Paulista da Etapa do Ensino Médio, expressam disputas entre grupos sociais acerca de diferentes modelos de escola e educação, e como estes conflitos são refletidos em mobilizações estudantis. Assim, a partir de levantamento bibliográfico, este trabalho retoma estudos que analisam historicamente a construção dos currículos e das reformas curriculares, relacionando-os aos contextos políticos e sociais. Desta forma, o texto apresenta como, especialmente a partir dos anos 1980, a Sociologia esteve ligada às mobilizações democráticas de movimentos sociais no processo de superação do modelo de escola (e sociedade) defendido pelos governos militares; e como o Projeto de Vida se destaca como componente essencial na formação dos sujeitos na escola do neoliberalismo, cujo conteúdo foi originado pela intervenção de instituições do capital privado na elaboração e implementação das políticas públicas educacionais. Porém, este processo não tem ocorrido sem contradições, que têm na juventude um sujeito determinante.",
+     "idioma_resumen": "pt",
+     "licencia": null,
+     "url": "https://doi.org/10.52780/res.v29iesp1.19386",
+     "doi": "10.52780/res.v29iesp1.19386",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.52780/res.v29iesp1.19432",
+     "titulo": "importância das diversidades nas análises sobre juventudes e participação política",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Olívia Cristina Perez",
+       "orcid": "https://orcid.org/0000-0001-9441-7517"
+      }
+     ],
+     "resumen": "O presente trabalho reúne dados e análises derivados de um acúmulo de pesquisas documentais e empíricas sobre a relação das juventudes com a política e suas formas de participação. Mostramos que nesse campo é importante considerar as diversidades: das juventudes, das suas práticas políticas, da relação dos jovens com a esfera parlamentar e dos seus posicionamentos políticos e ideológicos. A ênfase nas diversidades, especificamente na inclusão delas nas decisões coletivas, também é um dos ensinamentos das juventudes sobre como aprimorar a democracia - o que denominamos de democratização das instituições.",
+     "idioma_resumen": "pt",
+     "licencia": null,
+     "url": "https://doi.org/10.52780/res.v29iesp1.19432",
+     "doi": "10.52780/res.v29iesp1.19432",
+     "paginas": null,
+     "fuente": "Crossref"
+    }
+   ]
+  }
+ ]
+};

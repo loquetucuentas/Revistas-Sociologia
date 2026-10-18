@@ -1,0 +1,882 @@
+// Copia de revistas/2313-013X.json para abrir la aplicación sin servidor.
+(window.DATOS_REVISTAS = window.DATOS_REVISTAS || {})["revistas/2313-013X.json"] = {
+ "version": 1,
+ "generado": "2026-10-18T05:53:59+00:00",
+ "es_prueba": false,
+ "revista": {
+  "id": "2313-013X",
+  "titulo": "Conjeturas Sociologicas",
+  "idioma_titulo": null,
+  "titulo_alternativo": null,
+  "idioma_titulo_alternativo": null,
+  "idiomas": [
+   "es",
+   "en"
+  ],
+  "issn_impreso": null,
+  "issn_electronico": "2313-013X",
+  "editorial": "Universidad de El Salvador, Facultad Multidisciplinaria Oriental",
+  "pais": "SV",
+  "materias": [
+   "Sociology (General)",
+   "Social sciences (General)"
+  ],
+  "palabras_clave": [
+   "sociology",
+   "policy",
+   "public policy",
+   "economics",
+   "history"
+  ],
+  "licencias": [
+   {
+    "nombre": "CC BY-NC 4.0",
+    "url": "https://creativecommons.org/licenses/by-nc/4.0/"
+   }
+  ],
+  "url": "https://revistas.ues.edu.sv/index.php/conjsociologicas",
+  "url_doaj": "https://doaj.org/toc/2313-013X",
+  "descripcion": null,
+  "fuente_ficha": "DOAJ",
+  "archivo": "revistas/2313-013X.json",
+  "ultimo_numero": "Vol. 14, núm. 40 (2026)",
+  "fuente_numeros": "Crossref"
+ },
+ "numeros": [
+  {
+   "id": "v14-n40-2026",
+   "volumen": "14",
+   "numero": "40",
+   "anio": 2026,
+   "fecha": "2026-08-31",
+   "etiqueta": "Vol. 14, núm. 40 (2026)",
+   "fuente": "Crossref",
+   "articulos": [
+    {
+     "id": "10.66778/cs.v14n40.01",
+     "titulo": "MI LABOR Y “LA COMPLEJIDAD”",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Pedro Luis Sotolongo Codina",
+       "orcid": null
+      }
+     ],
+     "resumen": "Aclaración: Ante todo, es necesario darse cuenta de que la palabra “complejidad”, que aparece en el título de este trabajo, no está utilizada en su acepción coloquial–cotidiana- sino en su acepción especializada, nombrando a ese nuevo campo del saber contemporáneo, emergido en el último tercio del recién finalizado siglo XX y que ha dado en llamarse pensamiento complejo y ciencias de la complejidad. La cátedra de estudios de la complejidad de la habana Si a usted le preguntan: “¿Qué sucedió el 11 de septiembre del 2001?”, seguramente responderá: “El derribo de las Torres Gemelas en Nueva York”. Sin embargo, eso NO fue lo único que sucedió ese día. Ese día se creó en La Habana la Cátedra para el Estudio de la Complejidad, en el Instituto de Filosofía de esa ciudad, presidida por el que esto escribe. Pero de ello se enteraron solamente lo(a)s que estaban allí presentes.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc/4.0"
+     },
+     "url": "https://doi.org/10.66778/cs.v14n40.01",
+     "doi": "10.66778/cs.v14n40.01",
+     "paginas": "10-13",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.66778/cs.v14n40.02",
+     "titulo": "OSCILACIONES DE LA TEORÍA Y EL MUNDO DE LA VIDA",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Carlos Eduardo Maldonado",
+       "orcid": "https://orcid.org/0000-0002-9262-8879"
+      }
+     ],
+     "resumen": "Este artículo estudia la complejidad del desarrollo de una teoría sobre la sociedad o el mundo. El hilo es la noción de cotidianeidad o de mundo de la vida. Se elabora una crítica de las teorías habidas por su platonismo y aristotelismo. En otras palabras, por la presunción de completud y de exterioridad del mundo o de la realidad. Al mismo tiempo que se discute el concepto de modelo, el artículo argumenta que una teoría de la sociedad es imposible sin la incorporación de las personas no humanas. El mundo o la sociedad no son simplemente conocidos; además, son imaginados y experienciados. Al final se hace una invitación a incorporar a la mecánica cuántica en las tareas de comprensión y explicación del mundo social.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc/4.0"
+     },
+     "url": "https://doi.org/10.66778/cs.v14n40.02",
+     "doi": "10.66778/cs.v14n40.02",
+     "paginas": "14-28",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.66778/cs.v14n40.03",
+     "titulo": "La economía política del signo",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Rafael Pérez Taylor",
+       "orcid": "https://orcid.org/0009-0005-6626-4281"
+      }
+     ],
+     "resumen": "La política funciona como un proceso de simulación de acciones que homologa las razones estructurales del Estado para comprender la realidad mediante negociaciones entre el gobierno y grupos de poder privado. En el rol del capital financiero, los grupos de poder buscan implementar sus recursos financieros para maximizar ganancias a través de la explotación de trabajadores, contando con un gobierno que se convierte en un servidor del capital financiero. Se produce un ejercicio de poder totalizador para imponer reglas por encima de la territorialidad comercializadora, donde la política opera como un acto de convencimiento fortuito para hacer creer a la comunidad que se actúa correctamente. Este proceso se manifiesta como un doble filo en las retóricas del lenguaje y en los procedimientos discursivos que impactan directamente en la pragmática de las relaciones sociales",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc/4.0"
+     },
+     "url": "https://doi.org/10.66778/cs.v14n40.03",
+     "doi": "10.66778/cs.v14n40.03",
+     "paginas": "29-45",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.66778/cs.v14n40.04",
+     "titulo": "Subjetividades sociales y complejidad",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Ovidio Dʼ Angelo Hernández",
+       "orcid": "https://orcid.org/0000-0002-0283-6317"
+      }
+     ],
+     "resumen": "Para dar cuenta de la comprensión de la interconectividad de la realidad, las ciencias sociales se complementan, cada vez más, con conceptos de varias disciplinas, de lo que emergen enfoques epistemológicos convergentes. Desde visiones cercanas a la Complejidad surgen conceptos transdisciplinares como los de resiliencia multiactoral y multiprocesal (OXFAM), el Enfoque Configuracional (De la Garza), entre otros actores que se plantean el carácter pluridimensional de la realidad social. Desde la perspectiva de la Complejidad, se valora la aportación de P.L. Sotolongo con la concepción de Patrones de Interacción Social como construcciones de regímenes de prácticas colectivas. También basados en E. Morín y otros muchos, construimos en nuestras investigaciones la plataforma teórico-epistemológica de interpretación metarreflexiva, una prospectiva anticipatoria, métodos de concertación y diálogos multiactorales: ► Autonomía integradora, que articula diversos Ejes transversales: ▪Interconectividad social en la diversidad –organizacional y subjetividades sociales- ▪Autodeterminación contextual en la acción social, ▪Empoderamiento para la autogestión social responsable, Estas son dimensiones importantes para avanzar en una visión sistémica, multidimensional, hologramática, auto-eco-organizativa y transdisciplinar hacia la transformación social emancipatoria de tramas sociales y realidades diversas. Palabras clave: Complejidad, Transdisciplinariedad, Autonomía Integradora, Convergencia-teórico-metodológica, Patrones de Interaccion Social.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc/4.0"
+     },
+     "url": "https://doi.org/10.66778/cs.v14n40.04",
+     "doi": "10.66778/cs.v14n40.04",
+     "paginas": "46-62",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.66778/cs.v14n40.05",
+     "titulo": "El modo de relación gobernantes-gobernados",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Enrique Soldevilla Enríquez",
+       "orcid": "https://orcid.org/0000-0002-6486-4903"
+      }
+     ],
+     "resumen": "Este artículo presenta el modo de relación gobernantes-gobernados como una categoría esencial para evaluar la calidad de la interacción Estado-sociedad, de la que dependerían el consenso, la legitimidad y la adhesión ciudadana al sistema político. El autor plantea una diferenciación entre las nociones de modo de relación, modelo socioeconómico y sistema político para sustentar la idea de que el modo de relación puede ser transformado sin desnaturalizar las bases filosóficas-ideológicas del sistema político de una sociedad concreta. Asimismo, esboza los rasgos que en esencia definen ese vínculo relacional. Compara el modo de relación en los casos del socialismo soviético, la Polonia socialista, China, Cuba, el neoliberalismo y la socialdemocracia. El trabajo concluye con una comparación entre el modo de relación de la socialdemocracia con el de una gobernabilidad empática",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc/4.0"
+     },
+     "url": "https://doi.org/10.66778/cs.v14n40.05",
+     "doi": "10.66778/cs.v14n40.05",
+     "paginas": "63-81",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.66778/cs.v14n40.06",
+     "titulo": "El valor heurístico de los patrones de interacción social propuesto por Pedro Luis Sotolongo Codina",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Juan Paulo De Armas Victores",
+       "orcid": "https://orcid.org/0009-0001-9687-2588"
+      }
+     ],
+     "resumen": "La interacción social constituye un terreno sumamente fértil para la investigación en disciplinas como la psicología, la sociología y la antropología, al permitir visibilizar los marcos subyacentes que orientan el comportamiento humano en diversos contextos y momentos de la existencia. Entre las figuras relevantes en el análisis de cómo se producen y reproducen dichas interacciones, así como de las circunstancias sociohistóricas que las configuran, destaca el complexólogo cubano Pedro Luis Sotolongo Codina. Este académico ha desarrollado un trabajo teórico y epistemológico de gran alcance, que abrió nuevas posibilidades para la investigación en el campo social. En este sentido, el presente texto se propone profundizar en la noción de patrones de interacción social, una de las principales contribuciones epistemológicas de Sotolongo. Asimismo, se examinará el impacto de esta propuesta en la comprensión de la vida social, en la producción de sentidos y en las formas de agenciamiento que emergen de las dinámicas entre lo social, lo cultural y lo material. Finalmente, se incorporarán observaciones críticas, desafíos y debates que aún permanecen abiertos y en pleno desarrollo.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc/4.0"
+     },
+     "url": "https://doi.org/10.66778/cs.v14n40.06",
+     "doi": "10.66778/cs.v14n40.06",
+     "paginas": "82-93",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.66778/cs.v14n40.07",
+     "titulo": "Tetraléctica y pensamiento complejo",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Gustavo F. Guarachi López",
+       "orcid": "https://orcid.org/0009-0007-7574-0109"
+      }
+     ],
+     "resumen": "Este artículo analiza la complementariedad entre el pensamiento complejo y la tetraléctica como herramientas para comprender la diversidad de sistemas de conocimiento en el mundo. Ambas racionalidades, surgidas independientemente, comparten una estructura homeomórfica al cuestionar el reduccionismo moderno, aunque se distinguen por sus orígenes y énfasis: una aporta rigor conceptual y crítica epistemológica; la otra, arraigo civilizatorio y ética de reciprocidad. Su diálogo permite desmontar jerarquías epistémicas impuestas desde el sistema-mundo, valorar la pluralidad de saberes y reconocer su relevancia ante la crisis civilizatoria actual. El trabajo se inscribe como reconocimiento al aporte de Pedro Sotolongo Codina para el pensamiento crítico en América Latina",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc/4.0"
+     },
+     "url": "https://doi.org/10.66778/cs.v14n40.07",
+     "doi": "10.66778/cs.v14n40.07",
+     "paginas": "94-115",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.66778/cs.v14n40.08",
+     "titulo": "La vida cotidiana dentro del Leviatán, narrativa determinista de control frente a la resistencia social existencial en América Latina",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Eligio Cruz Leandro",
+       "orcid": "https://orcid.org/0000-0002-0538-3894"
+      }
+     ],
+     "resumen": "La creación de la figura del Estado fue una narrativa ideada por Thomas Hobbes para compatibilizar la coexistencia de la monarquía con la naciente clase social que dio origen al capitalismo. A partir de esa época, las élites económicas y políticas, personas con nombre y apellido, se han valido de narrativas sustentadas en la ciencia determinista, en las condiciones iniciales, la causalidad y la predictibilidad, para justificar la necesidad de crear el Leviatán y ejercer el control social, estandarizar el pensamiento y la conducta de las personas en la vida cotidiana. Asimismo, se han difundido sofismas con los que se justifican los adyacentes posibles dentro del sistema, donde las personas están determinadas a vivir en condiciones de pobreza y desigualdad; transmitirlo en forma intergeneracional, para que se piense y se viva, convencidos de que así es la vida y no hay formas alternativas de organización más justa. Sin embargo, el futuro de los pueblos en América Latina y el Caribe no está predicho por entes celestiales, ni el mecanicismo, ni el determinismo; las personas tienen una gran cantidad de posibilidades, estamos condenadas a ser libres y somos responsables de nuestras decisiones y proyectos, conforme a nuestra conciencia, nuestros ideales e intereses verdaderamente colectivos.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc/4.0"
+     },
+     "url": "https://doi.org/10.66778/cs.v14n40.08",
+     "doi": "10.66778/cs.v14n40.08",
+     "paginas": "116-142",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.66778/cs.v14n40.09",
+     "titulo": "Prácticas alimentarias, cuerpo y complejidad",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Ysabel Noemi Tejeda Díaz",
+       "orcid": "https://orcid.org/0000-0001-8095-8961"
+      }
+     ],
+     "resumen": "El presente artículo reflexiona sobre los aportes de la obra Teoría social y vida cotidiana de Pedro Luis Sotolongo Codina para la comprensión de las prácticas alimentarias, la corporalidad y la vida cotidiana desde el paradigma de la complejidad. Se destaca la contribución del autor a la comprensión de la vida cotidiana como un entramado complejo de relaciones, interacciones y procesos emergentes que desafían las explicaciones lineales de la realidad social. A partir de esta propuesta teórica, se reflexiona sobre la alimentación como una práctica social compleja en la que convergen dimensiones biológicas, culturales, simbólicas y ambientales. Asimismo, se exploran las implicaciones de esta perspectiva para comprender la construcción cotidiana de la corporalidad y los desafíos contemporáneos asociados al cuidado, la sostenibilidad y la subjetividad. Se concluye que la obra de Sotolongo mantiene plena vigencia para el análisis de fenómenos sociales complejos vinculados al cuerpo y la alimentación",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc/4.0"
+     },
+     "url": "https://doi.org/10.66778/cs.v14n40.09",
+     "doi": "10.66778/cs.v14n40.09",
+     "paginas": "143-155",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.66778/cs.v14n40.10",
+     "titulo": "El feminicidio como expresión extrema de la desigualdad",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Yildalina Tatem Brache",
+       "orcid": "https://orcid.org/0000-0002-2864-8656"
+      }
+     ],
+     "resumen": "La violencia contra las mujeres constituye uno de los fenómenos más persistentes y complejos de las sociedades contemporáneas. A pesar de los avances normativos en materia de igualdad y derechos humanos, continúan reproduciéndose múltiples formas de discriminación y violencia que limitan el ejercicio efectivo de los derechos de las mujeres. Este artículo analiza el feminicidio como expresión extrema de la desigualdad estructural de género desde una perspectiva que articula la teoría feminista, los derechos humanos y el pensamiento complejo. A partir del caso de Luz Marina Suazo, ocurrido en la República Dominicana en 1993, se examinan las relaciones entre violencia de género, control coercitivo, dominación masculina, impunidad institucional y estructuras culturales que legitiman la subordinación femenina. El estudio incorpora la teoría de la complejidad, aportes de la teoría feminista latinoamericana, los enfoques sistémicos y ecológicos de la violencia y los estándares internacionales de protección de los derechos humanos desarrollados por el Sistema Interamericano. Se sostiene que el feminicidio no constituye un hecho aislado ni exclusivamente individual, sino un fenómeno multidimensional que emerge de la interacción entre desigualdades históricas, relaciones de poder, déficits institucionales y mecanismos socioculturales que naturalizan la violencia contra las mujeres. Asimismo, se argumenta que la impunidad opera como una forma de violencia institucional que profundiza el daño causado y favorece la reproducción de patrones estructurales de discriminación. Finalmente, se reflexiona sobre los desafíos actuales para la prevención del feminicidio en contextos marcados por nuevas formas de violencia, resistencias conservadoras y tensiones en los sistemas de protección de derechos humanos",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc/4.0"
+     },
+     "url": "https://doi.org/10.66778/cs.v14n40.10",
+     "doi": "10.66778/cs.v14n40.10",
+     "paginas": "156-190",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.66778/cs.v14n40.11",
+     "titulo": "Operacionalizar la cotidianidad",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Lohadis Rebeca Ureña Ramírez",
+       "orcid": "https://orcid.org/0009-0009-7862-8694"
+      }
+     ],
+     "resumen": "Pedro Sotolongo formuló una teoría de la vida cotidiana en la que los patrones de interacción social se tejen a partir de prácticas de poder, saber, deseo y discurso (PSDD). Su alto nivel de abstracción ha limitado su contrastación empírica. Este artículo presenta un esfuerzo de operacionalización de ese marco: la construcción de una escala de autoevaluación de prácticas cotidianas PSDD y su articulación con la escala FACES III (modelo circumplejo de Olson) y el Análisis Cualitativo Comparado (QCA), en un diseño coherente con el paradigma de la complejidad. La propuesta se demuestra en un caso límite (la “bifurcación” de la dinámica familiar que produce el encarcelamiento de un progenitor) con 19 casos de los centros Najayo Hombres y Najayo Mujeres (República Dominicana). El análisis configuracional muestra que la funcionalidad familiar balanceada emerge solo cuando coinciden cuotas favorables de saber, deseo y discurso combinadas con poder o con un puntaje PSDD alto, y revela un incremento de la reflectividad de los progenitores tras la privación de libertad. Se discute el valor del instrumento como vía para volver investigable la cotidianidad sotolonguiana",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc/4.0"
+     },
+     "url": "https://doi.org/10.66778/cs.v14n40.11",
+     "doi": "10.66778/cs.v14n40.11",
+     "paginas": "191-209",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.66778/cs.v14n40.12",
+     "titulo": "Pedro Luis Sotolongo Codina y la construcción de una racionalidad compleja para el siglo XXI",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Rosa Camila Rivera Acosta",
+       "orcid": null
+      }
+     ],
+     "resumen": "Este artículo examina la contribución intelectual de Pedro Luis Sotolongo Codina al desarrollo de las ciencias de la complejidad y del pensamiento complejo en América Latina y el Caribe, estableciendo un diálogo teórico con la obra de Edgar Morin y otros autores fundamentales del campo. A partir de una revisión crítica de los principales conceptos asociados a la complejidad —incertidumbre, emergencia, autoorganización, transdisciplinariedad, sistemas complejos adaptativos y causalidad compleja— se analiza la manera en que estas perspectivas contribuyen a la comprensión de los desafíos contemporáneos. El trabajo sostiene que la complejidad constituye una nueva racionalidad científica capaz de superar las limitaciones del paradigma reduccionista y fragmentario heredado de la modernidad. Asimismo, se exploran las implicaciones de este enfoque para la educación, la ética y el liderazgo en sociedades caracterizadas por el cambio acelerado y la creciente interdependencia global. Finalmente, se destaca la vigencia del legado de Sotolongo en la construcción de un pensamiento complejo con identidad latinoamericana y caribeña, comprometido con la transformación social, el diálogo de saberes y la formación de nuevas generaciones de investigadores",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc/4.0"
+     },
+     "url": "https://doi.org/10.66778/cs.v14n40.12",
+     "doi": "10.66778/cs.v14n40.12",
+     "paginas": "210-233",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.66778/cs.v14n40.13",
+     "titulo": "La elección de especialidades médicas como práctica social situada",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Olga Lucía Jape Collins",
+       "orcid": "https://orcid.org/0000-0001-7188-4956"
+      },
+      {
+       "nombre": "Ysabel Noemí Tejeda Díaz",
+       "orcid": "https://orcid.org/0000-0001-8095-8961"
+      },
+      {
+       "nombre": "Rosanna Elías De Quiñones",
+       "orcid": "https://orcid.org/0009-0005-0449-0777"
+      },
+      {
+       "nombre": "José Antonio Quesada",
+       "orcid": "https://orcid.org/0000-0002-6947-7531"
+      }
+     ],
+     "resumen": "La decisión sobre qué especialidad médica seguir suele presentarse como una cuestión de vocación, preferencia individual o afinidad clínica. Sin embargo, se forma día a día en escenarios de formación, como aulas, rotaciones y servicios clínicos, y se relaciona con jerarquías profesionales, discursos sobre prestigio, mentoría recibida, expectativas familiares, condiciones laborales y oportunidades institucionales. Objetivo: Comprender, desde una perspectiva socio-compleja, cómo se articulan las condiciones académicas, socioculturales e institucionales vinculadas con la elección de especialidades médicas entre médicos en formación. Metodología: Revisión sistematizada con síntesis narrativa, basada en búsquedas en PubMed y LILACS de publicaciones difundidas entre 2020 y 2025, en español, inglés o portugués. Resultados: Se incluyeron 20 artículos. La síntesis permitió organizar la evidencia en cinco entradas analíticas relacionadas con la formación médica, las expectativas socioculturales, las jerarquías profesionales, las condiciones institucionales y los proyectos biográficos de futuro. Discusión: La síntesis muestra que estas entradas no actúan como componentes separados, sino como relaciones que orientan aspiraciones, habilitan o restringen posibilidades y participan en la producción de preferencias profesionales. Conclusiones: Comprender la elección de especialidad médica como práctica social situada permite discutir la planificación de especialistas más allá del aumento de plazas, incorporando los discursos, jerarquías y condiciones institucionales que organizan la formación médica",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc/4.0"
+     },
+     "url": "https://doi.org/10.66778/cs.v14n40.13",
+     "doi": "10.66778/cs.v14n40.13",
+     "paginas": "234-258",
+     "fuente": "Crossref"
+    }
+   ]
+  },
+  {
+   "id": "v14-n39-2026",
+   "volumen": "14",
+   "numero": "39",
+   "anio": 2026,
+   "fecha": "2026-05-19",
+   "etiqueta": "Vol. 14, núm. 39 (2026)",
+   "fuente": "Crossref",
+   "articulos": [
+    {
+     "id": "10.66778/10.66778/cs.v14n39.01",
+     "titulo": "Narrativas transnacionales",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Abdelhak Hiri",
+       "orcid": "https://orcid.org/0000-0003-1140-8514"
+      }
+     ],
+     "resumen": "Este estudio se propone examinar la construcción de la imagen de América Latina en el diario marroquí Le Matin a lo largo de un periodo caracterizado por transformaciones políticas y sociales significativas en ambas regiones, abarcando desde el año 2001 hasta 2021. A través de un análisis cuantitativo de contenido, fundamentado en un corpus variado de artículos seleccionados, se identificaron patrones significativos de cobertura, así como términos clave y marcos narrativos (frames) en la representación de esta región. Los hallazgos del estudio revelan que un notable 60% de los artículos analizados se centró en acontecimientos políticos y económicos, evidenciando un interés particular en países como Brasil, Argentina y Venezuela, que han sido protagonistas de cambios radicales durante estas dos décadas. Este enfoque pone de manifiesto que, a través de la cobertura mediática, predomina una atención recurrente hacia las crisis y oportunidades económicas, las luchas políticas y los movimientos sociales que han caracterizado la dinámica contemporánea de América Latina. El presente trabajo no solo enriquece nuestra comprensión sobre el papel de los medios de comunicación en la construcción de narrativas sobre otras regiones del mundo, sino que también ilumina cómo tales representaciones pueden influir en la percepción pública y, en consecuencia, en las relaciones internacionales. Este análisis contribuye a la discusión sobre el impacto de las representaciones mediáticas en la configuración de imaginarios y en la formación de opiniones sobre América Latina en el contexto marroquí, ofreciendo así una perspectiva valiosa para el estudio de la comunicación intercultural y de la política internacional",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc/4.0"
+     },
+     "url": "https://doi.org/10.66778/10.66778/cs.v14n39.01",
+     "doi": "10.66778/10.66778/cs.v14n39.01",
+     "paginas": "10-37",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.66778/10.66778/cs.v14n39.02",
+     "titulo": "Algunas reflexiones sobre los programas sociales destinados a jóvenes en Argentina durante 2024",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Enzo Federico Cuña",
+       "orcid": "https://orcid.org/0009-0009-2889-0619"
+      }
+     ],
+     "resumen": "Las políticas sociales pueden entenderse como aquellas intervenciones estatales destinadas a menguar la tensión inherente al capitalismo entre la libertad e igualdad formal y la desigualdad estructural del mercado. Debido a su potencial normativo, sus impactos trascienden la dimensión meramente material, estructurando sensibilidades sociales e impactando en la conformación de subjetividades y sensibilidades de los destinatarios. Los jóvenes se han perfilado en la agenda de los gobiernos como destinatarios de las políticas sociales. En las últimas décadas, se implementaron diversos programas sociales destinados a ellos, en relación con el ingreso en el mundo del trabajo, construcción de ciudadanía y promoción de la educación, etc. En dicho contexto, el presente artículo –enmarcado en un proyecto mayor desde el CIS-UNLaM- tiene como objetivo revisar los programas sociales destinados a la población juvenil y analizar el lugar de las emociones en sus diseños. Se toma como insumo de análisis una matriz de programas sociales elaborada por medio de una etnografía virtual, que cuenta con una serie de tópicos. Para cumplir el objetivo, se observarán aquellos programas en los que la población objetivo sean los jóvenes; se analizarán la pertenencia institucional y los objetivos para identificar los modos en que las emociones aparecen en las descripciones oficiales. La estrategia argumentativa será: a) conceptualización de las políticas sociales y emociones, b) descripción de los programas destinados a la población juvenil, c) análisis de las emociones halladas y d) unas breves conclusiones. Entre los resultados, se destaca: la preponderancia de lo educativo y lo laboral como áreas temáticas entre los programas, la alusión a la participación en sus objetivos y la asociación de los jóvenes con las nociones de solidaridad y la actitud emprendedora",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc/4.0"
+     },
+     "url": "https://doi.org/10.66778/10.66778/cs.v14n39.02",
+     "doi": "10.66778/10.66778/cs.v14n39.02",
+     "paginas": "38-60",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.66778/10.66778/cs.v14n39.03",
+     "titulo": "El Salvador",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Nelson de Jesús Quintanilla Gómez",
+       "orcid": null
+      }
+     ],
+     "resumen": "El presente artículo analiza el proceso de transformación del sistema político en El Salvador durante el período 2019–2025, caracterizado por una creciente concentración del poder en el Órgano Ejecutivo y un progresivo debilitamiento de los mecanismos de control democrático. El objetivo central es examinar las principales decisiones institucionales, reformas jurídicas y prácticas políticas que evidencian rasgos consistentes con procesos de regresión democrática y autoritarismo competitivo. La investigación adopta un enfoque cualitativo, de carácter descriptivo-analítico, basado en la revisión documental de legislación nacional, resoluciones judiciales, informes de organismos nacionales e internacionales y literatura académica especializada. Los hallazgos muestran una erosión sostenida de la separación de poderes, la utilización prolongada del régimen de excepción como mecanismo de gobernanza y un deterioro significativo del régimen de derechos y garantías fundamentales. Se concluye que el caso salvadoreño constituye un ejemplo contemporáneo de debilitamiento democrático, con implicaciones relevantes para la institucionalidad, el Estado de derecho y la gobernabilidad en América Latina",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc/4.0"
+     },
+     "url": "https://doi.org/10.66778/10.66778/cs.v14n39.03",
+     "doi": "10.66778/10.66778/cs.v14n39.03",
+     "paginas": "61-77",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.66778/10.66778/cs.v14n39.04",
+     "titulo": "La Sociología y las Ciencias Sociales en El Salvador",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "María Inés Dávila Medina",
+       "orcid": "https://orcid.org/0000-0002-8871-730X"
+      },
+      {
+       "nombre": "Rafael Mauricio Paz Narváez",
+       "orcid": "https://orcid.org/0009-0005-5351-347X"
+      }
+     ],
+     "resumen": "Las ciencias sociales se desarrollaron en América, inicialmente, bajo la influencia de la tradición europea, como resultado de procesos de colonización de los pueblos por la Corona Española. Los movimientos independentistas pueden considerarse como el momento en que surgen reflexiones de las sociedades latinoamericanas sobre ellas mismas; particularmente, los intelectuales criollos de Centroamérica reflexionaron sobre las formas de organización de los estados, aunque sin salir del patrón occidental. Desde mediados del siglo XX, se distingue la incorporación de perspectivas propias y emancipadoras en las ciencias sociales que se realizan en América Latina. Para el caso salvadoreño, la sociología y las ciencias sociales se han desenvuelto entre la apropiación de modelos europeos y la búsqueda de interpretaciones propias sobre la realidad nacional, y en una relación dinámica entre investigación social y práctica histórica-política.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc/4.0"
+     },
+     "url": "https://doi.org/10.66778/10.66778/cs.v14n39.04",
+     "doi": "10.66778/10.66778/cs.v14n39.04",
+     "paginas": "78-94",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.66778/10.66778/cs.v14n39.05",
+     "titulo": "El discurso de la salud mental desde la mirada de la Biopolítica y el Biopoder",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Cynthia Córdoba López",
+       "orcid": "https://orcid.org/0000-0001-9069-826X"
+      }
+     ],
+     "resumen": "El presente ensayo tiene como finalidad problematizar en torno a la pregunta ¿Cómo el discurso científico sobre la salud mental puede ser comprendido desde una función política y económica? Para dar respuesta, se analizan los postulados centrales de la teoría de biopolítica y biopoder. Se procura discutir cómo se articulan el saber, la verdad y el poder, en relación con el fenómeno social e histórico de la enfermedad mental",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc/4.0"
+     },
+     "url": "https://doi.org/10.66778/10.66778/cs.v14n39.05",
+     "doi": "10.66778/10.66778/cs.v14n39.05",
+     "paginas": "95-115",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.66778/10.66778/cs.v14n39.06",
+     "titulo": "TikTok como espacio de reproducción del racismo: discursos contra los pueblos indígenas en el contexto de las protestas ecuatorianas de 2025",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Janeth Pilar Díaz Vera",
+       "orcid": "https://orcid.org/0000-0001-8750-0216"
+      },
+      {
+       "nombre": "Juan Illicachi Guzñay",
+       "orcid": "https://orcid.org/0000-0001-6283-6290"
+      },
+      {
+       "nombre": "Ingrid Viviana Estrella Tutivén",
+       "orcid": "https://orcid.org/0000-0002-6531-6132"
+      }
+     ],
+     "resumen": "El artículo analiza a TikTok como un espacio de reproducción del racismo verbal contra los pueblos indígenas en el contexto de las protestas ecuatorianas de 2025. Desde un enfoque metodológico mixto, se examinó un corpus de 60 comentarios publicados entre septiembre y octubre de 2025, aplicando análisis cuantitativo descriptivo y Análisis Crítico del Discurso (ACD). Los resultados evidencian que el 21,7 % de los comentarios contienen racismo verbal explícito y que el 73,3 % utiliza estrategias de polarización “nosotros vs. ellos”. La totalidad de los discursos analizados presenta una carga emocional negativa. El racismo se manifiesta principalmente a través de la criminalización, la deshumanización y la estigmatización económica y cultural del sujeto indígena, concentrándose en usuarios ciudadanos. Se concluye que, pese al marco constitucional ecuatoriano que prohíbe la discriminación, el racismo persiste y se reconfigura en entornos digitales, operando de manera estructural y simbólica mediante narrativas que priorizan el orden urbano y deslegitiman la protesta indígena.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc/4.0"
+     },
+     "url": "https://doi.org/10.66778/10.66778/cs.v14n39.06",
+     "doi": "10.66778/10.66778/cs.v14n39.06",
+     "paginas": "116-136",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.66778/10.66778/cs.v14n39.07",
+     "titulo": "La significancia de la paxko jöta o enramada para el pueblo yoreme",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Dolores Imelda Romero Acosta",
+       "orcid": null
+      },
+      {
+       "nombre": "Gabriela López Félix",
+       "orcid": "https://orcid.org/0000-0001-5706-1048"
+      },
+      {
+       "nombre": "Francisco Antonio Romero Leyva",
+       "orcid": "https://orcid.org/0000-0002-1747-323X"
+      }
+     ],
+     "resumen": "La enramada para el pueblo yoreme no solamente es un espacio de encuentro y diálogo con el otro, la celebración-fiesta, convivencia y protección, sino un lugar de interconexión espiritual con el más allá, entre la vida terrenal y celestial que ruega, ofrece y agradece mediante los rituales, los rezos, las danzas, la música y las deidades con Itom Atchay ӧla, el Inayye buiäla y las santerías por la vida, la salud y el bienestar común. Derivado de las transformaciones socioculturales y de las necesidades propias del pueblo yoreme, la enramada tradicional ha sido desplazada por otros materiales como concreto o lámina. Sin embargo, prevalece la esencia que da sentido a la razón de existir desde cada cultura, contexto y cosmovisión",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc/4.0"
+     },
+     "url": "https://doi.org/10.66778/10.66778/cs.v14n39.07",
+     "doi": "10.66778/10.66778/cs.v14n39.07",
+     "paginas": "137-161",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.66778/10.66778/cs.v14n39.08",
+     "titulo": "Aproximación a la historia oral del Ejido Zeferino Paredes, Sinaloa, México. La importancia de la preservación de la memoria para las nuevas generaciones",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Abel Astorga Morales",
+       "orcid": "https://orcid.org/0000-0002-1309-9420"
+      }
+     ],
+     "resumen": "El objetivo es analizar diversos episodios para una historia oral del Ejido Zeferino Paredes y la importancia de la preservación de la memoria para las nuevas generaciones. Dicha población rural se constituyó como ejido mediante resolución presidencial de 1968, en la que se dotó de 850 hectáreas a 82 ejidatarios provenientes principalmente de Villa Juárez (Culiacán), de la sierra de Durango y de Guanajuato. Como hipótesis, sostenemos que durante 58 años el Ejido moldeó su vida familiar, agraria, ganadera, agrícola, social y cultural, de la mano de mujeres y hombres que con esfuerzo forjaron un mejor porvenir, y la preservación y fortalecimiento de la identidad colectiva se fortalecerá mediante la convivencia intergeneracional y el conocimiento por parte de las nuevas generaciones de los esfuerzos de aquellos primeros habitantes. Por ello, recurrimos a la historia oral como línea historiográfica y metodología para desentrañar, analizar e interpretar el pasado. Los testimonios orales serán la base para una historia de la Matria enfocada en la fundación, el reparto agrario, desmonte; dinámica ganadera, agrícola, quesera, migratoria, cultural, entre otros",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc/4.0"
+     },
+     "url": "https://doi.org/10.66778/10.66778/cs.v14n39.08",
+     "doi": "10.66778/10.66778/cs.v14n39.08",
+     "paginas": "162-182",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.66778/10.66778/cs.v14n39.09",
+     "titulo": "Análisis narratológico de “Bosquejo”, de Élmer Mendoza",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Erick Zapién García",
+       "orcid": "https://orcid.org/0009-0003-8636-8278"
+      }
+     ],
+     "resumen": "En la década de 1970, la Universidad Autónoma de Sinaloa enfrentó una profunda crisis debido al nombramiento de un rector que no pertenecía a la universidad. Lo anterior llevó a estudiantes y maestros a manifestarse en contra de tal designación. De los grupos estudiantiles se desprendió un segmento que se autodenominó Enfermos, el mismo que se convirtió en parte de la Liga Comunista 23 de septiembre, organización que agrupó a distintos movimientos estudiantiles a lo largo de México con el fin de levantarse en armas en contra del Estado. Bajo ese contexto, el autor sinaloense Élmer Mendoza publicó Mucho que reconocer (1978), libro que incluye el cuento “Bosquejo”, en el que se narra el reclutamiento de activistas para adiestrarles de forma militar. El objetivo de este artículo es demostrar, mediante un análisis narratológico, que la obra ofrece una postura crítica y titubeante sobre la organización del movimiento armado. La metodología emplea la propuesta teórica de Luz Aurora Pimentel (1998) sobre los niveles del relato y la teoría del cuento de Marta Elena Munguía (2002). El trabajo se estructura en una sección de fundamentación teórica y una revisión del contexto histórico-literario, seguidas del análisis narratológico de “Bosquejo”. Se concluye que el cuento plantea una visión crítica sobre las formas de organización del movimiento estudiantil durante su transición hacia la militancia armada",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc/4.0"
+     },
+     "url": "https://doi.org/10.66778/10.66778/cs.v14n39.09",
+     "doi": "10.66778/10.66778/cs.v14n39.09",
+     "paginas": "183-204",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.66778/10.66778/cs.v14n39.10",
+     "titulo": "Teletrabajo durante la pandemia por COVID 19 en educación superior",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Marly Yisette Alfaro Salas",
+       "orcid": "https://orcid.org/0000-0002-3691-5961"
+      },
+      {
+       "nombre": "Luis Diego Salas Ocampo",
+       "orcid": "https://orcid.org/0000-0002-7214-7939"
+      }
+     ],
+     "resumen": "Este trabajo profundiza en la preparación de las universidades públicas costarricenses para la generación de teletrabajo por la contingencia de COVID-19, particularmente la Universidad Nacional de Costa Rica (UNA). Se utilizó la teoría de sistemas y de contingencias. Se concluye que la legislación costarricense en materia de contingencias y eventos no esperados era de corte marginal o inexistente en el contexto del teletrabajo. En el sistema de educación superior costarricense no se contaba antes de la pandemia con ningún acercamiento que articulara ambos aspectos, por lo que esta afectó la capacidad adaptativa de la organización",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc/4.0"
+     },
+     "url": "https://doi.org/10.66778/10.66778/cs.v14n39.10",
+     "doi": "10.66778/10.66778/cs.v14n39.10",
+     "paginas": "205-238",
+     "fuente": "Crossref"
+    }
+   ]
+  },
+  {
+   "id": "v13-n38-2025",
+   "volumen": "13",
+   "numero": "38",
+   "anio": 2025,
+   "fecha": "2025-11-26",
+   "etiqueta": "Vol. 13, núm. 38 (2025)",
+   "fuente": "Crossref",
+   "articulos": [
+    {
+     "id": "10.66778/cs.v13n38.01",
+     "titulo": "Prácticas pedagógicas inclusivas en la modalidad virtual de aprendizaje para estudiantes con discapacidad auditiva",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Eymi Zavala",
+       "orcid": "https://orcid.org/0009-0007-7578-2018"
+      }
+     ],
+     "resumen": "La educación inclusiva enfrenta retos significativos para los estudiantes con discapacidad auditiva en la modalidad virtual, especialmente en contextos con brecha tecnológica y en entornos tradicionalmente presenciales. La rápida transición hacia la virtualidad, impulsada por la pandemia de COVID-19, evidenció desafíos como la carencia de intérpretes en Lengua de Señas Salvadoreña (LESSA), la limitada capacitación docente en metodologías inclusivas y el acceso desigual a recursos tecnológicos. Mediante entrevistas semiestructuradas a docentes, estudiantes, directivos y profesionales externos, junto con observaciones no participativas en clases virtuales, se identificaron tanto obstáculos como estrategias de inclusión. Entre estas destacan materiales visuales adaptados, videos signados, subtitulación, gamificación y acompañamiento personalizado, que fortalecen la comprensión y participación de los estudiantes. Por ello, en el artículo se presentan estrategias y retos, incluyendo buenas prácticas orientadas a consolidar la equidad educativa, promover la inclusión efectiva y fomentar la autonomía de los estudiantes con discapacidad auditiva en entornos virtuales. Palabras clave: Educación inclusiva, discapacidad auditiva, entornos virtuales de aprendizaje, accesibilidad, prácticas pedagógicas.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc/4.0"
+     },
+     "url": "https://doi.org/10.66778/cs.v13n38.01",
+     "doi": "10.66778/cs.v13n38.01",
+     "paginas": "10-26",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.66778/cs.v13n38.02",
+     "titulo": "Asociación entre capacidades docentes, entornos familiares y prácticas vecinales con la asistencia del estudiantado en una unidad de un Colegio Militarizado",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "David Fernando Lozano Treviño",
+       "orcid": "https://orcid.org/0000-0002-5455-4223"
+      },
+      {
+       "nombre": "Diego Cristóbal Rodríguez Rodríguez",
+       "orcid": "https://orcid.org/0000-0002-7341-930X"
+      }
+     ],
+     "resumen": "El propósito principal de esta investigación es asociar los factores Capacidades Docentes, Entornos Familiares y Prácticas Vecinales con la asistencia del alumnado de la unidad Linares del Colegio Militarizado “General Mariano Escobedo” del Estado de Nuevo. El estudio fue no experimental, descriptivo y correlacional con base en una encuesta estandarizada aplicada de manera censal a 273 estudiantes del nivel medio superior. Para la composición de los factores se aplicaron técnicas de fiabilidad Alfa de Cronbach con resultados superiores a .70. Se realizó un Análisis de Regresión Lineal Múltiple para determinar la influencia de los constructos independientes con la asistencia a clases. Los resultados confirman las hipótesis propuestas. El factor Capacidades Docentes determina la asistencia del estudiantado y es el que más impacto tiene. Entornos Familiares y Prácticas Vecinales también inciden en la asistencia con pesos inferiores pero relevantes. Los resultados invitan a verificar constantemente el indicador de asistencia y desarrollar estrategias que contengan el ausentismo cuando se dé y evitar la potencial reprobación y posible abandono del bachillerato",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc/4.0"
+     },
+     "url": "https://doi.org/10.66778/cs.v13n38.02",
+     "doi": "10.66778/cs.v13n38.02",
+     "paginas": "27-48",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.66778/cs.v13n38.03",
+     "titulo": "Rediseño curricular",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Alba Canales García",
+       "orcid": "https://orcid.org/0000-0003-2800-7135"
+      },
+      {
+       "nombre": "Maura Espinoza Rostrán",
+       "orcid": "https://orcid.org/0000-0002-4102-1014"
+      },
+      {
+       "nombre": "Norieth Guillén Cordero",
+       "orcid": "https://orcid.org/0000-0003-3724-5549"
+      }
+     ],
+     "resumen": "En este artículo se analiza el proceso de rediseño curricular realizado entre 2020 y 2022 en la carrera Educación Comercial de la Universidad Nacional, así como su implementación en 2023, desde la perspectiva de sus actores. El tipo de investigación fue descriptiva con un enfoque mixto, basado en la percepción de la población participante, que estuvo conformada por 38 estudiantes del grado de bachillerato y 28 docentes. El objetivo fue identificar los elementos clave que contribuyen a la mejora continua del programa académico. La principal conclusión es que el proceso de rediseño fue exitoso gracias al trabajo colaborativo entre las unidades académicas, la comunicación efectiva, la transparencia, el acompañamiento de entidades superiores como la Vicerrectoría de Docencia y la búsqueda constante de la innovación académica. Esta experiencia ofrece pautas y estrategias que pueden ser replicadas por otras carreras universitarias que busquen mejorar y actualizar sus programas educativos.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc/4.0"
+     },
+     "url": "https://doi.org/10.66778/cs.v13n38.03",
+     "doi": "10.66778/cs.v13n38.03",
+     "paginas": "49-71",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.66778/cs.v13n38.04",
+     "titulo": "Charangas de Bejucal, necesidad de su evaluación para la preservación como patrimonio cultural de la nación cubana",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Renier Helvio Fernández García",
+       "orcid": "https://orcid.org/0000-0003-4385-5714"
+      },
+      {
+       "nombre": "Máryuri García González",
+       "orcid": "https://orcid.org/0000-0002-2734-6541"
+      }
+     ],
+     "resumen": "Se realiza un análisis desde el surgimiento y evolución de las Charangas de Bejucal como patrimonio cultural de la nación cubana, develando la necesidad de su evaluación para la preservación del patrimonio cultural intangible que representan como memoria viva, estando la evaluación de las charangas mediadas socialmente por la cultura y se concibe con la finalidad de perfeccionarlas e incidir positivamente en su gestión. Por lo que el objetivo del artículo es: Demostrar la necesidad de evaluar la calidad de las festividades para su preservación y perpetuidad, como parte del acervo cultural de la nación cubana.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc/4.0"
+     },
+     "url": "https://doi.org/10.66778/cs.v13n38.04",
+     "doi": "10.66778/cs.v13n38.04",
+     "paginas": "72-95",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.66778/cs.v13n38.05",
+     "titulo": "La migración México-Belice a partir del establecimiento de la frontera binacional",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Jazmín Benítez López",
+       "orcid": "https://orcid.org/0000-0002-2734-5012"
+      }
+     ],
+     "resumen": "El artículo analiza la evolución histórica, geopolítica y migratoria de la frontera México–Belice, destacando su importancia estratégica en el Caribe mesoamericano. Se examinan los procesos que definieron el límite territorial, las dinámicas socioculturales derivadas de la movilidad cotidiana y los flujos migratorios laborales y temporales que caracterizan la región. Aunque la migración beliceña permanente hacia México es reducida, el tránsito fronterizo es intenso y responde a prácticas económicas y sociales compartidas. El estudio identifica desafíos persistentes como la inseguridad, el tráfico de personas y la falta de datos precisos sobre movilidad irregular. Se concluye que esta frontera constituye un espacio clave para comprender las interacciones entre geopolítica, movilidad humana y cooperación bilateral",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc/4.0"
+     },
+     "url": "https://doi.org/10.66778/cs.v13n38.05",
+     "doi": "10.66778/cs.v13n38.05",
+     "paginas": "96-126",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.66778/cs.v13n38.06",
+     "titulo": "Migración irregular y política migratoria de México",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Ricardo Domínguez Guadarrama",
+       "orcid": "https://orcid.org/0000-0003-4125-8270"
+      },
+      {
+       "nombre": "Danilo Rodríguez Arango",
+       "orcid": "https://orcid.org/0009-0004-4712-9570"
+      }
+     ],
+     "resumen": "Frente a la lógica de la construcción del migrante irregular como personas que amenazan la seguridad nacional en Estados Unidos, el gobierno de México ha propuesto una política migratoria cuyo eje central es el respeto a los derechos humanos de los migrantes y reconocer que buscan mejores condiciones de vida. A través de los programas sociales Sembrando Vida y Jóvenes Construyendo el Futuro puesto en marcha en diversos países de Centroamérica, el Caribe y Sudamérica, el gobierno mexicano aborda las causas estructurales que motivan la migración; una propuesta que pretende combatir la lógica de la securitización de la migración.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc/4.0"
+     },
+     "url": "https://doi.org/10.66778/cs.v13n38.06",
+     "doi": "10.66778/cs.v13n38.06",
+     "paginas": "127-147",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.66778/cs.v13n38.07",
+     "titulo": "Desinterés político y deterioro de la participación en acciones de protesta",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Julio Eduardo Chumpitazi Ramírez",
+       "orcid": "https://orcid.org/0000-0003-3519-9761"
+      }
+     ],
+     "resumen": "Entre 2018 y 2024 se produjeron importantes olas de protesta en Haití. Pero, estos eventos y la participación de los haitianos en ellos disminuyeron en 2023. La literatura revisada señala una relación entre estos fenómenos de desmovilización social con el desinterés político, la victimización por violencia criminal y las desigualdades. Con este modelo teórico se desarrolló una investigación cuantitativa transeccional y correlacional usando los datos del Barómetro de las Américas. El objetivo fue identificar cuál es la relación entre el desinterés político y el deterioro de la participación en acciones de protesta en Haití durante 2023. Como resultado se comprobó una relación significativa entre ambas variables. La conclusión fue que el modelo sobre desmovilización social en el caso haitiano: 1) acertó en su relación con el desinterés político; 2) acertó parcialmente en su relación con la victimización por criminalidad; y 3) no acertó en su relación con las desigualdades múltiples",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc/4.0"
+     },
+     "url": "https://doi.org/10.66778/cs.v13n38.07",
+     "doi": "10.66778/cs.v13n38.07",
+     "paginas": "148-171",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.66778/cs.v13n38.08",
+     "titulo": "La psicología de la víctima de un fraude financiero",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Nelson Ernesto Rivera Díaz",
+       "orcid": "https://orcid.org/0000-0001-5344-4295"
+      },
+      {
+       "nombre": "Katya Eugenia Alfaro Delgado",
+       "orcid": "https://orcid.org/0009-0008-7633-4847"
+      }
+     ],
+     "resumen": "El artículo analiza la psicología de las víctimas de fraude financiero, abordando la influencia de aspectos emocionales, sociales y tecnológicos sobre las condiciones de vulnerabilidad potencial. Se destaca que, aunque existen señales de alerta claras, muchas víctimas aún caen en esquemas sofisticados debido a factores como la baja estabilidad emocional y decisiones irracionales. Se realiza un repaso por las principales modalidades de fraude vigentes, como los esquemas piramidales y las estafas digitalizadas mediante plataformas pseudocriptográficas y ataques cibernéticos, con especial atención en la situación salvadoreña; además, se enfatiza la importancia de la conciencia y educación del usuario como primera defensa, reconociendo que la sofisticación de los métodos delictivos desafía los esfuerzos preventivos. En consecuencia, se resalta la necesidad de un enfoque multidisciplinario para estudiar y enfrentar el flagelo, integrando el rol de las características psicológicas como catalizador de vulnerabilidad, pudiendo llegar a conclusiones acerca de la necesidad de integrar aspectos psicológicos en la educación para la prevención de fraudes financieros",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc/4.0"
+     },
+     "url": "https://doi.org/10.66778/cs.v13n38.08",
+     "doi": "10.66778/cs.v13n38.08",
+     "paginas": "172-198",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.66778/cs.v13n38.09",
+     "titulo": "Polarización sentimental",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Ana María Fernández Poncela",
+       "orcid": "https://orcid.org/0000-0003-3080-212X"
+      }
+     ],
+     "resumen": "Estamos en tiempos donde las emociones irrumpen oficialmente en la política, en una época que se apela a la polarización afectiva, en un momento donde prevalecen discursos exaltados y prácticas contradictorias en el mundo. Este texto presenta y debate en torno a la polarización política, ideológica, afectiva y sentimental. Además, presenta el estudio de caso de las emociones hacia las candidaturas presidenciales en México en 2024, a través de entrevistas sobre el tema, que expresan la mirada y el sentir ciudadano. Las entrevistas se aplicaron en septiembre tras las elecciones en la Ciudad de México, ello con objeto, de ejercitar imaginarios sociales, memorias colectivas recientes, experiencias y expectativas sentimentales personales y colectivas en torno al tema. Con ello se esboza el panorama de sentimientos a través de la declaración emocional tras la contienda electoral, acompañada de argumentos y reflexiones; lo cual dibuja ya de un modo quizás más tranquilo y realista, aunque sin desconocer el sentir, las percepciones emocionales dirigidas hacia las candidatas y el candidato. En conclusión, hay esperanza y seguridad entre el electorado de la candidata ganadora Claudia Sheinbaum, ante el enojo, miedo y tristeza del electorado de las candidaturas opositoras.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc/4.0"
+     },
+     "url": "https://doi.org/10.66778/cs.v13n38.09",
+     "doi": "10.66778/cs.v13n38.09",
+     "paginas": "199-235",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.66778/cs.v13n38.10",
+     "titulo": "Condiciones alimentarias y comportamiento adolescente: efectos en la conducta, el aprendizaje y la interacción social desde un enfoque sociocultural",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Saul Antonio Vega Baires",
+       "orcid": "https://orcid.org/0000-0002-2954-4103"
+      },
+      {
+       "nombre": "Mirna Leticia Paz Peña",
+       "orcid": "https://orcid.org/0009-0001-2012-2908"
+      },
+      {
+       "nombre": "Leida Guadalupe Monterrosa Matute",
+       "orcid": "https://orcid.org/0000-0002-6922-143X"
+      },
+      {
+       "nombre": "Tatiana Lissette Flores Flores",
+       "orcid": "https://orcid.org/0009-0004-7090-4029"
+      },
+      {
+       "nombre": "Reina Elizabeth Carranza Muñoz",
+       "orcid": "https://orcid.org/0009-0002-5014-0557"
+      },
+      {
+       "nombre": "José Mario Castro Hernández",
+       "orcid": "https://orcid.org/0009-0000-6906-6241"
+      },
+      {
+       "nombre": "Mario Alejandro Rincán Regalado",
+       "orcid": "https://orcid.org/0009-0003-7215-9205"
+      },
+      {
+       "nombre": "Dagoberto Antonio Ramírez Godínez",
+       "orcid": "https://orcid.org/0009-0001-7879-1573"
+      }
+     ],
+     "resumen": "El desarrollo físico, las condiciones de salud, la autopercepción del sujeto y las tradiciones alimentarias son algunas de las aristas más importantes en torno las condiciones alimentarias de los adolescentes que habitan en el Caserío el Trueno, Distrito de Torola departamento de Morazán, El Salvador. Objetivo: determinar la relación entre las condiciones alimentarias de los adolescentes y su conducta, desempeño académico e interacción social. Metodología: se realizó una investigación con enfoque mixto (cualitativo-exploratorio con apoyo cuantitativo) para analizar las condiciones alimentarias, comportamiento adolescente e interacción social; empleando entrevistas semiestructuradas y observación participante dirigidas a adolescentes, familias y docentes. Los datos cuantitativos se recopilaron mediante encuesta nutricional básica y registros académicos. La muestra fue 30 participantes entre niños y adolescentes (9 – 20 años), 62 familias y 16 docentes. Para el análisis de datos, se utilizó estadística descriptiva y la herramienta ofimática Microsoft Excel para determinar los patrones alimentarios y correlaciones básicas. Resultados y Discusión: los adolescentes enfrentan desafíos educativos y nutricionales, con dietas monótonas, alto consumo de alimentos procesados y bajo rendimiento académico. A pesar de esto, muestran resiliencia, participación comunitaria y expectativas educativas y laborales a futuro. Conclusiones: los patrones alimentarios de los adolescentes se encuentran condicionados por factores socioculturales y económicos; lo cual demandan políticas públicas que reconcilien las prácticas comunitarias con la Seguridad Alimentaria y Nutricional, en el que se integren enfoques educativos, sanitarios y culturales para un impacto integral",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc/4.0"
+     },
+     "url": "https://doi.org/10.66778/cs.v13n38.10",
+     "doi": "10.66778/cs.v13n38.10",
+     "paginas": "236-261",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.66778/cs.v13n38.11",
+     "titulo": "El Corredor Seco Centroamericano",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Rafael Ignacio Romero Mayo",
+       "orcid": "https://orcid.org/0000-0002-2734-5012"
+      }
+     ],
+     "resumen": "El Corredor Seco Centroamericano (CSC) se ha consolidado como una de las regiones más sensibles y vulnerables al cambio climático a nivel global, abarcando territorios de Guatemala, El Salvador, Honduras, Nicaragua, e incluso una franja del sur de México. Esta zona agroecológica enfrenta una crisis de carácter múltiple y estructural, donde la intensificación del estrés hídrico y las sequías recurrentes (particularmente la canícula) interactúan sinérgicamente con altos niveles de pobreza multidimensional, violencia estructural y profundas vulnerabilidades de género. La población, cuya subsistencia depende en gran medida de la agricultura de temporal, se encuentra atrapada en una \"trampa de desarrollo\" en la que los choques climáticos recurrentes anulan los avances económicos, provocando una severa inseguridad alimentaria. Esta situación, exacerbada por la coerción de actores no estatales, se erige como el principal factor de empuje de la migración forzada. La movilidad humana desde el CSC es, por tanto, una manifestación de la \"adaptación fallida\", un desplazamiento forzado socioambiental activado por el colapso de la viabilidad productiva de los medios de vida. En este artículo se analiza la interacción sinérgica entre la crisis climática, la pobreza, la violencia, el estrés hídrico, la migración y la seguridad alimentaria. Desde una perspectiva crítica, se evalúa la efectividad de las políticas públicas nacionales y los esquemas de cooperación internacional (top-down), contrastándolos con las soluciones de adaptación basadas en la comunidad (bottom-up) que demuestran una mayor resiliencia estructural",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc/4.0"
+     },
+     "url": "https://doi.org/10.66778/cs.v13n38.11",
+     "doi": "10.66778/cs.v13n38.11",
+     "paginas": "262-287",
+     "fuente": "Crossref"
+    }
+   ]
+  }
+ ]
+};

@@ -1,0 +1,917 @@
+// Copia de revistas/2346-8904.json para abrir la aplicación sin servidor.
+(window.DATOS_REVISTAS = window.DATOS_REVISTAS || {})["revistas/2346-8904.json"] = {
+ "version": 1,
+ "generado": "2026-10-18T05:53:59+00:00",
+ "es_prueba": false,
+ "revista": {
+  "id": "2346-8904",
+  "titulo": "Cuestiones de Sociología",
+  "idioma_titulo": null,
+  "titulo_alternativo": null,
+  "idioma_titulo_alternativo": null,
+  "idiomas": [
+   "es",
+   "en"
+  ],
+  "issn_impreso": null,
+  "issn_electronico": "2346-8904",
+  "editorial": "Universidad Nacional de La Plata",
+  "pais": "AR",
+  "materias": [
+   "Sociology (General)",
+   "Social sciences (General)"
+  ],
+  "palabras_clave": [
+   "sociology",
+   "history"
+  ],
+  "licencias": [
+   {
+    "nombre": "CC BY-NC-SA 4.0",
+    "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+   }
+  ],
+  "url": "http://www.cuestionessociologia.fahce.unlp.edu.ar/",
+  "url_doaj": "https://doaj.org/toc/2346-8904",
+  "descripcion": null,
+  "fuente_ficha": "DOAJ",
+  "archivo": "revistas/2346-8904.json",
+  "ultimo_numero": "núm. 34 (2026)",
+  "fuente_numeros": "Crossref"
+ },
+ "numeros": [
+  {
+   "id": "n34-2026",
+   "volumen": null,
+   "numero": "34",
+   "anio": 2026,
+   "fecha": "2026-08-01",
+   "etiqueta": "núm. 34 (2026)",
+   "fuente": "Crossref",
+   "articulos": [
+    {
+     "id": "10.24215/23468904e214",
+     "titulo": "Los impactos silenciosos de la digitalización en el mundo marginal de América Latina. Reflexiones preliminares",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Juan Pablo Pérez Sáinz",
+       "orcid": null
+      }
+     ],
+     "resumen": "El presente texto busca una primera aproximación al impacto de las tecnologías digitales en el mundo marginal de América Latina. Por un lado, aborda cómo estas tecnologías afectan el proceso de desposesión de medios de vida a través del trabajo conectado en cierto tipo de plataformas (de transporte y de entregas) y del uso de tecnologías digitales simples en el caso de establecimientos pequeños. Por otro lado, analiza el auge de la ultraderecha y su impacto en los procesos políticos de la marginación. Se concluye reflexionando sobre una serie de retos que la digitalización plantea a esta población en tanto que abre nuevos espacios de disputa de poder.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.24215/23468904e214",
+     "doi": "10.24215/23468904e214",
+     "paginas": "e214",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.24215/23468904e215",
+     "titulo": "Clase media bajadora. Experiencia, individualización e imaginación sociológica",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Silvina Merenson",
+       "orcid": "https://orcid.org/0000-0002-2614-0541"
+      },
+      {
+       "nombre": "Pablo Semán",
+       "orcid": "https://orcid.org/0000-0001-7181-3701"
+      }
+     ],
+     "resumen": "Clase social, experiencia e individuación constituyen tres términos clave en el análisis de las sociedades occidentales contemporáneas. Este artículo indaga en sus conexiones y tensiones en la tarea de imaginar la estructura social, la movilidad y establecer autoenclasamientos en el conurbano bonaerense. Para ello advertimos el potencial hermenéutico que hoy entrañan una serie de desplazamientos operados sobre algunos términos –“colectivo”, “referente”, entre ellos- a la hora de establecer los conflictos que organizan la vida social y las transformaciones secuenciadas tanto en lecturas del Estado como en las opciones políticas. Con ello nos interesa señalar algunas de las dimensiones en que se manifiesta hoy la crisis de legibilidad y comprensión de lo social.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.24215/23468904e215",
+     "doi": "10.24215/23468904e215",
+     "paginas": "e215",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.24215/23468904e216",
+     "titulo": "Retribución, padecimiento y bienestar: economías morales de la política colectiva y constitución de subjetividades en periferias urbanas de Argentina",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Virginia Manzano",
+       "orcid": "https://orcid.org/0009-0006-8904-3702"
+      }
+     ],
+     "resumen": "Este artículo analiza los procesos de redistribución social en Argentina como disputas colectivas, afectivas y éticas donde se gestionan padecimientos y formas de bienestar, y se constituyen tipos específicos de subjetividades. Partiendo del concepto de economía moral, se examina cómo las organizaciones populares configuran criterios locales de justicia y dignidad en las disputas por el excedente social y apelan a compromisos redistributivos del Estado ante poblaciones empobrecidas dentro de un campo de contienda inaugurado con el retorno democrático en 1983. Metodológicamente, los argumentos se sustentan en un abordaje etnográfico que recupera el trabajo de campo con el movimiento de desocupados en La Matanza, Gran Buenos Aires (2001-2006), y con la Organización Barrial Tupac Amaru en San Salvador de Jujuy (2014-2018). En contextos de extrema crisis y privación material, el movimiento de desocupados articuló compromisos afectivos en torno al cuerpo sufrido, ponderando la capacidad agencial de “arreglárselas”. Por el contrario, la Tupac Amaru desplegó un proyecto deliberado de construcción de un sujeto virtuoso y activo a gran escala, valiéndose de lenguajes de ciudadanía para disputar las relaciones de poder locales y reconfigurar los ordenamientos de clase, étnicos y sexuales mediante estrictas regulaciones colectivas sobre las conductas y los cuerpos. Finalmente, el artículo abre interrogantes sobre cómo el actual programa político-económico de radicalización del mercado en Argentina procura quebrar este entramado histórico de negociación y contención, recurriendo a lógicas de coerción, criminalización y estigmatización penal de las organizaciones populares.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.24215/23468904e216",
+     "doi": "10.24215/23468904e216",
+     "paginas": "e216",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.24215/23468904e217",
+     "titulo": "Dominio espacial y relaciones extractivas en la ciudad popular: despojo, mercantilización y violencia",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Vicente Moctezuma Mendoza",
+       "orcid": "https://orcid.org/0000-0003-4461-3899"
+      }
+     ],
+     "resumen": "Con base en investigaciones etnográficas en el oriente del Centro Histórico de la Ciudad de México, una zona marcada por la segregación socioespacial de sectores populares, analizo la expansión de lógicas de acumulación vinculadas al despojo y la extracción económica en la espacialidad popular, en diálogo con debates sobre neoliberalismo urbano y acumulación capitalista. A partir de tres ámbitos: el espacio público y el comercio callejero; las plazas comerciales de propiedad condominal y la vivienda en condiciones irregulares de propiedad. Examino cómo, por medios violentos, distintos actores inscritos en la configuración de los sectores populares fundan un dominio espacial que les permite despojar, privatizar y acaparar recursos que constituyen medios de vida y fuentes de ingreso, subordinando su acceso a relaciones extractivas de carácter rentista. Muestro que, si bien se trata de procesos de mercantilización, este concepto no basta para dar cuenta de las relaciones de poder y expoliación que se establecen; que estas relaciones se sostienen en condiciones de precariedad; y que estos órdenes, aunque están fuera de la ley, no suponen ausencia de estado, sino formas en que sus márgenes se configuran.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.24215/23468904e217",
+     "doi": "10.24215/23468904e217",
+     "paginas": "e217",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.24215/23468904e218",
+     "titulo": "Transformaciones de los ilegalismos plebeyos en el conurbano bonaerense",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Nahuel Roldán",
+       "orcid": "https://orcid.org/0000-0001-7121-2850"
+      },
+      {
+       "nombre": "Esteban Rodríguez Alzueta",
+       "orcid": "https://orcid.org/0000-0003-2736-4341"
+      }
+     ],
+     "resumen": "Este artículo analiza las transformaciones recientes de los ilegalismos plebeyos en el conurbano bonaerense a partir de la noción de “universo transa” como ensamblaje social que articula mercado, trabajo, prestigio, protección y violencia. Lejos de reducir el fenómeno a la expansión de organizaciones verticalizadas o a la mera dinámica de oferta y demanda, el trabajo muestra cómo el narcomenudeo se inscribe en procesos más amplios de precarización laboral, fragmentación comunitaria y debilitamiento de las mediaciones estatales y políticas. A partir de evidencia territorial y diálogo con la literatura comparada, se argumenta que la mutación actual no se caracteriza por la consolidación de grandes estructuras centralizadas sino por la proliferación horizontal y rizomática de actores cuentapropistas, lo que altera los dispositivos tradicionales de regulación policial y reconfigura la vida barrial. El artículo examina las dinámicas internas del mercado —división del trabajo, control del dinero, reemplazabilidad en la base— y sus efectos en la economía moral del reconocimiento, el derrame local de recursos y la transformación de los códigos de convivencia. Asimismo, aborda la relación entre consumo desigual, erosión de horizontes de ascenso social y migración juvenil hacia tareas del universo transa, destacando la tensión entre promesas de movilidad inmediata y precariedad estructural. Finalmente, se sostiene que estas transformaciones no producen un orden alternativo coherente, sino un escenario ambivalente donde regulación y desregulación coexisten, y donde la expansión del mercado ilegal reorganiza, de manera inestable, las condiciones de la convivencia en los barrios plebeyos bonaerenses.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.24215/23468904e218",
+     "doi": "10.24215/23468904e218",
+     "paginas": "e218",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.24215/23468904e219",
+     "titulo": "Valor(es) y la tríada tierra-trabajo-política. Una etnografía sobre vida urbana en el Gran Buenos Aires",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Lucas Barreto",
+       "orcid": "https://orcid.org/0000-0001-9844-087X"
+      }
+     ],
+     "resumen": "El texto sintetiza algunos resultados de una etnografía en barrios populares de La Matanza, uno de los distritos más emblemáticos y populosos del Gran Buenos Aires. A partir de trabajo de campo de largo aliento junto a residentes de asentamientos y barrios autoproducidos de mayor consolidación, trabajadores de cooperativas de saneamiento ambiental encuadradas en programas sociales de empleo, referentes barriales y funcionarios estatales, abordé procesos recientes de urbanización y reproducción de la vida centrándome en los entramados de poder que conforman la tríada tierra-trabajo-política. En esta nota de investigación pongo el foco en uno de los aspectos explorados: los modos de valorización y extracción de valor que llevan a cabo distintos actores sociales para (re)crear la vida urbana en escenarios de incertidumbre, precarización y violencia creciente.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.24215/23468904e219",
+     "doi": "10.24215/23468904e219",
+     "paginas": "e219",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.24215/23468904e220",
+     "titulo": "Comer en tiempos de desigualdad. Sectores populares y modos de resolver las comidas",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Celeste Ambrosi",
+       "orcid": "https://orcid.org/0000-0002-4558-3081"
+      }
+     ],
+     "resumen": "Esta nota de investigación recupera los principales hallazgos de la tesis doctoral sobre desigualdad y acceso al alimento en sectores populares urbanos. En pos de hacerlos dialogar con los actuales procesos de desigualdad y contribuir a la formulación de nuevas preguntas acerca de dichos sectores, este trabajo presenta cómo la fragmentación sociolaboral vivenciada en las últimas décadas se expresa en estrategias alimentarias heterogéneas -denominadas, del “rebusque”, del “aguante” y para “vivir al día”- que, en ocasiones y en su extremo, sedimentan en la gestión del hambre. Asimismo, se plantea el modo en que, aún en contextos de exclusión, se (re)inventan las comidas según preferencias culturales, tomando distancia de aquella idea de gustos basados en la necesidad.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.24215/23468904e220",
+     "doi": "10.24215/23468904e220",
+     "paginas": "e220",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.24215/23468904e221",
+     "titulo": "“Algo suprapolítico”: catolicismo, política e identidades en las organizaciones de la economía popular en la Argentina reciente",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Laureano Gonzalez",
+       "orcid": "https://orcid.org/0000-0001-9449-5611"
+      }
+     ],
+     "resumen": "Este trabajo analiza la incorporación de elementos del universo simbólico católico al discurso, identidad y repertorio de movilización de la Confederación de los Trabajadores de la Economía Popular (CTEP) durante el período 2011-2019. Se expone cómo ese proceso implicó una apropiación activa y disputada del lenguaje religioso, con tensiones internas que atravesaron a sus militancias. La mediación organizacional puso en juego la fe popular en su proceso reivindicativo y organizacional, pero excediendo lógicas utilitarias, expresando y cristalizando la vivencia popular de la fe y la política. Frente a un escenario de incógnitas en torno al futuro de la politicidad popular, el artículo propone la experiencia de la CTEP como un espejo en el que reconocer la capacidad creativa y la vitalidad simbólica de estos actores en la Argentina contemporánea.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.24215/23468904e221",
+     "doi": "10.24215/23468904e221",
+     "paginas": "e221",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.24215/23468904e222",
+     "titulo": "¿Dónde está el Estado? Indagaciones sobre el futuro del trabajo fabril en la Argentina de ahora",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Marina Farinetti",
+       "orcid": null
+      }
+     ],
+     "resumen": "Este artículo indaga las relaciones entre trabajo fabril y estatalidad a partir de un estudio de caso realizado en Viamo, una empresa argentina de la industria del calzado. Mediante entrevistas a propietarios y trabajadorxs, reconstruye la historia de la firma y explora distintas aproximaciones al Estado presentes en la experiencia fabril: las relaciones de clase y género, las políticas económicas, los saberes organizacionales, la planificación, los afectos y la formación para el trabajo. El análisis muestra que la producción de calzado articula dimensiones industriales y artesanales, familiares y empresariales, cuya reproducción depende de complejas mediaciones estatales. Asimismo, revela las tensiones que atraviesan el futuro del trabajo fabril en la Argentina contemporánea, marcadas por la pérdida de los oficios, la incertidumbre económica y los desafíos de la racionalización productiva. Finalmente, el derrumbe de la empresa durante el proceso de investigación pone de relieve la fragilidad de este mundo industrial y la centralidad de la acción estatal en las condiciones de posibilidad de las pequeñas y medianas empresas.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.24215/23468904e222",
+     "doi": "10.24215/23468904e222",
+     "paginas": "e222",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.24215/23468904e223",
+     "titulo": "Las clases populares hoy. Una historia de cómo llegamos hasta acá",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Jerónimo Pinedo",
+       "orcid": "https://orcid.org/0000-0002-0389-624X"
+      },
+      {
+       "nombre": "Cecilia Ferraudi Curto",
+       "orcid": "https://orcid.org/0000-0003-2874-264X"
+      }
+     ],
+     "resumen": "Este ensayo explora la actualidad de las clases populares en Argentina. Enfatiza las relaciones entre mercado, Estado y tramas de reciprocidad en los vínculos de interdependencia social que configuran a los sectores populares hoy. Para ello parte de un antiguo texto de síntesis y sitúa su atención en los procesos de erosión y desgaste de las tramas sociales populares. Recorre las transformaciones de las interacciones entre Estado y clases populares después del 2001, la expansión de diversas formas sociales del mercado, las distancias y desavenencias entre mundo y campo popular y la aceleración de dichos procesos durante y después de la pandemia.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.24215/23468904e223",
+     "doi": "10.24215/23468904e223",
+     "paginas": "e223",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.24215/23468904e224",
+     "titulo": "Desigualdades y agencias en clave relacional: pistas para mirar el mundo de la marginación Reseña de Pérez Sáinz, Juan Pablo (2019). La rebelión de los que nadie quiere ver. Respuestas para sobrevivir a las desigualdades extremas en América Latina. Siglo XXI",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Magdalena Tóffoli",
+       "orcid": "https://orcid.org/0000-0002-2422-8734"
+      }
+     ],
+     "resumen": "La rebelión de los que nadie quiere ver es un libro que vuelve sobre una pregunta recurrente en los intentos de las ciencias sociales por comprender la configuración contemporánea de un orden social permeado por las capilaridades del neoliberalismo.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.24215/23468904e224",
+     "doi": "10.24215/23468904e224",
+     "paginas": "e224",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.24215/23468904e225",
+     "titulo": "De peón a reina. La metamorfosis de una transa de barrio en dealer del jet-set. Reseña de Roldán, Nahuel (2024). Nunca la vi llorar. Una transa entre el barrio y el after office. Editorial de la Universidad Nacional de Quilmes.",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Manuela Bértola",
+       "orcid": "https://orcid.org/0009-0002-0140-0148"
+      }
+     ],
+     "resumen": "El libro de Nahuel Roldan nos presenta bifurcaciones múltiples, donde podríamos detenernos en cada vértice para dialogar con la propuesta expuesta por el autor. La conformación del libro se desglosa en dos partes, una donde la investigación se desarrolla como una crónica dentro de una narración etnográfica y otra orientada al abordaje metodológico.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.24215/23468904e225",
+     "doi": "10.24215/23468904e225",
+     "paginas": "e225",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.24215/23468904e226",
+     "titulo": "“Sos parte del misterio”. Estar en el mundo, cultivar el oficio y elaborar artesanías intelectuales. Entrevista a Elizabeth Jelin",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Jerónimo Pinedo",
+       "orcid": "https://orcid.org/0000-0002-0389-624X"
+      },
+      {
+       "nombre": "Victoria D’Amico",
+       "orcid": "https://orcid.org/0000-0001-8213-1642"
+      },
+      {
+       "nombre": "Chiara Maestri",
+       "orcid": null
+      }
+     ],
+     "resumen": "El siguiente documento recoge la entrevista realizada a Elizabeth Jelin en el marco de su visita a la ciudad de La Plata los días 4 y 5 de noviembre de 2025. El diálogo con Elizabeth Jelin es un ejercicio permanente de conexión entre las inquietudes personales y los problemas públicos. A través del recorrido por su biografía, su trayectoria formativa y profesional fuimos descubriendo las prácticas que forjan un oficio intelectual especialmente atento a poner en el centro a los sectores populares, a mirar “desde abajo”. A su vez, nos permitió trazar la configuración de la sociología como campo disciplinar en un contexto de emergencia fuertemente latinoamericano en sus redes e interrogantes.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.24215/23468904e226",
+     "doi": "10.24215/23468904e226",
+     "paginas": "e226",
+     "fuente": "Crossref"
+    }
+   ]
+  },
+  {
+   "id": "n33-2026",
+   "volumen": null,
+   "numero": "33",
+   "anio": 2026,
+   "fecha": "2026-02-01",
+   "etiqueta": "núm. 33 (2026)",
+   "fuente": "Crossref",
+   "articulos": [
+    {
+     "id": "10.24215/23468904e205",
+     "titulo": "Políticas públicas para juventudes y adolescencias en Argentina (2017-2023): alcances, limitaciones y violencias estatales",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Silvia Guemureman",
+       "orcid": "https://orcid.org/0000-0002-0187-0409"
+      },
+      {
+       "nombre": "Anahí Patricia González",
+       "orcid": "https://orcid.org/0000-0001-5074-5260"
+      }
+     ],
+     "resumen": "Este artículo se propone abordar el tema de las políticas públicas nacionales dirigidas a las adolescencias y juventudes en Argentina y las violencias estatales derivadas de sus condicionalidades se traduzcan éstas como restricción o como incumplimiento. El análisis se centra en dos programas seleccionados de una cartografía más amplia de políticas públicas de alcance nacional (2017-2023), elaborada en el marco de un Proyecto de Investigación Plurianual. Por razones de extensión, se abordan específicamente la Asignación Universal por Hijo (AUH) y el Programa Nacional de Acompañamiento para el Egreso de Jóvenes sin Cuidados Parentales (PAE). El enfoque metodológico fue mixto, con la utilización de fuentes primarias y secundarias. Del análisis de las políticas hemos podido concluir que, si bien se evidencia aspectos de un lenguaje ligado al enfoque de derechos, también encontramos limitaciones en la implementación de las políticas, condicionalidades y exigencias a sus destinatarios que obturan un enfoque universal de acceso a derechos y colocan en muchos casos la responsabilidad en el adolescente y/o joven beneficiario/a del programa y que, en esta propuesta analítica, (sin soslayar los matices que pueden tener las acciones estatales) hemos identificado como formas en que el Estado, ya sea por acción como por omisión, expresa su violencia.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.24215/23468904e205",
+     "doi": "10.24215/23468904e205",
+     "paginas": "e205",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.24215/23468904e206",
+     "titulo": "Casinos que cuiden a los pobres: la emergencia de un dispositivo de comercialización del juego en Santa Fe entre la crítica, el desarrollo y el pragmatismo",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Astor José Borotto",
+       "orcid": "https://orcid.org/0000-0002-5127-3637"
+      }
+     ],
+     "resumen": "Durante las últimas décadas asistimos a un proceso de expansión de la oferta comercial de juegos de azar de escala global. Sin embargo, las impugnaciones morales que históricamente pesaron sobre esta actividad no desaparecieron. La emergencia de un “mercado cuestionado” (Steiner & Trespeuch, 2014), como el de los juegos de azar, implica un trabajo de neutralización de los cuestionamientos. Este trabajo se propone reconstruir los principales posicionamientos críticos y favorables a la legalización de casinos en la Provincia de Santa Fe, Argentina, en el año 2001 para evidenciar sus consecuencias sobre la ley que habilita la instalación de salas de juegos. A través del análisis de contenido temático se reconocen en la prensa de la época tres tipologías críticas: la crítica proteccionista; la crítica moralizante y; la crítica productiva y tres tipos de justificación: la justificación pragmática; la justificación desarrollista y la justificación por “causas nobles”. Evidenciamos la inscripción de las críticas y las justificaciones en la ley que habilita la instalación de casinos en Santa Fe. Formulamos una discusión donde señalamos las tensiones entre los antecedentes sobre la temática y los hallazgos de este trabajo principalmente en relación con las características de las resistencias morales y los condicionamientos que imponen a la oferta de juego. Concluimos proponiendo una clasificación de las críticas y las justificaciones con relación a los principios que las organizan y esbozamos líneas de investigación futuras.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.24215/23468904e206",
+     "doi": "10.24215/23468904e206",
+     "paginas": "e206",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.24215/23468904e207",
+     "titulo": "Efectos diferenciales del sector ocupacional en las inserciones laborales de calidad y en los ingresos, Argentina (2016-2023)",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Maria Noel Fachal",
+       "orcid": "https://orcid.org/0009-0004-0610-4692"
+      }
+     ],
+     "resumen": "Este trabajo aborda el estudio de los cambios ocurridos en la estructura ocupacional de la sociedad argentina reciente entre 2016 y 2023 en clave de desigualdades sociolaborales –en materia de calidad del empleo y remuneraciones–. Se busca aportar a la comprensión de los procesos de divergencia sociolaboral que tienen lugar en países con modelos de desarrollo sometidos a desigualdades estructurales, tal como es el caso de la Argentina desde hace más de cuatro décadas. De esta forma, la hipótesis principal es que, dada la persistencia de un modelo de desarrollo económico-ocupacional heterogéneo que atraviesa de manera sistémica el funcionamiento de los mercados laborales urbanos, no habrían ocurrido convergencias sustantivas en la estructura social del trabajo en términos de la calidad de los empleos y las brechas de las remuneraciones al trabajo en los años bajo análisis, a la vez que los ciclos recesivos y de crisis operan acentuando estas desigualdades estructurales. Los hallazgos reflejan los efectos negativos de la segmentación en el mercado laboral. En los análisis se utilizan los micro-datos de la Encuesta Permanente de Hogares (EPH) del Instituto Nacional de Estadísticas y Censos (INDEC) en su modalidad continua.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.24215/23468904e207",
+     "doi": "10.24215/23468904e207",
+     "paginas": "e207",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.24215/23468904e208",
+     "titulo": "Revisando el capitalismo de plataformas: rentismo, vigilancia y control social",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Natalia Jara Villarroel",
+       "orcid": "https://orcid.org/0000-0002-7606-6351"
+      }
+     ],
+     "resumen": "Este artículo reflexiona sobre cómo el capitalismo de plataformas ha redefinido las dinámicas sociales y económicas al convertir las interacciones cotidianas en datos monetizables. Para ello, se examina específicamente el modo en que las plataformas digitales, mediante la datavigilancia, no solo monitorean a los usuarios, sino que también predicen sus comportamientos, transformando los datos personales en herramientas de control. Este proceso de recopilación y análisis de información genera un nuevo modelo de negocios basado en el rentismo, ya que las plataformas digitales no crean valor por sí mismas, sino que usufructúan de su rol como intermediarias en la producción y consumo de bienes y servicios. Al hacerlo, se benefician de un sistema rentista que perpetúa la dependencia tecnológica y convierte las experiencias sociales en mercancía. Esto también reconfigura el tiempo de ocio en tiempo de trabajo a través del prosumo, desdibujando las fronteras entre ambas esferas. El estudio destaca la urgencia de repensar las relaciones entre tecnología y sociedad, y busca aportar al estado del arte en la comprensión del paisaje digital y su impacto en las prácticas cotidianas y la privacidad.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.24215/23468904e208",
+     "doi": "10.24215/23468904e208",
+     "paginas": "e208",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.24215/23468904e209",
+     "titulo": "La configuración del universo de sujetos víctimas en las Leyes Reparatorias argentinas",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Ludmila Nair Schneider",
+       "orcid": "https://orcid.org/0000-0002-3118-6683"
+      }
+     ],
+     "resumen": "El artículo aborda el proceso de configuración del universo de víctimas de la reparación de los crímenes de la última dictadura militar en Argentina (1976-1983) a partir del análisis de las reparaciones económicas -localmente denominadas indemnizaciones e instrumentadas a partir de un corpus de Leyes Reparatorias-, concebidas en tanto prácticas indemnizatorias. Postula que las definiciones que subyacen a la legislación reparatoria en torno del sujeto de la reparación producen una interpelación ideológica mediante la categoría de víctima, y analiza el proceso a partir del cual se ha expresado en las prácticas indemnizatorias una jerarquización al interior del universo de víctimas, a partir de dos principios clasificatorios: 1) la centralidad de la figura del desaparecido, que distingue entre quienes fueron aniquilados y quienes sobrevivieron; y 2) el grado de contacto de las víctimas con el sistema represivo, que diferencia las “víctimas directas” -quienes atravesaron el sistema concentracionario- de las “víctimas indirectas” -afectadas por la desaparición de sus familiares-. Considerando ambos niveles de determinación, el artículo postula que las prácticas indemnizatorias institucionalizaron una jerarquización de las víctimas directas por sobre las víctimas mediatas, ambos conjuntos de víctimas estructurados en torno a la centralidad del desaparecido, y que la figura del sobreviviente genera tensiones en esta jerarquización, que conllevan a su invisibilización en el universo de víctimas.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.24215/23468904e209",
+     "doi": "10.24215/23468904e209",
+     "paginas": "e209",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.24215/23468904e210",
+     "titulo": "El lado opuesto de la mira: los usos de pequeñas armas entre civiles",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Damián Herkovits",
+       "orcid": "https://orcid.org/0000-0001-6280-976X"
+      },
+      {
+       "nombre": "Juan Pablo Smutny",
+       "orcid": "https://orcid.org/0009-0007-7583-2513"
+      }
+     ],
+     "resumen": "La presencia y uso de pequeñas armas de fuego entre civiles constituyen un fenómeno complejo que involucra imaginarios culturales, tensiones políticas, intereses económicos e impactos en la salud pública. En Argentina, el mercado de estas armas crece junto con los debates sobre su rol en la sociedad. Sin embargo, los estudios centrados en los usuarios legales de armas son limitados, y suelen ignorar las dimensiones simbólicas y experienciales de la tenencia más allá de su función defensiva o instrumental. Este estudio, basado en una metodología cualitativa a partir de 19 entrevistas y observaciones en clubes de tiro, explora cómo los usuarios de armas habilitan experiencias de apreciación estética, superación competitiva, sociabilidad y valor financiero. Los hallazgos muestran que las armas de fuego facilitan formas únicas de sociabilidad y bienestar personal, desafiando las narrativas reduccionistas que las enmarcan únicamente en términos de riesgo o autodefensa.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.24215/23468904e210",
+     "doi": "10.24215/23468904e210",
+     "paginas": "e210",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.24215/23468904e211",
+     "titulo": "Las identidades de género de las travesti/trans andinas y las hostilidades de sus entornos",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Ramiro Nicolas Perez Ripossio",
+       "orcid": "https://orcid.org/0000-0001-9816-0499"
+      }
+     ],
+     "resumen": "El objetivo general del artículo consiste en analizar los procesos mediante los cuales las travestis/trans sudamericanas construyen sus identidades de género en sus países de origen (Colombia, Perú y Ecuador) y las hostilidades que experimentan de parte de sus entornos. Cuando las personas travestis/trans expresan sus identidades de género se enfrentan a dificultades que pueden ocasionar que decidan alejarse de sus entornos y migrar. El abordaje del artículo es cualitativo, el método principal es la Teoría Fundamentada y se realizaron 41 entrevistas en profundidad. Para procesar la información se utilizó el software ATLAS.ti versión 8.3 y 22.2 que posibilitó aplicar un conjunto de recursos analíticos (citas, códigos, vínculos y memos). Se halló que las travestis/trans, al expresar sus identidades de género, experimentan violencias de parte de familiares, entornos y fuerzas de seguridad que ocasionan los desplazamientos hacia la Argentina. Además, fue descubierto que expresan y definen sus identidades de género de múltiples formas desbordando las típicas taxonomías académicas y del sentido común. En definitiva, el artículo aporta que la construcción de las identidades de género de las travestis/trans sudamericanas se ve afectada por las hostilidades que vivencian de parte de sus entornos y esto provoca que deban migrar.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.24215/23468904e211",
+     "doi": "10.24215/23468904e211",
+     "paginas": "e211",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.24215/23468904e212",
+     "titulo": "\"Hacerse al dolor\": Construcción del consentimiento en la confección de prendas de vestir en el Distrito Metropolitano de Quito (DMQ) 2019-2022",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Diego Carrión Sánchez",
+       "orcid": "https://orcid.org/0000-0003-1919-125X"
+      }
+     ],
+     "resumen": "El artículo busca responder la pregunta sobre la construcción del consentimiento en el trabajo, en un contexto de precarización laboral, mediante una investigación cualitativa basada en historias de vida y entrevistas semiestructuradas a costureras del circuito textil del Distrito Metropolitano de Quito, Ecuador. Se caracteriza el circuito de producción de prendas de vestir signado por la externalización productiva y luego, se analizan formas distintas de organización del trabajo en el circuito y las maneras de construir consentimiento en cada una. Se concluye que diversas formas de fuerza y consenso intervienen en distintos grados en la construcción de consentimiento. Además, se abre la pregunta sobre la dimensión multiescalar del conflicto entre capital y trabajo: ¿cómo incide la estructura del mercado de trabajo, la organización de la unidad productiva y la experiencia personal en la implicación y compromisos de las trabajadoras en la producción?",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.24215/23468904e212",
+     "doi": "10.24215/23468904e212",
+     "paginas": "e212",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.24215/23468904e213",
+     "titulo": "Indicios para reconstruir una historia de la sociología en la Universidad Nacional de La Plata",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Miguel Kiperszmid",
+       "orcid": null
+      },
+      {
+       "nombre": "María Cristina Tortti",
+       "orcid": null
+      },
+      {
+       "nombre": "Nayla Pis Diez",
+       "orcid": null
+      }
+     ],
+     "resumen": "El Fondo Horacio José Pereyra, presentado en diciembre de 2024 en la Facultad de Humanidades y Ciencias de la Educación de la Universidad Nacional de La Plata, abre una vía privilegiada para pensar los lazos entre archivo, memoria e historia disciplinar. Este dossier reúne las intervenciones de Miguel Kiperszmid, Nayla Pis Diez y María Cristina Tortti, quienes, desde distintos registros, evocan la figura del profesor Pereyra y los múltiples sentidos que su trayectoria proyecta sobre la historia de la sociología platense. A través de los documentos personales y académicos conservados en el Fondo, se despliegan fragmentos de una historia colectiva: los inicios de la enseñanza de la sociología, los debates teóricos de los años sesenta y setenta, las interrupciones y exilios, y el proceso de reconstrucción institucional durante la posdictadura. El archivo aparece, así, como un aleph de la memoria universitaria, donde confluyen las huellas de una vida intelectual, la consolidación de una disciplina y los vaivenes de la historia reciente argentina.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.24215/23468904e213",
+     "doi": "10.24215/23468904e213",
+     "paginas": "e213",
+     "fuente": "Crossref"
+    }
+   ]
+  },
+  {
+   "id": "n32-2025",
+   "volumen": null,
+   "numero": "32",
+   "anio": 2025,
+   "fecha": "2025-08-01",
+   "etiqueta": "núm. 32 (2025)",
+   "fuente": "Crossref",
+   "articulos": [
+    {
+     "id": "10.24215/23468904e191",
+     "titulo": "Los Estudios Organizacionales en Latinoamérica. Un análisis del camino transitado y perspectivas de desarrollo",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Diego René Gonzales-Miranda",
+       "orcid": "https://orcid.org/0000-0003-1211-0656"
+      }
+     ],
+     "resumen": "El campo de los Estudios Organizacionales (EO) en Latinoamérica ha experimentado un desarrollo considerable en los últimos años, especialmente a partir de la publicación de la traducción al español del libro The Sage Handbook of Organization Studies, titulado: “Tratado de Estudios Organizacionales” en sus dos volúmenes (2017 y 2019). Este proyecto editorial fue importante para promover un discurso organizado y una identidad de los EO en Latinoamérica, permitiendo a investigadoras e investigadores locales generar una voz propia en este campo. El presente artículo busca realizar un diagnóstico sobre el proceso de consolidación de los EO en la región, tomando como base tres fuentes: los Handbook´s publicados entre 2017 y 2019, las ediciones especiales sobre EO de los años 2018, 2020, 2021 y 2023, y el primer libro editado por la Red de Estudios Organizacionales de Latinoamérica (REOL) titulado En busca de los Estudios Organizacionales de Latinoamérica (2024). El análisis comienza con una breve historia de las redes académicas de EO en Latinoamérica que han sido fundamentales para la evolución del campo. Luego, se abordan las temáticas y desarrollos críticos que emergen de los estudios organizacionales en la región. Se identifica la necesidad de enfoques teóricos contextualizados que reflejen adecuadamente las realidades latinoamericanas y se destaquen cuestiones de diversidad, liderazgo, cultura organizacional, equidad de género e innovación. Con el fin de superar la marginalidad y el estado incipiente de los EO en algunos países, el artículo propone una agenda de investigación que fomente la colaboración, la formación interdisciplinaria y la aplicación de conocimientos en la práctica organizacional, desafiando así las narrativas hegemónicas que predominan en el ámbito académico.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.24215/23468904e191",
+     "doi": "10.24215/23468904e191",
+     "paginas": "e191",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.24215/23468904e192",
+     "titulo": "Género(s) y organizaciones: entre estigmas y transformaciones",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Mariana R. Gaba",
+       "orcid": "https://orcid.org/0000-0001-9765-7831"
+      }
+     ],
+     "resumen": "El artículo aborda la incorporación de la perspectiva de género(s) en las organizaciones como un proceso complejo y profundamente necesario para combatir las desigualdades estructurales. Se exploran marcos conceptuales clave, como el género como variable, el feminismo del punto de vista y las organizaciones generizadas, destacando sus implicancias en el análisis y la transformación organizacional. Asimismo, se analizan tensiones prácticas, como la reducción del género(s) a \"temas de mujeres\", la centralización de las políticas en el abordaje de violencias y los desafíos para transversalizar la perspectiva de género(s) dentro de las instituciones. También se problematiza la relación entre activismo y trabajo profesional en igualdad de género(s), señalando resistencias y prejuicios que buscan deslegitimar este enfoque. El texto resalta la importancia de superar enfoques simplistas y esencialistas, integrar a las masculinidades como parte del análisis y distribuyendo responsabilidades en la gestión organizacional. Finalmente, se hace un llamado a consolidar estrategias reflexivas y sostenibles que permitan reconfigurar las dinámicas de poder y avanzar hacia organizaciones inclusivas y democráticas, especialmente en un contexto global marcado por resistencias conservadoras y discursos deslegitimadores.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.24215/23468904e192",
+     "doi": "10.24215/23468904e192",
+     "paginas": "e192",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.24215/23468904e193",
+     "titulo": "Las organizaciones públicas en tiempos de Inteligencia Artificial: hacia la construcción de puentes analíticos",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Diego Pando",
+       "orcid": "https://orcid.org/0000-0002-1233-9533"
+      }
+     ],
+     "resumen": "Así como las organizaciones públicas necesitan más y mejor uso de las tecnologías digitales para fortalecer sus capacidades de gestión, el mundo académico necesita más y mejores análisis del uso de las tecnologías digitales en las organizaciones públicas. En la actualidad nos encontramos ante una paradoja: un ámbito académico con muchos expertos que dominan campos específicos, adentrándose en las profundidades de su dominio elegido pero necesitado de ir más allá de esas fronteras para abordar la complejidad de los problemas actuales a partir de la interconexión de los campos. En este sentido, y a partir del impacto del veloz e intenso cambio tecnológico (en particular la Inteligencia Artificial dado su carácter disruptivo), este trabajo plantea la importancia de avanzar hacia una mirada más integral para el análisis de los factores clave que contribuyen a mejorar el desempeño de las organizaciones públicas. Para ello, el texto apunta a la construcción de puentes analíticos entre la Inteligencia Artificial y algunas de las cuestiones tradicionales orientadas al fortalecimiento de las organizaciones públicas que la literatura reconoce como tales, a saber: la planificación, la coordinación intra e interorganizacional, la evaluación, la auditoría y la gestión de personas.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.24215/23468904e193",
+     "doi": "10.24215/23468904e193",
+     "paginas": "e193",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.24215/23468904e194",
+     "titulo": "Historias de vida de trabajadores de cuello azul, blanco y digital",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Gustavo Blutman",
+       "orcid": "https://orcid.org/0000-0001-8612-8598"
+      },
+      {
+       "nombre": "Horacio Cao",
+       "orcid": "https://orcid.org/0000-0001-7605-4812"
+      }
+     ],
+     "resumen": "El texto describe el perfil de los trabajadores que, en el marco de las diferentes revoluciones industriales, fueron la mano de obra arquetípica en cada caso. En su momento, se conocieron como trabajadores de cuello azul (2ª Revolución Industrial) y de cuello blanco (3ª Revolución Industrial); con los nuevos cambios (4ª Revolución Industrial) está surgiendo un nuevo tipo de empleado, que llamamos cuello digital. Para abordar el tema, utilizaremos el recurso de contar historias de vida de personajes ficticios pero verosímiles, como las de Rogelio, Rosalía, Leticia, Segismundo, Bruna y Juanma, quienes representarán cada una de las etapas de esos cuellos: azul por el overol industrial, blanco por la camisa impoluta del administrativo y digital por la intromisión de las nuevas tecnologías actuales y futuras. En cada caso, se han seleccionado unas variables clave que permiten adentrarnos en las transformaciones que se fueron sucediendo: trayectoria, formación, cultura organizacional y ámbito laboral.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.24215/23468904e194",
+     "doi": "10.24215/23468904e194",
+     "paginas": "e194",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.24215/23468904e195",
+     "titulo": "Desafíos y propuestas para un abordaje crítico de los Estudios Organizacionales en Argentina",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Diego Szlechter",
+       "orcid": "https://orcid.org/0000-0002-9299-5919"
+      }
+     ],
+     "resumen": "En este artículo, nos proponemos problematizar el origen de los Estudios Organizacionales (en adelante EO), estrechamente vinculados en un primer momento con el campo de la Administración, preocupado por la gestión eficaz de la fuerza de trabajo. A partir de la 2da posguerra surgen pesquisas que comenzaron a abordar las problemáticas organizacionales desde una perspectiva más amplia que más adelante derivaron en el surgimiento de visiones críticas. En Argentina, a pesar del surgimiento tardío de los EO, diversas investigaciones de este campo han sido desarrolladas desde mucho tiempo antes y en diversas disciplinas. Sin embargo, consideramos que no todas las pesquisas vinculadas a los EO debieran englobarse en los estudios críticos. En este sentido, presentaremos un marco analítico para los EO que contribuya al fortalecimiento de vertientes que desnaturalicen el statu quo organizacional. En este esquema y con el objetivo de presentar referencias empíricas con espíritu crítico, describiremos en forma sucinta algunos casos en los que se abordaron problemas organizacionales en nuestro país cuyas implicancias trascendieron las fronteras de la organización. Finalmente, en las conclusiones desarrollamos una propuesta orientada a ofrecer una mirada crítica que incida en el debate público sobre formas de organizarse en sociedad con espíritu emancipador.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.24215/23468904e195",
+     "doi": "10.24215/23468904e195",
+     "paginas": "e195",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.24215/23468904e196",
+     "titulo": "Organizaciones y territorio: sobre posibles vasos comunicantes",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Matías Manuele",
+       "orcid": "https://orcid.org/0009-0006-8669-0584"
+      }
+     ],
+     "resumen": "En el presente ensayo exploramos la relación entre la teoría organizacional y el concepto de territorio en las ciencias sociales. Partiendo de la premisa de que la teoría social necesita nuevas herramientas para comprender los fenómenos de la modernidad tardía y los efectos que la misma genera en las estructuras organizacionales, vemos que el territorio se ha convertido en un concepto clave. En primer lugar, revisaremos las razones para la emergencia del territorio como categoría analítica, identificando las transformaciones sociales y tecnológicas, los cambios en las estructuras económicas y organizacionales, y el impacto en la identidad y subjetividad. Exploramos cómo el concepto de territorio ha sido desarrollado en la geografía y otras disciplinas, y veremos el uso político y social. En una segunda parte, identificamos algunas referencias al territorio en el ámbito organizacional: el territorio como dimensión organizacional, el territorio como organización y la organización como territorio. Finalmente, argumentamos que la integración del enfoque territorial en los estudios organizacionales permite comprender mejor las dinámicas de poder, identidad y gobernanza en el mundo contemporáneo.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.24215/23468904e196",
+     "doi": "10.24215/23468904e196",
+     "paginas": "e196",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.24215/23468904e197",
+     "titulo": "Comprender, analizar e intervenir en las organizaciones: Notas metodológicas y pedagógicas sobre prácticas de enseñanza e investigación en la Sociología de las Organizaciones",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Juliana Frassa",
+       "orcid": null
+      },
+      {
+       "nombre": "Santiago Galar",
+       "orcid": "https://orcid.org/0000-0002-0604-9724"
+      }
+     ],
+     "resumen": "Desde el marco de la teoría crítica de los estudios organizacionales y en un contexto de transformación tanto de los paradigmas academicistas como de las condiciones materiales en las que se desarrollan las organizaciones en nuestro país, el presente trabajo indaga sobre las premisas epistemológicas, las mediaciones metodológicas y los sentidos de la intervención que se ponen en juego en nuestras prácticas de enseñanza de la Sociología de las Organizaciones. Concretamente, el artículo pretende sistematizar y reflexionar sobre prácticas de enseñanza, análisis e intervención en el estudio de las organizaciones desde una mirada crítica, situada e interpretativa como una forma de contribuir al debate sobre modos actuales de construir conocimiento en la Sociología de las Organizaciones. A partir de nuestra práctica docente en la disciplina, desarrollada por más de una década en la cátedra de Sociología de las Organizaciones del departamento de Sociología de la FAHCE/UNLP, compartimos reflexiones en torno a la aproximación al objeto de estudio organizacional y al aporte que la sociología puede realizar al funcionamiento y devenir de organizaciones reales.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.24215/23468904e197",
+     "doi": "10.24215/23468904e197",
+     "paginas": "e197",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.24215/23468904e198",
+     "titulo": "La configuración de la sociedad civil organizada: aportes a su caracterización en la Argentina actual",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Agustina Gradin",
+       "orcid": "https://orcid.org/0000-0001-9714-1325"
+      },
+      {
+       "nombre": "Adriana Rofman",
+       "orcid": "https://orcid.org/0000-0002-8333-1053"
+      },
+      {
+       "nombre": "Paula Rosa",
+       "orcid": "https://orcid.org/0000-0002-7529-5232"
+      }
+     ],
+     "resumen": "Actualmente en la Argentina existen miles de organizaciones de la sociedad civil que desarrollan tareas para acompañar la diversidad de problemáticas sociales que nos atraviesan como sociedad. Su rol resulta central y clave en la vida diaria de la población en general pero especialmente en los sectores más vulnerables. Este artículo pretende aportar al conocimiento de este universo a partir de la realización de una caracterización actualizada basada en diferentes dimensiones de análisis. Este objetivo se lleva a cabo a partir del análisis de información primaria de 1451 casos provenientes del relevamiento realizado por la iniciativa colaborativa: Territorios en Acción. Este proyecto, surgido de la alianza entre tres instituciones académicas -FLACSO Argentina, el Observatorio del Conurbano de la Universidad Nacional de General Sarmiento y CEUR/CONICET- releva información proveniente de organizaciones de la sociedad civil que completaron un cuestionario autoadministrado desde mayo del 2020 hasta finales del 2024. A partir de lo analizado, se arriba a tres ejes de análisis (diversificación, territorialización y entramado), que a modo de hipótesis permitirán ampliar el campo de conocimiento.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.24215/23468904e198",
+     "doi": "10.24215/23468904e198",
+     "paginas": "e198",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.24215/23468904e199",
+     "titulo": "El análisis organizacional desde el enfoque de la igualdad de género",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "María Eray Arce",
+       "orcid": null
+      }
+     ],
+     "resumen": "En este trabajo se presentan los enfoques utilizados para el análisis de las condiciones de acceso de mujeres y diversidades sexo genéricas a los espacios de jerarquía y de decisión en organizaciones públicas desde el enfoque de la igualdad de género. A partir de la identificación del aporte de los estudios organizacionales con enfoque de género para el análisis de las brechas en organizaciones vinculadas históricamente al ámbito del derecho, se presentan algunas reflexiones para su estudio desde la dimensión de cultura organizacional.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.24215/23468904e199",
+     "doi": "10.24215/23468904e199",
+     "paginas": "e199",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.24215/23468904e200",
+     "titulo": "Investigación en tiempo real. El procesamiento de información para la toma de decisiones en la Escuela de Oficios de la UNLP",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "María Bonicatto",
+       "orcid": "https://orcid.org/0009-0008-3696-6815"
+      },
+      {
+       "nombre": "Mercedes Iparraguirre",
+       "orcid": "https://orcid.org/0009-0009-5021-8052"
+      },
+      {
+       "nombre": "Fernando Laya",
+       "orcid": "https://orcid.org/0000-0003-0167-4165"
+      },
+      {
+       "nombre": "Sergio Serrichio",
+       "orcid": "https://orcid.org/0009-0007-1802-830X"
+      }
+     ],
+     "resumen": "Este artículo de investigación presenta los hallazgos del trabajo de campo realizado en la Escuela Universitaria de Oficios de la Secretaría de Políticas Sociales de la Universidad Nacional de La Plata (UNLP) sobre la implementación de la propuesta pedagógica bimodal en el período 2023-2024. El objetivo principal fue identificar ajustes necesarios para mejorar el diseño e implementación de la modalidad bimodal, en el marco de la perspectiva teórica metodológica de la Investigación-Gestión (I+G). La metodología empleada se basó en el procesamiento de datos cuantitativos y cualitativos provenientes de diversas fuentes: encuestas a docentes y estudiantes, entrevistas al equipo de gestión y análisis documental. Los resultados muestran la evolución de la propuesta desde la presencialidad plena, pasando por la virtualidad de emergencia durante la pandemia, hasta la configuración bimodal actual. Se presentan 28 sugerencias de mejora resultantes, de las cuales 20 fueron implementadas en el diseño de la propuesta 2024. Se analizan también los resultados de encuestas a estudiantes sobre su experiencia en las modalidades regular y libre. Las conclusiones giran en torno a la potencia de la metodología I+G y la contundencia de la información obtenida para la toma de decisiones y la mejora continua de la gestión universitaria.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.24215/23468904e200",
+     "doi": "10.24215/23468904e200",
+     "paginas": "e200",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.24215/23468904e201",
+     "titulo": "La dimensión organizacional e institucional en la Gestión Local del Riesgo: reflexiones a partir de la Emergencia Socio Sanitaria por COVID 19 en Paraná, Entre Ríos",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Aranzazu Luciana Arangui",
+       "orcid": "https://orcid.org/0009-0009-9685-904X"
+      },
+      {
+       "nombre": "Sandra Marcela Arito",
+       "orcid": "https://orcid.org/0009-0005-4509-4607"
+      },
+      {
+       "nombre": "Cynthia Ayelén Nasser",
+       "orcid": "https://orcid.org/0009-0007-9826-1434"
+      }
+     ],
+     "resumen": "La Emergencia Socio Sanitaria (en adelante ESS) desatada por la pandemia de la COVID-19 modificó radicalmente las condiciones de vida de la población, afectando diversos ámbitos, desde lo familiar hasta lo institucional y comunitario. Si bien en un primer momento las repercusiones se asociaron principalmente con lo sanitario, las consecuencias de la ESS se extendieron a todas las dimensiones sociales, políticas y económicas, revelando la profunda interconexión entre ellas. Este artículo se centra en la dimensión organizacional e institucional en la gestión local del riesgo en la ciudad de Paraná entre los años 2020 y 2022, con el fin de explorar cómo las estructuras y dinámicas organizacionales fueron centrales en la respuesta ante la crisis. Para ello, retomamos las conclusiones obtenidas en el proyecto de investigación “Prácticas implementadas en la gestión local de riesgos ante la emergencia socio-sanitaria por COVID-19 en la ciudad de Paraná en 2020-2022”, de la Facultad de Trabajo Social (Universidad Nacional de Entre Ríos). El análisis de la ESS nos permite evidenciar que las intervenciones sociales, políticas y sanitarias, en sus diferentes niveles, no sólo respondieron a una necesidad inmediata de control sanitario, sino que también expusieron las fortalezas y debilidades de las organizaciones locales frente a un desafío global. Así, la reflexión institucional se nos presenta como una herramienta clave para analizar la gestión local de riesgos, dado que los contextos locales, con sus propias dinámicas y recursos, desempeñan un papel fundamental en la configuración de respuestas adecuadas y oportunas. En primer lugar, abordamos algunos enfoques teóricos para entender la gestión del riesgo a nivel local como un proceso integral y multidimensional donde la organización y lo institucional son factores determinantes para intervenciones eficaces y sostenibles durante la ESS. A continuación, presentamos resultados sobre las capacidades estatales desplegadas por el municipio de Paraná para gestionar la ESS. En tercer lugar, reflexionamos sobre el rol de las organizaciones de la sociedad civil en la gestión local del riesgo. Finalmente, concluimos con algunas reflexiones sobre la necesidad de repensar las estructuras organizacionales y las políticas públicas a nivel local, con el fin de fortalecer las capacidades de respuesta ante futuras emergencias. Resaltamos que comprender la dimensión institucional y organizacional de la gestión local del riesgo no solo es esencial para la intervención inmediata en situaciones de emergencia, sino también para el diseño de políticas públicas que promuevan la gestión de los riesgos en todos los aspectos (prevención, mitigación, atención de la emergencia). La ESS ha puesto en evidencia la necesidad de fortalecer las capacidades organizativas tanto de los actores gubernamentales como de actores locales para responder de manera más efectiva a la gestión de los riesgos.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.24215/23468904e201",
+     "doi": "10.24215/23468904e201",
+     "paginas": "e201",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.24215/23468904e202",
+     "titulo": "¿Cómo pensar a las Organizaciones de la Sociedad Civil en clave organizacional? Reseña de De Piero, Sergio (2020). Organizaciones de la sociedad civil. Tensiones de una agenda en construcción. Editorial UNAJ",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Agustina Chielli",
+       "orcid": null
+      },
+      {
+       "nombre": "Alejo Sebastian De Dominicis",
+       "orcid": null
+      }
+     ],
+     "resumen": "Reseña de De Piero, Sergio (2020). Organizaciones de la sociedad civil. Tensiones de una agenda en construcción. Editorial UNAJ",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.24215/23468904e202",
+     "doi": "10.24215/23468904e202",
+     "paginas": "e202",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.24215/23468904e203",
+     "titulo": "Analizar las organizaciones “desde las orillas”. Reseña de Sanabria, M. et. al. (2024). En busca de los estudios organizacionales de Latinoamérica. Editorial Universidad del Rosario",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Mariel Payo Esper",
+       "orcid": "https://orcid.org/0009-0006-8277-801X"
+      }
+     ],
+     "resumen": "Reseña de En busca de los estudios organizacionales de Latinoamérica de Sanabria, et al",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.24215/23468904e203",
+     "doi": "10.24215/23468904e203",
+     "paginas": "e203",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.24215/23468904e204",
+     "titulo": "Presentación: El arte de renunciar. Entrevista a Adriana Fassio",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Matías Manuele",
+       "orcid": "https://orcid.org/0009-0006-8669-0584"
+      },
+      {
+       "nombre": "María Laura Pagani",
+       "orcid": "https://orcid.org/0009-0005-0187-197X"
+      },
+      {
+       "nombre": "Adriana Fassio",
+       "orcid": "https://orcid.org/0000-0003-2174-7843"
+      }
+     ],
+     "resumen": null,
+     "idioma_resumen": null,
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.24215/23468904e204",
+     "doi": "10.24215/23468904e204",
+     "paginas": "e204",
+     "fuente": "Crossref"
+    }
+   ]
+  }
+ ]
+};

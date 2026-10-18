@@ -1,0 +1,1130 @@
+{
+ "version": 1,
+ "generado": "2026-10-18T05:53:59+00:00",
+ "es_prueba": false,
+ "revista": {
+  "id": "0717-6236",
+  "titulo": "EURE (Santiago) - Revista Latinoamericana de Estudios Urbano Regionales",
+  "idioma_titulo": null,
+  "titulo_alternativo": null,
+  "idioma_titulo_alternativo": null,
+  "idiomas": [
+   "es",
+   "pt"
+  ],
+  "issn_impreso": "0250-7161",
+  "issn_electronico": "0717-6236",
+  "editorial": "Pontificia Universidad Católica de Chile",
+  "pais": "CL",
+  "materias": [
+   "Architecture",
+   "Aesthetics of cities. City planning and beautifying",
+   "Political science",
+   "Urban groups. The city. Urban sociology",
+   "Regional planning",
+   "City planning"
+  ],
+  "palabras_clave": [
+   "social sciences",
+   "urban studies"
+  ],
+  "licencias": [
+   {
+    "nombre": "CC BY 4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+   }
+  ],
+  "url": "http://www.eure.cl/index.php/eure/index",
+  "url_doaj": "https://doaj.org/toc/0717-6236",
+  "descripcion": null,
+  "fuente_ficha": "DOAJ",
+  "archivo": "revistas/0717-6236.json",
+  "ultimo_numero": "Publicación continua (2026)",
+  "fuente_numeros": "Crossref"
+ },
+ "numeros": [
+  {
+   "id": "2026",
+   "volumen": null,
+   "numero": null,
+   "anio": 2026,
+   "fecha": "2026-12-22",
+   "etiqueta": "Publicación continua (2026)",
+   "fuente": "Crossref",
+   "articulos": [
+    {
+     "id": "10.7764/eure.52.155.01",
+     "titulo": "Aproximaciones a algunas cartografías de las emociones en el Bajo Atrato, Colombia",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Carolina Saldarriaga-Cardona",
+       "orcid": "https://orcid.org/0000-0001-6357-1968"
+      }
+     ],
+     "resumen": "Existe una relación ineludible entre emoción, cuerpo y territorio; entre quien habita y lo habitado. En un contexto como el colombiano, marcado por una violencia sistemática que ha transformado los territorios en cuerpos heridos que necesitan ser sanados, y con la implementación parcial del Acuerdo de Paz firmado en 2016, surge un escenario altamente sensible para examinar el papel de las emociones en las nuevas relaciones espaciales y afectivas que se están estableciendo con los territorios. Este artículo explora la relación entre emociones, cuerpos y territorios en cuatro lugares del Bajo Atrato: Carmen del Darién, Marriaga, Triganá y Santa María de la Antigua del Darién, utilizando el viaje como método de aproximación. A través de talleres, entrevistas semiestructuradas, conversaciones informales y observaciones participantes, los ejercicios cartográficos resultantes muestran que las emociones son performativas, son un sistema de acontecimientos y acciones vinculados a un espacio que se habita.",
+     "idioma_resumen": "es",
+     "licencia": null,
+     "url": "https://doi.org/10.7764/eure.52.155.01",
+     "doi": "10.7764/eure.52.155.01",
+     "paginas": "1",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.7764/eure.52.155.06",
+     "titulo": "Arriendos temporales como motores de desigualdad: Un análisis sociodemográfico de Airbnb en Río de Janeiro",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Pedro Ferreira",
+       "orcid": "https://orcid.org/0000-0003-2169-5502"
+      },
+      {
+       "nombre": "Agustín Cocola-Gant",
+       "orcid": "https://orcid.org/0000-0003-3395-4233"
+      },
+      {
+       "nombre": "Antonio López-Gay",
+       "orcid": "https://orcid.org/0000-0001-8892-2816"
+      }
+     ],
+     "resumen": "Aunque gran parte de la investigación académica sobre alquileres temporales mediados por plataformas digitales se ha centrado en las experiencias estadounidenses y europeas con respecto a Airbnb, la empresa también está ampliamente presente en otros contextos, como el latinoamericano. Asimismo, la literatura existente sobre el análisis espacial de Airbnb no ha dedicado suficiente atención a las variables sociodemográficas que ayudan a comprender la correlación entre las dimensiones urbana y poblacional. Abordando estas dos lagunas de investigación, este trabajo utiliza indicadores sociales del censo brasileño de 2010 con el fin de comprender la distribución espacial de Airbnb en Río de Janeiro. Los resultados sugieren que dicha distribución está relacionada con la desigualdad social en la ciudad, considerando que la plataforma se concentra en barrios caracterizados por la presencia de grupos poblacionales privilegiados (en relación a raza, vivienda, educación e ingresos), aunque son los grupos menos privilegiados quienes están más expuestos a sus impactos.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+     },
+     "url": "https://doi.org/10.7764/eure.52.155.06",
+     "doi": "10.7764/eure.52.155.06",
+     "paginas": "1",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.7764/eure.52.155.04",
+     "titulo": "Caminatas sin compañía de niños, niñas y adolescentes y sus relaciones con el entorno construido y el ambiente social de Santiago de Chile",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Natan Waintrub",
+       "orcid": "https://orcid.org/0000-0002-5229-902X"
+      },
+      {
+       "nombre": "Cristhian Figueroa-Martínez",
+       "orcid": "https://orcid.org/0000-0002-6399-8360"
+      }
+     ],
+     "resumen": "Esta investigación examina la influencia del entorno construido y el ambiente social en los viajes a pie y sin compañía de niños, niñas y adolescentes (NNA) en Santiago. Se emplea una metodología que combina escalas de valoración, preferencias declaradas y jerarquización. Los resultados muestran que los atributos del entorno construido valorados por NNA son aquellos que enriquecen la experiencia de viaje, proveen vigilancia natural al espacio público y promueven la presencia de personas diversas en las calles. En relación con el ambiente social, la presencia de adolescentes, de hombres y de personas consumiendo alcohol son negativas, mientras que mujeres, niños(as), personas mayores y desconocidos conversando en las calles favorecen las caminatas de NNA. Los resultados, sin embargo, muestran que existen diferencias cuando los atributos se evalúan individualmente o en conjunto. Esto sugiere que para promover la caminata de NNA se requieren políticas públicas que aborden tanto lo construido como lo social.",
+     "idioma_resumen": "es",
+     "licencia": null,
+     "url": "https://doi.org/10.7764/eure.52.155.04",
+     "doi": "10.7764/eure.52.155.04",
+     "paginas": "1",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.7764/eure.52.156.06",
+     "titulo": "Conflictos socioterritoriales y representación política en Uruguay (2005-2022): baja conflictividad en un caso tardío",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Germán Bidegain",
+       "orcid": "https://orcid.org/0000-0002-4007-4843"
+      },
+      {
+       "nombre": "Martín Freigedo",
+       "orcid": "https://orcid.org/0000-0003-0177-8845"
+      },
+      {
+       "nombre": "Rodrigo Cordara",
+       "orcid": "https://orcid.org/0000-0001-5272-2476"
+      }
+     ],
+     "resumen": "Este artículo examina las razones por las cuales los conflictos socioterritoriales en Uruguay presentan una intensidad relativamente baja en comparación con otros países de América Latina que han experimentado procesos similares vinculados a proyectos extractivistas. Aunque la literatura regional ha documentado en profundidad la conflictividad socioambiental, el caso uruguayo ha sido poco explorado. La hipótesis central sostenida es que la elevada capacidad de intermediación de los actores políticos en Uruguay facilita la institucionalización de los conflictos, lo que contribuye a mitigar su escalada. Para verificar esta hipótesis, se llevó a cabo un relevamiento de 88 conflictos socioterritoriales entre 2005 y 2022, y un estudio detallado de un subcaso relacionado con la construcción de una vía ferroviaria para un megaproyecto maderero. Los resultados muestran que los conflictos se institucionalizan rápidamente y que, al interactuar con actores gubernamentales, el grado de disrupción de los activistas disminuye considerablemente.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+     },
+     "url": "https://doi.org/10.7764/eure.52.156.06",
+     "doi": "10.7764/eure.52.156.06",
+     "paginas": "1",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.7764/eure.52.156.11",
+     "titulo": "Covid-19, nómadas digitales y la sexta ola de gentrificación",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Ugo Gómez Oliván",
+       "orcid": "https://orcid.org/0000-0003-0872-3433"
+      },
+      {
+       "nombre": "Yolanda Fernández",
+       "orcid": "https://orcid.org/0000-0002-8954-4092"
+      },
+      {
+       "nombre": "Julia Fraga",
+       "orcid": "https://orcid.org/0000-0002-0485-7816"
+      },
+      {
+       "nombre": "Salvador Montiel",
+       "orcid": "https://orcid.org/0000-0002-3897-7592"
+      },
+      {
+       "nombre": "Miguel Ángel Munguía Rosas",
+       "orcid": "https://orcid.org/0000-0003-2319-1666"
+      }
+     ],
+     "resumen": "En este artículo se realiza una construcción histórica de la gentrificación, se retoma el modelo de olas, que en una primera instancia se basó en tres olas, las cuales, de acuerdo con los cambios sociales, se fueron multiplicando hasta identificarse cinco olas de gentrificación. Estas se han asociado a hitos relevantes que han impulsado su desarrollo. Proponemos que estamos atravesando una sexta ola y que ella está impulsada por el auge del trabajo remoto y la expansión de los nómadas digitales, un proceso que se vio multiplicado durante la pandemia por Covid-19. Esta sexta ola está generando una profunda transformación en la composición sociodemográfica y el desarrollo urbano de diversas ciudades del mundo, particularmente de aquellas ciudades emergentes del sur global, donde la promoción y comercialización inmobiliaria han acelerado el proceso de gentrificación.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+     },
+     "url": "https://doi.org/10.7764/eure.52.156.11",
+     "doi": "10.7764/eure.52.156.11",
+     "paginas": "1",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.7764/eure.52.155.03",
+     "titulo": "Disparidades territoriales y migración interna: un análisis basado en el equilibrio espacial",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Juan Fernández-Sastre",
+       "orcid": "https://orcid.org/0000-0002-5030-0808"
+      },
+      {
+       "nombre": "Tatiana Yanza",
+       "orcid": "https://orcid.org/0009-0009-2290-9470"
+      }
+     ],
+     "resumen": "Este artículo analiza cómo varían las condiciones de vida y la migración entre los cantones del Ecuador. Se discute cómo los costos y beneficios de los diferentes cantones se compensan, evaluándose la relación entre diversos indicadores de bienestar y la densidad poblacional. Se estima un modelo que relaciona la tasa de migración neta con la productividad y distintas amenidades. Los resultados indican que, pese a su mayor productividad, los cantones más densamente poblados no compensan los mayores costos a través de salarios sustancialmente mayores, sino con mejores instalaciones y servicios y mayor consumo. Los homicidios y los procesos de suburbanización fueron los principales factores asociados a las tasas de migración neta.",
+     "idioma_resumen": "es",
+     "licencia": null,
+     "url": "https://doi.org/10.7764/eure.52.155.03",
+     "doi": "10.7764/eure.52.155.03",
+     "paginas": "1",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.7764/eure.52.156.08",
+     "titulo": "El impacto del tejido social urbano en la satisfacción con la vida. Análisis mediante técnicas de machine learning",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Pablo Cabrera Barona",
+       "orcid": "https://orcid.org/0000-0002-6225-5717"
+      },
+      {
+       "nombre": "Stephani Torrez Viricochea",
+       "orcid": "https://orcid.org/0009-0004-9479-2869"
+      },
+      {
+       "nombre": "Geomara Flores Gómez",
+       "orcid": "https://orcid.org/0000-0003-1083-4781"
+      }
+     ],
+     "resumen": "El tejido social, configurado a través de la cohesión y el capital sociales, puede influir en la satisfacción con la vida de los residentes urbanos. En América Latina no son comunes las evaluaciones cuantitativas de tal influencia. Tomando el centro histórico de la ciudad de Quito como caso de estudio, se evaluó qué indicadores de este tejido influyen más en la satisfacción general con la vida de residentes del área de estudio. Se aplicaron tres modelos: red neuronal artificial, random forest (bosque aleatorio), y regresión logística ordinal. Se encontró que, para los tres modelos, el nivel de satisfacción respecto de la participación con la comunidad y el nivel de satisfacción en relación con los vecinos son los factores que mayor influencia tienen en la satisfacción con la vida. Los resultados obtenidos pueden apoyar la planificación urbana orientada a fortalecer lazos comunitarios y la interacción entre vecinos de la ciudad.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+     },
+     "url": "https://doi.org/10.7764/eure.52.156.08",
+     "doi": "10.7764/eure.52.156.08",
+     "paginas": "1",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.7764/eure.52.156.04",
+     "titulo": "Estudiar la expansión urbana desde una perspectiva histórico-morfológica. El caso de Quito, Ecuador, 1908-1942",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "María José Freire Silva",
+       "orcid": "https://orcid.org/0000-0002-4543-1504"
+      }
+     ],
+     "resumen": "Entre los siglos XIX y XX, los primeros ensayos de la modernidad latinoamericana impulsaron un proceso de expansión urbana, fenómeno que se ha estudiado particularmente desde una perspectiva sociocultural, con énfasis en las grandes capitales. Este estudio se centra en la ciudad de Quito (Ecuador) y propone una metodología para ampliar la historiografía urbana de la región mediante el análisis espacial. Con tal propósito, se realizó una búsqueda exhaustiva en archivos históricos sobre los proyectos de subdivisión conocidos en el país como ciudadelas. Estos proyectos se georreferenciaron, integrándose datos sobre el soporte físico, elementos preexistentes y de gestión. Los resultados evidencian cómo las condicionantes de la geografía andina influyeron en la configuración de los primeros barrios y revelan algunos patrones de segregación socioespacial en el inicio del proceso de expansión. La investigación ofrece herramientas replicables para analizar la morfología urbana en contextos similares, proponiendo nuevas vías para investigaciones comparativas en la región.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+     },
+     "url": "https://doi.org/10.7764/eure.52.156.04",
+     "doi": "10.7764/eure.52.156.04",
+     "paginas": "1",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.7764/eure.52.156.12",
+     "titulo": "Extractivismo y urbanización en países dependientes: viejos y nuevos conflictos del siglo XXI",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Guilherme Vasconcelos Pereira",
+       "orcid": "https://orcid.org/0000-0003-1105-5798"
+      }
+     ],
+     "resumen": "O livro A nova urbanização dependente no capitalismo rentista-extrativista é resultado de uma série de diálogos promovidos pelo Grupo de Pesquisa Metrópole, Estado e Capital, no âmbito do inCT Observatório das Metrópoles. A obra é uma coletânea de artigos organi-zada por Luiz César de Queiroz Ribeiro, professor titular do Instituto de Pesquisa e Planejamento Urbano e Regional da Universidade Federal do Rio de Janeiro (iPPUR-UFRJ), e por Nelson Diniz, pro-fessor do Departamento de Geografia do Colégio Pedro ii.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+     },
+     "url": "https://doi.org/10.7764/eure.52.156.12",
+     "doi": "10.7764/eure.52.156.12",
+     "paginas": "1",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.7764/eure.52.156.09",
+     "titulo": "Formas de conectar. Tipología de estaciones del Metro de Santiago",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Rocío Hidalgo",
+       "orcid": "https://orcid.org/0000-0003-0303-1112"
+      },
+      {
+       "nombre": "Catalina Alberti",
+       "orcid": "https://orcid.org/0009-0003-8487-5372"
+      },
+      {
+       "nombre": "Felipe Zach",
+       "orcid": "https://orcid.org/0009-0004-2598-9473"
+      }
+     ],
+     "resumen": "Las estaciones representan puntos de encuentro en la ciudad, lugares de intercambio y confluencia que pueden contribuir, según su forma, a la construcción de entornos urbanos más sostenibles. El presente artículo analiza las estaciones del Metro de Santiago, identificando sus diferentes tipologías y su aporte a la construcción y mejora del espacio público de su entorno. Se examinan las características de la línea, arquitectura y emplazamiento de cada estación, antecedentes que se sintetizan luego a partir de la observación de sus partes o componentes. Se reconocen de este modo cinco tipologías de estaciones, que responden a la fecha y método constructivo, pero que en suma dan cuenta del paso desde un modelo de mayor apertura e integración a uno de mayor autonomía y cerramiento, tendencia que es necesario —y posible— revertir, para recuperar la construcción de entornos más conectados e inclusivos en torno al metro.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+     },
+     "url": "https://doi.org/10.7764/eure.52.156.09",
+     "doi": "10.7764/eure.52.156.09",
+     "paginas": "1",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.7764/eure.52.156.02",
+     "titulo": "Germinación sociopolítica de las huertas urbanas comunitarias en el siglo XXI: Estudios de casos en la zona central de Chile",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Deysi Morales",
+       "orcid": "https://orcid.org/0009-0000-5546-3326"
+      }
+     ],
+     "resumen": "La presente investigación es un estudio exploratorio-descriptivo que nace de la inquietud de conocer cómo surgen las huertas comunitarias en las ciudades grandes e intermedias de la zona central de Chile. En esta línea, profundiza en las problemáticas, motivaciones y objetivos que llevaron a su formación, iniciándose con un acercamiento histórico a su emergencia en el siglo XX. En un segundo momento, se complementa el relato con un estudio de su resurgimiento en el siglo XXI, mediante una investigación empírica en una muestra compuesta por veinte huertas urbanas comunitarias, autogestionadas y vigentes actualmente. Se reconoce, así, la germinación sociopolítica de las huertas urbanas comunitarias, la importancia de la relación campo-ciudad en ellas y el giro agroecológico que hoy representan, como respuesta a conflictos de la denominada Revolución Verde y al crecimiento irregular de las ciudades. Desde tal perspectiva, el estudio las enfoca como factores estratégicos en la contingencia para el surgimiento de nuevos paradigmas de transformación social.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+     },
+     "url": "https://doi.org/10.7764/eure.52.156.02",
+     "doi": "10.7764/eure.52.156.02",
+     "paginas": "1",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.7764/eure.52.155.12",
+     "titulo": "Insurgent Planning Practice? Cómo, dónde y por qué, y también para qué",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Guillermo Jajamovich",
+       "orcid": "https://orcid.org/0000-0001-9628-2468"
+      }
+     ],
+     "resumen": "Título libro: Insurgent Planning Practice. Autores: Roberto Rocco y Gabriel Silvestre (Eds.) Edición: Urban Worlds Series, Agenda Publishing, 2024, 224 pp. ISBN: 978-178-821-676-0",
+     "idioma_resumen": "es",
+     "licencia": null,
+     "url": "https://doi.org/10.7764/eure.52.155.12",
+     "doi": "10.7764/eure.52.155.12",
+     "paginas": "1",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.7764/eure.52.155.11",
+     "titulo": "La potencia reveladora de las ruinas en Latinoamérica",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Andrés Salcedo",
+       "orcid": "https://orcid.org/0000-0003-2679-3937"
+      }
+     ],
+     "resumen": "Título libro: Ruina y escombro en Latinoamérica. De memorias y olvidos. Autores: Francisca Márquez y Eduardo Kingman Garcés (Eds.) Edición: Ediciones Universidad Alberto Hurtado, Colección Antropología, 2023, 464 pp. ISBN: 978-956-357-447-0",
+     "idioma_resumen": "es",
+     "licencia": null,
+     "url": "https://doi.org/10.7764/eure.52.155.11",
+     "doi": "10.7764/eure.52.155.11",
+     "paginas": "1",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.7764/eure.52.156.10",
+     "titulo": "Las desigualdades en la movilidad como producto de una urbanización excluyente: por una política de justicia territorial en la Ciudad de México",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Ruth Pérez López",
+       "orcid": "https://orcid.org/0000-0002-3818-6774"
+      },
+      {
+       "nombre": "Jerónimo Aurelio Díaz Marielle",
+       "orcid": "https://orcid.org/0000-0003-0756-9534"
+      }
+     ],
+     "resumen": "Este artículo analiza las condiciones de movilidad en tres pueblos del poniente de la Ciudad de México: San Mateo Tlaltenango, Santa Rosa Xochiac y San Bartolo Ameyalco. A través de trabajo de campo, entrevistas, análisis documental y una encuesta aplicada en 1.219 hogares, se examinan las desigualdades en los modos de desplazamiento de la población local respecto al resto de la Ciudad de México y su zona metropolitana. Se argumenta que las actuales condiciones de movilidad —caracterizadas por espacios públicos precarios, transporte insuficiente y largos tiempos de traslado— constituyen una expresión contemporánea de injusticia territorial. Se proponen alternativas integrales que articulen transporte estructurado, mejora del espacio público y fortalecimiento comunitario, colocando en el centro las necesidades de los pueblos históricamente marginados.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+     },
+     "url": "https://doi.org/10.7764/eure.52.156.10",
+     "doi": "10.7764/eure.52.156.10",
+     "paginas": "1",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.7764/eure.52.156.03",
+     "titulo": "Los ODS en la Región de Antofagasta: descentralización, heterogeneidad y priorización de las experiencias locales de desarrollo",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Jonathan R. Barton",
+       "orcid": "https://orcid.org/0000-0001-6250-8684"
+      },
+      {
+       "nombre": "Juan Páez",
+       "orcid": "https://orcid.org/0009-0000-9024-4698"
+      },
+      {
+       "nombre": "Catalina Guerra",
+       "orcid": "https://orcid.org/0000-0002-3564-7117"
+      },
+      {
+       "nombre": "Natalia Pozo",
+       "orcid": "https://orcid.org/0009-0002-7418-9128"
+      },
+      {
+       "nombre": "Rodrigo Álvarez",
+       "orcid": "https://orcid.org/0009-0005-0711-2317"
+      }
+     ],
+     "resumen": "La Agenda 2030 y los Objetivos de Desarrollo Sustentable (ODS) que miden sus avances se han convertido desde 2015 en un marco estratégico global para orientar el desarrollo. Sin embargo, los informes nacionales de avance carecen del detalle regional y local que puede revelar la diversidad de experiencias subnacionales. Este artículo comparte la evidencia existente en la materia a nivel local en la Región de Antofagasta, que a la vez indica los grandes desafíos que se le plantean a una región minera, como cualquier región basada en el extractivismo no-renovable. El punto principal es que cada región tiene sus particularidades que los ODS pueden detectar. La evidencia demuestra las brechas que existen entre distintas variables de los ODS, contra el promedio nacional y dentro de la misma región. Esta información es relevante en la medida en que excede la medición de tendencias y sirve como insumo para la planificación local y regional frente a la urgencia de un proceso de desarrollo más sustentable, incluso en las regiones más dependientes de sus recursos naturales.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+     },
+     "url": "https://doi.org/10.7764/eure.52.156.03",
+     "doi": "10.7764/eure.52.156.03",
+     "paginas": "1",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.7764/eure.52.155.02",
+     "titulo": "Mejoramiento de vivienda plurifamiliar y equidad territorial. El impacto del programa D.S. N° 27 en Santiago de Chile, 2019-2023",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Diego Sánchez",
+       "orcid": "https://orcid.org/0009-0006-1823-4042"
+      }
+     ],
+     "resumen": "Este artículo evalúa la capacidad redistributiva del Capítulo Tercero del “Programa de Mejoramiento de Viviendas y Barrios – D.S. N° 27” en Santiago de Chile, que busca rehabilitar viviendas plurifamiliares. Mediante una metodología cuantitativa, se analizaron datos de diversas fuentes gubernamentales para estudiar la distribución de subsidios según la renta y características socioeconómicas de los beneficiarios. Los resultados muestran que el programa ha mejorado las condiciones de vida en viviendas sociales, pero no siempre ha beneficiado a las familias de menores ingresos. Se discute la necesidad de ajustes para mejorar la inclusión y la participación comunitaria, sugiriendo una mayor intervención estatal y diagnósticos previos más detallados.",
+     "idioma_resumen": "es",
+     "licencia": null,
+     "url": "https://doi.org/10.7764/eure.52.155.02",
+     "doi": "10.7764/eure.52.155.02",
+     "paginas": "1",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.7764/eure.52.156.01",
+     "titulo": "Más allá de los anfitriones: profesionalización, segmentación e hibridación en el mercado de alquileres temporarios de Buenos Aires",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Natalia Lerena Rongvaux",
+       "orcid": "https://orcid.org/0000-0002-7345-5511"
+      },
+      {
+       "nombre": "Carolina Gonzalez Redondo",
+       "orcid": "https://orcid.org/0000-0002-8338-8148"
+      }
+     ],
+     "resumen": "Este trabajo caracteriza el mercado de alquileres temporarios, sus efectos y el interjuego con el alquiler convencional, a través del análisis de las lógicas de los principales actores que componen su oferta en la ciudad de Buenos Aires. La estrategia metodológica articuló la sistematización de datos de sitios web y redes sociales con entrevistas en profundidad y observaciones en campo. Entre los principales resultados, se destaca: i) la tendencia a la profesionalización de la gestión, a la estandarización del producto/servicio y a la concentración territorial, a medida que la competencia intercapitalista avanza; ii) la consolidación de dos modelos para la gestión del alquiler temporal, con lógicas diferentes, ambos interconectados con el mercado de alquiler convencional: por un lado, el “alquiler de hospitalidad”; por el otro, el “alquiler flexible prolongado”; iii) una hibridación entre las modalidades de alquiler temporario y convencional como estrategia para optimizar la captación de rentas.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+     },
+     "url": "https://doi.org/10.7764/eure.52.156.01",
+     "doi": "10.7764/eure.52.156.01",
+     "paginas": "1",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.7764/eure.52.155.05",
+     "titulo": "Planeadores ciudadanos autodidactas: incidencia en la planeación a partir del conocimiento legal autogestionado",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Samuel N. Agüero",
+       "orcid": "https://orcid.org/0009-0005-8663-9060"
+      }
+     ],
+     "resumen": "Frente a la agenda de justicia urbana y democratización institucional, investigaciones recientes muestran que el conocimiento jurídico especializado viene profundizando las brechas entre la ciudadanía y los expertos, y limita la participación efectiva. Hasta ahora se ha investigado el uso del saber legal por parte de abogados y elites expertas para incidir en la planeación, sin que comprendamos plenamente los procesos de aprendizaje y las oportunidades que el conocimiento experto le ofrece a la ciudadanía de a pie. En este artículo abordo este problema. A falta de un término más preciso, propongo llamar planeadores ciudadanos autodidactas a la ciudadanía sin entrenamiento formal que utiliza conocimientos legales adquiridos de manera autodidacta para incidir en la planeación. Con base en un estudio cualitativo en Bogotá, analizo cómo emplean los espacios de participación y escuelas de autoformación, cómo se involucran en proyectos y contratos de interés público, y de qué manera usan este conocimiento para reivindicar el derecho a la ciudad.",
+     "idioma_resumen": "es",
+     "licencia": null,
+     "url": "https://doi.org/10.7764/eure.52.155.05",
+     "doi": "10.7764/eure.52.155.05",
+     "paginas": "1",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.7764/eure.52.155.08",
+     "titulo": "Planificación urbana y redes de servicios en las Manzanas de Cuidado de Bogotá",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "María Acevedo-Estrada",
+       "orcid": "https://orcid.org/0009-0002-2436-2383"
+      },
+      {
+       "nombre": "Javier A. Pineda-D.",
+       "orcid": "https://orcid.org/0000-0003-1183-7677"
+      }
+     ],
+     "resumen": "La territorialización del Sistema Distrital de Cuidado de Bogotá mediante las denominadas Manzanas de Cuidado se fundamenta en la articulación entre equipamientos nuevos que prestan servicios de cuidado y aquellos ya existentes, conformándose así las denominadas ‘redes de cuidado’. Este artículo analiza, desde la perspectiva del urbanismo feminista, la implementación de dicho programa entre 2020 y 2023 en la localidad de San Cristóbal. A partir de la revisión de documentos de planeación y de entrevistas con funcionarias, lideresas y cuidadoras, se identifican impactos urbanos y avances en el reconocimiento y la redistribución de los cuidados, así como tensiones en la articulación interinstitucional y desafíos en la materialización de una planificación urbana que coloque los cuidados y la sostenibilidad de la vida en el centro.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+     },
+     "url": "https://doi.org/10.7764/eure.52.155.08",
+     "doi": "10.7764/eure.52.155.08",
+     "paginas": "1",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.7764/eure.52.155.10",
+     "titulo": "Renegociaciones cotidianas frente a la gentrificación y el desplazamiento en el espacio público: La vida urbana en la Alameda Central en el Centro Histórico de la Ciudad de México",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Fernando Gutiérrez",
+       "orcid": "https://orcid.org/0000-0002-8477-9044"
+      }
+     ],
+     "resumen": "Esta investigación examina los efectos de la renovación de la Alameda Central y sus alrededores en el Centro Histórico de la Ciudad de México. El artículo explora las experiencias de personas en condiciones de calle, vendedores ambulantes, artistas callejeros y trabajadores sexuales masculinos, quienes han logrado renegociar el uso del espacio público de forma cotidiana, así como sus interacciones con policías, jardineros y barrenderos. Mediante observaciones longitudinales, etnografía, entrevistas, análisis de redes sociales y revisión de políticas urbanas, esta investigación demuestra que la vida urbana en los espacios públicos, como la Alameda, está en constante cambio, y que las políticas de regeneración han acelerado este proceso al excluir a ciertos grupos considerados ‘indeseables’. No obstante, estas poblaciones han respondido a la gentrificación y al desplazamiento buscando continuas formas de renegociar y adaptarse diariamente a los efectos de estas políticas.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+     },
+     "url": "https://doi.org/10.7764/eure.52.155.10",
+     "doi": "10.7764/eure.52.155.10",
+     "paginas": "1",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.7764/eure.52.155.09",
+     "titulo": "Satisfacción residencial posrelocalización de asentamientos informales: estudio comparativo de viviendas sociales en Colombia y Chile",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Juan Carlos Marín-Villegas",
+       "orcid": "https://orcid.org/0000-0002-3617-8631"
+      },
+      {
+       "nombre": "Francisco Sabatini",
+       "orcid": "https://orcid.org/0000-0001-8745-0052"
+      },
+      {
+       "nombre": "Francisco Eduardo Gatica-Neira",
+       "orcid": "https://orcid.org/0000-0002-1968-9384"
+      }
+     ],
+     "resumen": "Investigaciones recientes indican un vínculo positivo entre la satisfacción residencial posrelocalización de asentamientos informales en viviendas sociales y las condiciones socioeconómicas nacionales. El objetivo es estudiar tal relación en Latinoamérica, mediante el análisis cuantitativo de dos casos, uno en Manizales, Colombia, y otro en Concepción, Chile. Según el marco teórico, se predice una menor satisfacción con la vivienda, el barrio, los vecinos y el entorno residencial en general en el caso de Manizales, debido a mayores déficits percibidos en seguridad, relaciones sociales, gastos de la vivienda, atributos espaciales y confort ambiental. La información se recoge con encuestas y se analiza con pruebas estadísticas de comparación y regresión logística. Los resultados revelan que, contrario a lo hipotetizado, la satisfacción con el barrio y el entorno residencial en general es significativamente menor en el caso de Concepción, debido principalmente a una percepción más negativa de la seguridad, la adaptabilidad y el confort de las viviendas.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+     },
+     "url": "https://doi.org/10.7764/eure.52.155.09",
+     "doi": "10.7764/eure.52.155.09",
+     "paginas": "1",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.7764/eure.52.156.05",
+     "titulo": "Trayectorias habitacionales hacia la favela: narrativas, racionalidades, transversalidades",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Luanda Vannuchi",
+       "orcid": "https://orcid.org/0000-0002-4107-2268"
+      }
+     ],
+     "resumen": "Recientemente divulgados, los datos del Censo 2022 señalan la continuidad de una tendencia observada desde 1970: el crecimiento de las favelas y de la población que reside en ellas en Brasil. Entre las causas recientemente señaladas se destacan los impactos de la pandemia de Covid-19, el desempleo y el empobrecimiento de la población. Sin embargo, los aspectos socioeconómicos explican solo una parte de esta realidad. El artículo analiza el crecimiento de las favelas en Brasil a partir de las narrativas de sus residentes sobre sus trayectorias habitacionales y de vida. A través de entrevistas biográficas realizadas en dos municipios de la Región Metropolitana de São Paulo, la investigación revela que la mudanza a las favelas resulta de una combinación de factores familiares, laborales, de ingresos y necesidades de vivienda. Los resultados evidencian la persistencia de la precariedad, la transitoriedad y la fragmentación en trayectorias habitacionales marcadas por la indeterminación. Además, permiten reflexionar sobre una pragmática popular en la producción y transformación de asentamientos informales en las periferias de las metrópolis brasileñas.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+     },
+     "url": "https://doi.org/10.7764/eure.52.156.05",
+     "doi": "10.7764/eure.52.156.05",
+     "paginas": "1",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.7764/eure.52.156.07",
+     "titulo": "“Desde chica he escuchado eso”. Reproducción del estigma territorial en la perspectiva de jóvenes de tres territorios en Chile",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Alejandra Rasse",
+       "orcid": "https://orcid.org/0000-0003-0625-8021"
+      },
+      {
+       "nombre": "Claudia Concha",
+       "orcid": "https://orcid.org/0000-0001-6594-2304"
+      },
+      {
+       "nombre": "Camila Rasse",
+       "orcid": "https://orcid.org/0000-0001-9832-6196"
+      },
+      {
+       "nombre": "Pablo Contreras",
+       "orcid": "https://orcid.org/0000-0002-8753-0412"
+      },
+      {
+       "nombre": "María Sarella Robles",
+       "orcid": "https://orcid.org/0000-0002-1803-2436"
+      },
+      {
+       "nombre": "Grace Amigo",
+       "orcid": "https://orcid.org/0009-0009-3218-5592"
+      }
+     ],
+     "resumen": "Este artículo busca profundizar en la producción y reproducción de estigma territorial, para lo cual analiza la contribución de distintos actores a tal proceso y la perspectiva que los jóvenes tienen sobre la materia. Se empleó un enfoque relacional, que vinculó la vivencia cotidiana de los sujetos con los efectos que tienen sobre ellos las estructuras sociales, simbólicas y de poder. En términos metodológicos, se analizaron noticias, programas públicos y artículos académicos correspondientes a tres territorios de diferentes escalas y regiones de Chile, material complementado con 30 entrevistas a jóvenes de entre 18 y 29 años residentes en dichos lugares. El estudio concluye que el proceso de estigmatización niega la diversidad interna de los territorios y su posibilidad de construir una trayectoria en el tiempo distinta a la del pasado y el presente; que dicho proceso enmarca lo que ocurre de forma que la nueva información siempre refuerce el estigma, y niega a los jóvenes la posibilidad de construir una identidad a partir de los elementos que valoran en su territorio.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+     },
+     "url": "https://doi.org/10.7764/eure.52.156.07",
+     "doi": "10.7764/eure.52.156.07",
+     "paginas": "1",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.7764/eure.52.155.07",
+     "titulo": "“Nosotros solo queremos respirar”: Conflictos ambientales y desigualdad en la cuenca Matanza Riachuelo en Buenos Aires",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Carla Fainstein",
+       "orcid": "https://orcid.org/0000-0002-6504-0586"
+      },
+      {
+       "nombre": "Malena Castilla",
+       "orcid": "https://orcid.org/0000-0002-1040-5568"
+      }
+     ],
+     "resumen": "En este artículo nos proponemos analizar dos conflictos urbano-ambientales que se desarrollan en dos barrios del Área Metropolitana de Buenos Aires (AMBA), el centro urbano más extenso y densamente poblado de la Argentina. Indagaremos en aquello que es significado como una demanda ambiental, en la conformación de actores colectivos, en prácticas de cuidado desarrolladas por los hogares y en las acciones llevadas adelante por agentes estatales y privados en este marco. Ambos territorios se encuentran en la cuenca Matanza Riachuelo, cuyo saneamiento ambiental está judicializado hace más de quince años. Desarrollamos una metodología cualitativa que articuló relevamiento de fuentes secundarias, trabajo etnográfico y la realización de entrevistas semiestructuradas. Los resultados obtenidos nos permiten matizar las dicotomías académicas ‘agencia’ y ‘pasividad’, así como analizar los límites y potencialidades de los organismos interjurisdiccionales de ordenamiento ambiental y territorial de cuencas hídricas urbanas.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+     },
+     "url": "https://doi.org/10.7764/eure.52.155.07",
+     "doi": "10.7764/eure.52.155.07",
+     "paginas": "1",
+     "fuente": "Crossref"
+    }
+   ]
+  },
+  {
+   "id": "n51-2025",
+   "volumen": null,
+   "numero": "51",
+   "anio": 2025,
+   "fecha": "2025",
+   "etiqueta": "núm. 51 (2025)",
+   "fuente": "Crossref",
+   "articulos": [
+    {
+     "id": "10.7764/eure.51.num.esp.01",
+     "titulo": "Cinco mapas por 55 años de historia: celebrando las contribuciones de la Revista EURE a los estudios urbanos y regionales",
+     "idioma_titulo": "es",
+     "autores": [],
+     "resumen": "Los 55 años de la Revista EURE – Revista Latinoamericana de Estudios Urbano Regionales son una ocasión especial para celebrar los logros alcanzados y proyectarse hacia nuevos desafíos. La revista se ha consolidado como un espacio clave para la difusión del conocimiento en América Latina. En este aniversario, queremos poner en valor con un número especial la contribución que EURE ha realizado a lo largo de sus 55 años de historia. Convocamos a cinco destacadas voces de los estudios urbanos en América Latina, con la intención no solo de reconstruir los debates que se han generado en los 55 años de historia de la revista, sino también de delinear mapas de la conversación actual y de los posibles desafíos futuros que enfrentan los estudios urbanos y regionales en América Latina. En esta editorial, reconstruimos brevemente la historia de la Revista EURE, para luego presentar los cinco artículos que integran este número especial.",
+     "idioma_resumen": "es",
+     "licencia": null,
+     "url": "https://doi.org/10.7764/eure.51.num.esp.01",
+     "doi": "10.7764/eure.51.num.esp.01",
+     "paginas": "1-8",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.7764/eure.51.num.esp.03",
+     "titulo": "Gobernanza y política urbana en América Latina: transiciones teóricas y persistencias epistemológicas en la Revista EURE (1970-2025)",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Sergio Montero",
+       "orcid": null
+      }
+     ],
+     "resumen": "Este artículo examina cómo se ha conceptualizado la gobernanza y la política urbana en América Latina en la Revista EURE (1970-2025). El análisis identifica varias transiciones teóricas que van desde el estructuralismo cepalino, el reformismo institucional y la sociología marxista en sus inicios hasta enfoques neo-institucionalistas y neo-marxistas sobre globalización y gobernanza empresarialista y, más recientemente, marcos socio-legales y de ecología política. Estas perspectivas han orientado debates sobre planificación, movimientos sociales urbanos, políticas de vivienda, segregación, gentrificación y financiarización. A pesar de esta diversidad teórica y temática, persisten en la revista tres patrones epistemológicos: dependencia teórica y reduccionismo empírico, predominio de categorías binarias de análisis y una praxis elitizada del cambio urbano. Frente a estas limitaciones, más que proponer un nuevo giro teórico, el artículo plantea estrategias para avanzar hacia formas más situadas y descolonizadoras de producción de conocimiento mediante marcos relacionales y comparativos y la co-producción con actores territoriales.",
+     "idioma_resumen": "es",
+     "licencia": null,
+     "url": "https://doi.org/10.7764/eure.51.num.esp.03",
+     "doi": "10.7764/eure.51.num.esp.03",
+     "paginas": "1-37",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.7764/eure.51.num.esp.02",
+     "titulo": "Historia urbana, planificación y ordenamiento territorial en América Latina: una revisita desde EURE, 1970-2025",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Arturo Almandoz",
+       "orcid": null
+      }
+     ],
+     "resumen": "Apoyándose en el contexto de la historiografía urbana y urbanística en Latinoamérica, este artículo se plantea indagar cómo, a lo largo de la historia de la Revista EURE desde 1975, pueden distinguirse etapas marcadas por cambios políticos, epistemológicos y editoriales. Tras la agenda latinoamericana de temas urbanos, pautada en parte por la CEPAL y otras organizaciones continentales, el golpe de septiembre de 1973 indujo cierto abandono de abordajes agonistas, frecuentes durante los años de la Unidad Popular. Una segunda etapa aparece marcada por el largo proceso de especialización, sectorización y tecnificación por el resto del siglo, en mucho guiado por Carlos De Mattos como director, hasta desembocar en la casuística desplegada a lo largo los últimos lustros de la tercera etapa, representativa de un urbanismo que ha transitado hacia la planificación y el ordenamiento, mientras los estudios urbanos, territoriales y ambientales han experimentado cambios epistémicos, metodológicos y escalares. Toda esa tematización y periodización historiográfica es testeada sobre la base del corpus informativo y estadístico provisto por la revista, incluyendo los artículos más citados.",
+     "idioma_resumen": "es",
+     "licencia": null,
+     "url": "https://doi.org/10.7764/eure.51.num.esp.02",
+     "doi": "10.7764/eure.51.num.esp.02",
+     "paginas": "1-32",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.7764/eure.51.num.esp.04",
+     "titulo": "Los debates sobre la informalidad urbana en América Latina: marca y desafío de las ciudades latinoamericanas",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "María Mercedes Di Virgilio",
+       "orcid": null
+      }
+     ],
+     "resumen": "El artículo examina la evolución de los estudios sobre la informalidad urbana en América Latina y los aportes de los trabajos publicados en EURE a la problemática. La informalidad se entiende como un fenómeno complejo, vinculado a la urbanización, la pobreza y la exclusión social. A lo largo del tiempo, las teorías han pasado de asociar la informalidad con la marginalidad a reconocerla como un rasgo estructural de la urbanización en la región. Las políticas estatales han evolucionado desde la erradicación de asentamientos informales hasta enfoques de mejoramiento y regularización, aunque a menudo carecen de un marco integral. El artículo concluye que la informalidad es parte constitutiva de la estructura de la ciudad latinoamericana, reflejando las tensiones entre la ciudad formal e informal y subrayando la necesidad de abordar las causas subyacentes del fenómeno.",
+     "idioma_resumen": "es",
+     "licencia": null,
+     "url": "https://doi.org/10.7764/eure.51.num.esp.04",
+     "doi": "10.7764/eure.51.num.esp.04",
+     "paginas": "1-28",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.7764/eure.51.num.esp.06",
+     "titulo": "Movilizaciones, conflictos urbanos y justicia ambiental en América Latina",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Vicente Ugalde",
+       "orcid": null
+      }
+     ],
+     "resumen": "Este artículo analiza un conjunto de conflictos y movilizaciones sociales producidos en América Latina desde una perspectiva que se interesa en sus causas, generalmente asociadas a cambios en la distribución de los beneficios y las cargas que generan prácticas productivas e intervenciones sobre el territorio; pero también en sus efectos, en su eventual utilidad social. A partir de un corpus de trabajos publicados por la Revista EURE, este artículo reflexiona sobre cómo los conflictos y movilizaciones de los que se da cuenta en estos textos participan en el proceso por el que se configuran los problemas públicos. Asimismo, el artículo pone en relieve la contribución de los trabajos revisados al estudio de los conflictos urbanos y socioambientales en América Latina y la innovación analítica de la que son portadores.",
+     "idioma_resumen": "es",
+     "licencia": null,
+     "url": "https://doi.org/10.7764/eure.51.num.esp.06",
+     "doi": "10.7764/eure.51.num.esp.06",
+     "paginas": "1-16",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.7764/eure.51.num.esp.05",
+     "titulo": "Pensamiento crítico y luchas urbanas en América Latina: una mirada desde Brasil",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Raquel Rolnik",
+       "orcid": null
+      },
+      {
+       "nombre": "Cibele Saliba Rizek",
+       "orcid": null
+      },
+      {
+       "nombre": "Carlos Vainer",
+       "orcid": null
+      },
+      {
+       "nombre": "Ana Fernandes",
+       "orcid": null
+      }
+     ],
+     "resumen": "El artículo analiza el desarrollo del pensamiento crítico urbano en América Latina, con énfasis en Brasil, integrando dimensiones históricas, teóricas y políticas. A partir de corrientes como el marxismo y el desarrollismo, examina la evolución de la cuestión urbana y el papel de la urbanización, la industrialización y las luchas sociales en la configuración de las ciudades. En este marco, se destaca el valor de la Revista EURE como espacio fundamental de producción, circulación y consolidación del pensamiento crítico latinoamericano, evidenciado en la sistematización de debates, categorías analíticas y estudios empíricos a lo largo de más de cinco décadas. Asimismo, el texto aborda procesos como la Reforma Urbana, la influencia de la Revolución Cubana y la emergencia de movimientos sociales. Finalmente, discute la ciudad neoliberal y financiarizada, subrayando la necesidad de renovar el pensamiento crítico desde perspectivas decoloniales y desde las luchas urbanas contemporáneas.",
+     "idioma_resumen": "es",
+     "licencia": null,
+     "url": "https://doi.org/10.7764/eure.51.num.esp.05",
+     "doi": "10.7764/eure.51.num.esp.05",
+     "paginas": "1-19",
+     "fuente": "Crossref"
+    }
+   ]
+  },
+  {
+   "id": "v47-n141-2021",
+   "volumen": "47",
+   "numero": "141",
+   "anio": 2021,
+   "fecha": "2021",
+   "etiqueta": "Vol. 47, núm. 141 (2021)",
+   "fuente": "Crossref",
+   "articulos": [
+    {
+     "id": "10.7764/eure.47.141.09",
+     "titulo": "Ciudad y lucha: la plaza como altavoz social. Parámetros urbanos y sociopolíticos en la ocupación del espacio público iberoamericano",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Javier Navarro-de-Pablos",
+       "orcid": null
+      },
+      {
+       "nombre": "Daniel Navas-Carrillo",
+       "orcid": null
+      },
+      {
+       "nombre": "María-Teresa Pérez-Cano",
+       "orcid": null
+      }
+     ],
+     "resumen": "El espacio público ha sido tradicionalmente refugio civil en periodos de convulsión social. Siendo el motor y filtro que equilibra las relaciones sociales entre ciudadanos, es ocupado, discutido, reclamado y transgredido. La globalización de las redes sociales ha impulsado el desplazamiento de las demandas sociales hacia el mundo virtual. Sin embargo, la plaza sigue constituyendo, en la mayoría de las expresiones reivindicativas, el símbolo físico en el que se encuentra y reconoce la colectividad. El presente artículo pretende determinar, a través de una metodología gráfica extrapolable, qué parámetros urbanos y sociopolíticos marcan la capacidad de un espacio para acoger manifestaciones o revueltas. Estas coreografías sociales representan, ante todo, un acto de transformación y apropiación de la ciudad, reafirmando la figura del ágora como lexema atemporal. Recorriendo tres casos de estudio del arco iberoamericano –en contextos de dictadura, estabilidad y crisis– se observan singularidades diferenciales y ritos comunes inherentes al comportamiento humano.",
+     "idioma_resumen": "es",
+     "licencia": null,
+     "url": "https://doi.org/10.7764/eure.47.141.09",
+     "doi": "10.7764/eure.47.141.09",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.7764/eure.47.141.01",
+     "titulo": "Desarrollo de territorios costeros turísticos en México mediante la autogestión con base sistémica",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Olga-Lidia Jiménez-Arenas",
+       "orcid": null
+      },
+      {
+       "nombre": "Jorge Rojas-Ramírez",
+       "orcid": null
+      },
+      {
+       "nombre": "Víctor-Ramón Oliva-Aguilar",
+       "orcid": null
+      },
+      {
+       "nombre": "Ricardo Tejeida-Padilla",
+       "orcid": null
+      }
+     ],
+     "resumen": "La zona costera turística representa escenarios de reproducciones sociales complejas, ya que el desarrollo del turismo de playas se ha dado por un modelo de aprovechamiento que soslaya el sistema ecológico que lo soporta. Esto se atribuye a una inadecuada planeación, la desarticulación gubernamental y la generalización de la problemática social y ambiental de las costas. Las playas, como elementos costeros, presentan particularidades sociales y ambientales que requieren metodologías que regulen su variedad. En este sentido, este trabajo tiene como objetivo proponer el uso del Enfoque Sistémico (utilizando la Metodología de Sistemas Suaves) para un acercamiento a la gestión costera desde una perspectiva local. Los resultados obtenidos fueron un diagnóstico participativo y un modelo conceptual de autogestión para las playas de Puerto Escondido, Oaxaca. Se encontró que, a partir de estudios locales que otorguen un papel protagónico a la comunidad para el aprovechamiento sustentable de las costas, mejora la vinculación entre lo social y lo ambiental.",
+     "idioma_resumen": "es",
+     "licencia": null,
+     "url": "https://doi.org/10.7764/eure.47.141.01",
+     "doi": "10.7764/eure.47.141.01",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.7764/eure.47.141.03",
+     "titulo": "Destinos turísticos patrimoniales y la museificación del territorio. Estudio comparativo entre Santa Fe de Antioquia (Colombia) y San Cristóbal de Las Casas (México)",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Elkin Muñoz",
+       "orcid": null
+      },
+      {
+       "nombre": "Luis Llanos",
+       "orcid": null
+      }
+     ],
+     "resumen": "El patrimonio es uno de los recursos territoriales utilizado por el turismo. El accionar de este último puede tender a museificar ese patrimonio, a petrificarlo, a convertirlo en una imagen para la fotografía, lo cual repercute sobre el significado social de los espacios y lugares patrimoniales. Este artículo tiene como objetivo analizar estos procesos que reconfiguran el territorio, haciéndolo a través de la comparación de dos destinos turísticos de América Latina: San Cristóbal de Las Casas (México) y Santa Fe de Antioquia (Colombia). El método que orienta la investigación es la comparación, centrada en dos procesos sociales en cada unidad de análisis (la museificación del espacio y la producción del territorio), para encontrar elementos comunes y dispares que ayuden a comprender la relación entre patrimonio, turismo y territorio. Se concluye que esta relación, en el contexto global, tiene efectos diferenciados según la construcción histórica del territorio.",
+     "idioma_resumen": "es",
+     "licencia": null,
+     "url": "https://doi.org/10.7764/eure.47.141.03",
+     "doi": "10.7764/eure.47.141.03",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.7764/eure.47.141.13",
+     "titulo": "Geografías de la desigualdad. Nuevas perspectivas desde el enfoque de la vulnerabilidad social",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Edwar-Leonardo Salamanca",
+       "orcid": null
+      }
+     ],
+     "resumen": "Título libro: Colectivos en desventaja social y habitacional. La geografía de las desigualdades Autores: José Nieto Calmaestra y Carmen Egea Jiménez (Coords.) Edición: Granada: Editorial Universidad de Granada, 2019 (205 pp.). ISBN: 9788433864383",
+     "idioma_resumen": "es",
+     "licencia": null,
+     "url": "https://doi.org/10.7764/eure.47.141.13",
+     "doi": "10.7764/eure.47.141.13",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.7764/eure.47.141.05",
+     "titulo": "Gestión participativa, prácticas de gobernanza y desarrollo sostenible en pequeñas ciudades turísticas",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Nádia-Mara Franz",
+       "orcid": null
+      },
+      {
+       "nombre": "Cleverson-Vitorio Andreoli",
+       "orcid": null
+      },
+      {
+       "nombre": "Christian-Luiz Da Silva",
+       "orcid": null
+      }
+     ],
+     "resumen": "La investigación tiene como objetivo analizar los efectos de la gestión participativa y las prácticas de gobernanza de las administraciones públicas en el desarrollo sostenible de las pequeñas ciudades turísticas. Según datos del Instituto Brasileño de Geografía y Estadística (IBGE) de 2019, el 94,2% de las ciudades brasileñas son pequeñas, tienen menos de 100.000 habitantes. La investigación es un enfoque mixto, que delimita los estudios de casos. Los municipios de Bombinhas, Ilhabela, Cairu, Caldas Novas y Mateiros fueron seleccionados por muestreo intencional. Los resultados revelan que las ciudades evaluadas presentaron crecimiento tanto de la población como del PIB en el período medido. Sin embargo, el aumento del PIB no tuvo igual impacto en los datos sociales y en los ambientales. El crecimiento de los ingresos puede servir como base para mejoras sociales y ambientales, pero las elecciones de los administradores y la sociedad determinarán el futuro de las ciudades.",
+     "idioma_resumen": "es",
+     "licencia": null,
+     "url": "https://doi.org/10.7764/eure.47.141.05",
+     "doi": "10.7764/eure.47.141.05",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.7764/eure.47.141.07",
+     "titulo": "Heterogeneidad de los efectos de la crisis española en los mercados laborales urbanos",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Pilar Murias",
+       "orcid": null
+      },
+      {
+       "nombre": "Fidel Martínez-Roget",
+       "orcid": null
+      }
+     ],
+     "resumen": "Este artículo estudia la heterogeneidad espacial en las consecuencias de la crisis económica de España, al analizar su impacto en diferentes mercados laborales urbanos. Utilizando datos relacionados con los municipios urbanos más grandes de España, se identifican cuatro grupos en función del impacto de la crisis en las tasas de desempleo. Los resultados muestran una importante división norte/sureste en la evolución de los mercados laborales locales en España durante el periodo 2006-2013. Los factores clave de la resiliencia en los mercados laborales urbanos fueron el nivel de estudios de la población, la estructura industrial y, en menor medida, el grado de urbanización.",
+     "idioma_resumen": "es",
+     "licencia": null,
+     "url": "https://doi.org/10.7764/eure.47.141.07",
+     "doi": "10.7764/eure.47.141.07",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.7764/eure.47.141.04",
+     "titulo": "Intervención urbana y desarrollo turístico: propuesta de un modelo de análisis en Centros Históricos",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Ana Reyes-Aguilar",
+       "orcid": null
+      },
+      {
+       "nombre": "Francisco Rosas-Ferrusca",
+       "orcid": null
+      },
+      {
+       "nombre": "Carlos Pérez-Ramírez",
+       "orcid": null
+      },
+      {
+       "nombre": "Juan Calderón-Maya",
+       "orcid": null
+      }
+     ],
+     "resumen": "Con el modelo neoliberal se han intensificado las transformaciones en los Centros Históricos (CH), hoy sujetos a procesos de renovación y desarrollo comercial y turístico que han generado diversas problemáticas, dejando de lado la importancia y significado social de la ciudad. La investigación propone un modelo para el análisis de la intervención urbana y desarrollo turístico en CH a través de la política urbana, con la finalidad de identificar su incidencia en la dinámica urbana actual. Para ello se realizó un análisis crítico del acervo bibliográfico de diversas revistas científicas y otros documentos relevantes sobre aspectos teórico-metodológicos de intervención urbana, turismo y CH. Se concluye que la incursión de la política neoliberal en el ámbito urbano dio lugar a una nueva forma de construir las ciudades, generando su mercantilización mediante el embellecimiento de la ciudad y la acumulación del capital a partir de proyectos de renovación urbana orientados a la actividad turística.",
+     "idioma_resumen": "es",
+     "licencia": null,
+     "url": "https://doi.org/10.7764/eure.47.141.04",
+     "doi": "10.7764/eure.47.141.04",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.7764/eure.47.141.10",
+     "titulo": "La estructura socio-ocupacional metropolitana brasileña: diversificación y homogeneidad en los años 2000",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Alexandre-Magno Alves-Diniz",
+       "orcid": null
+      },
+      {
+       "nombre": "Jupira Gomes de-Mendonça",
+       "orcid": null
+      },
+      {
+       "nombre": "Luciana-Teixeira de-Andrade",
+       "orcid": null
+      }
+     ],
+     "resumen": "Este artículo examina los cambios experimentados por la estructura socio-ocupacional de las quince principales regiones metropolitanas de Brasil entre 2000 y 2010. Emplea medidas de ubicación y especialización geográfica para identificar patrones de distribución espacial relacionados con ocho grupos sociales jerárquicos. Los resultados muestran una relativa estabilidad en la composición y distribución de las categorías sociolaborales en las quince regiones metropolitanas, con poca especialización regional, a pesar de los cambios sociales y económicos significativos experimentados durante la década de 2000. Los cambios observados, aunque de corto alcance, están asociados con las metrópolis situadas más al norte.",
+     "idioma_resumen": "es",
+     "licencia": null,
+     "url": "https://doi.org/10.7764/eure.47.141.10",
+     "doi": "10.7764/eure.47.141.10",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.7764/eure.47.141.02",
+     "titulo": "La industria cultural en las ciudades de México: Los ‘servicios simbólicos intensivos en conocimiento’ (SIC-simbólicos)",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Boris Graizbord",
+       "orcid": null
+      },
+      {
+       "nombre": "Luis-Enrique Santiago",
+       "orcid": null
+      }
+     ],
+     "resumen": "En este trabajo reflexionamos sobre el potencial de la “industria cultural” para dinamizar la economía de las ciudades en México. Las actividades de orden cultural han sido promovidas en grandes ciudades para revitalizar sus economías y, en algunos casos, aportan un elevado porcentaje de su empleo e ingreso. Representan, además, un nicho que atrae visitantes y genera utilidades, y se han convertido en su marca y sello simbólico. El objetivo central es estudiar la participación y los cambios recientes de las actividades culturales en la estructura económica de las 384 ciudades del Sistema Urbano Nacional (SUN) mexicano. Metodológicamente, tales actividades han sido definidas como ‘servicios intensivos en conocimiento’ (knowledge-intensive services, KIS) que producen elementos ‘simbólicos’: medios de comunicación masiva, cultura y diseño. Los resultados indican que no solo las grandes ciudades tienen concentraciones sobresalientes de KIS-simbólicos, sino también las medianas y pequeñas, lo cual abre un abanico de posibilidades para implementar políticas públicas encaminadas a su desarrollo en el ámbito urbano.",
+     "idioma_resumen": "es",
+     "licencia": null,
+     "url": "https://doi.org/10.7764/eure.47.141.02",
+     "doi": "10.7764/eure.47.141.02",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.7764/eure.47.141.12",
+     "titulo": "Metodología para la construcción del Inventario de Recursos Paisajísticos en la Quebrada de Humahuaca (Argentina), Patrimonio Mundial",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Mónica-Rossana Ferrari",
+       "orcid": null
+      },
+      {
+       "nombre": "Luis-Alberto Bruna",
+       "orcid": null
+      }
+     ],
+     "resumen": "La sostenibilidad futura del paisaje es un tema pendiente en las agendas latinoamericanas e involucra un proceso de gestión del territorio que se inicia con el conocimiento del mismo y finaliza con la propuesta de regulaciones para su protección u ordenamiento. En este contexto, el artículo muestra los avances de una investigación que propone, como herramienta clave, la elaboración de un inventario de recursos paisajísticos para la región de la Quebrada de Humahuaca, Jujuy, Argentina. Se expone como resultado una metodología –originada en la necesidad de reconocimiento, valoración y protección del paisaje– que comprende la recopilación y evaluación de la información, así como el registro de los recursos paisajísticos y su georreferenciación.",
+     "idioma_resumen": "es",
+     "licencia": null,
+     "url": "https://doi.org/10.7764/eure.47.141.12",
+     "doi": "10.7764/eure.47.141.12",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.7764/eure.47.141.11",
+     "titulo": "Ni urbano ni rural: lo ‘citadino’ como tipología para pensar la ciudad no metropolitana",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Ricardo Greene",
+       "orcid": null
+      },
+      {
+       "nombre": "Lucía de Abrantes",
+       "orcid": null
+      }
+     ],
+     "resumen": "El par urbano/rural ha sido la base desde la cual se ha construido el pensamiento espacial de Occidente, usado no solo para oponer distintas formas de ocupación territorial, sino también posiciones contrarias en el proceso modernizador; discursos e imaginarios donde el campo ocupa lo primitivo, tradicional y restrictivo, y la metrópolis lo moderno, versátil y tolerante. Intentando superar esta dicotomía, este artículo ofrece un modelo más acorde a la complejidad de nuestros arreglos espaciales, proponiendo pensar cada espacio como el ensamblaje de piezas de distinto cuño, como urbano o rural, pero concentrándose en definir las características esenciales de un tercer tipo de territorio: las ciudades no metropolitanas. A partir de un trabajo cuantitativo y cualitativo realizado en Chile y en Argentina, se plantean cuatro variables centrales que configurarían el modo de vida de estos territorios, al que hemos llamado ‘citadino’: la escala, el ritmo, la población y las jerarquías.",
+     "idioma_resumen": "es",
+     "licencia": null,
+     "url": "https://doi.org/10.7764/eure.47.141.11",
+     "doi": "10.7764/eure.47.141.11",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.7764/eure.47.141.14",
+     "titulo": "Un remezón en la historiografía del urbanismo",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Max Welch",
+       "orcid": null
+      }
+     ],
+     "resumen": "Título libro: The Routledge Handbook of Planning History Autora: Carola Hein (Ed.) Edición: Nueva York: Taylor & Francis, Routledge handbooks, 2018 (532 pp.). PRINT ISBN: 9781138856981 EBOOK ISBN: 978131571899",
+     "idioma_resumen": "en",
+     "licencia": null,
+     "url": "https://doi.org/10.7764/eure.47.141.14",
+     "doi": "10.7764/eure.47.141.14",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.7764/eure.47.141.08",
+     "titulo": "Violencia urbana y políticas de seguridad: análisis en cuatro ciudades latinoamericanas",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "David Hidalgo",
+       "orcid": null
+      },
+      {
+       "nombre": "Fabiana Silveira",
+       "orcid": null
+      },
+      {
+       "nombre": "Daniela Padilha",
+       "orcid": null
+      },
+      {
+       "nombre": "Ana-Flavia Bassani",
+       "orcid": null
+      },
+      {
+       "nombre": "Isabella Nascimento",
+       "orcid": null
+      }
+     ],
+     "resumen": "El presente estudio aborda la violencia urbana a partir de la lógica capitalista de ocupación territorial. Por medio de esta lente, se observa que la violencia se ve fortalecida por las desigualdades sociales, principalmente localizadas en los sectores periféricos de las áreas urbanas. En el intento de ilustrar esta realidad, se propuso un estudio de caso de cuatro ciudades latinoamericanas: Medellín (Colombia), Guayaquil (Ecuador), Río de Janeiro y Curitiba (Brasil), utilizando el indicador de la tasa de homicidios por cada 100.000 habitantes en la comparación de resultados de sus políticas en la lucha contra la inseguridad y la violencia urbana. Entre los principales hallazgos encontrados en estos estudios están: i) infraestructura urbana de calidad y educación para reducir la delincuencia, ii) industria de la inseguridad para la rentabilidad económica de oligopolios inmobiliarios, iii) militarización de las calles, y iv) violencia urbana concentrada en áreas segregadas.",
+     "idioma_resumen": "es",
+     "licencia": null,
+     "url": "https://doi.org/10.7764/eure.47.141.08",
+     "doi": "10.7764/eure.47.141.08",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.7764/eure.47.141.06",
+     "titulo": "“Se maneja todo acá”: Buenos Aires como ciudad compuerta en las redes de producción petrolera",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Sören Scholvin",
+       "orcid": null
+      }
+     ],
+     "resumen": "El artículo analiza el rol de Buenos Aires como “ciudad compuerta” en el sector petrolero, especialmente su impacto sobre el desarrollo en el interior de Argentina. En él se combinan dos enfoques, uno de geografía económica y otro de geografía urbana: redes de producción y ciudades globales. El autor propone considerar cinco elementos que caracterizan a las ciudades en redes de producción. Se demuestra que la concentración de sedes corporativas, así como del gobierno e instituciones públicas, explican el rol central de Buenos Aires. También transporte y logística, así como la transmisión de conocimiento, son allí funciones importantes. El procesamiento industrial no es una característica relevante de esta ciudad compuerta. Los lugares periféricos se integran a las redes de producción porque prestan mano de obra y, por medio de las pymes, productos y servicios genéricos. Sin embargo, las actividades intensivas en conocimiento y/o altamente ligadas a la captura de valor escasamente se expanden hacia la periferia.",
+     "idioma_resumen": "es",
+     "licencia": null,
+     "url": "https://doi.org/10.7764/eure.47.141.06",
+     "doi": "10.7764/eure.47.141.06",
+     "paginas": null,
+     "fuente": "Crossref"
+    }
+   ]
+  }
+ ]
+}

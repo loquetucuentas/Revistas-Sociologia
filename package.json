@@ -1,0 +1,15 @@
+{
+  "name": "revistas-sociologia",
+  "private": true,
+  "description": "Pruebas automáticas de accesibilidad del explorador de revistas. La aplicación no usa estas dependencias: solo se instalan para probarla.",
+  "scripts": {
+    "servir": "python3 -m http.server 8080",
+    "test": "playwright test",
+    "lighthouse": "lhci autorun"
+  },
+  "devDependencies": {
+    "@axe-core/playwright": "4.10.2",
+    "@lhci/cli": "0.15.1",
+    "@playwright/test": "1.56.1"
+  }
+}

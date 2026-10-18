@@ -1,0 +1,1175 @@
+// Copia de revistas/2318-3888.json para abrir la aplicación sin servidor.
+(window.DATOS_REVISTAS = window.DATOS_REVISTAS || {})["revistas/2318-3888.json"] = {
+ "version": 1,
+ "generado": "2026-10-18T05:53:59+00:00",
+ "es_prueba": false,
+ "revista": {
+  "id": "2318-3888",
+  "titulo": "Ambivalências",
+  "idioma_titulo": null,
+  "titulo_alternativo": null,
+  "idioma_titulo_alternativo": null,
+  "idiomas": [
+   "pt",
+   "en",
+   "es"
+  ],
+  "issn_impreso": null,
+  "issn_electronico": "2318-3888",
+  "editorial": "Universidade Federal de Sergipe",
+  "pais": "BR",
+  "materias": [
+   "Social Sciences",
+   "Sociology (General)"
+  ],
+  "palabras_clave": [
+   "anthropology"
+  ],
+  "licencias": [
+   {
+    "nombre": "CC BY 4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+   }
+  ],
+  "url": "https://periodicos.ufs.br/Ambivalencias",
+  "url_doaj": "https://doaj.org/toc/2318-3888",
+  "descripcion": null,
+  "fuente_ficha": "DOAJ",
+  "archivo": "revistas/2318-3888.json",
+  "ultimo_numero": "Vol. 14, núm. 27 (2026)",
+  "fuente_numeros": "Crossref"
+ },
+ "numeros": [
+  {
+   "id": "v14-n27-2026",
+   "volumen": "14",
+   "numero": "27",
+   "anio": 2026,
+   "fecha": "2026-06-07",
+   "etiqueta": "Vol. 14, núm. 27 (2026)",
+   "fuente": "Crossref",
+   "articulos": [
+    {
+     "id": "10.21665/2318-3888.v14n27p7",
+     "titulo": "Editorial",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Leonardo Leal Esteves",
+       "orcid": "https://orcid.org/0000-0003-3728-5575"
+      },
+      {
+       "nombre": "Beto Vianna",
+       "orcid": "https://orcid.org/0000-0002-7221-4943"
+      }
+     ],
+     "resumen": "Editorial do v. 14, n. 27 da revista Ambivalências. Dossiê Etnografias com crianças e jovens imigrantes na Ibero-América",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.21665/2318-3888.v14n27p7",
+     "doi": "10.21665/2318-3888.v14n27p7",
+     "paginas": "7",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.21665/2318-3888.v14n27p9",
+     "titulo": "Dossiê",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Taís Cristina Samora de Figueiredo",
+       "orcid": "https://orcid.org/0000-0002-9731-6217"
+      },
+      {
+       "nombre": "Frank Marcon",
+       "orcid": "https://orcid.org/0000-0002-2195-6701"
+      }
+     ],
+     "resumen": "Apresentação do Dossiê",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.21665/2318-3888.v14n27p9",
+     "doi": "10.21665/2318-3888.v14n27p9",
+     "paginas": "9-17",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.21665/2318-3888.v14n27p19",
+     "titulo": "Cuerpos rotos y esperas burocráticas",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "ElisaElisa Floristán Millán",
+       "orcid": "https://orcid.org/0000-0003-4661-4879"
+      }
+     ],
+     "resumen": "Este artículo presenta un relato etnográfico situado en la Ciudad Autónoma de Melilla, en el Estado español. Se centra en la experiencia de Younes, un joven de origen marroquí que transita de un centro de menores a la situación de irregularidad administrativa al alcanzar la mayoría de edad. A través de la observación participante y de una serie de encuentros marcados por la imposibilidad de realizar una entrevista formal, el texto analiza cómo la frontera no solo actúa como un límite geográfico, sino como un dispositivo de control que impacta profundamente en las trayectorias de los jóvenes migrantes. Se exploran las somatizaciones del sufrimiento Institucional – identificadas por el protagonista como una «bola de fuego» o un «demonio Interior» – y se cuestionan las limitaciones de las metodologías extractivas de datos en contextos de vulnerabilidad extrema. El relato concluye con una reflexión sobre la ética de la Investigación en las fronteras, proponiendo que la labor académica en estos espacios debe trascender la recolección de Información para convertirse en un ejercicio de amplificación de voces y denuncia de la violencia estructural. Submissão: 13 mar. 2026 ⊶ Aceite: 10 mai. 2026",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.21665/2318-3888.v14n27p19",
+     "doi": "10.21665/2318-3888.v14n27p19",
+     "paginas": "19-32",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.21665/2318-3888.v14n27p33",
+     "titulo": "Agencia situada en contextos de vulneración transnacional",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Iskra Pavez-Soto",
+       "orcid": "https://orcid.org/0000-0002-6438-1522"
+      }
+     ],
+     "resumen": "El objetivo de este artículo es analizar las experiencias y trayectorias migratorias de las y los adolescentes migrantes no acompañados que han llegado a Chile provenientes de países como Venezuela, Colombia y Bolivia, considerando su Inserción en dinámicas transnacionales. Este fenómeno, denominado peyorativamente como Menores Extranjeros no Acompañados (MENAS), ha sido ampliamente documentado en las fronteras de España y Estados Unidos, y ha adquirido mayor visibilidad en el Cono Sur, especialmente en Chile, durante la pandemia (COVID-19). Mediante un estudio exploratorio con metodología cualitativa, se realizaron entrevistas semiestructuradas a adolescentes extranjeros no acompañados en residencias públicas de la zona norte, así como a activistas, profesionales y autoridades en Arica, Iquique y Santiago. Los resultados muestran que estas trayectorias migratorias constituyen estrategias frente a contextos de graves vulneraciones de derechos, Incluyendo maltrato, violencia, pobreza y exclusión, pero también se Inscriben en proyectos de vida que articulan vínculos familiares y expectativas a través de fronteras. Las prácticas desplegadas por estos adolescentes expresan una forma de agencia situada en un régimen fronterizo de marginalidad, tensionando modelos unidireccionales de Integración. Asimismo, los Interventores valoran la existencia de protocolos de acogida que contribuyen al ejercicio de derechos, aunque persisten desafíos en términos de Inclusión plena en la sociedad chilena. Se concluye la necesidad de fortalecer políticas públicas de gestión migratoria que consideren estas situaciones desde un enfoque de derechos y riesgo humanitario. Submissão: 15 mar. 2026 ⊶ Aceite: 22 abr. 2026",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.21665/2318-3888.v14n27p33",
+     "doi": "10.21665/2318-3888.v14n27p33",
+     "paginas": "33-56",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.21665/2318-3888.v14n27p57",
+     "titulo": "Niñas andinas en la frontera Brasil-Bolivia",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Tarissa Marques Rodrigues dos Santos",
+       "orcid": "https://orcid.org/0000-0003-2333-7856"
+      }
+     ],
+     "resumen": "La frontera entre Corumbá (Brasil) y Puerto Quijarro (Bolivia) constituye un espacio marcado por Intensas movilidades sociales, culturales y educativas. En este territorio transfronterizo, niñas y niños bolivianos cruzan diariamente la línea Internacional para asistir a escuelas brasileñas, configurando experiencias educativas atravesadas por múltiples pertenencias culturales. Entre estas estudiantes se destacan las niñas cholitas, quienes desde la Infancia utilizan elementos de la vestimenta tradicional andina, como polleras y trenzas adornadas, expresando visualmente identidades culturales vinculadas a los territorios andinos. Este artículo analiza la presencia de estas niñas en el espacio educativo fronterizo, discutiendo cómo la cultura andina se preserva y resignifica en contextos migratorios. La Investigación adopta un enfoque cualitativo, articulando revisión bibliográfica Interdisciplinaria con observaciones de campo realizadas durante el año de 2025 en escuelas públicas de Corumbá (Brasil), que reciben estudiantes provenientes de Puerto Quijarro (Bolivia), con foco en niñas entre 8 y 13 años. El estudio dialoga con aportes de la sociología de la Infancia, la antropología andina y la educación Intercultural, destacando la frontera como territorio de circulación cultural y producción de identidades. Se argumenta que la presencia de niñas cholitas en las escuelas brasileñas evidencia procesos de transmisión cultural Intergeneracional y plantea desafíos y posibilidades para la construcción de prácticas educativas Interculturales en territorios de frontera. Submissão: 15 mar. 2026 ⊶ Aceite: 19 mai. 2026",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.21665/2318-3888.v14n27p57",
+     "doi": "10.21665/2318-3888.v14n27p57",
+     "paginas": "57-74",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.21665/2318-3888.v14n27p75",
+     "titulo": "Cartografías escolares e infancias internacionales",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Daniel Alejandro Guerrero Cubides",
+       "orcid": "https://orcid.org/0000-0002-5858-7225"
+      },
+      {
+       "nombre": "Regina Coeli Machado e Silva",
+       "orcid": "https://orcid.org/0000-0002-0874-8086"
+      }
+     ],
+     "resumen": "El artículo presenta una propuesta de Reflexión-Investigación-Acción-Participativa (RIAP) orientada a la Interpretación de imágenes vinculadas a los trayectos migratorios de niñas y niños Internacionales matriculados en escuelas públicas de Foz do Iguaçu (Brasil), con base en datos correspondientes al año 2025. El análisis se sustenta en un marco epistemológico que articula la Interculturalidad crítica, la cartografía escolar y la perspectiva hermenéutica, Integrando dimensiones ético-morales que permiten visibilizar matrices de exclusión que afectan a niñas y niños que habitan o transitan por la región de la triple frontera (Brasil, Paraguay y Argentina).En este sentido, la metodología reconoce expresiones simbólicas asociadas a experiencias diversas en el campo de la movilidad Infantil en el Sur Global. Los resultados preliminares evidencian, además de los trayectos migratorios, la existencia de espacios escolares en los que el saber y la afectividad contribuyen al reconocimiento de la identidad Intercultural. Finalmente, se logra concluir que las imágenes cartográficas, en articulación con niñas y niños en movimiento, configuran una relación pedagógica y social capaz de renovar perspectivas políticas, culturales y educativas en contextos fronterizos. Submissão: 15 mar. 2026 ⊶ Aceite: 10 mai. 2026",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.21665/2318-3888.v14n27p75",
+     "doi": "10.21665/2318-3888.v14n27p75",
+     "paginas": "75-96",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.21665/2318-3888.v14n27p97",
+     "titulo": "Questioning privileged mixedness",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Beatriz Ballestín González",
+       "orcid": "https://orcid.org/0000-0002-2374-9968"
+      }
+     ],
+     "resumen": "This article offers a critical analysis of identity experiences and processes of Inclusion, exclusion, and racialisation among mixed-heritage youth of Latin American descent In Catalonia. Drawing on 119 qualitative Interviews, the study challenges narratives that portray linguistic and cultural proximity between Spain and Latin America as pathways to automatic social Inclusion. Findings show that Latin American mixedness functions as a form of “ambivalent privilege.” While some young people may “pass” as native when their phenotype aligns with dominant forms of whiteness, this form of recognition is fragile and easily disrupted when visible markers of origin – physical features, Latin American accents, or explicit references to family background – activate processes of stigmatisation and othering. The analysis reveals multiple forms of racialisation, ranging from microaggressions and everyday prejudice to stereotypes attached to parents’ countries of origin (hypersexualisation, poverty, criminality, or exoticism). The study also highlights the centrality of language and accent In the Catalan context, where linguistic hierarchies and glottophobic attitudes can reinforce symbolic boundaries of belonging, particularly for youth who speak Spanish with Latin American varieties. In response to these tensions, young people engage In various identity negotiation strategies: accent neutralisation, selective concealment of family origins, reclaiming racialised identities, or developing cosmopolitan forms of belonging. Far from linear Integration, their trajectories are marked by ambivalence, Intersectional Inequalities, and shifting positionalities. The article underscores the importance of recognising the specific characteristics of Latin American mixedness and how these impact our understanding of the contemporary dynamics of racialisation In Spain. Submissão: 08 mar. 2026 ⊶ Aceite: 06 mai. 2026",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.21665/2318-3888.v14n27p97",
+     "doi": "10.21665/2318-3888.v14n27p97",
+     "paginas": "97-118",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.21665/2318-3888.v14n27p119",
+     "titulo": "Língua, identidade e os “brasileirinhos”",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Tais Cristina Samora de Figueiredo",
+       "orcid": "https://orcid.org/0000-0002-9731-6217"
+      }
+     ],
+     "resumen": "Este artigo apresenta as experiências linguísticas, culturais e de sociabilidade de crianças brasileiras em contexto migratório na Catalunha, a partir das práticas de ensino de Português como Língua de Herança (PLH) desenvolvidas na Associação de Pais de Brasileirinhos da Catalunha (APBC), em Barcelona. Metodologicamente, a pesquisa baseou-se em levantamento de dados sobre a imigração brasileira e sobre as políticas linguísticas do português nos contextos imigratórios; Investigação bibliográfica, documental e de campo sobre o ensino do português como língua de herança; e trabalho de campo etnográfico junto às Iniciativas associativas de imigrantes com projetos de ensino da língua brasileira como língua de herança na Catalunha. Argumenta-se que essas associações constituem espaços fundamentais de convivência e transmissão cultural para crianças que crescem em contextos multilíngues, nos quais o português funciona não apenas como Instrumento de comunicação, mas como mediador de vínculos afetivos, memórias familiares e referências simbólicas do Brasil. As atividades pedagógicas observadas mobilizam elementos culturais como músicas, jogos, literatura Infantil, festividades e gastronomia, articulando memórias pessoais dos pais com representações coletivas da brasilidade. O estudo também destaca o papel central das mães na organização dessas Iniciativas e na manutenção de redes transnacionais que conectam o país de origem e a sociedade de residência. Conclui-se que o ensino do PLH ultrapassa a dimensão linguística, configurando-se como prática social que fortalece identidades, sociabilidades e sentidos de pertencimento entre famílias brasileiras no exterior. Submissão: 18 mar. 2026 ⊶ Aceite: 10 mai. 2026",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.21665/2318-3888.v14n27p119",
+     "doi": "10.21665/2318-3888.v14n27p119",
+     "paginas": "119-141",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.21665/2318-3888.v14n27p143",
+     "titulo": "O que significa ser brasileiro?",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Gilgleide de Andrade Silva",
+       "orcid": "https://orcid.org/0009-0006-8020-0732"
+      },
+      {
+       "nombre": "Mariana Killner",
+       "orcid": "https://orcid.org/0000-0002-6416-179X"
+      },
+      {
+       "nombre": "Rosa Maria Verdugo Mates",
+       "orcid": "https://orcid.org/0000-0001-9842-3391"
+      }
+     ],
+     "resumen": "A presente pesquisa adentra as narrativas de dois irmãos, de 12 e 13 anos, filhos de mãe brasileira e pai espanhol, nascidas e residentes na Espanha, que nunca estiveram no Brasil. O estudo propõe perguntas com o Intuito de acessar seus depoimentos e compreender como organizam noções de pertencimento e identidade brasileira fora do país. A pesquisa valoriza o etnoconhecimento Infantil como um saber contextualizado, desenvolvido nas Interações, nos afetos, na linguagem e nas memórias compartilhadas. A metodologia empregada se fundamenta em entrevistas, de caráter vincular e em profundidade, por meio de frases geradoras, projetadas especialmente para crianças, priorizando a escuta, sem julgamentos e correções, o respeito ao ritmo da narrativa e a trajetória de cada participante. As respostas das crianças são construídas com base em experiências do cotidiano, entrelaçando Interações familiares, relações a distância e transnacionais, redes socioculturais brasileiras e do universo simbólico espanhol sobre o Brasil e as migrações, sendo os resultados acessados por meio de relatos Infantis situados. As conclusões Indicam que, para esses irmãos, “ser brasileiro” não se define exclusivamente pela nacionalidade Institucional ou pela experiência territorial direta, mas por vínculos cultivados, narrados e simbolicamente atualizados no cotidiano. “Ser brasileiro” vai além da nacionalidade formal-institucional, englobando aspectos sensoriais, relacionais e historicamente construídos, expressados em música, culinária, idioma, tradições familiares, referências culturais. Por fim, o propósito articulador desta Investigação é dar visibilidade a essas narrativas, tomando as vozes de crianças protagonistas e contadoras de suas histórias, em um gesto epistemológico que reconhece sua autoridade experiencial. Submissão: 15 mar. 2026 ⊶ Aceite: 12 mai. 2026",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.21665/2318-3888.v14n27p143",
+     "doi": "10.21665/2318-3888.v14n27p143",
+     "paginas": "143-168",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.21665/2318-3888.v14n27p169",
+     "titulo": "Infância, migração e escola",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Silvia Pacheco",
+       "orcid": "https://orcid.org/0000-0003-2129-731X"
+      },
+      {
+       "nombre": "Thiago Lima",
+       "orcid": "https://orcid.org/0000-0003-2017-8722"
+      }
+     ],
+     "resumen": "Este artigo analisa como crianças filhas de migrantes haitianos constroem relações sociais e sentidos de pertencimento no contexto escolar em Manaus, Amazonas. O objetivo é compreender de que maneira essas crianças elaboram suas experiências entre diferentes universos sociais, especialmente entre a família e a escola. A pesquisa baseia-se em abordagem etnográfica, realizada em uma escola municipal no ano de 2019, a partir de observação participante e Interações com membros da comunidade escolar. Os resultados Indicam que os processos de socialização dessas crianças são atravessados por dinâmicas linguísticas, culturais e relacionais que operam tanto como mecanismos de Integração quanto de diferenciação. A análise evidencia que o ambiente escolar atua de forma ambivalente, constituindo-se simultaneamente como espaço de acolhimento e de reprodução de tensões sociais. Conclui-se que, por meio de práticas participativas e relações comunitárias, a escola pode favorecer a construção de vínculos e pertencimentos, ainda que esses processos ocorram em meio a contradições. Submissão: 11 mar. 2026 ⊶ Aceite: 12 mai. 2026",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.21665/2318-3888.v14n27p169",
+     "doi": "10.21665/2318-3888.v14n27p169",
+     "paginas": "169-182",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.21665/2318-3888.v14n27p183",
+     "titulo": "Etnografia crítica de ação participativa com crianças e jovens migrantes transnacionais",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Gabriel de Souza",
+       "orcid": "https://orcid.org/0000-0002-2203-3351"
+      },
+      {
+       "nombre": "Laura Marcela Ribero Rueda",
+       "orcid": "https://orcid.org/0000-0001-5675-7721"
+      },
+      {
+       "nombre": "Dinora Tereza Zucchetti",
+       "orcid": "https://orcid.org/0000-0002-7122-1025"
+      }
+     ],
+     "resumen": "O estudo tematiza Migração e Educação com Interesse na participação de crianças e adolescentes migrantes. Nesse empreendimento, busca-se compreender as vivências de crianças e jovens migrantes venezuelanos em uma escola de Educação Básica no município de Novo Hamburgo, Rio Grande do Sul. Assim, apresentam-se os resultados parciais de uma pesquisa em andamento referente a cooperação entre extensão universitária e escola básica. Trata-se de uma pesquisa Interdisciplinar que Integra os campos da Antropologia, Sociologia e Educação. Parte-se de uma pesquisa básica e empírica, de caráter qualitativo e abordagem dialética. Metodologicamente, convergem a pesquisa-ação e a etnografia crítica, articulando observação e colaboração participativa no contexto escolar. Os resultados da primeira etapa Indicam que o campo exige uma ação Intercultural, capaz de reconhecer nos gestos e silêncios a estética mobilizada pelos estudantes. Assim, observa-se a Interculturalização das políticas educacionais de tempo Integral, já que, por meio do encontro e da construção, as crianças e os jovens migrantes transformaram a escola em um espaço fronteiriço. Por isso, pauta-se o tensionamento das políticas públicas municipais de acolhimento dos migrantes consoante a diversidade cultural e a construção de formas ativas de Inclusão social. Submissão: 01 mar. 2026 ⊶ Aceite: 26 abr. 2026",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.21665/2318-3888.v14n27p183",
+     "doi": "10.21665/2318-3888.v14n27p183",
+     "paginas": "183-207",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.21665/2318-3888.v14n27p209",
+     "titulo": "“A tia às vezes fala umas coisas que eu não sei...”",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Luciana Hartmann",
+       "orcid": "https://orcid.org/0000-0003-1203-5027"
+      }
+     ],
+     "resumen": "Este artigo pretende debater experiências de escolarização vividas e narradas por crianças migrantes e refugiadas recém-chegadas ao Brasil. A pesquisa que dá origem ao texto é parte do projeto em rede “Infâncias protagonistas: uma proposta colaborativa de criação de políticas públicas para a Integração de crianças migrantes e refugiadas em escolas brasileiras”, Iniciado em 2022. Este projeto impulsionou a criação da Rede Infâncias Protagonistas: migração, arte e educação, no mesmo ano. O grupo de Interlocutores é formado por crianças refugiadas venezuelanas moradoras de um Centro de Acolhimento localizado em Brasília (DF). A metodologia utilizada foi a etnografia performativa, que propõe um cruzamento da etnografia com os estudos da performance por meio da partilha de práticas artístico-pedagógicas. Ao enfatizar as vozes de crianças como Mariana (nome fictício), de 9 anos, na frase que dá título a esse artigo, pretendemos ampliar o debate sobre o papel da escola no acolhimento, bem como contribuir para a elaboração de políticas públicas para a escolarização de crianças migrantes e refugiadas no Brasil. Submissão: 15 mar. 2026 ⊶ Aceite: 25 mai. 2026",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.21665/2318-3888.v14n27p209",
+     "doi": "10.21665/2318-3888.v14n27p209",
+     "paginas": "209-230",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.21665/2318-3888.v14n27p231",
+     "titulo": "Como chegaríamos lá e A cabuya",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Juan Pablo Villalobos",
+       "orcid": "https://orcid.org/0009-0003-5539-4502"
+      },
+      {
+       "nombre": "Andreia Sanchez Moroni",
+       "orcid": "https://orcid.org/0000-0002-0422-5931"
+      }
+     ],
+     "resumen": "Este texto reúne o oitavo e o nono capítulos do livro “Yo tuve um sueño: el viaje de los niños centroamericanos a Estados Unidos”. O livro apresenta, com recursos da ficção, dez depoimentos de menores que imigraram de Honduras, Guatemala e El Salvador aos EUA, coletados em 2016. Um dos capítulos traduzidos narra a travessia dos irmãos Santiago e Daniel desde El Salvador, seu país natal, cruzando por terra a Guatemala e o México até chegar à fronteira dos EUA, onde se entregaram à polícia migratória com Intenção de se reunir com a mãe, que morava em Nova York. Eles fizeram a viagem quando tinham quinze e dez anos, acompanhados de coyotes. Outro narra o momento em que a hondurenha Kayla, de treze anos, atravessa um rio com a prima e a filha desta de oito meses, com a ajuda de outros migrantes. As três viajavam sozinhas. O livro, publicado na Espanha, está Inédito em português. Versão original: VILLALOBOS, Juan Pablo. Yo tuve um sueño: el viaje de los niños centroamericanos a Estados Unidos. Barcelona: Anagrama, 2018. p. 81-103. Tradução: Andreia Sanchez Moroni Submissão: 15 mar. 2026 ⊶ Aceite: 26 mai. 2026",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.21665/2318-3888.v14n27p231",
+     "doi": "10.21665/2318-3888.v14n27p231",
+     "paginas": "231-243",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.21665/2318-3888.v14n27p245",
+     "titulo": "Formas sociais da corporificação",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Alef de Oliveira Lima",
+       "orcid": "https://orcid.org/0000-0002-7390-3679"
+      }
+     ],
+     "resumen": "O tema da saúde mental Incorpora frequentemente diferentes modelizações de compreensão, desde aspectos fundamentais como a iminência de imagens catastróficas até a dimensão somática dos processos de adoecimento. Logo, parte do que se pretende neste artigo é lançar mão de uma ressignificação etnográfica das categorias de ansiedade e automutilação. Abordo um conjunto de relatos de sofrimento de três adolescentes, com idades entre 15 e 17 anos, estudantes de uma escola de educação profissional no sertão cearense. Seus depoimentos, a respeito do que se pode nomear como uma experiência ansiosa, são comparados com distintos modos pelos quais a ciência antropológica concebe processos de corporificação do mundo, do tempo e da cultura. Assim, suas narrativas de aflição são problematizadas, não enquanto patologias Individuais, mas estruturas emocionais encarnadas, perpassadas, Inexoravelmente, por uma relação do sujeito com o corpo. Submissão: 26 set. 2025 ⊶ Aceite: 22 fev. 2026",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.21665/2318-3888.v14n27p245",
+     "doi": "10.21665/2318-3888.v14n27p245",
+     "paginas": "245-266",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.21665/2318-3888.v14n27p267",
+     "titulo": "Políticas para combatir el feminicidio en España",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Maria J. Marco-Macarro",
+       "orcid": "https://orcid.org/0000-0003-4620-6146"
+      },
+      {
+       "nombre": "Patrícia Rosalba Salvador Moura Costa",
+       "orcid": "https://orcid.org/0000-0001-8320-9093"
+      },
+      {
+       "nombre": "Thiago Barcelos Soliva",
+       "orcid": "https://orcid.org/0000-0003-3355-6569"
+      }
+     ],
+     "resumen": "El objetivo principal de este artículo es analizar las formas de gestión de las políticas públicas para combatir la violencia letal contra las mujeres cis en la región de Andalucía, en el sur de España. El enfoque analítico se centrará en relatos de agentes de diferentes Administraciones Públicas – estatal y autonómica – y de la Administración de Justicia – implicadas en la gestión de las “políticas para las mujeres”, así como de casos de “violencia de género”, y en la aplicación de las leyes relacionadas con esta forma de violencia contra las mujeres. Se realizaron tres entrevistas a profesionales que trabajan en este ámbito en la región de Andalucía, en el sur de España. Todas las personas, en el momento de las entrevistas, ocupaban puestos de gestión y tenían una experiencia dilatada, así como proximidad con la temática de la violencia, las políticas públicas y las cuestiones teóricas de género. Las entrevistas en las que se centra este artículo fueron realizadas a dos mujeres y un hombre. Una de las mujeres ocupaba un cargo de coordinación de políticas y medidas contra la violencia de género en la comunidad, vinculado al Gobierno del Estado; otra entrevistada es funcionaria al servicio de la Administración de Justicia en un Juzgado de Violencia sobre la Mujer; el hombre, técnico especializado, coordina programas de atención a mujeres víctimas en el organismo autonómico que desarrolla las políticas de igualdad y contra la violencia de género en Andalucía. Con las entrevistas buscamos comprender cómo estos gestores entienden la construcción de políticas públicas para hacer frente a los asesinatos de mujeres, la acogida de las víctimas y los problemas existentes en relación con la violencia que afecta a las mujeres. Submissão: 21 fev. 2026 ⊶ Aceite: 27 mar. 2026",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.21665/2318-3888.v14n27p267",
+     "doi": "10.21665/2318-3888.v14n27p267",
+     "paginas": "267-284",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.21665/2318-3888.v14n27p285",
+     "titulo": "Da modernidade eurocêntrica aos estudos decoloniais",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Williem da Silva Barreto Júnior",
+       "orcid": "https://orcid.org/0000-0002-3519-7793"
+      }
+     ],
+     "resumen": "O artigo analisa como a difusão do ideário iluminista e do racionalismo cartesiano consolidou um modelo eurocêntrico de humanidade que se impôs como referência universal durante a expansão colonial. Tal paradigma legitimou a dominação de povos da América Latina, Ásia e África, contribuindo para o sistemático processo de Invisibilização dos seus legados históricos, culturais e científicos. A fim de problematizar esta questão, o estudo mobiliza dois aportes teóricos convergentes: a perspectiva da transmodernidade, de Enrique Dussel, e o conceito de colonialidade do poder, de Aníbal Quijano. Metodologicamente, adota-se o pluralismo jurídico-epistêmico, com o objetivo de valorizar as vozes e epistemologias dos povos historicamente colonizados. Conclui-se que os estudos decoloniais constituem ferramenta essencial para desestabilizar o paradigma racionalista eurocêntrico e promover novas formas de compreender o mundo a partir do Sul Global. Submissão: 05 jan. 2026 ⊶ Aceite: 17 mar. 2026",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.21665/2318-3888.v14n27p285",
+     "doi": "10.21665/2318-3888.v14n27p285",
+     "paginas": "285-303",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.21665/2318-3888.v14n27p305",
+     "titulo": "Cierres de la incertidumbre en las Islas Canarias",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Tomás Javier Prieto González",
+       "orcid": "https://orcid.org/0000-0002-5996-5945"
+      }
+     ],
+     "resumen": "Este artículo propone una lectura comparativa del pluralismo terapéutico en las islas Canarias a partir de dos escenas de cuidado que coexisten en la vida cotidiana: la consulta clínica biomédica y la santiguación. El análisis desplaza la dicotomía ciencia/creencia y observa, en cambio, cómo cada encuentro produce “cierres” practicables de la Incertidumbre cuando el padecimiento exige respuesta. Se emplea un diseño cualitativo de corte etnográfico y comparativo, basado en entrevistas semiestructuradas a especialistas e Investigadores vinculados al campo de los saberes populares (2019) y entrevistas en profundidad a santiguadoras y profesionales de biomedicina en distintas islas (2024-2025). Sobre esta base se propone una tríada analítica – autoridad, prueba y límite – para describir cómo se traducen los relatos, se fabrica plausibilidad y se administran responsabilidades. Los resultados muestran que ambos regímenes operan como tecnologías relacionales que vuelven habitable lo Incierto, pero divergen en la trazabilidad de la prueba y en el régimen de legitimidad: en biomedicina la legitimidad se presupone, mientras que en la santiguación se sostiene localmente y se torna frágil en lo público. Submissão: 10 fev. 2026 ⊶ Aceite: 02 abr. 2026",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.21665/2318-3888.v14n27p305",
+     "doi": "10.21665/2318-3888.v14n27p305",
+     "paginas": "305-330",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.21665/2318-3888.v14n27p331",
+     "titulo": "Antroporrobótica, robótica de décima geração e habitar humano",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Ignacio Muñoz-Cristi",
+       "orcid": "https://orcid.org/0000-0002-7758-1873"
+      }
+     ],
+     "resumen": "As reflexões sobre robótica e cognição costumam ser formuladas dentro de paradigmas representacionistas que obscurecem os processos pelos quais os sistemas operam. Esta conversa explora uma perspectiva alternativa, buscando pensar e projetar máquinas sem recorrer a noções semânticas que mascaram sua dinâmica de funcionamento, e enfatizando, em vez disso, a distinção entre os domínios de existência dos diferentes tipos de sistemas. Na entrevista, Humberto Maturana reflete sobre a possibilidade de conceber robôs capazes de linguajar e emocionar de tal modo que um observador possa distinguir neles um operar autoconsciente, e que operem com plena autonomia. O diálogo delineia uma forma de metadesenho que articula princípios operativos com critérios éticos e ontoepistemológicos, entre eles a objetividade entre parênteses e o amar entendido como aceitação do outro. No prefácio que acompanha a entrevista, situo essa conversa no arco histórico da robótica e da civilização tecnológica moderna, e Introduzo a antroporrobótica como um campo transdisciplinar aqui proposto, que oferece chaves tanto para o projeto de sistemas artificiais quanto para a reflexão sobre nossa relação com o robótico. Submissão: 12 mar. 2026 ⊶ Aceite: 19 mai. 2026",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.21665/2318-3888.v14n27p331",
+     "doi": "10.21665/2318-3888.v14n27p331",
+     "paginas": "331-355",
+     "fuente": "Crossref"
+    }
+   ]
+  },
+  {
+   "id": "v13-n26-2025",
+   "volumen": "13",
+   "numero": "26",
+   "anio": 2025,
+   "fecha": "2025-11-26",
+   "etiqueta": "Vol. 13, núm. 26 (2025)",
+   "fuente": "Crossref",
+   "articulos": [
+    {
+     "id": "10.21665/2318-3888.v13n26p7",
+     "titulo": "Editorial",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Beto Vianna",
+       "orcid": "https://orcid.org/0000-0002-7221-4943"
+      },
+      {
+       "nombre": "Leonardo Leal Esteves",
+       "orcid": "https://orcid.org/0000-0003-3728-5575"
+      }
+     ],
+     "resumen": "Editorial do v. 13, n. 26 da revista Ambivalências. Dossiê Experiências religiosas e práticas encantadas: narrativas do cotidiano",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.21665/2318-3888.v13n26p7",
+     "doi": "10.21665/2318-3888.v13n26p7",
+     "paginas": "7",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.21665/2318-3888.v13n26p9",
+     "titulo": "Dossiê",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Emília Guimarães Mota",
+       "orcid": "https://orcid.org/0000-0002-2872-8381"
+      },
+      {
+       "nombre": "Mariana de Carvalho Ilheo",
+       "orcid": "https://orcid.org/0000-0002-3012-7649"
+      }
+     ],
+     "resumen": null,
+     "idioma_resumen": null,
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.21665/2318-3888.v13n26p9",
+     "doi": "10.21665/2318-3888.v13n26p9",
+     "paginas": "9-14",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.21665/2318-3888.v13n26p15",
+     "titulo": "“Arreda, homem, que aí vem mulher”",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Janaina Gonçalves Hasselmann",
+       "orcid": "https://orcid.org/0000-0002-7956-1374"
+      },
+      {
+       "nombre": "Roberta Barros Meira",
+       "orcid": "https://orcid.org/0000-0001-7739-216X"
+      }
+     ],
+     "resumen": "Para este artigo, propôs-se a Investigar a relevância das pombagiras, entidade pertencente à linha da esquerda no panteão umbandista, voltando a análise para o universo de afazeres e atribuições sociais que circundam a história das mulheres nos terreiros. Pela etnografia, busca-se contribuir problematizando questões Inerentes aos cuidados do corpo feminino e às relações sociaisestabelecidas no terreiro, sinalizando a sobrecarga das mulheres e o impacto da doutrina das pombagiras, que movimentam as configurações no espaço e na vida das médiuns e consulentes da umbanda. Os dados são analisados mediante a observação de campo e a Interação com a história das mulheres. Submissão: 18 mai. 2025 ⊶ Aceite: 30 jul. 2025",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.21665/2318-3888.v13n26p15",
+     "doi": "10.21665/2318-3888.v13n26p15",
+     "paginas": "15-33",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.21665/2318-3888.v13n26p35",
+     "titulo": "Xamanismo e religiosidades Terena",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Graziele Acçolini",
+       "orcid": "https://orcid.org/0000-0003-1620-4182"
+      },
+      {
+       "nombre": "Álvaro Banducci Jr.",
+       "orcid": "https://orcid.org/0000-0003-3984-3067"
+      }
+     ],
+     "resumen": "Este artigo abordará a temática que envolve xamanismo, religiões e religiosidades entre os Terena da Terra Indígena Buriti/MS, particularmente as manifestações que ocorrem na aldeia Buriti e Nova Buriti. O texto se centrará no xamanismo entre os Terena, seus(suas) xamãs/koixomunetí, conhecidos(as) como purungueiros(as), autodenominados(as) católicos(as), focando suas práticas, ações e a Interface com outras religiosidades. A religiosidade é enfatizada como problemática analítica compreendendo que tal estudo permite alcançar o campo permanente das criações e das reelaborações, como ocorre com os Terena nas aldeias do Pantanal de Mato Grosso do Sul. O propósito será o de apresentar a ação, experiência, performance de duas purungueiras e a realização do ritual Oheokotí, em que o(a) personagem principal é o xamã/koixomuneti denominado(a) purungueiro(a). Submissão: 14 jul. 2024 ⊶ Aceite: 10 set. 2025",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.21665/2318-3888.v13n26p35",
+     "doi": "10.21665/2318-3888.v13n26p35",
+     "paginas": "35-58",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.21665/2318-3888.v13n26p59",
+     "titulo": "O surgimento de uma “santa popular”",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Wilson Rogério Penteado Júnior",
+       "orcid": "https://orcid.org/0000-0002-1753-7192"
+      },
+      {
+       "nombre": "Leticia Santos Conceição",
+       "orcid": "https://orcid.org/0009-0009-2372-3993"
+      }
+     ],
+     "resumen": "Este artigo propõe uma análise antropológica do processo de sacralização popular em torno da figura de Maria Milza Santos Fonseca (1923-1993), a partir de trabalho de campo envolvendo relatos orais e análise de fotografias existentes na Casa Memorial Maria Milza, localizada no povoado de Alagoas, em Itaberaba (BA). Embora o acervo da Casa reúna diferentes tipos de registros – como objetos de várias naturezas, matérias jornalísticas, cartas e utensílios –, este estudo se serve de algumas fotografias produzidas ao longo da vida de Maria Milza, que ativam narrativas sobre sua trajetória e reforçam sua centralidade no imaginário devocional sertanejo. A Casa Memorial configura-se como um espaço de memória e expressão de formas populares de devoção. As observações de campo oportunizaram o contato direto com esse espaço possibilitando compreender como a devoção a Maria Milza articula redes afetivas e formas populares de legitimação do sagrado. Submissão: 15 ago. 2025 ⊶ Aceite: 25 out. 2025",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.21665/2318-3888.v13n26p59",
+     "doi": "10.21665/2318-3888.v13n26p59",
+     "paginas": "59-83",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.21665/2318-3888.v13n26p85",
+     "titulo": "Entre o cajado e o tempo",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Maycol Douglas Lima da Silva Mundoco",
+       "orcid": "https://orcid.org/0009-0002-8271-2716"
+      },
+      {
+       "nombre": "Denio Azevedo",
+       "orcid": "https://orcid.org/0000-0003-4459-7745"
+      }
+     ],
+     "resumen": "O artigo analisa a relação entre narrativa histórica, corporeidade e ancestralidade no Terno de Moçambique Zumbi dos Palmares de Uberaba (MG), destacando-o como espaço de produção de conhecimento, memória e resistência no contexto das Congadas brasileiras. Partindo da análise do poder colonial de renomear e homogeneizar identidades africanas, o estudo evidencia como, apesar do epistemicídio, grupos afrodescendentes reinventaram e preservaram tradições, ressignificando passagens históricas e mitos fundadores. A pesquisa, ancorada na autoetnografia crítica, articula a vivência do autor no Terno com observações de campo, registros e diálogos com lideranças, sendo orientada pela perspectiva da desobediência epistêmica. Os resultados apontam que a história, no grupo, é Incorporada ao corpo e às práticas rituais, configurando-se como energia viva que orienta relações comunitárias, fortalece pertencimentos e projeta futuros. Ao abordar as Congadas como Instâncias criativas e políticas, o trabalho contribui para superar leituras folclorizantes, valorizando saberes afro-brasileiros situados e transmitidos por via oral, corporal e espiritual. Submissão: 15 ago. 2025 ⊶ Aceite: 27 out. 2025",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.21665/2318-3888.v13n26p85",
+     "doi": "10.21665/2318-3888.v13n26p85",
+     "paginas": "85-101",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.21665/2318-3888.v13n26p103",
+     "titulo": "Habitando entre ancestros, espíritus y dioses",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Grecy Pérez Amores",
+       "orcid": "https://orcid.org/0000-0003-0861-6523"
+      }
+     ],
+     "resumen": "Canarias es un territorio dónde se han asentado prácticas de diversos orígenes. En este contexto, la muerte y la vida conviven en celebraciones en los que los muertos se transforman en mensajeros, médicos, profesores/as, e Incluso Informantes. Este es el caso de la curación mediante rituales religiosos, en el que perviven recetas y creencias que unifican tradiciones locales de herencia norteafricana, portuguesa y gallega con foráneas, llegadas de Cuba, Venezuela y Nigeria. Entre las religiones más representativas que Integran rituales festivos y procesos de curación, encontramos la Regla Osha, Ifá y Palomonte. En estas los ancestros, espíritus y Orishas demandan ofrendas cotidianas, mientras el sacrificio de animales se utiliza como herramienta para la sanación, la solución de problemas y la Iniciación religiosa. Desde una experiencia etnográfica centrada en la exploración sensorial Inmersiva y en observación participante, la Investigación busca entender cómo estas fórmulas sanadoras adquieren validez al formar parte de un sistema que abarca ritos, conocimientos de la botánica y tradiciones curanderiles, otorgando legitimidad social a las prácticas. El estudio recoge la existencia de puntos de contacto entre estos rituales. Muestra que, en el contexto de la sanación, tiene lugar un proceso de unificación entre la muerte y la curación, nacido de la necesidad del sacrificio animal y de la comunicación con ancestros y espíritus de familiares fallecidos que Interactúan en este contexto. Por último, plantea la existencia de conflictos en los usos del territorio y sus recursos botánicos, sagrados y públicos. Sumisión: 10 ago. 2025 ⊶ Aceptado: 01 nov. 2025",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.21665/2318-3888.v13n26p103",
+     "doi": "10.21665/2318-3888.v13n26p103",
+     "paginas": "103-133",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.21665/2318-3888.v13n26p135",
+     "titulo": "La incrustación y el tatuaje en el culto a San La Muerte",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "César Iván Bondar",
+       "orcid": "https://orcid.org/0000-0002-4686-4598"
+      }
+     ],
+     "resumen": "El culto a San La Muerte se encuentra muy difundido y arraigado en la frontera argentino-paraguaya, asimismo en toda la región y otros países limítrofes con Argentina. En esta propuesta abordamos dos prácticas consideradas como experiencias religiosas dentro del culto referenciado: la Incrustación de la talla del santo debajo de la piel y el tatuaje con la iconografía de San La Muerte. Para este abordaje se han realizado entrevistas, observaciones y registros en variados dispositivos. Podemos dar cuenta que la relación con San La Muerte resulta cotidiana, configura experiencias relativas, estados pasionales de fe y conforma una particularidad distintiva en el arco devocional de la zona bajo estudio. Sumisión: 15 ago. 2025 ⊶ Aceptado: 13 nov. 2025",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.21665/2318-3888.v13n26p135",
+     "doi": "10.21665/2318-3888.v13n26p135",
+     "paginas": "135-158",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.21665/2318-3888.v13n26p159",
+     "titulo": "Com espumosa e água doce",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Yasmin Estrela",
+       "orcid": "https://orcid.org/0000-0003-1038-3247"
+      },
+      {
+       "nombre": "Gabriel Petryla",
+       "orcid": "https://orcid.org/0009-0007-6677-1595"
+      }
+     ],
+     "resumen": "Este trabalho propõe uma análise antropológica e sociolinguística da oralidade e da memória a partir dos encantados, entidades cultuadas no tambor de mina, tradição afro-brasileira de matriz jeje-nagô que se expandiu do Maranhão e do Pará para outros territórios urbanos. Considera-se, aqui, o processo de migração e reterritorialização dessa religião na cidade de São Paulo, resultante dos fluxos migratórios de populações do Norte e Nordeste a partir da década de 1970. Nesse contexto, o tambor de mina foi Introduzido na capital paulista por Toy Francelino de Shapanan, fundador da Casa das Minas de Thoya Jarina, localizada na zona sul, considerada o primeiro tambor de mina jeje-nagô da cidade. A pesquisa, de caráter etnográfico neste terreiro, baseando-se em observações realizadas durante festividades e conversas Informais com Interlocutores, entre eles, filhos de santo e os próprios encantados, buscando compreender a linguagem das entidades como Instrumento de comunicação, identidade e percepção do mundo. Analisa-se de que modo os encantados percebem e significam o “mundo dos humanos”, ou “mundo de pecado”, como denominam, e como, através da fala e de expressões próprias, produzem formas singulares de presença e de significar o mundo contemporâneo com expressões e Inovações lexicais. Submissão: 15 ago. 2025 ⊶ Aceite: 15 nov. 2025",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.21665/2318-3888.v13n26p159",
+     "doi": "10.21665/2318-3888.v13n26p159",
+     "paginas": "159-181",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.21665/2318-3888.v13n26p183",
+     "titulo": "Ayahuasca e religiosidade",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Aldemir Inácio de Azevedo",
+       "orcid": "https://orcid.org/0000-0003-4791-8436"
+      },
+      {
+       "nombre": "Cláudia Mirella Pereira Ramos",
+       "orcid": "https://orcid.org/0000-0002-4238-5856"
+      }
+     ],
+     "resumen": "Com base na trajetória dos autores como membros de um grupo que realiza o uso religioso da ayahuasca, apresentamos uma narrativa autoetnográfica Interpretando percepções, significados e experiências vividas. Inicialmente, são examinados registros bibliográficos que abordam as práticas espirituais associadas à bebida, desde suas origens entre povos Indígenas da Amazônia até sua disseminação no contexto urbano, tanto nas redes de igrejas ayahuasqueiras quanto em grupos Independentes contemporâneos. A ênfase do texto recai sobre a descrição sensível e subjetiva das cerimônias, compreendidas como centrais para a existência do grupo e para as vivências Individuais de seus membros, revelando a riqueza dos elementos que as constituem e a dinâmica que lhes confere sentido. As vivências com a substância enteógena são atravessadas por múltiplas referências e tradições religiosas, articuladas de forma leve e Inspiradora, formando um mosaico de guias, orientações, ensinamentos e símbolos. Os efeitos da ayahuasca são marcados pela Intensidade dos momentos de expansão da consciência e pelos desdobramentos transformadores na vida cotidiana. Submissão: 15 ago. 2025 ⊶ Aceite: 15 nov. 2025",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.21665/2318-3888.v13n26p183",
+     "doi": "10.21665/2318-3888.v13n26p183",
+     "paginas": "183-207",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.21665/2318-3888.v13n26p209",
+     "titulo": "Da iniciação ao caminho atual de Pai José Luiz de Logun Edé",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "José Luiz Izidro do Carmo",
+       "orcid": "https://orcid.org/0009-0006-0253-1659"
+      },
+      {
+       "nombre": "Paulo Márcio da Silva Schiffini",
+       "orcid": "https://orcid.org/0009-0004-4629-8858"
+      },
+      {
+       "nombre": "Amanda Lacerda Jorge",
+       "orcid": "https://orcid.org/0000-0003-3005-9233"
+      }
+     ],
+     "resumen": "Esta entrevista, realizada por um de seus “filhos de santo” – filho espiritual do chefe da casa em uma comunidade religiosa afro-brasileira –, apresenta a trajetória espiritual e identitária de Pai José Luiz de Logun Edé, professor de geografia e sacerdote de Umbanda, no Rio de Janeiro. Iniciado aos oito anos no Candomblé por um chamado espiritual motivado por doença na Infância, migrou posteriormente para a Umbanda e traz nesta entrevista toda a sua mudança de percurso. Atualmente, dirige uma casa “africanizada” que costura uma convergência entre o Candomblé e a Umbanda, além de prestar atendimento mediúnico comunitário. A entrevista revela as dimensões identitárias, resistenciais e comunitárias dessa experiência espiritual com reflexões sobre preconceito, Intolerância religiosa e os laços existentes entre o Candomblé e a Umbanda no Brasil. Submissão: 11 ago. 2025 ⊶ Aceite: 25 out. 2025",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.21665/2318-3888.v13n26p209",
+     "doi": "10.21665/2318-3888.v13n26p209",
+     "paginas": "209-223",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.21665/2318-3888.v13n26p225",
+     "titulo": "Os riscos compreendidos, gerenciados e, em certa medida, incorporados por instrutores de parapente no Parque da Cidade de Niterói/RJ",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Emanuelle de Oliveira Camolesi",
+       "orcid": "https://orcid.org/0009-0006-7230-6246"
+      }
+     ],
+     "resumen": "O estudo Investiga as percepções e significados atribuídos ao risco por Instrutores de parapente do Parque da Cidade de Niterói, a partir de quatro meses de trabalho de campo realizado a partir da metodologia “de perto e de dentro”, com registros em diário de campo e entrevistas Informais. O risco, Intrínseco ao parapente, foi Interpretado como elemento multifacetado: controlável pela técnica, protocolos e confiança nos equipamentos, mas também como fonte de prazer, superação e identidade, sendo positivamente ressignificado em eventos como “arborizações”, vistas como ritos de passagem por este grupo de Interlocutores. Para esses Instrutores, a prática ultrapassa a dimensão técnica, envolvendo mediação emocional e física, construção de vínculos afetivos e criação de um espaço emocionalmente seguro, no qual o risco é compreendido, negociado e Incorporado como parte da experiência desta modalidade do voo livre. Submissão: 10 ago. 2025 ⊶ Aceite: 14 set. 2025",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.21665/2318-3888.v13n26p225",
+     "doi": "10.21665/2318-3888.v13n26p225",
+     "paginas": "225-249",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.21665/2318-3888.v13n26p251",
+     "titulo": "O insólito como aliado na prática etnográfica",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Gabriel Rodrigues Lopes",
+       "orcid": "https://orcid.org/0000-0003-0289-6376"
+      }
+     ],
+     "resumen": "O texto narra minha trajetória etnográfica junto a comunidades tradicionais da caatinga baiana, destacando experiências com dois curadores. Em 2015, durante uma imersão em campo, vivi um acontecimento marcante: a palavra enigmática disno, proferida por Gisélia e atribuída a espíritos aliados. Esse evento Instaurou uma abertura sensível e epistêmica ao “fora”, desestabilizando a razão científica e mobilizando outro modo de conhecer – experiencial, relacional e não representacional. A partir dessa vivência e de rituais como o passe, elaborei notas para uma teoria etnográfica da alteridade entre os rastejadores da caatinga, atentas às práticas xamânicas e aos modos nativos de existir. Em diálogo com autores aliados, reflito sobre o termo lapigado, proposto por Capuxo e seu espírito aliado, para descrever quem é sutil, afetuável e capaz de transitar entre mundos. Assim como disno, lapigado Indica uma antropologia contaminada pela alteridade radical, por forças extra-humanas que exigem novas formas de pensar, sentir e descrever. Argumento que a antropologia deve superar tanto o silêncio quanto a sobreinterpretação da arrogância epistemológica moderna, acolhendo o Incômodo de conceitos e experiências nativas que não cabem em categorias prévias. Esse Insólito, quando levado a sério, produz efeitos ontológicos, revelando como a cosmopráxis caatingueira pode reconfigurar o próprio fazer antropológico e “ralentizar” a premissa sociológica de que já se sabe o que pensam os nativos. Por fim, afirmo que minha nomeação como lapigado não é metáfora, mas é a análise caatingueira sobre uma forma de existência e pensamento compartilhada, que só se processa na experiência viva e na afetação mútua. Submissão: 28 jul. 2025 ⊶ Aceite: 20 out. 2025",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.21665/2318-3888.v13n26p251",
+     "doi": "10.21665/2318-3888.v13n26p251",
+     "paginas": "251-271",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.21665/2318-3888.v13n26p273",
+     "titulo": "Waldemar Valente e os silêncios da historiografia da antropologia afro-brasileira",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Pedro Germano",
+       "orcid": "https://orcid.org/0000-0002-9577-8741"
+      }
+     ],
+     "resumen": "Este artigo propõe uma revisão crítica da historiografia da antropologia brasileira a partir da trajetória Intelectual de Waldemar Valente, médico-antropólogo pernambucano cuja produção etnográfica permanece à margem das narrativas convencionais. Ao retomar o campo das religiões afro-brasileiras, evidenciamos como certas genealogias disciplinantes operam por exclusões, retrações e silenciamentos. Através da análise das recensões temáticas e balanços historiográficos mais consolidados – como os de Birman, Banaggia e Montero –, observamos que Valente tensiona as classificações estabelecidas, por antecipar abordagens consideradas “emergentes” décadas antes. Sua pesquisa sobre sincretismo, Influências islâmicas e formas rituais não ortodoxas oferece uma alternativa à lógica canônica da antropologia nacional. Mais que reparar uma ausência, buscamos repensar a própria narrativa disciplinar e seus mecanismos de visibilidade. A partir do estudo de caso, propomos uma forma mais plural e situada de narrar a história da antropologia brasileira, abrindo espaço para virtualidades teóricas e epistemológicas ainda silenciadas. Submissão: 24 jul. 2025 ⊶ Aceite: 15 nov. 2025",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.21665/2318-3888.v13n26p273",
+     "doi": "10.21665/2318-3888.v13n26p273",
+     "paginas": "273-296",
+     "fuente": "Crossref"
+    }
+   ]
+  },
+  {
+   "id": "v13-n25-2025",
+   "volumen": "13",
+   "numero": "25",
+   "anio": 2025,
+   "fecha": "2025-06-17",
+   "etiqueta": "Vol. 13, núm. 25 (2025)",
+   "fuente": "Crossref",
+   "articulos": [
+    {
+     "id": "10.21665/2318-3888.v13n25p7",
+     "titulo": "Editorial",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Beto Vianna",
+       "orcid": "https://orcid.org/0000-0002-7221-4943"
+      },
+      {
+       "nombre": "Leonardo Leal Esteves",
+       "orcid": "https://orcid.org/0000-0003-3728-5575"
+      }
+     ],
+     "resumen": null,
+     "idioma_resumen": null,
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.21665/2318-3888.v13n25p7",
+     "doi": "10.21665/2318-3888.v13n25p7",
+     "paginas": "7",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.21665/2318-3888.v13n25p9",
+     "titulo": "“Civilização” com aspas",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Augusto Ventura dos Santos",
+       "orcid": "https://orcid.org/0000-0003-3077-9716"
+      }
+     ],
+     "resumen": "Tradicionais habitantes do Cerrado e do Pantanal e falantes de um idioma aruaque, os Terena são uma das populações indígenas mais numerosas do Brasil. Ao longo de séculos de colonização, foram alvos de estereótipos muitos particulares: “índios mansos”, “civilizados”, “aculturados”. Nas últimas décadas, em reação ao controle administrativo e confinamento territorial imposto pelo estado brasileiro, lideranças terena têm protagonizado um vigoroso movimento de afirmação cultural e luta por autonomia e cidadania política. Assumindo a pauta de investigação sobre a indigenização da cultura (Carneiro da Cunha, 2009), o presente ensaio almeja delinear contornos das políticas culturais terena. Para tanto, descreve algumas situações etnográficas que explicitam mal-entendidos produtivos (Sahlins, 2008) entre políticas indígenas e políticas dos brancos. Submissão: 09 set. 2024 ⊶ Aceite: 22 fev. 2025",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.21665/2318-3888.v13n25p9",
+     "doi": "10.21665/2318-3888.v13n25p9",
+     "paginas": "9-31",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.21665/2318-3888.v13n25p33",
+     "titulo": "Mujeres indígenas, desarrollo y alternativas",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Griselda Laura Aragon",
+       "orcid": "https://orcid.org/0009-0005-6854-5239"
+      },
+      {
+       "nombre": "Carolina Andrea Maidana",
+       "orcid": "https://orcid.org/0000-0002-3747-8441"
+      },
+      {
+       "nombre": "María Rosa Ávalos",
+       "orcid": "https://orcid.org/0009-0003-5541-012X"
+      }
+     ],
+     "resumen": "En la comunidad qom Nqayañec´pi Naqota´at (Hermanos Unidos) de La Plata son las mujeres quienes ocupan los cargos dirigenciales y llevan adelante diversos proyectos. Ello involucra también a la figura de máxima autoridad representada por una cacica. En este trabajo analizamos tres proyectos que dicha comunidad ha desarrollado recientemente recuperando el rol de las lideresas y el carácter colectivo comunitario de estas experiencias, que involucraron / beneficiaron a la comunidad indígena en particular y al barrio en que esta se encuentra, en general. Ello nos permite señalar cómo alternativas de/al desarrollo –ontología de origen occidental– van siendo delineadas en el hacer colectivo-comunitario y desde saberes indígenas. Una metodología cualitativa centrada en la observación participante/participación objetivante de/en diferentes espacios compartidos (comunitarios y académicos) posibilita que las explicaciones brindadas y teorizaciones realizadas resulten de un diálogo intercultural e interepistémico, al que denominamos “construcción conjunta de conocimiento”. Con esta expresión damos cuenta de un hacer atento no sólo a requerimientos, inquietudes y necesidades derivadas del campo científico-académico sino también –y fundamentalmente– de las demandas, intereses y deseos de las personas y comunidades que participan de la investigación. Submissão: 26 dez. 2024 ⊶ Aceite: 15 mar. 2025",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.21665/2318-3888.v13n25p33",
+     "doi": "10.21665/2318-3888.v13n25p33",
+     "paginas": "33-49",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.21665/2318-3888.v13n25p51",
+     "titulo": "O cantor indígena e suas práticas culturais na Terra Indígena Mãe Maria",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Cícero Teresa dos Santos",
+       "orcid": "https://orcid.org/0000-0002-4290-2016"
+      },
+      {
+       "nombre": "Jerônimo Silva e Silva",
+       "orcid": "https://orcid.org/0000-0001-7611-4790"
+      }
+     ],
+     "resumen": "Localizada no município de Bom Jesus do Tocantins, no sudeste do Pará, a Terra Indígena Mãe Maria (TIMM) é constituída por três grupos indígenas: os Akrãtikatêjê, os Parkatêjê e os Kỳikatêjê, denominados também “Gaviões do Pará”. Oriundos de um processo histórico de desterritorialização de suas antigas e diferentes terras, no contexto da extração da castanha, da construção da Transamazônica e da Usina Hidrelétrica de Tucuruí (UHET), no interregno temporal que percorre o final da década 1960 e o início de 1980, são deslocados e confinados nessa área à revelia da especificidade étnica, produzindo a desestruturação de suas formas de vida. Neste artigo, acompanhamos as estratégias adotadas pelas lideranças indígenas para a retomada das práticas culturais, em particular os cantos e a formação do cantor indígena. A partir de pesquisa de campo, no contexto de rituais, jogos e registros de entrevistas orais temáticas, sinalizamos a especificidade das formas de transmissão do canto indígena entre os poucos cantores que há décadas exercem esse papel e os jovens indígenas que vivem o desafio de aprender o canto indígena, a despeito do predomínio da língua portuguesa e da cultura não indígena. Submissão: 03 mar. 2025 ⊶ Aceite: 04 mai. 2025",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.21665/2318-3888.v13n25p51",
+     "doi": "10.21665/2318-3888.v13n25p51",
+     "paginas": "51-73",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.21665/2318-3888.v13n25p75",
+     "titulo": "Territórios, vulnerabilidade social e regularização fundiária",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Artemisa Pimenta",
+       "orcid": "https://orcid.org/0009-0002-7884-7407"
+      }
+     ],
+     "resumen": "Este artigo tem como objetivo construir e analisar o perfil socioeconômico dos moradores do conjunto Carmelândia beneficiados pela Regularização Fundiária Urbana de Interesse Social – REURB-S, regulamentada pela Lei nº 13.465/2017 e pela Lei Municipal nº 9733/2022 –, cujo objetivo é a integração de áreas informais ao contexto urbano formal, garantindo a titulação das propriedades e a melhoria das condições de vida das famílias. Em Belém (PA), a Companhia de Desenvolvimento e Administração da Área Metropolitana de Belém (Codem) é responsável pela implementação dessa política. A pesquisa se concentra no conjunto Carmelândia, onde foram realizados 1.158 cadastros sociais, entre 2019 e 2021, denominados de Boletim de Informações Socioeconômicas (BIS). A análise dos dados revela um perfil socioeconômico marcado por vulnerabilidades, predominância feminina, baixa escolaridade e renda familiar limitada. O estudo destaca a importância de políticas públicas complementares, como geração de emprego, qualificação profissional e infraestrutura, a fim de promover uma verdadeira melhoria nas condições de vida da população. Submissão: 22 nov. 2024 ⊶ Aceite: 14 mar. 2025",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.21665/2318-3888.v13n25p75",
+     "doi": "10.21665/2318-3888.v13n25p75",
+     "paginas": "75-96",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.21665/2318-3888.v13n25p97",
+     "titulo": "Por uma escrita contra a natureza",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Bruna Triana",
+       "orcid": "https://orcid.org/0000-0002-6439-5457"
+      },
+      {
+       "nombre": "Luiz Robertomdos Santos Corrêa Neto",
+       "orcid": "https://orcid.org/0009-0004-5448-4335"
+      }
+     ],
+     "resumen": "A categoria de humano é uma das normas de poder centrais do mundo moderno e produz uma série de efeitos tanto para os que são aceitos no interior da categoria quanto para os que são excluídos dela. Diante disso, o artigo busca analisar possibilidades de desconstrução do humano por meio de obras ficcionais. Em um primeiro momento, retomamos alguns debates teóricos sobre a categoria de humano, a representação e a construção das dicotomias modernas, como natureza/cultura, humano/não humano, dentre outras. Em um segundo momento, de modo a alcançar nosso objetivo, analisamos duas obras ficcionais: “Um relatório para uma academia”, de Franz Kafka, e “A paixão segundo G.H.”, de Clarice Lispector. As duas obras foram escolhidas em decorrência das subversões e desconstruções da categoria de humano que possibilitam. Nessa medida, observamos que as obras apontam caminhos importantes para pensarmos e agirmos em prol de mundos que não sejam construídos pela norma de poder homogeneizante do humano e pelas dicotomias modernas. Assim, entendemos que a ficção é um recurso poderoso na necessária construção de mundos implicados. Submissão: 19 fev. 2025 ⊶ Aceite: 28 mai. 2025",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.21665/2318-3888.v13n25p97",
+     "doi": "10.21665/2318-3888.v13n25p97",
+     "paginas": "97-119",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.21665/2318-3888.v13n25p121",
+     "titulo": "Heurística y cognición",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Ignacio Muñoz Cristi",
+       "orcid": "https://orcid.org/0000-0002-7758-1873"
+      }
+     ],
+     "resumen": "Este artículo examina críticamente los estudios heurísticos en psicología cognitiva y ciencias del comportamiento, destacando su evolución desde el paradigma de la racionalidad optimizadora hasta modelos de racionalidad ecológica y heurísticas adaptativas. A pesar de estos avances, se sostiene que los estudios actuales siguen anclados en un marco representacionalista, donde la cognición se concibe como un proceso de procesamiento de información y toma de decisiones basada en inferencias probabilísticas. A partir del pensamiento ontológico-constitutivo de Humberto Maturana y su entendimiento biológico antropológico del habitar humano, este trabajo propone una reformulación de la heurística no como un mecanismo de cálculo, sino como un fenómeno de acción efectiva dentro de la relación organismo-nicho. Se argumenta que la cognición no es un sistema de representación del mundo, sino una dinámica relacional configurada en la historia de acoplamiento estructural de los seres vivos con su medioambiente. Desde esta perspectiva, la heurística no opera optimizando información, sino conservando caminos efectivos en el vivir, orientados por criterios de distinción que emergen en la interacción sensoriomotora. Asimismo, se examina el papel de la emoción como modulador relacional, enfatizando que toda heurística ocurre en un flujo emocional preexistente que delimita las opciones de acción posibles. Finalmente, se plantea que la heurística, lejos de ser un proceso abstracto de simplificación cognitiva, es una expresión del vivir biológico-culturalmente situado, en el cual las decisiones surgen como configuraciones relacionales históricas, conservadas en el fluir de la convivencia. Submissão: 12 mar. 2025 ⊶ Aceite: 12 mai. 2025",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.21665/2318-3888.v13n25p121",
+     "doi": "10.21665/2318-3888.v13n25p121",
+     "paginas": "121-144",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.21665/2318-3888.v13n25p145",
+     "titulo": "Os paradoxos do neoliberalismo no teatro de grupo",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "João Rodrigo Vedovato Martins",
+       "orcid": "https://orcid.org/0000-0002-8961-7933"
+      }
+     ],
+     "resumen": "Neste texto desenvolvo brevemente algumas reflexões derivadas da minha tese de doutorado em andamento, que aborda a gestão dos núcleos artísticos de teatro de grupo na cidade de São Paulo, com foco nas formas de agenciamento das políticas culturais. No contexto das políticas culturais, observa-se o predomínio da racionalidade da gestão cultural, fortemente marcada por uma lógica neoliberal. Em contrapartida, os núcleos artísticos constroem práticas políticas e estéticas contra-hegemônicas em relação a essa racionalidade. Com base em dados etnográficos, analiso a relação da companhia A Próxima Companhia com a Lei de Fomento ao Teatro, especialmente no que diz respeito às formas de organização do trabalho e à produção artística em diálogo com o território. Submissão: 27 fev. 2025 ⊶ Aceite: 19 mai. 2025",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.21665/2318-3888.v13n25p145",
+     "doi": "10.21665/2318-3888.v13n25p145",
+     "paginas": "145-167",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.21665/2318-3888.v13n25p169",
+     "titulo": "Fernando Aguerre e o surfe olímpico",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "João Pedro Medeiros",
+       "orcid": "https://orcid.org/0000-0003-2389-3609"
+      }
+     ],
+     "resumen": "Este artigo tem por finalidade se debruçar sobre a figura de Fernando Aguerre, o argentino que há mais de 30 anos preside a International Surfing Association (ISA), entidade máxima do surfe mundial. Detenho-me, dentre outros materiais, no documentário, produzido e distribuído pela ISA, intitulado “The Impossible Wave: Fernando Aguerre’s quest for Olympic surfing” (2022), que em português pode ser traduzido por “A onda impossível: a busca de Fernando Aguerre pelo surfe olímpico”. A película busca retratar trechos da luta de 27 anos que Fernando Aguerra travou para inserir o surfe nos Jogos Olímpicos. Tal feito foi alcançado em 2016 por ocasião da 129ª Sessão do Comitê Olímpico Internacional (COI), realizada no Rio de Janeiro, palco da edição dos Jogos daquele ano. Surfe, beisebol, caratê, skate e escalada foram selecionados para estrearem os Jogos de Tóquio 2020. A análise não deixa de levar em consideração as relações que Aguerre estabeleceu nesse percurso, notadamente com o alemão Thomas Bach, presidente do COI, e outros agentes e instituições. A hipótese deste trabalho é a de que o documentário, assim como outras produções realizadas em torno da figura de Fernando Aguerre, busca concentrar em torno dele feitos significativos e amplamente sentidos dentro do campo social específico ao surfe esportivo. Submissão: 15 mar. 2025 ⊶ Aceite: 10 jun. 2025",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.21665/2318-3888.v13n25p169",
+     "doi": "10.21665/2318-3888.v13n25p169",
+     "paginas": "169-187",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.21665/2318-3888.v13n25p189",
+     "titulo": "Desafios para acesso ao dispositivo intrauterino (DIU) de cobre no município do Rio de Janeiro (RJ), Brasil",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Leticia Moutinho Palis",
+       "orcid": "https://orcid.org/0000-0002-6224-8306"
+      },
+      {
+       "nombre": "Elaine Reis Brandão",
+       "orcid": "https://orcid.org/0000-0002-3682-6985"
+      }
+     ],
+     "resumen": "A despeito da alta eficácia, longa ação contraceptiva e oferta universal no Sistema Único de Saúde (SUS), o dispositivo intrauterino (DIU) de cobre é um método contraceptivo subutilizado no Brasil. Este artigo objetiva explorar as condições sociais de oferta e demanda do DIU de cobre por usuárias do SUS no município do Rio de Janeiro (RJ), Brasil, com enfoque sobre os conhecimentos, motivações e seus percursos em busca de tal método contraceptivo. Na pesquisa socioantropológica, selecionamos a entrevista qualitativa como instrumento metodológico privilegiado para a análise dessas categorias. A pesquisa revela que foram encontradas inúmeras dificuldades para acesso ao DIU de cobre pelas entrevistadas, que se depararam com barreiras estruturais, organizacionais e moralizantes no SUS. Identificamos que tais entraves afetam desproporcionalmente mulheres negras e as residentes em territórios periféricos no contato com serviços públicos de saúde. Submissão: 15 mar. 2025 ⊶ Aceite: 09 jun. 2025",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.21665/2318-3888.v13n25p189",
+     "doi": "10.21665/2318-3888.v13n25p189",
+     "paginas": "189-208",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.21665/2318-3888.v13n25p209",
+     "titulo": "Mandiocada e o circuito da dádiva",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Fabiana de Oliveira Lima",
+       "orcid": "https://orcid.org/0000-0002-6114-9242"
+      },
+      {
+       "nombre": "Patrícia Rosalba Salvador Moura Costa",
+       "orcid": "https://orcid.org/0000-0001-8320-9093"
+      },
+      {
+       "nombre": "Bárbara Kelly Félix da Silva",
+       "orcid": "https://orcid.org/0009-0005-5219-6783"
+      },
+      {
+       "nombre": "Shirliane Maria da Silva",
+       "orcid": "https://orcid.org/0009-0009-8690-3510"
+      }
+     ],
+     "resumen": "A mandiocada é um movimento potente, um evento cultural, social e econômico, que acontece em diversas comunidades rurais do Brasil. Ela se desenha em cada etapa do beneficiamento da mandioca, desde a sua colheita, sendo trazida para a casa de farinha, descascada e passando por processos diversos, como a prensa, separação e produção da farinha, entre outros alimentos. Na microrregião Penedo, ao sul do estado de Alagoas, nas comunidades rurais e quilombolas Tabuleiro dos Negros e Sapé, a mandioca é parte da história de vida das pessoas, principalmente das mulheres que conduzem a maior parte do processo e são as figuras centrais das mandiocadas. Nosso principal objetivo é apresentar a mandiocada e o movimento desenvolvido por essas mulheres negras enquanto circuito da dádiva, num processo de trocas simbólicas e essenciais para a manutenção de seu sustento e de sua tradição – caminhos que se confundem e nos levam a refletir sobre a condição dessas camponesas com imprescindível papel na transmissão de seus saberes tradicionais. Submissão: 15 mar. 2025 ⊶ Aceite: 10 jun. 2025",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.21665/2318-3888.v13n25p209",
+     "doi": "10.21665/2318-3888.v13n25p209",
+     "paginas": "209-226",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.21665/2318-3888.v13n25p227",
+     "titulo": "Da ansiedade ao método no trabalho de campo antropológico",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Michael Jackson",
+       "orcid": "https://orcid.org/0009-0009-5104-7646"
+      },
+      {
+       "nombre": "Emanuelle Camolesi",
+       "orcid": "https://orcid.org/0009-0006-7230-6246"
+      }
+     ],
+     "resumen": "Este capítulo é baseado em três suposições. Em primeiro lugar, considero que não existem emoções que sejam exclusivas do trabalho de campo antropológico, o que significa que a nossa tarefa é identificar situações dentro e fora do campo que possam ser comparadas de forma útil e que possam lançar luz um sobre o outro. Em segundo lugar, contesto que as emoções são apenas um aspecto de qualquer experiência humana e que violentamos a complexidade da experiência vivida quando fazemos cortes analíticos entre emoção e pensamento, ou emoção, os sentidos, pensamento e ação. Terceiro, repudio a visão predominante de que a coisa mais significativa que os antropólogos têm a dizer sobre as emoções é que elas são socialmente construídas e performadas, pois a realidade bruta é que muitos sentimentos avassaladores simplesmente não podem ser reduzidos nem à cultura nem à filogenia. Versão original: JACKSON, Michael. From anxiety to method in anthropological fieldwork: an appraisal of George Devereux’s enduring ideas. In: DAVIES, James; SPENCER, Dimitrina (Ed.). Emotions in the field: The psychology and anthropology of fieldwork experience. Stanford: Stanford University Press, 2010. p. 35-54. Tradução: Emanuelle Camolesi Submissão: 16 jan. 2025 ⊶ Aceite: 05 abr. 2025",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.21665/2318-3888.v13n25p227",
+     "doi": "10.21665/2318-3888.v13n25p227",
+     "paginas": "227-247",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.21665/2318-3888.v13n25p249",
+     "titulo": "O papel da ontogenia na evolução da cooperação humana",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Michael Tomasello",
+       "orcid": "https://orcid.org/0000-0002-1649-088X"
+      },
+      {
+       "nombre": "Ivan Gonzalez-Cabrera",
+       "orcid": "https://orcid.org/0000-0002-6523-5471"
+      },
+      {
+       "nombre": "Beto Vianna",
+       "orcid": "https://orcid.org/0000-0002-7221-4943"
+      }
+     ],
+     "resumen": "Para explicar a origem evolutiva de habilidades e motivações exclusivamente humanas para a cooperação, Tomasello et al. (2012) propuseram a hipótese da interdependência. O contexto adaptativo chave nesse relato foi o forrageamento colaborativo obrigatório de adultos humanos primitivos. Hawkes (2014), seguindo Hrdy (2009), forneceu um relato alternativo para o surgimento de habilidades cooperativas exclusivamente humanas em que a chave eram as tentativas dos primeiros bebês humanos de solicitar cuidado e atenção de adultos em um contexto de criação cooperativa. Aqui, tentamos reconciliar esses dois relatos. Nossa explicação composta aceita o argumento de Hrdy e Hawkes de que o surgimento extremamente precoce das habilidades cooperativas dos bebês humanos sugere um papel importante para a criação cooperativa como contexto adaptativo, talvez no Homo primitivo. Mas nossa proposta também insiste que a cooperação humana vai muito além dessas habilidades incipientes, para incluir coisas como convenções, normas e instituições comunicativas e culturais criadas por Homo posteriores e humanos modernos primitivos para lidar com problemas adultos de coordenação social. Como parte dessa proposta, levantamos a hipótese de como cada um dos principais estágios da ontogenia humana (primeira infância, segunda infância e adolescência) foi transformado durante a evolução tanto pela migração “para cima” na idade das habilidades cooperativas dos bebês, quanto pela migração “para baixo” das habilidades cooperativas dos adultos. Versão original: TOMASELLO, Michael; GONZALEZ-CABRERA, Ivan. The role of ontogeny in the evolution of human cooperation. Human nature, v. 28, n. 3, p. 274-288, 2017. Tradução: Beto Vianna Submissão: 15 mar. 2025 ⊶ Aceite: 11 jun. 2025",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.21665/2318-3888.v13n25p249",
+     "doi": "10.21665/2318-3888.v13n25p249",
+     "paginas": "249-271",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.21665/2318-3888.v13n25p273",
+     "titulo": "O Carnaval como direito à cidade",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Leonardo Leal Esteves",
+       "orcid": "https://orcid.org/0000-0003-3728-5575"
+      }
+     ],
+     "resumen": "Resenha de VARELLA, Guilherme. Direito à Folia. São Paulo: Alameda, 2024. Submissão: 23 mar. 2025 ⊶ Aceite: 23 mai. 2025",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.21665/2318-3888.v13n25p273",
+     "doi": "10.21665/2318-3888.v13n25p273",
+     "paginas": "273-278",
+     "fuente": "Crossref"
+    }
+   ]
+  }
+ ]
+};

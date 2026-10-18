@@ -1,0 +1,1349 @@
+// Copia de revistas/2027-145X.json para abrir la aplicación sin servidor.
+(window.DATOS_REVISTAS = window.DATOS_REVISTAS || {})["revistas/2027-145X.json"] = {
+ "version": 1,
+ "generado": "2026-10-18T05:53:59+00:00",
+ "es_prueba": false,
+ "revista": {
+  "id": "2027-145X",
+  "titulo": "Bitácora Urbano Territorial",
+  "idioma_titulo": null,
+  "titulo_alternativo": null,
+  "idioma_titulo_alternativo": null,
+  "idiomas": [
+   "en",
+   "pt",
+   "es"
+  ],
+  "issn_impreso": "0124-7913",
+  "issn_electronico": "2027-145X",
+  "editorial": "Universidad Nacional de Colombia",
+  "pais": "CO",
+  "materias": [
+   "Urban groups. The city. Urban sociology",
+   "City planning"
+  ],
+  "palabras_clave": [
+   "habitat",
+   "territory",
+   "public policy",
+   "urban planning",
+   "architecture",
+   "vivienda"
+  ],
+  "licencias": [
+   {
+    "nombre": "CC BY",
+    "url": null
+   }
+  ],
+  "url": "https://revistas.unal.edu.co/index.php/bitacora",
+  "url_doaj": "https://doaj.org/toc/2027-145X",
+  "descripcion": null,
+  "fuente_ficha": "DOAJ",
+  "archivo": "revistas/2027-145X.json",
+  "ultimo_numero": "Vol. 36, núm. 2 (2026)",
+  "fuente_numeros": "Crossref"
+ },
+ "numeros": [
+  {
+   "id": "v36-n2-2026",
+   "volumen": "36",
+   "numero": "2",
+   "anio": 2026,
+   "fecha": "2026-10-13",
+   "etiqueta": "Vol. 36, núm. 2 (2026)",
+   "fuente": "Crossref",
+   "articulos": [
+    {
+     "id": "10.15446/bitacora.v36n2.129000",
+     "titulo": "Viviendas colectivas. Desafíos y alternativas contemporáneas",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Christine Van Sluys",
+       "orcid": "https://orcid.org/0000-0002-1099-0197"
+      },
+      {
+       "nombre": "Alessandra Cireddu",
+       "orcid": "https://orcid.org/0000-0003-3684-4849"
+      },
+      {
+       "nombre": "Renata Fragoso Coradin",
+       "orcid": "https://orcid.org/0009-0004-6363-6978"
+      }
+     ],
+     "resumen": null,
+     "idioma_resumen": null,
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.15446/bitacora.v36n2.129000",
+     "doi": "10.15446/bitacora.v36n2.129000",
+     "paginas": "7-16",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.15446/bitacora.v36n2.124022",
+     "titulo": "Mujeres, autoproducción y precariedad: aprendizajes situados desde Monterrey",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Lucía Elizondo",
+       "orcid": "https://orcid.org/0000-0002-1155-7926"
+      }
+     ],
+     "resumen": "Domestic space is not neutral; its configuration reveals the androcentric structures under which it was created. This study analyzes the self-production of housing by Mexican women to understand how their domestic configurations reproduce or challenge these structures and to identify the spatial and symbolic dimensions through which they negotiate and give meaning to everyday life in contexts of scarcity. The conceptual framework articulates gender studies, homemaking theories, and the notion of the home as a site of resistance. The methodology combines nine case studies on the periphery of Monterrey with a design-based analysis from a gender- and care-oriented perspective—focused on flexibility, hierarchies, kitchen, laundry cycle, and storage—and semi-structured interviews coded around “processes” and “values.” Findings show highly flexible dwellings without rigid spatial hierarchies and with kitchens that structure daily life, though limitations in storage and laundry cycles still affect habitability. The study concludes that these women, situated at the intersections of gender, class, and racialization, transform domestic space into an act of resistance and use self-production as an active strategy in the face of contemporary precarity.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.15446/bitacora.v36n2.124022",
+     "doi": "10.15446/bitacora.v36n2.124022",
+     "paginas": "17-33",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.15446/bitacora.v36n2.123759",
+     "titulo": "A emergência do habitar no Vale do Taquari: Crise climática e direito à moradia no sul do Brasil",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Bárbara Delazeri",
+       "orcid": "https://orcid.org/0009-0002-5068-5987"
+      },
+      {
+       "nombre": "Bruna Zanoni Ruthner",
+       "orcid": "https://orcid.org/0009-0005-4470-5066"
+      },
+      {
+       "nombre": "Jamile Maria da Silva Weizenmann",
+       "orcid": "https://orcid.org/0000-0001-7077-6371"
+      }
+     ],
+     "resumen": "This article examines the impacts of climate change on the right to housing, focusing on the 2023 and 2024 socio-environmental disasters in the Vale do Taquari, Rio Grande do Sul, southern Brazil. This research presents the results obtained in the second phase of the research supported by FAPERGS, exploring how extreme weather events exacerbate historical socio-spatial inequalities. Using mapping, georeferencing in the affected areas, the study recorded approximately 15,000 housing units impacted across 39 municipalities, classified according to federal guidelines. The analysis highlights the fragility of public reconstruction policies, especially the vulnerability of displaced populations, many still living in temporary housing. The paper demonstrates environmental disasters do not establish isolated events, but rather express the historical processes of unequal territorial production, enhanced by the climate crisis. In conclusion, facing these challenges requires integrated housing, urban planning and climate adaptation policies, guided by the principles of climate justice, territorial resilience, and the effective guarantee of the right to housing.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.15446/bitacora.v36n2.123759",
+     "doi": "10.15446/bitacora.v36n2.123759",
+     "paginas": "34-46",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.15446/bitacora.v36n2.123801",
+     "titulo": "Relación entre vivienda colectiva y perfil urbano. Expresión en centro de Córdoba, Argentina",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Silvina de Lourdes Barraud",
+       "orcid": "https://orcid.org/0000-0001-5188-3905"
+      },
+      {
+       "nombre": "Natalia María Colombano",
+       "orcid": "https://orcid.org/0000-0002-0144-4063"
+      }
+     ],
+     "resumen": "This article explores the relationship between urban context and collective housing, focusing on an analytical study of three cases developed in neighborhoods in the city center and surrounding areas of Córdoba, Argentina. The aim of this ongoing work is to generate knowledge about urban renewal processes representative of the dynamics of urban development linked to the increase in high-rise construction. This is correlated with variables associated with the requirements of contemporary living in conjunction with specific design strategies that address regulatory limitations on densification. This article presents a meticulous, analytical, and reflective reading, based on the assumption of material feedback between the urban and domestic scales, each constitutive of the other. It posits that the neighborhood emerges as an intermediary or transition between the city and the house. The article concludes with some reflections on collective housing as a contribution to the construction of dialogical profiles, which implies considering urban conditions related to habitability. Regulations play a role in governing the articulation between new construction and pre-existing structures, in terms of heritage value, and thus define the arguments for expressing the sector's profile.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.15446/bitacora.v36n2.123801",
+     "doi": "10.15446/bitacora.v36n2.123801",
+     "paginas": "47-62",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.15446/bitacora.v36n2.124010",
+     "titulo": "Quito, la vivienda imposible: especulación y desigualdad estructural",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Maria Paula Granda Vega",
+       "orcid": "https://orcid.org/0009-0006-9346-5094"
+      }
+     ],
+     "resumen": "Housing affordability has been a critical issue in Latin American cities since their rapid growth from the mid-twentieth century onward. As in other parts of the world, several metropolitan areas in the region are currently facing a housing affordability crisis, whose extent and depth vary in both degree and form. In the case of the Metropolitan District of Quito, the lack of accurate and up-to-date geostatistical information has resulted in a limited understanding of the actual magnitude of this crisis, hindering both the implementation of and advocacy for effective policies to address this issue. This article seeks to address this gap through the construction and analysis of a complex system of housing statistical indicators for the Metropolitan District of Quito. The analysis covers the period 2007–2022 and draws on official and private statistical sources. The results provide a novel perspective on Quito’s housing system, specifically on the affordability of new housing available on the formal market during the period under study. They show how, particularly over the last decade, real estate speculation has contributed to the loss of housing’s social function, thereby exacerbating the structural housing precariousness that has historically existed.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.15446/bitacora.v36n2.124010",
+     "doi": "10.15446/bitacora.v36n2.124010",
+     "paginas": "63-75",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.15446/bitacora.v36n2.123892",
+     "titulo": "El paisaje hídrico de la Represa Billings: renovación urbana, conflicto socioambiental y vulnerabilidad climática",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Daniela Getlinger",
+       "orcid": "https://orcid.org/0000-0001-5976-4855"
+      },
+      {
+       "nombre": "Teresa Serrano",
+       "orcid": "https://orcid.org/0009-0009-8914-3422"
+      }
+     ],
+     "resumen": "This article analyses the regeneration of Cantinho do Céu, a consolidated informal settlement on the banks of the Billings Reservoir (São Paulo), understanding the reservoir as a dynamic water landscape: an infrastructure that reshapes territory and produces social and ecological hierarchies. The intervention took place in a context where the Atlantic Forest had been drastically reduced by the construction of the reservoir and the subsequent expansion of precarious urbanisation. The regeneration combined sanitation, slope stabilisation, road improvements, and a linear park that re-established the relationship between the neighbourhood and the water. The analysis articulates two key perspectives: a critique of hydric modernity —which subordinated natural flows to the metropolitan metabolism— and negotiation as a project method capable of intervening without erasing the everyday life of an existing fabric. Local results are evident —reduced contamination and risks, and reorganisation of the urban edge— yet reveal limits: the social costs of resettlement and the inadequacy of localised actions in the face of watershed-scale degradation. In the context of climate emergency, the article proposes scaling policy from neighbourhood to watershed, integrating Nature-based Solutions as living infrastructure that restores ecosystem functions, strengthens resilience, and addresses housing precariousness without displacement.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.15446/bitacora.v36n2.123892",
+     "doi": "10.15446/bitacora.v36n2.123892",
+     "paginas": "76-88",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.15446/bitacora.v36n2.123912",
+     "titulo": "La conversión de oficinas a vivienda en España. Análisis comparativo de estudios de caso",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Israel Nagore Setien",
+       "orcid": "https://orcid.org/0009-0009-0928-5210"
+      }
+     ],
+     "resumen": "Adaptive reuse has emerged as a key strategy for sustainable urban regeneration, extending the life of buildings as an alternative to demolition. In recent years, the conversion of office buildings into residential use has increased in European cities, driven by rising vacancy rates and the demand for housing in consolidated urban areas. Despite growing interest among developers and the potential environmental and social benefits of such conversions, the topic has received little academic attention in the Spanish context. This paper aims to address this gap by advancing knowledge on this specific setting. Drawing from a broad sample of 81 identified projects, the study focuses on four cases representing three building typologies. Based on interviews with the architects and a structured analytical framework, each case is examined through three dimensions: urban planning regulations, the scope of architectural interventions, and the characteristics of the resulting housing. The results show that, in Spain, the phenomenon is primarily market-driven and that the absence of specific planning policies limits the potential social and environmental benefits. The analysis also highlights key challenges and design strategies involved in these transformations, identifying planning regulations as a decisive factor shaping the extent and characteristics of the interventions.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.15446/bitacora.v36n2.123912",
+     "doi": "10.15446/bitacora.v36n2.123912",
+     "paginas": "89-103",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.15446/bitacora.v36n2.122537",
+     "titulo": "Cronología de las políticas habitacionales y transformaciones post-ocupacionales. Análisis de la vivienda social (General Pueyrredon, Argentina)",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "María José Díaz Varela",
+       "orcid": "https://orcid.org/0000-0002-2340-3481"
+      },
+      {
+       "nombre": "María Laura Zulaica",
+       "orcid": "https://orcid.org/0000-0001-8101-5957"
+      },
+      {
+       "nombre": "Micaela María Tomadoni",
+       "orcid": "https://orcid.org/0009-0004-5415-9559"
+      }
+     ],
+     "resumen": "Latin America, the housing deficit remains a key challenge. In response, state housing policies have primarily focused on the production of social housing, prioritizing quantitative targets over housing quality and residents’ needs. In Argentina, and particularly in the Municipality of General Pueyrredon, this approach has resulted in standardized housing developments that fail to consider the potential for transformation in response to changing ways of living. This paper aims to analyze the relationship between housing policies implemented in the Municipality of General Pueyrredon between 1950 and 2023 and the post-occupancy transformations recorded in social housing developments. Drawing on the complex systems approach and qualitative habitat analysis, a chronology of housing policies was developed, the housing developments produced were characterized, and a post-occupancy analysis of representative cases was conducted. Despite changes in housing policies across different historical periods, the results reveal the persistence of patterns of typological homogenization, peripheral location, and limited post-occupancy support. The post-occupancy analysis highlights residents’ capacity to transform and re-signify their homes through extensions, adaptive modifications, and the incorporation of productive and co-residential spaces, aspects that should be considered in future housing policies.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.15446/bitacora.v36n2.122537",
+     "doi": "10.15446/bitacora.v36n2.122537",
+     "paginas": "104-117",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.15446/bitacora.v36n2.122025",
+     "titulo": "Transporte público y desarrollo urbano sostenible en Paraguay",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Fernando González y Galán",
+       "orcid": "https://orcid.org/0000-0002-0438-5636"
+      }
+     ],
+     "resumen": "This study aims to conduct a comprehensive analysis of the current state of public transportation in the Metropolitan Area of Asunción (AMA), assessing its main structural, social, and economic challenges in order to propose a comprehensive reform agenda that promotes sustainable urban development. A mixed-methods approach is employed, emphasizing qualitative analysis complemented by official quantitative data. The research includes documentary analysis of regulations and public policies, review of data from the National Institute of Statistics, Ministry of Public Works, and other entities, specific case studies, and comparison with successful regional experiences. The analysis reveals significant structural deficiencies in the AMA public transportation system, including institutional fragmentation, fleet obsolescence, and uneven coverage, which affect territorial equity and service quality. Nevertheless, the socioeconomic profitability of state subsidies is confirmed, sustaining accessibility and contributing to mitigating environmental impacts. These findings support the need for a sustainable and multifaceted reform. Overcoming the public transportation crisis in Asunción requires implementing comprehensive reforms that address subsidies, technology, infrastructure, governance, and metropolitan planning to ensure long-term efficiency and equity.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.15446/bitacora.v36n2.122025",
+     "doi": "10.15446/bitacora.v36n2.122025",
+     "paginas": "118-129",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.15446/bitacora.v36n2.122261",
+     "titulo": "Habitabilidad de la vivienda y vulnerabilidades urbanas. Dimensiones psicosociales y ambientales.",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Arturo Eduardo Villalpando-Flores",
+       "orcid": "https://orcid.org/0000-0003-2065-9948"
+      }
+     ],
+     "resumen": "Habitability is a key field of analysis in the face of socio-spatial inequalities and their effects on health, a relationship widely documented in contemporary literature. In Mexico, the qualitative and quantitative housing deficits, as well as urban limitations, generate tensions regarding psychological well-being and territorial equity, revealing a systemic crisis of habitability. These problems demand a review of the conceptual foundations of housing and the city as rights to rethink the criteria for habitable and resilient environments. This paper aims to analyze the interrelationships among internal and external habitability, urban vulnerabilities, and quality of life, drawing on the frameworks of the right to the city and housing policies. A qualitative approach, based on a narrative and critical literature review, articulates contributions from environmental psychology, architecture, urban planning, and social policy. This transdisciplinary approach allows for the construction of a comprehensive framework for interpreting housing as socio-environmental infrastructure, urban biopsychosocial health, and a collective right. The findings highlight that housing policies have reproduced spatial inequalities, limiting urban resilience and socio-environmental justice, raising the need for comprehensive public policies that link equity, sustainability, and multifactorial well-being.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.15446/bitacora.v36n2.122261",
+     "doi": "10.15446/bitacora.v36n2.122261",
+     "paginas": "130-140",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.15446/bitacora.v36n2.122499",
+     "titulo": "Estrategias proyectuales y constructivas para la ampliación. Casas que crecen",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Lucía Martín López",
+       "orcid": "https://orcid.org/0000-0002-4953-9619"
+      }
+     ],
+     "resumen": "This article critically analyzes the design and construction strategies that enable the gradual expansion of housing, comparing Latin American and European approaches from a situated perspective. Based on the hypothesis that incorporating foresight-based knowledge improves the livability and sustainability of expanding homes, a comparative analysis is conducted of 214 cases published in specialized architecture journals. The methodology identifies 28 strategies grouped into five categories: construction and technical; design and planning; social and family; economic and management, and urban and regulatory. This study focuses on the first two, demonstrating that, despite contextual differences, there are common mechanisms that allow for flexible and economical housing growth, thereby offering a critical stance against the standardization of contemporary urban habitats.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.15446/bitacora.v36n2.122499",
+     "doi": "10.15446/bitacora.v36n2.122499",
+     "paginas": "141-157",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.15446/bitacora.v36n2.122089",
+     "titulo": "La convivencia en espacios públicos de ciudades latinoamericanas: Validez y fiabilidad del cuestionario para su evaluación.",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Willian Sierra-Barón",
+       "orcid": "https://orcid.org/0000-0002-7642-477X"
+      },
+      {
+       "nombre": "Pablo Páramo",
+       "orcid": "https://orcid.org/0000-0002-4551-3040"
+      },
+      {
+       "nombre": "Andrea Burbano",
+       "orcid": "https://orcid.org/0000-0003-2037-5603"
+      }
+     ],
+     "resumen": "Public spaces have been considered as settings where collective life takes shape, allowing for the symbolic, political, and social expression of the people who make up a community. In this context, the present study aimed to analyze the validity and consistency of a questionnaire designed to assess behaviors that contribute to coexistence in urban public spaces, in which 1,120 people from six Latin American countries participated. Psychometric analyses revealed a six-dimensional structure (care for the environment, socialization, mobility, safety, democratic participation, and appreciation of heritage) that coherently organizes the practices associated with civic coexistence. Overall, the findings support the use of the instrument as an empirical tool for studying coexistence in Latin American urban contexts and for developing future comparative research.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.15446/bitacora.v36n2.122089",
+     "doi": "10.15446/bitacora.v36n2.122089",
+     "paginas": "158-171",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.15446/bitacora.v36n2.122527",
+     "titulo": "Enclaves verticales y formación de redes socioeconómicas: Torres residenciales de Estación Central en Santiago de Chile",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Loreto Rojas Symmes",
+       "orcid": "https://orcid.org/0000-0001-5022-481X"
+      },
+      {
+       "nombre": "Felipe Link",
+       "orcid": "https://orcid.org/0000-0001-5355-5489"
+      },
+      {
+       "nombre": "Adriana Marín Toro",
+       "orcid": "https://orcid.org/0000-0002-3521-6499"
+      }
+     ],
+     "resumen": "This article explores the phenomenon of vertical enclaves in Estación Central, Santiago de Chile, within the context of increasing migrant populations and the expansion of high-rise rental housing. The objective is to understand how migrant families transform residential spaces into arenas of economic and social interaction. The study adopts a qualitative methodology, based on a case study with in-depth interviews and non-participant observation in two high-density towers mainly inhabited by migrants. Findings show the emergence of informal commercial circuits -food, services, childcare - that support residential transitions while fostering functional networks and trust-based relations. These dynamics illustrate the formation of vertical enclaves characterized by precarious housing, high tenant turnover, and informal economies, yet also by new forms of sociability. The conclusion emphasizes that vertical enclaves embody both processes of vulnerability and opportunities for contingent community-building, thereby challenging traditional views on life in high-density residential buildings.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.15446/bitacora.v36n2.122527",
+     "doi": "10.15446/bitacora.v36n2.122527",
+     "paginas": "172-185",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.15446/bitacora.v36n2.122718",
+     "titulo": "Estado y mercado en la asignación de precios del suelo: la periferia sur de la Región Metropolitana de Buenos Aires, Argentina",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Luis Enrique Baer",
+       "orcid": "https://orcid.org/0009-0007-4417-006X"
+      },
+      {
+       "nombre": "Juan Pablo Venturini",
+       "orcid": "https://orcid.org/0009-0001-7883-0675"
+      }
+     ],
+     "resumen": "The analysis of land markets has gained ground on government agendas and research programs in recent years, with land prices being an essential indicator for its study, as they reflect the social valuation of properties according to location attributes. This work aims to analyze the differential valuation of land based on three territorial variables: its use, the socio-residential context, and the coverage of basic services, in the Buenos Aires Metropolitan Region. Using a quantitative methodological approach, a data collection on selling prices was developed in municipalities on the southern metropolitan periphery: Almirante Brown, Esteban Echeverría, Ezeiza, Presidente Perón, and San Vicente. The results reveal a segmentation of land markets associated with marked territorial fragmentation, high land prices in consolidated areas, and the boom of gated communities for upper-middle-class sectors as a form of expansion. To illustrate possible lines of intervention, a housing policy initiative carried out between 2019 and 2023 is shared, which highlights the possibility of producing serviced and well-located land at an affordable price, and the need to regulate land markets.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.15446/bitacora.v36n2.122718",
+     "doi": "10.15446/bitacora.v36n2.122718",
+     "paginas": "186-199",
+     "fuente": "Crossref"
+    }
+   ]
+  },
+  {
+   "id": "v36-n1-2026",
+   "volumen": "36",
+   "numero": "1",
+   "anio": 2026,
+   "fecha": "2026-04-24",
+   "etiqueta": "Vol. 36, núm. 1 (2026)",
+   "fuente": "Crossref",
+   "articulos": [
+    {
+     "id": "10.15446/bitacora.v36n1.120060",
+     "titulo": "Dinámica espacial y uso del suelo en Villahermosa, Tabasco (México): un estudio de escenarios futuros y pasados",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Adalberto Galindo-Alcántara",
+       "orcid": "https://orcid.org/0000-0001-9628-982X"
+      },
+      {
+       "nombre": "Silvia del Carmen Ruiz-Acosta",
+       "orcid": "https://orcid.org/0000-0002-3319-0117"
+      },
+      {
+       "nombre": "Miguel Ángel Palomeque de la Cruz",
+       "orcid": "https://orcid.org/0000-0002-0320-3191"
+      },
+      {
+       "nombre": "Rodimiro Ramos Reyes",
+       "orcid": "https://orcid.org/0000-0003-3957-8160"
+      }
+     ],
+     "resumen": "Este estudio analiza la dinámica espacio-temporal del cambio de uso del suelo (CUS) en la Zona Metropolitana de Villahermosa, Tabasco (México), espacio socioeconómico y político crucial en la región sureste de México, mediante clasificación multitemporal (2000, 2008, 2017) y modelación prospectiva CA–Markov para 2027 y 2037. Los resultados muestran una intensa transformación territorial dominada por la expansión urbana, que aumentó 10,000 ha entre 2000 y 2017, principalmente a costa de humedales, vegetación arbórea y pastizales. Los humedales exhiben redistribución y pérdidas recurrentes asociadas a presiones urbanas e intervenciones hidrológicas, mientras que la vegetación arbórea presenta una tendencia sostenida de fragmentación. Las proyecciones indican reducciones adicionales de humedales (–1.14 % anual) y vegetación arbórea (–1.27 %), así como un crecimiento urbano del 113 % hacia 2037. Estos patrones confirman un proceso de transformación acelerada que compromete funciones ecológicas críticas y aumenta la vulnerabilidad a inundaciones, comprometiendo la seguridad de la población y subrayando la necesidad de una planificación territorial basada en criterios de sostenibilidad y gestión del riesgo.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.15446/bitacora.v36n1.120060",
+     "doi": "10.15446/bitacora.v36n1.120060",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.15446/bitacora.v36n1.122530",
+     "titulo": "Gobernanza interna y desilusión en edificios de Santiago",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Vicente Ernesto Yáñez Garrido",
+       "orcid": "https://orcid.org/0000-0002-7673-2692"
+      },
+      {
+       "nombre": "Gabriel Espinoza Rivera",
+       "orcid": "https://orcid.org/0000-0002-0423-3915"
+      }
+     ],
+     "resumen": "Este artículo examina los desafíos de la gobernanza interna y los afectos emergentes en torno a las experiencias de gestión en condominios verticales sujetos a dinámicas de inversión inmobiliaria en Santiago de Chile. Ante la configuración del condominio vertical como objeto de inversión, nos preguntamos: ¿qué experiencias de gobernanza interna atraviesan los miembros de las comunidades de edificio? A partir de un trabajo etnográfico de un año en el sector de Santa Isabel, identificamos una serie de dificultades que enfrentan las comunidades en la administración y el gobierno de sus edificios. Sobre esta base, analizamos los efectos de dichas formas de gobernanza y su impacto emocional en los residentes, quienes experimentan profundos sentimientos de desilusión frente al habitar vertical. Concluimos con una reflexión sobre la habitabilidad y la sostenibilidad temporal de la vivienda vertical en el contexto de la financiarización.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.15446/bitacora.v36n1.122530",
+     "doi": "10.15446/bitacora.v36n1.122530",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.15446/bitacora.v36n1.122364",
+     "titulo": "Habitat e habitar: a urgência de uma poética urbana. Henri Lefebvre e as práticas de apropriação no Brasil",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Carolina Akemi Martins Morita Nakahara",
+       "orcid": "https://orcid.org/0000-0002-4297-6656"
+      }
+     ],
+     "resumen": "Este artigo propõe uma releitura crítica do direito à cidade a partir da distinção entre habitat e habitar, com base na filosofia urbana de Henri Lefebvre. Argumenta-se que a crise da habitação não se resolve apenas por meios técnico-administrativos; antes, requer a reativação do habitar enquanto prática simbólica, sensível e criativa. Dialogando com autores como Heidegger e Nietzsche, Lefebvre articula a poiesis e a apropriação como fundamentos de uma nova práxis urbana. A partir dessa chave, o texto examina experiências de ocupação e autogestão no centro de São Paulo, como a Ocupação 9 de Julho, que tensionam a lógica da propriedade e da funcionalização do espaço. Ao reconectar o urbano à linguagem e à criação coletiva, essas práticas não apenas contestam as estruturas da desigualdade espacial, mas também reavivam a cidade como obra poética.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.15446/bitacora.v36n1.122364",
+     "doi": "10.15446/bitacora.v36n1.122364",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.15446/bitacora.v36n1.122543",
+     "titulo": "Modernidad y hábitat en Bogotá (1949-1972): una mirada crítica a 15 casos de vivienda colectiva",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Camilo Rico Ramírez",
+       "orcid": "https://orcid.org/0000-0003-3211-5614"
+      },
+      {
+       "nombre": "Nelcy Echeverría Castro",
+       "orcid": "https://orcid.org/0009-0002-0886-2556"
+      }
+     ],
+     "resumen": "Aunque la vivienda colectiva moderna en Bogotá fue clave en la transformación urbana a partir de la segunda mitad del siglo XX, su legado está insuficientemente documentado, limitando la comprensión de los desafíos socioespaciales y la crisis habitacional contemporánea, exacerbada por modelos posteriores centrados en la rentabilidad. En consecuencia, el objetivo de la investigación fue ampliar el registro y analizar críticamente esta vivienda para entender su evolución y los puntos de inflexión que derivaron en la crisis actual. La investigación utilizó una metodología cualitativa y comparativa en tres fases: una revisión bibliográfica para seleccionar 15 proyectos, trabajo de campo con levantamientos fotográficos y entrevistas, y un análisis teórico-conceptual. Los resultados muestran una gran diversidad tipológica —formas cerradas, semiabiertas y abiertas— y la incorporación de innovaciones como la supermanzana, que redefinieron el crecimiento urbano y los espacios comunitarios. También evidencia transformaciones posteriores realizadas por los residentes, como cerramientos, ampliaciones, comercio y parqueaderos, que alteraron los diseños originales, pero también reflejaron flexibilidad y capacidad de adaptación. En conclusión, este periodo constituye a la vez un referente de innovación y una advertencia sobre las tensiones urbanas contemporáneas, subrayando la necesidad de promover viviendas colectivas adaptables, sostenibles y articuladas con el espacio público.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.15446/bitacora.v36n1.122543",
+     "doi": "10.15446/bitacora.v36n1.122543",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.15446/bitacora.v36n1.120120",
+     "titulo": "Más que agua, análisis multidimensional del paisaje fluvial: hacia una rehabilitación integral en Fusagasugá, Colombia",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Ingrid Natalia Novoa Rios",
+       "orcid": "https://orcid.org/0009-0005-8437-8282"
+      },
+      {
+       "nombre": "Jaime Hernández García",
+       "orcid": "https://orcid.org/0000-0001-6456-1673"
+      }
+     ],
+     "resumen": "La urbanización plantea retos importantes para la gestión de los ecosistemas urbanos, particularmente de los paisajes fluviales que son escenarios de interacción ecológica, social y urbana con un aporte clave para la sostenibilidad y resiliencia de las ciudades. Sin embargo, a pesar del deterioro de los cauces urbanos, la aplicación de perspectivas socioecológicas y conocimiento local ha sido limitada. Esta problemática es aún más crítica en ciudades intermedias, donde se presentan vacíos de conocimiento. Por ello, esta investigación cualitativa propone una caracterización tipológica y reflexión estratégica para la rehabilitación de paisajes fluviales urbanos, a partir del estudio de cuatro cauces representativos en la ciudad de Fusagasugá, Colombia. El análisis permitió identificar variaciones en factores de las dinámicas naturales, transformación, estructura urbana y conectividad social relacionadas a los espacios fluviales. A partir de estos patrones, se establecieron seis tipologías (industrial-comercial, transporte, recreativo, residencial, urbano-rural y soterrado) y se discutieron oportunidades y desafíos para su recuperación, funcionalidad, conservación y valoración. Los hallazgos resaltan la importancia de las interrelaciones del paisaje en la escala local como bases para la rehabilitación integral, resaltando la conexión humano-naturaleza y la visión sistémica y multifuncional para la integración efectiva de los cauces en la ciudad.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.15446/bitacora.v36n1.120120",
+     "doi": "10.15446/bitacora.v36n1.120120",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.15446/bitacora.v36n1.123155",
+     "titulo": "New housing markets and affordability gaps in Mexico City",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "José Gasca Zamora",
+       "orcid": "https://orcid.org/0000-0002-2295-3107"
+      },
+      {
+       "nombre": "Francisco Javier Luna Moreno",
+       "orcid": null
+      }
+     ],
+     "resumen": "The purpose of this study is to analyze the evolution of new housing markets in Mexico City and its metropolitan area between 2000 and 2024 and how market segmentation in this sector reinforced affordability gaps. Affordability gaps are understood as the distance between household income capacity and actual home purchase prices. Residential segmentation was determined based on submarkets classified by size and price and their spatial distribution in the metropolis, while affordability was measured as the relationship between housing prices and family income. The results show the consolidation of a spatially segmented and differentiated supply of new housing, which generated price structures that acted as differentiated demand mechanisms. This spatial pattern reinforced inequalities in access in the metropolis, deepening the gap between those who managed to acquire higher-quality housing in urban environments with better living conditions and those who were displaced to the peripheries where, although prices were relatively lower, there were significant deficits in public facilities and services.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.15446/bitacora.v36n1.123155",
+     "doi": "10.15446/bitacora.v36n1.123155",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.15446/bitacora.v36n1.120123",
+     "titulo": "Relación entre pobreza multidimensional y morfología urbana a partir de imágenes satelitales: un caso de estudio para Cúcuta, Colombia",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Mayerlyn Yineth Aponte Camacho",
+       "orcid": null
+      },
+      {
+       "nombre": "Eder Alexander Botello Sánchez",
+       "orcid": "https://orcid.org/0000-0003-4363-5551"
+      },
+      {
+       "nombre": "Dennys Jazmín Manzano López",
+       "orcid": null
+      }
+     ],
+     "resumen": "La pobreza urbana trasciende el ingreso económico, manifestándose como una morfología social de exclusión en el territorio. Este estudio se cuestiona: ¿es posible identificar zonas de pobreza multidimensional a través de la lectura de atributos físicos del territorio mediante imágenes satelitales? El objetivo fue analizar la relación dialéctica entre pobreza y forma urbana en la comuna 8 de Cúcuta, Colombia. Mediante teledetección y estadística espacial, se modeló la asociación entre el Índice de Pobreza Multidimensional (IPM) y tres variables físicas: Índice de Vegetación (NDVI), materialidad vial y geometría de manzanas, con Sistemas de Información Geográfica (SIG). Los resultados sugieren que la irregularidad del trazado y la precariedad material no son aleatorias, sino patrones espaciales de la desigualdad. Se concluye que las imágenes satelitales permiten develar la invisibilidad cartográfica de la inequidad, validando una metodología para focalizar políticas de justicia territorial.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.15446/bitacora.v36n1.120123",
+     "doi": "10.15446/bitacora.v36n1.120123",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.15446/bitacora.v36n1.120121",
+     "titulo": "Resistencias a la foodificación urbana: comida al paso y venta nocturna en Temuco y Maipú, Chile",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Jorge Bernabé Ulloa Martínez",
+       "orcid": "https://orcid.org/0000-0003-4938-5477"
+      }
+     ],
+     "resumen": "Este artículo analiza las formas de resistencia alimentaria desarrolladas por trabajadores de comida callejera nocturna en las ciudades de Temuco y Maipú, Chile. En un contexto de creciente foodificación del espacio urbano, promovida por políticas de regulación que privilegian dispositivos gastronómicos gourmetizados, el estudio se enfoca en cómo la noche se convierte en una condición de posibilidad para sostener prácticas laborales populares, autónomas y toleradas. A partir de una estrategia etnográfica intensiva, centrada en el acompañamiento prolongado a dos unidades familiares entre 2022 y 2024, se examinan las decisiones alimentarias, los vínculos con el territorio y las dinámicas de organización nocturna. Los resultados muestran que estos trabajadores construyen paisajes alimentarios accesibles, afectivos y funcionales, en contraste con los modelos de consumo estilizado asociados a los foodtrucks. Lejos de representar improvisación o desorden, estas prácticas encarnan una racionalidad adaptativa situada que desafía los regímenes normativos y estéticos del urbanismo neoliberal. El artículo concluye que incorporar la noche como categoría analítica permite ampliar la comprensión de la informalidad urbana y aporta a una lectura más compleja de la justicia alimentaria y espacial en América Latina.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.15446/bitacora.v36n1.120121",
+     "doi": "10.15446/bitacora.v36n1.120121",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.15446/bitacora.v36n1.120010",
+     "titulo": "Towards antifragile cities: a systematic literature review",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Fernando Arvayo-Ballesteros",
+       "orcid": "https://orcid.org/0000-0001-8051-3516"
+      },
+      {
+       "nombre": "Glenda Bethina Yanes-Ordiales",
+       "orcid": "https://orcid.org/0000-0002-6219-8978"
+      },
+      {
+       "nombre": "José Manuel Ochoa-De la Torre",
+       "orcid": "https://orcid.org/0000-0001-6035-1249"
+      }
+     ],
+     "resumen": "Antifragility is a concept that enables a potential benefit from crises and catastrophes to emerge. However, in this respect there is a lack of information in the architectural, urban, and territorial fields. The aim of this systematic literature review is to respond to the following questions: How is urban antifragility defined in recent research? What characteristics enable architecture, city, and territory to be antifragile? And how has it been evaluated? Following the PRISMA guidelines, papers published between 2011 and 2023 that contained the term “antifragility” in their titles, in English or Spanish, were collected from 8 databases. A total of 425 publications were evaluated and 52 articles were selected for analysis. Twenty-six proposed indices and indicators were analyzed using 19 characteristics of urban antifragility. As a result, a definition of urban antifragility and five analytical dimensions are proposed, that is, dynamic configuration, synergic processes, strategic governance, epistemic management, and systemic development. It was concluded that the shift from theoretical discourse to the assessment and implementation of urban antifragility imply prioritizing flexibility and optionality, together with the incorporation of indicators related to information and knowledge.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.15446/bitacora.v36n1.120010",
+     "doi": "10.15446/bitacora.v36n1.120010",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.15446/bitacora.v36n1.122006",
+     "titulo": "Tránsito migratorio y conflictividad urbana. Paz imperfecta en el norte de México",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Raul Alejandro Viviescas Cabrera",
+       "orcid": "https://orcid.org/0000-0002-8691-0755"
+      },
+      {
+       "nombre": "Jéssica Marisol Vera Carrera",
+       "orcid": "https://orcid.org/0000-0001-7229-5205"
+      },
+      {
+       "nombre": "María Gabriela Zapata Morán",
+       "orcid": null
+      },
+      {
+       "nombre": "Maria Angelica Del Mar Mendoza Manotas",
+       "orcid": null
+      }
+     ],
+     "resumen": "Este artículo analiza las dinámicas del tránsito migratorio irregular en México y su expresión territorial en la ciudad de Monterrey, con énfasis en el papel desempeñado por Casa INDI como actor comunitario de acogida y su contribución a la construcción de paz urbana. Mediante una estrategia metodológica cualitativa, se integraron entrevistas semiestructuradas a representantes de comunidades religiosas, análisis documental y tratamiento de estadísticas oficiales sobre eventos migratorios irregulares entre 2019 y 2024. Los hallazgos revelan que Monterrey se ha consolidado como nodo intermedio dentro del corredor migratorio sur-norte, caracterizado por una creciente presencia de familias migrantes en tránsito. Casa INDI emerge como un territorio de la espera que, lejos de ofrecer una atención meramente asistencial, articula estrategias de dignificación, integración temporal y mediación comunitaria. A partir del paradigma de la paz imperfecta, se demuestra que estas experiencias locales constituyen respuestas éticamente situadas frente a la exclusión institucional y los discursos de criminalización, contribuyendo a la configuración de alternativas de convivencia en contextos urbanos marcados por el conflicto migratorio.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.15446/bitacora.v36n1.122006",
+     "doi": "10.15446/bitacora.v36n1.122006",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.15446/bitacora.v36n1.122542",
+     "titulo": "Vivienda crecedera en Bolivia: patrones espaciales y desencadenantes",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Alejandra Magnus Molina",
+       "orcid": "https://orcid.org/0009-0005-4949-873X"
+      },
+      {
+       "nombre": "Juan E. Cabrera",
+       "orcid": "https://orcid.org/0000-0003-1471-7427"
+      }
+     ],
+     "resumen": "El déficit habitacional en Bolivia se manifiesta no solo en cantidad sino en calidad, con cerca de la mitad de la población viviendo en condiciones precarias. En este contexto, la vivienda crecedera —o progresiva— surge como la principal estrategia de acceso a la vivienda urbana y periurbana. El objetivo de la investigación es caracterizar los patrones espaciales de crecimiento de la vivienda progresiva y sus factores socioeconómicos desencadenantes en ocho barrios de Cochabamba y Tarija. La metodología combinó análisis de imágenes satelitales de Google Earth (2003–2022), observación directa de tipologías constructivas y 183 encuestas a propietarios, complementadas con entrevistas a líderes barriales; los datos se procesaron en QGIS para mapear la evolución física de las viviendas. Se identificaron cinco patrones espaciales recurrentes: en “L”, en “II”, en “U”, en “O” y de ocupación total del lote, cada uno asociado a trayectorias de 20–30 años y condicionado por recursos económicos, cambios familiares y morfología del lote. El estudio concluye que la progresividad constituye una tecnología social de producción habitacional que, aunque invisibilizada en la normativa, revela capacidades locales de autogestión y demanda marcos regulatorios que reconozcan sus ritmos y estándares de habitabilidad.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.15446/bitacora.v36n1.122542",
+     "doi": "10.15446/bitacora.v36n1.122542",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.15446/bitacora.v36n1.126769",
+     "titulo": "Cuestión residencial: necesidades sociales, políticas de vivienda y alternativas para habitar",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Carlos Alberto Torres-Tovar",
+       "orcid": "https://orcid.org/0000-0001-5946-1838"
+      }
+     ],
+     "resumen": null,
+     "idioma_resumen": null,
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.15446/bitacora.v36n1.126769",
+     "doi": "10.15446/bitacora.v36n1.126769",
+     "paginas": "9-14",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.15446/bitacora.v36n1.122566",
+     "titulo": "Viviendas campesinas adaptadas al cambio climático con bioingeniería",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "María de los Ángeles Muñoz Fernández",
+       "orcid": "https://orcid.org/0009-0004-8696-6013"
+      },
+      {
+       "nombre": "Maria Victoria Pinzón-Botero",
+       "orcid": "https://orcid.org/0000-0002-4901-5540"
+      },
+      {
+       "nombre": "Andrea Viviana Araujo Badiel",
+       "orcid": "https://orcid.org/0009-0003-2160-1198"
+      }
+     ],
+     "resumen": "Las construcciones destinadas al hábitat humano enfrentan desafíos significativos ante la adaptación al cambio climático (ACC), y la vivienda rural campesina (VRC) de alta montaña no es la excepción. Esta investigación identifica las características principales de la VRC y evalúa su potencial de adaptación mediante alternativas de bioingeniería. El estudio analizó 87 viviendas ubicadas en la cuenca alta del río Amaime, en el Valle del Cauca, Colombia, considerando tres variables principales y 18 indicadores territoriales, ambientales y constructivos, evaluados mediante encuestas y recorridos de campo. A partir de estos indicadores se calculó el Índice de Potencial de Adaptación (IPA) frente al cambio climático (CC). Características como el relieve del terreno, la distancia al río, la pendiente y el material predominante de la cubierta resultaron relevantes en la configuración del potencial adaptativo. Con base en el IPA y su relación con las condiciones específicas de cada vivienda, se estimó el Potencial de Incorporación de las Alternativas de Bioingeniería (PIAB) evaluadas (agua lluvia, las huertas verticales, el compostaje y los humedales artificiales), lo que permitió identificar las estrategias más adecuadas para cada caso.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.15446/bitacora.v36n1.122566",
+     "doi": "10.15446/bitacora.v36n1.122566",
+     "paginas": "73-87",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.15446/bitacora.v36n1.122558",
+     "titulo": "Mazatlán, Sinaloa 2001-2021: expansión urbana y transformación territorial",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Francisco Humberto Valdez Sandoval",
+       "orcid": "https://orcid.org/0000-0003-1570-525X"
+      },
+      {
+       "nombre": "Aniela Guadalupe Valdez Sandoval",
+       "orcid": "https://orcid.org/0009-0002-8375-3843"
+      },
+      {
+       "nombre": "Allán Chacara Montes",
+       "orcid": "https://orcid.org/0000-0002-0567-0017"
+      }
+     ],
+     "resumen": "Este estudio analizó los cambios de uso del suelo en el contexto de la expansión urbana en la ciudad de Mazatlán, Sinaloa, durante el periodo comprendido entre 2001 y 2021. Se examinó cómo la expansión urbana modificó la estructura territorial y generó impactos promoviendo procesos de segregación espacial, la movilidad residencial y el acceso a servicios básicos. Se aplicó una metodología multitemporal basada en sistemas de información geográfica, matrices de transición y análisis de tasa de cambio, utilizando cartografía homologada de los años 2001 y 2021 del INEGI. Los resultados evidenciaron una expansión urbana de más de 3,200 hectáreas, principalmente sobre suelos agrícolas de temporal, pastizales y selva baja. La tasa de cambio anual de la cobertura urbana fue de 3.11%, mientras que la selva baja presentó una pérdida crítica de -12.83%. La vegetación secundaria actuó como cobertura de transición, reflejando procesos de degradación. Los cuerpos de agua mostraron una reducción moderada, pero con riesgos ambientales significativos. Se concluyó que Mazatlán transitó hacia un modelo urbano funcionalmente orientado al mercado, con impactos profundos en la resiliencia territorial. El estudio subrayó la urgencia de integrar criterios ecológicos y sociales en la planeación urbana para garantizar sostenibilidad.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.15446/bitacora.v36n1.122558",
+     "doi": "10.15446/bitacora.v36n1.122558",
+     "paginas": "101-115",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.15446/bitacora.v36n1.122312",
+     "titulo": "Autoconstrucción, género y política habitacional en barrios populares argentinos: el Programa Mi Pieza (2021–2023)",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Cristián Sar Moreno",
+       "orcid": "https://orcid.org/0000-0002-6505-243X"
+      },
+      {
+       "nombre": "Emilia Mosso",
+       "orcid": "https://orcid.org/0000-0002-4121-1678"
+      }
+     ],
+     "resumen": "Este artículo analiza las estrategias habitacionales desplegadas por mujeres beneficiarias del programa Mi Pieza en Argentina (2021–2023) a partir de un estudio cualitativo realizado en las ciudades de Mar del Plata y Santa Fe. Sostenemos que el programa no opera únicamente como una transferencia económica para mejoras habitacionales, sino como un dispositivo que activa y reconfigura desigualdades preexistentes en torno al capital social, las redes comunitarias y la división sexual del trabajo. Si bien el enfoque de género del programa reconoce a las mujeres como gestoras centrales del hábitat, también puede reforzar una lógica de delegación estatal que descarga sobre ellas la responsabilidad de resolver necesidades estructurales. El análisis muestra que el impacto del subsidio estuvo mediado por las trayectorias familiares, la disponibilidad de redes de apoyo y la posibilidad de complementar recursos, revelando tensiones entre empoderamiento discursivo y precariedad estructural.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.15446/bitacora.v36n1.122312",
+     "doi": "10.15446/bitacora.v36n1.122312",
+     "paginas": "116-128",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.15446/bitacora.v36n1.122460",
+     "titulo": "Revalorización inmobiliaria mediante la brecha de renta en barrios tradicionales de Santiago de Querétaro, México",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "María Gabriela López Torres",
+       "orcid": "https://orcid.org/0009-0003-0261-812X"
+      },
+      {
+       "nombre": "Alfonso Valenzuela Aguilera",
+       "orcid": "https://orcid.org/0000-0003-3238-446X"
+      }
+     ],
+     "resumen": "Este artículo analiza la renovación urbana en los barrios tradicionales de La Cruz y San Francisquito, en Santiago de Querétaro, a partir de la teoría de la brecha de renta. El objetivo es examinar cómo las políticas de redensificación y los incentivos normativos han reconfigurado las dinámicas del mercado inmobiliario y los usos del suelo entre 2014 y 2019. Metodológicamente, se analizaron datos de alquiler residencial y turístico, valores estimados del suelo e información censal y normativa, con el fin de estimar la capitalización de rentas y su diferencial. Los resultados muestran que, en La Cruz, la expansión del alquiler turístico amplió significativamente la brecha de renta, incentivando procesos de valorización y desplazamiento poblacional. En San Francisquito, en cambio, la valorización se asocia principalmente a vivienda renovada y presenta una dinámica más moderada y diferida. Se concluye que la renovación urbana opera como un mecanismo estructurante de reconfiguración socioespacial, al orientar la producción del espacio hacia la maximización de rentas y el refuerzo de patrones de segregación y exclusión habitacional.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.15446/bitacora.v36n1.122460",
+     "doi": "10.15446/bitacora.v36n1.122460",
+     "paginas": "129-142",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.15446/bitacora.v36n1.120182",
+     "titulo": "Desafíos de justicia hidroterritorial en la relación urbano-rural: El caso de Bogotá y Fómeque",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Luis Fernando Ortiz Quintero",
+       "orcid": "https://orcid.org/0000-0001-5609-9546"
+      }
+     ],
+     "resumen": "En este trabajo se buscó analizar el modelo de gestión territorial del agua desde la EAAB, así como los efectos hidroterritoriales generados en Fómeque a partir del Sistema Chingaza, que provee el 70% del agua a Bogotá. La metodología empleó un estudio de caso con 30 entrevistas a habitantes locales, funcionarios y líderes comunitarios, observación participante en espacios organizativos y análisis documental, sistematizado con Nvivo. Desde la ecología política del agua, se examina cómo este Sistema generó desterritorialización campesina y reconfiguró relaciones de poder en torno al recurso hídrico. Los resultados revelan un caso de injusticia hidroterritorial donde la EAAB concentra decisiones mientras las comunidades locales son sistemáticamente excluidas. La discusión plantea que la crisis hídrica (2024-2025) evidencia la urgencia de transitar hacia una gobernanza policéntrica que reconozca interdependencias ecológicas, derechos territoriales y gestión comunitaria del agua.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.15446/bitacora.v36n1.120182",
+     "doi": "10.15446/bitacora.v36n1.120182",
+     "paginas": "233-247",
+     "fuente": "Crossref"
+    }
+   ]
+  },
+  {
+   "id": "v35-n3-2026",
+   "volumen": "35",
+   "numero": "3",
+   "anio": 2026,
+   "fecha": "2026-01-19",
+   "etiqueta": "Vol. 35, núm. 3 (2026)",
+   "fuente": "Crossref",
+   "articulos": [
+    {
+     "id": "10.15446/bitacora.v35n3.124501",
+     "titulo": "La crítica, otra manera de pensar la vivienda",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Marco Ernesto Cortés Díaz",
+       "orcid": null
+      }
+     ],
+     "resumen": null,
+     "idioma_resumen": null,
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.15446/bitacora.v35n3.124501",
+     "doi": "10.15446/bitacora.v35n3.124501",
+     "paginas": "9-13",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.15446/bitacora.v35n3.122465",
+     "titulo": "De ciudadelas a microapartamentos: Vivienda de Interés Social en Bogotá 2005-2022",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Juan G. Yunda",
+       "orcid": "https://orcid.org/0000-0002-3459-6880"
+      },
+      {
+       "nombre": "David E. Baumgärtner",
+       "orcid": "https://orcid.org/0009-0002-7288-1460"
+      }
+     ],
+     "resumen": "La política de Vivienda de Interés Social (VIS) en Bogotá ha sido criticada por áreas de apartamentos cada vez más reducidas y altos precios por metro cuadrado. Para entender esto se realizó un seguimiento a la política entre 2005 y 2022 a través de una revisión de legislación y programas de gobierno; junto al análisis de una base de datos georreferenciada de proyectos VIS y sus características. Los resultados muestran que hubo una transición de macroproyectos periféricos hacia microapartamentos en áreas centrales, evidenciando tensiones entre inclusión social y dinámica de mercado. Inicialmente, los macroproyectos redujeron el déficit habitacional, pero también generaron segregación espacial y proyectos en zonas carentes de servicios. Con el aumento de los topes de precio y flexibilizaciones normativas, los desarrollos se trasladaron al centro, pero en microapartamentos con altos precios por metro cuadrado, lo que suscitó críticas sobre la pérdida del sentido social de la VIS. En conclusión, el reto consiste en garantizar viviendas accesibles, dignas y bien localizadas, evitando que la VIS se convierta en un simple producto inmobiliario sin impacto real en la equidad urbana.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.15446/bitacora.v35n3.122465",
+     "doi": "10.15446/bitacora.v35n3.122465",
+     "paginas": "14-27",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.15446/bitacora.v35n3.122787",
+     "titulo": "Concentración de capital para la producción de vivienda en el Borde Metropolitano de Bogotá: un enfoque multiescalar del oligopolio inmobiliario",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Alejandro Guerrero Hurtado",
+       "orcid": "https://orcid.org/0000-0002-5150-3121"
+      }
+     ],
+     "resumen": "El artículo se propone analizar la relación entre el acelerado proceso de concentración de capital financiero-inmobiliario y el auge de la producción habitacional en el Borde Metropolitano de Bogotá entre 2001 y 2015. Para esto, se hizo seguimiento de tres dimensiones de estudio: la relación entre promotores inmobiliarios, sistema de crédito y Estado en la producción del espacio edificado; las implicaciones de la consolidación de una estructura de mercado oligopólica sobre el volumen de producción de vivienda, y la forma de estructuración territorial que resultó del incremento de la escala de producción, la diferenciación espacial de tipologías de vivienda y la generalización del conjunto habitacional cerrado. El estudio adoptó un enfoque cuantitativo orientado a determinar el grado de concentración en dos ámbitos: la escala de las operaciones constructivas y la participación por empresa en la producción habitacional. Dichos datos fueron clasificados por segmentos inmobiliarios y georreferenciados para hallar tendencias de distribución espacial. El enfoque multiescalar permitió caracterizar la serie temporal como un período de transición desde monopolios locales espacialmente dispersos hacia un régimen habitacional desigualmente desarrollado y subsumido a un oligopolio inmobiliario metropolitano.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.15446/bitacora.v35n3.122787",
+     "doi": "10.15446/bitacora.v35n3.122787",
+     "paginas": "28-42",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.15446/bitacora.v35n3.120152",
+     "titulo": "Habitar el borde: políticas públicas y segregación socioespacial",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Adriana María Rangel Arenas",
+       "orcid": "https://orcid.org/0000-0002-4139-9076"
+      },
+      {
+       "nombre": "Juan Eduardo Chica Mejía",
+       "orcid": "https://orcid.org/0000-0003-3666-9470"
+      },
+      {
+       "nombre": "Andrés Felipe Rueda Téllez",
+       "orcid": "https://orcid.org/0009-0004-2975-1251"
+      }
+     ],
+     "resumen": "La producción de vivienda social en los bordes urbanos revela tensiones estructurales entre políticas habitacionales centradas en la reducción de costos y estandarización de diseños, estrategias de mitigación del riesgo en áreas ambientalmente sensibles y la persistencia de la segregación socioespacial, asociada a la ausencia de una planificación urbana integral de estas políticas, basada en la proximidad a servicios y equipamientos. Este estudio analiza el caso de Rincón de Bolonia (Usme, Bogotá) mediante revisión de documentos de política pública y una encuesta aplicada a residentes sobre percepciones de habitabilidad, entorno y relaciones funcionales con el territorio. Los resultados evidencian que, pese a los instrumentos de política pública de vivienda social, persisten déficits cualitativos de la experiencia urbana, expresados en baja calidad de servicios, conectividad limitada, inseguridad percibida y condiciones inadecuadas de la vivienda, que reproducen procesos de segregación e inequidad espacial. Se requieren políticas públicas que equilibren el mercado de producción de vivienda con derechos fundamentales, priorizando ubicaciones más centrales y calidad habitacional, para transformar la vivienda social en un instrumento efectivo de equidad urbana.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.15446/bitacora.v35n3.120152",
+     "doi": "10.15446/bitacora.v35n3.120152",
+     "paginas": "43-58",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.15446/bitacora.v35n3.119773",
+     "titulo": "El Macroproyecto de Interés Social Nacional Buenaventura: disputas territoriales y urbanas",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Yair Alejandro Parada Diaz",
+       "orcid": "https://orcid.org/0000-0002-4429-6910"
+      }
+     ],
+     "resumen": "Este artículo analiza los impactos del Macroproyecto de Interés Social Nacional (MISN) San Antonio sobre la autonomía territorial del distrito de Buenaventura entre 2008 y 2020. El estudio se basó en una revisión de marcos normativos y planes de desarrollo y ordenamiento, complementada con análisis espacial mediante Sistemas de Información Geográfica (SIG). Los resultados muestran que el MISN debilitó la autonomía institucional local, intensificó la fragmentación urbana y produjo afectaciones socioeconómicas y culturales sobre comunidades afrodescendientes reubicadas. Se concluye que el MISN operó como un dispositivo de reordenamiento funcional al modelo logístico-portuario nacional, lo que plantea la necesidad de repensar la planificación urbana en territorios étnicos y estratégicos desde enfoques de justicia territorial y autonomía local.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.15446/bitacora.v35n3.119773",
+     "doi": "10.15446/bitacora.v35n3.119773",
+     "paginas": "59-73",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.15446/bitacora.v35n3.122534",
+     "titulo": "La vivienda como artefacto socio-material en Manizales: aspiraciones, apropiación y mercado",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Gregorio Hernández Pulgarín",
+       "orcid": "https://orcid.org/0000-0002-9659-4063"
+      },
+      {
+       "nombre": "Geraldine Buitrago Rodas",
+       "orcid": "https://orcid.org/0009-0009-4534-5823"
+      }
+     ],
+     "resumen": "Este artículo presenta una perspectiva integradora que analiza los valores simbólicos, de uso y de cambio de la vivienda en Manizales, Colombia. Busca comprender cómo los aspirantes y propietarios de sectores medios y populares negocian las tensiones entre los horizontes significativos y aspiracionales, las prácticas de apropiación del espacio doméstico y las restricciones del mercado financiarizado. Se utilizó una metodología cualitativa y documental que incluyó la revisión de fuentes gremiales e institucionales y entrevistas semiestructuradas a personas con aspiraciones de vivienda y a propietarios. Los resultados revelan que la vivienda trasciende su papel económico y material para convertirse en un elemento fundamental para el bienestar, la identidad y el sentido de pertenencia. Las restricciones al acceso a la vivienda configuran su valor de cambio; a pesar de esto, ella preserva su condición de un artefacto que representa estatus, herencia, deuda moral y triunfo, al tiempo que es un bien que ofrece seguridad, comodidad y privacidad.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.15446/bitacora.v35n3.122534",
+     "doi": "10.15446/bitacora.v35n3.122534",
+     "paginas": "74-85",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.15446/bitacora.v35n3.122005",
+     "titulo": "Deuda habitacional como mecanismo socioespacial. Aprendizajes desde Solanda y Carapungo",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Marco Lenin Lara Calderón",
+       "orcid": "https://orcid.org/0000-0002-8395-9932"
+      },
+      {
+       "nombre": "Andrea Cecilia Pacheco Barzallo",
+       "orcid": "https://orcid.org/0000-0002-0930-5148"
+      }
+     ],
+     "resumen": "Desde la década de 1970, varios planes estatales en Ecuador buscaron mitigar el déficit habitacional mediante proyectos de vivienda social para poblaciones de bajos recursos. Este estudio analiza la relación entre deuda y producción del espacio urbano en dos casos emblemáticos: Solanda y Carapungo, ubicados en los extremos sur y norte de Quito. A través de una metodología cualitativa e inductiva basada en entrevistas semiestructuradas a los primeros residentes y deudores, se indaga en los mecanismos utilizados para construir las viviendas y afrontar el endeudamiento. Los hallazgos revelan que, pese a la planificación inicial, las viviendas presentaron serias limitaciones materiales y funcionales, lo que condujo a procesos generalizados de autoconstrucción. La deuda no solo aparece como medio de acceso a la vivienda, sino también como factor configurador del territorio, articulando prácticas de autogestión barrial ante la insuficiencia de respuestas institucionales. El estudio aporta a una lectura crítica del rol de la deuda en la urbanización popular",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.15446/bitacora.v35n3.122005",
+     "doi": "10.15446/bitacora.v35n3.122005",
+     "paginas": "86-98",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.15446/bitacora.v35n3.122452",
+     "titulo": "Mercado de aluguéis e acessibilidade habitacional em Curitiba (2014-2025)",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Giovanna Kapasi Tramujas",
+       "orcid": "https://orcid.org/0009-0005-8352-8779"
+      },
+      {
+       "nombre": "Madianita Nunes da Silva",
+       "orcid": "https://orcid.org/0000-0003-3648-6797"
+      }
+     ],
+     "resumen": "O acesso à habitação adequada em áreas centrais e bem localizadas tem se tornado cada vez mais limitado em razão do aumento dos preços dos aluguéis nos centros urbanos. Este artigo examina a dinâmica do mercado de locação em Curitiba entre 2014 e 2025, destacando a escalada de preços e seus reflexos na acessibilidade habitacional. Com base em dados secundários e técnicas de web scraping, demonstra-se que a narrativa da insuficiência de estoque de imóveis, utilizada para explicar a elevação dos aluguéis, apresenta inconsistências, uma vez que os elevados níveis de vacância expõem um mercado voltado prioritariamente à demanda solvente. Argumenta-se que a valorização imobiliária decorre de mecanismos estruturais ligados à lógica neoextrativista, que em algumas cidades assumem contornos de financeirização. Essa dinâmica se expressa tanto na concentração de ofertas em áreas tradicionalmente mais valorizadas, quanto na expansão do mercado para regiões populares. Conclui-se que, na atualidade, o aluguel exerce papel central na inacessibilidade habitacional, sendo fundamental avançar em políticas habitacionais que questionem os paradigmas vigentes, incluindo a regulação do mercado de aluguéis e a implementação de programas de locação social, a fim de enfrentar a desigualdade no acesso à moradia e assegurar o direito à cidade.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.15446/bitacora.v35n3.122452",
+     "doi": "10.15446/bitacora.v35n3.122452",
+     "paginas": "99-113",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.15446/bitacora.v35n3.122418",
+     "titulo": "Renta inmobiliaria y negación del derecho a la vivienda: el caso del estado de Morelos (México)",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Josemanuel Luna-Nemecio",
+       "orcid": "https://orcid.org/0000-0002-6850-3443"
+      }
+     ],
+     "resumen": "El presente estudio analiza la negación del derecho a la vivienda derivada de la expansión urbana en el estado de Morelos durante el periodo 2018–2025. Se observa que este proceso responde a dinámicas de acumulación de capital propias del neoliberalismo, sustentadas en la captura de renta inmobiliaria por actores privados. El problema de investigación se centró en explicar cómo diversas ciudades morelenses han sido transformadas en activos financieros mediante políticas urbanas, cambios normativos y mecanismos de subsidio que operan como dispositivos al servicio del capital inmobiliario. Para ello se desarrolló un análisis espacial y documental que integró datos georreferenciados, licencias de construcción, indicadores de edificación y registros de inversión pública asociados a proyectos de vivienda vertical en zonas de alto valor inmobiliario y marcada precariedad habitacional. Los resultados muestran un patrón de urbanización intensiva caracterizado por la especulación sobre el espacio construido, la concentración de desarrollos de alto impacto y una reconfiguración del acceso a la vivienda mediada por lógicas de valorización privada. Se concluye que estas dinámicas se vinculan con transformaciones estructurales en el financiamiento habitacional bajo el neoliberalismo mexicano, generando tensiones entre producción urbana, apropiación del suelo y disputas sociales por el territorio.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.15446/bitacora.v35n3.122418",
+     "doi": "10.15446/bitacora.v35n3.122418",
+     "paginas": "114-126",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.15446/bitacora.v35n3.122529",
+     "titulo": "Vivienda, trabajo y reproducción social en la urbanización popular. Hacer ciudad y sostener la vida",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "María del Pilar Isla",
+       "orcid": "https://orcid.org/0009-0001-2197-9145"
+      }
+     ],
+     "resumen": "En este artículo se argumenta que la cuestión habitacional en América Latina no puede reducirse al déficit de vivienda ni a parámetros técnicos, sino que debe comprenderse en su vínculo con el trabajo y la reproducción social. El enfoque teórico se apoya en tres campos: la tradición marxista sobre vivienda y cuestión urbana, los aportes feministas sobre reproducción social y economías populares y los debates latinoamericanos en torno a la urbanización popular. El análisis se organiza en torno a la categoría central de estrategias de mejora habitacional, abordando tres dimensiones analíticas: la integración entre actividades productivas y reproductivas en la vivienda; las redes comunitarias y disputas territoriales; y el vínculo con políticas públicas de mejoramiento del hábitat. La estrategia metodológica es cualitativa y consiste en combinar herramientas conceptuales y empíricas a través del estudio de tres trayectorias habitacionales en dos barrios populares de Mar del Plata (Provincia de Buenos Aires, Argentina). Los resultados obtenidos permiten avanzar más allá de la noción de informalidad y aportan evidencia para sostener que los procesos de urbanización popular son prácticas de producción del espacio-tiempo donde la reproducción de la vida demanda una reposición cotidiana de las condiciones materiales del hábitat.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.15446/bitacora.v35n3.122529",
+     "doi": "10.15446/bitacora.v35n3.122529",
+     "paginas": "127-140",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.15446/bitacora.v35n3.120130",
+     "titulo": "Habitar como cuidar. Espacialidades relacionales en un asentamiento informal de Coquimbo, Chile",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Andrés Hurtado",
+       "orcid": "https://orcid.org/0000-0001-9117-7052"
+      },
+      {
+       "nombre": "Walter Imilan",
+       "orcid": "https://orcid.org/0000-0002-2478-8176"
+      }
+     ],
+     "resumen": "En Chile, durante los últimos años, ha aumentado la diversidad de asentamientos informales que, pese a las oportunidades que abren a sus habitantes, siguen siendo leídos como espacios residenciales transitorios marcados por la marginalidad urbana. Sin embargo, muchos de ellos hoy se proyectan como hábitats residenciales definitivos, en los que convergen trayectorias, saberes y prácticas diversas. Con una perspectiva etnográfica, estudiamos cómo, en un campamento con más de 10 años de historia en la ciudad de Coquimbo, el proceso de configuración espacial y sociomaterial se articula en torno a relaciones afectivas, sensibilidades ecológicas y aspiraciones que producen ambientes de vida. El texto presenta tres relatos construidos a partir de experiencias de habitantes del campamento, que permiten identificar una espacialidad basada en relaciones que, de forma amplia, pueden ser entendidas desde los cuidados. En la historia de sus habitantes, el campamento deviene una infraestructura que sostiene la vida, un proceso inacabado y permanente. El artículo contribuye a los debates sobre informalidad urbana al mostrar cómo los cuidados se configuran como una dimensión clave en la consolidación socioespacial de asentamientos con vocación de permanencia.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.15446/bitacora.v35n3.120130",
+     "doi": "10.15446/bitacora.v35n3.120130",
+     "paginas": "141-154",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.15446/bitacora.v35n3.122565",
+     "titulo": "Vivienda adecuada e interseccionalidad en México. Etnicidad y género en zonas urbanas",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Carmen Elena Arroyo Rodríguez",
+       "orcid": "https://orcid.org/0000-0001-5389-8174"
+      },
+      {
+       "nombre": "Alba Eritrea Gámez Vázquez",
+       "orcid": "https://orcid.org/0000-0002-4324-0384"
+      }
+     ],
+     "resumen": "En este artículo se analizan el hábitat y las políticas urbanas centradas en el derecho humano a la vivienda adecuada en México desde una perspectiva interseccional que articula género y etnicidad. Con base en estadísticas oficiales, el marco constitucional mexicano, políticas públicas vigentes y un estudio de caso, se discute la periferización de grupos poblacionales en condición de vulnerabilidad por género y los obstáculos de quienes padecen discriminación étnica, comprometiendo su habitar la ciudad. Los resultados muestran que, pese al reconocimiento constitucional de ese derecho, mujeres y población indígena en condición de vulnerabilidad, menos aún cuando comparten ambos rasgos, no disfrutan en plenitud su derecho humano a la vivienda. El enfoque interseccional aplicado al derecho a la vivienda en el ámbito de los estudios urbano-territoriales evidencia la invisibilización de un grueso de la población urbanizada, sobre la que son escasos los datos desagregados y la manifestación de su voz; así como la necesidad de una política del hábitat que rescate la dignidad como fundamento del derecho a vivienda, desde su planteamiento filosófico y jurídico.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.15446/bitacora.v35n3.122565",
+     "doi": "10.15446/bitacora.v35n3.122565",
+     "paginas": "155-165",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.15446/bitacora.v35n3.122210",
+     "titulo": "Financiarización habitacional: hacia una economía política del hábitat y la justicia socioespacial en América Latina",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Fernando A. Ramos-Zaga",
+       "orcid": "https://orcid.org/0000-0001-6301-9460"
+      },
+      {
+       "nombre": "Andherson J. Aguirre-Lanegra",
+       "orcid": "https://orcid.org/0009-0005-4201-1220"
+      }
+     ],
+     "resumen": "La financiarización habitacional se ha consolidado como una de las transformaciones estructurales más profundas del capitalismo contemporáneo, al subordinar la vivienda a la lógica del capital financiero y convertirla en instrumento de control social. Este estudio analiza críticamente la financiarización habitacional como un régimen de acumulación, poder y gobierno que reconfigura la acción estatal y la gobernanza urbana en América Latina, proponiendo estrategias de desmercantilización orientadas a la justicia socioespacial. Los resultados muestran que la vivienda opera como eje central de un modelo de acumulación por desposesión basado en deuda, propiedad y territorialización desigual, sostenido por un Estado que actúa como mediador del capital rentista. Sin embargo, emergen alternativas como el cooperativismo y el crédito público, que expresan formas de gestión solidaria. Se concluye que la transición hacia una economía política del espacio justa requiere recuperar la función social del hábitat, fortalecer la fiscalidad progresiva y democratizar la gobernanza territorial.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.15446/bitacora.v35n3.122210",
+     "doi": "10.15446/bitacora.v35n3.122210",
+     "paginas": "166-177",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.15446/bitacora.v35n3.123123",
+     "titulo": "Financiarización de la vivienda y plataformas digitales en México: de la propiedad al alquiler",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Luis Alberto Salinas Arreortua",
+       "orcid": "https://orcid.org/0000-0002-0983-3629"
+      },
+      {
+       "nombre": "María Barrero Rescalvo",
+       "orcid": "https://orcid.org/0000-0002-5013-7553"
+      }
+     ],
+     "resumen": "La creciente vinculación entre los sectores financiero, tecnológico e inmobiliario está transformando ampliamente el mercado de la vivienda en América Latina. La propiedad, como elemento central para el acceso en el mercado formal de vivienda, coexiste con la cada vez mayor oferta de vivienda en alquiler. Esta situación se produce en el contexto de la financiarización del mercado inmobiliario, dinamizado de manera importante mediante plataformas digitales y tecnologías inmobiliarias (Proptech). En México, Airbnb concentra y monopoliza el mercado del alquiler (mayoritariamente temporal), en donde opera un amplio abanico de actores, desde pequeños propietarios hasta grandes fondos de inversión internacionales, que despliegan diferentes estrategias ante las perspectivas de regulación. El objetivo del presente trabajo se centra en articular de forma reflexiva la financiarización de la vivienda en alquiler y la expansión de las plataformas de alquiler temporal, poniendo de ejemplo el caso de la Ciudad de México. Para ello, se realiza una revisión de literatura existente y de fuentes secundarias. Finalmente, se destaca que en los últimos años se ha intensificado el conflicto, la competencia y la actividad política de las diferentes facciones vinculadas a la financiarización de la vivienda en alquiler, un reflejo del auge e importancia de este fenómeno.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.15446/bitacora.v35n3.123123",
+     "doi": "10.15446/bitacora.v35n3.123123",
+     "paginas": "178-189",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.15446/bitacora.v35n3.122521",
+     "titulo": "Nuestras viviendas en sus carteras de inversión. Centralización socioespacial del stock de Airbnb en Medellín",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Luis Daniel Santana Rivas",
+       "orcid": "https://orcid.org/0000-0003-4855-5710"
+      },
+      {
+       "nombre": "Alejandro Aristizábal Silva",
+       "orcid": "https://orcid.org/0000-0001-5484-6106"
+      }
+     ],
+     "resumen": "Uno de los elementos constitutivos del actual proceso turistificador que se da en Medellín es un activo mercado de inmuebles de rentas cortas, que ha ampliado las esferas de la reproducción de capitales financiero-inmobiliarios. Esa irrupción, rápida en términos temporales y extensiva espacialmente, se ha dado bajo dos modalidades: la conversión de inmuebles del parque habitacional en residencias turísticas y el desarrollo de nuevos productos inmobiliarios ah hoc. Así, el objetivo del artículo es indagar qué tan centralizada está la propiedad o gestión de viviendas transformadas en activos transados en la plataforma Airbnb -sobre todo del primer tipo- y cómo se distribuyen espacialmente en el territorio medellinense. A partir de la identificación de la cantidad y tipo de inmuebles asociados a los ‘hosts’ se identificaron diferentes agentes, sus posiciones en el mercado y la disposición espacial de sus activos. Se evidencia que, a diferencia del imaginario de un mercado descentralizado, se presentan tendencias monopólicas que sugieren que buena parte del stock de Airbnb corresponde a carteras de inversión con una planificación espacial selectiva en la localización de sus activos, con un gran impacto concreto y potencial en la geografía social de la ciudad.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.15446/bitacora.v35n3.122521",
+     "doi": "10.15446/bitacora.v35n3.122521",
+     "paginas": "190-203",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.15446/bitacora.v35n3.120146",
+     "titulo": "La relación centro-periferia en la planeación regional antioqueña",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Olga Lucía Zapata Cortés",
+       "orcid": "https://orcid.org/0000-0001-7559-5035"
+      }
+     ],
+     "resumen": "Aprovechando los lineamientos que desde el ámbito internacional se desplegaron para la intervención de los territorios atrasados, el gobierno antioqueño se propuso equilibrar el desarrollo territorial del departamento a partir de la definición de un centro y una periferia, y de la relación entre estos. Parte de la forma como estos espacios se construyeron y relacionaron han sido divulgados en los planes de desarrollo formulados para el departamento de Antioquia durante el periodo 1963-2020. En este sentido, este texto pretende reflexionar sobre sobre la relación centro-periferia y la forma como se ha producido y movilizado en la planificación regional antioqueña, a partir de una aproximación conceptual circunscrita a los imaginarios geográficos y las narrativas de la planificación territorial. La principal línea de reflexión descansa en las diferentes asociaciones que se produjeron de la periferia, en contraste con las del centro. Sobresale el imaginario de la macrocefalia del centro, el cual se ha mantenido hasta la actualidad.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.15446/bitacora.v35n3.120146",
+     "doi": "10.15446/bitacora.v35n3.120146",
+     "paginas": "204-217",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.15446/bitacora.v35n3.120142",
+     "titulo": "Densificación urbana en ciudades intermedias de zonas áridas. Interacciones forma-temperatura en el área metropolitana de Mendoza",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "María Belén Sosa",
+       "orcid": "https://orcid.org/0000-0002-0141-442X"
+      },
+      {
+       "nombre": "Erica Norma Correa",
+       "orcid": "https://orcid.org/0000-0003-1690-076X"
+      }
+     ],
+     "resumen": "Un tercio de la población mundial habita en urbes con climas cálidos y áridos, cuyas condiciones para bioclimatizar los espacios exteriores e interiores son demandantes. En este contexto, la evaluación de los efectos de la forma urbana sobre el microclima resulta fundamental para el desarrollo urbano sostenible. El presente estudio persigue analizar y cuantificar las interacciones forma-temperatura del aire exterior, en el contexto de una ciudad árida y cálida en proceso de expansión y densificación. Para ello, se realiza una evaluación del impacto térmico del cambio de la densidad edilicia y la compacidad considerando diversas formas de tramas a escala de barrio. Se modela y ajusta el comportamiento microclimático de 3 barrios utilizando el software ENVI-met. Los resultados muestran que, el aumento de la densidad no necesariamente compromete el desempeño térmico, y que mantener un valor constante de compacidad disminuye el impacto térmico dentro de un barrio. Este estudio busca promover la evaluación y el diagnóstico microclimático en áreas urbanas consolidadas y en desarrollo, como herramienta clave para definir estrategias que reduzcan los efectos de la urbanización sobre el clima, el consumo energético, la salud y calidad de vida de los ciudadanos.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.15446/bitacora.v35n3.120142",
+     "doi": "10.15446/bitacora.v35n3.120142",
+     "paginas": "218-230",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.15446/bitacora.v35n3.120125",
+     "titulo": "Modelo habitacional participativo para comunidades kichwas amazónicas",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Karina Alexandra Chérrez Rodas",
+       "orcid": "https://orcid.org/0000-0001-6330-3955"
+      },
+      {
+       "nombre": "Leonardo Francisco Coloma Casañas",
+       "orcid": "https://orcid.org/0009-0009-8643-4566"
+      }
+     ],
+     "resumen": "Este estudio analiza las dinámicas habitacionales y territoriales de comunidades kichwas en las periferias urbanas amazónicas de Tena, Ecuador, enfocándose en la producción social del hábitat desde metodologías participativas. Ante la invisibilización histórica de estas comunidades en las políticas públicas, se propone una alternativa a los modelos estandarizados de vivienda estatal mediante la construcción del modelo de Comunidad Productiva Amazónica (CPA). El enfoque metodológico cualitativo se sustentó en herramientas como cartografías sociales, entrevistas y talleres participativos, permitiendo identificar tres dimensiones clave: la organización social basada en familias extensas, la economía sustentada en actividades productivas tradicionales (chacra, artesanías, cría de animales, medicina natural), y las carencias habitacionales que no responden a las formas culturales de habitar. La propuesta CPA integra vivienda, espacios productivos y de gestión comunitaria, articulados desde la cosmovisión kichwa. La propuesta de programa habitacional incluye lotes para vivienda unifamiliar y terrenos colectivos para actividades culturales y agrícolas, promoviendo sostenibilidad, apropiación e identidad cultural. Este trabajo busca incidir en políticas públicas para construir soluciones habitacionales interculturales y contextualizadas, reconociendo a las periferias amazónicas como territorios estratégicos en la planificación urbana.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.15446/bitacora.v35n3.120125",
+     "doi": "10.15446/bitacora.v35n3.120125",
+     "paginas": "231-245",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.15446/bitacora.v35n3.120138",
+     "titulo": "Inteligencia híbrida e innovación urbana. Análisis de Casos",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Ricardo García Vegas",
+       "orcid": "https://orcid.org/0000-0001-9805-5410"
+      },
+      {
+       "nombre": "Pedro Marcos García López",
+       "orcid": "https://orcid.org/0009-0000-2181-3076"
+      }
+     ],
+     "resumen": "Este artículo analiza el potencial transformador de la inteligencia híbrida —entendida como la combinación de inteligencia humana, colectiva y artificial— en los procesos de innovación urbana. A partir de una metodología cualitativa basada en el estudio de casos, se examinan tres experiencias internacionales que ilustran cómo esta articulación de inteligencias permite configurar nuevas formas de acción pública orientadas a la resolución de desafíos sociales complejos en las ciudades. Los casos analizados muestran que la incorporación de tecnologías de inteligencia artificial, combinadas con la participación ciudadana y la colaboración multisectorial, puede ampliar las capacidades de los gobiernos locales en términos de innovación, análisis de datos, toma de decisiones y diseño de políticas públicas más inclusivas. El artículo identifica cuatro dimensiones clave que emergen de estas experiencias: empoderamiento digital, sinergia entre inteligencias, colaboración intersectorial y uso estratégico de las narrativas.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.15446/bitacora.v35n3.120138",
+     "doi": "10.15446/bitacora.v35n3.120138",
+     "paginas": "246-257",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.15446/bitacora.v35n3.119756",
+     "titulo": "Dynamics of rural land conversion to urban land. Territorial analysis and prospective",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "María F. Cárdenas",
+       "orcid": "https://orcid.org/0000-0002-1804-6280"
+      },
+      {
+       "nombre": "Jhon F. Escobar",
+       "orcid": "https://orcid.org/0000-0002-6826-6222"
+      }
+     ],
+     "resumen": "Cities are the result of complex relationships within various actors in a territory. Understanding and predicting their growth can be challenging, but prospective techniques, and long-term planning, may help mitigate uncertainty. This article analyzes the factors that determine urban growth in Montería, Colombia, and proposes prospective scenarios by the year 2033. Geographic information and secondary data were used to identify transformations, along with expert analysis and structural equation techniques, which helped consolidate growth factors. The results show that there are factors that trigger and drive urban growth, often unexpected or less intuitive. They also offer a new perspective on the articulation of territorial foresight techniques, since structural equations made it possible to identify the significance and direction of the variables' influences within and between macrocategories. This facilitates expert consultation and the construction of prospective scenarios. Understanding the factors of urban growth and prospective scenarios, which do not always coincide with the desired and planned scenarios, provides decision-makers with tools to correct and reorient urban development.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.15446/bitacora.v35n3.119756",
+     "doi": "10.15446/bitacora.v35n3.119756",
+     "paginas": "258-271",
+     "fuente": "Crossref"
+    }
+   ]
+  }
+ ]
+};

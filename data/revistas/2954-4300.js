@@ -1,0 +1,1789 @@
+// Copia de revistas/2954-4300.json para abrir la aplicación sin servidor.
+(window.DATOS_REVISTAS = window.DATOS_REVISTAS || {})["revistas/2954-4300.json"] = {
+ "version": 1,
+ "generado": "2026-10-18T05:53:59+00:00",
+ "es_prueba": false,
+ "revista": {
+  "id": "2954-4300",
+  "titulo": "Bajo el Volcán: Revista del Posgrado de Sociología. BUAP",
+  "idioma_titulo": null,
+  "titulo_alternativo": null,
+  "idioma_titulo_alternativo": null,
+  "idiomas": [
+   "es",
+   "en",
+   "pt"
+  ],
+  "issn_impreso": null,
+  "issn_electronico": "2954-4300",
+  "editorial": "Alfonso García Vela",
+  "pais": "MX",
+  "materias": [
+   "Sociology (General)"
+  ],
+  "palabras_clave": [
+   "sociology",
+   "critical theory",
+   "marxism",
+   "feminism",
+   "social movements",
+   "critical thinking"
+  ],
+  "licencias": [
+   {
+    "nombre": "CC BY-NC-SA 4.0",
+    "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+   }
+  ],
+  "url": "https://bajoelvolcanx.buap.mx/index.php/bajovolc/index",
+  "url_doaj": "https://doaj.org/toc/2954-4300",
+  "descripcion": null,
+  "fuente_ficha": "DOAJ",
+  "archivo": "revistas/2954-4300.json",
+  "ultimo_numero": "Publicación continua (2026)",
+  "fuente_numeros": "Crossref"
+ },
+ "numeros": [
+  {
+   "id": "2026",
+   "volumen": null,
+   "numero": null,
+   "anio": 2026,
+   "fecha": "2026-06-02",
+   "etiqueta": "Publicación continua (2026)",
+   "fuente": "Crossref",
+   "articulos": [
+    {
+     "id": "10.32399/icsyh.bvbuap.2954-4300.2026.7.14.901",
+     "titulo": "Respuestas juveniles a contextos de discriminación",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Hugo César Moreno Hernández",
+       "orcid": null
+      },
+      {
+       "nombre": "Alejandra Ramírez López",
+       "orcid": null
+      },
+      {
+       "nombre": "Perla Medina Aguilar",
+       "orcid": null
+      }
+     ],
+     "resumen": "Las juventudes en México viven atravesadas por un complejo entramado de desigualdades que se manifiestan en el trabajo, el cuerpo, el territorio y, en su límite más extremo, en la violencia desciudadanizante y juvenicida. Sin embargo, incluso en escena-rios marcados por la precarización y la discriminación estructural, las juventudes despliegan formas de agencia que desbordan las narrativas que históricamente las han colocado como población “de riesgo”, “vulnerable”, “pasiva” o “problemática”. Este dossier reúne investigaciones que, desde metodologías cualitativas, cuantitativas y mixtas, dialogan con una perspectiva que entiende la experiencia juvenil como un campo social de elaboración de sentido, en el cual las y los jóvenes no sólo reaccionan frente a las estructuras que los atraviesan, sino que interpretan, negocian y reconfiguran su posición en el mundo social. La experiencia juvenil no se limita a un conjunto de vivencias individuales, sino que se constituye como una forma situada de habitar la desigualdad, el riesgo y la incertidumbre, produciendo prácticas, narrativas y formas de socialidad que permiten sostener la vida cotidiana incluso en contextos adversos. Desde esta perspectiva, comprender las respuestas juveniles implica atender a las formas en que las juventudes construyen sentido, producen comu",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.32399/icsyh.bvbuap.2954-4300.2026.7.14.901",
+     "doi": "10.32399/icsyh.bvbuap.2954-4300.2026.7.14.901",
+     "paginas": "9-16",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.32399/icsyh.bvbuap.2954-4300.2026.7.14.870",
+     "titulo": "Espacio urbano, precariedad laboral y agencia en el reparto de última milla en México: Jóvenes trabajando para Amazon Flex y Mercado Libre Envíos Extra",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "José Cerón Hernádez",
+       "orcid": null
+      }
+     ],
+     "resumen": "El artículo analiza la experiencia juvenil en el trabajo de reparto de última milla en México, a través de los casos de Amazon Flex y Mercado Libre Envíos Extra. Desde una perspectiva urbano-laboral, se demuestra que la ciudad —lejos de ser un telón de fondo— media y intensifica la precariedad laboral. La morfología urbana, las fricciones de acceso y la inseguridad convierten lo urbano en una condición material que externaliza costos, tiempos no pagados y riesgos hacia lxs jóvenes repartidorxs, mientras el control algorítmico individualiza estas fallas como “incidencias”. Frente a esto, emerge una agencia territorial juvenil basada en saberes espaciales, reordenamiento táctico de rutas y redes digitales de cuidado, que amortigua pero no revierte la asimetría estructural. La investigación concluye que comprender este ensamblaje entre plataforma, ciudad y juventud es clave para diseñar políticas públicas que enfrenten la doble vulnerabilidad: laboral y espacial.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.32399/icsyh.bvbuap.2954-4300.2026.7.14.870",
+     "doi": "10.32399/icsyh.bvbuap.2954-4300.2026.7.14.870",
+     "paginas": "17-43",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.32399/icsyh.bvbuap.2954-4300.2026.7.14.868",
+     "titulo": "\"Era una desesperación por no tener dinero”: precariedad afectiva y estrategias de vida digital de jóvenes nenis",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Belem Quezada Díaz",
+       "orcid": "https://orcid.org/0000-0002-9378-1111"
+      }
+     ],
+     "resumen": "El fenómeno de las nenis (mujeres que comercializan productos a través de redes sociales digitales) constituye una expresión contemporánea de la precarización laboral, profundamente afectada por desigualdades de género, economías del cuidado y formas emergentes de trabajo digital informal. A partir de herramientas etnográficas y siete entrevistas a profundidad a mujeres jóvenes (de entre 22-32 años) que se dedican a esta actividad, muestran que la entrada a este trabajo responde a trayectorias laborales interrumpidas por despidos, maternidad, discriminación de género y la imposibilidad de acceder a empleos formales decentes. La venta digital se sostiene en una organización del tiempo fragmentada, donde el trabajo productivo se superpone al trabajo doméstico de cuidados, generando dobles y triples jornadas. La digitalización del trabajo introduce nuevas vulnerabilidades como dependencia de plataformas, censura algorítmica y saturación competitiva. La investigación da cuenta que esta actividad remunerada informal es simultáneamente una estrategia de sobrevivencia y un espacio de agencia situada.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.32399/icsyh.bvbuap.2954-4300.2026.7.14.868",
+     "doi": "10.32399/icsyh.bvbuap.2954-4300.2026.7.14.868",
+     "paginas": "44-71",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.32399/icsyh.bvbuap.2954-4300.2026.7.14.864",
+     "titulo": "Pensar la moda en clave juvenil",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Angela Rivera Martinez",
+       "orcid": "https://orcid.org/0009-0000-3304-0808"
+      }
+     ],
+     "resumen": "Desde el año 2016 al interior de la industria de la moda en México se han suscitado algunos cambios que apuntan hacia desestabilizar algunas normatividades referidas a los estándares de belleza en México. Esos potenciales cambios han abierto posibilidades laborales para jóvenes que, en periodos anteriores, la industria no se encontraba dentro de sus horizontes de posibilidades vitales. Sin embargo, este aumento de “representación” mediática, fenómeno que ha sido conocido bajo la etiqueta de “belleza mexicana”, ha traído consigo una serie de problemáticas al interior de una industria profundamente juvenilizada y, por defecto, precarizada. En este artículo pretendo trazar una primera aproximación sobre los hallazgos respecto del trabajo juvenil en la industria de la moda, sus problemáticas, procesos en curso y distintas estrategias para sortear las particularidades de este campo. Las y los jóvenes que trabajan, se enfrentan a un fuerte aumento de la representación mediática, no obstante, hay una marcada disminución de sus garantías laborales y vitales. Para la investigación, enmarcada en una estancia posdoctoral aún en curso, se han realizado entrevistas a especialistas, modelos y trabajadores de la industria de la moda en la Ciudad de México a la par de etnografías conectivas.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.32399/icsyh.bvbuap.2954-4300.2026.7.14.864",
+     "doi": "10.32399/icsyh.bvbuap.2954-4300.2026.7.14.864",
+     "paginas": "72-100",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.32399/icsyh.bvbuap.2954-4300.2026.7.14.875",
+     "titulo": "Certámenes de belleza y agencia juvenil. El caso de La Reina de las Fiestas Patrias en Iztacalco, CDMX",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Sonia Guadalupe Contreras Medina",
+       "orcid": null
+      }
+     ],
+     "resumen": "El presente artículo tiene como objetivo dar a conocer las voces de las mujeres jóvenes participantes del certamen nombrado Reina de las Fiestas Patrias, que se lleva a cabo año con año en la Alcaldía Iztacalco, de la Ciudad de México. El análisis presentado se realiza desde la perspectiva de género y los estudios de la juventud, pues ambas miradas nos permiten dilucidar que si bien los certámenes de belleza parten de una base androcéntrica y adultocéntrica, y en los últimos años han sido ubicados como violencia simbólica; hay un espacio para la agencia de las jóvenes participantes al cuestionar y confrontar los estereotipos de género y los ideales de belleza femenina establecidos en dichos eventos. Además, enuncian que resultan ser espacios de encuentro, aprendizaje, participación comunitaria y socialización con sus pares, los cuales les permite desarrollar habilidades y capacidades que les parecen valiosas para aplicarlos en otros ámbitos de su vida social.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.32399/icsyh.bvbuap.2954-4300.2026.7.14.875",
+     "doi": "10.32399/icsyh.bvbuap.2954-4300.2026.7.14.875",
+     "paginas": "101-126",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.32399/icsyh.bvbuap.2954-4300.2026.7.14.866",
+     "titulo": "Juventudes rurales y diversidad sexual desde la experiencia de “Cuquío Pride” en Jalisco, México",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "David Sánchez Sánchez",
+       "orcid": "https://orcid.org/0000-0002-8725-2053"
+      },
+      {
+       "nombre": "Manuel Fernando Rodriguez Esparza",
+       "orcid": null
+      }
+     ],
+     "resumen": "El artículo presenta una recuperación reflexiva de la experiencia de la primera marcha de la diversidad sexual realizada en el municipio rural de Cuquío, Jalisco, México en junio de 2021. Metodológicamente se exploran los enfoques horizontales y colaborativos, para la producción de conocimiento y de escritura, así como la autoetnografìa asumiendo la voz de los autores. Analíticamente se señalan las implicaciones de abrir un espacio de posicionamiento público para la visibilidad de la diversidad sexual en un contexto rural ranchero, históricamente conservador; por parte de juventudes que se atreven a cuestionar los roles de género tradicionales y el lugar marginal asignado a la diversidad. Se señala como la condición juvenil rural es heterogénea y si bien está determinada por situaciones estructurales y territoriales concretas, esta manifestación es un ejemplo de las potencialidades que pueden surgir cuando las y los jóvenes se asumen como actores sociales que aspiran a mejorar sus condiciones de vida.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.32399/icsyh.bvbuap.2954-4300.2026.7.14.866",
+     "doi": "10.32399/icsyh.bvbuap.2954-4300.2026.7.14.866",
+     "paginas": "127-163",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.32399/icsyh.bvbuap.2954-4300.2026.7.14.867",
+     "titulo": "Juventudes y desigualdades en la escuela secundaria: Tensiones y alcances de las políticas sociales de componente educativo en las trayectorias escolares",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Nery Facundo Rauch",
+       "orcid": "https://orcid.org/0000-0002-4226-5862"
+      },
+      {
+       "nombre": "Pamela Magnoli",
+       "orcid": "https://orcid.org/0009-0004-7904-7481"
+      }
+     ],
+     "resumen": "Este artículo analiza la incidencia de las Políticas de Componente Educativo (PCE) en las trayectorias educativas de jóvenes en contextos de vulnerabilidad durante el ciclo orientado de la escuela secundaria. Mediante una metodología cuantitativa y un diseño longitudinal, se examina la incidencia de las PCE -en virtud de desigualdades subyacentes- en la evolución de las trayectorias escolares. La investigación se desarrolló en tres aglomerados urbanos de Argentina (Conurbano, Río Cuarto y Salta) y utiliza fuentes primarias recolectadas a través de cuestionarios aplicados a una misma cohorte en 2022, 2023 y 2024. Como principal hallazgo se destaca la contribución de las PCE en la sostenibilidad del vínculo en los grupos más vulnerabilizados, pero la insuficiencia para que éste sea paritario con respecto a los sectores en mejores condiciones socioeducativas.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.32399/icsyh.bvbuap.2954-4300.2026.7.14.867",
+     "doi": "10.32399/icsyh.bvbuap.2954-4300.2026.7.14.867",
+     "paginas": "164-195",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.32399/icsyh.bvbuap.2954-4300.2026.7.14.889",
+     "titulo": "Juvenicidio y necropolítica en México",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Diego Armando Hernández Cruz",
+       "orcid": "https://orcid.org/0000-0002-6697-4495"
+      },
+      {
+       "nombre": "Marco Alejandro Núñez González",
+       "orcid": "https://orcid.org/0000-0001-8212-1778"
+      }
+     ],
+     "resumen": "El homicidio de personas en México, provocado por los grupos del narcotráfico que operan en el país y por las fuerzas de seguridad nacional, ha generado una crisis social y civilizatoria con más de 500 mil muertos en los últimos 19 años y 120 mil desaparecidos, siendo los jóvenes un componente fundamental para la reproducción vital del capital y de los grupos armados. Este trabajo ofrece una mirada estadística e histórica sobre los homicidios y las desapariciones forzadas de jóvenes en México durante el periodo 2006-2024. A través del estudio documental y estadístico, se presentan y analizan tres sexenios y los escenarios necropolíticos y juvenicidas, proponiendo replantear las estrategias fallidas de seguridad, fortalecer la lucha por la justica y avanzar hacia la construcción de sociedades de paz y posnarcotráfico",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.32399/icsyh.bvbuap.2954-4300.2026.7.14.889",
+     "doi": "10.32399/icsyh.bvbuap.2954-4300.2026.7.14.889",
+     "paginas": "196-226",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.32399/icsyh.bvbuap.2954-4300.2026.7.14.876",
+     "titulo": "Necropolíticas y la precarización de la vida",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Ricardo Carlos Ernesto González",
+       "orcid": "https://orcid.org/0000-0001-7484-3842"
+      }
+     ],
+     "resumen": "El estudio de la violencia ha sido una tarea recurrente de múltiples disciplinas en las Ciencias Humanas y Sociales. Por ello, su construcción conceptual se ha sometido a constantes transformaciones que van desde planteamientos que individualizan sus explicaciones, hasta nociones enfocadas en las dimensiones de su administración global. No obstante, una de las recurrencias en estos enfoques ha sido que la violencia siempre está acompañada de otros procesos que, en mayor o menor medida, impactan en su mantenimiento y reproducción. En este sentido, concebirla como violencia social (Imbert, 1992) es el primer paso para integrar las conexiones que existen entre sus diversas formas de manifestación en la vida cotidiana. De tal modo, las dinámicas sociales no solo están marcadas por la agencia individual, sino que también se encuentran determinadas por condiciones políticas que ejercen control sobre las condiciones de vida y las diversidades de las poblaciones. Tal es el caso de la biopolítica (Foucualt, 2007), que visibiliza las condiciones de disciplinamiento para la vida, o, para este estudio, la necropolítica (Mbembe, 2011), que representa la gestión de las formas de morir mediante la ejecución de los poderes fácticos; siendo las migraciones contemporáneas un ejemplo patente a nivel global. En este texto, se propone una ruta de análisis sociológico crítico, centrada en los conceptos de necropolítica y violencia social, para incentivar a una interpretación profunda de esos fenomenos sociales que generan formas complejas de violencia sobre los sujetos. Estos primeros recursos conceptuales se complementan con las propuestas: anulación de la vida social violenta y escenarios hostiles, derivando en la propuesta conceptual de aniquilamiento continuum. La aplicación se enmarca en las interacciones experimentadas por los jóvenes en desplazamiento forzado hacia la frontera entre México y Estados Unidos. Este tránsito está marcado por contextos de violencia social ejercida desde el Crimen Organizado y las Fuerzas Armadas del Estado, estructuras que buscan legitimarse a través del discurso de la paz institucional y la ejecución de políticas de olvido y abandono social. Para el abordaje empírico, se emplearán metodologías cualitativas e interpretativas, específicamente la etnografía multisituada y las entrevistas narrativas.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.32399/icsyh.bvbuap.2954-4300.2026.7.14.876",
+     "doi": "10.32399/icsyh.bvbuap.2954-4300.2026.7.14.876",
+     "paginas": "227-252",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.32399/icsyh.bvbuap.2954-4300.2026.7.14.887",
+     "titulo": "Entre ruinas del Estado y constelaciones comunitarias: genealogías y posibilidades contemporáneas de la política no estatal",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Francisco Javier Gómez Carpinteiro",
+       "orcid": null
+      }
+     ],
+     "resumen": "Este artículo examina la posibilidad de una política no estatal a partir del antagonismo histórico entre Estado y comunidad. Partiendo de una crítica del Estado como forma de mando que produce sujetos legibles y gobernables, se recuperan genealogías de sociedades que han organizado la vida colectiva sin estructuras permanentes de dominación, desde los planteamientos de Pierre Clastres (2008) y James C. Scott (2009, 2021) hasta la experiencia moderna de la Comuna de París. Sobre esta base, se analizan reaperturas contemporáneas de organización desde abajo -el zapatismo, el confederalismo democrático kurdo y los comunes urbanos- como constelaciones comunitarias que reactivan memorias largas de autogobierno. Finalmente, se examinan las fuerzas de clausura estatal y capitalista que enfrentan estas experiencias, así como su persistente capacidad de reabrir la imaginación política. Más que modelos acabados, estas prácticas revelan que la política no estatal constituye una posibilidad histórica recurrente y no una utopía futura.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.32399/icsyh.bvbuap.2954-4300.2026.7.14.887",
+     "doi": "10.32399/icsyh.bvbuap.2954-4300.2026.7.14.887",
+     "paginas": "254-275",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.32399/icsyh.bvbuap.2954-4300.2026.7.14.860",
+     "titulo": "Comunicación Afectiva Bio-Mediada. Cuerpo, Colonización y Morenitúd",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Ali Lara",
+       "orcid": null
+      }
+     ],
+     "resumen": "En este texto llamo comunicación afectiva bio-mediada a la articulación de recursos orgánicos de procesamiento y respuesta de información implicados en procesos materiales que conectan cuerpos humanos. En la primera sección me concentro en las capacidades comunicativas de los cuerpos expresadas a través de la sugestión, la mimesis y el contagio en sus diversas modalidades; discuto los linajes teóricos de estos conceptos y los enmarco como formas de transmisión afectiva en los estudios del afecto. En la segunda sección ilustro dos efectos raciales de la comunicación bio-mediada en el contexto de la producción afectiva de la colonización: los registros afectivos y propensiones relacionales de los cuerpos morenos hacia sí mismos y otros grupos raciales.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.32399/icsyh.bvbuap.2954-4300.2026.7.14.860",
+     "doi": "10.32399/icsyh.bvbuap.2954-4300.2026.7.14.860",
+     "paginas": "276-304",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.32399/icsyh.bvbuap.2954-4300.2026.7.14.855",
+     "titulo": "Acumulación por desposesión y resistencia territorial en el Valle del Mezquital en el estado de Hidalgo",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Víctor González González",
+       "orcid": "https://orcid.org/0000-0002-2101-1249"
+      },
+      {
+       "nombre": "Ana Lilia Maturano López",
+       "orcid": "https://orcid.org/0000-0002-7721-1821"
+      }
+     ],
+     "resumen": "El objetivo del artículo es mostrar el impacto de la globalización neoliberal en el Valle del Mezquital en el estado de Hidalgo mediante proyectos públicos y privados con hondas consecuencias en la salud, zonas sagradas, agrícolas y en el medio ambiente. impulsando el surgimiento de una oleada de resistencias sociales. En las regiones rurales de México se han implementado proyectos que incorporan recursos, territorios y poblaciones indígenas y campesinas a la acumulación de capital. Este es el caso del Valle del Mezquital, una región semiárida, sin aparentes recursos atractivos para la inversión del capital, que por décadas se caracterizó por la pobreza, el abandono y el caciquismo, pero al iniciar el siglo XXI tanto empresas y gobierno han impulsado inversiones en la región. Este cambio se realiza porque la acumulación por desposesión ha desvalorizado las regiones rurales para insertarlas de lleno en la lógica del capital, mediante proyectos que pretenden realizarse en territorios donde los habitantes han construido formas de vida y resistencia. Estos proyectos nocivos para la salud, dañan el territorio y obras colectivas de riego realizadas por los pobladores, generando resistencias en las comunidades de los municipios de Zimapán, Chapantongo, Santiago de Anaya, e Ixmiquilpan.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.32399/icsyh.bvbuap.2954-4300.2026.7.14.855",
+     "doi": "10.32399/icsyh.bvbuap.2954-4300.2026.7.14.855",
+     "paginas": "305-336",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.32399/icsyh.bvbuap.2954-4300.2026.7.14.857",
+     "titulo": "Empoderando el pluriverso: posibilidades y retos para las transiciones energéticas decoloniales en la Sierra Norte de Puebla, México",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Erik Post",
+       "orcid": null
+      },
+      {
+       "nombre": "Marisol Rosas Pérez",
+       "orcid": null
+      },
+      {
+       "nombre": "Lázaro Hernández Pérez",
+       "orcid": null
+      },
+      {
+       "nombre": "María Edith Mora Báez",
+       "orcid": null
+      },
+      {
+       "nombre": "Bardomiano Sánchez Martínez",
+       "orcid": null
+      },
+      {
+       "nombre": "Luis Mario Crisóstomo Salgado",
+       "orcid": null
+      },
+      {
+       "nombre": "Eugenia González García",
+       "orcid": null
+      }
+     ],
+     "resumen": "Frente a la trayectoria genocida y ecocida del cambio climático y las soluciones “verdes” al mismo, superar la colonialidad encarnada en los modelos energéticos es de suma importancia. Dado que los modelos energéticos son co-constitutivos de las estructuras de poder, las transiciones energéticas presentan oportunidades para desafiar y transformar las estructuras de dominación en configuraciones de poder más liberadoras. A través de un análisis situado del proyecto “Energía para el yeknemilis”, que ejecuta la Unión de Cooperativas Tosepan Titataniske en la Sierra Norte de Puebla, México, argumentamos que las transiciones energéticas pueden articular una praxis decolonial. Con base en ocho meses de investigación-acción participativa que involucró la colaboración entre un investigador de ascendencia europea y el equipo de investigadores comunitarios sentipensantes del proyecto, hacemos dos contribuciones a la literatura relacionada con las transiciones energéticas y la praxis decolonial. En primer lugar, aportamos evidencia empírica para fundamentar las críticas decoloniales a la justicia ambiental, climática y energética. En segundo lugar, proponemos que el proyecto “Energía para el yeknemilis” desafía la colonialidad presente en la mayoría de los discursos actuales sobre la transición energética y los proyectos de transición “verde”. Para ello, discutimos cómo el proyecto contribuye a la construcción de un modelo de gestión energética rural, liderado por indígenas, orientado a lograr la soberanía energética y hacer realidad el yeknemilis o el xatlaan latamaat, que son articulaciones locales del Buen Vivir. También analizamos algunas posibilidades y retos para las transformaciones decoloniales ilustradas por el proyecto “Energía para el yeknemilis” en la Sierra Norte de Puebla, con la intención de fortalecerlo y aportar reflexiones para quienes luchan por modelos energéticos que sustenten la vida, alimentando la autodeterminación y el florecimiento de los pueblos y las comunidades indígenas y mestizos.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.32399/icsyh.bvbuap.2954-4300.2026.7.14.857",
+     "doi": "10.32399/icsyh.bvbuap.2954-4300.2026.7.14.857",
+     "paginas": "338-386",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.32399/icsyh.bvbuap.2954-4300.2026.7.14.891",
+     "titulo": "“Para escribir El Capital de nuevo, hay que volver a leer El Capital”. Entrevista con Paul North y Paul Reitter sobre la nueva traducción de Das Kapital al inglés",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Pablo Jiménez Cea",
+       "orcid": null
+      },
+      {
+       "nombre": "Alfonso Galileo García Vela",
+       "orcid": "https://orcid.org/0000-0002-9750-7005"
+      }
+     ],
+     "resumen": "La publicación de una nueva traducción al inglés de El Capital de Karl Marx —la primera en medio siglo y la primera basada en la edición crítica MEGA2— constituye el objeto de la siguiente entrevista con sus editores, Paul North y Paul Reitter. A lo largo de tres ejes temáticos, North y Reitter reflexionan sobre la vigencia de la obra marxiana ante la crisis sistémica del capitalismo contemporáneo, el ascenso del trumpismo y las nuevas formas de explotación y destrucción propias del capital financiero y la automatización. Abordan, asimismo, las características específicas de la nueva traducción —su fidelidad al estilo prosaico directo de Marx, su atención al vocabulario de la forma-valor y su aparato editorial filológico— y la importancia decisiva de la MEGA para una reinterpretación no dogmática de El Capital. La entrevista concluye con una reflexión sobre las posibilidades de la transformación radical en la actualidad y el papel de una relectura crítica de Marx en la configuración de alternativas emancipatorias a la crisis del sistema.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.32399/icsyh.bvbuap.2954-4300.2026.7.14.891",
+     "doi": "10.32399/icsyh.bvbuap.2954-4300.2026.7.14.891",
+     "paginas": "388-407",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.32399/icsyh.bvbuap.2954-4300.2026.7.14.878",
+     "titulo": "La materialidad de la muerte ausente",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Christian Antonio Alejandro Reyes",
+       "orcid": null
+      }
+     ],
+     "resumen": "Este trabajo aborda la desaparición de personas como una de las manifestaciones más descarnadas y radicales de la violencia contemporánea, a partir del testimonio de una mujer buscadora. Sin definirse estrictamente como una entrevista o artículo académico, este texto propone ser una apertura que permita generar derivas analíticas sobre la significación de la desaparición en el presente. A través del caso de Rosa Abad Polo —quien enfrenta la desaparición de su esposo desde 2008 y la desaparición de su hijo en 2025— este relato se describe como una doble desaparición con efectos ambivalentes: una suspensión que desorganiza la vida y mantiene al sujeto en un estado de tortura permanente, hasta el hallazgo del cuerpo sin vida de uno de sus familiares. En este contexto, la búsqueda se configura como una dimensión más de la alienación, mediante una forma de trabajo forzado y de autoexplotación, que “no produce valor” en términos capitalistas, pero si se constituye como una economía del dolor, la memoria y la resistencia. El relato de quien ha atravesado estos proceso y al mismo tiempo, comprender a la desaparición, la muerte y la sutura simbólica que puede producir el hallazgo del ser querido, aún en ausencia de vida material.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.32399/icsyh.bvbuap.2954-4300.2026.7.14.878",
+     "doi": "10.32399/icsyh.bvbuap.2954-4300.2026.7.14.878",
+     "paginas": "408-437",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.32399/icsyh.bvbuap.2954-4300.2026.7.14.892",
+     "titulo": "Reseña: Alliez, É. y Lazzarato, M. (2022). Guerras y capital. Buenos Aires: Traficantes de sueños/Tinta Limón/La Cebra",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Cuauhtémoc Nattahí Hernández Martínez",
+       "orcid": "https://orcid.org/0000-0002-5205-8007"
+      }
+     ],
+     "resumen": "En una coyuntura histórica en la que los conflictos militares surgen uno tras otro, no bien concluyen, la guerra ha dejado de ser una interrupción del funcionamiento “normal” del capitalismo para pasar a convertirse en el motor interno del mismo sistema. De Oriente próximo a Ucrania, de África a Haiti, el escenario geopolítico mundial está cada vez más marcado por las tensiones y las guerras militares, al punto que la guerra parece haberse convertido en la signatura decisiva que marca los tiempos. De cara a esta coyuntura es que una tesis como la que Éric Alliez y Maurizio Lazzarato se esfuerzan en demostrar no puede ser más oportuna y perspicaz. Pero, ¿cuál es esa tesis?, ¿en qué consiste? La tesis central que proponen los autores no es otra sino que la guerra y el capital tienden a confundirse en la actualidad.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.32399/icsyh.bvbuap.2954-4300.2026.7.14.892",
+     "doi": "10.32399/icsyh.bvbuap.2954-4300.2026.7.14.892",
+     "paginas": "438-442",
+     "fuente": "Crossref"
+    }
+   ]
+  },
+  {
+   "id": "2025",
+   "volumen": null,
+   "numero": null,
+   "anio": 2025,
+   "fecha": "2025-11-30",
+   "etiqueta": "Publicación continua (2025)",
+   "fuente": "Crossref",
+   "articulos": [
+    {
+     "id": "10.32399/icsyh.bvbuap.2954-4300.2025.7.13.884",
+     "titulo": "A veinticinco años de Bajo el Volcán: la actualidad del pensamiento crítico y las luchas por la emancipación",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Consejo Editorial",
+       "orcid": null
+      }
+     ],
+     "resumen": "Hace veinticinco años apareció el primer número de nuestra revista, en un contexto histórico muy particular. El siglo XX concluía con el fin del socialismo real y sin que el mundo hubiera logrado transformarse; predominaba un pesimismo respecto a la vigencia y posibilidades tanto del pensamiento crítico como de las luchas por la transformación radical de la sociedad. A veinticinco años del primer número de Bajo el Volcán, la crítica del capitalismo continúa, al igual que las múltiples luchas de resistencia.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.32399/icsyh.bvbuap.2954-4300.2025.7.13.884",
+     "doi": "10.32399/icsyh.bvbuap.2954-4300.2025.7.13.884",
+     "paginas": "8-12",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.32399/icsyh.bvbuap.2954-4300.2025.6.12.831",
+     "titulo": "Presentación. Una estrella roja llamada Simon Clarke",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Rodrigo F. Pascual",
+       "orcid": "https://orcid.org/0000-0002-3938-8132"
+      },
+      {
+       "nombre": "Edith González Cruz",
+       "orcid": "https://orcid.org/0000-0002-6910-8349"
+      },
+      {
+       "nombre": "Panagiotis Doulos",
+       "orcid": "https://orcid.org/0000-0002-9614-5129"
+      }
+     ],
+     "resumen": "Al pensar la propuesta de este dossier sabíamos que nos enfrentábamos a un gran desafío: la obra de Simon Clarke es muy poco conocida en la región latinoamericana, incluso entre los círculos marxistas. A pesar de que su obra recorrió una diversidad de campos y fuera ampliamente reconocida en Europa, sus trabajos fueron excepcionalmente difundidos en nuestro continente –salvo en los Estados Unidos. Quizás esto se deba a que sólo un reducido número de textos suyos fueron traducidos al castellano, y casi ninguno al portugués. De allí que, el título del dossier, antes que una afirmación, debiera ser entendido como una provocación y una pregunta: ¡¿Simon Clake en América Latina?!",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.32399/icsyh.bvbuap.2954-4300.2025.6.12.831",
+     "doi": "10.32399/icsyh.bvbuap.2954-4300.2025.6.12.831",
+     "paginas": "9-14",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.32399/icsyh.bvbuap.2954-4300.2025.7.13.879",
+     "titulo": "Presentación",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Alberto Bonnet",
+       "orcid": "https://orcid.org/0009-0005-5056-2321"
+      },
+      {
+       "nombre": "Mariana Giaretto",
+       "orcid": null
+      },
+      {
+       "nombre": "Bárbara Leite Pereira",
+       "orcid": null
+      }
+     ],
+     "resumen": "El año pasado se cumplió un siglo de la publicación en ruso de la primera edición de La teoría general del derecho y el marxismo de Pashukanis. Este dossier es un homenaje a él y a su pensamiento. El pensamiento de Pashukanis, sin embargo, es relativamente poco conocido en nuestro medio. Nos referimos a América Latina en su conjunto, a excepción de Brasil. Ni siquiera son de fácil acceso, en versión impresa, las dos únicas traducciones al español existentes por ahora de su Teoría general. Este desconocimiento del pensamiento de Pashukanis acaso se deba al escaso desarrollo de la crítica marxista del derecho entre nosotros, combinada con la orientación estructuralista (y más tarde posestructuralista) que tendió a dominar este campo del pensamiento crítico entre nosotros. En este dossier de Bajo el Volcán, reunimos una serie de artículos que recuperan algunos aspectos importantes de su crítica del derecho o intentan analizar, inspirados en ella, nuevas problemáticas. Incluimos en el dossier artículos de autores de distintos orígenes (brasileños, argentinos, mexicanos) y diversas perspectivas (derivacionistas, estructuralistas) con la intención de reunir un conjunto de contribuciones significativas y a la vez variadas sobre su pensamiento.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.32399/icsyh.bvbuap.2954-4300.2025.7.13.879",
+     "doi": "10.32399/icsyh.bvbuap.2954-4300.2025.7.13.879",
+     "paginas": "14-19",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.32399/icsyh.bvbuap.2954-4300.2025.6.12.832",
+     "titulo": "La relevancia de la crítica de Simon Clarke. Entrevista con John Holloway",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Edith González Cruz",
+       "orcid": "https://orcid.org/0000-0002-6910-8349"
+      },
+      {
+       "nombre": "Panagiotis Doulos",
+       "orcid": "https://orcid.org/0000-0002-9614-5129"
+      }
+     ],
+     "resumen": "La presente entrevista con John Holloway ha sido concebida como reconocimiento al legado de Simon Clarke, cuya contribución a la crítica de la economía política abarcó diversos temas, entre otros, sus estudios críticos sobre el estructuralismo, el fraccionalismo, el monetarismo y, por supuesto, el estado. Tanto Simon Clarke como John Holloway fueron miembros de la Conferencia de Economistas Socialistas (Conference of Socialist Economists, cse) y participaron en los debates sobre el estado que tuvieron lugar durante los setenta en el Reino Unido. Esta entrevista busca iluminar el contexto histórico del que se desprende la obra de Simon Clarke así como presentar la actualidad de su crítica.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.32399/icsyh.bvbuap.2954-4300.2025.6.12.832",
+     "doi": "10.32399/icsyh.bvbuap.2954-4300.2025.6.12.832",
+     "paginas": "15-24",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.32399/icsyh.bvbuap.2954-4300.2025.7.13.880",
+     "titulo": "Notas sobre Pashukanis: del sujeto jurídico a la crítica de la sociedad de clases",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Werner Bonefeld",
+       "orcid": null
+      }
+     ],
+     "resumen": "El propósito de este trabajo es fundamentar la crítica de Pashukanis al derecho proletario. Se estructura en dos secciones. Primero, se expone su interpretación de la forma jurídica y la aparición del individuo como sujeto de derecho o personalidad jurídica. A continuación, se explora el argumento de Marx sobre la conexión entre la compraventa de fuerza de trabajo en el “Edén de los derechos innatos del hombre” y la explotación. La conclusión retorna a su crítica del derecho proletario. En lugar de la igualdad abstracta ante la ley, la sociedad sin clases se fundamenta en la igualdad de las necesidades humanas individuales.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.32399/icsyh.bvbuap.2954-4300.2025.7.13.880",
+     "doi": "10.32399/icsyh.bvbuap.2954-4300.2025.7.13.880",
+     "paginas": "20-38",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.32399/icsyh.bvbuap.2954-4300.2025.6.12.833",
+     "titulo": "La crítica de Simon Clarke al marxismo estructuralista",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Alberto Bonnet",
+       "orcid": "https://orcid.org/0009-0005-5056-2321"
+      }
+     ],
+     "resumen": "El artículo expone y discute la crítica que Simon Clarke desarrolló entre mediados de los años setenta y comienzos de los noventa al marxismo estructuralista. El primer apartado está dedicado a su crítica a la antropología estructuralista de Lévi-Strauss, precursora del desarrollo del estructuralismo en su conjunto. El segundo, a su crítica a los escritos fundantes del marxismo estructuralista, de Althusser y Balibar, y el tercero, a su crítica a las concepciones estructuralistas del Estado y las clases de Poulantzas. El cuarto apartado aborda la crítica de Clarke a las huellas que dejó ese marxismo estructuralista en la llamada Escuela de la Regulación y en algunos otros marxistas contemporáneo, como Jessop y Hirsch. Los ejes de la crítica de Clarke al marxismo estructuralista son sus objeciones a la relevancia empírica del concepto de estructura, a la concepción de las relaciones de producción en términos técnicos, en particular, y, en términos más amplios, al carácter externo de las relaciones entre prácticas / instancias dotadas de autonomía relativa dentro de esa estructura, y al determinismo estructural-funcionalista, especialmente respecto del papel de la lucha de clases. Hacia el final del artículo, discutimos los alcances y límites de dicha crítica.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.32399/icsyh.bvbuap.2954-4300.2025.6.12.833",
+     "doi": "10.32399/icsyh.bvbuap.2954-4300.2025.6.12.833",
+     "paginas": "25-49",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.32399/icsyh.bvbuap.2954-4300.2025.7.13.812",
+     "titulo": "Relación y norma jurídicas: los distintos niveles de abstracción en la crítica de E. B. Pachukanis a la teoría general del Derecho",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Antonio Ugá Neto",
+       "orcid": "https://orcid.org/0000-0002-0780-7718"
+      },
+      {
+       "nombre": "Vitor Bartoletti Sartori",
+       "orcid": "https://orcid.org/0000-0001-9570-9968"
+      }
+     ],
+     "resumen": "En este artículo discutiremos los diferentes niveles de abstracción de la teorización de Pachukanis en su crítica de la teoría general del Derecho. Argumentamos que el autor aborda la correlación entre la relación económica y la relación jurídica como esencial este empeño, y a un alto nivel de abstracción, vinculando la forma mercancía a la forma jurídica como tal. En esta investigación, la forma jurídica más importante es el contrato y no es necesario referirse a la actividad estatal. Por otro lado, como categoría derivada, surge la norma jurídica, cuya explicación no prescinde del análisis del Estado y que, considerada en su concreción, remite a otro nivel de abstracción en la teorización de Pachukanis, en la que las relaciones económicas están mediadas por la propiedad (y la forma jurídica de la propiedad) así como por la retroacción de la superestructura estatal sobre formas y figuras económicas presentes en el sistema capitalista de producción. Argumentamos que en ninguna circunstancia es plausible avanzar en la crítica marxista del Derecho, la teoría general del Derecho y la teoría del Derecho haciendo caso omiso de la relación mutua entre estos diferentes niveles de abstracción.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.32399/icsyh.bvbuap.2954-4300.2025.7.13.812",
+     "doi": "10.32399/icsyh.bvbuap.2954-4300.2025.7.13.812",
+     "paginas": "39-69",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.32399/icsyh.bvbuap.2954-4300.2025.6.12.835",
+     "titulo": "Una revisión de los textos de Simon Clarke sobre el Estado, el trabajo y la sociedad capitalista. Porque de lo que se trata es de la negación del capitalismo",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Rodolfo Gómez",
+       "orcid": "https://orcid.org/0009-0008-1890-475X"
+      }
+     ],
+     "resumen": "En este artículo revisitaremos algunos textos del autor marxista británico Simon Clarke, en la medida que entendemos resultan de gran actualidad para problematizar ciertas miradas, aún en el campo de la izquierda política y académica, respecto del actual funcionamiento de las sociedades capitalistas a nivel global, así como de las “formas” y las funciones del Estado capitalista. Cuestión no menor, si consideramos la emergencia hoy día de diferentes movimientos políticos de extrema derecha en todo el mundo, algunos de los cuales han accedido al gobierno, y que, al mismo tiempo que asumen un discurso conservador radicalizado en defensa del capitalismo, problematizan la vigencia o las funciones de esa institución política, y del régimen democrático mismo (aunque dicho régimen político sea estrictamente una democracia capitalista). La recuperación de estos textos busca interpelarnos, además, no solamente para establecer un diagnóstico del modo del funcionamiento actual del capitalismo y del rol que juega en este tipo de sociedades el Estado y la democracia capitalista, sino además para ejercitar una crítica materialista que busque promover un debate sobre la emancipación futura.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.32399/icsyh.bvbuap.2954-4300.2025.6.12.835",
+     "doi": "10.32399/icsyh.bvbuap.2954-4300.2025.6.12.835",
+     "paginas": "50-75",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.32399/icsyh.bvbuap.2954-4300.2025.7.13.822",
+     "titulo": "cuestión del punto de partida en el análisis marxista del Estado",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Adrián Piva",
+       "orcid": "https://orcid.org/0000-0002-0809-7797"
+      }
+     ],
+     "resumen": "La obra de Bob Jessop y el desarrollo de la teoría materialista del Estado de Joachim Hirsch fueron el terreno de un encuentro impensado hasta la década de 1970, el de Poulantzas y Pashukanis. En este artículo volvemos a enfrentarlos enfatizando en el abandono de la circulación mercantil en la explicación del Estado capitalista que persigue Poulantzas y en el abandono de la producción en la derivación del Estado de Pashukanis. La confrontación de estos autores tiene dos objetivos. En primer lugar, profundizar la comprensión de sus respectivas teorías del Estado, de sus diferencias específicas, de sus acuerdos y, sobre todo, de los aportes que realizan a la comprensión del Estado capitalista. En segundo lugar, producir - partiendo de los resultados de la confrontación de ambas obras - un nuevo punto de partida para el estudio del Estado capitalista: la unidad de producción y circulación que estructura la relación de explotación como proceso de producción de plusvalor y sus efectos sobre la estructura del poder de clase.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.32399/icsyh.bvbuap.2954-4300.2025.7.13.822",
+     "doi": "10.32399/icsyh.bvbuap.2954-4300.2025.7.13.822",
+     "paginas": "70-102",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.32399/icsyh.bvbuap.2954-4300.2025.6.12.836",
+     "titulo": "Pour Clarke. La centralidad de las relaciones sociales de producción para la crítica marxista en el cuestionamiento a la visión del Estado de Nicos Poulantzas y la derivación",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Rodrigo F. Pascual",
+       "orcid": "https://orcid.org/0000-0002-3938-8132"
+      }
+     ],
+     "resumen": "Vamos a desarrollar la perspectiva de Simon Clarke sobre el estado, tratando sólo con su primera etapa de investigaciones (1974-1994), que podemos denominar como de elaboración y crítica teórica. En primer lugar, reconstruiremos su crítica a Poulantzas. Para ello nos valdremos de su crítica al estructuralismo de Lévi-Strauss y al marxismo estructuralista de Althusser. Estas críticas son la base para sus posteriores debates con Poulantzas y los enfoques fraccionalistas dependientes del autor greco-francés. Finalmente, abordaremos las críticas que le realiza a las perspectivas derivacionistas. Por último, vamos a mostrar el modo en que Clarke comprende al estado. En este punto, mencionaremos nuestro principal desacuerdo.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.32399/icsyh.bvbuap.2954-4300.2025.6.12.836",
+     "doi": "10.32399/icsyh.bvbuap.2954-4300.2025.6.12.836",
+     "paginas": "76-103",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.32399/icsyh.bvbuap.2954-4300.2025.7.13.814",
+     "titulo": "A un siglo de la Teoría general de Pashukanis",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Napoleón Conde Gaxiola",
+       "orcid": null
+      }
+     ],
+     "resumen": "A más de una centuria de haber publicado el libro Teoría general del derecho y el marxismo, del jurista y militante soviético, Evgeny Pashukanis, nos percatamos de la enorme vigencia de su pensamiento social y político, indispensable para comprender el derecho en el momento presente. Por lo cual pretendemos elaborar algunos comentarios sobre sus ideas fundamentales tales como teoría general del derecho, método de la crítica de la economía política, materialismo histórico, derecho y moral y la forma jurídica. Se presentan algunos puntos de vista sobre el mencionado horizonte conceptual, con el propósito de aproximarnos a su marco de ideas, sin duda alguna indispensables y puntuales en el momento de la crisis epistemológica y política en la que se encuentra inserto el derecho contemporáneo. Es una síntesis apretada y sucinta de su campo categorial, que de alguna u otra forma se ha abordado y se abordará en el corpus cotidiano de las prácticas jurídicas y, de manera cardinal en las prácticas y luchas de los movimientos de la clase trabajadora en la actual coyuntura. El trabajo es, pues, una aproximación desde el punto de vista del materialismo histórico y del método de la crítica de la economía política de algunas temáticas y ejes conceptuales desde la óptica de un estudio del derecho desde una perspectiva mínimamente crítica.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.32399/icsyh.bvbuap.2954-4300.2025.7.13.814",
+     "doi": "10.32399/icsyh.bvbuap.2954-4300.2025.7.13.814",
+     "paginas": "103-124",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.32399/icsyh.bvbuap.2954-4300.2025.6.12.837",
+     "titulo": "La forma-Estado en la síntesis de Clarke para pensar los límites de las políticas públicas de salud en Brasil",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Leonardo Carnut",
+       "orcid": "https://orcid.org/0000-0001-6415-6977"
+      },
+      {
+       "nombre": "Áquilas Mendes",
+       "orcid": "https://orcid.org/0000-0002-5632-4333"
+      },
+      {
+       "nombre": "Lúcia Dias da Silva Guerra",
+       "orcid": "https://orcid.org/0000-0003-0093-2687"
+      }
+     ],
+     "resumen": "Este artículo rescata las partes principales de la recopilación de Simon Clarke en el capítulo I de su libro The State Debate. Nuestra intención es demostrar hasta dónde ha avanzado el debate y cómo se ha desarrollado después de este período, así como sus contribuciones para la comprensión de la lucha política por la salud pública en Brasil. Para ello, el artículo se estructura en tres partes. La primera parte trata de extractos de la recopilación de Simon Clarke sobre el debate sobre el Estado entre marxistas (1970-1980). La segunda parte aborda los avances tras la caída del Muro de Berlín en el debate ‘forma-Estado’ planteado por Gerardo Ávalos (filósofo político mexicano). La tercera parte aborda la contribución de la síntesis clarkeana sobre la forma-Estado a la discusión de los límites de las políticas de salud brasileñas.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.32399/icsyh.bvbuap.2954-4300.2025.6.12.837",
+     "doi": "10.32399/icsyh.bvbuap.2954-4300.2025.6.12.837",
+     "paginas": "104-140",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.32399/icsyh.bvbuap.2954-4300.2025.7.13.858",
+     "titulo": "Pashukanis en el Edén de los derechos humanos",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Marcus Orione",
+       "orcid": null
+      }
+     ],
+     "resumen": "Este artículo aborda la universalización de la razón, a partir de algunos de los principales pensadores burgueses, como elemento indisociable de la universalización del sujeto de derecho. Partiendo de esta premisa, el objetivo principal es verificar la posibilidad de extender la crítica de Pashukanis a Hans Kelsen al pospositivismo de Robert Alexy, que contiene uno de los instrumentos más importantes para la aplicación judicial de los derechos humanos. Se realiza un análisis basado en elementos típicos del positivismo en general y, posteriormente, del positivismo jurídico. El proceso de empobrecimiento de la razón se verifica en los diversos enfoques metodológicos supuestamente positivistas. Este proceso se considera cuidadosamente para comprender que la lógica predominante de los derechos humanos dialoga con dichos marcos. Incluso el análisis pospositivista, basado en una de las corrientes más significativas en la actualidad, derivada de las enseñanzas de Robert Alexy, no sería suficiente para enriquecer el camino de la razón. Por lo tanto, la contribución de Pashukanis a Hans Kelsen puede, con cierto refinamiento, aplicarse también a la lógica actual de los derechos humanos.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.32399/icsyh.bvbuap.2954-4300.2025.7.13.858",
+     "doi": "10.32399/icsyh.bvbuap.2954-4300.2025.7.13.858",
+     "paginas": "125-144",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.32399/icsyh.bvbuap.2954-4300.2025.6.12.841",
+     "titulo": "Capital, fracciones de capital y Estado. Análisis ‘neomarxista’ del Estado sudafricano",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Simon Clarke",
+       "orcid": null
+      },
+      {
+       "nombre": "Edith González Cruz",
+       "orcid": "https://orcid.org/0000-0002-6910-8349"
+      },
+      {
+       "nombre": "Panagiotis Doulos",
+       "orcid": "https://orcid.org/0000-0002-9614-5129"
+      }
+     ],
+     "resumen": "Este artículo examina lo que se ha llamado el enfoque ‘neomarxista’ o, más desagradablemente, el ‘vulgar poulantziano’, enfoque del Estado. La característica típica de este enfoque es una formulación de la relación entre el capital y el Estado en términos de la lucha entre ‘fracciones del capital’ para establecer la posición de ‘fracción hegemónica’ dentro del ‘bloque de poder’. El Estado representa entonces la unidad del capital en relación con el proletariado y el dominio de la fracción hegemónica en relación con las demás fracciones del capital. La investigación que es guiada por esta visión del Estado tiende, por tanto, a examinar la actividad del Estado en relación con las políticas propuestas por diversos partidos políticos y grupos de presión que se dice que son los ‘representantes’ de determinadas fracciones del capital. Este artículo pretende desarrollar una crítica de este enfoque ‘fraccionalista’ del Estado a través de una crítica de sus concepciones de clase, de las fracciones de clase y del Estado. Se argumenta que el enfoque ‘fraccionalista’ está ‘sobrepolitizado’ al ver el Estado como una condensación de lo social, al mismo tiempo que es ‘economicista’, al identificar directamente el Estado con el capital.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.32399/icsyh.bvbuap.2954-4300.2025.6.12.841",
+     "doi": "10.32399/icsyh.bvbuap.2954-4300.2025.6.12.841",
+     "paginas": "141-169",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.32399/icsyh.bvbuap.2954-4300.2025.7.13.882",
+     "titulo": "La cuestión del Estado proletario en Pashukanis",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Márcio Bilharinho Naves",
+       "orcid": null
+      }
+     ],
+     "resumen": "Este trabajo examina la concepción del Estado proletario en la obra de Evgeni Pashukanis. Se propone realizar un examen crítico de la cuestión del Estado en la transición al comunismo, el cual se limita únicamente a sus textos que van de 1924 a 1929. El jurista ruso sostiene las tesis de Marx y Lenin sobre la necesidad de la extinción del Estado en la sociedad sin clases y la persistencia de su carácter burgués en el período de transición. Sin embargo, Pashukanis sostiene una posición diferente en su obra El aparato del Estado en la lucha contra el burocratismo, en la que el jurista ruso defiende la necesidad de transformar el Estado en la transición socialista y no solo de perfeccionarlo, de modo que su funcionamiento sea completamente diferente al del Estado en una sociedad de clases. A pesar del reconocimiento implícito que realiza Pashukanis a que el Estado soviético no tendría una naturaleza proletaria, ya que reproduce la separación entre el poder político y las masas trabajadoras, este no es capaz de relacionar esta separación con otra, la que existe entre los medios de producción y el trabajador directo.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.32399/icsyh.bvbuap.2954-4300.2025.7.13.882",
+     "doi": "10.32399/icsyh.bvbuap.2954-4300.2025.7.13.882",
+     "paginas": "145-161",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.32399/icsyh.bvbuap.2954-4300.2025.7.13.811",
+     "titulo": "Por un Pachukanis sin concesiones: la crítica de la forma jurídica y los errores de la lectura dependentista del derecho",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Regiane de Moura Macedo",
+       "orcid": null
+      },
+      {
+       "nombre": "Deise Lilian Lima Martins",
+       "orcid": "https://orcid.org/0000-0001-8811-4827"
+      }
+     ],
+     "resumen": "Brasil y América Latina viven un intenso debate sobre el legado de Evgeny Pachukanis. Este diálogo cobró impulso en 2017, cuando se publicaron casi simultáneamente dos traducciones de La Teoría General del Derecho y el Marxismo, su obra fundamental, cuyo centenario inspira este Dossier. Este artículo busca organizar y profundizar ese debate, confrontando dos perspectivas: 1. la lectura dependentista del derecho, basada en el diálogo entre Marini y Pachukanis, que resulta en la propuesta de la categoría “forma jurídica dependiente” y del derecho insurgente como resolución política; 2. el análisis basado en la crítica marxista de la forma jurídica, combinada con la teoría althusseriana de las ideologías, que entiende el derecho como elemento estructural de la reproducción del capitalismo, articulando conceptos como forma jurídica, ideología jurídica y conformación de la forma jurídica en diferentes formaciones sociales. Eliminando el falso eje de la polémica - que reduce la discusión a una supuesta dicotomía entre “uso táctico” o “rechazo” de la lucha jurídica - demostramos que las verdaderas diferencias son teóricas, metodológicas y políticas, que tienen implicaciones directas para la lucha de la clase obrera por superar el capitalismo, ya que implican desde la comprensión del Estado hasta la estrategia de transformación social.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.32399/icsyh.bvbuap.2954-4300.2025.7.13.811",
+     "doi": "10.32399/icsyh.bvbuap.2954-4300.2025.7.13.811",
+     "paginas": "162-191",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.32399/icsyh.bvbuap.2954-4300.2025.6.12.842",
+     "titulo": "La teoría marxista de la sobreacumulación y la crisis",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Simon Clarke",
+       "orcid": null
+      },
+      {
+       "nombre": "Rodrigo F. Pascual",
+       "orcid": "https://orcid.org/0000-0002-3938-8132"
+      },
+      {
+       "nombre": "Franco J. Quiroga",
+       "orcid": "https://orcid.org/0000-0003-2601-434X"
+      }
+     ],
+     "resumen": "En este artículo pretendo contrastar las teorías de crisis de la década de 1970 basadas en la “tasa de ganancia decreciente” con el “subconsumismo” de la tradición marxista ortodoxa. El argumento central es que, al rechazar las teorías subconsumistas tradicionales de la crisis, el marxismo contemporáneo ha tirado al bebé junto con el agua de la bañera, con desafortunadas consecuencias teóricas y políticas. Una crítica más adecuada del subconsumismo tradicional no conduce a la tasa de ganancia decreciente, sino a una teoría de la desproporcionalidad de la crisis, que sigue la teoría tradicional al considerar las crisis no como eventos de época sino como expresiones de las tendencias permanentes de la acumulación capitalista.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.32399/icsyh.bvbuap.2954-4300.2025.6.12.842",
+     "doi": "10.32399/icsyh.bvbuap.2954-4300.2025.6.12.842",
+     "paginas": "170-201",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.32399/icsyh.bvbuap.2954-4300.2025.7.13.821",
+     "titulo": "derecho captado por la inteligencia artificial: una lectura edelmaniana de un debate jurídico contemporáneo",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Flavio Roberto Batista",
+       "orcid": "https://orcid.org/0000-0002-0919-3684"
+      },
+      {
+       "nombre": "Murilo Amadio Cipollone",
+       "orcid": "https://orcid.org/0000-0002-4477-0555"
+      }
+     ],
+     "resumen": "Valiéndose del instrumental epistemológico del materialismo histórico-dialéctico, encarnado en la crítica de la forma jurídica de Pachukanis, con la modalidad procedimental que le atribuyó Edelman – consistente en formular desarrollos teóricos a partir de la crítica inmanente de textos jurídicos – y, además, con recurso a la Teoría de la Ideología de Louis Althusser, el artículo elabora sobre los movimientos y ajustes promovidos por la forma jurídica para estructurar y recepcionar, en la esfera de la circulación, el uso productivo de la inteligencia artificial. En este sentido, además de registrar los pasos ya dados por el derecho, el texto se preocupa por adelantar, teóricamente, los caminos que el derecho y la ideología que lo sustenta suelen recorrer, el conflicto jurídico entre sujetos de derecho que aún no ha tenido lugar, pero que acecha.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.32399/icsyh.bvbuap.2954-4300.2025.7.13.821",
+     "doi": "10.32399/icsyh.bvbuap.2954-4300.2025.7.13.821",
+     "paginas": "192-223",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.32399/icsyh.bvbuap.2954-4300.2025.6.12.840",
+     "titulo": "Moishe Postone y la crítica autorreflexiva del capital: crisis, límites y posibilidades de la transformación social radical",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Pablo Ignacio Jiménez Cea",
+       "orcid": "https://orcid.org/0000-0002-6977-9134"
+      }
+     ],
+     "resumen": "El objetivo de la crítica social radical es la transformación emancipatoria del mundo. En un contexto sociohistórico marcado por una crisis fundamental de la civilización capitalista que bloquea las posibilidades de transformación radical y que se desliza rápidamente hacia una nueva era de catástrofes, emerge la necesidad de reactualizar y repensar una teoría crítica del capital, entendida como una crítica necesariamente inmanente, autorreflexiva e históricamente específica de este modo de producción y de vida social. A este respecto, la reinterpretación de la crítica marxiana de la economía política emprendida por Moishe Postone constituye un poderoso esfuerzo teórico que fundamenta en la propia objetividad contradictoria del capital la posibilidad de la crítica radical y de la superación emancipatoria de este particular entramado de socialización. Por consiguiente, el presente artículo desarrolla y amplía en clave crítica algunos aspectos de la reinterpretación postoniana de la teoría de Marx, señalando su importancia para la constitución de una crítica social radicalmente autorreflexiva capaz de desentrañar la lógica fundamental de la crisis del capitalismo contemporáneo y, por lo tanto, siendo un poderoso elemento para una perspectiva de emancipación social radical que tiene su condición de posibilidad, y sus límites, en la dinámica intrínseca del capital.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.32399/icsyh.bvbuap.2954-4300.2025.6.12.840",
+     "doi": "10.32399/icsyh.bvbuap.2954-4300.2025.6.12.840",
+     "paginas": "203-235",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.32399/icsyh.bvbuap.2954-4300.2025.7.13.820",
+     "titulo": "Milei entre los poderes: la pregunta de Pashukanis y la discusión sobre la democracia en Argentina",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Iván Horowicz",
+       "orcid": null
+      },
+      {
+       "nombre": "Mateo Rodriguez Cocco",
+       "orcid": null
+      },
+      {
+       "nombre": "Federico Manzone",
+       "orcid": null
+      }
+     ],
+     "resumen": "Este artículo propone un abordaje a los interrogantes abiertos por el gobierno de Milei sobre el futuro de la democracia en Argentina. Proponemos que el análisis del régimen político debe remitirse al estudio forma Estado en tanto modo de existencia de una relación de clase, para proceder desde ese nivel al análisis concreto de la forma de Estado en nuestro país. Para la definición de los conceptos de forma Estado y forma jurídica rescatamos los aportes de la obra de Evgeny Pashukanis. Luego reconstruimos la forma de Estado heredada por el gobierno de Milei, en base a los trabajos de Alberto Bonnet y Adrian Piva. Sobre esa base, realizamos un análisis empírico de los cambios en las relaciones entre los poderes del Estado, para contrastar hasta qué punto la forma de Estado y el régimen político indican un proceso de ruptura con los marcos democráticos. Pasamos revista de los cambios observados en la forma de Estado y sostenemos que los mismos van en el sentido de una “autoritización” del régimen democrático al interior del Estado derecho.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.32399/icsyh.bvbuap.2954-4300.2025.7.13.820",
+     "doi": "10.32399/icsyh.bvbuap.2954-4300.2025.7.13.820",
+     "paginas": "224-255",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.32399/icsyh.bvbuap.2954-4300.2025.6.12.844",
+     "titulo": "Revolución social y paradigma subjetivista en la obra de John Holloway",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Lisandro Braga",
+       "orcid": "https://orcid.org/0000-0002-3143-5694"
+      }
+     ],
+     "resumen": "Este trabajo tiene como propósito teórico debatir la producción intelectual de John Holloway, específicamente cuatro de sus obras sobre la revolución social en la época contemporánea (2010; 2011; 2012; 2022), comprender sus vínculos con la episteme dominante y su paradigma contemporáneo y, por tanto, comprender los límites concretos del significado de la revolución social en sus análisis. Para ello, recurriremos a la teoría marxista de las clases sociales y sus luchas, así como a la teoría de los regímenes de acumulación y sus renovaciones culturales hegemónicas, con el objetivo de realizar un análisis teórico enfocado en estas obras, dando cuenta de la influencia de esta fuerza hegemónica (subjetivismo) en el modo subyacente de pensar de su autor.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.32399/icsyh.bvbuap.2954-4300.2025.6.12.844",
+     "doi": "10.32399/icsyh.bvbuap.2954-4300.2025.6.12.844",
+     "paginas": "236-269",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.32399/icsyh.bvbuap.2954-4300.2025.7.13.823",
+     "titulo": "La crítica marxista de Pashukanis sobre el sujeto de derecho y el fascismo: elementos esenciales para comprender la relación social entre alimentación, estado y crisis",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Lucia Dias da Silva Guerra",
+       "orcid": "https://orcid.org/0000-0003-0093-2687"
+      },
+      {
+       "nombre": "Leonardo Carnut",
+       "orcid": "https://orcid.org/0000-0001-6415-6977"
+      }
+     ],
+     "resumen": "La alimentación y la nutrición permiten reflexionar críticamente sobre la acción humana y el modelo hegemónico de producción (capitalismo), y sus tramas simbólicas capaces de producir servidumbre forzada. Este artículo busca construir un debate desde América Latina y el Caribe (ALC) para pensar la articulación entre alimentación y neofascismo a partir de la crisis de sociabilidad del capital, y cómo la crítica marxista de Pachukanis al sujeto de derechos como forma social e histórica es esencial para comprender las relaciones de producción de la sociedad capitalista (al analizar la forma mercancía y el proceso de intercambio). El artículo está organizado en dos partes: la primera expone el autoritarismo como un sistema recurrente de liderazgo en Brasil que tiene implicaciones directas en las cuestiones alimentarias; la segunda examina la relación entre alimentación y neofascismo en el Brasil reciente. Por último, dejamos unos breves comentarios sobre las formas de aprovechar la fuerza y producir una acción colectiva a través de sujetos revolucionarios",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.32399/icsyh.bvbuap.2954-4300.2025.7.13.823",
+     "doi": "10.32399/icsyh.bvbuap.2954-4300.2025.7.13.823",
+     "paginas": "256-288",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.32399/icsyh.bvbuap.2954-4300.2025.6.12.845",
+     "titulo": "La racionalidad del proceso de individualización y sus afinidades electivas con el capitalismo",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Pedro José Vierya Bahena",
+       "orcid": "https://orcid.org/0000-0003-1246-2854"
+      }
+     ],
+     "resumen": "Este artículo describe, desde una perspectiva weberiana, la manera en que el proceso de individualización, a través de universos simbólicos y semánticas del individuo, genera ideas, valores e intereses que crean sentido en la acción social individual. De manera secuencial, explica cómo la racionalización de dicho proceso se lleva a la par de la racionalización técnica instrumental y, a través de afinidades electivas con la imagen del mundo capitalista, encuentra en la figura contemporánea del emprendedor la posibilidad de materializar sus metas provenientes de ámbitos distintos y más amplios que el económico.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.32399/icsyh.bvbuap.2954-4300.2025.6.12.845",
+     "doi": "10.32399/icsyh.bvbuap.2954-4300.2025.6.12.845",
+     "paginas": "270-300",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.32399/icsyh.bvbuap.2954-4300.2025.7.13.803",
+     "titulo": "participaciones políticas en el clientelismo político: el caso de Cuautitlán 2018-2021",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Manuel Alejandro Ramos López",
+       "orcid": null
+      }
+     ],
+     "resumen": "El presente tiene como objetivo describir el clientelismo político como proveedor de participaciones convencionales y no convencionales en Cuautitlán Estado de México durante el periodo 2018-2021, desde un enfoque cualitativo. Dicho municipio se caracteriza por ser de los punteros a nivel estatal en cuanto a indicadores socioeconómicos y por la alternancia partidaria en su estructura gubernamental. Aun así, es un municipio con arraigo clientelar, el cual se puede delimitar como una hibridación entre un clientelismo vertical y horizontal. Para el análisis, se parte de la teoría general de racionalización weberiana, quien establece que las instituciones estatales se van especializando, aunque de igual forma se pueden encontrar estructuras patrimonialistas propias de asociaciones tradicionales. El clientelismo político se tratará como una institución que se ha racionalizado y, a la vez, ha mantenido arraigos tradicionales en su interior. Una forma de observar dicha dualidad es con la participación de los ciudadanos mediante vías convencionales (universales), así como no convencionales (particulares). Para esto, se realizaron 15 entrevistas semiestructuradas a ciudadanos y funcionarios de distintos partidos políticos del municipio, de esa manera, se contrastaron los tipos ideales planteados y se hizo una tipología a la relación entre clientelismo y participaciones políticas del contexto trabajado.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.32399/icsyh.bvbuap.2954-4300.2025.7.13.803",
+     "doi": "10.32399/icsyh.bvbuap.2954-4300.2025.7.13.803",
+     "paginas": "290-317",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.32399/icsyh.bvbuap.2954-4300.2025.6.12.846",
+     "titulo": "El texto hilvanado, porte y escritura textil. Puntadas simbólicas desde contextos latinoamericanos actuales",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Frida Lara",
+       "orcid": "https://orcid.org/0009-0002-4873-7119"
+      },
+      {
+       "nombre": "Victoria Pérez",
+       "orcid": "https://orcid.org/0000-0002-9653-6402"
+      }
+     ],
+     "resumen": "El artículo explora la evolución y significación de los textos hilvanados como formas de comunicación y expresión cultural. Al entenderlo como medios, se analizan desde su conceptualización como espacios de reflexión, así como en su rol como especies (Scolari, 2015; Albarello, 2019). Se les piensa como materialidades que ofrecen formas de lectura en su producción material, porte y transmisión de prácticas que van desde la reivindicación política, resistencia cultural, memoria colectiva y expresión personal. El estudio se enfoca en la transformación de estos textos desde su porte en fiestas populares hasta su adaptación en plataformas digitales, donde se han convertido en herramientas de activismo y declaración política. Se incluyen ejemplos como la Fiesta de la Flor más Bella del Ejido (Xochimilco), el trabajo de Las Arpilleras en Chile y el colectivo Familiares Caminando por Justicia en México. Además, se analiza cómo la digitalización permite que estos textos adquieran mayor visibilidad y potencia en la esfera pública global. Finalmente, el artículo subraya cómo el bordado y el tejido no sólo transmiten significados culturales y afectivos, sino que también pueden rastrear prácticas sociales y políticas, abriendo un campo de estudio en disciplinas como el arte, la pedagogía social y la sociología.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.32399/icsyh.bvbuap.2954-4300.2025.6.12.846",
+     "doi": "10.32399/icsyh.bvbuap.2954-4300.2025.6.12.846",
+     "paginas": "301-328",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.32399/icsyh.bvbuap.2954-4300.2025.7.13.852",
+     "titulo": "Construyendo avances en colectivo: los procesos organizativos de las mujeres indígenas de Chimborazo, Ecuador",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Cristina Cucurí Miñarcaja",
+       "orcid": null
+      }
+     ],
+     "resumen": "En este artículo analizo cómo las acciones de las mujeres indígenas organizadas han contribuido a la construcción de la jurisdicción indígena y a la promoción de una vida digna dentro de los territorios de los pueblos indígenas. Parto de una reflexión sobre el contexto en el que se desarrolló este proceso. Luego, examino el proceso organizativo de la Red Provincial de Organizaciones Mujeres Kichwas de Chimborazo (REDMUJCH) y, finalmente, destaco los aportes fundamentales realizados por estas mujeres. A través de la organización de mujeres desde su esencia comunitaria, lograron que la Constitución del Ecuador de 2008 reconozca, con rango constitucional, la jurisdicción indígena con participación y decisión de las mujeres. No obstante, las mujeres indígenas demandan una transformación profunda los sistemas de justicia propia en la práctica para garantizar la igualdad y erradicar la violencia de género. Proponen un enfoque que no solo reforme las estructuras existentes, sino que asegure su participación activa y decisoria en los procesos de justicia comunitaria. La exclusión de las mujeres en estos espacios perpetúa relaciones patriarcales, machistas, al tiempo que debilita la legitimidad y coherencia de los sistemas de justicia indígena.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.32399/icsyh.bvbuap.2954-4300.2025.7.13.852",
+     "doi": "10.32399/icsyh.bvbuap.2954-4300.2025.7.13.852",
+     "paginas": "318-348",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.32399/icsyh.bvbuap.2954-4300.2025.6.12.847",
+     "titulo": "“A nosotros nos toca asumir la tarea de la transformación en un sistema político en el que sólo hemos alcanzado el control del ejecutivo”. Entrevista y conversación con el Dr. Bernardo Arévalo, Presidente de la República de Guatemala",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Carlos Figueroa Ibarra",
+       "orcid": null
+      }
+     ],
+     "resumen": "La entrevista y conversación entre el señor presidente de Guatemala Dr. Bernardo Arévalo y Carlos Figueroa Ibarra fue la culminación del Colo- quio Internacional “Ciencias Sociales y Violencias en Centroamérica entre asedios y resistencias” organizado por el Grupo de Trabajo “Violencias en Centroamérica” del Consejo Latinoamericano de Ciencias Sociales (clac- so) realizado en la ciudad de Guatemala entre el 4 y 6 de diciembre de 2024. El encuentro con el presidente Bernardo Arévalo que llevó por título “La segunda primavera a 70 años del derrocamiento del presidente Jacobo Arbenz” se realizó en el Salón de las Banderas del Palacio Nacional de la Cultura el viernes 6 de diciembre de 2024. El autor agradece al Mtro. Ma- rio Islas, Doctorando del Posgrado de Sociología del Instituto de Ciencias Sociales y Humanidades “Alfonso Vélez Pliego” (icsyh-aVP) de la buap, el laborioso trabajo de la transcripción de la entrevista.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.32399/icsyh.bvbuap.2954-4300.2025.6.12.847",
+     "doi": "10.32399/icsyh.bvbuap.2954-4300.2025.6.12.847",
+     "paginas": "330-355",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.32399/icsyh.bvbuap.2954-4300.2025.7.13.819",
+     "titulo": "influencias de la realidad histórico-social en la creación artística desde la perspectiva de Lukács",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Ari Zafra Romero",
+       "orcid": null
+      },
+      {
+       "nombre": "Julieta Martínez Ganem",
+       "orcid": "https://orcid.org/0009-0005-3195-4557"
+      }
+     ],
+     "resumen": "En este artículo nos proponemos retomar a Lukács y lo que podríamos llamar como su sociología del arte. Para él, los artistas deben crear obras que reflejen y respondan a la realidad histórico-social en la que se encuentran inmersos, pero la base económica influye en las temáticas y las representaciones, llegando a restringir la libertad creativa. Sin embargo, el arte realista puede ser una herramienta de educación artística. A su vez, el arte, como reflejo de la sociedad, desempeña un papel crucial en la expresión cultural y la construcción de la identidad individual y colectiva, ya que el artista no crea en un vacío, sino que su obra se ve influenciada y mediada por la realidad social y cultural en la que está inmerso. Por ello, Lukács nos invita a romper con las estructuras de poder y dominación que caracterizan a la sociedad capitalista y es lo que intentaremos demostrar aquí.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.32399/icsyh.bvbuap.2954-4300.2025.7.13.819",
+     "doi": "10.32399/icsyh.bvbuap.2954-4300.2025.7.13.819",
+     "paginas": "349-367",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.32399/icsyh.bvbuap.2954-4300.2025.6.12.848",
+     "titulo": "Fenomenología y Sociología: un ensayo sobre la esencia de su relación",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Pedro F. Hernández Ornelas",
+       "orcid": null
+      }
+     ],
+     "resumen": "La conjunción de dos anécdotas (Claude Bernard y Hegel) célebres en la historia de las ciencias sociales coincide en descubrir la capacidad de la razón para rastrear la trascendencia de la dignidad humana por su propio esfuerzo. Esto echa en descrédito el pensamiento materialista que dominó la época de la Ilustración y el nacimiento de la ciencia, afectando el interés central de la teoría social por desentrañar la complejidad de la acción social, y especialmente la primacía del conocimiento del sentido de las acciones humanas, que constituyen la misma vida del ser humano en su existencia grupal o comunitaria. Este ensayo se adhiere al pensamiento weberiano sobre el lugar prioritario que busca el sentido de la acción social. Sobre esa base, tras exponer la importancia del presente anecdótico sobre la capacidad del ser humano para vislumbrar su trascendental dignidad, propone iluminar la singularidad de este evento que, hasta hoy, sabemos que pertenece exclusivamente a los seres dotados de inteligencia y percepción intelectual de los fenómenos del mundo de la moral y del espíritu.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.32399/icsyh.bvbuap.2954-4300.2025.6.12.848",
+     "doi": "10.32399/icsyh.bvbuap.2954-4300.2025.6.12.848",
+     "paginas": "357-366",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.32399/icsyh.bvbuap.2954-4300.2025.6.12.849",
+     "titulo": "Futilidad marginal. Reflexiones sobre Marx, el marginalismo y la sociología moderna, de Simon Clarke",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Brendan Cooney",
+       "orcid": null
+      },
+      {
+       "nombre": "Edith González Cruz",
+       "orcid": "https://orcid.org/0000-0002-6910-8349"
+      },
+      {
+       "nombre": "Panagiotis Doulos",
+       "orcid": "https://orcid.org/0000-0002-9614-5129"
+      }
+     ],
+     "resumen": "Esta reflexión pretende abordar algunos de los problemas del viejo debate sobre el valor subjetivo y objetivo que se remonta más de cien años atrás, a los primeros debates entre economistas austriacos y marxistas. En su libro, Marx, el marginalismo y la sociología moderna (2023), Clarke desarrolla una fuerte crítica marxista del marginalismo basada en la crítica de Marx a la economía burguesa. El enfoque subjetivo del marginalismo respecto al valor surgió como respuesta a algunas insuficiencias de la economía clásica. No obstante, en lugar de superar estas insuficiencias, el marginalismo se presentó como una teoría pura, no partidista, que proporcionó una justificación naturalista del capitalismo. El objetivo de esta reseña es presentar los principales argumentos del libro de Clarke acerca de cómo el marginalismo abstrae a toda la sociedad de la teoría económica debido a su afirmación de que el capitalismo corresponde a una racionalidad formal y no a una racionalidad sustantiva, haciendo que el estado actual de las cosas parezca el orden permanente, inmutable y natural de las cosas.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.32399/icsyh.bvbuap.2954-4300.2025.6.12.849",
+     "doi": "10.32399/icsyh.bvbuap.2954-4300.2025.6.12.849",
+     "paginas": "367-378",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.32399/icsyh.bvbuap.2954-4300.2025.7.13.815",
+     "titulo": "Decrecimientos situados: perspectivas críticas desde América Latina y el Sur Global",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Carlos Tornel",
+       "orcid": null
+      },
+      {
+       "nombre": "Alberto Acosta",
+       "orcid": null
+      },
+      {
+       "nombre": "Gabriela Cabaña",
+       "orcid": null
+      },
+      {
+       "nombre": "Sofía Ávila",
+       "orcid": null
+      },
+      {
+       "nombre": "Miriam Lang",
+       "orcid": null
+      },
+      {
+       "nombre": "María Paz Aedo",
+       "orcid": null
+      },
+      {
+       "nombre": "Luca Ferrari",
+       "orcid": null
+      },
+      {
+       "nombre": "Carmen Aliaga",
+       "orcid": null
+      }
+     ],
+     "resumen": "Este artículo, en formato de diálogo, recoge un intercambio colectivo entre académicxs y activistas del Sur Global que explora críticamente el concepto de decrecimiento desde América Latina. Frente a un debate dominado por perspectivas del Norte Global, se propone un enfoque situado que reconozca la pluralidad de experiencias y resistencias en los territorios latinoamericanos. Se plantea que el decrecimiento no puede ser entendido como una receta universal ni una mera reducción del PIB, sino como una herramienta crítica para desmontar las lógicas capitalistas, coloniales y patriarcales del desarrollo. A partir de experiencias encarnadas en luchas por la justicia ambiental, la autonomía comunitaria y los saberes enraizados, se aboga por un decrecimiento relacional, articulado con el Buen Vivir, la comunalidad y otras cosmovisiones. El texto destaca la urgencia de construir alternativas al “modo de vida imperial” mediante procesos de simplificación, suficiencia y prefiguración política desde abajo. Se propone una agenda de investigación y acción que cuestione las narrativas hegemónicas, reconozca las múltiples crisis en curso y habilite transiciones socioecológicas justas y pluriversales.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.32399/icsyh.bvbuap.2954-4300.2025.7.13.815",
+     "doi": "10.32399/icsyh.bvbuap.2954-4300.2025.7.13.815",
+     "paginas": "369-414",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.32399/icsyh.bvbuap.2954-4300.2025.6.12.850",
+     "titulo": "Maiso, Jordi (2022). Desde la vida dañada. La teoría crítica de Theodor W. Adorno. Siglo XXI editores",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Franco J. Quiroga",
+       "orcid": "https://orcid.org/0000-0003-2601-434X"
+      }
+     ],
+     "resumen": "Jordi Maiso nos presenta su libro Desde la vida dañada. La teoría crítica de Theodor W. Adorno (2022), su primera obra publicada en la editorial Siglo XXI (España). Autor de Elementos para la rea- propiación de la Teoría Crítica de Theodor W. Adorno (2010), entre otros, y director de Constelaciones. Revista de Teoría Crítica, en esta ocasión el autor nos propone un recorrido sobre la teoría crítica del filósofo y sociólogo alemán Theodor W. Adorno, centrada, principalmente, en el concepto de vida dañada. A lo largo del libro, esta idea de vida dañada aparece como el eje articulador del pensamiento del filósofo, el cual permite distinguir el punto de encuentro entre un sistema social implacable y las biografías individuales de las personas.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.32399/icsyh.bvbuap.2954-4300.2025.6.12.850",
+     "doi": "10.32399/icsyh.bvbuap.2954-4300.2025.6.12.850",
+     "paginas": "379-382",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.32399/icsyh.bvbuap.2954-4300.2025.7.13.813",
+     "titulo": "(Re) Leer a Pashukanis hoy. A propósito de “Marxismo y Derecho. A un siglo de la Teoría general de Pashukanis” (Mariana Giaretto y Alberto Bonnet, Eds., Buenos Aires, Prometeo, 2024)",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Rodolfo Gómez",
+       "orcid": "https://orcid.org/0009-0008-1890-475X"
+      }
+     ],
+     "resumen": "A simple vista (es decir, desde un punto de vista –digamos- empirista), la relación entre derecho y poder (económico, político) resulta hoy de la mayor importancia. Más aún en una región como la latinoamericana donde actualmente –desde Ecuador, pasando por Brasil, Argentina, Chile, Bolivia, Colombia, Perú, El Salvador, Nicaragua, entre otros ejemplos-, de forma explícita, nos encontramos con modos de hacer política donde lo judicial se hace presente de modo preponderante. Este es el motivo –uno de los motivos- por el que resultó más que bienvenida, y de gran relevancia, la publicación de un libro como el que estamos aquí reseñando, que re-examina, de manera exhaustiva y crítica la obra del jurista soviético Evgeny Pashukanis; en particular su obra más importante: “La teoría del derecho y el marxismo” (publicada originalmente en 1924). Pueden leerse en esta publicación, compilada por Mariana Giaretto y Alberto Bonnet, artículos de autores de renombre en el derrotero del marxismo occidental y de las ciencias sociales en general, como ser los de Karl Korsch, Oscar Negt, Etienne Balibar, Antonio Negri, entre otros. Aunque, más allá de la importancia de estos nombres, resulte mucho más interesante encontrarse con la recuperación y difusión del trabajo de Pashukanis como así también con ciertos debates –promovidos a partir de su trabajo- que fueron y son invisibilizados incluso en la actualidad, pero que resultan imprescindibles para comprender el capitalismo contemporáneo como así las posibilidades de su superación.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.32399/icsyh.bvbuap.2954-4300.2025.7.13.813",
+     "doi": "10.32399/icsyh.bvbuap.2954-4300.2025.7.13.813",
+     "paginas": "416-425",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.32399/icsyh.bvbuap.2954-4300.2025.7.13.859",
+     "titulo": "García Vela, A .y Bonnet, A. (Coords.) (2023). Revolución, crítica y emancipación. Debates sobre el pensamiento político de John Holloway. BUAP/Universidad Nacional de Quilmes",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "María de Jesús Míaz Zúñiga",
+       "orcid": null
+      }
+     ],
+     "resumen": "La obra coordinada por Alfonso García Vela y Alberto Bonnet y publicada en su primera edición en 2023 por la Benemérita Universidad Autónoma de Puebla, se construye como un homenaje al profesor John Patrick Holloway por su septuagésimo quinto cumpleaños. Emerge, además, como una contribución significativa al pensamiento crítico contemporáneo, que discute profunda y críticamente el pensamiento teórico y político de Holloway. El volumen es una traducción de la edición en inglés “The Political Tought of John Holloway. Struggle, Critique, Emancipation” (Palgrave Macmillan, 2023).",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.32399/icsyh.bvbuap.2954-4300.2025.7.13.859",
+     "doi": "10.32399/icsyh.bvbuap.2954-4300.2025.7.13.859",
+     "paginas": "426-436",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.32399/icsyh.bvbuap.2954-4300.2025.7.13.801",
+     "titulo": "El mercado de trabajo durante la pandemia de Covid-19 en México",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Eduardo Crivelli Minutti",
+       "orcid": null
+      }
+     ],
+     "resumen": "La reseña analiza la obra Los problemas del mercado de trabajo en México y su impacto en la población en un contexto de pandemia por COVID-19 (Absalón, Ayance y Martínez, 2023), publicada por la BUAP. A través de un enfoque multidisciplinario el libro examina las transformaciones y desafíos del mercado laboral mexicano durante la crisis sanitaria, abordando el desempleo, la precarización y las desigualdades estructurales, subrayando la necesidad de políticas públicas para un ambiente laboral más justo y equitativo.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.32399/icsyh.bvbuap.2954-4300.2025.7.13.801",
+     "doi": "10.32399/icsyh.bvbuap.2954-4300.2025.7.13.801",
+     "paginas": "437-442",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.32399/icsyh.bvbuap.2954-4300.2025.7.13.807",
+     "titulo": "Escárzaga, F .N.; García, Y.; Sagal, Y .; Sánchez, M. Y carrillo, J.J.(coords.) (2020). Reflexiones sobre las violencias estatales y sociales en México y en América latina. México: UAM",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Yolanda Mexicalxóchitl García Beltrán",
+       "orcid": null
+      }
+     ],
+     "resumen": "Reseña de: Escárzaga, Fabiola Nicté, Yolanda García, Yakir Sagal, Margarita Sánchez y Juan José Carrillo (coords.) (2020). Reflexiones sobre las violencias estatales y sociales en México y en América Latina. México: Universidad Autónoma Metropolitana.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.32399/icsyh.bvbuap.2954-4300.2025.7.13.807",
+     "doi": "10.32399/icsyh.bvbuap.2954-4300.2025.7.13.807",
+     "paginas": "443-449",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.32399/icsyh.bvbuap.2954-4300.2025.7.13.824",
+     "titulo": "Herrera Mejía, l. Y Figueroa Ibarra, C. (coords.) (2025). Yum Kimil camina entre nosotros. Sociedad, Estado y Violencia en México. Universidad del Valle de Puebla",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Francisco Dwayne Luna Santiago",
+       "orcid": null
+      }
+     ],
+     "resumen": "Yum Kimil camina entre nosotros. Sociedad, estado y violencia en México es un libro que analiza la violencia en México como un fenómeno multidimensional, vinculándola con la modernidad capitalista y la dominación estatal en América Latina; desde la introducción, Leonardo Herrera Mejía y Carlos Figueroa Ibarra toman como punto de partida a Yum Kimil, deidad maya de la muerte, para simbolizar la omnipresencia de la violencia en el país. A partir de esta metáfora, los autores cuestionan su posible erradicación y proponen un análisis epistemológico que explora sus raíces sistémicas.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.32399/icsyh.bvbuap.2954-4300.2025.7.13.824",
+     "doi": "10.32399/icsyh.bvbuap.2954-4300.2025.7.13.824",
+     "paginas": "450-454",
+     "fuente": "Crossref"
+    }
+   ]
+  },
+  {
+   "id": "v6-n11-2024",
+   "volumen": "6",
+   "numero": "11",
+   "anio": 2024,
+   "fecha": "2024-12-05",
+   "etiqueta": "Vol. 6, núm. 11 (2024)",
+   "fuente": "Crossref",
+   "articulos": [
+    {
+     "id": "10.32399/icsyh.bvbuap.2954-4300.2024.6.11.770",
+     "titulo": "Presentación",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Mina Lorena Navarro",
+       "orcid": null
+      },
+      {
+       "nombre": ", Verónica Mariana Xochiquetzalli Barreda Muñoz",
+       "orcid": null
+      },
+      {
+       "nombre": "Alan Carmona Gutiérrez",
+       "orcid": null
+      }
+     ],
+     "resumen": "Este dossier tiene especial relevancia y significado para nosotras; su convocatoria estuvo pensada a partir de una preocupación encarnada. Nos interesa abrir líneas de diálogo con quienes están buscando ponerle palabras y echar luz a las condiciones de devastación radical de la vida en aquellos espacios y tiempos donde se han concentrado e intensificado los daños de esta tierra herida por la incesante lógica de la acumulación del capital con sus rasgos coloniales y patriarcales en contextos post pandemia, de cara a la decadencia neoliberal y las guerras en curso.En particular, la intención del llamado fue producir condiciones para abrir la escucha, y generar puentes y posibilidades de interlocución entre los distintos esfuerzos de conceptualización y análisis que se están produciendo en torno a las dinámicas de sacrificio, que se han desplegado en los cuerpos-territorios subalternizados por la acumulación incesante a partir de la segunda mitad del siglo xx.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.32399/icsyh.bvbuap.2954-4300.2024.6.11.770",
+     "doi": "10.32399/icsyh.bvbuap.2954-4300.2024.6.11.770",
+     "paginas": "11-20",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.32399/icsyh.bvbuap.2954-4300.2024.6.11.771",
+     "titulo": "El desarrollo como terricidio: zonas de sacrificio y extractivismo como política de Es-tado en México",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Carlos Tornel",
+       "orcid": null
+      }
+     ],
+     "resumen": "La declaración de Zonas Económicas Especiales (zee) de México en 2017 marcó un cambio territorial con amplias implicaciones geopolíticas. Surgiendo de reformas neoliberales iniciadas en 1992, el establecimiento de zee representa la culminación de tres décadas durante las cuales las políticas estatales mexicanas priorizaron cada vez más la extracción de hidrocarburos y minerales. La proliferación de zee, o 'polos de desarrollo', subraya una expansión simultánea de zonas de sacrificio (zs): lugares abandonados, contaminados, invisibles o eliminados en la búsqueda de bienes abstractos, como el crecimiento económico, el progreso y el desarrollo sostenible o la descarbonización. Con base en la literatura académica y 21 entrevistas semiestructuradas, este artículo demuestra cómo diversas formas de extractivismo –material, 'verde', epistémico, ontológico– continúan moldeando la política espacial en México. Además, proporciona una categorización sistemática de ZS existentes, emergentes, 'verdes' e 'indirectas', mientras el Estado perpetúa el extractivismo y el terricidio.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.32399/icsyh.bvbuap.2954-4300.2024.6.11.771",
+     "doi": "10.32399/icsyh.bvbuap.2954-4300.2024.6.11.771",
+     "paginas": "21-64",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.32399/icsyh.bvbuap.2954-4300.2024.6.11.772",
+     "titulo": "Elementos determinantes de las zonas de sacrificio en México",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Eber Martínez Giménez",
+       "orcid": null
+      },
+      {
+       "nombre": "Carlos Alberto Pérez Ramírez",
+       "orcid": null
+      }
+     ],
+     "resumen": "El trabajo tiene como objetivo delinear los elementos determinantes de las zonas de sacrificio en México para contribuir a su visibilidad y afirmación como objeto de estudio. Para ello, se desarrolló un análisis de información documental, a partir de diversos aportes teóricos, conceptuales y casos de estudio, así como la recuperación de la experiencia empírica, para determinar los elementos que caracterizan dos zonas de sacrificio en México. De esta forma se identificaron 5 ámbitos generales y 12 elementos determinantes de las zonas de sacrificio, que posibilitan su reconocimiento como problema prioritario para la conservación ambiental y el bienestar social de la población, así como un complejo objeto de estudio para diferentes disciplinas científicas.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.32399/icsyh.bvbuap.2954-4300.2024.6.11.772",
+     "doi": "10.32399/icsyh.bvbuap.2954-4300.2024.6.11.772",
+     "paginas": "65-96",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.32399/icsyh.bvbuap.2954-4300.2024.6.11.775",
+     "titulo": "Conceptualizando lugares de devastación ambiental, hacia una geografía política de “regiones de emergencia sanitaria y ambiental”",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "David Tapia Martínez",
+       "orcid": null
+      },
+      {
+       "nombre": "Oliver Gabriel Hernández Lara",
+       "orcid": null
+      },
+      {
+       "nombre": "Nicholas Jon Crane",
+       "orcid": null
+      }
+     ],
+     "resumen": "El texto expuesto a continuación se divide en 3 partes. La primera busca dar cuenta de una discusión conceptual. Para ello hacemos un breve recorrido por cuatro conceptos. Creamos una conversación entre “zonas de sacrificio”, “infiernos ambientales” y “Regiones de Emergencia Sanitaria y Ambiental” (resas), que actualmente en México se encuentran en tensión para denominar regionalmente la problemática ambiental, sus causas, efectos y posibles respuestas. El cuarto concepto es el nuestro, “paisajes de desaparición”, que describe producciones del espacio por parte de autoridades territoriales que les permite desentenderse de las consecuencias de, o evadir la responsabilidad por la creación de lugares de devastación ambiental. El repaso que damos se encuentra guiado por la pertinencia política de problematizar de tal o cual manera los territorios en los que sus habitantes viven, sufren y se oponen a condiciones graves de contaminación y morbilidad. La segunda parte sitúa nuestra lectura de estos conceptos en el contexto de una zona núcleo de la Región Tolteca –compuesta por los municipios de Atitalaquia, Atotonilco de Tula, Apaxco y Tula de Allende–, ubicada en el Valle del Mezquital, la cual concentra en su territorio actividades extractivas e industriales de considerable huella ecológica, como son una termoeléctrica, una refinería, siete plantas cementeras, incontables caleras, así como algunas fábricas de agroquímicos. Aquí planteamos una breve contextualización, a nivel general, para luego centrarnos en los daños sociales y ecológicos que han acompañado el desarrollo capitalista en la región y las movilizaciones de las organizaciones ante ello. Finalmente, cerramos el texto con una serie de conclusiones acerca de la necesidad de considerar conceptos por lo que implican políticamente y por cómo posicionan a los posibles sujetos de acción. Nos preocupa lo que nuestros conceptos suponen sobre los espacios de lo político y la manera en que hacen visible las capacidades de los sujetos críticos activos en estos espacios. En relación con los tres conceptos con los que abrimos el texto –“zonas de sacrificio,” “infiernos ambientales” y “Regiones de Emergencia Sanitaria y Ambiental” (resas)–, promovemos un modo de relación con las producciones teóricas como herramientas de politización en torno a las problemáticas que surgen en las regiones.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.32399/icsyh.bvbuap.2954-4300.2024.6.11.775",
+     "doi": "10.32399/icsyh.bvbuap.2954-4300.2024.6.11.775",
+     "paginas": "97-134",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.32399/icsyh.bvbuap.2954-4300.2024.6.11.780",
+     "titulo": "Ecatepec y sus cuerpos (de agua) desaparecidos: territorio de esperanza y sacrificio",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Ariana Mendoza Fragoso",
+       "orcid": null
+      }
+     ],
+     "resumen": "En este artículo muestro cómo el municipio de Ecatepec de Morelos, al nororiente del Valle de México, ha sido producido históricamente como un territorio en sacrificio; esto a partir de una revisión documental sobre sus reconfiguraciones territoriales, así como de recorridos etnográficos realizados entre los años 2018 y 2024 en las inmediaciones de su infraestructura de drenaje a cielo abierto y colonias vecinas a éstas. Muestro cómo, a diferencia de otros territorios de América Latina que han sido estudiados, no estamos ante la producción de un territorio en sacrificio a partir de un proyecto extractivo, sino por un proyecto de desechabilidad iniciado en la Colonia y que, sin embargo, es funcional a la acumulación de capital contemporánea. Este proyecto puede entenderse también como un proyecto de desaparición, que implica desde los cuerpos de agua que habitaron la cuenca todavía hace algunas décadas y que fueron drenados gracias a la infraestructura de drenaje, hasta los cuerpos de mujeres jó- venes y niñas que habitan esta periferia en la actualidad. Argumento que en los cuerpos de estas personas que buscan, son buscadas y aquellas que son encontradas sin vida en los canales, se inscribe y sedimenta la historia de despojos y violencias múltiples, por medio de las cuales ha sido construida esta periferia de la ciudad. Por último, planteo que, desde la experiencia de los sectores populares que habitan este territorio de sacrifico, paradójicamente, éste también ha sido y/o puede entenderse como un territorio de esperanza.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.32399/icsyh.bvbuap.2954-4300.2024.6.11.780",
+     "doi": "10.32399/icsyh.bvbuap.2954-4300.2024.6.11.780",
+     "paginas": "132-163",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.32399/icsyh.bvbuap.2954-4300.2024.6.11.781",
+     "titulo": "Necroterritorios y zonas del sacrificio: escenarios forenses en México contemporáneo",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Miguel Angel Martínez Martínez",
+       "orcid": null
+      }
+     ],
+     "resumen": "El presente trabajo busca desarrollar el término necroterritorios desde una reflexión filosófica sobre la desaparición forzada de personas y las fosas clandestinas como materializaciones de espacios de violencia y zonas del sacrificio. Se considera el reciente auge del giro espacial y el giro forense en América Latina para atender la intensa y profunda conflictividad generada a través de economías hiperliberales en el despliegue, diseminación y aumento de tales fenómenos consideradas aquí como ventanas analíticas y situaciones socioterritoriales. Desde este registro, los esfuerzos realizados por colectivos y buscadoras se vuelven casos testigos ligados a las zonas del sacrifico de cuerpos-territorios que ofrecen elementos para desplegar y desarrollar una aproximación conceptual. Estas coordenadas sociales serán el punto de partida para la indagación sobre las transformaciones de los cuerpo-territorios puestos en juego en tales escenarios, instalados desde los daños socioespaciales. La comprensión de la singularidad de tales dinámicas sacrificiales y necroterritoriales se anudan en la extensión del cuerpo-territorio como escenario de violencias y lugar donde se reconfiguran los espacios en campos clandestinos de enterramiento. Se concluye en las distinciones del robustecimiento institucional y económico para cuantificar y compensar los daños ocasionados, así como al impacto que el flujo económico produce sobre los escenarios socioambientales y lo que significa en términos de cristalización de la violencia y la anulación de dispositivos culturales anclados en las formas rituales de enterramiento como algo inconmensurable que altera el sentido de la vida y de la muerte.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.32399/icsyh.bvbuap.2954-4300.2024.6.11.781",
+     "doi": "10.32399/icsyh.bvbuap.2954-4300.2024.6.11.781",
+     "paginas": "164-191",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.32399/icsyh.bvbuap.2954-4300.2024.6.11.782",
+     "titulo": "Nombrar la devastación radical de la vida. Hacia una lectura eco-política de las zonas de sacrificio desde la cuenca alta del río Santiago en México",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Alan Carmona Gutiérrez",
+       "orcid": null
+      },
+      {
+       "nombre": "Verónica Mariana Xochiquetzalli Barreda Muñoz",
+       "orcid": null
+      }
+     ],
+     "resumen": "En este texto nos interesa dar a conocer y amplificar la producción de sentido disidente que se ha generado en los contextos de devastación radical de la vida. Para ello, hemos recuperado la noción de zonas de sacrificio en aras de dar cuenta de su potencia y especificidad para leer estos contextos, y la hemos puesto en diálogo con las iniciativas de producción de saber-hacer en México que han tratado de dar cuenta del carácter destructivo de las lógicas de contaminación y procesos de despojo. Nos centramos en la experiencia de la Agrupación Un Salto de Vida (usv), que, desde 2006 ha denunciado estos procesos de devastación en la Cuenca Alta del Río Santiago (cars) a partir de distintas estrategias políticas y sociales, entre las cuales nos interesa destacar la capacidad para producir sentido y encarar disputas contra Estado y empresas. Para ello, proponemos una resignificación del concepto zonas de sacrificio encausado a comprender la compleja problemática en México; una recuperación de la manera en que han sido leídos estos territorios desde nuestros contextos y, finalmente, una propuesta conceptual que nos aproxima a pensar en su especificidad, desde la CARS.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.32399/icsyh.bvbuap.2954-4300.2024.6.11.782",
+     "doi": "10.32399/icsyh.bvbuap.2954-4300.2024.6.11.782",
+     "paginas": "192-237",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.32399/icsyh.bvbuap.2954-4300.2024.6.11.785",
+     "titulo": "Racionalizar la acumulación en una zona de sacrificio urbano-industrial: Nearshoring y otras contradicciones de ‘revivir’ el río Santiago, México.",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Cindy McCulligh",
+       "orcid": null
+      }
+     ],
+     "resumen": "La Cuenca Alta del río Santiago alberga el Área Metropolitana de Guadalajara, uno de los principales corredores industriales del país y uno de sus ríos más contaminados, el Santiago. La contaminación de este río ha desatado un conflicto socioambiental donde organizaciones de las comunidades ribereñas de El Salto y Juanacatlán denuncian la expansión urbana e industrial descontrolada que ha convertido a este territorio en una zona de sacrificio. En este artículo exploro las contradicciones y ausencias de una estrategia de nivel estatal iniciada en 2018 para el río Santiago, y el papel del Estado en términos más generales en la gestión y el aprovechamiento de una crisis ambiental para facilitar los procesos de acumulación capitalista en la cuenca fluvial. La actividad industrial se ha expandido en la región desde que se lanzó la estrategia del río y durante el período de la pandemia de covid-19. Al mismo tiempo, la estrategia de recuperación del río no sólo ha sido deficiente en acciones para controlar o reducir las fuentes industriales de contaminación. Una visión cortada y utilitaria de los recursos hídricos margina los temas de la fragmentación del río a través de represas y desvíos, y de la extracción no controlada de aguas subterráneas. En este artículo, enfoco el análisis en el papel del Estado como una institución “creadora del ambiente” (environment-making) (Parenti, 2016), al adoptar una narrativa de crisis ambiental para justificar inversiones en infraestructura de tratamiento de aguas residuales al mismo tiempo que políticas de atracción de inversiones y la escasa fiscalización ambiental agudizan las causas de la crisis socioambiental en la cuenca.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.32399/icsyh.bvbuap.2954-4300.2024.6.11.785",
+     "doi": "10.32399/icsyh.bvbuap.2954-4300.2024.6.11.785",
+     "paginas": "238-279",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.32399/icsyh.bvbuap.2954-4300.2024.6.11.786",
+     "titulo": "Historia ambiental desde abajo: los habitantes ribereños de la Ciénega de Chapala y la afectación ambiental por la construCCión de las presas de Juanacatlán y Poncitlán en el río Santiago, Jalisco, México, 1893-1910",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Omar Muñoz Raigosa",
+       "orcid": null
+      }
+     ],
+     "resumen": "Este artículo expone un primer acercamiento histórico a las intervenciones de la Cuenca Alta del Río Santiago. También explora cómo la construcción de la presa hidroeléctrica Juanacatlán y de la presa de control Poncitlán provocó una fractura metabólica (Moore, 2020) en la Ciénega de Chapala y en la Cuenca Alta del río Santiago, siendo esta el origen de una zona de sacrificio en la región (Navarro Trujillo & Barreda Muñoz, 2022). A partir de la historia ambiental desde abajo y de una crítica anticolonial a los archivos se observan las intervenciones realizadas en la cuenca alta del río Santiago en Jalisco y las afectaciones a los pueblos de Sahuayo y Pajacuarán en la Ciénega de Chapala, Michoacán. Por una parte, los habitantes denunciaron sus preocupaciones por el sacrificio de su territorio y la reproducción de la vida, por otra, los hacendados realizaron quejas por inundaciones y han aportado información sobre las intervenciones al río y sus consecuencias ambientales. Para finalizar, se relaciona la construcción de estas dos presas con el decreto de la cota media de Chapala, la reproducción del lirio acuático y la desecación de la Ciénega de Chapala.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.32399/icsyh.bvbuap.2954-4300.2024.6.11.786",
+     "doi": "10.32399/icsyh.bvbuap.2954-4300.2024.6.11.786",
+     "paginas": "283-312",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.32399/icsyh.bvbuap.2954-4300.2024.6.11.789",
+     "titulo": "Sacrificio por ornato. Sobre el trabajo alienado desde una perspectiva fenomenológica",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "María Cervantes Oliveros",
+       "orcid": null
+      }
+     ],
+     "resumen": "El presente trabajo tiene por propósito vincular el concepto de trabajo alienado en Marx con la noción de sacrificio práctico de la ética en el marco de la fenomenología husserliana, trazando las líneas de posible dialogo entre dos filosofías que tienen por principio la praxis. Lo anterior se procura a partir del ejemplo paradigmático de lo que se calificará como sacrificio en el trabajo del sector florícola en México. Se realiza una comparativa conceptual a partir del caso ejemplar, tomando esta forma de trabajo como representativa del fenómeno del sacrificio descrito por Marx como ingrediente del trabajo alienado y por Husserl como producto de la decisión entre valores absolutos. El trabajo logra ubicar, a partir de esta línea común en ambos autores, una posible línea de diálogo a partir de la descripción de las estructuras de la experiencia, apuntando al posible enriquecimiento de la descripción fenomenológica sobre la pérdida de sí mismo gracias al desarrollo del concepto de alienación en el marco de la definición del trabajo.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.32399/icsyh.bvbuap.2954-4300.2024.6.11.789",
+     "doi": "10.32399/icsyh.bvbuap.2954-4300.2024.6.11.789",
+     "paginas": "313-330",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.32399/icsyh.bvbuap.2954-4300.2024.6.11.792",
+     "titulo": "“Una muerte lenta”. Violencias y cuidados en contextos de zonas de sacrificio por explotación bananera",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Sofía Vitali",
+       "orcid": null
+      },
+      {
+       "nombre": "Magali Marega",
+       "orcid": null
+      }
+     ],
+     "resumen": "En este trabajo analizamos los territorios de explotación bananera en Ecuador, como zonas de sacrificio, que operan como palimpsesto de múltiples violencias desplegadas sobre los cuerpos-territorios (Barreda y Navarro, 2022) producto de los procesos de acumulación capitalista a escala ampliada. Mediante una metodología cualitativa y etnográfica nuestro estudio incluyó 25 entrevistas en profundidad a trabajadores y trabajadoras bananeras, familiares y dirigentes sindicales, también realizamos recorridos por el territorio y relevamiento de fuentes secundarias. El levantamiento de información se centró en la provincia de Los Ríos la cual es considerada la nueva capital bananera de Ecuador por ser el centro de operaciones de la mayoría de compañías bananeras que operan en el país. Entre nuestros hallazgos identificamos que, a partir de los procesos de avance de la agroindustria en Ecuador, y especialmente de la industria bananera, que refuerza el carácter primario de la economía y el legado territorial colonial del modelo de plantación, es posible identificar una dinámica de repatriarcalización de los territorios que está en permanente configuración. La devastación ambiental y de la fuerza de trabajo son dos procesos de despojos históricos que se entraman generando palimpsestos de violencias hacia los cuerpos-territorios, pero al mismo tiempo, generan prácticas de cuidados y atención a través de nuevos entramados comunitarios que tienden a reconstruir el tejido de la vida.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.32399/icsyh.bvbuap.2954-4300.2024.6.11.792",
+     "doi": "10.32399/icsyh.bvbuap.2954-4300.2024.6.11.792",
+     "paginas": "331-364",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.32399/icsyh.bvbuap.2954-4300.2024.6.11.797",
+     "titulo": "Zonas de sacrificio en el espacio urbano: el caso de la contaminación atmosférica en los barrios periféricos de la ciudad de Río de Janeiro",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Thiago Roniere Tavares",
+       "orcid": null
+      }
+     ],
+     "resumen": "El objetivo de este trabajo es analizar la formación de una zona de sacrificio en el espacio urbano de una gran metrópolis brasileña. Más precisamente en uno de los barrios de la periferia de la ciudad de Río de Janeiro, donde sus habitantes han sufrido los impactos urbano-ambientales de la instalación de industrias altamente contaminantes. El barrio en cuestión se llama Santa Cruz y está situado a orillas de la bahía de Sepetiba-RJ, al oeste de Río de Janeiro. El barrio está formado por varios barrios de chabolas, huertos, urbanizaciones, entre otros tipos diferentes de ocupación, pero que tienen en común la condición de vulnerabilidad de sus residentes, debido a los bajos niveles de calidad de vida en comparación con otros barrios de Río de Janeiro. Históricamente, el barrio ha estado ocupado por una clase trabajadora formada por grupos racializados que viven en condiciones precarias. Estas condiciones empeoraron cuando el mayor productor de acero de América Latina se instaló en el barrio en 2005. Cuando comenzó a operar en 2010, empezaron a aparecer diferentes tipos de efectos nocivos para el medio ambiente como resultado de su proceso de producción. Metodológicamente, nuestra investigación sigue un camino que vincula las dimensiones cualitativa y cuantitativa para ver cómo los impactos negativos de la empresa en cuestión dan lugar a una situación de injusticia medioambiental y configuran la zona de sacrificio de Santa Cruz-RJ.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.32399/icsyh.bvbuap.2954-4300.2024.6.11.797",
+     "doi": "10.32399/icsyh.bvbuap.2954-4300.2024.6.11.797",
+     "paginas": "365-388",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.32399/icsyh.bvbuap.2954-4300.2024.6.11.798",
+     "titulo": "Habitar zonas de sacrificio: experiencias de comunidades afectadas por rellenos sanitarios en Costa Rica",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Sindy Mora Solano",
+       "orcid": null
+      }
+     ],
+     "resumen": "El objetivo del artículo es analizar las experiencias de habitar en zonas de sacrificio vinculadas a los rellenos sanitarios de La Carpio y El Huazo, en Costa Rica. Se utiliza un método de estudio de casos, con la revisión de fuentes periodísticas, leyes, resoluciones a los recursos de amparo presentados ante la Sala Constitucional y entrevistas a habitantes de comunidades afectadas. En el artículo se plantea que habitar en zonas de sacrificio (Lerner, 2010) consiste no sólo en vivir la degradación ambiental que afecta a los territorios y los cuerpos, ya que proyectos de este tipo potencian el deterioro en los vínculos comunitarios y el debilitamiento de la relación con las instituciones estatales y municipales. A partir de la obra de Ahmed, se concluye que la constante interposición de denuncias, sin obtener respuesta, conlleva a un desgaste comunitario e institucional (Ahmed, 2022). La limitación del artículo reside en que no es posible acceder a todas las denuncias interpuestas por quienes habitan en las zonas de sacrificio, debido a que estas no son públicas. La originalidad consiste en que en el artículo se estudia cómo en dos comunidades trazadas por la desigualdad se configuraron zonas de sacrificio en donde se deposita la basura de la Gran Área Metropolitana.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.32399/icsyh.bvbuap.2954-4300.2024.6.11.798",
+     "doi": "10.32399/icsyh.bvbuap.2954-4300.2024.6.11.798",
+     "paginas": "389-416",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.32399/icsyh.bvbuap.2954-4300.2024.6.11.788",
+     "titulo": "Revolución y liquidación de la transferencia. La destitución subjetiva como procedimiento de emancipación social",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Vladimir Safatle",
+       "orcid": null
+      },
+      {
+       "nombre": "Pablo Ignacio Jiménez Cea",
+       "orcid": null
+      }
+     ],
+     "resumen": "El siguiente artículo trata sobre la destitución subjetiva como procedimiento necesario para un proceso histórico de emancipación social. Dado que, desde el psicoanálisis, no puede existir la constitución de un entramado social sin alguna forma de identificación, su autor señala la importancia de la comprensión de la dinámica de la transferencia en la clínica para abordar los procesos de destitución subjetiva que se operan en el curso de una transformación histórica de carácter radical. Siempre hay una relación entre el acto y el intento de transformar lo imposible del goce en la figura de una forma de relación futura, dando cuerpo a lo imposible. De esta manera, en la transferencia, no sería posible que el sujeto no sea impulsado por la emergencia del goce más allá de las formas de la inscripción simbólica del deseo. Esto es exactamente lo que permite la liquidación de la transferencia, su no consolidación en una simple relación de sugestión y dependencia. Es ahí donde reside, en la propia constitución del vínculo social, la posibilidad de la no-adecuación con la totalidad y, por tanto, de su transformación revolucionaria.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.32399/icsyh.bvbuap.2954-4300.2024.6.11.788",
+     "doi": "10.32399/icsyh.bvbuap.2954-4300.2024.6.11.788",
+     "paginas": "418-433",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.32399/icsyh.bvbuap.2954-4300.2024.6.11.790",
+     "titulo": "Introducción. La revolución teórica inacabada",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Robert Kurz",
+       "orcid": null
+      }
+     ],
+     "resumen": "En este texto Robert Kurz nos introduce en su última obra, aquella en que trata de continuar su profundización de la crítica de la economía política de Marx con una nueva reformulación. Para ello, nos va a mostrar cómo, hasta ahora, la crítica de la economía política ha permanecida presa de algunos de los elementos menos críticos, o directamente acríticos, del propio Marx y eso ha dado lugar determinados desarrollos que conocemos hoy como marxismo vulgar o tradicional. A su vez, la camisa de fuerza impuesta por algunas de las nuevas interpretaciones, especialmente en términos filológicos, también ha impedido una reapropiación y una reactualización de los planteamientos marxianos acorde con los tiempos presentes. Para ello, en esta introducción Kurz va a tratar de plantear de forma somera aquello que va a desarrollar a lo largo de todo un libro que es imprescindible leer en su totalidad.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.32399/icsyh.bvbuap.2954-4300.2024.6.11.790",
+     "doi": "10.32399/icsyh.bvbuap.2954-4300.2024.6.11.790",
+     "paginas": "444-470",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.32399/icsyh.bvbuap.2954-4300.2024.6.11.791",
+     "titulo": "Nota crítica del traductor",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Guillermo Hernández Porras",
+       "orcid": null
+      }
+     ],
+     "resumen": "Debido a que el texto que aquí traduzco es la introducción a un libro, la introducción a Geld ohne Wert (Dinero sin valor) de Robert Kurz, publicado en Berlín por la editorial Horlemann Verlag en 2012, considero que es realmente importante hacer algunas apreciaciones que permitan comprender la intención con la que se lleva a cabo esta traducción. Si en un momento dado decidí traducir La sustancia del capital1 (Kurz, 2021: 3) para intentar contribuir a romper esa “conspiración del silencio”2 (Jappe, 2014:406) existente en torno a la obra de Robert Kurz, especialmente en el ambiente hispanohablante, lo que me impulsa a traducir este texto es el subtítulo del libro del que aquí aparece traducida su introducción: Elementos fundamentales para una transformación de la crítica de la economía política (Grundrisse zu einer Transformation der Kritik der politischen Ökonomie).",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.32399/icsyh.bvbuap.2954-4300.2024.6.11.791",
+     "doi": "10.32399/icsyh.bvbuap.2954-4300.2024.6.11.791",
+     "paginas": "471-487",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.32399/icsyh.bvbuap.2954-4300.2024.6.11.793",
+     "titulo": "Gaza y el espíritu del capitalismo",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Sergio Tischler",
+       "orcid": null
+      }
+     ],
+     "resumen": "Texto inspirado en Walter Benjamin No es solamente el Estado de Israel el perpetrador del genocidio en Gaza. Es el sistema. El genocidio en Gaza es la expresión más clara de su espíritu, de su ethos más profundo, el cual se disfraza de manera cínica y éticamente insostenible con los ropajes de la democracia liberal, exhibida hoy en toda su falsedad como una manifestación de lo que trata de ocultar, es decir, ser ideología de un universal violento. No podemos entender Gaza si no relacionamos la particularidad del genocidio de la población perpetrado en esas tierras con la reproducción del sistema como proceso de totalización que implica la violencia como forma de existencia, con la nuda vida que le es inherente al capital. La verdad del genocidio en particular, y la violencia moderna en general, es que están en el corazón mismo de sistema, constituyen el verdadero “espíritu” del capitalismo.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.32399/icsyh.bvbuap.2954-4300.2024.6.11.793",
+     "doi": "10.32399/icsyh.bvbuap.2954-4300.2024.6.11.793",
+     "paginas": "489-491",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.32399/icsyh.bvbuap.2954-4300.2024.6.11.795",
+     "titulo": "Marxismo Abierto",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "John Holloway",
+       "orcid": null
+      }
+     ],
+     "resumen": "Una nota introductoria sobre el Marxismo Abierto como apuesta teórica y política, enfocada sobre todo en el significado de la lógica del capital.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.32399/icsyh.bvbuap.2954-4300.2024.6.11.795",
+     "doi": "10.32399/icsyh.bvbuap.2954-4300.2024.6.11.795",
+     "paginas": "493-496",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.32399/icsyh.bvbuap.2954-4300.2024.6.11.796",
+     "titulo": "Scholz, Roswitha (2019). Le sexe du capitalisme. “Masculinité” et “feminité” comme piliers du patriarcat producteur de marchandises. Éditions crise & critique",
+     "idioma_titulo": "fr",
+     "autores": [
+      {
+       "nombre": "Camila Barragán",
+       "orcid": null
+      }
+     ],
+     "resumen": "Este libro compila 8 ensayos, escritos entre 1992 y 2016 y publicados en distintos volúmenes, entre ellos en la revista alemana Exit!. Originalmente escritos en alemán, fueron traducidos al francés y publicados en la editorial Crise & Critique, cuya labor editorial, de discusión y de producción teórica, se centra en la crítica de la escisión del valor. Esta tradición, nombrada inicialmente crítica del valor, comienza a tomar forma desde los años 80s a través de la publicación extra-académica en revista autogestionadas, como la que más tarde llegaría a llamarse revista Krisis.2 La crítica del valor es una crítica de la estructura fetichista capitalista. Da cuenta de la direccionalidad del entramado de socialización capitalista derivado de sus tendencias –objetivas y contradictorias– vinculadas a la dinámica del valor y del trabajo abstracto y que apuntan al colapso, no emancipatorio, del capitalismo.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.32399/icsyh.bvbuap.2954-4300.2024.6.11.796",
+     "doi": "10.32399/icsyh.bvbuap.2954-4300.2024.6.11.796",
+     "paginas": "497-508",
+     "fuente": "Crossref"
+    }
+   ]
+  }
+ ]
+};

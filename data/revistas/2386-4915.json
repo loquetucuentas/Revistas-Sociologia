@@ -1,0 +1,783 @@
+{
+ "version": 1,
+ "generado": "2026-10-18T05:53:59+00:00",
+ "es_prueba": false,
+ "revista": {
+  "id": "2386-4915",
+  "titulo": "Ehquidad",
+  "idioma_titulo": null,
+  "titulo_alternativo": null,
+  "idioma_titulo_alternativo": null,
+  "idiomas": [
+   "es"
+  ],
+  "issn_impreso": null,
+  "issn_electronico": "2386-4915",
+  "editorial": "Proeditio.com",
+  "pais": "ES",
+  "materias": [
+   "Social history and conditions. Social problems. Social reform",
+   "Sociology (General)"
+  ],
+  "palabras_clave": [
+   "equity",
+   "justice",
+   "exclusion",
+   "poverty",
+   "well-being",
+   "social work"
+  ],
+  "licencias": [
+   {
+    "nombre": "CC BY-NC-SA 4.0",
+    "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+   }
+  ],
+  "url": "https://revistas.proeditio.com/ehquidad/",
+  "url_doaj": "https://doaj.org/toc/2386-4915",
+  "descripcion": null,
+  "fuente_ficha": "DOAJ",
+  "archivo": "revistas/2386-4915.json",
+  "ultimo_numero": "núm. 26 (2026)",
+  "fuente_numeros": "Crossref"
+ },
+ "numeros": [
+  {
+   "id": "n26-2026",
+   "volumen": null,
+   "numero": "26",
+   "anio": 2026,
+   "fecha": "2026-05-23",
+   "etiqueta": "núm. 26 (2026)",
+   "fuente": "Crossref",
+   "articulos": [
+    {
+     "id": "10.15257/ehquidad.2026.0011",
+     "titulo": "La evaluación de los Servicios Sociales en España: concepto, evolución y retos actuales",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Carmen Arenas Carbellido",
+       "orcid": null
+      },
+      {
+       "nombre": "María Victoria Ochando Ramírez",
+       "orcid": null
+      },
+      {
+       "nombre": "Marta Caballero",
+       "orcid": null
+      }
+     ],
+     "resumen": "La evaluación constituye un instrumento para el avance de las políticas públicas y los derechos de la ciudadanía. Este artículo examina la definición de evaluación de las políticas de servicios sociales en España, evolución y restos. Para ello, se ha realizado un análisis del discurso de todas las leyes españolas de servicios sociales (40) desde 1988 hasta 2022. La investigación cualitativa revela que el concepto ha evolucionado desde un estado embrionario inicial hasta un estado actual de consolidación, y ha sido principalmente instrumental en la toma de decisiones. El concepto de evaluación revela concepciones de justicia y equidad que sustentan el sistema social e invitan a la reflexión en relación con el modelo de Servicios Sociales y las prácticas del Trabajo Social.",
+     "idioma_resumen": "es",
+     "licencia": null,
+     "url": "https://doi.org/10.15257/ehquidad.2026.0011",
+     "doi": "10.15257/ehquidad.2026.0011",
+     "paginas": "11-36",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.15257/ehquidad.2026.0012",
+     "titulo": "Factores estructurales y socioculturales en la vulneración de derechos de niños, niñas y adolescentes Nukak y Jiw en San José del Guaviare (Colombia)",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Alba Yaneth Varón Torres",
+       "orcid": "https://orcid.org/0000-0002-0081-1837"
+      },
+      {
+       "nombre": "Jhon Jairo Ortiz Alvarado",
+       "orcid": null
+      },
+      {
+       "nombre": "David Alejandro Tobón López",
+       "orcid": null
+      }
+     ],
+     "resumen": "Este artículo da cuenta de una investigación en la Maestría en Gestión de la Seguridad en la Escuela de Posgrados de la Policía Nacional de Colombia, que examina los factores que configuran la vulneración sistemática de derechos de niños, niñas y adolescentes de las comunidades indígenas Nukak y Jiw en San José del Guaviare durante el período 2019-2024. El estudio adoptó un diseño de caso múltiple fundamentado en perspectiva constructivista-crítica, procesando cinco expedientes judiciales y entrevistas semiestructuradas a funcionarios del circuito penal mediante análisis temático reflexivo en ATLAS.ti 25. La construcción de un código fundamentado de 24 categorías (con validez de contenido S-CVI > 0,80 y consistencia interna ? = 0,83) permitió identificar tres dimensiones causales interrelacionadas: motores estructurales (vacío de gobernanza y pobreza crónica), obstáculos socioculturales (barreras lingüísticas y estigmatización étnica) y fallas organizativas (débil coordinación interinstitucional). La matriz Vester ubicó el vacío de gobernanza como factor un determinante y la pobreza estructural como motor primario del sistema. Los resultados evidencian que la violencia sexual infantil trasciende episodios aislados para constituirse en manifestación de una arquitectura causal compleja donde las políticas diferenciales se diluyen en la implementación territorial. En ese sentido, la co-ocurrencia entre discriminación étnica y barreras comunicativas (? = 0,62) inhibe los mecanismos de denuncia. Por lo tanto, se propone un modelo intercultural que prioriza mediadores indígenas acreditados y protocolos culturales como estrategia para cerrar la brecha entre normativa formal y protección efectiva.",
+     "idioma_resumen": "es",
+     "licencia": null,
+     "url": "https://doi.org/10.15257/ehquidad.2026.0012",
+     "doi": "10.15257/ehquidad.2026.0012",
+     "paginas": "37-62",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.15257/ehquidad.2026.0013",
+     "titulo": "El Divorcio y el Rendimiento Académico en Adolescentes",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "María Isabel Torres García",
+       "orcid": null
+      },
+      {
+       "nombre": "Nancy Lorena Reyes Mero",
+       "orcid": null
+      },
+      {
+       "nombre": "Jessica Alexandra Chonillo Molina",
+       "orcid": "https://orcid.org/0009-0002-5122-1164"
+      }
+     ],
+     "resumen": "En la actualidad, el impacto del divorcio en el rendimiento académico de los adolescentes es un tema de creciente interés y relevancia, este fenómeno social ha generado una considerable atención debido a su influencia en la vida emocional, psicológica y académica de los jóvenes, el divorcio no solo representa una transformación en la estructura familiar, sino que también puede generar efectos significativos en el desempeño educativo de los adolescentes, el propósito del estudio analizó la influencia que tiene el divorcio en los adolescentes y como afecta el bajo rendimiento académico, la metodología fue cualitativo de tipo exploratoria y descriptiva; aquello permitió el acercamiento a los estudiantes, la técnica que se empleó fue la entrevista dirigida a 12 estudiantes de padres divorciados, 12 padres de familia y la Trabajadora Social como parte del DECE y como instrumento se realizó un cuestionario preguntas abiertas de forma personal, directa y verbal. Este estudio se enfocó en los beneficios que estas acciones pueden aportar a docentes, orientadores, estudiantes y familias que atraviesan procesos de divorcio donde es importante la comprensión y el entendimiento de la realidad social. Su principal resultado fue que el divorcio influye en los adolescentes de manera académica e impacta en el nivel de apoyo emocional y económico, la depresión, autoestima y la adaptación al cambio influye en el rendimiento académico. Se concluye que la experiencia del divorcio impacta significativamente la vida académica de los adolescentes en la concentración, originando distracciones y estrés emocional que inciden directamente en su desempeño educativo.",
+     "idioma_resumen": "es",
+     "licencia": null,
+     "url": "https://doi.org/10.15257/ehquidad.2026.0013",
+     "doi": "10.15257/ehquidad.2026.0013",
+     "paginas": "63-82",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.15257/ehquidad.2026.0014",
+     "titulo": "Experiencias educativas interuniversitarias e internacionales con enfoque intercultural.",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Núria Llevot Calvet",
+       "orcid": null
+      },
+      {
+       "nombre": "Olga Bernard Cavero",
+       "orcid": null
+      },
+      {
+       "nombre": "Àngels Torrelles Montanuy",
+       "orcid": null
+      },
+      {
+       "nombre": "Christian Coffi Hounnouvi",
+       "orcid": null
+      },
+      {
+       "nombre": "Sílvia Cavalcante",
+       "orcid": null
+      },
+      {
+       "nombre": "Gabriella Aleandri",
+       "orcid": null
+      }
+     ],
+     "resumen": "El presente artículo analiza en profundidad una experiencia educativa interuniversitaria internacional desarrollada en el marco del programa Erasmus+ de movilidad corta combinada, orientada a la formación en ciudadanía europea desde una perspectiva de interculturalidad, equidad y justicia social. La propuesta formativa, implementada durante el curso académico 2025/2026 entre la Universidad de Lleida, Nantes Université y la Università Roma Tre, se centró en una perspectiva socioeducativa crítica, reflexiva y participativa, combinando una fase formativa virtual y otra presencial, con el objetivo de promover el intercambio y la implicación activa del estudiantado. El artículo otorga un peso central a la metodología Photovoice, utilizada para el diseño pedagógico, y de investigación educativa. Los resultados evidencian que las metodologías participativas constituyen una vía privilegiada para una educación superior inclusiva, crítica y socialmente responsable. El alumnado ha construido conocimiento situado, ha desarrollado competencias interculturales y ciudadanas, y ha formulado propuestas de incidencia socioeducativa orientadas a la equidad y la transformación social.",
+     "idioma_resumen": "es",
+     "licencia": null,
+     "url": "https://doi.org/10.15257/ehquidad.2026.0014",
+     "doi": "10.15257/ehquidad.2026.0014",
+     "paginas": "83-116",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.15257/ehquidad.2026.0015",
+     "titulo": "La realidad relacional de las personas jóvenes en situación de sinhogarismo y exclusión residencial: apoyo social y relaciones sociales",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Iria Noa De la Fuente-Roldán",
+       "orcid": "https://orcid.org/0000-0002-6740-649X"
+      },
+      {
+       "nombre": "Esteban Sánchez-Moreno",
+       "orcid": "https://orcid.org/0000-0002-2978-9485"
+      }
+     ],
+     "resumen": "Este trabajo analiza el apoyo y relaciones sociales de las personas jóvenes en situación de sinhogarismo y exclusión residencial (PJsSH). La investigación parte de un diseño metodológico mixto mediante la realización de un cuestionario (n= 181) y entrevistas en profundidad (n= 9) a PJsSH. Los resultados muestran los bajos niveles de apoyo social y la precariedad relacional de las personas participantes. Las medias más bajas de apoyo social aparecen en los hombres, las personas en situación de sinhogarismo estricto, las personas de origen africano y las personas desempleadas. Esta precariedad relacional se ve vertebrada por la falta de referentes familiares y de amistad. A su vez, se ve amortiguada por la labor de los y las profesionales de la intervención social. Se concluye la importancia de abordar el sinhogarismo juvenil incorporando los aspectos relacionales, elementos clave para afrontar el impacto de las desigualdades sociales.",
+     "idioma_resumen": "es",
+     "licencia": null,
+     "url": "https://doi.org/10.15257/ehquidad.2026.0015",
+     "doi": "10.15257/ehquidad.2026.0015",
+     "paginas": "117-148",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.15257/ehquidad.2026.0016",
+     "titulo": "Explorando la ideación suicida en adolescentes y adultos jóvenes: trastornos de la conducta alimentaria (TCA), malestar psicológico, autoestima y satisfacción familiar.",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Aylin Alba Mandak Arjona",
+       "orcid": null
+      },
+      {
+       "nombre": "Gianluigi Moscato",
+       "orcid": null
+      },
+      {
+       "nombre": "Luis Gómez Jacinto",
+       "orcid": null
+      }
+     ],
+     "resumen": "Esta investigación analiza el efecto de diversos factores psicológicos, como los trastornos de la conducta alimentaria (TCA), el malestar psicológico (ansiedad y depresión), la autoestima y la satisfacción familiar, sobre la ideación suicida en adolescentes y adultos jóvenes. El estudio se llevó a cabo en las provincias de Cádiz y Málaga (España), utilizando métodos cuantitativos y de corte transversal. La muestra incluyó a 494 participantes, en su mayoría españoles, con edades comprendidas entre los 16 y los 29 años. Se utilizó un cuestionario unificado que incluía varias escalas estandarizadas para medir la ideación suicida, los trastornos de la conducta alimentaria, el malestar psicológico, la autoestima y la satisfacción familiar. Los resultados revelaron una relación significativa entre los trastornos de la conducta alimentaria, el malestar psicológico y la ideación suicida, mientras que una baja autoestima y una baja satisfacción familiar se asociaron negativamente con la ideación suicida. El análisis de regresión indicó que estos factores explicaban el 32.1% de la variabilidad en la ideación suicida. Los análisis de moderación mostraron que la edad, pero no el sexo, impactaba en la relación entre los trastornos de la conducta alimentaria, la autoestima y la ideación suicida, observándose efectos más fuertes entre los participantes más jóvenes. Estos hallazgos subrayan la importancia de abordar los trastornos de la conducta alimentaria, el malestar psicológico, la autoestima y la satisfacción familiar mediante intervenciones educativas y una investigación continua, ya que son factores clave en la prevención de la ideación suicida entre adolescentes y adultos jóvenes.",
+     "idioma_resumen": "es",
+     "licencia": null,
+     "url": "https://doi.org/10.15257/ehquidad.2026.0016",
+     "doi": "10.15257/ehquidad.2026.0016",
+     "paginas": "149-186",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.15257/ehquidad.2026.0017",
+     "titulo": "¿Debería interesarse el Trabajo Social por la Teoría Analítica?",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "José Antonio López Rodríguez",
+       "orcid": null
+      }
+     ],
+     "resumen": "Este artículo propone una reflexión teórica sobre el Trabajo Social desde la perspectiva de la Teoría Analítica, con el objetivo de fortalecer su base científica y epistemológica. Se plantea como el análisis mediante mecanismos sociales —centrado en las acciones de los agentes, sus creencias, deseos y oportunidades— permite una comprensión más precisa y profunda de los fenómenos sociales, superando enfoques meramente descriptivos o correlacionales. La metodología empleada es de carácter teórico-conceptual, basada en la revisión crítica de autores como Elster, Hedström, Boudon, Coleman, entre otros/as. A través del estudio de modelos explicativos y niveles de causalidad, se construye un marco analítico que vincula la acción individual con los efectos sociales agregados, especialmente útil en contextos abiertos y dinámicos a los que se enfrenta el Trabajo Social. Entre los resultados más relevantes, se destaca la utilidad de esta perspectiva para descomponer procesos complejos en elementos inteligibles, lo que facilita tanto la comprensión como la intervención profesional. Se identifican distintos tipos de mecanismos —subintencionales, supraintecionales e intencionales— y se analizan sus efectos en la práctica social. Se concluye que el Trabajo Social puede beneficiarse significativamente de la Teoría Analítica, al incorporar herramientas que permiten explicar la realidad social con mayor rigor y claridad. Esta propuesta invita a superar visiones idealizadas de la disciplina y avanzar hacia una práctica profesional más crítica, fundamentada y transformadora.",
+     "idioma_resumen": "es",
+     "licencia": null,
+     "url": "https://doi.org/10.15257/ehquidad.2026.0017",
+     "doi": "10.15257/ehquidad.2026.0017",
+     "paginas": "187-214",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.15257/ehquidad.2026.0018",
+     "titulo": "Tecnologías asistivas e inteligentes para la optimación del cuidado en personas mayorea: revisión de la literatura",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Amelia Consuelo Martínez Hermoso",
+       "orcid": null
+      },
+      {
+       "nombre": "Cristina Belén Sampedro-Palacios",
+       "orcid": null
+      }
+     ],
+     "resumen": "La presente investigación aborda cómo las tecnologías asistivas e inteligentes pueden transformar y optimizar el cuidado de las personas mayores, en un contexto de envejecimiento poblacional acelerado como el de España. En la investigación se identifican y analizan los beneficios y desafíos que conlleva su implementación, así como explorar el papel del Trabajo Social como puente entre las personas mayores y los avances tecnológicos. El objetivo general es explorar el papel de las tecnologías asistivas e inteligentes en el ámbito de los cuidados a personas mayores para potenciar su autonomía, salud y bienestar. Para ello, se ha empleado una metodología cualitativa, basada en una revisión bibliográfica de fuentes académicas y profesionales. Entre los principales resultados se destacan la necesidad de alfabetización digital, implementación de tecnologías en el cuidado de personas mayores, las actitudes de las personas mayores frente a las TICs, la importancia del acompañamiento profesional y retos en el cuidado de personas mayores. Como principal conclusión, se extrae que la tecnología, bien aplicada, puede ser una aliada para mejorar la calidad de vida de las personas mayores, siempre que se utilice una perspectiva inclusiva, ética y social, en la que el Trabajo Social desempeña un rol clave de mediación y acompañamiento.",
+     "idioma_resumen": "es",
+     "licencia": null,
+     "url": "https://doi.org/10.15257/ehquidad.2026.0018",
+     "doi": "10.15257/ehquidad.2026.0018",
+     "paginas": "215-246",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.15257/ehquidad.2026.0019",
+     "titulo": "Diversidade e integração: o papel do Serviço Social com migrantes",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Hélia Bracons",
+       "orcid": null
+      },
+      {
+       "nombre": "José Pedro Rodrigues",
+       "orcid": null
+      },
+      {
+       "nombre": "Ricardo Lobato",
+       "orcid": null
+      }
+     ],
+     "resumen": "A sociedade portuguesa é cada vez mais plural, refletindo-se, entre outros aspetos, na presença significativa de migrantes provenientes de diferentes origens culturais, étnicas e sociais. Esta diversidade manifesta-se em múltiplas dimensões: culturais e bio-sociais, e coloca novos desafios à intervenção social. No âmbito do Serviço Social, a atuação junto de pessoas migrantes exige competências técnicas e relacionais específicas, bem como uma compreensão aprofundada das dinâmicas sociais, económicas e culturais que moldam os processos migratórios. Este estudo, de natureza qualitativa e caráter exploratório, recorreu à realização de entrevistas semiestruturadas a 14 assistentes sociais que exercem funções em instituições sociais no distrito de Lisboa. A análise dos dados evidencia que a diversidade constitui um elemento central no trabalho com migrantes, apresentando, simultaneamente, desafios e oportunidades para a promoção direitos humanos e da integração plena. Conclui-se que a experiência profissional dos assistentes sociais reflete a complexidade inerente aos processos de integração, mas também o potencial transformador do Serviço Social na promoção da justiça social, da dignidade humana e da coesão comunitária.",
+     "idioma_resumen": "pt",
+     "licencia": null,
+     "url": "https://doi.org/10.15257/ehquidad.2026.0019",
+     "doi": "10.15257/ehquidad.2026.0019",
+     "paginas": "247-270",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.15257/ehquidad.2026.0020",
+     "titulo": "¿Y eso para qué me va a servir?",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Ricardo Reyes Soto",
+       "orcid": null
+      }
+     ],
+     "resumen": "Con la irrupción de la sociedad de la información y la influencia de las dinámicas de consumo y utilidad, el papel de las Humanidades en la escuela se ve duramente cuestionado y señalado como algo inútil y anacrónico. Sin embargo, las Humanidades constituyen un elemento clave en la reflexión pausada, el pensamiento crítico y, en última instancia, las fuentes de deliberación democrática. Por esta razón es necesario interpelar los discursos utilitarios que quieren reconfigurar la escuela, reduciendo al mínimo el espacio para la lectura y reflexión de los asuntos sobre los que las Humanidades nos invitan a reflexionar. Este texto es un esfuerzo por brindar razones respecto a la importancia de las Humanidades en la formación obligatoria, así como los posibles riesgos que conlleva renunciar a ellas a partir de fuentes secundarias elaboradas por autores que comparten esta preocupación común.",
+     "idioma_resumen": "es",
+     "licencia": null,
+     "url": "https://doi.org/10.15257/ehquidad.2026.0020",
+     "doi": "10.15257/ehquidad.2026.0020",
+     "paginas": "271-292",
+     "fuente": "Crossref"
+    }
+   ]
+  },
+  {
+   "id": "n25-2025",
+   "volumen": null,
+   "numero": "25",
+   "anio": 2025,
+   "fecha": "2025-10-25",
+   "etiqueta": "núm. 25 (2025)",
+   "fuente": "Crossref",
+   "articulos": [
+    {
+     "id": "10.15257/ehquidad.2026.0002",
+     "titulo": "Análisis de la Atención a Urgencias y Emergencias Sociales en la ciudad de Ontinyent.",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Sara Torró Galbis",
+       "orcid": "https://orcid.org/0009-0003-4210-3454"
+      },
+      {
+       "nombre": "Desirée Camús Jorques",
+       "orcid": null
+      }
+     ],
+     "resumen": "Las urgencias y emergencias sociales producen situaciones de vulnerabilidad y desprotección que requieren de una actuación rápida de los servicios competentes. Tras realizar un muestreo opinático de conveniencia, la población participante fueron 3 informantes clave del ámbito de las emergencias de Ontinyent: la enfermera referente del SAMU, un Policía Local y la coordinadora de los Servicios Sociales (SS.SS) del Ayuntamiento. El presente artículo, a través de ellos, pretende analizar la situación de la atención a urgencias y emergencias en la ciudad de Ontinyent, asegurando una correcta coordinación sociosanitaria para que éste sea eficiente. Los resultados reflejan que los profesionales sanitarios, concretamente enfermería, y el cuerpo de policía son detectores clave de estas situaciones de riesgo social y es fundamental su coordinación con los SS.SS. Por último, la ciudad de Ontinyent no cuenta con servicios específicos de atención a urgencias y emergencias sociales, por lo que la implantación de un servicio con estas características proporcionaría optimización de recursos y la mejora de la atención integral de los ciudadanos.",
+     "idioma_resumen": "es",
+     "licencia": null,
+     "url": "https://doi.org/10.15257/ehquidad.2026.0002",
+     "doi": "10.15257/ehquidad.2026.0002",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.15257/ehquidad.2026.0006",
+     "titulo": "Elaboración y validación del cuestionario SETS. Una herramienta para explorar la intervención del trabajo social ante la soledad no deseada en personas mayores",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Joan Casas-Martí",
+       "orcid": "https://orcid.org/0000-0003-2376-0347"
+      },
+      {
+       "nombre": "Montserrat Martínez-Melo",
+       "orcid": null
+      },
+      {
+       "nombre": "Violeta Quiroga",
+       "orcid": null
+      },
+      {
+       "nombre": "Josep M. Mesquida",
+       "orcid": null
+      }
+     ],
+     "resumen": "La soledad no deseada constituye una preocupación creciente en el trabajo social con personas mayores, tanto por su impacto en la salud y el bienestar como por los retos que plantea para la intervención. Pese a su relevancia, faltan instrumentos validados que permitan explorar cómo se aborda en la práctica. Este artículo presenta la elaboración y validación del Cuestionario SETS (Soledades, Envejecimiento y Trabajo Social), diseñado específicamente para profesionales del trabajo social con el fin de identificar percepciones, estrategias, condicionantes y recursos que configuran su intervención ante este fenómeno. El cuestionario, estructurado en diez bloques temáticos, se desarrolló mediante un enfoque mixto que incluyó, en la fase de conceptualización y operativización inicial, una revisión bibliográfica y entrevistas a personas mayores (n=15), trabajadores/as sociales (n=15) y cargos de gestión (n=5). Posteriormente, en la fase de validación de contenido, se recabó el juicio de expertos/as (n=26); a continuación, se llevó a cabo una prueba piloto (n=40) y, finalmente, se aplicó a una muestra amplia de profesionales del trabajo social en Barcelona (n=351). La validez de contenido (coeficiente V de Aiken) alcanzó valores altos y la fiabilidad interna (alfa de Cronbach) mostró niveles satisfactorios. El SETS ofrece una herramienta robusta para la investigación aplicada, la evaluación de la práctica y el diseño de políticas públicas orientadas al bienestar relacional y al derecho a la compañía de las personas mayores.",
+     "idioma_resumen": "es",
+     "licencia": null,
+     "url": "https://doi.org/10.15257/ehquidad.2026.0006",
+     "doi": "10.15257/ehquidad.2026.0006",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.15257/ehquidad.2026.0003",
+     "titulo": "La formación en Servicios Sociales en las universidades públicas españolas: Análisis curricular y normativo",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "José Manuel Díaz González",
+       "orcid": "https://orcid.org/0000-0001-9974-2159"
+      },
+      {
+       "nombre": "Yaiza María Pérez González",
+       "orcid": null
+      },
+      {
+       "nombre": "Luisa María Morales Hernández",
+       "orcid": null
+      },
+      {
+       "nombre": "Paulo Adrián Rodríguez Ramos",
+       "orcid": null
+      }
+     ],
+     "resumen": "El presente artículo analiza la inclusión de contenidos específicos sobre servicios sociales en los planes de estudio de los grados de Antropología, Educación Social, Pedagogía, Psicología, Sociología y Trabajo Social impartidos en Universidades Públicas Españolas. Asimismo, examina el reconocimiento normativo de la figura profesional de referencia en las leyes autonómicas de servicios sociales. A través de un diseño metodológico de carácter descriptivo y cuantitativo, se analizan 113 asignaturas correspondientes a 51 grados en 32 universidades, así como las 17 leyes autonómicas. Los resultados evidencian una concentración significativa de la formación en servicios sociales en el Grado en Trabajo Social, mientras que en el resto de las titulaciones la presencia de estos contenidos es limitada o inexistente. Esta situación contrasta con el papel que desempeñan otros perfiles profesionales en este sistema, y pone de relieve la necesidad de ampliar esta formación a otros grados universitarios. Por otro lado, el análisis normativo confirma la consolidación del Trabajo Social como figura de referencia en la mayoría de las legislaciones autonómicas. Se concluye señalando la importancia de revisar los planes de estudio e incorporar contenidos específicos en servicios sociales desde un enfoque interdisciplinar y con perspectiva profesional.",
+     "idioma_resumen": "es",
+     "licencia": null,
+     "url": "https://doi.org/10.15257/ehquidad.2026.0003",
+     "doi": "10.15257/ehquidad.2026.0003",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.15257/ehquidad.2026.0004",
+     "titulo": "Motivaciones para estudiar Trabajo Social: un estudio de caso en la Universidad de Alicante",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Elena M. Cortés-Florín",
+       "orcid": "https://orcid.org/0000-0003-1111-0179"
+      },
+      {
+       "nombre": "Javier Ferrer-Aracil",
+       "orcid": null
+      },
+      {
+       "nombre": "Mercedes Cuenca-Silvestre",
+       "orcid": "https://orcid.org/0000-0002-4646-9774"
+      },
+      {
+       "nombre": "M. Carmen Pérez-Belda",
+       "orcid": null
+      }
+     ],
+     "resumen": "La elección de una carrera universitaria es una decisión que no solo determina el recorrido académico del estudiante, sino que también influye en sus oportunidades personales, sociales y laborales futuras. Esta investigación tiene como objetivo conocer las motivaciones que llevaron al alumnado del Grado en Trabajo Social de la Universidad de Alicante a optar por estos estudios. Para ello, se ha realizado un estudio de enfoque cuantitativo y diseño descriptivo-correlacional, con una muestra de 127 estudiantes. Los resultados muestran que la decisión está motivada por una combinación de factores intrínsecos y extrínsecos. Los primeros, como el compromiso con la justicia social, el deseo de ayudar a otras personas y la utilidad del Trabajo Social para el cambio social, son los más determinantes. Los segundos, como la diversidad de ámbitos profesionales o la estabilidad laboral, también influyen, aunque en menor medida. En conjunto, estos resultados permiten concluir que las motivaciones para estudiar Trabajo Social se relacionan principalmente con factores personales, sociales y altruistas, así como con el compromiso con la profesión, su recorrido académico y las expectativas laborales futuras.",
+     "idioma_resumen": "es",
+     "licencia": null,
+     "url": "https://doi.org/10.15257/ehquidad.2026.0004",
+     "doi": "10.15257/ehquidad.2026.0004",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.15257/ehquidad.2026.0001",
+     "titulo": "Violencia de género durante el noviazgo en Enfermería",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Janeth Clavijo Morocho",
+       "orcid": null
+      },
+      {
+       "nombre": "Nicol Domenica Naspud Rojas",
+       "orcid": null
+      },
+      {
+       "nombre": "Lady Aidé Picón Villavicencio",
+       "orcid": null
+      },
+      {
+       "nombre": "Ligia Geomara Párraga Vélez",
+       "orcid": null
+      }
+     ],
+     "resumen": "La violencia puede estar disfrazada de amor, por ello, es imperceptible en los diferentes ámbitos. Sin duda, es un fenómeno que no discrepa edad, orientación sexual, estatus socioeconómico, lugar de residencia. En la actualidad, la violencia persiste, solo que se presenta de otras formas, violentando así, los derechos humanos y un problema de salud pública. El presente estudio permitió identificar la violencia de género en la etapa de noviazgo en estudiantes de la Carrera de Enfermería de la Universidad de Cuenca. Participaron 235 estudiantes de Enfermería a través de un estudio cuantitativo descriptivo de corte transversal. La recolección de datos se realizó con el instrumento CUVINO con un alpha de Cronbach de 0.932. Los resultados precisaron estudiantes entre 17 y 25 años (96.2%) de sexo femenino (82.6%), estado civil soltero (96.2%), con un noviazgo de 12 meses o más (34,0%). El 30 % de estudiantes presentaron algún tipo de violencia de género en el siguiente orden: violencia psicológica (75,31%), física (24,68%), sexual (16,77%) e instrumental (11,48%). Estos hallazgos demuestran la necesidad de mejorar el enfoque de la sexualidad en la educación superior y mejorar la formación acorde a la realidad del entorno que permitan desarrollar habilidades de relación y convivencia armónica resguardando un derecho importante como es la vida.",
+     "idioma_resumen": "es",
+     "licencia": null,
+     "url": "https://doi.org/10.15257/ehquidad.2026.0001",
+     "doi": "10.15257/ehquidad.2026.0001",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.15257/ehquidad.2026.0005",
+     "titulo": "“Casi de la familia”: Sentires y trayectorias vitales de mujeres extranjeras en el trabajo doméstico y de cuidados remunerado en Chile.",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Lorena Muñoz-Madrid",
+       "orcid": null
+      }
+     ],
+     "resumen": "El presente trabajo busca poner en valor las historias, experiencias, sentires y trayectorias vitales de mujeres inmigrantes extranjeras en Chile, que se insertaron en el trabajo doméstico y de cuidados remunerado. Se buscó, por tanto, dar cuenta de los distintos momentos implicados en sus trayectorias, desde la decisión migratoria en sus territorios de origen, sus trayectorias laborales en el trabajo doméstico remunerado, hasta su situación actual y las proyecciones y expectativas que poseen sobre su reunificación familiar y posibilidades de retorno al contexto de origen. Se buscó también aportar a la reflexión crítica sobre la incidencia que tiene la precarización laboral que viven las mujeres migrantes en el trabajo doméstico remunerado, así como las repercusiones que esto tiene para ellas a nivel emocional, físico o familiar, entre otros. El trabajo de campo se desarrolló, mediante una aproximación cualitativa, con entrevistas de tipo biográfico. Los resultados permitieron reconocer el valor del trabajo de las mujeres inmigrantes en Chile, analizar sus experiencias de manera comprensiva y situada, identificando los altos costos que este trabajo tiene para ellas, en el marco de las condiciones de precarización laboral en que se desempeñan, en muchos casos, así como la necesidad de generar políticas efectivas que resguarden sus derechos sociales, laborales, su calidad de vida y posibilidades de reunificación familiar.",
+     "idioma_resumen": "es",
+     "licencia": null,
+     "url": "https://doi.org/10.15257/ehquidad.2026.0005",
+     "doi": "10.15257/ehquidad.2026.0005",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.15257/ehquidad.2026.0007",
+     "titulo": "Costes económicos directos (gastos de bolsillo del usuario) y acceso al Servicio de Ayuda a Domicilio en pacientes oncológicos: estudio descriptivo transversal",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Alberto Garcia Martin",
+       "orcid": "https://orcid.org/0000-0002-5427-9743"
+      },
+      {
+       "nombre": "Nuria Del Álamo Gómez",
+       "orcid": "https://orcid.org/0000-0003-3274-2298"
+      },
+      {
+       "nombre": "Celia Sánchez Gómez",
+       "orcid": "https://orcid.org/0000-0002-1196-816X"
+      },
+      {
+       "nombre": "Eduardo José Fernández Rodríguez",
+       "orcid": "https://orcid.org/0000-0002-2175-8545"
+      }
+     ],
+     "resumen": "La enfermedad oncológica genera limitaciones físicas que requieren cuidados continuados, siendo la ayuda a domicilio un recurso clave para garantizar la calidad de vida. La ley de Dependencia regula este servicio según el grado de dependencia, pero su aplicación es insuficiente ante la complejidad y urgencia del paciente oncológico. Este estudio descriptivo analiza a 57 pacientes del Hospital Clínico (anonimizado), en su mayoría mujeres mayores con dependencia, que en gran parte financiaron el recurso de forma privada. El coste anual fue superior a 600€ en más de la mitad de los casos. La falta de respuesta administrativa motivó esta autofinanciación, evidenciando desigualdades en el acceso y una sobrecarga en las familias cuidadoras. Estos resultados plantean la necesidad de fortalecer las políticas sociales para asegurar el derecho a cuidados adecuados en este colectivo vulnerable.",
+     "idioma_resumen": "es",
+     "licencia": null,
+     "url": "https://doi.org/10.15257/ehquidad.2026.0007",
+     "doi": "10.15257/ehquidad.2026.0007",
+     "paginas": "227-256",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.15257/ehquidad.2026.0008",
+     "titulo": "La acogida de menores inmigrantes en el sistema educativo. Una revisión sistemática.",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Esther Acevedo Alcaraz",
+       "orcid": "https://orcid.org/0000-0001-5211-231X"
+      },
+      {
+       "nombre": "Laura Paredes Galiana",
+       "orcid": "https://orcid.org/0000-0002-4801-0588"
+      }
+     ],
+     "resumen": "El fenómeno migratorio ha transformado las sociedades contemporáneas, especialmente en el ámbito educativo, generando desafíos en la acogida de menores inmigrantes. Este estudio, basado en una revisión sistemática de la literatura según PRISMA, analiza investigaciones científicas publicadas entre 2010-2024 en Web of Science y Scopus sobre la integración de menores de 6-16 años. Se abordan tres áreas clave: la percepción del alumnado sobre su acogida, los protocolos institucionales implementados y el rol del docente. Los resultados evidencian que los estudiantes inmigrantes enfrentan múltiples desafíos, incluyendo la adaptación lingüística y cultural, así como la reconstrucción de su identidad en un entorno desconocido. A pesar de los esfuerzos legislativos y económicos invertidos en programas de adaptación no han logrado el impacto esperado. Desde la percepción del alumnado, la actitud del profesorado hacia la diversidad cultural influye en la experiencia escolar. Se destaca la necesidad de una educación intercultural que promueva nuevas formas de enseñanza para una integración real y efectiva.",
+     "idioma_resumen": "es",
+     "licencia": null,
+     "url": "https://doi.org/10.15257/ehquidad.2026.0008",
+     "doi": "10.15257/ehquidad.2026.0008",
+     "paginas": "257-282",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.15257/ehquidad.2026.0009",
+     "titulo": "Las contradicciones en la relación entre el Estado - familias en el contexto de la protección social brasileña",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Renata Nunes",
+       "orcid": null
+      }
+     ],
+     "resumen": "El artículo analiza críticamente la relación entre el Estado y las familias en el sistema de protección social en Brasil, en el marco del capitalismo dependiente. A través de un estudio de 108 artículos publicados entre 1979 y 2016 en la Revista Serviço Social e Sociedade, identifica cuatro ejes estructurantes de las políticas sociales: familismo, focalización y selectividad, mecanismos de control social, y sobrevaloración del trabajo como valor moral como condicionante para protección social. Utilizando una matriz analítica y técnicas de análisis de contenido, se evidencia cómo las políticas sociales brasileñas han delegado sistemáticamente a las familias trabajadoras gran parte de los costos de la reproducción social. El artículo señala las tensiones entre los principios constitucionales de derechos universales y la racionalidad neoliberal, y propone incorporar la perspectiva crítica de la reproducción social para comprender las contradicciones del modelo de protección social vigente.",
+     "idioma_resumen": "es",
+     "licencia": null,
+     "url": "https://doi.org/10.15257/ehquidad.2026.0009",
+     "doi": "10.15257/ehquidad.2026.0009",
+     "paginas": "283-310",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.15257/ehquidad.2026.0010",
+     "titulo": "Práctica productiva ancestral. Una visión de producción de cannabis desde los sistemas dinámicos y adaptativos.",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Andrés Peña Andrade",
+       "orcid": null
+      }
+     ],
+     "resumen": "Este artículo tiene como objetivo analizar la práctica productiva ancestral alrededor del cannabis como un proceso de desarrollo que toma vida a través del principio de multiplicidades dinámicas de vida estrechamente interrelacionadas. Para ello se aborda el concepto de desarrollo en su versión moderna y se provee una crítica discursiva, a partir de la cual se identifica que los circuitos productivos propios de las comunidades indígenas no son compatibles con las definiciones ontológicas propias de la “moderna sociedad industrial”. De ahí que se encuentre en la ontología relacional, pero de forma particular en los sistemas adaptativos y dinámicos, es una estructura teórica que permite reconocer las diferencias en la visión de vida de las comunidades indígenas, sin que esto implique un antagonismo con las lógicas contemporáneas. Contrario a ello, se identifica de forma particular, que la práctica productiva que gira alrededor del cannabis sigue estos principios relacionales, y que a partir de una imbricación entre lo ancestral y lo contemporáneo se puede pensar, repensar, dinamizar y complejizar sus redes de producción y comercialización translocal.",
+     "idioma_resumen": "es",
+     "licencia": null,
+     "url": "https://doi.org/10.15257/ehquidad.2026.0010",
+     "doi": "10.15257/ehquidad.2026.0010",
+     "paginas": "311-336",
+     "fuente": "Crossref"
+    }
+   ]
+  },
+  {
+   "id": "2025",
+   "volumen": null,
+   "numero": null,
+   "anio": 2025,
+   "fecha": "2025-06-08",
+   "etiqueta": "Publicación continua (2025)",
+   "fuente": "Crossref",
+   "articulos": [
+    {
+     "id": "10.15257/ehquidad.2025.0014",
+     "titulo": "Challenges and Opportunities in Cross-Cultural Education: A Comparative Study of Barcelona and Beijing Foreign Studies University",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Muyang Zhu",
+       "orcid": null
+      }
+     ],
+     "resumen": "This study investigates the intercultural challenges faced by Chinese students in Catalonia’s higher education system and evaluates the applicability of Beijing Foreign Studies University's (BFSU) successful intercultural education model to Spanish universities. Employing a mixed-methods approach, the research combines thematic analysis of qualitative interviews and quantitative survey data from Chinese students in Barcelona to identify key adaptation challenges, such as language barriers, cultural differences, and limited institutional support. Drawing insights from BFSU’s systematic curriculum design, faculty internationalization, and student engagement initiatives, the study provides actionable recommendations to improve cross-cultural education frameworks in Catalonia. The findings contribute to bridging gaps in intercultural education and promoting effective strategies for integrating international students, with implications for global educational policy and Sino-Western collaboration.",
+     "idioma_resumen": "en",
+     "licencia": null,
+     "url": "https://doi.org/10.15257/ehquidad.2025.0014",
+     "doi": "10.15257/ehquidad.2025.0014",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.15257/ehquidad.2025.0018",
+     "titulo": "Estudio exploratorio sobre experiencias de estigma de la gordura según las usuarias del sistema público de salud valenciano",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Nina Navajas-Pertegás",
+       "orcid": null
+      }
+     ],
+     "resumen": "El estigma de la gordura (o gordofobia) está presente en diversos ámbitos sociales y vulnera los derechos humanos, especialmente, de las niñas y las mujeres. Esto puede resultar en discriminaciones que dañan su salud. Sin embargo, conocemos poco sobre dichas experiencias en el ámbito español e hispanoamericano. El propósito de esta investigación fue explorar el estigma de la gordura experimentado por usuarias sistema público de salud valenciano. Se usó un enfoque metodológico cualitativo. Partiendo de entrevistas realizadas a 26 mujeres, de entre 18 y 61 años, se realizó un análisis de tipo discursivo. El análisis sobre las vivencias de las mujeres gordas en el ámbito sanitario ofrecido se cuenta entre las escasas investigaciones realizadas al respecto en España e Hispanoamérica. Los resultados muestran que: a) las participantes experimentaron estigma de la gordura verbal comportamental y ambiental; b) encontraron barreras para obtener diagnósticos; c) soportaron violencia ginecológica y obstétrica basada en prejuicios gordofóbicos; d) y que dichas experiencias interfirieron en la búsqueda de ayuda. La atención sanitaria equitativa y no discriminatoria implica erradicar los fenómenos de estigma evidenciados. Las evidencias encontradas y las quince propuestas prácticas que se incluyen pueden orientar acciones y políticas públicas para humanizar la medicina y asegurar la salud y el bienestar de las personas gordas.",
+     "idioma_resumen": "es",
+     "licencia": null,
+     "url": "https://doi.org/10.15257/ehquidad.2025.0018",
+     "doi": "10.15257/ehquidad.2025.0018",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.15257/ehquidad.2025.0016",
+     "titulo": "La Gamificación como estrategia para la intervención social",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Jose Sáez Olmos",
+       "orcid": null
+      }
+     ],
+     "resumen": "La gamificación, según sus características y resultados exitosos en diferentes ámbitos, tiene un gran potencial para ser aplicada en Trabajo social. Este artículo versa sobre las posibilidades que ostenta la gamificación como una estrategia innovadora para la intervención social como forma de mejorar el aprendizaje y la motivación de las personas usuarias. Para ello, el texto define la Gamificación y sus principales características y bondades, ofreciendo argumentos para implementar esta estrategia como forma novedosa y complementaria de intervención para el Trabajo social.",
+     "idioma_resumen": "es",
+     "licencia": null,
+     "url": "https://doi.org/10.15257/ehquidad.2025.0016",
+     "doi": "10.15257/ehquidad.2025.0016",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.15257/ehquidad.2025.0015",
+     "titulo": "La Situación Económica y su Incidencia en la Deserción Universitaria durante la Pandemia COVID-19",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Jessica Alexandra Chonillo Molina",
+       "orcid": "https://orcid.org/0009-0002-5122-1164"
+      },
+      {
+       "nombre": "Luzmila Paola Ibarra Castro",
+       "orcid": null
+      },
+      {
+       "nombre": "Nancy Lorena Reyes Mero",
+       "orcid": null
+      }
+     ],
+     "resumen": "La presente investigación titulada como “La situación económica y su incidencia en la deserción universitaria durante la Pandemia COVID-19” tuvo como objetivo establecer los factores que inciden en la deserción universitaria en estudiantes de las carreras de Trabajo Social, Economía, Derecho y Psicología de la Universidad Laica Eloy Alfaro de Manabí, de la misma manera conocer cómo afecta la situación económica en los estudiantes. La educación universitaria representa una necesidad primordial de toda sociedad que tenga como finalidad el desarrollo y crecimiento profesional, en la actualidad la situación económica es una de las faltas que se presenta en los estudiantes abarcando consecuencias de deserción universitaria en implicaciones a niveles personales, sociales e institucionales. El enfoque metodológico fue mixto de tipo descriptivo, la técnica cuantitativa fue la encuesta y como instrumento un cuestionario de preguntas cerradas dirigidas a los estudiantes que han desertado de la Facultad de Ciencias Sociales, Derecho y Bienestar y la técnica cualitativa fue una entrevista estructurada que tuvo como instrumento un cuestionario de 10 preguntas abiertas dirigidas a la Trabajadora Social del Departamento de Bienestar Estudiantil. Se concluye que la situación económica afecta negativamente a la deserción universitaria y las causas están alineados al poco interés en la carrera, conflictos familiares, ambiente poco motivante o estudiantes que tienen responsabilidades con hijos.",
+     "idioma_resumen": "es",
+     "licencia": null,
+     "url": "https://doi.org/10.15257/ehquidad.2025.0015",
+     "doi": "10.15257/ehquidad.2025.0015",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.15257/ehquidad.2025.0019",
+     "titulo": "La construcción del discurso migratorio de los partidos europeos de la derecha radical",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "María Lasanta Palacios",
+       "orcid": null
+      }
+     ],
+     "resumen": "En la última década, las formaciones europeas de la derecha radical han aumentado su influencia política, promoviendo un discurso hostil hacia personas pertenecientes a ciertos colectivos, tales como migrantes o musulmanes. Ante este contexto, nos proponemos estudiar la construcción y lógica discursiva de dichas referencias hostiles en los programas electorales de diez partidos de la derecha radical europea. El período de estudio abarca desde 2017 a 2019. Con respecto al proceso metodológico, aplicamos un análisis crítico del discurso, combinando las conclusiones de Wodak sobre estrategias discursivas y de Van Dijk sobre recursos lingüísticos. Entre las estrategias discursivas utilizadas, encontramos una nominación de las personas migrantes y de origen migrante en términos problemáticos o invisibilizadores, una atribución de rasgos negativos a estos colectivos relacionados con su descualificación, criminalización o cuestionamiento y una justificación de su rechazo en base a la necesidad de proteger a la población nativa. Esta investigación puede servir de base en la detección del discurso hostil y en el diseño de políticas públicas y contranarrativas efectivas.",
+     "idioma_resumen": "es",
+     "licencia": null,
+     "url": "https://doi.org/10.15257/ehquidad.2025.0019",
+     "doi": "10.15257/ehquidad.2025.0019",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.15257/ehquidad.2025.0017",
+     "titulo": "La entrevista motivacional grupal como herramienta en la implementación de los sistemas de gestión de calidad en entidades",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Laura Esteban Romaní",
+       "orcid": null
+      },
+      {
+       "nombre": "Mª Victoria Ochando Ramírez",
+       "orcid": null
+      },
+      {
+       "nombre": "Mercedes Botija",
+       "orcid": null
+      },
+      {
+       "nombre": "Beatriz Monfort Gil",
+       "orcid": null
+      }
+     ],
+     "resumen": "La gestión de calidad en entidades sin ánimo de lucro dedicadas a la acción social es una cuestión imprescindible. Certificar los procesos de gestión calidad es complejo y la resistencia al cambio en las entidades no lo facilita. Este artículo explora la entrevista motivacional (EM) como herramienta en la implantación de sistemas de gestión de calidad (SGC) en las asociaciones de Fibrosis Quística de España (FQE). Se ha optado por una metodología de enfoque cualitativo utilizando entrevistas grupales, observación participante, grupo de discusión, y análisis documental y bibliográfico en 5 asociaciones durante un año ubicadas en distintas comunidades autónomas. Como resultado, se ha visto que la utilización de la EM parece ser útil para favorecer el cambio y lograr el compromiso y la motivación de los equipos de las entidades para la gestión de calidad. Se evidencia la figura del Trabajo Social como pieza esencial en el acompañamiento de estos procesos de cambio y mejora de las entidades no lucrativas, así como su papel promotor es esencial para confirmar la importancia de la gestión de calidad de forma participativa desde el inicio, posibilitando un diagnóstico y una hoja de ruta a seguir por parte de todos los agentes implicados.",
+     "idioma_resumen": "es",
+     "licencia": null,
+     "url": "https://doi.org/10.15257/ehquidad.2025.0017",
+     "doi": "10.15257/ehquidad.2025.0017",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.15257/ehquidad.2025.0020",
+     "titulo": "La inequidad en los cementerios de los musulmanes en Cataluña",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Abderrafie Et Talydy Bahij",
+       "orcid": null
+      }
+     ],
+     "resumen": "El tema de los cementerios musulmanes salió a la palestra en diferentes regiones de España y, especialmente en Cataluña, a través de la aparición de la pandemia del covid-19 y sus consecuencias sobre el colectivo musulmán (sobre todo el colectivo marroquí considerado como el colectivo mayoritario). El consiguiente aumento de fallecidos ha vuelto a situar en primera línea las carencias en materia de espacios de enterramiento y servicios funerarios de los musulmanes en Cataluña, especialmente en la comunidad marroquí, que sigue sin encontrar más espacios funerarios que cumplen con sus prescripciones religiosas y con el derecho fundamental de libertad religiosa y de culto. El presente artículo aborda esta problemática y analiza las reacciones y peticiones realizadas por estas comunidades musulmanas en el marco de los derechos y los acuerdos firmados con el gobierno español en el año 1992, teniendo en cuenta principalmente las dificultades en aplicar estos acuerdos, aparte de las opiniones y discursos de los implicados en el tema y, al mismo tiempo, las prácticas y las iniciativas que se han hecho, así también, los planes previstos en un futuro más cercano.",
+     "idioma_resumen": "es",
+     "licencia": null,
+     "url": "https://doi.org/10.15257/ehquidad.2025.0020",
+     "doi": "10.15257/ehquidad.2025.0020",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.15257/ehquidad.2025.0011",
+     "titulo": "La percepción de apoyo social de madres migrantes monoparentales latinoamericanas en Canarias",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Ana González-Núñez",
+       "orcid": null
+      },
+      {
+       "nombre": "Nauzet Gutiérrez-Rodríguez",
+       "orcid": null
+      }
+     ],
+     "resumen": "El objetivo del estudio es conocer la percepción de apoyo social de madres monoparentales latinoamericanas en Canarias, identificando las fortalezas y debilidades de los sistemas de apoyo formal y de las redes de apoyo informal. A través de una metodología cualitativa se realizaron 3 entrevistas grupales donde participaron 10 madres. Las entrevistas fueron transcritas y analizadas con el software ATLAS ti 22 y los datos se agruparon en dos grandes constructos sistemas de apoyo formal y redes de apoyo informal con varios temas y subtemas en ellos. Del análisis del discurso en relación con el apoyo formal las madres expresaban necesidades de apoyo a la conciliación laboral, familiar y personal, de asesoría jurídica centrada en extranjería y facilidades de acceso al mercado laboral, enfatizando la escasa atención de los servicios sociales. Por otra parte, destacan positivamente la calidad de atención prestada por el resto de los agentes del sistema de apoyo formal. Respecto al apoyo informal se resalta la relevancia del apoyo familiar, de amistades y el vecindario para su bienestar y el de sus hijos e hijas. Por tanto, se concluye la necesidad de fortalecer los sistemas de apoyo formal, y la promoción de redes de apoyo informal. Para ello, se destaca el papel de la comunidad como herramienta inclusiva para el bienestar estas madres monoparentales destacando el papel del Trabajo Social.",
+     "idioma_resumen": "es",
+     "licencia": null,
+     "url": "https://doi.org/10.15257/ehquidad.2025.0011",
+     "doi": "10.15257/ehquidad.2025.0011",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.15257/ehquidad.2025.0012",
+     "titulo": "Líneas estratégicas y propuestas de intervención sociolaboral con personas trans",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Alejandro Hernández-Melián",
+       "orcid": "https://orcid.org/0000-0002-2558-620X"
+      }
+     ],
+     "resumen": "Las personas trans representan un grupo social vulnerable en diversos ámbitos, especialmente en el laboral, donde enfrentan obstáculos tanto en la búsqueda de empleo como en su permanencia en el puesto de trabajo. Con el fin de desarrollar propuestas que mejoren los procesos de inserción laboral de este colectivo, esta investigación ha empleado una metodología cualitativa basada en entrevistas a profesionales de la intervención social especializados/as en diversidad sexual e identidad de género en España. Los hallazgos destacan que las iniciativas de sensibilización y formación en las empresas son dos de las estrategias más ampliamente aceptadas para mejorar la integración laboral de las personas trans. Además, las mentorías empresariales y el diseño de proyectos específicos de inserción laboral emergen como enfoques clave. Asimismo, el Trabajo Social Corporativo surge como una figura transformadora en los procesos de intervención social. En conclusión, la intervención social debe asumir su rol como guía y mediador en el entorno laboral, asegurando que las personas trans no solo accedan al empleo, sino que también lo mantengan y progresen en su desarrollo profesional, actuando como eje fundamental para lograr una verdadera transformación en los entornos laborales.",
+     "idioma_resumen": "es",
+     "licencia": null,
+     "url": "https://doi.org/10.15257/ehquidad.2025.0012",
+     "doi": "10.15257/ehquidad.2025.0012",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.15257/ehquidad.2025.0013",
+     "titulo": "Percepción y satisfacción de los usuarios del Centro de Día: aportaciones al análisis de su importancia y funcionamiento desde el punto de vista del usuario",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Mónica Alexandra Vidal Teixeira",
+       "orcid": null
+      },
+      {
+       "nombre": "Jacqueline Ferreira Marques",
+       "orcid": "https://orcid.org/0000-0002-0088-8260"
+      }
+     ],
+     "resumen": "El presente estudio descriptivo utilizó una metodología cuantitativa para analizar la percepción y la satisfacción de los usuarios de los Centros de Día (CD) en relación con los servicios prestados, a saber: los programas y servicios desarrollados; la prestación de los servicios; la calidad del personal de atención; las relaciones establecidas entre los implicados (usuarios y personal) y la organización ambiental del CD. Participaron en el estudio 39 personas mayores de cinco CD rurales del centro de Portugal. Los datos se recogieron mediante un cuestionario de caracterización socio demográfica y el protocolo de evaluación del DC para mayores (PACD-II, adaptado por Teixeira, Martin y Almeida, 2012, versión original: Teixeira y Martin, 2008). La mayoría de la muestra eran mujeres, con edades comprendidas entre los 80 y los 89 años, viudas, con escasa o nula escolarización, con una ocupación anterior relacionada con actividades agrícolas o similares, que vivían con su(s) hijo(s) y recibían una pensión de jubilación. Concluimos que el alto nivel de utilización del centro por parte de las personas mayores demuestra una necesidad real o una satisfacción en la utilización del servicio, y que su entrada en el DC suele deberse a dificultades relacionadas con la dependencia y/o la salud y a problemas de soledad. En cuanto a la valoración social, se puede concluir que la relación que el usuario establece con el personal es relevante para el mismo. En cuanto a la valoración ambiental, la mayoría valora el CD como un lugar atractivo y agradable, tanto estructural como ambientalmente. En general, y en consonancia con la literatura (Moriah et al., 2017), los usuarios del estudio manifestaron estar satisfechos con el CD, concretamente con los servicios prestados en las áreas de salud, rehabilitación, animación sociocultural, asesoramiento y servicios básicos. También se constató que un gran número de usuarios fueron capaces de identificar los servicios básicos y de entretenimiento, así como los servicios sanitarios (principalmente preventivos). A la hora de identificar los servicios de asesoramiento y rehabilitación ofrecidos, estos son inexistentes o residuales. Según los autores Conrad, Hanrahan y Hughes (1990), es plausible que la variedad de centros pueda clasificarse con base en los puntos comunes observados entre ellos, de forma que la especialización permita un trato más eficaz y productivo para el usuario (Conrad et al., 1993). Se considera esencial que los usuarios participen en la decisión sobre la especialización y adecuación del centro de día a sus necesidades y deseos, sin caer en una especialización exagerada que pueda ir en detrimento de una de sus funciones, la social.",
+     "idioma_resumen": "es",
+     "licencia": null,
+     "url": "https://doi.org/10.15257/ehquidad.2025.0013",
+     "doi": "10.15257/ehquidad.2025.0013",
+     "paginas": null,
+     "fuente": "Crossref"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+# Pruebas automáticas: recolector, accesibilidad con axe y Lighthouse.
+name: Pruebas
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  recolector:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Pruebas unitarias del recolector
+        run: python -m unittest discover -s recolector/pruebas -v
+
+  accesibilidad:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+          cache: npm
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Instalar las herramientas de prueba
+        run: |
+          npm ci
+          npx playwright install --with-deps chromium
+      - name: Pruebas con axe y de comportamiento accesible
+        run: npx playwright test
+      - name: Lighthouse
+        # Las rutas de prueba usan los datos de pruebas/datos.
+        run: |
+          rm -rf data && cp -r pruebas/datos data
+          npx lhci autorun
