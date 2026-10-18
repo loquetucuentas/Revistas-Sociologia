@@ -170,3 +170,33 @@ En esta tabla, «Auto» significa que lo cubre una comprobación automática, «
 4. Comprobar con VoiceOver que la lectura de los índices largos, de hasta 37 artículos, sigue siendo cómoda con el rotor de encabezados.
 5. Escuchar las etiquetas de número poco habituales que vienen de Crossref, como «núm. sp26» o «Publicación continua», y decidir si se entienden.
 6. Revisar en data/informe-no-resueltas.md las 9 revistas pendientes y la revista Cultura-Hombre-Sociedad, que se muestra con números de 2021 porque Crossref no tiene otros más recientes y su web no se pudo consultar.
+
+## 5. Versión de prueba en un solo archivo (dist/revistas-prueba.html)
+
+Generada el 18 de octubre de 2026 con herramientas/empaquetar.py para revisar la aplicación con VoiceOver sin publicarla. Ocupa 2,87 MB y contiene las 41 revistas con todos sus números, artículos y resúmenes, sin recortes.
+
+### 5.1. Comprobado
+
+1. El archivo no contiene ninguna referencia a recursos externos: ni scripts, ni hojas de estilo, ni fuentes, ni imágenes. El único icono va incrustado. El script de empaquetado lo comprueba cada vez y falla si encuentra alguna, y hay pruebas unitarias que confirman que el comprobador las detecta.
+2. Una política de seguridad de contenido incluida en el archivo bloquea cualquier petición a internet o a otros archivos.
+3. Al recorrer las tres vistas con el archivo abierto directamente, el navegador no hace ninguna petición fuera de él ni registra avisos de esa política (pruebas/paquete.spec.js).
+4. Se mantienen las rutas con almohadilla y el botón atrás, el foco en el h1 al cambiar de vista, el cambio de título, los anuncios de la región activa, los estados vacíos y de página no encontrada, y el estado de error con el botón Reintentar.
+5. Los enlaces a las webs de las revistas y los artículos siguen funcionando, se abren en una pestaña nueva y lo dicen en su texto visible.
+6. Con datos reales no aparece el aviso de datos de prueba; con datos de prueba sí. El pie indica la fecha y hora de generación de los datos y del archivo.
+7. Al preparar estas pruebas se encontró y corrigió un fallo: si un archivo de datos llegaba con un formato incorrecto, Reintentar reutilizaba la copia dañada. Ahora Reintentar vacía la memoria de datos antes de volver a cargar.
+8. Resultado de axe sobre el archivo: pendiente de la ejecución del flujo Pruebas en GitHub Actions.
+
+### 5.2. Diferencias con la versión definitiva
+
+1. El estado de carga sigue en el código, pero en esta versión no llega a verse: los datos están dentro del archivo y aparecen al instante. Para revisarlo con VoiceOver hay que usar la versión con servidor.
+2. El error de conexión no puede producirse, porque no hay conexión. El estado de error solo aparece si los datos del archivo estuvieran dañados.
+3. Los datos son una foto fija del momento en que se generó el archivo: no se actualizan cada semana. Para tener datos nuevos hay que volver a generar el archivo.
+4. El archivo completo, de unos 3 MB, se carga de una vez. En un iPhone antiguo la primera apertura puede tardar uno o dos segundos más que la versión con servidor.
+5. Si se abre como artefacto privado en claude.ai, la aplicación se muestra dentro de la página de Claude. Al empezar, el foco de VoiceOver puede quedar en los controles de Claude y no en el enlace de salto. Es una diferencia del visor, no de la aplicación.
+6. El tamaño de texto elegido puede no recordarse entre visitas si el navegador o el visor no permiten el almacenamiento local del archivo. La aplicación sigue funcionando sin él.
+
+### 5.3. Pendiente de revisión manual con VoiceOver en esta versión
+
+1. Comprobar en el iPhone que, tras abrir el archivo, el gesto de deslizar empieza por el enlace de salto y recorre la cabecera, las migas, el contenido y el pie.
+2. Repetir en esta versión las pruebas de la sección 3.2, sobre todo que el foco vaya al h1 nuevo tras tocar dos veces un enlace de revista o de número.
+3. Comprobar que al volver de un enlace externo a la pestaña del archivo se conserva la vista y el foco.

@@ -160,7 +160,15 @@
   function cargarDatos(archivo) {
     if (estado.cache[archivo]) return estado.cache[archivo];
     var promesa;
-    if (location.protocol === 'file:') {
+    if (window.DATOS_INCRUSTADOS) {
+      // Versión de un solo archivo (dist/revistas-prueba.html): los datos
+      // vienen dentro de la página y no se pide nada fuera de ella.
+      promesa = new Promise(function (resolver, rechazar) {
+        var datos = window.DATOS_INCRUSTADOS[archivo];
+        if (datos) resolver(datos);
+        else rechazar(new ErrorDatos('no-encontrado', 'El archivo de datos no está incluido en esta versión.'));
+      });
+    } else if (location.protocol === 'file:') {
       promesa = cargarScript(archivo);
     } else {
       promesa = fetch('data/' + archivo, { cache: 'no-cache' }).then(function (respuesta) {
@@ -604,7 +612,12 @@
       };
     }
 
-    var reintentar = el('button', { type: 'button', clase: 'boton', onClick: mostrar }, 'Reintentar');
+    // Se vacía la memoria de datos: un archivo que llegó con formato incorrecto
+    // también se vuelve a pedir, no solo los que fallaron por la red.
+    var reintentar = el('button', { type: 'button', clase: 'boton', onClick: function () {
+      estado.cache = {};
+      mostrar();
+    } }, 'Reintentar');
     return {
       titulo: 'Error al cargar los datos',
       anuncio: 'Error: no se han podido cargar los datos.',

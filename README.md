@@ -38,6 +38,16 @@ Opcionalmente, define la variable de repositorio CONTACTO_EMAIL (Settings, Secre
 
 Para regenerar los datos ficticios de las pruebas: `python3 recolector/datos_prueba.py`. Solo escribe en pruebas/datos y se niega a sobrescribir la carpeta data.
 
+## Versión de prueba en un solo archivo
+
+```
+python3 herramientas/empaquetar.py
+```
+
+Genera dist/revistas-prueba.html, un único archivo con el CSS, el JavaScript y todos los datos de la carpeta data. Sirve para revisar la aplicación con VoiceOver sin publicarla: se abre directamente, sin servidor y sin conexión, y una política de seguridad de contenido incluida en el archivo bloquea cualquier petición externa. Solo los enlaces a las webs de las revistas y artículos llevan fuera, y lo avisan. Si los datos son de prueba, muestra el aviso de datos de prueba. En el pie indica cuándo se generaron los datos y el archivo. El script falla si el archivo hace referencia a algún recurso externo, y avisa sin recortar nada si supera los 10 MB.
+
+Atención: si algún día se activa GitHub Pages, la carpeta dist también quedaría publicada.
+
 ## Publicación con GitHub Pages
 
 1. Fusiona esta rama en main.
