@@ -2,7 +2,7 @@
 
 Este documento recoge qué se ha comprobado de forma automática, qué se ha revisado manualmente en el código y qué queda pendiente de revisión manual con VoiceOver y con teclado. El objetivo es WCAG 2.2 nivel AA completo (requisito R2.1 de REQUISITOS.md).
 
-Estado a 18 de octubre de 2026: la aplicación ya usa datos reales de DOAJ y Crossref (41 revistas, 123 números y 1.909 artículos) y se ha retirado el aviso de datos de prueba. Las pruebas de comportamiento pasan con los datos reales y con los de prueba. El análisis con axe se ejecuta en GitHub Actions (ver 1.1). Falta la revisión manual con tecnologías de apoyo, que es imprescindible: las herramientas automáticas detectan aproximadamente un tercio de los problemas posibles.
+Estado a 18 de octubre de 2026: la aplicación ya usa datos reales de DOAJ y Crossref (41 revistas, 123 números y 1.909 artículos) y se ha retirado el aviso de datos de prueba. Las pruebas de comportamiento pasan con los datos reales y con los de prueba. El análisis con axe, ejecutado en GitHub Actions, da 0 errores con los datos reales (ver 4.1). Falta la revisión manual con tecnologías de apoyo, que es imprescindible: las herramientas automáticas detectan aproximadamente un tercio de los problemas posibles.
 
 ## 1. Comprobaciones automáticas
 
@@ -160,7 +160,7 @@ En esta tabla, «Auto» significa que lo cubre una comprobación automática, «
 1. Las 41 revistas, 123 números y 1.909 artículos proceden de DOAJ y Crossref. Todos los artículos enlazan a su DOI en doi.org. Se han eliminado las cinco revistas ficticias de la carpeta data y el aviso visible de datos de prueba.
 2. Idiomas marcados en los títulos de artículo: 943 en español (sin lang propio), 421 en portugués, 210 en inglés, 28 en francés, 27 en polaco y 4 en catalán; 276 sin idioma claro, que heredan el español. En los 1.711 resúmenes: 893 en español, 406 en portugués, 347 en inglés, 29 en polaco, 16 en francés, 8 en catalán y 12 sin idioma claro.
 3. Las pruebas de comportamiento, incluidos los estados de carga, vacío y error, pasan con los datos reales y con los de prueba.
-4. Resultado de axe en GitHub Actions: pendiente de la ejecución del flujo Pruebas tras subir esta rama.
+4. Resultado de axe en GitHub Actions (flujo Pruebas, ejecución 39102437024, commit 52540f1): pasan las 90 pruebas, con 0 errores de axe tanto con los datos de prueba como con los datos reales de las 41 revistas. Lighthouse sigue dando 100 en accesibilidad en las tres vistas.
 
 ### 4.2. Pendiente de revisión manual con VoiceOver
 
