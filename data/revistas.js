@@ -1,7 +1,7 @@
 // Copia de revistas.json para abrir la aplicación sin servidor.
 (window.DATOS_REVISTAS = window.DATOS_REVISTAS || {})["revistas.json"] = {
  "version": 1,
- "generado": "2026-10-18T05:53:59+00:00",
+ "generado": "2026-10-19T04:47:02+00:00",
  "es_prueba": false,
  "fuentes": [
   "DOAJ",
@@ -11,7 +11,7 @@
  "idiomas_incluidos": [
   "es"
  ],
- "total": 41,
+ "total": 47,
  "revistas": [
   {
    "id": "2184-7010",
@@ -53,6 +53,47 @@
    "archivo": "revistas/2184-7010.json",
    "ultimo_numero": "Vol. 8, núm. 13 (2026)",
    "fuente_numeros": "Crossref"
+  },
+  {
+   "id": "2279-5057",
+   "titulo": "AG - About Gender",
+   "idioma_titulo": null,
+   "titulo_alternativo": null,
+   "idioma_titulo_alternativo": null,
+   "idiomas": [
+    "en",
+    "it",
+    "es"
+   ],
+   "issn_impreso": null,
+   "issn_electronico": "2279-5057",
+   "editorial": "Genova University Press",
+   "pais": "IT",
+   "materias": [
+    "Sociology (General)",
+    "Political science (General)"
+   ],
+   "palabras_clave": [
+    "gender studies",
+    "intersectionality",
+    "feminist theory",
+    "masculinities",
+    "queer studies"
+   ],
+   "licencias": [
+    {
+     "nombre": "CC BY 4.0",
+     "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+   ],
+   "url": "https://riviste.unige.it/index.php/aboutgender",
+   "url_doaj": "https://doaj.org/toc/2279-5057",
+   "descripcion": null,
+   "fuente_ficha": "DOAJ",
+   "oai": "https://riviste.unige.it/index.php/aboutgender/oai",
+   "archivo": "revistas/2279-5057.json",
+   "ultimo_numero": "Vol. 15, núm. 29 (2026)",
+   "fuente_numeros": "OAI-PMH"
   },
   {
    "id": "2448-850X",
@@ -785,6 +826,43 @@
    "fuente_numeros": "Crossref"
   },
   {
+   "id": "2219-1631",
+   "titulo": "Controversias y Concurrencias Latinoamericanas",
+   "idioma_titulo": "es",
+   "titulo_alternativo": null,
+   "idioma_titulo_alternativo": null,
+   "idiomas": [
+    "es"
+   ],
+   "issn_impreso": null,
+   "issn_electronico": "2219-1631",
+   "editorial": "Asociación Latinoamericana de Sociología",
+   "pais": "AR",
+   "materias": [
+    "Sociology (General)",
+    "Social sciences (General)"
+   ],
+   "palabras_clave": [
+    "social sciences",
+    "sociology",
+    "latin america"
+   ],
+   "licencias": [
+    {
+     "nombre": "CC BY 4.0",
+     "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+   ],
+   "url": "https://ojs.sociologia-alas.org/index.php/CyC",
+   "url_doaj": "https://doaj.org/toc/2219-1631",
+   "descripcion": null,
+   "fuente_ficha": "DOAJ",
+   "oai": "https://ojs.sociologia-alas.org/index.php/CyC/oai",
+   "archivo": "revistas/2219-1631.json",
+   "ultimo_numero": "Vol. 15, núm. 26 (2023)",
+   "fuente_numeros": "OAI-PMH"
+  },
+  {
    "id": "2313-9048",
    "titulo": "Cuadernos de H Ideas",
    "idioma_titulo": null,
@@ -820,6 +898,43 @@
    "archivo": "revistas/2313-9048.json",
    "ultimo_numero": "Vol. 18, núm. 18 (2025)",
    "fuente_numeros": "Crossref"
+  },
+  {
+   "id": "2545-6881",
+   "titulo": "Cuestión Urbana",
+   "idioma_titulo": null,
+   "titulo_alternativo": null,
+   "idioma_titulo_alternativo": null,
+   "idiomas": [
+    "es"
+   ],
+   "issn_impreso": null,
+   "issn_electronico": "2545-6881",
+   "editorial": "Universidad de Buenos Aires",
+   "pais": "AR",
+   "materias": [
+    "Aesthetics of cities. City planning and beautifying",
+    "Urban groups. The city. Urban sociology"
+   ],
+   "palabras_clave": [
+    "urbanism",
+    "cities",
+    "sociology"
+   ],
+   "licencias": [
+    {
+     "nombre": "CC BY-NC-SA",
+     "url": null
+    }
+   ],
+   "url": "https://publicaciones.sociales.uba.ar/index.php/cuestionurbana/index",
+   "url_doaj": "https://doaj.org/toc/2545-6881",
+   "descripcion": null,
+   "fuente_ficha": "DOAJ",
+   "oai": "https://publicaciones.sociales.uba.ar/index.php/cuestionurbana/oai",
+   "archivo": "revistas/2545-6881.json",
+   "ultimo_numero": "núm. 16 (2025)",
+   "fuente_numeros": "OAI-PMH"
   },
   {
    "id": "2346-8904",
@@ -933,9 +1048,49 @@
    "url_doaj": "https://doaj.org/toc/0719-2789",
    "descripcion": null,
    "fuente_ficha": "DOAJ",
+   "oai": "https://cuhso.uct.cl/index.php/CUHSO/oai",
    "archivo": "revistas/0719-2789.json",
-   "ultimo_numero": "Vol. 31, núm. 1 (2021)",
-   "fuente_numeros": "Crossref"
+   "ultimo_numero": "Vol. 36, núm. 1 (2026)",
+   "fuente_numeros": "OAI-PMH"
+  },
+  {
+   "id": "2469-1100",
+   "titulo": "Diferencia(s)",
+   "idioma_titulo": null,
+   "titulo_alternativo": null,
+   "idioma_titulo_alternativo": null,
+   "idiomas": [
+    "es"
+   ],
+   "issn_impreso": null,
+   "issn_electronico": "2469-1100",
+   "editorial": "Universidad de Buenos Aires",
+   "pais": "AR",
+   "materias": [
+    "Philosophy (General)",
+    "Sociology (General)"
+   ],
+   "palabras_clave": [
+    "social theory",
+    "structuralism",
+    "post-structuralism",
+    "philosophy",
+    "sociology"
+   ],
+   "licencias": [
+    {
+     "nombre": "CC BY",
+     "url": null
+    }
+   ],
+   "url": "http://www.revista.diferencias.com.ar/index.php/diferencias",
+   "url_doaj": "https://doaj.org/toc/2469-1100",
+   "descripcion": null,
+   "fuente_ficha": "DOAJ",
+   "oai": "https://www.revista.diferencias.com.ar/index.php/diferencias/oai",
+   "archivo": "revistas/2469-1100.json",
+   "ultimo_numero": "Vol. 1, núm. 21 (2025)",
+   "fuente_numeros": "OAI-PMH"
   },
   {
    "id": "2178-2792",
@@ -1053,6 +1208,50 @@
    "archivo": "revistas/2386-4915.json",
    "ultimo_numero": "núm. 26 (2026)",
    "fuente_numeros": "Crossref"
+  },
+  {
+   "id": "2611-6693",
+   "titulo": "Eracle",
+   "idioma_titulo": null,
+   "titulo_alternativo": "Journal of Sports and Social Sciences",
+   "idioma_titulo_alternativo": "en",
+   "idiomas": [
+    "en",
+    "fr",
+    "it",
+    "es"
+   ],
+   "issn_impreso": null,
+   "issn_electronico": "2611-6693",
+   "editorial": "SHARE Press",
+   "pais": "IT",
+   "materias": [
+    "Sports",
+    "Social Sciences",
+    "Sociology (General)"
+   ],
+   "palabras_clave": [
+    "sports",
+    "social sciences",
+    "leisure",
+    "body",
+    "sociology of sport",
+    "physical activities"
+   ],
+   "licencias": [
+    {
+     "nombre": "CC BY 4.0",
+     "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+   ],
+   "url": "https://serena.sharepress.it/index.php/eracle/",
+   "url_doaj": "https://doaj.org/toc/2611-6693",
+   "descripcion": null,
+   "fuente_ficha": "DOAJ",
+   "oai": "https://serena.sharepress.it/index.php/eracle/oai",
+   "archivo": "revistas/2611-6693.json",
+   "ultimo_numero": "Vol. 9, núm. 1 (2026)",
+   "fuente_numeros": "OAI-PMH"
   },
   {
    "id": "2594-021X",
@@ -1396,6 +1595,52 @@
    "archivo": "revistas/2594-0260.json",
    "ultimo_numero": "Vol. 38 (2026)",
    "fuente_numeros": "Crossref"
+  },
+  {
+   "id": "2532-6732",
+   "titulo": "Funes",
+   "idioma_titulo": null,
+   "titulo_alternativo": "Journal of Narratives and Social Sciences",
+   "idioma_titulo_alternativo": "en",
+   "idiomas": [
+    "es",
+    "it",
+    "fr",
+    "en"
+   ],
+   "issn_impreso": null,
+   "issn_electronico": "2532-6732",
+   "editorial": "Università di Napoli Federico II",
+   "pais": "IT",
+   "materias": [
+    "Ethnology. Social and cultural anthropology",
+    "Communication. Mass media",
+    "Literature (General)",
+    "Sociology (General)",
+    "Social sciences (General)"
+   ],
+   "palabras_clave": [
+    "narratives",
+    "sociology",
+    "media",
+    "cultural studies",
+    "anthropology",
+    "social sciences"
+   ],
+   "licencias": [
+    {
+     "nombre": "CC BY 4.0",
+     "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+   ],
+   "url": "https://serena.sharepress.it/index.php/funes/about",
+   "url_doaj": "https://doaj.org/toc/2532-6732",
+   "descripcion": null,
+   "fuente_ficha": "DOAJ",
+   "oai": "https://serena.sharepress.it/index.php/funes/oai",
+   "archivo": "revistas/2532-6732.json",
+   "ultimo_numero": "Vol. 9 (2026)",
+   "fuente_numeros": "OAI-PMH"
   },
   {
    "id": "2391-9485",

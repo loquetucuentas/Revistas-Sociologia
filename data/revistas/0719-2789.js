@@ -1,7 +1,7 @@
 // Copia de revistas/0719-2789.json para abrir la aplicación sin servidor.
 (window.DATOS_REVISTAS = window.DATOS_REVISTAS || {})["revistas/0719-2789.json"] = {
  "version": 1,
- "generado": "2026-10-18T05:53:59+00:00",
+ "generado": "2026-10-19T04:47:02+00:00",
  "es_prueba": false,
  "revista": {
   "id": "0719-2789",
@@ -39,1546 +39,4827 @@
   "url_doaj": "https://doaj.org/toc/0719-2789",
   "descripcion": null,
   "fuente_ficha": "DOAJ",
+  "oai": "https://cuhso.uct.cl/index.php/CUHSO/oai",
   "archivo": "revistas/0719-2789.json",
-  "ultimo_numero": "Vol. 31, núm. 1 (2021)",
-  "fuente_numeros": "Crossref"
+  "ultimo_numero": "Vol. 36, núm. 1 (2026)",
+  "fuente_numeros": "OAI-PMH"
  },
  "numeros": [
   {
-   "id": "v31-n1-2021",
-   "volumen": "31",
+   "id": "v36-n1-2026",
+   "volumen": "36",
    "numero": "1",
-   "anio": 2021,
-   "fecha": "2021-09-02",
-   "etiqueta": "Vol. 31, núm. 1 (2021)",
-   "fuente": "Crossref",
+   "anio": 2026,
+   "fecha": "2026-10-16",
+   "etiqueta": "Vol. 36, núm. 1 (2026)",
+   "fuente": "OAI-PMH",
    "articulos": [
     {
-     "id": "10.7770/cuhso.v31i1.2676",
-     "titulo": "La autonomía individual bajo la tutela del binomio médico-jurídico: hacia una conceptualización histórico-relacional",
+     "id": "10.7770/cuhso-v36n1-art1128",
+     "titulo": "A propósito de José Bengoa: In Memoriam",
      "idioma_titulo": "es",
      "autores": [
       {
-       "nombre": "Editorial VERI Revistas-uct",
+       "nombre": "Espinoza Araya, Claudio",
+       "orcid": null
+      },
+      {
+       "nombre": "Piña Cabrera, Leonardo",
+       "orcid": null
+      },
+      {
+       "nombre": "Mora Nawrath, Hector",
+       "orcid": null
+      },
+      {
+       "nombre": "Chamorro Pérez, Andrea",
        "orcid": null
       }
      ],
-     "resumen": null,
-     "idioma_resumen": null,
+     "resumen": "En esta entrevista, José Bengoa reflexiona sobre su trayectoria intelectual y su contribución al estudio de los pueblos indígenas en Chile, abordando los vínculos entre historia y antropología. A lo largo de la conversación, analiza los procesos históricos que han marcado la relación entre el Estado y el mundo indígena, así como los desafíos contemporáneos en materia de reconocimiento, memoria y derechos. La entrevista ofrece una mirada crítica y situada sobre la sociedad chilena, destacando la vigencia de estos debates en el contexto actual.",
+     "idioma_resumen": "es",
      "licencia": {
-      "nombre": "CC BY-NC-SA 4.0",
-      "url": "http://creativecommons.org/licenses/by-nc-sa/4.0"
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
      },
-     "url": "https://doi.org/10.7770/cuhso.v31i1.2676",
-     "doi": "10.7770/cuhso.v31i1.2676",
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/1110",
+     "doi": "10.7770/cuhso-v36n1-art1128",
      "paginas": null,
-     "fuente": "Crossref"
+     "fuente": "OAI-PMH"
     },
     {
-     "id": "10.7770/cuhso.v31i1.2624",
-     "titulo": "Editorial",
-     "idioma_titulo": null,
+     "id": "10.7770/cuhso-v36n1-art911",
+     "titulo": "Actitudes lingüísticas hacia el criollo haitiano, el español y el francés en 30 personas migrantes haitianas de la Provincia de Concepción",
+     "idioma_titulo": "es",
      "autores": [
       {
-       "nombre": "Matthias Gloël",
+       "nombre": "Jara Saldivia, Ana",
        "orcid": null
       },
       {
-       "nombre": "Ana Cárdenas Tomazic",
+       "nombre": "Salamanca Gutiérrez, Gastón",
+       "orcid": null
+      }
+     ],
+     "resumen": "Este artículo contiene el análisis de las actitudes que 30 personas migrantes haitianas tienen respecto del kreyol, el español y el francés. Para ello, se les preguntó si consideran importante que sus hijos/as hablen el kreyol/español, y si les enseñarían a sus hijos/as a hablar kreyol/español/francés. Los resultados evidencian actitudes mayoritariamente positivas hacia las tres lenguas, siendo esto muy evidente para el kreyol y el español, y no tan elocuente en el caso del francés. De acuerdo con estos resultados, al menos en lo que a las actitudes hacia estas lenguas se refiere, se concluye que hay un contexto adecuado tanto para el mantenimiento del kreyol, como para el despliegue de iniciativas que tiendan a afianzar el dominio de la lengua mayoritaria; aunque la concreción efectiva de lo señalado se cruza con otras variables que exceden los focos de atención de este artículo.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/898",
+     "doi": "10.7770/cuhso-v36n1-art911",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v36n1-art712",
+     "titulo": "Antropología en la frontera, un proyecto de excelencia desde la periferia. El inicio de la formación antropológica en la Universidad Católica de Temuco",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Mora Nawrath, Hector",
+       "orcid": null
+      }
+     ],
+     "resumen": "Este artículo pone de relieve algunos hitos y actores claves en el desarrollo de la carrera de Antropología en la actual Universidad Católica de Temuco en su primera etapa, entre 1970 y 1978. Se trató de un programa de formación profesional que cobró forma hacia inicios de los años 70, y que, en un contexto propicio para el desarrollo de las ciencias sociales en Chile, logró articular una propuesta que reunió a un conjunto de académicos e investigadores en torno a un objetivo común, crear una carrera de antropología de excelencia. Teniendo en consideración estos antecedentes, se propone una discusión en torno a la idea de periferia como indicativo de una condición que determina la calidad intelectual de la producción de conocimiento, así como la contribución que se realiza desde distintos lugares (continentes, países, regiones). Se expone cómo las disposiciones colaborativas articuladas a distintos niveles, se traducen en aportes novedosos, progresistas y consistentes, que dado ciertas condiciones socio-históricas, pueden desarticularse por también reemerger.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/705",
+     "doi": "10.7770/cuhso-v36n1-art712",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v36n1-art1079",
+     "titulo": "Asclepio en La Araucanía: perspectivas médico-sanitarias en el proceso de ocupación. Siglos XIX y XX. Mario Fabregat Peredo (2025). Prohistoria Ediciones, Rosario, Argentina",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Sánchez Delgado, Marcelo",
+       "orcid": null
+      }
+     ],
+     "resumen": "La aparición de Asclepio en La Araucanía: perspectivas médico-sanitarias en el proceso de ocupación. Siglos XIX y XX de Mario Fabregat Peredo es un hito destacable en el contexto de la historia de la medicina en Chile. La propuesta de Mario Fabregat es un testimonio a favor de la causa del libro de historia ya que el volumen da cuenta de una unidad de sentido a través un recorte temporal y geográfico en torno a un tema, y con una extensión y profundidad que hace justicia a las fuentes, al contexto histórico y al campo de discusión; algo que sería imposible en un artículo. Por otra parte, este libro es parte de una colección de Historia y Antropología de América Latina en una prestigiosa editorial trasandina especializada en el libro de historia y que sigue poniendo en valor el libro físico, que es en la actualidad un objeto de resistencia, precario en sus posibilidades de difusión global y comercial.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/1079",
+     "doi": "10.7770/cuhso-v36n1-art1079",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v36n1-art921",
+     "titulo": "Boceto para una metafísica del arte desde la reología filosófica: realidad, creatividad e instrumentalización",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Sierra-Lechuga, Carlos",
        "orcid": null
       },
       {
-       "nombre": "Gonzalo Díaz Crovetto",
+       "nombre": "Valenzuela Martínez, Luis",
+       "orcid": null
+      }
+     ],
+     "resumen": "Este ensayo explora la interconexión entre la creatividad artística y el dinamismo trascendental de lo real desde la reología filosófica. Se argumenta a favor de pensar la creatividad como una manifestación de este dinamismo fundamental, capaz de enriquecer la realidad al generar más y nuevas dinámicas. Se concluye advirtiendo del peligro que supone la instrumentalización del arte para fines políticos o económicos, como la propaganda, la gentrificación o la industria cultural. Se argumenta que tales usos, al limitar el potencial creativo del arte, desvirtúan su carácter liberador. La estructura del artículo es tripartita: comienza analizando el dinamismo de lo real, luego se examina el arte como expresión de ello y, al final, se exponen y critican las prácticas que coartan su dinámica transformadora. En última instancia, se enfatiza la función liberadora del arte incardinado en lo real, fiel a la creatividad popular, abogando por la resistencia a su instrumentalización y privatización.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/921",
+     "doi": "10.7770/cuhso-v36n1-art921",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v36n1-art932",
+     "titulo": "Cine, relaciones laborales y nuevos derechos digitales",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "López Jiménez, José Manuel",
+       "orcid": null
+      }
+     ],
+     "resumen": "La utilización del cine como herramienta metodológica de transmisión de conocimiento de las relaciones laborales ha sido una constante en los últimos años, del mismo modo que el llamado “séptimo arte” ha encontrado tradicionalmente contenido inherente a las relaciones de trabajo de gran importancia a la hora de elaborar grandes historias.Así, del “Coloso en llamas” a “Up in the air” pasando por “Philadelphia”, el cine ha ayudado y ayuda a todos aquellos que ejercemos la docencia del Derecho del Trabajo a escenificar algunos de los aspectos más relevantes de nuestra enseñanza.Paralelamente, el mercado de trabajo ha experimentado un proceso de digitalización y transición hacia una nueva realidad en la que incluso las profesiones han cambiado, desaparecido o sido sustituidas.Las nuevas relaciones de trabajo han dado lugar a la aparición de derechos de nueva generación en los cuales la doctrina discute sobre si son nuevos o evolución de los ya existentes.En el artículo que a continuación se presenta el lector podrá conocer cómo el cine ha recogido las principales novedades en cuanto a las relaciones de trabajo y la transición digital.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/932",
+     "doi": "10.7770/cuhso-v36n1-art932",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v36n1-art764",
+     "titulo": "Comisarios y familiares del Santo Oficio en el obispado de Buenos Aires: procedimientos, prácticas jurisdiccionales y vínculos locales (siglo XVIII)",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Nasif, Samir",
+       "orcid": null
+      }
+     ],
+     "resumen": "Esta contribución trata sobre la jurisdicción inquisitorial en el obispado de Buenos Aires –situado entre las regiones más meridionales de los dominios hispánicos, solapado a la homónima gobernación y supeditado al virreinato del Perú– durante la primera mitad del siglo XVIII. Sobre todo, el foco está puesto en la ciudad-puerto que resultaba cabecera episcopal y en la de Santa Fe de la Vera Cruz. Aunque en algunos casos se harán menciones también a la ciudad de Corrientes. El periodo escogido para el análisis se explica a partir de la progresiva relevancia que fue adquiriendo la región rioplatense desde el cambio dinástico en la monarquía hispánica a inicios de la centuria. En efecto, la atención puesta sobre las mencionadas localidades no abandona la observación de conjunto en escala regional. Sobre la base de fuentes documentales de variada procedencia y tipo, se reconstruyen vínculos y conflictos que tuvieron lugar en dichos espacios a partir de las agencias inquisitoriales. El propósito de este escrito es trazar algunas líneas de investigación sobre potencialidades de las fuentes documentales disponibles en relación con la jurisdicción del Santo Oficio en una diócesis que no ha sido objeto de demasiada atención al respecto.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/764",
+     "doi": "10.7770/cuhso-v36n1-art764",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v36n1-art1042",
+     "titulo": "Concepciones de Enseñanza, Narrativas Históricas-Escolares y Pensamiento Histórico del Profesorado en Formación de Historia y Ciencias Sociales",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Chávez Preisler, Carolina",
+       "orcid": null
+      }
+     ],
+     "resumen": "La narrativa histórica-escolar es un relato diseñado, estructurado, planeado y emitido por el o la docente con el propósito de enseñar la historia. El relato oral o escrito, a través del cual se expone la narrativa, tiene orígenes multiculturales y epistemológicos: la disciplina histórica y con ello su narrativa, las creencias del profesorado, sus experiencias, sus ideologías, el currículum y la audiencia. Es un relato que contiene y permite exponer diferentes componentes del pensamiento histórico y tiene un rol esencial en la enseñanza porque es una de las formas más recurrentes en que el profesorado pone en contacto al estudiantado con el pasado. Por ello, el objetivo de esta investigación es analizar las narrativas históricas-escolares y su relación con las concepciones de enseñanza de la historia del profesorado en formación de una universidad chilena. La investigación es mixta, se levanta información a través de un cuestionario de concepciones de enseñanza de la historia y de narrativas de profesores y profesoras de VIII semestre de la carrera de pedagogía en historia, geografía y ciencias sociales. Para el análisis se utilizó estadística descriptiva, análisis de contenido y categorial. Los resultados indican que es necesario levantar una tipología para caracterizar las narrativas histórica-escolares del profesorado en formación, que las concepciones de enseñanza del profesorado son predominantemente contemporáneas, pero con rezagos tradicionalistas y que en el 44% de los casos hay una relación entre las concepciones de enseñanza y las narrativas.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/1042",
+     "doi": "10.7770/cuhso-v36n1-art1042",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v36n1-art1089",
+     "titulo": "Controversias socioambientales en la gobernanza de las turberas en Chile: de los discursos climáticos globales a las realidades extractivistas locales",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Onetto Pavez, Mauricio",
        "orcid": null
       },
       {
-       "nombre": "Dasten Julián Vejar",
+       "nombre": "Cancino Salas, Ronald",
+       "orcid": null
+      },
+      {
+       "nombre": "Hecht, Romy",
+       "orcid": null
+      },
+      {
+       "nombre": "Mansilla, Claudia",
+       "orcid": null
+      },
+      {
+       "nombre": "Onetto Pavez, Mauricio",
+       "orcid": null
+      },
+      {
+       "nombre": "Cancino Salas, Ronald",
+       "orcid": null
+      },
+      {
+       "nombre": "Hecht, Romy",
+       "orcid": null
+      },
+      {
+       "nombre": "Mansilla, Claudia",
+       "orcid": null
+      }
+     ],
+     "resumen": "Este artículo analiza el proceso legislativo que culminó en la Ley 21.660 de Protección de Turberas de Chile (2024), utilizando un análisis crítico del discurso para examinar los debates parlamentarios que moldearon este marco normativo. A diferencia de estudios previos sobre gobernanza ambiental en Chile —que se han centrado en identificar conflictos específicos, caracterizar patrones extractivistas o diagnosticar la fragilidad institucional—, este trabajo expone las controversias socio-técnicas subyacentes a la gobernanza de las turberas. Demuestra cómo los compromisos climáticos globales (NDCs) se articulan y, a menudo, chocan con las realidades extractivistas locales, ofreciendo un análisis de la gobernanza de las turberas en la intersección entre la regulación legal, el conocimiento ecológico y la economía política.El estudio muestra que la legislación ambiental no surge únicamente de un consenso científico o político, sino de negociaciones controvertidas en las que el conocimiento, el poder y los intereses económicos se co-producen. El análisis identifica tres ejes centrales de controversia: la movilización estratégica del conocimiento científico; la negociación de marcos legales en torno a la conservación y la extracción regulada; y los compromisos institucionales a través de los cuales la sostenibilidad se traduce en políticas bajo condiciones desiguales de poder y supervisión.El caso chileno ilustra cómo un proceso regulatorio, como la construcción de una agenda climática, está sujeto a dinámicas controvertidas que relativizan las características de las economías locales y las dinámicas socio-ecológicas, generando así debilidades en la fuerza normativa. El artículo contribuye a los debates sobre gobernanza ambiental al demostrar los límites de la implementación de las Contribuciones Determinadas a Nivel Nacional (NDCs) cuando los compromisos globales se enfrentan a relaciones de poder arraigadas y una capacidad regulatoria desigual.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/1089",
+     "doi": "10.7770/cuhso-v36n1-art1089",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v36n1-art759",
+     "titulo": "Cosmovisiones populares para la pedagogía crítica emancipadora y transformadora latinoamericana. Polisemia de visiones y prácticas populares. Rolando Pinto Contreras. (2021). Editorial Latinoamericana, Santiago de Chile",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Mora-Olate, María Loreto",
+       "orcid": null
+      },
+      {
+       "nombre": "Sanhueza Henríquez, Susan Valeria",
+       "orcid": null
+      }
+     ],
+     "resumen": "Cosmovisiones populares para la pedagogía crítica emancipadora y transformadora latinoamericana. Polisemia de visiones y prácticas populares. Rolando Pinto Contreras. (2021). Editorial Latinoamericana, Santiago de Chile.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/752",
+     "doi": "10.7770/cuhso-v36n1-art759",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v36n1-art780",
+     "titulo": "Crisis climática, instituciones y transición energética: relaciones estrechas",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Folguera, Guillermo",
+       "orcid": null
+      }
+     ],
+     "resumen": "La crisis climática es reconocida como uno de los grandes problemas socioambientales de las últimas décadas. Sin embargo, la configuración de este problema está íntimamente conectada con diferentes instituciones y sectores de poder. En este trabajo se reconocen y analizan las conceptualizaciones privilegiadas de la crisis climática y su posible vínculo con diferentes Corporaciones, Financieras e instituciones estatales. La hipótesis general es que el modo de configurar el problema de la crisis climática y su supuesta solución en términos de transición energética tiene relación directa con ellas. De este modo, a pesar de que en clave de crisis climática los discursos parecen señalar lo contrario, dicha configuración privilegia formas de reproducción económica de dichos sectores por sobre los aspectos de justicia social y ambiental. Para ello, nos detendremos en algunos casos, instituciones y documentos emblemáticos que han sido fundamentales tanto en la configuración del problema como en el avance de determinadas políticas públicas asociadas. En primera instancia se indaga el Acuerdo de París en materia de crisis climática. En segunda instancia se presentan diversas perspectivas y políticas de los Estados involucrados. Posteriormente, se estudian algunas de las principales Corporaciones dominantes, en particular mineras, financieras y automotrices. Finalmente, confluyen estos aspectos en el análisis de las políticas públicas que, en nombre de la razón empresarial, determinan uno de los mayores problemas socioambientales de nuestros tiempos.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/780",
+     "doi": "10.7770/cuhso-v36n1-art780",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v36n1-art878",
+     "titulo": "Cuidados sociocomunitarios: experiencias y tensiones de cuidadoras informales y personas con discapacidad en la región de O’Higgins, Chile",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Pino-Morán, Juan Andrés",
+       "orcid": null
+      },
+      {
+       "nombre": "González, Rodrigo",
+       "orcid": null
+      },
+      {
+       "nombre": "Rodriguez-Garrido, Pía",
+       "orcid": null
+      }
+     ],
+     "resumen": "Los cuidados sociocomunitarios son una propuesta para democratizar los cuidados y las relaciones de interdependencia entre las personas con discapacidad y sus comunidades. Frente a esta premisa, el presente estudio tuvo como objetivo profundizar en las experiencias de los cuidados sociocomunitarios desde la perspectiva de las personas con discapacidad y cuidadoras informales que viven en la región de O’Higgins en Chile. Para ello, se realizaron nueve entrevistas en profundidad a cuidadoras informales de personas con discapacidad, diez entrevistas a personas con discapacidad, y un grupo de discusión entre cuidadoras (8) y personas con discapacidad (2). Los hallazgos dan cuenta de que los cuidados sociocomunitarios son sistemas de cuidados cooperativos, interconectados y de corresponsabilidad que se construyen y configuran con esfuerzo y desgaste por parte de las familias de personas con discapacidad, especialmente de las mujeres. Por ello, resulta fundamental fortalecer la autoorganización de las comunidades para atender a las necesidades y cuidados de las personas con discapacidad. De ahí la urgencia por desarrollar sistemas integrales de cuidados con mayor responsabilidad del Estado y sus territorios.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/878",
+     "doi": "10.7770/cuhso-v36n1-art878",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v36n1-art931",
+     "titulo": "De la dispersión a la sistematización: una propuesta de tipologización de los rasgos característicos del discurso jurídico claro",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Meza, Paulina",
+       "orcid": null
+      },
+      {
+       "nombre": "Lillo-Fuentes, Fernando",
+       "orcid": null
+      }
+     ],
+     "resumen": "El objetivo de la investigación es establecer una tipología de los rasgos lingüístico-discursivos (RLD) asociados al lenguaje claro (LC) en el ámbito jurídico, reportados en artículos de investigación recientes. Para alcanzar este propósito, desarrollamos una investigación de corte cualitativo, guiada por los lineamientos metodológicos actuales para la construcción de tipologías. Asimismo, consideramos diversos estándares de calidad y rigurosidad científica para su construcción. Como resultados centrales del estudio, logramos identificar y agrupar los rasgos que permiten facilitar y complejizar los textos jurídicos de acuerdo con la revisión de la literatura especializada existente. Y, sobre la base de ello, proponer una tipología de RLD asociados al LC en el ámbito jurídico. De forma complementaria, ofrecemos una visualización clara y atractiva de cómo se constituye nuestra propuesta, de manera que la información sea más sencilla de utilizar. Además de ello, disponibilizamos toda nuestra tipología en línea, con acceso gratuito, abierto e interactivo, a fin de que los interesados puedan acceder a ella y utilizarla con los fines que estimen pertinentes. Como conclusión central, la tipología ofrecida se puede definir por su carácter acumulativo, no binario y flexible. En consecuencia, creemos que ella puede ser de utilidad para distintas audiencias y con múltiples propósitos, teóricos o aplicados, en diversas disciplinas.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/931",
+     "doi": "10.7770/cuhso-v36n1-art931",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v36n1-art1017",
+     "titulo": "Defensa cultural e injusticias epistémicas en la corte: Peritajes antropológicos en casos mapuche",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "De Brasi, Leandro",
+       "orcid": null
+      },
+      {
+       "nombre": "Le Bonniec, Fabien",
+       "orcid": null
+      }
+     ],
+     "resumen": "El artículo entrega un marco teórico para entender mejor cómo los prejuicios identitarios pueden afectar la evaluación por parte del juzgador de la prueba pericial cultural, y así no solo promocionar errores en la averiguación de la verdad en el caso concreto sino también injusticias epistémicas relacionadas al no-reconocimiento epistémico y sistemático de grupos marginalizados que colectivamente perpetúan un contexto de opresión. El artículo se concentra en la evidencia pericial entregada por antropólogos para proveer entendimiento sociocultural y contextual en casos criminales del sistema legal chileno que involucra imputados mapuche. Los casos concretos presentados sugieren plausiblemente que la prueba pericial antropológica sobre grupos marginados sea recibida prejuiciosamente y genere injusticias epistémicas. En particular, estos plausiblemente ejemplifican un tipo de injusticia epistémica de contenido que ha pasado desapercibida en el contexto judicial. Para apreciar esto, primero, se introduce la tradición racionalista de la prueba en la cual se enmarca este trabajo y el fenómeno de las injusticias epistémicas para entender el tipo de disfunciones epistémicas a ser consideradas. Segundo, se presenta el sistema penal chileno, del cual derivan los casos aquí considerados, y el tipo de defensa cultural que tienen de trasfondo esos casos. Tercero, se analizan casos de peritajes antropológicos sobre imputados mapuche para mostrar la plausibilidad de una injusticia epistémica de contenido que las afecta, interfiriendo así con la meta epistémica de la valoración de la prueba y perpetuando la invisibilización de la cultura Mapuche. Finalmente, se destaca la generalización del fenómeno considerado a otros grupos culturalmente marginados.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/1002",
+     "doi": "10.7770/cuhso-v36n1-art1017",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v36n1-art1029",
+     "titulo": "Dilemas de una empresa forestal globalizada. Celulosa Arauco y Constitución, en búsqueda de un “ambiente más favorable”: entre el sur de Chile y el Cerrado brasileño",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Almonacid, Fabián",
+       "orcid": null
+      },
+      {
+       "nombre": "de Matheus, Luis Fernando",
+       "orcid": null
+      }
+     ],
+     "resumen": "En este artículo se estudian las estrategias territoriales actuales de Celulosa Arauco y Constitución (Arauco), una empresa chilena líder mundial en el rubro forestal, con presencia latinoamericana, europea y norteamericana, en plantaciones forestales, producción de celulosa, aserraderos y fabricación de paneles, y una creciente producción de energía. Arauco, desde la década de 1990 inició una expansión global, con plantaciones y fábricas de celulosa y paneles en Argentina, Uruguay y Brasil, y fábricas de paneles en Europa y América del Norte. Asimismo, fue extendiendo su presencia en los distintos segmentos de la cadena global de valor forestal, desde la genética, hasta la logística, transporte y comercialización.El Estado de Mato Grosso do Sul, en Brasil, se ha convertido en la nueva frontera de expansión para las inversiones de Arauco, hasta convertirse en zona de interés principal. En este artículo se plantea que Arauco ha decidido reducir su presencia (plantaciones y fábricas) en Chile y trasladar su actividad principal a ese estado de Brasil, pues el rubro forestal no ha podido resolver los límites de mercado, naturales y políticos que se plantean para su desarrollo en Chile, mientras en Mato Grosso do Sul se han generado condiciones inmejorables, que se expresan en una presencia territorial muy diferente a la que han desarrollado en Chile.Siguiendo una metodología historiográfica y geográfica, el artículo utiliza documentos estatales y de empresas forestales, estadísticas, bases de datos, mapas, prensa, entrevistas y bibliografía, tanto de Chile, como de Brasil.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/1029",
+     "doi": "10.7770/cuhso-v36n1-art1029",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v36n1-art879",
+     "titulo": "Direccionalidad de la traducción en los poemas en mapuzugun de María Huenuñir incluidos en Malen mapu",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Aguirre, Javier",
+       "orcid": null
+      }
+     ],
+     "resumen": "María Huenuñir (Panguipulli, 1968) inició su trayectoria poética con Malen Mapu (2003), libro que incluye ocho poemas bilingües mapuzugun – castellano. Después de revisar la trayectoria de la autora y la evolución de su escritura en mapuzugun, el análisis contrastivo de las versiones de su opera prima, apoyado por el testimonio personal de la propia autora, se encamina a clarificar el lugar del original en los poemas. Este análisis busca valorar la importancia de la escritura en mapuzugun en un contexto de encrucijada sociolingüística entre la pérdida y la revitalización de la lengua mapuche, en un contexto desfavorable de hegemonía de la lengua española y subalternización del mapuzugun.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/868",
+     "doi": "10.7770/cuhso-v36n1-art879",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v36n1-art1088",
+     "titulo": "Distribución espacial y paisajística de los asentamientos prehispánicos en el Alto de Toche, Colombia",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Velandia Silva, César Augusto",
+       "orcid": null
+      },
+      {
+       "nombre": "Ramírez Jáuregui, Daniel Alfonso",
+       "orcid": null
+      },
+      {
+       "nombre": "Bejarano Bonilla, David Alfonso",
+       "orcid": null
+      },
+      {
+       "nombre": "Carvajal Fernández, Jhony",
+       "orcid": null
+      },
+      {
+       "nombre": "Alba Sanabria, Sandra Milena",
+       "orcid": null
+      }
+     ],
+     "resumen": "La investigación documenta la distribución de las terrazas arqueológicas y los actuales bosques de Palma de Cera premontanos y montanos, localizados en el Alto de Toche o “Tochecito”. Este lugar no tiene antecedentes de investigación arqueológica en Colombia y posee una notoria presencia de ecosistemas antrópicos (8000 BP) con complejos patrones culturales heredados, según se ha evidenciado en documentaciones cercanas al margen oriental de la Cordillera Central de los Andes.El trabajo de campo se realizó a partir de una clasificación tipológico-topológica definida por ubicación, altura, superficie, orientación solar, y pendientes recopilados por datos in situ, fotogrametría digital mediante drones y análisis satelital. Esta clasificación se aplicó a tres conjuntos de “tambos” (terrazas para asentamientos habitacionales), en los sitios-fincas llamados: La Carbonera, Gallego y Las Cruces.Los lugares arqueológicos estudiados se ubican en la zona media y alta del bosque Andino, desde los 2600 msnm, hasta las terrazas más grandes y elevadas a 3000 msnm. De ellos se infieren posibles usos relacionados con la proximidad solar este-oeste, así como al conocimiento ecológico prehispánico y la transformación sociocultural del paisaje, la explotación agrícola vertical de los pisos térmicos y la cercanía a las dos microcuencas de los ríos Toche y Tochecito y a la red de senderos que originaron el Camino del Quindío. El análisis espacial SIG reconstruyó un paisaje geoarqueológico, se clasificaron 37 nuevos sitios; 20 de ellos por encima de los 2800 msnm y fue compartido a la comunidad a través de la aplicación web ArcGIS-online.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/1088",
+     "doi": "10.7770/cuhso-v36n1-art1088",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v36n1-art1049",
+     "titulo": "Dosis de comprensión: Comunicación efectiva en el consumo de medicamentos en el sur de Chile",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Weinberg Alarcón, Jimena",
+       "orcid": null
+      },
+      {
+       "nombre": "Samaniego Sastre, Mario",
+       "orcid": null
+      }
+     ],
+     "resumen": "Los procesos de mediación lingüística-cultural tanto escritos como orales en el marco de las dinámicas migratorias constituyen el objetivo central de este trabajo. La Araucanía, territorio del sur de Chile, caracterizado por una notoria interetnicidad e interculturalidad, en los últimos diez años ha sido protagonista de la llegada de distintas poblaciones migrantes. Focalizándonos en la población haitiana hablante del creole francés, este texto recoge los resultados de dos procesos de investigación centrados en una temática común: el uso y consumo de medicamentos. En el primer proyecto se trabajaron etnográficamente las relaciones que se establecían, en la unidad de farmacia de un centro de salud público de la ciudad de Temuco, entre el personal del mismo y los usuarios haitianos. Posteriormente, se analizaron lingüística y socioculturalmente los prospectos médicos que acompañan a todo medicamento cuando estos son adquiridos en farmacias privadas. Estas dos pesquisas permiten responder a la pregunta de fondo que justifica este trabajo: ¿cómo el lenguaje puede reconocer o menoscabar a las personas en sociedades cada vez más plurales en términos sociales y culturales? La principal conclusión a la que se llega es que, si bien la oralidad operada por mediadores biculturales resuelve los problemas de comunicación entre actores que cultural y lingüísticamente son diversos, esta se consuma en sí misma y es inviable en términos económicos y de personal pertinente. Por lo mismo, se propone lo que denominamos escritura accesible y pública para propiciar relaciones intersocietales e interculturales más justas y humanizadoras.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/1034",
+     "doi": "10.7770/cuhso-v36n1-art1049",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v36n1-art907",
+     "titulo": "El latín en el “Arte” de Andrés Febrés. De la referencia gramatical al ocultamiento de la sexualidad",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Cancino, Nataly",
+       "orcid": null
+      },
+      {
+       "nombre": "Loncón Antileo, Fresia",
+       "orcid": null
+      }
+     ],
+     "resumen": "La confesión era un asunto complejo para la conquista espiritual de los pueblos originarios de América. Por un lado, era vista como una poderosa herramienta de control social y disciplinamiento de las conciencias, pero, por otro, implicaba una serie de dificultades doctrinarias y prácticas, como la traducción de los términos religiosos, la distancia entre las lenguas de confesor y penitente, y la adecuación (cognitiva, cultural) de los contenidos, tanto para desterrar las prácticas indígenas que se consideraban pecados, como para evitar inculcar nuevas faltas. En este marco, confesar los pecados de la carne podía resultar complejo, pues el sacerdote debía interrogar pero al mismo tiempo no debía hacerlo muy explícitamente ni incitando al pecado. El confesionario, como género textual, era un recurso útil, de modo que Andrés Febrés incluyó uno en su Arte de 1765. El autor percibe la complejidad del sexo y la sexualidad, por lo que decide escribir este asunto en mapudungun y en latín, mientras que la lengua de comunicación de su texto es el español. Creemos que esta determinación se debe tanto al contexto comunicativo como a la necesidad de advertir a los misioneros lectores que se trataba de un asunto especial; además, lo explicamos por el pudor que pudo haberle ocasionado este tema al autor. Para explorar el texto, se ofrece una inédita traducción al español de “Sexto y nono mandamiento”. Al tiempo que analizamos el escrito, revisamos las dificultades metodológicas del estudio.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/894",
+     "doi": "10.7770/cuhso-v36n1-art907",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v36n1-art964",
+     "titulo": "El lenguaje de la restitutio en la segunda escolástica",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Salazar Santander, Arturo",
+       "orcid": null
+      }
+     ],
+     "resumen": "El presente artículo tiene por objetivo el estudio de la categoría teológico-jurídica de la restitutio en general, en autores relevantes de la segunda escolástica española. Lo anterior, como manifestación de un específico lenguaje situado en un contexto teológico-moral que progresivamente irá adquiriendo un carácter más jurídico y aun secularizándose. La restitutio puede entenderse como un concepto técnico, aunque teológico-jurídico que permitía no sólo reunir sino reinterpretar muchas soluciones de la tradición romanística en materia de enriquecimiento injustificado, daños, posesión y en algunos casos, incluso a los daños e incumplimiento contractual, bajo una idea matriz de justicia conmutativa siguiendo a Tomás de Aquino. Se parte de la premisa metodológica que el uso común del lenguaje determina una forma compartida de ver la realidad jurídica dentro de un orden y al mismo tiempo de constituirlo, le confiere legitimidad. En este caso, el ordo subyacente como premisa es la vivencia comunitaria de la fe católica y la ordenación del espacio como Res Publica Christiana, bajo la teología y el espíritu del Concilio de Trento.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/964",
+     "doi": "10.7770/cuhso-v36n1-art964",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v36n1-art927",
+     "titulo": "El “dialeuto lijítimo”: Palacios, Unamuno, Saavedra y el etnonacionalismo lingüístico en Chile a comienzos del siglo XX",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Rojas, Darío",
+       "orcid": null
+      }
+     ],
+     "resumen": "En el presente trabajo se estudia la recepción de las ideas de Nicolás Palacios sobre el castellano chileno y su relación con la “raza chilena”, en el campo de los estudios del lenguaje en Chile a comienzos del siglo XX. El estudio se basa en el análisis historiográfico de las ideas lingüísticas desde un enfoque glotopolítico (es decir, en cuanto ideologías lingüísticas), y toma como objeto un corpus de discursos metalingüísticos publicados entre 1905 y 1908 como libros, folletos o como artículos en la prensa por el escritor y filólogo vasco Miguel de Unamuno y el profesor de idiomas chileno Julio Saavedra Molina. El análisis se concentra en identificar los posicionamientos subyacentes a las ideas y representaciones que sobre el lenguaje muestran los autores de dichos discursos, y establecer su relación con el contexto material de producción y con la historia de la formación de ideologías lingüísticas en Chile, consideradas en su contexto supranacional. Las conclusiones del estudio rescatan que, a pesar de la excentricidad de la tesis de Palacios, no corresponde a un producto intelectual aislado de su contexto y completamente divergente del clima de opinión predominante en el Chile de esta época, como revelan las ideas de Saavedra. Por ello, representa un punto de fuga relevante respecto de la ideología dominante del largo siglo XIX chileno y un contrapunto en adelante ineludible para el hispanismo, representado acá por Unamuno.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/927",
+     "doi": "10.7770/cuhso-v36n1-art927",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v36n1-art950",
+     "titulo": "Encarcelando eslabones descartables: microtráfico en mujeres bolivianas y su vinculación con comunidades indígenas y evangélicas intra y extracarcelarias",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Mansilla Agüero, Miguel Angel",
+       "orcid": null
+      },
+      {
+       "nombre": "slootweg, johanna corrine",
+       "orcid": null
+      },
+      {
+       "nombre": "Dufraix, Roberto",
+       "orcid": null
+      }
+     ],
+     "resumen": "El artículo analiza las condiciones sociales del encarcelamiento de mujeres indígenas bolivianas -en su condición de imputadas y condenadas- recluidas por infracciones a la legislación de drogas en la macrozona norte de Chile. Mediante la teoría de las prácticas culturales y la criminología crítica, se sitúa el contrabando fronterizo circunstancial diferenciándolo del arraigo histórico, medicinal y ritual de la hoja de coca en el territorio andino. El enfoque es cualitativo-fenomenológico, sustentado en la triangulación analítica de 11 entrevistas en profundidad que incorporan las narrativas de ex-reclusas, pastoras y agentes voluntarias. Los hallazgos develan que el Estado chileno infringe las directrices de la Organización de las Naciones Unidas (Reglas de Bangkok) al priorizar el encierro, agudizando el desarraigo sociocultural de este contingente. Se constata que las internas monolingües o con escaso dominio del castellano sufren formas severas de violencia racializada y estigmatización simbólica por parte de la población penal y de Gendarmería. Finalmente, las evidencias confirman la ausencia de trayectorias criminales en las biografías de estas mujeres, cuya inserción en el tráfico opera como estrategia de supervivencia ante la feminización de la pobreza extrema. Ante el abandono punitivo estatal, las comunidades evangélicas emergen como dispositivos transnacionales que asumen un rol agencial de cuidado, hospitalidad y amparo residencial extramuros que viabiliza los itinerarios de reinserción social.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/950",
+     "doi": "10.7770/cuhso-v36n1-art950",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v36n1-art951",
+     "titulo": "Entre la Transformación y la Despolitización.Estudiando el rol y acción de las Fundaciones Filantrópicas en la Educación Ambiental Chilena",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Tapia-Urra, Andrea",
+       "orcid": null
+      },
+      {
+       "nombre": "Villalobos, Cristóbal",
+       "orcid": null
+      },
+      {
+       "nombre": "Duboy-Luengo, Mitzi",
+       "orcid": null
+      }
+     ],
+     "resumen": "Este artículo analiza los roles y acciones que desarrollan las fundaciones filantrópicas sobre la educación ambiental en Chile. A través de un enfoque interdisciplinario, que articula la investigación sobre ciencias ambientales, políticas educativas e intervención social, y con una aproximación metodológica cualitativa, combinando entrevistas semiestructuradas y el análisis documental, el artículo estudia las características y prácticas del conjunto de intervenciones de educación ambiental desarrolladas por fundaciones filantrópicas en el país, aunque focalizándose en dos programas icónicos: el programa \"Escuela del Bosque\" (desarrollado por la Fundación CMPC) y el programa \"Naturalizar\" (desarrollado por la Fundación Ilumina). Los resultados muestran la existencia de múltiples formas de vinculación entre las fundaciones y el Estado, siendo la complementariedad (más que la competencia) la forma predominante de relación. Asimismo, el análisis muestra que las intervenciones filantrópicas están modeladas por las características organizacionales de las fundaciones, siendo central la misión de las fundaciones y el sello familiar que estas tienen. Finalmente, y aunque los enfoques pedagógicos son heterogéneos, predominan las tendencias naturalistas de intervención social educativa. Así, aunque las iniciativas analizadas promueven aprendizajes valiosos sobre la naturaleza, la ausencia de enfoques críticos y el alineamiento de la acción con lógicas tecnocráticas generan una tensión entre la despolitización y la búsqueda de transformación en estos espacios.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/938",
+     "doi": "10.7770/cuhso-v36n1-art951",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v36n1-art796",
+     "titulo": "Entre la protección de las mujeres y la preservación de la cultura masculina: las instituciones de educación superior de Indonesia enfrentan la violencia sexual",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Udasmoro, Wening",
+       "orcid": null
+      },
+      {
+       "nombre": "Hardini, Tri Indri",
+       "orcid": null
+      },
+      {
+       "nombre": "Mahriyuni",
+       "orcid": null
+      },
+      {
+       "nombre": "Firmonasari, Aprillia",
+       "orcid": null
+      },
+      {
+       "nombre": "Andriani, Merry",
+       "orcid": null
+      },
+      {
+       "nombre": "Udasmoro, Wening",
+       "orcid": null
+      }
+     ],
+     "resumen": "El Reglamento del ministro de Educación, Cultura, Investigación y Tecnología (Permendikbudristek) n.º 30 de 2021, emitido por dicho ministerio de la República de Indonesia, establece un marco para abordar este problema generalizado en la educación superior. A pesar de llevar tres años en vigor, muchas universidades siguen teniendo dificultades para gestionar eficazmente los casos de violencia sexual. Un sistema dominado por hombres, carente de un enfoque centrado en la víctima, obstaculiza la resolución de los casos tal como fue concebida por los grupos de trabajo designados por las universidades. El objetivo de este estudio es investigar los desafíos que enfrentan dichos grupos de trabajo en la Región Especial de Yogyakarta al abordar casos de violencia sexual en sus respectivos campus. Mediante un enfoque cualitativo, se recopilaron datos a través de entrevistas en profundidad con docentes, personal administrativo y estudiantes que integran es-tos grupos de trabajo en siete universidades de la Región Especial de Yogyakarta. Los datos se analizaron utilizando la técnica de análisis de contenido. Los hallazgos revelan tres desafíos principales que enfrentan los grupos de trabajo universitarios en Indonesia al abordar la violencia sexual. Estos desafíos operan tanto a nivel estructural como individual y están arraigados en un *habitus* profundamente establecido que preserva el *statu quo*. El estudio concluye que existe una necesidad urgente de adoptar un enfoque de la violencia sexual centrado en la víctima, fundamentado en una perspectiva de género y que aborde tanto las condiciones estructurales como las dinámicas a nivel individual.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/796",
+     "doi": "10.7770/cuhso-v36n1-art796",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v36n1-art865",
+     "titulo": "Estado y la Sociedad Civil en la Protección de los Derechos Humanos. Una Aproximación hermenéutica",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Díaz González, Ysolina Betsabé",
+       "orcid": null
+      },
+      {
+       "nombre": "Molina López, José Alexis",
+       "orcid": null
+      },
+      {
+       "nombre": "Espinoza Rangel, Héctor Rafael",
+       "orcid": null
+      }
+     ],
+     "resumen": "El propósito de esta investigación fue examinar el papel del Estado y de la sociedad civil en la protección de los derechos humanos. En este sentido, se revisó la episteme del Estado en el ámbito internacional, se identificó el sustento gnoseológico de la sociedad civil en la comunidad internacional y se explicó el rol que ambos actores desempeñan en la protección de los derechos humanos. Desde un paradigma postpositivista, bajo un enfoque cualitativo y enmarcado en el método hermenéutico, se desarrolló el estudio. Ello dio lugar a una serie de reflexiones finales que permitieron develar la relevancia del respeto de los derechos humanos por parte de quienes tienen la responsabilidad de garantizarlos, así como el aporte de la sociedad civil en su labor de vigilancia y resguardo.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/856",
+     "doi": "10.7770/cuhso-v36n1-art865",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v36n1-art976",
+     "titulo": "Estructura retórica y razonamiento judicial en el civil law: un análisis de movidas retóricas aplicado a sentencias judiciales",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Agüero San Juan, Claudio Antonio",
+       "orcid": null
+      }
+     ],
+     "resumen": "El artículo propone un modelo de análisis del discurso jurídico que entiende a la sentencia judicial como macrogénero y la segmenta en macromovidas, movidas y pasos retóricos. Esta estructura se relaciona con operaciones del razonamiento judicial como la interpretación y la subsunción para observar cómo el texto despliega la justificación de la decisión. El modelo se ilustra mediante el análisis de una sentencia de 1912 y una decisión del pleno de la Corte Suprema de Chile de 1959. Este ejercicio pone a prueba el procedimiento y describe sus fortalezas y límites. El estudio muestra cómo la organización textual se vincula con operaciones del razonamiento y con horizontes ideológicos inferibles del propio discurso. Aunque se trata de un corpus piloto con conclusiones limitadas, el artículo concluye que la vinculación entre segmentos retóricos y operaciones jurídicas ofrece un marco ordenado para comparar casos y períodos, y que el modelo puede contribuir a explicitar los mecanismos retórico discursivos con que los fallos usan para desplegar decidir según una política jurídica.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/963",
+     "doi": "10.7770/cuhso-v36n1-art976",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v36n1-art725",
+     "titulo": "Gestión de emociones de ultraintensidad: trabajadoras domésticas migrantes en Chile",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Leiva-Gómez, Sandra",
+       "orcid": null
+      },
+      {
+       "nombre": "Comelin-Fornes, Andrea",
+       "orcid": null
+      },
+      {
+       "nombre": "Garces-Estrada, Carolina",
+       "orcid": null
+      }
+     ],
+     "resumen": "El trabajo doméstico es una actividad de alta exigencia, no solamente por la cantidad de labores del hogar y de cuidado de niñas, niños y personas mayores que usualmente involucra, sino también por una alta exigencia de trabajo emocional que debe ser realizado. Es una actividad subvalorada, asociada a lógicas de servilismo y esclavitud, que en el caso de América Latina, se inscribe en un pasado colonial que empleaba a etnias infravaloradas. En este contexto, bajo el lente analítico de la sociología de las emociones se analiza la gestión de emociones que trabajadoras domésticas migrantes realizan en Chile, a fin de adaptarse a una cultura emocional que le prescribe características de sumisión, obediencia y docilidad. Mediante entrevistas en profundidad, se analizan sus estrategias para gestionar las emociones en un contexto laboral altamente demandante. Concluimos que el trabajo emocional se intensifica por presentarse múltiples desigualdades interseccionadas, a la vez de adaptarse a una cultura emocional que no es la propia, lo que hemos denominado gestión emocional de ultra intensidad.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/718",
+     "doi": "10.7770/cuhso-v36n1-art725",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v36n1-art973",
+     "titulo": "Hispanismo-catolicismo, nacionalismo y política cultural de la dictadura militar chilena en la inauguración del Templo Votivo Nacional de Maipú (1974)",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Guerin Boggle, Brandom",
+       "orcid": null
+      },
+      {
+       "nombre": "Alburquerque Fuschini, Germán",
+       "orcid": null
+      }
+     ],
+     "resumen": "El presente trabajo analiza, a través de un diálogo entre la historia y el patrimonio cultural, la inauguración del Templo Votivo Nacional de Maipú (24 de octubre de 1974) como un episodio clave para comprender la política cultural de la Dictadura Militar Chilena. Se reconocieron elementos de los discursos hispanista-catolicista y nacionalista en diversas alocuciones, representaciones y actos a lo largo del evento. Posteriormente, se contrastó ese análisis con la Política Cultural del Gobierno de Chile (1975). A modo de hipótesis, sostenemos que la ceremonia de inauguración del Templo Votivo Nacional de Maipú presentó una contradicción discursiva al apelar a una memoria hispano-católica y colonial, en paralelo a una nacionalista, sujeta al periodo de la Independencia y la fraternidad americanista.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/973",
+     "doi": "10.7770/cuhso-v36n1-art973",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v36n1-art893",
+     "titulo": "Inquisición en el distrito limeño: limpieza de sangre e indígenas. Una manifestación pictórica",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Cordero, Macarena",
+       "orcid": null
+      },
+      {
+       "nombre": "Ogaz Sotomayor, Julieta",
+       "orcid": null
+      }
+     ],
+     "resumen": "Bajo la Monarquía Hispana la limpieza de sangre fue un concepto que se institucionalizó a lo largo del siglo XVI, como un mecanismo de identificación cultural, más que racial. Prueba de ello es que, a mediados del siglo XVII, mediante cédulas reales, se re interpretó y aplicó el concepto de manera más laxa, al permitirse la incorporación de indígenas y mestizos que acreditasen su limpieza de sangre a espacios que antes estaban reservados solo a quienes contaban con el estatus de “cristianos viejos”. En tal sentido, la resignificación conllevó, para estos grupos, la posibilidad de integrar la nómina de oficiales del Santo Oficio de la Inquisición. Como una forma de conmemorar dicha inclusión, se encargaron una serie de lienzos que celebraban esta incorporación. Este artículo se propone examinar el trasfondo simbólico y cultural de una de estas obras: el Lienzo conmemorativo del pedido al Inca don Carlos II, rey de España, para que la nobleza indígena pueda ingresar al Santo Oficio de la Inquisición del Perú (1700) que se encuentra en el Beaterio de Nuestra Señora de Copacabana en Lima. A través de su análisis iconográfico e histórico, se busca comprender cómo esta pieza da cuenta del esfuerzo por reivindicar la legitimidad cristiana de la nobleza indígena y su aspiración a participar activamente en las instituciones más representativas del orden de la Monarquía Hispana, entre ellas, el Santo Oficio de la Inquisición",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/893",
+     "doi": "10.7770/cuhso-v36n1-art893",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v36n1-art798",
+     "titulo": "Inquisición y clero: acusaciones y procesos de fe contra religiosos durante el siglo XVII",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Pulido Serrano, Juan Ignacio",
+       "orcid": null
+      }
+     ],
+     "resumen": "El presente trabajo aborda el estudio de la actividad inquisitorial contra el clero español durante los siglos de la temprana Edad Moderna. A través del análisis de la inspección realizada en 1640 por parte del Consejo de la Suprema Inquisición al tribunal de distrito de Valladolid, el más extenso de la península ibérica, se mostrarán no solo los procesos abiertos contra el personal del clero, sino, también, un fenómeno oculto, como es el porcentaje de frailes, monjas y curas denunciados por distintos delitos de fe que dejaron de ser procesados por el tribunal.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/798",
+     "doi": "10.7770/cuhso-v36n1-art798",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v36n1-art989",
+     "titulo": "Kimün, totalidad pragmática e interpelación en tres obras mapuche contemporáneas",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Sepúlveda Varas, Ximena",
+       "orcid": null
+      },
+      {
+       "nombre": "Sepúlveda Espinoza, Gastón",
+       "orcid": null
+      },
+      {
+       "nombre": "Valderrama Aguayo, Iván",
+       "orcid": null
+      },
+      {
+       "nombre": "Sepúlveda Varas, Ximena",
+       "orcid": null
+      },
+      {
+       "nombre": "Sepúlveda Espinoza, Gastón",
+       "orcid": null
+      },
+      {
+       "nombre": "Valderrama Aguayo, Iván",
+       "orcid": null
+      },
+      {
+       "nombre": "Sepúlveda Varas, Ximena",
+       "orcid": null
+      },
+      {
+       "nombre": "Sepúlveda Espinoza, Gastón",
+       "orcid": null
+      },
+      {
+       "nombre": "Valderrama Aguayo, Iván",
+       "orcid": null
+      }
+     ],
+     "resumen": "El presente trabajo analiza el kimün como fundamento del pensamiento mapuche contemporáneo, entendido como una totalidad ética y civilizatoria que articula, integra y proyecta la continuidad histórica de la cultura mapuche. Metodológicamente, desarrolla un análisis del discurso de carácter mixto, con predominio cualitativo e incorporación de procedimientos cuantitativos de clasificación pragmática, aplicado a tres obras fundamentales: ¡...Escucha, winka...! (Marimán et al., 2006), Mapun Kimün (Becerra & Llanquinao, 2017) y Tayiñ Mapuche Kimün (Ñanculef, 2016). Desde la teoría de los actos de habla de Austin y Searle, complementada con la noción de interpelación de Dussel, se analizaron 122 enunciados con referencias al kimün. Los resultados muestran predominancia de actos aseverativos (86,9%), declarativos (10,7%), interpelativos (1,6%) y directivos (0,8%). Estos actos no operan como unidades aisladas, sino como manifestaciones de una racionalidad ética, epistemológica y civilizatoria común. Asimismo, se identifican modalidades de interpelación explícita, implícita y sistémica. El estudio propone comprender el kimün como fundamento de una totalidad pragmática desde la cual se afirma la legitimidad de una racionalidad propia.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/989",
+     "doi": "10.7770/cuhso-v36n1-art989",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v36n1-art864",
+     "titulo": "La Escuela de Frankfurt y el cine: una defensa de la lógica dialéctica o “cuestionamiento de los valores” en detrimento de la lógica formal o proyección de “valores positivos” dentro de las películas",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "López-Pérez, Sheila",
+       "orcid": null
+      }
+     ],
+     "resumen": "El presente artículo analiza de qué manera el cine modifica el pensamiento de sus espectadores a través de la lógica que vertebra sus películas. Para ello, comenzaremos aludiendo a la doble función del cine: la mimética, aquella que reproduce un cierto estado de cosas, y la imaginaria, aquella que invita al cuestionamiento de lo establecido proyectando otros mundos posibles. A continuación, presentaremos las definiciones de “lógica formal” y “lógica dialéctica” de la Escuela de Frankfurt y justificaremos su pertinencia para analizar la lógica de las películas. Defenderemos que las películas subyacidas por una lógica formal, esto es, películas cuyos personajes y elementos son cerrados, teleológicos y se encaminan a un desenlace “positivo” -en el sentido de positum, de dato sin ambigüedad ni cuestionamiento-, promueven un identitarismo que no discute el estado de cosas existente, mientras que el cine subyacido por la lógica dialéctica, un cine cuyos personajes contienen una ambigüedad conflictiva y sin reconciliación posible, fomenta el cuestionamiento de las identidades, la moral y la sociedad. Concluiremos que la lógica dialéctica, aquella que fomenta el cuestionamiento de los valores establecidos o “positivos”, es la más alta propuesta filosófica del cine, en detrimento de la lógica formal.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/864",
+     "doi": "10.7770/cuhso-v36n1-art864",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v36n1-art902",
+     "titulo": "La carta anónima de un soldado del batallón Atacama en la Guerra del Pacífico (1880).",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Ibarra, Patricio",
+       "orcid": null
+      }
+     ],
+     "resumen": "El documento personal trascrito presenta el testimonio de un soldado anónimo del batallón Atacama en la Guerra del Pacífico, el cual fue dado a la luz por el periódico de Copiapó El Constituyente en abril de 1880 durante la campaña chilena a Tacna y Arica. La carta, enviada inicialmente a su familia, adquirió publicidad al ser reproducida en un medio de comunicación y presentar hechos relevantes de interés público de un fenómeno como el conflicto de 1879, narrándolo en tiempo presente y otorgando credibilidad a las expresiones de los testigos presenciales de la contienda. La misiva narra el periplo y señala la perspectiva del militar anónimo de la marcha del Ejército chileno por el desierto y su estadía en el valle de Moquegua, así como su rol en el combate de la cuesta de Los Ángeles.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/890",
+     "doi": "10.7770/cuhso-v36n1-art902",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v36n1-art1007",
+     "titulo": "La conceptualización hispana del “indio” americano en el siglo XVI, con especial referencia a las fronteras chichimeca y reche-mapuche",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Goicovich, Francis",
+       "orcid": null
+      }
+     ],
+     "resumen": "A partir del análisis de textos coloniales escritos por conquistadores, exploradores, naturalistas, teólogos, juristas y misioneros del siglo XVI, complementados con trabajos de reciente edición, se aborda el proceso intelectual de construcción del concepto de “indio” americano. Se parte del supuesto de que los discursos en torno al indio emanan de actores que están regidos por agendas propias (personales o institucionales) en las que a lo largo del tiempo se pasó de un discurso etnográfico que asentaba sus raíces epistemológicas principalmente en los fundamentos teológico-filosóficos del pensamiento antiguo y medieval, a otro sustentado prioritariamente en la empiria. Se realiza una aproximación particular a los casos chichimeca y reche-mapuche, las dos fronteras hispano-indígenas más conflictivas al final de dicha centuria.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/992",
+     "doi": "10.7770/cuhso-v36n1-art1007",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v36n1-art763",
+     "titulo": "La condición eclesiástica del comisario del Santo Oficio: cura, párroco y fraile",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Juanto Jiménez, Consuelo",
+       "orcid": null
+      }
+     ],
+     "resumen": "Este artículo examina algunos aspectos del proceso de elección y nombramiento que tiene lugar en los tribunales de la Inquisición con respecto a sus oficiales, y en especial sobre el Comisario del Santo Oficio en su condición eclesiástica, como perteneciente al clero de la época, intentando dar respuesta al problema de si se trata de un ministro de la Iglesia o de un oficial del Santo Oficio.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/763",
+     "doi": "10.7770/cuhso-v36n1-art763",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v36n1-art2734",
+     "titulo": "La difusión de valores a través de productos culturales en las sociedades contemporáneas",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "López-Pérez, Sheila",
+       "orcid": null
+      }
+     ],
+     "resumen": "Este dossier examina las derivas actuales de la industria cultural a partir de la tensión entre dos lecturas: la que, desde la Escuela de Frankfurt, la concibe como un dispositivo de estandarización del gusto y de neutralización de la crítica, y la que la entiende como un espacio de visibilización y circulación de valores capaz de ampliar los imaginarios sociales. Reúne contribuciones interdisciplinarias sobre el cine, la literatura, el arte y el pensamiento de Ortega y Gasset que interrogan las formas actuales de producción, circulación y recepción de la cultura, atendiendo tanto a sus posibilidades emancipadoras como a sus efectos de homogeneización.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/2734",
+     "doi": "10.7770/cuhso-v36n1-art2734",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v36n1-art1124",
+     "titulo": "La discriminación arbitraria en materia tributaria: un estudio desde la jurisprudencia de la Corte Suprema Argentina",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Masbernat, Patricio",
+       "orcid": null
+      },
+      {
+       "nombre": "Martínez Montenegro, Isnel",
+       "orcid": null
+      },
+      {
+       "nombre": "Ramos-Fuentes, Gloria",
+       "orcid": null
+      }
+     ],
+     "resumen": "La prohibición de la discriminación arbitraria, como manifestación del principio de igualdad, exige una revisión constante, en la medida en que las sociedades amplían progresivamente la comprensión de su alcance e impacto. Este principio adquiere especial relevancia en materia tributaria, donde la igualdad y la proscripción de la arbitrariedad constituyen pilares estructurales del sistema jurídico. El presente artículo analiza el desarrollo de esta problemática a partir de la jurisprudencia de la Corte Suprema de Justicia de la Nación Argentina. En primer lugar, se expone un marco dogmático de los principios constitucionales y su evolución en el derecho tributario, incorporando una perspectiva comparada basada en la doctrina de España, Chile y Argentina. En segundo término, se examinan fallos seleccionados de la referida Corte, a fin de identificar criterios interpretativos que no siempre han sido suficientemente desarrollados por la doctrina. Finalmente, se destacan ciertos matices y elementos jurisprudenciales que, a juicio de los autores, enriquecen el debate doctrinal y debieran ser considerados en futuras construcciones teóricas sobre justicia fiscal.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/1124",
+     "doi": "10.7770/cuhso-v36n1-art1124",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v36n1-art922",
+     "titulo": "La exclusión del incendio involuntario en el derecho criminal castellano precodificado: el lenguaje normativo como construcción cultural de la responsabilidad",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "De Nardi, Loris",
+       "orcid": null
+      }
+     ],
+     "resumen": "Este artículo analiza la exclusión del incendio involuntario del ámbito del derecho criminal castellano precodificado como expresión de una cultura jurídica históricamente situada, en la cual el lenguaje normativo no solo regulaba conductas, sino que legitimaba un determinado orden jurídico. Lejos de constituir un vacío técnico, esta exclusión se explica por la centralidad de la voluntad como presupuesto ineludible de la responsabilidad criminal. A partir del estudio de leyes, doctrinas y prácticas jurídicas, se muestra cómo el lenguaje jurídico no era neutral ni puramente descriptivo, sino un instrumento performativo que definía la noción misma de delito, delimitaba los márgenes de la criminalidad y consolidaba simbólicamente la autoridad del derecho. En consonancia con la definición de cultura jurídica propuesta por Herzog, el trabajo sostiene que esta no se reduce al saber técnico de los juristas, sino que incluye los valores, prácticas y concepciones que dotaban de sentido a la imputación y al castigo. Así, el incendio involuntario quedó excluido del fuero criminal no por su menor gravedad, sino porque, al no derivar de una voluntad lesiva, no cumplía con las condiciones culturales y normativas necesarias para ser reconocido como delito.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/922",
+     "doi": "10.7770/cuhso-v36n1-art922",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v36n1-art957",
+     "titulo": "La influencia de las Leyes Laicas de Chile en el lenguaje. Un ejemplo de resignificación de conceptos generado por normas legales",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Irarrázaval Gomien, Andrés",
+       "orcid": null
+      }
+     ],
+     "resumen": "Las llamadas Leyes Laicas de Chile fueron promulgadas entre 1883 y 1884, durante el gobierno de Domingo Santa María, y regularon los cementerios, matrimonios y registros del estado civil de las personas. Estas normas afectaron a las instituciones civiles y canónicas de la época, por lo que participaron en su debate e implementación autoridades gubernamentales y eclesiásticas. Ello se reflejó en la aparición de nuevos conceptos y en la resignificación de términos ya existentes, tanto a nivel popular como especializado. El análisis de los cambios producidos en cada uno de los ámbitos regulados permite constatar una transformación importante a nivel del lenguaje cotidiano y técnico; modificaciones que también se manifestaron en un nivel más general sobre la comprensión misma del fenómeno de la secularización. La verificación de esta realidad permite concluir, además, que la legislación puede ser un factor importante en la transformación del lenguaje, especialmente cuando afectan instituciones de uso frecuente por parte de la población, y que su estudio desde la historiografía conceptual puede ser un claro aporte para un mejor entendimiento de los procesos históricos.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/957",
+     "doi": "10.7770/cuhso-v36n1-art957",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v36n1-art768",
+     "titulo": "La investigación de orientación antropológica en Chile durante la dictadura cívico-militar (1973-1990). Análisis cienciométrico de la producción científica publicada en revistas académicas nacionales",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Fernández Lizana, Miguel Ignacio",
+       "orcid": null
+      }
+     ],
+     "resumen": "Se analizó la estructura del campo de la producción científica a través de las publicaciones de orientación antropológica en Chile durante la dictadura cívico-militar. Esta producción no había sido analizada sistemáticamente, por tanto, indagar sobre dicho periodo resulta relevante, debido al impacto que este régimen tuvo en las universidades e instituciones científicas. El enfoque metodológico combinó el trabajo de archivo, análisis de contenido y análisis cienciométrico. Se analizaron 319 artículos publicados en 25 revistas académicas nacionales entre los años 1974-1990. Los resultados permiten sostener que la investigación de orientación antropológica se continuó desarrollando durante la dictadura en diversas instituciones presentes a lo largo del país, pudiendo distinguir entre una etapa de “desestructuración” (1974-1982), definida por la desaparición de revistas y disminución del volumen de la producción, y otra de “reestructuración” (1983-1990), marcada por el aumento sustantivo en el volumen de la producción y la creación o re-edición de revistas, proceso que involucró la incorporación de nuevos temas de investigación.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/760",
+     "doi": "10.7770/cuhso-v36n1-art768",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v36n1-art906",
+     "titulo": "La rebeldía como producto de consumo en el espacio público: el caso del High Line en la ciudad de Nueva York",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Perafan Del Campo, Eduardo Andres",
+       "orcid": null
+      }
+     ],
+     "resumen": "El artículo examina cómo ciertas formas de rebeldía estética son reconfiguradas y legitimadas en el espacio público, a partir del caso del High Line en Nueva York. Se adopta un enfoque sociológico de corte cualitativo que combina el análisis del discurso institucional, el estudio visual y la observación interpretativa. El objetivo es comprender cómo una propuesta urbana, inicialmente asociada con la espontaneidad y la resistencia simbólica, es absorbida progresivamente por las narrativas institucionales que la transforman en un objeto de consumo y en una herramienta de valorización territorial. Los resultados evidencian que esta operación activa disputas materiales y culturales, en las que lo ecológico y lo visual funcionan como mecanismos de consagración y de reorganización del entorno. Se concluye que el espacio público opera como un campo de negociación de sentidos, memorias y legitimidades.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/906",
+     "doi": "10.7770/cuhso-v36n1-art906",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v36n1-art795",
+     "titulo": "Las dinámicas del empoderamiento, el género y el patriarcado en los relatos breves de mujeres saudíes",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Garrouri, Sihem",
+       "orcid": null
+      },
+      {
+       "nombre": "Garrouri, Sihem",
+       "orcid": null
+      }
+     ],
+     "resumen": "En su búsqueda de liberación, las escritoras saudíes han empleado una variedad de estrategias para superar la desigualdad de género y las restricciones patriarcales. Una de las estrategias utilizadas para difuminar las fronteras de género es la escritura de relatos breves, los cuales funcionan como un medio de empoderamiento y de trascendencia de las normas patriarcales y opresivas. Este artículo aborda los relatos breves escritos por mujeres saudíes desde el marco de un discurso de empoderamiento y concienciación, explorando las temáticas entrelazadas del patriarcado, el género y el empoderamiento. El estudio se centra en el período comprendido entre las décadas de 1970 y 1990. Se examina un estudio de caso compuesto por quince relatos breves escritos por mujeres saudíes, con el objetivo de aportar evidencia esclarecedora sobre la retórica del empoderamiento, la resistencia a las limitaciones patriarcales y el rechazo de la discriminación de género. Los hallazgos indican que la narración de relatos resultó ser un método particularmente eficaz para el empoderamiento de las mujeres, la toma de conciencia y la presentación de un modelo de empoderamiento como alternativa al sistema patriarcal. Mediante un enfoque analítico-crítico, junto con una perspectiva temática, el texto aborda tres cuestiones centrales: el cuestionamiento de los supuestos patriarcales, la lucha por el empoderamiento y la redefinición de los roles de género.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/787",
+     "doi": "10.7770/cuhso-v36n1-art795",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v36n1-art1147",
+     "titulo": "Lenguaje y discurso jurídico: documentación judicial y normativa a través del tiempo",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Albani, Benedetta",
+       "orcid": null
+      },
+      {
+       "nombre": "Sologuren, Enrique",
+       "orcid": null
+      }
+     ],
+     "resumen": "Este dossier nace del interés de especialistas de diversas disciplinas por dar cuenta sobre la manera en que se ha formulado el lenguaje jurídico en diversos tipos de documentación judicial y normativa jurídica a través de diferentes temporalidades y espacialidades, lo que implica procesos de traducciones, readecuaciones y resignificaciones. Se pregunta por el discurso legal en sus diferentes dimensiones y promueve el diálogo interdisciplinario en torno a las prácticas discursivas del derecho.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/1147",
+     "doi": "10.7770/cuhso-v36n1-art1147",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v36n1-art947",
+     "titulo": "Ligotti, Kracauer, Hofmannsthal",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Castillo Ávila, Antonio",
+       "orcid": null
+      }
+     ],
+     "resumen": "La creación literaria bajo las condiciones productivas del capitalismo tardío ha participado plenamente de lo que la teoría crítica clásica denominó la industria cultural: la subsunción formal y luego real de ciertas actividades humanas habitualmente denominadas como \"culturales\" bajo la lógica de la producción mercantil (modalización de la escritura bajo preminencia de la forma-mercancía por sobre cualquier contenido determinado, subsunción de las exigencias de la esfera de la circulación y el consumo, dinámicas de reproducción ideológicas, etc.). En este contexto, la moderna literatura fantástica y de terror ha ocupado una posición paradójica: por una parte, forman parte integrante y acaso ejemplar de la industria cultural (publicaciones pulp destinadas al consumo rápido y desechable, la ficción de explotación y el fan-service, etc.); por otra, son escrituras que tienen la capacidad de incidir en el horror de un mundo vacío e intercambiable que ellas mismas, como mercancías culturales, contribuyen a reproducir. Este artículo tiene el objetivo de ahondar en el poder (auto)crítico de esta contradicción, atendiendo a los relatos de un autor de terror contemporáneo, Thomas Ligotti. Para el esclarecimiento de este autor en el contexto de esta coyuntura se utilizará un método no tanto comparativo como constelativo, mediante el cual se montará o ubicarán las particularidades de Ligotti junto con las de autores tan diferentes como Siegfried Kracauer y Hugo von Hofmannsthal, con la esperanza de que de esta disposición crítica surjan ciertas intuiciones y esclarecimientos recíprocos, no contenidos en ninguno de los tres autores de manera independiente.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/947",
+     "doi": "10.7770/cuhso-v36n1-art947",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v36n1-art933",
+     "titulo": "Los manuales en la cultura jurídica chilena: su uso en la enseñanza del derecho para la conformación del pensamiento legal",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Arancibia, Camilo",
+       "orcid": null
+      }
+     ],
+     "resumen": "Uno de los rasgos característicos de la cultura jurídica chilena es el legalismo predominante en ella. Esto se debe a diferentes cuestiones, pero una que destaca es que el imperio de la ley funda el Derecho en Chile. Por lo mismo, su enseñanza se vuelve necesaria en las aulas. Una de las formas típicas en que se aprende la ley en nuestro país es en base a manuales especialmente preparados por juristas. Estos manuales tienen un macropropósito comunicativo que es persuadir acerca de un planteamiento teórico o ideológico que, en este caso, es el del legalismo, lo que configura un pensamiento legal. En este artículo plantearemos dicha cuestión en base a la clarificación conceptual de los términos cultura jurídica, legalismo, autoridad, manuales, macropropósitos y pensamiento legal, con el objeto de saber qué enseñamos cuando enseñamos la ley. Concluiremos con algunas reflexiones.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/933",
+     "doi": "10.7770/cuhso-v36n1-art933",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v36n1-art942",
+     "titulo": "Límites naturales de origen social en la producción territorial campesina dependiente en Chile",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Sandoval-Nazal, Daniel",
+       "orcid": null
+      },
+      {
+       "nombre": "Alvarado Peterson, Voltaire",
+       "orcid": null
+      }
+     ],
+     "resumen": "Los mecanismos de organización campesina en Chile se sustentan en herramientas de percepción y gestión a los límites de la naturaleza en contextos de economía dependiente. A partir de un enfoque ecomarxista y una metodología cualitativa crítica, el manuscrito recoge la experiencia de talleres participativos y entrevistas en cuatro regiones del país que las describen y analizan proponiéndose la categoría de “límites naturales de origen social” para comprender cómo los procesos históricos de dependencia, acumulación por desposesión y extractivismo verde, mediados por relaciones de poder, reconfiguran los márgenes ecológicos de la producción campesina. Los hallazgos revelan que, frente a la presión de la mercantilización de la naturaleza y los límites ecológicos socialmente producidos, los campesinos condicionan sus prácticas y ciclos productivos, desplegándose racionalidades ecológicas y estrategias de resistencia territorial articuladoras de prácticas productivas adaptativas, vínculos afectivos con la tierra y disputas por el control de los bienes comunes.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/942",
+     "doi": "10.7770/cuhso-v36n1-art942",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v36n1-art1121",
+     "titulo": "Memoria y patrimonio en la formación inicial del profesorado de Historia, Geografía y Ciencias Sociales: discursos, significados y tensiones en el currículo chileno",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Zañartu Reyes, Jaime Antonio",
+       "orcid": null
+      },
+      {
+       "nombre": "Lara Ortega, Martín Alejandro",
+       "orcid": null
+      },
+      {
+       "nombre": "Cortés Cortés, Manuel",
+       "orcid": null
+      }
+     ],
+     "resumen": "Este artículo analiza el lugar que ocupan la memoria y el patrimonio en la formación inicial del profesorado de Historia, Geografía y Ciencias Sociales en Chile. El objetivo fue comprender los significados, tensiones y criterios que orientan la incorporación de estos enfoques en los procesos formativos de los futuros docentes. La metodología incluyó un estudio cualitativo basado en entrevistas semiestructuradas a directores y jefaturas de carrera de programas universitarios de pedagogía en Chile. El análisis, apoyado en el software NVivo, identificó tres dimensiones principales en los discursos de los participantes: la memoria como campo de disputa y lectura crítica del pasado, el patrimonio como recurso pedagógico situado en el territorio y el trabajo con archivos y fuentes primarias como herramienta para el desarrollo del pensamiento histó- rico en los futuros docentes. Como resultado se observó un amplio consenso respecto del valor formativo de estos enfoques, especialmente en relación con la formación ciudadana y la enseñanza crítica de la Historia. Sin embargo, también se identificaron tensiones institucionales, metodológicas y culturales que dificultan su incorporación sistemática en los planes de estudio, lo que genera una brecha entre su reconocimiento discursivo y su implementación curricular efectiva. En conjunto, los hallazgos permiten comprender cómo se configuran estas perspectivas en las carreras de pedagogía chilenas y aportan elementos para fortalecer la educación patrimonial en la formación inicial docente.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/1104",
+     "doi": "10.7770/cuhso-v36n1-art1121",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v36n1-art910",
+     "titulo": "Movilidad ferroviaria y arraigo territorial: memorias y roles sociales de los trabajadores del tren en el centro sur de Chile",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Riquelme Brevis, Hernán",
+       "orcid": null
+      },
+      {
+       "nombre": "Vallina, Alejandro",
+       "orcid": null
+      }
+     ],
+     "resumen": "A partir de un enfoque cualitativo, se desarrolló una investigación orientada a las experiencias de trabajadores ferroviarios de las regiones Maule, Biobío y Araucanía con el objetivo de analizar cómo los funcionarios se vuelven actores clave en la promoción y planificación ferroviaria, dando cuenta de su influencia en el funcionamiento del tren y su percepción respecto al patrimonio ferroviario en movimiento en la zona Centro Sur de Chile. Dentro de los resultados destacan una tradición ferroviaria vinculada a aspectos biográficos, como cierta existencia de una herencia laboral y aptitudes profesionales idóneas para el trabajo en trenes; la identificación de un rol social ferroviario vinculado a la movilidad de personas de zonas mayoritariamente rurales; el papel del ferrocarril en relación con los territorios y la existencia de un patrimonio ferroviario sostenido por las comunidades, su memoria y arquitectura ferroviaria. Se concluye que el ferrocarril es un medio de transporte fuertemente arraigado en la cultura y la economía de la zona de estudio, la importancia de los funcionarios en la promoción del patrimonio ferroviario y la necesidad de revitalizar de manera integral el ferrocarril en las regiones de estudio.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/897",
+     "doi": "10.7770/cuhso-v36n1-art910",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v36n1-art1080",
+     "titulo": "Mujeres de mar, cuerpos-territorios y naturaleza en Llico, Región del Biobío",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Contreras, Paulo",
+       "orcid": null
+      },
+      {
+       "nombre": "Veas Carvacho, Camilo",
+       "orcid": null
+      },
+      {
+       "nombre": "Silva, Hernán",
+       "orcid": null
+      },
+      {
+       "nombre": "Hernan Silva",
+       "orcid": null
+      }
+     ],
+     "resumen": "Este artículo analiza las experiencias situadas de las mujeres de mar en el espacio marino-costero, poniendo atención a la manera en que género, cuerpos-territorios y naturaleza se articulan en contextos de crisis ambientales. Desde una perspectiva de género y de ecología política, la investigación problematiza la invisibilización histórica de las mujeres en las economías costeras y en los debates sobre sostenibilidad. Metodológicamente, el estudio se desarrolla desde un enfoque cualitativo, mediante un estudio de caso en la caleta de Llico, Región del Biobío, que incluye entrevistas en profundidad, observación participante y el uso de la técnica de foto-elucidación. Los resultados muestran que las prácticas diarias, los saberes encarnados y los vínculos afectivos de las mujeres con el entorno marino-costero constituyen una dimensión central en la reproducción de la vida costera y en la configuración de relaciones ecológicas alternativas. Asimismo, se evidencia que estas experiencias permiten comprender la naturaleza no solo como un ámbito ecológico, sino como una práctica vivida y relacional, producida en el entramado entre trabajo reproductivo, conocimiento local y cuidado del territorio. El artículo contribuye a los estudios territoriales y a la ecología política feminista al visibilizar el rol estructural de las mujeres vinculadas al mar en la sostenibilidad ambiental y al cuestionar las jerarquías de género y epistémicas presentes en el espacio marino-costero.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/1080",
+     "doi": "10.7770/cuhso-v36n1-art1080",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v36n1-art958",
+     "titulo": "Pareceres médicos en las cortes de justicia del Chile tardocolonial: las adaptaciones del lenguaje médico a los requerimientos del espacio judicial",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Labarca, Mariana",
+       "orcid": null
+      }
+     ],
+     "resumen": "Este artículo estudia el recurso de la justicia al parecer médico para certificar heridas, golpes, causas de muerte y en general el estado de salud de personas enfermas. Se examinan certificaciones médicas registradas en archivos judiciales del Chile tardocolonial, para estudiar cómo el lenguaje médico se adaptó a los requerimientos de la administración de la justicia, ofreciendo categorías diagnósticas que fueran funcionales a la determinación de la gravedad de un delito, la culpabilidad del acusado y eventualmente su derecho a una pena remitida por razones de salud. Se reflexiona sobre la medida en que los requerimientos judiciales forzaron una toma de posición por parte del practicante de la medicina respecto de la naturaleza, diagnóstico y pronóstico de la enfermedad en cuestión. Además se ahonda en cómo la vinculación entre medicina y los tribunales de justicia funcionó como espacio de legitimación de la profesión.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/958",
+     "doi": "10.7770/cuhso-v36n1-art958",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v36n1-art875",
+     "titulo": "Piezas de un rompecabezas: Jean-Christian Spahni, arqueología y coleccionismo durante su paso por Chile (1960-1963)",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Cabello, Gloria",
+       "orcid": null
+      },
+      {
+       "nombre": "Bellester Riesco, Benjamín",
+       "orcid": null
+      }
+     ],
+     "resumen": "Este artículo presenta nuevos antecedentes sobre la vida y obra del investigador suizo Jean-Christian Spahni durante los tres años que pasó en Chile, en la década del 1960. Plena época de apogeo de la institucionalización de la arqueología y el reforzamiento de los museos de Chile y otros países. La investigación en torno a este arqueólogo y coleccionista científico se sustenta, por una parte, en el estudio de las colecciones de objetos y cuerpos precolombinos recopilados por él durante su estancia en el norte del país, desde la excavación hasta su destino actual. Por otra parte, involucra el rastreo de información en archivos y reservorios públicos y privados a nivel nacional e internacional. A través de su vida y obra, revisamos las relaciones personales e institucionales que estableció durante su estadía y cómo estas se insertan en un contexto y una red global de movimientos de piezas para conformar museos. A partir de la historia de un personaje singular, esperamos ofrecer una nueva mirada al coleccionismo nacional con fines científicos y visibilizar a agentes que por distintas razones han sido desconsiderados en la historia de la disciplina nacional. Un caso que ayudará a reflexionar, discutir y expandir la visión estereotipada del coleccionismo que prima en la actualidad, en tanto actividad perniciosa y comercial, así como entregar nuevos insumos para reescribir parte de estas historias.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/866",
+     "doi": "10.7770/cuhso-v36n1-art875",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v36n1-art1052",
+     "titulo": "Pillmayken egu choyke ñi piam. Autor: Bastián Chandía Millanaw. Tortuga Samurai",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Aguirre, Javier",
        "orcid": null
       }
      ],
      "resumen": null,
      "idioma_resumen": null,
      "licencia": {
-      "nombre": "CC BY-NC-SA 4.0",
-      "url": "http://creativecommons.org/licenses/by-nc-sa/4.0"
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
      },
-     "url": "https://doi.org/10.7770/cuhso.v31i1.2624",
-     "doi": "10.7770/cuhso.v31i1.2624",
-     "paginas": "10-25",
-     "fuente": "Crossref"
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/1037",
+     "doi": "10.7770/cuhso-v36n1-art1052",
+     "paginas": null,
+     "fuente": "OAI-PMH"
     },
     {
-     "id": "10.7770/cuhso.v31i1.2275",
-     "titulo": "Entre el prosperar colectivo de Ellas Hacen y la meritocracia individual del Hacemos Futuro Juntas",
+     "id": "10.7770/cuhso-v36n1-art2883",
+     "titulo": "Presentación de Dossier. Inquisición y clero: acusaciones y procesos de fe contra religiosos durante el siglo XVII",
      "idioma_titulo": "es",
      "autores": [
       {
-       "nombre": "Tatiana Marisel Pizarro",
+       "nombre": "Cordero Fernández, Macarena",
        "orcid": null
       }
      ],
-     "resumen": "El objetivo de este artículo es el de presentar la evolución del concepto trabajo en la política social argentina “Ellas hacen” -que fomentaba la creación de cooperativas de mujeres trabajadoras para alcanzar su autonomía económica- hasta su unificación en el programa “Hacemos Futuro Juntas” -que instaba al desarrollo personal-. Para realizar este análisis fue preciso hacer un recorrido por las gestiones gubernamentales de Cristina Fernández de Kirchner (2017-2019) y de Mauricio Macri (2019-2020). De este modo, se problematizó en la manera en que esta política fue (re)definiendo al trabajo desde un pretendido enfoque de género, siendo que, en la evolución de ésta, en su diseño y su práctica omitían problemáticas relacionadas al mismo. En tal sentido, fue preciso articularse a la perspectiva de los estudios de género a las políticas públicas. En este aspecto es en el que se manifiesta la importancia del paper, ya que se expone cómo el Estado exceptúa las singularidades de las mujeres en este tipo de medidas, lo que ayudaría a ahondar más aún las inequidades entre los géneros.",
+     "resumen": "Presentación Dossier El Santo Oficio de la Inquisición en la Monarquía Hispana. Sincronías y Diacronías en sus diversos territorios y temporalidades",
      "idioma_resumen": "es",
      "licencia": {
-      "nombre": "CC BY-NC-SA 4.0",
-      "url": "http://creativecommons.org/licenses/by-nc-sa/4.0"
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
      },
-     "url": "https://doi.org/10.7770/cuhso.v31i1.2275",
-     "doi": "10.7770/cuhso.v31i1.2275",
-     "paginas": "26-46",
-     "fuente": "Crossref"
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/2883",
+     "doi": "10.7770/cuhso-v36n1-art2883",
+     "paginas": null,
+     "fuente": "OAI-PMH"
     },
     {
-     "id": "10.7770/cuhso.v31i1.2414",
-     "titulo": "Relaciones de reconocimiento en un trabajo feminizado. Ejes analíticos a partir del caso de mujeres operarias de la industria chilena del retail",
+     "id": "10.7770/cuhso-v36n1-art831",
+     "titulo": "Producción científica sobre políticas de cuidado en niñez en Latinoamérica (2012–2021): revisión sistemática y análisis bibliométrico",
      "idioma_titulo": "es",
      "autores": [
       {
-       "nombre": "Rodrigo Guerra Arau",
+       "nombre": "Inostroza Correa, María Alejandra",
        "orcid": null
       },
       {
-       "nombre": "Claudia Alejandra Calquín Donoso",
-       "orcid": null
-      }
-     ],
-     "resumen": "En este artículo se discute sobre las dinámicas de reconocimiento en empleos feminizados, en particular en el sector de los servicios. En base a la teoría del reconocimiento de Honneth y otros autores, se presentan tres ejes de análisis de las dinámicas de reconocimiento conformadas tanto a partir de particulares configuraciones sociotécnicas del trabajo, como en función de estructuras sociales de género y clase. Se toma como caso los colectivos de cajeras de grandes cadenas de supermercado y vendedoras de tiendas por departamentos en Santiago de Chile.",
-     "idioma_resumen": "es",
-     "licencia": {
-      "nombre": "CC BY-NC-SA 4.0",
-      "url": "http://creativecommons.org/licenses/by-nc-sa/4.0"
-     },
-     "url": "https://doi.org/10.7770/cuhso.v31i1.2414",
-     "doi": "10.7770/cuhso.v31i1.2414",
-     "paginas": "77-105",
-     "fuente": "Crossref"
-    },
-    {
-     "id": "10.7770/cuhso.v31i1.2285",
-     "titulo": "Las juventudes trabajadoras en el comercio minorista tradicional: gestión, control y resistencias",
-     "idioma_titulo": "es",
-     "autores": [
-      {
-       "nombre": "Francisco Nicolás Favieri",
-       "orcid": null
-      }
-     ],
-     "resumen": "La flexibilización de las condiciones de trabajo y contratación junto con la aparición de nuevas formas de control y gestión del proceso de trabajo han contribuido a la aparición de nuevas formas de empleo, siendo el sector de servicios y en particular el comercio minorista uno de los que más diversificaciones han presentado en los últimos años. En San Juan, Argentina gran parte de la juventud trabajadora consigue empleos en el comercio, donde además de constituirse como el grupo poblacional que más dificultades tiene para ingresar y permanecer en el mercado de laboral se vinculan a la actividad en condiciones precarias de trabajo. Las estrategias y acciones por parte de los trabajadores y las trabajadoras para revertir esas situaciones parecen ser insuficientes, atribuyendo especialmente a las juventudes una posición de pasividad, inactividad y sumisión. A partir de un estudio de caso, este artículo se propone analizar la dinámica del trabajo en el comercio minorista tradicional, caracterizando las formas de gestión y control del trabajo, las expresiones de conflicto laboral y las resistencias emprendidas por jóvenes trabajadores y trabajadoras del Gran San Juan (Argentina) sobre el supuesto de que sostienen una lucha permanente para mejorar sus condiciones de trabajo y que en sus expresiones se configuran nuevas formas de resistencia. Entre los hallazgos se destaca que las juventudes trabajadoras despliegan diversas estrategias y acciones de resistencia reconfigurando la expresión del conflicto en el trabajo aunque no logran mejorar sus condiciones de empleo.",
-     "idioma_resumen": "es",
-     "licencia": {
-      "nombre": "CC BY-NC-SA 4.0",
-      "url": "http://creativecommons.org/licenses/by-nc-sa/4.0"
-     },
-     "url": "https://doi.org/10.7770/cuhso.v31i1.2285",
-     "doi": "10.7770/cuhso.v31i1.2285",
-     "paginas": "106-143",
-     "fuente": "Crossref"
-    },
-    {
-     "id": "10.7770/cuhso.v31i1.2296",
-     "titulo": "Tácticas y estrategias de mujeres trabajadoras del sector servicios en Chile frente al conflicto: participación sindical, empleo y cuidados",
-     "idioma_titulo": "es",
-     "autores": [
-      {
-       "nombre": "Catalina Arteaga",
+       "nombre": "Díaz Bórquez, Daniela",
        "orcid": null
       },
       {
-       "nombre": "Valentina Andrade de la Horra",
+       "nombre": "Calderon-Orellana, Magdalena",
+       "orcid": null
+      }
+     ],
+     "resumen": "En este artículo analizamos la producción científica sobre políticas de cuidado en niñez en Latinoamérica publicada entre 2012 y 2021, a partir de una revisión sistemática de la literatura y un análisis bibliométrico complementario. A partir de 81 artículos, identificamos tres grandes clústeres temáticos y discutimos sus principales hallazgos, tensiones y aportes para la comprensión del campo y para el diseño de políticas públicas de cuidado en la región. Los resultados muestran que la literatura sobre políticas de cuidado en niñez en Latinoamérica se organiza en torno a tensiones entre maternalismo, desigualdad de género, educación temprana, salud y desarrollo cognitivo, evidenciando la necesidad de políticas integrales e intersectoriales con enfoque de derechos y perspectiva de género.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/831",
+     "doi": "10.7770/cuhso-v36n1-art831",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v36n1-art1023",
+     "titulo": "Producción de la estructura de la sílaba en niños con Síndrome de Down",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Nuñez, María Teresa",
        "orcid": null
       },
       {
-       "nombre": "Ariel Jiménez Vergara",
+       "nombre": "Pérez Herrera, Denisse",
        "orcid": null
       },
       {
-       "nombre": "Javiera Marina Fuentes Landaeta",
+       "nombre": "Cáceres Valdebenito, Susana",
        "orcid": null
       }
      ],
-     "resumen": "El presente artículo aborda el conflicto de la participación sindical, empleo y trabajo de cuidados no remunerado, de trabajadoras de dos gremios del sector servicios en Chile. Dicho análisis se lleva a cabo en el contexto del aumento de la sindicalización femenina en el país, indagando en las complejidades y conflictos de la responsabilidad conjunta de actividades de cuidados no remunerados, empleo y participación sindical, así como en las estrategias quelas mujeres desarrollan para enfrentarlas. El trabajo aporta en una dirección distinta de las escasas investigaciones nacionales actuales acerca de la participación sindical femenina, que ponen el acento en su exclusión y marginación.Para ello se llevan a cabo entrevistas semiestructuradas y grupales, a mujeres sindicalistas de distintas edades de la Región Metropolitana. El trabajo muestra el desarrollo de tácticas y estrategias de resistencia para enfrentar el conflicto por parte de las mujeres en los tres ámbitos señalados, lo que incide en el posicionamiento en el ámbito sindical, acompañado de reordenamientos en el ámbito doméstico y un proceso de creciente empoderamiento.",
+     "resumen": "Los niños con Síndrome de Down (SD) presentan una sintomatología múltiple y compleja, siendo el lenguaje expresivo el más comprometido. Específicamente, en el nivel fonético-fonológico se manifiestan las mayores dificultades, lo que se expresa en errores que pueden generarse por el déficit cognitivo propio del SD, pero también por la sintomatología multifactorial que presentan. Por otra parte, en Chile existe una alta prevalencia de niños con SD, siendo la mayor de Latinoamérica. Por ello, el propósito de esta investigación se centra en analizar la estructura de la sílaba de niños con SD de 5.0 a 9.11 años con el fin de determinar cómo se realiza su proceso de adquisición de este rasgo suprasegmental. Para ello, se consideró una muestra correspondiente a 25 niños, entre los 5.0 y 9.11 años, pertenecientes a las zonas geográficas, Metropolitana, Valparaíso y Biobío, a los que se les aplicó la Prueba de Fonología en español (Bernhardt et al.,2016), que considera la elicitación de 100 palabras por parte de cada niño, además de cumplir con una serie de criterios exigidos para ser parte de la muestra. Entre los resultados obtenidos, se advierte que los niños con SD presentan procesos de estructura de la sílaba persistentes, principalmente, omisiones y adiciones, que no disminuyen con la edad. Estas alteraciones, relacionadas con dificultades articulatorias, de percepción y de memoria de trabajo fonológica afectan su inteligibilidad. La caracterización precisa de estos errores es esencial para diseñar intervenciones terapéuticas efectivas y mejorar su inclusión social.",
      "idioma_resumen": "es",
      "licencia": {
-      "nombre": "CC BY-NC-SA 4.0",
-      "url": "http://creativecommons.org/licenses/by-nc-sa/4.0"
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
      },
-     "url": "https://doi.org/10.7770/cuhso.v31i1.2296",
-     "doi": "10.7770/cuhso.v31i1.2296",
-     "paginas": "144-175",
-     "fuente": "Crossref"
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/1023",
+     "doi": "10.7770/cuhso-v36n1-art1023",
+     "paginas": null,
+     "fuente": "OAI-PMH"
     },
     {
-     "id": "10.7770/cuhso.v31i1.2450",
-     "titulo": "La CUT y los clivajes sindicales en Chile. Entre la pretensión transformadora y la estrategia defensiva",
+     "id": "10.7770/cuhso-v36n1-art970",
+     "titulo": "Prácticas discursivas del Derecho y formación jurídica: una revisión teórico-bibliográfica",
      "idioma_titulo": "es",
      "autores": [
       {
-       "nombre": "Rodrigo Medel Sierralta",
-       "orcid": null
-      }
-     ],
-     "resumen": "Este artículo plantea que, desde el retorno a la democracia en Chile, la Central Unitaria de Trabajadores (CUT) ha desempeñado un doble papel para el sindicalismo. Por una parte, ha buscado promover, con muy pocos recursos y poco éxito, una nueva legislación para el sector privado del sindicalismo y; por otro, ha defendido, con muchos recursos y éxito, la autonomía y los intereses del sector público. ¿Cómo ha impactado en las identidades y prácticas organizacionales de los sindicatos chilenos este doble papel jugado por la CUT desde el retorno a la democracia? Para responder esta pregunta, se propone el concepto de clivajes sindicales, el que describe una división que es, simultáneamente, estructural, ideológica y organizativa dentro del sindicalismo chileno. A partir de un análisis histórico, se describe cómo el mismo accionar de la CUT fue politizando la división estructural entre el sector público y el privado del sindicalismo, consolidando identidades colectivas en torno a dicha división. Luego, con un análisis cuantitativo de las redes de alianzas en huelgas laborales desde el 2010 hasta el 2019, se describe el comportamiento diferenciado de las principales federaciones según su pertenencia al sector público o privado. Los resultados muestran que las federaciones del sector público son las que encuentran mayor densidad de alianzas entre ellas, generando un clivaje claramente diferenciado del sindicalismo del sector privado, el que se encuentra aislado social y políticamente. Se resalta la importancia de considerar esta fractura dentro del sindicalismo chileno como un elemento altamente explicativo de las limitaciones y fortalezas en la capacidad política de la Central.",
-     "idioma_resumen": "es",
-     "licencia": {
-      "nombre": "CC BY-NC-SA 4.0",
-      "url": "http://creativecommons.org/licenses/by-nc-sa/4.0"
-     },
-     "url": "https://doi.org/10.7770/cuhso.v31i1.2450",
-     "doi": "10.7770/cuhso.v31i1.2450",
-     "paginas": "176-199",
-     "fuente": "Crossref"
-    },
-    {
-     "id": "10.7770/cuhso.v31i1.2413",
-     "titulo": "Desempleo y flexibilización: Alemania Federal y Chile frente a las transformaciones del capitalismo (Décadas de 1970 y 1980)",
-     "idioma_titulo": "es",
-     "autores": [
-      {
-       "nombre": "Claudio Llanos",
+       "nombre": "Sologuren Insúa, Enrique",
        "orcid": null
       },
       {
-       "nombre": "José Antonio González",
+       "nombre": "Cordovez Fernández, Maximiliano",
+       "orcid": null
+      }
+     ],
+     "resumen": "La formación jurídica se ha caracterizado por un enfoque tradicional centrado en la memorización del saber jurídico, dejando en segundo plano prácticas comunicativas esenciales de la labor profesional. Pese a ello, son escasas las aproximaciones que analizan la formación jurídica considerando simultáneamente la enseñanza y el aprendizaje, las prácticas de lectura y escritura, el análisis de géneros discursivos y el uso de terminología y lenguaje claro. En este artículo se presenta una revisión sistemática de 53 fuentes que incluye artículos científicos, manuales, guías, glosarios y capítulos de libros publicados durante el periodo 2012-2025 en Scopus, WoS, Google Scholar, así como en el sitio web del Poder Judicial de Chile. Estas fuentes abordan la enseñanza y el aprendizaje del Derecho desde una perspectiva integral y provienen de trabajos desarrollados en Chile y países hispanohablantes. El propósito de esta revisión es identificar los principales aportes de la literatura para la formación profesional jurídica. La revisión siguió las recomendaciones de la Declaración PRISMA 2020 (Page et al., 2021), garantizando transparencia y rigurosidad en la selección y análisis de los estudios incluidos. Los resultados evidencian que, si bien persiste un predominio de enfoques tradicionales, la literatura reciente ha incorporado estrategias pedagógicas innovadoras orientadas a la alfabetización jurídica, el desarrollo de competencias discursivas y la adecuación del lenguaje técnico. Asimismo, se identifican brechas entre la teoría y la práctica profesional, así como desafíos en la enseñanza de la lectura y escritura, el análisis de géneros y el lenguaje claro, aspectos fundamentales para la formación integral de los futuros profesionales del derecho.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/970",
+     "doi": "10.7770/cuhso-v36n1-art970",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v36n1-art995",
+     "titulo": "Raspacanilla: una escena musical subalterna en Venezuela desde su genealogía, construcción identitaria y sus prácticas fonográficas",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Perez-Valero, Luis",
        "orcid": null
       },
       {
-       "nombre": "Joel Stillerman",
+       "nombre": "Loreto-Amoretti, Marelis",
        "orcid": null
       }
      ],
-     "resumen": "Este artículo analiza las respuestas a la crisis de los 1970s y la de 1982, de Chile y Alemania Federal. Crisis que impactaron en contextos diferentes, tanto a nivel de posiciones en la economía capitalista, como en lo referente a los regímenes políticos. En ambos países se plantearon el desempleo y los cambios en los ámbitos del trabajo. En este contexto, en Chile, las turbulencias económicas mundiales, se ligaron a la reacción violenta de los militares a la “vía chilena al socialismo” que, en alianza con las grandes empresas y economistas neoliberales, permitieron el desarrollo de las políticas neoliberales. Alemania Federal respondió al final del “milagro económico” de la posguerra con políticas gradualistas que preservaron el Estado del bienestar. La economía coordinada de Alemania Federal y la influencia de los sindicatos dentro de los dos grandes partidos políticos postergaron la aplicación de estas políticas hasta los 2000. La comparación demuestra la importancia de las configuraciones políticas de cada país para explicar sus políticas económicas y sociales frente a cambios de la economía global. De esta forma, se evidencia que la política es el campo de construcción de las diversas alternativas frente a las dinámicas del capitalismo.",
+     "resumen": "El raspacanilla es una práctica musical venezolana con más de sesenta años de trayectoria que surgió como una variante de la cumbia colombiana en los estados Lara y Zulia, en un contexto de migración y de transformación social y cultural. Este estudio busca visibilizar y problematizarlo como música subalterna y periférica, excluida de la industria discográfica y de los discursos académicos, pero sostenida por dinámicas comunitarias y autogestionadas. La investigación se apoya en un enfoque interdisciplinario que combina la sociología de la música —a través del concepto de escenas musicales— y la musicología aplicada a la producción fonográfica, mediante entrevistas abiertas a cultores, audiencias y técnicos de grabación, así como un análisis organológico y estilístico de grabaciones reconocidas por los propios intérpretes como raspacanilla. Los resultados muestran que el género se caracteriza por el uso del órgano, la velocidad en la ejecución y la circulación al margen de la industria, funcionando como espacio de cohesión social, de resistencia cultural y de construcción de identidades en comunidades populares y migrantes. Como música independiente y periférica, el raspacanilla constituye una escena musical que resignifica la cumbia dentro del contexto venezolano y revela nuevas formas de entender las prácticas musicales subalternas.",
      "idioma_resumen": "es",
      "licencia": {
-      "nombre": "CC BY-NC-SA 4.0",
-      "url": "http://creativecommons.org/licenses/by-nc-sa/4.0"
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
      },
-     "url": "https://doi.org/10.7770/cuhso.v31i1.2413",
-     "doi": "10.7770/cuhso.v31i1.2413",
-     "paginas": "200-226",
-     "fuente": "Crossref"
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/980",
+     "doi": "10.7770/cuhso-v36n1-art995",
+     "paginas": null,
+     "fuente": "OAI-PMH"
     },
     {
-     "id": "10.7770/cuhso.v31i1.2415",
-     "titulo": "De la subordinación asalariada a la caridad neoliberal: análisis crítico de la ley de inclusión laboral de personas con discapacidad en Chile",
+     "id": "10.7770/cuhso-v36n1-art993",
+     "titulo": "Reclamación, negociación y estrategias discursivas. Las peticiones de las mujeres durante la independencia, Chile 1810-1832",
      "idioma_titulo": "es",
      "autores": [
       {
-       "nombre": "Juan Carlos Cea Madrid",
-       "orcid": null
-      }
-     ],
-     "resumen": "El presente artículo analiza la entrada en vigencia de la Ley Nº 21.015 “Incentiva la inclusión de personas con discapacidad al mundo laboral”. Esta normativa tiene por finalidad mejorar la empleabilidad de las personas con discapacidad en entornos laborales abiertos por medio de la reserva del 1% de la cuota de empleos en empresas con 100 o más trabajadores. Al respecto, se examinan las limitaciones de esta política de acceso al empleo para la promoción del derecho al trabajo y la configuración de sociedades más inclusivas. De acuerdo con un análisis crítico de la implementación de la iniciativa legal en el sector privado, se observan brechas salariales, etarias y de género en la incorporación y permanencia de las personas con discapacidad en el mercado de trabajo. Finalmente, se concluye que las estrategias de inserción laboral en el campo de la discapacidad no cuestionan las estructuras de poder en la sociedad capitalista y se integran a las bases del modelo neoliberal en el Chile contemporáneo.",
-     "idioma_resumen": "es",
-     "licencia": {
-      "nombre": "CC BY-NC-SA 4.0",
-      "url": "http://creativecommons.org/licenses/by-nc-sa/4.0"
-     },
-     "url": "https://doi.org/10.7770/cuhso.v31i1.2415",
-     "doi": "10.7770/cuhso.v31i1.2415",
-     "paginas": "227-249",
-     "fuente": "Crossref"
-    },
-    {
-     "id": "10.7770/cuhso.v31i1.1971",
-     "titulo": "Bifurcaciones biográficas en los escenarios laborales del Chile contemporáneo: una comparación entre trabajadores del retail y emprendedores sociales",
-     "idioma_titulo": "es",
-     "autores": [
-      {
-       "nombre": "Rodolfo Martinic Lenta",
+       "nombre": "Armijo, Andrea",
        "orcid": null
       },
       {
-       "nombre": "Ismael Tabilo Prieto",
+       "nombre": "Martínez Gutiérrez, Javiera",
        "orcid": null
       }
      ],
-     "resumen": "El presente artículo analiza y compara las bifurcaciones de trabajadores asalariados e independientes vinculados a escenarios laborales con amplios contrastes entre ellos, considerados como formas de empleo prototípicas del Chile contemporáneo. Por un lado, el de una tradicional tienda por departamento del país, que en las últimas décadas experimentó un proceso de reestructuración que la transformó en una de las empresas más importantes del retail chileno. Por otro lado, el de los emprendimientos de innovación social, una forma de autoempresa que añade al espíritu emprendedor la preocupación por problemáticas sociales. A través de las herramientas teóricas de la sociología del curso de vida y de las bifurcaciones biográficas, se analizaron 32 entrevistas en profundidad con el fin de comprender la experiencia de los trabajadores al momento de entrar en una categoría laboral improbable o inesperada en relación a la situación laboral anterior. Los resultados muestran que las experiencias de bifurcación en cada escenario varían significativamente en función del vínculo al trabajo y el vínculo al empleo. Mientras que en el retail, el ingreso está marcado por una decisión adaptada a la escasez de alternativas disponibles que con el tiempo da lugar a una valorización del empleo que con- 251 Martinic y Tabilo Bifurcaciones biográficas en los escenarios laborales del Chile contemporáneo: una comparación entre trabajadores del retail y emprendedores sociales trasta con una insatisfacción con el trabajo, en el emprendimiento se evidencia un esfuerzo por reorientar la propia experiencia profesional en busca de una mayor realización en el trabajo, sacrificando la estabilidad del empleo. En las conclusiones, se interpretan las diferencias y similitudes de las bifurcaciones biográficas a la luz de las transformaciones del Chile actual.",
+     "resumen": "El estudio tiene por objetivo examinar el uso de las peticiones como recurso discursivo empleado por las mujeres para obtener los beneficios que demandaban en el contexto de la independencia chilena y las primeras décadas republicanas. En primer lugar, se busca identificar aquellas peticiones que reflejan las dificultades económicas, sociales y familiares, enfrentadas por las mujeres en dicho contexto político. En segundo lugar, se propone analizar las estrategias discursivas implementadas por ellas para persuadir a las autoridades competentes. Las mujeres idearon discursos estratégicos en la negociación con las autoridades, por un lado, utilizaban los lenguajes políticos del periodo para encuadrar sus demandas en un contexto político legítimo, especialmente cuando sus vidas familiares y cotidianas se veían alteradas por los efectos de la independencia. Por otro lado, desplegaban una narrativa de género que las posicionaba como madres y esposas que defendían la subsistencia del núcleo familiar. Este estudio demuestra que las peticiones fueron parte central de la feminización de la esfera pública en la independencia, evidenciando cómo las mujeres emergieron como agentes activos del discurso político, incorporando ideas prácticas y simbólicas del periodo, ya sea adhiriendo o rechazando los proyectos político-nacionales según sus aspiraciones, y cómo sus reclamos constituyeron una forma significativa de protagonismo femenino y una noción más amplia de ciudadanía a partir de una propia autorepresentación del deber femenino. La metodología se fundamenta en el análisis de un corpus documental compuesto por 467 peticiones extraídos del Ministerio de Hacienda, Ministerio del Interior y Fondo Contaduría Mayor correspondiente al periodo 1810-1832.",
      "idioma_resumen": "es",
      "licencia": {
-      "nombre": "CC BY-NC-SA 4.0",
-      "url": "http://creativecommons.org/licenses/by-nc-sa/4.0"
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
      },
-     "url": "https://doi.org/10.7770/cuhso.v31i1.1971",
-     "doi": "10.7770/cuhso.v31i1.1971",
-     "paginas": "250-283",
-     "fuente": "Crossref"
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/978",
+     "doi": "10.7770/cuhso-v36n1-art993",
+     "paginas": null,
+     "fuente": "OAI-PMH"
     },
     {
-     "id": "10.7770/cuhso.v31i1.2279",
-     "titulo": "Las paradojas del trabajo actoral en teatro independiente. Un estudio comparativo de las representaciones sociales sobre teatro independiente de actores y actrices de La Plata entre los orígenes y la actualidad",
+     "id": "10.7770/cuhso-v36n1-art920",
+     "titulo": "Reseña académica de formación: percepciones y sentimientos hacia el género y su elaboración textual",
      "idioma_titulo": "es",
      "autores": [
       {
-       "nombre": "Juliana Diaz",
+       "nombre": "Díaz Blanca, Lourdes",
        "orcid": null
       }
      ],
-     "resumen": "El objetivo del artículo es indagar las rupturas y continuidades de ladefinición de teatro independiente en sus orígenes (primeras décadas del siglo pasado) en Buenos Aires y particularmente en la ciudad de La Plata, respecto a las representaciones más recientes que formula el colectivo de actores y actrices de teatro independiente en la ciudad. En este artículo, comprendemos a las representaciones sociales como modos de significar las interpretaciones que los sujetos hacen de su entorno y a partir de las cuales logran comunicarse (Castorina et al., 2010). Este concepto se explica en vinculación con la estructura social y los habitus del campo incorporados (Bourdieu, 2007) y se caracterizan por ser sistemas indeterminados y abiertos (Longo, 2004). En relación con el mundo del trabajo, las representaciones sociales son “objeto de luchas tanto colectivas entre grupos sociales, como individuales entre atribuciones y apropiaciones de clasificaciones por parte del sujeto” (Longo, 2004, p. 5).Para ello, hemos llevado a cabo un análisis documental de distintos/as autores/as que han abordado los orígenes del teatro independiente en Buenos Aires como en La Plata. Además, realizamos veinte entrevistas en profundidad a actores y actrices residentes en la ciudad de La Plata, observaciones participantes en charlas, asambleas y reuniones que agrupan a distintos actores y actrices de teatro independiente y el proceso de ensayos y funciones de dos elencos del circuito independiente en La Plata. También, realizamos un total de ochenta y nueve encuestas de manera virtual dirigida a actores y actrices de la misma ciudad. Para su análisis, hemos puesto en diálogo los datos construidos desde una perspectiva cualitativa a partir de técnicas e instrumentos propios de la metodología cualitativa como cuantitativa. Para el procesamiento de datos, sehan utilizado los softwares Statistical Package for the Social Sciences (SPSS) y Atlas/ti.",
+     "resumen": "El presente estudio tiene como objetivos analizar las percepciones de los estudiantes de posgrado hacia la escritura de la reseña académica de artículos científicos, explorar las emociones y sentimientos experimentados en el proceso de elaboración textual y analizar las percepciones hacia las ayudas pedagógicas explícitas recibidas para su producción. A fin de alcanzar tales objetivos, se administró un cuestionario en línea de respuestas abiertas a un grupo de once (11) estudiantes de posgrado del Instituto de Mejoramiento Profesional del Magisterio, Extensión Mérida (Venezuela). Entre las percepciones favorables se destaca que este género desarrolla habilidades de comprensión e investigación y promueve el aprendizaje; y como desfavorable, que es un reto académico. En cuanto a las emociones, hay temor, nerviosismo, in-certidumbres y bloqueos, que avanzan hacia la satisfacción. Con respecto a las ayudas pedagógicas, hay una valoración positiva (inéditas, valiosas, excelentes, de gran utilidad, son un guía de trabajo, sistematizan las tareas).",
      "idioma_resumen": "es",
      "licencia": {
-      "nombre": "CC BY-NC-SA 4.0",
-      "url": "http://creativecommons.org/licenses/by-nc-sa/4.0"
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
      },
-     "url": "https://doi.org/10.7770/cuhso.v31i1.2279",
-     "doi": "10.7770/cuhso.v31i1.2279",
-     "paginas": "284-305",
-     "fuente": "Crossref"
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/920",
+     "doi": "10.7770/cuhso-v36n1-art920",
+     "paginas": null,
+     "fuente": "OAI-PMH"
     },
     {
-     "id": "10.7770/cuhso.v31i1.2411",
-     "titulo": "Inserción laboral en actividades por cuenta propia. Migrantes wixaritari y mazahuas en Aguascalientes, México, 1960-2020",
+     "id": "10.7770/cuhso-v36n1-art1028",
+     "titulo": "Reseña del Libro. Poder de clase y política laboral. Sindicatos, asociaciones empresariales y reforma en Chile. Pablo Pérez Ahumada. Ed. Universidad Alberto Hurtado. Santiago, Chile.",
      "idioma_titulo": "es",
      "autores": [
       {
-       "nombre": "Jorge Alberto Rodríguez Herrera",
+       "nombre": "Julián, Dasten",
        "orcid": null
       }
      ],
-     "resumen": "Se trata de un estudio de corte cualitativo apoyado en la etnografía, en el que se contrastan dos maneras distintas de poner en circulación los recursos socioculturales que han permitido a indígenas migrantes insertarse en actividades comerciales por cuenta propia a partir de la década de 1960 en el estado de Aguascalientes, México. Se constata que dichas actividades han sido iniciadas, sostenidas y reproducidas por los wixaritari y mazahuas gracias a las relaciones de paisanaje, parentesco, amistad y compadrazgo, basadas en la confianza, los tratos flexibles y el mantenimiento de relaciones con sus comunidades de origen, así como un despliegue diferenciado de sus atributos identitarios.",
+     "resumen": "Reseña del Libro. Poder de clase y política laboral. Sindicatos, asociaciones empresariales y reforma en Chile. Pablo Pérez Ahumada. Ed. Universidad Alberto Hurtado. Santiago, Chile.",
      "idioma_resumen": "es",
      "licencia": {
-      "nombre": "CC BY-NC-SA 4.0",
-      "url": "http://creativecommons.org/licenses/by-nc-sa/4.0"
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
      },
-     "url": "https://doi.org/10.7770/cuhso.v31i1.2411",
-     "doi": "10.7770/cuhso.v31i1.2411",
-     "paginas": "306-334",
-     "fuente": "Crossref"
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/1013",
+     "doi": "10.7770/cuhso-v36n1-art1028",
+     "paginas": null,
+     "fuente": "OAI-PMH"
     },
     {
-     "id": "10.7770/cuhso.v31i1.2003",
-     "titulo": "Precariedad, trabajo y reproducción: el trabajo de las mujeres en el sector exportador de uva en Chile y Brasil",
+     "id": "10.7770/cuhso-v36n1-art821",
+     "titulo": "Retos para las políticas agroalimentarias latinoamericanas: nueva normalidad, sustentabilidad, participación y la panorámica de SEGALMEX 2019-2024",
      "idioma_titulo": "es",
      "autores": [
       {
-       "nombre": "Claudia Cerda Becker",
+       "nombre": "Téllez, José",
+       "orcid": null
+      }
+     ],
+     "resumen": "Las políticas agroalimentarias latinoamericanas vigentes buscan incrementar rendimientos por unidad de superficie para garantizar la proveeduría de alimentos básicos. Con esa premisa se analizó la política de Seguridad Alimentaria Mexicana (SEGALMEX) 2019-2024 considerando su vertiente de sustentabilidad para el sector, la producción campesina, las estrategias que precisó para afrontar la pandemia por SARS-CoV-2 y la nueva normalidad. En este marco de análisis, se abordan las políticas agroalimentarias latinoamericanas más relevantes desde un enfoque crítico sociológico basado en análisis de contenido, análisis heurístico y hermenéutico para discutir y retroalimentar su proceder de cara a la pandemia por COVID-19, particularizando en el caso de la política de Seguridad Alimentaria Mexicana (SEGALMEX). Con esto se identificaron áreas de oportunidad en términos de autosuficiencia, seguridad y soberanía agroalimentarias y sustentabilidad, además, se proponen elementos conceptuales para coadyuvar a la técnica operativa de las condiciones observadas.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/812",
+     "doi": "10.7770/cuhso-v36n1-art821",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v36n1-art1063",
+     "titulo": "Salud femenina y sexual en mujeres en situación calle en la Región Metropolitana de Chile",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Lermanda Peña, Cristian",
        "orcid": null
       },
       {
-       "nombre": "Camilla Silva de Almeida",
+       "nombre": "Muñoz Vargas, Slomith",
        "orcid": null
       },
       {
-       "nombre": "Josefa Salete Cavalcanti Barbosa",
-       "orcid": null
-      }
-     ],
-     "resumen": "La expansión del agronegocio de exportación en Latinoamérica ha ido acompañado de una creciente femeinización de la fuerza de trabajo. No obstante, las mujeres han sido incorporadas en condiciones poco favorables, ocupando empleos de baja calificación, bajos ingresos y temporales. El presente artículo propone investigar la precariedad de las condiciones de trabajo y de vida de las mujeres que trabajan como asalariadas en el sector de exportación de uva en el Valle San Francisco (Brasil) y en el Valle de Elqui/Limarí (Chile), proponiendo un análisis que integra tanto la esfera de la producción como de la reproducción. Esto con la finalidad de identificar las interconexiones existentes entre ambos ámbitos así como los principales mecanismos de extracción de plusvalor y de externalización de los costos a los hogares, implementados por las empresas.",
-     "idioma_resumen": "es",
-     "licencia": {
-      "nombre": "CC BY-NC-SA 4.0",
-      "url": "http://creativecommons.org/licenses/by-nc-sa/4.0"
-     },
-     "url": "https://doi.org/10.7770/cuhso.v31i1.2003",
-     "doi": "10.7770/cuhso.v31i1.2003",
-     "paginas": "335-355",
-     "fuente": "Crossref"
-    },
-    {
-     "id": "10.7770/cuhso.v31i1.2284",
-     "titulo": "El giro creativo en el trabajo contemporáneo: una mirada crítica desde las condiciones laborales del campo cultural de Santiago de Chile",
-     "idioma_titulo": "es",
-     "autores": [
-      {
-       "nombre": "Carla Pinochet Cobos",
+       "nombre": "Meza Rivas, Valery",
        "orcid": null
       },
       {
-       "nombre": "Constanza Tobar Tapia",
-       "orcid": null
-      }
-     ],
-     "resumen": "Este artículo explora los fundamentos del giro creativo en el trabajo contemporáneo, analizando las razones que han ido posicionando a los productores culturales —trabajadores de los mundos del arte, los sectores creativos y el campo intelectual— como referentes para otros sectores productivos, en el marco de las transformaciones del capitalismo flexible. Como contraparte de estos discursos celebratorios, y en base a una estrategia metodológica cualitativa que permitió registrar las prácticas y discursos del medio creativo de Santiago de Chile, ahondaremos en el reverso del modo de vida artístico: las precarias condiciones laborales y los invisibilizados costos subjetivos que enfrentan quienes se desenvuelven en dichas escenas. En base a este levantamiento empírico, este texto busca contribuir a la comprensión de los procesos de construcción de subjetividad en el capitalismo tardío, examinando las singularidades de un tipo de actividad que encierra una paradoja: a la vez que se convierte en un modelo laboral de exportación hacia otros dominios, su condición productiva —esto es, en su valoración en tanto trabajo— es desconocida en diversos sentidos y niveles.",
-     "idioma_resumen": "es",
-     "licencia": {
-      "nombre": "CC BY-NC-SA 4.0",
-      "url": "http://creativecommons.org/licenses/by-nc-sa/4.0"
-     },
-     "url": "https://doi.org/10.7770/cuhso.v31i1.2284",
-     "doi": "10.7770/cuhso.v31i1.2284",
-     "paginas": "356-390",
-     "fuente": "Crossref"
-    },
-    {
-     "id": "10.7770/cuhso.v31i1.2412",
-     "titulo": "Mecanismos de control de la plataforma Uber sobre sus conductores asociados en la Región Metropolitana de Chile",
-     "idioma_titulo": "es",
-     "autores": [
-      {
-       "nombre": "Osvaldo Vallejos Rivero",
-       "orcid": null
-      }
-     ],
-     "resumen": "En el presente artículo se describen y analizan los principales mecanismos de control implementados por la plataforma Uber en el proceso de trabajo de sus conductores asociados en la Región Metropolitana de Chile. La información fue producida a través de 12 entrevistas realizadas a conductores de Uber residentes en la Región Metropolitana entre septiembre de 2019 y febrero de 2020, analizadas a través de un análisis cualitativo de contenido con el software Atlas ti7. El marco analítico utilizado fue tomado principalmente de la denominada teoría del proceso de trabajo, incorporando además ciertas discusiones actuales sobre nuevas formas de control elaboradas específicamente para el contexto del trabajo en plataformas digitales. Los principales resultados muestran una combinación entre elementos de control persistentes a lo largo del tiempo y elementos novedosos incorporados en los últimos años, específicamente a través de una introducción de mayor eficacia a métodos de control antiguos gracias a las nuevas tecnologías, haciendo que tanto las formas nuevas como antiguas de control sean más instantáneas, opacas y abarcadoras. Con todo, se observa una predominancia de aquellos mecanismos de control asociados al control algorítmico y a la estrategia de autonomía responsable.",
-     "idioma_resumen": "es",
-     "licencia": {
-      "nombre": "CC BY-NC-SA 4.0",
-      "url": "http://creativecommons.org/licenses/by-nc-sa/4.0"
-     },
-     "url": "https://doi.org/10.7770/cuhso.v31i1.2412",
-     "doi": "10.7770/cuhso.v31i1.2412",
-     "paginas": "391-416",
-     "fuente": "Crossref"
-    },
-    {
-     "id": "10.7770/cuhso.v31i1.1970",
-     "titulo": "Repensando las movilidades en el Archipiélago de Chiloé",
-     "idioma_titulo": "es",
-     "autores": [
-      {
-       "nombre": "Diego Solsona Cisternas",
-       "orcid": "https://orcid.org/0000-0002-7958-1295"
-      },
-      {
-       "nombre": "Alejandra Lazo Corvalan Lazo Corvalan",
-       "orcid": "https://orcid.org/0000-0002-9443-1201"
-      },
-      {
-       "nombre": "Diego Carvajal Carvajal Hicks",
-       "orcid": null
-      }
-     ],
-     "resumen": "Se presenta en este artículo una propuesta para repensar la movilidad en el Archipiélago de Chiloé desde una perspectiva etnográfica que integra algunas ideas del llamado “enfoque no representacional” para comprender lasprácticas de movilidad que ocurren en territorios no metropolitanos. Nos situamos específicamente en geografías espacio-temporales en conexión con el mundo moderno y urbano, pero que se desarrollan en contextos archipelágicose insulares. A partir de un trabajo de campo llevado a cabo en las islas de este pequeño archipiélago, se comprende la movilidad cotidiana de estos habitantes como un proceso heterogéneo, contingente y ensamblado y por lo mismo, la importancia de repensar distintas formas de acercarse y comprender estas realidades.",
-     "idioma_resumen": "es",
-     "licencia": {
-      "nombre": "CC BY-NC-SA 4.0",
-      "url": "http://creativecommons.org/licenses/by-nc-sa/4.0"
-     },
-     "url": "https://doi.org/10.7770/cuhso.v31i1.1970",
-     "doi": "10.7770/cuhso.v31i1.1970",
-     "paginas": "417-444",
-     "fuente": "Crossref"
-    },
-    {
-     "id": "10.7770/cuhso.v31i1.2048",
-     "titulo": "Raza y género en el marco de la diferencia ontológica colonial",
-     "idioma_titulo": "es",
-     "autores": [
-      {
-       "nombre": "Jhon Jairo Losada Cubillos",
-       "orcid": "https://orcid.org/0000-0001-8086-3516"
-      }
-     ],
-     "resumen": "En los últimos años el pensamiento decolonial se ha constituido en un campo de reflexión teórica y de activismo político que busca, por un lado, visibilizar las formas en las que se sigue reproduciendo el poder colonial y, por otro lado, proveer herramientas para contribuir a fisurar las condiciones de dominación heredadas del hecho colonial. Este artículo tiene por objetivo situar las categorías de raza y género en el marco del pensamiento decolonial, como categorías fundamentales para problematizar y analizar la operacionalidad la dimensión ontológica de la colonialidad. En este sentido, recurre a autores y autoras de la tradición de pensamiento crítico afrocaribeño, así como del feminismo decolonial. Para esto, se discute con la categoría de diferencia ontológica colonial, como un aporte para continuar exteriorizando la naturaleza del orden colonial de poder y para ahondar en la comprensión en la forma cómo la colonialidad opera.",
-     "idioma_resumen": "es",
-     "licencia": {
-      "nombre": "CC BY-NC-SA 4.0",
-      "url": "http://creativecommons.org/licenses/by-nc-sa/4.0"
-     },
-     "url": "https://doi.org/10.7770/cuhso.v31i1.2048",
-     "doi": "10.7770/cuhso.v31i1.2048",
-     "paginas": "445-465",
-     "fuente": "Crossref"
-    },
-    {
-     "id": "10.7770/cuhso.v31i1.2145",
-     "titulo": "El viaje del zorro al cielo y su tío el tigre: Texturas transculturales amerindias en dos repertorios de relatos mapuche del zorro",
-     "idioma_titulo": "es",
-     "autores": [
-      {
-       "nombre": "Rodrigo Moulian Tesmer",
-       "orcid": null
-      }
-     ],
-     "resumen": "El artículo muestra los contenidos transculturales amerindios en dos repertorios de relatos mapuche del zorro. El primero de ellos corresponde al viaje del zorro al cielo, originario del área centro andina. El segundo es el del zorro y su tío el tigre procedente de las narrativas del Chaco. A través de un análisis narratológico, se destaca la recurrencia de los motivos que estructuran las tramas narrativas y dan forma a los relatos. Al respecto argumentamos que la representación del zorro como un personaje transgresor, común en las narrativas, expresa un problema general, por lo mismo, proclive a su simbolización transcultural. Las contradicciones en la conducta del zorro exponen las tensiones entre las necesidades básicas y los impulsos vitales del personaje y las normas culturales para la administración de las mismas, lo que constituye una experiencia común a la condición humana.",
-     "idioma_resumen": "es",
-     "licencia": {
-      "nombre": "CC BY-NC-SA 4.0",
-      "url": "http://creativecommons.org/licenses/by-nc-sa/4.0"
-     },
-     "url": "https://doi.org/10.7770/cuhso.v31i1.2145",
-     "doi": "10.7770/cuhso.v31i1.2145",
-     "paginas": "466-495",
-     "fuente": "Crossref"
-    },
-    {
-     "id": "10.7770/cuhso.v31i1.2058",
-     "titulo": "Un problema no es sólo un problema. Posiciones, hermenéuticas y políticas públicas relativas a la salud de las abejas",
-     "idioma_titulo": "es",
-     "autores": [
-      {
-       "nombre": "Guillermo Folguera",
-       "orcid": "https://orcid.org/0000-0002-4990-7039"
-      }
-     ],
-     "resumen": "En diferentes lugares del mundo se discute acerca de la salud de las abejas y sus posibles causas. Argentina, uno de los principales productores de miel del mundo, inevitablemente ubica a esta problemática en un lugar central. En este trabajo indagaremos los modos de conceptualizar el problema y las hermenéuticas que le subyacen a diferentes agentes respecto a la salud de las abejas en Argentina. Con este fin, se realizará un análisis del vínculo entre posiciones y hermenéuticas de apicultores, Bayer, científicos de las áreas de la Toxicología y Biología del Comportamiento y funcionarios de diferentes áreas de SENASA, órgano de control del Estado argentino. Entre las conclusiones principales se reconoce: i) el acercamiento de las posiciones y hermenéuticas del Estado argentino y Bayer propio de un escenario neoliberal, ii) el modo en el que la Toxicología (área de mayor injerencia en la problemática) minimiza los riesgos ambientales respecto a la Biología del Comportamiento y iii) los numerosos procesos de simplificación que se reconocen en la toma de decisiones de la política pública en Argentina en los últimos años.",
-     "idioma_resumen": "es",
-     "licencia": {
-      "nombre": "CC BY-NC-SA 4.0",
-      "url": "http://creativecommons.org/licenses/by-nc-sa/4.0"
-     },
-     "url": "https://doi.org/10.7770/cuhso.v31i1.2058",
-     "doi": "10.7770/cuhso.v31i1.2058",
-     "paginas": "496-521",
-     "fuente": "Crossref"
-    },
-    {
-     "id": "10.7770/cuhso.v31i1.2148",
-     "titulo": "Migración y trabajo, una revisión del contexto chileno actual",
-     "idioma_titulo": "es",
-     "autores": [
-      {
-       "nombre": "Diego Rival",
+       "nombre": "Muñoz Lara, Carina",
        "orcid": null
       },
       {
-       "nombre": "Amanda Valenzuela-Valenzuela",
+       "nombre": "Palma Díaz, Jimena",
        "orcid": null
       },
       {
-       "nombre": "Ricardo Cartes-Velásquez",
-       "orcid": "https://orcid.org/0000-0001-5831-7324"
-      }
-     ],
-     "resumen": "Los flujos migratorios son parte de la historia de Chile, y han tenido cambios a través del tiempo. Actualmente, existen múltiples vulneraciones a los derechos de las personas migrantes, que conllevan a que tengan dificultades para acceder a la esfera laboral. Esto dificulta cumplir el objetivo principal de la migración, correspondiente a mejorar las condiciones de vida. Se exploran en esta revisión bibliográfica los principales motivos para abandonar las naciones de origen; la etnicidad, diversidad cultural y procesos de aculturación; la vulneración de derechos de personas migrantes, destacándose las vulneraciones legales; y el trabajo como fenómeno social, donde se incluye la relevancia de los cursos y talleres de formación laboral para la población migrante. Se concluye que a través de múltiples intervenciones pueden disminuirse las vulneraciones de derechos a las personas migrantes y mejorar sus condiciones de vida, facilitando su acceso a la esfera laboral.",
-     "idioma_resumen": "es",
-     "licencia": {
-      "nombre": "CC BY-NC-SA 4.0",
-      "url": "http://creativecommons.org/licenses/by-nc-sa/4.0"
-     },
-     "url": "https://doi.org/10.7770/cuhso.v31i1.2148",
-     "doi": "10.7770/cuhso.v31i1.2148",
-     "paginas": "522-547",
-     "fuente": "Crossref"
-    },
-    {
-     "id": "10.7770/cuhso.v31i1.2055",
-     "titulo": "Desencuentros entre el imaginario social occidental y el imaginario social indígena: elementos para una reflexión teórica sobre los imaginarios sociales nucleares en el marco del conflicto entre el estado-nación chileno y el pueblo mapuche",
-     "idioma_titulo": "es",
-     "autores": [
-      {
-       "nombre": "Eduardo Gallegos Krause",
+       "nombre": "Seguel Ligena, Macarena",
        "orcid": null
       }
      ],
-     "resumen": "El presente trabajo de orientación eminentemente teórica tiene por objetivo realizar un diagnóstico mediante un método sintético con énfasis hipotético-deductivo que dé cuenta de cuáles son los imaginarios nucleares del Estado nación chileno, por una parte, y del Pueblo mapuche por la otra, todo esto en el marco del conflicto entre Estado-nación y Pueblo mapuche. La aproximación teórica vincula los imaginarios sociales con la construcción de la identidad y la alteridad, para esto se utilizarán los aportes en torno a los imaginarios sociales desarrollados fundamentalmente por Castoriadis y actualizados por Manuel Antonio Baeza, sin desmedro de otros aportes. El análisis particular de los elementos constituyentes de los imaginarios en estudio permite identificar y caracterizar un imaginario nuclear occidental (del Estado-nación) basado en la idea de modernidad-desarrollo y un imaginario nuclear indígena (del Pueblo mapuche) basado en el principio de renovación con una concepción cíclica y no lineal del tiempo.",
+     "resumen": "La situación de calle es una expresión extrema de exclusión social y vulneración de derechos humanos, asociada a mayor morbilidad, mortalidad y deterioro de la salud. En Chile, las mujeres enfrentan riesgos específicos por la convergencia de desigualdades, violencia de género y necesidades de salud sexual y reproductiva. El objetivo fue comprender experiencias y estrategias de salud femenina y sexual en mujeres en situación de calle de la Región Metropolitana durante el segundo semestre de 2025. Se realizó una investigación cualitativa con enfoque fenomenológico. Participaron diez mujeres de 30 a 50 años, con trayectorias en calle entre 5 meses y 24 años. Los datos se recolectaron mediante entrevistas semiestructuradas. Luego se transcribieron, anonimizaron y analizaron temáticamente utilizando MAXQDA. Los hallazgos se agruparon en tres categorías: conocimiento sobre salud femenina, autocuidado y acceso/vinculación con el sistema de salud. Emergió un componente emocional transversal marcado por miedo, incertidumbre e inseguridad, asociado a riesgo de violencia sexual, que condiciona prácticas de autoprotección. La gestión menstrual fue crítica por falta de insumos, agua y privacidad, lo que obliga a improvisar materiales y genera malestar físico y emocional. Aunque existe conocimiento sobre anticoncepción, el acceso es irregular y la autonomía reproductiva restringida. El estigma y el trato discriminatorio en salud refuerzan la desconfianza y la evitación de controles. Se concluye que las brechas combinan barreras materiales y relacionales, por lo que se requieren intervenciones comunitarias, territoriales e intersectoriales, con enfoque de género y derechos que aseguren atención continua, respetuosa y digna.",
      "idioma_resumen": "es",
      "licencia": {
-      "nombre": "CC BY-NC-SA 4.0",
-      "url": "http://creativecommons.org/licenses/by-nc-sa/4.0"
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
      },
-     "url": "https://doi.org/10.7770/cuhso.v31i1.2055",
-     "doi": "10.7770/cuhso.v31i1.2055",
-     "paginas": "548-571",
-     "fuente": "Crossref"
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/1063",
+     "doi": "10.7770/cuhso-v36n1-art1063",
+     "paginas": null,
+     "fuente": "OAI-PMH"
     },
     {
-     "id": "10.7770/cuhso.v31i1.2049",
-     "titulo": "Políticas y marco jurídico de fomento a la lactancia materna exclusiva en el Perú",
+     "id": "10.7770/cuhso-v36n1-art814",
+     "titulo": "Sexismo en profesoras universitarias ecuatorianas en carreras de ingeniería",
      "idioma_titulo": "es",
      "autores": [
       {
-       "nombre": "Ana Miluzka Baca-Gamarra",
-       "orcid": "https://orcid.org/0000-0002-6371-4487"
-      }
-     ],
-     "resumen": "La Organización Mundial de la Salud en su último informe sobre las Metas de Nutrición para el 2025, ha incluido a la lactancia materna, como 5ª meta, proponiendo aumentar la tasa de lactancia materna exclusiva en los primeros 6 meses de vida hasta un 50% como mínimo, para mejorar la tasa de supervivencia y la salud de los infantes, esto ha impulsado a los países miembros de la OMS a incrementar sus esfuerzos para promover su práctica y aumentar las estadísticas de países con cifras menores al 1% de mujeres que practican la lactancia materna exclusiva. Perú, como estado miembro posee una trayectoria en la implementación de disposiciones que han contribuido a mejorar el espíritu de esta meta, posicionándose actualmente en el primer lugar de los países latinoamericanos y segundo lugar a nivel mundial con mayor frecuencia de lactancia materna exclusiva, según UNICEF. El presente artículo tiene como objetivo describir la implementación de disposiciones legales en el Perú, que se relacionan con el incremento de la lactancia materna exclusiva.",
-     "idioma_resumen": "es",
-     "licencia": {
-      "nombre": "CC BY-NC-SA 4.0",
-      "url": "http://creativecommons.org/licenses/by-nc-sa/4.0"
-     },
-     "url": "https://doi.org/10.7770/cuhso.v31i1.2049",
-     "doi": "10.7770/cuhso.v31i1.2049",
-     "paginas": "582-583",
-     "fuente": "Crossref"
-    },
-    {
-     "id": "10.7770/cuhso.v30i2.2000",
-     "titulo": "De madera y hormigón: hábitat residencial y habitar de migrantes latinoamericanos en la ciudad de Santiago",
-     "idioma_titulo": "es",
-     "autores": [
+       "nombre": "Paredes-Ruiz, Teresa de Jesús",
+       "orcid": null
+      },
       {
-       "nombre": "Cristóbal Sebastián Palma Rojas",
+       "nombre": "Jiménez-Sánchez, Álvaro",
+       "orcid": null
+      },
+      {
+       "nombre": "Molina Rivera, Solange Stephanie",
+       "orcid": null
+      },
+      {
+       "nombre": "Haro Lara, Aida Patricia",
        "orcid": null
       }
      ],
-     "resumen": "En base a dos experiencias etnográficas, una en un campamento (asentamiento informal) ubicado en el extremo norte del Gran Santiago y otra, aún en curso, en zonas de verticalización residencial en el centro de la comuna de Santiago, el presente artículo discute sobre la influencia de las materialidades y espacialidades de la vivienda en la configuración del habitar de migrantes latinoamericanos en la Región Metropolitana. Se concluye que el hábitat en campamentos, cuya espacialidad y materialidad son de orden flexible y en permanente construcción, permite formas de apropiación espacial, de tipo simbólico y material, conforme se procede a la edificación y mejora de la vivienda, mientras que el hábitat en zonas de verticalización residencial cuya materialidad es rígida y se encuentra pre-definida, restringe de manera sustantiva las posibilidades de apropiación espacial a nivel material. Aun así, en la intimidad de la vivienda y a nivel simbólico y afectivo se producen formas de domesticación del espacio residencial que resultan modeladas por sus usuarios migrantes.",
+     "resumen": "La mujer ha sido relegada durante siglos a ocupar un rol secundario al del hombre respecto al trabajo fuera del hogar. Sin embargo, aunque en las últimas décadas ha habido una mejoría en este ámbito con una mayor participación en el terreno educativo y profesional, todavía las mujeres sufren múltiples problemas para acceder y lograr el éxito laboral. Así, el objetivo de esta investigación fue analizar las dificultades que numerosas profesoras de universidad han tenido a lo largo de los años para llegar a conseguir su puesto de docente en carreras universitarias típicamente asociadas y dirigidas por hombres, como son los estudios en las diversas ingenierías y carreras técnicas. 2 Para ello, se realizó una entrevista semiestructurada a 16 mujeres docentes en este tipo de estudios de la Universidad Técnica de Ambato, en el centro de la sierra ecuatoriana. Los ítems y preguntas abiertas trataban el tema principal del desarrollo profesional y conciliación familiar de estas docentes. Los resultados mostraron que ellas sufrieron de discriminación y prejuicios, a la vez que se enfrentaron a techos de cristal y suelos pegajosos que las impidieron evolucionar en esas áreas. Además, sobre la conciliación familiar, la mujer sigue realizando doble trabajo, pues su rol de cuidadora apenas ha cambiado. Se concluye que deben tomarse medidas de manera incipiente para que el género femenino pueda dedicarse a la docencia universitaria sin discriminación y mediante políticas de igualdad tanto laborales como de conciliación familiar.",
      "idioma_resumen": "es",
      "licencia": {
-      "nombre": "CC BY-NC-SA 4.0",
-      "url": "http://creativecommons.org/licenses/by-nc-sa/4.0"
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
      },
-     "url": "https://doi.org/10.7770/cuhso.v30i2.2000",
-     "doi": "10.7770/cuhso.v30i2.2000",
-     "paginas": "584-502",
-     "fuente": "Crossref"
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/806",
+     "doi": "10.7770/cuhso-v36n1-art814",
+     "paginas": null,
+     "fuente": "OAI-PMH"
     },
     {
-     "id": "10.7770/cuhso.v31i1.2130",
-     "titulo": "História, regiões e fronteiras",
-     "idioma_titulo": "pt",
+     "id": "10.7770/cuhso-v36n1-art800",
+     "titulo": "Sostenibilidad desde el conocimiento científico y el conocimiento indígena: Una articulación crítica",
+     "idioma_titulo": "es",
      "autores": [
       {
-       "nombre": "Christian Hausser",
+       "nombre": "Druker-Ibáñez, Sofia",
+       "orcid": null
+      },
+      {
+       "nombre": "Cáceres-Jensen, Lizethly",
+       "orcid": null
+      }
+     ],
+     "resumen": "Este artículo presenta los resultados de una investigación cualitativa que explora las concepciones de sostenibilidad y los procesos asociados a la construcción de conocimientos relevantes para dichas concepciones, desarrolladas tanto por científicos como por miembros de organizaciones indígenas en distintos países y continentes. El objetivo principal es identificar aspectos compartidos, que puedan servir como base para establecer relaciones colaborativas desde un marco de justicia epistémica, a la vez que evidenciar énfasis específicos que tienen presencia para las organizaciones indígenas que deberían ser considerados en la producción de investigaciones transdisciplinarias. Los hallazgos de este estudio revelan valores compartidos entre ambos grupos, como la usabilidad del conocimiento, la interconexión e interdependencia vinculada al territorio, y la valoración de la experimentación y la diversidad de fuentes y tipos de información. Además, se identifican elementos particulares a las perspectivas de las organizaciones indígenas, como la historia territorializada, la flexibilidad contextual, los valores de adaptabilidad y autonomía y la emergencia de criterios de legitimación vinculados a la coherencia histórica y sistémica de las soluciones sostenibles. Las conclusiones subrayan la importancia de articular epistemologías diversas para avanzar en enfoques colaborativos y contextualizados que promuevan la sostenibilidad desde una perspectiva inclusiva y equitativa.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/792",
+     "doi": "10.7770/cuhso-v36n1-art800",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v36n1-art1067",
+     "titulo": "Tendencias temporales en el engrosamiento de borde en alfarería de Lago Meliquina (Patagonia Noroccidental Argentina)",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Pérez, Alberto Enrique",
+       "orcid": null
+      },
+      {
+       "nombre": "Camacho Cueva, Juan",
+       "orcid": null
+      },
+      {
+       "nombre": "Hernández-Montelongo, Jacobo",
+       "orcid": null
+      },
+      {
+       "nombre": "Sauer, Jacob J.",
+       "orcid": null
+      },
+      {
+       "nombre": "Aguirre Baique, Nazario",
+       "orcid": null
+      }
+     ],
+     "resumen": "Este trabajo examina la evolución técnica de la alfarería en la Localidad Arqueológica Lago Meliquina, situada en la Patagonia noroccidental argentina. El análisis se centra específicamente en el engrosamiento de los bordes de las vasijas como un rasgo funcional diseñado para evitar fracturas por factores climáticos y mecánicos. Las fuentes comparan hallazgos de distintos periodos, revelando que las ocupaciones más prolongadas y tardías presentan un mayor refuerzo en la boca de los recipientes. Esta característica se interpreta como una adaptación técnica al ambiente cordillerano, donde el secado rápido y el frío extremo aumentan la fragilidad del material cerámico. Además, el estudio vincula estas prácticas con tradiciones regionales compartidas entre las vertientes oriental y occidental de la cordillera de los Andes. Finalmente, se propone que lo que inició como una solución utilitaria pudo transformarse con el tiempo en una identidad estilística distintiva de estas sociedades.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/1067",
+     "doi": "10.7770/cuhso-v36n1-art1067",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v36n1-art944",
+     "titulo": "Tendencias y ausencias en el estudio de la migración colombiana a Chile: Una revisión de alcance para proyectar la investigación",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Macaya-Aguirre, Gustavo",
+       "orcid": null
+      },
+      {
+       "nombre": "Cruz-Riveros, Consuelo",
+       "orcid": null
+      },
+      {
+       "nombre": "Liberona Concha, Nanette",
+       "orcid": null
+      }
+     ],
+     "resumen": "En los últimos 20 años, Chile se ha convertido en uno de los cinco principales destinos para migrantes colombianos (DANE, 2022). Este fenómeno ha generado un aumento significativo de investigaciones que buscan comprender diversas dimensiones de estas migraciones. El presente estudio busca analizar las investigaciones académicas sobre migración colombiana a Chile, en el periodo 2005-2024, indagando las principales temáticas abordadas, el conocimiento sobre los lugares de procedencia, las motivaciones para migrar, la reflexión sobre el lugar del conflicto armado interno colombiano en estas migraciones y los desafíos que se generan a partir de estas investigaciones. Para ello, se realizó una revisión de alcance de 69 artículos publicados en revistas académicas, seleccionados mediante búsquedas en las bases de datos Scielo, Scopus y EBSCO y artículos recolectados de trabajos previos. En los análisis se encontró que los estudios han girado en torno a cuatro grandes ejes: 1) violencias interseccionales: género, racialización y racismo; 2) conflicto armado, migración internacional forzada y refugio; 3) territorialización, integración, vida familiar e inserción laboral y 4) estudios sobre migración colombiana y salud. Del mismo modo, a pesar de la heterogeneidad de lugares de procedencia y orígenes de clase, etnia y género, las investigaciones reportan múltiples experiencias de discriminación, especialmente, hacia personas afrocolombianas. Asimismo, el conflicto armado interno colombiano está presente permanentemente como una de las razones para migrar. A partir de estos hallazgos se identifican cinco desafíos que buscan contribuir a la construcción de agendas investigativas para profundizar en la comprensión de estas migraciones.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/944",
+     "doi": "10.7770/cuhso-v36n1-art944",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v36n1-art990",
+     "titulo": "Teoría del color como metáfora sociológica: auto construcción identitaria y la lucha por el reconocimiento mapuche y colombiano en Argentina y Chile",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Canton, Damian Andres",
+       "orcid": null
+      }
+     ],
+     "resumen": "Este artículo propone una metáfora sociológica inspirada en la teoría del color para analizar la autoconstrucción identitaria y las luchas por el reconocimiento de colectivos excluidos del espacio público. A partir de entrevistas con miembros del pueblo mapuche y de la población migrante colombiana en Argentina y Chile, se aplica una metodología cualitativa basada en la Teorización Fundamentada. Los resultados revelan que la identidad es relacional, situada y construida en diálogo con el discurso hegemónico, el contexto y la autoobservación. Este artículo plantea un enfoque desde abajo, centrado en la voz de los propios colectivos y no en cómo el poder los representa. Se incorpora la noción de agencia para mostrar que estos grupos observan, interpretan y narran activamente su pertenencia desde márgenes críticos.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/975",
+     "doi": "10.7770/cuhso-v36n1-art990",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v35n1-art766",
+     "titulo": "Thomas Day y John Scott, dos ingleses ante la Inquisición de México: 1597-1607",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Ruiz Martínez, Herlinda",
+       "orcid": null
+      }
+     ],
+     "resumen": "Después del ataque marítimo orquestado por William Parker en el puerto novohispano de Campeche en 1597, algunos marinos quedaron varados en tierra firme y a la postre fueron procesados por la Inquisición de México. Al mismo tiempo, dos ingleses, miembros de la expedición pirata del capitán Christopher Newport, fueron enviados a la ciudad de México como prisioneros, tras un incidente marítimo ocurrido en el Mar Caribe, de modo que fueron procesados por herejía luterana a manos del Santo Oficio de la Inquisición y recibieron castigos poco severos, a comparación de otros procesados por protestantismo a fines del siglo XVI. El objetivo de este artículo es reconstruir, a través del método deductivo y en un estudio de caso, con apoyo de fuentes primarias y secundarias, los inéditos juicios inquisitoriales seguidos contra Thomas Day y John Scott, por lo que esta colaboración buscará abonar al estudio de la praxis judicial emanada por un organismo generador de justicia eclesiástica en uno de sus distritos indianos contra un sector minoritario de la población que representaba una amenaza a la guarda de la fe, en tiempos de guerras entre España e Inglaterra.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/759",
+     "doi": "10.7770/cuhso-v35n1-art766",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v36n1-art844",
+     "titulo": "Trabajadores portuarios de San Antonio frente al cambio tecnológico: estrategias y tensiones en el contexto del neoliberalismo chileno",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Álvarez Torres, Camila",
+       "orcid": null
+      },
+      {
+       "nombre": "Álvarez Torres, Camila",
+       "orcid": null
+      },
+      {
+       "nombre": "Álvarez Torres, Camila",
+       "orcid": null
+      }
+     ],
+     "resumen": "El transporte marítimo es un negocio internacional en el que los puertos ocupan una posición estratégica. Su evolución presenta diversos desafíos para los trabajadores portuarios, quienes deben resguardar sus oficios y espacios de trabajo. Desde el enfoque de la revitalización sindical, este artículo analiza el desarrollo de las estrategias que los trabajadores portuarios organizados despliegan para enfrentar el cambio tecnológico en un contexto laboral altamente hostil, como el chileno. A través de un estudio de caso, se realizaron un total de 18 entrevistas durante el año 2021. La evidencia indica que tanto el mercado desregulado de contratación de la mano de obra portuaria como la ausencia de negociación sectorial constituyen factores explicativos que debilitan particularmente la posición estratégica de estos trabajadores al momento de enfrentar dichos desafíos.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/835",
+     "doi": "10.7770/cuhso-v36n1-art844",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v36n1-art711",
+     "titulo": "Transiciones socio-ecológicas, contenido cosmovisivo y humanismos ‘emergentes’: ¿Más allá de la dicotomía antropocentrismo/biocentrismo? Além da dicotomia antropocentrismo/biocentrismo?",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Duhart Smithson, Daniel",
+       "orcid": null
+      }
+     ],
+     "resumen": "Este artículo comparte los hallazgos de un estudio sobre el rol del contenido cosmovisivo para el impulso de transiciones civilizatorias y socio-ecológicas en Chile, centrado en la interfaz intelectuales alternativos/sociedad civil. Luego de una contextualización sobre el estado del medio ambiente y el impacto de la sociedad de consumo en Chile, se abordan las nociones de cosmovisión y dinámicas de transición, en cuanto marco analítico. Basado en conversaciones reflexivas con pensadores y líderes sociales de diversos territorios, por un lado, y un estudio de Corpus de texto, por el otro, se identificó la estructura narrativa del campo discursivo, y sus respectivas constelaciones de contenido cosmovisivo. Junto con dar cuenta de la gran variedad de contenidos cosmovisivos en el campo, y sus tensiones, una conclusión del estudio es la centralidad paradójica que la renovada pregunta existencial sobre el ser humano estaría teniendo en estos discursos, en cuanto puente conceptual y práctico entre las problemáticas del desarrollo de la sociedad y las relaciones con la naturaleza.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/711",
+     "doi": "10.7770/cuhso-v36n1-art711",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v36n1-art828",
+     "titulo": "Trayectoria de la ciudadanía indígena en México. Reflexiones en torno al caso de Cherán",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Peredo Ibarra, Carlos Manuel",
+       "orcid": null
+      },
+      {
+       "nombre": "Figueroa Sepúlveda, Mauricio Andrés",
+       "orcid": null
+      }
+     ],
+     "resumen": "Este artículo analiza la trayectoria histórica de la ciudadanía indígena en México, examinando las tensiones entre los proyectos estatales de homogeneización cultural y las estrategias de los pueblos originarios de preservarse como grupos culturalmente diferenciados con sus propias instancias de gobierno. A partir de una revisión teórica sobre la ciudadanía y el análisis de la experiencia de la comunidad Purépecha de Cherán, se argumenta que la participación indígena ha trascendido la integración forzada para convertirse en un mecanismo clave de defensa de la autonomía y los derechos de los pueblos indígenas. El análisis destaca cómo Cherán instituye una ciudadanía culturalmente situada y basada en los \"usos y costumbres\", donde la legitimidad política emana del servicio comunitario y no solo del estatus legal estatal, desafiando así el modelo liberal hegemónico. Se concluye que estas experiencias configuran modelos alternativos e inclusivos de participación que cuestionan la visión monista del Estado-nación y evidencian la viabilidad de ciudadanías diferenciadas construidas desde lo local.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/828",
+     "doi": "10.7770/cuhso-v36n1-art828",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v36n1-art757",
+     "titulo": "Un diseño metodológico mapuche para co-construir problemas de investigación desde las ciencias sociales occidentales",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Antilao-Carilao, Exequiel",
+       "orcid": null
+      }
+     ],
+     "resumen": "Este trabajo expone un diseño metodológico de investigación social basado en algunos elementos del mapuche kimün (sabiduría mapuche). Describe el modo en que se llevó a cabo la co-construcción de una problemática de investigación con personas mapuche formadas en Trabajo Social, guiada por el principio mapuche del kelluwün (reciprocidad y ayuda mutua). El propósito es evidenciar otros posibles procesos investigativos dentro de la academia tradicional. La pregunta que orienta el estudio es: ¿cómo el mapuche kimün, entendido como un saber territorial y comunitario, puede fundamentar un diseño metodológico de investigación social culturalmente respetuoso y colaborativo con personas y comunidades mapuche? El texto se desarrolla a partir de la exposición de una experiencia de investigación doctoral construida desde principios rituales y prácticas mapuche, tales como el inkatu (solicitud de apoyo), pentukun (saludo protocolar), chalintukun (saludo inicial), nütram (conversación) y ramtukan (acción de preguntar en el marco de la conversación). Estos pasos metodológicos permitieron transitar desde una relación basada en informantes hacia un proceso de co-investigación. Se destaca la importancia del territorio, no solo como espacio físico, sino como un elemento constitutivo de la identidad y cosmovisión mapuche para interpretar problemáticas sociales. Esta propuesta de diseño metodológico, basada en esta sabiduría ancestral, representa una ruptura significativa con las prácticas coloniales y eurocéntricas de producción de conocimiento.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/750",
+     "doi": "10.7770/cuhso-v36n1-art757",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v36n1-art1113",
+     "titulo": "Usufructo de la tierra y limitaciones al dominio pleno: Chile central, 1820-1860",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Brangier, Víctor",
+       "orcid": null
+      }
+     ],
+     "resumen": "El artículo se aproxima a las prácticas de mantención de los derechos a la tierra que protagonizaron pequeños y medianos agricultores de un valle de Chile central durante la primera mitad del siglo XIX. En un contexto de valorización de la tierra, los antiguos acuerdos de compartición de derechos y de posesión se tensionaron ante el avance de las ideas e instituciones relacionadas con el dominio pleno. La investigación busca analizar estas tensiones y el modo en que respondieron los actores en el cruce de dos modelos propietarios. Se consultó una muestra de pleitos por tierra y escrituras de venta, como además los apartados del Código Civil chileno que normaron sobre el dominio de las cosas. Los resultados indicaron que los litigantes y contratantes gestionaron las dinámicas de ambos regímenes propietarios, sosteniendo el valor del uso y del dominio desmembrado en pleitos y escrituras de venta.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/1113",
+     "doi": "10.7770/cuhso-v36n1-art1113",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v36n1-art885",
+     "titulo": "Violencia económica en adultos mayores ecuatorianos: Una realidad social que afecta su salud emocional",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Balseca Basantes, Jeanneth Elizabeth",
+       "orcid": null
+      },
+      {
+       "nombre": "Chiliquinga Véjar, Lorena del Carmen",
+       "orcid": null
+      },
+      {
+       "nombre": "Torres Carrillo, Silvia Susana",
+       "orcid": null
+      },
+      {
+       "nombre": "Barrera Gutiérrez, Mayra Isabel",
+       "orcid": null
+      }
+     ],
+     "resumen": "Los adultos mayores, como grupo de atención prioritaria, enfrentan diferentes tipos de violencia. No obstante, este estudio se centra en la violencia económica, considerada un problema de salud pública. Muchos de ellos son fácilmente engañados y manipulados por familiares o cuidadores. El estudio tuvo como objetivo determinar la violencia económica y su incidencia en la salud emocional de los adultos mayores de los grupos de apoyo de la provincia de Tungurahua, a través de la presión para solicitar préstamos personales, donaciones y sustracción económica e identificar los aspectos que se manifiestan en la salud emocional como depresión, estrés y autoestima de los adultos mayores. La investigación adoptó un enfoque cuantitativo con un diseño no experimental y transversal. Se centró en un alcance descriptivo, correlacional y explicativo, utilizando los métodos analítico-sintético e inductivo-deductivo. La técnica empleada fue la encuesta. Se realizó un muestreo probabilístico estratificado para la recolección de datos cuantitativos. Los resultados muestran que la violencia económica tiene un impacto significativo y negativo en la salud emocional de los adultos mayores en Tungurahua. Se concluye que el estudio muestra una correlación clara entre las experiencias de violencia económica y el aumento de síntomas de depresión, estrés y baja autoestima.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/885",
+     "doi": "10.7770/cuhso-v36n1-art885",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v36n1-art717",
+     "titulo": "You Will Never Be a Weye, un cuestionamiento a las identidades hegemónicas",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Ruiz Mella, Magaly",
+       "orcid": null
+      },
+      {
+       "nombre": "Gutiérrez Jeria, Ángel",
+       "orcid": null
+      }
+     ],
+     "resumen": "Este artículo expone cómo en la obra visual You Will Never Be a Weye1, Sebastián Calfuqueo cuestiona algunas identidades hegemónicas a través de este video performático. Tanto en esta obra como en otras, el artista plantea el conflicto identitario étnico y de género en una constante búsqueda, partiendo de su experiencia personal de discriminación en diferentes ámbitos. Con el propósito de reflexionar sobre las identidades hegemónicas de etnia y de género, Calfuqueo recurre a la historia del pueblo mapuche en la que se registra la existencia de machi weyes, quienes fueron exterminados según relatan las crónicas coloniales por considerarlos sodomitas, afeminados y pervertidos. La descripción y análisis de la obra se basa en el modelo de Panofsky (1995) actualizado por Agustín-Lacruz (2004). El análisis interpretativo de la obra permite comprender de manera más acabada lo que esta obra está expresando. La principal conclusión es que el artista recurre a los elementos.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/710",
+     "doi": "10.7770/cuhso-v36n1-art717",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v36n1-art945",
+     "titulo": "¡Que siempre haya gloria! La indigenización del cristianismo en Charcas Colonial, Nelson Castro Flores. Ciudad de México: Universidad Nacional Autónoma de México, 2024, 314 páginas.",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "González Ulloa, Ronal",
        "orcid": null
       }
      ],
      "resumen": null,
      "idioma_resumen": null,
      "licencia": {
-      "nombre": "CC BY-NC-SA 4.0",
-      "url": "http://creativecommons.org/licenses/by-nc-sa/4.0"
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
      },
-     "url": "https://doi.org/10.7770/cuhso.v31i1.2130",
-     "doi": "10.7770/cuhso.v31i1.2130",
-     "paginas": "584-586",
-     "fuente": "Crossref"
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/945",
+     "doi": "10.7770/cuhso-v36n1-art945",
+     "paginas": null,
+     "fuente": "OAI-PMH"
     },
     {
-     "id": "10.7770/cuhso.v31i1.2157",
-     "titulo": "Familias transnacionales desde el sur. Testimonios de la globalización en Chile. Javiera Cienfuegos Illanes (coord.). Ediciones Universidad Academia de Humanismo Cristiano",
+     "id": "10.7770/cuhso-v36n1-art971",
+     "titulo": "«Ad usum discipulorum». Justo Florian Lobeck y el mercado bibliográfico del latín en Chile durante la década de 1860",
      "idioma_titulo": "es",
      "autores": [
       {
-       "nombre": "Dasten Julián Vejar",
+       "nombre": "Arenas Deleón, Nicolás",
+       "orcid": null
+      },
+      {
+       "nombre": "Solar Mir, María Francisca",
        "orcid": null
       }
      ],
-     "resumen": "Reseña: Familias transnacionales desde el sur. Testimonios de la globalización en Chile. Javiera Cienfuegos Illanes (coord.). Ediciones Universidad Academia de Humanismo Cristiano",
+     "resumen": "Este artículo examina la participación de Justo Florian Lobeck en el espacio tipográfico chileno a mediados del siglo XIX; en particular, indaga en sus formas de intervención en la configuración de un corpus bibliográfico estructurado y funcional a los requerimientos de la enseñanza secundaria chilena para los estudios de latín. Al respecto, se propone que Lobeck desarrolló en el cumplimiento de dicha función un desdoblamiento como autor, editor y lector de materiales sobre esta lengua, lo que le permitió intervenir de manera activa en la producción, circulación y legitimación de nuevos textos en el mercado bibliográfico y el ámbito educativo. Para demostrarlo, se propone examinar el contexto reformista de la década de 1860 como coyuntura que permitió la irrupción de Lobeck al influir en el aumento de la demanda de manuales de latín y favorecer, con ello, la articulación de un dinámico circuito editorial de carácter educativo. Igualmente, se analiza cómo este profesor alemán accionó en este espacio en su triple rol de autor, editor y lector y, a la vez, se identifican y estudian las formas de interacción (personal e institucional) que desarrolla en este contexto para imponer sus trabajos en el mercado bibliográfico/educativo. A través del análisis paratextual de las obras y de otras fuentes de archivo y prensa, se revela su figura como agente activo en el espacio tipográfico educativo de textos de latín y actor clave en la definición de un canon bibliográfico para la educación secundaria en el país.",
      "idioma_resumen": "es",
      "licencia": {
-      "nombre": "CC BY-NC-SA 4.0",
-      "url": "http://creativecommons.org/licenses/by-nc-sa/4.0"
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
      },
-     "url": "https://doi.org/10.7770/cuhso.v31i1.2157",
-     "doi": "10.7770/cuhso.v31i1.2157",
-     "paginas": "587-591",
-     "fuente": "Crossref"
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/971",
+     "doi": "10.7770/cuhso-v36n1-art971",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v36n1-art918",
+     "titulo": "«Violencia popular», ideología neoliberal-autoritaria e illusio del campo periodístico: el tratamiento televisivo de los Gilets jaunes (Chalecos amarillos), Francia, 2018",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Meyer Bisaro, Valentin",
+       "orcid": null
+      }
+     ],
+     "resumen": "En este artículo se analizan las razones por las que los medios televisivos franceses se centraron, mediante la construcción del acontecimiento, en la «violencia popular» atribuida a los manifestantes y en la respuesta de seguridad frente al movimiento de los Gilets jaunes en 2018. A partir de un corpus documental de noticieros y títulos, recopilados del INA (Institut National de l’Audiovisuel), se estudia el tratamiento televisual del periodo de protesta bajo un análisis crítico del discurso (ACD). De ello se desprende que los relatos televisivos estructurados en torno a los Gilets jaunes y sus manifestaciones violentas se corresponden con la hegemonía social vigente, pero que también son propios de la doxa del campo periodístico (en el marco de la illusio), a través del recurso a guiones conocidos y a topoi emblemáticos del discurso neoliberal y autoritario, garante del orden social. En conclusión, subraya la fecundidad de cruzar los enfoques discursivos relativos a la hegemonía (a través del análisis en «bloques sociales») y el concepto de juego dentro del campo, en la visión bourdieusiana que es la de la illusio.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/905",
+     "doi": "10.7770/cuhso-v36n1-art918",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v36n1-art930",
+     "titulo": "¿Educar a las masas o justificar a las élites? Cultura y sociedad en Ortega y Gasset",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Navarro Caro, Valentín",
+       "orcid": null
+      }
+     ],
+     "resumen": "José Ortega y Gasset tuvo una clara conciencia de que la cultura era un poderoso elemento de transformación social. Es conocido su activismo cultural y el papel protagonista que tuvo en la fundación de periódicos, revistas, asociaciones y sociedades literarias, intelectuales y políticas. No obstante, sus reflexiones en torno a lo que hoy podría denominarse la “industria cultural” fueron ambiguas y sufrieron una suerte de evolución. En sus escritos de juventud, le otorga a esta industria el papel de elevar a la sociedad hasta la mayoría de edad, de suerte que solo a través de ella podía una sociedad determinada tomar conciencia de sí misma y de su papel en la Historia. Sin embargo, en sus escritos de madurez, en los que aparece más marcada la teoría de la élite, este protagonismo de la industria cultural se diluye, convirtiéndose esta en uno de los factores determinantes del nacimiento del hombre-masa. El presente artículo investiga contextualmente esta evolución, sus causas y efectos y concluye, desde ahí, el papel que la industria cultural debería jugar en una sociedad plural y multiforme como la actual.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/930",
+     "doi": "10.7770/cuhso-v36n1-art930",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v36n1-art776",
+     "titulo": "¿Por qué yo? Los comerciantes peruleros y el abastecimiento del presidio de Valdivia (1645-1657)",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Stewart, Daniel",
+       "orcid": null
+      },
+      {
+       "nombre": "Adán, Leonor",
+       "orcid": null
+      },
+      {
+       "nombre": "Carabias, Diego",
+       "orcid": null
+      }
+     ],
+     "resumen": "La ciudad de Valdivia y su puerto fue clave en la estrategia militar española para la defensa de sus colonias del océano Pacífico contra las potenciales invasiones europeas. Sin embargo, la destrucción de la ciudad durante el gran alzamiento indígena de fines del siglo XVI dejó el emplazamiento sin ocupación hispana por más de cuarenta años. Recién en 1645 después de un intento fallido de ocupación holandesa se ordenó su reconstrucción desde el Virreinato del Perú con participación del Gobierno de Chile. Por su ubicación, dentro del territorio Mapuche al sur de la Araucanía, su abastecimiento de víveres y municiones ocurrió por mar, siendo el camino terrestre reservado para emergencias mayores. Esta investigación analiza los desafíos del abastecimiento marítimo del sistema defensivo de Valdivia en los primeros años de su instalación. Se examina el sistema de abastecimiento marítimo creado a raíz del Real Situado de Valdivia y cómo los capitanes de los barcos mercantes hicieron lo posible por liberarse de la tarea de trasladar los víveres desde Valparaíso hasta Valdivia.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/768",
+     "doi": "10.7770/cuhso-v36n1-art776",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v36n1-art1136",
+     "titulo": "“Jornadas Transculturais do Antigo Próximo-Oriente.” António José Gonçalves de Freitas & Adriano Milho Cordeiro (eds.). (2025). Edições Húmus. Braga, Portugal",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Salazar Valenzuela, Álvaro",
+       "orcid": null
+      },
+      {
+       "nombre": "Pérez Hernández, Diego",
+       "orcid": null
+      }
+     ],
+     "resumen": "Jornadas Transculturais do Antigo Próximo-Oriente published in 2025 by Edições Húmus and edited by António José Gonçalves de Freitas and Adriano Milho Cordeiro are the conference proceedings of the II Transcultural Days of the Ancient Near East held in 2023, between May 22 and June 7. This event was organized by researchers dedicated to the study of languages and cultures of the Ancient Near East, a concept understood as “the area encompassed by Mesopotamia, the Levant, Anatolia, Egypt and Mycenaean and Archaic Greece” (Freitas & Cordeiro, 2025, p. 9). One interesting aspect here is how in the Preface of the publication it is expressed that “(f)or various reasons, some authors were unable to submit their articles” (p. 9), and that is why the book contains and introduces a few but important research, especially for the Ancient World and Translation Studies’ perspective.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/1136",
+     "doi": "10.7770/cuhso-v36n1-art1136",
+     "paginas": null,
+     "fuente": "OAI-PMH"
     }
    ]
   },
   {
-   "id": "v30-n2-2021",
-   "volumen": "30",
+   "id": "v35-n1-2025",
+   "volumen": "35",
+   "numero": "1",
+   "anio": 2025,
+   "fecha": "2025-12-17",
+   "etiqueta": "Vol. 35, núm. 1 (2025)",
+   "fuente": "OAI-PMH",
+   "articulos": [
+    {
+     "id": "10.7770/cuhso-v35n1-art703",
+     "titulo": "Adquisición de unidades verbales en niños/as que desarrollan el chedungun en la región del Biobío",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Miranda Espinoza, Jonathan",
+       "orcid": null
+      },
+      {
+       "nombre": "Vivar Vivar, Pilar",
+       "orcid": null
+      },
+      {
+       "nombre": "Pilar",
+       "orcid": null
+      },
+      {
+       "nombre": "Pilar",
+       "orcid": null
+      }
+     ],
+     "resumen": "Durante los últimos años se ha priorizado el estudio de la adqui-sición de lenguas indoeuropeas sobre las indígenas. La UNESCO (2020) ha declarado la década del 2022 – 2032 como el mayor tiempo de declive en su documentación, por lo tanto, existe un llamado urgente a la investigación y registro de la adquisición en lenguas indígenas en el mundo (Kelly et al., 2015). Este estudio explora la adquisición de los verbos de dos niños/as que adquieren el chedungun como primera lengua en la región del Biobío (VIII). Específi-camente, nos hemos propuesto: a) Describir el orden de adquisición de ver-bos b) Comparar la adquisición de los verbos según el modo y el tiempo. Esta investigación sigue un diseño longitudinal de evolución de grupos o cohort. Este proceso es in situ con participación directa de las familias y contempla el registro periódico de los niños/a durante un año. Dentro de los resultados, se evidencia una adquisición sistemática de verbos, en ambos niños/as mapuche. Respecto a Javiera entre los 1;6 y 2;6 años presenta verbos simples de tiempo presente y pasado y marcas morfológicas de modos indicativo e imperativo. En el caso de Mateo entre 4;6 a 5;6 años, presenta verbos más complejos con tiempos verbales presente, pasado y futuro y modos imperativo, indicativo y subjuntivo. Sin embargo, aunque Mateo presente estructuras gramaticales más complejas que Javiera, aún faltan algunos elementos gramaticales para tener un desempeño lingüístico similar a la de un hablante adulto del chedungun.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/696",
+     "doi": "10.7770/cuhso-v35n1-art703",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v35n1-art866",
+     "titulo": "Alegorías del tiempo en el centenario del trabajo social chileno",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Castañeda-Meneses, Patricia",
+       "orcid": null
+      },
+      {
+       "nombre": "Salamé-Coulon, Ana María",
+       "orcid": null
+      }
+     ],
+     "resumen": "El 4 de mayo del año 2025 se conmemoran cien años de la fundación de la primera unidad especializada de Trabajo Social de Chile y de América Latina, lo que permite situar el paso del tiempo en la posición central de la conmemoración. La tradición de la antigua Grecia reconoce tres figuras mitológicas que simbolizan el tiempo y que corresponden al tiempo cronológico y secuencial de Kronos; el tiempo circular, inspirado en el paso cíclico de la naturaleza de Aión; y el tiempo de la oportunidad y de la inspiración de Kairós. En este marco, el objetivo del presente artículo es reflexionar sobre la conmemoración centenaria del Trabajo Social chileno desde las alegorías del tiempo expresadas en Kronos, Kairós y Aión, tomando como referentes los principales acontecimientos registrados en la bibliografía profesional especializada. Así entonces, en los cien años de Trabajo Social en Chile y América Latina, concurren en forma convergente la secuencia temporal virtuosa del Kronos, trazado a partir de los acontecimientos relevantes que marcan los calendarios profesionales; el tiempo vivencial de Kairós que simboliza las decisiones en contingencia que han fortalecido el saber especializado y la práctica social; y el tiempo de Aión, que representa un saber disciplinario y profesional distintivo e inmanente. Estas alegorías simbolizan concepciones y vivencias de un tiempo centenario, que fluye entre la permanencia y el cambio, enlazado con la vocación y el compromiso de Trabajo Social con un mundo social en permanente transformación.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/857",
+     "doi": "10.7770/cuhso-v35n1-art866",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v35n1-art685",
+     "titulo": "Aportes y desafíos de la asignatura lengua y cultura de los pueblos originarios ancestrales.",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Serrano, Javiera",
+       "orcid": null
+      }
+     ],
+     "resumen": "En los últimos años en Chile se han levantado diversos programas de educación intercultural, con falencias estructurales que develan una construcción desde una lógica utilitaria al sistema educativo monocultural y neoliberal chileno. Es desde este posicionamiento que se ha construido la asignatura de Lengua y cultura de los pueblos originarios ancestrales (LCPOA) que el Mineduc ha presentado a fin de hacerse cargo de la educación intercultural en Chile. La presente investigación tiene por objetivo analizar las representaciones, respecto de la asignatura en cuestión, que tiene el profesorado de 1° a 6° básico de la comuna de Valparaíso. Para ello se propuso un estudio de tipo cualitativo, de estudio de casos múltiples, mediante entrevistas semiestructuradas, que alcanzó los siguientes objetivos: conocer los aportes y dificultades que el profesorado identifica respecto de la implementación de la LCPOA, y, a partir de lo anterior, proponer una serie de recomendaciones de mejora para la asignatura en base a su discurso.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/678",
+     "doi": "10.7770/cuhso-v35n1-art685",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v35n1-art652",
+     "titulo": "Autoconstrucción y fronteras simbólicas: nuevas ciudadanías entre migrantes en campamentos de Santiago",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Barraza, Javiera",
+       "orcid": null
+      },
+      {
+       "nombre": "Pérez, Miguel",
+       "orcid": null
+      }
+     ],
+     "resumen": "El aumento de los flujos migratorios ha transformado importantemente las ciudades de Chile. En este contexto, la inclusión de las personas migrantes se ha convertido en un desafío para el Estado, ya que estos actores se encuentran generalmente expuestos a una serie de exclusiones. En una sociedad que se diversifica aceleradamente, la cuestión de la ciudadanía—esto es, el problema sobre quiénes pertenecen a la comunidad política—ha estado en el centro del debate público y académico. Basado en un estudio etnográfico en un campamento de Santiago habitado principalmente por extranjeros, en este artículo mostramos cómo las personas migrantes configuran formas alternativas de ciudadanía a través de la autoconstrucción de casas y el establecimiento de fronteras simbólicas. El artículo concluye que los migrantes, además de tensionar la usualmente asumida relación entre nacionalidad y ciudadanía, se constituyen como sujetos-ciudadanos a través de la experiencia cotidiana de habitar la ciudad.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/647",
+     "doi": "10.7770/cuhso-v35n1-art652",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v35n1-art704",
+     "titulo": "Biopolítica y género: entre exclusiones y agenciamientos colectivos vivos",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Arancibia Martínez, Leticia",
+       "orcid": null
+      },
+      {
+       "nombre": "Soto García, Pamela",
+       "orcid": null
+      },
+      {
+       "nombre": "Cáceres Julio, Gloria",
+       "orcid": null
+      }
+     ],
+     "resumen": "El artículo propone una discusión teórica acerca de la relación entre género y la biopolítica instituida en el sistema sociopolítico chileno actual, advirtiendo las dinámicas del contexto de crisis multisistémica del neoliberalismo, y los procesos de exclusión -social, económica, ambiental, política y epistémica – que reproducen las relaciones de poder marcadas por el sistema sexo/género. Analizaremos el problema desde una perspectiva teórica de alcances biopolíticos, recurriendo a un doble enfoque, el primero recupera la crítica a la tanatopolítica que amenaza la vida a escala global, y el segundo discute los alcances de una biopolítica afirmativa, que apuesta por dinámicas asociadas a prácticas de resistencia y sostenibilidad de la vida a contrapelo de la hegemonía patriarcal, colonial, clasista, mercantil, y extractivista en el contexto del capitalismo mundial integrado. La irrupción de los movimientos sociales ha mostrado su capacidad para producir nuevas prácticas y representaciones acerca de la sociedad, permitiendo, la apertura y la reflexión crítica para una relación entre género y biopolítica, que transforme prácticas, teorías y epistemes.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/697",
+     "doi": "10.7770/cuhso-v35n1-art704",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v35n1-art845",
+     "titulo": "Ciencia, progreso y discriminación: positivismo y evolucionismo en las élites intelectuales y políticas de Chile y América Latina (siglos XIX y XX)",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Blanco, Osvaldo",
+       "orcid": null
+      },
+      {
+       "nombre": "Osorio-Rauld, Alejandro",
+       "orcid": null
+      }
+     ],
+     "resumen": "El presente texto analiza la adopción del positivismo y el evolucionismo en los discursos de las élites políticas e intelectuales del siglo XIX y principios del XX, con el objetivo de caracterizar el énfasis en el orden, el progreso y el racismo. Se comienza por examinar los elementos filosóficos más importantes de ambas corrientes, para luego contextualizar su influencia en el panorama ideológico de las élites decimonónicas, especialmente en relación con el proceso de construcción de la identidad nacional y el imaginario de la oralidad, su influencia en el racismo y sus vicisitudes políticas internas. Estas corrientes filosóficas ofrecieron un soporte ideológico que, circunstancialmente, sirvió para suavizar tensiones internas en los grupos dominantes, divididos entre conservadurismo y liberalismo, así como entre aspectos autoritarios y progresistas.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/836",
+     "doi": "10.7770/cuhso-v35n1-art845",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v35n1-art790",
+     "titulo": "Clínicas Jurídicas en Chile y América Latina: inicios, modelos y Protocolos de actuación",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Faundes Peñafiel, Juan Jorge",
+       "orcid": null
+      },
+      {
+       "nombre": "Fernández Míguez, Sheila",
+       "orcid": null
+      },
+      {
+       "nombre": "Rivas Arias, Valeska",
+       "orcid": null
+      }
+     ],
+     "resumen": "La investigación presenta un estado del arte sobre las clínicas jurídicas en América Latina, con énfasis en el caso chileno. Se identifican los principales hitos y tensiones de los procesos clínico-jurídicos contemporáneos, así como las metodologías que sustentan su funcionamiento pedagógico. El estudio describe la evolución histórica del modelo, clasifica los distintos enfoques aplicados y analiza críticamente la existencia —o ausencia— de protocolos institucionales de atención en diversas facultades de Derecho de la región. Asimismo, se expone la experiencia piloto del “Protocolo de atención clínico-jurídica con perfil intercultural para población migrante e indígena, con enfoque de género”, desarrollado por la Universidad Autónoma de Chile, como un modelo pionero de innovación institucional. El trabajo evidencia las brechas en la formalización de estos instrumentos y destaca buenas prácticas emergentes en materia de enseñanza clínica y justicia social. La metodología es cualitativa e inductiva, basada en revisión bibliográfica y documental. Este estudio, dirigido a la comunidad científica pedagógica clínica del Derecho, de Chile y América Latina, busca apoyar otros procesos de implementación de clínicas jurídicas bajo perfil intercultural y de género, con ello contribuir a la formación inclusiva e intercultural de los y las futuros profesionales del Derecho.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/782",
+     "doi": "10.7770/cuhso-v35n1-art790",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v35n1-art863",
+     "titulo": "Colonialidad del cuerpo, subjetivación y dualismo ontológico: acerca de la necesidad mestiza de reexistir para coexistir",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Álvarez-Watanabe, Daniela",
+       "orcid": null
+      }
+     ],
+     "resumen": "Todo mundo/ontología produce modos de subjetivación y todo modo de subjetivación produce mundo(s)/ontologías. Heredamos, al mismo tiempo que (re)producimos, un modo de subjetivación que es correlativo a las condiciones ontológicas de mundo. La ontología del proyecto moderno colonial se ha impuesto como mundo único, a costa de negar la coexistencia de otros. Frente a tal escenario, se plantea la necesidad de re-existir para co-existir como una práctica ética relacional que permite revisar, interpelar y sanar heridas coloniales funcionales a la dominación. Para ello, el trabajo organiza tres discusiones: (1) el problema de la coexistencia que abre el campo de la ontología política y su relación con la conciencia de la nueva mestiza, (2) los mecanismos y estrategias de la colonialidad del poder, saber y ser que contribuyeron a la internalización subjetiva de sus lógicas, y (3) la corporalidad, temporalidad y territorialidad como dimensiones de subjetivación que permiten hacer una cartografía corporal sobre las heridas coloniales y sus prácticas de fragmentación. Finalmente, se reflexiona sobre la memoria en clave relacional y cosmopolítica como parte del exceso pulsional de la mestiza, en el marco de las transiciones al Pluriverso.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/854",
+     "doi": "10.7770/cuhso-v35n1-art863",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v35n1-art833",
+     "titulo": "Comprender el diálogo Interreligioso e Intercultural situado en la región de La Araucanía bajo la perspectiva del concepto de empatía según la filosofía de Edith Stein",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Sleiman Mora, Mahara",
+       "orcid": null
+      }
+     ],
+     "resumen": "Este estudio se centra en una experiencia de diálogo interreligioso e intercultural llevado a cabo en la región de La Araucanía, analizando su desarrollo a través del concepto de empatía, según la filosofía de Edith Stein. La investigación parte del reconocimiento de que las expresiones religiosas juegan un papel crucial en las interacciones en contextos de diversidad cultural y espiritual. Comprender cómo se desarrolla el proceso de empatía en los diálogos entre líderes religiosos y espirituales en La Araucanía y con ello se busca identificar factores que facilitan o dificultan esta práctica y tipificar los elementos esenciales para establecer un espacio dialógico efectivo. Se utilizó principalmente la teoría de la fenomenóloga Edith Stein sobre el problema de la empatía, en diálogo con teóricos del diálogo interreligioso e intercultural. La investigación se enmarca en una perspectiva cualitativa a través de un estudio de caso. El método analítico de los datos corresponde a un análisis de contenido categorial temático (Bardín, 2002). El estudio considera las tres etapas señaladas; la información se organizó y clasificó en atención a núcleos temáticos semejantes y divergentes en torno a los objetivos de la investigación, construyéndose núcleos, categorías, unidades y subunidades. La técnica de recogida de información corresponde a entrevistas semiestructurada a seis personas: dos de ellas de origen eclesiástico uno católico y un protestante metodista, un miembro de la comunidad Baha´í, una mujer laica de un movimiento pastoral mapuche y dos loncos mapuches, un hombre y una mujer. La empatía no se limita a la tolerancia, sino que implica una comprensión profunda del otro, respetando su alteridad. La pluralidad religiosa y cultural en la región incluye diversas corrientes del cristianismo y la espiritualidad mapuche y otras religiosidades, lo que genera tanto oportunidades como desafíos para el diálogo. Se observa que el fundamentalismo puede obstaculizar estos esfuerzos, creando guetos y actitudes excluyentes. Sin embargo, el diálogo interreligioso se presenta como un imperativo para abordar problemas sociales contemporáneos, promoviendo un entendimiento basado en valores compartidos.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/824",
+     "doi": "10.7770/cuhso-v35n1-art833",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v35n1-art864",
+     "titulo": "Construcción y crítica de una categoría colonial: acerca del informante en la primera lingüística sudamericana",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Ennis, Juan Antonio",
+       "orcid": null
+      },
+      {
+       "nombre": "Pfänder, Stefan",
+       "orcid": null
+      }
+     ],
+     "resumen": "El presente trabajo se propone dar cuenta de un aspecto preciso la obra de Rodolfo Lenz en los primeros años de su labor en Chile: el lugar del informante en la construcción del objeto de estudio, tanto del español chileno como sobre todo de lo que él persistirá en llamar “araucano”. En la figura del informante y en la descripción de su interacción con el especialista se puede observar un aspecto fundamental del rol del discurso especializado en la construcción discursiva del artefacto político llamado “lengua”, a través de un juego entre la autoridad y la delegación epistémica, entre el capital simbólico del lingüista profesional y la autenticidad del hablante nativo. Atendiendo a la caracterización y valoración de los distintos informantes con los que trabaja, los rasgos específicos de sus aportes, los métodos que emplea para obtener sus testimonios y las distinciones que establece entre ellos, pueden observarse las contradicciones inherentes a la colonialidad del saber antropológico y lingüístico que encontraba en Lenz un representante idóneo y destacado.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/855",
+     "doi": "10.7770/cuhso-v35n1-art864",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v35n1-art796",
+     "titulo": "Delincuentes caqui y su modus operandi en casos de feminicidio desde la Sociología criminal",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Díaz Rincón, Sandra Viviana",
+       "orcid": null
+      }
+     ],
+     "resumen": "En este artículo se propone como objetivo el análisis del perfil criminológico de 4 delincuentes caqui que incurren en el delito de feminicidio desde la Sociología Criminal en el marco de la investigación, enfoque, diseño y método cualitativo-descriptivo, cuyas técnicas e instrumentos de recolección de información: revisión documental, análisis de texto y el estudio de caso coadyuvan con la identificación de los antecedentes penales del agente del delito y su estatus, el nivel de escolaridad, la ubicación geográfica, el desarrollo interpersonal, familiar y actitud frente a sus observadores y el tipo de víctima elegida como factores incidentes en su conducta delictiva. Como resultado se expone que los delincuentes caqui pueden normalizar sus delitos y adaptarse a diferentes contextos. Finalmente, se concluye que, el estudio de la conducta de los delincuentes caqui permite la indagación acerca de las posibles causas de su desviación y criminalidad y la necesidad de prevenir su reincidencia.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/788",
+     "doi": "10.7770/cuhso-v35n1-art796",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v35n1-art818",
+     "titulo": "Dependientes, vulnerables, capaces. Receptividad y Vida Ética,2020. Autor: Xabier Etxeberría Mauleon. Ediciones Catarata",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Villar Olaeta, Javier",
+       "orcid": null
+      }
+     ],
+     "resumen": null,
+     "idioma_resumen": null,
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/809",
+     "doi": "10.7770/cuhso-v35n1-art818",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v35n1-art594",
+     "titulo": "Desafíos de la incorporación del conocimiento indígena en la educación infantil en perspectiva intercultural",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Arias-Ortega, Katerin",
+       "orcid": null
+      },
+      {
+       "nombre": "Morales, Soledad",
+       "orcid": null
+      },
+      {
+       "nombre": "Quintriqueo, Segundo",
+       "orcid": null
+      }
+     ],
+     "resumen": "El artículo presenta una propuesta de articulación de núcleos de contenidos de aprendizaje de Educación Parvularia propuestos por el Ministerio de Educación de Chile y el conocimiento educativo mapuche, para la formación de niños indígenas y no indígenas, desde un enfoque educativo intercultural. El problema que plantea el artículo es que en el currículum de Educación Parvularia se observa una ausencia de conocimientos educativos indígenas, para sustentar la formación de los niños con pertinencia social, cultural y territorial, lo que incide en la pérdida de la identidad sociocultural mapuche y trae como consecuencia la construcción de la vergüenza étnica en la medida que se avanza en el proceso de escolarización formal. Se discute la teoría desde un enfoque crítico que cuestiona las relaciones de poder y formación en las futuras/os educadores de párvulos centrada en un enfoque eurocéntrico monocultural que no les entrega las herramientas didácticas y metodológicas para desenvolverse en contextos de diversidad sociocultural, lo que les permita ofrecer una for mación escolar que incorpore los saberes y conocimientos educativos propios presentes en los territorios indígenas. Concluimos que incorporar en la Educación Parvularia la pedagogía y educación indígena, asegura el éxito escolar y educativo de los niños, ya que ofrece procesos de enseñanza y aprendizaje con pertinencia sociocultural y territorial con base en el desarrollo de la identidad sociocultural, para formar nuevos ciudadanos fuertes emocionalmente con un sentido de pertenencia y arraigo territorial, que les permita desenvolverse adecuadamente en un mundo local y global caracterizado por la diversidad.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/590",
+     "doi": "10.7770/cuhso-v35n1-art594",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v35n1-art883",
+     "titulo": "Descolonización en Wallmapu: Una mirada desde el trabajo social mapuche inserto en contextos de injusticia social y trauma colonial",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Huenchucoy Millao, Luz Marina",
+       "orcid": null
+      },
+      {
+       "nombre": "MacAdoo Espinoza, Andrés",
+       "orcid": null
+      }
+     ],
+     "resumen": "Este artículo analiza la compleja relación entre el trabajo social mapuche, el Estado y la lucha por la autonomía indígena, desde una perspectiva crítica y situada en la experiencia histórica del pueblo mapuche. Se explora cómo los trabajadores sociales mapuche enfrentan una tensión estructural entre su propia historia y el ejercicio profesional dentro de instituciones estatales. En cinco secciones se examina la paradoja de su labor en la reproducción o capacidad de interpelar a las estructuras de dominación, el rol del Estado en la perpetuación de la violencia y la necesidad de descolonizar el trabajo social desde la cotidianidad y la reconstrucción de redes comunitarias. Se presentan las mediaciones dialógicas mapuche que pueden contribuir en las estrategias de autonomía y la memoria de lucha en la reconfiguración de subjetividades descolonizadas. Se concluye que la descolonización del trabajo social mapuche es un proceso continuo de disputa, en el cual la co-producción de conocimiento y la reflexividad (rakizuam) tienen un rol significativo en la regeneración del tejido social y político mapuche en el largo plazo.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/872",
+     "doi": "10.7770/cuhso-v35n1-art883",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v35n1-art887",
+     "titulo": "Dimensiones Codigofágicas y Cosmohistóricas del Altepetl de Chalco en el Diario (1606) de Domingo Chimalpahin.",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Viveros Espinosa, Alejandro",
+       "orcid": null
+      },
+      {
+       "nombre": "Gutiérrez Uribe, Paulina",
+       "orcid": null
+      }
+     ],
+     "resumen": "Este escrito busca desplegar dos enfoques teórico-conceptuales: la codigofagia de Bolívar Echeverría y la cosmohistoria de Federico Navarrete para la interpretación de una obra específica relativa al mundo colonial mesoamericano, a saber, el Diario (1606) escrito por el cronista indígena Domingo Chimalpahin. Nuestro acercamiento es exploratorio, por ello consideraremos la presencia, función y sentidos de un término socio-político complejo en los estudios mesoamericanos: el altepetl, a través de un caso específico, Chalco, el altepetl de Chimalpahin. Procuraremos explicar los conceptos y dar forma a una lectura que repara en las relaciones e intercambios, reflexionando en cómo se presentan dimensiones codigofágicas y cosmohistóricas en esta particular obra.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/876",
+     "doi": "10.7770/cuhso-v35n1-art887",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v35n1-art828",
+     "titulo": "Dos décadas de programas de transferencias condicionadas de ingresos en Argentina. Una mirada de género: Uma perspectiva de gênero",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Alonso, Virginia Noemí",
+       "orcid": null
+      },
+      {
+       "nombre": "Brown, Brenda",
+       "orcid": null
+      },
+      {
+       "nombre": "Brown, Brenda",
+       "orcid": null
+      },
+      {
+       "nombre": "Brown, Brenda",
+       "orcid": null
+      }
+     ],
+     "resumen": "El artículo analiza las implicancias de la política asistencial argentina para la igualdad económica de género, identificando continuidades y rupturas durante las distintas gestiones presidenciales comprendidas entre 2003 y 2023. Para ello, se enfoca en los programas de transferencias condicionadas de ingresos, abordándolos desde un enfoque analítico que articula elementos de las teorías críticas del Estado, las teorías feministas de la reproducción social y el estructuralismo latinoamericano. Mediante una metodología mixta, el artículo reconstruye el derrotero de dichos programas a lo largo de dos décadas de creaciones, reformulaciones y reemplazos al vaivén de estrategias gubernamentales de inclusión social, menos o más alineadas con el enfoque de género. En consonancia, los resultados muestran el reforzamiento o relajamiento de formas de regulación de la fuerza de trabajo excluida que reproducen la división sexual del trabajo y las desigualdades de género en el plano productivo y reproductivo. A su vez, se hecha luz sobre aquellas decisiones que han implicado avances en materia de igualdad.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/819",
+     "doi": "10.7770/cuhso-v35n1-art828",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v35n1-art862",
+     "titulo": "El Trabajo Social ante el avance del populismo de derecha",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Alzueta Galar, Igor",
+       "orcid": null
+      }
+     ],
+     "resumen": "Este ensayo tiene por objetivo problematizar el quehacer del trabajo social al calor del avance de los populismos de derecha en Latinoamérica. Retomando la teoría de la hegemonía de Gramsci como herramienta analítica, se propone un recorrido por el trabajo social como caja de resonancia del proyecto ideológico de las élites. Desde ahí, se profundiza en lo que el artículo denomina profesional generador como antítesis del profesional reproductor, ofreciendo líneas de trabajo para este trabajo social crítico. El ejercicio es el resultado de un trabajo hermenéutico crítico, de revisión de textos y literatura en el contexto de la disciplina y las ciencias sociales. Pretende salir de las lecturas diagnósticas, entregado puntos de fuga en la intervención directa. Todo ello en un contexto de enormes riesgos e incertidumbres para los grupos con los que el Trabajo Social se vincula, en virtud del avance de gobiernos populistas y la instalación un sentido común de carácter individualizador y meritocrático.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/853",
+     "doi": "10.7770/cuhso-v35n1-art862",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v35n1-art709",
+     "titulo": "El discurso sobre la industria forestal en los medios de comunicación: Una revisión sistemática de artículos científicos",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Maurelia Burgos, Felipe",
+       "orcid": null
+      }
+     ],
+     "resumen": "La industria forestal es una de las áreas económicas de mayor relevancia en diversos países. Esto debido al desarrollo de celulosa, papel y madera de distintas categorías y especies, las que aportan directamente en el PIB y el establecimiento de industrias sustentadas en recursos naturales. Es así que este artículo de revisión sistemática considera trabajos indexados en Web of Science (WoS) y Scopus, los que observan la construcción discursiva de la industria forestal en medios de comunicación. La fundamentación se sustenta en la mirada de diversos medios periodísticos analizados sobre el accionar de la industria forestal en la bioeconomía, el cambio climático y las problemáticas que surgen a raíz del desarrollo de esta en diversos territorios. La temporalidad de la revisión considera 10 años, desde 2013 a 2023, lo que arrojó un total de 35 artículos. Los resultados observados indican que lo cualitativo lidera como orientación metodológica en los artículos, a su vez, los ejes temáticos más relevantes son la política, la economía y el medioambiente, donde este último posee mayor presencia como tema recurrente bajo la figura de la sustentabilidad, mientras que la teoría del framing es utilizada mayoritariamente para observar y analizar el corpus.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/702",
+     "doi": "10.7770/cuhso-v35n1-art709",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v35n1-art852",
+     "titulo": "El extraño prestigio en los números redondos: Canada-Chile Solidarity, 1973-1990. Testimonies of Civil Society Action, editado por Liisa North, Toronto, Novalis, 2023, 288 páginas. 50 años después. Uprooted and Replanted in Exile. Reflexions of Being Chilean Canadian, editado por Casa Salvador Allende, Toronto, CASAT, 2023, 378 páginas",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Rivera Amaro, Francisco",
+       "orcid": null
+      }
+     ],
+     "resumen": null,
+     "idioma_resumen": null,
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/843",
+     "doi": "10.7770/cuhso-v35n1-art852",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v35n1-art674",
+     "titulo": "El problema económico-social de la tierra en el espacio rural de la Araucanía: un análisis histórico (1910-1998)",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Pareja Arellano, Nicolas",
+       "orcid": null
+      },
+      {
+       "nombre": "Riquelme Brevis, Hernán",
+       "orcid": null
+      },
+      {
+       "nombre": "Sandoval Obando, Eduardo",
+       "orcid": null
+      }
+     ],
+     "resumen": "El presente artículo tiene como objetivo comprender el problema de la tierra en la Araucanía a partir de su desarrollo histórico, considerando principalmente sus dimensiones socioeconómicas y sus consecuencias políticas. Para ello, se realiza un análisis en base a antecedentes bibliográficos, lo que permite trazar una trayectoria de diversos hitos que han marcado los caminos de la Araucanía hasta hoy. En este sentido, algunas de las características actuales de la región, como la pobreza, la desigualdad y el conflicto, se pueden analizar desde la mirada de las acciones y acontecimientos que ocurrieron en este período. Las principales conclusiones señalan que la ocupación y colonización de la Araucanía por parte del Estado chileno, dan lugar a una serie de problemas locales con respecto a la tierra que no se han resuelto, sino que han avanzado y se han extendido. Esto ha generado inestabilidad en el espacio rural de la región, por lo que los problemas sociales y económicos provocan nuevas crisis políticas. El problema de la tierra, muy ligado al subdesarrollo, en este período pasó de ser un problema económico-social, a un problema político permanente, una disputa por el territorio, en una lógica colonización y resistencia (descolonización).",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/667",
+     "doi": "10.7770/cuhso-v35n1-art674",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v35n1-art761",
+     "titulo": "El sentir de una nación: ideología del mestizaje en los libros de texto gratuitos de educación primaria en México",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Delgado Román, Adriana",
+       "orcid": null
+      }
+     ],
+     "resumen": "En México el mestizaje se propuso como un símbolo de identidad que planteó la existencia de un nuevo ciudadano, uno que combinó las ideas sobre la raza cósmica y la cultura popular existente en el país. Este mestizaje se comprende como un desplazamiento de lo no deseado que promueve procesos de segregación, discriminación, racismo, al instaurarse a partir de una de sus principales dicotomías: barbarie-civilización y que se relacionan con procesos como la desindianización, blanqueamiento, y asimilación de la población indígena a la nación como",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/754",
+     "doi": "10.7770/cuhso-v35n1-art761",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v35n1-art787",
+     "titulo": "Encarcelamiento femenino y vida intrapenitenciaria en Chile: hallazgos de estudio nacional",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Sanhueza, Guillermo",
+       "orcid": null
+      }
+     ],
+     "resumen": "En los últimos años, ha aumentado la preocupación por la situación de las mujeres encarceladas en Latinoamérica, sus vínculos con delitos relacionados con drogas y las limitaciones del sistema penitenciario actual para ofrecer respuestas significativas a sus necesidades. Sin embargo, la información empírica sobre ellas en la región es escasa. Para subsanar parte de esta deficiencia, utilizamos datos de un estudio cuantitativo nacional realizado en Chile en 2022 y analizamos la situación de las mujeres encarceladas en diversos aspectos. Los resultados muestran que los elementos más problemáticos de la vida femenina en prisión serían el aburrimiento, el alto consumo de drogas, el sufrimiento psicológico y el acceso limitado a programas, todo lo cual refleja un entorno penitenciario poco sensible y comprensivo con las necesidades de las mujeres. Por otro lado, las condiciones de la infraestructura, la relación con los guardias y la resiliencia tras las rejas fueron aspectos valorados positivamente por las mujeres encarceladas, ofreciendo un espacio para la esperanza y para intervenciones innovadoras. El modelo de regresión OLS explicó el 50,8 % de la variación en la construcción de significado (resiliencia) en la muestra, con predictores positivos significativos como el trato justo por parte de los guardias, la percepción de que los guardias las cuidan y el acceso a formación laboral o vocacional. Una percepción de alto consumo de drogas al interior de la cárcel, un mayor uso de los paramédicos y el acceso a una mayor cantidad de alimentos obstaculizaban la construcción de significado y la resiliencia. En conjunto, estos hallazgos sugieren que la presencia de guardias apoyadores y justos, junto con la generación de habilidades laborales, oportunidades de ingresos y entornos libres de drogas, podría favorecer la construcción de significados y la resiliencia de las mujeres en prisión.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/779",
+     "doi": "10.7770/cuhso-v35n1-art787",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v35n1-art802",
+     "titulo": "Epidemiología crítica y la salud de los pueblos",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Castro Garrido, Marcela",
+       "orcid": null
+      },
+      {
+       "nombre": "Piñones-Rivera, Carlos",
+       "orcid": null
+      },
+      {
+       "nombre": "Parada-Lezcano, Mario",
+       "orcid": null
+      }
+     ],
+     "resumen": "En este artículo se reseña el libro Epidemiología crítica y la salud de los pueblos del destacado académico ecuatoriano Jaime Breilh. A través de una lectura comprometida y reflexiva, los autores destacan las principales contribuciones de esta obra a los estudios de salud colectiva, epidemiología crítica y medicina social desde una perspectiva latinoamericana, transdisciplinaria e intercultural. La reseña pone en valor el llamado del autor a una ciencia ética, valiente y emancipadora, comprometida con los territorios, los pueblos indígenas y los movimientos sociales. Asimismo, se enfatiza la crítica que Breilh realiza al pensamiento cartesiano, al rol de las universidades en la reproducción de la lógica neoliberal y a las formas hegemónicas de producción científica, proponiendo una ciencia militante que contribuya a la transformación social y al buen vivir.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/794",
+     "doi": "10.7770/cuhso-v35n1-art802",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v35n1-art894",
+     "titulo": "Evaluación ética y vulnerabilidad en Chile: La producción de conocimiento en ciencias sociales",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Infante, Marta",
+       "orcid": null
+      },
+      {
+       "nombre": "Rojas Lasch, Carolina",
+       "orcid": null
+      }
+     ],
+     "resumen": "En Chile, las políticas estatales han desarrollado orientaciones éticas para la investigación fortaleciendo los comités ético-científicos (CECS) y el desarrollo de dispositivos éticos de evaluación de la investigación. En este ensayo reflexionamos sobre el entramado de normas y prácticas que configuran la evaluación ética, preguntándonos por los efectos que tiene la forma en que se concibe la vulnerabilidad. Esta noción no solo orienta la evaluación ética, sino que también modela los marcos posibles de desarrollo de las investigaciones. A partir de los aportes de los estudios críticos de la vulnerabilidad y, en particular, de la discapacidad, nos interesa problematizar los riesgos de entender la vulnerabilidad como una condición fija, atribuible a ciertos grupos o individuos. Si las investigaciones que abordan a sujetos clasificados como “vulnerables” son restringidas por comités éticos debido a dicha clasificación, esto representa un problema relevante en términos científicos. Desde las ciencias sociales, este debate ha sido especialmente limitado, lo que puede tener consecuencias significativas al obstaculizar el desarrollo de investigaciones originales e innovadoras capaces de iluminar transformaciones hacia una sociedad más justa.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/882",
+     "doi": "10.7770/cuhso-v35n1-art894",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v35n1-art640",
+     "titulo": "Extractivismo, patrón de reproducción del capital y renta de la tierra: propuesta teórica desde la economía política crítica",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Cuevas Valdés, Pablo",
+       "orcid": null
+      },
+      {
+       "nombre": "Calderón-Seguel, Matías",
+       "orcid": null
+      }
+     ],
+     "resumen": "Los estudios latinoamericanos sobre el extractivismo han generado importantes contribuciones al visibilizar, denunciar y caracterizar múltiples conflictos socioambientales que emergen en torno a la producción en gran escala de alimentos y materias primas exportadas al mercado mundial. Sin embargo, existe un desequilibrio en estas investigaciones. A la par que abundan indagaciones que caracterizan dinámicas y conflictos socioambientales en diversos territorios, la discusión y construcción teórica del concepto de extractivismo es acotada. El propósito de este artículo es plantear un debate teórico que, tomando en cuenta los aportes anteriores, realice una propuesta conceptual respecto del extractivismo, haciéndose cargo de múltiples dimensiones y escalas que lo componen. Para ello, se propone entender la noción de extractivismo en un nivel de abstracción que permita el análisis de las modalidades históricas y geográficamente definidas del capitalismo dependiente en sus manifestaciones supraestatales, nacionales y territoriales. En este sentido, lo entendemos como una modalidad específica del patrón de reproducción del capital exportador donde la captación de renta de la tierra tiene un rol central en los sectores ejes del capital. Así, esperamos contribuir con un marco para el desarrollo de estudios concretos sobre las dinámicas suscitadas por el extractivismo en sus diferentes escalas.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/635",
+     "doi": "10.7770/cuhso-v35n1-art640",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v35n1-art871",
+     "titulo": "Genealogía del Trabajo Social. Lo dicho y No dicho en la formación originaria en Chile",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Cortés-Mancilla, Rodrigo",
+       "orcid": null
+      }
+     ],
+     "resumen": "El presente artículo tiene como objetivo revisitar y tensionar la historia presente del Trabajo Social en Chile y Latinoamérica, considerando la formación originaria de la profesión, sus inicios, principales hitos y momentos históricos, el Estado y sus dispositivos, el concepto de sociedad, las contradicciones y el legado de una disciplina que nos emplaza a observarnos. Lo anterior, es un imperativo, ante el centenario de la disciplina, entonces la invitación es remirar desde un enfoque genealógico-contemporáneo, dando un salto epistemológico, teórico y político, indispensable para el rescate y resignificación del legado que porta la herencia material y simbólica. Para desarrollar el artículo se realizó una revisión documental, desde una lectura inédita, (re)interpretando el acontecer de los primeros dispositivos de Trabajo Social en la historia de Chile y Latinoamérica. Esto desde un método genealógico, lo que implica un eterno retorno y relectura, con lo que aprendemos a vivir con los espectros del pasado, en la charla, la compañía o el aprendizaje. Implica el eterno retorno para proyectar el por-venir de la formación en Trabajo Social. Se concluye, que el vínculo entre Trabajo Social, ideología y acontecimientos es clave para revisitar la disciplina, en diálogo con otras corrientes críticas contemporáneas para el presente-futuro.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/862",
+     "doi": "10.7770/cuhso-v35n1-art871",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v35n1-art882",
+     "titulo": "Identidad profesional de Trabajo Social en tiempos de dictadura cívico militar. Un Análisis desde el Colectivo de Trabajo Social (1981-1990)",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Véliz Bustamante, Camila",
+       "orcid": null
+      },
+      {
+       "nombre": "García Benítez, Katia",
+       "orcid": null
+      },
+      {
+       "nombre": "Araya Añicoy, Rosa",
+       "orcid": null
+      }
+     ],
+     "resumen": "La dictadura cívico militar generó múltiples quiebres en la vida social del país, específicamente, las profesiones del campo de lo social se vieron fuertemente afectadas. En el caso del Trabajo Social, estos quiebres se pueden observar, en al menos dos niveles, uno de carácter inmediato, respecto a la intervención de las universidades, donde se impuso la represión y persecución política, sumado a los despedidos y exoneraciones que se produjeron en los organismos del Estado. Un segundo nivel, sería el cambio abrupto respecto de la formación universitaria y la intervención profesional. Ante ello, surge el Colectivo de Trabajo Social (1981), que se constituye con el objetivo de generar un espacio de intercambio y reflexión sobre el quehacer profesional para problematizar y repensar las apuestas disciplinares respecto de la intervención social apropósito de la situación del país y las consecuencias para los sectores populares. En este artículo, nos proponemos recuperar esta experiencia con el objetivo de problematizar la construcción de la identidad profesional y de la intervención social promovida por este colectivo. Metodológicamente, nos hemos aproximado a través de entrevistas a sus integrantes y el análisis de documentos, particularmente la memoria institucional y la revista Apuntes para Trabajo Social editada por este colectivo. El estudio da cuenta de la construcción de identidades profesionales, que estuvieron en disputa, y se enfatiza en un conjunto de prácticas y principios de la acción profesional que ponen al centro el respeto a la dignidad humana, los Derechos Humanos y la re- organización popular.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/871",
+     "doi": "10.7770/cuhso-v35n1-art882",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v35n1-art860",
+     "titulo": "Incorporación del enfoque de derechos en la gestión local migratoria en Chile",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Colmenares Mejías, Neida Josefina",
+       "orcid": null
+      },
+      {
+       "nombre": "Sibrian Díaz, Nairbis",
+       "orcid": null
+      },
+      {
+       "nombre": "Gissi Barbieri , Nicolás",
+       "orcid": null
+      }
+     ],
+     "resumen": "En Chile, el 9% de la población son personas migrantes que residen mayoritariamente (el 80%) en apenas el 14% de sus comunas. Esta alta concentración territorial de la migración es una particularidad del caso chileno, pero se investiga poco al respecto y no existe una política nacional que oriente de manera efectiva la gestión pública migratoria a nivel territorial. Por esto, el artículo contribuye a determinar las características de la gestión local migratoria chilena y su posible enfoque de derechos desde la perspectiva de los funcionarios públicos que trabajaban directamente con población migrante y refugiada entre 2023 y 2024. Se utilizó un diseño de investigación exploratorio y descriptivo, basado en un enfoque cuantitativo. Los datos se recopilaron mediante una encuesta en la que participaron 465 funcionarios de 158 municipalidades. Los resultados muestran que las mujeres venezolanas, colombianas y haitianas son quienes más solicitan ayudas sociales y que, a mayor población migrante en una comuna, mayor es la demanda de regularidad y protección frente a la violencia de género. La oferta municipal es fragmentada y posee niveles insuficientes de coordinación con el Estado central. Se elaboró un índice de implementación del enfoque de género y se estimó el nivel de implementación del enfoque de derechos, obteniendo niveles medios con asimetrías territoriales. Los mensajes de los medios de comunicación y de los políticos de la oposición al gobierno aparecen como la principal dificultad en el trabajo local con población migrante, y los principales desafíos son la capacitación y el fortalecimiento institucional municipal.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/851",
+     "doi": "10.7770/cuhso-v35n1-art860",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v35n1-art803",
+     "titulo": "Inequidades persistentes: una revisión sistemática sobre la presencia femenina y las desigualdades de género en la academia mexicana",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Araya, Isabel",
+       "orcid": null
+      },
+      {
+       "nombre": "Guizardi, Menara",
+       "orcid": null
+      }
+     ],
+     "resumen": "El artículo presenta una revisión sistemática de los estudios sobre la experiencia de las mujeres como estudiantes de la educación superior, y su inserción laboral como las investigadoras y docentes universitarias en México. Nuestro análisis recupera aspectos históricos desde fines del siglo diecinueve, pero su énfasis está puesto en comprender las brechas de género que las mujeres enfrentan en estos ámbitos y las transformaciones que se impulsaron en las últimas cuatro décadas. El objetivo es ofrecer un panorama cualitativo sobre las desigualdades y violencias de género en el campo científico-universitario del país. La discusión se inicia contextualizando la inserción femenina en las universidades mexicanas hasta la década de los ochenta. Luego, se analizan los años noventa, periodo contradictorio de aseveración de las políticas neoliberales y de institucionalización de los estudios de género. También se revisa la primera década del siglo veintiuno, caracterizada por una mayor presencia de mujeres en las plantas académicas y por la precarización de sus labores. Para el periodo 2010-2024, se analiza la persistencia de inequidades y la presión política de la militancia de académicas y estudiantes. En las conclusiones, se discute el carácter sistémico del androcentrismo en las universidades y ciencias mexicanas.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/795",
+     "doi": "10.7770/cuhso-v35n1-art803",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v35n1-art909",
+     "titulo": "Interdisciplina: ¿Qué es y por qué importa? Entrevista al Dr. Jaime Huincahue",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "miranda-rojas, rafael",
+       "orcid": null
+      },
+      {
+       "nombre": "Huincahue, Jaime",
+       "orcid": null
+      }
+     ],
+     "resumen": "Entrevista al Dr. Jaime Huincahue.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/896",
+     "doi": "10.7770/cuhso-v35n1-art909",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v35n1-art938",
+     "titulo": "La casa vicerregia de Luis de Velasco: afianzamiento de la Corte virreinal novohispana, 1550-1564",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Robles Bocanegra, Javier",
+       "orcid": null
+      }
+     ],
+     "resumen": "El establecimiento del primer virrey de Nueva España, Antonio de Mendoza, en la Ciudad de México (1535-1550) propició que este lugar se convirtiera en Corte virreinal porque se volvía el asiento del alter ego del rey y del gobierno del reino. Este panorama ocasionó que desde dicha ciudad se empezara a entretejer la articulación político-social de Nueva España a través de mediaciones personales, que eran los elementos fundamentales de la cohesión de la Corte regia. De la misma manera, la Ciudad de México servía de asiento a la casa del virrey que funcionaba como núcleo de la Corte virreinal, ya que los criados de su séquito eran colocados en oficios de justicia, hacienda y guerra de los organismos de gestión (Audiencia, Hacienda, corregimientos, alcaldías mayores, ayuntamientos, etc.). Todo esto reflejaba las bases del afianzamiento cortesano que forjó Mendoza. Por tanto, el artículo analiza la organización de la casa del segundo virrey novohispano, Luis de Velasco, para entender la continuidad del ordenamiento del servicio doméstico mediante los vínculos de amistad, familiaridad, confianza, fidelidad, paisanaje, etc., que construía ese mandatario con sus sirvientes más poderosos e influyentes, quienes se adueñaban de puestos claves de la administración del virreinato. Esto significaba el reforzamiento y perpetuidad de la «domesticación» del gobierno del reino, lo cual implicaba que la Corte virreinal novohispana desarrollara plenamente su consolidación como sistema de poder. Nuestras principales fuentes son los mandamientos virreinales, las correspondencias de autoridades y los cargos de la visita contra Velasco.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/925",
+     "doi": "10.7770/cuhso-v35n1-art938",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v35n1-art917",
+     "titulo": "La construcción de la subjetividad de Hernán Cortés en tres panfletos publicados en el Sacro Imperio Romano Germánico (1520-1522)",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Astorga, Daniel",
+       "orcid": null
+      },
+      {
+       "nombre": "Alarcón Pereira, Diego",
+       "orcid": null
+      }
+     ],
+     "resumen": "Durante el siglo XVI, los panfletos fueron un medio fundamental para difundir información diversa en el Sacro Imperio Romano Germánico. Aparte de relatar hechos como la Reforma Protestante o el Descubrimiento del Nuevo Mundo, también permitieron moldear la opinión de los lectores acerca de figuras relevantes de la época. Uno de estos personajes fue Hernán Cortés, cuya imagen comenzó a formarse en tierras imperiales incluso antes de la publicación de sus Cartas en Nuremberg (1524). Entre 1520 y 1522 circularon tres panfletos que anticiparon la llegada de las Cartas, y que ayudaron a la construcción de una imagen de Cortés dentro del Sacro Imperio. En este artículo identificamos cómo se construye esta imagen a partir de la subjetividad inscrita en el discurso de estos tres panfletos. A través de un análisis lingüístico-discursivo para mapear la subjetividad inscrita en estos documentos, se identificó una construcción intrigante atribuida al conquistador español, que se sustenta en la narración de sus acciones militares y en la descripción de las ciudades mexicas conquistadas. Podemos determinar que estos tres panfletos jugaron un rol fundamental en la recepción temprana, y posterior valorización de Cortés en el contexto imperial, lo que lo posicionaría como una figura destacada en el Antiguo Imperio, anterior a lo que sería la difusión oficial de sus propias crónicas en 1524.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/904",
+     "doi": "10.7770/cuhso-v35n1-art917",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v35n1-art710",
+     "titulo": "La construcción metafórica de los espacios en la novela Ricardo Nixon School (2016), de Cristian Geisse: un estudio lingüístico-literario",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Ariz, Yenny",
+       "orcid": null
+      },
+      {
+       "nombre": "Alarcón Hernández, Paola",
+       "orcid": null
+      },
+      {
+       "nombre": "Espinoza Navarrete, Cristhian",
+       "orcid": null
+      }
+     ],
+     "resumen": "El artículo aborda el análisis de metáforas relacionadas con los espacios descritos en la novela Ricardo Nixon School (2016), de Cristian Geisse, a partir de un enfoque interdisciplinario, pues emplea categorías de la lingüística cognitiva, en específico, de la metáfora conceptual, según los trabajos de Lakoff y Johnson [1980] (2001) y Kövecses (2020), e integra aportes de los estudios literarios. Se propone que la configuración de los espacios representa el proceso de degradación del protagonista, el profesor Arturo Navarro, pues en la obra se construye un sistema metafórico consistente, basado en la metáfora más general EXPERIMENTAR UN ESTADO ES ESTAR EN UN LUGAR. En este sistema metafórico se encuentran las siguientes metáforas: EL COLEGIO ES UNA CASA DE NIÑOS EXPÓSITOS, LA VIDA ES UN VIAJE y LO BUENO ES ARRIBA-LO MALO ES ABAJO.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/703",
+     "doi": "10.7770/cuhso-v35n1-art710",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v35n1-art854",
+     "titulo": "La formación de la Escuela de Servicio Social en la provincia de Cautín: género, modernización e higienismo",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Ketterer Romero, Lucy",
+       "orcid": null
+      },
+      {
+       "nombre": "Lopez Dietz, Ana",
+       "orcid": null
+      },
+      {
+       "nombre": "López Dietz, Sandra",
+       "orcid": null
+      },
+      {
+       "nombre": "Pacheco-Pailahual, Stefanie",
+       "orcid": null
+      }
+     ],
+     "resumen": "La Escuela de Servicio Social se estableció en la ciudad de Temuco, en ese entonces Provincia de Cautín, en 1942, al alero del Ministerio de Educación Pública, siguiendo el modelo implementado en Santiago en 1925; la carrera entregaba el título de Asistente Social tras tres años de estudio, estando orientada exclusivamente a la formación de mujeres. Este artículo explora el contexto de formación de la Escuela de Servicio Social, indagando en quienes fueron las primeras mujeres que ingresaron a la Escuela, la formación que recibían y la influencia de una visión modernizadora e higienista, así como los supuestos de género que configuraron la carrera. En un contexto donde la provincia de Cautín ya se observaba una consolidación de la instalación del Estado chileno en el territorio mapuche, proponemos que las asistentes sociales buscaban responder a las necesidades del proyecto modernizador de los gobiernos de la época, que comprendía la asistencia social desde la aplicación de métodos científicos y racionales para responder a los problemas sociales y de salubridad como la pobreza, el analfabetismo o el alcoholismo. Para el desarrollo de este artículo trabajamos con una metodología de análisis de contenido, basada en la revisión de un corpus documental del Diario Austral de Temuco de los años 1942 a 1951.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/845",
+     "doi": "10.7770/cuhso-v35n1-art854",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v35n1-art734",
+     "titulo": "Las inserciones en castellano en los textos poéticos en mapuzugun de Bastian Chandia Millanaw como expresiones de discriminación lingüística, violencia y alienación",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Aguirre, Javier",
+       "orcid": null
+      }
+     ],
+     "resumen": "A pesar de la imagen de paridad entre mapuzugun y castellano que pueda proyectarse desde las ediciones bilingües de poesía mapuche, la escritura originalmente en mapuzugun es escasa. En ese contexto, son habituales las inserciones en mapuzugun en el texto predominantemente en castellano. Bastián Chandía Millanaw es una excepción a esta norma tácita, dado que su escritura se expresa inicialmente en mapuzugun a través de dos ediciones monolingües, y en ella se produce el fenómeno opuesto: inserciones de castellano en el texto en chezugun. Contrariamente al carácter intercultural de buena parte de las inserciones de mapuzugun en castellano, en Chandía la presencia del castellano resalta el conflicto lingüístico, ya sea a través de expresiones de desprecio, como de alienación o incomunicación. Tomar conciencia de la situación crítica del mapuzugun y tomar partido hablando, escribiendo y viviendo en mapuzugun es la respuesta que se propone.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/727",
+     "doi": "10.7770/cuhso-v35n1-art734",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v35n1-art679",
+     "titulo": "Los objetos literarios prehispánicos: hacia una teoría general literaria a través de la écfrasis.",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Herrera Juanillo, Camila",
+       "orcid": null
+      }
+     ],
+     "resumen": "El presente estudio, indagará el comportamiento literario de las escrituras prehispánicas: el ideograma y pictograma explicado por medio de la figura retórica de la écfrasis, con el fin de acercar la lectura de estas piezas de arte a la teoría literaria. Esto, mediante la distinción de su significante u obra cosa y su significado que Jean Mukarovsky distingue de la obra de arte como signo, y así desvelar los diversos relatos y descripciones inscritos en objetos de uso ritual y cotidiano.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/672",
+     "doi": "10.7770/cuhso-v35n1-art679",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v35n1-art801",
+     "titulo": "Más allá del efecto escuela: una nueva perspectiva sobre el habitus institucional",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Ilabaca Turri, Tomas",
+       "orcid": null
+      },
+      {
+       "nombre": "Álvarez Valdes, Carolina",
+       "orcid": null
+      }
+     ],
+     "resumen": "Este trabajo teórico propone un giro conceptual en la noción de habitus institucional en el campo de la sociología de la educación. En los trabajos iniciales, el concepto de habitus institucional fue concebido para interpretar el papel que desempeñan los establecimientos educacionales en la reproducción de trayectorias estudiantiles en el paso hacia la educación superior. Sin embargo, retomando la teoría de Bourdieu, sostenemos que este concepto también permite comprender a los establecimientos como agentes, con habitus, capitales y sentido del juego, y en función de ello responderían a las transformaciones del campo social. Para graficar la propuesta conceptual, se analizan las respuestas de los establecimientos educacionales frente a los cambios en las reglas del juego que ha experimentado el sistema educacional chileno, particularmente a partir de la promulgación de la Ley de Inclusión. Para ello, se realizó una revisión de literatura científica que da cuenta del cambio que ha significado dicha ley para los establecimientos escolares habituados a funcionar bajo una regulación de mercado y lógicas de selección de familias para obtener mejores resultados académicos. Dicha revisión da cuenta de una cierta regularidad en el tipo de respuesta de los establecimientos frente a la ley, donde las diferencias se asocian a la posición en el campo y los capitales que han acumulado en el tiempo. Concluimos que este concepto permite explicar y comprender las reacciones de los establecimientos frente a cambios en las regulaciones del campo educativo.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/793",
+     "doi": "10.7770/cuhso-v35n1-art801",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v35n1-art778",
+     "titulo": "Nudos críticos en la discusión sobre Estado social y subsidiariedad durante el proceso constitucional chileno (2022-2023).",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Morales, Juan",
+       "orcid": null
+      },
+      {
+       "nombre": "Olivera Zúniga, Patricio",
+       "orcid": null
+      },
+      {
+       "nombre": "Gómez de Benito, Justino",
+       "orcid": null
+      }
+     ],
+     "resumen": "El presente artículo examina los nudos críticos en la discusión sobre el tipo de Estado en Chile entre el 5 de septiembre de 2022 y el 7 de junio de 2023. El recorte temporal se justifica porque en el interregno entre los dos últimos procesos constitucionales hubo el despliegue de argumentos, por parte de distintos actores, sobre el rol del Estado, los privados, los derechos sociales y la solidaridad. El planteamiento del problema gira alrededor de una comunidad epistémica en la que académicos, expertos, intelectuales y políticos ligados a sectores y centros de pensamiento de derechas instalaron una narrativa favorable al Estado subsidiario frente a visiones progresistas y de izquierdas ligadas a un Estado social de derecho. Respecto a la metodología, se realizó una revisión documental de columnas de opinión, notas de prensa y entrevistas publicadas en medios de comunicación digitales y de alcance nacional. Los resultados muestran los puntos de encuentro y de convergencia entre estos grupos a la hora de hablar, a grandes rasgos, del Estado social. Si bien se evidencian matices cuando se debatió sobre la compatibilidad o no del principio de subsidiariedad con el Estado social de derecho. Aquí las posiciones estuvieron muy alejadas, habiendo seis nudos críticos en los que difieren considerablemente los sectores de las derechas y de las izquierdas. Se concluye que las derivaciones de esta discusión siguen aún abiertas.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/770",
+     "doi": "10.7770/cuhso-v35n1-art778",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v35n1-art720",
+     "titulo": "Percepción juvenil sobre características de la prensa chilena: un estudio mediante análisis factorial de correspondencias",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Orellana Olivares, Ricardo A.",
+       "orcid": null
+      },
+      {
+       "nombre": "Barriga, Omar A.",
+       "orcid": null
+      }
+     ],
+     "resumen": "La importancia de la información proporcionada por los medios de comunicación como herramientas para comprender el momento actual en el ámbito social, político, económico, artístico o comercial del país y el mundo, parece innegable, necesaria e ineludible. En base a lo anterior, emerge como necesario investigar sobre las percepciones y características principales, así también como la calidad percibida de los medios escritos de circulación diaria a nivel nacional. La muestra seleccionada fue de 385 jóvenes de distintos establecimientos educacionales de la comuna de Concepción, Chile. El método de recolección de datos consistió en aplicación de cuestionarios. Un análisis estadístico de correspondencias simples y múltiples permitió conocer las percepciones de los jóvenes sobre distintos aspectos relacionados con los diarios, así como también establecer que en general el diario “El Mostrador” es percibido como el mejor, en contraparte de “La Cuarta” que es percibido como el más deficiente.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/713",
+     "doi": "10.7770/cuhso-v35n1-art720",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v35n1-art824",
+     "titulo": "Personas que cuidan y los costos que asumen: Cargas administrativas e Invisibles",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "SCHUMACHER, WALESKA",
+       "orcid": null
+      },
+      {
+       "nombre": "Santibañez Parra, Martina",
+       "orcid": null
+      },
+      {
+       "nombre": "Riquelme Parra, Susana",
+       "orcid": null
+      },
+      {
+       "nombre": "Mesa Gallego, Alexandra",
+       "orcid": null
+      }
+     ],
+     "resumen": "A las personas que asumen el rol de cuidados de las personas con discapacidad, se le suman ciertas barreras u obstáculos que pueden tener consecuencias en su vida diaria, como las cargas administrativas que deben asumir cuando deben interactuar con el Estado para acceder a alguna prestación para quienes cuidan o aquellas cargas que deben asumir al tener que disponer de su tiempo al rol de cuidado, las que en general, no son visibles para la sociedad. El objetivo de esta investigación fue analizar las cargas administrativas e invisibles que deben asumir las personas que cumplen el rol de cuidados, utilizando un enfoque cualitativo, entrevistando a cuidadores/as de personas con discapacidad. A pesar de que Chile, ratificó la Convención sobre los Derechos de las Personas con Discapacidad, obligándose a realizar diseños universales y hacer los ajustes razonables, quienes hoy cuidan, dan cuenta que el trámite para acreditar la discapacidad, es altamente complejo, lo que se suma a los costos que para su vida les significa entregar su tiempo al rol de cuidado.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/815",
+     "doi": "10.7770/cuhso-v35n1-art824",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v35n1-art815",
+     "titulo": "Plataformas digitales de trabajo en América Latina: Organización productiva, desafíos regulatorios, acción colectiva y subjetividades. Antonio Stecher & Karol Morales (ed.). Santiago, Chile: Lom Ediciones",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Julián, Dasten",
+       "orcid": null
+      }
+     ],
+     "resumen": null,
+     "idioma_resumen": null,
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/807",
+     "doi": "10.7770/cuhso-v35n1-art815",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v35n1-art1060",
+     "titulo": "Presentación Dossier: 100 años del Trabajo Social chileno y latinoamericano: memoria y transformación social",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Cabrolié-Vargas, Magaly",
+       "orcid": null
+      },
+      {
+       "nombre": "Vivero-Arriagada, Luis",
+       "orcid": null
+      },
+      {
+       "nombre": "Carballeda, Alfredo Juan Manuel",
+       "orcid": null
+      },
+      {
+       "nombre": "Arancibia-Martínez, Leticia",
+       "orcid": null
+      }
+     ],
+     "resumen": "Un aniversario de cien años, como evento significativo y singular, obliga a mirar el trayecto recorrido. Para el Trabajo Social chileno y latinoamericano, este centenario ha representado la oportunidad de afinar esa mirada sobre una diversidad de perspectivas posibles desde donde abordar su devenir, considerando eventos y experiencias, más o menos visibles, que han transcurrido a la par que la historia social y política del continente.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/1044",
+     "doi": "10.7770/cuhso-v35n1-art1060",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v35n1-art726",
+     "titulo": "Prevención del consumo de alcohol y otras drogas en contextos interculturales. Interfaz entre antropología, psicología comunitaria y política pública",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Garcés-Pérez, Gabriela",
+       "orcid": null
+      },
+      {
+       "nombre": "Zambrano-Constanzo, Alba",
+       "orcid": null
+      }
+     ],
+     "resumen": "El artículo tiene como objetivo presentar una propuesta que integra aportes de la antropología sociocultural y la psicología comunitaria para orientar a nivel teórico metodológico el diseño e implementación de programas de prevención del consumo de alcohol y otras drogas en contextos interétnicos e interculturales. Se problematiza la noción de cultura de modo de subrayar la necesidad de incluir una visión compleja, que se aproxime y considere las racionalidades divergentes presentes en los diferentes contextos de implementación de los programas. Se fundamenta la necesidad de la complementariedad paradigmática entre la teoría de la prevención basada en factores protectores y de riesgo, con la perspectiva sociocultural, que visualiza procesos, significados y contextos relacionales, a partir de la apertura de espacios/temporalidades de su inclusión o “anclaje” en las dinámicas de intervención preventiva. Se propone la formación en competencias interculturales de los equipos preventivos, enfatizando en las dimensiones de reflexividad y gestión de racionalidades. Se utiliza como insumo, para el análisis además de la revisión de literatura especializada, un proceso que integra diferentes iniciativas desarrolladas a nivel nacional, regional y local por las autoras. A modo de conclusión, se fundamenta y propone la implementación de un enfoque de abajo hacia arriba (bottom up) y transversal, que incorpore la participación de las comunidades y de los equipos de prevención, donde el conocimiento producido a nivel de la intervención, tenga mayor incidencia en los lineamientos y programas",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/719",
+     "doi": "10.7770/cuhso-v35n1-art726",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v35n1-art857",
+     "titulo": "Producción, circulación y traducción transnacional de ideas y expertos en la Cultura Física y la Educación Física: Los casos de Argentina, Brasil, Chile y Uruguay (1930-1980).",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Poblete Gálvez, Carolina kürüf",
+       "orcid": null
+      }
+     ],
+     "resumen": "La reseña de este libro es una invitación a repensar los análisis y epistemologías que subyacen las investigaciones relacionadas con las practicas corporales desde una perspectiva histórica y descolonial. Los autores del libro manifiestan que existen influencias europeas y resignificancias contextuales políticas y culturales para la instalación del concepto de cultura física en las aulas de Latinoamérica en el siglo XX bajo la responsabilidad de referentes locales e internacionales que, bajo sus cuotas de poder lograron instalar las referencias de la disciplina de la educación física en la formación de profesores",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/848",
+     "doi": "10.7770/cuhso-v35n1-art857",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v35n1-art898",
+     "titulo": "Profesionales de la escuela Alejandro del Río: Patrimonio vivo y Memoria del trabajo social chileno",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Brito Rodríguez, Sonia de las Nieves",
+       "orcid": null
+      },
+      {
+       "nombre": "Comelin Fornes, Andrea",
+       "orcid": null
+      },
+      {
+       "nombre": "Peñafiel Díaz, Lily",
+       "orcid": null
+      }
+     ],
+     "resumen": "El artículo explora la historia y memoria de las/los profesionales formados en la Escuela Alejandro del Río, destacando su impacto en la Historia y Memoria del Trabajo Social chileno. A través de entrevistas en profundidad y grupos de discusión con egresadas de la escuela, el estudio busca comprender el legado de esta institución en la formación de trabajadores sociales, agentes clave en la transformación social de Chile. El enfoque metodológico es cualitativo y hermenéutico, permitiendo una comprensión profunda de las experiencias y trayectorias de las participantes, en un contexto histórico y social más amplio. El análisis de contenido de las entrevistas revela los patrones y temas recurrentes en los relatos, lo que permite identificar los logros y desafíos en la construcción de la memoria del Trabajo Social en Chile. Los resultados muestran que la Escuela Alejandro del Río ha tenido un impacto significativo en la formación de profesionales comprometidas con los derechos humanos, la justicia social y la equidad. Además, se resalta su rol como un espacio de resistencia y reflexión crítica, especialmente en los períodos históricos complejos, como la dictadura militar y el proceso de reconceptualización del Trabajo Social en el país. Las personas entrevistadas coinciden en que la escuela les proporcionó herramientas teóricas y metodológicas y un fuerte sentido de ética y responsabilidad social que ha orientado su práctica profesional desde una perspectiva crítica.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/886",
+     "doi": "10.7770/cuhso-v35n1-art898",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v35n1-art678",
+     "titulo": "Pueblos indígenas e identidad cultural. Análisis de un derecho humano para su reconocimiento constitucional",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Vallejos Roa, Liz Daiana",
+       "orcid": null
+      }
+     ],
+     "resumen": "El artículo pretende revisar los contenidos y alcances de la identidad cultural en el derecho internacional de los derechos humanos, entiendo este sistema de protección como el fundamento jurídico donde descansa este derecho y se hace obligatoria su protección. Se analizarán los diversos enfoques y obligaciones que otorgan estos instrumentos, entendiendo su coacción según sean instrumentos del soft law o hard law internacional. Se revisará a priori el principio de la libredeterminación y el concepto de pueblo indígena para comprender por qué serían sujetos de derecho. Luego, se esboza brevemente conceptos doctrinales de este derecho, para dar paso a su fundamento normativo. Luego, se analizarán las diversas definiciones dadas en distintos instrumentos internacionales, los contenidos que ha abordado la Corte IDH, y la Corte Europea de derechos humanos, demostrando el estándar internacional en la materia, como mínimos comunes a proyectar y cumplir en el Estado. Finalmente, se dirá que más que un derecho fundamental, es un derecho humano, y que, reconocer libredeterminación a estos sujetos implica reconocer su identidad cultural, como un derecho humano, lo que obliga a los Estados a transformar sus estructuras para abrir espacios de ejercicio práctico de este derecho.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/671",
+     "doi": "10.7770/cuhso-v35n1-art678",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v35n1-art779",
+     "titulo": "Reflexiones sobre la experiencia etnográfica de la situación de calle en Chile",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Zabala-Sandoval, Juan David",
+       "orcid": null
+      }
+     ],
+     "resumen": "A partir de mi experiencia de trabajo etnográfico de la situación de calle de Santiago de Chile entre 2020 y 2022, ofrezco mi reflexión acerca del proceso de investigación, particularmente durante la pandemia de COVID-19. Mi objetivo es contribuir al debate sobre la situación de calle y el conocimiento situado en nuestro continente, visibilizando mi propio proceso de participación y negociación de mi posición en el campo, en tanto investigador, así como las implicaciones de mi experiencia en la interpretación de la realidad de las personas en situación de calle (PSC). Para ello, busco transparentar mis posiciones de extranjero, domiciliado, hombre y voluntario, para cuestionar mi ubicación de poder, privilegio y género, subrayando la necesidad de reconocer la complejidad y las tensiones inherentes al trabajo etnográfico en contextos de vulnerabilidad. En correspondencia, abogo por la construcción de vínculos personales, basados en la reciprocidad, apertura y horizontalidad, como características centrales de aproximaciones sensibles y comprometidas, que no perpetúen visiones de carencia o incapacidad, sino que exploren las prácticas y sentidos desde el propio contexto de la calle. De la misma forma, cuestiono la importancia de las emociones y sentimientos en la etnografía, como un aspecto crucial pero a menudo descuidado, que podría llevar a producir etnografías más reflexivas y críticas, en las que la posición del investigador no se invisibilice, sino que se cuestione más a menudo.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/771",
+     "doi": "10.7770/cuhso-v35n1-art779",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v35n1-art635",
+     "titulo": "Repertorio de tácticas del movimiento feminista en la región de La Araucanía, Chile. Periodo 1990 a 2020",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Mora Guerrero, Gloria",
+       "orcid": null
+      },
+      {
+       "nombre": "Sanhueza Diaz, Lilian",
+       "orcid": null
+      },
+      {
+       "nombre": "Castillo Muñoz, Andrea",
+       "orcid": null
+      }
+     ],
+     "resumen": "Se analizaron las experiencias en torno al repertorio de tácticas del movimiento feminista regional en La Araucanía, Chile, entre 1990 y 2020 a partir de testimonios de mujeres que se autoadscriben a esta movilización. Con base en antecedentes sobre las transformaciones del feminismo latinoamericano desde los años ochenta en adelante, se realizó una investigación cualitativa con diseño de teoría fundamentada y datos empíricos acumulados en un programa de investigación iniciado en 2013. Los resultados evidenciaron que, en el periodo estudiado, el movimiento feminista en La Araucanía pasó de la acción descentralizada de diversas organizaciones a adquirir un carácter de red, a la vez que se mantuvo actuando a través de multiplicidad de tácticas como la acción socioeducativa, la construcción de identidades y la conciencia de género. Se concluye, mostrando el amplio repertorio de acción feminista relatado por las propias protagonistas y se alienta a explorar los actuales desafíos que conjugan articulaciones de lo local con lo global.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/630",
+     "doi": "10.7770/cuhso-v35n1-art635",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v35n1-art822",
+     "titulo": "Servicio social brasileño y trabajo social chileno en las vías feministas de 1970-1980: perspectivas históricas en debate",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Scheffer Machado, Graziela",
+       "orcid": null
+      },
+      {
+       "nombre": "Scheffer Machado, Graziela",
+       "orcid": null
+      },
+      {
+       "nombre": "Burgisnki, Vanda Micheli",
+       "orcid": null
+      }
+     ],
+     "resumen": "La investigación aborda los vínculos ideopolíticos de la profesión con el movimiento feminista y de mujeres en Brasil y Chile durante las décadas de 1970 y 1980. Su objetivo es contribuir a los estudios de género y relaciones sexuales entrelazados con la comprensión de los fundamentos teóricos y metodológicos históricos del Trabajo Social. Se realizó un estudio del estado del arte a partir de artículos científicos que abordan la relación histórica de esta profesión en Brasil y Chile, en el período caracterizado como la segunda ola del feminismo. El análisis se basó en la identificación de 4 artículos de autores brasileños y 5 artículos de investigadores chilenos. Los resultados presentan aspectos sobre las particularidades de las influencias del feminismo en la profesión entre países.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/813",
+     "doi": "10.7770/cuhso-v35n1-art822",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v35n1-art850",
+     "titulo": "Sobre determinaciones históricas y contextuales en el origen y la configuración del Trabajo Social chileno",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Molina Chavez, Walter",
+       "orcid": null
+      },
+      {
+       "nombre": "González Celis, Alejandra",
+       "orcid": null
+      }
+     ],
+     "resumen": "Este artículo propone observar el contexto histórico social chileno que permitió la emergencia de una disciplina como el Trabajo Social identificando y analizando críticamente cuatro tensiones o antinomias conceptuales que sobredeterminaron la disciplina y que podrían iluminar los desafíos contemporáneos del trabajo social chileno en pleno tránsito por el siglo XXI: autoritarismo/autoridad; desarrollismo emergente/ economía extractivista o rentista de carácter oligárquico; tensión Estado/sociedad civil y, por último, la tensión esencial entre ciencia e ideología. En términos de síntesis analítica se plantea que la trama sociopolítica cruza desde sus orígenes a la disciplina y que esto se constituye en un campo de fuerzas contradictorias que ha tensionado a sus distintos actores en un continuo de producción, resistencia y reproducción que fundamenta el trabajo social contemporáneo.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/841",
+     "doi": "10.7770/cuhso-v35n1-art850",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v35n1-art706",
+     "titulo": "Sobre distorsiones de la historia y la cuasi ‘leyenda negra’",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Reyes Rodríguez, Alixon David",
+       "orcid": null
+      },
+      {
+       "nombre": "Marcano Fernández, Jesús Alejandro",
+       "orcid": null
+      }
+     ],
+     "resumen": "Los relatos de la historia de la colonización de la América prehispánica dividen a los historiadores. La expresión ‘leyenda negra’ emerge como postura asumida por quienes cuestionan los relatos que caracterizan el proceso de colonización como uno violento. Así, sostienen que tales relatos han configurado una leyenda negra desprestigiando a los españoles, y afirman, en su defensa, que dicho proceso fue civilizador, de progreso y desarrollo en la renombrada América. Este trabajo tiene como objetivo contrastar la postura defensora del blanqueo de la historia de la colonización, en el marco de dos conjuntos de argumentos, esto es, de quienes defienden el proceso colonizador como uno con fines civilizadores, y de quienes consideran la ocurrencia de un proceso sistemáticamente violento, más aún cuando en los últimos años, parece haber recrudecido la defensa europea por el proceso de invasión y colonización. Se concluye afirmando que, los argumentos de la moción defensora del proceso colonizador, no son suficientes como para considerar la existencia de una leyenda negra, advirtiendo allí un intento por distorsionar la historia.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/699",
+     "doi": "10.7770/cuhso-v35n1-art706",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v35n1-art869",
+     "titulo": "Tensiones del trabajo social. Una mirada crítica desde la ejecución de la política pública",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Guzmán Sanhueza, Daniela",
+       "orcid": null
+      },
+      {
+       "nombre": "Castillo Leyton , Ana",
+       "orcid": null
+      },
+      {
+       "nombre": "Fernández Muñoz , Adriana",
+       "orcid": null
+      },
+      {
+       "nombre": "Castillo Leyton , Ana",
+       "orcid": null
+      },
+      {
+       "nombre": "Fernández Muñoz , Adriana",
+       "orcid": null
+      },
+      {
+       "nombre": "Castillo Leyton , Ana",
+       "orcid": null
+      },
+      {
+       "nombre": "Fernández Muñoz, Adriana",
+       "orcid": null
+      }
+     ],
+     "resumen": "Una de las grandes paradojas del trabajo social actual es que éste debe desplegarse en un sistema que acrecienta las desigualdades y potencia los procesos de exclusión. Desde esta premisa, realizamos un análisis situado de las condiciones de desarrollo del trabajo social en la región de Atacama, obteniendo de primera fuente las precisiones que nos invitan a profundizar sobre las tensiones que un trabajo social transformador encuentra en el ejercicio profesional. A través de una investigación situada y cualitativa, se realizan entrevistas a informantes claves para obtener información precisa, experiencial y atingente al desarrollo profesional en la ejecución local de políticas sociales. Los resultados se estructuran en cinco categorías de las cuales 2 son emergentes; se identifican tensiones asociadas a centralismo y burocracia, híper focalización y sobre intervención, situación contractual y precariedad laboral de los y las trabajadoras sociales, resistencia al cambio de los equipos profesionales y pérdida del propósito de la política social a través de la politización de la misma. Se concluye que el lugar de la disciplina en la ejecución de políticas sociales revela su particularidad en la construcción y reproducción social y que tensiona su carácter transformador al insertarse como una pieza clave en la implementación de políticas sociales que buscan atenuar los efectos nocivos del capitalismo neoliberal a través de una intervención fragmentada y focalizada. Igualmente, el carácter asalariado del trabajo social condiciona las posibilidades de generar espacios laborales críticos que avancen hacia la disidencia y sobrepongan las lógicas transformadoras por sobre las lógicas institucionales.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/860",
+     "doi": "10.7770/cuhso-v35n1-art869",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v35n1-art810",
+     "titulo": "Territorio y universidad en el Aysén, Chile; un ensayo de interpretación filosófica",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Valdés Norambuena, Cristián",
+       "orcid": null
+      }
+     ],
+     "resumen": "El presente ensayo de interpretación filosófica se focaliza en la relación entre el territorio y la institucionalidad universitaria del Aysén, como un entramado problemático que permite un determinado tipo de interpretación social, política e histórica de la Región. La hipótesis es que este territorio se ha configurado fuertemente desde una perspectiva económica que ha orientado un cierto sentido de su institucionalidad universitaria, visto que los diferentes proyectos implementados no responden a una ideología determinada, sino al impulso de una modernidad que no ha sido suficientemente criticada desde esta institucionalidad y su vínculo territorial.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/802",
+     "doi": "10.7770/cuhso-v35n1-art810",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v35n1-art843",
+     "titulo": "Trabajo social y producción de conocimiento en los estudios de pregrado: estudios sobre Brasil, Argentina y Chile.",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Kruger, Tânia Regina",
+       "orcid": null
+      },
+      {
+       "nombre": "Kruger, Tânia Regina",
+       "orcid": null
+      },
+      {
+       "nombre": "Acerbo, Sasha",
+       "orcid": null
+      },
+      {
+       "nombre": "Puchalski , Luiza Teixeira",
+       "orcid": null
+      }
+     ],
+     "resumen": "El objetivo de este texto es presentar los énfasis temáticos de la producción del conocimiento en los cursos de grado en Trabajo Social de Brasil, Argentina y Chile, en diálogo con los ejes temáticos del Seminario XXIII de la Asociación Latinoamericana de Enseñanza e Investigación en Trabajo Social (ALAEITS), realizado en noviembre de 2022 en Montevideo (ALAEITS, 2022), y de la edición XXIV del Seminario de la ALAEITS, que se llevará a cabo en octubre de 2025 en Santiago. Este es un estudio descriptivo-exploratorio de base documental y bibliográfica, que se realizó a través de la consulta de los trabajos de conclusión de grado en Trabajo Social entre 2017 y 2023, disponibles en los repositorios institucionales de acceso abierto de tres universidades: la Universidade Federal de Santa Catarina (UFSC), Brasil; la Universidad de Buenos Aires (UBA), Argentina; y la Universidad Alberto Hurtado (UAH), Chile. Los resultados muestran que el 61,6% (ALAEITS, 2022) y el 81% (ALAEITS, 2025) de los trabajos finales expresan la vinculación tradicional del Trabajo Social tanto en la intervención como en la investigación al campo de las políticas sociales, derechos y ciudadanía. Las palabras clave agrupadas en 30 categorías son bastante representativas del amplio espectro temático de investigación e intervención del Trabajo Social latinoamericano. Finalmente, se observa que la propia categoría profesional, en cuanto a formación y grado, posgrado, historia y ejercicio profesional, se estudia en solo el 10% de los trabajos",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/834",
+     "doi": "10.7770/cuhso-v35n1-art843",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v35n1-art831",
+     "titulo": "Trascrizione del manoscritto \"Spiegazione della meridiana fatta nel giugno del 1780 in casa dell'Ecc.mo Sig.e Duca Mattei e di tutte le cose in essa contenute\", copia dell'originale, oggi perduto, di Andres Febrès.",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Manca di Nissa, Michele",
+       "orcid": null
+      }
+     ],
+     "resumen": null,
+     "idioma_resumen": null,
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/822",
+     "doi": "10.7770/cuhso-v35n1-art831",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v35n1-art881",
+     "titulo": "Tratamiento jurídico-penal de la protección de la esfera sexual del menor en el derecho histórico-contemporáneo español",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Fuertes Iglesias, Carlos",
+       "orcid": null
+      }
+     ],
+     "resumen": "El tratamiento jurídico-penal de la protección del menor en el ámbito de su esfera sexual en el Derecho penal español ha experimentado una evolución histórica significativa. Desde la honestidad como bien jurídico protegido preponderante hasta las actuales formas de tutela de la libertad e indemnidad sexuales, el objetivo principal de este artículo es analizar la evolución de la legislación española en materia de delitos sexuales cometidos en agravio de menores y cómo dicha evolución ha sido influenciada por el contexto político y social de cada época, marcada fundamentalmente por la convulsión existente en la España del siglo XIX, en la que se sucedieron diversos textos constitucionales, desde el prisma de una fuerte influencia en la materia de la moralidad de corte católico. La metodología empleada es investigación documental y una revisión histórica de la evolución del Código Penal español en relación con los delitos sexuales, se destaca que el texto de 1973 perpetúa la regulación de 1944 sobre la materia sexual, con una preponderancia del concepto de moral sexual. El resultado principal que el bien jurídico protegido no es la libertad sexual, sino la moral sexual u honestidad, lo que se refleja en la regulación de la materia desde la honestidad.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/870",
+     "doi": "10.7770/cuhso-v35n1-art881",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v35n1-art697",
+     "titulo": "Tre gesuiti descrivono fatti di lingua e cultura della Sardegna settecentesca: Francesco Cetti (1726 - 1778), Matteo Madao (1733 - 1800), Antonio Bresciani (1798 - 1862)",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Lorinczi, Marinella",
+       "orcid": null
+      }
+     ],
+     "resumen": "In questo articolo si vuole dimostrare (al cap. 1) che la percezione di una bipartizione dell’area linguistica sarda in due macrovarietà (indicate nei tempi moderni - andando da nord a sud - come logudorese e campidanese, delle quali la prima godrebbe di maggior prestigio) ha alle spalle una tradizione colta che risale per lo meno alla metà del Cinquecento. Nella dimostrazione si utilizzano soprattutto opere cartografiche e loro commenti. Il secondo argomento (cap. 2) è relativo a procedimenti di emancipazione e di standardizzazione di una macrolingua quale il sardo, così come auspicati nella prima grammatica elaborata, alla fine del Settecento, da Matteo Madao; egli suggerisce una certa scelta che sarà portata al rango di auspicata ufficialità nel secolo XXI. Nell’ultima parte (cap. 3) si affronta l’analisi di testimonianze registrate per iscritto nella prima metà dell’Ottocento, relative all’esistenza e al modus operandi della leggendaria accabadora, le quali - andando a ritroso, di racconto in racconto - si possono far risalire alla seconda metà del XVIII secolo. I tre autori appartengono ai più importanti intellettuali sardi/italiani sette-ottocenteschi che hanno studiato la Sardegna da molteplici punti di vista.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/690",
+     "doi": "10.7770/cuhso-v35n1-art697",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v35n1-art731",
+     "titulo": "¿Quiénes pueden elegir vivir sano? Desigualdades sociales y sus tensiones en salud",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Merino Jara, Claudio",
+       "orcid": null
+      },
+      {
+       "nombre": "Pilquinao Pilquinao, Bernardita",
+       "orcid": null
+      },
+      {
+       "nombre": "Leighton Naranjo, Alejandra",
+       "orcid": null
+      },
+      {
+       "nombre": "Bahamonde Harvez, Valeria",
+       "orcid": null
+      }
+     ],
+     "resumen": "La investigación analiza las relaciones que se establecen entre las intervenciones de promoción-prevención en salud y las desigualdades e inequidades sociales, y cómo son visibilizadas por los equipos de salud, usuarias y usuarios de hospitales comunitarios y centros de salud familiar de la Región de Los Lagos. La metodología de investigación se desarrolla a través de un diseño descriptivo-fenomenológico y la interpretación de los datos, consi-dera elementos del análisis del discurso. Las técnicas de recolección de da-tos corresponden a grupos de discusión y entrevistas semiestructuradas. Los sujetos participantes corresponden a equipos de salud y usuarias/usuarios de la red asistencial de la Región de Los Lagos. El foco de las estrategias de promoción se ha centrado en acciones orientadas a fortalecer estilos de vida saludables, principalmente a través de la alimentación saludable y la activi-dad física, no obstante, esto ha excluido otras dimensiones de la vida mucho más apremiantes y pertinentes para la salud de las comunidades. Las actuales estrategias de promoción no consideran acciones de salud situadas y con pertinencia territorial, debido a los lineamientos homogéneos a nivel nacional, con medidas de estandarización de rendimiento y producción en salud de carácter centralizado y vertical. Esto deja en otros planos la urgencia asociada al acceso del agua, territorios degradados ambientalmente o las dificultades estructurales que se deben sortear para vivir una vida saludable. Fenómeno que excede los márgenes de la libertad y voluntad de los individuos.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/724",
+     "doi": "10.7770/cuhso-v35n1-art731",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v35n1-art677",
+     "titulo": "¿Un archipiélago con potencial de esfera?: anatomía de lo comunitario en una ciudad intermedia de Chile",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Letelier, Francisco",
+       "orcid": null
+      },
+      {
+       "nombre": "Jordana, Claudia",
+       "orcid": null
+      },
+      {
+       "nombre": "Paredes, Juan Pablo",
+       "orcid": null
+      },
+      {
+       "nombre": "Cubillos-Almendra, Javiera",
+       "orcid": null
+      },
+      {
+       "nombre": "Sepúlveda, Miguel",
+       "orcid": null
+      }
+     ],
+     "resumen": "Asumiendo el enfoque de la producción de lo común y los entra- mados comunitarios, este artículo explora la “anatomía” de lo comunitario en la ciudad de Talca (Chile). A partir del análisis de los datos de una encuesta probabilística aplicada en 2023, planteamos que –pese a su fuerte presencia en los distintos ámbitos observados— los entramados comunitarios tienen una capacidad limitada para producir lo común más allá del ámbito de la vida cotidiana. Mientras las relaciones familiares actúan como una fuerza que atrae a los sujetos hacia entornos conocidos, lo que les dificulta ampliar sus círculos relacionales, en el ámbito vecinal y laboral se privilegian las relaciones de colaboración cotidiana y de cercanía, por sobre las que implican un compromiso asociativo. Frente a esto planteamos el desafío de generar mayor porosidad y articulación entre las relaciones comunitarias cotidianas y las formas asociativas que existen en diferentes escalas territoriales y ámbitos temáticos.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/670",
+     "doi": "10.7770/cuhso-v35n1-art677",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v35n1-art855",
+     "titulo": "Ética de la acción colectiva en la formación profesional del Trabajo Social en Chile: fortaleciendo la politicidad juvenil en contextos neoliberales",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Vargas Muñoz, Héctor Agustín",
+       "orcid": null
+      }
+     ],
+     "resumen": "Las universidades en Chile han sido profundamente transformadas por el sistema neoliberal. Prácticas sociales competitivas, mercantilizadas e individualistas han generado un entorno educativo en el que se niega espacio a la política y la ética. Adoptando un enfoque crítico, basado en una revisión bibliográfica y teórica, en este artículo indago en la despolitización de las juventudes universitarias impulsada por este sistema, especialmente en la formación profesional del Trabajo Social, y propongo la integración curricular de una ética de la acción colectiva como alternativa transformadora. Concluyo que este enfoque puede fortalecer el compromiso ético-político en el Trabajo Social, estimulando una praxis orientada hacia la transformación social y la justicia.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/846",
+     "doi": "10.7770/cuhso-v35n1-art855",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v35n1-art687",
+     "titulo": "“La tiendita de los sentimientos”: una etnografía sobre la circulación de mercancías latinoamericanas en Osorno, Chile (2020-2023)",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Saldívar, Juan M.",
+       "orcid": null
+      }
+     ],
+     "resumen": "Este artículo presenta hallazgos etnográficos sobre la circulación de mercancías de origen latinoamericano que se posicionan en Osorno a partir de emprendimientos que los migrantes han instalado recientemente en diferentes áreas comerciales que reconocemos como Pymes de la nostalgia. Si bien es cierto que la circulación de estas mercancías representan un tipo de intercambios económicos en diferentes escalas globales, también se asocian con las emociones que provocan la nostalgia, es decir, el recuerdo por la tierra natal o el terruño. Los resultados muestran cómo el consumo de las mercancías es parte de un proceso transnacional que implica la adaptación de los migrantes a nuevos lugares de anclaje y que responden a una dimensión cultural de las emociones que inspiran el diseño de estrategias creativas como la acción colectiva, la formación de comunidades y la resignificación de la noción de hogar en aquellos lugares donde se encuentran instalados. Este tipo de fenómenos culturales corresponden a nuevos horizontes de investigación antropológica debido a que su espacialidad en contextos subnacionales de Chile, como es el caso de la región de Los Lagos y, específicamente de Osorno, se reconocen como escenarios de incorporación reciente en tanto sujetos, objetos y vidas en movimiento.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/680",
+     "doi": "10.7770/cuhso-v35n1-art687",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v35n1-art799",
+     "titulo": "“Lo interesante es ese juego de confrontación de puntos de vista que la etnografía ayuda a eso”: Entrevista a Luis Reygadas",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Bizama Rojas, Marco",
+       "orcid": null
+      }
+     ],
+     "resumen": "Explorar las biografías de las personas nos pueden abrir aspectos explicativos del porqué hacen lo que hacen, además de condensar, en ellos procesos sociales más generales, mostrando como éstos pueden ser subjetivados. Esta entrevista nos muestra este proceso, en donde el Profesor Luis Reygadas nos muestra como vivió los convulsos años setentas y las transformaciones globales de los años ochenta y noventa, reflexionando sobre su proceso de formación académica y política, y cómo estas fueron dando estructura a sus estudios principales en el campo del trabajo, cuestionando la idea de cultura, diálogos entre grupos étnicos en procesos productivos y las condiciones laborales que se establecen por la condición multinacionalidad de las industrias en Centro América, mostrando la importancia, en estos estudios, de la etnografía Autor de incontables paper y tesis que marcaron el estudio a la corriente de la Antropología del trabajo como “Mercado y sociedad civil en la fábrica Culturas del trabajo en maquiladoras de México y Guatemala” (Reygadas, 1998), y libros como: “Otros capitalismos son posibles” (Reygadas, 2021), nos expone desde su perspectiva el quehacer de la antropología, diseminando las importancias y relevando el diálogo.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/791",
+     "doi": "10.7770/cuhso-v35n1-art799",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    }
+   ]
+  },
+  {
+   "id": "v34-n2-2024",
+   "volumen": "34",
    "numero": "2",
-   "anio": 2021,
-   "fecha": "2021-01-22",
-   "etiqueta": "Vol. 30, núm. 2 (2021)",
-   "fuente": "Crossref",
+   "anio": 2024,
+   "fecha": "2024-12-27",
+   "etiqueta": "Vol. 34, núm. 2 (2024)",
+   "fuente": "OAI-PMH",
    "articulos": [
     {
-     "id": "10.7770/cuhso.v30i2.2345",
-     "titulo": "Dinámicas territoriales mapuches en el cono sur americano: una bibliografía selectiva",
-     "idioma_titulo": null,
+     "id": "10.7770/cuhso-v34n2-art742",
+     "titulo": "Aproximaciones analíticas a los desastres: la experiencia chilena desde la antropología.",
+     "idioma_titulo": "es",
      "autores": [
       {
-       "nombre": "Bastien Sepulveda",
+       "nombre": "Noria Peña, Andrea",
        "orcid": null
       }
      ],
-     "resumen": "Se presenta a continuación una selección bibliográfica de trabajos – libros y artículos publicados en revistas académicas – que abordan las dinámicas territoriales mapuches desde perspectivas diversas, en distintos idiomas, y tanto “en” como “a través de” Chile y Argentina. El término “selección” tiene su importancia, pues indica que esta lista no pretende de ninguna manera ser exhaustiva. Es efectivamente posible que algunas referencias no hayan sido integradas pese a su pertinencia con respecto al enfoque definido. No obstante, esta selección se fundamenta en, y da continuidad a, una primera bibliografía publicada en 2012 en un dossier especial de la Revista Geográfica del Sur. La selección aquí presentada resulta por lo tanto de un trabajo desarrollado continuamente desde varios años, a través del cual aquellas referencias pertinentes encontradas en distintas instancias fueron sistemáticamente agregadas a la lista ya existente.",
+     "resumen": "El presente artículo tiene como objetivo describir la experiencia en investigaciones sobre el impacto de amenazas naturales en Chile, en el contexto del desarrollo de estudios desde la denominada Antropología de los desastres en el país. Se pretende identificar las tendencias predominantes, las contribuciones teórico-metodológicas y los debates relevantes en este ámbito. Para ello, se ha recurrido a diversas fuentes bibliográficas que incluyen artículos científicos, libros, capítulos de libros y comunicaciones en diferentes espacios de divulgación científica. Los resultados principales señalan que este campo de estudio en Chile está aún en proceso de consolidación y carece de una línea claramente delimitada, siendo las principales contribuciones de áreas como la Antropología médica, de la muerte y/o social; en conjunto con otros campos como la historia y la historia ambiental.",
      "idioma_resumen": "es",
      "licencia": {
-      "nombre": "CC BY-NC-SA 4.0",
-      "url": "http://creativecommons.org/licenses/by-nc-sa/4.0"
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
      },
-     "url": "https://doi.org/10.7770/cuhso.v30i2.2345",
-     "doi": "10.7770/cuhso.v30i2.2345",
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/735",
+     "doi": "10.7770/cuhso-v34n2-art742",
      "paginas": null,
-     "fuente": "Crossref"
+     "fuente": "OAI-PMH"
     },
     {
-     "id": "10.7770/cuhso.v30i2.2398",
-     "titulo": "Witrampüramgetuael ta Wallmapu: pensar el territorio mapuche desde la praxis",
+     "id": "10.7770/cuhso-v34n2-art745",
+     "titulo": "Atrapados en la calamidad. Coyunturas desastrosas, muertes masivas e impacto demográfico en Caracas: 1750-1830",
      "idioma_titulo": "es",
      "autores": [
       {
-       "nombre": "Bastien Sepúlveda",
+       "nombre": "Altez, Rogelio",
        "orcid": null
       },
       {
-       "nombre": "Viviana Huiliñir-Curio",
+       "nombre": "Osuna, Diana",
+       "orcid": null
+      }
+     ],
+     "resumen": "Desde su fundación y hasta muy adentro en la vida republicana, Caracas fue una ciudad pequeña, de escaso desarrollo y estrecha población. Sus dificultades de crecimiento representan una condición histórica que solo se va a transformar con la modernidad urbana, ya en la segunda mitad de siglo XX. Cada evento desastroso disparado por fenómenos extremos o contagios incontrolables representó una calamidad insalvable en su existencia. Epidemias recurrentes, como la viruela, o emergentes, como el cólera, impactaron severamente en la población caraqueña. Su peor momento tuvo lugar en la coyuntura de la independencia, cuando se combinaron los terremotos con la guerra, el hambre y los contagios, además de las migraciones. Las muertes masivas y la destrucción acompañaron el desarrollo histórico de esta ciudad, acumulando problemas sin resolver en la vida colonial como en la organización republicana, sin recursos para consolidar un Estado deficitario ni para adecentar la vida cotidiana de su sociedad. En este trabajo demostramos el impacto demográfico sobre la población de la ciudad durante el periodo señalado, contrastando fuentes y sistematizando la información consultada en documentos y archivos.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/738",
+     "doi": "10.7770/cuhso-v34n2-art745",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v34n2-art628",
+     "titulo": "Atributos de alteración térmica en artefactos líticos, de la Localidad Arqueológica Meliquina, Neuquén, Argentina",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Pérez, Alberto Enrique",
+       "orcid": null
+      }
+     ],
+     "resumen": "El presente trabajo constituye un “estudio de precaución” que nos permitirá observar si los artefactos y ecofactos líticos que presentan evidencias de exposición a altas temperaturas hallados en los sitios de lago Meliqui- na son producto del tratamiento térmico para mejorar la calidad de algunas rocas para la talla; o por el contrario, se debe a la acción de distintos procesos térmicos que conllevan a la alteración de los mismos de manera involunta- ria. Los resultados obtenidos nos han permitido inferir que en lago Meliqui- na, buena parte de los atributos de alteración térmica del conjunto de rocas y desechos de origen volcánico como basaltos y andesitas y las rocas meta- mórficas, no derivan de tratamiento para mejorar su calidad para la talla.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/623",
+     "doi": "10.7770/cuhso-v34n2-art628",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v34n2-art638",
+     "titulo": "Aunque nos digan. Racismo, clasismo y el equipo más querido de Chile, Christian Álvarez Rojas. Santiago: Gol Triste Ediciones, 2° Edición, 2021, 263 páginas.",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Maldonado Oyarzo, Aldo Nicolás",
+       "orcid": null
+      }
+     ],
+     "resumen": "Reseña de la obra de Christian Álvares Rojas Aunque nos digan. Racismo, clasismo y el equipo más querido de Chile, que aborda las figuras y discursos racistas y clasistas a partir del hincha colocolino como caso de estudio de las discriminaciones a lo largo de la historia de la humanidad y en el Chile actual.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/633",
+     "doi": "10.7770/cuhso-v34n2-art638",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v34n2-art619",
+     "titulo": "Ciudadanías promovidas en los Proyectos Educativos Institucionales chilenos",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Toledo Jofre, Maria Isabel",
+       "orcid": null
+      },
+      {
+       "nombre": "Villalón-Gálvez, Gabriel",
+       "orcid": null
+      },
+      {
+       "nombre": "Gazmuri Stein, Renato Juan",
+       "orcid": null
+      },
+      {
+       "nombre": "Pohl Leal, Gabriel",
+       "orcid": null
+      },
+      {
+       "nombre": "Acevedo Vásquez, Fanny del Pilar",
+       "orcid": null
+      }
+     ],
+     "resumen": "El sistema educativo chileno es un sistema segregado que se organiza según modalidad educativa y dependencia administrativa. Por este motivo, en la educación secundaria existen establecimientos orientados hacia la educación superior y otros, al mercado laboral. Asimismo, hay establecimientos privados pagados por las familias de los estudiantes, establecimientos privados financiados con fondos públicos, y establecimientos públicos. Todos ellos cuentan con un Proyecto Educativo Institucional. En este documento se comunica la contextualización del currículum nacional, se informa sobre su enfoque educativo y sobre las características de la enseñanza que imparte el establecimiento. Por lo tanto, el objetivo de este artículo es analizar las ciudadanías promovidas en los Proyectos Educativos Institucionales de establecimientos de distintas dependencias administrativas y modalidades educativas. Se realizó una investigación documental de una muestra de 25 Proyectos Educativos Institucionales, sobre los que se aplicó un análisis de contenido. Los resultados se presentan según los distintos tipos de instituciones, estableciéndose que, en los establecimientos de administración pública se enfatiza la ciudadanía crítica y liberal, y que en aquellos de administración privada, predomina la perspectiva conservadora, lo que se explica por la influencia de la ideología de los administradores en la selección del conocimiento que se transmite en cada una. Se concluye que es el carácter público o privado de la administración del establecimiento educacional lo que influencia el currículum que se imparte. Debido a esta premisa, el artículo aporta a la comprensión del currículum de ciudadanía que se transmite en el sistema educacional chileno.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/614",
+     "doi": "10.7770/cuhso-v34n2-art619",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v34n2-art614",
+     "titulo": "Condiciones de calidad educativa y pedagógica en niños y madres gestantes en contexto carcelario en Colombia",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Castro Martínez, Jaime",
+       "orcid": null
+      },
+      {
+       "nombre": "Correa Grijalba, Jesús",
+       "orcid": null
+      },
+      {
+       "nombre": "Bautista Sabogal, Karina",
+       "orcid": null
+      }
+     ],
+     "resumen": "El objetivo de este estudio fue comprender las condiciones de calidad educativa y pedagógica en la atención integral de niños de 0 a 3 años y mujeres gestantes que se encuentran en situación de reclusión en un contexto carcelario de mujeres en Colombia, con la intención de contribuir a la creación de modelos diferenciados de atención en educación inicial para niños cuyas madres están privadas de libertad. Se utilizaron cuatro instrumentos para identificar los componentes de calidad de la atención educativa propuestos por el Ministerio de Educación Nacional y el Instituto Colombiano de Bienestar Familiar de Colombia (ICBF). Los resultados de este estudio indican que existen desafíos para mejorar la calidad educativa en entornos de reclusión. Esto implica desarrollar un modelo pedagógico propio, revisar el rol e interacción con los cuidadores y comprender la comunidad educativa en espacios carcelarios, lo que incluye al colectivo de reclusas.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/609",
+     "doi": "10.7770/cuhso-v34n2-art614",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v34n2-art729",
+     "titulo": "Conociendo al mapuche prehistórico. Discursos científicos desde la cultura material en el cambio de siglo XIX-XX: El caso chileno",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Zañartu Reyes, Jaime",
+       "orcid": null
+      },
+      {
+       "nombre": "Cortes Cortes, Manuel",
+       "orcid": null
+      },
+      {
+       "nombre": "Lara Ortega, Martín",
+       "orcid": null
+      }
+     ],
+     "resumen": "El pueblo Mapuche a fines del siglo XIX se convirtió en un verdadero objeto de estudio para las ciencias sociales en Chile. Diferentes dis- ciplinas como la Antropología y Arqueología quisieron reconocer en ellos no sólo los orígenes de la nacionalidad, sino también los orígenes de la humanidad. Nuestra premisa se constituye en que la imagen del mapuche pre- histórico se construyó no sólo mediante la recolección de vestigios materiales gracias al advenimiento de la Arqueología, sino fundamentalmente al cruce de dicha disciplina con la persistente lectura de las crónicas indianas que prefiguraron una imagen en torno al pueblo mapuche. Situándonos teóricamente desde la Historia Cultural de la Ciencia, nuestro objetivo es analizar y problematizar las tipologías discursivas que se generaron en la alta cultura chilena sobre los Mapuche, a partir de las distintas expediciones promovidas por el gobierno chileno y que dieron como base la colección mapuche depositada en el Museo de Historia Natural de Santiago de Chile.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/722",
+     "doi": "10.7770/cuhso-v34n2-art729",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v34n2-art609",
+     "titulo": "Creencias sobre el sistema de salud público y privado en Chile: similitudes y diferencias",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Baeza Rivera, María José",
+       "orcid": null
+      },
+      {
+       "nombre": "Salinas-Oñate, Natalia",
+       "orcid": null
+      },
+      {
+       "nombre": "Salazar-Fernández, Camila",
+       "orcid": null
+      },
+      {
+       "nombre": "Manríquez Robles, Diego",
+       "orcid": null
+      },
+      {
+       "nombre": "Ortiz, Manuel S.",
+       "orcid": null
+      }
+     ],
+     "resumen": "Evaluar las creencias de usuarios respecto del sistema de salud pú- blico versus privado en Chile, considerando etnia, nivel socioeconómico y afi- liación sanitaria. Usando un diseño no experimental y transversal, una muestra no probabilística de 337 usuarios respondió un cuestionario sobre creencias asociadas a ambos sistemas. Se evaluaron diferencias de medias según etnia, nivel socioeconómico y afiliación. Se encontró que la muestra en general posee creencias más negativas sobre el sistema público y creencias más positivas so- bre el sistema privado. Asimismo, sobre el sistema público de salud las personas indígenas tienen creencias más positivas y las personas no indígenas creencias más negativas. Finalmente, se encontró que las personas de nivel socioeconó- mico alto poseen creencias más positivas sobre el sistema privado de salud en comparación con personas de nivel socioeconómico bajo; mientras que, las per- sonas de nivel socioeconómico alto tienen creencias más negativas y creencias menos positivas que los de nivel socioeconómico bajo sobre el sistema público de salud. Estos hallazgos se comprenden desde ciertos estereotipos asociados a los sistemas de salud. Esto es relevante, pues analizar las creencias considerando las características sociodemográficas de los usuarios permite generar estrategias que fortalezcan los sistemas sanitarios para disminuir las inequidades sociales.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/605",
+     "doi": "10.7770/cuhso-v34n2-art609",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v34n2-art591",
+     "titulo": "Decisiones familiares en el cuidado de plantas ornamentales del Área Natural Protegida Cañón del Usumacinta",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Calderón, Vinicio",
+       "orcid": null
+      },
+      {
+       "nombre": "Ramírez Meneses, Aurora",
+       "orcid": null
+      },
+      {
+       "nombre": "Sánchez Trinidad, Rosa del Carmen",
+       "orcid": null
+      },
+      {
+       "nombre": "Castillo Méndez, Rocío del Carmen",
+       "orcid": null
+      }
+     ],
+     "resumen": "Se compararon decisiones influyentes en el cuidado y utilización uso de plantas ornamentales de acuerdo con los roles del sistema familia, asumiendo que son: económicas, políticas, de valor y significado y vivencias adquiridas, en el Ejido Ignacio Allende, municipio de Tenosique, Tabasco, México, ubicado en el Área Natural Protegida a nivel nacional “Cañón del Usumacinta”. Se utilizó la teoría de los sistemas sociales, operacionalizada bajo un enfoque mixto, el tamaño de muestra (n: 21) de 158 hogares. Se observaron los roles del sistema familia, distinguiéndose acoplamientos entre familias y parientes que explican interpenetración y generación de espacios de sentido sobre el manejo de plantas ornamentales. El papel de la mujer, de la mamá es relevante (48 %). La adquisición de plantas codifica: a través de intercambio entre familiares/parientes (33.3%). Los programas de capacitación, iterables entre las familias, supondría un aumento resiliente del conocimiento sobre el manejo de plantas en vivero; del valor que le otorgan, codifican las categorías: “estética”, “medicinal” y “bienestar psicológico”. De las vivencias adquiridas se tiene que, de 21 familias entrevistadas, se registraron 230 plantas, agrupadas en 31 familias; destacando las Euphorbiaceae, Rosaceae y Lamiaceae, por uso ornamental, medicinal y consumo alimenticio. Las fa- milias prefieren sembrar sus plantas directo al suelo o en macetas. Las plantas se propagan por esquejes, semillas, hijuelos y rizomas o bulbos. Se acepta que el sistema familia decide en función de la iterabilidad simbólica de significados, determinados por las políticas, valor/significado y vivencias adquiridas, del aspecto económico, se observó que no comercializan sus plantas.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/587",
+     "doi": "10.7770/cuhso-v34n2-art591",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v34n2-art743",
+     "titulo": "Desastre y desorden: las autoridades locales frente al terremoto de Port Royal, Jamaica (1692-1722)",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Ramírez Sánchez, Gonzalo",
+       "orcid": null
+      }
+     ],
+     "resumen": "Este trabajo analiza las largas consecuencias del terremoto de 1692, acaecido en Port Royal (Jamaica), desde la perspectiva del desorden que ocasionó. Eventos destructores de tal magnitud suelen ir asociados a situaciones de enorme caos que alteran la cotidianidad de una sociedad, perturbando un orden preexistente. Ello acaeció el 7 de junio de aquel año, cuando se produjo uno de los sismos más devastadores de la historia del Caribe. Tras este, las autoridades locales de la Jamaica inglesa hubieron de hacer frente a una serie de amenazas que desafiaron el orden político, social y económico vigente. A través de la puesta en marcha de un conjunto de medidas y estrategias, estas trataron de aminorar sus peligrosos efectos, a corto y largo plazo. Entre estos, se encontraban el estado de anarquía más inmediato, el estallido de una rebelión de la población esclavizada, el ataque extranjero o la insalubridad. No sería hasta 1722 cuando, tras un nuevo desastre, Port Royal perdería definitivamente su categoría de ciudad y puerto preponderante en la isla, en favor de Kingston, siendo tal fecha el cierre de la presente investigación. Por me-dio del análisis de fuentes de consideración diversa, se pretende identificar de qué modo las autoridades locales percibieron aquel desorden suscitado y qué medidas implementaron en defensa de sus intereses y de su posición social.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/736",
+     "doi": "10.7770/cuhso-v34n2-art743",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v34n2-art834",
+     "titulo": "Editorial",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Gloël, Matthias",
        "orcid": null
       }
      ],
      "resumen": null,
      "idioma_resumen": null,
      "licencia": {
-      "nombre": "CC BY-NC-SA 4.0",
-      "url": "http://creativecommons.org/licenses/by-nc-sa/4.0"
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
      },
-     "url": "https://doi.org/10.7770/cuhso.v30i2.2398",
-     "doi": "10.7770/cuhso.v30i2.2398",
-     "paginas": "10-18",
-     "fuente": "Crossref"
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/825",
+     "doi": "10.7770/cuhso-v34n2-art834",
+     "paginas": null,
+     "fuente": "OAI-PMH"
     },
     {
-     "id": "10.7770/cuhso.v30i2.2140",
-     "titulo": "Construcciones sociopolíticas del territorio. Movimientos indígenas y políticas públicas, la configuración de los espacios locales",
+     "id": "10.7770/cuhso-v34n2-art752",
+     "titulo": "El derecho a la vida y a la libertad: un estudio de la esclavitud moderna en Venezuela.",
      "idioma_titulo": "es",
      "autores": [
       {
-       "nombre": "Natalia Isabel Caniguan Velarde",
-       "orcid": null
-      }
-     ],
-     "resumen": "Los actuales territorios en que viven los pueblos indígenas están cruzados por diversos tipos de fronteras y delimitaciones administrativas que los constituyen. Se entrecruzan y superponen nociones tales como comunas y comunidades, junto a la irrupción de nuevas definiciones como “áreas dedesarrollo indígena”, lof, ayllarewe, sector, entre otros. Estas denominaciones, algunas estatales, otras surgidas desde los actores locales refieren siempre a un mismo espacio, no obstante, los significados que encierran son distintos y a veces hasta divergentes y cada uno de ellos busca dar cuenta del uso, permanencia, presencia y control sobre el territorio.Desde una etnografía realizada en territorio lafkenche de la Araucanía observamos lo que ocurre con un mismo espacio territorial que es leído y vivido desde una mirada administrativa municipal con cruces de la política indígena nacional y desde una perspectiva cultural mapuche. Estas miradas y vivencias políticas del territorio dan cuenta de alianzas, disputas, estrategias, y discursos que lo configuran, donde muchas veces lo administrativo y la política local sevuelve el contenedor de la mirada histórica cultural- constriñéndose el territorio a los límites políticos del Estado y sus estrategias de acción e intervención.",
-     "idioma_resumen": "es",
-     "licencia": {
-      "nombre": "CC BY-NC-SA 4.0",
-      "url": "http://creativecommons.org/licenses/by-nc-sa/4.0"
-     },
-     "url": "https://doi.org/10.7770/cuhso.v30i2.2140",
-     "doi": "10.7770/cuhso.v30i2.2140",
-     "paginas": "19-40",
-     "fuente": "Crossref"
-    },
-    {
-     "id": "10.7770/cuhso.v30i2.2206",
-     "titulo": "Conflicto y (re)producción de espacio en tierra pewenche: disputas en torno a la Reserva Nacional Alto Bío-Bío, Lonquimay",
-     "idioma_titulo": "es",
-     "autores": [
-      {
-       "nombre": "Bastien Sepulveda",
-       "orcid": null
-      }
-     ],
-     "resumen": "Se analiza en este artículo la manera en que el manejo de las áreas protegidas establecidas en territorios indígenas se ve influenciado e incluso determinado por las dinámicas socio-políticas propias de las comunidades locales. A través del caso de la Reserva Nacional Alto Bío-Bío en Chile, se demuestra que, si bien la relación que une los pueblos indígenas a las áreas protegidas resulta ser indudablemente “conflictual”, el conflicto no solamente se da entre los indígenas y el Estado o entre los indígenas y sus vecinos no indígenas, sino también entre las propias comunidades indígenas. Se propone avanzar así en la comprensión del conflicto y sus funciones, destacando que, por un lado, el conflicto permite visualizar las tensiones existentes en torno al acceso y/o apropiación de determinados espacios, pero que, por el otro, actúa como una suerte de catalizador que redefine las relaciones de poder entre los actores en presencia, (re)posicionándolos social y políticamente y (re)distribuyéndolos espacialmente. Este proceso es analizado en la perspectiva de una “geografíadel conflicto”, enfoque a través del cual se aborda y considera la experiencia de las comunidades pewenches aledañas a la Reserva Nacional Alto Bío-Bío, cuyas movilizaciones resultaron en una nueva cartografía de los actores enpresencia y sus respectivos espacios. Finalmente, se concluye planteando que el conflicto cumple una función de producción y resiliencia del entramado territorial pewenche.",
-     "idioma_resumen": "es",
-     "licencia": {
-      "nombre": "CC BY-NC-SA 4.0",
-      "url": "http://creativecommons.org/licenses/by-nc-sa/4.0"
-     },
-     "url": "https://doi.org/10.7770/cuhso.v30i2.2206",
-     "doi": "10.7770/cuhso.v30i2.2206",
-     "paginas": "41-70",
-     "fuente": "Crossref"
-    },
-    {
-     "id": "10.7770/cuhso.v30i2.1630",
-     "titulo": "La huella marca la montaña: movilidades y articulaciones del Territorio Pewenche en Alto Biobío, Wallmapu.",
-     "idioma_titulo": "es",
-     "autores": [
-      {
-       "nombre": "Viviana Huiliñir-Curío",
-       "orcid": null
-      }
-     ],
-     "resumen": "Relacionando discusiones en torno a los conceptos de montaña y territorio, este trabajo analiza rol de la movilidad y su importancia en la producción de geografías de montañas en relación a huellas y senderos usados por las comunidades pewenches de Cauñicú y El Barco en Alto Biobío. A través de un estudio comparativo basado en métodos cualitativos, se describirán las principales prácticas asociadas a la movilidad pewenche que explican la dinámica territorial para cada comunidad. Se concluye que el sendero (ptrarüpü) articula la montaña pewenche a través la trashumancia. A su vez, el sendero revela las transformaciones y dinámicas del territorio pewenche, trayendo consigo el surgimiento de nuevas movilidades.",
-     "idioma_resumen": "es",
-     "licencia": {
-      "nombre": "CC BY-NC-SA 4.0",
-      "url": "http://creativecommons.org/licenses/by-nc-sa/4.0"
-     },
-     "url": "https://doi.org/10.7770/cuhso.v30i2.1630",
-     "doi": "10.7770/cuhso.v30i2.1630",
-     "paginas": "71-97",
-     "fuente": "Crossref"
-    },
-    {
-     "id": "10.7770/cuhso.v30i2.2053",
-     "titulo": "El relato turístico mapuche: identidad, territorio y políticas públicas",
-     "idioma_titulo": "es",
-     "autores": [
-      {
-       "nombre": "Francisca De la Maza",
+       "nombre": "Fernandez-Osorio, Andres Eduardo",
        "orcid": null
       },
       {
-       "nombre": "Eugenia Huisca",
-       "orcid": null
-      }
-     ],
-     "resumen": "El artículo aborda el relato turístico mapuche en los procesos identitarios y territoriales locales focalizados en la Región de La Araucanía. La perspectiva de análisis se centra en concepciones antropológicas relacionadas al turismo indígena, autenticidad, narrativa turística y el relato mapuche. La metodología de investigación es etnográfica por medio de trabajo de campo, incluyendo observación participante, entrevistas en profundidad, reuniones grupales y seguimiento de prensa, relacionadas a diversos ámbitos donde se implementan tanto acciones estatales como autogestionadas vinculadas al desarrollo turístico mapuche. El relato turístico mapuche constituye la principal distinción de la oferta de turismo mapuche, que lo diferencia de cualquier otra experiencia turística. La valoración y construcción cultural e histórica, en este contexto de desarrollo turístico mapuche, son claves para esta distinción que se interrelaciona con otros procesos que viven los sectores mapuches de la región, como son reivindicación territorial, resistencia frente a la presencia de proyectos extractivistas y demandas por derechos políticos vinculados a las condiciones de pérdida y degradación de las tierras. La construcción del relato turístico en general se desarrolla en un contexto de implementación de políticas públicas que fomentan el turismo indígena y que son ejecutados por agentes privados que toman el rol de intermediarios y ejecutores de la política pública. Dependiendo de estos intermediarios/ejecutores, a través de programas y proyectos, el relato puede constituirse en una forma de fortalecimiento identitario y territorial, o en una reproducción de un discurso orientado sólo al potencial turista. En este proceso de construcción de relato se desarrollan diversas situaciones que permiten 99 profundizar en los matices de la acción estatal referido al pueblo mapuche. Se identifican las formas en que el turismo mapuche se expresa en el espacio local no sólo como una oportunidad económica, sino más bien como un proceso de fortalecimiento e incluso de resistencia cultural territorial.",
-     "idioma_resumen": "es",
-     "licencia": {
-      "nombre": "CC BY-NC-SA 4.0",
-      "url": "http://creativecommons.org/licenses/by-nc-sa/4.0"
-     },
-     "url": "https://doi.org/10.7770/cuhso.v30i2.2053",
-     "doi": "10.7770/cuhso.v30i2.2053",
-     "paginas": "98-118",
-     "fuente": "Crossref"
-    },
-    {
-     "id": "10.7770/cuhso.v30i2.1650",
-     "titulo": "Turismo Invasivo y Turismo Mapuche: territorio indígena y emprendimiento con identidad en Laguna Icalma, Alto Biobío",
-     "idioma_titulo": "es",
-     "autores": [
-      {
-       "nombre": "Ignacio Krell Rivera",
-       "orcid": null
-      }
-     ],
-     "resumen": "Esta investigación cualitativa explora la agencia económica de emprendedores turísticos mapuche en las intersecciones entre los discursos del Desarrollo con Identidad y la turistificación del territorio Mapuche-Pewenche en el sur de Chile. En base a la observación etnográfica y entrevistas realizadas en el sector de Laguna Icalma, y el análisis de documentos institucionales, se describen narrativas contrapuestas en torno a la turistificación del territorio indígena emergiendo de la apropiación estratégica del discurso gubernamental del Desarrollo con Identidad por los sujetos indígenas a los que este interpela en tanto etno-emprendedores. A su vez, este tipo nuevo de líder económico indígena comienza a ejercer una incidencia re-politizada sobre las trayectorias de turistificación del territorio mapuche, avanzando una agenda de sustentabilidad situada en la reconstrucción ontológica del Pewenmapu.",
-     "idioma_resumen": "es",
-     "licencia": {
-      "nombre": "CC BY-NC-SA 4.0",
-      "url": "http://creativecommons.org/licenses/by-nc-sa/4.0"
-     },
-     "url": "https://doi.org/10.7770/cuhso.v30i2.1650",
-     "doi": "10.7770/cuhso.v30i2.1650",
-     "paginas": "119-148",
-     "fuente": "Crossref"
-    },
-    {
-     "id": "10.7770/cuhso.v30i2.2112",
-     "titulo": "El patrimonio cultural inmaterial de los pueblos indígenas: bienes comunes ligados a la identidad de la comunidad",
-     "idioma_titulo": "es",
-     "autores": [
-      {
-       "nombre": "Irene Merino Calle",
-       "orcid": null
-      }
-     ],
-     "resumen": "El Patrimonio Cultural es un terreno no circunscrito únicamente a monumentos o colecciones –patrimonio cultural material-, sino que se compone también de manifestaciones o tradiciones vivas de nuestros antepasados que son o tienen intención de ser transmitidos a futuras generaciones- patrimonio cultural inmaterial-. Este último es una pieza esencial en la conservación de la diversidad frente al auge de la globalización. Catalogarlos adecuadamente como bienes comunes y darles una regulación apropiada es el objetivo del presente artículo.",
-     "idioma_resumen": "es",
-     "licencia": {
-      "nombre": "CC BY-NC-SA 4.0",
-      "url": "http://creativecommons.org/licenses/by-nc-sa/4.0"
-     },
-     "url": "https://doi.org/10.7770/cuhso.v30i2.2112",
-     "doi": "10.7770/cuhso.v30i2.2112",
-     "paginas": "149-159",
-     "fuente": "Crossref"
-    },
-    {
-     "id": "10.7770/cuhso.v30i2.1856",
-     "titulo": "Mujeres en el trabajo: persistencia de los condicionantes de género en el ámbito laboral",
-     "idioma_titulo": "es",
-     "autores": [
-      {
-       "nombre": "Lucila Flego",
+       "nombre": "Villalba-Garcia, Luisa Fernanda",
        "orcid": null
       },
       {
-       "nombre": "Julian Ortega",
+       "nombre": "Tirado-Acero, Misael",
        "orcid": null
       }
      ],
-     "resumen": "En el contexto actual de la creciente visibilización de las manifestaciones y reclamos de los movimientos feministas en Argentina, este artículo se propone indagar sobre la desigualdad de género hacia las mujeres en el ámbito laboral. Desde un enfoque cualitativo se analizaron las percepciones de las entrevistadas respecto de los siguientes condicionantes en sus trabajos: brecha salarial, segmentación horizontal y vertical, distribución del trabajo doméstico y otras formas de discriminación de género. Los resultados muestran la presencia de todos los condicionantes estudiados. Además, si bien las entrevistadas se mostraron familiarizadas y a favor de ciertas demandas del feminismo ello no redundó en una interpelación subjetiva que posibilite una apropiación de dichos reclamos ante las inequidades vivenciadas y relatadas por ellas mismas en sus espacios de trabajo, en comparación con sus colegas y superiores varones.",
+     "resumen": "La esclavitud moderna, un crimen que priva de su libertad y dignidad a millones de personas en todo el mundo, se manifiesta a través de la explotación, la violencia, el engaño y el abuso de poder. En América Latina, Venezuela se ha convertido en uno de los focos más críticos de este delito, donde la crisis humanitaria ha generado las condiciones perfectas para la proliferación de redes de trabajo forzado y prácticas esclavizantes. A través de una perspectiva sistémica y un enfoque cualitativo, este artículo aborda la problemática de la esclavitud moderna en Venezuela, analizando sus causas, consecuencias y los desafíos para su erradicación. Los hallazgos evidencian cómo la crisis económica, la pobreza, la inestabilidad política, la debilidad del marco legal vigente y las dificultades en la judicialización interactúan de manera compleja, generando un entorno propicio para este delito. Las causas subyacentes a este fenómeno se encuentran en la interconexión de factores como la pobreza, la desigualdad, la corrupción y la debilidad institucional; así mismo, la falta de oportunidades laborales, sumada a la impunidad y la falta de acceso a la justicia, facilita la proliferación de redes criminales que se lucran de este crimen. Se concluye que, para dar solución a la esclavitud moderna en Venezuela, se requieren acciones urgentes a nivel nacional e internacional para fortalecer el marco legal, mejorar la coordinación entre las instituciones, promover programas de prevención y sensibilización y fomentar el desarrollo sostenible.",
      "idioma_resumen": "es",
      "licencia": {
-      "nombre": "CC BY-NC-SA 4.0",
-      "url": "http://creativecommons.org/licenses/by-nc-sa/4.0"
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
      },
-     "url": "https://doi.org/10.7770/cuhso.v30i2.1856",
-     "doi": "10.7770/cuhso.v30i2.1856",
-     "paginas": "160-188",
-     "fuente": "Crossref"
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/745",
+     "doi": "10.7770/cuhso-v34n2-art752",
+     "paginas": null,
+     "fuente": "OAI-PMH"
     },
     {
-     "id": "10.7770/cuhso.v30i2.1949",
-     "titulo": "Conocimiento de la Rehabilitación Basada en la Comunidad por parte de fonoaudiólogos de la región de Valparaíso, Chile",
+     "id": "10.7770/cuhso-v34n2-art650",
+     "titulo": "El “nosotros mapuche” más allá de la noción de cultura. Una mirada crítica sobre el sentido de pertenencia",
      "idioma_titulo": "es",
      "autores": [
       {
-       "nombre": "Angélica Pilar Silva Ríos",
+       "nombre": "Canton, Damian Andres",
+       "orcid": null
+      }
+     ],
+     "resumen": "Uno de los principales abordajes en materia de análisis y praxis socio- político de las sociedades contemporáneas, consiste en la convivencia entre la diversidad de demandas de reconocimiento de índole político, género, orientación sexual, colectivos racializados, pueblos originarios, colectividades de inmigrantes, entre otros. Este fenómeno cada vez más legitimado en el ámbito académico como político, adopta a modo genérico el nombre de “interculturalidad”. El artículo propone referencias que permiten observar en primer lugar, la mirada crítica sobre la pertinencia (o no) del uso del concepto de “cultura” para comprender esta clase de relación entre entidades sociales. En segundo lugar, se exploran diversas formas que llevan a identificar los rasgos principales que sostienen al “sentido de pertenencia” como categoría de análisis. Se sugieren algunas referencias claves para comprender el fenómeno gregario de la naturaleza humana y recursos teóricos que permitan orientar políticas estatales capaces de armonizar las múltiples formas de cohabitación en el espa- cio público bajo un contrato social. Para concluir, el recorrido será realizado desde la evidencia que emerge como resultado de la investigación cualitativa realizada en terreno entre 2015 y 2018, parte de la titulación del Doctorado en Ciencias Sociales y Políticas de la Universidad católica de Louvain la Neuve (Bélgica) y del Proyecto de Investigación denominado “Pluralismo, Democracia y Ciudadanía en Argentina” de la Universidad Siglo 21 (Argentina).",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/645",
+     "doi": "10.7770/cuhso-v34n2-art650",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v34n2-art606",
+     "titulo": "Entre la tradición y el proyecto moderno: proyectos de vida de jóvenes rurales pewenche",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Amo, Blanca",
        "orcid": null
       },
       {
-       "nombre": "Manuel Del Campos Rivas",
+       "nombre": "Román Mella, Francisca",
        "orcid": null
       },
       {
-       "nombre": "Rodrigo Pérez Pérez",
-       "orcid": null
-      }
-     ],
-     "resumen": "Introducción: La Rehabilitación Basada en la Comunidad (RBC) representa un nuevo ámbito de trabajo para fonoaudiólogos(as) en Chile. En la región de Valparaíso co-existen organizaciones no gubernamentales (ONG) y otras instituciones donde la RBC constituye un marco de acción para el quehacer profesional. A la fecha y desde la fonoaudiología, no se ha descrito el manejo teórico-práctico de los profesionales que se desempeñan en este ámbito. Objetivo: El objetivo de esta investigación fue describir el conocimiento que poseen los fonoaudiólogos respecto a la estrategia RBC y cómo estos saberes se ajustan a su práctica profesional. Método: estudio convergente paralelo a partir de un estudio observacional-descriptivo, de corte transversal, complementado con un diagnóstico participativo. Resultados: un 22% de los informantes comunica que las instituciones donde trabajan adscriben a la RBC, el 78% cuenta con contratos inferiores a 12 horas semanales y 83% considera que su jornada no le permite realizar acciones atingentes a la estrategia. Un 50% define de forma adecuada la RBC y el 88% acierta al identificar los pilares de la misma. Un 75% de los consultados refiere el ser agente de salud como eje central de su labor y un 25% comunica que sus responsabilidades han de centrarse en la ejecución de talleres comunitarios. Los profesionales observan a la comunidad como un otro al cual asisten sanitariamente y declaran la necesidad de transitar hacia un paradigma donde domine la promoción y la prevención. Conclusiones: El conocimiento de la RBC por parte de fonoaudiólogos participantes del estudio, es aún intuitivo no existiendo coherencia entre los saberes teóricos y prácticos declarados. Es necesario fortalecer la formación a nivel de pre y posgrado, con objeto de alinear la práctica fonoaudiológica con las recomendaciones internacionales de la RBC.",
-     "idioma_resumen": "es",
-     "licencia": {
-      "nombre": "CC BY-NC-SA 4.0",
-      "url": "http://creativecommons.org/licenses/by-nc-sa/4.0"
-     },
-     "url": "https://doi.org/10.7770/cuhso.v30i2.1949",
-     "doi": "10.7770/cuhso.v30i2.1949",
-     "paginas": "189-202",
-     "fuente": "Crossref"
-    },
-    {
-     "id": "10.7770/cuhso.v30i2.1931",
-     "titulo": "Activos, autónomos y contribuyentes: argumentos para la resignificación de las representaciones sociales sobre envejecimiento en Chile",
-     "idioma_titulo": "es",
-     "autores": [
-      {
-       "nombre": "Carlos René Rodríguez-Garcés",
-       "orcid": "https://orcid.org/0000-0002-9346-0780"
-      },
-      {
-       "nombre": "Geraldo Bladimir Padilla-Fuentes",
-       "orcid": "https://orcid.org/0000-0003-0882-1818"
-      },
-      {
-       "nombre": "Javier Ávila-Bascuñán",
-       "orcid": null
-      }
-     ],
-     "resumen": "El objetivo es indagar en la situación familiar, económica y multidimensional de personas mayores en Chile, cuestión clave para direccionar medidas políticas y programáticas. Utilizando datos CASEN, se analizan las tendencias de envejecimiento poblacional, los tipos de composición familiar con presencia de personas mayores y situación de pobreza y carencialidad que enfrentan los hogares, en especial respecto a contribuciones económicas y vulnerabilidad. Los resultados plantean que el grupo de personas mayores en Chile es activo y colabora en la economía familiar; no son integrantes dependientes ni recluidos en el hogar. Presentan bajos niveles de pobreza monetaria y carencialidad vinculada a la autonomía, apoyo social, trato igualitario y seguridad. La prioridad en materia política para este grupo residen en al menos tres desafíos: garantizar condiciones laborales dignas para quienes desean seguir trabajando; fortalecer el enfoque multidimensional de medición de pobreza, capaz de capturar las carencias en hogares constituidos o con presencia de personas mayores; y mejorar las condiciones de habitabilidad y entorno que tienen los hogares, en particular accesibilidad a servicios públicos y transporte.",
-     "idioma_resumen": "es",
-     "licencia": {
-      "nombre": "CC BY-NC-SA 4.0",
-      "url": "http://creativecommons.org/licenses/by-nc-sa/4.0"
-     },
-     "url": "https://doi.org/10.7770/cuhso.v30i2.1931",
-     "doi": "10.7770/cuhso.v30i2.1931",
-     "paginas": "203-244",
-     "fuente": "Crossref"
-    },
-    {
-     "id": "10.7770/cuhso.v30i2.1939",
-     "titulo": "Representaciones sociales de pobreza: miradas de los apoyos familiares del programa familias de la provincia del Biobío, VIII región Chile",
-     "idioma_titulo": "es",
-     "autores": [
-      {
-       "nombre": "Deiset López Rubilar",
+       "nombre": "Garcés, Gabriela",
        "orcid": null
       },
       {
-       "nombre": "Isis Chamblás García",
-       "orcid": null
-      }
-     ],
-     "resumen": "El propósito del estudio fue conocer las representaciones sociales de pobreza y/o personas en situación de pobreza en profesionales que se desempeñan como Apoyos familiares del Programa Familias. Se trata de un estudio cuantitativo, complementado con aspectos cualitativos, con alcance descriptivo. Se aplicó una encuesta a 41 apoyos familiares de 13 de las 14 comunas de la provincia del Biobío. Los resultados y conclusiones dan cuenta que prevalecen representaciones sociales de pobreza asociadas a una concepción de pobreza absoluta, descrita como de “carencias” y “necesidades” y en menor medida, con expresiones como “falta de oportunidades” y “exclusión social”. No se observa suficiente diferencia en los significados asignados a pobreza y a pobreza extrema; en ambos casos las representaciones refieren a “personas pobres” más que a la “situación de pobreza”. Destaca la mirada positiva respecto de la factibilidad de “superación de la pobreza” y reconocimiento de capacidades en las personas con las cuales intervienen para superar la situación de pobreza.",
-     "idioma_resumen": "es",
-     "licencia": {
-      "nombre": "CC BY-NC-SA 4.0",
-      "url": "http://creativecommons.org/licenses/by-nc-sa/4.0"
-     },
-     "url": "https://doi.org/10.7770/cuhso.v30i2.1939",
-     "doi": "10.7770/cuhso.v30i2.1939",
-     "paginas": "225-239",
-     "fuente": "Crossref"
-    },
-    {
-     "id": "10.7770/cuhso.v30i2.1866",
-     "titulo": "Dispositivo de evaluación educacional y gubernamentalidad en Chile: los orígenes (1844-1970)",
-     "idioma_titulo": "es",
-     "autores": [
-      {
-       "nombre": "Claudio Ramos Zincke",
-       "orcid": "https://orcid.org/0000-0003-0362-9667"
-      },
-      {
-       "nombre": "Alejandra Falabella Ambrosio",
-       "orcid": null
-      }
-     ],
-     "resumen": "El dispositivo de evaluación es una tecnología clave para la gubernamentalidad o “conducción de la conducta” en el ámbito de la educación. Al respecto, los estudios de los últimos años enfatizan especialmente la asociación de los mecanismos de evaluación educacional con el mercado y los procesos político-institucionales iniciados en los años 1980. No obstante, existe un largo recorrido previo, que antecede la introducción del neoliberalismo en educación. Este artículo examina esa génesis desde mediados del siglo XIX hasta 1970. Exhibe los procedimientos de vigilancia y registro de la actividad educacional en el siglo XIX y el creciente uso de la calculabilidad estadística y los conocimientos científicos, que adquieren un rol crucial desde las primeras décadas del siglo XX, hasta llegar a una configuración integral del dispositivo a fines de los años 1960. En esta trayectoria hay luchas y cuestionamientos reiterados, pero finalmente se estabiliza un dispositivo marcado por la centralización estatal, una gran confianza en la ciencia, expresada particularmente en la psicometría y medición educacional, y un uso masificado de las evaluaciones estandarizadas. Cuando, en la década de los 1980, se instauran las políticas de mercado en la educación, este dispositivo ya se encontraba prefigurado en sus elementos fundamentales. Bajo el gobierno de Frei Montalva, en el marco de la planificación educacional, se había constituido un dispositivo que estaba listo para funcionar y guiar la intervención en el sistema educacional. Si no se puso en operaciones antes de los años ochenta, esto fue inicialmente por limitaciones tecnológicas y, después, por contingencias políticas, no por oposición al mecanismo.La investigación se basa en el examen de una extensa recopilación de documentos del período (leyes, documentos oficiales, discursos, estudios, prensa escrita, entre otros), sumado a entrevistas de informantes claves.",
-     "idioma_resumen": "es",
-     "licencia": {
-      "nombre": "CC BY-NC-SA 4.0",
-      "url": "http://creativecommons.org/licenses/by-nc-sa/4.0"
-     },
-     "url": "https://doi.org/10.7770/cuhso.v30i2.1866",
-     "doi": "10.7770/cuhso.v30i2.1866",
-     "paginas": "240-269",
-     "fuente": "Crossref"
-    },
-    {
-     "id": "10.7770/cuhso.v30i2.1948",
-     "titulo": "ECOLOGICAL METAPHORS IN DEBATES OVER LANGUAGE AND LANGUAGE POLITICS IN CATALONIA (1999-2009)",
-     "idioma_titulo": "en",
-     "autores": [
-      {
-       "nombre": "Carsten Sinner",
-       "orcid": null
-      }
-     ],
-     "resumen": "In the last two decades, the ecological approach has attracted the interest of Spanish and Catalan linguists. Nonetheless, until recently linguists stated a lack of connection of the fields of language ecology and language policy. The study of language and ecology has not yet become a matter of public interest; it only appears in scientific publications and the media using startling ecological metaphors such as threat of extinction, etc. This contribution analyses the language used both by professional linguists and laypeople in publications and in the public debate on the conflicts in Spanish and Catalan bilingualism in the decade before the constitutional and supreme courts ruled against the prevalence of the Catalan language in Catalonia (1999-2009). The decade analysed here can be characterized by a sensation of growing linguistic conflicts that manifested, for example, through heated debates over what Catalans perceived as life threatening for the Catalan language, on the one hand, and reactions such as demands for the introduction of additional teaching hours to prevent the alleged extinction of Spanish in Catalonia, on the other hand. The Catalan society is reliving the ghost of extinction of their language—probably reinforced by publications which denounce a continuous reduction of living space and the disappearance of more and more niches of the Catalan language. On the other hand, Castilian activists (and among them some linguists) maintain there is a battle the Castilian language in Catalonia has to win in order to survive the said-to-be ferocious reduction of its vital space and the asserted institutionalized suffocation or extermination of the Spanish language. The texts analysed in this contribution belong to a text series which regarding its content and aims corresponds to a reduced number of triggering reference texts. The aim is to determine the importance of the language of ecology in this field and the usage of these elements by both sides, those denouncing the threat of the Castilian language and those fearing the risk of extinction of the Catalan language. It will be shown that in the debate over the struggle for life of Catalan and Spanish in the Catalan speaking areas, the language of ecology and evolution is heavily used and that the re-contextualization of Catalan metaphors in the analysed Spanish texts is systematic.",
-     "idioma_resumen": "en",
-     "licencia": {
-      "nombre": "CC BY-NC-SA 4.0",
-      "url": "http://creativecommons.org/licenses/by-nc-sa/4.0"
-     },
-     "url": "https://doi.org/10.7770/cuhso.v30i2.1948",
-     "doi": "10.7770/cuhso.v30i2.1948",
-     "paginas": "270-298",
-     "fuente": "Crossref"
-    },
-    {
-     "id": "10.7770/cuhso.v30i2.1818",
-     "titulo": "En torno a los orígenes de la Gran Divergencia: debates recientes en historia económica (2000-2018)",
-     "idioma_titulo": "es",
-     "autores": [
-      {
-       "nombre": "Mauricio Casanova Brito",
-       "orcid": null
-      }
-     ],
-     "resumen": "El objetivo principal de este artículo es analizar el debate reciente en torno a los orígenes históricos de la denominada Gran Divergencia. Se examinan cuatro posturas. Primero, la idea de trampa maltusiana desarrollada por Gregory Clark. Segundo, el punto de vista de la Escuela de California de Historia Económica, liderada por Kenneth Pomeranz. Tercero, la hipótesis de la economía de altos salarios de Robert C. Allen. Cuarto, el concepto de revolución industriosa propuesto por Jan de Vries. El artículo concluye describiendo las tendencias recientes de la historiografía económica: la renovación de las ideas maltusianas, las críticas a la historia social de fines del siglo XX y el énfasis en la historia de Asia",
-     "idioma_resumen": "es",
-     "licencia": {
-      "nombre": "CC BY-NC-SA 4.0",
-      "url": "http://creativecommons.org/licenses/by-nc-sa/4.0"
-     },
-     "url": "https://doi.org/10.7770/cuhso.v30i2.1818",
-     "doi": "10.7770/cuhso.v30i2.1818",
-     "paginas": "299-328",
-     "fuente": "Crossref"
-    },
-    {
-     "id": "10.7770/cuhso.v30i2.1850",
-     "titulo": "Costanera Center como escenario de las performatividades (del poder) de la resistencia",
-     "idioma_titulo": "es",
-     "autores": [
-      {
-       "nombre": "Yael Andrea Zaliasnik Schilkrut",
-       "orcid": "https://orcid.org/0000-0003-2954-0687"
-      }
-     ],
-     "resumen": "El artículo profundiza en la relación entre lugar y poder, mediada por la teatralidad. Para ello, se pesquisan algunos actos corpóreos y efímeros, que consciente o inconscientemente, utilizan elementos del teatro para lograr una cierta eficacia performativa relacionada con escenificar y ejercer el poder de la resistencia en el espacio de Costanera Center, un centro comercial de Santiago, cuyos personeros han insistido en presentar como “ícono” de la ciudad y el país. Estos actos muestran cómo en dicho escenario, producto sobre todo de la desigualdad, el “espacio vivido”, en la concepción de Lefebvre, es muy distinto para muchos al “espacio concebido” y al “espacio percibido”. Como puede verse sobre todo al reparar en la dimensión del “espacio de la representación” (mediante el análisis de distintos actos), lo que para algunos es un lugar de ensueño, para otros es lo frustrante, un guión que evidencia la invisibilidad de sus vidas precarias y desechables.",
-     "idioma_resumen": "es",
-     "licencia": {
-      "nombre": "CC BY-NC-SA 4.0",
-      "url": "http://creativecommons.org/licenses/by-nc-sa/4.0"
-     },
-     "url": "https://doi.org/10.7770/cuhso.v30i2.1850",
-     "doi": "10.7770/cuhso.v30i2.1850",
-     "paginas": "329-357",
-     "fuente": "Crossref"
-    },
-    {
-     "id": "10.7770/cuhso.v30i2.1878",
-     "titulo": "La autonomía individual bajo la tutela del binomio médico-jurídico: hacia una conceptualización histórico-relacional",
-     "idioma_titulo": "es",
-     "autores": [
-      {
-       "nombre": "Rubén Alejandro Nilo Pérez",
-       "orcid": null
-      }
-     ],
-     "resumen": "El presente trabajo presenta una discusión crítica sobre la noción de autonomía individual como resorte para pensar la situación de justicia y la calidad de vida de quienes padecen lo que hoy se conoce como discapacidades mentales severas. Parte de la base de que cuestiones como la participación social, los derechos humanos y la ciudadanía de este grupo social, históricamente marginado y excluido, no pueden pensarse seriamente sin discutir la representación social hegemónica que visualiza la locura o enfermedad mental como ausencia de autonomía individual. Esta situación se observa tanto a nivel de los principios en que se basan nuestras instituciones sociales y políticas públicas, como en la vida cotidiana de los propios actores. Se requiere, en consecuencia, pensar nuevas maneras para entender el problema de la autonomía individual que resulten inclusivas para el caso de los locos o discapacitados mentales. Esto resulta necesario, al menos para quienes crean que categorías como individuo o ciudadano deban incluir también a quienes pertenecen a esta minoría. Pero además porque resulta necesario desnaturalizar una concepción liberal de la autonomía individual que la visualiza como una capacidad funcional de individuos racionales autointeresados y no como una capacidad relacional, que jamás puede perderse por causa de una enfermedad o discapacidad. El enfoque de la autonomía relacional se propone finalmente como un acercamiento a la autonomía individual inclusivo con condiciones como la discapacidad mental, pero que nos obliga inmediatamente a atender a la cuestión de la relacion con los otros, probablemente la esencia del problema de la locura, a fin de cuentas.",
-     "idioma_resumen": "es",
-     "licencia": {
-      "nombre": "CC BY-NC-SA 4.0",
-      "url": "http://creativecommons.org/licenses/by-nc-sa/4.0"
-     },
-     "url": "https://doi.org/10.7770/cuhso.v30i2.1878",
-     "doi": "10.7770/cuhso.v30i2.1878",
-     "paginas": "358-381",
-     "fuente": "Crossref"
-    },
-    {
-     "id": "10.7770/cuhso.v30i2.1842",
-     "titulo": "Retóricas de la cocina. La culinaria del discurso de Platón a Lévi-Strauss",
-     "idioma_titulo": null,
-     "autores": [
-      {
-       "nombre": "Valeria Rocío Campos Salvaterra",
-       "orcid": null
-      }
-     ],
-     "resumen": "Son escasos los lugares donde encontramos referencias a la cocina en los textos filosóficos de occidente, pudiéndose concluir de ese vacío una cierta relación especial de esta temática con el discurso en general. Nuestra tesis al respecto es que, pese a su condición marginal para la filosofía, su aparición en los textos dedicados al saber es siempre comportando una cierta función retórica. El siguiente artículo muestra, a partir de ciertos escritos –inéditos y publicados– de J. Derrida, que tanto el comer como el cocinar representan metonímicamente la lógica general del discurso filosófico, en cuanto éste no puede distanciarse de una cierta retoricidad que le es constitutiva. Rastreando en ciertos textos clave, de Platón a Lévi-Strauss, estos usos trópicos de la cocina, mostraremos cómo ellos refieren a una suerte de lenguaje filosófico que quisieran, al mismo tiempo, excluir sin éxito de los dominios de la filosofía misma.",
-     "idioma_resumen": "es",
-     "licencia": {
-      "nombre": "CC BY-NC-SA 4.0",
-      "url": "http://creativecommons.org/licenses/by-nc-sa/4.0"
-     },
-     "url": "https://doi.org/10.7770/cuhso.v30i2.1842",
-     "doi": "10.7770/cuhso.v30i2.1842",
-     "paginas": "382-404",
-     "fuente": "Crossref"
-    },
-    {
-     "id": "10.7770/cuhso.v30i2.1952",
-     "titulo": "Arqueología en el valle inferior-medio del río Chubut. Resultados de los trabajos exploratorios en la localidad Las Chapas, dto. Alsina",
-     "idioma_titulo": "es",
-     "autores": [
-      {
-       "nombre": "Verónica Schuster",
+       "nombre": "Palet Correa, Daniela",
        "orcid": null
       },
       {
-       "nombre": "Gabriela Isabel Massaferro",
+       "nombre": "Zambrano, Alba",
        "orcid": null
       }
      ],
-     "resumen": "Desde el año 2014 se vienen desarrollando tareas de relevamiento y prospecciones arqueológicas en un área que carecía de investigaciones sistemáticas previas sobre ambas márgenes del río Chubut en el paraje denominado Las Chapas. Estas tareas han permitido registrar hasta el momento ocho sitios, la mayoría de ellos se encuentran emplazados en aleros y cuevas labradas en la Formación Marifil y, presentan arte rupestre (generalmente pinturas monocromas rojas con motivos geométricos). No obstante, se identificaron también materiales de manera aislada, un sitio de superficie -todos ellos con presencia exclusivamente lítica- y un enterratorio del tipo chenque.El conjunto lítico estudiado a la fecha proviene de recolecciones de superficie y de sondeos y se caracteriza por un alto predominio de materias primas silíceas locales de buena calidad, y en menor frecuencia, por materiales alóctonos como cuarcita y obsidiana. Se aprecia además una baja cantidad de instrumentos terminados (principalmente raspadores) mientras que son preponderantes los productos de talla y los núcleos agotados.",
+     "resumen": "Este estudio tuvo por objetivo describir el proceso de construcción de los proyectos de vida de jóvenes rurales pewenche en Lonquimay. Para la comprensión de este proceso, se utilizó una aproximación metodológica desde la fenomenología social para relevar la experiencia de los participantes y de sus contextos significativos, propiciando un diálogo entre culturas a través de un facilitador intercultural. Para producir la información, se realizaron entrevistas semiestructuradas a 4 jóvenes, 4 familiares de jóvenes y 4 docentes del territorio. Los datos fueron analizando utilizando análisis temático, del cual emergieron 6 temas: (a) Proyecto de vida desde el Mapuche Kimün; (b) El territorio como espacio generativo de los proyectos de vida; (c) Quiero perfeccionarme y transformar mi territorio; (d) Cambio en la experiencia educativa a través de las generaciones; (e) Entre la tradición y la modernidad: la tecnología llegó a los territorios; y (f) Dificultades que enfrentan los jóvenes del territorio. Se identifican cambios generacionales que influyen en la construcción de proyectos de vida desde el Mapuche Kimün. Se aprecia, además, como anhelo principal de los jóvenes aportar a mejorar la calidad de vida del lof luego de completar sus estudios. También se identifican dificultades que ponen en riesgo la construcción de los proyectos de vida de la juventud rural pewenche, entre las que destacan el consumo de alcohol y otras drogas, el embarazo adolescente, dificultades económicas y familiares, y la falta de tierras. Se visualizan particularidades culturales y comunitarias que permiten construir proyectos de vida conjugando elementos de la tradición y la territorialidad con la incorporación de elementos propios de la modernidad como forma de resistencia a la dominación cultural.",
      "idioma_resumen": "es",
      "licencia": {
-      "nombre": "CC BY-NC-SA 4.0",
-      "url": "http://creativecommons.org/licenses/by-nc-sa/4.0"
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
      },
-     "url": "https://doi.org/10.7770/cuhso.v30i2.1952",
-     "doi": "10.7770/cuhso.v30i2.1952",
-     "paginas": "405-425",
-     "fuente": "Crossref"
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/602",
+     "doi": "10.7770/cuhso-v34n2-art606",
+     "paginas": null,
+     "fuente": "OAI-PMH"
     },
     {
-     "id": "10.7770/cuhso.v30i2.1884",
-     "titulo": "El compromiso cultural en las identidades del profesorado de artes en Chile",
+     "id": "10.7770/cuhso-v34n2-art740",
+     "titulo": "Fuego en la ciudad latinoamericana. Aportes para una aproximación histórica a la vulnerabilidad ígnea",
      "idioma_titulo": "es",
      "autores": [
       {
-       "nombre": "Rosario de Lourdes García-Huidobro Munita",
+       "nombre": "Arango López, Diego",
+       "orcid": null
+      }
+     ],
+     "resumen": "Este artículo plantea una reflexión sobre la vulnerabilidad y el fuego en la historia urbana latinoamericana. En primer lugar, se hace un recorrido historiográfico que permite constatar la necesidad e importancia actual de incorporar los estudios del fuego a la historia urbana de la región. Efectivamente, queda claro que el fuego ha sido un tema de estudio prácticamente inexplorado en la literatura científica de la región. Enseguida, se hace una aproximación teórica al fuego y su importancia para la reflexión histórica. Esta permite constatar que comprender la historia del fuego es un aporte importante para la historia urbana. Además, se resaltan los principales desafíos para estudiar el fuego desde una perspectiva simultáneamente histórica y latinoamericana. Por último, se desarrolla una reflexión que incorpora una propuesta epistemológica para asociar el fuego a los estudios de riesgos y vulnerabilidades. Así, se logra demostrar que la relación particular entre fuego y ciudad ayuda a comprender los procesos históricos de producción de vulnerabilidades desiguales en América latina",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/733",
+     "doi": "10.7770/cuhso-v34n2-art740",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v34n2-art610",
+     "titulo": "Hacia la autonomía espiritual de América Latina: filosofía bárbara y colono psicológico en Ramiro Pérez Reinoso (1930-1947)",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Ahumada Infante, Aldo",
+       "orcid": null
+      }
+     ],
+     "resumen": "El presente trabajo analiza parte del pensamiento filosófico de Ramiro Pérez Reinoso (1901-1994), intelectual peruano poco estudiado cuyo afán fue desarrollar una propuesta intelectual que lleve a la cultura latinoamericana hacia una 'autonomía espiritual'. Para la comprensión de dicho propósito, estudiaremos algunos elementos de su contexto histórico (décadas de los treinta y cuarenta) además de su pensamiento sociológico y político que contribuirán a dicho fin. Luego, analizaremos los conceptos de filosofía bárbara y de colono psicológico, de gran relevancia para una autonomía en el pensar y habitar el mundo según el autor. Finalmente, brindaremos algunas reflexiones en tor- no al contexto intelectual de los 30 y 40 del siglo XX chileno que nos permitirán comprender la importancia de este pensador en dicho campo cultural.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/606",
+     "doi": "10.7770/cuhso-v34n2-art610",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v34n2-art738",
+     "titulo": "Historizar la nación: descolonización epistemológica y política Frantz Fanon, Ranajit Guha e intelectuales mapuche.",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Alvarez Osses, Ingrid",
+       "orcid": null
+      }
+     ],
+     "resumen": "Este ensayo es una parte de mi avance de tesis doctoral que hace un recorrido teórico en autores como Frantz Fanon, Ranajit Guha e intelectuales mapuches sobre la construcción de la historia en contextos colonizados. A pesar del peso de la historia colonialista de los Estado Nación, los sujetos subalternizados por el despojo y la verdad colonial irrumpen desde la sujetividad en perspectiva de la filosofía latinoamericana hacia la descolonización. Se destacan elementos como historizar, la nación, la crítica a la normatividad, la ética moderna, la desregulación de la historia colonial y el disputar la política desde el reconocimiento y la valoración propia que proponen los filósofos Arturo Roig y Enrique Dussel. Asimismo, la relación entre la historicidad y la sujetivación en Fanon, Guha e intelectuales mapuche es ineluctable para la descolonización. Este ensayo trabaja el historizar la nación desde los sujetos que valoran su historia y su cultura para actualizar el presente. Por último, se esbozan desde los parlamentos mapuche, el rakizuam y la sujetivación la posibilidad para la reconstrucción de su nación.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/731",
+     "doi": "10.7770/cuhso-v34n2-art738",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v34n2-art719",
+     "titulo": "Incendios forestales, extractivismo y territorio mapuche en el Ngulumapu: Dinámicas sociohistóricas en lof de Llaima e Icalma, región de La Araucanía",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Figueroa Burdiles, Noelia",
        "orcid": null
       },
       {
-       "nombre": "Jorge Ferrada Sulivan",
+       "nombre": "Marimán Quemenado, Pablo",
        "orcid": null
       }
      ],
-     "resumen": "El escrito comparte la primera fase de la investigación “Identidades profesionales de lo-as artistas-docentes en la Región de Los Lagos. Transformaciones de lo social en compromiso cultural”, realizada en Chile. El objetivo principal es conocer la identidad profesional de los-as profesores de artes de la región de Los Lagos y comprender cómo estas contribuyen hacia el desarrollo cultural. Se presentan los resultados de la encuesta realizada a un grupo de 97 profesores-as de artes visuales en el sur de Chile, que buscó recoger información acerca de las principales experiencias profesionales que afectan la conformación identitaria de estos artistas educadores-as. La estructura de la encuesta online se dividió en cinco apartados, puesto que cada uno abarcó las dimensiones que influyen la conformación de la identidad de los-as artistas-docentes. A saber, (i) la formación y trayectoria profesional, (ii) características de la práctica artística, (iii) conflictos de la práctica artística-docente, (iv) necesidades de la práctica artística-docente y por último, (v) aportes al desarrollo cultural de la región. El análisis de la encuesta se realizó a través del programa estadístico SPSS (Statistical Package for the Social Sciences), el cual permitió generar cruces y variables entre las preguntas de las cinco dimensiones señalas. Entre los resultados más relevantes pudimos constatar que la diversidad de procedencias en cuanto a la formación inicial del profesorado, junto a los años de experiencia profesional eran cruces relevantes, ya que señalaron diversas formas de vincularse con el compromiso del desarrollo cultural y sus identidades.",
+     "resumen": "El ensayo relaciona el extractivismo, en tanto modo de producción capitalista, con el fenómeno de incendio forestal. Desde una perspectiva intercultural se analizan las dinámicas sociohistóricas que se han producido en los territorios Llaima e Icalma, que comparten la reserva forestal “China Muerta”, y que comprenden parte de las comunas de Lonquimay, Melipeuco y Cunco, Región de la Araucanía. Del análisis de diversas fuentes, se concluye que se trata de un territorio marcado por una historia de violencia sistemática sobre quienes han habitado el área de estudio -y que refleja el nombre de la reserva-, lo que se relaciona directamente con el colonialismo expresado en lógicas y prácticas extractivistas que incluyen el uso del fuego. Desde una perspectiva intercultural y decolonial se reconoce la existencia de una territorialidad mapuche-pewenche alrededor de la reserva natural “China Muerta” que permite la resignificación de este espacio, necesaria para sanar las heridas del colonialismo.",
      "idioma_resumen": "es",
      "licencia": {
-      "nombre": "CC BY-NC-SA 4.0",
-      "url": "http://creativecommons.org/licenses/by-nc-sa/4.0"
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
      },
-     "url": "https://doi.org/10.7770/cuhso.v30i2.1884",
-     "doi": "10.7770/cuhso.v30i2.1884",
-     "paginas": "426-444",
-     "fuente": "Crossref"
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/712",
+     "doi": "10.7770/cuhso-v34n2-art719",
+     "paginas": null,
+     "fuente": "OAI-PMH"
     },
     {
-     "id": "10.7770/cuhso.v30i2.2014",
-     "titulo": "¿Un psicoanálisis con los y las trabajadoras? Sobre el libro de Wlosko y Ros (Eds.) El Trabajo entre el placer y el sufrimiento: aportes desde la Psicodinámica del Trabajo",
+     "id": "10.7770/cuhso-v34n2-art653",
+     "titulo": "Justicias de proximidad en la construcción del orden público en la ciudad de Buenos Aires (1833)",
      "idioma_titulo": "es",
      "autores": [
       {
-       "nombre": "José Matamala Pizarro",
-       "orcid": "https://orcid.org/0000-0003-1369-4219"
+       "nombre": "Gastellu, Sofia",
+       "orcid": null
       }
      ],
-     "resumen": "Se reseña el libro “El trabajo: entre el placer y el sufrimiento. Aportes desde la psicodinámica del trabajo” compilado y editado por las Doctoras Miriam Wlosko y Cecilia Ross de la Universidad de Lanús, Argentina. En la reseña, se exponen los aportes del libro, se discuten con algunas experiencias realizadas en Chile, se comentan los capítulos y conferencias incluidos y se termina por concluir que el libro viene a contribuir a los estudios del trabajo en Latinoamérica e invita a pensar una práctica clínica-investigativa en el trabajo con los y las trabajadoras.",
+     "resumen": "La justicia de paz rioplatense tuvo un carácter “bisagra”, ya que los jueces legos debieron responder políticamente al gobierno que los nombró al tiempo que responder a las demandas de sus justiciables. Cuando los jueces de paz no contaron con esa doble legitimidad, se suscitaron conflictos de gobernabilidad en los barrios de la ciudad. En este artículo analizo el rol de las justicias de proximidad para la gobernabilidad en la ciudad de Buenos Aires durante la coyuntura política clave para la construcción del poder rosista conocida como la Revolución de los Restauradores. Para explorar la participación de los jueces de paz y alcaldes de barrio en la construcción del orden público, concentro mi estudio en los juzgados de paz que registraron los episodios de mayor conflictividad durante 1833: San Nicolás, Soco- rro y San Telmo. Utilizó el acta electoral del juzgado de paz de Catedral al Norte, confeccionada ya finalizada la Revolución, como observatorio de los cambios de posicionamientos de los actores políticos y los nuevos perfiles de los agentes ligados al gobernador triunfante, Juan Manuel de Rosas. A modo de cierre, planteo la importancia otorgada a la coyuntura de 1833 para la selección de las justicias de proximidad durante el segundo gobierno rosista.",
      "idioma_resumen": "es",
      "licencia": {
-      "nombre": "CC BY-NC-SA 4.0",
-      "url": "http://creativecommons.org/licenses/by-nc-sa/4.0"
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
      },
-     "url": "https://doi.org/10.7770/cuhso.v30i2.2014",
-     "doi": "10.7770/cuhso.v30i2.2014",
-     "paginas": "445-449",
-     "fuente": "Crossref"
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/648",
+     "doi": "10.7770/cuhso-v34n2-art653",
+     "paginas": null,
+     "fuente": "OAI-PMH"
     },
     {
-     "id": "10.7770/cuhso.v30i2.2015",
-     "titulo": "Contesting hegemonies and centering the listening subject: the alternative processes of re-making a language",
-     "idioma_titulo": "en",
+     "id": "10.7770/cuhso-v34n2-art741",
+     "titulo": "La aceptación del riesgo de incendio en Guayaquil durante los siglos XVI-XVIII",
+     "idioma_titulo": "es",
      "autores": [
       {
-       "nombre": "Tania Aviles Vergara",
+       "nombre": "De Nardi, Loris",
+       "orcid": null
+      }
+     ],
+     "resumen": "Las ciudades indianas sufrían con frecuencia incendios, algunas siendo más susceptibles que otras ante la voracidad de las llamas. En ciertas ocasiones, estas calamidades eran resultado de actos deliberados, perpetrados por los enemigos de la Corona. No obstante, en su mayoría, su origen se atribuía a la extrema vulnerabilidad de los entornos urbanos ante el fuego, sumada a la negligencia e imprudencia en su manejo por parte de la población. No cabe duda que las sociedades indianas estaban perfectamente conscientes de esto, como también de la dualidad inherente al fuego, es decir, su potencial destructivo y su función vital para la supervivencia y prosperidad de la sociedad. A pesar de esto, sería un error concebir a las sociedades indianas únicamente como víctimas de los incendios. Por ende, el propósito central de este artículo es reinterpretar la historia de una comunidad específica, la de la Guayaquil colonial, recurriendo a la categoría epistemológica de la aceptación del riesgo, con el fin de entender mejor su complicada y atormentada relación con los incendios. Al referirnos a la aceptación del riesgo, no sólo consideramos a las sociedades como víctimas de los riesgos que ellas mismas generan al implementar estrategias adaptativas equivocadas, es decir, riesgos construidos, sino que también exploramos la posibilidad de que, en algunos casos, las comunidades toman conscientemente la decisión de volverse vulnerables a determinados riesgos.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/734",
+     "doi": "10.7770/cuhso-v34n2-art741",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v34n2-art746",
+     "titulo": "La gestión del riesgo de la viruela y políticas de salud pública en Chile, siglo XVIII",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Cordero Fernández, Macarena",
+       "orcid": null
+      }
+     ],
+     "resumen": "La viruela constituyó durante siglos una de las enfermedades más temidas por la población. Sin embargo, paulatinamente durante el siglo XVIII despertó un mayor interés científico en los médicos por analizar y reflexionar sobre ésta y otras enfermedades, sus causas, tratamientos, medicinas y la forma de prevenirlas, produciéndose en la Corona políticas públicas para gestionar preventivamente el riesgo de contagio. Entretanto, en la Monarquía Hispana se iniciaba un proceso de cambios tendientes a redefinir las relaciones de poder en el entramado de poderes corporativos, dando paso al Gobierno directo y centralizado del monarca mediante actos de gobiernos dirigidos a la felicidad pública de los súbditos, que en el ámbito de la salud pública se tradujo en cómo la Corona reaccionó ante situaciones críticas, como fueron las epidemias de viruela en el marco de un sucesivo progreso científico.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/739",
+     "doi": "10.7770/cuhso-v34n2-art746",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v34n2-art617",
+     "titulo": "La huelga de los newsboys de Nueva York en 1899. Reconstrucción de un movimiento de la niñez trabajadora en EE.UU.",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Liebel, Manfred",
+       "orcid": null
+      }
+     ],
+     "resumen": "El artículo reconstruye una huelga de jóvenes vendedores de periódicos (newsboys) en Nueva York en 1899 y explora sus antecedentes, sus secuelas y su significado para la comprensión de los niños y niñas trabajadores como actores sociales. Se presta especial atención a las condiciones sociales de la vida de los niños, a cuestiones de racismo y antirracismo, y al papel de las niñas como minoría activista. Además, se analiza cómo la historia de la acción infan- til se refleja en la política de infancia y la cultura popular de Estados Unidos.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/612",
+     "doi": "10.7770/cuhso-v34n2-art617",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v34n2-art762",
+     "titulo": "La segregación de las mujeres en el mercado laboral chileno",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Colther, Cristian",
+       "orcid": null
+      },
+      {
+       "nombre": "Solar Badilla, Sindy",
+       "orcid": null
+      },
+      {
+       "nombre": "Montecinos Astorga, Alba",
+       "orcid": null
+      }
+     ],
+     "resumen": "En esta investigación se estudia la dinámica del nivel de segregación de las mujeres en las ocupaciones en el período 1992-2015. Mediante el índice de disimilitud propuesto por Duncan y Duncan (1955) se ha medido el grado de segregación según categorías ocupacionales y por sectores de la economía. Los resultados muestran que el nivel de segregación no ha cambiado de forma significativa en Chile en las últimas décadas a pesar del aumento de las tasas de participación de las mujeres y del crecimiento del mercado laboral. Por lo tanto, la segregación parece ser un problema persistente que requiere de medidas que faciliten un cambio cultural en la sociedad para disminuir la división sexual del trabajo y estereotipos en las ocupaciones.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/755",
+     "doi": "10.7770/cuhso-v34n2-art762",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v34n2-art744",
+     "titulo": "Las intermitentes en Morelos: paludismo, precariedad e insalubridad (1880-1917)",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Rodríguez Alarcón, María Nazareth",
+       "orcid": null
+      }
+     ],
+     "resumen": "El propósito del artículo es analizar las condiciones materiales de la entidad mexicana de Morelos, en articulación con la persistencia del paludismo o malaria, entre 1880 y 1917; e identificar algunas de las interpretaciones científicas y sociales que dominaban con relación a la enfermedad. Dicho período abarca los inicios de la promoción e institucionalización nacional de la salubridad pública y la higiene hasta el reconocimiento de la salud como un derecho, con la promulgación de la Constitución Política de los Estados Unidos Mexicanos. Además, durante esos años se advierten mutaciones importantes en las dinámicas productivas y socioterritoriales de Morelos, con escasas mejoras en la calidad de vida de las comunidades. La investigación representa un esfuerzo crítico por avanzar en el examen de enfermedades específicas en entornos locales y comprender la vulnerabilidad de sus poblaciones frente a estos fenómenos, especialmente en la referida entidad, donde los estudios de este tipo son prácticamente inexistentes. Se recurre a la revisión de fuentes primarias adoptando un enfoque histórico y social, que trasciende las explicaciones netamente médicas y epidemiológicas. Los hallazgos permiten concluir que, si bien, la presencia del mosquito transmisor estuvo influenciada por características geofísicas y climáticas, la persistencia e impacto de la malaria se hallaba estrechamente ligada al contexto sociohistórico. Por ende, los éxitos y fracasos en su control no se debieron exclusivamente a intervenciones técnicas y médicas, también estuvieron influenciados por condiciones de existencia y particularidades en la ocupación e intervención del territorio morelense.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/737",
+     "doi": "10.7770/cuhso-v34n2-art744",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v34n2-art748",
+     "titulo": "Lima y el sismo de 1609: Conflictos de intereses y vulnerabilidad en la capital virreinal.",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Ayneto Durán, Jorge",
+       "orcid": null
+      }
+     ],
+     "resumen": "A través de este trabajo se va a tratar el sismo ocurrido en Lima en 1609 con el objetivo de darle visibilidad historiográfica aportando documentación nueva y aplicando la metodología del estudio histórico y social de los desastres. Nuestra investigación pretende poner en relieve este objeto de estudio frente al vacío documental e historiográfico que ha existido en torno a él. Para ello partimos de la premisa de que los “desastres” son construcciones sociales sobre los efectos de ciertos fenómenos naturales que nos permiten acercarnos a los procesos sociales de las sociedades del pasado en las que se manifiestan.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/741",
+     "doi": "10.7770/cuhso-v34n2-art748",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v34n2-art615",
+     "titulo": "Los partidos políticos en el pensamiento de Alexis de Tocqueville",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Estrella Riquelme, Marcelo",
+       "orcid": null
+      }
+     ],
+     "resumen": "En consideración de lo que se ha llamado la crisis de la democracia moderna, el presente trabajo ofrece un análisis desde la perspectiva de Alexis de Tocqueville sobre la función e importancia de los partidos políticos en la democracia actual. Esta crisis se observa en el desprestigio al quehacer político, traducido en nuevos populismos, desconfianza en las instituciones, moviliza- ciones populares y rechazo a los partidos políticos. Al respecto se argumentará que, desde una interpretación tocquevilliana, los partidos políticos juegan un papel fundamental para la salud de la democracia representativa. Éstos respon- den a la necesidad de pluralismo político, descentralización del poder y ejercicio de la libertad, que son los principales mecanismos para contener la tendencia despótica que se inspira en el fundamento igualitario de la democracia. Los partidos pueden comunicar, dar coherencia y estimular la participación política de los ciudadanos de forma pluralista y dinámica. Primero se presentará la cuestión de la crisis democrática, luego se sintetizarán las principales ideas de Tocqueville que sirven para analizar la función de los partidos políticos, para finalizar con la aplicación de éstas al papel de los partidos políticos y las conclusiones que de allí se extraen.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/610",
+     "doi": "10.7770/cuhso-v34n2-art615",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v34n2-art732",
+     "titulo": "Migraciones internacionales en La Araucanía: De las fronteras geográficas a las fronteras sociales",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Cárdenas Marín, Natalia",
+       "orcid": null
+      }
+     ],
+     "resumen": "El presente artículo busca proponer articulaciones teóricas para el estudio de las migraciones internacionales contemporáneas hacia la Región de La Araucanía, Chile. Para ello, se delimitan los enfoques que considero pertinentes para el estudio en el contexto territorial señalado, caracterizado por la permanencia y vigencia de prácticas coloniales, el intento de exterminio/asimilación del pueblo mapuche y la existencia de disputas en torno a industrias extractivas. Teniendo en cuenta que históricamente la Región de La Araucanía se configuró como un espacio de “Frontera”, el estudio de las fronteras sociales y simbólicas constituye un marco analítico que contribuye a pensar a las fronteras territoriales no sólo como límites geográficos, sino más bien como procesos socio históricos imbricados con múltiples dispositivos económicos, jurídicos y políticos que producen y moldean las marcas de sujeción.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/725",
+     "doi": "10.7770/cuhso-v34n2-art732",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v34n2-art737",
+     "titulo": "Modernización del espacio cívico en La Araucanía: La plaza republicana a inicios del siglo XX",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Pérez Bustamante, Leonel",
+       "orcid": null
+      },
+      {
+       "nombre": "Arévalo Molina, Yabel",
+       "orcid": null
+      },
+      {
+       "nombre": "Sáez Orrego, Bárbara",
+       "orcid": null
+      },
+      {
+       "nombre": "Fuentes Hernández, Pablo",
+       "orcid": null
+      }
+     ],
+     "resumen": "En el marco de la consolidación de Estados nacionales latinoamericanos durante el siglo XIX, en particular el caso chileno en La Araucanía, la transición de una ocupación militar hacia una sociedad modernizada tuvo una expresión material dentro del espacio urbano, pasando de edificaciones propias del poder militar y religioso hacia funciones cívicas cercanas al ideal republicano. El presente trabajo tiene por objetivo caracterizar la concentración de nuevas funciones alrededor de los espacios cívicos de La Araucanía a inicios del siglo XX, indicando su pertinencia como dispositivos utilizados durante un complejo proceso de modernización social impulsado por el Estado. Para ello, se realiza una revisión de fuentes primarias y secundarias que permitan pesquisar las variables morfológicas del espacio público, enfocándose específicamente las plazas centrales. Los resultados indican que se fortaleció el entorno inmediato de las plazas con usos y equipamientos propios del ideal decimonónico, a menudo asociados al progreso y al capitalismo, mientras que al interior de las plazas paulatinamente se incorporó mobiliario arquitectónico dedicado a la vida cívica. Finalmente, destaca como particularidad la ocurrencia de terremotos que sucesivamente han obligado a reconfigurar el espacio urbano.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/730",
+     "doi": "10.7770/cuhso-v34n2-art737",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v34n2-art735",
+     "titulo": "Nominaciones étnicas, arcaísmo y extranjerización: representaciones de indígenas del norte de Chile en textos escolares (1845-1987)",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Mercado Guerra, Javier",
+       "orcid": null
+      },
+      {
+       "nombre": "Campos Astorga, Sebastián",
+       "orcid": null
+      },
+      {
+       "nombre": "Echiburú Díaz, Patricio",
+       "orcid": null
+      },
+      {
+       "nombre": "Martínez Vigorena, Valentina",
+       "orcid": null
+      },
+      {
+       "nombre": "Torres Casanova, Yuliana",
+       "orcid": null
+      }
+     ],
+     "resumen": "Se analizan desde una perspectiva de larga duración las representaciones de los pueblos indígenas del norte de Chile, presentes en los textos escolares de Historia y Geografía. La investigación cubre desde los primeros registros de esta herramienta pedagógica publicados a partir del año 1845, hasta los estertores de la última dictadura militar en Chile hacia fines de la década de 1980. A través de una metodología de análisis documental y hermenéutica, se identifican tres estrategias discursivas de representación. La primera responde a las nominaciones étnicas, las cuales transitan desde un enfoque homogeneizante del indígena a uno que describe y clasifica las diferencias culturales entre uno y otro pueblo. Para ello, juega un papel preponderante la consolidación de las disciplinas científicas de la arqueología y la etnología en Chile. La segunda estrategia se refiere a la representación del indígena situado en una temporalidad pasada. En el caso de los indígenas del norte de Chile, el discurso arqueológico sobre el cual se sostienen buena parte de las nominaciones étnicas, desempeña una función relevante en la consolidación de la visión “arcaizante” en torno a estos pueblos. Finalmente, se identifica una estrategia de representación “extranjerizante”, la cual sitúa a la población indígena del norte del país como imagen de alteridad para el imaginario nacional chileno. Se sostiene que estas representaciones han contribuido a respaldar acciones estatales de asimilación excluyente respecto de la población indígena del norte de Chile.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/728",
+     "doi": "10.7770/cuhso-v34n2-art735",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v34n2-art612",
+     "titulo": "Participación comunitaria y aprendizaje: experiencias de niños y niñas de familias mapuches en Chile",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Bizama Colihuinca, Karina",
+       "orcid": null
+      },
+      {
+       "nombre": "Alonqueo Boudon, Paula",
+       "orcid": null
+      }
+     ],
+     "resumen": "El problema de investigación refiere a la escasa visibilización de la educación en contextos indígenas junto con la minorización de su importancia en la formación de niños y niñas. El objetivo de este estudio fue des- cribir la participación infantil en actividades familiares y comunitarias ma- puches como medio para el aprendizaje de niños y niñas. Los participantes fueron cuatro familias mapuches con niños y niñas menores de 4 años que no asistían a la educación escolar. La metodología es cualitativa con un enfoque etnográfico basada en un estudio de casos. Los resultados destacan que el aprendizaje se construye en actividades en las que se promueve la participación activa de la familia y los niños y niñas tienen un rol protagónico. Se concluye que la participación constituye un medio para el aprendizaje en el pueblo mapuche, asimismo, se releva la necesidad de conocer métodos educativos propios, como el kimeltuwün, para promover aprendizajes significativos.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/607",
+     "doi": "10.7770/cuhso-v34n2-art612",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v34n2-art781",
+     "titulo": "Por unos estudios críticos del mestizaje en México",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Carlos Fregoso, Gisela",
+       "orcid": null
+      }
+     ],
+     "resumen": "En un primer momento, durante la introducción hablo sobre un caso concreto que despertó estas discusiones y el cual consiste en cómo las personas mestizas, particularmente las mujeres mestizas heterosexuales de clase popular no se ven a sí mismas como atravesadas por lo racial, ni mucho menos cuestionan su racismo. En un segundo momento explico la metodología a la que me apego y explicito mi locus de enunciación. En el tercer apartado explico cómo lo mestizo también está racializado y la manera en que la contradicción está presente en la experiencia mestiza -vivir el racismo y ser racista-. Acto seguido, defino lo que entiendo por proyecto racial de mestizaje, así como los pilares que lo conforman y las repercusiones de que el Estado nación mexicano haya abordado el racismo desde lo cultural, para después hablar sobre el impacto de los proyectos transnacionales en el giro antirracista mexicano y la manera en que esto impactó en una retórica del color y en el discurso de raza. Como cuarto momento muestro cuáles discusiones y de qué manera se están llevando a cabo los debates sobre mestizaje, y que oportunidades se abren o se cierran, según sea el caso. Finalmente, cierro con unas breve conclusiones.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/773",
+     "doi": "10.7770/cuhso-v34n2-art781",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v34n2-art812",
+     "titulo": "Presentación Dossier: \"Estudios históricos y sociales sobre el riesgo y la vulnerabilidad. Pasado y presente de problemas transversales\".",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Altez, Rogelio",
+       "orcid": null
+      },
+      {
+       "nombre": "de Nardi, Loris",
        "orcid": null
       }
      ],
      "resumen": null,
      "idioma_resumen": null,
      "licencia": {
-      "nombre": "CC BY-NC-SA 4.0",
-      "url": "http://creativecommons.org/licenses/by-nc-sa/4.0"
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
      },
-     "url": "https://doi.org/10.7770/cuhso.v30i2.2015",
-     "doi": "10.7770/cuhso.v30i2.2015",
-     "paginas": "450-463",
-     "fuente": "Crossref"
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/804",
+     "doi": "10.7770/cuhso-v34n2-art812",
+     "paginas": null,
+     "fuente": "OAI-PMH"
     },
     {
-     "id": "10.7770/cuhso.v30i2.2129",
-     "titulo": "\"Em beneficio do povo\". Obras, governo e sociedade na cidade colonial Jorun Poettering, Gefferson Ramos Rodrigues (orgs.). Rio de Janeiro: Mauad, 2016, p. 384",
-     "idioma_titulo": "pt",
+     "id": "10.7770/cuhso-v34n2-art830",
+     "titulo": "Presentación Dossier: \"Racismos, ideología del mestizaje y colonialismo. Reflexiones para repensar los procesos de alterización de nuestra América\"",
+     "idioma_titulo": "es",
      "autores": [
       {
-       "nombre": "Christian Hausser",
+       "nombre": "Figueroa Sepúlveda, Mauricio",
+       "orcid": null
+      },
+      {
+       "nombre": "Rebolledo-Rebolledo, Raquel",
        "orcid": null
       }
      ],
      "resumen": null,
      "idioma_resumen": null,
      "licencia": {
-      "nombre": "CC BY-NC-SA 4.0",
-      "url": "http://creativecommons.org/licenses/by-nc-sa/4.0"
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
      },
-     "url": "https://doi.org/10.7770/cuhso.v30i2.2129",
-     "doi": "10.7770/cuhso.v30i2.2129",
-     "paginas": "464-467",
-     "fuente": "Crossref"
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/821",
+     "doi": "10.7770/cuhso-v34n2-art830",
+     "paginas": null,
+     "fuente": "OAI-PMH"
     },
     {
-     "id": "10.7770/cuhso.v30i2.2165",
-     "titulo": "Un cordial saludo le envía a ud., sr. profesor, su servidor fr. Félix José. Seis cartas de fray Félix José de Augusta a Rodolfo Lenz, 1910-1914. Introducción, texto íntegro, traducción y notas",
+     "id": "10.7770/cuhso-v34n2-art639",
+     "titulo": "Proyectos de vida de personas con discapacidad en áreas rurales del Sur de Chile: los territorios como soportes ¿hacia una operacionalización del capital territorial?",
      "idioma_titulo": "es",
      "autores": [
       {
-       "nombre": "Markus Alexander Scholz",
-       "orcid": null
-      },
-      {
-       "nombre": "Claudio Soltmann Cáceres",
+       "nombre": "Solsona Cisternas, Diego",
        "orcid": null
       }
      ],
-     "resumen": "La presente publicación destaca un corpus olvidado de seis cartas enviadas por el médico cirujano y misionero capuchino Fray Félix José de Augusta al lingüista y profesor alemán Rodolfo Lenz entre 1910 y 1914. La introducción enfatiza algunos aspectos del intercambio personal entre ambos y de su relación con otros estudiosos de la época. Se presentará la transcripción de las seis cartas originales completas en alemán al final de este trabajo junto con una traducción al español de su contenido.",
+     "resumen": "El siguiente artículo tiene por objetivo final presentar una propuesta operacional del término capital territorial. Si bien, otros trabajos ya han utilizado esta locución, en esta oportunidad complejizamos su conceptualización a través de la identificación de cuatro componentes que lo constituirían; proximidad, cognición, elementos topofílicos y localización. Se utiliza un referente empírico para argumentar estas categorías, particularmente las experiencias de apropiación territorial de personas con discapacidad en localidades rurales del Sur de Chile, las cuales son descritas y analizadas a través de un enfoque cualitativo que combinó entrevistas y observación etnográfica.",
      "idioma_resumen": "es",
      "licencia": {
-      "nombre": "CC BY-NC-SA 4.0",
-      "url": "http://creativecommons.org/licenses/by-nc-sa/4.0"
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
      },
-     "url": "https://doi.org/10.7770/cuhso.v30i2.2165",
-     "doi": "10.7770/cuhso.v30i2.2165",
-     "paginas": "468-495",
-     "fuente": "Crossref"
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/634",
+     "doi": "10.7770/cuhso-v34n2-art639",
+     "paginas": null,
+     "fuente": "OAI-PMH"
     },
     {
-     "id": "10.7770/cuhso.v30i2.2086",
-     "titulo": "Las creencias del pueblo mapuche en el Archivo Secreto Vaticano",
+     "id": "10.7770/cuhso-v34n2-art755",
+     "titulo": "Racialización, etnización, blanquidad: Horizontes de historicidad y lugarización de la diferencia/ desigualdad",
      "idioma_titulo": "es",
      "autores": [
       {
-       "nombre": "Boris Briones Soto",
-       "orcid": "https://orcid.org/0000-0002-2205-8065"
+       "nombre": "Restrepo, Eduardo",
+       "orcid": null
       }
      ],
-     "resumen": "Transcripción de textos sobre la cultura mapuche contenidos en el Archivo Secreto Vaticano.",
+     "resumen": "Este artículo parte de examinar la fuerza de lo que puede considerarse como el embrujo racial y los escozores que genera el concepto raza. El que algunos colegas consideren que debe ser sustituida la palabra raza por términos que no apuntalen el racismo como grupo étnico o cultura, es una expresión de sensibilidades teóricas y políticas que ameritan ser abordadas. No es simple ceguera ideológica de la que estarían exentos otros colegas que abogan por la relevancia de no abandonar raza en el análisis. Racialización, etnización y blanquidad se abordan en sus especificidades, desde una labor teórica necesaria para interrumpir no pocos lugares comunes. Entender sus distinciones y particulares anudamientos es lo que busca la segunda parte de este artículo. No toda diferencia como jerarquía supone marcaciones racializadas ni racismo, así como la apelación a la diferencia cultural no garantiza que se no se reproduzcan los entrampamientos de las categorías raciales. Finalmente, en este artículo se explora la idea de horizontes de historicidad para complementar el concepto de formaciones nacionales de alteridad, proporcionando una perspectiva histórica que incluye las anterioridades de la nación. Este enfoque permite entender las articulaciones entre los procesos de formación de la nación y sus antecedentes históricos, para que desde genealogías más amplias se pueda examinar cómo estos han influido en cómo hemos llegado naturalizar hoy ciertas diferencias/desigualdades.",
      "idioma_resumen": "es",
      "licencia": {
-      "nombre": "CC BY-NC-SA 4.0",
-      "url": "http://creativecommons.org/licenses/by-nc-sa/4.0"
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
      },
-     "url": "https://doi.org/10.7770/cuhso.v30i2.2086",
-     "doi": "10.7770/cuhso.v30i2.2086",
-     "paginas": "496-502",
-     "fuente": "Crossref"
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/748",
+     "doi": "10.7770/cuhso-v34n2-art755",
+     "paginas": null,
+     "fuente": "OAI-PMH"
     },
     {
-     "id": "10.7770/cuhso.v30i2.2401",
-     "titulo": "“Es el momento en que los mapuches debemos participar en CONAF”",
+     "id": "10.7770/cuhso-v34n2-art711",
+     "titulo": "Reseña Diario de la misión que fue a Copiapó y a Paposo en enero de 1841, Estudio preliminar, transcripción y notas de Alex San Francisco y Benjamín Ballester, Pampa Negra Ediciones, Antofagasta, 2023.",
      "idioma_titulo": "es",
      "autores": [
       {
-       "nombre": "Lonko Nibaldo Romero",
+       "nombre": "Cortés Larravide, Enrique",
        "orcid": null
       }
      ],
-     "resumen": null,
-     "idioma_resumen": null,
+     "resumen": "Se reseña el libro Diario de la misión que fue a Copiapó y a Paposo en enero de 1841, Estudio preliminar, transcripción y notas de Alex San Francisco y Benjamín Ballester, Pampa Negra Ediciones, Antofagasta, 2023.",
+     "idioma_resumen": "es",
      "licencia": {
-      "nombre": "CC BY-NC-SA 4.0",
-      "url": "http://creativecommons.org/licenses/by-nc-sa/4.0"
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
      },
-     "url": "https://doi.org/10.7770/cuhso.v30i2.2401",
-     "doi": "10.7770/cuhso.v30i2.2401",
-     "paginas": "503-508",
-     "fuente": "Crossref"
-    }
-   ]
-  },
-  {
-   "id": "v30-n1-2020",
-   "volumen": "30",
-   "numero": "1",
-   "anio": 2020,
-   "fecha": "2020-07-23",
-   "etiqueta": "Vol. 30, núm. 1 (2020)",
-   "fuente": "Crossref",
-   "articulos": [
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/704",
+     "doi": "10.7770/cuhso-v34n2-art711",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
     {
-     "id": "10.7770/cuhso.v30i1.2273",
-     "titulo": "Ejemplar completo. Vol.30, N°1",
-     "idioma_titulo": null,
+     "id": "10.7770/cuhso-v34n2-art646",
+     "titulo": "Rodrigo González de Marmolejos; ¿obispo ilegítimo? Discusión sobre quién fue el primer prelado legitimo del Reino de Chile en la segunda mitad del siglo XVI",
+     "idioma_titulo": "es",
      "autores": [
       {
-       "nombre": "Revista Cuhso",
+       "nombre": "Cardoso Carvajal, Carlos",
        "orcid": null
       }
      ],
-     "resumen": null,
-     "idioma_resumen": null,
-     "licencia": null,
-     "url": "https://doi.org/10.7770/cuhso.v30i1.2273",
-     "doi": "10.7770/cuhso.v30i1.2273",
-     "paginas": "1-259",
-     "fuente": "Crossref"
+     "resumen": "En esta investigación abordaremos los pormenores de la vida del religioso Rodrigo González de Marmolejos y su nombramiento como obispo de Santiago de Chile. De este modo plantearemos la hipótesis sobre la legitimidad o no, que tuvo el primer prelado de Santiago de Chile, Rodrigo González de Marmolejos. El análisis pormenorizado de la documentación primaria, principalmente la conservada en el Archivo General de Indias, y la documentación publicada, nos lleva a plantear dudas razonables sobre el gobierno del obispo. Además, añadiremos los interrogantes propios, surgidos del estudio de las redes clientelares que sustentaron el poder del prelado y los intereses para con el religioso. El interrogante sobre la legitimidad o no como prelado de Rodrigo González de Marmolejos, nos lleva a plantear; que el primer obispo de Chile no fue González de Marmolejos.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/641",
+     "doi": "10.7770/cuhso-v34n2-art646",
+     "paginas": null,
+     "fuente": "OAI-PMH"
     },
     {
-     "id": "10.7770/cuhso.v30i1.2260",
-     "titulo": "De Cultura – Hombre - Sociedad a CUHSO: un cambio de nombre, una misma revista",
-     "idioma_titulo": null,
+     "id": "10.7770/cuhso-v34n2-art811",
+     "titulo": "Se reproduce aquí la clase inaugural dictada por Arturo Fontaine Talavera",
+     "idioma_titulo": "es",
      "autores": [
       {
-       "nombre": "Matthias Gloël",
+       "nombre": "Fontaine, Arturo",
        "orcid": null
       }
      ],
-     "resumen": null,
-     "idioma_resumen": null,
-     "licencia": null,
-     "url": "https://doi.org/10.7770/cuhso.v30i1.2260",
-     "doi": "10.7770/cuhso.v30i1.2260",
-     "paginas": "9-11",
-     "fuente": "Crossref"
+     "resumen": "Se reproduce aquí la clase inaugural dictada por Arturo Fontaine Talavera para la Facultad de Ciencias Sociales y Humanidades de la Universidad Católica de Temuco el día 8 de mayo de 2024. El conocido conferencista es novelista, poeta y ensayista, nacido en Santiago de Chile el 9 de mayo de 1952. Su formación académica la realizó en la Pontificia Universidad Católica de Chile y en la Columbus University en Nueva York. Hasta la fecha es Profesor de la Universidad Adolfo Ibáñez y Universidad de Chile. La conferencia se inserta en el actual debate acerca de lo que son las Humanidades y las diversas funciones que pueden y deben tener en el contexto político actual, tanto nacional como internacional.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/803",
+     "doi": "10.7770/cuhso-v34n2-art811",
+     "paginas": null,
+     "fuente": "OAI-PMH"
     },
     {
-     "id": "10.7770/cuhso.v30i1.2239",
-     "titulo": "EDITORIAL",
-     "idioma_titulo": null,
+     "id": "10.7770/cuhso-v34n2-art782",
+     "titulo": "Sepúlveda, Lucía (coord.) (2023) Las otras heridas: Extractivismo y 50 años de lucha socioambiental en Chile. Observatorio Latinoamericano de Conflictos Ambientales. Santiago, Chile. ISBN 978-956-7958-13-9",
+     "idioma_titulo": "es",
      "autores": [
       {
-       "nombre": "Carolina Sanchez De Jaegher",
-       "orcid": "https://orcid.org/0000-0001-6881-771X"
+       "nombre": "Julián, Dasten",
+       "orcid": null
+      }
+     ],
+     "resumen": "El Observatorio Latinoamericano de Conflictos Ambientales (OLCA) ha llevado a cabo un trabajo sostenido en el tiempo en la visibilización de las principales consecuencias, causas, actores, ideologías y capitales que han profundizado el modelo extractivista en América Latina. La enorme persistencia de inscribirse en las preguntas que ponen el acento en las relaciones entre empresas, gobiernos y territorios le ha consolidado como un actor muy relevante en la integración de conocimientos científicos, diálogo de saberes, vínculos con comunidades y movimientos sociales, desde una práctica activa, viva y anfibia de generar incidencia pública, asociatividad y la promoción de alternativas al capitalismo",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/774",
+     "doi": "10.7770/cuhso-v34n2-art782",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v34n2-art797",
+     "titulo": "Ser mujer negra en la academia chilena. Tensiones y reflexiones",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Rebolledo-Rebolledo, Raquel",
+       "orcid": null
       },
       {
-       "nombre": "Amelia Alva Arévalo",
+       "nombre": "Valoyes-Chávez, Luz",
+       "orcid": null
+      }
+     ],
+     "resumen": "Entrevista realizada a la académica Luz Valoyes Chávez. Indaga sobre el racismo en la academica y las limitantes de producción de conocimiento de personas negras desde la experiencia de la entrevistada. Se realiza en sesiones de conversación y se presenta en base a cuatro preguntas que organizan el discurso. Se busca sensibilizar y derribar las dinámicas de violencia racial presentes en la producción de conocimient en las universidades.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/789",
+     "doi": "10.7770/cuhso-v34n2-art797",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/cuhso-v34n2-art733",
+     "titulo": "Tensiones epistemológicas sobre el territorio en contextos de colonización: desafíos para una ciudadanía intercultural",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Oyarce Salamanca, Jorge",
        "orcid": null
       },
       {
-       "nombre": "Rodrigo Céspedes",
+       "nombre": "Arias Ortega, Katerin",
        "orcid": null
-      }
-     ],
-     "resumen": null,
-     "idioma_resumen": null,
-     "licencia": null,
-     "url": "https://doi.org/10.7770/cuhso.v30i1.2239",
-     "doi": "10.7770/cuhso.v30i1.2239",
-     "paginas": "12-18",
-     "fuente": "Crossref"
-    },
-    {
-     "id": "10.7770/cuhso.v30i1.2228",
-     "titulo": "La cuestión de la dignidad en los mundos indígenas",
-     "idioma_titulo": "es",
-     "autores": [
-      {
-       "nombre": "Carolina Sanchez De Jaegher",
-       "orcid": "https://orcid.org/0000-0001-6881-771X"
-      }
-     ],
-     "resumen": "La creciente disociación que se percibe de la humanidad con su casa común (la Tierra), se ha convertido en un terreno filosófico poroso y diverso, que por primera vez y después de largos siglos, reflexiona sobre su posición y nos da la oportunidad de desplazar al antropo-conocedor que hizo de la conquista de la naturaleza el fundamento de su posición privilegiada. Es esta base coyuntural la que también ha permitido la emergencia del conocer y sentipensar la dignidad sin el antropos como 'un fin en sí mismo', o, mejor dicho, no sólo en su contra (De la Cadena, 2019, p. 478; Kant, 1996). Dado que dignitas hominis es predominantemente un concepto occidental antropocéntrico, repensarlo sin la humanidad, o sin las racionalidades hegemónicas que han constituido su sustancia antropocéntrica y universalista, requiere de un diálogo con las múltiples éticas de la Tierra, particularmente con las éticas de esos mundos que nunca han aceptado la división colonial entre la vida humana y la no-humana: los mundos indígenas. En un momento de urgencia cuando los derechos humanos son frágiles a escala mundial, la problematización de la dignidad en este artículo comienza con su reposicionamiento como una invitación ontológica. Hacer referencia a la dignidad como tal tiene algunas consecuencias metodológicas, una de ellas es la posibilidad de desacoplar este valor de su sentido puramente antropocéntrico para fomentar un diálogo intercultural de múltiples dignidades. En segundo lugar, al reforzar el locus enuntiationis y las prácticas desde las cuales se defiende la naturaleza y la dignidad, se abre un canon para la pluriversidad en \"mundo donde quepan muchos mundos\" (Ejército Zapatista de Liberación Nacional [EZLN], 1997). 20 En la puerta de entrada de una comprensión del mundo que supera con creces la comprensión occidental de él y el reconocimiento de que la experiencia cognitiva de las éticas de la Tierra es extremadamente diversa, este artículo problematizará la idea de dignidad en el paradigma de la universalidad (Guilherme y Dietz, 2017; Merali, 2014; Mignolo, 2011; Quijano, 2000).",
-     "idioma_resumen": "es",
-     "licencia": null,
-     "url": "https://doi.org/10.7770/cuhso.v30i1.2228",
-     "doi": "10.7770/cuhso.v30i1.2228",
-     "paginas": "19-39",
-     "fuente": "Crossref"
-    },
-    {
-     "id": "10.7770/cuhso.v30i1.2107",
-     "titulo": "Food sovereignty, Diné ontologies: spiritual and political ecology as tools for self-determination",
-     "idioma_titulo": "en",
-     "autores": [
-      {
-       "nombre": "Eugénie Clément Picos",
-       "orcid": null
-      }
-     ],
-     "resumen": "This article focuses on the different actors involved in the food sovereignty movement in the Navajo Nation. By first looking at the historical roots of colonization and western dominance over Indigenous lands and their food systems, I try to give some perspective on the actual movement to end colonization and capitalism. Both are seen as linked and are considered obstacles for the self-determination of the Navajos and Indigenous Peoples in general. The different actors involved (farmers, grassroots activists, intellectuals and academics) put forth food sovereignty as a key tool for decolonization. This might include a structural change in their political and economical lives, with interpersonal conflicts and frictions with the tribal government and the federal one. The tensions between the extractive economy, environmentalists and food sovereignty are present in the Navajo nation and impact their communities and the quality of their lives.",
-     "idioma_resumen": "en",
-     "licencia": null,
-     "url": "https://doi.org/10.7770/cuhso.v30i1.2107",
-     "doi": "10.7770/cuhso.v30i1.2107",
-     "paginas": "40-59",
-     "fuente": "Crossref"
-    },
-    {
-     "id": "10.7770/cuhso.v30i1.2144",
-     "titulo": "La identificación de los pueblos indígenas en el Perú ¿Qué está sucediendo con el criterio de autoidentificación?",
-     "idioma_titulo": "es",
-     "autores": [
-      {
-       "nombre": "Amelia Isabel Alva Arévalo",
-       "orcid": "https://orcid.org/0000-0002-3228-5405"
-      }
-     ],
-     "resumen": "Este artículo tiene como objetivo establecer que los parámetros legales para identificar a los pueblos indígenas en Perú limitan la aplicación del principio de autoidentificación. Para ello se examinan las normas internacionales sobre derechos humanos que consagran la autoidentificación como criterio fundamental. Luego, se explican los antecedentes de la terminología constitucional y legal para referirse a los pueblos indígenas en Perú, para entender por qué este tema se ha convertido en crítico. Finalmente, como consecuencia de la aplicación de la Ley de Consulta Previa y considerando el contexto extractivo, se discutirán los primeros obstáculos que algunas comunidades han enfrentado para ser considerados pueblos indígenas.",
-     "idioma_resumen": "es",
-     "licencia": null,
-     "url": "https://doi.org/10.7770/cuhso.v30i1.2144",
-     "doi": "10.7770/cuhso.v30i1.2144",
-     "paginas": "60-77",
-     "fuente": "Crossref"
-    },
-    {
-     "id": "10.7770/cuhso.v30i1.2115",
-     "titulo": "LOS LÍMITES DEL PLURALISMO JURIDICO EN VENEZUELA: tensiones y horizontes del imaginario del Estado nación y la lucha por el reconocimiento de los pueblos indígenas",
-     "idioma_titulo": "es",
-     "autores": [
-      {
-       "nombre": "Fatima Josefina El Fakih Rodriguez",
-       "orcid": "https://orcid.org/0000-0002-3562-4417"
       },
       {
-       "nombre": "Juan Jorge Faundes Peñafiel",
+       "nombre": "Quintriqueo Millán, Segundo",
        "orcid": null
       }
      ],
-     "resumen": "El proceso constituyente de 1999 en Venezuela arrojó un nuevo texto constitucional que, a lo menos formalmente, reconoció a los pueblos indígenas, les estableció un robusto catálogo de derechos y decía instalar el pluralismo jurídico. Sin embargo, diversos condicionantes fácticos y normativos han limitado o derechamente bloquearon dicho marco general de reconocimiento y el desarrollo del pluralismo jurídico. Veinte años después de esta apertura política y normativa, en medio de una crisis social, política y humanitaria galopante, se hace necesaria la revisión de los condicionantes fácticos y normativos que permitan comprender los límites y eventuales proyecciones del pluralismo jurídico en Venezuela. En este trabajo se constata, en primer lugar, que en el marco de la crisis que atraviesa Venezuela, han ocurrido un conjunto de transformaciones del imaginario político del estado nación, el cual se venía forjando a partir de la nueva Constitución Bolivariana de 1999 y que hoy se ha desdibujado para reconstituir una nueva forma de hegemonía estado nacional, en una versión que aún no es posible de proyectar. Segundo, por sobre las razones de la crisis en sí, se plantea la pregunta de si, al mismo tiempo, esta crisis y proceso de transformación 79 aún no resuelto, podrá abrir horizontes democráticos e interculturales, como presupuestos de un pluralismo jurídico igualitario efectivo.",
+     "resumen": "El ensayo aborda las tensiones epistemológicas sobre la noción de territorio, derivadas de la distancia epistémica entre el conocimiento educativo eurocéntrico occidental y el conocimiento indígena en contextos de colonización. La metodología considera una revisión de literatura científica, de divulgación y normativa, tanto a nivel internacional como nacional, para la construcción de un marco de análisis sobre la noción de territorio, que contribuya a proponer pistas de acción para una ciudadanía intercultural. El marco de análisis considera una perspectiva crítica en relación a la noción monocultural de territorio desde las ciencias sociales, asumiendo un enfoque de epistemología indígena para la comprensión del territorio. Se discute sobre las tensiones epistemológicas asociadas a la noción de territorio provocadas por el colonialismo en contextos de diversidad social y cultural. Se propone la incorporación de un enfoque de pluralismo epistemológico intercultural basado en el conocimiento educativo indígena, para favorecer la superación del carácter colonial y hegemónico del conocimiento escolar de corte eurocéntrico occidental sobre territorio en contextos de colonización. Se concluye con pistas de acción que permiten comprender y explicar la noción de territorio desde un pluralismo epistemológico intercultural, para la formación de ciudadanos interculturales en contexto mapuche.",
      "idioma_resumen": "es",
-     "licencia": null,
-     "url": "https://doi.org/10.7770/cuhso.v30i1.2115",
-     "doi": "10.7770/cuhso.v30i1.2115",
-     "paginas": "78-101",
-     "fuente": "Crossref"
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/726",
+     "doi": "10.7770/cuhso-v34n2-art733",
+     "paginas": null,
+     "fuente": "OAI-PMH"
     },
     {
-     "id": "10.7770/cuhso.v30i1.2111",
-     "titulo": "Free prior and informed consent in the Green Climate Fund: the implementation of a project in the Datém del Marañón, Peru",
-     "idioma_titulo": "en",
-     "autores": [
-      {
-       "nombre": "Giada Giacomini",
-       "orcid": null
-      }
-     ],
-     "resumen": "In the context of implementation of climate change adaptation and resilience projects, Indigenous communities’ right to Free, Prior and Informed Consent (FPIC) is becoming a mandatory requirement. The present paper, after giving an overview of the requirement of FPIC in international law, addresses the issue of a climate resilience project financed by the Green Climate Fund (GCF) in Peru. Such project is being implemented in Indigenous territories in the Datém del Marañon region. At the time of approval by the GCF Board, the proposed project raised protests from Indigenous communities as they claimed they were not properly consulted before the disbursement of funding. This episode evidenced how the GCF needed to adopt an ad hoc policy to engage with Indigenous peoples respecting the FPIC requirement as prescribed by international law. The present paper demonstrates that the Indigenous Peoples Policy, adopted in February 2018 by the GCF, is an example of harmonization with international law requirements for FPIC such as those prescribed by the United Nations Declaration on Indigenous Peoples Rights. Finally, the paper aims at evidencing the challenge represented by the excessive state-centred structure of the GCF, which needs to be overcome to facilitate a true participatory dialogue with Indigenous peoples.",
-     "idioma_resumen": "en",
-     "licencia": null,
-     "url": "https://doi.org/10.7770/cuhso.v30i1.2111",
-     "doi": "10.7770/cuhso.v30i1.2111",
-     "paginas": "102-125",
-     "fuente": "Crossref"
-    },
-    {
-     "id": "10.7770/cuhso.v30i1.2116",
-     "titulo": "Indigenous autonomy and justice for latin american Indigenous women",
-     "idioma_titulo": "en",
-     "autores": [
-      {
-       "nombre": "Rodrigo Cespedes",
-       "orcid": null
-      }
-     ],
-     "resumen": "My paper deals with indigenous peoples’ rights, focusing on Latin American case-law related to gender issues. Latin American Courts have faced cases related to sexual crimes or domestic violence among indigenous people and have to choose between giving pre-eminence to women’s rights or indigenous autonomy. On deciding those cases, the tools provided by the proportionality test are paramount in order to analyse the case-law. The indigenous rights regimes (ILO-169, UNDRIP) may prevail or not against other human rights systems (which specially protect women or children) according to the facts of the case, but also according to domestic legal cultures modelled by the country’s historical evolution.",
-     "idioma_resumen": "en",
-     "licencia": null,
-     "url": "https://doi.org/10.7770/cuhso.v30i1.2116",
-     "doi": "10.7770/cuhso.v30i1.2116",
-     "paginas": "126-144",
-     "fuente": "Crossref"
-    },
-    {
-     "id": "10.7770/cuhso.v30i1.2120",
-     "titulo": "In the Name of Anthills and Beehives: An inquiry into the concept of rights of nature and its reasoning",
-     "idioma_titulo": "en",
-     "autores": [
-      {
-       "nombre": "Jingjing Wu",
-       "orcid": "https://orcid.org/0000-0003-1944-937X"
-      }
-     ],
-     "resumen": "In this paper, I first investigate rights of nature legislation in Ecuador and Bolivia, namely the Constitution of the Republic of Ecuador 2008, Bolivia Law of the Rights of Mother Earth 2010, and the Framework Law of Mother Earth and Integral Development for Living Well 2012. I apply a two-pronged analytical approach to these legal texts, which investigates the characteristics of such rights and the logic of the supporting reasoning. By reading into the legal texts, I argue that: (a) the characteristic of rights of nature as codified in these legislation is human (fundamental) rights; and (b) the main reasoning to support such right-status is spiritual reasoning that is largely based on the indigenous cosmovision. I then turn to some iconic declarations on human rights and natural rights theories, which shows the concept of “human rights” is almost impenetrable when it comes to the idea of “human”. I conclude this paper by indicating that in order to give rights of nature a solid ground in our current legal systems, we have to rethink the ground of human rights.",
-     "idioma_resumen": "en",
-     "licencia": null,
-     "url": "https://doi.org/10.7770/cuhso.v30i1.2120",
-     "doi": "10.7770/cuhso.v30i1.2120",
-     "paginas": "145-162",
-     "fuente": "Crossref"
-    },
-    {
-     "id": "10.7770/cuhso.v30i1.2119",
-     "titulo": "Narraciones del origen desde una materialidad nacional moderna: El proceso de creación del Wenüfoye (Bandera Mapuche) y su proliferación no tradicional",
+     "id": "10.7770/cuhso-v34n2-art705",
+     "titulo": "Testimonios de mujeres esterilizadas. Violaciones de derechos y resiliencia en comunidades rurales peruanas",
      "idioma_titulo": "es",
      "autores": [
       {
-       "nombre": "Ricardo Labra Mocarquer",
+       "nombre": "Ramos López, José",
        "orcid": null
       }
      ],
-     "resumen": "En 1992 una parte del pueblo Mapuche dio a conocer el fruto de un proceso político creativo y concertado en pos de diseñar un objeto novedoso: el Wenüfoye (canelo del cielo), o bandera mapuche. El impacto que el Wenüfoye causó entre la opinión pública chilena, sección del territorio mapuche desde donde esta investigación ha sido generada, produjo diversas críticas desde variados actores. A pesar de las dificultades iniciales, la bandera fue un éxito, coronándose como objeto indispensable en las manifestaciones políticas mapuche contemporáneas. El presente trabajo expondrá, desde una revisión de fuentes documentales escritas, principalmente, el proceso de creación de este objeto al interior del actual territorio chileno, evaluando su particular lugar de inserción en la cambiante historia material mapuche del siglo XX y sosteniendo que gran parte de los efectos y condiciones de posibilidad del Wenüfoye se relacionan a una modernidad mapuche del siglo XX y no a una fundamentación anterior. Las implicancias de dicho proceso no solo iluminan parte de la agencia política de algunos objetos en las luchas por la diferencia cultural, además invitan a reflexionar sobre el rol del diseño de objetos en los proceso de descolonización.",
+     "resumen": "El presente escrito resalta las principales contribuciones del libro de \"testimonios de mujeres esterilizadas\" situando la investigación en un contexto de continuidad de violencias hacia pueblos indígenas, discursos racistas que han constituido los proyectos de modernización del Estado nación y criterios de exclusión a quiénes no constituían \"ciudadanos deseables\" del proyecto nacional.",
      "idioma_resumen": "es",
-     "licencia": null,
-     "url": "https://doi.org/10.7770/cuhso.v30i1.2119",
-     "doi": "10.7770/cuhso.v30i1.2119",
-     "paginas": "163-185",
-     "fuente": "Crossref"
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/698",
+     "doi": "10.7770/cuhso-v34n2-art705",
+     "paginas": null,
+     "fuente": "OAI-PMH"
     },
     {
-     "id": "10.7770/cuhso.v30i1.2109",
-     "titulo": "Luces y sombras en la jurisprudencia: la invocación del elemento espiritual de la tierra de la Comunidades Indígenas",
+     "id": "10.7770/cuhso-v34n2-art722",
+     "titulo": "Variación dialectal: aspectos relevantes en la investigación y práctica fonoaudiológica",
      "idioma_titulo": "es",
      "autores": [
       {
-       "nombre": "Maria del Angel Iglesias Vázquez",
+       "nombre": "Salinas Marchant, Carolina",
+       "orcid": null
+      },
+      {
+       "nombre": "Pérez Herrera, Denisse",
        "orcid": null
       }
      ],
-     "resumen": "El trabajo “Luces y sombras en la jurisprudencia: la invocación del elemento espiritual de la tierra de las Comunidades Indígenas” analiza y trata de poner de relieve la diferencia habida entre los pronunciamientos de las instancias regionales americana, europea y africana ante las cuales, las comunidades indígenas (CCII) han acudido cuando se ha producido la vulneración de sus derechos, en concreto el de la propiedad de las tierras ancestrales cuya dimensión y significado no sólo es material sino eminentemente espiritual. A fin de llegar a la conclusión que da título al trabajo se estudian las peticiones y consiguientes decisiones de las cortes regionales desde la década de los ochenta del pasado siglo XX hasta la actualidad, si bien inevitablemente en el caso europeo se mencionan las tomadas localmente y por el Comité de Derechos Humanos de la ONU. La presente aportación tiene ante todo un propósito comparativo entre cortes regionales y así, si en los asuntos planteados por los samis en sede judicial europea una sombra parece cernirse en la jurisprudencia regional, una luz aparece en las instancias africana e interamericana. El elemento espiritual de la tierra es una constante en las peticiones y decisiones que las CCII han planteado en estas dos sedes regionales, lo que contrasta con las presentadas ante el Tribunal Europeo de Derechos Humanos. Así, en esta aportación se pretende constatar que no sólo las decisiones pronunciadas sino el contenido o fondo de las demandas planteadas, el cómo proceden a plantear la vulneración del derecho a sus tierras, difieren significativamente. Para ello se recurre a un método analítico tanto de las solicitudes como del resultado de estas lo que se completa con las pertinentes aportaciones doctrinales.",
+     "resumen": "Aproximadamente 500 millones de personas tienen el español como lengua materna, principalmente en Europa y América. A pesar de no existir diferencias sustanciales entre las variantes del español habladas en ambas regiones, se observa variación dialectal, un fenómeno lingüístico común, que incluye variación de aspectos como el vocabulario, la sintaxis o el discurso, entre otros. La falta de consideración de estas diferencias puede tener un impacto negativo tanto en la práctica como en la investigación en fonoaudiología. Este trabajo tiene como objetivo revisar la variación dialectal en el contexto del quehacer fonoaudiológico, con el fin de orientar tanto la práctica como la investigación con hablantes de español. Para esto se presentan ejemplos de variación dialectal en los diferentes niveles del lenguaje y se ofrecen comentarios teóricos al respecto. También se comentan casos de variación dialectal a nivel nacional, procesos de contacto entre lenguas originarias y el español, así como la variación derivada de los procesos migratorios recientes.",
      "idioma_resumen": "es",
-     "licencia": null,
-     "url": "https://doi.org/10.7770/cuhso.v30i1.2109",
-     "doi": "10.7770/cuhso.v30i1.2109",
-     "paginas": "186-202",
-     "fuente": "Crossref"
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/715",
+     "doi": "10.7770/cuhso-v34n2-art722",
+     "paginas": null,
+     "fuente": "OAI-PMH"
     },
     {
-     "id": "10.7770/cuhso.v30i1.2230",
-     "titulo": "La Academia como Territorio: Reflexiones sobre Epistemologías Indígenas e Investigación",
-     "idioma_titulo": null,
-     "autores": [
-      {
-       "nombre": "Genner Llanes-Ortiz",
-       "orcid": "https://orcid.org/0000-0002-0621-3408"
-      }
-     ],
-     "resumen": "Mi contribución a este volumen tiene que ver con reflexiones que seguramente muchas y muchos investigadores indígenas hemos hecho antes. Sin embargo, espero nos inspire a seguir pensando y explorando juntos y juntas lo que significa hacer investigación desde Abiayala. Y más aún, lo que significa hacer investigación en colaboración, en diálogo y, hasta cierto punto, en complicidad con nuestros pueblos. Así que, de lo que quiero hablarles, es del acto de reivindicar a la academia también como un territorio del quehacer indígena.",
-     "idioma_resumen": "es",
-     "licencia": null,
-     "url": "https://doi.org/10.7770/cuhso.v30i1.2230",
-     "doi": "10.7770/cuhso.v30i1.2230",
-     "paginas": "203-220",
-     "fuente": "Crossref"
-    },
-    {
-     "id": "10.7770/cuhso.v30i1.2212",
-     "titulo": "“Mundos y epistemologías en resistencias: el caso del Pueblo Mapuche”",
+     "id": "10.7770/cuhso-v34n2-art739",
+     "titulo": "Videovigilancia del espacio público en el marco del Plan de Seguridad Ciudadana Integral de la Municipalidad de Temuco. Una propuesta para evaluar su eficacia.",
      "idioma_titulo": "es",
      "autores": [
       {
-       "nombre": "José Quidel Lincoleo",
+       "nombre": "Martínez Montenegro, Isnel",
+       "orcid": null
+      },
+      {
+       "nombre": "López Rojas, Dayán Gabriel",
        "orcid": null
       }
      ],
-     "resumen": "El presente escrito, aborda desde la perspectiva mapuche algunas consideraciones para pensar una posibilidad anclada en la resistencia. Así como valorar la dimensión espiritual lugar donde se mueven las principales fuentes de ese kimün (conocer mapuche). Deslizamos una trayectoria de algunos conceptos mapuche, así como las implicancias que ellas tienen en la actualidad frente a la embestida neoliberal extractivista.",
+     "resumen": "El artículo analiza cómo la videovigilancia de espacios públicos se ha convertido en una práctica común en todo el mundo, siendo parte esencial de las estrategias de prevención situacional del delito en la sociedad contemporánea. Al hilo de los hallazgos de investigaciones criminológicas comparadas, se discute su efectividad preventiva, su impacto en la percepción de seguridad y su capacidad para generar exclusión social. Con motivo de su implementación en el marco del Plan de Seguridad Ciudadana Integral de la Municipalidad de Temuco (2022-2025), se argumenta la necesidad de evaluar con datos empíricos los niveles de eficacia real de esta herramienta de seguridad pública en la citada ciudad chilena.",
      "idioma_resumen": "es",
-     "licencia": null,
-     "url": "https://doi.org/10.7770/cuhso.v30i1.2212",
-     "doi": "10.7770/cuhso.v30i1.2212",
-     "paginas": "221-232",
-     "fuente": "Crossref"
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/732",
+     "doi": "10.7770/cuhso-v34n2-art739",
+     "paginas": null,
+     "fuente": "OAI-PMH"
     },
     {
-     "id": "10.7770/cuhso.v30i1.2237",
-     "titulo": "Dialogando la dignidad y hacia otra academia: entrevista al profesor Felipe Gómez Isa de la Universidad de Deusto, País Vasco y profesor Ricardo Salas Astrain de la Universidad Católica de Temuco, Chile",
+     "id": "10.7770/cuhso-v34n2-art753",
+     "titulo": "Vulnerabilidad y devoción: San Emigdio patrón tutelar contra los terremotos en Guatemala",
      "idioma_titulo": "es",
      "autores": [
       {
-       "nombre": "Carolina Sanchez De Jaegher",
-       "orcid": "https://orcid.org/0000-0001-6881-771X"
+       "nombre": "Viceconte, Milena",
+       "orcid": null
       }
      ],
-     "resumen": "En esta entrevista los profesores Felipe Gómez Isa y Ricardo Salas Astraín reflexionan a través de un camino crítico que va floreciendo a través de propuestas enriquecedoras con respecto a los desafíos que la academia enfrenta en este siglo. Desde el marco del derecho internacional, la filosofía intercultural y el modelo universitario occidental desarrollado desde el siglo XVI, se emprende un diálogo que va al centro de los presupuestos científicos actuales y la manera en que éstos están siendo interpelados desde otras ecologías de saberes. De la entrevista se desprende la necesidad de una revisión completa del curriculum universitario para dar cuenta de una realidad holística que sea más coherente con el pluriverso humano, en todos sus ámbitos académicos, desde los derechos humanos e indígenas hasta la manera de hacer ciencia y orientar la praxis. En un momento de transiciones muy fuertes y de creciente deterioro de nuestra casa común, el planeta Tierra, esta entrevista a dos intelectuales ofrece un bálsamo dialogante y nos hace reflexionar sobre numerosos aspectos del trabajo en co-laboración y forjando una comunidad de saberes con los pueblos indígenas.",
+     "resumen": "En el contexto de la religiosidad vinculadas a los terremotos del Reino de Guatemala, fueron varios los santos invocados por las comunidades para lidiar con el azote sísmico. En particular, destaca la devoción hacia san Emigdio, un santo mártir celebrado en las fuentes hagiográficas por su labor como obispo de Ascoli, en Italia, y que desde 1703 se venera como protector celestial contra los fenómenos telúricos. Este artículo pretende explorar, analizando la documentación de archivo y las fuentes visuales de la época, aspectos vinculados con el origen y la promoción de este culto en la segunda mitad del siglo XVIII, cuando Emigdio se consagró como protector oficial de Ciudad de Guatemala. La producción figurativa atestigua el fermento devocional hacia este santo, especialmente mediante pinturas de mediano formato localizadas en iglesias, museos y colecciones privadas. El análisis de las diversas representaciones del santo que se han podido rastrear ha revelado una coherencia en la apariencia iconográfica, basada en un modelo común codificado entre Nápoles y España. Se trata de una primera aproximación a la historia de esta devoción, que sigue una tendencia también compartida en otros territorios americanos amenazados por los terremotos.",
      "idioma_resumen": "es",
-     "licencia": null,
-     "url": "https://doi.org/10.7770/cuhso.v30i1.2237",
-     "doi": "10.7770/cuhso.v30i1.2237",
-     "paginas": "233-255",
-     "fuente": "Crossref"
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/746",
+     "doi": "10.7770/cuhso-v34n2-art753",
+     "paginas": null,
+     "fuente": "OAI-PMH"
     },
     {
-     "id": "10.7770/cuhso.v30i1.2117",
-     "titulo": "“Reconciling Indigenous Peoples’ Individual and Collective Rights: Participation, Prior Consultation and Self-Determination in Latin America” by Jessika Eichler",
-     "idioma_titulo": "en",
+     "id": "10.7770/cuhso-v34n2-art765",
+     "titulo": "¿Enemigos o adversarios? Estrategias de nominalización del otro indígena desplegadas en los tratados de paz desarrollados entre el Estado argentino y el pueblo Rankülche (1865 y 1874).",
+     "idioma_titulo": "es",
      "autores": [
       {
-       "nombre": "Rodrigo Cespedes",
+       "nombre": "Figueroa, Mauricio",
+       "orcid": null
+      },
+      {
+       "nombre": "Peredo Ibarra, Carlos Manuel",
        "orcid": null
       }
      ],
-     "resumen": null,
-     "idioma_resumen": null,
-     "licencia": null,
-     "url": "https://doi.org/10.7770/cuhso.v30i1.2117",
-     "doi": "10.7770/cuhso.v30i1.2117",
-     "paginas": "256-257",
-     "fuente": "Crossref"
-    },
-    {
-     "id": "10.7770/cuhso.v30i1.2118",
-     "titulo": "Culture and the Judiciary: The Anthropologist Judge",
-     "idioma_titulo": "en",
-     "autores": [
-      {
-       "nombre": "Rodrigo Cespedes",
-       "orcid": null
-      }
-     ],
-     "resumen": null,
-     "idioma_resumen": null,
-     "licencia": null,
-     "url": "https://doi.org/10.7770/cuhso.v30i1.2118",
-     "doi": "10.7770/cuhso.v30i1.2118",
-     "paginas": "258-259",
-     "fuente": "Crossref"
+     "resumen": "Este trabajo es una propuesta de análisis de discurso, que indaga las prácticas discursivas empleadas por los representantes del Estado argentino para describir a los caciques indígenas rankülches Baigorria, Mariano Rosas y Calfucurá como “enemigos o adversarios” de la nación en el contexto de las relaciones diplomáticas e interétnicas que fueron resultado de la ocupación del espacio de control político-territorial rankülche. A partir de los datos lingüísticos e históricos que ofrece la documentación de época, son exploradas las etiquetas que utilizan los interlocutores citados con el propósito de definir a los conglomerados y posicionarse a sí mismos en los tratados de paz desarrollados entre 1865-1874. El marco temporal en el que se sitúan los hechos comprende el reciente triunfo de Bartolomé Mitre en la batalla de Pavón (1861), suceso que puso fin a los fraccionamientos y luchas internas que propiciaron las guerras confederadas y que tendrá como efecto posterior un agresivo proceso de expansión militar y consolidación interna del Estado sobre los territorios controlados por los pueblos indígenas. De manera preliminar, el análisis muestra el uso de una conceptualización diferenciada referida a enemigos y adversarios en los tratados de paz. Se advierte el uso de etiquetas y códigos que definen a unos como enemigos de la república, mientras que, a otros, se les representa como adversarios que son integrados al nuevo Estado-nación, sin embargo, en una posición subordinada.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/758",
+     "doi": "10.7770/cuhso-v34n2-art765",
+     "paginas": null,
+     "fuente": "OAI-PMH"
     }
    ]
   }

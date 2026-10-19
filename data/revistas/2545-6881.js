@@ -1,0 +1,938 @@
+// Copia de revistas/2545-6881.json para abrir la aplicación sin servidor.
+(window.DATOS_REVISTAS = window.DATOS_REVISTAS || {})["revistas/2545-6881.json"] = {
+ "version": 1,
+ "generado": "2026-10-19T04:47:02+00:00",
+ "es_prueba": false,
+ "revista": {
+  "id": "2545-6881",
+  "titulo": "Cuestión Urbana",
+  "idioma_titulo": null,
+  "titulo_alternativo": null,
+  "idioma_titulo_alternativo": null,
+  "idiomas": [
+   "es"
+  ],
+  "issn_impreso": null,
+  "issn_electronico": "2545-6881",
+  "editorial": "Universidad de Buenos Aires",
+  "pais": "AR",
+  "materias": [
+   "Aesthetics of cities. City planning and beautifying",
+   "Urban groups. The city. Urban sociology"
+  ],
+  "palabras_clave": [
+   "urbanism",
+   "cities",
+   "sociology"
+  ],
+  "licencias": [
+   {
+    "nombre": "CC BY-NC-SA",
+    "url": null
+   }
+  ],
+  "url": "https://publicaciones.sociales.uba.ar/index.php/cuestionurbana/index",
+  "url_doaj": "https://doaj.org/toc/2545-6881",
+  "descripcion": null,
+  "fuente_ficha": "DOAJ",
+  "oai": "https://publicaciones.sociales.uba.ar/index.php/cuestionurbana/oai",
+  "archivo": "revistas/2545-6881.json",
+  "ultimo_numero": "núm. 16 (2025)",
+  "fuente_numeros": "OAI-PMH"
+ },
+ "numeros": [
+  {
+   "id": "n16-2025",
+   "volumen": null,
+   "numero": "16",
+   "anio": 2025,
+   "fecha": "2025-09-09",
+   "etiqueta": "núm. 16 (2025)",
+   "fuente": "OAI-PMH",
+   "articulos": [
+    {
+     "id": "oai:publicaciones.sociales.uba.ar:article/10734",
+     "titulo": "Cambios climáticos y grandes ciudades: la profundización de la desigualdad",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "de Oliveira Santos, Rosane Rebeca",
+       "orcid": null
+      },
+      {
+       "nombre": "Sánchez, Fernanda",
+       "orcid": null
+      }
+     ],
+     "resumen": "Al contrario de lo que se puede pensar, los cambios climáticos no afectan a toda la población de una misma forma. Capas de vulnerabilidad social, construidas históricamente, se sobreponen a grupos de individuos, a las que se suma la crisis ambiental. La crisis solo profundiza las desigualdades urbanas, exponiendo cada vez más las contradicciones y el agotamiento de este paradigma que hace recaer justamente sobre los menos responsables los peores efectos de este panorama distópico. En la primera línea de esta lucha hay diversos movimientos insurgentes e iniciativas comunitarias que tienen en el tema de la justicia climática uno de los caminos posibles para la construcción de un futuro más equitativo en los grandes centros urbanos. Summary Contrary to what one might think, climate changes do not affect the entire population in the same way. Layers of social vulnerability, built historically, overlap social groups, to which the environmental crisis is added. This only serves to deepen urban inequalities, increasingly exposing the contradictions and exhaustion of a paradigm that causes the worst effects to fall on those least responsible for the causes of this dystopian scenario. On the front lines of this struggle are several insurgent movements and community initiatives, which have focused on the issue of climate justice, evoked as one of the possible paths to building a more equitable future in large urban centers.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "Derechos de autor 2025 Rosane Rebeca de Oliveira Santos, Fernanda Sánchez",
+      "url": null
+     },
+     "url": "https://publicaciones.sociales.uba.ar/index.php/cuestionurbana/article/view/10734",
+     "doi": null,
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "oai:publicaciones.sociales.uba.ar:article/10735",
+     "titulo": "Caminos posibles para trabajar con jóvenes. La experiencia en programas de promoción y protección de derechos en el Municipio de La Matanza.",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Bertolotto, Melina",
+       "orcid": null
+      },
+      {
+       "nombre": "Rodriguez, Paloma",
+       "orcid": null
+      }
+     ],
+     "resumen": "El artículo aborda las juventudes de sectores populares en La Matanza desde una mirada situada, crítica y propositiva. Analiza sus condiciones de vida, atravesadas por múltiples vulneraciones, y el impacto de políticas públicas locales como el Programa Envión-Podés. Se destaca el rol de las organizaciones comunitarias y la necesidad de nuevas institucionalidades que interpelen a les jóvenes desde su potencial. Frente al debilitamiento del Estado y la exclusión post pandemia, se ponen en valor intervenciones integrales, territoriales y corresponsables. Summary: The article examines youth from marginalized sectors in La Matanza through a situated, critical, and proactive lens. It analyzes their living conditions, marked by multiple forms of vulnerability, and the impact of local public policies such as the Envión-Podés Program. The role of community organizations is highlighted, along with the need for new institutional frameworks that engage young people based on their potential. In the context of a weakened state and post-pandemic exclusion, the value of comprehensive, territorial, and shared-responsibility interventions is emphasized.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "Derechos de autor 2025 Melina Bertolotto, Paloma Rodriguez",
+      "url": null
+     },
+     "url": "https://publicaciones.sociales.uba.ar/index.php/cuestionurbana/article/view/10735",
+     "doi": null,
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "oai:publicaciones.sociales.uba.ar:article/10726",
+     "titulo": "Fuentes no tradicionalesde socialización Las identidades en disputa",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Peirone, Fernando",
+       "orcid": null
+      }
+     ],
+     "resumen": "La agregación de agentes tecnológicos a los entornos familiares y al sistema escolar están alterando los procesos de socialización primaria con un alcance y una transversalidad inusitadas, interpelando consecuentemente a todo el cinturón institucional. En el marco de la investigación que realizamos en IDAES-UNSAM y el Observatorio de Sociedad, Tecnología y Educación (OISTE) sobre imaginarios tecnológicos y nuevas socializaciones, este trabajo releva y analiza los emergentes que arrojó el trabajo de campo sobre los adultos y las instituciones educativas, problematizando la perspectiva y los recursos con que se los aborda y se los gestiona, tanto en términos subjetivos como sociales, orgánicos y políticos. Summary: The incorporation of technological agents into family settings and the school system is transforming primary socialization processes with an unprecedented scope and degree of transversality, thereby challenging the entire institutional framework. Within the research conducted at IDAES-UNSAM and the Observatory of Society, Technology, and Education (OISTE) on technological imaginaries and new forms of socialization, this paper identifies and analyzes the findings emerging from fieldwork focused on adults and educational institutions. It further problematizes the perspectives and resources through which these phenomena are addressed and managed, both in subjective and social, as well as organizational and political terms.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "Derechos de autor 2025 Fernando Peirone",
+      "url": null
+     },
+     "url": "https://publicaciones.sociales.uba.ar/index.php/cuestionurbana/article/view/10726",
+     "doi": null,
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "oai:publicaciones.sociales.uba.ar:article/10728",
+     "titulo": "JUVENTUDES E INSEGURIDAD: IMÁGENES DE LA POST PANDEMIA EN ARGENTINA (2022-2023).",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Ayos, Emilio",
+       "orcid": null
+      },
+      {
+       "nombre": "Jack, Tatiana",
+       "orcid": null
+      },
+      {
+       "nombre": "Ibarra Ruoredda, Lucía",
+       "orcid": null
+      }
+     ],
+     "resumen": "En este artículo se realiza una reconstrucción de las formas de problematización, las articulaciones y tensiones que se producen en torno a la cuestión de la inseguridad y las juventudes a partir del análisis de las discusiones y los posicionamientos de trabajadorxs de sectores populares, en el período comprendido entre los años 2022-2023 en Argentina. En el marco de nuestro trabajo de campo con trabajadorxs de grupos socio-ocupacionales de sectores populares, fue posible observar diferentes articulaciones entre la cuestión de la (in)seguridad y las juventudes. Esta asociación no se presenta de manera homogénea, sino que conviven múltiples formas de problematizar el vínculo. La figura de las juventudes se ve envuelta en imaginarios que la ubican en lugares opuestos de la escena: mientras algunas personas identifican a lxs jóvenes como victimarixs, en tanto supuestxs responsables de hechos delictivos; otras lxs reconocen como sujetos atravesadxs por diversas situaciones de exclusión y violencia, posicionándolxs como víctimas (de las violencias y la inseguridad). En este sentido, en las discusiones de los grupos focales realizados con trabajadorxs de sectores populares, en un escenario post pandémico, se pusieron en juego diversas, y en muchos casos contradictorias, perspectivas y explicaciones acerca del vínculo de las juventudes con la cuestión de la seguridad y las violencias. Summary: This article reconstructs the forms of problematization, the articulations, and tensions that arise around the issue of insecurity and youth through an analysis of the discussions and positions of workers from popular sectors during the period 2022-2023 in Argentina. Within the framework of our fieldwork with workers from socio-occupational groups in popular sectors, it was possible to observe different articulations between the issue of (in)security and youth. This association is not presented homogeneously; rather, multiple ways of problematizing the link coexist. The figure of youth is wrapped up in imaginaries that place them in opposite places on the scene: while some people identify young people as victimizers, supposedly responsible for criminal acts; others recognize them as subjects affected by various situations of exclusion and violence, positioning them as victims (of violence and insecurity). In this sense, in the focus group discussions conducted with workers from popular sectors, in a \"post-pandemic\" scenario, diverse, and in many cases contradictory, perspectives and explanations were brought into play regarding the connection between youth and the issue of security and violence.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "Derechos de autor 2025 Emilio Ayos, Tatiana Jack, Lucía Ibarra Ruoredda",
+      "url": null
+     },
+     "url": "https://publicaciones.sociales.uba.ar/index.php/cuestionurbana/article/view/10728",
+     "doi": null,
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "oai:publicaciones.sociales.uba.ar:article/10737",
+     "titulo": "Juventudes Olvidadas",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Clemente, Adriana",
+       "orcid": null
+      },
+      {
+       "nombre": "Nesprias, Julia",
+       "orcid": null
+      }
+     ],
+     "resumen": "Este número de Cuestión Urbana, titulado “Juventudes olvidadas”, aborda la situación de los y las jóvenes en contextos de marginación, donde suelen ser responsabilizados por los problemas sociales más que reconocidos como sujetos de derechos. Los artículos analizan cómo, en un escenario de creciente desigualdad, los jóvenes quedan relegados y estigmatizados, incluso en ámbitos donde deberían ser protagonistas como la educación, la cultura o el deporte, mientras las políticas de control ganan espacio. El dossier reúne investigaciones sobre consumos digitales, conflicto con la ley, participación política, trabajo y educación, destacando el impacto de las nuevas tecnologías en la profundización de la brecha generacional y la urgencia de repensar las políticas sociales. Además, incluye entrevistas a Gabriela Torres y Melina Vázquez, un estudio sobre bienestar en Uruguay, experiencias de políticas municipales en Paraguay y los efectos de la crisis climática en ciudades brasileñas, junto con la implementación del Programa Envión-Podés en La Matanza. La publicación pone en valor la calidad y compromiso de los autores, buscando articular investigación e intervención social.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "Derechos de autor 2025 Adriana Clemente, Julia Nesprias",
+      "url": null
+     },
+     "url": "https://publicaciones.sociales.uba.ar/index.php/cuestionurbana/article/view/10737",
+     "doi": null,
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "oai:publicaciones.sociales.uba.ar:article/10730",
+     "titulo": "Nuevas adicciones. Mecanismos de gratificación instantánea en videojuegos y redes sociales",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Di Palma, Carolina",
+       "orcid": null
+      }
+     ],
+     "resumen": "El artículo analiza los mecanismos de recompensas y gratificaciones aleatorias asociados a la monetización del ocio en videojuegos y redes sociales. Aborda los consumos culturales interactivos, los nuevos horizontes de interpelación impulsados por la industria de las telecomunicaciones y los procesos de subjetivación on-off line en dispositivos digitales conectados. Se observa que, en los contextos de apropiación, se instala y disputa un sentido común sobre una infancia atravesada por el juego y el consumo infinito, que legitima en la virtualidad y la simulación un gasto ilimitado de energía monetizable. Summary: The article analyses the mechanisms of rewards and random gratifications associated with the monetisation of leisure in video games and social networks. The text addresses three themes: interactive cultural consumption, new modes of interpellation driven by the telecommunications industry, and on-off line subjectivation processes in connected digital devices. It has been observed that, in contexts of appropriation, a common sense is established and contested about a childhood characterised by play and infinite consumption. This common sense legitimises unlimited expenditure of monetisable energy in virtuality and simulation.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "Derechos de autor 2025 Carolina Di Palma",
+      "url": null
+     },
+     "url": "https://publicaciones.sociales.uba.ar/index.php/cuestionurbana/article/view/10730",
+     "doi": null,
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "oai:publicaciones.sociales.uba.ar:article/10733",
+     "titulo": "Políticas municipales de juventud como políticas urbanas: análisis de su gestión en Asunción (Paraguay) y área metropolitana (2015-2020)",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Paredes Britez, Olga",
+       "orcid": null
+      }
+     ],
+     "resumen": "Este artículo analiza las políticas municipales de juventud implementadas en Asunción (Paraguay) y su área metropolitana entre 2015 y 2020. A partir de un enfoque cualitativo basado en grupos focales con ex-directores/as de juventud, se identifican avances institucionales como la creación de unidades juveniles, programas de becas e iniciativas participativas. Sin embargo, persisten obstáculos estructurales como la escasez de recursos, la interferencia político-partidaria y la débil articulación entre niveles de gobierno. Los hallazgos muestran una institucionalización fragmentada y dependiente de liderazgos individuales. Se concluye que el fortalecimiento de las políticas juveniles locales en contextos urbanos exige una arquitectura estatal multiescalar con enfoque territorial, respaldo normativo y financiero, y mecanismos efectivos de participación juvenil. Summary This article examines municipal youth policies implemented in Asunción (Paraguay) and its metropolitan area between 2015 and 2020. Using a qualitative approach based on focus groups with former youth directors, it identifies institutional advances such as the creation of youth units, scholarship programs, and participatory initiatives. However, structural obstacles persist, including limited resources, political interference, and weak intergovernmental coordination. The findings reveal a fragmented institutionalization highly dependent on individual leadership. The article concludes that strengthening local youth policies in urban contexts requires a multi-scalar state architecture with a territorial approach, normative and financial support, and effective mechanisms for youth participation.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "Derechos de autor 2025 Olga Paredes Britez",
+      "url": null
+     },
+     "url": "https://publicaciones.sociales.uba.ar/index.php/cuestionurbana/article/view/10733",
+     "doi": null,
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "oai:publicaciones.sociales.uba.ar:article/10725",
+     "titulo": "Trabajo adolescente y trayectorias educativas en tensión: aportes desde la evidencia estadística.",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Davolos, Patricia",
+       "orcid": null
+      },
+      {
+       "nombre": "Pasin, Julia",
+       "orcid": null
+      },
+      {
+       "nombre": "Gonzalez, Delia",
+       "orcid": null
+      },
+      {
+       "nombre": "Suasnábar, Juan",
+       "orcid": null
+      },
+      {
+       "nombre": "Estrada, Gabriel",
+       "orcid": null
+      }
+     ],
+     "resumen": "La relación entre la situación laboral y la escolaridad es compleja, no lineal y controvertida. El trabajo infantil y adolescente es una problemática fuertemente asociada a la pobreza y a la desigualdad, y resulta una de las contracaras de la deserción escolar. El involucramiento en tareas laborales se convierte en un obstáculo en las trayectorias educativas por menor rendimiento o por abandono, incidiendo en las trayectorias futuras en el mercado de trabajo y de construcción de ciudadanía, reproduciendo y ampliando brechas entre sectores sociales. Este artículo pone el foco en el análisis de la evidencia estadística disponible en nuestro país en relación a las trayectorias educativas de un sector de niños, niñas y, particularmente, adolescentes que continúan escolarizados mientras participan en diversas actividades laborales para contribuir al bienestar de sus hogares. El punto de partida lo constituye la evidencia que surge de la Encuesta de Actividades de Niños, Niñas y Adolescentes (EANNA), principal relevamiento sobre el tema en el país. Sin embargo, esta fuente presenta importantes desafíos derivados del tiempo transcurrido desde su última medición (2017) y de la incertidumbre sobre su periodicidad futura. De esta forma, el artículo se propone analizar la posibilidad de articulación de distintas fuentes estadísticas disponibles para profundizar y actualizar la evidencia surgida de la última EANNA como así también discutir limitaciones y vacancias de esta articulación. Summary The relationship between employment status and schooling is complex, non-linear, and controversial. Child and adolescent labor is a problem strongly associated with poverty and inequality, and is one of the flip sides of school dropout. Involvement in work tasks becomes an obstacle to educational trajectories due to lower performance or dropout, affecting future trajectories in the labor market and citizenship building, reproducing and widening gaps between social sectors. This article focuses on the analysis of statistical evidence available in our country regarding the educational trajectories of a sector of children, and particularly adolescents, who continue to attend school while participating in various work activities to contribute to the well-being of their households. The starting point is the evidence that emerges from the Survey of Activities of Children and Adolescents (EANNA), the main survey on the subject in the country. However, this source presents significant challenges due to the time that has elapsed since its last measurement (2017) and the uncertainty about its future periodicity. Thus, the article aims to analyze the possibility of articulating different available statistical sources to deepen and update the evidence from the latest EANNA, as well as to discuss the limitations and gaps of this articulation.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "Derechos de autor 2025 Patricia Davolos, Julia Pasin, Delia Gonzalez, Juan Suasnábar, Gabriel Estrada",
+      "url": null
+     },
+     "url": "https://publicaciones.sociales.uba.ar/index.php/cuestionurbana/article/view/10725",
+     "doi": null,
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "oai:publicaciones.sociales.uba.ar:article/10727",
+     "titulo": "¡Defender la alegría! Apropiaciones juveniles de una política recreativa en la ciudad de Buenos Aires",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Picco, Diego",
+       "orcid": null
+      }
+     ],
+     "resumen": "En este artículo se presentan resultados parciales de una investigación que analiza la implementación de una política recreativa orientada a jóvenes de sectores populares en la Ciudad de Buenos Aires. El trabajo se centra en las percepciones y apropiaciones que las y los jóvenes participantes del Programa Adolescencia construyen en torno a la propuesta de intervención desarrollada en instituciones deportivas entre 2009 y 2021. La estrategia metodológica combina técnicas de investigación cualitativa con datos primarios y secundarios que permiten comparar las representaciones y prácticas de sus principales actores y dar cuenta de las tensiones y mediaciones que aparecen entre lo que sus agentes estatales e institucionales proponen y las apropiaciones y resignificaciones que los participantes realizan del mismo. Entre las principales conclusiones del análisis se encuentra la mirada celebratoria que sostiene la población destinataria sobre el programa como espacio de significativa incidencia en el enriquecimiento de sus prácticas, representaciones y trayectorias biográficas. Igualmente, se señalan los límites que encuentra para incidir en los mecanismos de integración social en un contexto de progresiva reducción presupuestaria y de retrocesos en el reconocimiento de los derechos recreativos para la población juvenil de la Ciudad. Summary: This article presents partial findings from a research project that examines the implementation of a recreational policy aimed at young people from low-income sectors of Buenos Aires city. The study focuses on the perceptions and meanings that participants in the Programa Adolescencia construct around the intervention carried out in sports institutions between 2009 and 2021. The methodological approach combines qualitative research techniques with both primary and secondary data sources. This allows for a comparison of the representations and practices of the program’s key actors, while also shedding light on the tensions and negotiations that emerge between the proposals designed by state and institutional stakeholders and the ways in which young participants engage with, reinterpret, and make the program their own. Among the main conclusions of the analysis is the positive view held by the target population, who perceive the program as a meaningful space that enriches their practices, social representations, and life trajectories. At the same time, the study highlights the program’s limitations in promoting social integration, particularly in a context of ongoing budget cuts and the gradual erosion of recreational rights for the city’s youth.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "Derechos de autor 2025 Diego Picco",
+      "url": null
+     },
+     "url": "https://publicaciones.sociales.uba.ar/index.php/cuestionurbana/article/view/10727",
+     "doi": null,
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "oai:publicaciones.sociales.uba.ar:article/10732",
+     "titulo": "¿Atrapados sin salida? Impactos de la institucionalización del bienestar residual desde el caso uruguayo",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Midaglia, Carmen",
+       "orcid": null
+      },
+      {
+       "nombre": "Fuentes, Guillermo",
+       "orcid": null
+      },
+      {
+       "nombre": "García Rey, Manuel",
+       "orcid": null
+      }
+     ],
+     "resumen": "El artículo busca analizar cómo el diseño y la orientación de nuevas políticas sociales, focalizadas hacia sectores con vulnerabilidad socioeconómica, generan efectos duales en los sistemas de protección. Por un lado, amplían la cobertura incluyendo a nuevos ciudadanos trascendiendo su pertenencia al mercado formal de trabajo; por otro, segmentan el acceso y profundizan la estratificación de beneficios. Asimismo, la focalización tiende a promover desconfianza ciudadana hacia la población beneficiaria, con impactos negativos en la opinión pública. El artículo aborda en profundidad la experiencia uruguaya como referencia significativa, a partir de datos secundarios, análisis documental y, principalmente, una encuesta representativa sobre preferencias de bienestar social en el país. Summary: This article analyzes how the design and orientation of new social policies, particularly those that are focused on socioeconomically vulnerable sectors, generate dual effects within welfare schemes. On one hand, they expand coverage by including new citizens without question their participation in the formal labor market; on the other, they segment access and deepen the stratification of benefits. At the same time, targeting tends to foster public distrust toward beneficiaries, with negative repercussions on public opinion. The article examines the Uruguayan experience in depth as a significant reference, drawing on secondary data, documentary analysis, and, primarily, a representative survey on social welfare preferences in the country.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "Derechos de autor 2025 Carmen Midaglia, Guillermo Fuentes, Manuel García Rey",
+      "url": null
+     },
+     "url": "https://publicaciones.sociales.uba.ar/index.php/cuestionurbana/article/view/10732",
+     "doi": null,
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "oai:publicaciones.sociales.uba.ar:article/10736",
+     "titulo": "¿Ellas también son feministas?",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Reguillo, Rossana",
+       "orcid": null
+      }
+     ],
+     "resumen": "Reseña del libro \"Sin padre, sin marido y sin Estado. Feministas de las nuevas derechas\", de Melina Vázquez y Carolina Spataro (Siglo XXI, 2025).",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "Derechos de autor 2025 Rossana Reguillo",
+      "url": null
+     },
+     "url": "https://publicaciones.sociales.uba.ar/index.php/cuestionurbana/article/view/10736",
+     "doi": null,
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "oai:publicaciones.sociales.uba.ar:article/10731",
+     "titulo": "¿QUÉ HACER CON LAS JUVENTUDES? UNA “NUEVA-VIEJA” CUESTIÓN CADA VEZ MÁS ACUCIANTE",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Caamaño, César",
+       "orcid": null
+      }
+     ],
+     "resumen": "El artículo presenta resultados parciales de lo que vienen trabajando los grupos de investigación en Ciencia Política dirigidos por César Caamaño en torno a la situación de las juventudes, la problemática de la pobreza y su relación con el hábitat en la región del AMBA, desde una perspectiva de género. Se hace hincapié en las posibilidades de inserción en el mercado laboral y en el sistema educativo medio y superior de los sectores juveniles más vulnerables, teniendo en cuenta las políticas públicas más importantes al respecto -a nivel local, provincial y nacional- y la participación de organizaciones e instituciones de la sociedad civil. ¿Alcanza simplemente con pregonar la “igualdad de oportunidades” sin plantear políticas tendientes a su efectiva materialización? Summary: The article presents part of what the Political Science research groups led by César Caamaño have been working about youth and the problem of poverty and its relationship with habitat in the AMBA region, from a gender perspective. Emphasis is placed on the possibilities of insertion in the labor market and in the secondary and higher education system of the most vulnerable youth sectors, considering the most important public policies in this regard - at the local, provincial and national levels - and the participation of civil society organizations and institutions. Is it enough simply to preach \"equality of opportunity\" without proposing policies aimed at its effective materialization?",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "Derechos de autor 2025 César Caamaño",
+      "url": null
+     },
+     "url": "https://publicaciones.sociales.uba.ar/index.php/cuestionurbana/article/view/10731",
+     "doi": null,
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "oai:publicaciones.sociales.uba.ar:article/10739",
+     "titulo": "“Hay que volver a asumir que uno es el adulto, y que ese joven, sea cual sea su condición, necesita cuidado.” Entrevista a Gabriela Torres",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Clemente, Adriana",
+       "orcid": null
+      }
+     ],
+     "resumen": "Gabriela Torres es trabajadora social y especialista en planificación de políticas públicas. Ha ocupado diversos cargos de gestión a nivel nacional y provincial, entre ellos, Secretaria de la SEDRONAR, Subsecretaria de Adicciones de la Provincia de Buenos Aires, Coordinadora Nacional del INAES y del Programa de Educación del Instituto Nacional de Educación, con una trayectoria centrada en el diseño y la implementación de políticas de cuidado y prevención.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "Derechos de autor 2025 Adriana Clemente",
+      "url": null
+     },
+     "url": "https://publicaciones.sociales.uba.ar/index.php/cuestionurbana/article/view/10739",
+     "doi": null,
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "oai:publicaciones.sociales.uba.ar:article/10743",
+     "titulo": "“Las juventudes que hoy se afirman en la derecha fueron socializadas políticamente en el ciclo progresista”. Entrevista a Melina Vázquez",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Clemente, Adriana",
+       "orcid": null
+      }
+     ],
+     "resumen": "Melina Vázquez es socióloga (UBA), Magíster y Doctora en Ciencias Sociales (UBA). Investigadora Adjunta del CONICET en el Instituto de Investigaciones Gino Germani y profesora de Sociología en la UBA. Co-coordina el Equipo de Estudios de Políticas y Juventudes (GEPoJu) y el Grupo de Trabajo CLACSO “Juventudes e infancias”. Ha publicado numerosos artículos y es autora y editora de libros sobre juventudes en América Latina, entre ellos Juventudes Latinoamericanas (2015), Militancias Juveniles en la Argentina democrática (2016) y Juventudes, Estado y participación en la Argentina actual (2015). Recientemente, junto con Carolina Spataro, publicó Sin padre, sin marido y sin Estado. Feministas de las nuevas derechas (Siglo XXI, 2024).",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "Derechos de autor 2025 Adriana Clemente",
+      "url": null
+     },
+     "url": "https://publicaciones.sociales.uba.ar/index.php/cuestionurbana/article/view/10743",
+     "doi": null,
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    }
+   ]
+  },
+  {
+   "id": "n15-2024",
+   "volumen": null,
+   "numero": "15",
+   "anio": 2024,
+   "fecha": "2024-12-02",
+   "etiqueta": "núm. 15 (2024)",
+   "fuente": "OAI-PMH",
+   "articulos": [
+    {
+     "id": "oai:publicaciones.sociales.uba.ar:article/10070",
+     "titulo": "Articulación universidad y sociedad. El caso de la emergencia alimentaria en el conurbano bonaerense.",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Clemente, Adriana",
+       "orcid": null
+      },
+      {
+       "nombre": "Molina Daertano, Pablo",
+       "orcid": null
+      },
+      {
+       "nombre": "Risso Patrón, Domingo",
+       "orcid": null
+      }
+     ],
+     "resumen": "El presente artículo tiene por objetivo problematizar, a partir de una experiencia concreta, cómo se despliega un proyecto de cooperación interinstitucional entre la universidad y un municipio del área metropolitana de Buenos Aires. De modo más específico el proyecto que motiva este artículo se dio en un contexto muy especial como fue la post pandemia y en el marco del programa “Argentina contra el Hambre”. El artículo busca poner en valor aprendizajes referidos a los procesos de vinculación y socialización de conocimiento útil para la gestión municipal, con foco en el caso de la política alimentaria de alcance territorial y el uso de tecnología para la inclusión social. SummaryThe aim of this article is to discuss, based on a concrete experience, how an inter-institutional cooperation project between the university and a municipality in the metropolitan area unfolds. More specifically, the project that motivates this article took place in a very special context, that of the post-pandemic period, within the framework of the \"Argentina Against Hunger\" program. The article seeks to highlight the lessons learned regarding the processes of linking and socializing useful knowledge for municipal management, focusing on the case of territorial food policy and the use of technology for social inclusion.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "Derechos de autor 2024 Adriana Clemente, Pablo Molina Daertano, Domingo Risso Patrón",
+      "url": null
+     },
+     "url": "https://publicaciones.sociales.uba.ar/index.php/cuestionurbana/article/view/10070",
+     "doi": null,
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "oai:publicaciones.sociales.uba.ar:article/10071",
+     "titulo": "Criterios metodológicos para el diseño de políticas sociales de integración social y urbana en Barrios Populares",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Beltrán Messa, Bárbara",
+       "orcid": null
+      },
+      {
+       "nombre": "Vincentin, Luisa",
+       "orcid": null
+      }
+     ],
+     "resumen": "La propuesta de este trabajo consiste en construir criterios metodológicos para el diseño de políticas sociales de integración social y urbana en barrios populares. El presente artículo se compone de tres partes: en primer lugar, el desarrollo del abordaje social para los procesos de intervención social y urbana en barrios populares, junto con la introducción a los ejes de salud y educación; en segundo lugar, la elaboración de criterios para la construcción del diagnóstico de estos ejes de intervención, utilizando como variable de análisis la cobertura geográfica y poblacionalde establecimientos educativos y centros de atención primaria de la salud; y, en tercer lugar, el análisis del eje salud en un caso de estudio territorial, donde se sitúan los criterios metodológicos establecidos. La metodología se compone de criterios metodológicos construidos sobre el objetivo de garantizar el acceso efectivo de la población a los servicios educativos y de salud. Se utiliza como herramienta de georreferenciación QGIS. SummaryThe proposal of this research consists of constructing methodological criteria for the design of social policies for social and urban integration in low-income neighborhoods, also known as shanty-towns. This work is composed of three parts: firstly, the development of the social approach for social and urban intervention processes in low-income neighborhoods and the introduction to the axes of health and education and their prioritization for this proposal; secondly, the elaboration of criteria for the construction of the diagnosis of these intervention axes, using geographic and population coverage of educational establishments and primary health care centers as analysis variables; and thirdly, the analysis of a case study, where the established methodological criteria are situated. The methodology consists of methodological criteria built on the objective of guaranteeing the population's effective access to educational and health services. QGIS is used as a georeferencing tool.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "Derechos de autor 2024 Bárbara Beltrán Messa, Luisa Vincentin",
+      "url": null
+     },
+     "url": "https://publicaciones.sociales.uba.ar/index.php/cuestionurbana/article/view/10071",
+     "doi": null,
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "oai:publicaciones.sociales.uba.ar:article/10072",
+     "titulo": "Desigualdades persistentes y avances de política pública en la lucha por la igualdad de género en la Argentina (2019-2023)",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Brocca, Mariana",
+       "orcid": null
+      },
+      {
+       "nombre": "Messina, Giuseppe Manuel",
+       "orcid": null
+      }
+     ],
+     "resumen": "El presente trabajo tiene por propósito analizar los avances de la política pública desde un enfoque de género que tuvo lugar en el marco de la presidencia de Alberto Fernández (2019-2023). Así, se tomará como punto de partida el estudio de las existentes brechas de género en el mercado laboral, la protección social y los ingresos. Luego, se expondrán las principales políticas públicas que fueron implementadas en este contexto destinadas a brindar herramientas para avanzar hacia una igualdad de género. Entre ellas se hará foco en el Programa AcompañAR y el Programa de Reconocimiento de Aportes por Tareas de Cuidado como medidas de referencia en la materia. También se abordará el proyecto de ley “Cuidar en Igualdad” al ser un ejemplo claro del plan de acción del Ministerio de Mujeres, Géneros y Diversidad para generar cambios estructurales en torno a las relaciones sociales de género.SummaryThis paper aims to analyze the advances in public policy from a gender perspective that took place during the presidency of Alberto Fernández (2019-2023). Thus, it will be taken as a starting point for the study of the existing gender gaps in the labor market, social protection, and income. Then, the central public policies implemented in this context to provide tools to advance towards gender equality will be presented. Among them, the AcompañAR Program and the Program for the Recognition of Contributions for Care Tasks will be focused on as reference measures. The \"Caring in Equality\" draft bill will also be addressed as a clear example of the Ministry of Women, Genders, and Diversity action plan to generate structural changes in gender-social relations.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "Derechos de autor 2024 Mariana Brocca, Giuseppe Manuel Messina",
+      "url": null
+     },
+     "url": "https://publicaciones.sociales.uba.ar/index.php/cuestionurbana/article/view/10072",
+     "doi": null,
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "oai:publicaciones.sociales.uba.ar:article/10069",
+     "titulo": "Educar: ¿para qué? Cartografía de políticas educativas de alcance nacional orientadas hacia adolescentes y jóvenes. Argentina 2017-2023.",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Guemureman, Silvia",
+       "orcid": null
+      },
+      {
+       "nombre": "González, Anahí",
+       "orcid": null
+      }
+     ],
+     "resumen": "El artículo aborda la cuestión de la educación y las políticas estatales de alcance nacional vinculadas a dicha materia y orientadas a adolescentes y jóvenes. La clave de lectura elegida supone preguntarse acerca de cuáles son las acciones que el Estado Nacional lleva a cabo con el fin de incluir a dicho grupo etario en un escenario en que las sociedades organizadas por el empleo “para toda la vida” son desplazadas por configuraciones sociales en las que rige el ideal meritocrático y las salidas individualistas a problemas sociales. Con este objetivo, se analizan parte de los resultados de una cartografía de políticas públicas construida en el marco de un proyecto de investigación de mayor amplitud.SummaryThis paper is about the issue of education and State policies at national level related to educational subject and oriented towards adolescents and young people. The key of interpretation chosen is to ask which actions the National State is taking to include this age group in a scenario in which societies organized by employment “for life” are displaced by social configurations in which the meritocratic ideal and individualistic solutions to social problems prevail. To this end, part of the results of a mapping of public policies built within the framework of a larger research project are analyzed.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "Derechos de autor 2024 Silvia Guemureman, Anahí González",
+      "url": null
+     },
+     "url": "https://publicaciones.sociales.uba.ar/index.php/cuestionurbana/article/view/10069",
+     "doi": null,
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "oai:publicaciones.sociales.uba.ar:article/10074",
+     "titulo": "Experiencias de gestión de suelo de la provincia de Buenos Aires en los términos de la ley 14.449",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Martínez Irazoqui, Lucía",
+       "orcid": null
+      }
+     ],
+     "resumen": "En 2012 se sancionó la ley 14.449 en la provincia de Buenos Aires. En su articulado contiene una ‘caja de herramientas’ para gestionar el suelo urbano de acuerdo al paradigma del Derecho a la Ciudad. Su diseño se fundó, principalmente, en experiencias de municipios, como por ejemplo, lo actuado por Trenque Lauquen, donde la Universidad Nacional de La Plata tomó parte decisiva. En dicho marco, el presente artículo se propone identificar y difundir el proceso de implementación de buenas prácticas de gobernabilidad en materia de gestión de suelo por municipios de Buenos Aires en el marco de la ley 14.449. Para ello se trabajó con un análisis cualitativo desde el paradigma de los estudios urbanos críticos a partir de fuentes secundarias. Summary Law No.14.449 of Buenos Aires was passed in 2012. It contains a 'toolbox' to manage urban land according to the Right to the City paradigm. This was mainly based on municipal experiences, such as Trenque Lauquen, in which the Universidad Nacional de La Plata played a key role. This article aims to identify and disseminate the process of implementing good governance practices in land management by municipalities in Buenos Aires within the framework of Law 14.449. To do this, we have worked with a qualitative analysis from the paradigm of critical urban studies, based on secondary sources.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "Derechos de autor 2024 Lucía Martínez Irazoqui",
+      "url": null
+     },
+     "url": "https://publicaciones.sociales.uba.ar/index.php/cuestionurbana/article/view/10074",
+     "doi": null,
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "oai:publicaciones.sociales.uba.ar:article/10067",
+     "titulo": "Metodologías para la implementación de una política sanitaria en la prevención del cáncer cervicouterino en la Argentina.",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Cuberli, Milca",
+       "orcid": null
+      },
+      {
+       "nombre": "Curotto, Mariana",
+       "orcid": null
+      },
+      {
+       "nombre": "Paul, Luis",
+       "orcid": null
+      }
+     ],
+     "resumen": "El Programa Nacional de Prevención de Cáncer Cervicouterino (PNPCC), dependiente del Instituto Nacional del Cáncer (INC) del Ministerio de Salud de la Nación (Argentina), implementa estrategias sanitarias basadas en la evidencia científica local e internacional disponible. Este artículo tiene como objetivo compartir abordajes, modelos metodológicos y tomas de decisiones que se encuentran por detrás de la construcción de una política pública de salud. Se describirán instancias de desarrollo metodológico que fueron clave en la evolución del PNPCC-INC como programa de prevención. También nos abocaremos a describir el proceso de escalamiento que se dió a partir de la evidencia generada y que promovió la implementación del tamizaje por test de VPH en diferentes jurisdicciones del país en un marco programático. SummaryThe National Cervical Cancer Prevention Program (PNPCC), which is part of the National Cancer Institute (INC) of the Ministry of Health of the Nation (Argentina), implements health strategies based on available local and international scientific evidence. This article aims to share approaches, methodological models and decision-making that are behind the construction of a public health policy. Instances of Methodological Development That were key in the evolution of the PNPCC-INC as a prevention program will be described. Also, we will focus on describing the scaling process that occurred based on the evidence generated and that promoted the implementation of HPV screening tests in different jurisdictions of the country within a programmatic framework.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "Derechos de autor 2024 Milca Cuberli, Mariana Curotto, Luis Paul",
+      "url": null
+     },
+     "url": "https://publicaciones.sociales.uba.ar/index.php/cuestionurbana/article/view/10067",
+     "doi": null,
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "oai:publicaciones.sociales.uba.ar:article/10075",
+     "titulo": "Nuevos derechos: Infraestructura del Cuidado en Argentina y América Latina",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Conte, Romanela",
+       "orcid": null
+      }
+     ],
+     "resumen": "Reseña del libro Nuevos derechos: Infraestructura del Cuidado en Argentina y América Latina, coordinado por Roxana Mazzola y editado por Editorial Prometeo.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "Derechos de autor 2024 Romanela Conte",
+      "url": null
+     },
+     "url": "https://publicaciones.sociales.uba.ar/index.php/cuestionurbana/article/view/10075",
+     "doi": null,
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "oai:publicaciones.sociales.uba.ar:article/10065",
+     "titulo": "Políticas sociales y democratización del conocimiento II",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Clemente, Adriana",
+       "orcid": null
+      },
+      {
+       "nombre": "Nesprias, Julia",
+       "orcid": null
+      }
+     ],
+     "resumen": "Este número de Cuestión Urbana se presenta como una continuación de nuestra serie dedicada a la transferencia, vinculación, socialización y movilización del conocimiento. La revista, de publicación semestral, materializa los objetivos del CEC Sociales al establecer un diálogo enriquecedor entre la universidad y los actores extrauniversitarios. Este ejemplar reúne ocho artículos, una entrevista y una reseña, todos ellos orientados a responder preguntas claves: ¿Cuáles son las claves para desarrollar investigaciones interdisciplinarias?, ¿De qué manera contribuye el conocimiento académico a los procesos de transformación social? ¿Cómo se construyen acuerdos para el trabajo colaborativo en torno a la agenda pública en temas como hábitat popular, trabajo, género, salud colectiva y otras problemáticas sociales?",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "Derechos de autor 2024 Adriana Clemente, Julia Nesprias",
+      "url": null
+     },
+     "url": "https://publicaciones.sociales.uba.ar/index.php/cuestionurbana/article/view/10065",
+     "doi": null,
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "oai:publicaciones.sociales.uba.ar:article/10076",
+     "titulo": "Políticas sociales y democratización del conocimiento vol. II",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Urbana, Cuestión",
+       "orcid": null
+      }
+     ],
+     "resumen": null,
+     "idioma_resumen": null,
+     "licencia": {
+      "nombre": "Derechos de autor 2024 Cuestión Urbana",
+      "url": null
+     },
+     "url": "https://publicaciones.sociales.uba.ar/index.php/cuestionurbana/article/view/10076",
+     "doi": null,
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "oai:publicaciones.sociales.uba.ar:article/10066",
+     "titulo": "“La noción de empoderamiento es limitada, ya que trata a la mujer como sujeto individual”",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Clemente, Adriana",
+       "orcid": null
+      }
+     ],
+     "resumen": "Entrevista a Caroline Moser: antropóloga social urbana, Doctora en Antropología Social (Universidad de Sussex) con Diploma de Posgrado (Universidad de Manchester). Es profesora emérita de la Universidad de Manchester y profesora honoraria del University College de Londres (UCL), donde impulsó la formación global en planificación de género desde la Development Planning Unit. También fue profesora en la London School of Economics (LSE) y en The New School, Nueva York. Fue especialista principal en desarrollo social en América Latina en el Banco Mundial, investigadora principal en la Brookings Institution, y directora del Global Urban Research Centre de la Universidad de Manchester. Con más de 50 años de experiencia en investigación y consultoría, actualmente enfoca su trabajo en género, justicia urbana, reducción de pobreza, adaptación al cambio climático y migración transnacional.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "Derechos de autor 2024 Adriana Clemente",
+      "url": null
+     },
+     "url": "https://publicaciones.sociales.uba.ar/index.php/cuestionurbana/article/view/10066",
+     "doi": null,
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "oai:publicaciones.sociales.uba.ar:article/10073",
+     "titulo": "“Las malas madres” en territorios urbanos. Reflexiones sobre la feminización y la maternalización del cuidado infantil hospitalario.",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Heredia, Candela Rocío",
+       "orcid": null
+      }
+     ],
+     "resumen": "El trabajo de cuidado es un trabajo subalternizado, infravalorado y de gran importancia para el sostenimiento de la vida en general. El objetivo del artículo es describir y analizar cómo circulan los mandatos y juicios hacia las mujeres madres (de barrios populares bajo pobreza persistente) con relación al cuidado que realizan; y analizar las relaciones entre las condiciones de vida de esas mujeres y el acompañamiento posible, en un hospital público de la Provincia de Buenos Aires durante el año 2018. Para esto, se realizó trabajo de campo etnográfico. Se concluyó que en el hospital, institución del Estado, se producen microprácticas donde se despliegan construcciones simbólicas y culturales que redundan en una feminización y maternalización de los cuidados infantiles.SummaryCare work is a subordinate work, undervalued and of great importance for the maintenance of life in general. The objective of the article is to describe and analyze how mandates and judgments circulate towards women mothers (from poor neighborhoods under persistent poverty) in relation to the care they perform; and analyze the relationships between the living conditions of these women and the possible accompaniment, in a public hospital of the Province of Buenos Aires during the year 2018. For this, ethnographic fieldwork was performed. It was concluded that the hospital, a State institution, produces micro-practices in which symbolic and cultural constructions are deployed, resulting in the feminization and maternalization of child care.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "Derechos de autor 2024 Candela Rocío Heredia",
+      "url": null
+     },
+     "url": "https://publicaciones.sociales.uba.ar/index.php/cuestionurbana/article/view/10073",
+     "doi": null,
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "oai:publicaciones.sociales.uba.ar:article/10475",
+     "titulo": "“Los cuidados no pueden esperar”: disputas y tensiones en la agenda de la Economía Popular",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Zibecchi, Carla",
+       "orcid": null
+      },
+      {
+       "nombre": "Campana, Julieta",
+       "orcid": null
+      }
+     ],
+     "resumen": "En este artículo nos proponemos abordar el proceso de construcción de la agenda de demandas de organizaciones sociales y su vínculo con los cuidados comunitarios, prestando particular atención a los procesos de politización emergentes, a partir del caso de la Unión de Trabajadores y Trabajadoras de la Economía Popular (UTEP). Sostenemos que la politización de los cuidados es un proceso relativamente reciente que se vincula estrechamente con las necesidades, disputas y demandas que conforman las agendas de la acción colectiva de estos actores, y que se presenta en relación dialógica con las transformaciones que van ocurriendo en los programas y la acción estatal. Abordamos este proceso en dos períodos de gobierno: entre diciembre de 2019 y 2023, signado por la pandemia; y el que se abre con el triunfo de Javier Milei. SummaryIn this article we propose to address the process of construction of the agenda of demands of social organizations and its link with community care, paying particular attention to the emerging politicization processes, based on the case of the Union of Workers of the Popular Economy (UTEP). We maintain that the politicization of care is a relatively recent process that is closely linked to the needs, disputes and demands that make up the collective action agendas of these actors, and that it is presented in a dialogic relationship with the transformations that are occurring in the programs and state action. We address this process in two government periods: between December 2019 and 2023, marked by the pandemic; and the one that opens with the triumph of Javier Milei.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "Derechos de autor 2025 Carla Zibecchi, Julieta Campana",
+      "url": null
+     },
+     "url": "https://publicaciones.sociales.uba.ar/index.php/cuestionurbana/article/view/10475",
+     "doi": null,
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    }
+   ]
+  },
+  {
+   "id": "n14-2023",
+   "volumen": null,
+   "numero": "14",
+   "anio": 2023,
+   "fecha": "2024-08-02",
+   "etiqueta": "núm. 14 (2023)",
+   "fuente": "OAI-PMH",
+   "articulos": [
+    {
+     "id": "oai:publicaciones.sociales.uba.ar:article/9841",
+     "titulo": "El espacio público frente al extractivismo urbano: ¿commodity o bien común?",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Berardo, Martina Daniela",
+       "orcid": null
+      }
+     ],
+     "resumen": "Más allá de los espacios rurales, las dinámicas extractivas han aterrizado en el espacio urbano. Para adaptar las ciudades a los negocios vinculados al ocio y al consumo, el modelo de desarrollo urbano vigente propone a los espacios públicos como objeto predilecto de intervención. El objetivo del trabajo es proponer una perspectiva teórica para analizar la producción, uso y apropiación del espacio público en las ciudades en el marco de un modelo de desarrollo extractivista. Mediante una revisión bibliográfica, se recorren los debates sobre el extractivismo y neoextractivismo en América Latina, se presenta el concepto de extractivismo urbano y se propone al espacio público como ámbito predilecto para la realización de procesos extractivos en las ciudades contemporáneas. SummaryBeyond rural spaces, extractive dynamics have landed in urban areas. To adapt cities to leisure and consumption-related business, the current urban development model promotes public spaces as prime targets for intervention. The aim of this work is to propose a theoretical perspective for analyzing the processes of production, use, and appropriation of public space in cities within the framework of an extractivist urban development model. Through a literature review, debates on extractivism and neo-extractivism in Latin America are traversed, the concept of urban extractivism is introduced, and public space is proposed as a preferred domain for carrying out extractive processes in contemporary cities.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "Derechos de autor 2024 Martina Daniela Berardo",
+      "url": null
+     },
+     "url": "https://publicaciones.sociales.uba.ar/index.php/cuestionurbana/article/view/9841",
+     "doi": null,
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "oai:publicaciones.sociales.uba.ar:article/9839",
+     "titulo": "El rol de la Facultad de Arquitectura, Diseño y Urbanismo de la Universidad de Buenos Aires en el planeamiento urbano y las políticas urbanas recientes de la Ciudad de Buenos Aires",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Sánchez, Sandra Inés",
+       "orcid": null
+      },
+      {
+       "nombre": "Robertazzi, Margarita",
+       "orcid": null
+      },
+      {
+       "nombre": "Del Grosso, Raúl Héctor",
+       "orcid": null
+      }
+     ],
+     "resumen": "Los mecanismos formales de articulación de la Universidad de Buenos Aires con la sociedad son múltiples y variados: la currícula en sí misma; la investigación aplicada en los proyectos subsidiados; los proyectos de extensión a través de los cuales se procura difundir “los beneficios de su acción cultural y social directa”; los programas de voluntariado; y el asesoramiento técnico enmarcado en convenios institucionales.En este artículo se analizará en perspectiva histórica el rol de la Facultad de Arquitectura, Diseño y Urbanismo de la Universidad de Buenos Aires en el planeamiento urbano, las políticas urbanas y el desarrollo urbano recientes de la ciudad de Buenos Aires. El objetivo es analizar las vinculaciones de la Universidad con la sociedad y los entramados y responsabilidades institucionales, en un contexto político en el que la reformulación de las herramientas e instrumentaciones de planeamiento y desarrollo urbano resultan convergentes con las políticas neoliberales globales. El periodo de estudio comprende desde 2007 hasta la actualidad.SummaryThe formal mechanisms of articulation of the University of Buenos Aires with society are multiple and varied: the curriculum itself; applied research in subsidized projects; extension projects through which it seeks to spread \"the benefits of its direct cultural and social action\"; volunteer programs; and technical advice framed in institutional agreements.The role of the Faculty of Architecture, Design and Urbanism of the University of Buenos Aires in urban planning, urban policies and recent urban development, deployed since 2007 in the city in historical perspective, will be analyzed in order to explain the University’s links with society and the institutional frameworks and responsibilities, in a political context in which the reformulation of urban planning and development tools and instrumentation are convergent with global neoliberal policies.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "Derechos de autor 2024 Sandra Inés Sánchez, Margarita Robertazzi, Raúl Héctor Del Grosso",
+      "url": null
+     },
+     "url": "https://publicaciones.sociales.uba.ar/index.php/cuestionurbana/article/view/9839",
+     "doi": null,
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "oai:publicaciones.sociales.uba.ar:article/9838",
+     "titulo": "La Universidad y el desarrollo de programas de relevancia social. El caso del Programa Interdisciplinario de la Universidad de Buenos Aires sobre Marginaciones Sociales (PIUBAMAS): contribuciones y límites",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Senejko, María Paula",
+       "orcid": null
+      }
+     ],
+     "resumen": "Este trabajo presenta una reflexión sobre la experiencia del Programa Interdisciplinario de la Universidad de Buenos Aires sobre Marginaciones Sociales (PIUBAMAS), señalando sus contribuciones y también las limitaciones que se presentaron para su ejecución.El programa constituye una apuesta institucional de la Universidad por orientar la producción de conocimientos en torno a problemas específicos de relevancia social (Hidalgo, 2016; Masseilot, 2020; Senejko y Versino, 2018) en el marco de un contexto general que plantea la reconfiguración de las agendas de investigación para atender las demandas sociales y una mayor vinculación de las universidades con actores no académicos (Arocena y Sutz, 2000; Sutz 2005; Unzué y Rovelli, 2017; Sarthou et al., 2022, Naidorf y Alonso 2018). Si bien hay otros antecedentes por orientar la investigación en la UBA (Hidalgo, 2016; Vasen y Vienni, 2017), el PIUBAMAS se distingue por haber consolidado una red de investigadoras/es, dejando como acervo un conjunto de prácticas de trabajo colaborativo en torno a la agenda pública vinculada a la problemática. SummaryThis work presents a reflection on the experience of the Interdisciplinary Program of the University of Buenos Aires on Social Marginalizations (PIUBAMAS), pointing out its contributions and also the limitations that arose for its execution. The program constitutes an institutional commitment of the University to guide the production of knowledge around specific problems of social relevance (Hidalgo, 2016; Masseilot, 2020; Senejko and Versino, 2018) within the framework of a general context that proposes the reconfiguration of research agendas to address social demands and greater links between universities and non-academic actors (Arocena and Sutz, 2000; Sutz 2005; Unzué and Rovelli, 2017; Sarthou et al, 2022, Naidorf and Alonso, 2018). Although there are other antecedents to guide the research at the UBA (Hidalgo, 2016; Vasen and Vienni, 2017), the PIUBAMAS stands out for having consolidated a network of researchers, leaving a set of collaborative work practices around the public agenda linked to the problem.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "Derechos de autor 2024 María Paula Senejko",
+      "url": null
+     },
+     "url": "https://publicaciones.sociales.uba.ar/index.php/cuestionurbana/article/view/9838",
+     "doi": null,
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "oai:publicaciones.sociales.uba.ar:article/9842",
+     "titulo": "La experiencia del Observatorio de Políticas de Convivencia y su contribución a la definición de lineamientos educativos bonaerenses",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Vásquez, Eliana Gricel",
+       "orcid": null
+      },
+      {
+       "nombre": "Rosenbluth, Tamara Carolina",
+       "orcid": null
+      }
+     ],
+     "resumen": "El artículo describe cómo una línea de trabajo iniciada en 2012 como un “Relevamiento de las Situaciones de Conflicto”, que acompañó la implementación de la “Guía de Orientación para la Intervención en Situaciones Conflictivas y de Vulneración de Derechos en el Escenario Escolar”, se transformó, entre 2019 y 2023, en el “Observatorio de Políticas de Convivencia”. Esta iniciativa adquirió gran relevancia para la definición de políticas educativas relacionadas con la intervención en conflictos y la convivencia escolar.SummaryIn 2012, the Ministry of Education of the Province of Buenos Aires, Argentina, launched the “Guía de Orientación para la Intervención en Situaciones Conflictivas y de Vulneración de Derechos en el Escenario Escolar”, together with a survey on these conflicts in the same scenario. In 2019-2023, this process ended with the development of the “Observatorio de Políticas de Convivencia”, which was crucial to define educational policies for conflict management and coexistence at school. This manuscript explores the whole process mentioned above.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "Derechos de autor 2024 Eliana Gricel Vásquez, Tamara Carolina Rosenbluth",
+      "url": null
+     },
+     "url": "https://publicaciones.sociales.uba.ar/index.php/cuestionurbana/article/view/9842",
+     "doi": null,
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "oai:publicaciones.sociales.uba.ar:article/9837",
+     "titulo": "Los productos de la investigación social: hacia una caracterización comprensiva de los resultados de los procesos de producción de conocimiento en ciencias sociales",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Alonso, Mauro",
+       "orcid": null
+      },
+      {
+       "nombre": "Alcántara, Matías",
+       "orcid": null
+      },
+      {
+       "nombre": "García Godoy, Bárbara",
+       "orcid": null
+      }
+     ],
+     "resumen": "Para el análisis de los procesos de producción y uso de conocimiento, el bagaje analítico que ofrece una caracterización de productos resulta particularmente inadecuado: poca literatura problematiza o explora caracterizaciones de productos de la investigación que permita reconocer, medir, categorizar y jerarquizar aquellos orientados al uso -en particular en ciencias sociales-. En este trabajo -partiendo de una primera indagación de base empírica- damos cuenta de algunos de los posibles productos de la investigación social haciendo foco en el proceso reflexivo desplegado por los propios investigadores para llevar adelante la producción de conocimiento intentando echar luz sobre esos procesos y sus características. El trabajo se ordena en tres secciones: en primer lugar, se problematizan la noción de resultados/productos de investigación, una segunda sección recupera los emergentes de la indagación empírica y finalmente la última sección presenta una caracterización de los productos de investigación para luego discutir los desafíos y líneas de investigación a futuro. SummaryFor the analysis of knowledge production and use processes, the analytical background offered by a product characterization is particularly inadequate: little literature problematizes or explores characterizations of research products to recognize, measure, categorize and hierarchize those oriented to use in social sciences.In particular, in this work -starting from an initial empirical inquiry- we give an account of some of the possible products of social research focusing on the reflexive process deployed by the researchers themselves to carry out the production of knowledge trying to shed light on these processes and their characteristics. The paper is organized into three sections: first, the notion of research results/products is discussed, a second section examines the findings of empirical research, and finally, the last section presents a characterization of research products and then discusses the challenges and lines of research for the future.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "Derechos de autor 2024 Mauro Alonso, Matías Alcántara, Bárbara García Godoy",
+      "url": null
+     },
+     "url": "https://publicaciones.sociales.uba.ar/index.php/cuestionurbana/article/view/9837",
+     "doi": null,
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "oai:publicaciones.sociales.uba.ar:article/9832",
+     "titulo": "Políticas sociales y democratización del conocimiento",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Clemente, Adriana",
+       "orcid": null
+      },
+      {
+       "nombre": "Sánchez, Sandra Inés",
+       "orcid": null
+      }
+     ],
+     "resumen": "Este dossier de CU se enfoca en la socialización del conocimiento, con temas de interés para el campo de la investigación y el desarrollo (I+D) tanto en el orden conceptual como metodológico, desarrollado por autores reconocidos por sus aportes concretos en sus campos de investigación y trabajos. Entendemos que la arena de la política pública presenta emergentes que interpelan la labor científica y viceversa, resultando el ejercicio de acciones concretas la clave para institucionalizar un modo de abordar la complejidad de la cuestión social por fuera de las reglas que impone la mercantilización del conocimiento aplicado a la transformación social.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "Derechos de autor 2024 Adriana Clemente, Sandra Inés Sánchez",
+      "url": null
+     },
+     "url": "https://publicaciones.sociales.uba.ar/index.php/cuestionurbana/article/view/9832",
+     "doi": null,
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "oai:publicaciones.sociales.uba.ar:article/9843",
+     "titulo": "Políticas sociales y democratización del conocimiento",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Cuestión Urbana, Revista",
+       "orcid": null
+      }
+     ],
+     "resumen": "Número completo de la revista",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "Derechos de autor 2024 Revista Cuestión Urbana",
+      "url": null
+     },
+     "url": "https://publicaciones.sociales.uba.ar/index.php/cuestionurbana/article/view/9843",
+     "doi": null,
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "oai:publicaciones.sociales.uba.ar:article/9829",
+     "titulo": "RESEÑA DE LIBRO: Los rostros del Estado. De archivos y prácticas de intervención social en la historia Argentina",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Clemente, Adriana",
+       "orcid": null
+      }
+     ],
+     "resumen": "Reseña del libro \"Los rostros del Estado. De archivos y prácticas de intervención social en la historia argentina\" de Nicolás Rivas, publicado en 2023 por Espacio Editorial.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "Derechos de autor 2024 Adriana Clemente",
+      "url": null
+     },
+     "url": "https://publicaciones.sociales.uba.ar/index.php/cuestionurbana/article/view/9829",
+     "doi": null,
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "oai:publicaciones.sociales.uba.ar:article/9840",
+     "titulo": "Tres experiencias de colaboración y transferencia, antes y durante el COVID 19",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Gutman, Margarita",
+       "orcid": null
+      }
+     ],
+     "resumen": "Este artículo presenta una selección de tres colaboraciones desarrolladas en el marco de dos proyectos de investigación UBACYT, ambos en el programa PIUBAMAS. El primer proyecto aborda las tensiones, proyectos e intervenciones para el desarrollo con inclusión socio-espacial en la cuenca Matanza-Riachuelo (2014-2017). El segundo continúa con el enfoque sobre las tensiones y el desarrollo con inclusión socio-espacial, centrándose en las áreas limítrofes entre la Ciudad Autónoma de Buenos Aires y el primer anillo del Conurbano Bonaerense (2021-2022). A partir de estos proyectos, colaboramos con el Ministerio Público de la Defensa de la CABA (2016-2020), el Instituto de Vivienda (IVC) de la Ciudad Autónoma de Buenos Aires y la New School University de Nueva York. Los tres ejemplos presentados aportan conocimientos, procedimientos y enfoques valiosos para el diseño de políticas públicas.SummaryThis article presents a selection of three collaborations developed through two UBACYT research projects, both within the PIUBAMAS programme. The first project focuses on tensions, projects and interventions for socio-spatially inclusive development in the Matanza-Riachuelo basin (2014-2017). The second continues the focus on tensions and socio-spatially inclusive development, focusing on the border areas between the Buenos Aires City and the first ring of the Conurbano Bonaerense (2021-2022). From these projects, we have collaborated with the Ministerio Público de la Defensa of the Buenos Aires City (2016-2020), the Housing Institute (IVC) of the Buenos Aires City and the New School University of New York. The three examples presented provide valuable knowledge, procedures and approaches for the design of public policies.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "Derechos de autor 2024 Margarita Gutman",
+      "url": null
+     },
+     "url": "https://publicaciones.sociales.uba.ar/index.php/cuestionurbana/article/view/9840",
+     "doi": null,
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "oai:publicaciones.sociales.uba.ar:article/9822",
+     "titulo": "“Las ciencias sociales brindan muchas herramientas teóricas y metodológicas para conocer en profundidad a los actores que forman parte de los procesos de movilización del conocimiento, sus lógicas de intervención, sus prácticas, sus modos de organización”",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "García Godoy, Bárbara",
+       "orcid": null
+      }
+     ],
+     "resumen": "María Elina Estébanez es Licenciada en Sociología y Magíster en Política y Gestión de la Ciencia y la Tecnología por la Universidad de Buenos Aires (UBA). Es investigadora y profesora asociada en la Facultad de Ciencias Sociales de la UBA, donde está a cargo de la Cátedra de Sociología de la Ciencia. Además, es Presidenta del Centro Redes, una asociación civil dedicada al análisis de la ciencia, la tecnología y la innovación, así como a la evaluación de las políticas científicas y tecnológicas, asociada al CONICET. También se desempeña como consultora en el Observatorio CTS de la Organización de Estados Iberoamericanos.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "Derechos de autor 2024 Bárbara García Godoy",
+      "url": null
+     },
+     "url": "https://publicaciones.sociales.uba.ar/index.php/cuestionurbana/article/view/9822",
+     "doi": null,
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    }
+   ]
+  }
+ ]
+};

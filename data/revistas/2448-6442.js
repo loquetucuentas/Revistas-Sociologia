@@ -1,7 +1,7 @@
 // Copia de revistas/2448-6442.json para abrir la aplicación sin servidor.
 (window.DATOS_REVISTAS = window.DATOS_REVISTAS || {})["revistas/2448-6442.json"] = {
  "version": 1,
- "generado": "2026-10-18T05:53:59+00:00",
+ "generado": "2026-10-19T04:47:02+00:00",
  "es_prueba": false,
  "revista": {
   "id": "2448-6442",

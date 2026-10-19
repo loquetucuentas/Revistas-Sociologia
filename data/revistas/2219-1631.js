@@ -1,0 +1,294 @@
+// Copia de revistas/2219-1631.json para abrir la aplicación sin servidor.
+(window.DATOS_REVISTAS = window.DATOS_REVISTAS || {})["revistas/2219-1631.json"] = {
+ "version": 1,
+ "generado": "2026-10-19T04:47:02+00:00",
+ "es_prueba": false,
+ "revista": {
+  "id": "2219-1631",
+  "titulo": "Controversias y Concurrencias Latinoamericanas",
+  "idioma_titulo": "es",
+  "titulo_alternativo": null,
+  "idioma_titulo_alternativo": null,
+  "idiomas": [
+   "es"
+  ],
+  "issn_impreso": null,
+  "issn_electronico": "2219-1631",
+  "editorial": "Asociación Latinoamericana de Sociología",
+  "pais": "AR",
+  "materias": [
+   "Sociology (General)",
+   "Social sciences (General)"
+  ],
+  "palabras_clave": [
+   "social sciences",
+   "sociology",
+   "latin america"
+  ],
+  "licencias": [
+   {
+    "nombre": "CC BY 4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+   }
+  ],
+  "url": "https://ojs.sociologia-alas.org/index.php/CyC",
+  "url_doaj": "https://doaj.org/toc/2219-1631",
+  "descripcion": null,
+  "fuente_ficha": "DOAJ",
+  "oai": "https://ojs.sociologia-alas.org/index.php/CyC/oai",
+  "archivo": "revistas/2219-1631.json",
+  "ultimo_numero": "Vol. 15, núm. 26 (2023)",
+  "fuente_numeros": "OAI-PMH"
+ },
+ "numeros": [
+  {
+   "id": "v15-n26-2023",
+   "volumen": "15",
+   "numero": "26",
+   "anio": 2023,
+   "fecha": "2024-02-24",
+   "etiqueta": "Vol. 15, núm. 26 (2023)",
+   "fuente": "OAI-PMH",
+   "articulos": [
+    {
+     "id": "oai:ojs2.localhost:article/1307",
+     "titulo": "Dar la Palabra",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "López Román, Félix",
+       "orcid": null
+      }
+     ],
+     "resumen": "Los relatos de vida no son tan sólo una técnica de investigación que intenta comprender el conjunto de significaciones vividas por los sujetos entrevistados. Los relatos de vida son también una técnica-política de dar la palabra a aquellos/as que, a pesar de ser forjadores de nuestra historia, quedan excluidos de las voces que monopolizan los medios de representación del mundo social. En este texto hacemos un planteamiento sobre algunos de los fundamentos epistemológicos de los relatos de vida y consignamos, a partir de nuestras experiencias, el valor y la vigencia política de esta técnica en medio de prácticas neoliberales que fomentan la apatía y el individualismo. Los relatos de vida se nos presentan como una forma de gestar la empatía y un proyecto común en nuestro contexto latinoamericano y caribeño.",
+     "idioma_resumen": "es",
+     "licencia": null,
+     "url": "https://ojs.sociologia-alas.org/index.php/CyC/article/view/1307",
+     "doi": null,
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "oai:ojs2.localhost:article/1306",
+     "titulo": "Editorial",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "y Concurrencias Latinoamericanas, Controversias",
+       "orcid": null
+      }
+     ],
+     "resumen": null,
+     "idioma_resumen": null,
+     "licencia": null,
+     "url": "https://ojs.sociologia-alas.org/index.php/CyC/article/view/1306",
+     "doi": null,
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "oai:ojs2.localhost:article/1308",
+     "titulo": "El discurso político parlamentario de la coalición “Juntos Haremos Historia”",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Ferreira, Onil Azahares",
+       "orcid": null
+      },
+      {
+       "nombre": "González, Karen Ramírez",
+       "orcid": null
+      }
+     ],
+     "resumen": "Desde la perspectiva del Análisis Crítico del Discurso se analizan las estrategias de legitimación discursivas empleadas por los diputados de la coalición “Juntos Haremos Historia”, durante el debate parlamentario para la aprobación del Instituto para Devolverle al Pueblo lo Robado, en la fase del diseño institucional denominada “toma de decisiones”. Se estudiaron los discursos de 10 diputados partiendo de los principales conceptos que posicionaron en el debate como estrategias legitimadoras destinadas a la aprobación del INDEP. A partir del análisis del discurso, los resultados obtenidos muestran el empleo con mayor frecuencia de recursos lingüísticos de legitimación pertenecientes al sentido figurado del lenguaje, tales como la metonimia, la personificación, la perífrasis, la hipérbole, la diferenciación, la generalización y la interrupción. Se concluye que la dominación discursiva, en el caso que se estudia, se ejerció por medio de la conexión que generó el discurso político con modelos mentales que existen y existían en la sociedad mexicana respecto a eventos específicos. Pero también, porque se persuadió a los destinatarios para que las personas formaran parte de determinadas representaciones sociales preferidas por las élites del poder.",
+     "idioma_resumen": "es",
+     "licencia": null,
+     "url": "https://ojs.sociologia-alas.org/index.php/CyC/article/view/1308",
+     "doi": null,
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "oai:ojs2.localhost:article/1309",
+     "titulo": "Gestión de las relaciones públicas ante la crisis sanitaria Sars-cov-2 en una delegación de la Cámara Mexicana de la industria de la construcción",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Santos Mejía, José Roberto",
+       "orcid": null
+      },
+      {
+       "nombre": "Vital, Edwin Zacaria",
+       "orcid": null
+      },
+      {
+       "nombre": "Latabán Campos, Anabela",
+       "orcid": null
+      }
+     ],
+     "resumen": "El objetivo de la presente investigación fue Evaluar la gestión de las relaciones públicas de una delegación de la Cámara Mexicana de la Industria de la Construcción (CMIC) durante la crisis sanitaria por SARS-CoV-2, para proponer un Manual de comunicación de crisis de dicha organización. El estudio se realizó desde una perspectiva cualitativa, interpretativa y documental, mediante el método de estudio de caso y las técnicas de entrevistas semiestructuradas, observación participante, investigación documental y análisis de contenido de las redes sociales de la organización. Los resultados ponen de manifiesto que, si bien existe conciencia sobre la necesidad de gestionar la comunicación de crisis en la delegación estudiada, los medios sociales digitales no se utilizan de manera estratégica y no existe un manual de comunicación que permita prevenir las crisis y afrontarlas de manera planificada y estratégica. Por lo que se concluye que es necesario gestionar de manera eficaz la comunicación en situaciones de incertidumbre, para lo cual se diseña un Manual de Comunicación de Crisis.",
+     "idioma_resumen": "es",
+     "licencia": null,
+     "url": "https://ojs.sociologia-alas.org/index.php/CyC/article/view/1309",
+     "doi": null,
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "oai:ojs2.localhost:article/1314",
+     "titulo": "Instagram y You Tube como recursos de aprendizaje en línea en la educación superior",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Pedreschi, Blanca",
+       "orcid": null
+      }
+     ],
+     "resumen": "En la actualidad, el uso de las tecnologías de la información y la comunicación (TIC`s) en la educación superior es esencial. Instagram y YouTube se consideran valiosos recursos para el aprendizaje en línea, ofreciendo contenido educativo, interacción social y flexibilidad. Por lo cual, para ahondar en este Artículo de Revisión se utilizó un diseño cualitativo, específicamente en un estudio de revisión documental. El objetivo del artículo fue analizar el uso de Instagram y YouTube como recursos de aprendizaje en línea en la educación universitaria. Se abordaron beneficios, desafíos y mejores prácticas. La metodología fue la investigación blibliográfica, mediante una revisión exhaustiva de la literatura disponible. Se concluye que Instagram y YouTube pueden complementar el aprendizaje en línea en la educación universitaria, pero su uso efectivo requiere de pautas claras, orientación y apoyo adecuados.",
+     "idioma_resumen": "es",
+     "licencia": null,
+     "url": "https://ojs.sociologia-alas.org/index.php/CyC/article/view/1314",
+     "doi": null,
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "oai:ojs2.localhost:article/1313",
+     "titulo": "La enseñanza en la educación superior ante la industria 4.0",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "López Gutiérrez, Luis Ramón",
+       "orcid": null
+      },
+      {
+       "nombre": "Holguín García, Margarita Josefina",
+       "orcid": null
+      }
+     ],
+     "resumen": "El propósito de este artículo es analizar cómo los talentos demandados por la Industria 4.0 se incluyen en el modelo curricular de la Universidad Autónoma del Estado de México, en la Facultad de Economía, para determinar si están dotando a sus estudiantes de los talentos demandados por la Industria 4.0, en tres de sus programas educativos de licenciatura. Para ello, se partió del análisis del modelo curricular a partir de 2002, con la intención de identificar los talentos que el propio modelo propuso desarrollar en los estudiantes. Posteriormente, se analizó la estructura y contenidos de los programas de las licenciaturas en Actuaría, Economía, y Relaciones Económicas Internacionales, acreditados y reestructurados en 2021. Una vez realizado este análisis, se identificaron los talentos requeridos por la Industria 4.0, y se contrastaron con los señalados en los programas y planes de estudio mencionados. Los resultados evidenciaron que el Modelo de 2002 no se implementó de forma homogénea, ni se especificaron en éste las competencias a desarrollar en sus egresados, sucediendo lo mismo con los saberes y valores. De igual manera, los programas de asignatura no fueron diseñados con el énfasis para centrar el proceso de aprendizaje en el alumno. Así, se concluye —entre otras— que el modelo educativo por competencias en sí mismo, se ajusta perfectamente a los requerimientos de una educación 4.0, siempre y cuando se diseñe y se instrumente cuidando el cumplimiento de sus principios característicos.",
+     "idioma_resumen": "es",
+     "licencia": null,
+     "url": "https://ojs.sociologia-alas.org/index.php/CyC/article/view/1313",
+     "doi": null,
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "oai:ojs2.localhost:article/1316",
+     "titulo": "La revolución del arcoíris y su escala de grises: Movimiento indígena en Ecuador/ Stalin Herrera/ 2022",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Macaroff, Anahí",
+       "orcid": null
+      }
+     ],
+     "resumen": "El libro es parte de una colección publicada por CLACSO, que tiene como objeto crear materiales de divulgación / reflexión sobre los movimientos sociales, las disputas plebeyas, los estallidos, sus dinámicas y sus contextos en América Latina, “En Movimiento”. Con lo cual, el autor presenta un documento que describe el proceso de emergencia, ascenso y crisis del movimiento indígena en el Ecuador, sus efectos en la sociedad y sus límites políticos.",
+     "idioma_resumen": "es",
+     "licencia": null,
+     "url": "https://ojs.sociologia-alas.org/index.php/CyC/article/view/1316",
+     "doi": null,
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "oai:ojs2.localhost:article/1311",
+     "titulo": "Mario Benedetti",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "González Pérez, Cristina",
+       "orcid": null
+      },
+      {
+       "nombre": "Reyes Toxqui, Álvaro",
+       "orcid": null
+      },
+      {
+       "nombre": "Reyes Toxqui, Álvaro",
+       "orcid": null
+      }
+     ],
+     "resumen": "Una de las preocupaciones del feminismo y los estudios de género se relaciona con la subordinación de las mujeres como objetos de placer, basado en discursos y praxis que giran alrededor del concepto de amor. Esta relación compleja ha sido advertida, analizada y denunciada por Marcela Lagarde, Simone de Beauvoir, Kate Miller y Gerda Lerner, entre otras. El análisis de todas estas disertaciones sirve como herramientas para hacer crítica en torno a la posición de las mujeres frente al constructo social referido. El objetivo del trabajo fue analizar críticamente el problema de los estereotipos del amor romántico, las condiciones ideológicas que los producen y la posibilidad de su trascendencia. Se fundamenta la tesis de que Benedetti, en La Tegua (1960) escribió sobre un amor “imposible” y clandestino que rompió con los roles, estereotipos e ideologías de una época que apenas despertaba a la posibilidad crítica de reinventar las subjetividades amorosas basadas en las libertades sexuales, el feminismo, el rock y las drogas. En la trama de la novela, Benedetti explora la relación entre Martín Santomé de casi 50 años y Laura Avellaneda de 24, quienes, pese a la distancia generacional, logran encontrarse humanos, vulnerables, sujetos del deseo del otro. La trama pensada de Benedetti, imprime en quien lo lee, una forma distinta de ver, crear y vivir el amor. Se concluye desde el examen del autor que el amor es disruptivo, romper con estereotipos -victornianos o románticos-, por lo que debe tratarse de entender que, tanto el cuerpo como sus impulsos son voliciones libertarias y no dispositivos de dominación.",
+     "idioma_resumen": "es",
+     "licencia": null,
+     "url": "https://ojs.sociologia-alas.org/index.php/CyC/article/view/1311",
+     "doi": null,
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "oai:ojs2.localhost:article/1310",
+     "titulo": "Relación entre el perfil ético del relacionista público y los valores morales requeridos por las organizaciones de Arequipa, Perú",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Chirinos García, Carmen",
+       "orcid": null
+      },
+      {
+       "nombre": "Palmero Gómez, Neysi",
+       "orcid": null
+      }
+     ],
+     "resumen": "El objetivo del presente artículo fue Determinar la relación entre el perfil ético del profesional de relaciones públicas y los valores morales requeridos por las organizaciones de Arequipa, Perú. Se utilizó una metodología cuantitativa, con diseño no experimental y la técnica del cuestionario. El objetivo del presente artículo fue Determinar la relación entre el perfil ético del profesional de relaciones públicas y los valores morales requeridos por las organizaciones de Arequipa, Perú. Se utilizó una metodología cuantitativa, con diseño no experimental y la técnica del cuestionario. Se indagó el perfil ético exigido por las organizaciones públicas, privadas y no gubernamentales, así como por los profesionales de las Relaciones Públicas, en el total de 60 organizaciones y 100 profesionales de las Relacionistas Públicas, colegiados hábiles en la ciudad de Arequipa. Los resultados pusieron de manifiesto que el perfil ético del profesional de relaciones públicas se relaciona con los valores morales requeridos por las organizaciones. Sin embargo, dicho perfil ético se encuentra a un nivel medio para el 57.5% de los profesionales encuestados, mientras que un 30.6% tiene un elevado perfil ético en el ejercicio de sus funciones y un 11.9% un nivel bajo de desarrollo profesional ético en su labor de relacionista público. Se concluye enfatizando la necesidad de realizar investigaciones que puedan dar cuenta del modelo ético requerido en la actualidad de los relacionistas públicos, de acuerdo a los valores morales formados que ya poseen, para que se pueda analizar, fortalecer y modificar, si es necesario, a fin de que el propósito de esta profesión se logre con la actuación ética de estos profesionales.",
+     "idioma_resumen": "es",
+     "licencia": null,
+     "url": "https://ojs.sociologia-alas.org/index.php/CyC/article/view/1310",
+     "doi": null,
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "oai:ojs2.localhost:article/1315",
+     "titulo": "Repercusión de la modalidad educativa en línea en el rendimiento escolar de los estudiantes",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Montes Reyes, Tayde Icela",
+       "orcid": null
+      },
+      {
+       "nombre": "Corro Rogel, Carlos Alberto",
+       "orcid": null
+      },
+      {
+       "nombre": "Juárez Toledo, Rafael",
+       "orcid": null
+      },
+      {
+       "nombre": "López Vargas, Fabiola",
+       "orcid": null
+      }
+     ],
+     "resumen": "El objetivo del presente estudio fue identificar las repercusiones de la modalidad educativa en línea en el desempeño escolar de los estudiantes del bachillerato del plantel “Lic. Adolfo López Mateos” de la escuela preparatoria de la Universidad Autónoma del Estado de México (UAEMÉX), desde una perspectiva comparativa entre los años previos, durante y posteriores al confinamiento. El análisis del desempeño escolar se basó en la comparación de indicadores de calidad proporcionados por la UAEMÉX entre los años 2016 y 2023 y consideró la influencia de diversos factores en el rendimiento de los estudiantes. Los resultados pusieron de manifiesto que no existió afectación grave en los indicadores de calidad debido al confinamiento; con excepción del indicador de promoción, en el que hubo un incremento de estudiantes que no pudieron continuar con sus estudios de manera continua; aspecto superado para el ciclo 2022-2023. Se concluye que las medidas adoptadas por las autoridades universitarias fueron benéficas, los esfuerzos del profesorado por no perder la continuidad de la enseñanza también fue un factor relevante, así como el elevado nivel de compromiso por parte de los estudiantes. Por tanto, no se percibe que el confinamiento haya perjudicado los niveles de aprovechamiento académico.",
+     "idioma_resumen": "es",
+     "licencia": null,
+     "url": "https://ojs.sociologia-alas.org/index.php/CyC/article/view/1315",
+     "doi": null,
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "oai:ojs2.localhost:article/1312",
+     "titulo": "Textualidad en el diseño gráfico",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "González Guinea, Mara",
+       "orcid": null
+      }
+     ],
+     "resumen": "El presente trabajo tuvo como objetivo: identificar la noción de textualidad desde la lingüística textual en el diseño gráfico, con especial atención en el texto icónico-verbal estático; para ello primero se define la textualidad, en seguida se caracteriza esta noción en los textos icónico-verbales estáticos y, después se aplica la textualidad en un texto icónico-verbal. Se concluye que, si bien es cierto que el diseño gráfico es una forma de comunicación, independientemente de la relación que guarda con el código verbal y el código visual, en la que deconstruye este par de códigos en su propio código, incorporar la textualidad reforzaría el proceso de composición del diseñador gráfico, en dos sentidos, en la producción de diseño gráfico y en la producción escrita.",
+     "idioma_resumen": "es",
+     "licencia": null,
+     "url": "https://ojs.sociologia-alas.org/index.php/CyC/article/view/1312",
+     "doi": null,
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    }
+   ]
+  }
+ ]
+};

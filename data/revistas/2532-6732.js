@@ -1,0 +1,716 @@
+// Copia de revistas/2532-6732.json para abrir la aplicación sin servidor.
+(window.DATOS_REVISTAS = window.DATOS_REVISTAS || {})["revistas/2532-6732.json"] = {
+ "version": 1,
+ "generado": "2026-10-19T04:47:02+00:00",
+ "es_prueba": false,
+ "revista": {
+  "id": "2532-6732",
+  "titulo": "Funes",
+  "idioma_titulo": null,
+  "titulo_alternativo": "Journal of Narratives and Social Sciences",
+  "idioma_titulo_alternativo": "en",
+  "idiomas": [
+   "es",
+   "it",
+   "fr",
+   "en"
+  ],
+  "issn_impreso": null,
+  "issn_electronico": "2532-6732",
+  "editorial": "Università di Napoli Federico II",
+  "pais": "IT",
+  "materias": [
+   "Ethnology. Social and cultural anthropology",
+   "Communication. Mass media",
+   "Literature (General)",
+   "Sociology (General)",
+   "Social sciences (General)"
+  ],
+  "palabras_clave": [
+   "narratives",
+   "sociology",
+   "media",
+   "cultural studies",
+   "anthropology",
+   "social sciences"
+  ],
+  "licencias": [
+   {
+    "nombre": "CC BY 4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+   }
+  ],
+  "url": "https://serena.sharepress.it/index.php/funes/about",
+  "url_doaj": "https://doaj.org/toc/2532-6732",
+  "descripcion": null,
+  "fuente_ficha": "DOAJ",
+  "oai": "https://serena.sharepress.it/index.php/funes/oai",
+  "archivo": "revistas/2532-6732.json",
+  "ultimo_numero": "Vol. 9 (2026)",
+  "fuente_numeros": "OAI-PMH"
+ },
+ "numeros": [
+  {
+   "id": "v9-2026",
+   "volumen": "9",
+   "numero": null,
+   "anio": 2026,
+   "fecha": "2026-06-29",
+   "etiqueta": "Vol. 9 (2026)",
+   "fuente": "OAI-PMH",
+   "articulos": [
+    {
+     "id": "10.6093/2532-6732/13744",
+     "titulo": "Folla, solitudine e narcisismo: frammenti e rappresentazioni della metropoli moderna in The Crowd, Wall Street e L'eclisse",
+     "idioma_titulo": "it",
+     "autores": [
+      {
+       "nombre": "Ivan Cirianni",
+       "orcid": null
+      }
+     ],
+     "resumen": "In a theoretical framework that draws from Simmel, Benjamin, Sennett, and Illouz, this article explores the intricate link between loneliness and narcissism in the Western metropolis of the twentieth century. Three key films are analyzed: The Crowd (1928), Wall Street (1987), and L’Eclisse (1962). These representations capture the paradox of modern existence: on the one hand, a drive toward the narcissistic exaltation of the individual; on the other, an increasing sense of isolation. This detrimental dynamic between inclusion and exclusion deeply questions the pursuit of “success” and the emotional life of the individual within an accelerated society.",
+     "idioma_resumen": "it",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-nd/4.0"
+     },
+     "url": "https://serena.sharepress.it/funes/article/view/13744",
+     "doi": "10.6093/2532-6732/13744",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.6093/2532-6732/13749",
+     "titulo": "Humanism",
+     "idioma_titulo": "it",
+     "autores": [
+      {
+       "nombre": "Hans U. Gumbrecht",
+       "orcid": null
+      }
+     ],
+     "resumen": null,
+     "idioma_resumen": null,
+     "licencia": {
+      "nombre": "CC BY-NC-ND 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-nd/4.0"
+     },
+     "url": "https://serena.sharepress.it/funes/article/view/13749",
+     "doi": "10.6093/2532-6732/13749",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.6093/2532-6732/13742",
+     "titulo": "Il mondo rivela se stesso. Un’analisi fenomenologica del cinema di David Lynch",
+     "idioma_titulo": "it",
+     "autores": [
+      {
+       "nombre": "Valentina Leanza",
+       "orcid": null
+      }
+     ],
+     "resumen": "Through the stylistic framework of David Lynch’s cinema, which subordinates objective comprehension in favor of the spectator’s experiential engagement, it becomes possible to draw a phenomenological parallel with Maurice Merleau-Ponty’s philosophy, particularly as articulated in his 1945 work Phenomenology of Perception. If Merleau-Ponty’s vision grounds the world in the axiom of indeterminacy, then the oeuvre of the American filmmaker may be interpreted as an extensive attempt to destabilize and interrogate the dualisms that separate subject from object, interior from exterior, space from time, and the visible from the invisible. Narrative, in this context, can be understood as a phenomenic field—nonlinear and non-orientable—that interlaces the plane of the real with that of the imaginary through liminal passages where expressive value prevails over logical coherence. By overturning the transmitter–receiver relationship, Lynch presents illusions that reveal the limits of sensory interpretation, inviting us to follow him into the domain of perception.",
+     "idioma_resumen": "it",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-nd/4.0"
+     },
+     "url": "https://serena.sharepress.it/funes/article/view/13742",
+     "doi": "10.6093/2532-6732/13742",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.6093/2532-6732/13740",
+     "titulo": "Introduzione",
+     "idioma_titulo": "it",
+     "autores": [
+      {
+       "nombre": "Antonio Rafele",
+       "orcid": null
+      }
+     ],
+     "resumen": "Questo numero raccoglie una serie di contributi sul cinema e sulla letteratura moderna. Viaggio, specchio, sogno, soglia e identità, sono i lemmi di una ricerca sull’immaginario, colto nell’attimo in cui le figure che lo scavano e stratificano sono ancora informi. Nella tensione che si instaura tra origine (invisibile, sensoriale) e codice ultimo (trasparenza, materia, cliché), queste figure rivelano una natura storica e sociale più profonda, che eccede e sovrasta la loro mera riproduzione o diffusione in quanto generi, codici. Le analisi uniscono teoria sociale (Simmel 1984; Sennett 2006; Schivelbusch 2019), fenomenologia della percezione ed ermeneutica delle immagini (Didi-Huberman 2016). Le analisi sono sempre condotte su due livelli tra essi contigui e complementari: uno interno al tessuto dell’opera, nella messa in rilievo delle sequenze e dei passaggi che uniscono il racconto alla memoria dello spettatore; l’altro esterno al dominio esclusivo del testo, nel tentativo di usare l’opera come filtro verso i tratti reconditi e costitutivi dell’esperienza, del sentire comune.",
+     "idioma_resumen": "it",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-nd/4.0"
+     },
+     "url": "https://serena.sharepress.it/funes/article/view/13740",
+     "doi": "10.6093/2532-6732/13740",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.6093/2532-6732/13741",
+     "titulo": "La vita già sempre dirottata: saggio su Le armonie di Werckmeister di Béla Tarr",
+     "idioma_titulo": "it",
+     "autores": [
+      {
+       "nombre": "Amedeo Giulio Proietti Bocchini",
+       "orcid": null
+      }
+     ],
+     "resumen": "Werckmeister Harmonies (2000) by Béla Tarr weaves a bleak allegory of political and cosmic disintegration through the arrival of a mysterious circus in a desolate village. Anchored in the mythic tension between order and chaos, the film explores the decay of collective ethics and the seductive power of authoritarianism. A dead whale and the elusive “Prince” spark mass unrest, culminating in irrational violence and state repression. In this context, Jànos, the kind and utopian postman, and his friend Eszter, a disillusioned musicologist, express their criticism of a modernity that is increasingly distant from the original natural harmony. Drawing from Benjamin’s ideas on violence and law, the film portrays revolution not as redemption but as the recurring failure of human agency, mirroring contemporary populist regimes. All that remains is a metaphor for the collapse of the political imagination, where hope is eclipsed and history repeats itself on the ruins of its own disappointments.",
+     "idioma_resumen": "it",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-nd/4.0"
+     },
+     "url": "https://serena.sharepress.it/funes/article/view/13741",
+     "doi": "10.6093/2532-6732/13741",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.6093/2532-6732/13745",
+     "titulo": "Lo sguardo come identità e percezione. Indagine sulle implicazioni sociali e psicologiche dello sguardo in Film di Schneider, sceneggiato da Beckett, e ne L’inquilino del terzo piano di Polanski",
+     "idioma_titulo": "it",
+     "autores": [
+      {
+       "nombre": "Sofia Durante",
+       "orcid": null
+      }
+     ],
+     "resumen": "This essay aims to explore the social implications of the gaze as a tool of observation, as it evolves into an internalised and inextricable yardstick of judgement. The article unfolds through the analysis of two cinematic works from the twentieth century: Alan Schneider's Film (1965), written by Samuel Beckett, and The Tenant (1976), directed by Roman Polanski. These two films prove useful for this case study because, despite being highly divergent in terms of style and cinematic language, and notably with regard to their outcomes, they are rich in elements and analytical insights that share remarkable similarities in their primary concern. While in the first film the gaze presents itself as a constant and pervasive presence from which the protagonist cannot flee, in the second it unfolds through a catabatic crescendo, becoming an ever-tightening chain around the neck of a man who endures its devastating effects without even noticing, ultimately absorbing them and being drawn into the abyss. In both cases, however, the eye operates as a haunting specter, inescapable and parasitic, creeping into every corner of the human mind and thereby shaping the psyche, perceptions, behaviours, and everyday life.",
+     "idioma_resumen": "it",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-nd/4.0"
+     },
+     "url": "https://serena.sharepress.it/funes/article/view/13745",
+     "doi": "10.6093/2532-6732/13745",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.6093/2532-6732/13747",
+     "titulo": "Ripensare il visibile: un'indagine filosofica tra Benjamin, Merleau-Ponty e Didi-Huberman",
+     "idioma_titulo": "it",
+     "autores": [
+      {
+       "nombre": "Matilde Gucciardi",
+       "orcid": null
+      }
+     ],
+     "resumen": "Vision cannot be reduced to a neutral optical process of registering external stimuli; rather, it constitutes a complex experience involving the body, temporality, and our relationship with the world. This article examines how three central figures in contemporary thought—Walter Benjamin, Maurice Merleau-Ponty, and Georges Didi-Huberman—developed a convergent conception of visual perception, despite operating in different fields and employing distinct vocabularies. By conceiving perception as a relational, embodied, and temporal experience, these thinkers challenge traditional optical models. A comparative analysis of their positions, centered on three figurative nuclei—“breathing the aura” in Benjamin, “breathing into Being” in Merleau-Ponty, and “closing one’s eyes” in Didi-Huberman—reveals a common phenomenological horizon: vision transcends mere objective recording to become a form of active engagement, in which the visible reveals both temporal stratification and an embodied dimension.",
+     "idioma_resumen": "it",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-nd/4.0"
+     },
+     "url": "https://serena.sharepress.it/funes/article/view/13747",
+     "doi": "10.6093/2532-6732/13747",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.6093/2532-6732/13746",
+     "titulo": "Terrore ed eccitazione. I media come pelle del mondo",
+     "idioma_titulo": "it",
+     "autores": [
+      {
+       "nombre": "Tito Vagni",
+       "orcid": null
+      }
+     ],
+     "resumen": "The essay examines the production of parallel worlds within late-modern culture as a response to the uncertainties of human existence. Through J. G. Ballard’s Kingdom Come, Peter Weir’s The Truman Show, and the Wachowskis’ The Matrix, it investigates how cultural industries articulate imaginaries that oscillate between protection and estrangement, normalization and rupture. Consumerist enclaves, televisual dispositifs, and digital matrices emerge as emblematic devices through which late capitalism organizes experience, neutralizes risk, and reconfigures subjectivity. At the same time, these narratives expose the fragility of such constructs, revealing how violence, doubt, and resistance resurface as forces of disillusionment and liberation. By engaging with theoretical perspectives from Žižek, Benjamin, Hobbes, and Esposito, the analysis suggests that the creation of illusory worlds is not a secondary cultural by-product but a structural necessity: a way of negotiating fear and finitude, and of giving form to the ambivalent relation between media, society, and the conditions of human life",
+     "idioma_resumen": "it",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-nd/4.0"
+     },
+     "url": "https://serena.sharepress.it/funes/article/view/13746",
+     "doi": "10.6093/2532-6732/13746",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.6093/2532-6732/13748",
+     "titulo": "Un paese permeato e sistemato dall’opera dell’uomo definitivamente, quale la Toscana… Del viaggio e del saggio in Mario Praz",
+     "idioma_titulo": "it",
+     "autores": [
+      {
+       "nombre": "Paola Colaiacomo",
+       "orcid": null
+      }
+     ],
+     "resumen": "Can a six weeks tour in 1926 Spain result in the debunking of the centuries-old myth of Spain as the land of torrid passions, lived against a background of blood, sexual pleasure and death? When a young Italian professor - at the time living and working in England - visits Spain, the scene under his eyes is far different to what might be gathered from books or operas : no Carmens are to be seen dancing in the tourist-packed plazas. And whatever of the old traditions is left, must be retrieved from the radios and gramophones whose mechanical voices night and day fill the air with their monotonous chant; with their stale, edulcorated versions of worn out clichés. Undaunted by this scenario, the young Italian professor reads in it the signs of an advancing new modernity, based on the values of monotony and repetition. A genealogical affinity emerges between the type of the 20th century tourist, and the atemporal figure of the femme fatale. The bulimia of the tourist who wants to see all is the shadow of the femme fatale’s anxiety to extract sexual pleasure from all physical contacts, even the most painful. Back home, the young Italian professor will start writing his most famous book: La carne, la morte e il diavolo nella letteratura romantica (The Romantic Agony).",
+     "idioma_resumen": "it",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-nd/4.0"
+     },
+     "url": "https://serena.sharepress.it/funes/article/view/13748",
+     "doi": "10.6093/2532-6732/13748",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.6093/2532-6732/13743",
+     "titulo": "Una storia da raccontare. Scienza e Natura in Moby Dick di Melville",
+     "idioma_titulo": "it",
+     "autores": [
+      {
+       "nombre": "Antonio Rafele",
+       "orcid": null
+      }
+     ],
+     "resumen": "Through a close examination of several pivotal passages from Moby-Dick by Herman Melville, this paper reconstructs the figures of modern theatre, captured in their obsessive quest for intensity, movement in opposition to stasis, and the escape from emptiness—a form of blindness that inevitably leads to destruction. The interplay of illusions, distortions of vision and perception, new cosmogonies, and religious fervour constitutes the essence of a performance aimed at severing ties with the ancient world, set in a vortex that reshapes, with profound force, the relationship between science and nature.",
+     "idioma_resumen": "it",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-nd/4.0"
+     },
+     "url": "https://serena.sharepress.it/funes/article/view/13743",
+     "doi": "10.6093/2532-6732/13743",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.6093/2532-6732/13750",
+     "titulo": "“Calcio di poesia”: La narrazione della stampa italiana sulla nazionale brasiliana maschile di calcio nella Coppa del Mondo del 1982",
+     "idioma_titulo": "it",
+     "autores": [
+      {
+       "nombre": "Ronaldo Helal",
+       "orcid": null
+      }
+     ],
+     "resumen": "The article presents the initial results of a senior research internship carried out between May and July 2024 at the University of Naples Federico II. The research, based on the analysis of journalistic material collected at the Tucci Newspaper Library in Naples, focuses on Italian press coverage of the Brazilian men’s national football team in the 1938, 1970, 1978, 1982 and 1994 World Cups. This article focuses primarily on the 1982 World Cup, drawing inspiration from Pier Paolo Pasolini’s famous 1971 article, Il calcio è un linguaggio con i suoi poeti e prosatori, in which Brazilian football is described as “poetry football”. An analysis of the daily newspapers Corriere della Sera and La Gazzetta dello Sport reveals that the Brazilian team is portrayed with a focus on technical and tactical aspects rather than cultural or ethnocentric stereotypes. Although references to “poetry football” and images such as “powerful dancers” sometimes emerge, these elements are not dominant.",
+     "idioma_resumen": "it",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-nd/4.0"
+     },
+     "url": "https://serena.sharepress.it/funes/article/view/13750",
+     "doi": "10.6093/2532-6732/13750",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    }
+   ]
+  },
+  {
+   "id": "v8-2025",
+   "volumen": "8",
+   "numero": null,
+   "anio": 2025,
+   "fecha": "2026-01-02",
+   "etiqueta": "Vol. 8 (2025)",
+   "fuente": "OAI-PMH",
+   "articulos": [
+    {
+     "id": "10.6093/2532-6732/12790",
+     "titulo": "Disentangling the China Metaverse",
+     "idioma_titulo": "it",
+     "autores": [
+      {
+       "nombre": "Deqiang, Ji",
+       "orcid": null
+      },
+      {
+       "nombre": "Xuefang, Xie",
+       "orcid": null
+      },
+      {
+       "nombre": "Hailong, Liu",
+       "orcid": null
+      }
+     ],
+     "resumen": "This insight section originates from a two-day workshop organized at the Università Federico II of Naples involving three scholars with expertise in the construction of the Chinese Metaverse. The following Q&As aim to trace continuities and changes in the perspectives of Chinese scholars from different backgrounds (ranging from cultural studies to philosophy of communication and political economy) regarding the emergence of MR and metaversal technologies in the People's Republic of China, also emphasizing the different trajectories that the metaverse is following, not only at a technological level, but also from a historical, economic, and cultural perspective.",
+     "idioma_resumen": "it",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-nd/4.0"
+     },
+     "url": "https://serena.sharepress.it/funes/article/view/12790",
+     "doi": "10.6093/2532-6732/12790",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.6093/2532-6732/12788",
+     "titulo": "From Technological Utopia to a New Carrier of Civilization：Discourse Generation and Cultural Practice of Chinese-style Cultural Metaverse in the Global Context",
+     "idioma_titulo": "it",
+     "autores": [
+      {
+       "nombre": "Dongjiao, Jia",
+       "orcid": null
+      }
+     ],
+     "resumen": "In the global wave of digitalization, the metaverse has shifted from a speculative concept toward a concrete arena for cultural, technological, and social experimentation. While much scholarship focuses on Western, technology-driven models, this paper examines the emerging paradigm of a Chinese-style cultural metaverse, in which digital tools are applied to preserve heritage, reframe cultural narratives, and foster international dialogue. Drawing on an interdisciplinary framework that combines cultural semiotics, the sociology of technology, and policy analysis, the study analyzes three representative case studies—the Dunhuang murals, Digital Central Axis in Beijing, and the Black Myth: Wukong game project. Through these examples, the paper argues that the Chinese cultural metaverse illustrates both opportunities and limitations in integrating cultural continuity with digital innovation. By situating these practices within global debates on the metaverse, the paper contributes a non-Western perspective to ongoing discussions about how digital environments can function not only as sites of technological experimentation but also as carriers of cultural and civilizational values.",
+     "idioma_resumen": "it",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-nd/4.0"
+     },
+     "url": "https://serena.sharepress.it/funes/article/view/12788",
+     "doi": "10.6093/2532-6732/12788",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.6093/2532-6732/12789",
+     "titulo": "Making Worlds, Worlding Metaverses A Comparative Study of Metaverse Developers and Users in Italy",
+     "idioma_titulo": "it",
+     "autores": [
+      {
+       "nombre": "Iapaolo, Fabio",
+       "orcid": null
+      },
+      {
+       "nombre": "Pingitore, Marcus",
+       "orcid": null
+      }
+     ],
+     "resumen": "This article examines how the metaverse is locally enacted and imagined in Italy, offering a situated perspective that moves beyond dominant corporate framings. While existing research has documented how platform power around the metaverse is consolidated by firms such as Meta, Apple, and Nvidia, far less attention has been paid to actors, practices, and contexts that remain largely off the map of both global metaverse narratives and the critiques directed at them. Drawing on ethnographic fieldwork that combines in-person and in-metaverse research with Italian developers and user communities, the study explores how the metaverse is defined, practised, and made meaningful within Italy’s mid-level innovation economy. Through the notion of worlding, we trace how global metaverse narratives are appropriated, modified, or unevenly engaged with in practice, giving rise to a plurality of actually existing metaverses shaped by divergent temporalities, value regimes, and infrastructural dependencies. In doing so, the article contributes to decentring dominant imaginaries of digital futures by showing how the metaverse takes form through situated negotiations within – rather than outside of – global platform power.",
+     "idioma_resumen": "it",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-nd/4.0"
+     },
+     "url": "https://serena.sharepress.it/funes/article/view/12789",
+     "doi": "10.6093/2532-6732/12789",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.6093/2532-6732/12785",
+     "titulo": "One, none, a hundred thousand metaverses",
+     "idioma_titulo": "it",
+     "autores": [
+      {
+       "nombre": "Bory, Paolo",
+       "orcid": null
+      },
+      {
+       "nombre": "Negro, Gianluigi",
+       "orcid": null
+      }
+     ],
+     "resumen": "The announcement of the metaverse is quite a unique case in digital media history. Unlike previous product launches, the metaverse was introduced not as a stabilized medium or platform but as a promissory assemblage: a future socio-technical system made of interoperable “worlds” and grounded in new and more exciting interactions during working and leisure activities. This issue of Funes illustrates the contested imaginaries of the metaverse, oscillating between Zuckerberg's utopia (or dystopia) and a complete failure, which confirms the need for a symmetrical and more nuanced approach in analysing such phenomena. The metaverse imaginaries are already contributing to the present and future of MR and will likely give rise to unexpected practices and new forms of “worldings”, yet to be discovered, but not to be left unexplored in the making.",
+     "idioma_resumen": "it",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-nd/4.0"
+     },
+     "url": "https://serena.sharepress.it/funes/article/view/12785",
+     "doi": "10.6093/2532-6732/12785",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.6093/2532-6732/12791",
+     "titulo": "Recensione del volume: Luca Di Majo e Gino Frezza, Il Metaverso. Profili strutturali, socio-mediologici, economici e giuridici, Mimesis, Udine, 2025",
+     "idioma_titulo": "it",
+     "autores": [
+      {
+       "nombre": "D'Ambrosio, Francesco",
+       "orcid": null
+      }
+     ],
+     "resumen": "Recensione del volume: Luca Di Majo e Gino Frezza, Il Metaverso. Profili strutturali, socio-mediologici, economici e giuridici, Mimesis, Udine, 2025",
+     "idioma_resumen": "it",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-nd/4.0"
+     },
+     "url": "https://serena.sharepress.it/funes/article/view/12791",
+     "doi": "10.6093/2532-6732/12791",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.6093/2532-6732/12787",
+     "titulo": "Spaces and Imaginaries of the Metaverse The Myth of the Virtuality of the Internet at Horizon",
+     "idioma_titulo": "it",
+     "autores": [
+      {
+       "nombre": "Biggio, Federico",
+       "orcid": null
+      }
+     ],
+     "resumen": "This article examines how contemporary imaginaries of the metaverse inherit and reshape the twentieth-century myths of virtual reality and the early Internet. Bringing together philosophy, media theory, and sociotechnical history, the paper traces and reframes virtuality and “immersion” as a threshold experience linked to deterritorialization. Adopting a critical and political perspective, the analysis highlights how the metaverse functions as a “third space”: an arena of playful interaction and creative experimentation, but also one shaped by technopolitical asymmetries and the remediation of social media logics in immersive 3D environments. Historical parallels with the commercialization of the Web and world expositions reveal how colonial and capitalist tropes persist in promises of frictionless transcendence. The article mobilizes concepts of code/space, smooth/striated space, and user practice to show how platform architectures reterritorialize the “virtuality” they advertise. Ultimately, the paper contends that the myth of the metaverse’s virtuality conceals a process of reterritorialization, where the utopian promises of cyberspace give way to the controlled architectures of platform capitalism, turning the dream of virtual worlds into an infrastructural and ideological extension of the Internet’s history.",
+     "idioma_resumen": "it",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-nd/4.0"
+     },
+     "url": "https://serena.sharepress.it/funes/article/view/12787",
+     "doi": "10.6093/2532-6732/12787",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.6093/2532-6732/12786",
+     "titulo": "The Neverending Story: Illusions of Limitlessness and Abundance in the Metaverse",
+     "idioma_titulo": "it",
+     "autores": [
+      {
+       "nombre": "Hesselbein, Chris",
+       "orcid": null
+      }
+     ],
+     "resumen": "This paper critically unpacks one central narrative feature of the Metaverse, namely its purported limitlessness, endlessness, and abundance, particularly on the level of spaces, objects, bodies, and identities. The primary means through which to present the Metaverse as limitless is by blurring the boundaries between the physical and virtual or the material and immaterial. Once these distinctions have been obscured, the apparent limitlessness of virtual phenomena can be positioned as surpassing the limits of material existence. The Metaverse can subsequently be presented as a world of near infinite possibilities, a future that is only limited by our imaginations. Narratives that represent the metaverse as endless and limitless are far from pointless; their apparent vagueness is precisely the point. Such narratives obscure the harmful actions of ‘Big Tech’ companies in the present, and mask the totalizing and all-encompassing character of the Metaverse as an attempt to reshape reality.",
+     "idioma_resumen": "it",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-nd/4.0"
+     },
+     "url": "https://serena.sharepress.it/funes/article/view/12786",
+     "doi": "10.6093/2532-6732/12786",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    }
+   ]
+  },
+  {
+   "id": "v7-n2-2024",
+   "volumen": "7",
+   "numero": "2",
+   "anio": 2024,
+   "fecha": "2024-12-17",
+   "etiqueta": "Vol. 7, núm. 2 (2024)",
+   "fuente": "OAI-PMH",
+   "articulos": [
+    {
+     "id": "oai:ojs.pkp.sfu.ca:article/11707",
+     "titulo": "Anatomia di Fauda. Serialità, realismo e trauma nella fiction televisiva israeliana",
+     "idioma_titulo": "it",
+     "autores": [
+      {
+       "nombre": "Gjergji, Iside",
+       "orcid": null
+      }
+     ],
+     "resumen": "Fauda, the Israeli serial drama, has garnered global recognition and acclaim for its realistic portrayal of life within the Israeli-Palestinian conflict. This article argues that realism in Fauda, as well as in contemporary Israeli television fiction more broadly, does not emerge as a response to an imperative necessity to comprehend reality. Rather, it is rooted in the creation of familiar, predictable, and ‘inhabitable’ universes aimed at invoking a sense of frequent déjà vu among viewers, both in terms of content and aesthetics. Essentially, what is construed as realistic aligns with prevailing collective imaginaries or offers a reassuring explanation for underlying collective traumas. The lack of disrupting or unsettling (unheimlich) elements in the Israeli serial drama unconsciously serves to perpetuate and consolidate on-screen/off-screen social traumas. Fredric Jameson’s dialectical approach, capable of linking external reality and narrative realism, will be the method adopted in this brief analysis.",
+     "idioma_resumen": "it",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-nd/4.0"
+     },
+     "url": "https://serena.sharepress.it/funes/article/view/11707",
+     "doi": null,
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "oai:ojs.pkp.sfu.ca:article/11713",
+     "titulo": "Counterimages of TV Fiction: Towards an Apophatic Aesthetic of Contemporary Seriality in the Digital Age",
+     "idioma_titulo": "it",
+     "autores": [
+      {
+       "nombre": "Pintor Iranzo, Ivan",
+       "orcid": null
+      }
+     ],
+     "resumen": "The conclusion of Twin Peaks’ third season (also known as Twin Peaks: The Return) marks a pivotal moment for investigating contemporary television narratives through a negative or apophatic aesthetic lens, inspired by theological concepts of denial and mysticism. This study explores how modern digital serial storytelling embodies themes of negativity, drawing on a hermeneutic methodology informed by iconographic analysis and post-Heideggerian philosophy, particularly referencing Giorgio Agamben. By integrating insights from diverse artistic disciplines such as plastic arts, dance, and religious mysticism, the analysis deepens our understanding of narrative constructions in series like Twin Peaks: The Return, and True Detective. This interdisciplinary approach illuminates television’s engagement with apophatic aesthetics and invites critical reflection on the intersection of digital seriality, theological discourse, and artistic expression within contemporary media culture.",
+     "idioma_resumen": "it",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-nd/4.0"
+     },
+     "url": "https://serena.sharepress.it/funes/article/view/11713",
+     "doi": null,
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "oai:ojs.pkp.sfu.ca:article/11712",
+     "titulo": "Décrypter le futur à travers la dystopie et l’uchronie: pouvoir, altérité et risques sociétaux dans les univers de The Walking Dead, The Last of Us et Sweet Tooth",
+     "idioma_titulo": "it",
+     "autores": [
+      {
+       "nombre": "Broissiat , Lolita",
+       "orcid": null
+      }
+     ],
+     "resumen": "This article addresses the following question: how do dystopian and uchronic TV series, through examples such as The Walking Dead (2010-2022), The Last of Us (2023 – ongoing), and Sweet Tooth (2021-2024), reflect and critique current societal issues, while influencing the public’s perception of possible and alternative futures? Employing a qualitative methodological approach, including content analysis, thematic analysis, and a comparative approach, we examine dialogues, scenarios to identify themes related to societal concerns. The theoretical framework draws on Zygmunt Bauman’s liquid modernity, Ulrich Beck’s societal risks, and Michel Foucault’s notions of power and alterity. Structured in three parts, the article first analyzes social collapse and reconstruction in The Walking Dead, then the societal response to a pandemic in The Last of Us, and finally the challenges of alterity and coexistence in Sweet Tooth.",
+     "idioma_resumen": "it",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-nd/4.0"
+     },
+     "url": "https://serena.sharepress.it/funes/article/view/11712",
+     "doi": null,
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "oai:ojs.pkp.sfu.ca:article/11706",
+     "titulo": "Emanuela Piga Bruni, La macchina fragile. L’inconscio artificiale fra letteratura, cinema e televisione",
+     "idioma_titulo": "it",
+     "autores": [
+      {
+       "nombre": "Tarallo, Simona",
+       "orcid": null
+      }
+     ],
+     "resumen": "Emanuela Piga Bruni, La macchina fragile. L’inconscio artificiale fra letteratura, cinema e televisione",
+     "idioma_resumen": "it",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-nd/4.0"
+     },
+     "url": "https://serena.sharepress.it/funes/article/view/11706",
+     "doi": null,
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "oai:ojs.pkp.sfu.ca:article/11709",
+     "titulo": "Female Bodies as Anti-Patriarchal Weapons in The Power: Reimaging Power Dynamics and Gender Roles in the TV Series Adaptation of Naomi Alderman’s Acclaimed Novel",
+     "idioma_titulo": "it",
+     "autores": [
+      {
+       "nombre": "Di Minico, Elisabetta",
+       "orcid": null
+      }
+     ],
+     "resumen": "Extremizing patriarchal tendencies and prejudices, most of feminist dystopias depict women’s condition in nightmarish realities, illustrating repressive and sexist systems that cancel their identities and their freedom, as in Margaret Atwood’s The Handmaid’s Tale (1985) or Christina Dalcher’s Vox (2018). Based on the acclaimed novel written in 2016 by Naomi Alderman, the 2023 Amazon series The Power reverts this trope and builds a world where women possess an unrestrainable power: they can emit electricity from their hands thanks to a new organ, the skein. Their new ability completely subverts the power dynamics in society and annihilates patriarchy and its millennial oppression, but the results are not completely utopian. The proposed paper aims to analyze three main topics: 1) the representation of women’s roles, identities and bodies in the series, 2) the narrative and the techniques of control, manipulation, and oppression used by patriarchal/matriarchal dystopian powers, and 3) the comparison between the series and the novel and the relations between the plot and the actual socio-political reality.",
+     "idioma_resumen": "it",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-nd/4.0"
+     },
+     "url": "https://serena.sharepress.it/funes/article/view/11709",
+     "doi": null,
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "oai:ojs.pkp.sfu.ca:article/11715",
+     "titulo": "From Dystopia to Realism: Emotions, Cultures and Imaginaries of Contemporary TV Seriality",
+     "idioma_titulo": "it",
+     "autores": [
+      {
+       "nombre": "Tirino, Mario",
+       "orcid": null
+      }
+     ],
+     "resumen": "Why has television seriality begun to acquire an increasingly central role in the culturalconsumption and media consumptions of millions of people, with its impact becoming moreevident since the 2010s? Among the many analyses addressing this question, one of the most well-founded examinesthe connection between the distribution modes of platformized seriality and the temporalityexperienced by millions of young people and adults worldwide.",
+     "idioma_resumen": "it",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-nd/4.0"
+     },
+     "url": "https://serena.sharepress.it/funes/article/view/11715",
+     "doi": null,
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "oai:ojs.pkp.sfu.ca:article/11714",
+     "titulo": "Immaginari sociali e serie TV: narrazioni e visioni del sentimento nostalgico",
+     "idioma_titulo": "it",
+     "autores": [
+      {
+       "nombre": "La Rocca, Fabio",
+       "orcid": null
+      }
+     ],
+     "resumen": "TV series are the corollary of observation of the social world through which we encounter the various imaginaries at work in the arcana of reality. The intention here is to illustrate the narrative power of the series as an element that puts into circulation themes of everyday life and our interpretation is realised from the perspective of understanding a worldview shaped by the images, symbols, myths that forms the social imaginary. By means of various examples, we will follow this imaginary excursion in order to detect significant fragments of an imagining of the world. The aim is to show how series indicate narrative elements that constitute the diversity of our society and the implication of the collective imaginary.",
+     "idioma_resumen": "it",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-nd/4.0"
+     },
+     "url": "https://serena.sharepress.it/funes/article/view/11714",
+     "doi": null,
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "oai:ojs.pkp.sfu.ca:article/11705",
+     "titulo": "Nostalgia, pubblici, intertestualità. Stranger Things al centro della serialità contemporanea",
+     "idioma_titulo": "it",
+     "autores": [
+      {
+       "nombre": "Virnicchi , Sara",
+       "orcid": null
+      }
+     ],
+     "resumen": "Nostalgia, pubblici, intertestualità. Stranger Things al centro della serialità contemporanea",
+     "idioma_resumen": "it",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-nd/4.0"
+     },
+     "url": "https://serena.sharepress.it/funes/article/view/11705",
+     "doi": null,
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "oai:ojs.pkp.sfu.ca:article/11710",
+     "titulo": "Power, Gender and Politics: Forms of Control and Ecofeminist Resistance in The Handmaid’s Tale",
+     "idioma_titulo": "it",
+     "autores": [
+      {
+       "nombre": "Cesaro , Laura",
+       "orcid": null
+      },
+      {
+       "nombre": "Riva, Claudio",
+       "orcid": null
+      }
+     ],
+     "resumen": "Set in the totalitarian society of Gilead, The Handmaid’s Tale (2017 – ongoing) meticulously explores the intersection of power, gender and politics. Through the lens of protagonist Offred, viewers witness the systematic erosion of individual rights and freedoms in the name of societal order: echoing themes of authoritarianism, misogyny and resistance. In relation with the latter, the authors use surveillance studies to analyse political control practices and employ the lens of ecofeminism to read the handmaids’ collective action. The article highlights how the TV series serves as a poignant commentary on contemporary political discourse. Through its vivid portrayal of dystopia, the TV series underscores the imperative of political vigilance and collective action in safeguarding human rights and civil liberties. As viewers confront the harsh realities of Gilead, they are compelled to recognise parallels and implications within their own socio-political contexts, thereby igniting discourse and advocacy for a more just and equitable world.",
+     "idioma_resumen": "it",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-nd/4.0"
+     },
+     "url": "https://serena.sharepress.it/funes/article/view/11710",
+     "doi": null,
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "oai:ojs.pkp.sfu.ca:article/11708",
+     "titulo": "Tutti pazzi per il legal drama. Uno sguardo semiotico sulle dinamiche processuali nella serialità televisiva",
+     "idioma_titulo": "it",
+     "autores": [
+      {
+       "nombre": "Cava, Antonia",
+       "orcid": null
+      }
+     ],
+     "resumen": "The contribution analyzes the analogies and connections between legal and communicative phenomena, using legal-drama as a case study. Considering the legal system as a semiotic system, we will describe the image of law portrayed by TV writing. We will reconstruct, in particular, the dynamics of the spectacularization of the trials in some of the TV series that have been widely successful both nationally and internationally. The analysis of the imagery constructed by TV series around the judicial system will also allow us to reflect on the effects that legal audiovisual products may have on the perception of legal reality. In the conclusions we will propose an explanation of the success of TV series depicting the law. The enormous interest generated by television series set in courtrooms, in fact, finds a possible explanation in the exciting confrontation between justice and injustice.",
+     "idioma_resumen": "it",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-nd/4.0"
+     },
+     "url": "https://serena.sharepress.it/funes/article/view/11708",
+     "doi": null,
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "oai:ojs.pkp.sfu.ca:article/11711",
+     "titulo": "“Le monde vrai devient, enfin, medium”. Vie et mort de Black Mirror : le corps glorieux du spectateur",
+     "idioma_titulo": "it",
+     "autores": [
+      {
+       "nombre": "Susca, Vincenzo Valentino",
+       "orcid": null
+      }
+     ],
+     "resumen": "En tant que machine de l’inconscient, dispositif conçu pour capter les fluctuations de l’imaginaire et les translater en flux audiovisuels avant même que les sujets dont elles sont issues soient en mesure de les reconnaître, nommer et entendre, Black Mirror est le cauchemar le plus actuel de l’époque contemporaine, une anticipation phénoménale et phénoménologique de notre actualité. La série nous livre notre histoire tout entière, en montrant à quel point la vie quotidienne est devenue une dystopie, la dystopie que nous habitons, notre dystopie quotidienne. Quel est le rapport entre Black Mirror, les séries télévisées et la vie quotidienne? Est-ce que Charlie Brooker, de la première à la sixième saison de la série, a-t-il prévu la “destruction” de Black Mirror en tant que manière de nous libérer des dystopies contemporaines, ou bien le sien est simplement un jeu du réalisme capitaliste médiatique? Peut-on vraiment détruire Black Mirror, et comment? Tant le récit de la série que son format ébauchent un scénario médiologique et sociétale dont le sujet est à la fois le cœur palpitant et le corps sacrifié, dans une perspective à même de révéler les formes élémentaires de la post-sérialité télévisée.",
+     "idioma_resumen": "it",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-nd/4.0"
+     },
+     "url": "https://serena.sharepress.it/funes/article/view/11711",
+     "doi": null,
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    }
+   ]
+  }
+ ]
+};

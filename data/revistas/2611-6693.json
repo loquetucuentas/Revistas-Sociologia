@@ -1,0 +1,789 @@
+{
+ "version": 1,
+ "generado": "2026-10-19T04:47:02+00:00",
+ "es_prueba": false,
+ "revista": {
+  "id": "2611-6693",
+  "titulo": "Eracle",
+  "idioma_titulo": null,
+  "titulo_alternativo": "Journal of Sports and Social Sciences",
+  "idioma_titulo_alternativo": "en",
+  "idiomas": [
+   "en",
+   "fr",
+   "it",
+   "es"
+  ],
+  "issn_impreso": null,
+  "issn_electronico": "2611-6693",
+  "editorial": "SHARE Press",
+  "pais": "IT",
+  "materias": [
+   "Sports",
+   "Social Sciences",
+   "Sociology (General)"
+  ],
+  "palabras_clave": [
+   "sports",
+   "social sciences",
+   "leisure",
+   "body",
+   "sociology of sport",
+   "physical activities"
+  ],
+  "licencias": [
+   {
+    "nombre": "CC BY 4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+   }
+  ],
+  "url": "https://serena.sharepress.it/index.php/eracle/",
+  "url_doaj": "https://doaj.org/toc/2611-6693",
+  "descripcion": null,
+  "fuente_ficha": "DOAJ",
+  "oai": "https://serena.sharepress.it/index.php/eracle/oai",
+  "archivo": "revistas/2611-6693.json",
+  "ultimo_numero": "Vol. 9, núm. 1 (2026)",
+  "fuente_numeros": "OAI-PMH"
+ },
+ "numeros": [
+  {
+   "id": "v9-n1-2026",
+   "volumen": "9",
+   "numero": "1",
+   "anio": 2026,
+   "fecha": "2026-04-10",
+   "etiqueta": "Vol. 9, núm. 1 (2026)",
+   "fuente": "OAI-PMH",
+   "articulos": [
+    {
+     "id": "10.6093/2611-6693/13464",
+     "titulo": "Attaccante fino alla fine: identità sportiva, celebrità, malattia e autobiografia nell’esperienza di Stefano Borgonovo",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Frezza, Maria",
+       "orcid": null
+      }
+     ],
+     "resumen": "This study analyses, from a sociological perspective, the transformation of the identity of Stefano Borgonovo, a former professional footballer, following his diagnosis with amyotrophic lateral sclerosis (ALS). Through a phenomenological-interpretative analysis of his posthumous autobiography, “Attaccante nato”, the research explores the conflict between the identity of the champion and the experience of the patient. The investigation focuses on three interconnected analytical dimensions that emerge from the text: status, representation of the body, and perception of time. The analysis reveals how autobiographical narration becomes a performative act to repair the biographical fracture caused by the disease. Borgonovo’s status evolves from a celebrity based on athletic performance to one based on public testimony of vulnerability, accumulating a capital of suffering. The body, from a performing and disciplined instrument, becomes a suffering and hyper-visible entity, yet catalysing rituals of collective solidarity. Consequently, the linear and progressive temporality of his sporting career is replaced by a present dominated by illness, radically redefining his existential horizon. The study concludes that, despite the loss of his performing ability, Borgonovo manages to preserve a strong social identity, reconfiguring his public role from athlete to symbol of the fight against ALS and maintaining a narrative continuity between his past and his present.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "Copyright (c) 2026 Eracle. Journal of Sport and Social Sciences",
+      "url": null
+     },
+     "url": "https://serena.sharepress.it/eracle/article/view/13464",
+     "doi": "10.6093/2611-6693/13464",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.6093/2611-6693/13469",
+     "titulo": "Calcio e fumetto: la disegnata dalla carta al digitale",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Di Paola , Lorenzo",
+       "orcid": null
+      }
+     ],
+     "resumen": "This article examines the intersections between sports and comics, illustrating how both are products of modern society and the cultural industry system. The discussion primarily focuses on the Italian context, analyzing Carmelo Silva’s so-called disegnate. It emphasizes the ways in which these visual representations have contributed to the construction of icons, myths, and collective memories, thereby fostering the emergence of fandom dynamics and patterns of cultural consumption. As digitalization advances, the disegnate undergo further transformation, evolving into NFTs and collectible items and raising questions about the nature of art and cultural value in the age of technical reproducibility. Adopting a historical, socio-cultural, and media- oriented approach, the article demonstrates how sports comics function as a narrative and identity laboratory, mirroring shifts in the media landscape from the print era to the current digital phase.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "Copyright (c) 2026 Eracle. Journal of Sport and Social Sciences",
+      "url": null
+     },
+     "url": "https://serena.sharepress.it/eracle/article/view/13469",
+     "doi": "10.6093/2611-6693/13469",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.6093/2611-6693/13461",
+     "titulo": "Dressing the nation: historical, political and media disputes around the Brazilian national team’s jersey",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Alves de Resende, Marcelo",
+       "orcid": null
+      },
+      {
+       "nombre": "da Costa , Leda Maria",
+       "orcid": null
+      },
+      {
+       "nombre": "Helal, Ronaldo",
+       "orcid": null
+      },
+      {
+       "nombre": "Amaro, Fausto",
+       "orcid": null
+      }
+     ],
+     "resumen": "This article explores the recent disputes related to the green-yellow jersey of the Brazilian men’s national football team. We will therefore address the far right’s rise in Brazil, represented by Bolsonarism, and its attempt to appropriate national symbols, including the Brazilian national team’s jersey. Guedes and Almeida (2019) named this phenomenon the second sequestration of the national team’s jersey and its context will be scrutinized here. We will emphasize the debate on the rejection of the Brazilian national team’s uniform by part of the population. Finally, we will analyze some media narratives that, in the months leading up to the 2022 World Cup, sought to disentail the Brazilian national team’s jersey from the far right, a phenomenon that we call “de- sequestration” .",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "Copyright (c) 2026 Eracle. Journal of Sport and Social Sciences",
+      "url": null
+     },
+     "url": "https://serena.sharepress.it/eracle/article/view/13461",
+     "doi": "10.6093/2611-6693/13461",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.6093/2611-6693/13463",
+     "titulo": "Form of transcendence in sports. Suggestion from Hollywood",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Strizzolo, Nicola",
+       "orcid": null
+      },
+      {
+       "nombre": "Bortoletto, Nico",
+       "orcid": null
+      }
+     ],
+     "resumen": "This paper examines how lifestyle sport practitioners experience forms of transcendence, altered perception, and connection with nature, and considers whether these experiences can be meaningfully interpreted through concepts associated with shamanic practice. Drawing on Roger Caillois’ taxonomy, it explores how elements of ritual, ecstasy, and symbolic imagination appear within contemporary sporting contexts. The first section reviews classical scholarship and journalistic sources to identify experiential and symbolic parallels between sport and shamanism, with particular attention to fandom, practices oriented toward the pursuit of vertigo, and the spiritualised imagery of some lifestyle and extreme sports. The second part presents an exploratory quantitative study administered to participants of a master’s program in shamanic studies. The survey investigates perceptions of overlap between shamanic experience and sporting activity, especially regarding transcendence, flow-like states, inner transformation, and embodied engagement with natural environments. The aim of the paper is to contribute to lifestyle sport studies by proposing a new line of inquiry into how transcendence, ritualisation, and ecological attunement shape contemporary sports practices, particularly in extreme or highly symbolised disciplines.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "Copyright (c) 2026 Eracle. Journal of Sport and Social Sciences",
+      "url": null
+     },
+     "url": "https://serena.sharepress.it/eracle/article/view/13463",
+     "doi": "10.6093/2611-6693/13463",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.6093/2611-6693/13460",
+     "titulo": "Introduction",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Bifulco, Luca",
+       "orcid": null
+      },
+      {
+       "nombre": "Diana, Paolo",
+       "orcid": null
+      }
+     ],
+     "resumen": "The collection of articles explores the intersection between sport and the broader cultural, social, political and media phenomena of our time, crossing very different geographical, temporal and socio-cultural areas.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "Copyright (c) 2026 Eracle. Journal of Sport and Social Sciences",
+      "url": null
+     },
+     "url": "https://serena.sharepress.it/eracle/article/view/13460",
+     "doi": "10.6093/2611-6693/13460",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.6093/2611-6693/13470",
+     "titulo": "Media e calcio in Italia dal Novecento a oggi. Simonelli, G. (2024). Quasi gol. Storia sentimentale del calcio in tv, Manni",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Tirino, Mario",
+       "orcid": null
+      },
+      {
+       "nombre": "Virnicchi, Sara",
+       "orcid": null
+      }
+     ],
+     "resumen": "È possibile una storia romantica del calcio raccontata dai media? È questa la sfida che il bel libro Quasi gol. Storia sentimentale del calcio in tv di Giorgio Simonelli (2024), storico dei media e del giornalismo, affronta nell’arco di 160 pagine. Inevitabile punto di partenza di questa avventura è il periodo pioneristico del giornalismo su carta stampata. Un periodo, quello che ha inizio ai primordi del Novecento, ricco di iniziative, talvolta azzardate, imprese, racconti e autentiche innovazioni.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "Copyright (c) 2026 Eracle. Journal of Sport and Social Sciences",
+      "url": null
+     },
+     "url": "https://serena.sharepress.it/eracle/article/view/13470",
+     "doi": "10.6093/2611-6693/13470",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.6093/2611-6693/13466",
+     "titulo": "Television, mediatization, and globalization of sport: the case of the first Olympic worldwide broadcast from Tokyo 1964",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Virnicchi, Sara",
+       "orcid": null
+      }
+     ],
+     "resumen": "The 1964 Tokyo Olympics represent a turning point in the history of the mediatization of sport. Broadcast live globally via satellite, they marked the beginning of worldwide sports television and established a ritualistic model of collective media consumption. This article analyzes the television broadcast of the event as a “media event” (Dayan & Katz, 1992) and as the first example of globalized and spectacularized sport, analyzing together journalistic sources and vintage visual materials, through the framework of mediatization of sport (Frandsen 2020; Tirino 2019). The objective is to show how Tokyo 1964 sanctioned Japan’s rebirth in the post-war geopolitical context and laid the foundations for a new sports ritual on a planetary scale.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "Copyright (c) 2026 Eracle. Journal of Sport and Social Sciences",
+      "url": null
+     },
+     "url": "https://serena.sharepress.it/eracle/article/view/13466",
+     "doi": "10.6093/2611-6693/13466",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.6093/2611-6693/13468",
+     "titulo": "The Kings League challenge. Glorification of commercialized and spectacularized sport",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Bifulco, Luca",
+       "orcid": null
+      }
+     ],
+     "resumen": "The Kings League represents a challenge within the global football industry, pushing the relationship between sport, spectacle and entertainment to its limits in the digital age. It does so through many elements: eccentric rules designed to maximize unpredictability and excitement; the combination and overlapping of different genres across matches and shows in a sort of pastiche; the tireless exploitation of the communication possibilities offered by digital technology; celebrities – mostly streamers and a few former footballers – who act as attractions; and the continuous involvement of fan-customers-prosumers, especially younger ones. All this unfolds in an atmosphere that is always halfway between competitive event and cheerful recreational show. It is a rational strategy in economic terms, one that aims to exploit the principles of commercialization and spectacularization of sport as widely as possible, following a vigorous market logic, but also presenting itself as a cultural and commercial avant-garde for a recoding of the entire sporting canon.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "Copyright (c) 2026 Eracle. Journal of Sport and Social Sciences",
+      "url": null
+     },
+     "url": "https://serena.sharepress.it/eracle/article/view/13468",
+     "doi": "10.6093/2611-6693/13468",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.6093/2611-6693/13465",
+     "titulo": "The football turn in contemporary art: how the game became an artistic language",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Meschini, Emanuele Rinaldo",
+       "orcid": null
+      }
+     ],
+     "resumen": "The article explores the “football turn” in contemporary art, analysing how football has progressively become a legitimate cultural object within the artistic field. Drawing on the model of cultural diamond developed by Wendy Griswold the study examines the intersections between football and contemporary art, focusing on the practices, institutions, and symbolic processes that have enabled their convergence. Through UK-based case studies ranging from the 1953 exhibition Football and the Fine Arts to recent initiatives such as OOF Gallery and Zidane: A 21st Century Portrait, the article reconstructs the historical and sociological conditions that have transformed football from a site of mass alienation into a space for artistic dialogue and experimentation. By intersecting art and football, the analysis highlights how these two systems, once considered irreconcilable, overlap in the neoliberal order of images, generating a hybrid cultural ecosystem where symbolic logics are shared, reconfigured, reproduced and contested.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "Copyright (c) 2026 Eracle. Journal of Sport and Social Sciences",
+      "url": null
+     },
+     "url": "https://serena.sharepress.it/eracle/article/view/13465",
+     "doi": "10.6093/2611-6693/13465",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.6093/2611-6693/13462",
+     "titulo": "“No son nadie”. Un abordaje de la posición liminal en el fútbol juvenil",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Czesli, Federico",
+       "orcid": null
+      }
+     ],
+     "resumen": "Based on an ethnography conducted in a Buenos Aires football club (2019-2022), this article analyzes the stage of the youth footballer as a liminal period and asks whether, throughout this process, a transformation of their social position occurs. The data collected show that, unlike studies on other disciplines, the accounts of aspiring players do not display an explicit existential rupture in their biographies. Two complementary hypotheses are proposed: first, that aggregation does not emerge from the training process itself, but rather from gradual sporting success, which confers economic and social capital. Second, that the sporting career produces a transformation in the relationship with the practice and in the way players speak about it, grounded in the experience of bodily sacrifice; in this way, social networks expand and peer recognition grows, generating opportunities that were previously unavailable. The career thus enables a progressive transformation of identity associated with the development of networks and the demonstration of capital, making it possible to establish a differentiation from the uninitiated fan.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "Copyright (c) 2026 Eracle. Journal of Sport and Social Sciences",
+      "url": null
+     },
+     "url": "https://serena.sharepress.it/eracle/article/view/13462",
+     "doi": "10.6093/2611-6693/13462",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    }
+   ]
+  },
+  {
+   "id": "v8-n1-2025",
+   "volumen": "8",
+   "numero": "1",
+   "anio": 2025,
+   "fecha": "2025-11-21",
+   "etiqueta": "Vol. 8, núm. 1 (2025)",
+   "fuente": "OAI-PMH",
+   "articulos": [
+    {
+     "id": "10.6093/2611-6693/12868",
+     "titulo": "Combat practices and martial arts in contemporary societies",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Bruno Mora",
+       "orcid": null
+      },
+      {
+       "nombre": "Dario Nardini",
+       "orcid": null
+      }
+     ],
+     "resumen": null,
+     "idioma_resumen": null,
+     "licencia": {
+      "nombre": "Copyright (c) 2025 Eracle. Journal of Sport and Social Sciences",
+      "url": null
+     },
+     "url": "https://serena.sharepress.it/eracle/article/view/12868",
+     "doi": "10.6093/2611-6693/12868",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.6093/2611-6693/12874",
+     "titulo": "Fight like a girl. The impact of menstruation on female athletes in combat sports",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Elisa Virgili",
+       "orcid": null
+      }
+     ],
+     "resumen": "This paper aims to investigate the relationship between menstruation and sports, specifically from the perspective of women who play combat sports. Much of the research concerning sports, and the factors that affect sports performance, is based on a universal male subject. It does not take into account differences related to gender and sex. There is a male bias in the the assumption that a normal body is immutable and characterised by stability. Such a conception excludes the female body which undergoes cyclic changes on a monthly basis. Starting from this assumption, the aim of this paper is to see how female athletes deal with this norm. The study centers on the experiences of female athletes, spanning from their physical education during schooling to their current training and competitive activities. Employing the concept of menstruation as both a biological and socio-cultural factor, this work seeks to deconstruct the prevailing sports canon, revealing that the notion of neutrality often corresponds to male-centered neutrality.",
+     "idioma_resumen": "en",
+     "licencia": null,
+     "url": "https://serena.sharepress.it/eracle/article/view/12874",
+     "doi": "10.6093/2611-6693/12874",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.6093/2611-6693/12869",
+     "titulo": "La gestione delle emozioni e la crescita socio-emotiva nei fighters: una ricerca empirica sugli atleti di kickboxing della Federkombat",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Flavia Verona",
+       "orcid": null
+      }
+     ],
+     "resumen": "Sport is a widespread educational practice involving over 200 million children and young people worldwide, fostering personal development and emotional management within a context of enjoyment and social relationships. An exploratory study conducted on Federkombat’s kickboxing athletes during the sporting year 2022-23 examined how they perceive challenges and failure—either as motivational stimuli or discouraging factor. Results show that these athletes, despite experiencing stress and anxiety in competitions, view challenges as opportunities for growth and personal improvement. Additionally, they demonstrate well-developed socio-emotional skills and participate in a sporting environment that balances sacrifice with satisfaction. Combat sports thus prove to be educational, promoting fun and positive relationships while debunking the stereotype of violent activities devoid of formative values.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "Copyright (c) 2025 Eracle. Journal of Sport and Social Sciences",
+      "url": null
+     },
+     "url": "https://serena.sharepress.it/eracle/article/view/12869",
+     "doi": "10.6093/2611-6693/12869",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.6093/2611-6693/12877",
+     "titulo": "Levoratti, A. (2024). Cartografía de los estudios sociales sobre el deporte. Debates clásicos y actuales, UNSAM Edita",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Federico Czesli",
+       "orcid": null
+      }
+     ],
+     "resumen": "Recensione del volume: Levoratti, A. (2024). Cartografía de los estudios sociales sobre el deporte. Debates clásicos y actuales, UNSAM Edita",
+     "idioma_resumen": "en",
+     "licencia": null,
+     "url": "https://serena.sharepress.it/eracle/article/view/12877",
+     "doi": "10.6093/2611-6693/12877",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.6093/2611-6693/12878",
+     "titulo": "Loisir e sport: identità e dinamiche sociali. Bortoletto, N. (2024). Tracce per una sociologia dello sport in Italia: 1948-1962, FrancoAngeli",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Maria Frezza",
+       "orcid": null
+      }
+     ],
+     "resumen": "Recensione del volume: Loisir e sport: identità e dinamiche sociali. Bortoletto, N. (2024). Tracce per una sociologia dello sport in Italia: 1948-1962, FrancoAngeli",
+     "idioma_resumen": "en",
+     "licencia": null,
+     "url": "https://serena.sharepress.it/eracle/article/view/12878",
+     "doi": "10.6093/2611-6693/12878",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.6093/2611-6693/12876",
+     "titulo": "L’impatto sociale delle due ruote. Biciclette e trasformazioni contemporanee – Un’analisi interdisciplinare tra storia, sociologia e innovazione tecnologica. Landri, P. (a cura di) (2023). Bici & Società, FrancoAngeli",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Giovannipaolo Ferrari",
+       "orcid": null
+      }
+     ],
+     "resumen": "Recensione del volume: Landri, P. (a cura di) (2023). Bici & Società, FrancoAngeli",
+     "idioma_resumen": "en",
+     "licencia": null,
+     "url": "https://serena.sharepress.it/eracle/article/view/12876",
+     "doi": "10.6093/2611-6693/12876",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.6093/2611-6693/12875",
+     "titulo": "Media e Pugilato, tra rilevanza storica e futuro incerto. Il caso italiano di “The Art of Fighting” Promotion",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Matteo Maiorano",
+       "orcid": null
+      }
+     ],
+     "resumen": "This article aims to explore the relationship between media and boxing through the analysis of a case study. The theoretical research approach is guided by the framework of sport mediatization, which is outlined in the first half of the paper with a specific focus on the discipline of boxing. The case study examines The Art of Fighting promotion, a newly established (2022) organization that promotes and organizes boxing events, making communication practices one of the pillars of its ontology. Following an initial exploratory research phase, four semi-structured interviews were conducted (two with executives and two with boxers) to investigate in depth the underlying dynamics and motivations of the case study. The collected data were then coded according to a set of relevant dimensions. The study highlights pronounced processes of mediatization, which result in a growing dependency of contemporary boxing on media logics.",
+     "idioma_resumen": "en",
+     "licencia": null,
+     "url": "https://serena.sharepress.it/eracle/article/view/12875",
+     "doi": "10.6093/2611-6693/12875",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.6093/2611-6693/12870",
+     "titulo": "Taekwondo-In as a platform for the social integration of migrants",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Jungjoo Yun",
+       "orcid": null
+      },
+      {
+       "nombre": "David Brown",
+       "orcid": null
+      }
+     ],
+     "resumen": "This article examines the phenomenon of social integration of migrants through the practice of the sporting and physical cultural activities. More specifically, it illustrates how Taekwondo, as a martial art and combat sport, can contribute to social integration. A collective instrumental case study gathered observational and interview data on three multicultural Taekwondo clubs. Following a directed content analysis, our findings suggest that Taekwondo can function as an effective platform for social integration promoting bridging, bonding forms of social capital and pluralised integrated identity as part of the development of a Taekwondo practitioner identity known as Taekwondo-In. In conclusion we consider the unique features these kinds of martial arts appear to have for functioning as platforms for social integration for both migrant and domestic populations, but that further research is needed including work to better understand the specific processes and practices through which arts like Taekwondo achieve this.",
+     "idioma_resumen": "en",
+     "licencia": null,
+     "url": "https://serena.sharepress.it/eracle/article/view/12870",
+     "doi": "10.6093/2611-6693/12870",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.6093/2611-6693/12871",
+     "titulo": "The “dividual” person and the self-made wrestling star in Senegalese làmb (wrestling with punches)",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Francesco Fanoli",
+       "orcid": null
+      }
+     ],
+     "resumen": "In Senegal, làmb (wrestling with punches) is both a national sport and a popular passion. Since the 1990s, a neoliberal ethos has emerged within làmb, with an increasing number of wrestlers conceiving the sport as an individual business venture and embodying self-entrepreneurial attitudes. Yet, a fighter’s self is a composite relational formation: each wrestler embodies not only the collective formed around his persona but also the “invisible” forces and resources mobilized by this coalition. Through ethnographic episodes that highlight the articulation and tensions between individualized and “dividual” modes of self-making, I examine how the neoliberalization of làmb has produced multiple, indeterminate and often conflicting socio-cultural outcomes. From this perspective, competing evaluations of relationships, agency and the production of economic value come to the fore. This approach complicates existing scholarly accounts of the neoliberalization of sport by revealing how neoliberal logics are both reproduced and deflected through their interaction with different socio-historical forces and values.",
+     "idioma_resumen": "en",
+     "licencia": null,
+     "url": "https://serena.sharepress.it/eracle/article/view/12871",
+     "doi": "10.6093/2611-6693/12871",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.6093/2611-6693/12872",
+     "titulo": "Towards Co-Production: The Case of Movement Inspired by Martial Arts (MIMA)",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "George Jennings",
+       "orcid": null
+      },
+      {
+       "nombre": "Zsofia Szekeres",
+       "orcid": null
+      }
+     ],
+     "resumen": "One of the major streams of social scientific research on martial arts and combat sports has tended to examine these fighting practices and their distinct techniques of the body from an ethnographic perspective, studying typically young, male practitioners in their regular training environments. A newer trend in wider physical activity research is co-production, a collaborative design that involves community members helping to develop an intervention that suits their wants and needs. This article presents the design of the Movement Inspired by Martial Arts (MIMA) pilot project in Cardiff, Wales, which borrows exercises and movements taken from a range of martial arts that are adapted for older adults and women in multicultural, underserved communities. We evaluated and refined the initial version of the MIMA exercise programme through an iterative process by collecting findings of an evaluation questionnaire and two focus groups with older adults and professionals from a council and third-sector organisations. The findings led to the refinement of the programme that is demonstrated by describing key exercises, offering direct instructions and a video demonstration. We close with suggestions for future co-production projects, pointing the way to a new area for martial arts scholarship.",
+     "idioma_resumen": "en",
+     "licencia": null,
+     "url": "https://serena.sharepress.it/eracle/article/view/12872",
+     "doi": "10.6093/2611-6693/12872",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.6093/2611-6693/12873",
+     "titulo": "“A boy is always going to be superior to a girl” – The ideal of fighting like a man or accepting inferiority for women karateka",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Fabiana Turelli",
+       "orcid": null
+      },
+      {
+       "nombre": "Alexandre Fernandez Vaz",
+       "orcid": null
+      },
+      {
+       "nombre": "David Kirk",
+       "orcid": null
+      }
+     ],
+     "resumen": "In a gender binary environment such as karate, oriented by a traditional martial pedagogy (Cynarsky et al., 2012), the way women express themselves is often seen as disconcerting and irrational. For many men, women are far from achieving the ideal of a fighter, what is around a high-performance male model, not attainable even by most non-alpha men. The idea of one-size-fits-all turns into one-size-fits-men. Often, karateka women seek to model themselves on men in order to conquer a space in the challenging environment (Turelli et al., 2022a). However, the way they express themselves has differences in relation to the way men do it, given the gendered social embodiment (Mason, 2018; Young, 1980). There are in place bodies’ expressions and beliefs, leading to the subject of women’s masculinization, in addition to internal martial differentiations in positions occupied by kata and kumite athletes. In this paper, we will explore these ideas seeking ways to disrupt the hegemonic masculine domination experienced. We researched the Spanish women’s karate team in preparation to the Tokyo 2020 (2021) Olympic Games. Athletes interviewed offered narratives of uncomfortable situations they identified related to power and machismo, helping to provide insight for possibilities of subversion.",
+     "idioma_resumen": "en",
+     "licencia": null,
+     "url": "https://serena.sharepress.it/eracle/article/view/12873",
+     "doi": "10.6093/2611-6693/12873",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    }
+   ]
+  },
+  {
+   "id": "v7-n1-2024",
+   "volumen": "7",
+   "numero": "1",
+   "anio": 2024,
+   "fecha": "2024-12-17",
+   "etiqueta": "Vol. 7, núm. 1 (2024)",
+   "fuente": "OAI-PMH",
+   "articulos": [
+    {
+     "id": "10.6093/2611-6693/11722",
+     "titulo": "Cuerpos en las pantallas: Vencedores y derrotados en documentales olìmpicos",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Fernandez Vaz, Alexandre",
+       "orcid": null
+      }
+     ],
+     "resumen": "One of the elective affinities of modern history are the births of the Olympics and cinema, both in 1896. The confluence between a phenomenon and another occurs in several situations, like in the documentaries. The most famous is Leni Riefenstahl’s Olympia (1938-1939), about Berlin 1936, in that bodies are athletic, happy, without suffering. But others, like the Olympics of Tokyo (1965), have another tone. Kon Ichikawa’s Ouvre shows the bodies in different situations. Obviously, the victors appear, but also defeated, athletes that arrive in the last places, exhausted, without brightness or glory. The film also deals, with very refined montage, of other “invisible” characters, such as the officials of the modalities. This paper investigates these forms of cinematographic representation (which are disputes for what sport can be).",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "Copyright (c) 2024 Eracle. Journal of Sport and Social Sciences",
+      "url": null
+     },
+     "url": "https://serena.sharepress.it/eracle/article/view/11722",
+     "doi": "10.6093/2611-6693/11722",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.6093/2611-6693/11717",
+     "titulo": "Dall’antropologo da tavolino a quello da tastiera. L’antropologia senza etnografia? Dal Lago, A. (2022) Sangue nell’ottagono. Antropologia delle arti marziali miste. Bologna: Il Mulino",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Nardini, Dario",
+       "orcid": null
+      }
+     ],
+     "resumen": null,
+     "idioma_resumen": null,
+     "licencia": {
+      "nombre": "Copyright (c) 2024 Eracle. Journal of Sport and Social Sciences",
+      "url": null
+     },
+     "url": "https://serena.sharepress.it/eracle/article/view/11717",
+     "doi": "10.6093/2611-6693/11717",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.6093/2611-6693/11724",
+     "titulo": "Des stades, des Lions Indomptables et des liturgies politiques à la CAN TOTAL ENERGIES CAMEROON 2021 : une analyse géopolitique de la construction étatique au Cameroun par le Renouveau Sportif à travers les lieux de la représentation du football",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Issekin, Yvan",
+       "orcid": null
+      }
+     ],
+     "resumen": "This text analyses how the Renouveau Sportif is constructing the Cameroonian state through a Nation branding of the CAN Total Energies Cameroon 2021 based on stadiums, the Indomitable Lions and political liturgies. This partisan political culture mobilizes these major sites of conflict in the representation of football for the Cameroon branding of the CAN. Drawing on the contributions of sport power and power branding, a one and plural geopolitics guides this analytical approach to account for the conflicts arising from the Branding around the competition. A mixed methodological approach consisting of interviews with resource persons and documentary resources from a media watch on stadiums, the Indomitable Lions and political liturgies, structures this analysis. These major sites of conflict in the representation of football will be presented as stages in the construction of the state through football, before being illustrated as arenas in this process.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "Copyright (c) 2024 Eracle. Journal of Sport and Social Sciences",
+      "url": null
+     },
+     "url": "https://serena.sharepress.it/eracle/article/view/11724",
+     "doi": "10.6093/2611-6693/11724",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.6093/2611-6693/11716",
+     "titulo": "Fanoli, F. (2022). Arene di Lotta. Corpi, mascolinità e invisibile nel làmb a Dakar. Meltemi: Milano",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Fedele, Valentina",
+       "orcid": null
+      }
+     ],
+     "resumen": null,
+     "idioma_resumen": null,
+     "licencia": {
+      "nombre": "Copyright (c) 2024 Eracle. Journal of Sport and Social Sciences",
+      "url": null
+     },
+     "url": "https://serena.sharepress.it/eracle/article/view/11716",
+     "doi": "10.6093/2611-6693/11716",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.6093/2611-6693/11725",
+     "titulo": "La diplomazia sportiva dell’Azerbaigian e le relazioni con l’Unione Europea",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Rahiminia, Dariush",
+       "orcid": null
+      }
+     ],
+     "resumen": "This paper focuses on the particular socio-political dynamics of the sports world in the Republic of Azerbaijan, which participates in European competitions despite it is geographically located in Asia. Specific attention is paid to the influence of the mega-events on the relationships with the European Union. Azerbaijan is a transcontinental and multicultural country. In recent years, it has strategically developed sports infrastructure for diplomatic purposes. Drawing on the concept of \"sports diplomacy\", and by analyzing official statements and interviews, the article aims to delve into the historical context of Azerbaijan's integration into the European sport field. The fundamental stages of this process are detected, raising the attention on an area that is still underexplored. In particular, the paper explores the role played by sport mega-events against the backdrop of international politics, on the one hand, but also of the country's internal political organization, on the other.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "Copyright (c) 2024 Eracle. Journal of Sport and Social Sciences",
+      "url": null
+     },
+     "url": "https://serena.sharepress.it/eracle/article/view/11725",
+     "doi": "10.6093/2611-6693/11725",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.6093/2611-6693/11720",
+     "titulo": "Marta versus Neymar: The ‘war of the sexes’ at the 2016 Olympic games in the narratives of sports journalism in Brazil",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Helal, Ronaldo George",
+       "orcid": null
+      },
+      {
+       "nombre": "da Costa, Leda Maria",
+       "orcid": null
+      }
+     ],
+     "resumen": "When the men’s and women’s football teams participate simultaneously in the same or different competitions, it is common for Brazilian sports journalism to construct narratives based on the comparison between the performance of both teams. At the 2016 Olympic Games, this phenomenon set up a kind of ’war of the sexes’ staged in the narratives of important newspapers in the country and even chanted in the stadium stands. The protagonists of this duel were the players Neymar and Marta, both number 10 of the Brazilian men’s and women’s teams, and both national and international idols. This article aims to analyse this ’war of the sexes’. For this purpose, we chose the press coverage of the 2016 Games by the newspapers O Globo and Folha de São Paulo, two of the most traditional periodicals in Brazil and those with the largest national circulation.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "Copyright (c) 2024 Eracle. Journal of Sport and Social Sciences",
+      "url": null
+     },
+     "url": "https://serena.sharepress.it/eracle/article/view/11720",
+     "doi": "10.6093/2611-6693/11720",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.6093/2611-6693/11719",
+     "titulo": "Qatar 2022 e sportswashing: un’analisi critica del discorso mediatico italiano",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "De Feo, Antonietta",
+       "orcid": null
+      },
+      {
+       "nombre": "Masini, Stefano",
+       "orcid": null
+      }
+     ],
+     "resumen": "Mega-sport events are often a means used by host countries to enhance their public image or draw attention away from human rights violations. From this point of view, this paper focuses on Qatar 2022, one of the most contested editions in the history of the FIFA World Cup. The authors look to understand how journalistic discourse shapes the processes of legitimisation or contestation of sportswashing practices. The contribution considers the media chronicle of Qatar 2022 in the main newspapers of the Italian sports press, through the methodological tools of Critical Discourse Analysis. The results show residual attention by sports journalism to the controversial aspects of this mega-event, taking into account the system of power relations both within and outside the sports journalism field.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "Copyright (c) 2024 Eracle. Journal of Sport and Social Sciences",
+      "url": null
+     },
+     "url": "https://serena.sharepress.it/eracle/article/view/11719",
+     "doi": "10.6093/2611-6693/11719",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.6093/2611-6693/11723",
+     "titulo": "The Spatial Dimension of Winter Olympic Village. Between local model and regionalisation strategies",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "della Sala, Valerio",
+       "orcid": null
+      }
+     ],
+     "resumen": "Since the second half of the 20th century, the editions of the Winter Olympic Games have catalysed different urban transformations, allowing the development of a new critical perspective on the spatial dimension of the Olympic event. The following contribution observes the various strategies by analysing the spatial models of Olympic villages developed to date. Through observing the relationships between the Olympic Village and the urban fabric, valuable tools will be advanced for evaluating the Olympic event in the context of the territory. Spatial models show the spatial dimension of the Olympic Village in the territory, allowing us to consider Olympic urbanism as a tangible asset that may fade away in the post-Olympic period. Since the first Winter Olympic Games were held in Chamonix in 1924, the event has been organised in mountain locations with ski resorts, ice rinks and accommodation facilities. The contribution analyses how creating new facilities implies the implementation of new spatial strategies capable of catalysing new territorial connections. The research proposes an innovative analysis of Olympic town planning in general and Olympic villages in particular, consolidating the field of study and offering a valuable document for the future construction of new Olympic villages in the coming decades. In addition, the study aims to reflect on the case of Turin in 2006 to observe how the regional spatial model has become a privileged case study for future candidate cities. Therefore, through the analysis, it will be observed how the winter edition, over time, has become of primary importance for implementing regional strategies in the host cities. From 2006 onwards, the Olympic event will be a primary element in planning regional infrastructure, transport systems, services and accommodation in the regional space.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "Copyright (c) 2024 Eracle. Journal of Sport and Social Sciences",
+      "url": null
+     },
+     "url": "https://serena.sharepress.it/eracle/article/view/11723",
+     "doi": "10.6093/2611-6693/11723",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.6093/2611-6693/11721",
+     "titulo": "The coach in a MegaEvent: the construction of the Luiz Felipe Scolari persona at the 2014 World Cup",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Mostaro, Filipe",
+       "orcid": null
+      },
+      {
+       "nombre": "Gomes Ferreira Mostaro, Milene",
+       "orcid": null
+      }
+     ],
+     "resumen": "Mega-events are important spaces for the construction of narratives, influencing social, cultural, economic, political and technological aspects. In this article, we analyze how the newspaper “O Globo” narrated the career of Luiz Felipe Scolari, coach of the Brazilian national team, during the 2014 World Cup. The analysis considered editions from the day after the call-up, the day of the first game and the day after the semi-final against Germany. We focused on reports in which the Brazilian national team was the main topic, investigating how Scolari was represented. “O Globo”, as part of the largest media conglomerate in Brazil, plays an important role in the construction of identities linked to soccer. The results show that the newspaper’s assessment of the coach was directly influenced by the team’s performance: until the defeat to Germany, the stories were positive, but after the result, they all became negative, revealing a clear link between the result and the narrative.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "Copyright (c) 2024 Eracle. Journal of Sport and Social Sciences",
+      "url": null
+     },
+     "url": "https://serena.sharepress.it/eracle/article/view/11721",
+     "doi": "10.6093/2611-6693/11721",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.6093/2611-6693/11726",
+     "titulo": "The cultural politics of sport mega-events",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Pedrini, Lorenzo",
+       "orcid": null
+      },
+      {
+       "nombre": "Tosi, Simone",
+       "orcid": null
+      }
+     ],
+     "resumen": "2024 has been the year of the XXXIII Summer Olympic Games. The Paris Games have catalysed the attention of millions of people all over the world, aroused mixed feelings, and triggered transformations whose effects could be fully grasped in the coming years. To coincide with the Olympic year, Eracle is pleased to dedicate the volume 7(1) to sports mega-events.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "Copyright (c) 2024 Eracle. Journal of Sport and Social Sciences",
+      "url": null
+     },
+     "url": "https://serena.sharepress.it/eracle/article/view/11726",
+     "doi": "10.6093/2611-6693/11726",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.6093/2611-6693/11718",
+     "titulo": "Towards the Amplification of Children’s Rights within Olympic Discourses",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Byrne, Seamus",
+       "orcid": null
+      }
+     ],
+     "resumen": "The intersection of Mega-Sport Events (MSEs) and human rights has given rise to considerable academic commentary over the last number of years. However, within this literature, the treatment of, and engagement with, children’s rights law, has been comparably negligible in scope and depth. This has been especially true in relation to how the Olympic Games affect children and young people, and their rights. Against this backdrop, this paper argues that the effect of this marginal treatment has resulted in the peripheralization of important children’s rights standards from Olympic discourses. By examining the extant literature on the Olympics and children and young people, in conjunction with an examination of the Concluding Observations and General Comments of the UN Committee on the Rights of the Child, it argues that the effects of the Olympics on children and young people must now be considered as a distinct children’s rights issue. Building on this, and in support of the overarching claim that children’s rights must be amplified within Olympic discourses, it further contends that the International Olympic Committee (IOC) must also foreground respect for children’s rights within their existing legal and contractual frameworks.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "Copyright (c) 2024 Eracle. Journal of Sport and Social Sciences",
+      "url": null
+     },
+     "url": "https://serena.sharepress.it/eracle/article/view/11718",
+     "doi": "10.6093/2611-6693/11718",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    }
+   ]
+  }
+ ]
+}
