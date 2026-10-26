@@ -1,7 +1,7 @@
 // Copia de revistas/2448-6442.json para abrir la aplicación sin servidor.
 (window.DATOS_REVISTAS = window.DATOS_REVISTAS || {})["revistas/2448-6442.json"] = {
  "version": 1,
- "generado": "2026-10-19T04:47:02+00:00",
+ "generado": "2026-10-26T04:47:42+00:00",
  "es_prueba": false,
  "revista": {
   "id": "2448-6442",
@@ -46,7 +46,7 @@
    "volumen": "44",
    "numero": null,
    "anio": 2026,
-   "fecha": "2026-10-07",
+   "fecha": "2026-10-21",
    "etiqueta": "Vol. 44 (2026)",
    "fuente": "Crossref",
    "articulos": [
@@ -77,6 +77,27 @@
      "url": "https://doi.org/10.24201/es.2026v44.e2939",
      "doi": "10.24201/es.2026v44.e2939",
      "paginas": "1-25",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.24201/es.2026v44.e3070",
+     "titulo": "Cambios recientes en el sindicalismo mexicano. Del sindicalismo subordinado al sindicalismo cooptado",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Cirila Quintero Ramírez",
+       "orcid": "https://orcid.org/0000-0002-4868-9375"
+      }
+     ],
+     "resumen": "This article examines changes in Mexican trade unionism in recent years, particularly since 2019. From a historical-sociological perspective, it demonstrates that this period exhibits an ambiguity within trade unionism: while there is a visible struggle for union democracy, there is also a strengthening of unions co-opted by opportunistic leaders and organized crime. It argues that the government’s aim to transform the union landscape through legislation —without accompanying policies for political and social change— was overwhelmed by the political system’s structural conditions, as well as by the infiltration of organized crime into some unions, thereby depriving workers of their tool for improving working conditions and bringing about social change.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 4.0",
+      "url": "http://creativecommons.org/licenses/by-nc-nd/4.0"
+     },
+     "url": "https://doi.org/10.24201/es.2026v44.e3070",
+     "doi": "10.24201/es.2026v44.e3070",
+     "paginas": "1-24",
      "fuente": "Crossref"
     },
     {
@@ -264,6 +285,31 @@
      "fuente": "Crossref"
     },
     {
+     "id": "10.24201/es.2026v44.e3114",
+     "titulo": "Huelgas masivas sin institucionalización: Perú, 1994–2025",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Omar Manky",
+       "orcid": "https://orcid.org/0000-0003-1741-3461"
+      },
+      {
+       "nombre": "Durga V. Linares Herrera",
+       "orcid": "https://orcid.org/0009-0001-8585-8369"
+      }
+     ],
+     "resumen": "The weakness of Peruvian trade unionism after the reforms of the 1990s is usually read as announcing the extinction of labor conflict. Drawing on a harmonized annual series of strike indicators (1994-2025) and a database of 25 000 protest events, we find three transformations that call that reading into question. First, the locus of strike activity shifted from the extractive private sector toward public sector workers. Second, average strike size increased more than fivefold, while average strike duration did not decrease substantially. Third, alongside classic capital–labor disputes, strikes and protests have emerged that address the state as employer, regulator, and budgetary administrator. The result is larger-scale strikes without equivalent institutional channels for negotiating and resolving conflict.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 4.0",
+      "url": "http://creativecommons.org/licenses/by-nc-nd/4.0"
+     },
+     "url": "https://doi.org/10.24201/es.2026v44.e3114",
+     "doi": "10.24201/es.2026v44.e3114",
+     "paginas": "1-27",
+     "fuente": "Crossref"
+    },
+    {
      "id": "10.24201/es.2026v44.e3029",
      "titulo": "Indies y profesionales: Sellos y amistades en La Plata",
      "idioma_titulo": "es",
@@ -349,6 +395,27 @@
      "url": "https://doi.org/10.24201/es.2026v44.e2934",
      "doi": "10.24201/es.2026v44.e2934",
      "paginas": "1-7",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.24201/es.2026v44.e3061",
+     "titulo": "Las metamorfosis del sindicalismo boliviano (transición secular: entre neoliberalismo y plurinacionalidad)",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Eduardo Paz Rada",
+       "orcid": "https://orcid.org/0000-0002-4354-7802"
+      }
+     ],
+     "resumen": "The changes over the past forty years in the structures and functioning of trade unionism and the Bolivian Workers’ Center (COB) reveal how the national and international political and economic context has shaped wage workers and generated cycles of crisis and resurgence in trade unionism. Likewise, historical memory, organizational and mobilization capacity, identity, and their demands position the COB and trade unions as key actors in Bolivia’s politics and historical trajectory. In contrast to the neoliberal governments (1985-2005), the government of the Movement Toward Socialism (MAS) (2006-2015), led by the peasant and indigenous movement as part of a national-popular project, has given prominence to Bolivian trade unionism and its leaders.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 4.0",
+      "url": "http://creativecommons.org/licenses/by-nc-nd/4.0"
+     },
+     "url": "https://doi.org/10.24201/es.2026v44.e3061",
+     "doi": "10.24201/es.2026v44.e3061",
+     "paginas": "1-25",
      "fuente": "Crossref"
     },
     {
@@ -602,6 +669,31 @@
      "fuente": "Crossref"
     },
     {
+     "id": "10.24201/es.2026v44.e3190",
+     "titulo": "Presentación del dossier. Estrategias sindicales en la transnacionalización de las economías latinoamericanas",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Francisco Zapata",
+       "orcid": null
+      },
+      {
+       "nombre": "Eleocadio Martínez Silva",
+       "orcid": null
+      }
+     ],
+     "resumen": "This dossier presents four national case studies —Bolivia, Chile, Mexico, and Peru— based on the transformations within each country resulting from the transnationalization of their economies, which modified the relationship between trade unions and the State. The authors highlight through their respective specificities, the shifts in corporate organization, labor legislation, political party ties, and working-class consciousness. An analysis of these factors provides a sociological understanding of the structural changes in trade unions, viewed not merely as the outcome of economic policies, but also in terms of the social conditions that would enable the rollout of the new development model.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 4.0",
+      "url": "http://creativecommons.org/licenses/by-nc-nd/4.0"
+     },
+     "url": "https://doi.org/10.24201/es.2026v44.e3190",
+     "doi": "10.24201/es.2026v44.e3190",
+     "paginas": "1-9",
+     "fuente": "Crossref"
+    },
+    {
      "id": "10.24201/es.2026v44.e3128",
      "titulo": "Presentación del dossier. Nuevas derechas, crisis de representación y transformación democrática en América Latina",
      "idioma_titulo": "es",
@@ -670,6 +762,31 @@
      "url": "https://doi.org/10.24201/es.2026v44.e3060",
      "doi": "10.24201/es.2026v44.e3060",
      "paginas": "1-26",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.24201/es.2026v44.e3104",
+     "titulo": "Sindicalismo mexicano en transición: corporativismo e independencia en el nuevo modelo laboral",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Eleocadio Martínez Silva",
+       "orcid": "https://orcid.org/0000-0002-8495-9475"
+      },
+      {
+       "nombre": "Edgardo Santiago Ocampo Pérez",
+       "orcid": "https://orcid.org/0009-0007-6900-1262"
+      }
+     ],
+     "resumen": "This article analyzes the metamorphosis of Mexican unionism within the juncture opened by the 2018 change of political regime and the new international context stemming from the entry into force of the USMCA in 2020. Using a multiple case study design, it examines three independent unions that emerged following the 2019 labor reform: the National Independent Union of Industry and Services Workers (SNITIS), the Mexican Labor Union League (LSOM), and the Independent Union of Automotive Industry Workers (SINTTIA). The central finding is that, while new independent union experiences have emerged that demonstrate the potential of this opening—as illustrated by the case studies reviewed—numerous factors persist that have limited their scope.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 4.0",
+      "url": "http://creativecommons.org/licenses/by-nc-nd/4.0"
+     },
+     "url": "https://doi.org/10.24201/es.2026v44.e3104",
+     "doi": "10.24201/es.2026v44.e3104",
+     "paginas": "1-27",
      "fuente": "Crossref"
     },
     {
@@ -744,6 +861,27 @@
      },
      "url": "https://doi.org/10.24201/es.2026v44.e2967",
      "doi": "10.24201/es.2026v44.e2967",
+     "paginas": "1-27",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.24201/es.2026v44.e3052",
+     "titulo": "Trayectoria del sindicalismo chileno y su rol en el estallido social",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Mauricio Esteban Muñoz Flores",
+       "orcid": "https://orcid.org/0000-0002-0385-0858"
+      }
+     ],
+     "resumen": "This article analyzes the trajectory of Chilean trade unionism from its historical phases to the 2019 Social Outbreak. It identifies four stages: heroic, institutional, excluded, and limited unionism, characterized by the atomization imposed by the neoliberal model. Through statistical and documentary analysis, it examines the paradox of an actor that, despite revitalizing in membership and strikes, suffers institutional restrictions to influence politically. The role of the CUT and the Mesa de Unidad Social as articulators of citizen demands during the 2019 crisis is highlighted. It concludes that trade unionism operated as a political translator of social unrest, establishing constitutional change as a strategic solution, although its exclusion in the final institutional negotiation persisted.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 4.0",
+      "url": "http://creativecommons.org/licenses/by-nc-nd/4.0"
+     },
+     "url": "https://doi.org/10.24201/es.2026v44.e3052",
+     "doi": "10.24201/es.2026v44.e3052",
      "paginas": "1-27",
      "fuente": "Crossref"
     },

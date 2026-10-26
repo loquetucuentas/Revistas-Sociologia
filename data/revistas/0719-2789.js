@@ -1,7 +1,7 @@
 // Copia de revistas/0719-2789.json para abrir la aplicación sin servidor.
 (window.DATOS_REVISTAS = window.DATOS_REVISTAS || {})["revistas/0719-2789.json"] = {
  "version": 1,
- "generado": "2026-10-19T04:47:02+00:00",
+ "generado": "2026-10-26T04:47:42+00:00",
  "es_prueba": false,
  "revista": {
   "id": "0719-2789",
@@ -50,7 +50,7 @@
    "volumen": "36",
    "numero": "1",
    "anio": 2026,
-   "fecha": "2026-10-16",
+   "fecha": "2026-10-19",
    "etiqueta": "Vol. 36, núm. 1 (2026)",
    "fuente": "OAI-PMH",
    "articulos": [
@@ -1225,6 +1225,35 @@
      },
      "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/942",
      "doi": "10.7770/cuhso-v36n1-art942",
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "10.7770/r-cuhso-v36n1-art990",
+     "titulo": "Medios como constructores de la memoria nacional: La conmemoración de los 50 años del Golpe de Estado",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Leiva Soto, Ricardo",
+       "orcid": null
+      },
+      {
+       "nombre": "Tagle Montt, Francisco Javier",
+       "orcid": null
+      },
+      {
+       "nombre": "Bustamante Pavez, Guillermo",
+       "orcid": null
+      }
+     ],
+     "resumen": "En septiembre de 2023 se conmemoraron 50 años del Golpe de Estado en Chile, efeméride que permitió medir el rol de los medios de comunicación como constructores de la memoria colectiva del país. Para ello, se analizó el tratamiento que dieron a la conmemoración del Golpe dos periódicos antagónicos. Se realizó un análisis de contenido de las noticias publicadas por El Mercurio (conservador) y El Siglo (comunista) en los días previos e inmediatamente posteriores a la efeméride. Se realizaron pruebas de Chi-Cuadrado para encontrar diferencias significativas. Los resultados indican que El Mercurio, moderadamente, empezó a describir el gobierno de Pinochet como una ‘dictadura’, pero aún se niega a describir a Pinochet como ‘dictador’: un tercio de los artículos dedicados por El Mercurio a recordar los 50 años de la caída de Allende, incluía la palabra ‘dictadura’ al menos una vez. Esta palabra nunca se utilizó en El Mercurio para referirse al régimen de Augusto Pinochet cuando gobernaba ‘Su Excelencia’, que era el término que usaba El Mercurio para referirse a Pinochet. El Siglo ha optado por no olvidar las violaciones a los derechos humanos. Con el fin de la Guerra Fría y de los socialismos reales, y el retorno de la democracia en Chile, El Mercurio fue ‘ablandando’ su conocida postura radical, mientras que El Siglo persevera en declarar que la Justicia chilena está en deuda con las víctimas de las violaciones a los Derechos Humanos, insiste en que es necesario “no olvidar” y valora el legado de la Unidad Popular.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.es"
+     },
+     "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/990",
+     "doi": "10.7770/r-cuhso-v36n1-art990",
      "paginas": null,
      "fuente": "OAI-PMH"
     },

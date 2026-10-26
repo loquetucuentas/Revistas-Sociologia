@@ -1,7 +1,15 @@
 # Revistas pendientes de revisión
 
-Generado el 2026-10-19T04:47:02+00:00. Revistas que aparecen en DOAJ pero de las que no se han
+Generado el 2026-10-26T04:47:42+00:00. Revistas que aparecen en DOAJ pero de las que no se han
 podido obtener números ni artículos. No se muestran en la aplicación.
+
+## AG - About Gender
+
+Identificador: 2279-5057. ISSN: 2279-5057.
+Web: https://riviste.unige.it/index.php/aboutgender. Dominio: riviste.unige.it.
+
+1. Crossref no tiene artículos con estos ISSN.
+2. No se ha encontrado un punto OAI-PMH en la web de la revista.
 
 ## Crítica y Resistencias
 

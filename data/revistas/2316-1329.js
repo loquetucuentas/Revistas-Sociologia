@@ -1,7 +1,7 @@
 // Copia de revistas/2316-1329.json para abrir la aplicación sin servidor.
 (window.DATOS_REVISTAS = window.DATOS_REVISTAS || {})["revistas/2316-1329.json"] = {
  "version": 1,
- "generado": "2026-10-19T04:47:02+00:00",
+ "generado": "2026-10-26T04:47:42+00:00",
  "es_prueba": false,
  "revista": {
   "id": "2316-1329",
@@ -46,7 +46,7 @@
    "volumen": "16",
    "numero": null,
    "anio": 2026,
-   "fecha": "2026-05-29",
+   "fecha": "2026-10-23",
    "etiqueta": "Vol. 16 (2026)",
    "fuente": "Crossref",
    "articulos": [
@@ -113,6 +113,28 @@
      "fuente": "Crossref"
     },
     {
+     "id": "10.14244/contemp.v16.1510",
+     "titulo": "As faces do cristianismo no Brasil",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Bryan Henrique Pinto",
+       "orcid": "https://orcid.org/0000-0002-8237-4457"
+      },
+      {
+       "nombre": "Fernando Augusto de Souza Guimarães",
+       "orcid": "https://orcid.org/0000-0003-4105-3822"
+      }
+     ],
+     "resumen": "Resenha do livro O cristianismo brasileiro contemporâneo: aspectos econômicos, assistenciais, ´políticos e ecumênicos, de André Ricardo de Souza, publicado em 2024 pela EDUFSCar/FAPESP.",
+     "idioma_resumen": "pt",
+     "licencia": null,
+     "url": "https://doi.org/10.14244/contemp.v16.1510",
+     "doi": "10.14244/contemp.v16.1510",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
      "id": "10.14244/contemp.v16.1437",
      "titulo": "Cidades inteligentes, sustentabilidade e trama associativa",
      "idioma_titulo": "pt",
@@ -163,6 +185,28 @@
      "licencia": null,
      "url": "https://doi.org/10.14244/contemp.v16.1427",
      "doi": "10.14244/contemp.v16.1427",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.14244/contemp.v16.1467",
+     "titulo": "Entre muros e margens",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Rodrigo Ghiringhelli de Azevedo",
+       "orcid": null
+      },
+      {
+       "nombre": "Ana Carolina Da Luz Proença",
+       "orcid": null
+      }
+     ],
+     "resumen": "O artigo discute os desafios metodológicos e éticos da pesquisa etnográfica em contextos prisionais, a partir de uma investigação com familiares e visitantes de pessoas presas no Rio Grande do Sul. Dialogando com a literatura recente sobre prisões no Brasil, analisa o deslocamento teórico das instituições para as relações sociais que estruturam a punição, especialmente nas redes familiares femininas que sustentam o cotidiano carcerário. Propõe, por fim, uma epistemologia do cárcere “desde a margem”, capaz de articular empiria, reflexão e compromisso ético na produção de conhecimento interdisciplinar sobre o sistema prisional brasileiro.",
+     "idioma_resumen": "pt",
+     "licencia": null,
+     "url": "https://doi.org/10.14244/contemp.v16.1467",
+     "doi": "10.14244/contemp.v16.1467",
      "paginas": null,
      "fuente": "Crossref"
     },
@@ -285,6 +329,46 @@
      "fuente": "Crossref"
     },
     {
+     "id": "10.14244/contemp.v16.1452",
+     "titulo": "Melhoramento humano, transumanismo e deficiência",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Marco Antonio Gavério",
+       "orcid": "https://orcid.org/0000-0002-0744-3520"
+      },
+      {
+       "nombre": "Murilo Mariano Vilaça",
+       "orcid": "https://orcid.org/0000-0001-9720-5552"
+      }
+     ],
+     "resumen": "O artigo mapeia a literatura nacional sobre a interconexão entre melhoramento humano, transumanismo e deficiência, destacando as implicações éticas, sociais e políticas das tecnologias de aprimoramento. Metodologicamente, realizou-se uma revisão bibliográfica em bases nacionais utilizando termos e combinações como “melhoramento humano” e “deficiência”, com restrição temporal até 2024. Dos 97 artigos inicialmente identificados, apenas cinco abordavam diretamente a intersecção temática. Os resultados revelam uma lacuna na produção acadêmica brasileira, com discussões fragmentadas que oscilam entre promessas emancipadoras e críticas éticas, apontando para a necessidade de maior sistematização conceitual e diálogo interdisciplinar.",
+     "idioma_resumen": "pt",
+     "licencia": null,
+     "url": "https://doi.org/10.14244/contemp.v16.1452",
+     "doi": "10.14244/contemp.v16.1452",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.14244/contemp.v16.1501",
+     "titulo": "Migrações just-in-time e a produção de disponibilidade permanente no capitalismo logístico europeu",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "José Angel Calderon",
+       "orcid": "https://orcid.org/0000-0003-1457-1050"
+      }
+     ],
+     "resumen": "Este artigo analisa as migrações just-in-time de trabalhadores espanhóis em armazéns logísticos holandeses (2017-2023), uma nova forma de mobilidade condicionada que produz um impasse espacial e temporal: os trabalhadores não podem nem ficar nem regressar. A disponibilidade permanente é produzida ativamente através de três infraestruturas articuladas: algorítmica (o sistema ISABEL, que gera incerteza como mecanismo de controlo), comercial (o alojamento fornecido pelo empregador, que pratica uma “circulação imobilizante” ao mesmo tempo que extrai renda) e psíquica (a dissonância cognitiva que mantém a crença na capacidade de agência apesar da privação estrutural dos meios para exercê-la). Os Países Baixos funcionam como laboratório de desregulação regulada, criando zonas de exceção cujo modelo é progressivamente exportado à escala europeia. A análise propõe deslocar o foco analítico da precarização para a produção ativa de disponibilidade, abrindo um diálogo com os contextos latino-americanos.",
+     "idioma_resumen": "pt",
+     "licencia": null,
+     "url": "https://doi.org/10.14244/contemp.v16.1501",
+     "doi": "10.14244/contemp.v16.1501",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
      "id": "10.14244/contemp.v16.1455",
      "titulo": "O Grindr como heterotopia",
      "idioma_titulo": "pt",
@@ -329,6 +413,40 @@
      "fuente": "Crossref"
     },
     {
+     "id": "10.14244/contemp.v16.1449",
+     "titulo": "Quilombola communities and their interactions with agri-food markets",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Jonas Anderson Simões das Neves",
+       "orcid": null
+      },
+      {
+       "nombre": "Cassiane Da Costa",
+       "orcid": null
+      },
+      {
+       "nombre": "Biane De Castro",
+       "orcid": null
+      },
+      {
+       "nombre": "Rosemeri Madrid",
+       "orcid": null
+      },
+      {
+       "nombre": "Sergio Schneider",
+       "orcid": null
+      }
+     ],
+     "resumen": "This article analyzes agri-food markets accessed in Quilombola communities. Drawing on a typology of markets, it is observed that proximity markets increase the potential for rural development; commercialization through local and territorial markets strengthens autonomy and contributes to improving livelihoods; in conventional markets, the activity of large companies leads to exploitation of natural resources; and institutional markets, in turn, function as affirmative action policies. In this context, the research reaffirms the strategic importance of markets for the autonomy of Quilombola communities.",
+     "idioma_resumen": "en",
+     "licencia": null,
+     "url": "https://doi.org/10.14244/contemp.v16.1449",
+     "doi": "10.14244/contemp.v16.1449",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
      "id": "10.14244/contemp.v16.1424",
      "titulo": "Representações dos negros na imprensa campineira na primeira década pós-abolição",
      "idioma_titulo": "pt",
@@ -361,6 +479,50 @@
      "licencia": null,
      "url": "https://doi.org/10.14244/contemp.v16.1493",
      "doi": "10.14244/contemp.v16.1493",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.14244/contemp.v16.1465",
+     "titulo": "“A UNE reúne futuro e tradição”",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Carolina Simões Pacheco",
+       "orcid": null
+      }
+     ],
+     "resumen": "A pesquisa investiga as mudanças na identidade coletiva e nos seus repertórios organizacionais e de confronto da União Nacional de Estudantes (UNE), impactada por transformações sociais contemporâneas. Fundamentada em metodologia qualitativa e em entrevistas semiestruturadas com 14 militantes, demonstra-se que a UNE se encontra em um processo de transformação marcado por tensões entre sua “tradição” elitizada e centralizadora e pelo fortalecimento de demandas “movimentalistas”, como a consolidação de instâncias setoriais auto-organizadas, cadeiras diretivas e incorporação de pautas de gênero, raça/etnia e sexualidade na entidade.",
+     "idioma_resumen": "pt",
+     "licencia": null,
+     "url": "https://doi.org/10.14244/contemp.v16.1465",
+     "doi": "10.14244/contemp.v16.1465",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.14244/contemp.v16.1484",
+     "titulo": "“Gestão da diversidade”",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Gustavo Carneiro",
+       "orcid": null
+      },
+      {
+       "nombre": "Denise Ribeiro",
+       "orcid": null
+      },
+      {
+       "nombre": "Aline Suelen Pires",
+       "orcid": null
+      }
+     ],
+     "resumen": "O artigo analisa como a “gestão da diversidade” emergiu no contexto neoliberal, transformando demandas sociais em recursos econômicos e objetos de gestão. Argumenta-se que agendas como DEI (Diversidade, Equidade e Inclusão) e ASG (Ambiental, Social e de Governança), embora criem oportunidades de inclusão para grupos marginalizados, operam de modo contraditório ao reforçar a mercantilização e a responsabilização individual. Casos empíricos ilustram práticas concretas das empresas e como os trabalhadores navegam nessas ambivalências. Por fim, discutimos brevemente o contexto do atual arrefecimento das políticas de inclusão.",
+     "idioma_resumen": "pt",
+     "licencia": null,
+     "url": "https://doi.org/10.14244/contemp.v16.1484",
+     "doi": "10.14244/contemp.v16.1484",
      "paginas": null,
      "fuente": "Crossref"
     }

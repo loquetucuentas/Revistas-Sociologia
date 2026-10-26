@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generado": "2026-10-19T04:47:02+00:00",
+ "generado": "2026-10-26T04:47:42+00:00",
  "es_prueba": false,
  "revista": {
   "id": "0717-6236",
@@ -53,6 +53,35 @@
    "fuente": "Crossref",
    "articulos": [
     {
+     "id": "10.7764/eure.52.157.05",
+     "titulo": "Anatomías de la verticalización en el Área Metropolitana de Valparaíso: densificación fragmentada y el rol ambiguo de la planificación urbana",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Magdalena Vicuña",
+       "orcid": "https://orcid.org/0000-0002-9476-396X"
+      },
+      {
+       "nombre": "Berenice De Dios",
+       "orcid": "https://orcid.org/0000-0001-8960-959X"
+      },
+      {
+       "nombre": "Daniel Moreno-Alba",
+       "orcid": "https://orcid.org/0000-0002-2490-4763"
+      }
+     ],
+     "resumen": "La verticalización implica el desarrollo de edificios en altura para venta o arriendo, proceso que genera cambios en la morfología y funcionalidad del territorio. Este artículo analiza el crecimiento urbano basado en la verticalización en el Área Metropolitana de Valparaíso, el segundo sistema urbano más importante de Chile, utilizando para ello la teoría de las anatomías de la densidad. La metodología se centra en caracterizar y analizar la densidad y la verticalización en el AMV. La discusión aborda tres puntos clave: 1) El desacoplamiento entre densidad y oferta habitacional debido a la verticalización; 2) Anatomías disruptivas de la verticalización en el borde costero; y 3) Factores que influyen en la verticalización, como la planificación urbana tardía y el sistema de transporte. Se concluye que, a pesar de los esfuerzos por modificar los instrumentos de planificación territorial, estos no han dirigido eficazmente la verticalización ni mejorado la accesibilidad a servicios de transporte público.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+     },
+     "url": "https://doi.org/10.7764/eure.52.157.05",
+     "doi": "10.7764/eure.52.157.05",
+     "paginas": "1",
+     "fuente": "Crossref"
+    },
+    {
      "id": "10.7764/eure.52.155.01",
      "titulo": "Aproximaciones a algunas cartografías de las emociones en el Bajo Atrato, Colombia",
      "idioma_titulo": "es",
@@ -96,6 +125,27 @@
      },
      "url": "https://doi.org/10.7764/eure.52.155.06",
      "doi": "10.7764/eure.52.155.06",
+     "paginas": "1",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.7764/eure.52.157.10",
+     "titulo": "Belleza, orden, salud e higiene: las funciones proyectadas del Bosque de San Juan de Aragón (1964)",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Daniela Martínez-Mariscal",
+       "orcid": "https://orcid.org/0009-0000-2661-5482"
+      }
+     ],
+     "resumen": "El proyecto del Bosque de San Juan de Aragón, inaugurado en 1964 como parte del Conjunto Urbano Popular de San Juan de Aragón (CUPSJA), constituye un caso clave para comprender el urbanismo moderno en la Ciudad de México. Su diseño respondió a la necesidad de construir una ciudad ordenada, higiénica y moralmente regulada. El Bosque fue concebido con funciones estéticas, ambientales y sociales: embellecer el paisaje urbano, mejorar la salud pública, ofrecer espacios de recreación y servir como dispositivo de integración y control social de los sectores populares mediante la educación cívica, el deporte y la vida familiar. De esta manera, la naturaleza fue instrumentalizada como herramienta de modernización y ordenamiento ciudadano. El estudio del Bosque revela cómo las áreas verdes urbanas sintetizan las dimensiones higiénicas, sociales y políticas del proyecto modernizador del Estado mexicano en los años sesenta.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+     },
+     "url": "https://doi.org/10.7764/eure.52.157.10",
+     "doi": "10.7764/eure.52.157.10",
      "paginas": "1",
      "fuente": "Crossref"
     },
@@ -260,6 +310,27 @@
      "fuente": "Crossref"
     },
     {
+     "id": "10.7764/eure.52.157.11",
+     "titulo": "Etnografías del urbanismo migrante",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Diana Mata-Codesal",
+       "orcid": "https://orcid.org/0000-0002-1438-7133"
+      }
+     ],
+     "resumen": "Reseña Título libro: La ciudad de cristal. Urbanismo migrante en Sevilla, Lisboa y Buenos Aires. Autor: Francisco J. Cuberos Gallardo Edición: Consejo Superior de Investigaciones Científicas (CSIC), 2025, 243 pp. ISBN: 978-84-00-11416-9",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+     },
+     "url": "https://doi.org/10.7764/eure.52.157.11",
+     "doi": "10.7764/eure.52.157.11",
+     "paginas": "1",
+     "fuente": "Crossref"
+    },
+    {
      "id": "10.7764/eure.52.156.12",
      "titulo": "Extractivismo y urbanización en países dependientes: viejos y nuevos conflictos del siglo XXI",
      "idioma_titulo": "es",
@@ -349,6 +420,48 @@
      "fuente": "Crossref"
     },
     {
+     "id": "10.7764/eure.52.157.03",
+     "titulo": "Inundaciones, Estado y mercado de suelo urbano. La construcción social del riesgo en La Plata, Argentina",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Daniela Vanesa Rotger",
+       "orcid": "https://orcid.org/0000-0003-1571-2396"
+      }
+     ],
+     "resumen": "En la ciudad de La Plata, la construcción social del riesgo de inundación es un proceso que ha acompañado el desarrollo urbano desde los tiempos fundacionales. La omisión, enmascaramiento y degradación de los cursos de agua han sido constantes que exacerbaron la condición inundable de la ciudad. El objetivo de la presente investigación es analizar el comportamiento del mercado de suelo urbano de La Plata en relación con las áreas inundables y, en particular, con la presencia de cursos de agua a cielo abierto. Metodológicamente el trabajo se apoya en el análisis de datos obtenidos de un periódico inmobiliario local publicados entre 2013 y 2020. Los principales resultados aluden a la caracterización de la ciudad en torno a la histórica construcción social del riesgo de desastres en contextos urbanos vulnerables; al comportamiento del mercado en distintos escenarios de inundación y en relación con los cursos de agua; y, por último, a la influencia del ordenamiento urbano en la configuración del riesgo.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+     },
+     "url": "https://doi.org/10.7764/eure.52.157.03",
+     "doi": "10.7764/eure.52.157.03",
+     "paginas": "1",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.7764/eure.52.157.12",
+     "titulo": "La ilusión del aislamiento: barrios cerrados y distinción social en la Argentina contemporánea",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Agustina Frisch",
+       "orcid": "https://orcid.org/0000-0002-3999-1927"
+      }
+     ],
+     "resumen": "Reseña Título libro: Vivir en un barrio cerrado. Cómo se produce la ilusión de confort, pureza y aislamiento. Autor: Ricardo Greene Edición: Siglo XXI Editores, 2025, 288 pp. ISBN: 978-987-801-509-5",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+     },
+     "url": "https://doi.org/10.7764/eure.52.157.12",
+     "doi": "10.7764/eure.52.157.12",
+     "paginas": "1",
+     "fuente": "Crossref"
+    },
+    {
      "id": "10.7764/eure.52.155.11",
      "titulo": "La potencia reveladora de las ruinas en Latinoamérica",
      "idioma_titulo": "es",
@@ -363,6 +476,35 @@
      "licencia": null,
      "url": "https://doi.org/10.7764/eure.52.155.11",
      "doi": "10.7764/eure.52.155.11",
+     "paginas": "1",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.7764/eure.52.157.06",
+     "titulo": "La vivienda cooperativa en cesión de uso y el problema de la asequibilidad: aportes para el debate",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Mariana Relli-Ugartamendía",
+       "orcid": "https://orcid.org/0000-0001-7427-9137"
+      },
+      {
+       "nombre": "Violeta Ventura",
+       "orcid": "https://orcid.org/0000-0002-1561-2857"
+      },
+      {
+       "nombre": "Juan José Michelini",
+       "orcid": "https://orcid.org/0000-0002-6718-1892"
+      }
+     ],
+     "resumen": "El acceso a la vivienda, uno de los retos más acuciantes de la realidad urbana contemporánea, ha dado lugar a propuestas autogestionarias de producción del hábitat que ponen la asequibilidad entre sus principales objetivos. En el caso español, a pesar de su vocación transformadora, las cooperativas de vivienda en cesión de uso no han podido posicionarse como una alternativa viable de acceso al hábitat para los sectores sociales más vulnerables. La cuestión de los actores, esto es, quiénes y cómo acceden a estas iniciativas, al igual que sus motivaciones y perspectivas, constituye un aspecto relativamente poco explorado. Este artículo analiza esas nuevas experiencias cooperativas desde la demanda, caracterizando el perfil de las y los usuarios. El estudio se abordó mediante una metodología cualitativa basada en dos encuestas dirigidas, respectivamente, a las cooperativas y a sus miembros. Los resultados evidencian que hay factores socioeconómicos, culturales y políticos que, al mismo tiempo que limitan la expansión del modelo, están siendo su condición de posibilidad.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+     },
+     "url": "https://doi.org/10.7764/eure.52.157.06",
+     "doi": "10.7764/eure.52.157.06",
      "paginas": "1",
      "fuente": "Crossref"
     },
@@ -429,6 +571,31 @@
      "fuente": "Crossref"
     },
     {
+     "id": "10.7764/eure.52.157.07",
+     "titulo": "Los frentes litorales: especialización turística versus funciones portuarias. El caso de Madeira (Funchal)",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Iván Medina-Álvarez",
+       "orcid": "https://orcid.org/0000-0003-2499-6108"
+      },
+      {
+       "nombre": "Josefina Domínguez-Mujica",
+       "orcid": "https://orcid.org/0000-0001-7460-5553"
+      }
+     ],
+     "resumen": "Desde los años ochenta del siglo XX, el turismo de ocio y recreación ha sido un factor determinante en el desarrollo de los territorios insulares y ha supuesto un fenómeno crucial para la transformación de los frentes litorales (embellecimiento del espacio urbano, dotaciones culturales, restauración, hostelería, etc.). En el caso de Funchal (Madeira), destino frecuente en las rutas de cruceros transatlánticos, la relevancia de la “terciarización” de su litoral ha supuesto la especialización y descentralización de determinados servicios portuarios a Caniçal, en el municipio de Machico. El objetivo de este artículo consiste en analizar las particularidades de este fenómeno de turistificación del frente litoral de Funchal, y su consiguiente repercusión en la ciudad de Caniçal. Se establece una metodología observacional y comparativa que permite definir los componentes fundamentales del proceso de transformación urbano-portuario de estas ciudades y determinar si el diálogo ciudad-puerto implica una sinergia mutuamente beneficiosa.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+     },
+     "url": "https://doi.org/10.7764/eure.52.157.07",
+     "doi": "10.7764/eure.52.157.07",
+     "paginas": "1",
+     "fuente": "Crossref"
+    },
+    {
      "id": "10.7764/eure.52.155.02",
      "titulo": "Mejoramiento de vivienda plurifamiliar y equidad territorial. El impacto del programa D.S. N° 27 en Santiago de Chile, 2019-2023",
      "idioma_titulo": "es",
@@ -443,6 +610,27 @@
      "licencia": null,
      "url": "https://doi.org/10.7764/eure.52.155.02",
      "doi": "10.7764/eure.52.155.02",
+     "paginas": "1",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.7764/eure.52.157.01",
+     "titulo": "Movilidad cotidiana metropolitana en las unidades habitacionales periféricas de la Ciudad de México",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Fermín Cruz",
+       "orcid": null
+      }
+     ],
+     "resumen": "La expansión dispersa de las ciudades latinoamericanas, impulsada por el sector inmobiliario, ha fomentado una movilidad intrametropolitana hacia áreas periféricas cada vez más lejanas del centro. El objetivo de esta investigación es identificar los patrones de movilidad que genera este segmento de población, partiendo desde el supuesto de que los residentes que lo componen aportan a los viajes metropolitanos en un contexto donde predominan los viajes intramunicipales. A través de una encuesta a los residentes de las unidades habitacionales periféricas se identificó un patrón de viajes radiales, con un gradiente relativo a la distancia, en una metrópoli caracterizada por una estructura policéntrica. Este estudio contribuye al modelo de sectores, mostrando que las vías de comunicación todavía tienen un factor decisorio en la estructura de los viajes cotidianos de la población periférica.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+     },
+     "url": "https://doi.org/10.7764/eure.52.157.01",
+     "doi": "10.7764/eure.52.157.01",
      "paginas": "1",
      "fuente": "Crossref"
     },
@@ -468,6 +656,35 @@
      },
      "url": "https://doi.org/10.7764/eure.52.156.01",
      "doi": "10.7764/eure.52.156.01",
+     "paginas": "1",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.7764/eure.52.157.08",
+     "titulo": "Performatividad territorial de los conflictos por la tierra en regiones semiáridas: experiencias organizativas en Argentina y Brasil",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Cristian Jara",
+       "orcid": "https://orcid.org/0000-0002-9592-7751"
+      },
+      {
+       "nombre": "Leandro Vieira Cavalcante",
+       "orcid": "https://orcid.org/0000-0002-3970-6655"
+      },
+      {
+       "nombre": "Joana Moura",
+       "orcid": "https://orcid.org/0000-0001-9561-1063"
+      }
+     ],
+     "resumen": "En las regiones semiáridas de Argentina y Brasil, la expansión agropecuaria y la proliferación de proyectos eólicos representan manifestaciones del avance del capital sobre la naturaleza, lo que ha exacerbado los conflictos por la tierra. Este artículo analiza la performatividad territorial de estos conflictos, reconociendo su naturaleza dual: si bien generan efectos perjudiciales, como desalojos, contaminación y deforestación, también poseen el potencial de producir o reconfigurar nuevos territorios. A través de dos estudios de caso, en Santiago del Estero y Rio Grande do Norte, se examinan procesos de resistencia fundamentados en la convivencia con el semiárido. Contrariamente a las narrativas que enfatizan exclusivamente las carencias estructurales, este trabajo destaca las potencialidades emergentes de las comunidades campesinas indígenas y afrodescendientes que habitan estas regiones, para el diseño de modelos alternativos de desarrollo.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+     },
+     "url": "https://doi.org/10.7764/eure.52.157.08",
+     "doi": "10.7764/eure.52.157.08",
      "paginas": "1",
      "fuente": "Crossref"
     },
@@ -511,6 +728,31 @@
      },
      "url": "https://doi.org/10.7764/eure.52.155.08",
      "doi": "10.7764/eure.52.155.08",
+     "paginas": "1",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.7764/eure.52.157.09",
+     "titulo": "Proximidad y economía local. El papel de los mercados públicos en la Ciudad de México",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Georgina Isunza-Vizuet",
+       "orcid": "https://orcid.org/0000-0001-8594-311X"
+      },
+      {
+       "nombre": "Francisco Acevedo-Velandia",
+       "orcid": "https://orcid.org/0009-0003-0225-8048"
+      }
+     ],
+     "resumen": "En este artículo se analizan los hábitos de movilidad de proximidad en torno a los mercados públicos en la Ciudad de México, ya que dicha actividad contribuye al abasto cotidiano de las familias, fortalece la economía local y fomenta la movilidad próxima, más sostenible y saludable que aquella que implica distancias prolongadas. Se exponen los resultados de la encuesta “Movilidad de proximidad y economía local” para caracterizar los patrones de movilidad de proximidad basados en los vínculos sociales y territoriales. Se demuestra la importancia del pequeño comercio y servicios localizados en los mercados públicos y su entorno, así como la capacidad adaptativa de los negocios locales a las necesidades diarias de los residentes, incluyendo las labores del cuidado.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+     },
+     "url": "https://doi.org/10.7764/eure.52.157.09",
+     "doi": "10.7764/eure.52.157.09",
      "paginas": "1",
      "fuente": "Crossref"
     },
@@ -582,6 +824,56 @@
      },
      "url": "https://doi.org/10.7764/eure.52.156.05",
      "doi": "10.7764/eure.52.156.05",
+     "paginas": "1",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.7764/eure.52.157.04",
+     "titulo": "Vivienda pública y satisfacción residencial: seguridad propietaria en contextos de financiarización habitacional",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Luis Vergara",
+       "orcid": "https://orcid.org/0000-0001-6436-0273"
+      },
+      {
+       "nombre": "Cristian Alister",
+       "orcid": "https://orcid.org/0000-0002-7394-8439"
+      }
+     ],
+     "resumen": "Este artículo compara la satisfacción residencial vinculada a la vivienda pública con deuda, con aquella asociada a la vivienda sin deuda, en un contexto habitacional como el chileno, marcado por el giro hacia la financiarización. Buscando entender la satisfacción residencial a partir de las brechas entre lo que se tiene, lo que se tuvo y lo que se desea, se aplicó una entrevista semiestructurada a 43 residentes de barrios de vivienda pública. Los resultados muestran buenos niveles de satisfacción residencial debido a que la vivienda, sea con o sin deuda, es entendida como un paso ascendente en la trayectoria residencial. No obstante, la seguridad propietaria que otorga la vivienda pública sin deuda, aunque sea de localización periférica, proporciona mayor satisfacción que una vivienda con deuda, donde la carga hipotecaria reduce la certidumbre futura. El artículo concluye con una reflexión sobre los diversos significados de la vivienda pública y sus efectos en el giro hacia la financiarización habitacional.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+     },
+     "url": "https://doi.org/10.7764/eure.52.157.04",
+     "doi": "10.7764/eure.52.157.04",
+     "paginas": "1",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.7764/eure.52.157.02",
+     "titulo": "¿Desplazamiento sin cambio social? El hacinamiento de la población del sur global como estrategia rentista en son Gotleu (Mallorca, España)",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Ismael Yrigoy",
+       "orcid": "https://orcid.org/0000-0002-3953-4152"
+      },
+      {
+       "nombre": "Jesús M. González-Pérez",
+       "orcid": "https://orcid.org/0000-0002-3751-174X"
+      }
+     ],
+     "resumen": "Este artículo amplía la aproximación teórica y empírica a los impactos de los desahucios y las ejecuciones hipotecarias en el rentismo centrado en la vivienda, así como en el cambio social vinculado a tales formas de desplazamiento poblacional. A partir de un análisis cuantitativo y cualitativo de los desahucios, ejecuciones hipotecarias, cambios demográficos en la población del sur global, y superficie de vivienda ocupada por habitante en el barrio de son Gotleu de Palma (Mallorca, España), ilustramos que el desplazamiento no conduce automáticamente a la gentrificación o al cambio social en los barrios. El barrio de son Gotleu ha sido un foco de desahucios y ejecuciones hipotecarias desde 2008, y alberga una gran población de ciudadanos del sur global. Nuestro argumento clave es que el hacinamiento complementa la gentrificación como estrategia clave de los propietarios para aumentar la extracción de rentas basadas en la vivienda.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+     },
+     "url": "https://doi.org/10.7764/eure.52.157.02",
+     "doi": "10.7764/eure.52.157.02",
      "paginas": "1",
      "fuente": "Crossref"
     },

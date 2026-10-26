@@ -1,7 +1,7 @@
 // Copia de revistas.json para abrir la aplicación sin servidor.
 (window.DATOS_REVISTAS = window.DATOS_REVISTAS || {})["revistas.json"] = {
  "version": 1,
- "generado": "2026-10-19T04:47:02+00:00",
+ "generado": "2026-10-26T04:47:42+00:00",
  "es_prueba": false,
  "fuentes": [
   "DOAJ",
@@ -11,7 +11,7 @@
  "idiomas_incluidos": [
   "es"
  ],
- "total": 47,
+ "total": 46,
  "revistas": [
   {
    "id": "2184-7010",
@@ -53,47 +53,6 @@
    "archivo": "revistas/2184-7010.json",
    "ultimo_numero": "Vol. 8, núm. 13 (2026)",
    "fuente_numeros": "Crossref"
-  },
-  {
-   "id": "2279-5057",
-   "titulo": "AG - About Gender",
-   "idioma_titulo": null,
-   "titulo_alternativo": null,
-   "idioma_titulo_alternativo": null,
-   "idiomas": [
-    "en",
-    "it",
-    "es"
-   ],
-   "issn_impreso": null,
-   "issn_electronico": "2279-5057",
-   "editorial": "Genova University Press",
-   "pais": "IT",
-   "materias": [
-    "Sociology (General)",
-    "Political science (General)"
-   ],
-   "palabras_clave": [
-    "gender studies",
-    "intersectionality",
-    "feminist theory",
-    "masculinities",
-    "queer studies"
-   ],
-   "licencias": [
-    {
-     "nombre": "CC BY 4.0",
-     "url": "https://creativecommons.org/licenses/by/4.0/"
-    }
-   ],
-   "url": "https://riviste.unige.it/index.php/aboutgender",
-   "url_doaj": "https://doaj.org/toc/2279-5057",
-   "descripcion": null,
-   "fuente_ficha": "DOAJ",
-   "oai": "https://riviste.unige.it/index.php/aboutgender/oai",
-   "archivo": "revistas/2279-5057.json",
-   "ultimo_numero": "Vol. 15, núm. 29 (2026)",
-   "fuente_numeros": "OAI-PMH"
   },
   {
    "id": "2448-850X",

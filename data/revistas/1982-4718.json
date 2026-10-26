@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generado": "2026-10-19T04:47:02+00:00",
+ "generado": "2026-10-26T04:47:42+00:00",
  "es_prueba": false,
  "revista": {
   "id": "1982-4718",
@@ -45,7 +45,7 @@
    "volumen": null,
    "numero": null,
    "anio": 2026,
-   "fecha": "2026-10-10",
+   "fecha": "2026-10-16",
    "etiqueta": "Publicación continua (2026)",
    "fuente": "Crossref",
    "articulos": [
@@ -327,6 +327,24 @@
      "url": "https://doi.org/10.52780/res.v31i00.21092",
      "doi": "10.52780/res.v31i00.21092",
      "paginas": "e026013",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.52780/res.v31i00.21390",
+     "titulo": "Dependência epistemológica no ISEB",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Carlos Henrique Gileno",
+       "orcid": "https://orcid.org/0000-0001-8425-673X"
+      }
+     ],
+     "resumen": "A dependência epistemológica, nas obras de Alberto Guerreiro Ramos e Roland Corbisier, inscreve-se nas condições históricas de subordinação que restringem a autonomia política das sociedades periféricas. Tutela e contenção constituem categorias analíticas, enquanto alienação sociológica e alienação cultural pertencem ao universo conceitual dos autores. Alberto Guerreiro Ramos analisa a recepção passiva de teorias, a sociologia consular e a redução sociológica; Roland Corbisier investiga o complexo colonial, a consciência histórica e a hierarquização do tempo, que confere às potências hegemônicas o presente e o futuro e relega as periferias a um passado a ser superado pela imitação. A dependência concentra nos centros hegemônicos o poder de definir critérios de validade, interioriza essa hierarquia nas periferias e restringe previamente os saberes, as alternativas e os futuros admitidos como legítimos.",
+     "idioma_resumen": "pt",
+     "licencia": null,
+     "url": "https://doi.org/10.52780/res.v31i00.21390",
+     "doi": "10.52780/res.v31i00.21390",
+     "paginas": "e026014",
      "fuente": "Crossref"
     }
    ]
