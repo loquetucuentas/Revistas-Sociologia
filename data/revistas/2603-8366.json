@@ -1,0 +1,839 @@
+{
+ "version": 1,
+ "generado": "2026-11-02T05:12:34+00:00",
+ "es_prueba": false,
+ "revista": {
+  "id": "2603-8366",
+  "titulo": "Tendencias Sociales",
+  "idioma_titulo": null,
+  "titulo_alternativo": "Tendencias Sociales: Revista de Sociología",
+  "idioma_titulo_alternativo": null,
+  "idiomas": [
+   "en",
+   "es",
+   "pt",
+   "fr",
+   "it"
+  ],
+  "issn_impreso": null,
+  "issn_electronico": "2603-8366",
+  "editorial": "Universidad Nacional de Educación a Distancia (UNED)",
+  "pais": "ES",
+  "materias": [
+   "Sociology (General)"
+  ],
+  "palabras_clave": [
+   "sociology",
+   "trends",
+   "politics",
+   "social sciences",
+   "communication studies",
+   "social changes"
+  ],
+  "licencias": [
+   {
+    "nombre": "CC BY 4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+   }
+  ],
+  "url": "https://revistas.uned.es/index.php/Tendencias/index",
+  "url_doaj": "https://doaj.org/toc/2603-8366",
+  "descripcion": null,
+  "fuente_ficha": "DOAJ",
+  "archivo": "revistas/2603-8366.json",
+  "ultimo_numero": "Vol. 1, núm. 16 (2026)",
+  "fuente_numeros": "Crossref"
+ },
+ "numeros": [
+  {
+   "id": "v1-n16-2026",
+   "volumen": "1",
+   "numero": "16",
+   "anio": 2026,
+   "fecha": "2026-08-20",
+   "etiqueta": "Vol. 1, núm. 16 (2026)",
+   "fuente": "Crossref",
+   "articulos": [
+    {
+     "id": "10.5944/ts.2026.49952",
+     "titulo": "De la inteligencia artificial a la inteligencia colectiva: Un estudio cualitativo en torno a la representación de imaginarios tecnocientíficos en barrios de la Comunidad de Madrid",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Alba Taboada-Villamarín",
+       "orcid": "https://orcid.org/0000-0001-7649-4412"
+      }
+     ],
+     "resumen": "En los últimos años, la inteligencia artificial (IA) se ha consolidado como la innovación más reciente en una larga genealogía de dispositivos técnicos que transforman la experiencia de múltiples dimensiones de la vida social. El binomio tecnocientífico que define a las sociedades contemporáneas sitúa a la ciudadanía ante una cotidianidad cada vez más poblada por tecnologías de alta complejidad, cuya comprensión y apropiación implican crecientes desafíos. La naturaleza opaca de las máquinas digitales, y su inserción estructural en el ámbito doméstico, intervienen en procesos de apropiación simbólica y en las formas de producción de sentido con las que distintos grupos configuran su relación con la tecnología. El presente trabajo se enmarca en un proyecto de transferencia y generación de cultura científica orientado a vincular la experiencia doméstica de la inteligencia artificial con la ciudadanía, a través de talleres de deliberación realizados con vecinas y vecinos de distintos barrios de la Comunidad de Madrid. Lejos de los entornos técnicos o académicos, el estudio explora cómo la IA es representada y discutida en espacios comunitarios. Los resultados muestran la potencialidad de las metodologías participativas para analizar la circulación de saberes expertos y no expertos, proponiendo una lectura renovada del concepto de inteligencia colectiva como práctica reflexiva y ciudadana que revitaliza la participación social en torno a la ciencia y la tecnología.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.5944/ts.2026.49952",
+     "doi": "10.5944/ts.2026.49952",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.5944/ts.2026.49943",
+     "titulo": "De la posverdad a la suspensión de la duda IA generativa, narrativas conspirativas y condiciones del juicio en la esfera pública plataformizada",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Marco Centorrino",
+       "orcid": null
+      }
+     ],
+     "resumen": "Esta contribución analiza el impacto de la inteligencia artificial generativa en la producción y circulación de las narrativas conspirativas en la esfera pública plataformizada. Partiendo de la posverdad entendida como política de las definiciones de la situación, se sostiene que la IA generativa actúa como multiplicador de dinámicas ya inscritas en la economía de la atención y en el gatekeeping algorítmico: la generación automática de textos, imágenes, audio y video de alta verosimilitud debilita el anclaje al original, desplaza la verificación hacia indicios técnicos y relacionales, y convierte la plausibilidad en un recurso central para la adhesión. En el plano metodológico, la contribución adopta un enfoque teórico- conceptual, poniendo en relación la literatura sobre posverdad, plataformización y conspiracionismo con dos casos electorales de clonación de voz, analizados en función ejemplificadora y no causal. La tesis de fondo desplaza la atención de la falsedad del contenido a las condiciones del juicio público y a los criterios comunitarios a través de los cuales se decide qué cuenta como verdadero. De ello se derivan implicaciones para la governance digital, la regulación de las plataformas y la media literacy deliberativa, orientadas a reconstruir condiciones compartidas para verificar, deliberar y dudar.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.5944/ts.2026.49943",
+     "doi": "10.5944/ts.2026.49943",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.5944/ts.2026.49953",
+     "titulo": "Dinámicas de participación en comunidades virtuales en redes",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Marina Goñi Aguilar",
+       "orcid": null
+      },
+      {
+       "nombre": "Israel Vázquez Márquez",
+       "orcid": null
+      },
+      {
+       "nombre": "Dimitrina Jivkova Semova",
+       "orcid": null
+      },
+      {
+       "nombre": "María del Carmen Salgado Santamaría",
+       "orcid": null
+      }
+     ],
+     "resumen": "Este estudio analiza las dinámicas de participación y pertenencia a comunidades virtuales en las redes sociales más utilizadas en España. La investigación se basa en una encuesta representativa de 1007 participantes, analizada mediante técnicas estadísticas (T-Student y chi- cuadrado), con el objetivo de identificar patrones de comportamiento según edad y género. Los resultados muestran que solo un 30,7% de los encuestados sigue a creadores de contenido y un 82,2% no pertenece a comunidades virtuales específicas, evidenciando una brecha entre consumo y pertenencia. Se observan diferencias significativas: mayor participación entre jóvenes y menor en mayores de 65, así como una mayor tendencia de las mujeres a seguir creadores, especialmente en Instagram, frente a una mayor presencia masculina en Youtube y Twitch. En definitiva, los datos cuestionan la idea de comunidades virtuales cohesionadas y apuntan a un modelo de sociabilidad digital basado en vínculos débiles, participación fragmentada y consumo mediado por algoritmos.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.5944/ts.2026.49953",
+     "doi": "10.5944/ts.2026.49953",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.5944/ts.2026.49958",
+     "titulo": "Etnografía en prisión: el caso de Ponent",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Daniel Berciano Jiménez",
+       "orcid": "https://orcid.org/0000-0002-2179-1329"
+      }
+     ],
+     "resumen": "La presente pieza muestra la realidad penitenciaria de un caso de estudio: el Centro Penitenciario de Ponent, en Lleida. Mediante una investigación doctoral basada en el método etnográfico, se trató de resolver bajo una perspectiva sociológica qué influye en la reinserción social de las personas privadas de libertad. Para dar respuesta a la incógnita planteada, se ubicó a los internos en el eje de la investigación, usando así sus perspectivas como principal baluarte. Una muestra compuesta por 45 internos, un total de 50 entrevistas y más de un centenar de visitas al centro, junto con la revisión bibliográfica pertinente, permiten adentrarse en una realidad penitenciaria atendiendo a todos los elementos que componen la vida intramuros y vislumbrar la influencia de esos factores de cara a la futura reinserción social de los reclusos.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.5944/ts.2026.49958",
+     "doi": "10.5944/ts.2026.49958",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.5944/ts.2026.49957",
+     "titulo": "Innovación y efectividad en la formación del profesorado: Un estudio de caso del Máster Universitario en la Enseñanza del Español como Lengua Extranjera",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Gustavo Adolfo González Cáceres",
+       "orcid": "https://orcid.org/0000-0001-9486-7905"
+      }
+     ],
+     "resumen": "El estudio analiza la innovación pedagógica y la efectividad formativa del Máster Universitario en la Enseñanza del Español como Lengua Extranjera (MUELE) a partir de un estudio de caso cualitativo realizado durante una estancia posdoctoral en la Universidad de Extremadura, España. Mediante la observación de clases, entrevistas a docentes y un grupo de discusión con estudiantes, se examinan las prácticas de aula, el desarrollo de competencias didácticas y digitales y las percepciones sobre la calidad del programa. Los resultados sugieren la existencia de un programa sólidamente estructurado, con una coordinación interna intensa, un profesorado altamente cualificado y experiencias significativas de análisis de materiales, simulación de clases y reflexión crítica. No obstante, se observan tensiones en el equilibrio entre teoría y práctica, en la atención a la diversidad de perfiles de ingreso, en el desarrollo sistemático de la competencia digital docente y en la regulación del uso de la inteligencia artificial. A partir de estos hallazgos, se proponen orientaciones de mejora para fortalecer la innovación metodológica y la efectividad formativa del máster.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.5944/ts.2026.49957",
+     "doi": "10.5944/ts.2026.49957",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.5944/ts.2026.49947",
+     "titulo": "Inteligencia Artificial y narraciones conspirativas: verosimilitud, producción y circulación del discurso desinformativo entre universitarios españoles",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Víctor Renobell Santarén",
+       "orcid": "https://orcid.org/0000-0001-6617-5020"
+      }
+     ],
+     "resumen": "La consolidación de la inteligencia artificial generativa como herramienta de producción de contenidos ha transformado radicalmente el ecosistema informativo contemporáneo, amplificando la capacidad de actores malintencionados para fabricar y diseminar narrativas conspirativas con apariencia de verosimilitud. El presente artículo examina, a partir de una encuesta CAWI aplicada a 718 estudiantes universitarios españoles entre enero y abril de 2025, cómo los jóvenes universitarios perciben, consumen y reproducen discursos desinformativos potenciados por herramientas de IA. Los resultados revelan que el 61,4 % de los encuestados afirma haber recibido contenido que percibe como conspirativo generado o amplificado por IA (medida basada en la autopercepción declarada de los participantes), que la exposición semanal a este tipo de material aumenta significativamente la credibilidad percibida de las narrativas (r = 0,47; p < 0,001), y que los perfiles con menor alfabetización mediática y mayor uso de plataformas de vídeo corto presentan mayor vulnerabilidad ante estos discursos. El análisis de regresión logística muestra que la frecuencia de uso de TikTok, la baja confianza institucional y el pensamiento analítico reducido son los predictores más robustos de la credulidad ante narrativas conspirativas potenciadas por IA (OR = 3,12; IC 95 %: 2,14-4,55). Estos hallazgos dialogan con evidencia internacional procedente de Estados Unidos, Brasil y el Reino Unido, apuntando hacia un patrón transnacional de vulnerabilidad epistémica entre las generaciones digitalmente nativas.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.5944/ts.2026.49947",
+     "doi": "10.5944/ts.2026.49947",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.5944/ts.2026.49944",
+     "titulo": "Inteligencia artificial, confianza epistémica y narrativas conspirativas en entornos digitales: una perspectiva psicológica",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Simona Massimino",
+       "orcid": "https://orcid.org/0000-0001-5107-5393"
+      },
+      {
+       "nombre": "Jonida Lesha",
+       "orcid": null
+      }
+     ],
+     "resumen": "La rápida expansión de la inteligencia artificial (IA) generativa está transformando los entornos informativos contemporáneos al permitir la producción a gran escala de contenidos personalizados y altamente realistas. Aunque estas tecnologías ofrecen importantes oportunidades para la comunicación y el acceso al conocimiento, también intensifican los desafíos relacionados con la desinformación y las narrativas conspirativas. Desde una perspectiva psicológica, la susceptibilidad a las creencias conspirativas está influida por sesgos cognitivos, necesidades motivacionales y procesos sociales. Este artículo conceptual sostiene que la IA generativa no crea estas vulnerabilidades, sino que las amplifica mediante la personalización algorítmica, los medios sintéticos y la exposición repetida a información congruente con las creencias previas. Para integrar estas perspectivas, se propone el Modelo de Amplificación Psicológica y Confianza Epistémica (PAET), que identifica la confianza epistémica como un proceso mediador central que vincula las vulnerabilidades cognitivas con las creencias conspirativas, la desconfianza institucional y la polarización social.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.5944/ts.2026.49944",
+     "doi": "10.5944/ts.2026.49944",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.5944/ts.2026.49950",
+     "titulo": "La Inteligencia Artificial ante la no regulación",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "José Luis Torremocha Martín",
+       "orcid": null
+      }
+     ],
+     "resumen": "Los avances logrados por la IA han sido capaces de poner al servicio de profesionales de la comunicación herramientas que optimizan su labor para el beneficio de la audiencia. A pesar de ello los nuevos modelos presentan importantes contrapartidas: ausencia de transparencia, falta de legislación efectiva y escasez de filtradores humanos que combatan la desinformación ya existente que con la proliferación de deepfakes pone en riesgo a las víctimas de las brechas digitales. La pérdida del control de la agenda por parte de los medios tradicionales, el incremento de pseudoperiodistas que usan la IA para difundir bulos y el descontrol del algoritmo alertan a una sociedad desprotegida.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.5944/ts.2026.49950",
+     "doi": "10.5944/ts.2026.49950",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.5944/ts.2026.49948",
+     "titulo": "La conspiración como refugio identitario: inteligencia artificial, precariedad masculina y producción algorítmica de la normalidad",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Víctor Hugo Pérez Gallo",
+       "orcid": "https://orcid.org/0000-0003-1452-2531"
+      }
+     ],
+     "resumen": "El presente estudio analiza la relación entre inteligencia artificial, narrativas conspirativas y procesos de reconocimiento afectivo en jóvenes varones precarizados. Desde un enfoque cualitativo de orientación fenomenológico- etnometodológica, se combinó el análisis de contenido digital en TikTok, YouTube, Telegram y X con 24 entrevistas semiestructuradas y un grupo focal realizado con jóvenes de entre 18 y 30 años en situaciones de precariedad laboral, residencial o vital. Los resultados muestran que las narrativas conspirativas funcionan como mecanismos de reorganización emocional, pertenencia grupal y reconstrucción identitaria frente a experiencias de incertidumbre, invisibilidad social y desconfianza institucional. Asimismo, los algoritmos de recomendación intensifican la plausibilidad de estos discursos mediante dinámicas de repetición, segmentación y validación afectiva. Se identificaron seis narrativas predominantes: élites ocultas, Agenda 2030, manipulación mediática, feminismo como amenaza cultural, reemplazo poblacional y pérdida de libertad. El estudio propone los conceptos de “producción algorítmica de la normalidad”, “plausibilidad afectiva” y “encapsulamiento afectivo” para comprender cómo las plataformas digitales transforman discursos marginales en marcos emocionalmente legítimos de interpretación del malestar contemporáneo.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.5944/ts.2026.49948",
+     "doi": "10.5944/ts.2026.49948",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.5944/ts.2026.49954",
+     "titulo": "La paradoja de la democracia constitucional: mayorías democráticas y límites al poder de reforma en México",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Marla Rivera",
+       "orcid": null
+      }
+     ],
+     "resumen": "La democracia constitucional contemporánea se caracteriza por la articulación entre el principio democrático y el principio de limitación del poder. En este modelo, la legitimidad derivada de la voluntad popular coexiste con un conjunto de garantías institucionales y jurisdiccionales destinadas a proteger los derechos fundamentales, preservar la división de poderes y asegurar la supremacía constitucional. El presente trabajo analiza tres reformas recientes del orden jurídico mexicano: la reforma constitucional al Poder Judicial de la Federación de 2024, la reforma constitucional en materia de inimpugnabilidad de las reformas constitucionales del mismo año y la reforma a la Ley de Amparo de 2025. A partir de ello, se sostiene que dichas reformas no constituyen modificaciones aisladas, sino expresiones de un proceso más amplio de reconfiguración de las garantías propias de la democracia constitucional mexicana. El estudio parte de la teoría de la democracia constitucional desarrollada principalmente por Luigi Ferrajoli. Desde esta perspectiva, se sostiene que la consolidación de la democracia constitucional mexicana fue resultado de un proceso de fortalecimiento institucional desarrollado principalmente entre la reforma judicial de 1994 y la reforma constitucional de derechos humanos de 2011, periodo durante el cual se ampliaron los mecanismos de control constitucional, se fortaleció la independencia judicial y se consolidaron diversos órganos de garantía. A partir del análisis de las reformas estudiadas, se argumenta que existe una tensión creciente entre el paradigma de la democracia constitucional y una concepción predominantemente mayoritaria de la democracia, en la que la legitimidad electoral tiende a desplazar los mecanismos institucionales de limitación del poder. Aunque dichas reformas no eliminan por sí mismas el carácter constitucional del régimen mexicano, sí modifican algunos de los instrumentos que históricamente habían permitido sujetar el ejercicio del poder político a controles jurídicos efectivos.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.5944/ts.2026.49954",
+     "doi": "10.5944/ts.2026.49954",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.5944/ts.2026.49941",
+     "titulo": "Narrativas sintéticas. Inteligencia artificial, dogmatismos y nuevas ontologías de la conspiración",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Asja Fior",
+       "orcid": null
+      },
+      {
+       "nombre": "Sebastiano Nucera",
+       "orcid": "https://orcid.org/0000-0003-4429-0313"
+      }
+     ],
+     "resumen": "La transición hacia una estructura comunicativa y mediática dominada por la inteligencia artificial generativa representa una de las fracturas epistemológicas actuales más profundas y, en cierto sentido, desestabilizantes. Las narrativas conspirativas, entendidas históricamente por las ciencias sociales como dispositivos heurísticos para la reducción de la incertidumbre y la racionalización de eventos sistémicos complejos (Douglas et al., 2019), han encontrado en las estructuras algorítmicas un catalizador inesperado y potente. Este trabajo, en las intenciones de los autores, funge tanto como introducción teórica a las contribuciones reunidas en este monográfico como marco analítico parcial que explora el impacto multidimensional de la inteligencia artificial en la producción, personalización, distribución e interiorización del desorden informativo. La hipótesis que atraviesa los ensayos aquí presentados es que la inteligencia artificial no opera solamente como un mero instrumento de automatización al servicio de actores más o menos malintencionados, sino como una verdadera y propia infraestructura capaz de redefinir los límites mismos de la verosimilitud. Los sistemas algorítmicos, en efecto, alteran profundamente los regímenes de verdad sobre los que se fundan las sociedades democráticas, erosionando la confianza institucional y desintermediando la relación entre el ciudadano y la realidad. Superando las dicotomías tradicionales entre “verdadero” y “falso”, aquello a lo que asistimos es una era caracterizada por la “plausibilidad sintética”, donde la coherencia formal y la fluidez lingüística de la máquina sustituyen a la realidad. El propósito de este trabajo es mapear, aunque de manera no exhaustiva, dicha complejidad, trazando un hilo lógico que una las innovaciones técnicas de los modelos lingüísticos de gran tamaño (LLM) con las dinámicas de la precarización del individuo. A través del diálogo continuo con los ensayos que componen el monográfico se delineará latopografía de una \"infocracia\" (Han, 2022) en la que la desinformación ya no es una anomalía del sistema sino un producto infraestructural de este.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.5944/ts.2026.49941",
+     "doi": "10.5944/ts.2026.49941",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.5944/ts.2026.49955",
+     "titulo": "Paradigmas y modelos de gobernanza laboral en México: mecanismos de cumplimiento suaves desde la lógica del consumo",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Carlos Chávez Becker",
+       "orcid": "https://orcid.org/0000-0002-1967-7324"
+      },
+      {
+       "nombre": "Julieta Martínez Cuero",
+       "orcid": "https://orcid.org/0000-0001-7226-0512"
+      },
+      {
+       "nombre": "Alma Patricia De León Calderón",
+       "orcid": null
+      }
+     ],
+     "resumen": "En un contexto globalizado, en el que la producción y el consumo están determinados por complejas interconexiones, la gobernanza laboral se configura en espacios trasnacionales donde actores públicos y privados inciden en la regulación y ordenamiento del trabajo mediante normas estatales, marcos jurídicos internacionales, acuerdos entre actores sociales y estándares privados impulsados por corporaciones y organismos multilaterales. El presente artículo tiene como objetivo principal mostrar diversas formas de gobernanza, colaboración y timoneo de acciones en México en las últimas décadas, coordinadas a diferentes niveles por actores externos a las relaciones contractuales, recurriendo al marco analítico de la gobernanza laboral orientado al consumo. En el texto se concluye que la regulación del trabajo tiene lugar en un sistema multinivel, en el que el Estado ha perdido centralidad y poder mientras surgen otras formas, privadas y voluntarias, de incidir en la organización y supervisión de las relaciones laborales.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.5944/ts.2026.49955",
+     "doi": "10.5944/ts.2026.49955",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.5944/ts.2026.49949",
+     "titulo": "Personalización algorítmica, persuasión digital y alimentación en Instagram: percepciones de la juventud española desde la perspectiva de la inteligencia artificial",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Elisa Vázquez Trejo",
+       "orcid": null
+      },
+      {
+       "nombre": "Raquel Rebeca Cordero Verdugo",
+       "orcid": "https://orcid.org/0000-0002-1087-2094"
+      },
+      {
+       "nombre": "Jorge Ramiro Pérez Suárez",
+       "orcid": "https://orcid.org/0000-0002-5589-2830"
+      }
+     ],
+     "resumen": "La incorporación de sistemas de inteligencia artificial en las plataformas digitales está transformando los mecanismos de producción, distribución y consumo de información relacionados con la alimentación y la salud. En redes sociales como Instagram, la combinación entre algoritmos de recomendación, personalización de contenidos e inteligencia artificial generativa favorece la circulación de mensajes altamente persuasivos, capaces de reforzar creencias previas, amplificar discursos pseudocientíficos y facilitar la difusión de narrativas vinculadas a la nutrición, la imagen corporal y el bienestar. El objetivo general de este trabajo es explorar cómo determinadas dinámicas presentes en Instagram, especialmente aquellas asociadas a la personalización algorítmica, la recomendación automatizada de contenidos y los mecanismos de persuasión digital descritos en la literatura sobre inteligencia artificial, pueden contribuir a la difusión y legitimación de información relacionada con laalimentación y la salud entre la juventud española. Para ello, se examinan los principales mecanismos de influencia digital descritos en la literatura científica reciente sobre algoritmos, economía de la atención, desinformación y persuasión automatizada, incorporando evidencia empírica obtenida a partir de una muestra de N=265 jóvenes españoles de entre 15 y 35 años. Los resultados ponen de manifiesto la existencia de dinámicas digitales que pueden favorecer la eficacia de las estrategias de persuasión basadas en inteligencia artificial. La presencia de procesos de comparación social, la exposición continuada a modelos idealizados de salud y apariencia física, la percepción de contenidos visualmente manipulados y la creciente personalización de la experiencia informativa constituyen elementos que en ocasiones facilitan la circulación de narrativas sobre alimentación y bienestar. En este contexto, la inteligencia artificial emerge no como un fenómeno aislado, sino como una tecnología capaz de intensificar mecanismos de influencia ya presentes en el entorno digital mediante la automatización, la hipersegmentación y la adaptación personalizada de los mensajes. Los hallazgos sugieren que la inteligencia artificial no introduce dinámicas completamente nuevas en los procesos de influencia digital relacionados con la alimentación y la salud, sino que amplifica narrativas ya presentes en las redes sociales mediante una segmentación más precisa, una mejor sistematización a través de creación de contenidos visuales y narrativos cada vez más difíciles de distinguir de la realidad. En consecuencia, resulta necesario promover competencias de alfabetización digital y algorítmica que permitan a los jóvenes identificar contenidos potencialmente engañosos y reducir la vulnerabilidad frente a procesos de desinformación relacionados con la alimentación y la salud.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.5944/ts.2026.49949",
+     "doi": "10.5944/ts.2026.49949",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.5944/ts.2026.49945",
+     "titulo": "Reabrir el loop entre el ser humano y la IA La agencia encarnada como antídoto contra el cierre epistémico",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Josephine Condemi",
+       "orcid": "https://orcid.org/0009-0004-5892-2830"
+      }
+     ],
+     "resumen": "Esta contribución teórica propone el retorno a la agencia encarnada como una forma de reabrir el bucle humano-IA que fomenta el cierre epistémico y las narrativas conspirativas. Al integrar la fenomenología enactiva, los estudios sobre medios de comunicación y la sociología del conocimiento, entiende el conspiracionismo como una narrativa predictiva que reduce la incertidumbre al atribuir agencia a sistemas invisibles, lo que da lugar a un sistema autorreferencial en el que el acoplamiento del organismo con su entorno se reduce a confirmar la narrativa totalizadora. Mientras que la interacción enactiva se ve limitada por resistencias no negociables que hacen que el error sea corregible, el bucle humano- IA es un acoplamiento cibernético y basado en plataformas en el que la resistencia del mundo está mediada y el error se reabsorbe en el lenguaje. Los entornos digitales y la IA generativa funcionan como una infraestructura de cierre, ocupando con adulación estructural y confianza parasocial el vacío dejado por la crisis institucional. Utilizar la IA como falsificadora presupone un sujeto ya dispuesto a buscar la grieta en una narrativa: una capacidad formada a través del conocimiento tácito, el encuentro físico y las prácticas colectivas encarnadas. Dado que estas condiciones están distribuidas de forma desigual, el cierre epistémico se convierte en una cuestión de estratificación social, de acceso y uso desiguales.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.5944/ts.2026.49945",
+     "doi": "10.5944/ts.2026.49945",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.5944/ts.2026.49946",
+     "titulo": "Slopaganda: la nueva gramática de la desinformación en la era de la inteligencia artificial generativa",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "María José Vicente Vicente",
+       "orcid": "https://orcid.org/0000-0002-7962-0362"
+      }
+     ],
+     "resumen": "Este artículo analiza el impacto de la inteligencia artificial generativa en la producción y circulación de narrativas conspirativas contemporáneas. Mediante una metodología cualitativo-documental basada en informes de inteligencia, investigaciones periodísticas y estudios académicos (2023-2026), se examina cómo la IA generativa transforma la creación, personalización y difusión de contenidos conspirativos en contextos de conflicto híbrido y desestabilización democrática. Los resultados evidencian cuatro transformaciones fundamentales: la industrialización de la producción conspirativa mediante automatización audiovisual, la personalización algorítmica que adapta narrativas a vulnerabilidades psicológicas específicas, la emergencia de la slopaganda como categoría orientada a saturar el ecosistema informativo y la instrumentalización de chatbots como falsas autoridades verificadoras que refuerzan sesgos conspirativos. Se documentan asimismo las limitaciones de los marcos tradicionales de ciberseguridad y alfabetización mediática. De esta manera, se dispone que la IA generativa erosiona cualitativamente los fundamentos epistémicos de la verificabilidad, planteando desafíos inéditos para la seguridad cognitiva democrática.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.5944/ts.2026.49946",
+     "doi": "10.5944/ts.2026.49946",
+     "paginas": null,
+     "fuente": "Crossref"
+    }
+   ]
+  },
+  {
+   "id": "v1-n15-2026",
+   "volumen": "1",
+   "numero": "15",
+   "anio": 2026,
+   "fecha": "2026-02-03",
+   "etiqueta": "Vol. 1, núm. 15 (2026)",
+   "fuente": "Crossref",
+   "articulos": [
+    {
+     "id": "10.5944/ts.2026.47751",
+     "titulo": "Competencias digitales e integración profesional: el papel mediador de la percepción de la seguridad y los riesgos en línea",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Liliana Da Costa Faria",
+       "orcid": "https://orcid.org/0000-0001-8510-552X"
+      },
+      {
+       "nombre": "Raquel Rebeca Cordero Verdugo",
+       "orcid": "https://orcid.org/0000-0002-1087-2094"
+      },
+      {
+       "nombre": "Jorge Ramiro Pérez Suárez",
+       "orcid": "https://orcid.org/0000-0002-5589-2830"
+      }
+     ],
+     "resumen": "La alfabetización digital se ha convertido en una de las competencias profesionales más importantes en el mercado laboral. El objetivo de esta investigación con estudiantes universitarios es analizar cómo perciben sus competencias digitales y cómo se relacionan con su futura incorporación al mercado laboral. Además, pretende estudiar el efecto mediador de las percepciones de seguridad y riesgos en línea en la relación entre las competencias digitales y la integración profesional. La muestra está compuesta por N= 383 estudiantes de primer ciclo de educación superior portuguesa. Los resultados respaldan la hipótesis de que la percepción de poseer competencias digitales puede influir en la integración profesional. Los resultados sugieren que las percepciones de seguridad y riesgo en línea parecen mediar la relación entre las competencias digitales y la inclusión laboral en este grupo de estudio. Se exploran las posibles implicaciones prácticas de estos hallazgos, como la importancia de desarrollar no solo competencias digitales, sino también estrategias para promover un entorno en línea seguro. Se analizará la relevancia de estos hallazgos para las políticas educativas y formativas. El objetivo es capacitar a los estudiantes universitarios para los desafíos del mundo digital y del mercado laboral moderno, desarrollando tanto sus competencias digitales como su resiliencia psicológica.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.5944/ts.2026.47751",
+     "doi": "10.5944/ts.2026.47751",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.5944/ts.2026.47755",
+     "titulo": "Construcción de identidades múltiples en la adolescencia: hacia una identidad posidentitaria en el entorno digital",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Cristina Díez Bajo",
+       "orcid": "https://orcid.org/0000-0003-0695-1053"
+      }
+     ],
+     "resumen": "Este artículo se deriva de una investigación doctoral desarrollada en el marco del Programa de Doctorado en Educación de la Universidad Nacional de Educación a Distancia (UNED). El estudio se centra en la construcción de identidades múltiples en adolescentes en el entorno digital. A partir de un marco teórico que define cinco tipologías identitarias (auténtica, falsa, narcisista, camaleónica y perdida), se aplica una metodología mixta que combina sesiones grupales con adolescentes, cuestionarios (analizados mediante técnicas de conglomerados con SPSS) y entrevistas a expertos. Los resultados evidencian una tendencia creciente hacia formas de subjetividad fragmentadas y desancladas, lo que permite conceptualizar la emergencia de una identidad posidentitaria, caracterizada por la disolución funcional del yo, la pérdida de continuidad interna y la dependencia de estructuras externas de validación en entornos digitales. Estos hallazgos invitan a repensar los procesos identitarios en la adolescencia contemporánea y proponen la necesidad de una intervención pedagógica consciente ante los desafíos del ecosistema digital.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.5944/ts.2026.47755",
+     "doi": "10.5944/ts.2026.47755",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.5944/ts.2026.47764",
+     "titulo": "De la controversia a la narrativa colectiva: Análisis cualitativo de las reacciones en redes sociales ante el accidente de tránsito de Yoongi (SUGA) de BTS bajo influencia del alcohol",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Nicolle Dayanna Páramo Capacho",
+       "orcid": "https://orcid.org/0009-0008-6820-775X"
+      },
+      {
+       "nombre": "Valeria Valdelamar Garzón",
+       "orcid": "https://orcid.org/0009-0000-3004-0175"
+      }
+     ],
+     "resumen": "Este artículo analiza las reacciones e interacciones en redes sociales ante el incidente de 2024 del integrante de BTS, Yoongi (SUGA), quien sufrió un accidente bajo los efectos del alcohol, generando una ola de ciberacoso y una serie de debates enplataformas digitales. Se examinaron imágenes y textos de las plataformas X (Twitter), Instagram, Facebook y TikTok. El estudio de enfoque cualitativo utilizó análisis temático inductivo para la selección de la temática y se analizaron las imágenes y textos a través de la plataforma QCAmap. El objetivo del estudio es analizar cómo este evento detonó actos de ciberacoso y debates públicos en plataformas digitales, explorando el rol de los fanáticos y las dinámicas de interacción digital en la construcción de narrativas colectivas. Los resultados muestran tres formas predominantes de burla hacia el artista: la sátira (crítica humorística del hecho), la parodia (exageración de elementos simbólicos relacionados con el caso) y el insulto (ataques que buscan descalificar al artista). Asimismo, se encontraron tres ejes principales en el debate público, cuestionamiento a la justicia surcoreana, cobertura mediática y la opinión pública. El estudio concluye que el incidente provocó discusiones que demuestran cómo las interacciones digitales construyen narrativas colectivas.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.5944/ts.2026.47764",
+     "doi": "10.5944/ts.2026.47764",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.5944/ts.2026.47766",
+     "titulo": "Del blockbuster a la película-evento: impacto en la taquilla española contemporánea",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Alberto Hoyos García-Calvo",
+       "orcid": "https://orcid.org/0009-0008-8876-0325"
+      }
+     ],
+     "resumen": "El presente artículo analiza la transformación del modelo hegemónico en la industria cinematográfica, marcada por el paso del blockbuster tradicional a la actual “era de las películas—evento”. El objetivo es identificar los factores que explican el declive del blockbuster como fórmula dominante y examinar cómo las películas—evento se han consolidado como nuevo eje de atracción masiva en la taquilla española. Para ello, se emplea una metodología mixta: un enfoque cuantitativo para el análisis comparativo de datos de taquilla y uno cualitativo centrado en el estudio de caso de Del revés 2. Los resultados evidencian un cambio significativo en las dinámicas de exhibición y consumo: estas películas concentran grandes recursos, apelan a la espectacularidad y la nostalgia y generan experiencias colectivas. El artículo también analiza las implicaciones culturales y económicas de esta transición, mostrando cómo estas producciones han reconfigurado el papel del cine contemporáneo, tanto en su dimensión comercial como en su valor simbólico y cultural.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.5944/ts.2026.47766",
+     "doi": "10.5944/ts.2026.47766",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.5944/ts.2026.47771",
+     "titulo": "Gutiérrez-Rubí, Antoni: Polarización, soledad y algoritmos. Una radiografía de las nuevas generaciones",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Aitor Fernández Rodríguez",
+       "orcid": "https://orcid.org/0000-0002-5756-8161"
+      }
+     ],
+     "resumen": "Polarización, soledad y algoritmos. Una radiografía de las nuevas generaciones (2025) de Antoni Gutiérrez-Rubí es una contribución esencial para comprender a la generación z. La obra desvela las complejas barreras que dividen a los jóvenes entre ellos y con generaciones anteriores. El libro subraya la ansiedad y el pesimismo derivados de la precarización económica, lo que lleva a muchos jóvenes a dudar de sus perspectivas de futuro.También analiza la brecha de género y la influencia creciente de discursos antisistema en todo el mundo, respaldados especialmente por varones jóvenes. El autor destaca cómo la autenticidad y la capacidad de \"hablar el idioma\" de la generación z son cruciales para la comunicación política. En suma, la obra es una fotografía que invita a una reflexión profunda para superar las barreras existentes y construir puentes hacia un futuro más equitativo.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.5944/ts.2026.47771",
+     "doi": "10.5944/ts.2026.47771",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.5944/ts.2026.47767",
+     "titulo": "Impactos de las infiltraciones policiales sobre los movimientos sociales madrileños",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Alexandre Méaude",
+       "orcid": "https://orcid.org/0009-0003-1714-5572"
+      }
+     ],
+     "resumen": "Este estudio examina los impactos de la infiltración policial en los movimientos sociales de Madrid durante la última década, analizando cómo estas prácticas afectan al derecho a la protesta, las dinámicas internas y la capacidad de acción colectiva. A partir de una metodología cualitativa —que combina entrevistas semiestructuradas, observación participante y grupos de discusión con activistas de distintos movimientos—, la investigación identifica tres dimensiones principales del daño. En primer lugar, se constata un profundo trauma psicosocial, asociado a desconfianza, ansiedad colectiva y dinámicas de manipulación emocional. En segundo lugar, se observa una tendencia a la fragmentación organizativa, expresada en el cierre de espacios de decisión, la autocensura y el debilitamiento de la cohesión interna. Finalmente, se documentan diversas estrategias de resistencia, como protocolos de seguridad horizontales, redes de apoyo transnacional y formación política orientada al cuidado. El estudio concluye que la infiltración constituye una forma estructural de represión que demanda regulación legal específica, así como marcos integrales de apoyo y protección de la disidencia democrática.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.5944/ts.2026.47767",
+     "doi": "10.5944/ts.2026.47767",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.5944/ts.2026.47769",
+     "titulo": "La medición de las actitudes sociales hacia las no monogamias consensuadas en España",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Ignacio Elpidio Domínguez Ruiz",
+       "orcid": "https://orcid.org/0000-0002-8236-5163"
+      }
+     ],
+     "resumen": "Measuring social attitudes toward consensual nonmonogamy in Spain",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.5944/ts.2026.47769",
+     "doi": "10.5944/ts.2026.47769",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.5944/ts.2026.47753",
+     "titulo": "Modelo organizacional basado en la colaboración: fortalecimiento del trabajo en equipo en Instituciones de Educación Superior",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Fidel Giovanni Lemus Ramírez",
+       "orcid": "https://orcid.org/0009-0000-8537-8181"
+      },
+      {
+       "nombre": "Edgar René Vázquez González",
+       "orcid": "https://orcid.org/0000-0002-8845-2460"
+      }
+     ],
+     "resumen": "El funcionamiento de las instituciones se ha visto impactado por profundas transformaciones económicas, políticas y sociales que caracterizan el entorno contemporáneo. En este contexto, las Instituciones de Educación Superior (IES) desempeñan un papel estratégico en dichos procesos; sin embargo, enfrentan desafíos que exigen la reconfiguración de sus modelos organizativos para asegurar su sostenibilidad. Ante esta necesidad, el presente estudio propone un modelo de organización fundamentado en la cultura del trabajo en equipo, con el objetivo de fortalecer la eficiencia y la colaboración en el desempeño de las tareas y responsabilidades institucionales. Para sustentar esta propuesta, se realizó una revisión exhaustiva de la literatura y se diseñó un instrumento aplicado a trabajadores de una IES, lo que permitió analizar la relación entre los factores que integran el modelo y validar su confiabilidad. Los hallazgos evidencian la pertinencia del instrumento y confirman su potencial para mejorar la gestión organizacional. En consecuencia, se plantea que este estudio constituye una contribución significativa al desarrollo de modelos organizativos innovadores y se espera su aplicación en otras instituciones, a fin de corroborar su funcionalidad y ampliar su alcance.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.5944/ts.2026.47753",
+     "doi": "10.5944/ts.2026.47753",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.5944/ts.2026.47768",
+     "titulo": "Principios matemáticos de la sociología económica",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Jerónimo López López",
+       "orcid": "https://orcid.org/0009-0009-9329-2869"
+      }
+     ],
+     "resumen": "Este artículo propone la formalización matemática de los principios fundamentales de la sociología económica aplicada a contextos emocionales, integrando herramientas matemáticas como la teoría de grafos, sistemas dinámicos, la topología social, la teoría de juegos no monetaria y la estadística aplicada a las relaciones humanas. Desde una crítica a la escasa modelización formal en la literatura sociológica en contextos económicos, se pretende presentar un marco analítico que permita representar y simular la dinámica de las relaciones humanas y sociales en contextos económicos no monetarios, donde la afectividad, la reciprocidad y el poder simbólico representa la parte central en nuestro análisis. El modelo busca superar la dicotomía entre lo cualitativo y lo cuantitativo, ofreciendo una vía de análisis para la predicción de comportamientos sociales complejos. El artículo concluye con una reflexión sobre las implicaciones teóricas y metodológicas de esta propuesta para el desarrollo de una sociología económica más precisa y empíricamente rigurosa.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.5944/ts.2026.47768",
+     "doi": "10.5944/ts.2026.47768",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.5944/ts.2026.47770",
+     "titulo": "Siempre-ON: autocontrol y disponibilidad permanente con el smartphone. Una nota de investigación foucaultiana",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Lucía Mendoza Ruiz",
+       "orcid": "https://orcid.org/0009-0006-1818-6554"
+      }
+     ],
+     "resumen": "El smartphone se ha convertido en una tecnología cotidiana que media la atención, el tiempo y la sociabilidad. Este trabajo, desde un enfoque foucaultiano, examina cómo prácticas corrientes de autorregulación digital (medirse, imponerse límites, mantener rachas, responder de forma inmediata) configuran microdisciplinas interiorizadas. Se realiza un análisis cualitativo de documentación pública referente a funciones de bienestar digital de los principales sistemas móviles (guías y pantallas de configuración) y a materiales explicativos de aplicaciones de hábitos basadas en rachas. A partir de esta lectura se deriva un esquema categorial con cinco dimensiones —medirme, limitarme, estar disponible, recompensa/castigo suave y autoexigencia productiva— que se aplica a viñetas analíticas (casos verosímiles construidos ad hoc para ejemplificar situaciones de uso cotidianas). Los hallazgos apuntan a la configuración de un régimen de autogobierno mediado por métricas y mecanismos de diseño persuasivo, que introduce tensiones entre autonomía y autoexigencia, y entre autocuidado y autocoerción disciplinaria. Se discuten implicaciones para el bienestar digital, la norma de disponibilidad permanente y el derecho a la desconexión, y se plantea una agenda de investigación orientada a la contrastación empírica de estas hipótesis.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.5944/ts.2026.47770",
+     "doi": "10.5944/ts.2026.47770",
+     "paginas": null,
+     "fuente": "Crossref"
+    }
+   ]
+  },
+  {
+   "id": "v2-n7-2025",
+   "volumen": "2",
+   "numero": "7",
+   "anio": 2025,
+   "fecha": "2025-06-26",
+   "etiqueta": "Vol. 2, núm. 7 (2025)",
+   "fuente": "Crossref",
+   "articulos": [
+    {
+     "id": "10.5944/ts.2021.45432",
+     "titulo": "Análisis del impacto de los comentarios publicados en la red social Twitter en relación con los debates electorales celebrados en el año 2019",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Álex Costa Escuredo",
+       "orcid": "https://orcid.org/0000-0002-1424-364X"
+      }
+     ],
+     "resumen": "El modelo comunicativo de la política ha evolucionado con la irrupción de las redes sociales, donde Twitter desempeña un papel clave en la discusión electoral. Este estudio analiza el impacto de los debates electorales de 2019 en Twitter, evaluando las reacciones de la audiencia y las funciones predominantes de los comentarios. El objetivo principal es examinar la respuesta de los usuarios a los debates televisados, identificando diferencias en la percepción de los candidatos y la influencia de la cercanía ideológica. Para ello, se analizaron 2387 tuits extraídos mediante Export Comments, descartando contenido generado por bots y medios institucionales. Los datos fueron procesados con IBM SPSS Statistics. Los resultados muestran que la función sentenciadora con imagen descortés predominó en los comentarios, con variaciones según el debate: en abril, Rivera fue el candidato más criticado, seguido de Casado y Sánchez; en noviembre, Rivera y Sánchez lideraron las menciones negativas, mientras Iglesias destacó por su imagen cortés. Además, se observó que la polarización afectiva no generó un apoyo claro a los candidatos ideológicamente afines, sino un rechazo más marcado hacia los opositores. En el ciclo electoral de abril, Ciudadanos y el PP fueron objeto de críticas mutuas, mientras que en noviembre, con la inclusión de Vox, la dinámica cambió. En conclusión, Twitter refuerza la polarización política, donde el discurso negativo prevalece sobre la promoción de candidatos, favoreciendo una confrontación ideológica en el entorno digital.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.5944/ts.2021.45432",
+     "doi": "10.5944/ts.2021.45432",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.5944/ts.2021.45431",
+     "titulo": "Centenario de la obra La opinión pública (1922), de Walter Lippmann. Un recorrido por la extensión y vigencia del concepto",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Asja Fior",
+       "orcid": "https://orcid.org/0000-0002-3743-2099"
+      }
+     ],
+     "resumen": "En este estudio se realiza una revisión del concepto de Opinión Pública a partir de la obra La opinión pública (1922) de Walter Lippmann, con el objetivo doble de estudiar su tratamiento desde diversas teorías de la comunicación y reflexionar sobre su definición, composición y relevancia actual. La investigación se estructura en siete apartados en los que se recuerdan las tesis principales tesis de la obra que nos ocupa, así como quién era y cómo ha sido considerado Walter Lippmann en el ámbito de la comunicación política.A continuación, se contextualiza tanto a la obra como al autor en el marco cultural de su época y se establecen analogías con teorías anteriores. El propósito del tercer apartado es el de definir el concepto de Opinión Pública y rastrear su origen. Mientras que en elcuarto apartado se abre con la intención de dedicar al menos unas líneas a explicar el concepto de “estereotipo”, popularizado por Lippmann y tan importante en los estudios sociológicos y de comunicación. A continuación, se expondrán algunas de las teorías y autores más representativos de la Mass Communication Research y se señalará la influencia de Lippmann y la obra que nos atañe en ellas. Finalmente, nos detendremos a analizar la extensión del concepto Opinión Pública y se intentará responder a las preguntas ¿dónde está la Opinión Pública hoy?, ¿cómo y en qué espacios se configura? En las conclusiones se intentará argumentar que se ha producido y se está produciendo un cambio sustancial tanto en la definición y representación que tenemos de la Opinión Pública como en el proceso de comunicación a través del cual se gesta.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.5944/ts.2021.45431",
+     "doi": "10.5944/ts.2021.45431",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.5944/ts.2021.45427",
+     "titulo": "Implicaciones físicas, psicológicas-emocionales y sociales ante el nuevo consumo de ficción desde las series",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Marta Carrión Sánchez",
+       "orcid": "https://orcid.org/0000-0002-2685-2549"
+      },
+      {
+       "nombre": "Leticia Porto Pedrosa",
+       "orcid": "https://orcid.org/0000-0003-1306-5471"
+      }
+     ],
+     "resumen": "En la era de las plataformas digitales, donde los contenidos se seleccionan bajo demanda y mediante suscripción, han surgido nuevos modos de consumo mediático. Visionados más largos, continuados y, en algunos casos con un componente compulsivo, en un entorno mediático fragmentado, donde la atención se divide entre múltiples dispositivos. Todo ello hace que términos como el binge-watching emerjan con fuerza como un fenómeno característico del consumo mediático contemporáneo. Este artículo analiza estos nuevos patrones de consumo de ficción, identificando sus principales tendencias y efectos sobre el bienestar físico, psicológico-emocional y social a partir de una revisión de la literatura hasta 2020. Los hallazgos evidencian que el visionado prolongado y maratoniano puedeinfluir en la salud mental y física, afectando el estado emocional, el descanso y los niveles de actividad, así como generar cambios en las dinámicas sociales y en la forma en que los individuos se relacionan. Asimismo, se subraya la importancia de la prevención y la alfabetización mediática como estrategias clave para mitigar los posibles efectos negativos. No obstante, se destaca la necesidad de un enfoque contextualizado que considere factores personales y ambientales para comprender mejor la complejidad de estos comportamientos.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.5944/ts.2021.45427",
+     "doi": "10.5944/ts.2021.45427",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.5944/ts.2021.45428",
+     "titulo": "Inteligencias múltiples, educación en valores y los objetivos de desarrollo sostenible. Análisis desde una perspectiva social e interdisciplinar",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Cristina Chavarría Pérez",
+       "orcid": "https://orcid.org/0000-0002-6340-5262"
+      },
+      {
+       "nombre": "Esther Ruiz Simón",
+       "orcid": "https://orcid.org/0000-0002-5174-5438"
+      }
+     ],
+     "resumen": "El presente artículo aborda la relación entre educación en valores, inteligencias múltiples y los Objetivos de Desarrollo Sostenible (ODS) desde una perspectiva interdisciplinar, transdisciplinar y transversal. Partiendo de la premisa de que los retos sociales, éticos y ambientales que enfrenta la humanidad requieren respuestas educativas integrales y complejas, se argumenta que la teoría de las inteligencias múltiples (Gardner, 1983, 1999) ofrece una base pedagógica sólida para promover aprendizajes significativos, inclusivos y vinculados a la realidad global. Asimismo, se deja ver la necesidad de integrar los valores universales presentes en los ODS dentro de una educación que articule distintas disciplinas y saberes. Se analiza cómo la interdisciplinariedad y la transversalidad constituyenenfoques pedagógicos imprescindibles para conectar los contenidos impartidos en las aulas con los grandes desafíos de la sociedad actual. Finalmente, se destaca el papel fundamental del profesorado como mediador en este proceso, enfatizando la urgencia de un cambio educativo profundo que contribuya a la formación de ciudadanos críticos, comprometidos y capaces de actuar de manera ética en un mundo diverso y complejo.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.5944/ts.2021.45428",
+     "doi": "10.5944/ts.2021.45428",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.5944/ts.2021.45429",
+     "titulo": "La dimensión social de la colonización: educación y responsabilidad social en América",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "María Isabel De la Rubia Rivas",
+       "orcid": "https://orcid.org/0000-0002-4574-1094"
+      }
+     ],
+     "resumen": "Es un hecho claro que la conquista y colonización de América fue uno de los procesos más relevantes y traumáticos de la historia que desembocó en el surgimiento de una “leyenda negra” que tiñó la intencionalidad y las medidas propias del proceso, de maldad deliberada y exclusivo interés económico. Sin embargo, desde los primeros momentos en los que se es consciente de su relevancia, se tomaron medidas que nos ponen sobre la pista de un interés humanista en el proceso de colonización. Huelga decir que no justificamos ni ignoramos el hecho de que se produjeran abusos y comportamientos perjudiciales para los habitantes de América. Dicho esto, consideraremos importante reflexionar sobre aquellos procedimientos o instituciones que buscaron su preservación o cuidado. Desde este paradigma, planteamos la posibilidad de, sin anacronismos, considerar la presencia de la responsabilidad social educativa en las iniciativas y motivaciones impulsadas por las instituciones castellanas para la uniformización y educación. Así, revisaremos brevemente las propuestas más importantes, de dónde surgieron y cuáles fueron los objetivos perseguidos en materia social y educativa.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.5944/ts.2021.45429",
+     "doi": "10.5944/ts.2021.45429",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.5944/ts.2021.45701",
+     "titulo": "La representación fotográfica de la pobreza infantil en El País y El Mundo durante la crisis financiera",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "María San Felipe Frías",
+       "orcid": null
+      },
+      {
+       "nombre": "Miguel Vicente Mariño",
+       "orcid": null
+      }
+     ],
+     "resumen": "La pobreza infantil cuestiona los fundamentos del estado de bienestar al poner de relieve su incapacidad para garantizar los derechos de quienes, por su edad, carecen de recursos para ejercerlos. La protección del menor resulta prioritaria para alcanzar la justicia social y hacer posible la transmisión del legado intergeneracional. Desde la perspectiva teórica de la ética del sufrimiento mediado, este artículo analiza la representación visual de la pobreza infantil mediante un análisis del contenido gráfico publicado en los dos principales diarios de información general en España (El País y El Mundo) durante un periodo de crisis financiera (2010-2014) en el que muchos de los derechos sociales y económicos se vieron amenazados y recortados. Los resultados demuestran que la pobreza infantil cuenta con una presencia marginal en la agenda periodística, ya que la infancia rara vez es la protagonista, tanto del relato como del retrato. También se aprecia un tratamiento diferente en función del escenario fotografiado, con mayor respeto por las implicaciones éticas cuando la población menor procede del entorno más cercano.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.5944/ts.2021.45701",
+     "doi": "10.5944/ts.2021.45701",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.5944/ts.2021.45434",
+     "titulo": "Levi, Simona: Fake you: Fake news y desinformación. Rayo Verde Editorial, S.L., 2019, 224 páginas, ISBN: 9788417925062.",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Iban Albizu Rivas",
+       "orcid": "https://orcid.org/0009-0002-0063-0435"
+      }
+     ],
+     "resumen": "En la sociedad actual donde la sobrecarga informativa es más abundante que nunca debido al auge de las innovaciones digitales, cada vez se vuelve más difícil discernir los hechos de las opiniones y las noticias verdaderas de las falsas. Desde 2017, el término de fake news ha trastocado el concepto clásico de desinformación, trasladándolo incluso a una confrontación bélica dentro del panorama político, lo que casi se ha convertido en un asunto de Estado. Esta cuestión es abordada por Simona Levi en “Fake you: fake news y desinformación”, un estudio que desgrana sus orígenes, sus métodos de acción y sus objetivos finales, con un lenguaje claro y conciso, mediante ejemplos específicos que transmiten las principales ideas de forma sugerente y original.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.5944/ts.2021.45434",
+     "doi": "10.5944/ts.2021.45434",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.5944/ts.2021.45430",
+     "titulo": "Transporte público en el contexto Covid: comunicación y recuperación de la demanda",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "José Carlos Cámara Molina",
+       "orcid": "https://orcid.org/0009-0006-2762-1618"
+      }
+     ],
+     "resumen": "Durante los últimos meses, la llegada del Covid-19 ha transformado radicalmente la vida social en todo el mundo. En este escenario, la movilidad ha sufrido severas restricciones como consecuencia del confinamiento. En particular, el transporte público se ha visto obligado a adoptar duras medidas, como el distanciamiento social, la obligatoriedad de llevar máscara y estrictos protocolos de higiene y limpieza. Aunque las empresas operadoras se han mostrado diligentes en estas prácticas, el transporte público ha sido estigmatizado como foco de contagio, lo que requerirá actuaciones en materia de comunicación para recuperar la confianza de las personas usuarias. El presente trabajo revisa la literatura existente en torno a la movilidad durante la pandemia, recogiendo visiones diversas sobre el papel que va a desempeñar la movilidad sostenible tras la salida de esta crisis.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.5944/ts.2021.45430",
+     "doi": "10.5944/ts.2021.45430",
+     "paginas": null,
+     "fuente": "Crossref"
+    }
+   ]
+  }
+ ]
+}

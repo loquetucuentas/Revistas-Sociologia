@@ -1,0 +1,1401 @@
+// Copia de revistas/1988-0847.json para abrir la aplicación sin servidor.
+(window.DATOS_REVISTAS = window.DATOS_REVISTAS || {})["revistas/1988-0847.json"] = {
+ "version": 1,
+ "generado": "2026-11-02T05:12:34+00:00",
+ "es_prueba": false,
+ "revista": {
+  "id": "1988-0847",
+  "titulo": "Sortuz",
+  "idioma_titulo": null,
+  "titulo_alternativo": "Sortuz: Oñati Journal of Emergent Socio-Legal Studies",
+  "idioma_titulo_alternativo": null,
+  "idiomas": [
+   "eu",
+   "fr",
+   "es",
+   "en",
+   "pt"
+  ],
+  "issn_impreso": null,
+  "issn_electronico": "1988-0847",
+  "editorial": "Oñati International Institute for the Sociology of Law",
+  "pais": "ES",
+  "materias": [
+   "Sociology (General)",
+   "Law"
+  ],
+  "palabras_clave": [
+   "socio-legal",
+   "sociology of law",
+   "law",
+   "international law"
+  ],
+  "licencias": [
+   {
+    "nombre": "CC BY 4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+   }
+  ],
+  "url": "https://opo.iisj.net/index.php/sortuz/index",
+  "url_doaj": "https://doaj.org/toc/1988-0847",
+  "descripcion": null,
+  "fuente_ficha": "DOAJ",
+  "archivo": "revistas/1988-0847.json",
+  "ultimo_numero": "Vol. 16, núm. 2 (2026)",
+  "fuente_numeros": "Crossref"
+ },
+ "numeros": [
+  {
+   "id": "v16-n2-2026",
+   "volumen": "16",
+   "numero": "2",
+   "anio": 2026,
+   "fecha": "2026-10-29",
+   "etiqueta": "Vol. 16, núm. 2 (2026)",
+   "fuente": "Crossref",
+   "articulos": [
+    {
+     "id": "10.35295/sz.iisl.2388",
+     "titulo": "A evolução histórica do tratamento de menores infratores no Brasil",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Felipe Nicolau Pimentel Alamino",
+       "orcid": "https://orcid.org/0000-0002-8221-6897"
+      },
+      {
+       "nombre": "Fabrício De Martino Costa e Silva",
+       "orcid": "https://orcid.org/0009-0004-7757-208X"
+      }
+     ],
+     "resumen": "Este trabalho busca mapear, a partir da revisão bibliográfica e documental, os principais instrumentos jurídicos aplicados pelo Estado no tratamento de menores infratores no Brasil. Pretende-se, a partir do método dedutivo em pesquisa qualitativa, refletir se as aplicações adotadas pelo país através de três séculos de encarceramento, tratamento e ressocialização de menores em situação de vulnerabilidade foram responsáveis pela perpetuação de desigualdades sociais, levando em consideração os atuais dados carcerários nacionais. Sustenta-se que a concepção do menor como sujeito de direitos é uma ideia moderna e formalizada de forma robusta somente após a inserção do Estatuto da Criança e do Adolescente (ECA) no cenário jurídico, na década de 1990. Em outros termos, compreender o histórico jurídico do tema é fundamental para o enfrentamento das dificuldades que hoje se apresentam na ressocialização de crianças e adolescentes em situação de vulnerabilidade.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.35295/sz.iisl.2388",
+     "doi": "10.35295/sz.iisl.2388",
+     "paginas": "347-365",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.35295/sz.iisl.2435",
+     "titulo": "O conhecimento tradicional e a ciência convencional na elaboração do marco legal da biodiversidade",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Thiago Guedes Andrade Ezequiel",
+       "orcid": "https://orcid.org/0000-0002-4647-213X"
+      },
+      {
+       "nombre": "Marcos Vinício Chein Feres",
+       "orcid": "https://orcid.org/0000-0001-5045-3436"
+      }
+     ],
+     "resumen": "O marco legal da biodiversidade regulamenta o acesso ao patrimônio e ao conhecimento tradicional associado e a repartição de benefícios para uso da biodiversidade no Brasil. Tal acesso ao patrimônio genético é definido como uma pesquisa ou desenvolvimento tecnológico realizado sobre amostra de informação de origem genética natural. Sendo o conhecimento tradicional um conjunto de saberes e práticas transmitidas oralmente por gerações, o trabalho busca compreender como os variados graus de participação de setores diferenciados da sociedade civil no processo legislativo demonstram as relações de proximidade entre direito e ciência convencional? Para isso, parte-se da observação dos dados da tramitação do Projeto de Lei nº 7.735/2014 no Congresso Nacional para obter indicações da participação dos diferentes setores da sociedade civil, indústria, academia e comunidades tradicionais. Assim, conclui-se que os interesses da comunidade científica formal e da indústria se sobrepuseram aos dos detentores do conhecimento tradicional.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.35295/sz.iisl.2435",
+     "doi": "10.35295/sz.iisl.2435",
+     "paginas": "366-385",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.35295/sz.iisl.2572",
+     "titulo": "From legal consciousness to systems theory",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Ha Nguyen",
+       "orcid": "https://orcid.org/0000-0003-1647-9514"
+      }
+     ],
+     "resumen": "Socio-legal scholars have greatly favoured the theory of legal consciousness. Some have advocated for more studies of law in Asian societies to adopt legal consciousness theory. Others argued that such application would be deemed inappropriate and bring adverse effects to socio-legal scholarship. This paper argues that the theoretical design of legal consciousness has three crucial shortcomings, and the revised systems theory can overcome these shortcomings with greater potential to advance the socio-legal scholarship. One, systems theory can overcome the rule of law problem by focusing on discourse rather than law. Two, the ubiquitous law problem can be overcome by the conception of law as communication offered by systems theory. Three, the individual focus problem can be redressed by the intersubjective focus required by systems theory’s theoretical design. It is time to reconsider the revised version of systems theory for the advancement of socio-legal studies.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.35295/sz.iisl.2572",
+     "doi": "10.35295/sz.iisl.2572",
+     "paginas": "386-411",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.35295/sz.iisl.2585",
+     "titulo": "Protección de los derechos de los administrados y sostenibilidad en decisiones automatizadas",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Pedro Jesús Jiménez Vargas",
+       "orcid": null
+      }
+     ],
+     "resumen": "La integración de los sistemas automatizados en las decisiones administrativas es un reto jurídico en España, y en la Unión Europeo; estas herramientas que utilizan algoritmos e inteligencia artificial buscan decisiones más rápidas y eficientes a la vez que generan una gran preocupación tanto para los ciudaudanos, como la administración, si las tecnologías se aplican sin las debidas garantías jurídicas. Este estudio se examina el tema desde el derecho administrativo español analizando los principios del derecho administrativo y como estos se relacionan con leyes sobre la automatización administrativa; se evaluará si el sistema español está preparado para incorporar decisiones tomadas por los sistemas automatizados extendiendo el análisis a Europa considerando el Reglamento Europeo de Protección de Datos, sentencias del Tribunal de Justicia de la Unión Europea y las nuevas normas sobre inteligencia artificial",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.35295/sz.iisl.2585",
+     "doi": "10.35295/sz.iisl.2585",
+     "paginas": "412-430",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.35295/sz.iisl.2601",
+     "titulo": "Who, indeed, is the lawmaker?",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Chiavelli Falavigno",
+       "orcid": "https://orcid.org/0000-0002-7264-2171"
+      }
+     ],
+     "resumen": "This paper discusses the influence of international bodies on national criminal policy, analyzing the case of FATF (Financial Action Task Force) intervention in Latin America's AML (Anti-money laundering) legislation and regulation. The first part of the paper contextualizes the controversial aspects of the creation and operation of FATF. Based on this framework, an empirical methodology is applied to measure how much FATF’s influence can be realized in the Latin American AML system. The data collection uses three different criteria: chronological, normative/content, and legislative-process focused. Documentation, legislation, and regulation were analyzed. The geographical approach includes the countries that are part of FATF’s regional body, the Financial Action Task Force of Latin America (GAFILAT). Finally, the conclusion highlights the need for greater transparency and accountability in FATF’s activities to allow control and genuine participation, once its influence is decisive in determining the region’s AML criminal policy.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.35295/sz.iisl.2601",
+     "doi": "10.35295/sz.iisl.2601",
+     "paginas": "431-460",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.35295/sz.iisl.2584",
+     "titulo": "¿Culpable?",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Carolina González Laurino",
+       "orcid": "https://orcid.org/0000-0003-2910-5861"
+      }
+     ],
+     "resumen": "Este artículo analiza la confesión como elemento autoincriminatorio que «agiliza» la justicia penal juvenil uruguaya mediante «condenas sin juicio» en el período 2020-2024. El trabajo de campo se sustenta en entrevistas en profundidad a todos los operadores de los Juzgados Letrados de Adolescentes de Montevideo y dos del área metropolitana. A las dudas generadas por la aplicación «apresurada» del sistema acusatorio, se suma la resistencia de los operadores a la pérdida de garantías procesales para los imputados y la carencia en la formación en el nuevo sistema, que adquiere mayor visibilidad en el interior del país, donde la justicia no es especializada y, cuyos fallos e incongruencias son señalados por los operadores de Montevideo.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.35295/sz.iisl.2584",
+     "doi": "10.35295/sz.iisl.2584",
+     "paginas": "461-480",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.35295/sz.iisl.2624",
+     "titulo": "Etiquetamiento, desviación y control social",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Federico Caetano",
+       "orcid": "https://orcid.org/0000-0001-9929-2311"
+      }
+     ],
+     "resumen": "Este artículo analiza los aportes de la teoría del etiquetamiento al desarrollo de la criminología crítica, con énfasis en sus resignificaciones y usos analíticos en América Latina, y particularmente en el espacio rioplatense. Se sostiene que esta perspectiva inauguró un giro epistemológico decisivo al desplazar la etiología del delito desde las explicaciones psicologizantes hacia la centralidad de la reacción social, permitiendo una problematización de la selectividad penal como un eslabón estructural —y no excepcional— del funcionamiento del sistema penal. A partir de la obra de Howard Becker, se propone una lectura heurística de los tres momentos de la reacción social —generación de normas, aplicación institucional y tratamiento del individuo— para examinar los procesos de estigmatización, desviación secundaria y reproducción de la exclusión. En diálogo con la criminología crítica latinoamericana, el artículo muestra cómo el etiquetamiento ha nutrido análisis sustantivos sobre la criminalización de la pobreza, el populismo penal, la violencia institucional, la función performativa de las agendas mediáticas en la producción del miedo y el papel del saber experto en la producción de identidades institucionalizadas., contribuyendo a una comprensión situada de las gramáticas contemporáneas del control social.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.35295/sz.iisl.2624",
+     "doi": "10.35295/sz.iisl.2624",
+     "paginas": "481-501",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.35295/sz.iisl.2641",
+     "titulo": "A socio-institutional perspective on data protection in the Brazilian public sector",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Marco Antonio Loschiavo Leme de Barros",
+       "orcid": "https://orcid.org/0000-0001-9465-8783"
+      },
+      {
+       "nombre": "Ana Rita De Figueiredo Nery",
+       "orcid": "https://orcid.org/0000-0003-3037-7864"
+      }
+     ],
+     "resumen": "This paper presents a study on the implementation of Brazil’s General Data Protection Law within the public sector, with a specific focus on the São Paulo State Court of Justice. Through a survey-based research the paper discusses how public agents interpret, internalize, and operationalize the data protection legislation in their institutional routines. From a socio-institutional perspective, the study analyzes how legal compliance is shaped by organizational culture, hierarchical structures, cognitive schemas, and technological infrastructure. This perspective engages with the sociological framework of Pierre Bourdieu to conceptualize the State as a structured field in which agents’ positions, trajectories, and resources shape patterns of normative adherence. The results reveal heterogeneous patterns of adherence to data protection norms, conditioned by role-specific perspectives, institutional maturity, and sociotechnical factors. The paper demonstrates the relevance of the survey not merely as a diagnostic instrument but also as a reflexive mechanism capable of mapping the symbolic and behavioral landscape of legal implementation.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.35295/sz.iisl.2641",
+     "doi": "10.35295/sz.iisl.2641",
+     "paginas": "502-530",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.35295/sz.iisl.2565",
+     "titulo": "Ethical change, legal normativity and social legitimacy",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Georgia Chioni",
+       "orcid": "https://orcid.org/0009-0008-4339-056X"
+      }
+     ],
+     "resumen": "This article examines organizational change in enterprises as a socio-legal process rather than a purely technical or managerial transformation. Drawing on the sociology of law and business ethics, it explores how legal norms, ethical expectations and institutional pressures shape the legitimacy of organizational change. The analysis adopts an interdisciplinary theoretical approach, engaging with the work of Luhmann, Bourdieu, Cotterrell, Habermas and institutional theory. Enterprises are conceptualized as social actors embedded in broader legal, cultural and normative environments, where ethical discourse functions both as a mechanism of control and a source of legitimacy. The article argues that organizational change involves processes of moral and legal legitimation through which enterprises negotiate social acceptance and institutional continuity. By framing organizational transformation as a socio-legal phenomenon, it contributes to law and society scholarship by demonstrating how legal structures and ethical norms jointly shape the conditions under which organizational change becomes legitimate, socially intelligible and sustainable.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.35295/sz.iisl.2565",
+     "doi": "10.35295/sz.iisl.2565",
+     "paginas": "531-549",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.35295/sz.iisl.2775",
+     "titulo": "Merit-based recruitment in the prosecutor’s office system",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Volodymyr Zarosylo",
+       "orcid": "https://orcid.org/0000-0002-9572-7530"
+      },
+      {
+       "nombre": "Marina Tsymbal",
+       "orcid": "https://orcid.org/0009-0000-9980-4663"
+      },
+      {
+       "nombre": "Vasyl Kopcha",
+       "orcid": "https://orcid.org/0000-0001-9888-1464"
+      },
+      {
+       "nombre": "Vitaly Zarosylo",
+       "orcid": "https://orcid.org/0000-0003-3151-3581"
+      },
+      {
+       "nombre": "Vadym Vlad",
+       "orcid": "https://orcid.org/0000-0002-7180-8096"
+      }
+     ],
+     "resumen": "This article provides a comprehensive analysis of the interview as a stage in the selection and transfer of prosecutors to higher-level prosecution authorities in Ukraine. The aim is to identify mechanisms of subjectivity during the interview process. The research combines regulatory and legal analysis, comparative analysis of international practices, and empirical research through an expert survey (n=15). The findings indicate that the interview is the most vulnerable stage of prosecutor selection regarding subjective influence. A moderate correlation (r=0.62) was identified between subjectivity assessment and the significance of the first-impression factor, confirming the systemic impact of cognitive biases on candidate evaluation. The article substantiates the transition to a hybrid selection model combining standardized psychometric methods, automated testing, and situational tasks. Such tools, when properly validated, can reduce subjectivity, increase result reproducibility, and support more justified personnel decisions. The scientific novelty lies in integrating legal and psychological approaches, while practical significance concerns improving prosecution personnel policy and strengthening trust in the justice system.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.35295/sz.iisl.2775",
+     "doi": "10.35295/sz.iisl.2775",
+     "paginas": "550-571",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.35295/sz.iisl.2749",
+     "titulo": "Cárcel y violencia en Chile",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Jörg Alfred Stippel",
+       "orcid": "https://orcid.org/0009-0001-1467-7907"
+      },
+      {
+       "nombre": "Valentina Frómeta Gutierrez",
+       "orcid": "https://orcid.org/0000-0001-9321-0928"
+      },
+      {
+       "nombre": "Alicia Alonso Merino",
+       "orcid": "https://orcid.org/0000-0002-0047-2361"
+      }
+     ],
+     "resumen": "Este artículo analiza, desde una perspectiva de género, datos estadísticos sobre violencia intracarcelaria en Chile entre 2018 y 2024, utilizando datos oficiales del sistema penitenciario. Mediante un análisis descriptivo y correlacional, se identifican diferencias en los niveles y formas de violencia entre cárceles masculinas y femeninas. En los recintos masculinos predominan formas más graves y letales, como agresiones con armas y homicidios, mientras que en los femeninos se registran mayores niveles de riñas, agresiones físicas y violencia hacia el personal penitenciario. Se identifican también diferencias significativas en la prevalencia de agresiones sexuales y en las dinámicas de registro. El estudio plantea que las estadísticas penitenciarias no solo reflejan la violencia \"real\", sino también prácticas institucionales permeadas por sesgos de género. Se concluye que es necesario incorporar una perspectiva de género en la política penitenciaria, fortalecer la capacitación del personal y mejorar los sistemas de registro.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.35295/sz.iisl.2749",
+     "doi": "10.35295/sz.iisl.2749",
+     "paginas": "572-602",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.35295/sz.iisl.2714",
+     "titulo": "Justicia climática",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Iván Vargas-Chaves",
+       "orcid": "https://orcid.org/0000-0001-6597-2335"
+      },
+      {
+       "nombre": "Diego Hernández-Guzmán",
+       "orcid": "https://orcid.org/0000-0002-4475-9487"
+      }
+     ],
+     "resumen": "El objetivo de este trabajo es sintetizar las bases conceptuales, las variaciones regionales y las implicaciones políticas de la justicia climática, a fin de identificar brechas en la literatura actual. Para ello, se llevó a cabo una revisión sistemática siguiendo el protocolo PRISMA, en la que se analizaron 27 estudios seleccionados de ocho bases de datos académicas tras un proceso de filtrado de 1.057 registros iniciales. Los resultados indican un aumento de la producción científica a partir de 2020, con un enfoque predominante en las dimensiones políticas y sociales. Asimismo, los análisis regionales revelan que el Sur Global prioriza las reparaciones y la soberanía, mientras que el Norte Global se centra en la equidad intergeneracional. En conclusión, persiste una desconexión entre los marcos teóricos y la ejecución efectiva de las políticas y programas educativos, por lo que resulta necesario integrar la justicia de manera práctica en la gobernanza climática global.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.35295/sz.iisl.2714",
+     "doi": "10.35295/sz.iisl.2714",
+     "paginas": "603-624",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.35295/sz.iisl.2667",
+     "titulo": "Indeterminación del interés superior del niño en el razonamiento judicial estereotipado sobre idoneidad parental",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Fernando A. Ramos-Zaga",
+       "orcid": "https://orcid.org/0000-0001-6301-9460"
+      }
+     ],
+     "resumen": "El artículo analiza la relevancia decisoria de los estereotipos de género, sexualidad y parentalidad en la valoración judicial de la idoneidad parental conforme al principio del interés superior del niño. Parte de la indeterminación normativa de este principio y examina cómo su apertura interpretativa puede favorecer prácticas de normalización familiar y la incorporación de premisas estereotipadas en el razonamiento probatorio. La metodología empleada es de carácter sociojurídico, con orientación crítica, enfoque cualitativo y diseño documental-jurisprudencial. Se examinan estándares internacionales de derechos humanos, jurisprudencia interamericana y aportes de la teoría de la argumentación probatoria, el constitucionalismo feminista y la perspectiva biopolítica. El análisis muestra que los estereotipos pueden operar como máximas de experiencia, premisas inferenciales implícitas o criterios periciales. A partir de ello, se propone un marco de control basado en igualdad sustantiva, antisubordinación, derecho al cuidado, motivación reforzada, control de convencionalidad y exigencias probatorias centradas en conductas individualizadas y daños acreditados.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.35295/sz.iisl.2667",
+     "doi": "10.35295/sz.iisl.2667",
+     "paginas": "625-642",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.35295/sz.iisl.2830",
+     "titulo": "Acceso al trabajador social en cárceles chilenas",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Guillermo Sanhueza",
+       "orcid": "https://orcid.org/0000-0003-1971-7362"
+      },
+      {
+       "nombre": "Johana Michea",
+       "orcid": "https://orcid.org/0009-0002-4791-1736"
+      }
+     ],
+     "resumen": "El trabajo social desempeña un papel relevante en los sistemas penitenciarios al vincular a las personas privadas de libertad con servicios, programas, redes de apoyo y procesos de preparación para el egreso. Sin embargo, existe escasa evidencia empírica acerca de las condiciones asociadas con el acceso efectivo a estos profesionales durante el encarcelamiento, particularmente en América Latina. Este artículo examina factores institucionales y relacionales asociados con el acceso al trabajo social en cárceles chilenas. Se utilizaron datos del cuestionario Measuring Quality of Prison Life (MQPL), aplicado a 1.159 personas condenadas en 20 establecimientos penitenciarios distribuidos en las 16 regiones de Chile. El análisis principal, basado en 1.005 casos completos, muestra asociaciones positivas entre acceso al trabajo social y acceso a psicología, asistencia a la escuela penal, apoyo del personal penitenciario, responsividad administrativa y percepción de estar saliendo adelante durante el encarcelamiento; la percepción de mayor consumo de drogas presenta una asociación negativa. El modelo OLS explica aproximadamente 53% de la varianza (R² ajustado = .532). Un modelo logístico ordinal de robustez reproduce la dirección y significación estadística de las seis asociaciones. Los resultados sugieren que el acceso al trabajo social no constituye un fenómeno aislado, sino que se encuentra relacionado con una ecología institucional más amplia de servicios, relaciones y funcionamiento penitenciario. Se discuten implicaciones para la organización de servicios penitenciarios en Chile y para futuras investigaciones comparativas.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.35295/sz.iisl.2830",
+     "doi": "10.35295/sz.iisl.2830",
+     "paginas": "643-663",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.35295/sz.iisl.2928",
+     "titulo": "Agotamiento emocional, consumo de sustancias y malestar psicológico en estudiantes del Máster de acceso al ejercicio de la Abogacía",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Luis Bueno Ochoa",
+       "orcid": null
+      },
+      {
+       "nombre": "Sergio Guntín Mareque",
+       "orcid": "https://orcid.org/0009-0007-7394-3439"
+      },
+      {
+       "nombre": "Francisca Fariña Rivera",
+       "orcid": null
+      },
+      {
+       "nombre": "Dolores Seijo Martínez",
+       "orcid": "https://orcid.org/0000-0001-7655-338X"
+      }
+     ],
+     "resumen": "Se estudia la relación entre el agotamiento emocional (burnout), el consumo de sustancias y el malestar psicológico en estudiantes del Máster de Acceso a la Abogacía. Más específicamente, se analiza la capacidad predictiva del agotamiento emocional sobre la sintomatología afectiva, así como la relación entre el síndrome de burnout, el consumo de sustancias (alcohol y drogas) y el malestar emocional evaluado mediante indicadores de sintomatología de depresión, ansiedad y estrés. Los resultados demuestran, en relación con la capacidad predictiva del modelo, que los estudiantes del Máster de Abogacía constituyen un colectivo especialmente vulnerable al agotamiento emocional y al malestar psicológico. En contraste, el consumo problemático de sustancias fue reducido y mostró una contribución limitada a la explicación del malestar psicológico. Dichos resultados son coherentes con el enfoque de la justicia terapéutica (therapeutic jurisprudence), al poner de relieve que el bienestar psicológico no debería constituir únicamente un propósito/meta del objetivo del ejercicio profesional, sino también un objetivo explícito de la formación jurídica universitaria.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.35295/sz.iisl.2928",
+     "doi": "10.35295/sz.iisl.2928",
+     "paginas": "664-687",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.35295/sz.iisl.2747",
+     "titulo": "Between mandate and reality",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Vaibhav Shrivastava",
+       "orcid": null
+      },
+      {
+       "nombre": "Trapti Aggarwal",
+       "orcid": null
+      }
+     ],
+     "resumen": "In 2014, the Supreme Court of India, in the case of Laxmi vs. Union of India, had instructed all the state governments to provide a minimum compensation of Rs. 3 lakhs to the acid attack survivors. This article examines the requirement and questions its fulfilment. The article highlights the ongoing gap in the implementation of State Victim Compensation (SVC) schemes across four Indian states (Delhi, Maharashtra, Uttar Pradesh, and West Bengal) over the past decade (2014-2025) by systematically analysing 37 reported cases, SVC scheme schedules, and NALSA disbursal data. Based on the socio-legal theories of Pound, Galanter, and Felstiner et al. and a brief comparative analysis with the United Kingdom and Bangladesh, the paper concludes that the difference is due to a structural deficiency of legal institutionalization. Three proposals for targeted reforms are put forward.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.35295/sz.iisl.2747",
+     "doi": "10.35295/sz.iisl.2747",
+     "paginas": "688-704",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.35295/sz.iisl.2738",
+     "titulo": "Review of Liberalismo Jurídico: uma discussão sobre Direito e escravidão no Brasil oitocentista (Legal Liberalism: A Discussion of Law and Slavery in Nineteenth-Century Brazil). Thaís Duarte. 1st ed. Mackenzie University Press, 2025",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Waleska Miguel Batista",
+       "orcid": "https://orcid.org/0000-0001-6700-9577"
+      },
+      {
+       "nombre": "Julio Cesar De Oliveira Vellozo",
+       "orcid": "https://orcid.org/0000-0003-0030-0997"
+      }
+     ],
+     "resumen": null,
+     "idioma_resumen": null,
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.35295/sz.iisl.2738",
+     "doi": "10.35295/sz.iisl.2738",
+     "paginas": "705-712",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.35295/sz.iisl.2994",
+     "titulo": "Review of Managing Religion and Religious Changes in Iran: A Socio-Legal Analysis. Sajjad Adeliyan Tous and James T. Richardson. Cambridge University Press, 2024.",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Hassan Alipour",
+       "orcid": null
+      }
+     ],
+     "resumen": null,
+     "idioma_resumen": null,
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.35295/sz.iisl.2994",
+     "doi": "10.35295/sz.iisl.2994",
+     "paginas": "713-715",
+     "fuente": "Crossref"
+    }
+   ]
+  },
+  {
+   "id": "v16-n1-2026",
+   "volumen": "16",
+   "numero": "1",
+   "anio": 2026,
+   "fecha": "2026-04-20",
+   "etiqueta": "Vol. 16, núm. 1 (2026)",
+   "fuente": "Crossref",
+   "articulos": [
+    {
+     "id": "10.35295/sz.iisl.2664",
+     "titulo": "Introduction",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Senny Luckyardi",
+       "orcid": "https://orcid.org/0000-0001-9954-7433"
+      }
+     ],
+     "resumen": null,
+     "idioma_resumen": null,
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.35295/sz.iisl.2664",
+     "doi": "10.35295/sz.iisl.2664",
+     "paginas": "1-4",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.35295/sz.iisl.2409",
+     "titulo": "Law enforcement of cyber terrorism crimes in strengthening national data security from the perspective of Indonesian positive law",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Karina Frity Rahmasari",
+       "orcid": null
+      },
+      {
+       "nombre": "Al Pink Saputra Napitupulu",
+       "orcid": null
+      },
+      {
+       "nombre": "Anida Nadyana Novauzyah",
+       "orcid": null
+      },
+      {
+       "nombre": "Sahat Maruli Tua Situmeang",
+       "orcid": "https://orcid.org/0009-0003-6893-3958"
+      }
+     ],
+     "resumen": "Cyberterrorism is a contemporary form of crime that exploits information technology to threaten national data security and public welfare. This study aims to assess the effectiveness of Indonesian positive law in addressing cyber terrorism and to evaluate its Impact on critical national infrastructure, such as transportation, energy, and public services, which may result in substantial financial losses and operational disruptions. This study was conducted descriptively and analytically, systematically describing existing facts through a normative legal approach, utilizing laws and regulations as primary data. The study reveals the absence of specific laws that explicitly regulate cyberterrorism crimes, resulting in legal uncertainty and enforcement challenges. Accordingly, it is imperative to reinforce the legal framework and enhance international collaboration to address this threat effectively.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.35295/sz.iisl.2409",
+     "doi": "10.35295/sz.iisl.2409",
+     "paginas": "5-24",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.35295/sz.iisl.2408",
+     "titulo": "Legal review of e-commerce",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Hetty Hassanah",
+       "orcid": "https://orcid.org/0009-0006-0612-951X"
+      },
+      {
+       "nombre": "Safina Rama Dewi",
+       "orcid": null
+      }
+     ],
+     "resumen": "Advances in information technology have facilitated the digitalization of several industries, including trade, by enabling more efficient communication and data exchange. Previous research has shown that the expansion of e-commerce presents legal challenges, particularly in terms of the application of exemption clauses by commercial actors. Therefore, the expansion of digital commerce must be consistent with the principles set out in Law Number 7 of 2014 concerning Trade and Law Number 11 of 2008 concerning Electronic Information and Transactions (ITE), as amended by Law Number 19 of 2016 and Law Number 1 of 2024. Both regulations provide the legal basis that must be implemented to provide fairness and legal certainty in e-commerce transactions. This study takes a normative legal approach and incorporates qualitative legal analysis of relevant legal standards. The research presented provides a critical perspective on the need for appropriate and enforceable legislative restrictions to protect the interests of all parties involved in e-commerce.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.35295/sz.iisl.2408",
+     "doi": "10.35295/sz.iisl.2408",
+     "paginas": "25-39",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.35295/sz.iisl.2405",
+     "titulo": "Revitalizing Pancasila values in the digital era in preventing moral decadence of the younger generation",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Muhammad Satria Fitrah Putradipradja",
+       "orcid": null
+      },
+      {
+       "nombre": "Wishal Adya Jatmika",
+       "orcid": null
+      },
+      {
+       "nombre": "Sahat Maruli Tua Situmeang",
+       "orcid": "https://orcid.org/0009-0003-6893-3958"
+      }
+     ],
+     "resumen": "This study examines the revitalization of Pancasila values in the digital era as a strategic framework for strengthening moral and civic awareness among Indonesian youth. Amid rapid technological development and globalization, national identity, social cohesion, and ethical values face increasing challenges. Using a descriptive-analytical method with a conceptual and normative legal approach, the study explores how digital transformation influences moral reasoning, social behavior, and national consciousness. The revitalization of Pancasila is implemented through digital literacy programs, ethical education, and civic engagement reflecting the principles of humanity, unity, democracy, and social justice. Grounded in the 1945 Constitution and Law No. 20 of 2003 on the National Education System, the study highlights the importance of integrating civic, moral, and digital ethics education. It also identifies digital threats such as misinformation, cyberbullying, and online radicalization. A multi-sectoral strategy involving government, educators, and digital communities is proposed to strengthen ethical awareness and ideological resilience among youth.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.35295/sz.iisl.2405",
+     "doi": "10.35295/sz.iisl.2405",
+     "paginas": "40-50",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.35295/sz.iisl.2416",
+     "titulo": "The legal journey of indigenous belief systems in Indonesia",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Wahyudi",
+       "orcid": null
+      },
+      {
+       "nombre": "Hetty Hassanah",
+       "orcid": null
+      }
+     ],
+     "resumen": "A persistent gap exists between Indonesia’s constitutional guarantee of religious freedom and the practical realities for adherents of indigenous belief systems, presenting a critical socio-legal dilemma. Employing normative legal analysis and policy review, this article traces the legal evolution of this contradiction. It examines the translation of constitutional and international guarantees into legislation and jurisprudence, revealing regulatory conflicts that perpetuate systemic discrimination in civil administration. The study identifies The Constitutional Court Decision No. 97/PUU-XIV/2016 as a pivotal mandate for equal recognition. However, analysis demonstrates that a significant implementation gap persists due to regulatory ambiguities and socio-cultural stigma. The findings argue that fulfilling the constitutional rights of believers necessitates sustained state commitment to legal clarity, non-discriminatory administration, and an inclusive interpretation of Pancasila, contributing to broader discourses on socio-legal inclusion and pluralism.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.35295/sz.iisl.2416",
+     "doi": "10.35295/sz.iisl.2416",
+     "paginas": "51-69",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.35295/sz.iisl.2411",
+     "titulo": "Enforcement of the universality principle in combating cybercrime as a transnational crime",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Sahat Maruli Tua Situmeang",
+       "orcid": "https://orcid.org/0009-0003-6893-3958"
+      },
+      {
+       "nombre": "Elvina Rahma Kamilia",
+       "orcid": null
+      },
+      {
+       "nombre": "Nurul Lutfiyah",
+       "orcid": null
+      },
+      {
+       "nombre": "Dinda Marshanda Aurora",
+       "orcid": null
+      }
+     ],
+     "resumen": "Cybercrime, as a borderless, technologically advanced transnational threat exemplified by ransomware and cross-border intrusions, challenges territorially bound criminal jurisdiction. This article investigates whether universal jurisdiction applies to cybercrime under current international law and evaluates the Budapest Convention's role in jurisdictional challenges. Using normative juridical methods with doctrinal and comparative approaches, it analyzes international instruments, criminal law principles, and scholarly views. Findings reveal cybercrime lacks universal jurisdiction status in positive law; the Budapest Convention promotes territorial and extraterritorial jurisdiction via domestic law harmonization and cooperation, not universality. Conflating universal and extraterritorial jurisdiction breeds doctrinal confusion and uncertainty. The study advocates clearer distinctions between these bases to bolster legal certainty and aid enforcement against transnational cybercrime.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.35295/sz.iisl.2411",
+     "doi": "10.35295/sz.iisl.2411",
+     "paginas": "70-88",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.35295/sz.iisl.2422",
+     "titulo": "Integration of Islamic law and customary law and its application in the Indonesia legal system: Opportunities and challenges",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Wahyudi",
+       "orcid": null
+      },
+      {
+       "nombre": "Abdurrauf Umar",
+       "orcid": null
+      }
+     ],
+     "resumen": "This study aims to examine how the integration of Islamic law (syariah) and customary law (adat) occurs within Indonesia’s legal system and to identify the opportunities and challenges arising from this integration. Employing a literature based approach and normative socio legal analysis, the research draws on constitutional, legislative, and judicial sources, supplemented by qualitative case studies from regions such as Aceh, West Sumatra, Bali, and Papua. The findings indicate that while there is significant potential for harmonization particularly through locally grounded dispute resolution mechanisms and hybrid legal practices structural and normative obstacles persist, including institutional fragmentation, normative conflicts in areas like inheritance, and human rights concerns. The study concludes that meaningful integration requires deliberate legal frameworks, inclusive policymaking, and legal education that embraces normative diversity. This research contributes to the broader understanding of legal pluralism in Indonesia and underscores the importance of recognizing diverse legal traditions to foster a more inclusive and culturally responsive justice system.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.35295/sz.iisl.2422",
+     "doi": "10.35295/sz.iisl.2422",
+     "paginas": "89-111",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.35295/sz.iisl.2407",
+     "titulo": "Comparison of penal mediation regulations in the criminal justice system of Indonesia and other countries",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Musa Darwin Pane",
+       "orcid": "https://orcid.org/0000-0002-2004-9309"
+      },
+      {
+       "nombre": "Bettina Meiser",
+       "orcid": "https://orcid.org/0000-0002-5086-0784"
+      },
+      {
+       "nombre": "Diah Pudjiastuti",
+       "orcid": "https://orcid.org/0009-0008-0761-4255"
+      }
+     ],
+     "resumen": "Penal mediation is a formal victim–offender mediation mechanism embedded in the criminal justice process and grounded in restorative justice principles. While several European countries, such as Germany, France, Austria, Poland, and especially the Netherlands, have introduced penal mediation through specific statutory provisions, professional accreditation schemes, and dedicated mediation institutions, Indonesia still relies on fragmented administrative regulations at the police and prosecutorial level without a comprehensive legislative basis. This article compares the institutional design and legal authority of penal mediation frameworks in Indonesia and selected European jurisdictions, with particular emphasis on the Dutch model. Using a normative–juridical approach combined with structured comparative socio‑legal analysis, it examines three analytical dimensions: (1) legal basis and scope of application, (2) institutional architecture and mediator accreditation, and (3) procedural safeguards for victims and offenders. The study finds that Indonesia’s current reliance on Police Regulation No. 8 of 2021 and Prosecutor Regulation No. 15 of 2020 produces discretionary and uneven practices, whereas the Dutch system integrates penal mediation across all stages of proceedings under a clear statutory and institutional framework. The article’s original contribution lies in specifying the structural conditions under which elements of the Dutch model could be transplanted, in a context‑sensitive way, into Indonesia’s pluralistic legal system to enhance consistency, legitimacy, and public trust in penal mediation.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.35295/sz.iisl.2407",
+     "doi": "10.35295/sz.iisl.2407",
+     "paginas": "112-131",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.35295/sz.iisl.2412",
+     "titulo": "The impact of Article 1131 of the Civil Code on individual bankruptcy in Indonesia",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Christopher Panal Lumban Gaol",
+       "orcid": null
+      },
+      {
+       "nombre": "Maidin Gultom",
+       "orcid": null
+      }
+     ],
+     "resumen": "Indonesia’s bankruptcy process does not set a specific time limit for the sale of assets, including bankruptcy bonds, which are the responsibility of the curator. This condition does not create further legal consequences for a Limited Liability Company, as once declared bankrupt, the legal entity is legally deemed to no longer exist (rechtspersoon disbanded). It differs from individual debtors, who remain legal entities but are unable to engage in new business activities during the bankruptcy process. This study employs a normative juridical method, combining a statutory and conceptual approach, to examine the provisions of Article 1131 of the Civil Code, relevant legal principles, and doctrines in bankruptcy law. This approach enables analysis of the possibility that future assets may be included in the bankruptcy estate, which could hinder the economic recovery of individual debtors. Therefore, it is necessary to further regulate the norm through additional provisions in the Bankruptcy Law.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.35295/sz.iisl.2412",
+     "doi": "10.35295/sz.iisl.2412",
+     "paginas": "132-158",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.35295/sz.iisl.2410",
+     "titulo": "The implementation of the Convention on the Rights of Persons with Disabilities (CRPD) as a pathway to realize inclusive tourism at West Bandung Regency",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Febilita Wulan Sari",
+       "orcid": null
+      },
+      {
+       "nombre": "Rino Adibowo",
+       "orcid": null
+      }
+     ],
+     "resumen": "This study aims to explore opportunities and equal rights for persons with disabilities to enjoy and participate in tourism activities in West Bandung Regency as part of Indonesia’s ratification of CRPD. This is a descriptive-analytical study using a qualitative methodology with normative juridical approach and a juridical qualitative technique for the data analysis. The West Bandung Regency Government implements the CRPD through adoption two regional regulations: Regional Regulation No. 2 of 2022 on Respect, Protection, and Fulfillment of the Rights of Persons with Disabilities and Regional Regulation No. 7 of 2013 on the Organization of Regional Tourism in West Bandung Regency. The study reveals that implementation so far has mostly been at the legal-formal level and has not yet been fully carried out in practice. Stronger collaboration is needed between local and national governments, along with active community participation.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.35295/sz.iisl.2410",
+     "doi": "10.35295/sz.iisl.2410",
+     "paginas": "159-176",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.35295/sz.iisl.2326",
+     "titulo": "Vacío jurídico y transgresión de derechos en las técnicas de reproducción asistida en Perú",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Cesar Augusto Rivera Paredes",
+       "orcid": "https://orcid.org/0000-0002-1043-8247"
+      },
+      {
+       "nombre": "Diana Milagros Dueñas Roque",
+       "orcid": "https://orcid.org/0000-0003-3462-6530"
+      }
+     ],
+     "resumen": "La investigación tiene por finalidad analizar las contrariedades que causa el vacío jurídico en las Técnicas de Reproducción Asistida (TRA) en el Perú y su relación con la transgresión de los derechos fundamentales de quienes buscan acceder a estos procedimientos. Se aplicó una encuesta a 100 letrados, 50 profesionales de la salud y 25 candidatos a TRA, evaluando las variables, vacío jurídico respecto a las TRA y transgresión al no positivizar legislativamente las TRA, con dimensiones vinculadas al derecho a la salud reproductiva y al derecho a la familia. Los resultados del coeficiente de Sperman, evidencian una relación positiva entre las variables en letrados (rho= 0.688) y profesionales de la salud, así como una relación positiva muy alta en candidatos a TRA (rho= 0.893). Con 99% de confianza se concluye que la ausencia de regulación incide directamente en la transgresión de derechos fundamentales, generando incertidumbre jurídica y afectación de derechos.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.35295/sz.iisl.2326",
+     "doi": "10.35295/sz.iisl.2326",
+     "paginas": "177-203",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.35295/sz.iisl.2332",
+     "titulo": "La constitución, el estado de derecho y los autoritarismos",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Rogelio Pérez Perdomo",
+       "orcid": null
+      }
+     ],
+     "resumen": "En su concepción original la constitución distribuye el poder político y pone límites a quienes lo ejercen y, a la vez, garantiza los derechos de los ciudadanos. Para un conjunto de países esto ha dado lugar al desarrollo del estado de derecho y la democracia. Por lo contrario, los regímenes autoritarios concentran el poder en una persona o grupo por diversos motivos y la constitución cumple otras funciones, aunque el texto constitucional puede ser similar en ambos regímenes. El autoritarismo tiene también consecuencias en el funcionamiento del aparato estatal, del sistema y la cultura jurídicas.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.35295/sz.iisl.2332",
+     "doi": "10.35295/sz.iisl.2332",
+     "paginas": "204-223",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.35295/sz.iisl.2345",
+     "titulo": "Limites e possibilidades do sistema interamericano de direitos humanos (SIDH) sobre a violência contra mulheres no Brasil",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Juliana Leme Faleiros",
+       "orcid": "https://orcid.org/0000-0002-1325-7775"
+      },
+      {
+       "nombre": "Renatha Cruz",
+       "orcid": "https://orcid.org/0000-0003-4311-9565"
+      },
+      {
+       "nombre": "Isabella Bolfarini",
+       "orcid": "https://orcid.org/0000-0003-0089-0341"
+      }
+     ],
+     "resumen": "A persistência da violência de gênero no Brasil e a inação do Estado configuram violação de direitos humanos. Essa situação faz com que as vítimas e seus familiares se insurjam contra o sistema de justiça e busquem o sistema interamericano de direitos humanos. Diante disso, questiona-se: como o Caso Barbosa de Souza impacta a sociedade e o Estado brasileiro? Sendo os objetivos: apresentar o feminicídio de Márcia Barbosa dos Santos; revelar o trâmite do Caso no SIDH; e analisar elementos estruturais da sociedade e Estado brasileiro. Como referencial, serão trazidos Florestan Fernandes e Juliana Faleiros. Tem-se como hipótese que as instituições brasileiras formalizam a proteção dos direitos humanos sem elaborar políticas públicas viáveis para a erradicação da violência de gênero em razão do patriarcado ser estruturante da sociedade. Em considerações finais, evidencia-se que o feminicídio de Márcia Barbosa expressa os limites formais do Estado brasileiro e o patriarcado autocrático.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.35295/sz.iisl.2345",
+     "doi": "10.35295/sz.iisl.2345",
+     "paginas": "224-244",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.35295/sz.iisl.2497",
+     "titulo": "The good (civil law?) notary",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Sebastián Rivero Silva",
+       "orcid": null
+      }
+     ],
+     "resumen": "This article explains how structural differences between civil-law notaries and common-law notaries public create friction in cross-border circulation of public documents. Using Spanish case law and practice, it traces a pivot from “equivalence of forms” to “equivalence of authority,” and increasingly to a notary’s “judgment of sufficiency.” The shift relaxes formalism and centers which public functions were performed—identification, capacity, legality checks, authorship—reducing re-documentation. Evidence does not support a claim that common-law systems are less secure; rather, they relocate assurance to ex post remedies and professional accountability. The article proposes a functional, risk-weighted recognition framework: cross-border effects should turn on demonstrable delivery of safeguards—independence, competence proportionate to risk, verifiable record-keeping, and enforceable liability—regardless of institutional mix. On this view, hybrid pathways become coherent: modest liberalization in civil-law systems and “enhanced” notaries public with legal training in common-law settings.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.35295/sz.iisl.2497",
+     "doi": "10.35295/sz.iisl.2497",
+     "paginas": "245-264",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.35295/sz.iisl.2509",
+     "titulo": "The legal value of international treaties in Iraq and Spain",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Ali Al Azzawi",
+       "orcid": null
+      }
+     ],
+     "resumen": "The principle of national sovereignty underpins international law by guaranteeing state independence and its legislative authority without external interference. However, the interaction between domestic norms and international commitments has sparked debate, particularly in cases of potential normative conflicts. Two main theories explain this relationship: dualism, which distinguishes between the two legal systems, and monism, which gives primacy to international law. This study analyzes the impact of international treaties on national legal frameworks, focusing on the position of Arab States regarding human rights. It examines the Iraqi legal system, its incorporation of treaties, and their influence on the 2005 Constitution, as well as the role of the judiciary. Finally, a comparison with the Spanish legal system is presented to identify key similarities and differences.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.35295/sz.iisl.2509",
+     "doi": "10.35295/sz.iisl.2509",
+     "paginas": "265-293",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.35295/sz.iisl.2575",
+     "titulo": "Digital transformation and the principle of equality in Local Administration",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Manuel Palomares Herrera",
+       "orcid": "https://orcid.org/0000-0003-1520-5036"
+      }
+     ],
+     "resumen": "In a global context marked by digital transformation and artificial intelligence, we present a study focused on the relations of citizens with the closest Public Administration: their city councils. In this sense, the first 10 years are taken into study where we can find the birth and establishment of the main regulations regarding the so-called Electronic Administration. To do this, with the paradigm of the Jaen City Council for taking a provincial capital of reference, from the bibliographic review and legislative commentary we study how a modernization process has begun focused on improving administrative efficiency and the quality of public services. compared to the maintenance of a face-to-face quota that protects the citizen’s right to be able to maintain face-to-face communication and administration with public affairs.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.35295/sz.iisl.2575",
+     "doi": "10.35295/sz.iisl.2575",
+     "paginas": "294-315",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.35295/sz.iisl.2530",
+     "titulo": "Nuevos patrones de exilio en Guatemala y Nicaragua",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Eva Leticia Orduña Trujillo",
+       "orcid": "https://orcid.org/0000-0003-3276-9386"
+      }
+     ],
+     "resumen": "En el artículo se considera el éxodo de personas periodistas y comunicadoras, operadoras de justicia y defensoras de derechos humanos, que actualmente se está presentando desde Guatemala y Nicaragua. Tiene como objetivos identificar las principales características de este éxodo a la luz de la legislación internacional en materia de refugiados y la regional en materia de asilo. En este texto, cuando mencionamos “la región”, o “lo regional”, nos estaremos refiriendo a América Latina. La metodología empleada es la siguiente: inicialmente se realiza un análisis jurídico de las características principales normativas del refugio y del asilo. Se reflexiona también en la situación que existió en el siglo pasado en Latinoamérica, ofreciendo datos más particularizados respecto a México. En la segunda sección se hace referencia de manera general a la situación que actualmente está obligando a ciertas personas guatemaltecas y nicaragüenses a abandonar sus países de origen. En la tercera se estudia esta situación a la luz del análisis elaborado en la primera.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.35295/sz.iisl.2530",
+     "doi": "10.35295/sz.iisl.2530",
+     "paginas": "316-343",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.35295/sz.iisl.2607",
+     "titulo": "Review of Leading Works in Law and Anthropology. Alice Margaria, Larissa Vetters. Routledge, 2025.",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Maider Zilbeti",
+       "orcid": "https://orcid.org/0009-0008-9293-0454"
+      }
+     ],
+     "resumen": "Maider Zilbeti reviews Leading Works in Law and Anthropology, edited by Alice Margaria and Larissa Vetters (Routledge, 2025). The volume explores law as a lived practice and a process of subjectivation, combining socio-legal and anthropological perspectives. Zilbeti emphasizes its cumulative structure, methodological rigor, and ethical engagement, showing how each chapter illuminates law’s relational, performative, and normative dimensions. The review highlights the importance of reading the book as a whole, noting how analyses of leading works reveal processes of alterity, subaltern recognition, and justice. By fostering sustained dialogue across diverse legal and sociocultural contexts, the volume creates an indispensable interdisciplinary space for rethinking both law and anthropology in the contemporary world.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.35295/sz.iisl.2607",
+     "doi": "10.35295/sz.iisl.2607",
+     "paginas": "344-346",
+     "fuente": "Crossref"
+    }
+   ]
+  },
+  {
+   "id": "v15-n2-2025",
+   "volumen": "15",
+   "numero": "2",
+   "anio": 2025,
+   "fecha": "2025-11-10",
+   "etiqueta": "Vol. 15, núm. 2 (2025)",
+   "fuente": "Crossref",
+   "articulos": [
+    {
+     "id": "10.35295/sz.iisl.2511",
+     "titulo": "Introduction – How Magic are Rights of Nature?",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Dirk Hanschel",
+       "orcid": null
+      },
+      {
+       "nombre": "Annette Mehlhorn",
+       "orcid": "https://orcid.org/0000-0002-3163-0967"
+      },
+      {
+       "nombre": "Jenny García Ruales",
+       "orcid": "https://orcid.org/0009-0009-2292-3379"
+      }
+     ],
+     "resumen": null,
+     "idioma_resumen": null,
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.35295/sz.iisl.2511",
+     "doi": "10.35295/sz.iisl.2511",
+     "paginas": "313-326",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.35295/sz.iisl.2288",
+     "titulo": "Rights of Nature as an Innovation Space for Education for Sustainable Development and Transformative Learning?",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Stefan Knauss",
+       "orcid": null
+      },
+      {
+       "nombre": "Anne-Kathrin Lindau",
+       "orcid": "https://orcid.org/0000-0002-9375-5925"
+      }
+     ],
+     "resumen": "This article examines the changing role of legal frameworks in addressing the urgent need for environmental justice, moving beyond anthropocentric perspectives and turning to more holistic, very often non-European concepts of sustainability. The case study chosen is the recent development in New Zealand environmental law, in which Taranaki Maunga (Mount Taranaki) was recognised as a legal entity in 2025. This Rights of Nature (RoN) approach reflects a hybrid legal architecture that combines indigenous worldviews and state structures. We show that this “magic of rights” (Mehlhorn 2024) also carries high transformative potential for educational and institutional learning. Using a cyclical framework for transformative learning as an important component of the concept of Education for Sustainable Development (ESD), the paper analyses how different actors deal with complex environmental issues and examines how current discourses on the RoN can be made fruitful for ESD.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.35295/sz.iisl.2288",
+     "doi": "10.35295/sz.iisl.2288",
+     "paginas": "327-350",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.35295/sz.iisl.2285",
+     "titulo": "Materiales para una filosofía indígena: ecoespiritualidad",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Fausto César Quizhpe Gualán",
+       "orcid": null
+      }
+     ],
+     "resumen": "Este trabajo toma como punto de partida el mundo indígena, específicamente el Pueblo Kichwa Saraguro, en Ecuador, y, dentro de aquel, se desarrolla la ecoespiritualidad como una parte de la ecoreligión y la filosofía indígena. El método que se utiliza para el abordaje, es el analéctico, desarrollado por la teología y filosofía de la liberación. A partir de lo señalado se propone confrontar un metarrelato ecoespiritual que vincula un sujeto-colectivo y la pachamama; frente a otra especie de metarrelato moderno y capitalista centrado en la muerte. El primer metarrelato sacraliza la vida; el segundo metarrelato tiene como tótem el dinero, el mercado y la competencia. La ecoespiritualidad se trabaja como una categoría de larga duración, cuya persistencia se atribuye a la lucha colectiva del mundo indígena. Las conclusiones aluden a una confrontación entre los parámetros de cientificidad de la ciencia moderna relacionados con la pseudoespiritualidad del capital; enfrentados, a los parámetros bióticos de la ecoespiritualidad y la filosofía indígena.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.35295/sz.iisl.2285",
+     "doi": "10.35295/sz.iisl.2285",
+     "paginas": "351-368",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.35295/sz.iisl.2371",
+     "titulo": "Derecho comparado de los derechos de la naturaleza",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Diana Murcia",
+       "orcid": "https://orcid.org/0000-0002-7935-6960"
+      }
+     ],
+     "resumen": "En la actualidad, una variedad de normas y decisiones judiciales con figuras similares en varios países parecen estar conformando un ámbito jurídico al que se le denomina “derechos de la naturaleza”. No obstante, en realidad no se reconocen ni los mismos derechos, ni a la misma naturaleza, ni con los mismos fines, más aún, no se distingue de forma clara, dogmáticamente, cuándo estamos ante un caso del clásico derecho administrativo ambiental y cuándo ante un caso del paradigma de los derechos de la naturaleza y cuál es la diferencia, si existe. Este artículo aborda la cuestión a partir de un estudio de derecho comparado.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.35295/sz.iisl.2371",
+     "doi": "10.35295/sz.iisl.2371",
+     "paginas": "369-386",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.35295/sz.iisl.2300",
+     "titulo": "Los derechos de la naturaleza en Macondo",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Andrés Martínez Moscoso",
+       "orcid": null
+      }
+     ],
+     "resumen": "La literatura ha sido una herramienta pedagógica clave para narrar e influir en el comportamiento humano, incluyendo el Derecho. En América Latina, el realismo mágico ha inspirado ecosistemas paralelos como Macondo en Cien años de soledad de Gabriel García Márquez. Posteriormente, el Derecho constitucional ha generado decisiones “mágicas” que otorgan derechos a la naturaleza, protegiendo ecosistemas de manera autónoma. Este trabajo analiza las referencias de García Márquez a los ecosistemas y la biodiversidad, evidenciando cómo Macondo, bajo una visión antropocentrista, agotó sus recursos hasta su colapso. Se compara este destino con la fragilidad del Bosque Protector Los Cedros, cuya biodiversidad estaba amenazada por la actividad extractivista. Sin embargo, gracias a la justicia constitucional, se evitó su destrucción al declararlo sujeto de derechos. Así, la sentencia que protegió a Los Cedros representa una decisión jurídica que transforma la realidad y resguarda la naturaleza ante su posible desaparición.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.35295/sz.iisl.2300",
+     "doi": "10.35295/sz.iisl.2300",
+     "paginas": "387-409",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.35295/sz.iisl.2323",
+     "titulo": "El caso Los Cedros",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Agustín Grijalva",
+       "orcid": null
+      }
+     ],
+     "resumen": "¿Son los derechos de la naturaleza una solución mágica a nuestros problemas ecológicos? En este ensayo, apoyado principalmente en el estudio de caso del bosque nublado Los Cedros, en el cual la Corte Constitucional de Ecuador impidió la explotación minera a mediana y gran escala en un ecosistema de altísima biodiversidad, describo y analizó la forma como los derechos de la naturaleza pueden entablar un diálogo entre ciencias occidentales, ontologías diversas y conocimientos locales. Primeramente, se plantea, con ejemplos concretos, la convergencia de ciencia occidental, conocimientos ancestrales y derechos de la naturaleza. Luego se expone el rol de los científicos en el caso Los Cedros. Posteriormente, en el marco de este caso, se analiza las relaciones entre precaución como principio ambiental y el conocimiento y ética del cuidado ecológico de comunidades locales. Finalmente, se reflexiona sobre la valoración intrínseca de la naturaleza y su relación con los derechos humanos.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.35295/sz.iisl.2323",
+     "doi": "10.35295/sz.iisl.2323",
+     "paginas": "410-430",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.35295/sz.iisl.2374",
+     "titulo": "¡El Río es el Río! Entre Orishas, formalismos, existencias diversas y varitas mágicas",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Lisneider Hinestroza Cuesta",
+       "orcid": "https://orcid.org/0000-0003-3580-1716"
+      }
+     ],
+     "resumen": "En Colombia la Sentencia T-622 de 2016 se convirtió en un hito jurisprudencial con el que inició el cambio de paradigma jurídico frente a la protección ambiental; al declarar por primera vez a una fuente hídrica (El Río Atrato) como entidad sujeto de derechos. Con la finalidad de responder interrogantes: ¿Quién es el Río Atrato? ¿Para quién es el Río Atrato? ¿Qué derechos tiene el río? ¿Por qué la Sentencia T-622 de 2016 no nombró a los Orishas, divinidades, energías y espíritus del Río Atrato? Desde una postura crítica del constitucionalismo y el ambientalismo se propone que, para lograr su restauración y conservación, la cosmovisión de su protección no debe reducirse únicamente a una figura jurídica del derecho occidental, sino que, debe reconocer, respetar y rescatar las formas propias de relacionamiento con la naturaleza de los pueblos que ancestralmente viven con el río, como las del pueblo afrocolombiano.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.35295/sz.iisl.2374",
+     "doi": "10.35295/sz.iisl.2374",
+     "paginas": "431-456",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.35295/sz.iisl.2309",
+     "titulo": "The Rights of Nature: Three Models",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Joel Colon Rios",
+       "orcid": null
+      },
+      {
+       "nombre": "Marina Lostal",
+       "orcid": null
+      }
+     ],
+     "resumen": "This article considers whether an approach to the rights of nature (RoN) that reproduces rights and legal personality (which we will call the Extension Model) can achieve the goal of profoundly transforming our relationship with nature. The paper argues, first, that some of the ways in which Ecuador and New Zealand have implemented RoN suggest that the Extension Model carries an in-built risk of duplicating existing frameworks of subordination and objectification of nature. Second, the paper explores alternative forms of constitutional organisation to materialise RoN’s objectives: the All-Encompassing Model, where the preservation of nature would become the governing principle of the constitutional order; and the Co-Dependence Model, which would require awarding nature and humans equal consideration to ensure their mutual self-preservation. Overall, the paper shows that the recognition of rights or legal personality should not act as a conversation stopper; and that critical inquiries on how to prompt RoN’s pursued paradigm shift need to be continued.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.35295/sz.iisl.2309",
+     "doi": "10.35295/sz.iisl.2309",
+     "paginas": "457-482",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.35295/sz.iisl.2005",
+     "titulo": "The talented Mr. Girardi",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Kendall Gail",
+       "orcid": "https://orcid.org/0000-0001-7534-3479"
+      }
+     ],
+     "resumen": "This essay analyzes the case of Thomas Girardi to illustrate the shortcomings of the contemporary attorney discipline system, particularly its prioritization of lawyer reputational privacy over public protection. Employing a neo-Weberian framework, which aligns with the structure of the American legal profession, reveals how the legal field has established a monopoly over attorney discipline, controlled by its own members. This self-regulation contributes to a predominantly private discipline process that undermines the system’s objective of fostering public trust and safeguarding the public interest. By closely examining Girardi’s case and procedures within the discipline process, the essay advocates for increased publicity in attorney discipline to better align the system with its foundational goals of accountability and public protection.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.35295/sz.iisl.2005",
+     "doi": "10.35295/sz.iisl.2005",
+     "paginas": "483-502",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.35295/sz.iisl/2005",
+     "titulo": "The talented Mr. Girardi",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Kendall Gail",
+       "orcid": "https://orcid.org/0000-0001-7534-3479"
+      }
+     ],
+     "resumen": "This essay analyzes the case of Thomas Girardi to illustrate the shortcomings of the contemporary attorney discipline system, particularly its prioritization of lawyer reputational privacy over public protection. Employing a neo-Weberian framework, which aligns with the structure of the American legal profession, reveals how the legal field has established a monopoly over attorney discipline, controlled by its own members. This self-regulation contributes to a predominantly private discipline process that undermines the system’s objective of fostering public trust and safeguarding the public interest. By closely examining Girardi’s case and procedures within the discipline process, the essay advocates for increased publicity in attorney discipline to better align the system with its foundational goals of accountability and public protection.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.35295/sz.iisl/2005",
+     "doi": "10.35295/sz.iisl/2005",
+     "paginas": "483-502",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.35295/sz.iisl/2379",
+     "titulo": "Reframing End-of-Life Jurisprudence",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Amitabh Dwivedi",
+       "orcid": "https://orcid.org/0000-0002-7779-2654"
+      }
+     ],
+     "resumen": "This paper reflects on the changing legal, ethical, and cultural dimensions of euthanasia, especially passive euthanasia as envisaged by Article 21 of the Constitution of India. The paper maps out the crucial legal landmarks—from Gian Kaur v. State of Punjab (1996) to Aruna Shanbaug v. Union of India (2011) and Common Cause v. Union of India (2018), signalling the transition in judicial jurisprudence, wherein the right to die with dignity has been increasingly acknowledged. It examines the conceptual contradictions between autonomy and the sanctity of life from a global bioethical perspective, contextualizing the Indian experiences. Even with judicial progress, the practice of passive euthanasia is throttled by procedural hypotrophy, institutional intransigence, and societal equivocation. The paper also raises questions about the utility of living wills, the constraints of the 2024 decision of the Delhi High Court, and the existing legislative vacuum. It makes the case for a right-based, culturally competent, and legislatively sound approach to end-of-life care that respects human dignity and ethical responsibility. Finally, it demands a transition from judicial tolerance to systemic readiness and argues for law reform's human and social desirability.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.35295/sz.iisl/2379",
+     "doi": "10.35295/sz.iisl/2379",
+     "paginas": "503-530",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.35295/sz.iisl.2379",
+     "titulo": "Reframing End-of-Life Jurisprudence",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Amitabh Dwivedi",
+       "orcid": "https://orcid.org/0000-0002-7779-2654"
+      }
+     ],
+     "resumen": "This paper reflects on the changing legal, ethical, and cultural dimensions of euthanasia, especially passive euthanasia as envisaged by Article 21 of the Constitution of India. The paper maps out the crucial legal landmarks—from Gian Kaur v. State of Punjab (1996) to Aruna Shanbaug v. Union of India (2011) and Common Cause v. Union of India (2018), signalling the transition in judicial jurisprudence, wherein the right to die with dignity has been increasingly acknowledged. It examines the conceptual contradictions between autonomy and the sanctity of life from a global bioethical perspective, contextualizing the Indian experiences. Even with judicial progress, the practice of passive euthanasia is throttled by procedural hypotrophy, institutional intransigence, and societal equivocation. The paper also raises questions about the utility of living wills, the constraints of the 2024 decision of the Delhi High Court, and the existing legislative vacuum. It makes the case for a right-based, culturally competent, and legislatively sound approach to end-of-life care that respects human dignity and ethical responsibility. Finally, it demands a transition from judicial tolerance to systemic readiness and argues for law reform's human and social desirability.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.35295/sz.iisl.2379",
+     "doi": "10.35295/sz.iisl.2379",
+     "paginas": "503-530",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.35295/sz.iisl/2197",
+     "titulo": "El auge del voto nacionalista vasco en Iparralde",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Eguzki Urteaga Olano",
+       "orcid": "https://orcid.org/0000-0002-8789-7580"
+      }
+     ],
+     "resumen": "Desde el advenimiento del nacionalismo vasco moderno en Iparralde a inicios de los años sesenta, con la creación del movimiento Enbata, el voto a favor de los partidos nacionalistas crece lentamente pero continuamente, hasta el punto de convertirse en la primera fuerza de izquierda en detrimento del Partido Socialista y en la principal alternativa a las formaciones de centro-derecha hexagonal que dominan el panorama político local desde hace décadas. Estos últimos años, marcados por el inicio del proceso de paz, tras el fin de la lucha armada practicada por ETA y su posterior desarme y disolución, y la institucionalización del territorio, con la creación de la Comunidad de Aglomeración del País Vasco, han propiciado el auge de los partidos nacionalistas vascos agrupados especialmente en el seno de la coalición electoral Euskal Herria Bai.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.35295/sz.iisl/2197",
+     "doi": "10.35295/sz.iisl/2197",
+     "paginas": "531-557",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.35295/sz.iisl.2197",
+     "titulo": "El auge del voto nacionalista vasco en Iparralde",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Eguzki Urteaga Olano",
+       "orcid": "https://orcid.org/0000-0002-8789-7580"
+      }
+     ],
+     "resumen": "Desde el advenimiento del nacionalismo vasco moderno en Iparralde a inicios de los años sesenta, con la creación del movimiento Enbata, el voto a favor de los partidos nacionalistas crece lentamente pero continuamente, hasta el punto de convertirse en la primera fuerza de izquierda en detrimento del Partido Socialista y en la principal alternativa a las formaciones de centro-derecha hexagonal que dominan el panorama político local desde hace décadas. Estos últimos años, marcados por el inicio del proceso de paz, tras el fin de la lucha armada practicada por ETA y su posterior desarme y disolución, y la institucionalización del territorio, con la creación de la Comunidad de Aglomeración del País Vasco, han propiciado el auge de los partidos nacionalistas vascos agrupados especialmente en el seno de la coalición electoral Euskal Herria Bai.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.35295/sz.iisl.2197",
+     "doi": "10.35295/sz.iisl.2197",
+     "paginas": "531-557",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.35295/sz.iisl.2324",
+     "titulo": "Governing in Crisis",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Oleksandr Cherkunov",
+       "orcid": "https://orcid.org/0009-0007-8880-6955"
+      }
+     ],
+     "resumen": "This article explores the legal and institutional transformation of Ukraine’s customs public service under martial law during the 2022–2024 full-scale war. Employing a socio-legal and comparative methodology, it introduces the concept of “extraordinary public service” as a crisis-induced model characterized by flexibility, ethical ambiguity, and executive discretion. Drawing upon legislative acts, staffing statistics, and international case studies, the paper investigates how legality, bureaucratic procedures, and public service ethics have been reconfigured in response to systemic disruption. The analysis highlights significant changes in recruitment practices, accountability standards, and operational priorities. Martial law enabled short-term institutional agility – but at the cost of administrative instability, legal fragmentation, and weakened democratic oversight. Comparative insights from Georgia, Colombia, Portugal, and South Korea demonstrate recurring dilemmas in balancing emergency governance with legal certainty. The article concludes by advocating for a codified legal framework for public service in extraordinary conditions, grounded in constitutional values and capable of restoring legitimacy post-crisis.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.35295/sz.iisl.2324",
+     "doi": "10.35295/sz.iisl.2324",
+     "paginas": "558-576",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.35295/sz.iisl.2360",
+     "titulo": "Desafios e perspectivas do encarceramento feminino em Moçambique: Uma abordagem jurídico-social",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Tina Lorizzo",
+       "orcid": "https://orcid.org/0009-0005-1209-8361"
+      },
+      {
+       "nombre": "Ilídio Samuel Nhantumbo",
+       "orcid": "https://orcid.org/0009-0008-1526-9877"
+      },
+      {
+       "nombre": "Lourenço Valter Inocêncio Sigaúque",
+       "orcid": "https://orcid.org/0009-0007-4011-1601"
+      }
+     ],
+     "resumen": "Este artigo analisa o aumento do encarceramento feminino em Moçambique nas últimas duas décadas, investigando causas, impactos e respostas institucionais. Com metodologia qualitativa, baseia-se em dados estatísticos, processos judiciais e entrevistas com magistrados, funcionários penitenciários, sociedade civil e mulheres privadas de liberdade. Os resultados mostram que pobreza, violência doméstica, desigualdade de género e a insurgência em Cabo Delgado contribuem para a criminalização feminina. As prisões apresentam carências estruturais e poucas medidas de reinserção, além da subutilização de penas alternativas. O estudo revela que o histórico de violência raramente é considerado nos julgamentos, resultando em punições desproporcionais. A pesquisa recomenda reformas jurídicas e institucionais baseadas nas Regras de Bangkok e em normas internacionais de direitos humanos. Sua principal contribuição é defender uma justiça penal sensível ao género, que reconheça as vulnerabilidades sociais das mulheres e promova sua reabilitação, reintegração e acesso equitativo à justiça.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.35295/sz.iisl.2360",
+     "doi": "10.35295/sz.iisl.2360",
+     "paginas": "577-602",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.35295/sz.iisl.2399",
+     "titulo": "La legitimación colectiva en el acceso a la justicia ambiental",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Juan Alejandro Martínez Navarro",
+       "orcid": "https://orcid.org/0000-0002-5705-7097"
+      }
+     ],
+     "resumen": "El presente trabajo examina el alcance y los límites de la legitimación colectiva en el acceso a la justicia ambiental en España, tomando como punto de partida el marco normativo y su interpretación por parte del Tribunal Supremo. A través del análisis de distintas resoluciones jurisprudenciales, se estudia cómo se ha ido configurando el interés legítimo colectivo en materia medioambiental, así como los requisitos exigidos para su ejercicio efectivo. Asimismo, el artículo incorpora una perspectiva comparada, centrada en algunos de los principales litigios climáticos internacionales que han marcado un punto de inflexión en la expansión de la legitimación colectiva, especialmente cuando esta se vincula con la protección de derechos fundamentales. El trabajo se detiene, además, en los debates que suscita el creciente papel de los tribunales en la lucha contra el cambio climático, y plantea una reflexión crítica sobre el papel de los principios de prevención y precaución como instrumentos útiles para afrontar las dificultades probatorias inherentes a este tipo de litigios.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.35295/sz.iisl.2399",
+     "doi": "10.35295/sz.iisl.2399",
+     "paginas": "603-625",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.35295/sz.iisl.2403",
+     "titulo": "Gobernanza de la Ciencia: Reflexiones Jurídicas en Perú y Colombia",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Juan Carlos Alcazar-Gonzales",
+       "orcid": "https://orcid.org/0009-0000-4571-8938"
+      },
+      {
+       "nombre": "Berly Simon Alcántara-Asencios",
+       "orcid": "https://orcid.org/0009-0008-6336-6495"
+      }
+     ],
+     "resumen": "Este artículo realiza un análisis comparado del deber estatal en materia de ciencia, tecnología e innovación (CTI) en Perú y Colombia, partiendo de sus fundamentos constitucionales y normativos. Se identifica que, pese a marcos legales robustos, ambos países enfrentan baja inversión en I+D, coordinación institucional débil y ausencia de reconocimiento explícito del derecho a la ciencia. Colombia sobresale por contar con un ministerio especializado y un fondo estable de financiamiento, mientras que en Perú las iniciativas están en fase de fortalecimiento, con propuestas de reforma institucional. A partir de experiencias internacionales exitosas, se proponen cinco líneas de mejora: coherencia normativa, recursos presupuestales protegidos, gobernanza inclusiva y descentralizada, equidad territorial y sectorial, y profesionalización del monitoreo y la rendición de cuentas. Estas recomendaciones buscan transformar la CTI en un bien público estratégico que impulse el desarrollo sostenible y la equidad social.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.35295/sz.iisl.2403",
+     "doi": "10.35295/sz.iisl.2403",
+     "paginas": "626-652",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.35295/sz.iisl.2506",
+     "titulo": "Reseña de Property, Power and Politics: Why We Need to Rethink the World Power System. Jean-Philippe Robé. Bristol University Press, 2020",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Ricardo Valenzuela",
+       "orcid": "https://orcid.org/0000-0002-7004-0353"
+      }
+     ],
+     "resumen": "Property, Power and Politics: Why We Need to Rethink the World Power System es una de las contribuciones más ambiciosas del jurista francés Jean-Philippe Robé al debate contemporáneo sobre la relación entre derecho, economía y poder. El libro reconstruye la arquitectura legal que sostiene al capitalismo global y propone entenderlo como un sistema mundial de poder compuesto por dos dimensiones entrelazadas: la soberanía estatal y las prerrogativas privadas de propiedad. Robé muestra que la expansión del capitalismo corporativo ha producido una desconexión estructural entre economía y política, dando lugar a un orden plural de poderes públicos y privados que combina democracia y despotismo. La reseña explora cómo esta tesis redefine el estatuto jurídico de la propiedad y de la corporación, y analiza los rendimientos que su propuesta ofrece para una sociología del derecho centrada en la vida normativa de las organizaciones económicas. En un contexto marcado por la concentración del poder empresarial y la crisis de legitimidad democrática, la obra de Robé emerge como una intervención teórico-jurídica imprescindible para repensar la arquitectura normativa del capitalismo contemporáneo.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.35295/sz.iisl.2506",
+     "doi": "10.35295/sz.iisl.2506",
+     "paginas": "653-658",
+     "fuente": "Crossref"
+    }
+   ]
+  }
+ ]
+};

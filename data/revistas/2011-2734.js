@@ -1,0 +1,618 @@
+// Copia de revistas/2011-2734.json para abrir la aplicación sin servidor.
+(window.DATOS_REVISTAS = window.DATOS_REVISTAS || {})["revistas/2011-2734.json"] = {
+ "version": 1,
+ "generado": "2026-11-02T05:12:34+00:00",
+ "es_prueba": false,
+ "revista": {
+  "id": "2011-2734",
+  "titulo": "Universitas Humanística",
+  "idioma_titulo": null,
+  "titulo_alternativo": null,
+  "idioma_titulo_alternativo": null,
+  "idiomas": [
+   "es",
+   "pt",
+   "en"
+  ],
+  "issn_impreso": "0120-4807",
+  "issn_electronico": "2011-2734",
+  "editorial": "Pontificia Universidad Javeriana",
+  "pais": "CO",
+  "materias": [
+   "Anthropology",
+   "Sociology (General)"
+  ],
+  "palabras_clave": [
+   "ethnography",
+   "situated knowledge",
+   "global south",
+   "critical perspectives"
+  ],
+  "licencias": [
+   {
+    "nombre": "CC BY 4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+   }
+  ],
+  "url": "http://revistas.javeriana.edu.co/index.php/univhumanistica/index",
+  "url_doaj": "https://doaj.org/toc/2011-2734",
+  "descripcion": null,
+  "fuente_ficha": "DOAJ",
+  "archivo": "revistas/2011-2734.json",
+  "ultimo_numero": "Vol. 95, núm. 1 (2026)",
+  "fuente_numeros": "Crossref"
+ },
+ "numeros": [
+  {
+   "id": "v95-n1-2026",
+   "volumen": "95",
+   "numero": "1",
+   "anio": 2026,
+   "fecha": "2026-07-06",
+   "etiqueta": "Vol. 95, núm. 1 (2026)",
+   "fuente": "Crossref",
+   "articulos": [
+    {
+     "id": "10.11144/javeriana.uh95.bgei",
+     "titulo": "Bio-geo-economías: una invitación",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Pablo Jaramillo",
+       "orcid": null
+      },
+      {
+       "nombre": "Federico Dupont Bernal",
+       "orcid": null
+      },
+      {
+       "nombre": "Sofía Rivera Sotelo",
+       "orcid": null
+      }
+     ],
+     "resumen": null,
+     "idioma_resumen": null,
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.11144/javeriana.uh95.bgei",
+     "doi": "10.11144/javeriana.uh95.bgei",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.11144/javeriana.uh95.cmpd",
+     "titulo": "Conectividad y movimiento: principios del derecho que emergen de los cuerpos de agua",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Helena Catalina Rivera Cediel",
+       "orcid": null
+      }
+     ],
+     "resumen": "This research article presents some of my findings regarding some of the bodies of water in the Bolivarian Mojana region of Colombia, which I was able to discover during my ethnographic fieldwork, thanks to the expert local knowledge of the region’s traditional fishermen, who introduced me to them. In my dual capacity as a lawyer advising some of these fishermen and as an anthropologist, I identified connectivity and movement as characteristics of the swamps and rivers studied. I was also able to view them as besieged bodies whose lives are in jeopardy, as I describe in relation to the transformations brought about by water infrastructure and illegal land grabbing. I bring the two aforementioned characteristics to the field of studies on law for the Anthropocene, to investigate the question: What do bodies of water have to teach the law? And in dialogue with authors such as Grear (2020), Davies (2022), Wheeler, Grear, and Burdon (2023), who have considered that the environmental and social context in which we find ourselves merits the emergence of a post-humanist and post-anthropocentric Wild Law (in which matter is neither immutable nor passive, nor can it be considered fixed or localized), I propose that a conceptual shift involves considering that the principles of law arise from non-humans and more-than-humans to regulate the human world, and not the other way around. With this research, we are invited to consider what a wild law for the Anthropocene would be based on bodies of water and what a justice of that nature would entail.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.11144/javeriana.uh95.cmpd",
+     "doi": "10.11144/javeriana.uh95.cmpd",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.11144/javeriana.uh95.dccc",
+     "titulo": "Despojo a campesinos colombianos a través del crédito rural",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Ángela Rocío Peña-Cortés",
+       "orcid": null
+      },
+      {
+       "nombre": "María Cecilia Roa-García",
+       "orcid": null
+      }
+     ],
+     "resumen": "Land dispossession through credit has historically shaped social relations and the distribution of wealth. This research examines the role of rural credit in the dispossession of peasant lands in Colombia and in peasant struggles to maintain ownership, through the analysis of documentary sources that record peasants’ experiences from 1990 to 2023. The study identifies actors, power relations, strategies, and patterns of the phenomenon, which allow us to conclude that credit has operated as a mechanism of dispossession in economic processes and in the armed conflict through the foreclosure and forced sale of land, giving an unfair advantage to agribusiness and other rural elites, and that the heterogeneity of agents who gain power over credit broadens the forms of loss of control over land, financial exploitation, and erosion of peasants’ rights.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.11144/javeriana.uh95.dccc",
+     "doi": "10.11144/javeriana.uh95.dccc",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.11144/javeriana.uh95.abcg",
+     "titulo": "El agua como bien común: entre la gestión comunitaria, lo privado y el ensamblaje de lo público",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Kelly Escobar Jiménez",
+       "orcid": null
+      },
+      {
+       "nombre": "Roque Manuel Jiménez Sumalave",
+       "orcid": null
+      },
+      {
+       "nombre": "Rubén Gutiérrez Campo",
+       "orcid": null
+      }
+     ],
+     "resumen": "Between 2018 and 2023, in the village of La Sirena, located in Ciénaga (Magdalena), sociologists, engineers, and biologists intervened in a local water management system, adapting a storage and purification device with a dual purpose: community and household use. The exercise integrated fifty-one plots out of a total of ninety, inhabited by approximately five hundred farmers, into its co-construction. During the development of the project, the frictions that arose between the community, public, and private models attracted our reflection. This article focuses on describing them by mobilizing socio-anthropological research that included ethnography, interviews, and surveys. In the context of agribusiness, inequality, and dispossession in rural Colombia, this study documents how the local community is involved in water management and discusses the suitability of the socio-technical solutions implemented, focusing on the need for long-term sustainable measures adapted to local realities.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.11144/javeriana.uh95.abcg",
+     "doi": "10.11144/javeriana.uh95.abcg",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.11144/javeriana.uh95.iash",
+     "titulo": "Instrumentos de apropiación social como herramientas de paz para la transferencia de conocimiento en el Corredor de Vida del Cesar, Colombia",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Carmen Elena Meza Estrada",
+       "orcid": "https://orcid.org/0000-0002-2601-3091"
+      },
+      {
+       "nombre": "Carolyn Caselles Martínez",
+       "orcid": "https://orcid.org/0009-0002-5035-7916"
+      },
+      {
+       "nombre": "Carlos Alberto Patiño Delgado",
+       "orcid": "https://orcid.org/0009-0001-9609-2792"
+      },
+      {
+       "nombre": "Oton Navas De la Cruz",
+       "orcid": "https://orcid.org/0000-0002-5242-0694"
+      }
+     ],
+     "resumen": "The Social Appropriation of Knowledge (SAK) project in the Cesar Life Corridor aimed to promote community participation in designing a productive transition model. Its main objective was to identify the conditions of land used for mining in order to find new alternatives for its use and to structure productive linkages as a tool for achieving peace in the territory. A participatory and mixed methodology was implemented. The basic procedures included workshops, surveys, and interviews, with the full participation of 255 residents of Agustín Codazzi, Becerril, La Jagua de Ibirico, and Chiriguaná. The most notable results were the identification of local productive potential and vocation, the need to recover areas affected by mining, and the promotion of local empowerment. This attracted institutional interest, positioning the findings as a basis for future peace management policies. In conclusion, challenges related to technological accessibility and social adaptation to change processes were identified, linked to existing local capacities.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.11144/javeriana.uh95.iash",
+     "doi": "10.11144/javeriana.uh95.iash",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.11144/javeriana.uh95.nepd",
+     "titulo": "La naturaleza del estrecho: proyectos de desarrollo y de comunicación interoceánica en el istmo mexicano",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Susana Vázquez Vidal",
+       "orcid": null
+      }
+     ],
+     "resumen": "In this article, I analyze the interweaving between the formation of the isthmus as a geostrategic space, the different processes of developmental intervention, and natural resources as part of the creation of technopolitical landscapes, constantly transformed by the representation of the isthmus around the interoceanic crossing. To address this objective, I draw on the archival and ethnographic work I have conducted in the Mexican isthmus from 2019 to the present, using a methodology that prioritizes ethnography. The analysis I propose is based on the connection between infrastructure and natural resources, an approach that contributes to the discussion of the local presence of the State through the relationship between the material and the political. Throughout the text, I demonstrate how interoceanic communication plans, linked to the exploitation of natural resources, have fundamentally created a narrative around the isthmus as a geostrategic zone since the 18th century. Infrastructure and nature have thus fostered the material, historical, and discursive construction of this region.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.11144/javeriana.uh95.nepd",
+     "doi": "10.11144/javeriana.uh95.nepd",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.11144/javeriana.uh95.nicm",
+     "titulo": "Negociando identidad campesina en el mercado global del café: una historia etnográfica desde la Sierra Nevada de Santa Marta, Colombia",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Astrid Lorena Perafán-Ledezma",
+       "orcid": "https://orcid.org/0000-0003-4377-7170"
+      },
+      {
+       "nombre": "William Andrés Martínez-Dueñas",
+       "orcid": null
+      }
+     ],
+     "resumen": "This article examines how peasant identity is negotiated at the intersection of specialty-coffee markets, competitiveness devices, and sociomaterial arrangements in the Sierra Nevada de Santa Marta. Drawing on ethnographic fieldwork conducted between 2019 and 2022 with the Quality Cup Coffee Cluster Initiative (TACA), entrepreneurs, and coffee growers, we reconstruct the formation of TACA and the creation of the collective brand Corazón de Sierra. We propose a performative definition of ‘negotiating identity’ to show how versions of organization, territory, and the coffee grower are enacted and contested through sociomaterial infrastructures aligned with transnational discourses of competitiveness that assemble affects, biophysical and sociocultural markers, and quality standards. We document frictions between collective identity, the denomination of origin, and local agro-productive practices. We argue that the sociomaterial infrastructures that enable the specialty coffee market also overflow it, opening spaces for a multiplicity of relations that are not only productive.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.11144/javeriana.uh95.nicm",
+     "doi": "10.11144/javeriana.uh95.nicm",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.11144/javeriana.uh95.ppvd",
+     "titulo": "Paisajes (pos)mineros: vida y destrucción en la rehabilitación de tierras de Cerrejón",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Iván Emilio Montenegro Perini",
+       "orcid": null
+      }
+     ],
+     "resumen": "Cerrejón, one of the world’s largest coal mining companies, produces thousands of tons of fragmented rock that must be removed from their original sites to specifically designated areas. This is how mining dumps are formed: enormous artificial mountains loaded with potentially toxic chemicals that must be controlled to prevent air and water pollution. The company assembled a team of engineers, ecologists, biologists, field technicians, and local populations to transform them into post-mining landscapes through its land reclamation program. In the process, these stakeholders agree that the company is making progress in landscape restoration by intervening in rock, planting trees, and introducing animals. However, their ways of experiencing and creating (post-)mining landscapes also differ. For some, these practices generate what scientists call “landscape connectivity.” For others, planting also erases the material traces of mining destruction without healing the wounds of mining: it is a painful reparation. Through an ethnographic analysis of the Cerrejón revegetation process, I argue that in extractive areas, destruction and the emergence of life occur simultaneously. This paradox allows us to problematize both celebratory narratives of “ecological restoration” and certain critical approaches to extractivism that reduce mining solely to a source of social, economic, and environmental pathologies.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.11144/javeriana.uh95.ppvd",
+     "doi": "10.11144/javeriana.uh95.ppvd",
+     "paginas": null,
+     "fuente": "Crossref"
+    }
+   ]
+  },
+  {
+   "id": "v94-2025",
+   "volumen": "94",
+   "numero": null,
+   "anio": 2025,
+   "fecha": "2025-11-27",
+   "etiqueta": "Vol. 94 (2025)",
+   "fuente": "Crossref",
+   "articulos": [
+    {
+     "id": "10.11144/javeriana.uh94.ammp",
+     "titulo": "Animating memories of migration: a participatory research collaboration between an anthropologist and an animator",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Alexandra D'Onofrio",
+       "orcid": null
+      },
+      {
+       "nombre": "Francesca Cogni",
+       "orcid": null
+      }
+     ],
+     "resumen": "This article examines the collaborative use of animation and drawing in ethnographic research to explore the memories and imaginative worlds of people who have experienced the illegal crossing of the Mediterranean. Working with three Egyptian men in Italy, anthropologist Alexandra D’Onofrio and animator Francesca Cogni invited participants to engage in storytelling, photography, and participatory animation to reflect on their crossing experiences. A key methodological experiment was animating without a storyboard, enabling improvised drawing and the co-creation of narratives in real time. This approach encouraged participants to reimagine their past and represent their experiences as they unfolded, supported by the animator’s expertise in drawing and stop-motion techniques. The process foregrounded participants’ agency in shaping their own accounts while challenging conventional ethnographic methods. In this context, animation emerges as both a creative and ethical practice, offering anthropologists a dynamic tool for collaboration and generating new insights into the fluid ways in which memories and identities are formed.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.11144/javeriana.uh94.ammp",
+     "doi": "10.11144/javeriana.uh94.ammp",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.11144/javeriana.uh94.dmoi",
+     "titulo": "Destellos de «Mi Ojo Izquierdo» y Dibujos que Escuchan",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Alonso Gamarra",
+       "orcid": "https://orcid.org/0009-0003-5327-1365"
+      },
+      {
+       "nombre": "Marco Antonio Ramón Huaroto",
+       "orcid": "https://orcid.org/0009-0005-2952-4160"
+      }
+     ],
+     "resumen": "This essay explores the experience of Peruvian protographer Marco “Atoq” Ramón afeter partially losing his sight when he was shot by police covering a protest in the Puente Piedra disctrict of Lima in 2017. Through a dialogue between photography, drawing, and collaborative ethnography, the authors investigate the gaze that has emerged from this experience of state violence and impunity. Collaboratively, the text weaves together two threads: Atoq’s life and physical trajectory after the attack, and the concept of the “flash”, with which Atoq names the moments when one way of seeing fleetingly replaces another. In dialogue with anthropological debates on trauma, subjectivity, and the expressiveness of silence, as well as with experiences of eye mutilation in protest contexts in Chile and Colombia, this essay proposes drawing as a listening technique capable of recording gestures, affections, and exorbitant knowledge that exceed forensic and conceptual categries. Rather than interpreting violence, this practice seeks to bear witness to its interruptions, uphold ethical sensibilities, and foster emerging perspectives on life, death, and justice in a country ravaged by recurrent dispossession. Keywords: Photography, ethnography, drawing, violence, trauma, subjectivity, memory, social protest, justice.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.11144/javeriana.uh94.dmoi",
+     "doi": "10.11144/javeriana.uh94.dmoi",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.11144/javeriana.uh94.decm",
+     "titulo": "Dibujos etnográficos y conversaciones migrantes: El mar, los hilos y los retazos que se juntan",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Cristina Yépez Arroyo",
+       "orcid": "https://orcid.org/0000-0002-8770-6254"
+      }
+     ],
+     "resumen": "How can one depict the murmur of the sea or the changing tides throughout the day? I encountered this question when Jota sent me recordings of ocean sounds in our WhatsApp chat. He told me he wanted me to imagine the coastal town he had recently moved to, one that reminded him of the beach in Venezuela where he was born and lived until his teenage years. In this article, I reflect on ethonographic encounters with migrants living in Ecuador whom I met during my fieldwork, some of which took place during the COVID-19 pandemic. The conversations we had via WhatsApp once the quarantine was in place, as well as the moments we shared in person before that, became a repository of voices, sounds, and images, which in turn led me to draw specific moments. I thus found myself faced with the challenge of drawing the bonds that connect a group of migrant women —like a vine or crocheted chains— or of finding strokes on paper for a daughter who cares for her mother from afar, in the form of scraps of fabric. The five drawings I discuss in this text have made space to evoke complex and sensitive experiences, while I wonder how they could be expressed in a graphic format (Dix and Kaur, 2019); to situate the relationship between ethnographic drawings and forms of memory that do not always translate into text (Bonanno, 2019); and, above all, to think of ethnography as “a kind of archival effort that connects and deploys affective, material, and temporal fields” (García, 2016).",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.11144/javeriana.uh94.decm",
+     "doi": "10.11144/javeriana.uh94.decm",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.11144/javeriana.uh94.fdep",
+     "titulo": "Fotografias e desenhos etnográficos: práticas colaborativas e processos criativos em antropologia",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Karina Kuschnir",
+       "orcid": "https://orcid.org/0009-0005-9916-3591"
+      },
+      {
+       "nombre": "Hannah de Vasconcellos",
+       "orcid": "https://orcid.org/0000-0002-9262-5109"
+      }
+     ],
+     "resumen": "Contemporary anthropology requires innovative methodologies that address sensitive issues in an ethical and collaborative manner. This article analyzes the potential of combining photography and ethnographic drawing through the collaboration between the artist and anthropologist Karina Kuschnir and the anthropologist Hannah de Vasconcellos, during the latter’s research on Black women and the racial dynamics of care. We examine the process from the conception of self-portraits to the production of photographs, the development of drawings, and the return of these images to the women portrayed. This path was built through multiple ethnographic dialogues, within the relationship between researcher Hannah and her interlocutors, as well as with the illustrator Karina. The work is inspired by the collaboration of Afonso and Ramos (2004), who define drawings as devices for co-creation, mnemonic and affective activation, and for evoking both visible and invisible meanings of social relations and material culture, contributing to the documentation and creation of new meanings in the interlocutors’ self-perceptions.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.11144/javeriana.uh94.fdep",
+     "doi": "10.11144/javeriana.uh94.fdep",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.11144/javeriana.uh94.tafp",
+     "titulo": "Tracing Animals in Forests and on Paper",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Daniel Ruiz Serna",
+       "orcid": "https://orcid.org/0000-0002-4583-2180"
+      }
+     ],
+     "resumen": "This paper examines the encoding power of drawings as vehicles for ethnographic conceptualization. By comparing a set of drawings collected by the author in the Western Amazon with illustrations from scientific field guides, this textexplores how images of animals do more than merely represent species. Instead, it is argued, drawings actively enact particular versions of nature. In doing so, they not only open possibilities for understanding nature but also set limits on how it can be perceived and experienced.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.11144/javeriana.uh94.tafp",
+     "doi": "10.11144/javeriana.uh94.tafp",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.11144/javeriana.uh94.tdad",
+     "titulo": "Trazos de antropologías dibujantes",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Federico De Musso",
+       "orcid": null
+      },
+      {
+       "nombre": "Mónica Cuéllar Gempeler",
+       "orcid": null
+      }
+     ],
+     "resumen": null,
+     "idioma_resumen": null,
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.11144/javeriana.uh94.tdad",
+     "doi": "10.11144/javeriana.uh94.tdad",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.11144/javeriana.uh94.pdmg",
+     "titulo": "¡Pararse duro! De la morralla a la gota de aceite. Del blanco al negro bonito",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Natalia Gamboa Virgüez",
+       "orcid": null
+      }
+     ],
+     "resumen": "This article narrates an ethnography that takes shape as a creative process, forged through doodles that gradually transformed into sketches and drawings of the tools used in emerald guaquería, as well as the bonds with the people of the western region of Boyacá, Colombia. In this context, the Mining World is proposed as a visual and social poetics, constantly in tension with notions of “legality” and the relationship with nature. The series Golpe de Suerte is presented: six freehand drawings (ballpoint pen on bond paper) that appear throughout the text as a kind of decal. These drawings also serve as triggers for a methodology that discovers life as it encounters veins, understood as pathaways shaped by time, force, and pressure Around precious stones. A vein announces the guaca, the treasure, the wealth. Possibly, a vein leads to the emerald and, when that happens, guaqueros say that it “pintó.” The ethnography in western Boyacá has been carried out through a gaze grounded in drawing, which has broadly engaged with the doodle and the sketch by focusing on the repetitions of guaquero labor, of life, of the forest, of emeralds, and their mystery. The visual and social poetics of the Mining World are composed of: time, force, movement, tambre, pinta (r), and dominance.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.11144/javeriana.uh94.pdmg",
+     "doi": "10.11144/javeriana.uh94.pdmg",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.11144/javeriana.uh94.caae",
+     "titulo": "“Confía en su apetito”. Apuntes sobre la exactitud etnográfica y el uso del dibujo en un contexto de desconfianza hacía las fotografías.",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Federico De Musso",
+       "orcid": "https://orcid.org/0000-0002-8761-240X"
+      }
+     ],
+     "resumen": "The following article asks what role drawing plays in a context where the indexicality of images is politically charged, and where doubt is not only an ethnographic tool but also the object of ethnographic research. The article presents how in the mountainous district of the High Pyrenees and Aran (Alt Pirineu i Aran) in Spain, where I conducted research between 2016 and 2018, attacks by wildlife have drawn attention to the veracity of highly disputed visual evidence. Amid contradictory statemets from farmers and officials from the Department of Agriculture, Livestock, and Fisheries (DARP), the images fail to reflect epistemological certainty and instead foster a climate of mistrust. This article proposes that ethnographic drawing has the capacity to reveal the nuances of the complicated relationship that interlocutors have with images.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.11144/javeriana.uh94.caae",
+     "doi": "10.11144/javeriana.uh94.caae",
+     "paginas": null,
+     "fuente": "Crossref"
+    }
+   ]
+  },
+  {
+   "id": "v93-2024",
+   "volumen": "93",
+   "numero": null,
+   "anio": 2024,
+   "fecha": "2024-12-24",
+   "etiqueta": "Vol. 93 (2024)",
+   "fuente": "Crossref",
+   "articulos": [
+    {
+     "id": "10.11144/javeriana.uh93.aitr",
+     "titulo": "Autonomía indígena en tensión",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Juan Manuel Castellanos Obregón",
+       "orcid": "https://orcid.org/0000-0002-1720-5278"
+      },
+      {
+       "nombre": "Gretel Espinosa Herrera",
+       "orcid": "https://orcid.org/0000-0003-1589-1304"
+      }
+     ],
+     "resumen": "This article presents a systematic review of governance and governability in Colombian Indigenous communities. Drawing on the analysis of empirical studies, it identifies the challenges these communities face in sustaining their autonomy, particularly in the face of the State’s political and legal frameworks. The findings highlight persistent tensions between traditional forms of self-government and state regulation, revealing the urgent need for more inclusive public policies that respect Indigenous governance. The review also underscores the importance of integrating ancestral knowledge into state institutions as a pathway toward intercultural governance that promotes sustainable territorial development. It concludes that strengthening Indigenous autonomy is essential to confronting the pressures associated with modernization and globalization.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.11144/javeriana.uh93.aitr",
+     "doi": "10.11144/javeriana.uh93.aitr",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.11144/javeriana.uh93.cssp",
+     "titulo": "Cooperación sur-sur con perspectiva cultural: interdependencia, dialogo y coexistencia",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Maguemati Wabgou",
+       "orcid": null
+      }
+     ],
+     "resumen": "El texto analiza diversas posibilidades de realización y consolidación de iniciativas que faciliten y potencien dinámicas de cooperación sur-sur entre África, Asia, América Latina y el Caribe, desde una perspectiva cultural. También afianza la interdependencia, el diálogo y la coexistencia como elementos dinamizadores de los acercamientos entre pueblos, Estados e instituciones de estas regiones, y busca abordar el asunto de la cooperación sur-sur con recursos teóricos específicos y con referencias a la colaboración intelectual y cultural. Además, recurre a epistemologías alternativas, descolonizadoras y críticas para elucidar la historia de la alteridad africana, que se posiciona como un puente entre la asiática, la latinoamericana y caribeña. Esto permite alimentar reflexiones cargadas de improntas culturales, académicas e históricas que buscan intensificar dicha cooperación, y pone énfasis en el protagonismo de la comunidad de investigadores/as en estas iniciativas de colaboración académica. Igualmente, pretende establecer condiciones favorables para un mejor acercamiento de los pueblos, los Estados y las instituciones de este sur global. En definitiva, apuesta por la creación de alianzas fructíferas e indispensables para un diálogo sostenido, una coexistencia enriquecedora y una interdependencia constructiva que obren a favor del fortalecimiento de los intercambios culturales, políticos y económicos en este escenario internacional.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "http://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.11144/javeriana.uh93.cssp",
+     "doi": "10.11144/javeriana.uh93.cssp",
+     "paginas": "1-15",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.11144/javeriana.uh93.dmlm",
+     "titulo": "Designing Multimedia Learning Materials in Rural Settings Located in the Colombian Coffee Region",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Josefina Quintero Corzo",
+       "orcid": "https://orcid.org/0000-0002-9451-113X"
+      },
+      {
+       "nombre": "Wadis Yovany Posada Silva",
+       "orcid": "https://orcid.org/0000-0002-8918-9959"
+      },
+      {
+       "nombre": "Fabio Ignacio Munévar Quintero",
+       "orcid": null
+      }
+     ],
+     "resumen": "This article addresses results from a research work following the principles and methods of the qualitative-evaluative approach that intended to design, develop, and validate a series of multimedia learning materials applied to different curriculum disciplines. The study was carried out in rural schools located in an underdeveloped Colombian Coffee Region from 2018 to 2020. Guidelines, class observations, surveys, interviews, and expert assessment were the most useful instruments and sources of data. The results indicate that given the novelty, attractiveness, and curiosity towards the use of multimedia components, rural schoolchildren acquired different levels of active learning competencies. Bearing in mind that digital divide may intensify the existing rural-urban gap, it is crucial to embrace innovative solutions to persistent problems in declining equity and quality taking into account the rural students’ contexts. It is a curricular innovation providing teachers the possibility to conduct interactive, dynamic, playful, and creative classes according to the rural reality.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "http://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.11144/javeriana.uh93.dmlm",
+     "doi": "10.11144/javeriana.uh93.dmlm",
+     "paginas": "1-17",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.11144/javeriana.uh93.emcm",
+     "titulo": "El montaje cinematográfico y la memoria",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Diego Mauricio Rodríguez Arévalo",
+       "orcid": null
+      }
+     ],
+     "resumen": "El método desarrollado por Sergei Eisenstein, a través del cual logra encadenar y dar sentido a una serie de planos cinematográficos, pone de manifiesto la importancia del montaje, en tanto que permite revelar sensaciones y afectaciones, es decir, un pathos que hace referencia a intereses vitales, miedos, deseos y nostalgias de diferentes lugares y épocas, que irrumpen de manera fulgurante en forma de imagen. En términos de la memoria, existe de manera similar un montaje de imágenes, por medio de las cuales se representa el pasado. Por tanto, el presente artículo desarrolla algunas reflexiones acerca de la película El acorazado Potemkin, y, a su vez, plantea la posibilidad de trasladar una serie de características del montaje eisensteniano a los procesos de la memoria. En consecuencia, se establece un paralelo entre la obra de la artista Doris Salcedo y las variadas formas mediante las cuales se puede representar la memoria. En este sentido, la obra de arte, vista como una suerte de montaje de las emociones y la historia, marca una deriva metodológica mediante la cual se pueden analizar los procesos del recuerdo y del olvido.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "http://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.11144/javeriana.uh93.emcm",
+     "doi": "10.11144/javeriana.uh93.emcm",
+     "paginas": "1-12",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.11144/javeriana.uh93.opea",
+     "titulo": "Entre objetos y palabras. De lo enunciado sobre el arte a lo enunciado por el arte colombiano",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Adryan Fabrizio Pineda Repizzo",
+       "orcid": "https://orcid.org/0000-0003-1498-1252"
+      }
+     ],
+     "resumen": "Este artículo presenta una reflexión en torno a la posición de enunciación en el arte colombiano, tomando como referente el problema de hablar por otros planteado por Linda Alcoff. Para ello, explora la distinción entre lo enunciado sobre el arte y lo enunciado por el arte, a la luz de algunos casos de obras de arte colombiano de la década de 1970 en adelante. En particular, aquellas obras que se apropian de un objeto de uso cotidiano pero cuya poética difícilmente se reduce a una importación de vanguardias. Ello permite contemplar una forma de identificar lo que el arte enuncia del contexto cultural (por ejemplo, el estado de viaje) y a la vez la posibilidad de provincializar el lenguaje del arte como modo de reconocer el potencial creativo y categorial emergente de la producción artística.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "http://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.11144/javeriana.uh93.opea",
+     "doi": "10.11144/javeriana.uh93.opea",
+     "paginas": "1-16",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.11144/javeriana.uh93.imjr",
+     "titulo": "Influencias de la migración juvenil rural en el municipio de Granada (Meta), Colombia",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Jorge Luis Triana Riveros",
+       "orcid": "https://orcid.org/0000-0002-2310-1256"
+      },
+      {
+       "nombre": "Suzana Maria Valle Lima",
+       "orcid": "https://orcid.org/0000-0003-2958-5340"
+      },
+      {
+       "nombre": "Monica del Pilar Rodriguez Rodriguez",
+       "orcid": "https://orcid.org/0000-0002-0438-3147"
+      },
+      {
+       "nombre": "Marlon Vinicius Brisola",
+       "orcid": "https://orcid.org/0000-0002-2262-5971"
+      }
+     ],
+     "resumen": "El presente estudio identifica las principales influencias de la migración juvenil rural en el municipio de Granada (Meta), Colombia. El estudio replicó y adaptó el instrumento y las variables en la investigación de Lima et al. (2013), aplicando el instrumento survey a 62 jóvenes rurales seleccionados por medio de la estadística probabilística. Los resultados fueron analizados a través del método cuantitativo. Como resultado principal, se describieron las dificultades que enfrentan los jóvenes del municipio de Granada, siendo algunas la falta de infraestructura en educación, el trabajo y la violencia, que es el resultado de un conflicto armado que ha permanecido durante años. Para finalizar, se concluye que el 44 % de los jóvenes desea emigrar del campo a las ciudades debido a la alta tasa de modernización de las ciudades, lo que limita la mano de obra disponible en el campo; a la dificultad de encontrar trabajo en el campo; a la violencia; a la falta de acceso a la educación en el campo, y a la baja probabilidad de heredar la tierra. Estas variables son importantes para ser analizadas en el contexto de otros municipios limítrofes y pueden dar una luz a los formuladores de políticas públicas.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "http://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.11144/javeriana.uh93.imjr",
+     "doi": "10.11144/javeriana.uh93.imjr",
+     "paginas": "1-19",
+     "fuente": "Crossref"
+    }
+   ]
+  }
+ ]
+};

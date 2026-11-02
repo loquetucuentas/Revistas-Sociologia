@@ -1,36 +1,28 @@
 # Revistas pendientes de revisión
 
-Generado el 2026-10-26T04:47:42+00:00. Revistas que aparecen en DOAJ pero de las que no se han
+Generado el 2026-11-02T05:12:34+00:00. Revistas que aparecen en DOAJ pero de las que no se han
 podido obtener números ni artículos. No se muestran en la aplicación.
 
-## AG - About Gender
+## Funes
 
-Identificador: 2279-5057. ISSN: 2279-5057.
-Web: https://riviste.unige.it/index.php/aboutgender. Dominio: riviste.unige.it.
-
-1. Crossref no tiene artículos con estos ISSN.
-2. No se ha encontrado un punto OAI-PMH en la web de la revista.
-
-## Crítica y Resistencias
-
-Identificador: 2525-0841. ISSN: 2525-0841.
-Web: https://www.criticayresistencias.com.ar/revista. Dominio: www.criticayresistencias.com.ar.
+Identificador: 2532-6732. ISSN: 2532-6732.
+Web: https://serena.sharepress.it/index.php/funes/about. Dominio: serena.sharepress.it.
 
 1. Crossref no tiene artículos con estos ISSN.
 2. No se ha encontrado un punto OAI-PMH en la web de la revista.
 
-## Distopía y Sociedad
+## LiTheS. Zeitschrift für Literatur- und Theatersoziologie
 
-Identificador: 2792-2901. ISSN: 2792-2901.
-Web: https://www.distopiaysociedad.es/. Dominio: www.distopiaysociedad.es.
+Identificador: 2071-6346. ISSN: 2071-6346.
+Web: http://unipub.uni-graz.at/lithes. Dominio: unipub.uni-graz.at.
 
 1. Crossref no tiene artículos con estos ISSN.
 2. No se ha encontrado un punto OAI-PMH en la web de la revista.
 
-## Language, Discourse & Society
+## Pagine Inattuali
 
-Identificador: 2239-4192. ISSN: 2239-4192.
-Web: https://www.language-and-society.org/language-discourse-society/. Dominio: www.language-and-society.org.
+Identificador: 2280-4110. ISSN: 2280-4110.
+Web: http://www.serena.unina.it/index.php/pagineinattuali/index. Dominio: www.serena.unina.it.
 
 1. Crossref no tiene artículos con estos ISSN.
 2. No se ha encontrado un punto OAI-PMH en la web de la revista.
@@ -40,8 +32,9 @@ Web: https://www.language-and-society.org/language-discourse-society/. Dominio: 
 Se muestran en la aplicación con sus últimos números en Crossref, pero esos
 números son antiguos y no se ha podido comprobar si hay otros más recientes.
 
-## Controversias y Concurrencias Latinoamericanas
+## Urbana: Revista Eletrônica do Centro Interdisciplinar de Estudos da Cidade
 
-Identificador: 2219-1631. Dominio: ojs.sociologia-alas.org.
+Identificador: 1982-0569. Dominio: periodicos.sbu.unicamp.br.
 
-1. Crossref no tiene artículos con estos ISSN.
+1. Los datos de Crossref terminan en 2021; se prueba OAI-PMH.
+2. No se ha encontrado un punto OAI-PMH en la web de la revista.

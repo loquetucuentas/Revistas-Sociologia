@@ -1,0 +1,555 @@
+// Copia de revistas/2215-275X.json para abrir la aplicación sin servidor.
+(window.DATOS_REVISTAS = window.DATOS_REVISTAS || {})["revistas/2215-275X.json"] = {
+ "version": 1,
+ "generado": "2026-11-02T05:12:34+00:00",
+ "es_prueba": false,
+ "revista": {
+  "id": "2215-275X",
+  "titulo": "RevistArquis",
+  "idioma_titulo": null,
+  "titulo_alternativo": null,
+  "idioma_titulo_alternativo": null,
+  "idiomas": [
+   "es"
+  ],
+  "issn_impreso": null,
+  "issn_electronico": "2215-275X",
+  "editorial": "Universidad de Costa Rica",
+  "pais": "CR",
+  "materias": [
+   "Architecture",
+   "Urban groups. The city. Urban sociology"
+  ],
+  "palabras_clave": [
+   "cities",
+   "territory",
+   "urbanism",
+   "construction",
+   "design"
+  ],
+  "licencias": [
+   {
+    "nombre": "CC BY-NC-ND 4.0",
+    "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+   }
+  ],
+  "url": "https://archivo.revistas.ucr.ac.cr/index.php/revistarquis/index",
+  "url_doaj": "https://doaj.org/toc/2215-275X",
+  "descripcion": null,
+  "fuente_ficha": "DOAJ",
+  "archivo": "revistas/2215-275X.json",
+  "ultimo_numero": "Vol. 12, núm. 2 (2026)",
+  "fuente_numeros": "Crossref"
+ },
+ "numeros": [
+  {
+   "id": "v12-n2-2026",
+   "volumen": "12",
+   "numero": "2",
+   "anio": 2026,
+   "fecha": "2026-06-09",
+   "etiqueta": "Vol. 12, núm. 2 (2026)",
+   "fuente": "Crossref",
+   "articulos": [
+    {
+     "id": "10.15517/ra.v12i2.54190",
+     "titulo": "Del espacio aniquilado al espacio disfrutado. Los mapas del Ferrocarril al Pacífico (Argentina, 1899-1930)",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Ana Bonelli Zapata",
+       "orcid": null
+      }
+     ],
+     "resumen": "The constant changes caused by the development of the railway in Argentina at the end of the 19th century implied the need to visualize and interpret both an expanding national territory and the process of transformation itself. For this purpose, different strategies possible by the technical conditions of the time were deployed, which had an effect of meaning and impacted on the perception of travel as a novel experience. In this work I try to look at these strategies, starting with the analysis of five wall maps published by the Buenos Aires and Pacific Railway Co. between 1899 and 1925 and their relationship with other printed objects of the company. Thinking in Wolfgang Schivelbusch's concept of space in-between, it is possible to observe a trend from the annihilation of the space between the stations (empty, dangerous, or irrelevant) towards the valorization and enjoyment of travel as an experience modern. As I want to demonstrate, this change was influenced by political and economic decisions regarding the territory and the development of graphic culture and advertising discipline in the railway area.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 4.0",
+      "url": "http://creativecommons.org/licenses/by-nc-nd/4.0"
+     },
+     "url": "https://doi.org/10.15517/ra.v12i2.54190",
+     "doi": "10.15517/ra.v12i2.54190",
+     "paginas": "1-35",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.15517/ra.v12i2.54072",
+     "titulo": "Documentación y registro: reflexiones a propósito del viaje de Le Corbusier a Sur América",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Carlos Mata Quesada",
+       "orcid": null
+      }
+     ],
+     "resumen": "This article seeks to approach the background and motivations that ignited Le Corbusier's first trip to South America. It is based on two main derivatives: On one hand, it is directed to approach and understand certain elements of the journey undertaken in 1929 by the French-Swiss architect. On the other hand, it is aimed at building a private file to reflect on the ideas of the documentation, registration, travel and chronicle as practices and operations which is reflected in the logistics of the processes of designing, learning, and understanding architecture. In addition, the article´s purpose is to see these processes as part of the modern tradition with all the inherent elements of the discipline's own processes, something that Le Corbusier himself did not escape from. In this sense, it is necessary to reflect on these conditions in order to understand them within what has to be called the project of modernity, and how the ideas of travel and its recording begin to be fundamental elements as part of its expansive condition, consumption and the proto globalization of the modern world. In this sense, the condition of traveling, the construction of the record and the chronicle, have a sine qua non condition to it which is seen from the middle of the 18th century until a great portion of the 20th century.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 4.0",
+      "url": "http://creativecommons.org/licenses/by-nc-nd/4.0"
+     },
+     "url": "https://doi.org/10.15517/ra.v12i2.54072",
+     "doi": "10.15517/ra.v12i2.54072",
+     "paginas": "36-68",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.15517/ra.v12i2.54075",
+     "titulo": "Biopolítica y Arquitectura del Seguro Obrero Chileno. La Fábrica y Población Central de Leche",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Alicia Campos Gajardo",
+       "orcid": null
+      }
+     ],
+     "resumen": "The biopolitical approach here presented, aims to interpret the morphological and programmatic characteristics of the residential complex of the Central Factory of Milk, considering the conceptualizations provided by M. Foucault on the notion of population and environment with the treatment of its vital processes for an economic availability of its productive forces. Located in the first industrial periphery of the city of Santiago, the Central Factory of Milk’s complex, is a residential group adjacent to the homonymous dairy factory. The complex also had community facilities, commerce, and a health clinic, which in its arrangement are seen as a unit, arranging daily life and its safeguards in terms of production. This residential and industrial complex has its origins in the management of the Workers’ Insurance Fund, the first Chilean and Latin American initiative for provision of health, sickness, and elderly workers' welfare, through contributions from employers, the State, and the hired workers. This institution articulated early on the healthiness of its members from the perspective of social medicine, taking care of the sanitary equipment for health care and welfare, but also planning the residential space and work conditions to strengthen their productive forces. This care for the workforce is understood here from a biopolitical perspective, recognizing the regulation and assurance strategies that, through a qualitative and relational methodology on specific documents, will be associated with architectural and urban aspects of residential, health, and productive programs of the residential complex of Central Factory of Milk.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 4.0",
+      "url": "http://creativecommons.org/licenses/by-nc-nd/4.0"
+     },
+     "url": "https://doi.org/10.15517/ra.v12i2.54075",
+     "doi": "10.15517/ra.v12i2.54075",
+     "paginas": "69-89",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.15517/ra.v12i2.53820",
+     "titulo": "La incorporación del diseño participativo en la política habitacional argentina",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Juan Santiago Palero",
+       "orcid": null
+      }
+     ],
+     "resumen": "In October 2022, the Self-managed Social Production of the Habitat Bill was presented at the Argentine National Congress. This bill incorporates strategies deployed by social organizations to collectively achieve the right to adequate housing into the country's housing policy. As one of its innovations, this bill seeks to implement a participatory design, although the letter of the law does not clarify its connotations and implications. This article reflects on the meaning of participatory design, its contributions, limitations, and possibilities of application in the new framework that the law opens. To answer these questions, this research combines bibliographic and archival sources with participant observation techniques implemented in previous and current experiences. Even though the origin of the bills associates participatory design with a philosophical discussion about the beauty of social housing, the conclusions of the work highlight the practical value of participatory design as an instance of negotiation between actors. These pragmatic advantages can become political when the architectural project allows building a social consensus toward a desired future, but the success of this process requires adequate planification. This bill constitutes an advance in this matter, as it foresees both the multi-stakeholder approach in interdisciplinary teams and instances of methodological training in a National School of Self-management.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 4.0",
+      "url": "http://creativecommons.org/licenses/by-nc-nd/4.0"
+     },
+     "url": "https://doi.org/10.15517/ra.v12i2.53820",
+     "doi": "10.15517/ra.v12i2.53820",
+     "paginas": "90-109",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.15517/ra.v12i2.54243",
+     "titulo": "Viviendas vernáculas: Formas de hábitat en la costa de Ecuador",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Angélica Brigitte Peralta Coello",
+       "orcid": null
+      }
+     ],
+     "resumen": "This article represents a preliminary advance of a study that intends to analyze the conditions of habitability and materiality of rural houses on the coast of Ecuador, whose importance arises from the little attention given as objects of study, despite the fact that 37% of the population resides in rural areas. The lack of information on appropriate housing models for this sector is evident, so this study aims to analyze the most relevant characteristics of traditional rural housing in relation to its location and the materials available in the environment. In addition, the inheritance received in this context is analyzed, understanding it, how to take advantage of it, and apply it in the current construction. The result is not to propose a specific housing model, but rather to highlight the importance and be able to consider these aspects in the development of sustainable, functional housing models and according to their context.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 4.0",
+      "url": "http://creativecommons.org/licenses/by-nc-nd/4.0"
+     },
+     "url": "https://doi.org/10.15517/ra.v12i2.54243",
+     "doi": "10.15517/ra.v12i2.54243",
+     "paginas": "110-135",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.15517/ra.v12i2.54281",
+     "titulo": "Sembrando esperanzas: tipos y contextos de las huertas agroecológicas en el Oeste de Montevideo",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Eduardo Álvarez Pedrosian",
+       "orcid": null
+      }
+     ],
+     "resumen": "Within the framework of the study on the multi-territorial logics of a contemporary dwelling, we find ourselves involved in the universe of more or less intertwined networks of existing agroecological orchards in the area known as the West of the city and the department of Montevideo more in general. In this paper, we test a possible characterization of different morphological types, in terms of socio-territorial configurations resulting from environmental designs and associative strategies present in cases considered significant for their socio-spatial qualities. In the first place, we make a general introduction presenting the objectives and the framework of activities and then continue with the methodological coordinates and epistemological reflections linked to collaborative experimental ethnographic practice. Then we immerse in five specially selected cases, to lay the groundwork for the discussion on the qualities that define the possible variables to be considered in cartography, always open and in process, of this socio-territorial phenomenon so significant for the local, regional, and international reality. We close with some final considerations about the transformations in the ways of dwelling and the territorialities that this implies, regarding the relationships between environment, city, and territory.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 4.0",
+      "url": "http://creativecommons.org/licenses/by-nc-nd/4.0"
+     },
+     "url": "https://doi.org/10.15517/ra.v12i2.54281",
+     "doi": "10.15517/ra.v12i2.54281",
+     "paginas": "136-164",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.15517/ra.v12i2.53798",
+     "titulo": "Centralidades y ferias comerciales en el noroeste de la Región Metropolitana de Buenos Aires",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Lorena Vecslir",
+       "orcid": null
+      },
+      {
+       "nombre": "Jorge Blanco",
+       "orcid": null
+      },
+      {
+       "nombre": "Florencia Sciutto",
+       "orcid": null
+      }
+     ],
+     "resumen": "The analysis of centralities represents an entry point to metropolitan space-time dynamics, with multiple variants in terms of typologies, urban articulations, access modes, commercial profiles, and land uses. In the case of the Metropolitan Region of Buenos Aires, from the hypothesis that there are tacit networks of exchange and commerce that are juxtaposed territorially and temporally, shaping centralities with different orders of insertion and metropolitan behavior, this article delves into the relationships established between traditional street commerce and temporary consumption patterns, such as fairs and markets. Based on the use of open data platforms and information mapping, documentary research techniques, direct observation, and interviews with key informants, we analyze the structure of centralities in two municipalities of the metropolitan northwestern first ring (San Miguel and San Martin), emphasizing the temporal modalities of commercial use, and we characterize the typologies of fairs using four representative cases. By way of conclusion, a reflection is made on the competitive and complementary relations among the different commercial formats.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 4.0",
+      "url": "http://creativecommons.org/licenses/by-nc-nd/4.0"
+     },
+     "url": "https://doi.org/10.15517/ra.v12i2.53798",
+     "doi": "10.15517/ra.v12i2.53798",
+     "paginas": "165-187",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.15517/ra.v12i2.53050",
+     "titulo": "Memorias migrantes, exclusión y pertenecia, el caso de Goiânia",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Suzete De Bessa",
+       "orcid": null
+      }
+     ],
+     "resumen": "This article seeks to highlight the dynamics of memories without a place and their consequences in conflicts and potentialities in Goiânia, identifying how they result in exclusion and belonging, and imply the valorization of the experience and voice of migrants in the city. To this end, it intends to present conclusions from research in architecture and urbanism initiated in 2019 at the Federal University of Bahia that were presented to postgraduate researchers, being built concomitantly with the development of extension projects with Venezuelan migrants and refugees in Goiânia and its metropolitan region, in the State of Goiás. The work at the time sought, through a semi-structured investigation, to establish a dialogue about the complexity of the elaboration of memories in the context of migrations, considering the political moment, trying to apply such dialogues to the specific local scenario and their diversified migratory profiles. Faced with an incipient investigation, some mobilized theories turned out to be imprecise and some authors absolutely necessary for the dialogue were exempted from the debate. Today, three years after the beginning of the research, which occurred with a single family nucleus, and after a hiatus dedicated to the maturation and deepening of the methodological practice, it was extended to other nuclei or migrant and refugee families in Goiânia. In this way, it seeks to review what was proposed in the first work, in order to reconsider it and its conclusions based on a careful methodological description, positioning highly relevant authors and researchers in its construction.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 4.0",
+      "url": "http://creativecommons.org/licenses/by-nc-nd/4.0"
+     },
+     "url": "https://doi.org/10.15517/ra.v12i2.53050",
+     "doi": "10.15517/ra.v12i2.53050",
+     "paginas": "188-211",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.15517/ra.v12i2.54332",
+     "titulo": "Modernidad y urbanidad en la arquitectura de dos hospitales del centro de Río de Janeiro",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Rafael Barcellos Santos",
+       "orcid": null
+      },
+      {
+       "nombre": "Ana Albano Amora",
+       "orcid": null
+      }
+     ],
+     "resumen": "This paper intends to analyze the architecture of two modern hospitals located in the Rio de Janeiro city center and the formal relationships that both establish, each in its own way, with the form and elements of the urban landscape in which they are inserted. An urban landscape that is now protected as cultural heritage did not happen when the mentioned hospitals were built, whose typological principles will serve as methodological tools for the formal analysis of their architectures. But always related to the historical layers of the urban context in which they are inserted, and the consequent monumentality they thus produce. The Souza Aguiar Municipal Hospital and the National Cancer Institute José Alencar Gomes da Silva are the case studies analyzed and show how simultaneous and diverse the relations of contrast and analogy between new and old typological models of architecture and city can be.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 4.0",
+      "url": "http://creativecommons.org/licenses/by-nc-nd/4.0"
+     },
+     "url": "https://doi.org/10.15517/ra.v12i2.54332",
+     "doi": "10.15517/ra.v12i2.54332",
+     "paginas": "212-230",
+     "fuente": "Crossref"
+    }
+   ]
+  },
+  {
+   "id": "v14-n1-2024",
+   "volumen": "14",
+   "numero": "1",
+   "anio": 2024,
+   "fecha": "2024-12-30",
+   "etiqueta": "Vol. 14, núm. 1 (2024)",
+   "fuente": "Crossref",
+   "articulos": [
+    {
+     "id": "10.15517/ra.v14i1.55530",
+     "titulo": "Movilidades precarias: experiencias de personas repartidoras de plataformas para el GAM de Costa Rica",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Gustavo Adolfo Jiménez-Barboza",
+       "orcid": null
+      }
+     ],
+     "resumen": "The article, from an urban sociology perspective, explores the precarious mobility experienced by platform workers in the Greater Metropolitan Area (GAM) of Costa Rica. The interactions of these people with the bicycle as a means of transport, its impact on sustainability and resilience, as well as the implications for their body, health and mobility were investigated. Their experience of the city, the relationship with platform companies and other key players, such as clients and co-workers were also analyzed. The theory selected to study the mobility dynamics and experience was motility, since it focuses on understanding how people gain or lose mobility capital through their disputed capitals in the city. The aim of this analysis is to comprehend the geographic and social dynamics that surround these workers, and to promote critical reflection on their displacement, work and life conditions. The methodology used for this research is qualitative, based on exploration and ethnographic interviews, as well as semi-structured interviews with delivery people.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 4.0",
+      "url": "http://creativecommons.org/licenses/by-nc-nd/4.0"
+     },
+     "url": "https://doi.org/10.15517/ra.v14i1.55530",
+     "doi": "10.15517/ra.v14i1.55530",
+     "paginas": "1-22",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.15517/ra.v14i1.61749",
+     "titulo": "De la informalidad a la formalidad urbana en condominios de interés social del GAM: adaptaciones, desafíos y lecciones para la política de vivienda",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Paulo César Hidalgo Cortés",
+       "orcid": null
+      },
+      {
+       "nombre": "Carolina Inés Pedrotti Bruno",
+       "orcid": null
+      }
+     ],
+     "resumen": "In the Greater Metropolitan Area (GAM) of Costa Rica, the production of social interest condominiums financed by the state housing subsidy system has become the alternative housing solution, from public policy, for people in conditions of poverty. The development of these figures —legal and spatial— has implied a real change of life for those who have historically had to face urban informality and survive in precarious settlements. This change begins with a process of breaking the previous way of living, to incorporate and then “adapt” to another way, thought from formality, which is not always appropriate for the residents; that is, it does represent lives as a virtuous change, at least in some respects. This gives rise to the emergence of different types of conflicts, adjustments and/or consensus building by residents in the new environment, which can even lead to processes of return to informality in an environment of formal origin. The study of these experiences generates learning for housing policy. The work identifies those aspects proposed by the formality in the condominiums that have generated neighborhood conflicts, discusses these learnings, and analyzes how they could be rescued as lessons.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 4.0",
+      "url": "http://creativecommons.org/licenses/by-nc-nd/4.0"
+     },
+     "url": "https://doi.org/10.15517/ra.v14i1.61749",
+     "doi": "10.15517/ra.v14i1.61749",
+     "paginas": "23-49",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.15517/ra.v14i1.62357",
+     "titulo": "Gradaciones de la domesticidad. Representaciones en la literatura y el cine contemporáneos",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Carolina Sanabria",
+       "orcid": null
+      }
+     ],
+     "resumen": "This argumentative text is an academic reflection on an interdisciplinary topic that articulates areas of architecture, history, literature and cinema, and domestic interiors. According to a corpus of literary texts from the 20th century and films from the 20th and 21st centuries, the aim is to problematize nature of the house and overcome the traditional paradigm that conceives it as a traditional space of the intimate or private sphere as safe compared to the outside space, more linked to the public sphere and of insecurity. In contemporary domesticity there are a series of spaces that are configured more intimate and others more social. The analysis of the spaces of the corpus attempts to show the evolution of a concept and a practice that dates back to the 17th century when domesticity began. The house, at the time, was far from becoming an undifferentiated or uniform space in itself, since the representation of the domestic configures new dynamics between security and hostility, public and private. In a way, the aim is to build a framework that allows the analysis of social spaces in intimacy, as a theoretical tool for interdisciplinary and analytical work.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 4.0",
+      "url": "http://creativecommons.org/licenses/by-nc-nd/4.0"
+     },
+     "url": "https://doi.org/10.15517/ra.v14i1.62357",
+     "doi": "10.15517/ra.v14i1.62357",
+     "paginas": "50-68",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.15517/ra.v14i1.62437",
+     "titulo": "Teorizar haciendo: Pedagogías Experimentales en la Enseñanza de la Teoría de la Arquitectura",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Ana Paula Montes Ruiz",
+       "orcid": null
+      },
+      {
+       "nombre": "Joaquín Barriendos",
+       "orcid": null
+      },
+      {
+       "nombre": "Ismael Rodríguez",
+       "orcid": null
+      },
+      {
+       "nombre": "Santiago Altamirano Gama",
+       "orcid": null
+      },
+      {
+       "nombre": "Isabel Carolina Díaz Caicedo",
+       "orcid": null
+      },
+      {
+       "nombre": "Itzyri Paola Elorza Galindo",
+       "orcid": null
+      },
+      {
+       "nombre": "Hilda Michelle Joya Ornelas",
+       "orcid": null
+      },
+      {
+       "nombre": "Leonela Fernanda Osorio Córdova",
+       "orcid": null
+      }
+     ],
+     "resumen": "There is consensus that theory is a key ingredient for the practice and thinking of architecture nowadays. However, theory seems stranded at the margins of the architectural curriculum, somehow disconnected from everyday life. This is even more so at undergraduate level. In most cases, architectural theory courses are elective, taught separately from studio practice, hands-on workshops and architectural design. Given this situation, it is necessary to build more experimental pedagogical approaches when teaching architectural theory. This theoretical content should be transversally integrated in the curriculum throughout, expanding the pragmatist scope of the learning by doing school (John Dewey) and implementing a new pedagogical approach based on what we call theorizing (architecture) by doing (artistic spatial practices). This article discusses the implementation of this pedagogy in one undergraduate course taught at Instituto Tecnológico de Monterrey (ITESM), in Mexico. The findings include a critical approach to ‘anthropophagy’ as an alternative methodology for teaching Modern Latin American Architecture, and a commentary on how architectural theory could be taught in the future.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 4.0",
+      "url": "http://creativecommons.org/licenses/by-nc-nd/4.0"
+     },
+     "url": "https://doi.org/10.15517/ra.v14i1.62437",
+     "doi": "10.15517/ra.v14i1.62437",
+     "paginas": "69-104",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.15517/ra.v14i1.61582",
+     "titulo": "El patrimonio conservero del barrio Puerto de Mar del Plata. Problemas y potencialidades desde una valoración socio-productiva y tipológica",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Mariana Fernández Olivera",
+       "orcid": null
+      },
+      {
+       "nombre": "Lorena Marina Sánchez",
+       "orcid": null
+      }
+     ],
+     "resumen": "The treatment of port industrial heritage constitutes a problem that emerges in the last decades of the twentieth century from the restructurings produced in the ports and the associated transformations of their environments. In this sense, the Puerto neighborhood of the city of Mar del Plata —Argentina— is significant. Of particular interest is what happened with the development of the fish canning industry, in its heyday between the 1930s and 1960s, since it promoted a unique manufacturing deployment that still survives in different scales and states. This heritage is the one that is valued, from the socio-productive processes and its associated typological condition, in order to analyze problems and potentialities that allow channeling appropriate actions for its preservation. To do this, we work from a qualitative approach through written, planimetric and photographic archives, together with on-site surveys and testimonials of interviews with key actors",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 4.0",
+      "url": "http://creativecommons.org/licenses/by-nc-nd/4.0"
+     },
+     "url": "https://doi.org/10.15517/ra.v14i1.61582",
+     "doi": "10.15517/ra.v14i1.61582",
+     "paginas": "105-122",
+     "fuente": "Crossref"
+    }
+   ]
+  },
+  {
+   "id": "v13-n2-2024",
+   "volumen": "13",
+   "numero": "2",
+   "anio": 2024,
+   "fecha": "2024-06-30",
+   "etiqueta": "Vol. 13, núm. 2 (2024)",
+   "fuente": "Crossref",
+   "articulos": [
+    {
+     "id": "10.15517/ra.v13i2.60182",
+     "titulo": "Arquitectura, violencia y memoria: El caso del ataque paraestatal a la UNAN-Managua en Julio del 2018",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Federico Espinoza",
+       "orcid": null
+      }
+     ],
+     "resumen": "Durante el 2018, la sociedad nicaragüense vivió una de las convulsiones y crisis socio-políticas más severas de su historia. Estos acontecimientos se caracterizaron por la sistemática y generalizada represión estatal a distintas manifestaciones disidentes de la sociedad civil. El interés de este artículo es proponer la adopción de metodologías contra forenses para explorar intersecciones entre arquitectura, violencia y memoria utilizando como caso de estudio el ataque paraestatal ocurrido el 13 y 14 de julio del 2018 contra miembros de la comunidad universitaria de la Universidad Nacional Autónoma de Nicaragua, Managua. Este escrito sugiere que el Estado, al planificar espacialmente sus acciones, también utiliza entidades no-humanas para infligir terror, según las narrativas de algunos sobrevivientes, el análisis espacial y archivos digitales. De este modo, se supera la relación lineal entre perpetrador y víctima.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 4.0",
+      "url": "http://creativecommons.org/licenses/by-nc-nd/4.0"
+     },
+     "url": "https://doi.org/10.15517/ra.v13i2.60182",
+     "doi": "10.15517/ra.v13i2.60182",
+     "paginas": "1-29",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.15517/ra.v13i2.59808",
+     "titulo": "Tesis sobre la transformación territorial de San José en el neoliberalismo durante el siglo XXI: Orígenes, procesos y resultados",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Andrés Jiménez Corrales",
+       "orcid": null
+      }
+     ],
+     "resumen": "Las ciudades se encuentran en constante transformación territorial, lo cual está sustentado en proyectos políticos-territoriales que caracterizan su ejecución y sus resultados sociales. En este artículo se desarrolla un análisis del Programa de Regeneración y Repoblamiento de San José, como una herramienta política y territorial que, por medio de su creación, sus contenidos y su materialización, permitió crear las condiciones estructurales para impulsar un giro neoliberal en esta ciudad. Para esto se presentan siete tesis, las cuales constituyen un enunciado sintético que es seguido por una descripción analítica que explica su dimensionalidad. La investigación se sustenta en un análisis documental de expedientes administrativos, instrumentos de planificación urbana y estudios especializados sobre la urbanización de San José. Se concluye que la territorialización de este programa encierra un problema político que se constituye por la producción de una ciudad exclusiva y excluyente que tiende a una reproducción de la desigualdad y la exclusión social, por lo que discutir su territorialización es una tarea de interés colectivo.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 4.0",
+      "url": "http://creativecommons.org/licenses/by-nc-nd/4.0"
+     },
+     "url": "https://doi.org/10.15517/ra.v13i2.59808",
+     "doi": "10.15517/ra.v13i2.59808",
+     "paginas": "30-57",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.15517/ra.v13i2.57160",
+     "titulo": "Un diálogo entre disciplinas en el Pabellón Philips",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Mishell Echeverría",
+       "orcid": null
+      },
+      {
+       "nombre": "Agustín Ribadeneira",
+       "orcid": null
+      }
+     ],
+     "resumen": "A lo largo de la historia cada lenguaje se manifiesta con características particulares de acuerdo con la época que corresponden; en la arquitectura los aportes de la Arquitectura Moderna del siglo XX se caracterizan por una composición que resalta la línea recta y el contrapunto, volúmenes simples, limpieza de ornamentación y espacios continuos. Esta simplificación también coincide dentro de las vanguardias artísticas donde se buscaba la innovación del estilo tradicional, estos cambios se dan en las artes visuales y en la música, donde se destaca un abandono de adornos y experimentación con la tecnología. El objetivo de este artículo es destacar las aportaciones del diálogo entre disciplinas con la obra del arquitecto, músico y matemático griego Iannis Xenakis, que mediante la composición de una obra musical, traduce los sonidos de la partitura en espacios, al diseñar el Pabellón Philips, donde evidencia la unión de varias disciplinas como la arquitectura, la música y las matemáticas, es decir, provoca una visión más completa, que cambia el significado del edificio, y genera un referente para el mundo al demostrar un nuevo paradigma del arte y la arquitectura del siglo XX.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 4.0",
+      "url": "http://creativecommons.org/licenses/by-nc-nd/4.0"
+     },
+     "url": "https://doi.org/10.15517/ra.v13i2.57160",
+     "doi": "10.15517/ra.v13i2.57160",
+     "paginas": "58-76",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.15517/ra.v13i2.59153",
+     "titulo": "Construyendo nuevas miradas, buscando un cambio en nuestras ciudades. La experiencia de Río Urbano",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Sofia Guevara Viquez",
+       "orcid": null
+      },
+      {
+       "nombre": "Alonso Briceño Rodriguez",
+       "orcid": null
+      }
+     ],
+     "resumen": "This essay seeks to share the experience of the Rio Urbano organization in San José (Costa Rica), which began as an individual initiative and today is a reference in the environmental management of the country's rivers. Río Urbano's objective is to transform the relationship between urban dwellers and the rivers that flow through them. The present reflection proposes a long-term transversal reading of the actions carried out at the beginning of the collective, the postulates on which they were based and the activities carried out today. Thereby, the aim is to share its extensive trajectory and contribute to a more global reflection on the scope of this type of initiative to build more sustainable cities.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 4.0",
+      "url": "http://creativecommons.org/licenses/by-nc-nd/4.0"
+     },
+     "url": "https://doi.org/10.15517/ra.v13i2.59153",
+     "doi": "10.15517/ra.v13i2.59153",
+     "paginas": "77-90",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.15517/ra.v13i2.58772",
+     "titulo": "Activación, forma urbana y participación: caso del barrio informal Sinaí, Montes de Oca (Costa Rica)",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Mario Villalta Flórez-Estrada",
+       "orcid": null
+      }
+     ],
+     "resumen": "The article provides an analysis of urban activation processes through morphological transformations in the informal neighborhood Sinai, located in San Jose, Costa Rica. These activations have been part of a multi-year participatory process facilitated by the Community Work Program TCU-708 of the School of Architecture at the University of Costa Rica. Within the analysis presented, topics such as the significance of daily use of public space, negotiation processes involving various stakeholders, and the interaction between urban morphology and participatory management processes are addressed. The crucial role of community infrastructure projects is explored, demonstrating how they can serve as catalysts for addressing various social and economic challenges faced by communities exposed to the most vulnerable conditions.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 4.0",
+      "url": "http://creativecommons.org/licenses/by-nc-nd/4.0"
+     },
+     "url": "https://doi.org/10.15517/ra.v13i2.58772",
+     "doi": "10.15517/ra.v13i2.58772",
+     "paginas": "91-112",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.15517/ra.v13i2.57143",
+     "titulo": "Plan Maestro participativo para el mejoramiento barrial de La Peregrina y Las Magnolias",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Manuel Morales Alpízar",
+       "orcid": null
+      }
+     ],
+     "resumen": "In 2020, an urban regeneration plan was formulated for the neighborhood improvement of La Peregrina and Las Magnolias, in La Uruca District in San José, through a participatory diagnosis and planning process. The work contemplated a systemic approach in which the local neighborhood system and its environment were examined from components structured from the physical-spatial, physical-environmental, sociocultural, economic-productive and political-administrative subsystems. Multisectoral representations of a strategic network of entities, agents and people involved at the local, municipal and institutional level were involved throughout the process, which were permanently linked from a coordination core made up of four main parties (promoting international organization, involved municipalities, communities and technical consulting team). The circumstances of the context caused by the COVID-19 health emergency and the resulting restrictions, forced the incorporation of innovative consultation and participation strategies and mechanisms. As a result, a significant number of projects were articulated in order to comprehensively address and cover the needs and opportunities of the neighborhood and its natural, social and urban environment. These are linked to strategic guidelines, which in turn derive from three conceptual axes. The proposed interventions incorporate and prioritize nature-based solutions (NbS), the use and reinforcement of local capacities, and management processes through inter-neighborhood and inter-municipal dialogue and planning.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY-NC-ND 4.0",
+      "url": "http://creativecommons.org/licenses/by-nc-nd/4.0"
+     },
+     "url": "https://doi.org/10.15517/ra.v13i2.57143",
+     "doi": "10.15517/ra.v13i2.57143",
+     "paginas": "113-133",
+     "fuente": "Crossref"
+    }
+   ]
+  }
+ ]
+};

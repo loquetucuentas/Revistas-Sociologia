@@ -1,0 +1,1145 @@
+// Copia de revistas/2525-1635.json para abrir la aplicación sin servidor.
+(window.DATOS_REVISTAS = window.DATOS_REVISTAS || {})["revistas/2525-1635.json"] = {
+ "version": 1,
+ "generado": "2026-11-02T05:12:34+00:00",
+ "es_prueba": false,
+ "revista": {
+  "id": "2525-1635",
+  "titulo": "Revista Latinoamericana de Estudios Rurales",
+  "idioma_titulo": null,
+  "titulo_alternativo": null,
+  "idioma_titulo_alternativo": null,
+  "idiomas": [
+   "es"
+  ],
+  "issn_impreso": null,
+  "issn_electronico": "2525-1635",
+  "editorial": "Asociación Latinoamericana de Sociología Rural ; CEIL-CONICET",
+  "pais": "AR",
+  "materias": [
+   "Rural industries",
+   "Sociology (General)",
+   "Social sciences (General)"
+  ],
+  "palabras_clave": [
+   "rural studies",
+   "sociology",
+   "rural sociology",
+   "environment",
+   "latin america"
+  ],
+  "licencias": [
+   {
+    "nombre": "CC BY-NC-SA",
+    "url": null
+   }
+  ],
+  "url": "http://www.ceil-conicet.gov.ar/ojs/index.php/revistaalasru/index",
+  "url_doaj": "https://doaj.org/toc/2525-1635",
+  "descripcion": null,
+  "fuente_ficha": "DOAJ",
+  "oai": "https://www.ceil-conicet.gov.ar/ojs/index.php/revistaalasru/oai",
+  "archivo": "revistas/2525-1635.json",
+  "ultimo_numero": "Vol. 11, núm. 21 (2026)",
+  "fuente_numeros": "OAI-PMH"
+ },
+ "numeros": [
+  {
+   "id": "v11-n21-2026",
+   "volumen": "11",
+   "numero": "21",
+   "anio": 2026,
+   "fecha": "2026-06-01",
+   "etiqueta": "Vol. 11, núm. 21 (2026)",
+   "fuente": "OAI-PMH",
+   "articulos": [
+    {
+     "id": "oai:ojs.ceil-conicet.gov.ar:article/1620",
+     "titulo": "\"Sociología digital rural\" en América Latina: Resignificación tecnológica, tensiones y futuros (im)posibles",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Lugo-Morin, Diosey Ramon",
+       "orcid": null
+      }
+     ],
+     "resumen": "El objetivo de la investigación en la que se basa este artículo fue responder a la pregunta: ¿cómo resignifican las comunidades rurales latinoamericanas la digitalización en tanto práctica sociotécnica, política y cultural? ¿Qué categorías analíticas permiten estudiarla desde la perspectiva de la justicia territorial? El estudio buscó definir categorías analíticas que faciliten comprender y acompañar los procesos digitales rurales desde una perspectiva de justicia territorial. A partir de un enfoque cualitativo, crítico y situado, se construyó un marco teórico-conceptual y se realizaron dos estudios de caso. Los hallazgos permitieron delinear cuatro dimensiones centrales de la sociología digital rural que muestran cómo las comunidades rurales reconfiguran lo digital como práctica de autonomía, cuidado e innovación, y abrenhorizontes de futuro desde los territorios.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://ojs.ceil-conicet.gov.ar/index.php/revistaalasru/article/view/1620",
+     "doi": null,
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "oai:ojs.ceil-conicet.gov.ar:article/1690",
+     "titulo": "Actualizando el “doble movimiento” de Karl Polanyi para los estudios agrarios críticos",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "McMichael, Philip",
+       "orcid": null
+      }
+     ],
+     "resumen": "Karl Polanyi concibió el concepto de “doble movimiento” como una dialéctica recíproca entre las fuerzas del mercado y las protecciones sociales para los ciudadanos. Se refiere a la lucha permanente contra la mercantilización de la vida de las personas en el capitalismo, que continúa hasta hoy. Si bien Polanyi se centró en las respuestas protectoras frente a la profundización de la mercantilización de la tierra, del trabajo y del dinero a lo largo del período 1840–1940, el “doble movimiento” sigue vigente en la era neoliberal contemporánea, especialmente en lo que respecta a las transformaciones agrarias. Este ensayo examina las adaptaciones de los contramovimientos agrarios, las ONG y los expertos frente a las nuevas presiones sobre los productores, los trabajadores agrícolas, los pueblos indígenas y los paisajes en todo el mundo,y explora diversas interpretaciones y análisis relacionados.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://ojs.ceil-conicet.gov.ar/index.php/revistaalasru/article/view/1690",
+     "doi": null,
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "oai:ojs.ceil-conicet.gov.ar:article/1650",
+     "titulo": "Del campo al mercado: Organizaciones productivas y circuitos cortos de Nova Palma, Brasil",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Manfio, Vanessa",
+       "orcid": null
+      }
+     ],
+     "resumen": "Este estudio tiene como objetivo analizar las organizaciones de producción local y las cadenas cortas de suministro agroalimentario en la región de Nova Palma, ubicada en Rio Grande do Sul, al sur de Brasil, para comprender la importancia de estas estructuras para la organización de la producción, la comercialización de alimentos y el fortalecimiento de la agricultura familiar en el territorio. El enfoque metodológico empleado fue de investigación exploratoria y descriptiva, combinado con un enfoque cualitativo (que incluyó conversaciones informales, recolección de datos de fuentes primarias y secundarias y trabajo de campo) y una revisión de la literatura. En el municipio de Nova Palma, predominan las pequeñas propiedades rurales con producción diversificada, a veces vinculada a la producción artesanal y cultural de diversos productos alimenticios, debido a la tradición italiana y sus prácticas agrícolas locales, lo que demuestra la significativa relación entre las áreas rurales y urbanas. En este contexto, las organizaciones de producción local, en particular las cooperativas, desempeñan un papel central en la conexión de los agricultores, el acceso a insumos, la comercialización y la entrada a diferentes mercados. Esto también incluye la conexión de los productores locales para la venta directa en la ciudad, a través de ferias o agroindustrias familiares. El análisis demuestra que la conexión entre las organizaciones productivas y las cadenas de suministro cortas son aspectos históricos y culturales que fortalecen la economía local, contribuyendo a la construcción de sistemas agroalimentarios más sostenibles. Por lo tanto, este estudio resalta la importancia de estas iniciativas para el desarrollo rural y la valoración del espacio geográfico local, aportando a los estudios de geografía rural y a los análisis de los circuitos de producción cortos relacionados con la agricultura familiar.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://ojs.ceil-conicet.gov.ar/index.php/revistaalasru/article/view/1650",
+     "doi": null,
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "oai:ojs.ceil-conicet.gov.ar:article/1621",
+     "titulo": "Estrategias campesinas frente a las crisis en la api-agricultura en el sureste mexicano",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Gracia, Maria Amalia",
+       "orcid": null
+      },
+      {
+       "nombre": "Roldán-Rueda, Héctor Nicolás",
+       "orcid": null
+      }
+     ],
+     "resumen": "A raíz de las crisis socioambientales y sanitarias recientes, el campesinado del municipio de Bacalar (Quintana Roo, México) ha desarrollado estrategias múltiples basadas en prácticas de producción, comercialización y colaboración. Este artículo analiza algunas de estas estrategias gestadas junto con diversos actores para enfrentar los efectos cada vez más intensos de las crisis recurrentes que han venido afectando a la agricultura y la apicultura. Enfocamos el estudio en los miembros de la Sociedad de Producción Rural Kabi-Habin (apicultora), conformada por campesinas y campesinos de origen maya peninsular, con el propósito de identificar la complementariedad entre sus prácticas apícolas y agrícolas. Nuestros hallazgos muestran que, frente a problemáticas comunes, este colectivo despliega acciones diferenciadas y formas de colaboración que fortalecen su capacidad organizativa y de respuesta a las crisis; sin embargo, para generar y consolidar nuevas modalidades de intervención se requiere visibilizar más las singularidades locales y articularlas con los intereses y necesidades territoriales. Esto contribuiría a potenciar aprendizajes y conocimientos situados, diversos y democratizantes, orientados al fortalecimiento de comunidades que, como esta, han estado históricamente excluidas.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://ojs.ceil-conicet.gov.ar/index.php/revistaalasru/article/view/1621",
+     "doi": null,
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "oai:ojs.ceil-conicet.gov.ar:article/1630",
+     "titulo": "Políticas públicas y prácticas discursivas en la institucionalización de la agroecología en la Argentina, 2019-2023",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Prola, María Manuela",
+       "orcid": null
+      },
+      {
+       "nombre": "Piñeiro, Gervasio",
+       "orcid": null
+      },
+      {
+       "nombre": "Monkes, Julián",
+       "orcid": null
+      }
+     ],
+     "resumen": "Este artículo analiza el proceso de institucionalización de la agroecología en Argentina durante el período 2019-2023, a partir de un estudio comparativo entre la Dirección Nacional de Agroecología (DNA) y la gestión del área respectiva de la provincia de Buenos Aires. Para ello, a través de un análisis documental y del discurso de sus funcionarios clave, se examina la construcción de las narrativas oficiales y su traducción en políticas públicas. Los hallazgos revelan que, si bien ambos espacios incorporan la misma definición de la agroecología y buscan articular con actores sociales que no se encuentran ocupando roles institucionales, divergen en algunas estrategias. Mientras que la provincia de Buenos Aires consolidó la agroecología como una herramienta centralizada vinculada a la agricultura familiar, la gestión nacional apostó por una institucionalización descentralizada y transversal a diferentes sectores, reconfigurando la agenda política tradicional de la agroecología. A su vez, el análisis de estos casos permite cuestionar el planteo de que los procesos de institucionalización tienden a la cooptación de la agroecología. En estos casos, emerge el interrogante de si el proceso deriva en la cooptación efectiva o si, por el contrario, responde a una moderación estratégica de los actores frente a los sectores dominantes que operan en otras áreas del mismo gobierno, con el fin de preservar su espacio en la disputa por la estatalidad. En definitiva, se propone concebir al Estado no como un actor monolítico con la capacidad unilateral de cooptación, sino como una arena de disputa fragmentada donde colisionan visiones e intereses antagónicos. En consecuencia, se sugiere que la institucionalización de la agroecología debe investigarse en clave de las pujas de poder internas del aparato estatal.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://ojs.ceil-conicet.gov.ar/index.php/revistaalasru/article/view/1630",
+     "doi": null,
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "oai:ojs.ceil-conicet.gov.ar:article/1694",
+     "titulo": "Reforma agraria en América latina: La multidimensionalidad como aporte al debate en el siglo XXI",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Gomez Echenique, Sergio",
+       "orcid": null
+      },
+      {
+       "nombre": "Da Silva, José Graziano",
+       "orcid": null
+      },
+      {
+       "nombre": "Magro, Edward",
+       "orcid": null
+      }
+     ],
+     "resumen": "El artículo examina la reconfiguración contemporánea de la cuestión agraria a partir de la articulación entre enfoques de reconocimiento, redistribución y sostenibilidad, proponiendo una lectura integrada que supera interpretaciones tradicionales centradas exclusivamente en la distribución de la tierra. A partir de un marco analítico que vincula transformaciones en los sujetos rurales, en los regímenes normativos y en las formas de intervención pública, el trabajo argumenta que la reforma agraria se redefine como un campo multidimensional, en el que convergen dinámicas sociales, territoriales y ecológicas. Sobre esta base, el análisis se detiene en la Declaración Final de la Segunda Conferencia Internacional sobre Reforma Agraria y Desarrollo Rural (CIRADR+20), interpretada como un espacio privilegiado de condensación de estas transformaciones. El estudio examina, por un lado, la ampliación y diversificación de los sujetos de derecho reconocidos en el documento y, por otro, el contenido normativo y programático de las políticas propuestas, destacando su carácter integrado y su orientación hacia sistemas agroalimentarios sostenibles. En conjunto, el artículo sostiene que esa Declaración expresa un desplazamiento significativo en la forma de concebir la reforma agraria, que pasa a entenderse como un proceso complejo orientado a la equidad social, la sostenibilidad ambiental y la transformación estructural de los territorios rurales.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://ojs.ceil-conicet.gov.ar/index.php/revistaalasru/article/view/1694",
+     "doi": null,
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "oai:ojs.ceil-conicet.gov.ar:article/1671",
+     "titulo": "Reseña de Ernesto Fabian Giuliano & Sergio Omar Sapkus (coordinadores) (2025). Formosa. Estudios críticos sobre el Estado y la producción desde la periferia argentina: Resistencia: ConTexto Libros, 240 páginas. ISBN 978-631-6663-82-5",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Ledezma, Bárbara Aylén",
+       "orcid": null
+      }
+     ],
+     "resumen": null,
+     "idioma_resumen": null,
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://ojs.ceil-conicet.gov.ar/index.php/revistaalasru/article/view/1671",
+     "doi": null,
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "oai:ojs.ceil-conicet.gov.ar:article/1686",
+     "titulo": "Reseña de Luciano Martínez Valle, Arilson Favareto & Diego Martínez-Godoy (Editores) (2025). Sociología del territorio. Conceptos, enfoques y perspectivas iberoamericanas: Buenos Aires: Editorial Teseo.218 páginas. ISBN: 9781-9177-23398. https://www.teseopress.com/sociologiadelterritorio/",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Najt Ruiz, María Belén",
+       "orcid": null
+      }
+     ],
+     "resumen": null,
+     "idioma_resumen": null,
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://ojs.ceil-conicet.gov.ar/index.php/revistaalasru/article/view/1686",
+     "doi": null,
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "oai:ojs.ceil-conicet.gov.ar:article/1676",
+     "titulo": "Reseña de Martha Judith Sánchez Gómez y Germán Quaranta (compiladores) (2025). Calidad en la vitivinicultura globalizada. Sus múltiples usos y significados: Ciudad de México: Universidad Nacional Autónoma de México, Instituto de Investigaciones Sociales, 200 páginas. ISBN: 9786-0758-74920",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Cerdá, Juan Manuel",
+       "orcid": null
+      }
+     ],
+     "resumen": null,
+     "idioma_resumen": null,
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://ojs.ceil-conicet.gov.ar/index.php/revistaalasru/article/view/1676",
+     "doi": null,
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "oai:ojs.ceil-conicet.gov.ar:article/1657",
+     "titulo": "¿Por qué no crecen las alternativas agroecológicas? : Transiciones contenidas, hibridación comercial y umbrales de trabajo en cinturones hortícolas de Argentina",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "García, Matías",
+       "orcid": null
+      }
+     ],
+     "resumen": "El artículo examina las transiciones agroecológicas en cinturones hortícolas argentinos a partir de un hallazgo central: la existencia de experiencias agroecológicas y de comercialización alternativa que, aun siendo técnica y económicamente viables, permanecen estabilizadas en escalas reducidas y sin perspectivas de expansión. El objetivo es explicar por qué estas alternativas no crecen, identificando los factores estructurales que limitan su escalabilidad. El estudio se desarrolla en cinco cinturones hortícolas intensivos del país (La Plata, Mar del Plata, Córdoba, Rosario y el corredor noroeste del Área Metropolitana de Buenos Aires), con un enfoque orientado a comprender dinámicas territoriales comparables. La investigación adopta un diseño metodológico mixto, que combina un relevamiento cuantitativo a 397 establecimientos con entrevistas en profundidad, observaciones de campo y registros productivos y comerciales. El análisis se focaliza especialmente en los establecimientos que integran manejo agroecológico y comercialización en canales cortos. Los resultados muestran que estas experiencias constituyen un segmento minoritario y que ninguna proyecta ampliar la superficie agroecológica. La evidencia señala límites estructurales asociados a la capacidad restringida de los mercados alternativos, la persistente hibridación con el mercado mayorista y los elevados requerimientos de trabajo, con fuerte protagonismo femenino. Las conclusiones indican que la agroecología no avanza como sustitución del modelo convencional, sino como trayectorias contenidas en nichos acotados, lo que plantea desafíos específicos para las políticas de promoción del sector.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://ojs.ceil-conicet.gov.ar/index.php/revistaalasru/article/view/1657",
+     "doi": null,
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    }
+   ]
+  },
+  {
+   "id": "v10-n20-2025",
+   "volumen": "10",
+   "numero": "20",
+   "anio": 2025,
+   "fecha": "2025-12-02",
+   "etiqueta": "Vol. 10, núm. 20 (2025)",
+   "fuente": "OAI-PMH",
+   "articulos": [
+    {
+     "id": "oai:ojs.ceil-conicet.gov.ar:article/1636",
+     "titulo": "Clases de trabajo. Concepto y usos",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Bernstein, Henry",
+       "orcid": null
+      }
+     ],
+     "resumen": "El término “clases de trabajo” ha ganado una aceptación creciente en los últimos años. Este artículo comienza describiendo por qué empecé a usar el término y los contextos y debates que han moldeado sus usos. Luego, proporciono algunos ejemplos de sus aplicaciones recientes en estudios empíricos basados en trabajo de campo sobre dinámicas sociales, regresando finalmente a algunas cuestiones teóricas y analíticas. La noción de “clases de trabajo” busca abarcar las innumerables maneras en que la vasta mayoría en el capitalismo global —especialmente, aunque no exclusivamente, en las agriculturas del Sur y en el periodo actual de “globalización neoliberal”— procura su reproducción. Las generalizadas dinámicas actuales conducen a la conclusión de que muchos —probablemente la mayoría— de aquellos típicamente considerados hoy como pobres “campesinos”, “pequeños agricultores” y similares en el Sur global se comprenden mejor en tanto constituyentes de “clases de trabajo”.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://ojs.ceil-conicet.gov.ar/index.php/revistaalasru/article/view/1636",
+     "doi": null,
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "oai:ojs.ceil-conicet.gov.ar:article/1597",
+     "titulo": "El impulso, sus frenos y el salto. Una mirada a la agroecología uruguaya en el siglo XXI",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Migliaro González, Alicia",
+       "orcid": null
+      },
+      {
+       "nombre": "Bruzzone Pérez, Laura",
+       "orcid": null
+      }
+     ],
+     "resumen": "El inicio del siglo XXI representó un período de gran dinamismo y desafío para la agroecología en Uruguay. Este artículo propone una mirada crítica de los hechos más relevantes ocurridos entre 2015 y 2025 en la agroecología del país. Desarrolla cuatro claves de profundización surgidas de la investigación: los debates feministas en torno a la agroecología, el vínculo con las problemáticas ambientales, las formas organizativas y de lo político y las disputas en torno a la resignificación del concepto de agroecología. Estas claves se proponen como una primera aproximación que habilita nuevas rutas de análisis, en diálogo con las prácticas del movimiento. Se destaca especialmente el papel de las organizaciones en la defensa de la agroecología como proyecto político, productivo y social, así como su capacidad de articulación y resistencia frente a los desafíos del período estudiado, aportando una lectura situada de la agroecología que combina investigación académica y compromiso político.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://ojs.ceil-conicet.gov.ar/index.php/revistaalasru/article/view/1597",
+     "doi": null,
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "oai:ojs.ceil-conicet.gov.ar:article/1605",
+     "titulo": "Financiarización del agro argentino. Actores, mecanismos y dependencia entre 1976 y 2024",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Taraborrelli, Diego",
+       "orcid": null
+      },
+      {
+       "nombre": "Mendizábal, Guido",
+       "orcid": null
+      }
+     ],
+     "resumen": "Este artículo explora el impacto del proceso de financiarización subordinada en el sector agropecuario argentino entre 1976 y 2024. Se parte de la hipótesis de que la centralidad del capital financiero constituye un rasgo estructural de la dependencia del agro argentino. A través de un enfoque cualitativo, se analizan los principales cambios institucionales que habilitaron la expansión de estrategias financieras en el sector, y se identifican los actores clave que operan con distintos niveles de incidencia política y económica en la cadena de valor de los cultivos extensivos. El estudio concluye que la financiarización subordinada ha reforzado la centralización productiva, los procesos de endeudamiento y las restricciones externas, a la vez que expone el carácter dependiente de la gran burguesía agraria, frecuentemente presentada como caso exitoso del modelo de agronegocios.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://ojs.ceil-conicet.gov.ar/index.php/revistaalasru/article/view/1605",
+     "doi": null,
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "oai:ojs.ceil-conicet.gov.ar:article/1557",
+     "titulo": "Gobernanza de la tierra y género en Uruguay. Una revisión de la política de cotitularidad",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Camors, Verónica",
+       "orcid": null
+      }
+     ],
+     "resumen": "El acceso y control de la tierra con equidad de género es un tema central para la justicia social. En Uruguay, el Instituto Nacional de Colonización (INC) ha implementado políticas orientadas a corregir las desigualdades de género, destacándose la política de cotitularidad que promueve el acceso de las mujeres a las tierras estatales. En este artículo se analizan los resultados de estas políticas, su aplicación en la gestión cotidiana, sus efectos en las relaciones constituidas en torno a la tierra y los desafíos para una mayor equidad en el acceso y control de los recursos para la producción. La base empírica de este trabajo resulta de una etnografía multisituada sobre las (inter)acciones entre las burocracias estatales y las mujeres destinatarias de las políticas de tierra en las zonas rurales, y se complementa con la última información disponible sobre la situación de las políticas de género y tierra en Uruguay. Finalmente, se fundamenta sobre la necesidad de abordar las políticas de tierras desde una perspectiva de género y un enfoque interseccional que considere las realidades y resistencias situadas, así como la participación de las mujeres rurales y de las burocracias estatales desde las etapas iniciales de las definiciones de políticas.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://ojs.ceil-conicet.gov.ar/index.php/revistaalasru/article/view/1557",
+     "doi": null,
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "oai:ojs.ceil-conicet.gov.ar:article/1482",
+     "titulo": "Género y territorio en la cafeticultura: el rol de las mujeres en la Unión Majomut en Chenalhó, Chiapas (México)",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Ocampo Guzmán, Maria Guadalupe",
+       "orcid": null
+      },
+      {
+       "nombre": "Gómez Pérez, Fidelina",
+       "orcid": null
+      },
+      {
+       "nombre": "Mijangos González, Sonia del Carmen",
+       "orcid": null
+      }
+     ],
+     "resumen": "Este artículo analiza la participación de las mujeres indígenas en la organización cafetalera Unión Majomut en Chenalhó, Chiapas (México). A partir de un enfoque de género y territorio, se estudian las formas en que estas mujeres se integran a los procesos productivos y organizativos, así como los retos y oportunidades que enfrentan. Dicha organización se caracteriza por la participación mayoritariamente masculina; sin embargo, poco a poco se ha ido incorporando y reconociendo también a las mujeres como productoras y socias directas, situación que ha ido configurando las relaciones de género en el territorio. La investigación muestra cómo las mujeres han ido adquiriendo reconocimiento en un entorno tradicionalmente dominado por hombres y cómo su participación impacta en la estructura socioeconómica de la región.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://ojs.ceil-conicet.gov.ar/index.php/revistaalasru/article/view/1482",
+     "doi": null,
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "oai:ojs.ceil-conicet.gov.ar:article/1639",
+     "titulo": "La construcción de la agenda de investigación de la sociología rural en México",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Sánchez Albarrán, Armando",
+       "orcid": null
+      },
+      {
+       "nombre": "Sánchez Juárez, Gladys Karina",
+       "orcid": null
+      }
+     ],
+     "resumen": "Este artículo examina cómo los procesos socioeconómicos y ambiente intelectual de cada época han coincidido en la construcción de la agenda de investigación de los actores académicos que desarrollan la sociología rural en México. Seleccionamos tres momentos históricos para dar cuenta del camino seguido por estaespecialización de la sociología: la etapa de la pre-institucionalización de la sociología de 1940 a 1960, la etapa de institucionalización de la sociología rural de 1960 a 1988 y, por último, la situación actual desde 1988 hasta el siglo XXI. Proponemos que la modernización económica y la formación de intelectuales en diversas ciencias transformaron su cambiante objeto de estudio tanto en los enfoques teórico-conceptuales como en los metodológicos, que han enmarcado el paisaje “multicolor” de la sociología rural en México.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://ojs.ceil-conicet.gov.ar/index.php/revistaalasru/article/view/1639",
+     "doi": null,
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "oai:ojs.ceil-conicet.gov.ar:article/1607",
+     "titulo": "La importancia estratégica de la agricultura familiar para alimentar al mundo y preservar el planeta",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Sabourin, Eric",
+       "orcid": null
+      },
+      {
+       "nombre": "Schneider, Sergio",
+       "orcid": null
+      },
+      {
+       "nombre": "Gómez Lozano, Andrea",
+       "orcid": null
+      },
+      {
+       "nombre": "Grisa, Catia",
+       "orcid": null
+      },
+      {
+       "nombre": "Goulet , Frédéric",
+       "orcid": null
+      },
+      {
+       "nombre": "Viscay, Lautaro",
+       "orcid": null
+      },
+      {
+       "nombre": "Sourisseau, Jean Michel",
+       "orcid": null
+      }
+     ],
+     "resumen": "La agricultura familiar está en el centro de múltiples desafíos y oportunidades. Es clave para combatir el hambre, mitigar el cambio climático y liderar las transiciones agroecológicas y alimentarias. A diez años del Año Internacional de la Agricultura Familiar, el Seminario Internacional realizado en marzo de 2025 en Porto Alegre fue una oportunidad para debatir su papel estratégico y delinear caminos para su fortalecimiento. Este texto recoge y amplifica los principales análisis, consensos y recomendaciones surgidos del encuentro alrededor de cuatro temáticas estratégicas para el futuro de la agricultura familiar y de la agricultura en general: el cambio climático, la transición alimentar y agroecológica, la renovación generacional y el papel de las mujeres y de los jóvenes, las perspectivas de trabajo y empleo. Finalmente, se formulan recomendaciones para las políticas públicas y para la investigación.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://ojs.ceil-conicet.gov.ar/index.php/revistaalasru/article/view/1607",
+     "doi": null,
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "oai:ojs.ceil-conicet.gov.ar:article/1614",
+     "titulo": "La sociología y las transformaciones de la sociedad rural: reflexiones a partir del caso ecuatoriano",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Martinez Valle, Luciano",
+       "orcid": null
+      }
+     ],
+     "resumen": "En este breve ensayo, centrado en la necesidad de un proceso de aggiornamento de la sociología rural en el caso ecuatoriano, se desarrollan tres ideas principales: la ineludible reflexión sobre la dinámica de los cambios socio-estructurales en los territorios rurales, la recuperación del análisis de clases sociales en el contexto de las transformaciones rurales, y la elaboración de una nueva perspectiva epistémica basada en la reflexión relacional que articula creadoramente los aportes teóricos con la práctica de la investigación de campo.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://ojs.ceil-conicet.gov.ar/index.php/revistaalasru/article/view/1614",
+     "doi": null,
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "oai:ojs.ceil-conicet.gov.ar:article/1638",
+     "titulo": "Los ciclos de la sociología rural argentina en perspectiva: agendas, vacancias y controversias",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Villulla, Juan Manuel",
+       "orcid": null
+      }
+     ],
+     "resumen": "Este artículo intenta periodizar y caracterizar, bajo la forma de un ensayo crítico, cinco ciclos en el desarrollo de la sociología rural en Argentina: el ciclo decimonónico de la civilización y la barbarie, del romanticismo al positivismo; el ciclo de la cuestión agraria, a principios del siglo XX, con el comienzo de los análisis estructurales; el ciclo del desarrollo, en el tercer cuarto del siglo XX; el “boom” de la sociología rural entre los años 1990 y principios de este siglo; y el ciclo de la dispersión y redefinición en el que se encontraría la subdisciplina en la actualidad.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://ojs.ceil-conicet.gov.ar/index.php/revistaalasru/article/view/1638",
+     "doi": null,
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "oai:ojs.ceil-conicet.gov.ar:article/1470",
+     "titulo": "Los retos de la implementación de políticas participativas de soberanía alimentaria en Brasil. Un estudio sobre el Programa Estatal de Semillas Criollas de Rio Grande do Norte",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Moura, Joana",
+       "orcid": null
+      },
+      {
+       "nombre": "Rozendo, Cimone",
+       "orcid": null
+      }
+     ],
+     "resumen": "El Programa Estatal de Semillas Criollas de Río Grande del Norte, Brasil, creado en 2020, tiene como objetivo principal garantizar la seguridad alimentaria de la población rural, mediante el restablecimiento de los vínculos con la tierra, la ampliación de la autonomía de las familias campesinas y la recuperación de sus tradiciones. En el artículo, analizamos el proceso de implementación de la política y cómo el Estado buscó dialogar con los movimientos sociales, los desafíos impuestos y las soluciones creadas para garantizar la continuidad de la política. Utilizamos una metodología cualitativa, basada en información de reuniones de seguimiento del Programa, realizadas entre la Secretaría Estatal de Agricultura Familiar (SEDRAF) y los movimientos sociales participantes en la política. También realizamos entrevistas con gestores, movimientos sociales y el Instituto de Asistencia Técnica y Extensión Rural (EMATER). Además, aplicamos un cuestionario a técnicos de las unidades locales de EMATER. Mostramos que, a pesar de que el poder público ha incentivado la participación de la sociedad civil en la ejecución del Programa, persisten algunos problemas en esta dinámica: la limitación de personal para atender las innumerables demandas de la SEDRAF, la demora en el pago de las semillas autóctonas adquiridas por parte del Estado y la falta de asistencia técnica. Estos problemas han sido identificados y evaluados por la dirección, que está tratando de reestructurar el programa con el fin de crear canales de diálogo y dinámicas de colaboración entre el Estado y la sociedad.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://ojs.ceil-conicet.gov.ar/index.php/revistaalasru/article/view/1470",
+     "doi": null,
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "oai:ojs.ceil-conicet.gov.ar:article/1590",
+     "titulo": "Mujeres rurales: ¿qué características recoge el Censo Agropecuario de Brasil en relación con sus propiedades?",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Miguel, Julio Cesar Ferbônio",
+       "orcid": null
+      },
+      {
+       "nombre": "Bernardo, Luciana Virginia Mario",
+       "orcid": null
+      },
+      {
+       "nombre": "Farinha, Maycon Jorge Ulisses Saraiva",
+       "orcid": null
+      }
+     ],
+     "resumen": "Aún hoy, las mujeres necesitan reafirmar su importancia frente a las propiedades rurales, por lo que el objetivo de este estudio fue analizar las características relativas a las propiedades rurales dirigidas por mujeres. Para ello, se utilizó la estadística descriptiva para cuantificar la información sobre las propiedades rurales dirigidas por mujeres indicadas en los Censos Agrícolas de 2006 y 2017. El perfil de las propiedades lideradas por mujeres ha experimentado cambios en la región centro-oeste de Brasil. En 2006, se registraron 30 329 establecimientos, lo que representaba el 9,8 % del total nacional. En 2017, se produjo un aumento hasta alcanzar las 56 780 unidades, lo que corresponde al 13,5 % del total nacional, es decir, un incremento absoluto de 26 451 establecimientos (o un aumento del 87,2 %). Los estados de Mato Grosso do Sul y Goiás presentaron la mayor variación porcentual, lo que indica que las mujeres están asumiendo actividades cada vez más estratégicas, que van más allá de la tradicional ayuda familiar, y alcanzando funciones de liderazgo y gestión en las empresas agrícolas. Además, se identificó el predominio de actividades como la ganadería y los cultivos temporales en las propiedades rurales, así como la limitada adopción de prácticas agrícolas y la escasa oferta de orientación técnica. Estos últimos son retos que deben afrontarse en la región, lo que indica la necesidad de políticas públicas que fomenten la diversificación productiva y la sostenibilidad.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://ojs.ceil-conicet.gov.ar/index.php/revistaalasru/article/view/1590",
+     "doi": null,
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "oai:ojs.ceil-conicet.gov.ar:article/1635",
+     "titulo": "Presentación del dossier Temas y enfoques de las agendas de investigación de la sociología rural latinoamericana",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Courdin, Virginia",
+       "orcid": null
+      },
+      {
+       "nombre": "Quaranta, Germán",
+       "orcid": null
+      }
+     ],
+     "resumen": "El dossier que presentamos tiene por propósito abordar los temas y enfoques actuales de los estudios rurales latinoamericanos. En las últimas décadas, se han producido aportes fundamentales que reseñan los orígenes y el desarrollo de este campo de estudios, tanto para el conjunto de América Latina como para países específicos (Giarracca, 1999; Gómez, 1992; Kay, 2007; Llambi y Pérez, 2007; Piñeiro, 1996 y 2000; Riella y Mascheroni, 2021; Sáncez Albarrán, 2019). En esta oportunidad, la atención se centra prioritariamente en identificar las principales líneas de investigación y las posibles áreas de vacancia en la literatura académica contemporánea. El origen de estos trabajos corresponde a una serie de actividades desarrolladas por la Asociación Latinoamericana de Sociología Rural en la segunda parte del año 2023 y la primera del 2024, bajo el título de “La agenda de investigación de la sociología rural latinoamericana en la actualidad. Temas, metodologías y áreas de vacancias”.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://ojs.ceil-conicet.gov.ar/index.php/revistaalasru/article/view/1635",
+     "doi": null,
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "oai:ojs.ceil-conicet.gov.ar:article/1624",
+     "titulo": "Propuesta de una agenda de investigación sobre la cuestión agraria y el territorio en Guatemala",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Hurtado Paz y Paz, Laura",
+       "orcid": null
+      }
+     ],
+     "resumen": "Partiendo de la propuesta de agenda de investigación en materia agraria formulada en 2004 para Guatemala por el sociólogo costarricense Carlos Camacho Nassar, el artículo ofrece un recorrido por la producción de especialistas en la materia desde ese año hasta la actualidad. Señala que inicialmente esta se concentró en temáticas para hacer avanzar los compromisos de los Acuerdos de Paz firmados en 1996 en materia agraria y de desarrollo rural en el país, para más tarde enfocarse en los impactos que se anticipaban con la entrada en vigor del tratado de libre comercio entre Centroamérica y Estados Unidos. Las temáticas que Camacho previó como centrales en la nueva etapa democrática que arrancaba entonces en el país -tales como las relativas al ordenamiento territorial y a la reducción de la pobreza y las desigualdades- quedaron relegadas frente a la depredación del modelo extractivista impuesto en el posconflicto. El contexto regresivo que vive el país desde 2019 condiciona las temáticas que las y los investigadores deben abordar para aportar al conocimiento de los cambios que operan actualmente en el agro y que en términos sociales han pasado de la demanda social de tierra al reclamo del derecho al territorio.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://ojs.ceil-conicet.gov.ar/index.php/revistaalasru/article/view/1624",
+     "doi": null,
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "oai:ojs.ceil-conicet.gov.ar:article/1632",
+     "titulo": "Reseña de Alejandro Macías, Héctor Fletes & Jesús Madera (2025). Transiciones agroecológicas en comunidades rurales de México: Ciudad de México: Comunicación Científica (Colección Ciencia e Investigación), ISBN 978-607-9104-98-6 / DOI 1052501/cc.263 (205 páginas). Disponible en https://comunicacion-cientifica.com/libros/transiciones-agroecologicas-en-comunidades-rurales-de-mexico/",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Fletes Ocon, Hector Bernabé",
+       "orcid": null
+      }
+     ],
+     "resumen": "La agroecología constituye un eje de las luchas hacia la transformación de las formas de producción y consumo predominante. Intenta no solo transformar la agricultura sino también el sistema alimentario global y la injusticia social que prevalece en sectores de población marginada de espacios rurales y urbanos, para contribuir en procesos de soberanía alimentaria. Como parte de las diferentes transiciones que se construyen en el ámbito mundial (energética, modos de producción y consumo, etc.), la transición agroecológica empuja hacia la transformación de tal sistema alimentario y por el reconocimiento de las diferentes racionalidades entre los agricultores, la articulación de iniciativas comunitarias, la colectividad, solidaridad, intercambio y la participación de mujeres y las niñeces. El libro “Transiciones agroecológicas en comunidades rurales de México” (2025), coordinado por Alejandro Macias, Héctor Fletes y Jesús Madera, y editado por Comunicación Científica, realiza una contribución fundamental para comprender tales procesos de transición y reconfiguración agroecológica, sus aportes económicos, ecológicos y culturales, así como la complejidad y retos de tal proceso, a través de la integración y discusión de los resultados de una investigación-acción que se desarrolló en tres estados del país, Jalisco, Nayarit y Chiapas.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://ojs.ceil-conicet.gov.ar/index.php/revistaalasru/article/view/1632",
+     "doi": null,
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "oai:ojs.ceil-conicet.gov.ar:article/1581",
+     "titulo": "Reseña de Clara Craviotti, Lisandro Fernández & Matías García (comps.). (2024). Circuitos aimentarios alternativos: actores sociales, prácticas y desafíos: Buenos Aires: Biblos. ISBN 978-987-814-337-8",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Viteri, Laura",
+       "orcid": null
+      },
+      {
+       "nombre": "Cendón, María Laura",
+       "orcid": null
+      },
+      {
+       "nombre": "Bruno, Mariana",
+       "orcid": null
+      }
+     ],
+     "resumen": null,
+     "idioma_resumen": null,
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://ojs.ceil-conicet.gov.ar/index.php/revistaalasru/article/view/1581",
+     "doi": null,
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "oai:ojs.ceil-conicet.gov.ar:article/1628",
+     "titulo": "Reseña de Germán Rosati & Adriana Chazarreta (2025). Los excedentes del campo. Superpoblacion relativa y cuestion agraria en la Argentina : Universidad de San Martin Edita, ISBN: 9786319080162",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Lombardi Mayan, Julia",
+       "orcid": null
+      }
+     ],
+     "resumen": null,
+     "idioma_resumen": null,
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://ojs.ceil-conicet.gov.ar/index.php/revistaalasru/article/view/1628",
+     "doi": null,
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "oai:ojs.ceil-conicet.gov.ar:article/1615",
+     "titulo": "Temas antiguos y nuevos de la sociología rural brasileña y su presencia en eventos académicos",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "de Camargo, Regina Aparecida Leite",
+       "orcid": null
+      }
+     ],
+     "resumen": "La sociología rural brasileña nació con una fuerte influencia de las teorías marxistas, en su forma de ver, pensar y analizar la realidad, centrada en las relaciones laborales y las luchas de clases. Se prestaba poca atención a las formas de ser y de vivir y al papel del campesino como actor social, económico y político, ya que estaba condenado a desaparecer. En los últimos 15 años, los estudios rurales en Brasil pueden dividirse en los siguientes bloques temáticos: a) la reinterpretación de lo rural y la ruralidad y el papel de la agricultura familiar en este nuevo escenario; b) los programas de políticas públicas para la agricultura familiar, que comienzan con la creación del Programa Nacional de Fortalecimiento de la Agricultura Familiar (PRONAF) en 1996 y se amplían con los programas de acceso a los mercados institucionales y las políticas territoriales en la década de 2000; c) las luchas y movimientos por la tierra y el reconocimiento: los asentamientos rurales, el movimiento indígena y el de las mujeres rurales (asentadas, indígenas, quilombolas, extractivistas, agricultoras); d) los estudios sobre la producción y el consumo de alimentos: la sociología de la alimentación, los sistemas agroalimentarios, las nuevas tendencias y los mercados alimentarios; e) los avances de la frontera agrícola, la financiarización de la agricultura/agroindustria y las formas sostenibles de producción agrícola, en particular la agroecología. El presente trabajo recorre estas temáticas basándose en su presencia en los congresos de la Sociedad Brasileña de Economía, Administración y Sociología.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://ojs.ceil-conicet.gov.ar/index.php/revistaalasru/article/view/1615",
+     "doi": null,
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "oai:ojs.ceil-conicet.gov.ar:article/1584",
+     "titulo": "Territorios contrahegemónicos. Conocimientos y prácticas de las campesinas de Brasil",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Gadelha, Renata",
+       "orcid": null
+      }
+     ],
+     "resumen": "Los sistemas agrícolas tradicionales han sido objeto de investigación durante décadas debido a su importancia ecológica, económica y social. Sin embargo, como ya han denunciado las epistemologías feministas, estas investigaciones no han diferenciado el género en sus análisis, invisibilizando las prácticas y los conocimientos específicos de las mujeres y cómo contribuyen a la construcción de un territorio contrahegemónico. Identificar y visibilizar estos conocimientos es un paso importante para que podamos contribuir a su fortalecimiento, pensando en cómo la investigación, la enseñanza y la extensión pueden ayudar, por ejemplo, a disminuir la penosidad del trabajo de estas mujeres, para que puedan permanecer en el campo. Este trabajo identificó cómo son los sistemas productivos de las mujeres del Movimiento de Mujeres Campesinas (MMC) en Brasil, las prácticas y los conocimientos involucrados en la construcción de estos agroecosistemas. La investigación reveló la diversidad y complejidad de estos sistemas y conocimientos que se construyen y mantienen, sobre todo, a partir de las redes de sociabilidad de estas campesinas, poniendo de manifiesto la importancia del MMC para la construcción de un territorio que tiene como fundamento la promoción y la sostenibilidad de la vida.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://ojs.ceil-conicet.gov.ar/index.php/revistaalasru/article/view/1584",
+     "doi": null,
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    }
+   ]
+  },
+  {
+   "id": "v10-n19-2025",
+   "volumen": "10",
+   "numero": "19",
+   "anio": 2025,
+   "fecha": "2025-06-05",
+   "etiqueta": "Vol. 10, núm. 19 (2025)",
+   "fuente": "OAI-PMH",
+   "articulos": [
+    {
+     "id": "oai:ojs.ceil-conicet.gov.ar:article/1388",
+     "titulo": "El desarrollo del agronegocio forestal en la provincia de Misiones (Argentina) y las reacciones locales a su expansión, 1996-2021",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Gareis, Luisina",
+       "orcid": null
+      }
+     ],
+     "resumen": "En este artículo se abordan las transformaciones materiales y simbólicas derivadas de la llegada en 1996 de la empresa transnacional Arauco SA. a la provincia de Misiones en la región noreste de Argentina, momento a partir del cual se consolida de manera progresiva el modelo de agronegocio forestal en la región. Se propone una periodización de la trayectoria de la empresa y de las respuestas desplegadas por la población local frente al avance de dicho modelo. El análisis se centra en cuestiones tales como el acaparamiento de tierras, las modificaciones introducidas en los procesos productivos y las estrategias de legitimación impulsadas por la empresa, ancladas en la retórica de la agenda ambiental global. Las respuestas sociales examinadas incluyen movilizaciones de trabajadores forestales, ocupaciones de tierras, la consolidación de dos parajes rurales y acciones directas contra la empresa articuladas a partir de un discurso ambientalista.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://ojs.ceil-conicet.gov.ar/index.php/revistaalasru/article/view/1388",
+     "doi": null,
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "oai:ojs.ceil-conicet.gov.ar:article/1393",
+     "titulo": "Experiencia pedagógica de la contabilidad popular en Colombia. Una mirada hacia las prácticas, técnicas y sentidos temáticos en organizaciones sociales y comunitarias",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Gómez-Zapata, Yuliana",
+       "orcid": null
+      },
+      {
+       "nombre": "Rodríguez-Triana, Maria Alejandra",
+       "orcid": null
+      },
+      {
+       "nombre": "Usma-Zuleta, Leidy Jhojana",
+       "orcid": null
+      }
+     ],
+     "resumen": "La contabilidad popular es una práctica político-pedagógica que busca resignificar las prácticas contables en organizaciones sociales, comunitarias y de economías solidarias, diferentes de las de la empresa que tradicionalmente ha sido protagonista en la estructura social, política y económica del capital. Esta contabilidad se ha construido a partir de las bases de la educación popular, pues gracias a sus postulados epistemológicos, ontológicos y pedagógicos desde 2020 se han podido forjar procesos formativos con diversas organizaciones en Colombia. El objetivo de la investigación que plantea este artículo es analizar el entramado pedagógico de la contabilidad popular desde las prácticas, técnicas y sentidos que acompañan el abordaje de las necesidades económicas y contables de contextos organizacionales sociales, comunitarios y de economía solidaria en Colombia. Metodológicamente el proceso estuvo orientado desde la investigación cualitativa, el paradigma socio-crítico y el método dialógico-conversacional, como una apuesta para dotar de sentido esas formas alternativas de hacer y tejer conocimiento en el sur global. Se identificaron tres prácticas pedagógicas a partir de la recuperación de la experiencia, el acercamiento y la complicidad del equipo de talleristas de contabilidad popular, así como se especifican las técnicas y contenidos utilizados hasta el momento.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://ojs.ceil-conicet.gov.ar/index.php/revistaalasru/article/view/1393",
+     "doi": null,
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "oai:ojs.ceil-conicet.gov.ar:article/1398",
+     "titulo": "Hacerse agricultor. Experiencias formativas de jóvenes rurales en el noreste argentino",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Padawer, Ana",
+       "orcid": null
+      },
+      {
+       "nombre": "Hirsch, Mercedes",
+       "orcid": null
+      },
+      {
+       "nombre": "Golé, Carla",
+       "orcid": null
+      }
+     ],
+     "resumen": "Este artículo analiza las experiencias formativas agrícolas de jóvenes criollos/as, colonos/as y mbya guaraní del sudoeste de la provincia de Misiones, Argentina. A partir de un trabajo de campo etnográfico colectivo de más de una década, reconstruye las identificaciones juveniles a partir del aprendizaje de técnicas agrícolas, mediante la participación periférica legítima en los quehaceres cotidianos de chacras, comunidades y escuelas. Concluimos que, a través de dichas prácticas, la juventud genera un involucramiento afectivo y moral que configura nuevas formas de habitar el espacio social rural intercultural misionero.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://ojs.ceil-conicet.gov.ar/index.php/revistaalasru/article/view/1398",
+     "doi": null,
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "oai:ojs.ceil-conicet.gov.ar:article/1386",
+     "titulo": "Hacia un nuevo paradigma en agricultura, alimentación y salud. Derechos, soberanía alimentaria y sustentabilidad",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Carreño-Aguirre, Cristina",
+       "orcid": null
+      },
+      {
+       "nombre": "Goez Rueda, Juan Diego",
+       "orcid": null
+      }
+     ],
+     "resumen": "Este artículo analiza la evolución del campo del conocimiento en agricultura, alimentación y salud, y su importancia para la formación universitaria. Para ello, se empleó la metodología de síntesis narrativa con búsqueda en las bases de datos bibliográficas Scielo, Google Académico y PubMed en español, inglés y portugués, sin límites de fecha. Se identificaron cinco fases que muestran un paradigma en movimiento desde sus bases fundacionales hacia un paradigma emergente que integra la sustentabilidad, los derechos humanos, la soberanía alimentaria y nuevas apuestas como la salud global, la salud planetaria o la salud ambiental. Este nuevo paradigma propone una comprensión sistémica de los problemas en el campo, superando los enfoques disciplinarios del conocimiento para avanzar hacia enfoques interdisciplinares que reconozcan la complejidad de la realidad en la que vivimos, lo que representa un desafío para la educación universitaria, que debe incorporar nuevas perspectivas curriculares, epistemológicas y pedagógicas para la formación de profesionales comprometidos con el bienestar humano y del planeta.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://ojs.ceil-conicet.gov.ar/index.php/revistaalasru/article/view/1386",
+     "doi": null,
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "oai:ojs.ceil-conicet.gov.ar:article/1496",
+     "titulo": "Introducción al Dossier Economías campesinas y soberanía alimentaria: miradas desde la educación, la cultura y el territorio",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Duque Cardona, Natalia",
+       "orcid": null
+      }
+     ],
+     "resumen": "Este dossier busca mostrar el trabajo intelectual y también político que compañeras y compañeros realizan en el contexto académico latinoamericano para reflexionar a través de algunas experiencias y propuestas sobre formas de vincularnos con la natura, para ser capaces de crear, contar e insistir en otras historias de un mundo sin progreso. Responde a la necesidad de aportar a la disminución de las desigualdades sociales en la región, y de manera puntual en las ruralidades, que son los territorios donde se concentran injusticias sociales, económicas, de género y ambientales, entre otras. Específicamente, es fundamental en términos educativos trascender hacia una mirada que se despliegue de modo multidimensional y que repercuta en la configuración de comunidades fortalecidas, autónomas y con capacidad de gestión.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://ojs.ceil-conicet.gov.ar/index.php/revistaalasru/article/view/1496",
+     "doi": null,
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "oai:ojs.ceil-conicet.gov.ar:article/1404",
+     "titulo": "Justicia ambiental: cómo nos hacemos cargo desde la educación y la cultura",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Duque-Cardona, Natalia",
+       "orcid": null
+      },
+      {
+       "nombre": "Quintero López , Dayro León",
+       "orcid": null
+      },
+      {
+       "nombre": "Pino Granada, Fabian",
+       "orcid": null
+      }
+     ],
+     "resumen": "Este artículo tiene como propósito analizar cómo, en medio de una profunda crisis ecológica, las injusticias sociales requieren un abordaje mediante enfoques que reduzcan las distancias entre cultura y natura para poner en el centro el vínculo entre lo humano y lo no humano, dando lugar a la comprensión de los bienes comunes y de los costos ambientales que hoy asumimos como especie. Para ello, retomando principalmente los resultados de una revisión bibliográfica, plantea la justicia ambiental como un ideal para abordar desde el ambientalismo popular las desigualdades que nos atraviesan y profundizan: las que se dan entre las generaciones actuales y las que vendrán, las ancladas en el sistema patriarcal, la vinculada con el racismo ambiental, la de clases y la internacional por la que la mayoría de las potencias consumen más recursos de los que cada país puede generar. Se plantean la educación y la cultura como espacios que, a través de estrategias formativas, posibilitan la alfabetización ambiental y con ello, contribuyen a la justicia ambiental.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://ojs.ceil-conicet.gov.ar/index.php/revistaalasru/article/view/1404",
+     "doi": null,
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "oai:ojs.ceil-conicet.gov.ar:article/1408",
+     "titulo": "La construcción de confianza en mercados feriales de alimentación saludable del Área Metropolitana de Buenos Aires, Argentina",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Nardacchione, Gabriel",
+       "orcid": null
+      },
+      {
+       "nombre": "Blasi, Bruno",
+       "orcid": null
+      }
+     ],
+     "resumen": "En este artículo indagamos sobre las formas en que la confianza se construye entre productores y consumidores involucrados en el intercambio comercial de productos \"saludables\" que se lleva a cabo en mercados feriales de cercanía en el Área Metropolitana de Buenos Aires, organizados por la Asociación Civil Sabe la Tierra. El estudio realizado surgió de una propuesta etnográfica a desplegar en dichos espacios mediante una estrategia metodológica cualitativa que incluyó observación participativa, entrevistas y análisis de documentos. Mostramos de qué manera la confianza es el resultado de un esfuerzo constante elaborado en y por el vínculo entre productores y consumidoresa partir de tres dispositivos: uno basado en la cercanía entre productores y consumidores; otro en los conocimientos expertos de los productores; y un tercero resultante de la dimensión afectiva de dicho vínculo. Esta confianza resulta central para la sostenibilidad de la feria y da crédito a las actividades que allí se desarrollan. Finalmente, reflexionamos sobre la fragilidad de dicha confianza y sobre la emergencia de situaciones problemáticas que, eventualmente, pueden reforzarla.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://ojs.ceil-conicet.gov.ar/index.php/revistaalasru/article/view/1408",
+     "doi": null,
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "oai:ojs.ceil-conicet.gov.ar:article/1479",
+     "titulo": "La construcción de un modelo de desarrollo alternativo para el campo. El programa Sembrando Vida en Chiapas, México",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Martínez Borrego, Alma Estela",
+       "orcid": null
+      },
+      {
+       "nombre": "Ramírez Ramos, Yoame",
+       "orcid": null
+      }
+     ],
+     "resumen": "El presente artículo tiene como objetivo mostrar la manera en que se está construyendo un nuevo modelo de desarrollo rural en México -en contraposición al vigente hasta el año 2018-a través de la puesta en marcha del programa gubernamental Sembrando Vida en la región Soconusco, municipio de Acacoyagua, estado de Chiapas. El programa tiene como objetivo modificar las dinámicas productivas, combatir la pobreza en comunidades con alto rezago económico y degradación ambiental, así como incidir en las formas de organización y reproducción social comunitaria. El texto es el resultado del trabajo de campo realizado en diferentes localidades, en las que se aplicó un cuestionario y se realizaron entrevistas semiestructuradas a los “sembradores” y al personal operativo que participa en el programa. Se identifican cambios en el territorio y en la reorganización del sistema productivo y el trabajo colectivoa través de las Comunidades de Aprendizaje Campesino. Sus principales efectos son el paso de un sistema de cultivo agrícola intensivo a uno agroecológico y el aumento de la participación social. Se prioriza, por tanto, el manejo sustentable de los recursos naturales de manera colectiva por encima de su explotación indiscriminada e individual como se había hecho hasta entonces; a su vez, las formas de trabajo colectivas dan pie a la reconstrucción del tejido social.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://ojs.ceil-conicet.gov.ar/index.php/revistaalasru/article/view/1479",
+     "doi": null,
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "oai:ojs.ceil-conicet.gov.ar:article/1483",
+     "titulo": "Los regímenes alimentarios en la región salinera de Puebla (México) y la comercialización alternativa con base en la autenticidad, la justicia y la sostenibilidad",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Domínguez Arista, David Rodolfo",
+       "orcid": null
+      },
+      {
+       "nombre": "Rosales ortega, Rocío",
+       "orcid": null
+      }
+     ],
+     "resumen": "Con base en el enfoque de los regímenes alimentarios, analizamos los cambios que experimentó la producción de sal en México, y en específico la producción de “sal de manantial” en la región Mixteca de Puebla. Estudiamos tres experiencias de organización y distribución de sal artesanal mediante la incorporación de los valores de autenticidad, justicia y sostenibilidad, para participar en el mercado. Con base en la metodología cualitativa se realizaron visitas de campo y 35 entrevistas semiestructuradas a productores, cooperativistas, comercializadores y a distintas asociaciones. Es posible concluir que actualmente, incluso en regiones con producciones locales de pequeña escala vinculadas a mercados regionales, los productores de “sal de manantial” han encontrado nuevos nichos de mercado formados por consumidores que prefieren alimentos locales.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://ojs.ceil-conicet.gov.ar/index.php/revistaalasru/article/view/1483",
+     "doi": null,
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "oai:ojs.ceil-conicet.gov.ar:article/1476",
+     "titulo": "Mujeres en red de consumo solidario. Estrategia intercultural y de defensa del territorio en Yucatán, México",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Munguía Gil, María Teresa",
+       "orcid": null
+      },
+      {
+       "nombre": "Méndez Cárdenas, Germán",
+       "orcid": null
+      }
+     ],
+     "resumen": "La comunidad de Ixil con tierras ejidales de uso común en el estado de Yucatán (México) enfrenta conflictos territoriales derivados de intentos de despojo del territorio y de la imposición de megaproyectos neoliberales para explotar los recursos naturales. El estudio cualitativo etnográfico, con base en entrevistas temáticas realizadas de manera individual y grupal a cuatro mujeres, ofrece una visión contextualizada de las motivaciones y experiencias vividas en las dinámicas de resistencia y lucha por las tierras de Ixil. Su objetivo es defender el territorio y resistir a las amenazas externas de despojo por megaproyectos, y desafiar las estructuras patriarcales y coloniales, así como las relaciones interculturales de dominación. El estudio muestra los procesos interculturales y desafíos que viven las mujeres pioneras en la defensa del territorio y de su proceso productivo, y cómo esto ha sido fundamental para su proceso de empoderamiento y comunalidad. También pone de manifiesto las contradicciones interculturales y las dinámicas sistémicas de poder que amenazan las iniciativas de producción y soberanía alimentaria como estrategia de defensa del territorio. Ser guardianas del territorio requiere de múltiples estrategias de fortalecimiento del tejido social y de prácticas de comunalidad para resistir a las múltiples dimensiones y actores de la colonialidad.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://ojs.ceil-conicet.gov.ar/index.php/revistaalasru/article/view/1476",
+     "doi": null,
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "oai:ojs.ceil-conicet.gov.ar:article/1433",
+     "titulo": "Paisajes rurales \"ocultos\" como posibilidad de diversificación de destinos turísticos en la provincia de Mendoza, Argentina",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Suden, Clarisa",
+       "orcid": null
+      }
+     ],
+     "resumen": "El concepto de patrimonio ha ido evolucionando a lo largo del tiempo: las concepciones más recientes lo comprenden en una dimensión territorial y como un proceso o construcción social. En este sentido, el paisaje surge como elemento representativo de este cambio de escala de observación y del análisis patrimonial; considerando la presencia de algunos de sus componentes dominantes es posible establecer una tipología. En esta se focaliza el presente artículo, que toma como área de estudio el distrito Los Barriales del departamento Junín, provincia de Mendoza, Argentina. Mediante un enfoque metodológico mixto que articula estrategias cualitativas y cuantitativas, el objetivo es visibilizar sus paisajes y patrimonio agrario y evaluar su incorporación en (potenciales) circuitos turísticos. Entre los resultados obtenidos, se destaca la gran cantidad y diversidad de paisajes rurales existentes en la predominante zona rural, con una extensa trayectoria e identidad sociocultural y con mucho potencial, pero invisibilizados desde el punto de vista de su puesta en valor patrimonial y turística.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://ojs.ceil-conicet.gov.ar/index.php/revistaalasru/article/view/1433",
+     "doi": null,
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "oai:ojs.ceil-conicet.gov.ar:article/1502",
+     "titulo": "Reseña de Eunice Sueli Nodari, Facundo Rojas, Juan Manuel Cerdá y Samira Peruchi Moretto, organizadores (2024). Historia ambiental de la vitivinicultura americana. Cinco siglos de territorios y naturaleza en torno al vino: São Leopoldo: Oikos Editora, 428 páginas. ISBN: 978-65-5974-263-9",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Tonolli, Alejandro",
+       "orcid": null
+      }
+     ],
+     "resumen": null,
+     "idioma_resumen": null,
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://ojs.ceil-conicet.gov.ar/index.php/revistaalasru/article/view/1502",
+     "doi": null,
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "oai:ojs.ceil-conicet.gov.ar:article/1506",
+     "titulo": "Reseña de Gabriela Schiavoni, compiladora (2024). Técnicas que alimentan. Conocimiento y valorización de productos de la pequeña agricultura de Misiones: Posadas: Editorial Universitaria Universidad Nacional de Misiones, 354 páginas, ISBN 978-950-579-576-5",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Winikor Wagner, Mariana",
+       "orcid": null
+      }
+     ],
+     "resumen": null,
+     "idioma_resumen": null,
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://ojs.ceil-conicet.gov.ar/index.php/revistaalasru/article/view/1506",
+     "doi": null,
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "oai:ojs.ceil-conicet.gov.ar:article/1513",
+     "titulo": "Reseña de Hubert Carton de Grammont. Paola Mascheroni. Alberto Riella. Kim Sánchez, coordinadores (2025). Mercados de trabajos rurales, desigualdades y vulnerabilidad social en América latina : Buenos Aires: CLACSO/ Colección Grupos de Trabajo. 472 págs. ISBN 978-987-813-957-9",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Quaranta, Germán",
+       "orcid": null
+      }
+     ],
+     "resumen": null,
+     "idioma_resumen": null,
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://ojs.ceil-conicet.gov.ar/index.php/revistaalasru/article/view/1513",
+     "doi": null,
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "oai:ojs.ceil-conicet.gov.ar:article/1379",
+     "titulo": "Trabajadores mexicanos en el sector de la apicultura en Canadá",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Saldaña Ramírez, Adriana",
+       "orcid": null
+      }
+     ],
+     "resumen": "Este artículo presenta los resultados preliminares de una investigación llevada a cabo en el estado de Morelos, México, centrada en hombres que participan en el Programa de Trabajadores Agrícolas Temporales México – Canadá (PTAT) y que se desplazan temporalmente a Canadá para trabajar en la apicultura. El objetivo es caracterizar a estos trabajadores y analizar el mercado de trabajo en el que se insertan, destacando las particularidades de éste en comparación con el sector de frutas y hortalizas. La investigación se desarrolló entre 2019 y 2024, utilizando datos estadísticos proporcionados por la Secretaría del Trabajo y Previsión Social (STPS) sobre la cantidad de mexicanos dedicados a la apicultura en Canadá, incluyendo el tipo de trabajador, género, entidad y localidad de origen, así como información del empleador. Estos registros abarcan un periodo de 10 años, desde 2012 hasta 2022. Paralelamente, se realizó trabajo de campo con 28 apicultores en diversas comunidades de Morelos, quienes fueron entrevistados junto a sus familias y, en algunos casos, se efectuaron recorridos en sus propios apiarios. Las indagaciones se basan en un enfoque etnográfico. Los resultados muestran que este sector emplea mayoritariamente a hombres de mediana edad, con conocimientos sobre insectos y técnicas apícolas adquiridos en sus lugares de origen. Además, tres municipios de Morelos aportan más de la mitad de los trabajadores de la entidad. En este sector, a diferencia de otros dentro del PTAT, se observan con mayor claridad las relaciones paternalistas entre empleadores y empleados, quienes mantienen un contacto constante en el entorno laboral como en las viviendas durante el periodo de trabajo, e incluso en diferentes momentos del año cuando los trabajadores están en sus lugares de origen.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://ojs.ceil-conicet.gov.ar/index.php/revistaalasru/article/view/1379",
+     "doi": null,
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "oai:ojs.ceil-conicet.gov.ar:article/1423",
+     "titulo": "“No tenemos tiempo”. El uso de la entrevista grupal a cosecheras en el marco de organizaciones sindicales",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Mercado Mott, Macarena",
+       "orcid": null
+      },
+      {
+       "nombre": "Lombardi Mayán, Julia",
+       "orcid": null
+      },
+      {
+       "nombre": "Albertí, Alfonsina",
+       "orcid": null
+      }
+     ],
+     "resumen": "El artículo tiene por objetivo exponer dos experiencias de trabajo de campo en las que se utilizó la entrevista grupal como técnica de producción de datos primarios. Las entrevistas fueron planificadas en un formato tradicional de entrevista individual y semi-estructurada, para ser aplicadas a mujeres cosecheras de las producciones de yerba mate y limón, en sendas regiones agrícolas de la Argentina. Ante el impedimento planteado por las mujeres de “falta de tiempo”, se recurrió a la estrategia de la entrevista grupal, modificando y adaptando la herramienta de producción de datos a esta situación. En un caso, las entrevistas se aplicaron a mujeres cosecheras de yerba mate (tareferas) en la localidad de Andresito, provincia de Misiones (noviembre de 2019); en el segundo caso, a mujeres cosecheras de limón en la localidad de Santa Lucía, provincia de Tucumán (agosto de 2023). En este artículo se reflexiona sobre los aportes, especificidades y limitaciones que presenta esta herramienta de construcción de datos primarios.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://ojs.ceil-conicet.gov.ar/index.php/revistaalasru/article/view/1423",
+     "doi": null,
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    }
+   ]
+  }
+ ]
+};

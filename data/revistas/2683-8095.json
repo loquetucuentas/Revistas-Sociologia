@@ -1,0 +1,799 @@
+{
+ "version": 1,
+ "generado": "2026-11-02T05:12:34+00:00",
+ "es_prueba": false,
+ "revista": {
+  "id": "2683-8095",
+  "titulo": "Tramas Sociales",
+  "idioma_titulo": null,
+  "titulo_alternativo": "TS",
+  "idioma_titulo_alternativo": null,
+  "idiomas": [
+   "pt",
+   "es"
+  ],
+  "issn_impreso": "2683-8087",
+  "issn_electronico": "2683-8095",
+  "editorial": "Gabinete de Estudios e Investigación en Sociología (GEIS)",
+  "pais": "AR",
+  "materias": [
+   "Sociology (General)",
+   "History of scholarship and learning. The humanities"
+  ],
+  "palabras_clave": [
+   "social sciences",
+   "humanities",
+   "sociology",
+   "economy",
+   "political science",
+   "gender studies"
+  ],
+  "licencias": [
+   {
+    "nombre": "CC BY-NC-SA 4.0",
+    "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+   }
+  ],
+  "url": "https://ojs.unsj.edu.ar/index.php/tramassociales/index",
+  "url_doaj": "https://doaj.org/toc/2683-8095",
+  "descripcion": null,
+  "fuente_ficha": "DOAJ",
+  "oai": "https://ojs.unsj.edu.ar/index.php/tramassociales/oai",
+  "archivo": "revistas/2683-8095.json",
+  "ultimo_numero": "Vol. 7, núm. 7 (2025)",
+  "fuente_numeros": "OAI-PMH"
+ },
+ "numeros": [
+  {
+   "id": "v7-n7-2025",
+   "volumen": "7",
+   "numero": "7",
+   "anio": 2025,
+   "fecha": "2025-10-10",
+   "etiqueta": "Vol. 7, núm. 7 (2025)",
+   "fuente": "OAI-PMH",
+   "articulos": [
+    {
+     "id": "oai:ojs.pkp.sfu.ca:article/1229",
+     "titulo": "De Germani a Bourdieu. Origen, escuelas y transformaciones teórico-epistémicas en el proceso académico de la Carrera de Sociología de San Juan (1965-2018)",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Arnedillo, María Beatriz",
+       "orcid": null
+      },
+      {
+       "nombre": "Carelli, José María",
+       "orcid": null
+      },
+      {
+       "nombre": "Gómez, Gómez, Nancy",
+       "orcid": null
+      }
+     ],
+     "resumen": "Para conocer la particular configuración que adquiere el proceso de institucionalización de la carrera de Sociología, se instrumenta como referentes empíricos los trabajos finales de grado. A partir de su análisis, se busca mostrar cómo las condiciones de construcción del conocimiento en la licenciatura en sociología están dadas por los diferentes grados de diferenciación y especificación alcanzados por la sociología académica local. Reconstruir el proceso de configuración histórica de la carrera abordando el conocimiento académico de los trabajos finales de grado de la licenciatura en sociología de la UN de San Juan, desarrollados entre 1965 y 2018, centrándose este artículo en el particular desarrollo de los abordajes teórico-epistémicos. Metodológicamente, el análisis en la continuidad histórica, posibilita el entendimiento de la totalidad del proceso de institucionalización de la sociología en el ámbito universitario en la provincia y permite analizar los cambios en las continuidades y las continuidades en los cambios. Aludimos a su persistencia y permanencia frente a los cambios, como figuración histórica, como entramados de interdependencias, con un relativo equilibrio de poder en el interior y frente al poder, y aunque presenta conflictos, tensiones, rupturas y cambios continúa la senda de la construcción desde las lógicas concretas de lo académico.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "http://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://ojs.unsj.edu.ar/index.php/tramassociales/article/view/1229",
+     "doi": null,
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "oai:ojs.pkp.sfu.ca:article/1206",
+     "titulo": "Investigar en ciencias sociales, una mirada sobre la formación en el oficio a 60 años de Sociología en San Juan, Argentina",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Gili Diez, Valeria",
+       "orcid": null
+      },
+      {
+       "nombre": "Montaño, Gabriel Franco",
+       "orcid": null
+      },
+      {
+       "nombre": "Graffigna, María Luisa",
+       "orcid": null
+      },
+      {
+       "nombre": "Henriquez, María Griselda",
+       "orcid": null
+      },
+      {
+       "nombre": "Dacuña, Roberto Alejandro",
+       "orcid": null
+      }
+     ],
+     "resumen": "Al cumplirse 60 años de creación de la carrera de Sociología en la provincia de San Juan, la segunda en el país y algunos años después de la creada en 1958 en la Universidad de Buenos Aires, consideramos propicia la ocasión para detenernos sobre “la piedra de toque” en la formación de sociólogos y sociólogas sanjuaninos, y que según Sautu (2018) se denomina consensuadamente como metodología de la investigación social. El artículo que presentamos parte del supuesto de que la investigación es un eje en la formación sociológica, que ha adquirido algunas particularidades en San Juan. Para dar cuenta de ello se reconstruye el itinerario de la carrera universitaria haciendo énfasis en la formación en investigación social a partir del recurso a la memoria de algunos docentes que formaron parte de las primeras cohortes de estudiantes de la carrera, así como también a la revisión de material documental, en particular, de los planes de estudio buscando poner en evidencia los cambios que se iban registrando en el desarrollo de la disciplina.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "http://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://ojs.unsj.edu.ar/index.php/tramassociales/article/view/1206",
+     "doi": null,
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "oai:ojs.pkp.sfu.ca:article/1213",
+     "titulo": "La perspectiva de género en la investigación y docencia de la Sociología sanjuanina: un análisis sobre sus inicios.",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Galoviche, Victoria",
+       "orcid": null
+      }
+     ],
+     "resumen": "El presente artículo expone un recorrido sobre los principales hechos y momentos que marcaron los inicios del trabajo sobre género en la Sociología de San Juan, específicamente en el marco de la Facultad de Ciencias Sociales de la Universidad Nacional de San Juan. El camino andado por los primeros estudios de género y sus actores en juego en la provincia, será reconstruido gracias a los relatos de una entrevista aplicada en el mes de agosto de 2024 a una referente y pionera de dicha perspectiva en la Sociología sanjuanina, como es la Mg. Laura Ávila. Laura nos ofrece una narrativa autobiográfica, y en cada pasaje de su vida, se rescatan otras voces y actores que aportaron a la interesante tarea de abrir el camino al abordaje del género. A 60 años de creada la carrera Sociología en la provincia de San Juan, es que resulta de gran interés y relevancia, recuperar los primeros pasos en el trabajo de la perspectiva de género; una sociología crítica y reflexiva, que entiende las demandas y las luchas sobre la desigualdad de género y las brechas creadas en este sentido, e intenta dar respuestas a estos fenómenos acuciantes.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "http://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://ojs.unsj.edu.ar/index.php/tramassociales/article/view/1213",
+     "doi": null,
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "oai:ojs.pkp.sfu.ca:article/1217",
+     "titulo": "La sociología del trabajo en San Juan, Argentina 1971-2024",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Favieri, Francisco Nicolás",
+       "orcid": null
+      },
+      {
+       "nombre": "Valenzuela, Sara Mabel",
+       "orcid": null
+      },
+      {
+       "nombre": "Giménez Herrero, Susana",
+       "orcid": null
+      }
+     ],
+     "resumen": "El propósito del artículo es visibilizar el papel y la relevancia de la Sociología del Trabajo en la Carrera de Sociología de la Facultad de Ciencias Sociales de la Universidad Nacional de San Juan (FACSO-UNSJ). Para ello, se analizaron los trabajos finales de grado (tesis) evaluados en la carrera desde 1971 hasta 2024. Estos trabajos fueron identificados y clasificados en función de su adscripción a distintas subdisciplinas, a partir de sus títulos y resúmenes. Con una estrategia estadístico-descriptiva, se exploró el protagonismo de la Sociología del Trabajo. Complementariamente, se compararon los temas abordados en las tesis con las problemáticas analizadas en los proyectos de investigación desarrollados por el Gabinete de Estudios e Investigación en Sociología (GEIS) y el Instituto de Investigaciones Socioeconómicas (IISE). Nuestro supuesto de trabajo sostiene que las sociologías especiales (salud, educación, urbana, rural, organizaciones) tienen mayor injerencia en las tesis respecto de la sociología del trabajo ya que no se trata de una sociología especial. Como resultado encontramos que la sociología del trabajo es la segunda más frecuente y acreditada en cuanto a tema de tesis, evidenciando un crecimiento sostenido a lo largo de la historia de la carrera.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "http://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://ojs.unsj.edu.ar/index.php/tramassociales/article/view/1217",
+     "doi": null,
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "oai:ojs.pkp.sfu.ca:article/1212",
+     "titulo": "Pensar la Sociología desde la Participación: el aporte de la cátedra Taller de Enfoques Participativos.",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Alvarez, Anibal",
+       "orcid": null
+      },
+      {
+       "nombre": "Pérez, Belén",
+       "orcid": null
+      },
+      {
+       "nombre": "Marsiglia, Javier",
+       "orcid": null
+      }
+     ],
+     "resumen": "La cátedra Taller de Enfoques Participativos comenzó a implementarse en el 2019, a partir de su inclusión en el plan de estudios 2018 de las carreras Licenciatura y Profesorado en Sociología, de la Facultad de Ciencias Sociales, de la Universidad Nacional de San Juan. Se presenta como una propuesta innovadora, que no contaba con antecedentes en planes anteriores de la carrera en la provincia y en el país. Los objetivos del taller refieren a la posibilidad de que los estudiantes integren los fundamentos epistemológicos, teóricos y metodológicos de los enfoques participativos de investigación – acción. Así como también, logren adquirir entrenamiento en el trabajo con grupos, organizaciones y comunidades en la aplicación y manejo de técnicas participativas. Para la creación de esta asignatura hubo un esfuerzo inicial para diseñar los contenidos teórico-metodológicos, el repertorio de técnicas y dinámicas participativas y las actividades en terreno que iban a ser parte del programa de la asignatura. El TEP conforma el Área de Planificación y Políticas Públicas, desde una propuesta novedosa, respecto a las incumbencias tradicionales de un saber experto que trasciende el campo disciplinar. Sin embargo, los procesos participativos son parte importante de las propuestas internacionales para resolver problemas complejos.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "http://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://ojs.unsj.edu.ar/index.php/tramassociales/article/view/1212",
+     "doi": null,
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "oai:ojs.pkp.sfu.ca:article/1451",
+     "titulo": "Periferias productivas: aportes de la sociología sanjuanina a sesenta años de su institucionalización",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Carelli, Jose María",
+       "orcid": null
+      }
+     ],
+     "resumen": "Celebrar seis décadas de institucionalización de la sociología en la provinciade San Juan implica mucho más que conmemorar una fecha. Significareconocer una historia que emerge entre disputas, apropiaciones y resignificacionesque dieron lugar a un campo disciplinar con identidad propia,esto sin perder el constante diálogo y lecturas con corrientes nacionales einternacionales.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "http://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://ojs.unsj.edu.ar/index.php/tramassociales/article/view/1451",
+     "doi": null,
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "oai:ojs.pkp.sfu.ca:article/1210",
+     "titulo": "Tras las huellas de la “Sociología Histórica” en la Universidad Nacional de San Juan: su institucionalización, protagonistas y legados.",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Victor Algañaraz",
+       "orcid": null
+      },
+      {
+       "nombre": "De Cara, Graciela",
+       "orcid": null
+      },
+      {
+       "nombre": "Sánchez , Fernanda",
+       "orcid": null
+      },
+      {
+       "nombre": "Vega, Sonia",
+       "orcid": null
+      }
+     ],
+     "resumen": "Este artículo focaliza en el análisis del surgimiento y devenir de la “Sociología Histórica” como un área de conocimiento especializada en la carrera de Sociología de la Universidad Nacional de San Juan. Se capturan algunos rasgos de la especificidad de su objeto de estudio, nacido de la compleja intersección entre Sociología e Historia, al tiempo que se presenta un mapa general de su estructuración en las diferentes mallas curriculares de las carreras de Sociología del país. Además, y fundamentalmente, se recrea su punto de llegada e institucionalización en la provincia de San Juan, examinando los planes de estudio de la carrera a nivel local y recuperando las voces y experiencias de ex–docentes del área que le confirieron identidad y pusieron en valor.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "http://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://ojs.unsj.edu.ar/index.php/tramassociales/article/view/1210",
+     "doi": null,
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    }
+   ]
+  },
+  {
+   "id": "v6-n6-2024",
+   "volumen": "6",
+   "numero": "6",
+   "anio": 2024,
+   "fecha": "2024-12-31",
+   "etiqueta": "Vol. 6, núm. 6 (2024)",
+   "fuente": "OAI-PMH",
+   "articulos": [
+    {
+     "id": "oai:ojs.pkp.sfu.ca:article/1231",
+     "titulo": "Diccionario Histórico-Crítico del Marxismo-Feminismo",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Kresic, Agustina",
+       "orcid": null
+      }
+     ],
+     "resumen": "El Diccionario Histórico-Crítico del Marxismo-Feminismo presenta 34 entradas con algunas de las principales categorías y conceptos que sirvieron para el despliegue de los debates y de la articulación entre marxismos y feminismos a nivel global.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "Derechos de autor 2024 Agustina Kresic",
+      "url": null
+     },
+     "url": "https://ojs.unsj.edu.ar/index.php/tramassociales/article/view/kresic24",
+     "doi": null,
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "oai:ojs.pkp.sfu.ca:article/1260",
+     "titulo": "El riesgo está del lado de la crítica abstracta más que del retorno al empirismo ingenuo: Entrevista a Germán Rosati",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Soria, Beatriz",
+       "orcid": null
+      },
+      {
+       "nombre": "Abarzúa Cutroni, Anabella",
+       "orcid": null
+      },
+      {
+       "nombre": "Favieri, Francisco Nicolás",
+       "orcid": null
+      },
+      {
+       "nombre": "Rosati, Germán Federico",
+       "orcid": null
+      }
+     ],
+     "resumen": "Germán Rosati, sociólogo e investigador del CONICET, comparte en esta entrevista sus perspectivas sobre el vínculo entre ciencias sociales y enfoques computacionales. Como director del Diploma en Ciencias Sociales Computacionales y Humanidades Digitales de la UNSAM, Rosati propone una reflexión crítica que integra teoría, empiria y técnica, destacando la necesidad de construir puentes entre el lenguaje sociológico y el computacional. Abordamos temas como la reproducibilidad técnica en sociología, el rol del conocimiento técnico para fundamentar análisis críticos, y las tensiones entre las tradiciones teóricas y metodológicas frente a la transformación tecnológica. Rosati subraya que el valor de estas herramientas radica en cómo son orientadas por preguntas sociológicas relevantes, más allá de su mera aplicación técnica. La entrevista es una invitación a re-imaginar la práctica sociológica en un contexto de Big Data e inteligencia artificial, equilibrando potencialidades y limitaciones para comprender la complejidad social actual.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "Derechos de autor 2024 Beatriz Soria, Anabella Abrazúa Cutroni, Francisco Nicolás Favieri, Germán Rosari",
+      "url": null
+     },
+     "url": "https://ojs.unsj.edu.ar/index.php/tramassociales/article/view/1260",
+     "doi": null,
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "oai:ojs.pkp.sfu.ca:article/1216",
+     "titulo": "Enseñar y Aprender Jugando: Implementación de gamificación en el Profesorado de Sociología de la Universidad Nacional de San Juan, Argentina.",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Figueroa, Rosa",
+       "orcid": null
+      },
+      {
+       "nombre": "Hilda Mabel Guevara",
+       "orcid": null
+      },
+      {
+       "nombre": "Daiana Amante",
+       "orcid": null
+      },
+      {
+       "nombre": "José María Alejandro Carelli",
+       "orcid": null
+      }
+     ],
+     "resumen": "Este artículo expone los resultados de un proyecto de investigación interno, el principal objetivo del estudio se centró en producir conocimiento crítico y situado sobre las estrategias y prácticas educativas de inmersión digital en la cátedra de Psicología del Desarrollo y de la Educación del Profesorado de Educación Superior en Sociología. Para lograr este objetivo, se realizó un análisis exhaustivo de las herramientas y servicios ofrecidos en distintas plataformas digitales para lograr prácticas inmersivas en el aula. Se diseñaron y aplicaron diversas prácticas de enseñanza innovadoras con el fin de favorecer el aprendizaje de los estudiantes, muchas de ellas desde la gamificación, lo cual generó un impacto positivo. Además, se contribuyó a la conformación de un repositorio de recursos y estrategias de inmersión digital, teniendo en cuenta los requisitos de propiedad intelectual. La metodología empleada en este proyecto fue de investigación-acción participativa; se buscó la implementación de estrategias pedagógicas y didácticas con herramientas de inmersión digital. Esta metodología, junto con la aplicación de técnicas de registro y sistematización de información, buscó garantizar la efectividad de las prácticas inmersivas en el aula, así como la generación de conocimiento crítico y situado sobre las estrategias educativas digitales.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "Derechos de autor 2024 Rosa Figueroa, Hilda Mabel Guevara, Daiana Amante, José María Alejandro Carelli",
+      "url": null
+     },
+     "url": "https://ojs.unsj.edu.ar/index.php/tramassociales/article/view/figueroa24",
+     "doi": null,
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "oai:ojs.pkp.sfu.ca:article/1209",
+     "titulo": "Justicia penal, control social y delitos en el contexto de conformación del Estado provincial (San Juan, 1855-1890)",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Borcosque, Lía Alejandra",
+       "orcid": null
+      }
+     ],
+     "resumen": "En el presente trabajo analizamos el proceso -necesariamente no lineal- de conformación, funcionamiento y transformación de las instituciones locales con atribuciones penales o criminales en la segunda mitad del siglo XIX. Para ello atendemos especialmente a las de competencia judicial en la ciudad de San Juan a partir del análisis de las leyes que las regulaba. Asimismo, indagaremos en la transformación entre 1855 y 1890 del tipo de delitos por los que los sujetos eran judicializados. Para ello dividimos el periodo analizado aquí en dos etapas, organizadas según las normativas provinciales de estructuración del poder judicial. El primero, inaugurado con la sanción del Reglamento de Justicia del año 1855, constituyó una época de enorme conflictividad política y bélica entre facciones diversas, que dio lugar a un incremento del accionar judicial. El segundo momento se inició con la sanción de la ley Orgánica del Poder Judicial, aprobada en 1869, en un intento de dar mayor ordenamiento y previsibilidad de las instituciones estatales en un contexto de disminución de los conflictos bélicos. Para explicar estas transformaciones nos situamos en el campo de la Nueva Historia del Derecho, combinando técnicas cualitativas – de observación documental y análisis de contenido- y cuantitativas -estadística descriptiva.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "Derechos de autor 2024 Lía Alejandra Borcosque",
+      "url": null
+     },
+     "url": "https://ojs.unsj.edu.ar/index.php/tramassociales/article/view/borcosque24",
+     "doi": null,
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "oai:ojs.pkp.sfu.ca:article/1261",
+     "titulo": "La promesa del conocimiento: Reflexiones sobre la transformación social desde la Universidad Pública",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Carelli, José María",
+       "orcid": null
+      }
+     ],
+     "resumen": "Palabras alusivas expresadas por el Director del Departamento de Sociología en el marco del Acto de Apertura del Ciclo Lectivo 2024. Facultad de Ciencias Sociales, Universidad Nacional de San Juan.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "Derechos de autor 2024 José Maria Carelli",
+      "url": null
+     },
+     "url": "https://ojs.unsj.edu.ar/index.php/tramassociales/article/view/1261",
+     "doi": null,
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "oai:ojs.pkp.sfu.ca:article/1162",
+     "titulo": "Mapa de riesgo sísmico en el departamento Sarmiento (San juan – Argentina)",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Narvaez, Luciana Maricel",
+       "orcid": null
+      }
+     ],
+     "resumen": "El departamento de Sarmiento, localizado en San Juan, Argentina, se encuentra en una zona de alta peligrosidad sísmica con antecedentes de terremotos destructivos. Este trabajo tiene como objetivo principal aportar al conocimiento del riesgo sísmico. Desde la perspectiva de la Geografía de los Riesgos, pionera en este campo, se consideran esenciales los componentes del peligro y la vulnerabilidad para un estudio integral del riesgo sísmico. La evaluación del riesgo sísmico se sitúa dentro del paradigma de la Geografía Cuantitativa, utilizando métodos robustos como la Evaluación Multicriterio y los Sistemas de Información Geográfica para generar modelos decisionales. A través del diseño de una cartografía, se identifican las zonas de mayor riesgo, que son las áreas que requieren más intervención en caso de un evento peligroso y donde se anticipan mayores daños a la población expuesta. Los modelos de riesgo sísmico son herramientas muy valiosas para la organización territorial, ya que la información que proporcionan es crucial para los responsables de las políticas de planificación y desarrollo territorial, permitiéndoles tomar decisiones más seguras sobre la mitigación del riesgo.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "Derechos de autor 2024 Luciana Maricel Narvaez",
+      "url": null
+     },
+     "url": "https://ojs.unsj.edu.ar/index.php/tramassociales/article/view/narvaezl2024",
+     "doi": null,
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "oai:ojs.pkp.sfu.ca:article/1161",
+     "titulo": "Planificación y gestión asociada de movilidad urbana orientada al desarrollo de periferias. Hacia un modelo de articulación Estado–sociedad civil. Proyecto de Desarrollo Tecnológico y Social (PDTS)–UNSJ. Año 2023-2025",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Romero Grezzi, Carlos",
+       "orcid": null
+      },
+      {
+       "nombre": "Caamaño, Maria Gabriela",
+       "orcid": null
+      },
+      {
+       "nombre": "Manrique, Emilio",
+       "orcid": null
+      },
+      {
+       "nombre": "Cuello, Eliana",
+       "orcid": null
+      },
+      {
+       "nombre": "Pérez, Luciana Belen",
+       "orcid": null
+      },
+      {
+       "nombre": "Mattioli, Luisa",
+       "orcid": null
+      },
+      {
+       "nombre": "Climent, Andrea",
+       "orcid": null
+      }
+     ],
+     "resumen": "Este proyecto busca desarrollar un modelo de planificación y gestión de movilidad urbana para áreas en consolidación, aplicable a localidades y barrios del oeste del Gran San Juan, incluyendo los departamentos Rivadavia y Rawson. Surge en el contexto de la modernización del transporte público impulsada por el Estado Provincial de San Juan, generando debates sobre la necesidad de compatibilidad con el modelo territorial. La propuesta integra actores y acciones en las políticas de movilidad orientadas al desarrollo de territorios periurbanos, promoviendo la construcción participativa de una identidad social y ambiental. Se enfoca en fortalecer institucional y organizacionalmente el sector, coordinando agendas de trabajo, proyectos y programas, para incrementar las capacidades de acción y el acceso a financiamiento.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "Derechos de autor 2024 Andrea Climent",
+      "url": null
+     },
+     "url": "https://ojs.unsj.edu.ar/index.php/tramassociales/article/view/climent24",
+     "doi": null,
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "oai:ojs.pkp.sfu.ca:article/1259",
+     "titulo": "Reconversión laboral de recuperadores/as informales de residuos de La Bebida – departamento Rivadavia – de la provincia de San Juan",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Graffigna, María Luisa",
+       "orcid": null
+      }
+     ],
+     "resumen": "En este Trabajo de Grado, ganador de la Edición 2024 del Premio “Domingo Faustino Sarmiento”, la autora se propuso como objetivo comprender el proceso de reconversión laboral experimentado por las y los recuperadores informales de residuos del vertedero de La Bebida (Departamento Rivadavia, Provincia de San Juan, Argentina) en trabajadores/as del Parque de Tecnologías Ambientales (PTA), y cómo este proceso es significado por los propios actores. El contexto de este estudio se remonta a abril de 2012, momento en que el Gobierno de San Juan, por medio de la Secretaría de Ambiente y Desarrollo Sustentable (SEAyDS), inaugura el PTA en la provincia. A lo largo de la investigación, y a través de un exhaustivo análisis de relatos de entrevistas y material documental, la autora profundiza en tres aspectos principales: las trayectorias laborales de las y los trabajadores del PTA, el proceso de reconversión desde la informalidad al trabajo formal y, por último, las significaciones sobre el trabajo que emergen de las narrativas de las personas entrevistadas.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "Derechos de autor 2024 Maria Luisa Graffigna",
+      "url": null
+     },
+     "url": "https://ojs.unsj.edu.ar/index.php/tramassociales/article/view/1259",
+     "doi": null,
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "oai:ojs.pkp.sfu.ca:article/1262",
+     "titulo": "Responsabilidad social ambiental y la economía del triple impacto",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Carrizo, María Laura",
+       "orcid": null
+      }
+     ],
+     "resumen": "Este trabajo analiza la relación entre empresa y entorno ambiental, destacando la importancia de la organización dentro del ecosistema y su influencia sobre el medio ambiente, se analiza la responsabilidad social empresaria aplicada específicamente al entorno ecológico, utilizando la responsabilidad social como herramienta para mejorar la gestión de las organizaciones, abordando los temas de sustentabilidad y sostenibilidad de un negocio. Se recorre el camino de la RSE luego avanzando hacia la Responsabilidad Social Ambiental, analizando conceptos tales como los ya nombrados dentro de los desarrollos, como el análisis de que es y cómo se mide la huella de carbono. Se estudia la Estrategia verde Empresarial y cómo a partir de la educación ambiental y la consciencia a través de tratados internacionales informan de lo que sucede cuando la política ambiental no está presente en la forma de hacer negocios y por ser sistémicos no se puede ignorar lo que provocan las negligencias ambientales Se describe el panorama en nuestro país y en el mundo del surgimiento y avance de la nueva economía del Triple Impacto, a través de las denominadas Empresas B, de cómo han surgido ONG´s que certifican estas empresas estableciendo estándares, contra los cuales controlar su gestión ambiental.",
+     "idioma_resumen": "es",
+     "licencia": null,
+     "url": "https://ojs.unsj.edu.ar/index.php/tramassociales/article/view/1262",
+     "doi": null,
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "oai:ojs.pkp.sfu.ca:article/1157",
+     "titulo": "Sociología e investigación: Un análisis desde las becas y estudiantes de la Facultad de Ciencias Sociales de la UNSJ",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Narvaez, Nelly Florencia",
+       "orcid": null
+      }
+     ],
+     "resumen": "En este estudio, analizamos la Sociología en el ámbito de la investigación en relación con otras disciplinas en la Facultad de Ciencias Sociales (FACSO) de la Universidad Nacional de San Juan durante el período 2019-2021. Utilizamos las becas Estímulo a las Vocaciones Científicas del Consejo Interuniversitario Nacional (EVC-CIN) y las becas del Consejo de Investigaciones Científicas y Técnicas y de Creación Artística (CICITCA) como base, que permiten la integración temprana de los/as estudiantes en la investigación científica. Históricamente, las disciplinas han acumulado recursos y capacidades de investigación de manera desigual, creando capital científico diferenciado. En la FACSO, también hay una heterogeneidad en la importancia otorgada a la investigación, influyendo en la postulación y obtención de becas. Este trabajo se fundamenta en la \"Sociología Reflexiva\" de Pierre Bourdieu, utilizando el \"Relacionismo Metodológico\" bourdiano, que conecta enfoques objetivistas y subjetivistas. En el primero, se caracterizan las disciplinas y becas. Luego, se adopta una perspectiva subjetiva mediante entrevistas semi-estructuradas con becarios/as e informantes clave. El análisis de la participación de estudiantes becarios/as según disciplinas académicas muestra un panorama diferenciado. Estas disimilitudes se deben al perfil profesional y conocimientos de cada disciplina, y al cumplimiento de los requisitos de las becas.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "Derechos de autor 2024 Nelly Florencia Narvaez",
+      "url": null
+     },
+     "url": "https://ojs.unsj.edu.ar/index.php/tramassociales/article/view/narvaezf2024",
+     "doi": null,
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "oai:ojs.pkp.sfu.ca:article/1187",
+     "titulo": "Subjetividades hegemónicas (neo)liberales-(neo)coloniales y subjetividades políticas en resistencias autonómicas y re-existencias",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Naveda, Alicia Beatriz",
+       "orcid": null
+      },
+      {
+       "nombre": "Botero Gómez, Patricia",
+       "orcid": null
+      }
+     ],
+     "resumen": "Las tierras de Abya Yala (Latinoamérica y el Caribe) han sido históricamente y, son en la actualidad, territorios atravesados por la ofensiva de diferentes marañas de poder global que recoloniza y recicla sus propias formas extractivistas en tiempos del colonialismo verde en búsqueda de metales preciosos, reservas energéticas, tierras fértiles, mano de obra barata. A esas condiciones se contraponen como esperanzas, las diversas insurrecciones de pueblos organizados, movimientos sociales, mujeres, pueblos originarios que están gestando formas otras de producir, organizarse, vivir, generando heterogéneas formas de reexistencia a la dominación económica, social, política, cultural. En este artículo abordaremos: la configuración de subjetividades neo-liberales neo-coloniales como parte de la trama hegemónica; las subjetividades comunales y colectivas emergentes en las resistencias cotidianas más allá de las resistencias deliberativas y públicas y, reflexionaremos acerca del Ser Colectivo tocando directamente el papel de las intelectualidades orgánicas en procesos autonómicos y en nosotredad; tarea que venimos habitando muy de otro modo en las institucionalidades académicas y políticas.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "Derechos de autor 2024 Alicia Beatriz Naveda,Patricia Botero Gómez",
+      "url": null
+     },
+     "url": "https://ojs.unsj.edu.ar/index.php/tramassociales/article/view/1187",
+     "doi": null,
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    }
+   ]
+  },
+  {
+   "id": "v5-n05-2023",
+   "volumen": "5",
+   "numero": "05",
+   "anio": 2023,
+   "fecha": "2024-02-08",
+   "etiqueta": "Vol. 5, núm. 05 (2023)",
+   "fuente": "OAI-PMH",
+   "articulos": [
+    {
+     "id": "oai:ojs.pkp.sfu.ca:article/1004",
+     "titulo": "Campo político y capital social. La creación del “Club Social” en la provincia de San Juan",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Luna, Claudio",
+       "orcid": null
+      }
+     ],
+     "resumen": "El presente artículo recorre socio-históricamente el momento de creación del Club Social de San Juan, analizando el contexto institucional, social y político que lo hizo posible. La reconstrucción de los procesos que confluyen en la creación de este Club, el primero de su tipo en la provincia y de los primeros de Argentina, se realizó mediante el rastreo y análisis de diferentes registros histórico-documentales que refieren a su creación, funcionamiento y vida institucional desde su fundación en 1888 hasta la primera década del siglo XX. Para ello se instrumentó una estrategia cualitativa que se considera adecuada al enfoque socio-histórico adoptado: el análisis sociológico del discurso. El periodo abordado puede caracterizarse como una etapa en la que los sectores dominantes de la provincia de San Juan comienzan a experimentar la “sociabilidad burguesa”. Periodo en el que, además, este sector del espacio social se orienta a la acumulación de capital social.",
+     "idioma_resumen": "es",
+     "licencia": null,
+     "url": "https://ojs.unsj.edu.ar/index.php/tramassociales/article/view/1004",
+     "doi": null,
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "oai:ojs.pkp.sfu.ca:article/1005",
+     "titulo": "Características y Externalidades del Turismo Rural en Barreal, San Juan, Argentina, Proyecto de Investigación ejecutado en IISE-FACSO-UNSJ durante los años 2020-2022",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "De Cara, Graciela Beatriz",
+       "orcid": null
+      },
+      {
+       "nombre": "Aciar, Enzo Leonardo",
+       "orcid": null
+      },
+      {
+       "nombre": "Tomisg, Gabriela Paola",
+       "orcid": null
+      },
+      {
+       "nombre": "Riveros, Martín Alberto",
+       "orcid": null
+      },
+      {
+       "nombre": "Caif López, María Florencia",
+       "orcid": null
+      }
+     ],
+     "resumen": "El proyecto “Características y Externalidades del Turismo Rural en Barreal, San Juan, Argentina”(2020-2022), es parte de la producción de conocimiento científico en la línea de trabajo de la Sociología Rural, desarrollada por el Grupo de Investigación del Sector Socio Agropecuario (GISSA), en el Instituto de Investigaciones Socio Económicas de la Facultad de Ciencias Sociales (FACSO), Universidad Nacional de San Juan (UNSJ). Este grupo de investigación tiene trayectoria en proyectos como:“Cambios en la tenencia de la tierra como consecuencia de la instalación de los diferimientos impositivos”(2011-2013) que estuvo destinado a observar los cambios en la estructura productiva de los departamentos de Zonda y Ullum, a partir de la instalación de los diferimientos impositivos y la situación de los pequeños y medianos productores, en su convivencia con los grandes capitalistas agrícolas.",
+     "idioma_resumen": "es",
+     "licencia": null,
+     "url": "https://ojs.unsj.edu.ar/index.php/tramassociales/article/view/1005",
+     "doi": null,
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "oai:ojs.pkp.sfu.ca:article/1018",
+     "titulo": "Compromiso académico y conductas colectivas",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Carelli, José María",
+       "orcid": null
+      }
+     ],
+     "resumen": "Un acercamiento al inicio del proceso editorial de revistas nos traslada al lejano siglo XVII. Precisamente, a partir de 1665 la Royal Society (Londres) publica Philosophical Transactions, y en esos años la Académie Royale des Science, (Francia), Journal de Sçavans. Publicaciones que suplantaron y concentraron los denominados correos de confianza diplomática, herramienta basadas en cartas que comunicaban los avances y descubrimientos que se realizaban en ambos lados del Canal de la Mancha",
+     "idioma_resumen": "es",
+     "licencia": null,
+     "url": "https://ojs.unsj.edu.ar/index.php/tramassociales/article/view/1018",
+     "doi": null,
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "oai:ojs.pkp.sfu.ca:article/1007",
+     "titulo": "Diálogo epistemológico: Reflexiones sobre la historia de la ciencia y las teorías del conocimiento",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Chousal Lizama, Paloma América",
+       "orcid": null
+      }
+     ],
+     "resumen": "En el marco de la Cátedra Epistemología de las Ciencias Sociales de la Carrera de Sociología de la Universidad Nacional de San Juan se invitó a la docente: Lic. Alicia Russo -anterior titular de la cátedra- a dar una Clase Abierta sobre ciencia y teorías del conocimiento. La actividad realizada en primavera de 2022, fue promovida por la actual profesora titular: Lic. Sandra Lambiase y la docente Adjunta: Lic. Paloma Chousal Lizama. Por medio de un lenguaje ameno, producto del diálogo entre la docente invitada y estudiantes de la Facultad de Ciencias Sociales, el documento de cátedra plantea un recorrido amplio partiendo de los elementos de la cultura griega hasta los planteos epistemológicos transdisciplinares contemporáneos. A partir de lo que se entiende por epistemología y la discusión acerca de la definición de ciencia, se señalan las concepciones que las distintas escuelas de pensamiento ponen en tensión. Se identifican diferentes momentos de la historia del conocimiento con la intención de aclarar y profundizar la necesaria contextualización de las discusiones epistemológicas en sus continuidades y discontinuidades. Para este propósito, se incorpora una aclaración cronológica (años de nacimiento y fallecimiento de cada autor), para facilitar el ordenamiento temporal de las ideas presentadas.",
+     "idioma_resumen": "es",
+     "licencia": null,
+     "url": "https://ojs.unsj.edu.ar/index.php/tramassociales/article/view/1007",
+     "doi": null,
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "oai:ojs.pkp.sfu.ca:article/1000",
+     "titulo": "Experiencias y voces de discapacidad en la universidad",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Muñoz Rubia, Idania Macarena",
+       "orcid": null
+      }
+     ],
+     "resumen": "Las experiencias, voces y sentires de las personas con discapacidad fueron dejadas históricamente de lado, o directamente fueron negadas por las perspectivas teóricas biologicistas y materialistas, tanto del modelo médico como del modelo social respectivamente. En esta investigación, se pretende analizar las experiencias de personas con discapacidad de la Universidad Nacional de San Juan (UNSJ) a partir de las significaciones que les otorgan a sus propias vivencias. Los objetivos específicos buscan caracterizar y problematizar los principales aportes del modelo médico y modelo social en relación a las experiencias vividas desde la dimensión corporal de las personas con discapacidad, también, relevar experiencias de estudiantes con discapacidad de la UNSJ y reconstruir e interpretar los supuestos presentes en los relatos vivenciales de las experiencias relevadas. La metodología utilizada es de tipo cualitativa con carácter exploratorio-descriptivo, basado en técnicas de reconstrucción bibliográfica-documental, de recolección y análisis de datos, tal como es el caso de las entrevistas semi-estructuradas principalmente. Los resultados principales reflejan una constante conjunción de percepciones ligadas a diferentes formas de comprender y vivir la discapacidad que dan cuenta de la aún vigente lucha de las perspectivas de los modelos teóricos abordados en este trabajo, esto es, del modelo médico y social.",
+     "idioma_resumen": "es",
+     "licencia": null,
+     "url": "https://ojs.unsj.edu.ar/index.php/tramassociales/article/view/1000",
+     "doi": null,
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "oai:ojs.pkp.sfu.ca:article/1002",
+     "titulo": "Innovación educativa y tecnologías. Aportes teóricos y reflexiones prácticas",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Vila Costa, María José",
+       "orcid": null
+      },
+      {
+       "nombre": "Harracá, Mariano Andrés",
+       "orcid": null
+      }
+     ],
+     "resumen": "El objetivo de este escrito es aportar a una reflexión en torno al campo de la innovación educativa y su vínculo con las tecnologías educativas, centrándose en las prácticas docentes de Nivel Superior. Para esto se plantea un abordaje múltiple, que incluye tanto la revisión de literatura especializada como la reflexión en torno a fuentes diversas, otorgando una variedad de perspectivas que tiene como fin construir una complementariedad al momento de avanzar en la comprensión del fenómeno que observamos. Bajo este abordaje múltiple y diverso, el escrito puede pensarse bajo la figura del ensayo, en tanto no responde a una investigación documental como tal, sino más bien a una reflexión amplia que busca expandir interrogantes. Se recuperan algunas perspectivas de la filosofía, de la sociología del conocimiento; así como también, reflexiones sobre la propia práctica docente en el Nivel Superior que permiten problematizar y expandir el debate en torno a las “tecnologías educativas”, usualmente vinculadas a las TIC y al mundo digital. El artículo se propone desarrollar una mirada compleja con la intención de habilitar nuevos interrogantes que, a su vez, construyan una visión crítica acerca del modo en que se piensa la innovación educativas.",
+     "idioma_resumen": "es",
+     "licencia": null,
+     "url": "https://ojs.unsj.edu.ar/index.php/tramassociales/article/view/1002",
+     "doi": null,
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "oai:ojs.pkp.sfu.ca:article/1003",
+     "titulo": "La palabra de la otredad en primera persona",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "González, Ricardo",
+       "orcid": null
+      },
+      {
+       "nombre": "Jaime, Natalia Yael",
+       "orcid": null
+      },
+      {
+       "nombre": "Quiles, Eliana Verónica",
+       "orcid": null
+      }
+     ],
+     "resumen": "Este artículo es la construcción colectiva emergente del trabajo final realizado para el Seminario II “Otredad y otredades, reflexiones desde la filosofía existencial y la sociología cultural” correspondiente a la carrera Licenciatura en Sociología durante el ciclo lectivo 2020. En el marco de esta temática, como equipo de trabajo, nos dispusimos a indagar sobre la forma en que las/los sujetos desde su corporeidad “están” y desde su subjetividad “son” en territorios hospitalarios y no hospitalarios de acuerdo al lugar que se ocupa en la estructura social. Las decisiones metodológicas se basaron en el uso de la estrategia cualitativa de la historia de vida. La unidad de análisis fue una mujer trabajadora docente de 52 años oriunda del departamento de Caucete y un hombre trabajador informal de limpia parabrisas de 24 años, cuyo departamento de residencia es Rawson; ambos de la provincia de San Juan.",
+     "idioma_resumen": "es",
+     "licencia": null,
+     "url": "https://ojs.unsj.edu.ar/index.php/tramassociales/article/view/1003",
+     "doi": null,
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "oai:ojs.pkp.sfu.ca:article/1006",
+     "titulo": "Medio Siglo de la carrera de Sociología en San Juan. Un abordaje desde los Trabajos Finales de Grado. 1965 – 2018",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Carelli, José María",
+       "orcid": null
+      }
+     ],
+     "resumen": "La investigación aborda las Tesis de Grado de la Carrera de Sociología de la Universidad Nacional de San Juan, desde sus inicios en el año 1965, hasta el año 2018. En este periodo el trabajo desarrolla, a través de un minucioso y exhaustivo proceso de análisis documental, un cuerpo analítico que se destaca por su rigurosidad empírica, metodológica y teórica.",
+     "idioma_resumen": "es",
+     "licencia": null,
+     "url": "https://ojs.unsj.edu.ar/index.php/tramassociales/article/view/1006",
+     "doi": null,
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "oai:ojs.pkp.sfu.ca:article/909",
+     "titulo": "Mujeres y espacio público.: Enfoque epistémico metodológico de la investigación.",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Córdoba, María Virginia",
+       "orcid": null
+      }
+     ],
+     "resumen": "El presente trabajo desarrolla el enfoque epistémico-metodológico construido en el marco de una investigación para tesis de grado, cuyo tema es el espacio público en la vida cotidiana de mujeres que habitan barrios del Gran San Juan. Desde la perspectiva del derecho de las mujeres a la ciudad, la búsqueda se orienta a reconstruir la vida cotidiana de mujeres que comparten un espacio urbano delimitado, referida en particular al equipamiento, la movilidad y la seguridad. Además, se intenta indagar en las estrategias de resistencia de las mujeres para superar los condicionamientos de género que les impone la ciudad. La estrategia metodológica consta de observación del espacio socio-geográfico, compilación bibliográfica y documental, observación participante, entrevistas semiestructuradas, caminatas exploratorias y mapeo colectivo. Los principales hallazgos refieren a los condicionamientos sexo-genéricos más comunes en la vida cotidiana de las mujeres, siendo estos dedicación a las tareas de cuidado, situación socio-económica, distintas formas de violencia hacia las mujeres y configuración funcionalista de la ciudad, que separa espacios productivos y reproductivos. Se puede afirmar que las mujeres desarrollan estrategias de resistencia para superar tales condicionamientos, las cuales presentan diversos niveles de intencionalidad y organización.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "Derechos de autor 2023 María Virginia Córdoba",
+      "url": null
+     },
+     "url": "https://ojs.unsj.edu.ar/index.php/tramassociales/article/view/909",
+     "doi": null,
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "oai:ojs.pkp.sfu.ca:article/999",
+     "titulo": "Mulheres que ocupam: violência, despejos e resistência feministas_",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Sobrinho, Taiana",
+       "orcid": null
+      },
+      {
+       "nombre": "Dallalana Quintan, Mariana Trotta",
+       "orcid": null
+      }
+     ],
+     "resumen": "O presente artigo teve por objetivo analisar o processo de feminização do déficit habitacional, refletindo sobre a pobreza, a violência doméstica e o endividamento das mulheres a partir das suas interconexões com a questão da moradia. O trabalho se propôs a traçar uma corpografia das ocupações urbanas no Rio de Janeiro, o que entendemos por corporificar os seus sujeitos (sujeitas), que possuem classe, raça, gênero e sexualidade. Compostas majoritariamente por mulheres negras e mães solo, que lutam pelo direito à moradia adequada, as ocupações assumem o lugar de alternativa à crise da moradia, que foi ainda agravada com a crise sanitária de Covid-19. Fundamentando-se sobretudo na epistemologia feminista interseccional, o trabalho destaca como os despejos e remoções forçadas, enquanto iniciativa violenta de despossessão de moradia, se sobrepõem a outras violências estruturais e interseccionais que atravessam as mulheres brasileiras, especialmente as mulheres negras, consistindo, portanto, em uma forma de violência gendrada e racializada. A partir de experiências de campo na Ocupação Zumbi e Luiz Gama, localizadas na zona portuária e central da cidade, bem como na Ocupação Novo Horizonte, na cidade de Campos dos Goytacazes, Estado do Rio de Janeiro...",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "Derechos de autor 2024 Taiana Sobrinho & Mariana Trotta Dallalana Quinatan",
+      "url": null
+     },
+     "url": "https://ojs.unsj.edu.ar/index.php/tramassociales/article/view/t54",
+     "doi": null,
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    },
+    {
+     "id": "oai:ojs.pkp.sfu.ca:article/908",
+     "titulo": "Participación Ciudadana desde el Vecinalismo en la Ciudad de San Juan, durante 2007/2015.",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Rossomando, María Gabriela",
+       "orcid": null
+      }
+     ],
+     "resumen": "El presente artículo pretende comunicar algunos resultados obtenidos en el trabajo de Investigación desarrollado como tesis de Maestría en Política y Planificación Social de la UNNCuyo, cursada por la autora. La experiencia de la autora en la práctica profesional dentro de la Municipalidad de la Ciudad de San Juan, despertó el interés por develar los procesos que suceden detrás del contacto con las problemáticas vecinales de los ciudadanos que se acercan al municipio en pos de encontrar respuestas a sus necesidades. Los centros, uniones u organizaciones vecinales, son la manifestación institucional que han encontrado los ciudadanos para darle vida a la democracia participativa en los barrios. Con relación a la estrategia metodológica que se utilizó, la misma responde a un diseño descriptivo, que combina técnicas cuantitativas y cualitativas; y el uso de fuentes primarias y secundarias. El propósito de este estudio es llenar el vacío de una línea de base para el diseño de políticas públicas en el municipio que incluya la participación ciudadana como eje. Se presenta una propuesta de algunos puntos sobresalientes a fin de perfilar futuras acciones que mejoren y optimicen el vínculo de las organizaciones vecinales y el municipio, en dirección a fortalecer los procesos democráticos.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "Derechos de autor 2023 María Gabriela Rossomando",
+      "url": null
+     },
+     "url": "https://ojs.unsj.edu.ar/index.php/tramassociales/article/view/908",
+     "doi": null,
+     "paginas": null,
+     "fuente": "OAI-PMH"
+    }
+   ]
+  }
+ ]
+}

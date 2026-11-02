@@ -1,7 +1,7 @@
 // Copia de revistas/2448-6183.json para abrir la aplicación sin servidor.
 (window.DATOS_REVISTAS = window.DATOS_REVISTAS || {})["revistas/2448-6183.json"] = {
  "version": 1,
- "generado": "2026-10-26T04:47:42+00:00",
+ "generado": "2026-11-02T05:12:34+00:00",
  "es_prueba": false,
  "revista": {
   "id": "2448-6183",
@@ -47,7 +47,7 @@
    "volumen": "26",
    "numero": null,
    "anio": 2026,
-   "fecha": "2026-10-14",
+   "fecha": "2026-10-27",
    "etiqueta": "Vol. 26 (2026)",
    "fuente": "Crossref",
    "articulos": [
@@ -699,6 +699,28 @@
      "url": "https://doi.org/10.22136/est20262489",
      "doi": "10.22136/est20262489",
      "paginas": "e2489",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.22136/est20262548",
+     "titulo": "¿Por qué es necesario reorientar las tarifas y los subsidios eléctricos residenciales en México?",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Nancy Maribel Mariana Contreras Hernández",
+       "orcid": "https://orcid.org/0000-0002-3980-7042"
+      },
+      {
+       "nombre": "César Octavio Vargas Téllez",
+       "orcid": "https://orcid.org/0000-0003-1768-4739"
+      }
+     ],
+     "resumen": "Este estudio demuestra que el esquema de tarifas residenciales de electricidad en México favorece desproporcionadamente a los hogares de mayores ingresos, pues determina los precios y subsidios en función del consumo y la temperatura ambiental sin incorporar criterios socioeconómicos. Se analizan datos municipales sobre tarifas predominantes, subsidios y consumo de electricidad por hogar. Los resultados evidencian una concentración del subsidio en los tres deciles de mayores ingresos, que captan 67% del total, mientras que los tres deciles de menores ingresos reciben 8.3%. En consecuencia, se propone un rediseño tarifario orientado a la progresividad distributiva sin incrementar el gasto público.",
+     "idioma_resumen": "es",
+     "licencia": null,
+     "url": "https://doi.org/10.22136/est20262548",
+     "doi": "10.22136/est20262548",
+     "paginas": "e2548",
      "fuente": "Crossref"
     },
     {

@@ -1,17 +1,17 @@
 // Copia de informe-no-resueltas.json para abrir la aplicación sin servidor.
 (window.DATOS_REVISTAS = window.DATOS_REVISTAS || {})["informe-no-resueltas.json"] = {
  "version": 1,
- "generado": "2026-10-26T04:47:42+00:00",
- "total": 4,
+ "generado": "2026-11-02T05:12:34+00:00",
+ "total": 3,
  "revistas": [
   {
-   "id": "2279-5057",
-   "titulo": "AG - About Gender",
-   "url": "https://riviste.unige.it/index.php/aboutgender",
-   "dominio": "riviste.unige.it",
+   "id": "2532-6732",
+   "titulo": "Funes",
+   "url": "https://serena.sharepress.it/index.php/funes/about",
+   "dominio": "serena.sharepress.it",
    "dominio_bloqueado": null,
    "issn": [
-    "2279-5057"
+    "2532-6732"
    ],
    "motivos": [
     "Crossref no tiene artículos con estos ISSN.",
@@ -19,13 +19,13 @@
    ]
   },
   {
-   "id": "2525-0841",
-   "titulo": "Crítica y Resistencias",
-   "url": "https://www.criticayresistencias.com.ar/revista",
-   "dominio": "www.criticayresistencias.com.ar",
+   "id": "2071-6346",
+   "titulo": "LiTheS. Zeitschrift für Literatur- und Theatersoziologie",
+   "url": "http://unipub.uni-graz.at/lithes",
+   "dominio": "unipub.uni-graz.at",
    "dominio_bloqueado": null,
    "issn": [
-    "2525-0841"
+    "2071-6346"
    ],
    "motivos": [
     "Crossref no tiene artículos con estos ISSN.",
@@ -33,27 +33,13 @@
    ]
   },
   {
-   "id": "2792-2901",
-   "titulo": "Distopía y Sociedad",
-   "url": "https://www.distopiaysociedad.es/",
-   "dominio": "www.distopiaysociedad.es",
+   "id": "2280-4110",
+   "titulo": "Pagine Inattuali",
+   "url": "http://www.serena.unina.it/index.php/pagineinattuali/index",
+   "dominio": "www.serena.unina.it",
    "dominio_bloqueado": null,
    "issn": [
-    "2792-2901"
-   ],
-   "motivos": [
-    "Crossref no tiene artículos con estos ISSN.",
-    "No se ha encontrado un punto OAI-PMH en la web de la revista."
-   ]
-  },
-  {
-   "id": "2239-4192",
-   "titulo": "Language, Discourse & Society",
-   "url": "https://www.language-and-society.org/language-discourse-society/",
-   "dominio": "www.language-and-society.org",
-   "dominio_bloqueado": null,
-   "issn": [
-    "2239-4192"
+    "2280-4110"
    ],
    "motivos": [
     "Crossref no tiene artículos con estos ISSN.",
@@ -64,16 +50,17 @@
  "total_avisos": 1,
  "avisos": [
   {
-   "id": "2219-1631",
-   "titulo": "Controversias y Concurrencias Latinoamericanas",
-   "url": "https://ojs.sociologia-alas.org/index.php/CyC",
-   "dominio": "ojs.sociologia-alas.org",
+   "id": "1982-0569",
+   "titulo": "Urbana: Revista Eletrônica do Centro Interdisciplinar de Estudos da Cidade",
+   "url": "https://periodicos.sbu.unicamp.br/ojs/index.php/urbana/index",
+   "dominio": "periodicos.sbu.unicamp.br",
    "dominio_bloqueado": null,
    "issn": [
-    "2219-1631"
+    "1982-0569"
    ],
    "motivos": [
-    "Crossref no tiene artículos con estos ISSN."
+    "Los datos de Crossref terminan en 2021; se prueba OAI-PMH.",
+    "No se ha encontrado un punto OAI-PMH en la web de la revista."
    ]
   }
  ]

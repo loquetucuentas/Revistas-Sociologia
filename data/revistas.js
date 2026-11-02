@@ -1,7 +1,7 @@
 // Copia de revistas.json para abrir la aplicación sin servidor.
 (window.DATOS_REVISTAS = window.DATOS_REVISTAS || {})["revistas.json"] = {
  "version": 1,
- "generado": "2026-10-26T04:47:42+00:00",
+ "generado": "2026-11-02T05:12:34+00:00",
  "es_prueba": false,
  "fuentes": [
   "DOAJ",
@@ -11,49 +11,8 @@
  "idiomas_incluidos": [
   "es"
  ],
- "total": 46,
+ "total": 47,
  "revistas": [
-  {
-   "id": "2184-7010",
-   "titulo": "2i Revista de Estudos de Identidade e Intermedialidade",
-   "idioma_titulo": null,
-   "titulo_alternativo": "2i Journal of Identity and Intermediality Studies",
-   "idioma_titulo_alternativo": "en",
-   "idiomas": [
-    "pt",
-    "en",
-    "fr",
-    "es"
-   ],
-   "issn_impreso": null,
-   "issn_electronico": "2184-7010",
-   "editorial": "Universidade do Minho",
-   "pais": "PT",
-   "materias": [
-    "Social sciences (General)",
-    "Sociology (General)"
-   ],
-   "palabras_clave": [
-    "intermediations",
-    "identities",
-    "social anthropology",
-    "cultural studies",
-    "media studies"
-   ],
-   "licencias": [
-    {
-     "nombre": "CC BY-NC 4.0",
-     "url": "https://creativecommons.org/licenses/by-nc/4.0/"
-    }
-   ],
-   "url": "https://revistas.uminho.pt/index.php/2i/",
-   "url_doaj": "https://doaj.org/toc/2184-7010",
-   "descripcion": null,
-   "fuente_ficha": "DOAJ",
-   "archivo": "revistas/2184-7010.json",
-   "ultimo_numero": "Vol. 8, núm. 13 (2026)",
-   "fuente_numeros": "Crossref"
-  },
   {
    "id": "2448-850X",
    "titulo": "Alteridades",
@@ -128,44 +87,6 @@
    "fuente_numeros": "Crossref"
   },
   {
-   "id": "2340-4973",
-   "titulo": "Anduli",
-   "idioma_titulo": null,
-   "titulo_alternativo": "Anduli, Revista Andaluza de Ciencias Sociales",
-   "idioma_titulo_alternativo": null,
-   "idiomas": [
-    "es"
-   ],
-   "issn_impreso": "1696-0270",
-   "issn_electronico": "2340-4973",
-   "editorial": "Universidad de Sevilla",
-   "pais": "ES",
-   "materias": [
-    "Sociology (General)"
-   ],
-   "palabras_clave": [
-    "sociology",
-    "social sciences",
-    "urban sociology",
-    "sociology of communication",
-    "labour sociology",
-    "sociology of culture"
-   ],
-   "licencias": [
-    {
-     "nombre": "CC BY-NC-SA",
-     "url": null
-    }
-   ],
-   "url": "https://revistascientificas.us.es/index.php/anduli/index",
-   "url_doaj": "https://doaj.org/toc/2340-4973",
-   "descripcion": null,
-   "fuente_ficha": "DOAJ",
-   "archivo": "revistas/2340-4973.json",
-   "ultimo_numero": "núm. 30 (2026)",
-   "fuente_numeros": "Crossref"
-  },
-  {
    "id": "2792-7601",
    "titulo": "Anuari d’Arquitectura i Societat",
    "idioma_titulo": null,
@@ -203,115 +124,6 @@
    "fuente_ficha": "DOAJ",
    "archivo": "revistas/2792-7601.json",
    "ultimo_numero": "núm. 5 (2025)",
-   "fuente_numeros": "Crossref"
-  },
-  {
-   "id": "2591-5312",
-   "titulo": "Area",
-   "idioma_titulo": null,
-   "titulo_alternativo": "Area, Agenda de Reflexión en Arquitectura, Diseño y Urbanismo",
-   "idioma_titulo_alternativo": "es",
-   "idiomas": [
-    "pt",
-    "en",
-    "es"
-   ],
-   "issn_impreso": "0328-1337",
-   "issn_electronico": "2591-5312",
-   "editorial": "Universidad de Buenos Aires, Facultad de Arquitectura, Diseño y Urbanismo",
-   "pais": "AR",
-   "materias": [
-    "Architecture",
-    "Urban groups. The city. Urban sociology"
-   ],
-   "palabras_clave": [
-    "architecture",
-    "design",
-    "urbanism"
-   ],
-   "licencias": [
-    {
-     "nombre": "CC BY-NC-ND 4.0",
-     "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
-    }
-   ],
-   "url": "https://publicacionescientificas.fadu.uba.ar/index.php/area",
-   "url_doaj": "https://doaj.org/toc/2591-5312",
-   "descripcion": null,
-   "fuente_ficha": "DOAJ",
-   "archivo": "revistas/2591-5312.json",
-   "ultimo_numero": "Publicación continua (2026)",
-   "fuente_numeros": "Crossref"
-  },
-  {
-   "id": "1666-8979",
-   "titulo": "Argumentos : Revista de Crítica Social",
-   "idioma_titulo": null,
-   "titulo_alternativo": null,
-   "idioma_titulo_alternativo": null,
-   "idiomas": [
-    "es"
-   ],
-   "issn_impreso": null,
-   "issn_electronico": "1666-8979",
-   "editorial": "Universidad de Buenos Aires, Facultad de Ciencias Sociales, Instituto de Investigaciones Gino Germani",
-   "pais": "AR",
-   "materias": [
-    "Sociology (General)"
-   ],
-   "palabras_clave": [
-    "sociology",
-    "social sciences"
-   ],
-   "licencias": [
-    {
-     "nombre": "CC BY-NC 4.0",
-     "url": "https://creativecommons.org/licenses/by-nc/4.0/"
-    }
-   ],
-   "url": "http://publicaciones.sociales.uba.ar/argumentos",
-   "url_doaj": "https://doaj.org/toc/1666-8979",
-   "descripcion": null,
-   "fuente_ficha": "DOAJ",
-   "archivo": "revistas/1666-8979.json",
-   "ultimo_numero": "núm. 33 (2026)",
-   "fuente_numeros": "Crossref"
-  },
-  {
-   "id": "2617-0892",
-   "titulo": "Arquitek",
-   "idioma_titulo": null,
-   "titulo_alternativo": "Revista Arquitek",
-   "idioma_titulo_alternativo": null,
-   "idiomas": [
-    "es"
-   ],
-   "issn_impreso": "2073-8811",
-   "issn_electronico": "2617-0892",
-   "editorial": "Universidad Privada de Tacna",
-   "pais": "PE",
-   "materias": [
-    "Architecture",
-    "Urban groups. The city. Urban sociology"
-   ],
-   "palabras_clave": [
-    "architecture",
-    "urbanism",
-    "heritage",
-    "technology"
-   ],
-   "licencias": [
-    {
-     "nombre": "CC BY 4.0",
-     "url": "https://creativecommons.org/licenses/by/4.0/"
-    }
-   ],
-   "url": "https://revistas.upt.edu.pe/ojs/index.php/arquitek/index",
-   "url_doaj": "https://doaj.org/toc/2617-0892",
-   "descripcion": null,
-   "fuente_ficha": "DOAJ",
-   "archivo": "revistas/2617-0892.json",
-   "ultimo_numero": "núm. 29 (2026)",
    "fuente_numeros": "Crossref"
   },
   {
@@ -436,44 +248,6 @@
    "fuente_numeros": "Crossref"
   },
   {
-   "id": "0100-1574",
-   "titulo": "Cadernos de Pesquisa",
-   "idioma_titulo": null,
-   "titulo_alternativo": "CP",
-   "idioma_titulo_alternativo": null,
-   "idiomas": [
-    "es",
-    "pt",
-    "en",
-    "fr"
-   ],
-   "issn_impreso": "0100-1574",
-   "issn_electronico": null,
-   "editorial": "Fundação Carlos Chagas",
-   "pais": "BR",
-   "materias": [
-    "Special aspects of education",
-    "Sociology (General)"
-   ],
-   "palabras_clave": [
-    "gender",
-    "race"
-   ],
-   "licencias": [
-    {
-     "nombre": "CC BY 4.0",
-     "url": "https://creativecommons.org/licenses/by/4.0/"
-    }
-   ],
-   "url": "https://www.scielo.br/j/cp/",
-   "url_doaj": "https://doaj.org/toc/0100-1574",
-   "descripcion": null,
-   "fuente_ficha": "DOAJ",
-   "archivo": "revistas/0100-1574.json",
-   "ultimo_numero": "Vol. 56 (2026)",
-   "fuente_numeros": "Crossref"
-  },
-  {
    "id": "1646-3714",
    "titulo": "Cadernos de Sociomuseologia",
    "idioma_titulo": null,
@@ -515,89 +289,6 @@
    "fuente_numeros": "Crossref"
   },
   {
-   "id": "2182-3030",
-   "titulo": "Cidades, Comunidades e Território",
-   "idioma_titulo": null,
-   "titulo_alternativo": "Comunidades e Territórios",
-   "idioma_titulo_alternativo": null,
-   "idiomas": [
-    "es",
-    "pt",
-    "it",
-    "fr",
-    "en"
-   ],
-   "issn_impreso": null,
-   "issn_electronico": "2182-3030",
-   "editorial": "DINÂMIA’CET – IUL, Centre for Socioeconomic and Territorial Studies",
-   "pais": "PT",
-   "materias": [
-    "Aesthetics of cities. City planning and beautifying",
-    "Urban groups. The city. Urban sociology",
-    "Urbanization. City and country"
-   ],
-   "palabras_clave": [
-    "architecture",
-    "urban studies",
-    "social sciences",
-    "social issues",
-    "sociology"
-   ],
-   "licencias": [
-    {
-     "nombre": "CC BY-NC-ND 4.0",
-     "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
-    }
-   ],
-   "url": "https://journals.openedition.org/cidades",
-   "url_doaj": "https://doaj.org/toc/2182-3030",
-   "descripcion": null,
-   "fuente_ficha": "DOAJ",
-   "archivo": "revistas/2182-3030.json",
-   "ultimo_numero": "núm. 52 (2026)",
-   "fuente_numeros": "Crossref"
-  },
-  {
-   "id": "2422-278X",
-   "titulo": "Ciudad Paz-ando",
-   "idioma_titulo": null,
-   "titulo_alternativo": null,
-   "idioma_titulo_alternativo": null,
-   "idiomas": [
-    "en",
-    "es"
-   ],
-   "issn_impreso": "2011-5253",
-   "issn_electronico": "2422-278X",
-   "editorial": "Universidad Distrital Francisco José de Caldas",
-   "pais": "CO",
-   "materias": [
-    "Social Sciences",
-    "Sociology (General)"
-   ],
-   "palabras_clave": [
-    "peace",
-    "conflict",
-    "pedagogy",
-    "social sciences",
-    "democracy",
-    "memory"
-   ],
-   "licencias": [
-    {
-     "nombre": "CC BY-NC-SA 4.0",
-     "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
-    }
-   ],
-   "url": "http://revistas.udistrital.edu.co/ojs/index.php/cpaz/index",
-   "url_doaj": "https://doaj.org/toc/2422-278X",
-   "descripcion": null,
-   "fuente_ficha": "DOAJ",
-   "archivo": "revistas/2422-278X.json",
-   "ultimo_numero": "Vol. 17, núm. 2 (2025)",
-   "fuente_numeros": "Crossref"
-  },
-  {
    "id": "3006-841X",
    "titulo": "Clinical Sociology Review",
    "idioma_titulo": null,
@@ -631,45 +322,6 @@
    "fuente_ficha": "DOAJ",
    "archivo": "revistas/3006-841X.json",
    "ultimo_numero": "Vol. 21, núm. 1 (2026)",
-   "fuente_numeros": "Crossref"
-  },
-  {
-   "id": "2605-1982",
-   "titulo": "Comunicación y Género",
-   "idioma_titulo": "es",
-   "titulo_alternativo": null,
-   "idioma_titulo_alternativo": null,
-   "idiomas": [
-    "es"
-   ],
-   "issn_impreso": null,
-   "issn_electronico": "2605-1982",
-   "editorial": "Universidad Complutense de Madrid",
-   "pais": "ES",
-   "materias": [
-    "Communication. Mass media",
-    "Sociology (General)"
-   ],
-   "palabras_clave": [
-    "gender",
-    "media",
-    "advertising",
-    "audiovisual communication",
-    "intersectionality",
-    "journalism"
-   ],
-   "licencias": [
-    {
-     "nombre": "CC BY",
-     "url": null
-    }
-   ],
-   "url": "https://revistas.ucm.es/index.php/CGEN/index",
-   "url_doaj": "https://doaj.org/toc/2605-1982",
-   "descripcion": null,
-   "fuente_ficha": "DOAJ",
-   "archivo": "revistas/2605-1982.json",
-   "ultimo_numero": "Vol. 8, núm. 2 (2026)",
    "fuente_numeros": "Crossref"
   },
   {
@@ -707,193 +359,6 @@
    "archivo": "revistas/2469-0333.json",
    "ultimo_numero": "núm. 10 (2026)",
    "fuente_numeros": "Crossref"
-  },
-  {
-   "id": "2313-013X",
-   "titulo": "Conjeturas Sociologicas",
-   "idioma_titulo": null,
-   "titulo_alternativo": null,
-   "idioma_titulo_alternativo": null,
-   "idiomas": [
-    "es",
-    "en"
-   ],
-   "issn_impreso": null,
-   "issn_electronico": "2313-013X",
-   "editorial": "Universidad de El Salvador, Facultad Multidisciplinaria Oriental",
-   "pais": "SV",
-   "materias": [
-    "Sociology (General)",
-    "Social sciences (General)"
-   ],
-   "palabras_clave": [
-    "sociology",
-    "policy",
-    "public policy",
-    "economics",
-    "history"
-   ],
-   "licencias": [
-    {
-     "nombre": "CC BY-NC 4.0",
-     "url": "https://creativecommons.org/licenses/by-nc/4.0/"
-    }
-   ],
-   "url": "https://revistas.ues.edu.sv/index.php/conjsociologicas",
-   "url_doaj": "https://doaj.org/toc/2313-013X",
-   "descripcion": null,
-   "fuente_ficha": "DOAJ",
-   "archivo": "revistas/2313-013X.json",
-   "ultimo_numero": "Vol. 14, núm. 40 (2026)",
-   "fuente_numeros": "Crossref"
-  },
-  {
-   "id": "2316-1329",
-   "titulo": "Contemporânea",
-   "idioma_titulo": null,
-   "titulo_alternativo": "Revista de Sociologia da UFSCar",
-   "idioma_titulo_alternativo": "pt",
-   "idiomas": [
-    "fr",
-    "es",
-    "en",
-    "pt"
-   ],
-   "issn_impreso": "2236-532X",
-   "issn_electronico": "2316-1329",
-   "editorial": "Universidade Federal de São Carlos",
-   "pais": "BR",
-   "materias": [
-    "Sociology (General)"
-   ],
-   "palabras_clave": [
-    "sociology",
-    "social sciences"
-   ],
-   "licencias": [
-    {
-     "nombre": "CC BY-NC 4.0",
-     "url": "https://creativecommons.org/licenses/by-nc/4.0/"
-    }
-   ],
-   "url": "https://www.contemporanea.ufscar.br/index.php/contemporanea/issue/archive",
-   "url_doaj": "https://doaj.org/toc/2316-1329",
-   "descripcion": null,
-   "fuente_ficha": "DOAJ",
-   "archivo": "revistas/2316-1329.json",
-   "ultimo_numero": "Vol. 16 (2026)",
-   "fuente_numeros": "Crossref"
-  },
-  {
-   "id": "2219-1631",
-   "titulo": "Controversias y Concurrencias Latinoamericanas",
-   "idioma_titulo": "es",
-   "titulo_alternativo": null,
-   "idioma_titulo_alternativo": null,
-   "idiomas": [
-    "es"
-   ],
-   "issn_impreso": null,
-   "issn_electronico": "2219-1631",
-   "editorial": "Asociación Latinoamericana de Sociología",
-   "pais": "AR",
-   "materias": [
-    "Sociology (General)",
-    "Social sciences (General)"
-   ],
-   "palabras_clave": [
-    "social sciences",
-    "sociology",
-    "latin america"
-   ],
-   "licencias": [
-    {
-     "nombre": "CC BY 4.0",
-     "url": "https://creativecommons.org/licenses/by/4.0/"
-    }
-   ],
-   "url": "https://ojs.sociologia-alas.org/index.php/CyC",
-   "url_doaj": "https://doaj.org/toc/2219-1631",
-   "descripcion": null,
-   "fuente_ficha": "DOAJ",
-   "oai": "https://ojs.sociologia-alas.org/index.php/CyC/oai",
-   "archivo": "revistas/2219-1631.json",
-   "ultimo_numero": "Vol. 15, núm. 26 (2023)",
-   "fuente_numeros": "OAI-PMH"
-  },
-  {
-   "id": "2313-9048",
-   "titulo": "Cuadernos de H Ideas",
-   "idioma_titulo": null,
-   "titulo_alternativo": null,
-   "idioma_titulo_alternativo": null,
-   "idiomas": [
-    "es"
-   ],
-   "issn_impreso": "1851-8206",
-   "issn_electronico": "2313-9048",
-   "editorial": "Universidad Nacional de La Plata",
-   "pais": "AR",
-   "materias": [
-    "Communication. Mass media",
-    "Sociology (General)"
-   ],
-   "palabras_clave": [
-    "education",
-    "history",
-    "social communication",
-    "anthropology"
-   ],
-   "licencias": [
-    {
-     "nombre": "CC BY-NC-SA",
-     "url": null
-    }
-   ],
-   "url": "http://perio.unlp.edu.ar/ojs/index.php/cps",
-   "url_doaj": "https://doaj.org/toc/2313-9048",
-   "descripcion": null,
-   "fuente_ficha": "DOAJ",
-   "archivo": "revistas/2313-9048.json",
-   "ultimo_numero": "Vol. 18, núm. 18 (2025)",
-   "fuente_numeros": "Crossref"
-  },
-  {
-   "id": "2545-6881",
-   "titulo": "Cuestión Urbana",
-   "idioma_titulo": null,
-   "titulo_alternativo": null,
-   "idioma_titulo_alternativo": null,
-   "idiomas": [
-    "es"
-   ],
-   "issn_impreso": null,
-   "issn_electronico": "2545-6881",
-   "editorial": "Universidad de Buenos Aires",
-   "pais": "AR",
-   "materias": [
-    "Aesthetics of cities. City planning and beautifying",
-    "Urban groups. The city. Urban sociology"
-   ],
-   "palabras_clave": [
-    "urbanism",
-    "cities",
-    "sociology"
-   ],
-   "licencias": [
-    {
-     "nombre": "CC BY-NC-SA",
-     "url": null
-    }
-   ],
-   "url": "https://publicaciones.sociales.uba.ar/index.php/cuestionurbana/index",
-   "url_doaj": "https://doaj.org/toc/2545-6881",
-   "descripcion": null,
-   "fuente_ficha": "DOAJ",
-   "oai": "https://publicaciones.sociales.uba.ar/index.php/cuestionurbana/oai",
-   "archivo": "revistas/2545-6881.json",
-   "ultimo_numero": "núm. 16 (2025)",
-   "fuente_numeros": "OAI-PMH"
   },
   {
    "id": "2346-8904",
@@ -970,86 +435,6 @@
    "archivo": "revistas/2389-7724.json",
    "ultimo_numero": "Vol. 17, núm. 1 (2026)",
    "fuente_numeros": "Crossref"
-  },
-  {
-   "id": "0719-2789",
-   "titulo": "Cultura-Hombre-Sociedad",
-   "idioma_titulo": null,
-   "titulo_alternativo": "CUHSO",
-   "idioma_titulo_alternativo": null,
-   "idiomas": [
-    "es",
-    "pt",
-    "fr",
-    "en"
-   ],
-   "issn_impreso": "0716-1557",
-   "issn_electronico": "0719-2789",
-   "editorial": "Universidad Católica de Temuco",
-   "pais": "CL",
-   "materias": [
-    "Anthropology",
-    "Sociology (General)"
-   ],
-   "palabras_clave": [
-    "anthropology",
-    "political science",
-    "sociology",
-    "social work"
-   ],
-   "licencias": [
-    {
-     "nombre": "CC BY 4.0",
-     "url": "https://creativecommons.org/licenses/by/4.0/"
-    }
-   ],
-   "url": "https://cuhso.uct.cl/index.php/CUHSO",
-   "url_doaj": "https://doaj.org/toc/0719-2789",
-   "descripcion": null,
-   "fuente_ficha": "DOAJ",
-   "oai": "https://cuhso.uct.cl/index.php/CUHSO/oai",
-   "archivo": "revistas/0719-2789.json",
-   "ultimo_numero": "Vol. 36, núm. 1 (2026)",
-   "fuente_numeros": "OAI-PMH"
-  },
-  {
-   "id": "2469-1100",
-   "titulo": "Diferencia(s)",
-   "idioma_titulo": null,
-   "titulo_alternativo": null,
-   "idioma_titulo_alternativo": null,
-   "idiomas": [
-    "es"
-   ],
-   "issn_impreso": null,
-   "issn_electronico": "2469-1100",
-   "editorial": "Universidad de Buenos Aires",
-   "pais": "AR",
-   "materias": [
-    "Philosophy (General)",
-    "Sociology (General)"
-   ],
-   "palabras_clave": [
-    "social theory",
-    "structuralism",
-    "post-structuralism",
-    "philosophy",
-    "sociology"
-   ],
-   "licencias": [
-    {
-     "nombre": "CC BY",
-     "url": null
-    }
-   ],
-   "url": "http://www.revista.diferencias.com.ar/index.php/diferencias",
-   "url_doaj": "https://doaj.org/toc/2469-1100",
-   "descripcion": null,
-   "fuente_ficha": "DOAJ",
-   "oai": "https://www.revista.diferencias.com.ar/index.php/diferencias/oai",
-   "archivo": "revistas/2469-1100.json",
-   "ultimo_numero": "Vol. 1, núm. 21 (2025)",
-   "fuente_numeros": "OAI-PMH"
   },
   {
    "id": "2178-2792",
@@ -1130,274 +515,6 @@
    "fuente_numeros": "Crossref"
   },
   {
-   "id": "2386-4915",
-   "titulo": "Ehquidad",
-   "idioma_titulo": null,
-   "titulo_alternativo": null,
-   "idioma_titulo_alternativo": null,
-   "idiomas": [
-    "es"
-   ],
-   "issn_impreso": null,
-   "issn_electronico": "2386-4915",
-   "editorial": "Proeditio.com",
-   "pais": "ES",
-   "materias": [
-    "Social history and conditions. Social problems. Social reform",
-    "Sociology (General)"
-   ],
-   "palabras_clave": [
-    "equity",
-    "justice",
-    "exclusion",
-    "poverty",
-    "well-being",
-    "social work"
-   ],
-   "licencias": [
-    {
-     "nombre": "CC BY-NC-SA 4.0",
-     "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
-    }
-   ],
-   "url": "https://revistas.proeditio.com/ehquidad/",
-   "url_doaj": "https://doaj.org/toc/2386-4915",
-   "descripcion": null,
-   "fuente_ficha": "DOAJ",
-   "archivo": "revistas/2386-4915.json",
-   "ultimo_numero": "núm. 26 (2026)",
-   "fuente_numeros": "Crossref"
-  },
-  {
-   "id": "2611-6693",
-   "titulo": "Eracle",
-   "idioma_titulo": null,
-   "titulo_alternativo": "Journal of Sports and Social Sciences",
-   "idioma_titulo_alternativo": "en",
-   "idiomas": [
-    "en",
-    "fr",
-    "it",
-    "es"
-   ],
-   "issn_impreso": null,
-   "issn_electronico": "2611-6693",
-   "editorial": "SHARE Press",
-   "pais": "IT",
-   "materias": [
-    "Sports",
-    "Social Sciences",
-    "Sociology (General)"
-   ],
-   "palabras_clave": [
-    "sports",
-    "social sciences",
-    "leisure",
-    "body",
-    "sociology of sport",
-    "physical activities"
-   ],
-   "licencias": [
-    {
-     "nombre": "CC BY 4.0",
-     "url": "https://creativecommons.org/licenses/by/4.0/"
-    }
-   ],
-   "url": "https://serena.sharepress.it/index.php/eracle/",
-   "url_doaj": "https://doaj.org/toc/2611-6693",
-   "descripcion": null,
-   "fuente_ficha": "DOAJ",
-   "oai": "https://serena.sharepress.it/index.php/eracle/oai",
-   "archivo": "revistas/2611-6693.json",
-   "ultimo_numero": "Vol. 9, núm. 1 (2026)",
-   "fuente_numeros": "OAI-PMH"
-  },
-  {
-   "id": "2594-021X",
-   "titulo": "Espiral",
-   "idioma_titulo": null,
-   "titulo_alternativo": "Estudios sobre Estado y sociedad",
-   "idioma_titulo_alternativo": "es",
-   "idiomas": [
-    "es"
-   ],
-   "issn_impreso": "1665-0565",
-   "issn_electronico": "2594-021X",
-   "editorial": "Universidad de Guadalajara",
-   "pais": "MX",
-   "materias": [
-    "Social Sciences",
-    "Sociology (General)"
-   ],
-   "palabras_clave": [
-    "sociology"
-   ],
-   "licencias": [
-    {
-     "nombre": "Publisher's own license",
-     "url": null
-    }
-   ],
-   "url": "http://www.espiral.cucsh.udg.mx/index.php/EEES",
-   "url_doaj": "https://doaj.org/toc/2594-021X",
-   "descripcion": null,
-   "fuente_ficha": "DOAJ",
-   "archivo": "revistas/2594-021X.json",
-   "ultimo_numero": "Vol. 33, núm. 97 (2026)",
-   "fuente_numeros": "Crossref"
-  },
-  {
-   "id": "3061-7537",
-   "titulo": "Estudios sobre las Culturas Contemporáneas",
-   "idioma_titulo": "es",
-   "titulo_alternativo": null,
-   "idioma_titulo_alternativo": null,
-   "idiomas": [
-    "es",
-    "en",
-    "pt"
-   ],
-   "issn_impreso": "1405-2210",
-   "issn_electronico": "3061-7537",
-   "editorial": "Universidad de Colima",
-   "pais": "MX",
-   "materias": [
-    "Sociology (General)",
-    "Ethnology. Social and cultural anthropology"
-   ],
-   "palabras_clave": [
-    "cultural studies",
-    "methodology",
-    "social research",
-    "sociology",
-    "social sciences",
-    "culture"
-   ],
-   "licencias": [
-    {
-     "nombre": "CC BY-NC-SA 4.0",
-     "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
-    }
-   ],
-   "url": "https://revistasacademicas.ucol.mx/index.php/culturascontemporaneas",
-   "url_doaj": "https://doaj.org/toc/3061-7537",
-   "descripcion": null,
-   "fuente_ficha": "DOAJ",
-   "archivo": "revistas/3061-7537.json",
-   "ultimo_numero": "Vol. 3, núm. 6 (2026)",
-   "fuente_numeros": "Crossref"
-  },
-  {
-   "id": "2448-6442",
-   "titulo": "Estudios Sociológicos",
-   "idioma_titulo": null,
-   "titulo_alternativo": null,
-   "idioma_titulo_alternativo": null,
-   "idiomas": [
-    "es"
-   ],
-   "issn_impreso": "0185-4186",
-   "issn_electronico": "2448-6442",
-   "editorial": "Colegio de México",
-   "pais": "MX",
-   "materias": [
-    "Social Sciences",
-    "Sociology (General)"
-   ],
-   "palabras_clave": [
-    "sociology",
-    "anthropology",
-    "social sciences",
-    "social theory"
-   ],
-   "licencias": [
-    {
-     "nombre": "CC BY-NC-ND 4.0",
-     "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
-    }
-   ],
-   "url": "https://estudiossociologicos.colmex.mx/index.php/es/index",
-   "url_doaj": "https://doaj.org/toc/2448-6442",
-   "descripcion": null,
-   "fuente_ficha": "DOAJ",
-   "archivo": "revistas/2448-6442.json",
-   "ultimo_numero": "Vol. 44 (2026)",
-   "fuente_numeros": "Crossref"
-  },
-  {
-   "id": "2317-5427",
-   "titulo": "Estudos de Sociologia",
-   "idioma_titulo": null,
-   "titulo_alternativo": null,
-   "idioma_titulo_alternativo": null,
-   "idiomas": [
-    "es",
-    "pt"
-   ],
-   "issn_impreso": "1415-000X",
-   "issn_electronico": "2317-5427",
-   "editorial": "Universidade Federal de Pernambuco (UFPE)",
-   "pais": "BR",
-   "materias": [
-    "Sociology (General)"
-   ],
-   "palabras_clave": [
-    "sociology",
-    "social sciences",
-    "society"
-   ],
-   "licencias": [
-    {
-     "nombre": "CC BY 4.0",
-     "url": "https://creativecommons.org/licenses/by/4.0/"
-    }
-   ],
-   "url": "https://periodicos.ufpe.br/revistas/index.php/revsocio/index",
-   "url_doaj": "https://doaj.org/toc/2317-5427",
-   "descripcion": null,
-   "fuente_ficha": "DOAJ",
-   "archivo": "revistas/2317-5427.json",
-   "ultimo_numero": "Vol. 2, núm. 32 (2026)",
-   "fuente_numeros": "Crossref"
-  },
-  {
-   "id": "1982-4718",
-   "titulo": "Estudos de Sociologia",
-   "idioma_titulo": null,
-   "titulo_alternativo": null,
-   "idioma_titulo_alternativo": null,
-   "idiomas": [
-    "es",
-    "pt"
-   ],
-   "issn_impreso": "1414-0144",
-   "issn_electronico": "1982-4718",
-   "editorial": "Universidade Estadual Paulista, Faculdade de Ciências e Letras de Araraquara",
-   "pais": "BR",
-   "materias": [
-    "Sociology (General)"
-   ],
-   "palabras_clave": [
-    "sociology",
-    "social conditions",
-    "economic conditions",
-    "politics and government"
-   ],
-   "licencias": [
-    {
-     "nombre": "CC BY-NC-ND 4.0",
-     "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
-    }
-   ],
-   "url": "http://seer.fclar.unesp.br/estudos",
-   "url_doaj": "https://doaj.org/toc/1982-4718",
-   "descripcion": null,
-   "fuente_ficha": "DOAJ",
-   "archivo": "revistas/1982-4718.json",
-   "ultimo_numero": "Publicación continua (2026)",
-   "fuente_numeros": "Crossref"
-  },
-  {
    "id": "0717-6236",
    "titulo": "EURE (Santiago) - Revista Latinoamericana de Estudios Urbano Regionales",
    "idioma_titulo": null,
@@ -1436,170 +553,6 @@
    "archivo": "revistas/0717-6236.json",
    "ultimo_numero": "Publicación continua (2026)",
    "fuente_numeros": "Crossref"
-  },
-  {
-   "id": "2602-8239",
-   "titulo": "Eutopia: Revista de Desarrollo Economico Territorial",
-   "idioma_titulo": null,
-   "titulo_alternativo": "Eutopia",
-   "idioma_titulo_alternativo": null,
-   "idiomas": [
-    "es"
-   ],
-   "issn_impreso": "1390-5708",
-   "issn_electronico": "2602-8239",
-   "editorial": "Facultad Latinoamericana de Ciencias Sociales, Sede Ecuador",
-   "pais": "EC",
-   "materias": [
-    "Social Sciences",
-    "Sociology (General)"
-   ],
-   "palabras_clave": [
-    "development",
-    "territory",
-    "rural",
-    "sociology",
-    "economy",
-    "latin-american"
-   ],
-   "licencias": [
-    {
-     "nombre": "CC BY-ND 4.0",
-     "url": "https://creativecommons.org/licenses/by-nd/4.0/"
-    }
-   ],
-   "url": "http://revistas.flacsoandes.edu.ec/eutopia/index",
-   "url_doaj": "https://doaj.org/toc/2602-8239",
-   "descripcion": null,
-   "fuente_ficha": "DOAJ",
-   "archivo": "revistas/2602-8239.json",
-   "ultimo_numero": "núm. 29 (2026)",
-   "fuente_numeros": "Crossref"
-  },
-  {
-   "id": "2182-7427",
-   "titulo": "Forum Sociológico",
-   "idioma_titulo": null,
-   "titulo_alternativo": null,
-   "idioma_titulo_alternativo": null,
-   "idiomas": [
-    "pt",
-    "en",
-    "fr",
-    "es"
-   ],
-   "issn_impreso": "0872-8380",
-   "issn_electronico": "2182-7427",
-   "editorial": "CICS.NOVA - Interdisciplinary Centre of Social Sciences, Universidade Nova de Lisboa",
-   "pais": "PT",
-   "materias": [
-    "Sociology (General)"
-   ],
-   "palabras_clave": [
-    "sociology",
-    "social sciences",
-    "contemporary societies",
-    "theoretical debate",
-    "methodological debate"
-   ],
-   "licencias": [
-    {
-     "nombre": "CC BY 4.0",
-     "url": "https://creativecommons.org/licenses/by/4.0/"
-    }
-   ],
-   "url": "https://journals.openedition.org/sociologico/",
-   "url_doaj": "https://doaj.org/toc/2182-7427",
-   "descripcion": null,
-   "fuente_ficha": "DOAJ",
-   "archivo": "revistas/2182-7427.json",
-   "ultimo_numero": "Vol. 47 (2025)",
-   "fuente_numeros": "Crossref"
-  },
-  {
-   "id": "2594-0260",
-   "titulo": "Frontera Norte",
-   "idioma_titulo": null,
-   "titulo_alternativo": null,
-   "idioma_titulo_alternativo": null,
-   "idiomas": [
-    "en",
-    "es"
-   ],
-   "issn_impreso": "0187-7372",
-   "issn_electronico": "2594-0260",
-   "editorial": "El Colegio de la Frontera Norte",
-   "pais": "MX",
-   "materias": [
-    "Urban groups. The city. Urban sociology",
-    "Social sciences (General)"
-   ],
-   "palabras_clave": [
-    "territorial studies",
-    "environmental studies",
-    "population studies",
-    "public administration studies",
-    "social sciences"
-   ],
-   "licencias": [
-    {
-     "nombre": "CC BY-NC-ND 4.0",
-     "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
-    }
-   ],
-   "url": "http://ojs.colef.mx/index.php/fronteranorte",
-   "url_doaj": "https://doaj.org/toc/2594-0260",
-   "descripcion": null,
-   "fuente_ficha": "DOAJ",
-   "archivo": "revistas/2594-0260.json",
-   "ultimo_numero": "Vol. 38 (2026)",
-   "fuente_numeros": "Crossref"
-  },
-  {
-   "id": "2532-6732",
-   "titulo": "Funes",
-   "idioma_titulo": null,
-   "titulo_alternativo": "Journal of Narratives and Social Sciences",
-   "idioma_titulo_alternativo": "en",
-   "idiomas": [
-    "es",
-    "it",
-    "fr",
-    "en"
-   ],
-   "issn_impreso": null,
-   "issn_electronico": "2532-6732",
-   "editorial": "Università di Napoli Federico II",
-   "pais": "IT",
-   "materias": [
-    "Ethnology. Social and cultural anthropology",
-    "Communication. Mass media",
-    "Literature (General)",
-    "Sociology (General)",
-    "Social sciences (General)"
-   ],
-   "palabras_clave": [
-    "narratives",
-    "sociology",
-    "media",
-    "cultural studies",
-    "anthropology",
-    "social sciences"
-   ],
-   "licencias": [
-    {
-     "nombre": "CC BY 4.0",
-     "url": "https://creativecommons.org/licenses/by/4.0/"
-    }
-   ],
-   "url": "https://serena.sharepress.it/index.php/funes/about",
-   "url_doaj": "https://doaj.org/toc/2532-6732",
-   "descripcion": null,
-   "fuente_ficha": "DOAJ",
-   "oai": "https://serena.sharepress.it/index.php/funes/oai",
-   "archivo": "revistas/2532-6732.json",
-   "ultimo_numero": "Vol. 9 (2026)",
-   "fuente_numeros": "OAI-PMH"
   },
   {
    "id": "2391-9485",
@@ -1643,49 +596,6 @@
    "fuente_ficha": "DOAJ",
    "archivo": "revistas/2391-9485.json",
    "ultimo_numero": "Vol. 25, núm. 75 (2026)",
-   "fuente_numeros": "Crossref"
-  },
-  {
-   "id": "2564-310X",
-   "titulo": "International Journal on Homelessness",
-   "idioma_titulo": null,
-   "titulo_alternativo": null,
-   "idioma_titulo_alternativo": null,
-   "idiomas": [
-    "en",
-    "fr",
-    "es",
-    "pt",
-    "ja"
-   ],
-   "issn_impreso": null,
-   "issn_electronico": "2564-310X",
-   "editorial": "Western Libraries, The University of Western Ontario",
-   "pais": "CA",
-   "materias": [
-    "Societies: secret, benevolent, etc.",
-    "Communities. Classes. Races",
-    "Sociology (General)"
-   ],
-   "palabras_clave": [
-    "homeless",
-    "homelessness",
-    "housing",
-    "housing policy",
-    "homelessness prevention"
-   ],
-   "licencias": [
-    {
-     "nombre": "CC BY-NC-SA 4.0",
-     "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
-    }
-   ],
-   "url": "https://ojs.lib.uwo.ca/index.php/ijoh/index",
-   "url_doaj": "https://doaj.org/toc/2564-310X",
-   "descripcion": null,
-   "fuente_ficha": "DOAJ",
-   "archivo": "revistas/2564-310X.json",
-   "ultimo_numero": "Vol. 6, núm. 4 (2026)",
    "fuente_numeros": "Crossref"
   },
   {
@@ -1766,8 +676,1024 @@
    "fuente_numeros": "Crossref"
   },
   {
-   "id": "2176-8846",
-   "titulo": "Labor & Engenho",
+   "id": "0102-6445",
+   "titulo": "Lua Nova: Revista de Cultura e Política",
+   "idioma_titulo": null,
+   "titulo_alternativo": null,
+   "idioma_titulo_alternativo": null,
+   "idiomas": [
+    "pt",
+    "en",
+    "es"
+   ],
+   "issn_impreso": "0102-6445",
+   "issn_electronico": null,
+   "editorial": "CEDEC",
+   "pais": "BR",
+   "materias": [
+    "Political science (General)",
+    "Sociology (General)"
+   ],
+   "palabras_clave": [
+    "democracy",
+    "citizenship",
+    "rights"
+   ],
+   "licencias": [
+    {
+     "nombre": "CC BY 4.0",
+     "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+   ],
+   "url": "https://www.scielo.br/j/ln/",
+   "url_doaj": "https://doaj.org/toc/0102-6445",
+   "descripcion": null,
+   "fuente_ficha": "DOAJ",
+   "archivo": "revistas/0102-6445.json",
+   "ultimo_numero": "núm. 129 (2026)",
+   "fuente_numeros": "Crossref"
+  },
+  {
+   "id": "2340-8413",
+   "titulo": "methaodos.revista de ciencias sociales",
+   "idioma_titulo": null,
+   "titulo_alternativo": "methaodos.rcs",
+   "idioma_titulo_alternativo": null,
+   "idiomas": [
+    "pt",
+    "es",
+    "en"
+   ],
+   "issn_impreso": null,
+   "issn_electronico": "2340-8413",
+   "editorial": "Universidad Rey Juan Carlos",
+   "pais": "ES",
+   "materias": [
+    "Social Sciences",
+    "Sociology (General)"
+   ],
+   "palabras_clave": [
+    "sociology",
+    "social sciences",
+    "communication"
+   ],
+   "licencias": [
+    {
+     "nombre": "CC BY-NC 4.0",
+     "url": "https://creativecommons.org/licenses/by-nc/4.0/"
+    }
+   ],
+   "url": "http://www.methaodos.org/revista-methaodos/index.php/methaodos",
+   "url_doaj": "https://doaj.org/toc/2340-8413",
+   "descripcion": null,
+   "fuente_ficha": "DOAJ",
+   "archivo": "revistas/2340-8413.json",
+   "ultimo_numero": "Vol. 14, núm. 1 (2026)",
+   "fuente_numeros": "Crossref"
+  },
+  {
+   "id": "1984-9230",
+   "titulo": "Organizações & Sociedade",
+   "idioma_titulo": "pt",
+   "titulo_alternativo": "Organizations & Society",
+   "idioma_titulo_alternativo": null,
+   "idiomas": [
+    "en",
+    "fr",
+    "pt",
+    "es"
+   ],
+   "issn_impreso": "1413-585X",
+   "issn_electronico": "1984-9230",
+   "editorial": "Universidade Federal da Bahia",
+   "pais": "BR",
+   "materias": [
+    "Commerce",
+    "Sociology (General)"
+   ],
+   "palabras_clave": [
+    "organizations",
+    "organisation theory",
+    "institutions and associations",
+    "management",
+    "administration",
+    "society"
+   ],
+   "licencias": [
+    {
+     "nombre": "CC BY 4.0",
+     "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+   ],
+   "url": "http://www.revistaoes.ufba.br/",
+   "url_doaj": "https://doaj.org/toc/1984-9230",
+   "descripcion": null,
+   "fuente_ficha": "DOAJ",
+   "archivo": "revistas/1984-9230.json",
+   "ultimo_numero": "Vol. 33, núm. 116 (2026)",
+   "fuente_numeros": "Crossref"
+  },
+  {
+   "id": "2314-0208",
+   "titulo": "Pampa: Revista Interuniversitaria de Estudios Territoriales",
+   "idioma_titulo": null,
+   "titulo_alternativo": "Revista Pampa",
+   "idioma_titulo_alternativo": null,
+   "idiomas": [
+    "pt",
+    "es"
+   ],
+   "issn_impreso": "1669-3299",
+   "issn_electronico": "2314-0208",
+   "editorial": "Universidad Nacional del Litoral",
+   "pais": "AR",
+   "materias": [
+    "Urban groups. The city. Urban sociology",
+    "Regional planning"
+   ],
+   "palabras_clave": [
+    "social sciences",
+    "territorial studies"
+   ],
+   "licencias": [
+    {
+     "nombre": "CC BY-NC-SA 4.0",
+     "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+    }
+   ],
+   "url": "https://bibliotecavirtual.unl.edu.ar/publicaciones/index.php/Pampa",
+   "url_doaj": "https://doaj.org/toc/2314-0208",
+   "descripcion": null,
+   "fuente_ficha": "DOAJ",
+   "archivo": "revistas/2314-0208.json",
+   "ultimo_numero": "núm. 30 (2024)",
+   "fuente_numeros": "Crossref"
+  },
+  {
+   "id": "1695-6494",
+   "titulo": "Papeles del CEIC: International Journal on Collective Identity Research",
+   "idioma_titulo": null,
+   "titulo_alternativo": null,
+   "idioma_titulo_alternativo": null,
+   "idiomas": [
+    "es",
+    "fr",
+    "en"
+   ],
+   "issn_impreso": null,
+   "issn_electronico": "1695-6494",
+   "editorial": "UPV/EHU Press",
+   "pais": "ES",
+   "materias": [
+    "Sociology (General)"
+   ],
+   "palabras_clave": [
+    "sociology",
+    "cultural studies",
+    "collective identity"
+   ],
+   "licencias": [
+    {
+     "nombre": "CC BY-NC-ND 4.0",
+     "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+    }
+   ],
+   "url": "http://www.ehu.es/ojs/index.php/papelesCEIC/index",
+   "url_doaj": "https://doaj.org/toc/1695-6494",
+   "descripcion": null,
+   "fuente_ficha": "DOAJ",
+   "archivo": "revistas/1695-6494.json",
+   "ultimo_numero": "Publicación continua (2026)",
+   "fuente_numeros": "Crossref"
+  },
+  {
+   "id": "1679-0944",
+   "titulo": "Paranoá: Cadernos de Arquitetura e Urbanismo",
+   "idioma_titulo": null,
+   "titulo_alternativo": null,
+   "idioma_titulo_alternativo": null,
+   "idiomas": [
+    "en",
+    "pt",
+    "es"
+   ],
+   "issn_impreso": "1677-7395",
+   "issn_electronico": "1679-0944",
+   "editorial": "Universidade de Brasília",
+   "pais": "BR",
+   "materias": [
+    "Architecture",
+    "Urban groups. The city. Urban sociology"
+   ],
+   "palabras_clave": [
+    "architecture",
+    "urbanism",
+    "urban planing",
+    "city history"
+   ],
+   "licencias": [
+    {
+     "nombre": "CC BY",
+     "url": null
+    }
+   ],
+   "url": "http://periodicos.unb.br/index.php/paranoa",
+   "url_doaj": "https://doaj.org/toc/1679-0944",
+   "descripcion": null,
+   "fuente_ficha": "DOAJ",
+   "archivo": "revistas/1679-0944.json",
+   "ultimo_numero": "Vol. 19 (2026)",
+   "fuente_numeros": "Crossref"
+  },
+  {
+   "id": "2469-0724",
+   "titulo": "Pensum",
+   "idioma_titulo": null,
+   "titulo_alternativo": null,
+   "idioma_titulo_alternativo": null,
+   "idiomas": [
+    "es"
+   ],
+   "issn_impreso": null,
+   "issn_electronico": "2469-0724",
+   "editorial": "Universidad Nacional de Córdoba",
+   "pais": "AR",
+   "materias": [
+    "Architecture",
+    "Urban groups. The city. Urban sociology"
+   ],
+   "palabras_clave": [
+    "architecture",
+    "city",
+    "design",
+    "territory",
+    "urbanism"
+   ],
+   "licencias": [
+    {
+     "nombre": "CC BY-SA",
+     "url": null
+    }
+   ],
+   "url": "https://revistas.unc.edu.ar/index.php/pensu",
+   "url_doaj": "https://doaj.org/toc/2469-0724",
+   "descripcion": null,
+   "fuente_ficha": "DOAJ",
+   "archivo": "revistas/2469-0724.json",
+   "ultimo_numero": "Vol. 12, núm. 16 (2026)",
+   "fuente_numeros": "Crossref"
+  },
+  {
+   "id": "2176-8099",
+   "titulo": "Plural",
+   "idioma_titulo": null,
+   "titulo_alternativo": "Revista de Ciências Sociais",
+   "idioma_titulo_alternativo": "pt",
+   "idiomas": [
+    "pt",
+    "es"
+   ],
+   "issn_impreso": "0104-6721",
+   "issn_electronico": "2176-8099",
+   "editorial": "Universidade de São Paulo (USP)",
+   "pais": "BR",
+   "materias": [
+    "Sociology (General)",
+    "Social sciences (General)"
+   ],
+   "palabras_clave": [
+    "social sciences",
+    "sociology",
+    "general studies"
+   ],
+   "licencias": [
+    {
+     "nombre": "CC BY-NC-SA 4.0",
+     "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+    }
+   ],
+   "url": "https://www.revistas.usp.br/plural",
+   "url_doaj": "https://doaj.org/toc/2176-8099",
+   "descripcion": null,
+   "fuente_ficha": "DOAJ",
+   "archivo": "revistas/2176-8099.json",
+   "ultimo_numero": "Vol. 33, núm. 1 (2026)",
+   "fuente_numeros": "Crossref"
+  },
+  {
+   "id": "2422-619X",
+   "titulo": "Psocial",
+   "idioma_titulo": null,
+   "titulo_alternativo": "Revista de Investigación en Psicología Social",
+   "idioma_titulo_alternativo": "es",
+   "idiomas": [
+    "es"
+   ],
+   "issn_impreso": null,
+   "issn_electronico": "2422-619X",
+   "editorial": "Universidad de Buenos Aires",
+   "pais": "AR",
+   "materias": [
+    "Psychology",
+    "Sociology (General)"
+   ],
+   "palabras_clave": [
+    "social psychology",
+    "psychology",
+    "sociology",
+    "personality",
+    "religiosity"
+   ],
+   "licencias": [
+    {
+     "nombre": "CC BY-NC 4.0",
+     "url": "https://creativecommons.org/licenses/by-nc/4.0/"
+    }
+   ],
+   "url": "https://publicaciones.sociales.uba.ar/index.php/psicologiasocial/index",
+   "url_doaj": "https://doaj.org/toc/2422-619X",
+   "descripcion": null,
+   "fuente_ficha": "DOAJ",
+   "archivo": "revistas/2422-619X.json",
+   "ultimo_numero": "Vol. 10, núm. 2 (2026)",
+   "fuente_numeros": "Crossref"
+  },
+  {
+   "id": "2389-8437",
+   "titulo": "Revista Ciudades, Estados y Política",
+   "idioma_titulo": "es",
+   "titulo_alternativo": null,
+   "idioma_titulo_alternativo": null,
+   "idiomas": [
+    "es"
+   ],
+   "issn_impreso": "2462-9103",
+   "issn_electronico": "2389-8437",
+   "editorial": "Universidad Nacional de Colombia",
+   "pais": "CO",
+   "materias": [
+    "Aesthetics of cities. City planning and beautifying",
+    "Urban groups. The city. Urban sociology",
+    "City planning"
+   ],
+   "palabras_clave": [
+    "architecture and urbanism",
+    "land use",
+    "urban phenomena",
+    "urban policy"
+   ],
+   "licencias": [
+    {
+     "nombre": "CC BY-NC-SA",
+     "url": null
+    }
+   ],
+   "url": "http://www.revistas.unal.edu.co/index.php/revcep",
+   "url_doaj": "https://doaj.org/toc/2389-8437",
+   "descripcion": null,
+   "fuente_ficha": "DOAJ",
+   "archivo": "revistas/2389-8437.json",
+   "ultimo_numero": "Vol. 13, núm. 2 (2026)",
+   "fuente_numeros": "Crossref"
+  },
+  {
+   "id": "2236-7284",
+   "titulo": "Revista da Faculdade de Direito UFPR",
+   "idioma_titulo": "pt",
+   "titulo_alternativo": null,
+   "idioma_titulo_alternativo": null,
+   "idiomas": [
+    "fr",
+    "it",
+    "es",
+    "en",
+    "pt"
+   ],
+   "issn_impreso": null,
+   "issn_electronico": "2236-7284",
+   "editorial": "Sistema de Bibliotecas (SIBI) da Universidade Federal do Paraná",
+   "pais": "BR",
+   "materias": [
+    "Sociology (General)",
+    "Law in general. Comparative and uniform law. Jurisprudence"
+   ],
+   "palabras_clave": [
+    "law",
+    "legal studies",
+    "jurisprudence",
+    "brazilian law",
+    "public law",
+    "international law"
+   ],
+   "licencias": [
+    {
+     "nombre": "CC BY 4.0",
+     "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+   ],
+   "url": "https://revistas.ufpr.br/direito/index",
+   "url_doaj": "https://doaj.org/toc/2236-7284",
+   "descripcion": null,
+   "fuente_ficha": "DOAJ",
+   "archivo": "revistas/2236-7284.json",
+   "ultimo_numero": "Vol. 71 (2026)",
+   "fuente_numeros": "Crossref"
+  },
+  {
+   "id": "0719-529X",
+   "titulo": "Revista de Sociología",
+   "idioma_titulo": null,
+   "titulo_alternativo": null,
+   "idioma_titulo_alternativo": null,
+   "idiomas": [
+    "fr",
+    "pt",
+    "en",
+    "es"
+   ],
+   "issn_impreso": "0716-632X",
+   "issn_electronico": "0719-529X",
+   "editorial": "Universidad de Chile",
+   "pais": "CL",
+   "materias": [
+    "Sociology (General)"
+   ],
+   "palabras_clave": [
+    "social sciences",
+    "epistemology",
+    "chilhood",
+    "gender studies",
+    "child abuse",
+    "sociology"
+   ],
+   "licencias": [
+    {
+     "nombre": "CC BY-NC-SA 4.0",
+     "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+    }
+   ],
+   "url": "https://revistadesociologia.uchile.cl",
+   "url_doaj": "https://doaj.org/toc/0719-529X",
+   "descripcion": null,
+   "fuente_ficha": "DOAJ",
+   "archivo": "revistas/0719-529X.json",
+   "ultimo_numero": "Vol. 41, núm. 1 (2026)",
+   "fuente_numeros": "Crossref"
+  },
+  {
+   "id": "2718-6474",
+   "titulo": "Revista Discusiones",
+   "idioma_titulo": null,
+   "titulo_alternativo": null,
+   "idioma_titulo_alternativo": null,
+   "idiomas": [
+    "es"
+   ],
+   "issn_impreso": "1515-7326",
+   "issn_electronico": "2718-6474",
+   "editorial": "Universidad Nacional del Sur",
+   "pais": "AR",
+   "materias": [
+    "Sociology (General)",
+    "Law in general. Comparative and uniform law. Jurisprudence",
+    "Political theory"
+   ],
+   "palabras_clave": [
+    "legal theory",
+    "philosophy of law",
+    "political theory",
+    "criminal law",
+    "constitutional law",
+    "legal interpretation"
+   ],
+   "licencias": [
+    {
+     "nombre": "CC BY-NC 4.0",
+     "url": "https://creativecommons.org/licenses/by-nc/4.0/"
+    }
+   ],
+   "url": "https://revistas.uns.edu.ar/disc/index",
+   "url_doaj": "https://doaj.org/toc/2718-6474",
+   "descripcion": null,
+   "fuente_ficha": "DOAJ",
+   "archivo": "revistas/2718-6474.json",
+   "ultimo_numero": "Vol. 36, núm. 1 (2026)",
+   "fuente_numeros": "Crossref"
+  },
+  {
+   "id": "2525-1635",
+   "titulo": "Revista Latinoamericana de Estudios Rurales",
+   "idioma_titulo": null,
+   "titulo_alternativo": null,
+   "idioma_titulo_alternativo": null,
+   "idiomas": [
+    "es"
+   ],
+   "issn_impreso": null,
+   "issn_electronico": "2525-1635",
+   "editorial": "Asociación Latinoamericana de Sociología Rural ; CEIL-CONICET",
+   "pais": "AR",
+   "materias": [
+    "Rural industries",
+    "Sociology (General)",
+    "Social sciences (General)"
+   ],
+   "palabras_clave": [
+    "rural studies",
+    "sociology",
+    "rural sociology",
+    "environment",
+    "latin america"
+   ],
+   "licencias": [
+    {
+     "nombre": "CC BY-NC-SA",
+     "url": null
+    }
+   ],
+   "url": "http://www.ceil-conicet.gov.ar/ojs/index.php/revistaalasru/index",
+   "url_doaj": "https://doaj.org/toc/2525-1635",
+   "descripcion": null,
+   "fuente_ficha": "DOAJ",
+   "oai": "https://www.ceil-conicet.gov.ar/ojs/index.php/revistaalasru/oai",
+   "archivo": "revistas/2525-1635.json",
+   "ultimo_numero": "Vol. 11, núm. 21 (2026)",
+   "fuente_numeros": "OAI-PMH"
+  },
+  {
+   "id": "2236-9473",
+   "titulo": "Revista Pós Ciências Sociais",
+   "idioma_titulo": "pt",
+   "titulo_alternativo": "REPOCS",
+   "idioma_titulo_alternativo": null,
+   "idiomas": [
+    "pt",
+    "es",
+    "en",
+    "fr",
+    "it"
+   ],
+   "issn_impreso": "1983-4527",
+   "issn_electronico": "2236-9473",
+   "editorial": "Programa de Pós-graduação em Ciências Sociais da Universidade Federal dos Maranhão",
+   "pais": "BR",
+   "materias": [
+    "Sociology (General)",
+    "Anthropology"
+   ],
+   "palabras_clave": [
+    "sociology",
+    "anthropology",
+    "political science",
+    "international relations",
+    "social sciences",
+    "humanities"
+   ],
+   "licencias": [
+    {
+     "nombre": "CC BY 4.0",
+     "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+   ],
+   "url": "https://periodicoseletronicos.ufma.br/index.php/rpcsoc/index",
+   "url_doaj": "https://doaj.org/toc/2236-9473",
+   "descripcion": null,
+   "fuente_ficha": "DOAJ",
+   "archivo": "revistas/2236-9473.json",
+   "ultimo_numero": "Vol. 23, núm. 1 (2026)",
+   "fuente_numeros": "Crossref"
+  },
+  {
+   "id": "2215-275X",
+   "titulo": "RevistArquis",
+   "idioma_titulo": null,
+   "titulo_alternativo": null,
+   "idioma_titulo_alternativo": null,
+   "idiomas": [
+    "es"
+   ],
+   "issn_impreso": null,
+   "issn_electronico": "2215-275X",
+   "editorial": "Universidad de Costa Rica",
+   "pais": "CR",
+   "materias": [
+    "Architecture",
+    "Urban groups. The city. Urban sociology"
+   ],
+   "palabras_clave": [
+    "cities",
+    "territory",
+    "urbanism",
+    "construction",
+    "design"
+   ],
+   "licencias": [
+    {
+     "nombre": "CC BY-NC-ND 4.0",
+     "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+    }
+   ],
+   "url": "https://archivo.revistas.ucr.ac.cr/index.php/revistarquis/index",
+   "url_doaj": "https://doaj.org/toc/2215-275X",
+   "descripcion": null,
+   "fuente_ficha": "DOAJ",
+   "archivo": "revistas/2215-275X.json",
+   "ultimo_numero": "Vol. 12, núm. 2 (2026)",
+   "fuente_numeros": "Crossref"
+  },
+  {
+   "id": "2038-3150",
+   "titulo": "SocietàMutamentoPolitica: Rivista Italiana di Sociologia",
+   "idioma_titulo": null,
+   "titulo_alternativo": "SMP",
+   "idioma_titulo_alternativo": null,
+   "idiomas": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+   ],
+   "issn_impreso": null,
+   "issn_electronico": "2038-3150",
+   "editorial": "Firenze University Press",
+   "pais": "IT",
+   "materias": [
+    "Sociology (General)"
+   ],
+   "palabras_clave": [
+    "political culture",
+    "democracy",
+    "social change",
+    "political sociology"
+   ],
+   "licencias": [
+    {
+     "nombre": "CC BY 4.0",
+     "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+   ],
+   "url": "https://oajournals.fupress.net/index.php/smp",
+   "url_doaj": "https://doaj.org/toc/2038-3150",
+   "descripcion": null,
+   "fuente_ficha": "DOAJ",
+   "archivo": "revistas/2038-3150.json",
+   "ultimo_numero": "Vol. 17, núm. 33 (2026)",
+   "fuente_numeros": "Crossref"
+  },
+  {
+   "id": "1647-3337",
+   "titulo": "Sociologia On Line",
+   "idioma_titulo": null,
+   "titulo_alternativo": null,
+   "idioma_titulo_alternativo": null,
+   "idiomas": [
+    "pt",
+    "en",
+    "fr",
+    "es"
+   ],
+   "issn_impreso": null,
+   "issn_electronico": "1647-3337",
+   "editorial": "Associação Portuguesa de Sociologia",
+   "pais": "PT",
+   "materias": [
+    "Sociology (General)"
+   ],
+   "palabras_clave": [
+    "sociology",
+    "social sciences"
+   ],
+   "licencias": [
+    {
+     "nombre": "CC BY 4.0",
+     "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+   ],
+   "url": "https://revista.aps.pt/en/home/",
+   "url_doaj": "https://doaj.org/toc/1647-3337",
+   "descripcion": null,
+   "fuente_ficha": "DOAJ",
+   "archivo": "revistas/1647-3337.json",
+   "ultimo_numero": "núm. 41 (2026)",
+   "fuente_numeros": "Crossref"
+  },
+  {
+   "id": "1807-0337",
+   "titulo": "Sociologias",
+   "idioma_titulo": null,
+   "titulo_alternativo": null,
+   "idioma_titulo_alternativo": null,
+   "idiomas": [
+    "es",
+    "pt"
+   ],
+   "issn_impreso": "1517-4522",
+   "issn_electronico": "1807-0337",
+   "editorial": "Universidade Federal do Rio Grande do Sul",
+   "pais": "BR",
+   "materias": [
+    "Sociology (General)"
+   ],
+   "palabras_clave": [
+    "applied social sciences",
+    "sociology",
+    "literature",
+    "computer science",
+    "economy"
+   ],
+   "licencias": [
+    {
+     "nombre": "CC BY 4.0",
+     "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+   ],
+   "url": "http://www.scielo.br/soc",
+   "url_doaj": "https://doaj.org/toc/1807-0337",
+   "descripcion": null,
+   "fuente_ficha": "DOAJ",
+   "archivo": "revistas/1807-0337.json",
+   "ultimo_numero": "Vol. 28 (2026)",
+   "fuente_numeros": "Crossref"
+  },
+  {
+   "id": "1988-0847",
+   "titulo": "Sortuz",
+   "idioma_titulo": null,
+   "titulo_alternativo": "Sortuz: Oñati Journal of Emergent Socio-Legal Studies",
+   "idioma_titulo_alternativo": null,
+   "idiomas": [
+    "eu",
+    "fr",
+    "es",
+    "en",
+    "pt"
+   ],
+   "issn_impreso": null,
+   "issn_electronico": "1988-0847",
+   "editorial": "Oñati International Institute for the Sociology of Law",
+   "pais": "ES",
+   "materias": [
+    "Sociology (General)",
+    "Law"
+   ],
+   "palabras_clave": [
+    "socio-legal",
+    "sociology of law",
+    "law",
+    "international law"
+   ],
+   "licencias": [
+    {
+     "nombre": "CC BY 4.0",
+     "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+   ],
+   "url": "https://opo.iisj.net/index.php/sortuz/index",
+   "url_doaj": "https://doaj.org/toc/1988-0847",
+   "descripcion": null,
+   "fuente_ficha": "DOAJ",
+   "archivo": "revistas/1988-0847.json",
+   "ultimo_numero": "Vol. 16, núm. 2 (2026)",
+   "fuente_numeros": "Crossref"
+  },
+  {
+   "id": "1809-4554",
+   "titulo": "Tempo Social",
+   "idioma_titulo": null,
+   "titulo_alternativo": null,
+   "idioma_titulo_alternativo": null,
+   "idiomas": [
+    "pt",
+    "en",
+    "fr",
+    "es"
+   ],
+   "issn_impreso": "0103-2070",
+   "issn_electronico": "1809-4554",
+   "editorial": "Universidade de Sâo Paulo",
+   "pais": "BR",
+   "materias": [
+    "Sociology (General)"
+   ],
+   "palabras_clave": [
+    "sociology",
+    "sociological theory"
+   ],
+   "licencias": [
+    {
+     "nombre": "CC BY 4.0",
+     "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+   ],
+   "url": "https://www.scielo.br/j/ts/",
+   "url_doaj": "https://doaj.org/toc/1809-4554",
+   "descripcion": null,
+   "fuente_ficha": "DOAJ",
+   "archivo": "revistas/1809-4554.json",
+   "ultimo_numero": "Vol. 38, núm. 2 (2026)",
+   "fuente_numeros": "Crossref"
+  },
+  {
+   "id": "2603-8366",
+   "titulo": "Tendencias Sociales",
+   "idioma_titulo": null,
+   "titulo_alternativo": "Tendencias Sociales: Revista de Sociología",
+   "idioma_titulo_alternativo": null,
+   "idiomas": [
+    "en",
+    "es",
+    "pt",
+    "fr",
+    "it"
+   ],
+   "issn_impreso": null,
+   "issn_electronico": "2603-8366",
+   "editorial": "Universidad Nacional de Educación a Distancia (UNED)",
+   "pais": "ES",
+   "materias": [
+    "Sociology (General)"
+   ],
+   "palabras_clave": [
+    "sociology",
+    "trends",
+    "politics",
+    "social sciences",
+    "communication studies",
+    "social changes"
+   ],
+   "licencias": [
+    {
+     "nombre": "CC BY 4.0",
+     "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+   ],
+   "url": "https://revistas.uned.es/index.php/Tendencias/index",
+   "url_doaj": "https://doaj.org/toc/2603-8366",
+   "descripcion": null,
+   "fuente_ficha": "DOAJ",
+   "archivo": "revistas/2603-8366.json",
+   "ultimo_numero": "Vol. 1, núm. 16 (2026)",
+   "fuente_numeros": "Crossref"
+  },
+  {
+   "id": "2683-8095",
+   "titulo": "Tramas Sociales",
+   "idioma_titulo": null,
+   "titulo_alternativo": "TS",
+   "idioma_titulo_alternativo": null,
+   "idiomas": [
+    "pt",
+    "es"
+   ],
+   "issn_impreso": "2683-8087",
+   "issn_electronico": "2683-8095",
+   "editorial": "Gabinete de Estudios e Investigación en Sociología (GEIS)",
+   "pais": "AR",
+   "materias": [
+    "Sociology (General)",
+    "History of scholarship and learning. The humanities"
+   ],
+   "palabras_clave": [
+    "social sciences",
+    "humanities",
+    "sociology",
+    "economy",
+    "political science",
+    "gender studies"
+   ],
+   "licencias": [
+    {
+     "nombre": "CC BY-NC-SA 4.0",
+     "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+    }
+   ],
+   "url": "https://ojs.unsj.edu.ar/index.php/tramassociales/index",
+   "url_doaj": "https://doaj.org/toc/2683-8095",
+   "descripcion": null,
+   "fuente_ficha": "DOAJ",
+   "oai": "https://ojs.unsj.edu.ar/index.php/tramassociales/oai",
+   "archivo": "revistas/2683-8095.json",
+   "ultimo_numero": "Vol. 7, núm. 7 (2025)",
+   "fuente_numeros": "OAI-PMH"
+  },
+  {
+   "id": "2215-4752",
+   "titulo": "Universidad en Diálogo",
+   "idioma_titulo": null,
+   "titulo_alternativo": "Revista de Extensión",
+   "idioma_titulo_alternativo": null,
+   "idiomas": [
+    "es"
+   ],
+   "issn_impreso": "2215-2849",
+   "issn_electronico": "2215-4752",
+   "editorial": "Universidad Nacional, Costa Rica",
+   "pais": "CR",
+   "materias": [
+    "Sociology (General)"
+   ],
+   "palabras_clave": [
+    "community",
+    "social problems",
+    "sociology",
+    "territorial development",
+    "education"
+   ],
+   "licencias": [
+    {
+     "nombre": "CC BY-NC-ND",
+     "url": null
+    }
+   ],
+   "url": "https://www.revistas.una.ac.cr/index.php/dialogo",
+   "url_doaj": "https://doaj.org/toc/2215-4752",
+   "descripcion": null,
+   "fuente_ficha": "DOAJ",
+   "archivo": "revistas/2215-4752.json",
+   "ultimo_numero": "Vol. 16, núm. 1 (2026)",
+   "fuente_numeros": "Crossref"
+  },
+  {
+   "id": "2530-1012",
+   "titulo": "Universidad, Escuela y Sociedad",
+   "idioma_titulo": "es",
+   "titulo_alternativo": "UNES",
+   "idioma_titulo_alternativo": null,
+   "idiomas": [
+    "es"
+   ],
+   "issn_impreso": null,
+   "issn_electronico": "2530-1012",
+   "editorial": "Universidad de Granada",
+   "pais": "ES",
+   "materias": [
+    "Special aspects of education",
+    "Sociology (General)",
+    "Social sciences (General)"
+   ],
+   "palabras_clave": [
+    "social sciences",
+    "didactics",
+    "education"
+   ],
+   "licencias": [
+    {
+     "nombre": "CC BY-NC-SA 4.0",
+     "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+    }
+   ],
+   "url": "https://revistaseug.ugr.es/index.php/revistaunes/index",
+   "url_doaj": "https://doaj.org/toc/2530-1012",
+   "descripcion": null,
+   "fuente_ficha": "DOAJ",
+   "archivo": "revistas/2530-1012.json",
+   "ultimo_numero": "núm. 21 (2026)",
+   "fuente_numeros": "Crossref"
+  },
+  {
+   "id": "1390-8634",
+   "titulo": "Universitas",
+   "idioma_titulo": null,
+   "titulo_alternativo": "Universitas-XX1: Revista de Ciencias Sociales y Humanas",
+   "idioma_titulo_alternativo": "es",
+   "idiomas": [
+    "en",
+    "es"
+   ],
+   "issn_impreso": "1390-3837",
+   "issn_electronico": "1390-8634",
+   "editorial": "Universidad Politécnica Salesiana",
+   "pais": "EC",
+   "materias": [
+    "Social sciences (General)",
+    "Political science",
+    "Communication. Mass media",
+    "Sociology (General)"
+   ],
+   "palabras_clave": [
+    "communication",
+    "cultural studies",
+    "sociology",
+    "political science"
+   ],
+   "licencias": [
+    {
+     "nombre": "CC BY-NC-SA 4.0",
+     "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+    }
+   ],
+   "url": "https://universitas.ups.edu.ec/index.php/universitas",
+   "url_doaj": "https://doaj.org/toc/1390-8634",
+   "descripcion": null,
+   "fuente_ficha": "DOAJ",
+   "archivo": "revistas/1390-8634.json",
+   "ultimo_numero": "núm. 45 (2026)",
+   "fuente_numeros": "Crossref"
+  },
+  {
+   "id": "2011-2734",
+   "titulo": "Universitas Humanística",
    "idioma_titulo": null,
    "titulo_alternativo": null,
    "idioma_titulo_alternativo": null,
@@ -1776,19 +1702,19 @@
     "pt",
     "en"
    ],
-   "issn_impreso": null,
-   "issn_electronico": "2176-8846",
-   "editorial": "UNICAMP",
-   "pais": "BR",
+   "issn_impreso": "0120-4807",
+   "issn_electronico": "2011-2734",
+   "editorial": "Pontificia Universidad Javeriana",
+   "pais": "CO",
    "materias": [
-    "Environmental technology. Sanitary engineering",
-    "Engineering (General). Civil engineering (General)",
-    "Urban groups. The city. Urban sociology"
+    "Anthropology",
+    "Sociology (General)"
    ],
    "palabras_clave": [
-    "sociology",
-    "city",
-    "arquitecture"
+    "ethnography",
+    "situated knowledge",
+    "global south",
+    "critical perspectives"
    ],
    "licencias": [
     {
@@ -1796,13 +1722,132 @@
      "url": "https://creativecommons.org/licenses/by/4.0/"
     }
    ],
-   "url": "https://periodicos.sbu.unicamp.br/ojs/index.php/labore/index",
-   "url_doaj": "https://doaj.org/toc/2176-8846",
+   "url": "http://revistas.javeriana.edu.co/index.php/univhumanistica/index",
+   "url_doaj": "https://doaj.org/toc/2011-2734",
    "descripcion": null,
    "fuente_ficha": "DOAJ",
-   "archivo": "revistas/2176-8846.json",
-   "ultimo_numero": "Vol. 19 (2025)",
+   "archivo": "revistas/2011-2734.json",
+   "ultimo_numero": "Vol. 95, núm. 1 (2026)",
    "fuente_numeros": "Crossref"
+  },
+  {
+   "id": "1982-0569",
+   "titulo": "Urbana: Revista Eletrônica do Centro Interdisciplinar de Estudos da Cidade",
+   "idioma_titulo": "pt",
+   "titulo_alternativo": "Urbana",
+   "idioma_titulo_alternativo": null,
+   "idiomas": [
+    "pt",
+    "es"
+   ],
+   "issn_impreso": null,
+   "issn_electronico": "1982-0569",
+   "editorial": "Universidade Estadual de Campinas",
+   "pais": "BR",
+   "materias": [
+    "Urban groups. The city. Urban sociology"
+   ],
+   "palabras_clave": [
+    "urban public policy",
+    "urban and city history",
+    "urban interventions",
+    "preservation and urban renewal"
+   ],
+   "licencias": [
+    {
+     "nombre": "CC BY-NC-ND",
+     "url": null
+    }
+   ],
+   "url": "https://periodicos.sbu.unicamp.br/ojs/index.php/urbana/index",
+   "url_doaj": "https://doaj.org/toc/1982-0569",
+   "descripcion": null,
+   "fuente_ficha": "DOAJ",
+   "archivo": "revistas/1982-0569.json",
+   "ultimo_numero": "Vol. 12 (2021)",
+   "fuente_numeros": "Crossref"
+  },
+  {
+   "id": "2238-6009",
+   "titulo": "Vivência",
+   "idioma_titulo": null,
+   "titulo_alternativo": "Revista de Antropologia",
+   "idioma_titulo_alternativo": null,
+   "idiomas": [
+    "pt",
+    "en",
+    "es",
+    "fr",
+    "zu"
+   ],
+   "issn_impreso": null,
+   "issn_electronico": "2238-6009",
+   "editorial": "Universidade Federal do Rio Grando do Norte, Programa de Pós-Graduação em Antropologia Social",
+   "pais": "BR",
+   "materias": [
+    "Anthropology",
+    "Sociology (General)"
+   ],
+   "palabras_clave": [
+    "antropology",
+    "ethnography",
+    "sociology"
+   ],
+   "licencias": [
+    {
+     "nombre": "CC BY-NC-SA 4.0",
+     "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+    }
+   ],
+   "url": "https://periodicos.ufrn.br/vivencia/index",
+   "url_doaj": "https://doaj.org/toc/2238-6009",
+   "descripcion": null,
+   "fuente_ficha": "DOAJ",
+   "archivo": "revistas/2238-6009.json",
+   "ultimo_numero": "Vol. 1, núm. 64 (2025)",
+   "fuente_numeros": "Crossref"
+  },
+  {
+   "id": "2611-657X",
+   "titulo": "Whatever",
+   "idioma_titulo": null,
+   "titulo_alternativo": "A Transdisciplinary Journal of Queer Theories and Studies",
+   "idioma_titulo_alternativo": "en",
+   "idiomas": [
+    "en",
+    "fr",
+    "it",
+    "es"
+   ],
+   "issn_impreso": null,
+   "issn_electronico": "2611-657X",
+   "editorial": "Università di Pisa",
+   "pais": "IT",
+   "materias": [
+    "Philosophy (General)",
+    "Sociology (General)",
+    "Social sciences (General)"
+   ],
+   "palabras_clave": [
+    "gender studies",
+    "sexuality",
+    "critical theory",
+    "interdisciplinary studies in humanities"
+   ],
+   "licencias": [
+    {
+     "nombre": "CC BY-NC 4.0",
+     "url": "https://creativecommons.org/licenses/by-nc/4.0/"
+    }
+   ],
+   "url": "http://whatever.cirque.unipi.it",
+   "url_doaj": "https://doaj.org/toc/2611-657X",
+   "descripcion": null,
+   "fuente_ficha": "DOAJ",
+   "oai": "https://whatever.cirque.unipi.it/index.php/index/oai",
+   "archivo": "revistas/2611-657X.json",
+   "ultimo_numero": "Vol. 7, núm. 2 (2024)",
+   "fuente_numeros": "OAI-PMH"
   }
  ]
 };

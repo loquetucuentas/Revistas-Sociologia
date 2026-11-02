@@ -1,0 +1,2264 @@
+// Copia de revistas/1679-0944.json para abrir la aplicación sin servidor.
+(window.DATOS_REVISTAS = window.DATOS_REVISTAS || {})["revistas/1679-0944.json"] = {
+ "version": 1,
+ "generado": "2026-11-02T05:12:34+00:00",
+ "es_prueba": false,
+ "revista": {
+  "id": "1679-0944",
+  "titulo": "Paranoá: Cadernos de Arquitetura e Urbanismo",
+  "idioma_titulo": null,
+  "titulo_alternativo": null,
+  "idioma_titulo_alternativo": null,
+  "idiomas": [
+   "en",
+   "pt",
+   "es"
+  ],
+  "issn_impreso": "1677-7395",
+  "issn_electronico": "1679-0944",
+  "editorial": "Universidade de Brasília",
+  "pais": "BR",
+  "materias": [
+   "Architecture",
+   "Urban groups. The city. Urban sociology"
+  ],
+  "palabras_clave": [
+   "architecture",
+   "urbanism",
+   "urban planing",
+   "city history"
+  ],
+  "licencias": [
+   {
+    "nombre": "CC BY",
+    "url": null
+   }
+  ],
+  "url": "http://periodicos.unb.br/index.php/paranoa",
+  "url_doaj": "https://doaj.org/toc/1679-0944",
+  "descripcion": null,
+  "fuente_ficha": "DOAJ",
+  "archivo": "revistas/1679-0944.json",
+  "ultimo_numero": "Vol. 19 (2026)",
+  "fuente_numeros": "Crossref"
+ },
+ "numeros": [
+  {
+   "id": "v19-2026",
+   "volumen": "19",
+   "numero": null,
+   "anio": 2026,
+   "fecha": "2026-10-07",
+   "etiqueta": "Vol. 19 (2026)",
+   "fuente": "Crossref",
+   "articulos": [
+    {
+     "id": "10.18830/1679-09442026v19e59085-en",
+     "titulo": "Applications of steel slag (BSSF) in civil construction: a literature review",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Ellen Mirley Medeiros Torres",
+       "orcid": "https://orcid.org/0000-0001-9416-4716"
+      },
+      {
+       "nombre": "André de Freitas Melo",
+       "orcid": "https://orcid.org/0009-0001-5154-0555"
+      },
+      {
+       "nombre": "Kaelly de Freitas Silva",
+       "orcid": "https://orcid.org/0009-0007-2776-3189"
+      },
+      {
+       "nombre": "Antônio Eduardo Bezerra Cabral",
+       "orcid": "https://orcid.org/0000-0001-6394-1164"
+      },
+      {
+       "nombre": "Alexandre Araújo Bertini",
+       "orcid": "https://orcid.org/0000-0003-2024-4400"
+      }
+     ],
+     "resumen": "The steel industry generates a large volume of waste and co-products, such as steel mill slag, whose use in civil construction mitigates the environmental impacts associated with the sector. The main limitation to its application is the presence of free oxides, such as calcium oxide (CaO), whose delayed hydration causes harmful volumetric expansion. The BSSF (Baosteel Slag Short Flow) process acts to stabilize the volume of these oxides. Thus, this article presents a systematic national and international literature review of the application of BSSF slag in civil engineering. The analyzed studies demonstrate the high technical potential of the BSSF by-product as a partial substitute for natural aggregates in mortars, concretes, and pavements. The properties in the fresh and hardened states are predominantly optimized at replacement rates between 40% and 60%. The results show that BSSF slag is technically and environmentally viable, ensuring volumetric stability and adequate results for the properties of the resulting products.",
+     "idioma_resumen": "en",
+     "licencia": null,
+     "url": "https://doi.org/10.18830/1679-09442026v19e59085-en",
+     "doi": "10.18830/1679-09442026v19e59085-en",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.18830/1679-09442026v19e57722-en",
+     "titulo": "Brazilian cultural centers and museums",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Weber Schimiti",
+       "orcid": "https://orcid.org/0000-0001-6572-5078"
+      }
+     ],
+     "resumen": "This article analyzes the emergence of new cultural centers and museums in Brazil during the 1980s, a period marked by social mobilization in defense of democracy and, simultaneously, by the resumption of academic discussions that brought up themes such as urban reform, post-Brasília architecture, and postmodernism. Issues raised during that period by the new buildings for cultural use are revisited, especially regarding the ways in which the public appropriates their spaces. After identifying a new situation in the country where large cultural centers, the result of public initiatives, coexist with smaller centers dedicated to more specific issues, the study focuses on the buildings designed for these institutions. The study then analyzes some works, selected based on criteria of accessibility, diversity, and relevance. Instead of a linear history, the article traces some architectural propositions and the concepts that underpin them. The analysis aims to identify the main architectural characteristics, and then to connect them to ideas of a technical, aesthetic, or sociocultural nature. This process takes into account the relationship with the surroundings, routes to the main spaces, structure and materiality.",
+     "idioma_resumen": "en",
+     "licencia": null,
+     "url": "https://doi.org/10.18830/1679-09442026v19e57722-en",
+     "doi": "10.18830/1679-09442026v19e57722-en",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.18830/1679-09442026v19e59015-en",
+     "titulo": "Changes to the Land Use and Occupation Law in Uberlândia (MG) and their morphological and socio-spatial impacts",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Maria Fernanda Zumpano França",
+       "orcid": "https://orcid.org/0009-0000-2384-217X"
+      },
+      {
+       "nombre": "Maria Eliza Alves Guerra",
+       "orcid": "https://orcid.org/0000-0001-8573-1918"
+      }
+     ],
+     "resumen": "This article analyzes the morphological and socio-spatial impacts resulting from changes in Uberlândia's Land Use and Occupation Law (Law No. 525/2011), between 2011 and 2025. Based on the hypothesis that these changes produced incompatibilities between envisioned urban form and built reality, the research articulates two dimensions of analysis: urban public policies and spatial configuration. The methodology combines documentary research, empirical research, and qualitative analysis (morphological and urban approaches), and identifies how specific changes in urban planning parameters have produced significant transformations in the urban form of different sectors of the city. Five regions were selected as case studies, allowing comparison between urban parameters defined in 2011 and the consolidated urban form in 2025. The results point to recurring regulatory flexibilization as a central factor in the production of morphological ruptures, selective verticalization processes, and significant changes in the urban environment. The evidence reinforces the perception that regulatory instability and the absence of integrated assessments of spatial impacts exacerbate socio-spatial inequalities and compromise the morphological coherence of the city, highlighting the need for legislative revisions based on technical and territorial diagnoses.",
+     "idioma_resumen": "en",
+     "licencia": null,
+     "url": "https://doi.org/10.18830/1679-09442026v19e59015-en",
+     "doi": "10.18830/1679-09442026v19e59015-en",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.18830/1679-09442026v19e61356-en",
+     "titulo": "Desire Walkgraphy: sensitive landscapes and possible worlds in architectural and urban education",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Eduardo Rocha",
+       "orcid": "https://orcid.org/0000-0001-5446-9515"
+      },
+      {
+       "nombre": "Jordana da Silva Brechon",
+       "orcid": "https://orcid.org/0009-0001-9033-288X"
+      },
+      {
+       "nombre": "Tuize Rovere",
+       "orcid": "https://orcid.org/0000-0001-9403-9747"
+      }
+     ],
+     "resumen": "This article analyzes a set of walkgraphies produced by first-semester students of an Architecture and Urbanism undergraduate program, developed within the course Theory and History I: Architecture and Urbanism in Contemporaneity during the second semester of 2025. By articulating a pedagogical experience, qualitative analysis of images and short written narratives, and a Deleuzian theoretical framework, the paper proposes the notion of desire walkgraphy as a conceptual key to understand everyday walking as a relational practice, traversed by affects, encounters, and assemblages between body and urban space. Grounded in the concepts of desire, landscape, and possible worlds, the article interprets the walkgraphies not as objective descriptions of the city, but as situated inscriptions that produce sensitive landscapes in everyday urban life. The analysis identifies recurring themes related to trees, shade and pauses along the route, frictions and discomforts of walking, urban heritage and its interruptions, unexpected encounters, and the everyday rhythms of walking. It is concluded that photographing and writing from walking constitute formative practices capable of expanding the understanding of the city as a field of relations in continuous production.",
+     "idioma_resumen": "en",
+     "licencia": null,
+     "url": "https://doi.org/10.18830/1679-09442026v19e61356-en",
+     "doi": "10.18830/1679-09442026v19e61356-en",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.18830/1679-09442026v19e59600-en",
+     "titulo": "Diffuse activism: cartography of the environmental and institutional conflicts of artisanal fishing in Guanabara Bay",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Lucas Marques Silva de Assis",
+       "orcid": "https://orcid.org/0009-0004-6988-9335"
+      },
+      {
+       "nombre": "Gustavo Paula Leal",
+       "orcid": "https://orcid.org/0009-0005-1999-5567"
+      },
+      {
+       "nombre": "Isabela Reis Paredes",
+       "orcid": "https://orcid.org/0009-0009-0844-7679"
+      },
+      {
+       "nombre": "Lara Raad Fernandes",
+       "orcid": "https://orcid.org/0009-0000-7791-9451"
+      },
+      {
+       "nombre": "Cauê Capillé",
+       "orcid": "https://orcid.org/0000-0003-1204-4206"
+      },
+      {
+       "nombre": "Alexandre Pessoa",
+       "orcid": "https://orcid.org/0000-0001-6718-3612"
+      }
+     ],
+     "resumen": "One of the main economic activities in the state of Rio de Janeiro is the petrochemical industry, mostly developed around Guanabara Bay. Its scale drives spatial and environmental conflicts involving Petrobras, the Brazilian Navy, and artisanal fishers. This article aims to understand the fishers' resistance strategies against petrochemical expansion and territorial restrictions threatening their permanence. Our methodology mapped conflict and resistance events, correlating them with normative and territorial restrictions imposed by the industry and the Navy, utilizing open georeferenced data, literature, interviews, and news. The mapping revealed the broad extent of territorial restrictions directed at fishers alongside their persistent struggle to remain. Consequently, we argue that these fishers' strategies are rooted in diffuse activism, characterized by indirect confrontation that emerges as a social transformation strategy against industrial hegemony, articulating new ways of inhabiting, coexisting, and producing meaning within this urban space.",
+     "idioma_resumen": "en",
+     "licencia": null,
+     "url": "https://doi.org/10.18830/1679-09442026v19e59600-en",
+     "doi": "10.18830/1679-09442026v19e59600-en",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.18830/1679-09442026v19e62047-en",
+     "titulo": "Private property and housing: genesis and sedimentation of proprietary subjectivation in Brazil (1930-1964)",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Alexandre Kramatschek Tavares",
+       "orcid": "https://orcid.org/0000-0002-3426-2928"
+      },
+      {
+       "nombre": "Yuri Rezende Taraciuk",
+       "orcid": "https://orcid.org/0009-0000-5759-6878"
+      }
+     ],
+     "resumen": "Throughout the 20th century, the imposition of the private property model in urban Brazil contrasted with historical social practices, revealing the legal system's gaps and injustices stemming from exclusionary urbanisation. This article aims to analyse social housing between 1930 and 1964 as a dispositif for proprietary subjectivation, mediating between economic imperatives and the construction of a conservative hegemony. Methodologically, the study employs Foucaultian genealogy articulated with Marxist critique to conduct a documentary and bibliographic analysis through a transepistemological lens. The considerations indicate that housing policy functioned as a biopolitical technology of power that produced subjectivities conformed to the logic of capital. The dream of home ownership established an ideology that naturalises private property, neutralises the potential for collective insurgency, and transforms exclusion into a matter of individual housing management.",
+     "idioma_resumen": "en",
+     "licencia": null,
+     "url": "https://doi.org/10.18830/1679-09442026v19e62047-en",
+     "doi": "10.18830/1679-09442026v19e62047-en",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.18830/1679-09442026v19e60256-en",
+     "titulo": "Simplification of a high-fidelity model for generating thermoenergetic metamodels in a university educational building",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Kahena Marx Silva",
+       "orcid": "https://orcid.org/0009-0006-0415-368X"
+      },
+      {
+       "nombre": "Rafael de Paula Garcia",
+       "orcid": "https://orcid.org/0000-0002-1839-1842"
+      },
+      {
+       "nombre": "Ligiana Pricila G. Fonseca",
+       "orcid": "https://orcid.org/0000-0002-1612-2665"
+      },
+      {
+       "nombre": "Joyce Correna Carlo",
+       "orcid": "https://orcid.org/0000-0003-3868-0307"
+      }
+     ],
+     "resumen": "With climate change and the increased demand for cooling, thermoenergetic computational modeling has become essential for studying and adapting buildings. However, constructing models that accurately represent reality, especially for complex buildings, is time-consuming and requires significant computational processing power. This study investigates the use of metamodels to reduce building simulation time without compromising the accuracy of the results. Using the Lecture Hall II (PVB) of the Federal University of Viçosa as a case study, three metamodels were developed, via EnergyPlus, based on simplifications of the original calibrated model. Validation was performed based on ASHRAE Guideline 14, considering the Normalized Mean Bias Error (NMBE) and Coefficient of Variation of the Root Mean Square Error (CV(RMSE)) indices, and complementary statistics. Among the three metamodels compared, the simplest one obtained the best performance and shortest simulation time. The results indicate that reducing the number of thermal zones allows for a decrease in computational time, while keeping errors within acceptable limits.",
+     "idioma_resumen": "en",
+     "licencia": null,
+     "url": "https://doi.org/10.18830/1679-09442026v19e60256-en",
+     "doi": "10.18830/1679-09442026v19e60256-en",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.18830/1679-09442026v19e60901-en",
+     "titulo": "The influence of urban planning legislation on urban form: the Case of Rua Dois de Dezembro, Flamengo, Rio de Janeiro",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Marco Antonio Milazzo de Almeida",
+       "orcid": "https://orcid.org/0000-0002-8570-9929"
+      }
+     ],
+     "resumen": "This article investigates how urban legislation has shaped the urban form of Rua Dois de Dezembro, in Flamengo, Rio de Janeiro, over more than a century, revealing persistent tensions between technical planning, political negotiation, and real-estate market interests. Drawing on documentary and cartographic analysis of 57 regulatory instruments, especially Street Alignment Projects (PAAs) and Subdivision Alignment Projects (PALs), the study shows how successive, case-by-case revisions produced a fragmented urban fabric, with discontinuous building heights, setbacks, and uses that undermine morphological coherence and the quality of public space. By tracing phases such as the initial hygienist layout, postwar verticalization, the construction of Metro Line 1, and the recent consolidation of the Ícono Parque development, the research highlights the capture of planning instruments by private interests, culminating in the conversion of an area previously reserved for a public bus terminal into a large private superblock. The case of Rua Dois de Dezembro thus condenses, at a local scale, the structural dilemmas of urban planning in Rio de Janeiro, pointing to the need for greater transparency, environmental criteria, and accountability in the implementation of urban laws to promote spatial justice and morphological cohesion.",
+     "idioma_resumen": "en",
+     "licencia": null,
+     "url": "https://doi.org/10.18830/1679-09442026v19e60901-en",
+     "doi": "10.18830/1679-09442026v19e60901-en",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.18830/1679-09442026v19e55349",
+     "titulo": "Avaliação da durabilidade de compósitos cimentícios reforçados com nanotubos de carbono",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Bárbara Martins",
+       "orcid": "https://orcid.org/0009-0006-6515-3536"
+      },
+      {
+       "nombre": "Andrielli Oliveira",
+       "orcid": "https://orcid.org/0000-0001-8977-785X"
+      },
+      {
+       "nombre": "Oswaldo Cascudo",
+       "orcid": "https://orcid.org/0000-0003-1879-6396"
+      }
+     ],
+     "resumen": "O reforço de matrizes cimentícias com nanotubos de carbono de paredes múltiplas (NTCPM) pode permitir o controle de fissuração em escala nanométrica, contribuindo para a durabilidade e resistência desses compósitos. Um problema relacionado a esses compósitos está associado à dificuldade de dispersão dos NTCPM e baixa interação interfacial fibra-matriz. Assim, este estudo realizou uma Revisão Sistemática da Literatura (RSL) para identificar os principais teores de NTCPM e técnicas de dispersão, correlacionando-os com parâmetros de durabilidade em condições ambientais que degradam matrizes cimentícias, como ambientes com CO2, cloretos, ácidos e sulfatos. Como método, foi aplicada uma string de busca nas bases de dados internacionais entre 2020 e 2024, resultando em 18 artigos. Os resultados mostraram que os NTCPM melhoram as propriedades mecânicas e a microestrutura dos compósitos, além de reduzir o valor dos coeficientes de migração dos íons cloreto e de difusão do CO2. Isso foi atribuído pelos mecanismos de pontos de nucleação (formação de produtos de hidratação do cimento), pontes de transferência de tensões nas microfissuras e pela densificação da matriz. Embora os NTCPM tenham demonstrado potencial na durabilidade de compósitos cimentícios, a diversidade de metodologias e condições de exposição requer mais estudos para alcançar maior consenso nos resultados.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.18830/1679-09442026v19e55349",
+     "doi": "10.18830/1679-09442026v19e55349",
+     "paginas": "e55349",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.18830/1679-09442026v19e56782",
+     "titulo": "Método simplificado de avaliação de conforto térmico da INI-C: desempenho e limitações",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Roberta Vieira Gonçalves de Souza",
+       "orcid": "https://orcid.org/0000-0003-0036-961X"
+      },
+      {
+       "nombre": "Helder Gattoni Medeiros",
+       "orcid": "https://orcid.org/0000-0001-5555-3647"
+      },
+      {
+       "nombre": "Beatriz Carvalho Avidago Geraldo",
+       "orcid": "https://orcid.org/0009-0001-7640-9801"
+      },
+      {
+       "nombre": "Alice Selim de Salles Camilo",
+       "orcid": "https://orcid.org/0009-0006-2004-5398"
+      },
+      {
+       "nombre": "Maria Angélica Vieira Pinto",
+       "orcid": "https://orcid.org/0000-0002-1508-5516"
+      }
+     ],
+     "resumen": "Em 2009 o Brasil implementou o RTQ-C para avaliar a eficiência energética de edificações comerciais, de serviços e públicas. No entanto, o RTQ-C era fortemente orientado para edificações condicionadas artificialmente. Em 2021 publicou-se então a INI-C em substituição ao RTQ-C que, dentre outras alterações, apresenta método simplificado para avaliação do percentual de horas em conforto térmico (PHOCT) para espaços naturalmente ventilados. Este artigo objetiva verificar a aplicabilidade do método utilizando um Metamodelo em Python. Para tal tomou como objeto de estudo, 82 edificações do Campus UFMG divididas em três Grupos de acordo com a aplicabilidade do método: 1) aplicável, 2) aplicável com ajustes e 3) não aplicável. Apenas 16% das edificações analisadas pertencem ao Grupo 1. O método simplificado foi então aplicado com modificações em 3 edificações do Grupo 2 e os resultados foram comparados com resultados de simulação computacional no Energy Plus. Verificou-se, que nestes casos, os valores do PHOCT obtidos do Metamodelo são próximos aos do método de simulação, com uma diferença não superior a 5,7%. Por fim, considera-se que o novo método é capaz de promover uma avaliação geral de edificações ventiladas naturalmente, porém devem ser considerados ajustes no mesmo de forma a ampliar a sua aplicação.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.18830/1679-09442026v19e56782",
+     "doi": "10.18830/1679-09442026v19e56782",
+     "paginas": "e56782",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.18830/1679-09442026v19e57722",
+     "titulo": "Centros culturais e museus brasileiros",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Weber Schimiti",
+       "orcid": "https://orcid.org/0000-0001-6572-5078"
+      }
+     ],
+     "resumen": "This article analyzes the emergence of new cultural centers and museums in Brazil during the 1980s, a period marked by social mobilization in defense of democracy and, simultaneously, by the resumption of academic discussions that brought up themes such as urban reform, post-Brasília architecture, and postmodernism. Issues raised during that period by the new buildings for cultural use are revisited, especially regarding the ways in which the public appropriates their spaces. After identifying a new situation in the country where large cultural centers, the result of public initiatives, coexist with smaller centers dedicated to more specific issues, the study focuses on the buildings designed for these institutions. The study then analyzes some works, selected based on criteria of accessibility, diversity, and relevance. Instead of a linear history, the article traces some architectural propositions and the concepts that underpin them. The analysis aims to identify the main architectural characteristics, and then to connect them to ideas of a technical, aesthetic, or sociocultural nature. This process takes into account the relationship with the surroundings, routes to the main spaces, structure and materiality.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.18830/1679-09442026v19e57722",
+     "doi": "10.18830/1679-09442026v19e57722",
+     "paginas": "e57722",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.18830/1679-09442026v19e59015",
+     "titulo": "As alterações na Lei de Uso e Ocupação do Solo de Uberlândia (MG) e seus impactos morfológicos e socioespaciais",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Maria Fernanda Zumpano França",
+       "orcid": "https://orcid.org/0009-0000-2384-217X"
+      },
+      {
+       "nombre": "Maria Eliza Alves Guerra",
+       "orcid": "https://orcid.org/0000-0001-8573-1918"
+      }
+     ],
+     "resumen": "This article analyzes the socio-spatial impacts generated by changes to Uberlândia's Land Use and Occupation Law (Law No. 525/2011), highlighting contradictions between the original urban planning and subsequent urban management practices. Based on the hypothesis that these changes produced incompatibilities between envisioned urban form and built reality, the research articulates two dimensions of analysis: urban public policies and spatial configuration. The methodology employed combines documentary research, empirical research, and qualitative analysis (morphological and urban approaches). Five regions were selected as case studies, allowing comparison between urban parameters defined in 2011 and the consolidated urban form in 2025. The results point to recurring regulatory flexibilization as a central factor in the production of morphological ruptures, selective verticalization processes, and significant changes in the urban environment. The evidence reinforces the perception of urban management as being captured by private interests, operating in a way that subverts the democratic objectives of urban planning.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.18830/1679-09442026v19e59015",
+     "doi": "10.18830/1679-09442026v19e59015",
+     "paginas": "e59015",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.18830/1679-09442026v19e59085",
+     "titulo": "Aplicações da escória de aciaria BSSF na construção civil",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Ellen Mirley Medeiros Torres",
+       "orcid": "https://orcid.org/0000-0001-9416-4716"
+      },
+      {
+       "nombre": "André de Freitas Melo",
+       "orcid": "https://orcid.org/0009-0001-5154-0555"
+      },
+      {
+       "nombre": "Kaelly de Freitas Silva",
+       "orcid": "https://orcid.org/0009-0007-2776-3189"
+      },
+      {
+       "nombre": "Antônio Eduardo Bezerra Cabral",
+       "orcid": "https://orcid.org/0000-0001-6394-1164"
+      },
+      {
+       "nombre": "Alexandre Araújo Bertini",
+       "orcid": "https://orcid.org/0000-0003-2024-4400"
+      }
+     ],
+     "resumen": "The steel industry generates a large volume of waste and co-products, such as steel mill slag, whose use in civil construction mitigates the environmental impacts associated with the sector. The main limitation to its application is the presence of free oxides, such as calcium oxide (CaO), whose delayed hydration causes harmful volumetric expansion. The BSSF (Baosteel Slag Short Flow) process acts to stabilize the volume of these oxides. Thus, this article presents a systematic national and international literature review of the application of BSSF slag in civil engineering. The analyzed studies demonstrate the high technical potential of the BSSF by-product as a partial substitute for natural aggregates in mortars, concretes, and pavements. The properties in the fresh and hardened states are predominantly optimized at replacement rates between 40% and 60%. The results show that BSSF slag is technically and environmentally viable, ensuring volumetric stability and adequate results for the properties of the resulting products.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.18830/1679-09442026v19e59085",
+     "doi": "10.18830/1679-09442026v19e59085",
+     "paginas": "e59085",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.18830/1679-09442026v19e59109",
+     "titulo": "Critérios metodológicos na delimitação das áreas de influência em diferentes instrumentos de análise e avaliação de impactos urbanos e ambientais",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Felipe Facci Inguaggiato",
+       "orcid": "https://orcid.org/0000-0001-7932-4865"
+      },
+      {
+       "nombre": "Fabio Noel Stanganini",
+       "orcid": "https://orcid.org/0000-0002-1825-0097"
+      }
+     ],
+     "resumen": "O processo de uso e ocupação do solo, fruto de ações antrópicas em áreas urbanas e ambientais, historicamente remete a impactos relacionados a desigualdades socioeconômicas, suscetibilidade ambiental, entre outros. No Brasil, ao longo da segunda metade do século XX e início do século XXI, inúmeros instrumentos urbanos e ambientais, em diferentes legislações, visam mitigar esses impactos. Todavia, uma problemática frequente em relação a esses instrumentos é a definição de critérios metodológicos para a delimitação da área de influência dos empreendimentos que deles necessitam. O objetivo deste artigo é realizar um levantamento bibliográfico, metodológico e legislativo referente à presença desses critérios em seus processos legais e instrumentos, bem como algumas proposições e reflexões sobre a temática. Para isso, a metodologia utilizada inclui etapas de levantamento, investigação e análise do estado da arte sobre o tema. Conclui-se que, embora existam no cenário nacional diversas legislações que propõem estudos de impactos urbanos e ambientais, nenhuma faz menção a critérios metodológicos para a delimitação das áreas de influência desses empreendimentos, o que denota uma grande lacuna a ser explorada e estudada em cenários futuros.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.18830/1679-09442026v19e59109",
+     "doi": "10.18830/1679-09442026v19e59109",
+     "paginas": "e59109",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.18830/1679-09442026v19e59451-en",
+     "titulo": "Emerging technologies, architectural planning and hospitals of the future: the impact of Healthcare 4.0 on hospitals in Brazil",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "João Paulo Lucchetta Pompermaier",
+       "orcid": "https://orcid.org/0000-0001-5994-5744"
+      },
+      {
+       "nombre": "Lizandra Garcia Lupi Vergara",
+       "orcid": "https://orcid.org/0000-0001-7631-8443"
+      },
+      {
+       "nombre": "Patrícia Biasi Cavalcanti",
+       "orcid": "https://orcid.org/0000-0003-0565-3871"
+      }
+     ],
+     "resumen": "This study aimed to identify the emerging technologies that most impact hospital architectural planning, the hospital sectors most impacted, and the outlook for the hospitals of the future, based on the perceptions of healthcare professionals, architects, and engineers working in the hospital sector in Brazil. An online survey was conducted with 66 participants from different regions; the data were processed using content analysis. The most frequently cited technologies were telehealth, robotics, artificial intelligence, environmental sensors, and augmented/virtual reality. The sectors identified as most impacted were the surgical and obstetric center, diagnostic support, and intensive care unit. For the hospital of the future, trends emerged toward greater patient-centricity, humanization, integrated technologies, dehospitalization, and space optimization, aiming for efficiency, safety, and personalized care. It is concluded that the adoption of these technologies demands physical and organizational reconfigurations and, despite conceptual and infrastructure challenges, the opportunities in terms of care quality and efficiency are promising.",
+     "idioma_resumen": "en",
+     "licencia": null,
+     "url": "https://doi.org/10.18830/1679-09442026v19e59451-en",
+     "doi": "10.18830/1679-09442026v19e59451-en",
+     "paginas": "e59451",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.18830/1679-09442026v19e59451",
+     "titulo": "Tecnologias emergentes, planejamento arquitetônico e hospitais do futuro: impacto da Saúde 4.0 nos hospitais do Brasil",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "João Paulo Lucchetta Pompermaier",
+       "orcid": "https://orcid.org/0000-0001-5994-5744"
+      },
+      {
+       "nombre": "Lizandra Garcia Lupi Vergara",
+       "orcid": "https://orcid.org/0000-0001-7631-8443"
+      },
+      {
+       "nombre": "Patrícia Biasi Cavalcanti",
+       "orcid": "https://orcid.org/0000-0003-0565-3871"
+      }
+     ],
+     "resumen": "Este estudo teve por objetivo identificar as tecnologias emergentes que mais impactam no planejamento arquitetônico dos hospitais, os setores hospitalares mais impactados e as perspectivas para os hospitais do futuro, a partir da percepção de profissionais da saúde, arquitetos e engenheiros que atuam na área hospitalar no Brasil. Realizou-se uma pesquisa através de questionário on-line com 66 participantes de diferentes regiões; os dados foram tratados por meio do método de análise de conteúdo. As tecnologias mais citadas foram telessaúde, robótica, inteligência artificial, sensores ambientais e realidade aumentada/virtual. Os setores apontados como mais impactados foram centro cirúrgico e obstétrico, apoio diagnóstico e unidade de terapia intensiva. Para o hospital do futuro emergiram tendências de maior centralidade no paciente, humanização, tecnologias integradas, desospitalização e otimização dos espaços, visando eficiência, segurança e personalização do cuidado. Conclui-se que a adoção dessas tecnologias demanda reconfigurações físicas e organizacionais e apesar de desafios conceituais e de infraestrutura, as oportunidades em qualidade assistencial e eficiência são promissoras.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.18830/1679-09442026v19e59451",
+     "doi": "10.18830/1679-09442026v19e59451",
+     "paginas": "e59451",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.18830/1679-09442026v19e59563",
+     "titulo": "Análise da incerteza das propriedades higrotérmicas da taipa de pilão para uso na simulação termoenergética",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Mayara Tartarotti Cardozo da Silva",
+       "orcid": "https://orcid.org/0000-0001-9729-4065"
+      },
+      {
+       "nombre": "Ana Paula Da Silva Milani",
+       "orcid": "https://orcid.org/0000-0003-2291-4172"
+      }
+     ],
+     "resumen": "Considerando a taipa de pilão uma alternativa sustentável na promoção do conforto térmico, suas propriedades higrotérmicas foram parametrizadas para determinar a significância de diferentes métodos de simulações computacionais e os intervalos de confiança a serem aplicados na avaliação de desempenho termoenergético. Foi simulada uma edificação com paredes de taipa nos softwares EnergyPlus e JePlus por meio dos modelos conduction transfer function (CTF) e effective moisture penetration depth (EMPD). Estas simulações foram analisadas por ANOVA, sensibilidade e incerteza com as seguintes variáveis: espessura das paredes, propriedades higrotérmicas empíricas e rotina de uso da edificação. Os resultados demonstraram que o método CTF pode ser utilizado sem perdas significativas de precisão para as simulações termoenergéticas da taipa em clima tropical com verões úmidos e invernos secos. A espessura e a condutividade da taipa, junto a rotina de uso e ocupação mostraram influência significativa no consumo energético. Os intervalos de confiança para as propriedades higrotérmicas da taipa foram: 1780 a 2025 kg/m³ para densidade; 0,85 a 0,93 W/m.K para condutividade térmica; 750 a 800 J/kg.K para calor específico; 13 a 14 para fator de resistência à difusão de vapor de água.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.18830/1679-09442026v19e59563",
+     "doi": "10.18830/1679-09442026v19e59563",
+     "paginas": "e59563",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.18830/1679-09442026v19e59600",
+     "titulo": "Ativismo difuso",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Lucas Marques Silva de Assis",
+       "orcid": "https://orcid.org/0009-0004-6988-9335"
+      },
+      {
+       "nombre": "Gustavo Paula Leal",
+       "orcid": "https://orcid.org/0009-0005-1999-5567"
+      },
+      {
+       "nombre": "Isabela Reis Paredes",
+       "orcid": "https://orcid.org/0009-0009-0844-7679"
+      },
+      {
+       "nombre": "Lara Raad Fernandes",
+       "orcid": "https://orcid.org/0009-0000-7791-9451"
+      },
+      {
+       "nombre": "Cauê Capillé",
+       "orcid": "https://orcid.org/0000-0003-1204-4206"
+      },
+      {
+       "nombre": "Alexandre Pessoa",
+       "orcid": "https://orcid.org/0000-0001-6718-3612"
+      }
+     ],
+     "resumen": "One of the main economic activities in the state of Rio de Janeiro is the petrochemical industry, mostly developed around Guanabara Bay. Its scale drives spatial and environmental conflicts involving Petrobras, the Brazilian Navy, and artisanal fishers. This article aims to understand the fishers' resistance strategies against petrochemical expansion and territorial restrictions threatening their permanence. Our methodology mapped conflict and resistance events, correlating them with normative and territorial restrictions imposed by the industry and the Navy, utilizing open georeferenced data, literature, interviews, and news. The mapping revealed the broad extent of territorial restrictions directed at fishers alongside their persistent struggle to remain. Consequently, we argue that these fishers' strategies are rooted in diffuse activism, characterized by indirect confrontation that emerges as a social transformation strategy against industrial hegemony, articulating new ways of inhabiting, coexisting, and producing meaning within this urban space.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.18830/1679-09442026v19e59600",
+     "doi": "10.18830/1679-09442026v19e59600",
+     "paginas": "e59600",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.18830/1679-09442026v19e60151",
+     "titulo": "Entre paisagens e tipos",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Natalia Melchuna Madruga",
+       "orcid": "https://orcid.org/0000-0003-1043-5457"
+      },
+      {
+       "nombre": "Monica Luize Sarabia",
+       "orcid": "https://orcid.org/0000-0002-0716-2032"
+      },
+      {
+       "nombre": "George Alexandre Ferreira Dantas",
+       "orcid": "https://orcid.org/0000-0002-8352-7590"
+      }
+     ],
+     "resumen": "Newton Navarro, an artist from Natal and a member of Modernism, depicted landscapes and characters from Northeastern Brazil in his works, specifically from the \"Sertão\" and the coast of Rio Grande do Norte. In his paintings and prints, one can find landscapes marked by the distinctive natural features of the territory of the Brazilian Northeast and characters such as the vaqueiro (cowboy) or the fisherman, who are social types representative of these spaces and ultimately symbolically construct and consolidate an identity for the Northeast as a region. Thus, this article seeks to explore this dimension of the cultural formation of the Northeast as a distinct territory within Brazil through the arts and to understand how the social types and landscapes depicted by Navarro help shape this complex picture, navigating between regionalist and modernist perspectives, between the \"Sertão\" and the coast, and between the ideas of modernity, tradition, and nostalgia.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.18830/1679-09442026v19e60151",
+     "doi": "10.18830/1679-09442026v19e60151",
+     "paginas": "e60151",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.18830/1679-09442026v19e60256",
+     "titulo": "Simplificação de modelo de alta fidelidade para geração de metamodelos termoenergéticos em uma edificação educacional universitária",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Kahena Marx Silva",
+       "orcid": "https://orcid.org/0009-0006-0415-368X"
+      },
+      {
+       "nombre": "Rafael De Paula Garcia",
+       "orcid": "https://orcid.org/0000-0002-1839-1842"
+      },
+      {
+       "nombre": "Ligiana Pricila Guimarães Fonseca",
+       "orcid": "https://orcid.org/0000-0002-1612-2665"
+      },
+      {
+       "nombre": "Joyce Correna Carlo",
+       "orcid": "https://orcid.org/0000-0003-3868-0307"
+      }
+     ],
+     "resumen": "Com as mudanças climáticas e o aumento da demanda por refrigeração, a modelagem computacional termoenergética torna-se essencial para estudar e adaptar edificações. No entanto, a construção de modelos que representem fielmente a realidade, especialmente para edificações complexas, tem alto custo de tempo e processamento computacional. Este estudo investiga o uso de metamodelos para reduzir o tempo de simulação de edificações sem comprometer a precisão dos resultados. Utilizando o Pavilhão de Aulas II (PVB) da Universidade Federal de Viçosa como estudo de caso, três metamodelos foram desenvolvidos, via EnergyPlus, a partir de simplificações do modelo original calibrado. A validação foi realizada com base na ASHRAE Guideline 14, considerando os índices Normalized Mean Bias Error (NMBE) e Coefficient of Variation of the Root Mean Square Error (CV(RMSE)), e estatísticas complementares. Dentre os três metamodelos comparados, o mais simples obteve o melhor desempenho e menor tempo de simulação. Os resultados indicam que a redução do número de zonas térmicas permite diminuir o tempo computacional, mantendo os erros dentro dos limites aceitáveis.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.18830/1679-09442026v19e60256",
+     "doi": "10.18830/1679-09442026v19e60256",
+     "paginas": "e60256",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.18830/1679-09442026v19e60423",
+     "titulo": "Ensaios não destrutivos, digitalização e gêmeos digitais em edifícios históricos: uma revisão sistemática",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Julia Amancio Fonseca",
+       "orcid": "https://orcid.org/0009-0004-4671-1358"
+      },
+      {
+       "nombre": "Rachel Jardim Martini Santos",
+       "orcid": "https://orcid.org/0000-0002-2639-0532"
+      },
+      {
+       "nombre": "Rogerio Cabral de Azevedo",
+       "orcid": "https://orcid.org/0000-0003-1276-9602"
+      }
+     ],
+     "resumen": "A preservação do patrimônio construído é uma prática essencial, pois esses bens reúnem valores históricos, culturais e técnicos cuja degradação ou perda compromete, de forma irreversível, a memória coletiva. As edificações de interesse histórico exigem inspeções e monitoramentos constantes que, em muitos casos, não devem causar alterações ou danos em sua estrutura. Diante disso, este artigo busca investigar técnicas para acompanhamento da saúde de edificações de interesse histórico. Para isto, empregou-se o método Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA), que orientou a seleção e a análise dos artigos científicos, permitindo a elaboração de uma revisão sistemática de literatura (RSL) de forma estruturada. O enfoque da pesquisa foi nos ensaios não destrutivos e nas técnicas de digitalização e criação de gêmeos digitais, que se relacionam diretamente aos estudos de caracterização e documentação do patrimônio construído. Os resultados revelaram que a inspeção visual, o Ground Penetrating Radar (GPR) e a Termografia Infravermelha (IRT) são amplamente utilizados para a caracterização de edifícios históricos. A digitalização para a criação de gêmeos digitais no patrimônio construído vem sendo realizada por meio de fotografias, fotogrametria e varredura a laser móvel, com o intuito de monitorar processos de deterioração, entre outras contribuições para a área da conservação.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.18830/1679-09442026v19e60423",
+     "doi": "10.18830/1679-09442026v19e60423",
+     "paginas": "e60423",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.18830/1679-09442026v19e60573",
+     "titulo": "Methodological contribution of building performance evaluation for facility managers of museums housed in old buildings",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Sheila Walbe Ornstein",
+       "orcid": "https://orcid.org/0000-0002-5684-921X"
+      },
+      {
+       "nombre": "Marcus Vinicius Rosário da Silva",
+       "orcid": "https://orcid.org/0000-0003-2483-2875"
+      }
+     ],
+     "resumen": "In Brazil, many museums are commonly housed in old buildings of historical value and adapted for current use. This requires specialized maintenance and oversight by the management team. Implementing Building Performance Evaluation (BPE) in active museums can be a valuable tool for enhancing the performance of the systems that comprise the building(s) under their responsibility, mainly in the use, operation and maintenance phase. Thus, this article aims to present a framework for the BPE in museums during the use, operation, and maintenance phases. A systematic literature review was conducted in Scopus and Web of Science, in addition to three interviews with managers working in museums. As a result, a framework is presented, which also encompasses the Brazilian context. As a practical implication, the aim is to support the facility managers’ work regarding buildings to enhance user satisfaction and the technical performance of the built environment. By articulating theoretical frameworks and empirical analysis, this study advances the scientific understanding of BPE and offers practical guidance for improving decision-making in building management.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.18830/1679-09442026v19e60573",
+     "doi": "10.18830/1679-09442026v19e60573",
+     "paginas": "e60573",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.18830/1679-09442026v19e60901",
+     "titulo": "A influência da legislação urbanística na forma urbana",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Marco Antonio Milazzo de Almeida",
+       "orcid": "https://orcid.org/0000-0002-8570-9929"
+      }
+     ],
+     "resumen": "This article investigates how urban legislation has shaped the urban form of Rua Dois de Dezembro, in Flamengo, Rio de Janeiro, over more than a century, revealing persistent tensions between technical planning, political negotiation, and real-estate market interests. Drawing on documentary and cartographic analysis of 57 regulatory instruments, especially Street Alignment Projects (PAAs) and Subdivision Alignment Projects (PALs), the study shows how successive, case-by-case revisions produced a fragmented urban fabric, with discontinuous building heights, setbacks, and uses that undermine morphological coherence and the quality of public space. By tracing phases such as the initial hygienist layout, postwar verticalization, the construction of Metro Line 1, and the recent consolidation of the Ícono Parque development, the research highlights the capture of planning instruments by private interests, culminating in the conversion of an area previously reserved for a public bus terminal into a large private superblock. The case of Rua Dois de Dezembro thus condenses, at a local scale, the structural dilemmas of urban planning in Rio de Janeiro, pointing to the need for greater transparency, environmental criteria, and accountability in the implementation of urban laws to promote spatial justice and morphological cohesion.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.18830/1679-09442026v19e60901",
+     "doi": "10.18830/1679-09442026v19e60901",
+     "paginas": "e60901",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.18830/1679-09442026v19e61356",
+     "titulo": "Caminhografia do Desejo",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Eduardo Rocha",
+       "orcid": "https://orcid.org/0000-0001-5446-9515"
+      },
+      {
+       "nombre": "Jordana da Silva Brechon",
+       "orcid": "https://orcid.org/0009-0001-9033-288X"
+      },
+      {
+       "nombre": "Tuize Rovere",
+       "orcid": "https://orcid.org/0000-0001-9403-9747"
+      }
+     ],
+     "resumen": "This article analyzes a set of walkgraphies produced by first-semester students of an Architecture and Urbanism undergraduate program, developed within the course Theory and History I: Architecture and Urbanism in Contemporaneity during the second semester of 2025. By articulating a pedagogical experience, qualitative analysis of images and short written narratives, and a Deleuzian theoretical framework, the paper proposes the notion of desire walkgraphy as a conceptual key to understand everyday walking as a relational practice, traversed by affects, encounters, and assemblages between body and urban space. Grounded in the concepts of desire, landscape, and possible worlds, the article interprets the walkgraphies not as objective descriptions of the city, but as situated inscriptions that produce sensitive landscapes in everyday urban life. The analysis identifies recurring themes related to trees, shade and pauses along the route, frictions and discomforts of walking, urban heritage and its interruptions, unexpected encounters, and the everyday rhythms of walking. It is concluded that photographing and writing from walking constitute formative practices capable of expanding the understanding of the city as a field of relations in continuous production.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.18830/1679-09442026v19e61356",
+     "doi": "10.18830/1679-09442026v19e61356",
+     "paginas": "e61356",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.18830/1679-09442026v19e62047",
+     "titulo": "Propriedade privada e habitação",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Alexandre Kramatschek Tavares",
+       "orcid": "https://orcid.org/0000-0002-3426-2928"
+      },
+      {
+       "nombre": "Yuri Rezende Taraciuk",
+       "orcid": "https://orcid.org/0009-0000-5759-6878"
+      }
+     ],
+     "resumen": "Throughout the 20th century, the imposition of the private property model in urban Brazil contrasted with historical social practices, revealing the legal system's gaps and injustices stemming from exclusionary urbanisation. This article aims to analyse social housing between 1930 and 1964 as a dispositif for proprietary subjectivation, mediating between economic imperatives and the construction of a conservative hegemony. Methodologically, the study employs Foucaultian genealogy articulated with Marxist critique to conduct a documentary and bibliographic analysis through a transepistemological lens. The considerations indicate that housing policy functioned as a biopolitical technology of power that produced subjectivities conformed to the logic of capital. The dream of home ownership established an ideology that naturalises private property, neutralises the potential for collective insurgency, and transforms exclusion into a matter of individual housing management.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.18830/1679-09442026v19e62047",
+     "doi": "10.18830/1679-09442026v19e62047",
+     "paginas": "e62047",
+     "fuente": "Crossref"
+    }
+   ]
+  },
+  {
+   "id": "2026",
+   "volumen": null,
+   "numero": null,
+   "anio": 2026,
+   "fecha": "2026-03-07",
+   "etiqueta": "Publicación continua (2026)",
+   "fuente": "Crossref",
+   "articulos": [
+    {
+     "id": "10.18830/1679-09442026v19e55349-en",
+     "titulo": "Evaluating the durability of carbon-nanotube-reinforced cementitious composites: a systematic literature review of contemporary knowledge",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Bárbara Martins",
+       "orcid": "https://orcid.org/0009-0006-6515-3536"
+      },
+      {
+       "nombre": "Andrielli Oliveira",
+       "orcid": "https://orcid.org/0000-0001-8977-785X"
+      },
+      {
+       "nombre": "Oswaldo Cascudo",
+       "orcid": "https://orcid.org/0000-0003-1879-6396"
+      }
+     ],
+     "resumen": "Reinforcing cementitious matrices with multi-walled carbon nanotubes (MWCNTs) can enable crack control at the nanoscale, contributing to the durability and strength of these composites. A key challenge associated with these composites is the difficulty in dispersing MWCNTs and the low interfacial interaction between the fiber and the matrix. This study conducted a Systematic Literature Review (SLR) to identify the main MWCNT contents and dispersion techniques, correlating them with durability parameters in environmental conditions that degrade cementitious matrices, such as CO2, chlorides, acids, and sulfates. A search string was applied to international databases between 2020 and 2024, resulting in 18 articles. The results showed that MWCNTs improve the mechanical properties and microstructure of the composites, in addition to reducing the values of chloride ion migration coefficients and CO2 diffusion. This was attributed to mechanisms such as nucleation points (formation of cement hydration products), stress transfer bridges in microcracks, and matrix densification. Although MWCNTs have demonstrated potential in enhancing the durability of cementitious composites, the diversity of methodologies and exposure conditions calls for further studies to achieve greater consensus in the results.",
+     "idioma_resumen": "en",
+     "licencia": null,
+     "url": "https://doi.org/10.18830/1679-09442026v19e55349-en",
+     "doi": "10.18830/1679-09442026v19e55349-en",
+     "paginas": "e55349",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.18830/1679-09442026v19e56782-en",
+     "titulo": "INI-C simplified thermal comfort assessment method: performance and limitations",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Roberta Vieira Gonçalves de Souza",
+       "orcid": "https://orcid.org/0000-0003-0036-961X"
+      },
+      {
+       "nombre": "Helder Gattoni Medeiros",
+       "orcid": "https://orcid.org/0000-0001-5555-3647"
+      },
+      {
+       "nombre": "Beatriz Carvalho Avidago Geraldo",
+       "orcid": "https://orcid.org/0009-0001-7640-9801"
+      },
+      {
+       "nombre": "Alice Selim de Salles Camilo",
+       "orcid": "https://orcid.org/0009-0006-2004-5398"
+      },
+      {
+       "nombre": "Maria Angélica Vieira Pinto",
+       "orcid": "https://orcid.org/0000-0002-1508-5516"
+      }
+     ],
+     "resumen": "In 2009, Brazil implemented the RTQ-C to evaluate the energy efficiency of commercial, service, and public buildings. However, the RTQ-C was heavily oriented toward artificially conditioned buildings. In 2021, the INI-C was published, replacing the RTQ-C. Among other changes, it introduced a simplified method for assessing the percentage of hours in thermal comfort (PHOCT) for naturally ventilated spaces. This article aims to verify the applicability of the method using a Metamodel in Python. For this purpose, 82 buildings on the UFMG Campus were studied, divided into three groups based on the method's applicability: 1) applicable, 2) applicable with adjustments, and 3) not applicable. Only 16% of the analyzed buildings belonged to Group 1. The simplified method was then applied with modifications to three buildings from Group 2, and the results were compared with computational simulation results in EnergyPlus. It was found that, in these cases, the PHOCT values obtained from the Metamodel are close to those from the simulation method, with a difference not exceeding 5.7%. To summarize, it is considered that the new method is capable of providing a general evaluation of naturally ventilated buildings. However, adjustments should be made to broaden its applicability.",
+     "idioma_resumen": "en",
+     "licencia": null,
+     "url": "https://doi.org/10.18830/1679-09442026v19e56782-en",
+     "doi": "10.18830/1679-09442026v19e56782-en",
+     "paginas": "e56782",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.18830/1679-09442026v19e59109-en",
+     "titulo": "Methodological criteria in delimiting areas of influence: instruments for urban and environmental impact analysis and assessment",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Felipe Facci Inguaggiato",
+       "orcid": "https://orcid.org/0000-0001-7932-4865"
+      },
+      {
+       "nombre": "Fabio Noel Stanganini",
+       "orcid": "https://orcid.org/0000-0002-1825-0097"
+      }
+     ],
+     "resumen": "The process of land use and occupation, resulting from anthropogenic actions in urban and environmental areas, has historically led to impacts associated with socioeconomic inequalities, environmental susceptibility, and other factors. In Brazil, throughout the second half of the 20th century and the early 21st century, numerous urban and environmental instruments, established in different pieces of legislation, have sought to mitigate these impacts. However, a frequent issue regarding these instruments is the delimitation of methodological criteria in the delimitation of the area of influence of the projects that need them for implementation. The aim of this article is to conduct a bibliographical, methodological, and legislative survey regarding the presence of these criteria in legal processes and their instruments, as well as some propositions and reflections on the subject. To this end, the methodology used includes stages of data collection, investigation and analysis of the state of the art of the subject. The study concludes that, in the national scenario, although several legislations propose studies of urban and environmental impacts, none of them make reference any methodological criteria for delimitation of areas of influence of these projects, which denotes a large gap to be explored and studied in future scenarios.",
+     "idioma_resumen": "en",
+     "licencia": null,
+     "url": "https://doi.org/10.18830/1679-09442026v19e59109-en",
+     "doi": "10.18830/1679-09442026v19e59109-en",
+     "paginas": "e59109",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.18830/1679-09442026v19e60423-en",
+     "titulo": "Non-destructive testing, digitization, and digital twins in historic buildings: a systematic review",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Julia Amancio Fonseca",
+       "orcid": "https://orcid.org/0009-0004-4671-1358"
+      },
+      {
+       "nombre": "Rachel Jardim Martini Santos",
+       "orcid": "https://orcid.org/0000-0002-2639-0532"
+      },
+      {
+       "nombre": "Rogerio Cabral de Azevedo",
+       "orcid": "https://orcid.org/0000-0003-1276-9602"
+      }
+     ],
+     "resumen": "The preservation of built heritage is an essential practice, as these assets embody historical, cultural, and technical values whose degradation or loss irreversibly compromises collective memory. Buildings of historical interest require continuous inspections and monitoring that, in many cases, must not cause alterations or damage to their structure. In this context, this article aims to investigate techniques for monitoring the structural health of buildings of historical interest. To this end, the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) method was employed, guiding the selection and analysis of scientific articles and enabling the development of a structured systematic literature review (SLR). The research focused on non-destructive testing methods and on digitization techniques and digital twin creation, which are directly related to studies on the characterization and documentation of built heritage. The results revealed that visual inspection, Ground Penetrating Radar (GPR), and Infrared Thermography (IRT) are widely used for the characterization of historic buildings. Digitization for the creation of digital twins in built heritage has been carried out through photography, photogrammetry, and mobile laser scanning, with the aim of monitoring deterioration processes, among other contributions to the field of conservation.",
+     "idioma_resumen": "en",
+     "licencia": null,
+     "url": "https://doi.org/10.18830/1679-09442026v19e60423-en",
+     "doi": "10.18830/1679-09442026v19e60423-en",
+     "paginas": "e60423",
+     "fuente": "Crossref"
+    }
+   ]
+  },
+  {
+   "id": "v18-2025",
+   "volumen": "18",
+   "numero": null,
+   "anio": 2025,
+   "fecha": "2025-12-08",
+   "etiqueta": "Vol. 18 (2025)",
+   "fuente": "Crossref",
+   "articulos": [
+    {
+     "id": "10.18830/1679-09442025v18e53203",
+     "titulo": "Análise comparativa da resistência à tração na flexão e à compressão de argamassa enriquecida com nanotubos de carbono",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Alaíde Marta dos Santos",
+       "orcid": "https://orcid.org/0000-0002-7437-3091"
+      },
+      {
+       "nombre": "Claudio Ernani Martins Oliveira",
+       "orcid": "https://orcid.org/0000-0002-1168-0414"
+      },
+      {
+       "nombre": "Viviany Geraldo",
+       "orcid": "https://orcid.org/0000-0002-6149-6850"
+      },
+      {
+       "nombre": "Evandro Augusto de Morais",
+       "orcid": "https://orcid.org/0000-0001-9927-7656"
+      },
+      {
+       "nombre": "Jordânio Samuel Siqueira",
+       "orcid": "https://orcid.org/0009-0006-3866-2749"
+      },
+      {
+       "nombre": "Rovadávia Aline de Jesus Ribas",
+       "orcid": "https://orcid.org/0000-0003-0364-1455"
+      }
+     ],
+     "resumen": "Este estudo investiga a influência da adição de nanotubos de carbono não tratados (NTC) nas propriedades de consistência, resistência à compressão e à tração na flexão de corpos de prova cilíndricos (NBR 7215:2019) e prismáticos (NBR 13279:2005) produzidos com argamassa enriquecida com NTC. Também é analisada a compatibilidade entre os resultados de resistência à compressão obtidos por duas metodologias distintas. Análises morfológicas dos NTC e das argamassas foram realizadas por Microscopia Eletrônica de Varredura. A incorporação de NTC reduziu a consistência do produto fresco e a resistência à compressão dos corpos prismáticos. Contudo, as resistências à tração na flexão dos corpos prismáticos e à compressão dos corpos cilíndricos não apresentaram variações significativas. A alta variabilidade nos valores de resistência dos corpos de prova com NTC sugere uma dispersão não homogênea dos nanotubos. A variabilidade na resistência à compressão dos corpos prismáticos também foi atribuída ao procedimento da norma, que exige ensaio após a ruptura por flexão.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.18830/1679-09442025v18e53203",
+     "doi": "10.18830/1679-09442025v18e53203",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.18830/1679-09442025v18e57493",
+     "titulo": "Modelagem da Informação Aplicada à Paisagem (LIM)",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Tainah Frota Carvalho",
+       "orcid": "https://orcid.org/0000-0001-5497-9304"
+      },
+      {
+       "nombre": "Newton Célio Becker de Moura",
+       "orcid": "https://orcid.org/0000-0003-0541-2680"
+      }
+     ],
+     "resumen": "O avanço das tecnologias informacionais demanda novos paradigmas no planejamento urbano, especialmente na abordagem paisagística. Projetos de paisagens responsivas utilizam modelagem informacional para conceber ambientes urbanos dinâmicos, nos quais o meio construído interage continuamente com a paisagem natural. Este artigo explora a dimensão teórica da Modelagem da Informação Aplicada à Paisagem (Landscape Information Modeling – LIM) por meio de uma revisão sistemática de referenciais consolidados e produções científicas recentes. A metodologia fez uma seleção de artigos publicados até 2024, com ênfase no período de 2000 a 2024, dentro do qual identificou 1.647 estudos, dos quais 15 foram selecionados para análise detalhada. A pesquisa discute as potencialidades e limitações do LIM na prática, destacando sua inovação em comparação com metodologias tradicionais. Como principal resultado, propõe-se um quadro referencial para a aplicação do LIM no projeto da paisagem, evidenciando suas contribuições para o planejamento urbano. Este estudo busca consolidar o conceito como referência teórica e contribuir para o aprimoramento das práticas contemporâneas de planejamento e projeto da paisagem.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.18830/1679-09442025v18e57493",
+     "doi": "10.18830/1679-09442025v18e57493",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.18830/1679-09442025v18e52784-en",
+     "titulo": "Large-scale household rainwater harvesting: supply-demand analysis of the One Million Cisterns Program",
+     "idioma_titulo": "en",
+     "autores": [],
+     "resumen": "The assessment of the supply-demand relationship in domestic rainwater harvesting systems has been much discussed. In particular, large-scale implementation programs would benefit from the availability of demand-supply indicators for the standard systems they implement. Such indicators should be simple, and, thus, of straightforward implementation, yet sufficiently informative to express the supply-demand relationship beyond the water balance. Hence, the aim of this work is to propose new indicators suitable for large-scale programs. Four indicators are evaluated: reliability, efficiency, resilience and surplus. The 1 Million Cisterns Program (P1MC) in Paraíba is taken as a case for the application and evaluation of the indicators. The standard P1MCsystems were numerically simulated, taking precipitation series for the 194 municipalities where the cisterns were implemented in Paraíba. The results show that reliability and efficiency, for these systems, have equivalent values, making it possible, without loss of information, to use only reliability.",
+     "idioma_resumen": "en",
+     "licencia": null,
+     "url": "https://doi.org/10.18830/1679-09442025v18e52784-en",
+     "doi": "10.18830/1679-09442025v18e52784-en",
+     "paginas": "1-19",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.18830/1679-09442025v18e48719-en",
+     "titulo": "Land use and airport policies in Brazilian capitals: the case of Zumbi dos Palmares International Airport, Maceió/AL",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Stella Oliveira",
+       "orcid": "https://orcid.org/0000-0001-7627-6650"
+      },
+      {
+       "nombre": "Maria Lúcia Gondim da Rosa Oiticica",
+       "orcid": "https://orcid.org/0000-0001-9393-5427"
+      }
+     ],
+     "resumen": "In Brazil, research on the impact of aeronautical noise in urban areas near airports is still limited. To avoid the negative effects of aircraft noise, airports should be located away from urbanized areas. In this research, we investigate the possible influences of airports on the built environment and the interferences of air operations in city life. For this, data were collected on the acoustic approach in master plans and analysis of themes related to the development of airport infrastructure policies. We propose guidelines that aim to integrate airport development legislation with urban development policy. During the research process, we found the scarcity of acoustic approach in the legislations, even those updated regularly, and the lack of consideration to acoustic parameters.",
+     "idioma_resumen": "en",
+     "licencia": null,
+     "url": "https://doi.org/10.18830/1679-09442025v18e48719-en",
+     "doi": "10.18830/1679-09442025v18e48719-en",
+     "paginas": "e48719",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.18830/1679-09442025v18e48719",
+     "titulo": "Políticas de uso do solo e aeroportos em capitais brasileiras",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Stella Oliveira",
+       "orcid": "https://orcid.org/0000-0001-7627-6650"
+      },
+      {
+       "nombre": "Maria Lúcia Gondim da Rosa Oiticica",
+       "orcid": "https://orcid.org/0000-0001-9393-5427"
+      }
+     ],
+     "resumen": "No Brasil, as pesquisas sobre o impacto do ruído aeronáutico em áreas urbanas próximas a aeroportos ainda são limitadas. Para evitar os efeitos negativos do barulho dos aviões, os aeroportos devem ser localizados longe de áreas urbanizadas. Nesta pesquisa, investigamos as possíveis influências dos aeroportos no ambiente construído e as interferências das operações aéreas na vida nas cidades. Para isso, foram coletados dados sobre a abordagem acústica em planos diretores e análise das temáticas relacionadas ao desenvolvimento de políticas de infraestrutura aeroportuária. Foram propostas diretrizes que visam integrar a legislação de desenvolvimento aeroportuário com a política de desenvolvimento urbano. Durante o processo de pesquisa, constatamos a escassez de abordagem acústica nas legislações, mesmo nas atualizadas regularmente, e a falta de consideração aos parâmetros acústicos.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.18830/1679-09442025v18e48719",
+     "doi": "10.18830/1679-09442025v18e48719",
+     "paginas": "e48719",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.18830/1679-09442025v18e51723",
+     "titulo": "Análise hermenêutica do Edital Programa Minha Casa Minha Vida – Entidades no centro histórico de São Paulo, Brasil",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Ariele de Fátima Fantazia",
+       "orcid": "https://orcid.org/0009-0005-3889-7188"
+      },
+      {
+       "nombre": "Rosio Fernandéz Baca Salcedo",
+       "orcid": "https://orcid.org/0000-0002-5438-0120"
+      },
+      {
+       "nombre": "Geise Brizotti Pasquotto",
+       "orcid": "https://orcid.org/0000-0001-8912-9334"
+      }
+     ],
+     "resumen": "A questão habitacional é de suma importância quando se trata da qualidade de vida e da preservação de centros históricos urbanos. Além do direito à moradia, é imperativo garantir o direito à cidade. Como uma resposta ao déficit habitacional brasileiro, o governo federal implementou, em 2009, o Programa Minha Casa Minha Vida (PMCMV). Neste contexto, este trabalho tem por objetivo analisar o Programa Minha Casa Minha Vida – Entidades (PMCMV-E) no centro histórico de São Paulo, segundo as relações dialógicas entre Texto e Contexto desenvolvidas por Josep Muntañola. A metodologia foi estruturada em três etapas: i) análise do Contexto (Centro Histórico de São Paulo); ii) análise do Texto (PMCMV- E) baseada nos parâmetros desenvolvidos pela Organização das Nações Unidas (ONU) e iii) mapa de sinergias a partir do método de Urbanismo Ambiental Hermenêutico de Marcelo Zárate. Os resultados revelaram o Centro Histórico de São Paulo como adequado para a implementação de programas habitacionais, enquanto o Edital do PMCMV-E exibe a falta de diretrizes que tornem o programa isoladamente adequado. Os parâmetros de adequação cultural e segurança de posse não foram atendidos; o de habitabilidade foi atendido parcialmente; e os parâmetros de acessibilidade, economicidade, disponibilidade de serviços, materiais, instalações e infraestrutura e localização foram atendidos.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.18830/1679-09442025v18e51723",
+     "doi": "10.18830/1679-09442025v18e51723",
+     "paginas": "e51723",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.18830/1679-09442025v18e52784",
+     "titulo": "Aproveitamento de água de chuva domiciliar em larga escala",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Gabriela da Luz Lins",
+       "orcid": "https://orcid.org/0009-0006-6402-1152"
+      },
+      {
+       "nombre": "Carlos de Oliveira Galvão",
+       "orcid": "https://orcid.org/0000-0002-0800-7085"
+      },
+      {
+       "nombre": "Rodolfo Luiz Bezerra Nóbrega",
+       "orcid": "https://orcid.org/0000-0002-9858-8222"
+      }
+     ],
+     "resumen": "A avaliação da relação oferta-demanda em sistemas domiciliares de aproveitamento de água de chuva tem sido muito discutida. Em particular, programas de implantação em larga escala se beneficiariam da disponibilidade de indicadores de atendimento à demanda pelos sistemas padrão por eles implantados. Tais indicadores devem ser simples, para viabilizar sua implantação, mas suficientemente informativos para expressar a relação oferta-demanda além de um mero balanço hídrico. É este o objetivo deste trabalho: a proposição de novos indicadores, apropriados a tais programas de larga escala. São propostos e avaliados quatro indicadores: confiabilidade, eficiência, resiliência e superávit. O Programa 1 Milhão de Cisternas (P1MC) na Paraíba é tomado como caso para aplicação e avaliação dos indicadores. Os sistemas padrão implantados pelo P1MC foram numericamente simulados, tomando séries de precipitação para os 194 municípios onde as cisternas foram implantadas no Estado. Os resultados mostram que a confiabilidade e a eficiência, para esses sistemas, têm valores equivalentes, sendo possível, sem perda de informação, usar apenas a confiabilidade.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.18830/1679-09442025v18e52784",
+     "doi": "10.18830/1679-09442025v18e52784",
+     "paginas": "e52784",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.18830/1679-09442025v18e52950",
+     "titulo": "Efeito sinérgico das cinzas de biomassa em argamassas",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Camila Cristina Canhestro Guimarães",
+       "orcid": "https://orcid.org/0000-0003-2921-2771"
+      },
+      {
+       "nombre": "Heber Martins de Paula",
+       "orcid": "https://orcid.org/0000-0002-7066-1408"
+      }
+     ],
+     "resumen": "Com o emprego de novos materiais na construção civil para obtenção de componentes, elementos ou sistemas que contribuam para reduzir os impactos ambientais como, por exemplo, os materiais ecoeficientes, devem ser avaliados pelo seu desempenho e sustentabilidade, culminando com especificações técnicas. Destarte, o presente artigo objetivou validar o tempo de estocagem do traço da argamassa modificada, que substitui o cimento Portland pela mistura formada pelas cinzas da casca de arroz (CCA), do bagaço de cana-de-açúcar (CBCA) e do cavaco de eucalipto (CCE). Para tanto, foi produzido um traço referência, isento de substituições, e definidos os tempos de estocagem em 0, 30, 60 e 90 dias. O desempenho das argamassas foi validado por meio da dosagem e análises dos CPs a cada 30 dias, executando os ensaios de flow table, compressão simples, tração na flexão, variação dimensional, aderência à tração, permeabilidade e microscopia eletrônica de varredura. Os resultados indicaram que o traço Tméd, substituindo 26,75% a massa do cimento Portland por cinzas de biomassa (15,65%CCA + 6,35%CBCA + 4,75%CCE), pode ser aplicado até os 60 dias de estocagem de seus materiais pré-dosados para uso em argamassas de assentamento e revestimento, sem comprometimento do desempenho físico e mecânico.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.18830/1679-09442025v18e52950",
+     "doi": "10.18830/1679-09442025v18e52950",
+     "paginas": "e52950",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.18830/1679-09442025v18e53084",
+     "titulo": "Estudo de viabilidade de sistema fotovoltaico em uma organização militar do Exército Brasileiro",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Larissa Barroso dos Santos",
+       "orcid": "https://orcid.org/0000-0002-2878-0438"
+      },
+      {
+       "nombre": "Daniel Setrak Sowmy",
+       "orcid": "https://orcid.org/0000-0001-9190-4731"
+      }
+     ],
+     "resumen": "É evidente a premente necessidade de expansão e diversificação da matriz elétrica brasileira de maneira sustentável, considerando o atendimento à crescente demanda de energia e aos esforços internacionais de redução dos impactos negativos das mudanças climáticas. Nesse contexto, a energia solar apresenta um papel de destaque, em virtude dos altos índices de irradiação solar verificados no país. Dessa forma, este estudo visa avaliar a viabilidade técnica e econômica de sistemas fotovoltaicos instalados no solo e na cobertura no âmbito do Exército Brasileiro. Para isso, a metodologia adotada foi o desenvolvimento de um estudo de caso a partir de uma organização militar a ser construída no Estado de São Paulo, tendo sido realizada a caracterização do consumo dessa organização a partir de dados históricos de outras unidades, o que permitiu o dimensionamento dos sistemas fotovoltaicos mais adequados e a realização de uma análise de viabilidade técnica-econômica. Do ponto de vista técnico, os sistemas propostos se mostraram altamente exequíveis, com potencial de geração de energia elétrica suficiente para compensação do consumo de energia, possibilitando uma economia média da fatura de energia de 79% da parcela de consumo.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.18830/1679-09442025v18e53084",
+     "doi": "10.18830/1679-09442025v18e53084",
+     "paginas": "e53084",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.18830/1679-09442025v18e53250",
+     "titulo": "Análise das estratégias passivas de conforto térmico no Hospital Universitário da UFSCar",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Karime Zeferino de Souza Alves da Costa",
+       "orcid": "https://orcid.org/0000-0003-1098-1802"
+      },
+      {
+       "nombre": "Eduvaldo Paulo Sichieri",
+       "orcid": "https://orcid.org/0000-0002-5747-0340"
+      }
+     ],
+     "resumen": "A arquitetura hospitalar influencia diretamente o conforto térmico e bem-estar dos pacientes e funcionários. O Hospital Universitário da Universidade Federal de São Carlos, projetado por João Filgueiras Lima, incorpora estratégias de conforto e eficiência energética típicas de seus projetos, embora não tenha sido executado pela Rede Sarah. A pesquisa em questão examinou as estratégias projetuais e seu impacto no conforto térmico durante o verão, utilizando análise projetual, medições ambientais, questionários e um cruzamento subsequente dos dados. Embora o hospital possua diversas estratégias de condicionamento térmico passivo, o sistema não opera conforme o esperado, em parte devido a adaptações realizadas ao longo do tempo. Além disso, os funcionários, desconhecendo o funcionamento adequado das estratégias de ventilação, não estão utilizando os sistemas conforme planejado, o que contribui para o desconforto térmico observado. As velocidades do ar, que variam entre 0,1 m/s e 0,2 m/s, são insuficientes para proporcionar resfriamento térmico adequado. Assim, a pesquisa ressalta a importância da capacitação dos funcionários para o uso adequado das estratégias de ventilação em condições favoráveis.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.18830/1679-09442025v18e53250",
+     "doi": "10.18830/1679-09442025v18e53250",
+     "paginas": "e53250",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.18830/1679-09442025v18e53272",
+     "titulo": "Efeito de cloretos e da umidade interna de concretos na resistividade elétrica superficial e volumétrica:",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Letícia Alves da Silva",
+       "orcid": "https://orcid.org/0009-0004-1271-8113"
+      },
+      {
+       "nombre": "Antônio Carlos de Assis Leonel",
+       "orcid": "https://orcid.org/0000-0001-9427-1546"
+      },
+      {
+       "nombre": "Andrielli Morais de Oliveira De Oliveira",
+       "orcid": "https://orcid.org/0000-0001-8977-785X"
+      }
+     ],
+     "resumen": "É objetivo avaliar o efeito de cloretos e da variação da umidade interna de concretos na resistividade elétrica superficial aparente (Re), resistividade volumétrica (Rv) e na relação entre elas. Foram estudados concretos com diferentes relações água/ligante (a/l) (0,40, 0,55 e 0,70) e com adição de sílica ativa. Diferentes espaçamentos entre sondas de Re foram considerados (38 e 50 mm). Os concretos também foram submetidos a ciclos de molhagem e secagem em solução contendo cloretos e a dessorção e absorção de água. Como resultado, concretos com menores relações a/l e com adição de sílica ativa apresentaram os maiores valores de resistividade em geral (antes e após a presença de cloretos). Os cloretos reduziram os valores de resistividade logo no primeiro ciclo. A resistividade foi alterada quando a umidade dos concretos reduziu de 100% para até 97%. Foram obtidas altas correlações entre Rv e Re com sondas de 38 mm e 50 mm (R2 acima de 0,9560). Coeficientes de determinação (R²) diferentes foram obtidos durante o processo de dessorção e de absorção de água para Rv e umidade (%). A técnica de resistividade foi sensível a presença de íons cloro e nas diferenças entre os concretos de resistência à compressão, composição, porosidade e umidade.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.18830/1679-09442025v18e53272",
+     "doi": "10.18830/1679-09442025v18e53272",
+     "paginas": "e53272",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.18830/1679-09442025v18e53504",
+     "titulo": "Monitoramento remoto do consumo de água em agências bancárias utilizando gráficos de controle estatístico",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Lucas Lepinski Golin Freitas",
+       "orcid": "https://orcid.org/0000-0001-9188-8874"
+      },
+      {
+       "nombre": "Andreza Kalbusch",
+       "orcid": "https://orcid.org/0000-0002-4770-1758"
+      },
+      {
+       "nombre": "Elisa Henning",
+       "orcid": "https://orcid.org/0000-0002-7754-9451"
+      },
+      {
+       "nombre": "Marcio Ferreira de Lima",
+       "orcid": "https://orcid.org/0000-0002-1179-135X"
+      }
+     ],
+     "resumen": "O objetivo deste trabalho foi analisar o desempenho de dois tipos de gráficos de controle estatístico de processos, Shewhart e EWMA, para o monitoramento de consumo de água em agências bancárias localizadas na região Sul do Brasil. Os gráficos de controle foram utilizados para identificar eventos atípicos que ocorreram durante o período de análise, de 31/10/2018 até 03/11/2019. Três agências bancárias, localizadas nos municípios de Joinville, Criciúma e Curitiba foram selecionadas para análise. As médias diárias de consumo de água encontradas para a agência de Joinville foram de 4,51 m³/dia, 81,82 L/funcionário/dia, 11,14 L/atendimento/dia e 1,47 L/m²/dia. Na agência de Criciúma os indicadores foram de 4,18 m³/dia, 34,73 L/funcionário/dia, 21,02 L/atendimento/dia e 1,27 L/m²/dia. Após a substituição de todos os mecanismos de acionamento das válvulas de descarga ocorreu a redução do consumo para 2,48 m³/dia, totalizando a economia de 298,69 m³. Os indicadores para a agência de Curitiba foram de 0,61 m³/dia, 34,69 L/funcionário/dia, 1,98 L/atendimento/dia e 0,29 L/m²/dia. Ambos os gráficos analisados apresentaram resultados satisfatórios quanto à detecção de vazamentos, consumos excessivos de água e outros eventos atípicos. Complementarmente, o gráfico EWMA apresentou um melhor desempenho para a detecção de pequenas variações no consumo.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.18830/1679-09442025v18e53504",
+     "doi": "10.18830/1679-09442025v18e53504",
+     "paginas": "e53504",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.18830/1679-09442025v18e53504-en",
+     "titulo": "Remote monitoring water consumption in bank branches using statistical control charts",
+     "idioma_titulo": "en",
+     "autores": [],
+     "resumen": "The aim of this work was to assess the performance of two distinct types of statistical control charts, Shewhart and EWMA, when used to monitor water consumption in bank branches located in southern Brazil. The control charts were used in an attempt to detect unusual events that happened during the data collection period, ranging from 10/31/2018 to 11/03/2019. Three bank branches, located in the municipalities of Joinville, Criciúma and Curitiba, were selected for this analysis. The water consumption averages found for the Joinville’s branch were 4.51m³/day, 81.82 L/employee/day, 11.14 L/service/day and 1.47 L/m²/day. For the Criciúma’s branch, the averages were 4.18 m³/day, 34.73 L/employee/day, 21.02 L/service/day and 1.27 L/m²/day. After the replacement of all toilet flushing systems, the consumption was reduced to 2.48 m³/day, saving a total of 298.69 m³ of water. Finally, for the Curitiba’s branch, the averages were 0.61 m³/day, 34.69 L/employee/day, 1.98 L/service/day and 0.29 L/m²/day. Both charts displayed an acceptable performance for detecting leakages, excessive water consumption and other unusual events. The EWMA chart exhibited a better performance for detecting small variations.",
+     "idioma_resumen": "en",
+     "licencia": null,
+     "url": "https://doi.org/10.18830/1679-09442025v18e53504-en",
+     "doi": "10.18830/1679-09442025v18e53504-en",
+     "paginas": "e53504",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.18830/1679-09442025v18e53530",
+     "titulo": "Drenagem pluvial predial sifônica",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Caio Ferreira Gonçalves",
+       "orcid": "https://orcid.org/0000-0001-7970-0680"
+      },
+      {
+       "nombre": "Heber Martins de Paula",
+       "orcid": "https://orcid.org/0000-0002-7066-1408"
+      }
+     ],
+     "resumen": "O sistema de drenagem sifônica tem sido empregado em edificações industriais e comerciais proporcionando uma drenagem mais eficaz das coberturas. Além disso, sua incorporação ao projeto arquitetônico permite a otimização de espaço, facilitando reformas, retrofit ou expansões, com intervenções mínimas por ser um sistema mais compacto. O objetivo deste artigo é analisar o sistema de drenagem de água pluvial pelo método sifônico e a sua relação com a arquitetura, a partir de uma análise da bibliografia. Para tanto, foram analisadas diversas bases de dados, por meio de um mapeamento sistêmico, focando os aspectos técnicos de dimensionamento e aplicações do sistema sifônico. O estudo concluiu que, embora o sistema ofereça muitas vantagens, é necessário integrá-lo ao planejamento arquitetônico e desenvolver uma norma brasileira específica para maximizar seu desempenho. Além da falta de uma norma, há escassez de estudos focados no mercado nacional, com apenas 11% das pesquisas abordando o Brasil, nesses estudos a conclusão é a de que existe a necessidade de aprofundar o conhecimento sobre os materiais e os índices pluviométricos para uma escolha adequada do sistema.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.18830/1679-09442025v18e53530",
+     "doi": "10.18830/1679-09442025v18e53530",
+     "paginas": "e53530",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.18830/1679-09442025v18e53538",
+     "titulo": "Rio de Janeiro, a metrópole flúvio-marítima",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Juliana Ayako",
+       "orcid": "https://orcid.org/0000-0001-8950-2514"
+      },
+      {
+       "nombre": "Alexandre Delijaicov",
+       "orcid": "https://orcid.org/0000-0001-7323-3145"
+      }
+     ],
+     "resumen": "O projeto do Canal Intracostal Metropolitano Fluminense aqui apresentado propõe uma estrutura urbana e regional para o Estado do Rio de Janeiro a partir da compreensão dos rios enquanto referências primordiais da arquitetura da cidade. O imaginário reunido neste texto busca dar contorno à noção de metrópole flúvio-marítima ao revelar uma inversão de sentido: a Baixada Fluminense, hoje considerada inundável, antes foi água. Abre-se então a possibilidade para, através do projeto de arquitetura enquanto método de pesquisa, imaginar um reposicionamento desse passado. Através do desenho, busca-se articular, simultaneamente, duas instâncias fundamentais: a dinâmica dos ciclos hídricos e a cidade construída enquanto espaço simbólico de pertencimento.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.18830/1679-09442025v18e53538",
+     "doi": "10.18830/1679-09442025v18e53538",
+     "paginas": "e53538",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.18830/1679-09442025v18e53542",
+     "titulo": "Consumo de água em unidades de educação para a pessoa com deficiência",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Pâmella Mattos",
+       "orcid": "https://orcid.org/0009-0004-2116-4167"
+      },
+      {
+       "nombre": "Bruno Satoru Eguchi Cristófoli",
+       "orcid": "https://orcid.org/0009-0002-3857-6956"
+      },
+      {
+       "nombre": "Andreza Kalbusch",
+       "orcid": "https://orcid.org/0000-0002-4770-1758"
+      },
+      {
+       "nombre": "Elisa Henning",
+       "orcid": "https://orcid.org/0000-0002-7754-9451"
+      }
+     ],
+     "resumen": "A água é um recurso natural limitado, essencial para a vida e a gestão sustentável dos recursos hídricos requer estimativas sobre os indicadores de consumo no ambiente construído. O objetivo deste trabalho é determinar os indicadores de consumo de água em unidades da Associação de Pais e Amigos dos Excepcionais (APAE) do estado de Santa Catarina, no Brasil. Vinte e nove unidades foram selecionadas para realização da análise dos dados e determinação dos indicadores de consumo. O consumo médio per capita variou entre 3,93 e 24,20 litros/aluno/dia. O consumo médio mensal por unidade educacional variou entre 7,10 e 210,63 m³/escola/mês. Os resultados mostraram que há correlação positiva entre o consumo total de água mensal das unidades educacionais e as variáveis número de alunos, número de refeições servidas, número de banheiros, número de bacias sanitárias, idade da edificação e área construída. Além disso, as análises mostraram que o consumo per capita de água diminui conforme aumentam o número de alunos, o número de bacias sanitárias e a área construída das edificações. Os resultados deste estudo podem servir de estímulo para novas pesquisas relacionadas ao consumo de água e a pessoa com deficiência no Brasil.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.18830/1679-09442025v18e53542",
+     "doi": "10.18830/1679-09442025v18e53542",
+     "paginas": "e53542",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.18830/1679-09442025v18e53542-en",
+     "titulo": "Water consumption in schools for people with disabilities",
+     "idioma_titulo": "en",
+     "autores": [],
+     "resumen": "Water is a limited natural resource, essential for life. The sustainable management of water resources requires estimates of water consumption in the built environment. The objective of this paper is to determine the water consumption in units of the Associação de Pais e Amigos dos Excepcionais (APAE) in the state of Santa Catarina, Brazil. Twenty-nine units were selected for data analysis. The average per capita consumption ranged from 3.93 liters/student/day to 24.20 liters/student/day. The average consumption per unit varied between 7.10 m³/school/month and 210.63 m³/school/month. The results showed a positive correlation between monthly water consumption and the number of students, number of meals, number of restrooms, number of toilets, built area and age of the building variables. Furthermore, analyses have shown that per capita water consumption decreases as the number of students, the number of toilets and the area of buildings increase. The results of this study can motivate new research related to water consumption and people with disabilities in Brazil.",
+     "idioma_resumen": "en",
+     "licencia": null,
+     "url": "https://doi.org/10.18830/1679-09442025v18e53542-en",
+     "doi": "10.18830/1679-09442025v18e53542-en",
+     "paginas": "e53542",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.18830/1679-09442025v18e53545",
+     "titulo": "Análise do consumo médio per capita de água em escolas municipais de Joinville, Brasil",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Alice dos Santos Medeiros",
+       "orcid": "https://orcid.org/0009-0009-0871-2831"
+      },
+      {
+       "nombre": "Francine Rafaela Brietzig",
+       "orcid": "https://orcid.org/0009-0004-1854-9824"
+      },
+      {
+       "nombre": "Patrícia Strapason Coletti",
+       "orcid": "https://orcid.org/0009-0005-8766-8285"
+      },
+      {
+       "nombre": "Robison Negri",
+       "orcid": "https://orcid.org/0000-0002-2523-399X"
+      }
+     ],
+     "resumen": "As escolas desempenham papel importante na gestão sustentável da água, uma vez que a conscientização ambiental, muitas vezes, se inicia no ambiente escolar. Este artigo analisou o consumo de água per capita nas escolas municipais de ensino fundamental de Joinville, estado de Santa Catarina, Brasil. A coleta de dados iniciou-se pelo envio de questionários com 37 questões, para as 91 escolas do município, obtendo-se retorno de 62 escolas. Para estas, foram coletados os dados mensais de consumo junto à concessionária local, referente ao ano de 2022. Os dados de consumo foram tratados, restando 50 escolas estatisticamente representativas. Com base nas análises, pode-se concluir que o consumo médio per capita de água nestas escolas foi de 7,58 litros/ aluno/ dia, valor inferior aos estudos anteriores. Além disso, não foram encontradas variações de consumo entre os períodos letivos e de férias. Já para o consumo unitário, constatou-se um valor médio de 497,65 litros/ m²/ mês nas instituições. Por fim, observou-se uma relação proporcional entre o consumo de água durante o período de aulas e a área construída das edificações e que não há impacto socioeconômico no consumo de água nas escolas, em relação à renda do bairro.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.18830/1679-09442025v18e53545",
+     "doi": "10.18830/1679-09442025v18e53545",
+     "paginas": "e53545",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.18830/1679-09442025v18e53833",
+     "titulo": "Deriva no centro de Ribeirão Preto (SP)",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Vítor da Silva Lebre Pezarezi",
+       "orcid": "https://orcid.org/0009-0004-1599-9184"
+      },
+      {
+       "nombre": "Hélio Hirao",
+       "orcid": "https://orcid.org/0000-0002-0052-6788"
+      }
+     ],
+     "resumen": "Este artigo explora as dinâmicas urbanas do centro de Ribeirão Preto (SP), aplicando a deriva situacionista como método para investigar as interações entre espaços urbanos e as experiências subjetivas dos indivíduos. A análise é conduzida a partir das interpretações de Gilles Deleuze e Félix Guattari sobre a deriva, enfatizando uma exploração sensível e intuitiva que revela nuances sutis da cidade, moldando a identidade urbana de formas não imediatamente visíveis. Utilizando os conceitos deleuzianos de imagem-tempo e imagem-movimento, o estudo examina a interconexão entre temporalidade e movimento nos espaços históricos da cidade. O tempo emerge como um protagonista, manifestando-se nos edifícios em processos de degradação e revitalização, enquanto o movimento dos corpos molda a experiência sensorial e emocional do espaço. A pesquisa mostra como a sobreposição temporal e a interação constante entre arquitetura, história e corpos em movimento reconfiguram a paisagem urbana, oferecendo uma leitura renovada das cidades contemporâneas e das experiências que nelas se desenrolam.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.18830/1679-09442025v18e53833",
+     "doi": "10.18830/1679-09442025v18e53833",
+     "paginas": "e53833",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.18830/1679-09442025v18e54193",
+     "titulo": "Zoneamento climático e conforto térmico para edificações habitacionais em Moçambique",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Mariana Navarro Benevides",
+       "orcid": "https://orcid.org/0000-0002-0042-2890"
+      },
+      {
+       "nombre": "Laura Figueiredo Machado",
+       "orcid": "https://orcid.org/0000-0002-0383-2262"
+      },
+      {
+       "nombre": "Joyce Correna Carlo",
+       "orcid": "https://orcid.org/0000-0003-3868-0307"
+      }
+     ],
+     "resumen": "Este estudo propôs zonas climáticas para edificações em Moçambique usando técnicas de estatística multivariada, a identificação de estratégias construtivas recomendadas para cada grupo e a análise de conforto térmico das habitações representativas a partir de simulações termoenergéticas. Com a aplicação da Análise de Componentes Principais, selecionaram-se as variáveis mais relevantes, com destaque para temperatura e pressão de vapor. Em seguida, com a Análise de Agrupamento Hierárquico definiu-se três zonas climáticas para o país. Para as zonas, observou-se alta demanda por estratégias construtivas, como ventilação diurna e inércia térmica com aquecimento solar para que ocorra o aumento nas horas anuais de conforto. As simulações das habitações tradicionais e contemporâneas mostraram resultados similares, porém, com maior percentual de horas de conforto para a contemporânea. Dessa forma, este estudo amplia conhecimentos sobre a realidade das habitações em Moçambique e os parâmetros construtivos que as influenciam.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.18830/1679-09442025v18e54193",
+     "doi": "10.18830/1679-09442025v18e54193",
+     "paginas": "e54193",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.18830/1679-09442025v18e54350",
+     "titulo": "Controle de ruídos nos sistemas prediais hidrossanitários",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Dariane Gomes Rocha",
+       "orcid": "https://orcid.org/0000-0002-2836-1495"
+      },
+      {
+       "nombre": "Lais Aparecida Ywashima",
+       "orcid": "https://orcid.org/0000-0002-6845-766X"
+      },
+      {
+       "nombre": "Cibele de Moura Guimarães",
+       "orcid": "https://orcid.org/0000-0002-9976-7206"
+      },
+      {
+       "nombre": "Ricardo Prado Abreu Reis",
+       "orcid": "https://orcid.org/0000-0002-1252-1976"
+      }
+     ],
+     "resumen": "Esta revisão sistemática de literatura foi realizada com objetivo de explorar o estado da arte e evidenciar lacunas na literatura científica na área de ruídos gerados pelo uso de sistemas prediais hidrossanitários em edificações residenciais. São apresentados resultados quantitativos e qualitativos, bem como quadro relacionando o estado da arte versus as necessidades e oportunidades desta área de estudo. Apesar de haver poucas publicações da temática em revistas indexadas nas principais bases de pesquisa, notou-se ser comum o estudo sobre o incômodo causado por esse tipo de ruído e sobre formas de controlá-lo. Espera-se com os resultados obtidos contribuir com: (a) o mapeamento das principais referências científica e técnica da literatura; (b) com o estado da arte das pesquisas e discussões pertinentes ao controle de ruído nas instalações hidrossanitárias; e (c) a identificação das principais lacunas de pesquisa. Os resultados proporcionam melhor entendimento do desempenho acústico relacionado ao uso de ambientes hidrossanitários, auxiliando na busca por garantir o conforto e o bem-estar dos usuários de edificações residenciais.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.18830/1679-09442025v18e54350",
+     "doi": "10.18830/1679-09442025v18e54350",
+     "paginas": "e54350",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.18830/1679-09442025v18e54505-en",
+     "titulo": "The masculine and the masculinity in architecture",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Carolina Rodrigues Boaventura",
+       "orcid": "https://orcid.org/0009-0003-1998-0862"
+      },
+      {
+       "nombre": "Deusa Maria Rodrigues Boaventura",
+       "orcid": "https://orcid.org/0000-0003-4580-817X"
+      }
+     ],
+     "resumen": "From the Antiquity to Modernity, the discipline's treatises that discuss the precepts of good Western architecture have chosen the male body as the appropriate proportionality parameter for the building conception. These writings also often associates the male body as a reference of austerity, rigor, rationality and objectivity. However, the body and the male considered as canonical by the discipline refers only to certain structures, measurements, proportions and attributes. However, the body and the masculinity considered as canonical by the discipline refers only to certain structures, measurements, proportions and attributes. Therefore, it leaves out other expressions of corporeality and masculinity. In this sense, the article examines the architectural role in both cultural and social construction of the ideal male body and masculinity by revisiting the main architectural manuals. Without aiming to propose a new paradigm of the body, this essay explores how some experiences in contemporary art highlight the repetition of virility symbols and expose the canonical structures of masculinity reinforced by the history of architecture.",
+     "idioma_resumen": "en",
+     "licencia": null,
+     "url": "https://doi.org/10.18830/1679-09442025v18e54505-en",
+     "doi": "10.18830/1679-09442025v18e54505-en",
+     "paginas": "e54505",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.18830/1679-09442025v18e54505",
+     "titulo": "masculino e a masculinidade na arquitetura",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Carolina Rodrigues Boaventura",
+       "orcid": "https://orcid.org/0009-0003-1998-0862"
+      },
+      {
+       "nombre": "Deusa Maria Rodrigues Boaventura",
+       "orcid": "https://orcid.org/0000-0003-4580-817X"
+      }
+     ],
+     "resumen": "Da Antiguidade à Modernidade, os tratados da disciplina que versam sobre os preceitos da boa arquitetura ocidental, elegeram o corpo do homem como o parâmetro de proporcionalidade adequada para a ideação dos edifícios. Estes escritos também comumente associam o masculino como referência de austeridade, rigor, racionalidade e objetividade. Todavia, o corpo e o masculino tomados como canônico pela disciplina se referem apenas à determinadas estruturas, medidas, proporções e atributos. Excluem, portanto, as demais expressões de corporeidade e de masculinidade. Neste sentido, o artigo discute o papel da arquitetura na construção cultural e social do ideal de corpo masculino e de masculinidade por meio da retomada dos principais manuais da arquitetura que estabelecem relações construtivas e simbólicas entre corpo e arquitetura. Sem almejar propor um novo paradigma de corpo, observa-se como algumas experiências na arte contemporânea denunciam a repetição dos símbolos de virilidade e tensionam as estruturas canônicas das masculinidades reforçadas pela história da arquitetura.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.18830/1679-09442025v18e54505",
+     "doi": "10.18830/1679-09442025v18e54505",
+     "paginas": "e54505",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.18830/1679-09442025v18e54530",
+     "titulo": "Efeito da vegetação no microclima urbano",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Marco Antonio Milazzo De Almeida",
+       "orcid": "https://orcid.org/0000-0002-8570-9929"
+      },
+      {
+       "nombre": "Louise Land Bittencourt Lomardo",
+       "orcid": "https://orcid.org/0009-0001-9515-7734"
+      }
+     ],
+     "resumen": "Este artigo tem como objetivo analisar a influência da vegetação em uma rua do Rio de Janeiro, em um bairro consolidado, avaliando o impacto de diferentes cenários na temperatura e umidade relativa do ar, utilizando simulações computacionais com o software ENVI-met 5 e a linguagem Python. Foram comparados a situação existente da rua no ano de 2018, com sete diferentes cenários hipotéticos, utilizando duas espécies de vegetação arbórea, coberturas e fachadas verdes. Verificou-se que: [1] nas condições climáticas adotadas, as diferenças entre os cenários foram pequenas; [2] a adoção de diferentes espécies arbóreas e a variação da sua quantidade não promoveu resultados médios significativos; [3] a partir das características morfológicas da Rua Fernando Osório, o uso de fachadas verdes obteve as menores temperaturas e as maiores umidades relativas do ar médias e pontuais entre os cenários; [4] para alcançar bons níveis higrotérmicos nas ruas dos centros urbanos consolidados, garantindo a sustentabilidade e eficiência geral do sistema, podem ser adotadas soluções combinadas das diferentes aplicações de vegetação.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.18830/1679-09442025v18e54530",
+     "doi": "10.18830/1679-09442025v18e54530",
+     "paginas": "e54530",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.18830/1679-09442025v18e54639",
+     "titulo": "propriedade-realidade na história urbana",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Gustavo Rodrigo Faccin Araujo de Souza",
+       "orcid": "https://orcid.org/0000-0001-7552-1511"
+      }
+     ],
+     "resumen": "Neste artigo, são analisados dois registros e dois cadastros imobiliários produzidos pelo Município de Florianópolis entre 1888 e 1904, à luz das transformações mais gerais nas formas de gestão da propriedade imobiliária urbana que atravessaram os municípios brasileiros na virada entre os séculos XIX e XX. Busca-se uma compreensão maior da propriedade-realidade na história urbana, tendo os cadastros e registros como fonte fundamental para o conhecimento das formas de propriedade, dos principais proprietários, dos níveis de concentração imobiliária, além do modo de produção desses documentos no período. Para o caso de Florianópolis, os dados revelam considerável nível de concentração de imóveis, indicam as variações da valorização imobiliária e mostram tensionamentos relacionados ao reconhecimento dos direitos de propriedade.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.18830/1679-09442025v18e54639",
+     "doi": "10.18830/1679-09442025v18e54639",
+     "paginas": "e54639",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.18830/1679-09442025v18e55243",
+     "titulo": "Sonho de Euclides",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Daniel Juracy Mellado Paz",
+       "orcid": "https://orcid.org/0000-0002-2119-5850"
+      }
+     ],
+     "resumen": "Este artigo trata de estudar os projetos do arquiteto Mies van der Rohe (1886-1969) do período de 1923 a 1938 vistos como uma exploração particular da ideia da arquitetura como geometria, em especial do espaço delineado por meio de superfícies planas verticais e horizontais. Verificamos essa investigação do arquiteto como uma constante, com desenvolvimento de recursos próprios, desde os projetos ideais não construídos, os projetos reais não construídos, os espaços expositivos temporários e os edifícios construídos, em graus de intensidade diferente.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.18830/1679-09442025v18e55243",
+     "doi": "10.18830/1679-09442025v18e55243",
+     "paginas": "e55243",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.18830/1679-09442025v18e55359-en",
+     "titulo": "Housing as an issue between 1920 and 1965: circulation of ideas and shaping of the field in the Pan-American Congresses of Architects",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Camila Ferrari",
+       "orcid": "https://orcid.org/0000-0001-5654-008X"
+      }
+     ],
+     "resumen": "In the first half of the 20th century, there was an increase in the exchange of ideas between architects and urban planners, especially through professional meetings, where the issue of housing occupied a prominent place. In several Latin American countries during the same period, it is possible to recognize similarities in housing production, highlighting its understanding as a state issue and its formal aspect as a housing complex. Understanding the issue of housing as a problem extended to a vast region, based on the analysis of the Pan-American Congresses of Architects, the paper discusses the circulation of ideas around the theme as a contribution to processes of institutionalization of housing production in Latin American countries, taking as cases Brazil and Argentina, emphasizing the role of architectural culture in this process.",
+     "idioma_resumen": "en",
+     "licencia": null,
+     "url": "https://doi.org/10.18830/1679-09442025v18e55359-en",
+     "doi": "10.18830/1679-09442025v18e55359-en",
+     "paginas": "e55359",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.18830/1679-09442025v18e55359",
+     "titulo": "habitação como questão entre 1920 e 1965",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Camila Ferrari",
+       "orcid": "https://orcid.org/0000-0001-5654-008X"
+      }
+     ],
+     "resumen": "Na primeira metade do século XX se verifica a ampliação do intercâmbio de ideias entre arquitetos e urbanistas através de encontros profissionais e circulação de publicações, onde a questão da habitação ocupa lugar de destaque. Em diversos países da América Latina no mesmo período é possível reconhecer semelhanças no enfrentamento da questão da habitação, destacando-se sua compreensão como questão estatal e seu aspecto formal, como conjunto habitacional. Filiando-se metodologicamente à história transnacional pela compreensão da questão da habitação como problema ampliado a uma vasta região, a partir da análise de atas de congressos e periódicos do período, se discute a circulação de ideias em torno do tema como aporte a processos de institucionalização da produção habitacional em países latinoamericanos, tendo como casos Brasil e Argentina.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.18830/1679-09442025v18e55359",
+     "doi": "10.18830/1679-09442025v18e55359",
+     "paginas": "e55359",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.18830/1679-09442025v18e55895",
+     "titulo": "estratégias para aprovação do monumento a Carlos Marighella na Alameda Casa Branca, em São Paulo",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Mariana Mendonça Tessitore",
+       "orcid": "https://orcid.org/0000-0002-5091-587X"
+      }
+     ],
+     "resumen": "Instalado em 1999, o monumento a Carlos Marighella (1911-1969) está localizado na Alameda Casa Branca, em São Paulo, local onde o guerrilheiro foi assassinado em 1969. Fruto de uma iniciativa da sociedade civil, a obra foi aprovada pela Prefeitura de São Paulo e hoje integra o patrimônio municipal da cidade. Este artigo aborda as estratégias adotadas para conseguir o aval da prefeitura, na época comandada por Celso Pitta, a um monumento que homenageia uma das principais lideranças de esquerda do país. São analisadas quais narrativas em torno de Marighella foram mobilizadas no processo de aprovação do monumento, identificando os atores e estratégias envolvidas na legitimação da obra. A partir de fontes de imprensa, documentos e entrevistas com os envolvidos no projeto, além de referências bibliográficas, o artigo aborda como a memória de Marighella, e da própria experiência da luta armada, é fonte de disputa na sociedade. Mostra, ainda, como as tensões entre lembrança e esquecimento são utilizadas e moldadas conforme as necessidades e estratégias dos movimentos políticos.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.18830/1679-09442025v18e55895",
+     "doi": "10.18830/1679-09442025v18e55895",
+     "paginas": "e55895",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.18830/1679-09442025v18e55989",
+     "titulo": "vida como ela é",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Dely Bentes",
+       "orcid": "https://orcid.org/0000-0001-5016-8125"
+      }
+     ],
+     "resumen": "O artigo parte do entendimento da arquitetura residencial como um artefato de cultura e, a partir desta premissa, investiga as representações da domesticidade através das publicações da revista Casa & Jardim da década de 1980. A pesquisa tem como objetivo revelar como os projetos de casas, apresentados sem o verniz característico das publicações especializadas, expõem as dinâmicas sociais e de gênero presentes nas configurações da moradia burguesa. A metodologia envolve a análise das narrativas e imagens que acompanham os projetos publicados, permitindo evidenciar o papel ativo do cliente na criação de espaços que atendem a desejos e necessidades individuais. Os principais resultados indicam que a revista promove uma representação mais próxima da realidade cotidiana, onde os projetos arquitetônicos não são apenas vistos como objetos de arte, mas como cenários da vida diária. A pesquisa identifica que as soluções espaciais frequentemente perpetuam estereótipos de gênero e de classe, destacando a segregação entre moradores e seus empregados. Em conclusão, Casa & Jardim funciona como um documento involuntário que captura a vida privada e as complexas relações sociais, sugerindo que a arquitetura é moldada por sua realidade sociocultural, influenciada por múltiplas variáveis externas e internas.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.18830/1679-09442025v18e55989",
+     "doi": "10.18830/1679-09442025v18e55989",
+     "paginas": "e55989",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.18830/1679-09442025v18e55999-en",
+     "titulo": "The constitution of the field of Urban Design in Brazil through the Urban Design Seminars (1984-1991)",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Carolina Pescatori",
+       "orcid": "https://orcid.org/0000-0002-4361-2598"
+      },
+      {
+       "nombre": "Dinalva Roldan",
+       "orcid": "https://orcid.org/0000-0002-2485-5041"
+      },
+      {
+       "nombre": "Maria Cristina Leme",
+       "orcid": "https://orcid.org/0000-0002-5829-350X"
+      },
+      {
+       "nombre": "Renato Leão Rego",
+       "orcid": "https://orcid.org/0000-0003-1822-2907"
+      }
+     ],
+     "resumen": "This article explores the constitution of urban design in Brazil, by problematizing its key concepts, references, precedents, repercussions, and contributions, which are essential to understanding the discipline within the national context. This task is undertaken by focusing on the Urban Design Seminars (SEDUR), organized by professors from the University of Brasília and held in the Brazilian capital in 1984, 1986, 1988 and 1991. Taking the proceedings of the seminars as its object of study (while noting that the 1988 edition did not publish the presented papers), this article seeks to understand how urban design constituted a specific field in Brazil. To this end, it presents the context in which the SEDURs took place, analyzes the papers published in the proceedings of the seminars and the trajectory of their authors, and discusses their contribution.",
+     "idioma_resumen": "en",
+     "licencia": null,
+     "url": "https://doi.org/10.18830/1679-09442025v18e55999-en",
+     "doi": "10.18830/1679-09442025v18e55999-en",
+     "paginas": "e55999",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.18830/1679-09442025v18e55999",
+     "titulo": "constituição do campo do Desenho Urbano no Brasil a partir dos Seminários de Desenho Urbano (1984-1991)",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Carolina Pescatori",
+       "orcid": "https://orcid.org/0000-0002-4361-2598"
+      },
+      {
+       "nombre": "Dinalva Derenzo Roldan",
+       "orcid": "https://orcid.org/0000-0002-2485-5041"
+      },
+      {
+       "nombre": "Maria Cristina Da Silva Leme",
+       "orcid": "https://orcid.org/0000-0002-5829-350X"
+      },
+      {
+       "nombre": "Renato Leão Rego",
+       "orcid": "https://orcid.org/0000-0003-1822-2907"
+      }
+     ],
+     "resumen": "Interessado na constituição do desenho urbano no Brasil, este artigo problematiza conceitos, referências, precedentes, repercussão e contribuições fundamentais para o entendimento da disciplina no âmbito nacional a partir dos Seminários de Desenho Urbano (SEDUR), organizados por professores da Universidade de Brasília (UnB) e realizados na capital federal em 1984, 1986, 1988 e 1991. Tomando como objeto de estudo os anais dos seminários realizados (lembrando que a edição de 1988 não publicou os trabalhos apresentados), este artigo trata de compreender como o Desenho Urbano constituiu um campo específico no Brasil. Para tanto, apresenta o contexto da realização do SEDUR, explora os trabalhos publicados nos anais dos seminários e a trajetória dos seus autores, e discute a sua contribuição.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.18830/1679-09442025v18e55999",
+     "doi": "10.18830/1679-09442025v18e55999",
+     "paginas": "e55999",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.18830/1679-09442025v18e56765-en",
+     "titulo": "Deviation gestures: an aesthetic discussion on inhabiting the city",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Lígia Dias",
+       "orcid": "https://orcid.org/0000-0002-0751-5926"
+      }
+     ],
+     "resumen": "Taking the present moment as a period of transformation in social, existential compositions and, consequently, transformations in the desires to constitute cities, this article proposes to make a theoretical construction of what are the gestures of deviation and how they can announce new city conformations through the body of the people who inhabit these spaces. Thus, it is intended to stabilize an understanding of what the gestures worked here would be, using contributions from philosopher Giorgio Agamben and philosopher Barbara Formis, especially when she deals with the issue of ordinary gesture. In addition, it will also seek a stabilization of what is understood by deviation, still in the philosophical field, taking authors such as Gilles Deleuze and Félix Guattari and their reflections on how a society can conform. These concepts are approximated from the field of urban through an attempt to composition of nebulae, according to Margareth da Silva Pereira, because it is understood possibilities of interlacing, but always admitting a certain instability and movement. Thus, by understanding the gestures of deviation present in the city as an enunciation of the desire for ways to live, we arrive at the identification of two possible regimes of deviation in social real related to the understanding of macropolitics and micropolitics.",
+     "idioma_resumen": "en",
+     "licencia": null,
+     "url": "https://doi.org/10.18830/1679-09442025v18e56765-en",
+     "doi": "10.18830/1679-09442025v18e56765-en",
+     "paginas": "e56765",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.18830/1679-09442025v18e56765",
+     "titulo": "Gestos do desvio",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Lígia Maria Mello Dias",
+       "orcid": "https://orcid.org/0000-0002-0751-5926"
+      }
+     ],
+     "resumen": "Ao tomar o momento atual como um período de transformação nas composições sociais, existenciais e, consequentemente, transformações nos desejos para se constituir cidades, este artigo se propõe a fazer uma construção teórica do que são os gestos do desvio e como eles podem anunciar novas conformações de cidade através do corpo das pessoas que habitam esses espaços. Dessa forma, pretende-se estabilizar um entendimento do que seriam os gestos aqui trabalhados, ao utilizar contribuições do filósofo Giorgio Agamben e da filósofa Barbara Formis, principalmente quando ela trata sobre a questão do gesto ordinário. Além disso, também se buscará uma estabilização do que se entende por desvio, ainda no campo filosófico, ao tomar autores como Gilles Deleuze e Félix Guattari e suas reflexões sobre como uma sociedade pode se conformar. Esses conceitos são aproximados do campo do urbano através de uma tentativa de composição de nebulosas, nos termos de Margareth da Silva Pereira, pois compreendem-se possibilidades de entrelaçamentos, porém sempre admitindo uma certa instabilidade e movimento. Assim, ao entender os gestos do desvio presentes na cidade como uma enunciação do desejo dos modos de habitar, chega-se à identificação de dois regimes possíveis de desvio no real social relacionados ao entendimento de macropolítica e micropolítica.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.18830/1679-09442025v18e56765",
+     "doi": "10.18830/1679-09442025v18e56765",
+     "paginas": "e56765",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.18830/1679-09442025v18e56845-en",
+     "titulo": "Sacred horizontal line: the Chapel of Nossa Senhora da Conceição by Paulo Mendes da Rocha and Eduardo Colonelli",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Felipe Noto",
+       "orcid": "https://orcid.org/0000-0001-9927-9037"
+      },
+      {
+       "nombre": "João Marcos Santos",
+       "orcid": "https://orcid.org/0009-0006-0313-556X"
+      },
+      {
+       "nombre": "Pedro Rocha",
+       "orcid": "https://orcid.org/0009-0007-2008-2129"
+      }
+     ],
+     "resumen": "This article examines the project by Paulo Mendes da Rocha and Eduardo Colonelli for the Chapel of Nossa Senhora da Conceição, built in 2006 on the grounds of Francisco Brennand’s ceramics complex in Recife, in northeastern Brazil. Horizontality, a rhetorical figure frequently invoked by Mendes da Rocha, mediates, in this project, the relationship between intervention and the pre-existing structure, while also serving as a poetic motif for the new ensemble. The chapel serves as a pretext for reflecting on other interventions carried out by the architect. As supporting references, the study draws on architect-authors such as Carlos Lemos and Alexandre Alves Costa, who frame the discussion within the field of design, as well as theorists who contribute to the proposed critical framework, including Sophia Silva Telles, Cesare Brandi, and Gustavo Giovannoni. The study analyzes design operations, with particular attention to the relationship between intervention and the existing building, suggesting that historical hierarchies are transcended by the understanding that coherence within the new ensemble is the ultimate goal to be pursued.",
+     "idioma_resumen": "en",
+     "licencia": null,
+     "url": "https://doi.org/10.18830/1679-09442025v18e56845-en",
+     "doi": "10.18830/1679-09442025v18e56845-en",
+     "paginas": "e56845",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.18830/1679-09442025v18e56845",
+     "titulo": "Sagrada linha horizontal",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Felipe de Souza Noto",
+       "orcid": "https://orcid.org/0000-0001-9927-9037"
+      },
+      {
+       "nombre": "João Marcos Pobbe dos Santos",
+       "orcid": "https://orcid.org/0009-0006-0313-556X"
+      },
+      {
+       "nombre": "Pedro Mendes da Rocha",
+       "orcid": "https://orcid.org/0009-0007-2008-2129"
+      }
+     ],
+     "resumen": "Este artigo aborda o projeto de Paulo Mendes da Rocha e Eduardo Colonelli para a Capela de Nossa Senhora da Conceição, construída em 2006, na propriedade de cerâmicas de Francisco Brennand, em Recife, no Nordeste do Brasil. A horizontalidade, figura retórica convocada frequentemente por Mendes da Rocha, media, neste projeto, a relação da intervenção com a pré-existência, ao mesmo tempo em que se oferece como motivo poético do novo conjunto. A capela serve como pretexto para refletir sobre outras intervenções realizadas pelo arquiteto. Como suporte, este artigo recorre a autores-arquitetos como Carlos Lemos e Alexandre Alves Costa, que localizam a discussão no campo do projeto e teóricos que complementam a construção critica proposta, como Sophia Silva Telles, Cesare Brandi e Gustavo Giovannoni. O estudo analisa as operações de projeto, com atenção especial à relação entre intervenção e edifício existente, sugerindo que as hierarquias históricas são transcendidas pela compreensão de que a coerência no novo conjunto é o objetivo final a ser alcançado.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.18830/1679-09442025v18e56845",
+     "doi": "10.18830/1679-09442025v18e56845",
+     "paginas": "e56845",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.18830/1679-09442025v18e56930",
+     "titulo": "núcleo urbano de Ilha Solteira (SP) na utopia da Cidade Nova no desenvolvimentismo de 1945 a 1980",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Inayara Santos Sampaio",
+       "orcid": "https://orcid.org/0000-0002-0334-9596"
+      },
+      {
+       "nombre": "Eulalia Portela Negrelos",
+       "orcid": "https://orcid.org/0000-0003-4093-9082"
+      },
+      {
+       "nombre": "Camila Ferrari",
+       "orcid": "https://orcid.org/0000-0001-5654-008X"
+      }
+     ],
+     "resumen": "O artigo busca analisar como as cidades-empresa implantadas no Brasil entre 1945 e 1980, para a construção de usinas hidrelétricas, foram instrumentos de desenvolvimento econômico regional e forjaram novas dinâmicas sociais e urbanas, representando uma fase marcante da história do planejamento territorial e urbano no país. A construção da ideia América Latina como utopia se manifesta na concepção das cidades latino-americanas como epicentros da reprodução do capital e do poder político e simbólico da ideologia desenvolvimentista. Nessa perspectiva, considera-se as Cidades Novas no Brasil como utopias concretizadas, tendo como objeto Ilha Solteira (SP), núcleo urbano de apoio a empresa estatal de geração de energia, exemplo de dispositivo de desenvolvimento econômico-territorial. A pesquisa histórica que compõe o artigo combina análise documental sobre Ilha Solteira e revisão da literatura sobre planejamento urbano e desenvolvimento territorial. Os resultados da pesquisa evidenciam as Cidades Novas como especificidade brasileira na América Latina no desenvolvimentismo, na dinâmica da “Marcha para o Oeste” como projeto estatal, indicando que Ilha Solteira, como Cidade Nova, contribuiu na urbanização do Oeste Paulista, consolidando o modelo de desenvolvimento energético e territorial.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.18830/1679-09442025v18e56930",
+     "doi": "10.18830/1679-09442025v18e56930",
+     "paginas": "e56930",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.18830/1679-09442025v18e57025",
+     "titulo": "projeto-padrão para escolas Art Déco no Rio Grande do Sul (1930-1950)",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Lisiê Kremer Cabral",
+       "orcid": "https://orcid.org/0000-0001-8139-6147"
+      },
+      {
+       "nombre": "José Henrique Carlucio Cordeiro",
+       "orcid": "https://orcid.org/0000-0001-6146-9898"
+      }
+     ],
+     "resumen": "As escolas de projeto-padrão Art Déco, no Rio Grande do Sul, idealizadas durante o governo de Getúlio Vargas, entre 1930 e 1945, fazem parte de um cenário histórico-cultural que, através da edificação e do método de ensino, tinha a intenção de moldar e controlar a sociedade riograndense. Por meio de pesquisa bibliográfica, documental, visitas e análise de projeto dessas instituições de ensino, esse trabalho tem o objetivo de expor o contexto histórico e político dessa época, de forma a esclarecer o vínculo entre a arquitetura escolar e os princípios administrativos do Estado. Como resultado dessa pesquisa, foram identificadas 39 escolas com projeto-padrão Art Déco no Rio Grande do Sul, planejadas pelo engenheiro João Baptista Pianca, que consolidaram a relação entre uma nova linguagem de arquitetura, um novo método de ensino e uma política de governo. Essa pesquisa relaciona a arquitetura enquanto ação social, vinculando programa, partido e estilo arquitetônico com as demandas socioculturais, atribuídas pelo próprio Estado. Problematiza-se e enfatiza-se a discussão sobre a linguagem Art Déco, política e edificações públicas, culminando na conformação das escolas de projeto-padrão do Rio Grande do Sul.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.18830/1679-09442025v18e57025",
+     "doi": "10.18830/1679-09442025v18e57025",
+     "paginas": "e57025",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.18830/1679-09442025v18e57037-en",
+     "titulo": "Between methodologies and practices: an outreach experiment at the intersection of Architecture and Anthropology",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Priscila Risi",
+       "orcid": "https://orcid.org/0000-0002-7105-7253"
+      }
+     ],
+     "resumen": "This article aims to present and reflect on a combination of teaching methodologies, particularly the relationship between architecture and anthropology, as applied in an outreach experiment. Thus, it focuses on a specific segment of a project called Casas Coloridas [Colorful Houses], developed with students from the architecture and urbanism undergraduate program at the Centro Universitário UDF, as part of a doctoral research project at the Universidade de Brasília, concluded in 2021. Drawing on Jorge Larrosa Bondía’s concept of learning through experience, the article details the development of this outreach project, from the initial meetings and theoretical approaches, through the empirical routines established by the group during meetings, to a description of key activities involved in the development of the project. Based on this experience, it reflects on fieldwork as a foundational practice for mediating between theory and the critical teaching of architecture, seeking pedagogical insights in the field, underscored by Carlos Rodrigues Brandão's concept of contamination. The study thus demonstrates that such an approach serves as a valuable teaching tool with significant implications for teaching practice, encouraging students to broaden their observations and develop nuanced understandings of social and spatial relationships.",
+     "idioma_resumen": "en",
+     "licencia": null,
+     "url": "https://doi.org/10.18830/1679-09442025v18e57037-en",
+     "doi": "10.18830/1679-09442025v18e57037-en",
+     "paginas": "e57037",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.18830/1679-09442025v18e57037",
+     "titulo": "Entre metodologias e fazeres",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Priscila Erthal Risi",
+       "orcid": "https://orcid.org/0000-0002-7105-7253"
+      }
+     ],
+     "resumen": "Este artigo tem como objetivo apresentar e refletir sobre a combinação de metodologias de ensino, em especial a relação entre Arquitetura e Antropologia, aplicada a uma experiência extensionista. Dessa forma, faz um pequeno recorte do projeto extensionista experimental denominado “Casas Coloridas”, desenvolvido com alunos do curso de Arquitetura e Urbanismo do Centro Universitário UDF, durante uma pesquisa de doutorado na Universidade de Brasília, defendida em 2021. Embasada na ideia de educação pela experiência de Jorge Larrosa Bondía, o artigo apresenta a montagem do projeto extensionista, desde as primeiras reuniões e investidas teóricas, passando desde a rotina de atividades empíricas estabelecida pelo grupo durante reuniões até a descrição de atividades-chave do desenvolvimento do trabalho. A partir dessa experiência, o artigo traz reflexões sobre o exercício do trabalho de campo como fundamento para a modulação entre teoria e ensino crítico da arquitetura e busca, na experiência de campo, reflexões de natureza pedagógica, sublinhadas pelo conceito de contaminação de Carlos Rodrigues Brandão. Demonstra, com isso, ser um instrumento didático com importantes impactos na prática pedagógica, estimulando os estudantes a aprofundarem suas observações e formas de enxergar as relações sociais e espaciais.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.18830/1679-09442025v18e57037",
+     "doi": "10.18830/1679-09442025v18e57037",
+     "paginas": "e57037",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.18830/1679-09442025v18e57114",
+     "titulo": "Estética, pragmatismo e um ideal de habitar ecológico",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Gabriela Lima Mascarenhas Moreira",
+       "orcid": "https://orcid.org/0000-0002-7558-0199"
+      },
+      {
+       "nombre": "Eluiza Bortolotto Ghizzi",
+       "orcid": "https://orcid.org/0000-0002-4770-625X"
+      }
+     ],
+     "resumen": "Neste artigo, interessamo-nos por desenvolvimentos do conhecimento arquitetônico contemporâneo concomitantes ao contexto de crise ambiental, assinalando a necessidade de revisão dos fundamentos da arquitetura, em seu propósito de mediar a experiência de habitar o mundo. Partimos do reconhecimento de que a ecologia se consolida como um elemento da cultura global, fomentando essa crítica. Assim, ao conduzir essa reflexão, consideramos, inicialmente, a influência do pensamento ecológico sobre a teoria recente da arquitetura, desdobrando-se na revisão das definições convencionais de arquitetura e natureza. Admitindo, além disso, que essas ideias encontram continuidade no âmbito da prática, observamos, em especial, a importância atribuída à dimensão estética da arquitetura na busca por modelos coerentes com um ideal ecológico, entendendo que este exige uma postura não-antropocêntrica, não-dualista e não limitada a um racionalismo. Propomos, então, que a filosofia pragmatista de Charles Sanders Peirce, na relação que estabelece entre pragmatismo e estética, adequa-se a orientar esse olhar sobre ecologias arquitetônicas possíveis. Em seguida, portanto, analisamos conceitos da filosofia peirciana, com ênfase no papel da estética em relação aos ideais que guiam nossos sentimentos, ações e pensamentos. Consideramos, então, a relevância do pragmatismo, articulado na interação entre teoria e prática, para refletir sobre a manifestação de um ideal ecológico como um estágio do conhecimento em arquitetura.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.18830/1679-09442025v18e57114",
+     "doi": "10.18830/1679-09442025v18e57114",
+     "paginas": "e57114",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.18830/1679-09442025v18e57252",
+     "titulo": "Tunga e a Escola de Arquitetura de Valparaíso nos anos 1960-70",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Julia Cavalcante de Andrade",
+       "orcid": "https://orcid.org/0000-0001-5554-1806"
+      },
+      {
+       "nombre": "Priscilla Alves Peixoto",
+       "orcid": "https://orcid.org/0000-0002-7809-2633"
+      }
+     ],
+     "resumen": "Tunga (1952–2016), nome de Antônio José de Barros Carvalho e Mello Mourão, é uma figura marcante na arte contemporânea. Mesmo amplamente reconhecido, aspectos biográficos, como suas experiências em Arquitetura nas décadas de 1960 e 1970, permanecem ainda pouco explorados. Sendo assim, este trabalho busca compreender as vivências iniciais do artista, em especial aquelas que envolvem o seu contato com a Escola de Arquitetura de Valparaíso e os “Atos Poéticos”, evidenciando como – para Tunga e para a escola – poesia, arquitetura e artes visuais convergem em práticas poéticas. Práticas que se materializam em palavras, em instalações e em diversos atos, sobretudo coletivos que irrompem a vida através da poesia. A investigação, desse modo, oferece uma nova perspectiva para a compreensão da obra de Tunga, ressaltando como experiências pedagógicas transnacionais entre Brasil e Chile, tidas naquele momento e através de interlocuções mantidas, enriqueceram sua prática poética. A pesquisa, por sua vez, fundamenta-se em um referencial teórico-metodológico que privilegia dimensões biográficas e de arquivo, destacando a “biografia intelectual” de François Dosse e o conceito de “biografema” de Roland Barthes. O corpus da pesquisa é composto por um diversificado conjunto de fontes provenientes tanto do arquivo do Instituto Tunga quanto do arquivo da Escola de Arquitetura e Design da PUCV.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.18830/1679-09442025v18e57252",
+     "doi": "10.18830/1679-09442025v18e57252",
+     "paginas": "e57252",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.18830/1679-09442025v18e57493-en",
+     "titulo": "Landscape Information Modeling (LIM): a framework for responsive landscape design",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Tainah Carvalho",
+       "orcid": "https://orcid.org/0000-0001-5497-9304"
+      },
+      {
+       "nombre": "Newton Becker",
+       "orcid": "https://orcid.org/0000-0003-0541-2680"
+      }
+     ],
+     "resumen": "Responsive landscape projects use information modeling to design dynamic urban environments, where the built environment continuously interacts with the natural landscape. This article explores the theoretical dimension of Landscape Information Modeling (LIM) through a systematic review of established references and recent scientific productions. The advancement of information technologies demands new paradigms in urban planning, particularly in landscape approaches. The adopted methodology encompasses a systematic review of articles published until 2024, focusing on the period from 2000 to 2024, identified 1,647 studies, from which 15 were selected for detailed analysis. The research discusses the potentialities and limitations of LIM in practice, highlighting its innovation compared to traditional methodologies. As a result, a framework for applying LIM in landscape design is proposed, demonstrating its contributions to urban planning. This study aims to consolidate the concept as a theoretical reference and contribute to the enhancement of contemporary landscape planning and design practices.",
+     "idioma_resumen": "en",
+     "licencia": null,
+     "url": "https://doi.org/10.18830/1679-09442025v18e57493-en",
+     "doi": "10.18830/1679-09442025v18e57493-en",
+     "paginas": "e57493",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.18830/1679-09442025v18e57716",
+     "titulo": "Segregação socioespacial e distanciamento físico e social",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Ronaldo Mansur",
+       "orcid": "https://orcid.org/0009-0003-1450-623X"
+      },
+      {
+       "nombre": "Thamiris Calegari Rodrigues",
+       "orcid": "https://orcid.org/0000-0003-0474-1116"
+      },
+      {
+       "nombre": "Lucas Berdague Corrêa",
+       "orcid": "https://orcid.org/0000-0002-5811-8461"
+      },
+      {
+       "nombre": "Teresa Cristina de Almeida Faria",
+       "orcid": "https://orcid.org/0000-0002-8716-1178"
+      },
+      {
+       "nombre": "Rosana Aparecida Pimenta",
+       "orcid": "https://orcid.org/0000-0002-1367-5280"
+      }
+     ],
+     "resumen": "A pandemia da covid-19 potencializou diversos problemas urbanos, como a segregação socioespacial e as formas de distribuição populacional, considerando que populações mais vulneráveis economicamente sofreram seus efeitos de forma mais severa. O objetivo deste ensaio é promover reflexões para o pós-pandemia, exemplificando o caso do município de Viçosa (MG) como um fenômeno de segregação socioespacial. Para isso, foi realizada uma revisão bibliográfica de natureza narrativa, com o intuito de discutir a segregação socioespacial dentro da experiência supracitada, a partir de conceitos como distanciamento físico e social, a distância social, o fenômeno da segregação socioespacial e a manifestação de uma dicotomia urbana. O texto evidencia a adaptação das cidades à emergência pandêmica como um fator que precisou compreender as especificidades da composição socioespacial local. As desigualdades provocadas pela segregação socioespacial em Viçosa (MG) surgem da precariedade da infraestrutura e dependência do transporte público, considerando que as populações periféricas e de baixa renda foram mais afetadas pelas medidas de distanciamento físico. A concentração dos serviços públicos no centro urbano intensificou e revelou uma dicotomia urbana marcada por distâncias físicas e simbólicas.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.18830/1679-09442025v18e57716",
+     "doi": "10.18830/1679-09442025v18e57716",
+     "paginas": "e57716",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.18830/1679-09442025v18e58355-en",
+     "titulo": "Project and abstraction",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Carlos Alberto Maciel",
+       "orcid": "https://orcid.org/0000-0002-5128-5961"
+      }
+     ],
+     "resumen": "Departing from a concise survey of the theme of abstraction in architecture, this article proceeds to develop a critical reading of Toward an Architecture, written in 1923 by Le Corbusier, examining the architect's arguments in contrast with his projects and built works, focusing on the publication's emphasis on abstract design principles and, conversely, their attenuation or transcendence in his later works. Between the manifesto-like simplicity of the objective discourse and the tectonic and circumstantial complexity of the project and the built work, a critical gap emerges, allowing for a discussion of design practices more engaged with the concrete aspects of pre-existing conditions and diverse material and technical possibilities. In conclusion, the article draws a parallel between Le Corbusier and a work by Lina Bo Bardi – Casa Valéria Cirell – to highlight distinct approaches to architectural design processes, contrasting the generic-abstract with the specific-concrete.",
+     "idioma_resumen": "en",
+     "licencia": null,
+     "url": "https://doi.org/10.18830/1679-09442025v18e58355-en",
+     "doi": "10.18830/1679-09442025v18e58355-en",
+     "paginas": "e58355",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.18830/1679-09442025v18e58355",
+     "titulo": "Projeto e abstração",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Carlos Alberto Maciel",
+       "orcid": "https://orcid.org/0000-0002-5128-5961"
+      }
+     ],
+     "resumen": "Partindo de uma breve revisão sobre o tema da abstração em arquitetura, esse artigo desenvolve uma leitura crítica do livro Por uma Arquitetura, escrito em 1923 por Le Corbusier, confrontando os argumentos do arquiteto com sua obra construída, focalizando a ênfase, na publicação, de princípios projetuais abstratos e, em contrapartida, sua atenuação ou superação na obra posterior. Entre a simplicidade do discurso objetivo em forma de manifesto e a complexidade tectônica e circunstancial do projeto e da obra construída verifica-se um intervalo crítico que permite apontar práticas de projeto mais comprometidas com aspectos concretos das pré-existências e das diversas materialidades e técnicas possíveis. Ao final, o artigo promove uma aproximação entre Le Corbusier e uma obra de Lina Bo Bardi – Casa Valéria Cirell – para explicitar as distintas abordagens entre o genérico-abstrato e o específico-concreto nos processos de projeto.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.18830/1679-09442025v18e58355",
+     "doi": "10.18830/1679-09442025v18e58355",
+     "paginas": "e58355",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.18830/1679-09442025v18e58697",
+     "titulo": "Pátio ou recuo?",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Luciana Andrade dos Passos",
+       "orcid": "https://orcid.org/0000-0002-2772-9905"
+      },
+      {
+       "nombre": "Ana Carollyne Dantas de Lima",
+       "orcid": "https://orcid.org/0000-0002-2735-4090"
+      },
+      {
+       "nombre": "Luana Santos da Costa da Silveira",
+       "orcid": "https://orcid.org/0009-0002-7015-8412"
+      }
+     ],
+     "resumen": "Este artigo busca compreender os tipos de áreas externas de instituições de Educação Infantil. Em específico, o objetivo é relacionar a configuração formal bidimensional das áreas externas com as demandas das diferentes práticas pedagógicas e da legislação vigente. Para tanto, adotou-se a abordagem exploratória quali-quantitativa. Imagens de satélite subsidiaram a análise comparativa entre área livre x área construída das unidades de Educação Infantil mantidas pelo Poder Público Municipal de João Pessoa (PB), em funcionamento no ano de 2023. Os resultados apontam para seis tipologias de áreas livres externas, com base no que se refere à configuração figura-fundo observada na implantação da edificação no lote. Tal classificação revelou a submissão dos espaços livres externos às formas arquitetônicas, gerando recuos e configurações residuais definidoras das suas áreas externas. Sugere-se que as diretrizes governamentais não apenas definam um percentual mínimo de áreas externas, mas também estimulem a concepção de tipologias arquitetônicas atenta às formas e funções dos espaços externos livres. Espera-se que isso resulte em pátios descobertos adequados às necessidades da infância.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.18830/1679-09442025v18e58697",
+     "doi": "10.18830/1679-09442025v18e58697",
+     "paginas": "e58697",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.18830/1679-09442025v18e58941",
+     "titulo": "Perspectivas da pessoa idosa hospitalizada",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Simone Borges João de Campos",
+       "orcid": "https://orcid.org/0009-0009-1092-3494"
+      },
+      {
+       "nombre": "Lizandra Garcia Lupi Vergara",
+       "orcid": "https://orcid.org/0000-0001-7631-8443"
+      },
+      {
+       "nombre": "Maíra Longhinotti Felippe",
+       "orcid": "https://orcid.org/0000-0001-9483-1654"
+      },
+      {
+       "nombre": "João Paulo Lucchetta Pompermaier",
+       "orcid": "https://orcid.org/0000-0001-5994-5744"
+      }
+     ],
+     "resumen": "A arquitetura hospitalar é essencial para o bem-estar dos pacientes, especialmente dos idosos, que enfrentam sérios desafios físicos e emocionais durante a internação. Com a projeção do IBGE de que a população acima de 60 anos triplicará até 2030, torna-se urgente que essa longevidade seja acompanhada por significativas melhorias na saúde e na qualidade de vida. Este estudo teve como objetivo descrever as necessidades e expectativas do paciente idoso em relação ao quarto de internação hospitalar. A coleta de dados foi realizada em um hospital público de Florianópolis (SC) e envolveu duas técnicas principais: a aplicação de EmoCards, que auxiliaram na expressão emocional dos participantes, e entrevistas semiestruturadas, que permitiram aprofundar suas experiências. Os resultados evidenciaram atributos ambientais que favorecem a permanência e o conforto dos pacientes idosos, proporcionando uma compreensão mais ampla de suas necessidades e expectativas, enfatizando a importância de garantir uma circulação adequada nos ambientes e criar áreas específicas para o armazenamento de pertences. Além disso, o conforto dos acompanhantes é um fator importante, já que aqueles que acompanham os pacientes têm um papel significativo no bem-estar geral. Esses aspectos emergiram como fundamentais para melhorar a experiência da pessoa idosa durante a internação.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.18830/1679-09442025v18e58941",
+     "doi": "10.18830/1679-09442025v18e58941",
+     "paginas": "e58941",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.18830/1679-09442025v18e58941-en",
+     "titulo": "Perspectives of hospitalized elderly individuals: an analysis of perceptions and expectations for the hospitalization environment",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Simone Campos",
+       "orcid": "https://orcid.org/0009-0009-1092-3494"
+      },
+      {
+       "nombre": "Lizandra Vergara",
+       "orcid": "https://orcid.org/0000-0001-7631-8443"
+      },
+      {
+       "nombre": "Maíra Felippe",
+       "orcid": "https://orcid.org/0000-0001-9483-1654"
+      },
+      {
+       "nombre": "João Paulo Pompermaier",
+       "orcid": "https://orcid.org/0000-0001-5994-5744"
+      }
+     ],
+     "resumen": "Hospital architecture is essential for the well-being of patients, especially the elderly, who face serious physical and emotional challenges during hospitalization. With the IBGE projecting that the population over 60 will triple by 2030, it is urgent that this longevity be accompanied by significant improvements in health and quality of life. This study aimed to describe the needs and expectations of elderly patients regarding their hospital room. Data collection was conducted in a public hospital in Florianópolis, Santa Catarina, and involved two main techniques: the use of EmoCards, which helped participants express their emotions, and semi-structured interviews, which allowed for deeper exploration of their experiences. The results highlighted environmental attributes that favour the permanence and comfort of elderly patients, providing a broader understanding of their needs and expectations, emphasizing the importance of ensuring adequate circulation in the rooms and creating specific areas for storing belongings. Furthermore, the comfort of companions is an important factor, as those who accompany patients play a significant role in their overall well-being. These aspects emerged as fundamental to improving the experience of elderly people during hospitalization.",
+     "idioma_resumen": "en",
+     "licencia": null,
+     "url": "https://doi.org/10.18830/1679-09442025v18e58941-en",
+     "doi": "10.18830/1679-09442025v18e58941-en",
+     "paginas": "e58941",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.18830/1679-09442025v18e58983",
+     "titulo": "Ambiência urbana, ou problema e virtude nas infraestruturas contemporâneas",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Dhiego Torrano",
+       "orcid": "https://orcid.org/0000-0003-2081-1188"
+      },
+      {
+       "nombre": "Fernanda Costa Neiva",
+       "orcid": "https://orcid.org/0009-0006-2296-4654"
+      }
+     ],
+     "resumen": "O presente artigo analisa o Museu Nacional dos Coches (2015), projeto de Paulo Mendes da Rocha com MMBB Arquitetos e Bak Gordon Arquitectos, a partir da relação entre contexto urbano e autonomia projetual. O objetivo é compreender como o projeto articula soluções arquitetônicas e urbanísticas para problemas de conectividade. A metodologia combina redesenho analítico de fontes primárias, elaboração de seções em corte e entrevista com o engenheiro Rui Furtado, da Afa Consult. As seções em corte constituem instrumento de compreensão das espacialidades urbanas, vinculando-se a uma tradição projetual brasileira. A análise mostra que o projeto opera por três elementos articulados – implantação, passarela e novas conexões urbanas no térreo – que humanizam as transposições infraestruturais. Conclui-se que a arquitetura contemporânea de Mendes da Rocha transforma o contexto por meio do corte, em diálogo com a tradição portuguesa, pautada na planta. O estudo evidencia as transposições urbanas como elementos estruturantes das ambiências e reforça a seção como ferramenta metodológica para a pesquisa em projeto de arquitetura.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.18830/1679-09442025v18e58983",
+     "doi": "10.18830/1679-09442025v18e58983",
+     "paginas": "e58983",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.18830/1679-09442025v18e58983-en",
+     "titulo": "Urban ambiance, or problem and virtue in contemporary infrastructures: the case of the National Coach Museum",
+     "idioma_titulo": "en",
+     "autores": [],
+     "resumen": "This article analyzes the National Coach Museum, designed by Paulo Mendes da Rocha with MMBB Arquitetos and Bak Gordon Arquitectos (2015), focusing on the relationship between urban context and design autonomy. The objective is to understand how the project articulates architectural and urban solutions for connectivity issues. The methodology combines analytical redesign of primary sources, cross-sections, and an interview with engineer Rui Furtado (Afa Consult). Cross-sections are adopted as a tool to understand urban spatialities, linked to a Brazilian design tradition. The analysis reveals that the project operates through three elements – site plan, walkway, and new ground-level connections – that humanize infrastructural transitions. Results demonstrate how contemporary Brazilian architecture, particularly in Mendes da Rocha's work, engages with context through the section, contrasting with Portuguese architecture's plan-based logic. The study highlights urban transitions as key components in shaping urban ambiences and supports the section as a methodological device in architectural design research.",
+     "idioma_resumen": "en",
+     "licencia": null,
+     "url": "https://doi.org/10.18830/1679-09442025v18e58983-en",
+     "doi": "10.18830/1679-09442025v18e58983-en",
+     "paginas": "e58983",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.18830/1679-09442025v18e59035-en",
+     "titulo": "Analysis in Urban Walkography: landscape, territory, culture, and nature along the margins of the São Gonçalo Canal, Pelotas (Brazil)",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Eduardo Rocha",
+       "orcid": "https://orcid.org/0000-0001-5446-9515"
+      },
+      {
+       "nombre": "Andrea Paola Fondevila Salcedo",
+       "orcid": "https://orcid.org/0009-0005-0220-5207"
+      },
+      {
+       "nombre": "Daniela Vieira Goularte",
+       "orcid": "https://orcid.org/0000-0001-7108-9928"
+      },
+      {
+       "nombre": "Jaqueline Harumi Dias Takahashi",
+       "orcid": "https://orcid.org/0009-0008-1326-5485"
+      },
+      {
+       "nombre": "Tais Beltrame dos Santos",
+       "orcid": "https://orcid.org/0000-0003-2529-6170"
+      }
+     ],
+     "resumen": "This article presents an urban walkography experience conducted along the margins of the São Gonçalo Canal in Pelotas, Brazil, during the first half of 2024. Through five walks performed by a group of 14 researchers, the methodological phases of recording, playing, and creating were applied, facilitating the exploration of relationships between culture, nature, and the built environment within a specific territory. Collaborative analysis, supported by an interactive table, generated a map synthesizing the walkers’ records and sensations, evidencing the production of individual and collective subjectivities. This study contributes to reflections on the integration of culture and nature in landscape and territory management, proposing new ways of apprehending and interacting with urban spaces and their margins. In a context demanding interdisciplinary and prospective approaches, the research suggests new paradigms for territorial planning and design.",
+     "idioma_resumen": "en",
+     "licencia": null,
+     "url": "https://doi.org/10.18830/1679-09442025v18e59035-en",
+     "doi": "10.18830/1679-09442025v18e59035-en",
+     "paginas": "e59035",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.18830/1679-09442025v18e59035",
+     "titulo": "Análise em Caminhografia Urbana",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Eduardo Rocha",
+       "orcid": "https://orcid.org/0000-0001-5446-9515"
+      },
+      {
+       "nombre": "Andrea Paola Fondevila Salcedo",
+       "orcid": "https://orcid.org/0009-0005-0220-5207"
+      },
+      {
+       "nombre": "Daniela Vieira Goularte",
+       "orcid": "https://orcid.org/0000-0001-7108-9928"
+      },
+      {
+       "nombre": "Jaqueline Harumi Dias Takahashi",
+       "orcid": "https://orcid.org/0009-0008-1326-5485"
+      },
+      {
+       "nombre": "Tais Beltrame dos Santos",
+       "orcid": "https://orcid.org/0000-0003-2529-6170"
+      }
+     ],
+     "resumen": "Este artigo apresenta uma experiência de caminhografia urbana realizada ao longo das margens do Canal São Gonçalo, em Pelotas, Brasil, durante o primeiro semestre de 2024. Por meio de cinco caminhadas realizadas por um grupo de 14 pesquisadores, foram aplicadas as fases metodológicas de registro, jogo e criação, possibilitando a exploração das relações entre cultura, natureza e ambiente construído em um território específico. A análise colaborativa, apoiada por uma mesa interativa digital, gerou um mapa que sintetiza os registros e sensações dos caminhantes, evidenciando a produção de subjetividades individuais e coletivas. Este estudo contribui para reflexões sobre a integração entre cultura e natureza na gestão da paisagem e do território, propondo novas formas de apreensão e interação com os espaços urbanos e as margens dos corpos d’água. Em um contexto que exige abordagens interdisciplinares e prospectivas, a pesquisa sugere novos paradigmas para o planejamento e o projeto territorial a partir de uma abordagem múltipla e contemporânea.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.18830/1679-09442025v18e59035",
+     "doi": "10.18830/1679-09442025v18e59035",
+     "paginas": "e59035",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.18830/1679-09442025v18e59408",
+     "titulo": "Indicadores de Planejamento Urbano e Transportes",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Carlla Brito Furlan Pourre",
+       "orcid": "https://orcid.org/0000-0003-2627-1557"
+      },
+      {
+       "nombre": "Marcos Thadeu Queiroz Magalhães",
+       "orcid": "https://orcid.org/0000-0003-3534-4543"
+      }
+     ],
+     "resumen": "Este artigo compara três experiências brasileiras no uso de indicadores para o planejamento urbano e de transportes – Índice de Mobilidade Urbana Sustentável (IMUS), Sistema de Indicadores de Percepção Social (SIPS) e Projeto Indicadores do Ministério dos Transportes. A avaliação considera representatividade temática, estrutura metodológica, viabilidade de coleta, mensurabilidade e aplicabilidade prática na gestão pública. A análise evidencia que o IMUS propõe uma visão ampla da mobilidade urbana sustentável, mas exige grande volume de dados e carece de diretrizes operacionais claras. O SIPS capta a percepção cidadã, porém sua descontinuidade e a falta de padronização limitam comparações temporais. O Projeto Indicadores destaca-se pela consistência conceitual, rede semântica bem definida e orientações precisas, alinhando-se à gestão por resultados. Conclui-se que a efetividade depende da qualidade técnica e da capacidade institucional de atualizar e aplicar dados no ciclo de políticas.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.18830/1679-09442025v18e59408",
+     "doi": "10.18830/1679-09442025v18e59408",
+     "paginas": "e59408",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.18830/1679-09442025v18e59408-en",
+     "titulo": "Urban Planning and Transport indicators: a comparative analysis of three Brazilian experiences",
+     "idioma_titulo": "en",
+     "autores": [],
+     "resumen": "This article compares three Brazilian experiences in using indicators for urban and transport planning – Índice de Mobilidade Urbana Sustentável (IMUS), Sistema de Indicadores de Percepção Social (SIPS), and Projeto Indicadores from the Ministry of Transport. The assessment considers thematic representativeness, methodological structure, data-collection feasibility, measurability, and practical applicability in public management. The analysis indicates that IMUS offers a broad view of sustainable urban mobility but requires a large volume of data and lacks clear operational guidelines. SIPS captures citizens’ perceptions; however, its discontinuity and lack of standardization limit time-series comparisons. The Indicator Project stands out for conceptual consistency, a well-defined semantic network, and precise guidance, aligning with results-oriented management. The conclusion is that effectiveness depends on technical quality and the institutional capacity to update and apply data throughout the policy cycle.",
+     "idioma_resumen": "en",
+     "licencia": null,
+     "url": "https://doi.org/10.18830/1679-09442025v18e59408-en",
+     "doi": "10.18830/1679-09442025v18e59408-en",
+     "paginas": "e59408",
+     "fuente": "Crossref"
+    }
+   ]
+  }
+ ]
+};

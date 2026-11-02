@@ -1,0 +1,741 @@
+// Copia de revistas/2236-7284.json para abrir la aplicación sin servidor.
+(window.DATOS_REVISTAS = window.DATOS_REVISTAS || {})["revistas/2236-7284.json"] = {
+ "version": 1,
+ "generado": "2026-11-02T05:12:34+00:00",
+ "es_prueba": false,
+ "revista": {
+  "id": "2236-7284",
+  "titulo": "Revista da Faculdade de Direito UFPR",
+  "idioma_titulo": "pt",
+  "titulo_alternativo": null,
+  "idioma_titulo_alternativo": null,
+  "idiomas": [
+   "fr",
+   "it",
+   "es",
+   "en",
+   "pt"
+  ],
+  "issn_impreso": null,
+  "issn_electronico": "2236-7284",
+  "editorial": "Sistema de Bibliotecas (SIBI) da Universidade Federal do Paraná",
+  "pais": "BR",
+  "materias": [
+   "Sociology (General)",
+   "Law in general. Comparative and uniform law. Jurisprudence"
+  ],
+  "palabras_clave": [
+   "law",
+   "legal studies",
+   "jurisprudence",
+   "brazilian law",
+   "public law",
+   "international law"
+  ],
+  "licencias": [
+   {
+    "nombre": "CC BY 4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+   }
+  ],
+  "url": "https://revistas.ufpr.br/direito/index",
+  "url_doaj": "https://doaj.org/toc/2236-7284",
+  "descripcion": null,
+  "fuente_ficha": "DOAJ",
+  "archivo": "revistas/2236-7284.json",
+  "ultimo_numero": "Vol. 71 (2026)",
+  "fuente_numeros": "Crossref"
+ },
+ "numeros": [
+  {
+   "id": "v71-2026",
+   "volumen": "71",
+   "numero": null,
+   "anio": 2026,
+   "fecha": "2026-09-25",
+   "etiqueta": "Vol. 71 (2026)",
+   "fuente": "Crossref",
+   "articulos": [
+    {
+     "id": "10.5380/rfdufpr.v71i1.100015",
+     "titulo": "Chamada para o envio de contribuições para o estudo do Comitê Assessor do Conselho de Direitos Humanos sobre o impacto da desinformação no gozo e na realização dos direitos humanos",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Antonio Vitor Barbosa de Almeida",
+       "orcid": "https://orcid.org/0000-0001-8371-7880"
+      },
+      {
+       "nombre": "Derek Assenço Creuz",
+       "orcid": "https://orcid.org/0000-0002-6252-0373"
+      },
+      {
+       "nombre": "Heloísa Fernandes Câmara",
+       "orcid": "https://orcid.org/0000-0003-3220-9266"
+      },
+      {
+       "nombre": "Estefânia Maria de Queiroz Barboza",
+       "orcid": "https://orcid.org/0000-0002-0860-1084"
+      },
+      {
+       "nombre": "Ana Letícia Szkudlarek",
+       "orcid": "https://orcid.org/0009-0001-8631-7759"
+      },
+      {
+       "nombre": "Bianca Ketlyn Anderle Correia",
+       "orcid": "https://orcid.org/0009-0007-9805-2659"
+      },
+      {
+       "nombre": "Catarina Mendes Valente Ramos",
+       "orcid": "https://orcid.org/0000-0002-4173-0443"
+      },
+      {
+       "nombre": "Davi Bremgartner da Frota",
+       "orcid": "https://orcid.org/0009-0002-4886-8290"
+      },
+      {
+       "nombre": "Dilermando Aparecido Borges Martins",
+       "orcid": "https://orcid.org/0000-0001-9638-9169"
+      },
+      {
+       "nombre": "Gustavo Buss",
+       "orcid": "https://orcid.org/0000-0002-4808-7905"
+      },
+      {
+       "nombre": "Isabella Louise Traub Soares de Souza",
+       "orcid": "https://orcid.org/0009-0000-3618-7987"
+      },
+      {
+       "nombre": "Júlia dos Santos Venceloski",
+       "orcid": "https://orcid.org/0009-0006-8448-2044"
+      },
+      {
+       "nombre": "Larissa Anacleto do Nascimento",
+       "orcid": "https://orcid.org/0009-0005-5012-8461"
+      },
+      {
+       "nombre": "Lucas Sipioni Furtado de Medeiros",
+       "orcid": "https://orcid.org/0000-0001-6899-0854"
+      },
+      {
+       "nombre": "Maria Eduarda Diniz",
+       "orcid": "https://orcid.org/0009-0000-7970-4235"
+      },
+      {
+       "nombre": "Marília Martins Lopes",
+       "orcid": "https://orcid.org/0009-0006-3139-2643"
+      },
+      {
+       "nombre": "Thalison Daniel Dullius",
+       "orcid": "https://orcid.org/0009-0007-5191-9016"
+      },
+      {
+       "nombre": "Vitória Cardoso da Silva Tenera",
+       "orcid": "https://orcid.org/0009-0002-0197-4272"
+      }
+     ],
+     "resumen": null,
+     "idioma_resumen": null,
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.pt-br"
+     },
+     "url": "https://doi.org/10.5380/rfdufpr.v71i1.100015",
+     "doi": "10.5380/rfdufpr.v71i1.100015",
+     "paginas": "e100015",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.5380/rfdufpr.v71i1.103761",
+     "titulo": "Racismo religioso, necropentecostalismo e a produção normativa do espaço nos deslocamentos forçados de comunidades tradicionais de matriz africana",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Malu Stanchi",
+       "orcid": "https://orcid.org/0000-0002-0480-5514"
+      },
+      {
+       "nombre": "Diego dos Santos Reis",
+       "orcid": "https://orcid.org/0000-0001-6977-7166"
+      }
+     ],
+     "resumen": "Este ensaio objetiva tematizar a expulsão das comunidades de terreiro dos seus territórios, a partir da categoria jurídica de deslocamento forçado interno. Ao partir de uma abordagem analítico-documental e bibliográfica interdisciplinar, e da análise dos parâmetros do Sistema Interamericano de Direitos Humanos sobre a matéria, articulados às experiências de casos concretos, busca-se delinear novos contornos jurídicos ao enfrentamento do problema em tela, ao colocar em relevo os impactos do racismo religioso, que enseja distintos processos de discriminação e opressão no cotidiano dos povos de terreiro. Parte-se do enquadramento crítico que considera as perpetuações e heranças coloniais como pressupostos das tecnologias de governo atuais, expondo de que modo o Estado atua, omissiva e comissivamente, no fomento de agendas pautadas pela instrumentalização política do necropentecostalismo. A análise compreende como a normatividade jurídica, ao organizar direitos, interditos, circulações e fronteiras, produz espacialidades desiguais que tornam certos territórios vulneráveis à expulsão, ao apagamento e à violência. Como resultado, evidencia-se que o deslocamento forçado não se reduz à ruptura física com o território, mas constitui uma produção normativa do espaço, na qual corpos, práticas religiosas e formas de vida são continuamente hierarquizados, deslegitimados ou tornados ilegíveis no ordenamento estatal. Por fim, são apontadas as possíveis medidas preventivas e reparatórias a serem adotadas aos casos de deslocamento forçado interno das comunidades de terreiro.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.pt-br"
+     },
+     "url": "https://doi.org/10.5380/rfdufpr.v71i1.103761",
+     "doi": "10.5380/rfdufpr.v71i1.103761",
+     "paginas": "e103761",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.5380/rfdufpr.v71i1.103762",
+     "titulo": "O sentido jurídico da Marcha para o Oeste",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Thiago Hansen",
+       "orcid": "https://orcid.org/0000-0001-7587-9337"
+      }
+     ],
+     "resumen": "Este artigo analisa o sentido jurídico da Marcha para o Oeste – programa originado em 1909 e oficializado em 1938 – sob a ótica da história do direito público. Argumenta-se que a iniciativa transcendeu a mera colonização, consistindo num complexo projeto de engenharia jurídico-social que usou o direito para construir o Estado-nação moderno. Fundamentada no “giro espacial” da historiografia jurídica e nas “comunidades imaginadas” de Benedict Anderson, a pesquisa mostra como o Estado usou censo, mapa e museu para criar um sentimento de pertencimento nacional atrelado à ocupação territorial. O estudo revela também que o Modernismo do início do século XX ressignificou o interior, convertendo o sertão de um espaço de atraso em reserva moral e identitária do país. A base intelectual do projeto foi influenciada pela geopolítica de Friedrich Ratzel e pelo realismo de Alberto Torres, defensor de uma “soberania real” alicerçada no domínio material do território. Sua materialização jurídica ocorreu por instrumentos como os Códigos de Águas, Florestas e Minas (1934), a criação dos territórios federais e da Fundação Brasil Central (1943), e a atuação do Serviço de Proteção aos Índios. Conclui-se que a Marcha inaugurou um modelo desenvolvimentista estatal, legando à história jurídica brasileira tensões não resolvidas entre progresso, soberania e direitos das populações locais, que perduram até hoje.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.pt-br"
+     },
+     "url": "https://doi.org/10.5380/rfdufpr.v71i1.103762",
+     "doi": "10.5380/rfdufpr.v71i1.103762",
+     "paginas": "e103762",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.5380/rfdufpr.v71i1.104024",
+     "titulo": "Democracia: Os Comuns: Infraestruturas para Tempos Inquietantes",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Mariana Galacini Bonadio",
+       "orcid": "https://orcid.org/0000-0003-4201-0736"
+      }
+     ],
+     "resumen": null,
+     "idioma_resumen": null,
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.pt-br"
+     },
+     "url": "https://doi.org/10.5380/rfdufpr.v71i1.104024",
+     "doi": "10.5380/rfdufpr.v71i1.104024",
+     "paginas": "e104024",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.5380/rfdufpr.v71i1.104049",
+     "titulo": "Laudatio para Carlos Nino",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Miguel Gualano de Godoy",
+       "orcid": "https://orcid.org/0000-0003-3532-6468"
+      }
+     ],
+     "resumen": null,
+     "idioma_resumen": null,
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.pt-br"
+     },
+     "url": "https://doi.org/10.5380/rfdufpr.v71i1.104049",
+     "doi": "10.5380/rfdufpr.v71i1.104049",
+     "paginas": "e104049",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.5380/rfdufpr.v71i1.104861",
+     "titulo": "A genealogia do regime racial de propriedade no Brasil",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Luana Xavier Pinto Coelho",
+       "orcid": "https://orcid.org/0000-0002-0600-1667"
+      },
+      {
+       "nombre": "Evandro Piza Duarte",
+       "orcid": "https://orcid.org/0000-0002-0077-0297"
+      }
+     ],
+     "resumen": "Este artigo tem como objetivo central analisar de que maneira a raça sedimenta a construção do regime de propriedade fundiária no Brasil, nos períodos colonial e moderno, como passo inicial para a compreensão das desigualdades espaciais do presente. A metodologia adotada consiste em uma revisão crítica da literatura, articulando contribuições da teoria crítica da raça, do capitalismo racial, da geografia crítica e dos estudos críticos negros. Inicialmente, o artigo introduz o debate internacional sobre subjetividade jurídica, propriedade e regime racial, demonstrando de que maneira a coconstrução de raça e propriedade impacta os processos de subjetivação/regulação/legitimação. Em seguida o texto discute como a lacuna de estudos sobre raça e propriedade no Brasil reflete um silêncio teórico que mantém viva uma tradição classista para explicar desigualdades raciais, relegando o racismo a dinâmicas pontuais de médio ou curto alcance. Argumenta-se que esse silêncio impede a percepção de como a propriedade funciona como trincheira da objetividade e do valor nas grandes teorias sociológicas, naturalizando os espaços da colonialidade no presente. Por fim, a conclusão aponta para novos caminhos de pesquisa, sugerindo uma agenda que ultrapasse os limites das explicações exclusivamente classistas e incorpore a raça como elemento constitutivo – e não secundário – do regime jurídico da propriedade fundiária no Brasil.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.pt-br"
+     },
+     "url": "https://doi.org/10.5380/rfdufpr.v71i1.104861",
+     "doi": "10.5380/rfdufpr.v71i1.104861",
+     "paginas": "e104861",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.5380/rfdufpr.v71i1.105915",
+     "titulo": "The spatial and legal performance of property at squats: the Prestes Maia occupation in São Paulo",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Matthew Wellington Caulkins",
+       "orcid": "https://orcid.org/0000-0003-2544-1518"
+      }
+     ],
+     "resumen": "This paper seeks to unpack the spatiality and legality of efforts to obtain property beyond the narrow parameters of state-sanctioned property regimes. Property at a residential squat is analysed as performative in specific legal and spatial ways. The findings are based on non-participant observation and semi-structured interviews with local government officials, residents, coordinators, and members of the support network of an occupation at the Prestes Maia building, in the neighbourhood of Cracolândia (crack cocaine land) in São Paulo. Squatters’ spatial performances include owner-like homemaking and neighbourly actions, as well as street protest demonstrations that engage with property-law concepts such as the função social da propriedade. In addition, the conventionally legal but aspatial performativity of the previous owner’s claims is examined through his purchase of the building at auction, the service of eviction notices, and negotiations for its sale to the municipality. The conclusions discuss the political and intellectual gains of distinguishing spatial and legal performativity in property politics.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.pt-br"
+     },
+     "url": "https://doi.org/10.5380/rfdufpr.v71i1.105915",
+     "doi": "10.5380/rfdufpr.v71i1.105915",
+     "paginas": "e105915",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.5380/rfdufpr.v71i1.106350",
+     "titulo": "Editorial",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Equipe Editorial",
+       "orcid": "https://orcid.org/0009-0004-6915-0514"
+      }
+     ],
+     "resumen": null,
+     "idioma_resumen": null,
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.pt-br"
+     },
+     "url": "https://doi.org/10.5380/rfdufpr.v71i1.106350",
+     "doi": "10.5380/rfdufpr.v71i1.106350",
+     "paginas": "e106350",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.5380/rfdufpr.v71i1.106351",
+     "titulo": "Expediente",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Equipe Editorial",
+       "orcid": "https://orcid.org/0009-0004-6915-0514"
+      }
+     ],
+     "resumen": null,
+     "idioma_resumen": null,
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.pt-br"
+     },
+     "url": "https://doi.org/10.5380/rfdufpr.v71i1.106351",
+     "doi": "10.5380/rfdufpr.v71i1.106351",
+     "paginas": "e106351",
+     "fuente": "Crossref"
+    }
+   ]
+  },
+  {
+   "id": "v70-n3-2025",
+   "volumen": "70",
+   "numero": "3",
+   "anio": 2025,
+   "fecha": "2025-12-26",
+   "etiqueta": "Vol. 70, núm. 3 (2025)",
+   "fuente": "Crossref",
+   "articulos": [
+    {
+     "id": "10.5380/rfdufpr.v70i3.102528",
+     "titulo": "Expediente",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Equipe Editorial",
+       "orcid": null
+      }
+     ],
+     "resumen": null,
+     "idioma_resumen": null,
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.pt-br"
+     },
+     "url": "https://doi.org/10.5380/rfdufpr.v70i3.102528",
+     "doi": "10.5380/rfdufpr.v70i3.102528",
+     "paginas": "1-6",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.5380/rfdufpr.v70i3.102529",
+     "titulo": "Editorial",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Equipe Editorial",
+       "orcid": null
+      }
+     ],
+     "resumen": null,
+     "idioma_resumen": null,
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.pt-br"
+     },
+     "url": "https://doi.org/10.5380/rfdufpr.v70i3.102529",
+     "doi": "10.5380/rfdufpr.v70i3.102529",
+     "paginas": "7-10",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.5380/rfdufpr.v70i3.95628",
+     "titulo": "An end without means? Key concepts of Latin American new constitutionalism and the politics of environmental protection",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Daniel Cavalcanti Pimentel",
+       "orcid": "https://orcid.org/0009-0001-9747-6229"
+      },
+      {
+       "nombre": "Hanna Helena Sonkajärvi",
+       "orcid": "https://orcid.org/0000-0001-5017-3792"
+      }
+     ],
+     "resumen": "The Latin American new constitutionalism that inspired the Constitutions of Ecuador (2008) and Bolivia (2009) is grounded in the idea that human beings are merely one species among many. Nature, in this conception, has a legal standing that can be enacted by any physical or juridical person acting in its interest. However, a closer reading of key concepts and of the writings of politicians and thinkers advocating Latin American new constitutionalism reveals tensions and contradictions between its utopian aspirations and their implementation through legislation. This paper inquires, adopting a diachronic perspective, and inspired by the History of Concepts, into its key notions, such as buen vivir, sumak kawsay, Pacha Mama, the State, and development, and offers a critical review of the concept’s capacity to be translated into the legal system and legal practice. The analysis shows that the Latin American new constitutionalism has not succeeded in breaking with dominant concepts of the State, market economy, and development.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.pt-br"
+     },
+     "url": "https://doi.org/10.5380/rfdufpr.v70i3.95628",
+     "doi": "10.5380/rfdufpr.v70i3.95628",
+     "paginas": "11-33",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.5380/rfdufpr.v70i3.97254",
+     "titulo": "Dignidade humana e negatividade: um estudo acerca da teoria dos direitos humanos de Jay Bernstein",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Saulo Monteiro Martinho de Matos",
+       "orcid": "https://orcid.org/0000-0002-4396-7276"
+      },
+      {
+       "nombre": "Arthur Pedroso de Almeida",
+       "orcid": "https://orcid.org/0009-0002-2708-8201"
+      }
+     ],
+     "resumen": "A teoria contemporânea dos direitos humanos é marcada pelo debate entre abordagens ortodoxas e políticas. Teorias ortodoxas ou morais aceitam as seguintes teses: tese da natureza, segundo a qual os direitos humanos são direitos morais, cuja titularidade é de todo ser humano em razão, exclusivamente, da sua humanidade, e tese da fundamentação, para a qual a existência e o conteúdo dos direitos humanos são identificados por meio do raciocínio moral natural, ainda que este possa vir a ser auxiliado por outras formas de raciocínio. As teorias políticas rejeitam integralmente ou em parte essas teses. Em contraste com ambas as vertentes, Jay Bernstein propõe uma compreensão da dignidade humana fundada na experiência da vítima, entendida como momento negativo capaz de revelar aspectos constitutivos da existência humana e, assim, gerar conteúdo normativo para a dignidade. O objetivo deste trabalho é analisar filosoficamente o conceito de dignidade humana a partir de sua relação com a negatividade social, definida como experiências de sofrimento, humilhação e violação. O método consiste em uma investigação crítica das duas correntes predominantes da teoria dos direitos humanos, articulada com os aportes teóricos de Bernstein. Os resultados indicam que a dignidade pode ser concebida não apenas como fundamento da prática institucional dos direitos humanos, mas também como categoria capaz de incorporar experiências de negatividade social em sua definição. Conclui-se que essa concepção amplia o alcance crítico da dignidade, permitindo denunciar injustiças e formas de sofrimento que se configuram como negação de um valor intrínseco essencial.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.pt-br"
+     },
+     "url": "https://doi.org/10.5380/rfdufpr.v70i3.97254",
+     "doi": "10.5380/rfdufpr.v70i3.97254",
+     "paginas": "35-55",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.5380/rfdufpr.v70i3.98580",
+     "titulo": "Acessoriedade administrativa e (des)vinculação entre processos administrativo e penal no mercado de capitais: in(ter)dependência ou indiferença entre as esferas?",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Viviane Müller Prado",
+       "orcid": "https://orcid.org/0000-0001-7641-9738"
+      },
+      {
+       "nombre": "Marcelo Costenaro Cavali",
+       "orcid": "https://orcid.org/0000-0002-8633-0371"
+      },
+      {
+       "nombre": "Thiago Cochenski Borba",
+       "orcid": "https://orcid.org/0009-0002-6412-3619"
+      }
+     ],
+     "resumen": "Este artigo examina a interação entre as esferas administrativa e penal na persecução do insider trading e da manipulação de mercado no Brasil. Sob o prisma da acessoriedade administrativa no direito penal, são duas as perguntas de pesquisa. No aspecto material, questiona-se se, diante das divergências entre decisões nas duas esferas, há acessoriedade dos tipos penais ao direito do mercado de capitais. No aspecto processual, analisa-se se decisões proferidas em uma esfera são consideradas na outra. A metodologia consiste no exame de decisões penais e administrativas contrastantes sobre os mesmos fatos, identificadas por meio de buscas, com o uso de palavras-chave, em sistemas jurisprudenciais nos sítios eletrônicos de tribunais, envolvendo os ilícitos de manipulação de mercado e insider trading. Conclui-se que os juízes interpretam os tipos da Lei n° 6.385/1976 a partir das normas do mercado de capitais, porém, alguns, sob o dogma da independência das instâncias, contrariam decisões administrativas sem se desincumbir do ônus argumentativo do dissenso, deixando de apresentar fundamentos específicos que justifiquem a adoção de posicionamento contrário, em violação à coerência sistêmica e à segurança jurídica.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.pt-br"
+     },
+     "url": "https://doi.org/10.5380/rfdufpr.v70i3.98580",
+     "doi": "10.5380/rfdufpr.v70i3.98580",
+     "paginas": "57-90",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.5380/rfdufpr.v70i3.100148",
+     "titulo": "Risco ambiental e responsabilidade objetiva na Bacia de Santos: desafios jurídicos ante a exploração petrolífera em áreas ecologicamente sensíveis",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Valdenio Mendes de Souza",
+       "orcid": "https://orcid.org/0009-0006-4616-9225"
+      },
+      {
+       "nombre": "Aretusa Fraga Costa",
+       "orcid": "https://orcid.org/0009-0003-6831-7426"
+      },
+      {
+       "nombre": "Elcio Nacur Rezende",
+       "orcid": "https://orcid.org/0000-0002-2369-8945"
+      }
+     ],
+     "resumen": "Nesta pesquisa é analisada a eficácia do sistema jurídico da responsabilidade civil objetiva aplicado à exploração petrolífera na Bacia de Santos, considerando os efeitos ambientais associados à atividade e as fragilidades normativas e institucionais que comprometem a salvaguarda de áreas ecologicamente sensíveis. O estudo tem como objetivo analisar a capacidade do sistema jurídico atual em prevenir e reparar danos ambientais resultantes de operações em mar aberto, identificando limites técnicos, processuais e estruturais na responsabilização dos agentes econômicos. A metodologia utilizada é qualitativa, com levantamento documental e análise normativa, fundamentada no método dedutivo e com dados empíricos sobre episódios de contaminação, vazamentos e degradação do meio ambiente na região. A investigação parte do princípio constitucional de que a responsabilidade objetiva ambiental, embora prevista em lei, revela-se ineficaz ante a multiplicidade de danos coletivos, a morosidade processual e a deficiência das estruturas de fiscalização. O estudo propõe, com base nos achados, o aperfeiçoamento das sanções civis, a ampliação da atuação administrativa e o fortalecimento da governança ambiental por meio de mecanismos de regulação técnica, uso de tecnologias de monitoramento, fiscalização e instrumentos de prevenção obrigatória. A pesquisa conclui que o modelo jurídico vigente, ainda que formalmente avançado, precisa ser reformulado em seus mecanismos de efetivação, para alcançar resultados concretos na tutela do meio ambiente marinho. A responsabilização civil, nesse contexto, deve integrar uma política jurídica mais ampla, preventiva e comprometida com a justiça ambiental, e os direitos difusos em sua plenitude.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.pt-br"
+     },
+     "url": "https://doi.org/10.5380/rfdufpr.v70i3.100148",
+     "doi": "10.5380/rfdufpr.v70i3.100148",
+     "paginas": "91-110",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.5380/rfdufpr.v70i3.100367",
+     "titulo": "O direito da energia e a competência municipal na geração distribuída: aplicação do princípio da concordância prática entre a transição energética e o desenvolvimento local",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Luiz Ugeda",
+       "orcid": "https://orcid.org/0000-0001-6073-6878"
+      },
+      {
+       "nombre": "Karine Sanches",
+       "orcid": "https://orcid.org/0009-0001-9994-1550"
+      }
+     ],
+     "resumen": "Neste artigo investiga-se a possibilidade de compatibilização entre a centralização normativa do setor elétrico brasileiro e as competências urbanísticas dos municípios ante o avanço da geração descentralizada de energia. O objetivo é analisar como o princípio da concordância prática pode orientar a articulação entre a regulação federal da energia e a autonomia municipal na implementação de políticas urbanas sustentáveis. Adota-se metodologia jurídico-constitucional, com análise doutrinária, jurisprudencial e comparativa, incluindo estudo de casos internacionais e proposição de um Índice de Concordância Prática (ICP) aplicável ao contexto federativo brasileiro. Os resultados indicam que a ausência de alinhamento entre os instrumentos urbanísticos locais e o marco regulatório federal da energia compromete a eficiência da transição energética. Conclui-se que a harmonização entre as normas depende da criação de mecanismos cooperativos de governança multinível, da adaptação dos planos diretores às exigências da geração distribuída e da inserção do planejamento energético na política urbana municipal.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.pt-br"
+     },
+     "url": "https://doi.org/10.5380/rfdufpr.v70i3.100367",
+     "doi": "10.5380/rfdufpr.v70i3.100367",
+     "paginas": "111-142",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.5380/rfdufpr.v70i3.101864",
+     "titulo": "L’attuazione del regionalismo differenziato in Italia tra legislazione e giurisprudenza costituzionale",
+     "idioma_titulo": "it",
+     "autores": [
+      {
+       "nombre": "Ornella Spataro",
+       "orcid": "https://orcid.org/0000-0002-9172-3604"
+      }
+     ],
+     "resumen": "Le dinamiche di attuazione del regionalismo italiano sono state storicamente contrassegnate da elementi di problematicità, promananti, di volta in volta, da cause diverse. Nonostante le riforme costituzionali del 2001 sembrassero orientarsi verso un modello quasi federale, l’effettività dei rapporti Stato-Regioni ha evidenziato una tendenza al ri-accentramento delle funzioni, anche grazie all’avallo della Corte costituzionale, che ha storicamente privilegiato le istanze dell’unità rispetto a quelle del decentramento. Le aspettative di rilancio delle Regioni, soprattutto quelle del Nord Italia, si sono dunque incentrate sull’attuazione della differenziazione regionale prevista dall’art. 116, co. 3, Cost., ovvero sulla possibilità di chiedere e ottenere dallo Stato, sulla base di apposite intese, ulteriori competenze rispetto a quelle proprie delle Regioni ordinarie. Ne è scaturito un acceso dibattito, legato al timore che ne potessero derivare disparità nel godimento dei diritti tra i cittadini residenti nei diversi territori della Repubblica, a seconda della maggiore o minore capacità delle Regioni di finanziare i relativi servizi. Il presente contributo si propone di analizzare il processo di attuazione del regionalismo differenziato alla luce della storica sentenza n. 192 del 2024 della Corte costituzionale, che ha ridisegnato la fisionomia del regionalismo italiano. A tal fine, l’analisi adotta una metodologia giuridico-costituzionale di carattere qualitativo, fondata sulla ricostruzione storico-dogmatica dell’istituto e sull’esame critico del ragionamento della Corte costituzionale, evidenziando le ricadute che ne potranno derivare sugli assetti futuri del sistema autonomistico.",
+     "idioma_resumen": "it",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.pt-br"
+     },
+     "url": "https://doi.org/10.5380/rfdufpr.v70i3.101864",
+     "doi": "10.5380/rfdufpr.v70i3.101864",
+     "paginas": "143-163",
+     "fuente": "Crossref"
+    }
+   ]
+  },
+  {
+   "id": "v70-n2-2025",
+   "volumen": "70",
+   "numero": "2",
+   "anio": 2025,
+   "fecha": "2025-10-14",
+   "etiqueta": "Vol. 70, núm. 2 (2025)",
+   "fuente": "Crossref",
+   "articulos": [
+    {
+     "id": "10.5380/rfdufpr.v70i2.101657",
+     "titulo": "Expediente",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Equipe Editorial",
+       "orcid": "https://orcid.org/0009-0004-6915-0514"
+      }
+     ],
+     "resumen": null,
+     "idioma_resumen": null,
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.pt-br"
+     },
+     "url": "https://doi.org/10.5380/rfdufpr.v70i2.101657",
+     "doi": "10.5380/rfdufpr.v70i2.101657",
+     "paginas": "1-6",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.5380/rfdufpr.v70i2.101656",
+     "titulo": "Editorial",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Equipe Editorial",
+       "orcid": "https://orcid.org/0009-0004-6915-0514"
+      }
+     ],
+     "resumen": null,
+     "idioma_resumen": null,
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.pt-br"
+     },
+     "url": "https://doi.org/10.5380/rfdufpr.v70i2.101656",
+     "doi": "10.5380/rfdufpr.v70i2.101656",
+     "paginas": "7-10",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.5380/rfdufpr.v70i2.94126",
+     "titulo": "Mecanismos de triagem de investimentos e seus potenciais impactos sobre o regime internacional de transferência de tecnologia",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Natália de Lima Figueiredo",
+       "orcid": "https://orcid.org/0000-0002-0798-0609"
+      }
+     ],
+     "resumen": "Este artigo analisa a proliferação dos mecanismos de triagem de investimentos estrangeiros (ISMs, na sigla em inglês) desde 2016, com atenção particular às suas implicações para a transferência internacional de tecnologia. O estudo baseia-se em uma revisão sistemática de literatura, complementada pela análise de casos de países que implementaram ISMs, considerando suas políticas, estratégias e impactos observados. A abordagem metodológica privilegia a identificação de padrões e tendências, valendo-se de análise comparativa para evidenciar diferenças entre contextos nacionais. Reconhece-se a limitação decorrente da disponibilidade restrita de dados sobre a aplicação e os resultados dos ISMs em determinados países. Os achados sugerem que a difusão desses mecanismos pode representar uma mudança significativa no regime internacional de transferência de tecnologia. Predominantemente adotados por economias desenvolvidas, os ISMs visam proteger tecnologias avançadas, o que pode restringir o acesso de países em desenvolvimento. O fortalecimento da segurança nacional como justificativa revela a crescente preocupação em resguardar vantagens tecnológicas estratégicas. A originalidade deste estudo reside em sua avaliação abrangente dos ISMs e de suas consequências específicas para a transferência de tecnologia. Ao mapear as forças motrizes por trás de sua expansão, o artigo contribui para a compreensão das transformações atuais na dinâmica global da inovação e da segurança tecnológica. Sugere-se que pesquisas futuras incluam análises empíricas aprofundadas sobre os efeitos dos ISMs nos fluxos de capital, exame das reações dos países em desenvolvimento e avaliação do papel da cooperação internacional no enfrentamento de desafios tecnológicos comuns.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.pt-br"
+     },
+     "url": "https://doi.org/10.5380/rfdufpr.v70i2.94126",
+     "doi": "10.5380/rfdufpr.v70i2.94126",
+     "paginas": "11-42",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.5380/rfdufpr.v70i2.95177",
+     "titulo": "Enquadramento conceitual e utilidade da figura “dano existencial” para o ordenamento jurídico brasileiro: análise dogmático-jurisprudencial a partir de acórdãos do Tribunal Superior do Trabalho",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Thalles Ricardo Alciati Valim",
+       "orcid": "https://orcid.org/0000-0002-6962-9777"
+      },
+      {
+       "nombre": "Gabriela Prado de Abreu",
+       "orcid": "https://orcid.org/0009-0006-6738-6800"
+      },
+      {
+       "nombre": "Gabriel Ribeiro Santos",
+       "orcid": "https://orcid.org/0009-0000-4868-1181"
+      }
+     ],
+     "resumen": "Este artigo tem por objetivo analisar as premissas para o reconhecimento dos danos existenciais – que têm sido aventados como uma nova hipótese de dano a ser indenizado, inserido no âmbito dos danos extrapatrimoniais – tanto na Itália quanto no Brasil. Trata-se de pesquisa dogmática que, mediante análise dos pressupostos legais e da interpretação dada pela doutrina, buscou identificar se há uma semântica partilhada entre os termos “danno esistenziale” e “dano existencial” nos ordenamentos jurídicos italiano e brasileiro, respectivamente. Primeiramente, verificou-se se as premissas adotadas para o reconhecimento desse dano na Itália também estão presentes no contexto brasileiro, buscando-se compreender o contexto histórico do dano existencial em seu surgimento no ordenamento jurídico italiano. Na sequência, foi feita uma pesquisa empírica quantitativa, analisando-se acórdãos do Tribunal Superior do Trabalho (TST) relacionados a um período de cinco anos. A análise dessa jurisprudência do TST revelou que não é comum o reconhecimento desse tipo de dano. Na maioria dos casos analisados foi negada a indenização e, quando ela foi concedida, houve dificuldade em diferenciar entre dano existencial e dano moral. Conclui-se que o dano existencial, sem o contexto de sua origem, oferece pouca utilidade ao sistema jurídico brasileiro.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.pt-br"
+     },
+     "url": "https://doi.org/10.5380/rfdufpr.v70i2.95177",
+     "doi": "10.5380/rfdufpr.v70i2.95177",
+     "paginas": "43-65",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.5380/rfdufpr.v70i2.95554",
+     "titulo": "“As terras, que são necessárias para a vivenda e passadio dos índios”: construção de direitos indígenas na América portuguesa e a conquista da Ibiapaba no Ceará colonial (1695-1730)",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "João Victor Diniz Ribeiro",
+       "orcid": "https://orcid.org/0000-0003-2562-9633"
+      },
+      {
+       "nombre": "David Rodrigues Stigger",
+       "orcid": "https://orcid.org/0000-0002-4458-0006"
+      },
+      {
+       "nombre": "Gustavo César Machado Cabral",
+       "orcid": "https://orcid.org/0000-0001-8565-1328"
+      }
+     ],
+     "resumen": "Diante da intensa dinâmica durante a colonização na região da Serra da Ibiapaba, o presente artigo analisa as experiências vivenciadas por indígenas em relação à terra, as quais são relatadas por documentos produzidos por missionários e por agentes da Coroa portuguesa entre 1695 e 1730. Foram utilizadas correspondências escritas que registram falas de missionários jesuítas da Missão da Ibiapaba, do desembargador Christovão Soares e de indígenas habitantes da região, além de registros de petições indígenas em cartas de concessões de sesmarias. Além disso, utilizaram-se documentos normativos e a literatura jurídica para compreensão do regime jurídico na organização territorial da Ibiapaba. No tratamento das fontes foram focalizadas as unidades sociais apresentadas, pretendendo-se privilegiar um tratamento jurídico-cultural, tendo em vista que o conteúdo possibilita perceber particularidades marcadas pela dinamicidade local. Os registros mostram que os grupos indígenas habitantes da Ibiapaba se relacionaram de maneiras diferentes com os agentes da conquista, conforme ocorriam as percepções e categorizações mútuas, a ponto de em determinadas situações criarem relacionamentos que não se limitavam à subordinação ao regime colonial, mas que possibilitavam a apropriação desse regime para resguardar direitos e autênticos interesses vinculados ao uso da terra.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.pt-br"
+     },
+     "url": "https://doi.org/10.5380/rfdufpr.v70i2.95554",
+     "doi": "10.5380/rfdufpr.v70i2.95554",
+     "paginas": "67-92",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.5380/rfdufpr.v70i2.95733",
+     "titulo": "O comportamento da Corte Constitucional da Colômbia no controle preventivo dos atos de reforma constitucional: uma análise de seu ativismo judicial",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Beatriz Tavares Fernandes dos Santos",
+       "orcid": "https://orcid.org/0000-0002-5882-442X"
+      },
+      {
+       "nombre": "Jairo Néia Lima",
+       "orcid": "https://orcid.org/0000-0003-3346-7865"
+      },
+      {
+       "nombre": "Yenny Andrea Celemín Caicedo",
+       "orcid": "https://orcid.org/0000-0002-3308-0129"
+      }
+     ],
+     "resumen": "A Colômbia estabelece, em seu texto constitucional, uma espécie de controle preventivo de constitucionalidade sobre propostas de modificação constitucional, efetivado mediante o controle das leis convocatórias de referendo para alteração da constituição e exercido pela Corte Constitucional da Colômbia (CCC). Embora a Constituição Política de 1991 (CP/91) preveja que esse controle seja apenas procedimental, estudiosos apontam que a CCC tem também exercido um controle material (ou substancial) dessas leis. Diante disso, parte-se da seguinte pergunta de pesquisa: — De que modo esse comportamento judicial da CCC pode ser avaliado a partir do(s) conceito(s) de ativismo judicial e o que justificaria sua eventual postura ativista? O objetivo do artigo é analisar a atuação da Corte à luz das concepções de ativismo judicial. Para isso, foi realizada uma pesquisa documental-qualitativa centrada nas Sentenças C-551 de 2003 e C-141 de 2010, complementada por investigação bibliográfica voltada à compreensão da atuação da CCC. Os resultados apontam que a Corte tem adotado uma postura ativista, ao ultrapassar os limites do controle procedimental previsto na CP/91. As conclusões indicam que esse ativismo judicial tem sido justificado, em parte, pela necessidade de conter postura expansiva adotada pelo Poder Executivo colombiano.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.pt-br"
+     },
+     "url": "https://doi.org/10.5380/rfdufpr.v70i2.95733",
+     "doi": "10.5380/rfdufpr.v70i2.95733",
+     "paginas": "93-119",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.5380/rfdufpr.v70i2.96284",
+     "titulo": "Um nacionalista liberal? (Re)pensando Alberto Torres a partir de sua atuação como ministro do Supremo no caso do banimento da Família Imperial (1903-1907)",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Wingler Alves Pereira",
+       "orcid": "https://orcid.org/0000-0001-5703-2247"
+      },
+      {
+       "nombre": "Matheus Della Monica",
+       "orcid": "https://orcid.org/0000-0003-0882-6205"
+      }
+     ],
+     "resumen": "Neste artigo busca-se compreender a posição de Alberto Torres no caso julgado por ele como ministro do Supremo Tribunal Federal, referente ao banimento da Família Imperial Brasileira, em dois habeas corpus julgados pela Suprema Corte entre 1903 e 1907. Para tanto, questionam-se alguns enquadramentos ideológicos que são tradicionalmente atribuídos ao pensamento de Torres, sobretudo os que o classificam como autoritário. Os marcos teóricos do artigo são as pesquisas e ensaios relativos à história contemporânea do direito (Seelaender, 2023), à história constitucional brasileira (Paixão, 2023) e às tradições do pensamento político brasileiro (Lynch, 2016). Os referenciais metodológicos do trabalho são a morfologia das ideologias políticas de Michael Freeden (1996) e o contextualismo linguístico, mediante os métodos de Skinner (2002) e Pocock (1989, 2003). Tendo em vista a existência de algumas lacunas na literatura em relação à classificação do pensamento de Torres e também quanto à sua atuação como ministro do Supremo, o artigo aponta como conclusão a necessidade de se levar em consideração outros aspectos da produção torreana, mais liberais, tais como o posicionamento que ele manifestou no caso relativo à pena de banimento político dos Bragança, instituída no alvorecer da República, os quais, até o momento, não têm sido considerados nas pesquisas sobre o pensamento político-constitucional desse personagem da Primeira República.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.pt-br"
+     },
+     "url": "https://doi.org/10.5380/rfdufpr.v70i2.96284",
+     "doi": "10.5380/rfdufpr.v70i2.96284",
+     "paginas": "121-140",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.5380/rfdufpr.v70i2.100586",
+     "titulo": "Legal solutions for environmental sustainability in the wine sector: a comparison between the French and Italian experiences",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Luciana De Grazia",
+       "orcid": "https://orcid.org/0000-0001-8975-2142"
+      }
+     ],
+     "resumen": "This analysis represents the initial phase of a research project developed within the framework of a Nationally Relevant Research Project (PRIN, in its Italian acronym), funded by the National Recovery and Resilience Plan (PNRR) of the European Union — the Next Generation EU fund — and by the Italian Ministry of University and Research, under the title Innovative solutions in the wine sector (IN-WINE). The purpose of this study is to identify the legal instruments adopted in the French and Italian legal systems to support sustainability in the wine sector, with particular reference here to environmental sustainability. In outlining the scope of the research, it also seemed appropriate to consider European supranational legislation, albeit briefly, given its interaction with national law and the need to contextualize state-level policy choices. The analysis highlights a significant collaboration, aimed at achieving environmental goals, between the public and private sectors, which characterizes the decision-making model of the wine sector at both the European and national levels. The findings allow for the identification of exemplary best practices that may serve as methodological guidance for public action, while also offering insights into possible future perspectives on sustainability — not limited to environmental aspects — within the wine sector.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.pt-br"
+     },
+     "url": "https://doi.org/10.5380/rfdufpr.v70i2.100586",
+     "doi": "10.5380/rfdufpr.v70i2.100586",
+     "paginas": "141-167",
+     "fuente": "Crossref"
+    }
+   ]
+  }
+ ]
+};

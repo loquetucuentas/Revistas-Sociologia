@@ -1,0 +1,1044 @@
+{
+ "version": 1,
+ "generado": "2026-11-02T05:12:34+00:00",
+ "es_prueba": false,
+ "revista": {
+  "id": "2038-3150",
+  "titulo": "SocietàMutamentoPolitica: Rivista Italiana di Sociologia",
+  "idioma_titulo": null,
+  "titulo_alternativo": "SMP",
+  "idioma_titulo_alternativo": null,
+  "idiomas": [
+   "en",
+   "fr",
+   "de",
+   "it",
+   "es"
+  ],
+  "issn_impreso": null,
+  "issn_electronico": "2038-3150",
+  "editorial": "Firenze University Press",
+  "pais": "IT",
+  "materias": [
+   "Sociology (General)"
+  ],
+  "palabras_clave": [
+   "political culture",
+   "democracy",
+   "social change",
+   "political sociology"
+  ],
+  "licencias": [
+   {
+    "nombre": "CC BY 4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+   }
+  ],
+  "url": "https://oajournals.fupress.net/index.php/smp",
+  "url_doaj": "https://doaj.org/toc/2038-3150",
+  "descripcion": null,
+  "fuente_ficha": "DOAJ",
+  "archivo": "revistas/2038-3150.json",
+  "ultimo_numero": "Vol. 17, núm. 33 (2026)",
+  "fuente_numeros": "Crossref"
+ },
+ "numeros": [
+  {
+   "id": "v17-n33-2026",
+   "volumen": "17",
+   "numero": "33",
+   "anio": 2026,
+   "fecha": "2026-08-04",
+   "etiqueta": "Vol. 17, núm. 33 (2026)",
+   "fuente": "Crossref",
+   "articulos": [
+    {
+     "id": "10.36253/smp-17643",
+     "titulo": "Introduction",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Anna Maria Paola Toti",
+       "orcid": null
+      },
+      {
+       "nombre": "Maria Alessandra Molè",
+       "orcid": null
+      }
+     ],
+     "resumen": null,
+     "idioma_resumen": null,
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.36253/smp-17643",
+     "doi": "10.36253/smp-17643",
+     "paginas": "5-12",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.36253/smp-17125",
+     "titulo": "Misery of Position and the Crisis of Possibility. New Forms of Poverty in Contemporary Democracies",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Anna Maria Paola Toti",
+       "orcid": null
+      }
+     ],
+     "resumen": "Marginality emerges as a multidimensional phenomenon that cannot be reduced solely to deprivations linked to the redistributive sphere, but is instead intertwined with a dense network of social issues, including processes of social disintegration, vulnerability, relational exclusion, and the erosion of solidarity. It is within this context that the concept of new urban poverty takes shape. The weakening of collective protection dispositifs, the restructuring of labour markets, and the growing individualization of risk have contributed to the formation of an intermediate social space, situated between inclusion and exclusion, in which heterogeneous forms of economic, social, and relational fragility accumulate. These configurations constitute the structural outcome of transformations induced by neoliberal capitalism. This contribution is situated within an operational theoretical framework that integrates the analysis of positional and relational poverty with the study of institutional processes involved in the production of marginality. Its aim is to analyze the expansion and complexity of new forms of poverty through a critical and conceptual re-reading of selected categories and models useful for interpreting these dynamics.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.36253/smp-17125",
+     "doi": "10.36253/smp-17125",
+     "paginas": "13-22",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.36253/smp-17135",
+     "titulo": "Dwelling as a Wicked Problem: Housing, Inequality and Precarious Life Trajectories",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Maria Alessandra Molè",
+       "orcid": null
+      }
+     ],
+     "resumen": "Over recent decades, dwelling has become one of the major social issues in Western societies, assuming a central role in both public and academic debate. Access to housing can no longer be understood solely in terms of the availability of dwellings, but rather as a multidimensional phenomenon intersecting transformations in the labour market, changes in family structures, and the widening of socio-economic inequalities. This contribution analyses dwelling as a social process, focusing on the tension between people’s rights and privileges which characterises contemporary societies. Through a theoretical framework drawing on the concept of wicked problems, this paper discusses the structural criticalities of housing, paying particular attention to its effects of the commodification. The theoretical reflection is then brought into dialogue with the findings of a qualitative study conducted in the city of Rome. It, therefore, aimed at exploring the symbolic, relational and identity-related meanings of dwelling for people who have experienced, and in many cases continue to experience, conditions of severe housing precariousness.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.36253/smp-17135",
+     "doi": "10.36253/smp-17135",
+     "paginas": "23-33",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.36253/smp-17102",
+     "titulo": "From Ferrarotti’s baraccati to Roma camps. The long wave of housing marginality",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Vincenzo Romania",
+       "orcid": null
+      },
+      {
+       "nombre": "Tommaso Bertazzo",
+       "orcid": null
+      }
+     ],
+     "resumen": "Italy is sadly notorious in Europe as “campland”, as the nation that has created the largest and most systematic model of territorial segregation of Roma people within institutional camps. Most scholars have interpreted this phenomenon by using exogenous or abstract theoretical conceptualizations. In this article, we offer a different perspective by focusing on the internal factors of continuity between housing marginality and the rise of campi nomadi. We will focus on the case of Rome, showing how the intertwined phenomena of baraccati [shanty dwellers] and borgate ufficiali [institutional suburbs], studied by Franco Ferrarotti, played a major historical and sociological role in determining some of the characteristic aspects of camp governance. This perspective offers new insights for understanding and addressing the current challenges of social and housing inclusion of Roma people in Italy.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.36253/smp-17102",
+     "doi": "10.36253/smp-17102",
+     "paginas": "35-45",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.36253/smp-17126",
+     "titulo": "Collaborative Housing Strategies: The Case of “Widespread Reception” by Caritas Diocesana in Rome",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Carmelo Bruni",
+       "orcid": null
+      },
+      {
+       "nombre": "Matteo Finco",
+       "orcid": null
+      }
+     ],
+     "resumen": "Homelessness is a long-standing issue, but only recently has it become relevant on the Italian and international political agenda. The latest data show that the phenomenon is growing and that policies to combat it have often proved ineffective. The traditional responses in our country have been limited to the provision and organisation of low-threshold reception services (staircase model). Only recently have some alternative services based on the “Housing First” model been trialled. The literature emphasises that the complexity of the homeless situation requires an integrated approach to the individual, which can create a stable network of multi-professional interventions. At the same time, interventions must promote the recovery or development of people’s skills and abilities when these are limited or compromised. In this context, in 2015, Caritas Rome launched the “Accoglienza diffusa” (Widespread Reception) project. The initiative is based on the principle that the path to inclusion involves building stable social networks that support personal empowerment. This contribution presents the initial results of this initiative. These show that the project is developing Welfare Communities in some areas of Rome, characterised by a stable local network of support and assistance for vulnerable individuals, involving public institutions, social enterprises, families and parishes.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.36253/smp-17126",
+     "doi": "10.36253/smp-17126",
+     "paginas": "47-57",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.36253/smp-17093",
+     "titulo": "Dwelling Among the Ruins",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Paolo Do",
+       "orcid": null
+      }
+     ],
+     "resumen": "This article examines how people experiencing homelessness in Rome use archaeological ruins to secure a minimal continuity of dwelling under conditions of radical precarity. Ruins, in this reading, are not simply spatial supports or remnants of the past. Rather, they are material devices through which time becomes spatially available and through which space is experienced, inhabited, and reorganized through temporal practices. From this perspective, the article contributes to debates on space and time by shifting the focus from the general theoretical claim that space and time are inseparable to the empirical question of how this inseparability can be observed. Adopting the analytical lens of the situated project – understood as a mundane and incremental organization of urgency across space and time sustained through tactics of duration – this contribution focuses on the micro-practices of people experiencing homelessness. It shows how ruins are reconfigured into provisional forms of dwelling and how these practices redefine boundaries, functions, and tacit norms of use while producing alternative spatial orders and temporal rhythms within the city.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.36253/smp-17093",
+     "doi": "10.36253/smp-17093",
+     "paginas": "59-69",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.36253/smp-17082",
+     "titulo": "The Right to a Home: Housing Strategies and Social Inclusion of Unaccompanied Foreign Minors and Youth Foreigners",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Giuseppina Tumminelli",
+       "orcid": null
+      }
+     ],
+     "resumen": "In the current social landscape, the housing dimension constitutes one of the most decisive variables in defining social hierarchies and stratification processes. Access to stable housing is not merely the satisfaction of a primary need; it represents a crucial node in welfare policies and urban planning. When this dimension intersects with the trajectories of human mobility, it becomes a priority indicator for measuring the effectiveness of integration pathways, revealing the structural barriers that migrant subjects are forced to confront. Although a progressive trend toward settlement can be observed among the foreign population, capable of triggering transformation processes in urban spaces, the housing market remains a domain characterized by profound asymmetries and conflict. Indeed, the availability of accommodation acts directly upon an individual’s social status and the quality of interactions with the host community, influencing the dynamics of acceptance and reciprocity. Drawing on the results of an exploratory study conducted in the metropolitan area of Palermo, this contribution aims to offer a reflection on the situation of unaccompanied foreign minors leaving the reception system upon reaching the age of majority, and on the possible housing strategies undertaken (such as transitional apartments, co-housing, and Housing First).",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.36253/smp-17082",
+     "doi": "10.36253/smp-17082",
+     "paginas": "71-80",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.36253/smp-17078",
+     "titulo": "«Two Heads Are Better Than One but They Must Be Good Ones»: Ethical and Methodological Challenges of Social Work With «people Living on the Street»",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Andrea Gollini",
+       "orcid": null
+      }
+     ],
+     "resumen": "This paper presents a case study analysis focused on an accompaniment process with a person living on the street, developed in a city in Northern Italy. Through the story of Arnold – a migrant man facing housing, employment, and relational precarity – the article examines key ethical and methodological challenges of social work with people who live on the street: managing relational timeframes, negotiating the boundaries between support and control, holding together protection and freedom, and the effort to sustain without substituting, especially when access to rights remains uncertain. The analysis, based on a case study design and on qualitative materials collected throughout the accompaniment process, is interpreted through Relational Social Work and the Poverty-Aware Paradigm. This highlights a form of networking that does not coincide with mere inter-agency coordination, but actively involves the person being supported as a reflective subject and knowledge-holder, while interrogating power asymmetries, access criteria, and everyday practices that may generate stigma or exclusion. The phrase that gives the article its title “Two heads are better than one but they must be good ones” spoken by Arnold during a focus group, encapsulates helping as a relational practice grounded in dialogue and reflexivity, whose effectiveness depends on reciprocity and on the capacity to integrate care and justice, also through advocacy and policy practice.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.36253/smp-17078",
+     "doi": "10.36253/smp-17078",
+     "paginas": "81-93",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.36253/smp-17084",
+     "titulo": "Legal Aid at the Margins: Realizing Rights for People Experiencing Homelessness in Italy",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Maria Chiara Pedroni",
+       "orcid": null
+      }
+     ],
+     "resumen": "Legal aid is widely recognised as a key mechanism for enabling access to justice, however its inherent ambivalences and structural limitations have been highlighted in the literature. This paper explores how access to rights is enacted in everyday practice through a qualitative study of a volunteer-based organisation of “street lawyers” operating in Italy, which provides free legal aid to people experiencing homelessness. Drawing on volunteers’ accounts of their everyday practices, role interpretations, and encounters with institutional and structural barriers, the study examines how legal protection is enacted in practice, and how it both reveals and responds to the tensions shaping access to rights at the margins of citizenship. The findings underscore the relevance of approaches oriented towards the strengthening of rights as key levers for countering social exclusion and promoting substantive citizenship. The experiences of SL demonstrate that legal aid plays a significant role not only in relation to judicial outcomes, but also through its functions of recognition, visibility, and the restoration of voice to marginalised individuals.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.36253/smp-17084",
+     "doi": "10.36253/smp-17084",
+     "paginas": "95-106",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.36253/smp-17644",
+     "titulo": "Climate Change and Far-Right Politics: Between Adoption and Adaptation",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Manuela Caiani",
+       "orcid": null
+      },
+      {
+       "nombre": "Nicolò Pennucci",
+       "orcid": null
+      }
+     ],
+     "resumen": null,
+     "idioma_resumen": null,
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.36253/smp-17644",
+     "doi": "10.36253/smp-17644",
+     "paginas": "107-115",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.36253/smp-16840",
+     "titulo": "Populist Attitudes, Ideology, and Climate Change Beliefs: A Comparative Analysis of Six European Countries",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Moreno Mancosu",
+       "orcid": null
+      },
+      {
+       "nombre": "Cecilia Biancalana",
+       "orcid": null
+      },
+      {
+       "nombre": "Riccardo Ladini",
+       "orcid": null
+      },
+      {
+       "nombre": "Arturo Bertero",
+       "orcid": null
+      }
+     ],
+     "resumen": "Existing literature highlights ideology as a key factor in shaping public opinion on climate change. Overall, left-wing individuals are more likely to believe in climate change and express concern about it than their right-wing counterparts. Moreover, in recent years, research has increasingly focused on the role of (right-wing) populism and nationalism, showing that individuals with populist and nationalist attitudes are less likely to believe in human-induced climate change and more likely to oppose environmental protection and fossil fuel taxes. However, the interaction between populist attitudes and ideological orientation remains partially underexplored. Does the relationship between populist attitudes and belief in the anthropogenic nature of climate change vary depending on individuals’ ideology? This study provides novel and up-to date evidence to the research question, drawing on an original and recent large-N comparative survey (n~15,000) conducted after the 2024 European elections and covering six European countries (Italy, France, Poland, Germany, Sweden, and Spain). Our results confirm that right-wing identification is substantially associated with lower levels of belief in the anthropogenic climate change. Moreover, populist attitudes are associated with lower levels of belief in anthropogenic climate change across the ideological spectrum, and their impact is especially strong among left-wing individuals. These patterns vary cross-nationally, with Germany and Sweden displaying stronger associations, likely due to the greater politicization of climate issues in such contexts.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.36253/smp-16840",
+     "doi": "10.36253/smp-16840",
+     "paginas": "117-130",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.36253/smp-16976",
+     "titulo": "An Obstacle to the Sustainability Transformation? How Conspiracy Beliefs Shape Climate (In)action",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Kevin Winter",
+       "orcid": "https://orcid.org/0000-0002-9201-2986"
+      }
+     ],
+     "resumen": "Conspiracy theories about climate change and climate policies are deliberately spread, mainly by right-wing actors. Such narratives can limit societies’ ability to address climate change. But what exactly are the consequences of believing in climate-related conspiracy theories and who is susceptible to believe them? Political ideology is known to shape citizens’ views on climate-related topics, yet another worldview might be relevant. Recent empirical work suggests that the so-called conspiracist worldview (i.e., the assumption that societal events are the result of secret plots by malevolent and powerful groups) can be a strong determinant of climate-related conspiracy beliefs and behavior. The current article reviews this work and provides a theoretical framework for studying the link between conspiracy beliefs and climate-related behavior. In many cases, the conspiracist worldview appears to be more influential than political ideology in predicting climate-related beliefs and behavior. At the same time, the current review doubts that conspiracy beliefs per se are an obstacle to sustainability. Disentangling effects of different worldviews and differentiating between types of conspiracy beliefs can provide a more nuanced view. This approach could inform the design of future studies and help address the challenges that misinformation and conspiracy theories pose for communicators and institutions who aim to bring about the sustainability transformation.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.36253/smp-16976",
+     "doi": "10.36253/smp-16976",
+     "paginas": "131-144",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.36253/smp-17060",
+     "titulo": "«I Don’t Need Climate Change to Be an Ecologist»: Far-right Ecological Activism, or When Climate (Almost) Doesn’t Matter",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Lise Benoist",
+       "orcid": "https://orcid.org/0009-0002-2074-814X"
+      }
+     ],
+     "resumen": "This article examines how far-right activists from groups within the French extra-parliamentary far right that have incorporated ecological issues into their agenda relate specifically to climate change. In doing so, it aims to further tackle the why and how of climate acceptance/denialism within far-right ecologism. The analysis of in-depth interviews reveals that, while climate change is widely acknowledged, the denial of its anthropogenic causes persists. However, the interviewed activists’ disengagement from climate issues also stems from their perception of such issues as further entrenching a political and economic status quo they claim to oppose, as well as overshadowing other ecological issues fundamental to their ecologism. This results in an ecological activism where climate issues, when not entirely absent, are deemed redundant, and are therefore relativised rather than simply opposed. The findings reinforce the importance of the environment/climate division and the obsolescence of the denier/non-denier dichotomy, while providing additional perspectives on the articulations of these dimensions. The article concludes on the implications of these findings, as well as on how far-right ecologists see ecological issues as embedded in a broader «anthropological crisis» that they aim to mitigate, and which should be further investigated.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.36253/smp-17060",
+     "doi": "10.36253/smp-17060",
+     "paginas": "145-156",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.36253/smp-17182",
+     "titulo": "Victims of the Green Transition: Harm Narratives in AfD’s Climate Skepticism",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Till Hilmar",
+       "orcid": "https://orcid.org/0000-0001-5112-6752"
+      }
+     ],
+     "resumen": "This article examines how politicians from Germany’s main far right party, Alternative für Deutschland (AfD), delegitimize climate policies and climate action in their political communication. To this end, it analyzes more than 430.000 tweets posted between 2009 and 2023. Drawing on combination of computational and qualitative analysis, it investigates how the negative effects of climate action is framed through narratives. The findings reveal two major strategies: first, climate policies are portrayed as harming specific “deserving” groups – like citizens, taxpayers, commuters, and workers – whose livelihoods are said to be threatened by rising costs; second, pro-climate actors are vilified as “naïve”, “delusional”, and a threat to the moral order of society. Through these affective narrative configurations, AfD communication positions the party as the rational defender of the “middle of society”, effectively inverting the climate script by shifting attention from environmental catastrophe to alleged economic and social decline.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.36253/smp-17182",
+     "doi": "10.36253/smp-17182",
+     "paginas": "157-168",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.36253/smp-16838",
+     "titulo": "Far-right Climate Skepticism Across Europe: The Transnationalization of Narratives?",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Manuela Caiani",
+       "orcid": null
+      },
+      {
+       "nombre": "Nicolò Pennucci",
+       "orcid": null
+      }
+     ],
+     "resumen": "This article explores the evolving relationship between radical right actors and environmental issues in Europe, focusing on whether a transnational environmental politics is emerging within the radical right beyond the traditional stance of denialism. Through a quantitative text analysis (Topic Model and Dictionary Based Content Analysis) of Facebook data (77116 posts) from political parties, social movements, and leaders across seven European countries (138 actors from Italy, France, the United Kingdom, Austria, Hungary, Poland, and the Czech Republic), we aim to identify the frames and narratives used by radical right actors to discuss environmental issues. The study is guided by two central research questions: (a) How do political ideologies along the classic right – left axis influence the framing and positioning of environmental issues among radical right actors in Europe? (b) Are there more similarities or differences across these actors, and are there indications of cross – border alignment? Building on these inquiries, we investigate whether radical right actors are increasingly adopting an environmentalist position, distinct from denialism, to articulate a climate ideology rooted in far-right values such as nationalism, identity preservation, and anti – globalism. By identifying shared frames and narratives, our study seeks to uncover potential patterns of transnationalization in radical right environmental discourses, shedding light on the interplay between ideological evolution and strategic positioning in response to environmental challenges. This study provides both an empirical contribution and a typological – analytical perspective, offering a more comprehensive understanding of how radical right actors currently discuss and frame environmental issues.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.36253/smp-16838",
+     "doi": "10.36253/smp-16838",
+     "paginas": "169-182",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.36253/smp-17050",
+     "titulo": "Ecofascism’s Dual Legacy: Local Revolts and Imperial Dreams in Italy",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Nicola Guerra",
+       "orcid": "https://orcid.org/0000-0003-2519-7041"
+      }
+     ],
+     "resumen": "This study analyzes the ideological and political frameworks of three Italian radical ecofascist movements: the National Anarchists (N-As), the Alliance of Italian Anarchist Nationalists (ANAI), and National Resistance - National Autonomists (NR-NA). Employing a multi-methodological approach, with a particular emphasis on inductive qualitative thematic analysis, the research reconstructs the ideological foundations of these movements, focusing on the pivotal role of nature within their doctrines. These groups are identified not merely as far-right environmentalists, but as genuine ecofascists, who elevate natural laws above human legislation, drawing on an organicist worldview rooted in nature. The study reveals their rejection of nationalism and the nation-state, which they perceive as tools of capitalism, and underscores their distinctly anti-liberal political eclecticism, which is explored in its various dimensions.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.36253/smp-17050",
+     "doi": "10.36253/smp-17050",
+     "paginas": "183-199",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.36253/smp-17021",
+     "titulo": "Drill, Baby, Drill. How Misogynist and Far-right Narratives Are Connected to Issues of Environmentalism",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Linda Coufal",
+       "orcid": "https://orcid.org/0000-0003-1678-8835"
+      }
+     ],
+     "resumen": "Through empirical observation of far-right politicians currently present in national politics of several countries, as well as scientific research, we know, that far-right ideology goes hand in hand with misogyny and anti-environmentalism. Nevertheless, this ideological triad hasn’t been subject to scientific scrutiny. There is research on far-right ideology and patriarchal misogyny, on far-right populism and anti-environmental attitudes and further on anti-environmentalism and patriarchal gender roles. This article connects these three research paradigms through quantitatively assisted discourse analysis of environmental issues in an online forum of Incels (involuntary celibates). Incels are an online community of misogynist extremists, or far-right white supremacists, depending on which academic and security agency sources one considers. This ambiguity of Incel ideology makes them a perfect candidate to research the ideological triad of far-right, misogyny and anti-environmentalism. The analysis shows, technocratic and knowledgeable engagement with scientific or policy issues frequently coexisting with, and lending legitimacy to, conspiratorial interpretations. Incel environmental discourse does not simply reject climate science but selectively reinterprets it in ways that reinforce far-right worldviews, demonstrating how environmental issues can function as sites where scientific (mis)information, misogyny, and far-right ideology mutually reinforce.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.36253/smp-17021",
+     "doi": "10.36253/smp-17021",
+     "paginas": "201-214",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.36253/smp-17645",
+     "titulo": "L’artificazione nelle mode. Una lettura sociologica | Artification in fashion. A sociological reading",
+     "idioma_titulo": "it",
+     "autores": [
+      {
+       "nombre": "Lorenzo G. Baglioni",
+       "orcid": "https://orcid.org/0000-0001-8025-2424"
+      }
+     ],
+     "resumen": "Can fashion be considered one of the possible worlds of art? Fashion, the aesthetic economy par excellence, is more often associated with craftsmanship than with art. However, a progressive artification of fashion regarding the function and structure of clothing is undeniable, at least in relation to specific contexts, actors, and creations. This process originated with the early talented tailors and evolved through both the historical and new avant-gardes. As a bodily simulacrum, the garment is capable of amplifying symbolic meanings – all the more so in the case of an art-garment. Using a sociological key, this essay analyzes the relational dynamics, the normative dimension, the characteristics of artisticity, and the stages of artification in fashion, considering the different approaches adopted by fashion designers and artists.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.36253/smp-17645",
+     "doi": "10.36253/smp-17645",
+     "paginas": "227-234",
+     "fuente": "Crossref"
+    }
+   ]
+  },
+  {
+   "id": "2026",
+   "volumen": null,
+   "numero": null,
+   "anio": 2026,
+   "fecha": "2026-04-27",
+   "etiqueta": "Publicación continua (2026)",
+   "fuente": "Crossref",
+   "articulos": [
+    {
+     "id": "10.36253/smp-17097",
+     "titulo": "Ageism in healthcare and social care settings in Europe: a scoping review",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Stefano Poli",
+       "orcid": null
+      },
+      {
+       "nombre": "Paola Giannoni",
+       "orcid": null
+      },
+      {
+       "nombre": "Giada Moretti",
+       "orcid": null
+      }
+     ],
+     "resumen": "Ageism is a widespread, complex form of discrimination negatively affecting older adults’ health, well-being, and access to healthcare and social services. In rapidly ageing societies, particularly in Europe, it has become a critical social determinant of health, shaping clinical decision-making, professional practices, organizational routines and health policies. Despite growing research on ageism, evidence remains fragmented, highlighting the need for systematic synthesis. This scoping review maps recent literature on ageism toward older adults in healthcare and social care settings. Searches were conducted in Scopus and PubMed for peer-reviewed articles published between 2021 and 2025, following the COVID-19 emergency. Fifty-five studies in European contexts were included and analysed using Template Analysis with MAXQDA. Findings show that ageism operates across four interrelated levels: internalized/self-ageism, individual/interpersonal, institutional/organizational, and structural/systemic. These levels are associated with a range of specific outcomes: internalized stereotypes, psychological distress, compromised clinical communication, ethical implications, biased service design, health and digital inequalities. While educational and organizational efforts are effective, they remain insufficient. Addressing ageism requires integrated, multilevel strategies, combining education, organizational change, policy interventions, and age-inclusive technological design.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.36253/smp-17097",
+     "doi": "10.36253/smp-17097",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.13128/smp-11947",
+     "titulo": "La condizione dei Rom (RSC) in Italia tra processi di discriminazione, esclusione e segregazione lavorativa",
+     "idioma_titulo": "it",
+     "autores": [
+      {
+       "nombre": "Marco Omizzolo",
+       "orcid": null
+      },
+      {
+       "nombre": "Pina Sodano",
+       "orcid": null
+      }
+     ],
+     "resumen": "The essay summarizes the data collected in a research, which is still in progress, conducted by the Tempi Moderni study centre on the condition of the Rom communities in Italy. It is based on two fundamental theses. First of all, on the fact that the system of inequalities experienced by Rom people is multidimensional. These dimensions influence each other on a material level and turn the relationship between cause and effect, legitimising widespread prejudice and discrimination against the Rom community. These prejudices are reconstructed also from a historical point of view, and the essay focuses mainly on employment and housing inequality. The second thesis analyzes the system of complex disparities affecting Rom communities within the system of inequalities and discriminations typical of Italian and global society. Inequality, poverty and work segregation are therefore the consequences of political choices aimed at marginalizing the numerous Rom communities and legitimizing widespread and dangerous commonplaces and prejudices.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.13128/smp-11947",
+     "doi": "10.13128/smp-11947",
+     "paginas": "101-112",
+     "fuente": "Crossref"
+    }
+   ]
+  },
+  {
+   "id": "v16-n32-2025",
+   "volumen": "16",
+   "numero": "32",
+   "anio": 2025,
+   "fecha": "2025-12-30",
+   "etiqueta": "Vol. 16, núm. 32 (2025)",
+   "fuente": "Crossref",
+   "articulos": [
+    {
+     "id": "10.36253/smp-16209",
+     "titulo": "Community Experiences and Practices of Resistance in Neoliberal Rationality",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Emiliana Mangone",
+       "orcid": "https://orcid.org/0000-0002-9958-4346"
+      },
+      {
+       "nombre": "Michele Sorice",
+       "orcid": null
+      }
+     ],
+     "resumen": "This article critically examines communities as sites of resistance to neoliberal rationality. It analyses their transformative potential in reconfiguring social relations within contemporary democratic crises. The study conceptualises communities of resistance as collective entities engaged in defending and strengthening social structures against systemic threats, while advocating for the reduction of inequalities and the protection of common resources. Using interdisciplinary perspectives from critical sociology and media studies, the analysis transcends the reductionist view of neoliberalism as a mere economic paradigm and reconceptualises it as a comprehensive rationality that fundamentally alters both social organisation and subjective formation. Tracing the evolution from traditional community formations to communities of practice and finally to communities of resistance, the article examines how digital ecosystems have reconfigured participation through the logic of connective action. The study examines vulnerability as a potentially transformative resource, particularly in liminal urban spaces where resistance is manifested through participatory processes, resource redistribution systems and mutual aid networks. The conclusion emphasises the importance of social scientists adopting critical methodological approaches to contribute to the promotion of a more inclusive and supportive society.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.36253/smp-16209",
+     "doi": "10.36253/smp-16209",
+     "paginas": "5-14",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.36253/smp-16185",
+     "titulo": "Digital Antagonisms: AI, Neoliberalism, and the Shaping of Global Power Dynamics",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Vlad Alalykin-Izvekov",
+       "orcid": null
+      }
+     ],
+     "resumen": "As artificial intelligence (AI) penetrates global society, its convergence with neoliberal ideologies continues to reconfigure power in profound and often troubling ways. Recent geopolitical shifts—including changing U.S. foreign policies, rising techno-nationalism, and contested debates over AI governance—have deepened these dynamics. This paper examines the evolving interplay between AI and neoliberalism, focusing on how these forces intersect to reshape global structures of power in the digital era. By analyzing AI’s role in sustaining neoliberal rationalities, it explores how digital technologies influence political, economic, and cultural landscapes. Ultimately, the study questions whether AI merely reinforces systems of profit and control, or if it also opens spaces for democratic renewal and alternative futures.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.36253/smp-16185",
+     "doi": "10.36253/smp-16185",
+     "paginas": "15-23",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.36253/smp-16190",
+     "titulo": "Resistance Communities. Processes of Participation, Symbolic Conflicts and Liminality",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Fabiana Battisti",
+       "orcid": "https://orcid.org/0000-0003-4782-5213"
+      },
+      {
+       "nombre": "Andrea Volterrani",
+       "orcid": "https://orcid.org/0000-0003-2453-0025"
+      }
+     ],
+     "resumen": "This paper examines resistance communities as critical actors in socio-political transformation within an increasingly digital society where social relationships shape collective action despite the atrophy of community norms. Investigating communities in liminal spaces facing economic, environmental, and cultural crises, we analyze how they challenge power structures through collective action and symbolic resistance. Our research examines the European Cerv Co-Green project across four countries and two grassroots associations in Rieti province defending mountain ecosystems. Through participant observation, workshops and interviews (2022-2024), we identify the forms of aggregate resistance, bonds of belonging, and differences between digital and non-digital approaches. We propose a conceptual model systematising the four activation spheres of resistance communities within the nexus identified in resistance studies concerning the interplay between the individual and collective dimensions, as well as constructive and destructive dissent. These spheres are: individual-value, communicative-relational, operational-strategic and socio-political-territorial. The model offers a nuanced understanding of the dynamics of liminal resistance experiences.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.36253/smp-16190",
+     "doi": "10.36253/smp-16190",
+     "paginas": "25-36",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.36253/smp-16188",
+     "titulo": "Counter-Resistant Digital Communities: The Impact of Truth Social in a Fragmented Society",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Daniele Battista",
+       "orcid": "https://orcid.org/0009-0005-8418-8374"
+      },
+      {
+       "nombre": "Marta Gallina",
+       "orcid": "https://orcid.org/0000-0003-1004-6881"
+      }
+     ],
+     "resumen": "In today’s digital landscape, social media platforms serve as central spaces for political communication and community building. However, the growing fragmentation of information has fostered ideological polarization and the emergence of closed environments, such as Truth Social, launched by Donald Trump following his exclusion from traditional channels. Focusing on the U.S. case, this study examines how Truth Social functions as a refuge for groups perceived as isolated from mainstream discourse, offering a context of cultural and political “resistance” that often conveys identitarian and exclusionary visions. The article explores communicative dynamics and the construction of political identity within this alternative digital space, where the algorithm rewards engagement regardless of the reliability of the content. The result is a progressive radicalization, fuelled by echo chambers and filter bubbles that strengthen internal cohesion and limit democratic dialogue. Through an illustrative comparative reading of significant posts published by Trump on Truth Social, X, Instagram, and TikTok during the 2024 presidential campaign, the study highlights differences in tone, political purpose, and rhetorical strategies. While Truth Social fosters a direct, intimate, and polarizing communication with Trump’s electoral base, the other platforms reveal a more strategic and performative use of language. The text technically emphasizes how Truth Social is not merely a distribution tool but rather a true space of ideological belonging, contributing to the formation of closed communities and the radicalization of public opinion. The article thus offers a critical reflection on the role of alternative platforms in reshaping the public sphere and the democratic implications of growing digital segmentation.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.36253/smp-16188",
+     "doi": "10.36253/smp-16188",
+     "paginas": "37-47",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.36253/smp-16162",
+     "titulo": "Becoming Mothers? No Thanks! The Phenomenon of Childfree Women in a Web Community",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Giuseppe Masullo",
+       "orcid": "https://orcid.org/0000-0003-0818-6981"
+      },
+      {
+       "nombre": "Brian Joseph Gilley",
+       "orcid": null
+      }
+     ],
+     "resumen": "The article intends to examine the cultural phenomenon called “childfree”, that is, those women who choose not to have a child, and examines the forms of symbolic and relational psychological resistance that they give rise to in opposition to a culture that, instead, still forcefully affirms the equation “woman = mother”. To this end, the study focuses on two web communities on the social media Facebook that bring together online all the women who adhere to this subcultural universe in which the experience of motherhood does not constitute a goal of fulfillment. Applying a digital ethnography approach, the researchers wanted to examine, through the posts, the discursive and communicative practices through which women define themselves as childfree; the motivations that lead to giving up, to the point of belittling, what is still considered the maximum expression of a woman’s fulfillment: becoming a mother. The study also aims to verify whether a “collective self” is created where the community becomes a catalyst for identity, culture, emancipation and struggle, as well as the nucleus of resistance to dominant models to build alternative visions on concepts such as motherhood, gender roles, educational models, representations of femininity.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.36253/smp-16162",
+     "doi": "10.36253/smp-16162",
+     "paginas": "49-59",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.36253/smp-16191",
+     "titulo": "Intergenerationality and Social Change through Popular Education in a Neoliberal World: A Case Study of Popular Schools in Rome",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Peter Mayo",
+       "orcid": "https://orcid.org/0000-0002-1418-773X"
+      },
+      {
+       "nombre": "Fiorenzo Parziale",
+       "orcid": "https://orcid.org/0000-0002-7826-2356"
+      },
+      {
+       "nombre": "Elena Zizioli",
+       "orcid": "https://orcid.org/0000-0001-8697-476X"
+      }
+     ],
+     "resumen": "This article focuses on popular education as a means of intergenerational education for social transformation against the neocolonial neoliberalism imposed by the “West”. The intergenerational nature of popular education has received little attention, yet it is truly relevant, especially today. Indeed, the current political and economic context is witnessing the spread of new political movements in the Global ‘North’, and even more so in regions like ‘Southern’ Europe, in which young and older educators develop intercultural relationships with children and adolescents from ethnic minorities, often from working-class backgrounds. The relationship between educators and students can challenge common sense steeped the Neoliberal Ideology, as evidenced by the illustrative example of the popular schools in Rome.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.36253/smp-16191",
+     "doi": "10.36253/smp-16191",
+     "paginas": "61-71",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.36253/smp-16164",
+     "titulo": "Digital Reflexive Community as a Healing Force: The Case of HakSende Among Alevi People in Turkey",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Nuran Erol Isik",
+       "orcid": "https://orcid.org/0000-0003-0606-2694"
+      },
+      {
+       "nombre": "Sati Sariaslan Atli",
+       "orcid": "https://orcid.org/0000-0002-4132-6926"
+      }
+     ],
+     "resumen": "The Alevi community in Turkey, numbering over 15 million, has faced social and political marginalization due to its distinct cultural and religious heritage. In recent years, Alevi culture and identity have provided opportunities to redefine key fault lines in Turkish society. The rise of digital media has enabled Alevis to create online communities and negotiate their spirituality and morality. This study explores the digital spiritual community of Alevi people, analyzing the key characteristics of Alevi spirituality and morality in online spaces. We examine how Alevi individuals use digital platforms to construct their identity, reconnect with their heritage, and engage in moral and spiritual discussions. Our research draws on in-depth interviews with 10 members of an online Alevi community, virtual ethnographic research, and a focus group with 8 participants. We investigate the interplay between reflexivity, spirituality, morality, narrativity, and agency in the digital sphere. The findings suggest that the online Alevi community provides a discursive space for negotiating spirituality and morality. Members use digital platforms to share narratives, seek guidance, and engage in moral discussions. The community’s spiritual understanding of the lifeworld is mediated through daily conversations, social media, and other digital practices. We argue that the Alevi community’s digital presence is a response to the challenges of modernity and the need for solidarity and collective identity. The online community offers a space for Alevi individuals to re-construct their heritage, negotiate moral virtues, and develop a reflexive self. This study contributes to our understanding of the intersection of digital media, spirituality, and community building. It highlights the importance of reflexivity and narrativity in shaping moral identity and constructing community in online spaces.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.36253/smp-16164",
+     "doi": "10.36253/smp-16164",
+     "paginas": "73-85",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.36253/smp-16181",
+     "titulo": "Social Vulnerability and the Right to Housing in Brazil: An Example of Urban Resistance",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Salyanna De Souza Silva",
+       "orcid": "https://orcid.org/0000-0002-3329-4856"
+      },
+      {
+       "nombre": "Gisele Caroline Ribeiro Anselmo",
+       "orcid": "https://orcid.org/0000-0003-4130-1152"
+      },
+      {
+       "nombre": "Francesca Cubeddu",
+       "orcid": "https://orcid.org/0000-0002-7475-6084"
+      }
+     ],
+     "resumen": "The awareness of a given phenomenon involves the implementation of an organised and defined solution based on the perception of social insecurity and exposure to different forms of inequality (economic, social and cultural). From these processes emerge forms of resilience and resistance, i.e. the capacity of an individual, a community or a society to adapt, endure and emerge from problematic and critical situations. In Brazil, there are numerous examples of social movements as a collective form of resistance that fight for land and housing, both in rural and more urbanised areas. Such as the Movimento dos Trabalhadores Sem Teto (MTST). Starting from the concept of resilience and social resistance, this work aims to analyse the forms that these take, through the actions of the Movement, to provide social responses to combat inequality and poverty. In the first part, more of a theoretical nature, the different declinations and modes of expression of the concepts of resilience and social resistance will be highlighted. In the second part, these concepts will be declined by analysing the work of the Movimento dos Trabalhadores Sem Teto (MTST), in the implementation of rights, opportunities and in defining criteria for social justice.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.36253/smp-16181",
+     "doi": "10.36253/smp-16181",
+     "paginas": "87-97",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.36253/smp-16189",
+     "titulo": "Ecological Resistance in Intentional Communities. A Case Study of Sociocratic Governance in an Ecovillage in Navarre (Spain)",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Marina Bertino",
+       "orcid": "https://orcid.org/0009-0000-0087-0223"
+      },
+      {
+       "nombre": "María Dolores Martín-Lagos López",
+       "orcid": "https://orcid.org/0000-0003-3540-9079"
+      }
+     ],
+     "resumen": "This paper explores ecological resistance through the lived experience of Arterra Bizimodu, an ecovillage in Navarre, Spain, where around 40 people have come together to create a life centred on cooperation, sustainability, and shared governance. As part of a wider neo-rural movement, many of the residents – mainly aged between 25 and 45 – have chosen to leave urban life behind in search of a more meaningful and ecologically aligned existence. The community is the headquarters of GEN-Europe (Global Ecovillage Network) and plays a key role in networks supporting transformative learning and regenerative living. Drawing on fieldwork conducted in 2024, including participant observation and 12 interviews, this study looks closely at how sociocratic decision-making, permaculture design, and everyday ecological practices shape both personal and collective transformation. Tools like non-violent communication and participatory democracy help foster mutual trust, emotional awareness, and a sense of shared responsibility. Rather than representing utopian idealism or retreat, Arterra Bizimodu functions as a grounded experiment in socio-ecological transition. It illustrates how ecovillages can act as real-world laboratories in the daily practice of care, participation, and interdependence.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.36253/smp-16189",
+     "doi": "10.36253/smp-16189",
+     "paginas": "99-108",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.36253/smp-16156",
+     "titulo": "From Procurement to Food Justice: Colombia’s Institutional Turn",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Lucia Picarella",
+       "orcid": "https://orcid.org/0000-0001-5275-1111"
+      },
+      {
+       "nombre": "Patrizia La Trecchia",
+       "orcid": "https://orcid.org/0000-0003-2719-0126"
+      }
+     ],
+     "resumen": "This article analyzes the case of the Colombian Government Agency Colombia Compra Eficiente as an example of an institutional innovation that actively challenges neoliberal rationality in the fight against hunger. It argues that, through targeted strategies, the agency is transformed into a community of resistance to the dominant capitalist paradigm, thus serving as a vehicle for the democratization and institutionalization of practices traditionally associated with grassroots social movements. By examining two key strategies – Ruta de la Democratización and Mi Mercado Popular – the article demonstrates how the agency disrupts conventional dichotomies between state and civil society in food sovereignty scholarship, suggesting that institutional actors can play a pivotal role in reorienting local development models toward social and food justice goals.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.36253/smp-16156",
+     "doi": "10.36253/smp-16156",
+     "paginas": "109-117",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.36253/smp-16193",
+     "titulo": "Resisting the Malls. Communication and Networking Practices of Solidarity Purchasing Groups (GAS) in Italy",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Marco Binotto",
+       "orcid": "https://orcid.org/0000-0002-7260-8870"
+      },
+      {
+       "nombre": "Milena Cassella",
+       "orcid": "https://orcid.org/0000-0002-1055-3333"
+      },
+      {
+       "nombre": "Ignazio Terrana",
+       "orcid": "https://orcid.org/0009-0000-3981-6910"
+      }
+     ],
+     "resumen": "In neoliberal governance, the space for addressing most issues, whether private or public, is market driven. Political consumerism movements have for decades promoted a set of values, proposals, and “narratives” that aim to combine concern for the environment and social justice with profound changes in everyday life and lifestyles. In Italy, the purchase of products made by adopting criteria of sustainability and social responsibility or from organic farming, made through the collective organization of GAS, the Solidarity Purchasing Groups, is a distinctive solution among the many ethical consumption practices implemented in different territories or countries. The research’s objective was a) to analyze the external communication tools of GAS; and b) to study, through a network analysis, the structure of the connections and relationships between the websites of the groups and social movement organizations. The websites, profiles on social network sites and visual identity of more than 300 GAS present in the Italian territory were analyzed. Despite the fact that network strategy remains central to the movement’s repertoire of action and is articulated in a plentiful and karstic flow of relationships or, even intense, local activities and community-purchasing initiatives, these still struggle to emerge in digital communication, this potential does not invariably result in the transformation of resistance into communicative communities.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.36253/smp-16193",
+     "doi": "10.36253/smp-16193",
+     "paginas": "119-130",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.36253/smp-16183",
+     "titulo": "Digital Detox Communities as a Form of Resistance to Perpetual Connectedness: The Case of Social Eating",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Marianna Coppola",
+       "orcid": "https://orcid.org/0000-0003-3055-9799"
+      }
+     ],
+     "resumen": "The advent of the Internet and the spread of online communication have represented one of the greatest socio-cultural changes in recent years, also in terms of the dimension of time. While the proliferation of digital spaces and virtual contexts—in which forms of aggregation and social identification processes can be traced—has broadened the range of possible socialization processes for individuals, face-to-face experiences have seen the primacy of the process of constructing intersubjectivity gradually eroded. However, especially in the post-COVID-19 pandemic period, there has been a countertrend among some groups of people who have put forward new demands and needs: the reappropriation of face-to-face socialization. The phenomenon – defined as digital detoxification, or purification from social media and the Internet for a temporary period of varying duration—involves a growing community of people around the world across gender, age, and social class (Syvertsen, Enli, 2020; Ansari et al. 2024). Digital detox communities are growing throughout the Western world, according to a study by Radtke et al. (2021), which found that in the United States in 2020-2021, approximately 15% of the American population searched at least once on search engines for advice or ways to ‘disconnect’ from the internet, and that during the same period, registrations for apps or communities increased by 75%. It is precisely this new need that has prompted some dating app developers to start designing a new type of app, seeking to develop a hybrid form that combines the need to ‘create opportunities for socializing on the digital side’ with the possibility of meeting and connecting with potential friends, partners, and new acquaintances solely and exclusively through face-to-face experiences. This is, therefore, a new frontier for dating apps, which mixes different features and needs to create opportunities to meet and connect through real and typically ‘analog’ experiences, such as attending exhibitions, concerts, day trips, or cultural events, depending on one’s inclinations and passions. A new dating app called Tablo has recently been launched. It is a true social networking app in that, in order to exchange phone numbers and stay in touch, users ‘must’ participate in a face-to-face social experience, carving out time in their daily schedules and offline lives. The aim of this research was to analyze the motivations, relational modes, and uses of digital space among users registered on the Tablo app, while also highlighting aspects of perception and representation in the imagination of time and relationships with the need for digital detox. To answer the research questions, a mixed methods research experience was conducted, combining different research methodologies: in the first phase, a digital ethnography analysis was carried out, analyzing 300 profiles, interactions, and ‘social life’ of the community registered on the app; in the second phase, in-depth interviews were conducted with 30 users who regularly use Tablo.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.36253/smp-16183",
+     "doi": "10.36253/smp-16183",
+     "paginas": "131-142",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.36253/smp-16161",
+     "titulo": "Alternative Tourism and Platform Cooperativism: The Resistance Practices of Abruzzo’s Community-based Cooperatives",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Francesca Belotti",
+       "orcid": "https://orcid.org/0000-0002-7335-2686"
+      },
+      {
+       "nombre": "Antonio Opromolla",
+       "orcid": "https://orcid.org/0000-0002-6415-3829"
+      },
+      {
+       "nombre": "Fabio Virgilio",
+       "orcid": "https://orcid.org/0000-0001-9595-3178"
+      },
+      {
+       "nombre": "Giulia Candeloro",
+       "orcid": "https://orcid.org/0000-0003-2329-1130"
+      },
+      {
+       "nombre": "Luciana Mastrolonardo",
+       "orcid": "https://orcid.org/0000-0002-0873-3992"
+      },
+      {
+       "nombre": "Stefania Parisi",
+       "orcid": "https://orcid.org/0000-0003-4808-4664"
+      }
+     ],
+     "resumen": "The article presents the results of an action research project carried out in Abruzzo, a region in southern Italy characterized by high socio-economic marginalization. Eight community-based cooperatives active in alternative tourism and local services participated in the co-design of a digital mock-up of a platform that reflects their values and practices. The experience is analyzed as a form of resistance to the “hit-and-run” tourism promoted by mainstream platforms such as AirBnB and Booking. The theoretical framework draws upon studies on the platformization of tourism and the resulting socio-cultural transformations, as well as literature on alternative tourism and platform cooperativism. Inductively, it also integrates studies on community resistance practices and commoning actions. The methodological framework is based on digital co-design as a qualitative research method with a sociological vocation. The results show that the co-designed platform, AbiTerrò, has fostered the formation – albeit complex and not without tensions – of a collective identity among the cooperatives, which have thus positioned themselves as a community of resistance, even in the digital sphere, to the dominant tourism model enabled by mainstream platforms. Compared to the latter, the cooperatives adopt both oppositional and propositional practices and positions, which are immediately translated into the digital design of AbiTerrò.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.36253/smp-16161",
+     "doi": "10.36253/smp-16161",
+     "paginas": "143-160",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.36253/smp-16203",
+     "titulo": "Spaces of Resistance of Participatory Arts in Cultural Welfare Initiatives. Insight of Italian Case Studies",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Giulia Allegrini",
+       "orcid": "https://orcid.org/0000-0001-9157-1527"
+      },
+      {
+       "nombre": "Teresa Carlone",
+       "orcid": "https://orcid.org/0000-0002-7300-3945"
+      }
+     ],
+     "resumen": "This article explores the many challenges that arise when artistic practices are evaluated through the lens of social impact. Such an approach compels artists to engage not only with aesthetic considerations but also with social, community-oriented, and participatory dimensions. We aim to contribute to the understanding of how artistic practices are shaped by the growing emphasis institutions place on generating social outcomes across various policy areas. This occurs within a broader transformation of welfare systems toward models of community welfare, rooted in participatory and collaborative principles. Within this emerging paradigm, the cultural sector is playing an increasingly vital role, as reflected in the concept of Cultural Welfare. The insights shared in this article stem from a systematic analysis of findings gathered through three research that explored how participatory artistic practices take shape within processes of significant social relevance. The results presented show that artistic practices can indeed generate meaningful social effects. However, it is challenging to reconcile artistic creation, which may not always be inherently tied to community engagement or specific social goals, with efforts to involve communities and ensure the sustainability of such practices. This tension gives rise to an ambivalent dynamic: on one hand, it is consciously navigated by artists and cultural organizations within the art system but on the other, it opens potential spaces for creative resistance.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.36253/smp-16203",
+     "doi": "10.36253/smp-16203",
+     "paginas": "161-171",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.36253/smp-16194",
+     "titulo": "Gender-Sensitive Learning Communities: A Case Study",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Gaia Antinelli",
+       "orcid": "https://orcid.org/0009-0001-9246-8959"
+      },
+      {
+       "nombre": "Gaia Peruzzi",
+       "orcid": "https://orcid.org/0000-0002-4750-2206"
+      }
+     ],
+     "resumen": "This article presents a case study of the course “The Third Sector Facing Gender Issues”, conducted between 2023 and 2025 as part of FQTS, a training project for leaders and volunteers in the Third Sector of Southern Italy. The course is analyzed as an experiment in a gender-sensitive learning community: an educational space involving both women and men, aimed at promoting a transformation of gender cultures within organizational cultures, power dynamics and society at large. The theoretical references include the concept of ‘community’ as interpreted by Bauman in relation to that of organization, and pedagogy as a tool for individual and social emancipation, as proposed by hooks. The study highlights how the course enabled the emergence of certain issues that participants – especially women – found difficult to address within their organizations. The investigation was carried out through two main actions: fostering public dialogues among participants during various in-person meetings across different cities, which were treated as a qualitative corpus and subjected to thematic analysis; and conducting interviews with key informants. This article focuses on the results of the first action, which brought to light the prejudices and silent resistances that oppose gender equality, as well as various elements useful for planning future training activities.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.36253/smp-16194",
+     "doi": "10.36253/smp-16194",
+     "paginas": "173-183",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.36253/smp-16279",
+     "titulo": "Anti-Violence Centres and Shelters in Italy: Between Resistance and Institutionalization",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Pietro Demurtas",
+       "orcid": "https://orcid.org/0000-0002-7472-4082"
+      }
+     ],
+     "resumen": "Anti-Violence Centres (AVCs) are conceptualised as feminist communities of resistance, capable of generating counter-hegemonic knowledge and relational practices oriented toward social transformation. However, this configuration is neither given nor homogeneous: it unfolds within a heterogeneous field shaped by growing processes of institutionalisation and bureaucratisation. Drawing on feminist epistemologies and Bourdieu’s field theory, and based on qualitative research – including 35 interviews with practitioners and two focus groups with representatives of feminist networks – this article examines how performance-oriented pressures and administrative standardisation threaten the epistemic and political autonomy of AVCs. The article highlights the strategies enacted by feminist grassroot centres to sustain transformative practices, assert alternative interpretive frameworks, and build alliances within territorial contexts increasingly shaped by institutional actors operating under divergent paradigms. It argues that the survival of AVCs as feminist communities of resistance depends not only on their capacity to counter marginalisation from decision-making processes, but also on their ability to build cross-sectoral solidarities grounded in an intersectional perspective.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.36253/smp-16279",
+     "doi": "10.36253/smp-16279",
+     "paginas": "185-195",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.36253/smp-16622",
+     "titulo": "La produzione sociale del sapere scientifico tra razionalità e questioni ultime: un’analisi del discorso applicata a testi di genetica e neuroscienze | The Social Production of Scientific Knowledge Between Rationality and Ultimate Questions. A Discorurse Analysis Applied to Genetics and Neuroscience Texts",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Benedetta Nicoli",
+       "orcid": "https://orcid.org/0000-0002-6136-5375"
+      }
+     ],
+     "resumen": "This article examines whether and how scientific knowledge, in its public and reflexive moments, engages with ultimate questions understood, with Weber, as existential inquires that exceed formal rationality. The study applies a qualitative discourse analysis to a corpus of 85 monographs written by geneticists and neuroscientists for a non-specialist audience, identifying three recurring configurations: the circularity between scientific knowledge and ultimate questions; the recognition of the epistemic limits of science; and the articulation of moral implications within an «expanded view» of science. In this framework, public scientific discourse does not merely inform or persuade, but becomes a reflexive space in which science addresses ultimate questions by interweaving scientific rationality, existential perspective, normative reflection, and symbolic imagination. In doing so, it also interrogates its own epistemic status, cognitive limits, and social implications. The article concludes by discussing the implications for the sociological study of the social production of scientific knowledge, and invites reflection on the public role of science – and of sociology itself – as a form of knowledge that contributes to the collective construction of meaning in a context marked by fragmented symbolic frameworks and the centrality of formal rationality.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.36253/smp-16622",
+     "doi": "10.36253/smp-16622",
+     "paginas": "197-208",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.36253/smp-15920",
+     "titulo": "Dalla fabbrica al simbolo: mobilitazione e convergenza nel conflitto Gkn | From the Factory to the Symbol: Mobilization and Convergence in the Gkn Conflict",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Angelo Galiano",
+       "orcid": "https://orcid.org/0000-0001-6732-6695"
+      }
+     ],
+     "resumen": "The concept of ‘convergence’ represents an innovative perspective for analysing collective mobilisations and contemporary conflicts. This article develops a theorisation of convergence as a dynamic process that integrates actors, resources and repertoires of action into collective configurations capable of transcending immediate contingencies. Through the case of the Gkn dispute, one of the most significant workers’ mobilisations in Italy, the study analyses how workers built a network of solidarity and resistance, transforming a local crisis into a national symbol. Using methodological tools such as Protest Event Analysis (PEA) and a mechanism-process approach, the research highlights how convergence functions as a catalyst for the construction of collective identities, the articulation of innovative strategies and the redefinition of power relations. The work thus proposes a critical reinterpretation of contemporary mobilisations, suggesting that convergence, in addition to explaining the duration and impact of conflicts, can be an explanatory model of contemporary socio-political transformations.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.36253/smp-15920",
+     "doi": "10.36253/smp-15920",
+     "paginas": "209-222",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.36253/smp-15812",
+     "titulo": "Alcune possibili funzioni del Soggetto | Some Possible Functions of the Subject",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Michela Luzi",
+       "orcid": "https://orcid.org/0000-0002-8568-0636"
+      }
+     ],
+     "resumen": "In contemporary society, new social movements with a cultural focus have emerged, addressing themes such as sexuality, information, ecology, and gender equality. These movements represent a novel form of protest, distinct from the revolutionary and conflict-driven tendencies of traditional movements. For these new social movements to become effective agents of societal transformation, collaboration is essential, along with the support of the “Soggetto,” which represents individuals upheld by rights and institutions. Advocating human rights can be a powerful strategy if it serves as a framework to restore meaning in society, countering the persistent socio-cultural drift that enforces standardized and homogenized roles. This approach, coupled with an understanding of complex interdependence, can help mitigate the effects of disintegrative imperialism and address social crises.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.36253/smp-15812",
+     "doi": "10.36253/smp-15812",
+     "paginas": "223-233",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.36253/smp-17052",
+     "titulo": "Appendice bio-bibliografica su autori e autrici",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "AAVV",
+       "orcid": null
+      }
+     ],
+     "resumen": null,
+     "idioma_resumen": null,
+     "licencia": {
+      "nombre": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0"
+     },
+     "url": "https://doi.org/10.36253/smp-17052",
+     "doi": "10.36253/smp-17052",
+     "paginas": "235-240",
+     "fuente": "Crossref"
+    }
+   ]
+  }
+ ]
+}

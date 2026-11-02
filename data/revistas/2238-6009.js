@@ -1,0 +1,954 @@
+// Copia de revistas/2238-6009.json para abrir la aplicación sin servidor.
+(window.DATOS_REVISTAS = window.DATOS_REVISTAS || {})["revistas/2238-6009.json"] = {
+ "version": 1,
+ "generado": "2026-11-02T05:12:34+00:00",
+ "es_prueba": false,
+ "revista": {
+  "id": "2238-6009",
+  "titulo": "Vivência",
+  "idioma_titulo": null,
+  "titulo_alternativo": "Revista de Antropologia",
+  "idioma_titulo_alternativo": null,
+  "idiomas": [
+   "pt",
+   "en",
+   "es",
+   "fr",
+   "zu"
+  ],
+  "issn_impreso": null,
+  "issn_electronico": "2238-6009",
+  "editorial": "Universidade Federal do Rio Grando do Norte, Programa de Pós-Graduação em Antropologia Social",
+  "pais": "BR",
+  "materias": [
+   "Anthropology",
+   "Sociology (General)"
+  ],
+  "palabras_clave": [
+   "antropology",
+   "ethnography",
+   "sociology"
+  ],
+  "licencias": [
+   {
+    "nombre": "CC BY-NC-SA 4.0",
+    "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+   }
+  ],
+  "url": "https://periodicos.ufrn.br/vivencia/index",
+  "url_doaj": "https://doaj.org/toc/2238-6009",
+  "descripcion": null,
+  "fuente_ficha": "DOAJ",
+  "archivo": "revistas/2238-6009.json",
+  "ultimo_numero": "Vol. 1, núm. 64 (2025)",
+  "fuente_numeros": "Crossref"
+ },
+ "numeros": [
+  {
+   "id": "v1-n64-2025",
+   "volumen": "1",
+   "numero": "64",
+   "anio": 2025,
+   "fecha": "2025-03-19",
+   "etiqueta": "Vol. 1, núm. 64 (2025)",
+   "fuente": "Crossref",
+   "articulos": [
+    {
+     "id": "10.21680/2238-6009.2024v1n64id37793",
+     "titulo": "ANTROPOLOGIA, ARTESANIA E CIANOTIPIA",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Ester Paixão Corrêa",
+       "orcid": "https://orcid.org/0000-0002-4428-2391"
+      }
+     ],
+     "resumen": "Este trabalho tem como intuito traçar diálogos iniciais sobre o fazer artesanal e a antropologia desde as experiências com a fotografia artesanal, de forma específica a respeito da produção de fotografias utilizando a cianotipia como técnica analógicas de criação de imagens. Traço este diálogo a partir das imagens produzidas durante a tese de doutorado desenvolvida no PPGAS da UFRN, e que posteriormente compuseram a montagem apresentando ao Prêmio Pierre Verger, ano 2024, sendo que estas imagens viajantes comunicam sobre os trânsitos das mulheres viajantes latinoamericanas. Apresento como se deu esse processo no qual a artesania, a fotografia e a antropologia se interseccionaram em um movimento artesanal-intelectual. Palavras-chave: Antropologia; fotografia artesanal; cianotipia; Pierre Verger.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+     },
+     "url": "https://doi.org/10.21680/2238-6009.2024v1n64id37793",
+     "doi": "10.21680/2238-6009.2024v1n64id37793",
+     "paginas": "1-25",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.21680/2238-6009.2024v1n64id37821",
+     "titulo": "EM BUSCA DE UM ROTEIRO DE EDIÇÃO",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Ana Lúcia Ferraz",
+       "orcid": "https://orcid.org/0000-0003-3672-8784"
+      }
+     ],
+     "resumen": "Nesse artigo busco discutir a desmontagem do filme etnográfico e sua abertura na forma de Instalação. A pesquisa realizada com os Avá Guarani das margens transnacionais do rio Paraná conta uma história esbulho territorial que é defrontado por de cosmopolíticas guarani. Aprender a ver com os povos guarani é o desafio da aprendizagem que a experiência etnográfica ampliada proporciona para o público. Dialogo com as teorias da passagem entre a forma representativa e um regime estético das artes (Rancière), pensando a desmontagem com a abordagem benjaminiana de Didi-Huberman.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+     },
+     "url": "https://doi.org/10.21680/2238-6009.2024v1n64id37821",
+     "doi": "10.21680/2238-6009.2024v1n64id37821",
+     "paginas": "1-17",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.21680/2238-6009.2024v1n64id37172",
+     "titulo": "POR UMA POÉTICA DECOLONIAL DA MONTAGEM",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Diego Amaral",
+       "orcid": "https://orcid.org/0000-0002-1785-5131"
+      },
+      {
+       "nombre": "Ravena Sena Maia",
+       "orcid": "https://orcid.org/0000-0002-6060-4311"
+      },
+      {
+       "nombre": "Caroline Vieira Sant’Anna",
+       "orcid": "https://orcid.org/0000-0001-9314-8706"
+      },
+      {
+       "nombre": "Greice Schneider",
+       "orcid": "https://orcid.org/0000-0002-0751-2346"
+      },
+      {
+       "nombre": "Luana Campos",
+       "orcid": "https://orcid.org/0009-0002-7051-7008"
+      }
+     ],
+     "resumen": "Tomando como premissa a influência mútua entre os campos da antropologia e da fotografia, este artigo discute apropriações artísticas contemporâneas da relação entre dois arquivos fotográficos e que tensionam o trabalho antropológico no século XIX e hoje. Interessa-nos pensar a influência da fotografia sobre a etnografia e o legado da produção etnográfica sobre a memória visual brasileira, para discutir como a poética da montagem e o exercício de reapropriação dessas imagens de arquivo propõem deslocamentos críticos em favor de uma mirada decolonial. Pensando nisso, adotamos como corpus de análise obras de Rosana Paulino, cujo gesto artístico se fundamenta no resgate das obras de exploradores europeus que tiveram papel central na formação dos arquivos visuais brasileiros. As obras tensionam a materialidade visual dos arquivos expondo novas perspectivas e visadas às análises históricas desse acervo visual e a uma etnografia mais ampliada para o campo da antropologia.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+     },
+     "url": "https://doi.org/10.21680/2238-6009.2024v1n64id37172",
+     "doi": "10.21680/2238-6009.2024v1n64id37172",
+     "paginas": "1-25",
+     "fuente": "Crossref"
+    }
+   ]
+  },
+  {
+   "id": "v1-n63-2025",
+   "volumen": "1",
+   "numero": "63",
+   "anio": 2025,
+   "fecha": "2025-03-19",
+   "etiqueta": "Vol. 1, núm. 63 (2025)",
+   "fuente": "Crossref",
+   "articulos": [
+    {
+     "id": "10.21680/2238-6009.2024v1n63id39496",
+     "titulo": "ANTROPOLOGIA DIANTE DA EXTENSÃO UNIVERSITÁRIA",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Francisco Cleiton Vieira",
+       "orcid": "https://orcid.org/0000-0002-8852-6212"
+      },
+      {
+       "nombre": "Elisete Schwade",
+       "orcid": "https://orcid.org/0000-0002-3488-1171"
+      }
+     ],
+     "resumen": null,
+     "idioma_resumen": null,
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+     },
+     "url": "https://doi.org/10.21680/2238-6009.2024v1n63id39496",
+     "doi": "10.21680/2238-6009.2024v1n63id39496",
+     "paginas": "8-9",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.21680/2238-6009.2024v1n63id39497",
+     "titulo": "EXTENSÃO UNIVERSITÁRIA EM GÊNERO E DIVERSIDADES",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Elisete Schwade",
+       "orcid": null
+      },
+      {
+       "nombre": "Miriam Grossi",
+       "orcid": null
+      }
+     ],
+     "resumen": "Este dossiê sistematiza reflexões sobre o impacto da extensão na formação universitária, além de trazer repercussões dessa formação na construção de carreiras profissionais. Os artigos publicados nesta obra se conectam por realizarem análises acerca de diferentes aspectos da extensão na contemporaneidade. Nessa direção, destacamos as reflexões que versam sobre o impacto das mudanças curriculares devido à implantação da curricularização. Os artigos enfatizam também relações entre a extensão universitária e as políticas públicas no campo educacional com movimentos sociais do campo feminista, LGBTQUIA+, negro, indígena, de pessoas com deficiência e de direitos humanos, sendo essas relações consideradas a partir de experiências e aprendizados situados nas Ciências Sociais e na Antropologia.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+     },
+     "url": "https://doi.org/10.21680/2238-6009.2024v1n63id39497",
+     "doi": "10.21680/2238-6009.2024v1n63id39497",
+     "paginas": "10-16",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.21680/2238-6009.2024v1n63id35809",
+     "titulo": "SANKOFA, O MOVIMENTO DE ESTENDER E APRENDER",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Marinês Rosa",
+       "orcid": null
+      },
+      {
+       "nombre": "Elisete Schwade",
+       "orcid": "https://orcid.org/0000-0002-3488-1171"
+      },
+      {
+       "nombre": "Alinne Lima Bonetti",
+       "orcid": "https://orcid.org/0000-0003-0810-5926"
+      },
+      {
+       "nombre": "Alexandra Elisa Alencar",
+       "orcid": "https://orcid.org/0000-0003-3305-6046"
+      }
+     ],
+     "resumen": "Nesse texto procura-se refletir sobre os aprendizados resultantes de diferentes experiências em práticas de extensão universitária. A partir da localização dos esquemas de gênero na cultura cientifica, bem como nossa inserção na construção de saber-fazer antropológico feminista, buscamos problematizar resistências a prática da extensão universitária, bem como as possibilidades de equiparação do tripé ensino-pesquisa-extensão nas atividades acadêmicas. Identificamos, no contexto e referências a extensão, marcadores sociais que reverberam desigualdades presentes na sociedade envolvente. Nosso exercício está inspirado na representação do ideograma africano Sankofa: fizemos o movimento de rememoração de como a palavra extensão se materializa nas nossas existências, desde o histórico das referências na formação universitária, até o modo singular em que a experienciamos em nossas vidas pessoais e profissionais. Assim apostamos nesse momento de rememoração do vivido para buscar novas formas de produção de conhecimento. Palavras-chave: Extensão universitária. Cultura científica de gênero. Saber antropológico-feminista.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+     },
+     "url": "https://doi.org/10.21680/2238-6009.2024v1n63id35809",
+     "doi": "10.21680/2238-6009.2024v1n63id35809",
+     "paginas": "17-43",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.21680/2238-6009.2024v1n63id35792",
+     "titulo": "TRILHAS E AS PEGADAS: REFLEXÕES SOBRE UMA ÉTICA DO ENVOLVIMENTO NA EXTENSÃO UNIVERSITÁRIA",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Juliana Cavilha Mendes Losso",
+       "orcid": null
+      },
+      {
+       "nombre": "Gicele Sucupira",
+       "orcid": null
+      },
+      {
+       "nombre": "Melissa Barbieri de Oliveira",
+       "orcid": null
+      }
+     ],
+     "resumen": "Este texto tem como objetivo pontuar e refletir teoricamente sobre o desenvolvimento das atividades de Extensão Universitária desenvolvidas em distintas regiões e centros de saber, localizados no Norte e no Sul do Brasil. A ideia é apresentar experiências diversas, considerando como ponto comum a atividade da Extensão Universitária, compreendida metaforicamente como trilhas, rotas incertas e efêmeras constituídas por pegadas, que são marcas de quem somos, de quem encontramos e quem nos transformamos no processo de fazer a extensão. Identificamos em comum nas nossas trilhas, a pegada de uma ética do envolvimento que torna a extensão que fazemos possível.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+     },
+     "url": "https://doi.org/10.21680/2238-6009.2024v1n63id35792",
+     "doi": "10.21680/2238-6009.2024v1n63id35792",
+     "paginas": "44-62",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.21680/2238-6009.2024v1n63id35783",
+     "titulo": "TECENDO REDES",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Consuelena Lopes Leitão",
+       "orcid": null
+      },
+      {
+       "nombre": "Rosemary Amanda Lima Alves",
+       "orcid": "https://orcid.org/0000-0003-3111-5911"
+      },
+      {
+       "nombre": "Karolayne Rodrigues Silva",
+       "orcid": "https://orcid.org/0000-0001-7074-3967"
+      },
+      {
+       "nombre": "Iolete Ribeiro da Silva",
+       "orcid": "https://orcid.org/0000-0002-9416-6866"
+      },
+      {
+       "nombre": "Flávia Carolina Silva Santos de Castro",
+       "orcid": "https://orcid.org/0009-0004-4177-355X"
+      }
+     ],
+     "resumen": "O objetivo deste relato é descrever a experiência do projeto de extensão Maria Jiquitaia a partir de um olhar etnográfico da equipe multidisciplinar. A equipe revisita a comunidade e a unidade de saúde onde o projeto nasceu e cresceu, utilizando métodos participativos interdisciplinares para construir lugares a partir dos sentidos produzidos pelas relações entre as pessoas e sua vinculação com o espaço. As atividades do projeto incluem oficinas participativas de economia solidária, bordado em camisas, dança, música, contação de histórias, teatro, slackline e tecido circense. Essas atividades promovem a participação ativa das meninas e mulheres da comunidade, bem como de estudantes e professores universitários. O projeto também se expandiu para a comunidade adjacente, mantendo a mesma identidade e envolvendo-se em atividades culturais locais. A experiência do projeto é moldada por diferenças, adversidades e possibilidades, mas sobretudo para validar o reconhecimento de violências de gênero e de criar estratégias de enfretamento, para além desse contexto. Neste sentido, o projeto busca criar alternativas viáveis para a construção de metodologias de pesquisa, trabalho compartilhado, cooperação e participação social, promovendo a reflexão ético-política e desafiando estruturas de poder estabelecidas. Inspirado nas teorias de autoras como Gloria Anzaldúa, Carol Gilligan,e Judith Butler, o projeto Maria Jiquitaia se torna um espaço de resistência e práticas colaborativas, onde meninas, mulheres e pesquisadoras são agentes ativas na definição das ações. Essa abordagem contribui para a construção de conhecimento contextualizado e fundamentado em perspectivas diversas para práticas coletivas.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+     },
+     "url": "https://doi.org/10.21680/2238-6009.2024v1n63id35783",
+     "doi": "10.21680/2238-6009.2024v1n63id35783",
+     "paginas": "63-77",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.21680/2238-6009.2024v1n63id35769",
+     "titulo": "RELAÇÕES ENTRE ANTROPOLOGIA, FEMINISMOS E DIREITOS HUMANOS:",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Rozeli Maria Porto",
+       "orcid": "https://orcid.org/0000-0001-5318-1931"
+      },
+      {
+       "nombre": "Francisco Cleiton Vieira",
+       "orcid": "https://orcid.org/0000-0002-8852-6212"
+      },
+      {
+       "nombre": "Mareli Eliane Graupe",
+       "orcid": "https://orcid.org/0000-0003-1376-7836"
+      },
+      {
+       "nombre": "Marcelo José Oliveira",
+       "orcid": "https://orcid.org/0009-0003-9492-1627"
+      }
+     ],
+     "resumen": "Este artigo objetiva refletir sobre diferentes práticas extensionistas realizadas em três universidades brasileiras: UNIPLAC, UFRN e UFV-MG, anteriores à obrigatoriedade da curricularização da extensão. Buscamos demonstrar como as ações de extensão se constituem enquanto elemento essencial para o desenvolvimento do ensino e da pesquisa no contexto acadêmico. Baseamo-nos em pesquisas qualitativas, de cunho etnográfico, e descrevemos quatro práticas extensionistas que partem de nossa experiência: 1) afirmação de identidades étnicas; 2) reflexões em torno das violências de gênero em escolas de educação básica; 3) a integração entre ensino-serviço-comunidade em saúde e 4) direitos reprodutivos e das mulheres. Tais ações contribuem para a reflexividade a partir da agência dos/das sujeitos/as no que se refere ao exercício da cidadania. Essa extensão, de acordo com a concepção “niguiana”, promove a interdisciplinaridade, o rigor científico, o diálogo entre os conhecimentos produzidos na academia e nas comunidades, em uma perspectiva interseccional, valorizando os diferentes saberes, afetos, feminismos e os direitos humanos fundamentais.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+     },
+     "url": "https://doi.org/10.21680/2238-6009.2024v1n63id35769",
+     "doi": "10.21680/2238-6009.2024v1n63id35769",
+     "paginas": "78-97",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.21680/2238-6009.2024v1n63id35790",
+     "titulo": "ENTRE O “PUTÍFERO”, A “LOIRINHA PUTA” E OS “COMEDORES DE CASADAS” MASCULINIDADES E FEMINILIDADES NO CONTEXTO ESCOLAR",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Yuri Wesley De Souza Oliveira",
+       "orcid": null
+      },
+      {
+       "nombre": "Jimena De Garay Hernández",
+       "orcid": "https://orcid.org/0000-0002-0564-1056"
+      },
+      {
+       "nombre": "Maria Fernanda Pereira Dias Ramos Lado Ces",
+       "orcid": null
+      },
+      {
+       "nombre": "Gabriela Jung Pinto Medeiros",
+       "orcid": null
+      },
+      {
+       "nombre": "Julia Hillary Carmo",
+       "orcid": null
+      }
+     ],
+     "resumen": "O presente artigo tem como objetivo discutir performatividades masculinas e femininas no contexto escolar, a partir do trabalho de um projeto de extensão universitária realizado com turmas de oitavo e nono anos de três escolas municipais localizadas na Zona Norte do Rio de Janeiro. Durante o trabalho do projeto, de 2021 a 2023, foram realizadas diversas oficinas propostas aos/às/aes alunos/as/es envolvendo aspectos socioculturais e sociohistóricos que perpassam a vivência destes/as estudantes, e, dentro destes, performatividades e performances de gênero e sexualidade. Durante as atividades realizadas, foram percebidas diversas falas relativas a como as/os/es alunos/as/es entendiam e vivenciavam o gênero e a sexualidade. A partir de cenas de interrogações e debates surgidos nas oficinas, refletimos as formas em que as crianças e adolescentes experimentam expressões de masculinidade e feminilidade a partir de significados compartilhados socialmente e como essas expressões vão delimitando formas de se identificar e de se relacionar com o mundo. Analisamos também a atuação do projeto de extensão no encontro com essas turmas, que produziu deslocamentos tanto nos/as/es alunos/as/es, como na própria equipe.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+     },
+     "url": "https://doi.org/10.21680/2238-6009.2024v1n63id35790",
+     "doi": "10.21680/2238-6009.2024v1n63id35790",
+     "paginas": "98-119",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.21680/2238-6009.2024v1n63id35518",
+     "titulo": "CINEDEBATE E QUESTÕES DE GÊNERO",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Fernanda de Carvalho Azevedo Mello",
+       "orcid": null
+      }
+     ],
+     "resumen": "A retração na oferta de serviços oferecidos pelo Estado à população, fenômeno observado a partir do Governo Temer e que persiste durante o Governo Bolsonaro, tem como circunstância o avanço neoconservador em defesa de um modelo específico de família e contra o ensino de conhecimento situado dentro das escolas, em especial contra o assunto ‘gênero’. Dentro desse contexto nacional, o projeto de extensão CineDebate: Raça e Gênero na Escola (UFRPE), na Escola de Referência em Ensino Médio Cândido Duarte (Recife/PE), abordou curtas-metragens de temas e recortes variados entre os anos de 2016 e 2017, oferecendo em atividade extraclasse a possibilidade de problematizar realidades sociais. Após cada exibição, eram aplicados questionários que buscavam avaliar o entendimento por parte das/os estudantes dos temas e das obras apresentadas. O presente artigo tem como objetivo comentar a variação entre recepções a partir de seus recortes temáticos. Fundamentada na análise do conjunto de questionários foi possível concluir que houve antagonismo apenas na recepção aos curtas com temática de gênero e que essa objeção está em confluência com o discurso neoconservador que ganha espaço na política nacional e na sociedade brasileira. Tal discurso prega a censura de conhecimentos e o restabelecimento de um modelo patriarcal de família por meio de projetos como o Escola Sem Partido. Em conclusão, argumento que, mesmo após 4 anos de seu término, os resultados do projeto de extensão continuam relevantes para refletir sobre o alcance, ramificações, trajetórias e consequências do discurso anti-gênero para a educação. Palavras-chave: neoconservadorismo; escola; cinedebate; ensino em gênero.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+     },
+     "url": "https://doi.org/10.21680/2238-6009.2024v1n63id35518",
+     "doi": "10.21680/2238-6009.2024v1n63id35518",
+     "paginas": "120-142",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.21680/2238-6009.2024v1n63id35738",
+     "titulo": "EDUCAÇÃO EM DIREITOS HUMANOS E GÊNERO POR MEIO DA WEBQUEST: A CURRICULARIZAÇÃO DA EXTENSÃO EM AÇÃO",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Bruna Agostinis",
+       "orcid": null
+      },
+      {
+       "nombre": "Fabiane Freire França",
+       "orcid": "https://orcid.org/0000-0001-9781-9773"
+      },
+      {
+       "nombre": "Dara Cristina Sambugaro de Carlo",
+       "orcid": null
+      }
+     ],
+     "resumen": "O enfoque da presente pesquisa reside em compreender como a produção de WebQuest (WQ), na formação inicial de Pedagogia, pode contribuir para a promoção de uma educação em direitos humanos (EDH) e gênero, no que tange a prática de uma educação inclusiva, crítica, conscientizadora e dialógica. Além disso, objetivou averiguar se as WQ podem ser utilizadas como propostas de curricularização da extensão, mediante discussões da EDH e gênero. Para tanto, realizou-se a análise de seis WebQuest e seu vínculo com a extensão universitária, produzidas por estudantes do curso de Pedagogia/licenciatura, de uma universidade do interior do Estado do Paraná. Foi utilizada a metodologia Estudo de Caso articulada à pesquisa bibliográfica que permitiu o aprofundamento e a ampliação dos estudos teóricos acerca da temática. O aporte teórico se desenvolveu com ênfase nos pressupostos freiriano, referenciais voltados à Educação em Direitos Humanos e tecnologia na formação docente. A WQ, por sua possibilidade dinâmica, interativa, interdisciplinar e intercultural mostrou-se como um recurso possível para a extensão entre universidade e comunidade, a fim de educar em direitos humanos de maneira ampla. Considera-se que a formação educacional voltada a Educação em Direitos Humanos e gênero com o uso das novas tecnologias, desde que garantida a cidadania digital, pode favorecer a formação de pessoas críticas, de modo a promover conscientização, pluralidade e respeito às diferenças.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+     },
+     "url": "https://doi.org/10.21680/2238-6009.2024v1n63id35738",
+     "doi": "10.21680/2238-6009.2024v1n63id35738",
+     "paginas": "143-162",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.21680/2238-6009.2024v1n63id35805",
+     "titulo": "LIGA SANKOFA:",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Maylla Monnik Rodrigues de Sousa Chaveiro",
+       "orcid": "https://orcid.org/0000-0001-7581-105X"
+      }
+     ],
+     "resumen": "O objetivo deste artigo é descrever e analisar a Liga Sankofa enquanto espaço de resistência, descolonização e fortalecimento de estudantes negras/es/os na universidade. A Liga Acadêmica de Relações Raciais – Sankofa foi criada no início de 2023, sendo coordenada por uma professora universitária negra e composta por um grupo de 50 pessoas negras, estudantes de uma universidade pública do interior de Minas Gerais. Metodologicamente, trata-se de uma pesquisa qualitativa e de caráter exploratório, elaborada por meio de escrevivências e autoetnografia da coordenadora docente da Liga Sankofa. Em primeiro lugar, o artigo apresenta as ações da Liga Sankofa como quilombo acadêmico propagando saberes ancestrais africanos e indígenas, e rompendo com perspectivas eurocêntricas e coloniais acerca do conhecimento. Em segundo lugar, o artigo aborda a importância das mulheres negras na Liga Sankofa. Como resultados, apontamos que houve um avanço na área das relações étnico-raciais na universidade a partir das práticas de extensão universitária promovidas pela Liga Sankofa. As aulas, cursos, palestras, oficinas, mostra de filmes e simpósios, possibilitaram o fortalecimento de pessoas negras como pesquisadoras, profissionais e líderes, assumindo um lugar de autonomia e protagonismo de sua própria história. Por fim, concluímos que descolonizar a universidade é fundamental para pensarmos novos processos de construção de conhecimento para que a academia seja um espaço diverso, crítico, inclusivo e transgressor.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+     },
+     "url": "https://doi.org/10.21680/2238-6009.2024v1n63id35805",
+     "doi": "10.21680/2238-6009.2024v1n63id35805",
+     "paginas": "163-180",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.21680/2238-6009.2024v1n63id35784",
+     "titulo": "WARAO NA UFAL: A DIVERSIDADE NA EXTENSÃO EM DIÁLOGOS INTERCULTURAIS COM MIGRANTES INDIGENAS VENEZUELANOS NO CAMPUS MACEIÓ",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Edilma De Jesus D.",
+       "orcid": null
+      },
+      {
+       "nombre": "Luiza Cristina Silva Silva",
+       "orcid": null
+      },
+      {
+       "nombre": "Gabriela Kelly Pacheco dos Santos",
+       "orcid": null
+      }
+     ],
+     "resumen": "Produto das estratégias pedagógicas, metodológicas e colaborativas articuladas para realizar práticas acadêmicas de Extensão, Pesquisa e Ações Curriculares de Extensão, foi exposto na Universidade Federal de Alagoas em 2022 a pauta da migração internacional indígena venezuelano abrindo uma importante brecha para o conhecimento sobre o tema e a problemática Warao no município e nas ruas de Maceió. O objetivo do artigo é contribuir para o debate sobre extensão, a partir da apresentação de experiências etnográficas que resultaram de projetos geográficos direcionados à pesquisa básica, sobre a \"migração indígena venezuelana Warao em Alagoas\". A metodologia se constrói com o enfoque transdisciplinar no diálogo intercultural, com técnicas qualitativas baseadas em metodologias participativas, especificamente na Investigación-Acción-Participativa, com uso de etnografias digitais, vinculando trocas de saberes e análise critico experienciado durante o período de 2022 a 2023. O resultado principal reforça a riqueza do trabalho colaborativo e das possibilidades geradas nos espaços de interação, imersão, vivencias e exploração das diversas metodologias para criar sensibilização sobre o tema. As conclusões mostram, a partir de registros de relatos e imagens, as riquezas e benefícios produzidos pelas distintas experiências conduzidas pelas ações, dentro do Campus A. C. Simões, evidenciando de maneira exponencial, as fronteiras de desconhecimento do tema migratório e, ao mesmo tempo, tudo o que a Extensão propiciou à comunidade universitária em termos de troca de reconhecimentos, envolvendo práticas e atitudes significativas de comunicação e respeito entre o povo Warao e o povo UFAL.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+     },
+     "url": "https://doi.org/10.21680/2238-6009.2024v1n63id35784",
+     "doi": "10.21680/2238-6009.2024v1n63id35784",
+     "paginas": "181-202",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.21680/2238-6009.2024v1n63id39498",
+     "titulo": "AMPLIANDO OS ESPAÇOS DA UNIVERSIDADE: EXTENSÃO E COMPROMISSO SOCIAL",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Elisete Schwade",
+       "orcid": null
+      },
+      {
+       "nombre": "Miriam Grossi",
+       "orcid": "https://orcid.org/0000-0002-4399-6544"
+      }
+     ],
+     "resumen": null,
+     "idioma_resumen": null,
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+     },
+     "url": "https://doi.org/10.21680/2238-6009.2024v1n63id39498",
+     "doi": "10.21680/2238-6009.2024v1n63id39498",
+     "paginas": "203-222",
+     "fuente": "Crossref"
+    }
+   ]
+  },
+  {
+   "id": "v1-n62-2023",
+   "volumen": "1",
+   "numero": "62",
+   "anio": 2023,
+   "fecha": "2023-12-15",
+   "etiqueta": "Vol. 1, núm. 62 (2023)",
+   "fuente": "Crossref",
+   "articulos": [
+    {
+     "id": "10.21680/2238-6009.2023v1n62id34978",
+     "titulo": "DEBATES ATUAIS SOBRE CONSUMO NA ANTROPOLOGIA E CIÊNCIAS SOCIAIS",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Eliane Tânia Freitas",
+       "orcid": null
+      },
+      {
+       "nombre": "Filomena Silvano",
+       "orcid": null
+      },
+      {
+       "nombre": "Solange Riva Mezabarba",
+       "orcid": null
+      }
+     ],
+     "resumen": null,
+     "idioma_resumen": null,
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.21680/2238-6009.2023v1n62id34978",
+     "doi": "10.21680/2238-6009.2023v1n62id34978",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.21680/2238-6009.2023v1n62id33768",
+     "titulo": "DESMONETIZA! SLEEPING GIANTS BRASIL NO INSTAGRAM E O CONSUMO COMO ARENA POLÍTICA E MORAL",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Eliane Tania Freitas",
+       "orcid": "https://orcid.org/0000-0002-1960-1610"
+      }
+     ],
+     "resumen": "Este artigo apresenta o conceito de consumerismo, caracterizando-o como um tipo de ativismo cívico no campo do consumo, para depois situar em relação a ele a atuação do movimento Sleeping Giants Brasil. Farei isso por meio da análise de dados relativos ao seu repertório de ações táticas na plataforma digital Instagram, cujo objetivo é a desmonetização de sites e canais disseminadores de conteúdos virulentos como discurso de ódio contra minorias e notícias falsas. Abordo o perfil como um sujeito sociotécnico, capaz de agenciar ações no espaço digital cujo alcance e consequências o ultrapassam. Destaco ainda algumas especificidades do Instagram como vitrine virtual na qual a visualidade, neste caso instrumentalizada para finalidades do ativismo, é hegemônica. Por fim, articulo o consumerismo com os aspectos intrinsecamente problemáticos da economia algorítmica das plataformas. Concluo que, a despeito de limitações, como o foco sobre os sites propagadores de conteúdos virulentos mais do que nas Big Techs e suas plataformas, a atuação do SGBR termina por reforçar pautas em torno das quais se aglutinam forças sociais, lançando mão das singularidades da ecologia digital, como hashtags e arrobas, para alcançar resultados que a ultrapassam. A exposição das empresas que anunciam em sites virulentos e das que vendem tais espaços, as Big Techs, transforma em escândalo moral a lucratividade da exploração do ódio, do sensacionalismo e da desinformação. Palavras-chave: Sleeping Giants Brasil; Instagram; Consumerismo; Desinformação; Discurso de ódio.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.21680/2238-6009.2023v1n62id33768",
+     "doi": "10.21680/2238-6009.2023v1n62id33768",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.21680/2238-6009.2023v1n62id33040",
+     "titulo": "DIMENSÕES INTERSTICIAIS DO TECNOCAPITALISMO: AS PLATAFORMAS DIGITAIS E O CONSUMIDOR CIBORGUE",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Roque Pinto",
+       "orcid": "https://orcid.org/0000-0001-5347-0901"
+      },
+      {
+       "nombre": "Gláucia Briglia Canuto",
+       "orcid": "https://orcid.org/0000-0001-8497-9284"
+      },
+      {
+       "nombre": "Rogéria Briglia Canuto",
+       "orcid": "https://orcid.org/0000-0001-9028-7049"
+      }
+     ],
+     "resumen": "As extensões infraestruturais das plataformas digitais moldam as interações sociais na atualidade. O objetivo deste artigo é discutir os efeitos do consumo como agência produtora e reprodutora de sentidos mediado pelas plataformas em sociedades de consumidores digitais. Para tanto, o artigo descreve o novo modelo de negócios de plataformização que modula as interações entre usuários por meio dos processos de governança, mercantilização e infraestutura de dados. Conclui-se que os meios de dataficação da vida humana com base no aprimoramento de técnicas e dispositivos cada vez mais sutis de coleta e processamento de dados pessoais conectados à publicidade digital estão atrelados a um discurso positivo e encorajador que direciona e torna o humano dependente do modelo de governança algorítmica das plataformas. Palavras-chave: Consumidor Ciborgue; Dataficação; Plataformas Digitais; Consumo; Governança Algorítmica.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.21680/2238-6009.2023v1n62id33040",
+     "doi": "10.21680/2238-6009.2023v1n62id33040",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.21680/2238-6009.2023v1n62id34977",
+     "titulo": "EDITORIAL",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Juliana Gonçalves Melo",
+       "orcid": null
+      },
+      {
+       "nombre": "Julie Antoinette Cavignac",
+       "orcid": null
+      },
+      {
+       "nombre": "Carlos Guilherme do Valle",
+       "orcid": null
+      }
+     ],
+     "resumen": null,
+     "idioma_resumen": null,
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.21680/2238-6009.2023v1n62id34977",
+     "doi": "10.21680/2238-6009.2023v1n62id34977",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.21680/2238-6009.2023v1n62id33770",
+     "titulo": "EXISTIR E HABITAR EM MUNDOS VIRTUAIS: SOBRE COISAS E TRECOS IMATERIAIS",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Laura Graziela Figueiredo Fernandes Gomes",
+       "orcid": "https://orcid.org/0000-0002-0044-5259"
+      },
+      {
+       "nombre": "Diogo Coutinho Iendrick",
+       "orcid": "https://orcid.org/0000-0003-3211-3459"
+      }
+     ],
+     "resumen": "Este artigo concentra-se no exame do interesse, prazer e hedonismo associados ao desenvolvimento de uma existência virtual, a partir da comparação entre três diferentes plataformas: Second Life, The Sims 4 e World of Warcraft. Em relação a esses mundos virtuais, a ênfase é direcionada à compreensão dos elementos que constituem sua mundidade e conferem autenticidade, especialmente o papel crucial do avatar como objeto técnico central que possibilita o engajamento nesse modo de existência. O espaço virtual assume relevância por sua capacidade de consolidar a presença e envolvimento do indivíduo nessa experiência com o avatar, a partir das affordances proporcionadas pelo ambiente e na criação de uma atmosfera onde se quer existir. Por meio das observações participante dos autores nos três mundos virtuais, são comparadas as especificidades que os distinguem, mas, sobretudo, as características comuns que atraem e mantêm engajamentos consistentes de usuários com os objetos sociotécnicos que aprenderam a singularizar. Nesse sentido, concluímos que, além da singularização dos avatares e dos ambientes em questão, a composição do segundo narra uma história em que os diferentes engajamentos elaboram a atmosfera e adensam a imersão enquanto experiência de consumo (modo de apropriação) da plataforma. Palavras-chave: Mundos Virtuais; Imersão; Affordance; Atmosfera; Objetos Técnicos.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.21680/2238-6009.2023v1n62id33770",
+     "doi": "10.21680/2238-6009.2023v1n62id33770",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.21680/2238-6009.2023v1n62id33772",
+     "titulo": "EXPERIÊNCIAS ONLINE E OFFLINE NO CONSUMO DE MAQUIAGEM",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Márcia Mesquita",
+       "orcid": "https://orcid.org/0000-0002-7910-9791"
+      }
+     ],
+     "resumen": "Este presente artigo pretende analisar a relação entre consumo e internet a partir de etnografia realizada entre consumidoras brasileiras de maquiagem. O objetivo é trazer uma reflexão sobre como tal relação permite discutir as interseções entre os mundos do online e do offline que estão presentes na vida contemporânea hiper conectada. Os dados apresentados foram coletados durante pesquisa de doutorado em Antropologia, no período de 2015 a 2019. O trabalho de campo foi realizado de forma multissituada, acompanhando virtual e presencialmente os produtos e suas consumidoras, grupo este formado de mulheres cisgênero, das camadas médias com idades entre 20 e 50 anos. A pesquisa demonstra como um entrelaçamento de questões do digital e do presencial na forma de consumir os produtos e aplicá-los em seus rostos. Sendo assim, este fenômeno pode servir de comparação ou ponto de partida para se pensar como tal entrelaçamento vem impactando a vida social, desde na forma de se realizar uma pesquisa até nas ontologias contemporâneas. Palavras-chave: Consumo; Internet; Maquiagem.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.21680/2238-6009.2023v1n62id33772",
+     "doi": "10.21680/2238-6009.2023v1n62id33772",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.21680/2238-6009.2023v1n62id33059",
+     "titulo": "IDENTIDADE E TERRITORIALIDADE ÉTNICA EM FACE DA JUDICIALIZAÇÃO DE CONFLITO",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Eliana Teles Rodrigues",
+       "orcid": "https://orcid.org/0000-0001-6717-3174"
+      }
+     ],
+     "resumen": "Analisa a trajetória de um grupo quilombola em processo de reconhecimento de um território etnicamente configurado. Trata-se de estudo etnográfico realizado entre os anos 2010 e 2014 com os autodenominados quilombolas do rio Gurupá, município de Cachoeira do Arari, no arquipélago de Marajó, Pará. De sua mobilização por reconhecimento e acesso ao território etnicamente configurado, constituem-se novas formas político-organizativas, pelas quais esses coletivos buscam se adequar às questões normativas do direito brasileiro. Nesse contexto, assiste-se a mudanças sucessivas, resultantes de necessidades, projetos, lutas e reivindicações pelo território étnico, ao mesmo tempo em que persistem esquemas de judicialização dos conflitos. A construção de uma visão de direitos territoriais e econômicos, pelos quilombolas, é confrontada diretamente com projetos do agronegócio, com a regularização fundiária e ambiental do Estado e com as políticas sociais que suprimem o fator étnico. Palavras-chave: Conflito; Direitos Territoriais; Marajó.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.21680/2238-6009.2023v1n62id33059",
+     "doi": "10.21680/2238-6009.2023v1n62id33059",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.21680/2238-6009.2023v1n62id33775",
+     "titulo": "MEDIAÇÃO CULTURAL, ALTERIDADE E CONSUMO NOS PERFIS DAS INFLUENCIADORAS DIGITAIS @BLOGUEIRADEBAIXARENDA E @THALLITAXAVIER",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Carla Fernanda Pereira Barros",
+       "orcid": "https://orcid.org/0000-0003-4037-1060"
+      }
+     ],
+     "resumen": "O artigo tem como objetivo compreender como os perfis @blogueiradebaixarenda e @thallitaxavier divulgam estilos de vida surgidos no contexto de grupos mais abastados da sociedade – minimalismo e veganismo, respectivamente – se apropriando e adaptando esses modos de vida para seu universo social de origem. Nesse percurso, foram observados os elementos acionados para essa tradução – em que o consumo tem papel de destaque pela própria natureza do tema –, bem como as construções identitárias presentes, envolvendo os significados e as negociações do ser baixa renda em um fluxo de mediação cultural. A partir de pesquisa etnográfica, foram analisados vídeos no YouTube dentro da série intitulada Minimalismo de Baixa Renda e conteúdos sobre veganismo no TikTok e Instagram. Entre os resultados, destacam-se as ressignificações do estilo de vida para o universo social das classes populares e o papel das produtoras de conteúdo online como tradutoras entre dois mundos. Palavras-chave: Mediação Cultural; Minimalismo; Veganismo; Influenciadores Digitais; Classes Populares.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.21680/2238-6009.2023v1n62id33775",
+     "doi": "10.21680/2238-6009.2023v1n62id33775",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.21680/2238-6009.2023v1n62id33670",
+     "titulo": "NOTAS ETNOGRÁFICAS DE DUAS PESQUISADORAS-TORCEDORAS: PRÁTICAS DO TORCER E CONSUMIR FUTEBOL DAS MULHERES DO SPORT CLUB DO RECIFE",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Soraya Maria Bernardino Barreto Januário",
+       "orcid": "https://orcid.org/0000-0002-0405-6381"
+      },
+      {
+       "nombre": "Paloma Souza de Castro Melo",
+       "orcid": "https://orcid.org/0000-0002-6606-757X"
+      }
+     ],
+     "resumen": "O presente artigo tem como objetivo refletir sobre as relações de consumo e participação da mulher no futebol a partir de marcadores performáticos em ambientes como de um estádio em dia de jogo, em uma perspectiva de gênero. Para isso, realizamos a observação participante das partidas decorrentes da punição imposta pelo Superior Tribunal de Justiça Desportiva (STJD) ao Sport Club do Recife, motivada pela violenta invasão de campo no Campeonato Brasileiro de 2022, na qual, durante três jogos, só foi permitida a entrada da torcida composta por mulheres, crianças e PCDs. O recorte teórico-metodológico se deu abarcado pelas epistemologias e antropologia feministas, sendo realizado enquanto método de coleta uma observação participante, diário de campo, entrevistas semiestruturadas e registros fotográficos. A análise foi dividida em quatro fases de participação das mulheres no estádio, fomentadas por importantes marcadores performáticos de suas identidades de torcedoras e da oferta de consumo propiciada pelo clube. Como resultados, encontramos padrões das práticas torcedoras hegemônicas, bem como rupturas no comportamento e consumo clubístico. Como conclusões, entendemos que jogos como esses podem contribuir para uma virada na participação das mulheres nas arquibancadas, não só no perfil da torcida, como também na forma como clubes e entidades esportivas enxergam as torcedoras. Palavras-chave: Torcedoras; Sport Club do Recife; Antropologia Feminista; Consumo; Performance.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.21680/2238-6009.2023v1n62id33670",
+     "doi": "10.21680/2238-6009.2023v1n62id33670",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.21680/2238-6009.2023v1n62id33776",
+     "titulo": "O CONSUMO DA CULTURA POP EM UM COLETIVO JUVENIL",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Deyse de Fátima do Amarante Brandão",
+       "orcid": "https://orcid.org/0000-0001-8064-4911"
+      }
+     ],
+     "resumen": "O presente artigo é fruto de uma pesquisa realizada entre os anos de 2013 e 2015, resultado de um investimento etnográfico a respeito do consumo da cultura pop em um coletivo juvenil situado na cidade de João Pessoa (Brasil, PB). Seus participantes consolidam as afirmações de vínculos com o consumo da cultura pop envolvendo uma série de práticas culturais em contexto local. Sendo um termo dado pelos interlocutores, a cultura pop torna-se propulsora de ações coletivas e individuais, revelando formas de lidar autênticas e diferenciadas por estes atores que, ao se apropriarem do consumo destes bens, revelam nos espaços da cidade construções identitárias e formas estetizadas de estilos de vida. A partir de uma abordagem etnográfica buscou-se compreender o consumo como potencialidade criativa em que algumas culturas juvenis, tendo o papel de consumidores e produtores, exercem posicionamentos estratégicos diante de escolhas de bens que abrem possibilidades inventivas, mantendo dinâmicas sociais próprias. A tônica deste estudo foi sublinhar as diversas possibilidades de vivenciar o pop e suas apropriações a partir de uma territorialidade local. Palavras-chave: Culturas Juvenis; Cultura Pop; Consumo; Apropriações do Pop.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.21680/2238-6009.2023v1n62id33776",
+     "doi": "10.21680/2238-6009.2023v1n62id33776",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.21680/2238-6009.2023v1n62id31271",
+     "titulo": "O HIJAB É “MAIS QUE UM PANO NA CABEÇA” – APORTES ANTROPOLÓGICOS SOBRE A AGÊNCIA DE MULHERES MUÇULMANAS NOS USOS DO VÉU ISLÂMICO NO NORDESTE DO BRASIL",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Maria Patrícia Lopes Goldfarb",
+       "orcid": "https://orcid.org/0000-0003-4627-6486"
+      },
+      {
+       "nombre": "Vanessa Karla Mota de Souza Lima",
+       "orcid": "https://orcid.org/0000-0003-3753-4439"
+      }
+     ],
+     "resumen": "As discussões sobre o uso do véu islâmico é uma temática recorrente na Antropologia do Islã. Nos últimos anos, com o crescimento da religião no Brasil, cresceu também o número de mulheres que usam o véu em público e, dentre elas, algumas que ganharam visibilidade na mídia, nas redes sociais e na academia por seus discursos sobre a importância desta prática religiosa, projetando visibilidade sobre o assunto, sempre em diálogo com suas experiências religiosas diárias (resistências, conflitos e islamofobia) ou com eventos mais globais, como os ocorridos recentemente no Irã e na França. Desta realidade, resultaram diferentes análises empreendidas por pesquisadoras antropólogas brasileiras (Barbosa-Ferreira, 2013; Castro, 2015; Marques, 2011, dentre outras) em diferentes contextos. Estas análises acabaram por destacar a importância da agência feminina sobre os usos do véu em reflexão com as ideias dos movimentos islâmicos pietista, revivalista e feminista, para a compreensão da experiência religiosa. Sendo assim, por meio deste artigo, propõe-se a refletir sobre a agência de mulheres muçulmanas nordestinas e estes movimentos femininos islâmicos (Mahmood, 2019; Abu-Lughod, 2012; Barbosa, 2021; Silva, 2008; Barlas, 2012). Para isto, utilizamos a metodologia de análise bibliográfica e dos discursos de interlocutoras, captados através de entrevistas presenciais com mulheres muçulmanas em João Pessoa (PB) e Caruaru (PE). Concluiu-se, portanto, que as formas de experiência religiosa no que diz respeito ao uso/não uso, ou desuso, do véu islâmico têm características distintas tanto de compreensão quanto na ação religiosa, entre mulheres muçulmanas no Nordeste do Brasil. Palavras-chave: Islã; Véu; Agência; Mulheres Muçulmanas; Nordeste.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.21680/2238-6009.2023v1n62id31271",
+     "doi": "10.21680/2238-6009.2023v1n62id31271",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.21680/2238-6009.2023v1n62id26190",
+     "titulo": "O SABER ETNOGRÁFICO E SUA CONTRIBUIÇÃO À ESCRITA ACADÊMICA CRIATIVA: REFLEXÃO DE UMA EXPERIÊNCIA DE ENSINO",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Juliane Bazzo",
+       "orcid": "https://orcid.org/0000-0001-6196-3482"
+      }
+     ],
+     "resumen": "O artigo abrange o relato de uma experiência de ensino-aprendizagem em uma disciplina de Antropologia que, embora não focada na escrita, norteou-se por desenvolver o potencial criativo da redação, fomentado pela leitura sistemática de narrativas etnográficas. As obras Por uma pedagogia da pergunta (Paulo Freire & Antonio Faundez) e Ensinando a transgredir (bell hooks), assim como minha jornada como etnógrafa em Antropologia da Educação, inspiraram-me enquanto docente no desenho da metodologia do curso. A dinâmica traçada previa que, a cada encontro, as(os) estudantes trouxessem perguntas previamente preparadas, para mobilizar o debate da bibliografia prevista. A discussão entabulada engendrava então uma produção de texto individual em sala, ao final de todas as aulas. As(os) discentes foram assim construindo um diário de bordo do curso, com comentários sequenciais que sintetizavam debates, enfocavam pontos de interesse ou traziam novas perguntas e eram subsequentemente partilhados com a turma. Instigou-se as(os) participantes, todo o tempo, a desenvolverem a escrita autêntica e, portanto, criativa, a partir do que lhes fosse, de fato, significativo. Desse esforço, surgiram textos dos mais variados, reunindo contribuições teórico-etnográficas, vivências e interpelações particulares, além de trechos literários e descrições fílmicas. Nesse espírito, a disciplina encerrou-se com uma peça textual batizada de carta-comentário, por meio da qual as(os) estudantes consolidaram seus aprendizados. Palavras-chave: Etnografia; Escrita Acadêmica; Escrita Criativa; Escrita Autêntica; Ensino de Antropologia.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.21680/2238-6009.2023v1n62id26190",
+     "doi": "10.21680/2238-6009.2023v1n62id26190",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.21680/2238-6009.2023v1n62id34989",
+     "titulo": "O TESTEMUNHO",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Michael Pollak",
+       "orcid": null
+      },
+      {
+       "nombre": "Nathalie Heinich",
+       "orcid": null
+      }
+     ],
+     "resumen": null,
+     "idioma_resumen": null,
+     "licencia": {
+      "nombre": "CC BY-NC-ND 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+     },
+     "url": "https://doi.org/10.21680/2238-6009.2023v1n62id34989",
+     "doi": "10.21680/2238-6009.2023v1n62id34989",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.21680/2238-6009.2023v1n62id22106",
+     "titulo": "OFICINAS DE ANTROPOLOGIA COM CRIANÇAS: NOTAS SOBRE UMA EXPERIÊNCIA",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Valéria de Paula Martins",
+       "orcid": "https://orcid.org/0000-0003-4691-1785"
+      },
+      {
+       "nombre": "Amanda Ramos da Cunha",
+       "orcid": "https://orcid.org/0000-0001-8096-7067"
+      },
+      {
+       "nombre": "Júlia Furtado de Almeida",
+       "orcid": "https://orcid.org/0009-0001-6157-1240"
+      },
+      {
+       "nombre": "Luís Augusto Meinberg Garcia",
+       "orcid": "https://orcid.org/0000-0002-2325-7461"
+      },
+      {
+       "nombre": "Maria Luiza Araujo",
+       "orcid": "https://orcid.org/0009-0004-8587-5494"
+      },
+      {
+       "nombre": "Pamela de Fatima Soares Caetano",
+       "orcid": "https://orcid.org/0009-0000-7540-928X"
+      }
+     ],
+     "resumen": "Este é um relato de experiência acerca da realização de oficinas de antropologia com crianças entre 7 e 12 anos, na cidade de Uberlândia, em Minas Gerais, a partir de um trabalho que teve início em 2014 e é atualmente projeto de extensão da Universidade Federal de Uberlândia (UFU). Ao focar no processo de implementação das oficinas, destacando-se as questões de cunho metodológico, tratamos dos caminhos trilhados desde o período inicial, refletindo sobre elementos que nos chamaram a atenção, como as transformações ao longo do tempo na dinâmica dos encontros em sua associação com experiências que buscávamos delinear a partir das oficinas. Este projeto, por meio da realização de atividades que envolvem leitura de livros, exibição de filmes, jogos coletivos, rodas de conversa, elaboração de desenhos etc., busca, em suma, uma sensibilização para a diferença, aproximando-se de temáticas e ideias caras ao debate antropológico em um trabalho realizado com crianças e não para crianças, ou seja, que as toma como sujeitos plenos no processo de ensino-aprendizagem. Palavras-chave: Oficinas de Antropologia; Ensino-aprendizagem; Crianças.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.21680/2238-6009.2023v1n62id22106",
+     "doi": "10.21680/2238-6009.2023v1n62id22106",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.21680/2238-6009.2023v1n62id33767",
+     "titulo": "PERCEPÇÕES SOBRE CORPO E EMOÇÕES ENTRE CONSUMIDORAS CRÍTICAS ANTICAPITALISTAS",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Liliane Moreira Ramos",
+       "orcid": "https://orcid.org/0000-0003-4559-6832"
+      },
+      {
+       "nombre": "Patricia Pavesi",
+       "orcid": "https://orcid.org/0000-0002-8435-7239"
+      },
+      {
+       "nombre": "Julio Valentim",
+       "orcid": "https://orcid.org/0000-0002-4090-8158"
+      }
+     ],
+     "resumen": "Este artigo tem como objetivo discutir, a partir das narrativas de um grupo de consumidoras críticas anticapitalistas, a centralidade dos afetos e emoções na construção de percepções sobre corpos, em processos de consumo político. Para tanto, analisamos três tipos de encaixe e táticas de acomodação: primeiro, entre um tipo de discurso sobre corpo que reivindica o status essencial de “natureza” e o papel estratégico deste corpo no posicionamento dos sujeitos como críticos; segundo, entre narrativas de racionalização do processo de consumo como o caminho moralmente adequado ao movimento crítico empreendido e práticas de consumo atravessadas por emoções positivas como o prazer e a valorização da ludicidade; e por fim, centralidade das emoções na construção de um complexo arranjo que busca acomodar os dois tipos de encaixe/acomodação anteriores, ou seja, entre a reivindicação de um corpo dotado de um saber natural e a construção deliberada de novas subjetividades nas relações com objetos e pessoas no contexto da moralidade crítica. Os dados apresentados foram produzidos a partir da experiência etnográfica realizada entre 2020 e 2022 com sujeitos participantes de um processo de “laboratório social” dedicado a discutir alternativas de consumo, parte de um movimento criado em função da pandemia de COVID-19. Palavras-chave: Consumo Político; Anticapitalismo; Emoções; Afetos; Prazer.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.21680/2238-6009.2023v1n62id33767",
+     "doi": "10.21680/2238-6009.2023v1n62id33767",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.21680/2238-6009.2023v1n62id30693",
+     "titulo": "RIBEIRINHOS AMAZÔNICOS E VULNERABILIDADES",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Nyvia Cristina dos Santos Lima Lima",
+       "orcid": "https://orcid.org/0000-0002-4335-6715"
+      },
+      {
+       "nombre": "Nádile Juliane Costa de Castro",
+       "orcid": "https://orcid.org/0000-0002-7675-5106"
+      }
+     ],
+     "resumen": null,
+     "idioma_resumen": null,
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.21680/2238-6009.2023v1n62id30693",
+     "doi": "10.21680/2238-6009.2023v1n62id30693",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.21680/2238-6009.2023v1n62id33754",
+     "titulo": "SHIPPING AND FANSERVICE IN THE BOYS LOVE (BL) SERIES CONSUMPTION EXPERIENCE BY THE BRAZILIAN FANDOM",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Igor Leonardo de Santana Torres",
+       "orcid": "https://orcid.org/0000-0001-7455-3212"
+      }
+     ],
+     "resumen": "Just as the idol shipping culture is important in the consumption and celebration of K-pop culture, shipping (practice of pairing fictional characters or media personalities, placing them into sexual or romantic relationships, or supporting already existing pairs) and fanservice (an entertainment practice for fans that consists of the performance of intimacy among celebrity couples created and supported by the fandom) are defining and distinctive elements of the Thai “boys love” (BL) industry and its transnational fandom. I will discuss these phenomena in the consumption experience of BL series by the Brazilian fandom and present their operation among the fans with whom I researched, paying attention to their forms of fanservice consumption and shipping practice. The results presented come from my master's research, in which, based on the digital ethnographic method, I observed and interacted with fans on Twitter and Telegram for nine months. I conclude, among other things, that the practice of shipping and the consumption of fanservice are heterogeneous in fandom and are embroiled in moral disputes. Keywords: BL Series; Brazilian BL Fandom; Fanservice; Shipping.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.21680/2238-6009.2023v1n62id33754",
+     "doi": "10.21680/2238-6009.2023v1n62id33754",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.21680/2238-6009.2023v1n62id27532",
+     "titulo": "SLAMS: PERCURSOS POÉTICOS EM COMUNIDADES DE PERIFERIA EM SALVADOR - BA",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Danielle Marcia Hachmann de Lacerda da Gama",
+       "orcid": "https://orcid.org/0000-0002-9429-8914"
+      }
+     ],
+     "resumen": "Este artigo tem por tema competições de poesia que levam, mundialmente, o nome de slams. Criado nos EUA em 1986 e trazido para o Brasil em 2008, o slam é uma batalha de poesias que busca promover espaços de expressão e, no Brasil, como em outros locais, tem se popularizado em locais periféricos de centros urbanos. Ao longo da investigação de mestrado, acompanhamos por dois anos o cenário dos slams na cidade de Salvador, Bahia, pela perspectiva teórica dos Estudos de Performance. A pesquisa, de cunho etnográfico, se deu através das técnicas da observação participante e entrevistas semiestruturadas, com o objetivo de compreender de que modo a performance do slam age na criação de novos locais de expressão e sociabilidade para moradores das periferias e como ele atua e ganha sentido, contribuindo com formas de pensar o político e o poético nos espaços da cidade de Salvador. Foi possível observar que, nesta capital, o slam é um fenômeno engajado politicamente a questões de afirmação da identidade étnico-racial negra, em especial de moradores de regiões periféricas, e integrado a outras manifestações artísticas e culturais de mesmo foco, nas quais seus atores transitam, inclusive entre diferentes pontos da cidade. Uma centralidade da periferia, nesse contexto, abre espaço para o re-conhecimento de lugares e afirmação de discursos marginalizados. Palavras-chave: Slam; Batalhas de Poesia; Performance; Periferias; Salvador.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.21680/2238-6009.2023v1n62id27532",
+     "doi": "10.21680/2238-6009.2023v1n62id27532",
+     "paginas": null,
+     "fuente": "Crossref"
+    }
+   ]
+  }
+ ]
+};

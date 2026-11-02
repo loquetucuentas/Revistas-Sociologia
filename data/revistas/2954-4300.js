@@ -1,7 +1,7 @@
 // Copia de revistas/2954-4300.json para abrir la aplicación sin servidor.
 (window.DATOS_REVISTAS = window.DATOS_REVISTAS || {})["revistas/2954-4300.json"] = {
  "version": 1,
- "generado": "2026-10-26T04:47:42+00:00",
+ "generado": "2026-11-02T05:12:34+00:00",
  "es_prueba": false,
  "revista": {
   "id": "2954-4300",
@@ -49,7 +49,7 @@
    "volumen": null,
    "numero": null,
    "anio": 2026,
-   "fecha": "2026-06-02",
+   "fecha": "2026-11-01",
    "etiqueta": "Publicación continua (2026)",
    "fuente": "Crossref",
    "articulos": [
@@ -84,13 +84,46 @@
      "texto_completo": "textos/10-32399-icsyh-bvbuap-2954-4300-2026-7-14-901.json"
     },
     {
+     "id": "10.32399/icsyh.bvbuap.2954-4300.2026.8.15.927",
+     "titulo": "Diálogos con Francesca Gargallo. La conversación como impulso creativo y transformador",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Helena Scully Gargallo",
+       "orcid": null
+      },
+      {
+       "nombre": "Raquel Gutiérrez",
+       "orcid": null
+      },
+      {
+       "nombre": "Gladys Tzul Tzul",
+       "orcid": null
+      },
+      {
+       "nombre": "Diego Ferraris",
+       "orcid": null
+      }
+     ],
+     "resumen": "Introducción al dossier temático «Diálogos con Francesca Gargallo. La conversación como impulso creativo y transformador».",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.32399/icsyh.bvbuap.2954-4300.2026.8.15.927",
+     "doi": "10.32399/icsyh.bvbuap.2954-4300.2026.8.15.927",
+     "paginas": "13-17",
+     "fuente": "Crossref"
+    },
+    {
      "id": "10.32399/icsyh.bvbuap.2954-4300.2026.7.14.870",
      "titulo": "Espacio urbano, precariedad laboral y agencia en el reparto de última milla en México: Jóvenes trabajando para Amazon Flex y Mercado Libre Envíos Extra",
      "idioma_titulo": "es",
      "autores": [
       {
-       "nombre": "José Cerón Hernádez",
-       "orcid": null
+       "nombre": "José Cerón Hernández",
+       "orcid": "https://orcid.org/0000-0003-3473-0821"
       }
      ],
      "resumen": "El artículo analiza la experiencia juvenil en el trabajo de reparto de última milla en México, a través de los casos de Amazon Flex y Mercado Libre Envíos Extra. Desde una perspectiva urbano-laboral, se demuestra que la ciudad —lejos de ser un telón de fondo— media y intensifica la precariedad laboral. La morfología urbana, las fricciones de acceso y la inseguridad convierten lo urbano en una condición material que externaliza costos, tiempos no pagados y riesgos hacia lxs jóvenes repartidorxs, mientras el control algorítmico individualiza estas fallas como “incidencias”. Frente a esto, emerge una agencia territorial juvenil basada en saberes espaciales, reordenamiento táctico de rutas y redes digitales de cuidado, que amortigua pero no revierte la asimetría estructural. La investigación concluye que comprender este ensamblaje entre plataforma, ciudad y juventud es clave para diseñar políticas públicas que enfrenten la doble vulnerabilidad: laboral y espacial.",
@@ -104,6 +137,48 @@
      "paginas": "17-43",
      "fuente": "Crossref",
      "texto_completo": "textos/10-32399-icsyh-bvbuap-2954-4300-2026-7-14-870.json"
+    },
+    {
+     "id": "10.32399/icsyh.bvbuap.2954-4300.2026.8.15.928",
+     "titulo": "Conversar y poetizar como espacios de producción de conocimiento: diálogos con Francesca Gargallo",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Sandra Ivette González Ruiz",
+       "orcid": "https://orcid.org/0000-0001-5607-8083"
+      }
+     ],
+     "resumen": "Este artículo propone una lectura de la obra de Francesca Gargallo a partir de un corpus integrado por su libro Feminismos desde Abya Yala, entrevistas concedidas por la autora y ensayos disponibles en su blog. El objetivo es pensar la conversación no como recurso auxiliar de investigación, sino como práctica epistemológica feminista, capaz de desplazar la autoridad académica, abrir zonas de escucha y reconocer saberes producidos en espacios históricamente considerados menores. A partir de la noción gargalleana de razón narrativa, del diálogo con mujeres indígenas y de su reflexión sobre la literatura escrita por mujeres, el texto argumenta que conversar y poetizar son modos de producir conocimiento situado. Esta lectura permite explicar la decisión metodológica de incorporar diálogos con poetas en una investigación sobre poesía escrita por mujeres durante las dictaduras en Chile y Argentina. Dichos diálogos no operaron como complemento testimonial del análisis textual, sino como una vía para reconstruir memorias, genealogías y formas de comprensión del mundo que el archivo publicado no siempre conserva.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.32399/icsyh.bvbuap.2954-4300.2026.8.15.928",
+     "doi": "10.32399/icsyh.bvbuap.2954-4300.2026.8.15.928",
+     "paginas": "19-39",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.32399/icsyh.bvbuap.2954-4300.2026.8.15.900",
+     "titulo": "Sobre el concepto de narrativa: una aproximación epistemológica desde el pensamiento de Francesca Gargallo",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Judith Sarai Soto Garcia",
+       "orcid": null
+      }
+     ],
+     "resumen": "Este trabajo se propone reflexionar en torno a las potencias epistemológicas del concepto de narrativa a partir de los aportes de la filósofa, historiadora de las ideas y escritora Francesca Gargallo. La narrativa estuvo siempre en el centro de su quehacer literario, académico y activista. Mi propuesta es que la manera particular en que ella entendía la narrativa desborda su significado meramente literario-antropológico y dota al concepto de cualidades capaces de interpelar el orden epistemológico de la modernidad occidental.Dicho orden dominante ha construido históricamente un conjunto de jerarquías patriarcales, coloniales y capitalistas que, al organizar las formas concretas de dominación material, desarrollan las características del sujeto hegemónico de Occidente: masculino, blanco, propietario. Estas cualidades organizan también las jerarquías epistémicas, determinando qué prácticas y procesos construyen conocimiento y cuáles no.En contraposición a lo anterior, Gargallo propone a la narrativa como un elemento dialógico-relacional capaz de producir conocimiento anclado en el cuerpo, en las sensaciones, afectos y territorio, lo que por un lado interpela las jerarquías de la modernidad occidental mientras que, por otro lado, nos deja ante el reto de abrirnos a caminos epistémicos diversos.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.32399/icsyh.bvbuap.2954-4300.2026.8.15.900",
+     "doi": "10.32399/icsyh.bvbuap.2954-4300.2026.8.15.900",
+     "paginas": "41-54",
+     "fuente": "Crossref"
     },
     {
      "id": "10.32399/icsyh.bvbuap.2954-4300.2026.7.14.868",
@@ -128,16 +203,58 @@
      "texto_completo": "textos/10-32399-icsyh-bvbuap-2954-4300-2026-7-14-868.json"
     },
     {
+     "id": "10.32399/icsyh.bvbuap.2954-4300.2026.8.15.929",
+     "titulo": "Blanquitud y patriarcalismo en la filosofía dialogal de Francesca Gargallo Celentani",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Gustavo R. Cruz",
+       "orcid": "https://orcid.org/0009-0001-9771-213X"
+      }
+     ],
+     "resumen": "El artículo tiene por objetivo desplegar el aporte filosófico feminista de Francesca Gargallo Celentani. Se asume su método dialogal para ejercer el filosofar desde Abya Yala/Nuestra América, centrándose en dos críticas que elaboró a lo largo de su obra: al patriarcalismo y al racismo. En el primer apartado se parte de un abordaje sensible a partir de algunas experiencias personales con la filósofa y escritora. En el segundo apartado se aborda la crítica de Gargallo a la blanquitud y el patriarcalismo, que sustentan los «privilegios» del orden social racista y sexista. En el tercer apartado, derivado del problema del colonialismo, se abre un diálogo con su crítica al Estado-nación y otras críticas «indias», como la indianista. La idea de «naciones sin estado» permite el cruce de críticas. Se concluye mostrando algunos elementos para destejer el patriarcalismo y destejer desencuentros entre indianismo y feminismo, recuperando el aporte de la intelectual indianista Hilda Reinaga.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.32399/icsyh.bvbuap.2954-4300.2026.8.15.929",
+     "doi": "10.32399/icsyh.bvbuap.2954-4300.2026.8.15.929",
+     "paginas": "55-69",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.32399/icsyh.bvbuap.2954-4300.2026.8.15.903",
+     "titulo": "Filosofía y feminismo en Francesca Gargallo. Autonomía, diferencia, comunidad",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Estela Fernández Nadal",
+       "orcid": null
+      }
+     ],
+     "resumen": "Francesca Gargallo Celentani (1956-2022) fue una multifacética intelectual siciliana (filósofa, historiadora, ensayista, novelista y poeta), radicada en México en los primeros años de la década de los ochenta. De su amplísima producción, este artículo se enfoca en su pensamiento feminista, que se caracteriza por estar centrado en tres categorías fundamentales: diferencia, autonomía y comunidad.A partir de su elección de la Ciudad de México como su nuevo lugar de residencia, Francesca comienza un periplo intelectual y biográfico en el que sus ideas feministas entran en diálogo con una nueva realidad social y política, que ella designa sucesivamente como «América Latina» (o «Latinoamérica»), «nuestra América» y «Abya Yala».Ese desplazamiento en el significante que designa su objeto de estudio irá acompañado de transformaciones en la perspectiva metodológica adoptada. El artículo enfoca esas modificaciones y, a partir de ellas, esboza una periodización de su pensamiento feminista. Se basa fundamentalmente en tres de sus libros: Ideas feministas latinoamericanas (2004), Antología del pensamiento feminista nuestroamericano (2009) y Feminismos desde Abya Yala. Ideas y proposiciones de las mujeres de 607 pueblos en nuestra América (2012).",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.32399/icsyh.bvbuap.2954-4300.2026.8.15.903",
+     "doi": "10.32399/icsyh.bvbuap.2954-4300.2026.8.15.903",
+     "paginas": "71-95",
+     "fuente": "Crossref"
+    },
+    {
      "id": "10.32399/icsyh.bvbuap.2954-4300.2026.7.14.864",
      "titulo": "Pensar la moda en clave juvenil",
      "idioma_titulo": null,
      "autores": [
       {
-       "nombre": "Angela Rivera Martinez",
+       "nombre": "Angela Rivera Martínez",
        "orcid": "https://orcid.org/0009-0000-3304-0808"
       }
      ],
-     "resumen": "Desde el año 2016 al interior de la industria de la moda en México se han suscitado algunos cambios que apuntan hacia desestabilizar algunas normatividades referidas a los estándares de belleza en México. Esos potenciales cambios han abierto posibilidades laborales para jóvenes que, en periodos anteriores, la industria no se encontraba dentro de sus horizontes de posibilidades vitales. Sin embargo, este aumento de “representación” mediática, fenómeno que ha sido conocido bajo la etiqueta de “belleza mexicana”, ha traído consigo una serie de problemáticas al interior de una industria profundamente juvenilizada y, por defecto, precarizada. En este artículo pretendo trazar una primera aproximación sobre los hallazgos respecto del trabajo juvenil en la industria de la moda, sus problemáticas, procesos en curso y distintas estrategias para sortear las particularidades de este campo. Las y los jóvenes que trabajan, se enfrentan a un fuerte aumento de la representación mediática, no obstante, hay una marcada disminución de sus garantías laborales y vitales. Para la investigación, enmarcada en una estancia posdoctoral aún en curso, se han realizado entrevistas a especialistas, modelos y trabajadores de la industria de la moda en la Ciudad de México a la par de etnografías conectivas.",
+     "resumen": "En los últimos años, la industria de la moda en México ha incorporado discursos que apelan a la diversidad corporal y a reconfiguración de una idea de belleza canónica. Promoviendo nuevas formas de representación dentro del campo, se apunta hacia desestabilizar normatividades referidas a dichos estándares en México. Este artículo analiza cómo estas transformaciones son experimentadas por jóvenes que participan en la industria de la moda en la Ciudad de México. A partir de un trabajo etnográfico que incluyó entrevistas con modelos y otros actores vinculados a la industria, así como observación en distintos espacios de producción de moda, se examinan las problemáticas laborales, las expectativas corporales y las condiciones de trabajo que estructuran el ámbito subjetivo de las y los jóvenes. El análisis muestra que, si bien estos discursos amplían ciertas posibilidades de representación corporal, también coexisten con dinámicas persistentes de precariedad laboral y con exigencias estéticas específicas que configuran las experiencias y subjetividades juveniles dentro de la industria de la moda.",
      "idioma_resumen": "es",
      "licencia": {
       "nombre": "CC BY-NC-SA 4.0",
@@ -150,13 +267,34 @@
      "texto_completo": "textos/10-32399-icsyh-bvbuap-2954-4300-2026-7-14-864.json"
     },
     {
+     "id": "10.32399/icsyh.bvbuap.2954-4300.2026.8.15.898",
+     "titulo": "De la experiencia vital a la política transterritorial de las mujeres diversas en Abya Yala, metodología de vida en Francesca Gargallo",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Erandi Villavicencio",
+       "orcid": null
+      }
+     ],
+     "resumen": "El artículo propone leer la práctica vital, escritural y militante de Francesca Gargallo, en el marco de los feminismos de Abya Yala, como una metodología feminista encarnada de experiencia vital transterritorial. Ésta se teje en conversaciones con ella como tutora de mi tesis doctoral, en momentos de artivismo, encuentros políticos, foros y en sus obras sobre feminismo latinoamericano y autónomo. Dialoga con los aportes de Rosana Rodríguez, Lorena Cabnal, Suely Rolnik, Rita Segato, Raquel Gutiérrez y los feminismos comunitarios para plantear un marco teórico-metodológico sobre la experiencia vital transterritorial como práctica política del encuentro y la procuración de lo común. Se trata de un relato íntimo, pero no intimista, al mismo tiempo epistémico, estético y político de liberación donde escenas, afectos y decisiones vuelven legible la trama colectiva de la resistencia. La experiencia se vuelve transterritorial al desplegarse entre migraciones, diásporas y luchas, configurando un modo de habitar el territorio-cuerpo-tierra que atraviesa fronteras, reescribiéndolas desde los vínculos, los cuidados compartidos y prácticas como el bordado, el arte o la organización comunitaria. La metodología de la experiencia vital transterritorial consiste en pensar y escribir con las otras, en primera persona del plural, para producir un nosotras situado y en movimiento, capaz de disputar el universalismo abstracto desde la complejidad encarnada de la vida.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.32399/icsyh.bvbuap.2954-4300.2026.8.15.898",
+     "doi": "10.32399/icsyh.bvbuap.2954-4300.2026.8.15.898",
+     "paginas": "97-119",
+     "fuente": "Crossref"
+    },
+    {
      "id": "10.32399/icsyh.bvbuap.2954-4300.2026.7.14.875",
      "titulo": "Certámenes de belleza y agencia juvenil. El caso de La Reina de las Fiestas Patrias en Iztacalco, CDMX",
      "idioma_titulo": "es",
      "autores": [
       {
        "nombre": "Sonia Guadalupe Contreras Medina",
-       "orcid": null
+       "orcid": "https://orcid.org/0000-0001-5182-8498"
       }
      ],
      "resumen": "El presente artículo tiene como objetivo dar a conocer las voces de las mujeres jóvenes participantes del certamen nombrado Reina de las Fiestas Patrias, que se lleva a cabo año con año en la Alcaldía Iztacalco, de la Ciudad de México. El análisis presentado se realiza desde la perspectiva de género y los estudios de la juventud, pues ambas miradas nos permiten dilucidar que si bien los certámenes de belleza parten de una base androcéntrica y adultocéntrica, y en los últimos años han sido ubicados como violencia simbólica; hay un espacio para la agencia de las jóvenes participantes al cuestionar y confrontar los estereotipos de género y los ideales de belleza femenina establecidos en dichos eventos. Además, enuncian que resultan ser espacios de encuentro, aprendizaje, participación comunitaria y socialización con sus pares, los cuales les permite desarrollar habilidades y capacidades que les parecen valiosas para aplicarlos en otros ámbitos de su vida social.",
@@ -172,6 +310,27 @@
      "texto_completo": "textos/10-32399-icsyh-bvbuap-2954-4300-2026-7-14-875.json"
     },
     {
+     "id": "10.32399/icsyh.bvbuap.2954-4300.2026.8.15.899",
+     "titulo": "Tierra, diáspora y memoria: aproximaciones críticas desde el pensamiento de Francesca Gargallo",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Julia Corona Chaparro",
+       "orcid": null
+      }
+     ],
+     "resumen": "Este artículo analiza la relación entre Tierra –entendida como una categoría ontológica, política y afectiva–, la memoria y la diáspora a partir del pensamiento de Francesca Gargallo, de los recuerdos que tengo de ella y del gran legado que nos dejó con su obra, así como el diálogo existente con diversas corrientes críticas latinoamericanas y decoloniales. Se recupera su obra Garífuna, Garínagu, Caribe. Historia de una nación libertaria, para mostrar cómo las identidades diaspóricas preservan vínculos territoriales y culturales mediante prácticas de memoria que desafían el olvido colonial. En diálogo con los aportes de Gloria Anzaldúa, Avtar Brah, Aníbal Quijano, Frantz Fanon y Ngũgĩ wa Thiong'o, se argumenta que la migración contemporánea debe comprenderse como un fenómeno vinculado a la colonialidad del poder, la violencia fronteriza, el neoliberalismo y la crisis ecológica global. Asimismo, se concluye que la Tierra constituye un eje para comprender las actuales crisis migratorias, ecológicas y sociales de Nuestra América. El pensamiento de Gargallo ofrece, por tanto, herramientas teóricas y éticas para repensar la relación entre humanidad, territorio y justicia desde una crítica que se crea desde la memoria, el cuerpo y la diáspora.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.32399/icsyh.bvbuap.2954-4300.2026.8.15.899",
+     "doi": "10.32399/icsyh.bvbuap.2954-4300.2026.8.15.899",
+     "paginas": "121-136",
+     "fuente": "Crossref"
+    },
+    {
      "id": "10.32399/icsyh.bvbuap.2954-4300.2026.7.14.866",
      "titulo": "Juventudes rurales y diversidad sexual desde la experiencia de “Cuquío Pride” en Jalisco, México",
      "idioma_titulo": "es",
@@ -181,7 +340,7 @@
        "orcid": "https://orcid.org/0000-0002-8725-2053"
       },
       {
-       "nombre": "Manuel Fernando Rodriguez Esparza",
+       "nombre": "Manuel Fernando Rodríguez Esparza",
        "orcid": null
       }
      ],
@@ -196,6 +355,48 @@
      "paginas": "127-163",
      "fuente": "Crossref",
      "texto_completo": "textos/10-32399-icsyh-bvbuap-2954-4300-2026-7-14-866.json"
+    },
+    {
+     "id": "10.32399/icsyh.bvbuap.2954-4300.2026.8.15.930",
+     "titulo": "Los feminismos de las mujeres indígenas: acciones autónomas y desafío epistémico",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Francesca Gargallo",
+       "orcid": null
+      }
+     ],
+     "resumen": "El presente texto analiza los feminismos de las mujeres indígenas de Nuestra América como prácticas políticas y formas de producción de conocimiento que desafían tanto al patriarcado como a la colonialidad y al feminismo occidental hegemónico. A partir del diálogo con mujeres de distintos pueblos, Francesca Gargallo cuestiona la universalización de categorías feministas construidas desde experiencias blancas, urbanas e individualistas y propone reconocer la pluralidad de formas en que las mujeres indígenas piensan y practican su liberación. Sus luchas articulan autonomía, comunidad, territorio y cuerpo, confrontando simultáneamente patriarcados ancestrales y coloniales, racismo y capitalismo. Conceptos como despatriarcalización, cuerpo-tierra y entronque de patriarcados permiten comprender la especificidad de estas elaboraciones y las relaciones históricas que atraviesan las experiencias de las mujeres indígenas. Desde esta perspectiva, el texto plantea la necesidad de cuestionar también las formas dominantes de construcción y legitimación del saber, así como las jerarquías que determinan quién puede producir conocimiento. Se propone transformar y poner en el centro las relaciones de producción del conocimiento, reconociendo las prácticas, experiencias y reflexiones de las mujeres indígenas como aportaciones autónomas y fundamentales a los feminismos y al pensamiento contemporáneo.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.32399/icsyh.bvbuap.2954-4300.2026.8.15.930",
+     "doi": "10.32399/icsyh.bvbuap.2954-4300.2026.8.15.930",
+     "paginas": "137-157",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.32399/icsyh.bvbuap.2954-4300.2026.8.15.863",
+     "titulo": "Que Dios sabe de dónde salió. Reflexiones en torno a El concepto de Estado en Marx. Lo común por monopolios, de Álvaro García Linera",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Javier Waiman",
+       "orcid": null
+      }
+     ],
+     "resumen": "El siguiente artículo ofrece una reflexión crítica sobre el último libro del intelectual boliviano Álvaro García Linera, situándolo en el marco de un necesario retorno al pensamiento sobre el Estado motivado por desarrollos históricos recientes. Luego se exponen los principales argumentos del libro, reconstruyendo la lectura que García Linera hace del corpus marxiano y examinando su concepción del Estado como una forma abstracta, ilusoria, conflictiva, paradójica y monopolizadora de la existencia de lo común en la sociedad capitalista. A partir de esta conceptualización, se desarrollan tres puntos de crítica: en primer lugar, la disyunción entre la realidad internacional de la comunidad económica del capitalismo y su comunidad política organizada a escala nacional; en segundo lugar, la persistencia de formas estatales autoritarias que ni integran a las masas ni operan a través de intentos de universalizar intereses particulares y, en tercer lugar, la necesidad de construir mecanismos de adecuación a los intereses del capital que vayan más allá de la afinidad ideológica de la burocracia. El artículo concluye considerando las implicaciones estratégicas de la propuesta de García Linera en su búsqueda de una forma de política capaz tanto de reapropiarse del Estado como de organizar nuevos modos de vida en común que apunten hacia su disolución.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.32399/icsyh.bvbuap.2954-4300.2026.8.15.863",
+     "doi": "10.32399/icsyh.bvbuap.2954-4300.2026.8.15.863",
+     "paginas": "161-181",
+     "fuente": "Crossref"
     },
     {
      "id": "10.32399/icsyh.bvbuap.2954-4300.2026.7.14.867",
@@ -224,6 +425,27 @@
      "texto_completo": "textos/10-32399-icsyh-bvbuap-2954-4300-2026-7-14-867.json"
     },
     {
+     "id": "10.32399/icsyh.bvbuap.2954-4300.2026.8.15.874",
+     "titulo": "Arte y utopía: el carácter crítico del arte en la estética de Theodor W. Adorno",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Enrique Tonathiu Garrido de Anda",
+       "orcid": "https://orcid.org/0009-0005-8635-0785"
+      }
+     ],
+     "resumen": "Este artículo examina en profundidad el carácter crítico del arte en la teoría estética de Theodor W. Adorno. Dicho potencial radica en la capacidad del arte para revelar las contradicciones sociales y expresar lo «no-idéntico», aquello que la razón instrumental suprime y homogeniza. Para lograrlo, el arte debe operar bajo un «doble carácter»: mantener su autonomía frente a los dictados del mercado y la sociedad, sin dejar de ser un «hecho social» que se relaciona críticamente con ella. Esta capacidad crítica no se agota, sin embargo, en el contenido temático de las obras, sino que se juega fundamentalmente en su dimensión formal: el impulso mimético –la expresión del sufrimiento objetivo– requiere de un momento constructivo y técnico que Adorno identifica con la racionalidad formal. Frente a las lecturas que enfatizan los aspectos extraestéticos en detrimento de la forma, el artículo reivindica la centralidad de la construcción artística como vehículo de la crítica. A través de esta negatividad, el arte sugiere utópicamente que un mundo diferente es posible, convirtiéndose así en una forma de praxis social que fomenta la conciencia crítica necesaria para la transformación.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.32399/icsyh.bvbuap.2954-4300.2026.8.15.874",
+     "doi": "10.32399/icsyh.bvbuap.2954-4300.2026.8.15.874",
+     "paginas": "183-196",
+     "fuente": "Crossref"
+    },
+    {
      "id": "10.32399/icsyh.bvbuap.2954-4300.2026.7.14.889",
      "titulo": "Juvenicidio y necropolítica en México",
      "idioma_titulo": "es",
@@ -250,8 +472,50 @@
      "texto_completo": "textos/10-32399-icsyh-bvbuap-2954-4300-2026-7-14-889.json"
     },
     {
+     "id": "10.32399/icsyh.bvbuap.2954-4300.2026.8.15.895",
+     "titulo": "Cuerpo sin órganos y capitalismo en Deleuze y Guattari: ¿rendimiento crítico o fetichismo?",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Enrique G. Gallegos",
+       "orcid": "https://orcid.org/0009-0003-6183-0841"
+      }
+     ],
+     "resumen": "El objetivo del presente artículo fue ponderar el rendimiento crítico de la noción de cuerpo sin órganos (CsO), específicamente su posible función en una crítica a la sociedad capitalista, dado que tanto El Anti Edipo como Mil mesetas se sitúan en ese horizonte. Deleuze y Guattari describen el CsO como límite del que parten las líneas de fuga y desterritorializaciones, para combatir las estratificaciones que capturan y subordinan las individuaciones, los deseos y las multiplicidades. Empero, esta descripción del CsO no dejan de ser, paradójicamente, homologable con los efectos del valor de cambio y el fetichismo de la mercancía. El artículo delinea un insospechado paralelo entre lo improductivo del capital (que se apropia del producto del trabajo abstracto) y lo improductivo del CsO (que se apropia del producto de las máquinas deseantes); semejanzas que se apuntalan con la descripción ahistórica de las fuerzas productivas y la destitución del proletariado para situar en su lugar al esquizofrénico. El artículo concluye que más allá de las críticas a las estratificaciones y las posibilidades de liberar los flujos de los deseos y las multiplicidades, no deja de existir una subterránea línea conceptual que desemboca en una apología del capitalismo tecnológico, financiero y globalizante.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.32399/icsyh.bvbuap.2954-4300.2026.8.15.895",
+     "doi": "10.32399/icsyh.bvbuap.2954-4300.2026.8.15.895",
+     "paginas": "197-214",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.32399/icsyh.bvbuap.2954-4300.2026.8.15.865",
+     "titulo": "Los principios de una sociedad igualitaria, según el poder de la acción colectiva defendida por Noam Chomsky",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Antón De La Iglesia Vélez",
+       "orcid": "https://orcid.org/0009-0000-8261-6957"
+      }
+     ],
+     "resumen": "Este artículo analiza la propuesta de Noam Chomsky para alcanzar una sociedad igualitaria, fundamentada en el poder de la acción colectiva y una interpretación específica de la naturaleza humana. Partiendo de la crítica a los modelos socioeconómicos dominantes, se examinan las limitaciones de las posturas liberales, autoritarias y socialistas-leninistas para realizar el potencial humano. Frente a éstas, se desarrolla el modelo chomskiano de anarcosindicalismo o comunismo libertario, que propone la abolición del Estado, la propiedad privada y las estructuras coercitivas, reemplazándolas por una organización social basada en la democracia directa, la autogestión obrera y el apoyo mutuo. El artículo argumenta que este sistema, lejos de ser una mera utopía, se alinea con una naturaleza humana orientada hacia la libertad, la creatividad y la solidaridad, y se explora su viabilidad histórica mediante ejemplos como la Revolución española de 1936. La conclusión subraya la urgencia de implementar estos principios mediante la acción colectiva y la educación libertaria como antídoto frente a la alienación capitalista y la crisis civilizatoria.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.32399/icsyh.bvbuap.2954-4300.2026.8.15.865",
+     "doi": "10.32399/icsyh.bvbuap.2954-4300.2026.8.15.865",
+     "paginas": "215-232",
+     "fuente": "Crossref"
+    },
+    {
      "id": "10.32399/icsyh.bvbuap.2954-4300.2026.7.14.876",
-     "titulo": "Necropolíticas y la precarización de la vida",
+     "titulo": "Necropolíticas y la precarización de la vida: el desplazamiento forzado y el crimen organizado como marcos contextuales de las juventudes migrantes contemporáneas",
      "idioma_titulo": "es",
      "autores": [
       {
@@ -259,7 +523,7 @@
        "orcid": "https://orcid.org/0000-0001-7484-3842"
       }
      ],
-     "resumen": "El estudio de la violencia ha sido una tarea recurrente de múltiples disciplinas en las Ciencias Humanas y Sociales. Por ello, su construcción conceptual se ha sometido a constantes transformaciones que van desde planteamientos que individualizan sus explicaciones, hasta nociones enfocadas en las dimensiones de su administración global. No obstante, una de las recurrencias en estos enfoques ha sido que la violencia siempre está acompañada de otros procesos que, en mayor o menor medida, impactan en su mantenimiento y reproducción. En este sentido, concebirla como violencia social (Imbert, 1992) es el primer paso para integrar las conexiones que existen entre sus diversas formas de manifestación en la vida cotidiana. De tal modo, las dinámicas sociales no solo están marcadas por la agencia individual, sino que también se encuentran determinadas por condiciones políticas que ejercen control sobre las condiciones de vida y las diversidades de las poblaciones. Tal es el caso de la biopolítica (Foucualt, 2007), que visibiliza las condiciones de disciplinamiento para la vida, o, para este estudio, la necropolítica (Mbembe, 2011), que representa la gestión de las formas de morir mediante la ejecución de los poderes fácticos; siendo las migraciones contemporáneas un ejemplo patente a nivel global. En este texto, se propone una ruta de análisis sociológico crítico, centrada en los conceptos de necropolítica y violencia social, para incentivar a una interpretación profunda de esos fenomenos sociales que generan formas complejas de violencia sobre los sujetos. Estos primeros recursos conceptuales se complementan con las propuestas: anulación de la vida social violenta y escenarios hostiles, derivando en la propuesta conceptual de aniquilamiento continuum. La aplicación se enmarca en las interacciones experimentadas por los jóvenes en desplazamiento forzado hacia la frontera entre México y Estados Unidos. Este tránsito está marcado por contextos de violencia social ejercida desde el Crimen Organizado y las Fuerzas Armadas del Estado, estructuras que buscan legitimarse a través del discurso de la paz institucional y la ejecución de políticas de olvido y abandono social. Para el abordaje empírico, se emplearán metodologías cualitativas e interpretativas, específicamente la etnografía multisituada y las entrevistas narrativas.",
+     "resumen": "El estudio de la violencia requiere comprender sus manifestaciones cotidianas y las condiciones políticas que administran la vida y la muerte. En este contexto se destaca las políticas de muerte que gestionan las formas de morir y son ejercidas por poderes fácticos, siendo las migraciones contemporáneas un claro ejemplo de ello. Este artículo propone una ruta de análisis sociológico con enfoque crítico, sostenida en dos conceptos clave: la necropolítica y la violencia social para interpretar las violencias complejas que enfrentan las poblaciones migrantes. Este marco se complementa con las nociones de anulación de la vida social violenta y escenarios hostiles, culminando en la propuesta conceptual de aniquilamiento continuum. Este andamiaje analítico se aplica al caso de los jóvenes en desplazamiento forzado hacia la frontera México-Estados Unidos. Su tránsito está atravesado por la violencia del crimen organizado y las fuerzas armadas del Estado, estructuras amparadas en políticas de abandono y discursos de paz institucional. Para su abordaje empírico, se emplearon metodologías cualitativas mediante etnografía multisituada y entrevistas narrativas, permitiendo comprender cómo estas dinámicas precarizan la vida de las juventudes migrantes.",
      "idioma_resumen": "es",
      "licencia": {
       "nombre": "CC BY-NC-SA 4.0",
@@ -272,13 +536,34 @@
      "texto_completo": "textos/10-32399-icsyh-bvbuap-2954-4300-2026-7-14-876.json"
     },
     {
+     "id": "10.32399/icsyh.bvbuap.2954-4300.2026.8.15.893",
+     "titulo": "La continuidad cananea de Palestina: los antiguos habitantes del levante meridional –incluidos los judaítas y judeos, cuya herencia reclama el sionismo– y sus descendientes palestinos, contra la narrativa del exilio y el «retorno»",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "José Mauricio Gómez Julián",
+       "orcid": null
+      }
+     ],
+     "resumen": "Esta investigación sostiene una tesis de dos caras, donde la segunda se apoya en la primera. La histórico-empírica: la continuidad material –demográfica, genética y lingüística– con la población antigua del Levante meridional (el continuo cananeo-israelita-judaíta-samaritano, incluidos los judeos) corresponde principalmente a los palestinos, que permanecieron en la tierra convirtiéndose gradualmente de religión, y no a la mayoría de los judíos modernos, cuya diáspora se formó sobre todo por conversión y mezcla. La político-ideológica: el Estado de Israel no es la restauración de una soberanía ancestral, sino una construcción del colonialismo de asentamiento, y la narrativa del «exilio y retorno» funciona como dispositivo de hegemonía cultural al servicio del imperialismo. Distinguimos lo que afirmamos –continuidad demográfica verificable– de lo que no afirmamos –continuidad identitaria esencial, que el materialismo histórico obliga a rechazar–. La demostración triangula arqueología, historiografía, paleogenómica y lingüística histórica, y su contribución es sistematizar esa convergencia, actualizarla con la genómica posterior a 2014 e inscribirla en la crítica marxista del colonialismo de asentamiento.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.32399/icsyh.bvbuap.2954-4300.2026.8.15.893",
+     "doi": "10.32399/icsyh.bvbuap.2954-4300.2026.8.15.893",
+     "paginas": "233-256",
+     "fuente": "Crossref"
+    },
+    {
      "id": "10.32399/icsyh.bvbuap.2954-4300.2026.7.14.887",
      "titulo": "Entre ruinas del Estado y constelaciones comunitarias: genealogías y posibilidades contemporáneas de la política no estatal",
      "idioma_titulo": "es",
      "autores": [
       {
        "nombre": "Francisco Javier Gómez Carpinteiro",
-       "orcid": null
+       "orcid": "https://orcid.org/0000-0002-7975-1362"
       }
      ],
      "resumen": "Este artículo examina la posibilidad de una política no estatal a partir del antagonismo histórico entre Estado y comunidad. Partiendo de una crítica del Estado como forma de mando que produce sujetos legibles y gobernables, se recuperan genealogías de sociedades que han organizado la vida colectiva sin estructuras permanentes de dominación, desde los planteamientos de Pierre Clastres (2008) y James C. Scott (2009, 2021) hasta la experiencia moderna de la Comuna de París. Sobre esta base, se analizan reaperturas contemporáneas de organización desde abajo -el zapatismo, el confederalismo democrático kurdo y los comunes urbanos- como constelaciones comunitarias que reactivan memorias largas de autogobierno. Finalmente, se examinan las fuerzas de clausura estatal y capitalista que enfrentan estas experiencias, así como su persistente capacidad de reabrir la imaginación política. Más que modelos acabados, estas prácticas revelan que la política no estatal constituye una posibilidad histórica recurrente y no una utopía futura.",
@@ -294,13 +579,34 @@
      "texto_completo": "textos/10-32399-icsyh-bvbuap-2954-4300-2026-7-14-887.json"
     },
     {
+     "id": "10.32399/icsyh.bvbuap.2954-4300.2026.8.15.871",
+     "titulo": "El consumo y la recepción. Revisión teórica de las formas de apropiación simbólica de los contenidos mediáticos",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Juris Tipa",
+       "orcid": "https://orcid.org/0000-0001-5213-5757"
+      }
+     ],
+     "resumen": "El presente artículo consiste de una revisión de los principales enfoques teóricos sobre el consumo y la recepción de los contenidos mediáticos de las audiencias como dos temas paralelos en los estudios donde se busca entender cómo las audiencias se apropian simbólicamente de esos contenidos que forman parte de sus prácticas cotidianas de consumo. Ambos enfoques comparten varios puntos de encuentro, mientras aún se complementan en los momentos de diferenciación debido a sus bases teóricas y su aplicación en estudios empíricos.En esta revisión se prioriza el debate sobre la utilidad analítica de conceptos como «consumo cultural», «clase social» e «identidad» desde distintos enfoques teóricos que abarcan la percepción selectiva, los usos y las gratificaciones, decodificación de los mensajes mediáticos y los significados atribuidos a las prácticas de consumo como actos comunicativos de la persona.Se concluyó que la interpretación y la aplicación de dichos conceptos a menudo está condicionada por la rigidez de los posicionamientos teóricos empleados; por tanto, se sugiere utilizar los aspectos teóricos de manera complementaria con el fin de posibilitar un análisis más amplio e integrado de la realidad social.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.32399/icsyh.bvbuap.2954-4300.2026.8.15.871",
+     "doi": "10.32399/icsyh.bvbuap.2954-4300.2026.8.15.871",
+     "paginas": "257-278",
+     "fuente": "Crossref"
+    },
+    {
      "id": "10.32399/icsyh.bvbuap.2954-4300.2026.7.14.860",
      "titulo": "Comunicación Afectiva Bio-Mediada. Cuerpo, Colonización y Morenitúd",
      "idioma_titulo": "es",
      "autores": [
       {
        "nombre": "Ali Lara",
-       "orcid": null
+       "orcid": "https://orcid.org/0000-0001-8548-9121"
       }
      ],
      "resumen": "En este texto llamo comunicación afectiva bio-mediada a la articulación de recursos orgánicos de procesamiento y respuesta de información implicados en procesos materiales que conectan cuerpos humanos. En la primera sección me concentro en las capacidades comunicativas de los cuerpos expresadas a través de la sugestión, la mimesis y el contagio en sus diversas modalidades; discuto los linajes teóricos de estos conceptos y los enmarco como formas de transmisión afectiva en los estudios del afecto. En la segunda sección ilustro dos efectos raciales de la comunicación bio-mediada en el contexto de la producción afectiva de la colonización: los registros afectivos y propensiones relacionales de los cuerpos morenos hacia sí mismos y otros grupos raciales.",
@@ -314,6 +620,27 @@
      "paginas": "276-304",
      "fuente": "Crossref",
      "texto_completo": "textos/10-32399-icsyh-bvbuap-2954-4300-2026-7-14-860.json"
+    },
+    {
+     "id": "10.32399/icsyh.bvbuap.2954-4300.2026.8.15.851",
+     "titulo": "Rutas críticas sobre la transición justa en México. Territorio y trabajo en clave socioecológica",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Sofía Ávila Calero",
+       "orcid": "https://orcid.org/0000-0003-0320-6760"
+      }
+     ],
+     "resumen": "En México y el resto de los países de América Latina, el imperativo de la transición energética está activando nuevos debates y disputas sobre lo que significa el desarrollo, la justicia social y la justicia ambiental. Este artículo analiza la expansión de proyectos minero-energéticos verdes en México a lo largo de las últimas dos décadas, identificando algunas de las demandas obreras y socioambientales que se han articulado como respuesta a tales infraestructuras. Utilizando el Atlas Global de Justicia Ambiental como herramienta principal, se recuperan las categorías de territorios sacrificados y trabajo precario como ejes clave de diagnóstico crítico. En este marco, el texto discute las limitantes para alcanzar una transición justa en México bajo modelos que reproducen la matriz productiva imperante, independientemente de si se inclinan hacia el mercado o el Estado. Ante este diagnóstico, el texto concluye contraponiendo el potencial de una perspectiva socioecológica para atender los retos ambientales y laborales del país, y sugiere algunas rutas de investigación-acción para contribuir al campo del pensamiento crítico y la organización colectiva.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.32399/icsyh.bvbuap.2954-4300.2026.8.15.851",
+     "doi": "10.32399/icsyh.bvbuap.2954-4300.2026.8.15.851",
+     "paginas": "279-303",
+     "fuente": "Crossref"
     },
     {
      "id": "10.32399/icsyh.bvbuap.2954-4300.2026.7.14.855",
@@ -342,13 +669,122 @@
      "texto_completo": "textos/10-32399-icsyh-bvbuap-2954-4300-2026-7-14-855.json"
     },
     {
+     "id": "10.32399/icsyh.bvbuap.2954-4300.2026.8.15.931",
+     "titulo": "Intentando acercarme a una razón narrativa",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Francesca Gargallo",
+       "orcid": null
+      }
+     ],
+     "resumen": "El artículo reflexiona sobre la relación entre narración y conocimiento para proponer la existencia de una razón narrativa, entendida no solo como una forma de comunicar, sino como un modo específico de organizar el pensamiento y comprender la realidad. A partir de un diálogo crítico con la historia, la filosofía, la literatura y distintas concepciones de la ciencia, Francesca Gargallo cuestiona la desvalorización moderna de la narración frente a modelos de conocimiento que pretenden fundarse en verdades necesarias, universales y demostrativas. La razón narrativa es presentada como relacional y dialógica: narrar supone dirigirse a otras personas, transmitir saberes, aceptar la pluralidad de perspectivas y reconocer el carácter falible y revisable del conocimiento. Esta dimensión convierte la narración en una práctica ética y política, capaz de construir vínculos, transmitir experiencias y resistir la imposición de discursos únicos. Frente a los modelos homogeneizadores de la modernidad y la globalización, narrar permite reconocer diferencias culturales, articular conocimientos heterogéneos y reconstruir continuamente nuestra comprensión del mundo. El conocimiento, concluye Gargallo, es múltiple y no puede reducirse a una única forma.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.32399/icsyh.bvbuap.2954-4300.2026.8.15.931",
+     "doi": "10.32399/icsyh.bvbuap.2954-4300.2026.8.15.931",
+     "paginas": "307-316",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.32399/icsyh.bvbuap.2954-4300.2026.8.15.897",
+     "titulo": "Reseña: «Algunas reflexiones en torno a la novela La semilla (plan campesino de solteras) de Francesca Gargallo Celentani»",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Judith Sarai Soto Garcia",
+       "orcid": "https://orcid.org/0009-0007-8998-1499"
+      }
+     ],
+     "resumen": "El archivo adjunto es una reseña, por lo que no requiere resumen de acuerdo a los lineamientos editoriales de la revista.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.32399/icsyh.bvbuap.2954-4300.2026.8.15.897",
+     "doi": "10.32399/icsyh.bvbuap.2954-4300.2026.8.15.897",
+     "paginas": "317-321",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.32399/icsyh.bvbuap.2954-4300.2026.8.15.904",
+     "titulo": "Dialogando en torno a la atención. Reflexiones sobre el tema de la atención en Simone Weil y Francesca Gargallo",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Fabiola Del Vecchio",
+       "orcid": null
+      }
+     ],
+     "resumen": "El presente texto pretende investigar y evaluar la hipótesis de algunos puntos de contacto entre el pensamiento de Francesca Gargallo y el de la filósofa francesa Simone Weil. El hipotético paralelo entre dos personalidades tan distintas por muchos aspectos, además del contexto histórico y sociocultural en el cual han vivido y desarrollado sus visiones, sus obras y sus vidas, está basado en la centralidad del concepto de la atención como actitud de concebir las relaciones, de mirar al mundo de forma dinámica y comprometida, haciendo corresponder la inteligencia de las cosas con una acción coherente y capaz de una entrega profunda. En particular, la construcción ética, política, filosófica, narrativa y poética en Francesca Gargallo se analizará a través de su novela lírica La costra de la tierra (Heredad, 2024) como un caso de estudio en el cual la pensadora y escritora concentra temáticas de particular urgencia para la sobrevivencia humana con una atención-tensión política que busca salidas colectivas frente a las dinámicas opresivas ejercidas por el poder global.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.32399/icsyh.bvbuap.2954-4300.2026.8.15.904",
+     "doi": "10.32399/icsyh.bvbuap.2954-4300.2026.8.15.904",
+     "paginas": "323-329",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.32399/icsyh.bvbuap.2954-4300.2026.8.15.932",
+     "titulo": "Yo no conocí a Francesca",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Josué Federico Pérez Domínguez",
+       "orcid": "https://orcid.org/0009-0008-9898-2837"
+      }
+     ],
+     "resumen": "Intervención sobre la lectura de la obra de Francesca Gargallo Celentani.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.32399/icsyh.bvbuap.2954-4300.2026.8.15.932",
+     "doi": "10.32399/icsyh.bvbuap.2954-4300.2026.8.15.932",
+     "paginas": "331-335",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.32399/icsyh.bvbuap.2954-4300.2026.8.15.933",
+     "titulo": "De nuestro estar en el mundo. Narrar como acto de rebeldía",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Helena Scully Gargallo",
+       "orcid": null
+      },
+      {
+       "nombre": "Diego Ferraris",
+       "orcid": null
+      }
+     ],
+     "resumen": "Introducción a la sección de textos literarios «De nuestro estar en el mundo. Narrar como acto de rebeldía», en diálogo con la idea de razón narrativa de Francesca Gargallo.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.32399/icsyh.bvbuap.2954-4300.2026.8.15.933",
+     "doi": "10.32399/icsyh.bvbuap.2954-4300.2026.8.15.933",
+     "paginas": "337-362",
+     "fuente": "Crossref"
+    },
+    {
      "id": "10.32399/icsyh.bvbuap.2954-4300.2026.7.14.857",
      "titulo": "Empoderando el pluriverso: posibilidades y retos para las transiciones energéticas decoloniales en la Sierra Norte de Puebla, México",
      "idioma_titulo": "es",
      "autores": [
       {
        "nombre": "Erik Post",
-       "orcid": null
+       "orcid": "https://orcid.org/0000-0002-0085-0182"
       },
       {
        "nombre": "Marisol Rosas Pérez",
@@ -375,7 +811,7 @@
        "orcid": null
       }
      ],
-     "resumen": "Frente a la trayectoria genocida y ecocida del cambio climático y las soluciones “verdes” al mismo, superar la colonialidad encarnada en los modelos energéticos es de suma importancia. Dado que los modelos energéticos son co-constitutivos de las estructuras de poder, las transiciones energéticas presentan oportunidades para desafiar y transformar las estructuras de dominación en configuraciones de poder más liberadoras. A través de un análisis situado del proyecto “Energía para el yeknemilis”, que ejecuta la Unión de Cooperativas Tosepan Titataniske en la Sierra Norte de Puebla, México, argumentamos que las transiciones energéticas pueden articular una praxis decolonial. Con base en ocho meses de investigación-acción participativa que involucró la colaboración entre un investigador de ascendencia europea y el equipo de investigadores comunitarios sentipensantes del proyecto, hacemos dos contribuciones a la literatura relacionada con las transiciones energéticas y la praxis decolonial. En primer lugar, aportamos evidencia empírica para fundamentar las críticas decoloniales a la justicia ambiental, climática y energética. En segundo lugar, proponemos que el proyecto “Energía para el yeknemilis” desafía la colonialidad presente en la mayoría de los discursos actuales sobre la transición energética y los proyectos de transición “verde”. Para ello, discutimos cómo el proyecto contribuye a la construcción de un modelo de gestión energética rural, liderado por indígenas, orientado a lograr la soberanía energética y hacer realidad el yeknemilis o el xatlaan latamaat, que son articulaciones locales del Buen Vivir. También analizamos algunas posibilidades y retos para las transformaciones decoloniales ilustradas por el proyecto “Energía para el yeknemilis” en la Sierra Norte de Puebla, con la intención de fortalecerlo y aportar reflexiones para quienes luchan por modelos energéticos que sustenten la vida, alimentando la autodeterminación y el florecimiento de los pueblos y las comunidades indígenas y mestizos.",
+     "resumen": "A través de un análisis situado del proyecto “Energía para el yeknemilis”, que ejecuta la Unión de Cooperativas Tosepan Titataniske en la Sierra Norte de Puebla, México, argumentamos que las transiciones energéticas pueden articular una praxis decolonial. Con base en ocho meses de investigación-acción participativa que involucró la colaboración entre un investigador europeo y el equipo de investigadores comunitarios sentipensantes del proyecto, hacemos dos contribuciones a la literatura relacionada con las transiciones energéticas y la praxis decolonial. Aportamos evidencia empírica para fundamentar las críticas decoloniales a la justicia ambiental, climática y energética y proponemos que el proyecto desafía la colonialidad presente en los discursos sobre la transición energética y los proyectos de transición “verde”. Discutimos cómo el proyecto contribuye a la construcción de un modelo de gestión energética rural, liderado por indígenas, orientado a lograr la soberanía energética y hacer realidad el yeknemilis o el xatlaan latamaat, que son articulaciones locales del Buen Vivir. También analizamos posibilidades y retos para las transformaciones decoloniales ilustradas por el proyecto con la intención de fortalecerlo y aportar reflexiones para quienes luchan por modelos energéticos que sustenten la vida, alimentando la autodeterminación de los pueblos y las comunidades indígenas y mestizos.",
      "idioma_resumen": "es",
      "licencia": {
       "nombre": "CC BY-NC-SA 4.0",
@@ -388,13 +824,113 @@
      "texto_completo": "textos/10-32399-icsyh-bvbuap-2954-4300-2026-7-14-857.json"
     },
     {
+     "id": "10.32399/icsyh.bvbuap.2954-4300.2026.8.15.934",
+     "titulo": "Hasta siempre querido Pedro, el diálogo entre marxistas y cristianos",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Carlos Figueroa Ibarra",
+       "orcid": "https://orcid.org/0000-0001-8165-0846"
+      }
+     ],
+     "resumen": "Texto en memoria de Pedro Félix Hernández Ornelas.",
+     "idioma_resumen": null,
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.32399/icsyh.bvbuap.2954-4300.2026.8.15.934",
+     "doi": "10.32399/icsyh.bvbuap.2954-4300.2026.8.15.934",
+     "paginas": "363-366",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.32399/icsyh.bvbuap.2954-4300.2026.8.15.902",
+     "titulo": "El amortiguador sistémico frente a la policrisis de la globalización capitalista. Reseña del libro: Domínguez, R.; Lo Brutto, G. y Vadell, J. (2025). La Cooperación Sur-Sur en la policrisis de la globalización capitalista. BUAP.",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Carlos Nander Barra Fernández",
+       "orcid": "https://orcid.org/0009-0003-9180-701X"
+      }
+     ],
+     "resumen": "El orden internacional liberal edificado en la posguerra atraviesa una serie de crisis interrelacionadas o crisis estructural, a las que se denomina como\"policrisis\". Dicho proceso se caracteriza por el agotamiento de los recursos, el desgaste democrático y un interregno hegemónico derivado del repliegue estratégico de Estados Unidos hacia el hemisferio occidental. Ante este escenario de incertidumbre, los países del Sur Global se enfrentan a la necesidad de diversificar sus relaciones internacionales frente al ascenso de un orden multipolar impulsado por China. El presente texto analiza la obra colectiva La Cooperación Sur-Sur en la policrisis de la globalización capitalista (BUAP, 2025), la cual, a lo largo de diez capítulos, examina la Cooperación Sur-Sur (CSS) como una herramienta amortiguadora de los procesos de fragmentación política y una alternativa desarrollista soberana. A través de enfoques interdisciplinarios, la teoría del sistema-mundo y el análisis de casos regionales (América Latina, Colombia, Medio Oriente y el grupo BRICS), se deconstruyen las narrativas imperiales occidentales y se evalúa el potencial del multilateralismo pluriversal, el concepto de Tianxia y la densificación institucional del BRICS plus. Se concluye que, a pesar de sus contradicciones y los límites estructurales de la dependencia regional, la CSS se erige como un contramovimiento legítimo y un eje de gobernanza global alternativo que busca fundar una sociedad internacional más justa, equitativa y ajena a los imperativos de la globalización capitalista.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.32399/icsyh.bvbuap.2954-4300.2026.8.15.902",
+     "doi": "10.32399/icsyh.bvbuap.2954-4300.2026.8.15.902",
+     "paginas": "367-373",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.32399/icsyh.bvbuap.2954-4300.2026.8.15.912",
+     "titulo": "Reseña: Matamoros Ponce, Fernando T. 2025. Una montaña zapatista de ultramar. Constelaciones históricas, usos críticos de memoria y cultura. México: ICSyH-BUAP, 264 pp.",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Aline Zárate Santiago",
+       "orcid": "https://orcid.org/0000-0002-2653-9771"
+      },
+      {
+       "nombre": "Wendi Elizabeth Carrillo Isiordia",
+       "orcid": "https://orcid.org/0009-0002-9599-5823"
+      },
+      {
+       "nombre": "Hildeberto Herrera Silva",
+       "orcid": "https://orcid.org/0009-0007-5141-4755"
+      }
+     ],
+     "resumen": "El examen minucioso del volumen Una montaña zapatista de ultramar revela una obra imprescindible para las ciencias sociales contemporáneas. El texto de Fernando Teodoro Matamoros Ponce, no se limita a documentar de manera pasiva un acontecimiento histórico específico; constituye una interpelación radical a las formas dominantes de producción de conocimiento dentro de la academia mercantilizada. Al fundir su rigor intelectual como profesor-investigador con una profunda sensibilidad forjada en sus propias experiencias de clase, el autor logra dar voz a las partículas invisibles de la historia que se oponen a la destrucción planetaria dictada por las lógicas del dinero.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.32399/icsyh.bvbuap.2954-4300.2026.8.15.912",
+     "doi": "10.32399/icsyh.bvbuap.2954-4300.2026.8.15.912",
+     "paginas": "375-383",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.32399/icsyh.bvbuap.2954-4300.2026.8.15.935",
+     "titulo": "Marxismo Abierto y la crítica del capitalismo - Una entrevista de Sun Liang a John Holloway",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Liang Sun",
+       "orcid": null
+      },
+      {
+       "nombre": "Franco J. Quiroga",
+       "orcid": "https://orcid.org/0000-0002-3938-8132"
+      },
+      {
+       "nombre": "Florencia Vaca",
+       "orcid": null
+      }
+     ],
+     "resumen": "La presente entrevista, realizada por Sun Liang, indaga los fundamentos de la crítica del capitalismo propuesta por John Holloway y el Marxismo Abierto. Holloway reconstruye su acercamiento al marxismo a partir de la comprensión de la forma-Estado, la forma-dinero y la forma-valor como modos de existencia que niegan su constitución social antagónica. Según Holloway, la teoría del valor de Marx no es una teoría de la dominación, sino de su crisis: la expresión de un nosotros que se niega a subordinarse a las leyes objetivas del proceso de valorización. Frente a las interpretaciones centradas en las determinaciones objetivas del desarrollo capitalista, enfatiza la dimensión de la lucha de clases y la dependencia del capital respecto del trabajo humano. Asimismo, profundiza en conceptos centrales de su pensamiento, como el grito, las grietas y la esperanza, entendidos como expresiones del rechazo al orden capitalista y posibilidades de construir relaciones sociales alternativas. A su vez, cuestiona las estrategias revolucionarias orientadas a la toma del poder estatal y propone articular experiencias de organización autónoma que anticipen formas de convivencia no subordinadas a la valorización del capital. Finalmente, examina la fragilidad estructural del capitalismo y plantea la necesidad de resistencias colectivas capaces de abrir horizontes emancipatorios, incluso poéticos.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.32399/icsyh.bvbuap.2954-4300.2026.8.15.935",
+     "doi": "10.32399/icsyh.bvbuap.2954-4300.2026.8.15.935",
+     "paginas": "385-396",
+     "fuente": "Crossref"
+    },
+    {
      "id": "10.32399/icsyh.bvbuap.2954-4300.2026.7.14.891",
      "titulo": "“Para escribir El Capital de nuevo, hay que volver a leer El Capital”. Entrevista con Paul North y Paul Reitter sobre la nueva traducción de Das Kapital al inglés",
      "idioma_titulo": "es",
      "autores": [
       {
-       "nombre": "Pablo Jiménez Cea",
-       "orcid": null
+       "nombre": "Pablo Ignacio Jiménez Cea",
+       "orcid": "https://orcid.org/0000-0002-6977-9134"
       },
       {
        "nombre": "Alfonso Galileo García Vela",
@@ -419,7 +955,7 @@
      "idioma_titulo": null,
      "autores": [
       {
-       "nombre": "Christian Antonio Alejandro Reyes",
+       "nombre": "Christian Antonio Alejandro Reyes Hidalgo",
        "orcid": null
       }
      ],
@@ -496,7 +1032,7 @@
      "idioma_titulo": "es",
      "autores": [
       {
-       "nombre": "Rodrigo F. Pascual",
+       "nombre": "Rodrigo Federico Pascual",
        "orcid": "https://orcid.org/0000-0002-3938-8132"
       },
       {
@@ -508,7 +1044,7 @@
        "orcid": "https://orcid.org/0000-0002-9614-5129"
       }
      ],
-     "resumen": "Al pensar la propuesta de este dossier sabíamos que nos enfrentábamos a un gran desafío: la obra de Simon Clarke es muy poco conocida en la región latinoamericana, incluso entre los círculos marxistas. A pesar de que su obra recorrió una diversidad de campos y fuera ampliamente reconocida en Europa, sus trabajos fueron excepcionalmente difundidos en nuestro continente –salvo en los Estados Unidos. Quizás esto se deba a que sólo un reducido número de textos suyos fueron traducidos al castellano, y casi ninguno al portugués. De allí que, el título del dossier, antes que una afirmación, debiera ser entendido como una provocación y una pregunta: ¡¿Simon Clake en América Latina?!",
+     "resumen": "Al pensar la propuesta de este dossier sabíamos que nos enfrentábamos a un gran desafío: la obra de Simon Clarke es muy poco conocida en la región latinoamericana, incluso entre los círculos marxistas. A pesar de que su obra recorrió una diversidad de campos y fuera ampliamente reconocida en Europa, sus trabajos fueron excepcionalmente difundidos en nuestro continente –salvo en los Estados Unidos. Quizás esto se deba a que sólo un reducido número de textos suyos fueron traducidos al castellano, y casi ninguno al portugués. De allí que, el título del dossier, antes que una afirmación, debiera ser entendido como una provocación y una pregunta: ¡¿Simon Clarke en América Latina?!",
      "idioma_resumen": "es",
      "licencia": {
       "nombre": "CC BY-NC-SA 4.0",
@@ -530,7 +1066,7 @@
       },
       {
        "nombre": "Mariana Giaretto",
-       "orcid": null
+       "orcid": "https://orcid.org/0009-0000-2632-8117"
       },
       {
        "nombre": "Bárbara Leite Pereira",
@@ -581,7 +1117,7 @@
      "autores": [
       {
        "nombre": "Werner Bonefeld",
-       "orcid": null
+       "orcid": "https://orcid.org/0000-0001-6709-5313"
       }
      ],
      "resumen": "El propósito de este trabajo es fundamentar la crítica de Pashukanis al derecho proletario. Se estructura en dos secciones. Primero, se expone su interpretación de la forma jurídica y la aparición del individuo como sujeto de derecho o personalidad jurídica. A continuación, se explora el argumento de Marx sobre la conexión entre la compraventa de fuerza de trabajo en el “Edén de los derechos innatos del hombre” y la explotación. La conclusión retorna a su crítica del derecho proletario. En lugar de la igualdad abstracta ante la ley, la sociedad sin clases se fundamenta en la igualdad de las necesidades humanas individuales.",
@@ -692,7 +1228,7 @@
      "idioma_titulo": "es",
      "autores": [
       {
-       "nombre": "Rodrigo F. Pascual",
+       "nombre": "Rodrigo Federico Pascual",
        "orcid": "https://orcid.org/0000-0002-3938-8132"
       }
      ],
@@ -714,7 +1250,7 @@
      "autores": [
       {
        "nombre": "Napoleón Conde Gaxiola",
-       "orcid": null
+       "orcid": "https://orcid.org/0000-0002-8471-2042"
       }
      ],
      "resumen": "A más de una centuria de haber publicado el libro Teoría general del derecho y el marxismo, del jurista y militante soviético, Evgeny Pashukanis, nos percatamos de la enorme vigencia de su pensamiento social y político, indispensable para comprender el derecho en el momento presente. Por lo cual pretendemos elaborar algunos comentarios sobre sus ideas fundamentales tales como teoría general del derecho, método de la crítica de la economía política, materialismo histórico, derecho y moral y la forma jurídica. Se presentan algunos puntos de vista sobre el mencionado horizonte conceptual, con el propósito de aproximarnos a su marco de ideas, sin duda alguna indispensables y puntuales en el momento de la crisis epistemológica y política en la que se encuentra inserto el derecho contemporáneo. Es una síntesis apretada y sucinta de su campo categorial, que de alguna u otra forma se ha abordado y se abordará en el corpus cotidiano de las prácticas jurídicas y, de manera cardinal en las prácticas y luchas de los movimientos de la clase trabajadora en la actual coyuntura. El trabajo es, pues, una aproximación desde el punto de vista del materialismo histórico y del método de la crítica de la economía política de algunas temáticas y ejes conceptuales desde la óptica de un estudio del derecho desde una perspectiva mínimamente crítica.",
@@ -765,7 +1301,7 @@
      "autores": [
       {
        "nombre": "Marcus Orione",
-       "orcid": null
+       "orcid": "https://orcid.org/0000-0001-8470-5224"
       }
      ],
      "resumen": "Este artículo aborda la universalización de la razón, a partir de algunos de los principales pensadores burgueses, como elemento indisociable de la universalización del sujeto de derecho. Partiendo de esta premisa, el objetivo principal es verificar la posibilidad de extender la crítica de Pashukanis a Hans Kelsen al pospositivismo de Robert Alexy, que contiene uno de los instrumentos más importantes para la aplicación judicial de los derechos humanos. Se realiza un análisis basado en elementos típicos del positivismo en general y, posteriormente, del positivismo jurídico. El proceso de empobrecimiento de la razón se verifica en los diversos enfoques metodológicos supuestamente positivistas. Este proceso se considera cuidadosamente para comprender que la lógica predominante de los derechos humanos dialoga con dichos marcos. Incluso el análisis pospositivista, basado en una de las corrientes más significativas en la actualidad, derivada de las enseñanzas de Robert Alexy, no sería suficiente para enriquecer el camino de la razón. Por lo tanto, la contribución de Pashukanis a Hans Kelsen puede, con cierto refinamiento, aplicarse también a la lógica actual de los derechos humanos.",
@@ -838,7 +1374,7 @@
      "autores": [
       {
        "nombre": "Regiane de Moura Macedo",
-       "orcid": null
+       "orcid": "https://orcid.org/0009-0006-2254-3796"
       },
       {
        "nombre": "Deise Lilian Lima Martins",
@@ -867,11 +1403,11 @@
        "orcid": null
       },
       {
-       "nombre": "Rodrigo F. Pascual",
+       "nombre": "Rodrigo Federico Pascual",
        "orcid": "https://orcid.org/0000-0002-3938-8132"
       },
       {
-       "nombre": "Franco J. Quiroga",
+       "nombre": "Franco Julian Quiroga",
        "orcid": "https://orcid.org/0000-0003-2601-434X"
       }
      ],
@@ -940,15 +1476,15 @@
      "autores": [
       {
        "nombre": "Iván Horowicz",
-       "orcid": null
+       "orcid": "https://orcid.org/0009-0005-8422-3387"
       },
       {
-       "nombre": "Mateo Rodriguez Cocco",
-       "orcid": null
+       "nombre": "Mateo Rodríguez Cocco",
+       "orcid": "https://orcid.org/0009-0002-4591-8635"
       },
       {
        "nombre": "Federico Manzone",
-       "orcid": null
+       "orcid": "https://orcid.org/0009-0005-6174-5000"
       }
      ],
      "resumen": "Este artículo propone un abordaje a los interrogantes abiertos por el gobierno de Milei sobre el futuro de la democracia en Argentina. Proponemos que el análisis del régimen político debe remitirse al estudio forma Estado en tanto modo de existencia de una relación de clase, para proceder desde ese nivel al análisis concreto de la forma de Estado en nuestro país. Para la definición de los conceptos de forma Estado y forma jurídica rescatamos los aportes de la obra de Evgeny Pashukanis. Luego reconstruimos la forma de Estado heredada por el gobierno de Milei, en base a los trabajos de Alberto Bonnet y Adrian Piva. Sobre esa base, realizamos un análisis empírico de los cambios en las relaciones entre los poderes del Estado, para contrastar hasta qué punto la forma de Estado y el régimen político indican un proceso de ruptura con los marcos democráticos. Pasamos revista de los cambios observados en la forma de Estado y sostenemos que los mismos van en el sentido de una “autoritización” del régimen democrático al interior del Estado derecho.",
@@ -1016,7 +1552,7 @@
      "idioma_titulo": "es",
      "autores": [
       {
-       "nombre": "Pedro José Vierya Bahena",
+       "nombre": "Pedro José Vieyra Bahena",
        "orcid": "https://orcid.org/0000-0003-1246-2854"
       }
      ],
@@ -1033,12 +1569,12 @@
     },
     {
      "id": "10.32399/icsyh.bvbuap.2954-4300.2025.7.13.803",
-     "titulo": "participaciones políticas en el clientelismo político: el caso de Cuautitlán 2018-2021",
+     "titulo": "Participaciones políticas en el clientelismo político: el caso de Cuautitlán 2018-2021",
      "idioma_titulo": "es",
      "autores": [
       {
        "nombre": "Manuel Alejandro Ramos López",
-       "orcid": null
+       "orcid": "https://orcid.org/0000-0001-6941-1519"
       }
      ],
      "resumen": "El presente tiene como objetivo describir el clientelismo político como proveedor de participaciones convencionales y no convencionales en Cuautitlán Estado de México durante el periodo 2018-2021, desde un enfoque cualitativo. Dicho municipio se caracteriza por ser de los punteros a nivel estatal en cuanto a indicadores socioeconómicos y por la alternancia partidaria en su estructura gubernamental. Aun así, es un municipio con arraigo clientelar, el cual se puede delimitar como una hibridación entre un clientelismo vertical y horizontal. Para el análisis, se parte de la teoría general de racionalización weberiana, quien establece que las instituciones estatales se van especializando, aunque de igual forma se pueden encontrar estructuras patrimonialistas propias de asociaciones tradicionales. El clientelismo político se tratará como una institución que se ha racionalizado y, a la vez, ha mantenido arraigos tradicionales en su interior. Una forma de observar dicha dualidad es con la participación de los ciudadanos mediante vías convencionales (universales), así como no convencionales (particulares). Para esto, se realizaron 15 entrevistas semiestructuradas a ciudadanos y funcionarios de distintos partidos políticos del municipio, de esa manera, se contrastaron los tipos ideales planteados y se hizo una tipología a la relación entre clientelismo y participaciones políticas del contexto trabajado.",
@@ -1085,7 +1621,7 @@
      "autores": [
       {
        "nombre": "Cristina Cucurí Miñarcaja",
-       "orcid": null
+       "orcid": "https://orcid.org/0000-0003-1914-842X"
       }
      ],
      "resumen": "En este artículo analizo cómo las acciones de las mujeres indígenas organizadas han contribuido a la construcción de la jurisdicción indígena y a la promoción de una vida digna dentro de los territorios de los pueblos indígenas. Parto de una reflexión sobre el contexto en el que se desarrolló este proceso. Luego, examino el proceso organizativo de la Red Provincial de Organizaciones Mujeres Kichwas de Chimborazo (REDMUJCH) y, finalmente, destaco los aportes fundamentales realizados por estas mujeres. A través de la organización de mujeres desde su esencia comunitaria, lograron que la Constitución del Ecuador de 2008 reconozca, con rango constitucional, la jurisdicción indígena con participación y decisión de las mujeres. No obstante, las mujeres indígenas demandan una transformación profunda los sistemas de justicia propia en la práctica para garantizar la igualdad y erradicar la violencia de género. Proponen un enfoque que no solo reforme las estructuras existentes, sino que asegure su participación activa y decisoria en los procesos de justicia comunitaria. La exclusión de las mujeres en estos espacios perpetúa relaciones patriarcales, machistas, al tiempo que debilita la legitimidad y coherencia de los sistemas de justicia indígena.",
@@ -1107,10 +1643,10 @@
      "autores": [
       {
        "nombre": "Carlos Figueroa Ibarra",
-       "orcid": null
+       "orcid": "https://orcid.org/0000-0001-8165-0846"
       }
      ],
-     "resumen": "La entrevista y conversación entre el señor presidente de Guatemala Dr. Bernardo Arévalo y Carlos Figueroa Ibarra fue la culminación del Colo- quio Internacional “Ciencias Sociales y Violencias en Centroamérica entre asedios y resistencias” organizado por el Grupo de Trabajo “Violencias en Centroamérica” del Consejo Latinoamericano de Ciencias Sociales (clac- so) realizado en la ciudad de Guatemala entre el 4 y 6 de diciembre de 2024. El encuentro con el presidente Bernardo Arévalo que llevó por título “La segunda primavera a 70 años del derrocamiento del presidente Jacobo Arbenz” se realizó en el Salón de las Banderas del Palacio Nacional de la Cultura el viernes 6 de diciembre de 2024. El autor agradece al Mtro. Ma- rio Islas, Doctorando del Posgrado de Sociología del Instituto de Ciencias Sociales y Humanidades “Alfonso Vélez Pliego” (icsyh-aVP) de la buap, el laborioso trabajo de la transcripción de la entrevista.",
+     "resumen": "La entrevista y conversación entre el señor presidente de Guatemala Dr. Bernardo Arévalo y Carlos Figueroa Ibarra fue la culminación del Coloquio Internacional “Ciencias Sociales y Violencias en Centroamérica entre asedios y resistencias”, organizado por el Grupo de Trabajo “Violencias en Centroamérica” del Consejo Latinoamericano de Ciencias Sociales (CLACSO) y realizado en la ciudad de Guatemala entre el 4 y 6 de diciembre de 2024. El encuentro con el presidente Bernardo Arévalo, que llevó por título “La segunda primavera a 70 años del derrocamiento del presidente Jacobo Arbenz”, se realizó en el Salón de las Banderas del Palacio Nacional de la Cultura el viernes 6 de diciembre de 2024. El autor agradece al Mtro. Mario Islas, doctorando del Posgrado de Sociología del Instituto de Ciencias Sociales y Humanidades “Alfonso Vélez Pliego” (ICSyH-AVP) de la BUAP, el laborioso trabajo de transcripción de la entrevista.",
      "idioma_resumen": "es",
      "licencia": {
       "nombre": "CC BY-NC-SA 4.0",
@@ -1128,7 +1664,7 @@
      "autores": [
       {
        "nombre": "Ari Zafra Romero",
-       "orcid": null
+       "orcid": "https://orcid.org/0009-0003-9665-6249"
       },
       {
        "nombre": "Julieta Martínez Ganem",
@@ -1153,8 +1689,8 @@
      "idioma_titulo": "es",
      "autores": [
       {
-       "nombre": "Pedro F. Hernández Ornelas",
-       "orcid": null
+       "nombre": "Pedro Félix Hernández Ornelas",
+       "orcid": "https://orcid.org/0000-0002-0440-4729"
       }
      ],
      "resumen": "La conjunción de dos anécdotas (Claude Bernard y Hegel) célebres en la historia de las ciencias sociales coincide en descubrir la capacidad de la razón para rastrear la trascendencia de la dignidad humana por su propio esfuerzo. Esto echa en descrédito el pensamiento materialista que dominó la época de la Ilustración y el nacimiento de la ciencia, afectando el interés central de la teoría social por desentrañar la complejidad de la acción social, y especialmente la primacía del conocimiento del sentido de las acciones humanas, que constituyen la misma vida del ser humano en su existencia grupal o comunitaria. Este ensayo se adhiere al pensamiento weberiano sobre el lugar prioritario que busca el sentido de la acción social. Sobre esa base, tras exponer la importancia del presente anecdótico sobre la capacidad del ser humano para vislumbrar su trascendental dignidad, propone iluminar la singularidad de este evento que, hasta hoy, sabemos que pertenece exclusivamente a los seres dotados de inteligencia y percepción intelectual de los fenómenos del mundo de la moral y del espíritu.",
@@ -1204,7 +1740,7 @@
      "autores": [
       {
        "nombre": "Carlos Tornel",
-       "orcid": null
+       "orcid": "https://orcid.org/0000-0001-6338-066X"
       },
       {
        "nombre": "Alberto Acosta",
@@ -1212,7 +1748,7 @@
       },
       {
        "nombre": "Gabriela Cabaña",
-       "orcid": null
+       "orcid": "https://orcid.org/0000-0002-1661-6892"
       },
       {
        "nombre": "Sofía Ávila",
@@ -1220,7 +1756,7 @@
       },
       {
        "nombre": "Miriam Lang",
-       "orcid": null
+       "orcid": "https://orcid.org/0000-0003-1165-6788"
       },
       {
        "nombre": "María Paz Aedo",
@@ -1253,11 +1789,11 @@
      "idioma_titulo": "es",
      "autores": [
       {
-       "nombre": "Franco J. Quiroga",
+       "nombre": "Franco Julian Quiroga",
        "orcid": "https://orcid.org/0000-0003-2601-434X"
       }
      ],
-     "resumen": "Jordi Maiso nos presenta su libro Desde la vida dañada. La teoría crítica de Theodor W. Adorno (2022), su primera obra publicada en la editorial Siglo XXI (España). Autor de Elementos para la rea- propiación de la Teoría Crítica de Theodor W. Adorno (2010), entre otros, y director de Constelaciones. Revista de Teoría Crítica, en esta ocasión el autor nos propone un recorrido sobre la teoría crítica del filósofo y sociólogo alemán Theodor W. Adorno, centrada, principalmente, en el concepto de vida dañada. A lo largo del libro, esta idea de vida dañada aparece como el eje articulador del pensamiento del filósofo, el cual permite distinguir el punto de encuentro entre un sistema social implacable y las biografías individuales de las personas.",
+     "resumen": "Jordi Maiso nos presenta su libro Desde la vida dañada. La teoría crítica de Theodor W. Adorno (2022), su primera obra publicada en la editorial Siglo XXI (España). Autor de Elementos para la reapropiación de la Teoría Crítica de Theodor W. Adorno (2010), entre otros, y director de Constelaciones. Revista de Teoría Crítica, en esta ocasión el autor nos propone un recorrido sobre la teoría crítica del filósofo y sociólogo alemán Theodor W. Adorno, centrada, principalmente, en el concepto de vida dañada. A lo largo del libro, esta idea de vida dañada aparece como el eje articulador del pensamiento del filósofo, el cual permite distinguir el punto de encuentro entre un sistema social implacable y las biografías individuales de las personas.",
      "idioma_resumen": "es",
      "licencia": {
       "nombre": "CC BY-NC-SA 4.0",
@@ -1270,7 +1806,7 @@
     },
     {
      "id": "10.32399/icsyh.bvbuap.2954-4300.2025.7.13.813",
-     "titulo": "(Re) Leer a Pashukanis hoy. A propósito de “Marxismo y Derecho. A un siglo de la Teoría general de Pashukanis” (Mariana Giaretto y Alberto Bonnet, Eds., Buenos Aires, Prometeo, 2024)",
+     "titulo": "(Re)Leer a Pashukanis hoy. A propósito de “Marxismo y Derecho. A un siglo de la Teoría general de Pashukanis” (Mariana Giaretto y Alberto Bonnet, Eds., Buenos Aires, Prometeo, 2024)",
      "idioma_titulo": "es",
      "autores": [
       {
@@ -1292,15 +1828,15 @@
     },
     {
      "id": "10.32399/icsyh.bvbuap.2954-4300.2025.7.13.859",
-     "titulo": "García Vela, A .y Bonnet, A. (Coords.) (2023). Revolución, crítica y emancipación. Debates sobre el pensamiento político de John Holloway. BUAP/Universidad Nacional de Quilmes",
+     "titulo": "García Vela, A. y Bonnet, A. (coords.) (2023). Revolución, crítica y emancipación. Debates sobre el pensamiento político de John Holloway. BUAP/Universidad Nacional de Quilmes",
      "idioma_titulo": "es",
      "autores": [
       {
        "nombre": "María de Jesús Míaz Zúñiga",
-       "orcid": null
+       "orcid": "https://orcid.org/0009-0003-2778-081X"
       }
      ],
-     "resumen": "La obra coordinada por Alfonso García Vela y Alberto Bonnet y publicada en su primera edición en 2023 por la Benemérita Universidad Autónoma de Puebla, se construye como un homenaje al profesor John Patrick Holloway por su septuagésimo quinto cumpleaños. Emerge, además, como una contribución significativa al pensamiento crítico contemporáneo, que discute profunda y críticamente el pensamiento teórico y político de Holloway. El volumen es una traducción de la edición en inglés “The Political Tought of John Holloway. Struggle, Critique, Emancipation” (Palgrave Macmillan, 2023).",
+     "resumen": "La obra coordinada por Alfonso García Vela y Alberto Bonnet y publicada en su primera edición en 2023 por la Benemérita Universidad Autónoma de Puebla, se construye como un homenaje al profesor John Patrick Holloway por su septuagésimo quinto cumpleaños. Emerge, además, como una contribución significativa al pensamiento crítico contemporáneo, que discute profunda y críticamente el pensamiento teórico y político de Holloway. El volumen es una traducción de la edición en inglés “The Political Thought of John Holloway. Struggle, Critique, Emancipation” (Palgrave Macmillan, 2023).",
      "idioma_resumen": "es",
      "licencia": {
       "nombre": "CC BY-NC-SA 4.0",
@@ -1319,7 +1855,7 @@
      "autores": [
       {
        "nombre": "Eduardo Crivelli Minutti",
-       "orcid": null
+       "orcid": "https://orcid.org/0000-0002-7427-1394"
       }
      ],
      "resumen": "La reseña analiza la obra Los problemas del mercado de trabajo en México y su impacto en la población en un contexto de pandemia por COVID-19 (Absalón, Ayance y Martínez, 2023), publicada por la BUAP. A través de un enfoque multidisciplinario el libro examina las transformaciones y desafíos del mercado laboral mexicano durante la crisis sanitaria, abordando el desempleo, la precarización y las desigualdades estructurales, subrayando la necesidad de políticas públicas para un ambiente laboral más justo y equitativo.",
@@ -1336,12 +1872,12 @@
     },
     {
      "id": "10.32399/icsyh.bvbuap.2954-4300.2025.7.13.807",
-     "titulo": "Escárzaga, F .N.; García, Y.; Sagal, Y .; Sánchez, M. Y carrillo, J.J.(coords.) (2020). Reflexiones sobre las violencias estatales y sociales en México y en América latina. México: UAM",
+     "titulo": "Escárzaga, F. N.; García, Y.; Sagal, Y.; Sánchez, M. y Carrillo, J. J. (coords.) (2020). Reflexiones sobre las violencias estatales y sociales en México y en América Latina. México: UAM",
      "idioma_titulo": "es",
      "autores": [
       {
        "nombre": "Yolanda Mexicalxóchitl García Beltrán",
-       "orcid": null
+       "orcid": "https://orcid.org/0000-0001-9258-0783"
       }
      ],
      "resumen": "Reseña de: Escárzaga, Fabiola Nicté, Yolanda García, Yakir Sagal, Margarita Sánchez y Juan José Carrillo (coords.) (2020). Reflexiones sobre las violencias estatales y sociales en México y en América Latina. México: Universidad Autónoma Metropolitana.",
@@ -1358,7 +1894,7 @@
     },
     {
      "id": "10.32399/icsyh.bvbuap.2954-4300.2025.7.13.824",
-     "titulo": "Herrera Mejía, l. Y Figueroa Ibarra, C. (coords.) (2025). Yum Kimil camina entre nosotros. Sociedad, Estado y Violencia en México. Universidad del Valle de Puebla",
+     "titulo": "Herrera Mejía, L. y Figueroa Ibarra, C. (coords.) (2025). Yum Kimil camina entre nosotros. Sociedad, Estado y violencia en México. Universidad del Valle de Puebla",
      "idioma_titulo": "es",
      "autores": [
       {

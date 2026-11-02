@@ -1,0 +1,731 @@
+{
+ "version": 1,
+ "generado": "2026-11-02T05:12:34+00:00",
+ "es_prueba": false,
+ "revista": {
+  "id": "1647-3337",
+  "titulo": "Sociologia On Line",
+  "idioma_titulo": null,
+  "titulo_alternativo": null,
+  "idioma_titulo_alternativo": null,
+  "idiomas": [
+   "pt",
+   "en",
+   "fr",
+   "es"
+  ],
+  "issn_impreso": null,
+  "issn_electronico": "1647-3337",
+  "editorial": "Associação Portuguesa de Sociologia",
+  "pais": "PT",
+  "materias": [
+   "Sociology (General)"
+  ],
+  "palabras_clave": [
+   "sociology",
+   "social sciences"
+  ],
+  "licencias": [
+   {
+    "nombre": "CC BY 4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+   }
+  ],
+  "url": "https://revista.aps.pt/en/home/",
+  "url_doaj": "https://doaj.org/toc/1647-3337",
+  "descripcion": null,
+  "fuente_ficha": "DOAJ",
+  "archivo": "revistas/1647-3337.json",
+  "ultimo_numero": "núm. 41 (2026)",
+  "fuente_numeros": "Crossref"
+ },
+ "numeros": [
+  {
+   "id": "n41-2026",
+   "volumen": null,
+   "numero": "41",
+   "anio": 2026,
+   "fecha": "2026-10-12",
+   "etiqueta": "núm. 41 (2026)",
+   "fuente": "Crossref",
+   "articulos": [
+    {
+     "id": "10.30553/sociologiaonline.2026.41.6",
+     "titulo": "Clicking on phishing hyperlinks: cues and reasons driving decisions",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Liliana Ribeiro",
+       "orcid": "https://orcid.org/0000-0001-8773-9868"
+      },
+      {
+       "nombre": "Carla Sofia Cardoso",
+       "orcid": "https://orcid.org/0000-0001-6375-3761"
+      },
+      {
+       "nombre": "Inês Sousa Guedes",
+       "orcid": "https://orcid.org/0000-0002-4804-9394"
+      }
+     ],
+     "resumen": "Phishing remains a prevalent form of social engineering that profits from users’ trust to obtain sensitive personal data. This study employed an online survey in which participants were presented with both phishing and legitimate e-mails, with the aim of exploring the specific cues and decision-making processes involved in distinguish between the two. All participants evaluated four e-mails — two phishing and two legitimate — selected to ensure content comparability while reducing cognitive load. Participants indicated whether they would open hyperlinks and explained their reasons. The sample comprised 449 participants, predominantly women (69,6%), with mean age of 29 years. Participants indicated whether they would open the hyperlinks contained in each e-mail and provided reasons for their decision. Decisions to open or avoid hyperlinks were most commonly based on visual appearance, including the subject line and layout. The most frequently indicated phishing cues were misspellings, poor grammar, and suspicious sender details. Familiarity with the sender and the domain credibility were also important. The findings may support the development of more effective anti-phishing measures, particularly by enhancing automatic phishing detection and informing the design of tailored awareness programmes, while future research should further investigate users’ attention patterns through multimethod approaches (e.g., eye-tracking and interviews).",
+     "idioma_resumen": "en",
+     "licencia": null,
+     "url": "https://doi.org/10.30553/sociologiaonline.2026.41.6",
+     "doi": "10.30553/sociologiaonline.2026.41.6",
+     "paginas": "1-23",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.30553/sociologiaonline.2026.41.3",
+     "titulo": "Igualdade de género: perceções da comunidade académica do Instituto Politécnico de Beja",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Lisa Ferro",
+       "orcid": "https://orcid.org/0000-0002-2963-8222"
+      },
+      {
+       "nombre": "Sandra Saúde",
+       "orcid": "https://orcid.org/0000-0003-0935-1133"
+      }
+     ],
+     "resumen": "Às instituições de ensino superior é atribuído um papel fundamental na construção de sociedades mais igualitárias. Quando se assumem como neutras em termos de género tendem a organizar-se a partir de uma perspetiva masculina. Para conhecer as perceções da comunidade académica do Instituto Politécnico de Beja sobre os significados de igualdade de género, as assimetrias existentes e propostas de ação foi realizado um estudo exploratório misto, de perfil descritivo. Não podendo ser generalizados, os resultados demonstram que estudantes, docentes e não docentes não dominam conceitos basilares, apresentam dificuldade na identificação das dimensões da desigualdade de género e evidenciam a necessidade de ser reforçada a formação neste domínio.",
+     "idioma_resumen": "pt",
+     "licencia": null,
+     "url": "https://doi.org/10.30553/sociologiaonline.2026.41.3",
+     "doi": "10.30553/sociologiaonline.2026.41.3",
+     "paginas": "1-33",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.30553/sociologiaonline.2026.41.8",
+     "titulo": "Inteligência artificial e a violência sexual baseada em imagens: a manipulação não consentida de imagens sexuais",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Ana Júlia Torres",
+       "orcid": "https://orcid.org/0009-0005-8012-8892"
+      },
+      {
+       "nombre": "Samuel Moreira",
+       "orcid": "https://orcid.org/0000-0002-6873-492X"
+      }
+     ],
+     "resumen": "O acesso generalizado à Internet e a dispositivos portáteis com câmara têm potenciado significativamente a perpetração de Violência Sexual Baseada em Imagens [VSBI]. Este termo “guarda-chuva” abrange, entre outros, a criação de imagens de nudez total ou parcial ou sexualmente explícitas, de outra pessoa, sem o seu consentimento, amplificada pela acessibilidade da Inteligência Artificial [IA], vulgarmente conhecidas como deepfakes. Este estudo teve como objetivos analisar a vitimação por manipulação não consentida de imagem sexual e explorar as perceções públicas sobre o fenómeno, através da utilização de uma vinheta (cenário hipotético). Foi adotada uma metodologia quantitativa, com aplicação online de um questionário a 210 adultos. Os resultados demonstraram que 1,9 % da amostra reportou ter sido alvo de manipulação não consentida de imagens para conversão em conteúdo sexual ou de nudez. Relativamente ao cenário que descrevia a criação de imagem sexual sintética com auxílio da IA, a maioria dos participantes considerou esta conduta como extremamente grave e concordou totalmente que a mesma constituísse um crime. Verificaram-se ainda diferenças significativas nas perceções sobre o fenómeno descrito em função de variáveis sociodemográficas: mulheres e indivíduos com ensino superior avaliaram a situação como mais grave, enquanto jovens adultos e pessoas LGBT+ atribuíram menos culpa à vítima. Ademais, mulheres e jovens adultos percecionaram a conduta como mais merecedora de criminalização. Considerando que, no ordenamento jurídico-penal português, a manipulação não autorizada de imagens de adultos parece não ser passível de enquadramento penal adequado, os resultados sugerem a necessidade de criminalizar concretamente esta prática.",
+     "idioma_resumen": "pt",
+     "licencia": null,
+     "url": "https://doi.org/10.30553/sociologiaonline.2026.41.8",
+     "doi": "10.30553/sociologiaonline.2026.41.8",
+     "paginas": "1-26",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.30553/sociologiaonline.2026.41.5",
+     "titulo": "Penalidad postdictatorial. Entre confianza institucional y niveles de represión: la excepción sudamericana",
+     "idioma_titulo": "es",
+     "autores": [
+      {
+       "nombre": "Andrea Procaccini",
+       "orcid": "https://orcid.org/0009-0007-9430-5727"
+      }
+     ],
+     "resumen": "A partir de finales del siglo pasado, gran parte del mundo ha experimentado un aumento considerable en las tasas de encarcelamiento. Desde la recesión económica de 2008, en muchos países occidentales, el fenómeno de la “encarcelación masiva” se ha detenido por varias razones. En el área sudamericana, sin embargo, a pesar del cambio de régimen político hacia uno progresista en varias naciones en algunos momentos, las tasas de encarcelamiento siguen aumentando. La hipótesis de este trabajo es que los países de esta área, habiendo pasado por un proceso de democratización más reciente, representan un ejemplo de penalidad postdictatorial, por lo tanto, sus instituciones políticas han estado más expuestas a los riesgos del populismo penal desde arriba y desde abajo. En este estudio, con el fin de verificar esta hipótesis, se correlacionaron los niveles de confianza interpersonal e institucional de los ciudadanos con los niveles de represión penal, a través de una comparación longitudinal (2000-2024) entre los principales países de América del Sur y algunos países europeos. Los resultados muestran que los niveles de desconfianza interpersonal e institucional siguen siendo elevados en la mayor parte de los países analizados y que, en varios casos, se asocian al aumento de las tasas de encarcelamiento. Aunque estas correlaciones son heterogéneas y no permiten establecer relaciones causales directas, sugieren que la desconfianza constituye una dimensión relevante para comprender las dinámicas punitivas de la región. En este sentido, la persistencia de bajos niveles de confianza puede interpretarse como uno de los rasgos distintivos del sistema penal sudamericano postdictatorial, junto con otros factores relacionados con los procesos de democratización, la construcción del Estado y la economía política del castigo.",
+     "idioma_resumen": "es",
+     "licencia": null,
+     "url": "https://doi.org/10.30553/sociologiaonline.2026.41.5",
+     "doi": "10.30553/sociologiaonline.2026.41.5",
+     "paginas": "1-30",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.30553/sociologiaonline.2026.41.2",
+     "titulo": "Reflexões sobre os campos de ação da Sociologia: o caso do projeto VAX-TRUST",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Fábio Rafael Augusto",
+       "orcid": "https://orcid.org/0000-0002-1957-2477"
+      },
+      {
+       "nombre": "Ana Patrícia Hilário",
+       "orcid": "https://orcid.org/0000-0001-7396-5127"
+      }
+     ],
+     "resumen": "Tendo como pano de fundo o projeto VAX-TRUST, que visou compreender o fenómeno da hesitação vacinal infantil em sete países europeus, pretende-se demonstrar como o saber sociológico pode ser mobilizado em diferentes vertentes com o duplo propósito de gerar conhecimento e produzir mudança social. Ao ter como ponto de partida os contributos teóricos de Burawoy em torno de uma sociologia que produz conhecimento quer reflexivo quer instrumental, este artigo procura ilustrar as múltiplas dimensões do trabalho sociológico através do estudo de caso do projeto VAX-TRUST. No âmbito do projeto, desenvolveu-se uma estratégia de comunicação científica orientada para múltiplos públicos, envolvendo profissionais de saúde, decisores políticos, organizações da sociedade civil e o público em geral. Este esforço traduziu-se na produção de diversos outputs, incluindo relatórios, policy briefs, materiais digitais e ações de divulgação, que facilitaram a apropriação e incorporação dos resultados por diferentes atores. Os contributos do VAX-TRUST evidenciam, assim, que uma sociologia orientada para o impacto não compromete o rigor teórico e metodológico. Pelo contrário, reforça a sua capacidade de intervenção em fenómenos complexos e socialmente relevantes e propõe caminhos para uma prática sociológica mais aberta, acessível e transformadora.",
+     "idioma_resumen": "pt",
+     "licencia": null,
+     "url": "https://doi.org/10.30553/sociologiaonline.2026.41.2",
+     "doi": "10.30553/sociologiaonline.2026.41.2",
+     "paginas": "1-21",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.30553/sociologiaonline.2026.41.9",
+     "titulo": "Reforming independent living in Portugal: cross-sectoral learning through lesson-drawing, translation and institutional bricolage",
+     "idioma_titulo": "en",
+     "autores": [
+      {
+       "nombre": "Pedro Nuno Oliveira",
+       "orcid": "https://orcid.org/0000-0003-2941-1519"
+      }
+     ],
+     "resumen": "This article examines how institutional challenges within the Portuguese Independent Living Support Model [MAVI/SAVI] can be addressed through cross sectoral policy learning. Drawing on the theoretical frameworks of policy transfer, translation and institutional bricolage, the study analyses consolidated practices in three domains: aviation safety protocols, direct payment mechanisms in agricultural and science, technology and innovation policies, and competence recognition systems in vocational training. Using a qualitative and exploratory methodology based on secondary sources, the article identifies transferable principles and assesses their applicability to the Portuguese context. The findings suggest that adapted—not replicated—practices from these sectors could strengthen MAVI/SAVI’s institutional design by enhancing risk prevention mechanisms, introducing flexible and personalised funding instruments, and recognising experiential knowledge as a legitimate source of expertise. Overall, the study highlights the transformative potential of user centred governance, decentralised decision making and competence-based certification in advancing independent living in Portugal.",
+     "idioma_resumen": "en",
+     "licencia": null,
+     "url": "https://doi.org/10.30553/sociologiaonline.2026.41.9",
+     "doi": "10.30553/sociologiaonline.2026.41.9",
+     "paginas": "1-24",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.30553/sociologiaonline.2026.41.7",
+     "titulo": "Segregação de género no mercado de trabalho: uma análise sobre o setor de atuação das mulheres em Angola",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Pedro Seke Martins",
+       "orcid": "https://orcid.org/0009-0008-7130-7516"
+      }
+     ],
+     "resumen": "O artigo pretende analisar a inserção das mulheres angolanas no mercado de trabalho, procurando perceber se a estrutura laboral reproduz formas de segregação em função do sexo. Com base no Inquérito ao Emprego em Angola do 2.º trimestre de 2025, adotou-se uma abordagem quantitativa para examinar a estrutura de inserção laboral de forma a perceber se efetivamente se confirma a segregação, cujos resultados mostram que os homens dominam nos setores técnicos e de decisão, enquanto as mulheres se encontram maioritariamente inseridas no setor da economia do cuidado. Foi possível concluir ainda que a estrutura do mercado é condicionada por um modelo patriarcal que valida o homem como principal provedor e direciona a mulher para funções que reproduzem o papel doméstico na esfera pública, resultando em segregação horizontal. A elevada participação feminina em atividades de baixa renda não decorre de um empreendedorismo autónomo, mas de limitações no acesso ao emprego formal, o que perpetua ciclos de vulnerabilidade económica e contrasta com as diretrizes de igualdade da SADC. Conclui-se que, embora existam mecanismos institucionais de promoção da equidade, o mercado de trabalho angolano continua a segregar por sexo.",
+     "idioma_resumen": "pt",
+     "licencia": null,
+     "url": "https://doi.org/10.30553/sociologiaonline.2026.41.7",
+     "doi": "10.30553/sociologiaonline.2026.41.7",
+     "paginas": "1-15",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.30553/sociologiaonline.2026.41.4",
+     "titulo": "Territorialidade de mulheres no espaço urbano: Análise interseccional da mobilidade urbana",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Lúcia Maria Machado Bógus",
+       "orcid": "https://orcid.org/0000-0002-3431-7298"
+      },
+      {
+       "nombre": "Thais Figueira Marzolla",
+       "orcid": "https://orcid.org/0009-0003-0399-3490"
+      }
+     ],
+     "resumen": "Este artigo analisa a mobilidade urbana a partir de uma perspectiva interseccional que articula desigualdades de gênero,raça e classe. O estudo em como objeto as particularidades do uso cotidiano de transportes coletivos e ruas por mulheres moradoras da periferia da cidade de Santo André, na região metropolitana de São Paulo. O objetivo é analisar como a mobilidade urbana reforça desigualdades históricas e estruturais no espaço urbano sob a perspectiva da Interseccionalidade. A metodologia envolveu revisão bibliográfica e pesquisa de campo, com aplicação de reconhecimento territorial, grupo focal, observação direta e registro fotográfico. Os resultados revelam que os principais eixos de análise — tempo de deslocamento, infraestrutura, acessibilidade, segurança e mobilidade do cuidado — se materializam em experiências marcadas por desgaste físico e emocional, sentimentos de humilhação social, isolamento, medo e perda de tempo de vida. Constatou-se que a mobilidade urbana não se reduz ao direito de ir e vir, mas constitui dimensão estruturante do direito à cidade. A pesquisa conclui que superar tais desigualdades exige políticas públicas inclusivas, planejamento urbano crítico e participação cidadã, de modo a garantir a mobilidade como direito social universal, e não privilégio de poucos.",
+     "idioma_resumen": "pt",
+     "licencia": null,
+     "url": "https://doi.org/10.30553/sociologiaonline.2026.41.4",
+     "doi": "10.30553/sociologiaonline.2026.41.4",
+     "paginas": "1-19",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.30553/sociologiaonline.2026.41.1",
+     "titulo": "“Posso-te pedir algo?” Coisificação masculina e dinâmicas de poder nas relações afectivas juvenis em Maputo",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Raul Mabasso",
+       "orcid": "https://orcid.org/0000-0003-3311-7750"
+      }
+     ],
+     "resumen": "Este artigo analisa a coisificação masculina (entendida como redução a funções instrumentais) nas relações afectivas juvenis em Moçambique, explorando dinâmicas de poder e processos contemporâneos de construção das masculinidades como provedoras, símbolos de status ou agentes de performance sexual, e como negoceiam essas expectativas socioculturais. Optou-se por uma abordagem qualitativa, com recurso a entrevistas como técnica principal. As entrevistas envolveram 33 jovens (com idades entre 18 e 39 anos) de zonas urbanas, periféricas e periurbanas de Maputo, no período entre Outubro e Dezembro de 2024. Os resultados indicam que a masculinidade hegemónica, fortemente modulada por classe social, escolaridade e valores familiares, mantém-se vinculada à capacidade financeira nas comunidades estudadas, gerando ansiedade e desgaste relacional. O estudo problematiza leituras universalizantes das masculinidades africanas, contribuindo para os debates pós-coloniais de género ao enfatizar a interseccionalidade e a historicidade da coisificação masculina. Conclui-se que o fenómeno é relacional e contextual, exigindo políticas públicas que articulem equidade de género e apoio psicossocial à juventude.",
+     "idioma_resumen": "pt",
+     "licencia": null,
+     "url": "https://doi.org/10.30553/sociologiaonline.2026.41.1",
+     "doi": "10.30553/sociologiaonline.2026.41.1",
+     "paginas": "1-24",
+     "fuente": "Crossref"
+    }
+   ]
+  },
+  {
+   "id": "n40-2025",
+   "volumen": null,
+   "numero": "40",
+   "anio": 2025,
+   "fecha": "2025-12-30",
+   "etiqueta": "núm. 40 (2025)",
+   "fuente": "Crossref",
+   "articulos": [
+    {
+     "id": "10.30553/sociologiaonline.2025.40.2",
+     "titulo": "A Sociologia da Educação na formação de professores: contributos para a reflexão a partir da análise de planos de estudo dos cursos de Educação Básica",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Carina Coelho",
+       "orcid": "https://orcid.org/0000-0003-0802-4966"
+      },
+      {
+       "nombre": "Pedro Duarte",
+       "orcid": "https://orcid.org/0000-0002-3048-6959"
+      }
+     ],
+     "resumen": "Neste artigo refletimos sobre as implicações de políticas educativas que crescentemente desvalorizam as ciências sociais e humanas na formação inicial de professores. Para tal desenvolvemos um estudo exploratório onde analisamos alterações recentes ao diploma que estabelece e regula as condições para a habilitação profissional para a docência, e caracterizamos a presença da Sociologia da Educação nos planos de estudo dos cursos de Educação Básica nas instituições de ensino superior público. A análise comparativa entre os Decretos-Lei n.º 43/2007, n.º 79/2014 e n.º 112/2023, evidencia uma valorização da formação em domínios técnicos e o desaparecimento da referência à Sociologia da Educação como domínio de formação fundamental. A análise realizada aos Planos de Estudo (n=20) e a Fichas de Unidade Curricular (n=16), confirma a presença da Sociologia da Educação, ou áreas afins, como unidade curricular obrigatória, quase na totalidade dos cursos, embora com variações significativas no volume de aprendizagem e momento de formação. Nos objetivos de aprendizagem predomina uma abordagem à análise das questões da educação centrada nos processos escolares, nas relações no interior da escola e no papel dos professores. Num momento em que se debate a falta de professores, é fundamental problematizar medidas que comprometam a qualidade da sua formação e conduzam à desprofissionalização da docência. Refletir sobre os contributos da Sociologia da Educação para uma ação educativa socialmente mais compreensiva e libertadora e para um entendimento do educador como profissional investigador e intelectual público, torna-se de relevância acrescida.",
+     "idioma_resumen": "pt",
+     "licencia": null,
+     "url": "https://doi.org/10.30553/sociologiaonline.2025.40.2",
+     "doi": "10.30553/sociologiaonline.2025.40.2",
+     "paginas": "1-25",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.30553/sociologiaonline.2025.40.1",
+     "titulo": "Abrir uma brecha nas políticas públicas padronizadas: notas sobre a intervenção do conhecimento sociológico na inclusão educativa",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Escola Superior de Educação do Instituto Politécnico de Santarém (ESES/IPS) & Centro de Investigação em Qualidade de Vida (CIEQV). Portugal",
+       "orcid": null
+      },
+      {
+       "nombre": "David Paz-Beirante",
+       "orcid": "https://orcid.org/0000-0001-9674-217X"
+      }
+     ],
+     "resumen": "A participação num projeto de formação e produção de manuais de apoio à inclusão escolar, promovido pelo Ministério de Educação, proporcionou uma oportunidade para discutir as configurações práticas que os significados dados à inclusão podem assumir diante de um sistema político estandardizado de intervenção educativa. Este sistema resulta muitas vezes num ambiente escolar padronizado, onde a inclusão de todos os alunos fica circunscrita ao cumprimento de formas convencionais de acreditação, reconhecidas pelas políticas educacionais como padrões comportamentais para as crianças, adolescentes e jovens em idade escolar. Tais padrões procuram assegurar comportamentos individuais e coletivos adequados que versam a garantia da qualidade educativa que se encontra, por sua vez, ajustada a modelos de eficácia e produtividade onde a meritocracia joga um papel determinante. É neste contexto que dirigimos a nossa atenção para algo que este sistema não apreende e negligencia por redução: a liberdade e autodeterminação dos alunos que se encontra, de certa forma, condicionada pela atribuição de um perfil de aluno, que procura fixar a natureza e a extensão dos registos de apreensão e expressividade dos mesmos, quando a sua existência é permeada por valores públicos certificados. Respaldado por registos da experiência adquirida no envolvimento neste projeto, empreendemos aqui uma reflexão assente num paradoxo central: a expansão da inclusão escolar, e os dispositivos implementados para possibilitar a participação de todos os estudantes num coletivo que constitui a vida pública escolar, por vezes e, de certa forma, paradoxalmente, contribuem para empobrecer a sua experiência na escola como indivíduos.",
+     "idioma_resumen": "pt",
+     "licencia": null,
+     "url": "https://doi.org/10.30553/sociologiaonline.2025.40.1",
+     "doi": "10.30553/sociologiaonline.2025.40.1",
+     "paginas": "1-24",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.30553/sociologiaonline.2025.40.10",
+     "titulo": "Conhecimento da/na educação? (des)encontros entre investigação, política e prática",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Susana Batista",
+       "orcid": "https://orcid.org/0000-0003-2545-4538"
+      },
+      {
+       "nombre": "Lia Pappámikail",
+       "orcid": "https://orcid.org/0000-0003-1306-1059"
+      },
+      {
+       "nombre": "Eva Gonçalves",
+       "orcid": "https://orcid.org/0000-0003-4915-4310"
+      }
+     ],
+     "resumen": "O Número Especial da SOCIOLOGIA ON LINE que aqui se apresenta surge na sequência de um Seminário online organizado pela Secção Temática de Sociologia da Educação da Associação Portuguesa de Sociologia (APS) em janeiro de 2024. O evento contou com uma mesa-redonda com vários sociólogos a atuar em contextos educativos e com comentários de profissionais da academia. Posteriormente disponibilizado no Youtube da APS (2024), este evento tem sido mobilizado no ensino sobre as práticas profissionais dos sociólogos e consistiu numa oportunidade de retomar iniciativas anteriores, entre as quais os encontros Sociologia e Intervenção Local (2017) e A Sociologia dentro e fora da Academia (2022), ou o livro sobre Quem são e o que fazem os sociólogos em Portugal (Ramos et al., 2018).",
+     "idioma_resumen": "pt",
+     "licencia": null,
+     "url": "https://doi.org/10.30553/sociologiaonline.2025.40.10",
+     "doi": "10.30553/sociologiaonline.2025.40.10",
+     "paginas": "1-8",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.30553/sociologiaonline.2025.40.7",
+     "titulo": "Educação e planeamento da educação em contexto autárquico",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Manuel Galego",
+       "orcid": "https://orcid.org/0009-0000-9656-6823"
+      }
+     ],
+     "resumen": "Conclui a minha formação em Sociologia, estudando à noite, na Universidade Autónoma de Lisboa, no início dos anos 90 do século passado. Por essa altura, aproveitando o trabalho desenvolvido para a tese final de curso, apresentei, na Câmara Municipal de Cascais a proposta de desenvolvimento de um projeto, nas áreas do ambiente, cidadania e educação não-formal. Num tempo em que se lutava, ainda, contra as consequências do crescimento urbano desordenado, tratava-se de dar aos moradores das áreas urbanas as ferramentas que lhes permitissem a apropriação e a gestão, no respeito pelo ambiente, dos espaços exteriores das suas habitações. Nesta experiência, pude trabalhar em conjunto com técnicos da área do ambiente e da educação, arquitetos paisagistas, agrónomos e professores.",
+     "idioma_resumen": "pt",
+     "licencia": null,
+     "url": "https://doi.org/10.30553/sociologiaonline.2025.40.7",
+     "doi": "10.30553/sociologiaonline.2025.40.7",
+     "paginas": "1-8",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.30553/sociologiaonline.2025.40.6",
+     "titulo": "Educação não formal e contextos locais",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Filomena Maria Ribeiro da Silva Machado",
+       "orcid": "https://orcid.org/0009-0007-0870-8619"
+      }
+     ],
+     "resumen": "A Sociologia foi a escolha para a formação básica universitária em 1986, na Faculdade de Ciências Sociais e Humanas, da Universidade Nova de Lisboa (NOVA FCSH). Terminada a Licenciatura em 1990, tinha a convicção que os conhecimentos e competências então adquiridos seriam úteis ao desenvolvimento da região Alentejo, onde morava e onde permaneço. Não sabendo muito bem como entrar na vida profissional, e por sugestão do Professor Luís Vicente Baptista (na altura meu professor de sociologia urbana aprofundada), enderecei autopropostas de colaboração aos municípios do Alentejo, tendo recebido resposta positiva do município de Viana do Alentejo. No âmbito daquele município, integrei uma estrutura de animação para o desenvolvimento, designada Gabinete de Apoio ao Desenvolvimento Integrado (GADIC) de Viana do Alentejo. A partir deste gabinete desenhou-se o Programa de Formação para o Desenvolvimento de Alcáçovas e criaram-se as bases para o surgimento da Terras Dentro, Associação de Desenvolvimento Integrado.",
+     "idioma_resumen": "pt",
+     "licencia": null,
+     "url": "https://doi.org/10.30553/sociologiaonline.2025.40.6",
+     "doi": "10.30553/sociologiaonline.2025.40.6",
+     "paginas": "1-8",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.30553/sociologiaonline.2025.40.3",
+     "titulo": "Extensão curricularizada: co-construção do conhecimento e a formação cidadã na relação entre universidade e sociedade",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Josivânia Sousa Costa Ribeiro",
+       "orcid": "https://orcid.org/0000-0003-3304-0984"
+      },
+      {
+       "nombre": "Susana Batista",
+       "orcid": "https://orcid.org/0000-0003-2545-4538"
+      }
+     ],
+     "resumen": "A extensão universitária visa promover um estreitamento de laços entre a universidade e a sociedade. Incluída nos currículos brasileiros, a extensão emerge como uma dimensão fundamental para promover a integração entre o ensino e a pesquisa, proporcionando uma abordagem mais holística e prática do processo de ensino-aprendizagem. Ao promover um diálogo contínuo entre o conhecimento académico e as necessidades reais da comunidade, a extensão fortalece a formação integral dos estudantes, preparando-os para atuar de maneira mais eficaz frente às demandas de uma sociedade plural e em constantes transformações. Através de uma reflexão teórica que enquadra o problema em foco e de uma análise das principais linhas de evolução da política da curricularização da extensão no contexto brasileiro, este trabalho busca apresentar a extensão como uma dimensão que favorece a relação de diálogo entre a universidade e a sociedade, e, ainda, sinalizar os possíveis impactos tanto na formação dos estudantes quanto na sociedade. Realça-se o papel fundamental da curricularização da extensão na formação cidadã e na construção de sociedades justas, potenciando a inclusão e valorização de saberes locais. Finaliza-se com uma reflexão sobre a concretização desta expetativa do papel transformador da universidade, através do estreitamento de laços entre a academia e sociedade, face às dificuldades de operacionalização e implementação dessa política nos últimos anos.",
+     "idioma_resumen": "pt",
+     "licencia": null,
+     "url": "https://doi.org/10.30553/sociologiaonline.2025.40.3",
+     "doi": "10.30553/sociologiaonline.2025.40.3",
+     "paginas": "1-16",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.30553/sociologiaonline.2025.40.5",
+     "titulo": "O (não) lugar da Sociologia da Educação na produção científica em torno das políticas e práticas baseadas em evidência",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Susana Batista",
+       "orcid": "https://orcid.org/0000-0003-2545-4538"
+      },
+      {
+       "nombre": "Lia Pappámikail",
+       "orcid": "https://orcid.org/0000-0003-1306-1059"
+      },
+      {
+       "nombre": "Eva Gonçalves",
+       "orcid": "https://orcid.org/0000-0003-4915-4310"
+      }
+     ],
+     "resumen": "A articulação entre o conhecimento científico e a melhoria de práticas e políticas coloca-se com particular premência na educação, sob o movimento da educação baseada em evidências. Não alheio a críticas, esse movimento tem o potencial de reconfigurar o campo investigativo, nos seus objetos, aspetos metodológicos, ou quadros teóricos. Através de uma scoping review da literatura publicada nos últimos dez anos, este artigo procura mapear e analisar criticamente a produção científica sobre práticas e políticas educativas baseadas em evidência, com especial atenção ao contributo da sociologia da educação. O corpus (N=619) é marcado pela diversidade disciplinar, com destaque para o domínio da educação inclusiva e para as revisões da literatura com o objetivo de informar políticas ou práticas. A análise à pluralidade das palavras-chave (n=2465) revelou o predomínio da palavra “evidence” como prova e legitimidade face às outras terminologias, sublinhando o seu uso instrumental, o que também ficou patente pela expressão considerável de abordagens tecnocráticas. Face ao reconhecimento do relativo silêncio da Sociologia neste debate, um recorte do corpus a referências que mobilizam perspetivas críticas (n=180) permitiu-nos identificar três lógicas distintas dos objetivos de investigação: uso da evidência na prática/ política; crítica aos métodos de investigação; e modelos para refletir e avaliar práticas e políticas. A discussão permite-nos perspetivar o lugar que uma agenda de investigação sociológica poderia assumir, promovendo a reflexividade, instigando compromissos, questionando e contextualizando evidências e colocando-as ao serviço de uma educação comprometida com princípios de equidade e justiça social.",
+     "idioma_resumen": "pt",
+     "licencia": null,
+     "url": "https://doi.org/10.30553/sociologiaonline.2025.40.5",
+     "doi": "10.30553/sociologiaonline.2025.40.5",
+     "paginas": "1-30",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.30553/sociologiaonline.2025.40.4",
+     "titulo": "Professores: produção, mobilização e circulação do conhecimento profissional",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Joana Campos",
+       "orcid": "https://orcid.org/0000-0001-5325-9460"
+      }
+     ],
+     "resumen": "A relevância da função docente nos processos de escolarização das sociedades e melhoria dos sistemas educativos tem sido amplamente assinalada. O presente texto resulta de um processo investigativo que se ocupou dos professores, enquanto grupo profissional. Foram analisados os resultados relativos à atividade docente, em particular no que respeita à produção, mobilização e utilização do conhecimento profissional em contexto profissional. Metodologicamente optou-se pela inquirição destes profissionais, através de um questionário, lançado em 2019/2020. A inquirição dos professores sobre as práticas profissionais desenvolvidas, permitiu identificar posicionamentos diferenciados face ao conhecimento profissional, no que à formação, consulta e autoria de publicações e procura de apoio para resolução de problemas profissionais entre pares e outros, diz respeito. Concluiu-se que o conhecimento profissional é para o grupo profissional dos professores um elemento de diferenciação interna.",
+     "idioma_resumen": "pt",
+     "licencia": null,
+     "url": "https://doi.org/10.30553/sociologiaonline.2025.40.4",
+     "doi": "10.30553/sociologiaonline.2025.40.4",
+     "paginas": "1-29",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.30553/sociologiaonline.2025.40.8",
+     "titulo": "Serviços centrais do Ministério de Educação",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Patrícia Pereira",
+       "orcid": "https://orcid.org/0009-0006-1985-8658"
+      }
+     ],
+     "resumen": "Sou licenciada em Sociologia (Pré-Bolonha) pelo Instituto Superior de Ciências do Trabalho e da Empresa (ISCTE), 2001-2006. A Sociologia foi uma escolha, quando me candidatei ao ensino superior a Sociologia foi a minha primeira opção. Sempre fui curiosa pelo que me rodeia e ávida por respostas, por isso e principalmente nos últimos anos da licenciatura quando a parte prática se tornou uma complementaridade forte, não tive dúvidas que estava no curso certo. Quando terminei a licenciatura fiz o curso de Orientação Pedagógica, Acompanhamento e Avaliação na Função do Tutor da Formação pelo Instituto de Emprego e Formação Profissional (IEFP). No âmbito deste curso, fiz um estágio como tutor de formação num centro de Reconhecimento, Validação e Certificação de Competências (RVCC) onde aliei as ferramentas que a Sociologia me deu e os objetivos do curso em questão e realizei o primeiro estudo de impacto aos primeiros formandos certificados do centro onde estagiei[1]. No entanto, a minha primeiro grande experiência profissional aconteceu de seguida no Instituto Nacional de Estatística (INE) entre 2007-2016, no departamento de Estatísticas Demográficas e Sociais, nomeadamente nas Estatísticas das Condições de Vida. Trabalhei em várias e diferentes operações estatísticas, nomeadamente, o Sistema Europeu de Estatísticas Integradas de Proteção Social em Portugal (SEEPROS), o Inquérito ao Rendimento e às Condições de Vida das Famílias (ICOR) e as estatísticas das Causas de Morte em Portugal. Em todos estes projetos estive envolvida nas suas várias etapas: preparação da recolha de dados, tratamento e validação da informação, análise e divulgação dos resultados. E, no sentido de complementar a minha formação com conhecimentos em estatística que me permitissem otimizar o meu trabalho realizei o Mestrado em Prospeção e Análise de Dados no ISCTE Business School/INDEG, entre 2007 e 2009. No final de 2016, iniciei funções na Direção-Geral de Estatísticas da Educação e Ciência (DGEEC), onde continuo a trabalhar atualmente. Estou integrada na Divisão de Estudos e de Gestão do Acesso a Dados para Investigação (DEGADI) e as minhas principais funções são a elaboração de estudos de impacto e produção de indicadores estatísticos de apoio à tomada de decisão, principalmente ao nível do ensino básico e secundário em Portugal.",
+     "idioma_resumen": "pt",
+     "licencia": null,
+     "url": "https://doi.org/10.30553/sociologiaonline.2025.40.8",
+     "doi": "10.30553/sociologiaonline.2025.40.8",
+     "paginas": "1-4",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.30553/sociologiaonline.2025.40.9",
+     "titulo": "Sociologia e reeducação em contexto prisional: pragmatismo versus compreensão?",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Cláudia Resende",
+       "orcid": "https://orcid.org/0009-0009-6904-7513"
+      }
+     ],
+     "resumen": "Este artigo visa partilhar um testemunho a partir do “lugar profissional” da autora do texto, problematizar sobre as possibilidades do papel da Sociologia na matriz reeducativa prisional e refletir sobre o posicionamento periférico que a Sociologia tem tido na intervenção reabilitativa feita na esfera prisional[1]. Para fazer o enquadramento conceptual desta partilha-reflexividade profissional foi escolhido o artigo: “La dynamique des formes identitaires professionnelles” de Dubar (2000). Nesse texto, o autor convida-nos a pensar as práticas profissionais a partir de um paradigma conceptual dinâmico, que se constrói por si mesmo e que vai muito além de critérios funcionalistas e apriorísticos (como sejam o salário, a categoria profissional, etc.). De acordo com esse autor, as identidades profissionais — sobretudo de quem faz intervenção social — são tão ou melhor compreendidas, se tal puder ser feito num cariz interpretativo. Por outras palavras, as lógicas profissionais não são uma contradição às lógicas de ação pessoais, mas antes o reflexo destas. Nessa medida, este artigo adota a aceção Dubariana que entende a esfera profissional de forma vivencial e reflexiva. Será realçado um trajeto profissional/académico num sector muito específico do sistema criminal de justiça, como seja a esfera prisional. Nessas circunstâncias, este texto tem um “lugar de fala” específico, com o especial intuito de refletir sobre as práticas (re)educativas passíveis de decorrer em ambiente prisional. Face ao cariz testemunhal deste texto, o lugar de dicção coincidirá com o lugar de ação.",
+     "idioma_resumen": "pt",
+     "licencia": null,
+     "url": "https://doi.org/10.30553/sociologiaonline.2025.40.9",
+     "doi": "10.30553/sociologiaonline.2025.40.9",
+     "paginas": "1-15",
+     "fuente": "Crossref"
+    }
+   ]
+  },
+  {
+   "id": "n39-2025",
+   "volumen": null,
+   "numero": "39",
+   "anio": 2025,
+   "fecha": "2025-12-30",
+   "etiqueta": "núm. 39 (2025)",
+   "fuente": "Crossref",
+   "articulos": [
+    {
+     "id": "10.30553/sociologiaonline.2025.39.1",
+     "titulo": "A CUT — Brasil e a relação social com o movimento LGBTQIA+: desafios de revitalização sindical",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Universidade de Coimbra, Faculdade de Economia, Centro de Estudos Sociais. Colégio de São Jerónimo,Largo Dom Dinis, Apartado 3087, 3000-995 Coimbra, Portugal",
+       "orcid": null
+      },
+      {
+       "nombre": "Vítor Santos de Godoi",
+       "orcid": "https://orcid.org/0000-0002-9669-1277"
+      },
+      {
+       "nombre": "Fernanda Forte de Carvalho",
+       "orcid": "https://orcid.org/0000-0002-7662-8502"
+      },
+      {
+       "nombre": "Universidade Estadual de Londrina, Departamento de Ciências Sociais, Programa de Pós-Graduação em Sociologia. Rodovia Celso Garcia Cid, Km 380 – Campus Universitário, CEP 86057-970 Londrina, Paraná, Brasil",
+       "orcid": null
+      }
+     ],
+     "resumen": "O presente artigo apresenta os resultados iniciais de uma pesquisa no tocante à relação social da Central Única dos Trabalhadores (CUT) — Brasil com o movimento LGBTQIA+. O objetivo central é analisar as estratégias formuladas pela CUT em direção a sua revitalização sindical, por meio da sua relação social com o movimento LGBTQIA+, visando o aprimoramento do sindicalismo cidadão e da cidadania sexual brasileira. A partir de uma análise documental foi possível identificar nos Cadernos de Resoluções dos Congressos e Plenárias Nacionais da CUT quais as diretrizes estratégicas relacionadas à temática LGBTQIA+ que foram aprovadas de 1999 a 2022. Em seguida, avalia-se como essas proposições podem articular-se com os objetivos de revitalização sindical considerando as dimensões — filiação, institucional, societal e integração em rede. Os resultados evidenciam que a CUT incorpora estratégias de promoção da cidadania sexual em suas diretrizes, mas a efetiva contribuição dessas ações para a revitalização sindical mostra-se limitada, com desafios mais pronunciados nas dimensões da filiação e da integração em rede.",
+     "idioma_resumen": "pt",
+     "licencia": null,
+     "url": "https://doi.org/10.30553/sociologiaonline.2025.39.1",
+     "doi": "10.30553/sociologiaonline.2025.39.1",
+     "paginas": "1-23",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.30553/sociologiaonline.2025.39.7",
+     "titulo": "A sucessão organizacional nos negócios de carácter familiar da região norte: contributos para a visibilidade das administradoras em funções executivas",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Ana Paula Marques",
+       "orcid": "https://orcid.org/0000-0002-9458-2915"
+      },
+      {
+       "nombre": "Nuno Caetano Nora",
+       "orcid": "https://orcid.org/0000-0001-7759-9419"
+      }
+     ],
+     "resumen": "A sucessão tem sido amplamente debatida no campo da investigação sobre empresas familiares. Contudo, apesar das transformações nos papéis profissionais e familiares das mulheres e do crescimento global do número de mulheres em cargos de CEO, a literatura existente ainda dedica pouca atenção à influência do género na sucessão empresarial. No âmbito do projeto em curso, “Sucessão nas empresas familiares: reprodução ou ‘turning point’ rumo à profissionalização”, analisam-se dados preliminares provenientes de um estudo extensivo sobre 12 131 empresas familiares localizadas no Norte de Portugal. A comparação dos anos 2015, 2019 e 2021 revela um ligeiro aumento da presença feminina em cargos de liderança, contribuindo para mitigar as desigualdades de género num contexto ainda marcado pela segregação. Adicionalmente, observa-se uma possível evolução no perfil de qualificação das mulheres que assumem a posição de CEO, o que poderá indicar mudanças estruturais nos modelos de liderança e ter um impacto significativo nos processos de sucessão empresarial.",
+     "idioma_resumen": "pt",
+     "licencia": null,
+     "url": "https://doi.org/10.30553/sociologiaonline.2025.39.7",
+     "doi": "10.30553/sociologiaonline.2025.39.7",
+     "paginas": "1-26",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.30553/sociologiaonline.2025.39.4",
+     "titulo": "Controle algorítmico e gamificação do trabalho de entregadores e motoristas por aplicativos no contexto brasileiro: consentimento e resistências",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Departamento de Psicologia Social, Instituto de Psicologia, Universidade Federal do Rio de Janeiro",
+       "orcid": null
+      },
+      {
+       "nombre": "Cirlene de Souza Christo",
+       "orcid": "https://orcid.org/0000-0001-8148-9730"
+      },
+      {
+       "nombre": "Muza Clara Chaves Velasques",
+       "orcid": "https://orcid.org/0009-0005-4838-8248"
+      },
+      {
+       "nombre": "Centro de Estudos da Saúde do Trabalhador e Ecologia Humana, Escola Nacional de Saúde Pública Sérgio Arouca, Fundação Oswaldo Cruz",
+       "orcid": null
+      },
+      {
+       "nombre": "Simone Oliveira",
+       "orcid": "https://orcid.org/0000-0002-1477-749X"
+      },
+      {
+       "nombre": "Centro de Estudos da Saúde do Trabalhador e Ecologia Humana, Escola Nacional de Saúde Pública Sérgio Arouca, Fundação Oswaldo Cruz",
+       "orcid": null
+      },
+      {
+       "nombre": "Letícia Pessoa Masson",
+       "orcid": "https://orcid.org/0000-0002-5422-286X"
+      },
+      {
+       "nombre": "Centro de Estudos da Saúde do Trabalhador e Ecologia Humana, Escola Nacional de Saúde Pública Sérgio Arouca, Fundação Oswaldo Cruz.",
+       "orcid": null
+      },
+      {
+       "nombre": "Márcia Teixeira",
+       "orcid": "https://orcid.org/0000-0002-9502-0789"
+      },
+      {
+       "nombre": "Escola Nacional de Saúde Pública Sérgio Arouca, Fundação Oswaldo Cruz.",
+       "orcid": null
+      },
+      {
+       "nombre": "Sarah Amaral",
+       "orcid": "https://orcid.org/0000-0002-5221-6685"
+      },
+      {
+       "nombre": "Centro de Estudos da Saúde do Trabalhador e Ecologia Humana, Escola Nacional de Saúde Pública Sérgio Arouca, Fundação Oswaldo Cruz",
+       "orcid": null
+      }
+     ],
+     "resumen": "O artigo examina o modo de organização e gerenciamento adotado por empresas que controlam trabalhadores sob demanda via plataformas digitais no Brasil. Abordam-se as repercussões do gerenciamento algorítmico gamificado nos processos de subjetivação do trabalho de entregadores e motoristas e formas de resistência destes a este gerenciamento. A Ergologia oferece uma contribuição teórico-metodológica importante ao abordar o trabalho como atividade humana, enfatizando os saberes e valores em jogo. Essa contribuição foi articulada com outras referências teóricas sobre o processo de trabalho. O método envolveu a realização de entrevistas semiestruturadas e Encontros Sobre o Trabalho com trabalhadores de diferentes estados do país. Os resultados indicam que a tendência ao consentimento por parte dos trabalhadores às condições e regras impostas pelas plataformas digitais deve ser compreendido no contexto do mercado de trabalho marcado por altos índices de desemprego, informalidade e precariedade. A vulnerabilidade social, somada aos efeitos individualizantes desse sistema de gerenciamento, leva os sujeitos a priorizar a busca de suportes materiais e simbólicos para garantir sua existência, mesmo que isso implique em abrir mão de seu descanso, lazer, saúde e segurança. Para suportar o sofrimento, constroem estratégias de defesa que podem também configurar-se como movimentos promotores de saúde, via ações de resistência individual e coletiva. Dentre as ações estão a observação e o estudo do funcionamento dos algoritmos, assim como a constituição de uma aliança nacional de trabalhadores que integra diversas entidades e coletivos organizados do país na luta contra a precarização do trabalho.",
+     "idioma_resumen": "pt",
+     "licencia": null,
+     "url": "https://doi.org/10.30553/sociologiaonline.2025.39.4",
+     "doi": "10.30553/sociologiaonline.2025.39.4",
+     "paginas": "1-27",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.30553/sociologiaonline.2025.39.6",
+     "titulo": "Modalidades híbridas e (re)centramento do trabalho: perceções de trabalhadores/as em contexto de pandemia",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Ana Júlia Reis Weijde",
+       "orcid": "https://orcid.org/0009-0006-1153-9900"
+      },
+      {
+       "nombre": "Ana Paula Marques",
+       "orcid": "https://orcid.org/0000-0002-9458-2915"
+      }
+     ],
+     "resumen": "Com o progressivo levamento das restrições decorrentes da pandemia do COVID-19, o regresso ao trabalho permitiu retomar a “normalidade” da vida profissional, familiar e privada do/as trabalhadores. Das estratégias adotadas para minimizar o impacto do confinamento, tirando o lay-off que se circunscreveu ao período durante o qual a economia se encontrou “confinada”, as modalidades de trabalho à distância, com recurso ao teletrabalho e híbridas assumem uma importância crescente. A partir dos principais resultados de uma pesquisa extensiva em Portugal, que evidenciou um aumento de modalidades híbridas de trabalho (teletrabalho exclusivo e/ou alternado) em contexto pandémico, complementada com uma investigação de cariz qualitativa, neste artigo aprofundam-se as perceções dos/as trabalhadores/as em torno do (re)centramento da experiência social do trabalho, acompanhadas por um questionamento crítico sobre vantagens e inconvenientes associados àquelas modalidades de trabalho. Contudo, é imperioso continuar esta reflexão em futuras investigações no sentido de se aprofundar em que medida a “visão” mais otimista dos resultados obtidos, orientada para a flexibilidade e equilíbrio da vida profissional e pessoal proporcionadas pelas modalidades híbridas de trabalho, permanecerá a médio e a longo prazo e quais serão as suas implicações na qualidade de vida dos/as trabalhadores.",
+     "idioma_resumen": "pt",
+     "licencia": null,
+     "url": "https://doi.org/10.30553/sociologiaonline.2025.39.6",
+     "doi": "10.30553/sociologiaonline.2025.39.6",
+     "paginas": "1-24",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.30553/sociologiaonline.2025.39.3",
+     "titulo": "Neocorporativismo, concertação e diálogo social: observações sobre a experiência portuguesa",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Universidade de Coimbra, Faculdade de Economia, Centro de Estudos Sociais.",
+       "orcid": null
+      },
+      {
+       "nombre": "António Casimiro Ferreira",
+       "orcid": "https://orcid.org/0000-0002-7983-3886"
+      },
+      {
+       "nombre": "Andreia Santos",
+       "orcid": "https://orcid.org/0000-0003-2569-6991"
+      },
+      {
+       "nombre": "Investigadora independente.",
+       "orcid": null
+      },
+      {
+       "nombre": "João Pedroso",
+       "orcid": "https://orcid.org/0000-0001-8956-2250"
+      },
+      {
+       "nombre": "Universidade de Coimbra, Faculdade de Economia, Centro de Estudos Sociais.",
+       "orcid": null
+      }
+     ],
+     "resumen": "O presente artigo retoma a relevância de uma teoria política do neocorporativismo, assinalando a complementaridade e interdependência conceptual que se estabelece entre os conceitos de neocorporativismo, concertação e diálogo social. O interesse pelo neocorporativismo nos dias de hoje assenta sobre a sua pertinência enquanto paradigma teórico na interpretação sociopolítica das sociedades democráticas. Na esteira de uma abordagem sociológica do direito, tal permite analisar os modos de produção e aplicação do direito na sua relação com o contexto político, económico e social, contribuindo para o fortalecimento da democracia. Neste sentido, parte-se da problematização da teoria política do neocorporativismo, abrindo espaço para a proposta de uma cronologia dos momentos mais relevantes do neocorporativismo, diálogo social e concertação social na Europa, afunilando-se de seguida a análise para o cenário português. Por último, assinala-se a forma como a complementaridade e interdependência conceptual aqui sublinhada se traduz na realidade, neste caso, sob a forma de acordos de concertação social, com destaque para sete momentos, ou fases, que têm características específicas conferidas pelos modelos de negociação e os acordos de concertação em causa.",
+     "idioma_resumen": "pt",
+     "licencia": null,
+     "url": "https://doi.org/10.30553/sociologiaonline.2025.39.3",
+     "doi": "10.30553/sociologiaonline.2025.39.3",
+     "paginas": "1-24",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.30553/sociologiaonline.2025.39.5",
+     "titulo": "O emprego nas organizações da economia social: o caso das Misericórdias do distrito de Évora",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "CICS.NOVA.UÉvora",
+       "orcid": null
+      },
+      {
+       "nombre": "Ana Costa",
+       "orcid": "https://orcid.org/0000-0002-7581-0847"
+      },
+      {
+       "nombre": "Maria Manuel Serrano",
+       "orcid": "https://orcid.org/0000-0003-3545-6879"
+      },
+      {
+       "nombre": "Universidade de Évora, Escola de Ciências Sociais, Departamento de Sociologia & ISEG Research, Universidade de Lisboa",
+       "orcid": null
+      }
+     ],
+     "resumen": "O papel das organizações da economia social na economia em geral, e na criação de emprego em particular, tem sido amplamente reconhecido por instituições nacionais e internacionais. Um projeto de investigação sociológica denominado, A sustentabilidade das organizações sociais no contexto da economia social: O caso das Santas Casas da Misericórdia, sustenta teórica e empiricamente o presente artigo. Este visa caraterizar o emprego em organizações da economia social e identificar os constrangimentos que as organizações enfrentam, bem como os apoios disponíveis para a contratação do pessoal necessário ao cumprimento da sua missão. O enquadramento teórico refere as origens e evolução da economia social, a sua vocação, os valores que persegue e o tipo de organizações que concretizam os seus objetivos. Aborda-se também a postura das instituições nacionais e internacionais face à economia social e ao papel que as suas organizações desempenham na criação de emprego e na integração de trabalhadores no mercado de trabalho. A estratégia metodológica da investigação assentou no estudo de casos, tendo sido estudadas 15 Santas Casas da Misericórdia do distrito de Évora. A análise dos resultados permitiu concluir que a capacidade empregadora das Misericórdias depende, em parte, das medidas de apoio ao emprego, geridas pelo Instituto do Emprego e Formação Profissional (IEFP) e pelo Instituto de Segurança Social (ISS), as quais permitem contratar pessoal a baixo custo. O conteúdo do trabalho, especificamente ao nível da prestação de cuidados à população idosa, parece não ser atrativo devido às exigências de horário e ao desgaste físico e emocional, mas também devido ao salário. As mulheres predominam, nesta e nas restantes funções desempenhadas nas Misericórdias.",
+     "idioma_resumen": "pt",
+     "licencia": null,
+     "url": "https://doi.org/10.30553/sociologiaonline.2025.39.5",
+     "doi": "10.30553/sociologiaonline.2025.39.5",
+     "paginas": "1-23",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.30553/sociologiaonline.2025.39.2",
+     "titulo": "Populismo de extrema direita e representação sindical em Portugal",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Universidade de Coimbra, Faculdade de Economia, Centro de Estudos Sociais. Avenida Dias da Silva, 165, 3004-512, Coimbra, Portugal",
+       "orcid": null
+      },
+      {
+       "nombre": "Hermes Augusto Costa",
+       "orcid": "https://orcid.org/0000-0001-7873-4440"
+      },
+      {
+       "nombre": "Raquel Rego",
+       "orcid": "https://orcid.org/0000-0002-7342-8695"
+      },
+      {
+       "nombre": "Iscte — Instituto Universitário de Lisboa, Escola de Sociologia e Políticas Públicas, Centro de Investigação e Estudos de Sociologia (CIES-Iscte). Avenida Forças Armadas, 1649-026 Lisboa, Portugal",
+       "orcid": null
+      }
+     ],
+     "resumen": "Tomando como ponto de partida pesquisas anteriores, ao abrigo dos projetos “Representativeness of Social Partners and the Impact of Economic Governance” e “Trade unions and right-wing populism in Europe”, neste texto pretendemos fornecer contributos adicionais para a compreensão dos fatores que concorrem para um crescimento de processos de polarização social — expressos sob a forma de populismo — no campo laboral/sindical. Em concreto, detemo-nos numa análise da perniciosa relação entre sindicalismo e populismo de extrema direita em Portugal. Argumentamos que a génese do sindicalismo e os valores democráticos em que historicamente se apoia (emancipação, solidariedade, igualdade, representação coletiva democrática) estão nos antípodas do populismo. A recomposição sociopolítica do Parlamento português desde 2019 ajuda a explicar as investidas populistas exercidas sobre o campo laboral em Portugal. Com efeito, os contornos de uma “agenda populista” — que está a ser imposta de fora para dentro, a partir das estratégias partidárias de extrema-direita e tendo como alvo o movimento sindical organizado — assume propósitos intencionais que, em nosso entender, se afiguram como enigmáticos e perigosos.",
+     "idioma_resumen": "pt",
+     "licencia": null,
+     "url": "https://doi.org/10.30553/sociologiaonline.2025.39.2",
+     "doi": "10.30553/sociologiaonline.2025.39.2",
+     "paginas": "1-18",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.30553/sociologiaonline.2025.39.8",
+     "titulo": "“Velhos” atores, novas formas de trabalho e governação das relações laborais",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Hermes Augusto Costa",
+       "orcid": "https://orcid.org/0000-0001-7873-4440"
+      },
+      {
+       "nombre": "Ana Paula Marques",
+       "orcid": "https://orcid.org/0000-0002-9458-2915"
+      },
+      {
+       "nombre": "Paula Urze",
+       "orcid": "https://orcid.org/0000-0003-0705-0302"
+      }
+     ],
+     "resumen": "Este número da SOCIOLOGIA ON LINE é organizado pela Secção Temática “Trabalho, Organizações e Profissões” da Associação Portuguesa de Sociologia (APS). O conjunto de textos aqui reunidos resulta de uma seleção que fizemos de um volume diversificado de comunicações resultantes do XII Congresso da APS, acolhido na Faculdade de Economia da Universidade de Coimbra entre 4 e 6 de abril de 2023, e tendo como tema de fundo Sociedades Polarizadas? Desafios para a Sociologia. Sendo o mundo do trabalho composto por uma diversidade de espaços e de tempos propícios à confluência de pessoas, organizações e profissões, bem como à construção de expectativas e significados, não raras vezes encontramos nele focos de polarização, ações e comportamentos que clamam quer por ajustamentos, quer por resistências. Quanto temos por referência velhos atores (isto é, organizações seculares como os sindicatos, por exemplo), um dos desafios contemporâneos que mais se lhes coloca é o da abertura ao exterior, isto é, um exercício de capacitação de outras identidades (muitas vezes emergentes), que clamam por voz no mundo do trabalho ainda que sejam recorrentemente deixadas à margem. As expressões “sindicalismo de movimento social” (Waterman, 1993, 1998), “novo sindicalismo social” (Waterman, 1999, 2012), “sindicalismo cidadão” (Véras de Oliveira, 2011) são apenas algumas a que subjaz esse propósito de abertura. Aliás, na literatura sobre recursos de poder sindical (Costa et al., 2020; Crouch, 2017; Lehndorff et al., 2017; Lévesque & Murray, 2010), a menção ao “poder societal” — assente na construção de narrativas orientadas para a sociedade como um todo (e não apenas para o mundo do trabalho tout court) e na construção de redes e coligações com outras organizações da sociedade civil que partilhem problemas comuns — faz-se acompanhar de uma ambição semelhante. Em sentido contrário, porém, a emergência de investidas populistas um pouco por toda a Europa contribui mais para a edificação de barreiras e extremismos do que para a convivência democrática e pacífica. Ou seja, tais investidas já não reclamam abertura, mas antes fechamento face ao exterior, já não são indutoras de adaptação, mas de resistência de molde a evitar o avanço de estratégias não democráticas e potencialmente colonizadoras do mundo do trabalho e da vida social.",
+     "idioma_resumen": "pt",
+     "licencia": null,
+     "url": "https://doi.org/10.30553/sociologiaonline.2025.39.8",
+     "doi": "10.30553/sociologiaonline.2025.39.8",
+     "paginas": "1-10",
+     "fuente": "Crossref"
+    }
+   ]
+  }
+ ]
+}

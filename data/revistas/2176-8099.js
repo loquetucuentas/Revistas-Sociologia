@@ -1,0 +1,1253 @@
+// Copia de revistas/2176-8099.json para abrir la aplicación sin servidor.
+(window.DATOS_REVISTAS = window.DATOS_REVISTAS || {})["revistas/2176-8099.json"] = {
+ "version": 1,
+ "generado": "2026-11-02T05:12:34+00:00",
+ "es_prueba": false,
+ "revista": {
+  "id": "2176-8099",
+  "titulo": "Plural",
+  "idioma_titulo": null,
+  "titulo_alternativo": "Revista de Ciências Sociais",
+  "idioma_titulo_alternativo": "pt",
+  "idiomas": [
+   "pt",
+   "es"
+  ],
+  "issn_impreso": "0104-6721",
+  "issn_electronico": "2176-8099",
+  "editorial": "Universidade de São Paulo (USP)",
+  "pais": "BR",
+  "materias": [
+   "Sociology (General)",
+   "Social sciences (General)"
+  ],
+  "palabras_clave": [
+   "social sciences",
+   "sociology",
+   "general studies"
+  ],
+  "licencias": [
+   {
+    "nombre": "CC BY-NC-SA 4.0",
+    "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+   }
+  ],
+  "url": "https://www.revistas.usp.br/plural",
+  "url_doaj": "https://doaj.org/toc/2176-8099",
+  "descripcion": null,
+  "fuente_ficha": "DOAJ",
+  "archivo": "revistas/2176-8099.json",
+  "ultimo_numero": "Vol. 33, núm. 1 (2026)",
+  "fuente_numeros": "Crossref"
+ },
+ "numeros": [
+  {
+   "id": "v33-n1-2026",
+   "volumen": "33",
+   "numero": "1",
+   "anio": 2026,
+   "fecha": "2026-07-21",
+   "etiqueta": "Vol. 33, núm. 1 (2026)",
+   "fuente": "Crossref",
+   "articulos": [
+    {
+     "id": "10.11606/issn.2176-8099.pcso.2026.246839",
+     "titulo": "A mestiçagem como problema: quais questões? Qual Brasil?",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Amarildo Ferreira Júnior",
+       "orcid": "https://orcid.org/0000-0002-5734-7916"
+      },
+      {
+       "nombre": "Alan Augusto Moraes Ribeiro",
+       "orcid": "https://orcid.org/0000-0002-6899-2443"
+      }
+     ],
+     "resumen": "This review examines the work \"The Question of 'Pardos' in Brazil\" (2025), organized by Flávia Rios, subjecting it to a critical scrutiny that challenges its analytical scope. We start from the premise that it is fundamental to critique the \"question\" itself, whether it is taken as an object of curiosity, as a social risk, or as a constitutive trait of national formation. In the book, this need becomes evident when the regional dimension is reduced to a mentioned element, which reveals an underlying methodological nationalism. This framing ignores the distinct meanings that ethnic-racial relations and the categories employed in them assume in different regional contexts. As a consequence, the book reiterates the dominant hegemonic thought of a blackness rendered unviable in these regions because, in the concrete conditions in which they find themselves, their subjects employ different categories.",
+     "idioma_resumen": "en",
+     "licencia": null,
+     "url": "https://doi.org/10.11606/issn.2176-8099.pcso.2026.246839",
+     "doi": "10.11606/issn.2176-8099.pcso.2026.246839",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.11606/issn.2176-8099.pcso.2026.250721",
+     "titulo": "A mestiçagem como problema e objeto: novos desafios para a pesquisa em relações raciais no Brasil",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Maycon Dougllas",
+       "orcid": "https://orcid.org/0000-0002-4739-7813"
+      },
+      {
+       "nombre": "Alan Augusto Moraes Ribeiro",
+       "orcid": "https://orcid.org/0000-0002-6899-2443"
+      },
+      {
+       "nombre": "Matheus de Moura",
+       "orcid": "https://orcid.org/0009-0001-3429-4065"
+      }
+     ],
+     "resumen": "Este texto apresenta o dossiê “(Re)pensando a mestiçagem no Brasil: velhos dilemas, novos debates\". Argumenta-se que a mestiçagem não deve ser compreendida somente como resultado biológico da mistura entre grupos socialmente classificados como distintos, mas como uma linguagem social, política e ideológica de classificação, hierarquização e interpretação da formação nacional. O texto propõe tratar a mestiçagem como problema e objeto de pesquisa, especialmente diante das disputas atuais em torno da categoria “pardo”. Ao recusar tanto a celebração acrítica da mestiçagem quanto sua redução a uma simples armadilha ideológica, o texto defende a necessidade de rigor conceitual, delimitação metodológica e atenção empírica na análise dos atuais conflitos racialmente classificatórios. Por fim, apresenta os artigos, resenhas e entrevista que compõem o dossiê, destacando suas contribuições para a compreensão das políticas institucionais de classificação racial e dos novos embates em torno da categoria “pardo” no Brasil.",
+     "idioma_resumen": "pt",
+     "licencia": null,
+     "url": "https://doi.org/10.11606/issn.2176-8099.pcso.2026.250721",
+     "doi": "10.11606/issn.2176-8099.pcso.2026.250721",
+     "paginas": "5-15",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.11606/issn.2176-8099.pcso.2026.246110",
+     "titulo": "Três vertentes da democracia racial: uma tipologia do debate brasileiro",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Raíssa Sales de Macêdo",
+       "orcid": null
+      }
+     ],
+     "resumen": "This article proposes a three-strand typology that structures the contemporary debate on racial democracy in Brazil: the foundational formulation, centered on the exaltation of miscegenation and Brazilian exceptionalism; the denunciation of the myth, which documents its persistence across multiple institutional spheres; and the normative ideal, which reclaims racial democracy as an aspiration to be fulfilled. The review argues that these three strands do not represent evolutionary stages but rather coexist and reinforce one another, configuring racial democracy as an adaptive ideology. Drawing on a Barthesian notion of myth, the article proposes that this adaptability explains the paradox of racial democracy surviving its own deconstruction.",
+     "idioma_resumen": "en",
+     "licencia": null,
+     "url": "https://doi.org/10.11606/issn.2176-8099.pcso.2026.246110",
+     "doi": "10.11606/issn.2176-8099.pcso.2026.246110",
+     "paginas": "16-35",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.11606/issn.2176-8099.pcso.2026.247369",
+     "titulo": "Com, contra e para além da teoria de Antônio Sérgio A. Guimarães sobre o racismo brasileiro",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Luiz Augusto Campos",
+       "orcid": "https://orcid.org/0000-0003-2153-547X"
+      }
+     ],
+     "resumen": "This article examines Antonio Sérgio A. Guimarães’s theoretical contribution to the sociology of racism in Brazil, while also pointing to the limits and contradictions arising from its academic and political success. We argue that Guimarães provided theoretical grounding and conceptual vocabulary to the dominant paradigm in the study of Brazilian race relations by advocating the analytical and nominalist use of the concept of race as an instrument for exposing Brazilian inequalities against the myth of racial democracy. However, the article identifies three central limits in the academic and political incorporation of this approach: first, an excessive emphasis on the ideological dimensions of racism at the expense of its practical dimensions and structural consequences; second, the reification of the constructivist concept of race, which tends to be mobilized as a trivial premise of research rather than as an object of empirical investigation; third, the paradoxical effects of the “defensive racialism” the author advocates, which, by calling for the political delimitation of racialized groups, has paradoxically contributed to their essentialization. We conclude that, in light of the transformations of the Brazilian political and academic context, it becomes necessary to critically revisit Guimarães’s theoretical legacy in order to advance from it and beyond it.",
+     "idioma_resumen": "en",
+     "licencia": null,
+     "url": "https://doi.org/10.11606/issn.2176-8099.pcso.2026.247369",
+     "doi": "10.11606/issn.2176-8099.pcso.2026.247369",
+     "paginas": "36-45",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.11606/issn.2176-8099.pcso.2026.246041",
+     "titulo": "Itinerários da Invenção do Brasil Mestiço: o dilema central da cultura brasileira",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Vilma Soares de Lima Barbosa",
+       "orcid": "https://orcid.org/0000-0002-7022-7257"
+      },
+      {
+       "nombre": "Ivan Fontes Barbosa",
+       "orcid": "https://orcid.org/0000-0002-1961-0605"
+      }
+     ],
+     "resumen": "Este texto tem como objetivo apresentar como Gilberto Freyre (Casa-Grande & Senzala, 1933) e Felte Bezerra (Etnias Sergipanas, 1950) percutem as estratégias de significação construídas por Silvio Romero (Introdução a História da Literatura Brasileira, 1882) acerca da natureza mestiça da sociedade brasileira. Romero, influenciado pelos critérios negativos da sociologia racista francesa do século XIX e pela intuição da mestiçagem (branqueamento) como elemento de integração ao discurso ocidental da evolução, edificou um dos dilemas mais complexos do pensamento social brasileiro. A partir da análise dessas obras, observa-se que Freyre e Bezerra continuaram a percepção de Romero ao demarcar as contribuições das culturas negra, indígena e portuguesa, mas percutiram o viés que desconsiderava o racismo como dado fundamental da experiência social brasileira. Ao avançarem sobre os limites da sociologia racista, esses autores fortaleceram o imaginário de que a miscigenação era o vetor de relações inter-raciais não marcadas pela subjugação. O declínio gradativo dessa leitura ocorreu a partir da década de 1950, com a contribuição dos estudos de Oracy Nogueira, em especial sua pesquisa sobre o preconceito racial no Brasil, e pelas pesquisas sobre relações raciais patrocinadas pela UNESCO (1949-1952).",
+     "idioma_resumen": "pt",
+     "licencia": null,
+     "url": "https://doi.org/10.11606/issn.2176-8099.pcso.2026.246041",
+     "doi": "10.11606/issn.2176-8099.pcso.2026.246041",
+     "paginas": "46-68",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.11606/issn.2176-8099.pcso.2026.246232",
+     "titulo": "Miscigenânsia: subjetividade, raça e experiência miscigenada no pensamento social brasileiro",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Cilene Vieira",
+       "orcid": "https://orcid.org/0009-0004-7399-0743"
+      }
+     ],
+     "resumen": "This article discusses miscigenânsia as an analytical category for understanding the social and subjective experiences of mixed-race subjects in Brazil. The concept, proposed by Maria Cilene Lucas Vieira, emerges from the articulation of lived experience, memory, and theoretical reflection, in dialogue with the notion of escrevivência developed by Conceição Evaristo. The analysis begins with the debate on racial mixing in Brazilian social thought, particularly in the interpretations of Gilberto Freyre, whose reading of national formation emphasized racial mixture as a constitutive element of Brazilian identity. In contrast, the article mobilizes the contributions of Florestan Fernandes and Kabengele Munanga, who highlight the persistence of racial hierarchies in Brazilian society. The dialogue with Frantz Fanon and with the notion of ethical-political suffering formulated by Bader Sawaia helps to understand the subjective effects of racialization. The reflection also approaches the critical perspective of Paulo Freire, by understanding the naming of these experiences as part of a process of conscientization and critical reading of racial relations in Brazilian society. It is argued that miscigenânsia contributes to highlighting identity tensions and expanding the debate on race, belonging, and social recognition in contemporary Brazil.",
+     "idioma_resumen": "en",
+     "licencia": null,
+     "url": "https://doi.org/10.11606/issn.2176-8099.pcso.2026.246232",
+     "doi": "10.11606/issn.2176-8099.pcso.2026.246232",
+     "paginas": "69-82",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.11606/issn.2176-8099.pcso.2026.245515",
+     "titulo": "Mas afinal, quem é o tal do pardo? O obstáculo antropológico nas reivindicações pelo <i>ethos </i>da nação brasileira",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Igor Fonseca Silva",
+       "orcid": "https://orcid.org/0000-0002-4245-2609"
+      }
+     ],
+     "resumen": "Neste artigo, costuro uma reflexão sobre os múltiplos significados assumidos, atrelados e projetados à palavra pardo ao longo do Brasil República (1889-presente), para compreender como esta classificação étnico-racial surge, se consolida, quem faz uso dela para se autodeclarar e seus porquês. Articulo referenciais clássicos dos estudos das relações raciais, como Munanga (2012; 2019), Bento (2016) e Moura (2014) com estudos recentes, tais quais os feitos por Rocha (2023), Ferro (2023) e Guimarães (2024). Verifico haver uma transição do pardo de categoria censitária residual para território de disputa de reivindicações identitárias, propostas pelas retóricas da negritude, dos povos originários e dos próprios autodeclarados pardos. Defendo haver um perigo latente na especificação da categoria, reconhecendo ao mesmo tempo as implicações antropológicas e éticas da sua anexação a outros grupos étnico-raciais.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.11606/issn.2176-8099.pcso.2026.245515",
+     "doi": "10.11606/issn.2176-8099.pcso.2026.245515",
+     "paginas": "83-97",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.11606/issn.2176-8099.pcso.2026.245997",
+     "titulo": "Entre parda, mestiça, mulata e morena: a racialização da pessoa negra de pele clara",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Carolina da Silva Pereira",
+       "orcid": null
+      }
+     ],
+     "resumen": "This study aimed to analyze the process of constitution of racial identity and racial belonging among light-skinned Black individuals in the city of Porto Alegre, assuming their correspondence with the IBGE parda category. This qualitative research was conducted through everyday observations, informal conversations, and semi-structured interviews with participants from different social classes, age groups, and genders. Drawing on Social Psychology, the study examined the production of social meanings attributed to the bodies of light-skinned Black individuals and their racializing effects. The intersectional analysis of generation, class, and gender, articulated with the concept of controlling images, revealed the existence of a specific social position marked by attempts to distance from or deny Blackness, anchored primarily in ideologies that positively frame racial mixture. These processes operate as strategies for maintaining racial subordination and create barriers to the constitution of a critical and affirmative Black identity. Among younger and university participants, a stronger valorization of Blackness was observed, suggesting effects of recent affirmative action policies. The relevance of artistic-cultural expressions, such as rap and slam, for the affirmation of Black identity was also highlighted.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.11606/issn.2176-8099.pcso.2026.245997",
+     "doi": "10.11606/issn.2176-8099.pcso.2026.245997",
+     "paginas": "98-119",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.11606/issn.2176-8099.pcso.2026.246227",
+     "titulo": "Fragmentação da Identidade Negra no Verbete <i>Pardo</i>: Uma Análise Crítica do Discurso das definições dos dicionários de língua portugues",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Francisco Higo de Amorim",
+       "orcid": "https://orcid.org/0000-0003-3489-384X"
+      }
+     ],
+     "resumen": "This article examines how Brazilian Portuguese dictionaries discursively construct the identity of “pardo,” revealing processes of erasing Blackness and reinforcing whitening. Drawing on Critical Discourse Studies and Textually Oriented Discourse Analysis, the study analyzes definitions of “pardo” in ten dictionaries published between the 1930s and 2020. Recurrent meanings—such as “branco sujo,” “mulato,” and “branco da Bahia” — expose negative evaluations, racial hierarchies, andideological presuppositions that reproduce eugenic logics, the myth of racial democracy, and the naturalization of whiteness as the normative standard. The findings show that these definitions fragment Black identity by dissociating pardos from Blackness and aligning them with whiteness, thus contributing to the maintenance of racial inequalities and to linguistic and cultural epistemicide. The article concludes that dictionaries, as instruments of linguistic authority, play an active role in reproducing discourses that weaken Black identity in Brazil.",
+     "idioma_resumen": "en",
+     "licencia": null,
+     "url": "https://doi.org/10.11606/issn.2176-8099.pcso.2026.246227",
+     "doi": "10.11606/issn.2176-8099.pcso.2026.246227",
+     "paginas": "120-139",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.11606/issn.2176-8099.pcso.2026.246218",
+     "titulo": "(Re)pensando a mestiçagem no Brasil e a xenofobia aos nordestinos",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Vilarin Barbosa Barros",
+       "orcid": "https://orcid.org/0000-0003-4020-8298"
+      }
+     ],
+     "resumen": "Este texto investiga a memória social de uma migração de cearenses para São Paulo entre os anos de 1972-2009, estudando a racialização dos(as) nordestinos(as) em São Paulo. Comparando e contrastando as fontes como entrevistas, correspondências e manuais de cartas, procura-se acessar expressões de experiências de indivíduos vivenciadas coletivamente. Para tanto, é problematizado um passado que se fez presente através de um sistema de pensamento eugênico recomposto no cotidiano, e, potencializador das tensões vividas pelos cearenses deslocados(as). Ao partir de uma perspectiva cultural e de microanálise no tratamento das fontes, se busca recompor trajetórias de vida e relações sociais estabelecidas, (re)veladoras de subjetividades e afetividades acontecidas em uma migração. Assim, o objeto de estudo acessa identidades tensionadas e forjadas no dia a dia, expondo todo um trauma naquilo que foi chamado de \"patologia social do branco brasileiro\". Aliás, quando a mestiçagem no Brasil é (re)pensada, ela traz consigo uma perturbação de memórias outrora comemoradas, usadas como tranquilizante, passando a ser rememoradas e rediscutidas, inclusive, quanto ao lugar da dita xenofobia sofrida pelos(as) nordestinos(as) em São Paulo.",
+     "idioma_resumen": "pt",
+     "licencia": null,
+     "url": "https://doi.org/10.11606/issn.2176-8099.pcso.2026.246218",
+     "doi": "10.11606/issn.2176-8099.pcso.2026.246218",
+     "paginas": "140-161",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.11606/issn.2176-8099.pcso.2026.246230",
+     "titulo": "Reflexões metodológicas sobre raça, classificação e reclassificação racial",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Gabriela Costa Lima",
+       "orcid": "https://orcid.org/0009-0001-1983-5927"
+      },
+      {
+       "nombre": "Samuel Vicente Dias de Freitas",
+       "orcid": "https://orcid.org/0009-0009-5568-2559"
+      }
+     ],
+     "resumen": "This article aims to present the main forms of racial classification in force in the country, and how they interact with a range of racial categories mobilized by racism and racialization in Brazil. To this end, an immersion was made in the history of these categories and how they mobilize other important categories in the field of ethnic-racial relations, such as: race, color, skin color, and ethnicity. Thus, it is also being addressed how the race/color variable collected lacks greater refinement, especially when dealing with mortality rates and microdata on education in historical series, and when this variable is left aside it can lead to underreporting or a process that will be called here racial reclassification.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.11606/issn.2176-8099.pcso.2026.246230",
+     "doi": "10.11606/issn.2176-8099.pcso.2026.246230",
+     "paginas": "162-186",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.11606/issn.2176-8099.pcso.2026.246192",
+     "titulo": "O 'pardo amazônico' e a construção de identidades étnicas no Brasil",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Nathalia Silva Borges",
+       "orcid": "https://orcid.org/0000-0003-3385-7839"
+      }
+     ],
+     "resumen": "O artigo analisa a emergência da categoria “pardo amazônico” a partir das entrevistas realizadas com avaliadores integrantes de bancas de heteroidentificação na Universidade Federal do Amazonas. O objetivo é compreender como, no interior dos processos institucionais de verificação racial, os próprios avaliadores elaboram distinções internas à categoria “pardo”, produzindo a figura do chamado pardo amazônico, em referência às características fenotípicas relacionas ao indígena como marcador interpretativo. Metodologicamente, trata-se de pesquisa qualitativa, de caráter interpretativo, fundamentada na análise temática de entrevistas semiestruturadas, articulada à literatura sobre classificação racial, identidade e colonialidade. O estudo evidencia que, na Amazônia, os critérios mobilizados nas avaliações se restringem ao fenótipo, não incorporando referências territoriais, traços culturalmente associados à indigeneidade e percepções históricas sobre a formação regional. Argumenta-se que o pardo amazônico constitui uma categoria relacional e situada, mas não exclusiva, produzida na experiência regional nos processos de heteroidentificação dentro do escopo das políticas de reserva de vagas.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.11606/issn.2176-8099.pcso.2026.246192",
+     "doi": "10.11606/issn.2176-8099.pcso.2026.246192",
+     "paginas": "187-205",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.11606/issn.2176-8099.pcso.2026.246234",
+     "titulo": "O pardo como sujeito de direito das cotas raciais: comparando processos de heteroidentificação",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Tiago Heliodoro Nascimento",
+       "orcid": "https://orcid.org/0009-0000-2135-9571"
+      },
+      {
+       "nombre": "Rosenilton Silva de Oliveira",
+       "orcid": "https://orcid.org/0000-0003-2952-4329"
+      }
+     ],
+     "resumen": "Este artigo realiza uma análise etnográfica comparativa dos procedimentos de heteroidentificação racial em duas universidades federais brasileiras, destacando divergências metodológicas frente às normativas vigentes. Argumenta-se que a legislação, embora consolide consensos no debate racial, também fomenta novos dissensos. Por meio de entrevistas com gestoras, de descrição das práticas de execução e análise documental, investigamos a operacionalização das categorias raciais, com foco nas derivações do ‘pardo’ (pardo-indígena, pardo-branco e pardo-negro). Os resultados apontam para tensões normativas em diferentes contextos demográficos e alertam que tratar o ‘pardo’ como categoria identitária autônoma pode comprometer a finalidade original da lei.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.11606/issn.2176-8099.pcso.2026.246234",
+     "doi": "10.11606/issn.2176-8099.pcso.2026.246234",
+     "paginas": "206-227",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.11606/issn.2176-8099.pcso.2026.246224",
+     "titulo": "Da ideologia da mestiçagem aos dispositivos de heteroidentificação: institucionalização e controle na política de cotas da UFJF (2018–2026)",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Vanessa Ferreira Lopes",
+       "orcid": "https://orcid.org/0009-0007-8241-0589"
+      }
+     ],
+     "resumen": "Este trabalho busca analisar o impacto da ideologia da mestiçagem no histórico de constituição, consolidação e aprimoramentos dos mecanismos institucionais de controle da política de reserva de vagas para pessoas negras (pretas e pardas) nos cursos de graduação presenciais da Universidade Federal de Juiz de Fora (UFJF). A análise será feita a partir da investigação documental de resoluções e normativas internas da instituição, tendo como recorte temporal o período entre 2018 e 2026 — marco inicial da criação das bancas de heteroidentificação racial, em um contexto de denúncias formuladas por movimentos estudantis universitários acerca de possíveis acessos indevidos às cotas raciais. Ao articular a análise normativa com aportes teóricos sobre o tema, ambiciona-se compreender estratégias concretas que a Instituição tem adotado, visando ampliar a licitude das políticas afirmativas, bem como coibir práticas perniciosas perpetradas por grupos que não se enquadram no direito às mesmas. Serão evidenciadas as mudanças nos arranjos institucionais da UFJF, de forma a vislumbrar tensões e estratégias mobilizadas para a garantia de que as vagas da política sejam efetivamente ocupadas por seus sujeitos de direito.",
+     "idioma_resumen": "pt",
+     "licencia": null,
+     "url": "https://doi.org/10.11606/issn.2176-8099.pcso.2026.246224",
+     "doi": "10.11606/issn.2176-8099.pcso.2026.246224",
+     "paginas": "228-250",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.11606/issn.2176-8099.pcso.2026.246927",
+     "titulo": "Notas sobre Parditude",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Wescrey Portes Pereira",
+       "orcid": "https://orcid.org/0000-0002-1026-1437"
+      }
+     ],
+     "resumen": "Resenha sobre o trabalho de Beatriz Bueno.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.11606/issn.2176-8099.pcso.2026.246927",
+     "doi": "10.11606/issn.2176-8099.pcso.2026.246927",
+     "paginas": "258-268",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.11606/issn.2176-8099.pcso.2026.245772",
+     "titulo": "Da morenidade à parditude: entrevista com o professor Antonio Sérgio Guimarães",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Maycon Dougllas",
+       "orcid": "https://orcid.org/0000-0002-4739-7813"
+      },
+      {
+       "nombre": "Lume Watanabe",
+       "orcid": "https://orcid.org/0000-0002-0146-8022"
+      }
+     ],
+     "resumen": "Antônio Sérgio Guimarães é um dos principais sociólogos brasileiros dedicados ao estudo das relações raciais, da formação do pensamento social e das dinâmicas contemporâneas de classificação e identidade no Brasil. Professor titular aposentado do Departamento de Sociologia da Universidade de São Paulo (USP), sua obra tem sido fundamental para compreender as transformações da ideologia da democracia racial, os deslocamentos em torno das categorias de “raça” e “mestiçagem” e os efeitos sociais e políticos das políticas de ação afirmativa. Sua reflexão articula história intelectual e análise sociológica e debate, oferecendo instrumentos decisivos para pensar as reconfigurações do campo racial brasileiro nas últimas décadas. Nesta entrevista, Guimarães examina a passagem da “morenidade” à emergência contemporânea da “parditude”, discutindo seus potenciais inclusivos e seus riscos políticos no interior de uma sociedade que se afirma multirracial e multicultural. Ao revisitar as disputas em torno da mestiçagem, da classificação racial e da permeabilidade da branquitude, o sociólogo analisa as inflexões recentes do debate público brasileiro, situando a parditude no cruzamento entre reclassificação racial, identidade nacional e redistribuição de oportunidades sociais.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.11606/issn.2176-8099.pcso.2026.245772",
+     "doi": "10.11606/issn.2176-8099.pcso.2026.245772",
+     "paginas": "269-274",
+     "fuente": "Crossref"
+    }
+   ]
+  },
+  {
+   "id": "v32-n2-2025",
+   "volumen": "32",
+   "numero": "2",
+   "anio": 2025,
+   "fecha": "2025-12-18",
+   "etiqueta": "Vol. 32, núm. 2 (2025)",
+   "fuente": "Crossref",
+   "articulos": [
+    {
+     "id": "10.11606/issn.2176-8099.pcso.2025.243933",
+     "titulo": "A Teoria do Discurso de Ernesto Laclau e Chantal Mouffe e sua potência interdisciplinar",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Marcelo de Souza Marques",
+       "orcid": "https://orcid.org/0000-0003-2395-0191"
+      },
+      {
+       "nombre": "Alice Hubner Franz",
+       "orcid": "https://orcid.org/0000-0001-8475-2178"
+      },
+      {
+       "nombre": "Gabriel Bandeira Coelho",
+       "orcid": "https://orcid.org/0000-0003-3579-582X"
+      },
+      {
+       "nombre": "Everton Garcia da Costa",
+       "orcid": "https://orcid.org/0000-0002-4446-2173"
+      }
+     ],
+     "resumen": "Recent decades have witnessed the consolidation and interdisciplinary expansion of Ernesto Laclau and Chantal Mouffe’s Discourse Theory (DT) within the Brazilian academic field. Drawing on the recent trajectory of organizing dossiers and working groups dedicated to DT, this article demonstrates how Laclau and Mouffe’s framework has been mobilized across multiple areas, including sociology, education, administration, communication, and cultural studies. It argues that the interdisciplinary strength of DT stems from its political ontology, which conceives the social as an open, contingent, and permanently contested discursive field. This perspective enables the analysis of meaning production, identities, and conflicts across diverse domains without being constrained by disciplinary boundaries. In light of this scenario, the present dossier brings together theoretical and empirical contributions that illustrate the potential of DT for understanding complex social phenomena in contemporary society.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.11606/issn.2176-8099.pcso.2025.243933",
+     "doi": "10.11606/issn.2176-8099.pcso.2025.243933",
+     "paginas": "5-21",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.11606/issn.2176-8099.pcso.2025.240353",
+     "titulo": "Seria a Teoria do Discurso uma Teoria do Populismo?",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Daniel de Mendonça",
+       "orcid": "https://orcid.org/0000-0002-8920-4709"
+      },
+      {
+       "nombre": "Bianca Linhares",
+       "orcid": "https://orcid.org/0000-0002-0009-214X"
+      },
+      {
+       "nombre": "Paulo César Neves Barboza",
+       "orcid": "https://orcid.org/0000-0002-0353-1590"
+      }
+     ],
+     "resumen": "Este artículo parte de la crítica de Slavoj Žižek a la teoría del populismo de Ernesto Laclau, según la cual la obra On Populist Reason (2005) constituiría tan solo una extensión autorreferencial de la teoría del discurso previamente elaborada por el autor. En contra de esta interpretación, se sostiene que la relación entre discurso y populismo en la obra laclauniana debe entenderse en términos inversos: es la teoría del populismo la que fundamenta y posibilita la formulación de su teoría del discurso, y no al contrario. Para sostener este argumento, se examinan dos textos anteriores a Hegemony and Socialist Strategy (1985), “Hacia una teoría del populismo” (1978) y “Populist Rupture and Discourse” (1980), en los que se identifican categorías y formulaciones conceptuales que anticipan tanto la perspectiva discursiva consolidada a partir de Hegemony and Socialist Strategy como los elementos centrales de On Populist Reason. De este modo, el artículo concluye argumentando que el populismo, para Laclau, estuvo desde sus primeros escritos estructurado como discurso.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.11606/issn.2176-8099.pcso.2025.240353",
+     "doi": "10.11606/issn.2176-8099.pcso.2025.240353",
+     "paginas": "22-41",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.11606/issn.2176-8099.pcso.2025.241398",
+     "titulo": "O discurso da candidatura de Jair Bolsonaro em 2018 no HGPE",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Felipe Corral de Freitas",
+       "orcid": null
+      }
+     ],
+     "resumen": "A vitória de Bolsonaro na eleição de 2018 indicou uma possível irrelevância do Horário Gratuito de Propaganda Eleitoral (HGPE). No entanto, em 2018 aumentou o nível de interesse dos eleitores pelo HGPE no que tange a busca por informações. Nesse sentido, o objetivo deste artigo consiste em demonstrar a construção discursiva da candidatura de Jair Bolsonaro produzida durante o HGPE. Justifica-se este estudo por dois motivos: a) o HGPE torna possível a desconstrução de uma candidatura pela outra e; b) Bolsonaro foi o candidato que rompeu com a polarização entre o PT e o PSDB. É razoável considerar que tais características foram relevantes para a eleição de Bolsonaro. Para isso são utilizados os aspectos teóricos e metodológicos da Teoria do Discurso de Laclau e Mouffe. Verificamos que o sentido sobre corrupção assumiu centralidade no discurso da candidatura de Bolsonaro.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.11606/issn.2176-8099.pcso.2025.241398",
+     "doi": "10.11606/issn.2176-8099.pcso.2025.241398",
+     "paginas": "42-65",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.11606/issn.2176-8099.pcso.2025.240747",
+     "titulo": "Disputas discursivas sobre raça e sexualidade no Brasil contemporâneo: a retórica política da extrema direita em foco",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Guilherme da Silva Pereira",
+       "orcid": "https://orcid.org/0000-0001-6198-1568"
+      },
+      {
+       "nombre": "José Ribamar Alves Mota",
+       "orcid": "https://orcid.org/0009-0006-5616-687X"
+      }
+     ],
+     "resumen": "Este artigo analisa as estratégias discursivas do bolsonarismo no Brasil em comparação com o trumpismo nos Estados Unidos, investigando como narrativas de medo, ressentimento e moralidade são mobilizadas para consolidar hegemonias políticas. O estudo recorre à perspectiva de Ernesto Laclau e Chantal Mouffe, destacando conceitos como hegemonia, antagonismo e articulação discursiva na análise da construção de significados políticos em contextos de polarização e exclusão social. A pesquisa adota metodologia de revisão bibliográfica e análise documental, combinando fontes acadêmicas, jornalísticas e institucionais. Foram utilizados conceitos de racismo estrutural, câmaras de eco digitais, desinformação e agência política da população negra, a partir de autores como Abdias do Nascimento, Lélia Gonzalez, Silvio de Almeida, Nego Bispo, além de estudos sobre populismo digital (Kalil, 2018; Cunha, 2021; Cesarino, 2020; Recuero & Gruzd, 2019). Os resultados indicam que o bolsonarismo e o trumpismo compartilham estratégias discursivas convergentes, centradas na criação de antagonismos morais, raciais e culturais, amplificados em plataformas digitais segmentadas.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.11606/issn.2176-8099.pcso.2025.240747",
+     "doi": "10.11606/issn.2176-8099.pcso.2025.240747",
+     "paginas": "66-87",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.11606/issn.2176-8099.pcso.2025.241277",
+     "titulo": "Democracia como devir: as tensões discursivas na história do campo educacional",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Matheus Saldanha do Amaral Reis",
+       "orcid": null
+      }
+     ],
+     "resumen": "This article proposes a reflection on the promises of a democracy common to all, drawing on the post-structural and post-foundational contributions of Jacques Derrida, Ernesto Laclau, and Chantal Mouffe. It argues that the normative association between education and democracy, widely disseminated in the educational field, operates as a world project that, while claiming to be universal, restricts the emergence of subjects and differences not previously imagined. Based on Derridean deconstruction and Laclau and Mouffe’s discourse theory, the article discusses the precariousness of attempts to fix the meanings of democracy, understood as an ever-contested “empty signifier.” It therefore defends the need to challenge essentialist conceptions that seek to stabilize homogeneous educational projects, exposing their effects of exclusion and symbolic violence. In contrast, it invests in the notion of radical or pluralist democracy, capable of recognizing antagonisms and sustaining agonistic practices as a condition for democratic existence.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.11606/issn.2176-8099.pcso.2025.241277",
+     "doi": "10.11606/issn.2176-8099.pcso.2025.241277",
+     "paginas": "88-106",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.11606/issn.2176-8099.pcso.2025.240871",
+     "titulo": "Hegemonia e metáforas: potência e limites da teoria discursiva de Ernesto Laclau.",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Carmen Gloria Burgos Videla",
+       "orcid": "https://orcid.org/0000-0003-2718-8579"
+      },
+      {
+       "nombre": "Oscar Pérez Portales",
+       "orcid": "https://orcid.org/0000-0002-1817-5162"
+      }
+     ],
+     "resumen": "O presente trabalho tem como objetivo avaliar a pertinência da abordagem discursiva da hegemonia, partindo de um contraponto com a herança foucaultiana para apontar seus limites na análise dos processos materiais de domínio do neoliberalismo. Com base em uma crítica ao determinismo economicista e ao reducionismo de classe, Ernesto Laclau constrói uma conceituação discursiva da hegemonia de longo impacto no campo dos estudos filosóficos. A abordagem discursiva é útil para superar os limites de uma concepção arquitetônica da subjetividade política que a entendia como reflexo da relação entre base e superestrutura. Nesse sentido, a Teoria do Discurso oferece um marco frutífero para uma ontologia política contingente, que compreende a subjetividade como o produto de operações metafóricas de produção de identidades.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.11606/issn.2176-8099.pcso.2025.240871",
+     "doi": "10.11606/issn.2176-8099.pcso.2025.240871",
+     "paginas": "107-125",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.11606/issn.2176-8099.pcso.2025.241266",
+     "titulo": "História e Teoria Política do Discurso: contribuições do pensamento laclauniano para uma história do político",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Jefferson Evânio da Silva",
+       "orcid": null
+      }
+     ],
+     "resumen": "The aim of this text is to discuss the theoretical and methodological contributions of Political Discourse Theory to the field of historical research. More specifically, it explores the analytical potential of some categories that are part of Ernesto Laclau’s theoretical formulation for historical studies that seek to problematize the past and its articulation with the present based on its inscription in a general problem of the discursivity of social life. Starting from the premise that interdisciplinary dialogue characterizes the constitution of a historical problem, we defend both the importance of opening historical research to perspectives concerned with the study of the political and symbolic functions of discourse, and the possibility of critically expanding this discursive tradition based on critical dialogue between History and Political Theoryof Discourse.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.11606/issn.2176-8099.pcso.2025.241266",
+     "doi": "10.11606/issn.2176-8099.pcso.2025.241266",
+     "paginas": "126-145",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.11606/issn.2176-8099.pcso.2025.240846",
+     "titulo": "Reconfigurando a justiça social: hegemonia e performatividade da accountability educacional em Pernambuco",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Divane Oliveira de Moura Silva",
+       "orcid": "https://orcid.org/0000-0001-5349-6845"
+      },
+      {
+       "nombre": "Karla Wanessa Carvalho de Almeida",
+       "orcid": "https://orcid.org/0000-0002-5197-1507"
+      },
+      {
+       "nombre": "Kátia Silva Cunha",
+       "orcid": "https://orcid.org/0000-0001-9282-715X"
+      }
+     ],
+     "resumen": "Este artículo analiza la política educativa en Pernambuco a partir de la categoría de justicia social, movilizando la Teoría del Discurso de Ernesto Laclau y Chantal Mouffe y la noción de performatividad de Stephen Ball. Se parte del supuesto de que, en el ámbito de las políticas públicas, la justicia social no es un concepto fijo, sino un significante vacío que adquiere sentidos contingentes en las disputas por hegemonía. El objetivo es comprender cómo la justicia social ha sido reconfigurada en el campo educativo, sobre todo mediante la incorporación de prácticas de rendición de cuentas, evaluación de resultados y métricas de desempeño. El estudio se basa en el análisis documental de normativas e informes de la Secretaría de Educación y Deportes de Pernambuco, observando cómo el discurso oficial desplaza la justicia social de una dimensión política hacia una dimensión técnica. El marco teórico articula la noción de hegemonía y de significantes vacíos con la lógica de la performatividad, entendida como un régimen discursivo que impone la evaluación constante y la responsabilización como formas de legitimar prácticas educativas. El análisis muestra que el término justicia social asume múltiples significados, oscilando entre la referencia a los derechos sociales y el énfasis en resultados medibles, inscribiéndose en una disputa discursiva siempre contingente.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.11606/issn.2176-8099.pcso.2025.240846",
+     "doi": "10.11606/issn.2176-8099.pcso.2025.240846",
+     "paginas": "146-166",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.11606/issn.2176-8099.pcso.2025.241287",
+     "titulo": "Desdobramentos da Teoria do Discurso de Laclau e Mouffe: populismo, antipopulismo e novas agendas de pesquisa",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Gabriela Caraffini Pretto",
+       "orcid": null
+      }
+     ],
+     "resumen": "This paper aims to showcase the recent developments of Discourse Theory (DT), originally developed by Ernesto Laclau and Chantal Mouffe, emphasizing its conceptual re-evaluations and empirical applications. The aim is to discuss how DT has evolved over time and to examine how it has been operationalized in empirical research. To this end, a non-exhaustive review of the literature within this theoretical framework is conducted, bringing new perspectives on the analysis of the circulation of meaning – particularly regarding the signifier “populism”. Through Lacanian psychoanalysis, it is possible to incorporate the affective and libidinal dimensions into the analysis in a more grounded way, resorting to the concepts of desire, fantasy and object a. Likewise, categories such as populist hype and anti-populism help to elucidate the dispute over the meaning of populism and the logic under which it operates in political debate.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.11606/issn.2176-8099.pcso.2025.241287",
+     "doi": "10.11606/issn.2176-8099.pcso.2025.241287",
+     "paginas": "167-185",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.11606/issn.2176-8099.pcso.2025.240881",
+     "titulo": "Espaços de amparo e processos de identificação política: a dimensão dos afetos nas escolhas presidenciais de estudantes de camadas populares nas eleições brasileiras de 2018 e 2022",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Luciana Silvestre Girelli",
+       "orcid": "https://orcid.org/0000-0002-2973-3924"
+      },
+      {
+       "nombre": "Igor Suzano Machado",
+       "orcid": "https://orcid.org/0000-0003-4843-9664"
+      }
+     ],
+     "resumen": "This article discusses how emotions influenced the political identification process of working-class students enrolled in Ifes youth and adult education programs during the 2018 and 2022 Brazilian presidential elections. Based on the theoretical and methodological perspective of Essex School Discourse Theory, which recognizes the influence of human passions on the political constitution of individuals, the life trajectories of both students who supported presidential candidate Jair Messias Bolsonaro and those who opposed him were analyzed. The study results demonstrated a tendency among participants to adopt hegemonic political positions found in the spaces where they felt most supported in moments of vulnerability. For Bolsonaro voters, the internet and religion predominated. Among non-voters, school and social organizations stood out. The research used individual interviews, focus groups and observation through dialogues in messaging applications as data collection techniques.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.11606/issn.2176-8099.pcso.2025.240881",
+     "doi": "10.11606/issn.2176-8099.pcso.2025.240881",
+     "paginas": "186-208",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.11606/issn.2176-8099.pcso.2025.241109",
+     "titulo": "Disputas hegemônicas pela centralidade do conhecimento nas políticas de currículo: um olhar a partir da Teoria do Discurso de Ernesto Laclau",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Cíntia Aparecida Oliveira de Medeiros",
+       "orcid": "https://orcid.org/0009-0009-9508-3702"
+      },
+      {
+       "nombre": "André Araújo de Medeiros",
+       "orcid": "https://orcid.org/0009-0007-3622-0290"
+      }
+     ],
+     "resumen": "O artigo em tela volta-se para problematizar as concepções estruturais que entrelaçam significações em torno de um conhecimento curricular como eixo estruturante para o currículo da educação básica e da formação de professores, que sanciona uma compreensão de conhecimento sustentado num caráter racional para orientar as finalidades sociais da educação. Nesses discursos, argui-se articulações discursivas fundamentadas numa forte tentativa de centralização do conhecimento como propriedade, a partir de uma visão engessada e dicotômica buscando imprimir uma significação absoluta do conhecimento como algo que pode ser transmitido ou distribuído igualmente a todos e como um dado objetificado que falta ao currículo. A discussão ora apresentada, destaca alguns argumentos mobilizados acerca da produção curricular do conhecimento, articulado nos documentos políticos curriculares nacionais como tentativa de significar uma educação de qualidade para todos os estudantes da educação básica. Como aporte teórico-epistemológico, esta discussão alinha-se à Teoria do Discurso, de Laclau e Mouffe (2015), e à perspectiva discursiva de currículo, com Lopes (2017, 2018). Apontamos para a necessidade de pensar o conhecimento como produção discursiva num investimento radical em processos interpretativos que não prescinde as articulações contingenciais e negociações discursivas.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.11606/issn.2176-8099.pcso.2025.241109",
+     "doi": "10.11606/issn.2176-8099.pcso.2025.241109",
+     "paginas": "209-230",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.11606/issn.2176-8099.pcso.2025.241285",
+     "titulo": "Reflexões sobre o caráter político do fenômeno organizacional a partir da análise do caso da resistência do movimento ponta do coral 100% pública",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Carlos Eduardo Justen",
+       "orcid": "https://orcid.org/0000-0002-7073-6078"
+      },
+      {
+       "nombre": "Eloise Helena Livramento Dellagnelo",
+       "orcid": "https://orcid.org/0000-0001-7586-0302"
+      }
+     ],
+     "resumen": "The reactivation of the link between organizational phenomenon and hegemonic political projects constituted the guiding thread of the research carried out. In it, we sought to demonstrate that the significant expansion of the organizational phenomenon requires the analytical effort to reactivate the ontological link between the organizational phenomenon and hegemonic political projects, since the significance of this phenomenon arises from its political nature. Going through this itinerary from the theoretical lens of the Political Theory of Discourse (TPD), the analytical object of the research was the study of the resistance initiated by the Ponta do Coral 100% Public Movement, which, contrary to the interests expressed by the dominant real estate capital of the city of Florianópolis, Santa Catarina, defends the collective appropriation of an area in the central region of the city - the group formed by Pontas do Coral, Lessa and Goulart -, aiming at the creation of a green area of leisure, as opposed to the attempt to exploit that portion of land as hotels. Through direct observation, interviews and document analysis it can be seen that the analyzed social movement, being both a significant element and a meaning of the social totality in which it is inserted, its understanding cannot be disconnected from the precarious and contingent clash between hegemonic projects due to the significance of the social.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.11606/issn.2176-8099.pcso.2025.241285",
+     "doi": "10.11606/issn.2176-8099.pcso.2025.241285",
+     "paginas": "231-251",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.11606/issn.2176-8099.pcso.2025.241292",
+     "titulo": "A influência das paixões e afetos no processo de articulação política: uma análise do Movimento #vivacentroleste",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Aghata Karoliny Ribeiro Gonsalves",
+       "orcid": "https://orcid.org/0000-0001-5527-2845"
+      },
+      {
+       "nombre": "Eloise Helena Livramento Dellagnelo",
+       "orcid": "https://orcid.org/0000-0001-7586-0302"
+      }
+     ],
+     "resumen": "Este artigo analisa a influência das paixões e afetos no processo de articulação política do Movimento #vivacentroleste, surgido em resistência ao projeto da Prefeitura de Florianópolis que previa a substituição dos paralelepípedos históricos do Centro Leste por paver. O objetivo foi compreender como os afetos contribuíram para a formação de identidades coletivas, fronteiras políticas e estratégias de resistência. Para isso, realizou-se pesquisa etnográfica entre 2019 e 2022, combinando observação participante presencial e virtual, entrevistas e análise documental, além da sistematização de mais de 60 acontecimentos em linha do tempo. As análises articularam a Teoria Política do Discurso, o modelo de democracia agonística e a filosofia de Spinoza, com destaque para as interpretações de Lordon sobre a política como ars affectandi. Os resultados evidenciam que afetos comuns, como indignação, tristeza e pertencimento, foram decisivos para transformar reações dispersas em mobilização coletiva, dando origem ao grupo #paralelelovers e ao Movimento #vivacentroleste. Conclui-se que paixões e afetos, longe de serem secundários, são elementos centrais na política urbana, atuando como motores de engajamento, disputa simbólica e construção de alternativas à lógica hegemônica de revitalização, ao propor a requalificação como projeto democrático e plural.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.11606/issn.2176-8099.pcso.2025.241292",
+     "doi": "10.11606/issn.2176-8099.pcso.2025.241292",
+     "paginas": "252-271",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.11606/issn.2176-8099.pcso.2025.228118",
+     "titulo": "A memória de 1964 e a retomada dos pedidos de intervenção militar no Brasil",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Gabriel Souza Bastos",
+       "orcid": null
+      },
+      {
+       "nombre": "Veronica Tavares de Freitas",
+       "orcid": "https://orcid.org/0000-0002-2176-6852"
+      }
+     ],
+     "resumen": "As disputas pela memória da ditadura iniciada em 1964 refletem e moldam perspectivas sobre o exercício do poder no Brasil contemporâneo, revelando a complexidade que narrativas históricas exercem sobre a construção e legitimação de diferentes projetos políticos na atualidade. Por meio do levantamento de notícias de 2011 a 2019, no portal do G1, além de publicações e depoimentos de atores que se posicionam favoráveis a uma intervenção militar, foi possível verificar a pauta da memória como mobilizadora daqueles que defendem a tutela militar como caminho para a manutenção da ordem. Esses atores foram aqui nomeados como \"intervencionistas\", adotando-se o termo pelo qual se autointitulam. Na pesquisa realizada foi possível identificar, no intervalo entre 2011 e 2019, as primeiras manifestações coletivas com pedidos de intervenção, em especial, na ocasião dos 50 anos da Marcha da Família com Deus pela Liberdade, com a reedição do evento em 2014. Apesar da relevância da efeméride, durante todo o período pesquisado foi identificada a disputa pela memória de 1964 como um elemento central da ação dos intervencionistas. Passado e presente se entrelaçam em expressões renovadas do nacionalismo autoritário, demonstrando como o olhar sobre a história pode constituir um centro simbólico de embate de visões de mundo e projetos de nação.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.11606/issn.2176-8099.pcso.2025.228118",
+     "doi": "10.11606/issn.2176-8099.pcso.2025.228118",
+     "paginas": "272-291",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.11606/issn.2176-8099.pcso.2025.235020",
+     "titulo": "Os espaços públicos da cidade e as meninas: reflexões etnográficas com um coletivo feminista estudantil",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Maria Eduarda de Moraes Torres",
+       "orcid": "https://orcid.org/0000-0003-0870-5841"
+      },
+      {
+       "nombre": "Alexandre Barbosa Pereira",
+       "orcid": "https://orcid.org/0000-0003-3977-1171"
+      }
+     ],
+     "resumen": "Este artigo objetiva refletir sobre as formas como as meninas experienciam espaços públicos da cidade. Para isso, parte-se de uma investigação etnográfica desenvolvida com um coletivo feminista situado em uma escola municipal de ensino fundamental na periferia da zona leste paulistana, no Cidade Líder. Primeiramente, são apresentadas reflexões sobre questões de gênero, curso da vida e o cotidiano das jovens e meninas na cidade para compreender as possibilidades e entraves nas suas relações com os espaços públicos. Além disso, análises sobre a escola e suas potencialidades para práticas político-pedagógicas relacionadas às violências de gênero e sexuais enfrentadas pelas meninas no contexto urbano são realizadas. Como uma experiência coletiva e feminista, o grupo apresenta possibilidades de enfrentamento de situações violentas vivenciadas nesses contextos. Nesse sentido, retoma-se o lugar da escola enquanto um espaço de discussões públicas, plurais e de oferecimento às jovens instrumentos e práticas para um fazer-cidade mais diverso.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.11606/issn.2176-8099.pcso.2025.235020",
+     "doi": "10.11606/issn.2176-8099.pcso.2025.235020",
+     "paginas": "292-310",
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.11606/issn.2176-8099.pcso.2025.223295",
+     "titulo": "Projetos de Lei Antifeministas na Câmara dos Deputados",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Kellen Carvalho de Sousa Brito",
+       "orcid": "https://orcid.org/0000-0003-3648-3983"
+      },
+      {
+       "nombre": "Olívia Cristina Perez",
+       "orcid": "https://orcid.org/0000-0001-9441-7517"
+      }
+     ],
+     "resumen": "Este artigo analisa os chamados antifeminismos com o objetivo de compreender os temas que guiam sua manifestação no Congresso Nacional brasileiro. Para tanto utilizamos metodologia qualitativa, com a técnica de análise documental de 34 Projetos de Lei (PLs) propostos na Câmara dos Deputados entre os anos de 2019 e 2022, cujo conteúdo era divergente às pautas feministas. Como resultado, as pautas mais comuns dos PLs versavam sobre utilizar o sexo biológico como critério em competições esportivas, impedir o uso de linguagem neutra e proibir o ensino sobre gênero nas escolas. A pesquisa assim contribui para a compreensão sobre o conservadorismo e as direitas em ascensão no Brasil, por meio das pautas que são chamadas contemporaneamente de antifeministas.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.11606/issn.2176-8099.pcso.2025.223295",
+     "doi": "10.11606/issn.2176-8099.pcso.2025.223295",
+     "paginas": "311-331",
+     "fuente": "Crossref"
+    }
+   ]
+  },
+  {
+   "id": "v32-n1-2025",
+   "volumen": "32",
+   "numero": "1",
+   "anio": 2025,
+   "fecha": "2025-08-01",
+   "etiqueta": "Vol. 32, núm. 1 (2025)",
+   "fuente": "Crossref",
+   "articulos": [
+    {
+     "id": "10.11606/issn.2176-8099.pcso.2025.214497",
+     "titulo": "A Guerra de Secessão (1861- 1865) e a crise no modo de produção",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Ingrid Daniely Vale dos Santos",
+       "orcid": "https://orcid.org/0009-0008-8024-3067"
+      }
+     ],
+     "resumen": "Resenha de MARX,Karl; ENGELS, Friedrich. A Guerra Civil dos Estados Unidos.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.11606/issn.2176-8099.pcso.2025.214497",
+     "doi": "10.11606/issn.2176-8099.pcso.2025.214497",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.11606/issn.2176-8099.pcso.2025.235608",
+     "titulo": "A cidade como corpo em palavra: fragmentos do agreste",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Itallo de Santana",
+       "orcid": "https://orcid.org/0000-0003-3018-486X"
+      }
+     ],
+     "resumen": "O artigo analisa cartas escritas por jovens do Agreste pernambucano como ferramenta metodológica e política de leitura das cidades onde vivem. A partir da atuação da LiACA – Liga Acadêmica de Estudos e Pesquisas Multidisciplinares das Cidades do Agreste – propõe-se uma abordagem qualitativa e afetiva da realidade urbana, a partir de metodologias como a cartografia afetiva e a escrita epistolar. As cartas revelam desigualdades, memórias, apagamentos e desejos, configurando uma contra-cartografia sensível das cidades. O objetivo é compreender como a escrita pode funcionar como forma de resistência e planejamento urbano insurgente. Os resultados demonstram que os jovens, ao nomearem suas cidades por meio da palavra, também se reconhecem como sujeitos urbanos, capazes de produzir conhecimento e reivindicar pertencimento. Conclui-se que a escrita é aqui um gesto de fundação do coletivo acadêmico por afetos, corpos e narrativas, desafiando a visão metodológica técnica-instrumental do planejamento urbano tradicional.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.11606/issn.2176-8099.pcso.2025.235608",
+     "doi": "10.11606/issn.2176-8099.pcso.2025.235608",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.11606/issn.2176-8099.pcso.2025.224323",
+     "titulo": "A perpetração do lawfare de gênero no Brasil: análise do caso Márcia Barbosa de Souza e outros vs. Brasil",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Desirée Costa Maués",
+       "orcid": "https://orcid.org/0000-0001-7464-5686"
+      },
+      {
+       "nombre": "Giovana Nogueira de Sousa",
+       "orcid": "https://orcid.org/0009-0007-9259-9725"
+      },
+      {
+       "nombre": "Manuela Bitar Lelis dos Santos Pickerell",
+       "orcid": "https://orcid.org/0000-0002-5277-4839"
+      }
+     ],
+     "resumen": "O presente artigo científico tem como objetivo analisar de que forma a discriminação de gênero é perpetuada a partir do Poder Judiciário, tendo como base o caso “Márcia Barbosa de Souza e outros vs. Brasil” para a análise do conceito de “lawfare de gênero”, cunhado por Isadora Dourado e Soraia Rosa Mendes (2022). Para tanto, foi utilizado o método indutivo de pesquisa e a técnica documental indireta, os quais possibilitaram constatar a universalização dos sujeitos nas instâncias judiciárias, ensejando a reprodução de ideais racistas e sexistas aos corpos que não se enquadram no padrão estipulado como “sujeito de direitos”, principalmente ao se tratar de mulheres negras em situações de violência. Observou-se que, não obstante a compreensão acerca do Poder Judiciário enquanto lócus de proteção dos direitos humanos, a sua atuação perante os casos envolvendo vítimas mulheres está envolta ao ataque das garantias e aos direitos assegurados pela legislação brasileira.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.11606/issn.2176-8099.pcso.2025.224323",
+     "doi": "10.11606/issn.2176-8099.pcso.2025.224323",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.11606/issn.2176-8099.pcso.2025.235014",
+     "titulo": "Entre o movimento e o confinamento: trajetórias de (i)mobilidades de jovens envolvidos no mercado varejista de drogas",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Kharine Gil",
+       "orcid": "https://orcid.org/0000-0003-2261-0064"
+      },
+      {
+       "nombre": "Palloma Valle Menezes",
+       "orcid": "https://orcid.org/0000-0002-8462-2549"
+      }
+     ],
+     "resumen": "No presente artigo, exploramos as relações entre mobilidade, crime e identidade, a partir das trajetórias de Lucas e Marcos, dois jovens que entraram para o comércio varejista de drogas durante a adolescência. Analisamos como o envolvimento com o tráfico limita as mobilidades pela cidade, impactando suas rotinas, possibilidades de lazer e construção identitária. O objetivo deste trabalho é observar as (i)mobilidades físicas que fazem parte da vida desses jovens. O estudo está organizado em quatro partes: na primeira, contextualizamos o ingresso de Lucas e Marcos no crime; em seguida, apresentamos como a facção é uma forma de vida que demanda lealdade e pertencimento, ao mesmo tempo que impõe restrições à circulação; na terceira parte, analisamos como o lazer está inserido na rotina desses jovens; ao final, vimos como a saída no crime pode representar ou não um aumento na mobilidade.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.11606/issn.2176-8099.pcso.2025.235014",
+     "doi": "10.11606/issn.2176-8099.pcso.2025.235014",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.11606/issn.2176-8099.pcso.2025.235660",
+     "titulo": "Juventudes e seus repertórios de luta: justiça climática e direito à cidade em contextos urbanos",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Isabela Carmo Cavaco",
+       "orcid": "https://orcid.org/0009-0001-3813-793X"
+      },
+      {
+       "nombre": "Pedro Henrique Campello Torres",
+       "orcid": "https://orcid.org/0000-0002-0468-4329"
+      }
+     ],
+     "resumen": "Este estudo investiga como jovens ativistas climáticos no Brasil e na Holanda constroem repertórios de ação, organização e ocupação do espaço urbano, articulando afetos, política e pertencimento em torno da justiça climática. Reconhecendo esse campo como disputado e atravessado por diferentes ideologias, a pesquisa dialoga com o direito à cidade a partir das experiências juvenis. A problemática aborda a escassa caracterização dos perfis desses jovens (raça, gênero, idade, origem), bem como suas motivações e formas de engajamento político. Parte-se da hipótese de que atuam em coletivos já estabelecidos no contexto urbano. A metodologia inclui revisão teórica, aplicação do Método Q com jovens brasileiros e observação participante nos Países Baixos. Os resultados mostram que, no Brasil, a justiça climática é vivida no cotidiano e atravessada por raça, território e gênero; na Holanda, prevalecem performances de protesto. Em ambos os países, os jovens subvertem formas hegemônicas de mobilidade e participação, reafirmando sua centralidade na luta por reconhecimento e direito à cidade.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.11606/issn.2176-8099.pcso.2025.235660",
+     "doi": "10.11606/issn.2176-8099.pcso.2025.235660",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.11606/issn.2176-8099.pcso.2025.234997",
+     "titulo": "Mapografias: arte, educação e resistência na produção de mapas com juventudes periféricas",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Carolina Clasen",
+       "orcid": "https://orcid.org/0000-0003-3859-4791"
+      },
+      {
+       "nombre": "Jorge Bassani",
+       "orcid": "https://orcid.org/0000-0001-8968-3255"
+      },
+      {
+       "nombre": "Analu Borges",
+       "orcid": "https://orcid.org/0000-0002-3961-4857"
+      },
+      {
+       "nombre": "Cauê Maia",
+       "orcid": "https://orcid.org/0000-0001-9144-4149"
+      }
+     ],
+     "resumen": "El artículo examina las metodologías de producción cartográfica participativa desarrolladas por el Grupo de Estudios de Mapografía Urbana (GeMAP/FAUUSP) con jóvenes en la Isla de Bororé y en el Jardim das Gaivotas, en la Zona Sur de São Paulo. El objetivo es discutir cómo las prácticas artísticas y educativas articulan la cartografía afectiva y el compromiso político de los jóvenes de la periferia, resignificando espacios públicos desatendidos. El análisis incluye intervenciones urbanas, como la creación colectiva de murales de memoria y rutas paisajísticas que ponen de relieve las contradicciones entre la preservación del medio ambiente y la marginación socioespacial. Métodos colaborativos como los talleres de cartografía colaborativa hacen hincapié en la construcción de narrativas locales, traducidas en mapas táctiles y proyecciones luminosas. El",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.11606/issn.2176-8099.pcso.2025.234997",
+     "doi": "10.11606/issn.2176-8099.pcso.2025.234997",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.11606/issn.2176-8099.pcso.2025.230889",
+     "titulo": "Militares e militância",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Felipe Ramos Garcia",
+       "orcid": "https://orcid.org/0000-0001-9767-1449"
+      }
+     ],
+     "resumen": "Resenha do livro \"Militares e militância, um relação dialeticamente conflituosa\".",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.11606/issn.2176-8099.pcso.2025.230889",
+     "doi": "10.11606/issn.2176-8099.pcso.2025.230889",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.11606/issn.2176-8099.pcso.2025.215113",
+     "titulo": "O retrato despedaçado da branquitude: raça e ficção em O último Homem Branco",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Anderson dos Santos Cordeiro",
+       "orcid": "https://orcid.org/0000-0003-2903-9294"
+      }
+     ],
+     "resumen": "Esta revisión busca resaltar en el libro recientemente publicado The Last White Man (2023), del intelectual y escritor paquistaní Mohsin Hamid, el debate sobre las relaciones de poder y las relaciones étnico-raciales, en el contexto de la blancura y los estudios críticos sobre la raza. A partir de la revisión, se buscará mostrar las cuestiones relevantes en línea entre el campo de estudios sobre la blanquitud y la literatura.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.11606/issn.2176-8099.pcso.2025.215113",
+     "doi": "10.11606/issn.2176-8099.pcso.2025.215113",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.11606/issn.2176-8099.pcso.2025.235033",
+     "titulo": "Os “jovens do projeto”: sociabilidades e experiências juvenis no contexto de uma política pública",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Isabelle Melo Rocha",
+       "orcid": "https://orcid.org/0000-0002-7899-5146"
+      },
+      {
+       "nombre": "Isaurora Cláudia Martins de Freitas",
+       "orcid": "https://orcid.org/0000-0001-7185-2057"
+      },
+      {
+       "nombre": "Alexandre Almeida Barbalho",
+       "orcid": "https://orcid.org/0000-0003-4612-6162"
+      }
+     ],
+     "resumen": "Este artigo investiga as interações sociais, práticas culturais e percepções espaciais dos jovens do bairro Novo Recanto, em Sobral-CE, onde funciona a Estação da Juventude, uma política federal voltada para essa população. A pesquisa adota uma abordagem etnográfica, utilizando diários de campo, fotografia e rodas de conversa, construindo metodologias em diálogo com os próprios jovens. O estudo busca compreender as culturas juvenis a partir do cotidiano dos sujeitos, superando os estereótipos sobre a juventude no interior nordestino. A análise revela que a experiência de ser jovem está profundamente ligada ao território e às relações afetivas construídas no bairro. A Estação da Juventude emerge como um espaço central de sociabilidade, tornando-se uma referência identitária para esses jovens.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.11606/issn.2176-8099.pcso.2025.235033",
+     "doi": "10.11606/issn.2176-8099.pcso.2025.235033",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.11606/issn.2176-8099.pcso.2025.226366",
+     "titulo": "Outras regras da arte",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Gabriel Cardoso Gonzaga",
+       "orcid": "https://orcid.org/0000-0001-7860-4988"
+      }
+     ],
+     "resumen": "Resenha do livro The global rules of art de Larissa Buchholz. Nesse livro, publicado em 2022, nove anos depois de a autora defender sua tese homônima na Universidade de Columbia, Buchholz analisa as transformações recentes da arte contemporânea por meio da noção de campo de Pierre Bourdieu. Reconstruindo as duas últimas décadas do século passado e a primeira do século XXI, Larissa capta o desenvolvimento de um campo global da arte pela articulação de uma análise estrutural do campo (macro), de um conjunto amplo de trajetórias (meso) e pela o exame detido de duas trajetórias artísticas específicas (micro). Outro objetivo do livro é analisar a correlação (ou a ausência dela) entre a internacionalização do campo e o aumento da diversidade (sobretudo, de origem nacional) dos artistas que integram esse campo, muitas vezes expresso no discurso produzido pelo campo. O livro se inscreve tanto nos estudos recentes sobre transnacionalização de fenômenos culturais quanto na sociologia da arte e da cultura contemporâneas.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.11606/issn.2176-8099.pcso.2025.226366",
+     "doi": "10.11606/issn.2176-8099.pcso.2025.226366",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.11606/issn.2176-8099.pcso.2025.239654",
+     "titulo": "Por uma micropolítica dos afetos urbanos: juventudes e o direito à cidade",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "João Batista de Menezes Bittencourt",
+       "orcid": "https://orcid.org/0000-0001-8635-3998"
+      },
+      {
+       "nombre": "Glória Diógenes",
+       "orcid": "https://orcid.org/0000-0002-7494-8553"
+      }
+     ],
+     "resumen": "Presentación del Dossier Territorios de la Juventud: Conexiones entre Ciudad, Política y Afecto",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.11606/issn.2176-8099.pcso.2025.239654",
+     "doi": "10.11606/issn.2176-8099.pcso.2025.239654",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.11606/issn.2176-8099.pcso.2025.234984",
+     "titulo": "Práticas espaciais e grafias da juventude no espaço: Inventário dos graffitis no viaduto Arquiteto Hélio Fadel em Juiz de Fora – MG",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Clarice Cassab",
+       "orcid": "https://orcid.org/0000-0003-0884-5078"
+      }
+     ],
+     "resumen": "O trabalho pretende reconhecer a presença das juventudes na paisagem da cidade através da identificação de suas grafias. Expressões de práticas que grafam o espaço e desenham na paisagem da cidade a presença e a existência de sujeitos muitas vezes invisibilizados na cidade desigual. Apresentaremos o esforço de reconhecimento da presença e ação desta juventude a partir da identificação e inventário dos graffitis existentes na ocupação realizada pelo Coletivo Espaço Hip Hop na cidade em um vão de um viaduto central na cidade de Juiz de Fora, Zona da Mata Mineira. Entendemos os graffitis marcam a paisagem ao produzirem o espaço através de práticas espaciais que são fortemente atravessadas pela condição juvenil.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.11606/issn.2176-8099.pcso.2025.234984",
+     "doi": "10.11606/issn.2176-8099.pcso.2025.234984",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.11606/issn.2176-8099.pcso.2025.225591",
+     "titulo": "Reflexões etnográficas sobre o trabalho marítimo",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Tarik Dias Hamdan",
+       "orcid": "https://orcid.org/0000-0001-8662-396X"
+      }
+     ],
+     "resumen": "Resenha de Sea-Time: An Ethnographic Adventure.Abingdon, Oxon; New York:Routledge, 2024, SAMPSON,Helen. Sea-Time: An Ethnographic Adventure.Abingdon, Oxon; New York:Routledge, 2024.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.11606/issn.2176-8099.pcso.2025.225591",
+     "doi": "10.11606/issn.2176-8099.pcso.2025.225591",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.11606/issn.2176-8099.pcso.2025.235012",
+     "titulo": "Stickers arts: sobre adesivos, arte, corpo feminino e a rua",
+     "idioma_titulo": null,
+     "autores": [
+      {
+       "nombre": "Thaisa da Silva Ferreira",
+       "orcid": "https://orcid.org/0000-0002-8564-5320"
+      },
+      {
+       "nombre": "Camila Fernandes Nastari",
+       "orcid": "https://orcid.org/0000-0002-4430-604X"
+      },
+      {
+       "nombre": "Alice Castro Cardoso",
+       "orcid": "https://orcid.org/0009-0007-7405-0376"
+      }
+     ],
+     "resumen": "Este artigo explora como a arte em adesivos (stickerart) se configura como uma forma de ocupação política e simbólica dos espaços urbanos por corpos femininos. A pesquisa foi conduzida por meio de um processo etnográfico, que incluiu entrevistas, diálogos e observação participante em eventos de arte urbana realizados em São Paulo, Uberlândia e Goiânia, entre os anos de 2013 e 2024. Argumentamos que a arte em adesivos representa uma forma de intervenção estética e política que que provoca reflexão e pode ampliar a visibilidade de temas como a arte, corpo e cidade entre transeuntes. Embora a arte urbana seja frequentemente caracterizada como efêmera e marginalizada, este estudo destaca que ela constitui um canal potente de ressignificação dos espaços plúblicos e privados, além de fortalecer narrativas femininas nas cidades.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.11606/issn.2176-8099.pcso.2025.235012",
+     "doi": "10.11606/issn.2176-8099.pcso.2025.235012",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.11606/issn.2176-8099.pcso.2025.235235",
+     "titulo": "Território em disputas: experiências juvenis no bairro do Engenho Velho da Federação",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Gabriela Machado Bacelar Rodrigues",
+       "orcid": "https://orcid.org/0000-0002-5242-9621"
+      },
+      {
+       "nombre": "Milton Júlio de Carvalho Filho",
+       "orcid": "https://orcid.org/0000-0002-7467-4097"
+      }
+     ],
+     "resumen": "O artigo analisa as dinâmicas sociais do bairro Engenho Velho da Federação, uma comunidade periférica de Salvador, com ênfase nas experiências da juventude diante das transformações urbanas e da presença do tráfico de drogas. A partir de uma abordagem etnográfica e de entrevistas com quinze estudantes do Colégio Estadual Henriqueta Martins Catarino, localizado no bairro, investiga-se como os jovens negociam sua presença no território, lidando com disputas territoriais e simbólicas, violências e oportunidades limitadas. O estudo também discute a relação entre o tráfico e as formas de sociabilidade locais, analisando como essas dinâmicas moldam as trajetórias juvenis, a construção de identidades e as possibilidades de agência dentro da comunidade. Além disso, examina-se o papel das instituições religiosas e das relações intergeracionais na mediação de conflitos e na produção de alternativas narrativas e experienciais. Dessa forma, esse trabalho busca compreender os múltiplos desafios enfrentados pela juventude periférica e as estratégias cotidianas de resistência e pertencimento no território.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.11606/issn.2176-8099.pcso.2025.235235",
+     "doi": "10.11606/issn.2176-8099.pcso.2025.235235",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.11606/issn.2176-8099.pcso.2025.234992",
+     "titulo": "“A cidade de São Paulo como ela realmente é”: engajamentos afetivos e coletivos em uma etnografia do fazer-cidade entre jovens negros",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Alef Diogo da Silva Santana",
+       "orcid": "https://orcid.org/0000-0001-8165-6412"
+      }
+     ],
+     "resumen": "A cidade de São Paulo é frequentemente descrita como uma metrópole de contrastes sociais, mas este trabalho propõe uma abordagem centrada nos espaços-territórios da cidade, com um olhar analítico para as afetividades e as comunidades que os compõem, visto que muitas vezes esta perspectiva é negligenciada nas discussões sobre territórios e experiências de jovens negros. Através de uma etnografia, busca-se analisar como as mobilizações afetivas e coletivas em certos territórios da cidade de São Paulo contribuem para o fortalecimento das identidades dos indivíduos envolvidos, ressignificando suas relações com a cidade por meio da cultura, solidariedade e da luta por territórios e narrativas historicamente marginalizadas. O trabalho de campo foi realizado entre 2021 e 2023, e resulta da minha tese de doutorado. Observação-participante e diário de campo, tradições consagradas no campo da antropologia, foram empregadas na realização do trabalho de campo. Por fim, os dados etnográficos destacam que o Coletivo da Quebrada e o Bar Ovo, espaços-territórios centrais nesta etnografia, realçam a cidade como um campo de disputa, onde o engajamento coletivo e a ressignificação desses espaços afirmam identidades marginalizadas e garantem o direito à cidade, criando redes de pertencimento, acolhimento e solidariedade.",
+     "idioma_resumen": "pt",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.11606/issn.2176-8099.pcso.2025.234992",
+     "doi": "10.11606/issn.2176-8099.pcso.2025.234992",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.11606/issn.2176-8099.pcso.2025.235035",
+     "titulo": "“Pra ensinar meus camarada”: juventudes, periferias e uma pedagogia de vagalumes",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Carlos Bonfim",
+       "orcid": "https://orcid.org/0000-0002-0073-3875"
+      }
+     ],
+     "resumen": "While for most of our history, peripheries and favelas have been perceived and above all produced through the prism of deprivation, the last few decades have seen a substantial change in approaches to these territories. The dynamics that take place in these so-called social subsoils of our cities, as well as the way in which the inhabitants of these territories perceive themselves and position themselves in the world, have called into question the various stigmas from which these territories and those who live there used to be read. Based on a mapping of youth initiatives in art and communication on the outskirts of Salvador, Bahia, this article proposes an approach to the work being done by these young people whose interventions show a vigorous and powerful cultural offensive, rather than reactive resistance.",
+     "idioma_resumen": "en",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.11606/issn.2176-8099.pcso.2025.235035",
+     "doi": "10.11606/issn.2176-8099.pcso.2025.235035",
+     "paginas": null,
+     "fuente": "Crossref"
+    },
+    {
+     "id": "10.11606/issn.2176-8099.pcso.2025.235036",
+     "titulo": "“This is Maré”: dança e performance como estratégias de representação e resistência de jovens periféricos em um ambiente necropolítico",
+     "idioma_titulo": "pt",
+     "autores": [
+      {
+       "nombre": "Henrique Ferreira da Silva",
+       "orcid": "https://orcid.org/0000-0002-6658-4577"
+      },
+      {
+       "nombre": "Michele Doris Castro",
+       "orcid": "https://orcid.org/0009-0004-2281-6120"
+      },
+      {
+       "nombre": "Deivison Moacir Cezar de Campos",
+       "orcid": "https://orcid.org/0000-0001-9928-9825"
+      }
+     ],
+     "resumen": "Este artículo investiga las intersecciones entre la juventud negra, el arte, la cultura y la violencia, analizando sus implicaciones para la construcción de conocimiento y las representaciones de la juventud en las favelas. Se fundamenta en el marco teórico postestructuralista de los Estudios Culturales, utilizando los conceptos de pedagogías de la muerte y la resistencia, la juventud negra, la performance, el territorio y la necropolítica como herramientas analíticas centrales. El objetivo es examinar cómo la juventud del Complexo da Maré se apropia del arte y la danza como prácticas pedagógicas, lo que facilita la construcción y expresión de nuevas formas de conocimiento. La investigación se basa en autores como Hall (2008), Mbembe (2018), Camozzato y Costa (2013). El material empírico —el videoclip THIS IS MARÉ, producido por el grupo Dance Maré y estrenado en mayo de 2024— se analiza mediante etnografía cinematográfica (Balestrin y Soares, 2017), lo que permite explorar cómo la performance visual y digital contribuye a la producción de contranarrativas sobre la territorialidad. Los resultados indican que la danza y el arte emergen como formas de resistencia, resignificando la vida en la favela y amplificando discursos que desafían las representaciones hegemónicas de la juventud negra periférica.",
+     "idioma_resumen": "es",
+     "licencia": {
+      "nombre": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
+     },
+     "url": "https://doi.org/10.11606/issn.2176-8099.pcso.2025.235036",
+     "doi": "10.11606/issn.2176-8099.pcso.2025.235036",
+     "paginas": null,
+     "fuente": "Crossref"
+    }
+   ]
+  }
+ ]
+};
